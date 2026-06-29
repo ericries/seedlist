@@ -2170,6 +2170,9 @@ priority:
   type: startup
   reason: New profile for $380M Series D (2026-06-22, Fidelity-led)
   added: '2026-06-22'
+  status: resolved
+  resolved: '2026-06-29'
+  resolution_note: 'Verified Nearfield Instruments $380M Series D announced 2026-06-22 at $1.6B post-money, led by Fidelity Management & Research Company, with Temasek, Walden Catalyst Ventures, Innovation Industries, M&G Investments, Invest-NL, Qatar Investment Authority, TNO Ventures, and ING participating, via 3 primary sources already in profile: BusinessWire press release [^1], Tech.eu [^2], and SiliconANGLE [^3]. Largest deep-tech round in Dutch history. Added 2 investor quotes (Young Sohn of Walden Catalyst; Niranjan Sirdeshpande of M&G Investments) to What Investors Say section from the BusinessWire release.'
 - slug: bionyra-pharma
   type: startup
   reason: New profile for $165M Series A (2026-06-22, Sofinnova/Jeito-led)
@@ -2506,7 +2509,20 @@ priority:
   type: firm
   reason: "participant via a16z Bio+Health in Ollin Biosciences Series B ($330M oversubscribed, 2026-06-23)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified a16z Bio+Health participated in Ollin Biosciences $330M Series B announced 2026-06-23 (oversubscribed, co-led by TCGX and ARCH Venture Partners) via 3 independent primary sources: BusinessWire press release [^93], BioSpace [^94], and PR Newswire (Innovent partner release) [^95] (newly added as 3rd citation). Full participant list: a16z Bio+Health, Blackstone Multi-Asset Investing, Commodore Capital, CPP Investments, RA Capital Management, T. Rowe Price Investment Management, Mubadala Capital (co-founding investor), Monograph Capital (co-founding investor), unnamed sovereign wealth fund. Added Jason Ehrlich CEO quote to ollin-biosciences.md What Founders Say section from the press release."
 - slug: pitango-venture-capital
   type: firm
   reason: "existing investor in AppsFlyer Series E ($1B+ at $2.7B valuation, 2026-06-22)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Pitango as existing institutional shareholder in AppsFlyer $1B+ Series E announced 2026-06-22 at $2.7B post-money via 3 independent primary sources: Axios [^56], Calcalist/CTech [^57] (newly added), and Crunchbase News [^58] (newly added). New strategic minority investors: Google, Meta, Unity, Moloco. Other existing backers per CTech: General Atlantic (~15-20%), Goldman Sachs, Salesforce Ventures, Magma Venture Partners, Qumra Capital, DTCP, Eight Roads. Company plans IPO; reported $500M ARR. Pitango portfolio row citation count went from 1 to 3."
+- slug: nearfield-instruments
+  type: startup
+  reason: "fact-check sweep on $380M Series D (2026-06-22, Fidelity-led)"
+  added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: "Verified Nearfield Instruments $380M Series D announced 2026-06-22 at $1.6B post-money valuation, led by Fidelity Management & Research Company, with Temasek, Walden Catalyst Ventures, Innovation Industries, M&G Investments, Invest-NL, Qatar Investment Authority (new), TNO Ventures (existing), and ING (existing) participating, via 4 independent primary sources: BusinessWire press release [^1], Tech.eu [^2], SiliconANGLE [^3], and Nearfield's own company announcement page (cross-confirmed via WebFetch, not added as separate citation since press release is the same source). Added 2 investor quotes from the BusinessWire press release: Young Sohn (Walden Catalyst Founding Managing Partner) on advanced metrology as 'essential enablers of the next generation of chip innovation,' and Niranjan Sirdeshpande (M&G Investments Head of Catalyst) on next-gen nodes and 3D integration. Largest deep-tech round in Dutch history. Updated last_researched to 2026-06-29."

@@ -15,7 +15,7 @@ founders:
   - name: "Hamed Sadeghian"
     role: "Co-Founder & CEO"
 status: published
-last_researched: '2026-06-22'
+last_researched: '2026-06-29'
 ---
 
 ## About
@@ -32,7 +32,9 @@ The Series D values the company at approximately $1.6B post-money and is describ
 
 ## What Investors Say
 
-No investor quotes were published in the announcement coverage at this time.
+> "Advanced metrology and inspection will become essential enablers of the next generation of chip innovation." — Young Sohn, Founding Managing Partner, Walden Catalyst Ventures, in the Nearfield Instruments Series D press release, June 22, 2026 [^1]
+
+> "Nearfield's innovative metrology platform directly addresses the process control challenges that advanced chipmakers face as they push toward next-generation nodes and 3D integration architectures." — Niranjan Sirdeshpande, Head of Catalyst, M&G Investments, in the Nearfield Instruments Series D press release, June 22, 2026 [^1]
 
 ## What Founders Say
 

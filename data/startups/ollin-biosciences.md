@@ -37,7 +37,7 @@ No independently sourced investor quotes found at the time of this round announc
 
 ## What Founders Say
 
-No independently sourced founder quotes found at the time of this round announcement.
+> "We are delighted to welcome a premier syndicate of new and existing investors who share our vision of advancing OLN324 as a potential new standard of care in retinal vascular disease." — Jason Ehrlich, M.D., Ph.D., Co-Founder and CEO, Ollin Biosciences, in the Innovent partner press release, June 23, 2026 [^4]
 
 ## Sources
 
