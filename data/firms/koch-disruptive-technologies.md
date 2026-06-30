@@ -136,6 +136,7 @@ Based on 67 verified portfolio companies listed on KDT's website [^5]:
 | Outrider | Series D | 2024-10-24 | Supply Chain / Autonomous Yard | [^19] |
 | Rhino.ai | Series A | 2025-01-21 | Enterprise Software / AI | [^8] |
 | Lucidean | Seed | 2025-12-23 | Semiconductors / Optical | [^9] |
+| Orderful | Series C (lead, $35M with NewRoad Capital) | 2026-06-24 | SaaS / Supply Chain / EDI / AI | [^21][^22] |
 | Alkira | ~2020 | -- | Connectivity / Cloud Networking | [^5] |
 | Automox | ~2020 | -- | Cybersecurity / Endpoint | [^5] |
 | Beyond Identity | ~2020 | -- | Cybersecurity / Identity | [^5] |
@@ -245,3 +246,7 @@ This table represents 67 companies from KDT's website portfolio page. KDT claims
 [^18]: BusinessWire, "Rivos Raises More Than $250M Targeting Data Analytics and Generative AI Markets," April 16, 2024. https://www.businesswire.com/news/home/20240416215878/en/Rivos-Raises-More-Than-250M-Targeting-Data-Analytics-and-Generative-AI-Markets
 [^19]: Outrider press release, "Outrider closes $62 million Series D financing to drive growth of yard automation," October 2024. https://www.outrider.ai/press-releases/outrider-closes-62-million-series-d-financing-to-drive-growth-of-yard-automation/
 [^20]: BetaKit, "Gatik raises $107 million CAD Series B round, announces Texas expansion," August 31, 2021. https://betakit.com/gatik-raises-107-million-cad-series-b-round-announces-texas-expansion/
+
+[^21]: National Law Review (press release), "Orderful Raises $35 Million Series C to Grow AI-Native EDI Infrastructure and Expand Global Trading Partner Network," June 24, 2026. Accessed June 2026. https://natlawreview.com/press-releases/orderful-raises-35-million-series-c-grow-ai-native-edi-infrastructure-and — Confirms KDT led $35M Series C with NewRoad Capital co-leading; quote from Jon Chisholm (KDT Managing Director).
+
+[^22]: SiliconANGLE, "Orderful nabs $35M to streamline supply chain data management," June 23, 2026. Accessed June 2026. https://siliconangle.com/2026/06/23/orderful-nabs-35m-streamline-supply-chain-data-management/ — Independent confirmation of KDT-led Series C.

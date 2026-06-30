@@ -207,8 +207,9 @@ The following table includes notable investments verified through multiple sourc
 | Poetic | Series A (lead, $50M at $500M post-money) | 2026-06-10 | AI / Enterprise Automation | Private [^50][^51][^52] |
 | CuspAI | Growth (co-lead with Bezos Expeditions, $400M at $2.6B valuation) | 2026-06-17 | AI / Materials Discovery | Private [^53][^54][^55] |
 | Mirendil | Seed (co-led with Andreessen Horowitz, $200M at ~$1B valuation; NVIDIA participated) | 2026-06-24 | AI / AI Research Automation / Foundation Models | Private [^56][^57][^58] |
+| Allium | Series B (participated, $40M led by Amplify Partners; with Theory Ventures) | 2026-06-23 | Fintech / Blockchain / Data Infrastructure | Private [^59][^60] |
 
-*Note: This table includes 63 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
+*Note: This table includes 64 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
 ## In Their Own Words
 
@@ -376,3 +377,7 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^57]: The SaaS News, "Mirendil Raises $200M Seed," June 24, 2026. Accessed June 2026. https://www.thesaasnews.com/news/mirendil-raises-200m-seed/ — Independently confirms Kleiner Perkins and Andreessen Horowitz co-led Mirendil's $200M seed on June 24, 2026.
 
 [^58]: Unite.AI, "Former Anthropic Researchers Launch Mirendil at $1 Billion Valuation With $200M Seed Round," June 25, 2026. Accessed June 2026. https://www.unite.ai/former-anthropic-researchers-launch-mirendil-at-1-billion-valuation-with-200-m-seed-round/ — Third independent primary source confirms Andreessen Horowitz and Kleiner Perkins co-led Mirendil's $200M seed at $1B valuation; NVIDIA participated. Founding team of 20 includes researchers from Anthropic, xAI, Google DeepMind, and OpenAI.
+
+[^59]: Fortune, "Exclusive: Crypto analytics startup Allium raises $40 million to tame blockchain data for Wall Street," June 23, 2026. Accessed June 2026. https://fortune.com/2026/06/23/allium-series-b-amplify-partners-crypto-analytics-startups/ — Confirms Kleiner Perkins participated alongside lead Amplify Partners and Theory Ventures in Allium's $40M Series B.
+
+[^60]: SiliconANGLE, "Blockchain data provider Allium raises $40M in funding," June 23, 2026. Accessed June 2026. https://siliconangle.com/2026/06/23/blockchain-data-provider-allium-raises-40m-funding/ — Independent confirmation of Kleiner Perkins participating in Allium's $40M Series B led by Amplify Partners.

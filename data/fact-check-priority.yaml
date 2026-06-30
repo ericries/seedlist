@@ -2633,3 +2633,11 @@ priority:
   status: resolved
   resolved: 2026-06-30
   resolution_note: "Verified Better Tomorrow Ventures participation in Nebex $30M Seed on 2026-06-29 (GV-led) via 3 independent primary sources (BusinessWire press release [^17], AlleyWatch [^18], TheNextWeb [^19] — newly added as 3rd tier-1 citation). Nebex portfolio row already present; added TheNextWeb as 3rd citation. BTV continues to back fintech-adjacent infrastructure plays — Nebex is a fintech for the space economy enabling cross-border payments and sovereign deal flow."
+- slug: kleiner-perkins
+  type: firm
+  reason: "participated in Allium Series B ($40M, 2026-06-23) led by Amplify Partners"
+  added: 2026-06-30
+- slug: koch-disruptive-technologies
+  type: firm
+  reason: "led Orderful Series C ($35M, 2026-06-24) for AI-native EDI infrastructure"
+  added: 2026-06-30
