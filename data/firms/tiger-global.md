@@ -213,6 +213,7 @@ The following table includes Tiger Global private investments verified through C
 | Duolingo | Growth | ~2020 | EdTech / Consumer | Public (IPO 2021) [^8] |
 | Uber | Growth | ~2017 | Consumer / Ride-hailing | Public (IPO 2019) [^2] |
 | IrokoTV | Growth | ~2012 | Consumer / Streaming (Africa) | Private [^16] |
+| Upscale AI | Series A-1 (existing investor; Premji Invest-led, $190M at $2B post-money) | 2026-06-22 | AI / Networking Infrastructure | Private [^23][^24][^25] |
 
 *Note: This table includes 36 companies out of ~790 active portfolio companies (~5%). Many investment years are approximate, marked with "~", where exact dates are not publicly confirmed. Tiger Global frequently participates in multiple rounds of the same company; the stage listed reflects the first or most significant known investment.*
 
@@ -313,3 +314,9 @@ The same founder later reflected on the downturn: "Too much money fucked us, bas
 [^21]: "Tiger Global Management." CB Insights. https://www.cbinsights.com/investor/tiger-global-management. Accessed March 2026.
 
 [^22]: "How Tiger Global, one of the biggest backers of startups over the past decade, fell to earth." Fortune (via Yahoo Finance), September 2023. https://finance.yahoo.com/news/tiger-global-one-biggest-backers-110000483.html. Accessed March 2026.
+
+[^23]: BusinessWire, "Upscale AI Adds $190 Million in Extension to Series A, Reaching Half-Billion Dollars in Total Funding," June 22, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260618053226/en/Upscale-AI-Adds-$190-Million-in-Extension-to-Series-A-Reaching-Half-Billion-Dollars-in-Total-Funding — Primary press release listing Tiger Global as returning/existing investor in the $190M Series A-1 led by Premji Invest at $2B post-money valuation. Other new investors: NVIDIA, Salesforce Ventures, Seligman Ventures, Temasek. Other existing investors: Maverick Silicon, Mayfield, Prosperity7 Ventures, StepStone Group.
+
+[^24]: Fortune, "Exclusive: Upscale AI wants to be the next Cisco—and it just raised another $190 million," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/ — Term Sheet exclusive confirming Premji Invest-led $190M Series A-1 with Tiger Global among returning backers; total funding reaches $500M.
+
+[^25]: Pulse 2.0, "Upscale AI Raises $190 Million Series A-1 At $2 Billion Valuation For AI Networking Infrastructure," June 22, 2026. Accessed June 2026. https://pulse2.com/upscale-ai-raises-190-million-series-a-1-at-2-billion-valuation-for-ai-networking-infrastructure-company/ — Independent confirmation of Premji Invest-led $190M Series A-1 with Tiger Global as existing investor.

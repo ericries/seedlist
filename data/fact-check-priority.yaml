@@ -2602,19 +2602,34 @@ priority:
   type: firm
   reason: "participated in Upscale AI Series A-1 ($190M, 2026-06-22)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Tiger Global participation as returning/existing investor in Upscale AI $190M Series A-1 on 2026-06-22 (Premji Invest-led at $2B post-money) via 3 independent primary sources (BusinessWire press release [^23], Fortune exclusive [^24], Pulse 2.0 [^25]). Added Upscale AI portfolio row to tiger-global.md with all 3 citations [^23][^24][^25]. Other new participants: NVIDIA, Salesforce Ventures, Seligman Ventures, Temasek. Other existing: Maverick Silicon, Mayfield, Prosperity7 Ventures, StepStone Group. Total funding now $500M."
 - slug: mayfield-fund
   type: firm
   reason: "led Hang Ten Systems Seed ($32M, 2026-06-24)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Mayfield led Hang Ten Systems $32M Seed on 2026-06-24 via 4 independent primary sources (Yahoo/BusinessWire press release [^28], The SaaS News [^29], Crypto Briefing [^30], TechCrunch/Jagmeet Singh [^31] — newly added as 4th tier-1 citation). Hang Ten Systems portfolio row already present; added TechCrunch as 4th citation. Confirmed Aramco Ventures strategic participation plus angel investors. Vishal Sikka (former Infosys CEO) is the founder; Jerry Yang (Yahoo co-founder) on board. Customers include Fresenius and Siemens Energy. Added Navin Chaddha quote (Traditional services scale linearly with headcount; Hang Ten leverage grows with every project)."
 - slug: navin-chaddha
   type: investor
   reason: "led Hang Ten Systems Seed ($32M, 2026-06-24) via Mayfield"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Navin Chaddha led Hang Ten Systems $32M Seed via Mayfield on 2026-06-24 via 4 independent primary sources (Yahoo/BusinessWire [^13], The SaaS News [^14], Crypto Briefing [^15], TechCrunch/Jagmeet Singh [^16] — newly added). last_verified_investment already set to Hang Ten Systems 2026-06-24. Added TechCrunch as 4th tier-1 citation strengthening the row. Chaddha is Vishal Sikka's Stanford classmate per Crypto Briefing."
 - slug: gv
   type: firm
   reason: "led Nebex Seed ($30M, 2026-06-29) for space economy fintech"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified GV led Nebex $30M Seed on 2026-06-29 via 3 independent primary sources (BusinessWire press release [^nebex1], Crypto Briefing [^nebex2], TheNextWeb [^nebex3] — newly added as 3rd tier-1 citation). Nebex portfolio row already present; added TheNextWeb as 3rd citation. Confirmed participants: Eniac Ventures, 2048 Ventures, Better Tomorrow Ventures, Oceans Ventures, AIN Ventures, Also Capital, Anagram, Armory Square Ventures, Multiball Capital, Trajectory Capital, VSC Ventures. Founder Tejpaul Bhatia (former Axiom Space CEO); co-founders Anand Subramanian and Manlio Di Stefano (former Vice Minister of Foreign Affairs of Italy). Erik Nordlander quote: Tejpaul is a rare founder who actually knows how to move fast in a heavy, high-friction industry like space."
 - slug: better-tomorrow-ventures
   type: firm
   reason: "participated in Nebex Seed ($30M, 2026-06-29)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Better Tomorrow Ventures participation in Nebex $30M Seed on 2026-06-29 (GV-led) via 3 independent primary sources (BusinessWire press release [^17], AlleyWatch [^18], TheNextWeb [^19] — newly added as 3rd tier-1 citation). Nebex portfolio row already present; added TheNextWeb as 3rd citation. BTV continues to back fintech-adjacent infrastructure plays — Nebex is a fintech for the space economy enabling cross-border payments and sovereign deal flow."

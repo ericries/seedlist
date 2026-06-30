@@ -111,7 +111,7 @@ Based on 28 verified investments below (18 IPOs and 10 acquisitions identified b
 | Docket | Seed | ~2024 | AI/Sales | Active | [^4] |
 | Balbix | Early | ~2017 | AI/Security | Active | [^4] |
 | Sekai | Seed (lead) | 2026 | AI/Consumer | Active | [^12] |
-| Hang Ten Systems | Seed (Mayfield led, $32M) | 2026-06-24 | AI/Enterprise Services | Active | [^13][^14][^15] |
+| Hang Ten Systems | Seed (Mayfield led, $32M) | 2026-06-24 | AI/Enterprise Services | Active | [^13][^14][^15][^16] |
 
 *This table represents 29 of 60+ known investments. Investment years marked with ~ are approximate based on company founding dates or public reporting; exact investment dates were not independently verified for all entries.*
 
@@ -157,3 +157,5 @@ No additional independently sourced founder testimonials found beyond Mayfield's
 [^14]: The SaaS News, "Hang Ten Systems Raises $32M Seed," June 24, 2026. Accessed June 2026. https://www.thesaasnews.com/news/hang-ten-systems-raises-32m-seed/ — Confirms Mayfield-led $32M seed with Aramco Ventures participation.
 
 [^15]: Crypto Briefing, "Hang Ten Systems raises $32M to disrupt IT services with AI," June 24, 2026. Accessed June 2026. https://cryptobriefing.com/hang-ten-systems-raises-32m-ai-services/ — Notes Mayfield's Navin Chaddha is Vishal Sikka's Stanford classmate.
+
+[^16]: TechCrunch (Jagmeet Singh), "Former Infosys chief has a new startup that wants to challenge the IT services world," June 24, 2026. Accessed June 2026. https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/ — Tier-1 press confirmation of $32M Mayfield-led seed; Chaddha quote on services scaling.
