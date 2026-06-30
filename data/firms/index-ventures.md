@@ -153,7 +153,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | NewCore | Pre-Seed (co-led with Cyberstarts, $16M of $66M total) | 2026-06-15 | Cybersecurity / Agentic Identity | [^58][^59][^60] |
 | Conduct | Series A (co-led with ICONIQ, $60M; SAP strategic; Creandum, Lucid Capital, Booom participated) | 2026-06-17 | AI / Enterprise Operating System / SAP | [^61][^62][^63] |
 | Fomo | Series B (led, $75M at ~$550M val) | 2026-06-22 | Fintech / Crypto / Consumer Trading | [^64][^65][^66][^67] |
-| Build | Seed (led, $8.5M) | 2026-06-30 | AI / Proptech / Agentic Real Estate | [^68][^69] |
+| Build | Seed (led, $8.5M) | 2026-06-30 | AI / Proptech / Agentic Real Estate | [^68][^69][^70] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -276,4 +276,6 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^68]: EU-Startups, "British-U.S. startup Build secures €7.4 million to accelerate 'agentic real estate' platform," June 30, 2026. Accessed June 2026. https://www.eu-startups.com/2026/06/british-u-s-startup-build-secures-e7-4-million-to-accelerate-agentic-real-estate-platform/ — Confirms Index Ventures led Build's $8.5M Seed (€7.4M equivalent) on June 30, 2026 with Pebblebed, Puzzle Ventures, and Tiny.vc participating; angels include Sarah Friar (OpenAI CFO) and John Stecher (Blackstone CTO).
 
 [^69]: Tech Funding News, "Index Ventures backs a Harvard dropout architect with $8.5M to automate due diligence," June 30, 2026. Accessed June 2026. https://techfundingnews.com/build-8-5m-index-ventures-ai-infrastructure-due-diligence/ — Independent confirmation of $8.5M Seed led by Index Ventures. Founded 2024 by James Stirrat-Ellis and Ben McClusky; NY-based; 100+ projects across 15 countries including Tishman Speyer.
+
+[^70]: SiliconANGLE, "Build raises $8.5M to accelerate industrial infrastructure development project work," June 30, 2026. Accessed June 2026. https://siliconangle.com/2026/06/30/build-raises-8-5m-accelerate-industrial-infrastructure-development-project-work/ — Third independent confirmation that Index Ventures led Build's $8.5M Seed on June 30, 2026; co-investors Pebblebed, Puzzle Ventures, Tiny.vc; angels include Sarah Friar (OpenAI CFO) and John Stecher (Blackstone CTO).
 

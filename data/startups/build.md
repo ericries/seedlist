@@ -34,7 +34,7 @@ Build is a New York-based AI infrastructure startup automating due diligence for
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-30 | Seed | $8.5M | Index Ventures | Pebblebed, Puzzle Ventures, Tiny.vc; angels Sarah Friar (OpenAI CFO), John Stecher (Blackstone CTO), senior leaders from Meta AI Research and Google Maps [^1][^2] |
+| 2026-06-30 | Seed | $8.5M | Index Ventures | Pebblebed, Puzzle Ventures, Tiny.vc; angels Sarah Friar (OpenAI CFO), John Stecher (Blackstone CTO), senior leaders from Meta AI Research and Google Maps [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -44,8 +44,12 @@ No independently sourced investor quotes found at this time.
 
 > "We replace that spending [on consulting services] to achieve software margins." — James Stirrat-Ellis, Co-Founder & CEO, Build, quoted in Tech Funding News, June 30, 2026 [^2]
 
+> "The industries shaping the physical world have spent decades trapped in process instead of creativity. By removing that operational burden, we can help teams move faster, make better decisions and deliver better infrastructure." — James Stirrat-Ellis, Co-Founder & CEO, Build, quoted in SiliconANGLE, June 30, 2026 [^3]
+
 ## Sources
 
 [^1]: EU-Startups, "British-U.S. startup Build secures €7.4 million to accelerate 'agentic real estate' platform," June 30, 2026. Accessed June 2026. https://www.eu-startups.com/2026/06/british-u-s-startup-build-secures-e7-4-million-to-accelerate-agentic-real-estate-platform/
 
 [^2]: Tech Funding News, "Index Ventures backs a Harvard dropout architect with $8.5M to automate due diligence," June 30, 2026. Accessed June 2026. https://techfundingnews.com/build-8-5m-index-ventures-ai-infrastructure-due-diligence/ — Confirms $8.5M Seed led by Index Ventures with participation from Pebblebed, Puzzle Ventures, and Tiny.vc, plus angels Sarah Friar (OpenAI CFO), John Stecher (Blackstone CTO), and senior leaders from Meta AI Research and Google Maps. Founded 2024 by James Stirrat-Ellis (former Harvard architect, worked on Singapore's Changi Airport expansion) and Ben McClusky. NY-based; 10 employees across four continents; 100+ completed projects in 15 countries.
+
+[^3]: SiliconANGLE, "Build raises $8.5M to accelerate industrial infrastructure development project work," June 30, 2026. Accessed June 2026. https://siliconangle.com/2026/06/30/build-raises-8-5m-accelerate-industrial-infrastructure-development-project-work/ — Third independent confirmation of $8.5M Seed led by Index Ventures with Pebblebed, Puzzle Ventures, and Tiny.vc participating; angels Sarah Friar, John Stecher, and senior figures from OpenAI, Meta AI Research, and Google Maps.

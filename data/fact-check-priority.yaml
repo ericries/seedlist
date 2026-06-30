@@ -2665,18 +2665,30 @@ priority:
   type: investor
   reason: "took CEO role at 8090 Labs Series A ($135M, 2026-06-29)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified 8090 Labs $135M Series A on 2026-06-29 led by Salesforce Ventures, with WndrCo, Craft Ventures, The Production Board, LAUNCH participating, plus angels Nikesh Arora, Cliff Robbins, Adam D'Angelo, Shyam Ravindran, Abhi Arun, Thomas Laffont, via 4 independent primary sources (TechCrunch [^27], Crypto Briefing [^28], Stockpil [^29], and The SaaS News — newly added as 4th citation to 8090-labs.md as [^6]). Confirmed Chamath transitioned from board member to CEO. Fixed frontmatter bug: last_verified_investment.date corrected from invalid '~8090' to '2026-06-29'. Also fixed 8090-labs.md frontmatter: removed bogus firms[] entry with slug 'social-capital' and 'year: 8090' (Social Capital did not participate in the Series A per any of 4 primary sources)."
 - slug: craft-ventures
   type: firm
   reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Craft Ventures participated in 8090 Labs $135M Series A on 2026-06-29 (Salesforce Ventures led) via 3 primary sources already in craft-ventures.md portfolio: TechCrunch [^25], Crypto Briefing [^26], Stockpil [^27]. Confirmed by 4th independent source The SaaS News during this sweep. No changes needed to craft-ventures.md."
 - slug: the-production-board
   type: firm
   reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified The Production Board (David Friedberg's firm) participated in 8090 Labs $135M Series A on 2026-06-29 (Salesforce Ventures led) via 3 primary sources already in the-production-board.md portfolio: TechCrunch [^31], Crypto Briefing [^32], Stockpil [^33]. Confirmed by 4th independent source The SaaS News during this sweep. No changes needed to the-production-board.md."
 - slug: launch
   type: firm
   reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified LAUNCH (Jason Calacanis's firm) participated in 8090 Labs $135M Series A on 2026-06-29 (Salesforce Ventures led) via 3 primary sources already in launch.md portfolio: TechCrunch [^28], Crypto Briefing [^29], Stockpil [^30]. Confirmed by 4th independent source The SaaS News during this sweep. No changes needed to launch.md."
 - slug: leapxpert
   type: startup
   reason: "new startup profile (Growth $180M, 2026-06-30, Riverwood Capital led)"
@@ -2693,10 +2705,16 @@ priority:
   type: firm
   reason: "led Build Seed ($8.5M, 2026-06-30)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Index Ventures led Build $8.5M Seed on 2026-06-30 via 3 independent primary sources: EU-Startups [^68], Tech Funding News [^69], and SiliconANGLE [^70] (newly added as 3rd citation). Co-investors Pebblebed, Puzzle Ventures, Tiny.vc confirmed; angels Sarah Friar (OpenAI CFO), John Stecher (Blackstone CTO), and senior figures from OpenAI, Meta AI Research, and Google Maps. Added SiliconANGLE to both index-ventures.md portfolio row [^70] and build.md as [^3], including a James Stirrat-Ellis founder quote from SiliconANGLE."
 - slug: valor-equity-partners
   type: firm
   reason: "participated in Dominion Dynamics Series A (C$139M, 2026-06-30)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Valor Equity Partners participation (via Valor Atreides AI Fund) in Dominion Dynamics C$139M Series A on 2026-06-30, Georgian-led, via 3 independent primary sources: PR Newswire press release [^43], BetaKit [^44], and Ottawa Business Journal [^45] (newly added as 3rd citation). Updated valor-equity-partners.md portfolio row to include C$139M / Georgian-led / 2026-06-30 details and added OBJ as 3rd citation. Total raised since June 2025 launch: C$169M; largest Canadian defence-tech Series A in history."
 - slug: bessemer-venture-partners
   type: firm
   reason: "participated in Dominion Dynamics Series A (C$139M, 2026-06-30)"

@@ -105,7 +105,7 @@ Based on 59 verified current growth portfolio investments and 22 realized invest
 | WEKA | AI data platform | 2024 | [^15][^36] |
 | xAI | Artificial intelligence | 2024 | [^17][^37] |
 | Zipline | Drone delivery | 2026 | [^24][^38] |
-| Dominion Dynamics | Defense / Arctic autonomy | 2026 (Series A) | [^43][^44] |
+| Dominion Dynamics | Defense / Arctic autonomy | 2026 (Series A, C$139M, Georgian-led, 2026-06-30) | [^43][^44][^45] |
 
 #### Other Current Growth Portfolio Companies (year not yet verified from primary sources)
 
@@ -275,3 +275,5 @@ Note: Several of the above testimonials are sourced from the Valor website (Grow
 [^43]: PR Newswire, "Dominion Dynamics Raises $139M CAD Series A to Scale Arctic Surveillance Network and Drone Systems," June 30, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/dominion-dynamics-raises-139m-cad-series-a-to-scale-arctic-surveillance-network-and-drone-systems-302813965.html — Confirms Valor Equity Partners participated (via Valor Atreides AI Fund) in Dominion Dynamics' C$139M Series A on June 30, 2026 led by Georgian.
 
 [^44]: BetaKit, "Dominion Dynamics lands $139 million in Canada's largest defence-tech Series A," June 30, 2026. Accessed June 2026. https://betakit.com/dominion-dynamics-lands-139-million-in-canadas-largest-defence-tech-series-a/ — Independent confirmation of Valor Equity Partners participation via Valor Atreides AI Fund in the Georgian-led C$139M Series A.
+
+[^45]: Ottawa Business Journal, "Dominion Dynamics closes $139M funding round in bid to scale defence technology," June 30, 2026. Accessed June 2026. https://obj.ca/dominion-dynamics-closes-139m-funding-round/ — Third independent confirmation of the C$139M Series A led by Georgian with Valor Equity Partners participating; reports Ottawa headquarters and Kanata, Ontario manufacturing operations.
