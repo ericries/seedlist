@@ -91,6 +91,7 @@ Based on 17 verified portfolio companies with sufficient data, the following pat
 | LeadIQ | Angel | 2015 | Sales Tech/SaaS | Active [^1] [^27] |
 | Recall | Pre-Seed | 2024 | Knowledge Management/AI | Active [^15] |
 | Moment (beverage) | Pre-Seed | ~2021 | Consumer/Food & Beverage | Active [^16] |
+| 8090 Labs | Series A (participant) | 2026-06-29 | AI / Enterprise / AI Coding | Active — $135M, Salesforce Ventures led; WndrCo, Craft Ventures, The Production Board also participated; angels Nikesh Arora, Adam D'Angelo. Chamath Palihapitiya became CEO. [^28][^29][^30] |
 
 *This table represents approximately 6% of LAUNCH's claimed 300+ investments. Many investments, particularly those made through The Syndicate, are not individually verified in public records.*
 
@@ -147,3 +148,6 @@ No additional independently sourced founder testimonials found beyond these two 
 [^25]: Wellfound, "Jason Calacanis," accessed April 2026. https://wellfound.com/p/jason
 [^26]: Tracxn, "Steezy — 2025 Company Profile, Team, Funding & Competitors," accessed April 2026. https://tracxn.com/d/companies/steezy/__sxhsWnKSZQypycmlIUpSYI4FPvNRe6Cah_birL_x5bs
 [^27]: Tracxn, "LeadIQ — 2025 Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/leadiq/___tGj347XeassbUHAvynNMVVwj-7z-MJPMAz1ncFmj0E/funding-and-investors
+[^28]: TechCrunch, "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role," June 29, 2026. Accessed June 2026. https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/ — Confirms Salesforce Ventures led the 8090 Labs $135M Series A on June 29, 2026, with WndrCo, Craft Ventures, The Production Board, and LAUNCH participating; angels Nikesh Arora and Adam D'Angelo. Chamath Palihapitiya transitioned from board member to CEO.
+[^29]: Crypto Briefing, "Chamath Palihapitiya raises $135M Series A for AI coding startup 8090," June 29, 2026. Accessed June 2026. https://cryptobriefing.com/chamath-palihapitiya-135m-series-a-8090-ai/ — Independent confirmation of the $135M round, Salesforce Ventures as lead, and Craft Ventures, The Production Board, and Launch as participants.
+[^30]: Stockpil, "Chamath Palihapitiya raises $135M Series A for AI coding startup 8090 Labs, steps in as CEO," June 30, 2026. Accessed June 2026. https://stockpil.com/chamath-palihapitiya-8090-labs-series-a-ceo — Third independent confirmation of round details (Salesforce Ventures lead; Craft Ventures, The Production Board, LAUNCH as participants; angels Nikesh Arora, Adam D'Angelo).

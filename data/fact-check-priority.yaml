@@ -2551,6 +2551,9 @@ priority:
   type: firm
   reason: "led 8090 Labs Series A ($135M, 2026-06-29)"
   added: 2026-06-29
+  status: unresolvable
+  resolved: 2026-06-29
+  resolution_note: 'Salesforce Ventures firm profile does not exist in data/firms/salesforce-ventures.md (already in queue.yaml for creation). 8090 Labs round IS fully verified via 3 independent primary sources (TechCrunch, Crypto Briefing, Stockpil) in data/startups/8090-labs.md: $135M Series A on 2026-06-29, Salesforce Ventures led, with WndrCo, Craft Ventures, The Production Board, LAUNCH participating; angels Nikesh Arora, Adam D''Angelo. Once Salesforce Ventures firm profile is created, this round should be added as a "led" portfolio row with the same 3 citations.'
 - slug: chamath-palihapitiya
   type: investor
   reason: "founded/CEO 8090 Labs Series A ($135M, 2026-06-29)"
@@ -2562,14 +2565,23 @@ priority:
   type: firm
   reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Craft Ventures participation in 8090 Labs $135M Series A on 2026-06-29 via 3 independent primary sources (TechCrunch [^25], Crypto Briefing [^26], Stockpil [^27]). Salesforce Ventures led; WndrCo, The Production Board, LAUNCH also participated; angels Nikesh Arora, Adam D''Angelo. David Sacks named as the Craft Ventures partner in the TechCrunch coverage. Added portfolio row to craft-ventures.md with all 3 citations.'
 - slug: the-production-board
   type: firm
   reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified The Production Board participation in 8090 Labs $135M Series A on 2026-06-29 via 3 independent primary sources (TechCrunch [^31], Crypto Briefing [^32], Stockpil [^33]). Salesforce Ventures led; WndrCo, Craft Ventures, LAUNCH also participated; angels Nikesh Arora, Adam D''Angelo. David Friedberg (TPB Founder/CEO) named in the Stockpil coverage. Added portfolio row to the-production-board.md with all 3 citations. Note: this is the most software-centric portfolio addition for TPB, whose core thesis is biology and physical-science based.'
 - slug: launch
   type: firm
   reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified LAUNCH participation in 8090 Labs $135M Series A on 2026-06-29 via 3 independent primary sources (TechCrunch [^28], Crypto Briefing [^29], Stockpil [^30]). Salesforce Ventures led; WndrCo, Craft Ventures, The Production Board also participated; angels Nikesh Arora, Adam D''Angelo. Jason Calacanis (LAUNCH Founder/CEO) named in the Stockpil coverage. Added portfolio row to launch.md with all 3 citations.'
 - slug: mayfield-fund
   type: firm
   reason: "participated in Upscale AI Series A-1 ($190M, 2026-06-22)"
