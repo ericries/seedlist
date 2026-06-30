@@ -38,6 +38,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: British-U.S. startup Build secures €7.4 million to accelerate “agentic real
+    estate” platform
+  url: https://www.eu-startups.com/2026/06/british-u-s-startup-build-secures-e7-4-million-to-accelerate-agentic-real-estate-platform/
+  source: eu-startups
+  date_found: '2026-06-30'
+  parsed_company: British-U.S. startup Build
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Axios General Intuition raised $320M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -823,14 +832,6 @@ pending_rounds:
   source: axios-pro-rata
   date_found: '2026-06-22'
   parsed_company: Entendre had
-  parsed_amount: $4M
-  parsed_round: Seed
-  status: pending
-- title: u003e. Entendre had raised $4M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-22'
-  parsed_company: u003e. Entendre had
   parsed_amount: $4M
   parsed_round: Seed
   status: pending
