@@ -9,9 +9,9 @@ fund_size: "$17.5B AUM; Fund VI at $2.35B (2024)"
 stage_focus: [growth, late-stage]
 sector_focus: [aerospace, defense, ai, robotics, sustainability, food-tech, fintech, health-wellness, cybersecurity, crypto, biotech, longevity]
 last_verified_investment:
-  date: 2026-06-02
-  company: "NewLimit"
-  round: "Series C"
+  date: 2026-06-30
+  company: "Dominion Dynamics"
+  round: "Series A"
 team:
   - slug: antonio-gracias
     role: "Founder, CEO & CIO"
@@ -105,6 +105,7 @@ Based on 59 verified current growth portfolio investments and 22 realized invest
 | WEKA | AI data platform | 2024 | [^15][^36] |
 | xAI | Artificial intelligence | 2024 | [^17][^37] |
 | Zipline | Drone delivery | 2026 | [^24][^38] |
+| Dominion Dynamics | Defense / Arctic autonomy | 2026 (Series A) | [^43][^44] |
 
 #### Other Current Growth Portfolio Companies (year not yet verified from primary sources)
 
@@ -270,3 +271,7 @@ Note: Several of the above testimonials are sourced from the Valor website (Grow
 [^40]: NewLimit company blog, "NewLimit raises $435M led by Founders Fund to bring longevity medicines to human trials," June 2, 2026. Accessed June 2026. https://blog.newlimit.com/p/newlimit-raises-435m-led-by-founders
 [^41]: Yahoo Finance, "NewLimit raises $435M Series C, valuation hits $3.1B," June 3, 2026. Accessed June 2026. https://finance.yahoo.com/sectors/healthcare/articles/newlimit-raises-435m-series-c-145642833.html
 [^42]: Bitcoin.com News, "Coinbase CEO Brian Armstrong's Newlimit Raises $435 Million, Tripling Valuation to $3.1 Billion," June 2026. Accessed June 2026. https://news.bitcoin.com/newlimit-435-million-series-c-brian-armstrong/
+
+[^43]: PR Newswire, "Dominion Dynamics Raises $139M CAD Series A to Scale Arctic Surveillance Network and Drone Systems," June 30, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/dominion-dynamics-raises-139m-cad-series-a-to-scale-arctic-surveillance-network-and-drone-systems-302813965.html — Confirms Valor Equity Partners participated (via Valor Atreides AI Fund) in Dominion Dynamics' C$139M Series A on June 30, 2026 led by Georgian.
+
+[^44]: BetaKit, "Dominion Dynamics lands $139 million in Canada's largest defence-tech Series A," June 30, 2026. Accessed June 2026. https://betakit.com/dominion-dynamics-lands-139-million-in-canadas-largest-defence-tech-series-a/ — Independent confirmation of Valor Equity Partners participation via Valor Atreides AI Fund in the Georgian-led C$139M Series A.

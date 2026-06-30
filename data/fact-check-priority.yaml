@@ -2689,3 +2689,31 @@ priority:
   type: startup
   reason: "new startup profile (Series A $19.5M, 2026-06-30, Lightspeed Venture Partners led)"
   added: 2026-06-30
+- slug: index-ventures
+  type: firm
+  reason: "led Build Seed ($8.5M, 2026-06-30)"
+  added: 2026-06-30
+- slug: valor-equity-partners
+  type: firm
+  reason: "participated in Dominion Dynamics Series A (C$139M, 2026-06-30)"
+  added: 2026-06-30
+- slug: bessemer-venture-partners
+  type: firm
+  reason: "participated in Dominion Dynamics Series A (C$139M, 2026-06-30)"
+  added: 2026-06-30
+- slug: garage-capital
+  type: firm
+  reason: "participated in Dominion Dynamics Series A (C$139M, 2026-06-30)"
+  added: 2026-06-30
+- slug: build
+  type: startup
+  reason: "new startup profile (Seed $8.5M, 2026-06-30, Index Ventures led)"
+  added: 2026-06-30
+- slug: dominion-dynamics
+  type: startup
+  reason: "new startup profile (Series A C$139M, 2026-06-30, Georgian led)"
+  added: 2026-06-30
+- slug: generativex
+  type: startup
+  reason: "new startup profile (Series A ¥650M, 2026-06-29, Nissay Capital led)"
+  added: 2026-06-30

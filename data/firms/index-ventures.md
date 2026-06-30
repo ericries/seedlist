@@ -153,6 +153,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | NewCore | Pre-Seed (co-led with Cyberstarts, $16M of $66M total) | 2026-06-15 | Cybersecurity / Agentic Identity | [^58][^59][^60] |
 | Conduct | Series A (co-led with ICONIQ, $60M; SAP strategic; Creandum, Lucid Capital, Booom participated) | 2026-06-17 | AI / Enterprise Operating System / SAP | [^61][^62][^63] |
 | Fomo | Series B (led, $75M at ~$550M val) | 2026-06-22 | Fintech / Crypto / Consumer Trading | [^64][^65][^66][^67] |
+| Build | Seed (led, $8.5M) | 2026-06-30 | AI / Proptech / Agentic Real Estate | [^68][^69] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -271,4 +272,8 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^66]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/ — Third independent confirmation of Index Ventures-led Series B for crypto-focused consumer trading app.
 
 [^67]: fomo, "fomo Series B led by Index Ventures," June 22, 2026. Accessed June 2026. https://fomo.family/blog/fomo-series-b/ — Fomo's own company press release confirming Index Ventures led the $75M Series B with USV and Benchmark participating alongside angels Mark Pincus, Kevin & Julia Hartz, Humam Sakhnini, Tomas Okmanas, Antoine Le Nel, Sebastian Knutsson, Stephane Kurgan, Patrick Kavanagh, Jae Park, Alexander Casimo, and Jack Randall. Discloses 625K+ users and $4B+ trading volume since launch.
+
+[^68]: EU-Startups, "British-U.S. startup Build secures €7.4 million to accelerate 'agentic real estate' platform," June 30, 2026. Accessed June 2026. https://www.eu-startups.com/2026/06/british-u-s-startup-build-secures-e7-4-million-to-accelerate-agentic-real-estate-platform/ — Confirms Index Ventures led Build's $8.5M Seed (€7.4M equivalent) on June 30, 2026 with Pebblebed, Puzzle Ventures, and Tiny.vc participating; angels include Sarah Friar (OpenAI CFO) and John Stecher (Blackstone CTO).
+
+[^69]: Tech Funding News, "Index Ventures backs a Harvard dropout architect with $8.5M to automate due diligence," June 30, 2026. Accessed June 2026. https://techfundingnews.com/build-8-5m-index-ventures-ai-infrastructure-due-diligence/ — Independent confirmation of $8.5M Seed led by Index Ventures. Founded 2024 by James Stirrat-Ellis and Ben McClusky; NY-based; 100+ projects across 15 countries including Tishman Speyer.
 

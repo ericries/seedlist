@@ -33663,3 +33663,222 @@ queue:
   added: '2026-03-17'
   discovered_from: alex-bouaziz
   source: UK job-search platform; acquired Jan 2024; Alex Bouaziz portfolio exit
+- name: Headline Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taxwire
+- name: Vinyl
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taxwire
+- name: Recall Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taxwire
+- name: Nomo Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: taxwire
+- name: Andrew Rea
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Taxwire
+  discovered_from: taxwire
+- name: Steven Schmatz
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Taxwire
+  discovered_from: taxwire
+- name: Taylor Brandt
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Headline Ventures
+  discovered_from: taxwire
+- name: Riverwood Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: leapxpert
+- name: Portage Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: leapxpert
+- name: Jeff Parks
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Riverwood Capital
+  discovered_from: leapxpert
+- name: Dima Gutzeit
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: LeapXpert
+  discovered_from: leapxpert
+- name: Avi Pardo
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: LeapXpert
+  discovered_from: leapxpert
+- name: Capital One Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pie
+- name: SciFi Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pie
+- name: Syed Ali
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Pie
+  discovered_from: pie
+- name: Akhil Mantiprigada
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Pie
+  discovered_from: pie
+- name: Jeffrey Katzenberg
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: WndrCo
+  discovered_from: 8090-labs
+- name: Georgian
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dominion-dynamics
+- name: Lakestar
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dominion-dynamics
+- name: OMERS Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dominion-dynamics
+- name: Golden Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dominion-dynamics
+- name: Silent Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dominion-dynamics
+- name: Eliot Pence
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Dominion Dynamics
+  discovered_from: dominion-dynamics
+- name: Margaret Wu
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Georgian
+  discovered_from: dominion-dynamics
+- name: Puzzle Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: build
+- name: Tiny.vc
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: build
+- name: James Stirrat-Ellis
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Build
+  discovered_from: build
+- name: John Stecher
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Blackstone
+  discovered_from: build
+- name: Nissay Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: generativex
+- name: Angel Bridge
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: generativex
+- name: DeepCore
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: generativex
+- name: SMBC Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: generativex
+- name: Rei Araki
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: GenerativeX
+  discovered_from: generativex
+- name: Yusuke Ito
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Nissay Capital
+  discovered_from: generativex
