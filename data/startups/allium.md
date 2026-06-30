@@ -33,7 +33,7 @@ Allium is a New York-based blockchain data infrastructure company that aggregate
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-23 | Series B | $40M | Amplify Partners | Kleiner Perkins, Theory Ventures [^1][^2][^3] |
+| 2026-06-23 | Series B | $40M | Amplify Partners | Kleiner Perkins, Theory Ventures, Pruven Capital [^1][^2][^3][^4] |
 | 2024 | Series A | $16.5M | Theory Ventures | [^1] |
 
 ## What Investors Say
@@ -49,3 +49,4 @@ Allium is a New York-based blockchain data infrastructure company that aggregate
 [^1]: Fortune, "Exclusive: Crypto analytics startup Allium raises $40 million to tame blockchain data for Wall Street," June 23, 2026. Accessed June 2026. https://fortune.com/2026/06/23/allium-series-b-amplify-partners-crypto-analytics-startups/
 [^2]: SiliconANGLE, "Blockchain data provider Allium raises $40M in funding," June 23, 2026. Accessed June 2026. https://siliconangle.com/2026/06/23/blockchain-data-provider-allium-raises-40m-funding/
 [^3]: PYMNTS, "Allium Raises $40 Million to Help Enterprises Embrace the Blockchain," June 23, 2026. Accessed June 2026. https://www.pymnts.com/news/investment-tracker/2026/allium-raises-40-million-to-help-enterprises-embrace-the-blockchain/
+[^4]: Allium company blog, "Allium Raises $40M Series B Led by Amplify Partners, with Participation from Kleiner Perkins, Theory Ventures & Pruven Capital," June 23, 2026. Accessed June 2026. https://www.allium.so/blog/allium-raises-40m-series-b-led-by-amplify-partners-with-participation-from-kleiner-perkins-and-theory-ventures/

@@ -2637,7 +2637,27 @@ priority:
   type: firm
   reason: "participated in Allium Series B ($40M, 2026-06-23) led by Amplify Partners"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Kleiner Perkins participated in Allium $40M Series B on 2026-06-23 (Amplify Partners led; David Beyer joined the board) via 3 independent primary sources: Fortune exclusive [^59], SiliconANGLE [^60], and Allium's own company blog [^61] (newly added as 3rd primary source). Full participant list per Allium primary source: Amplify Partners (lead), Kleiner Perkins, Theory Ventures, and Pruven Capital. Updated kleiner-perkins.md row to add Pruven Capital, added [^61] (Allium blog) as 3rd citation. Updated allium.md to add Pruven Capital to participant list and Allium blog as [^4] citation."
 - slug: koch-disruptive-technologies
   type: firm
   reason: "led Orderful Series C ($35M, 2026-06-24) for AI-native EDI infrastructure"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Koch Disruptive Technologies led Orderful $35M Series C announced 2026-06-23 (date in press release; profile lists 2026-06-24) with continued participation from NewRoad Capital, via 3 independent primary sources: National Law Review press release [^21], SiliconANGLE [^22], and FreightWaves [^23] (newly added as 3rd primary source). FreightWaves independently confirms KDT lead and NewRoad participation: 'Koch Disruptive Technologies...lead the company's $35 million Series C' and 'with continued participation from NewRoad Capital'. Added FreightWaves as 3rd citation to KDT portfolio row."
+- slug: battery-ventures
+  type: firm
+  reason: "led Warp Series B ($60M, 2026-06-25) for AI-native HR/payroll platform"
+  added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Battery Ventures led Warp $60M Series B on 2026-06-25 with Peak XV, Sound Ventures, Y Combinator, and HOF Capital participating, plus named angels Tobi Lütke (Shopify), Drew Houston and Arash Ferdowsi (Dropbox), Claire Hughes Johnson (ex-Stripe), Balaji Srinivasan, Kevin Hartz, Kyle Vogt (Cruise), and Amjad Masad (Replit), via 3 independent primary sources: Warp company announcement [^25] (primary), SiliconANGLE [^26], and Axios Pro [^27]. Added new Warp row to battery-ventures.md portfolio table with all 3 citations. Also added Warp to y-combinator.md portfolio table with same 3 citations as [^61][^62][^63]. Updated warp.md to add company announcement as [^3] citation and expand the participant list to include named angels."
+- slug: y-combinator
+  type: firm
+  reason: "participated in Warp Series B ($60M, 2026-06-25)"
+  added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified YC participated in Warp $60M Series B on 2026-06-25 (Battery Ventures led) via same 3 primary sources (Warp company announcement, SiliconANGLE, Axios Pro). Added Warp row to y-combinator.md portfolio with citations [^61][^62][^63]."

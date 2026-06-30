@@ -303,6 +303,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Ploy | n/a | 2026 | AI / Marketing / Vertical SaaS | Private ($27M Seed 2026-06-17, First Round Capital-led; YC participated) [^52][^53][^54] |
 | Sazabi | S26 | 2026 | AI / Developer Tools / Observability | Private ($8M Seed 2026-06-25, co-led with J2 Ventures and Village Global) [^55][^56][^57] |
 | Pocket | W26 | 2024 | AI / Consumer Hardware | Private ($11M Seed 2026-06-29, Accel-led; YC participated alongside Guillermo Rauch (Vercel), Mati Staniszewski (ElevenLabs), Kaz Nejatian (Opendoor)) [^58][^59][^60] |
+| Warp | n/a | 2026 | HR Tech / Payroll / AI / Fintech | Private (Series B $60M 2026-06-25, Battery Ventures-led; YC participated alongside Peak XV, Sound Ventures, HOF Capital) [^61][^62][^63] |
 
 *Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). OpenAI is listed as "YC Research" rather than a batch designation — it was the first project of YC Research (launched December 2015), a separate initiative from the standard accelerator [^29]. Duolingo was removed from this table because Duolingo did not go through Y Combinator; its earliest funding came from Luis von Ahn's MacArthur fellowship and an NSF grant, followed by a Series A led by Union Square Ventures in October 2011 [^31].*
 
@@ -484,3 +485,9 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 [^59]: Tech Funding News, "Accel backs Pocket's $11M raise, as the AI hardware startup turns a viral launch into $27M ARR," June 29, 2026. Accessed June 2026. https://techfundingnews.com/pocket-11m-accel-ai-hardware-27m-arr/ — Independent confirmation of YC participation in Pocket's $11M seed; full participant list also names Guillermo Rauch (Vercel), Mati Staniszewski (ElevenLabs), and Kaz Nejatian (Opendoor).
 
 [^60]: Y Combinator, company profile page for Pocket (Winter 2026 batch). Accessed June 2026. https://www.ycombinator.com/companies/pocket — Primary YC source confirming Pocket as a Winter 2026 batch company and referencing the $11M seed round closing June 29, 2026.
+
+[^61]: Warp company announcement, "Warp raises $60M Series B from Battery Ventures," June 25, 2026. Accessed June 2026. https://www.warp.co/b — Primary source from Warp confirming Y Combinator participated in the $60M Series B led by Battery Ventures alongside Peak XV and Sound Ventures, plus named angels.
+
+[^62]: SiliconANGLE, "Warp lands $60M to automate payroll, compliance and HR with AI," June 25, 2026. Accessed June 2026. https://siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/ — Independent confirmation Y Combinator participated alongside Peak XV, Sound Ventures, and HOF Capital in Warp's $60M Series B led by Battery Ventures.
+
+[^63]: Axios Pro, "Exclusive: Warp raises $60m to go up against ADP, Rippling," June 25, 2026. Accessed June 2026. https://www.axios.com/pro/all-deals/2026/06/25/warp-60-million-workday-rippling — Third independent confirmation of YC participation in Warp's $60M Series B.

@@ -207,7 +207,7 @@ The following table includes notable investments verified through multiple sourc
 | Poetic | Series A (lead, $50M at $500M post-money) | 2026-06-10 | AI / Enterprise Automation | Private [^50][^51][^52] |
 | CuspAI | Growth (co-lead with Bezos Expeditions, $400M at $2.6B valuation) | 2026-06-17 | AI / Materials Discovery | Private [^53][^54][^55] |
 | Mirendil | Seed (co-led with Andreessen Horowitz, $200M at ~$1B valuation; NVIDIA participated) | 2026-06-24 | AI / AI Research Automation / Foundation Models | Private [^56][^57][^58] |
-| Allium | Series B (participated, $40M led by Amplify Partners; with Theory Ventures) | 2026-06-23 | Fintech / Blockchain / Data Infrastructure | Private [^59][^60] |
+| Allium | Series B (participated, $40M led by Amplify Partners; Theory Ventures and Pruven Capital also participated) | 2026-06-23 | Fintech / Blockchain / Data Infrastructure | Private [^59][^60][^61] |
 
 *Note: This table includes 64 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
@@ -381,3 +381,5 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^59]: Fortune, "Exclusive: Crypto analytics startup Allium raises $40 million to tame blockchain data for Wall Street," June 23, 2026. Accessed June 2026. https://fortune.com/2026/06/23/allium-series-b-amplify-partners-crypto-analytics-startups/ — Confirms Kleiner Perkins participated alongside lead Amplify Partners and Theory Ventures in Allium's $40M Series B.
 
 [^60]: SiliconANGLE, "Blockchain data provider Allium raises $40M in funding," June 23, 2026. Accessed June 2026. https://siliconangle.com/2026/06/23/blockchain-data-provider-allium-raises-40m-funding/ — Independent confirmation of Kleiner Perkins participating in Allium's $40M Series B led by Amplify Partners.
+
+[^61]: Allium company blog, "Allium Raises $40M Series B Led by Amplify Partners, with Participation from Kleiner Perkins, Theory Ventures & Pruven Capital," June 23, 2026. Accessed June 2026. https://www.allium.so/blog/allium-raises-40m-series-b-led-by-amplify-partners-with-participation-from-kleiner-perkins-and-theory-ventures/ — Primary source from Allium itself confirms Amplify Partners led the $40M Series B with Kleiner Perkins, Theory Ventures, and Pruven Capital participating; David Beyer of Amplify Partners joined the board.

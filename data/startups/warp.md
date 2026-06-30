@@ -73,7 +73,7 @@ Warp is a New York-based AI-native employee management platform that automates p
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-06-25 | Series B | $60M | Battery Ventures | Peak XV, Sound Ventures, Y Combinator, HOF Capital [^1][^2] |
+| 2026-06-25 | Series B | $60M | Battery Ventures | Peak XV, Sound Ventures, Y Combinator, HOF Capital; angels Tobi Lütke (Shopify), Drew Houston and Arash Ferdowsi (Dropbox), Claire Hughes Johnson (ex-Stripe), Balaji Srinivasan, Kevin Hartz, Kyle Vogt, Amjad Masad (Replit) [^1][^2][^3] |
 
 Total raised to date: $85M, including a prior $25M Series A led by Sound Ventures [^1].
 
@@ -89,3 +89,4 @@ No independently sourced founder testimonials found at this time.
 
 [^1]: SiliconANGLE, "Warp lands $60M to automate payroll, compliance and HR with AI," June 25, 2026. Accessed June 2026. https://siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/
 [^2]: Axios Pro, "Exclusive: Warp raises $60m to go up against ADP, Rippling," June 25, 2026. Accessed June 2026. https://www.axios.com/pro/all-deals/2026/06/25/warp-60-million-workday-rippling
+[^3]: Warp company announcement, "Warp raises $60M Series B from Battery Ventures," June 25, 2026. Accessed June 2026. https://www.warp.co/b — Primary source from Warp confirming Battery Ventures led the $60M Series B with Peak XV, Sound Ventures, and Y Combinator participating, plus named angels Tobi Lütke, Drew Houston, Arash Ferdowsi, Claire Hughes Johnson, Balaji Srinivasan, Kevin Hartz, Kyle Vogt, Amjad Masad, Elad Gil, Colin Evans (OpenAI), Jordi Hays, and Harj Taggar.

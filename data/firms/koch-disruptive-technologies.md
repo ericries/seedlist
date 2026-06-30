@@ -136,7 +136,7 @@ Based on 67 verified portfolio companies listed on KDT's website [^5]:
 | Outrider | Series D | 2024-10-24 | Supply Chain / Autonomous Yard | [^19] |
 | Rhino.ai | Series A | 2025-01-21 | Enterprise Software / AI | [^8] |
 | Lucidean | Seed | 2025-12-23 | Semiconductors / Optical | [^9] |
-| Orderful | Series C (lead, $35M with NewRoad Capital) | 2026-06-24 | SaaS / Supply Chain / EDI / AI | [^21][^22] |
+| Orderful | Series C (lead, $35M with NewRoad Capital participating) | 2026-06-24 | SaaS / Supply Chain / EDI / AI | [^21][^22][^23] |
 | Alkira | ~2020 | -- | Connectivity / Cloud Networking | [^5] |
 | Automox | ~2020 | -- | Cybersecurity / Endpoint | [^5] |
 | Beyond Identity | ~2020 | -- | Cybersecurity / Identity | [^5] |
@@ -250,3 +250,5 @@ This table represents 67 companies from KDT's website portfolio page. KDT claims
 [^21]: National Law Review (press release), "Orderful Raises $35 Million Series C to Grow AI-Native EDI Infrastructure and Expand Global Trading Partner Network," June 24, 2026. Accessed June 2026. https://natlawreview.com/press-releases/orderful-raises-35-million-series-c-grow-ai-native-edi-infrastructure-and — Confirms KDT led $35M Series C with NewRoad Capital co-leading; quote from Jon Chisholm (KDT Managing Director).
 
 [^22]: SiliconANGLE, "Orderful nabs $35M to streamline supply chain data management," June 23, 2026. Accessed June 2026. https://siliconangle.com/2026/06/23/orderful-nabs-35m-streamline-supply-chain-data-management/ — Independent confirmation of KDT-led Series C.
+
+[^23]: FreightWaves, "Orderful's $35M Series C targets the service model that has defined EDI for decades," June 23, 2026. Accessed June 2026. https://www.freightwaves.com/news/orderful-35m-series-c-edi — Third independent primary source confirms KDT-led $35M Series C with continued participation from NewRoad Capital, announced Tuesday June 23, 2026.

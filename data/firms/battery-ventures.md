@@ -114,6 +114,7 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Opal Security | Series B (led, $22M) | 2023-12-07 | Cybersecurity / Identity | Active | [^18] |
 | Opal Security | Series B Extension (co-led, $23M) | 2026-06-04 | Cybersecurity / Identity | Active | [^19][^20][^21] |
 | Coram AI | Series B (co-led, $35M) | 2026-06-10 | AI / Physical Security | Active | [^22][^23][^24] |
+| Warp | Series B (lead, $60M) | 2026-06-25 | HR Tech / Payroll / AI / Fintech | Active | [^25][^26][^27] |
 
 *This table represents approximately 29 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
@@ -168,3 +169,9 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^23]: The Next Web, "Coram raises $35M to turn cameras into AI detectives," June 11, 2026. https://thenextweb.com/news/coram-35m-series-b-ai-physical-security — Independent press confirmation of Battery Ventures co-leading the Coram AI Series B. Accessed June 2026.
 
 [^24]: TechStartups, "Coram AI raises $35M to bring autonomous AI agents to physical security," June 11, 2026. https://techstartups.com/2026/06/11/coram-ai-raises-35m-to-bring-autonomous-ai-agents-to-physical-security/ — Third independent confirmation of Battery Ventures Coram AI Series B co-lead. Accessed June 2026.
+
+[^25]: Warp company announcement, "Warp raises $60M Series B from Battery Ventures," June 25, 2026. Accessed June 2026. https://www.warp.co/b — Primary source from Warp confirming Battery Ventures led the $60M Series B with Peak XV, Sound Ventures, and Y Combinator participating, plus angel investors including Tobi Lütke, Drew Houston, Arash Ferdowsi, Claire Hughes Johnson, Balaji Srinivasan, Kevin Hartz, Kyle Vogt, and Amjad Masad.
+
+[^26]: SiliconANGLE, "Warp lands $60M to automate payroll, compliance and HR with AI," June 25, 2026. Accessed June 2026. https://siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/ — Independent confirmation Battery Ventures led the $60M Series B with Peak XV, Sound Ventures, Y Combinator, and HOF Capital participating.
+
+[^27]: Axios Pro, "Exclusive: Warp raises $60m to go up against ADP, Rippling," June 25, 2026. Accessed June 2026. https://www.axios.com/pro/all-deals/2026/06/25/warp-60-million-workday-rippling — Third independent confirmation of Battery Ventures-led $60M Series B.
