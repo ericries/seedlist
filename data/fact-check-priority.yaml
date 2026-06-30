@@ -2192,10 +2192,16 @@ priority:
   type: startup
   reason: New profile for $165M Series A (2026-06-22, Sofinnova/Jeito-led)
   added: '2026-06-22'
+  status: resolved
+  resolved: '2026-06-30'
+  resolution_note: 'Verified Bionyra Pharma $165M (€143M) oversubscribed Series A on 2026-06-22 co-led by Sofinnova Partners and Jeito Capital, with Arkin Bio, Sanofi Ventures, Sixty Degree Capital, Vives Partners, and Apollo Health Ventures participating, via 5 independent primary sources: (1) Bionyra press release via BusinessWire [^1], (2) BioPharma Dive [^2], (3) BeBeez International [^3], (4) Sofinnova Partners own announcement [^4] — newly added, (5) Jeito Capital own announcement [^5] — newly added. Added Anta Gkelou (Sofinnova Partner) and Dr. Rafaèle Tordjman (Jeito Founder & CEO) investor quotes to "What Investors Say" section. Confirmed Frédéric Marrache (former VP and Executive Global Project Head for Clinical Development in Immunology at Sanofi) as co-founder/CEO. Pipeline: BYN-002 (TL1A mAb) and BYN-003 (TL1A*IL-23p19 bispecific) for inflammatory diseases including IBD and atopic dermatitis.'
 - slug: twenty-cyber
   type: startup
   reason: New profile for $100M Series B (2026-06-17, Accel-led)
   added: '2026-06-22'
+  status: resolved
+  resolved: '2026-06-30'
+  resolution_note: 'Re-verified Twenty (defense cyber-warfare startup, Arlington VA) Series B $100M on 2026-06-17 at $1B post-money led by Accel, with Friends & Family Capital, Point72 Ventures, and Caffeinated Capital participating, via 5 independent primary sources (PR Newswire company press release [^1], GovCon Wire [^2], The SaaS News [^3], SiliconANGLE [^4] — newly added, The Next Web [^5] — newly added). Added Jonathan Turner (Accel Partner) and Colin Anderson (Friends & Family Capital Founding Partner) investor quotes to "What Investors Say". Total funding $138M. NOTE: This slug duplicates twenty-technologies (also published) — both profiles describe the same company/round; recommend consolidating to a single canonical slug in a future maintenance pass.'
 - slug: fomo
   type: startup
   reason: New profile for $75M Series B (2026-06-22, Index-led)
@@ -2230,6 +2236,9 @@ priority:
   type: startup
   reason: New profile for $100M Series C (2026-06-23, Spark-led)
   added: '2026-06-23'
+  status: resolved
+  resolved: '2026-06-30'
+  resolution_note: 'Verified Cadence (NY-based clinical AI / chronic care) Series C $100M on 2026-06-23 led by Spark Capital, with Thrive Capital, General Catalyst, Coatue, B Capital, Corewell Health Ventures, Memorial Hermann, and Duke Health participating, via 5 independent primary sources: (1) Cadence company press release [^1] (full investor list and quotes), (2) Business Wire press release [^2] — newly added (replaced weak generic newsroom URL), (3) The SaaS News [^3] — newly added, (4) HLTH [^4] — newly added, (5) citybiz [^5] — newly added (replaced same-domain Cadence website link). Added Will Reed (Spark Capital Partner) investor quote and Chris Altchek (Founder & CEO) founder quote, both pulled from the company press release. 100,000+ active patients across 20+ health systems; tripled ARR in 2025. Spark Capital firm profile already exists — last_verified_investment / portfolio update recommended for spark-capital, thrive-capital, general-catalyst, coatue-management in a separate task.'
 - slug: superlight
   type: startup
   reason: New profile for $21M Series A (2026-06-23, Engine Ventures/2150 co-led)
