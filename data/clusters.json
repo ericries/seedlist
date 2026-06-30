@@ -8247,7 +8247,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 28,
+      "size": 29,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8380,6 +8380,11 @@
         {
           "slug": "bryan-kim",
           "name": "Bryan Kim"
+        },
+        {
+          "slug": "guillaume-lample",
+          "name": "Guillaume Lample",
+          "firm": "mistral"
         }
       ]
     },
@@ -9131,7 +9136,7 @@
       "name": "The Marketplace Playbook",
       "tagline": "They understand liquidity, take rates, and chicken-and-egg problems better than anyone. The investors who wrote the book on two-sided marketplaces.",
       "type": "curated",
-      "size": 16,
+      "size": 18,
       "members": [
         {
           "slug": "alfred-lin",
@@ -9210,6 +9215,16 @@
         },
         {
           "slug": "brian-omalley"
+        },
+        {
+          "slug": "carlos-garcia-ottati",
+          "name": "Carlos Garc\u00eda Ottati",
+          "firm": "kavak"
+        },
+        {
+          "slug": "simon-borrero",
+          "name": "Sim\u00f3n Borrero",
+          "firm": "rappi"
         }
       ]
     },
@@ -9527,7 +9542,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 123,
+      "size": 126,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10080,6 +10095,21 @@
           "slug": "lynne-okeefe",
           "name": "Lynne Chou O'Keefe",
           "firm": "define-ventures"
+        },
+        {
+          "slug": "alex-bouaziz",
+          "name": "Alex Bouaziz",
+          "firm": "deel"
+        },
+        {
+          "slug": "carlos-garcia-ottati",
+          "name": "Carlos Garc\u00eda Ottati",
+          "firm": "kavak"
+        },
+        {
+          "slug": "simon-borrero",
+          "name": "Sim\u00f3n Borrero",
+          "firm": "rappi"
         }
       ]
     },
@@ -11303,7 +11333,7 @@
       "name": "The Future of Work Investors",
       "tagline": "They backed the tools that replaced the office \u2014 Slack, Figma, Notion, Gusto, Rippling. Betting that how we work matters as much as what we build.",
       "type": "curated",
-      "size": 12,
+      "size": 13,
       "members": [
         {
           "slug": "benny-peretz",
@@ -11362,6 +11392,11 @@
         {
           "slug": "andrey-khusid",
           "name": "Andrey Khusid"
+        },
+        {
+          "slug": "alex-bouaziz",
+          "name": "Alex Bouaziz",
+          "firm": "deel"
         }
       ]
     },
@@ -11546,7 +11581,7 @@
       "name": "The Decacorn Club",
       "tagline": "Backed three or more companies worth $10B+. When the biggest outcomes in tech history were being funded, these investors were in the room.",
       "type": "curated",
-      "size": 38,
+      "size": 41,
       "members": [
         {
           "slug": "alfred-lin",
@@ -11732,6 +11767,21 @@
           "slug": "assaf-rappaport",
           "name": "Assaf Rappaport",
           "firm": "wiz"
+        },
+        {
+          "slug": "alex-bouaziz",
+          "name": "Alex Bouaziz",
+          "firm": "deel"
+        },
+        {
+          "slug": "carlos-garcia-ottati",
+          "name": "Carlos Garc\u00eda Ottati",
+          "firm": "kavak"
+        },
+        {
+          "slug": "simon-borrero",
+          "name": "Sim\u00f3n Borrero",
+          "firm": "rappi"
         }
       ]
     },
@@ -11811,7 +11861,7 @@
       "name": "The Engineer-Investors",
       "tagline": "They wrote code before they wrote checks. Engineers and CTOs who became investors \u2014 they can read your architecture docs, not just your pitch deck.",
       "type": "curated",
-      "size": 34,
+      "size": 35,
       "members": [
         {
           "slug": "adam-dangelo",
@@ -11974,6 +12024,11 @@
           "slug": "mike-volpi",
           "name": "Mike Volpi",
           "firm": "index-ventures"
+        },
+        {
+          "slug": "guillaume-lample",
+          "name": "Guillaume Lample",
+          "firm": "mistral"
         }
       ]
     },
@@ -12280,7 +12335,7 @@
       "name": "The Global South Scouts",
       "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
       "type": "curated",
-      "size": 18,
+      "size": 20,
       "members": [
         {
           "slug": "kunal-shah",
@@ -12366,6 +12421,16 @@
         },
         {
           "slug": "zishaan-hayath"
+        },
+        {
+          "slug": "carlos-garcia-ottati",
+          "name": "Carlos Garc\u00eda Ottati",
+          "firm": "kavak"
+        },
+        {
+          "slug": "simon-borrero",
+          "name": "Sim\u00f3n Borrero",
+          "firm": "rappi"
         }
       ]
     },
