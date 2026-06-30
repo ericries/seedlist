@@ -69865,7 +69865,21 @@ vague_facts:
   line: ~unknown| Dishcraft Robotics | Unknown | Unknown | Robotics | [^18] |
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-06-30
+  resolution_note: 'No primary source confirms Venrock or Ethan Batraski as a Dishcraft
+    Robotics investor. Reviewed: (a) PR Newswire / Robotics & Automation News Series
+    A1 coverage (May 2020, $20M led by Grit Ventures with returning investors First
+    Round Capital, Baseline Ventures, Fuel Capital, Lemnos), (b) Robot Report coverage
+    of June 2019 Series A ($25M+ co-led First Round Capital, Lemnos, Baseline Ventures
+    per Baseline Ventures profile), (c) i3Connect investor list (Grit Ventures, First
+    Round, Baseline, Fuel Capital, Lemnos Labs), (d) Signal by NFX Batraski profile
+    (top 8 investments shown, Dishcraft NOT included). Only Tracxn and The Network
+    Search (both aggregators) list Batraski/Venrock as Dishcraft investor. Per the
+    same pattern that led to Tovala and Biscuit Labs being removed from the profile,
+    aggregator-only attribution without primary confirmation is unreliable. Profile
+    already has caveat note in portfolio table [^18] explaining this. No change to
+    profile.'
 - profile: investors/ethan-daly
   profile_name: Ethan Daly
   company: Gizmo
@@ -151991,7 +152005,21 @@ vague_facts:
   line: '| Ammalgam | 2023 | Unknown | [^18] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: 'Resolved by primary-source review: Ammalgam''s only verified
+    venture funding round is a $2.5M Seed announced on 2024-09-10, co-led by Lightspeed
+    Faction and Framework Ventures, with Robot Ventures, Bodhi Ventures, NGC Ventures,
+    DeWhales, and Blockchain Founders Fund participating, plus named angels (Kain
+    Warwick, Anton Bukov, Spencer Noon, Jordi Alexander). No 2023 round exists. Confirmed
+    via 3 primary sources: PR Newswire company press release (2024-09-10), TensorZero/Ammalgam-paragraph
+    materials referenced via examinecrypto.com, and FintecBuzz press coverage (2024-09-11).
+    Removed the duplicate ''| Ammalgam | 2023 | Unknown |'' row from tarun-chitra.md
+    and updated the remaining row from ''2024-11-08 Extended Seed'' (sourced only
+    from CryptoRank, which carries unreliable $100 valuation data for Ammalgam)
+    to ''2024-09-10 Seed ($2.5M, co-led by Lightspeed Faction and Framework Ventures;
+    Robot Ventures participated)''. Replaced footnote [^28] (CryptoRank) with the
+    PR Newswire press release and added FintecBuzz as new footnote [^33].'
 - profile: investors/tarun-chitra
   profile_name: Tarun Chitra
   company: Privy
@@ -169355,7 +169383,15 @@ vague_facts:
   line: '| TensorZero | Seed | 2025 | AI Infrastructure | Active [^12] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: 'Resolved: TensorZero raised $7.3M Seed on 2025-08-19 led by FirstMark
+    (Matt Turck), with Bessemer Venture Partners, Bedrock, DRW, Coalition, and angels
+    participating. Confirmed via 3 primary sources: PR Newswire press release (2025-08-19),
+    TensorZero company blog (2025-08-18), and AlleyWatch independent press coverage
+    (2025-08). CEO Gabriel Bianconi. Updated bedrock-capital.md portfolio row to
+    include exact date (2025-08-19), amount ($7.3M), lead (FirstMark), and Bedrock''s
+    participating role. Added 3 new citations [^30][^31][^32].'
 - profile: firms/bedrock-capital
   profile_name: Bedrock
   company: Durin

@@ -79,14 +79,13 @@ The following table lists Tarun Chitra's verified personal/angel investments as 
 | Highlight | 2022 | Seed | [^18] |
 | Renegade | 2023 | Seed | [^18] |
 | Olympix | 2023 | Seed | [^18][^20] |
-| Ammalgam | 2023 | Unknown | [^18] |
 | Privy | 2023 | Series A | [^18] |
 | Witness | 2024 | Seed | [^18][^21] |
 | Zama | 2024 | Series A | [^18][^21] |
 | Sonic (Fantom) | 2024 | Strategic | [^18][^21] |
 | Conduit | 2024 | Series A | [^18][^21] |
 | Dora | 2024-07-09 | Seed (co-led by Dragonfly + Lemniscap, $5.5M) | [^21][^27] |
-| Ammalgam | 2024-11-08 | Extended Seed | [^18][^28] |
+| Ammalgam | 2024-09-10 | Seed ($2.5M, co-led by Lightspeed Faction and Framework Ventures; Robot Ventures participated) | [^18][^28][^33] |
 | ETHZilla (180 Life Sciences) | 2025-08-04 | PIPE ($425M, led by Electric Capital + Harbour Island) | [^18][^29] |
 | Forward Industries | 2025-09-11 | PIPE ($1.65B, anchored by Multicoin/Jump/Galaxy; Chitra as angel) | [^18][^30] |
 | Divine | 2025-09-25 | Seed ($6.6M, led by Paradigm) | [^18][^31][^32] |
@@ -155,8 +154,9 @@ No independently sourced founder testimonials found. Tarun Chitra is widely desc
 [^25]: a16z crypto, "Building and Running a DAO: Why Governance Matters," Tarun Chitra, October 2021. https://a16zcrypto.com/team/tarun-chitra/
 [^26]: YouTube, "Breakpoint 2023: Power Talk: Tarun Chitra CEO & Founder of Gauntlet," 2023. https://www.youtube.com/watch?v=DE9ujwX7KM8
 [^27]: Chainwire, "Dora Announces Close of $5.5M Early Stage Funding Round co-led by Dragonfly and Lemniscap," July 9, 2024. https://chainwire.org/2024/07/09/dora-announces-close-of-5-5m-early-stage-funding-round-co-led-by-dragonfly-and-lemniscap/
-[^28]: CryptoRank, "Ammalgam Funding Rounds," accessed June 2026. https://cryptorank.io/ico/ammalgam
+[^28]: PR Newswire, "Ammalgam Raises $2.5M To Revolutionize Decentralized Finance with DLEX Protocol," September 10, 2024. https://www.prnewswire.com/news-releases/ammalgam-raises-2-5m-to-revolutionize-decentralized-finance-with-dlex-protocol-302243034.html — $2.5M seed round co-led by Lightspeed Faction and Framework Ventures; participants include Robot Ventures, Bodhi Ventures, NGC Ventures, DeWhales, Blockchain Founders Fund; angels Kain Warwick, Anton Bukov, Spencer Noon, Jordi Alexander.
 [^29]: PR Newswire, "180 Life Sciences Closes $425 Million Private Placement to Advance its Ethereum Treasury Strategy," August 4, 2025. https://www.prnewswire.com/news-releases/180-life-sciences-closes-425-million-private-placement-to-advance-its-ethereum-treasury-strategy-302521381.html
 [^30]: Multicoin Capital, "Creating The World's Leading Solana Treasury Company," September 11, 2025. https://multicoin.capital/2025/09/11/creating-the-worlds-leading-solana-treasury-company/
 [^31]: Blockworks, "Divine raises $6.6M to expand Credit lending protocol," September 25, 2025. https://blockworks.co/news/divine-raises-6-6m-to-expand-credit-lending-protocol
 [^32]: Phemex News, "Divine Secures $6.6M Seed Funding Led by Paradigm," September 25, 2025. https://phemex.com/news/article/blockchain-microfinance-firm-divine-raises-66-million-in-seed-funding-21298
+[^33]: FintecBuzz, "Ammalgam Raises $2.5M To Revolutionize Decentralized Finance with DLEX Protocol," September 11, 2024. https://fintecbuzz.com/ammalgam-raises-2-5m-to-revolutionize-decentralized-finance-with-dlex-protocol/ — Confirms $2.5M seed round, co-led by Lightspeed Faction and Framework Ventures, with Robot Ventures, Bodhi Ventures, NGC Ventures, DeWhales, and Blockchain Founders Fund participating.

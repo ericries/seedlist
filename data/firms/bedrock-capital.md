@@ -94,7 +94,7 @@ Based on 28 unique verified portfolio companies. Bedrock has approximately 75 to
 | Punch List | Seed | 2020 | Home Inspection | Active [^12] |
 | SoleSavy | Series A (led) | 2021 | Sneaker Community | Active [^12][^26] |
 | Basis | Seed (led, $3.75M) | 2018-10-04 | Mental Health/Wellness | Shut Down [^27][^28] |
-| TensorZero | Seed | 2025 | AI Infrastructure | Active [^12] |
+| TensorZero | Seed ($7.3M, led by FirstMark; Bedrock participated) | 2025-08-19 | AI Infrastructure / LLMOps | Active [^12][^30][^31][^32] |
 | Durin | Seed | 2025 | AI | Active [^12] |
 
 ## In Their Own Words
@@ -144,3 +144,6 @@ No other independently sourced founder testimonials found. The Bedrock website r
 [^27]: TechCrunch, "Former Uber exec Andrew Chapin takes the wraps off his stealth mental health startup," October 4, 2018. https://techcrunch.com/2018/10/04/former-uber-exec-andrew-chapin-takes-the-wraps-off-his-stealth-mental-health-startup/
 [^28]: FinSMEs, "Basis Raises $3.75M in Funding," October 2018. https://www.finsmes.com/2018/10/basis-raises-3-75m-in-funding.html
 [^29]: "Mach Industries Raises $300 Million in Series C Funding," PR Newswire press release, June 2, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/mach-industries-raises-300-million-in-series-c-funding-302787788.html
+[^30]: PR Newswire, "TensorZero raises $7.3M seed round to build an open-source stack for industrial-grade LLM applications," August 19, 2025. https://www.prnewswire.com/news-releases/tensorzero-raises-7-3m-seed-round-to-build-an-open-source-stack-for-industrial-grade-llm-applications-302532973.html — $7.3M seed led by FirstMark with participation from Bessemer Venture Partners, Bedrock, DRW, Coalition, and strategic angels.
+[^31]: TensorZero blog, "TensorZero Raises $7.3M Seed Round to Build an Open-Source Stack for Industrial-Grade LLM Applications," August 18, 2025. https://www.tensorzero.com/blog/tensorzero-raises-7-3m-seed-round-to-build-an-open-source-stack-for-industrial-grade-llm-applications/ — Company's own announcement confirms $7.3M seed led by FirstMark; Bedrock named as a participant.
+[^32]: AlleyWatch, "TensorZero Raises $7.3M to Build Open-Source Stack for Industrial-Grade LLM Applications," August 2025. https://www.alleywatch.com/2025/08/tensorzero-open-source-llm-stack-gateway-observability-ai-infrastructure-platform-gabriel-bianconi/ — Independent press coverage confirms Bedrock among participants.
