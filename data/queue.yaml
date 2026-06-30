@@ -33366,3 +33366,78 @@ queue:
   added: '2026-03-17'
   discovered_from: ground
   source: Participated in Ground $3.6M pre-seed (2026-06-24)
+- name: MissionOG
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: grailpay
+  source: led $10.5M Series A in GrailPay (2026-06-25)
+- name: Virescent Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mako-aerospace
+  source: led AU$28M Series A in MAKO Aerospace (2026-06-29)
+- name: Counterpart Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: grailpay
+  source: participated in GrailPay Series A (2026-06-25)
+- name: EJF Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: grailpay
+  source: participated in GrailPay Series A (2026-06-25)
+- name: SSC Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: grailpay
+  source: participated in GrailPay Series A (2026-06-25)
+- name: AIN Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nebex
+  source: participated in Nebex Seed (2026-06-29)
+- name: Hard Launch Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: omen-ai
+  source: participated in Omen AI Series A (2026-06-29)
+- name: Cory Rellas
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Nava Ventures
+  discovered_from: omen-ai
+  source: Partner at Nava Ventures; led Omen AI Series A and provided quoted investor
+    commentary (2026-06-29)
+- name: Tejpaul Bhatia
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Nebex
+  discovered_from: nebex
+  source: Founder & CEO of Nebex; previously CEO of Axiom Space with $1B+ commercial
+    space deal track record
+- name: Will Messina
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: GrailPay
+  discovered_from: grailpay
+  source: Co-founder & CEO of GrailPay; led the $10.5M Series A (2026-06-25)

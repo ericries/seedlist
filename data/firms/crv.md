@@ -163,6 +163,7 @@ This table represents 40 verified investments out of approximately 397 total com
 | Capy | Seed | ~2024 | AI | Active [^21] |
 | Joyful Health | Series A (led, $17M) | 2026-04-16 | Healthcare / AI | Active [^30] |
 | THEKER | Series A (led, €73M / ~$85M) | 2026-06-11 | Robotics / AI | Active [^35] |
+| Omen AI | Series A (participated, $31M) | 2026-06-29 | AI / Data Centers / Infrastructure / Sensors | Active [^omen1][^omen2] |
 
 ## In Their Own Words
 
@@ -241,3 +242,7 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 [^34]: BusinessWire, "Mercury Raises $200 Million Series D at $5.2B Valuation," May 20, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260520511817/en/Mercury-Raises-$200-Million-Series-D-at-$5.2B-Valuation — Confirms CRV participated in Mercury's $200M Series D on May 20, 2026 at $5.2B valuation (up 49% from $3.5B March 2025 Series C); TCV led; existing investors a16z, Coatue, Sapphire Ventures, Sequoia Capital, and Spark Capital also participated.
 
 [^35]: Cathay Capital, "THEKER raises $85M in Europe's largest ever robotics Series A, led by CRV with backing from Samsung and LVMH," June 11, 2026. Accessed June 2026. https://www.cathaycapital.com/theker-raises-85m-in-europes-largest-ever-robotics-series-a-led-by-crv-with-backing-from-samsung-and-lvmh/ — Confirms €73M (~$85M) Series A on June 11, 2026 led by CRV with Samsung, LVMH, Cathay Innovation, 20VC, Henkel Ventures, Korelya Capital, Bright Pixel Capital, Inditex, and Kibo Ventures participating. Reported as Europe's largest robotics Series A and CRV's first investment in Spain.
+
+[^omen1]: TechCrunch, "Omen AI's plan to optimize data centers is all wet," June 29, 2026. Accessed June 2026. https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/ — Confirms CRV participated in Omen AI's $31M Series A led by Nava Ventures.
+
+[^omen2]: SiliconANGLE, "Omen AI raises $31M to help data centers avoid costly downtime with continuous liquid coolant monitoring," June 29, 2026. Accessed June 2026. https://siliconangle.com/2026/06/29/omen-ai-raises-31m-help-data-centers-avoid-costly-downtime-continuous-liquid-coolant-monitoring/ — Independent confirmation of CRV's participation.
