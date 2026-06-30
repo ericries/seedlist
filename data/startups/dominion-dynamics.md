@@ -32,7 +32,7 @@ last_researched: 2026-06-30
 
 ## About
 
-Dominion Dynamics is an Ottawa, Canada-based defence technology company building specialized sensing, telemetry-fusion, and command-and-control software designed to maintain persistent situational awareness in extreme and infrastructure-constrained environments [^1][^2][^3]. The company's flagship platform AuraNet powers an Arctic surveillance network already used by the Canadian Rangers in the High Arctic, and the company is developing Scout, an uncrewed AI-powered drone designed to operate independently or alongside fighter jets [^1][^2][^3]. Dominion Dynamics was founded in June 2025 by Eliot Pence and operates a manufacturing facility in Kanata, Ontario and a development office in Toronto [^1][^3]. The June 2026 round is reported as the largest Series A in Canadian defence-tech history [^2][^3].
+Dominion Dynamics is an Ottawa, Canada-based defence technology company building specialized sensing, telemetry-fusion, and command-and-control software designed to maintain persistent situational awareness in extreme and infrastructure-constrained environments [^1][^2][^3]. The company's flagship platform AuraNet powers an Arctic surveillance network already used by the Canadian Rangers in the High Arctic, and the company is developing Scout, an uncrewed AI-powered drone designed to operate independently or alongside fighter jets [^1][^2][^3]. Dominion Dynamics was founded in June 2025 by Eliot Pence and operates a manufacturing facility in Kanata, Ontario and a development office in Toronto [^1][^3]. The June 2026 round closed at a USD 400M post-money valuation (CAD 570M) and is reported as the largest Series A in Canadian defence-tech history [^2][^3][^4].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -40,7 +40,7 @@ Dominion Dynamics is an Ottawa, Canada-based defence technology company building
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-30 | Series A | C$139M | Georgian | Valor Equity Partners, Expeditions, Lakestar, OMERS, BDC, RBC, Deloitte Ventures, JDY Capital, BCI, Bessemer Venture Partners, Garage Capital, Golden Ventures, Silent Ventures [^1][^2][^3] |
+| 2026-06-30 | Series A | C$139M (USD 100M; USD 400M post-money) | Georgian | Valor Equity Partners, Expeditions, Lakestar, OMERS, BDC, RBC, Deloitte Ventures, JDY Capital, BCI, Bessemer Venture Partners, Garage Capital, Golden Ventures, Silent Ventures [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -59,3 +59,5 @@ Dominion Dynamics is an Ottawa, Canada-based defence technology company building
 [^2]: BetaKit, "Dominion Dynamics lands $139 million in Canada's largest defence-tech Series A," June 30, 2026. Accessed June 2026. https://betakit.com/dominion-dynamics-lands-139-million-in-canadas-largest-defence-tech-series-a/ — Independent confirmation of C$139M Series A led by Georgian with the same investor syndicate. Notes Valor Equity Partners participation came via its Valor Atreides AI Fund and BDC participation came via its Strong North Fund.
 
 [^3]: Ottawa Business Journal, "Dominion Dynamics closes $139M funding round in bid to scale defence technology," June 30, 2026. Accessed June 2026. https://obj.ca/dominion-dynamics-closes-139m-funding-round/ — Third independent confirmation of C$139M Series A; reports Ottawa headquarters and Kanata, Ontario manufacturing operations.
+
+[^4]: Resilience Media, "Dominion Dynamics raises $100M at a $400M valuation to build defence tech for arctic environments," June 30, 2026. Accessed June 2026. https://resiliencemedia.co/dominion-dynamics-raises-100m-at-a-400m-valuation-to-build-defence-tech-for-arctic-environments/ — Fourth independent confirmation; reports USD 400M post-money valuation (CAD 570M), USD 100M / CAD 150M round size, and confirms Georgian also led the prior USD 15M seed round in January 2026.

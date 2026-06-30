@@ -2719,10 +2719,16 @@ priority:
   type: firm
   reason: "participated in Dominion Dynamics Series A (C$139M, 2026-06-30)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Bessemer Venture Partners participation as existing investor in Dominion Dynamics C$139M (USD 100M) Series A on 2026-06-30 at USD 400M post-money valuation, Georgian-led, via 4 independent primary sources (PR Newswire press release [^dom1], BetaKit [^dom2], Ottawa Business Journal [^dom3], Resilience Media [^dom4]). Added Dominion Dynamics row to bessemer-venture-partners.md portfolio table with all 4 citations. Largest Series A in Canadian defence-tech history. Full participant list: Georgian (lead), Valor Equity Partners, Expeditions, Lakestar, OMERS, BDC, RBC, Deloitte Ventures, JDY Capital, BCI, Bessemer, Garage Capital, Golden Ventures, Silent Ventures."
 - slug: garage-capital
   type: firm
   reason: "participated in Dominion Dynamics Series A (C$139M, 2026-06-30)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Garage Capital participation as existing investor in Dominion Dynamics C$139M (USD 100M) Series A on 2026-06-30 at USD 400M post-money valuation, Georgian-led, via 4 independent primary sources (PR Newswire [^26], BetaKit [^27], Ottawa Business Journal [^28], Resilience Media [^29]). Added Dominion Dynamics row to garage-capital.md portfolio table with all 4 citations. Notable as a Kitchener-Waterloo Canadian seed firm participating in the largest Series A in Canadian defence-tech history."
 - slug: build
   type: startup
   reason: "new startup profile (Seed $8.5M, 2026-06-30, Index Ventures led)"
@@ -2731,6 +2737,9 @@ priority:
   type: startup
   reason: "new startup profile (Series A C$139M, 2026-06-30, Georgian led)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Dominion Dynamics C$139M (USD 100M) Series A on 2026-06-30 at USD 400M post-money valuation (CAD 570M), led by Georgian, via 4 independent primary sources (PR Newswire press release [^1], BetaKit [^2], Ottawa Business Journal [^3], Resilience Media [^4] — newly added as 4th citation). Strengthened profile with valuation context in About section and Funding History table. Confirmed full participant list: Georgian (lead), Valor Equity Partners (via Valor Atreides AI Fund), Expeditions, Lakestar, OMERS, BDC (via Strong North Fund), RBC, Deloitte Ventures (Canada), JDY Capital, BCI, Bessemer Venture Partners (existing), Garage Capital (existing), Golden Ventures (existing), Silent Ventures (existing). Largest Series A in Canadian defence-tech history. Total raised since June 2025 launch: C$169M."
 - slug: generativex
   type: startup
   reason: "new startup profile (Series A ¥650M, 2026-06-29, Nissay Capital led)"

@@ -157,6 +157,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | DriveNets | Series D ($410M, co-led with Atreides Management) | 2026-06-01 | AI Networking Infrastructure | [^21][^22][^23] |
 | Sarvam AI | Series B (participant; $234M first close of $300M round) | 2026-06-15 | AI / India | [^24][^25][^26] |
 | Verse | Series B (led, $54M) | 2026-06-18 | Climate / Energy / AI / Data Centers | [^verse1][^verse2][^verse3] |
+| Dominion Dynamics | Series A (existing investor, participant; C$139M / USD 100M round at USD 400M post-money) | 2026-06-30 | Defense Tech / Autonomy / Aerospace | [^dom1][^dom2][^dom3][^dom4] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -229,3 +230,11 @@ However, founder experiences are not universally positive. One founder reported 
 [^verse2]: Data Center Dynamics, "Verse raises $54m in Series B funding round for platform to expedite data center connections," June 2026. Accessed June 2026. https://www.datacenterdynamics.com/en/news/verse-raises-54m-in-series-b-funding-round-for-platform-to-expedite-data-center-connections/ — Independent confirmation Bessemer led the $54M Series B.
 
 [^verse3]: TheNextWeb, "Nvidia-backed Verse raises $54M for AI data centre power," June 2026. Accessed June 2026. https://thenextweb.com/news/verse-54m-series-b-ai-data-centre-power — Third independent confirmation of Bessemer leading the round.
+
+[^dom1]: PR Newswire, "Dominion Dynamics Raises $139M CAD Series A to Scale Arctic Surveillance Network and Drone Systems," June 30, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/dominion-dynamics-raises-139m-cad-series-a-to-scale-arctic-surveillance-network-and-drone-systems-302813965.html — Confirms C$139M (USD 100M) Series A led by Georgian; Bessemer Venture Partners named among existing investors participating alongside BCI, Garage Capital, Golden Ventures, and Silent Ventures.
+
+[^dom2]: BetaKit, "Dominion Dynamics lands $139 million in Canada's largest defence-tech Series A," June 30, 2026. Accessed June 2026. https://betakit.com/dominion-dynamics-lands-139-million-in-canadas-largest-defence-tech-series-a/ — Independent confirmation of Bessemer Venture Partners as a participating investor in the largest Series A in Canadian defence-tech history.
+
+[^dom3]: Ottawa Business Journal, "Dominion Dynamics closes $139M funding round in bid to scale defence technology," June 30, 2026. Accessed June 2026. https://obj.ca/dominion-dynamics-closes-139m-funding-round/ — Third independent confirmation explicitly listing Bessemer Venture Partners as a participating investor in the C$139M Series A.
+
+[^dom4]: Resilience Media, "Dominion Dynamics raises $100M at a $400M valuation to build defence tech for arctic environments," June 30, 2026. Accessed June 2026. https://resiliencemedia.co/dominion-dynamics-raises-100m-at-a-400m-valuation-to-build-defence-tech-for-arctic-environments/ — Fourth independent confirmation; reports USD 400M post-money valuation (CAD 570M) and confirms Bessemer Venture Partners participation.

@@ -106,6 +106,7 @@ The following table represents a partial sample of Garage Capital's 200+ investm
 | Nicoya Lifesciences | Early stage | ~2015 (founding year) | Biotech / Life Sciences | Active [^13] |
 | Humi | Early stage | ~2016 (founding year) | HR Tech / SaaS | Active [^13] |
 | Census | Early stage | ~2018 (founding year) | Data Infrastructure | Active [^13] |
+| Dominion Dynamics | Series A (existing investor, participant; C$139M / USD 100M round at USD 400M post-money) | 2026-06-30 | Defense Tech / Autonomy / Aerospace | Active [^26] [^27] [^28] [^29] |
 
 Note: Many entries use founding year as a proxy for investment year due to limited public disclosure of exact investment dates. This table represents approximately 15% of Garage Capital's 200+ investments.
 
@@ -152,3 +153,11 @@ No independently sourced founder testimonials found. The firm's website does not
 [^23]: "Vendr funding rounds and list of investors," Tracxn, accessed March 2026. https://tracxn.com/d/companies/vendr/__vH6zH8d50xyoE57tvHW1MBRL8uo3t09LpNWt1xfO-m4/funding-and-investors
 [^24]: "$7.5 million seed funding helps Upside Robotics plant the seeds for success," University of Waterloo News, February 2026, accessed March 2026. https://uwaterloo.ca/news/75-million-seed-funding-helps-upside-robotics-plant-seeds
 [^25]: "Applied Intuition to buy autonomous trucking SPAC Embark for $71M," TechCrunch, May 2023, accessed March 2026. https://techcrunch.com/2023/05/25/applied-intuition-to-buy-autonomous-trucking-spac-embark-for-71m/
+
+[^26]: PR Newswire, "Dominion Dynamics Raises $139M CAD Series A to Scale Arctic Surveillance Network and Drone Systems," June 30, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/dominion-dynamics-raises-139m-cad-series-a-to-scale-arctic-surveillance-network-and-drone-systems-302813965.html — Confirms C$139M (USD 100M) Series A led by Georgian; Garage Capital named among existing investors participating alongside BCI, Bessemer Venture Partners, Golden Ventures, and Silent Ventures.
+
+[^27]: BetaKit, "Dominion Dynamics lands $139 million in Canada's largest defence-tech Series A," June 30, 2026. Accessed June 2026. https://betakit.com/dominion-dynamics-lands-139-million-in-canadas-largest-defence-tech-series-a/ — Independent confirmation of Garage Capital as a participating investor in the largest Series A in Canadian defence-tech history.
+
+[^28]: Ottawa Business Journal, "Dominion Dynamics closes $139M funding round in bid to scale defence technology," June 30, 2026. Accessed June 2026. https://obj.ca/dominion-dynamics-closes-139m-funding-round/ — Third independent confirmation of Garage Capital participation in the C$139M Series A (note: this source lists a subset of investors; Garage is confirmed by the PR Newswire press release and BetaKit).
+
+[^29]: Resilience Media, "Dominion Dynamics raises $100M at a $400M valuation to build defence tech for arctic environments," June 30, 2026. Accessed June 2026. https://resiliencemedia.co/dominion-dynamics-raises-100m-at-a-400m-valuation-to-build-defence-tech-for-arctic-environments/ — Fourth independent confirmation; reports USD 400M post-money valuation (CAD 570M) and explicitly lists Garage Capital as a participating investor.
