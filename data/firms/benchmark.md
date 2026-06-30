@@ -209,7 +209,7 @@ The following table includes 45 Benchmark investments verified through press cov
 | Reducto | Series B (participated) | 2025-10-14 | AI / Document Intelligence | Private [^20][^43] |
 | Applied Compute | Early | 2026 | AI / Infrastructure | Private [^9] |
 | Forge | Early | ~2025 | AI | Private [^1] |
-| FOMO | Series B (participated, $75M at ~$550M val; Index Ventures led) | 2026-06-22 | Fintech / Crypto / Consumer Trading | Private [^9][^46][^47][^48] |
+| FOMO | Series B (participated, $75M at ~$550M val; Index Ventures led) | 2026-06-22 | Fintech / Crypto / Consumer Trading | Private [^9][^46][^47][^48][^49] |
 | Legora | Series D (participated) | 2026-03-10 | AI / Legal Tech | Private [^33] |
 | Eigen | Seed (led) | 2026 | AI / Social | Private [^34] |
 | Sierra | Series E (participated; co-led Seed 2024-02-13) | 2026-05-04 | AI / Customer Service | Private [^38][^39][^40] |
@@ -363,3 +363,5 @@ The following table includes 45 Benchmark investments verified through press cov
 [^47]: Fortune, "Exclusive: Index Ventures, Union Square Ventures back trading app Fomo at $550 million valuation," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/fomo-series-b-fundraise-index-ventures-union-square-ventures/ — Independent confirmation Benchmark participated at ~$550M valuation.
 
 [^48]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/ — Third independent confirmation Benchmark participated.
+
+[^49]: fomo, "fomo Series B led by Index Ventures," June 22, 2026. Accessed June 2026. https://fomo.family/blog/fomo-series-b/ — Fomo's own company press release confirming Benchmark's Series B participation as an existing investor.

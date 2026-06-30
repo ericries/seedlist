@@ -9,9 +9,9 @@ stage_focus: [seed, series-a, growth, late-stage]
 sector_focus: [enterprise-software, fintech, insurtech, digital-health, consumer, quantum-computing]
 check_size: "$3M-$50M+ (across AVP Venture, Early Growth, Growth strategies)"
 last_verified_investment:
-  date: 2025-01-28
-  company: "Alice & Bob"
-  round: "Series B"
+  date: 2026-06-22
+  company: "Isometric"
+  round: "Series A"
 social:
   linkedin: "linkedin.com/in/francoisrobinet"
 status: published
@@ -80,6 +80,7 @@ This analysis is based on 12 portfolio companies where Robinet is publicly named
 | Bene Bono | ~2022 (founding-year proxy) | Venture (AVP participation) | [^5] |
 | Qloo | ~2017 (founding-year proxy) | Venture (AVP / AXA Strategic Ventures participation) | [^10] |
 | Alice & Bob | 2025-01-28 | Series B (€100M, AVP co-lead with FFC and Bpifrance) | [^11][^19] |
+| Isometric | 2026-06-22 | Series A ($40M, AVP led; Lowercarbon Capital, Plural, John Doerr, Walter Kortschak participated) | [^21][^22][^23] |
 
 This table represents 13 of an unknown larger set personally attributed to Robinet. AVP firm-wide has invested in 60+ direct technology companies since 2015 [^7][^8]. Years marked "founding-year proxy" indicate the company's founding year is used where a contemporaneous round date for AVP's specific investment could not be verified within the time budget for this profile.
 
@@ -92,6 +93,8 @@ This table represents 13 of an unknown larger set personally attributed to Robin
 "In five years, AVP has delivered on its initial vision and has become a global investment platform in technology, capable of helping create world-class technology leaders in Europe and in the US." — François Robinet, GCV Powerlist 2022 [^5]
 
 "End-to-end encryption is a must for industries for which privacy of customer data is critical." — François Robinet, Institutional Investor Fintech Finance 40 profile [^10]
+
+"Certification has always forced a choice between speed and rigor. Isometric has eliminated that compromise." — François Robinet, on AVP's Series A lead investment in Isometric, June 22, 2026 [^21]
 
 ## What Founders Say
 
@@ -132,3 +135,6 @@ No independently sourced founder testimonials found. Press releases for AVP-led 
 [^18]: AVP, "Alex Scherbakovsky" partner profile, accessed May 2026. https://avpcap.com/avp/alex-scherbakovsky/
 [^19]: Alice & Bob, "Alice & Bob Closes €100M Series B Led by Future French Champions (FFC), AVP and Bpifrance," January 28, 2025. https://alice-bob.com/newsroom/alice-bob-100m-series-b-fundraising-press-release/
 [^20]: AVP, "People at AVP," accessed May 2026. https://avpcap.com/people/
+[^21]: Isometric, "Isometric raises $40M to bring agentic certification to the industrial economy," June 22, 2026. Accessed June 2026. https://isometric.com/writing-articles/isometric-raises-40m-to-bring-agentic-certification-to-the-industrial-economy — Isometric's own press release naming AVP as Series A lead and quoting Managing Partner François Robinet.
+[^22]: Finsmes, "Isometric Raises $40M in Series A Funding," June 22, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/isometric-raises-40m-in-series-a-funding.html — Independent confirmation of AVP-led $40M Series A.
+[^23]: Carbon Herald, "Isometric Secures $40M To Bring AI Certification Beyond Carbon Markets," June 22, 2026. Accessed June 2026. https://carbonherald.com/isometric-secures-40m-to-bring-ai-certification-beyond-carbon-markets/ — Third independent confirmation of AVP as Series A lead with Lowercarbon, Plural, Doerr, Kortschak participating.

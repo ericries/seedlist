@@ -152,7 +152,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | PointFive | Series B (participated, $60M; Accel led) | 2026-06-08 | FinOps / Cloud Cost / AI Efficiency | [^55][^56][^57] |
 | NewCore | Pre-Seed (co-led with Cyberstarts, $16M of $66M total) | 2026-06-15 | Cybersecurity / Agentic Identity | [^58][^59][^60] |
 | Conduct | Series A (co-led with ICONIQ, $60M; SAP strategic; Creandum, Lucid Capital, Booom participated) | 2026-06-17 | AI / Enterprise Operating System / SAP | [^61][^62][^63] |
-| Fomo | Series B (led, $75M at ~$550M val) | 2026-06-22 | Fintech / Crypto / Consumer Trading | [^64][^65][^66] |
+| Fomo | Series B (led, $75M at ~$550M val) | 2026-06-22 | Fintech / Crypto / Consumer Trading | [^64][^65][^66][^67] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -269,4 +269,6 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^65]: Fortune, "Exclusive: Index Ventures, Union Square Ventures back trading app Fomo at $550 million valuation," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/fomo-series-b-fundraise-index-ventures-union-square-ventures/ — Independent confirmation of Index Ventures-led $75M Series B at ~$550M valuation.
 
 [^66]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/ — Third independent confirmation of Index Ventures-led Series B for crypto-focused consumer trading app.
+
+[^67]: fomo, "fomo Series B led by Index Ventures," June 22, 2026. Accessed June 2026. https://fomo.family/blog/fomo-series-b/ — Fomo's own company press release confirming Index Ventures led the $75M Series B with USV and Benchmark participating alongside angels Mark Pincus, Kevin & Julia Hartz, Humam Sakhnini, Tomas Okmanas, Antoine Le Nel, Sebastian Knutsson, Stephane Kurgan, Patrick Kavanagh, Jae Park, Alexander Casimo, and Jack Randall. Discloses 625K+ users and $4B+ trading volume since launch.
 

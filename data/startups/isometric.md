@@ -22,6 +22,10 @@ investors:
   round: series-a
   slug: john-doerr
   year: 2026
+- date: 2026-06-22
+  round: series-a
+  slug: francois-robinet
+  year: 2026
 - round: Series ($25M, Plural participant)
   slug: taavet-hinrikus
   year: 2024
@@ -60,11 +64,13 @@ Isometric's flagship product, Certify, is described as an agentic AI platform th
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
-| 2026-06-22 | Series A | $40M | AVP | Lowercarbon Capital, Plural, John Doerr, Walter Kortschak [^1] [^2] [^3] |
+| 2026-06-22 | Series A | $40M | AVP (AXA Venture Partners) | Lowercarbon Capital, Plural, John Doerr, Walter Kortschak [^1][^2][^3][^4][^5] |
+
+AVP — formerly AXA Venture Partners, now independent following a 2024–2025 management buyout — led the round with Managing Partner François Robinet as the named partner [^4]. The round is Isometric's first publicly disclosed Series A; the company had previously operated primarily as a carbon-removal registry serving enterprise buyers including Microsoft, Anglo American, JPMorgan Chase, and Boeing [^4][^5].
 
 ## What Investors Say
 
-No independently sourced investor quotes beyond announcement boilerplate found at time of research.
+François Robinet, AVP Managing Partner: "Certification has always forced a choice between speed and rigor. Isometric has eliminated that compromise" [^4].
 
 ## What Founders Say
 
@@ -75,3 +81,5 @@ Founder and CEO Eamon Jubbawy on the certification industry: "the certification 
 [^1]: Finsmes, "Isometric Raises $40M in Series A Funding," June 22, 2026. https://www.finsmes.com/2026/06/isometric-raises-40m-in-series-a-funding.html
 [^2]: UKTN, "Isometric raises over £30m to expand AI certification platform," June 22, 2026. https://www.uktech.news/ai/isometric-raises-over-30m-to-expand-ai-certification-platform-20260622
 [^3]: Carbon Herald, "Isometric Secures $40M To Bring AI Certification Beyond Carbon Markets," June 22, 2026. https://carbonherald.com/isometric-secures-40m-to-bring-ai-certification-beyond-carbon-markets/
+[^4]: Isometric, "Isometric raises $40M to bring agentic certification to the industrial economy," June 22, 2026. Accessed June 2026. https://isometric.com/writing-articles/isometric-raises-40m-to-bring-agentic-certification-to-the-industrial-economy
+[^5]: ESG News, "Isometric Raises $40 Million to Scale AI Certification Across Carbon, Energy and Industrial Markets," June 22, 2026. Accessed June 2026. https://esgnews.com/isometric-raises-40-million-to-scale-ai-certification-across-carbon-energy-and-industrial-markets/

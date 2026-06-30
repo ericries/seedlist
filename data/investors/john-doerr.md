@@ -109,7 +109,7 @@ Total: 25 verified investments. Note: this sample represents a small fraction of
 | Complete Solaria | 2023 | Growth | [^26] |
 | Terradot | 2024-12-12 | Series A (led) | [^27][^31][^32] |
 | Hippocratic AI | 2025 | Series C | [^28] |
-| Isometric | 2026-06-22 | Series A | [^33][^34][^35] |
+| Isometric | 2026-06-22 | Series A | [^33][^34][^35][^36] |
 
 ## In Their Own Words
 
@@ -238,3 +238,4 @@ No independently sourced founder testimonials about working directly with John D
 [^33]: Finsmes, "Isometric Raises $40M in Series A Funding," June 22, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/isometric-raises-40m-in-series-a-funding.html — Confirms John Doerr as an angel participant in the $40M Series A led by AVP on June 22, 2026.
 [^34]: UKTN, "Isometric raises over £30m to expand AI certification platform," June 22, 2026. Accessed June 2026. https://www.uktech.news/ai/isometric-raises-over-30m-to-expand-ai-certification-platform-20260622 — Independent UK tech press confirmation of John Doerr's participation.
 [^35]: Carbon Herald, "Isometric Secures $40M To Bring AI Certification Beyond Carbon Markets," June 22, 2026. Accessed June 2026. https://carbonherald.com/isometric-secures-40m-to-bring-ai-certification-beyond-carbon-markets/ — Third independent source confirming John Doerr in the Isometric Series A.
+[^36]: Isometric, "Isometric raises $40M to bring agentic certification to the industrial economy," June 22, 2026. Accessed June 2026. https://isometric.com/writing-articles/isometric-raises-40m-to-bring-agentic-certification-to-the-industrial-economy — Isometric's own press release naming John Doerr as a personal participant alongside Walter Kortschak.

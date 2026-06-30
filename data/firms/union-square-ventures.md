@@ -114,7 +114,7 @@ Based on USV's portfolio of 130+ startups and 509 total investments across 234 c
 | Helium | Series C | 2019 | Crypto/IoT | Active | [^7][^25] |
 | Board | Series A (led, $20M) | 2026-06-02 | Consumer / Gaming / Hardware | Active | [^26] |
 | Suno | Series D (participant, $400M at $5.4B val; Bond Capital led) | 2026-06-03 | AI / Generative Music / Consumer | Active | [^27] |
-| Fomo | Series B (participated, $75M at ~$550M val; Index Ventures led) | 2026-06-22 | Fintech / Crypto / Consumer Trading | Active | [^28][^29][^30] |
+| Fomo | Series B (participated, $75M at ~$550M val; Index Ventures led) | 2026-06-22 | Fintech / Crypto / Consumer Trading | Active | [^28][^29][^30][^31] |
 
 *This table represents approximately 17 of 130+ known startup investments. USV's portfolio of 234 companies includes follow-on investments [^7][^8].*
 
@@ -171,3 +171,5 @@ No independently sourced founder testimonials found. USV's portfolio founders ha
 [^29]: Fortune, "Exclusive: Index Ventures, Union Square Ventures back trading app Fomo at $550 million valuation," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/fomo-series-b-fundraise-index-ventures-union-square-ventures/ — Independent confirmation of USV participation in $75M Series B at ~$550M valuation.
 
 [^30]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/ — Third independent confirmation of USV participation in Fomo's Series B.
+
+[^31]: fomo, "fomo Series B led by Index Ventures," June 22, 2026. Accessed June 2026. https://fomo.family/blog/fomo-series-b/ — Fomo's own company press release confirming Union Square Ventures' Series B participation alongside Benchmark and 11 angels.

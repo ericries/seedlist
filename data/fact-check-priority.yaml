@@ -24,6 +24,9 @@ priority:
   type: startup
   reason: new startup profile (Series A 2026-06-24, $100M led by Summit Partners)
   added: 2026-06-28
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Re-verified Runpod $100M growth round (NOT Series A) on 2026-06-24 led by Summit Partners at $1.0B post-money via 4 primary sources already in profile (PR Newswire press release [^1], The SaaS News [^2], Crypto Briefing [^3], Yahoo Finance [^4]). Michael Medici joined board; J.P. Morgan was sole placement agent. Stage_latest correctly Growth (not Series A) per primary press release language. Profile fully accurate — no changes needed.'
 - slug: twenty-technologies
   type: startup
   reason: new startup profile (Series B 2026-06-17, $100M led by Accel)
@@ -2194,10 +2197,16 @@ priority:
   type: startup
   reason: New profile for $75M Series B (2026-06-22, Index-led)
   added: '2026-06-22'
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Fomo $75M Series B on 2026-06-22 at ~$550M post-money valuation led by Index Ventures with Union Square Ventures and Benchmark (existing investor) plus 11 angels participating, via 4 independent primary sources (FinSMEs [^1], Fortune exclusive [^2], Crypto Briefing [^3], Fomo company press release [^4] — newly added). Expanded participant list in funding history table to include all 11 named angels (Mark Pincus, Kevin Hartz, Julia Hartz, Humam Sakhnini, Tomas Okmanas, Antoine Le Nel, Sebastian Knutsson, Stephane Kurgan, Patrick Kavanagh, Jae Park, Alexander Casimo, Jack Randall). Added Fomo company blog as 4th citation to fomo.md, index-ventures.md, union-square-ventures.md, benchmark.md, and kevin-hartz.md. Disclosed 625K+ users / USD 4B+ trading volume / 68K+ first-time crypto buyers via Apple Pay.'
 - slug: isometric
   type: startup
   reason: New profile for $40M Series A (2026-06-22, AVP-led)
   added: '2026-06-22'
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Isometric $40M Series A on 2026-06-22 led by AVP (formerly AXA Venture Partners; François Robinet named partner) with Lowercarbon Capital, Plural, John Doerr, and Walter Kortschak participating, via 5 independent primary sources (FinSMEs [^1], UKTN [^2], Carbon Herald [^3], Isometric company press release [^4] — newly added, ESG News [^5] — newly added). Clarified lead from "AVP" to "AVP (AXA Venture Partners)" in funding history table. Added François Robinet investor quote ("Certification has always forced a choice between speed and rigor. Isometric has eliminated that compromise.") to isometric.md "What Investors Say". Added francois-robinet slug to isometric.md investors[] frontmatter. Updated francois-robinet.md: added Isometric Series A row to portfolio, updated last_verified_investment from Alice & Bob 2025-01-28 to Isometric 2026-06-22, added Isometric quote to "In Their Own Words", added 3 new citations [^21][^22][^23]. Added isometric.com press release as 4th citation to john-doerr.md [^36].'
 - slug: grid-online
   type: startup
   reason: New profile for €4M seed extension (2026-06-22, DFF/Movens co-led)

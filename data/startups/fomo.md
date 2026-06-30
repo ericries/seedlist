@@ -56,9 +56,9 @@ Fomo is a social-first consumer trading platform focused on crypto and consumer 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-22 | Series B | $75M | Index Ventures | Union Square Ventures, Benchmark, Mark Pincus, Kevin Hartz, Humam Sakhnini [^1][^2][^3] |
+| 2026-06-22 | Series B | $75M | Index Ventures | Union Square Ventures, Benchmark, Mark Pincus, Kevin Hartz, Julia Hartz, Humam Sakhnini, Tomas Okmanas, Antoine Le Nel, Sebastian Knutsson, Stephane Kurgan, Patrick Kavanagh, Jae Park, Alexander Casimo, Jack Randall [^1][^2][^3][^4] |
 
-The Series B values Fomo at approximately $550M post-money [^2][^3].
+The Series B values Fomo at approximately $550M post-money [^2][^3]. Fomo's own announcement reports more than 625,000 users in its first year, $4 billion+ in cumulative trading volume, and 68,000+ first-time crypto purchasers onboarded via Apple Pay [^4].
 
 ## What Investors Say
 
@@ -73,3 +73,4 @@ No independently sourced founder quotes are available from the announcement at t
 [^1]: FinSMEs, "fomo Raises $75M in Series B Funding," June 22, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/fomo-raises-75m-in-series-b-funding.html
 [^2]: Fortune, "Exclusive: Index Ventures, Union Square Ventures back trading app Fomo at $550 million valuation," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/fomo-series-b-fundraise-index-ventures-union-square-ventures/
 [^3]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/
+[^4]: fomo, "fomo Series B led by Index Ventures," June 22, 2026. Accessed June 2026. https://fomo.family/blog/fomo-series-b/

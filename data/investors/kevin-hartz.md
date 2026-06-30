@@ -126,7 +126,7 @@ The table below covers verified investments with sourced records. Hartz's full d
 | Multiply Mortgage | 2025 | Series A | Fintech/Real Estate | [^19] |
 | Vigil Labs | 2025 | Seed | AI/Security | [^7] |
 | Decagon | 2025 | Series C | AI/Customer Service | [^17] |
-| Fomo | 2026-06-22 | Series B | Fintech/Crypto/Consumer Trading | [^23][^24][^25] |
+| Fomo | 2026-06-22 | Series B | Fintech/Crypto/Consumer Trading | [^23][^24][^25][^26] |
 
 ## In Their Own Words
 
@@ -233,3 +233,5 @@ No independently sourced founder testimonials found. Kevin Hartz is active on Tw
 [^24]: Fortune, "Exclusive: Index Ventures, Union Square Ventures back trading app Fomo at $550 million valuation," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/fomo-series-b-fundraise-index-ventures-union-square-ventures/ — Independent confirmation of Kevin Hartz participation.
 
 [^25]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/ — Third independent confirmation of Kevin Hartz participation.
+
+[^26]: fomo, "fomo Series B led by Index Ventures," June 22, 2026. Accessed June 2026. https://fomo.family/blog/fomo-series-b/ — Fomo's own company press release naming both Kevin and Julia Hartz among the 11 angel investors in the Series B.
