@@ -2661,3 +2661,31 @@ priority:
   status: resolved
   resolved: 2026-06-30
   resolution_note: "Verified YC participated in Warp $60M Series B on 2026-06-25 (Battery Ventures led) via same 3 primary sources (Warp company announcement, SiliconANGLE, Axios Pro). Added Warp row to y-combinator.md portfolio with citations [^61][^62][^63]."
+- slug: chamath-palihapitiya
+  type: investor
+  reason: "took CEO role at 8090 Labs Series A ($135M, 2026-06-29)"
+  added: 2026-06-30
+- slug: craft-ventures
+  type: firm
+  reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
+  added: 2026-06-30
+- slug: the-production-board
+  type: firm
+  reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
+  added: 2026-06-30
+- slug: launch
+  type: firm
+  reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
+  added: 2026-06-30
+- slug: leapxpert
+  type: startup
+  reason: "new startup profile (Growth $180M, 2026-06-30, Riverwood Capital led)"
+  added: 2026-06-30
+- slug: taxwire
+  type: startup
+  reason: "new startup profile (Seed+Series A $25M, 2026-06-30, Headline Ventures led)"
+  added: 2026-06-30
+- slug: pie
+  type: startup
+  reason: "new startup profile (Series A $19.5M, 2026-06-30, Lightspeed Venture Partners led)"
+  added: 2026-06-30
