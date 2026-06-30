@@ -3,9 +3,9 @@ check_size: $25K-$1M (angel); fund investments larger via Marathon
 firm: marathon-management-partners
 last_researched: 2026-05-23
 last_verified_investment:
-  company: Clouted
-  date: 2026-05-20
-  round: Seed
+  company: Straiker
+  date: 2026-06-29
+  round: Series A
 location: San Francisco, CA
 name: Gokul Rajaram
 role: Founding Partner
@@ -129,6 +129,7 @@ Based on 31 verified investments from Rajaram's angel portfolio (a subset of 300
 | Niural | Series A Lead | 2025 | Payroll/Finance | PR Newswire [^11] |
 | Clouted | Seed (participant) | 2026-05-20 | AI/Marketing/Video | TechCrunch [^12] |
 | Maneva | Seed (participant) | 2025-03-07 | AI/Manufacturing Vision | BetaKit [^13]; SignalBase [^14] |
+| Straiker | Series A (Marathon-led; Rajaram joined board) | 2026-06-29 | AI/Cybersecurity | PR Newswire [^15]; Tech Startups [^16] |
 
 *This table represents a subset of Rajaram's 300+ angel investments and Marathon fund investments. Only 35 of 300+ investments are listed; many others are unverified or undisclosed [^1][^2].*
 
@@ -164,3 +165,5 @@ Based on 31 verified investments from Rajaram's angel portfolio (a subset of 300
 [^12]: TechCrunch, "Clouted wants to take the guesswork out of making short videos go viral," May 20, 2026. Accessed May 2026. https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/
 [^13]: BetaKit, "Maneva raises $27-million USD Series A to expand AI vision in manufacturing," June 10, 2026. Accessed June 2026. Notes Maneva "has seen early seed funding support from Bay area investors like Gokul Rajaram." https://betakit.com/maneva-raises-27-million-usd-series-a-to-expand-ai-vision-in-manufacturing/
 [^14]: SignalBase, "Maneva AI Secures $10M Seed Round to Revolutionize Manufacturing with a Superhuman Digital Workforce," accessed June 2026. Seed closed 2025-03-07. https://www.trysignalbase.com/news/funding/maneva-ai-secures-10m-seed-round-to-revolutionize-manufacturing-with-a-superhuman-digital-workforce
+[^15]: PR Newswire, "Straiker Raises $64M Series A to Secure the Agentic Workforce," June 29, 2026. Accessed June 2026. Marathon Management Partners led the round; Gokul Rajaram joined Straiker's Board of Directors. https://www.prnewswire.com/news-releases/straiker-raises-64m-series-a-to-secure-the-agentic-workforce-302812638.html
+[^16]: Tech Startups, "AI security startup Straiker raises $64M Series A as enterprises rush to secure AI agents," June 29, 2026. Accessed June 2026. https://techstartups.com/2026/06/29/straiker-raises-64m-series-a-as-enterprises-rush-to-secure-ai-agents/

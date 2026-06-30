@@ -3,9 +3,9 @@ check_size: $750K-$4M
 firm: first-round-capital
 last_researched: 2026-03-16
 last_verified_investment:
-  company: Cache
-  date: 2025-08-15
-  round: Series A
+  company: Proception
+  date: 2026-06-29
+  round: Seed
 location: San Francisco, CA
 name: Bill Trenchard
 role: Partner
@@ -127,6 +127,7 @@ Trenchard's stated interest in "Climate Moonshots" has zero representation in th
 | Serval | ~2024 | Seed | [^1] |
 | Cache | 2025 | Series A | [^4] |
 | Rillet | ~2023 | Seed | [^1] |
+| Proception | 2026-06-29 | Seed (led) | [^26] |
 
 *This table represents approximately 30 of an estimated 49+ investments at First Round Capital (per PitchBook). Angel-era investments at Founder Collective and personally are included where verifiable. Many exact investment dates use founding year or announcement date as proxy.*
 
@@ -227,3 +228,4 @@ No independently sourced founder testimonials about Bill Trenchard's performance
 [^24]: Confluence.VC, "9 Lessons From Bill Trenchard (Partner @ First Round Capital)." https://confluence.vc/bill-trenchard-first-round/. Accessed March 2026.
 
 [^25]: Bill Trenchard (@btrenchard), X post on Verkada's Filip Kaliszan, February 2025. https://x.com/btrenchard/status/1893053713352401125. Accessed March 2026.
+[^26]: Brian Heater, "Exclusive: Robot hand company settles Tesla trade secret suit and announces $11M raise," TechCrunch, June 29, 2026. Accessed June 2026. First Round Capital led the $11M seed; Trenchard led the investment and is quoted in the article. https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/

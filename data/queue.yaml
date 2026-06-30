@@ -33441,3 +33441,87 @@ queue:
   firm: GrailPay
   discovered_from: grailpay
   source: Co-founder & CEO of GrailPay; led the $10.5M Series A (2026-06-25)
+- name: Seventure Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wultra
+  source: led Wultra €6.8M Series A (2026-06-29)
+- name: Elevator Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wultra
+  source: returning investor in Wultra Series A (2026-06-29)
+- name: Navec Venture Holding
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: epitome-therapeutics
+  source: co-investor in Epitome Therapeutics pre-seed (2026-06-30)
+- name: Disruptive VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: baz
+  source: co-investor in Baz extended seed (2026-06-29)
+- name: Barak Schoster
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Battery Ventures
+  discovered_from: baz
+  source: Partner at Battery Ventures; quoted on Baz extended seed
+- name: Ed Sim
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Boldstart Ventures
+  discovered_from: baz
+  source: Founder and General Partner at Boldstart; quoted on Baz extended seed
+- name: Julien Cazor
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Seventure Partners
+  discovered_from: wultra
+  source: Partner at Seventure; quoted on Wultra Series A
+- name: Gregor Unger
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Caesar Ventures
+  discovered_from: epitome-therapeutics
+  source: Partner at Caesar Ventures; quoted on Epitome pre-seed
+- name: Ankur Shah
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Straiker
+  discovered_from: straiker
+  source: CEO/Co-Founder of Straiker; former Palo Alto Networks Prisma Cloud lead
+- name: Marc Norlain
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: ARIADNEXT
+  discovered_from: wultra
+  source: ARIADNEXT co-founder; angel investor in Wultra Series A
+- name: Guillaume Despagne
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: ARIADNEXT
+  discovered_from: wultra
+  source: ARIADNEXT co-founder; angel investor in Wultra Series A

@@ -29,6 +29,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Austrian BioTech startup Epitome Therapeutics announces €4 million in funding
+    to advance programmes and grow team
+  url: https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/
+  source: eu-startups
+  date_found: '2026-06-30'
+  parsed_company: Austrian BioTech startup Epitome Therapeutics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Axios General Intuition raised $320M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -824,12 +833,4 @@ pending_rounds:
   parsed_company: u003e. Entendre had
   parsed_amount: $4M
   parsed_round: Seed
-  status: pending
-- title: Brookfield Announces Results of Conversion of its Series 24 Preference Shares
-  url: https://www.globenewswire.com/news-release/2026/06/22/3315630/0/en/Brookfield-Announces-Results-of-Conversion-of-its-Series-24-Preference-Shares.html
-  source: globenewswire
-  date_found: '2026-06-22'
-  parsed_company: Brookfield
-  parsed_amount: null
-  parsed_round: null
   status: pending
