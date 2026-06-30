@@ -98,6 +98,7 @@ Based on 60 verified current and milestone portfolio companies from Mayfield's o
 | NeuBird | $19.3M round | 2026-04-08 | AI/Enterprise | Active | [^4][^22] |
 | Exaforce | Series B | 2026-05-12 | AI/Security | Active ($725M val) | [^7][^14] |
 | Upscale AI | Series A-1 (existing investor; Premji Invest-led, $190M at $2B val) | 2026-06-22 | AI/Networking Infrastructure | Active | [^25][^26][^27] |
+| Hang Ten Systems | Seed (led, $32M) | 2026-06-24 | AI/Enterprise Services | Active | [^28][^29][^30] |
 | Scrunch AI | Seed (led, $4M) | 2025-03-04 | AI/GEO/Marketing | Acquired by Sitecore (~$225M, 2026-06-03) | [^17][^18][^19][^20] |
 | Inception Labs | Seed ($50M, Menlo-led) | 2025-11-06 | AI/Models | Active | [^7][^23] |
 | ProRata.ai | Seed (led, $25M) | 2024-08-06 | AI/Media | Active | [^7][^24] |
@@ -175,3 +176,9 @@ No additional independently sourced founder testimonials found beyond firm marke
 [^26]: Fortune, "Exclusive: Upscale AI wants to be the next Cisco—and it just raised another $190 million," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/ — Fortune Term Sheet exclusive confirming Premji Invest led $190M Series A-1, Mayfield as returning backer; Khemani quote on heterogeneous AI systems.
 
 [^27]: Pulse 2.0, "Upscale AI Raises $190 Million Series A-1 At $2 Billion Valuation For AI Networking Infrastructure," June 22, 2026. Accessed June 2026. https://pulse2.com/upscale-ai-raises-190-million-series-a-1-at-2-billion-valuation-for-ai-networking-infrastructure-company/ — Independently confirms Premji Invest-led $190M Series A-1, Mayfield as existing investor, $2B valuation; Salesforce Ventures' Emily Zhao quote.
+
+[^28]: Yahoo Finance (Business Wire), "Hang Ten Systems Raises $32 Million to Help Enterprises Succeed With AI," June 24, 2026. Accessed June 2026. https://finance.yahoo.com/technology/ai/articles/hang-ten-systems-raises-32-130000073.html — $32M seed led by Mayfield with Aramco Ventures and angels; founded by Vishal Sikka (former Infosys CEO); Navin Chaddha quote.
+
+[^29]: The SaaS News, "Hang Ten Systems Raises $32M Seed," June 24, 2026. Accessed June 2026. https://www.thesaasnews.com/news/hang-ten-systems-raises-32m-seed/ — Confirms $32M seed, Mayfield lead, Aramco Ventures participation.
+
+[^30]: Crypto Briefing, "Hang Ten Systems raises $32M to disrupt IT services with AI," June 24, 2026. Accessed June 2026. https://cryptobriefing.com/hang-ten-systems-raises-32m-ai-services/ — Confirms Jerry Yang on board; Mayfield's Navin Chaddha is Vishal Sikka's Stanford classmate; early customers Fresenius and Siemens Energy.

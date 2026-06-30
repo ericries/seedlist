@@ -85,6 +85,7 @@ Based on 12 featured and verified portfolio companies from BTV's website and pre
 | Outpost | Pre-Seed | 2024 | Payments/Global Commerce | Active | [^1] |
 | Meroka | Seed | 2024 | Healthcare/Medical Group | Active | [^1] |
 | InstaSwitch | Seed (participated) | 2026-05-05 | Fintech/Banking Infrastructure | Active | [^11][^12] |
+| Nebex | Seed (participated; GV led, $30M) | 2026-06-29 | Fintech/Space Economy | Active | [^17][^18] |
 
 This table represents 12 of approximately 85 known pre-seed and seed investments across three funds [^2]. BTV's website lists 150+ companies across its full portfolio [^1].
 
@@ -126,3 +127,5 @@ Note: These testimonials are sourced from BTV's own website and marketing materi
 [^14]: SiliconANGLE, "AI accounting startup Basis secures $100M at $1.15B valuation as firms adopt agent-based workflows," February 24, 2026. https://siliconangle.com/2026/02/24/ai-accounting-startup-basis-secures-100m-1-15b-valuation-firms-adopt-agent-based-workflows/
 [^15]: TechCrunch, "After selling Bread last year for over $500M, this founder just raised millions for his new fintech startup," July 7, 2021. Confirms Coast's $6M seed led by Better Tomorrow Ventures with participation from Avid Ventures, Bessemer Venture Partners, BoxGroup, Foundation Capital, Greycroft, SciFi VC. https://techcrunch.com/2021/07/07/after-selling-bread-last-year-for-over-500m-founder-sets-out-to-build-the-financial-platform-for-the-future-of-transportation/
 [^16]: FinLedger, "Fleet financing startup Coast raises $6 million seed round," July 7, 2021. https://finledger.com/articles/fleet-financing-startup-coast-raises-6-million-seed-round/
+[^17]: Business Wire, "Nebex Raises $30M Seed Round Led by GV to Build Market Infrastructure for the Global Space Economy," June 29, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260629317768/en/Nebex-Raises-$30M-Seed-Round-Led-by-GV-to-Build-Market-Infrastructure-for-the-Global-Space-Economy — Primary press release listing Better Tomorrow Ventures as participating investor in Nebex's $30M Seed alongside GV (lead), Eniac Ventures, 2048 Ventures, Oceans Ventures, AIN Ventures, and others.
+[^18]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/29/2026," June 29, 2026. Accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-29-2026/ — Independent confirmation of Better Tomorrow Ventures' participation in Nebex's $30M Seed.

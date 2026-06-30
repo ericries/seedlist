@@ -3,8 +3,8 @@ check_size: $500K-$15M
 firm: mayfield-fund
 last_researched: 2026-03-20
 last_verified_investment:
-  company: "Sekai"
-  date: 2026-06-03
+  company: "Hang Ten Systems"
+  date: 2026-06-24
   round: "Seed"
 location: Menlo Park, CA
 name: Navin Chaddha
@@ -111,6 +111,7 @@ Based on 28 verified investments below (18 IPOs and 10 acquisitions identified b
 | Docket | Seed | ~2024 | AI/Sales | Active | [^4] |
 | Balbix | Early | ~2017 | AI/Security | Active | [^4] |
 | Sekai | Seed (lead) | 2026 | AI/Consumer | Active | [^12] |
+| Hang Ten Systems | Seed (Mayfield led, $32M) | 2026-06-24 | AI/Enterprise Services | Active | [^13][^14][^15] |
 
 *This table represents 29 of 60+ known investments. Investment years marked with ~ are approximate based on company founding dates or public reporting; exact investment dates were not independently verified for all entries.*
 
@@ -150,3 +151,9 @@ No additional independently sourced founder testimonials found beyond Mayfield's
 [^10]: Signal by NFX, "Navin Chaddha's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/navin-chaddha
 [^11]: Mayfield, "How A Mid-Career Bet On Entrepreneurship Turned Into Industry Defining Success" (CloudGenix founder story), accessed March 2026. https://www.mayfield.com/founder-stories/how-a-mid-career-bet-on-entrepreneurship-turned-into-industry-defining-success/
 [^12]: GlobeNewswire, "Sekai Raises $26M in Seed and Series A as Users Create, Play, and Remix 15 Million Mini-Apps," June 3, 2026. https://www.globenewswire.com/news-release/2026/06/03/3306441/0/en/Sekai-Raises-26M-in-Seed-and-Series-A-as-Users-Create-Play-and-Remix-15-Million-Mini-Apps.html
+
+[^13]: Yahoo Finance (Business Wire), "Hang Ten Systems Raises $32 Million to Help Enterprises Succeed With AI," June 24, 2026. Accessed June 2026. https://finance.yahoo.com/technology/ai/articles/hang-ten-systems-raises-32-130000073.html — Quotes Navin Chaddha: "At Mayfield, we invest in people first, and Vishal is one of the rare leaders who can make enterprise AI actually work."
+
+[^14]: The SaaS News, "Hang Ten Systems Raises $32M Seed," June 24, 2026. Accessed June 2026. https://www.thesaasnews.com/news/hang-ten-systems-raises-32m-seed/ — Confirms Mayfield-led $32M seed with Aramco Ventures participation.
+
+[^15]: Crypto Briefing, "Hang Ten Systems raises $32M to disrupt IT services with AI," June 24, 2026. Accessed June 2026. https://cryptobriefing.com/hang-ten-systems-raises-32m-ai-services/ — Notes Mayfield's Navin Chaddha is Vishal Sikka's Stanford classmate.

@@ -21,8 +21,10 @@ firms:
 investors: []
 founders:
   - name: "Tejpaul Bhatia"
-    role: "Founder & CEO"
+    role: "Co-Founder & CEO"
   - name: "Anand Subramanian"
+    role: "Co-Founder"
+  - name: "Manlio Di Stefano"
     role: "Co-Founder"
 status: published
 last_researched: 2026-06-30
@@ -42,14 +44,15 @@ Nebex is a New York-based market infrastructure platform for the global space ec
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+> "Tejpaul is a rare founder who actually knows how to move fast in a heavy, high-friction industry like space." — Erik Nordlander, General Partner, GV, June 29, 2026 [^4]
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+> "Support from these organizations gives Nebex the additional leverage and financial infrastructure to build the global space economy at the scale it demands." — Tejpaul Bhatia, Co-Founder & CEO, Nebex, June 29, 2026 [^4]
 
 ## Sources
 
 [^1]: Business Wire, "Nebex Raises $30M Seed Round Led by GV to Build Market Infrastructure for the Global Space Economy," June 29, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260629317768/en/Nebex-Raises-$30M-Seed-Round-Led-by-GV-to-Build-Market-Infrastructure-for-the-Global-Space-Economy
 [^2]: Crypto Briefing, "Google Ventures leads $30M seed funding for space fintech startup Nebex," June 29, 2026. Accessed June 2026. https://cryptobriefing.com/google-ventures-nebex-space-fintech-seed/
 [^3]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/29/2026," June 29, 2026. Accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-29-2026/ — Lists Nebex $30M Seed led by GV with the full participant roster.
+[^4]: Yahoo Finance (Business Wire), "Nebex Raises $30M Seed Round Led by GV to Build Market Infrastructure for the Global Space Economy," June 29, 2026. Accessed June 2026. https://finance.yahoo.com/small-business/articles/nebex-raises-30m-seed-round-153800429.html — Republication of Business Wire release containing verbatim quotes from Tejpaul Bhatia (CEO) and Erik Nordlander (GV General Partner); confirms J.P. Morgan banking relationship and co-founder Manlio Di Stefano.

@@ -2593,3 +2593,19 @@ priority:
   type: firm
   reason: "participated in Upscale AI Series A-1 ($190M, 2026-06-22)"
   added: 2026-06-29
+- slug: mayfield-fund
+  type: firm
+  reason: "led Hang Ten Systems Seed ($32M, 2026-06-24)"
+  added: 2026-06-30
+- slug: navin-chaddha
+  type: investor
+  reason: "led Hang Ten Systems Seed ($32M, 2026-06-24) via Mayfield"
+  added: 2026-06-30
+- slug: gv
+  type: firm
+  reason: "led Nebex Seed ($30M, 2026-06-29) for space economy fintech"
+  added: 2026-06-30
+- slug: better-tomorrow-ventures
+  type: firm
+  reason: "participated in Nebex Seed ($30M, 2026-06-29)"
+  added: 2026-06-30

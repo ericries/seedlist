@@ -10828,7 +10828,9 @@ vague_facts:
   line: '| ArchiBoost AI | Undisclosed | 2024-2025 | AI | [^4][^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-06-30
+  resolution_note: 'ArchiBoost AI (AEC code-compliance startup, founded 2025, Newark DE) has NO public press release for any funding round as of 2026-06-30. Investors (a16z, Hanabi, Perceptive, Scout Funds, CRV, Long Journey, angels from Harvey/Kong/Fusion) are listed only on third-party aggregators (PitchBook, startupintros, F4 Fund) and the Hanabi companies page [^9]. The archiboost.ai website (homepage and /about) contains no funding or investor info. Without a primary press release or SEC filing, Hanabi''s specific round participation (stage, date, amount) cannot be verified. Leaving entry as "Undisclosed | 2024-2025" with existing note in profile body explaining this.'
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: Brinc Drones
@@ -10858,7 +10860,9 @@ vague_facts:
   line: '| Cerebras | Undisclosed | 2024-2025 | AI/Chips | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-06-30
+  resolution_note: 'Verified Hanabi Capital is NOT named in Cerebras Series G press release (2025-09-30, USD 1.1B at USD 8.1B valuation, Fidelity lead; named investors: Fidelity, Atreides, Tiger Global, Valor Equity Partners, 1789 Capital, Altimeter, Alpha Wave Global, Benchmark) OR in Series H press release (2026-02-03, USD 1B at ~USD 23B valuation, Tiger Global lead; named investors: Tiger Global, Benchmark, Fidelity, Atreides, Alpha Wave Global, Altimeter, AMD, Coatue, 1789 Capital). The only support for Hanabi as a Cerebras investor is Hanabi''s own companies page [^9] — possibly a secondary share purchase or undisclosed SPV participation. Without a primary press release naming Hanabi, the specific round and date cannot be verified. Leaving entry as "Undisclosed | 2024-2025" with existing note in profile body.'
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: ClickHouse
@@ -10889,7 +10893,9 @@ vague_facts:
   line: '| Cursor | Undisclosed | 2024-2025 | Developer Tools | [^9][^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-06-30
+  resolution_note: 'PitchBook lists Hanabi Capital as one of 32 investors in Cursor/Anysphere, but Hanabi is NOT named in any of the four primary press releases/coverage of Cursor''s major rounds: Series A (Aug 2024, USD 400M valuation), Series B (Dec 2024, USD 105M led by Thrive at USD 2.6B), Series C (May 2025, USD 900M at USD 9.9B led by Thrive with a16z, Accel, DST Global), or Series D (Nov 2025, USD 2.3B at USD 29.3B per TechCrunch [^20] led with Accel, Thrive, a16z, DST, Coatue, Nvidia, Google participating). Hanabi likely participated via a smaller SPV or secondary purchase not detailed in press. Without primary source naming Hanabi in a specific Cursor round, stage/date cannot be verified. Leaving entry as "Undisclosed | 2024-2025" with existing note in profile body.'
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: Flora
