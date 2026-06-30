@@ -26,6 +26,9 @@ investors:
   slug: lenny-rachitsky
   year: 2026
 - slug: harry-stebbings
+- round: Series A ($75M)
+  slug: alex-bouaziz
+  year: 2026
 last_researched: 2026-05-20
 location: Rotterdam, Netherlands
 name: Viktor

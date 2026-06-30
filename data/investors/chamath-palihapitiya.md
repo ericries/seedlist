@@ -1,33 +1,36 @@
 ---
-name: Chamath Palihapitiya
-slug: chamath-palihapitiya
-tldr: 'Founder of Social Capital and operator at Facebook scaling users from 50M to 700M. Evolved from enterprise software focus (Slack, Box) through SPAC era (Virgin Galactic, SoFi) to deep tech and AI infrastructure (Groq, Palmetto); now operates with concentrated, high-conviction personal capital.'
-type: individual
+check_size: $2M-$15M
 firm: social-capital
-role: Founder & CEO
-location: Palo Alto, CA
-stage_focus:
-  - seed
-  - series-a
-  - growth
-sector_focus:
-  - deep-tech
-  - ai
-  - energy
-  - fintech
-  - enterprise
-  - life-sciences
-  - creator-economy
-check_size: "$2M-$15M"
-last_verified_investment:
-  date: 2026-06-29
-  company: 8090 Labs
-  round: Series A
-social:
-  twitter: "@chamath"
-  linkedin: linkedin.com/in/chamath
-status: published
 last_researched: 2026-03-26
+last_verified_investment:
+  company: 8090 Labs
+  date: ~8090
+  round: Series A (Salesforce Ventures-led, $135M; assumes CEO role)
+location: Palo Alto, CA
+name: Chamath Palihapitiya
+role: Founder & CEO
+sector_focus:
+- deep-tech
+- ai
+- energy
+- fintech
+- enterprise
+- life-sciences
+- creator-economy
+slug: chamath-palihapitiya
+social:
+  linkedin: linkedin.com/in/chamath
+  twitter: '@chamath'
+stage_focus:
+- seed
+- series-a
+- growth
+status: published
+tldr: Founder of Social Capital and operator at Facebook scaling users from 50M to
+  700M. Evolved from enterprise software focus (Slack, Box) through SPAC era (Virgin
+  Galactic, SoFi) to deep tech and AI infrastructure (Groq, Palmetto); now operates
+  with concentrated, high-conviction personal capital.
+type: individual
 ---
 
 ## Background

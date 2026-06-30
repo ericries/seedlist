@@ -26,6 +26,10 @@ investors:
 - round: Series D Extension ($100M)
   slug: neil-mehta
   year: 2021
+- round: Angel ($7M; decided during 20VC podcast recording with Jack Zhang, ep. aired
+    2025-05-26; publicly disclosed 2025-11-04)
+  slug: harry-stebbings
+  year: 2025
 last_researched: 2026-06-26
 location: Singapore / Melbourne, Australia
 name: Airwallex

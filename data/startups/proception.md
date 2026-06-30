@@ -1,32 +1,39 @@
 ---
-name: "Proception"
-slug: proception
-type: startup
-website: "https://proception.ai"
-location: "United States"
-status_company: active
-sector: [robotics, ai, humanoid-robotics, hardware]
-stage_latest: "Seed"
-total_raised: "$11M"
 firms:
-  - slug: first-round-capital
-    round: seed
-    year: 2026
-    date: 2026-06-29
-  - slug: y-combinator
-    round: seed
-    year: 2026
-    date: 2026-06-29
-  - slug: boxgroup
-    round: seed
-    year: 2026
-    date: 2026-06-29
-investors: []
+- date: 2026-06-29
+  round: seed
+  slug: first-round-capital
+  year: 2026
+- date: 2026-06-29
+  round: seed
+  slug: y-combinator
+  year: 2026
+- date: 2026-06-29
+  round: seed
+  slug: boxgroup
+  year: 2026
 founders:
-  - name: "Zhongjie 'Jay' Li"
-    role: "Founder & CEO"
-status: published
+- name: Zhongjie 'Jay' Li
+  role: Founder & CEO
+investors:
+- round: Seed (led)
+  slug: bill-trenchard
+  year: 2026
 last_researched: 2026-06-30
+location: United States
+name: Proception
+sector:
+- robotics
+- ai
+- humanoid-robotics
+- hardware
+slug: proception
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $11M
+type: startup
+website: https://proception.ai
 ---
 
 ## About

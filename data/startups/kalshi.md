@@ -55,6 +55,9 @@ investors:
 - round: '2025'
   slug: tushar-jain
   year: 2025
+- round: Angel (self-reported)
+  slug: alex-bouaziz
+  year: 2021
 last_researched: 2026-05-10
 location: New York, NY
 name: Kalshi

@@ -21004,7 +21004,7 @@ queue:
 - name: Alex Bouaziz
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Deel
   discovered_from: cal-henderson
@@ -33525,3 +33525,141 @@ queue:
   firm: ARIADNEXT
   discovered_from: wultra
   source: ARIADNEXT co-founder; angel investor in Wultra Series A
+- name: Loreanne García Ottati
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Kavak
+  discovered_from: carlos-garcia-ottati
+  source: Kavak co-founder; sister of Carlos García Ottati
+- name: Roger Laughlin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Kavak
+  discovered_from: carlos-garcia-ottati
+  source: Kavak co-founder
+- name: Mountain Nazca
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carlos-garcia-ottati
+  source: Lead investor in Kavak $3M seed (Q3 2016); Héctor Sepúlveda Managing Partner
+- name: Héctor Sepúlveda
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Mountain Nazca
+  discovered_from: carlos-garcia-ottati
+  source: Co-founder/MP at Mountain Nazca; led Kavak seed
+- name: Justos
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carlos-garcia-ottati
+  source: Brazilian insurtech; Carlos García Ottati angel; Ribbit Series A 2021
+- name: Xepelin
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carlos-garcia-ottati
+  source: Chilean SMB fintech; Carlos García Ottati angel; Kaszek-led $230M Series
+    A 2021
+- name: Fairplay
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carlos-garcia-ottati
+  source: Mexican revenue-based finance fintech; Carlos García Ottati angel; Dila/Kayyak
+    Series A 2022
+- name: Ricardo Weder
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Jüsto
+  discovered_from: carlos-garcia-ottati
+  source: Repeat co-angel with Carlos García Ottati in Xepelin and Fairplay rounds
+- name: Sarona Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-bouaziz
+  source: Tel Aviv early-stage fund; Philippe Bouaziz chairman; Alex Bouaziz associated
+    as founding partner
+- name: Shuo Wang
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Deel
+  discovered_from: alex-bouaziz
+  source: Co-founder & CRO of Deel; ~$2B net worth per Forbes; met Alex Bouaziz at
+    MIT
+- name: Philippe Bouaziz
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Deel
+  discovered_from: alex-bouaziz
+  source: Chairman & CFO of Deel; chairman of Sarona Ventures; founder of Prodware
+- name: Ofer Simon
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Deel
+  discovered_from: alex-bouaziz
+  source: Third co-founder of Deel per Wikipedia
+- name: Isembard
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-bouaziz
+  source: UK Series A March 2026 ($50M); Alex Bouaziz angel
+- name: Linkup
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-bouaziz
+  source: Seed Feb 2026 ($10M); Alex Bouaziz angel
+- name: Corvera.ai
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-bouaziz
+  source: Pre-Seed Jan 2026 ($1.76M); Alex Bouaziz angel
+- name: Slope
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-bouaziz
+  source: B2B payments; Alex Bouaziz among 7 angel investors; $127M total raised over
+    6 rounds
+- name: Nowports
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-bouaziz
+  source: LatAm freight unicorn; SoftBank-led $150M Series C 2022; Alex Bouaziz portfolio
+- name: Otta
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-bouaziz
+  source: UK job-search platform; acquired Jan 2024; Alex Bouaziz portfolio exit

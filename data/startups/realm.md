@@ -14,6 +14,9 @@ investors:
 - round: Seed
   slug: cal-henderson
   year: 2026
+- round: Seed ($4.5M)
+  slug: alex-bouaziz
+  year: 2026
 last_researched: 2026-04-22
 location: Helsinki, Finland
 name: Realm

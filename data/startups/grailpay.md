@@ -1,23 +1,35 @@
 ---
-name: "GrailPay"
-slug: grailpay
-type: startup
-website: "https://www.grailpay.com"
-location: "New York, New York"
-status_company: active
-sector: [fintech, payments, b2b, infrastructure, risk, identity]
-stage_latest: "Series A"
-total_raised: "$17.2M"
-firms: []
-investors: []
+firms:
+- round: Seed (led)
+  slug: construct-capital
+  year: 2025
 founded: 2021
 founders:
-  - name: "Will Messina"
-    role: "Co-Founder & CEO"
-  - name: "Lee Jones"
-    role: "Co-Founder"
-status: published
+- name: Will Messina
+  role: Co-Founder & CEO
+- name: Lee Jones
+  role: Co-Founder
+investors:
+- round: Seed (led)
+  slug: dayna-grayson
+  year: 2025
 last_researched: 2026-06-30
+location: New York, New York
+name: GrailPay
+sector:
+- fintech
+- payments
+- b2b
+- infrastructure
+- risk
+- identity
+slug: grailpay
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $17.2M
+type: startup
+website: https://www.grailpay.com
 ---
 
 ## About

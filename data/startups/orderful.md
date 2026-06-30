@@ -1,31 +1,40 @@
 ---
-name: "Orderful"
-slug: orderful
-type: startup
-website: "https://www.orderful.com"
-location: "San Francisco, CA"
-founded: 2016
-status_company: active
-sector: [saas, supply-chain, edi, ai, enterprise, logistics]
-stage_latest: "Series C"
-total_raised: "$85M"
 firms:
-  - slug: koch-disruptive-technologies
-    round: series-c
-    year: 2026
-    date: 2026-06-24
-  - slug: andreessen-horowitz
-    round: previous
-    year: 2024
-  - slug: initialized-capital
-    round: previous
-    year: 2024
-investors: []
+- date: 2026-06-24
+  round: series-c
+  slug: koch-disruptive-technologies
+  year: 2026
+- round: previous
+  slug: andreessen-horowitz
+  year: 2024
+- round: previous
+  slug: initialized-capital
+  year: 2024
+founded: 2016
 founders:
-  - name: "Erik Kiser"
-    role: "Founder & CEO"
-status: published
+- name: Erik Kiser
+  role: Founder & CEO
+investors:
+- round: Series A
+  slug: david-ulevitch
+  year: 2019
 last_researched: 2026-06-30
+location: San Francisco, CA
+name: Orderful
+sector:
+- saas
+- supply-chain
+- edi
+- ai
+- enterprise
+- logistics
+slug: orderful
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $85M
+type: startup
+website: https://www.orderful.com
 ---
 
 ## About

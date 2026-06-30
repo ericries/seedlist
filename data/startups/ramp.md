@@ -234,6 +234,9 @@ investors:
 - round: Seed
   slug: scott-belsky
   year: 2019
+- round: Angel (self-reported)
+  slug: alex-bouaziz
+  year: 2020
 last_researched: 2026-03-20
 location: New York, NY
 name: Ramp

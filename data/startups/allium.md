@@ -1,26 +1,38 @@
 ---
-name: "Allium"
-slug: allium
-type: startup
-website: "https://www.allium.so"
-location: "New York, NY"
-founded: 2021
-status_company: active
-sector: [fintech, crypto, blockchain, data-infrastructure, enterprise]
-stage_latest: "Series B"
-total_raised: "$56.5M+"
 firms:
-  - slug: kleiner-perkins
-    round: series-b
-    year: 2026
-    date: 2026-06-23
+- date: 2026-06-23
+  round: series-b
+  slug: kleiner-perkins
+  year: 2026
+- round: Seed
+  slug: amplify-partners
+  year: 2022
+founded: 2021
 founders:
-  - name: "Ethan Chan"
-    role: "Co-Founder & CEO"
-  - name: "Cheng Han Lee"
-    role: "Co-Founder"
-status: published
+- name: Ethan Chan
+  role: Co-Founder & CEO
+- name: Cheng Han Lee
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: sunil-dhaliwal
+  year: 2022
 last_researched: 2026-06-30
+location: New York, NY
+name: Allium
+sector:
+- fintech
+- crypto
+- blockchain
+- data-infrastructure
+- enterprise
+slug: allium
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $56.5M+
+type: startup
+website: https://www.allium.so
 ---
 
 ## About

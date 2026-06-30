@@ -1,23 +1,34 @@
 ---
-name: "Straiker"
-slug: straiker
-type: startup
-website: "https://straiker.ai"
-location: "Mountain View, California"
+firms:
+- round: '2026-06-29'
+  slug: marathon-management-partners
+  year: 2026
 founded: 2025
-status_company: active
-sector: [ai, cybersecurity, ai-security, enterprise, agentic-ai]
-stage_latest: "Series A"
-total_raised: "$85M"
-firms: []
-investors: []
 founders:
-  - name: "Ankur Shah"
-    role: "Co-Founder & CEO"
-  - name: "Sreenath Kurupati"
-    role: "Co-Founder & CTO"
-status: published
+- name: Ankur Shah
+  role: Co-Founder & CEO
+- name: Sreenath Kurupati
+  role: Co-Founder & CTO
+investors:
+- round: '2026-06-29'
+  slug: gokul-rajaram
+  year: 2026
 last_researched: 2026-06-30
+location: Mountain View, California
+name: Straiker
+sector:
+- ai
+- cybersecurity
+- ai-security
+- enterprise
+- agentic-ai
+slug: straiker
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $85M
+type: startup
+website: https://straiker.ai
 ---
 
 ## About
