@@ -72,8 +72,9 @@ Based on 6 verified investments from Standard Capital's portfolio page [^13], th
 | Trigger.dev | Series A ($16M) | 2025 | AI workflow platform | Active [^17] |
 | Artie | Series A ($12M) | 2026 | Real-time data streaming | Active [^18] |
 | Concourse | Series A ($12M) | 2026 | AI agents for finance | Active [^19] |
+| Archil | Series A ($11M, led) | 2026-04-21 | Cloud filesystem for AI | Active [^22][^23] |
 
-This table represents all 6 publicly known investments as listed on Standard Capital's portfolio page [^13]. The firm targets ~20 investments per year, so additional investments may not yet be publicly disclosed.
+This table represents publicly known investments as listed on Standard Capital's portfolio page [^13] and announced rounds. The firm targets ~20 investments per year, so additional investments may not yet be publicly disclosed.
 
 ## In Their Own Words
 
@@ -122,3 +123,5 @@ No additional independently sourced founder testimonials from portfolio company 
 [^19]: PR Newswire, "Concourse Raises $12M Series A," January 27, 2026. https://www.prnewswire.com/news-releases/concourse-raises-12m-series-a-and-expands-access-to-its-enterprise-grade-ai-agents-for-finance-302670827.html
 [^20]: Dalton Caldwell, X post, September 2025. https://x.com/daltonc/status/1966180659665449468
 [^21]: Aaron Epstein, X post, September 2025. https://x.com/aaron_epstein/status/1966210722506932731
+[^22]: Archil Blog, "Archil raises $11M to connect AI to data," April 21, 2026. https://archil.com/post/series-a
+[^23]: AlleyWatch, "The Weekly Notable Startup Funding Report: 4/27/26," April 27, 2026, accessed June 2026. https://www.alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-27-26/

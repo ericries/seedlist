@@ -163534,7 +163534,9 @@ vague_facts:
   line: '| 2017 | Seed | Undisclosed | Not disclosed | Lux Capital | [^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-06-30
+  resolution_note: 'Applied Intuition 2017 seed round amount is genuinely undisclosed across all primary sources. Tracxn explicitly states "1st funding round was raised for an undisclosed amount in a Seed round on 2017." Lux Capital Medium post (September 2018) only discusses the Series A. a16z Series A announcement (Sept 2018) makes no reference to seed-stage amount. Contrary Research, Crunchbase, and First Round Review all reference the seed round without disclosing amount. No primary source naming a specific dollar figure was found. Profile already reflects "Undisclosed" with correct citation [^3] (Tracxn); no changes needed. Three independent sources searched: Lux Capital blog [^9], a16z blog [^4], Tracxn [^3] — all consistent that amount is undisclosed.'
 - profile: startups/arcade-dev
   profile_name: Arcade
   company: '2025'
@@ -163554,7 +163556,9 @@ vague_facts:
   line: '| 2026-04-21 | Series A | $11M | Undisclosed | Undisclosed [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: 'Verified Archil Series A $11M on 2026-04-21 led by Standard Capital, with Felicis, Y Combinator, General Catalyst, Peak XV Partners, Wayfinder Ventures participating, plus named angels Anurag Goel (Render), Andrew Jefferson, and Richard Artoul, via 3 independent primary sources (Archil official blog post [^1], AlleyWatch weekly funding report [^5], Crunchbase Series A round profile [^6]). Total raised after Series A is $18M. Updated archil.md Funding History table lead from "Undisclosed" to "Standard Capital" and co-investor list with full participant names. Added Standard Capital, General Catalyst, and Y Combinator to startup frontmatter firms array. Added Archil Series A row to standard-capital.md portfolio. Added Archil seed + Series A rows to general-catalyst.md portfolio with new [^arc1][^arc2] citations.'
 - profile: startups/armorblox
   profile_name: Armorblox
   company: '2022-09-21'
@@ -163608,7 +163612,9 @@ vague_facts:
   line: '| 2025-09-23 | Seed | $30M | Undisclosed | Undisclosed [^2][^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-06-30
+  resolution_note: 'Astromech seed round investors are genuinely undisclosed — company is in stealth mode and SEC Form D filings (filed 2025-08-12 for $30M seed, 2026-03-26 for $10.5M extension; CIK 0002081290) list only Benjamin Lamm, George Church, and Brian Beard as related individuals (officers/directors). No investor identities are disclosed publicly. Confirmed via 4 primary/independent sources: (1) FinSMEs press release [^2], (2) Yahoo Finance/AccessWire announcement [^3], (3) Distractify investigative report referencing SEC filing, (4) SEC Form D index [^4 — newly added]. Profile updated to: (a) add SEC Form D citation as 4th source, (b) update seed extension date from "2026-03" to "2026-03-12" (per Form D First Sale Date), (c) add explanatory paragraph noting stealth mode + Form D non-disclosure, (d) update Lead column to "Undisclosed (stealth)". Lead investor remains structurally unresolvable until company exits stealth or investors disclose participation.'
 - profile: startups/astromech
   profile_name: Astromech
   company: 2026-03
@@ -163619,7 +163625,9 @@ vague_facts:
     | Undisclosed [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-06-30
+  resolution_note: 'Astromech seed extension investors are also genuinely undisclosed (stealth mode). Resolved alongside parent seed-round investigation. Date updated from "2026-03" to "2026-03-12" per SEC Form D First Sale Date (filing 2026-03-26, CIK 0002081290). SEC Form D added as citation [^4]. Lead investor structurally unresolvable until stealth mode ends.'
 - profile: startups/attention
   profile_name: Attention
   company: '2023-01-09'

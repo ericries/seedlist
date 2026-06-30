@@ -18,6 +18,18 @@ firms:
     round: seed
     year: 2025
     date: 2025-06-03
+  - slug: standard-capital
+    round: series-a
+    year: 2026
+    date: 2026-04-21
+  - slug: general-catalyst
+    round: series-a
+    year: 2026
+    date: 2026-04-21
+  - slug: y-combinator
+    round: series-a
+    year: 2026
+    date: 2026-04-21
 investors: []
 status: published
 last_researched: 2026-04-21
@@ -25,13 +37,13 @@ last_researched: 2026-04-21
 
 ## About
 
-Archil is a cloud filesystem for AI — a persistent file system that gives AI agents context, with the compute to work on it built in [^1][^2]. The company is a Y Combinator-backed infrastructure startup that describes itself as "the high-performance file system that connects AI to data" [^2][^3]. In April 2026, Archil announced an $11M Series A to expand its AI data platform, following a $6.7M seed round led by Felicis in June 2025 that included Y Combinator, General Catalyst, Peak XV Partners, Lombardstreet Ventures, Twenty Two Ventures, and Wayfinder Ventures [^1][^4].
+Archil is a cloud filesystem for AI — a persistent file system that gives AI agents context, with the compute to work on it built in [^1][^2]. The company is a Y Combinator-backed infrastructure startup that describes itself as "the high-performance file system that connects AI to data" [^2][^3]. In April 2026, Archil announced an $11M Series A led by Standard Capital, bringing total capital raised to $18M, following a $6.7M seed round led by Felicis in June 2025 that included Y Combinator, General Catalyst, Peak XV Partners, Lombardstreet Ventures, Twenty Two Ventures, and Wayfinder Ventures [^1][^4][^5].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-21 | Series A | $11M | Undisclosed | Undisclosed [^1] |
+| 2026-04-21 | Series A | $11M | Standard Capital | Felicis, Y Combinator, General Catalyst, Peak XV Partners, Wayfinder Ventures, Anurag Goel (Render), Andrew Jefferson, Richard Artoul [^1][^5][^6] |
 | 2025-06-03 | Seed | $6.7M | Felicis | Y Combinator, General Catalyst, Peak XV Partners, Lombardstreet Ventures, Twenty Two Ventures, Wayfinder Ventures [^4] |
 
 ## What Investors Say
@@ -48,3 +60,5 @@ No independently sourced founder quotes found.
 [^2]: Y Combinator, "Archil: The high-performance file system that connects AI to data," accessed April 2026. https://www.ycombinator.com/companies/archil
 [^3]: Archil, "The cloud filesystem for AI," accessed April 2026. https://archil.com/
 [^4]: FinSMEs, "Archil Raises $6.7M in Seed Funding," June 2025, accessed April 2026. https://www.finsmes.com/2025/06/archil-raises-6-7m-in-seed-funding.html
+[^5]: AlleyWatch, "The Weekly Notable Startup Funding Report: 4/27/26," April 27, 2026, accessed June 2026. https://www.alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-27-26/
+[^6]: Crunchbase, "Archil Series A Funding Round Profile," accessed June 2026. https://www.crunchbase.com/funding_round/archil-series-a--d9ed1bc1

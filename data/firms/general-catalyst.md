@@ -235,8 +235,10 @@ The following table includes 72 verified investments sourced from General Cataly
 | Cadence | Series C (participated, $100M; Spark Capital led) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | Private [^77][^78][^79] |
 | General Intuition | Seed (co-led with Khosla Ventures, $133.7M; Raine Ventures participated) | 2025-10-16 | AI / World Models / Robotics / Gaming | Private [^genint4][^genint5] |
 | General Intuition | Series A (participated, $320M; Khosla Ventures led, $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2][^genint3] |
+| Archil | Seed (participated, $6.7M; Felicis led) | 2025-06-03 | AI / Cloud Filesystem / Data Infrastructure | Private [^arc1] |
+| Archil | Series A (participated, $11M; Standard Capital led) | 2026-04-21 | AI / Cloud Filesystem / Data Infrastructure | Private [^arc1][^arc2] |
 
-*Note: This table includes 72 companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
+*Note: This table includes 72+ companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
 ## In Their Own Words
 
@@ -450,4 +452,8 @@ No independently sourced founder testimonials were found in this research pass. 
 [^genint4]: TechCrunch, "General Intuition lands $134M seed to teach agents spatial reasoning using video game clips," October 16, 2025. Accessed June 2026. https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/ — Confirms General Catalyst co-led General Intuition's $133.7M seed on October 16, 2025 alongside Khosla Ventures, with Raine Ventures participating.
 
 [^genint5]: citybiz, "General Catalyst Co-Leads $134M Round for AI Gaming Startup General Intuition," October 2025. Accessed June 2026. https://www.citybiz.co/article/760570/general-catalyst-co-leads-134m-round-for-ai-gaming-startup-general-intuition/ — Independent confirmation that General Catalyst co-led the $134M seed in October 2025.
+
+[^arc1]: Archil Blog, "Archil raises $11M to connect AI to data," April 21, 2026. Accessed June 2026. https://archil.com/post/series-a — Confirms General Catalyst participated in Archil's Series A; previous Archil seed round (June 2025) also included General Catalyst.
+
+[^arc2]: AlleyWatch, "The Weekly Notable Startup Funding Report: 4/27/26," April 27, 2026. Accessed June 2026. https://www.alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-27-26/ — Independent confirmation of Archil's $11M Series A and named participants including Felicis, Standard Capital, Y Combinator, Peak XV Partners, Wayfinder Ventures.
 
