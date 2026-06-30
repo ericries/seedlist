@@ -76,7 +76,7 @@ Despite claiming 100+ investments, only 22 can be publicly verified, making the 
 
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
-| Life360 | ~2011 | Seed | Consumer / Mobile | IPO (ASX, NASDAQ) | [^1][^5] |
+| Life360 | 2012 | Personal stake (joined as employee/stakeholder) | Consumer / Mobile | IPO (ASX, NASDAQ) | [^1][^5][^haas2024] |
 | Credible | ~2014 | Seed | Fintech | IPO (ASX, 2017) | [^1] |
 | MileIQ | ~2014 | Seed | Fintech / Data | Acquired by Microsoft (2015) | [^1][^4] |
 | Automatic Labs | ~2014 | Seed | Consumer / IoT | Acquired by SiriusXM (2017) | [^1][^11] |
@@ -166,3 +166,5 @@ Despite claiming 100+ investments, only 22 can be publicly verified, making the 
 
 [^15]: "Here's Who Made Money On Ring's $1B+ Purchase," Crunchbase News, accessed March 2026. https://news.crunchbase.com/startups/heres-made-money-rings-1b-purchase/
 [^tc-tile]: TechCrunch, "Lost-Item Tracker Tile Raises $13 Million To Fund International Expansion, Android Release," October 1, 2014. https://techcrunch.com/2014/10/01/lost-item-tracker-tile-raises-13-million-to-fund-international-expansion-android-release/
+
+[^haas2024]: "Life360," Berkeley Haas magazine, Spring 2024, accessed June 2026. https://newsroom.haas.berkeley.edu/magazine/spring-2024/life360/ — Confirms Itamar Novick (MBA 12) joined Life360 in 2012 after introduction from angel investor Mark Goines (MBA 76); served as stakeholder and spent nearly a decade at the company, mostly as Chief Business Officer. His participation was as an operator/personal stakeholder, not part of Life360's 2008 seed round (fbFund/Google Ventures) or 2011 Series A (Bessemer).

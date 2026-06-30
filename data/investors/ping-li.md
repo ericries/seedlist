@@ -98,7 +98,7 @@ Note: Some companies span categories. Totals may exceed 28 due to overlap.
 |---------|------|-------|--------|--------|--------|
 | Cloudera | 2008 | Seed | Data infrastructure | IPO (NYSE: CLDR), acquired by CD&R/KKR | [^2] |
 | Ludic Labs | 2009 | Series A | Consumer/social | Acquired by Groupon (2010) | [^7][^26] |
-| Renren | ~2009 | Undisclosed | Consumer/social | IPO (NASDAQ: RENN) | [^7] |
+| Renren (Oak Pacific Interactive) | ≤2008 | Pre-Series D (existing investor) | Consumer/social | IPO (NASDAQ: RENN) | [^7][^35] |
 | Lookout | 2010 | Series B | Mobile security | Active | [^7][^27] |
 | Nimble Storage | 2008 | Series A | Cloud storage | IPO, acquired by HPE | [^7][^28] |
 | Fusion-io | 2010 | Series C | Flash storage | IPO (NASDAQ: FIO), acquired by SanDisk | [^7][^34] |
@@ -203,3 +203,4 @@ No additional independently sourced founder testimonials were found after dedica
 [^32]: Illumio press release, "Illumio Raises $100 Million in Series C Financing Round," April 2015. https://www.illumio.com/news/series-c-funding
 [^33]: GeekWire, "VMware acquires Seattle's Heptio to double down on Kubernetes," November 6, 2018. https://www.geekwire.com/2018/vmware-acquires-seattles-heptio-double-kubernetes/
 [^34]: Tracxn, "Fusion-io — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/fusion-io/__ZkxrCv7la7XYOcKWKVOaFccWXNwAaVIkboiizz7WuoM/funding-and-investors
+[^35]: Business Wire / SOFTBANK press release, "SOFTBANK Leads Investment in Oak Pacific Interactive to Fuel China's Largest Social Networking Site," April 30, 2008, accessed June 2026. https://www.businesswire.com/news/home/20080430006158/en/SOFTBANK-Leads-Investment-Oak-Pacific-Interactive-Fuel — Names existing investors of Oak Pacific Interactive (later renamed Renren) including General Atlantic, DCM, Technology Crossover Ventures, Accel Partners, and Legend Capital, confirming Accel was an investor before the April 2008 SoftBank-led $430M Series D round. Xiaonei was renamed Renren in 2009. Specific Series and date of Accel's initial investment not disclosed in primary sources.

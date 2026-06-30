@@ -63534,7 +63534,20 @@ vague_facts:
   line: '| Owlery | ~2023 | Unknown | Logistics automation | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-06-30
+  resolution_note: 'No primary source confirms Owlery''s seed round date, stage,
+    or specific amount. Verified: (a) Owlery''s own website (owlery.ai/about-us
+    and homepage) makes no public funding disclosure beyond "backed by top institutional
+    investors"; (b) Crunchbase, PitchBook, and Tracxn all return 403/auth-required
+    on WebFetch; (c) no press release found on TechCrunch, BusinessWire, PR Newswire,
+    or FreightWaves for Owlery''s seed round; (d) Construct Capital website portfolio
+    page returned cert error. Aggregator-sourced data ($3.1M raised, Construct Capital
+    + Haystack + Recall + Vectura as investors, company founded 2022) is consistent
+    across PitchBook, Crunchbase, and Tracxn but NONE traces back to a primary press
+    release. Current profile entry "~2024 | Seed ($3.1M total raised)" already incorporates
+    the best available aggregator data; queue snapshot value "~2023 | Unknown" is
+    stale. Leaving Dayna Grayson profile as-is.'
 - profile: investors/dayna-grayson
   profile_name: Dayna Grayson
   company: TimberEye
@@ -84344,7 +84357,19 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: 'CORRECTION: Itamar Novick did NOT participate in Life360''s 2011
+    seed round (or any seed round). Per Berkeley Haas magazine (Spring 2024 primary
+    source), Novick (MBA ''12) joined Life360 in 2012 as an employee/stakeholder
+    after introduction from angel investor Mark Goines (MBA ''76), and spent nearly
+    a decade at the company mostly as Chief Business Officer. His "investment" came
+    later when he personally funded the company during a cash crunch to buy out
+    a departing co-founder (per existing profile narrative citing source [^5]).
+    Life360''s actual seed funding came from fbFund and Google Ventures (2008);
+    Bessemer led the Series A in 2011. Updated Itamar Novick portfolio row from
+    "~2011 | Seed" to "2012 | Personal stake (joined as employee/stakeholder)" and
+    added Berkeley Haas magazine as new footnote [^haas2024].'
 - profile: investors/itamar-novick
   profile_name: Itamar Novick
   company: Credible
@@ -132279,7 +132304,20 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: 'Resolved by primary-source review. Accel Partners was an EXISTING
+    investor in Oak Pacific Interactive (Xiaonei/Renren''s parent company) before
+    the April 30, 2008 SoftBank-led $430M Series D round, per the SOFTBANK Business
+    Wire press release (April 30, 2008) which names existing investors as General
+    Atlantic, DCM, Technology Crossover Ventures, Accel Partners, and Legend Capital.
+    Xiaonei was renamed Renren in 2009. Updated Ping Li portfolio row from "~2009
+    | Undisclosed" to "Renren (Oak Pacific Interactive) | ≤2008 | Pre-Series D (existing
+    investor)". Added Business Wire SOFTBANK press release as new footnote [^35].
+    Specific Series (A/B/C) and exact date of Accel''s initial investment in OPI
+    not disclosed in publicly available primary sources; F-1 prospectus on sec.gov
+    returned 403 from WebFetch but search snippets indicate Series C was issued February
+    21, 2006 with the $430M April 2008 round being Series D.'
 - profile: investors/ping-li
   profile_name: Ping Li
   company: Lookout
