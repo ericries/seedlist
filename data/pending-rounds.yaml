@@ -200,6 +200,15 @@ pending_rounds:
   parsed_amount: $400M
   parsed_round: null
   status: pending
+- title: Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes
+    CEO role
+  url: https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/
+  source: techcrunch
+  date_found: '2026-06-29'
+  parsed_company: Chamath Palihapitiya
+  parsed_amount: $135M
+  parsed_round: Series A
+  status: pending
 - title: Robinhood Closes Offering of $2.2 Billion of 0.00% Convertible Senior Notes
     Due 2029
   url: https://www.globenewswire.com/news-release/2026/06/25/3317985/0/en/Robinhood-Closes-Offering-of-2-2-Billion-of-0-00-Convertible-Senior-Notes-Due-2029.html
@@ -823,12 +832,4 @@ pending_rounds:
   parsed_company: National Healthcare Properties
   parsed_amount: null
   parsed_round: Series A
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/22/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-22-2026/
-  source: alleywatch
-  date_found: '2026-06-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
   status: pending

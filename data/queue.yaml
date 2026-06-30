@@ -33322,3 +33322,47 @@ queue:
   discovered_from: simon-borrero
   source: Colombian energy startup founded by ex-Rappi employees; received angel investment
     from Rappi co-founders Borrero, Mejía, Villamarín (2022)
+- name: Nikesh Arora
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Palo Alto Networks
+  discovered_from: 8090-labs
+  source: Angel in 8090 Labs Series A (2026-06-29); CEO of Palo Alto Networks
+- name: Cliff Robbins
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Blue Harbour Group
+  discovered_from: 8090-labs
+  source: Angel in 8090 Labs Series A (2026-06-29)
+- name: ParaFi Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ground
+  source: Co-led Ground $3.6M pre-seed (2026-06-24)
+- name: Nascent
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ground
+  source: Participated in Ground $3.6M pre-seed (2026-06-24)
+- name: Chapter One
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ground
+  source: Participated in Ground $3.6M pre-seed (2026-06-24)
+- name: Consonant Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ground
+  source: Participated in Ground $3.6M pre-seed (2026-06-24)

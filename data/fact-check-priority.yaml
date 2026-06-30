@@ -2544,3 +2544,31 @@ priority:
   status: resolved
   resolved: 2026-06-29
   resolution_note: "Verified Nearfield Instruments $380M Series D announced 2026-06-22 at $1.6B post-money valuation, led by Fidelity Management & Research Company, with Temasek, Walden Catalyst Ventures, Innovation Industries, M&G Investments, Invest-NL, Qatar Investment Authority (new), TNO Ventures (existing), and ING (existing) participating, via 4 independent primary sources: BusinessWire press release [^1], Tech.eu [^2], SiliconANGLE [^3], and Nearfield's own company announcement page (cross-confirmed via WebFetch, not added as separate citation since press release is the same source). Added 2 investor quotes from the BusinessWire press release: Young Sohn (Walden Catalyst Founding Managing Partner) on advanced metrology as 'essential enablers of the next generation of chip innovation,' and Niranjan Sirdeshpande (M&G Investments Head of Catalyst) on next-gen nodes and 3D integration. Largest deep-tech round in Dutch history. Updated last_researched to 2026-06-29."
+- slug: salesforce-ventures
+  type: firm
+  reason: "led 8090 Labs Series A ($135M, 2026-06-29)"
+  added: 2026-06-29
+- slug: chamath-palihapitiya
+  type: investor
+  reason: "founded/CEO 8090 Labs Series A ($135M, 2026-06-29)"
+  added: 2026-06-29
+- slug: craft-ventures
+  type: firm
+  reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
+  added: 2026-06-29
+- slug: the-production-board
+  type: firm
+  reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
+  added: 2026-06-29
+- slug: launch
+  type: firm
+  reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
+  added: 2026-06-29
+- slug: mayfield-fund
+  type: firm
+  reason: "participated in Upscale AI Series A-1 ($190M, 2026-06-22)"
+  added: 2026-06-29
+- slug: tiger-global
+  type: firm
+  reason: "participated in Upscale AI Series A-1 ($190M, 2026-06-22)"
+  added: 2026-06-29
