@@ -115,7 +115,7 @@ Palihapitiya's investment approach has evolved dramatically, making traditional 
 | Groq | ~2024 | Series D ($640M) | [^17] |
 | Palmetto | ~2024 | Growth | [^17] |
 | Beast Industries | ~2024 | Growth | [^17] |
-| 8090 Labs | 2026 | Series A (Salesforce Ventures-led, $135M; assumes CEO role) | [^27] |
+| 8090 Labs | 2026-06-29 | Series A (Salesforce Ventures-led, $135M; assumes CEO role) | [^27][^28][^29] |
 
 *This table represents a partial sample. Social Capital has invested in approximately 224 companies total [^18]. Only entries with verified sources are included. Many early-stage investments from 2011-2017 are not individually documented in public sources accessible at the time of research.*
 
@@ -184,3 +184,5 @@ No additional independently sourced founder testimonials found. The Newcomer has
 [^25]: CNBC, "Slack is 'the only company in the world' that looks like Facebook and isn't public: Board member Chamath Palihapitiya," April 30, 2019. https://www.cnbc.com/2019/04/30/chamath-palihapitiya-compares-slacks-trajectory-to-facebooks.html
 [^26]: Pulse2, "Slack Board: Mike McNamara And Sheila Jordan Join, Chamath Palihapitiya Steps Down," accessed March 2026. https://pulse2.com/slack-board-mike-mcnamara-sheila-jordan/
 [^27]: TechCrunch, "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role," June 29, 2026. Accessed June 2026. https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/
+[^28]: Crypto Briefing, "Chamath Palihapitiya raises $135M Series A for AI coding startup 8090," June 29, 2026. Accessed June 2026. https://cryptobriefing.com/chamath-palihapitiya-135m-series-a-8090-ai/
+[^29]: Stockpil, "Chamath Palihapitiya raises $135M Series A for AI coding startup 8090 Labs, steps in as CEO," June 30, 2026. Accessed June 2026. https://stockpil.com/chamath-palihapitiya-8090-labs-series-a-ceo

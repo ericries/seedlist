@@ -97,6 +97,7 @@ Based on 60 verified current and milestone portfolio companies from Mayfield's o
 | Gruve | Series A (led, $20M) | 2025-04-30 | AI/Infrastructure | Active | [^7][^21] |
 | NeuBird | $19.3M round | 2026-04-08 | AI/Enterprise | Active | [^4][^22] |
 | Exaforce | Series B | 2026-05-12 | AI/Security | Active ($725M val) | [^7][^14] |
+| Upscale AI | Series A-1 (existing investor; Premji Invest-led, $190M at $2B val) | 2026-06-22 | AI/Networking Infrastructure | Active | [^25][^26][^27] |
 | Scrunch AI | Seed (led, $4M) | 2025-03-04 | AI/GEO/Marketing | Acquired by Sitecore (~$225M, 2026-06-03) | [^17][^18][^19][^20] |
 | Inception Labs | Seed ($50M, Menlo-led) | 2025-11-06 | AI/Models | Active | [^7][^23] |
 | ProRata.ai | Seed (led, $25M) | 2024-08-06 | AI/Media | Active | [^7][^24] |
@@ -168,3 +169,9 @@ No additional independently sourced founder testimonials found beyond firm marke
 [^23]: TechCrunch, "Inception raises $50 million to build diffusion models for code and text," November 6, 2025. Accessed June 2026. https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/ — Inception Labs announced a $50M seed round led by Menlo Ventures on November 6, 2025, with Mayfield participating alongside Innovation Endeavors, M12, NVentures, Snowflake Ventures, Databricks Investment, and angels Andrew Ng and Andrej Karpathy.
 
 [^24]: Axios, "Exclusive: AI startup raises $25M, inks deals with major media companies," August 6, 2024. Accessed June 2026. https://www.axios.com/2024/08/06/news-outlets-ink-deals-with-new-ai-startup-prorataai — ProRata.ai announced $25M raise on August 6, 2024, led by Mayfield. Mayfield's own blog (https://www.mayfield.com/genai-momentum-continues-with-pro-rata-ai/) classifies the round as seed; some press refer to it as Series A. Other participants: Revolution Ventures, Prime Movers Lab, Idealab Studio.
+
+[^25]: BusinessWire, "Upscale AI Adds $190 Million in Extension to Series A, Reaching Half-Billion Dollars in Total Funding," June 22, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260618053226/en/Upscale-AI-Adds-$190-Million-in-Extension-to-Series-A-Reaching-Half-Billion-Dollars-in-Total-Funding — $190M Series A-1 led by Premji Invest with NVIDIA, Salesforce Ventures, Seligman Ventures, Temasek as new investors and Maverick Silicon, Mayfield, Prosperity7 Ventures, StepStone Group, Tiger Global as returning existing investors; $500M total funding, $2B valuation.
+
+[^26]: Fortune, "Exclusive: Upscale AI wants to be the next Cisco—and it just raised another $190 million," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/ — Fortune Term Sheet exclusive confirming Premji Invest led $190M Series A-1, Mayfield as returning backer; Khemani quote on heterogeneous AI systems.
+
+[^27]: Pulse 2.0, "Upscale AI Raises $190 Million Series A-1 At $2 Billion Valuation For AI Networking Infrastructure," June 22, 2026. Accessed June 2026. https://pulse2.com/upscale-ai-raises-190-million-series-a-1-at-2-billion-valuation-for-ai-networking-infrastructure-company/ — Independently confirms Premji Invest-led $190M Series A-1, Mayfield as existing investor, $2B valuation; Salesforce Ventures' Emily Zhao quote.

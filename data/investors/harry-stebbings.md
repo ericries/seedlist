@@ -68,7 +68,7 @@ Sample size caveat: this analysis is based on 16 publicly-listed portfolio compa
 | Lovable | 2025 | Series A | [^8] |
 | ScorePlay | 2025-02 | Series A (led, $13M) | [^10] |
 | Peec AI | 2025-07 | Seed (led) | [^10] |
-~unknown| Airwallex | (n/a) | Growth | [^9] |
+| Airwallex | 2025 | Angel ($7M; decided during 20VC podcast recording with Jack Zhang, ep. aired 2025-05-26; publicly disclosed 2025-11-04) | [^9][^11][^12] |
 ~unknown| Altertable | (n/a) | Early | [^9] |
 ~unknown| Ami Labs | (n/a) | Early | [^9] |
 ~unknown| Amo | (n/a) | Early | [^9] |
@@ -115,3 +115,5 @@ No independently sourced founder testimonials found at time of research. Founder
 [^8]: Harry Stebbings, X post on 20VC + Lovable investment, February 2025, accessed June 2026. https://x.com/HarryStebbings/status/1894526304344494309
 [^9]: 20VC Fund portfolio page, accessed June 2026. https://20vc.fund/portfolio
 [^10]: "Peec AI raises $21M Series A led by Singular following 20VC-led seed," summarized via Tracxn investor coverage, accessed June 2026. https://tracxn.com/d/venture-capital/20vc-fund/__jRcqc4XV96uunAHcNXV87XMGYzXBn2qkhMvELwTGF9Y
+[^11]: Harry Stebbings, LinkedIn post: "28 mins into my 20VC with Jack Zhang at Airwallex I decided to invest $7M," published November 4, 2025. Accessed June 2026. https://www.linkedin.com/posts/harrystebbings_founder-funding-business-activity-7391489138585280512-AV8F — Stebbings publicly disclosed his personal $7M investment in Airwallex made during the 20VC podcast recording with Jack Zhang. Investment decision made roughly 7 months prior to the post (i.e. April/May 2025); was not part of the formally-announced May 21, 2025 Series F (in which 20VC/Stebbings is not named, per the Airwallex press release).
+[^12]: The Twenty Minute VC, "Airwallex CEO & Co-Founder, Jack Zhang: The Angel That Turned $1M into $1BN," episode landing page, published May 26, 2025. Accessed June 2026. https://www.thetwentyminutevc.com/jack-zhang — 20VC podcast episode that Stebbings references as the moment of his investment decision; episode publication date confirms 2025 timing for the $7M Stebbings investment in Airwallex.

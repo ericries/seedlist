@@ -36,7 +36,7 @@ Upscale AI builds full-stack AI networking infrastructure — spanning silicon, 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-22 | Series A-1 | $190M | Premji Invest | Nvidia, Salesforce Ventures, Seligman Ventures, Temasek, Maverick Silicon, Mayfield, Prosperity7 Ventures, StepStone Group, Tiger Global [^1][^2][^3] |
+| 2026-06-22 | Series A-1 | $190M | Premji Invest | Nvidia, Salesforce Ventures, Seligman Ventures, Temasek (new); Maverick Silicon, Mayfield, Prosperity7 Ventures, StepStone Group, Tiger Global (existing) [^1][^2][^3][^4] |
 | 2026-01 | Series A | $200M | — | (per company announcement; participating investors not separately disclosed) [^2][^3] |
 
 ## What Investors Say
@@ -49,8 +49,11 @@ Emily Zhao, Salesforce Ventures: "Open-standard fabrics will become critical" as
 
 Barun Kar, CEO, Upscale AI: "Networking is one of the most critical bottlenecks" in AI infrastructure; Upscale AI is building solutions "purpose-built for large-scale, synchronized workloads" [^2].
 
+> "The world in the future is going to be a variety of heterogeneous AI systems. It's not an Nvidia or our solution." — Rajiv Khemani, Co-Founder & Executive Chairman, Upscale AI, Fortune interview, June 22, 2026 [^4]
+
 ## Sources
 
 [^1]: TechStartups, "Upscale AI raises $190M from Nvidia, Salesforce Ventures for AI networking infrastructure, hits $2B valuation," June 22, 2026. Accessed June 2026. https://techstartups.com/2026/06/22/upscale-ai-raises-190m-from-nvidia-salesforce-ventures-for-ai-networking-infrastructure-hits-2b-valuation/
 [^2]: Pulse 2.0, "Upscale AI Raises $190 Million Series A-1 At $2 Billion Valuation For AI Networking Infrastructure," June 22, 2026. Accessed June 2026. https://pulse2.com/upscale-ai-raises-190-million-series-a-1-at-2-billion-valuation-for-ai-networking-infrastructure-company/
 [^3]: BusinessWire, "Upscale AI Adds $190 Million in Extension to Series A, Reaching Half-Billion Dollars in Total Funding," June 22, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260618053226/en/Upscale-AI-Adds-$190-Million-in-Extension-to-Series-A-Reaching-Half-Billion-Dollars-in-Total-Funding
+[^4]: Fortune, "Exclusive: Upscale AI wants to be the next Cisco—and it just raised another $190 million," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/

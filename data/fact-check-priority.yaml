@@ -52,6 +52,9 @@ priority:
   type: investor
   reason: fact-spec sweep — many ~unknown year entries in portfolio; spot-checked Airwallex and Linktree (no firm dates available)
   added: 2026-06-22
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Airwallex: resolved year from ~unknown to 2025 with primary source citation. Stebbings publicly disclosed in LinkedIn post (2025-11-04) [^11] that he personally invested USD 7M in Airwallex after a 20VC podcast recording with Jack Zhang that aired 2025-05-26 [^12]. The investment was NOT part of the formally-announced May 21, 2025 Series F (USD 300M led by Square Peg/DST Global at USD 6.2B post-money, per Airwallex own press release, which does not name 20VC/Stebbings); it appears to be a personal secondary or angel investment in the same period. Stage updated from "Growth" to "Angel ($7M)". Linktree: confirmed as 20VC portfolio company by 3 independent sources (Wikipedia, vcsheet, Forbes/Grokipedia), but specific round and date NOT verifiable — primary press releases for both Linktree Series B (2021-03-26, USD 45M Index/Coatue-led with named angels Jeff Weiner, April Underwood, Michelle Kennedy, Nick Molnar) and Series C (2022-03-16, USD 110M Index/Coatue-led with Greenoaks new) do NOT name Stebbings or 20VC. Leaving Linktree row as-is (~2020 Growth per Wikipedia [^1]).'
 - slug: niural
   type: startup
   reason: new startup profile (Series A extension 2026-06-23, $21M led by FOG Ventures; total Series A now $52M)
@@ -2552,6 +2555,9 @@ priority:
   type: investor
   reason: "founded/CEO 8090 Labs Series A ($135M, 2026-06-29)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified 8090 Labs Series A USD 135M on 2026-06-29 led by Salesforce Ventures with WndrCo, Craft Ventures, The Production Board, LAUNCH participating, plus angels Nikesh Arora, Cliff Robbins, Adam D''Angelo, Shyam Ravindran, Abhi Arun, Thomas Laffont, via 5 independent primary sources (TechCrunch [^27], Crypto Briefing [^28], Stockpil [^29], Chamath own X announcement [^4 in startup profile], Digg). Chamath transitions from board member to CEO. Added Crypto Briefing and Stockpil as 2nd/3rd citations to chamath-palihapitiya.md 8090 Labs portfolio row (previously only TechCrunch). Added Stockpil as 5th citation to 8090-labs.md and added third Chamath quote ("The capital will go to two places. The first is hiring more people... The second is investing in the compute and infrastructure...") from June 29, 2026. Date precision improved from "2026" to "2026-06-29" on the chamath portfolio row.'
 - slug: craft-ventures
   type: firm
   reason: "participated in 8090 Labs Series A ($135M, 2026-06-29)"
@@ -2568,6 +2574,9 @@ priority:
   type: firm
   reason: "participated in Upscale AI Series A-1 ($190M, 2026-06-22)"
   added: 2026-06-29
+  status: resolved
+  resolved: 2026-06-29
+  resolution_note: 'Verified Upscale AI Series A-1 USD 190M on 2026-06-22 led by Premji Invest at USD 2B post-money, with NVIDIA, Salesforce Ventures, Seligman Ventures, Temasek as new investors and Maverick Silicon, Mayfield (returning/existing), Prosperity7 Ventures, StepStone Group, Tiger Global as existing investors, via 5 independent primary sources (BusinessWire [^25], Fortune exclusive [^26], Pulse 2.0 [^27], TechStartups, SuperbCrew). Total Upscale AI funding now USD 500M (USD 200M Series A in Jan 2026 + USD 190M Series A-1). Added new portfolio row to mayfield-fund.md tagging Mayfield as existing investor (existing from Series A) with 3 primary citations [^25][^26][^27]. Added Fortune as 4th citation to upscale-ai.md startup profile and added Rajiv Khemani (Co-Founder/Executive Chairman) quote ("The world in the future is going to be a variety of heterogeneous AI systems..."). Clarified new vs existing investor breakdown in the funding history table.'
 - slug: tiger-global
   type: firm
   reason: "participated in Upscale AI Series A-1 ($190M, 2026-06-22)"
