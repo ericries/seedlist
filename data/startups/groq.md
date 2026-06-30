@@ -1,21 +1,60 @@
 ---
-name: "Groq"
-slug: groq
-type: startup
-website: "https://groq.com"
-location: "Mountain View, CA"
+firms:
+- round: Seed
+  slug: acequia-capital
+  year: 2023
+- round: Growth
+  slug: nfdg
+  year: 2023
+- round: Seed
+  slug: uncork-capital
+  year: 2016
+- round: Series D ($640M)
+  slug: social-capital
+  year: 2024
+- round: ~2020
+  slug: marathon-management-partners
+  year: 2020
 founded: 2016
-status_company: active
-sector: [ai, ai-infrastructure, inference, semiconductors, cloud-infrastructure, deep-tech]
-stage_latest: "Growth"
-total_raised: "$650M (June 2026 round)"
-firms: []
-investors: []
 founders:
-  - name: "Jonathan Ross"
-    role: "Founder & CEO"
-status: published
+- name: Jonathan Ross
+  role: Founder & CEO
+investors:
+- round: Seed
+  slug: leif-danielsen
+  year: 2023
+- round: Seed
+  slug: hank-vigil
+  year: 2021
+- round: Growth
+  slug: daniel-gross
+  year: 2023
+- round: Seed
+  slug: jeff-clavier
+  year: 2016
+- round: Series D ($640M)
+  slug: chamath-palihapitiya
+  year: 2024
+- round: ~2020
+  slug: gokul-rajaram
+  year: 2020
 last_researched: 2026-06-29
+location: Mountain View, CA
+name: Groq
+sector:
+- ai
+- ai-infrastructure
+- inference
+- semiconductors
+- cloud-infrastructure
+- deep-tech
+slug: groq
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $650M (June 2026 round)
+type: startup
+website: https://groq.com
 ---
 
 ## About

@@ -42,15 +42,18 @@ firms:
 - round: Early stage
   slug: independent
   year: 2023
-- round: series-a
+- date: 2023-12-11
+  round: series-a
   slug: conviction
   year: 2023
-  date: 2023-12-11
 - round: Early stage
   slug: gil-capital
   year: 2023
 - round: Seed
   slug: kima-ventures
+  year: 2023
+- round: Co-Founder (Seed onwards)
+  slug: mistral
   year: 2023
 founded: 2023
 founders:
@@ -78,6 +81,9 @@ investors:
   year: 2023
 - round: Seed
   slug: xavier-niel
+  year: 2023
+- round: Co-Founder (Seed onwards)
+  slug: guillaume-lample
   year: 2023
 last_researched: 2026-03-20
 location: Paris, France

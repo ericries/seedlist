@@ -13,6 +13,10 @@ firms:
 - round: Early stage
   slug: atomico
   year: 2023
+- round: Series A ($40M, AVP led; Lowercarbon Capital, Plural, John Doerr, Walter
+    Kortschak participated)
+  slug: avp
+  year: 2026
 founded: 2022
 founders:
 - name: Eamon Jubbawy

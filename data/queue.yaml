@@ -21302,7 +21302,7 @@ queue:
 - name: Guillaume Lample
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Mistral (Cofounder & Chief Scientist)
   discovered_from: white-circle
@@ -33230,3 +33230,95 @@ queue:
   firm: XDOF
   discovered_from: xdof
   source: Co-Founder & CEO, XDOF $70M (2026-06-17)
+- name: CVS Health Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: h1
+  source: led H1 $40M growth round 2026-05-28; Partner Justin Brock joined H1 collaboration
+- name: Arthur Mensch
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Mistral AI
+  discovered_from: guillaume-lample
+  source: Co-Founder & CEO of Mistral AI; former Google DeepMind research scientist;
+    École Polytechnique alum
+- name: Timothée Lacroix
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Mistral AI
+  discovered_from: guillaume-lample
+  source: Co-Founder & CTO of Mistral AI; former Meta FAIR researcher; co-author of
+    LLaMA paper alongside Guillaume Lample
+- name: Sebastián Mejía
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rappi
+  discovered_from: simon-borrero
+  source: Co-Founder & President of Rappi; co-founded Grability (2013) and Rappi (2015)
+    with Borrero; active LatAm angel investor and "Rappi Mafia" anchor
+- name: Juan Pablo Ortega
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rappi
+  discovered_from: simon-borrero
+  source: Co-founder at Rappi; co-invested with Borrero in Chowdeck's $2.5M seed round
+    2024-04-30
+- name: Telepatia
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: simon-borrero
+  source: AI-native clinical platform for Latin American hospitals; founded 2025 in
+    Colombia by Nicolás Abad; $33M Series A led by a16z 2026-06-18 with angels Simón
+    Borrero, David Vélez, Shyam Sankar
+- name: Truora
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: simon-borrero
+  source: Colombian identity/KYC/WhatsApp onboarding startup; $15M Series A 2022-04
+    co-led by Propel Venture Partners and Accel with angel Simón Borrero
+- name: Morado
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: simon-borrero
+  source: Colombian B2B beauty industry marketplace; $5M pre-seed 2022-04 co-led by
+    Tiger Global and H20 Capital Innovation with angel Simón Borrero
+- name: Chowdeck
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: simon-borrero
+  source: Nigerian on-demand food delivery startup; $2.5M seed 2024-04-30 with YC,
+    Goodwater Capital, and angels Simón Borrero and Juan Pablo Ortega
+- name: Riogrande
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: simon-borrero
+  source: Mexico-based LatAm e-commerce brand aggregator; $12M seed 2022 led by Y
+    Combinator and Wollef with angel Simón Borrero
+- name: Bia Energy
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: simon-borrero
+  source: Colombian energy startup founded by ex-Rappi employees; received angel investment
+    from Rappi co-founders Borrero, Mejía, Villamarín (2022)
