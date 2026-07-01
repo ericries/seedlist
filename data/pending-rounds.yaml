@@ -28,7 +28,8 @@ pending_rounds:
   parsed_company: ORYZON
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  skip_reason: publicly-traded biotech (BME:ORY) capital increase, not a startup VC round
 - title: SunPower Closes $10 Million Share Exchange
   url: https://www.globenewswire.com/news-release/2026/07/01/3320562/0/en/SunPower-Closes-10-Million-Share-Exchange.html
   source: globenewswire
@@ -45,25 +46,28 @@ pending_rounds:
   parsed_company: null
   parsed_amount: $65M
   parsed_round: Series A
-  status: pending
+  status: processed
+  notes: created startup profile venice-ai.md; Dragonfly lead with Coinbase Ventures, F-Prime, North Island Ventures; $1B post-money valuation
 - title: Telum Therapeutics raises €18 million to advance treatments for hospital-acquired
     infections
   url: https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/
   source: eu-startups
   date_found: '2026-07-01'
   parsed_company: Telum Therapeutics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €18M
+  parsed_round: Series A
+  status: processed
+  notes: created startup profile telum-therapeutics.md; AMR Action Fund lead with Inveready, Invivo Partners, CDTI/SICC Innvierte, Clave Capital, Sodena
 - title: EquiLibre secures Series A at €438 million valutation to scale AI trading
     agents handling billions daily
   url: https://www.eu-startups.com/2026/07/equilibre-secures-series-a-at-e438-million-valutation-to-scale-ai-trading-agents-handling-billions-daily/
   source: eu-startups
   date_found: '2026-07-01'
   parsed_company: EquiLibre
-  parsed_amount: null
+  parsed_amount: undisclosed
   parsed_round: Series A
-  status: pending
+  status: processed
+  notes: created startup profile equilibre-technologies.md; Creandum led at €438M ($500M) valuation; amount undisclosed; updated creandum.md portfolio
 - title: INMerge Innovation Summit concludes its international event series with INMerge
     Berlin (Sponsored)
   url: https://www.eu-startups.com/2026/06/inmerge-innovation-summit-concludes-its-international-event-series-with-inmerge-berlin-sponsored/

@@ -2753,3 +2753,19 @@ priority:
   type: startup
   reason: "new startup profile (Series A ¥650M, 2026-06-29, Nissay Capital led)"
   added: 2026-06-30
+- slug: equilibre-technologies
+  type: startup
+  reason: "new startup profile (Series A, 2026-07-01, Creandum led, €438M valuation)"
+  added: 2026-07-01
+- slug: creandum
+  type: firm
+  reason: "led EquiLibre Technologies Series A (2026-07-01, €438M valuation)"
+  added: 2026-07-01
+- slug: telum-therapeutics
+  type: startup
+  reason: "new startup profile (Series A €18M, 2026-07-01, AMR Action Fund led)"
+  added: 2026-07-01
+- slug: venice-ai
+  type: startup
+  reason: "new startup profile (Series A $65M, 2026-07-01, Dragonfly led, $1B valuation)"
+  added: 2026-07-01

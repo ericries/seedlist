@@ -151,6 +151,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | Navan (TripActions) | Early stage | ~2016 | Travel/SaaS | IPO (NASDAQ, 2025) | [^19] |
 | Virta Health | Early stage | ~2018 | Health/Diabetes | Active (unicorn) | [^15] |
 | Conduct | Series A (participated as existing investor; $60M co-led by Index Ventures + ICONIQ; SAP strategic) | 2026-06-17 | AI/Enterprise Operating System/SAP | Active | [^32][^33][^34] |
+| EquiLibre Technologies | Series A (led; €438M / $500M valuation, amount undisclosed) | 2026-07-01 | AI/Quantitative Trading/Reinforcement Learning | Active | [^35][^36] |
 
 ## In Their Own Words
 
@@ -224,3 +225,7 @@ No independently sourced founder testimonials found. Creandum's reputation among
 [^33]: TheNextWeb, "Conduct raises $60M Series A from Index, ICONIQ and SAP," June 17, 2026. Accessed June 2026. https://thenextweb.com/news/conduct-60-million-series-a-index-iconiq-sap — Independent confirmation of $60M Series A; total funding ~$72M to date, implying Creandum was in earlier rounds (consistent with "existing investor" framing).
 
 [^34]: The SaaS News, "Conduct Raises $60M Series A," June 17, 2026. Accessed June 2026. https://www.thesaasnews.com/news/conduct-raises-60m-series-a/ — Third independent confirmation listing Creandum as existing-investor participant.
+
+[^35]: TechCrunch, "The DeepMind trio who built a poker AI are now making money for quant hedge funds," June 30, 2026. Accessed July 2026. https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/ — Confirms Creandum led Series A for EquiLibre Technologies (Prague), applying reinforcement learning to trading in partnership with Tower Research Capital.
+
+[^36]: Tech Funding News, "Prague's EquiLibre raises Series A at $500M valuation to scale AI trading agents," July 1, 2026. Accessed July 2026. https://techfundingnews.com/equilibre-series-a-500m-ai-trading-agents-creandum/ — Cameron Sellers (VP, Creandum) quoted: "This is the largest investment we have ever made... EquiLibre is doing what the best frontier labs do."
