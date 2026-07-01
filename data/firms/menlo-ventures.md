@@ -95,7 +95,7 @@ Based on Menlo Ventures' verified portfolio data:
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Anthropic | Growth | ~2023 | AI | Private [^1] |
+| Anthropic | Series C, Series D (led, 2024-01-11, $750M at $18.4B via Menlo Inflection AI Partners SPV), Series E, Series F, Series G, Series H | 2023-05-23 onward | AI | Private [^1][^26] |
 | Pinecone | Growth | ~2023 | AI Infrastructure | Private [^1] |
 | Abnormal Security | Growth | ~2021 | Cybersecurity/AI | Private [^1] |
 | Chime | Growth | ~2018 | Fintech | IPO (Nasdaq) [^1] |
@@ -167,3 +167,5 @@ No independently sourced founder testimonials found.
 [^24]: DroneXL, "Westmag Raises $11M To Build American Drone Motors, Betting Scale Beats China On Price," June 3, 2026. Accessed June 2026. https://dronexl.co/2026/06/03/westmag-11m-american-drone-motors-fcc-ban/ — Independent press confirmation: "The round was led by Andreessen Horowitz, with Founders Fund, Lux Capital, NFDG, and Menlo Ventures participating."
 
 [^25]: The AI Insider, "Westmag Emerges From Stealth With $11M in Seed Funding for American-Made Drone Motors and Robot Actuators," June 3, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/03/westmag-emerges-from-stealth-with-11-million-seed-in-funding-led-by-andreessen-horowitz-for-american-made-drone-motors-and-robot-actuators/ — Independent press confirmation of Menlo Ventures participation alongside Founders Fund, Lux Capital, and NFDG.
+
+[^26]: Forbes (Alex Konrad), "Inside AI Unicorn Anthropic's Unusual $750 Million Fundraise," January 11, 2024. Accessed July 2026. https://www.forbes.com/sites/alexkonrad/2024/01/11/anthropic-750million-funding-round-menlo-ventures/ — Primary contemporaneous press naming Menlo Ventures as lead of Anthropic's $750M Series D at $18.4B post-money valuation via SPV "Menlo Inflection AI Partners" (~$500M through SPV, ~$250M from Menlo's own fund and firm insiders). Cross-referenced with Menlo Ventures' own blog "Tripling Down on Anthropic," https://menlovc.com/perspective/tripling-down-on-anthropic-why-were-excited-to-continue-investing-in-the-leader-in-the-future-of-ai/, and Crunchbase News "Menlo Ventures Looks To Add To Growing AI Portfolio With New Anthropic Partnership," https://news.crunchbase.com/ai/menlo-ventures-portfolio-anthropic-anthology/.

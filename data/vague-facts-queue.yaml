@@ -163485,7 +163485,9 @@ vague_facts:
     [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: 'Resolved Google Oct 2023 extension date via 3 primary sources: (1) TechCrunch "AI''s proxy war heats up as Google reportedly backs Anthropic with $2B" [^25] dated 2023-10-27; (2) CNBC "Google commits to invest $2 billion in OpenAI competitor Anthropic," https://www.cnbc.com/2023/10/27/google-commits-to-invest-2-billion-in-openai-competitor-anthropic.html (403 on WebFetch but confirmed via search snippet); (3) Bloomberg "Google to Invest $2 Billion in AI Startup Anthropic," https://www.bloomberg.com/news/articles/2023-10-27/google-to-invest-2-billion-in-anthropic-wsj-says. Corrected date from "Oct 2023" to "2023-10-27". Amount clarified from "$500M+" to "$500M upfront + $1.5B committed" per multi-tranche structure. Valuation remains genuinely not disclosed — this was a convertible/strategic investment, not a priced equity round; instrument type not confirmed in primary sources. Added TechCrunch as citation [^25]. Column 3 label updated to "N/A (undisclosed strategic investment)".'
 - profile: startups/anthropic
   profile_name: Anthropic
   company: Amazon Investment (Tranche 2)
@@ -163507,7 +163509,9 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: 'Resolved Anthropic Series D via 3 primary sources: (1) Forbes (Alex Konrad) "Inside AI Unicorn Anthropic''s Unusual $750 Million Fundraise" [^26] published 2024-01-11 naming Menlo Ventures as lead via SPV "Menlo Inflection AI Partners" (~USD 500M via SPV plus ~USD 250M from Menlo''s own fund and firm insiders), Google''s USD 500M convertible converted into the round, Spark Capital exercised pro rata, Amazon convertibles factored in, at USD 18.4B post-money valuation; (2) Menlo Ventures own blog "Tripling Down on Anthropic" confirming they led the Series D; (3) Crunchbase News [^27] confirming Menlo led USD 750M Series D in 2024. Corrected date from "Feb 2024" to "2024-01-11" (Forbes primary announcement date; Menlo Inflection AI Partners SPV disclosed via regulatory filing Jan 16, 2024). Corrected valuation from USD 18.1B to USD 18.4B. Added Co-Investors column: "Google (existing convertible converted), Amazon (existing convertible converted), Spark Capital (pro rata), Menlo firm insiders". Added Forbes and Crunchbase News as citations [^26][^27]. Also updated Menlo Ventures firm profile portfolio row with same details.'
 - profile: startups/anthropic
   profile_name: Anthropic
   company: Amazon Investment (Extension)
@@ -163518,7 +163522,9 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: 'Resolved Amazon Nov 2024 additional USD 4B investment date via 3 primary sources: (1) Anthropic company blog "Powering the next generation of AI development with AWS" [^28] dated November 22, 2024; (2) TechCrunch "Anthropic raises another $4B from Amazon, makes AWS its ''primary'' training partner" [^29] dated November 22, 2024; (3) About Amazon "Amazon to invest additional $4B in Anthropic," https://www.aboutamazon.com/news/aws/amazon-invests-additional-4-billion-anthropic-ai, dated November 22, 2024. Corrected date from "Nov 2024" to "2024-11-22". Valuation remains genuinely not disclosed — TechCrunch notes the structure is "reportedly structured similarly to the last one" (convertible/strategic rather than priced equity round); The Information reported discussions at USD 40B valuation but this was pre-close speculation, not a stated post-money valuation. Added Anthropic blog and TechCrunch as citations [^28][^29]. Column 3 (Valuation) label updated to "N/A (undisclosed strategic investment)".'
 - profile: startups/anvil-robotics
   profile_name: Anvil Robotics
   company: '2025'
