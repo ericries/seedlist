@@ -29,7 +29,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: skipped
-  skip_reason: publicly-traded biotech (BME:ORY) capital increase, not a startup VC round
+  skip_reason: publicly-traded biotech (BME:ORY) capital increase, not a startup VC
+    round
 - title: SunPower Closes $10 Million Share Exchange
   url: https://www.globenewswire.com/news-release/2026/07/01/3320562/0/en/SunPower-Closes-10-Million-Share-Exchange.html
   source: globenewswire
@@ -47,7 +48,8 @@ pending_rounds:
   parsed_amount: $65M
   parsed_round: Series A
   status: processed
-  notes: created startup profile venice-ai.md; Dragonfly lead with Coinbase Ventures, F-Prime, North Island Ventures; $1B post-money valuation
+  notes: created startup profile venice-ai.md; Dragonfly lead with Coinbase Ventures,
+    F-Prime, North Island Ventures; $1B post-money valuation
 - title: Telum Therapeutics raises €18 million to advance treatments for hospital-acquired
     infections
   url: https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/
@@ -57,7 +59,8 @@ pending_rounds:
   parsed_amount: €18M
   parsed_round: Series A
   status: processed
-  notes: created startup profile telum-therapeutics.md; AMR Action Fund lead with Inveready, Invivo Partners, CDTI/SICC Innvierte, Clave Capital, Sodena
+  notes: created startup profile telum-therapeutics.md; AMR Action Fund lead with
+    Inveready, Invivo Partners, CDTI/SICC Innvierte, Clave Capital, Sodena
 - title: EquiLibre secures Series A at €438 million valutation to scale AI trading
     agents handling billions daily
   url: https://www.eu-startups.com/2026/07/equilibre-secures-series-a-at-e438-million-valutation-to-scale-ai-trading-agents-handling-billions-daily/
@@ -67,7 +70,16 @@ pending_rounds:
   parsed_amount: undisclosed
   parsed_round: Series A
   status: processed
-  notes: created startup profile equilibre-technologies.md; Creandum led at €438M ($500M) valuation; amount undisclosed; updated creandum.md portfolio
+  notes: created startup profile equilibre-technologies.md; Creandum led at €438M
+    ($500M) valuation; amount undisclosed; updated creandum.md portfolio
+- title: Neocloud Together AI raises $800M, leaps to $8.3B valuation
+  url: https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/
+  source: techcrunch
+  date_found: '2026-07-01'
+  parsed_company: Neocloud Together AI
+  parsed_amount: $800M
+  parsed_round: null
+  status: pending
 - title: INMerge Innovation Summit concludes its international event series with INMerge
     Berlin (Sponsored)
   url: https://www.eu-startups.com/2026/06/inmerge-innovation-summit-concludes-its-international-event-series-with-inmerge-berlin-sponsored/
@@ -826,15 +838,6 @@ pending_rounds:
   url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-23-2026/
   source: alleywatch
   date_found: '2026-06-23'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To
-    Record Numbers In 2026'
-  url: https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/
-  source: crunchbase
-  date_found: '2026-06-22'
   parsed_company: null
   parsed_amount: null
   parsed_round: null

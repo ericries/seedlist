@@ -2781,3 +2781,11 @@ priority:
   status: resolved
   resolved: 2026-07-01
   resolution_note: "Verified Venice AI $65M Series A on 2026-07-01 at $1B valuation led by Dragonfly with Coinbase Ventures, F-Prime, and North Island Ventures participating, via 4 independent primary sources: TechCrunch (breaking exclusive with Erik Voorhees interview) [^1], Venice.ai official company blog [^2], Bloomingbit [^3], and Unite.AI [^4] (newly added as 4th citation). F-Prime confirmed via Venice.ai's own blog post (Unite.AI/TechCrunch only name Dragonfly + Coinbase Ventures + North Island Ventures 'and others'). Company financials confirmed: $70M ARR, 3M+ active users, 1.7M average daily API calls. Founder Erik Voorhees (ex-Satoshi Dice, ex-ShapeShift). Use of funds: GPUs, own data centers. First external fundraise. No Dragonfly blog announcement or Bloomberg/Block/CoinDesk coverage found."
+- slug: general-catalyst
+  type: firm
+  reason: "participated in Together AI Series C ($800M at $8.3B post-money, 2026-07-01)"
+  added: 2026-07-01
+- slug: emergence-capital
+  type: firm
+  reason: "participated in Together AI Series C ($800M at $8.3B post-money, 2026-07-01)"
+  added: 2026-07-01
