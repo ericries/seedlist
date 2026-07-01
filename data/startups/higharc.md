@@ -3,6 +3,9 @@ firms:
 - round: Series B ($53M)
   slug: psp-partners
   year: 2024
+- slug: insight-partners
+- slug: lux-capital
+- slug: spark-capital
 founders:
 - name: Marc Minor
   role: Co-Founder & CEO

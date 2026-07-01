@@ -34483,3 +34483,75 @@ queue:
   discovered_from: ranjan-pai
   source: Ranjan Pai co-invested in INR 250 Cr round (2025-09-16) at INR 1,650 Cr
     valuation
+- name: March Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: together-ai
+- name: Nextech Invest
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: flare-therapeutics
+- name: Maverick Silicon
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stathera
+- name: Celesta Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stathera
+- name: MediaTek Innovation Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stathera
+- name: Abbie Celniker
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Third Rock Ventures
+  discovered_from: flare-therapeutics
+- name: Anna Protopapas
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Flare Therapeutics
+  discovered_from: flare-therapeutics
+- name: Josh Miner
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Maverick Silicon
+  discovered_from: stathera
+- name: Nicholas Brathwaite
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Celesta Capital
+  discovered_from: stathera
+- name: George Xereas
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Stathera
+  discovered_from: stathera
+- name: Vipul Ved Prakash
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Together AI
+  discovered_from: together-ai

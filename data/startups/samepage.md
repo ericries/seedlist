@@ -1,29 +1,35 @@
 ---
-name: "Samepage"
-slug: samepage
-type: startup
-website: "https://samepage.ai"
-location: "Singapore"
-founded: 2024
-status_company: active
-sector: [ai, saas, productivity, enterprise]
-stage_latest: "Seed"
-total_raised: "$4.85M"
-investors: []
 firms:
-  - slug: craft-ventures
-    round: seed
-    year: 2026
-    date: 2026-06-25
+- date: 2026-06-25
+  round: seed
+  slug: craft-ventures
+  year: 2026
+founded: 2024
 founders:
-  - name: "Sahil Jain"
-    role: "Co-Founder"
-  - name: "Jason Wu"
-    role: "Co-Founder"
-  - name: "Paul Wicker"
-    role: "Co-Founder"
-status: published
+- name: Sahil Jain
+  role: Co-Founder
+- name: Jason Wu
+  role: Co-Founder
+- name: Paul Wicker
+  role: Co-Founder
+investors:
+- slug: justin-kan
+- slug: matt-mullenweg
 last_researched: 2026-06-29
+location: Singapore
+name: Samepage
+sector:
+- ai
+- saas
+- productivity
+- enterprise
+slug: samepage
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $4.85M
+type: startup
+website: https://samepage.ai
 ---
 
 ## About

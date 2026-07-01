@@ -8,6 +8,18 @@ firms:
   round: series-c
   slug: emergence-capital
   year: 2026
+- round: Seed ($20M)
+  slug: lux-capital
+  year: 2023
+- round: Seed
+  slug: long-journey-ventures
+  year: 2023
+- round: Seed
+  slug: first-round-capital
+  year: 2023
+- round: Series B
+  slug: quantumlight
+  year: 2024
 founded: 2022
 founders:
 - name: Vipul Ved Prakash
@@ -16,7 +28,28 @@ founders:
   role: Co-Founder
 - name: Ce Zhang
   role: Co-Founder & CTO
-investors: []
+investors:
+- round: Seed ($20M)
+  slug: brandon-reeves
+  year: 2023
+- round: Seed
+  slug: arielle-zuckerberg
+  year: 2023
+- round: Seed
+  slug: cyan-banister
+  year: 2023
+- round: Series A
+  slug: gordon-ritter
+  year: 2023
+- round: Seed
+  slug: bill-trenchard
+  year: 2023
+- round: Seed
+  slug: scott-banister
+  year: 2023
+- round: Series B
+  slug: tommaso-conca
+  year: 2024
 last_researched: 2026-07-01
 location: San Francisco, CA
 name: Together AI

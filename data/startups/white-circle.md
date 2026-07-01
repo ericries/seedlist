@@ -10,6 +10,7 @@ investors:
   year: 2026
 - slug: durk-kingma
 - slug: thomas-wolf
+- slug: guillaume-lample
 last_researched: 2026-05-12
 location: Paris, France
 name: White Circle

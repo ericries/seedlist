@@ -1,26 +1,27 @@
 ---
-name: Attention
-slug: attention
-type: startup
-website: "https://www.attention.com"
-location: New York, New York
+firms:
+- slug: rtp-ventures
 founded: 2021
-status_company: active
-sector:
-- AI
-- sales-automation
-- saas
-stage_latest: Series B
-total_raised: $47.1M
-firms: []
-investors: []
 founders:
 - name: Anis Bennaceur
   role: Co-Founder & CEO
 - name: Matthias Wickenburg
   role: Co-Founder
-status: published
+investors: []
 last_researched: 2026-05-25
+location: New York, New York
+name: Attention
+sector:
+- AI
+- sales-automation
+- saas
+slug: attention
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $47.1M
+type: startup
+website: https://www.attention.com
 ---
 
 ## About

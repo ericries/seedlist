@@ -48,6 +48,9 @@ investors:
 - round: Series B
   slug: marc-benioff
   year: 2023
+- slug: balaji-srinivasan
+- slug: kevin-hartz
+- slug: kyle-vogt
 last_researched: 2026-06-26
 location: New York, NY
 name: Warp

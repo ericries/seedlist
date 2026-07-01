@@ -14,6 +14,7 @@ investors:
 - round: Series A (Notable led, $17M)
   slug: glenn-solomon
   year: 2024
+- slug: gokul-rajaram
 last_researched: 2026-06-29
 location: San Francisco, CA
 name: Patronus AI

@@ -1,25 +1,33 @@
 ---
-name: "Orthogonal"
-slug: orthogonal
-type: startup
-website: "https://www.orthogonal.dev"
-location: "San Francisco, CA"
-status_company: active
-sector: [ai, ai-agents, infrastructure, payments, developer-tools, crypto]
-stage_latest: "Seed"
-total_raised: "$4.3M"
 firms:
-  - slug: y-combinator
-    round: seed
-    year: 2026
-    date: 2026-06-25
+- date: 2026-06-25
+  round: seed
+  slug: y-combinator
+  year: 2026
+- slug: pantera-capital
 founders:
-  - name: "Christian Pickett"
-    role: "Co-Founder & CEO"
-  - name: "Bera Sogut"
-    role: "Co-Founder"
-status: published
+- name: Christian Pickett
+  role: Co-Founder & CEO
+- name: Bera Sogut
+  role: Co-Founder
+investors: []
 last_researched: 2026-06-29
+location: San Francisco, CA
+name: Orthogonal
+sector:
+- ai
+- ai-agents
+- infrastructure
+- payments
+- developer-tools
+- crypto
+slug: orthogonal
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $4.3M
+type: startup
+website: https://www.orthogonal.dev
 ---
 
 ## About

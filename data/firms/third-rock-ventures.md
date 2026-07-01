@@ -129,6 +129,7 @@ The following table includes selected portfolio companies. This represents a sub
 | Abata Therapeutics | Series A ($95M) | 2021 | Immunology/Neuroinflammation | Active | [^29] |
 | Asher Bio | Series A ($55M) | 2021 | Immunology | Active | [^30] |
 | Flare Therapeutics | Series A ($82M) | 2021 | Oncology | Active | [^31] |
+| Flare Therapeutics | Series C ($85M, insider-led) | 2026-06-30 | Oncology | Active | [^55] |
 | Cargo Therapeutics | Series A ($200M) | 2023 | Cell Therapy | Public (IPO) | [^32] |
 | MOMA Therapeutics | Series A | 2020 | Oncology | Active | [^1][^10] |
 | Faze Medicines | Series A ($81M) | 2020 | Drug Discovery | Shut down (2022) | [^33] |
@@ -265,3 +266,4 @@ Note: The Bill Helman quote is from a fellow venture capitalist rather than a po
 [^52]: Fierce Biotech, "Constellation Pharmaceuticals Closes $32 Million in Series A Funding," 2008. https://www.fiercebiotech.com/biotech/constellation-pharmaceuticals-closes-32-million-series-a-funding
 [^53]: Bloomberg, "Seaport Therapeutics Said to Raise $255 Million in Upsized IPO," April 30, 2026. https://www.bloomberg.com/news/articles/2026-04-30/seaport-therapeutics-said-to-raise-255-million-in-upsized-ipo
 [^54]: Renaissance Capital, "Neuropsychiatric therapeutics Seaport Therapeutics prices upsized IPO at $18, the high end of the range," April 30, 2026. https://www.renaissancecapital.com/IPO-Center/News/118718/Neuropsychiatric-therapeutics-Seaport-Therapeutics-prices-upsized-IPO-at-$1
+[^55]: Flare Therapeutics press release, "Flare Therapeutics Secures $85M in Insider-Led Series C Financing and Appoints Anna Protopapas as Chief Executive Officer," June 30, 2026. Accessed July 2026. https://www.flaretx.com/flare-therapeutics-secures-85m-in-insider-led-series-c-financing-and-appoints-anna-protopapas-as-chief-executive-officer/
