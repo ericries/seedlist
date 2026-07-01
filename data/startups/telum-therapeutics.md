@@ -29,7 +29,7 @@ Telum Therapeutics is a Spanish biotech company developing protein-based antimic
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-01 | Series A | €18M | AMR Action Fund | Inveready, Invivo Partners, CDTI/SICC Innvierte, Clave Capital, Sodena [^1][^2][^3] |
+| 2026-07-01 | Series A | €18M | AMR Action Fund | Inveready, Invivo Partners, CDTI/SICC Innvierte, Clave Capital, Sodena [^1][^2][^3][^5] |
 | 2020 | Seed | €4.1M | Invivo Ventures | Clave Capital, CDTI-Innvierte [^4] |
 
 ## What Investors Say
@@ -48,3 +48,4 @@ Telum Therapeutics is a Spanish biotech company developing protein-based antimic
 [^2]: International Biopharmaceutical Industry, "Telum Therapeutics Secures €18 Million Series A Financing to Advance Lead Antimicrobial Programme into Clinical Development," 2026. Accessed July 2026. https://international-biopharma.com/telum-therapeutics-secures-e18-million-series-a-financing-to-advance-lead-antimicrobial-programme-into-clinical-development/
 [^3]: BioTech NewsWire, "Telum Therapeutics Secures €18 Million Series A Financing to Advance Lead Antimicrobial Program into Clinical Development," June 30, 2026. Accessed July 2026. https://www.biotechnewswire.ai/202606302805/telum-therapeutics-secures-18-million-series-a-financing-to-advance-lead-antimicrobial-program-into-clinical-development.html
 [^4]: Telum Therapeutics, "Telum Therapeutics raises €4.1 million in its first round of financing," accessed July 2026. https://telumtherapeutics.com/telum-therapeutics-raises-e-4-1-million-in-its-first-round-of-financing-to-advance-the-development-of-new-synthetic-biology-based-therapies-for-the-treatment-of-infectious-diseases-caused-by-multi-res/
+[^5]: BeBeez International, "Telum Therapeutics raised €18 million to advance treatments for hospital-acquired infections," July 1, 2026. Accessed July 2026. https://bebeez.eu/2026/07/01/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/

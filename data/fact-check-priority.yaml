@@ -2757,15 +2757,27 @@ priority:
   type: startup
   reason: "new startup profile (Series A, 2026-07-01, Creandum led, €438M valuation)"
   added: 2026-07-01
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: "Verified EquiLibre Technologies Series A (announcement 2026-07-01; TechCrunch published exclusive 2026-06-30) led by Creandum at €438M/$500M valuation (round amount genuinely undisclosed per Creandum) via 3 independent primary sources already in profile: TechCrunch [^1], Tech Funding News [^2], EU-Startups [^3]. Cameron Sellers (Creandum VP) confirmed as spokesperson. No Creandum blog or Bloomberg/FT article found; 3-source threshold met. Prior rounds (Blossom Capital $10M seed ~2023 at $140M val; Credo VC pre-seed ~2022) confirmed by Tech Funding News. Tower Research Capital is a trading partner, NOT an investor. Founders: Martin Schmid, Rudolf Kadlec, Matej Moravcik (all ex-DeepMind, built DeepStack poker AI)."
 - slug: creandum
   type: firm
   reason: "led EquiLibre Technologies Series A (2026-07-01, €438M valuation)"
   added: 2026-07-01
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: "Verified Creandum led EquiLibre Technologies Series A on 2026-07-01 at €438M/$500M valuation via 3 independent primary sources: TechCrunch [^35], Tech Funding News [^36], and EU-Startups [^37] (newly added as 3rd citation). Cameron Sellers (VP, Creandum) quoted: 'This is the largest investment we have ever made... EquiLibre is doing what the best frontier labs do.' Prague-based; DeepMind alumni team of 3."
 - slug: telum-therapeutics
   type: startup
   reason: "new startup profile (Series A €18M, 2026-07-01, AMR Action Fund led)"
   added: 2026-07-01
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: "Verified Telum Therapeutics €18M Series A on 2026-07-01 led by AMR Action Fund (Dr. Henry Skinner, CEO) with Inveready (new investor), Invivo Partners, CDTI/SICC Innvierte, Clave Capital, Sodena (existing investors) participating, via 4 independent primary sources: EU-Startups [^1], International Biopharmaceutical Industry [^2], BioTech NewsWire [^3], and BeBeez International [^5] (newly added as 4th citation). Pamplona, Spain (Navarra). Lead program targets Acinetobacter baumannii HABP/VABP via APEX platform (metagenomics + synthetic biology + generative AI). Founders Subhendu Basu (CEO) and Roberto Díez (Founder & COO). AMR Action Fund is a global public-private VC dedicated to antimicrobial resistance. Note: One Spanish source (WebCapitalRiesgo) framed as AMR + Inveready co-led, but 4 English/international sources agree AMR is sole lead — kept as sole lead per primary-source majority."
 - slug: venice-ai
   type: startup
   reason: "new startup profile (Series A $65M, 2026-07-01, Dragonfly led, $1B valuation)"
   added: 2026-07-01
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: "Verified Venice AI $65M Series A on 2026-07-01 at $1B valuation led by Dragonfly with Coinbase Ventures, F-Prime, and North Island Ventures participating, via 4 independent primary sources: TechCrunch (breaking exclusive with Erik Voorhees interview) [^1], Venice.ai official company blog [^2], Bloomingbit [^3], and Unite.AI [^4] (newly added as 4th citation). F-Prime confirmed via Venice.ai's own blog post (Unite.AI/TechCrunch only name Dragonfly + Coinbase Ventures + North Island Ventures 'and others'). Company financials confirmed: $70M ARR, 3M+ active users, 1.7M average daily API calls. Founder Erik Voorhees (ex-Satoshi Dice, ex-ShapeShift). Use of funds: GPUs, own data centers. First external fundraise. No Dragonfly blog announcement or Bloomberg/Block/CoinDesk coverage found."

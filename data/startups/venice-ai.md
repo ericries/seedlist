@@ -28,7 +28,7 @@ Venice AI is a privacy-first AI platform that gives users access to more than 20
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-01 | Series A | $65M ($1B valuation) | Dragonfly | Coinbase Ventures, F-Prime, North Island Ventures [^1][^2][^3] |
+| 2026-07-01 | Series A | $65M ($1B valuation) | Dragonfly | Coinbase Ventures, F-Prime, North Island Ventures [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -43,3 +43,4 @@ No independently sourced investor quotes found at this time beyond funding annou
 [^1]: TechCrunch, "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off," July 1, 2026. Accessed July 2026. https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/
 [^2]: Venice.ai, "Venice Raises $65 Million Series A at a $1 Billion Valuation," July 1, 2026. Accessed July 2026. https://venice.ai/blog/venice-raises-65-million-series-a
 [^3]: Bloomingbit, "Venice AI Raises $65 Million in Series A, Reaches $1 Billion Valuation," July 2026. Accessed July 2026. https://en.bloomingbit.io/feed/news/115417
+[^4]: Unite.AI, "Venice AI Raises $65M at $1B Valuation as Private AI Moves Into the Mainstream," July 1, 2026. Accessed July 2026. https://www.unite.ai/venice-ai-raises-65m-at-1b-valuation-as-private-ai-moves-into-the-mainstream/

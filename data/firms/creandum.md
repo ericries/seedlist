@@ -151,7 +151,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | Navan (TripActions) | Early stage | ~2016 | Travel/SaaS | IPO (NASDAQ, 2025) | [^19] |
 | Virta Health | Early stage | ~2018 | Health/Diabetes | Active (unicorn) | [^15] |
 | Conduct | Series A (participated as existing investor; $60M co-led by Index Ventures + ICONIQ; SAP strategic) | 2026-06-17 | AI/Enterprise Operating System/SAP | Active | [^32][^33][^34] |
-| EquiLibre Technologies | Series A (led; €438M / $500M valuation, amount undisclosed) | 2026-07-01 | AI/Quantitative Trading/Reinforcement Learning | Active | [^35][^36] |
+| EquiLibre Technologies | Series A (led; €438M / $500M valuation, amount undisclosed) | 2026-07-01 | AI/Quantitative Trading/Reinforcement Learning | Active | [^35][^36][^37] |
 
 ## In Their Own Words
 
@@ -229,3 +229,5 @@ No independently sourced founder testimonials found. Creandum's reputation among
 [^35]: TechCrunch, "The DeepMind trio who built a poker AI are now making money for quant hedge funds," June 30, 2026. Accessed July 2026. https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/ — Confirms Creandum led Series A for EquiLibre Technologies (Prague), applying reinforcement learning to trading in partnership with Tower Research Capital.
 
 [^36]: Tech Funding News, "Prague's EquiLibre raises Series A at $500M valuation to scale AI trading agents," July 1, 2026. Accessed July 2026. https://techfundingnews.com/equilibre-series-a-500m-ai-trading-agents-creandum/ — Cameron Sellers (VP, Creandum) quoted: "This is the largest investment we have ever made... EquiLibre is doing what the best frontier labs do."
+
+[^37]: EU-Startups, "EquiLibre secures Series A at €438 million valuation to scale AI trading agents handling billions daily," July 1, 2026. Accessed July 2026. https://www.eu-startups.com/2026/07/equilibre-secures-series-a-at-e438-million-valutation-to-scale-ai-trading-agents-handling-billions-daily/ — Third independent confirmation of Creandum-led Series A at €438M valuation, backing DeepMind alumni Martin Schmid, Rudolf Kadlec, Matej Moravcik.
