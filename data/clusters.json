@@ -8178,7 +8178,7 @@
       "name": "Not Afraid of Regulators",
       "tagline": "They invest where others fear to tread \u2014 fintech, healthcare, crypto, insurance. Regulatory complexity is a moat, not a bug.",
       "type": "curated",
-      "size": 12,
+      "size": 13,
       "members": [
         {
           "slug": "andrew-dudum",
@@ -8239,6 +8239,11 @@
           "slug": "tom-glocer",
           "name": "Tom Glocer",
           "firm": "Angelic Ventures"
+        },
+        {
+          "slug": "ranjan-pai",
+          "name": "Ranjan Pai",
+          "firm": "aarin-capital"
         }
       ]
     },
@@ -8712,7 +8717,7 @@
       "name": "The Solo GPs",
       "tagline": "No partnership, no committee, no BS. They write their own checks and make their own decisions \u2014 often faster than anyone else.",
       "type": "curated",
-      "size": 20,
+      "size": 21,
       "members": [
         {
           "slug": "dan-scheinman",
@@ -8809,6 +8814,11 @@
           "slug": "lynne-okeefe",
           "name": "Lynne Chou O'Keefe",
           "firm": "define-ventures"
+        },
+        {
+          "slug": "tikhon-bernstam",
+          "name": "Tikhon Bernstam",
+          "firm": "independent"
         }
       ]
     },
@@ -9484,7 +9494,7 @@
       "name": "The Biotech Believers",
       "tagline": "From CRISPR to synthetic biology to computational drug discovery. They bet on the biological century.",
       "type": "curated",
-      "size": 10,
+      "size": 11,
       "members": [
         {
           "slug": "eddie-eltoukhy",
@@ -9534,6 +9544,11 @@
         {
           "slug": "carina-namih",
           "name": "Carina Namih"
+        },
+        {
+          "slug": "ranjan-pai",
+          "name": "Ranjan Pai",
+          "firm": "aarin-capital"
         }
       ]
     },
@@ -9542,7 +9557,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 126,
+      "size": 128,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10110,6 +10125,16 @@
           "slug": "simon-borrero",
           "name": "Sim\u00f3n Borrero",
           "firm": "rappi"
+        },
+        {
+          "slug": "ranjan-pai",
+          "name": "Ranjan Pai",
+          "firm": "aarin-capital"
+        },
+        {
+          "slug": "tikhon-bernstam",
+          "name": "Tikhon Bernstam",
+          "firm": "independent"
         }
       ]
     },
@@ -11405,7 +11430,7 @@
       "name": "The YC Alumni Network",
       "tagline": "They built companies through Y Combinator, then crossed to the investor side. The YC network is the most powerful alumni network in startups \u2014 and they're proof.",
       "type": "curated",
-      "size": 34,
+      "size": 35,
       "members": [
         {
           "slug": "alexis-ohanian",
@@ -11573,6 +11598,11 @@
         {
           "slug": "pete-koomen",
           "name": "Pete Koomen"
+        },
+        {
+          "slug": "tikhon-bernstam",
+          "name": "Tikhon Bernstam",
+          "firm": "independent"
         }
       ]
     },
@@ -12924,7 +12954,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 26,
+      "size": 27,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -13046,6 +13076,11 @@
           "slug": "nithin-kamath",
           "name": "Nithin Kamath",
           "firm": "rainmatter"
+        },
+        {
+          "slug": "ranjan-pai",
+          "name": "Ranjan Pai",
+          "firm": "aarin-capital"
         }
       ],
       "id": "curated-49"
