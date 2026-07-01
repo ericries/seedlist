@@ -81,44 +81,45 @@ Based on 28 verified portfolio investments from publicly available sources:
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Anduril | Early | — | Defense | [^1] |
-| Anchorage Digital | Early | — | Crypto/Fintech | [^12] |
-| Aven | Seed | — | Fintech | [^1] |
+~unknown| Anduril | Early | — | Defense | [^1] |
+~unknown| Anchorage Digital | Early | — | Crypto/Fintech | [^12] |
+~unknown| Aven | Seed | — | Fintech | [^1] |
 | Bland AI | Series A | 2024-08-28 | AI | [^13][^18] |
-| Blend | Early | — | Fintech | [^12] |
-| Bolt Threads | Early | — | Biotech | [^12] |
+~unknown| Blend | Early | — | Fintech | [^12] |
+~unknown| Bolt Threads | Early | — | Biotech | [^12] |
 | Brex | Series B | 2018-06-19 | Fintech | [^1][^3][^19] |
-| Capchase | Early | — | Fintech | [^1] |
-| ClearTax | Early | — | Fintech | [^12] |
-| Clipboard Health | Early | — | Healthcare | [^2] |
-| Coast | Early | — | Fintech/Payments | [^1][^2] |
-| Coinbase | Early | — | Crypto | [^12] |
-| Collective Health | Early | — | Healthcare | [^12] |
-| Color | Early | — | Healthcare/Genomics | [^12] |
+~unknown| Capchase | Early | — | Fintech | [^1] |
+~unknown| ClearTax | Early | — | Fintech | [^12] |
+~unknown| Clipboard Health | Early | — | Healthcare | [^2] |
+~unknown| Coast | Early | — | Fintech/Payments | [^1][^2] |
+~unknown| Coinbase | Early | — | Crypto | [^12] |
+~unknown| Collective Health | Early | — | Healthcare | [^12] |
+~unknown| Color | Early | — | Healthcare/Genomics | [^12] |
 | Empora Title | Series A | 2021-12-01 | Fintech/Real Estate | [^14][^20] |
 | Folio | Series A | 2025 | Fintech/Hospitality | [^15] |
 | Loft | Series A | 2018 | Real Estate/Fintech | [^1][^16] |
-| Maihem AI | Early | — | AI | [^1] |
-| Mixpanel | Early | — | Analytics | [^12] |
-| Nestmed | Early | — | Healthcare | [^1] |
-| Opendoor | Early | — | Real Estate/Fintech | [^3][^9] |
-| Peloton | Early | — | Consumer/Fitness | [^9] |
-| Pinterest | Early | — | Consumer | [^7][^12] |
-| Pomelo | Early | — | Fintech | [^1] |
-| Propel | Early | — | Social Impact/Fintech | [^2][^12] |
-| PsiQuantum | Early | — | Quantum Computing | [^1] |
-| Sift Science | Early | — | Security/ML | [^12] |
-| Stripe | Early | — | Fintech/Payments | [^1] |
-| Supergood AI | Early | — | AI | [^1] |
-| Synthego | Early | — | Biotech/Genomics | [^12] |
-| Uber | Early | — | Transportation | [^1][^7] |
-| Unity | Early | — | Gaming/Dev Tools | [^7] |
+~unknown| Maihem AI | Early | — | AI | [^1] |
+~unknown| Mixpanel | Early | — | Analytics | [^12] |
+~unknown| Nestmed | Early | — | Healthcare | [^1] |
+~unknown| Opendoor | Early | — | Real Estate/Fintech | [^3][^9] |
+~unknown| Peloton | Early | — | Consumer/Fitness | [^9] |
+~unknown| Pinterest | Early | — | Consumer | [^7][^12] |
+~unknown| Pomelo | Early | — | Fintech | [^1] |
+~unknown| Propel | Early | — | Social Impact/Fintech | [^2][^12] |
+~unknown| PsiQuantum | Early | — | Quantum Computing | [^1] |
+~unknown| Sift Science | Early | — | Security/ML | [^12] |
+~unknown| Stripe | Early | — | Fintech/Payments | [^1] |
+~unknown| Supergood AI | Early | — | AI | [^1] |
+~unknown| Synthego | Early | — | Biotech/Genomics | [^12] |
+~unknown| Uber | Early | — | Transportation | [^1][^7] |
+~unknown| Unity | Early | — | Gaming/Dev Tools | [^7] |
 | Virta Health | Series B | 2018-04-04 | Healthcare | [^17][^21] |
-| Wise (TransferWise) | Early | — | Fintech | [^3][^12] |
-| Workstream | Early | — | HR/Marketplace | [^12] |
-| Zymergen | Early | — | Biotech | [^12] |
+~unknown| Wise (TransferWise) | Early | — | Fintech | [^3][^12] |
+~unknown| Workstream | Early | — | HR/Marketplace | [^12] |
+| Pie | Series A | 2026-06-30 | AI/SMB | [^22][^23][^24] |
+~unknown| Zymergen | Early | — | Biotech | [^12] |
 
-This table represents approximately 36 of an estimated 82 total investments (~44%). Many investment years could not be independently verified and are marked with "—". The firm's top activity year was 2018 [^9].
+This table represents approximately 37 of an estimated 82 total investments (~45%). Many investment years could not be independently verified and are marked with "—". The firm's top activity year was 2018 [^9].
 
 ## In Their Own Words
 
@@ -163,3 +164,6 @@ Note: These three testimonials are sourced from the SciFi VC website and therefo
 [^19]: Fortune, "Meet Y Combinator's Favorite Credit Card Startup—Which Just Raised $50M from PayPal Founders," June 19, 2018. https://fortune.com/crypto/2018/06/19/paypal-peter-thiel-y-combinator-brex/
 [^20]: Empora Title blog, "Funding of $24.6 million to reinvent the title industry for real estate investors," December 1, 2021. https://www.emporatitle.com/blog/empora-title-raises-series-a-bringing-total-funding-to-24-6-million
 [^21]: Virta Health press release, "Virta Health Raises $45 Million to Expand Treatment for Type 2 Diabetes Reversal," April 4, 2018. https://www.virtahealth.com/press/virta-health-raises-45-million-to-expand-treatment-for-type-2-diabetes-reversal
+[^22]: Inc., "Two Ex-Toast Engineers Just Raised $19.5 Million To Solve A Problem Most Small Businesses Don't Know They Have," June 30, 2026. Accessed June 2026. https://www.inc.com/leah-carroll/two-ex-toast-engineers-just-raised-19-5-million-to-solve-a-problem-most-small-businesses-dont-know-they-have/91367470
+[^23]: TechFundingNews, "Lightspeed backs Pie's $23.7M raise to stop small businesses from going invisible in AI search," June 30, 2026. Accessed June 2026. https://techfundingnews.com/lightspeed-pie-23-7m-ai-search-small-business/
+[^24]: Intelligence360, "Pie raises $23.7M to bring AI-powered growth to Main Street businesses," June 30, 2026. Accessed June 2026. https://www.intelligence360.news/pie-raises-23-7m-to-bring-ai-powered-growth-to-main-street-businesses/

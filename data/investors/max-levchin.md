@@ -3,9 +3,9 @@ check_size: $100K-$1M
 firm: scifi-vc
 last_researched: 2026-03-19
 last_verified_investment:
-  company: Bland AI
-  date: 2025-01-03
-  round: Seed
+  company: Pie
+  date: 2026-06-30
+  round: Series A
 location: San Francisco, CA
 name: Max Levchin
 role: Founder & General Partner
@@ -100,6 +100,7 @@ Notable pattern: Levchin's investments consistently target regulated industries 
 | Synctera | ~2021 | Angel | Fintech/Banking | [^9] |
 | Bland AI | 2024-08-29 | Series A (Angel) | AI/Automation | [^3][^11][^12] |
 | Uber | ~2013 | Angel (SciFi VC) | Transportation | [^5] |
+| Pie | 2026-06-30 | Series A (SciFi VC) | AI/SMB | [^13][^14][^15] |
 
 Notes:
 - Years marked with ~ are proxies based on company founding year or known early funding rounds; exact Levchin investment dates are not independently confirmed for most deals.
@@ -119,6 +120,10 @@ On the future of data-driven businesses:
 On what he looks for in founders:
 
 Levchin has stated he values technical depth over MBA credentials, obsession with specific problems rather than opportunistic market-chasing, and willingness to grind through complexity [^6]. He applies a founder-engineer's lens to investing, examining code quality, infrastructure robustness, and how data flows through systems during diligence [^5].
+
+On backing Pie:
+
+> "The Pie team seems to have the rare combination of founder-market fit, distribution strategy, and product velocity to win." [^15]
 
 ## What Founders Say
 
@@ -163,3 +168,9 @@ Note: The Aven, Brex, and Loft testimonials are sourced from the SciFi VC websit
 [^11]: The SaaS News, "Bland AI Raises $16 Million in Series A," August 29, 2024. Accessed May 2026. https://www.thesaasnews.com/news/bland-ai-raises-16-million-in-series-a — Confirms Bland AI's $16M Series A on August 29, 2024, led by Scale Venture Partners, with angel participation from Max Levchin, Piotr Dąbkowski, and Jeff Lawson. Y Combinator also participated.
 
 [^12]: BusinessWire, "Conversational AI Platform Bland AI Raises $16M to Change Outdated Enterprise Call Practices With Automated Phone Agents," August 28, 2024. Accessed May 2026. https://www.businesswire.com/news/home/20240828040767/en/Conversational-AI-Platform-Bland-AI-Raises-$16M-to-Change-Outdated-Enterprise-Call-Practices-With-Automated-Phone-Agents
+
+[^13]: Inc., "Two Ex-Toast Engineers Just Raised $19.5 Million To Solve A Problem Most Small Businesses Don't Know They Have," June 30, 2026. Accessed June 2026. https://www.inc.com/leah-carroll/two-ex-toast-engineers-just-raised-19-5-million-to-solve-a-problem-most-small-businesses-dont-know-they-have/91367470
+
+[^14]: TechFundingNews, "Lightspeed backs Pie's $23.7M raise to stop small businesses from going invisible in AI search," June 30, 2026. Accessed June 2026. https://techfundingnews.com/lightspeed-pie-23-7m-ai-search-small-business/
+
+[^15]: Intelligence360, "Pie raises $23.7M to bring AI-powered growth to Main Street businesses," June 30, 2026. Accessed June 2026. https://www.intelligence360.news/pie-raises-23-7m-to-bring-ai-powered-growth-to-main-street-businesses/

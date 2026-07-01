@@ -15,7 +15,7 @@ founders:
   - name: "Dima Gutzeit"
     role: "Founder & CEO"
   - name: "Avi Pardo"
-    role: "Co-Founder"
+    role: "Co-Founder & CBO"
 status: published
 last_researched: 2026-06-30
 ---
@@ -30,19 +30,26 @@ LeapXpert is a New York-based enterprise communications and governance company t
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-30 | Growth | $180M | Riverwood Capital | Portage Ventures [^1][^2] |
+| 2026-06-30 | Growth | $180M | Riverwood Capital | Portage Ventures [^1][^2][^3] |
 
 ## What Investors Say
 
-> "LeapXpert leads that progression today, and no one is better positioned for what comes next." — Jeff Parks, Co-Founder and Managing Partner, Riverwood Capital, on joining the LeapXpert board, June 30, 2026 [^1]
+> "The latest uses AI to unlock value from every interaction. LeapXpert leads that progression today, and no one is better positioned for what comes next." — Jeff Parks, Co-Founder and Managing Partner, Riverwood Capital, on joining the LeapXpert board, June 30, 2026 [^1][^3]
+
+> "LeapXpert is the infrastructure layer making it actionable." — Ricky Lai, Portage Ventures, June 30, 2026 [^3]
 
 ## What Founders Say
 
 > "Messaging is where business happens now. But AI can only work with what enterprises can see and govern." — Dima Gutzeit, Founder & CEO, LeapXpert, June 30, 2026 [^1]
 
-> "Financial services were our proving ground. Government became our fastest-growing segment. The Forbes Global 2000 is the third wave." — Avi Pardo, Co-Founder, LeapXpert, June 30, 2026 [^1]
+> "The next wave of enterprise value will come from making those conversations trusted, connected, and actionable." — Dima Gutzeit, Founder & CEO, LeapXpert, June 30, 2026 [^3]
+
+> "Financial services were our proving ground. Government became our fastest-growing segment. The Forbes Global 2000 is the third wave, and it has arrived." — Avi Pardo, Co-Founder & CBO, LeapXpert, June 30, 2026 [^1]
+
+> "The partnership with Riverwood Capital lets us meet that demand everywhere." — Avi Pardo, Co-Founder & CBO, LeapXpert, June 30, 2026 [^3]
 
 ## Sources
 
 [^1]: The Fintech Times, "LeapXpert Raises $180m to Bring AI Into Governed Enterprise Messaging," June 30, 2026. Accessed June 2026. https://thefintechtimes.com/leapxpert-secures-massive-180m-growth-round-to-unlock-enterprise-ai-comms/
 [^2]: Ventureburn, "LeapXpert Raises $180M to Unlock Insights From Work Chats," June 30, 2026. Accessed June 2026. https://ventureburn.com/leapxpert-raises-180m-to-unlock-insights-from-work-chats/
+[^3]: PR Newswire, "LeapXpert Raises $180 Million to Lead AI-Powered Governed Communications," June 30, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/leapxpert-raises-180-million-to-lead-ai-powered-governed-communications-302814485.html

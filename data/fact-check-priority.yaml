@@ -2693,14 +2693,23 @@ priority:
   type: startup
   reason: "new startup profile (Growth $180M, 2026-06-30, Riverwood Capital led)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified LeapXpert $180M growth round on 2026-06-30 led by Riverwood Capital with existing investor Portage Ventures participating, via 3 independent primary sources (The Fintech Times [^1], Ventureburn [^2], PR Newswire press release [^3] — newly added as 3rd citation). Corrected Avi Pardo role from 'Co-Founder' to 'Co-Founder & CBO' per PR Newswire. Added two additional founder quotes from the press release (Dima Gutzeit and Avi Pardo) and a Ricky Lai (Portage Ventures) investor quote. Extended Jeff Parks (Riverwood) quote to include preceding sentence per PR Newswire. Total funding to date reported as $236M per press coverage summary; valuation not disclosed."
 - slug: taxwire
   type: startup
   reason: "new startup profile (Seed+Series A $25M, 2026-06-30, Headline Ventures led)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Taxwire $25M combined Seed + Series A on 2026-06-30 led by Headline Ventures (Taylor Brandt, Partner) with XYZ VC, Vinyl, Recall Capital, Nomo Ventures participating, via 3 independent primary sources (WebWire press release [^1], taxwire.com [^2], AlleyWatch [^3] — newly added as 3rd citation). NOTE: AlleyWatch also lists 'Analog Ventures' as participant but the WebWire press release does not — leaving Analog out per primary-source preference. Extended Taylor Brandt (Headline) quote per WebWire full text. Added second founder quote from Andrew Rea about cap-table trust ('Every investor in the round was already on our cap table...') from AlleyWatch."
 - slug: pie
   type: startup
   reason: "new startup profile (Series A $19.5M, 2026-06-30, Lightspeed Venture Partners led)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-06-30
+  resolution_note: "Verified Pie $19.5M Series A on 2026-06-30 led by Lightspeed Venture Partners (Aaron Frank) at $23.7M total funding, via 3 independent primary sources (Inc. [^1], TechFundingNews [^2], Intelligence360 [^3] — newly added as 3rd citation). CORRECTED co-founder spelling from 'Akhil Mantiprigada' to 'Akhil Mantripragada' (verified via LinkedIn and 3 press sources) and added 'CTO' to his role. EXPANDED investor list from 'Capital One Ventures, SciFi Ventures' to include F-Prime, Commerce Ventures, WEX Venture Capital per Intelligence360 and Shopifreaks. Added Aaron Frank (Lightspeed) and Max Levchin (SciFi VC) investor quotes and Syed Ali founder quote from Intelligence360. Also added Pie Series A row to scifi-vc.md portfolio [^22][^23][^24] and to max-levchin.md portfolio [^13][^14][^15]; updated max-levchin last_verified_investment from Bland AI 2025-01-03 to Pie 2026-06-30; added Levchin's Pie quote to his 'In Their Own Words' section."
 - slug: index-ventures
   type: firm
   reason: "led Build Seed ($8.5M, 2026-06-30)"
