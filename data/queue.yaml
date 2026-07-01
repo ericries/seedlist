@@ -20800,7 +20800,7 @@ queue:
 - name: Ranjan Pai
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Aarin Capital
   discovered_from: mohandas-pai
@@ -23419,7 +23419,7 @@ queue:
 - name: Tikhon Bernstam
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: independent
   discovered_from: trip-adler
@@ -34244,3 +34244,242 @@ queue:
   added: '2026-03-17'
   discovered_from: higharc
   source: Higharc Co-Founder & CEO
+- name: AMR Action Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: telum-therapeutics
+  source: led Telum Therapeutics Series A (€18M, 2026-07-01)
+- name: North Island Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: venice-ai
+  source: participated in Venice AI Series A ($65M, 2026-07-01)
+- name: F-Prime
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: venice-ai
+  source: participated in Venice AI Series A ($65M, 2026-07-01)
+- name: Invivo Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: telum-therapeutics
+  source: existing investor in Telum Therapeutics Series A (€18M, 2026-07-01) and
+    led Seed
+- name: Clave Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: telum-therapeutics
+  source: existing investor in Telum Therapeutics Series A (€18M, 2026-07-01)
+- name: Sodena
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: telum-therapeutics
+  source: existing investor in Telum Therapeutics Series A (€18M, 2026-07-01)
+- name: Credo Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: equilibre-technologies
+  source: led EquiLibre Technologies Pre-Seed (~2022) prior to Creandum Series A
+- name: Erik Voorhees
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Venice AI
+  discovered_from: venice-ai
+  source: Founder & CEO Venice AI ($65M Series A, 2026-07-01); previously founded
+    ShapeShift
+- name: Nick Desai
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Queue
+  discovered_from: queue
+  source: Co-Founder & CEO Queue ($12.6M Seed, 2026-06-30); previously founded Heal
+    ($200M+ raised)
+- name: Martin Schmid
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: EquiLibre Technologies
+  discovered_from: equilibre-technologies
+  source: Co-Founder & CEO EquiLibre (Series A 2026-07-01); former DeepMind researcher,
+    built DeepStack poker AI
+- name: Cameron Sellers
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Creandum
+  discovered_from: equilibre-technologies
+  source: VP at Creandum, led EquiLibre Technologies Series A (2026-07-01)
+- name: Uncommon Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tikhon-bernstam
+  source: Tikhon Bernstam and Jamie Quint co-founded 2021; portfolio incl. Razorpay,
+    Talkdesk, Function of Beauty
+- name: Jamie Quint
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Uncommon Capital
+  discovered_from: tikhon-bernstam
+  source: Co-founder Uncommon Capital with Tikhon Bernstam; former exec at Notion
+    and Reddit
+- name: Ilya Sukhar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Matrix Partners
+  discovered_from: tikhon-bernstam
+  source: Parse co-founder (2011) with Tikhon Bernstam
+- name: Kevin Lacker
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tikhon-bernstam
+  source: Parse co-founder (2011) with Tikhon Bernstam
+- name: James Yu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tikhon-bernstam
+  source: Parse co-founder (2011) with Tikhon Bernstam
+- name: Function of Beauty
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tikhon-bernstam
+  source: Uncommon Capital / Tikhon Bernstam portfolio; custom personal care
+- name: Parse
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tikhon-bernstam
+  source: Founded 2011 by Tikhon Bernstam et al.; acq. Facebook April 2013 for $85M
+- name: Scribd
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tikhon-bernstam
+  source: Founded 2006 by Tikhon Bernstam, Trip Adler, Jared Friedman via YC S06
+- name: MEMG Family Office
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ranjan-pai
+  source: Ranjan Pai's family office, founded 2016; led PharmEasy $216M April 2024,
+    invests in Aakash, FirstCry
+- name: Claypond Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ranjan-pai
+  source: Ranjan Pai's second family office, launched 2023; $300M+ mandate; led Easy
+    Home Finance Series B, participated in Akasa Air, Healthify
+- name: Shyam Powar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Claypond Capital
+  discovered_from: ranjan-pai
+  source: CIO of Claypond Capital; quoted in Easy Home Finance Series B announcement
+    (2024-11-06)
+- name: Mankind Family Office
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ranjan-pai
+  source: Co-invested with Ranjan Pai in InCred Money (2025-09-16, INR 250 Cr)
+- name: 360 ONE Asset
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ranjan-pai
+  source: Co-invested with MEMG in PharmEasy (April 2024) and with Claypond in Akasa
+    Air (Feb 2025)
+- name: LeapFrog Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ranjan-pai
+  source: Co-lead with Khosla Ventures in Healthify $45M round (2024-10-25) alongside
+    Claypond Capital
+- name: FirstCry
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ranjan-pai
+  source: MEMG invested INR 250 Cr in August 2023 pre-IPO secondary
+- name: Aakash Educational Services
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ranjan-pai
+  source: Ranjan Pai/MEMG acquired 40% stake ($300M) in January 2024, became largest
+    shareholder
+- name: Easy Home Finance
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ranjan-pai
+  source: Claypond Capital led $35M Series B on 2024-11-06 with SMBC
+- name: Healthify
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ranjan-pai
+  source: Claypond Capital participated in $20M growth tranche (2024-10-25) alongside
+    Khosla Ventures and LeapFrog
+- name: Akasa Air
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ranjan-pai
+  source: Claypond Capital participated in ~$125M consortium (2025-02-06) with Premji
+    Invest and 360 ONE
+- name: InCred Money
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ranjan-pai
+  source: Ranjan Pai co-invested in INR 250 Cr round (2025-09-16) at INR 1,650 Cr
+    valuation

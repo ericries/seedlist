@@ -1,20 +1,34 @@
 ---
-name: "Higharc"
-slug: higharc
-type: startup
-website: "https://higharc.com"
-location: "Durham, North Carolina"
-status_company: active
-sector: [ai, construction-tech, proptech, homebuilding, vertical-saas]
-stage_latest: "Series C"
-total_raised: "$170M+"
-firms: []
-investors: []
+firms:
+- round: Series B ($53M)
+  slug: psp-partners
+  year: 2024
 founders:
-  - name: "Marc Minor"
-    role: "Co-Founder & CEO"
-status: published
+- name: Marc Minor
+  role: Co-Founder & CEO
+investors:
+- round: Series B ($53M)
+  slug: penny-pritzker
+  year: 2024
+- round: Series B ($53M)
+  slug: momei-qu
+  year: 2024
 last_researched: 2026-07-01
+location: Durham, North Carolina
+name: Higharc
+sector:
+- ai
+- construction-tech
+- proptech
+- homebuilding
+- vertical-saas
+slug: higharc
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $170M+
+type: startup
+website: https://higharc.com
 ---
 
 ## About

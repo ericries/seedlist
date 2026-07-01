@@ -1,22 +1,33 @@
 ---
-name: "Queue"
-slug: queue
-type: startup
-website: "https://queuerx.com"
-location: "Palo Alto, California"
-status_company: active
-sector: [healthcare, pharmacy, robotics, healthtech, automation]
-stage_latest: "Seed"
-total_raised: "$18.6M"
-firms: []
-investors: []
+firms:
+- round: Co-founded
+  slug: 75-and-sunny
+  year: 2020
 founders:
-  - name: "Nick Desai"
-    role: "Co-Founder & CEO"
-  - name: "Josh Liu"
-    role: "Co-Founder & CTO"
-status: published
+- name: Nick Desai
+  role: Co-Founder & CEO
+- name: Josh Liu
+  role: Co-Founder & CTO
+investors:
+- round: Co-founded
+  slug: spencer-rascoff
+  year: 2020
 last_researched: 2026-07-01
+location: Palo Alto, California
+name: Queue
+sector:
+- healthcare
+- pharmacy
+- robotics
+- healthtech
+- automation
+slug: queue
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $18.6M
+type: startup
+website: https://queuerx.com
 ---
 
 ## About

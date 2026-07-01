@@ -1,18 +1,30 @@
 ---
-name: "Aarin Capital"
-slug: aarin-capital
-type: firm
-website: "https://aarincapital.com"
-location: "Bengaluru, Karnataka, India"
 founded: 2012
-fund_size: "$100M-$150M (reported)"
-stage_focus: [seed, series-a]
-sector_focus: [life-sciences, healthtech, edtech, software, retail, consumer]
-team:
-  - slug: mohandas-pai
-    role: Co-Founder & Chairman
-status: published
+fund_size: $100M-$150M (reported)
 last_researched: 2026-05-01
+location: Bengaluru, Karnataka, India
+name: Aarin Capital
+sector_focus:
+- life-sciences
+- healthtech
+- edtech
+- software
+- retail
+- consumer
+slug: aarin-capital
+stage_focus:
+- seed
+- series-a
+status: published
+team:
+- role: Co-Founder & Chairman
+  slug: mohandas-pai
+- name: Ranjan Pai
+  role: Chairman, Manipal Education & Medical Group; Co-Founder, Aarin Capital; Founder,
+    MEMG Family Office & Claypond Capital
+  slug: ranjan-pai
+type: firm
+website: https://aarincapital.com
 ---
 
 ## About

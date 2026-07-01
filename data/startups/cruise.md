@@ -36,6 +36,9 @@ firms:
 - round: Pre-seed
   slug: independent
   year: 2014
+- round: Angel
+  slug: uncommon-capital
+  year: 2013
 founded: 2013
 founders:
 - name: Kyle Vogt
@@ -76,6 +79,9 @@ investors:
 - round: Pre-seed
   slug: emmett-shear
   year: 2014
+- round: Angel
+  slug: tikhon-bernstam
+  year: 2013
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Cruise
