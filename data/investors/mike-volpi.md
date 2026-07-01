@@ -119,7 +119,7 @@ Based on 29 verified investments spanning 2010-2025, Volpi's actual investment b
 | LiveKit | 2025 | Series B ($45M) | Real-time infrastructure | [^2][^32] |
 | Flora | 2025 | Seed ($6.5M) | AI creative tools | [^2][^33] |
 | Netic | 2025 | Series A ($20M) | AI | [^7] |
-| Arcade | 2025 | Seed ($12M) | Developer tools | [^2][^34] |
+| Arcade | 2025-03-18 | Seed ($12M, led by Laude Ventures) | Developer tools / AI Agent Auth | [^2][^34][^37] |
 | Applied Compute | 2025 | Series A ($80M) | AI infrastructure | [^2][^35] |
 | Mind Robotics | 2025 | Seed ($115M) | Robotics | [^2][^36] |
 
@@ -224,3 +224,4 @@ The Hanabi Capital website describes Volpi as "a thoughtful sounding board and a
 [^34]: TechCrunch, "Arcade raises $12M from Perplexity co-founder's new fund to make AI agents less awful," March 18, 2025, accessed April 2026. https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/
 [^35]: SiliconANGLE, "Former OpenAI researchers launch Applied Compute with $80M in funding," October 30, 2025, accessed April 2026. https://siliconangle.com/2025/10/30/former-openai-researchers-launch-applied-compute-80m-funding/
 [^36]: TechCrunch, "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots," March 11, 2026, accessed April 2026. https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/
+[^37]: Arcade.dev company blog, "Arcade Secures $12M: How We Built SSO for AI Agents," March 18, 2025, accessed July 2026. https://arcade.dev/blog/arcades-12m-milestone-a-conversation-with-alex/ — Company primary source confirming Hanabi Capital / Mike Volpi as participant in Arcade's $12M seed round led by Laude Ventures.

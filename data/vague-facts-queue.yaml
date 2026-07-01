@@ -63567,7 +63567,9 @@ vague_facts:
   line: '| WayTrade | ~2023 | Unknown | Renewable fuel trading | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-01
+  resolution_note: 'WayTrade (renewable fuel B2B marketplace, founded 2023 by Ben Zifkin) has no publicly disclosed funding announcement. Reviewed: (a) Construct Capital website portfolio [^1] (lists WayTrade with no round details), (b) MaC Venture Capital portfolio page [^50] (lists WayTrade as portfolio; no round info), (c) way.trade company site (403 Forbidden on WebFetch), (d) PitchBook aggregator (lists co-investors Climactic, Climate Capital, Operator Stack, Construct Capital, Feldsmith Capital, MaC VC, Graph Ventures — no primary source), (e) LinkedIn WayTrade company page, (f) F4 Fund startup page (403). No TechCrunch, BusinessWire, PR Newswire, or company press release for a WayTrade funding round exists. The existing profile entry ("~2023 | Seed (co-investor)") already reflects the best available two firm-portfolio-page primary sources. Cannot confirm exact date, amount, or full participant list. Leaving Dayna Grayson entry as-is; the queue snapshot ("Unknown" round type) is stale since profile now shows "Seed (co-investor)".'
 - profile: investors/dayna-grayson
   profile_name: Dayna Grayson
   company: Amplio
@@ -134001,7 +134003,9 @@ vague_facts:
     |
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-01
+  resolution_note: 'Ramtin Naimi / Abstract Ventures'' participation in Polymarket cannot be confirmed via primary sources. Reviewed all four disclosed Polymarket rounds: (a) October 19, 2020 USD 4M seed led by Polychain Capital (Forbes primary source lists participants Naval Ravikant, Balaji Srinivasan, Meltem Demirors, Robert Leshner, Stani Kulechov, Kain Warwick, ParaFi, 1confirmation, Tarun Chitra, Kal Vepuri, Josh Hannah, Marc Bhargava, Samir Vasavada, Calvin Liu — NO Abstract/Naimi mentioned), (b) May 2024 USD 70M round led by Founders Fund/General Catalyst/Vitalik Buterin (BusinessWire release — Abstract/Naimi not named), (c) 2024 USD 55M Blockchain Capital-led round at USD 350M val (no Abstract), (d) 2025 USD 150M-200M Founders Fund Series C at USD 1B-1.2B val (TheBlock primary disclosure names Ribbit, Valor, Point72 Ventures, SV Angel, 1789, 1confirmation, Coinbase, Dragonfly, "several high-profile angels" — Abstract/Naimi not named). Only Signal by NFX (aggregator) claims Naimi participated in the July 2025 USD 150M round; TheBlock article confirming that round does not name Naimi. Same aggregator-only pattern that led to unresolvable status for other Abstract portfolio entries. Leaving profile entry as "~unknown | Unknown | Unknown" with existing [^10] aggregator citation. Cannot make primary-source-verified claim about Naimi''s Polymarket investment date, round, or amount.'
 - profile: investors/randy-lee
   profile_name: Randy Lee
   company: Ironwood Studios
@@ -163556,7 +163560,9 @@ vague_facts:
   line: '| 2025 | Seed | $12M | — | — [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: 'Resolved Arcade $12M Seed round from "2025 | — | —" to "2025-03-18 | Laude Ventures | Flybridge Ventures, Hanabi Capital, Neotribe, Andy Rachleff" via 4 independent primary sources: (1) Arcade.dev company blog post announcing the round [^4] (naming Laude Ventures as lead and Hanabi Capital/Mike Volpi, Flybridge/Chip Hazard, Neotribe/Kittu Kolluri, and Benchmark''s Andy Rachleff as participants), (2) TechCrunch [^5] March 18, 2025 (confirming Laude Ventures led with Pete Sonsini quote), (3) VC News Daily [^6] March 19, 2025 (full participant list identical), (4) The SaaS News (identical list). Also fixed startup frontmatter to remove unverified slug references (y-combinator, index-ventures, inspired-capital, benchmark, alexa-von-tobel) and keep only verified investor slugs (hanabi-capital firm; mike-volpi and andy-rachleff investors). Updated hanabi-capital.md, mike-volpi.md, and andy-rachleff.md portfolio rows for Arcade with the same primary-source citations. Added company blog as new citation to all four profiles.'
 - profile: startups/archil
   profile_name: Archil
   company: '2026-04-21'

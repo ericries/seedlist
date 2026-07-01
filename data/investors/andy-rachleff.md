@@ -133,7 +133,7 @@ The angel portfolio is too small for meaningful sector analysis. The DoorDash in
 |---------|------|-------|--------|
 | DoorDash | ~2013 | Seed | Angel investment; IPO Dec 2020 [^11] |
 | Onfleet | ~2015 (founding year) | Seed | Angel investment [^11] |
-| Arcade | 2025 | Seed | Angel investment, March 2025 [^11] |
+| Arcade | 2025-03-18 | Seed ($12M, led by Laude Ventures) | Angel investment; Hanabi Capital, Flybridge, Neotribe also participated [^11][^19][^20] |
 | Frond | ~2020 (founding year) | Seed | Angel investment [^11] |
 
 Note: This table represents investments specifically attributable to Rachleff. During his tenure, Benchmark made many additional investments (including eBay, which was a partnership-wide decision). Years marked with "~" indicate approximate dates based on company founding years when exact investment dates are not publicly confirmed. Rachleff has reportedly made 19 angel investments total; only 4 are publicly verified here [^11].
@@ -246,3 +246,7 @@ Note: Independently sourced founder testimonials specifically about Rachleff's p
 [^17]: NASDAQ Center, "Founders Leadership Series: Andy Rachleff," September 2018, accessed March 2026. https://nasdaqcenter.org/2018/09/06/founders-leadership-series-andy-rachleff/
 
 [^18]: Ben Horowitz, *The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers*, HarperBusiness, 2014.
+
+[^19]: Arcade.dev company blog, "Arcade Secures $12M: How We Built SSO for AI Agents," March 18, 2025, accessed July 2026. https://arcade.dev/blog/arcades-12m-milestone-a-conversation-with-alex/ -- Company primary source naming Andy Rachleff (Benchmark) as an individual investor in Arcade's $12M seed round led by Laude Ventures.
+
+[^20]: TechCrunch, "Arcade raises $12M from Perplexity co-founder's new fund to make AI agents less awful," March 18, 2025, accessed July 2026. https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/ -- Contemporaneous press confirming Laude Ventures as lead of Arcade's $12M seed round.

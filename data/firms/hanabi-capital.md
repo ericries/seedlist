@@ -61,7 +61,7 @@ Based on Hanabi's publicly listed portfolio of 18 companies [^9], the firm's act
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Applied Compute | Seed | 2025 | AI/Infrastructure | [^13] |
-| Arcade | Seed | 2025 | Developer Tools | [^9][^19] |
+| Arcade | Seed ($12M, participant; Laude Ventures led) | 2025-03-18 | Developer Tools / AI Agent Auth | [^9][^19][^34] |
 | ArchiBoost AI | Undisclosed | 2024-2025 | AI | [^4][^9] |
 | Brinc Drones | Series C | 2025 | Robotics/Hardware | [^14] |
 | Cartesia | Series A | 2025 | AI | [^15] |
@@ -133,3 +133,4 @@ No independently sourced founder testimonials found. Hanabi Capital is a recentl
 [^31]: LiveKit blog, "LiveKit's Series C: Towards the voice-driven era of computing," January 22, 2026, accessed May 2026. https://livekit.com/blog/livekit-series-c/ — $100M Series C at $1B valuation led by Index Ventures with Salesforce Ventures, Hanabi Capital, Altimeter, and Redpoint Ventures.
 [^32]: Nordic9, "Onodrim Industries raised €40 million in seed funding round led by Founders Fund, Lakestar and General Catalyst, joined by Air Street Capital and angels," February 2026, accessed June 2026. https://nordic9.com/news/onodrim-industries-raised-40-million-in-seed-funding-round-led-by-founders-fund-lakestar-and-general-catalyst-joined-by-air-street-capital-and-angels/ — confirms announcement date 2026-02-13.
 [^33]: Ventureburn, "Simile Raises $100M to Predict Human Behavior With AI," February 2026, accessed June 2026. https://ventureburn.com/simile-raises-100m-to-predict-human-behavior-with-ai/ — $100M Series A led by Index Ventures with participation from Bain Capital Ventures, A*, Hanabi Capital, Fei-Fei Li, and Andrej Karpathy.
+[^34]: Arcade.dev company blog, "Arcade Secures $12M: How We Built SSO for AI Agents," March 18, 2025, accessed July 2026. https://arcade.dev/blog/arcades-12m-milestone-a-conversation-with-alex/ — Company primary source naming Hanabi Capital (Mike Volpi) as a participant in Arcade's $12M seed round led by Laude Ventures, alongside Flybridge Ventures (Chip Hazard), Neotribe (Kittu Kolluri), and Benchmark's Andy Rachleff (as individual).
