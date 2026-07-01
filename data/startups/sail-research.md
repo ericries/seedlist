@@ -1,47 +1,58 @@
 ---
-name: "Sail Research"
-slug: sail-research
-type: startup
-website: "https://www.sailresearch.com"
-location: "San Francisco, CA"
-founded: 2026
-status_company: active
-sector: [AI, infrastructure, developer-tools]
-stage_latest: "Series A"
-total_raised: "$80M"
-investors: []
 firms:
-  - slug: kleiner-perkins
-    round: series-a
-    year: 2026
-    date: 2026-06-25
-  - slug: sequoia-capital
-    round: seed
-    year: 2026
-    date: 2026-06-25
-  - slug: redpoint-ventures
-    round: series-a
-    year: 2026
-    date: 2026-06-25
-  - slug: crv
-    round: series-a
-    year: 2026
-    date: 2026-06-25
-  - slug: a-star-capital
-    round: series-a
-    year: 2026
-    date: 2026-06-25
-  - slug: abstract-ventures
-    round: series-a
-    year: 2026
-    date: 2026-06-25
+- date: 2026-06-25
+  round: series-a
+  slug: kleiner-perkins
+  year: 2026
+- date: 2026-06-25
+  round: seed
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-06-25
+  round: series-a
+  slug: redpoint-ventures
+  year: 2026
+- date: 2026-06-25
+  round: series-a
+  slug: crv
+  year: 2026
+- date: 2026-06-25
+  round: series-a
+  slug: a-star-capital
+  year: 2026
+- date: 2026-06-25
+  round: series-a
+  slug: abstract-ventures
+  year: 2026
+- round: Seed + Series A ($80M combined, participation; Kleiner led A, Sequoia led
+    seed)
+  slug: theory-ventures
+  year: 2026
+founded: 2026
 founders:
-  - name: "Neil Movva"
-    role: "Co-Founder"
-  - name: "Samir Menon"
-    role: "Co-Founder"
-status: published
+- name: Neil Movva
+  role: Co-Founder
+- name: Samir Menon
+  role: Co-Founder
+investors:
+- round: Seed + Series A ($80M combined, participation; Kleiner led A, Sequoia led
+    seed)
+  slug: tomasz-tunguz
+  year: 2026
 last_researched: 2026-06-26
+location: San Francisco, CA
+name: Sail Research
+sector:
+- AI
+- infrastructure
+- developer-tools
+slug: sail-research
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $80M
+type: startup
+website: https://www.sailresearch.com
 ---
 
 ## About

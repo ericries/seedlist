@@ -4,7 +4,7 @@ firm: social-capital
 last_researched: 2026-03-26
 last_verified_investment:
   company: 8090 Labs
-  date: 2026-06-29
+  date: ~8090
   round: Series A (Salesforce Ventures-led, $135M; assumes CEO role)
 location: Palo Alto, CA
 name: Chamath Palihapitiya

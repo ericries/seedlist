@@ -7,6 +7,9 @@ firms:
 - round: Seed
   slug: amplify-partners
   year: 2022
+- round: Series A ($16.5M, led) — Tunguz board seat
+  slug: theory-ventures
+  year: 2024
 founded: 2021
 founders:
 - name: Ethan Chan
@@ -17,6 +20,9 @@ investors:
 - round: Seed
   slug: sunil-dhaliwal
   year: 2022
+- round: Series A ($16.5M, led) — Tunguz board seat
+  slug: tomasz-tunguz
+  year: 2024
 last_researched: 2026-06-30
 location: New York, NY
 name: Allium

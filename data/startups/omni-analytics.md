@@ -19,11 +19,17 @@ firms:
 - round: ~2016
   slug: independent
   year: 2016
+- round: Additional $20M from Theory (extension)
+  slug: theory-ventures
+  year: 2024
 founded: 2022
 investors:
 - round: ~2016
   slug: sam-shank
   year: 2016
+- round: Additional $20M from Theory (extension)
+  slug: tomasz-tunguz
+  year: 2024
 last_researched: 2026-04-25
 location: San Francisco, CA
 name: Omni

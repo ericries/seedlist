@@ -23544,7 +23544,7 @@ queue:
 - name: Daniel Vogel
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Bitso
   discovered_from: sebastian-mejia
@@ -23804,7 +23804,7 @@ queue:
 - name: Tomasz Tunguz
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Theory Ventures
   discovered_from: greg-gottesman
@@ -33882,3 +33882,203 @@ queue:
   added: '2026-03-17'
   firm: Nissay Capital
   discovered_from: generativex
+- name: Andy Triedman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Theory Ventures
+  discovered_from: tomasz-tunguz
+  source: Partner at Theory Ventures; quoted in Aampe Series A led by Theory
+- name: Scott Raney
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Redpoint Ventures
+  discovered_from: tomasz-tunguz
+  source: Managing Director at Redpoint; led Redpoint investment in Sourcegraph —
+    co-partner of Tunguz
+- name: Wei Lien Dang
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Unusual Ventures
+  discovered_from: tomasz-tunguz
+  source: Partner at Unusual Ventures; joined Tobiko Data board alongside Tunguz (Series
+    A led by Theory)
+- name: Delphi Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Delphi Ventures
+  discovered_from: tomasz-tunguz
+  source: Participated in Initia Series A led by Theory Ventures (2024-09)
+- name: Hack VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Hack VC
+  discovered_from: tomasz-tunguz
+  source: Participated in Initia Series A led by Theory (2024-09)
+- name: Zero Prime Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Zero Prime Ventures
+  discovered_from: tomasz-tunguz
+  source: Co-investor in LanceDB Series A led by Theory (2025-06)
+- name: Swift Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Swift Ventures
+  discovered_from: tomasz-tunguz
+  source: Co-investor in LanceDB Series A led by Theory (2025-06)
+- name: Pruven Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pruven Capital
+  discovered_from: tomasz-tunguz
+  source: Participated in Allium Series B alongside Theory Ventures (2026-06)
+- name: Aampe
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomasz-tunguz
+  source: $18M Series A led by Theory Ventures (2024-12-10); AI-agent personalization
+    for consumer apps
+- name: Koah
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomasz-tunguz
+  source: $20.5M Series A led by Theory Ventures (2026-02-24); AI-native monetization
+    / AdSense for AI
+- name: Tobiko Data
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomasz-tunguz
+  source: $17.3M Series A led by Theory Ventures (2024-06); modern data platform (SQLMesh)
+- name: Initia
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomasz-tunguz
+  source: $14M Series A led by Theory Ventures at $350M token valuation (2024-09-25);
+    L1 blockchain
+- name: Superlinked
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomasz-tunguz
+  source: $9.5M seed co-led by Index Ventures and Theory Ventures (2024-03-18); vector
+    compute framework
+- name: Artemis
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomasz-tunguz
+  source: $70M seed+Series A led by Felicis with Theory Ventures participation (2026-04-15);
+    AI-native security
+- name: Omni
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomasz-tunguz
+  source: Series A $27M (2022 Redpoint/Tunguz); extension $20M from Theory Ventures
+    (2024-03); business intelligence
+- name: MotherDuck
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomasz-tunguz
+  source: $12.5M seed led by Redpoint (Tunguz), $35M Series A led by a16z (2022);
+    DuckDB serverless analytics
+- name: Hex Technologies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomasz-tunguz
+  source: $16M Series A led by Redpoint (Tunguz, 2021-10-20); collaborative data workspace
+    (SQL + Python notebooks)
+- name: Monte Carlo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomasz-tunguz
+  source: Redpoint (Tunguz) backed Series A (2020); GGV/Redpoint co-led Series B $25M
+    (2021-02); data observability
+- name: Dremio
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomasz-tunguz
+  source: Tunguz joined board June 2015; Redpoint participated in Series A (Lightspeed
+    led, 2016); data lake engine
+- name: Xochi Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Xochi Ventures
+  discovered_from: daniel-vogel
+  source: Daniel Vogel is one of 12 partners; LatAm-focused early-stage VC; $100K-$5M
+    checks; portfolio includes Bitso, Finkargo, Camino Financial, Flourish Fi, Mattilda
+- name: Pablo González
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Bitso
+  discovered_from: daniel-vogel
+  source: Bitso co-founder alongside Daniel Vogel; LatAm operator
+- name: Ben Peters
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bitso
+  discovered_from: daniel-vogel
+  source: Bitso CTO and co-founder alongside Daniel Vogel
+- name: Ricardo Amper
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Incode
+  discovered_from: daniel-vogel
+  source: Incode founder/CEO; co-invested with Vogel in Nowports Series C (2022)
+- name: Gondi
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniel-vogel
+  source: Fintech infrastructure; Vogel angel-invested in seed 2023
+- name: Reworth
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniel-vogel
+  source: Transaction-data fintech; Vogel angel-invested in 2022 seed

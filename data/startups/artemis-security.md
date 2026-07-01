@@ -1,17 +1,17 @@
 ---
 firms:
-- round: series-a
+- date: 2026-04-15
+  round: series-a
   slug: felicis-ventures
   year: 2026
-  date: 2026-04-15
-- round: seed
+- date: 2026-04-15
+  round: seed
   slug: first-round-capital
   year: 2026
-  date: 2026-04-15
-- round: series-a
+- date: 2026-04-15
+  round: series-a
   slug: theory-ventures
   year: 2026
-  date: 2026-04-15
 - round: series-a
   slug: long-journey-ventures
   year: 2026
@@ -24,6 +24,9 @@ founders:
 investors:
 - round: Series A
   slug: scott-banister
+  year: 2026
+- round: Seed + Series A ($70M, participation; Felicis led A)
+  slug: tomasz-tunguz
   year: 2026
 last_researched: 2026-04-17
 location: New York, New York
