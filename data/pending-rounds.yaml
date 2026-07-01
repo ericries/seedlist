@@ -38,6 +38,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: ORYZON Raises €12 Million and Signs a Financing Agreement with COFIDES to
+    Strengthen its Balance Sheet and Accelerate its Clinical Programs
+  url: https://www.globenewswire.com/news-release/2026/07/01/3320668/0/en/ORYZON-Raises-12-Million-and-Signs-a-Financing-Agreement-with-COFIDES-to-Strengthen-its-Balance-Sheet-and-Accelerate-its-Clinical-Programs.html
+  source: globenewswire
+  date_found: '2026-07-01'
+  parsed_company: ORYZON
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: SunPower Closes $10 Million Share Exchange
+  url: https://www.globenewswire.com/news-release/2026/07/01/3320562/0/en/SunPower-Closes-10-Million-Share-Exchange.html
+  source: globenewswire
+  date_found: '2026-07-01'
+  parsed_company: SunPower
+  parsed_amount: $10M
+  parsed_round: null
+  status: pending
+- title: Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform
+    takes off
+  url: https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/
+  source: techcrunch
+  date_found: '2026-07-01'
+  parsed_company: null
+  parsed_amount: $65M
+  parsed_round: Series A
+  status: pending
 - title: INMerge Innovation Summit concludes its international event series with INMerge
     Berlin (Sponsored)
   url: https://www.eu-startups.com/2026/06/inmerge-innovation-summit-concludes-its-international-event-series-with-inmerge-berlin-sponsored/
@@ -806,33 +832,6 @@ pending_rounds:
   source: crunchbase
   date_found: '2026-06-22'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: European Investor Seedcamp Closes On $320M Across Two Funds To Back Seed
-    Startups And Reaches $1B AUM
-  url: https://news.crunchbase.com/venture/europe-seed-investor-seedcamp-closes-two-funds/
-  source: crunchbase
-  date_found: '2026-06-22'
-  parsed_company: European Investor Seedcamp
-  parsed_amount: $320M
-  parsed_round: Seed
-  status: pending
-- title: Unmanned cargo aircraft developer Acodyne secures €2.5 million for defence
-    and offshore logistics
-  url: https://www.eu-startups.com/2026/06/unmanned-cargo-aircraft-developer-acodyne-secures-e2-5-million-for-defence-and-offshore-logistics/
-  source: eu-startups
-  date_found: '2026-06-22'
-  parsed_company: Unmanned cargo aircraft developer Acodyne
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: With almost 2,000 active couriers, Grid.online raises €4 million to expand
-    shared last-mile delivery network
-  url: https://www.eu-startups.com/2026/06/with-almost-2000-active-couriers-grid-online-raises-e4-million-to-expand-shared-last-mile-delivery-network/
-  source: eu-startups
-  date_found: '2026-06-22'
-  parsed_company: With almost 2,000 active couriers, Grid.online
   parsed_amount: null
   parsed_round: null
   status: pending
