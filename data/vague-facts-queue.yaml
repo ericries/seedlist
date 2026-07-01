@@ -137066,7 +137066,9 @@ vague_facts:
   line: '| Markmi | ~2024 | Undisclosed | [^4][^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: 'Resolved Markmi round from "~2024 | Undisclosed" to "2025-04-02 | Seed (€1.1M, angel participant)" via 3 independent primary sources: (1) Markmi own press release [^7] (April 2, 2025, €1.1M, names Roeland Delrue as angel participant with the tag "Aikido, Ex-Showpad"), (2) The SaaS News [^8] ("Markmi Raises €1.1 Million in Seed Round" naming Delrue), (3) FashionUnited [^9] (April 2, 2025, €1.1M seed, naming Delrue). Full participant list: Wolf (Luc Van Mol), Torfs family, Lorenz Bogaert, Matthias Geeroms, Jan Teerlinck, Roeland Delrue, Christophe Morbee, Jonas Deprez, and PMV. Round preserves original EUR currency. Also updated Inferred Thesis "Cadence" paragraph to reflect the earlier first check.'
 - profile: investors/roelof-botha
   profile_name: Roelof Botha
   company: YouTube
@@ -163152,7 +163154,9 @@ vague_facts:
   line: '| 2025 | Seed | $10M | Undisclosed | Undisclosed [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: 'Resolved seed lead to Bain Capital Ventures via 3 primary sources: (1) Bain Capital Ventures own insight post [^5] explicitly stating "We are excited to announce we led the $10M seed round in Adaptive Innovations and are doubling down in their $50M Series A"; (2) Adaptive Innovations own blog [^1] confirming $10M Seed as part of $60M total; (3) Pulse 2.0 [^Bain-verify] confirming BCV led. Other seed participants and exact seed date remain publicly undisclosed — company launched quietly in 2025. Updated Funding History table lead from "Undisclosed" to "Bain Capital Ventures" and co-investors to "Not publicly disclosed". Added BCV insight post as new citation [^5].'
 - profile: startups/advanced-machine-intelligence
   profile_name: Advanced Machine Intelligence
   company: '2026-03-10'
@@ -163648,7 +163652,9 @@ vague_facts:
     [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: 'Resolved Series B lead to RTP Global. The April 13, 2026 SEC Form D represented a partial closing ($21.6M of $37.5M offering); the formal Series B was announced June 24, 2026 at $30M led by RTP Global with returning investors Aglaé Ventures, Eniac, and Alven, new investor Linea, and angel investors including Kirill Bigai (Preply CEO) and Sam Jacobs (Pavilion CEO). Verified via 3 independent primary sources: (1) PR Newswire company press release [^5], (2) The SaaS News [^6], (3) TechEdge AI [^7]. Replaced the "Series B (SEC Form D)" row with the formal 2026-06-24 $30M Series B row. Updated total raised from $38.4M to $47.1M. Retained SEC Form D context in body text. Added 3 new citations.'
 - profile: startups/auger
   profile_name: Auger
   company: '2024-10-08'
@@ -163700,7 +163706,9 @@ vague_facts:
   line: '| 2023 | Seed (YC W23) | Undisclosed | Y Combinator | [^1][^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-01
+  resolution_note: 'Avoca deliberately bundled Seed + Series A + Series B into a single $125M+ announcement on April 27, 2026 without publicly breaking out individual round amounts. Verified across 3 primary sources: (1) PR Newswire company press release [^1] ("more than $125M across Seed, Series A and Series B funding"), (2) Fortune interview with Chen [^2] ("The $125 million is across three rounds of funding"), (3) Avoca founder blog [^3] ("over $125M across Seed to Series B"). None disclose individual amounts. Updated Amount cell to "Not broken out (bundled in $125M+ total)" for clarity. Seed lead (Y Combinator) confirmed via YC company directory [^4].'
 - profile: startups/avoca
   profile_name: Avoca
   company: '2026'
@@ -163711,7 +163719,9 @@ vague_facts:
     Venture Partners [^1][^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-01
+  resolution_note: 'Series A amount not publicly disclosed — bundled into aggregate $125M+ announcement of April 27, 2026 alongside Seed and Series B. Same 3 primary sources verified as the Seed entry: PR Newswire, Fortune, and Avoca founder blog all list Kleiner Perkins as Series A lead but none broke out the round size. Updated Amount cell to "Not broken out (bundled in $125M+ total)". Kleiner Perkins Series A lead confirmed by all 3 sources.'
 - profile: startups/axiom-space
   profile_name: Axiom Space
   company: 2026-02
@@ -163838,7 +163848,9 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-01
+  resolution_note: 'NEOM Investment Fund investment amount is genuinely non-disclosed by Boom Supersonic. Verified via 3 independent primary sources: (1) Boom Supersonic own press release [^8][^12] ("Boom Supersonic Announces New Aircraft, Engine, and Investment Milestones," Nov 9, 2023) confirming strategic investment closed but does not name dollar figure (only "total funding to date now exceeds $700 million"), (2) AGBI [^15] ("The value of the investment was not given"), (3) The Saudi Boom [^16] (confirms equity investment, amount not disclosed). Updated Amount cell from "Undisclosed" to "Not disclosed by Boom" for clarity and added 2 new citations. Structurally unresolvable unless Boom or NEOM discloses.'
 - profile: startups/brex
   profile_name: Brex
   company: '2017-03-20'

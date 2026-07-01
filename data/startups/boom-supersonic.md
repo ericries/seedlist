@@ -102,7 +102,7 @@ Boom Supersonic (formerly Boom Technology) is an aerospace company founded by Bl
 | Mar 2017 | Series A | $33M | Y Combinator Continuity | 8VC, RRE Ventures, Palm Drive Ventures, Caffeinated Capital [^5] |
 | Jan 2019 | Series B | $100M ($56M new) | Emerson Collective | Y Combinator Continuity, Caffeinated Capital, SV Angel [^6] |
 | Apr 2021 | Series B extension | $45M | Prime Movers Lab | American Express Ventures (strategic) [^7] |
-| 2023-11-09 | Strategic | Undisclosed | NEOM Investment Fund | — [^8][^12] |
+| 2023-11-09 | Strategic | Not disclosed by Boom | NEOM Investment Fund | — [^8][^12][^15][^16] |
 | 2025-12-09 | Series B extension | $300M (at ~$1.5B valuation) | Darsana Capital Partners | Altimeter Capital, ARK Invest, Bessemer Venture Partners, Robinhood Ventures, Y Combinator [^4][^13][^14] |
 
 Total raised: $700M+ across 12+ rounds [^4].
@@ -145,3 +145,6 @@ Total raised: $700M+ across 12+ rounds [^4].
 [^13]: TechCrunch, "Boom Supersonic raises $300M to build natural gas turbines for Crusoe data centers," December 9, 2025. https://techcrunch.com/2025/12/09/boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-centers/ — Independent confirmation of December 9, 2025 announcement; $300M Series B led by Darsana Capital Partners with Altimeter, ARK Invest, Bessemer, Robinhood Ventures, Y Combinator participating.
 
 [^14]: BusinessDen, "Boom Supersonic raising $300M at a $1.5B valuation," December 9, 2025. https://businessden.com/2025/12/09/boom-supersonic-raising-300m-at-a-1-5b-valuation/ — Confirms ~$1.5B post-money valuation per CEO Blake Scholl's investor email; round originally targeted $150M but doubled due to investor demand.
+
+[^15]: AGBI, "Neom fund invests in US supersonic aircraft maker," November 2023. Accessed July 2026. https://www.agbi.com/transport/2023/11/neom-fund-invests-in-us-supersonic-aircraft-maker/ — Confirms strategic investment closed and Boom's cumulative funding exceeds $700M; investment amount explicitly not disclosed.
+[^16]: The Saudi Boom, "NEOM Investment Fund Invests In Boom Supersonic to Advance Supersonic Flight in The Gulf," November 14, 2023. Accessed July 2026. https://thesaudiboom.com/neom-investment-fund-invests-in-boom-supersonic-to-advance-supersonic-flight-in-the-gulf/ — Independent confirmation of equity investment; specific amount not disclosed.

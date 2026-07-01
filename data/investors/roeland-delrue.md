@@ -36,7 +36,7 @@ Delrue self-reports investment focus across pre-seed, seed, Series A, and late-s
 
 **Geography:** Belgium and United States [^4]; consistent with operating between Ghent and the U.S. expansion of Aikido [^2].
 
-**Cadence:** All four verifiable 2025–2026 investments occurred within an 8-month window (Sep 2025 to May 2026), suggesting an active deployment phase [^4].
+**Cadence:** Five verifiable 2025–2026 investments span an ~13-month window (April 2025 to May 2026), with four of the five concentrated between September 2025 and May 2026 — suggesting an accelerated deployment phase in late 2025 following an earlier April 2025 first check into Markmi [^4][^7].
 
 **Founder profile:** Insufficient data to characterize.
 
@@ -48,7 +48,7 @@ Delrue self-reports investment focus across pre-seed, seed, Series A, and late-s
 | Geteagl | 2025-09-18 | Seed | [^4] |
 | Getdalton | 2025-09-05 | Seed | [^4] |
 | Driven | 2025-09-04 | Seed | [^4] |
-| Markmi | ~2024 | Undisclosed | [^4][^3] |
+| Markmi | 2025-04-02 | Seed (€1.1M, angel participant) | [^4][^3][^7][^8][^9] |
 
 Tracxn reports 6 total angel investments; 5 are individually named in public sources [^4]. One additional portfolio company is referenced but not named in available sources [^6].
 
@@ -68,3 +68,6 @@ No independently sourced founder testimonials about Delrue as an angel investor 
 [^4]: Tracxn, "Roeland Delrue — 2026 Portfolio & Founded Companies," accessed June 2026. https://tracxn.com/d/people/roeland-delrue/__v4_uohe1A7jxEt_H9DyG7k7ZRRiwxQUQsFv9E_iTkkg
 [^5]: Wikipedia, "Aikido Security," accessed June 2026. https://en.wikipedia.org/wiki/Aikido_Security
 [^6]: Investorlist, "Roeland Delrue," accessed June 2026. https://investorlist.com/investor/roeland-delrue
+[^7]: Markmi, "Press Release: Ghent-based Markmi raises €1.1 million to expand its markdown assistant in Belgium, the Netherlands, the Nordics, and later this year, the US," company blog, April 2, 2025. Accessed July 2026. https://markmi.ai/blog/press-release-ghent-based-markmi-raises-1.1-million-to-expand-its-markdown-assistant-in-belgium-the-netherlands-the-nordics-and-later-this-year-the-us
+[^8]: The SaaS News, "Markmi Raises €1.1 Million in Seed Round," April 2025. Accessed July 2026. https://www.thesaasnews.com/news/markmi-raises-1-1-million-in-seed-round
+[^9]: FashionUnited, "Markmi raises 1.1 million euros in seed funding," April 2025. Accessed July 2026. https://fashionunited.com/news/business/markmi-raises-1-1-million-euros-in-seed-funding/2025040265246

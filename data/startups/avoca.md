@@ -41,9 +41,11 @@ Avoca is a New York-based AI workforce platform for service businesses, founded 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2023 | Seed (YC W23) | Undisclosed | Y Combinator | [^1][^4] |
-| 2026 | Series A | Undisclosed | Kleiner Perkins | Amplify Partners, Nexus Venture Partners [^1][^3] |
-| 2026-04-27 | Series B | Undisclosed (part of $125M+ total) | Meritech, General Catalyst | Kleiner Perkins, Amplify Partners, Nexus Venture Partners [^1][^2] |
+| 2023 | Seed (YC W23) | Not broken out (bundled in $125M+ total) | Y Combinator | [^1][^4] |
+| 2026 | Series A | Not broken out (bundled in $125M+ total) | Kleiner Perkins | Amplify Partners, Nexus Venture Partners [^1][^3] |
+| 2026-04-27 | Series B | Not broken out (bundled in $125M+ total) | Meritech, General Catalyst | Kleiner Perkins, Amplify Partners, Nexus Venture Partners [^1][^2] |
+
+The Company announced $125M+ raised across all three rounds at a $1B valuation on April 27, 2026 without publicly breaking out individual round amounts [^1][^2][^3].
 
 ## What Investors Say
 
