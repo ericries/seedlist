@@ -34082,3 +34082,165 @@ queue:
   added: '2026-03-17'
   discovered_from: daniel-vogel
   source: Transaction-data fintech; Vogel angel-invested in 2022 seed
+- name: House Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: queue
+  source: Participated in Queue $12.6M seed 2026-06-30
+- name: Ubiquity Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: queue
+  source: Participated in Queue $12.6M seed 2026-06-30
+- name: Grep Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: queue
+  source: Participated in Queue $12.6M seed 2026-06-30
+- name: Abe Murray
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: AlleyCorp
+  discovered_from: queue
+  source: AlleyCorp General Partner who led Queue seed 2026-06-30
+- name: Will Coffield
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Riot Ventures
+  discovered_from: queue
+  source: Riot Ventures partner backing Queue pre-seed and seed
+- name: Jibe Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arato
+  source: Participated in Arato $10M seed 2026-06-29
+- name: Raghu Raghuram
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: arato
+  source: a16z partner and former VMware CEO; angel in Arato $10M seed 2026-06-29
+- name: Marianna Tessel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arato
+  source: Former Intuit CTO; angel in Arato $10M seed 2026-06-29
+- name: Shahar Erez
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arato
+  source: Arato Co-Founder & CEO; previously Stoke (acquired by Fiverr for $95M in
+    2021)
+- name: Brindabella and Company
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: southern-launch
+  source: Led Southern Launch A$25M Series A 2026-07-01 (Australian national security
+    investment firm)
+- name: Coupland Asset Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: southern-launch
+  source: Participated in Southern Launch A$25M Series A 2026-07-01
+- name: National Reconstruction Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: southern-launch
+  source: Australian federal government fund; A$10M direct equity in Southern Launch
+    Series A 2026-07-01
+- name: Anthony Wilson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Brindabella and Company
+  discovered_from: southern-launch
+  source: CEO of Brindabella & Company; led Southern Launch Series A 2026-07-01
+- name: Nicholas Moore
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: southern-launch
+  source: Former Macquarie Group CEO; angel in Southern Launch Series A 2026-07-01
+- name: Alex Harvey
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: southern-launch
+  source: Former Macquarie Group CFO; angel in Southern Launch Series A 2026-07-01
+- name: SE Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: higharc
+  source: Schneider Electric's venture arm; investor in Higharc Series C 2026-06-30
+- name: Simpson Strong-Tie
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: higharc
+  source: Strategic investor in Higharc Series C 2026-06-30
+- name: RXR Arden Digital Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: higharc
+  source: Existing investor in Higharc Series C 2026-06-30
+- name: Suffolk Technologies
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: higharc
+  source: Existing investor in Higharc Series C 2026-06-30
+- name: MetaProp
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: higharc
+  source: Existing investor in Higharc Series C 2026-06-30 (proptech VC)
+- name: Josh Fredberg
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Insight Partners
+  discovered_from: higharc
+  source: Managing Director at Insight Partners; led Higharc Series C 2026-06-30
+- name: Marc Minor
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: higharc
+  source: Higharc Co-Founder & CEO

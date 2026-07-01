@@ -20,24 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Telum Therapeutics raises €18 million to advance treatments for hospital-acquired
-    infections
-  url: https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/
-  source: eu-startups
-  date_found: '2026-07-01'
-  parsed_company: Telum Therapeutics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: EquiLibre secures Series A at €438 million valutation to scale AI trading
-    agents handling billions daily
-  url: https://www.eu-startups.com/2026/07/equilibre-secures-series-a-at-e438-million-valutation-to-scale-ai-trading-agents-handling-billions-daily/
-  source: eu-startups
-  date_found: '2026-07-01'
-  parsed_company: EquiLibre
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
 - title: ORYZON Raises €12 Million and Signs a Financing Agreement with COFIDES to
     Strengthen its Balance Sheet and Accelerate its Clinical Programs
   url: https://www.globenewswire.com/news-release/2026/07/01/3320668/0/en/ORYZON-Raises-12-Million-and-Signs-a-Financing-Agreement-with-COFIDES-to-Strengthen-its-Balance-Sheet-and-Accelerate-its-Clinical-Programs.html
@@ -62,6 +44,24 @@ pending_rounds:
   date_found: '2026-07-01'
   parsed_company: null
   parsed_amount: $65M
+  parsed_round: Series A
+  status: pending
+- title: Telum Therapeutics raises €18 million to advance treatments for hospital-acquired
+    infections
+  url: https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/
+  source: eu-startups
+  date_found: '2026-07-01'
+  parsed_company: Telum Therapeutics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: EquiLibre secures Series A at €438 million valutation to scale AI trading
+    agents handling billions daily
+  url: https://www.eu-startups.com/2026/07/equilibre-secures-series-a-at-e438-million-valutation-to-scale-ai-trading-agents-handling-billions-daily/
+  source: eu-startups
+  date_found: '2026-07-01'
+  parsed_company: EquiLibre
+  parsed_amount: null
   parsed_round: Series A
   status: pending
 - title: INMerge Innovation Summit concludes its international event series with INMerge
