@@ -143,6 +143,14 @@ pending_rounds:
   parsed_amount: $265M
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 6/30/2026'
+  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-30-2026/
+  source: alleywatch
+  date_found: '2026-06-30'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Axios General Intuition raised $320M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -825,13 +833,4 @@ pending_rounds:
   parsed_company: Seedcamp
   parsed_amount: $320M
   parsed_round: null
-  status: pending
-- title: France’s Bionyra Pharma launches with €143 million Series A to advance inflammatory
-    disease biologics
-  url: https://www.eu-startups.com/2026/06/frances-bionyra-pharma-launches-with-e143-million-series-a-to-advance-inflammatory-disease-biologics/
-  source: eu-startups
-  date_found: '2026-06-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series A
   status: pending
