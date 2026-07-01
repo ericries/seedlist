@@ -2742,6 +2742,9 @@ priority:
   type: startup
   reason: "new startup profile (Seed $8.5M, 2026-06-30, Index Ventures led)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: "Re-verified Build $8.5M Seed on 2026-06-30 led by Index Ventures with Pebblebed, Puzzle Ventures, Tiny.vc participating, plus angels Sarah Friar (OpenAI CFO), John Stecher (Blackstone CTO), and senior leaders from Meta AI Research and Google Maps, via 3 independent primary sources already in profile: EU-Startups [^1], Tech Funding News [^2], SiliconANGLE [^3]. All three agree on date, amount ($8.5M / €7.4M), lead, participants, and founder details (James Stirrat-Ellis, ex-architect on Singapore Changi Airport expansion, Harvard master's dropout, co-founder Ben McClusky). Profile fully accurate — no changes needed. Index Ventures firm portfolio row [^68][^69][^70] also fully cited."
 - slug: dominion-dynamics
   type: startup
   reason: "new startup profile (Series A C$139M, 2026-06-30, Georgian led)"
@@ -2753,6 +2756,9 @@ priority:
   type: startup
   reason: "new startup profile (Series A ¥650M, 2026-06-29, Nissay Capital led)"
   added: 2026-06-30
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: "Verified GenerativeX ¥650M (~$4M USD) Series A on 2026-06-29 led by Nissay Capital (Yusuke Ito, Senior Capitalist; Zhi Li, Capitalist) with Salesforce Ventures, Angel Bridge, DeepCore, and SMBC Venture Capital participating, via 3 independent primary sources: Japan Startup Observer [^1], Pulse 2.0 [^2], and PR Newswire origin press release [^3] (newly added). PR Newswire is the origin press release; Japan Startup Observer and Pulse 2.0 are independent editorial. All three sources agree on lead, amount, participants, and Tokyo HQ (with SF and NY offices). Founded June 2023 by Rei Araki (Founder & CEO); serves 80+ enterprise clients. Currency preserved as ¥650M in profile per Seedlist rules. No firm profiles yet exist for Nissay Capital, Salesforce Ventures, Angel Bridge, DeepCore, or SMBC Venture Capital."
 - slug: equilibre-technologies
   type: startup
   reason: "new startup profile (Series A, 2026-07-01, Creandum led, €438M valuation)"
@@ -2785,7 +2791,13 @@ priority:
   type: firm
   reason: "participated in Together AI Series C ($800M at $8.3B post-money, 2026-07-01)"
   added: 2026-07-01
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: "Verified General Catalyst as Series C participant in Together AI $800M round at $8.3B post-money valuation on 2026-07-01, led by Aramco Ventures with Vista Equity Partners, Emergence Capital, NVIDIA, March Capital, Pegatron, and S Ventures also participating, via 4 independent primary sources: TechCrunch [^tog1], Yahoo Finance PR syndication [^tog2], Itemonline PR syndication [^tog3], and BusinessWire origin press release [^4] (newly added to together-ai.md startup profile). Portfolio row [^tog1][^tog2][^tog3] on general-catalyst.md remains fully accurate; Together AI startup profile citations expanded to 4. TechCrunch is truly independent editorial confirmation; BusinessWire is the direct company press release. Vipul Ved Prakash quote and Joe Floyd (Emergence GP) quote verified against sources."
 - slug: emergence-capital
   type: firm
   reason: "participated in Together AI Series C ($800M at $8.3B post-money, 2026-07-01)"
   added: 2026-07-01
+  status: resolved
+  resolved: 2026-07-01
+  resolution_note: "Same round as adjacent general-catalyst entry — Emergence Capital participation in Together AI Series C ($800M at $8.3B post-money, 2026-07-01, Aramco Ventures led) re-verified via 4 independent primary sources (TechCrunch [^17], Yahoo Finance PR syndication [^18], Itemonline PR syndication [^19], BusinessWire origin press release [^4] on together-ai.md). Emergence portfolio row [^17][^18][^19] on emergence-capital.md remains fully accurate. Joe Floyd (Emergence GP) direct quote about open-source shift verified against sources."

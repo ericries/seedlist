@@ -28,7 +28,7 @@ GenerativeX is a Tokyo-based agentic AI company that deploys "Forward Deployed E
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-29 | Series A | ¥650M | Nissay Capital | Salesforce Ventures, Angel Bridge, DeepCore, SMBC Venture Capital [^1][^2] |
+| 2026-06-29 | Series A | ¥650M | Nissay Capital | Salesforce Ventures, Angel Bridge, DeepCore, SMBC Venture Capital [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -43,3 +43,5 @@ GenerativeX is a Tokyo-based agentic AI company that deploys "Forward Deployed E
 [^1]: Japan Startup Observer, "GenerativeX Secures JPY 650m in Series A Round to Accelerate Global AI Agent Deployment," June 2026. Accessed June 2026. https://japanstartupobserver.substack.com/p/generativex-secures-jpy-650m-in-series — Confirms ¥650M Series A led by Nissay Capital with Salesforce Ventures, Angel Bridge, DeepCore, and SMBC Venture Capital participating. Tokyo HQ. Founded June 2023. 80+ enterprise clients.
 
 [^2]: Pulse 2.0, "GenerativeX Raises $4 Million Series A To Scale Forward Deployed Engineer Model," June 29, 2026. Accessed June 2026. https://pulse2.com/generativex-raises-4-million-series-a-to-scale-forward-deployed-engineer-model/ — Independent confirmation of ¥650M (~$4M) Series A led by Nissay Capital with Salesforce Ventures, Angel Bridge, DeepCore, and SMBC Venture Capital. SF, NY, Tokyo offices.
+
+[^3]: PR Newswire (origin press release), "GenerativeX Closes $4 Million Series A," June 29, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/generativex-closes-4-million-series-a-302813035.html — Origin company press release confirming June 29, 2026 close of $4M Series A led by Nissay Capital with Salesforce Ventures, Angel Bridge, DeepCore, and SMBC Venture Capital participating; includes founder quote from Rei Araki and investor quote from Yusuke Ito and Zhi Li (Nissay Capital).

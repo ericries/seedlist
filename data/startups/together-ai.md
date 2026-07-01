@@ -78,7 +78,7 @@ Together AI is a San Francisco-based AI acceleration cloud that provides trainin
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-01 | Series C | $800M | Aramco Ventures | Vista Equity Partners, General Catalyst, Emergence Capital, NVIDIA, March Capital, Pegatron, S Ventures [^1][^2][^3] |
+| 2026-07-01 | Series C | $800M | Aramco Ventures | Vista Equity Partners, General Catalyst, Emergence Capital, NVIDIA, March Capital, Pegatron, S Ventures [^1][^2][^3][^4] |
 
 The Series C values Together AI at $8.3 billion post-money, more than doubling the $3.3 billion valuation from its February 2025 round [^1][^2]. Total funding to date exceeds $1.3 billion [^1].
 
@@ -97,3 +97,4 @@ The Series C values Together AI at $8.3 billion post-money, more than doubling t
 [^1]: TechCrunch, "Neocloud Together AI raises $800M, leaps to $8.3B valuation," July 1, 2026. Accessed July 2026. https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/
 [^2]: Yahoo Finance (syndicated press release), "Together AI Raises $800 Million at $8.3 Billion Valuation to Make Frontier AI Accessible to All," July 1, 2026. Accessed July 2026. https://sg.finance.yahoo.com/news/together-ai-raises-800-million-130000463.html
 [^3]: Itemonline (syndicated press release), "Together AI Raises $800 Million at $8.3 Billion Valuation to Make Frontier AI Accessible to All," July 1, 2026. Accessed July 2026. https://www.itemonline.com/together-ai-raises-800-million-at-8-3-billion-valuation-to-make-frontier-ai-accessible/article_40b237ae-c7cf-50f7-a8ac-355396742858.html
+[^4]: BusinessWire (origin press release), "Together AI Raises $800 Million at $8.3 Billion Valuation to Make Frontier AI Accessible to All," July 1, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260701243402/en/Together-AI-Raises-$800-Million-at-$8.3-Billion-Valuation-to-Make-Frontier-AI-Accessible-to-All — Origin BusinessWire release confirming Aramco Ventures lead, $8.3B post-money valuation, and participation from Vista Equity Partners, General Catalyst, Emergence Capital, NVIDIA, March Capital, Pegatron, and S Ventures.
