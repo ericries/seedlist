@@ -2872,3 +2872,35 @@ priority:
   type: startup
   reason: "new startup profile (Pre-Seed follow-on 2026-07-02, £600K led by NPIF II – PXN Equity Finance with SFC Capital)"
   added: 2026-07-02
+- slug: lux-capital
+  type: firm
+  reason: "led 1001 Series A (2026-06-30), $30M"
+  added: 2026-07-02
+- slug: deena-shakir
+  type: investor
+  reason: "led 1001 Series A (2026-06-30), $30M via Lux Capital"
+  added: 2026-07-02
+- slug: general-catalyst
+  type: firm
+  reason: "participated 1001 Series A (2026-06-30), $30M (existing backer increased commitment)"
+  added: 2026-07-02
+- slug: hanabi-capital
+  type: firm
+  reason: "participated 1001 Series A (2026-06-30), $30M"
+  added: 2026-07-02
+- slug: karim-atiyeh
+  type: investor
+  reason: "angel in 1001 Series A (2026-06-30), $30M"
+  added: 2026-07-02
+- slug: materna-medical
+  type: startup
+  reason: "new startup profile (B3 financing 2026-07-02, $5M co-led by InnovaHealth Partners, Wavemaker360 Health, Band of Angels)"
+  added: 2026-07-02
+- slug: batx-energies
+  type: startup
+  reason: "new startup profile (Series A 2026-07-02, Rs 105 Cr led by IvyCap Ventures)"
+  added: 2026-07-02
+- slug: "1001"
+  type: startup
+  reason: "new startup profile (Series A 2026-06-30, $30M led by Lux Capital)"
+  added: 2026-07-02

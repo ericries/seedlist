@@ -131,6 +131,7 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 | Impulse Space | Series D (participant, $500M at $4.26B post-money; 137 Ventures + BANNER VC co-led) | 2026-06-02 | Aerospace / In-Space Mobility | Active | [^21] |
 | Flourish | Venture (co-led, $500M at $2.5B post-money; with GV) | 2026-06-04 | AI / Neuroscience / Connectomics | Active | [^flourish1][^flourish2][^flourish3] |
 | Westmag | Seed (participant, $11M; a16z led) | 2026-06-02 | Defense / Robotics / Drone Motors / Actuators | Active | [^westmag1][^westmag2][^westmag3] |
+| 1001 | Series A (led, $30M) | 2026-06-30 | Sovereign AI / Critical Infrastructure | Active | [^1001-1][^1001-2][^1001-3] |
 
 *This table represents approximately 9% of Lux Capital's estimated 287 portfolio organizations [^5]. Years shown are approximate based on available data.*
 
@@ -195,3 +196,7 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^22]: SiliconANGLE, "Robotic teleoperation data startup XDOF launches with $70M in funding," June 17, 2026. Accessed June 2026. https://siliconangle.com/2026/06/17/robotic-teleoperation-data-startup-xdof-launches-70m-funding/ — Names Lux Capital as investor in XDOF's $70M launch from stealth.
 
 [^23]: The AI Insider, "Robotics Infrastructure Startup XDOF Emerges from Stealth with $70M in Funding," June 18, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/18/robotics-infrastructure-startup-xdof-emerges-from-stealth-with-70m-in-funding/
+
+[^1001-1]: Khaleej Times, "1001 raises $30 million to build sovereign AI for GCC's critical infrastructure," July 2, 2026. Accessed July 2026. https://www.khaleejtimes.com/business/1001-raises-30-million-to-build-sovereign-ai-for-gccs-critical-infrastructure — Confirms Lux Capital led 1001's $30M Series A on June 30, 2026, with Sanabil Investments, 9Yards, Hanabi, General Catalyst, CIV, and Chris Ré participating.
+[^1001-2]: Wamda, "1001 closes $30 million Series A to build sovereign AI in GCC," June 30, 2026. Accessed July 2026. https://www.wamda.com/2026/06/1001-closes-30-million-series-a-build-sovereign-ai-gcc
+[^1001-3]: Zawya, "1001 raises $30mln to build sovereign AI for GCC's critical infrastructure," June 30, 2026. Accessed July 2026. https://www.zawya.com/en/press-release/companies-news/1001-raises-30mln-to-build-sovereign-ai-for-gccs-critical-infrastructure-fd3s5i9m

@@ -3,9 +3,9 @@ check_size: $1M-$10M
 firm: lux-capital
 last_researched: 2026-03-24
 last_verified_investment:
-  company: Bluenote
-  date: 2024-12-20
-  round: Seed
+  company: "1001"
+  date: 2026-06-30
+  round: Series A
 location: Palo Alto, CA
 name: Deena Shakir
 role: General Partner
@@ -115,6 +115,7 @@ The analysis below is based on 13 verified investments led or co-led by Deena Sh
 | Summer Health | 2024 | Series A | Pediatric telehealth | [^20] |
 | Bluenote | 2024 | Seed | Life sciences AI | [^21] |
 | 1001 AI | 2025 | Seed | MENA AI infrastructure | [^25] |
+| 1001 | 2026 | Series A | Sovereign AI / critical infrastructure | [^26] |
 | Ramp | 2021+ | Series C+ | Fintech / spend management | [^22] |
 
 ## In Their Own Words
@@ -236,3 +237,5 @@ Dr. Hala Borno, CEO and founder of Trial Library, on the problem her company add
 [^24]: Paxton Maeder-York quote reported in search coverage of the Lux Capital Alife seed and Series A announcements, and in summary of "How I Raised It" podcast episode 216, accessed March 2026. https://podcasts.nu/avsnitt/how-i-raised-it-the-podcast-where-we-interview-startup-founders-who-raised-capital/ep-216-how-i-raised-it-with-paxton-maeder-york-of-alife-health-ZkcOWnGhw
 
 [^25]: TechCrunch, "Scale AI alum raises $9M for AI serving critical industries in MENA," October 20, 2025. https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/
+
+[^26]: Khaleej Times, "1001 raises $30 million to build sovereign AI for GCC's critical infrastructure," July 2, 2026. Accessed July 2026. https://www.khaleejtimes.com/business/1001-raises-30-million-to-build-sovereign-ai-for-gccs-critical-infrastructure
