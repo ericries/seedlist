@@ -63,6 +63,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: AI, Energy And Biotech Lead The Way'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/
+  source: crunchbase
+  date_found: '2026-07-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: ORYZON Raises €12 Million and Signs a Financing Agreement with COFIDES to
     Strengthen its Balance Sheet and Accelerate its Clinical Programs
   url: https://www.globenewswire.com/news-release/2026/07/01/3320668/0/en/ORYZON-Raises-12-Million-and-Signs-a-Financing-Agreement-with-COFIDES-to-Strengthen-its-Balance-Sheet-and-Accelerate-its-Clinical-Programs.html
@@ -835,12 +843,4 @@ pending_rounds:
   parsed_company: Ploy
   parsed_amount: $27M
   parsed_round: Seed
-  status: pending
-- title: Niural raised $21M additional Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-23'
-  parsed_company: Niural
-  parsed_amount: $21M
-  parsed_round: Additional Series A
   status: pending
