@@ -2876,31 +2876,55 @@ priority:
   type: firm
   reason: "led 1001 Series A (2026-06-30), $30M"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Verified Lux Capital led 1001 $30M Series A on 2026-06-30 via 4 independent primary sources (Wamda [^1001-2], Khaleej Times [^1001-1], Zawya [^1001-3], WAYA). Portfolio row in lux-capital.md already cites 3 sources. Confirmed Deena Shakir as spokesperson (quote already in profile). Full participant list verified: Sanabil Investments (PIF), 9Yards, Hanabi (new); General Catalyst, CIV, Chris Ré (existing, increased commitment); angels Karim Atiyeh (Ramp), Kareem Amin (Clay), Russell Kaplan (Cognition), Shayan Shafii, Daniel Garber, Junaid Hussain. Founder Bilal Abu-Ghazaleh (founded 2025). No changes needed to lux-capital.md."
 - slug: deena-shakir
   type: investor
   reason: "led 1001 Series A (2026-06-30), $30M via Lux Capital"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Added 2 additional primary source citations ([^27] Wamda, [^28] Zawya) to the 1001 Series A row alongside existing Khaleej Times [^26]. All 3 sources independently confirm Deena Shakir led $30M Series A on 2026-06-30 via Lux Capital. Shakir's investor quote already in 1001 startup profile also confirmed from Khaleej Times."
 - slug: general-catalyst
   type: firm
   reason: "participated 1001 Series A (2026-06-30), $30M (existing backer increased commitment)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Added Khaleej Times [^gc-1001-3] as 3rd citation to 1001 Series A portfolio row alongside existing Wamda [^gc-1001-1] and Zawya [^gc-1001-2]. All 3 independently confirm General Catalyst as existing backer that increased commitment in $30M Series A led by Lux Capital on 2026-06-30."
 - slug: hanabi-capital
   type: firm
   reason: "participated 1001 Series A (2026-06-30), $30M"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Added Zawya [^hanabi-1001-3] as 3rd citation to 1001 Series A portfolio row alongside existing Wamda [^hanabi-1001-1] and Khaleej Times [^hanabi-1001-2]. All 3 independently confirm Hanabi joined 1001's $30M Series A led by Lux Capital on 2026-06-30 (new investor)."
 - slug: karim-atiyeh
   type: investor
   reason: "angel in 1001 Series A (2026-06-30), $30M"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Added Khaleej Times [^27] as 2nd citation to 1001 Series A angel row alongside existing Wamda [^26]. Both explicitly name Karim Atiyeh (Ramp Co-founder & CTO) as angel participant. Row date tightened from '2026' to '2026-06-30'."
 - slug: materna-medical
   type: startup
   reason: "new startup profile (B3 financing 2026-07-02, $5M co-led by InnovaHealth Partners, Wavemaker360 Health, Band of Angels)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Verified Materna Medical $5M B3 financing on 2026-07-02 co-led by InnovaHealth Partners, Wavemaker360 Health, and Band of Angels (with existing investors participating) via 4 primary sources already in profile (BusinessWire press release [^1], Yahoo Finance [^2], Medical Device Network [^3], FinSMEs [^4]). Cross-verified via Pulse 2.0 (5th independent). Tracy MacNeal (President & CEO) quote confirmed verbatim. Use of funds (Ellora EASE pivotal trial readout, Milli channel expansion, commercial manufacturing) confirmed. No changes needed."
 - slug: batx-energies
   type: startup
   reason: "new startup profile (Series A 2026-07-02, Rs 105 Cr led by IvyCap Ventures)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Verified BatX Energies ₹105 Cr (~$11M) Series A on 2026-07-02 led by IvyCap Ventures with existing backers Zephyr Peacock, Mankind Pharma Family Office, Excel Industries Family Office, and JITO participating, via 3 primary sources already in profile (Entrackr [^1], Inc42 [^2], EVreporter [^3]). Currency preserved as ₹105 Cr. Co-founders Utkarsh Singh and Vikrant Singh confirmed. Prior Pre-Series A $5M (Dec 2023, Zephyr Peacock-led) also confirmed. Total funding to date $17.7M per Inc42. No changes needed."
 - slug: "1001"
   type: startup
   reason: "new startup profile (Series A 2026-06-30, $30M led by Lux Capital)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Verified 1001 $30M Series A on 2026-06-30 led by Lux Capital via 4 independent primary sources already in profile (Khaleej Times [^1], Wamda [^2], Zawya [^3], WAYA [^4]). All 4 sources agree on: lead (Lux Capital), amount ($30M), founder (Bilal Abu-Ghazaleh, founded 2025). New participants: Sanabil Investments (PIF-owned), 9Yards, Hanabi. Existing backers increased commitments: General Catalyst, CIV, Chris Ré (Stanford). Angel investors: Karim Atiyeh (Ramp CTO), Kareem Amin (Clay CEO), Russell Kaplan (Cognition President), Shayan Shafii, Daniel Garber, Junaid Hussain. Valuation not disclosed. Deena Shakir and Bilal Abu-Ghazaleh quotes verified verbatim against Khaleej Times/Wamda. No changes needed."

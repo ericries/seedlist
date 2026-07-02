@@ -79,7 +79,7 @@ Based on Hanabi's publicly listed portfolio of 18 companies [^9], the firm's act
 | Periodic Labs | Seed | 2025 | AI/Science | [^9][^26] |
 | Simile | Series A ($100M) | 2026-02-12 | AI/Simulation | [^9][^27][^33] |
 | Traversal | Seed + Series A ($48M total) | 2025-06-18 | Developer Tools | [^4][^9][^28] |
-| 1001 | Series A (participated, $30M; Lux Capital led) | 2026-06-30 | Sovereign AI / Critical Infrastructure | [^hanabi-1001-1][^hanabi-1001-2] |
+| 1001 | Series A (participated, $30M; Lux Capital led) | 2026-06-30 | Sovereign AI / Critical Infrastructure | [^hanabi-1001-1][^hanabi-1001-2][^hanabi-1001-3] |
 
 Note: The firm's portfolio page lists 18 companies [^9]. Some investment dates are approximate because specific round dates were not publicly disclosed. Applied Compute's $20M seed round predated its later $80M round [^13][^18]. Brinc Drones' round was reported as Series C based on prior funding history [^14]. Mike Volpi invested personally in Brinc; Hanabi is listed as an investor via the firm's portfolio page [^9][^14]. For ArchiBoost AI and Cerebras, Hanabi's specific round participation could not be independently confirmed; the firm is listed on the portfolio page [^9] and on Tracxn [^4]. For Cursor, Hanabi is listed as a portfolio company but which specific round the firm participated in is not publicly disclosed [^9][^20].
 
@@ -138,3 +138,4 @@ No independently sourced founder testimonials found. Hanabi Capital is a recentl
 
 [^hanabi-1001-1]: Wamda, "1001 closes $30 million Series A to build sovereign AI in GCC," June 30, 2026. Accessed July 2026. https://www.wamda.com/2026/06/1001-closes-30-million-series-a-build-sovereign-ai-gcc — Names Hanabi as participant in 1001's $30M Series A led by Lux Capital on June 30, 2026.
 [^hanabi-1001-2]: Khaleej Times, "1001 raises $30 million to build sovereign AI for GCC's critical infrastructure," July 2, 2026. Accessed July 2026. https://www.khaleejtimes.com/business/1001-raises-30-million-to-build-sovereign-ai-for-gccs-critical-infrastructure
+[^hanabi-1001-3]: Zawya, "1001 raises $30mln to build sovereign AI for GCC's critical infrastructure," June 30, 2026. Accessed July 2026. https://www.zawya.com/en/press-release/companies-news/1001-raises-30mln-to-build-sovereign-ai-for-gccs-critical-infrastructure-fd3s5i9m — Third independent confirmation of Hanabi as new participant joining 1001's $30M Series A led by Lux Capital.

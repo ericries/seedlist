@@ -238,7 +238,7 @@ The following table includes 72 verified investments sourced from General Cataly
 | Archil | Seed (participated, $6.7M; Felicis led) | 2025-06-03 | AI / Cloud Filesystem / Data Infrastructure | Private [^arc1] |
 | Archil | Series A (participated, $11M; Standard Capital led) | 2026-04-21 | AI / Cloud Filesystem / Data Infrastructure | Private [^arc1][^arc2] |
 | Together AI | Series C (participated, $800M at $8.3B post-money; Aramco Ventures led) | 2026-07-01 | AI Infrastructure / Open-Source / Inference | Private [^tog1][^tog2][^tog3] |
-| 1001 | Series A (participated, $30M; Lux Capital led) | 2026-06-30 | Sovereign AI / Critical Infrastructure | Private [^gc-1001-1][^gc-1001-2] |
+| 1001 | Series A (participated, $30M; Lux Capital led) | 2026-06-30 | Sovereign AI / Critical Infrastructure | Private [^gc-1001-1][^gc-1001-2][^gc-1001-3] |
 
 *Note: This table includes 72+ companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
@@ -467,4 +467,5 @@ No independently sourced founder testimonials were found in this research pass. 
 
 [^gc-1001-1]: Wamda, "1001 closes $30 million Series A to build sovereign AI in GCC," June 30, 2026. Accessed July 2026. https://www.wamda.com/2026/06/1001-closes-30-million-series-a-build-sovereign-ai-gcc — Confirms General Catalyst increased its commitment as an existing backer in 1001's $30M Series A led by Lux Capital on June 30, 2026.
 [^gc-1001-2]: Zawya, "1001 raises $30mln to build sovereign AI for GCC's critical infrastructure," June 30, 2026. Accessed July 2026. https://www.zawya.com/en/press-release/companies-news/1001-raises-30mln-to-build-sovereign-ai-for-gccs-critical-infrastructure-fd3s5i9m
+[^gc-1001-3]: Khaleej Times, "1001 raises $30 million to build sovereign AI for GCC's critical infrastructure," July 2, 2026. Accessed July 2026. https://www.khaleejtimes.com/business/1001-raises-30-million-to-build-sovereign-ai-for-gccs-critical-infrastructure — Third independent confirmation of General Catalyst as existing backer that increased commitment in $30M Series A led by Lux Capital.
 

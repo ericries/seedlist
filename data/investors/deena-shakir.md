@@ -115,7 +115,7 @@ The analysis below is based on 13 verified investments led or co-led by Deena Sh
 | Summer Health | 2024 | Series A | Pediatric telehealth | [^20] |
 | Bluenote | 2024 | Seed | Life sciences AI | [^21] |
 | 1001 AI | 2025 | Seed | MENA AI infrastructure | [^25] |
-| 1001 | 2026 | Series A | Sovereign AI / critical infrastructure | [^26] |
+| 1001 | 2026 | Series A | Sovereign AI / critical infrastructure | [^26][^27][^28] |
 | Ramp | 2021+ | Series C+ | Fintech / spend management | [^22] |
 
 ## In Their Own Words
@@ -239,3 +239,7 @@ Dr. Hala Borno, CEO and founder of Trial Library, on the problem her company add
 [^25]: TechCrunch, "Scale AI alum raises $9M for AI serving critical industries in MENA," October 20, 2025. https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/
 
 [^26]: Khaleej Times, "1001 raises $30 million to build sovereign AI for GCC's critical infrastructure," July 2, 2026. Accessed July 2026. https://www.khaleejtimes.com/business/1001-raises-30-million-to-build-sovereign-ai-for-gccs-critical-infrastructure
+
+[^27]: Wamda, "1001 closes $30 million Series A to build sovereign AI in GCC," June 30, 2026. Accessed July 2026. https://www.wamda.com/2026/06/1001-closes-30-million-series-a-build-sovereign-ai-gcc — Confirms Deena Shakir (Lux Capital) led 1001's $30M Series A on June 30, 2026.
+
+[^28]: Zawya, "1001 raises $30mln to build sovereign AI for GCC's critical infrastructure," June 30, 2026. Accessed July 2026. https://www.zawya.com/en/press-release/companies-news/1001-raises-30mln-to-build-sovereign-ai-for-gccs-critical-infrastructure-fd3s5i9m — Independent third confirmation of Lux Capital lead in $30M Series A.

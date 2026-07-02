@@ -92,7 +92,7 @@ This table includes 12 verified investments. Sources indicate Atiyeh may have ma
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| 1001 | Series A (angel) | 2026 | Sovereign AI / critical infrastructure | Active | [^26] |
+| 1001 | Series A (angel) | 2026-06-30 | Sovereign AI / critical infrastructure | Active | [^26][^27] |
 | Matia | Series A | 2026 | Data infrastructure / AI | Active | [^18] |
 | Campfire | Series B | 2025 | Fintech / AI ERP | Active | [^17] |
 | Beacon Software | Series B | 2025 | AI / holding company | Active | [^9] |
@@ -156,3 +156,5 @@ No independently sourced founder testimonials found. Nuvocargo's blog post welco
 [^24]: 8VC, "Karim Atiyeh and Nik Koblov (Ramp) Fireside Chat," accessed March 2026. https://www.8vc.com/resources/karim-atiyeh-ramp-fireside-chat
 [^25]: Cohere blog, "Hello from Cohere," March 14, 2021. Announces $3.1M seed led by Initialized Capital with Karim Atiyeh listed among angel investors. https://cohere.io/blog/hello-from-cohere
 [^26]: Wamda, "1001 closes $30 million Series A to build sovereign AI in GCC," June 30, 2026. Accessed July 2026. https://www.wamda.com/2026/06/1001-closes-30-million-series-a-build-sovereign-ai-gcc — Names Karim Atiyeh (Ramp Co-founder & CTO) as an angel participant in 1001's $30M Series A led by Lux Capital.
+
+[^27]: Khaleej Times, "1001 raises $30 million to build sovereign AI for GCC's critical infrastructure," July 2, 2026. Accessed July 2026. https://www.khaleejtimes.com/business/1001-raises-30-million-to-build-sovereign-ai-for-gccs-critical-infrastructure — Second independent confirmation of Karim Atiyeh (Ramp Co-founder & CTO) as angel participant in $30M Series A led by Lux Capital.
