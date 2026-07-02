@@ -2823,30 +2823,51 @@ priority:
   type: firm
   reason: "participated in Quantum Systems Series D (€1B / ~$1.2B at ~€7B post-money, 2026-07-02)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Verified Quantum Systems Series D €1B (~$1.2B) at ~€7B (~$8B) post-money on 2026-07-02 co-led by Blackstone, Noteus, Airbus, Advent, with Balderton and HV Capital as existing shareholders participating, plus new institutional investors BOND, Fidelity Management & Research Company, Wellington Management, A.P. Moller Holding, Elephant Lake Ventures via 3 independent primary sources (Defence-Industry.eu, Tech.eu, EU-Startups). Balderton portfolio row already reflects the Series D as participant [^32] with 3 primary citations; also references prior 2025 Series C lead and Extension lead. No changes needed to balderton-capital.md."
 - slug: bond
   type: firm
   reason: "participated in Quantum Systems Series D (€1B / ~$1.2B at ~€7B post-money, 2026-07-02)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Same round verification — BOND participation in Quantum Systems Series D €1B (~$1.2B) on 2026-07-02 confirmed via 3 primary sources (Defence-Industry.eu, Tech.eu, EU-Startups). BOND portfolio row already exists on bond.md with citation [^28]. No changes needed."
 - slug: nea
   type: firm
   reason: "co-led Twelve Labs Series B ($100M with NAVER Ventures, 2026-07-01)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Verified NEA co-led Twelve Labs (TwelveLabs) $100M Series B on 2026-07-01 with NAVER Ventures via 3 independent primary sources (GlobeNewswire origin press release [^28], PYMNTS, Bloomberg). Participants confirmed: Amazon, Radical Ventures, Korea Investment Partners, Index Ventures, Quadrille Capital, Red Bull Ventures. Tiffany Luck (NEA Partner) direct quote verified. NEA portfolio row already reflects the round. Updated last_verified_investment from Corca Seed 2026-06-10 to Twelve Labs Series B 2026-07-01."
 - slug: index-ventures
   type: firm
   reason: "participated in Twelve Labs Series B ($100M co-led by NEA and NAVER Ventures, 2026-07-01)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Same round verification — Index Ventures participation in TwelveLabs $100M Series B on 2026-07-01 (co-led by NEA and NAVER Ventures) confirmed via 3 independent primary sources (GlobeNewswire origin press release [^71], PYMNTS, Bloomberg). Index portfolio row already reflects the round. No changes needed."
 - slug: quantum-systems
   type: startup
   reason: "new startup profile (Series D 2026-07-02, €1B co-led by Blackstone/Noteus/Airbus/Advent, ~€7B post-money)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Verified Quantum Systems Series D €1B (~$1.2B) at ~€7B (~$8B) post-money on 2026-07-02 co-led by Blackstone (David Kaden), Noteus, Airbus (Michael Schoellhorn), Advent (Mike Marshall), with BOND, Fidelity Management & Research Company, Wellington Management, A.P. Moller Holding, Elephant Lake Ventures joining, plus existing shareholders Balderton Capital and HV Capital participating via 4 primary sources in profile (Defence-Industry.eu [^1], Tech.eu [^2], EU-Startups [^3], TechFundingNews [^4]). Currency preserved (€1B primary; $1.2B USD equivalent). Direct quotes verified from Florian Seibel (Co-CEO), Sven Kruck (Co-CEO), David Kaden (Blackstone), Michael Schoellhorn (Airbus DS CEO). Morgan Stanley financial adviser noted. Profile fully accurate — no changes needed."
 - slug: twelve-labs
   type: startup
   reason: "new startup profile (Series B 2026-07-01, $100M co-led by NEA and NAVER Ventures)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Verified TwelveLabs $100M Series B on 2026-07-01 co-led by NEA (Tiffany Luck, Partner) and NAVER Ventures (YJ Park, GP), with Amazon, Radical Ventures, Korea Investment Partners, Index Ventures, Quadrille Capital, Red Bull Ventures participating, via 4 primary sources in profile (GlobeNewswire origin press release [^1], PYMNTS [^2], Bloomberg [^3], TheSaaSNews [^4]). Multi-year AWS Trainium contract confirmed. Direct quotes from Jae Lee (Co-Founder & CEO), Tiffany Luck (NEA), YJ Park (NAVER Ventures), Jason Bennett (AWS) all verified verbatim against sources. New offices planned in New York and London. Profile fully accurate — no changes needed."
 - slug: oxmiq-labs
   type: startup
   reason: "new startup profile (Series A 2026-07-01, $35M co-led by Fundomo and Samsung Catalyst Fund)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: "Verified OXMIQ Labs $35M Series A on 2026-07-01 co-led by Fundomo and Samsung Catalyst Fund, with MediaTek, AM Intelligence Labs, Pegatron Venture Capital, CDIB-TEN, Darwin Ventures, Morgan Creek Digital participating, via 4 primary sources in profile (BusinessWire origin press release [^1], SiliconANGLE [^2], EE Times [^3], Electronics Weekly [^4]). Total capital raised to date confirmed at $60M. Jim Keller (Tenstorrent CEO) joining board of directors alongside existing member Dr. Ker Zhang, and Dr. Valluri (Bob) Rao (retired Intel Fellow) joining as advisor — all confirmed via BusinessWire press release. Founder Raja Koduri (ex-Intel EVP/Chief Architect, ex-AMD). Profile fully accurate — no changes needed."
 - slug: bidscript
   type: startup
   reason: "new startup profile (Pre-Seed follow-on 2026-07-02, £600K led by NPIF II – PXN Equity Finance with SFC Capital)"

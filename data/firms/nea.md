@@ -115,9 +115,9 @@ team:
 type: firm
 website: https://www.nea.com
 last_verified_investment:
-  date: 2026-06-10
-  company: "Corca"
-  round: "Seed (led)"
+  date: 2026-07-01
+  company: "Twelve Labs"
+  round: "Series B (co-led with NAVER Ventures)"
 ---
 
 ## About
