@@ -165586,7 +165586,9 @@ vague_facts:
     ABC Impact, ADM [^1][^2][^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: 'Innovafeed €51M growth round (2026-06-05) is a no-lead all-existing-shareholder round. Verified via 4 independent primary sources: (1) Innovafeed own press release [^4] — names Creadev, QIA, Temasek, FFC, ABC Impact, ADM and "banking partners" as participants with no lead specified, (2) EU-Startups [^1], (3) Aquafeed.com [^2], and (4) AgFunderNews [^3] — none identifies a lead investor. AgFunderNews confirms the round "was backed by existing shareholders". Updated Lead cell from "Undisclosed" to "No lead disclosed (all existing shareholders)"; added Innovafeed own press release [^4] as 4th primary citation. Original currency (EUR) preserved.'
 - profile: startups/inploi
   profile_name: inploi
   company: '2026-04-21'
@@ -165865,7 +165867,9 @@ vague_facts:
     Fund, Sapphire Ventures, Zaffre Investme'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: 'Livongo Health $44.5M Series C (2016-04-12) is a broad-syndicate round with no lead investor named in any primary source. Verified via 3 independent primary sources: (1) FinSMEs company press coverage [^11], (2) Modern Healthcare [^12], and (3) Built In Chicago [^16] — none identifies a lead. Sapphire Ventures own case study confirms it "participated in Livongo Series C fund raise" (non-lead language). Humana added a follow-on strategic investment in May 2016 that brought the total to $49.5M per MedCity News [^17]. Updated Lead cell from "Undisclosed" to "No lead disclosed (broad syndicate)"; added Built In Chicago [^16] as 3rd primary citation and MedCity News [^17] as Humana-follow-on citation. Added clarifying body-text paragraph explaining the syndicate structure.'
 - profile: startups/logicc
   profile_name: Logicc
   company: '2026-04-20'
@@ -166963,7 +166967,9 @@ vague_facts:
     BlackRock, Goldman Sachs, DST Global, ARCH '
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: 'Prometheus $12B Series B (2026-06-11, $41B post-money valuation) is genuinely a no-lead syndicate raise. Verified via 4 independent primary sources: (1) TechCrunch [^4] — "came from Bezos, as well as from JPMorgan Chase, Goldman Sachs, and BlackRock, among others" with no lead named, (2) Tech Funding News [^5] — "backed by JPMorgan Chase, Goldman Sachs, BlackRock, DST Global, and Arch Venture Partners" with no lead identified, (3) Axios [^1] and (4) Yahoo Finance/Benzinga [^2] both confirm the same participants and neither names a lead. Bezos himself participated as continuing backer (he led the prior $6.2B Series A per Benzinga [^2]). Updated Lead cell from "Undisclosed" to "No lead disclosed (syndicate)"; added Bezos to co-investor list (he was named across all sources); added TechCrunch [^4] and Tech Funding News [^5] as 4th/5th primary source citations. Also added clarifying sentence in body text summarizing the syndicate structure.'
 - profile: startups/prometheus
   profile_name: Prometheus
   company: '2025'

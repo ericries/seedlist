@@ -30,9 +30,9 @@ Innovafeed is a Paris-based biotech company producing functional and sustainable
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-05 | Growth | €51M | Undisclosed | Creadev, QIA, Temasek, FFC, ABC Impact, ADM [^1][^2][^3] |
+| 2026-06-05 | Growth | €51M | No lead disclosed (all existing shareholders) | Creadev, QIA, Temasek, FFC, ABC Impact, ADM [^1][^2][^3][^4] |
 
-The 2026 round drew exclusively on participation from existing shareholders together with banking partners; no lead investor was disclosed in the announcement [^2][^3]. Cumulative funding including grants now exceeds $500 million [^3].
+The 2026 round drew exclusively on participation from existing shareholders together with banking partners; no lead investor was disclosed. Verified across four independent primary sources: Innovafeed's own press release [^4], EU-Startups [^1], Aquafeed.com [^2], and AgFunderNews [^3] — none identifies a lead. Cumulative funding including grants now exceeds $500 million [^3].
 
 ## What Investors Say
 
@@ -47,3 +47,4 @@ The 2026 round drew exclusively on participation from existing shareholders toge
 [^1]: EU-Startups, "Paris-based Innovafeed secures €51 million to scale sustainable insect-based ingredients for animal and plant nutrition," June 2026. https://www.eu-startups.com/2026/06/paris-based-innovafeed-secures-e51-million-to-scale-sustainable-insect-based-ingredients-for-animal-and-plant-nutrition/
 [^2]: Aquafeed.com, "Innovafeed enters new growth phase with €51 million funding," June 2026. https://www.aquafeed.com/products/suppliers-news/innovafeed-enters-new-growth-phase-with-51-million-funding/
 [^3]: AgFunderNews, "Innovafeed raises $59m, scales production, cuts R&D headcount as insect ag hits 'industrialization phase,'" June 5, 2026. https://agfundernews.com/innovafeed-raises-59m-scales-production-cuts-rd-headcount-as-insect-ag-hits-industrialization-phase
+[^4]: Innovafeed company press release, "Innovafeed successfully scales up operations and enters a new phase of development backed by a €51 million funding round," June 5, 2026, accessed July 2026. https://innovafeed.com/en/innovafeed-successfully-scales-up-operations-and-enters-a-new-phase-of-development-backed-by-a-e51-million-funding-round/

@@ -61,12 +61,14 @@ On August 5, 2020, Teladoc Health announced a merger with Livongo in a deal valu
 |------|-------|--------|-------------------|--------------|
 | 2014-09-10 | Series A | $10M | General Catalyst | — [^9] |
 | 2015-04-07 | Series B | $20M | Kleiner Perkins | DFJ, General Catalyst [^10] |
-| 2016-04-12 | Series C | $44.5M | Undisclosed | Merck Global Health Innovation Fund, Sapphire Ventures, Zaffre Investments, Cowen Private Investments, Wanxiang America, General Catalyst, Kleiner Perkins, DFJ, 7wire Ventures [^11][^12] |
+| 2016-04-12 | Series C | $44.5M | No lead disclosed (broad syndicate) | Merck Global Health Innovation Fund, Sapphire Ventures, Zaffre Investments, Cowen Private Investments, Wanxiang America, General Catalyst, Kleiner Perkins, DFJ, 7wire Ventures [^11][^12][^16] |
 | 2017-03-16 | Series D | $52.5M | General Catalyst, Kinnevik | EDBI, American Investment Holdings, Microsoft Ventures [^13] |
 | 2018-04-11 | Series E | $105M | General Catalyst, Kinnevik | DFJ, Kleiner Perkins, Merck Global Health Innovation Fund, Microsoft Ventures, Sapphire Ventures, Zaffre Investments, 7wire Ventures, Echo Health Ventures [^3][^14] |
 | 2019-07-25 | IPO | $355M | Morgan Stanley, Goldman Sachs, J.P. Morgan | Nasdaq: LVGO. Priced at $28/share; fully diluted pre-money valuation of $2.8B [^5][^15] |
 
 At IPO, General Catalyst held approximately 25.4% of the company, Kinnevik held 12%, Kleiner Perkins held 8.9%, Merck Global Health Innovation Fund held 7.6%, and 7wire Ventures held 7.1%. Founder Glen Tullman personally held 5.1% [^4][^15].
+
+The April 2016 Series C was structured as a broad syndicate with no lead investor named — verified across three independent primary sources: FinSMEs [^11], Modern Healthcare [^12], and Built In Chicago [^16]. Sapphire Ventures described its own role as having "participated in Livongo's Series C fund raise," further indicating a non-lead position. Humana added a follow-on strategic investment in May 2016 that brought total Series C funding to $49.5M [^17].
 
 ## What Investors Say
 
@@ -97,3 +99,5 @@ At IPO, General Catalyst held approximately 25.4% of the company, Kinnevik held 
 [^13]: PR Newswire, "General Catalyst and Kinnevik Co-Lead a $52.5 Million Investment in Livongo Health," March 16, 2017. https://www.prnewswire.com/news-releases/general-catalyst-and-kinnevik-co-lead-a-525-million-investment-in-livongo-health-300424555.html
 [^14]: MedCity News, "Livongo rakes in $105M, introduces partnership with Cambia Health Solutions," April 11, 2018. https://medcitynews.com/2018/04/livongo-105m-cambia/
 [^15]: Kinnevik, "Pricing of Livongo's IPO," July 2019. https://www.kinnevik.com/investor-relations/press-releases/2019/pricing-of-livongos-ipo/
+[^16]: Built In Chicago, "Livongo raises $44M to help patients live better with diabetes," April 12, 2016, accessed July 2026. https://www.builtinchicago.org/articles/livongo-raise-44m-health-tech-diabetes
+[^17]: MedCity News, "Livongo adds Humana as strategic investor, bringing Series C round to $49.5M," May 10, 2016, accessed July 2026. https://medcitynews.com/2016/05/livongo-adds-humana-strategic-investor/
