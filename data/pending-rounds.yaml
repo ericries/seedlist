@@ -80,6 +80,14 @@ pending_rounds:
   parsed_amount: $800M
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/1/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-1-2026/
+  source: alleywatch
+  date_found: '2026-07-01'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: INMerge Innovation Summit concludes its international event series with INMerge
     Berlin (Sponsored)
   url: https://www.eu-startups.com/2026/06/inmerge-innovation-summit-concludes-its-international-event-series-with-inmerge-berlin-sponsored/
@@ -832,13 +840,5 @@ pending_rounds:
   date_found: '2026-06-23'
   parsed_company: After betting the firm on Anthropic, Menlo Ventures
   parsed_amount: $3B
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/23/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-23-2026/
-  source: alleywatch
-  date_found: '2026-06-23'
-  parsed_company: null
-  parsed_amount: null
   parsed_round: null
   status: pending
