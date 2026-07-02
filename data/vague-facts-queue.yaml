@@ -164507,7 +164507,9 @@ vague_facts:
     Horowitz [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: 'Verified Databricks Series C on 2026-12-15 (was "Dec 2016") — $60M led by NEA with Andreessen Horowitz as existing co-investor via 3 primary sources (Databricks press release [^8], TechCrunch [^23], SiliconANGLE [^24]). Valuation NOT publicly disclosed at time of announcement; updated column from "N/A" to "Not disclosed". Total funding to date brought to $107.5M. Added TechCrunch and SiliconANGLE as new citations [^23][^24].'
 - profile: startups/databricks
   profile_name: Databricks
   company: Series D
@@ -164528,7 +164530,9 @@ vague_facts:
   line: '| Series I | Sep 2023 | $500M | $43B | N/A | N/A [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: 'Verified Databricks Series I on 2023-09-14 (was "Sep 2023") — $500M+ at $43B valuation, PPS $73.50, led by T. Rowe Price via 3 primary sources (Databricks press release [^14], TechCrunch [^25], Forbes [^26]). Named participants: NEW investors — Capital One Ventures, Ghisallo Capital, Ontario Teachers Pension Plan, NVIDIA (strategic); EXISTING — Andreessen Horowitz, Baillie Gifford, ClearBridge, Counterpoint Global (Morgan Stanley), Fidelity, Franklin Templeton, GIC, Octahedron Capital, Tiger Global. Added TechCrunch and Forbes as new citations [^25][^26]. Updated table row lead investor from "N/A" to "T. Rowe Price" and populated co-investors from press release.'
 - profile: startups/databricks
   profile_name: Databricks
   company: Series K
@@ -164538,7 +164542,9 @@ vague_facts:
   line: '| Series K | Aug 2025 | $1B | $100B+ | N/A | N/A [^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: 'Verified Databricks Series K closing on 2025-09-08 (was "Aug 2025" — term sheet signed 2025-08-19, closed Sept 8, 2025) — $1B equity at $100B+ valuation, co-led by Andreessen Horowitz, Insight Partners, MGX, Thrive Capital, and WCM Investment Management via 3 primary sources (Databricks press release [^16], TheSaaSNews [^27], Tech Company News [^28]). Round was "oversubscribed, drawing exclusively from existing strategic investors" — no new investors named. Represents 61 percent valuation increase from $62B Series J (2024-12-17), bringing total equity funding to ~$15B across 14 rounds. Added TheSaaSNews and Tech Company News as citations [^27][^28]. Updated table row date from "Aug 2025" to "2025-09-08" and lead from "N/A" to five co-leads.'
 - profile: startups/decade-energy
   profile_name: Decade Energy
   company: '2024'

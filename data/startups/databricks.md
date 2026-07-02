@@ -136,15 +136,15 @@ Databricks was founded in 2013 by seven UC Berkeley researchers: Ali Ghodsi, Ion
 |-------|------|--------|-----------|---------------|------------------|
 | Series A | Sep 2013 | $13.9M | N/A | Andreessen Horowitz | N/A [^6] |
 | Series B | 2014-06-30 | $33M | N/A | New Enterprise Associates (NEA) | Andreessen Horowitz [^7][^21][^22] |
-| Series C | Dec 2016 | $60M | N/A | New Enterprise Associates (NEA) | Andreessen Horowitz [^8] |
+| Series C | 2016-12-15 | $60M | Not disclosed | New Enterprise Associates (NEA) | Andreessen Horowitz [^8][^23][^24] |
 | Series D | Aug 2017 | $140M | N/A | Andreessen Horowitz | NEA, Battery Ventures [^9] |
 | Series E | Feb 2019 | $250M | $2.75B | Andreessen Horowitz | Coatue Management, Microsoft, NEA, Battery Ventures, Green Bay Ventures, Geodesic [^10] |
 | Series F | Oct 2019 | $400M | $6.2B | Andreessen Horowitz | Alkeon Capital, BlackRock, Coatue, Dragoneer, Geodesic, Green Bay Ventures, Microsoft, NEA, T. Rowe Price, Tiger Global [^11] |
 | Series G | Feb 2021 | $1B | $28B | Franklin Templeton | CPP Investments, Fidelity, Whale Rock, AWS, CapitalG, Salesforce Ventures, Microsoft, Andreessen Horowitz, BlackRock, Coatue, T. Rowe Price, Tiger Global [^12] |
 | Series H | Aug 2021 | $1.6B | $38B | Morgan Stanley (Counterpoint Global) | Baillie Gifford, ClearBridge, UC Investments, Andreessen Horowitz, BlackRock, CPP Investments, Coatue, Fidelity, Franklin Templeton, GIC, T. Rowe Price [^13] |
-| Series I | Sep 2023 | $500M | $43B | N/A | N/A [^14] |
+| Series I | 2023-09-14 | $500M+ | $43B | T. Rowe Price | Capital One Ventures, Ghisallo Capital, Ontario Teachers' Pension Plan, NVIDIA (new); Andreessen Horowitz, Baillie Gifford, ClearBridge, Counterpoint Global (Morgan Stanley), Fidelity, Franklin Templeton, GIC, Octahedron Capital, Tiger Global (existing) [^14][^25][^26] |
 | Series J | 2024-12-17 | $10B | $62B | Thrive Capital | Andreessen Horowitz, DST Global, GIC, Insight Partners, WCM Investment Management, Ontario Teachers' Pension Plan, ICONIQ Growth, MGX, Sands Capital, Wellington Management [^15][^19][^20] |
-| Series K | Aug 2025 | $1B | $100B+ | N/A | N/A [^16] |
+| Series K | 2025-09-08 | $1B | $100B+ | Andreessen Horowitz, Insight Partners, MGX, Thrive Capital, WCM Investment Management (co-leads) | Existing strategic investors [^16][^27][^28] |
 | Series L | Dec 2025 | $4B+ | $134B | Insight Partners, Fidelity, J.P. Morgan Asset Management | Andreessen Horowitz, BlackRock, Blackstone, Coatue, GIC, MGX, NEA, Ontario Teachers' Pension Plan, Robinhood Ventures, T. Rowe Price, Temasek, Thrive Capital [^17] |
 
 ## What Investors Say
@@ -188,3 +188,15 @@ Ben Horowitz has also spoken about co-founder Matei Zaharia, calling him one of 
 [^21]: Databricks blog, "Databricks Unveils Apache Spark-Based Cloud Platform; Announces Series B Funding," June 30, 2014, accessed May 2026. https://www.databricks.com/blog/2014/06/30/databricks-unveils-spark-based-cloud-platform.html — Company's own announcement confirming the $33M Series B led by NEA with Andreessen Horowitz follow-on, dated June 30, 2014.
 
 [^22]: TechCrunch, "Databricks Snags $33M In Series B And Debuts Cloud Platform For Processing Big Data," June 30, 2014, accessed May 2026. https://techcrunch.com/2014/06/30/databricks-snags-33m-in-series-b-and-debuts-cloud-platform-for-processing-big-data/ — Contemporaneous press confirming $33M Series B led by NEA with Andreessen Horowitz participation, on June 30, 2014.
+
+[^23]: TechCrunch, "Databricks raises $60 million to be big data's next great leap forward," December 15, 2016, accessed July 2026. https://techcrunch.com/2016/12/15/databricks-raises-60-million-to-be-big-datas-next-great-leap-forward/ — Contemporaneous press confirming $60M Series C led by NEA with Andreessen Horowitz on December 15, 2016.
+
+[^24]: SiliconANGLE, "Big Data software startup Databricks pockets $60 million in Series C funding," December 15, 2016, accessed July 2026. https://siliconangle.com/2016/12/15/databricks-pockets-60-million-series-c-funding-round/ — Contemporaneous press confirming December 15, 2016 date, $60M raise, NEA lead, Andreessen Horowitz participation, and total funding to date of $107.5M.
+
+[^25]: TechCrunch, "Databricks raises $500M more, boosting valuation to $43B despite late-stage gloom," September 14, 2023, accessed July 2026. https://techcrunch.com/2023/09/14/databricks-raises-500m-more-boosting-valuation-to-43b-despite-late-stage-gloom/ — Contemporaneous press confirming September 14, 2023 announcement of $500M+ Series I at $43B valuation with T. Rowe Price, NVIDIA, Capital One, a16z, Tiger Global among participants.
+
+[^26]: Forbes, "Top IPO Prospect Databricks Scores $43 Billion Valuation Thanks To $500 Million Funding Round Including AI Titan Nvidia," September 14, 2023, accessed July 2026. https://www.forbes.com/sites/dereksaul/2023/09/14/top-ipo-prospect-databricks-scores-43-billion-valuation-thanks-to-500-million-funding-round-including-ai-titan-nvidia/ — Contemporaneous press confirming T. Rowe Price as lead investor, $500M raise, $43B valuation, new investors NVIDIA and Capital One, existing investors a16z and Tiger Global.
+
+[^27]: The SaaS News, "Databricks Raises $1B Series K at $100B+ Valuation," September 2025, accessed July 2026. https://www.thesaasnews.com/news/databricks-raises-1b-series-k-at-100b-valuation/ — Contemporaneous press confirming $1B Series K co-led by Andreessen Horowitz, Insight Partners, MGX, Thrive Capital, and WCM Investment Management at >$100B valuation.
+
+[^28]: Tech Company News, "Databricks Raises $1 Billion In Series K Funding Round," September 2025, accessed July 2026. https://www.techcompanynews.com/databricks-raises-1-billion-in-series-k-funding-round/ — Contemporaneous press confirming Series K closing on September 8, 2025 at $1B equity with a16z, Insight Partners, MGX, Thrive Capital, and WCM Investment Management as lead investors, following August 19, 2025 term sheet.
