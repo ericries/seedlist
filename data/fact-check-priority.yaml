@@ -2243,6 +2243,9 @@ priority:
   type: startup
   reason: New profile for $21M Series A (2026-06-23, Engine Ventures/2150 co-led)
   added: '2026-06-23'
+  status: resolved
+  resolved: '2026-07-01'
+  resolution_note: 'Verified Superlight $21M oversubscribed Series A on 2026-06-22 (CORRECTED from 2026-06-23 — the BusinessWire primary press release and Axios Pro Rata exclusive are both dated 2026-06-22; PR Newswire distribution was 2026-06-23) co-led by Engine Ventures and 2150 with participation from Avila Ventures, via 5 independent primary sources (FinSMEs [^1], citybiz [^2], EVSHIFT [^3], BusinessWire primary press release [^4] newly added, Pulse 2.0 [^5] newly added). Corrected date in Funding History table. Added Israel Ruiz (Engine Ventures President and General Partner) investor quote and Noamaan Siddiqi (Co-Founder & CEO) founder quote both from BusinessWire press release. Total funding $33M. Engine Ventures, 2150, and Avila Ventures firm profiles do not yet exist.'
 - slug: spark-capital
   type: firm
   status: resolved
@@ -2296,10 +2299,16 @@ priority:
   type: startup
   reason: "Series D 2026-06-23 — corrected investor list (alexis-ohanian was not a participant; lead is Fifth Down Capital)"
   added: 2026-06-23
+  status: resolved
+  resolved: '2026-07-01'
+  resolution_note: 'Verified Peregrine Technologies $250M Series D at $6.8B post-money valuation on 2026-06-22 (CORRECTED from 2026-06-23 — both Fortune exclusive and the company own press release page peregrine.io are dated 2026-06-22; PR Newswire distribution was 2026-06-23) led by Fifth Down Capital with participation from existing investors Sequoia Capital, OG Venture Partners, Goldcrest Capital, XYZ Ventures, and Godfrey Capital, via 4 independent primary sources (PR Newswire company press release [^1], Peregrine own press release page [^3] newly added, Fortune exclusive by Polina Marinova Pompliano/Jessica Mathews [^4] newly added, plus prior Series C Sequoia announcement [^2]). Corrected date in Funding History table and in sequoia-capital.md portfolio row. Added Andy Spellman (Fifth Down Capital Founder & CEO) investor quote and Ben Rudolph (Co-Founder & CTO) founder quote in addition to existing Nick Noone quote. Added valuation column to funding history table. Note: nearly 3x valuation increase from $2.5B (April 2025 Series C) to $6.8B in 15 months. Fifth Down Capital firm profile does not yet exist.'
 - slug: ploy
   type: startup
   reason: "new profile: $27M Seed 2026-06-17, led by First Round Capital with Y Combinator"
   added: 2026-06-23
+  status: resolved
+  resolved: '2026-07-01'
+  resolution_note: 'Verified Ploy $27M seed on 2026-06-17 led by First Round Capital with Y Combinator participating, via 4 independent primary sources (Yahoo Finance [^1], Dealroom [^2], The SaaS News [^3], PR Newswire company press release [^4] newly added). Added PR Newswire as 4th primary citation and two founder quotes from Bryant Chou (Founder & CEO, ex-Webflow CTO) pulled from the company press release. No named angel investors verifiable — Digg article showed Josh Kopelman, Sherwin Wu, Robert Scoble, Garry Tan, and Paul Graham as social commenters/endorsers only, not confirmed investors; leaving out per anti-hallucination rule. First Round Capital and Y Combinator firm profiles both already list Ploy in their portfolios with matching citations.'
 - slug: probook
   type: startup
   reason: "new profile: $40M total ($34M Series A by a16z + $6M Seed by Sequoia) 2026-06-23"

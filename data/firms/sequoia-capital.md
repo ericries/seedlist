@@ -237,7 +237,7 @@ The following table includes Sequoia Capital investments verified through the fi
 | Cyera | Growth (participated, $300M at $12B post-money; Evolution Equity Partners led) | 2026-06-02 | Cybersecurity / Data Security Posture Management | Private [^76][^77][^78] |
 | Mach Industries | Series C (existing investor, $300M at $1.8B post-money; Infinite Capital and Ribbit Capital led) | 2026-06-02 | Defense Tech / Hardware | Private [^79][^80][^81] |
 | Sandstone | Seed (led, $10M) | 2026-01-13 | AI / Legal Tech | Private [^82][^83][^84] |
-| Peregrine Technologies | Series C (led, $190M) → Series D (participated, $250M at $6.8B val; Fifth Down Capital led) | 2024; 2026-06-23 | GovTech / Public Safety / Data | Private [^85][^86][^87] |
+| Peregrine Technologies | Series C (led, $190M) → Series D (participated, $250M at $6.8B val; Fifth Down Capital led) | 2024; 2026-06-22 | GovTech / Public Safety / Data | Private [^85][^86][^87] |
 | Probook | Seed (led, $6M) → Series A (participated, $34M; Andreessen Horowitz led) | 2026-06-23 | AI / Vertical SaaS / Home Services | Private [^88][^89][^90] |
 | Stark Defence | Series C (co-led with Founders Fund, €500M at €3.5B+ post-money) | 2026-06-23 | Defense Tech / Drones / Loitering Munitions | Private [^91][^92][^93] |
 
