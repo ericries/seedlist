@@ -8587,7 +8587,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 25,
+      "size": 26,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8709,6 +8709,11 @@
         {
           "slug": "mohit-gupta",
           "name": "Mohit Gupta"
+        },
+        {
+          "slug": "ryan-hudson",
+          "name": "Ryan Hudson",
+          "firm": "independent"
         }
       ]
     },
@@ -9557,7 +9562,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 128,
+      "size": 129,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10134,6 +10139,11 @@
         {
           "slug": "tikhon-bernstam",
           "name": "Tikhon Bernstam",
+          "firm": "independent"
+        },
+        {
+          "slug": "ryan-hudson",
+          "name": "Ryan Hudson",
           "firm": "independent"
         }
       ]
