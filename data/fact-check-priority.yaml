@@ -2819,3 +2819,35 @@ priority:
   status: resolved
   resolved: 2026-07-01
   resolution_note: "Same round as adjacent general-catalyst entry — Emergence Capital participation in Together AI Series C ($800M at $8.3B post-money, 2026-07-01, Aramco Ventures led) re-verified via 4 independent primary sources (TechCrunch [^17], Yahoo Finance PR syndication [^18], Itemonline PR syndication [^19], BusinessWire origin press release [^4] on together-ai.md). Emergence portfolio row [^17][^18][^19] on emergence-capital.md remains fully accurate. Joe Floyd (Emergence GP) direct quote about open-source shift verified against sources."
+- slug: balderton-capital
+  type: firm
+  reason: "participated in Quantum Systems Series D (€1B / ~$1.2B at ~€7B post-money, 2026-07-02)"
+  added: 2026-07-02
+- slug: bond
+  type: firm
+  reason: "participated in Quantum Systems Series D (€1B / ~$1.2B at ~€7B post-money, 2026-07-02)"
+  added: 2026-07-02
+- slug: nea
+  type: firm
+  reason: "co-led Twelve Labs Series B ($100M with NAVER Ventures, 2026-07-01)"
+  added: 2026-07-02
+- slug: index-ventures
+  type: firm
+  reason: "participated in Twelve Labs Series B ($100M co-led by NEA and NAVER Ventures, 2026-07-01)"
+  added: 2026-07-02
+- slug: quantum-systems
+  type: startup
+  reason: "new startup profile (Series D 2026-07-02, €1B co-led by Blackstone/Noteus/Airbus/Advent, ~€7B post-money)"
+  added: 2026-07-02
+- slug: twelve-labs
+  type: startup
+  reason: "new startup profile (Series B 2026-07-01, $100M co-led by NEA and NAVER Ventures)"
+  added: 2026-07-02
+- slug: oxmiq-labs
+  type: startup
+  reason: "new startup profile (Series A 2026-07-01, $35M co-led by Fundomo and Samsung Catalyst Fund)"
+  added: 2026-07-02
+- slug: bidscript
+  type: startup
+  reason: "new startup profile (Pre-Seed follow-on 2026-07-02, £600K led by NPIF II – PXN Equity Finance with SFC Capital)"
+  added: 2026-07-02

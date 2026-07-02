@@ -178,6 +178,7 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 | Golden Analytics | Seed (co-led, $7M) | 2026-04-07 | AI/Business Intelligence | Active [^21] |
 | Golden Analytics | Seed Extension ($14M, Insight Partners led) | 2026-06-09 | AI/Business Intelligence | Active (re-upped as existing investor) [^22][^23][^24] |
 | Corca | Seed (led, $7.8M) | 2026-06-10 | AI/Scientific Computing | Active [^25][^26][^27] |
+| Twelve Labs | Series B (co-led, $100M with NAVER Ventures) | 2026-07-01 | AI/Video Foundation Models | Active [^28] |
 
 *This table represents a very small fraction of NEA's portfolio. The firm has participated in 284+ IPOs and 500+ acquisitions over its 48-year history [^4][^5].*
 
@@ -233,3 +234,5 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^26]: Tech Startups, "Corca raises $7.8M to build an AI-powered 'Cursor for math' and replace decades-old workflows," June 10, 2026. Independently confirms NEA-led $7.8M round, Bloomberg Beta, Daft Capital, NVentures participating, founders Anton Gladkoborodov and Oleg Shevlyagin. Accessed June 13, 2026. https://techstartups.com/2026/06/10/corca-raises-7-8m-to-build-an-ai-powered-cursor-for-math-and-replace-decades-old-workflows/
 
 [^27]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/11/2026," June 11, 2026. Third independent source confirming $7.8M venture funding led by NEA with Bloomberg Beta, Daft Capital, NVentures. Accessed June 13, 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/
+
+[^28]: GlobeNewswire (origin press release), "TwelveLabs Raises $100 Million in Series B Funding to Build Video Superintelligence," July 1, 2026. Accessed July 2026. https://www.globenewswire.com/news-release/2026/07/01/3320545/0/en/twelvelabs-raises-100-million-in-series-b-funding-to-build-video-superintelligence.html — Confirms $100M Series B co-led by NEA and NAVER Ventures with participation from Amazon, Radical Ventures, Korea Investment Partners, Index Ventures, Quadrille Capital and Red Bull Ventures. Tiffany Luck (NEA Partner) quoted. Cross-referenced with PYMNTS, "Twelve Labs Raises $100 Million," July 1, 2026. https://www.pymnts.com/news/investment-tracker/2026/twelve-labs-raises-100-million-to-fund-bet-on-video-ai/ and Bloomberg, "AI Video Search Startup Raises $100 Million," July 1, 2026. https://www.bloomberg.com/news/articles/2026-07-01/video-search-startup-raises-100-million-from-amazon-vc-funds

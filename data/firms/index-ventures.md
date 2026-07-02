@@ -154,6 +154,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Conduct | Series A (co-led with ICONIQ, $60M; SAP strategic; Creandum, Lucid Capital, Booom participated) | 2026-06-17 | AI / Enterprise Operating System / SAP | [^61][^62][^63] |
 | Fomo | Series B (led, $75M at ~$550M val) | 2026-06-22 | Fintech / Crypto / Consumer Trading | [^64][^65][^66][^67] |
 | Build | Seed (led, $8.5M) | 2026-06-30 | AI / Proptech / Agentic Real Estate | [^68][^69][^70] |
+| Twelve Labs | Series B (participated, $100M; NEA and NAVER Ventures co-led) | 2026-07-01 | AI / Video Foundation Models | [^71] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -278,4 +279,6 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^69]: Tech Funding News, "Index Ventures backs a Harvard dropout architect with $8.5M to automate due diligence," June 30, 2026. Accessed June 2026. https://techfundingnews.com/build-8-5m-index-ventures-ai-infrastructure-due-diligence/ — Independent confirmation of $8.5M Seed led by Index Ventures. Founded 2024 by James Stirrat-Ellis and Ben McClusky; NY-based; 100+ projects across 15 countries including Tishman Speyer.
 
 [^70]: SiliconANGLE, "Build raises $8.5M to accelerate industrial infrastructure development project work," June 30, 2026. Accessed June 2026. https://siliconangle.com/2026/06/30/build-raises-8-5m-accelerate-industrial-infrastructure-development-project-work/ — Third independent confirmation that Index Ventures led Build's $8.5M Seed on June 30, 2026; co-investors Pebblebed, Puzzle Ventures, Tiny.vc; angels include Sarah Friar (OpenAI CFO) and John Stecher (Blackstone CTO).
+
+[^71]: GlobeNewswire (origin press release), "TwelveLabs Raises $100 Million in Series B Funding to Build Video Superintelligence," July 1, 2026. Accessed July 2026. https://www.globenewswire.com/news-release/2026/07/01/3320545/0/en/twelvelabs-raises-100-million-in-series-b-funding-to-build-video-superintelligence.html — Confirms Index Ventures participation in Twelve Labs' $100M Series B co-led by NEA and NAVER Ventures on July 1, 2026, with Amazon, Radical Ventures, Korea Investment Partners, Quadrille Capital and Red Bull Ventures also participating. Cross-referenced with PYMNTS, "Twelve Labs Raises $100 Million," July 1, 2026. https://www.pymnts.com/news/investment-tracker/2026/twelve-labs-raises-100-million-to-fund-bet-on-video-ai/ and Bloomberg, "AI Video Search Startup Raises $100 Million," July 1, 2026. https://www.bloomberg.com/news/articles/2026-07-01/video-search-startup-raises-100-million-from-amazon-vc-funds
 
