@@ -1,28 +1,43 @@
 ---
-name: "Twelve Labs"
-slug: twelve-labs
-type: startup
-website: "https://www.twelvelabs.io"
-location: "San Francisco, CA"
-founded: 2021
-status_company: active
-sector: [ai, video-ai, foundation-models, developer-tools, enterprise]
-stage_latest: "Series B"
-total_raised: "$207M+"
 firms:
-  - slug: nea
-    round: series-b
-    year: 2026
-    date: 2026-07-01
-  - slug: index-ventures
-    round: series-b
-    year: 2026
-    date: 2026-07-01
+- date: 2026-07-01
+  round: series-b
+  slug: nea
+  year: 2026
+- date: 2026-07-01
+  round: series-b
+  slug: index-ventures
+  year: 2026
+- round: Seed
+  slug: expa
+  year: 2021
+founded: 2021
 founders:
-  - name: "Jae Lee"
-    role: "Co-Founder & CEO"
-status: published
+- name: Jae Lee
+  role: Co-Founder & CEO
+investors:
+- round: Early
+  slug: shardul-shah
+  year: 2023
+- round: Seed
+  slug: garrett-camp
+  year: 2021
 last_researched: 2026-07-02
+location: San Francisco, CA
+name: Twelve Labs
+sector:
+- ai
+- video-ai
+- foundation-models
+- developer-tools
+- enterprise
+slug: twelve-labs
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $207M+
+type: startup
+website: https://www.twelvelabs.io
 ---
 
 ## About

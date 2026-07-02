@@ -1,30 +1,43 @@
 ---
-name: "Quantum Systems"
-slug: quantum-systems
-type: startup
-website: "https://www.quantum-systems.com"
-location: "Gilching (Munich), Germany"
-founded: 2015
-status_company: active
-sector: [defence-tech, autonomous-systems, drones, aerospace, ai, hardware]
-stage_latest: "Series D"
-total_raised: "€1.3B+"
 firms:
-  - slug: balderton-capital
-    round: series-d
-    year: 2026
-    date: 2026-07-02
-  - slug: bond
-    round: series-d
-    year: 2026
-    date: 2026-07-02
+- date: 2026-07-02
+  round: series-d
+  slug: balderton-capital
+  year: 2026
+- date: 2026-07-02
+  round: series-d
+  slug: bond
+  year: 2026
+founded: 2015
 founders:
-  - name: "Florian Seibel"
-    role: "Co-Founder & Co-CEO"
-  - name: "Sven Kruck"
-    role: "Co-CEO"
-status: published
+- name: Florian Seibel
+  role: Co-Founder & Co-CEO
+- name: Sven Kruck
+  role: Co-CEO
+investors:
+- round: Series C
+  slug: rana-yared
+  year: 2025
+- round: Series C
+  slug: james-wise
+  year: 2025
 last_researched: 2026-07-02
+location: Gilching (Munich), Germany
+name: Quantum Systems
+sector:
+- defence-tech
+- autonomous-systems
+- drones
+- aerospace
+- ai
+- hardware
+slug: quantum-systems
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: €1.3B+
+type: startup
+website: https://www.quantum-systems.com
 ---
 
 ## About

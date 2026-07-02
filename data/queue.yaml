@@ -21053,7 +21053,7 @@ queue:
 - name: Ashish Kacholia
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: wingreens-farms
 - name: Alchemy Fund
@@ -23818,7 +23818,7 @@ queue:
 - name: Ryan Hudson
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Honey
   discovered_from: george-ruan
@@ -34555,3 +34555,98 @@ queue:
   added: '2026-03-17'
   firm: Together AI
   discovered_from: together-ai
+- name: Batch
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-hudson
+  source: QR-code one-tap checkout; $5M seed June 2021 co-led by Coatue and Seven
+    Seven Six; Ryan Hudson angel investor
+- name: Pogo
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-hudson
+  source: '''Honey for the real world'' real-world cash-back app; $12.3M seed July
+    2022 led by Buckley Ventures; Honey founders + The Chainsmokers, MrBeast, Sophia
+    Amoruso, Lenny Rachitsky as angels'
+- name: Protagonist
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-hudson
+  source: Backer of ZeroClick $55M round (2025)
+- name: Anfa
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-hudson
+  source: Backer of ZeroClick $55M round (2025)
+- name: Wonder Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-hudson
+  source: Backer of ZeroClick $55M round (2025); LA-based seed fund
+- name: Night Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-hudson
+  source: MrBeast's investment vehicle; angel in Pogo seed (2022)
+- name: Shrug Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-hudson
+  source: Participated in Batch seed (2021) and Pogo (2022)
+- name: Lucky Investment Managers
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashish-kacholia
+  source: Ashish Kacholia's proprietary investment vehicle; smallcap/midcap Indian
+    public-markets focus
+- name: Bengal Finance & Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ashish-kacholia
+  source: Kacholia's second investment vehicle; PE firm founded 1997 (Mumbai); 11-company
+    portfolio, 6 IPO exits per Tracxn
+- name: Vijay Kedia
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Kedia Securities
+  discovered_from: ashish-kacholia
+  source: Indian superstar smallcap investor; frequent co-holder alongside Kacholia
+    (TradeBrains coverage)
+- name: Mukul Agrawal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Param Capital Research
+  discovered_from: ashish-kacholia
+  source: Indian superstar investor; frequently compared/tracked alongside Kacholia
+    (TradeBrains coverage)
+- name: Basant Maheshwari
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Basant Maheshwari Wealth Advisers
+  discovered_from: ashish-kacholia
+  source: Indian smallcap value investor referenced alongside Kacholia in Indian investor
+    rankings

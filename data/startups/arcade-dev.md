@@ -1,9 +1,18 @@
 ---
 firms:
-- round: Seed
+- date: 2025-03-18
+  round: Seed
   slug: hanabi-capital
   year: 2025
-  date: 2025-03-18
+- round: Seed ($12M, led by Laude Ventures)
+  slug: index-ventures
+  year: 2025
+- round: Funding
+  slug: inspired-capital
+  year: 2025
+- round: Seed ($12M, led by Laude Ventures)
+  slug: benchmark
+  year: 2025
 founded: 2024
 founders:
 - name: Alex Salazar
@@ -11,14 +20,17 @@ founders:
 - name: Sam Partee
   role: CTO & Co-Founder
 investors:
-- round: Seed
+- date: 2025-03-18
+  round: Seed
   slug: mike-volpi
   year: 2025
-  date: 2025-03-18
-- round: Seed
+- date: 2025-03-18
+  round: Seed
   slug: andy-rachleff
   year: 2025
-  date: 2025-03-18
+- round: Funding
+  slug: alexa-von-tobel
+  year: 2025
 last_researched: 2026-07-01
 location: United States
 name: Arcade
