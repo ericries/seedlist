@@ -34650,3 +34650,124 @@ queue:
   discovered_from: ashish-kacholia
   source: Indian smallcap value investor referenced alongside Kacholia in Indian investor
     rankings
+- name: Atinum Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: linqalpha
+  source: co-lead LinqAlpha $22M Series A (2026-07-02)
+- name: GFT Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: linqalpha
+  source: co-lead LinqAlpha $22M Series A (2026-07-02)
+- name: Z Venture Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: linqalpha
+  source: participant LinqAlpha Series A (2026-07-02)
+- name: Betatron Venture Group
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: linqalpha
+  source: participant LinqAlpha Series A (2026-07-02)
+- name: East Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: linqalpha
+  source: participant LinqAlpha Series A (2026-07-02)
+- name: SV Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carbonsix
+  source: participant CarbonSix Series A (2026-07-01); also LinqAlpha
+- name: DSC Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carbonsix
+  source: co-lead CarbonSix $40M Series A (2026-07-01)
+- name: LB Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carbonsix
+  source: co-lead CarbonSix $40M Series A (2026-07-01)
+- name: IMM Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carbonsix
+  source: participant CarbonSix Series A (2026-07-01)
+- name: Korea Development Bank
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carbonsix
+  source: participant CarbonSix Series A (2026-07-01)
+- name: Foothill Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carbonsix
+  source: existing seed investor CarbonSix Series A (2026-07-01)
+- name: Storm Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carbonsix
+  source: existing seed investor CarbonSix Series A (2026-07-01)
+- name: Zeitgeist Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carbonsix
+  source: existing seed investor CarbonSix Series A (2026-07-01)
+- name: CPP Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: beeline-medicines
+  source: participant Beeline Medicines Series A Extension (2026-06-30)
+- name: Bristol Myers Squibb
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: beeline-medicines
+  source: participant Beeline Medicines Series A Extension (2026-06-30)
+- name: Hojun Choi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: LinqAlpha
+  discovered_from: linqalpha
+  source: Co-Founder & Co-CEO, LinqAlpha (LinqAlpha is un-profiled firm)
+- name: Jacob Choi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: LinqAlpha
+  discovered_from: linqalpha
+  source: Co-Founder, LinqAlpha
