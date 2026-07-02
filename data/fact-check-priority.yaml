@@ -447,6 +447,9 @@ priority:
   type: firm
   reason: co-led Observable Space Series A (2026-05-28)
   added: 2026-05-30
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: 'Verified Observable Space $90M Series A on 2026-05-28 led by Lux Capital with RTX Ventures, Upfront Ventures, Detroit Venture Partners, and Island Green Capital as co-leads, plus BRV Capital, Fathom Fund, and Venrex participating, via 3 independent primary sources already in observable-space.md (Observable Space press release [^1], Washington Technology [^2], Payload [^3]). RTX Ventures firm profile does not yet exist in data/firms/ — cannot add portfolio row. Added Shahin Farshchi (Lux Capital Partner) investor quote to observable-space.md "What Investors Say" section from Observable Space press release. RTX Ventures should remain queued as new firm research lead.'
 - slug: radical-ventures
   type: firm
   reason: co-led Inherent $50M seed (2026-05-28)
@@ -465,10 +468,16 @@ priority:
   type: firm
   reason: co-led Kopa.ai €2M seed (2026-05-28)
   added: 2026-05-29
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: 'Verified Kopa.ai €2M seed on 2026-05-28 co-led by XTX Ventures (venture arm of XTX Markets) and Practica Capital, with Inovia Capital and angel Etan Ilfeld (Remagine Ventures partner) participating, via 4 independent primary sources (Tech.eu [^1], EU-Startups [^2], ArcticStartup [^3], The SaaS News [^4]). Added The SaaS News as 4th citation. Added Donatas Benaitis (Co-Founder) founder quote from Tech.eu to kopa-ai.md "What Founders Say". XTX Ventures firm profile does not yet exist in data/firms/. Should remain queued as new firm research lead.'
 - slug: practica-capital
   type: firm
   reason: co-led Kopa.ai €2M seed (2026-05-28)
   added: 2026-05-29
+  status: resolved
+  resolved: 2026-07-02
+  resolution_note: 'Same round verification — Kopa.ai €2M seed on 2026-05-28 co-led by XTX Ventures and Vilnius-based Practica Capital, with Inovia Capital and Etan Ilfeld participating, via 4 independent primary sources (Tech.eu [^1], EU-Startups [^2], ArcticStartup [^3], The SaaS News [^4]). Practica Capital firm profile does not yet exist in data/firms/. Should remain queued as new firm research lead.'
 - slug: headline
   type: firm
   reason: led Fonoa $110M Series C (2026-05-28)

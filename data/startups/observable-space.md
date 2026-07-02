@@ -39,7 +39,9 @@ Observable Space is a Los Angeles-based vertically integrated space-domain-aware
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+> "Observable Space is leading the race to capture light – to see, navigate, and communicate from space to ground."
+>
+> — Shahin Farshchi, Partner, Lux Capital [^1]
 
 ## What Founders Say
 

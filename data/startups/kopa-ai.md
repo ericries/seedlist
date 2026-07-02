@@ -35,7 +35,7 @@ Kopa.ai is a Vilnius-based agentic-AI operating system for e-commerce teams, fou
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-28 | Seed | €2M | XTX Ventures, Practica Capital | Inovia Capital, Etan Ilfeld [^1][^2][^3] |
+| 2026-05-28 | Seed | €2M | XTX Ventures, Practica Capital | Inovia Capital, Etan Ilfeld [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -43,10 +43,13 @@ No independently sourced investor quotes found at this time.
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+> "We're building Kopa.ai to feel like handing work to your best expert - someone who understands what you're trying to achieve from just a few words, makes smart decisions on your behalf, and delivers results that are often even better than you imagined."
+>
+> — Donatas Benaitis, Co-Founder, Kopa.ai [^1]
 
 ## Sources
 
 [^1]: Tech.eu, "Kopa.ai raises €2M to build AI agents for end-to-end e-commerce operations," May 28, 2026. Accessed May 2026. https://tech.eu/2026/05/28/kopaai-raises-eur2m-to-build-ai-agents-for-end-to-end-e-commerce-operations/
 [^2]: EU-Startups, "Lithuania's Kopa.ai raises €2 million to scale its agentic AI co-pilot for e-commerce teams," May 28, 2026. Accessed May 2026. https://www.eu-startups.com/2026/05/lithuanias-kopa-ai-raises-e2-million-to-scale-its-agentic-ai-co-pilot-for-e-commerce-teams
 [^3]: ArcticStartup, "Lithuania's Kopa.ai raises €2 million seed round to expand agentic e-commerce platform," May 2026. Accessed May 2026. https://arcticstartup.com/kopa-ai-raises-e2-million/
+[^4]: The SaaS News, "Kopa.ai Raises €2M Seed," May 28, 2026. Accessed July 2026. https://www.thesaasnews.com/news/kopa-ai-raises-2m-seed/

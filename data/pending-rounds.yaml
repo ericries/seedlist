@@ -20,23 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Quantum Systems lands €1 billion Series D in one of Europe’s largest DefenceTech
-    financings
-  url: https://www.eu-startups.com/2026/07/quantum-systems-lands-e1-billion-series-d-in-one-of-europes-largest-defencetech-financings/
-  source: eu-startups
-  date_found: '2026-07-02'
-  parsed_company: Quantum Systems
-  parsed_amount: null
-  parsed_round: Series D
-  status: pending
-- title: Czech VC firm Orbit Capital raises Growth Debt Fund II to €107 million
-  url: https://www.eu-startups.com/2026/07/czech-vc-firm-orbit-capital-raises-growth-debt-fund-ii-to-e107-million/
-  source: eu-startups
-  date_found: '2026-07-02'
-  parsed_company: Czech VC firm Orbit Capital
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Rivian raises EV sales forecast as Q2 production ramps up
   url: https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/
   source: techcrunch
@@ -62,6 +45,23 @@ pending_rounds:
   parsed_company: BidScript reports up to 50% higher tender win rates as it
   parsed_amount: null
   parsed_round: Pre-Seed
+  status: pending
+- title: Quantum Systems lands €1 billion Series D in one of Europe’s largest DefenceTech
+    financings
+  url: https://www.eu-startups.com/2026/07/quantum-systems-lands-e1-billion-series-d-in-one-of-europes-largest-defencetech-financings/
+  source: eu-startups
+  date_found: '2026-07-02'
+  parsed_company: Quantum Systems
+  parsed_amount: null
+  parsed_round: Series D
+  status: pending
+- title: Czech VC firm Orbit Capital raises Growth Debt Fund II to €107 million
+  url: https://www.eu-startups.com/2026/07/czech-vc-firm-orbit-capital-raises-growth-debt-fund-ii-to-e107-million/
+  source: eu-startups
+  date_found: '2026-07-02'
+  parsed_company: Czech VC firm Orbit Capital
+  parsed_amount: null
+  parsed_round: null
   status: pending
 - title: ORYZON Raises €12 Million and Signs a Financing Agreement with COFIDES to
     Strengthen its Balance Sheet and Accelerate its Clinical Programs
