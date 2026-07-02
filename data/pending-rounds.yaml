@@ -37,6 +37,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Rivian raises EV sales forecast as Q2 production ramps up
+  url: https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/
+  source: techcrunch
+  date_found: '2026-07-02'
+  parsed_company: Rivian
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'Crunchbase Data: Global Startup Investment Hit Record $510B In H1 2026 As
+    AI Boom Accelerates Funding And Exits'
+  url: https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/
+  source: crunchbase
+  date_found: '2026-07-02'
+  parsed_company: null
+  parsed_amount: $510B
+  parsed_round: null
+  status: pending
+- title: BidScript reports up to 50% higher tender win rates as it secures €701k pre-Seed
+    funding
+  url: https://www.eu-startups.com/2026/07/bidscript-reports-up-to-50-higher-tender-win-rates-as-it-secures-e701k-pre-seed-funding/
+  source: eu-startups
+  date_found: '2026-07-02'
+  parsed_company: BidScript reports up to 50% higher tender win rates as it
+  parsed_amount: null
+  parsed_round: Pre-Seed
+  status: pending
 - title: ORYZON Raises €12 Million and Signs a Financing Agreement with COFIDES to
     Strengthen its Balance Sheet and Accelerate its Clinical Programs
   url: https://www.globenewswire.com/news-release/2026/07/01/3320668/0/en/ORYZON-Raises-12-Million-and-Signs-a-Financing-Agreement-with-COFIDES-to-Strengthen-its-Balance-Sheet-and-Accelerate-its-Clinical-Programs.html
@@ -817,28 +843,4 @@ pending_rounds:
   parsed_company: Niural
   parsed_amount: $21M
   parsed_round: Additional Series A
-  status: pending
-- title: Tetrix raised $15M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-23'
-  parsed_company: Tetrix
-  parsed_amount: $15M
-  parsed_round: null
-  status: pending
-- title: Ladder Health raised $7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-23'
-  parsed_company: Ladder Health
-  parsed_amount: $7M
-  parsed_round: Seed
-  status: pending
-- title: ChemT raised $4M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-23'
-  parsed_company: ChemT
-  parsed_amount: $4M
-  parsed_round: Seed
   status: pending
