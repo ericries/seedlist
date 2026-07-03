@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: London’s geoSurge raises €10 million to help brands understand AI-generated
+    outputs
+  url: https://www.eu-startups.com/2026/07/londons-geosurge-raises-e10-million-to-help-brands-understand-ai-generated-outputs/
+  source: eu-startups
+  date_found: '2026-07-03'
+  parsed_company: London’s geoSurge
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Rivian raises EV sales forecast as Q2 production ramps up
   url: https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/
   source: techcrunch
@@ -835,12 +844,4 @@ pending_rounds:
   parsed_company: Probook
   parsed_amount: $34M
   parsed_round: Series A
-  status: pending
-- title: Ploy raised $27M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-23'
-  parsed_company: Ploy
-  parsed_amount: $27M
-  parsed_round: Seed
   status: pending
