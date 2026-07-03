@@ -34771,3 +34771,80 @@ queue:
   firm: LinqAlpha
   discovered_from: linqalpha
   source: Co-Founder, LinqAlpha
+- name: Denali Growth Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: luxonis
+- name: UC Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qolab
+- name: Wisconsin Alumni Research Foundation
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qolab
+- name: Octave Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qolab
+- name: Phoenix Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qolab
+- name: Leaps by Bayer
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: celea-therapeutics
+- name: PureTech Health
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: celea-therapeutics
+- name: Bradley Dillon
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Luxonis
+  discovered_from: luxonis
+- name: Alec Douglas
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Denali Growth Partners
+  discovered_from: luxonis
+- name: Richard Wang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Taiwania Capital
+  discovered_from: luxonis
+- name: Jagdeep Singh Bachher
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: UC Investments
+  discovered_from: qolab
+- name: Laura Stoppel
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: RA Capital Management
+  discovered_from: celea-therapeutics
