@@ -20,6 +20,9 @@ investors:
 - round: Co-founder / Series A
   slug: bob-nelsen
   year: 2013
+- round: Seed
+  slug: ryan-broshar
+  year: 2025
 last_researched: 2026-04-09
 location: San Francisco, California
 name: Juno

@@ -20807,7 +20807,7 @@ queue:
 - name: Pranav Pai
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: 3one4 Capital
   discovered_from: mohandas-pai
@@ -22208,7 +22208,7 @@ queue:
 - name: Ryan Broshar
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Matchstick Ventures
   discovered_from: saile
@@ -34848,3 +34848,52 @@ queue:
   added: '2026-03-17'
   firm: RA Capital Management
   discovered_from: celea-therapeutics
+- name: Natty Zola
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Matchstick Ventures
+  discovered_from: ryan-broshar
+- name: Darwinbox
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pranav-pai
+- name: Open (Open Financial Technologies)
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pranav-pai
+- name: Nyayanidhi
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pranav-pai
+- name: Agnit Semiconductors
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pranav-pai
+- name: Dalton Mills
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-broshar
+- name: Great Sky
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-broshar
+- name: Liminal
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ryan-broshar

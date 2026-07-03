@@ -1,11 +1,18 @@
 ---
-name: Saile
-slug: saile
-type: startup
-website: https://www.saile.health/
-location: New York, NY
+firms: []
 founded: 2024
-status_company: active
+founders:
+- name: Marc Ayoub
+  role: Co-Founder & CEO
+- name: Taylor Hakes
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: ryan-broshar
+  year: 2025
+last_researched: 2026-05-13
+location: New York, NY
+name: Saile
 sector:
 - healthcare
 - digital-health
@@ -14,17 +21,13 @@ sector:
 - credentialing
 - workforce
 - marketplace
+slug: saile
 stage_latest: Pre-Seed
-total_raised: $2.2M
-investors: []
-firms: []
-founders:
-- name: Marc Ayoub
-  role: Co-Founder & CEO
-- name: Taylor Hakes
-  role: Co-Founder
-last_researched: 2026-05-13
 status: published
+status_company: active
+total_raised: $2.2M
+type: startup
+website: https://www.saile.health/
 ---
 
 ## About
