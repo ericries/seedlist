@@ -27,7 +27,7 @@ Life Biosciences is a Boston-based biotechnology company developing cellular rej
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-08 | Series D | $80M | Undisclosed | [^1][^2] |
+| 2026-04-08 | Series D | $80M | Undisclosed (fully subscribed by existing and new investors) | — [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -35,9 +35,12 @@ No verified investor quotes available at this time.
 
 ## What Founders Say
 
-No verified founder quotes available at this time.
+Jerry McLaughlin, CEO: "We are encouraged by the strong participation in this financing, which reflects the growing interest in our platform and the opportunity we have to reverse multiple diseases of aging" [^1][^3].
+
+Jerry McLaughlin, CEO: "This support enables us to advance our lead program, ER-100, through key clinical milestones while continuing the expansion of our pipeline" [^3].
 
 ## Sources
 
 [^1]: GlobeNewsWire, "Life Biosciences Secures $80 Million Series D Financing," April 8, 2026. https://www.globenewswire.com/news-release/2026/04/08/3270043/0/en/Life-Biosciences-Secures-80-Million-Series-D-Financing.html
 [^2]: FinSMEs, "Life Biosciences Raises $80M in Series D Funding," April 2026. https://www.finsmes.com/2026/04/life-biosciences-raises-80m-in-series-d-funding.html
+[^3]: Life Biosciences, "Life Biosciences Secures $80 Million Series D Financing," April 8, 2026, accessed July 2026. https://www.lifebiosciences.com/life-biosciences-secures-80-million-series-d-financing/

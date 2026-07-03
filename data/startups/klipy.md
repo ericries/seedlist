@@ -27,15 +27,17 @@ On June 17, 2026, KLIPY announced a $3.8 million round and disclosed that it had
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-06-17 | Seed | $3.8M | Undisclosed | Google AI Futures Fund, I2BF, Silvercircle VC, Sturgeon Capital, Red Swan Ventures, Intuition Ventures, Yash Patel (Capra Ventures), Zaza Pachulia [^1][^2][^3] |
+| 2026-06-17 | Seed | $3.8M | Google AI Futures Fund | I2BF, Silvercircle VC, Sturgeon Capital, Red Swan Ventures, Intuition Ventures, Yash Patel (Capra Ventures), Zaza Pachulia [^1][^2][^3] |
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+Jonathan Silber, Google AI Futures Fund: "KLIPY is building the intelligent, trusted expression layer that the next generation of apps will rely on" [^1].
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+Givi Beridze, CEO: "People are expressing themselves through memes, GIFs, and short-form content more than ever, especially Gen Z and Gen Alpha" [^1].
+
+Frank Nawabi, Co-Founder: "KLIPY is building a next-generation 'expression layer' for the AI era that combines search, AI, and monetization into a unified API platform" [^1].
 
 ## Sources
 
