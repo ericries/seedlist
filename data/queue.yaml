@@ -34897,3 +34897,92 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: ryan-broshar
+- name: Play Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Play Ventures
+  discovered_from: geosurge
+  source: participant in geoSurge €10M seed (2026-07-03)
+- name: Celero Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Celero Ventures
+  discovered_from: geosurge
+  source: participant in geoSurge €10M seed (2026-07-03)
+- name: Boost Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Boost Capital
+  discovered_from: geosurge
+  source: participant in geoSurge €10M seed (2026-07-03)
+- name: Francisco Vigo
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: geoSurge
+  discovered_from: geosurge
+  source: Co-Founder & CEO of geoSurge; led €10M seed announcement
+- name: National Grid Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: National Grid Ventures
+  discovered_from: joulent
+  source: led USD 1.75B strategic investment in Joulent (2026-07-01)
+- name: Energy Forge
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Chevron
+  discovered_from: joulent
+  source: participant in Joulent USD 1.75B strategic investment (2026-07-01) via Chevron
+    subsidiary Energy Forge
+- name: Chris James
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Joulent
+  discovered_from: joulent
+  source: Founder & CEO of Joulent USD 1.75B (2026-07-01)
+- name: Hatch Blue
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Hatch Blue
+  discovered_from: coast-4c
+  source: led Coast 4C USD 2.5M seed via Blue Revolution Fund (2026-06-24)
+- name: Conservation International Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Conservation International Ventures
+  discovered_from: coast-4c
+  source: participant in Coast 4C USD 2.5M seed (2026-06-24)
+- name: elea Foundation
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: elea Foundation
+  discovered_from: coast-4c
+  source: participant in Coast 4C USD 2.5M seed (2026-06-24)
+- name: Minderoo Foundation
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Minderoo Foundation
+  discovered_from: coast-4c
+  source: participant in Coast 4C USD 2.5M seed (2026-06-24)
