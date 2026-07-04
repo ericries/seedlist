@@ -2969,7 +2969,13 @@ priority:
   type: startup
   reason: "new startup profile (Series B 2026-07-01, $60M led by PeakSpan Capital; NFX participated)"
   added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: "Verified Aligned $60M Series B on 2026-07-01 led by PeakSpan Capital (Matt Melymuka, Partner) with prior backers Hetz Ventures, JAL Ventures, and NFX participating, via 3 independent primary sources already in profile (SiliconANGLE [^1], Calcalist Tech [^3], The SaaS News [^2]). Total funding to date $73.8M. NY/Tel Aviv-based; ~70,000 salespeople and 1M buyers/month; customers include Deel, Similarweb, WordPress; growing 55 to 85 employees by year-end. Matt Melymuka and Gal Aga (Co-Founder & CEO) quotes verified verbatim in profile. NFX firm portfolio row already contains Aligned Series B with citation [^38] — no changes needed. No firm profiles for PeakSpan Capital, Hetz Ventures, or JAL Ventures — remain queue leads."
 - slug: nfx
   type: firm
   reason: "appeared in Aligned Series B (2026-07-01), $60M"
   added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: "Same round verification — NFX participation in Aligned $60M Series B on 2026-07-01 (led by PeakSpan Capital) re-verified via 3 independent primary sources (SiliconANGLE [^38], Calcalist Tech, The SaaS News). All three confirm NFX as prior backer participating in the Series B. nfx.md portfolio row at line 104 with citation [^38] already accurately reflects the round (Series B participated, $60M, 2026-07-01). No changes needed."
