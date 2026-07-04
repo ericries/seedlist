@@ -20,6 +20,102 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: after the micromobility company raised $167M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: after the micromobility company
+  parsed_amount: $167M
+  parsed_round: null
+  status: pending
+- title: Quantum Systems raised $1.2B Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: Quantum Systems
+  parsed_amount: $1.2B
+  parsed_round: Series D
+  status: pending
+- title: Celea Therapeutics raised $180M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: Celea Therapeutics
+  parsed_amount: $180M
+  parsed_round: null
+  status: pending
+- title: Shortical raised $100M user acquisition
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: Shortical
+  parsed_amount: $100M
+  parsed_round: User Acquisition
+  status: pending
+- title: Venice AI raised $65M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: Venice AI
+  parsed_amount: $65M
+  parsed_round: Series A
+  status: pending
+- title: CarbonSix raised $40M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: CarbonSix
+  parsed_amount: $40M
+  parsed_round: Series A
+  status: pending
+- title: LinqAlpha raised $22M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: LinqAlpha
+  parsed_amount: $22M
+  parsed_round: Series A
+  status: pending
+- title: StirlingX raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: StirlingX
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: pending
+- title: Meridian3 Industrials Acquisition raised $175M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: Meridian3 Industrials Acquisition
+  parsed_amount: $175M
+  parsed_round: null
+  status: pending
+- title: Viking Acquisition II raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: Viking Acquisition II
+  parsed_amount: $200M
+  parsed_round: null
+  status: pending
+- title: an Israeli connected devices cybersecurity company that had raised $37M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: an Israeli connected devices cybersecurity company that had
+  parsed_amount: $37M
+  parsed_round: null
+  status: pending
+- title: a Seattle-based GTM intelligence platform that had raised $55M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-04'
+  parsed_company: a Seattle-based GTM intelligence platform that had
+  parsed_amount: $55M
+  parsed_round: null
+  status: pending
 - title: London’s geoSurge raises €10 million to help brands understand AI-generated
     outputs
   url: https://www.eu-startups.com/2026/07/londons-geosurge-raises-e10-million-to-help-brands-understand-ai-generated-outputs/
@@ -741,108 +837,4 @@ pending_rounds:
   parsed_company: XCures
   parsed_amount: $46M
   parsed_round: Series B
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/24/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-24-2026/
-  source: alleywatch
-  date_found: '2026-06-24'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Purpose Investments Lists New ETF Series of the Purpose Global Resource Fund
-    (PGRX) on the Toronto Stock Exchange
-  url: https://www.globenewswire.com/news-release/2026/06/23/3315827/0/en/Purpose-Investments-Lists-New-ETF-Series-of-the-Purpose-Global-Resource-Fund-PGRX-on-the-Toronto-Stock-Exchange.html
-  source: globenewswire
-  date_found: '2026-06-23'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Fika Jobs raises $4M to build a video-first hiring platform where AI agents
-    interview candidates
-  url: https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/
-  source: techcrunch
-  date_found: '2026-06-23'
-  parsed_company: Fika Jobs
-  parsed_amount: $4M
-  parsed_round: null
-  status: pending
-- title: British asset finance platform equipal secures €18.84 million to grow team
-    and lending capacity
-  url: https://www.eu-startups.com/2026/06/british-asset-finance-platform-equipal-secures-e18-84-million-to-grow-team-and-lending-capacity/
-  source: eu-startups
-  date_found: '2026-06-23'
-  parsed_company: British asset finance platform equipal
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Bristol’s Astral Systems secures €26 million Series A to support medical
-    isotope commercialisation
-  url: https://www.eu-startups.com/2026/06/bristols-astral-systems-secures-e26-million-series-a-to-support-medical-isotope-commercialisation/
-  source: eu-startups
-  date_found: '2026-06-23'
-  parsed_company: Bristol’s Astral Systems
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Cambridge’s TRIMTECH Therapeutics brings Seed round to €41 million for neurodegenerative
-    disease work
-  url: https://www.eu-startups.com/2026/06/cambridges-trimtech-therapeutics-brings-seed-round-to-e41-million-with-jjdc-and-bgf-backing/
-  source: eu-startups
-  date_found: '2026-06-23'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: '14 million poorly insulated German homes: VARM raises €17.5 million to expand
-    its installer network'
-  url: https://www.eu-startups.com/2026/06/14-million-poorly-insulated-german-homes-varm-raises-e17-5-million-to-expand-its-installer-network/
-  source: eu-startups
-  date_found: '2026-06-23'
-  parsed_company: '14 million poorly insulated German homes: VARM'
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon
-    appointment
-  url: https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/
-  source: techcrunch
-  date_found: '2026-06-23'
-  parsed_company: HaloBraid
-  parsed_amount: $7M
-  parsed_round: null
-  status: pending
-- title: Anthropic Backer Menlo Ventures Raises $3B In New Funds To Back AI Startups
-    Across Stages
-  url: https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/
-  source: crunchbase
-  date_found: '2026-06-23'
-  parsed_company: Anthropic Backer Menlo Ventures
-  parsed_amount: $3B
-  parsed_round: null
-  status: pending
-- title: and Karta raised $15M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-23'
-  parsed_company: and Karta
-  parsed_amount: $15M
-  parsed_round: null
-  status: pending
-- title: Peregrine Technologies raised $250M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-23'
-  parsed_company: Peregrine Technologies
-  parsed_amount: $250M
-  parsed_round: Series D
-  status: pending
-- title: Spiro raised $55M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-23'
-  parsed_company: Spiro
-  parsed_amount: $55M
-  parsed_round: null
   status: pending
