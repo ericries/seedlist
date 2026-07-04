@@ -215,7 +215,7 @@ The following table includes a16z investments verified through the firm's own po
 | Apptio | Growth | 2014 | Enterprise SaaS | Public (acquired by IBM 2023) [^10] |
 | Navan (TripActions) | Growth | 2019 | Enterprise SaaS / Travel | Public (IPO 2025) [^10] |
 | Duolingo | Growth | 2020 | EdTech / Consumer | Public [^10] |
-| OpenAI | Growth | 2023 | AI | Private [^10] |
+| OpenAI | Growth (Tender Offer) | 2023-04-28 | AI | Private ($300M tender at $27B–$29B valuation, co-participant with Sequoia, Thrive, K2 Global, Tiger Global, Founders Fund) [^10][^96][^97][^98] |
 | XDOF | Venture | 2026-06-17 | Robotics / AI Infrastructure | Active ($70M launch from stealth alongside Thrive, Spark, Lux, WndrCo) [^75][^76] |
 | Convey | Series A (led) | 2026-06-17 | AI / Enterprise | Active ($38M Series A led by a16z; Khosla and Pear VC participated; Joe Schmidt joined board) [^77][^78] |
 | Jarvie AI | Seed | 2026-06-23 | AI / Consumer / Messaging | Active ($8.3M Seed alongside Base10 Partners and Lightspeed) [^90][^92] |
@@ -233,10 +233,10 @@ The following table includes a16z investments verified through the firm's own po
 | Safe Superintelligence (SSI) | Series A | 2024-09-04 | AI | Private [^10][^38] |
 | Substack | Series C (participated) | 2025-07-17 | Creator Economy | Private [^10][^45] |
 | Shield AI | Series G (participated) | 2026-03-26 | Defense / Drones | Private [^10][^37] |
-| Hadrian | Growth | 2023 | Manufacturing | Private [^10] |
+| Hadrian | Series B (participated, existing investor) | 2024-02-21 (closed Dec 2023) | Manufacturing / Defense | Private ($117M led by RTX Ventures/Construct Capital; Lux Capital, Founders Fund, WCM, Bracket, Shrug, Caffeinated, Tru Arrow, Silent Ventures, Cubit Capital, S&A also participated) [^10][^99][^100][^101] |
 | Flock Safety | Growth | 2022 | Public Safety | Private [^10] |
 | Abridge | Series E (led) | 2025-06-24 | AI / Health | Private [^83][^84][^85] |
-| Hippocratic AI | Series A | 2023 | AI / Health | Private [^10] |
+| Hippocratic AI | Seed (co-led with General Catalyst) | 2023-05-16 | AI / Health | Private ($50M launch seed; Munjal Shah CEO; Meenesh Bhimani MD Chief Medical Officer) [^102][^103][^104] |
 | Groq | Growth | 2024 | AI / Chips | Private [^10] |
 | Helion Energy | Growth | 2021 | Climate / Energy | Private [^10] |
 | Carbon Robotics | Growth | 2022 | Agriculture Tech | Private [^10] |
@@ -543,3 +543,21 @@ The following table includes a16z investments verified through the firm's own po
 [^94]: BioSpace, "Ollin Biosciences Announces Oversubscribed $330 Million Series B Financing," June 23, 2026. Accessed June 2026. https://www.biospace.com/press-releases/ollin-biosciences-announces-oversubscribed-330-million-series-b-financing-to-advance-global-phase-3-development-of-oln324-in-dme-and-wet-amd-studies-commencing-in-second-half-of-2026 — Independent confirmation of a16z Bio+Health participation in Ollin Biosciences' $330M Series B.
 
 [^95]: PR Newswire (Innovent partner release), "Innovent's Partner Ollin Biosciences Announces Oversubscribed $330 Million Series B Financing to Advance Global Phase 3 Development of IBI324 (OLN324) in DME and Wet AMD; Studies Commencing in Second Half of 2026," June 23, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/innovents-partner-ollin-biosciences-announces-oversubscribed-330-million-series-b-financing-to-advance-global-phase-3-development-of-ibi324-oln324-in-dme-and-wet-amd-studies-commencing-in-second-half-of-2026-302809651.html — Third independent confirmation of a16z Bio+Health participation; full participant list including Blackstone Multi-Asset Investing, Commodore Capital, CPP Investments, RA Capital Management, T. Rowe Price Investment Management, Mubadala Capital, and Monograph Capital.
+
+[^96]: TechCrunch, "OpenAI closes $300M share sale at $27B-29B valuation," April 28, 2023. Accessed July 2026. https://techcrunch.com/2023/04/28/openai-funding-valuation-chatgpt/ — Confirms VCs (Sequoia Capital, Andreessen Horowitz, Thrive, K2 Global, Founders Fund) "have put in just over $300 million at a valuation of $27 billion – $29 billion" in tender offer separate from Microsoft's January 2023 investment.
+
+[^97]: Crunchbase News, "What You Need To Know About OpenAI's $300M Share Sale," April/May 2023. Accessed July 2026. https://news.crunchbase.com/ai-robotics/openais-300m-share-sale/ — Independent confirmation of $300M tender offer at $27B–$29B valuation; lists Tiger Global Management, Andreessen Horowitz, Sequoia Capital, Thrive Capital, and K2 Global as participants. Notes Tiger Global, a16z, and Sequoia were "longtime OpenAI backers" while Thrive and K2 Global were newcomers.
+
+[^98]: Built In San Francisco, "OpenAI Approaches $80B Valuation With New Deal," 2023. Accessed July 2026. https://www.builtinsf.com/articles/openai-thrive-capital-80b-valuation — Third independent source confirming April 2023 tender offer at $27B–$29B valuation with Thrive Capital, Andreessen Horowitz and others putting in $300M.
+
+[^99]: TechCrunch, "Hadrian Automation's CEO wants to defy history and revitalize American industry," February 21, 2024. Accessed July 2026. https://techcrunch.com/2024/02/21/hadrian-automations-ceo-wants-to-defy-history-and-revitalize-american-industry/ — Confirms Hadrian's $117M Series B (mix of equity and debt) closed in December 2023 and announced Feb 21, 2024. RTX Ventures new investor; existing participants included Construct Capital, WCM, Bracket Capital, Shrug Capital, Lux Capital, a16z, Founders Fund, S&A, Silent Ventures, Cubit Capital, Caffeinated, Tru Arrow Partners.
+
+[^100]: Cooley LLP client news, "Hadrian Automation Announces $117 Million Series B," February 21, 2024. Accessed July 2026. https://www.cooley.com/news/coverage/2024/2024-02-21-hadrian-automation-announces-117-million-series-b — Independent legal-advisor confirmation of $117M Series B led by RTX Ventures with Andreessen Horowitz among the full participant list (RTX Ventures, Construct Capital, WCM Investment Management, Bracket Capital, Shrug Capital, Lux Capital, Andreessen Horowitz, Founders Fund, S&A, Silent Ventures, Cubit Capital, Caffeinated Capital, Tru Arrow Partners).
+
+[^101]: Mondaq press release, "Hadrian Automation Announces $117 Million Series B," February 21, 2024. Accessed July 2026. https://www.mondaq.com/pressrelease/133880/hadrian-automation-announces-$117-million-series-b — Third independent confirmation of $117M Series B and Andreessen Horowitz participation alongside RTX Ventures, Construct Capital, WCM Investment Management, Bracket Capital, Shrug Capital, Lux Capital, Founders Fund, S&A, Silent Ventures, Cubit Capital, Caffeinated Capital, Tru Arrow Partners.
+
+[^102]: Yahoo Finance/GlobeNewswire, "Hippocratic AI Launches With $50 Million Seed Round Co-Led by General Catalyst and Andreessen Horowitz to Build Safety-Focused Large Language Model for Healthcare," May 16, 2023. Accessed July 2026. https://finance.yahoo.com/news/hippocratic-ai-launches-50-million-130000296.html — Primary press release confirming Palo Alto-based Hippocratic AI launched out of stealth on May 16, 2023 with a $50M seed co-led by General Catalyst and Andreessen Horowitz. Munjal Shah Co-Founder and CEO; Meenesh Bhimani MD Co-Founder and Chief Medical Officer.
+
+[^103]: MobiHealthNews, "Hippocratic AI launches with $50M to build large language model for healthcare," May 16, 2023. Accessed July 2026. https://www.mobihealthnews.com/news/hippocratic-ai-launches-50m-build-large-language-model-healthcare — Independent healthcare-industry press confirmation of $50M seed co-led by General Catalyst and Andreessen Horowitz on May 16, 2023.
+
+[^104]: Bloomberg, "Andreessen, General Catalyst Back Health Startup Hippocratic AI," May 16, 2023. https://www.bloomberg.com/news/articles/2023-05-16/andreessen-general-catalyst-back-health-startup-hippocratic-ai — Third tier-1 press confirmation of $50M seed on May 16, 2023 (URL cited as reference; article behind paywall but headline and date independently verify).

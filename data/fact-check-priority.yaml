@@ -1,4 +1,11 @@
 priority:
+- slug: andreessen-horowitz
+  type: firm
+  reason: 'Fact-spec sweep: tighten year-only dates on 3 portfolio rows (OpenAI 2023, Hadrian 2023, Hippocratic AI Series A 2023)'
+  added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Fact Specificity sweep on andreessen-horowitz.md — corrected 3 year-only portfolio rows via 3+ primary sources each. (1) OpenAI: tightened "Growth | 2023" to "Growth (Tender Offer) | 2023-04-28" with $300M tender at $27B–$29B valuation and full co-participant list (Sequoia, Thrive, K2 Global, Tiger Global, Founders Fund) via TechCrunch [^96], Crunchbase News [^97], Built In San Francisco [^98]. (2) Hadrian: tightened "Growth | 2023" to "Series B (participated, existing investor) | 2024-02-21 (closed Dec 2023)" — $117M round led by RTX Ventures/Construct Capital via TechCrunch [^99], Cooley [^100], Mondaq press release [^101]. (3) Hippocratic AI: CORRECTED "Series A | 2023" to "Seed (co-led with General Catalyst) | 2023-05-16" — round was actually a $50M SEED co-led with General Catalyst (not Series A), Munjal Shah CEO and Meenesh Bhimani MD Chief Medical Officer, via Yahoo/GlobeNewswire [^102], MobiHealthNews [^103], Bloomberg [^104]. Startup profiles openai.md and hippocratic-ai.md already had correct dates. Anthropic 2023 row NOT tightened — could not verify a16z participation in Anthropic''s May 2023 Series C (led by Spark Capital); a16z''s major Anthropic investment appears to be 2024 ($150M) but no single primary source pinned to a specific round found.'
 - slug: khosla-ventures
   type: firm
   reason: led General Intuition Series A ($320M at $2.3B) 2026-06-25
