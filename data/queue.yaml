@@ -35109,3 +35109,52 @@ queue:
   firm: Alva Industries
   discovered_from: alva-industries
   source: CEO of Alva Industries (2026-07-02 €16M equity round)
+- name: Pegasus Finvest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pegasus Finvest
+  discovered_from: age-care-labs
+  source: Pegasus Finvest participated in Age Care Labs Series B1 (₹85 Cr, 2026-07-02)
+- name: Shrem Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Shrem Group
+  discovered_from: age-care-labs
+  source: Shrem Group participated in Age Care Labs Series B1 (₹85 Cr, 2026-07-02)
+    and launched Shremoha JV
+- name: Saumyajit Roy
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Age Care Labs / Emoha
+  discovered_from: age-care-labs
+  source: Co-Founder & CEO of Age Care Labs (Emoha, Epoch); Series B1 announced 2026-07-02
+- name: Rohit Bhayana
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lumis Partners
+  discovered_from: age-care-labs
+  source: Co-Founder of Age Care Labs; Managing Partner at Lumis Partners
+- name: Constructor Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Constructor Capital
+  discovered_from: ora-computing
+  source: Co-led Ora Computing €3.5M seed (2026-06-24)
+- name: Greencode Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Greencode Ventures
+  discovered_from: ora-computing
+  source: Co-led Ora Computing €3.5M seed (2026-06-24)

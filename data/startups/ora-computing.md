@@ -17,7 +17,7 @@ founders:
   - name: "Raimel Medina"
     role: "Co-Founder"
 status: published
-last_researched: 2026-06-25
+last_researched: 2026-07-04
 ---
 
 ## About
@@ -36,9 +36,10 @@ No independently sourced investor quotes located at time of profile creation.
 
 ## What Founders Say
 
-No independently sourced founder quotes located at time of profile creation.
+> "We believe the next wave of AI adoption will be driven by compact, highly efficient models optimised for specific applications rather than increasingly large, general-purpose cloud models." — Stefan Sack, Co-Founder, Ora Computing, quoted in Tech.eu, June 24, 2026 [^3]
 
 ## Sources
 
 [^1]: The SaaS News, "Ora Computing Raises €3.5M Seed," June 24, 2026. https://www.thesaasnews.com/news/ora-computing-raises-3-5m-seed/
 [^2]: EU-Startups, "Austria's Ora Computing secures €3.5 million to make AI models smaller and faster," June 24, 2026. https://www.eu-startups.com/2026/06/austrias-ora-computing-secures-e3-5-million-to-make-ai-models-smaller-and-faster/
+[^3]: Tech.eu, "Ora Computing raises €3.5M to build the efficiency layer of the AI stack," June 24, 2026. Accessed July 2026. https://tech.eu/2026/06/24/ora-computing-raises-eur35m-to-build-the-efficiency-layer-of-the-ai-stack/
