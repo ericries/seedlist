@@ -101,6 +101,7 @@ Based on 300 verified investments from Crunchbase and NFX's portfolio page, the 
 | Gizmo | Seed | ~2024 | AI/EdTech | [^33] |
 | CopilotKit | Series A (participated, $27M) | 2026-05-05 | AI/Developer Tools | [^34][^35] |
 | Pumpkinseed | Series A (co-led, $20M) | 2026-05-05 | Biotech / Proteomics | [^36][^37] |
+| Aligned | Series B (participated, $60M) | 2026-07-01 | SaaS/Sales Enablement | [^38] |
 
 *This table represents approximately 8% of 300 known investments. NFX was founded in 2015; investments dated before 2015 (DoorDash, Lyft, Patreon, HoneyBook, Similarweb, Trulia, Playtika) are personal angel investments by the GPs, later attributed to NFX's portfolio. NFX invests across both US and Israeli ecosystems [^9].*
 
@@ -161,3 +162,5 @@ No independently sourced founder testimonials with verbatim quotes found from th
 [^36]: Pumpkinseed press, "Pumpkinseed Raises $20M Series A to Unlock Biology's Most Valuable Hidden Data Layer," May 5, 2026, accessed May 2026. https://www.pumpkinseed.bio/ — Series A co-led by NFX and Future Ventures. Funding will scale Pumpkinseed's deSIPHR nanophotonic chip platform from peptide to full-length protein sequencing for biopharma and biosecurity applications. Omri Amirav-Drory (NFX General Partner) has served on Pumpkinseed's board since 2022.
 
 [^37]: NFX team page, "Omri Drory, Ph.D.," accessed May 2026. https://www.nfx.com/team/omri-amirav-drory
+
+[^38]: SiliconANGLE, "Aligned bags $60M in funding to build the AI-native sales execution layer for enterprise deals," July 1, 2026, accessed July 2026. https://siliconangle.com/2026/07/01/aligned-bags-60m-funding-build-ai-native-sales-execution-layer-enterprise-deals/ — Aligned's Series B was led by PeakSpan Capital with participation from prior backers Hetz Ventures, JAL Ventures, and NFX. Also verified via Calcalist Tech (https://www.calcalistech.com/ctechnews/article/b1kmpvz7gx) and The SaaS News (https://www.thesaasnews.com/news/aligned-raises-60m-series-b/).

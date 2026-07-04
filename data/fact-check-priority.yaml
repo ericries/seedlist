@@ -2952,3 +2952,11 @@ priority:
   status: resolved
   resolved: 2026-07-02
   resolution_note: "Verified 1001 $30M Series A on 2026-06-30 led by Lux Capital via 4 independent primary sources already in profile (Khaleej Times [^1], Wamda [^2], Zawya [^3], WAYA [^4]). All 4 sources agree on: lead (Lux Capital), amount ($30M), founder (Bilal Abu-Ghazaleh, founded 2025). New participants: Sanabil Investments (PIF-owned), 9Yards, Hanabi. Existing backers increased commitments: General Catalyst, CIV, Chris Ré (Stanford). Angel investors: Karim Atiyeh (Ramp CTO), Kareem Amin (Clay CEO), Russell Kaplan (Cognition President), Shayan Shafii, Daniel Garber, Junaid Hussain. Valuation not disclosed. Deena Shakir and Bilal Abu-Ghazaleh quotes verified verbatim against Khaleej Times/Wamda. No changes needed."
+- slug: aligned
+  type: startup
+  reason: "new startup profile (Series B 2026-07-01, $60M led by PeakSpan Capital; NFX participated)"
+  added: 2026-07-04
+- slug: nfx
+  type: firm
+  reason: "appeared in Aligned Series B (2026-07-01), $60M"
+  added: 2026-07-04
