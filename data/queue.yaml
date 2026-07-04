@@ -20648,7 +20648,7 @@ queue:
 - name: Zac Bookman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: OpenGov
   discovered_from: brad-garlinghouse
@@ -21547,7 +21547,7 @@ queue:
 - name: Umesh Padval
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Seligman Ventures
   discovered_from: exaforce
@@ -34986,3 +34986,58 @@ queue:
   firm: Minderoo Foundation
   discovered_from: coast-4c
   source: participant in Coast 4C USD 2.5M seed (2026-06-24)
+- name: Thomvest Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: umesh-padval
+  source: Umesh Padval's prior firm (8+ years as Managing Director); cybersecurity/cloud/AI
+    infra
+- name: Ashish Kakran
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Seligman Ventures
+  discovered_from: umesh-padval
+  source: co-Managing Partner at Seligman Ventures alongside Padval
+- name: Paul Wick
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Seligman
+  discovered_from: umesh-padval
+  source: CIO of Seligman; partners with Padval on public/private crossover strategy
+- name: Innovius Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zac-bookman
+  source: led SewerAI $15M Series B (June 2024) with Zac Bookman as angel co-investor
+- name: Formation 8
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zac-bookman
+  source: Zac Bookman was partner before OpenGov; co-founded by Joe Lonsdale (also
+    OpenGov co-founder)
+- name: Thiago Sá Freire
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: OpenGov
+  discovered_from: zac-bookman
+  source: current CEO of OpenGov, succeeded Zac Bookman April 2026
+- name: Faraj Aalaei
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Cognichip
+  discovered_from: umesh-padval
+  source: founder/CEO of Cognichip; backed by Seligman Ventures Series A April 2026

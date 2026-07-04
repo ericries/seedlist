@@ -1,28 +1,34 @@
 ---
-name: Cognichip
-slug: cognichip
-type: startup
-website: https://www.cognichip.ai
-location: San Francisco, California
+firms:
+- round: seed
+  slug: lux-capital
+  year: 2024
+- round: Series A ($60M, April 1, 2026; Seligman Ventures lead)
+  slug: seligman-ventures
+  year: 2026
 founded: 2024
-status_company: active
+founders:
+- name: Faraj Aalaei
+  role: CEO & Founder
+investors:
+- round: Series A ($60M, April 1, 2026; Seligman Ventures lead)
+  slug: umesh-padval
+  year: 2026
+last_researched: 2026-04-02
+location: San Francisco, California
+name: Cognichip
 sector:
 - semiconductors
 - ai
 - deep-tech
 - eda
+slug: cognichip
 stage_latest: Series A
-total_raised: "$93M"
-firms:
-- round: seed
-  slug: lux-capital
-  year: 2024
-investors: []
-founders:
-- name: Faraj Aalaei
-  role: CEO & Founder
 status: published
-last_researched: 2026-04-02
+status_company: active
+total_raised: $93M
+type: startup
+website: https://www.cognichip.ai
 ---
 
 ## About

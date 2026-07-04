@@ -1,32 +1,38 @@
 ---
+firms:
+- date: 2026-05-28
+  round: pre-seed
+  slug: heavybit
+  year: 2026
+- round: Pre-Seed (May 2026)
+  slug: seligman-ventures
+  year: 2026
+founders:
+- name: Chetan Conikee
+  role: Founder & CEO
+investors:
+- date: 2026-05-28
+  round: pre-seed
+  slug: joseph-ruscio
+  year: 2026
+- round: Pre-Seed (May 2026)
+  slug: umesh-padval
+  year: 2026
+last_researched: 2026-06-02
 name: Modiqo
-slug: modiqo
-type: startup
-website: https://www.modiqo.com/
-status_company: active
 sector:
 - ai
 - ai-agents
 - ai-infrastructure
 - developer-tools
 - enterprise-software
+slug: modiqo
 stage_latest: Pre-Seed
-total_raised: $3M
-investors:
-- slug: joseph-ruscio
-  round: pre-seed
-  year: 2026
-  date: 2026-05-28
-firms:
-- slug: heavybit
-  round: pre-seed
-  year: 2026
-  date: 2026-05-28
-founders:
-- name: Chetan Conikee
-  role: Founder & CEO
-last_researched: 2026-06-02
 status: published
+status_company: active
+total_raised: $3M
+type: startup
+website: https://www.modiqo.com/
 ---
 
 ## About
