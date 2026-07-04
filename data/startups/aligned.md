@@ -1,29 +1,40 @@
 ---
-name: "Aligned"
-slug: aligned
-type: startup
-website: "https://www.alignedup.com"
-location: "New York, NY / Tel Aviv, Israel"
-founded: 2021
-status_company: active
-sector: [saas, sales-enablement, ai, b2b, enterprise-software]
-stage_latest: "Series B"
-total_raised: "$73.8M"
 firms:
-  - slug: nfx
-    round: series-b
-    year: 2026
-    date: 2026-07-01
-investors: []
+- date: 2026-07-01
+  round: series-b
+  slug: nfx
+  year: 2026
+founded: 2021
 founders:
-  - name: "Gal Aga"
-    role: "Co-Founder & CEO"
-  - name: "Gal Deitsch"
-    role: "Co-Founder & CPO"
-  - name: "Yotam Sela"
-    role: "Co-Founder & CTO"
-status: published
+- name: Gal Aga
+  role: Co-Founder & CEO
+- name: Gal Deitsch
+  role: Co-Founder & CPO
+- name: Yotam Sela
+  role: Co-Founder & CTO
+investors:
+- round: ~2021
+  slug: james-currier
+  year: 2021
+- round: '2021'
+  slug: gigi-levy-weiss
+  year: 2021
 last_researched: 2026-07-04
+location: New York, NY / Tel Aviv, Israel
+name: Aligned
+sector:
+- saas
+- sales-enablement
+- ai
+- b2b
+- enterprise-software
+slug: aligned
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $73.8M
+type: startup
+website: https://www.alignedup.com
 ---
 
 ## About

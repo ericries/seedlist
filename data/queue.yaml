@@ -18720,7 +18720,7 @@ queue:
 - name: Gazal Alagh
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Mamaearth / Shark Tank India S1
   discovered_from: anupam-mittal
@@ -20814,7 +20814,7 @@ queue:
 - name: Siddarth Pai
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: 3one4 Capital
   discovered_from: mohandas-pai
@@ -35224,3 +35224,11 @@ queue:
   added: '2026-03-17'
   discovered_from: kling-ai
   source: Participant in Kling AI $2B strategic round (2026-07-02)
+- name: Enrission India Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gazal-alagh
+  source: Led Kidbea's ₹30 Cr Series A (March 2026), alongside Ghazal Alagh, Roman
+    Saini, and others.

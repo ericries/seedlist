@@ -1,23 +1,31 @@
 ---
-name: "Exponent Energy"
-slug: exponent-energy
-type: startup
-website: "https://exponent.energy"
-location: "Bengaluru, India"
-founded: 2020
-status_company: active
-sector: [climate, ev-charging, energy, mobility, india]
-stage_latest: "Series B2"
-total_raised: "~$66M"
-investors: []
 firms: []
+founded: 2020
 founders:
-  - name: "Arun Vinayak"
-    role: "Co-Founder & CEO"
-  - name: "Sanjay Byalal Jagannath"
-    role: "Co-Founder"
-status: published
+- name: Arun Vinayak
+  role: Co-Founder & CEO
+- name: Sanjay Byalal Jagannath
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: siddarth-pai
+  year: 2022
 last_researched: 2026-06-03
+location: Bengaluru, India
+name: Exponent Energy
+sector:
+- climate
+- ev-charging
+- energy
+- mobility
+- india
+slug: exponent-energy
+stage_latest: Series B2
+status: published
+status_company: active
+total_raised: ~$66M
+type: startup
+website: https://exponent.energy
 ---
 
 ## About
