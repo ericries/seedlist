@@ -35041,3 +35041,71 @@ queue:
   firm: Cognichip
   discovered_from: umesh-padval
   source: founder/CEO of Cognichip; backed by Seligman Ventures Series A April 2026
+- name: Ventura Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stirlingx
+  source: Led StirlingX $20M Series A (2026-07-02) — Oxford, UK sovereign data intelligence
+- name: Rokos Capital Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stirlingx
+  source: Participated in StirlingX $20M Series A (2026-07-02) via RCM Private Markets
+    Master Fund
+- name: Dean Jones
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: StirlingX
+  discovered_from: stirlingx
+  source: Founder & CEO of StirlingX (2026-07-02 Series A)
+- name: Nysnø Climate Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alva-industries
+  source: Co-led Alva Industries €16M equity round (2026-07-02)
+- name: Sandwater
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alva-industries
+  source: Co-led Alva Industries €16M equity round (2026-07-02)
+- name: Emerald Technology Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alva-industries
+  source: Co-led Alva Industries €16M equity round (2026-07-02) on behalf of Nabtesco
+    Technology Ventures
+- name: Nabtesco Technology Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alva-industries
+  source: LP in Alva Industries €16M equity round (2026-07-02) via Emerald Technology
+    Ventures
+- name: Statkraft Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alva-industries
+  source: Participated in Alva Industries €16M equity round (2026-07-02)
+- name: Oliver Skisland
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Alva Industries
+  discovered_from: alva-industries
+  source: CEO of Alva Industries (2026-07-02 €16M equity round)
