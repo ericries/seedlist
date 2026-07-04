@@ -163067,7 +163067,9 @@ vague_facts:
   line: '| 2026-06-11 | Equity | $24M | Undisclosed | Eleven undisclosed investors [^1][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-04
+  resolution_note: 'OpenReserve Holdings $24,005,501 equity raise disclosed only via SEC Form D filing (2026-06-11); no traditional press release exists. Verified via 3 primary sources: (a) SEC Form D — total offering $25M, 11 investors participating in this close, no investor names; (b) OCC charter application PDF [^3] — application for OpenReserve Bank NA public notice published in Salt Lake Tribune 2026-04-19, but does not name funding investors; (c) AlleyWatch NYC Startup Daily Funding Report 6/11/2026 [^1] — states "eleven investors" without naming them; (d) QuiverQuant Choubey insider filings [^2] — regulatory data only. Bank Reg Blog tweet notes several OpenReserve organizers are ex-MoneyLion. No lead investor is publicly named anywhere. Marking unresolvable — current profile entry "Undisclosed | Eleven undisclosed investors" already accurately reflects the only public disclosure.'
 - profile: startups/orangeqs
   profile_name: OrangeQS
   company: '2026-04-21'
@@ -163349,7 +163351,9 @@ vague_facts:
   line: '| 2026-04-24 | Series A | $11.2M | Undisclosed | Undisclosed [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-04
+  resolution_note: 'Pearl Diagnostics $11.2M Series A closed via SEC Form D in March 2026 (Technical.ly reported 2026-04-24); no lead or co-investors publicly named. Verified: (a) Technical.ly article [^1] — the only tier-1 press coverage — explicitly does not name any investors and confirms funding was disclosed only via SEC filing. TEDCO is mentioned as a sponsor of the Technical.ly Maryland Money Moves column, NOT as an investor in this round. (b) Tracxn and PitchBook aggregator pages exist but are paywalled/auth-gated. (c) No BusinessWire, PR Newswire, GlobeNewsWire, or company blog announcement exists. Pearl Diagnostics (Johns Hopkins spinout, Baltimore, non-invasive fungal test with recent FDA clearance and CE approval) did not issue a press release for this Series A. Marking unresolvable — current entry "Undisclosed | Undisclosed" accurately reflects the only public disclosure.'
 - profile: startups/perplexity-ai
   profile_name: Perplexity AI
   company: Series E
@@ -163737,7 +163741,9 @@ vague_facts:
   line: '| 2026-06-09 | Growth | £14M | Undisclosed | Suntory, Estrella Galicia, Apollo Hospitals, UPSA, Future Planet Capital Re'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Verified Rem3dy Health £14M growth round on 2026-06-09 at £84M valuation via 5 independent primary sources (TheBusinessDesk [^1], EU-Startups [^2], The Next Web [^3], The Grocer [^4], BusinessCloud [^5]). Round has NO single lead — jointly led by strategic corporate investors Suntory (Japan), Estrella Galicia (Spain, via Hijos de Rivera), Apollo Hospitals (India), and UPSA (France, French pharmaceutical), with Future Planet Capital Regional (managing West Midlands Co-Investment Fund) participating. Corroborated by nutraingredients and 3dprintingindustry (not cited). Updated Lead column from "Undisclosed" to "Suntory, Estrella Galicia, Apollo Hospitals, UPSA (strategic co-leads)". Added 3 new citations (TheNextWeb, The Grocer, BusinessCloud). Added Melissa Snover (Founder & CEO) founder quote from The Grocer/BusinessCloud, Rupert Lyle (Future Planet Capital Regional Investment Director) investor quote, and José Cabanas (CMO Hijos de Rivera/Estrella Galicia) investor quote from The Grocer.'
 - profile: startups/remission-medical
   profile_name: Remission Medical
   company: '2026-04-13'
