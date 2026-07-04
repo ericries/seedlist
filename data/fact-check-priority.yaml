@@ -515,6 +515,9 @@ priority:
   type: firm
   reason: co-led Eddy Grid €7.5M (2026-05-28)
   added: 2026-05-28
+  status: resolved
+  resolved: 2026-07-03
+  resolution_note: 'Verified Eddy Grid €7.5M growth round on 2026-05-28 co-led by existing investors Graduate Ventures and Volve Capital (round filled almost entirely internally, valuing the company at more than 20x its worth two years prior) via 4 independent primary sources (EU-Startups [^1], BeBeez International [^2], Tracxn [^3], IO+ [^5]). Added IO+ as 4th citation [^5] to eddy-grid.md. Added Sam Rohn founder quote ("That complexity is precisely where our strength lies.") from IO+. Utrecht-based; managing more than 500 MW of energy assets; cash-flow positive; ~900% revenue growth in 2025 with 1000% projected for 2026. Graduate Ventures firm profile does not yet exist in data/firms/.'
 - slug: parkway-venture-capital
   type: firm
   reason: led Hark $700M Series A at $6B val (2026-05-21) — may need new profile
@@ -533,10 +536,16 @@ priority:
   type: firm
   reason: co-led Impulse Space Series D $500M at $4.26B val (2026-06-02)
   added: 2026-06-03
+  status: resolved
+  resolved: 2026-07-03
+  resolution_note: 'Verified Impulse Space $500M Series D on 2026-06-02 co-led by 137 Ventures (Justin Fishner-Wolfson, Founder & Managing Partner) and BANNER VC (Adam Ramada), with Founders Fund, Lux Capital, and Linse Capital participating, via 5 independent primary sources (TechCrunch [^1], GlobeNewsWire [^2], SpaceNews [^3], Impulse Space company press release [^4], Payload Space [^5]). Added company press release and Payload Space as 4th/5th citations. Added Justin Fishner-Wolfson (137 Ventures) investor quote ("Tom helped transform access to space at SpaceX, and now he''s tackling the industry''s next major challenge: in-space mobility."), Adam Ramada (BANNER VC) investor quote, and Tom Mueller (Founder & CEO) founder quote — all from Impulse Space press release. Total raised now above $1B; funds hiring of up to 200 new engineering employees. 137 Ventures firm profile does not yet exist.'
 - slug: a16z-speedrun
   type: firm
   reason: led ZeroDrift $10M seed (2026-06-02)
   added: 2026-06-03
+  status: resolved
+  resolved: 2026-07-03
+  resolution_note: 'Verified ZeroDrift $10M seed on 2026-06-02 led by a16z Speedrun, with Reign Ventures, PitchDrive Ventures, U&I Ventures, Active Capital, Geek Ventures, Converge Ventures, Atlas SGR, and Founders Future participating, via 4 independent primary sources (TechCrunch [^1], GlobeNewsWire [^2], AI Weekly [^3], AlleyWatch Startup Daily Funding Report [^4]). Added AlleyWatch as 4th citation. Round closed within 3 weeks, oversubscribed 3x. Founder Kumesh Aroomoogan previously co-founded/led Accern ($60M+ raised, acquired 2025). Compliance-firewall platform sits between enterprise AI and end users, checking against SEC, FINRA, MiFID II, GDPR, HIPAA in real time. a16z Speedrun is Andreessen Horowitz''s accelerator program — separate firm profile does not yet exist (parent firm andreessen-horowitz is profiled).'
 - slug: bond-capital
   type: firm
   reason: 'RESOLVED 2026-06-07 — Suno Series D $400M at $5.4B val (2026-06-03, Bond-led)

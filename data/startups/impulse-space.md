@@ -41,11 +41,17 @@ Impulse Space is a Redondo Beach, California-based in-space mobility infrastruct
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-02 | Series D (at $4.26B post-money val) | $500M | 137 Ventures, BANNER VC | Founders Fund, Lux Capital, Linse Capital [^1][^2][^3] |
+| 2026-06-02 | Series D (at $4.26B post-money val) | $500M | 137 Ventures, BANNER VC | Founders Fund, Lux Capital, Linse Capital [^1][^2][^3][^4][^5] |
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+> "Tom helped transform access to space at SpaceX, and now he's tackling the industry's next major challenge: in-space mobility."
+>
+> — Justin Fishner-Wolfson, Founder & Managing Partner, 137 Ventures [^4]
+
+> "As activity in orbit increases, in-space mobility becomes foundational."
+>
+> — Adam Ramada, BANNER VC [^4]
 
 ## What Founders Say
 
@@ -53,8 +59,14 @@ No independently sourced investor quotes found at this time.
 >
 > — Eric Romo, President & COO, Impulse Space [^1]
 
+> "We're building more than spacecraft: we're building the economic and technical engine that will power humanity's expansion into space."
+>
+> — Tom Mueller, Founder & CEO, Impulse Space [^4]
+
 ## Sources
 
 [^1]: TechCrunch, "Rocket engine startup Impulse raises $500 million to hire people, not AI," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/
 [^2]: GlobeNewsWire, "Impulse Space Raises $500M Series D to Build In-Space Mobility Infrastructure for the Space Economy," June 2, 2026. Accessed June 2026. https://www.globenewswire.com/news-release/2026/06/02/3305111/0/en/impulse-space-raises-500m-series-d-to-build-in-space-mobility-infrastructure-for-the-space-economy.html
 [^3]: SpaceNews, "Impulse Space raises $500 million," June 2, 2026. Accessed June 2026. https://spacenews.com/impulse-space-raises-500-million/
+[^4]: Impulse Space press release, "Impulse Space Raises $500M Series D to Build In-Space Mobility Infrastructure for the Space Economy," June 2, 2026. Accessed July 2026. https://www.impulsespace.com/updates/impulse-space-raises-500-million-dollar-series-d-to-build-in-space-mobility-infrastructure-for-the-space-economy
+[^5]: Payload Space, "Impulse Space Closes $500M Series D," June 2, 2026. Accessed July 2026. https://payloadspace.com/impulse-space-closes-500m-series-d/

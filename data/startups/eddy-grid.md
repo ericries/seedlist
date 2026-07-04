@@ -33,7 +33,7 @@ Eddy Grid is a Utrecht-based EnergyTech company founded in 2023 by CEO Sam Rohn 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-28 | Growth (internal) | €7.5M | Graduate Ventures, Volve Capital | — [^1][^2][^3] |
+| 2026-05-28 | Growth (internal) | €7.5M | Graduate Ventures, Volve Capital | — [^1][^2][^3][^5] |
 | 2024 | Seed | €1.5M | — | Graduate Ventures, Volve Capital [^4] |
 
 ## What Investors Say
@@ -44,7 +44,9 @@ Eddy Grid is a Utrecht-based EnergyTech company founded in 2023 by CEO Sam Rohn 
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+> "That complexity is precisely where our strength lies."
+>
+> — Sam Rohn, Co-Founder & CEO, Eddy Grid, on the growing sophistication needed to optimize combined solar, wind, and battery systems [^5]
 
 ## Sources
 
@@ -52,3 +54,4 @@ No independently sourced founder quotes found at this time.
 [^2]: BeBeez International, "Cash-flow positive Dutch EnergyTech startup Eddy Grid raises €7.5 million after nearly 900% revenue growth," May 28, 2026. Accessed May 2026. https://bebeez.eu/2026/05/28/cash-flow-positive-dutch-energytech-startup-eddy-grid-raises-e7-5-million-after-nearly-900-revenue-growth/
 [^3]: Tracxn, "Eddy Grid — 2026 Company Profile, Team, Funding & Competitors," accessed May 2026. https://tracxn.com/d/companies/eddygrid/__qQor2aLYuX-eXEbQbdEuEBHY2CjP_9S8EeOWuLrwms8
 [^4]: Silicon Canals, "Dutch energy storage startup Eddy Grid secures €1.5M to tackle overburdened grid congestion," 2024. Accessed May 2026. https://siliconcanals.com/eddy-grid-raises-1-5m/
+[^5]: IO+, "Energy asset optimizer Eddy Grid lands €7.5 million," May 28, 2026. Accessed July 2026. https://ioplus.nl/en/posts/energy-asset-optimizer-eddy-grid-lands-75-million-
