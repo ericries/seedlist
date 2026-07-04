@@ -35158,3 +35158,69 @@ queue:
   firm: Greencode Ventures
   discovered_from: ora-computing
   source: Co-led Ora Computing €3.5M seed (2026-06-24)
+- name: MIXI Global Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: playblue
+  source: Co-lead investor on PlayBlue seed round (2026-07-02)
+- name: WEH Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: playblue
+  source: Participant in PlayBlue seed round (2026-07-02)
+- name: Mustafa Ghouse
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Centre Court Capital
+  discovered_from: playblue
+  source: Founder & General Partner at Centre Court Capital, co-led PlayBlue seed
+    (2026-07-02)
+- name: Tomoharu Urabe
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: MIXI Global Investments
+  discovered_from: playblue
+  source: Managing Director at MIXI Global Investments, co-led PlayBlue seed (2026-07-02)
+- name: CPE
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kling-ai
+  source: Co-lead investor on Kling AI $2B strategic round (2026-07-02)
+- name: CITIC Securities
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kling-ai
+  source: Co-lead investor on Kling AI $2B strategic round (2026-07-02)
+- name: Alibaba Cloud
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kling-ai
+  source: Participant in Kling AI $2B strategic round (2026-07-02)
+- name: Baidu
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kling-ai
+  source: Participant in Kling AI $2B strategic round (2026-07-02)
+- name: Huace Film & TV
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kling-ai
+  source: Participant in Kling AI $2B strategic round (2026-07-02)
