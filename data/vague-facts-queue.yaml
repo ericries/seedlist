@@ -101126,7 +101126,9 @@ vague_facts:
   line: '| Superhuman | ~2021 | Unknown | Productivity/Email | [^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-03
+  resolution_note: 'Queue snapshot is stale — the investors/lachy-groom.md portfolio row was already updated in a prior fact-spec pass to "Angel (round type unverified)" reflecting the outcome of primary-source checks. Reconfirmed via 3 sources: (a) Superhuman company blog (Superhuman raises USD 75M Series C, 2021-08-04) https://blog.superhuman.com/superhuman-raises-75m-series-c/ — Series C led by IVP with Tiger Global; named individual angels: Drew Houston, Timothy Young, Jason Citron, Henrique Dubugras, Arianna Huffington, Ashton Kutcher, Will Smith, The Chainsmokers — Lachy Groom NOT named; (b) Forbes 2021 coverage (Superhuman Raises USD 75 Million For Its Waitlist-Only Email Productivity App, 2021-08-04) https://www.forbes.com/sites/alexkonrad/2021/08/04/superhuman-raises-75-million-for-its-waitlist-only-email-productivity-app/ — same participant list, no Groom mentioned; (c) Boldstart Ventures news post 2021-08-04 https://boldstart.vc/news/superhuman-raises-75-million-for-its-waitlist-only-email-productivity-app-led-by-ivp/ — no Groom mentioned. Groom''s Superhuman position is asserted by aggregator sources (Hustle Fund partner post citing LGF companies list, Signal by NFX, EquityBee) but NOT by any primary press release. Profile row correctly reflects this uncertainty with "Angel (round type unverified)" — no further change needed. Both quality flags (row already qualified, stage counted as "unknown" in Inferred Thesis) already documented in profile lines 51 and 88.'
 - profile: investors/lachy-groom
   profile_name: Lachy Groom
   company: Replicate
@@ -101136,7 +101138,9 @@ vague_facts:
   line: '| Replicate | ~2022 | Unknown | AI/ML infrastructure | [^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-03
+  resolution_note: 'Queue snapshot stale — profile row already updated to "Angel (round type unverified)". Reconfirmed via 3 primary sources: (a) a16z announcement blog (Investing in Replicate, 2023-02-21) https://a16z.com/announcement/investing-in-replicate/ — Series A led by a16z with Matt Bornstein as author; only a16z named as investor; Groom NOT named; (b) TechCrunch (Replicate wants to take the pain out of running and hosting ML models, 2023-02-21) https://techcrunch.com/2023/02/21/replicate-wants-to-take-the-pain-out-of-running-and-hosting-ml-models/ — same lead attribution, no Groom mentioned; (c) TheSaaSNews (Replicate Secures USD 17.8 Million in Funding, 2023-02) — confirms Series A USD 12.5M plus prior undisclosed seed rounds totaling USD 17.8M cumulative; no Groom named. Groom''s Replicate position is asserted only by aggregator sources (Hustle Fund partner post, PitchBook, Tracxn, angelmatch, startups.gallery) without primary confirmation. Note: The corrected round year is 2023 (not 2022) — the ~2022 in the profile is Groom''s likely seed-round participation, but neither the seed nor the Series A press releases name Groom. Profile row correctly reflects this with "Angel (round type unverified)" — no further change needed.'
 - profile: investors/lachy-groom
   profile_name: Lachy Groom
   company: Metronome
@@ -161203,7 +161207,9 @@ vague_facts:
   line: '| 2026-05-01 | Seed | Undisclosed | Delphinus Venture Capital | Rockstart, Aller Aqua [^1][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-03
+  resolution_note: 'Decameal (Danish foodtech converting invasive shore crabs into feed ingredients) seed round amount was intentionally not disclosed. Reviewed primary sources: (a) EU-Startups (Denmark''s Decameal raises Seed funding to turn invasive shore crabs into sustainable feed ingredients, 2026-05) https://www.eu-startups.com/2026/05/denmarks-decameal-raises-seed-funding-to-turn-invasive-shore-crabs-into-sustainable-feed-ingredients/ — no amount stated; (b) BeBeez International (2026-05-01) https://bebeez.eu/2026/05/01/denmarks-decameal-raises-seed-funding-to-turn-invasive-shore-crabs-into-sustainable-feed-ingredients/ — same, no amount; (c) Delphinus VC portfolio page and Rockstart mentions — no amount publicly disclosed by either lead. Investor list (Delphinus Venture Capital lead, Rockstart participation, Aller Aqua as strategic co-investor) is consistent across sources but the round size is not publicly disclosed. Leaving profile entry as-is with amount "Undisclosed".'
 - profile: startups/decart
   profile_name: Decart
   company: 2025-08
@@ -162927,7 +162933,9 @@ vague_facts:
   line: '| 2026-04-30 | Seed | Undisclosed | iGlobe Partners | Fellows Fund, Shanda Ventures [^1][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-03
+  resolution_note: 'Nura Studios seed round amount was intentionally not disclosed by the company. Reviewed 3 independent primary sources: (a) PR Newswire company press release (Founded by Platform Veterans from Apple, Unity, and Roblox, Nura Studios Emerges from Stealth, 2026-04-30) https://www.prnewswire.com/news-releases/founded-by-platform-veterans-from-apple-unity-and-roblox-nura-studios-emerges-from-stealth-to-build-the-future-of-episodic-storytelling-302758753.html — amount not stated; (b) iGlobe Partners announcement page https://www.iglobepartners.com/nura-studios-emerges-from-stealth-to-build-the-future-of-episodic-storytelling/ — investor lists iGlobe, Fellows Fund, Shanda Ventures, no amount; (c) FinSMEs (Nura Studios Emerges from Stealth With Seed Funding, 2026-05) https://www.finsmes.com/2026/05/nura-studios-emerges-from-stealth-with-seed-funding.html — "raised a seed funding round of undisclosed amount"; (d) The SaaS News independently confirms undisclosed amount. All three lead/co-investors (iGlobe Partners, Fellows Fund, Shanda Ventures) are consistent across sources but the round size is not publicly disclosed by any party. Leaving profile entry as-is with amount "Undisclosed".'
 - profile: startups/oasis-security
   profile_name: Oasis Security
   company: ~2024
@@ -163067,7 +163075,9 @@ vague_facts:
   line: '| 2026-04-14 | Seed | Undisclosed | a16z Speedrun | — [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-03
+  resolution_note: 'Resolved via 3 primary sources — TechCrunch (Spin founder raises USD 5 million to build space data centers, 2026-06-09) [^2], GlobeNewswire company press release (Orbital Raises Oversubscribed USD 5M Pre-Seed Round to Build AI Data Centers in Space, 2026-06-09) [^3], and citybiz (Euwyn Poon''s Orbital Raises USD 5M to Build Data Centers in Space, 2026-06-09) [^4]. Round is a USD 5M oversubscribed pre-seed announced 2026-06-09 (Orbital emerged from a16z Speedrun cohort in May 2026). Updated startups/orbital.md: reclassified from "Seed" to "Pre-Seed", updated date from 2026-04-14 to 2026-06-09, added amount (USD 5M), added 14 co-investor names (Basis Set, Human Element, Wayfinder, Antler, Anti Fund, Ascent, Rubik, Zero Knowledge Ventures, LYVC, Feld Ventures, New Legacy, FNDR, UpHonest, Asterisk), added 3 primary citations [^2][^3][^4], added founder quote about Starship/Falcon 9 economics. Updated frontmatter stage_latest and total_raised.'
 - profile: startups/origin
   profile_name: Origin
   company: '2026-03-30'
@@ -165199,7 +165209,9 @@ vague_facts:
   line: '| 2025-05-14 | Series A (€115M stealth-exit) | ~$95M (€115M) | Undisclosed | CDTI, AXIS (ICO) [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-03
+  resolution_note: 'Xoople''s €115M Series A stealth-exit round has no single publicly-named lead investor. Reviewed 3 primary sources: (a) EU-Startups (€115 million for EarthAI: Madrid-based Xoople emerges from stealth as Europe''s next DeepTech breakout, 2025-05) https://www.eu-startups.com/2025/05/e115-million-for-earthai-madrid-based-xoople-emerges-from-stealth-as-europes-next-deeptech-breakout/ — "backed by a mix of domestic and international investors, including CDTI and AXIS"; no single lead named; (b) Tech Funding News (Spanish startup Xoople snaps €115M, 2025-05) https://techfundingnews.com/spanish-startup-xoople-snaps-e115m-5-ways-the-worlds-first-earth-intelligence-company-is-changing-how-we-see-the-planet/ — same multi-investor description; (c) Novobrief (Spanish firm Xoople raises €115 million to map the Earth using AI, 2025-05) https://novobrief.com/spanish-xoople-raises-115m-to-map-the-earth-using-ai/11772/ — same. The round was structured through Spain''s Innvierte programme via CDTI (Centre for the Development of Industrial Technology) and AXIS (VC manager owned by Instituto de Crédito Oficial/ICO) with support from the Spanish Space Agency — public-agency-led consortium with no single private lead. Leaving profile entry as-is with lead "Undisclosed" (accurate — no single lead exists to name).'
 - profile: startups/yelp
   profile_name: Yelp
   company: Angel
