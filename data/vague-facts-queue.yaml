@@ -82554,7 +82554,9 @@ vague_facts:
   line: '| ArchiBoost AI | Unknown | 2026 | AI / productivity | [^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-04
+  resolution_note: 'UNRESOLVABLE — ArchiBoost AI has no publicly disclosed funding round via primary sources. Reviewed: (a) archiboost.ai (product page only, no funding info), (b) LinkedIn ArchiBoost AI company page (no funding info), (c) AECPlusTech tool page (no funding info), (d) F4 Fund startup page https://f4.fund/startups/archiboost (403 Forbidden on WebFetch — F4 is a16z Speedrun''s fund), (e) PitchBook company page https://pitchbook.com/profiles/company/1326641-14 (403), (f) TechCrunch/BusinessWire/PR Newswire searches yielded no announcement, (g) Google Cloud Press Corner/Anthropic-style primary sources absent. Aggregator-only signals (PitchBook, Tracxn, superscout.co): company founded 2025 in Newark, DE; investors variously listed as Andreessen Horowitz, Hanabi Capital Management, Scout Funds, CRV, Long Journey Ventures — but no primary press release confirms round type, date, or amount. Consistent with the Owlery, Dishcraft, and WayTrade unresolvable precedents (aggregator-only attribution without primary confirmation is unreliable). Ishani Thakur portfolio row already qualified with "Unknown" round type and 2026 year via aggregator source [^3]; leaving as-is. No profile change made.'
 - profile: investors/itamar-novick
   profile_name: Itamar Novick
   company: Life360
@@ -160154,7 +160156,9 @@ vague_facts:
   line: '| Google Investment | Late 2022 | $300M | N/A | Google | N/A [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Resolved Google $300M Anthropic investment via 3 primary sources: (1) Google Cloud Press Corner joint partnership announcement dated February 3, 2023 [^30] (Anthropic named Google Cloud as preferred cloud provider; investment amount NOT disclosed in the joint press release); (2) PYMNTS February 6, 2023 [^31] (Google confirmed $300M investment for ~10% stake per Financial Times reporting); (3) Crunchbase News February 3, 2023 [^32] (confirms $300M for 10% stake per FT, implying ~$3B valuation from Google alone; NYT reported broader round could bring Anthropic''s total valuation to ~$5B). Date corrected from "Late 2022" to "2023-02-03 (partnership announced; FT reported investment made late 2022)" — the investment was per FT reporting made in Q4 2022 but publicly disclosed via joint Google Cloud + Anthropic partnership on Feb 3, 2023. Valuation updated from "N/A" to "Not disclosed by Anthropic; FT-reported ~10% stake implies ~$3B; NYT reported round could bring total valuation to ~$5B". Added citations [^30][^31][^32] to Anthropic funding history row.'
 - profile: startups/anthropic
   profile_name: Anthropic
   company: Series C
@@ -160164,7 +160168,9 @@ vague_facts:
   line: '| Series C | 2023-05-23 | $450M | N/A | Spark Capital | Google, Salesforce Ventures, Sound Ventures, Zoom Ventures [^7]['
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Resolved Anthropic Series C valuation via 3 primary sources: (1) Anthropic own press release "Anthropic Raises $450 Million in Series C Funding" May 23, 2023 [^17] — Spark Capital led with Google, Salesforce Ventures, Sound Ventures, Zoom Ventures participating; company does NOT disclose a specific post-money valuation; (2) TechCrunch May 23, 2023 [^18] explicitly notes "Anthropic wouldn''t disclose what the round valued its business at" but references The Information''s March 2023 report that Anthropic was seeking ">$4.1B valuation" and says "it wouldn''t be surprising if that figure ended up being within the ballpark"; (3) Gunderson Dettmer (Spark Capital''s outside counsel) May 23, 2023 primary announcement [^33] confirming $450M Series C led by Spark Capital, Yasmin Razavi joining Board of Directors, but no valuation disclosed. Updated valuation column from "N/A" to "Not disclosed by Anthropic (widely reported ~$4.1B post-money per The Information / TechCrunch)". Added Gunderson Dettmer as 5th citation [^33]. Yasmin Razavi board seat confirmed matches existing frontmatter.'
 - profile: startups/anthropic
   profile_name: Anthropic
   company: Amazon Investment (Tranche 1)
