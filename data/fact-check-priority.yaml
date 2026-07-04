@@ -559,10 +559,16 @@ priority:
   type: firm
   reason: co-led Coralogix Series F $200M at $1.6B val (2026-06-03)
   added: 2026-06-03
+  status: unresolvable
+  resolved: 2026-07-03
+  resolution_note: 'Verified Coralogix $200M Series F on 2026-06-03 at $1.6B post-money valuation co-led by Advent (Alek Ferro) and CPPIB, with Greenfield Partners and Brighton Park Capital participating, via 3 independent primary sources already in coralogix.md (TechCrunch [^1], Coralogix company press release [^2], Axios Pro [^3]). Advent firm profile does NOT exist in data/firms/ — cannot add portfolio row. Instead updated coralogix.md startup profile to add Alek Ferro (Advent) investor quote to "What Investors Say" and two Ariel Assaraf (CEO) founder quotes to "What Founders Say". Advent should be added to queue.yaml as new firm research lead.'
 - slug: cppib
   type: firm
   reason: co-led Coralogix Series F (2026-06-03)
   added: 2026-06-03
+  status: unresolvable
+  resolved: 2026-07-03
+  resolution_note: 'Same round verification — Canada Pension Plan Investment Board (CPPIB) co-led Coralogix $200M Series F on 2026-06-03 at $1.6B post-money valuation, confirmed via 3 primary sources (TechCrunch [^1], Coralogix press release [^2], Axios Pro [^3]). CPPIB firm profile does NOT exist in data/firms/ — cannot add portfolio row. Coralogix startup profile updated with Alek Ferro (Advent) and Ariel Assaraf quotes. CPPIB should be added to queue.yaml as new firm research lead.'
 - slug: redpoint-ventures
   type: firm
   reason: RESOLVED 2026-06-04 — Cyera $300M participation added to portfolio
@@ -1812,11 +1818,17 @@ priority:
   reason: new round-feed profile created 2026-06-16 (€1.5M pre-seed, Vendep Capital
     led)
   added: 2026-06-03
+  status: resolved
+  resolved: 2026-07-03
+  resolution_note: 'Verified GitHits €1.5M ($1.75M USD) pre-seed on 2026-06-16 led by Vendep Capital (Timo Felin, Partner) with Trind VC and angels Peter Sarlin, Zach Shelby, Jerry Liu (LlamaIndex co-founder) participating, via 4 independent primary sources (EU-Startups [^1], ArcticStartup [^2], GlobeNewswire [^3], citybiz [^4]). Added citybiz as 4th citation. Added Timo Felin (Vendep Capital Partner) investor quote ("At this stage, you invest in people, and this was an easy call.") and Olli-Pekka Heinisuo (CTO) founder quote ("Coding agents are great at navigating your local codebase. The problem is that modern software doesn''t stop at the repository boundary.") — both from GlobeNewswire press release. Vendep Capital and Trind VC firm profiles do not yet exist. Currency preserved as €1.5M (Finnish company).'
 - slug: gate2brain
   type: startup
   reason: new round-feed profile created 2026-06-16 (€7M Shilpa Biocare strategic
     investment)
   added: 2026-06-03
+  status: resolved
+  resolved: 2026-07-03
+  resolution_note: 'Verified Gate2Brain €7M strategic investment on 2026-06-16 from Shilpa Biocare Pvt Ltd (subsidiary of Shilpa Medicare Limited), acquiring 30.4% equity stake, structured as €0.5M cash + €5.5M equity for services + €1M project development, via 3 independent primary sources already in gate2brain.md (EU-Startups [^1], Parc Científic de Barcelona press release [^2], Fundació Bosch i Gimpera press release [^3]). All three sources independently confirm date, amount, structure, 30.4% stake, and Meritxell Teixidó (CEO & CSO) quotes. Profile already fully accurate and well-cited — no changes needed. Currency preserved as €7M (Barcelona-based). Shilpa Biocare firm profile does not yet exist.'
 - slug: khosla-ventures
   type: firm
   reason: led Pramaana Labs Seed ($27M, 2026-06-17)
@@ -2012,6 +2024,9 @@ priority:
   reason: new profile created from Series A $6M (2026-06-18, u.ventures + Toloka +
     Movens led)
   added: '2026-06-03'
+  status: resolved
+  resolved: 2026-07-03
+  resolution_note: 'Verified Cargofy $11M Series A on 2026-06-18 (Ukraine-based, HQ Europe/US) co-led by u.ventures, Toloka.vc, and Movens Capital, with Des Traynor (Intercom co-founder) angel investor plus prior seed backers JKR Investment Group and Flyer One Ventures, via 4 independent primary sources (Tech.eu [^1], AIN.UA [^2], EU-Startups [^3], TechFundingNews [^4]). Round structure: $6M primary + $5M secondary. Cumulative funding now $13.5M — updated total_raised in frontmatter. Added TechFundingNews as 4th citation. Added Bogdan Svyrydov (Horizon Capital/u.ventures) investor quote and Stakh Vozniak (CEO) founder quote — both from TechFundingNews. Notable: one early backer fully exited via secondary at 50x+ return. u.ventures, Toloka.vc, and Movens Capital firm profiles do not yet exist. Amount preserved in USD (per primary source Tech.eu title).'
 - slug: coinfund
   type: firm
   reason: led Trace Finance Series A $32M (2026-06-17)

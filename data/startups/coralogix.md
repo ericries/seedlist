@@ -55,11 +55,19 @@ Coralogix is a Boston-headquartered (Israeli-founded) AI-native observability an
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+> "Coralogix has consistently stayed ahead of that transformation, building a platform designed for the scale, speed and complexity of the agentic era."
+>
+> — Alek Ferro, Advent, on the Series F announcement [^2]
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+> "The architecture was already there. Long before the industry started talking about AI agents, we built around the idea that observability needed complete data, open access and infrastructure customers could truly control."
+>
+> — Ariel Assaraf, Co-Founder & CEO of Coralogix, June 3, 2026 [^2]
+
+> "In the AI era, execution and speed matter more than any point-in-time valuation."
+>
+> — Ariel Assaraf, Co-Founder & CEO of Coralogix, TechCrunch interview, June 3, 2026 [^1]
 
 ## Sources
 
