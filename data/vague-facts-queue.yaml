@@ -160851,7 +160851,9 @@ vague_facts:
   line: '| Seed | 2014-07-23 | Undisclosed | Undisclosed | — [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Resolved via primary-source review: no external institutional seed round was raised in July 2014. TechCrunch [^1] (September 17, 2015 article on Clover''s $100M First Round Capital-led Series A) states explicitly: "Prior to raising this round the company was funded by its founders." Wikipedia [^10] documented funding history begins with the September 2015 Series A and does not mention a 2014 external seed round. The July 23, 2014 date appearing in Tracxn [^8] most likely reflects the company''s formation/founding event, not an external institutional seed round. Updated funding table Seed row from "Undisclosed | Undisclosed | — [^8]" to "Founder-funded (no external institutional lead) | Founders (Vivek Garipalli, Kris Gale) | — [^1][^8][^10]", added contextual paragraph in body text explaining the founder-funded finding, and added Wikipedia as new citation [^10]. Confirmed via 3 sources: (1) TechCrunch primary contemporaneous press [^1], (2) Wikipedia funding history summary [^10], (3) Tracxn aggregator [^8] (interpreted as reflecting formation date, not institutional round). Note: Forbes 2021 profile [https://www.forbes.com/sites/katiejennings/2021/02/17/billionaire-clover-health-ceo-vivek-garipallis-expletive-ridden-tirade/] also documents Clover''s VC history without mentioning a 2014 institutional seed.'
 - profile: startups/cognition
   profile_name: Cognition
   company: 2025-09
@@ -160861,7 +160863,9 @@ vague_facts:
   line: '| 2025-09 | Growth | $400M (at $10.2B post-money) | — | — [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Verified Cognition $400M Growth round announced 2025-09-08 at $10.2B post-money valuation, LED by Founders Fund. Participants: Lux Capital, 8VC, Neo, Elad Gil, Definition Capital, Swish VC (existing) and Bain Capital Ventures, Hanabi Capital, D1 Capital (new). Confirmed via 3 independent primary sources: (1) TechCrunch [^4], (2) Cognition company blog [^5], (3) The AI Insider [^6]. Updated cognition.md Funding History row from "| 2025-09 | Growth | $400M | — | — |" to "| 2025-09-08 | Growth | $400M | Founders Fund | Lux Capital, 8VC, Neo, Elad Gil, Definition Capital, Swish VC, Bain Capital Ventures, Hanabi Capital, D1 Capital |" and added 3 new citations. Updated founders-fund.md portfolio row to include this 2025-09-08 Series/Growth lead with 3 new footnotes [^74][^75][^76]. Frontmatter updated for founders-fund entry to reflect Growth $400M (led) with date 2025-09-08.'
 - profile: startups/coinbase
   profile_name: Coinbase
   company: Seed
@@ -161581,7 +161585,9 @@ vague_facts:
   line: '| 2025-09-23 | Strategic | Undisclosed | — | NVIDIA | — [^11][^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Amount confirmed undisclosed — ElevenLabs did NOT publicly disclose the size of NVIDIA''s strategic investment. Verified via 3 independent primary sources: (1) Music Business Worldwide [^11] quotes "The new investment from NVIDIA (value undisclosed) was confirmed by ElevenLabs co-founder and CEO Mati Staniszewski today"; (2) Tech.eu [^17] quotes CEO Staniszewski: "We need strategic partners. It is a good combination where they are coming in with more than capital. Currently, we don''t need the extra capital and now we are thinking about the strategic partners that we can really bring in for the next ten years"; (3) American Bazaar [^24] — added as 3rd citation, confirms amount not disclosed. Updated funding table cell to "Undisclosed (amount not publicly disclosed by ElevenLabs)" for clarity and added Sept 23 as the announcement date confirmed by all three sources. NVIDIA later participated in ElevenLabs Series D (Feb 2026) via NVentures per subsequent coverage. Fact is not "unresolvable" — the undisclosed amount IS the fact, verified as such by 3 primary sources.'
 - profile: startups/eventbrite
   profile_name: Eventbrite
   company: Series C

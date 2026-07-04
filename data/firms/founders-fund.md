@@ -184,7 +184,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | OpenAI | Series F (participated) | 2025-03-31 | AI | Private [^25][^45] |
 | Enter | Series B (led) | 2026-05-05 | AI / Legal Tech / LatAm | Private [^46][^47] |
 | Endurance Energy | Series A (led) | 2026-06-11 | Energy / Geothermal / Climate | Private [^67] |
-| Cognition | Series A (led) 2024-03-12; $1B+ growth (participant at $26B post-money; Lux/General Catalyst/8VC co-led) 2026-05-27 | 2024-03-12; 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^20][^36][^37][^38][^61] |
+| Cognition | Series A (led) 2024-03-12; Growth $400M (led at $10.2B post-money) 2025-09-08; $1B+ growth (participant at $26B post-money; Lux/General Catalyst/8VC co-led) 2026-05-27 | 2024-03-12; 2025-09-08; 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^20][^36][^37][^38][^61][^74][^75][^76] |
 | Nubank | Series C | ~2014 | Fintech / Banking | Public (IPO 2021) [^2] |
 | Trade Republic | Growth | ~2019 (founded) | Fintech / Brokerage | Private [^20] |
 | Spotify | Growth | ~2008 (founded) | Consumer / Music Streaming | Public (IPO 2018) [^20] |
@@ -431,3 +431,9 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^72]: The Next Web, "Stark Defence raises €500M led by Sequoia and Founders Fund at a valuation above €3.5 billion," June 23, 2026. Accessed June 2026. https://thenextweb.com/news/stark-defence-500-million-sequoia-founders-fund-3-5-billion-valuation — Independent confirmation of Founders Fund co-lead role.
 
 [^73]: Bloomberg, "Sequoia, Founders Fund Back German Drone Startup Stark at $3.5 Billion Valuation," June 23, 2026. Accessed June 2026. https://www.bloomberg.com/news/articles/2026-06-23/sequoia-founders-fund-back-german-drone-startup-stark-at-3-5-billion-valuation — Tier-1 press confirming Founders Fund co-led the Stark Defence round.
+
+[^74]: TechCrunch, "Cognition AI defies turbulence with a $400M raise at $10.2B valuation," September 8, 2025. Accessed July 2026. https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/ — Names Founders Fund as lead of Cognition's $400M round at $10.2B post-money valuation; participants Lux Capital, 8VC, Elad Gil, Definition Capital, Swish Ventures.
+
+[^75]: Cognition, "Funding, growth, and the next frontier of AI coding agents," company blog, September 8, 2025. Accessed July 2026. https://cognition.com/blog/funding-growth-and-the-next-frontier-of-ai-coding-agents — Company confirms Founders Fund led; existing investors Lux Capital, 8VC, Neo, Elad Gil, Definition Capital, Swish VC; new investors Bain Capital Ventures, Hanabi Capital, D1 Capital.
+
+[^76]: The AI Insider, "Cognition AI Closes $400M in Funding to Reach $10.2B Valuation Amid Rapid Growth," September 9, 2025. Accessed July 2026. https://theaiinsider.tech/2025/09/09/cognition-ai-closes-400m-in-funding-to-reach-10-2b-valuation-amid-rapid-growth/ — Third independent confirmation that Founders Fund led Cognition's $400M round at $10.2B valuation.

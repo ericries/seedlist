@@ -28,7 +28,10 @@ firms:
   slug: conviction
   year: 2023
 - slug: 8vc
-- slug: founders-fund
+- round: Growth $400M (led)
+  slug: founders-fund
+  year: 2025
+  date: 2025-09-08
 - slug: general-catalyst
 - slug: ribbit-capital
 founded: 2023
@@ -105,7 +108,7 @@ Cognition is a San Francisco-based AI coding company founded in 2023 by CEO Scot
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-05-27 | Growth | $1B+ (at $26B post-money) | Lux Capital, General Catalyst, 8VC | Elad Gil, Soma Capital, Omri Casspi, Founders Fund, Ribbit Capital, Atreides, Layer Global [^1][^2][^3] |
-| 2025-09 | Growth | $400M (at $10.2B post-money) | — | — [^1] |
+| 2025-09-08 | Growth | $400M (at $10.2B post-money) | Founders Fund | Lux Capital, 8VC, Neo, Elad Gil, Definition Capital, Swish VC, Bain Capital Ventures, Hanabi Capital, D1 Capital [^4][^5][^6] |
 
 ## What Investors Say
 
@@ -120,3 +123,6 @@ No independently sourced founder quotes found at this time.
 [^1]: TechCrunch, "AI coding startup Cognition raises $1B at $25B pre-money valuation," May 27, 2026. Accessed May 2026. https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
 [^2]: Cognition AI, "Cognition AI," Wikipedia, accessed May 2026. https://en.wikipedia.org/wiki/Cognition_AI
 [^3]: Contrary Research, "Report: Cognition Business Breakdown & Founding Story," accessed May 2026. https://research.contrary.com/company/cognition
+[^4]: TechCrunch, "Cognition AI defies turbulence with a $400M raise at $10.2B valuation," September 8, 2025. Accessed July 2026. https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/
+[^5]: Cognition, "Funding, growth, and the next frontier of AI coding agents," company blog, September 8, 2025. Accessed July 2026. https://cognition.com/blog/funding-growth-and-the-next-frontier-of-ai-coding-agents
+[^6]: The AI Insider, "Cognition AI Closes $400M in Funding to Reach $10.2B Valuation Amid Rapid Growth," September 9, 2025. Accessed July 2026. https://theaiinsider.tech/2025/09/09/cognition-ai-closes-400m-in-funding-to-reach-10-2b-valuation-amid-rapid-growth/
