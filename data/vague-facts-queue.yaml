@@ -165321,7 +165321,9 @@ vague_facts:
   line: '| Legora | Round undisclosed | ~2024 | AI/Legal Tech | Active [^6][^29] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-03
+  resolution_note: 'Legora had six announced rounds (2024-05-16 $10.5M seed Benchmark-led; 2024-07-17 $25M Series A Alt Capital/Redpoint-led; 2025-05-21 $80M Series B ICONIQ/General Catalyst-led; 2025-10-28 $150M Series C Bessemer-led; 2026-03-09 $550M Series D Accel-led). Abstract Ventures is not named in ANY primary press release or the company blog for any of these rounds — only appears on Abstract''s own portfolio page [^6]. Specific round of Abstract participation cannot be verified from primary sources. Existing [^29] Tracxn footnote already discloses this. Leaving row as ~2024 with the existing disclaimer.'
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Griptape
@@ -165331,7 +165333,9 @@ vague_facts:
   line: '| Griptape | Seed | 2023 | AI / Developer Tools | [^16] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-03
+  resolution_note: 'Tightened Griptape Seed to 2023-09-19 with $12.5M co-led by FUSE and Acequia Capital, with Crosslink Capital, Range Ventures, Peterson Ventures participating. Verified via 3 independent primary sources: GeekWire funding article [^25] (Sep 19, 2023, based on SEC Form D filing, confirmed by CEO Kyle Roche), Investitin.com [^26] (independent confirmation of investor list), and Tracxn funding & investors page (cross-referenced Date/amount). Griptape was later acquired by Foundry (already cited [^16]). Co-founders Kyle Roche (ex-AWS head of immersive tech) and Vasily Vasinov (ex-AWS principal PM).'
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Harbinger Motors
@@ -165341,7 +165345,9 @@ vague_facts:
   line: '| Harbinger Motors | Series A | 2023 | EV / New Industrials | [^10] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-03
+  resolution_note: 'Tightened Harbinger Motors Series A to 2023-09-20 ($60M co-led by Ridgeline and THOR Industries, with Greycroft/Coca-Cola System Sustainability Fund, Riverstone Holdings, Squarepoint Capital, Acequia Capital new; Tiger Global, Kalyani Mobility, Maniv Mobility, Overture, Ironspring Ventures returning). Verified via 3 primary sources: PR Newswire official press release already cited [^10] which names Acequia as a new investor, Harbinger Motors company newsroom (confirms date), Silicon Valley Journals [^27] (independent press coverage confirming date, amount, and co-leads).'
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: Sphere Semi

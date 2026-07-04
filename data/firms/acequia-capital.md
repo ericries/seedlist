@@ -120,8 +120,8 @@ The firm's website states the portfolio "consists of over 350 companies" [^12]. 
 | Tractable | Seed | ~2015 | AI / Insurance | [^12][^6] |
 | Supernormal | Seed | 2023-01-26 | AI / Productivity | [^12][^15][^20][^21][^22] |
 | deepset | Series A | 2022 | AI / NLP | [^11] |
-| Griptape | Seed | 2023 | AI / Developer Tools | [^16] |
-| Harbinger Motors | Series A | 2023 | EV / New Industrials | [^10] |
+| Griptape | Seed ($12.5M, co-led with FUSE) | 2023-09-19 | AI / Developer Tools | [^16][^25][^26] |
+| Harbinger Motors | Series A ($60M, co-led by Ridgeline and THOR Industries) | 2023-09-20 | EV / New Industrials | [^10][^27] |
 | Hyperscience | Seed | ~2015 | AI / Automation | [^12] |
 | Picsellia | Seed | 2022 | AI / Computer Vision | [^12] |
 | Groq | Early | ~2016 | AI / Semiconductors | [^12] |
@@ -201,3 +201,6 @@ No independently sourced founder testimonials found. The firm's website and publ
 [^22]: Voicebot.ai, "Generative AI Startup Supernormal Raises $10M to Take Meeting Notes With GPT-3," January 26, 2023. Accessed June 2026. https://voicebot.ai/2023/01/26/generative-ai-startup-supernormal-raises-10m-to-take-meeting-notes-with-gpt-3/
 [^23]: Swave Photonics, "Swave Photonics Secures €10M Seed Funding Round to Develop Holographic Augmented Reality," June 22, 2023. Accessed June 2026. https://swave.io/swave-photonics-secures-e10m-seed-funding-round-to-develop-holographic-augmented-reality/
 [^24]: PR Newswire, "Swave Photonics Secures €10M Seed Funding Round to Develop Holographic Augmented Reality," June 22, 2023. Accessed June 2026. https://www.prnewswire.com/news-releases/swave-photonics-secures-10m-seed-funding-round-to-develop-holographic-augmented-reality-301856012.html
+[^25]: GeekWire, "Amazon vets raise $12.5M for Griptape, a Seattle startup that helps companies build AI apps," September 19, 2023. Accessed July 2026. https://www.geekwire.com/2023/amazon-vets-raise-cash-for-griptape-a-seattle-startup-that-helps-companies-build-ai-apps/ — Primary source: co-founders Kyle Roche (ex-AWS head of immersive technology) and Vasily Vasinov (ex-AWS principal PM) raised $12.5M seed on September 19, 2023, disclosed via SEC Form D filing. Named investors: Fuse and Acequia Capital (Seattle-area co-leads), Crosslink Capital, Range Ventures, Peterson Ventures.
+[^26]: Investitin, "Amazon Execs Secure Funding for Seattle's Griptape AI App Startup," September 2023. Accessed July 2026. https://investitin.com/former-amazon-executives-secure-funding-for-griptape-a-seattle-startup-aiding-companies-in-ai-app-development/ — Independent confirmation of the $12.5M round after a $2M pre-seed in May 2023; investors: "Fuse, Crosslink Capital, Range Ventures, Peterson Ventures, and Acequia Capital."
+[^27]: Silicon Valley Journals, "Harbinger Motors Raises $60 Million in Series A Funding," September 20, 2023. Accessed July 2026. https://siliconvalleyjournals.com/harbinger-motors-raises-60-million-in-series-a-funding/ — Independently confirms Harbinger Motors $60M Series A announced September 20, 2023, co-led by Ridgeline and THOR Industries.
