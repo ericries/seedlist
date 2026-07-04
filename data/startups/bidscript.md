@@ -36,7 +36,9 @@ The July 2026 follow-on brings BidScript's total pre-seed funding to more than �
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+> "Our investment into BidScript was one of the first cheques written following our inaugural PraeSeed programme, and watching the business grow in size and stature since then has been inspiring." — Harry Manley, Investment Associate at PXN Ventures, on BidScript's follow-on pre-seed, July 2, 2026 [^3]
+
+> "Henry and Tyler are tackling a problem most people overlook; the antiquated system of managing public and private contracts." — Ed Stevenson, Principal at SFC Capital, on BidScript's follow-on pre-seed, July 2, 2026 [^3]
 
 ## What Founders Say
 

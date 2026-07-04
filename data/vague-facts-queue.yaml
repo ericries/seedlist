@@ -163483,7 +163483,9 @@ vague_facts:
   line: '| Series D (ext) | 2021-08-17 | Undisclosed | J.P. Morgan Private Capital, Amex Ventures | [^8][^10] | $13.4B (unchanged'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Plaid Series D extension amount (2021-08-17, J.P. Morgan Private Capital + Amex Ventures) is genuinely undisclosed — confirmed via 4 independent primary sources: (1) Plaid company blog [^8] (no amount stated), (2) PYMNTS [^10] (no amount stated), (3) American Banker [^11] ("The size of the financial commitments was not disclosed, but they add to a $425 million fundraising round"), (4) Finovate [^12] ("Financial terms of the investment were not disclosed"). Valuation confirmed unchanged at $13.4B across all sources (previous $425M Series D valuation from Apr 2021). Added American Banker and Finovate as citations [^11][^12] and updated "Undisclosed" to "Undisclosed (not publicly stated)" for clarity. Also expanded lead investor label from "J.P. Morgan Private Capital" to full name "J.P. Morgan Private Capital Growth Equity Partners".'
 - profile: startups/plaquetec
   profile_name: PlaqueTec
   company: '2026-04-27'
@@ -163503,7 +163505,9 @@ vague_facts:
   line: '| 2025-02 | Seed | $4M | Undisclosed | [^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Resolved Plot Feb 2025 seed round from "$4M | Undisclosed" to "$4.1M | Seven Seven Six (Alexis Ohanian), XYZ Capital, Trust Fund (Sophia Amoruso)" via 3 primary sources: (1) Adweek "Alexis Ohanian-Backed AI Startup Plot Raises USD 4.1M to Decode Social Video" [^4] naming Seven Seven Six, XYZ Capital and Trust Fund as investors (headline article behind soft paywall — confirmed via Adweek official LinkedIn re-post activity ID 7292608927144292355 and via search snippet), (2) Trust Fund (Sophia Amoruso) LinkedIn "Trust Fund''s First Investment: Meet Plot" — Amoruso describes Ohanian as introducing her to Plot CEO Megan Duong, (3) SuperbCrew [^5] describing Seven Seven Six as "a prior backer" of Plot before the June 2026 round. Lead investor is not explicitly stated in accessible primary sources — Adweek framing centers Seven Seven Six/Ohanian as the notable backer but does not use "led by" language. Corrected amount from $4M to $4.1M per Adweek headline. Updated total_raised from $14M to $14.1M. Added Adweek Feb 2025 article and Superbcrew as new citations [^4][^5].'
 - profile: startups/portal-space-systems
   profile_name: Portal Space Systems
   company: ~2025
@@ -163585,7 +163589,9 @@ vague_facts:
   line: '| 2025-03 | Series A | €20M | — | — [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Resolved QuantWare Series A (2025-03) from "€20M | — | —" to "2025-03-04 | €20M | Invest-NL Deep Tech Fund + Innovation Quarter (co-led) | EIC Fund, FORWARD.one, Graduate Entrepreneur Fund, QDNL Participations, Job van der Voort (Remote CEO)" via 3 independent primary sources: (1) QuantWare company press release [^4] (2025-03-04, quantware.com), (2) Tech.eu [^5] (2025-03-04, contemporaneous press), (3) The Quantum Insider [^6] (2025-03-04, quantum-industry press). All three sources agree on date, amount, co-leads and full participant list. Tightened date from "2025-03" to "2025-03-04". Added the three new citations [^4][^5][^6].'
 - profile: startups/qubehealth
   profile_name: QubeHealth
   company: '2026-06-11'

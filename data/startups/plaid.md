@@ -148,7 +148,7 @@ Plaid is a fintech infrastructure company founded in 2013 by Zach Perret and Wil
 | Series B | Jun 2016 | $44M | Goldman Sachs Investment Partners | NEA, Spark Capital [^5] | -- |
 | Series C | Dec 2018 | $250M | Mary Meeker / Kleiner Perkins | Andreessen Horowitz, Index Ventures, Goldman Sachs, NEA, Spark Capital [^6] | $2.65B |
 | Series D | Apr 2021 | $425M | Altimeter Capital | Silver Lake, Ribbit Capital, Andreessen Horowitz, Index Ventures, Kleiner Perkins, NEA, Spark Capital, Thrive Capital [^7] | $13.4B |
-| Series D (ext) | 2021-08-17 | Undisclosed | J.P. Morgan Private Capital, Amex Ventures | [^8][^10] | $13.4B (unchanged) |
+| Series D (ext) | 2021-08-17 | Undisclosed (not publicly stated) | J.P. Morgan Private Capital Growth Equity Partners, Amex Ventures | [^8][^10][^11][^12] | $13.4B (unchanged) |
 | Series E | Apr 2025 | $575M | Franklin Templeton | Fidelity, BlackRock, NEA, Ribbit Capital [^9] | $6.1B |
 
 ## What Investors Say
@@ -171,3 +171,5 @@ No independently sourced founder testimonials found.
 [^8]: Plaid Blog, "Plaid announces additional Series D funding," August 2021. https://plaid.com/blog/plaid-announces-additional-series-d-funding/
 [^9]: TechCrunch, "Fintech Plaid raises $575M at a $6.1B valuation, says it will not go public in 2025," April 3, 2025. https://techcrunch.com/2025/04/03/fintech-plaid-raises-575m-at-6-1b-valuation-says-it-will-not-go-public-in-2025/
 [^10]: PYMNTS, "Plaid Raises Additional Series D Funding Led By J.P. Morgan Private Capital, Amex," August 17, 2021. https://www.pymnts.com/news/investment-tracker/2021/plaid-raises-additional-series-d-funding-led-by-jpmorgan-amex/
+[^11]: American Banker, "Plaid stockpiles funding with investments by JPMorgan, American Express," accessed July 2026. https://www.americanbanker.com/news/plaid-stockpiles-funding-with-investments-by-jpmorgan-american-express
+[^12]: Finovate, "Plaid Lands Funding from JP Morgan Private Capital & Amex," accessed July 2026. https://finovate.com/plaid-lands-funding-from-jp-morgan-amex/

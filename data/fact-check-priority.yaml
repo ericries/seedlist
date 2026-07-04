@@ -2353,6 +2353,9 @@ priority:
   type: startup
   reason: "new profile: $40M total ($34M Series A by a16z + $6M Seed by Sequoia) 2026-06-23"
   added: 2026-06-23
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: "Verified Probook $40M total on 2026-06-23 — $34M Series A led by Andreessen Horowitz (David Haber, GP) with Sequoia Capital participating, and prior $6M Seed led by Sequoia Capital (Konstantine Buhler, Partner) — via 3 independent primary sources already in profile (a16z announcement [^2], GlobeNewswire company press release [^1], Tech Funding News [^3]). Added David Haber (a16z GP) and Konstantine Buhler (Sequoia Partner) investor quotes to 'What Investors Say' from GlobeNewswire press release, plus George Eliadis (Co-Founder & CEO) founder quote ('I grew up pressure washing in upstate New York with my dad. Six summers in the truck.') to 'What Founders Say' from same source. Andreessen Horowitz and Sequoia Capital firm profile portfolio rows already contain Probook with matching citations — no changes needed there. Total funding: $40M."
 - slug: first-round-capital
   type: firm
   reason: "led Ploy $27M Seed (2026-06-17) — verify portfolio row exists"
@@ -2903,6 +2906,9 @@ priority:
   type: startup
   reason: "new startup profile (Pre-Seed follow-on 2026-07-02, £600K led by NPIF II – PXN Equity Finance with SFC Capital)"
   added: 2026-07-02
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: "Verified BidScript £600K Pre-Seed follow-on on 2026-07-02 led by NPIF II – PXN Equity Finance (managed by PXN Ventures) with SFC Capital participating, via 3 independent primary sources already in profile (Business Desk North West [^1], Tech.eu [^2], Prolific North [^3]). Currency preserved as £600K (US-currency versions of the story converted to $800K). Total pre-seed funding to date: £751K+. Added investor quotes from Harry Manley (PXN Ventures Investment Associate) and Ed Stevenson (SFC Capital Principal) to 'What Investors Say' from Prolific North — replaces prior 'No independently sourced investor quotes found' placeholder. Founder quote from Henry Brogan already in profile verified verbatim. No firm profiles exist for PXN Ventures or SFC Capital — remain queue leads."
 - slug: lux-capital
   type: firm
   reason: "led 1001 Series A (2026-06-30), $30M"

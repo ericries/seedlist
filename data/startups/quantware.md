@@ -28,7 +28,7 @@ QuantWare is a Delft, Netherlands-based company designing, fabricating, and inte
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2025-03 | Series A | €20M | — | — [^2] |
+| 2025-03-04 | Series A | €20M | Invest-NL Deep Tech Fund, Innovation Quarter (co-led) | EIC Fund, FORWARD.one, Graduate Entrepreneur Fund, QDNL Participations, Job van der Voort (Remote CEO) [^4][^5][^6] |
 | 2026-05-05 | Series B | €152M ($178M) | Intel Capital | In-Q-Tel, ETF Partners, FORWARD.one, Invest-NL Deep Tech Fund, InnovationQuarter Capital, Ground State Ventures, Graduate Ventures [^1][^2][^3] |
 
 The Series B was described in the announcement as the largest private round raised by a dedicated quantum processor company to date and the largest ever raised by a Dutch deeptech company [^1][^2].
@@ -48,3 +48,6 @@ No independently sourced investor quotes about this round were found at time of 
 [^1]: EU-Startups, "QuantWare raises €152 million in the largest private round for a dedicated quantum processor company," May 5, 2026, accessed May 2026. https://www.eu-startups.com/2026/05/quantware-raises-e152-million-in-the-largest-private-round-for-a-dedicated-quantum-processor-company/
 [^2]: Tech.eu, "QuantWare secures €152M for large-scale quantum systems," May 5, 2026, accessed May 2026. https://tech.eu/2026/05/05/quantware-secures-eur152m-for-large-scale-quantum-systems/
 [^3]: The Quantum Insider, "QuantWare Raises $178 Million to Build Quantum Processors at an Industrial Scale," May 5, 2026, accessed May 2026. https://thequantuminsider.com/2026/05/05/quantware-raises-178-million-to-build-quantum-processors-at-an-industrial-scale/
+[^4]: QuantWare company press release, "QuantWare raises €20 million Series A to power the world's largest quantum computers," March 4, 2025, accessed July 2026. https://quantware.com/news/quantware-raises-eu20-million-series-a-to-power-the-worlds-largest-quantum-computers
+[^5]: Tech.eu, "QuantWare secures €20M Series A to help develop large-scale quantum processors," March 4, 2025, accessed July 2026. https://tech.eu/2025/03/04/quantware-secures-20m-series-a-to-help-develop-large-scale-quantum-processors/
+[^6]: The Quantum Insider, "QuantWare Raises €20 million Series A," March 4, 2025, accessed July 2026. https://thequantuminsider.com/2025/03/04/quantware-raises-e20-million-series-a/

@@ -46,11 +46,15 @@ Probook is a New York City-based developer of an AI-powered operating system for
 
 ## What Investors Say
 
-"Every home services business runs on dispatch: which technician goes to which job, in what order, at what time. Almost every AI vendor building for the trades skipped dispatch, instead rushing to build voice agents and chat." — Andreessen Horowitz [^4]
+> "Every home services business runs on dispatch: which technician goes to which job, in what order, at what time. Almost every AI vendor building for the trades skipped dispatch, instead rushing to build voice agents and chat." — Andreessen Horowitz, on Probook's Series A, June 23, 2026 [^4]
+
+> "Dispatch is the nerve center of every home service business, and Probook built their entire platform around it." — David Haber, General Partner at Andreessen Horowitz, on Probook's Series A, June 23, 2026 [^1]
+
+> "Most founders building for the trades have never worked in them. George has. Pair that with the team's outlier technical depth, and you see why we backed Probook at Seed." — Konstantine Buhler, Partner at Sequoia Capital, on Probook's Seed, June 23, 2026 [^1]
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at this time.
+> "I grew up pressure washing in upstate New York with my dad. Six summers in the truck. I'd be up on a ladder washing a house and miss calls because I couldn't hear my phone ringing." — George Eliadis, Co-Founder & CEO, Probook, on the company's origin, June 23, 2026 [^1]
 
 ## Sources
 
