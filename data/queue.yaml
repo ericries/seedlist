@@ -35232,3 +35232,82 @@ queue:
   discovered_from: gazal-alagh
   source: Led Kidbea's ₹30 Cr Series A (March 2026), alongside Ghazal Alagh, Roman
     Saini, and others.
+- name: Ares Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: premier-lacrosse-league
+  source: led PLL Series E June 2026
+- name: Joe Tsai
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: premier-lacrosse-league
+  source: co-lead PLL Series E June 2026 alongside Ares
+- name: Creator Sports Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: premier-lacrosse-league
+  source: PLL Series E participant
+- name: FirstTracks Sports Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: premier-lacrosse-league
+  source: PLL Series E participant
+- name: Bolt Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: premier-lacrosse-league
+  source: David Blitzer platform, PLL Series E participant
+- name: David Blitzer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bolt Ventures
+  discovered_from: premier-lacrosse-league
+  source: PLL Series E participant via Bolt Ventures
+- name: West End Investment Management
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: premier-lacrosse-league
+  source: PLL Series E participant
+- name: Formus Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: talp
+  source: led Talp pre-seed July 2026
+- name: Sunshine Lake Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: talp
+  source: Talp pre-seed participant
+- name: Aito Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: talp
+  source: Talp pre-seed participant
+- name: Baran Ataş
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Talp
+  discovered_from: talp
+  source: Founder & CEO of Talp
