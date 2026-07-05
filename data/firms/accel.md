@@ -190,9 +190,9 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Spotify | Series D | 2011 | Consumer/Music | [^6][^21][^22] |
 | Atlassian | Growth ($60M, led; Rich Wong joined board — first outside financing) | 2010-07-14 | Enterprise | [^6][^23][^24][^atl-vcj] |
 | Flipkart | Seed ($800K) | 2008 | E-commerce | [^6][^25][^26] |
-| CrowdStrike | Series B ($30M, led) | 2013 | Cybersecurity | [^6][^27][^28] |
-| Qualtrics | Series A ($70M, co-led with Sequoia) | 2012 | Enterprise | [^6][^29][^30] |
-| Etsy | Series D ($27M, led) | 2008 | E-commerce | [^6][^31][^32] |
+| CrowdStrike | Series B ($30M, led; Warburg Pincus participated; Sameer Gandhi joined board) | 2013-09-09 | Cybersecurity | [^6][^27][^28][^114] |
+| Qualtrics | Series A ($70M, co-led with Sequoia — largest joint investment; Ryan Sweeney + Bryan Schreier joined board) | 2012-05-15 | Enterprise | [^6][^29][^30][^115] |
+| Etsy | Series D ($27M, led; Union Square Ventures + Hubert Burda Media participated; Jim Breyer joined board) | 2008-01-30 | E-commerce | [^6][^31][^32][^116] |
 | Braintree | Series A ($34M, led) | 2011 | Fintech | [^33][^34] |
 | Supercell | Series A ($12M, led) | 2011 | Gaming | [^35][^36] |
 | Scale AI | Early | 2017 | AI/Data | [^12] |
@@ -454,3 +454,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^db-tc]: TechCrunch, "Dropbox Raised $6 Million Sequoia-Led Series A In October 2008," November 24, 2009. Accessed July 2026. https://techcrunch.com/2009/11/24/dropbox-sequoia-funding/ — Verbatim: "Dropbox did close a Series A funding round, but it was for $6 million, and it was back in October 2008. And it was led by Sequoia, not Accel (though Accel did participate in the round)." Clarifies Sameer Gandhi led the seed at Sequoia in fall 2007, moved to Accel in spring 2008, and Sequoia "cut him in" on the Series A while at Accel.
 
 [^atl-vcj]: Venture Capital Journal, "Atlassian Raises $60 Million from Accel Partners," July 14, 2010. Accessed July 2026. https://www.venturecapitaljournal.com/atlassian-raises-60-million-from-accel-partners/ — Third independent confirmation of the July 14, 2010 announcement date. Atlassian corporate blog and TechCrunch (already cited [^23][^24]) provide the other two primary sources; both establish Rich Wong joined the Atlassian board with proceeds used partly for founder/employee secondary liquidity in addition to primary new equity.
+
+[^114]: AllThingsD, "Crowdstrike Lands $30 Million Series B Led by Accel Partners," September 9, 2013. Accessed July 2026. https://allthingsd.com/20130909/crowdstrike-lands-30-million-series-b-led-by-accel-partners/ — Third independent confirmation of the September 9, 2013 announcement date. Confirms $30M Series B led by Accel Partners with founding investor Warburg Pincus participating, and Sameer Gandhi joining CrowdStrike's board of directors. TechCrunch (Sep 8, 2013 preview: https://techcrunch.com/2013/09/08/crowdstrike-raises-30m-for-data-security-platform-built-to-put-adversaries-on-the-defensive/) provides a fourth independent contemporaneous source.
+
+[^115]: Fortune, "Qualtrics raises $70 million from Accel and Sequoia," May 15, 2012. Accessed July 2026. https://fortune.com/2012/05/15/qualtrics-raises-70-million-from-accel-and-sequoia/ — Third independent confirmation of the May 15, 2012 announcement date. Confirms $70M co-led by Accel Partners and Sequoia Capital as the two firms' "largest-ever joint investment"; Ryan Sweeney (Accel) and Bryan Schreier (Sequoia) joined Qualtrics' board of directors. BusinessWire press release (May 15, 2012: https://www.businesswire.com/news/home/20120515006395/en/Qualtrics-Raises-70-Million-in-Funding-from-Accel-Partners-and-Sequoia-Capital) provides a fourth independent contemporaneous primary source.
+
+[^116]: Charlie O'Donnell, "Etsy Raises $27 mil… Accel and Jim Breyer comes in. Score one for NYC," This Is Going To Be Big, January 30, 2008. Accessed July 2026. https://www.thisisgoingtobebig.com/blog/2008/1/30/etsy-raises-27-mil-accel-and-jim-breyer-comes-in-score-one-f.html — Third independent confirmation of the January 30, 2008 announcement date; contemporaneous NYC VC blog post by Charlie O'Donnell (then Union Square Ventures) confirms the $27M Series D and Accel/Jim Breyer's arrival on the board. Union Square Ventures (existing seed/A investor) and Hubert Burda Media also participated in this round per TechCrunch [^31].

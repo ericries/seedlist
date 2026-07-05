@@ -89,7 +89,7 @@ Based on 111 verified portfolio companies listed on the Breyer Capital website [
 | Facebook/Meta | Series A | 2005 | Consumer/Social | IPO (2012) [^5] |
 | Walmart.com | Early | 2001 | E-commerce | Division of Walmart [^2] |
 | Marvel Entertainment | Early | ~2005 | Media | Acquired by Disney, 2009 ($4B+) [^2] |
-| Etsy | Early Venture | 2008 | E-commerce | IPO (2015) [^3] |
+| Etsy | Series D ($27M, Accel-led — Jim Breyer joined board) | 2008-01-30 | E-commerce | IPO (2015) [^3] |
 | Spotify | Early | ~2011 | Media/Music | Direct Listing (2018) [^2] |
 | Legendary Entertainment | Growth | 2011 | Media | Acquired by Wanda Group, 2016 ($3.5B+) [^2] |
 | 21st Century Fox | Growth | ~2011 | Media | Acquired by Disney, 2017 ($52.4B) [^3] |

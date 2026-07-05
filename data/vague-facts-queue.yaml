@@ -199758,7 +199758,9 @@ vague_facts:
   line: '| CrowdStrike | Series B ($30M, led) | 2013 | Cybersecurity | [^6][^27][^28] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened CrowdStrike Series B on accel.md from "2013" to "2013-09-09" via 3+ independent primary sources: PR Newswire official press release [^27] (existing), Accel portfolio page [^28] (existing), AllThingsD [^114] (new), and TechCrunch (Sept 8 2013 preview, cited within [^114]) as fourth independent source. Confirmed: $30M Series B led by Accel Partners with founding investor Warburg Pincus participating; Sameer Gandhi (Accel Partner) joined CrowdStrike board of directors. Round brought total capital raised to $56M. George Kurtz CEO. Updated row to include Warburg Pincus participation and Sameer Gandhi board seat which were missing before.'
 - profile: firms/accel
   profile_name: Accel
   company: Qualtrics
@@ -199768,7 +199770,9 @@ vague_facts:
   line: '| Qualtrics | Series A ($70M, co-led with Sequoia) | 2012 | Enterprise | [^6][^29][^30] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Qualtrics Series A on accel.md from "2012" to "2012-05-15" via 3+ independent primary sources: TechCrunch [^29] (existing), Accel portfolio page [^30] (existing), Fortune [^115] (new), plus BusinessWire official press release (cited within [^115]) as fourth independent source. Confirmed: $70M co-led by Accel Partners and Sequoia Capital — described as the two firms'' "largest-ever joint investment." Ryan Sweeney (Accel) and Bryan Schreier (Sequoia) joined the Qualtrics board. First institutional funding round; company had been bootstrapped and profitable since 2002 founding. CEO Ryan Smith. Provo, Utah HQ. Row updated to include both board seats and the "largest joint investment" note.'
 - profile: firms/accel
   profile_name: Accel
   company: Etsy
@@ -199778,7 +199782,9 @@ vague_facts:
   line: '| Etsy | Series D ($27M, led) | 2008 | E-commerce | [^6][^31][^32] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Etsy Series D on accel.md from "2008" to "2008-01-30" via 3 independent primary sources: TechCrunch [^31] (existing, dated January 30 2008), Accel portfolio page [^32] (existing), and Charlie O''Donnell (This Is Going To Be Big) blog [^116] (new, dated January 30 2008 — contemporaneous NYC VC blog by then-USV employee). Confirmed: $27M Series D led by Accel Partners; Union Square Ventures (existing seed/A investor, returning) and Hubert Burda Media (per TechCrunch [^31]) also participated. Jim Breyer (Accel) joined Etsy''s board alongside existing members Caterina Fake (Flickr founder) and Fred Wilson (USV). At the time Etsy had 650K members, 120K sellers across 127 countries, and 50 employees in Brooklyn. Founder Rob Kalin. Also tightened Breyer Capital portfolio row for Etsy from "Early Venture | 2008" to "Series D ($27M, Accel-led — Jim Breyer joined board) | 2008-01-30" for consistency.'
 - profile: firms/accel
   profile_name: Accel
   company: Braintree
