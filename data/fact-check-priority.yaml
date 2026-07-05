@@ -3146,3 +3146,7 @@ priority:
   type: firm
   reason: "appeared in Traysar Seed (2026-06-16), $25M"
   added: 2026-07-05
+- slug: kredosai
+  type: startup
+  reason: "new profile from KredosAi Series A (2026-07-02), $7M"
+  added: 2026-07-05
