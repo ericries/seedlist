@@ -35335,3 +35335,73 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: ankur-singla
+- name: BNVT Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dawnguard
+  source: existing investor leading Dawnguard $3.3M pre-seed extension (2026-07-01)
+- name: Curiosity VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dawnguard
+  source: new participant in Dawnguard pre-seed extension (2026-07-01); Netherlands-based
+- name: eCAPITAL
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dawnguard
+  source: new participant in Dawnguard pre-seed extension (2026-07-01); Germany-based
+- name: 9900 Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dawnguard
+  source: led Dawnguard €2.6M pre-seed (2025-07)
+- name: Venrex
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: integral-privacy-technologies
+  source: listed investor in Integral Privacy Technologies $25M funding (2026-07-01)
+- name: LiveRamp Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: integral-privacy-technologies
+  source: listed investor in Integral Privacy Technologies $25M funding (2026-07-01)
+- name: Virtue Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: integral-privacy-technologies
+  source: listed investor in Integral Privacy Technologies $25M funding (2026-07-01)
+- name: Also Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: integral-privacy-technologies
+  source: listed investor in Integral Privacy Technologies $25M funding (2026-07-01)
+- name: Circle & Co
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: integral-privacy-technologies
+  source: listed investor in Integral Privacy Technologies $25M funding (2026-07-01)
+- name: WS Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: integral-privacy-technologies
+  source: listed investor in Integral Privacy Technologies $25M funding (2026-07-01)
