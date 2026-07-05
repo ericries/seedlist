@@ -35405,3 +35405,74 @@ queue:
   added: '2026-03-17'
   discovered_from: integral-privacy-technologies
   source: listed investor in Integral Privacy Technologies $25M funding (2026-07-01)
+- name: All In Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cunin
+  source: Co-led CUNIN $450K pre-seed (2026-07-03) with Huddle Ventures
+- name: Oregon Sports Angels
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: able-made
+  source: Led Able Made $2M seed (2026-07-01); sports & tech angel network based in
+    Oregon
+- name: Sara Toussaint
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: NC Courage / TMJ Women's Football
+  discovered_from: able-made
+  source: Angel investor in Able Made (2026-07-01); co-owner NWSL NC Courage, co-CEO
+    TMJ Women's Football
+- name: Citius
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: addi
+  source: Co-led Addi Series D $85M (2026-07-01); growth-equity firm active in LatAm
+    fintech infrastructure
+- name: BTG Pactual
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: addi
+  source: Co-led Addi Series D $85M (2026-07-01) via Private Capital arm; first BTG
+    growth investment outside Brazil
+- name: Alter Global
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jota
+  source: Participated in Jota Series A $30M (2026-06-29) alongside Haun Ventures
+- name: Greyhound Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jota
+  source: Newcomer investor in Jota Series A $30M (2026-06-29)
+- name: Santiago Suárez
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Addi
+  discovered_from: addi
+  source: Co-Founder & CEO of Addi (Colombia BNPL); Series D $85M lead 2026-07-01
+- name: Davi Holanda
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Jota
+  discovered_from: jota
+  source: Founder & CEO of Jota (Brazil AI fintech); Series A $30M led by Haun Ventures
+    2026-06-29
