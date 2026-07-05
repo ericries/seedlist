@@ -35476,3 +35476,66 @@ queue:
   discovered_from: jota
   source: Founder & CEO of Jota (Brazil AI fintech); Series A $30M led by Haun Ventures
     2026-06-29
+- name: AYMO Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hypefy-ai
+  source: Led Hypefy AI $7.2M Series A (2026-06-30)
+- name: Interactive Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hypefy-ai
+  source: Participated in Hypefy AI Series A (2026-06-30)
+- name: Oktogon Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hypefy-ai
+  source: Participated in Hypefy AI Series A (2026-06-30)
+- name: Euroventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hypefy-ai
+  source: Participated in Hypefy AI Series A (2026-06-30)
+- name: Techstart Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: saltroad
+  source: Led Saltroad £1.5M seed (2026-06-30)
+- name: ScaleX
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: saltroad
+  source: Participated in Saltroad seed (2026-06-30)
+- name: Semapa Next
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jupus
+  source: Led JUPUS €13M Series A (2026-06-23)
+- name: NRW.BANK
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jupus
+  source: Participated in JUPUS Series A via NRW.Venture (2026-06-23)
+- name: Acton Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jupus
+  source: Participated in JUPUS Series A (2026-06-23)
