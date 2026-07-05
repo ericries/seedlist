@@ -35601,3 +35601,62 @@ queue:
   added: '2026-03-17'
   discovered_from: felipe-villamarin
   source: Felipe Villamarín seed portfolio ($5M round October 2022); LatAm fintech
+- name: Sumitomo Corporation
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aisa
+  source: Participated AIsa $6.5M seed (2026-07-03)
+- name: Saison Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aisa
+  source: Participated AIsa $6.5M seed (2026-07-03)
+- name: Arches Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: housapp
+  source: Co-lead HousApp €4.3M seed (2026-07-02)
+- name: Prosus
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alan
+  source: Led Alan €480M Series G (2026-06-25)
+- name: Dara Holdings
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alan
+  source: New investor in Alan €480M Series G (2026-06-25)
+- name: Jean-Charles Samuelian-Werve
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Alan
+  discovered_from: alan
+  source: Co-founder & CEO of Alan
+- name: Jordan Liu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: AIsa
+  discovered_from: aisa
+  source: Co-founder of AIsa
+- name: Sebastiaan Kloppenborg
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: HousApp
+  discovered_from: housapp
+  source: CEO & Co-founder of HousApp
