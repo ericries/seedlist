@@ -21555,7 +21555,7 @@ queue:
 - name: Ankur Singla
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Exaforce
   discovered_from: exaforce
@@ -35311,3 +35311,27 @@ queue:
   firm: Talp
   discovered_from: talp
   source: Founder & CEO of Talp
+- name: LH2 Holdings
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ankur-singla
+- name: Lumino
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ankur-singla
+- name: HarbourVest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ankur-singla
+- name: Itochu Technology Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ankur-singla
