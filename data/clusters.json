@@ -9156,7 +9156,7 @@
       "name": "The Marketplace Playbook",
       "tagline": "They understand liquidity, take rates, and chicken-and-egg problems better than anyone. The investors who wrote the book on two-sided marketplaces.",
       "type": "curated",
-      "size": 18,
+      "size": 19,
       "members": [
         {
           "slug": "alfred-lin",
@@ -9244,6 +9244,11 @@
         {
           "slug": "simon-borrero",
           "name": "Sim\u00f3n Borrero",
+          "firm": "rappi"
+        },
+        {
+          "slug": "felipe-villamarin",
+          "name": "Felipe Villamar\u00edn",
           "firm": "rappi"
         }
       ]
@@ -9567,7 +9572,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 131,
+      "size": 132,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10160,6 +10165,11 @@
           "slug": "umesh-padval",
           "name": "Umesh Padval",
           "firm": "thomvest-ventures"
+        },
+        {
+          "slug": "felipe-villamarin",
+          "name": "Felipe Villamar\u00edn",
+          "firm": "rappi"
         }
       ]
     },
@@ -10669,7 +10679,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 56,
+      "size": 57,
       "members": [
         {
           "slug": "aileen-lee",
@@ -10943,6 +10953,11 @@
           "slug": "gazal-alagh",
           "name": "Gazal Alagh",
           "firm": "mamaearth"
+        },
+        {
+          "slug": "juliette-bolea",
+          "name": "Juliette Bolea",
+          "firm": "sound-ventures"
         }
       ]
     },
@@ -11641,7 +11656,7 @@
       "name": "The Decacorn Club",
       "tagline": "Backed three or more companies worth $10B+. When the biggest outcomes in tech history were being funded, these investors were in the room.",
       "type": "curated",
-      "size": 41,
+      "size": 42,
       "members": [
         {
           "slug": "alfred-lin",
@@ -11841,6 +11856,11 @@
         {
           "slug": "simon-borrero",
           "name": "Sim\u00f3n Borrero",
+          "firm": "rappi"
+        },
+        {
+          "slug": "felipe-villamarin",
+          "name": "Felipe Villamar\u00edn",
           "firm": "rappi"
         }
       ]
@@ -12400,7 +12420,7 @@
       "name": "The Global South Scouts",
       "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
       "type": "curated",
-      "size": 20,
+      "size": 21,
       "members": [
         {
           "slug": "kunal-shah",
@@ -12495,6 +12515,11 @@
         {
           "slug": "simon-borrero",
           "name": "Sim\u00f3n Borrero",
+          "firm": "rappi"
+        },
+        {
+          "slug": "felipe-villamarin",
+          "name": "Felipe Villamar\u00edn",
           "firm": "rappi"
         }
       ]
