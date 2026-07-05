@@ -1,6 +1,13 @@
 priority:
 - slug: andreessen-horowitz
   type: firm
+  reason: 'Fact-spec sweep 2026-07-05 (pass 2): tightened Air Space Intelligence Growth 2024 -> Series B 2023-12-07 and Airbase Seed 2026 -> 2026-03-25 on a16z portfolio; removed unverified Vanta row (aggregator-only)'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Three concurrent fact-spec resolutions on andreessen-horowitz.md: (1) REMOVED "Vanta | Growth | 2025" row — no primary source confirms a16z investment in Vanta. Verified via Vanta''s own Series C (2024-07-24) and Series D (2025-07-23) press releases plus TheAIInsider Series D coverage and Wikipedia — none name a16z; a16z portfolio page also does not list Vanta. Row citation [^10] (GrowthList aggregator) is same failure mode as Groq removal on 2026-07-04. Confirmed Vanta lead investors across rounds: Sequoia (A, C), Craft (B), Wellington (D). (2) TIGHTENED Air Space Intelligence row from "Growth | 2024" to "Series B (led, USD 34M at ~USD 300M val; David Ulevitch GP) | 2023-12-07" — year was wrong (2023, not 2024). Verified via GlobeNewswire [^120], a16z blog by David Ulevitch [^121], Bloomberg [^122]. Bloomberg Beta, Renegade Partners, Spark Capital participated; Phillip Buckendorf CEO. Created new startup profile air-space-intelligence.md. (3) TIGHTENED Airbase (Spectrum) row from "Seed | 2026" to "Seed (led, USD 5M; Erin Price-Wright GP) | 2026-03-25". Verified via Squadra Ventures press release [^123], a16z.news founder post [^124], AlleyWatch [^125]. Squadra Ventures and Founders You Should Know participated; Ari Rosner CEO. Updated startup profile airbase-spectrum.md with additional citations and quotes. New footnotes [^120]-[^125] added.'
+- slug: andreessen-horowitz
+  type: firm
   reason: 'Fact-spec sweep 2026-07-05: tightened Pillar Seed 2026 -> 2026-04-14 on a16z portfolio'
   added: 2026-07-05
   status: resolved

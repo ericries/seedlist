@@ -165758,7 +165758,9 @@ vague_facts:
   line: '| Vanta | Growth | 2025 | Security / Compliance | Private [^10] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-05'
+  resolution_note: 'REMOVED Vanta row from andreessen-horowitz.md — no primary source confirms a16z as a Vanta investor. Same aggregator-only error pattern as Groq removal on 2026-07-04. Verified via 4 primary sources: (1) Vanta''s own Series D announcement (vanta.com/resources/vanta-announces-series-d) lists no investors by name; (2) Vanta''s own Series C announcement (vanta.com/resources/vanta-announces-series-c, July 24, 2024) names Sequoia (lead), Goldman Sachs, JPM, Craft Ventures, Atlassian Ventures, CrowdStrike Ventures, HubSpot Ventures, Workday Ventures, Y Combinator — NO a16z; (3) TheAIInsider Series D coverage (July 25, 2025) lists Wellington Management (lead), Goldman Sachs, Sequoia, JPM, Craft Ventures, YC, Atlassian Ventures, CrowdStrike Ventures — NO a16z; (4) Wikipedia Vanta article documents all rounds Series A-D — a16z absent throughout. (5) a16z.com/portfolio does NOT list Vanta. The row citation [^10] (GrowthList aggregator) briefly mentions "Vanta $150M 2025" in a "Recent Unicorns Worth Watching" section without confirming a16z investment — identical failure mode to Groq. Vanta''s confirmed lead investors across rounds: Sequoia (A, C), Craft Ventures (B), Wellington Management (D).'
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: Air Space Intelligence
@@ -165768,7 +165770,9 @@ vague_facts:
   line: '| Air Space Intelligence | Growth | 2024 | Defense / AI | Private [^10] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-05'
+  resolution_note: 'Tightened Air Space Intelligence row on andreessen-horowitz.md from "Growth | 2024" to "Series B (led, USD 34M at ~USD 300M val; David Ulevitch GP) | 2023-12-07" — the correct year is 2023, not 2024. Verified via 3 primary sources: (1) GlobeNewswire press release [^120] (Dec 7, 2023 — official ASI announcement naming a16z as lead with Bloomberg Beta, Renegade Partners, Spark Capital, CEO Phillip Buckendorf quote, David Ulevitch quote); (2) a16z investment announcement blog by David Ulevitch [^121] (Dec 7, 2023, describes Flyways flight-routing product, Alaska Airlines and DoD customers); (3) Bloomberg [^122] (Dec 7, 2023, confirms ~USD 300M valuation, round closed in under three weeks). Renegade Partners co-investor blog also confirms. Created new startup profile data/startups/air-space-intelligence.md with full funding history, David Ulevitch quote, and Phillip Buckendorf quote.'
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: 11x
@@ -165836,7 +165840,9 @@ vague_facts:
   line: '| Airbase (Spectrum) | Seed | 2026 | Defense Tech / RF Spectrum | Private [^27] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-05'
+  resolution_note: 'Tightened Airbase (Spectrum) row on andreessen-horowitz.md from "Seed | 2026" to "Seed (led, USD 5M; Erin Price-Wright GP) | 2026-03-25". Verified via 3 primary sources (in addition to existing Payload Space citation [^27]): (1) Squadra Ventures co-investor press release [^123] (March 25, 2026, names Erin Price-Wright as a16z General Partner leading the round with Squadra and Founders You Should Know participating; Erin Price-Wright quote); (2) a16z.news founder-authored post "Why We Founded Airbase" [^124] (March 25, 2026, Ari Rosner & Millen Anand backgrounds — ex-True Anomaly/JPL and ex-Planet Labs/Boeing); (3) AlleyWatch [^125] (March 2026, Ari Rosner quote on over-subscribed round). Startup profile data/startups/airbase-spectrum.md updated with 3 new citations, Erin Price-Wright quote, and Ari Rosner quote.'
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: Pillar

@@ -239,7 +239,6 @@ The following table includes a16z investments verified through the firm's own po
 | Hippocratic AI | Seed (co-led with General Catalyst) | 2023-05-16 | AI / Health | Private ($50M launch seed; Munjal Shah CEO; Meenesh Bhimani MD Chief Medical Officer) [^100][^101][^102] |
 | Helion Energy | Growth | 2021 | Climate / Energy | Private [^10] |
 | Carbon Robotics | Growth | 2022 | Agriculture Tech | Private [^10] |
-| Vanta | Growth | 2025 | Security / Compliance | Private [^10] |
 | Anchorage Digital | Series D | 2021 | Crypto / Custody | Private [^10] |
 | Dapper Labs | Growth | 2021 | Crypto / NFT | Private [^10] |
 | Astranis | Growth | 2021 | Aerospace / Satellite | Private [^10] |
@@ -257,14 +256,14 @@ The following table includes a16z investments verified through the firm's own po
 | Anyscale | Series B | 2021 | AI / Infrastructure | Private [^10] |
 | AirGarage | Series A | 2022 | Real Estate / Parking | Private [^10] |
 | Aerodome | Series A (participated) | 2024-05-22 | Defense / Drones | Private [^10][^44] |
-| Air Space Intelligence | Growth | 2024 | Defense / AI | Private [^10] |
+| Air Space Intelligence | Series B (led, $34M at ~$300M val; David Ulevitch GP) | 2023-12-07 | Defense / AI | Private (Bloomberg Beta, Renegade Partners, Spark Capital participated; Phillip Buckendorf CEO/co-founder; Flyways flight-routing product; Alaska Airlines and US DoD customers) [^10][^120][^121][^122] |
 | 11x | Series B (led) | 2024-11-11 | AI / Sales | Private ($50M at ~$350M val; Joe Schmidt Partner led; Benchmark, Quiet Capital, SV Angel, Abstract Ventures, Lux Capital, Operator Partners, Visionaries, Activant, 20VC, 20Growth, 20Sales participated) [^103][^104][^105] |
 | Lio | Series A (led) | 2026-03-05 | AI / Enterprise / Procurement | Private [^22][^41] |
 | Smart Bricks | Pre-Seed | 2026 | Proptech / AI | Private [^23] |
 | Nexthop AI | Series B (participated, $500M at $4.2B val; Lightspeed led; Altimeter joined; Raghu Raghuram General Partner) | 2026-03-10 | AI / Networking / Infrastructure | Private [^24][^112][^113] |
 | Glimpse | Series A (led, $35M; 8VC and Y Combinator participated; total raised $52M) | 2026-03-25 | Fintech / Retail Tech / CPG Dispute Automation | Private [^25][^114][^115] |
 | Spade | Series B (participated, $40M; Oak HC/FT led; Flourish, Gradient, NAventures, Y Combinator also joined) | 2026-03-25 | Fintech / Data Infrastructure | Private [^26][^116][^117] |
-| Airbase (Spectrum) | Seed | 2026 | Defense Tech / RF Spectrum | Private [^27] |
+| Airbase (Spectrum) | Seed (led, $5M; Erin Price-Wright GP) | 2026-03-25 | Defense Tech / RF Spectrum | Private (Squadra Ventures and Founders You Should Know participated; Ari Rosner CEO — ex-True Anomaly, ex-JPL; Millen Anand CTO — ex-Planet Labs, ex-Boeing; active US government agency contract) [^27][^123][^124][^125] |
 | Pillar | Seed (led, $20M) | 2026-04-14 | Fintech / Risk Management / Commodity Hedging | Private ($23M total; Crucible Capital, Gallery Ventures, Neo, Analog Ventures, and Dara Khosrowshahi participated; founders Harsha Ramesh CEO and Chinmay Deshpande CTO) [^28][^118][^119] |
 | GitButler | Series A (led) | 2026-04-08 | Developer Tools / Version Control | Private ($17M; Peter Levine joined board; Fly Ventures and A Capital participated; Scott Chacon GitHub co-founder as CEO) [^106][^107][^108] |
 | Mintlify | Series B (co-led with Salesforce Ventures) | 2026-04-14 | Developer Tools / Documentation | Private ($45M at $500M val; Bain Capital Ventures, Y Combinator, Rahul Mehta of DST Global, MVP Ventures, Avra, HubSpot Ventures, TwentyTwo Ventures participated; total raised to date $67M) [^109][^110][^111] |
@@ -590,3 +589,15 @@ The following table includes a16z investments verified through the firm's own po
 [^118]: Recycling Today, "Andreessen Horowitz-backed Pillar Technologies raises $20M," April 14, 2026 (updated April 16, 2026). Accessed July 2026. https://www.recyclingtoday.com/news/pillar-andreessen-horowitz-commodity-trading-risk-management-technology-recycling/ — Independent industry-press confirmation of $20M seed led by a16z on April 14, 2026 with Crucible Capital, Gallery Ventures, Neo, Analog Ventures, and Dara Khosrowshahi (Uber CEO) participating; $23M total raised.
 
 [^119]: FoundersToday, "Pillar secures $20M Seed to automate Financial Risk Management for Commodity Businesses," April 15, 2026. Accessed July 2026. https://www.founderstoday.news/pillar-secures-20m-seed-funding/ — Third independent confirmation of $20M seed led by Andreessen Horowitz, with Crucible Capital, Gallery Ventures, and Dara Khosrowshahi participating; identifies founders Harsha Ramesh (CEO) and Chinmay Deshpande (CTO); notable customers include Shibuya Sakura Industries, Sigma Recycling, and United Metal Solutions Group; $23M total raised.
+
+[^120]: Air Space Intelligence press release via GlobeNewswire, "Air Space Intelligence Secures $34M Series B Financing Led by a16z," December 7, 2023. Accessed July 2026. https://www.globenewswire.com/news-release/2023/12/07/2792534/0/en/Air-Space-Intelligence-Secures-34M-Series-B-Financing-Led-by-a16z.html — Official company press release: $34M Series B led by a16z with participation from Bloomberg Beta, Renegade Partners, and Spark Capital. David Ulevitch (a16z General Partner) quoted: "ASI started to change how some of the largest airlines operate in the National Airspace System, and the company is now gaining traction with the DoD." Phillip Buckendorf CEO/co-founder quoted.
+
+[^121]: Andreessen Horowitz announcement by David Ulevitch, "Investing in Air Space Intelligence," December 7, 2023. Accessed July 2026. https://a16z.com/announcement/investing-in-air-space-intelligence/ — a16z's own investment announcement authored by GP David Ulevitch. Notes: "We first came across ASI during their Series A raise" and describes ASI's Flyways product for flight dispatchers taking into account flight traffic, weather, and airport conditions.
+
+[^122]: Renegade Partners, "The Sky is the Limit — Our Investment in Air Space Intelligence," December 2023. Accessed July 2026. https://www.renegadepartners.com/blog/the-sky-is-the-limit-our-investment-in-air-space-intelligence — Third-party co-investor confirmation of Andreessen Horowitz-led Series B on December 7, 2023, with Renegade Partners, Bloomberg Beta, and Spark Capital participating.
+
+[^123]: Squadra Ventures, "Airbase launches with $5M round led by a16z, lands U.S. Government contract to secure radiofrequency spectrum superiority," March 25, 2026. Accessed July 2026. https://newsroom.squadra.vc/airbase-launches-with-5m-round-led-by-a16z-lands-u-s-government-contract-to-secure-radiofrequency-spectrum-superiority/ — Co-investor primary confirmation of $5M seed led by a16z (Erin Price-Wright, General Partner) with Squadra Ventures and Founders You Should Know participating. Quote from Erin Price-Wright: "We can't continue innovating at speed across aerospace, telecommunications, and defense without modernizing our spectrum infrastructure."
+
+[^124]: a16z (The a16z News), "Why We Founded Airbase," by Ari Rosner and Millen Anand, March 25, 2026. Accessed July 2026. https://www.a16z.news/p/why-we-founded-airbase — Founder-authored piece on a16z's outlet confirming Andreessen Horowitz backing at emergence from stealth. Ari Rosner (CEO, previously second hire at True Anomaly, ex-JPL Mars Perseverance rover and Europa Clipper missions); Millen Anand (CTO, ex-Planet Labs, ex-Boeing geostationary satellite RF payloads).
+
+[^125]: AlleyWatch, "Airbase Raises $5M to Modernize the Invisible Wireless Infrastructure Powering Trillions in GDP," March 2026. Accessed July 2026. https://www.alleywatch.com/2026/03/airbase-radio-frequency-coordination-federal-spectrum-management-wireless-infrastructure-ari-rosner/ — Independent tech press confirmation of $5M round led by Andreessen Horowitz with Squadra Ventures and Founders You Should Know participating. CEO Ari Rosner: "Our round was highly over-subscribed."
