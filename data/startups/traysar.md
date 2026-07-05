@@ -9,11 +9,6 @@ status_company: active
 sector: [defense, defense-tech, robotics, autonomous-systems, hardware]
 stage_latest: "Seed"
 total_raised: "$25M"
-investors:
-  - slug: lux-capital
-    round: seed
-    year: 2026
-    date: 2026-06-16
 firms:
   - slug: lux-capital
     round: seed
