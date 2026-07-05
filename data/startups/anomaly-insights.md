@@ -1,11 +1,19 @@
 ---
-name: Anomaly Insights
-slug: anomaly-insights
-type: startup
-website: https://www.findanomaly.com/
-location: United States
+firms:
+- round: $17M growth round (Sound Ventures led; Bolea board member)
+  slug: sound-ventures
+  year: 2026
 founded: 2020
-status_company: active
+founders:
+- name: Mike Desjadon
+  role: CEO
+investors:
+- round: $17M growth round (Sound Ventures led; Bolea board member)
+  slug: juliette-bolea
+  year: 2026
+last_researched: 2026-05-14
+location: United States
+name: Anomaly Insights
 sector:
 - healthcare
 - digital-health
@@ -13,15 +21,13 @@ sector:
 - ai-agents
 - healthtech
 - revenue-cycle-management
+slug: anomaly-insights
 stage_latest: Series B
-total_raised: $34M
-investors: []
-firms: []
-founders:
-- name: Mike Desjadon
-  role: CEO
-last_researched: 2026-05-14
 status: published
+status_company: active
+total_raised: $34M
+type: startup
+website: https://www.findanomaly.com/
 ---
 
 ## About

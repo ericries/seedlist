@@ -1,23 +1,32 @@
 ---
-name: "Premier Lacrosse League"
-slug: premier-lacrosse-league
-type: startup
-website: "https://premierlacrosseleague.com"
-location: "New York, NY"
+firms:
+- round: ~2020
+  slug: shumway-capital
+  year: 2020
 founded: 2018
-status_company: active
-sector: [sports, media, entertainment]
-stage_latest: "Series E"
-total_raised: "$180M+"
-firms: []
-investors: []
 founders:
-  - name: "Paul Rabil"
-    role: "Co-Founder, President & Chief Creative Officer"
-  - name: "Mike Rabil"
-    role: "Co-Founder & CEO"
-status: published
+- name: Paul Rabil
+  role: Co-Founder, President & Chief Creative Officer
+- name: Mike Rabil
+  role: Co-Founder & CEO
+investors:
+- round: ~2020
+  slug: chris-shumway
+  year: 2020
 last_researched: 2026-07-04
+location: New York, NY
+name: Premier Lacrosse League
+sector:
+- sports
+- media
+- entertainment
+slug: premier-lacrosse-league
+stage_latest: Series E
+status: published
+status_company: active
+total_raised: $180M+
+type: startup
+website: https://premierlacrosseleague.com
 ---
 
 ## About

@@ -4,10 +4,22 @@ firms:
   round: series-b
   slug: andreessen-horowitz
   year: 2023
+- round: Undisclosed round (listed as PSP holding; not named in primary press releases
+    for 2021 Series A or 2023 Series B)
+  slug: psp-partners
+  year: 2022
 founded: 2019
 founders:
 - name: Phillip Buckendorf
   role: CEO & Co-Founder
+investors:
+- round: Series B
+  slug: david-ulevitch
+  year: 2023
+- round: Undisclosed round (listed as PSP holding; not named in primary press releases
+    for 2021 Series A or 2023 Series B)
+  slug: momei-qu
+  year: 2022
 last_researched: 2026-07-05
 location: Boston, Massachusetts
 name: Air Space Intelligence

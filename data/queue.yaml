@@ -22640,7 +22640,7 @@ queue:
 - name: Juliette Bolea
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Sound Ventures
   discovered_from: anomaly-insights
@@ -35539,3 +35539,65 @@ queue:
   added: '2026-03-17'
   discovered_from: jupus
   source: Participated in JUPUS Series A (2026-06-23)
+- name: Ashton Kutcher
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sound Ventures
+  discovered_from: juliette-bolea
+  source: Co-founder Sound Ventures; departed July 2026 to launch new firm with Morgan
+    Beller
+- name: Guy Oseary
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sound Ventures
+  discovered_from: juliette-bolea
+  source: Co-founder General Partner Sound Ventures
+- name: Effie Epstein
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sound Ventures
+  discovered_from: juliette-bolea
+  source: Managing Partner and COO Sound Ventures since March 2017; ran AI Fund thesis
+- name: Enrique Villamarín
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Tul
+  discovered_from: felipe-villamarin
+  source: Co-founder Tul (LatAm supply-chain logistics); active Rappi Mafia angel;
+    brother of Felipe Villamarín
+- name: Motai
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: felipe-villamarin
+  source: Felipe Villamarín pre-seed portfolio (May 2025 $1M round)
+- name: Bacu
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: felipe-villamarin
+  source: Felipe Villamarín seed portfolio ($6M round March 2023)
+- name: Latú Seguros
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: felipe-villamarin
+  source: Felipe Villamarín seed portfolio ($7M round August 2022); LatAm insurtech
+- name: fidu
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: felipe-villamarin
+  source: Felipe Villamarín seed portfolio ($5M round October 2022); LatAm fintech
