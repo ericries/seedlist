@@ -10480,7 +10480,9 @@ vague_facts:
   line: '| Brinc Drones | Series C | 2025 | Robotics/Hardware | [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened to "Series C ($75M; Index led; Mike Volpi named as personal participant — Hanabi not in primary press) | 2025-04-08" via 2 new primary citations ([^hanabi-brinc-1] BRINC press release, [^hanabi-brinc-2] DroneLife) alongside existing TechCrunch [^14]. Hanabi Capital NOT named in any primary source; only appears on Hanabi own portfolio page and Tracxn.'
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: Cartesia
@@ -10490,7 +10492,9 @@ vague_facts:
   line: '| Cartesia | Series A | 2025 | AI | [^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened to "Series A ($64M; Kleiner Perkins led — Hanabi not in primary press; aggregator-only) | 2025-03-11" via 2 new primary citations ([^hanabi-cart-1] Cartesia own blog, [^hanabi-cart-2] Fortune exclusive) alongside existing Tracxn [^15]. Fortune named participants Index, Lightspeed, A*, Factory, Greycroft, Dell Technologies Capital, Samsung Ventures — Hanabi Capital NOT named. Aggregator-only entry.'
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: Cerebras
@@ -10512,7 +10516,9 @@ vague_facts:
   line: '| ClickHouse | Series C | 2025 | Data Infrastructure | [^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened to "Series C ($350M; Khosla led — Hanabi not in primary press; aggregator-only) | 2025-05-29" via 2 new primary citations ([^hanabi-ch-1] ClickHouse own blog, [^hanabi-ch-2] SiliconANGLE extension coverage) alongside existing ClickHouse extension blog [^16]. Named participants in ClickHouse own blog: Khosla (lead); BOND, IVP, Battery, Bessemer (new); Index, Lightspeed, GIC, Benchmark, Coatue, FirstMark, Nebius (existing). Hanabi Capital NOT named in original May 2025 round or October 2025 extension — aggregator-only entry.'
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: Cognition
