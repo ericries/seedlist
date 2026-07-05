@@ -184,11 +184,11 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Facebook (Meta) | Series A | 2005 | Consumer/Social | [^6][^20] |
+| Facebook (Meta) | Series A ($12.7M, led at $87.5M post-money; Jim Breyer joined board) | 2005-05-26 | Consumer/Social | [^6][^20][^fbcrimson] |
 | Slack | Seed | 2009 | Enterprise | [^6][^17] |
-| Dropbox | Series A | 2008 | Cloud/Consumer | [^6][^18][^19] |
+| Dropbox | Series A ($6M, Sequoia-led; Accel participated via Sameer Gandhi) | 2008-10 | Cloud/Consumer | [^6][^18][^19][^db-tc] |
 | Spotify | Series D | 2011 | Consumer/Music | [^6][^21][^22] |
-| Atlassian | Growth ($60M) | 2010 | Enterprise | [^6][^23][^24] |
+| Atlassian | Growth ($60M, led; Rich Wong joined board — first outside financing) | 2010-07-14 | Enterprise | [^6][^23][^24][^atl-vcj] |
 | Flipkart | Seed ($800K) | 2008 | E-commerce | [^6][^25][^26] |
 | CrowdStrike | Series B ($30M, led) | 2013 | Cybersecurity | [^6][^27][^28] |
 | Qualtrics | Series A ($70M, co-led with Sequoia) | 2012 | Enterprise | [^6][^29][^30] |
@@ -448,3 +448,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^112]: Tech Funding News, "Accel backs Pocket's $11M raise, as the AI hardware startup turns a viral launch into $27M ARR," June 29, 2026. Accessed June 2026. https://techfundingnews.com/pocket-11m-accel-ai-hardware-27m-arr/ — Independent confirmation of Accel-led $11M seed; full participant list includes Y Combinator, Guillermo Rauch (Vercel), Mati Staniszewski (ElevenLabs), and Kaz Nejatian (Opendoor).
 
 [^113]: Y Combinator, company profile page for Pocket (Winter 2026 batch). Accessed June 2026. https://www.ycombinator.com/companies/pocket — Confirms Pocket is a YC W26 portfolio company and references the $11M seed round closing June 29, 2026.
+
+[^fbcrimson]: Harvard Crimson, "Firm Invests $13M in Facebook," May 27, 2005. Accessed July 2026. https://www.thecrimson.com/article/2005/5/27/firm-invests-13m-in-facebook-a/ — Pins Accel's Series A announcement to May 26, 2005 ("yesterday"). Confirms Jim Breyer joined thefacebook.com's board of directors as of the announcement, with quotes from Zuckerberg ("The point of this whole investment is that we are going to try and move away from the current way we do advertising.") and Breyer ("It starts with the entrepreneur: Mark Zuckerberg and the team have deep passion to build a compelling experience for college students.").
+
+[^db-tc]: TechCrunch, "Dropbox Raised $6 Million Sequoia-Led Series A In October 2008," November 24, 2009. Accessed July 2026. https://techcrunch.com/2009/11/24/dropbox-sequoia-funding/ — Verbatim: "Dropbox did close a Series A funding round, but it was for $6 million, and it was back in October 2008. And it was led by Sequoia, not Accel (though Accel did participate in the round)." Clarifies Sameer Gandhi led the seed at Sequoia in fall 2007, moved to Accel in spring 2008, and Sequoia "cut him in" on the Series A while at Accel.
+
+[^atl-vcj]: Venture Capital Journal, "Atlassian Raises $60 Million from Accel Partners," July 14, 2010. Accessed July 2026. https://www.venturecapitaljournal.com/atlassian-raises-60-million-from-accel-partners/ — Third independent confirmation of the July 14, 2010 announcement date. Atlassian corporate blog and TechCrunch (already cited [^23][^24]) provide the other two primary sources; both establish Rich Wong joined the Atlassian board with proceeds used partly for founder/employee secondary liquidity in addition to primary new equity.

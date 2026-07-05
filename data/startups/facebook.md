@@ -170,7 +170,7 @@ Facebook went public on May 18, 2012, in what was then the largest technology IP
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
 | Seed | Jun 2004 | $500K | Peter Thiel | Ron Conway, Reid Hoffman, Mark Pincus, Maurice Werdegar | $4.9M |
-| Series A | May 2005 | $12.7M | Accel Partners | Peter Thiel | $87.5M |
+| Series A | 2005-05-26 | $12.7M | Accel Partners (Jim Breyer joined board) | Peter Thiel | $87.5M [^fbcrimson] |
 | Series B | Apr 2006 | $27.5M | Greylock Partners | Meritech Capital, Accel Partners, Peter Thiel | $500M |
 | Series C | 2007-10-24 | $240M | Microsoft | — | $15B [^15][^16] |
 | Angel/Secondary | 2007-11-30 | $60M | Li Ka-Shing | — | ~$15B [^17][^18] |
@@ -224,3 +224,5 @@ Sources: [^2][^5][^6][^8][^9][^10][^15][^16][^17][^18][^19][^20][^21][^22][^23]
 [^21]: TechCrunch, "Source: Elevation Partners Got About 1% Of Facebook For $90 Million," April 5, 2010 — reports the November 2009 secondary purchase of 2.5M shares at $20/share, implying ~$9B valuation. https://techcrunch.com/2010/04/05/source-elevation-partners-got-about-1-of-facebook-for-90-million/
 [^22]: Wikipedia, "Initial public offering of Facebook," accessed April 2026 — documents May 18, 2012 IPO at $38/share, $16B raised, ~$104B peak market cap. https://en.wikipedia.org/wiki/Initial_public_offering_of_Facebook
 [^23]: CNN Money, "Facebook's IPO: Trading opens at $42 per share," May 18, 2012. https://money.cnn.com/2012/05/18/technology/facebook-ipo-trading/index.htm
+
+[^fbcrimson]: Harvard Crimson, "Firm Invests $13M in Facebook," May 27, 2005. Accessed July 2026. https://www.thecrimson.com/article/2005/5/27/firm-invests-13m-in-facebook-a/ — Pins Accel's Series A announcement to May 26, 2005 ("yesterday"). Confirms Jim Breyer assumed a Facebook board seat as of that date. Full quote from Zuckerberg: "The point of this whole investment is that we are going to try and move away from the current way we do advertising." Breyer: "It starts with the entrepreneur: Mark Zuckerberg and the team have deep passion to build a compelling experience for college students."

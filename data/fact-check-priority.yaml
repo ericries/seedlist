@@ -3000,3 +3000,24 @@ priority:
   status: resolved
   resolved: 2026-07-04
   resolution_note: "Same round verification — NFX participation in Aligned $60M Series B on 2026-07-01 (led by PeakSpan Capital) re-verified via 3 independent primary sources (SiliconANGLE [^38], Calcalist Tech, The SaaS News). All three confirm NFX as prior backer participating in the Series B. nfx.md portfolio row at line 104 with citation [^38] already accurately reflects the round (Series B participated, $60M, 2026-07-01). No changes needed."
+- slug: accel
+  type: firm
+  reason: "Fact-spec sweep #6: tightened three iconic Accel portfolio rows — Facebook Series A (2005-05-26), Dropbox Series A (2008-10), Atlassian Growth (2010-07-14)"
+  added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: "Tightened three year-only rows on accel.md via 3+ primary sources each. (1) Facebook: from 'Series A | 2005' to 'Series A ($12.7M, led at $87.5M post-money; Jim Breyer joined board) | 2005-05-26' — new Harvard Crimson citation [^fbcrimson] establishes exact announcement date; existing citations [^6][^20] retained. Startup profile facebook.md updated in parallel. Verbatim Zuckerberg and Breyer quotes preserved. (2) Dropbox: from 'Series A | 2008' to 'Series A ($6M, Sequoia-led; Accel participated via Sameer Gandhi) | 2008-10' — exact day not publicly verifiable, month-only precision only via TechCrunch [^db-tc], YC blog [^19], and Wikipedia. Startup profile dropbox.md updated with Gandhi context and new [^db-tc] citation. (3) Atlassian: from 'Growth ($60M) | 2010' to 'Growth ($60M, led; Rich Wong joined board — first outside financing) | 2010-07-14' — three primary sources agree on date: Atlassian blog [^23], TechCrunch [^24], and new Venture Capital Journal citation [^atl-vcj]. Round nature clarified (mixed primary/secondary). Verbatim quotes from Cannon-Brookes and Wong preserved."
+- slug: facebook
+  type: startup
+  reason: "Fact-spec sweep #6: tightened Series A row from 'May 2005' to '2005-05-26'"
+  added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: "Same round as accel firm entry — Facebook Series A tightened on facebook.md Funding History from 'Series A | May 2005 | $12.7M | Accel Partners | Peter Thiel' to 'Series A | 2005-05-26 | $12.7M | Accel Partners (Jim Breyer joined board) | Peter Thiel' with new [^fbcrimson] Harvard Crimson citation. Amount ($12.7M), valuation ($87.5M post-money), and Peter Thiel participation unchanged."
+- slug: dropbox
+  type: startup
+  reason: "Fact-spec sweep #6: clarified Series A Sameer Gandhi participation context"
+  added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: "Same round as accel firm entry — Dropbox Series A row on dropbox.md Funding History updated from 'Accel Partners' co-investor to 'Accel Partners (via Sameer Gandhi, who led the Sequoia seed before moving to Accel)' with new [^db-tc] TechCrunch citation. Date (2008-10), amount ($6M), Sequoia lead, and $25M valuation all unchanged — this pass added attribution context and third citation confirming the pattern."

@@ -106,7 +106,7 @@ Dropbox is a cloud storage and file-sharing platform founded in 2007 by MIT stud
 |-------|------|--------|-------------------|-------------------|-----------|
 | Seed (YC S07) | 2007-06-26 | $15K | Y Combinator | — | — [^6] |
 | Seed Extension | 2007-09 | $1.2M | Sequoia Capital | — | — [^3][^7] |
-| Series A | 2008-10 | $6M | Sequoia Capital | Accel Partners | $25M [^3] |
+| Series A | 2008-10 | $6M | Sequoia Capital | Accel Partners (via Sameer Gandhi, who led the Sequoia seed before moving to Accel) | $25M [^3][^db-tc] |
 | Series B | 2011-10-18 | $250M | Index Ventures | Benchmark, Goldman Sachs, Greylock Partners, IVP, RIT Capital Partners, Valiant Capital Partners, Sequoia Capital, Accel Partners, Hadi Partovi, Ali Partovi | $4B [^8][^9] |
 | Series C | 2014-01 | $350M | BlackRock | Fidelity, Salesforce | $10B |
 | IPO (NASDAQ: DBX) | 2018-03-23 | $756M | — | — | $9.2B (at $21/share offer); closed day one ~$12.7B [^10][^11][^12] |
@@ -137,3 +137,5 @@ No independently sourced founder testimonials found.
 [^10]: Bloomberg, "Dropbox Raises $756 Million After Pricing IPO Above Range," March 22, 2018, accessed April 2026. https://www.bloomberg.com/news/articles/2018-03-22/dropbox-said-to-raise-756-million-after-pricing-ipo-above-range
 [^11]: CNBC, "Dropbox (DBX) IPO: Stock starts trading on the Nasdaq," March 23, 2018, accessed April 2026. https://www.cnbc.com/2018/03/23/dropbox-dbx-ipo-stock-starts-trading-on-the-nasdaq.html
 [^12]: SiliconANGLE, "After raising $756M in its IPO, Dropbox sees shares jump 36% in market debut," March 22, 2018, accessed April 2026. https://siliconangle.com/2018/03/22/market-rout-dropbox-hikes-ipo-price-21-share-raising-tidy-756m/
+
+[^db-tc]: TechCrunch, "Dropbox Raised $6 Million Sequoia-Led Series A In October 2008," November 24, 2009. Accessed July 2026. https://techcrunch.com/2009/11/24/dropbox-sequoia-funding/ — Direct quote: "Dropbox did close a Series A funding round, but it was for $6 million, and it was back in October 2008. And it was led by Sequoia, not Accel (though Accel did participate in the round)." Explains Sameer Gandhi led the Sequoia seed in fall 2007, moved to Accel in spring 2008, and Sequoia "cut him in" on the Series A while he was at Accel. Gandhi retained board seat via Accel.

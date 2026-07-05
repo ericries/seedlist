@@ -998,7 +998,9 @@ vague_facts:
   line: '| Facebook (Meta) | Series A | 2005 | Consumer/Social | [^6][^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Fact-spec sweep #6: tightened Facebook Series A row on accel.md from "Series A | 2005" to "Series A ($12.7M, led at $87.5M post-money; Jim Breyer joined board) | 2005-05-26" via Harvard Crimson primary source [^fbcrimson] ("Firm Invests $13M in Facebook," May 27, 2005 — establishes announcement date as May 26, 2005 via "yesterday" reference). Also updated startup profile facebook.md Funding History row from "Series A | May 2005 | $12.7M | Accel Partners" to "Series A | 2005-05-26 | $12.7M | Accel Partners (Jim Breyer joined board)" with matching citation [^fbcrimson] on both firm and startup profiles. Direct quotes preserved verbatim: Zuckerberg — "The point of this whole investment is that we are going to try and move away from the current way we do advertising." Breyer — "It starts with the entrepreneur: Mark Zuckerberg and the team have deep passion to build a compelling experience for college students." Existing citations [^6] (Accel portfolio page) and [^20] (TechCrunch Breyer interview) already confirmed $12.7M amount and Breyer as lead. Board tenure: April 2005–June 2013 per Wikipedia (deal agreement) with public announcement date May 26, 2005 per Harvard Crimson.'
 - profile: firms/accel
   profile_name: Accel
   company: Slack
@@ -1018,7 +1020,9 @@ vague_facts:
   line: '| Dropbox | Series A | 2008 | Cloud/Consumer | [^6][^18][^19] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Fact-spec sweep #6: tightened Dropbox row on accel.md from "Series A | 2008" to "Series A ($6M, Sequoia-led; Accel participated via Sameer Gandhi) | 2008-10" via TechCrunch primary source [^db-tc] ("Dropbox Raised $6 Million Sequoia-Led Series A In October 2008," Nov 24, 2009 — verbatim: "Dropbox did close a Series A funding round, but it was for $6 million, and it was back in October 2008. And it was led by Sequoia, not Accel (though Accel did participate in the round)."). Exact day of month NOT publicly verifiable — TechCrunch, YC blog [^19], and Wikipedia all give month-precision only ("October 2008"). Startup profile dropbox.md Series A row also updated with Sameer Gandhi context and [^db-tc] citation. Round attribution history: Gandhi led the Sequoia seed (2007-09, $1.2M), moved to Accel in spring 2008, and Sequoia "cut him in" on the Series A while he was at Accel — this is how Accel appears on the Series A cap table. Gandhi retained his Dropbox board seat via Accel. Existing sources [^6] (Accel portfolio page) and [^18][^19] (Accel Dropbox page + YC blog) confirmed. Third source [^db-tc] added.'
 - profile: firms/accel
   profile_name: Accel
   company: Spotify
@@ -1038,7 +1042,9 @@ vague_facts:
   line: '| Atlassian | Growth ($60M) | 2010 | Enterprise | [^6][^23][^24] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Fact-spec sweep #6: tightened Atlassian row on accel.md from "Growth ($60M) | 2010" to "Growth ($60M, led; Rich Wong joined board — first outside financing) | 2010-07-14" via three primary sources agreeing on July 14, 2010 announcement: (1) Atlassian corporate blog "Atlassian Closes $60 Million Investment from Accel Partners" (already cited [^23]) — frames as first outside financing after being bootstrapped, confirms Rich Wong board seat; (2) TechCrunch (already cited [^24]) by Leena Rao, published 2010-07-14 at 10:52 AM PDT — clarifies proceeds included partial founder/employee secondary liquidity in addition to primary new equity; (3) NEW Venture Capital Journal citation [^atl-vcj] — third-source confirmation of July 14, 2010 date. Round nature: growth equity minority position with mixed use of funds (Accel took new equity; some proceeds used to give partial liquidity to founders/employees). Verbatim quotes preserved on all three sources: Mike Cannon-Brookes — "We''ve been on a change-the-world mission since we started." Rich Wong (blog) — "We''ve been fans of Atlassian for years, and the vast majority of our portfolio companies innovate using Atlassian products." Rich Wong (TechCrunch) — "In our belief, these guys are the standard in product development software—20,000 customers can''t be wrong." No standalone startup profile for Atlassian exists yet, so no cross-update needed.'
 - profile: firms/accel
   profile_name: Accel
   company: Flipkart
