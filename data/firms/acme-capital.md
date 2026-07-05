@@ -124,7 +124,7 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | Blumind | Seed | ~2022 | Semiconductors / AI | Active [^15] |
 | NIL Technology | Growth | ~2022 | Optics / Hardware | Active [^15] |
 | Treon | Early Stage | ~2022 | Industrial IoT | Active [^15] |
-| Again | Series A | 2024 | Green Chemistry / Climate | Active [^15] |
+| Again | Series A ($43M / €39.4M; co-led by GV and HV Capital; ACME participated as existing seed investor) | 2024-07-17 | Green Chemistry / Climate | Active [^15][^32][^33][^34] |
 | Invert | Early Stage | ~2023 | Bioprocessing / Software | Active [^15] |
 | IonLace | Early Stage | ~2023 | Proteomics / AI | Active [^15] |
 | Camber | Early Stage | ~2023 | Healthcare Billing / AI | Active [^15] |
@@ -214,3 +214,9 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^30]: Sacra, "Partiful valuation, funding & news," accessed June 2026. https://sacra.com/c/partiful/ — Confirms $20M Series A1 in November 2022 led by Andreessen Horowitz at a $140M valuation; ACME Capital listed as prior seed backer alongside Abstract Ventures, Initialized Capital, and GV.
 
 [^31]: Wikipedia, "Partiful," accessed June 2026. https://en.wikipedia.org/wiki/Partiful — Corroborates $20M Series A in 2022 led by Andreessen Horowitz.
+
+[^32]: EU-Startups, "Copenhagen-based Again raises €39.4 million to build full-scale decarbonisation plants," July 17, 2024, accessed July 2026. https://www.eu-startups.com/2024/07/copenhagen-based-again-raises-e39-4-million-to-build-full-scale-decarbonisation-plants/ — Primary tier-1 EU tech press. Confirms Series A co-led by GV and HV Capital with ACME Capital, Kompas VC, EIFO, and Atlantic Labs participating.
+
+[^33]: Tech.eu, "Again raises $43M for turning CO₂ into chemicals," July 17, 2024, accessed July 2026. https://tech.eu/2024/07/17/again-raises-43m-for-turning-co-into-chemicals/ — Independent European tech press confirmation of the $43M Series A syndicate including ACME Capital.
+
+[^34]: Fortune, "Exclusive: Google Ventures is backing a Danish startup 'brewing' CO2 that's decarbonizing the future," July 17, 2024, accessed July 2026. https://fortune.com/europe/2024/07/17/exclusive-google-ventures-danish-climate-tech-startup-brewing-co2-decarbonizing/ — Fortune exclusive confirming co-leads GV and HV Capital, $43M amount, and noting ACME Capital as a prior seed backer.

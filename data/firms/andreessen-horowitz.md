@@ -200,10 +200,10 @@ The following table includes a16z investments verified through the firm's own po
 | Pinterest | Growth | 2012 | Consumer / Social | Public (IPO 2019) [^10] |
 | Okta | Series A (led, $10M) | 2010-07-13 | Enterprise SaaS / Identity | Public (IPO 2017) [^10][^48][^49] |
 | Lyft | Series C | 2013 | Marketplace / Transportation | Public (IPO 2019) [^10] |
-| Coinbase | Series B (led, $25M) | 2013-12-12 | Crypto / Fintech | Public (IPO 2021) [^10][^20][^46] |
+| Coinbase | Series B (led, $25M; Chris Dixon board) | 2013-12-12 | Crypto / Fintech | Public (IPO 2021) [^10][^20][^46][^128] |
 | Slack | Series A | 2014 | Enterprise SaaS | Acquired by Salesforce (2021, $27.7B) [^10] |
 | Stripe | Growth | 2014 | Fintech / Payments | Private [^10] |
-| Databricks | Series A | 2013 | Enterprise / Data & AI | Private [^10] |
+| Databricks | Series A (led, $13.9M at $44M val; Ben Horowitz board) | 2013-09-25 | Enterprise / Data & AI | Private [^10][^126][^127] |
 | Instacart | Growth | 2014 | Marketplace / Delivery | Public (IPO 2023) [^10] |
 | Figma | Series D (led) | 2020 | Developer Tools / Design | Public (IPO 2025) [^10][^31] |
 | Affirm | Growth | 2016 | Fintech / Lending | Public (IPO 2021) [^10] |
@@ -601,3 +601,9 @@ The following table includes a16z investments verified through the firm's own po
 [^124]: a16z (The a16z News), "Why We Founded Airbase," by Ari Rosner and Millen Anand, March 25, 2026. Accessed July 2026. https://www.a16z.news/p/why-we-founded-airbase — Founder-authored piece on a16z's outlet confirming Andreessen Horowitz backing at emergence from stealth. Ari Rosner (CEO, previously second hire at True Anomaly, ex-JPL Mars Perseverance rover and Europa Clipper missions); Millen Anand (CTO, ex-Planet Labs, ex-Boeing geostationary satellite RF payloads).
 
 [^125]: AlleyWatch, "Airbase Raises $5M to Modernize the Invisible Wireless Infrastructure Powering Trillions in GDP," March 2026. Accessed July 2026. https://www.alleywatch.com/2026/03/airbase-radio-frequency-coordination-federal-spectrum-management-wireless-infrastructure-ari-rosner/ — Independent tech press confirmation of $5M round led by Andreessen Horowitz with Squadra Ventures and Founders You Should Know participating. CEO Ari Rosner: "Our round was highly over-subscribed."
+
+[^126]: Derrick Harris, GigaOM, "Databricks raises $14M from Andreessen Horowitz, wants to take on MapReduce with Spark," September 25, 2013. Accessed July 2026. https://gigaom.com/2013/09/25/databricks-raises-14m-from-andreessen-horowitz-wants-to-take-on-mapreduce-with-spark/ — Contemporaneous primary press confirming Databricks' $13.9M ($14M rounded) Series A led solely by Andreessen Horowitz at $44M post-money valuation on September 25, 2013, with Ben Horowitz joining the board. No other institutional investors named.
+
+[^127]: Fortune, "How Databricks became an A.I. sensation," by Jeremy Kahn, March 2, 2023. Accessed July 2026. https://fortune.com/2023/03/02/databricks-ben-horowitz-data-cloud-startup/ — Confirmation of a16z-only Series A: Ben Horowitz met the seven-person founding team in a room adjacent to UC Berkeley; team had initially sought $200K; Horowitz offered $14M on the spot after being pre-sold by mutual friend Scott Shenker's endorsement of Matei Zaharia. Ali Ghodsi quote: "I don't think Databricks would be around today if it wasn't for a16z. And Ben specifically."
+
+[^128]: Chris Dixon, "Coinbase," cdixon.org, December 12, 2013. Accessed July 2026. https://cdixon.org/2013/12/12/coinbase/ — Chris Dixon's own investment announcement on the same day as the Series B close, confirming a16z led the $25M round. Quote: "Bitcoin is the first plausible proposal for an economic protocol for the Internet." Dixon subsequently took a board seat alongside USV's Fred Wilson. No post-money valuation disclosed in this or any other primary source.

@@ -1,4 +1,22 @@
 priority:
+- slug: databricks
+  type: startup
+  reason: 'Fact-spec sweep 2026-07-05 (pass 4): tightened Databricks Series A row from "Sep 2013 | $13.9M | N/A | Andreessen Horowitz | N/A" to "2013-09-25 | $13.9M | $44M | Andreessen Horowitz (Ben Horowitz, board) | —" via 3 primary/independent sources'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
+- slug: coinbase
+  type: startup
+  reason: 'Fact-spec sweep 2026-07-05 (pass 4): tightened Coinbase Series B row valuation from "N/A" to "Not publicly disclosed (secondary sources cite ~$143M post-money)" via 5 primary sources; added Chris Dixon (a16z) + Fred Wilson (USV) board seats'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
+- slug: roblox
+  type: startup
+  reason: 'Fact-spec sweep 2026-07-05 (pass 4): tightened Roblox Seed row from "Undisclosed" to "$2.2M total (First Round wrote $500K at $14M post-money val; Chris Fralic partner)" via 2 primary sources (First Round Capital own blog + Jermaine Brown analysis referencing Roblox S-1); consolidated duplicate "Series D Aug 2009" row into Seed row (same round labeled by preferred stock class)'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
 - slug: hanabi-capital
   type: firm
   reason: 'Fact-spec sweep 2026-07-05 (pass 3): tightened Brinc Drones, Cartesia, and ClickHouse portfolio rows on Hanabi Capital from year-only to YYYY-MM-DD with primary press release citations; documented that Hanabi is NOT named in primary sources for any of the three (aggregator-only, likely SPV/secondary participation)'

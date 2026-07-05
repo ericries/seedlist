@@ -93,7 +93,7 @@ Despite a stated focus on "social and mobile," only 3 of 26 verified investments
 
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
-| Roblox | 2009 | Seed | Gaming/Metaverse | IPO (NYSE: RBLX) | [^1][^5][^14] |
+| Roblox | 2009-07-21 | Seed ($500K check from First Round at $14M post-money val; $2.2M total round; issued as Series D preferred stock per Roblox S-1) | Gaming/Metaverse | IPO (NYSE: RBLX) | [^1][^5][^14] |
 | Warby Parker | ~2011 | Seed | Consumer/E-commerce | IPO (NYSE: WRBY) | [^1][^8] |
 | DoubleVerify | ~2009 | Seed | Ad Tech/Verification | IPO (NYSE: DV) | [^1][^4] |
 | Ring | 2013 | Seed | Connected Devices/IoT | Acquired by Amazon (~$1B) | [^1][^9][^16] |

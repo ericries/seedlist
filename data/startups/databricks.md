@@ -134,7 +134,7 @@ Databricks was founded in 2013 by seven UC Berkeley researchers: Ali Ghodsi, Ion
 
 | Round | Date | Amount | Valuation | Lead Investor | Key Co-Investors |
 |-------|------|--------|-----------|---------------|------------------|
-| Series A | Sep 2013 | $13.9M | N/A | Andreessen Horowitz | N/A [^6] |
+| Series A | 2013-09-25 | $13.9M | $44M | Andreessen Horowitz (Ben Horowitz, board) | — [^6][^18][^29] |
 | Series B | 2014-06-30 | $33M | N/A | New Enterprise Associates (NEA) | Andreessen Horowitz [^7][^21][^22] |
 | Series C | 2016-12-15 | $60M | Not disclosed | New Enterprise Associates (NEA) | Andreessen Horowitz [^8][^23][^24] |
 | Series D | Aug 2017 | $140M | N/A | Andreessen Horowitz | NEA, Battery Ventures [^9] |
@@ -200,3 +200,5 @@ Ben Horowitz has also spoken about co-founder Matei Zaharia, calling him one of 
 [^27]: The SaaS News, "Databricks Raises $1B Series K at $100B+ Valuation," September 2025, accessed July 2026. https://www.thesaasnews.com/news/databricks-raises-1b-series-k-at-100b-valuation/ — Contemporaneous press confirming $1B Series K co-led by Andreessen Horowitz, Insight Partners, MGX, Thrive Capital, and WCM Investment Management at >$100B valuation.
 
 [^28]: Tech Company News, "Databricks Raises $1 Billion In Series K Funding Round," September 2025, accessed July 2026. https://www.techcompanynews.com/databricks-raises-1-billion-in-series-k-funding-round/ — Contemporaneous press confirming Series K closing on September 8, 2025 at $1B equity with a16z, Insight Partners, MGX, Thrive Capital, and WCM Investment Management as lead investors, following August 19, 2025 term sheet.
+
+[^29]: Derrick Harris, GigaOM, "Databricks raises $14M from Andreessen Horowitz, wants to take on MapReduce with Spark," September 25, 2013, accessed July 2026. https://gigaom.com/2013/09/25/databricks-raises-14m-from-andreessen-horowitz-wants-to-take-on-mapreduce-with-spark/ — Contemporaneous press confirming the exact announcement date of September 25, 2013 for the $13.9M ($14M rounded) Series A led solely by Andreessen Horowitz at a $44M post-money valuation, with Ben Horowitz joining the board. Ben Horowitz cited by the article as the sole institutional check-writer; no other participants disclosed. (Original GigaOM article now hosted at portal.gigaom.com.)

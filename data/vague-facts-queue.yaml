@@ -160907,7 +160907,9 @@ vague_facts:
   line: '| Series B | 2013-12-12 | $25M | N/A | Andreessen Horowitz | Union Square Ventures, Ribbit Capital [^7][^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Coinbase Series B row valuation from "N/A" to "Not publicly disclosed (secondary sources cite ~$143M post-money)" via 5 primary/independent sources: (1) TechCrunch Dec 12, 2013 [^7] (existing) — $25M, a16z-led, USV + Ribbit Capital participating, Chris Dixon + Fred Wilson board seats, no valuation stated; (2) Y Combinator blog Dec 12, 2013 [^15] (existing) — same fact set; (3) Chris Dixon''s own cdixon.org Dec 12, 2013 [^37] (new) — same-day investor announcement, no valuation disclosed; (4) CoinDesk Dec 12, 2013 [^38] (new) — total-raised-to-date $31.9M, Ehrsam quote; (5) AllThingsD Dec 12, 2013 [^39] (new) — a16z + USV + Ribbit; 8 employees at announcement. Key finding: the ~$143M post-money valuation cited by Motley Fool and other secondary sources was NOT disclosed in any primary announcement. Also added Chris Dixon (a16z) and Fred Wilson (USV) board seats to the row. Andreessen Horowitz firm profile Coinbase row also tightened to explicitly note Chris Dixon board seat with parallel citation [^128] cdixon.org.'
 - profile: startups/coinbase
   profile_name: Coinbase
   company: IPO (Direct Listing)
@@ -161157,7 +161159,9 @@ vague_facts:
   line: '| Series A | Sep 2013 | $13.9M | N/A | Andreessen Horowitz | N/A [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Databricks Series A row from "Sep 2013 | $13.9M | N/A | Andreessen Horowitz | N/A" to "2013-09-25 | $13.9M | $44M | Andreessen Horowitz (Ben Horowitz, board) | —" via 3 primary/independent sources: (1) GigaOM (Derrick Harris) September 25, 2013 announcement [^30] — establishes exact announcement date, $14M rounded amount, and $44M post-money valuation; (2) Fortune (Jeremy Kahn) March 2, 2023 origin-story feature [^29] — confirms a16z-only round; Ben Horowitz met seven-person founding team in a room adjacent to UC Berkeley; team initially sought $200K; Horowitz offered $14M on the spot after mutual friend Scott Shenker pre-sold him on Matei Zaharia; Ali Ghodsi quote about a16z; (3) Bigeye "A brief history of Databricks" [^7] existing confirms $13.9M / a16z lead. Wikipedia reference 45 (which cites the original GigaOM article) also independently confirms the $13.9M figure. Co-Investors column corrected from "N/A" to "—" (em-dash) because no other institutional investors were named — this was a sole-check a16z round with Ben Horowitz taking the board seat. New footnotes [^29] Fortune and [^30] GigaOM added to Databricks profile. Andreessen Horowitz firm profile Databricks row also tightened from "Series A | 2013" to "Series A (led, $13.9M at $44M val; Ben Horowitz board) | 2013-09-25" with parallel citations [^126] GigaOM and [^127] Fortune.'
 - profile: startups/databricks
   profile_name: Databricks
   company: Series B
@@ -163869,7 +163873,9 @@ vague_facts:
   line: '| Seed | 2009-07-21 | Undisclosed | First Round Capital, Altos Ventures | — [^4][^5][^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Roblox Seed row from "2009-07-21 | Undisclosed | First Round Capital, Altos Ventures" to "Seed (issued as Series D preferred stock) | 2009-07-21 | $2.2M total (First Round wrote $500K at $14M post-money val; Chris Fralic partner) | Altos Ventures, First Round Capital" via 2 new primary sources: (1) First Round Capital own blog by Chris Fralic [^15] — First Round initially passed in early 2009 at ~$10M valuation, then reconsidered July 2009 after Roblox metrics grew (monthly revenue $15K → $220K, David Baszucki iterating to version 87 of the business model); (2) Jermaine Brown independent analysis [^16] documenting First Round wrote $500K at $14M post-money in July 2009 (issued as Series D preferred stock per Roblox S-1), plus $3M follow-on at $40M val in May 2011 (Series D-1). Total round size $2.2M per multiple aggregator sources (Tracxn/Crunchbase — cross-referenced with S-1 preferred stock schedule showing 54.9M Series D shares authorized). ALSO: consolidated the duplicate "Series D | Aug 2009 | $2.2M | Altos Ventures, First Round Capital" row into the Seed row — those were the same round labeled differently (the "Series D" was the preferred stock class per S-1, marketed publicly as the seed round). Parallel updates: chris-fralic.md portfolio row tightened with $500K/$14M/round-total detail; first-round-capital.md portfolio row tightened from "~2013" (wrong year) to "2009-07-21" with same detail and 2 new citations [^20][^21]. Altos Ventures profile Roblox row (Series C 2008 initial) unchanged — Altos joined in the earlier Series C 2008, then also participated in the July 2009 Series D; that earlier entry is independently verified.'
 - profile: startups/roblox
   profile_name: Roblox
   company: Series D
@@ -163879,7 +163885,9 @@ vague_facts:
   line: '| Series D | Aug 2009 | $2.2M | Altos Ventures, First Round Capital | — [^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Consolidated into the Seed row above — this was the same July 2009 round (the "Series D" was the preferred stock class per Roblox S-1, marketed publicly as the seed round). Duplicate row removed and merged with Seed 2009-07-21 entry. See Seed row resolution note for full primary-source detail.'
 - profile: startups/roblox
   profile_name: Roblox
   company: Series D-2

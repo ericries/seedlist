@@ -114,7 +114,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 |---------|-------|------|--------|--------|--------|
 | Uber | Seed | 2010 | Ridesharing | IPO | [^1][^8] |
 | Square | Seed | ~2009 | Payments | IPO | [^1] |
-| Roblox | Seed | ~2013 | Gaming / Metaverse | IPO | [^1] |
+| Roblox | Seed ($500K check at $14M post-money val; $2.2M total round; Chris Fralic partner) | 2009-07-21 | Gaming / Metaverse | IPO (NYSE: RBLX) | [^1][^20][^21] |
 | Notion | Seed | 2013-03 | Productivity | Active (unicorn) | [^1][^7][^13] |
 | Looker | Seed | 2013-03-06 | Data analytics | Acquired (Google, $2.6B, 2020) | [^1][^14][^15] |
 | Verkada | Seed | 2017-09-21 | Physical security | Active (valued $5.8B, Dec 2025) | [^1][^16][^17] |
@@ -190,6 +190,10 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^18]: Andreessen Horowitz, "Investing in Town," by Alex Rampell and Justine Moore, June 3, 2026, accessed June 2026. https://a16z.com/announcement/investing-in-town/
 
 [^19]: "Town Raises $55M Series A From a16z and Forerunner to Build the AI Assistant That Learns How You Work," GlobeNewswire/Yahoo Finance, June 3, 2026, accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/town-raises-55m-series-a16z-134500847.html
+
+[^20]: First Round Capital blog, "Reflections & Lessons Learned from Roblox, After More Than a Decade of Partnership," by Chris Fralic (First Round Board Partner), accessed July 2026. https://www.firstround.com/news/reflections-and-lessons-learned-from-roblox-after-more-than-a-decade-of-partnership — First Round's own recap confirming July 2009 seed investment led by Chris Fralic, following an initial pass in early 2009 due to a "close to $10M" valuation. Revenue growth from $15K/month to $220K/month between the pass and reconsideration was the key driver.
+
+[^21]: Jermaine Brown, "First Round Capital Recaps One of Its Best Investments," accessed July 2026. https://www.jermainebrown.org/posts/first-round-capital-recaps-one-of-its-best-investments — Independent analysis documenting First Round's Roblox investment history: $500K check at $14M post-money valuation in July 2009 (Seed, issued as Series D preferred stock per Roblox S-1); $3M follow-on at $40M valuation in May 2011 (Series D-1). First Round owned 6.8% at Roblox's March 2021 direct listing, worth approximately $2.41B on a $125M Fund II — a ~19.2x fund return from the position alone.
 
 [^20]: Crunchbase News, "Scotch raises AI funding for liquor retail tech," June 4, 2026. Accessed June 2026. https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/
 

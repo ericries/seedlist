@@ -112,7 +112,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | MyInterview | Seed | 2020 | HR Tech | Acquired by Radancy | [^9] |
 | Nexar | Seed | ~2015 | Automotive / AI | Active | [^9] |
 | NextSilicon | Series A | ~2019 | Deep Tech / Semiconductors | Active | [^9] |
-| Ohr | Seed | 2024 | Synthetic Biology / Chemicals | Active | [^9] |
+| Ohr | Pre-Seed + Seed (~$30M aggregate; Aleph anchor; publicly unveiled ~Jan 2025) | ~2024–2025 | Synthetic Biology / Chemicals | Active | [^9] [^25] [^26] |
 | OneStep | Seed | 2020 | Healthcare | Active | [^9] |
 | Panorays | Series A | ~2017 | Cybersecurity / Data | Active | [^9] |
 | Placer.ai | Series A | ~2019 | Real Estate / Analytics | Active (Unicorn) | [^9] |
@@ -218,3 +218,7 @@ No additional independently sourced founder testimonials found beyond the Aleph 
 [^23]: Crunchbase, "Waltz Series A — 2024-07-17," accessed June 2026. https://www.crunchbase.com/funding_round/waltz-1c13-series-a--f2a821e2
 
 [^24]: CTech, "Waltz nets $12.5 million Series A to help foreign investors purchase real estate in the US," July 2024, accessed June 2026. https://www.calcalistech.com/ctechnews/article/b1gas4h00r
+
+[^25]: OHR company website, investors and product pages, accessed July 2026. https://ohr.xyz — Confirms Aleph, Deep33 Ventures, Standard Industries, XTX Markets, KDM Partners, Yasmin Lukatz, 202 Ventures, and Clocktower Ventures as investors; discloses ~$30M raised across pre-seed and seed but does not break out individual round dates or amounts.
+
+[^26]: Aleph portfolio page for OHR, accessed July 2026. https://aleph.vc/companies/ohr — Confirms Aleph's Entry Round as "Seed" and identifies co-founder & CEO Dan Davidi (former Aleph EIR from January 2023). Note: no primary press release, tier-1 coverage, or Aleph blog post covers a discretely dated OHR seed round; the company was publicly unveiled via an Aleph LinkedIn post ~January 2025. Row date left as approximate window pending a datable primary source.

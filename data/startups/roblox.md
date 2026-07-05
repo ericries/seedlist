@@ -121,8 +121,7 @@ Roblox is an online gaming platform and game creation system founded in 2004 by 
 
 | Round | Date | Amount | Lead Investor(s) | Notable Co-Investors |
 |-------|------|--------|-------------------|---------------------|
-| Seed | 2009-07-21 | Undisclosed | First Round Capital, Altos Ventures | — [^4][^5][^12] |
-| Series D | Aug 2009 | $2.2M | Altos Ventures, First Round Capital | — [^4] |
+| Seed (issued as Series D preferred stock) | 2009-07-21 | $2.2M total (First Round wrote $500K at $14M post-money val; Chris Fralic partner) | Altos Ventures, First Round Capital | — [^4][^5][^12][^15][^16] |
 | Series D-2 | May 2011 | $4M | Altos Ventures, First Round Capital | — [^4] |
 | Series C | Mar 2017 | $92M | Index Ventures, Meritech Capital | — [^6][^7] |
 | Series F | Sep 2018 | $150M | Greylock, Tiger Global | — [^4][^8] |
@@ -154,3 +153,7 @@ No independently sourced founder quotes found at this time.
 [^12]: "Roblox," First Round Capital portfolio page (First Round invested July 2009), accessed April 2026. https://www.firstround.com/companies/roblox
 [^13]: "Roblox (RBLX) trades for first time after direct listing," CNBC, March 10, 2021, accessed April 2026. https://www.cnbc.com/2021/03/10/roblox-rblx-starts-trading-at-64point50-after-direct-listing.html
 [^14]: "Roblox valued at $45.3B in record-setting direct listing," PitchBook, March 10, 2021, accessed April 2026. https://pitchbook.com/news/articles/roblox-gaming-direct-listing-valuation
+
+[^15]: First Round Capital blog, "Reflections & Lessons Learned from Roblox, After More Than a Decade of Partnership," by Chris Fralic (First Round Board Partner), accessed July 2026. https://www.firstround.com/news/reflections-and-lessons-learned-from-roblox-after-more-than-a-decade-of-partnership — First Round's own recap of its Roblox partnership. Confirms that First Round initially passed on investing in late 2007 when the game was "really early and very basic" at a valuation "close to $10M," but reconsidered in July 2009 after monitoring metric growth (revenue from ~$15K to ~$220K/month; David Baszucki iterating to version 87 of the business model). Amount and valuation of the July 2009 investment are not stated directly in this post but are provided in third-party analysis (see [^16]).
+
+[^16]: Jermaine Brown, "First Round Capital Recaps One of Its Best Investments," accessed July 2026. https://www.jermainebrown.org/posts/first-round-capital-recaps-one-of-its-best-investments — Independent analysis referencing First Round's own communications: First Round wrote a $500K check at a $14M post-money valuation in the July 2009 seed (six months after passing on a $10M valuation in early 2009). Also documents May 2011 follow-on ($3M at $40M val — the Series D-1/D-2 round). The July 2009 round was issued as Series D preferred stock per the Roblox S-1 registration statement (54,859,430 Series D shares authorized). Total round size $2.2M per multiple aggregator sources (Tracxn, Crunchbase). The prior Roblox "Series C" of $2.9M closed in January 2008 per the same S-1 preferred stock schedule.

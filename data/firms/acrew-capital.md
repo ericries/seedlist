@@ -170,7 +170,7 @@ The following table includes investments made both through Acrew Capital funds (
 | Plaid | Growth | ~2020 | Fintech | Active | [^12] |
 | PredictHQ | Early | ~2018 | Data & Security | Active | [^12] |
 | ProdPerfect | Early | ~2020 | Data & Security | Active | [^12] |
-| Radiant Security | Seed–Series A | 2023 | Data & Security | Active | [^20] |
+| Radiant Security | Series A ($15M; Next47 led; participated as existing investor) | 2023-11-14 | Data & Security | Active | [^20][^31][^32][^33] |
 | RapidSOS | Growth | ~2021 | Health | Active | [^12] |
 | ShieldX | Early | ~2017 | Data & Security | Active | [^12] |
 | Silverfort | Series C–D | 2022–2024 | Data & Security | Active | [^16] |
@@ -254,3 +254,9 @@ Note: The above testimonials are sourced from the Acrew Capital website, which r
 [^29]: SiliconANGLE, "Novellia raises $18M to scale patient-controlled medical data platform," June 2, 2026. https://siliconangle.com/2026/06/02/novellia-raises-18m-scale-patient-controlled-medical-data-platform/ — Confirms Spark Capital lead with Khosla Ventures, Acrew Capital, Bling Capital, TMV participating.
 
 [^30]: MedCity News, "Novellia Snags $18M for Its Real-World Data Platform," June 2026. https://medcitynews.com/2026/06/novellia-data-healthcare-pharma/ — Confirms Acrew Capital among participants alongside Khosla Ventures, TMV, Bling Capital; Spark Capital led.
+
+[^31]: SecurityWeek, "Radiant Snags $15 Million for AI-Powered SOC Technology," November 14, 2023, accessed July 2026. https://www.securityweek.com/radiant-snags-15-million-for-ai-powered-soc-technology/ — Confirms Series A led by Next47 with Acrew Capital, Lightspeed, Uncorrelated Ventures, Jibe Ventures, and General Advance participating.
+
+[^32]: SiliconANGLE, "AI-enhanced security operations solutions startup Radiant Security raises $15M," November 14, 2023, accessed July 2026. https://siliconangle.com/2023/11/14/ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m/ — Confirms $15M Series A, Next47 lead, Acrew Capital as participating existing investor.
+
+[^33]: Help Net Security, "Radiant Security raises $15 million to expand engineering and go-to-market capacity," November 15, 2023, accessed July 2026. https://www.helpnetsecurity.com/2023/11/15/radiant-security-funding-15-million/ — Independent confirmation; includes Shahar Ben-Hador (CEO) quote and full syndicate list including Acrew Capital.
