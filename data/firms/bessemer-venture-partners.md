@@ -130,7 +130,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Anthropic | Series E (participated) | 2025-03-03 | AI | [^12][^18] |
 | Canva | Growth | 2018 | Consumer/Design | [^12] |
 | Ramp | Series E ($300M primary) | 2025-11-17 | Fintech | [^12][^20] |
-| Perplexity | $250M round (led) | 2024-06 | AI | [^12] |
+| Perplexity | Series B ($73.6M, participated as new investor; IVP-led at $520M val) | 2024-01-04 | AI | [^12][^perp1][^perp2] |
 | ServiceTitan | Series A ($18M, led) | 2015 | Vertical Software | [^9] |
 | Toast | Series A, then Series B ($30M, led) | 2015, 2016 | Vertical Software | [^9] |
 | Procore | Series C ($15M) | 2014 | Vertical Software | [^9] |
@@ -244,3 +244,7 @@ However, founder experiences are not universally positive. One founder reported 
 [^ch2]: Bloomberg, "Khosla-Led Deal Values Data Startup ClickHouse at $6.35 Billion," May 29, 2025. Accessed July 2026. https://www.bloomberg.com/news/articles/2025-05-29/khosla-led-deal-values-data-startup-clickhouse-at-6-35-billion — Tier-1 press confirmation that the $350M Series C valued ClickHouse at $6.35B post-money with Khosla Ventures leading.
 
 [^ch3]: FirstMark portfolio update, "ClickHouse Raises $350 Million Series C to Power Analytics for the AI Era," May 29, 2025. Accessed July 2026. https://firstmark.com/story/clickhouse-raises-350-million-series-c-to-power-analytics-for-the-ai-era/ — Existing-investor confirmation from FirstMark reiterating Khosla Ventures as lead and Bessemer Venture Partners among new investors.
+
+[^perp1]: Cointelegraph, "Perplexity raises $73M Series B off reported $520M valuation for AI-powered search engine," January 4, 2024. Accessed July 2026. https://cointelegraph.com/news/perplexity-artificial-intelligence-raises-73-m-series-b-off-520-m-valuation-ai-powered-search-engine — Confirms Perplexity's $73.6M Series B closed January 4, 2024 led by IVP at ~$520M post-money; Bessemer Venture Partners named as new investor alongside NVIDIA, Bezos Expeditions, Tobi Lutke, Naval Ravikant, Balaji Srinivasan, Guillermo Rauch, Austen Allred, Factorial Funds, Kindred Ventures, plus returning investors NEA, Elad Gil, Nat Friedman, and Databricks.
+
+[^perp2]: Maginative, "Perplexity Raises $73 Million Series B Round," January 4, 2024. Accessed July 2026. https://www.maginative.com/article/perplexity-raises-73-million-series-b-round/ — Independent confirmation of Perplexity Series B $73.6M at $520M valuation on January 4, 2024, IVP-led, with Bessemer Venture Partners named as new participant. Note: reporting in April-May 2024 suggested Bessemer was "in talks to lead" a subsequent $250M+ round at $2.5-3B valuation (TechCrunch April 23, 2024; The Information May 30, 2024); no primary press release confirming Bessemer as lead of that later round has been located, so this row reflects only the confirmed Series B participation.

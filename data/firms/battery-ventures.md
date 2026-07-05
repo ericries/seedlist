@@ -108,7 +108,7 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Marketo | Growth | 2010 | Application Software | Acquired (2018) | [^7] |
 | Niantic | Growth | 2017 | Consumer | Active | [^7] |
 | Fundamental | Series A | 2026 | AI / Data Infrastructure | Active | [^11] |
-| Nexthop AI | Series A | 2024 | AI / Networking | Active | [^12] |
+| Nexthop AI | Seed + Series A (participated, $110M combined; Lightspeed led) | 2025-03-25 | AI / Networking | Active | [^12][^28][^29] |
 | Orkes | Series B (2026-04-23) | 2026 | AI / Workflow Orchestration | Active | [^13] |
 | Blitzy | Growth (participated, $200M, $1.4B valuation) | 2026-05-05 | AI / Autonomous Software Development | Active | [^16][^17] |
 | Opal Security | Series B (led, $22M) | 2023-12-07 | Cybersecurity / Identity | Active | [^18] |
@@ -151,6 +151,8 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^14]: Coinbase blog, "Coinbase raises $100M Series D led by IVP," January 2017. Battery Ventures participated alongside Spark Capital, Greylock. https://www.coinbase.com/blog/coinbase-raises-100m-series-d-led-by-ivp
 [^15]: Battery Ventures portfolio page for Coinbase, "Invested 2017, Growth stage, Roger Lee," accessed March 2026. https://www.battery.com/company/coinbase/
 [^13]: AVP, "Orkes raises $60M as developers increasingly use its platform to deploy AI confidently in production," April 23, 2026. https://avpcap.com/orkes-raises-60m-as-developers-increasingly-use-its-platform-to-deploy-ai-confidently-in-production/
+[^28]: SiliconANGLE, "Nexthop AI launches with $110M to build next-gen cloud AI infrastructure," March 25, 2025. https://siliconangle.com/2025/03/25/nexthop-ai-launches-110m-build-next-gen-cloud-ai-infrastructure/ — Confirms Nexthop AI launched from stealth March 25, 2025 with $110M combined seed and Series A round led by Lightspeed Venture Partners; Kleiner Perkins, WestBridge Capital, Battery Ventures, and Emergent Ventures participated. CEO Anshul Sadana quoted.
+[^29]: Crunchbase News, "Nexthop AI Locks Up $110M Led By Lightspeed," March 25, 2025. https://news.crunchbase.com/ai/infrastructure-nexthop-venture-funding-lightspeed/ — Independently confirms March 25, 2025 date, $110M amount, Lightspeed Venture Partners lead, and Battery Ventures as participant alongside Kleiner Perkins, WestBridge Capital, and Emergent Ventures.
 
 [^16]: BusinessWire, "Blitzy Raises $200 Million at $1.4 Billion Valuation to Advance Autonomous Software Development for the Enterprise," May 5, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260505342338/en/Blitzy-Raises-$200-Million-at-$1.4-Billion-Valuation-to-Advance-Autonomous-Software-Development-for-the-Enterprise
 

@@ -237,7 +237,6 @@ The following table includes a16z investments verified through the firm's own po
 | Flock Safety | Growth | 2022 | Public Safety | Private [^10] |
 | Abridge | Series E (led) | 2025-06-24 | AI / Health | Private [^81][^82][^83] |
 | Hippocratic AI | Seed (co-led with General Catalyst) | 2023-05-16 | AI / Health | Private ($50M launch seed; Munjal Shah CEO; Meenesh Bhimani MD Chief Medical Officer) [^100][^101][^102] |
-| Groq | Growth | 2024 | AI / Chips | Private [^10] |
 | Helion Energy | Growth | 2021 | Climate / Energy | Private [^10] |
 | Carbon Robotics | Growth | 2022 | Agriculture Tech | Private [^10] |
 | Vanta | Growth | 2025 | Security / Compliance | Private [^10] |

@@ -1,4 +1,25 @@
 priority:
+- slug: battery-ventures
+  type: firm
+  reason: 'Fact-spec sweep #6: tightened Nexthop AI Series A 2024 → 2025-03-25 combined Seed+Series A on Battery Ventures portfolio'
+  added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Tightened Nexthop AI row on battery-ventures.md from "Series A | 2024" to "Seed + Series A (participated, $110M combined; Lightspeed led) | 2025-03-25" via 3 primary sources: DataCenterDynamics [^12] (existing), SiliconANGLE [^28] (new), Crunchbase News [^29] (new). All 3 confirm Nexthop AI launched from stealth March 25, 2025 with $110M combined seed and Series A led by Lightspeed Venture Partners, with Kleiner Perkins, WestBridge Capital, Battery Ventures, and Emergent Ventures participating. CEO Anshul Sadana. Company builds custom networking hardware/software for hyperscalers.'
+- slug: andreessen-horowitz
+  type: firm
+  reason: 'Fact-spec sweep #6: removed unverified Groq row from a16z portfolio (aggregator-only claim)'
+  added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Removed "Groq | Growth | 2024 | AI / Chips" row from andreessen-horowitz.md portfolio table. Original citation [^10] was GrowthList aggregator which does not actually list Groq on its a16z page (verified via WebFetch 2026-07-04). Primary sources for Groq''s known rounds explicitly name investors: (a) April 2017 Seed — Social Capital led (Chamath $10M for ~33%); (b) April 2021 Series C $300M — Tiger Global led with Firebrand, D1, Addition; (c) August 5, 2024 Series D $640M at $2.8B val — BlackRock led with Neuberger Berman, Type One, Cisco Investments, Global Brain/KDDI, Samsung Catalyst (Groq newsroom press release verified via WebFetch); (d) September 17, 2025 $750M at $6.9B val — Disruptive led with BlackRock, Neuberger Berman, DTCP, Samsung, Cisco, D1, Altimeter, 1789 Capital, Infinitum (Groq newsroom press release verified). Andreessen Horowitz is NOT named as an investor in any Groq primary source. Row removed per anti-hallucination rule ("When in doubt, leave it out"). Multiple other Seedlist profiles list Groq as a legitimate angel/seed investment (Leif Danielsen, Hank Vigil, Jeff Clavier) — those remain untouched.'
+- slug: bessemer-venture-partners
+  type: firm
+  reason: 'Fact-spec sweep #6: corrected Perplexity 2024-06 $250M "led" to 2024-01-04 $73.6M Series B participation'
+  added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Corrected Perplexity row on bessemer-venture-partners.md from "$250M round (led) | 2024-06" to "Series B ($73.6M, participated as new investor; IVP-led at $520M val) | 2024-01-04" via 3 primary sources: Bessemer own portfolio page [^12] (Talia Goldberg, Year Partnered 2023), Cointelegraph [^perp1] (new citation), and Maginative [^perp2] (new citation). Perplexity Series B closed January 4, 2024 at ~$520M post-money; IVP led with $73.6M; Bessemer participated as new investor alongside NVIDIA, Bezos Expeditions, Tobi Lutke, Naval Ravikant, Balaji Srinivasan, Guillermo Rauch, Austen Allred, Factorial Funds, Kindred Ventures; returning investors NEA, Elad Gil, Nat Friedman, Databricks. The prior "$250M (led) 2024-06" claim referenced reporting (TechCrunch April 23, 2024; The Information May 30, 2024) that Bessemer was "in talks to lead" a subsequent $250M+ round at $2.5-3B val — but no primary press release confirming Bessemer as lead of that later round has been located, so removed the unverified "led" claim.'
 - slug: sequoia-capital
   type: firm
   reason: 'Fact-spec sweep #5: tightened DoorDash 2014 → 2014-05-22 and Zoom 2017 → 2017-01-17 on Sequoia portfolio'
