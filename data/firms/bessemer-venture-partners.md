@@ -148,7 +148,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Boom Supersonic | Growth | 2021 | Deep Tech | [^9] |
 | Axonius | Series A ($13M, led) | 2019 | Cybersecurity | [^9] |
 | Claroty | Series A ($32M, led) | 2016 | Cybersecurity | [^9] |
-| ClickHouse | Series C | 2025 | Data | [^9] |
+| ClickHouse | Series C ($350M, participated as new investor; Khosla led at $6.35B post-money) | 2025-05-29 | Data | [^9][^ch1][^ch2][^ch3] |
 | Twitch | Series B ($15M, led) | 2012 | Consumer | [^9] |
 | Blue Apron | Series A ($3M), Series B ($5M, led) | 2013 | Consumer | [^9] |
 | Legora | Series D (participated) | 2026-03-10 | AI/Legal Tech | [^15] |
@@ -238,3 +238,9 @@ However, founder experiences are not universally positive. One founder reported 
 [^dom3]: Ottawa Business Journal, "Dominion Dynamics closes $139M funding round in bid to scale defence technology," June 30, 2026. Accessed June 2026. https://obj.ca/dominion-dynamics-closes-139m-funding-round/ — Third independent confirmation explicitly listing Bessemer Venture Partners as a participating investor in the C$139M Series A.
 
 [^dom4]: Resilience Media, "Dominion Dynamics raises $100M at a $400M valuation to build defence tech for arctic environments," June 30, 2026. Accessed June 2026. https://resiliencemedia.co/dominion-dynamics-raises-100m-at-a-400m-valuation-to-build-defence-tech-for-arctic-environments/ — Fourth independent confirmation; reports USD 400M post-money valuation (CAD 570M) and confirms Bessemer Venture Partners participation.
+
+[^ch1]: ClickHouse company blog, "ClickHouse raises $350 million Series C to power analytics for the AI era," May 29, 2025. Accessed July 2026. https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era — ClickHouse's own announcement confirming $350M Series C led by Khosla Ventures with new investors BOND, IVP, Battery Ventures, and Bessemer Venture Partners; existing investors Index Ventures, Lightspeed, GIC, Benchmark, Coatue, FirstMark, and Nebius continued participation.
+
+[^ch2]: Bloomberg, "Khosla-Led Deal Values Data Startup ClickHouse at $6.35 Billion," May 29, 2025. Accessed July 2026. https://www.bloomberg.com/news/articles/2025-05-29/khosla-led-deal-values-data-startup-clickhouse-at-6-35-billion — Tier-1 press confirmation that the $350M Series C valued ClickHouse at $6.35B post-money with Khosla Ventures leading.
+
+[^ch3]: FirstMark portfolio update, "ClickHouse Raises $350 Million Series C to Power Analytics for the AI Era," May 29, 2025. Accessed July 2026. https://firstmark.com/story/clickhouse-raises-350-million-series-c-to-power-analytics-for-the-ai-era/ — Existing-investor confirmation from FirstMark reiterating Khosla Ventures as lead and Bessemer Venture Partners among new investors.

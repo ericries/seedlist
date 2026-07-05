@@ -152,7 +152,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Cognition | Early | ~2023 (founded) | AI / Developer Tools | Private [^22] |
 | Replit | Early | ~2016 (founded) | Developer Tools | Private [^22] |
 | Glean | Early | ~2019 (founded) | Enterprise / AI Search | Private [^22] |
-| ClickHouse | Early | ~2021 (founded) | Enterprise / Database | Private [^22] |
+| ClickHouse | Series C ($350M, led at $6.35B post-money) | 2025-05-29 | Enterprise / Database | Private [^22][^ch-kh1][^ch-kh2][^ch-kh3] |
 | Rubrik | Early | ~2014 (founded) | Enterprise / Security | Public (IPO 2024) [^22] |
 | Physical Intelligence | Early | ~2024 (founded) | AI / Robotics | Private [^22] |
 | Hermeus | Early | ~2018 (founded) | Aerospace / Hypersonic | Private [^22] |
@@ -418,3 +418,9 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^sc2]: SiliconANGLE, "Scaled Cognition nabs $100M to automate high stakes customer interactions," June 25, 2026. Accessed June 2026. https://siliconangle.com/2026/06/25/scaled-cognition-nabs-100m-automate-high-stakes-customer-interactions/ — Independent confirmation of Khosla-led $100M Series A and Genesys participation.
 
 [^sc3]: The Next Web, "Scaled Cognition raises $100M led by Khosla," June 25, 2026. Accessed June 2026. https://thenextweb.com/news/scaled-cognition-100m-khosla-reliable-ai — Third independent confirmation; states the Series A values the startup at approximately $750 million.
+
+[^ch-kh1]: ClickHouse company blog, "ClickHouse raises $350 million Series C to power analytics for the AI era," May 29, 2025. Accessed July 2026. https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era — ClickHouse's own announcement confirming Khosla Ventures led the $350M Series C with BOND, IVP, Battery Ventures, and Bessemer Venture Partners as new investors, and existing investors Index Ventures, Lightspeed, GIC, Benchmark, Coatue, FirstMark, and Nebius participating.
+
+[^ch-kh2]: Bloomberg, "Khosla-Led Deal Values Data Startup ClickHouse at $6.35 Billion," May 29, 2025. Accessed July 2026. https://www.bloomberg.com/news/articles/2025-05-29/khosla-led-deal-values-data-startup-clickhouse-at-6-35-billion — Tier-1 press confirmation of Khosla Ventures leading the $350M Series C at $6.35B post-money valuation.
+
+[^ch-kh3]: FirstMark portfolio update, "ClickHouse Raises $350 Million Series C to Power Analytics for the AI Era," May 29, 2025. Accessed July 2026. https://firstmark.com/story/clickhouse-raises-350-million-series-c-to-power-analytics-for-the-ai-era/ — Existing-investor perspective reiterating Khosla Ventures as lead of ClickHouse's Series C.

@@ -4850,7 +4850,9 @@ vague_facts:
   line: '| ClickHouse | Series C | 2025 | Data | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Tightened ClickHouse row on bessemer-venture-partners.md from "Series C | 2025" to "Series C ($350M, participated as new investor; Khosla led at $6.35B post-money) | 2025-05-29" via 3 independent primary sources: (1) ClickHouse company blog announcement [^ch1], (2) Bloomberg tier-1 coverage [^ch2], (3) FirstMark portfolio update [^ch3]. Round led by Khosla Ventures with new investors BOND, IVP, Battery Ventures, and Bessemer; existing Index Ventures, Lightspeed, GIC, Benchmark, Coatue, FirstMark, and Nebius participated. Also added Series C row to khosla-ventures.md portfolio (replacing prior "Early | ~2021 (founded)" placeholder) with parallel citations [^ch-kh1][^ch-kh2][^ch-kh3].
 - profile: firms/bessemer-venture-partners
   profile_name: Bessemer Venture Partners
   company: Twitch
@@ -228368,7 +228370,9 @@ vague_facts:
   line: '| DoorDash | Series A (led) | 2014 | Marketplace / Delivery | Public (IPO 2020) [^5][^22][^32] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Tightened DoorDash row on sequoia-capital.md from "Series A (led) | 2014" to "Series A ($17.3M, led) | 2014-05-22" via 3 primary sources: (1) TechCrunch (already cited [^32], 2014-05-22 announcement date), (2) Venture Capital Journal added as [^94] (trade press dated 2014-05-23), (3) DoorDash startup profile Series A row (updated in parallel). Confirmed: Alfred Lin joined the board; Khosla Ventures, Charles River Ventures, Pejman Mar Ventures, and Ted Zagat participated. Also updated data/startups/doordash.md Series A row from "May 2014" to "2014-05-22" and expanded co-investor list to include Pejman Mar Ventures and Ted Zagat.'
 - profile: firms/sequoia-capital
   profile_name: Sequoia Capital
   company: Zoom
@@ -228378,7 +228382,9 @@ vague_facts:
   line: '| Zoom | Series D (led) | 2017 | Enterprise / Communications | Public (IPO 2019) [^21][^33] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Tightened Zoom row on sequoia-capital.md from "Series D (led) | 2017" to "Series D ($100M, led) | 2017-01-17" via 3 primary sources: (1) TechCrunch (already cited [^33], 2017-01-17 announcement), (2) Zoom press release via GlobeNewswire added as [^95] (primary company announcement, same date), (3) SiliconANGLE contemporaneous press coverage cross-referenced. Confirmed: Carl Eschenbach joined the board; Emergence Capital, AME Cloud Ventures (Jerry Yang), and Qualcomm Ventures participated. Valuation reached $1B unicorn milestone.'
 - profile: firms/sequoia-capital
   profile_name: Sequoia Capital
   company: Nubank

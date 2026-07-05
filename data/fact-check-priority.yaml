@@ -1,4 +1,25 @@
 priority:
+- slug: sequoia-capital
+  type: firm
+  reason: 'Fact-spec sweep #5: tightened DoorDash 2014 → 2014-05-22 and Zoom 2017 → 2017-01-17 on Sequoia portfolio'
+  added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Tightened two year-only rows on sequoia-capital.md: (1) DoorDash Series A from "2014" to "2014-05-22 | Series A ($17.3M, led)" via TechCrunch [^32] + Venture Capital Journal [^94]; (2) Zoom Series D from "2017" to "2017-01-17 | Series D ($100M, led)" via TechCrunch [^33] + Zoom press release via GlobeNewswire [^95]. Also updated data/startups/doordash.md Series A row and expanded co-investor list (Pejman Mar Ventures, Ted Zagat). Alfred Lin (DoorDash) and Carl Eschenbach (Zoom) board seats confirmed.'
+- slug: bessemer-venture-partners
+  type: firm
+  reason: 'Fact-spec sweep #5: tightened ClickHouse Series C 2025 → 2025-05-29 on Bessemer portfolio'
+  added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Tightened ClickHouse row on bessemer-venture-partners.md from "Series C | 2025" to "Series C ($350M, participated as new investor; Khosla led at $6.35B post-money) | 2025-05-29" via 3 primary sources (ClickHouse blog [^ch1], Bloomberg [^ch2], FirstMark portfolio update [^ch3]). Also updated khosla-ventures.md ClickHouse row from "Early | ~2021 (founded)" to "Series C ($350M, led at $6.35B post-money) | 2025-05-29" with parallel citations [^ch-kh1][^ch-kh2][^ch-kh3].'
+- slug: khosla-ventures
+  type: firm
+  reason: 'Fact-spec sweep #5: added ClickHouse Series C ($350M, led) 2025-05-29 to Khosla portfolio'
+  added: 2026-07-04
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Same round verification as Bessemer entry — Khosla Ventures confirmed as Series C lead at $6.35B post-money valuation. Row updated on khosla-ventures.md with 3 primary citations ([^ch-kh1] ClickHouse blog, [^ch-kh2] Bloomberg, [^ch-kh3] FirstMark).'
 - slug: andreessen-horowitz
   type: firm
   reason: 'Fact-spec sweep #2: tighten year-only dates on 3 more portfolio rows (11x 2024, GitButler 2026, Mintlify 2026)'

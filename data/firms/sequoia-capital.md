@@ -198,8 +198,8 @@ The following table includes Sequoia Capital investments verified through the fi
 | Block (Square) | Early | 2011 | Fintech / Payments | Public (IPO 2015) [^22] |
 | Dropbox | Series A | ~2012 | Enterprise / Storage | Public (IPO 2018) [^4] |
 | Snowflake | Series E (co-led) | 2018 | Enterprise / Data | Public (IPO 2020) [^21][^31] |
-| DoorDash | Series A (led) | 2014 | Marketplace / Delivery | Public (IPO 2020) [^5][^22][^32] |
-| Zoom | Series D (led) | 2017 | Enterprise / Communications | Public (IPO 2019) [^21][^33] |
+| DoorDash | Series A ($17.3M, led) | 2014-05-22 | Marketplace / Delivery | Public (IPO 2020) [^5][^22][^32][^94] |
+| Zoom | Series D ($100M, led) | 2017-01-17 | Enterprise / Communications | Public (IPO 2019) [^21][^33][^95] |
 | Nubank | Growth | ~2018 | Fintech / Banking | Public (IPO 2021) [^22] |
 | Klarna | Growth | ~2019 | Fintech / BNPL | Public [^22] |
 | Reddit | Series D | 2019-02-11 | Consumer / Social | Public (IPO 2024) [^22][^35] |
@@ -491,3 +491,7 @@ The following table includes Sequoia Capital investments verified through the fi
 [^92]: The Next Web, "Stark Defence raises €500M led by Sequoia and Founders Fund at a valuation above €3.5 billion," June 23, 2026. Accessed June 2026. https://thenextweb.com/news/stark-defence-500-million-sequoia-founders-fund-3-5-billion-valuation — Independent confirmation of Sequoia/Founders Fund co-lead and €500M Series C round.
 
 [^93]: Bloomberg, "Sequoia, Founders Fund Back German Drone Startup Stark at $3.5 Billion Valuation," June 23, 2026. Accessed June 2026. https://www.bloomberg.com/news/articles/2026-06-23/sequoia-founders-fund-back-german-drone-startup-stark-at-3-5-billion-valuation — Tier-1 press confirmation of the Sequoia + Founders Fund co-led round.
+
+[^94]: Venture Capital Journal, "Sequoia Capital leads $17.3 mln round for DoorDash," May 23, 2014. Accessed July 2026. https://www.venturecapitaljournal.com/sequoia-capital-leads-17-3-mln-round-for-doordash/ — Independent trade-press confirmation that Sequoia led the $17.3M DoorDash Series A announced on May 22, 2014 (per contemporaneous TechCrunch coverage cross-referenced at [^32]). Alfred Lin joined the board; Khosla Ventures, Charles River Ventures, Pejman Mar Ventures, and Ted Zagat participated.
+
+[^95]: GlobeNewswire (Zoom press release), "Zoom Partners with Sequoia in $100 Million Funding Round," January 17, 2017. Accessed July 2026. https://www.globenewswire.com/news-release/2017/01/17/1311117/0/en/Zoom-Partners-with-Sequoia-in-100-Million-Funding-Round.html — Zoom's own press release confirming the $100M Series D closed January 17, 2017 at a $1B+ valuation, with Emergence Capital, AME Cloud Ventures (Jerry Yang), and Qualcomm Ventures participating; Carl Eschenbach joined the board.

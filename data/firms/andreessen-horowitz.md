@@ -262,9 +262,9 @@ The following table includes a16z investments verified through the firm's own po
 | 11x | Series B (led) | 2024-11-11 | AI / Sales | Private ($50M at ~$350M val; Joe Schmidt Partner led; Benchmark, Quiet Capital, SV Angel, Abstract Ventures, Lux Capital, Operator Partners, Visionaries, Activant, 20VC, 20Growth, 20Sales participated) [^103][^104][^105] |
 | Lio | Series A (led) | 2026-03-05 | AI / Enterprise / Procurement | Private [^22][^41] |
 | Smart Bricks | Pre-Seed | 2026 | Proptech / AI | Private [^23] |
-| Nexthop AI | Series B | 2026 | AI / Networking / Infrastructure | Private [^24] |
-| Glimpse | Series A | 2026 | Fintech / Retail Tech | Private [^25] |
-| Spade | Series B | 2026 | Fintech / Data Infrastructure | Private [^26] |
+| Nexthop AI | Series B (participated, $500M at $4.2B val; Lightspeed led; Altimeter joined; Raghu Raghuram General Partner) | 2026-03-10 | AI / Networking / Infrastructure | Private [^24][^112][^113] |
+| Glimpse | Series A (led, $35M; 8VC and Y Combinator participated; total raised $52M) | 2026-03-25 | Fintech / Retail Tech / CPG Dispute Automation | Private [^25][^114][^115] |
+| Spade | Series B (participated, $40M; Oak HC/FT led; Flourish, Gradient, NAventures, Y Combinator also joined) | 2026-03-24 | Fintech / Data Infrastructure | Private [^26][^26][^116] |
 | Airbase (Spectrum) | Seed | 2026 | Defense Tech / RF Spectrum | Private [^27] |
 | Pillar | Seed | 2026 | Fintech / Risk Management | Private [^28] |
 | GitButler | Series A (led) | 2026-04-08 | Developer Tools / Version Control | Private ($17M; Peter Levine joined board; Fly Ventures and A Capital participated; Scott Chacon GitHub co-founder as CEO) [^106][^107][^108] |
@@ -575,3 +575,13 @@ The following table includes a16z investments verified through the firm's own po
 [^110]: The SaaS News, "Mintlify Raises $45M at $500M Valuation," April 2026. Accessed July 2026. https://www.thesaasnews.com/news/mintlify-raises-45m-at-500m-valuation/ — Independent confirmation of $45M Series B at $500M valuation co-led by Andreessen Horowitz and Salesforce Ventures, with full participant list matching Mintlify's own blog.
 
 [^111]: Menlo Times, "Mintlify Raises $45 Million Series B led by Andreessen Horowitz and Salesforce Ventures," April 2026. Accessed July 2026. https://www.menlotimes.com/post/mintlify-raises-45-million-series-b-led-by-andreessen-horowitz-and-salesforce-ventures — Third-party independent confirmation of $45M Series B co-led by a16z and Salesforce Ventures.
+
+[^112]: Nexthop AI company press release, "Nexthop AI Accelerates Into Hypergrowth With Oversubscribed $500M Series B Funding, Catapulting the Company's Valuation to $4.2 Billion," March 10, 2026. Accessed July 2026. https://nexthop.ai/news-and-event/nexthop-ai-accelerates-into-hypergrowth-with-oversubscribed-500m-series-b-funding-catapulting-the-companys-valuation-to-4-2-billion/ — Official company press release confirming Lightspeed Venture Partners led the $500M Series B on March 10, 2026 at a $4.2B valuation, with Andreessen Horowitz as major participant alongside Altimeter and existing investors. CEO Anshul Sadana and Lightspeed's Guru Chahal quoted.
+
+[^113]: Bloomberg, "Lightspeed, Andreessen Back $4.2 Billion AI Data Center Supplier," March 10, 2026. Accessed July 2026. https://www.bloomberg.com/news/articles/2026-03-10/lightspeed-andreessen-back-4-2-billion-ai-data-center-supplier — Independent tier-1 press confirmation of $500M Series B on March 10, 2026, with Lightspeed as lead and Andreessen Horowitz as backer at a $4.2B valuation.
+
+[^114]: SiliconANGLE, "Agentic retail dispute resolution startup Glimpse raises $35M from Andreessen Horowitz and others," March 25, 2026. Accessed July 2026. https://siliconangle.com/2026/03/25/agentic-retail-dispute-resolution-startup-glimpse-raises-35m-andreessen-horowitz-others/ — Independent tier-1 tech press confirmation of $35M Series A led by a16z on March 25, 2026, with 8VC and Y Combinator participating.
+
+[^115]: The Meridiem, "Glimpse Crosses $35M Series A After Pivot to CPG Dispute Automation," March 25, 2026. Accessed July 2026. https://www.themeridiem.com/startups/2026/3/25/glimpse-crosses-35m-series-a-after-pivot-to-cpg-dispute-automation — Third-party independent confirmation of $35M Series A led by Andreessen Horowitz on March 25, 2026 with 8VC and YC participating; total raised now $52M.
+
+[^116]: The SaaS News, "Spade Lands $40 Million Series B," March 2026. Accessed July 2026. https://www.thesaasnews.com/news/spade-lands-40-million-series-b — Independent third-party confirmation of $40M Series B led by Oak HC/FT with Andreessen Horowitz, Flourish, Gradient, NAventures, and Y Combinator participating.

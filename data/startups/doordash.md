@@ -164,7 +164,7 @@ DoorDash is headquartered in San Francisco, California and operates in the Unite
 |-------|------|--------|-------------------|----------------------|
 | Seed | 2013-08-20 | $120K | Y Combinator | — |
 | Seed | Sep 2013 | Undisclosed | Pear VC | SV Angel, Khosla Ventures |
-| Series A | May 2014 | $17.3M | Sequoia Capital | Khosla Ventures, CRV |
+| Series A | 2014-05-22 | $17.3M | Sequoia Capital | Khosla Ventures, CRV, Pejman Mar Ventures, Ted Zagat |
 | Series B | Mar 2015 | $40M | Kleiner Perkins | Sequoia Capital, Khosla Ventures, CRV |
 | Series C | 2016-03-22 | $127M | Sequoia Capital | Kleiner Perkins, Khosla Ventures, Y Combinator Continuity Fund, Wellcome Trust |
 | Series D | Mar 2018 | $535M | SoftBank Vision Fund | Sequoia Capital, GIC |
