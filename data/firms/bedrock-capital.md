@@ -95,7 +95,7 @@ Based on 28 unique verified portfolio companies. Bedrock has approximately 75 to
 | SoleSavy | Series A (led) | 2021 | Sneaker Community | Active [^12][^26] |
 | Basis | Seed (led, $3.75M) | 2018-10-04 | Mental Health/Wellness | Shut Down [^27][^28] |
 | TensorZero | Seed ($7.3M, led by FirstMark; Bedrock participated) | 2025-08-19 | AI Infrastructure / LLMOps | Active [^12][^30][^31][^32] |
-| Durin | Seed | 2025 | AI | Active [^12] |
+| Durin | Pre-Seed ($3.4M; 8090 Industries led; participated) | 2025-04-23 | AI / Mining Robotics | Active [^33][^34][^35] |
 
 ## In Their Own Words
 
@@ -147,3 +147,6 @@ No other independently sourced founder testimonials found. The Bedrock website r
 [^30]: PR Newswire, "TensorZero raises $7.3M seed round to build an open-source stack for industrial-grade LLM applications," August 19, 2025. https://www.prnewswire.com/news-releases/tensorzero-raises-7-3m-seed-round-to-build-an-open-source-stack-for-industrial-grade-llm-applications-302532973.html — $7.3M seed led by FirstMark with participation from Bessemer Venture Partners, Bedrock, DRW, Coalition, and strategic angels.
 [^31]: TensorZero blog, "TensorZero Raises $7.3M Seed Round to Build an Open-Source Stack for Industrial-Grade LLM Applications," August 18, 2025. https://www.tensorzero.com/blog/tensorzero-raises-7-3m-seed-round-to-build-an-open-source-stack-for-industrial-grade-llm-applications/ — Company's own announcement confirms $7.3M seed led by FirstMark; Bedrock named as a participant.
 [^32]: AlleyWatch, "TensorZero Raises $7.3M to Build Open-Source Stack for Industrial-Grade LLM Applications," August 2025. https://www.alleywatch.com/2025/08/tensorzero-open-source-llm-stack-gateway-observability-ai-infrastructure-platform-gabriel-bianconi/ — Independent press coverage confirms Bedrock among participants.
+[^33]: TechCrunch, "Exclusive: Durin digs up $3.4M to automate drills for critical minerals exploration," by Tim De Chant, April 23, 2025. https://techcrunch.com/2025/04/23/durin-digs-up-3-4m-to-automate-drills-for-critical-minerals-exploration/ — $3.4M pre-seed led by 8090 Industries; Bedrock named as a participant alongside 1517, Andreessen Horowitz, Champion Hill, Contrary, Day One Ventures, and Lux Capital. Founder/CEO Ted Feldmann.
+[^34]: Yahoo Finance (republishing TechCrunch), "Durin digs up $3.4M to automate drills for critical minerals exploration," April 23, 2025. https://finance.yahoo.com/news/durin-digs-3-4m-automate-140000598.html — Confirms same syndicate including Bedrock.
+[^35]: VentureScout, "Durin: Automating the Future of Mineral Discovery," 2025. https://www.venturescout.io/p/durin — Independent VC newsletter coverage of the same $3.4M pre-seed round; investor list includes Bedrock, 8090 Industries (lead), Andreessen Horowitz, Lux Capital, 1517 Fund, Champion Hill Ventures, Contrary, Day One Ventures.

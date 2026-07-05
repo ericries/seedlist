@@ -88,7 +88,7 @@ Based on 16 publicly verified investments where the source, year, and Mullenweg'
 | Nord Security | ~2017 | Early | [^8] |
 | AppFlowy | 2023 | Seed | [^18] |
 | Mindset Health | 2023 | Series A | [^19] |
-| Scorbit | 2025 | Seed | [^20] |
+| Scorbit | 2025-11-13 | Seed ($5M+; Detroit Venture Partners led; Mullenweg among pre-seed angels whose commitment converted into seed) | [^20][^24][^25] |
 
 *Note: This table represents approximately 15–25% of Mullenweg's reported total investments. Dates marked "~" are approximate; exact investment dates are not publicly confirmed for those entries. Additional portfolio companies cited by multiple aggregators but lacking individually verified primary sources include: Stripe, SpaceX, Ring, MakerBot, Wealthfront, CoinDesk, Genius, NPM, Getaround, Summly, SmartThings, Crowdtilt, and BlackJet [^6].*
 
@@ -139,3 +139,5 @@ No independently sourced founder testimonials found.
 [^21]: Tim Ferriss Show, "Matt Mullenweg: Characteristics and Practices of Successful Entrepreneurs," Episode 190, October 1, 2016, accessed March 2026. https://tim.blog/2016/10/01/matt-mullenweg-on-the-characteristics-and-practices-of-successful-entrepreneurs/
 [^22]: The Profile Dossier, "Matt Mullenweg, the CEO shaping the future of the internet," accessed March 2026. https://www.readtheprofile.com/p/the-profile-dossier-matt-mullenweg
 [^23]: Startup Grind, "Building the Web's Operating System with Matt Mullenweg (Automattic, makers of WordPress)," accessed March 2026. https://www.startupgrind.com/blog/fireside-chat-with-matt-mullenweg/
+[^24]: Scorbit official newsroom, "Scorbit Closes $5 Million+ Seed Round As Beta Launch Proves Market Traction And Massive Opportunity," November 13, 2025. https://scorbit.io/news/2025/11/scorbit-closes-5-million-seed-round-as-beta-launch-proves-market-traction-and-massive-opportunity/ — Company's own announcement. Detroit Venture Partners led the $5M+ seed; Matt Mullenweg (Automattic) named among pre-seed angels whose commitment converted into the seed round.
+[^25]: FinSMEs, "Scorbit Closes Over $5M Seed Funding," November 2025. https://www.finsmes.com/2025/11/scorbit-closes-over-5m-seed-funding.html — Independent press coverage confirming the November 13, 2025 seed round; investor list matches primary source.

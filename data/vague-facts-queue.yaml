@@ -3896,7 +3896,9 @@ vague_facts:
   line: '| Spiraldot Health | Seed | 2025 | Healthcare | [^19] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-05
+  resolution_note: 'Spiraldot Health raised $3.2M Series 2 Seed in February 2025 (Feb 1-15 window per Castleplacement digest; company page/PitchBook cite 2025-02-07) with Sofinnova Partners, Antler, and Atlas SGR as investors (Antler founder story confirms participation; Castleplacement digest confirms all three named). However, NO primary press release for that round names Audrey Capital or Matt Mullenweg — the only source connecting Audrey Capital to Spiraldot Health is Crunchbase [^19] (aggregator). Per anti-hallucination rules ("aggregators-only ≠ verified"), the participation is left as-is with the existing aggregator citation. Row not tightened because upgrading to YYYY-MM-DD would misleadingly attribute Audrey Capital to a specific primary-sourced round. If Audrey Capital confirms via founder testimonial or Mullenweg blog post in the future, revisit.
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: Scorbit
@@ -3906,7 +3908,9 @@ vague_facts:
   line: '| Scorbit | Seed | 2025 | Gaming / Hardware | [^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Scorbit row on audrey-capital.md from "Seed | 2025" to "Seed ($5M+; Detroit Venture Partners led; Mullenweg among pre-seed angels whose commitment converted into seed) | 2025-11-13" via 3 independent primary sources: GlobeNewswire press release [^20] (existing, 2025-11-13), Scorbit official newsroom [^27] (new, company own announcement), and FinSMEs [^28] (new, independent press). Full syndicate: Detroit Venture Partners (lead — Jared Stasik joined board), Grand Ventures (Nathan Owen board observer), Weiser Family Office, Michigan Rise / Red Cedar, Invest Detroit Ventures, Eberg Capital, Ann Arbor SPARK Capital, Mudita Venture Fund II LLC, Precursor Ventures, Side Door Ventures, Wakestream, Gambit Ventures. Notable pre-seed angels whose commitment carried into the seed: Matthew Prince (Cloudflare), Matt Mullenweg (Automattic), Marissa Mayer, Mike McCarthy, Bevan Slattery, Rob Hayes (First Round), Robert Abbott (HashiCorp), Jordan Lowe (ServerCentral). CEO/co-founder Jay Adelson. Ann Arbor-based connected gaming (pinball) platform.'
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: Decrypt
@@ -111037,7 +111041,9 @@ vague_facts:
   line: '| Scorbit | 2025 | Seed | [^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Scorbit row on matt-mullenweg.md investor portfolio table from "2025 | Seed | [^20]" to "2025-11-13 | Seed ($5M+; Detroit Venture Partners led; Mullenweg among pre-seed angels whose commitment converted into seed) | [^20][^24][^25]" via 3 independent primary sources: GlobeNewswire press release [^20] (existing), Scorbit official newsroom [^24] (new), FinSMEs [^25] (new). Same round updated in parallel on audrey-capital.md.'
 - profile: investors/matt-murphy
   profile_name: Matt Murphy
   company: Anthropic
@@ -165941,7 +165947,9 @@ vague_facts:
   line: '| Spiraldot Health | Seed | 2025 | Healthcare | [^19] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-05
+  resolution_note: 'Rolled up with high-priority entry above. Spiraldot Health $3.2M Series 2 Seed (Feb 2025, Sofinnova/Antler/Atlas SGR) primary sources do NOT name Audrey Capital or Mullenweg. Only Crunchbase [^19] connects Audrey to Spiraldot — aggregator-only. Row left as "2025" per anti-hallucination rules (cannot tighten to a specific round Audrey did not verifiably participate in).'
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: Scorbit
@@ -165951,7 +165959,9 @@ vague_facts:
   line: '| Scorbit | Seed | 2025 | Gaming / Hardware | [^20] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Rolled up with high-priority entry above. Tightened to Seed ($5M+; Detroit Venture Partners led; Mullenweg among pre-seed angels whose commitment converted into seed) | 2025-11-13 via 3 primary sources (GlobeNewswire [^20] existing + Scorbit official newsroom [^27] new + FinSMEs [^28] new).'
 - profile: firms/balderton-capital
   profile_name: Balderton Capital
   company: 32Co
@@ -166024,7 +166034,9 @@ vague_facts:
   line: '| Durin | Seed | 2025 | AI | Active [^12] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Durin row on bedrock-capital.md from "Seed | 2025 | AI" to "Pre-Seed ($3.4M; 8090 Industries led; participated) | 2025-04-23 | AI / Mining Robotics" via 3 independent primary sources: TechCrunch exclusive [^33] (2025-04-23), Yahoo Finance republication [^34] (2025-04-23), VentureScout independent VC newsletter [^35]. Full syndicate: 8090 Industries (lead), Andreessen Horowitz, Lux Capital, 1517 Fund, Bedrock, Champion Hill Ventures, Contrary, Day One Ventures. CORRECTED round type from Seed to Pre-Seed. Founder/CEO Ted Feldmann; California-based startup automating drilling rigs for critical minerals exploration. Removed weak Gaebler [^12] aggregator citation from Durin row; replaced with 3 primary sources.'
 - profile: firms/benchmark
   profile_name: Benchmark
   company: Applied Compute
@@ -188738,7 +188750,9 @@ vague_facts:
   line: '| Scorbit | 2025 | Seed | [^20] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Rolled up with high-priority Mullenweg/Scorbit entry above. Tightened to 2025-11-13 via 3 primary sources (GlobeNewswire [^20] + Scorbit newsroom [^24] + FinSMEs [^25]).'
 - profile: investors/matt-murphy
   profile_name: Matt Murphy
   company: Cleanlab

@@ -100,7 +100,7 @@ Based on 20 verified investments where the source, year, and Audrey Capital or M
 | AppFlowy | Seed ($6.4M, OSS Capital led) | 2023-11-20 | Developer Tools / Open Source | [^18] [^26] |
 | Mindset Health | Series A | 2023-03-21 | Digital Health | [^12] [^24] [^25] |
 | Spiraldot Health | Seed | 2025 | Healthcare | [^19] |
-| Scorbit | Seed | 2025 | Gaming / Hardware | [^20] |
+| Scorbit | Seed ($5M+; Detroit Venture Partners led; Mullenweg among pre-seed angels whose commitment converted into seed) | 2025-11-13 | Gaming / Hardware | [^20][^27][^28] |
 | Decrypt | Series A | 2022 | Media / Crypto | [^19] |
 | Journey Clinical | Seed | 2021 | Healthcare | [^19] |
 
@@ -156,3 +156,5 @@ No independently sourced founder testimonials found. Audrey Capital's website do
 [^24]: PR Newswire, "Mindset Health raises US$12m to expand digital hypnotherapy apps & scale distribution," March 21, 2023, accessed June 2026. https://www.prnewswire.com/news-releases/mindset-health-raises-us12m-to-expand-digital-hypnotherapy-apps--scale-distribution-301776991.html
 [^25]: MobiHealthNews, "Digital therapeutics startup Mindset Health scores $12M in Series A funding," March 22, 2023, accessed June 2026. https://www.mobihealthnews.com/news/anz/digital-therapeutics-startup-mindset-health-scores-12m-series-funding
 [^26]: AppFlowy, "Announcing AppFlowy $6.4M Seed Funding," November 16, 2023, accessed June 2026. https://appflowy.com/blog/seed — Company's own announcement confirming $6.4M Seed led by OSS Capital with participation from Matt Mullenweg (Automattic), Bob Young (Red Hat), Steve Chen (YouTube), Tom Preston-Werner (GitHub), Amr Awadallah (Cloudera).
+[^27]: Scorbit official newsroom, "Scorbit Closes $5 Million+ Seed Round As Beta Launch Proves Market Traction And Massive Opportunity," November 13, 2025. https://scorbit.io/news/2025/11/scorbit-closes-5-million-seed-round-as-beta-launch-proves-market-traction-and-massive-opportunity/ — Company's own announcement. Confirms Detroit Venture Partners led the $5M+ seed; Matt Mullenweg (Automattic) named among pre-seed angels whose commitment converted into the seed round.
+[^28]: FinSMEs, "Scorbit Closes Over $5M Seed Funding," November 2025. https://www.finsmes.com/2025/11/scorbit-closes-over-5m-seed-funding.html — Independent press coverage confirming the November 13, 2025 seed round; investor list matches primary source.
