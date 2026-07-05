@@ -264,7 +264,7 @@ The following table includes a16z investments verified through the firm's own po
 | Smart Bricks | Pre-Seed | 2026 | Proptech / AI | Private [^23] |
 | Nexthop AI | Series B (participated, $500M at $4.2B val; Lightspeed led; Altimeter joined; Raghu Raghuram General Partner) | 2026-03-10 | AI / Networking / Infrastructure | Private [^24][^112][^113] |
 | Glimpse | Series A (led, $35M; 8VC and Y Combinator participated; total raised $52M) | 2026-03-25 | Fintech / Retail Tech / CPG Dispute Automation | Private [^25][^114][^115] |
-| Spade | Series B (participated, $40M; Oak HC/FT led; Flourish, Gradient, NAventures, Y Combinator also joined) | 2026-03-24 | Fintech / Data Infrastructure | Private [^26][^26][^116] |
+| Spade | Series B (participated, $40M; Oak HC/FT led; Flourish, Gradient, NAventures, Y Combinator also joined) | 2026-03-25 | Fintech / Data Infrastructure | Private [^26][^116][^117] |
 | Airbase (Spectrum) | Seed | 2026 | Defense Tech / RF Spectrum | Private [^27] |
 | Pillar | Seed | 2026 | Fintech / Risk Management | Private [^28] |
 | GitButler | Series A (led) | 2026-04-08 | Developer Tools / Version Control | Private ($17M; Peter Levine joined board; Fly Ventures and A Capital participated; Scott Chacon GitHub co-founder as CEO) [^106][^107][^108] |
@@ -585,3 +585,5 @@ The following table includes a16z investments verified through the firm's own po
 [^115]: The Meridiem, "Glimpse Crosses $35M Series A After Pivot to CPG Dispute Automation," March 25, 2026. Accessed July 2026. https://www.themeridiem.com/startups/2026/3/25/glimpse-crosses-35m-series-a-after-pivot-to-cpg-dispute-automation — Third-party independent confirmation of $35M Series A led by Andreessen Horowitz on March 25, 2026 with 8VC and YC participating; total raised now $52M.
 
 [^116]: The SaaS News, "Spade Lands $40 Million Series B," March 2026. Accessed July 2026. https://www.thesaasnews.com/news/spade-lands-40-million-series-b — Independent third-party confirmation of $40M Series B led by Oak HC/FT with Andreessen Horowitz, Flourish, Gradient, NAventures, and Y Combinator participating.
+
+[^117]: VCNewsDaily, "Spade Inks $40M Series B Financing Round," March 25, 2026. Accessed July 2026. https://vcnewsdaily.com/spade/venture-capital-funding/zytqmqzrgt — Independent tier-2 press confirmation of $40M Series B led by Oak HC/FT on March 25, 2026, with Andreessen Horowitz, Flourish, Gradient, NAventures, and Y Combinator participating.

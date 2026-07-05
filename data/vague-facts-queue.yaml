@@ -165788,7 +165788,9 @@ vague_facts:
   line: '| Nexthop AI | Series B | 2026 | AI / Networking / Infrastructure | Private [^24] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Tightened Nexthop AI Series B date from 2026 to 2026-03-10. Verified via 3 independent primary sources: Nexthop AI company press release [^112], Bloomberg [^113], and BusinessWire [^24]. Correction: Lightspeed Venture Partners LED the $500M Series B at $4.2B valuation, with Andreessen Horowitz as MAJOR PARTICIPANT (not lead) alongside Altimeter and all existing investors. Raghu Raghuram is a16z General Partner spokesperson. CEO Anshul Sadana quote and Lightspeed Guru Chahal quote added to nexthop-ai.md startup profile.'
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: Glimpse
@@ -165798,7 +165800,9 @@ vague_facts:
   line: '| Glimpse | Series A | 2026 | Fintech / Retail Tech | Private [^25] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Tightened Glimpse Series A date from 2026 to 2026-03-25. Verified via 3 independent primary sources: TechCrunch [^25], SiliconANGLE [^114], and The Meridiem [^115]. a16z confirmed as LEAD of $35M Series A with 8VC and Y Combinator participating; total raised $52M. Glimpse is a Y Combinator-backed CPG dispute automation platform; founders Akash Raju, Anuj Mehta, Kushal Negi (Purdue). Pivoted from Airbnb product placements to CPG dispute automation in 2024.'
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: Spade
@@ -165808,7 +165812,9 @@ vague_facts:
   line: '| Spade | Series B | 2026 | Fintech / Data Infrastructure | Private [^26] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-04
+  resolution_note: 'Tightened Spade Series B date from 2026 to 2026-03-25. Verified via 3 independent primary sources: BusinessWire press release [^26], BusinessWire company release [^116], and The SaaS News [^117]. Correction: Oak HC/FT LED the $40M Series B with Andreessen Horowitz as PARTICIPANT (not lead), plus Flourish, Gradient, NAventures (National Bank of Canada corporate venture arm), and Y Combinator. Spade founded 2021; 99.9% coverage of U.S./Canadian merchants at 99%+ accuracy; 470% YoY revenue growth in 2025.'
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: Airbase (Spectrum)

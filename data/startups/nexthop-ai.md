@@ -37,19 +37,25 @@ Nexthop AI is a Santa Clara, California-based developer of custom-engineered net
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | ~2024 | Series A | $110M | Lightspeed Venture Partners | Kleiner Perkins, WestBridge Capital, Battery Ventures, Emergent Ventures [^2] |
-| Mar 2026 | Series B | $500M | Lightspeed Venture Partners | Andreessen Horowitz, Altimeter, all existing investors [^1] |
+| 2026-03-10 | Series B | $500M | Lightspeed Venture Partners | Andreessen Horowitz, Altimeter, all existing investors [^1][^3][^4] |
 
 Total raised: $610M. Valued at $4.2B as of March 2026 [^1].
 
 ## What Investors Say
 
-No verified investor quotes found at this time.
+> "AI clusters are pushing data center networks to their limits, and Nexthop is uniquely positioned to become the next great networking vendor."
+
+— Guru Chahal, Partner at Lightspeed Venture Partners [^3]
 
 ## What Founders Say
 
-No independently sourced founder testimonials found.
+> "Our relentless focus on innovation and deep customer partnerships has driven the development of highly customized JDM solutions for the largest operators."
+
+— Anshul Sadana, Founder & CEO, Nexthop AI [^3]
 
 ## Sources
 
 [^1]: BusinessWire, "Nexthop AI Accelerates Into Hypergrowth With Oversubscribed $500M Series B Funding, Catapulting the Company's Valuation to $4.2 Billion," March 10, 2026, accessed March 2026. https://www.businesswire.com/news/home/20260310574112/en/Nexthop-AI-Accelerates-Into-Hypergrowth-With-Oversubscribed-$500M-Series-B-Funding-Catapulting-the-Companys-Valuation-to-$4.2-Billion
 [^2]: DataCenterDynamics, "Nexthop AI launches with $110m funding round," accessed March 2026. https://www.datacenterdynamics.com/en/news/nexthop-ai-launches-with-110m-funding-round/
+[^3]: Nexthop AI company press release, "Nexthop AI Accelerates Into Hypergrowth With Oversubscribed $500M Series B Funding, Catapulting the Company's Valuation to $4.2 Billion," March 10, 2026. Accessed July 2026. https://nexthop.ai/news-and-event/nexthop-ai-accelerates-into-hypergrowth-with-oversubscribed-500m-series-b-funding-catapulting-the-companys-valuation-to-4-2-billion/
+[^4]: Bloomberg, "Lightspeed, Andreessen Back $4.2 Billion AI Data Center Supplier," March 10, 2026. Accessed July 2026. https://www.bloomberg.com/news/articles/2026-03-10/lightspeed-andreessen-back-4-2-billion-ai-data-center-supplier
