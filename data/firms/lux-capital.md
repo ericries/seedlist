@@ -132,6 +132,7 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 | Flourish | Venture (co-led, $500M at $2.5B post-money; with GV) | 2026-06-04 | AI / Neuroscience / Connectomics | Active | [^flourish1][^flourish2][^flourish3] |
 | Westmag | Seed (participant, $11M; a16z led) | 2026-06-02 | Defense / Robotics / Drone Motors / Actuators | Active | [^westmag1][^westmag2][^westmag3] |
 | 1001 | Series A (led, $30M) | 2026-06-30 | Sovereign AI / Critical Infrastructure | Active | [^1001-1][^1001-2][^1001-3] |
+| Traysar | Seed (participant, $25M; Silent Ventures led) | 2026-06-16 | Defense / Subterranean Robotics | Active | [^traysar1][^traysar2] |
 
 *This table represents approximately 9% of Lux Capital's estimated 287 portfolio organizations [^5]. Years shown are approximate based on available data.*
 
@@ -200,3 +201,6 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^1001-1]: Khaleej Times, "1001 raises $30 million to build sovereign AI for GCC's critical infrastructure," July 2, 2026. Accessed July 2026. https://www.khaleejtimes.com/business/1001-raises-30-million-to-build-sovereign-ai-for-gccs-critical-infrastructure — Confirms Lux Capital led 1001's $30M Series A on June 30, 2026, with Sanabil Investments, 9Yards, Hanabi, General Catalyst, CIV, and Chris Ré participating.
 [^1001-2]: Wamda, "1001 closes $30 million Series A to build sovereign AI in GCC," June 30, 2026. Accessed July 2026. https://www.wamda.com/2026/06/1001-closes-30-million-series-a-build-sovereign-ai-gcc
 [^1001-3]: Zawya, "1001 raises $30mln to build sovereign AI for GCC's critical infrastructure," June 30, 2026. Accessed July 2026. https://www.zawya.com/en/press-release/companies-news/1001-raises-30mln-to-build-sovereign-ai-for-gccs-critical-infrastructure-fd3s5i9m
+
+[^traysar1]: PR Newswire, "Traysar Raises $25M Seed, Emerges from Stealth at Reindustrialize as the World's First Subterranean Defense Tech Company," June 16, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/traysar-raises-25m-seed-emerges-from-stealth-at-reindustrialize-as-the-worlds-first-subterranean-defense-tech-company-302802698.html — Confirms Silent Ventures led; Lux Capital, Ora Global, NeverLift VC, Mana, Impatient Ventures, New Vista, and Entree Capital participated.
+[^traysar2]: Dealroom.co, "Traysar emerges from stealth with $25M seed for subterranean defence tech," accessed July 2026. https://app.dealroom.co/news/note/traysar-emerges-from-stealth-with-25m-seed-for-subterranean-defence-tech — Independently confirms Lux Capital participation in Traysar's $25M seed round.

@@ -3103,3 +3103,7 @@ priority:
   status: resolved
   resolved: 2026-07-04
   resolution_note: "Same round as accel firm entry — Dropbox Series A row on dropbox.md Funding History updated from 'Accel Partners' co-investor to 'Accel Partners (via Sameer Gandhi, who led the Sequoia seed before moving to Accel)' with new [^db-tc] TechCrunch citation. Date (2008-10), amount ($6M), Sequoia lead, and $25M valuation all unchanged — this pass added attribution context and third citation confirming the pattern."
+- slug: lux-capital
+  type: firm
+  reason: "appeared in Traysar Seed (2026-06-16), $25M"
+  added: 2026-07-05
