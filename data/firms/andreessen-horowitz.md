@@ -265,7 +265,7 @@ The following table includes a16z investments verified through the firm's own po
 | Glimpse | Series A (led, $35M; 8VC and Y Combinator participated; total raised $52M) | 2026-03-25 | Fintech / Retail Tech / CPG Dispute Automation | Private [^25][^114][^115] |
 | Spade | Series B (participated, $40M; Oak HC/FT led; Flourish, Gradient, NAventures, Y Combinator also joined) | 2026-03-25 | Fintech / Data Infrastructure | Private [^26][^116][^117] |
 | Airbase (Spectrum) | Seed | 2026 | Defense Tech / RF Spectrum | Private [^27] |
-| Pillar | Seed | 2026 | Fintech / Risk Management | Private [^28] |
+| Pillar | Seed (led, $20M) | 2026-04-14 | Fintech / Risk Management / Commodity Hedging | Private ($23M total; Crucible Capital, Gallery Ventures, Neo, Analog Ventures, and Dara Khosrowshahi participated; founders Harsha Ramesh CEO and Chinmay Deshpande CTO) [^28][^118][^119] |
 | GitButler | Series A (led) | 2026-04-08 | Developer Tools / Version Control | Private ($17M; Peter Levine joined board; Fly Ventures and A Capital participated; Scott Chacon GitHub co-founder as CEO) [^106][^107][^108] |
 | Mintlify | Series B (co-led with Salesforce Ventures) | 2026-04-14 | Developer Tools / Documentation | Private ($45M at $500M val; Bain Capital Ventures, Y Combinator, Rahul Mehta of DST Global, MVP Ventures, Avra, HubSpot Ventures, TwentyTwo Ventures participated; total raised to date $67M) [^109][^110][^111] |
 | Ulysses | Series A | 2026 | Autonomous / Ocean Tech | Private [^29] |
@@ -586,3 +586,7 @@ The following table includes a16z investments verified through the firm's own po
 [^116]: The SaaS News, "Spade Lands $40 Million Series B," March 2026. Accessed July 2026. https://www.thesaasnews.com/news/spade-lands-40-million-series-b — Independent third-party confirmation of $40M Series B led by Oak HC/FT with Andreessen Horowitz, Flourish, Gradient, NAventures, and Y Combinator participating.
 
 [^117]: VCNewsDaily, "Spade Inks $40M Series B Financing Round," March 25, 2026. Accessed July 2026. https://vcnewsdaily.com/spade/venture-capital-funding/zytqmqzrgt — Independent tier-2 press confirmation of $40M Series B led by Oak HC/FT on March 25, 2026, with Andreessen Horowitz, Flourish, Gradient, NAventures, and Y Combinator participating.
+
+[^118]: Recycling Today, "Andreessen Horowitz-backed Pillar Technologies raises $20M," April 14, 2026 (updated April 16, 2026). Accessed July 2026. https://www.recyclingtoday.com/news/pillar-andreessen-horowitz-commodity-trading-risk-management-technology-recycling/ — Independent industry-press confirmation of $20M seed led by a16z on April 14, 2026 with Crucible Capital, Gallery Ventures, Neo, Analog Ventures, and Dara Khosrowshahi (Uber CEO) participating; $23M total raised.
+
+[^119]: FoundersToday, "Pillar secures $20M Seed to automate Financial Risk Management for Commodity Businesses," April 15, 2026. Accessed July 2026. https://www.founderstoday.news/pillar-secures-20m-seed-funding/ — Third independent confirmation of $20M seed led by Andreessen Horowitz, with Crucible Capital, Gallery Ventures, and Dara Khosrowshahi participating; identifies founders Harsha Ramesh (CEO) and Chinmay Deshpande (CTO); notable customers include Shibuya Sakura Industries, Sigma Recycling, and United Metal Solutions Group; $23M total raised.

@@ -165846,7 +165846,8 @@ vague_facts:
   line: '| Pillar | Seed | 2026 | Fintech / Risk Management | Private [^28] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: '2026-04-14 — Pillar $20M seed led by a16z; TechCrunch, Recycling Today, FoundersToday all confirm April 14, 2026'
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: GitButler
@@ -165952,7 +165953,8 @@ vague_facts:
   line: '| Fundamental | Series A | 2026 | AI / Data Infrastructure | Active | [^11] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: '2026-02-05 — Fundamental $255M ($30M seed + $225M Series A) launched from stealth; Oak HC/FT led, Battery participated. BusinessWire, SiliconANGLE, TechCrunch confirm February 5, 2026'
 - profile: firms/battery-ventures
   profile_name: Battery Ventures
   company: Nexthop AI
@@ -166074,7 +166076,8 @@ vague_facts:
   line: '| Zenskar | Series A | 2026 | Fintech/Billing | [^9] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution: '2026-04-16 — Zenskar $15M Series A co-led by Susquehanna, Bessemer, Shine, Rho; BusinessWire, The SaaS News, FinancialIT confirm April 16, 2026 announcement date'
 - profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   company: Layer

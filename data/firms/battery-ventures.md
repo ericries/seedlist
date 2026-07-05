@@ -107,7 +107,7 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Optimizely | Growth | 2013 | Application Software | Acquired | [^7] |
 | Marketo | Growth | 2010 | Application Software | Acquired (2018) | [^7] |
 | Niantic | Growth | 2017 | Consumer | Active | [^7] |
-| Fundamental | Series A | 2026 | AI / Data Infrastructure | Active | [^11] |
+| Fundamental | Series A (participated, $225M; Oak HC/FT led; total $255M with $30M seed) | 2026-02-05 | AI / Data Infrastructure / Large Tabular Models | Active | [^11][^30][^31] |
 | Nexthop AI | Seed + Series A (participated, $110M combined; Lightspeed led) | 2025-03-25 | AI / Networking | Active | [^12][^28][^29] |
 | Orkes | Series B (2026-04-23) | 2026 | AI / Workflow Orchestration | Active | [^13] |
 | Blitzy | Growth (participated, $200M, $1.4B valuation) | 2026-05-05 | AI / Autonomous Software Development | Active | [^16][^17] |
@@ -177,3 +177,7 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^26]: SiliconANGLE, "Warp lands $60M to automate payroll, compliance and HR with AI," June 25, 2026. Accessed June 2026. https://siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/ — Independent confirmation Battery Ventures led the $60M Series B with Peak XV, Sound Ventures, Y Combinator, and HOF Capital participating.
 
 [^27]: Axios Pro, "Exclusive: Warp raises $60m to go up against ADP, Rippling," June 25, 2026. Accessed June 2026. https://www.axios.com/pro/all-deals/2026/06/25/warp-60-million-workday-rippling — Third independent confirmation of Battery Ventures-led $60M Series B.
+
+[^30]: SiliconANGLE, "Fundamental launches with $255M and an AI model optimized for tabular data," February 5, 2026. Accessed July 2026. https://siliconangle.com/2026/02/05/fundamental-launches-255m-ai-model-optimized-tabular-data/ — Independent tier-1 tech-press confirmation of Fundamental's $255M funding ($30M seed + $225M Series A) announced February 5, 2026 with Oak HC/FT leading the Series A and Battery Ventures participating alongside Valor Equity Partners, Salesforce Ventures, and Hetz Ventures.
+
+[^31]: TechCrunch, "Fundamental raises $255M Series A with a new take on big data analysis," February 5, 2026. Accessed July 2026. https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/ — Third independent confirmation of $225M Series A led by Oak HC/FT (plus $30M seed) on February 5, 2026 with Battery Ventures, Valor Equity Partners, Salesforce Ventures, and Hetz Ventures participating; angel investors include Perplexity CEO Aravind Srinivas, Wiz CEO Assaf Rappaport, Brex co-founder Henrique Dubugras, and Datadog CEO Olivier Pomel. Founded October 2024 by DeepMind alumni; flagship product is Nexus, an AI model optimized for tabular data.

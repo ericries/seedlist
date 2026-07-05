@@ -1,4 +1,25 @@
 priority:
+- slug: andreessen-horowitz
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-05: tightened Pillar Seed 2026 -> 2026-04-14 on a16z portfolio'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Pillar row on andreessen-horowitz.md from "Seed | 2026" to "Seed (led, $20M) | 2026-04-14" via 3 primary sources: TechCrunch [^28] (existing), Recycling Today [^118] (new), FoundersToday [^119] (new). All 3 confirm Pillar (financial risk management platform for commodity businesses) closed $20M seed on April 14, 2026 led by Andreessen Horowitz with Crucible Capital, Gallery Ventures, Neo, Analog Ventures, and Dara Khosrowshahi (Uber CEO) participating; $23M total raised. Founders Harsha Ramesh (CEO) and Chinmay Deshpande (CTO); Pillar founded 2023. Startup profile pillar-risk.md updated with Neo/Analog participants and Recycling Today citation [^4].'
+- slug: battery-ventures
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-05: tightened Fundamental Series A 2026 -> 2026-02-05 on Battery portfolio'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Fundamental row on battery-ventures.md from "Series A | 2026" to "Series A (participated, $225M; Oak HC/FT led; total $255M with $30M seed) | 2026-02-05" via 3 primary sources: BusinessWire [^11] (existing), SiliconANGLE [^30] (new), TechCrunch [^31] (new). All 3 confirm Fundamental (DeepMind alumni Jeremy Fraenkel CEO and Gabriel Suissa; founded October 2024; U.S.-based with Israeli R&D) emerged from stealth February 5, 2026 with $30M seed + $225M Series A led by Oak HC/FT, with Battery Ventures, Valor Equity Partners, Salesforce Ventures, and Hetz Ventures participating. Angels: Aravind Srinivas (Perplexity), Assaf Rappaport (Wiz), Henrique Dubugras (Brex), Olivier Pomel (Datadog). Flagship product Nexus is a Large Tabular Model (LTM) — deterministic, non-transformer AI model optimized for enterprise tabular data. Valued $1.2-1.4B. Startup profile fundamental.md updated with 2026-02-05 date and SiliconANGLE/TechCrunch citations [^3][^4].'
+- slug: bessemer-venture-partners
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-05: tightened Zenskar Series A 2026 -> 2026-04-16 on Bessemer portfolio'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Zenskar row on bessemer-venture-partners.md from "Series A | 2026" to "Series A ($15M, co-led with Susquehanna Venture Capital, Shine Capital, and Rho; Anant Vidur Puri Partner) | 2026-04-16" via 3 primary sources: BusinessWire press release [^zen1] (new), The SaaS News [^zen2] (new), FinancialIT [^zen3] (new). All 3 confirm Zenskar (NYC; Apurv Bansal CEO/Co-Founder, Saurabh Agrawal Co-Founder; founded 2022; AI-native billing and revenue automation platform for B2B) closed $15M Series A on April 16, 2026 co-led by Susquehanna Venture Capital, Bessemer Venture Partners, Shine Capital, and Rho, with Rocketship, J-Ventures, Future Back Ventures by Bain & Company, and Converge participating. 5x revenue growth in past year. Startup profile zenskar.md corrected date from 2026-04-17 to 2026-04-16, corrected lead attribution to all 4 co-leads, added 3 new citations [^4][^5][^6], and added Apurv Bansal + Anant Vidur Puri (Bessemer Partner) quotes.'
 - slug: roelof-botha
   type: investor
   reason: 'Fact-spec sweep 2026-07-05: corrected 3 major misattributions on Botha portfolio (YouTube Series A date, Instagram Seed→Series B, Square Series A→Series B). Recompute stage distribution.'
