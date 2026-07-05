@@ -190,12 +190,12 @@ The following table includes Sequoia Capital investments verified through the fi
 | Google | Series A | 1999 | Search / Advertising | Public (IPO 2004) [^4][^22] |
 | PayPal | Early | ~2000 | Fintech / Payments | Public (IPO 2002); Acquired by eBay (2002) [^22] |
 | LinkedIn | Series A | 2003 | Enterprise / Social | Acquired by Microsoft (2016, $26.2B) [^4] |
-| YouTube | Series A | 2005 | Consumer / Video | Acquired by Google (2006, $1.65B) [^4][^24] |
+| YouTube | Series A ($3.5M, led; board — Botha) | 2005-11-07 | Consumer / Video | Acquired by Google (2006, $1.65B) [^4][^24][^ytseed] |
 | Airbnb | Seed | 2009 | Marketplace / Travel | Public (IPO 2020) [^5][^22] |
-| Instagram | Seed | 2010 | Consumer / Social | Acquired by Facebook (2012, $1B) [^1] |
+| Instagram | Series B ($50M, led at $500M val) | 2012-04-09 | Consumer / Social | Acquired by Facebook (2012, $1B) [^1][^igsB1][^igsB2] |
 | Stripe | Seed | 2011 | Fintech / Payments | Private [^4][^22] |
 | WhatsApp | Series A | 2011 | Consumer / Messaging | Acquired by Facebook (2014, $19B) [^4] |
-| Block (Square) | Early | 2011 | Fintech / Payments | Public (IPO 2015) [^22] |
+| Block (Square) | Series B ($27.5M, led at $240M val; board — Botha) | 2011-01-10 | Fintech / Payments | Public (IPO 2015) [^22][^sqsB1] |
 | Dropbox | Series A | ~2012 | Enterprise / Storage | Public (IPO 2018) [^4] |
 | Snowflake | Series E (co-led) | 2018 | Enterprise / Data | Public (IPO 2020) [^21][^31] |
 | DoorDash | Series A ($17.3M, led) | 2014-05-22 | Marketplace / Delivery | Public (IPO 2020) [^5][^22][^32][^94] |
@@ -495,3 +495,11 @@ The following table includes Sequoia Capital investments verified through the fi
 [^94]: Venture Capital Journal, "Sequoia Capital leads $17.3 mln round for DoorDash," May 23, 2014. Accessed July 2026. https://www.venturecapitaljournal.com/sequoia-capital-leads-17-3-mln-round-for-doordash/ — Independent trade-press confirmation that Sequoia led the $17.3M DoorDash Series A announced on May 22, 2014 (per contemporaneous TechCrunch coverage cross-referenced at [^32]). Alfred Lin joined the board; Khosla Ventures, Charles River Ventures, Pejman Mar Ventures, and Ted Zagat participated.
 
 [^95]: GlobeNewswire (Zoom press release), "Zoom Partners with Sequoia in $100 Million Funding Round," January 17, 2017. Accessed July 2026. https://www.globenewswire.com/news-release/2017/01/17/1311117/0/en/Zoom-Partners-with-Sequoia-in-100-Million-Funding-Round.html — Zoom's own press release confirming the $100M Series D closed January 17, 2017 at a $1B+ valuation, with Emergence Capital, AME Cloud Ventures (Jerry Yang), and Qualcomm Ventures participating; Carl Eschenbach joined the board.
+
+[^ytseed]: YouTube Blog (official company announcement), "YouTube Receives $3.5M in Funding From Sequoia Capital," November 7, 2005. Accessed July 2026. https://blog.youtube/news-and-events/youtube-receives-35m-in-funding-from/ — YouTube's own primary announcement of Sequoia Capital's $3.5M Series A, with Roelof Botha joining the board of directors. Botha quote: "We are very excited to be involved with YouTube at a time when consumers are poised to benefit from all the consumer electronics available."
+
+[^igsB1]: TechCrunch, "Right Before Acquisition, Instagram Closed $50M At A $500M Valuation From Sequoia, Thrive, Greylock And Benchmark," April 9, 2012. Accessed July 2026. https://techcrunch.com/2012/04/09/right-before-acquisition-instagram-closed-50m-at-a-500m-valuation-from-sequoia-thrive-greylock-and-benchmark/ — Contemporaneous press confirmation that Sequoia Capital led Instagram's $50M Series B at $500M valuation, with Thrive Capital, Greylock, and Benchmark participating; announced April 9, 2012, the same day Facebook announced its $1B acquisition.
+
+[^igsB2]: Forbes (Brian Solomon), "$1 Billion Start-Up Jackpot: The Behind-The-Scenes Winners At Instagram," April 9, 2012. Accessed July 2026. https://www.forbes.com/sites/briansolomon/2012/04/09/1-billion-start-up-jackpot-the-behind-the-scenes-winners-at-instagram/ — Independent confirmation of Series B participants (Sequoia Capital, Thrive Capital, Greylock Partners, Benchmark Capital) at $500M valuation immediately preceding the Facebook acquisition.
+
+[^sqsB1]: TechCrunch, "Square Raises $27.5M From Sequoia And Khosla, On Track To Process $40M In Q1 Payments," January 10, 2011. Accessed July 2026. https://techcrunch.com/2011/01/10/sequoia-leads-27-5-million-round-in-mobile-payments-startup-square/ — Primary contemporaneous coverage confirming Sequoia Capital led Square's $27.5M Series B on January 10, 2011 at $240M valuation, with Khosla Ventures (existing investor) participating; Roelof Botha joined Square's board of directors. Square's prior Series A ($10M) was led by Khosla Ventures in November/December 2009 at a $40M valuation — Sequoia did NOT participate in the Series A per contemporaneous TechCrunch coverage dated December 1, 2009 (https://techcrunch.com/2009/12/01/square-worth-40-million-before-launch/).

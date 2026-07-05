@@ -1,4 +1,30 @@
 priority:
+- slug: roelof-botha
+  type: investor
+  reason: 'Fact-spec sweep 2026-07-05: corrected 3 major misattributions on Botha portfolio (YouTube Series A date, Instagram Seed→Series B, Square Series A→Series B). Recompute stage distribution.'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Rolled up into the three vague-facts entries below. Botha profile portfolio table now shows: YouTube 2005-11-07 Series A ($3.5M, led, board); Instagram 2012-04-09 Series B ($50M, led at $500M val); Block/Square 2011-01-10 Series B ($27.5M, led at $240M val, board). Inferred Thesis stage distribution recomputed: 8 seed (29%) / 11 Series A-B (39%) / 9 growth (32%). New footnotes [^24][^25][^26][^27][^28] added to roelof-botha.md. Parallel updates applied to square.md, instagram.md, and sequoia-capital.md.'
+- slug: sequoia-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-05: tightened YouTube, Instagram, and Block (Square) portfolio rows with YYYY-MM-DD dates, amounts, and led attributions.'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Sequoia portfolio rows updated with primary-source citations: YouTube "Series A ($3.5M, led; board — Botha) | 2005-11-07" [^24][^ytseed]; Instagram "Series B ($50M, led at $500M val) | 2012-04-09" [^igsB1][^igsB2] (was previously "Seed | 2010" which was factually wrong — Sequoia''s only Instagram round was the Series B, not the Seed); Block (Square) "Series B ($27.5M, led at $240M val; board — Botha) | 2011-01-10" [^sqsB1] (was previously "Early | 2011" which was correct year but stage should be Series B — Khosla Ventures led the Series A in Nov 2009).'
+- slug: square
+  type: startup
+  reason: 'Fact-spec sweep 2026-07-05: corrected sequoia-capital and roelof-botha frontmatter attributions from Series A (2010) to Series B (2011-01-10).'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
+- slug: instagram
+  type: startup
+  reason: 'Fact-spec sweep 2026-07-05: corrected roelof-botha frontmatter attribution from Seed (2010) to Series B (2012-04-09); tightened Funding History table dates to YYYY-MM-DD.'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
 - slug: battery-ventures
   type: firm
   reason: 'Fact-spec sweep #6: tightened Nexthop AI Series A 2024 → 2025-03-25 combined Seed+Series A on Battery Ventures portfolio'

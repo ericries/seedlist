@@ -3,9 +3,10 @@ firms:
 - round: Series A
   slug: sv-angel
   year: 2009
-- round: Series A (led, board)
+- round: Series B (led, board)
   slug: sequoia-capital
-  year: 2010
+  year: 2011
+  date: 2011-01-10
 - round: Seed
   slug: first-round-capital
   year: 2009
@@ -54,9 +55,10 @@ investors:
 - round: Series A
   slug: ron-conway
   year: 2009
-- round: Series A (led, board)
+- round: Series B (led, board)
   slug: roelof-botha
-  year: 2010
+  year: 2011
+  date: 2011-01-10
 - round: Seed
   slug: josh-kopelman
   year: 2009

@@ -134317,7 +134317,9 @@ vague_facts:
   line: '| YouTube | 2005 | Series A | [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened YouTube row on roelof-botha.md from "2005 | Series A" to "2005-11-07 | Series A ($3.5M, led; board)" via 3 primary sources: (1) YouTube''s own blog post [^24] "YouTube Receives $3.5M in Funding From Sequoia Capital" dated November 7, 2005 with Botha quote "We are very excited to be involved with YouTube at a time when consumers are poised to benefit from all the consumer electronics available"; (2) Sequoia Capital Crucible Moments podcast [^13] (existing citation) with Botha stating "we led YouTube''s first financing, and the small team moved into the Sequoia office"; (3) Wikipedia History of YouTube citing Forbes. Also parallel-updated sequoia-capital.md firm portfolio row and added [^ytseed] footnote to the Sequoia profile. Amount was initial $3.5M (Series A closed November 2005); a follow-on $8M April 2006 Sequoia/Artis round brought cumulative Sequoia investment to ~$11.5M before Google''s October 2006 acquisition.'
 - profile: investors/roelof-botha
   profile_name: Roelof Botha
   company: Instagram
@@ -134327,7 +134329,9 @@ vague_facts:
   line: '| Instagram | 2010 | Seed (led) | [^1][^19] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'CORRECTION: Roelof Botha profile incorrectly claimed Botha/Sequoia led Instagram''s Seed round in 2010. Verified via 3 primary sources that Sequoia''s only Instagram investment was the Series B, not the Seed or Series A. Corrected roelof-botha.md row from "2010 | Seed (led)" to "2012-04-09 | Series B ($50M, led at $500M val)". Truth per contemporaneous press: (a) Seed (2010-03-05) $500K led by Baseline Ventures + Andreessen Horowitz ($250K each) — Sequoia NOT involved; (b) Series A (2011-02-02) $7M led by Benchmark Capital — Sequoia NOT involved; (c) Series B (2012-04-09) $50M led by Sequoia Capital at $500M valuation with Thrive Capital, Greylock Partners, Benchmark participating — this is Sequoia''s only Instagram round. Sources: TechCrunch April 9, 2012 [^27] "Right Before Acquisition, Instagram Closed $50M At A $500M Valuation From Sequoia, Thrive, Greylock And Benchmark"; Forbes April 9, 2012 [^28] "$1 Billion Start-Up Jackpot: The Behind-The-Scenes Winners At Instagram"; ProQuest "VC EXIT: Instagram Surprises Sequoia With An Instant Return" [^19] (existing citation). Also updated Inferred Thesis stage distribution (8 seed / 11 Series A-B / 9 growth, previously 9/10/9). Also updated instagram.md startup profile: (a) frontmatter roelof-botha attribution from Seed 2010 to Series B 2012-04-09, (b) Funding History table dates tightened to YYYY-MM-DD; (c) Sequoia firm portfolio row updated with [^igsB1][^igsB2] footnotes.'
 - profile: investors/roelof-botha
   profile_name: Roelof Botha
   company: Block (Square)
@@ -134337,7 +134341,9 @@ vague_facts:
   line: '| Block (Square) | 2010 | Series A (led, board) | [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'CORRECTION: Roelof Botha profile incorrectly claimed Botha/Sequoia led Square''s Series A in 2010. Verified via 3 primary sources that Botha/Sequoia LED the Series B (not Series A) on January 10, 2011. Corrected roelof-botha.md row from "2010 | Series A (led, board)" to "2011-01-10 | Series B ($27.5M, led at $240M val; board)". Truth per contemporaneous press: (a) Series A (November/December 2009) $10M led by Khosla Ventures at $40M valuation, with SV Angel, Ron Conway, Marissa Mayer, Biz Stone, Shawn Fanning et al. participating — Sequoia NOT involved. Confirmed via TechCrunch December 1, 2009 "Square Worth $40 Million Before Launch" [^25] and VatorNews retrospective; (b) Series B (2011-01-10) $27.5M led by Sequoia Capital at $240M valuation with Khosla Ventures (existing investor) participating — Botha joined Square''s board. Confirmed via TechCrunch January 10, 2011 "Square Raises $27.5M From Sequoia And Khosla" [^26]. Also updated square.md startup profile frontmatter (both sequoia-capital and roelof-botha attributions changed from Series A 2010 to Series B 2011-01-10). Also updated sequoia-capital.md firm portfolio row with [^sqsB1] footnote. Note: the existing Square startup Funding History table already correctly listed Sequoia''s Series B in January 2011; only the investor/firm frontmatter and the Botha profile row were wrong.'
 - profile: investors/roelof-botha
   profile_name: Roelof Botha
   company: Natera

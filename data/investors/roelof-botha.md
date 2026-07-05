@@ -53,7 +53,7 @@ On Sequoia's identity, he has said: "We're not a collection of individuals with 
 Based on 28 verified investments in the portfolio table below:
 
 **Stage distribution:**
-Botha invests across all stages, from seed through growth. Of 28 verified investments: approximately 9 were at seed stage (32%), 10 at Series A or B (36%), and 9 at growth stage or later (32%). This is a notably balanced distribution compared to typical VCs who specialize in a single stage, reflecting Sequoia's multi-stage platform. His personal involvement tilts slightly toward Series A/B — where the company has enough signal to evaluate but is still early enough for Sequoia to win a board seat.
+Botha invests across all stages, from seed through growth. Of 28 verified investments: approximately 8 were at seed stage (29%), 11 at Series A or B (39%), and 9 at growth stage or later (32%). This is a notably balanced distribution compared to typical VCs who specialize in a single stage, reflecting Sequoia's multi-stage platform. His personal involvement tilts slightly toward Series A/B — where the company has enough signal to evaluate but is still early enough for Sequoia to win a board seat.
 
 **Sector concentration (of 28 verified investments):**
 - Consumer/social: 9 companies (32%) — YouTube, Instagram, Tumblr, Whisper, Bird, mmhmm, Meebo, Inside.com, Jawbone
@@ -84,9 +84,9 @@ Botha invests across all stages, from seed through growth. Of 28 verified invest
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
-| YouTube | 2005 | Series A | [^13] |
-| Instagram | 2010 | Seed (led) | [^1][^19] |
-| Block (Square) | 2010 | Series A (led, board) | [^14] |
+| YouTube | 2005-11-07 | Series A ($3.5M, led; board) | [^13][^24] |
+| Instagram | 2012-04-09 | Series B ($50M, led at $500M val) | [^1][^19][^27][^28] |
+| Block (Square) | 2011-01-10 | Series B ($27.5M, led at $240M val; board) | [^14][^25][^26] |
 | Natera | 2006 | Early (board since 2006) | [^16] |
 | MongoDB | 2013 | Series C (board) | [^15] |
 | Unity | 2009 | Series A (board) | [^20] |
@@ -222,3 +222,13 @@ No critical or negative founder testimonials about Botha were found in this rese
 [^22]: "Lessons from 20 Years of Venture Capital: Roelof Botha (Managing Partner and Steward at Sequoia Capital)." The Generalist, April 2025. https://www.generalist.com/p/lessons-from-20-years-of-vc-roelof-botha
 
 [^23]: "MongoDB ft. Dev Ittycheria: Early Pivot, Open Source Movement." Sequoia Capital, Crucible Moments podcast. https://sequoiacap.com/podcast/crucible-moments-mongodb/. Accessed March 2026.
+
+[^24]: "YouTube Receives $3.5M in Funding From Sequoia Capital." YouTube Blog, November 7, 2005. https://blog.youtube/news-and-events/youtube-receives-35m-in-funding-from/. Accessed July 2026.
+
+[^25]: "Square Worth $40 Million Before Launch." TechCrunch, December 1, 2009. https://techcrunch.com/2009/12/01/square-worth-40-million-before-launch/. Accessed July 2026.
+
+[^26]: "Square Raises $27.5M From Sequoia And Khosla, On Track To Process $40M In Q1 Payments." TechCrunch, January 10, 2011. https://techcrunch.com/2011/01/10/sequoia-leads-27-5-million-round-in-mobile-payments-startup-square/. Accessed July 2026.
+
+[^27]: "Right Before Acquisition, Instagram Closed $50M At A $500M Valuation From Sequoia, Thrive, Greylock And Benchmark." TechCrunch, April 9, 2012. https://techcrunch.com/2012/04/09/right-before-acquisition-instagram-closed-50m-at-a-500m-valuation-from-sequoia-thrive-greylock-and-benchmark/. Accessed July 2026.
+
+[^28]: "$1 Billion Start-Up Jackpot: The Behind-The-Scenes Winners At Instagram." Forbes (Brian Solomon), April 9, 2012. https://www.forbes.com/sites/briansolomon/2012/04/09/1-billion-start-up-jackpot-the-behind-the-scenes-winners-at-instagram/. Accessed July 2026.

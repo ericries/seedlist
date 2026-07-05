@@ -44,9 +44,10 @@ investors:
 - round: series-a
   slug: matt-cohler
   year: 2011
-- round: Seed (led)
+- round: Series B (led at $500M val)
   slug: roelof-botha
-  year: 2010
+  year: 2012
+  date: 2012-04-09
 - round: Series A
   slug: chris-sacca
   year: 2011
@@ -87,10 +88,10 @@ Instagram is a photo-sharing and social networking application co-founded by Kev
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| Mar 2010 | Seed | $500K | Baseline Ventures, Andreessen Horowitz | — | [^1][^6] |
-| Feb 2011 | Series A | $7M | Benchmark | Baseline Ventures, Jack Dorsey, Chris Sacca (Lowercase Capital), Adam D'Angelo [^2][^7] |
-| Apr 2012 | Series B | $50M | Sequoia Capital | Thrive Capital, Greylock, Benchmark [^3] |
-| Apr 2012 | Acquisition | $1B | Facebook | — [^4][^5] |
+| 2010-03-05 | Seed | $500K | Baseline Ventures, Andreessen Horowitz | — [^1][^6] |
+| 2011-02-02 | Series A | $7M | Benchmark | Baseline Ventures, Jack Dorsey, Chris Sacca (Lowercase Capital), Adam D'Angelo [^2][^7] |
+| 2012-04-09 | Series B ($500M val) | $50M | Sequoia Capital | Thrive Capital, Greylock, Benchmark [^3] |
+| 2012-04-09 | Acquisition | $1B | Facebook | — [^4][^5] |
 
 The seed round was split evenly between Baseline Ventures (Steve Anderson) and Andreessen Horowitz, each investing $250,000 [^6]. Andreessen Horowitz did not participate in follow-on rounds due to a conflict of interest — the firm had backed Picplz, a competing photo-sharing app [^6]. Benchmark's Matt Cohler and Peter Fenton spearheaded the Series A, with Cohler joining Instagram's board [^2]. The Series B closed just days before the Facebook acquisition was announced [^3].
 
