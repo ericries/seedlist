@@ -1,4 +1,25 @@
 priority:
+- slug: acrew-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-05: tightened Radiant Security row (year-only 2023 → 2023-11-14) and corrected round type from "Seed–Series A" to Series A + disclosed lead as Next47 (not Acrew) via 3 primary sources.'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Radiant Security row on acrew-capital.md from "Seed–Series A | 2023" to "Series A ($15M; Next47 led; participated as existing investor) | 2023-11-14" via 3 independent contemporaneous primary sources: SecurityWeek (Nov 14 2023) [^31], SiliconANGLE (Nov 14 2023) [^32], Help Net Security (Nov 15 2023) [^33]. Full syndicate: Next47 (lead, new) — Moshe Zilberstein, Head of Israeli Investments; General Advance (new); Lightspeed Venture Partners, Acrew Capital, Uncorrelated Ventures, Jibe Ventures (existing). CEO Shahar Ben-Hador. Existing Acrew LinkedIn citation [^20] retained. Prior "Seed–Series A" hybrid label was misleading and lead attribution to Acrew was wrong.'
+- slug: acme-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-05: tightened Again row (year-only 2024 → 2024-07-17 Series A $43M/€39.4M co-led by GV and HV Capital) via 3 primary sources.'
+  added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Again row on acme-capital.md from "Series A | 2024" to "Series A ($43M / €39.4M; co-led by GV and HV Capital; ACME participated as existing seed investor) | 2024-07-17" via 3 independent primary sources: EU-Startups [^32], Tech.eu [^33], Fortune exclusive [^34]. Full syndicate: GV (co-lead), HV Capital (co-lead), Kompas VC, EIFO (Denmark''s Export and Investment Fund), ACME Capital, Atlantic Labs. Copenhagen-based; carbon-negative chemical manufacturer using acetogen bacteria. Founders quoted include Dr. Torbjørn Jensen ("Again is the world''s first carbon-negative chemical manufacturer that can scale to meet global demand."). Roni Hiranand (GV Principal) and Jan Miczaika (HV Capital Partner) also quoted. Note: ACME also backed the ~$10M seed in October 2023 — this row now reflects the Series A follow-on. Prior Tracxn-only citation [^15] retained plus 3 new primaries.'
+- slug: aleph
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-05: OHR row cannot be resolved to YYYY-MM-DD from primary sources (aggregate ~$30M pre-seed+seed with no per-round disclosure); updated row and marked queue unresolvable with disclosure.'
+  added: 2026-07-05
+  status: unresolvable
+  resolved: 2026-07-05
+  resolution_note: 'OHR (ohr.xyz, aka OHR Synbiosis Ltd.) — Tel Aviv synthetic biology startup building enzyme-based CO2-to-carbon-chain manufacturing. Founder/CEO Dan Davidi (ex-Weizmann, ex-Harvard SBC, ex-Amazon Moonshot; Aleph EIR from January 2023). Company publicly unveiled via Aleph LinkedIn (~January 2025), NOT 2024. OHR website discloses ~$30M raised across pre-seed and seed with backers Aleph, Deep33 Ventures, Standard Industries, XTX Markets, KDM Partners, Yasmin Lukatz, 202 Ventures, Clocktower Ventures — but does NOT break out per-round dates or amounts. Zero tier-1 press coverage found (searched Calcalist/CTech, Globes, NoCamels, Times of Israel, TechCrunch, Bloomberg); aggregators (PitchBook, Startup Nation Central, IVC, Crunchbase) list OHR with undisclosed amounts. Updated Aleph portfolio row from "Seed | 2024" to "Pre-Seed + Seed (~$30M aggregate; Aleph anchor; publicly unveiled ~Jan 2025) | ~2024–2025" with citations to ohr.xyz [^25] and Aleph portfolio page [^26]. Per anti-hallucination rules ("When in doubt, leave it out"), no discretely dated round entered.'
 - slug: databricks
   type: startup
   reason: 'Fact-spec sweep 2026-07-05 (pass 4): tightened Databricks Series A row from "Sep 2013 | $13.9M | N/A | Andreessen Horowitz | N/A" to "2013-09-25 | $13.9M | $44M | Andreessen Horowitz (Ben Horowitz, board) | —" via 3 primary/independent sources'
