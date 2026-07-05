@@ -1,0 +1,16 @@
+- name: All In Capital
+  type: firm
+  priority: normal
+  discovered_from: cunin
+  source: "Co-led CUNIN $450K pre-seed (2026-07-03) with Huddle Ventures"
+- name: Oregon Sports Angels
+  type: firm
+  priority: normal
+  discovered_from: able-made
+  source: "Led Able Made $2M seed (2026-07-01); sports & tech angel network based in Oregon"
+- name: Sara Toussaint
+  type: individual
+  firm: NC Courage / TMJ Women's Football
+  priority: low
+  discovered_from: able-made
+  source: "Angel investor in Able Made (2026-07-01); co-owner NWSL NC Courage, co-CEO TMJ Women's Football"
