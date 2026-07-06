@@ -20,6 +20,42 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Smart glasses maker Even Realities hits $1B valuation with $150M funding
+    led by Meituan, Tencent
+  url: https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/
+  source: techcrunch
+  date_found: '2026-07-06'
+  parsed_company: null
+  parsed_amount: $1B
+  parsed_round: null
+  status: pending
+- title: UK startup Worldmodeldata raises €8 million to turn video games into training
+    data for physical AI
+  url: https://www.eu-startups.com/2026/07/uk-startup-worldmodeldata-raises-e8-million-to-turn-video-games-into-training-data-for-physical-ai/
+  source: eu-startups
+  date_found: '2026-07-06'
+  parsed_company: UK startup Worldmodeldata
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Finland’s CurifyLabs raises €12 million to expand 3D printing-based medicine
+    compounding
+  url: https://www.eu-startups.com/2026/07/finlands-curifylabs-raises-e12-million-to-expand-3d-printing-based-medicine-compounding/
+  source: eu-startups
+  date_found: '2026-07-06'
+  parsed_company: Finland’s CurifyLabs
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: France’s Skello secures €200 million to grow its AI tools for frontline workforce
+    management
+  url: https://www.eu-startups.com/2026/07/frances-skello-secures-e200-million-to-grow-its-ai-tools-for-frontline-workforce-management/
+  source: eu-startups
+  date_found: '2026-07-06'
+  parsed_company: France’s Skello
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: after the micromobility company raised $167M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -803,38 +839,4 @@ pending_rounds:
   parsed_company: Homeward had
   parsed_amount: $72M
   parsed_round: null
-  status: pending
-- title: u003e raised $320M Series H
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: u003e
-  parsed_amount: $320M
-  parsed_round: Series H
-  status: pending
-- title: u003e. Homeward had raised $72M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: u003e. Homeward had
-  parsed_amount: $72M
-  parsed_round: null
-  status: pending
-- title: Austria’s Ora Computing secures €3.5 million to make AI models smaller and
-    faster
-  url: https://www.eu-startups.com/2026/06/austrias-ora-computing-secures-e3-5-million-to-make-ai-models-smaller-and-faster/
-  source: eu-startups
-  date_found: '2026-06-24'
-  parsed_company: Austria’s Ora Computing
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Exclusive: XCures Lands $46M Series B To Clean Up Messy Medical Records
-    With AI'
-  url: https://news.crunchbase.com/venture/xcures-lands-seriesb-medical-records-ai/
-  source: crunchbase
-  date_found: '2026-06-24'
-  parsed_company: XCures
-  parsed_amount: $46M
-  parsed_round: Series B
   status: pending
