@@ -1,19 +1,28 @@
 ---
-name: "Harken Sweets"
-slug: harken-sweets
-type: startup
-website: "https://harkensweets.com"
-location: "New York, New York"
-status_company: active
-sector: [consumer, cpg, food-and-beverage]
-stage_latest: "Seed"
-investors: []
-firms: []
+firms:
+- round: Seed (TTV's 8th investment, co-invested with Selva and GRTSHT)
+  slug: taste-tomorrow-ventures
+  year: 2026
 founders:
-  - name: "Katie Lefkowitz"
-    role: "Founder"
-status: published
+- name: Katie Lefkowitz
+  role: Founder
+investors:
+- round: Seed (TTV's 8th investment, co-invested with Selva and GRTSHT)
+  slug: danny-stepper
+  year: 2026
 last_researched: 2026-05-16
+location: New York, New York
+name: Harken Sweets
+sector:
+- consumer
+- cpg
+- food-and-beverage
+slug: harken-sweets
+stage_latest: Seed
+status: published
+status_company: active
+type: startup
+website: https://harkensweets.com
 ---
 
 ## About

@@ -23678,7 +23678,7 @@ queue:
 - name: Danny Stepper
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Taste Tomorrow Ventures
   discovered_from: harken-sweets
@@ -23906,7 +23906,7 @@ queue:
 - name: Ujwal Sutaria
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: TDV Partners
   discovered_from: zishaan-hayath
@@ -35947,3 +35947,71 @@ queue:
   discovered_from: worldmodeldata
   source: Led Worldmodeldata £7M seed (2026-07-06); London-based early-stage AI/data
     VC
+- name: LA Libations
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: danny-stepper
+  source: beverage incubator/category captain that spawned Taste Tomorrow Ventures;
+    Danny Stepper is co-founder
+- name: Dino Sarti
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Taste Tomorrow Ventures
+  discovered_from: danny-stepper
+  source: co-founder of LA Libations and Taste Tomorrow Ventures alongside Danny Stepper
+- name: Scott Guthrie
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Taste Tomorrow Ventures
+  discovered_from: danny-stepper
+  source: TTV partner; former PepsiCo and Disney executive
+- name: Kunal Juneja
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: TDV Partners
+  discovered_from: ujwal-sutaria
+  source: listed as Investor at TDV Partners on team page
+- name: Veda VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ujwal-sutaria
+  source: co-led DevDham seed with TDV Partners (Jan 2024)
+- name: Fundamentum Partnership
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ujwal-sutaria
+  source: led AppsForBharat Series B (Sept 2024, $18M); Nandan Nilekani-backed
+- name: Ball Corporation
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: danny-stepper
+  source: strategic LP in Taste Tomorrow Ventures Fund I
+- name: Advantage Solutions
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: danny-stepper
+  source: strategic LP in Taste Tomorrow Ventures Fund I
+- name: Robert Trone
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Total Wine & More
+  discovered_from: danny-stepper
+  source: led Just Ice Tea's $9M round in which TTV participated
