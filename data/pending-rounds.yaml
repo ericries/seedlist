@@ -56,6 +56,22 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'Sector Snapshot: Cleantech Startup Funding Stabilizes As Energy Demand Grows'
+  url: https://news.crunchbase.com/venture/startup-funding-clean-energy-exits-ipo-q2-2026/
+  source: crunchbase
+  date_found: '2026-07-06'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'From cash deposits to everyday rewards: London-based Stoa raises €2.1 million'
+  url: https://www.eu-startups.com/2026/07/360944/
+  source: eu-startups
+  date_found: '2026-07-06'
+  parsed_company: 'From cash deposits to everyday rewards: London-based Stoa'
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: after the micromobility company raised $167M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -821,22 +837,6 @@ pending_rounds:
   source: axios-pro-rata
   date_found: '2026-06-25'
   parsed_company: per Axios Pro . Homeward had
-  parsed_amount: $72M
-  parsed_round: null
-  status: pending
-- title: b in stock. Modular had raised $380M VC
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: b in stock. Modular had
-  parsed_amount: $380M
-  parsed_round: Vc
-  status: pending
-- title: Homeward had raised $72M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Homeward had
   parsed_amount: $72M
   parsed_round: null
   status: pending
