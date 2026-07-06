@@ -36015,3 +36015,89 @@ queue:
   firm: Total Wine & More
   discovered_from: danny-stepper
   source: led Just Ice Tea's $9M round in which TTV participated
+- name: Bespokeist Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stoa
+  source: co-lead of Stoa pre-seed (2026-07-06)
+- name: Ingenii Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stoa
+  source: co-lead of Stoa pre-seed (2026-07-06)
+- name: Force Over Mass Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stoa
+  source: participant in Stoa pre-seed (2026-07-06)
+- name: Suneel Hargunani
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Angel
+  discovered_from: stoa
+  source: angel in Stoa pre-seed; formerly Citi
+- name: Rachel Sestini
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Shaw Gibbs / Canopy Capital
+  discovered_from: stoa
+  source: angel in Stoa pre-seed; partner at Shaw Gibbs and co-founder of Canopy Capital
+- name: Cocoon Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qashier
+  source: lead of Qashier Series A+ (2026-06-30)
+- name: IFP Securities
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qashier
+  source: co-investor in Qashier Series A+ (2026-06-30)
+- name: BlackSoil Global
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: qashier
+  source: co-investor in Qashier Series A+ (2026-06-30)
+- name: AI2 Incubator
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: devplan
+  source: lead of Devplan seed (2026-06-18); Allen Institute for AI incubator
+- name: Mighty Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: devplan
+  source: co-investor in Devplan seed (2026-06-18)
+- name: Grand Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: devplan
+  source: co-investor in Devplan seed (2026-06-18)
+- name: eLab Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: devplan
+  source: co-investor in Devplan seed (2026-06-18)
