@@ -35734,3 +35734,88 @@ queue:
   discovered_from: chris-downer
   source: Promoted to General Partner at Brewer Lane Ventures alongside Downer in
     March 2022
+- name: Varsity
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kalipso
+  source: led Kalipso $3.2M seed (2026-06-25)
+- name: Vento (Exor Ventures)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kalipso
+  source: participated in Kalipso $3.2M seed (2026-06-25)
+- name: Lanai Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kalipso
+  source: participated in Kalipso $3.2M seed (2026-06-25)
+- name: Plug and Play Tech Center
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kalipso
+  source: participated in Kalipso $3.2M seed (2026-06-25)
+- name: Pierre Ferran
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Kalipso
+  discovered_from: kalipso
+  source: Co-founder & CEO of Kalipso
+- name: Differential Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: valence-ai
+  source: led Valence AI $5M seed (2026-06-24)
+- name: Difference Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: valence-ai
+  source: participated in Valence AI $5M seed (2026-06-24)
+- name: Willowtree Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: valence-ai
+  source: participated in Valence AI $5M seed (2026-06-24)
+- name: Change Paradox Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: valence-ai
+  source: participated in Valence AI $5M seed (2026-06-24)
+- name: SRI International
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: valence-ai
+  source: participated in Valence AI $5M seed (2026-06-24)
+- name: Tawuniya
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: maalexi
+  source: led Maalexi $2.8M growth round (2026-06-26)
+- name: Global Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: maalexi
+  source: participated in Maalexi $2.8M growth (2026-06-26); prior pre-Series A lead
