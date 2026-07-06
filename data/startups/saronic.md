@@ -13,7 +13,8 @@ firms:
   slug: andreessen-horowitz
   year: 2026
 - slug: bessemer-venture-partners
-- round: Series A ($55M, Caffeinated Capital led)
+- date: 2023-10-09
+  round: series-a
   slug: cubit-capital
   year: 2023
 founded: 2022
@@ -31,7 +32,8 @@ investors:
   slug: drew-oetting
   year: 2022
 - slug: elad-gil
-- round: Series A ($55M, Caffeinated Capital led)
+- date: 2023-10-09
+  round: series-a
   slug: ben-kohlmann
   year: 2023
 last_researched: 2026-04-02
@@ -59,6 +61,7 @@ Saronic is an Austin, Texas-based autonomous shipbuilder developing uncrewed sur
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
+| 2023-10-09 | Series A | $55M | Caffeinated Capital | 8VC, Andreessen Horowitz, Lightspeed, Point72 Ventures, Silent Ventures, Overmatch Ventures, Ensemble VC, Cubit Capital, U.S. Innovative Technology Fund [^4] |
 | 2024 | Series C | $600M | N/A | 8VC, Andreessen Horowitz, others [^1] |
 | 2026-03-31 | Series D | $1.75B | Kleiner Perkins | Advent International, Bessemer Venture Partners, DFJ Growth, BAM Elevate, 8VC, Caffeinated Capital, Andreessen Horowitz, Elad Gil, Franklin Templeton [^1][^2][^3] |
 
@@ -77,3 +80,4 @@ No independently sourced founder testimonials found.
 [^1]: CNBC, "Autonomous ship startup Saronic raises $1.75 billion in race to modernize U.S. military," March 31, 2026. https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html
 [^2]: PR Newswire, "Saronic Closes $1.75B Series D at $9.25B Valuation to Accelerate a New Era of Maritime Autonomy," March 31, 2026. https://www.prnewswire.com/news-releases/saronic-closes-1-75b-series-d-at-9-25b-valuation-to-accelerate-a-new-era-of-maritime-autonomy-302729238.html
 [^3]: SiliconANGLE, "Saronic raises $1.75B at $9.25B valuation to gear up autonomous ship production," March 31, 2026. https://siliconangle.com/2026/03/31/saronic-raises-1-75b-9-25b-valuation-ramp-autonomous-ship-production/
+[^4]: TechCrunch, "Saronic, a defense startup building autonomous ships, raises $55M," October 9, 2023. Confirms Caffeinated Capital led, with 8VC, Andreessen Horowitz, Lightspeed, Point72 Ventures, Silent Ventures, Overmatch Ventures, Ensemble VC, Cubit Capital, and U.S. Innovative Technology Fund participating. Accessed July 2026. https://techcrunch.com/2023/10/09/saronic-a-defense-startup-building-autonomous-ships-raises-55m/

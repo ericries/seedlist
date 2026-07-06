@@ -12,12 +12,18 @@ firms:
 - round: series-a
   slug: lux-capital
   year: 2022
-- round: series-b
+- date: 2024-02-21
+  round: series-b
   slug: founders-fund
-  year: 2023
-- round: series-b
+  year: 2024
+- date: 2024-02-21
+  round: series-b
   slug: andreessen-horowitz
-  year: 2023
+  year: 2024
+- date: 2024-02-21
+  round: series-b
+  slug: lux-capital
+  year: 2024
 - date: 2025-07-17
   round: series-c
   slug: d1-capital-partners
@@ -63,9 +69,10 @@ firms:
 - round: Karman era (defense manufacturing)
   slug: karman-ventures
   year: 2024
-- round: Growth/late-stage (year per Cubit listing)
+- date: 2024-02-21
+  round: series-b
   slug: cubit-capital
-  year: 2023
+  year: 2024
 founded: 2020
 founders:
 - name: Chris Power
@@ -96,9 +103,10 @@ investors:
 - round: Karman era (defense manufacturing)
   slug: william-barnes
   year: 2024
-- round: Growth/late-stage (year per Cubit listing)
+- date: 2024-02-21
+  round: series-b
   slug: ben-kohlmann
-  year: 2023
+  year: 2024
 last_researched: 2026-03-30
 location: Los Angeles, CA
 name: Hadrian
@@ -130,7 +138,7 @@ Hadrian operates a 100,000-square-foot facility in Torrance, California ("Factor
 |------|-------|--------|-------------------|--------------|
 | 2021-04 | Seed | $9.5M | Founders Fund, Lux Capital | Construct Capital [^6][^7] |
 | 2022-03 | Series A | $90M | Andreessen Horowitz, Lux Capital | Founders Fund, Construct Capital, Caffeinated Capital, Lachy Groom, 137 Ventures [^8][^2] |
-| 2023-12 | Series B | $117M | Construct Capital | RTX Ventures, WCM Investment Management, Caffeinated Capital, Andreessen Horowitz, Founders Fund, Lux Capital [^9][^10] |
+| 2024-02-21 | Series B | $117M (equity + debt) | Not publicly named (RTX Ventures new-strategic; multiple returning investors participated) | RTX Ventures (new), Construct Capital, WCM Investment Management, Bracket Capital, Shrug Capital, Lux Capital, Andreessen Horowitz, Founders Fund, S&A, Silent Ventures, Cubit Capital, Caffeinated Capital, Tru Arrow Partners [^9][^10] |
 | 2025-07-17 | Series C | $260M (incl. $150M debt via Morgan Stanley) | Founders Fund, Lux Capital | Altimeter Capital, D1 Capital Partners, StepStone Group, 1789 Capital, Andreessen Horowitz, Construct Capital [^3][^11] |
 | 2026-01-09 | Series D | Undisclosed (at $1.6B valuation) | T. Rowe Price Associates | Altimeter Capital, D1 Capital Partners, StepStone Group, 1789 Capital, Founders Fund, Lux Capital, Andreessen Horowitz, Construct Capital [^12][^13][^16][^17] |
 

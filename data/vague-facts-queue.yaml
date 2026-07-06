@@ -42574,7 +42574,9 @@ vague_facts:
   line: '| Saronic | 2023 | Series A ($55M, Caffeinated Capital led) | [^9][^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'Tightened row on ben-kohlmann.md from "2023 | Series A ($55M, Caffeinated Capital led)" to "2023-10-09 | Series A ($55M; Caffeinated Capital led; 8VC, a16z, Lightspeed, Point72, Silent, Overmatch, Ensemble, Cubit, USIT participated)" via TechCrunch 2023-10-09 [^9] (existing). Parallel tightening on saronic.md added Series A row to Funding History with new [^4] TechCrunch citation.'
 - profile: investors/ben-kohlmann
   profile_name: Ben Kohlmann
   company: Hadrian
@@ -42584,7 +42586,9 @@ vague_facts:
   line: '| Hadrian | ~2023 | Growth/late-stage (year per Cubit listing) | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'CORRECTED "~2023 | Growth/late-stage" to "2024-02-21 | Series B ($117M; RTX Ventures new; Cubit + Construct, WCM, Bracket, Shrug, Lux, a16z, Founders Fund, S&A, Silent, Caffeinated, Tru Arrow participated)" via 3 independent primary sources: Cooley LLP [^13] (new), Mondaq press release [^14] (new), Newcomer.co [^15] (new). Cubit made first Hadrian check in Feb 2024 Series B — not 2023. Parallel correction on hadrian.md Funding History (prior "2023-12" label was wrong; actual date 2024-02-21) and firms/investors frontmatter dates updated to 2024.'
 - profile: investors/ben-kohlmann
   profile_name: Ben Kohlmann
   company: Venus Aerospace
@@ -42654,7 +42658,9 @@ vague_facts:
   line: '| Vatn Systems | ~2024 | Early-stage UUVs | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'Tightened "~2024 | Early-stage UUVs" to "2024-11-12 | Seed ($13M oversubscribed; DYNE Ventures led; Lockheed Martin Ventures, RTX Ventures, In-Q-Tel, Propeller, SAIC Ventures, Cubit, Fortitude Ventures + existing Centre Street Partners, The Veteran Fund, Blue Collective, Decisive Point participated)" via 3 independent primary sources: PR Newswire [^16] (new), Vatn Systems own website [^17] (new), ROV Planet [^18] (new). Updated last_verified_investment on ben-kohlmann.md from Venus Aerospace 2024-01-31 to Vatn Systems 2024-11-12 (more recent verified check).'
 - profile: investors/ben-kohlmann
   profile_name: Ben Kohlmann
   company: Chariot Defense
@@ -175539,7 +175545,9 @@ vague_facts:
   line: '| Saronic | 2023 | Series A ($55M, Caffeinated Capital led) | [^9][^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'See parallel unknown_value resolution — year tightened to 2023-10-09 via TechCrunch (existing [^9]).'
 - profile: investors/ben-kohlmann
   profile_name: Ben Kohlmann
   company: Hadrian
@@ -175549,7 +175557,9 @@ vague_facts:
   line: '| Hadrian | ~2023 | Growth/late-stage (year per Cubit listing) | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'See parallel unknown_value resolution — CORRECTED year from ~2023 to 2024-02-21 via Cooley LLP [^13], Mondaq [^14], Newcomer.co [^15]. Cubit''s first Hadrian check was Series B Feb 2024.'
 - profile: investors/ben-kohlmann
   profile_name: Ben Kohlmann
   company: Venus Aerospace
@@ -175619,7 +175629,9 @@ vague_facts:
   line: '| Vatn Systems | ~2024 | Early-stage UUVs | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'See parallel unknown_value resolution — year tightened to 2024-11-12 via PR Newswire [^16], Vatn Systems own website [^17], ROV Planet [^18].'
 - profile: investors/ben-kohlmann
   profile_name: Ben Kohlmann
   company: Chariot Defense

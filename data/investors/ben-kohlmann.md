@@ -9,14 +9,14 @@ stage_focus: [pre-seed, seed, series-a]
 sector_focus: [defense-tech, frontier-tech, hardware, aerospace, energy, nuclear, advanced-manufacturing, maritime]
 check_size: "Cubit Capital writes early-to-growth checks (Pre-Seed through Series A); individual round sizes not publicly disclosed"
 last_verified_investment:
-  date: 2024-01-31
-  company: "Venus Aerospace"
-  round: "Series A-1 (Cubit participation; Caffeinated Capital led)"
+  date: 2024-11-12
+  company: "Vatn Systems"
+  round: "Seed ($13M; DYNE Ventures led; Cubit participated)"
 social:
   twitter: "@benkohlmann"
   linkedin: "linkedin.com/in/benjaminkohlmann"
 status: published
-last_researched: 2026-05-01
+last_researched: 2026-07-06
 ---
 
 ## Background
@@ -62,15 +62,15 @@ The following are publicly disclosed Cubit Capital portfolio companies during Ko
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
-| Saronic | 2023 | Series A ($55M, Caffeinated Capital led) | [^9][^6] |
-| Hadrian | ~2023 | Growth/late-stage (year per Cubit listing) | [^6] |
+| Saronic | 2023-10-09 | Series A ($55M; Caffeinated Capital led; 8VC, Andreessen Horowitz, Lightspeed, Point72 Ventures, Silent Ventures, Overmatch Ventures, Ensemble VC, Cubit, U.S. Innovative Technology Fund participated) | [^9][^6] |
+| Hadrian | 2024-02-21 | Series B ($117M equity + debt; no single lead publicly named; RTX Ventures new; Cubit, Construct, WCM, Bracket, Shrug, Lux, a16z, Founders Fund, S&A, Silent Ventures, Caffeinated Capital, Tru Arrow participated — Cubit's first Hadrian check) | [^6][^13][^14][^15] |
 | Venus Aerospace | 2024 | Series A-1 participation | [^6][^11] |
 | Gecko Robotics | ~2024 | Late-stage (unicorn per Tracxn) | [^6][^8] |
 | True Anomaly | ~2023 | Early-stage defense/space | [^6] |
 | Firestorm | ~2024 | Early-stage UAS | [^6] |
 | Firehawk Aerospace | ~2023 | Early-stage rocket propulsion | [^6] |
 | Albedo | ~2023 | Early-stage satellite imagery | [^6] |
-| Vatn Systems | ~2024 | Early-stage UUVs | [^6] |
+| Vatn Systems | 2024-11-12 | Seed ($13M oversubscribed; DYNE Ventures led; Lockheed Martin Ventures, RTX Ventures, In-Q-Tel, Propeller, SAIC Ventures, Cubit, Fortitude Ventures + existing Centre Street Partners, The Veteran Fund, Blue Collective, Decisive Point participated) | [^6][^16][^17][^18] |
 | Chariot Defense | ~2024 | Early-stage power infrastructure | [^6] |
 | Overland AI | ~2024 | Early-stage off-road autonomy | [^6] |
 | Elroy Air | ~2023 | Autonomous cargo aviation | [^6] |
@@ -156,3 +156,9 @@ No independently sourced founder testimonials specifically about working with Be
 [^10]: PR Newswire, "Stand Together Ventures Lab, Cubit Capital, 8VC, and GSV Invest in Tap to Accelerate AI-Powered Workforce Development for Advanced Manufacturing." Accessed May 2026. https://www.prnewswire.com/news-releases/stand-together-ventures-lab-cubit-capital-8vc-and-gsv-invest-in-tap-to-accelerate-ai-powered-workforce-development-for-advanced-manufacturing-302683179.html
 [^11]: Cubit Capital LinkedIn post on Venus Aerospace hypersonic jet development. Accessed May 2026. https://www.linkedin.com/posts/cubit-capital_venus-aerospace-developing-hypersonic-jet-activity-7160652775708651520-9yJ3
 [^12]: Office of the Texas Governor, "Governor Abbott Appoints Kohlmann To Texas Southern University Board Of Regents," August 2024. Accessed May 2026. https://gov.texas.gov/news/post/governor-abbott-appoints-kohlmann-to-texas-southern-university-board-of-regents
+[^13]: Cooley LLP, "Hadrian Automation Announces $117 Million Series B," February 21, 2024. Accessed July 2026. Cooley advised Hadrian on the round; deal team Peter Werner, Zander Olsson, Carl Min, Erin Wright. Cubit Capital explicitly named among participants. https://www.cooley.com/news/coverage/2024/2024-02-21-hadrian-automation-announces-117-million-series-b
+[^14]: Mondaq (republishing Hadrian press release), "Hadrian Automation Announces $117 Million Series B," dated San Francisco, February 21, 2024. Cubit Capital explicitly named. Accessed July 2026. https://www.mondaq.com/pressrelease/133880/hadrian-automation-announces-$117-million-series-b
+[^15]: Newcomer.co, "February's Top Tech Deals: Hadrian, Lambda Labs, Magic.dev, Abridge & More," February 2024. Contextual coverage of the Hadrian Series B. Accessed July 2026. https://www.newcomer.co/p/februarys-top-tech-deals-hadrian
+[^16]: PR Newswire (via Vatn Systems), "Vatn Systems Raises $13 Million Seed Round to Advance Autonomous Underwater Vehicles for US Defense," November 12, 2024. DYNE Ventures led; Cubit Capital explicitly named among participants. Accessed July 2026. https://www.prnewswire.com/news-releases/vatn-systems-raises-13-million-seed-round-to-advance-autonomous-underwater-vehicles-for-us-defense-302301937.html
+[^17]: Vatn Systems (originally vatnsystems.com, now vatn.com) news page, "Vatn Systems Raises $13 Million Seed Round to Advance Autonomous Underwater Vehicles for US Defense," November 12, 2024. Company's own announcement. Accessed July 2026. https://www.vatn.com/news/vatn-systems-raises-13-million-seed-round-to-advance-autonomous-underwater-vehicles-for-us-defense
+[^18]: ROV Planet, "Vatn Systems Raises $13 Million Seed Round to Advance Autonomous Underwater Vehicles for US Defense," December 2, 2024. Independent industry press with Matthew Kibble (DYNE), Chris Moran (Lockheed Martin Ventures), and Daniel Ateya (RTX Ventures) partner quotes. Accessed July 2026. https://www.rovplanet.com/vatn-systems-raises-13-million-seed-round-to-advance-autonomous-underwater-vehicles-for-us-defense-02-12-2024
