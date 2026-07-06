@@ -35882,3 +35882,68 @@ queue:
   firm: Ent
   discovered_from: ent-security
   source: Co-Founder of Ent; previously RiskIQ co-founder + Microsoft Security Copilot
+- name: Meituan
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: even-realities
+  source: Led $150M Pre-Series B in Even Realities (2026-07-06)
+- name: Tencent Holdings
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: even-realities
+  source: Returning backer in Even Realities Pre-Series B (2026-07-06)
+- name: Sequoia China
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: even-realities
+  source: Returning backer in Even Realities Pre-Series B (2026-07-06)
+- name: Bridgepoint
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skello
+  source: Led €200M growth round in Skello via Bridgepoint Development Capital V (2026-07-06)
+- name: Partech
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skello
+  source: Reinvested in Skello €200M round (2026-07-06); led earlier €40M Series B
+    in 2021
+- name: XAnge
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skello
+  source: Reinvested in Skello €200M round (2026-07-06)
+- name: HealthCap
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: curifylabs
+  source: Co-led CurifyLabs €12M Series A (2026-07-06)
+- name: Tesi (Finnish Industry Investment)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: curifylabs
+  source: Participated in CurifyLabs €12M Series A (2026-07-06)
+- name: Iona Star Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: worldmodeldata
+  source: Led Worldmodeldata £7M seed (2026-07-06); London-based early-stage AI/data
+    VC
