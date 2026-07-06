@@ -88,7 +88,9 @@ vague_facts:
   line: '| Luminar Technologies | Pre-Seed | 2015 | LiDAR / Autonomous Vehicles | [^9][^26] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'CORRECTED prior "Pre-Seed | 2015" (which was actually the fund vintage year, not a documented investment) to "Seed (USD 36M round; Canvas Ventures, GVA Capital, 1517 Fund among investors — 1517 check size undisclosed) | 2017-04-13" on 1517-fund.md. Luminar was in stealth from 2012 through the April 13, 2017 announcement. No primary source documents any 1517 check earlier than April 2017; the Gibson/Strachman-Russell relationship dates to 2013 via the Thiel Fellowship (which is not itself a 1517 investment). Three primary sources: (1) Alan Ohnsman Forbes 2017-04-13 [^48] (NEW — names Canvas Ventures, GVA Capital, 1517 Fund as seed investors; USD 36M total; 22-year-old CEO Austin Russell), (2) Optics.org 2017-04-13 [^49] (NEW — confirms "USD 36 million in seed capital from investors Canvas Ventures, GVA Capital, and 1517 Fund, among others"), (3) 1517 Fund blog "Luminar Goes Public" August 2020 [^9] (existing — confirms Gibson/Strachman/Russell relationship dating to 2013). Also updated "Notable Exits" section with 2017-04-13 seed anchor date.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Lambda
@@ -98,7 +100,9 @@ vague_facts:
   line: '| Lambda | Seed | 2019 | AI / GPU Cloud | [^4][^14][^27] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-06
+  resolution_note: 'UNRESOLVABLE to the day but PARTIALLY CORRECTED. Prior "Seed | 2019" label was likely incorrect: 1517 own materials describe first check at ~USD 4M valuation, while Clay dossier and Contrary Research indicate the April 2019 formal seed round closed at ~USD 23M post-money — implying 1517 was in earlier (2017 or 2018) at the ~USD 4M valuation. Updated portfolio row to "~2017–2019" with explanatory note. No PRIMARY source (1517 blog specifically about Lambda, Lambda press release, Stephen Balaban interview, SEC Form D) surfaces the exact first-check date; only aggregators (Contrary Research, Clay dossier, Sacra) document the tranche structure. 1517 substack "A Drop in the Ocean" [^5] mentions Lambda as a Fund I company but with no date/amount detail. Per anti-hallucination rule ("When in doubt, leave it out"), no discrete YYYY-MM-DD entered. Sources checked (all aggregators, non-primary): Contrary Research https://research.contrary.com/company/lambda, Clay dossier https://www.clay.com/dossier/lambda-funding, Sacra https://sacra.com/c/lambda-labs/. SEC EDGAR and Crunchbase returned 403. Left row citations as-is ([^4][^14][^27]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Loom
@@ -108,7 +112,9 @@ vague_facts:
   line: '| Loom | Pre-Seed | 2016 | Video SaaS | [^11][^28] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'Tightened Loom row on 1517-fund.md from "Pre-Seed | 2016" to "Pre-Seed (USD 600K; 1517 Fund led; Elementum Ventures + angels Andy Chou + Eric Wittman) | 2016-10" — corporate entity was OpenTest, Inc. at the time (later renamed Loom, Inc.). Three primary sources: (1) 1517 Fund homepage [^1] (existing — confirms 1517 as "first investor in Loom" with Joe Thomas verbatim testimonial), (2) Forbes Steven Li 2022-03-14 "Nearly-Broke To USD 1.5 Billion" [^50] (NEW — confirms 1517 Fund wrote Loom''s "first venture check" after the Product Hunt Openvid launch of June 30, 2016), (3) BestPitchDeck OpenTest (Loom) Pitch Deck [^51] (NEW — confirms USD 600K, 1517 Fund lead, Elementum Ventures + Andy Chou + Eric Wittman). CB Insights research [^11] (existing) provides fourth cross-reference on investor-returns math. Also attributed Loom founder quotes on the profile to Joe Thomas by name (Co-founder & CEO). Note: 1517 blog labels the round "pre-seed"; some aggregators call it "seed" — went with pre-seed since 1517 itself labels it that way and subsequent USD 3.2M round in May 2017 (led by General Catalyst / Point Nine) is universally the "Seed." Loom was NOT a YC company. Also updated "Notable Exits" section with 2016-10 pre-seed anchor.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Deepgram
