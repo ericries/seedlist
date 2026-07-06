@@ -8592,7 +8592,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 26,
+      "size": 27,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8719,6 +8719,11 @@
           "slug": "ryan-hudson",
           "name": "Ryan Hudson",
           "firm": "independent"
+        },
+        {
+          "slug": "ujwal-sutaria",
+          "name": "Ujwal Sutaria",
+          "firm": "tdv-partners"
         }
       ]
     },
@@ -9156,7 +9161,7 @@
       "name": "The Marketplace Playbook",
       "tagline": "They understand liquidity, take rates, and chicken-and-egg problems better than anyone. The investors who wrote the book on two-sided marketplaces.",
       "type": "curated",
-      "size": 19,
+      "size": 20,
       "members": [
         {
           "slug": "alfred-lin",
@@ -9250,6 +9255,11 @@
           "slug": "felipe-villamarin",
           "name": "Felipe Villamar\u00edn",
           "firm": "rappi"
+        },
+        {
+          "slug": "florian-hagenbuch",
+          "name": "Florian Hagenbuch",
+          "firm": "loft"
         }
       ]
     },
@@ -9572,7 +9582,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 132,
+      "size": 133,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10170,6 +10180,11 @@
           "slug": "felipe-villamarin",
           "name": "Felipe Villamar\u00edn",
           "firm": "rappi"
+        },
+        {
+          "slug": "florian-hagenbuch",
+          "name": "Florian Hagenbuch",
+          "firm": "loft"
         }
       ]
     },
@@ -11656,7 +11671,7 @@
       "name": "The Decacorn Club",
       "tagline": "Backed three or more companies worth $10B+. When the biggest outcomes in tech history were being funded, these investors were in the room.",
       "type": "curated",
-      "size": 42,
+      "size": 43,
       "members": [
         {
           "slug": "alfred-lin",
@@ -11862,6 +11877,11 @@
           "slug": "felipe-villamarin",
           "name": "Felipe Villamar\u00edn",
           "firm": "rappi"
+        },
+        {
+          "slug": "florian-hagenbuch",
+          "name": "Florian Hagenbuch",
+          "firm": "loft"
         }
       ]
     },
@@ -12166,7 +12186,7 @@
       "name": "The Food & Ag Tech Investors",
       "tagline": "From farm to fork \u2014 these investors back the companies reimagining how food is grown, distributed, and delivered.",
       "type": "curated",
-      "size": 10,
+      "size": 11,
       "members": [
         {
           "slug": "alfred-lin",
@@ -12217,6 +12237,11 @@
           "slug": "yuri-milner",
           "name": "Yuri Milner",
           "firm": "dst-global"
+        },
+        {
+          "slug": "danny-stepper",
+          "name": "Danny Stepper",
+          "firm": "taste-tomorrow-ventures"
         }
       ]
     },
@@ -12420,7 +12445,7 @@
       "name": "The Global South Scouts",
       "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
       "type": "curated",
-      "size": 21,
+      "size": 22,
       "members": [
         {
           "slug": "kunal-shah",
@@ -12521,6 +12546,11 @@
           "slug": "felipe-villamarin",
           "name": "Felipe Villamar\u00edn",
           "firm": "rappi"
+        },
+        {
+          "slug": "florian-hagenbuch",
+          "name": "Florian Hagenbuch",
+          "firm": "loft"
         }
       ]
     },
