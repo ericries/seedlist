@@ -157,7 +157,9 @@ vague_facts:
   line: '| FOSSA | Seed | 2017 | Developer Tools / Open Source | [^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-07-06'
+  resolution_note: '1517 Fund NOT named in any primary press for the FOSSA seed (Feb 23, 2017, $2.2M). TechCrunch, PR Newswire, FOSSA blog, and citybizlist all name only Bain Capital Ventures (lead) plus 5 angels (Marc Benioff, Steve Chen, Jaan Tallinn, Amr Awadallah, Justin Mateen). Kevin Wang (FOSSA CEO) was a 2013 Thiel Fellow, which is likely how the 1517 attribution originated (aggregator-only). Row left unchanged; same aggregator-only pattern as hanabi-capital.md ArchiBoost/Cerebras/Cursor/Brinc/Cartesia/ClickHouse.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Atom Computing
@@ -177,7 +179,9 @@ vague_facts:
   line: '| Fountain | Seed | 2015 | HR Tech / Hiring SaaS | [^19][^33] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-07-06'
+  resolution_note: '1517 Fund NOT named in any primary press for Fountain (formerly OnboardIQ) seed round. Company joined Y Combinator S15 batch; Crunchbase lists a May 18, 2015 seed round; Origin Ventures later led the Series A (documented on their blog). No primary source (TechCrunch, PRN, Origin Ventures blog, YC blog) names 1517 Fund as a Fountain investor — only aggregators (Crunchbase [^33], Tracxn) do. Same aggregator-only participation pattern as FOSSA and hanabi-capital.md flagged cases. Row left unchanged.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Cents
@@ -197,7 +201,9 @@ vague_facts:
   line: '| Xona Space Systems | Pre-Seed | 2020 | Space / Navigation | [^21][^34] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-06'
+  resolution_note: 'Tightened to "Pre-Seed ($1M; 1517 led; Seraphim Capital, Trucks Venture Capital, Stellar Solutions participated) | 2020-05-14" via 3 primary sources: Xona press release [^21], TechCrunch [^34], SatelliteToday [^52] (new). Parallel updates to trucks-venture-capital.md, xona-space-systems.md, michael-gibson.md, danielle-strachman.md.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Positron AI
