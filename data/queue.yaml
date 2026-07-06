@@ -23049,7 +23049,7 @@ queue:
 - name: Chris Downer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Brewer Lane Ventures
   discovered_from: novella
@@ -23551,7 +23551,7 @@ queue:
 - name: Florian Hagenbuch
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Loft
   discovered_from: sebastian-mejia
@@ -35660,3 +35660,77 @@ queue:
   firm: HousApp
   discovered_from: housapp
   source: CEO & Co-founder of HousApp
+- name: Canary
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: florian-hagenbuch
+  source: Founding partner Florian Hagenbuch's LatAm early-stage VC firm; $150M Fund
+    IV; 100+ portfolio companies; co-founded 2017
+- name: Mate Pencz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Canary / Loft
+  discovered_from: florian-hagenbuch
+  source: Co-founder of Printi and Loft with Florian Hagenbuch; Canary co-founding
+    partner; LatAm operator-investor
+- name: Marcos Toledo
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Canary
+  discovered_from: florian-hagenbuch
+  source: Co-founder and Managing Partner of Canary alongside Hagenbuch
+- name: Julio Vasconcellos
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Canary / Atlantico
+  discovered_from: florian-hagenbuch
+  source: Co-founder of Canary; also co-founder of Atlantico
+- name: Patrick de Picciotto
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Canary
+  discovered_from: florian-hagenbuch
+  source: Co-founder of Canary
+- name: Izabel Gallera
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Canary
+  discovered_from: florian-hagenbuch
+  source: Partner at Canary per TechCrunch coverage of Fund III (2021)
+- name: Martha Notaras
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Brewer Lane Ventures
+  discovered_from: chris-downer
+  source: Managing Partner at Brewer Lane Ventures since Jan 2020; insurtech veteran
+- name: John Kim
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Brewer Lane Ventures
+  discovered_from: chris-downer
+  source: Founder of Brewer Lane Ventures (2019)
+- name: Rohan Malhotra
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Brewer Lane Ventures
+  discovered_from: chris-downer
+  source: Promoted to General Partner at Brewer Lane Ventures alongside Downer in
+    March 2022

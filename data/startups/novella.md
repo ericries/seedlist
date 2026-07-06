@@ -1,29 +1,14 @@
 ---
-name: Novella
-slug: novella
-type: startup
-website: https://novella.com/
-location: New York, NY
-founded: 2024
-status_company: active
-sector:
-- insurtech
-- fintech
-- ai
-- ai-agents
-- insurance
-stage_latest: Series A
-total_raised: $21M
-investors: []
 firms:
-- slug: boxgroup
+- date: 2026-05-14
   round: series-a
+  slug: boxgroup
   year: 2026
-  date: 2026-05-14
-- slug: sv-angel
+- date: 2026-05-14
   round: series-a
+  slug: sv-angel
   year: 2026
-  date: 2026-05-14
+founded: 2024
 founders:
 - name: Max Kane
   role: Co-Founder & CEO
@@ -31,8 +16,26 @@ founders:
   role: Co-Founder & CTO
 - name: Alex Broome
   role: Co-Founder & Head of Brokerage
+investors:
+- round: Series A
+  slug: chris-downer
+  year: 2026
 last_researched: 2026-05-14
+location: New York, NY
+name: Novella
+sector:
+- insurtech
+- fintech
+- ai
+- ai-agents
+- insurance
+slug: novella
+stage_latest: Series A
 status: published
+status_company: active
+total_raised: $21M
+type: startup
+website: https://novella.com/
 ---
 
 ## About
