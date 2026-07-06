@@ -35819,3 +35819,66 @@ queue:
   added: '2026-03-17'
   discovered_from: maalexi
   source: participated in Maalexi $2.8M growth (2026-06-26); prior pre-Series A lead
+- name: Alex Chauvin
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Rivage
+  discovered_from: rivage
+  source: CEO & Co-Founder of Rivage, Paris proptech (€1.5M seed 2026-07-06)
+- name: Motive Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: warren
+  source: Led Warren €10M seed (2026-06-18); venture arm of Motive Partners
+- name: F Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: warren
+  source: Participated in Warren €10M seed (2026-06-18)
+- name: Cedric De Vleeschauwer
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Warren
+  discovered_from: warren
+  source: CEO & Co-Founder of Warren, Ghent Belgium workplace pension fintech (€10M
+    seed 2026-06-18)
+- name: Crosspoint Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ent-security
+  source: Participated in Ent Security $100M seed (2026-06-16)
+- name: In-Q-Tel
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ent-security
+  source: Participated in Ent Security $100M seed (2026-06-16); investment arm backed
+    by US intelligence community
+- name: Elias Manousos
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Ent
+  discovered_from: ent-security
+  source: CEO & Co-Founder of Ent; previously founded RiskIQ (Microsoft acquisition),
+    launched Microsoft Security Copilot
+- name: Brandon Dixon
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Ent
+  discovered_from: ent-security
+  source: Co-Founder of Ent; previously RiskIQ co-founder + Microsoft Security Copilot
