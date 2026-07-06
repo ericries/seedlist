@@ -123,7 +123,7 @@ Wiz is a cloud security platform founded in January 2020 by Assaf Rappaport, Ami
 
 | Date | Round | Amount | Valuation | Lead | Co-investors |
 |------|-------|--------|-----------|------|-------------|
-| 2020-02 | Seed | $21M | $67M post | Cyberstarts | Index Ventures [^4] |
+| 2020-02 | Seed | $21M | $67M post | Cyberstarts, Sequoia Capital (co-led) | Index Ventures ($3.5M) [^4][^14][^15] |
 | 2020-12-09 | Series A | $100M | — | Index Ventures, Sequoia Capital, Insight Partners, Cyberstarts | [^1] |
 | 2021-03 | Series B | $130M | $1.7B | Advent International | Greenoaks, Index Ventures, Sequoia Capital, Insight Partners, Cyberstarts [^5] |
 | 2021-05-26 | Series B ext. | $120M | — | Salesforce Ventures, Blackstone | Aglaé Ventures, Greenoaks, Advent International, Sequoia Capital, Insight Partners [^6][^9][^10] |
@@ -166,3 +166,7 @@ Angel investors Bernard Arnault and Howard Schultz participated in the Series C 
 [^11]: Google Blog, "Google announces agreement to acquire Wiz," March 18, 2025. https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/
 [^12]: Alphabet Inc. press release (SEC Exhibit 99.1), "Google Announces Agreement to Acquire Wiz," March 18, 2025. https://www.sec.gov/Archives/edgar/data/1652044/000165204425000027/googexhibit99131825.htm
 [^13]: Google Cloud Press Corner, "Google Completes Acquisition of Wiz," March 11, 2026. https://www.googlecloudpresscorner.com/2026-03-11-Google-Completes-Acquisition-of-Wiz
+
+[^14]: TechCrunch, "How a $6M bet on Wiz turned into a massive 200x return for one early backer," by Julie Bort, March 19, 2025. Accessed July 2026. https://techcrunch.com/2025/03/19/how-a-6m-bet-on-wiz-turned-into-a-massive-200x-return-for-one-early-backer/ — Confirms Cyberstarts invested $6.4M from its first $54M fund into Wiz's seed round in February 2020.
+
+[^15]: Calcalist (Ctech), "VC firms reap 200x returns on Wiz's $32B sale to Google," 2026. Accessed July 2026. https://www.calcalistech.com/ctechnews/article/bjdoued3jg — Confirms $21M total seed round in February 2020 co-led by Cyberstarts ($6.4M) and Sequoia ($10M) at ~$67M post-money valuation; Index Ventures invested $3.5M and continued in every subsequent round for $245M total.

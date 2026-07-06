@@ -314,7 +314,7 @@ Uber is a ride-hailing and logistics platform founded in 2009 by Travis Kalanick
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | Oct 2010 | $1.25M | First Round Capital | Lowercase Capital, Chris Sacca, Founder Collective | ~$4M [^12] |
+| Seed | 2010-10-15 | $1.25M | First Round Capital (Rob Hayes joined board) | Lowercase Capital, Founder Collective, Chris Sacca, Naval Ravikant, Jason Calacanis, Shawn Fanning | ~$4M [^1][^12] |
 | Series A | Feb 2011 | $11M | Benchmark Capital | Alfred Lin (individual) | $60M post-money [^3] |
 | Series B | Dec 2011 | $32M | Menlo Ventures (Shervin Pishevar) | Jeff Bezos, Goldman Sachs, Benchmark | $322M [^13] |
 | Series C | Aug 2013 | $258M (GV) / $361M total | Google Ventures, TPG | Benchmark | $3.4B pre-money [^5] |

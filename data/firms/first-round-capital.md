@@ -112,7 +112,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Uber | Seed | 2010 | Ridesharing | IPO | [^1][^8] |
+| Uber | Seed (USD 1.25M; First Round Capital led; Lowercase Capital and Founder Collective participated; angels included Chris Sacca, Naval Ravikant, Jason Calacanis, Shawn Fanning; Rob Hayes joined the board) | 2010-10-15 | Ridesharing | IPO | [^1][^8][^28][^29] |
 | Square | Seed | ~2009 | Payments | IPO | [^1] |
 | Roblox | Seed ($500K check at $14M post-money val; $2.2M total round; Chris Fralic partner) | 2009-07-21 | Gaming / Metaverse | IPO (NYSE: RBLX) | [^1][^20][^21] |
 | Notion | Seed | 2013-03 | Productivity | Active (unicorn) | [^1][^7][^13] |
@@ -210,3 +210,7 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^26]: Dealroom, "Ploy launches out of stealth with $27M seed to run your whole marketing system," June 2026. Accessed June 2026. https://app.dealroom.co/news/note/ploy-launches-out-of-stealth-with-27m-seed-to-run-your-whole-marketing-system — Independently confirms First Round Capital as lead with Y Combinator participating in the $27M seed.
 
 [^27]: The SaaS News, "Ploy Raises $27M Seed," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/ploy-raises-27m-seed/ — Independently confirms First Round Capital led the $27M seed round with Y Combinator participating.
+
+[^28]: Venture Capital Journal, "UberCab Raises $1.25M in Seed Funding," October 15, 2010. Accessed July 2026. https://www.venturecapitaljournal.com/ubercab-raises-125m-in-seed-funding/ — Contemporaneous trade press coverage confirming the $1.25M UberCab seed round announced October 15, 2010 with First Round Capital as lead.
+
+[^29]: FinSMEs, "UberCab Raises $1.25M in Funding," October 2010. Accessed July 2026. https://www.finsmes.com/2010/10/ubercab-raises-1-25m-in-funding.html — Third independent contemporaneous confirmation of the $1.25M seed round: First Round Capital led with Lowercase Capital and Founder Collective participating alongside more than a dozen angel investors.

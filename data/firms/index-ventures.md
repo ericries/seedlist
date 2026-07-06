@@ -112,8 +112,8 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Figma | Seed | 2013 | Design/SaaS | [^9] |
-| Wiz | Seed | 2020 | Cybersecurity | [^10] |
+| Figma | Seed (USD 3.8M total; Index Ventures led with USD 1.8M; angel Terrence Rohan participated) | 2013-06-26 | Design/SaaS | [^9][^72][^73] |
+| Wiz | Seed (USD 21M total; Sequoia and Cyberstarts co-led; Index Ventures invested USD 3.5M; ~USD 67M post-money valuation) | 2020-02 | Cybersecurity | [^10][^74][^75][^76] |
 | Revolut | Seed | 2015 | Fintech | [^14] |
 | Datadog | Series A | 2012 | Cloud/Infrastructure | [^15] |
 | Roblox | Series C | 2017 | Gaming | [^16] |
@@ -281,4 +281,14 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^70]: SiliconANGLE, "Build raises $8.5M to accelerate industrial infrastructure development project work," June 30, 2026. Accessed June 2026. https://siliconangle.com/2026/06/30/build-raises-8-5m-accelerate-industrial-infrastructure-development-project-work/ — Third independent confirmation that Index Ventures led Build's $8.5M Seed on June 30, 2026; co-investors Pebblebed, Puzzle Ventures, Tiny.vc; angels include Sarah Friar (OpenAI CFO) and John Stecher (Blackstone CTO).
 
 [^71]: GlobeNewswire (origin press release), "TwelveLabs Raises $100 Million in Series B Funding to Build Video Superintelligence," July 1, 2026. Accessed July 2026. https://www.globenewswire.com/news-release/2026/07/01/3320545/0/en/twelvelabs-raises-100-million-in-series-b-funding-to-build-video-superintelligence.html — Confirms Index Ventures participation in Twelve Labs' $100M Series B co-led by NEA and NAVER Ventures on July 1, 2026, with Amazon, Radical Ventures, Korea Investment Partners, Quadrille Capital and Red Bull Ventures also participating. Cross-referenced with PYMNTS, "Twelve Labs Raises $100 Million," July 1, 2026. https://www.pymnts.com/news/investment-tracker/2026/twelve-labs-raises-100-million-to-fund-bet-on-video-ai/ and Bloomberg, "AI Video Search Startup Raises $100 Million," July 1, 2026. https://www.bloomberg.com/news/articles/2026-07-01/video-search-startup-raises-100-million-from-amazon-vc-funds
+
+[^72]: TechCrunch, "21-Year-Old Thiel Fellow Raises Three-Point-Eight Million Dollars For Figma," by Alexia Tsotsis, June 26, 2013. Accessed July 2026. https://techcrunch.com/2013/06/26/21-years-4-million-dollars/ — Contemporaneous primary source based on SEC Form D filing: Figma raised $3.8M equity financing announced June 26, 2013.
+
+[^73]: Index Ventures, "Figma Goes Public: Thirteen Unforgettable Years with Dylan Field," by Danny Rimer, 2025. Accessed July 2026. https://www.indexventures.com/perspectives/figma-goes-public-thirteen-unforgettable-years-with-dylan-field/ — Danny Rimer's first-person account of writing Figma's first institutional check at the 2013 seed.
+
+[^74]: Forbes, "Zero To $100 Million In Nine Months: Index, Sequoia Back Cybersecurity Company Led By Former Microsoft Execs," by David Jeans, December 9, 2020. Accessed July 2026. https://www.forbes.com/sites/davidjeans/2020/12/09/wiz-sequoia-index-cybersecurity-100-million-former-microsoft-executives/ — Confirms the seed round predated the December 2020 stealth-exit Series A announcement.
+
+[^75]: TechCrunch, "How a $6M bet on Wiz turned into a massive 200x return for one early backer," by Julie Bort, March 19, 2025. Accessed July 2026. https://techcrunch.com/2025/03/19/how-a-6m-bet-on-wiz-turned-into-a-massive-200x-return-for-one-early-backer/ — Confirms Cyberstarts invested $6.4M from its first $54M fund into Wiz's seed round in February 2020.
+
+[^76]: Calcalist (Ctech), "VC firms reap 200x returns on Wiz's $32B sale to Google," 2026. Accessed July 2026. https://www.calcalistech.com/ctechnews/article/bjdoued3jg — Confirms $21M total seed round in February 2020 co-led by Cyberstarts ($6.4M) and Sequoia ($10M) at ~$67M post-money valuation; Index Ventures invested $3.5M and continued in every subsequent round for $245M total, returning $4.3B.
 

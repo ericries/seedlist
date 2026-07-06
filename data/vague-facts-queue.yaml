@@ -3904,7 +3904,7 @@ vague_facts:
   type: unknown_value
   status: unresolvable
   resolved: 2026-07-05
-  resolution_note: 'Spiraldot Health raised $3.2M Series 2 Seed in February 2025 (Feb 1-15 window per Castleplacement digest; company page/PitchBook cite 2025-02-07) with Sofinnova Partners, Antler, and Atlas SGR as investors (Antler founder story confirms participation; Castleplacement digest confirms all three named). However, NO primary press release for that round names Audrey Capital or Matt Mullenweg — the only source connecting Audrey Capital to Spiraldot Health is Crunchbase [^19] (aggregator). Per anti-hallucination rules ("aggregators-only ≠ verified"), the participation is left as-is with the existing aggregator citation. Row not tightened because upgrading to YYYY-MM-DD would misleadingly attribute Audrey Capital to a specific primary-sourced round. If Audrey Capital confirms via founder testimonial or Mullenweg blog post in the future, revisit.
+  resolution_note: Spiraldot Health raised USD 3.2M Series 2 Seed in February 2025 (Feb 1-15 window per Castleplacement digest; company page/PitchBook cite 2025-02-07) with Sofinnova Partners, Antler, and Atlas SGR as investors (Antler founder story confirms participation; Castleplacement digest confirms all three named). However, NO primary press release for that round names Audrey Capital or Matt Mullenweg — the only source connecting Audrey Capital to Spiraldot Health is Crunchbase [^19] (aggregator). Per anti-hallucination rules (aggregators-only does not equal verified), the participation is left as-is with the existing aggregator citation. Row not tightened because upgrading to YYYY-MM-DD would misleadingly attribute Audrey Capital to a specific primary-sourced round. If Audrey Capital confirms via founder testimonial or Mullenweg blog post in the future, revisit.
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: Scorbit
@@ -4872,7 +4872,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-04
-  resolution_note: 'Tightened ClickHouse row on bessemer-venture-partners.md from "Series C | 2025" to "Series C ($350M, participated as new investor; Khosla led at $6.35B post-money) | 2025-05-29" via 3 independent primary sources: (1) ClickHouse company blog announcement [^ch1], (2) Bloomberg tier-1 coverage [^ch2], (3) FirstMark portfolio update [^ch3]. Round led by Khosla Ventures with new investors BOND, IVP, Battery Ventures, and Bessemer; existing Index Ventures, Lightspeed, GIC, Benchmark, Coatue, FirstMark, and Nebius participated. Also added Series C row to khosla-ventures.md portfolio (replacing prior "Early | ~2021 (founded)" placeholder) with parallel citations [^ch-kh1][^ch-kh2][^ch-kh3].
+  resolution_note: 'Tightened ClickHouse row on bessemer-venture-partners.md from Series C 2025 to Series C (USD 350M, participated as new investor; Khosla led at USD 6.35B post-money) 2025-05-29 via 3 independent primary sources: (1) ClickHouse company blog announcement [^ch1], (2) Bloomberg tier-1 coverage [^ch2], (3) FirstMark portfolio update [^ch3]. Round led by Khosla Ventures with new investors BOND, IVP, Battery Ventures, and Bessemer; existing Index Ventures, Lightspeed, GIC, Benchmark, Coatue, FirstMark, and Nebius participated. Also added Series C row to khosla-ventures.md portfolio (replacing prior Early ~2021 (founded) placeholder) with parallel citations [^ch-kh1][^ch-kh2][^ch-kh3].'
 - profile: firms/bessemer-venture-partners
   profile_name: Bessemer Venture Partners
   company: Twitch
@@ -8694,7 +8694,9 @@ vague_facts:
   line: '| Uber | Seed | 2010 | Ridesharing | IPO | [^1][^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-06'
+  resolution_note: 'Tightened first-round-capital.md Uber row from "Seed | 2010" to "Seed (USD 1.25M; First Round Capital led; Lowercase Capital and Founder Collective participated; angels included Chris Sacca, Naval Ravikant, Jason Calacanis, Shawn Fanning; Rob Hayes joined board) | 2010-10-15" via 3 contemporaneous primary sources dated 2010-10-15: TechCrunch [^8] (existing, "UberCab Closes Uber Angel Round"), Venture Capital Journal [^28] (new), FinSMEs [^29] (new). Also tightened Uber startup profile Seed row from "Oct 2010" to 2010-10-15 with expanded syndicate and added CNN 2019 as citation [^1] alongside existing [^12].'
 - profile: firms/first-round-capital
   profile_name: First Round Capital
   company: Square
@@ -10498,7 +10500,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-05
-  resolution_note: 'Tightened to "Series C ($75M; Index led; Mike Volpi named as personal participant — Hanabi not in primary press) | 2025-04-08" via 2 new primary citations ([^hanabi-brinc-1] BRINC press release, [^hanabi-brinc-2] DroneLife) alongside existing TechCrunch [^14]. Hanabi Capital NOT named in any primary source; only appears on Hanabi own portfolio page and Tracxn.'
+  resolution_note: Tightened to "Series C ($75M; Index led; Mike Volpi named as personal participant — Hanabi not in primary press) | 2025-04-08" via 2 new primary citations ([^hanabi-brinc-1] BRINC press release, [^hanabi-brinc-2] DroneLife) alongside existing TechCrunch [^14]. Hanabi Capital NOT named in any primary source; only appears on Hanabi own portfolio page and Tracxn.
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: Cartesia
@@ -10510,7 +10512,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-05
-  resolution_note: 'Tightened to "Series A ($64M; Kleiner Perkins led — Hanabi not in primary press; aggregator-only) | 2025-03-11" via 2 new primary citations ([^hanabi-cart-1] Cartesia own blog, [^hanabi-cart-2] Fortune exclusive) alongside existing Tracxn [^15]. Fortune named participants Index, Lightspeed, A*, Factory, Greycroft, Dell Technologies Capital, Samsung Ventures — Hanabi Capital NOT named. Aggregator-only entry.'
+  resolution_note: Tightened to "Series A ($64M; Kleiner Perkins led — Hanabi not in primary press; aggregator-only) | 2025-03-11" via 2 new primary citations ([^hanabi-cart-1] Cartesia own blog, [^hanabi-cart-2] Fortune exclusive) alongside existing Tracxn [^15]. Fortune named participants Index, Lightspeed, A*, Factory, Greycroft, Dell Technologies Capital, Samsung Ventures — Hanabi Capital NOT named. Aggregator-only entry.
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: Cerebras
@@ -12886,7 +12888,9 @@ vague_facts:
   line: '| Figma | Seed | 2013 | Design/SaaS | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-06'
+  resolution_note: 'Tightened index-ventures.md Figma row from "Seed | 2013" to "Seed (USD 3.8M total; Index Ventures led with USD 1.8M; angel Terrence Rohan participated) | 2013-06-26" via 3 primary sources: TechCrunch 2013-06-26 [^72] (contemporaneous SEC Form D-based announcement of USD 3.8M raise), Fortune 2025-08-01 [^9] (confirms Index invested USD 1.8M), Index Ventures own perspective [^73] (Danny Rimer first-person account of writing the check). Also tightened Figma startup profile Seed row from 2013-06-07 to 2013-06-26 with new citations [^19] and [^20]. Prior single citation [^9] retained plus 2 new primary sources.'
 - profile: firms/index-ventures
   profile_name: Index Ventures
   company: Wiz
@@ -12896,7 +12900,9 @@ vague_facts:
   line: '| Wiz | Seed | 2020 | Cybersecurity | [^10] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-06'
+  resolution_note: 'Tightened index-ventures.md Wiz row from "Seed | 2020" to "Seed (USD 21M total; Sequoia Capital and Cyberstarts co-led; Index Ventures invested USD 3.5M; ~USD 67M post-money valuation) | 2020-02" via 3 primary sources: Forbes 2020-12-09 [^74] (Dec 2020 stealth-exit announcement with historical seed context), TechCrunch 2025-03-19 [^75] (Cyberstarts USD 6.4M check from first fund), Calcalist Ctech [^76] (USD 21M total, Sequoia USD 10M + Cyberstarts USD 6.4M co-lead, Index USD 3.5M, USD 67M post-money). Date left as 2020-02 (month-only) because Wiz was in stealth through Dec 2020 and no primary source discloses the specific closing day. Also tightened Wiz startup profile Seed row lead attribution from "Cyberstarts" alone to "Cyberstarts, Sequoia Capital (co-led)" with new citations [^14] and [^15].'
 - profile: firms/index-ventures
   profile_name: Index Ventures
   company: Revolut
@@ -161191,7 +161197,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-05
-  resolution_note: 'Verified via 3 primary sources (Databricks own blog June 30, 2014 [^21], TechCrunch June 30, 2014 [^22], Fortune Series D retrospective [^30]) that Databricks did NOT publicly disclose a post-money valuation for its June 30, 2014 Series B. Updated column from "N/A" to "Not publicly disclosed" on databricks.md.'
+  resolution_note: Verified via 3 primary sources (Databricks own blog June 30, 2014 [^21], TechCrunch June 30, 2014 [^22], Fortune Series D retrospective [^30]) that Databricks did NOT publicly disclose a post-money valuation for its June 30, 2014 Series B. Updated column from "N/A" to "Not publicly disclosed" on databricks.md.
 - profile: startups/databricks
   profile_name: Databricks
   company: Series C
@@ -163911,7 +163917,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-05
-  resolution_note: 'Consolidated into the Seed row above — this was the same July 2009 round (the "Series D" was the preferred stock class per Roblox S-1, marketed publicly as the seed round). Duplicate row removed and merged with Seed 2009-07-21 entry. See Seed row resolution note for full primary-source detail.'
+  resolution_note: Consolidated into the Seed row above — this was the same July 2009 round (the "Series D" was the preferred stock class per Roblox S-1, marketed publicly as the seed round). Duplicate row removed and merged with Seed 2009-07-21 entry. See Seed row resolution note for full primary-source detail.
 - profile: startups/roblox
   profile_name: Roblox
   company: Series D-2
@@ -165565,11 +165571,9 @@ vague_facts:
   line: '| Ohr | Seed | 2024 | Synthetic Biology / Chemicals | Active | [^9] |'
   priority: normal
   type: year_only_date
-  status: unresolvable
-  resolved: 2026-07-05
-  resolution_note: 'Company identified as OHR / OHR Synbiosis Ltd. (ohr.xyz), Tel Aviv-based synthetic biology startup building enzyme-based CO2-to-carbon-chain manufacturing (sulfur-free fuels, strategic chemicals). Founder/CEO Dan Davidi (ex-Weizmann, ex-Harvard SBC, ex-Amazon Moonshot; Aleph EIR from January 2023). Publicly unveiled via Aleph LinkedIn post (~January 2025, activity ID 7285253617979133953), NOT 2024. OHR discloses ~$30M raised across pre-seed and seed on its own site with named backers Aleph, Deep33 Ventures, Standard Industries, XTX Markets, KDM Partners, Yasmin Lukatz, 202 Ventures, Clocktower Ventures — but does NOT break out per-round dates or amounts. No tier-1 press coverage (Calcalist/CTech, Globes, NoCamels, Times of Israel, TechCrunch, Bloomberg) of an OHR funding round found; only aggregators (PitchBook, SNC, IVC, Crunchbase) which per CLAUDE.md rules do not count. Row updated to "Pre-Seed + Seed (~$30M aggregate; publicly unveiled ~Jan 2025) | ~2024–2025" with citations to ohr.xyz [^25] and Aleph portfolio page [^26]. Cannot resolve to a specific YYYY-MM-DD without a datable primary source.'
-
   status: pending
+  resolved: 2026-07-05
+  resolution_note: Company identified as OHR / OHR Synbiosis Ltd. (ohr.xyz), Tel Aviv-based synthetic biology startup building enzyme-based CO2-to-carbon-chain manufacturing (sulfur-free fuels, strategic chemicals). Founder/CEO Dan Davidi (ex-Weizmann, ex-Harvard SBC, ex-Amazon Moonshot; Aleph EIR from January 2023). Publicly unveiled via Aleph LinkedIn post (~January 2025, activity ID 7285253617979133953), NOT 2024. OHR discloses ~$30M raised across pre-seed and seed on its own site with named backers Aleph, Deep33 Ventures, Standard Industries, XTX Markets, KDM Partners, Yasmin Lukatz, 202 Ventures, Clocktower Ventures — but does NOT break out per-round dates or amounts. No tier-1 press coverage (Calcalist/CTech, Globes, NoCamels, Times of Israel, TechCrunch, Bloomberg) of an OHR funding round found; only aggregators (PitchBook, SNC, IVC, Crunchbase) which per CLAUDE.md rules do not count. Row updated to "Pre-Seed + Seed (~$30M aggregate; publicly unveiled ~Jan 2025) | ~2024–2025" with citations to ohr.xyz [^25] and Aleph portfolio page [^26]. Cannot resolve to a specific YYYY-MM-DD without a datable primary source.
 - profile: firms/aleph
   profile_name: Aleph
   company: Reeco
@@ -165899,7 +165903,7 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: resolved
-  resolution: '2026-04-14 — Pillar $20M seed led by a16z; TechCrunch, Recycling Today, FoundersToday all confirm April 14, 2026'
+  resolution: 2026-04-14 — Pillar $20M seed led by a16z; TechCrunch, Recycling Today, FoundersToday all confirm April 14, 2026
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: GitButler
@@ -165967,7 +165971,7 @@ vague_facts:
   type: year_only_date
   status: unresolvable
   resolved: 2026-07-05
-  resolution_note: 'Rolled up with high-priority entry above. Spiraldot Health $3.2M Series 2 Seed (Feb 2025, Sofinnova/Antler/Atlas SGR) primary sources do NOT name Audrey Capital or Mullenweg. Only Crunchbase [^19] connects Audrey to Spiraldot — aggregator-only. Row left as "2025" per anti-hallucination rules (cannot tighten to a specific round Audrey did not verifiably participate in).'
+  resolution_note: Rolled up with high-priority entry above. Spiraldot Health $3.2M Series 2 Seed (Feb 2025, Sofinnova/Antler/Atlas SGR) primary sources do NOT name Audrey Capital or Mullenweg. Only Crunchbase [^19] connects Audrey to Spiraldot — aggregator-only. Row left as "2025" per anti-hallucination rules (cannot tighten to a specific round Audrey did not verifiably participate in).
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: Scorbit
@@ -165979,7 +165983,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-05
-  resolution_note: 'Rolled up with high-priority entry above. Tightened to Seed ($5M+; Detroit Venture Partners led; Mullenweg among pre-seed angels whose commitment converted into seed) | 2025-11-13 via 3 primary sources (GlobeNewswire [^20] existing + Scorbit official newsroom [^27] new + FinSMEs [^28] new).'
+  resolution_note: Rolled up with high-priority entry above. Tightened to Seed ($5M+; Detroit Venture Partners led; Mullenweg among pre-seed angels whose commitment converted into seed) | 2025-11-13 via 3 primary sources (GlobeNewswire [^20] existing + Scorbit official newsroom [^27] new + FinSMEs [^28] new).
 - profile: firms/balderton-capital
   profile_name: Balderton Capital
   company: 32Co
@@ -166010,7 +166014,7 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: resolved
-  resolution: '2026-02-05 — Fundamental $255M ($30M seed + $225M Series A) launched from stealth; Oak HC/FT led, Battery participated. BusinessWire, SiliconANGLE, TechCrunch confirm February 5, 2026'
+  resolution: 2026-02-05 — Fundamental $255M ($30M seed + $225M Series A) launched from stealth; Oak HC/FT led, Battery participated. BusinessWire, SiliconANGLE, TechCrunch confirm February 5, 2026
 - profile: firms/battery-ventures
   profile_name: Battery Ventures
   company: Nexthop AI
@@ -166135,7 +166139,7 @@ vague_facts:
   priority: normal
   type: year_only_date
   status: resolved
-  resolution: '2026-04-16 — Zenskar $15M Series A co-led by Susquehanna, Bessemer, Shine, Rho; BusinessWire, The SaaS News, FinancialIT confirm April 16, 2026 announcement date'
+  resolution: 2026-04-16 — Zenskar $15M Series A co-led by Susquehanna, Bessemer, Shine, Rho; BusinessWire, The SaaS News, FinancialIT confirm April 16, 2026 announcement date
 - profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   company: Layer
@@ -188770,7 +188774,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-05
-  resolution_note: 'Rolled up with high-priority Mullenweg/Scorbit entry above. Tightened to 2025-11-13 via 3 primary sources (GlobeNewswire [^20] + Scorbit newsroom [^24] + FinSMEs [^25]).'
+  resolution_note: Rolled up with high-priority Mullenweg/Scorbit entry above. Tightened to 2025-11-13 via 3 primary sources (GlobeNewswire [^20] + Scorbit newsroom [^24] + FinSMEs [^25]).
 - profile: investors/matt-murphy
   profile_name: Matt Murphy
   company: Cleanlab
@@ -210797,7 +210801,9 @@ vague_facts:
   line: '| Uber | Seed | 2010 | Ridesharing | IPO | [^1][^8] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-06'
+  resolution_note: 'Tightened first-round-capital.md Uber row from "Seed | 2010" to "Seed (USD 1.25M; First Round Capital led; Lowercase Capital and Founder Collective participated; angels included Chris Sacca, Naval Ravikant, Jason Calacanis, Shawn Fanning; Rob Hayes joined board) | 2010-10-15" via 3 contemporaneous primary sources dated 2010-10-15: TechCrunch [^8] (existing, "UberCab Closes Uber Angel Round"), Venture Capital Journal [^28] (new), FinSMEs [^29] (new). Also tightened Uber startup profile Seed row from "Oct 2010" to 2010-10-15 with expanded syndicate and added CNN 2019 as citation [^1] alongside existing [^12].'
 - profile: firms/first-round-capital
   profile_name: First Round Capital
   company: Square
@@ -215087,7 +215093,9 @@ vague_facts:
   line: '| Figma | Seed | 2013 | Design/SaaS | [^9] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-06'
+  resolution_note: 'Tightened index-ventures.md Figma row from "Seed | 2013" to "Seed (USD 3.8M total; Index Ventures led with USD 1.8M; angel Terrence Rohan participated) | 2013-06-26" via 3 primary sources: TechCrunch 2013-06-26 [^72] (contemporaneous SEC Form D-based announcement of USD 3.8M raise), Fortune 2025-08-01 [^9] (confirms Index invested USD 1.8M), Index Ventures own perspective [^73] (Danny Rimer first-person account of writing the check). Also tightened Figma startup profile Seed row from 2013-06-07 to 2013-06-26 with new citations [^19] and [^20]. Prior single citation [^9] retained plus 2 new primary sources.'
 - profile: firms/index-ventures
   profile_name: Index Ventures
   company: Wiz
@@ -215097,7 +215105,9 @@ vague_facts:
   line: '| Wiz | Seed | 2020 | Cybersecurity | [^10] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-06'
+  resolution_note: 'Tightened index-ventures.md Wiz row from "Seed | 2020" to "Seed (USD 21M total; Sequoia Capital and Cyberstarts co-led; Index Ventures invested USD 3.5M; ~USD 67M post-money valuation) | 2020-02" via 3 primary sources: Forbes 2020-12-09 [^74] (Dec 2020 stealth-exit announcement with historical seed context), TechCrunch 2025-03-19 [^75] (Cyberstarts USD 6.4M check from first fund), Calcalist Ctech [^76] (USD 21M total, Sequoia USD 10M + Cyberstarts USD 6.4M co-lead, Index USD 3.5M, USD 67M post-money). Date left as 2020-02 (month-only) because Wiz was in stealth through Dec 2020 and no primary source discloses the specific closing day. Also tightened Wiz startup profile Seed row lead attribution from "Cyberstarts" alone to "Cyberstarts, Sequoia Capital (co-led)" with new citations [^14] and [^15].'
 - profile: firms/index-ventures
   profile_name: Index Ventures
   company: Revolut

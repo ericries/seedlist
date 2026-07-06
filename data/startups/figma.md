@@ -178,7 +178,7 @@ Figma went public on the New York Stock Exchange in July 2025, pricing its IPO a
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|------------------|-------------------|-----------|
-| Seed | 2013-06-07 | $3.87M | Index Ventures | Terrence Rohan, Jeff Weiner, DJ Patil, Adam Nash, LocalGlobe [^6] | Undisclosed |
+| Seed | 2013-06-26 | $3.8M | Index Ventures (Danny Rimer led with $1.8M) | Terrence Rohan, Jeff Weiner, DJ Patil, Adam Nash, LocalGlobe [^6][^19][^20] | Undisclosed |
 | Series A | 2015-12-17 | $14M | Greylock | Iconiq Capital, Index Ventures, O'Reilly AlphaTech Ventures, Soleio [^7][^12] | $48.4M [^12] |
 | Series B | 2018-02-01 | $25M | Kleiner Perkins | Greylock, Index Ventures [^7][^13] | $115M [^14] |
 | Series C | 2019-02-14 | $40M | Sequoia Capital | Coatue, Founders Fund, Kleiner Perkins, Greylock, Index Ventures [^14][^15] | $440M [^14] |
@@ -223,3 +223,7 @@ After Figma's IPO, Field told his team: "Number goes up, number goes down. And w
 [^17]: SiliconANGLE, "Figma confirms undisclosed funding round that brings its value to $12.5B," July 17, 2024. https://siliconangle.com/2024/07/17/figma-confirms-undisclosed-funding-round-brings-value-12-5b/ — Figma confirmed the secondary tender on July 17, 2024 with Coatue, Alkeon, General Catalyst, SurgoCap, Atlassian, Fidelity, Franklin Templeton, ICONIQ, Sequoia, Thrive, Greenoaks, Durable Capital, a16z, Kleiner Perkins, Eddy Cue, Goanna Capital, and XN named as participating investors.
 
 [^18]: Bloomberg Law, "Coatue, General Catalyst Back Figma at $12.5 Billion Valuation," July 17, 2024. https://news.bloomberglaw.com/private-equity/coatue-general-catalyst-back-figma-at-12-5-billion-valuation — Independent confirmation. Cross-referenced with The Tech Portal, "Figma reportedly valued at $12.5Bn in latest investment from Coatue, General Catalyst and others," July 18, 2024. https://thetechportal.com/2024/07/18/figma-secures-12-5bn-valuation-in-latest-investment/
+
+[^19]: TechCrunch, "21-Year-Old Thiel Fellow Raises Three-Point-Eight Million Dollars For Figma," by Alexia Tsotsis, June 26, 2013. Accessed July 2026. https://techcrunch.com/2013/06/26/21-years-4-million-dollars/ — Contemporaneous primary source based on SEC Form D filing: Figma raised $3.8M equity financing announced June 26, 2013.
+
+[^20]: Index Ventures, "Figma Goes Public: Thirteen Unforgettable Years with Dylan Field," by Danny Rimer, 2025. Accessed July 2026. https://www.indexventures.com/perspectives/figma-goes-public-thirteen-unforgettable-years-with-dylan-field/ — Danny Rimer's first-person account of writing Figma's first institutional check at the 2013 seed.
