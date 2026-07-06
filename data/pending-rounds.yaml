@@ -72,6 +72,79 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Weekly Notable Startup Funding Report: 7/6/26'
+  url: https://alleywatch.com/2026/07/the-weekly-notable-startup-funding-report-7-6-26/
+  source: alleywatch
+  date_found: '2026-07-06'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Kling raised $2.8B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-06'
+  parsed_company: Kling
+  parsed_amount: $2.8B
+  parsed_round: null
+  status: pending
+- title: Even Realities raised $150M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-06'
+  parsed_company: Even Realities
+  parsed_amount: $150M
+  parsed_round: null
+  status: pending
+- title: Bespoke Labs raised $40M seed and Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-06'
+  parsed_company: Bespoke Labs
+  parsed_amount: $40M
+  parsed_round: Seed And Series A
+  status: processed
+- title: Katalyze AI raised $10.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-06'
+  parsed_company: Katalyze AI
+  parsed_amount: $10.5M
+  parsed_round: Seed
+  status: processed
+- title: Stoa raised $2.4M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-06'
+  parsed_company: Stoa
+  parsed_amount: $2.4M
+  parsed_round: null
+  status: pending
+- title: a London developer of antibody-drug conjugates that had raised $114M Series
+    A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-06'
+  parsed_company: a London developer of antibody-drug conjugates that had
+  parsed_amount: $114M
+  parsed_round: Series A
+  status: pending
+- title: Thymmune raised $7M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-06'
+  parsed_company: Thymmune
+  parsed_amount: $7M
+  parsed_round: null
+  status: pending
+- title: u003e raised $2.8B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-06'
+  parsed_company: u003e
+  parsed_amount: $2.8B
+  parsed_round: null
+  status: pending
 - title: after the micromobility company raised $167M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -767,76 +840,4 @@ pending_rounds:
   parsed_company: Warp
   parsed_amount: $60M
   parsed_round: Series B
-  status: pending
-- title: Nebulock raised $25M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Nebulock
-  parsed_amount: $25M
-  parsed_round: Series A
-  status: pending
-- title: Runlayer raised $30M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Runlayer
-  parsed_amount: $30M
-  parsed_round: Series A
-  status: pending
-- title: Seltz raised $12.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Seltz
-  parsed_amount: $12.5M
-  parsed_round: Seed
-  status: pending
-- title: Valence AI raised $5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Valence AI
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: pending
-- title: Kalipso raised $3.2M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Kalipso
-  parsed_amount: $3.2M
-  parsed_round: null
-  status: pending
-- title: Doncasters raised $919M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Doncasters
-  parsed_amount: $919M
-  parsed_round: null
-  status: pending
-- title: Alpex Acquisition raised $100M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Alpex Acquisition
-  parsed_amount: $100M
-  parsed_round: null
-  status: pending
-- title: Cartesian Growth IV raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Cartesian Growth IV
-  parsed_amount: $250M
-  parsed_round: null
-  status: pending
-- title: per Axios Pro . Homeward had raised $72M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: per Axios Pro . Homeward had
-  parsed_amount: $72M
-  parsed_round: null
   status: pending

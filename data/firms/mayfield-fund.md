@@ -99,6 +99,7 @@ Based on 60 verified current and milestone portfolio companies from Mayfield's o
 | Exaforce | Series B | 2026-05-12 | AI/Security | Active ($725M val) | [^7][^14] |
 | Upscale AI | Series A-1 (existing investor; Premji Invest-led, $190M at $2B val) | 2026-06-22 | AI/Networking Infrastructure | Active | [^25][^26][^27] |
 | Hang Ten Systems | Seed (led, $32M) | 2026-06-24 | AI/Enterprise Services | Active | [^28][^29][^30][^31] |
+| Bespoke Labs | Seed + Series A participant ($40M combined; Wing led Series A, 8VC led Seed) | 2026-07-06 | AI/RL Environments/Data Curation | Active | [^32][^33] |
 | Scrunch AI | Seed (led, $4M) | 2025-03-04 | AI/GEO/Marketing | Acquired by Sitecore (~$225M, 2026-06-03) | [^17][^18][^19][^20] |
 | Inception Labs | Seed ($50M, Menlo-led) | 2025-11-06 | AI/Models | Active | [^7][^23] |
 | ProRata.ai | Seed (led, $25M) | 2024-08-06 | AI/Media | Active | [^7][^24] |
@@ -184,3 +185,7 @@ No additional independently sourced founder testimonials found beyond firm marke
 [^30]: Crypto Briefing, "Hang Ten Systems raises $32M to disrupt IT services with AI," June 24, 2026. Accessed June 2026. https://cryptobriefing.com/hang-ten-systems-raises-32m-ai-services/ — Confirms Jerry Yang on board; Mayfield's Navin Chaddha is Vishal Sikka's Stanford classmate; early customers Fresenius and Siemens Energy.
 
 [^31]: TechCrunch (Jagmeet Singh), "Former Infosys chief has a new startup that wants to challenge the IT services world," June 24, 2026. Accessed June 2026. https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/ — Tier-1 press confirmation: $32M seed led by Mayfield with Aramco Ventures (strategic) and angels. Navin Chaddha quote: "Traditional services scale linearly with headcount. Hang Ten is built so its leverage grows with every project."
+
+[^32]: VentureBurn, "Bespoke Labs Raises $40M in Funding To Train Reliable Agents," July 6, 2026. Accessed July 2026. https://ventureburn.com/bespoke-labs-raises-40m-ai-agent-training/ — $40M combined Seed + Series A announcement; Series A led by Wing VC, Seed led by 8VC, Mayfield and The House Fund participating.
+
+[^33]: Bespoke Labs company announcement on LinkedIn, July 6, 2026. Accessed July 2026. https://www.linkedin.com/company/bespokelabsai — Company-channel confirmation of Wing VC, 8VC, Mayfield, and The House Fund as institutional investors.

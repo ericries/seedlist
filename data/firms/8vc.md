@@ -118,6 +118,7 @@ Based on 8VC's verified portfolio and public data:
 | Cognition | $1B+ growth (co-led with Lux Capital and General Catalyst at $26B post-money) | 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^29] |
 | Minerva | Seed ($20M, participated) | 2026-06-09 | AI / Consumer Marketing | Private [^30][^31][^32] |
 | Coram AI | Series B ($35M, participated; Battery + Ansa Capital co-led) | 2026-06-10 | AI / Physical Security | Private [^33][^34][^35] |
+| Bespoke Labs | Seed (led) — combined $40M Seed + Series A announced 2026-07-06 (Wing led Series A) | 2026-07-06 | AI / RL Environments / Data Curation | Private [^36][^37] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -195,3 +196,7 @@ No independently sourced founder testimonials found.
 [^34]: The Next Web, "Coram raises $35M to turn cameras into AI detectives," June 2026. Accessed June 2026. https://thenextweb.com/news/coram-35m-series-b-ai-physical-security — Independent press confirmation of Coram AI's $35M Series B with 8VC among participating investors.
 
 [^35]: TechStartups, "Coram AI raises $35M to bring autonomous AI agents to physical security," June 11, 2026. Accessed June 2026. https://techstartups.com/2026/06/11/coram-ai-raises-35m-to-bring-autonomous-ai-agents-to-physical-security/ — Third independent confirmation of Coram AI Series B with 8VC participation.
+
+[^36]: VentureBurn, "Bespoke Labs Raises $40M in Funding To Train Reliable Agents," July 6, 2026. Accessed July 2026. https://ventureburn.com/bespoke-labs-raises-40m-ai-agent-training/ — Bespoke Labs announced $40M combined Seed and Series A on July 6, 2026; Series A led by Wing VC, Seed led by 8VC, with Mayfield and The House Fund participating.
+
+[^37]: Bespoke Labs company announcement on LinkedIn, July 6, 2026. Accessed July 2026. https://www.linkedin.com/company/bespokelabsai — Company-channel confirmation of Wing VC (Series A), 8VC (Seed), Mayfield, and The House Fund as institutional backers.

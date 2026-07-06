@@ -1,0 +1,53 @@
+- name: "Bonfire Ventures"
+  type: firm
+  priority: high
+  discovered_from: katalyze-ai
+  source: "Led Katalyze AI $10.5M seed 2026-07-06"
+- name: "Inovia Capital"
+  type: firm
+  priority: high
+  discovered_from: katalyze-ai
+  source: "Participated in Katalyze AI seed 2026-07-06"
+- name: "Ripple Ventures"
+  type: firm
+  priority: high
+  discovered_from: katalyze-ai
+  source: "Participated in Katalyze AI seed 2026-07-06"
+- name: "Alumni Ventures"
+  type: firm
+  priority: normal
+  discovered_from: katalyze-ai
+  source: "Participated in Katalyze AI seed 2026-07-06"
+- name: "Farzad Soleimani"
+  type: individual
+  priority: high
+  discovered_from: katalyze-ai
+  source: "Angel in Katalyze AI seed 2026-07-06 alongside Gokul Rajaram"
+- name: "Reza Farahani"
+  type: individual
+  firm: "Katalyze AI"
+  priority: low
+  discovered_from: katalyze-ai
+  source: "Katalyze AI CEO & Co-Founder"
+- name: "Wing Venture Capital"
+  type: firm
+  priority: high
+  discovered_from: bespoke-labs
+  source: "Led Bespoke Labs Series A (part of $40M combined seed+Series A) 2026-07-06"
+- name: "The House Fund"
+  type: firm
+  priority: normal
+  discovered_from: bespoke-labs
+  source: "Participated in Bespoke Labs $40M seed+Series A 2026-07-06"
+- name: "Alex Dimakis"
+  type: individual
+  firm: "Bespoke Labs"
+  priority: normal
+  discovered_from: bespoke-labs
+  source: "Bespoke Labs Co-Founder"
+- name: "Mahesh Sathiamoorthy"
+  type: individual
+  firm: "Bespoke Labs"
+  priority: normal
+  discovered_from: bespoke-labs
+  source: "Bespoke Labs Co-Founder"
