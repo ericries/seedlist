@@ -141,7 +141,7 @@ Pinterest went public on the New York Stock Exchange on April 18, 2019, under th
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|------------------|-------------------|-----------|
 | Seed | Dec 2010 | $700K | FirstMark Capital | Highline Ventures, angel investors [^6] | — |
-| Series A | Sep 2011 | $10M | Bessemer Venture Partners | — [^6] | $40M pre-money |
+| Series A | 2011-05 | $10M | Bessemer Venture Partners | — [^6][^pin-tc] | $40M pre-money |
 | Series B | Oct 2011 | $27M | Andreessen Horowitz | — [^7] | — |
 | Series C | Aug 2012 | $100M | Rakuten | FirstMark [^8] | $1.5B |
 | Series D | 2013 | $200M | Valiant Capital Management | Rakuten, Bessemer, Andreessen Horowitz, FirstMark [^8] | $2.5B |
@@ -187,3 +187,5 @@ On product development: "I think anyone who makes products has this simultaneous
 [^16]: Recode, "Pinterest Adds $186 Million to Series G Round, Lets Employees Sell Shares," May 8, 2015. https://www.recode.net/2015/5/8/11562460/pinterest-adds-186-million-to-series-g-round-lets-employees-sell
 [^17]: Pinterest Investor Relations, "Pinterest Announces Pricing of Initial Public Offering," April 17, 2019. https://investor.pinterestinc.com/news-and-events/press-releases/press-releases-details/2019/Pinterest-Announces-Pricing-of-Initial-Public-Offering/default.aspx
 [^18]: TechCrunch, "Pinterest prices IPO above range," April 17, 2019. https://techcrunch.com/2019/04/17/pinterest-prices-ipo-above-range/
+
+[^pin-tc]: TechCrunch, "Pinterest Has Already Pinned Down $10M At A $40M Valuation," September 15, 2011. Accessed July 2026. https://techcrunch.com/2011/09/15/sources-pinterest-has-already-pinned-down-10m-at-a-40m-valuation/ — "Pinterest quietly raised a $10 million Series A from Bessemer late this spring, at a $40 million pre-money valuation." Company did not officially announce the round; close date reported as late spring 2011 (approximately May).

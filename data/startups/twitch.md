@@ -90,8 +90,8 @@ Mike Maples Jr. (Floodgate) invested in Justin.tv before it graduated from Y Com
 |-------|------|--------|---------------|---------------------|
 | Seed (Y Combinator) | 2007 Winter (W07) | $20K (YC) + $250K total seed at $3M pre | Y Combinator | Mike Maples Jr. (Floodgate); angel syndicate per Justin Kan [^4][^9][^16] |
 | Seed | Oct 2007 | $8M | Alsop Louie Partners | Felicis Ventures [^4][^11] |
-| Series A | 2012 | $15M | Bessemer Venture Partners | — [^12][^13] |
-| Series B | 2013 | $20M | Thrive Capital | Draper Associates, Take-Two Interactive [^1][^14] |
+| Series B | 2012-09-19 | $15M | Bessemer Venture Partners | Alsop Louie Partners, Draper Associates [^12][^13][^twi-bw][^twi-tc] |
+| Series C | 2013 | $20M | Thrive Capital | Draper Associates, Take-Two Interactive [^1][^14] |
 | Acquisition | Aug 2014 | $970M | Amazon | — [^6][^7] |
 
 ## What Investors Say
@@ -128,3 +128,7 @@ Justin Kan, reflecting on the pivot and the company's journey from lifecasting t
 [^14]: "Viral video startup Justin.tv raising $20M round of funding," VentureBeat, July 2013, accessed March 2026. https://venturebeat.com/2013/07/02/viral-video-startup-justin-tv-raising-20m-round-of-funding
 [^15]: "Mike Maples on why non-consensus investing is required," Venture Unlocked, accessed March 2026. https://ventureunlocked.substack.com/p/finding-greatness-in-non-consensus
 [^16]: Justin Kan, "How to Raise Seed Stage Funding: The Startup Guide," Medium. Accessed May 2026. https://justinkan.medium.com/how-to-raise-seed-stage-funding-the-startup-guide-594365465b7f — Justin.tv (later Twitch) raised $250K first seed at $3M pre-money valuation after YC W07's $20K and mentorship. Cross-referenced with Wikipedia, "Justin.tv," https://en.wikipedia.org/wiki/Justin.tv.
+
+[^twi-bw]: BusinessWire, "Twitch Raises $15 Million Series B Investment Led by Bessemer Venture Partners," September 19, 2012. Accessed July 2026. https://www.businesswire.com/news/home/20120919005066/en/Twitch-Raises-15-Million-Series-B-Investment-Led-by-Bessemer-Venture-Partners — Primary press release confirming $15M Series B announced Sep 19, 2012, led by Bessemer Venture Partners with Alsop Louie Partners and Draper Associates participating.
+
+[^twi-tc]: TechCrunch, "With More Than 20M Gamers Tuning In, Twitch Raises $15M From Bessemer Venture Partners," September 19, 2012. Accessed July 2026. https://techcrunch.com/2012/09/19/twitch-15m-bessemer-venture-partners/ — Independent same-day confirmation. Quote: "The new funding will be used to build out Twitch's engineering team, to meet demand for Twitch live streaming on a growing number of devices and game consoles."

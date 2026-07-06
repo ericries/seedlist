@@ -4640,7 +4640,9 @@ vague_facts:
   line: '| Pinterest | Series A ($10M, led) | 2011 | Consumer | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Pinterest row on bessemer-venture-partners.md from "Series A ($10M, led) | 2011" to "Series A ($10M, led at $40M pre-money; Jeremy Levine + Sarah Tavel; Levine took board seat; prior seed from FirstMark, Highline, and angels — round closed late spring 2011 per contemporaneous reporting) | 2011-05" via 3 independent primary sources: (1) BVP''s own contemporaneous Pinterest investment memo dated April 3, 2011 [^pin1] (new) confirming $10M at $40M pre-money "inclusive of a 13% unallocated option pool", one board seat to BVP (Levine), and prior seed of ~$2M from angels, Highline Ventures, and FirstMark Capital. (2) BVP Atlas retrospective by Jeremy Levine [^pin2] (new) — first-person account of the unscheduled Palo Alto meeting with Ben Silbermann that led to Bessemer leading the Series A. (3) TechCrunch (Sep 15 2011) [^pin3] (new) — contemporaneous press "Pinterest quietly raised a $10 million Series A from Bessemer late this spring, at a $40 million pre-money valuation" — company never officially announced round; combined citation with Fortune (2019). Date left as YYYY-MM (2011-05) since no primary source discloses exact day; TechCrunch describes it as "late this spring." Anti-hallucination: rejected Wikipedia''s "May 7 2011" claim (not a primary source per CLAUDE.md rules).'
 - profile: firms/bessemer-venture-partners
   profile_name: Bessemer Venture Partners
   company: Twilio
@@ -4670,7 +4672,9 @@ vague_facts:
   line: '| Canva | Growth | 2018 | Consumer/Design | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'CORRECTED WRONG DATE. Prior row said "Canva | Growth | 2018" but investigation revealed Bessemer''s first Canva investment was NOT in 2018 — it was the October 16, 2019 Series D. Tightened to "Series D ($85M at $3.2B valuation; Bond, General Catalyst, Bessemer, Blackbird, Sequoia China participated — Bessemer''s first Canva investment; prior 2018 Growth row was inaccurate) | 2019-10-16" via 3 independent primary sources: (1) TechCrunch [^can1] (new) — "Canva, now valued at $3.2 billion, launches an enterprise product" Oct 16 2019 announcement confirming $85M with Bond, General Catalyst, Bessemer Venture Partners, Blackbird, and Sequoia China. (2) Forbes (Alex Konrad) [^can2] (new) — tier-1 independent confirmation of Oct 16 2019 announcement, $85M at $3.2B valuation, same syndicate; Melanie Perkins CEO quote on profitability. (3) BVP''s own Canva company page [^can3] (new) — confirms Canva is a BVP portfolio company. Sequoia China led the earlier May 2019 Series C ($40M at $2.5B val) BEFORE Bessemer joined; that round is NOT Bessemer''s. Canva CEO Melanie Perkins: "We have been really conscientious about not taking on too much capital because we''ve been profitable for the last two years."'
 - profile: firms/bessemer-venture-partners
   profile_name: Bessemer Venture Partners
   company: Ramp
@@ -4872,7 +4876,9 @@ vague_facts:
   line: '| Twitch | Series B ($15M, led) | 2012 | Consumer | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Twitch row on bessemer-venture-partners.md from "Series B ($15M, led) | 2012" to "Series B ($15M total; Bessemer led with USD 13M at USD 53M pre-money — 18.3% ownership; Alsop Louie Partners and Draper Associates participated; David Cowan, Ethan Kurzweil, Sunil Nagaraj, Mackey Craven partners) | 2012-09-19" via 3 independent primary sources: (1) BusinessWire press release [^twi1] (new) "Twitch Raises $15 Million Series B Investment Led by Bessemer Venture Partners" dated Sep 19 2012 with lead Bessemer and participants Alsop Louie Partners and Draper Associates. (2) TechCrunch [^twi2] (new) same-day coverage "With More Than 20M Gamers Tuning In, Twitch Raises $15M From Bessemer Venture Partners" Sep 19 2012 with quote on engineering hiring. (3) BVP''s own Twitch investment memo [^twi3] (new) dated July 7 2012 confirming Bessemer invested USD 13M of the USD 15M round at USD 53M pre-money for 18.3% ownership; BVP partners on deal: David Cowan, Ethan Kurzweil, Sunil Nagaraj, Mackey Craven. BVP competed against another firm proposing a USD 90M pre-money valuation. Round was originally Justin.tv, later rebranded to Twitch.'
 - profile: firms/bessemer-venture-partners
   profile_name: Bessemer Venture Partners
   company: Blue Apron

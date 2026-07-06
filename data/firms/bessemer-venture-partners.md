@@ -125,10 +125,10 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 |---------|-------|------|--------|--------|
 | Shopify | Series A ($7M, led) | 2010-12-13 | E-commerce/Cloud | [^9][^16][^17] |
 | LinkedIn | Series C ($12.8M) | 2007 | Consumer/Social | [^9][^1] |
-| Pinterest | Series A ($10M, led) | 2011 | Consumer | [^9] |
+| Pinterest | Series A ($10M, led at $40M pre-money; Jeremy Levine + Sarah Tavel; Levine took board seat; prior seed from FirstMark, Highline, and angels — round closed late spring 2011 per contemporaneous reporting) | 2011-05 | Consumer | [^9][^pin1][^pin2][^pin3] |
 | Twilio | Seed ($125K), then Series B ($12M, led) | 2009, 2010 | Developer/Cloud | [^9] |
 | Anthropic | Series E (participated) | 2025-03-03 | AI | [^12][^18] |
-| Canva | Growth | 2018 | Consumer/Design | [^12] |
+| Canva | Series D ($85M at $3.2B valuation; Bond, General Catalyst, Bessemer, Blackbird, Sequoia China participated — Bessemer's first Canva investment; prior "2018 Growth" row was inaccurate) | 2019-10-16 | Consumer/Design | [^12][^can1][^can2][^can3] |
 | Ramp | Series E ($300M primary) | 2025-11-17 | Fintech | [^12][^20] |
 | Perplexity | Series B ($73.6M, participated as new investor; IVP-led at $520M val) | 2024-01-04 | AI | [^12][^perp1][^perp2] |
 | ServiceTitan | Series A ($18M, led) | 2015 | Vertical Software | [^9] |
@@ -149,7 +149,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Axonius | Series A ($13M, led) | 2019 | Cybersecurity | [^9] |
 | Claroty | Series A ($32M, led) | 2016 | Cybersecurity | [^9] |
 | ClickHouse | Series C ($350M, participated as new investor; Khosla led at $6.35B post-money) | 2025-05-29 | Data | [^9][^ch1][^ch2][^ch3] |
-| Twitch | Series B ($15M, led) | 2012 | Consumer | [^9] |
+| Twitch | Series B ($15M total; Bessemer led with USD 13M at USD 53M pre-money — 18.3% ownership; Alsop Louie Partners and Draper Associates participated; David Cowan, Ethan Kurzweil, Sunil Nagaraj, Mackey Craven partners) | 2012-09-19 | Consumer | [^9][^twi1][^twi2][^twi3] |
 | Blue Apron | Series A ($3M), Series B ($5M, led) | 2013 | Consumer | [^9] |
 | Legora | Series D (participated) | 2026-03-10 | AI/Legal Tech | [^15] |
 | Zenskar | Series A ($15M, co-led with Susquehanna Venture Capital, Shine Capital, and Rho; Anant Vidur Puri Partner) | 2026-04-16 | Fintech / Billing / AI Revenue Automation | [^9][^zen1][^zen2][^zen3] |
@@ -254,3 +254,21 @@ However, founder experiences are not universally positive. One founder reported 
 [^zen2]: The SaaS News, "Zenskar Raises $15 Million Series A," April 19, 2026. Accessed July 2026. https://www.thesaasnews.com/news/zenskar-raises-15m-series-a/ — Independent confirmation of Zenskar's $15M Series A on April 16, 2026 (announcement date), co-led by Susquehanna Venture Capital, Bessemer Venture Partners, Shine Capital, and Rho with Rocketship, J-Ventures, Future Back Ventures (Bain & Company), and Converge participating.
 
 [^zen3]: FinancialIT, "Zenskar Raises $15 Million Series A to Expand Agentic Capabilities for B2B Revenue Automation," April 20, 2026. Accessed July 2026. https://financialit.net/news/fundraising-news/zenskar-raises-15-million-series-expand-agentic-capabilities-b2b-revenue — Third independent confirmation of $15M Series A co-led by Susquehanna Venture Capital, Bessemer Venture Partners, Shine Capital, and Rho on April 16, 2026. Apurv Bansal (CEO): "Finance teams aren't struggling because they lack AI tools. They're struggling because the systems underneath those tools were built for a simpler world." Bessemer Partner Anant Vidur Puri: "The problems that break finance teams aren't the obvious ones, but the complex ones like bespoke pricing structures that are dynamic, AI token consumption that changes each time a new model drops, or ASC 606-compliant revenue recognition."
+
+[^pin1]: Bessemer Venture Partners, "Pinterest Investment Memo," dated April 3, 2011. Accessed July 2026. https://www.bvp.com/memos/pinterest — BVP's own contemporaneous memo authored by Jeremy Levine and Sarah Tavel confirming $10M Series A investment at "$40m pre-money valuation inclusive of a 13% unallocated option pool"; BVP received one board seat (Jeremy Levine), each of two founders (Ben Silbermann, Paul Sciarra) also received a board seat; prior seed round of ~$2M from angels, Highline Ventures, and FirstMark Capital.
+
+[^pin2]: Bessemer Venture Partners, "Jeremy Levine's backstory on Pinterest — from Series A to IPO," accessed July 2026. https://www.bvp.com/atlas/pinterest-ipo — First-person account by Jeremy Levine describing the unscheduled Palo Alto meeting with Ben Silbermann that led to Bessemer leading Pinterest's Series A "a few weeks later" in early 2011.
+
+[^pin3]: TechCrunch, "Pinterest Has Already Pinned Down $10M At A $40M Valuation," September 15, 2011. Accessed July 2026. https://techcrunch.com/2011/09/15/sources-pinterest-has-already-pinned-down-10m-at-a-40m-valuation/ — Contemporaneous press: "Pinterest quietly raised a $10 million Series A from Bessemer late this spring, at a $40 million pre-money valuation." Company did not officially announce the round. (Combined with Fortune 2019: "Pinterest later successfully raised $10 million in that Series A round led by Bessemer in 2011," https://fortune.com/2019/04/18/pinterst-ipo-ben-silbermann-stock-bessemer/)
+
+[^can1]: TechCrunch, "Canva, now valued at $3.2 billion, launches an enterprise product," October 16, 2019. Accessed July 2026. https://techcrunch.com/2019/10/16/canva-now-valued-at-3-2-billion-launches-an-enterprise-product/ — Confirms $85M funding round announced October 16, 2019 with participants Bond, General Catalyst, Bessemer Venture Partners, Blackbird, and Sequoia China, taking Canva to a $3.2B valuation (up from $2.5B in May 2019).
+
+[^can2]: Forbes (Alex Konrad), "Canva Hits $3.2 Billion Valuation After $85 Million Raise For Big-Business Push," October 16, 2019. Accessed July 2026. https://www.forbes.com/sites/alexkonrad/2019/10/16/canva-3-billion-valuation-after-raise-for-enterprise-push/ — Tier-1 press independent confirmation of $85M round on October 16, 2019 at $3.2B valuation with Bond, General Catalyst, Bessemer, Blackbird, and Sequoia China; CEO Melanie Perkins quoted: "We have been really conscientious about not taking on too much capital because we've been profitable for the last two years."
+
+[^can3]: Bessemer Venture Partners, "Canva," company page, accessed July 2026. https://www.bvp.com/companies/canva — BVP's own portfolio page confirming Canva as a Bessemer portfolio company.
+
+[^twi1]: BusinessWire (via Bessemer/Twitch press release), "Twitch Raises $15 Million Series B Investment Led by Bessemer Venture Partners," September 19, 2012. Accessed July 2026. https://www.businesswire.com/news/home/20120919005066/en/Twitch-Raises-15-Million-Series-B-Investment-Led-by-Bessemer-Venture-Partners — Primary press release confirming $15M Series B announced September 19, 2012, led by Bessemer Venture Partners with Alsop Louie Partners and Draper Associates participating.
+
+[^twi2]: TechCrunch, "With More Than 20M Gamers Tuning In, Twitch Raises $15M From Bessemer Venture Partners," September 19, 2012. Accessed July 2026. https://techcrunch.com/2012/09/19/twitch-15m-bessemer-venture-partners/ — Independent confirmation of the $15M round on September 19, 2012 with quote: "The new funding will be used to build out Twitch's engineering team, to meet demand for Twitch live streaming on a growing number of devices and game consoles."
+
+[^twi3]: Bessemer Venture Partners, "Twitch Investment Memo," accessed July 2026. https://www.bvp.com/memos/twitch — BVP's own memo (dated July 7, 2012) records Bessemer investing USD 13M of the USD 15M round at USD 53M pre-money valuation for 18.3% ownership. BVP partners on the deal: David Cowan, Ethan Kurzweil, Sunil Nagaraj, and Mackey Craven. BVP competed against another firm proposing a USD 90M pre-money valuation.
