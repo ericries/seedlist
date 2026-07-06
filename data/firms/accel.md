@@ -2,7 +2,7 @@
 founded: 1983
 fund_size: $9.6B current fund size; $19.56B total raised across all funds; $4B growth
   fund (2022); $650M India/SEA fund (2025); $650M Europe/Israel fund (2024)
-last_researched: 2026-06-03
+last_researched: 2026-07-06
 location: Palo Alto, CA
 name: Accel
 sector_focus:
@@ -187,14 +187,14 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Facebook (Meta) | Series A ($12.7M, led at $87.5M post-money; Jim Breyer joined board) | 2005-05-26 | Consumer/Social | [^6][^20][^fbcrimson] |
 | Slack | Seed | 2009 | Enterprise | [^6][^17] |
 | Dropbox | Series A ($6M, Sequoia-led; Accel participated via Sameer Gandhi) | 2008-10 | Cloud/Consumer | [^6][^18][^19][^db-tc] |
-| Spotify | Series D | 2011 | Consumer/Music | [^6][^21][^22] |
+| Spotify | Series C ($100M at ~$1B valuation; DST Global led; Kleiner Perkins + Accel participated — Accel's initial investment via Sameer Gandhi and Sonali De Rycker) | 2011-06-17 | Consumer/Music | [^6][^21][^22][^119] |
 | Atlassian | Growth ($60M, led; Rich Wong joined board — first outside financing) | 2010-07-14 | Enterprise | [^6][^23][^24][^atl-vcj] |
 | Flipkart | Seed ($800K) | 2008 | E-commerce | [^6][^25][^26] |
 | CrowdStrike | Series B ($30M, led; Warburg Pincus participated; Sameer Gandhi joined board) | 2013-09-09 | Cybersecurity | [^6][^27][^28][^114] |
 | Qualtrics | Series A ($70M, co-led with Sequoia — largest joint investment; Ryan Sweeney + Bryan Schreier joined board) | 2012-05-15 | Enterprise | [^6][^29][^30][^115] |
 | Etsy | Series D ($27M, led; Union Square Ventures + Hubert Burda Media participated; Jim Breyer joined board) | 2008-01-30 | E-commerce | [^6][^31][^32][^116] |
-| Braintree | Series A ($34M, led) | 2011 | Fintech | [^33][^34] |
-| Supercell | Series A ($12M, led) | 2011 | Gaming | [^35][^36] |
+| Braintree | Series A ($34M, led — Braintree's first institutional round after four years bootstrapped; Ryan Sweeney joined board) | 2011-06-29 | Fintech | [^33][^34][^117] |
+| Supercell | Series A ($12M, led; London Venture Partners participated; Kevin Comolli joined board) | 2011-05-26 | Gaming | [^35][^36][^118] |
 | Scale AI | Early | 2017 | AI/Data | [^12] |
 | Perplexity | Series D (led) | 2025-05-14 | AI | [^9][^55] |
 | Anysphere (Cursor) | Series C ($900M, participated) | 2025-06-05 | AI/Developer Tools | [^9][^56][^57] |
@@ -460,3 +460,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^115]: Fortune, "Qualtrics raises $70 million from Accel and Sequoia," May 15, 2012. Accessed July 2026. https://fortune.com/2012/05/15/qualtrics-raises-70-million-from-accel-and-sequoia/ — Third independent confirmation of the May 15, 2012 announcement date. Confirms $70M co-led by Accel Partners and Sequoia Capital as the two firms' "largest-ever joint investment"; Ryan Sweeney (Accel) and Bryan Schreier (Sequoia) joined Qualtrics' board of directors. BusinessWire press release (May 15, 2012: https://www.businesswire.com/news/home/20120515006395/en/Qualtrics-Raises-70-Million-in-Funding-from-Accel-Partners-and-Sequoia-Capital) provides a fourth independent contemporaneous primary source.
 
 [^116]: Charlie O'Donnell, "Etsy Raises $27 mil… Accel and Jim Breyer comes in. Score one for NYC," This Is Going To Be Big, January 30, 2008. Accessed July 2026. https://www.thisisgoingtobebig.com/blog/2008/1/30/etsy-raises-27-mil-accel-and-jim-breyer-comes-in-score-one-f.html — Third independent confirmation of the January 30, 2008 announcement date; contemporaneous NYC VC blog post by Charlie O'Donnell (then Union Square Ventures) confirms the $27M Series D and Accel/Jim Breyer's arrival on the board. Union Square Ventures (existing seed/A investor) and Hubert Burda Media also participated in this round per TechCrunch [^31].
+
+[^117]: Institutional Investor, "Braintree Raises $34M From Accel," June 30, 2011. Accessed July 2026. https://www.institutionalinvestor.com/article/2bt017pmce8xr1vr5hdkw/innovation/braintree-raises-34m-from-accel — Third independent confirmation of the $34M Series A led by Accel Partners; confirms Ryan Sweeney (Accel partner) joined Braintree's board. PR Newswire release (June 29, 2011: [^33]) and TechCrunch (June 29, 2011: [^34]) provide the other two contemporaneous primary sources. The round was Braintree's first institutional round after four years of bootstrapping; founder Bryan Johnson founded Braintree in 2007. Named quotes: Ryan Sweeney (Accel) — "Braintree caught our attention when we realized the vast majority of our portfolio companies were turning to them for payments." Bryan Johnson (Braintree founder & CEO) — "I founded Braintree in 2007 with the objective of filling the gap between what customers were asking for and what the payment industry was providing."
+
+[^118]: Ilkka Paananen (Supercell President), "2011 in review: Ilkka Paananen, president, Supercell," PocketGamer.biz, December 2011. Accessed July 2026. https://www.pocketgamer.biz/2011-in-review-ilkka-paananen-president-supercell/ — Third independent confirmation from Supercell's own president listing "Accel invested $12 million in us" among Supercell's 2011 highlights. TechCrunch [^35] establishes the May 26, 2011 announcement date and names Kevin Comolli as the Accel partner leading the deal along with London Venture Partners participation; Accel portfolio page [^36] confirms Kevin Comolli as the initial-investment partner.
+
+[^119]: Josh Ong, "Spotify closes $100 million from high profile investors at $1 billion valuation," The Next Web, June 17, 2011. Accessed July 2026. https://thenextweb.com/news/spotify-closes-100-million-from-high-profile-investors-at-1-billion-valuation — Third independent contemporaneous confirmation of the June 17, 2011 announcement; confirms DST Global led the round with Accel and Kleiner Perkins participating alongside existing investors Sean Parker, Li Ka-shing, Wellington Partners, and Northzone Ventures; valuation of ~$1 billion; round negotiations began in February 2011 and closed the week of June 17. AllThingsD [^22] and Accel portfolio page [^21] provide the other two primary sources; Accel's initial investment via Sameer Gandhi and Sonali De Rycker per [^21]. Round series letter is Series C per the Spotify startup profile funding-history reconciliation (Series D was the November 2012 Goldman Sachs–led $100M at $3B valuation round).

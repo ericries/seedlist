@@ -1049,7 +1049,9 @@ vague_facts:
   line: '| Spotify | Series D | 2011 | Consumer/Music | [^6][^21][^22] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'Fact-spec sweep 2026-07-06: tightened Spotify row on accel.md from "Series D | 2011" to "Series C (USD 100M at ~USD 1B valuation; DST Global led; Kleiner Perkins + Accel participated — Accel initial investment via Sameer Gandhi and Sonali De Rycker) | 2011-06-17" via 3 primary sources — AllThingsD (existing [^22], Peter Kafka), Accel portfolio page (existing [^21]), and TheNextWeb (new [^119], Josh Ong). CORRECTED round series letter from "Series D" to "Series C" per Spotify startup profile funding-history reconciliation — the 2011-06-17 DST-led round is Series C; Series D was the November 2012 Goldman Sachs–led USD 100M at USD 3B valuation. Confirmed valuation ~USD 1B; existing investors Sean Parker, Li Ka-shing, Wellington Partners, Northzone Ventures also participated per TheNextWeb. Round began negotiations February 2011 and closed week of June 17. Accel initial investment via Sameer Gandhi and Sonali De Rycker per Accel portfolio page.'
 - profile: firms/accel
   profile_name: Accel
   company: Atlassian
@@ -1112,7 +1114,9 @@ vague_facts:
   line: '| Braintree | Series A ($34M, led) | 2011 | Fintech | [^33][^34] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'Fact-spec sweep 2026-07-06: tightened Braintree row on accel.md from "Series A (USD 34M, led) | 2011" to "Series A (USD 34M, led — Braintree first institutional round after four years bootstrapped; Ryan Sweeney joined board) | 2011-06-29" via 3 primary sources — PR Newswire (existing [^33]), TechCrunch (existing [^34], Leena Rao), and Institutional Investor (new [^117]). All 3 confirm the June 29, 2011 announcement date, the USD 34M Series A led by Accel (only institutional investor named), and Ryan Sweeney joining Braintree board. Named quotes preserved: Ryan Sweeney (Accel) — "Braintree caught our attention when we realized the vast majority of our portfolio companies were turning to them for payments"; Bryan Johnson (Braintree founder & CEO) — "I founded Braintree in 2007 with the objective of filling the gap between what customers were asking for and what the payment industry was providing". Braintree bootstrapped 2007-2011 before this first institutional round. No braintree.md startup profile exists to update.'
 - profile: firms/accel
   profile_name: Accel
   company: Supercell
@@ -1122,7 +1126,9 @@ vague_facts:
   line: '| Supercell | Series A ($12M, led) | 2011 | Gaming | [^35][^36] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'Fact-spec sweep 2026-07-06: tightened Supercell row on accel.md from "Series A (USD 12M, led) | 2011" to "Series A (USD 12M, led; London Venture Partners participated; Kevin Comolli joined board) | 2011-05-26" via 3 primary sources — TechCrunch (existing [^35], Robin Wauters), Accel portfolio page (existing [^36]) confirming Kevin Comolli as initial-investment partner, and PocketGamer.biz 2011-in-review by Ilkka Paananen himself (new [^118]) listing "Accel invested USD 12 million in us" among Supercell 2011 highlights. TechCrunch establishes the May 26, 2011 announcement date and names London Venture Partners as participating existing investor along with angel Klaas Kersting (founder of Gameforge, CEO of flaregames). Previous seed investors Initial Capital, Cerval Investments, and Lifeline Ventures also mentioned in TechCrunch. No supercell.md startup profile exists to update.'
 - profile: firms/accel
   profile_name: Accel
   company: Scale AI
