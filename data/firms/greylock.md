@@ -162,7 +162,7 @@ The following table includes companies identified from Greylock's website portfo
 | Baseten | Seed | ~2019 (founded) | AI / Infrastructure | Private [^8] |
 | Bedrock Data | Seed | ~2025 | Cybersecurity | Private [^5][^8] |
 | Blend | Series A | ~2012 (founded) | Fintech / SaaS | Public (IPO 2021) [^8] |
-| Blockaid | Series B | 2025 | Fintech & Crypto | Private [^2][^8] |
+| Blockaid | Series A ($27M; Ribbit Capital + Variant led; Greylock participated) | 2023-10-23 | Cybersecurity / Fintech & Crypto | Private [^8][^38][^39][^40] |
 | Boost | Seed | ~2023 (founded) | Consumer / Fintech | Private [^8] |
 | Braintrust | Seed | ~2023 (founded) | AI | Private [^8] |
 | Builder.io | Series A | ~2016 (founded) | Infrastructure / SaaS | Private [^8] |
@@ -381,3 +381,9 @@ Citron was transparent with his investors about metrics and traction of their ga
 [^36]: PressRelease.com, "Niteshift Raises $7 Million Seed Round to Power the Cloud Platform for AI Coding Agents," June 10, 2026. https://www.pressrelease.com/news/niteshift-raises-7-million-seed-round-to-power-the-cloud-platform-for-ai-coding — Independent confirmation of $7M seed round led by Greylock on June 10, 2026. Includes Jerry Chen quote: "Sajid and Conor have been at the forefront of developer tools their entire careers." Accessed June 2026.
 
 [^37]: AlleyWatch Startup Daily Funding Report, June 11, 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/ — Third independent listing of Niteshift's $7M seed led by Greylock. Accessed June 2026.
+
+[^38]: CoinDesk, "Web3 Security Firm Blockaid Raises $27M to Help Tackle Industry's 'Never-Ending' Challenges," October 23, 2023. https://www.coindesk.com/business/2023/10/23/web3-security-firm-blockaid-raises-27m-to-help-tackle-industrys-never-ending-challenges — Confirms Blockaid's $27M Series A on October 23, 2023 was led by Ribbit Capital and Variant, with participation from Cyberstarts, Sequoia Capital, and Greylock Partners. Emerged from stealth on the same date. Accessed July 2026.
+
+[^39]: SecurityWeek, "Blockaid Emerges From Stealth With $33 Million Investment," October 23, 2023. https://www.securityweek.com/blockaid-emerges-from-stealth-with-33-million-investment/ — Confirms Blockaid emerged from stealth on October 23, 2023 with $33M total ($27M Series A + prior seed). Series A led by Ribbit Capital and Variant with additional investment from Cyberstarts, Greylock Partners, and Sequoia Capital. Co-founders Ido Ben-Natan (CEO) and Raz Niv (CTO), Israel Defense Forces Unit 8200 alums. Accessed July 2026.
+
+[^40]: FinSMEs, "Blockaid Closes $33M Series A Funding," October 2023. https://www.finsmes.com/2023/10/blockaid-closes-33m-series-a-funding.html — Third independent confirmation of Blockaid's Series A on October 23, 2023. Names lead investors as "Ribbit, Variant, Cyberstarts, Sequoia, and Greylock" and confirms $33M as total raised at emergence. Accessed July 2026.

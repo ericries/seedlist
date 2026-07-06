@@ -73,7 +73,7 @@ This table represents approximately 22 of ~105 known investments (about 21%). Th
 | Cents | ~2018 | Pre-Seed | [^1] |
 | Eeva | ~2020 | Pre-Seed | [^1] |
 | Rainmaker | ~2021 | Pre-Seed | [^1] [^5] |
-| Xona Space | ~2020 | Pre-Seed | [^1] [^5] |
+| Xona Space | 2020-05-14 | Pre-Seed (1517 led, $1M; Seraphim, Trucks, Stellar participated) | [^1] [^5] [^16] [^17] |
 | Mach Industries | ~2020 | Seed | [^9] |
 | Stark Therapeutics | ~2021 | Pre-Seed | [^5] |
 | Positron | ~2022 | Pre-Seed | [^5] |
@@ -141,3 +141,5 @@ On the Deepgram investment, Strachman has described how she initially discourage
 [^13]: The Knowledge Project podcast, "Funding Curious Dropouts with Danielle Strachman," accessed March 2026. https://theknowledge.io/daniellestrachman/
 [^14]: Lisa Betts-LaCroix podcast, "Episode #43: Investing in Relationship with VC Danielle Strachman," accessed March 2026. https://lisabl.com/43-2/
 [^15]: Danielle Strachman (@DStrachman), X/Twitter post about $50K grants for undergrads, high schoolers, and dropouts, accessed March 2026. https://x.com/dstrachman/status/1298656685762867200
+[^16]: TechCrunch, "Xona Space Systems raises $1 million to improve satellite-based navigation services," May 14, 2020, accessed July 2026. https://techcrunch.com/2020/05/14/xona-space-systems-raises-1-million-to-improve-satellite-based-navigation-services/
+[^17]: Via Satellite / SatelliteToday, "PNT Startup Xona Space Systems Raises $1M in Pre-Seed," May 15, 2020, accessed July 2026. https://www.satellitetoday.com/finance/2020/05/15/pnt-startup-xona-space-systems-raises-1m-in-pre-seed/

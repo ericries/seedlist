@@ -149,7 +149,7 @@ Based on 64 companies listed on the Trucks VC portfolio page [^1], with suppleme
 | Veecle | Seed | ~2023 | Software-defined vehicles | Active [^1] |
 | Verne | Seed | ~2023 | Hydrogen storage | Active [^1] |
 | Wise Systems | Seed | ~2018 | Route optimization | Active [^1] |
-| Xona Space Systems | Seed | 2020 | GNSS positioning | Active [^1][^20] |
+| Xona Space Systems | Pre-Seed ($1M; 1517 led; Trucks participated with Seraphim Capital and Stellar Solutions) | 2020-05-14 | GNSS positioning | Active [^1][^20][^26][^27] |
 | Zendrive | Seed | ~2016 | Driver safety analytics | Acquired (Intuit) [^1][^2] |
 | Zitara | Seed | ~2021 | Battery management | Active [^1] |
 | Zohr | Seed | ~2019 | Mobile tire service | Active [^1] |
@@ -208,3 +208,7 @@ No independently sourced founder testimonials found. Dedicated searches for foun
 [^24]: Carvis LinkedIn announcement, "Carvis has secured $1.2M in pre-seed funding," November 4, 2024. Accessed May 2026. https://www.linkedin.com/posts/carvis_carvis-has-secured-12m-in-pre-seed-funding-activity-7259308083158409218-41QF — Confirms $1.2M pre-Seed round led by Trucks Venture Capital with participation from Michigan Rise (Tommy Skinner), Invest Detroit (Lee Rawlings), Newlab (Garrett Winther), and angels Dug Song, Qasar Younis, and Robin O.
 
 [^25]: PR Newswire, "Treehouse Secures $10M to Bring EV Chargers Into Homes," August 9, 2023. Accessed May 2026. https://www.prnewswire.com/news-releases/treehouse-secures-10m-to-bring-ev-chargers-into-homes-301897035.html — Confirms $10M Seed round announced August 9, 2023, co-led by Montage Ventures and Trucks Venture Capital with CarMax, Assurant Ventures, Acrew Capital, Gutter Capital, Detroit Venture Partners, Holman, and Automotive Ventures participating.
+
+[^26]: Xona Space Systems press release, "Xona Space Systems Raises $1M Pre-Seed," May 14, 2020, accessed July 2026. https://www.xonaspace.com/pr20200514 — Confirms $1M pre-seed round announced May 14, 2020, led by 1517 with participation from Seraphim Capital, Trucks Venture Capital, and Stellar Solutions.
+
+[^27]: Via Satellite / SatelliteToday, "PNT Startup Xona Space Systems Raises $1M in Pre-Seed," May 15, 2020, accessed July 2026. https://www.satellitetoday.com/finance/2020/05/15/pnt-startup-xona-space-systems-raises-1m-in-pre-seed/ — Independent tier-1 trade press confirms $1M pre-seed, 1517 as lead, plus Seraphim Capital, Trucks Venture Capital, and Stellar Solutions.

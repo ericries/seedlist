@@ -147,7 +147,7 @@ This table represents 40 verified investments out of approximately 397 total com
 | CodeRabbit | Series A (led, $16M) | 2024-08-15 | Developer Tools/AI | Active [^28][^31] |
 | Browserbase | Series A (co-led, $21M) | 2024-10-29 | Developer Tools/AI | Active [^29][^32] |
 | Protege | Seed | 2024 | AI/Data | Active [^10] |
-| Napkin AI | Seed | 2024 | AI/Consumer | Active [^10] |
+| Napkin AI | Seed (co-led with Accel, $10M; Max Gazor GP) | 2024-08-07 | AI/Consumer | Active [^10][^36][^37][^38] |
 | 7AI | Series A (participated, $130M) | 2025-12-04 | Cybersecurity/AI | Active [^10][^33] |
 | Abacus Insights | Series A | ~2018 | Enterprise/Health | Active [^21] |
 | Affirmed Networks | Series A | ~2012 | Enterprise/Telecom | Acquired (Microsoft, 2020) [^21] |
@@ -246,3 +246,9 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 [^omen1]: TechCrunch, "Omen AI's plan to optimize data centers is all wet," June 29, 2026. Accessed June 2026. https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/ — Confirms CRV participated in Omen AI's $31M Series A led by Nava Ventures.
 
 [^omen2]: SiliconANGLE, "Omen AI raises $31M to help data centers avoid costly downtime with continuous liquid coolant monitoring," June 29, 2026. Accessed June 2026. https://siliconangle.com/2026/06/29/omen-ai-raises-31m-help-data-centers-avoid-costly-downtime-continuous-liquid-coolant-monitoring/ — Independent confirmation of CRV's participation.
+
+[^36]: WebWire (PR distribution of company press release), "Napkin AI Emerges from Stealth with $10M in Seed Funding to Pioneer Visual AI for Business Storytelling," August 7, 2024. https://www.webwire.com/ViewPressRel.asp?aId=325289 — Confirms Napkin's $10M seed round announced Wednesday August 7, 2024, co-led by Accel and CRV. Founders: Jerome Scholler (CEO) and Pramod Sharma (CTO), both former Google engineers previously at Osmo (Pramod was Osmo co-founder). Company emerged from stealth. Accessed July 2026.
+
+[^37]: The SaaS News, "Napkin Raises $10 Million in Seed Round," August 2024. https://www.thesaasnews.com/news/napkin-raises-10-million-in-seed-round/ — Independent confirmation of $10M seed co-led by Accel and CRV. Rich Wong (Accel Partner) and Max Gazor (CRV General Partner) quoted. Accessed July 2026.
+
+[^38]: Inc., "How These Ex-Google Engineers Raised $10 Million for Their AI Startup" (Brian Contreras), August 2024. https://www.inc.com/brian-contreras/how-these-ex-google-engineers-raised-10-million-for-their-ai-startup — Third independent confirmation of Napkin's $10M seed co-led by Accel and CRV. Pramod Sharma quoted: "With the iPhone, Apple made it dead simple for anyone to take photos. We aim to do the same thing with graphics." Accessed July 2026.

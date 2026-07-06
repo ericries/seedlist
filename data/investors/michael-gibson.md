@@ -93,7 +93,7 @@ Fund I has returned 4.41x DPI (distributed-to-paid-in) and 9.65x TVPI (total val
 | Atom Computing | ~2018 | Seed | [^1][^10] |
 | Fountain | ~2018 | Seed | [^1][^10] |
 | Cents | ~2019 | Seed | [^1][^15] |
-| Xona Space Systems | ~2020 | Seed | [^13] |
+| Xona Space Systems | 2020-05-14 | Pre-Seed (1517 led, $1M) | [^13][^17][^18] |
 | Zeno Power Systems | ~2020 | Seed | [^16] |
 | Presso | ~2021 | Pre-Seed | [^1] |
 | Mach Industries | ~2022 | Seed | [^10] |
@@ -155,3 +155,5 @@ A female founder of color in the portfolio stated: "We are proud to make up the 
 [^14]: Crunchbase, "1517 Fund - Recent News & Activity," accessed March 2026. https://www.crunchbase.com/organization/1517-fund/investor_summary/overview_timeline
 [^15]: Tracxn, "1517 Fund - 2026 Investor Profile," accessed March 2026. https://tracxn.com/d/venture-capital/1517fund/__CKPfllqEzPxDJ5aaCqdazyB6Y-1gAptms9yZ_5SgT0Q
 [^16]: 1517 Fund (Medium), "Announcing 1517 Fund Investment: Zeno Power Systems," accessed March 2026. https://medium.com/1517/zeno-clean-resilient-cost-effective-power-7fac12233a10
+[^17]: TechCrunch, "Xona Space Systems raises $1 million to improve satellite-based navigation services," May 14, 2020, accessed July 2026. https://techcrunch.com/2020/05/14/xona-space-systems-raises-1-million-to-improve-satellite-based-navigation-services/
+[^18]: Via Satellite / SatelliteToday, "PNT Startup Xona Space Systems Raises $1M in Pre-Seed," May 15, 2020, accessed July 2026. https://www.satellitetoday.com/finance/2020/05/15/pnt-startup-xona-space-systems-raises-1m-in-pre-seed/
