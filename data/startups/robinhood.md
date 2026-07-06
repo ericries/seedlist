@@ -148,7 +148,7 @@ Robinhood is a financial services company that offers commission-free trading of
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
-| Seed | Dec 2013 | $3M | Index Ventures | Andreessen Horowitz, Google Ventures, Tim Draper, Howard Lindzon | Undisclosed |
+| Seed | 2013-12-18 | $3M | Index Ventures | Andreessen Horowitz, Rothenberg Ventures, Tim Draper, Howard Lindzon (Google Ventures ~$250K pre-seed, August 2012) | Not publicly disclosed [^16][^17] |
 | Series A | Sep 2014 | $13M | Index Ventures | Ribbit Capital, Aaron Levie, Jared Leto, Snoop Dogg, Nas | Undisclosed |
 | Series B | May 2015 | $50M | NEA | Index Ventures, Ribbit Capital, Social Leverage, Vaizra Investments | $250M post-money [^10] |
 | Series C | Apr 2017 | $110M | DST Global | Greenoaks Capital, Thrive Capital | $1.3B |
@@ -189,3 +189,7 @@ No independently sourced founder testimonials found.
 [^13]: PitchBook, "Ribbit, Robinhood's key fintech VC firm, steps up at pivotal moment," January 2021. https://pitchbook.com/news/articles/ribbit-capital-robinhood-fintech-vc-pivotal-moment
 [^14]: CNBC, "Why investors were willing to write Robinhood a $3 billion check during the GameStop chaos," February 3, 2021. https://www.cnbc.com/2021/02/03/why-investors-were-willing-to-write-robinhood-a-3-billion-check-during-the-gamestop-chaos-.html
 [^15]: GlobeNewsWire, "Robinhood Markets, Inc. Announces Pricing of Initial Public Offering," July 29, 2021. https://www.globenewswire.com/news-release/2021/07/29/2270831/0/en/Robinhood-Markets-Inc-Announces-Pricing-of-Initial-Public-Offering.html
+
+[^16]: TechCrunch (Sarah Buhr), "Robinhood App Will Offer Zero-Commission Stock Trades Thanks To $3M Seed From Index And A16Z," December 18, 2013, accessed July 2026. https://techcrunch.com/2013/12/18/zero-commission-stock-trading-robinhood/ — Contemporaneous press confirming the exact December 18, 2013 seed announcement, $3M raise led by Index Ventures with Andreessen Horowitz, Rothenberg Ventures, Tim Draper, and Howard Lindzon; notes prior small pre-seed check (~$250K) from Google Ventures in August 2012. No post-money valuation disclosed.
+
+[^17]: Vator.tv (Steven Loeb), "Mobile stock brokerage, Robinhood, lands $3M seed," December 18, 2013, accessed July 2026. https://vator.tv/news/2013-12-18-mobile-stock-brokerage-robinhood-lands-3m-seed — Contemporaneous press confirming December 18, 2013 date, $3M seed led by Index Ventures. Named investors: Andreessen Horowitz, Rothenberg Ventures, Tim Draper, Howard Lindzon; prior ~$250K from Google Ventures in August 2012. No valuation disclosed.

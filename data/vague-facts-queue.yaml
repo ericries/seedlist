@@ -161177,7 +161177,9 @@ vague_facts:
   line: '| Series B | 2014-06-30 | $33M | N/A | New Enterprise Associates (NEA) | Andreessen Horowitz [^7][^21][^22] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Verified via 3 primary sources (Databricks own blog June 30, 2014 [^21], TechCrunch June 30, 2014 [^22], Fortune Series D retrospective [^30]) that Databricks did NOT publicly disclose a post-money valuation for its June 30, 2014 Series B. Updated column from "N/A" to "Not publicly disclosed" on databricks.md.'
 - profile: startups/databricks
   profile_name: Databricks
   company: Series C
@@ -161199,7 +161201,9 @@ vague_facts:
   line: '| Series D | Aug 2017 | $140M | N/A | Andreessen Horowitz | NEA, Battery Ventures [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Databricks Series D row on databricks.md from "Aug 2017 | $140M | N/A | Andreessen Horowitz | NEA, Battery Ventures" to "2017-08-22 | $140M | Not officially disclosed (Forbes reported the company \"sought a valuation in the ballpark of $900 million\") | Andreessen Horowitz | NEA, Battery Ventures, Future Fund Investment Co., A.Capital Partners, Geodesic Capital, Green Bay Ventures" via 3 new primary sources: Fortune (Jonathan Vanian) Aug 22, 2017 [^30] (new), Forbes (Alex Konrad) Aug 22, 2017 [^31] (new), SiliconANGLE Aug 22, 2017 [^32] (new), plus existing Databricks press release [^9]. Exact announcement date confirmed as August 22, 2017 across all 3 new sources. Post-money valuation NOT officially disclosed by Databricks; Forbes reported the company sought ~USD 900M (not USD 940M as sometimes aggregated). Added Future Fund, A.Capital Partners, Geodesic Capital, Green Bay Ventures as co-investors per Databricks press release and SiliconANGLE. Updated "What Investors Say" Ben Horowitz Series D quote attribution to include Forbes [^31] alongside Databricks press release [^9]. New footnotes [^30] Fortune, [^31] Forbes, [^32] SiliconANGLE added to databricks.md.'
 - profile: startups/databricks
   profile_name: Databricks
   company: Series I
@@ -163859,7 +163863,9 @@ vague_facts:
   line: '| Seed | Dec 2013 | $3M | Index Ventures | Andreessen Horowitz, Google Ventures, Tim Draper, Howard Lindzon | Undisclose'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-05
+  resolution_note: 'Tightened Robinhood Seed row on robinhood.md from "Dec 2013 | $3M | Index Ventures | Andreessen Horowitz, Google Ventures, Tim Draper, Howard Lindzon | Undisclosed" to "2013-12-18 | $3M | Index Ventures | Andreessen Horowitz, Rothenberg Ventures, Tim Draper, Howard Lindzon (Google Ventures ~USD 250K pre-seed, August 2012) | Not publicly disclosed" via 3 primary sources: TechCrunch (Sarah Buhr) Dec 18, 2013 [^16] (new), Yahoo Finance / Marketwired Robinhood press release Dec 2013 [^5] (existing), Vator.tv Dec 18, 2013 [^17] (new). Exact announcement date 2013-12-18 confirmed across all 3 sources. Post-money valuation NOT publicly disclosed — 3-source consensus. Also corrected participant list: it was Rothenberg Ventures (NOT Google Ventures) that participated in the December 2013 seed; Google Ventures had made a small ~USD 250K pre-seed check in August 2012 (per TechCrunch and Vator). New footnotes [^16] TechCrunch, [^17] Vator added to robinhood.md.'
 - profile: startups/robinhood
   profile_name: Robinhood
   company: Series A

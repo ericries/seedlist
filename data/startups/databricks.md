@@ -135,9 +135,9 @@ Databricks was founded in 2013 by seven UC Berkeley researchers: Ali Ghodsi, Ion
 | Round | Date | Amount | Valuation | Lead Investor | Key Co-Investors |
 |-------|------|--------|-----------|---------------|------------------|
 | Series A | 2013-09-25 | $13.9M | $44M | Andreessen Horowitz (Ben Horowitz, board) | — [^6][^18][^29] |
-| Series B | 2014-06-30 | $33M | N/A | New Enterprise Associates (NEA) | Andreessen Horowitz [^7][^21][^22] |
+| Series B | 2014-06-30 | $33M | Not publicly disclosed | New Enterprise Associates (NEA) | Andreessen Horowitz [^7][^21][^22] |
 | Series C | 2016-12-15 | $60M | Not disclosed | New Enterprise Associates (NEA) | Andreessen Horowitz [^8][^23][^24] |
-| Series D | Aug 2017 | $140M | N/A | Andreessen Horowitz | NEA, Battery Ventures [^9] |
+| Series D | 2017-08-22 | $140M | Not officially disclosed (Forbes reported the company "sought a valuation in the ballpark of $900 million") | Andreessen Horowitz | NEA, Battery Ventures, Future Fund Investment Co., A.Capital Partners, Geodesic Capital, Green Bay Ventures [^9][^30][^31][^32] |
 | Series E | Feb 2019 | $250M | $2.75B | Andreessen Horowitz | Coatue Management, Microsoft, NEA, Battery Ventures, Green Bay Ventures, Geodesic [^10] |
 | Series F | Oct 2019 | $400M | $6.2B | Andreessen Horowitz | Alkeon Capital, BlackRock, Coatue, Dragoneer, Geodesic, Green Bay Ventures, Microsoft, NEA, T. Rowe Price, Tiger Global [^11] |
 | Series G | Feb 2021 | $1B | $28B | Franklin Templeton | CPP Investments, Fidelity, Whale Rock, AWS, CapitalG, Salesforce Ventures, Microsoft, Andreessen Horowitz, BlackRock, Coatue, T. Rowe Price, Tiger Global [^12] |
@@ -150,7 +150,7 @@ Databricks was founded in 2013 by seven UC Berkeley researchers: Ali Ghodsi, Ion
 ## What Investors Say
 
 > "If you want to build competitive advantage using Artificial Intelligence and you are not Google or Facebook, Databricks is essential. We've looked at every solution on the market and nothing else comes close."
-> -- Ben Horowitz, co-founder and general partner at Andreessen Horowitz, Series D announcement, August 2017 [^9]
+> -- Ben Horowitz, co-founder and general partner at Andreessen Horowitz, Series D announcement, August 22, 2017 [^9][^31]
 
 Ben Horowitz has also spoken about co-founder Matei Zaharia, calling him one of the "best distributed systems people out of academia in the last 10 years," and stating that between Zaharia's talent and the team's work on Apache Spark, he would have invested "should they have had no plan at all" [^18].
 
@@ -202,3 +202,9 @@ Ben Horowitz has also spoken about co-founder Matei Zaharia, calling him one of 
 [^28]: Tech Company News, "Databricks Raises $1 Billion In Series K Funding Round," September 2025, accessed July 2026. https://www.techcompanynews.com/databricks-raises-1-billion-in-series-k-funding-round/ — Contemporaneous press confirming Series K closing on September 8, 2025 at $1B equity with a16z, Insight Partners, MGX, Thrive Capital, and WCM Investment Management as lead investors, following August 19, 2025 term sheet.
 
 [^29]: Derrick Harris, GigaOM, "Databricks raises $14M from Andreessen Horowitz, wants to take on MapReduce with Spark," September 25, 2013, accessed July 2026. https://gigaom.com/2013/09/25/databricks-raises-14m-from-andreessen-horowitz-wants-to-take-on-mapreduce-with-spark/ — Contemporaneous press confirming the exact announcement date of September 25, 2013 for the $13.9M ($14M rounded) Series A led solely by Andreessen Horowitz at a $44M post-money valuation, with Ben Horowitz joining the board. Ben Horowitz cited by the article as the sole institutional check-writer; no other participants disclosed. (Original GigaOM article now hosted at portal.gigaom.com.)
+
+[^30]: Fortune (Jonathan Vanian), "AI Startup Databricks Nabs $140M, Led by Andreessen Horowitz," August 22, 2017, accessed July 2026. https://fortune.com/2017/08/22/databricks-ai-startup/ — Contemporaneous press confirming the exact August 22, 2017 announcement date for the $140M Series D led by Andreessen Horowitz, with NEA, Battery Ventures, Future Fund, A.Capital, Geodesic Capital, and Green Bay Ventures participating. Total funding to date noted as $247M.
+
+[^31]: Forbes (Alex Konrad), "Databricks Raises $140M From Top VCs In Mission To Bring AI To 'The 99%'," August 22, 2017, accessed July 2026. https://www.forbes.com/sites/alexkonrad/2017/08/22/databricks-raises-140m-for-ai/ — Contemporaneous press confirming August 22, 2017 date and $140M raise. Reports Databricks "sought a valuation in the ballpark of $900 million" but "didn't disclose its valuation after the new raise." Contains the Ben Horowitz quote used above in "What Investors Say."
+
+[^32]: SiliconANGLE, "Big data firm Databricks raises massive $140M funding led by Andreessen Horowitz," August 22, 2017, accessed July 2026. https://siliconangle.com/2017/08/22/big-data-firm-databricks-raises-massive-140m-funding-led-andreessen-horowitz/ — Contemporaneous press confirming the August 22, 2017 date, $140M amount, a16z as lead, and named participants NEA, Battery Ventures, Future Fund Investment Co., A.Capital Partners, Geodesic Capital, and Green Bay Ventures. No post-money valuation disclosed.
