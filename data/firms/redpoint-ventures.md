@@ -127,8 +127,8 @@ The firm's highest-profile investments cluster around enterprise software/SaaS (
 | AcuityMD | Series C | 2026 | Healthcare/MedTech AI | Active | BusinessWire [^9] |
 | Omni | Series C | 2026 | AI/Analytics | Active | BusinessWire [^10] |
 | Golden Child | Seed + Series A (led) | 2026 | Consumer / Pet Food | Active | Refresh Miami [^12] |
-| Collate | Seed (led, $30M) | 2025-01-21 | AI / Life Sciences | Active | American Bazaar [^17] |
-| Collate | Series B (led, $95M) | 2026-06-03 | AI / Life Sciences | Active | RamaOnHealthcare [^18] |
+| Collate | Seed (led, $30M at >$100M post-money; Satish Dharmaraj partner; First Round, Conviction, YC participated) | 2025-01-13 | AI / Life Sciences | Active | Forbes [^21], American Bazaar [^17], Redpoint portfolio [^22] |
+| Collate | Series B (led, $95M at ~$1B post-money; $125M total; First Round + Conviction followed on) | 2026-06-03 | AI / Life Sciences | Active | Forbes [^23], RamaOnHealthcare [^18] |
 | Cyera | Late Stage ($300M, participated) | 2026-06-02 | Cybersecurity / DSPM | Active | SiliconANGLE [^19], TechCrunch [^20] |
 
 *This table represents a small fraction of Redpoint's 615+ portfolio companies [^3]. Years are approximate based on publicly available data.*
@@ -165,3 +165,6 @@ No independently sourced founder testimonials found. The firm's content platform
 [^18]: RamaOnHealthcare, "AI Startup Collate Raises $95 Million To Automate Life Sciences Paperwork," June 3, 2026. Accessed June 2026. https://ramaonhealthcare.com/ai-startup-collate-raises-95-million-to-automate-life-sciences-paperwork/ — Confirms $95M Series B led by Redpoint at ~$1B valuation, total funding $125M.
 [^19]: SiliconANGLE, "Cyera raises $300M at $12B valuation, doubling its worth in five months," June 2, 2026. Accessed June 2026. https://siliconangle.com/2026/06/02/cyera-raises-300m-12b-valuation-doubling-worth-five-months/ — Confirms Redpoint among participants in $300M round led by Evolution Equity Partners.
 [^20]: TechCrunch, "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/ — Confirms $300M round at $12B post-money valuation.
+[^21]: Alex Konrad, "This YC Partner Just Raised $30 Million For An AI Startup Automating Paperwork For Biotech," Forbes, January 13, 2025. Accessed July 2026. https://www.forbes.com/sites/alexkonrad/2025/01/13/yc-surbhi-sarna-raises-30-million-ai-life-sciences/ — Primary source: confirms 2025-01-13 seed announcement, $30M, Redpoint led (Satish Dharmaraj), First Round + Conviction Partners + Y Combinator as participants, >$100M valuation.
+[^22]: Redpoint Ventures portfolio page, "Collate," accessed July 2026. https://www.redpoint.com/companies/collate/ — Firm's own portfolio page confirms Redpoint led Collate's seed round in 2025 with Satish Dharmaraj as partner; describes company as automating "regulatory-documentation workflows using generative AI for diagnostics, medical device and drug-development firms."
+[^23]: Amy Feldman, "AI Startup Collate Raises $95 Million To Automate Life Sciences Paperwork," Forbes InnovationRx, June 3, 2026. Accessed July 2026. https://www.forbes.com/sites/innovationrx/2026/06/03/ai-startup-collate-raises-95-million-to-automate-life-sciences-paperwork/ — Primary source: confirms 2026-06-03 announcement date, $95M Series B, Redpoint led (Satish Dharmaraj, second lead), ~$1B post-money valuation, $125M total raised, both founders Surbhi Sarna and Nate Smith.

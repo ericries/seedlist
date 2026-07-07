@@ -99,7 +99,7 @@ Based on 18 verified investments in the portfolio table below, the following pat
 | QA Wolf | 2022 | Series A | [^13] |
 | Otterize | 2023 | Seed | [^14] |
 | Prequel | 2024 | Seed | [^10] |
-| Serval | 2025 | Series A | [^10] |
+| Serval | 2025-10-21 | Series A ($47M; Redpoint led; Operator Partners participated) | [^10][^17][^18] |
 | Apella | 2026 | Series B | [^10] |
 
 *This table represents approximately 12% of Operator Partners' 144+ total investments. Many entries use founding year or approximate year due to limited public data on exact investment dates.*
@@ -144,3 +144,5 @@ No independently sourced founder testimonials found. Avner has been described on
 [^14]: LinkedIn post by Amit Avner congratulating Otterize on $11.5M seed funding, April 2023. https://my.linkedin.com/posts/amitavner_congrats-otterize-for-launching-with-115m-activity-7052273276517031936-yKDw
 [^15]: CTech (Calcalist), "'I think if you communicate well, everything else is solved,'" interview with Michael Matias, 2021. https://www.calcalistech.com/ctech/articles/0,7340,L-3908665,00.html
 [^16]: AngelList, "Amit Avner," accessed March 2026. https://angel.co/p/amit-avner
+[^17]: Marina Temkin, "Serval raises $47M to bring AI agents to IT service management," TechCrunch, October 21, 2025. Accessed July 2026. https://techcrunch.com/2025/10/21/serval-raises-47-million-to-bring-ai-agent-to-it-service-management/ — Primary source confirming $47M Series A led by Redpoint (Patrick Chase), with First Round, General Catalyst, Box Group participating.
+[^18]: SiliconANGLE, "Serval raises $47M to bring AI-native automation to IT operations," October 21, 2025. Accessed July 2026. https://siliconangle.com/2025/10/21/serval-raises-47m-bring-ai-native-automation-operations/ — Names Operator Partners as syndicate participant.

@@ -76,7 +76,7 @@ Based on a limited sample of verified Chemistry investments (the firm launched i
 |---------|-------|------|--------|--------|
 | Decagon | Series D (participated) | 2026-01-28 | AI / Enterprise Software | [^4][^11][^15] |
 | Assort Health | Follow-on | 2025 | Healthcare AI | [^4] |
-| Serval | Series A | 2025 | AI | [^4] |
+| Serval | Series A ($47M; Redpoint led — Patrick Chase joined; First Round, General Catalyst, Box Group, Bessemer, Chemistry VC, Strike Capital, Sunflower Capital, Operator Partners + angels Sabrina Hahn, Alex Clayton, Colin Zima participated; $52M total) | 2025-10-21 | AI / IT Automation | [^4][^17][^18] |
 | Datacurve | Series A | 2025 | AI/Data Infrastructure | [^10] |
 | ComfyUI | Growth (participated, $30M at $500M valuation) | 2026-04-24 | AI / Generative Media | [^12][^16] |
 | Fathom Therapeutics | Series A | 2026-04-27 | Biotech / AI Drug Discovery | [^13] |
@@ -125,3 +125,5 @@ Note: The above founder quotes are sourced from Chemistry's own website and shou
 [^15]: Bloomberg, "AI Customer Support Startup Decagon Valued at $4.5 Billion," January 28, 2026. https://www.bloomberg.com/news/articles/2026-01-28/ai-customer-support-startup-decagon-valued-at-4-5-billion — Decagon's $250M Series D announced January 28, 2026 was co-led by Coatue Management and Index Ventures with ChemistryVC, Definition Capital, and Starwood Capital joining as new investors; existing backers a16z, Accel, Bain Capital Ventures, and Ribbit Capital continued participation. Cross-referenced with Decagon blog, "Decagon's $250 million commitment to the AI concierge future," January 28, 2026. https://decagon.ai/resources/series-d-announcement
 
 [^16]: Finsmes, "ComfyUI Raises $30M Financing, At $500M Valuation," April 2026. https://www.finsmes.com/2026/04/comfyui-raises-30m-financing-at-500m-valuation.html — ComfyUI's April 24, 2026 $30M growth round at $500M valuation was led by Craft Ventures with Pace Capital, Chemistry, TruArrow, and others participating. Chemistry's prior late-2024 Series A in ComfyUI was approximately $19M.
+[^17]: Marina Temkin, "Serval raises $47M to bring AI agents to IT service management," TechCrunch, October 21, 2025. Accessed July 2026. https://techcrunch.com/2025/10/21/serval-raises-47-million-to-bring-ai-agent-to-it-service-management/ — Primary source: confirms 2025-10-21 date, $47M Series A, Redpoint lead, First Round/General Catalyst/Box Group participation, CEO Jake Stauch quotes.
+[^18]: SiliconANGLE, "Serval raises $47M to bring AI-native automation to IT operations," October 21, 2025. Accessed July 2026. https://siliconangle.com/2025/10/21/serval-raises-47m-bring-ai-native-automation-operations/ — Explicitly names Operator Partners plus Bessemer, Chemistry VC, Strike Capital, Sunflower Capital as syndicate participants; quotes Patrick Chase of Redpoint and Vernon Man of Perplexity.

@@ -88,7 +88,7 @@ This table represents a sample of verified investments. Operator Partners report
 |---------|-------|------|--------|--------|
 | Sandstone | Series A | 2026-06-09 | Legal Tech/AI | [^38][^39][^40] |
 | Apella | Series B | 2026-01-08 | Healthcare/AI | [^20] |
-| Serval | Series A | 2025-10-21 | IT Automation/AI | [^24] |
+| Serval | Series A ($47M; Redpoint led — Patrick Chase joined; First Round, General Catalyst, Box Group, Bessemer, Chemistry VC, Strike Capital, Sunflower Capital, Operator Partners + angels Sabrina Hahn, Alex Clayton, Colin Zima participated; $52M total raised) | 2025-10-21 | IT Automation/AI | [^24][^41][^42] |
 | Estuary | Series A | 2025-10-21 | Data Infrastructure | [^25] |
 | Composio | Series A | 2025-07-22 | Developer Tools/AI | [^26] |
 | 1Fort | Series A | 2025-04-17 | Cybersecurity | [^27] |
@@ -184,3 +184,5 @@ No independently sourced founder testimonials found. The firm's website describe
 [^38]: Marina Temkin, "Sandstone raises $30M to bring AI to in-house legal teams," TechCrunch, June 9, 2026, accessed June 2026. https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/
 [^39]: "Sandstone Raises $30m For AI-Native Inhouse Teams," Artificial Lawyer, June 9, 2026, accessed June 2026. https://www.artificiallawyer.com/2026/06/09/sandstone-raises-30m-for-ai-native-inhouse-teams/
 [^40]: "Sandstone Raises $30 Million to Expand Legal Tech Offering," PYMNTS, June 9, 2026, accessed June 2026. https://www.pymnts.com/news/investment-tracker/2026/sandstone-raises-30-million-to-expand-legal-tech-offering/
+[^41]: "Serval raises $47M to bring AI-native automation to IT operations," SiliconANGLE, October 21, 2025, accessed July 2026. https://siliconangle.com/2025/10/21/serval-raises-47m-bring-ai-native-automation-operations/
+[^42]: "Announcing $52M Total Raised to Deploy AI Agents for IT," Serval company news, October 21, 2025, accessed July 2026. https://www.serval.com/serval-news/series-a

@@ -296,7 +296,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Greenboard | W24 | 2024 | Regtech / Compliance AI | Private (Series A 2026-05-12) [^38] |
 | Lucis | S25 | 2025 | Healthtech / Preventive Health AI | Private (Series A $20M 2026-05-26) [^39] |
 | Didit | S22 | 2022 | Fintech / Identity Verification | Private (Seed extension $6M 2026-05-26) [^39] |
-| Collate | n/a | 2024 | Healthtech / Life Sciences AI | Private ($1B post-money, Series B 2026-06-03; YC participated in $30M Seed 2025-01-21) [^41][^42] |
+| Collate | Seed ($30M; Redpoint led at >$100M post-money; First Round, Conviction Partners, YC participated) | 2025-01-13 | Healthtech / Life Sciences AI | Private (Series B $95M at ~$1B post-money, 2026-06-03, Redpoint led — YC did NOT follow on) [^41][^42][^64][^65] |
 | Stepful | W21 | 2021 | Healthtech / Workforce Training | Private (Series C $55M 2026-06-08, Oak HC/FT-led; YC follow-on) [^43][^44][^45] |
 | Drafted | n/a | 2025-2026 | AI / Proptech / Generative Design | Private ($16M Seed 2026-05-29, Buckley Ventures-led; YC participated) [^46][^47][^48] |
 | SyntheticFi | S23 | 2023 | Fintech / RIA Tech | Private ($13M Venture round 2026-06-09; YC participated alongside Social Leverage, NextGen VP/Brown Advisory, The Compound Capital Fund) [^49][^50][^51] |
@@ -491,3 +491,5 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 [^62]: SiliconANGLE, "Warp lands $60M to automate payroll, compliance and HR with AI," June 25, 2026. Accessed June 2026. https://siliconangle.com/2026/06/25/warp-lands-60m-automate-payroll-compliance-hr-ai/ — Independent confirmation Y Combinator participated alongside Peak XV, Sound Ventures, and HOF Capital in Warp's $60M Series B led by Battery Ventures.
 
 [^63]: Axios Pro, "Exclusive: Warp raises $60m to go up against ADP, Rippling," June 25, 2026. Accessed June 2026. https://www.axios.com/pro/all-deals/2026/06/25/warp-60-million-workday-rippling — Third independent confirmation of YC participation in Warp's $60M Series B.
+[^64]: Alex Konrad, "This YC Partner Just Raised $30 Million For An AI Startup Automating Paperwork For Biotech," Forbes, January 13, 2025. Accessed July 2026. https://www.forbes.com/sites/alexkonrad/2025/01/13/yc-surbhi-sarna-raises-30-million-ai-life-sciences/ — Confirms 2025-01-13 seed announcement, $30M, Redpoint led, First Round + Conviction Partners + Y Combinator as participants, >$100M valuation.
+[^65]: Amy Feldman, "AI Startup Collate Raises $95 Million To Automate Life Sciences Paperwork," Forbes InnovationRx, June 3, 2026. Accessed July 2026. https://www.forbes.com/sites/innovationrx/2026/06/03/ai-startup-collate-raises-95-million-to-automate-life-sciences-paperwork/ — Confirms 2026-06-03 announcement date, $95M Series B, Redpoint led, ~$1B valuation, $125M total, founders Surbhi Sarna and Nate Smith. Y Combinator did NOT follow on into the Series B.

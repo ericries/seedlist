@@ -159,7 +159,7 @@ vague_facts:
   type: unknown_value
   status: unresolvable
   resolved: '2026-07-06'
-  resolution_note: '1517 Fund NOT named in any primary press for the FOSSA seed (Feb 23, 2017, $2.2M). TechCrunch, PR Newswire, FOSSA blog, and citybizlist all name only Bain Capital Ventures (lead) plus 5 angels (Marc Benioff, Steve Chen, Jaan Tallinn, Amr Awadallah, Justin Mateen). Kevin Wang (FOSSA CEO) was a 2013 Thiel Fellow, which is likely how the 1517 attribution originated (aggregator-only). Row left unchanged; same aggregator-only pattern as hanabi-capital.md ArchiBoost/Cerebras/Cursor/Brinc/Cartesia/ClickHouse.'
+  resolution_note: 1517 Fund NOT named in any primary press for the FOSSA seed (Feb 23, 2017, $2.2M). TechCrunch, PR Newswire, FOSSA blog, and citybizlist all name only Bain Capital Ventures (lead) plus 5 angels (Marc Benioff, Steve Chen, Jaan Tallinn, Amr Awadallah, Justin Mateen). Kevin Wang (FOSSA CEO) was a 2013 Thiel Fellow, which is likely how the 1517 attribution originated (aggregator-only). Row left unchanged; same aggregator-only pattern as hanabi-capital.md ArchiBoost/Cerebras/Cursor/Brinc/Cartesia/ClickHouse.
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Atom Computing
@@ -181,7 +181,7 @@ vague_facts:
   type: unknown_value
   status: unresolvable
   resolved: '2026-07-06'
-  resolution_note: '1517 Fund NOT named in any primary press for Fountain (formerly OnboardIQ) seed round. Company joined Y Combinator S15 batch; Crunchbase lists a May 18, 2015 seed round; Origin Ventures later led the Series A (documented on their blog). No primary source (TechCrunch, PRN, Origin Ventures blog, YC blog) names 1517 Fund as a Fountain investor — only aggregators (Crunchbase [^33], Tracxn) do. Same aggregator-only participation pattern as FOSSA and hanabi-capital.md flagged cases. Row left unchanged.'
+  resolution_note: 1517 Fund NOT named in any primary press for Fountain (formerly OnboardIQ) seed round. Company joined Y Combinator S15 batch; Crunchbase lists a May 18, 2015 seed round; Origin Ventures later led the Series A (documented on their blog). No primary source (TechCrunch, PRN, Origin Ventures blog, YC blog) names 1517 Fund as a Fountain investor — only aggregators (Crunchbase [^33], Tracxn) do. Same aggregator-only participation pattern as FOSSA and hanabi-capital.md flagged cases. Row left unchanged.
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Cents
@@ -1116,7 +1116,8 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-06
-  resolution_note: 'Fact-spec sweep 2026-07-06: tightened Braintree row on accel.md from "Series A (USD 34M, led) | 2011" to "Series A (USD 34M, led — Braintree first institutional round after four years bootstrapped; Ryan Sweeney joined board) | 2011-06-29" via 3 primary sources — PR Newswire (existing [^33]), TechCrunch (existing [^34], Leena Rao), and Institutional Investor (new [^117]). All 3 confirm the June 29, 2011 announcement date, the USD 34M Series A led by Accel (only institutional investor named), and Ryan Sweeney joining Braintree board. Named quotes preserved: Ryan Sweeney (Accel) — "Braintree caught our attention when we realized the vast majority of our portfolio companies were turning to them for payments"; Bryan Johnson (Braintree founder & CEO) — "I founded Braintree in 2007 with the objective of filling the gap between what customers were asking for and what the payment industry was providing". Braintree bootstrapped 2007-2011 before this first institutional round. No braintree.md startup profile exists to update.'
+  resolution_note: 'Fact-spec sweep 2026-07-06: tightened Braintree row on accel.md from "Series A (USD 34M, led) | 2011" to "Series A (USD 34M, led — Braintree first institutional round after four years bootstrapped; Ryan Sweeney joined board) | 2011-06-29" via 3 primary sources — PR Newswire (existing [^33]), TechCrunch (existing [^34], Leena Rao), and Institutional Investor (new [^117]). All 3 confirm the June 29, 2011 announcement date, the USD 34M Series A led by Accel (only institutional investor named), and Ryan Sweeney joining Braintree board. Named quotes preserved: Ryan Sweeney (Accel) — "Braintree caught our attention when we realized the vast majority of our portfolio companies were turning to them for payments"; Bryan Johnson (Braintree founder & CEO) — "I founded Braintree in 2007 with the objective of filling the gap between what customers were asking for and what the payment industry was providing". Braintree bootstrapped 2007-2011 before this first institutional round. No
+    braintree.md startup profile exists to update.'
 - profile: firms/accel
   profile_name: Accel
   company: Supercell
@@ -9138,7 +9139,10 @@ vague_facts:
   line: '| Speechify | Early | ~2021 | Education/AI | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  investigated: '2026-07-06'
+  resolved: '2026-07-06'
+  resolution_note: Speechify row on forerunner-ventures.md left as "Early | ~2021". EXTENSIVELY searched for primary sources but could NOT verify round type, exact date, amount, lead, or syndicate. Forerunner own portfolio page (forerunnerventures.com/investments/speechify) confirms 2021 but discloses no round details. Speechify own newsroom returns 404 for the funding-round announcement URL that appears in Google search index. NO contemporaneous TechCrunch/Fortune/Forbes/Bloomberg/WSJ coverage found. Aggregators (Crunchbase/CB Insights/Tracxn) list only Jan 1 2021 placeholder dates and undisclosed amounts. Per anti-hallucination rules (never fabricate, never guess, when in doubt leave it out) the row stays at year-only. Speechify has been publicly opaque about its cap table — multiple third-party interviews reference "undisclosed" round amounts. Recommend removing this fact from active queue.
 - profile: firms/forerunner-ventures
   profile_name: Forerunner Ventures
   company: Daydream
@@ -20724,7 +20728,10 @@ vague_facts:
   line: '| Serval | Series A | 2025-10-21 | IT Automation/AI | [^24] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  investigated: '2026-07-06'
+  resolved: '2026-07-06'
+  resolution_note: 'Serval Series A tightened from year-only to 2025-10-21 $47M Redpoint-led (Patrick Chase joined; First Round, General Catalyst, Box Group, Bessemer, Chemistry VC, Strike Capital, Sunflower Capital, Operator Partners + angels Sabrina Hahn/Alex Clayton/Colin Zima participated; $52M total raised). Primary sources: TechCrunch [^24] (existing), SiliconANGLE [^41] (new), Serval company news [^42] (new). Parallel tightening on chemistry-vc.md (added [^17][^18]), amit-avner.md (added [^17][^18]).'
 - profile: firms/operator-partners
   profile_name: Operator Partners
   company: Estuary
@@ -30394,7 +30401,10 @@ vague_facts:
   line: '| Collate | n/a | 2024 | Healthtech / Life Sciences AI | Private ($1B post-money, Series B 2026-06-03; YC participated i'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  investigated: '2026-07-06'
+  resolved: '2026-07-06'
+  resolution_note: 'Collate row tightened from "n/a | 2024" to "Seed ($30M; Redpoint led at >$100M post-money; First Round, Conviction Partners, YC participated) | 2025-01-13". YC participated as follow-on investor in seed round only — YC did NOT follow on into 2026-06-03 $95M Series B (Redpoint led again). Corrected date from 2025-01-21 (American Bazaar follow-up article) to 2025-01-13 (Forbes exclusive by Alex Konrad + Surbhi Sarna X post = actual announcement date). CORRECTED: Collate is NOT a YC batch company — founders Surbhi Sarna (ex-YC Group Partner) and Nate Smith (ex-YC visiting partner) started the company and YC invested as a direct investor. Primary sources: Forbes Konrad 2025-01-13 [^64] (new), Forbes Feldman 2026-06-03 [^65] (new). Parallel updates: collate.md (seed date corrected 2025-01-21→2025-01-13; frontmatter dates updated; added Forbes [^6][^7]), redpoint-ventures.md (both Collate rows tightened; added Forbes [^21][^23] + Redpoint own portfolio page [^22]).'
 - profile: firms/y-combinator
   profile_name: Y Combinator
   company: Drafted
@@ -42576,7 +42586,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-06
-  resolution_note: 'Tightened row on ben-kohlmann.md from "2023 | Series A ($55M, Caffeinated Capital led)" to "2023-10-09 | Series A ($55M; Caffeinated Capital led; 8VC, a16z, Lightspeed, Point72, Silent, Overmatch, Ensemble, Cubit, USIT participated)" via TechCrunch 2023-10-09 [^9] (existing). Parallel tightening on saronic.md added Series A row to Funding History with new [^4] TechCrunch citation.'
+  resolution_note: Tightened row on ben-kohlmann.md from "2023 | Series A ($55M, Caffeinated Capital led)" to "2023-10-09 | Series A ($55M; Caffeinated Capital led; 8VC, a16z, Lightspeed, Point72, Silent, Overmatch, Ensemble, Cubit, USIT participated)" via TechCrunch 2023-10-09 [^9] (existing). Parallel tightening on saronic.md added Series A row to Funding History with new [^4] TechCrunch citation.
 - profile: investors/ben-kohlmann
   profile_name: Ben Kohlmann
   company: Hadrian
@@ -172605,7 +172615,10 @@ vague_facts:
   line: '| Collate | n/a | 2024 | Healthtech / Life Sciences AI | Private ($1B post-money, Series B 2026-06-03; YC participated i'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  investigated: '2026-07-06'
+  resolved: '2026-07-06'
+  resolution_note: 'Collate row tightened from "n/a | 2024" to "Seed ($30M; Redpoint led at >$100M post-money; First Round, Conviction Partners, YC participated) | 2025-01-13". YC participated as follow-on investor in seed round only — YC did NOT follow on into 2026-06-03 $95M Series B (Redpoint led again). Corrected date from 2025-01-21 (American Bazaar follow-up article) to 2025-01-13 (Forbes exclusive by Alex Konrad + Surbhi Sarna X post = actual announcement date). CORRECTED: Collate is NOT a YC batch company — founders Surbhi Sarna (ex-YC Group Partner) and Nate Smith (ex-YC visiting partner) started the company and YC invested as a direct investor. Primary sources: Forbes Konrad 2025-01-13 [^64] (new), Forbes Feldman 2026-06-03 [^65] (new). Parallel updates: collate.md (seed date corrected 2025-01-21→2025-01-13; frontmatter dates updated; added Forbes [^6][^7]), redpoint-ventures.md (both Collate rows tightened; added Forbes [^21][^23] + Redpoint own portfolio page [^22]).'
 - profile: firms/y-combinator
   profile_name: Y Combinator
   company: SyntheticFi
@@ -175547,7 +175560,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-06
-  resolution_note: 'See parallel unknown_value resolution — year tightened to 2023-10-09 via TechCrunch (existing [^9]).'
+  resolution_note: See parallel unknown_value resolution — year tightened to 2023-10-09 via TechCrunch (existing [^9]).
 - profile: investors/ben-kohlmann
   profile_name: Ben Kohlmann
   company: Hadrian
@@ -175559,7 +175572,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-06
-  resolution_note: 'See parallel unknown_value resolution — CORRECTED year from ~2023 to 2024-02-21 via Cooley LLP [^13], Mondaq [^14], Newcomer.co [^15]. Cubit''s first Hadrian check was Series B Feb 2024.'
+  resolution_note: See parallel unknown_value resolution — CORRECTED year from ~2023 to 2024-02-21 via Cooley LLP [^13], Mondaq [^14], Newcomer.co [^15]. Cubit's first Hadrian check was Series B Feb 2024.
 - profile: investors/ben-kohlmann
   profile_name: Ben Kohlmann
   company: Venus Aerospace
@@ -175631,7 +175644,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-06
-  resolution_note: 'See parallel unknown_value resolution — year tightened to 2024-11-12 via PR Newswire [^16], Vatn Systems own website [^17], ROV Planet [^18].'
+  resolution_note: See parallel unknown_value resolution — year tightened to 2024-11-12 via PR Newswire [^16], Vatn Systems own website [^17], ROV Planet [^18].
 - profile: investors/ben-kohlmann
   profile_name: Ben Kohlmann
   company: Chariot Defense
@@ -211535,7 +211548,10 @@ vague_facts:
   line: '| Speechify | Early | ~2021 | Education/AI | [^1] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: unresolvable
+  investigated: '2026-07-06'
+  resolved: '2026-07-06'
+  resolution_note: Speechify row on forerunner-ventures.md left as "Early | ~2021". EXTENSIVELY searched for primary sources but could NOT verify round type, exact date, amount, lead, or syndicate. Forerunner own portfolio page (forerunnerventures.com/investments/speechify) confirms 2021 but discloses no round details. Speechify own newsroom returns 404 for the funding-round announcement URL that appears in Google search index. NO contemporaneous TechCrunch/Fortune/Forbes/Bloomberg/WSJ coverage found. Aggregators (Crunchbase/CB Insights/Tracxn) list only Jan 1 2021 placeholder dates and undisclosed amounts. Per anti-hallucination rules (never fabricate, never guess, when in doubt leave it out) the row stays at year-only. Speechify has been publicly opaque about its cap table — multiple third-party interviews reference "undisclosed" round amounts. Recommend removing this fact from active queue.
 - profile: firms/forerunner-ventures
   profile_name: Forerunner Ventures
   company: Wonder
