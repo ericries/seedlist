@@ -164102,7 +164102,9 @@ vague_facts:
     [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec sweep 2026-07-07: tightened Amazon Investment (Tranche 1) row from "Sep 2023 | $1.25B | N/A | Amazon | N/A [^8]" to "2023-09-25 | $1.25B (initial tranche of announced up-to-$4B commitment) | Not disclosed (strategic convertible) | Amazon | — [^8][^34][^35][^36]" via 3 independent primary sources: (1) Anthropic own newsroom "Expanding access to safer AI with Amazon" [^34] dated 2023-09-25, primary company announcement of the strategic collaboration; (2) Amazon Press Center joint announcement "Amazon and Anthropic Announce Strategic Collaboration to Advance Generative AI" [^35] dated 2023-09-25; (3) Orrick (Anthropic''s legal advisor) news release [^36] confirming 2023-09-25 announcement and $1.25B initial tranche with option for up to $2.75B additional. Existing TechCrunch [^8] (2023-09-25) retained. Valuation genuinely not disclosed — this was a convertible/strategic investment structure, not priced equity.'
 - profile: startups/anthropic
   profile_name: Anthropic
   company: Google Investment (Extension)
@@ -168040,7 +168042,9 @@ vague_facts:
   line: '| 2025 | Series A | $6.2B | Jeff Bezos | Undisclosed [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec sweep 2026-07-07: tightened Prometheus initial funding row from "2025 | Series A | $6.2B | Jeff Bezos | Undisclosed [^2]" to "2025-11-17 | Initial funding (publicly reported by NYT) | $6.2B | Jeff Bezos (primary funder; other participants not publicly named) | Not publicly disclosed [^6][^7][^8]" via 3 independent primary sources: (1) Fortune [^6] dated 2025-11-17 citing NYT reporting — confirms $6.2B initial funding at launch, Bezos providing much of it personally, Vik Bajaj co-founder/co-CEO; (2) Built In [^7] dated 2025-11-17, sourcing NYT — confirms same details, no additional lead investors named; (3) DataCenterDynamics [^8] dated 2025-11-17 — third independent contemporaneous confirmation. Round label corrected from "Series A" to "Initial funding (publicly reported by NYT)" — the $6.2B was not a traditional priced Series A; it was Prometheus'' launch capitalization publicly reported by NYT on 2025-11-17. Other participants deliberately not disclosed at launch; company was in stealth. Existing Benzinga [^2] citation (about Series B) was misapplied to the Series A row; replaced with three dedicated contemporaneous primary sources for the November 2025 launch reveal.'
 - profile: startups/pronto
   profile_name: Pronto
   company: 2026-03
@@ -168513,7 +168517,9 @@ vague_facts:
   line: '| 2024 | Series C | $600M | N/A | 8VC, Andreessen Horowitz, others [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec sweep 2026-07-07: tightened Saronic Series C row from "2024 | Series C | $600M | N/A | 8VC, Andreessen Horowitz, others [^1]" to "2025-02-18 | Series C | $600M at $4B post-money | Elad Gil (Gil Capital) | General Catalyst (new investor); Andreessen Horowitz, Caffeinated Capital, 8VC (existing) [^5][^6][^7]" via 3 independent primary sources: (1) Saronic PR Newswire company press release [^5] dated 2025-02-18 — primary company announcement confirming Elad Gil-led $600M at $4B valuation with General Catalyst (new) and a16z, Caffeinated Capital, 8VC (existing); Dino Mavrookas CEO quote on Port Alpha shipyard; (2) Bloomberg Government (BGov) [^6] dated 2025-02-18 — tier-1 contemporaneous press confirming same details; (3) Pulse 2 [^7] dated 2025-02-18 — independent third confirmation of amount, valuation, lead, and syndicate. CORRECTED: year was wrong (2025, not 2024) — the round was announced February 18, 2025, seven months after Saronic hit unicorn status in July 2024. Lead was NOT unknown — Elad Gil personally led. Existing CNBC [^1] (2026-03-31 Series D coverage) retained for the $4B post-Series C valuation corroboration mentioned in the Series D article.'
 - profile: startups/scale-ai
   profile_name: Scale AI
   company: Seed
@@ -203669,7 +203675,9 @@ vague_facts:
   line: '| 2025 | Series A | $6.2B | Jeff Bezos | Undisclosed [^2] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec sweep 2026-07-07: date column tightened from year-only "2025" to specific "2025-11-17" (public reveal per NYT reporting) via Fortune [^6], Built In [^7], and DataCenterDynamics [^8] — all three contemporaneous 2025-11-17 sources confirm the November 17, 2025 NYT-reported launch date. See parallel resolution above on the same row (Prometheus company: 2025, type: unknown_value).'
 - profile: startups/pumpkinseed
   profile_name: Pumpkinseed
   company: '2023'
@@ -203699,7 +203707,9 @@ vague_facts:
   line: '| 2024 | Series C | $600M | N/A | 8VC, Andreessen Horowitz, others [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec sweep 2026-07-07: date column tightened from year-only "2024" to specific "2025-02-18" (year was wrong: round announced Feb 18, 2025, not 2024). Verified via Saronic PR Newswire press release [^5], BGov [^6], Pulse 2 [^7] — all three dated 2025-02-18. See parallel resolution above on the same row (Saronic company: 2024, type: unknown_value) for full details.'
 - profile: startups/slash
   profile_name: Slash
   company: ~2024

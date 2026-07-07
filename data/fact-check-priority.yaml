@@ -1,4 +1,22 @@
 priority:
+- slug: saronic
+  type: startup
+  reason: 'Fact-spec sweep 2026-07-07: tightened Series C row (year-only 2024 with lead N/A → 2025-02-18 $600M at $4B post-money led by Elad Gil, with General Catalyst new + a16z/Caffeinated Capital/8VC existing) via 3 primary sources (PR Newswire company release, BGov, Pulse 2). Corrected year (was wrong — round was Feb 2025, not 2024). Added citations [^5][^6][^7].'
+  added: 2026-07-07
+  status: resolved
+  resolved: 2026-07-07
+- slug: anthropic
+  type: startup
+  reason: 'Fact-spec sweep 2026-07-07: tightened Amazon Investment (Tranche 1) row (Sep 2023 with lead N/A → 2023-09-25 $1.25B initial tranche of announced up-to-$4B commitment; valuation genuinely undisclosed strategic convertible; Amazon as counterparty) via 3 primary sources (Anthropic newsroom [^34], Amazon Press Center [^35], Orrick legal advisor [^36]). Retained existing TechCrunch [^8] (2023-09-25).'
+  added: 2026-07-07
+  status: resolved
+  resolved: 2026-07-07
+- slug: prometheus
+  type: startup
+  reason: 'Fact-spec sweep 2026-07-07: tightened initial funding row (year-only 2025 with Undisclosed co-investors → 2025-11-17 initial funding publicly reported by NYT; $6.2B; Jeff Bezos as primary funder; other participants not publicly named) via 3 contemporaneous primary sources (Fortune [^6], Built In [^7], DataCenterDynamics [^8] — all 2025-11-17 citing NYT). Round label corrected from "Series A" (misleading) to "Initial funding (publicly reported by NYT)". Replaced misapplied Benzinga [^2] (Series B coverage) with 3 dedicated sources for the November 2025 launch reveal.'
+  added: 2026-07-07
+  status: resolved
+  resolved: 2026-07-07
 - slug: altimeter-capital
   type: firm
   reason: 'Fact-spec sweep 2026-07-06: tightened Anduril (Growth ~2023 → Series F 2024-08-07 $1.5B at $14B val, Sands Capital + Founders Fund co-led, Altimeter existing investor), K2 Space (Growth ~2024 → split into Series B 2025-02-13 $110M co-led with Lightspeed AND Series C 2025-12-11 $250M at $3B val, Redpoint led), and Parloa (Series B lead ~2023 → 2024-04-24 $66M/€62M lead; Series C ~2024 → 2025-05-06 $120M at $1B val co-led with Durable Capital + General Catalyst) on altimeter-capital.md via 3+ primary sources each. Parallel updates: anduril.md and anduril-industries.md Funding History date tightening (Aug 2024 → 2024-08-07); first-round-capital.md K2 Space Seed ~2023 → 2023-03-10.'
