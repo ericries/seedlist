@@ -66,4 +66,4 @@ CEO Reza Farahani framed the company's ambition around pharmaceutical timelines:
 
 [^1]: WebWire, "Katalyze AI Raises $10.5M to Build the Agentic Operating System for Pharmaceutical Companies," July 6, 2026. Accessed July 2026. https://www.webwire.com/ViewPressRel.asp?aId=357045
 [^2]: BetaKit, "Katalyze AI thinks the future of pharma operations is teams of AI agents," July 6, 2026. Accessed July 2026. https://betakit.com/katalyze-ai-thinks-the-future-of-pharma-operations-is-teams-of-ai-agents/
-[^3]: Axios Pro Rata deal listing, July 6, 2026. Accessed July 2026. https://www.axios.com/newsletters/axios-pro-rata
+[^3]: FinSMEs, "Katalyze AI Raises $10.5M in Seed Funding," July 6, 2026. Accessed July 2026. https://www.finsmes.com/2026/07/katalyze-ai-raises-10-5m-in-seed-funding.html — Third independent primary source confirming $10.5M seed led by Bonfire Ventures with participation from Inovia Capital, Ripple Ventures, Alumni Ventures, and angel investors Gokul Rajaram and Farzad Soleimani.
