@@ -8039,7 +8039,7 @@
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
       "type": "curated",
-      "size": 28,
+      "size": 29,
       "members": [
         {
           "slug": "angela-tran",
@@ -8175,6 +8175,11 @@
           "slug": "umesh-padval",
           "name": "Umesh Padval",
           "firm": "thomvest-ventures"
+        },
+        {
+          "slug": "jim-kim",
+          "name": "Jim Kim",
+          "firm": "builders-vc"
         }
       ]
     },
@@ -8592,7 +8597,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 27,
+      "size": 29,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8724,6 +8729,16 @@
           "slug": "ujwal-sutaria",
           "name": "Ujwal Sutaria",
           "firm": "tdv-partners"
+        },
+        {
+          "slug": "kevin-colleran",
+          "name": "Kevin Colleran",
+          "firm": "slow-ventures"
+        },
+        {
+          "slug": "will-quist",
+          "name": "Will Quist",
+          "firm": "slow-ventures"
         }
       ]
     },
@@ -9519,7 +9534,7 @@
       "name": "The Biotech Believers",
       "tagline": "From CRISPR to synthetic biology to computational drug discovery. They bet on the biological century.",
       "type": "curated",
-      "size": 11,
+      "size": 12,
       "members": [
         {
           "slug": "eddie-eltoukhy",
@@ -9574,6 +9589,11 @@
           "slug": "ranjan-pai",
           "name": "Ranjan Pai",
           "firm": "aarin-capital"
+        },
+        {
+          "slug": "meredith-fisher",
+          "name": "Meredith Fisher",
+          "firm": "mass-general-brigham-ventures"
         }
       ]
     },
@@ -10694,7 +10714,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 57,
+      "size": 58,
       "members": [
         {
           "slug": "aileen-lee",
@@ -10973,6 +10993,11 @@
           "slug": "juliette-bolea",
           "name": "Juliette Bolea",
           "firm": "sound-ventures"
+        },
+        {
+          "slug": "meredith-fisher",
+          "name": "Meredith Fisher",
+          "firm": "mass-general-brigham-ventures"
         }
       ]
     },
