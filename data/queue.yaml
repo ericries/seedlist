@@ -36277,3 +36277,9 @@ queue:
   firm: Ognomy Sleep
   discovered_from: ognomy-sleep
   source: Founder & CEO of Ognomy Sleep — sleep medicine physician
+- name: Delft Enterprises
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: magiqware

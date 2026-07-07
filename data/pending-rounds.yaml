@@ -145,6 +145,14 @@ pending_rounds:
   parsed_amount: $2.8B
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/6/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-6-2026/
+  source: alleywatch
+  date_found: '2026-07-06'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: after the micromobility company raised $167M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -832,12 +840,4 @@ pending_rounds:
   parsed_company: Sail Research
   parsed_amount: $80M
   parsed_round: Seed And Series A
-  status: pending
-- title: Warp raised $60M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Warp
-  parsed_amount: $60M
-  parsed_round: Series B
   status: pending
