@@ -36241,3 +36241,39 @@ queue:
   added: '2026-03-17'
   discovered_from: meredith-fisher
   source: Nocion Therapeutics Series B extension participant
+- name: Catalyst Investors
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ognomy-sleep
+  source: Led $20M Series A in Ognomy Sleep 2026-06-30
+- name: Impellent Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ognomy-sleep
+  source: Co-investor in Ognomy Sleep Series A 2026-06-30
+- name: LaunchNY
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ognomy-sleep
+  source: Co-investor in Ognomy Sleep Series A 2026-06-30
+- name: Upstate Biotech Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ognomy-sleep
+  source: Co-investor in Ognomy Sleep Series A 2026-06-30
+- name: Daniel Rifkin
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Ognomy Sleep
+  discovered_from: ognomy-sleep
+  source: Founder & CEO of Ognomy Sleep — sleep medicine physician
