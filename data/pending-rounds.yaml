@@ -38,6 +38,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: London-based HIVE raises €13.1 million to build “silicon brain” for industrial
+    machines
+  url: https://www.eu-startups.com/2026/07/london-based-hive-raises-e13-1-million-to-build-silicon-brain-for-industrial-machines/
+  source: eu-startups
+  date_found: '2026-07-07'
+  parsed_company: London-based HIVE
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Smart glasses maker Even Realities hits $1B valuation with $150M funding
     led by Meituan, Tencent
   url: https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/
@@ -135,6 +144,15 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-07-06'
   parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: UK startup Worldmodeldata raises €8 million to turn video games into training
+    data for physical AI
+  url: https://www.eu-startups.com/2026/07/uk-startup-worldmodeldata-raises-e8-million-to-turn-video-games-into-training-data-for-physical-ai/
+  source: eu-startups
+  date_found: '2026-07-06'
+  parsed_company: UK startup Worldmodeldata
   parsed_amount: null
   parsed_round: null
   status: pending
