@@ -1,4 +1,10 @@
 priority:
+- slug: abstract-ventures
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-07: tightened Legora row on abstract-ventures.md portfolio (was "Round undisclosed | ~2024" → now inline discloses both plausible Legora rounds Seed 2024-05-16 [Benchmark-led, $10.5M] and Series A 2024-07-17 [Redpoint-led, $25M] with explicit note that Abstract is NOT named in either primary announcement) via 3 primary sources (Legora company blog announcing $25M Series A [^29-adjacent], Redpoint portfolio page, Sacra funding history). Cherry (patient financing / medical BNPL, ~2023 seed row) and SpaceX (~2023 Early row) marked unresolvable — both are aggregator-only listings on [^8] F4 Fund without any primary source naming Abstract in any announced round; Cherry Series B date genuinely obfuscated in public sources; SpaceX position most likely secondary-tender purchase (Abstract not named in any SpaceX tender coverage).'
+  added: 2026-07-07
+  status: resolved
+  resolved: 2026-07-07
 - slug: saronic
   type: startup
   reason: 'Fact-spec sweep 2026-07-07: tightened Series C row (year-only 2024 with lead N/A → 2025-02-18 $600M at $4B post-money led by Elad Gil, with General Catalyst new + a16z/Caffeinated Capital/8VC existing) via 3 primary sources (PR Newswire company release, BGov, Pulse 2). Corrected year (was wrong — round was Feb 2025, not 2024). Added citations [^5][^6][^7].'

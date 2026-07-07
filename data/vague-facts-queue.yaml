@@ -170031,7 +170031,19 @@ vague_facts:
   line: '| Cherry | Seed | ~2023 | Fintech | Active [^8] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec sweep 2026-07-07 — Cherry Technologies (withcherry.com,
+    patient-financing / medical BNPL, founded 2016, SF) publicly-named investors are
+    DCM, Kleiner Perkins, and Core VC per multiple aggregator listings; Crunchbase
+    obfuscates specific round dates behind paywall. Abstract Ventures appears only
+    on the F4 Fund aggregator listing [^8] as an Abstract portfolio company — no
+    primary press (TechCrunch, company blog, PR Newswire) names Abstract in any
+    disclosed Cherry round. The Sept 2022 Series B (undisclosed amount per Crunchbase)
+    is the most likely round of Abstract participation but cannot be independently
+    verified. Cross River provided a $50M debt facility March 2022, which is not
+    equity. Row left as ~2023 with existing [^8] aggregator citation per anti-hallucination
+    rule ("when in doubt, leave it out").'
 - profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   company: SpaceX
@@ -170041,26 +170053,45 @@ vague_facts:
   line: '| SpaceX | Early | ~2023 | Frontier Tech | Active [^8] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec sweep 2026-07-07 — Abstract Ventures'' SpaceX position
+    appears only on the F4 Fund aggregator listing [^8]; SpaceX is a private late-stage
+    company with rounds/tenders that do not publicly name small seed-fund participants.
+    Abstract''s SpaceX exposure is most likely via secondary market tender-offer purchase
+    (SpaceX ran tenders at $150B in Dec 2023, $210B in June 2024, $350B in Dec 2024,
+    $400B in July 2025, $800B in Dec 2025) or via an SPV. Ramtin Naimi is not named
+    in any SpaceX tender press coverage. Per anti-hallucination rule, row left as
+    "Early | ~2023" with existing [^8] aggregator citation; specific transaction date
+    unverifiable from primary sources.'
 - profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   company: Legora
   section: Portfolio
   column: 2
   value: ~2024
-  line: '| Legora | Round undisclosed | ~2024 | AI/Legal Tech | Active [^6][^29] |'
+  line: '| Legora | Round undisclosed (participation per portfolio listing; Abstract
+    not named in announced Seed 2024-05-16 [Benchmark-led, $10.5M] or Series A 2024-07-17
+    [Redpoint-led, $25M]) | 2024 | AI/Legal Tech | Active [^6][^29] |'
   priority: normal
   type: year_only_date
-  status: unresolvable
-  resolved: 2026-07-03
-  resolution_note: Legora had six announced rounds (2024-05-16 $10.5M seed Benchmark-led;
-    2024-07-17 $25M Series A Alt Capital/Redpoint-led; 2025-05-21 $80M Series B ICONIQ/General
-    Catalyst-led; 2025-10-28 $150M Series C Bessemer-led; 2026-03-09 $550M Series
-    D Accel-led). Abstract Ventures is not named in ANY primary press release or the
-    company blog for any of these rounds — only appears on Abstract's own portfolio
-    page [^6]. Specific round of Abstract participation cannot be verified from primary
-    sources. Existing [^29] Tracxn footnote already discloses this. Leaving row as
-    ~2024 with the existing disclaimer.
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec sweep 2026-07-07 (pass 2) — TIGHTENED row to inline
+    both plausible round dates (Seed 2024-05-16 Benchmark-led $10.5M; Series A 2024-07-17
+    Redpoint-led $25M) with explicit disclaimer that Abstract is not named in either
+    primary announcement. Verified via 3 independent primary sources: Legora company
+    blog "Announcing $25m in Series A" (2024-07-17) https://legora.com/blog/announcing-25m-in-series-a,
+    Redpoint Ventures portfolio page https://www.redpoint.com/companies/legora/ ("We
+    first partnered for their Series A in 2024"), and Sacra funding history https://sacra.com/c/legora/
+    (documents $10.5M Seed May 2024 Benchmark-led + $25M Series A July 2024 Redpoint-led).
+    Existing [^29] Tracxn footnote already documented the specific rounds. Legora
+    Series A investors named in Legora''s own blog: Redpoint (lead — Jacob Effron
+    and Logan Bartlett joined board), Benchmark, Y Combinator, Wayfinder Ventures,
+    Alt Capital. Legora Seed investors named in Tracxn: Benchmark (Chetan Puttagunta,
+    lead), Hummingbird Ventures, SV Angel, Y Combinator. Abstract Ventures is NOT
+    listed in any announced round. Prior [^29] disclosure retained. This upgrades
+    the row from bare "~2024" to a specific, defensible disclosure.'
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Griptape

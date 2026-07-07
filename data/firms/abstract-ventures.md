@@ -110,7 +110,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Aether Biomachines | Series A ($49M, participated) | 2023-08-16 | Biotech / AI-Designed Proteins | Active [^6][^45][^46][^47] |
 | Neon | Seed | ~2022 | DevTools | Exited [^6] |
 | Moov | Seed | ~2021 | Fintech | Active [^9] |
-| Legora | Round undisclosed | ~2024 | AI/Legal Tech | Active [^6][^29] |
+| Legora | Round undisclosed (participation per portfolio listing; Abstract not named in announced Seed 2024-05-16 [Benchmark-led, $10.5M] or Series A 2024-07-17 [Redpoint-led, $25M]) | 2024 | AI/Legal Tech | Active [^6][^29] |
 | Natural | Seed ($9.8M, co-led) | 2025-10-23 | Fintech / AI Agent Payments | Active [^42][^43][^44] |
 | Telepatia | Seed (participated, $9M) | 2025-10-16 | Healthcare/AI (LatAm) | Active [^36][^37][^38] |
 | Coworker AI | Seed ($13M, participated) | 2025-05-21 | AI / Enterprise | Active [^15][^39][^40][^41] |
