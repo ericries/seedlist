@@ -493,7 +493,7 @@ The round feed is maintained by two systems working together:
 
 2. **Claude Code agent** (session-based): Processes pending rounds from `data/pending-rounds.yaml` by verifying details, creating startup profiles, and updating firm portfolios. Run `python3 scripts/sl pending-rounds` to see what's queued.
 
-When starting a new session, always check `sl pending-rounds` first — the scraper may have found rounds while you were offline.
+When starting a new session, always check `sl pending-rounds` first — the scraper may have found rounds while you were offline. **Every round monitoring firing should also run `sl pending-rounds --cleanup`** after `sl post-batch` to garbage-collect entries whose startup profile is now published — otherwise the file balloons as agents ship rounds via web-search sweeps without touching the scraper backlog.
 
 The session-based cron jobs (round monitoring every 6h, fact specificity every 4h) provide ADDITIONAL coverage on top of the GitHub Action. They search more broadly (Axios Pro Rata, general web search) and can verify/create profiles immediately. The GitHub Action ensures the pipeline never goes completely cold.
 

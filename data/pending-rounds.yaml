@@ -29,15 +29,6 @@ pending_rounds:
   parsed_amount: $1B
   parsed_round: null
   status: pending
-- title: UK startup Worldmodeldata raises €8 million to turn video games into training
-    data for physical AI
-  url: https://www.eu-startups.com/2026/07/uk-startup-worldmodeldata-raises-e8-million-to-turn-video-games-into-training-data-for-physical-ai/
-  source: eu-startups
-  date_found: '2026-07-06'
-  parsed_company: UK startup Worldmodeldata
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Finland’s CurifyLabs raises €12 million to expand 3D printing-based medicine
     compounding
   url: https://www.eu-startups.com/2026/07/finlands-curifylabs-raises-e12-million-to-expand-3d-printing-based-medicine-compounding/
@@ -80,22 +71,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Kling raised $2.8B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-06'
-  parsed_company: Kling
-  parsed_amount: $2.8B
-  parsed_round: null
-  status: pending
-- title: Even Realities raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-06'
-  parsed_company: Even Realities
-  parsed_amount: $150M
-  parsed_round: null
-  status: pending
 - title: Bespoke Labs raised $40M seed and Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -112,14 +87,6 @@ pending_rounds:
   parsed_amount: $10.5M
   parsed_round: Seed
   status: processed
-- title: Stoa raised $2.4M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-06'
-  parsed_company: Stoa
-  parsed_amount: $2.4M
-  parsed_round: null
-  status: pending
 - title: a London developer of antibody-drug conjugates that had raised $114M Series
     A
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -160,62 +127,6 @@ pending_rounds:
   parsed_company: after the micromobility company
   parsed_amount: $167M
   parsed_round: null
-  status: pending
-- title: Quantum Systems raised $1.2B Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-04'
-  parsed_company: Quantum Systems
-  parsed_amount: $1.2B
-  parsed_round: Series D
-  status: pending
-- title: Celea Therapeutics raised $180M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-04'
-  parsed_company: Celea Therapeutics
-  parsed_amount: $180M
-  parsed_round: null
-  status: pending
-- title: Shortical raised $100M user acquisition
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-04'
-  parsed_company: Shortical
-  parsed_amount: $100M
-  parsed_round: User Acquisition
-  status: pending
-- title: Venice AI raised $65M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-04'
-  parsed_company: Venice AI
-  parsed_amount: $65M
-  parsed_round: Series A
-  status: pending
-- title: CarbonSix raised $40M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-04'
-  parsed_company: CarbonSix
-  parsed_amount: $40M
-  parsed_round: Series A
-  status: pending
-- title: LinqAlpha raised $22M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-04'
-  parsed_company: LinqAlpha
-  parsed_amount: $22M
-  parsed_round: Series A
-  status: pending
-- title: StirlingX raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-04'
-  parsed_company: StirlingX
-  parsed_amount: $20M
-  parsed_round: Series A
   status: pending
 - title: Meridian3 Industrials Acquisition raised $175M
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -283,24 +194,6 @@ pending_rounds:
   parsed_company: null
   parsed_amount: $510B
   parsed_round: null
-  status: pending
-- title: BidScript reports up to 50% higher tender win rates as it secures €701k pre-Seed
-    funding
-  url: https://www.eu-startups.com/2026/07/bidscript-reports-up-to-50-higher-tender-win-rates-as-it-secures-e701k-pre-seed-funding/
-  source: eu-startups
-  date_found: '2026-07-02'
-  parsed_company: BidScript reports up to 50% higher tender win rates as it
-  parsed_amount: null
-  parsed_round: Pre-Seed
-  status: pending
-- title: Quantum Systems lands €1 billion Series D in one of Europe’s largest DefenceTech
-    financings
-  url: https://www.eu-startups.com/2026/07/quantum-systems-lands-e1-billion-series-d-in-one-of-europes-largest-defencetech-financings/
-  source: eu-startups
-  date_found: '2026-07-02'
-  parsed_company: Quantum Systems
-  parsed_amount: null
-  parsed_round: Series D
   status: pending
 - title: Czech VC firm Orbit Capital raises Growth Debt Fund II to €107 million
   url: https://www.eu-startups.com/2026/07/czech-vc-firm-orbit-capital-raises-growth-debt-fund-ii-to-e107-million/
@@ -421,14 +314,6 @@ pending_rounds:
   parsed_amount: $180M
   parsed_round: null
   status: processed
-- title: Omen AI raised $31M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-30'
-  parsed_company: Omen AI
-  parsed_amount: $31M
-  parsed_round: Series A
-  status: pending
 - title: Taxwire raised $25M seed and Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -445,54 +330,6 @@ pending_rounds:
   parsed_amount: $19.5M
   parsed_round: Series A
   status: processed
-- title: Queue raised $12.6M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-30'
-  parsed_company: Queue
-  parsed_amount: $12.6M
-  parsed_round: Seed
-  status: pending
-- title: Proception raised $11M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-30'
-  parsed_company: Proception
-  parsed_amount: $11M
-  parsed_round: Seed
-  status: pending
-- title: Arato raised $10M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-30'
-  parsed_company: Arato
-  parsed_amount: $10M
-  parsed_round: Seed
-  status: pending
-- title: GenerativeX raised $4M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-30'
-  parsed_company: GenerativeX
-  parsed_amount: $4M
-  parsed_round: Series A
-  status: pending
-- title: Coast 4C raised $2.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-30'
-  parsed_company: Coast 4C
-  parsed_amount: $2.5M
-  parsed_round: Seed
-  status: pending
-- title: Nomerra raised $2M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-30'
-  parsed_company: Nomerra
-  parsed_amount: $2M
-  parsed_round: null
-  status: pending
 - title: Ares Acquisition III raised $345M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -525,78 +362,6 @@ pending_rounds:
   parsed_amount: $320M
   parsed_round: Series A
   status: pending
-- title: Lycia Therapeutics raised $75M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Lycia Therapeutics
-  parsed_amount: $75M
-  parsed_round: Series D
-  status: pending
-- title: Patronus raised $50M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Patronus
-  parsed_amount: $50M
-  parsed_round: Series B
-  status: pending
-- title: Jarvie AI raised $8.3M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Jarvie AI
-  parsed_amount: $8.3M
-  parsed_round: Seed
-  status: pending
-- title: Sazabi raised $8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Sazabi
-  parsed_amount: $8M
-  parsed_round: Seed
-  status: pending
-- title: Eqon raised $6M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Eqon
-  parsed_amount: $6M
-  parsed_round: Seed
-  status: pending
-- title: Tomo raised $5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Tomo
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: pending
-- title: Samepage raised $4.9M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Samepage
-  parsed_amount: $4.9M
-  parsed_round: null
-  status: pending
-- title: Orthogonal raised $4.3M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Orthogonal
-  parsed_amount: $4.3M
-  parsed_round: Seed
-  status: pending
-- title: Ground raised $3.6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Ground
-  parsed_amount: $3.6M
-  parsed_round: null
-  status: pending
 - title: Sinda raised $213M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -622,14 +387,6 @@ pending_rounds:
   date_found: '2026-06-29'
   parsed_company: RoboStrategy, Inc.
   parsed_amount: $33.9M
-  parsed_round: null
-  status: pending
-- title: Pocket raises $11M in bet on rising demand for AI note-taking devices
-  url: https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/
-  source: techcrunch
-  date_found: '2026-06-29'
-  parsed_company: Pocket
-  parsed_amount: $11M
   parsed_round: null
   status: pending
 - title: 'The Weekly Notable Startup Funding Report: 6/29/26'
@@ -665,14 +422,6 @@ pending_rounds:
   parsed_amount: $135M
   parsed_round: Series A
   status: pending
-- title: Gaussion raised $28M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Gaussion
-  parsed_amount: $28M
-  parsed_round: null
-  status: pending
 - title: Daybreak raised $75M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -705,15 +454,6 @@ pending_rounds:
   parsed_company: Chamath Palihapitiya
   parsed_amount: $135M
   parsed_round: Series A
-  status: pending
-- title: Robinhood Closes Offering of $2.2 Billion of 0.00% Convertible Senior Notes
-    Due 2029
-  url: https://www.globenewswire.com/news-release/2026/06/25/3317985/0/en/Robinhood-Closes-Offering-of-2-2-Billion-of-0-00-Convertible-Senior-Notes-Due-2029.html
-  source: globenewswire
-  date_found: '2026-06-26'
-  parsed_company: Robinhood
-  parsed_amount: $2.2B
-  parsed_round: null
   status: pending
 - title: UK BioTech Thalia Therapeutics raises €3.1 million and acquires Sanmirna
     Therapeutics
@@ -750,14 +490,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Netris raises $15M Series A from a16z to help AI neoclouds go live faster
-  url: https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/
-  source: techcrunch
-  date_found: '2026-06-25'
-  parsed_company: Netris
-  parsed_amount: $15M
-  parsed_round: Series A
-  status: pending
 - title: Apple raises Mac and iPad prices, spares iPhone for now
   url: https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/
   source: techcrunch
@@ -784,15 +516,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Leyden Labs secures €40 million to develop intranasal protection against
-    influenza and coronaviruses
-  url: https://www.eu-startups.com/2026/06/leyden-labs-secures-e40-million-to-develop-intranasal-protection-against-influenza-and-coronaviruses/
-  source: eu-startups
-  date_found: '2026-06-25'
-  parsed_company: Leyden Labs
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: 'The AlleyWatch Startup Daily Funding Report: 6/25/2026'
   url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
   source: alleywatch
@@ -800,44 +523,4 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Airwallex raised $320M Series H
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Airwallex
-  parsed_amount: $320M
-  parsed_round: Series H
-  status: pending
-- title: Mirendil raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Mirendil
-  parsed_amount: $200M
-  parsed_round: null
-  status: pending
-- title: Taktile raised $110M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Taktile
-  parsed_amount: $110M
-  parsed_round: Series C
-  status: pending
-- title: Trase raised $107M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Trase
-  parsed_amount: $107M
-  parsed_round: Seed
-  status: pending
-- title: Sail Research raised $80M seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-25'
-  parsed_company: Sail Research
-  parsed_amount: $80M
-  parsed_round: Seed And Series A
   status: pending

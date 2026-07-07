@@ -33,7 +33,7 @@ Usage:
   sl xref-compute-lvi SLUG|--all       Compute last_verified_investment from portfolio tables
   sl xref-all [--dry-run]              Run all xref operations across the entire repo
   sl xref-report SLUG                  Analysis report for an investor (co-investors, focus validation)
-  sl pending-rounds                     Show unprocessed funding round candidates from RSS scraper
+  sl pending-rounds [--cleanup]         Show unprocessed funding round candidates from RSS scraper (--cleanup: drop entries already shipped as startup profiles)
 """
 
 import sys
@@ -412,12 +412,31 @@ def cmd_lint(slug, no_fetch=False):
 
     # ── Frontmatter slug validation (startups: investors/firms slugs must exist) ──
     if profile_type == "startup":
-        data_dir = Path(__file__).resolve().parent.parent / "data"
+        data_dir = DATA
         for field_name, profile_dir in [("investors", "investors"), ("firms", "firms")]:
             for entry in meta.get(field_name) or []:
+                if not isinstance(entry, dict):
+                    continue
                 entry_slug = entry.get("slug", "")
                 if entry_slug and not (data_dir / profile_dir / f"{entry_slug}.md").exists():
                     warnings.append(f"Frontmatter {field_name} slug has no profile (will not link on rounds page): {entry_slug}")
+                # Sanity-check the `year` field. This is the fix for the
+                # "undated round at top of feed" bug (8090 Labs): the company
+                # name "8090" was written into a firm entry as `year: 8090`,
+                # which passed silently and then sorted to the top of the
+                # rounds feed with no readable date. Plausible range is
+                # 2000..(current_year + 1). Anything outside is an error.
+                if "year" in entry:
+                    y = entry.get("year")
+                    try:
+                        y_int = int(y)
+                    except (TypeError, ValueError):
+                        errors.append(f"Frontmatter {field_name} entry has non-integer year: {entry_slug or '?'} year={y!r}")
+                    else:
+                        import datetime as _dt
+                        max_year = _dt.datetime.now().year + 1
+                        if not (2000 <= y_int <= max_year):
+                            errors.append(f"Frontmatter {field_name} entry has implausible year: {entry_slug or '?'} year={y_int} (expected 2000..{max_year})")
 
     # ── Required sections ──
     required_sections = {
@@ -3076,8 +3095,42 @@ def cmd_review_candidates():
         print("Run `sl ship` to commit and push changes.")
 
 
-def cmd_pending_rounds():
-    """Show unprocessed funding round candidates from RSS scraper."""
+_PENDING_TITLE_PREFIX = re.compile(
+    r"^(uk startup|us startup|the |a |an )", re.IGNORECASE
+)
+_PENDING_SPLITTERS = (
+    " raised ", " raises ", " secures ", " closes ", " announces ", ":", "—", "–",
+)
+
+
+def _pending_extract_slug(title):
+    """Best-effort company slug extractor for a pending-rounds title.
+
+    Mirrors the way agents create startup file slugs, so a pending entry
+    for "Stoa raised $2.4M" collides with data/startups/stoa.md.
+    """
+    if not title:
+        return ""
+    t = title.lower()
+    for sep in _PENDING_SPLITTERS:
+        if sep in t:
+            t = t.split(sep, 1)[0]
+            break
+    t = _PENDING_TITLE_PREFIX.sub("", t.strip())
+    # Keep only word chars, dashes, apostrophes, spaces
+    t = re.sub(r"[^a-z0-9\- ']", "", t)
+    return "-".join(t.split())[:80]
+
+
+def cmd_pending_rounds(cleanup=False):
+    """Show unprocessed funding round candidates from RSS scraper.
+
+    With --cleanup, drop pending entries whose extracted company slug
+    already has a data/startups/*.md profile. This is the garbage-collector
+    that prevents the pending-file from ballooning as agents ship rounds
+    via broad web-search sweeps (which don't remove the corresponding
+    RSS candidate).
+    """
     pending_path = DATA / "pending-rounds.yaml"
     if not pending_path.exists():
         print("No pending-rounds.yaml found. Run scripts/scrape_rounds.py first.")
@@ -3087,6 +3140,49 @@ def cmd_pending_rounds():
         data = yaml.safe_load(f) or {}
 
     rounds = data.get("pending_rounds", [])
+
+    if cleanup:
+        startups_dir = DATA / "startups"
+        existing = set()
+        if startups_dir.exists():
+            for f in startups_dir.iterdir():
+                if f.suffix == ".md":
+                    existing.add(f.stem)
+
+        kept = []
+        dropped = []
+        for r in rounds:
+            if r.get("status") != "pending":
+                kept.append(r)
+                continue
+            slug = _pending_extract_slug(r.get("title", "") or r.get("parsed_company", ""))
+            matched = None
+            if slug and slug in existing:
+                matched = slug
+            elif slug:
+                for e in existing:
+                    if len(e) >= 5 and len(slug) >= 5 and (
+                        e == slug or slug.startswith(e + "-") or e.startswith(slug + "-")
+                    ):
+                        matched = e
+                        break
+            if matched:
+                dropped.append((r.get("title", "?"), matched))
+            else:
+                kept.append(r)
+
+        data["pending_rounds"] = kept
+        with open(pending_path, "w") as f:
+            yaml.dump(data, f, sort_keys=False, allow_unicode=True)
+        print(f"Cleaned up {len(dropped)} already-shipped pending entries")
+        for title, matched in dropped[:20]:
+            print(f"  - dropped: {title[:60]}  (matched startup: {matched})")
+        if len(dropped) > 20:
+            print(f"  ...and {len(dropped) - 20} more")
+        remaining = [r for r in kept if r.get("status") == "pending"]
+        print(f"{len(remaining)} pending rounds remain (of {len(kept)} total entries)")
+        return
+
     pending = [r for r in rounds if r.get("status") == "pending"]
 
     if not pending:
@@ -3272,7 +3368,8 @@ def main():
             sys.exit(1)
         cmd_xref_report(sys.argv[2])
     elif cmd == "pending-rounds":
-        cmd_pending_rounds()
+        cleanup = "--cleanup" in sys.argv[2:]
+        cmd_pending_rounds(cleanup=cleanup)
     else:
         print(f"Unknown command: {cmd}")
         print(__doc__)
