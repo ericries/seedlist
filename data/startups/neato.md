@@ -27,7 +27,7 @@ Neato is a Las Vegas-based second-party (2P) e-commerce platform that buys inven
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-14 | Growth | $25M | Undisclosed | Undisclosed [^1] |
+| 2026-04-14 | Growth | $25M | Advantage Capital | Not publicly disclosed [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -40,3 +40,6 @@ No verified founder quotes available at this time.
 ## Sources
 
 [^1]: BeautyMatter, "Neato Raises $25 Million to Expand 2P e-Commerce Platform," April 14, 2026. https://beautymatter.com/articles/neato-raises-25-million-to-expand-2-p-e-commerce-platform
+[^2]: Forbes, "Neato Raises $25 Million For 2P Expansion Beyond Amazon," April 14, 2026. Accessed July 2026 (identifies Advantage Capital as lead; quotes Principal Philip Ruppel). https://www.forbes.com/sites/sharonedelson/2026/04/14/neato-raises-25-million-for-2p-expansion-beyond-amazon/
+[^3]: Tech Funding News, "Advantage Capital leads Neato $25M round to expand 2P eCommerce model beyond Amazon," April 2026. Accessed July 2026 (co-investors not disclosed to TFN). https://techfundingnews.com/neato-25m-2p-commerce-funding/
+[^4]: Pulse 2.0, "Neato: $25 Million Growth Capital To Expand 2P eCommerce Platform Beyond Amazon," April 2026. Accessed July 2026. https://pulse2.com/neato-25-million-growth-capital-to-expand-2p-ecommerce-platform-beyond-amazon/

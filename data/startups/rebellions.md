@@ -35,7 +35,7 @@ Rebellions is a South Korean fabless AI chip startup founded in September 2020 b
 
 | Round | Date | Amount | Valuation | Lead Investor | Key Co-Investors |
 |-------|------|--------|-----------|---------------|------------------|
-| Series B | Jan 2024 | $124M | N/A | KT | N/A [^4] |
+| Series B | 2024-01-30 | USD 124M (KRW 165B) | ~USD 658M post-money | KT | kt cloud, Shinhan Venture Investment, Pavilion Capital (Temasek), Korelya Capital, DG Daiwa Ventures (DGDV), Korea Development Bank (KDB), Mirae Asset Venture Investment [^4][^6][^7] |
 | Series C | Nov 2025 | $250M | $1.4B | Arm | Samsung Ventures, Pegatron VC [^5] |
 | Pre-IPO | 2026-03-30 | $400M | $2.34B | Mirae Asset Financial Group, Korea National Growth Fund | Korea Development Bank, Korelya Capital, Lion X Ventures, Aramco [^1][^3] |
 
@@ -60,3 +60,5 @@ Known investors across all rounds include: Mirae Asset Financial Group, Korea Na
 [^3]: PR Newswire, "Rebellions Closes $400 Million Pre-IPO and Launches RebelRack and RebelPOD to Accelerate Global Expansion," March 30, 2026. https://www.prnewswire.com/news-releases/rebellions-closes-400-million-pre-ipo-and-launches-rebelrack-and-rebelpod-to-accelerate-global-expansion-302728631.html
 [^4]: CNBC, "Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO," March 30, 2026. https://www.cnbc.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-ipo.html
 [^5]: Rebellions Newsroom, "Rebellions Raises $250 Million to Advance the Next Generation AI Infrastructure, Backed by Arm and Samsung," September 2025. https://rebellions.ai/newsroom/rebellions-raises-250-million-to-advance-the-next-generation-ai-infrastructure-backed-by-arm-and-samsung/
+[^6]: Rebellions Newsroom, "Korean AI chipmaker Rebellions Closes 124M Series B Fundraise," January 30, 2024. Accessed July 2026. https://rebellions.ai/newsroom/korean-ai-chipmaker-rebellions-closes-124m-series-b-fundraise/
+[^7]: TechCrunch, "Rebellions lands $124M to develop its new AI Rebel chip with Samsung," January 29, 2024. Accessed July 2026 (cites CFO Sungkyue Shin on ~USD 658M post-money valuation). https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/

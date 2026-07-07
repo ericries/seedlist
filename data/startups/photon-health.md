@@ -31,7 +31,7 @@ Photon is a Brooklyn-based prescription infrastructure company founded in 2021 t
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2024-07 | Seed | $9M | -- | [^1] |
+| 2024-08-15 | Seed | $9M | Notation Capital, Flare Capital Partners (co-lead) | BoxGroup, Susa Ventures, Long Journey, Cendana, Floating Point, GG1, Ritual, Headwater, Scrub Capital, plus angels (founders of PillPack, Carbon Health, and others) [^4][^5][^6] |
 | 2026-04-30 | Series A | $16M | Healthier Capital | Notation, Flare Capital, Evidenced [^1][^2][^3] |
 
 ## What Investors Say
@@ -49,3 +49,6 @@ Photon is a Brooklyn-based prescription infrastructure company founded in 2021 t
 [^1]: PR Newswire, "Photon Raises $16M Series A to Give Patients Control Over Their Prescriptions and Bring Transparency to Pharmacy," April 30, 2026. https://www.prnewswire.com/news-releases/photon-raises-16m-series-a-to-give-patients-control-over-their-prescriptions-and-bring-transparency-to-pharmacy-302754817.html
 [^2]: FinSMEs, "Photon Raises $16M in Series A Funding," April 2026. https://www.finsmes.com/2026/04/photon-raises-16m-in-series-a-funding.html
 [^3]: Pulse 2.0, "Photon: $16 Million Raised To Modernize Prescription Infrastructure And Return Transparency To Patients," April 2026. https://pulse2.com/photon-16-million-raised-to-modernize-prescription-infrastructure-and-return-transparency-to-patients/
+[^4]: Fortune, "Photon Health raises $9 million to make shopping for prescription drugs as easy as shopping on Amazon," August 15, 2024. Accessed July 2026. https://fortune.com/2024/08/15/photon-health-startup-9million-funding-electronic-prescription-software/
+[^5]: HIT Consultant, "Photon Raises $9M to Expand Access to Text-Based Prescriptions," August 16, 2024. Accessed July 2026. https://hitconsultant.net/2024/08/16/photon-raises-9m-to-expand-access-to-text-based-prescriptions/
+[^6]: Flare Capital Partners portfolio page, "Photon Health," accessed July 2026 (lists Photon as a Seed I portfolio company, Backed Since: 2024, Lead by Parth Desai). https://www.flarecapital.com/company/photon-health/
