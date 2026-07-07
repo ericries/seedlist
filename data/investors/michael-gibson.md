@@ -85,12 +85,12 @@ Fund I has returned 4.41x DPI (distributed-to-paid-in) and 9.65x TVPI (total val
 |---------|------|-------|--------|
 | Luminar Technologies | 2015 | Seed | [^12] |
 | Loom | ~2016 | Pre-Seed | [^1][^1] |
-| Deepgram | 2016 | Seed | [^14] |
+| Deepgram | 2016 (pre-Sept) | Pre-Seed / early check (1517 "first check" per Strachman; formal $1.8M seed 2016-09-27 led by Metamorphic + YC — 1517 not publicly named) | [^14][^19][^20] |
 | FOSSA | ~2017 | Seed | [^12] |
-| nTopology | ~2017 | Seed | [^12] |
+| nTopology | 2017-12-01 | Series A ($7.6M; Data Collective + Root Ventures co-led; 1517 among 4 co-participants) | [^12][^21][^22] |
 | Union Crate | ~2017 | Seed | [^15] |
 | Lambda | ~2017 | Seed | [^10] |
-| Atom Computing | ~2018 | Seed | [^1][^10] |
+| Atom Computing | 2018-08 | Seed (~$5M; Venrock led; 1517 confirmed via own portfolio page) | [^1][^10][^23] |
 | Fountain | ~2018 | Seed | [^1][^10] |
 | Cents | ~2019 | Seed | [^1][^15] |
 | Xona Space Systems | 2020-05-14 | Pre-Seed (1517 led, $1M) | [^13][^17][^18] |
@@ -157,3 +157,8 @@ A female founder of color in the portfolio stated: "We are proud to make up the 
 [^16]: 1517 Fund (Medium), "Announcing 1517 Fund Investment: Zeno Power Systems," accessed March 2026. https://medium.com/1517/zeno-clean-resilient-cost-effective-power-7fac12233a10
 [^17]: TechCrunch, "Xona Space Systems raises $1 million to improve satellite-based navigation services," May 14, 2020, accessed July 2026. https://techcrunch.com/2020/05/14/xona-space-systems-raises-1-million-to-improve-satellite-based-navigation-services/
 [^18]: Via Satellite / SatelliteToday, "PNT Startup Xona Space Systems Raises $1M in Pre-Seed," May 15, 2020, accessed July 2026. https://www.satellitetoday.com/finance/2020/05/15/pnt-startup-xona-space-systems-raises-1m-in-pre-seed/
+[^19]: TechCrunch, "Launching a 'Google for sound', Deepgram raises $1.8 million," September 27, 2016, accessed July 2026 (Metamorphic Ventures led with Y Combinator; 1517 Fund NOT publicly named in this formal seed). https://techcrunch.com/2016/09/27/launching-a-google-for-sound-deepgram-raises-1-8-million/
+[^20]: First Funders podcast, Episode 14 transcript (Danielle Strachman, 1517 Fund), accessed July 2026 (Strachman: "1517 was the first check into Deepgram" — details Deepgram founder's handwritten letter after initial discouragement). https://firstfunderspod.com/episodes/14-first-checks-for-dropouts-students-and-deep-tech-sci-fi-founders-danielle-strachman-1517-fund/transcript
+[^21]: 3D Printing Industry, "nTopology CEO gives insight into generative design after raising $7.6M," December 5, 2017, accessed July 2026 (confirms $7.6M Series A led by Data Collective + Root Ventures). https://3dprintingindustry.com/news/ntopology-ceo-gives-insight-generative-design-after-raising-7-6m-125665/
+[^22]: MCADCafe / Digital Engineering, "nTopology Announces Series A Funding of $7.6M," December 1, 2017, accessed July 2026 (confirms 1517 among 4 co-participants alongside CrunchFund, Haystack, Pathbreaker). https://www10.mcadcafe.com/nbc/articles/1/1551871/nTopology-Announces-Series-Funding-$7.6M
+[^23]: Ethan Batraski (Venrock partner), "A Radical New Paradigm in Quantum Computing, Venrock's Investment into Atom Computing," Medium, September 25, 2018, accessed July 2026 (Venrock led seed round in "August" 2018; Atom Computing founded January 2018 by Ben Bloom and Jonathan King). https://medium.com/ethanjb/a-new-paradigm-in-quantum-computing-venrocks-investment-into-atom-computing-cea467daaeb

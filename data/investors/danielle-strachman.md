@@ -64,12 +64,12 @@ This table represents approximately 22 of ~105 known investments (about 21%). Th
 | Lambda (Lambda Labs) | ~2017 | Pre-Seed | [^1] [^12] |
 | Loom | ~2016 | Pre-Seed | [^1] [^5] |
 | Figma | ~2013 | Fellowship/Angel | [^5] |
-| Deepgram | 2017 | Seed | [^10] |
+| Deepgram | 2016 (pre-Sept) | Pre-Seed / early check (1517 "first check" per Strachman on First Funders podcast; formal $1.8M seed 2016-09-27 led by Metamorphic + YC — 1517 not publicly named) | [^7] [^10] |
 | Fountain | ~2015 | Pre-Seed | [^7] |
 | FOSSA | ~2017 | Pre-Seed | [^1] |
-| Atom Computing | ~2018 | Pre-Seed | [^1] [^7] |
+| Atom Computing | 2018-08 | Seed (~$5M; Venrock led per Batraski Medium; 1517 among investors per own portfolio page) | [^1] [^7] [^18] |
 | Zeno Power | ~2019 | Pre-Seed | [^8] |
-| nTopology | ~2016 | Pre-Seed | [^1] |
+| nTopology | 2017-12-01 | Series A ($7.6M; Data Collective + Root Ventures co-led; 1517 among 4 co-participants) | [^1] [^19] [^20] |
 | Cents | ~2018 | Pre-Seed | [^1] |
 | Eeva | ~2020 | Pre-Seed | [^1] |
 | Rainmaker | ~2021 | Pre-Seed | [^1] [^5] |
@@ -143,3 +143,6 @@ On the Deepgram investment, Strachman has described how she initially discourage
 [^15]: Danielle Strachman (@DStrachman), X/Twitter post about $50K grants for undergrads, high schoolers, and dropouts, accessed March 2026. https://x.com/dstrachman/status/1298656685762867200
 [^16]: TechCrunch, "Xona Space Systems raises $1 million to improve satellite-based navigation services," May 14, 2020, accessed July 2026. https://techcrunch.com/2020/05/14/xona-space-systems-raises-1-million-to-improve-satellite-based-navigation-services/
 [^17]: Via Satellite / SatelliteToday, "PNT Startup Xona Space Systems Raises $1M in Pre-Seed," May 15, 2020, accessed July 2026. https://www.satellitetoday.com/finance/2020/05/15/pnt-startup-xona-space-systems-raises-1m-in-pre-seed/
+[^18]: Ethan Batraski (Venrock partner), "A Radical New Paradigm in Quantum Computing, Venrock's Investment into Atom Computing," Medium, September 25, 2018, accessed July 2026 (Venrock led seed round in "August" 2018; Atom Computing founded January 2018 by Ben Bloom and Jonathan King). https://medium.com/ethanjb/a-new-paradigm-in-quantum-computing-venrocks-investment-into-atom-computing-cea467daaeb
+[^19]: 3D Printing Industry, "nTopology CEO gives insight into generative design after raising $7.6M," December 5, 2017, accessed July 2026 (confirms $7.6M Series A led by Data Collective + Root Ventures; James Hardiman DCVC quote). https://3dprintingindustry.com/news/ntopology-ceo-gives-insight-generative-design-after-raising-7-6m-125665/
+[^20]: MCADCafe / Digital Engineering, "nTopology Announces Series A Funding of $7.6M," December 1, 2017, accessed July 2026 (confirms 1517 among 4 co-participants alongside CrunchFund, Haystack, Pathbreaker). https://www10.mcadcafe.com/nbc/articles/1/1551871/nTopology-Announces-Series-Funding-$7.6M

@@ -127,7 +127,9 @@ vague_facts:
   line: '| Deepgram | Seed | 2016 | AI / Speech Recognition | [^15][^29] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-06'
+  resolution_note: 'Tightened to "Pre-Seed / early check (1517 first check per Strachman on First Funders podcast; formal $1.8M seed 2016-09-27 led by Metamorphic Ventures with YC — 1517 not publicly named in Metamorphic-led press) | 2016 (before 2016-09-27)" on 1517-fund.md. 1517 IS confirmed as Deepgram investor via First Funders podcast (existing [^8]) where Strachman states "1517 was the first check into Deepgram" and describes the founder writing her a handwritten letter after initial discouragement. However, primary press for the September 27, 2016 formal $1.8M seed round (TechCrunch [^53] new) names only Metamorphic Ventures (lead) and Y Combinator — 1517 Fund is NOT named. Same "quiet early check" pattern as Loom (where 1517 wrote pre-seed at OpenTest phase before public announcement). Deepgram Series A ($12M, 2020-03-17, Wing VC-led with NVIDIA/YC/Compound/SAP.iO) also does not name 1517. Parallel updates: michael-gibson.md (row + [^19][^20]) and danielle-strachman.md (row + [^7][^10]) Deepgram rows tightened with same footnotes.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Figma
@@ -147,7 +149,9 @@ vague_facts:
   line: '| nTopology (nTop) | Series A | 2017 | Engineering Software | [^16][^31] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-06'
+  resolution_note: 'Tightened "Series A | 2017" to "Series A ($7.6M; Data Collective + Root Ventures co-led; CrunchFund, Haystack, Pathbreaker, 1517 Fund participated) | 2017-12-01" on 1517-fund.md via 3 primary sources: (1) 3ders.org 2017-12-01 [^31] (existing), (2) 3D Printing Industry [^54] (NEW — confirms $7.6M Series A led by Data Collective + Root Ventures with James Hardiman DCVC quote), (3) MCADCafe / Digital Engineering [^55] (NEW — confirms 1517 among 4 co-participants alongside CrunchFund, Haystack, Pathbreaker). All 3 sources independently confirm 2017-12-01 announcement date. Lead investors: Data Collective (DCVC) + Root Ventures (co-led). Participants: 1517 Fund, CrunchFund, Haystack, Pathbreaker. CEO/co-founder Bradley Rothenberg quote: "I expect to see a lot of start-ups in CAD which is really in for a revolution." Parallel updates: michael-gibson.md and danielle-strachman.md nTopology rows tightened with same citations [^21][^22] and [^19][^20] respectively.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: FOSSA
@@ -169,7 +173,9 @@ vague_facts:
   line: '| Atom Computing | Seed | 2018 | Quantum Computing | [^18][^32] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-06'
+  resolution_note: 'Tightened "Seed | 2018" to "Seed (~$5M; Venrock led per Ethan Batraski blog; 1517 confirmed on own portfolio page but NOT named in Venrock or Atom public materials) | 2018-08 (Venrock GP blog dates seed to August; Crunchbase Form D lists 2018-05-10)" on 1517-fund.md. Sources: (1) 1517 Fund homepage [^1] (existing — confirms Atom Computing in select portfolio gallery), (2) Crunchbase seed round profile [^32] (existing — lists 2018-05-10, likely Form D filing date), (3) Ethan Batraski Venrock partner Medium post [^56] (NEW — dates seed to "August" 2018, confirms $5M with Ben Bloom + Jonathan King founding January 2018). Note: month-only precision (2018-08) preferred over Crunchbase 2018-05-10 given Venrock GP''s own blog says August. Atom Computing About page (WebFetch) confirms Venrock, Innovation Endeavors, Prelude, Prime Movers Lab, Third Point, EIFO, Lockheed Martin in investor gallery but does NOT list 1517 Fund by name — however 1517''s own homepage DOES list Atom Computing as select portfolio, so participation confirmed. Innovation Endeavors first check per Tracxn was 2021-07-20 Series A and Prime Movers Lab was 2022-01-20 Series B — those are later rounds, not the seed. Parallel updates: michael-gibson.md and danielle-strachman.md Atom Computing rows tightened with same [^23] and [^18] citations respectively.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Fountain
