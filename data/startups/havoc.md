@@ -35,7 +35,9 @@ Havoc is a Providence, Rhode Island–based collaborative autonomy startup (foun
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-12 | Series A | $100M | — | CCM Capital Markets, Clear Street, Cobalt Capital, Boardman Bay Capital, Meet Perry, Mute Ventures, Soren Ventures, SAIC, JA Green, Outlander VC, Scout VC, B Capital, Lockheed Martin, Taiwania Capital, UP.Partners, The Veteran Fund, Vanderbilt University [^1] |
+| 2026-05-12 | Series A | $100M | No lead disclosed | CCM Capital Markets, Clear Street, Cobalt Capital, Boardman Bay Capital, Meet Perry, Mute Ventures, Soren Ventures, SAIC, JA Green, Outlander VC, Scout VC, B Capital, Lockheed Martin, Taiwania Capital, UP.Partners, The Veteran Fund, Vanderbilt University [^1][^2][^3] |
+
+None of the primary sources for this round — Havoc's own press release, The Robot Report contemporaneous coverage, or existing investor Outlander VC's field-guide post — identifies a lead investor for the Series A. Havoc characterizes the round as a broad syndicate of new and returning backers rather than a lead-led round [^1][^2][^3].
 
 ## What Founders Say
 
@@ -48,3 +50,5 @@ Will Graves, CIO of Boardman Bay Capital Management, said: "They've built a trul
 ## Sources
 
 [^1]: WorkBoat, "Autonomous systems startup Havoc raises $100 million," May 12, 2026. Accessed May 2026. https://www.workboat.com/autonomous-systems-startup-havoc-raises-100-million
+[^2]: PR Newswire (Havoc press release), "Havoc Raises $100M Series A to Power the Future of All-Domain Collaborative Autonomy," May 12, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/havoc-raises-100m-series-a-to-power-the-future-of-all-domain-collaborative-autonomy-302769697.html
+[^3]: The Robot Report, "Havoc raises $100M to unify defense autonomy in the land, sea, and air," May 2026. Accessed July 2026. https://www.therobotreport.com/havoc-raises-100m-unify-defense-autonomy-land-sea-air/

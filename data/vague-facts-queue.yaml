@@ -166034,7 +166034,22 @@ vague_facts:
   line: '| 2025-09 | Series A | $23M | — | — [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-07'
+  resolution_note: 'Resolved FirstClub Series A from "2025-09 | Undisclosed lead | no
+    co-investors" to "2025-09-03 | Co-led by Accel + RTP Global (USD 23M at USD 120M
+    post-money) | Blume Founders Fund, 2am VC, Paramark Ventures, Aditya Birla Ventures".
+    Verified via 3 independent primary sources: (1) RTP Global (co-lead) portfolio-company
+    post [^4] naming Accel + RTP Global as co-leads with the full participant list;
+    (2) DealStreetAsia contemporaneous coverage [^5] confirming Accel + RTP Global as
+    leads; (3) TechCrunch Manish Singh 2025-09-03 [^6] confirming amount, valuation
+    ($120M post-money = 3x the December 2024 seed valuation of $40M), co-leads, and
+    participants. All three sources agree on participants: Blume Founders Fund, 2am
+    VC, Paramark Ventures, and Aditya Birla Ventures. Updated firstclub.md Funding
+    History table Lead cell and Co-investors cell, added 3 new citations, and added
+    Series A entries to Accel (as [^120][^121][^122] with three new footnotes) and RTP
+    Ventures portfolio tables. Also added a 2025-09-03 series-a entry to firstclub.md
+    frontmatter for both accel and rtp-ventures.'
 - profile: startups/flatiron-health
   profile_name: Flatiron Health
   company: Acquisition
@@ -166055,7 +166070,20 @@ vague_facts:
     Ventures, First Round Capital, Susa Ventures, '
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-07'
+  resolution_note: 'Resolved — Flexport''s USD 65M Series B (announced 2016-09-26) was
+    an insider "doubling-down" round with no lead investor disclosed. Verified via 3
+    independent primary sources: (1) Flexport blog own announcement (new [^16]) 2016-09-26
+    describing the round as "filled out almost entirely by existing Flexport investors"
+    with 8VC/Joe Lonsdale as the sole new investor and no lead named; (2) TechCrunch
+    2016-09-26 (existing [^10]) using the same language; (3) VCNewsDaily contemporaneous
+    (new [^17]) confirming no lead disclosed. Trae Stephens (Founders Fund) joined the
+    board but Founders Fund was the Series A lead — the Series B was structured as an
+    inside round rather than a new-lead round. Updated flexport.md Funding History row
+    from "Sep 2016 | ... | — | ..." to "2016-09-26 | ... | No lead disclosed (insider
+    round) | ..." with 8VC labeled as the new investor. Added company blog + VCNewsDaily
+    as new citations [^16][^17].'
 - profile: startups/flexport
   profile_name: Flexport
   company: Jan 2024
@@ -166410,7 +166438,19 @@ vague_facts:
     Cobalt Capital, Boardman Bay Capital, Meet Perr'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-07'
+  resolution_note: 'Resolved — no lead was disclosed for Havoc''s USD 100M Series A on
+    2026-05-12. Verified via 3 independent primary sources: (1) Havoc/PR Newswire own
+    press release (new [^2]) which lists nine new investors (CCM Capital Markets, Clear
+    Street LLC, Cobalt Capital, Boardman Bay Capital Management, Meet Perry, Mute Ventures,
+    Soren Ventures, SAIC, JA Green) plus returning backers with no lead-investor attribution;
+    (2) The Robot Report contemporaneous coverage (new [^3]) which confirms "no specific
+    lead investor was named" while listing the same nine participants; (3) existing
+    investor Outlander VC''s field-guide post which also does not identify a lead.
+    WorkBoat piece [^1] (existing) is a same-day contemporaneous report. Updated Havoc
+    profile Funding History table Lead cell from "—" to "No lead disclosed" and added
+    explanatory sentence + two new primary citations.'
 - profile: startups/highland-electric-fleets
   profile_name: Highland Electric Fleets
   company: '2026-06-02'

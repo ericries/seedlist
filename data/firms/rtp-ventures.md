@@ -167,7 +167,9 @@ Based on 50 verified portfolio entries from the firm's own portfolio page [^8], 
 | Comun | Series A | 2024 | Fintech | Live |
 | Conduktor | Series B | 2024 | Data Analytics | Live |
 | Warmly | Series A | 2024 | AI/SaaS | Live |
-| FirstClub | Seed | 2024 | E-commerce | Live |
+| FirstClub | Seed | 2024-12 | E-commerce | Live |
+| FirstClub | Series A (co-led with Accel; $23M at $120M val) | 2025-09-03 | E-commerce / Quick Commerce / India | Live |
+| FirstClub | Series B ($55M, participated; Peak XV and Sofina co-led at $255M val) | 2026-06-03 | E-commerce / Quick Commerce / India | Live |
 | Tola | Seed | 2024 | Fintech | Exited |
 | Fever Energy | Seed | 2025 | AI/ML | Live |
 | Ahead Health | Seed | 2025 | AI/Healthcare | Live |

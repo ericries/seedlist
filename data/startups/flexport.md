@@ -199,7 +199,7 @@ Flexport is a technology-enabled freight forwarding and global logistics platfor
 |------|-------|--------|------|--------------|
 | May 2015 | Seed | $6.9M | First Round Capital | Y Combinator, Susa Ventures, Cherubic Ventures [^8] |
 | Aug 2015 | Series A | $22.1M | Founders Fund | First Round Capital, Bloomberg Beta, Felicis Ventures, Google Ventures, Fuel Capital, FundersClub, A-Grade Investments, Ceyuan Ventures, Cherubic Ventures, Susa Ventures, Y Combinator [^9] |
-| Sep 2016 | Series B | $65M | — | Founders Fund, Bloomberg Beta, Felicis Ventures, First Round Capital, Susa Ventures, 8VC (Joe Lonsdale), Yuri Milner [^10] |
+| 2016-09-26 | Series B | $65M | No lead disclosed (insider round) | Founders Fund, Bloomberg Beta, Felicis Ventures, First Round Capital, Susa Ventures, 8VC (Joe Lonsdale, new), Yuri Milner [^10][^16][^17] |
 | Sep 2017 | Series C | $110M | DST Global | Founders Fund, Susa Ventures, Wells Fargo [^11] |
 | Feb 2019 | Series D | $1B | SoftBank Vision Fund | Founders Fund, DST Global, Cherubic Ventures, Susa Ventures, SF Express [^12] |
 | Feb 2022 | Series E | $935M | Andreessen Horowitz, MSD Partners | Shopify, DST Global, Founders Fund, SoftBank Vision Fund, Kevin Kwok [^13] |
@@ -247,3 +247,5 @@ Total raised: approximately $2.3 billion across all rounds [^8]. The Series D va
 [^13]: "Flexport Raises $935 Million to Boost Resilience and Visibility in Global Supply Chains," Flexport blog, February 2022, accessed March 2026. https://www.flexport.com/blog/flexport-raises-935-million-to-boost-resilience-and-visibility-in-supply-chains/
 [^14]: "Logistics startup Flexport just raised a SoftBank-led round at a whopping $3.2 billion valuation," TechCrunch, February 21, 2019, accessed March 2026. https://techcrunch.com/2019/02/21/logistics-startup-flexport-just-raised-a-softbank-led-round-at-a-whopping-3-2-billion-valuation/
 [^15]: "Flexport winning $8B valuation with tech-enabled global logistics," FreightWaves, February 2022, accessed March 2026. https://www.freightwaves.com/news/flexport-winning-8b-valuation-with-tech-enabled-global-logistics
+[^16]: Flexport blog, "Flexport Raises $65M to Fund Global Expansion," September 26, 2016, accessed July 2026. https://www.flexport.com/blog/flexport-fundraising-global-growth/ — Company's own announcement. Describes the round as "filled out almost entirely by existing Flexport investors" (Founders Fund, Bloomberg Beta, Felicis Ventures, First Round Capital, Susa Ventures, Yuri Milner), with 8VC/Joe Lonsdale as the sole new investor. No lead investor named.
+[^17]: VCNewsDaily, "Flexport Raises Series B Round of $65M," September 2016, accessed July 2026. https://vcnewsdaily.com/flexport/venture-capital-funding/rlzpkflhhp — Contemporaneous third-party confirmation that no lead was disclosed; participants match the Flexport blog post and TechCrunch [^10].
