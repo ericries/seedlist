@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Lisbon-based BIZAY raises €48.7 million Series D; set to surpass €88.6 million
+    revenue and reach profitability
+  url: https://www.eu-startups.com/2026/07/lisbon-based-bizay-raises-e48-75-million-series-d-set-to-surpass-e88-6-million-revenue-and-reach-profitability/
+  source: eu-startups
+  date_found: '2026-07-07'
+  parsed_company: Lisbon-based BIZAY
+  parsed_amount: null
+  parsed_round: Series D
+  status: pending
+- title: Leiden-based Whispp raises €5 million to scale on-device voice reconstruction
+    AI technology globally
+  url: https://www.eu-startups.com/2026/07/leiden-based-whispp-raises-e5m-to-scale-on-device-voice-reconstruction-ai-technology-globally/
+  source: eu-startups
+  date_found: '2026-07-07'
+  parsed_company: Leiden-based Whispp
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Smart glasses maker Even Realities hits $1B valuation with $150M funding
     led by Meituan, Tencent
   url: https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/
@@ -117,15 +135,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-07-06'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: UK startup Worldmodeldata raises €8 million to turn video games into training
-    data for physical AI
-  url: https://www.eu-startups.com/2026/07/uk-startup-worldmodeldata-raises-e8-million-to-turn-video-games-into-training-data-for-physical-ai/
-  source: eu-startups
-  date_found: '2026-07-06'
-  parsed_company: UK startup Worldmodeldata
   parsed_amount: null
   parsed_round: null
   status: pending
