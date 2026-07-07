@@ -186,7 +186,7 @@ Anthropic is an American artificial intelligence company founded in 2021 by Dari
 | Series C | 2023-05-23 | $450M | Not disclosed by Anthropic (widely reported ~$4.1B post-money per The Information / TechCrunch) | Spark Capital | Google, Salesforce Ventures, Sound Ventures, Zoom Ventures [^7][^17][^18][^19][^33] |
 | Amazon Investment (Tranche 1) | 2023-09-25 | $1.25B (initial tranche of announced up-to-$4B commitment) | Not disclosed (strategic convertible) | Amazon | — [^8][^34][^35][^36] |
 | Google Investment (Extension) | 2023-10-27 | $500M upfront + $1.5B committed | N/A (undisclosed strategic investment) | Google | — [^6][^25] |
-| Amazon Investment (Tranche 2) | 2024-03-27 | $2.75B | N/A | Amazon | — [^9][^20][^21] |
+| Amazon Investment (Tranche 2) | 2024-03-27 | $2.75B | Not disclosed (convertible note; Amazon exercised its end-of-March option at Anthropic's September 2023 valuation, which itself was not publicly disclosed) | Amazon | — [^9][^20][^21] |
 | Series D | 2024-01-11 | $750M | $18.4B (post) | Menlo Ventures (via Menlo Inflection AI Partners SPV) | Google (existing convertible converted), Amazon (existing convertible converted), Spark Capital (pro rata), Menlo firm insiders [^7][^26][^27] |
 | Amazon Investment (Extension) | 2024-11-22 | $4B | N/A (undisclosed strategic investment) | Amazon | — [^9][^28][^29] |
 | Series E | Mar 2025 | $3.5B | $61.5B (post) | Lightspeed Venture Partners | Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity, General Catalyst, Jane Street, Menlo Ventures, Salesforce Ventures [^10] |
@@ -232,7 +232,7 @@ Dario Amodei has stated that Anthropic exists because its founders believed AI s
 
 [^19]: VentureBeat, "Anthropic secures $450M in Series C funding from Google, Salesforce and others," May 23, 2023, accessed May 2026. https://venturebeat.com/ai/anthropic-secures-450m-in-series-c-funding-from-google-salesforce-and-others/ — Third independent confirmation of the Series C participants.
 
-[^20]: TechCrunch, "Amazon doubles down on Anthropic, completing its planned $4B investment," March 27, 2024, accessed May 2026. https://techcrunch.com/2024/03/27/amazon-doubles-down-on-anthropic-completing-its-planned-4b-investment/ — Confirms the $2.75B Tranche 2 closed March 27, 2024 (with Amazon exercising option before end-of-Q1 deadline), bringing total Amazon investment to $4B.
+[^20]: TechCrunch, "Amazon doubles down on Anthropic, completing its planned $4B investment," March 27, 2024, accessed July 2026. https://techcrunch.com/2024/03/27/amazon-doubles-down-on-anthropic-completing-its-planned-4b-investment/ — Confirms the $2.75B Tranche 2 closed March 27, 2024, structured as a convertible note per the September 2023 agreement giving Amazon the right to contribute the additional funds if it did so before the end of March. Article explicitly notes Amazon "could invest at Anthropic's September valuation, which is most certainly lower than it is today" — valuation itself not disclosed.
 
 [^21]: Bloomberg, "Amazon (AMZN) Invests Additional $2.75 Billion in Anthropic," March 27, 2024, accessed May 2026. https://www.bloomberg.com/news/articles/2024-03-27/amazon-invests-additional-2-75-billion-in-ai-startup-anthropic — Contemporaneous press confirming the $2.75B additional investment date.
 

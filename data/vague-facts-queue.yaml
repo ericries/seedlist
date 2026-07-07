@@ -11121,7 +11121,19 @@ vague_facts:
   line: '| Applied Compute | Seed | 2025 | AI/Infrastructure | [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Split single vague "Seed | 2025" row into two tightened rows via
+    3+ primary sources per round. (1) SEED "$20M | 2025-06-27" — Upstarts Media [^13]
+    (existing, June 27, 2025 scoop) confirming Benchmark led at $100M valuation with
+    Sequoia, Conviction, Hanabi Capital, Definition, and Zach Frankel participating;
+    founders Rhythm Garg, Linden Li, and Yash Patil are Stanford grads who worked
+    on OpenAI''s o1 reasoning models. (2) LAUNCH ROUND "$80M | 2025-11-04" — Pulse2
+    [^18] (existing, Nov 4, 2025 launch story) and SiliconANGLE [^hanabi-ac-1] (NEW,
+    Oct 30, 2025) both confirming $80M funding co-led by Benchmark, Sequoia, and Lux
+    Capital with Hanabi Capital, Neo, Elad Gil, Victor Lazarte, and Omri Casspi participating;
+    The Information reported target valuation of ~$500M. Company launched publicly
+    on Nov 4, 2025 after operating in stealth since May 2025.'
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: Arcade
@@ -164138,7 +164150,20 @@ vague_facts:
     [^9][^20][^21] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Tightened valuation column from "N/A" to "Not disclosed (convertible
+    note; Amazon exercised its end-of-March option at Anthropic''s September 2023
+    valuation, which itself was not publicly disclosed)" via 3 primary sources: (1)
+    TechCrunch [^20] (2024-03-27) explicit that Amazon "could invest at Anthropic''s
+    September valuation, which is most certainly lower than it is today" — valuation
+    not disclosed; (2) Bloomberg [^21] (2024-03-27) contemporaneous confirmation of
+    the $2.75B additional investment; (3) GeekWire [^9] (November 2024) retrospective
+    on Amazon''s total Anthropic investment. Instrument type confirmed as convertible
+    note (per September 2023 initial agreement giving Amazon the right to contribute
+    the additional funds if it did so before the end of March). Expanded [^20] footnote
+    definition to include the convertible-note language and the explicit "valuation
+    not disclosed" TC quote.'
 - profile: startups/anthropic
   profile_name: Anthropic
   company: Series D
@@ -164361,7 +164386,19 @@ vague_facts:
   line: '| 2023-01-09 | Seed | $3.1M | Eniac Ventures | — [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Filled empty Co-Investors column with full participant list via
+    3 independent primary sources: (1) PR Newswire company press release [^8] (NEW,
+    Jan 10, 2023 announcement) naming Frst, Liquid2 Ventures, Maschmeyer Group Ventures,
+    and Ride Ventures plus angel founders of Ramp, Level AI, Truework, CBInsights,
+    and Zoi; (2) The SaaS News [^9] (NEW, Jan 10, 2023) independent contemporaneous
+    press with identical participant list; (3) Hadley Harris (Eniac Ventures) Medium
+    post [^10] (NEW, Jan 9, 2023) — investor first-person post confirming Eniac''s
+    lead role, Harris as sourcing partner, and the January 9, 2023 announcement date.
+    Also credited Harris as lead partner in Lead column and updated About section
+    prose to include the co-investors. Existing TechCrunch [^2] (Jan 9, 2023) retained
+    as 4th source.'
 - profile: startups/attention
   profile_name: Attention
   company: '2026-04-13'

@@ -60,7 +60,8 @@ Based on Hanabi's publicly listed portfolio of 18 companies [^9], the firm's act
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Applied Compute | Seed | 2025 | AI/Infrastructure | [^13] |
+| Applied Compute | Seed ($20M; Benchmark led at $100M valuation; Sequoia, Conviction, Hanabi Capital, Definition, and Zach Frankel participated) | 2025-06-27 | AI/Infrastructure | [^13] |
+| Applied Compute | Launch round ($80M; Benchmark, Sequoia, and Lux Capital co-led; Hanabi Capital, Neo, Elad Gil, Victor Lazarte, and Omri Casspi participated) | 2025-11-04 | AI/Infrastructure | [^18][^hanabi-ac-1] |
 | Arcade | Seed ($12M, participant; Laude Ventures led) | 2025-03-18 | Developer Tools / AI Agent Auth | [^9][^19][^34] |
 | ArchiBoost AI | Undisclosed | 2024-2025 | AI | [^4][^9] |
 | Brinc Drones | Series C ($75M; Index led; Mike Volpi named as personal participant — Hanabi not in primary press) | 2025-04-08 | Robotics/Hardware | [^14][^hanabi-brinc-1][^hanabi-brinc-2] |
@@ -135,6 +136,8 @@ No independently sourced founder testimonials found. Hanabi Capital is a recentl
 [^32]: Nordic9, "Onodrim Industries raised €40 million in seed funding round led by Founders Fund, Lakestar and General Catalyst, joined by Air Street Capital and angels," February 2026, accessed June 2026. https://nordic9.com/news/onodrim-industries-raised-40-million-in-seed-funding-round-led-by-founders-fund-lakestar-and-general-catalyst-joined-by-air-street-capital-and-angels/ — confirms announcement date 2026-02-13.
 [^33]: Ventureburn, "Simile Raises $100M to Predict Human Behavior With AI," February 2026, accessed June 2026. https://ventureburn.com/simile-raises-100m-to-predict-human-behavior-with-ai/ — $100M Series A led by Index Ventures with participation from Bain Capital Ventures, A*, Hanabi Capital, Fei-Fei Li, and Andrej Karpathy.
 [^34]: Arcade.dev company blog, "Arcade Secures $12M: How We Built SSO for AI Agents," March 18, 2025, accessed July 2026. https://arcade.dev/blog/arcades-12m-milestone-a-conversation-with-alex/ — Company primary source naming Hanabi Capital (Mike Volpi) as a participant in Arcade's $12M seed round led by Laude Ventures, alongside Flybridge Ventures (Chip Hazard), Neotribe (Kittu Kolluri), and Benchmark's Andy Rachleff (as individual).
+
+[^hanabi-ac-1]: SiliconANGLE, "Former OpenAI researchers launch Applied Compute with $80M in funding," October 30, 2025. Accessed July 2026. https://siliconangle.com/2025/10/30/former-openai-researchers-launch-applied-compute-80m-funding/ — Confirms Applied Compute's $80M launch round co-led by Benchmark, Sequoia, and Lux Capital with participation from angel investors; The Information had earlier reported the round was raising at ~$500M valuation. Corroborates Pulse2's account of the November 4, 2025 public launch.
 
 [^hanabi-1001-1]: Wamda, "1001 closes $30 million Series A to build sovereign AI in GCC," June 30, 2026. Accessed July 2026. https://www.wamda.com/2026/06/1001-closes-30-million-series-a-build-sovereign-ai-gcc — Names Hanabi as participant in 1001's $30M Series A led by Lux Capital on June 30, 2026.
 [^hanabi-1001-2]: Khaleej Times, "1001 raises $30 million to build sovereign AI for GCC's critical infrastructure," July 2, 2026. Accessed July 2026. https://www.khaleejtimes.com/business/1001-raises-30-million-to-build-sovereign-ai-for-gccs-critical-infrastructure
