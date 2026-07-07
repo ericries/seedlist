@@ -1,24 +1,13 @@
 ---
-name: Hint
-slug: hint
-type: startup
-website: https://hint.com/
-location: New York, NY
-founded: 2025
-status_company: active
-sector:
-- consumer
-- home
-- ai
-- proptech
-stage_latest: Seed
-total_raised: $10M
-investors: []
 firms:
-- slug: energy-impact-partners
+- date: 2026-05-13
   round: seed
+  slug: energy-impact-partners
   year: 2026
-  date: 2026-05-13
+- round: Seed ($10M, led)
+  slug: slow-ventures
+  year: 2026
+founded: 2025
 founders:
 - name: Martha Stewart
   role: Co-Founder
@@ -26,8 +15,25 @@ founders:
   role: Co-Founder
 - name: Kyle Rush
   role: Co-Founder
+investors:
+- round: Seed ($10M, led)
+  slug: kevin-colleran
+  year: 2026
 last_researched: 2026-05-13
+location: New York, NY
+name: Hint
+sector:
+- consumer
+- home
+- ai
+- proptech
+slug: hint
+stage_latest: Seed
 status: published
+status_company: active
+total_raised: $10M
+type: startup
+website: https://hint.com/
 ---
 
 ## About

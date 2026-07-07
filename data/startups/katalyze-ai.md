@@ -1,35 +1,45 @@
 ---
-name: "Katalyze AI"
-slug: katalyze-ai
-type: startup
-website: "https://katalyze.ai"
-location: "San Francisco, California / Toronto, Ontario"
-founded: 2024
-status_company: active
-sector: [ai, agentic-ai, pharma, life-sciences, enterprise-software, biotech, vertical-ai]
-stage_latest: "Seed"
-total_raised: "$10.5M"
 firms:
-  - slug: bonfire-ventures
-    round: seed
-    year: 2026
-    date: 2026-07-06
-investors:
-  - slug: gokul-rajaram
-    round: seed
-    year: 2026
-    date: 2026-07-06
+- date: 2026-07-06
+  round: seed
+  slug: bonfire-ventures
+  year: 2026
+- round: '2026-07-06'
+  slug: marathon-management-partners
+  year: 2026
+founded: 2024
 founders:
-  - name: "Reza Farahani"
-    role: "CEO & Co-Founder"
-  - name: "Shreyas Becker"
-    role: "COO & Co-Founder"
-  - name: "Hannes Bretschneider"
-    role: "Chief AI Officer & Co-Founder"
-  - name: "Matt Cruz"
-    role: "Founding Engineer"
-status: published
+- name: Reza Farahani
+  role: CEO & Co-Founder
+- name: Shreyas Becker
+  role: COO & Co-Founder
+- name: Hannes Bretschneider
+  role: Chief AI Officer & Co-Founder
+- name: Matt Cruz
+  role: Founding Engineer
+investors:
+- date: 2026-07-06
+  round: seed
+  slug: gokul-rajaram
+  year: 2026
 last_researched: 2026-07-06
+location: San Francisco, California / Toronto, Ontario
+name: Katalyze AI
+sector:
+- ai
+- agentic-ai
+- pharma
+- life-sciences
+- enterprise-software
+- biotech
+- vertical-ai
+slug: katalyze-ai
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $10.5M
+type: startup
+website: https://katalyze.ai
 ---
 
 ## About

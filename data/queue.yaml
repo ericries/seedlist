@@ -24264,7 +24264,7 @@ queue:
 - name: Meredith Fisher
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Mass General Brigham Ventures
   discovered_from: violet-therapeutics
@@ -24280,7 +24280,7 @@ queue:
 - name: Kevin Colleran
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Slow Ventures
   discovered_from: yoni-rechtman
@@ -36101,3 +36101,143 @@ queue:
   added: '2026-03-17'
   discovered_from: devplan
   source: co-investor in Devplan seed (2026-06-18)
+- name: Ripple Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: katalyze-ai
+  source: Participated in Katalyze AI seed 2026-07-06
+- name: Farzad Soleimani
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: katalyze-ai
+  source: Angel in Katalyze AI seed 2026-07-06 alongside Gokul Rajaram
+- name: Reza Farahani
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Katalyze AI
+  discovered_from: katalyze-ai
+  source: Katalyze AI CEO & Co-Founder
+- name: The House Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bespoke-labs
+  source: Participated in Bespoke Labs $40M seed+Series A 2026-07-06
+- name: Alex Dimakis
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bespoke Labs
+  discovered_from: bespoke-labs
+  source: Bespoke Labs Co-Founder
+- name: Mahesh Sathiamoorthy
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bespoke Labs
+  discovered_from: bespoke-labs
+  source: Bespoke Labs Co-Founder
+- name: Dave Morin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Offline Ventures
+  discovered_from: kevin-colleran
+  source: Slow Ventures co-founder; departed to found Offline Ventures 2020
+- name: Offline Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kevin-colleran
+  source: Dave Morin's post-Slow VC firm, founded 2020
+- name: Hannah Grey
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kevin-colleran
+  source: Co-invested in Hint (2026-05-13 seed)
+- name: Roger Kitterman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Mass General Brigham Ventures
+  discovered_from: meredith-fisher
+  source: Co-founder & Managing Partner at MGBV
+- name: Carl Berke
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Mass General Brigham Ventures
+  discovered_from: meredith-fisher
+  source: Partner at MGBV (16 years)
+- name: Julius Knowles
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Mass General Brigham Ventures
+  discovered_from: meredith-fisher
+  source: Named MGBV partner
+- name: ICG Life Sciences
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: meredith-fisher
+  source: Co-led Mediar Therapeutics Series B ($76M) alongside Amplitude Ventures
+- name: Amplitude Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: meredith-fisher
+  source: Co-led Mediar Therapeutics Series B ($76M) alongside ICG
+- name: UTEC (University of Tokyo Edge Capital Partners)
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: meredith-fisher
+  source: Participated in Violet Therapeutics seed extension 2026-05-13
+- name: Arkin Bio Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: meredith-fisher
+  source: Co-led Nocion Therapeutics Series B extension
+- name: Monograph Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: meredith-fisher
+  source: Co-led Nocion Therapeutics Series B extension
+- name: Mission BioCapital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: meredith-fisher
+  source: Nocion Therapeutics Series B extension participant
+- name: Morningside Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: meredith-fisher
+  source: Nocion Therapeutics Series B extension participant

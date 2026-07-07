@@ -1,11 +1,19 @@
 ---
-name: Violet Therapeutics
-slug: violet-therapeutics
-type: startup
-website: https://www.violettx.com/
-location: Norwalk, Connecticut
+firms:
+- round: Seed extension ($4.75M, MGBV participation; Fisher founding CEO)
+  slug: mass-general-brigham-ventures
+  year: 2026
 founded: 2024
-status_company: active
+founders:
+- name: Meredith Fisher
+  role: CEO
+investors:
+- round: Seed extension ($4.75M, MGBV participation; Fisher founding CEO)
+  slug: meredith-fisher
+  year: 2026
+last_researched: 2026-05-18
+location: Norwalk, Connecticut
+name: Violet Therapeutics
 sector:
 - healthcare
 - biotech
@@ -13,15 +21,13 @@ sector:
 - neurodegeneration
 - therapeutics
 - preclinical
+slug: violet-therapeutics
 stage_latest: Seed Extension
-total_raised: $4.75M+
-investors: []
-firms: []
-founders:
-- name: Meredith Fisher
-  role: CEO
-last_researched: 2026-05-18
 status: published
+status_company: active
+total_raised: $4.75M+
+type: startup
+website: https://www.violettx.com/
 ---
 
 ## About
