@@ -36283,3 +36283,33 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: magiqware
+- name: Andy Lurling
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: LUMO Labs
+  discovered_from: whispp
+  source: Quoted commenting on Whispp €5M follow-on (2026-07-07)
+- name: Geely Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tripo-ai
+  source: Participant in Tripo AI $150M Series A3 (2026-07-02)
+- name: Ince Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tripo-ai
+  source: Continuing participant in Tripo AI $150M Series A3 (2026-07-02); prior lead
+    of Series A++
+- name: Fosun Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tripo-ai
+  source: Participant in Tripo AI $150M Series A3 (2026-07-02)
