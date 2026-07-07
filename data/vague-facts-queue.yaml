@@ -167493,7 +167493,13 @@ vague_facts:
   line: '| 2024 | Pre-Seed | $3.3M | Undisclosed | — [^4][^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Verified via TechCrunch (2024-02-16), European Biotechnology Magazine
+    (2024-02-26), Vegconomist, and Nordic9: pre-seed round co-led by Simon Capital
+    and FoodLabs, with participation from Exceptional Ventures and Sprout & About
+    Ventures. Updated funding table with exact date 2024-02-16, named co-leads, and
+    added TechCrunch primary source [^6].'
 - profile: startups/palantir
   profile_name: Palantir Technologies
   company: Nov 2006
@@ -168153,7 +168159,15 @@ vague_facts:
     [^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Verified via 3 primary press sources (EU-Startups 2025-09-26,
+    BeBeez International 2025-09-26, StartupRise 2025-09-27) — the pre-seed was angel-led
+    with no institutional lead named. Named angels: Colin M. Evans (OpenAI), Feng
+    Hong (Xiaomi co-founder), Anna Nordell Westling (Sana co-founder), Daniel Langkilde
+    (Kognic), Gustav Lindqvist (Perplexity), and Spotify alumni. CORRECTED prior profile
+    error: "Aligned Ventures, Greens Ventures" were NOT named in any primary source
+    — replaced with the actual angel list. Updated date to 2025-09-26.'
 - profile: startups/reel
   profile_name: Reel
   company: 2022-07
@@ -168696,7 +168710,14 @@ vague_facts:
     Ventures, SV Angel, Offline Ventures, individua'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-07
+  resolution_note: 'Verified via TechCrunch (2026-04-27, sole primary source) — the
+    article confirms $3.58M+ pre-seed closed September 2025 with participation from
+    Andreessen Horowitz, True Ventures, SV Angel, Offline Ventures, and unnamed individuals,
+    but does NOT name a lead investor. No other primary press coverage found; the
+    startup remained in stealth prior to the TechCrunch story. Leaving lead as "Undisclosed"
+    in profile — cannot be resolved without additional primary source.'
 - profile: startups/skyfora
   profile_name: Skyfora
   company: 2025-03
@@ -203574,7 +203595,11 @@ vague_facts:
   line: '| 2024 | Pre-Seed | $3.3M | Undisclosed | — [^4][^5] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Resolved together with the unknown_value fact above — exact date
+    2024-02-16 confirmed via TechCrunch stealth-emergence article and European Biotechnology
+    Magazine. Table updated.'
 - profile: startups/phonely
   profile_name: Phonely
   company: ~2024
