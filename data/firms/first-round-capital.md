@@ -125,7 +125,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Clay | Seed | ~2022 | GTM tools | Active | [^1][^7] |
 | Fal.ai | Series A | 2024-09-18 | AI infrastructure | Active | [^11] |
 | Together AI | Seed (participated; led by Lux Capital) | 2023-05-15 | AI infrastructure | Active | [^12] |
-| K2 Space | Seed | ~2023 | Space / Hardware | Active | [^1] |
+| K2 Space | Seed ($8.5M; co-led with Republic Capital; Countdown Capital, Boost VC, Also Capital, Side Door Ventures, Earthrise Ventures, Spacecadet VC, Pathbreaker Ventures participated) | 2023-03-10 | Space / Hardware | Active (Series C 2025-12 at $3B val) | [^1][^30] |
 | Pomelo Care | Seed | ~2022 | Healthcare | Active | [^3][^7] |
 | Loyal | Seed | ~2021 | Healthcare / Pets | Active | [^3] |
 | Perpay | Seed | ~2020 | Fintech | Active | [^3] |
@@ -214,3 +214,5 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^28]: Venture Capital Journal, "UberCab Raises $1.25M in Seed Funding," October 15, 2010. Accessed July 2026. https://www.venturecapitaljournal.com/ubercab-raises-125m-in-seed-funding/ — Contemporaneous trade press coverage confirming the $1.25M UberCab seed round announced October 15, 2010 with First Round Capital as lead.
 
 [^29]: FinSMEs, "UberCab Raises $1.25M in Funding," October 2010. Accessed July 2026. https://www.finsmes.com/2010/10/ubercab-raises-1-25m-in-funding.html — Third independent contemporaneous confirmation of the $1.25M seed round: First Round Capital led with Lowercase Capital and Founder Collective participating alongside more than a dozen angel investors.
+
+[^30]: CNBC, "Meet K2 Space, a spacecraft startup leveraging SpaceX Starship," March 10, 2023, accessed July 2026. https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html — Primary press confirmation of March 10, 2023 K2 Space stealth-launch $8.5M Seed round co-led by First Round Capital and Republic Capital with participation from Countdown Capital, Boost VC, Also Capital, Side Door Ventures, Earthrise Ventures, Spacecadet VC, and Pathbreaker Ventures.

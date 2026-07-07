@@ -170211,7 +170211,9 @@ vague_facts:
   line: '| Anduril | Growth | ~2023 | Defense Tech | Active | [^7] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'Tightened to 2024-08-07 Series F ($1.5B at $14B post-money valuation; Sands Capital + Founders Fund co-led; Altimeter Capital listed as existing investor with major commitment — first-check date not publicly disclosed, no Altimeter mention in Series E 2022-12 press). Verified via 3 independent primary sources: Cooley LLP legal advisor announcement dated 2024-08-07 [^47] (primary source), Crunchbase News [^48] (independent tier-1 press), and existing Sourcery VC [^7]. Also confirmed via GovConWire and Built In LA that Altimeter was NOT among Series E investors (Dec 2022), meaning first Altimeter check occurred between Dec 2022 and Aug 2024 via undisclosed secondary or bridge.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: SpaceX
@@ -170231,7 +170233,9 @@ vague_facts:
   line: '| K2 Space | Growth | ~2024 | Aerospace | Active | [^7] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'CORRECTED: no K2 Space round occurred in 2024. Split into TWO tightened rows on altimeter-capital.md: (1) Series B ($110M; co-led with Lightspeed Venture Partners; Alpine Space Ventures + First Round Capital participated) | 2025-02-13 — verified via 3 primary sources: PR Newswire company press release [^49] (2025-02-13), Via Satellite [^50] (2025-02-14 confirmation), and existing Sourcery VC [^7]. (2) Series C ($250M at $3B post-money; Redpoint led; participated alongside Lightspeed, T. Rowe Price, Hedosophia, Alpine Space Ventures) | 2025-12-11 — verified via 3 primary sources: PR Newswire company press release [^51] (2025-12-11), SpaceNews [^52] (2025-12-11 independent industry press), and Cooley LLP legal advisor announcement (2025-12-11). Also updated first-round-capital.md K2 Space Seed row from ~2023 to 2023-03-10.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Parloa
@@ -170242,7 +170246,9 @@ vague_facts:
     |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'CORRECTED: Parloa Series B did NOT occur in 2023 — the 2023 round (led by EQT Ventures) was Series A. Tightened Series B row to 2024-04-24 ($66M / €62M led by Altimeter Capital; EQT Ventures, Newion, Senovo, Mosaic Ventures, La Familia Growth participated). Verified via 3 primary sources: TechCrunch [^53] (2024-04-24), EU-Startups [^54] (2024-04-24), and existing Parloa press release [^30]. Also tightened Series C row from ~2024 to 2025-05-06 ($120M at $1B val — Unicorn; co-led with Durable Capital Partners + General Catalyst; EQT Ventures, RPT Capital, Senovo, Mosaic Ventures participated) via Parloa own newsroom [^55] and EQT Ventures existing-investor blog [^56]. Co-founders Malte Kosub (CEO) and Stefan Ostwald (CTO).'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Cerebras
@@ -172279,7 +172285,9 @@ vague_facts:
   line: '| K2 Space | Seed | ~2023 | Space / Hardware | Active | [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-06
+  resolution_note: 'Tightened to 2023-03-10 Seed ($8.5M; co-led with Republic Capital; Countdown Capital, Boost VC, Also Capital, Side Door Ventures, Earthrise Ventures, Spacecadet VC, Pathbreaker Ventures participated). K2 Space unveiled from stealth on March 10, 2023. Verified via CNBC [^30] (2023-03-10 primary press coverage) plus existing First Round portfolio page [^1]. Founders Karan Kunjur (CEO) and Neel Kunjur (CTO), both former SpaceX engineers.'
 - profile: firms/first-round-capital
   profile_name: First Round Capital
   company: Reducto

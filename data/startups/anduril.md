@@ -276,7 +276,7 @@ Anduril has raised over $11 billion across eight rounds since its 2017 founding 
 | Jul 2020 | Series C | $200M | $1.9B post | Andreessen Horowitz | 8VC, Elad Gil, Founders Fund, General Catalyst, Human Capital, Lux Capital, Valor Equity Partners [^7] |
 | Jun 2021 | Series D | $450M | $4.6B post | Elad Gil | Andreessen Horowitz, 8VC, Founders Fund, General Catalyst, Lux Capital, Valor Equity Partners, D1 Capital Partners [^8] |
 | Dec 2022 | Series E | $1.48B | $8.48B post | Valor Equity Partners | Founders Fund, Andreessen Horowitz, General Catalyst, 8VC, Lux Capital, Thrive Capital, DFJ Growth, Elad Gil, Lachy Groom, Human Capital, WCM Investment Management, MVP Ventures, Lightspeed Venture Partners, US Innovative Technology Fund (Thomas Tull) [^9][^10] |
-| Aug 2024 | Series F | $1.5B | $14B post | Founders Fund, Sands Capital | Fidelity Management & Research, Counterpoint Global, Baillie Gifford, Altimeter Capital, Franklin Venture Partners [^3][^11] |
+| 2024-08-07 | Series F | $1.5B | $14B post | Founders Fund, Sands Capital | Fidelity Management & Research, Counterpoint Global, Baillie Gifford, Altimeter Capital, Franklin Venture Partners [^3][^11] |
 | Jun 2025 | Series G | $2.5B | $30.5B post | Founders Fund ($1B) | — [^2][^4] |
 | 2026-05-13 | Series H | $5B | $61B post | Thrive Capital, Andreessen Horowitz | Founders Fund, Lux Capital [^5][^12][^15][^16][^17] |
 

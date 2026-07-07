@@ -1,7 +1,7 @@
 ---
 founded: 2008
 fund_size: $10.7B AUM (Q4 2025 SEC filing); seventh private venture fund
-last_researched: 2026-03-22
+last_researched: 2026-07-06
 location: Menlo Park, CA / Boston, MA
 name: Altimeter Capital
 sector_focus:
@@ -115,16 +115,17 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | CoreWeave | Series C (participated; Coatue led) | 2024-05-01 | AI Infrastructure | Public (IPO 2025) | [^25][^26][^33] |
 | OpenAI | Growth ($6.6B at $157B post-money) | 2024-10-02 | AI | Active | [^17][^45][^46] |
 | Anthropic | Series F (2025); Series H (co-led, $65B at $965B post-money) 2026-05-28 | 2025; 2026-05-28 | AI / Frontier Models | Active | [^17][^38] |
-| Anduril | Growth | ~2023 | Defense Tech | Active | [^7] |
+| Anduril | Series F ($1.5B round; Sands Capital + Founders Fund co-led at $14B val; Altimeter listed as existing investor — first-check date not publicly disclosed) | 2024-08-07 | Defense Tech | Active | [^7][^47][^48] |
 | SpaceX | Secondary/Growth | ~2023 | Aerospace | Active | [^7] |
-| K2 Space | Growth | ~2024 | Aerospace | Active | [^7] |
+| K2 Space | Series B ($110M; co-led with Lightspeed Venture Partners) | 2025-02-13 | Aerospace | Active | [^7][^49][^50] |
+| K2 Space | Series C ($250M at $3B post-money; Redpoint led; participated) | 2025-12-11 | Aerospace | Active | [^51][^52] |
 | Hammerspace | Series B (lead, $100M at $500M+ valuation) | 2025-04-16 | AI Data Infrastructure | Active | [^27][^34][^35] |
 | Profluent | Series B (co-lead with Bezos Expeditions, $106M) | 2025-11-19 | AI / Biotech | Active | [^28][^36][^37] |
 | Boom Supersonic | Series B (participated; Darsana led) | 2025-12-09 | Aerospace / Energy | Active | [^29][^32] |
 | Castelion | Series B (co-lead, $350M with Lightspeed) | 2025-12-05 | Defense Tech / Hypersonics | Active | [^13][^39][^40][^41] |
-| Parloa | Series B (lead) | ~2023 | AI / Customer Service | Active | [^30] |
-| Parloa | Series C | ~2024 | AI / Customer Service | Active | [^30] |
-| Parloa | Series D | 2026 | AI / Customer Service | Active | [^30] |
+| Parloa | Series B (led, $66M / €62M; EQT Ventures, Newion, Senovo, Mosaic Ventures, La Familia Growth participated) | 2024-04-24 | AI / Customer Service | Active | [^30][^53][^54] |
+| Parloa | Series C (co-led with Durable Capital Partners + General Catalyst, $120M at $1B val — Unicorn; EQT Ventures, RPT Capital, Senovo, Mosaic Ventures participated) | 2025-05-06 | AI / Customer Service | Active | [^30][^55][^56] |
+| Parloa | Series D ($350M at $3B val; General Catalyst led) | 2026-01 | AI / Customer Service | Active | [^30] |
 | Cerebras | Series H | ~2025 | AI Chips | Active | [^13] |
 | LiveKit | Series C (participated, $100M led by Index at $1B val) | 2026-01-22 | AI / Real-time Infrastructure | Active | [^13][^42][^43][^44] |
 | Nexthop AI | Growth | 2026 | AI Networking | Active | [^13] |
@@ -261,3 +262,23 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^45]: Fortune, "OpenAI has raised $6.6 billion in a mega-funding deal that values the ChatGPT maker at $157 billion," October 2, 2024, accessed June 2026. https://fortune.com/2024/10/02/openai-officially-raises-6-6-billion-funding-deal-157-billion-valuation-sam-altman-thrive-capital/ — Confirms October 2, 2024 announcement; $6.6B round led by Thrive Capital at $157B post-money valuation; participants include Altimeter Capital, Microsoft, Nvidia, SoftBank, Khosla Ventures, Fidelity, Tiger Global, and MGX.
 
 [^46]: SiliconANGLE, "OpenAI closes record $6.6B funding round at $157B valuation, plus $4B line of credit," October 2, 2024, accessed June 2026. https://siliconangle.com/2024/10/02/openai-closes-record-6-6b-funding-round-157b-valuation/ — Independent press confirmation of October 2, 2024 announcement; $6.6B at $157B post-money; Altimeter Capital named as participant alongside Microsoft, Nvidia, SoftBank, Khosla Ventures, Fidelity, Tiger Global, and MGX.
+
+[^47]: Cooley LLP legal advisor announcement, "Founders Fund Co-Leads Anduril's $1.5 Billion Series F," August 7, 2024, accessed July 2026. https://www.cooley.com/news/coverage/2024/2024-08-07-founders-fund-co-leads-andurils-1-5-billion-series-f — Primary legal advisor confirmation. Confirms August 7, 2024 announcement; $1.5B Series F at $14B valuation; Founders Fund + Sands Capital co-led; Fidelity Management & Research Co., Counterpoint Global, and Baillie Gifford as new investors; Altimeter and Franklin Venture Partners listed as "existing investors with major commitments."
+
+[^48]: Crunchbase News, "Anduril Industries Valued At $14B After $1.5B Series F," August 2024, accessed July 2026. https://news.crunchbase.com/ai/defense-tech-anduril-industries-series-f/ — Independent tier-1 press confirmation of $1.5B Series F at $14B valuation; Sands Capital and Founders Fund co-led with Fidelity Management & Research Co., Counterpoint Global, and Baillie Gifford as new investors; Altimeter Capital and Franklin Venture Partners listed as existing investors.
+
+[^49]: PR Newswire (K2 Space press release), "K2 Space announces $110M Series B and first successful in-space demonstration," February 13, 2025, accessed July 2026. https://www.prnewswire.com/news-releases/k2-space-announces-110m-series-b-and-first-successful-in-space-demonstration-302375955.html — Primary source. Confirms $110M Series B co-led by Lightspeed Venture Partners and Altimeter Capital, with participation from Alpine Space Ventures and First Round Capital; announcement of 180,000 sq ft factory in Torrance, CA; K2 Space total equity raised $180M.
+
+[^50]: Via Satellite, "K2 Space Raises $110M in Series B Funding," February 14, 2025, accessed July 2026. https://www.satellitetoday.com/finance/2025/02/14/k2-space-raises-110m-in-series-b-funding/ — Independent press confirmation of $110M Series B co-led by Altimeter Capital and Lightspeed Venture Partners on February 13, 2025.
+
+[^51]: PR Newswire (K2 Space press release), "K2 Space Raises $250M at $3B Valuation to Roll Out a New Class of High-Capability Satellites," December 11, 2025, accessed July 2026. https://www.prnewswire.com/news-releases/k2-space-raises-250m-at-3b-valuation-to-roll-out-a-new-class-of-high-capability-satellites-302638936.html — Primary source. Confirms $250M Series C at $3B post-money valuation on December 11, 2025; Redpoint led; T. Rowe Price Associates (via advised accounts), Hedosophia, Altimeter Capital, Lightspeed, and Alpine Space Ventures participated; K2 Space total raised >$450M; co-founders Karan Kunjur (CEO) and Neel Kunjur (CTO).
+
+[^52]: SpaceNews, "K2 Space raises $250 million to scale high-power satellite line," December 11, 2025, accessed July 2026. https://spacenews.com/k2-space-raises-250-million-to-scale-high-power-satellite-line/ — Independent tier-1 space industry press confirmation of December 11, 2025 announcement; $250M Series C at $3B valuation; Redpoint led with Altimeter Capital, Lightspeed, T. Rowe Price, Hedosophia, and Alpine Space Ventures participating.
+
+[^53]: TechCrunch, "Parloa, a conversational AI platform for customer service, raises $66M," April 24, 2024, accessed July 2026. https://techcrunch.com/2024/04/24/parloa-a-conversational-ai-platform-for-customer-service-raises-66m/ — Confirms April 24, 2024 announcement; $66M Series B led by Altimeter Capital; EQT Ventures, Newion, Senovo, Mosaic Ventures, and La Familia Growth participated; total capital raised $98M; co-founders Malte Kosub (CEO) and Stefan Ostwald (CTO).
+
+[^54]: EU-Startups, "Berlin-based Parloa bags €61.7 million Series B to scale and expand AI-powered customer service platform," April 24, 2024, accessed July 2026. https://www.eu-startups.com/2024/04/berlin-based-parloa-bags-e61-7-million-series-b-to-scale-and-expand-ai-powered-customer-service-platform/ — Independent EU tech press confirmation of April 24, 2024 Series B; €61.7M (~$66M) led by Altimeter Capital; new record for European contact-center AI ecosystem.
+
+[^55]: Parloa press release, "Parloa raises $120M Series C to power AI in CX," May 6, 2025, accessed July 2026. https://www.parloa.com/parloa-in-the-press/parloa-raises-120m-series-c-to-reinvent-customer-service-with-agentic-ai/ — Primary source. Confirms $120M Series C on May 6, 2025 at $1B valuation (Unicorn status); co-led by Durable Capital Partners, Altimeter Capital, and General Catalyst; EQT Ventures, RPT Capital, Senovo, and Mosaic Ventures participated; revenue quadrupled since Series B 12 months prior.
+
+[^56]: EQT Ventures, "Investor Perspective: Parloa Reaches Unicorn Status with $120M Series C," May 2025, accessed July 2026. https://stories.eqtventures.com/articles/investor-perspective-parloa-reaches-unicorn-status-with-120m-series-c — Existing-investor perspective confirming May 6, 2025 Series C; $120M at $1B valuation; co-led by Durable Capital Partners, Altimeter Capital, and General Catalyst.

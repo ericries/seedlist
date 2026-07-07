@@ -119,7 +119,7 @@ Anduril Industries is a defense technology company founded in June 2017 by Palme
 | Jul 2020 | Series C | $200M | Andreessen Horowitz | — [^4] |
 | 2021-06-17 | Series D | $450M | Elad Gil | Andreessen Horowitz, Founders Fund, General Catalyst, 8VC, Lux Capital, Valor Equity Partners, D1 Capital Partners [^5][^6][^14] |
 | Dec 2022 | Series E | $1.48B | Valor Equity Partners | Founders Fund, Andreessen Horowitz, General Catalyst, 8VC, Lux Capital, Thrive Capital, DFJ Growth, Elad Gil, Lachy Groom [^7] |
-| Aug 2024 | Series F | $1.5B | Founders Fund, Sands Capital (co-lead) | Fidelity, Franklin Venture Partners, Altimeter [^8][^9] |
+| 2024-08-07 | Series F | $1.5B | Founders Fund, Sands Capital (co-lead) | Fidelity, Franklin Venture Partners, Altimeter [^8][^9] |
 | Jun 2025 | Series G | $2.5B | Founders Fund ($1B) | Sands Capital, Andreessen Horowitz, Fidelity, General Catalyst [^2][^10] |
 | 2026-05-13 | Series H | $5B (at $61B val) | Thrive Capital, Andreessen Horowitz | Founders Fund, Lux Capital [^11][^12][^13] |
 
