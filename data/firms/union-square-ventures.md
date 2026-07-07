@@ -19,9 +19,9 @@ stage_focus:
 - seed
 - series-a
 last_verified_investment:
-  date: 2026-06-03
-  company: Suno
-  round: Series D
+  date: 2026-07-06
+  company: alqem
+  round: Pre-Seed
 status: published
 team:
 - name: Fred Wilson
@@ -115,8 +115,9 @@ Based on USV's portfolio of 130+ startups and 509 total investments across 234 c
 | Board | Series A (led, $20M) | 2026-06-02 | Consumer / Gaming / Hardware | Active | [^26] |
 | Suno | Series D (participant, $400M at $5.4B val; Bond Capital led) | 2026-06-03 | AI / Generative Music / Consumer | Active | [^27] |
 | Fomo | Series B (participated, $75M at ~$550M val; Index Ventures led) | 2026-06-22 | Fintech / Crypto / Consumer Trading | Active | [^28][^29][^30][^31] |
+| alqem | Pre-Seed (co-led, €8M with UVC Partners) | 2026-07-06 | Deep-tech / Materials / AI / Rare-Earth-Free Magnets | Active | [^32][^33][^34] |
 
-*This table represents approximately 17 of 130+ known startup investments. USV's portfolio of 234 companies includes follow-on investments [^7][^8].*
+*This table represents approximately 18 of 130+ known startup investments. USV's portfolio of 234 companies includes follow-on investments [^7][^8].*
 
 *USV's early $5 million Coinbase stake was valued at $4.6 billion at the company's 2021 IPO [^9]. As of 2016, USV had achieved seven exits valued at $1 billion or more [^10].*
 
@@ -173,3 +174,9 @@ No independently sourced founder testimonials found. USV's portfolio founders ha
 [^30]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/ — Third independent confirmation of USV participation in Fomo's Series B.
 
 [^31]: fomo, "fomo Series B led by Index Ventures," June 22, 2026. Accessed June 2026. https://fomo.family/blog/fomo-series-b/ — Fomo's own company press release confirming Union Square Ventures' Series B participation alongside Benchmark and 11 angels.
+
+[^32]: EU-Startups, "Europe's magnet supply chain push gets €8 million boost from German startup alqem," July 6, 2026. Accessed July 2026. https://www.eu-startups.com/2026/07/europes-magnet-supply-chain-push-gets-e8-million-boost-from-german-startup-alqem — Confirms Union Square Ventures co-led alqem's €8M pre-seed alongside UVC Partners.
+
+[^33]: Tech Funding News, "alqem raises €8M from UVC Partners and Union Square Ventures to hunt for rare-earth-free magnets," July 6, 2026. Accessed July 2026. https://techfundingnews.com/alqem-raises-8m-rare-earth-free-magnets/ — Independent confirmation of Union Square Ventures co-lead in €8M pre-seed; includes quote from Albert Wenger of USV.
+
+[^34]: UVC Partners, "alqem raises €8M to scale its AI-driven Materials Discovery engine built on the largest known materials database," July 2026. Accessed July 2026. https://www.uvcpartners.com/blog/endless-materials-alqem-raises-eu8m-to-scale-its-ai-driven-materials-discovery-engine-built-on-the-largest-known-materials-database — Co-lead firm's own portfolio announcement confirming the round structure.

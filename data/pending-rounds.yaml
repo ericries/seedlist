@@ -28,7 +28,9 @@ pending_rounds:
   parsed_company: Lisbon-based BIZAY
   parsed_amount: null
   parsed_round: Series D
-  status: pending
+  status: processed
+  processed_slug: bizay
+  processed_date: '2026-07-07'
 - title: Leiden-based Whispp raises €5 million to scale on-device voice reconstruction
     AI technology globally
   url: https://www.eu-startups.com/2026/07/leiden-based-whispp-raises-e5m-to-scale-on-device-voice-reconstruction-ai-technology-globally/

@@ -3,9 +3,9 @@ check_size: $1M–$6M
 firm: union-square-ventures
 last_researched: 2026-03-25
 last_verified_investment:
-  company: Viam
-  date: 2025-03-03
-  round: Series C
+  company: alqem
+  date: 2026-07-06
+  round: Pre-Seed
 location: New York, NY
 name: Albert Wenger
 role: Managing Partner
@@ -105,8 +105,9 @@ Based on 20 verified investments with confirmed Wenger board involvement, source
 | Shapeways | ~2011 | Early | 3D Printing/Marketplace | [^4] |
 | Zanskar | 2022 | Early | Climate/Geothermal | [^28] |
 | Viam | 2025-03-03 | Series C ($30M, led by USV) | Robotics/AI | [^29][^32][^36] |
+| alqem | 2026-07-06 | Pre-Seed (€8M, USV co-led with UVC Partners) | Deep-tech / Materials / AI | [^37][^38] |
 
-*This table represents approximately 19 verified investments with confirmed Wenger board involvement. USV's full portfolio across all partners includes 130+ companies [^30].*
+*This table represents approximately 20 verified investments with confirmed Wenger board involvement. USV's full portfolio across all partners includes 130+ companies [^30].*
 
 ## In Their Own Words
 
@@ -198,3 +199,5 @@ On USV's climate fund: "The USV Climate Fund is a straight up venture fund. We b
 [^34]: Allen Lau, LinkedIn post, "It feels like it's been ages since we were last here! In 2011, Union…," accessed March 2026. https://www.linkedin.com/posts/notallenlau_it-feels-like-its-been-ages-since-we-were-activity-7104780206053224448-Eqgg
 [^35]: FinSMEs, "10gen Completes $3.4M Series B Round of Financing," November 2009 — citing Albert Wenger joining the board of 10gen (MongoDB), accessed March 2026. https://www.finsmes.com/2009/11/10gen-completes-3-4m-series-b-round-of-financing.html
 [^36]: Viam, "Announcing Viam's $30M Series C fundraise," company blog, March 3, 2025, accessed June 2026. https://www.viam.com/post/series-c
+[^37]: Tech Funding News, "alqem raises €8M from UVC Partners and Union Square Ventures to hunt for rare-earth-free magnets," July 6, 2026. Accessed July 2026. https://techfundingnews.com/alqem-raises-8m-rare-earth-free-magnets/ — Wenger quoted personally on the alqem thesis, confirming USV involvement.
+[^38]: chemeurope.com, "8 million euros for the materials of tomorrow — Deep tech startup alqem is scaling its AI platform for materials research," July 2026. Accessed July 2026. https://www.chemeurope.com/en/news/1189143/8-million-euros-for-the-materials-of-tomorrow.html

@@ -2447,3 +2447,11 @@ priority:
   status: resolved
   resolved: '2026-07-07'
   resolution_note: 'Verified 3+ primary sources for Telepatia $33M Series A 2026-06-17 led by a16z Bio + Health. andreessen-horowitz.md portfolio row already reflects "Telepatia | Series A (led via a16z Bio+Health, $33M) | 2026-06-17 | Healthtech / Clinical AI / Latin America" with 3 primary sources: a16z own announcement [^129] (200 OK — confirms USD 33M, all three partners Daisy Wolf + Gabriel Vasquez + Eva Steinman as co-authors, June 17 2026 date, all three angels Shyam Sankar/Palantir CTO + Simón Borrero/Rappi + David Vélez/Nubank, founder Nicolás Abad), TheNextWeb [^130] (200 OK — independent confirmation, Daisy Wolf partner-quote "We just clearly saw them as the winner", $33M, June 17 2026, all angels, founder quote from Abad about his father), LatamList [^131] (200 OK — third independent confirmation of $33M a16z-led round with all three angels; June 18 2026 publication is a one-day artifact — a16z own June 17 date is canonical). Bloomberg Spanish edition also cited on telepatia.md [^4] as fourth confirmation (paywalled/403 but URL exists). Founder Nicolás Abad quote in TheNextWeb: "This is the product that would have saved my father as a patient, and that he would have loved as a doctor." Hospital operator testimonial from José Henrique Dias Salvador (CEO, Mater Dei) captured in a16z announcement. telepatia.md startup profile is complete with same 4 primary sources. No further tightening possible. Fact spec confirmed.'
+- slug: union-square-ventures
+  type: firm
+  reason: "appeared in alqem Pre-Seed (2026-07-06), €8M co-led with UVC Partners"
+  added: '2026-07-07'
+- slug: albert-wenger
+  type: investor
+  reason: "quoted in alqem Pre-Seed (2026-07-06), €8M USV co-led with UVC Partners"
+  added: '2026-07-07'
