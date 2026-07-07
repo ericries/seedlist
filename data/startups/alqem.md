@@ -1,27 +1,30 @@
 ---
-name: alqem
-slug: alqem
-type: startup
-website: https://www.alqem.ai
-location: Munich, Germany
+firms:
+- date: 2026-07-06
+  round: pre-seed
+  slug: union-square-ventures
+  year: 2026
 founded: 2026
-status_company: active
+investors:
+- round: Pre-Seed (€8M, USV co-led with UVC Partners)
+  slug: albert-wenger
+  year: 2026
+last_researched: 2026-07-07
+location: Munich, Germany
+name: alqem
 sector:
 - deep-tech
 - ai
 - materials-science
 - energy
 - supply-chain
+slug: alqem
 stage_latest: Pre-Seed
-total_raised: "€8M (Pre-Seed alone)"
-firms:
-  - slug: union-square-ventures
-    round: pre-seed
-    year: 2026
-    date: 2026-07-06
-investors: []
-last_researched: 2026-07-07
 status: published
+status_company: active
+total_raised: €8M (Pre-Seed alone)
+type: startup
+website: https://www.alqem.ai
 ---
 
 ## About

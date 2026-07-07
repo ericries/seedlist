@@ -23973,7 +23973,7 @@ queue:
 - name: Jim Kim
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Builders VC
   discovered_from: mike-rosengarten
@@ -24287,7 +24287,7 @@ queue:
 - name: Will Quist
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Slow Ventures
   discovered_from: yoni-rechtman
@@ -36545,3 +36545,27 @@ queue:
   discovered_from: hive-autonomy
   source: founder of Meltwater; angel investor in Hive Autonomy €13.1M pre-Series
     A (2026-07-07)
+- name: Amit Mehta
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Builders VC
+  discovered_from: jim-kim
+  source: General Partner at Builders VC
+- name: Alex Kinnier
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Builders VC
+  discovered_from: jim-kim
+  source: General Partner at Builders VC
+- name: Tarik Sultan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Builders VC
+  discovered_from: jim-kim
+  source: Partner, Head of MENA at Builders VC

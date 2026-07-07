@@ -1,25 +1,42 @@
 ---
-name: "Telepatia"
-slug: telepatia
-type: startup
-website: "https://www.telepatia.ai"
-location: "Colombia"
-founded: 2025
-status_company: active
-sector: [healthtech, ai, healthcare, latin-america, clinical-ai]
-stage_latest: "Series A"
-total_raised: "$42M"
 firms:
-  - slug: andreessen-horowitz
-    round: series-a
-    year: 2026
-    date: 2026-06-17
-investors: []
+- date: 2026-06-17
+  round: series-a
+  slug: andreessen-horowitz
+  year: 2026
+- round: Series A
+  slug: rappi
+  year: 2026
+- round: '2025-10-16'
+  slug: abstract-ventures
+  year: 2025
+founded: 2025
 founders:
-  - name: "Nicolás Abad"
-    role: "CEO & Founder"
-status: published
+- name: Nicolás Abad
+  role: CEO & Founder
+investors:
+- round: Series A
+  slug: simon-borrero
+  year: 2026
+- round: '2025-10-16'
+  slug: ramtin-naimi
+  year: 2025
 last_researched: 2026-07-07
+location: Colombia
+name: Telepatia
+sector:
+- healthtech
+- ai
+- healthcare
+- latin-america
+- clinical-ai
+slug: telepatia
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $42M
+type: startup
+website: https://www.telepatia.ai
 ---
 
 ## About

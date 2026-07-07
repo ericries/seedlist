@@ -1,33 +1,53 @@
 ---
-name: "Proxima Fusion"
-slug: proxima-fusion
-type: startup
-website: "https://www.proximafusion.com"
-location: "Munich, Germany"
-founded: 2023
-status_company: active
-sector: [deep-tech, energy, fusion, climate, hardware]
-stage_latest: "Growth"
-total_raised: "€650M+ (including €95M in public grants)"
 firms:
-  - slug: balderton-capital
-    round: series-a
-    year: 2025
-    date: 2025-06-11
-  - slug: balderton-capital
-    round: growth
-    year: 2026
-    date: 2026-07-07
-  - slug: dst-global
-    round: growth
-    year: 2026
-    date: 2026-07-07
-investors: []
+- date: 2025-06-11
+  round: series-a
+  slug: balderton-capital
+  year: 2025
+- date: 2026-07-07
+  round: growth
+  slug: balderton-capital
+  year: 2026
+- date: 2026-07-07
+  round: growth
+  slug: dst-global
+  year: 2026
+- round: Plural investor
+  slug: independent
+  year: 2023
+- round: Seed/Series A (Plural participant)
+  slug: plural
+  year: 2024
+founded: 2023
 founders:
-  - name: "Francesco Sciortino"
-    role: "CEO & Co-Founder"
-status: published
+- name: Francesco Sciortino
+  role: CEO & Co-Founder
+investors:
+- round: Series A
+  slug: daniel-waterhouse
+  year: 2025
+- round: Plural investor
+  slug: ian-hogarth
+  year: 2023
+- round: Seed/Series A (Plural participant)
+  slug: taavet-hinrikus
+  year: 2024
 last_researched: 2026-07-07
+location: Munich, Germany
+name: Proxima Fusion
+sector:
+- deep-tech
+- energy
+- fusion
+- climate
+- hardware
+slug: proxima-fusion
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: €650M+ (including €95M in public grants)
+type: startup
+website: https://www.proximafusion.com
 ---
 
 ## About
