@@ -2405,3 +2405,15 @@ priority:
   resolved: '2026-07-06'
   resolution_note: Speechify row on forerunner-ventures.md ("Early | ~2021 | Education/AI | [^1]") attempted resolution — NO round type, date, amount, lead, or syndicate could be independently verified through primary sources. Forerunner own portfolio page (forerunnerventures.com/investments/speechify) confirms 2021 but discloses no round details. Speechify own newsroom URL for a funding announcement (speechify.com/news/speechify-raises-10M-100M-valuation) appears in Google search index but returns HTTP 404 on WebFetch. Speechify press page (speechify.com/press) lists media coverage but no funding-round announcements. NO TechCrunch/Fortune/Forbes/Bloomberg/WSJ contemporaneous coverage found after multiple targeted searches. Aggregators (Crunchbase/CB Insights/Tracxn) list only Jan 1 2021 placeholder dates and undisclosed amounts. Per anti-hallucination rules ("never fabricate, never guess, when in doubt leave it out"), the Forerunner profile row remains at "Early | ~2021" with Forerunner
     portfolio page as citation. Speechify has publicly stated "undisclosed" round amounts in multiple third-party interviews (e.g., Latka/getlatka). Marking unresolvable.
+- slug: balderton-capital
+  type: firm
+  reason: 'appeared in Proxima Fusion growth round (2026-07-07), €411M at €2.4B val — XTX Ventures + East X Ventures co-led; Balderton returning investor'
+  added: '2026-07-07'
+- slug: dst-global
+  type: firm
+  reason: 'appeared in Proxima Fusion growth round (2026-07-07), €411M at €2.4B val — DST Global Partners returning investor'
+  added: '2026-07-07'
+- slug: andreessen-horowitz
+  type: firm
+  reason: 'led Telepatia Series A (2026-06-17), $33M via a16z Bio + Health — Daisy Wolf, Gabriel Vasquez, Eva Steinman'
+  added: '2026-07-07'

@@ -151,6 +151,7 @@ The following table includes DST Global investments verified through press cover
 | Ricursive Intelligence | Series A (participated) | 2026-01-26 | AI / Semiconductor Design | Private [^31][^32][^33] |
 | Prometheus | Series B (participated) | 2026-06-11 | AI / Industrial AI | Private [^34][^35][^36] |
 | Partly | Series B (led, $50M at $500M val) | 2026-06-23 | AI / Automotive / Vertical SaaS | Private [^37][^38][^39][^40][^41] |
+| Proxima Fusion | Growth (participated, €411M at €2.4B val; XTX Ventures + East X Ventures co-led) | 2026-07-07 | Deep Tech / Fusion Energy / Climate | Private [^42][^43][^44] |
 
 *Note: This table includes 34 companies out of 214 total (~16%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
 
@@ -284,3 +285,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^40]: NewsWire NZ, "Christchurch-founded Partly raises US$50 million and closes in on New Zealand unicorn status," June 2026. Accessed June 2026. https://newswire.co.nz/2026/06/partly-series-b-50-million-dst-global-2026/ — NZ-based contemporaneous press; confirms US$50M led by DST Global at US$500M valuation; partial close with no further raise expected until 2027; total capital to date US$92.4M.
 
 [^41]: SiliconANGLE, "Partly raises $50M at a $500M valuation to crack the US auto parts market," June 23, 2026. Accessed June 2026. https://siliconangle.com/2026/06/23/partly-raises-50m-500m-valuation-crack-us-auto-parts-market/ — Independent tier-1 tech press confirmation of $50M Series B led by DST Global Advisors Ltd. at $500M valuation.
+
+[^42]: BusinessWire, "Proxima Fusion Raises €411 Million at a €2.4B Valuation to Build Europe's Commercial Fusion Champion," July 7, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260707899566/en/Proxima-Fusion-Raises-%E2%82%AC411-Million-at-a-%E2%82%AC2.4B-Valuation-to-Build-Europes-Commercial-Fusion-Champion — Official announcement listing DST Global Partners as a returning investor in the €411M growth round on July 7, 2026, co-led by XTX Ventures and East X Ventures, with Google (first EU fusion investment) and RWE (€25M) as new strategic investors alongside KfW Capital, SPRIND, Burda Principal Investments.
+
+[^43]: Sifted, "Google backs Munich fusion company Proxima in €411M round," July 7, 2026. Accessed July 2026. https://sifted.eu/articles/google-proxima-fusion-411m-raise — Independent confirmation of the €411M growth round and DST Global's continued participation alongside Plural, Balderton, Cherry Ventures, UVC Partners, Lightspeed, redalpine, Leitmotif, Elaia, CDP Venture Capital, Bayern Kapital, EIC Fund, and Brevan Howard Macro Venture.
+
+[^44]: Bloomberg, "Google, RWE Back German Nuclear Startup Proxima Fusion at $2.4 Billion Valuation," July 7, 2026. Accessed July 2026. https://www.bloomberg.com/news/articles/2026-07-07/google-rwe-back-german-nuclear-startup-proxima-fusion-at-2-4-billion-valuation — Third independent confirmation of the €411M growth round; €2.4B post-money; total funding to date exceeds €650M including €95M in public grants.
