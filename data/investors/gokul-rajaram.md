@@ -131,6 +131,7 @@ Based on 31 verified investments from Rajaram's angel portfolio (a subset of 300
 | Maneva | Seed (participant) | 2025-03-07 | AI/Manufacturing Vision | BetaKit [^13]; SignalBase [^14] |
 | Straiker | Series A (Marathon-led; Rajaram joined board) | 2026-06-29 | AI/Cybersecurity | PR Newswire [^15]; Tech Startups [^16] |
 | Katalyze AI | Seed (angel participant; Bonfire Ventures-led, $10.5M; participated alongside Inovia Capital, Ripple Ventures, Alumni Ventures, and angel Farzad Soleimani) | 2026-07-06 | AI/Agentic AI/Pharma | WebWire [^17]; BetaKit [^18]; FinSMEs [^19] |
+| Turbo Law | Seed (angel participant; Revo Capital-led, $3.8M; participated alongside Treeo VC, BridgeX Ventures, Alchemist Accelerator) | 2026-06-18 | AI/Legal Tech | Tech.eu [^20]; Global Legal Post [^21]; The SaaS News [^22] |
 
 *This table represents a subset of Rajaram's 300+ angel investments and Marathon fund investments. Only 36 of 300+ investments are listed; many others are unverified or undisclosed [^1][^2].*
 
@@ -171,3 +172,9 @@ Based on 31 verified investments from Rajaram's angel portfolio (a subset of 300
 [^17]: WebWire, "Katalyze AI Raises $10.5M to Build the Agentic Operating System for Pharmaceutical Companies," July 6, 2026. Accessed July 2026. https://www.webwire.com/ViewPressRel.asp?aId=357045
 [^18]: BetaKit, "Katalyze AI thinks the future of pharma operations is teams of AI agents," July 6, 2026. Accessed July 2026. https://betakit.com/katalyze-ai-thinks-the-future-of-pharma-operations-is-teams-of-ai-agents/
 [^19]: FinSMEs, "Katalyze AI Raises USD 10.5M in Seed Funding," July 6, 2026. Accessed July 2026. https://www.finsmes.com/2026/07/katalyze-ai-raises-10-5m-in-seed-funding.html — Third independent primary source explicitly naming Gokul Rajaram and Farzad Soleimani among the angel investors in the Bonfire Ventures-led seed round.
+
+[^20]: Tech.eu, "Revo Capital leads Turbo Law's $3.8M seed round to expand litigation platform," June 18, 2026. Accessed July 2026. https://tech.eu/2026/06/18/revo-capital-leads-turbo-laws-38m-seed-round-to-expand-litigation-platform/
+
+[^21]: The Global Legal Post, "US AI litigation platform start-up Turbo Law raises $3.8m in pre-seed funding round," June 2026. Accessed July 2026. https://www.globallegalpost.com/news/us-ai-litigation-platform-start-up-turbo-law-raises-38m-in-pre-seed-funding-round-1445015597
+
+[^22]: The SaaS News, "Turbo Law Raises $3.8M Seed," June 2026. Accessed July 2026. https://www.thesaasnews.com/news/turbo-law-raises-3-8m-seed/

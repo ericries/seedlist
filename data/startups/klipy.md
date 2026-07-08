@@ -13,6 +13,10 @@ firms: []
 founders:
   - name: "Givi Beridze"
     role: "CEO & Co-Founder"
+  - name: "Frank Nawabi"
+    role: "Co-Founder"
+  - name: "Waska Chaduneli"
+    role: "Co-Founder"
 status: published
 last_researched: 2026-06-03
 ---
@@ -46,3 +50,5 @@ Frank Nawabi, Co-Founder: "KLIPY is building a next-generation 'expression layer
 [^2]: Finsmes, "KLIPY Raises $3.8M in Funding," June 2026. Accessed June 2026. https://www.finsmes.com/2026/06/klipy-raises-3-8m-in-funding.html
 
 [^3]: The SaaS News, "KLIPY Secures $3.8M in Funding," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/klipy-secures-3-8m-in-funding/
+
+[^4]: Tech Startups, "KLIPY raises $3.8 million, joins Google's AI Futures Fund to build the AI-powered expression layer," June 17, 2026. Accessed July 2026. https://techstartups.com/2026/06/17/klipy-raises-3-8-million-joins-googles-ai-futures-fund-to-build-the-ai-powered-expression-layer/

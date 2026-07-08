@@ -1475,6 +1475,9 @@ priority:
   type: firm
   reason: led Festina Finance €25M+ growth round (2026-06-19)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-07-07'
+  resolution_note: Verified Birchway Capital (UK growth equity) led Festina Finance €25M+ growth round at ~€200M valuation on 2026-06-19. Added FinTech Futures [^4] and Pulse 2.0 [^5] as additional primary sources on festina-finance.md, plus new Schantz quote about cloud-native modular systems. No firm profile for Birchway Capital yet.
 - slug: bessemer-venture-partners
   type: firm
   reason: led Verse Series B $54M (2026-06-18)
@@ -1507,10 +1510,16 @@ priority:
   type: startup
   reason: new Seed $3.8M with Google AI Futures Fund (2026-06-17)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-07-07'
+  resolution_note: 'Verified KLIPY $3.8M seed on 2026-06-17 with Google AI Futures Fund via 4+ primary sources (PR Newswire, Finsmes, The SaaS News, Tech Startups). Silber quote matches verbatim. Added Frank Nawabi and Waska Chaduneli as co-founders (previously missing) and Tech Startups as fourth citation [^4].'
 - slug: turbo-law
   type: startup
   reason: new Seed $3.8M led by Revo Capital (2026-06-18)
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-07-07'
+  resolution_note: 'Verified Turbo Law $3.8M seed led by Revo Capital on 2026-06-18 via 4+ primary sources (Tech.eu, Global Legal Post, The SaaS News, PR Newswire/Morningstar). Added Sarmaz founder quote from tech.eu, Morningstar/PR Newswire as fourth citation [^4], and added Turbo Law row to gokul-rajaram investor portfolio table with three primary source citations [^20][^21][^22].'
 - slug: somareality
   type: startup
   reason: New profile for SOMAREALITY €3M Series A (2026-06-18)
