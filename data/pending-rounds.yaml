@@ -75,14 +75,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Venus Aerospace raises $90M Series B to build a new kind of rocket engine
-  url: https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/
-  source: techcrunch
-  date_found: '2026-07-08'
-  parsed_company: Venus Aerospace
-  parsed_amount: $90M
-  parsed_round: Series B
-  status: pending
 - title: Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups
   url: https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/
   source: techcrunch
@@ -90,15 +82,6 @@ pending_rounds:
   parsed_company: Crypto VC firm Paradigm
   parsed_amount: $1.2B
   parsed_round: null
-  status: pending
-- title: Prime Intellect raises $130M Series A to help enterprises build their own
-    AI agents
-  url: https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
-  source: techcrunch
-  date_found: '2026-07-08'
-  parsed_company: Prime Intellect
-  parsed_amount: $130M
-  parsed_round: Series A
   status: pending
 - title: 'Exclusive: EdVisorly Raises $13.3M Series A To Fix The Messy College Transfer
     Process With AI'
