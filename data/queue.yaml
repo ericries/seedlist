@@ -36878,3 +36878,84 @@ queue:
   added: '2026-03-17'
   discovered_from: even-realities
   source: participated in Even Realities $150M Pre-Series B (2026-07-06)
+- name: Red Dot Capital Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tangos-ai
+  source: led Tangos AI Seed (2026-07-07), $20M
+- name: Leaders Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tangos-ai
+  source: participated in Tangos AI Seed (2026-07-07), $20M
+- name: Clarim Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tangos-ai
+  source: participated in Tangos AI Seed (2026-07-07), $20M
+- name: Venture Israel
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tangos-ai
+  source: participated in Tangos AI Seed (2026-07-07), $20M
+- name: Clutch VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tangos-ai
+  source: participated in Tangos AI Seed (2026-07-07), $20M
+- name: Selah Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tangos-ai
+  source: participated in Tangos AI Seed (2026-07-07), $20M
+- name: Eyal Azoulay
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tangos AI
+  discovered_from: tangos-ai
+  source: Founder/CEO of Tangos AI (raised $20M Seed 2026-07-07); 3 prior exits including
+    BNY acquisition
+- name: IAG Firemark Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adaptive-insurance
+  source: participated in Adaptive Insurance financing (2026-07-07), $5M
+- name: Sunna Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adaptive-insurance
+  source: participated in Adaptive Insurance financing (2026-07-07), $5M
+- name: Room & Pillar
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adaptive-insurance
+  source: participated in Adaptive Insurance financing (2026-07-07), $5M
+- name: Mike Gulla
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Adaptive Insurance
+  discovered_from: adaptive-insurance
+  source: Co-Founder & CEO of Adaptive Insurance; 20-yr career at Nationwide, Allstate,
+    Hippo (first insurance hire)

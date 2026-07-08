@@ -4947,3 +4947,18 @@ priority:
   added: 2026-07-07
   status: resolved
   resolved: 2026-07-07
+- slug: andreessen-horowitz
+  type: firm
+  reason: "participated in Fleek Series B (2026-07-08), $25M"
+  added: 2026-07-08
+  status: pending
+- slug: fj-labs
+  type: firm
+  reason: "participated in Fleek Series B (2026-07-08), $25M"
+  added: 2026-07-08
+  status: pending
+- slug: y-combinator
+  type: firm
+  reason: "participated in Fleek Series B (2026-07-08), $25M"
+  added: 2026-07-08
+  status: pending
