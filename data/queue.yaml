@@ -36679,3 +36679,56 @@ queue:
   firm: Cohere
   discovered_from: clem-delangue
   source: Cohere co-founder; angel co-investor with Delangue in Helical (2024)
+- name: Granite Hill Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arkenstone-defense
+  source: participated Arkenstone Defense $35M seed 2026-07-07
+- name: Artis Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arkenstone-defense
+  source: participated Arkenstone Defense $35M seed 2026-07-07
+- name: Alexander Harstrick
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: J2 Ventures
+  discovered_from: arkenstone-defense
+  source: Managing Partner and Co-Founder of J2 Ventures; led Arkenstone Defense $35M
+    seed 2026-07-07
+- name: Peter Dixon
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arkenstone-defense
+  source: Co-Founder & CEO of Arkenstone Defense; previously founded Second Front
+    Systems
+- name: TPG
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: super-com
+  source: led Super.com $65M Series D 2026-07-07 at $1.2B valuation
+- name: Lion Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: super-com
+  source: participated Super.com $65M Series D 2026-07-07
+- name: Hussein Fazal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: super-com
+  source: Co-Founder & CEO of Super.com; Toronto-based savings super app; $1.2B valuation
+    2026-07-07
