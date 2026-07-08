@@ -3052,12 +3052,16 @@ priority:
     primary source citations [^20][^21][^22].
 - slug: somareality
   type: startup
-  reason: New profile for SOMAREALITY €3M Series A (2026-06-18)
+  reason: 'Fact-spec sweep 2026-07-08: verified SOMAREALITY 2026-06-18 Series A (€3M+ oversubscribed) led by Catalyst Romania with existing investors MT-Lab, RDY Ventures, Moondust Ventures, Gateway Ventures participating via 5 independent sources — Catalyst Romania primary press release [^4], Vestbee [^2], BeBeez [^3], EU-Startups [^1], and added Trending Topics [^5]. Added Catalyst Romania Partner Alin Stanciu quote and confirmed 13th Fund II investment / 3rd CEE outside Romania detail.'
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-07-08'
 - slug: adomate
   type: startup
-  reason: New profile for Adomate €1.4M Seed (2026-06-19)
+  reason: 'Fact-spec sweep 2026-07-08: verified Adomate 2026-06-19 Seed (€1.4M) with participants Angelwise, RDY Ventures, Seeder Fund, ML6 and angels Jo Deblaere, Jeroen De Wit, Willem Dumon, Johnny Kegels, Stefan Tournoy via 3 independent sources — EU-Startups [^1] (existing), added The SaaS News [^3] and MandA [^4]. Note: lead status of Angelwise per EU-Startups only; other sources do not explicitly identify a lead. Parallel update on jeroen-de-wit.md added Adomate row to portfolio ([^10][^11][^12]) and updated LVI from 2025-09-18 Eagl to 2026-06-19 Adomate.'
   added: '2026-06-03'
+  status: resolved
+  resolved: '2026-07-08'
 - slug: coinfund
   type: firm
   reason: led Trace Finance $32M Series A (2026-06-17) — portfolio updated
@@ -3231,8 +3235,10 @@ priority:
     press release as 4th citation to john-doerr.md [^36].'
 - slug: grid-online
   type: startup
-  reason: New profile for €4M seed extension (2026-06-22, DFF/Movens co-led)
+  reason: 'Fact-spec sweep 2026-07-08: verified Grid.online 2026-06-22 Seed extension (€4M) co-led by DFF Ventures and Movens Capital with Reflex Capital, J&T Ventures, and Wolt early-team angels participating via 3 independent sources — EU-Startups [^1] (existing), Tech.eu [^2] (existing), and added The Recursive [^4]. Added investor quotes (Hidde Hoogcarspel/DFF, Łukasz Lewandowski/Movens) and founder quote (Ondřej Krátký, CEO). Also tightened 2025 seed date to 2025-02-12 per AIN [^3].'
   added: '2026-06-22'
+  status: resolved
+  resolved: '2026-07-08'
 - slug: lowercarbon-capital
   type: firm
   status: resolved

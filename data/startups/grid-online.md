@@ -30,19 +30,22 @@ The company reports scaling parcel volumes more than 10× in its first year of o
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
-| 2025-02 | Seed | €1.5M | Reflex Capital | — [^3] |
-| 2026-06-22 | Seed extension | €4M | DFF Ventures, Movens Capital (co-lead) | Reflex Capital, J&T Ventures, Wolt early-team angels [^1] [^2] |
+| 2025-02-12 | Seed | €1.5M | Reflex Capital | — [^3] |
+| 2026-06-22 | Seed extension | €4M | DFF Ventures, Movens Capital (co-lead) | Reflex Capital, J&T Ventures, Wolt early-team angels [^1] [^2] [^4] |
 
 ## What Investors Say
 
-No independently sourced investor quotes beyond announcement boilerplate found at time of research.
+Hidde Hoogcarspel, DFF Ventures: "Most early-stage logistics companies grow by spending. Grid.online grew 10× while having strong unit economics — that almost never happens, and when it does, it means the model is structurally sound." [^2]
+
+Łukasz Lewandowski, Movens Capital: "Grid.online solves a problem every parcel carrier in Europe is feeling, with the durable economics of shared infrastructure rather than the high burn math of gig-economy delivery." [^2]
 
 ## What Founders Say
 
-No independently sourced founder quotes found at time of research beyond announcement coverage.
+Ondřej Krátký, CEO & Co-Founder: "We built grid.online on the trust of our early clients and couriers, who saw what we saw: that e-commerce delivery is heading toward more vehicles on the streets and tougher economics unless the industry builds a shared alternative." [^2][^4]
 
 ## Sources
 
 [^1]: EU-Startups, "With almost 2,000 active couriers, Grid.online raises €4 million to expand shared last-mile delivery network," June 22, 2026. https://www.eu-startups.com/2026/06/with-almost-2000-active-couriers-grid-online-raises-e4-million-to-expand-shared-last-mile-delivery-network/
 [^2]: Tech.eu, "Czech logistics startup Grid.online lands €4M after growing deliveries 10× in a year," June 22, 2026. https://tech.eu/2026/06/22/czech-logistics-startup-grid-online-lands-4m-after-growing-deliveries-10-in-a-year/
 [^3]: AIN, "Czech logistics startup grid.online secures €1.5M investment from Reflex Capital," February 12, 2025. https://en.ain.ua/2025/02/12/czech-logistics-startup-gridonline-secures-eur15m-investment-from-reflex-capital/
+[^4]: The Recursive, "Czech Grid.online raises €4M after 10× delivery growth in its first year," June 23, 2026. https://www.therecursive.com/czech-grid-online-seed-investment-dff-ventures/

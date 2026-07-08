@@ -9,8 +9,8 @@ stage_focus: [pre-seed, seed]
 sector_focus: [saas, ai, b2b-saas, vertical-saas, legaltech, healthtech]
 check_size: "€25K-€100K (angel)"
 last_verified_investment:
-  date: 2025-09-18
-  company: "Eagl"
+  date: 2026-06-19
+  company: "Adomate"
   round: "Seed"
 social:
   linkedin: "linkedin.com/in/dewitjeroen"
@@ -48,8 +48,9 @@ Sample size is small (11 publicly tracked angel investments per Tracxn and Inves
 | Driven | 2025 | Seed ($1.75M) | [^3] |
 | Getdalton | 2025 | Seed ($1.16M) | [^3] |
 | Eagl | 2025-09-18 | Seed ($975K) | [^3] |
+| Adomate | 2026-06-19 | Seed (€1.4M) | [^10][^11][^12] |
 
-Total publicly verifiable: 9 of ~11 claimed angel investments.
+Total publicly verifiable: 10 of ~12 claimed angel investments.
 
 ## In Their Own Words
 
@@ -70,3 +71,6 @@ No independently sourced founder testimonials about working with De Wit were fou
 [^7]: Crunchbase, "IntelliProve funding round Jan 22, 2025 (Gilles Mattelin + 8 others)," accessed June 2026. https://www.crunchbase.com/organization/intelliprove
 [^8]: Crunchbase, "Jurimesh funding round Feb 27, 2025 (Anthony De Clerck + 9 others)," accessed June 2026. https://www.crunchbase.com/organization/jurimesh
 [^9]: Crunchbase, "Polysense funding round Feb 27, 2025 (Andreas De Neve + 8 others)," accessed June 2026. https://www.crunchbase.com/organization/polysense
+[^10]: EU-Startups, "Ghent-based Adomate raises €1.4 million to help marketers create AI-powered social media ads at scale," June 19, 2026. https://www.eu-startups.com/2026/06/ghent-based-adomate-raises-e1-4-million-to-help-marketers-create-ai-powered-social-media-ads-at-scale
+[^11]: The SaaS News, "Adomate Raises €1.4M in Funding," June 19, 2026. https://www.thesaasnews.com/news/adomate-raises-eur1-4m-in-funding/
+[^12]: MandA, "Belgian startup Adomate secures 1.4 million euros to scale AI-powered ad creation," June 17, 2026. https://manda.be/articles/belgian-startup-adomate-secures-1-4-million-euros-to-scale-ai-powered-ad-creation/

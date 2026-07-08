@@ -27,15 +27,15 @@ website: https://www.adomate.com
 
 ## About
 
-Adomate is a Ghent-based AI ad creation platform that helps marketing teams produce social media advertising at scale, combining performance data, competitor analysis, and consumer behaviour insights to generate variations faster [^1][^2]. The company was founded in 2024 by former ML6 colleagues Simon Logghe (CEO) and Lucas Desard (CTO) [^1][^2]. Adomate has served more than 50 customers including Loop Earplugs and received the Rising Star Award from Start it @KBC [^1].
+Adomate is a Ghent-based AI ad creation platform that helps marketing teams produce social media advertising at scale, combining performance data, competitor analysis, and consumer behaviour insights to generate variations faster [^1][^2]. The company was founded in 2024 by former ML6 colleagues Simon Logghe (CEO) and Lucas Desard (CTO) [^1][^2][^3]. Adomate has served more than 50 customers including Loop Earplugs and received the Rising Star Award from Start it @KBC [^1].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
-| 2026-06-19 | Seed | €1.4M | Angelwise | RDY Ventures, Seeder Fund, ML6; angels Jo Deblaere, Jeroen De Wit, Willem Dumon, Johnny Kegels, Stefan Tournoy [^1] |
+| 2026-06-19 | Seed | €1.4M | Angelwise | RDY Ventures, Seeder Fund, ML6; angels Jo Deblaere, Jeroen De Wit, Willem Dumon, Johnny Kegels, Stefan Tournoy [^1][^3][^4] |
 
-Capital will support international expansion and continued product development [^1].
+Capital will support international expansion and continued product development [^1][^3][^4].
 
 ## What Investors Say
 
@@ -47,5 +47,7 @@ No independently sourced founder testimonials found at this time.
 
 ## Sources
 
-[^1]: EU-Startups, "Ghent-based Adomate raises €1.4 million to help marketers create AI-powered social media ads at scale," June 2026. https://www.eu-startups.com/2026/06/ghent-based-adomate-raises-e1-4-million-to-help-marketers-create-ai-powered-social-media-ads-at-scale
+[^1]: EU-Startups, "Ghent-based Adomate raises €1.4 million to help marketers create AI-powered social media ads at scale," June 19, 2026. https://www.eu-startups.com/2026/06/ghent-based-adomate-raises-e1-4-million-to-help-marketers-create-ai-powered-social-media-ads-at-scale
 [^2]: Adomate, "About," accessed June 2026. https://www.adomate.com/about
+[^3]: The SaaS News, "Adomate Raises €1.4M in Funding," June 19, 2026. https://www.thesaasnews.com/news/adomate-raises-eur1-4m-in-funding/
+[^4]: MandA, "Belgian startup Adomate secures 1.4 million euros to scale AI-powered ad creation," June 17, 2026. https://manda.be/articles/belgian-startup-adomate-secures-1-4-million-euros-to-scale-ai-powered-ad-creation/
