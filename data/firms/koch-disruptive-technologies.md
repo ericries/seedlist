@@ -139,11 +139,12 @@ Based on 67 verified portfolio companies listed on KDT's website [^5]:
 | Orderful | Series C (lead, $35M with NewRoad Capital participating) | 2026-06-24 | SaaS / Supply Chain / EDI / AI | [^21][^22][^23] |
 | Alkira | ~2020 | -- | Connectivity / Cloud Networking | [^5] |
 | Automox | ~2020 | -- | Cybersecurity / Endpoint | [^5] |
-| Beyond Identity | ~2020 | -- | Cybersecurity / Identity | [^5] |
+| Beyond Identity | Series A (co-led with NEA, $30M total) | 2020-04-14 | Cybersecurity / Identity | [^24] |
+| Beyond Identity | Series B ($75M; existing investors NEA, KDT, Jim Clark) | 2020-12-08 | Cybersecurity / Identity | [^25] |
 | BlueCurrent | ~2020 | -- | Energy / Batteries | [^5] |
 | Bodo | ~2020 | -- | Enterprise Software / Computing | [^5] |
 | Cellares | Series C | ~2022 | Healthcare / Cell Therapy | [^16] |
-| Cohere | ~2020 | -- | Connectivity / Wireless | [^5] |
+| Cohere Technologies | Series D ($46M; lead per press was Koch Strategic Platforms, a sibling Koch investment arm; KDT is listed on KDT's own portfolio page but not named in Cohere's Series D press) | 2022-02-22 | Connectivity / Wireless (Open RAN) | [^5][^26] |
 | CrossnoKaye | ~2020 | -- | Supply Chain / Industrial AI | [^5] |
 | CYREBRO | ~2020 | -- | Cybersecurity / SOC | [^5] |
 | DeepCube | ~2020 | -- | Connectivity / ML Accelerator | [^5] |
@@ -152,7 +153,7 @@ Based on 67 verified portfolio companies listed on KDT's website [^5]:
 | Gideon Brothers | ~2020 | -- | Supply Chain / Robotics | [^5] |
 | Greeneye | ~2020 | -- | Supply Chain / Agriculture AI | [^5] |
 | MetOx International | ~2020 | -- | Energy / Superconductors | [^5] |
-| Nile | ~2020 | -- | Connectivity / NaaS | [^5] |
+| Nile | Undisclosed early round (portfolio per KDT website; KDT not named in Nile's Sep 2022 stealth-emergence or Aug 2023 $175M Series C press — likely pre-2022) | ~2020-2022 | Connectivity / NaaS | [^5][^27] |
 | One-Layer | ~2020 | -- | Cybersecurity / 5G Security | [^5] |
 | OnRamp | ~2020 | -- | Enterprise Software / Onboarding | [^5] |
 | Optimal Dynamics | ~2020 | -- | Supply Chain / Logistics AI | [^5] |
@@ -252,3 +253,11 @@ This table represents 67 companies from KDT's website portfolio page. KDT claims
 [^22]: SiliconANGLE, "Orderful nabs $35M to streamline supply chain data management," June 23, 2026. Accessed June 2026. https://siliconangle.com/2026/06/23/orderful-nabs-35m-streamline-supply-chain-data-management/ — Independent confirmation of KDT-led Series C.
 
 [^23]: FreightWaves, "Orderful's $35M Series C targets the service model that has defined EDI for decades," June 23, 2026. Accessed June 2026. https://www.freightwaves.com/news/orderful-35m-series-c-edi — Third independent primary source confirms KDT-led $35M Series C with continued participation from NewRoad Capital, announced Tuesday June 23, 2026.
+
+[^24]: Beyond Identity press release, "Silicon Valley Icons Jim Clark and Tom Jermoluk Launch 'Beyond Identity'," April 14, 2020. Accessed July 2026. https://www.beyondidentity.com/announcements/silicon-valley-icons-jim-clark-and-tom-jermoluk-launch-beyond-identity — Confirms $30M Series A co-led by KDT and NEA on 2020-04-14; Byron Knight (KDT Managing Director) and Forest Baskett (NEA GP) took board seats; both firms were also early customers.
+
+[^25]: Beyond Identity press release, "Beyond Identity Raises $75 Million to Take Customers Beyond Passwordless to the Identity Platform of the Future," December 8, 2020. Accessed July 2026. https://www.beyondidentity.com/announcements/beyond-identity-raises-75-million-to-take-customers-beyond-passwordless-to-the-identity-platform-of-the-future — Confirms $75M Series B on 2020-12-08 with NEA, Jim Clark, and KDT as existing-investor participants; cumulative funding reached $105M.
+
+[^26]: Cohere Technologies press release, "Cohere Technologies Raises $46 Million Series D Round to Commercialize Universal Spectrum Multiplier Open RAN Software for Any Generation Mobile Network," February 22, 2022. Accessed July 2026. https://www.cohere-tech.com/cohere-technologies-raises-46-million-series-d-round-to-commercialize-universal-spectrum-multiplier-open-ran-software-for-any-generation-mobile-network/ — Names Koch Strategic Platforms (KSP), a subsidiary of Koch Investments Group, as the lead. KDT is NOT named in the release. Cohere's own investors page (https://www.cohere-tech.com/investors/) lists KSP but not KDT. KDT's own portfolio page lists Cohere, likely a Koch-sibling attribution.
+
+[^27]: Nile press release, "Nile Raises $175M Series C Funding to Propel Its Vision to Redefine Enterprise Networks," August 1, 2023. Accessed July 2026. https://nilesecure.com/press-releases/nile-raises-175m-series-c-funding-to-propel-its-vision-to-redefine-enterprise-networks — Series C co-led by March Capital and Sanabil Investments; other named investors are solutions by stc, Prosperity7, Liberty Global Ventures, 8VC, Geodesic Capital, U First Capital, Valor Equity Partners. No Koch entity is named. Nile's Sept 14, 2022 emergence-from-stealth release (https://www.businesswire.com/news/home/20220914005324/) similarly names only JC2, March Capital, 8VC, and ICONIQ across $125M in prior rounds. KDT's own portfolio page lists Nile but no primary source confirms specific KDT participation.

@@ -16074,7 +16074,9 @@ vague_facts:
   line: '| Beyond Identity | ~2020 | -- | Cybersecurity / Identity | [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: "Resolved via 2 primary press releases from beyondidentity.com. Split single vague row into TWO discrete rounds: (1) Series A 2020-04-14 ($30M, KDT co-led with NEA; Byron Knight took board seat; both firms were early customers) per Beyond Identity press release [^24]; (2) Series B 2020-12-08 ($75M; NEA + Jim Clark + KDT as existing investors) per Beyond Identity press release [^25]. Cumulative funding after Series B was $105M."
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: BlueCurrent
@@ -16114,7 +16116,9 @@ vague_facts:
   line: '| Cohere | ~2020 | -- | Connectivity / Wireless | [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: "Row tightened but with attribution caveat. This is Cohere Technologies (the wireless/Open RAN company, NOT Cohere AI). Series D announced 2022-02-22 at 46M USD. Per Cohere's own press release [^26] and investors page, the Koch LEAD was Koch Strategic Platforms (KSP), a subsidiary of Koch Investments Group. KDT is NOT named in any Cohere primary press. KDT lists Cohere on its own portfolio page [^5]. Kept the row on KDT profile with an explicit KSP-vs-KDT caveat rather than removing (KDT's own website is authoritative for KDT's own portfolio listing) but flagged the discrepancy for readers. Other Series D investors: Lightspeed, NEA, Telstra Ventures (existing) + VMware, Juniper, Intel Capital (new strategic)."
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: CrossnoKaye
@@ -16204,7 +16208,9 @@ vague_facts:
   line: '| Nile | ~2020 | -- | Connectivity / NaaS | [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-08
+  resolution_note: "Nile is on KDT's own portfolio page [^5] but KDT is NOT named in any Nile primary press. Nile emerged from stealth 2022-09-14 (BusinessWire) with 125M USD across prior rounds naming only JC2, March Capital, 8VC, ICONIQ. Series C 2023-08-01 for 175M USD was co-led by March Capital + Sanabil Investments with participation from stc/Prosperity7/Liberty Global Ventures/8VC/Geodesic/U First/Valor — no Koch entity named [^27]. Same aggregator-only pattern as Cohere (potentially a Koch-sibling entity like KSP invested, not KDT). Row on KDT profile updated to '~2020-2022 undisclosed early round' with explanatory footnote rather than removed."
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: One-Layer
