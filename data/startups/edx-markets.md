@@ -17,8 +17,9 @@ firms:
     round: founding
     year: 2022
   - slug: pantera-capital
-    round: founding
-    year: 2022
+    round: series-b
+    year: 2024
+    date: 2024-01-24
 investors: []
 founders:
   - name: "Jamil Nazarali"
@@ -29,15 +30,17 @@ last_researched: 2026-07-07
 
 ## About
 
-EDX Markets is a Chicago-based institutional digital asset trading and clearing firm that operates an institutional-only crypto trading venue paired with a central clearinghouse [^1][^2][^3]. The company was founded in 2022 by a consortium of major Wall Street trading firms — Charles Schwab, Citadel Securities, Fidelity Digital Assets, and Virtu Financial — alongside crypto-native investors Paradigm, Sequoia Capital, and Pantera Capital, and went live in June 2023 [^5]. Tony Acuña-Rohter is CEO [^1][^2]. Earlier in 2026, EDX launched EDX FlowConnect, a crypto-as-a-service product enabling firms to launch digital asset trading for their customers, and in April 2026 applied for a U.S. national trust bank charter through the OCC to add regulated custody, clearing, settlement, and risk management services [^2][^3].
+EDX Markets is a Chicago-based institutional digital asset trading and clearing firm that operates an institutional-only crypto trading venue paired with a central clearinghouse [^1][^2][^3]. The company was founded in 2022 by a consortium of major Wall Street trading firms — Charles Schwab, Citadel Securities, Fidelity Digital Assets, and Virtu Financial — alongside crypto-native investors Paradigm and Sequoia Capital, and went live in 2023 [^5]. Pantera Capital joined later as a co-lead of the January 2024 Series B [^6][^7]. Tony Acuña-Rohter is CEO [^1][^2]. Earlier in 2026, EDX launched EDX FlowConnect, a crypto-as-a-service product enabling firms to launch digital asset trading for their customers, and in April 2026 applied for a U.S. national trust bank charter through the OCC to add regulated custody, clearing, settlement, and risk management services [^2][^3].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
 | 2026-07-07 | Series C | $76M | SBI Holdings | [^1][^2][^3][^4] |
+| 2024-01-24 | Series B | Undisclosed | Pantera Capital, Sequoia Capital (co-led) | Citadel Securities, Fidelity Digital Assets, Virtu Financial, Charles Schwab, DV Crypto, GSR Markets, GTS, HRT Technology, Miami International Holdings, Paradigm [^6][^7] |
+| 2022 | Founding | Undisclosed | — | Charles Schwab, Citadel Securities, Fidelity Digital Assets, Virtu Financial, Paradigm, Sequoia Capital [^5] |
 
-SBI Holdings was the sole investor in the Series C round [^3]. Proceeds will support expansion of trading, clearing, and settlement capabilities, product development, and international operations [^1][^2].
+SBI Holdings was the sole investor in the Series C round [^3]. Proceeds will support expansion of trading, clearing, and settlement capabilities, product development, and international operations [^1][^2]. Pantera Capital first joined as a new investor in the January 2024 Series B, which it co-led with founding investor Sequoia Capital [^6][^7].
 
 ## What Investors Say
 
@@ -55,4 +58,6 @@ SBI Holdings was the sole investor in the Series C round [^3]. Proceeds will sup
 [^2]: CoinDesk, "EDX Markets raises $76 million in Series C funding round led by SBI Holdings," July 7, 2026. Accessed July 2026. https://www.coindesk.com/business/2026/07/07/edx-markets-raises-usd76-million-in-funding-round-led-by-sbi-holdings
 [^3]: The Block, "SBI Holdings is sole investor in crypto platform EDX Markets' $76 million Series C," July 7, 2026. Accessed July 2026. https://www.theblock.co/post/407489/crypto-platform-edx-markets-series-c-funding-sbi-sole-investor
 [^4]: Ledger Insights, "SBI leads $76m Series C for institutional crypto trading venue EDX Markets," July 7, 2026. Accessed July 2026. https://www.ledgerinsights.com/sbi-leads-76m-series-c-for-institutional-crypto-trading-venue-edx-markets/
-[^5]: CoinDesk, "Schwab, Citadel Securities, Fidelity, Other Wall Street Firms Start Crypto Exchange EDX Markets," September 13, 2022. Accessed July 2026. https://www.coindesk.com/business/2022/09/13/charles-schwab-citadel-fidelity-and-others-start-crypto-exchange-edx-markets
+[^5]: CoinDesk, "Schwab, Citadel Securities, Fidelity, Other Wall Street Firms Start Crypto Exchange EDX Markets," September 13, 2022. Accessed July 2026. https://www.coindesk.com/business/2022/09/13/charles-schwab-citadel-fidelity-and-others-start-crypto-exchange-edx-markets — Founding announcement lists Citadel Securities, Fidelity Digital Assets, Charles Schwab, Virtu Financial, Sequoia Capital, and Paradigm as EDX's launch backers; Pantera Capital is not named among the founding investors.
+[^6]: EDX Markets, "EDX Markets Launches Clearinghouse for Crypto Trading and Announces Completion of Series B Funding Round," January 24, 2024. Accessed July 2026. https://edxmarkets.com/edx-markets-launches-clearinghouse-for-crypto-trading-and-announces-completion-of-series-b-funding-round/ — Confirms Pantera Capital joined as a new equity investor co-leading the Series B alongside founding investor Sequoia Capital.
+[^7]: FinSMEs, "EDX Markets Closes Series B Funding Round," January 2024. Accessed July 2026. https://www.finsmes.com/2024/01/edx-markets-closes-series-b-funding-round.html — Independent confirmation of the January 2024 Series B co-led by Pantera Capital (new investor) and Sequoia Capital (existing founding investor).

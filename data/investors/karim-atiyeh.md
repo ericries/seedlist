@@ -3,9 +3,9 @@ check_size: Angel
 firm: ramp
 last_researched: 2026-03-22
 last_verified_investment:
-  company: "1001"
-  date: 2026-06-30
-  round: Series A
+  company: Monogram
+  date: 2026-07-07
+  round: Seed
 location: New York, NY
 name: Karim Atiyeh
 role: Co-Founder & CTO
@@ -92,6 +92,7 @@ This table includes 12 verified investments. Sources indicate Atiyeh may have ma
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Monogram | Seed (angel) | 2026-07-07 | AI / Consumer AI / Mobile | Active | [^28][^29][^30] |
 | 1001 | Series A (angel) | 2026-06-30 | Sovereign AI / critical infrastructure | Active | [^26][^27] |
 | Matia | Series A | 2026 | Data infrastructure / AI | Active | [^18] |
 | Campfire | Series B | 2025 | Fintech / AI ERP | Active | [^17] |
@@ -158,3 +159,9 @@ No independently sourced founder testimonials found. Nuvocargo's blog post welco
 [^26]: Wamda, "1001 closes $30 million Series A to build sovereign AI in GCC," June 30, 2026. Accessed July 2026. https://www.wamda.com/2026/06/1001-closes-30-million-series-a-build-sovereign-ai-gcc — Names Karim Atiyeh (Ramp Co-founder & CTO) as an angel participant in 1001's $30M Series A led by Lux Capital.
 
 [^27]: Khaleej Times, "1001 raises $30 million to build sovereign AI for GCC's critical infrastructure," July 2, 2026. Accessed July 2026. https://www.khaleejtimes.com/business/1001-raises-30-million-to-build-sovereign-ai-for-gccs-critical-infrastructure — Second independent confirmation of Karim Atiyeh (Ramp Co-founder & CTO) as angel participant in $30M Series A led by Lux Capital.
+
+[^28]: Monogram, "Introducing Monogram, a new interface for AI," launch blog post, July 2026. Accessed July 2026. https://www.monogram.ai/blog/introducing-monogram — Official launch post naming Karim Atiyeh among angel participants in the $40M seed round co-led by DST Global and Lux Capital.
+
+[^29]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent press pickup.
+
+[^30]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement.

@@ -3,8 +3,8 @@ check_size: $125K-$500K
 firm: y-combinator
 last_researched: 2026-03-17
 last_verified_investment:
-  company: Entire
-  date: 2026-02-10
+  company: Monogram
+  date: 2026-07-07
   round: Seed
 location: San Francisco, CA
 name: Garry Tan
@@ -139,6 +139,7 @@ The following table represents 25 verified investments. This is a partial sample
 | NewLimit | 2023 | Series A (angel) | [^22][^23] |
 | NewLimit | 2025-05-06 | Series B (angel) | [^22] |
 | Entire | 2026 | Seed | [^14] |
+| Monogram | 2026-07-07 | Seed (angel) | [^26][^27][^28] |
 
 *Note: Years marked with "~" indicate approximate dates based on fund timing or company founding year, not confirmed investment dates. Many entries fall within Initialized Capital Fund I (2012) or Fund II (2013), and exact investment dates within those fund periods could not be independently confirmed.*
 
@@ -244,3 +245,9 @@ The following table represents 25 verified investments. This is a partial sample
 [^24]: Crunchbase, "Seed Round - Coinbase - 2012-09-12," accessed June 2026. https://www.crunchbase.com/funding_round/coinbase-seed--59a33b3a
 
 [^25]: TheVCNotebook, "Rippling: The Compounding Machine" (notes Rippling's $7M seed round announced in March 2017 led by Initialized Capital and Hydrazine), accessed June 2026. https://medium.com/@vcnewsfr/rippling-the-compounding-machine-de5c68d4b3b1
+
+[^26]: Monogram, "Introducing Monogram, a new interface for AI," launch blog post, July 2026. Accessed July 2026. https://www.monogram.ai/blog/introducing-monogram — Official launch post naming Garry Tan among angel participants in the $40M seed round co-led by DST Global and Lux Capital.
+
+[^27]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent press pickup confirming the $40M seed round announcement.
+
+[^28]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement of the round.

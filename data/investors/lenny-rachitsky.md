@@ -3,9 +3,9 @@ check_size: $25K-$250K (typical angel range; broader fund participation $100K-$1
 firm: null
 last_researched: 2026-06-22
 last_verified_investment:
-  company: Artie
-  date: ~2026
-  round: Series A
+  company: Monogram
+  date: 2026-07-07
+  round: Seed
 location: San Francisco, California
 name: Lenny Rachitsky
 role: Angel Investor; Author, Lenny's Newsletter
@@ -67,6 +67,7 @@ Sample of publicly verifiable investments. This represents a small fraction of h
 | Crafting | 2026 | Seed | [^6] |
 | LittleBird | 2026 | Seed | [^6] |
 | Viktor | 2026 | Series A | [^6] |
+| Monogram | 2026-07-07 | Seed (angel) | [^8][^9][^10] |
 
 Rachitsky has publicly stated that of his 140+ angel investments, 12 have become unicorns and 10 more are on track [^5].
 
@@ -94,3 +95,6 @@ No independently sourced founder testimonials about Rachitsky's post-investment 
 [^5]: Lenny Rachitsky, "Lessons from 140+ angel investments," *Lenny's Newsletter*, 2024. Accessed June 2026. https://www.lennysnewsletter.com/p/angel-investing
 [^6]: Signal by NFX, "Lenny Rachitsky's Investing Profile — AirAngels Investor." Accessed June 2026. https://signal.nfx.com/investors/lenny-rachitsky
 [^7]: "LlamaIndex Raises $8.5M to Unlock Large Language Models Capabilities with Personal Data," Business Wire press release, May 31, 2023. Accessed June 2026. https://www.businesswire.com/news/home/20230531005251/en/LlamaIndex-Raises-$8.5M-to-Unlock-Large-Language-Models-Capabilities-with-Personal-Data
+[^8]: Monogram, "Introducing Monogram, a new interface for AI," launch blog post, July 2026. Accessed July 2026. https://www.monogram.ai/blog/introducing-monogram — Official launch post naming Lenny Rachitsky among angel participants in the $40M seed round co-led by DST Global and Lux Capital.
+[^9]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent press pickup.
+[^10]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement.

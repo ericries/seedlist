@@ -133,6 +133,7 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 | Westmag | Seed (participant, $11M; a16z led) | 2026-06-02 | Defense / Robotics / Drone Motors / Actuators | Active | [^westmag1][^westmag2][^westmag3] |
 | 1001 | Series A (led, $30M) | 2026-06-30 | Sovereign AI / Critical Infrastructure | Active | [^1001-1][^1001-2][^1001-3] |
 | Traysar | Seed (participant, $25M; Silent Ventures led) | 2026-06-16 | Defense / Subterranean Robotics | Active | [^traysar1][^traysar2] |
+| Monogram | Seed (co-led with DST Global, $40M) | 2026-07-07 | AI / Consumer AI / Mobile | Active | [^monogram1][^monogram2][^monogram3] |
 
 *This table represents approximately 9% of Lux Capital's estimated 287 portfolio organizations [^5]. Years shown are approximate based on available data.*
 

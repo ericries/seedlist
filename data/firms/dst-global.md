@@ -152,8 +152,9 @@ The following table includes DST Global investments verified through press cover
 | Prometheus | Series B (participated) | 2026-06-11 | AI / Industrial AI | Private [^34][^35][^36] |
 | Partly | Series B (led, $50M at $500M val) | 2026-06-23 | AI / Automotive / Vertical SaaS | Private [^37][^38][^39][^40][^41] |
 | Proxima Fusion | Growth (participated, €411M at €2.4B val; XTX Ventures + East X Ventures co-led) | 2026-07-07 | Deep Tech / Fusion Energy / Climate | Private [^42][^43][^44] |
+| Monogram | Seed (co-led with Lux Capital, $40M) | 2026-07-07 | AI / Consumer AI / Mobile | Private [^45][^46][^47] |
 
-*Note: This table includes 34 companies out of 214 total (~16%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
+*Note: This table includes 35 companies out of 214 total (~16%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
 
 ## In Their Own Words
 
@@ -291,3 +292,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^43]: Sifted, "Google backs Munich fusion company Proxima in €411M round," July 7, 2026. Accessed July 2026. https://sifted.eu/articles/google-proxima-fusion-411m-raise — Independent confirmation of the €411M growth round and DST Global's continued participation alongside Plural, Balderton, Cherry Ventures, UVC Partners, Lightspeed, redalpine, Leitmotif, Elaia, CDP Venture Capital, Bayern Kapital, EIC Fund, and Brevan Howard Macro Venture.
 
 [^44]: Bloomberg, "Google, RWE Back German Nuclear Startup Proxima Fusion at $2.4 Billion Valuation," July 7, 2026. Accessed July 2026. https://www.bloomberg.com/news/articles/2026-07-07/google-rwe-back-german-nuclear-startup-proxima-fusion-at-2-4-billion-valuation — Third independent confirmation of the €411M growth round; €2.4B post-money; total funding to date exceeds €650M including €95M in public grants.
+
+[^45]: Monogram, "Introducing Monogram, a new interface for AI," launch blog post, July 2026. Accessed July 2026. https://www.monogram.ai/blog/introducing-monogram — Official launch announcement naming DST Global and Lux Capital as $40M seed co-leads.
+
+[^46]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent confirmation of the DST-led $40M seed round.
+
+[^47]: Eren Bali, X post announcing Monogram launch and $40M seed round led by DST and Lux Capital, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement of the round.

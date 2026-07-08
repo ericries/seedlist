@@ -11,9 +11,9 @@ check_size: "$10K-$500K"
 social:
   linkedin: "linkedin.com/in/charlessonghurst"
 last_verified_investment:
-  date: 2026-03-11
-  company: "Entrepreneurs First"
-  round: "Growth"
+  date: 2026-07-07
+  company: "Monogram"
+  round: "Seed"
 tldr: "Charlie Songhurst is one of the world's most prolific angel investors with approximately 500 portfolio companies, investing $10K-$500K checks at pre-seed and seed. A former Microsoft Head of Global Corporate Strategy who led 80+ acquisitions including Skype, he focuses on software and AI (85% of tracked portfolio) with a strong UK and European bias. He joined Meta's board in 2025."
 status: published
 last_researched: 2026-04-05
@@ -61,6 +61,7 @@ The following table represents a subset of Songhurst's approximately 500 claimed
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
+| Monogram | 2026-07-07 | Seed (angel) | [^26][^27][^28] |
 | Entrepreneurs First | 2026 | Growth | [^17] |
 | Forgent AI | 2025 | Pre-Seed | [^18] |
 | Hyperdrives | 2025 | Pre-Seed | [^12] |
@@ -180,3 +181,9 @@ No additional independently sourced founder testimonials found beyond EF's co-fo
 [^23]: VCNewsDaily, "ClassPass Raises $2M," March 2014, accessed June 2026. https://www.vcnewsdaily.com/classpass/venture-capital-funding/tfnpdgnzpn
 [^24]: TechCrunch, "As AI-fueled disinformation explodes, here comes the startup counterattack," December 13, 2024. https://techcrunch.com/2024/12/13/as-ai-fueled-disinformation-explodes-here-comes-the-startup-counterattack/
 [^25]: Crunchbase, "Pre Seed Round - Refute - 2024-12-13," accessed June 2026. https://www.crunchbase.com/funding_round/refute-pre-seed--c6cf77d7
+
+[^26]: Monogram, "Introducing Monogram, a new interface for AI," launch blog post, July 2026. Accessed July 2026. https://www.monogram.ai/blog/introducing-monogram — Official launch post naming Charlie Songhurst among angel participants in the $40M seed round co-led by DST Global and Lux Capital.
+
+[^27]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent press pickup.
+
+[^28]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement.

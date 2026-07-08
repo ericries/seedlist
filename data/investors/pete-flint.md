@@ -3,9 +3,9 @@ check_size: $500K-$5M
 firm: nfx
 last_researched: 2026-03-18
 last_verified_investment:
-  company: Gizmo
-  date: 2026-04-15
-  round: Series A
+  company: Monogram
+  date: 2026-07-07
+  round: Seed
 location: San Francisco, CA
 name: Pete Flint
 role: Co-Founder & General Partner
@@ -101,6 +101,7 @@ Based on 20 verified investments with known sectors and stages, the following pa
 | Indigo | 2025 | Seed | [^14] |
 | Gizmo | ~2024 | Seed | [^30] |
 | Gizmo (follow-on) | 2026 | Series A | [^30] |
+| Monogram | 2026-07-07 | Seed (angel) | [^31][^32][^33] |
 
 *Note: This table represents publicly confirmed Pete Flint-attributed investments. NFX's full portfolio is approximately 300 companies; the complete set of investments attributable to Flint individually is not publicly disaggregated.*
 
@@ -190,3 +191,9 @@ No independently sourced founder testimonials about Pete Flint found through ded
 [^28]: NFX, "Pete Flint, Trulia Founder & CEO, Joins NFX Guild," December 2016, accessed March 2026. https://www.nfx.com/post/trulia-founder-flint-joins-nfx
 [^29]: NFX, "PropTech: A Massive Opportunity We're Seeing," July 2019, accessed March 2026. https://www.nfx.com/post/proptech-massive-opportunity
 [^30]: PRNewsWire, "Gizmo Raises $22 Million Series A to Make Learning Addictive for 13 Million Learners Worldwide," April 15, 2026. https://www.prnewswire.com/news-releases/gizmo-raises-22-million-series-a-to-make-learning-addictive-for-13-million-learners-worldwide-302741943.html
+
+[^31]: Monogram, "Introducing Monogram, a new interface for AI," launch blog post, July 2026. Accessed July 2026. https://www.monogram.ai/blog/introducing-monogram — Official launch post naming Pete Flint among angel participants in the $40M seed round co-led by DST Global and Lux Capital.
+
+[^32]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent press pickup.
+
+[^33]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement.

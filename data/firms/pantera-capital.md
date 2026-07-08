@@ -156,6 +156,7 @@ The following table represents a sample of Pantera Capital's portfolio. The firm
 | OpenMind | Venture | 2025 | AI / Robotics | Active [^10] |
 | Surf AI | Venture | 2025 | AI / Analytics | Active [^13] |
 | OpenFX | Series A (co-led, $94M) | 2026-03-31 | Fintech/Stablecoin/FX | Active [^21][^22][^23] |
+| EDX Markets | Series B (co-led with Sequoia; Pantera joined as new equity investor) | 2024-01-24 | Fintech / Institutional Crypto / Market Infrastructure | Active [^29][^30] |
 
 Note: Years marked with "~" indicate approximate dates based on founding year proxies or fund vintage timing, as exact investment dates could not be independently verified for all entries. This table represents approximately 15% of Pantera's 265+ total investments.
 
@@ -223,3 +224,6 @@ No additional independently sourced founder testimonials found. The quotes above
 [^27]: Bitcoin Magazine, "Bitcoin Life Insurer Meanwhile Raises $82 Million," October 7, 2025, accessed May 2026. https://bitcoinmagazine.com/news/bitcoin-life-insurer-meanwhile-raises-82-million — confirms Meanwhile's $82M round announced 2025-10-07, co-led by Bain Capital Crypto and Haun Ventures, with Pantera Capital, Apollo, Northwestern Mutual Future Ventures, and Stillmark participating.
 
 [^28]: PR Newswire, "Meanwhile, Bitcoin Life Insurer, Secures $82M to Meet Soaring Demand for Inflation-Proof Savings," October 8, 2025, accessed May 2026. https://www.prnewswire.com/news-releases/meanwhile-bitcoin-life-insurer-secures-82m-to-meet-soaring-demand-for-inflation-proof-savings-302578311.html — independent confirmation of $82M raise; Pantera Capital named as participant.
+
+[^29]: EDX Markets, "EDX Markets Launches Clearinghouse for Crypto Trading and Announces Completion of Series B Funding Round," January 24, 2024. Accessed July 2026. https://edxmarkets.com/edx-markets-launches-clearinghouse-for-crypto-trading-and-announces-completion-of-series-b-funding-round/ — Company announcement identifying Pantera Capital as a new equity investor co-leading the Series B alongside founding investor Sequoia Capital.
+[^30]: FinSMEs, "EDX Markets Closes Series B Funding Round," January 2024. Accessed July 2026. https://www.finsmes.com/2024/01/edx-markets-closes-series-b-funding-round.html — Independent confirmation that Pantera Capital's Series B investment was its first participation in EDX Markets (Pantera was not among the 2022 founding backers).

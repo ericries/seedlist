@@ -96,8 +96,9 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 | Town | Series A (participated, $55M total) | 2026-06-03 | Consumer AI / Personal Assistant | Active | [^53][^54] |
 | Adaptive Innovations | Series A (participated, $50M total) | 2026-06-02 | Healthcare AI / Home Health | Active | [^55][^56][^57] |
 | Tomo | Seed (participated, $5M; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | Active | [^tomo1][^tomo2][^tomo3] |
+| Monogram | Seed (participated, $40M; DST Global and Lux Capital co-led) | 2026-07-07 | AI / Consumer AI / Mobile | Active | [^monogram1][^monogram2][^monogram3] |
 
-Note: Investment years are approximate based on company founding timelines. This table represents approximately 21 of ~32 total investments (~66%); the remainder are in stealth or undisclosed [^3][^5].
+Note: Investment years are approximate based on company founding timelines. This table represents approximately 22 of ~32 total investments (~69%); the remainder are in stealth or undisclosed [^3][^5].
 
 ## In Their Own Words
 
@@ -209,3 +210,7 @@ No independently sourced founder testimonials found. The firm's website describe
 [^tomo2]: Pulse 2.0, "Tomo Raises $5 Million Seed Round Led By Bain Capital Ventures," June 2026. Accessed June 2026. https://pulse2.com/tomo-raises-5-million-seed-round-led-by-bain-capital-ventures/ — Independent confirmation of Conviction's participation in Tomo's seed.
 
 [^tomo3]: TheSaaSNews, "Tomo Raises $5M Seed," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/tomo-raises-5m-seed/ — Third independent confirmation: "led by Bain Capital Ventures (BCV), with participation from Accel, Align Fund, Basis Set, Conviction, Pear VC, and various angel investors."
+
+[^monogram1]: Monogram, "Introducing Monogram, a new interface for AI," launch blog post, July 2026. Accessed July 2026. https://www.monogram.ai/blog/introducing-monogram — Official launch post naming DST Global and Lux Capital as $40M seed co-leads with Conviction, SOMA Capital, Gradient Ventures, e2vc, and Maxitech participating.
+[^monogram2]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent press pickup confirming DST Global lead and Conviction participation.
+[^monogram3]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement of the round led by DST and Lux Capital.
