@@ -13954,7 +13954,9 @@ vague_facts:
   line: '| Finix | Series B | 2020 | Fintech / Payments | Active | [^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: 'Tightened year-only "2020" to "2020-02-04" with detail row "Series B (USD 35M; Sequoia led; Activant Capital and Inspired Capital new; Acrew Capital and Bain Capital Ventures also participated)" via 3 primary sources: existing TechCrunch [^17] (2020-02-04) + NEW Finix own blog [^40] (2020-02-04) + NEW Crunchbase News [^41] (2020-02-04). Parallel update on alexa-von-tobel.md tightened Finix row (~2020 → 2020-02-04 Series B) with same 3 primary citations [^28][^29] alongside existing [^8].'
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Rho
@@ -13964,7 +13966,9 @@ vague_facts:
   line: '| Rho | Seed | 2019 | Fintech / Banking | Active | [^18] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: 'Tightened year-only "2019" to "2019-10-15" with detail row "Seed (USD 4.9M; Inspired Capital led)" via 3 primary sources: existing BusinessWire press release [^18] (2019-10-15) + NEW Crunchbase News [^42] (2019-10-15) + NEW TechStartups [^43] (2019-10-16). Parallel update on alexa-von-tobel.md tightened Rho row (2019 → 2019-10-15 Seed USD 4.9M led) with same 2 new primary citations [^26][^27] alongside existing [^21].'
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Teamshares
@@ -14064,7 +14068,9 @@ vague_facts:
   line: '| Snackpass | Series A | 2019 | Consumer / QSR | Active | [^24] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: 'Tightened year-only "2019" to "2019-12-19" with detail row "Series A (USD 21M; Andreessen Horowitz led; First Round, General Catalyst, Y Combinator, Inspired Capital participated; angels Nas, Larry Fitzgerald, Michael Ovitz)" via 3 primary sources: existing PRWeb [^24] (2019-12-19) + NEW TechCrunch [^44] (2019-12-19) + NEW FinSMEs [^45] (2019-12-20). Parallel update on andrew-chen.md tightened Snackpass Series A row (2019 → 2019-12-19) with expanded participant list.'
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Canvas Medical

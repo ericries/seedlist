@@ -1,4 +1,10 @@
 priority:
+- slug: inspired-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-08: tightened 3 year-only rows on inspired-capital.md portfolio via 3+ primary sources each. (1) FINIX: "Series B | 2020" → "Series B (USD 35M; Sequoia led; Activant + Inspired new; Acrew + Bain Capital Ventures participated) | 2020-02-04" via existing TechCrunch [^17] + NEW Finix own blog [^40] + NEW Crunchbase News [^41]. (2) RHO: "Seed | 2019" → "Seed (USD 4.9M; Inspired Capital led) | 2019-10-15" via existing BusinessWire [^18] + NEW Crunchbase News [^42] + NEW TechStartups [^43]. (3) SNACKPASS: "Series A | 2019" → "Series A (USD 21M; a16z led; First Round, GC, YC, Inspired participated) | 2019-12-19" via existing PRWeb [^24] + NEW TechCrunch [^44] + NEW FinSMEs [^45]. Parallel updates on alexa-von-tobel.md (Rho + Finix rows tightened with new citations [^26][^27][^28][^29]) and andrew-chen.md (Snackpass row tightened).'
+  added: 2026-07-08
+  status: resolved
+  resolved: 2026-07-08
 - slug: acme-capital
   type: firm
   reason: 'Fact-spec sweep 2026-07-08: tightened three vague ~2023 portfolio rows on

@@ -109,7 +109,7 @@ This table represents approximately 35 of an estimated 68+ total investments (pe
 | Kalepa | ~2023 | Series A (led) | Fintech / Insurance | [^20] |
 | Suno | ~2023 | Early-stage | AI / Music | [^8] |
 | Dandy | ~2021 | Seed | Healthcare / Dental | [^8] |
-| Rho | 2019 | Seed (led) | Fintech / Banking | [^21] |
+| Rho | 2019-10-15 | Seed (led, $4.9M) | Fintech / Banking | [^21][^26][^27] |
 | Chief | ~2019 | Seed | Workforce / Women | [^6][^22] |
 | Habi | 2020 | Series A (led) | Fintech / Proptech | [^23] |
 | Teamshares | ~2020 | Early-stage | Fintech / Workforce | [^2] |
@@ -117,7 +117,7 @@ This table represents approximately 35 of an estimated 68+ total investments (pe
 | Public | ~2020 | Early-stage | Consumer / Fintech | [^6] |
 | Propel | ~2020 | Early-stage | Consumer / Fintech | [^8] |
 | Scythe | ~2021 | Early-stage | Industrial / Robotics | [^8] |
-| Finix | ~2020 | Early-stage | Fintech / Payments | [^8] |
+| Finix | 2020-02-04 | Series B ($35M; Sequoia led; Inspired participated w/ Activant, Acrew, Bain Capital Ventures) | Fintech / Payments | [^8][^28][^29] |
 | Paragon | ~2021 | Early-stage | Enterprise / Integrations | [^8] |
 | Regal | ~2021 | Early-stage | B2B / Sales | [^8] |
 | Good Inside | ~2022 | Early-stage | Consumer / Education | [^8] |
@@ -181,3 +181,7 @@ Note: The above testimonials are sourced from Inspired Capital's website, which 
 [^23]: LatamList, "Habi raises $10M Series A led by Inspired Capital," August 2020. https://latamlist.com/habi-raises-10m-series-a-led-by-inspired-capital/
 [^24]: TechCrunch, "Databricks picks up MosaicML, an OpenAI competitor, for $1.3B," June 26, 2023. https://techcrunch.com/2023/06/26/databricks-picks-up-mosaicml-an-openai-competitor-for-1-3b/
 [^25]: Finovate, "Six Minutes with Inspired Capital Founder Alexa Von Tobel," 2023. https://finovate.com/six-minutes-with-inspired-capital-founder-alexa-von-tobel/
+[^26]: Crunchbase News, "Meet The Digital Banking Startup That Just Closed $4.9M And Came Out Of Stealth," October 15, 2019. https://news.crunchbase.com/startups/meet-the-digital-banking-startup-that-just-closed-4-9m-and-came-out-of-stealth/
+[^27]: TechStartups, "Rho Business Banking launches digital banking built to accelerate high-growth startups," October 16, 2019. https://techstartups.com/2019/10/16/rho-business-banking-fintech-startup-founded-deutsche-bank-alum-others-launches-digital-banking-built-accelerate-high-growth-startups/
+[^28]: TechCrunch, "Payments infra startup Finix closes $35M Series B led by Sequoia," February 4, 2020. https://techcrunch.com/2020/02/04/payments-infra-startup-finix-closes-35m-series-b-led-by-sequoia/
+[^29]: Finix, "Announcing Finix's $35 Million Series B Led By Sequoia Capital," February 4, 2020. https://finix.com/resources/blogs/announcing-finixs-usd35-million-series-b-led-by-sequoia-capital

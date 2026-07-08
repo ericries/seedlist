@@ -93,8 +93,8 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 | Arcade | Early | 2024 | AI / Consumer | Active | [^13] |
 | Duckbill | Series A | 2023 | AI / Consumer | Active | [^8] |
 | Dandy | Series A | 2019 | Healthcare / Dental | Active | [^13][^16] |
-| Finix | Series B | 2020 | Fintech / Payments | Active | [^17] |
-| Rho | Seed | 2019 | Fintech / Banking | Active | [^18] |
+| Finix | Series B ($35M; Sequoia led; Activant Capital and Inspired Capital new; Acrew Capital and Bain Capital Ventures also participated) | 2020-02-04 | Fintech / Payments | Active | [^17][^40][^41] |
+| Rho | Seed ($4.9M; Inspired Capital led) | 2019-10-15 | Fintech / Banking | Active | [^18][^42][^43] |
 | Teamshares | Seed | 2019 | Fintech / Labor | Exited (2025) | [^13][^19] |
 | QA Wolf | Series A | 2022 | AI / Testing | Active | [^20] |
 | Habi | Series A | 2020 | Real Estate / Fintech | Active | [^21] |
@@ -104,7 +104,7 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 | Propel | Growth | 2020 | Consumer Fintech | Active | [^13] |
 | Public | Growth | 2020 | Consumer Fintech | Active | [^6] |
 | Chief | Growth | 2020 | Consumer / Labor | Active | [^6] |
-| Snackpass | Series A | 2019 | Consumer / QSR | Active | [^24] |
+| Snackpass | Series A ($21M; Andreessen Horowitz led; First Round, General Catalyst, Y Combinator, Inspired Capital participated; angels Nas, Larry Fitzgerald, Michael Ovitz) | 2019-12-19 | Consumer / QSR | Active | [^24][^44][^45] |
 | Canvas Medical | Series A | 2021 | Healthcare / B2B | Active | [^25] |
 | Treeswift | Early | 2022 | Frontier / Robotics | Active | [^13] |
 | Scythe | Series A | 2021 | Industrial | Exited | [^26] |
@@ -231,3 +231,9 @@ Lucy Deland has been described as an exceptional "thought partner" with "unmatch
 [^37]: Pulse 2.0, "Allen Control Systems Raises $200 Million Series B At $2.2 Billion Valuation To Scale Bullfrog Autonomous Weapon Systems," June 5, 2026. https://pulse2.com/allen-control-systems-raises-200-million-series-b-at-2-2-billion-valuation-to-scale-bullfrog-autonomous-weapon-systems/
 [^38]: VCNewsDaily, "Allen Control Systems Scoops Up $200M Series B," accessed June 2026. https://vcnewsdaily.com/allen-control-systems/venture-capital-funding/jcrjfhvksz
 [^39]: TechCrunch, "Ex-HubSpot exec builds an AI-powered CRM that learns for you, with $4M seed led by Sequoia," June 20, 2024. https://techcrunch.com/2024/06/20/ex-hubspot-exec-builds-ai-powered-crm-learns-for-you-with-4m-seed-led-sequoia/
+[^40]: Finix, "Announcing Finix's $35 Million Series B Led By Sequoia Capital," February 4, 2020. https://finix.com/resources/blogs/announcing-finixs-usd35-million-series-b-led-by-sequoia-capital
+[^41]: Crunchbase News, "Six Months After Series A, Finix Raises Sequoia-Led $35M Series B," February 4, 2020. https://news.crunchbase.com/venture/finix-raises-35m-series-b-led-by-sequoia-to-build-the-aws-of-payment-processing/
+[^42]: Crunchbase News, "Meet The Digital Banking Startup That Just Closed $4.9M And Came Out Of Stealth," October 15, 2019. https://news.crunchbase.com/startups/meet-the-digital-banking-startup-that-just-closed-4-9m-and-came-out-of-stealth/
+[^43]: TechStartups, "Rho Business Banking, a fintech startup founded by Deutsche Bank alum and others, launches digital banking built to accelerate high-growth startups," October 16, 2019. https://techstartups.com/2019/10/16/rho-business-banking-fintech-startup-founded-deutsche-bank-alum-others-launches-digital-banking-built-accelerate-high-growth-startups/
+[^44]: TechCrunch, "Snackpass snags $21M to let you earn friends free takeout," December 19, 2019. https://techcrunch.com/2019/12/19/snackpass/
+[^45]: FinSMEs, "Snackpass Raises $21M in Series A Funding," December 20, 2019. https://www.finsmes.com/2019/12/snackpass-raises-usd21m-series-a-funding.html

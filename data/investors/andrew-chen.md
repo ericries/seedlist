@@ -77,7 +77,7 @@ This table represents Chen's verified board-level and lead investments at a16z, 
 | Substack | Series A ($15.3M) | 2019 | Creator economy / media | [^11][^12] |
 | Sandbox VR | Series A ($68M) | 2019 | VR / entertainment | [^13][^10] |
 | Hipcamp | Series B ($25M) | 2019 | Marketplace / outdoors | [^14][^15] |
-| Snackpass | Series A ($21M) | 2019 | Consumer social / food | [^16][^17] |
+| Snackpass | Series A ($21M; a16z led; First Round, General Catalyst, Y Combinator, Inspired Capital participated) | 2019-12-19 | Consumer social / food | [^16][^17] |
 | Virtual Kitchen Co | Series A ($15M) | 2019 | Food / marketplace | [^18][^19] |
 | Sleeper | Series B ($20M) | 2020 | Consumer social / sports | [^9][^20] |
 | Clubhouse | Series B | 2021 | Consumer social / audio | [^21][^22] |
