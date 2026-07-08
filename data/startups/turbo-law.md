@@ -1,5 +1,8 @@
 ---
-firms: []
+firms:
+- round: '2026-06-18'
+  slug: marathon-management-partners
+  year: 2026
 founded: 2025
 founders:
 - name: Jay Sarmaz

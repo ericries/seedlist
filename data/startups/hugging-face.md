@@ -33,6 +33,9 @@ firms:
 - round: Lead angel ($1.2M); continued through Series C
   slug: betaworks
   year: 2017
+- round: Co-Founder & CEO (not an investment)
+  slug: hugging-face
+  year: 2016
 founded: 2016
 founders:
 - name: Clément Delangue
@@ -75,6 +78,9 @@ investors:
 - round: Lead angel ($1.2M); continued through Series C
   slug: john-borthwick
   year: 2017
+- round: Co-Founder & CEO (not an investment)
+  slug: clem-delangue
+  year: 2016
 last_researched: 2026-03-23
 location: New York, NY
 name: Hugging Face

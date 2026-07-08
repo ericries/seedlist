@@ -1,30 +1,21 @@
 ---
-name: Helical
-slug: helical
-type: startup
-website: https://helical.ai
-location: London, United Kingdom
-founded: 2024
-status_company: active
-sector:
-- AI
-- biotech
-- drug-discovery
-stage_latest: Seed
-total_raised: $10M
 firms:
-- slug: redalpine
-  round: seed
+- round: seed
+  slug: redalpine
   year: 2026
-- slug: gradient
-  round: seed
+- round: seed
+  slug: gradient
   year: 2026
-- slug: boxgroup
-  round: seed
+- round: seed
+  slug: boxgroup
   year: 2026
-- slug: frst
-  round: seed
+- round: seed
+  slug: frst
   year: 2026
+- round: Seed (€2.2M, angels Delangue, Gomez, BoxGroup, Frst)
+  slug: hugging-face
+  year: 2024
+founded: 2024
 founders:
 - name: Rick Schneider
   role: Co-Founder
@@ -32,8 +23,24 @@ founders:
   role: Co-Founder
 - name: Mathieu Klop
   role: Co-Founder
-status: published
+investors:
+- round: Seed (€2.2M, angels Delangue, Gomez, BoxGroup, Frst)
+  slug: clem-delangue
+  year: 2024
 last_researched: 2026-04-14
+location: London, United Kingdom
+name: Helical
+sector:
+- AI
+- biotech
+- drug-discovery
+slug: helical
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $10M
+type: startup
+website: https://helical.ai
 ---
 
 ## About

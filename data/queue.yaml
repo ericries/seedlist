@@ -24294,7 +24294,7 @@ queue:
 - name: Megan Lightcap
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Slow Ventures
   discovered_from: yoni-rechtman
@@ -24415,7 +24415,7 @@ queue:
 - name: Clem Delangue
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hugging Face
   discovered_from: nanoco
@@ -36596,3 +36596,86 @@ queue:
   added: '2026-03-17'
   firm: Summit Partners
   discovered_from: keyfactor
+- name: SBI Holdings
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: SBI Holdings
+  discovered_from: edx-markets
+  source: Sole lead of EDX Markets $76M Series C (2026-07-07); Japanese financial
+    conglomerate active digital asset investor
+- name: Surface Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Surface Ventures
+  discovered_from: octozi
+  source: 'Led Octozi $3M Seed (2026-07-07). Managing Partner: Gyan Kapur'
+- name: Gyan Kapur
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Surface Ventures
+  discovered_from: octozi
+  source: Managing Partner at Surface Ventures, led Octozi $3M Seed (2026-07-07)
+- name: Remarkable Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Remarkable Ventures
+  discovered_from: octozi
+  source: Co-investor in Octozi $3M Seed (2026-07-07)
+- name: Debiopharm
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Debiopharm
+  discovered_from: octozi
+  source: Prior strategic investor in Octozi (via venture arm); Swiss pharma CVC
+- name: Breed VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Breed VC
+  discovered_from: m1x-global
+  source: Co-investor in M1X Global $5.5M Seed led by Paradigm (2026-07-07)
+- name: Arjun Balaji
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Paradigm
+  discovered_from: m1x-global
+  source: Partner at Paradigm; quoted in M1X Global Seed announcement (2026-07-07)
+- name: Billy Parks
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Slow Ventures
+  discovered_from: megan-lightcap
+  source: Creator Fund partner at Slow Ventures; formerly at Fullscreen and The Chernin
+    Group
+- name: Apeiron Investment Group
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Apeiron Investment Group
+  discovered_from: megan-lightcap
+  source: Co-investor with Slow Ventures on Steven.com/Steven Bartlett round (Oct
+    2025)
+- name: Aidan Gomez
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cohere
+  discovered_from: clem-delangue
+  source: Cohere co-founder; angel co-investor with Delangue in Helical (2024)
