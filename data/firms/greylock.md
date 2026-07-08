@@ -239,7 +239,7 @@ The following table includes companies identified from Greylock's website portfo
 | Tabnine | Series A | ~2012 (founded) | AI / Developer Tools | Private [^8] |
 | Tome | Seed | ~2020 (founded) | AI / Consumer | Private [^8] |
 | Uber | Growth | ~2010 (founded) | Consumer / Marketplace | Public (IPO 2019) [^8] |
-| Wealthfront | Series A | ~2008 (founded) | Fintech | Public (IPO Dec 2025, $2.05B) [^5][^8] |
+| Wealthfront | Series B ($20M, participated; Index Ventures led with Social+Capital; Reid Hoffman participated as Greylock partner) | 2013-03-20 | Fintech | Public (IPO Dec 2025, $2.05B) [^5][^8][^41][^42] |
 | Wiz | Series A | ~2020 (founded) | Cybersecurity | Private [^8] |
 | Workday | Series B | 2006 | Enterprise SaaS / HR | Public (IPO 2012) [^2][^8] |
 | Vori | Series B (participated, $22M) | 2026-05-05 | Grocery Tech / AI / Vertical SaaS | Private [^25] |
@@ -387,3 +387,7 @@ Citron was transparent with his investors about metrics and traction of their ga
 [^39]: SecurityWeek, "Blockaid Emerges From Stealth With $33 Million Investment," October 23, 2023. https://www.securityweek.com/blockaid-emerges-from-stealth-with-33-million-investment/ — Confirms Blockaid emerged from stealth on October 23, 2023 with $33M total ($27M Series A + prior seed). Series A led by Ribbit Capital and Variant with additional investment from Cyberstarts, Greylock Partners, and Sequoia Capital. Co-founders Ido Ben-Natan (CEO) and Raz Niv (CTO), Israel Defense Forces Unit 8200 alums. Accessed July 2026.
 
 [^40]: FinSMEs, "Blockaid Closes $33M Series A Funding," October 2023. https://www.finsmes.com/2023/10/blockaid-closes-33m-series-a-funding.html — Third independent confirmation of Blockaid's Series A on October 23, 2023. Names lead investors as "Ribbit, Variant, Cyberstarts, Sequoia, and Greylock" and confirms $33M as total raised at emergence. Accessed July 2026.
+
+[^41]: Wealthfront Blog, "Everyone Deserves Sophisticated Investment Advice," March 20, 2013, accessed July 2026. https://www.wealthfront.com/blog/finance-tech-startup-funding-2013 — Wealthfront's own announcement of its $20M Series B on March 20, 2013 led by Mike Volpi (Index Ventures), with Chamath Palihapitiya (Social+Capital), Reid Hoffman (Greylock), and John Cadeddu (DAG Ventures) participating.
+
+[^42]: TechCrunch, "Wealthfront, The Investing Service That Has Made Me Money, Raises $20M From Index, Greylock and Social+Capital Partnership," March 20, 2013, accessed July 2026. https://techcrunch.com/2013/03/20/wealthfront-the-investing-service-that-has-made-me-money-raises-20m-from-index-greylock-and-socialcapital-partnership/ — Independent contemporaneous confirmation of the March 20, 2013 announcement, $20M Series B led by Index Ventures with Greylock and Social+Capital.

@@ -106,7 +106,7 @@ Based on 29 verified investments spanning 2010-2025, Volpi's actual investment b
 | Aurora Innovation | 2018-02-28 | Series A (co-led, $90M) | Autonomous vehicles | [^19] |
 | Kong | ~2018 | Growth | Open-source API gateway | [^20] |
 | Starburst | 2019 | Series A ($22M) | Open-source data analytics (Presto) | [^21] |
-| Wealthfront | ~2013 | Series B | Fintech / wealth management | [^22] |
+| Wealthfront | 2013-03-20 | Series B ($20M, Volpi led at Index Ventures; Greylock/Reid Hoffman and Social+Capital/Chamath Palihapitiya participated; DAG Ventures/John Cadeddu participated; individual investors included Adam D'Angelo, Matt Mullenweg, Andy Dunn, Michael Schroepfer, Hunter Walk, Cipora Herman, Satya Patel) | Fintech / wealth management | [^22][^38][^39] |
 | Covariant.ai | ~2020 | Series B | AI robotics | [^23] |
 | Cohere | 2021 | Series A | AI / large language models | [^24] |
 | ClickHouse | 2021 | Series A | Open-source database | [^25] |
@@ -225,3 +225,5 @@ The Hanabi Capital website describes Volpi as "a thoughtful sounding board and a
 [^35]: SiliconANGLE, "Former OpenAI researchers launch Applied Compute with $80M in funding," October 30, 2025, accessed April 2026. https://siliconangle.com/2025/10/30/former-openai-researchers-launch-applied-compute-80m-funding/
 [^36]: TechCrunch, "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots," March 11, 2026, accessed April 2026. https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/
 [^37]: Arcade.dev company blog, "Arcade Secures $12M: How We Built SSO for AI Agents," March 18, 2025, accessed July 2026. https://arcade.dev/blog/arcades-12m-milestone-a-conversation-with-alex/ — Company primary source confirming Hanabi Capital / Mike Volpi as participant in Arcade's $12M seed round led by Laude Ventures.
+[^38]: Wealthfront Blog, "Everyone Deserves Sophisticated Investment Advice," March 20, 2013, accessed July 2026. https://www.wealthfront.com/blog/finance-tech-startup-funding-2013 — Company's own announcement of the $20M Series B on March 20, 2013 led by Mike Volpi (Index Ventures) with Chamath Palihapitiya (Social+Capital), Reid Hoffman (Greylock), and John Cadeddu (DAG Ventures) plus individual investors Adam D'Angelo, Matt Mullenweg, Andy Dunn, Michael Schroepfer, Hunter Walk, Cipora Herman, and Satya Patel.
+[^39]: TechCrunch, "Wealthfront, The Investing Service That Has Made Me Money, Raises $20M From Index, Greylock and Social+Capital Partnership," March 20, 2013, accessed July 2026. https://techcrunch.com/2013/03/20/wealthfront-the-investing-service-that-has-made-me-money-raises-20m-from-index-greylock-and-socialcapital-partnership/ — Independent contemporaneous confirmation of the March 20, 2013 $20M Series B announcement.

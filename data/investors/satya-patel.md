@@ -114,7 +114,7 @@ The analysis below is based on 30 verified portfolio companies from Homebrew's w
 | Warp | Seed | ~2022 | Fintech/Payroll | Active | [^8] |
 | Anchor | Seed | ~2017 | Media/Podcasting | Acquired (Spotify) | [^8] |
 | Eero | Seed | ~2015 | Hardware/WiFi | Acquired (Amazon) | [^8] |
-| Wealthfront | Seed | ~2014 | Fintech/Wealth | Acquired (UBS) | [^8] |
+| Wealthfront | Series B ($20M; Index Ventures led with Greylock and Social+Capital; Patel participated as individual angel) | 2013-03-20 | Fintech/Wealth | Public (IPO Dec 2025, $2.05B) | [^8][^10][^11] |
 | Bond Street | Seed | ~2015 | Fintech/Lending | Acquired (Goldman Sachs) | [^8] |
 | Hallow | Seed | ~2021 | Consumer/Media | Active | [^8] |
 | Monograph | Seed | ~2019 | B2B SaaS | Active | [^8] |
@@ -154,3 +154,5 @@ Another founder highlighted Patel's recruiting assistance, noting that Satya "ha
 [^7]: Format One, "Progressing the Bottom-Up Economy: Satya Patel of Homebrew," accessed March 2026. https://www.formatone.io/blog/progressing-the-bottom-up-economy-satya-patel-of-homebrew
 [^8]: Homebrew website, "Portfolio," accessed March 2026. https://homebrew.co/portfolio
 [^9]: Tracxn, "Homebrew Investor Profile," accessed March 2026. https://tracxn.com/d/venture-capital/homebrew/__ZehN2rAYvkkFyyYS4UfNPgzMqB41lf-Otw54_LR9b1I
+[^10]: Wealthfront Blog, "Everyone Deserves Sophisticated Investment Advice," March 20, 2013, accessed July 2026. https://www.wealthfront.com/blog/finance-tech-startup-funding-2013 — Wealthfront's own announcement of its $20M Series B on March 20, 2013 explicitly names Satya Patel among the individual investors (alongside Adam D'Angelo, Matt Mullenweg, Andy Dunn, Michael Schroepfer, Hunter Walk, and Cipora Herman). Round led by Mike Volpi (Index Ventures) with Chamath Palihapitiya (Social+Capital), Reid Hoffman (Greylock), and John Cadeddu (DAG Ventures).
+[^11]: TechCrunch, "Wealthfront, The Investing Service That Has Made Me Money, Raises $20M From Index, Greylock and Social+Capital Partnership," March 20, 2013, accessed July 2026. https://techcrunch.com/2013/03/20/wealthfront-the-investing-service-that-has-made-me-money-raises-20m-from-index-greylock-and-socialcapital-partnership/ — Independent contemporaneous confirmation of March 20, 2013 announcement.

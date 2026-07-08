@@ -97,7 +97,7 @@ Palihapitiya's investment approach has evolved dramatically, making traditional 
 | Slack | 2015 | Series E (led, $172.7M) | [^19] |
 | Box | ~2014 | Early | [^7][^18] |
 | SecondMarket | ~2013 | Early | [^7] |
-| Wealthfront | ~2014 | Early | [^7] |
+| Wealthfront | 2013-03-20 | Series B ($20M; Social+Capital participated alongside Mike Volpi/Index Ventures who led and Reid Hoffman/Greylock) | [^7][^30][^31] |
 | SurveyMonkey | ~2014 | Early | [^18] |
 | Intercom | ~2014 | Early | [^18] |
 | Wave | ~2014 | Series B (led) | [^24] |
@@ -189,3 +189,5 @@ No additional independently sourced founder testimonials found. The Newcomer has
 [^27]: TechCrunch, "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role," June 29, 2026. Accessed June 2026. https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/
 [^28]: Crypto Briefing, "Chamath Palihapitiya raises $135M Series A for AI coding startup 8090," June 29, 2026. Accessed June 2026. https://cryptobriefing.com/chamath-palihapitiya-135m-series-a-8090-ai/
 [^29]: Stockpil, "Chamath Palihapitiya raises $135M Series A for AI coding startup 8090 Labs, steps in as CEO," June 30, 2026. Accessed June 2026. https://stockpil.com/chamath-palihapitiya-8090-labs-series-a-ceo
+[^30]: Wealthfront Blog, "Everyone Deserves Sophisticated Investment Advice," March 20, 2013, accessed July 2026. https://www.wealthfront.com/blog/finance-tech-startup-funding-2013 — Company's own announcement of the $20M Series B on March 20, 2013 led by Mike Volpi (Index Ventures) with Chamath Palihapitiya (Social+Capital), Reid Hoffman (Greylock), and John Cadeddu (DAG Ventures) participating.
+[^31]: TechCrunch, "Wealthfront, The Investing Service That Has Made Me Money, Raises $20M From Index, Greylock and Social+Capital Partnership," March 20, 2013, accessed July 2026. https://techcrunch.com/2013/03/20/wealthfront-the-investing-service-that-has-made-me-money-raises-20m-from-index-greylock-and-socialcapital-partnership/ — Independent contemporaneous confirmation of March 20, 2013 announcement, $20M Series B led by Index with Greylock and Social+Capital co-participating.

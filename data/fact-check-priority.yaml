@@ -1,4 +1,22 @@
 priority:
+- slug: adam-sharkawy
+  type: investor
+  reason: 'Fact-spec sweep 2026-07-08: tightened NextGen Jane row on adam-sharkawy.md portfolio (was "2019 | Series A (led)" → now "2019-04-01 | Series A ($9M, led; Access Industries, Viking Global Investors, Liminal Ventures participated)") via 3 primary sources (existing Business Wire [^10] 2019-04-01, new Vator.tv [^27] 2019-04-01, new MobiHealthNews [^28] 2019-04-02). Parallel update on carmichael-roberts.md corrected wrong stage/year (was ~2018 Seed, actually 2019-04-01 Series A).'
+  added: 2026-07-08
+  status: resolved
+  resolved: 2026-07-08
+- slug: adam-rothenberg
+  type: investor
+  reason: 'Fact-spec sweep 2026-07-08: tightened Kustomer row on adam-rothenberg.md (was "2018 | Series B | Enterprise") to "2018-06-15 | Series B ($26M, led by Redpoint Ventures; Canaan Partners, Boldstart Ventures, Social Leverage participated; Cisco Investments as new strategic)" via 3 primary sources (existing Signal by NFX [^5], new PR Newswire [^19] 2018-06-15 primary press release, new FinSMEs [^20] June 2018). Parallel update on tomasz-tunguz.md added same primary sources [^33][^34].'
+  added: 2026-07-08
+  status: resolved
+  resolved: 2026-07-08
+- slug: adam-dangelo
+  type: investor
+  reason: 'Fact-spec sweep 2026-07-08: tightened Wealthfront row on adam-dangelo.md (was "Series B | 2013 | Fintech") to "Series B ($20M; Index Ventures/Volpi led with Greylock/Hoffman and Social+Capital/Chamath co-led; DAG Ventures/Cadeddu participated; D''Angelo as individual angel alongside Mullenweg, Dunn, Schroepfer, Walk, Herman, Patel) | 2013-03-20" via 3 primary sources (existing Boring Business Nerd [^8], existing TechCrunch [^18] 2013-03-20, new Wealthfront company blog [^38] 2013-03-20). Parallel updates on greylock.md (was wrong: "Series A | ~2008 (founded)" → 2013-03-20 Series B $20M), mike-volpi.md (~2013 → 2013-03-20), chamath-palihapitiya.md (was wrong: ~2014 Early → 2013-03-20 Series B), satya-patel.md (was wrong: Seed ~2014 → 2013-03-20 Series B).'
+  added: 2026-07-08
+  status: resolved
+  resolved: 2026-07-08
 - slug: abstract-ventures
   type: firm
   reason: 'Fact-spec sweep 2026-07-07: tightened Legora row on abstract-ventures.md

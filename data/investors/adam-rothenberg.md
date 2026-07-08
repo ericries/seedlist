@@ -63,7 +63,7 @@ The following table represents investments where Rothenberg's involvement is con
 | Ramp | 2019 | Seed | Fintech | [^13] |
 | Fragment | 2024-07-22 | Seed ($9M) | Fintech | [^14] |
 | Coast | 2024-03-21 | Equity round ($25M) | Fintech | [^10][^18] |
-| Kustomer | 2018 | Series B | Enterprise | [^5] |
+| Kustomer | 2018-06-15 | Series B ($26M, led by Redpoint Ventures; Canaan Partners, Boldstart Ventures, Social Leverage participated; Cisco Investments as new strategic investor) | Enterprise/CX | [^5][^19][^20] |
 | CrowdTangle | 2014 | Venture | Media/Analytics | [^5] |
 | Thanx | 2012 | Seed | Consumer/Loyalty | [^5] |
 | Cursor | ~2022 | Seed | Developer Tools | [^16] |
@@ -145,3 +145,5 @@ No independently sourced founder testimonials found. Dedicated searches for foun
 [^16]: BoxGroup, "Portfolio," accessed April 2026. https://www.boxgroup.com/portfolio
 [^17]: NYC Founder Guide, "BoxGroup," accessed April 2026. https://www.nycfounderguide.com/investors/boxgroup
 [^18]: PR Newswire (Coast), "Coast raises $92 million in new capital, partners with Visa to expand financial tools and software for modern business fleets," March 21, 2024. https://www.prnewswire.com/news-releases/coast-raises-92-million-in-new-capital-partners-with-visa-to-expand-financial-tools-and-software-for-modern-business-fleets-302096146.html
+[^19]: PR Newswire, "Kustomer Secures $26 Million in Series B Funding to Modernize Customer Experience," June 15, 2018, accessed July 2026. https://www.prnewswire.com/news-releases/kustomer-secures-26-million-in-series-b-funding-to-modernize-customer-experience-300666788.html — Primary source for Kustomer's $26M Series B on June 15, 2018 led by Redpoint Ventures with Canaan Partners, Boldstart Ventures, and Social Leverage as returning Series A investors and Cisco Investments as new strategic investor. Tomasz Tunguz (Redpoint) joined the Board.
+[^20]: FinSMEs, "CRM Company Kustomer Raises $26M in Series B Funding," June 2018, accessed July 2026. https://www.finsmes.com/2018/06/crm-company-kustomer-raises-26m-in-series-b-funding.html — Independent confirmation of Kustomer's $26M Series B led by Redpoint with Canaan Partners, Boldstart, Social Leverage, and Cisco Investments participating.

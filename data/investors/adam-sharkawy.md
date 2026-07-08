@@ -87,7 +87,7 @@ Based on 34 verified portfolio companies listed on Material Impact's website [^6
 | Soft Robotics | 2015 | Series A (led) | [^7] |
 | 6K (fka Amastan Technologies) | 2017 | Series B | [^8] |
 | Fusion Coolant Systems | 2018 | Series C (led) | [^9] |
-| NextGen Jane | 2019 | Series A (led) | [^10] |
+| NextGen Jane | 2019-04-01 | Series A ($9M, led; Access Industries, Viking Global Investors, Liminal Ventures participated) | [^10][^27][^28] |
 | Orbion Space Technology | 2019 | Series A (led) | [^11] |
 | Infinite Cooling | 2019 | Seed (led) | [^12] |
 | BloomerTech | 2020 | Seed (led) | [^13] |
@@ -162,3 +162,5 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^24]: BusinessWire, "Amperesand Raises $80M Series A Co-led by Walden Catalyst Ventures and Temasek," November 18, 2025. https://www.businesswire.com/news/home/20251118244299/en/Amperesand-Raises-$80M-Series-A-Co-led-by-Walden-Catalyst-Ventures-and-Temasek-to-Redefine-Power-Infrastructure-for-AI-Data-Centers
 [^25]: PR Newswire, "Ripple Foods Announces Strategic Financing to Accelerate Growth," December 2, 2025. https://www.prnewswire.com/news-releases/ripple-foods-announces-strategic-financing-to-accelerate-growth-and-appoints-new-ceo-302625855.html
 [^26]: Tracxn, "Folio Photonics - 2026 Funding Rounds & List of Investors," accessed March 2026. https://tracxn.com/d/companies/foliophotonics/__IuDaRjrNDWrfRs0OMnomci39ESIK6lQEJoCWJzsB-7I/funding-and-investors
+[^27]: Vator.tv, "NextGen Jane CEO on expanding access to care and pushing back on the normalization of women's pain," April 1, 2019, accessed July 2026. https://vator.tv/2019-04-03-nextgen-jane-ceo-on-expanding-access-to-care-and-pushing-back-on-the-normalization-of-womens-pain/ — Independent confirmation of April 1, 2019 announcement, $9M Series A led by Material Impact with Access Industries, Viking Global Investors, and Liminal Ventures participating; total funding raised to $11M.
+[^28]: MobiHealthNews, "Reproductive health platform NextGen Jane lands $9M in Series A funding," April 2, 2019, accessed July 2026. https://www.mobihealthnews.com/news/reproductive-health-platform-nextgen-jane-lands-9m-series-funding — Independent tier-1 healthcare press confirmation of the $9M Series A led by Material Impact with Access Industries, Viking Global Investors, and Liminal Ventures participating.

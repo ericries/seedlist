@@ -92,7 +92,7 @@ Predominantly **Series A leads with board seats** — Tunguz took Theory board s
 |---|---|---|---|
 | Looker | 2013 | Series A ($16M, led) — board seat; acquired by Google for $2.6B (2019) | [^9] |
 | Dremio | 2015 | Joined board (Series A 2016, led by Lightspeed; Redpoint participated) | [^11][^29] |
-| Kustomer | 2018 | Redpoint investment; acquired by Meta ~$1B (2020) | [^10] |
+| Kustomer | 2018-06-15 | Series B (led by Redpoint, $26M; Canaan Partners, Boldstart Ventures, Social Leverage participated; Cisco Investments as new strategic; Tunguz joined board); acquired by Meta ~$1B (2020) | [^10][^33][^34] |
 | Expensify | ~2013–2015 (Redpoint era) | Redpoint invested | [^8] |
 | Hex Technologies | 2021 | Series A ($16M, led) — board seat | [^13] |
 | MotherDuck | 2022 | Seed ($12.5M, Redpoint led) — Series A led by a16z | [^14] |
@@ -199,3 +199,5 @@ No independently sourced founder testimonials describing the working relationshi
 [^30]: "Monte Carlo Raises $25M Series B to Help Companies Achieve More Reliable Data," BusinessWire, February 9, 2021, accessed June 2026. https://www.businesswire.com/news/home/20210209005351/en/Monte-Carlo-Raises-$25M-Series-B-to-Help-Companies-Achieve-More-Reliable-Data
 [^31]: Tomasz Tunguz, X/Twitter post, November 18, 2022, accessed June 2026. https://x.com/ttunguz/status/1593641652358258688
 [^32]: "The zen of Tomasz Tunguz," Mixpanel Signals & Stories, accessed June 2026. https://mixpanel.com/blog/the-zen-of-tomasz-tunguz/
+[^33]: PR Newswire, "Kustomer Secures $26 Million in Series B Funding to Modernize Customer Experience," June 15, 2018, accessed July 2026. https://www.prnewswire.com/news-releases/kustomer-secures-26-million-in-series-b-funding-to-modernize-customer-experience-300666788.html — Primary source confirming June 15, 2018 announcement of Kustomer's $26M Series B led by Redpoint Ventures with Canaan Partners, Boldstart Ventures, Social Leverage, and Cisco Investments; Tunguz joined the Board.
+[^34]: FinSMEs, "CRM Company Kustomer Raises $26M in Series B Funding," June 2018, accessed July 2026. https://www.finsmes.com/2018/06/crm-company-kustomer-raises-26m-in-series-b-funding.html — Independent confirmation of $26M Series B led by Redpoint with Canaan Partners, Boldstart, Social Leverage, and Cisco Investments.

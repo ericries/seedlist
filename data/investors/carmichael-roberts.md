@@ -111,7 +111,7 @@ The table below covers Roberts' personal investments and Material Impact portfol
 | Mattiq | 2023 | Seed | Axios Pro: Climate Deals [^16] |
 | Nanograf | ~2020 | Seed | Material Impact website [^2] |
 | Nauticus Robotics | ~2020 | Seed | Material Impact website [^2] |
-| NextGen Jane | ~2018 | Seed | Material Impact website [^2] |
+| NextGen Jane | 2019-04-01 | Series A ($9M, Material Impact led; Access Industries, Viking Global Investors, Liminal Ventures participated) | [^2][^21][^22] |
 | Nohbo | ~2018 | Seed | Material Impact website [^2] |
 | Orbion Space Technology | ~2018 | Seed | Material Impact website [^2] |
 | Oxipital AI | ~2020 | Seed | Material Impact website [^2] |
@@ -195,4 +195,6 @@ No independently sourced founder testimonials found. Roberts' long-time collabor
 [^18]: Blue Frontier, "Breakthrough Energy Ventures Leads $20M Series A for Blue Frontier's Game-Changing Sustainable, Energy-Storing Air Conditioning," August 2022, accessed March 2026. https://bluefrontierac.com/breakthrough-energy-ventures-leads-20m-series-a-for-blue-frontiers-game-changing-sustainable-energy-storing-air-conditioning/
 [^19]: TechCrunch, "Rondo tackles industrial heat to drop global CO2 emissions by 1% in the next decade," February 2022, accessed March 2026. https://techcrunch.com/2022/02/08/rondo-series-a/
 [^20]: ESG Today, "Sustainable Drinking Water Tech Provider SOURCE Global Raises Over $130 Million," July 2022, accessed March 2026. https://www.esgtoday.com/sustainable-drinking-water-tech-provider-source-global-raises-over-130-million/
+[^21]: Vator.tv, "NextGen Jane CEO on expanding access to care and pushing back on the normalization of women's pain," April 1, 2019, accessed July 2026. https://vator.tv/2019-04-03-nextgen-jane-ceo-on-expanding-access-to-care-and-pushing-back-on-the-normalization-of-womens-pain/ — Confirms April 1, 2019 announcement of NextGen Jane's $9M Series A led by Material Impact with Access Industries, Viking Global Investors, and Liminal Ventures participating; total funding raised to $11M.
+[^22]: MobiHealthNews, "Reproductive health platform NextGen Jane lands $9M in Series A funding," April 2, 2019, accessed July 2026. https://www.mobihealthnews.com/news/reproductive-health-platform-nextgen-jane-lands-9m-series-funding — Independent healthcare press confirmation of $9M Series A led by Material Impact.
 [^21]: BusinessWire, "Zero Mass Water Becomes SOURCE Global, PBC to Supply Renewable Drinking Water Around the World," September 2020, accessed March 2026. https://www.businesswire.com/news/home/20200923005262/en/Zero-Mass-Water-Becomes-SOURCE-Global-PBC-to-Supply-Renewable-Drinking-Water-Around-the-World
