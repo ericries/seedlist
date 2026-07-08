@@ -47,6 +47,34 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Toulouse-based Bohr Energie secures €10 million to scale its AI-powered renewable
+    energy aggregation platform
+  url: https://www.eu-startups.com/2026/07/toulouse-based-bohr-energie-secures-e10-million-to-scale-its-ai-powered-renewable-energy-aggregation-platform/
+  source: eu-startups
+  date_found: '2026-07-08'
+  parsed_company: Toulouse-based Bohr Energie
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: As power demand rises from electrification and data centres, London’s Axle
+    Energy raises €21 million for energy flexibility
+  url: https://www.eu-startups.com/2026/07/as-power-demand-rises-from-electrification-and-data-centres-londons-axle-energy-raises-e21-million-for-energy-flexibility/
+  source: eu-startups
+  date_found: '2026-07-08'
+  parsed_company: As power demand rises from electrification and data centres, London’s
+    Axle Energy
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: YC-backed Fleek raises €22 million to build AI infrastructure keeping global
+    secondhand fashion on fleek
+  url: https://www.eu-startups.com/2026/07/yc-backed-fleek-raises-e22-million-to-build-ai-infrastructure-keeping-global-secondhand-fashion-on-fleek/
+  source: eu-startups
+  date_found: '2026-07-08'
+  parsed_company: YC-backed Fleek
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Lisbon-based BIZAY raises €48.7 million Series D; set to surpass €88.6 million
     revenue and reach profitability
   url: https://www.eu-startups.com/2026/07/lisbon-based-bizay-raises-e48-75-million-series-d-set-to-surpass-e88-6-million-revenue-and-reach-profitability/

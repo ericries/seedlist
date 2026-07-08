@@ -36789,3 +36789,92 @@ queue:
   firm: SambaNova Systems
   discovered_from: sambanova-systems
   source: Co-founder & CEO of SambaNova; potential angel/operator investor
+- name: Burda Principal Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fleek
+  source: led Fleek Series B ($25M, 2026-07-08); early Vinted backer
+- name: H14
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fleek
+  source: participated in Fleek Series B ($25M, 2026-07-08)
+- name: eBay Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: eBay
+  discovered_from: fleek
+  source: strategic corporate investor in Fleek Series B ($25M, 2026-07-08)
+- name: Suma Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bohr-energie
+  source: led Bohr Energie Series A (€10M, 2026-07-08) via SC Net Zero Ventures
+- name: Irdi Capital Investissement
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bohr-energie
+  source: co-investor in Bohr Energie Series A (€10M, 2026-07-08)
+- name: GSO Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bohr-energie
+  source: co-investor in Bohr Energie Series A (€10M, 2026-07-08)
+- name: AFI Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bohr-energie
+  source: seed investor in Bohr Energie (2024) and Series A participant (2026-07-08)
+- name: Julien Haure
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Bohr Energie
+  discovered_from: bohr-energie
+  source: Co-founder & CEO of Bohr Energie
+- name: Abhi Arora
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Fleek
+  discovered_from: fleek
+  source: Co-founder & CEO of Fleek
+- name: John Nay
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Norm Ai
+  discovered_from: norm-ai
+  source: Founder & CEO of Norm Ai; law professor and legal-AI researcher
+- name: Matt Harris
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bain Capital Ventures
+  discovered_from: norm-ai
+  source: Partner at Bain Capital Ventures; participated in Norm Ai Series C (2026-07-07)
+- name: HSG (formerly Sequoia China)
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: even-realities
+  source: participated in Even Realities $150M Pre-Series B (2026-07-06)
