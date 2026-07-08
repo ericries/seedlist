@@ -43,19 +43,21 @@ Superstate is a San Francisco-based financial technology company building infras
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-01-22 | Series B | $82.5M | Bain Capital Crypto, Distributed Global | Haun Ventures, Brevan Howard Digital, Galaxy Digital, Sentinel Global, Bullish, Hypersphere Capital, Flowdesk, Intersection, 1kx, ParaFi, Road Capital [^1] |
-| 2026-04-13 | Series B (additional close) | Undisclosed | | Invesco Private Capital [^2] |
+| 2026-04-13 | Series B (additional close) | Amount not disclosed (strategic investment within the previously announced USD 82.5M Series B) | Strategic add-on — no new lead | Invesco Private Capital (new investor) [^2][^3][^4] |
 
-As part of the Invesco strategic investment, Invesco Advisers will become the investment manager of Superstate's flagship USTB fund beginning in Q2 2026, marking the first instance of a global asset manager utilizing Superstate's tokenization and transfer agent tools for fund management [^2].
+As part of the Invesco strategic investment, Invesco Advisers will become the investment manager of Superstate's flagship USTB fund beginning in Q2 2026, marking the first instance of a global asset manager utilizing Superstate's tokenization and transfer agent tools for fund management [^2]. Contemporaneous coverage (PR Newswire, StockTitan, WEEX) confirms Invesco's specific investment amount was not disclosed in the announcement [^2][^3][^4].
 
 ## What Investors Say
 
-No verified investor quotes available at this time.
+> "Superstate's on-chain infrastructure expands Invesco's ability to scale its digital assets strategy and advances our tokenized product offerings. As the broader tokenization market continues to evolve, we believe thoughtful partnerships will support responsible innovation and help us meet the changing needs of our clients." — Emily Kulback, Global Head of Product, Invesco, quoted in Superstate/Invesco strategic partnership announcement, April 13, 2026 [^2]
 
 ## What Founders Say
 
-No verified founder quotes available at this time.
+> "Invesco becoming a strategic investor in Superstate reflects the depth of our shared conviction: tokenization is the future of investment products, and we're building it together." — Robert Leshner, CEO, Superstate, quoted in Superstate/Invesco strategic partnership announcement, April 13, 2026 [^2]
 
 ## Sources
 
 [^1]: Decrypt, "Superstate Raises $82.5 Million, Cashing in on Wall Street's Tokenization Bonanza," January 22, 2026. https://decrypt.co/355496/superstate-raises-82-5-million-wall-street-tokenization-bonanza
 [^2]: PR Newswire, "Superstate and Invesco Expand Strategic Partnership," April 13, 2026. https://www.prnewswire.com/news-releases/superstate-and-invesco-expand-strategic-partnership-302739723.html
+[^3]: StockTitan (Invesco Ltd. news), "Invesco Backs Superstate in Series B, Expands Pact," April 2026. Accessed July 2026. https://www.stocktitan.net/news/IVZ/superstate-and-invesco-expand-strategic-xa38vicjwcz1.html
+[^4]: WEEX Crypto News (aggregator citing PR Newswire), "Fintech company Superstate has completed a Series B extension financing, with Invesco Private Capital, a subsidiary of Invesco, as the new investor," April 2026. Accessed July 2026. https://www.weex.com/news/detail/fintech-company-superstate-has-completed-a-series-b-extension-financing-with-invesco-private-capital-a-subsidiary-of-invesco-as-the-new-investor-648326

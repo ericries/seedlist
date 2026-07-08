@@ -12,7 +12,7 @@ sector:
 - telehealth
 - rheumatology
 stage_latest: Series A
-total_raised: null
+total_raised: "$6.2M"
 firms: []
 investors: []
 founders:
@@ -30,7 +30,9 @@ Remission Medical is a virtual rheumatology platform based in Henrico, Virginia,
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-13 | Series A | Undisclosed | Blue Heron Capital | [^1] |
+| 2026-04-13 | Series A | USD 5M | Blue Heron Capital | (no other new investors named) [^1][^4][^5] |
+
+Remission Medical's Series A brings total funding from outside investors to approximately USD 6.2M, following USD 1.2M previously raised from angel investors [^4].
 
 ## What Investors Say
 
@@ -45,3 +47,5 @@ Remission Medical is a virtual rheumatology platform based in Henrico, Virginia,
 [^1]: PR Newswire, "Remission Medical Closes Series A Led by Blue Heron Capital to Expand Virtual Rheumatology Partnerships Across U.S. Health Systems," April 13, 2026. http://www.prnewswire.com/news-releases/remission-medical-closes-series-a-led-by-blue-heron-capital-to-expand-virtual-rheumatology-partnerships-across-us-health-systems-302740483.html
 [^2]: Richmond BizSense, "Rheumatology-focused telehealth company launches in Richmond," August 25, 2022. https://richmondbizsense.com/2022/08/25/rheumatology-focused-telehealth-company-launches-in-richmond/
 [^3]: PR Newswire, "Remission Medical enters know-how agreement with Mayo Clinic to transform rheumatology care delivery," 2023. https://www.prnewswire.com/news-releases/remission-medical-enters-know-how-agreement-with-mayo-clinic-to-transform-rheumatology-care-delivery-301840005.html
+[^4]: Richmond BizSense, "Richmond startup Remission Medical lands $5M from local private equity firm Blue Heron," April 9, 2026. Accessed July 2026. https://richmondbizsense.com/2026/04/09/richmond-startup-remission-medical-lands-5m-from-local-private-equity-firm-blue-heron/
+[^5]: Finsmes, "Remission Medical Closes Series A Funding," April 2026. Accessed July 2026. https://www.finsmes.com/2026/04/remission-medical-closes-series-a-funding.html

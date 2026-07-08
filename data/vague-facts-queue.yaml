@@ -165757,7 +165757,9 @@ vague_facts:
   line: '| 2007 | Seed | $1M | Undisclosed | Undisclosed [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec 2026-07-07: UNRESOLVABLE. Egnyte''s January 2007 USD 1M seed round has no primary source naming a lead or participating investors. Reviewed: (a) Egnyte Wikipedia entry (no seed investor named), (b) Clay funding dossier (aggregator confirms round happened but does not name lead), (c) TechCrunch 2018-10-10 Series E coverage (references later Polaris/KP/GV investors, not seed), (d) Forge Global pre-IPO summary (no seed detail), (e) Crunchbase (aggregator; no cited primary source). No firm has ever publicly claimed leading Egnyte''s seed. Consistent with earliest-stage angel checks from that era being intentionally unnamed. Leaving row as-is with "Undisclosed" (accurate — genuinely never publicly reported).'
 - profile: startups/egnyte
   profile_name: Egnyte
   company: 2018-10
@@ -168303,7 +168305,9 @@ vague_facts:
   line: '| 2026-04-13 | Series A | Undisclosed | Blue Heron Capital | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec 2026-07-07: tightened Remission Medical Series A row from "Undisclosed" amount to USD 5M via 3 independent primary sources — (a) Richmond BizSense 2026-04-09 [^4] naming "$5M from local private equity firm Blue Heron," (b) PR Newswire company release [^1] confirming Blue Heron Capital as sole lead with no other new named investors, (c) Finsmes 2026-04 [^5] confirming Series A close details. Total funding to date USD 6.2M (USD 1.2M angels + USD 5M Blue Heron). Added citations [^4] and [^5]. Also updated total_raised frontmatter from null to "$6.2M".'
 - profile: startups/rep-ai
   profile_name: Rep AI
   company: 2024-08
@@ -168956,7 +168960,9 @@ vague_facts:
     Experior Venture Fund, Granite Ventures, Sha'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec 2026-07-07: UNRESOLVABLE. Smule Series J 2022-12-06 USD 14.17M round has no primary source naming a lead investor. Reviewed: (a) CB Insights financial page confirms date/amount but not lead, (b) Bessemer Venture Partners company page for Smule (bvp.com/companies/smule) lists Smule as portfolio but does not identify Bessemer as lead of any specific round, (c) Crunchbase financials aggregator lists participants but no lead identified, (d) PitchBook profile behind auth, (e) Tracxn aggregator confirms participants only, (f) no company press release found on Smule''s newsroom for this round, (g) no contemporaneous tier-1 press coverage (TechCrunch, WSJ, Bloomberg, Reuters) of the December 2022 round. Series J with existing investors participating is likely an internal/extension round without an outside lead. Leaving row as-is.'
 - profile: startups/snabbit
   profile_name: Snabbit
   company: 2024-05
@@ -169196,7 +169202,9 @@ vague_facts:
     new venture firms (undisclosed per company'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec 2026-07-07: tightened Starcloud Seed Extension row from "Undisclosed" lead to a substantive explanation via 3 independent primary sources — (a) GeekWire 2025-02-26 [^15] confirming SAFE structure ("simplified agreement for future equity") from previous seed investors + new venture firms explicitly not identified per company until Series A, (b) Data Center Dynamics 2025-02-26 [^16] confirming rebrand from Lumen Orbit and $10M extension, (c) Cosmic Log 2025-02-26 [^9] independent report. CEO Philip Johnston is quoted stating the new investors "won''t be identified until a Series A funding round takes place." Round is inherently lead-less (SAFE structure). Added citations [^15] and [^16].'
 - profile: startups/starcloud
   profile_name: Starcloud
   company: '2025-08-08'
@@ -169268,6 +169276,9 @@ vague_facts:
   line: '| 2016-11-01 | Seed | Undisclosed | — | — | [^8][^10] |'
   priority: high
   type: unknown_value
+  status: unresolvable
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec 2026-07-07: UNRESOLVABLE. StockX 2016-11-01 seed round amount is not publicly disclosed. Reviewed: (a) Crunchbase funding round profile confirms 2016-11-01 date but "Amount" field is empty (undisclosed), (b) Clay funding dossier confirms undisclosed, (c) StockX company press releases only cover subsequent USD 6M announcement (which was a distinct round, not the November 2016 seed — that round included Mark Wahlberg, Eminem, Paul Rosenberg, Ted Leonsis, Steve Case, SV Angel, Courtside Ventures, Detroit Venture Partners), (d) PitchBook profile has amount fields locked behind auth. No primary source names an amount for the strict 2016-11-01 seed round distinct from the follow-on. Leaving row as-is.'
   status: pending
 - profile: startups/stockx
   profile_name: StockX
@@ -169355,7 +169366,9 @@ vague_facts:
     Capital [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  resolution_note: 'Fact-spec 2026-07-07: tightened Superstate Series B (additional close) row from bare "Undisclosed" to substantive explanation. Verified via 3 independent primary sources — (a) PR Newswire company release 2026-04-13 [^2] naming Invesco Private Capital as new investor, (b) StockTitan Invesco Ltd. news [^3], (c) WEEX Crypto News [^4]. All three consistently confirm Invesco''s specific investment amount was not disclosed in the announcement; the strategic add-on is folded into the previously announced USD 82.5M Series B round. Added citations [^3] and [^4]. Also added verbatim quotes from Robert Leshner (Superstate CEO) and Emily Kulback (Invesco Global Head of Product) from the same PR Newswire release [^2].'
 - profile: startups/synaps
   profile_name: Synaps
   company: '2025-02-05'

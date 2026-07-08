@@ -94,7 +94,7 @@ On March 30, 2026, the company announced a $170M Series A at a $1.1B valuation, 
 |------|-------|--------|------|--------------|
 | 2024-03-11 | Pre-Seed | $2.4M | Nebular | Caffeinated Capital, Plug & Play, Everywhere Ventures, Tiny.vc, Sterling Road, Pareto Holdings, Foreword Ventures, Sequoia Scout Fund [^8][^11][^12] |
 | 2024-12 | Seed | $11M | NFX | Y Combinator, FUSE, Soma Capital, Andreessen Horowitz (scout), Sequoia Capital (scout) [^8] |
-| 2025-02-26 | Seed Extension | $10M | Undisclosed | Previous seed investors, new venture firms (undisclosed per company until Series A); Nvidia partnership announced concurrently [^8][^9][^13] |
+| 2025-02-26 | Seed Extension (SAFE) | $10M | No lead — SAFE round; new investors not publicly named until Series A per CEO Philip Johnston | Previous seed investors (NFX, Y Combinator, FUSE, Soma Capital, Andreessen Horowitz scout, Sequoia scout); Nvidia partnership announced concurrently [^8][^9][^13][^15][^16] |
 | 2025-08-08 | Strategic Investment | Undisclosed | In-Q-Tel | [^14] |
 | 2026-03-30 | Series A | $170M | Benchmark, EQT Ventures | Macquarie Capital, NFX, Nebular, Y Combinator, Adjacent, 776 Ventures, Fuse Ventures, Manhattan West, Monolith Power Systems [^2][^7] |
 
@@ -138,3 +138,5 @@ Philip Johnston on commercial plans: "The main customer contracts that are commi
 [^12]: Cosmic Log, "Lumen Orbit raises $2.4M to put data centers in space," Alan Boyle, March 11, 2024. https://cosmiclog.com/2024/03/11/lumen-orbit-raises-2-4m-to-put-data-centers-in-space/
 [^13]: Crunchbase, "Seed Round - Starcloud - 2025-02-26," accessed April 2026. https://www.crunchbase.com/funding_round/lumen-orbit-seed--d501ee39
 [^14]: Data Center Dynamics, "In-Q-Tel invests in data center in space firm Starcloud," August 2025 (CEO Philip Johnston announced the strategic investment via LinkedIn on August 8, 2025; amount not disclosed). https://www.datacenterdynamics.com/en/news/in-q-tel-invests-in-data-center-in-space-firm-starcloud/
+[^15]: GeekWire, "Lumen Orbit changes its name to Starcloud and raises $10M for space data centers," February 26, 2025 (confirms $10M SAFE, previous seed investors + new firms undisclosed until Series A). Accessed July 2026. https://www.geekwire.com/2025/lumen-orbit-starcloud-10m-space-data-centers/
+[^16]: Data Center Dynamics, "Lumen Orbit rebrands to Starcloud, raises another $10m for in-orbit data centers," February 26, 2025. Accessed July 2026. https://www.datacenterdynamics.com/en/news/lumen-orbit-rebrands-to-starcloud-raises-another-10m-for-in-orbit-data-centers/
