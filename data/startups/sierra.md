@@ -24,9 +24,10 @@ firms:
 - round: Seed
   slug: sv-angel
   year: 2023
-- round: '2023'
+- round: series-a
   slug: conviction
-  year: 2023
+  year: 2024
+  date: 2024-02-13
 - round: Series C
   slug: iconiq-growth
   year: 2024
@@ -69,9 +70,10 @@ investors:
 - round: Series A ($110M)
   slug: peter-fenton
   year: 2024
-- round: '2023'
+- round: series-a
   slug: sarah-guo
-  year: 2023
+  year: 2024
+  date: 2024-02-13
 - round: Series C
   slug: will-griffith
   year: 2024

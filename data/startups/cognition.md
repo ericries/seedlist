@@ -24,9 +24,10 @@ firms:
 - round: Seed
   slug: pear-vc
   year: 2023
-- round: ~2023
+- round: series-a-extension
   slug: conviction
-  year: 2023
+  year: 2024
+  date: 2024-04
 - slug: 8vc
 - round: Growth $400M (led)
   slug: founders-fund
@@ -109,6 +110,8 @@ Cognition is a San Francisco-based AI coding company founded in 2023 by CEO Scot
 |------|-------|--------|------|--------------|
 | 2026-05-27 | Growth | $1B+ (at $26B post-money) | Lux Capital, General Catalyst, 8VC | Elad Gil, Soma Capital, Omri Casspi, Founders Fund, Ribbit Capital, Atreides, Layer Global [^1][^2][^3] |
 | 2025-09-08 | Growth | $400M (at $10.2B post-money) | Founders Fund | Lux Capital, 8VC, Neo, Elad Gil, Definition Capital, Swish VC, Bain Capital Ventures, Hanabi Capital, D1 Capital [^4][^5][^6] |
+| 2024-04 | Series A extension | $175M (at $2B post-money) | Founders Fund | 8VC, Elad Gil, Khosla Ventures, Conviction Partners [^2][^3][^7] |
+| 2024-03 | Series A | $21M (at $350M post-money) | Founders Fund | Not publicly named [^2][^3][^8] |
 
 ## What Investors Say
 
@@ -126,3 +129,7 @@ No independently sourced founder quotes found at this time.
 [^4]: TechCrunch, "Cognition AI defies turbulence with a $400M raise at $10.2B valuation," September 8, 2025. Accessed July 2026. https://techcrunch.com/2025/09/08/cognition-ai-defies-turbulence-with-a-400m-raise-at-10-2b-valuation/
 [^5]: Cognition, "Funding, growth, and the next frontier of AI coding agents," company blog, September 8, 2025. Accessed July 2026. https://cognition.com/blog/funding-growth-and-the-next-frontier-of-ai-coding-agents
 [^6]: The AI Insider, "Cognition AI Closes $400M in Funding to Reach $10.2B Valuation Amid Rapid Growth," September 9, 2025. Accessed July 2026. https://theaiinsider.tech/2025/09/09/cognition-ai-closes-400m-in-funding-to-reach-10-2b-valuation-amid-rapid-growth/
+
+[^7]: Maginative, "Cognition AI Raises $175M at $2B Valuation, One Month After Series A," April 2024. Accessed July 2026. https://www.maginative.com/article/cognition-ai-raises-175m-at-2b-valuation-one-month-after-series-a/ — Primary press for the April 2024 $175M Series A extension led by Founders Fund at $2B post-money valuation. Contrary Research separately confirms Conviction Partners as a participant in this round alongside 8VC, Elad Gil, and Khosla Ventures.
+
+[^8]: Sacra, "Cognition revenue, valuation & funding," accessed July 2026. https://sacra.com/c/cognition/ — Independent funding-history aggregator confirming Series A ($21M, March 2024, Founders Fund lead, $350M val) and Series A extension ($175M, April 2024, Founders Fund lead, $2B val).

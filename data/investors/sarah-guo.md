@@ -101,14 +101,14 @@ Based on 22 verified investments below (12 at Conviction, 10 at Greylock):
 |---------|-------|------|--------|--------|--------|
 | Harvey | Seed | 2022-11-23 | AI / Legal Tech | Active ($11B valuation) | [^2][^18][^19] |
 | Mistral AI | Series A | 2023-12-11 | AI / Open-source LLMs | Active ($14B valuation) | [^2][^10] |
-| Sierra | Early | 2023 | AI / Conversational AI | Active ($4.5B valuation) | [^2] |
+| Sierra | Series A (Conviction listed on own portfolio page [^8] but not named in Feb 13, 2024 launch press) | 2024-02-13 (Series A public announcement) | AI / Conversational AI | Active ($15.8B post-Series-E May 2026) | [^2][^8][^29][^30] |
 | Baseten | Series E (participated, $300M) | 2026-01-23 | AI / Inference infrastructure | Active ($5B valuation) | [^2][^20][^21][^22] |
-| Cognition | Early | ~2023 | AI / Software engineering | Active | [^8] |
+| Cognition | Series A extension (participated, $175M; Founders Fund led at $2B val; 8VC, Elad Gil, Khosla Ventures also participated per Contrary Research) | 2024-04 | AI / Software engineering | Active | [^8][^31][^32][^33] |
 | HeyGen | Seed (led, $5.6M) | 2023-11-29 | AI / Video generation | Active | [^23][^24][^25] |
 | Cartesia | Seed | 2024-12-12 | AI / Foundation models | Active | [^8][^11] |
 | Onyx | Early | ~2023 | AI / Security | Active | [^8] |
 | Sola | Seed (led, $3.5M) | 2025-08-14 (announced) | AI Process Automation | Active | [^12][^13][^14] |
-| Sunday Robotics | Early | ~2023 | AI / Robotics | Active | [^8] |
+| Sunday Robotics | Seed (participated, $35M; Benchmark and Conviction co-backed emergence from stealth; Guo self-listed in own portfolio [^4]) | 2025-11-19 | AI / Humanoid Robotics / Home | Active | [^4][^8][^34][^35] |
 | Corridor | Seed (led, $5.4M) | 2025-08-05 | AI Code Security | Active | [^15][^16][^17] |
 | Open Evidence | Series B (participated, $210M) | 2025-07-15 | AI / Medical | Active ($3.5B valuation) | [^26][^27][^28] |
 
@@ -187,3 +187,18 @@ No independently sourced founder testimonials found. Guo's personal website refe
 [^27]: hlth.com, "OpenEvidence Raises $210M, Launches Free AI Agent for Physicians," July 17, 2025, accessed May 2026. https://hlth.com/insights/news/openevidence-raises-210m-launches-free-ai-agent-for-physicians-2025-07-17 — Independent confirmation of $210M Series B at $3.5B valuation announced July 15, 2025; GV and Kleiner Perkins co-led; Sequoia (Series A lead), Coatue, Conviction, and Thrive participated.
 
 [^28]: OpenEvidence Wikipedia article, accessed May 2026. https://en.wikipedia.org/wiki/OpenEvidence — Independent confirmation of July 2025 $210M Series B co-led by GV and Kleiner Perkins at $3.5B valuation, with Coatue, Conviction, and Thrive Capital participating.
+
+[^29]: Fortune, "Ex-Salesforce Co-CEO Bret Taylor launches AI startup Sierra," February 13, 2024. Accessed July 2026. https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark/ — Primary press for Sierra's Feb 13, 2024 launch with $110M raised at $1B valuation, led by Sequoia (Ravi Gupta) and Benchmark (Peter Fenton). Conviction not publicly named.
+
+[^30]: Sacra, "Sierra revenue, valuation & funding," accessed July 2026. https://sacra.com/c/sierra/ — Independent funding-history aggregator confirming Series A ($110M, publicly announced Feb 13, 2024), Series B (Oct 2024, $175M, Greenoaks, $4.5B), Series C (Sep 2025, $350M, Greenoaks, $10B), Series E (May 2026, $950M, GV + Tiger Global, $15.8B). Conviction not named.
+
+[^31]: Contrary Research, "Cognition Business Breakdown & Founding Story," accessed July 2026. https://research.contrary.com/company/cognition — Primary research report explicitly naming Conviction Partners as a participant in Cognition's April 2024 $175M Series B/A extension led by Founders Fund at $2B valuation, alongside 8VC, Elad Gil, and Khosla Ventures.
+
+[^32]: Sacra, "Cognition revenue, valuation & funding," accessed July 2026. https://sacra.com/c/cognition/ — Independent funding-history aggregator confirming Series A ($21M, March 2024, Founders Fund, $350M val) and Series A extension ($175M, April 2024, Founders Fund, $2B val). Mentions Conviction among broader investor group.
+
+[^33]: Wikipedia, "Cognition AI," accessed July 2026. https://en.wikipedia.org/wiki/Cognition_AI — Independent confirmation of founding November 2023 (Scott Wu, Steven Hao, Walden Yan), $21M Series A March 2024, $175M Series A extension April 2024, 8VC-led Series B March 2025 ($4B val), September 2025 round ($10.2B val following Windsurf acquisition).
+
+[^34]: The AI Insider, "Sunday Emerges from Stealth with $35M for Household Robot Called Memo," November 20, 2025. Accessed July 2026. https://theaiinsider.tech/2025/11/20/sunday-emerges-from-stealth-with-35m-for-household-robot-called-memo/ — Primary press source naming Benchmark and Conviction as backers of Sunday Robotics' $35M emergence from stealth on November 19-20, 2025. Co-founders Tony Zhao (CEO, ex-DeepMind) and Cheng Chi (CTO, ex-Apple, Toyota Research Institute).
+
+[^35]: Mugglehead Investment Magazine, "Sunday Robotics emerges from stealth with launch of 'Memo' humanoid house chores robot," November 20, 2025. Accessed July 2026. https://mugglehead.com/sunday-robotics-emerges-from-stealth-with-launch-of-memo-humanoid-house-chores-robot/ — Independent contemporaneous press confirming US$35M emergence from stealth funding with Benchmark and Conviction identified as the two VC firms.
+

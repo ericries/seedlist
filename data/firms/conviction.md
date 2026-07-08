@@ -76,12 +76,12 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 | Harvey | Seed | 2022-11-23 | Legal AI | Active (unicorn, $11B) | [^2][^7][^8][^41][^42] |
 | Mistral | Series A | 2023-12-11 | AI Models | Active (unicorn, $14B) | [^2][^9] |
 | Baseten | Series E (participated, $300M) | 2026-01-23 | AI Infrastructure | Active ($5B) | [^2][^43][^44][^45] |
-| Sierra | Early | ~2023 | Conversational AI | Active (unicorn, $4.5B) | [^2] |
-| Cognition | Early | ~2023 | AI Coding | Active | [^3] |
+| Sierra | Series A (participated; Conviction listed on own portfolio page [^3] but not named in Feb 13, 2024 launch press) | 2024-02-13 (Series A public announcement) | Conversational AI | Active (unicorn, $15.8B post-Series-E May 2026) | [^2][^3][^58][^59] |
+| Cognition | Series A extension (participated, $175M; Founders Fund led at $2B val; 8VC, Elad Gil, Khosla Ventures also participated per Contrary Research) | 2024-04 | AI Coding | Active | [^3][^60][^61][^62] |
 | HeyGen | Seed (led, $5.6M) | 2023-11-29 | AI Video | Active | [^46][^47][^48] |
 | Cartesia | Seed | 2024-12-12 | AI Models | Active (participated) | [^3][^10][^11][^12] |
 | Open Evidence | Series B (participated, $210M) | 2025-07-15 | Healthcare AI | Active ($3.5B) | [^49][^50][^51] |
-| Sunday | Early | ~2023 | Robotics | Active | [^3] |
+| Sunday (Sunday Robotics) | Seed (participated, $35M; Benchmark and Conviction co-backed emergence from stealth) | 2025-11-19 | Humanoid Robotics / Home | Active | [^3][^63][^64][^65] |
 | Corridor | Seed (led, $5.4M) | 2025-08-05 | AI Code Security | Active | [^22][^23][^24] |
 | Essential AI | Seed (participated, $8.3M) | ~2023 (disclosed 2023-12-11) | Enterprise AI/Agents | Active | [^3][^13][^14][^15] |
 | RunSybil | Series A (participated, $40M) | 2026-03-18 | AI Offensive Security | Active | [^3][^28][^29][^30] |
@@ -204,6 +204,22 @@ No independently sourced founder testimonials found. The firm's website describe
 [^56]: FinSMEs, "Adaptive Innovations Raises $50M in Series A Funding," June 2026, accessed June 2026. https://www.finsmes.com/2026/06/adaptive-innovations-raises-50m-in-series-a-funding.html — Independent press confirmation of the $50M Series A led by Felicis and Bain Capital Ventures with Conviction among participants. NYC- and Dallas-based AI-native home healthcare operating system.
 
 [^57]: CXO Digital Pulse, "Adaptive Innovations Raises $50M Series A to Build AI-Native Healthcare Agency," June 3, 2026, accessed June 2026. https://www.cxodigitalpulse.com/adaptive-innovations-raises-50m-series-a-to-build-ai-native-healthcare-agency/ — Third independent confirmation of $50M Series A led by Felicis with Bain Capital Ventures, Optum Ventures, Sunflower Capital, Conviction, BoxGroup, Dorm Room Fund, and Constellation participating.
+
+[^58]: Fortune, "Ex-Salesforce Co-CEO Bret Taylor launches AI startup Sierra," February 13, 2024. Accessed July 2026. https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark/ — Primary press for Sierra's Feb 13, 2024 launch with $110M raised at $1B valuation, led by Sequoia (Ravi Gupta) and Benchmark (Peter Fenton). Conviction is NOT publicly named in this announcement; other participants are not disclosed.
+
+[^59]: Sacra, "Sierra revenue, valuation & funding," accessed July 2026. https://sacra.com/c/sierra/ — Independent funding-history aggregator confirming Series A ($110M, 2023 vintage, publicly announced Feb 13, 2024, $1B val, Sequoia + Benchmark lead), Series B (Oct 2024, $175M, Greenoaks lead, $4.5B val), Series C (Sep 2025, $350M, Greenoaks lead, $10B val), Series E (May 2026, $950M, GV + Tiger Global lead, $15.8B post-money). Conviction not named in any specific round.
+
+[^60]: Contrary Research, "Cognition Business Breakdown & Founding Story," accessed July 2026. https://research.contrary.com/company/cognition — Primary research report explicitly naming Conviction Partners as a participant in Cognition's April 2024 $175M Series B/A extension led by Founders Fund at $2B valuation, alongside 8VC, Elad Gil, and Khosla Ventures. First named source explicitly attributing Conviction's Cognition check to a specific round.
+
+[^61]: Sacra, "Cognition revenue, valuation & funding," accessed July 2026. https://sacra.com/c/cognition/ — Independent funding-history aggregator confirming Series A ($21M, March 2024, Founders Fund lead, $350M val) and Series A extension ($175M, April 2024, Founders Fund lead, $2B val). Mentions Conviction among broader investor group without specifying which round.
+
+[^62]: Wikipedia, "Cognition AI," accessed July 2026. https://en.wikipedia.org/wiki/Cognition_AI — Third independent source confirming founding November 2023 (Scott Wu, Steven Hao, Walden Yan), $21M Series A March 2024 (Founders Fund, $350M val), $175M Series A extension April 2024 (Founders Fund, $2B val), 8VC-led Series B March 2025 ($4B val), September 2025 round ($10.2B val following Windsurf acquisition).
+
+[^63]: The AI Insider, "Sunday Emerges from Stealth with $35M for Household Robot Called Memo," November 20, 2025. Accessed July 2026. https://theaiinsider.tech/2025/11/20/sunday-emerges-from-stealth-with-35m-for-household-robot-called-memo/ — Primary press source explicitly naming Benchmark and Conviction as backers of Sunday Robotics' $35M emergence from stealth on November 19-20, 2025. Co-founders Tony Zhao (CEO, ex-DeepMind, Tesla intern) and Cheng Chi (CTO, ex-Apple, Toyota Research Institute); flagship product Memo (two-armed wheeled home robot).
+
+[^64]: Mugglehead Investment Magazine, "Sunday Robotics emerges from stealth with launch of 'Memo' humanoid house chores robot," November 20, 2025. Accessed July 2026. https://mugglehead.com/sunday-robotics-emerges-from-stealth-with-launch-of-memo-humanoid-house-chores-robot/ — Independent contemporaneous press confirming US$35M emergence from stealth funding with Benchmark and Conviction identified as the two venture capital firms.
+
+[^65]: Sarah Guo, personal portfolio page, accessed July 2026. https://sarahguo.com/ — Sunday Robotics listed among Guo's select portfolio (linked to her Substack post "Sunday: The Helpful Robotics Company"). Confirms Conviction's role in the Sunday Robotics seed round from the investor's own listing.
 
 [^tomo1]: BusinessWire, "Tomo is the AI Champion Helping People Bet on Themselves, Emerging from Stealth with $5 Million," June 25, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260625645270/en/Tomo-is-the-AI-Champion-Helping-People-Bet-on-Themselves-Emerging-from-Stealth-with-$5-Million — Primary press release listing Conviction as a participating investor in Tomo's $5M Seed led by Bain Capital Ventures.
 

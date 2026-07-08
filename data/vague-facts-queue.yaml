@@ -7235,7 +7235,17 @@ vague_facts:
     [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  note: 'Tightened to "Series A (participated; Conviction listed on own portfolio page
+    but not named in Feb 13, 2024 launch press) | 2024-02-13 (Series A public announcement)
+    | Conversational AI | Active (unicorn, $15.8B post-Series-E May 2026)" via 3 primary
+    sources: Fortune Feb 13 2024 launch article [^58] (does NOT publicly name Conviction),
+    Sacra funding history [^59] (does NOT name Conviction in any round), and Conviction
+    Partners own portfolio page [^60] (sole primary source naming Conviction as Sierra
+    investor). Parallel updates to sarah-guo.md ($4.5B → $15.8B correction; [^29][^30][^31])
+    and sierra.md startup frontmatter (conviction round: 2023 → series-a, date 2024-02-13;
+    sarah-guo round: 2023 → series-a, date 2024-02-13).'
 - profile: firms/conviction
   profile_name: Conviction
   company: Cognition
@@ -7245,7 +7255,18 @@ vague_facts:
   line: '| Cognition | Early | ~2023 | AI Coding | Active | [^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-07
+  note: 'Tightened to "Series A extension (participated, $175M; Founders Fund led at
+    $2B val; 8VC, Elad Gil, Khosla Ventures also participated per Contrary Research)
+    | 2024-04 | AI Coding | Active" via 3 primary sources: Contrary Research [^61]
+    (sole named source explicitly attributing Conviction to April 2024 $175M Series
+    B/A extension), Sacra funding history [^62] (confirms Series A $21M March 2024
+    and $175M extension April 2024, both Founders Fund led), and Wikipedia [^63] (independent
+    confirmation of founding Nov 2023 and both rounds). Parallel updates to sarah-guo.md
+    ([^32][^33][^34]) and cognition.md startup (added Funding History rows for 2024-03
+    Series A and 2024-04 Series A extension with citations [^7][^8]; conviction frontmatter
+    round: 2023 → series-a-extension, date 2024-04).'
 - profile: firms/conviction
   profile_name: Conviction
   company: HeyGen
@@ -7287,6 +7308,17 @@ vague_facts:
   value: '[^3]'
   line: '| Sunday | Early | ~2023 | Robotics | Active | [^3] |'
   priority: high
+  type: unknown_value
+  status: resolved
+  resolved: 2026-07-07
+  note: 'Tightened to "Sunday (Sunday Robotics) | Seed (participated, $35M; Benchmark
+    and Conviction co-backed emergence from stealth) | 2025-11-19 | Humanoid Robotics
+    / Home | Active" via 3 primary sources: The AI Insider Nov 20 2025 emergence article
+    [^64], Mugglehead Nov 20 2025 press [^65], and Sarah Guo personal portfolio page
+    [^66] (self-listing linking to her Substack "Sunday: The Helpful Robotics Company").
+    Co-founders Tony Zhao (CEO, ex-DeepMind, Tesla intern) and Cheng Chi (CTO, ex-Apple,
+    Toyota Research Institute); flagship product Memo (two-armed wheeled home robot).
+    Parallel update to sarah-guo.md ([^35][^36][^37]).'
   type: unknown_value
   status: pending
 - profile: firms/conviction

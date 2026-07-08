@@ -4884,3 +4884,28 @@ priority:
   type: investor
   reason: quoted in alqem Pre-Seed (2026-07-06), €8M USV co-led with UVC Partners
   added: '2026-07-07'
+- slug: conviction
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-07: tightened 3 vague ~2023 Early rows on conviction.md
+    portfolio via 3+ primary sources each. (1) SIERRA "Early | ~2023" → "Series A (participated;
+    Conviction listed on own portfolio page but not named in Feb 13, 2024 launch press)
+    | 2024-02-13 | Active (unicorn, $15.8B post-Series-E May 2026)" via Fortune Feb
+    13 2024 [^58], Sacra [^59], and Conviction Partners portfolio page [^60] (sole
+    primary source naming Conviction as Sierra investor — press does NOT name Conviction
+    in any Sierra round). Also corrected outdated $4.5B valuation. (2) COGNITION "Early
+    | ~2023" → "Series A extension (participated, $175M; Founders Fund led at $2B val;
+    8VC, Elad Gil, Khosla Ventures also participated per Contrary Research) | 2024-04"
+    via Contrary Research [^61] (sole named source explicitly attributing Conviction
+    to April 2024 round), Sacra [^62], and Wikipedia [^63]. (3) SUNDAY "Early | ~2023"
+    → "Sunday (Sunday Robotics) | Seed (participated, $35M; Benchmark and Conviction
+    co-backed emergence from stealth) | 2025-11-19 | Humanoid Robotics / Home" via
+    The AI Insider [^64], Mugglehead [^65], and Sarah Guo personal portfolio [^66].
+    Parallel updates on sarah-guo.md (matching row updates with citations [^29]-[^37]),
+    sierra.md (2 frontmatter round entries: conviction and sarah-guo rounds 2023 →
+    series-a with date 2024-02-13), cognition.md (added 2 new Funding History rows
+    for 2024-03 Series A and 2024-04 Series A extension with citations [^7][^8]; conviction
+    frontmatter round: ~2023 → series-a-extension, date 2024-04). Three vague-facts-queue
+    entries marked resolved.'
+  added: 2026-07-07
+  status: resolved
+  resolved: 2026-07-07
