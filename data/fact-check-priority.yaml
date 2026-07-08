@@ -1,4 +1,24 @@
 priority:
+- slug: acme-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-08: tightened three vague ~2023 portfolio rows on
+    acme-capital.md via 3+ primary sources each. (1) SPHERE SEMI: "Seed | ~2023" →
+    "Seed (co-led with Future Ventures, $12.5M; Construct Capital, Abstract, Village
+    Global, Xfund, Generational Partners participated) | 2025-09-22" via Construct
+    Capital blog [^35] (2025-09-22), Steven Glinert (CEO) LinkedIn post [^36], ACME
+    News page [^37]. (2) HARMATTAN AI: "Early Stage | ~2023" (factually impossible —
+    company founded April 2024) → "Series A (participated per ACME''s own materials;
+    FirstMark led $30M; not named in primary Series A press coverage) | 2025-03" via
+    TechCrunch Series B article [^38], ACME LinkedIn post [^39], Nordic 9 [^40]. (3)
+    CAMBER: "Early Stage | ~2023" → "Series B (participated, $30M; a16z led; Craft
+    Ventures, Y Combinator also participated) | 2025-02-26" via a16z blog [^41],
+    Pulse 2 [^42], Camber/BusinessWire press release [^43]. Parallel updates on
+    hany-nada.md (Sphere Semi 2026 → 2025-09-22, LVI updated, [^13] replaced with
+    3 primary sources [^13][^14][^15]) and scott-stanford.md (Sphere Semi 2026 →
+    2025-09-22, LVI updated, [^26] replaced with 3 primary sources [^26][^27][^28]).'
+  added: 2026-07-08
+  status: resolved
+  resolved: 2026-07-08
 - slug: adam-sharkawy
   type: investor
   reason: 'Fact-spec sweep 2026-07-08: tightened NextGen Jane row on adam-sharkawy.md portfolio (was "2019 | Series A (led)" → now "2019-04-01 | Series A ($9M, led; Access Industries, Viking Global Investors, Liminal Ventures participated)") via 3 primary sources (existing Business Wire [^10] 2019-04-01, new Vator.tv [^27] 2019-04-01, new MobiHealthNews [^28] 2019-04-02). Parallel update on carmichael-roberts.md corrected wrong stage/year (was ~2018 Seed, actually 2019-04-01 Series A).'

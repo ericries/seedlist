@@ -165574,7 +165574,9 @@ vague_facts:
   line: '| Sphere Semi | Seed | ~2023 | Semiconductors | Active [^15] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: 'Tightened Sphere Semi row from "Seed | ~2023" to "Seed (co-led with Future Ventures, $12.5M; Construct Capital, Abstract, Village Global, Xfund, Generational Partners participated) | 2025-09-22" via 3 primary sources: Construct Capital blog [^35] (2025-09-22 out-of-stealth announcement — confirms $20M total with $12.5M ACME/Future Ventures co-led financing plus $7.5M Construct-led formation capital), Steven Glinert (Sphere Semi CEO) LinkedIn post [^36] (founder first-person confirmation of $12M round and full syndicate), and ACME News page [^37] (lead investor confirmation). Parallel updates on hany-nada.md and scott-stanford.md (year corrected from 2026 to 2025-09-22; LVI updated; source [^13]/[^26] replaced with 3 primary sources).'
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: Harmattan AI
@@ -165584,7 +165586,9 @@ vague_facts:
   line: '| Harmattan AI | Early Stage | ~2023 | Defense / AI | Active [^15] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: 'Corrected Harmattan AI row from factually impossible "Early Stage | ~2023" (company was founded April 2024) to "Series A (participated per ACME''s own materials; FirstMark led $30M; not named in primary Series A press coverage) | 2025-03" via 3 sources: TechCrunch Series B article [^38] (confirms $42M pre-Series-B including seed led by Atlantic Labs and Series A led by FirstMark; ACME NOT named in primary press), ACME LinkedIn post [^39] (primary investor self-report: "We backed Harmattan AI at Series A"), and Nordic 9 [^40] (confirms $30M Series A led by FirstMark Capital in March 2025). Only ACME''s own materials explicitly name their participation; specific check size and exact date within the Series A window are not disclosed by primary press.'
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: Curio
@@ -165636,7 +165640,9 @@ vague_facts:
   line: '| Camber | Early Stage | ~2023 | Healthcare Billing / AI | Active [^15] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: 'Tightened Camber row from "Early Stage | ~2023" to "Series B (participated, $30M; a16z led; Craft Ventures, Y Combinator also participated) | 2025-02-26" via 3 primary sources: a16z blog "Investing in Camber" [^41] (2025-02-26 lead-investor announcement noting a16z''s history "as angel investor, then leading Series A, and now Series B"), Pulse 2 [^42] (independent contemporaneous press explicitly naming ACME + Craft + K Ventures + YC as Series B participants), and Camber press release via BusinessWire [^43] (company primary source: $30M Series B on 2025-02-26 with ACME Capital and Craft as named participants, bringing total funding to $50M). Camber previously operated as Juniper Behavioral Health (YC W21). ACME''s participation in the Series A (~2023) is possible but not confirmed by primary press; Series B is the confirmed named participation.'
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: Arya
@@ -182807,7 +182813,9 @@ vague_facts:
   line: '| Sphere Semi | 2026 | Seed | [^13] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: 'Corrected Sphere Semi row on hany-nada.md from wrong "2026 | Seed" to "2025-09-22 | Seed (co-led with Future Ventures, $12.5M; Construct Capital, Abstract, Village Global, Xfund, Generational Partners participated)" via 3 primary sources: Construct Capital blog [^13] (2025-09-22 out-of-stealth), Steven Glinert LinkedIn [^14] (founder first-person), ACME News [^15] (lead investor). Prior [^13] source (Inforcapital 2026-02-06) was dated wrong; replaced. LVI updated to 2025-09-22.'
 - profile: investors/harry-nelis
   profile_name: Harry Nelis
   company: Dash0
@@ -194429,7 +194437,9 @@ vague_facts:
   line: '| Sphere Semi | 2026 | Seed (lead) | AI / Semiconductors | [^26] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: 'Corrected Sphere Semi row on scott-stanford.md from wrong "2026 | Seed (lead)" to "2025-09-22 | Seed (co-led with Future Ventures, $12.5M; Construct Capital, Abstract, Village Global, Xfund, Generational Partners participated)" via 3 primary sources: Construct Capital blog [^26] (2025-09-22), Steven Glinert LinkedIn [^27] (founder), ACME News [^28] (lead investor). Prior Inforcapital source (2026-02-06 date wrong) replaced. LVI updated to 2025-09-22. Note: prior "Seed (lead)" was ambiguous — Sphere Semi $12.5M was co-led by ACME + Future Ventures.'
 - profile: investors/sean-parker
   profile_name: Sean Parker
   company: Stability AI

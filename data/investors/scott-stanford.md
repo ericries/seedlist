@@ -4,8 +4,8 @@ firm: sherpa-capital
 last_researched: 2026-03-25
 last_verified_investment:
   company: Sphere Semi
-  date: 2026-02-06
-  round: Seed
+  date: 2025-09-22
+  round: Seed (co-led with Future Ventures)
 location: Los Angeles, CA
 name: Scott Stanford
 role: Co-Founder and Partner
@@ -115,7 +115,7 @@ Stanford has also described the core investment test as: does this company sit a
 | Brightside Health | 2022 | Series B (lead) | Mental Health | [^15] |
 | Laurel | 2022 | Series B (lead) | AI / Future of Work | [^14] |
 | Muon Space | 2024 | Series B | Aerospace/Defense | [^25] |
-| Sphere Semi | 2026 | Seed (lead) | AI / Semiconductors | [^26] |
+| Sphere Semi | 2025-09-22 | Seed (co-led with Future Ventures, $12.5M; Construct Capital, Abstract, Village Global, Xfund, Generational Partners participated) | AI / Semiconductors | [^26][^27][^28] |
 
 *Note: This table represents approximately 16% of ACME's reported portfolio. Uber, Airbnb, and Robinhood were invested in during or before the ACME/Sherpa period; the precise ACME-entity investment vehicle may differ from the Sherpa-entity vehicle. Years marked "~" are approximate based on available sources.*
 
@@ -224,7 +224,11 @@ Jonathan Dyer, founder of Muon Space (aerospace, ACME portfolio company), on ACM
 
 [^25]: SpaceNews, "Satellite startup Muon Space raises $56.7 million," August 2024. https://spacenews.com/satellite-startup-muon-space-raises-56-7-million/
 
-[^26]: InforCapital, "Sphere Semi Raises $12M, Reaches $20M Total Funding," February 6, 2026. https://inforcapital.com/news/sphere-semi-raises-12m-reaches-20m-total-funding/
+[^26]: Construct Capital, "Investing in Sphere Semi: Reinventing Analog Chip Design for the AI Era," September 22, 2025, accessed July 2026. https://www.constructcap.com/articles/investing-in-sphere-semi-reinventing-analog-chip-design-for-the-ai-era — Primary source (co-investor / prior lead). Confirms Sphere Semi came out of stealth on 2025-09-22 with $20M total: recent $12.5M co-led by ACME Capital and Future Ventures, plus $7.5M formation capital led by Construct Capital. Additional participants: Abstract, Village Global, Xfund, Generational Partners.
+
+[^27]: Steven Glinert (Sphere Semi co-founder/CEO), LinkedIn post announcing $12M financing, accessed July 2026. https://www.linkedin.com/posts/steven-glinert-931a9314_big-news-at-sphere-semi-weve-raised-12m-activity-7376014516201066496-dbHy — Primary source (founder first-person). Confirms $12M round led by ACME Capital and Future Ventures with Construct Capital, Abstract, Xfund, Generational Partners, and Village Global.
+
+[^28]: ACME Capital news page, "Sphere Semi closes 12M to make AI-designed chips the default," accessed July 2026. https://www.acme.vc/news/ — Primary source (lead investor). Confirms ACME Capital led the $12M Sphere Semi round.
 
 [^27]: Crunchbase Blog, "Female Founded + Funded: A Conversation with ACME Capital and Tia," accessed March 2026. https://about.crunchbase.com/blog/female-founded-funded-a-conversation-with-acme-capital-and-tia
 

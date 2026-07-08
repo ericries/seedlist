@@ -20,9 +20,9 @@ sector_focus:
   - robotics
 check_size: "$1M-$15M"
 last_verified_investment:
-  date: 2026-02-06
+  date: 2025-09-22
   company: Sphere Semi
-  round: Seed
+  round: Seed (co-led with Future Ventures)
 social:
   twitter: "@hnada"
   linkedin: "linkedin.com/in/hanynada"
@@ -96,7 +96,7 @@ Based on 18 verified investments attributed to Hany Nada and ACME Capital (combi
 | Regology | 2021 | Series A | [^10] |
 | Uhnder | 2024 | Series D | [^11] |
 | Muon Space | 2024 | Series B | [^12] |
-| Sphere Semi | 2026 | Seed | [^13] |
+| Sphere Semi | 2025-09-22 | Seed (co-led with Future Ventures, $12.5M; Construct Capital, Abstract, Village Global, Xfund, Generational Partners participated) | [^13][^14][^15] |
 
 Note: Investments from Nada's GGV Capital era (pre-2018) are listed with approximate dates where exact years could not be independently verified. Nada has reportedly served as a long-term partner to more than 150 companies [^1], so this table represents a fraction of his total investment activity.
 
@@ -132,4 +132,8 @@ No independently sourced founder testimonials found. The ACME Capital website fe
 [^10]: BusinessWire, "Regology Raises $8M Series A to Scale AI-based Regulatory Compliance Platform," August 19, 2021, accessed March 2026. https://www.businesswire.com/news/home/20210819005454/en/Regology-Raises-%248M-Series-A-to-Scale-AI-based-Regulatory-Compliance-Platform
 [^11]: Pulse2, "Uhnder: $50 Million Raised To Create Advanced Radar Sensors For Automated Mobility," February 26, 2024, accessed March 2026. https://pulse2.com/uhnder-50-million-raised-to-create-advanced-radar-sensors-for-automated-mobility/
 [^12]: Sparkco.ai, "ACME Capital: A Comprehensive Investor Profile," accessed March 2026. https://sparkco.ai/blog/acme-capital
-[^13]: Inforcapital, "Sphere Semi Secures $12M for AI Chip Design Innovation," February 6, 2026, accessed March 2026. https://inforcapital.com/news/sphere-semi-raises-12m-reaches-20m-total-funding/
+[^13]: Construct Capital, "Investing in Sphere Semi: Reinventing Analog Chip Design for the AI Era," September 22, 2025, accessed July 2026. https://www.constructcap.com/articles/investing-in-sphere-semi-reinventing-analog-chip-design-for-the-ai-era — Primary source (co-investor). Confirms Sphere Semi came out of stealth on 2025-09-22 with $20M total: recent $12.5M co-led by ACME Capital and Future Ventures, plus $7.5M formation capital led by Construct Capital. Additional participants: Abstract, Village Global, Xfund, Generational Partners.
+
+[^14]: Steven Glinert (Sphere Semi co-founder/CEO), LinkedIn post announcing $12M financing, accessed July 2026. https://www.linkedin.com/posts/steven-glinert-931a9314_big-news-at-sphere-semi-weve-raised-12m-activity-7376014516201066496-dbHy — Primary source (founder first-person). Confirms $12M round led by ACME Capital and Future Ventures with Construct Capital, Abstract, Xfund, Generational Partners, and Village Global.
+
+[^15]: ACME Capital news page, "Sphere Semi closes 12M to make AI-designed chips the default," accessed July 2026. https://www.acme.vc/news/ — Primary source (lead investor). Confirms ACME Capital led the $12M Sphere Semi round.

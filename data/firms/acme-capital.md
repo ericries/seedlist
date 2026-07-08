@@ -42,7 +42,7 @@ team:
     slug: katera-mujadidi
 tldr: "Frontier tech venture firm ($1.5B aggregate commitments) co-founded by Hany Nada (ex-GGV Capital) and Scott Stanford (ex-Goldman Sachs Internet banking head). Invests $5-10M at seed through Series B in technologies 'before they are mainstream.' Portfolio (31 verified) is 29% enterprise/AI, 23% digital health, 13% aerospace/defense, 13% quantum/semiconductors. Notable exits: IonQ (IPO), Astra (IPO via SPAC). Leads 80% of investments. Over 60% of recent investments in diverse-founder companies."
 status: published
-last_researched: 2026-06-04
+last_researched: 2026-07-08
 ---
 
 ## About
@@ -112,8 +112,8 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | Reshape Bio | Series A | 2024-04-09 | Lab Automation / Biotech | Active [^19][^29] |
 | Forma AI | Early Stage | ~2021 | Enterprise / Sales Comp | Active [^15] |
 | Replika | Early Stage | ~2019 | AI / Consumer | Active [^15] |
-| Sphere Semi | Seed | ~2023 | Semiconductors | Active [^15] |
-| Harmattan AI | Early Stage | ~2023 | Defense / AI | Active [^15] |
+| Sphere Semi | Seed (co-led with Future Ventures, $12.5M; Construct Capital, Abstract, Village Global, Xfund, Generational Partners participated) | 2025-09-22 | Semiconductors / AI-designed analog chips | Active [^15][^35][^36][^37] |
+| Harmattan AI | Series A (participated per ACME's own materials; FirstMark led $30M; not named in primary Series A press coverage; company founded April 2024) | 2025-03 | Defense / AI | Active [^15][^38][^39][^40] |
 | Curio | Seed | ~2024 | Consumer / EdTech | Active [^15] |
 | Brightside | Early Stage | ~2020 | Digital Health / Mental Health | Active [^20] |
 | SoLo Funds | Early Stage | ~2020 | Fintech / Lending | Active [^15] |
@@ -127,7 +127,7 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | Again | Series A ($43M / €39.4M; co-led by GV and HV Capital; ACME participated as existing seed investor) | 2024-07-17 | Green Chemistry / Climate | Active [^15][^32][^33][^34] |
 | Invert | Early Stage | ~2023 | Bioprocessing / Software | Active [^15] |
 | IonLace | Early Stage | ~2023 | Proteomics / AI | Active [^15] |
-| Camber | Early Stage | ~2023 | Healthcare Billing / AI | Active [^15] |
+| Camber | Series B (participated, $30M; a16z led; Craft Ventures, Y Combinator also participated) | 2025-02-26 | Healthcare Billing / AI | Active [^15][^41][^42][^43] |
 | Uhnder | Early Stage | ~2019 | Autonomous Vehicles / Radar | Active [^4] |
 | Arya | Early Stage | ~2024 | Healthcare AI | Active [^15] |
 | Stendr | Pre-Seed (co-led) | 2026-04-15 | Defense Tech / Drones | Active [^21] |
@@ -220,3 +220,21 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^33]: Tech.eu, "Again raises $43M for turning CO₂ into chemicals," July 17, 2024, accessed July 2026. https://tech.eu/2024/07/17/again-raises-43m-for-turning-co-into-chemicals/ — Independent European tech press confirmation of the $43M Series A syndicate including ACME Capital.
 
 [^34]: Fortune, "Exclusive: Google Ventures is backing a Danish startup 'brewing' CO2 that's decarbonizing the future," July 17, 2024, accessed July 2026. https://fortune.com/europe/2024/07/17/exclusive-google-ventures-danish-climate-tech-startup-brewing-co2-decarbonizing/ — Fortune exclusive confirming co-leads GV and HV Capital, $43M amount, and noting ACME Capital as a prior seed backer.
+
+[^35]: Construct Capital, "Investing in Sphere Semi: Reinventing Analog Chip Design for the AI Era," September 22, 2025, accessed July 2026. https://www.constructcap.com/articles/investing-in-sphere-semi-reinventing-analog-chip-design-for-the-ai-era — Primary source (co-investor / prior lead). Confirms Sphere Semi came out of stealth on 2025-09-22 with $20M total: recent $12.5M co-led by ACME Capital and Future Ventures, plus $7.5M formation capital led by Construct Capital. Additional participants: Abstract, Village Global, Xfund, Generational Partners. Sphere's chips are in production with Anduril.
+
+[^36]: Steven Glinert (Sphere Semi co-founder/CEO), LinkedIn post announcing $12M financing, accessed July 2026. https://www.linkedin.com/posts/steven-glinert-931a9314_big-news-at-sphere-semi-weve-raised-12m-activity-7376014516201066496-dbHy — Primary source (founder first-person). Confirms $12M Series A led by ACME Capital and co-led by Future Ventures, with Construct Capital, Abstract, Xfund, Generational Partners, and Village Global participating.
+
+[^37]: ACME Capital news page, "Sphere Semi closes 12M to make AI-designed chips the default," accessed July 2026. https://www.acme.vc/news/ — Primary source (lead investor). Confirms ACME Capital led the $12M Sphere Semi round.
+
+[^38]: TechCrunch, "Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn," January 12, 2026, accessed July 2026. https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/ — Confirms that Harmattan AI had previously raised $42M including a seed round led by Atlantic Labs and a Series A led by FirstMark Capital, with backers Motier Ventures and Sisyphus Ventures. ACME Capital is NOT named in primary press coverage.
+
+[^39]: ACME Capital, LinkedIn post "We backed Harmattan AI at Series A when the opportunity was still emerging at the intersection of physical AI, defense, aerospace, and a rapidly shifting geopolitical order" (posted ~September 2025), accessed July 2026. https://www.linkedin.com/posts/acme-vc_we-backed-harmattan-ai-at-series-a-when-the-activity-7416933185445347328-SRbx — Primary source (investor self-report). Only public source explicitly naming ACME Capital as a Harmattan AI Series A participant; specific check size and exact date not disclosed.
+
+[^40]: Nordic 9, "Harmattan AI raised a $30 million series A round led by FirstMark Capital," March 2025, accessed July 2026. https://nordic9.com/news/harmattan-ai-raised-a-30-million-seed-round/ — Confirms $30M Series A led by FirstMark Capital in March 2025 (aggregator report — used only for date confirmation cross-reference).
+
+[^41]: a16z, "Investing in Camber," February 26, 2025, accessed July 2026. https://a16z.com/announcement/investing-in-camber/ — Primary source (lead investor). Confirms a16z's Series B lead in Camber on 2025-02-26. Describes a16z's history: "first as an angel investor, then in leading their Series A, and now their Series B."
+
+[^42]: Pulse 2, "Camber: $30 Million (Series B) Raised For Transforming Insurance Reimbursement In Healthcare," February 26, 2025, accessed July 2026. https://pulse2.com/camber-30-million-series-b-raised-for-transforming-insurance-reimbursement-in-healthcare/ — Independent contemporaneous press. Confirms $30M Series B led by Andreessen Horowitz with participation from ACME, Craft, K Ventures, and Y Combinator; total funding to $50M.
+
+[^43]: Camber press release via BusinessWire, "Camber Announces $30M Series B Led by Andreessen Horowitz, bringing total funding to $50M, to Redefine Insurance Reimbursement in Healthcare," February 26, 2025, accessed July 2026. https://www.businesswire.com/news/home/20250226192083/en/Camber-Announces-$30M-Series-B-Led-by-Andreessen-Horowitz-bringing-total-funding-to-$50M-to-Redefine-Insurance-Reimbursement-in-Healthcare — Primary source (company press release). Confirms $30M Series B on 2025-02-26 led by a16z with ACME Capital and Craft as named participants.
