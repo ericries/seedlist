@@ -114,7 +114,7 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | Replika | Early Stage | ~2019 | AI / Consumer | Active [^15] |
 | Sphere Semi | Seed (co-led with Future Ventures, $12.5M; Construct Capital, Abstract, Village Global, Xfund, Generational Partners participated) | 2025-09-22 | Semiconductors / AI-designed analog chips | Active [^15][^35][^36][^37] |
 | Harmattan AI | Series A (participated per ACME's own materials; FirstMark led $30M; not named in primary Series A press coverage; company founded April 2024) | 2025-03 | Defense / AI | Active [^15][^38][^39][^40] |
-| Curio | Seed | ~2024 | Consumer / EdTech | Active [^15] |
+| Curio | Seed (aggregator attribution only — ACME not named in Curio launch press [TechCrunch 2023-12-15]; total ~$13.7M raised per aggregators alongside Blue Wire Capital, Shine Capital, AI Grant) | ~2023 (company founded 2023; launched preorders December 2023) | Consumer / AI Toys | Active [^15][^44][^45] |
 | Brightside | Early Stage | ~2020 | Digital Health / Mental Health | Active [^20] |
 | SoLo Funds | Early Stage | ~2020 | Fintech / Lending | Active [^15] |
 | Laurel | Early Stage | ~2021 | Enterprise / AI | Active [^15] |
@@ -125,8 +125,8 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 | NIL Technology | Growth | ~2022 | Optics / Hardware | Active [^15] |
 | Treon | Early Stage | ~2022 | Industrial IoT | Active [^15] |
 | Again | Series A ($43M / €39.4M; co-led by GV and HV Capital; ACME participated as existing seed investor) | 2024-07-17 | Green Chemistry / Climate | Active [^15][^32][^33][^34] |
-| Invert | Early Stage | ~2023 | Bioprocessing / Software | Active [^15] |
-| IonLace | Early Stage | ~2023 | Proteomics / AI | Active [^15] |
+| Invert | Seed (aggregator attribution only — ACME not named in either publicly known round: YC W22 initial seed circa January 2022, or the July 2025 $20.1M seed per SignalBase; ACME listed alongside Giant Ventures, Positive Sum, Y Combinator) | ~2022-2025 | Bioprocessing / Software | Active [^15][^46][^47] |
+| IonLace | Pre-Seed / Seed (aggregator attribution only — ACME not named in primary press; undisclosed amount disclosed by Sifted / BeBeez / Startup Universal as of June 7, 2024, alongside 201 Ventures and Heartcore Capital) | ~2024 (company founded late 2023 in Stockholm; publicly disclosed by Sifted 2024-06-07) | Proteomics / AI Protein Design | Active [^15][^48][^49] |
 | Camber | Series B (participated, $30M; a16z led; Craft Ventures, Y Combinator also participated) | 2025-02-26 | Healthcare Billing / AI | Active [^15][^41][^42][^43] |
 | Uhnder | Early Stage | ~2019 | Autonomous Vehicles / Radar | Active [^4] |
 | Arya | Early Stage | ~2024 | Healthcare AI | Active [^15] |
@@ -238,3 +238,15 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^42]: Pulse 2, "Camber: $30 Million (Series B) Raised For Transforming Insurance Reimbursement In Healthcare," February 26, 2025, accessed July 2026. https://pulse2.com/camber-30-million-series-b-raised-for-transforming-insurance-reimbursement-in-healthcare/ — Independent contemporaneous press. Confirms $30M Series B led by Andreessen Horowitz with participation from ACME, Craft, K Ventures, and Y Combinator; total funding to $50M.
 
 [^43]: Camber press release via BusinessWire, "Camber Announces $30M Series B Led by Andreessen Horowitz, bringing total funding to $50M, to Redefine Insurance Reimbursement in Healthcare," February 26, 2025, accessed July 2026. https://www.businesswire.com/news/home/20250226192083/en/Camber-Announces-$30M-Series-B-Led-by-Andreessen-Horowitz-bringing-total-funding-to-$50M-to-Redefine-Insurance-Reimbursement-in-Healthcare — Primary source (company press release). Confirms $30M Series B on 2025-02-26 led by a16z with ACME Capital and Craft as named participants.
+
+[^44]: TechCrunch, "AI plushie Grok, voiced by Grimes, was trademarked before Elon Musk's Grok," December 15, 2023, accessed July 2026. https://techcrunch.com/2023/12/15/grimes-launches-ai-toy-brand-curio-grok/ — Primary launch coverage. Confirms Curio was launched December 2023 by Misha Sallee (CEO) and Sam Eaton (Co-Founder), with Grimes voicing the Grok character. ACME Capital is NOT named as an investor in this coverage — investor identification is via aggregators only.
+
+[^45]: PitchBook, "Curio (Entertainment Software) 2026 Company Profile: Valuation, Funding & Investors," accessed July 2026. https://pitchbook.com/profiles/company/540000-19 — Aggregator source listing ACME Capital, Blue Wire Capital, Shine Capital, and AI Grant as investors with total raised ~$13.7M. Specific round dates/amounts for ACME's participation are not publicly disclosed.
+
+[^46]: Y Combinator, "Invert: Data analytics software for biomanufacturing," accessed July 2026. https://www.ycombinator.com/companies/invert — Primary source confirming Invert as YC W22 batch (founded 2021 in San Francisco, headquartered in Copenhagen; team of 25; Jared Friedman as primary partner). Does not disclose funding amounts or ACME participation.
+
+[^47]: SignalBase, "Invert Bioprocess Secures $20.1M Seed Funding to Revolutionize Bioprocess Data Transparency," July 7, 2025, accessed July 2026. https://www.trysignalbase.com/news/funding/invert-bioprocess-secures-201m-seed-funding-to-revolutionize-bioprocess-data-transparency — Secondary announcement of Invert's $20.1M seed round on 2025-07-07. Does not name lead investor or specific participants. ACME Capital is NOT named in this coverage. ACME's investor attribution is via Tracxn / PitchBook / Crunchbase aggregators only, alongside Giant Ventures, Positive Sum, and Y Combinator.
+
+[^48]: Sifted (via Startup Universal aggregation), "Nordic early-stage startups to watch – according to investors," June 7, 2024, accessed July 2026. https://sifted.eu/articles/nordic-startup-investor-watch — Secondary source disclosing IonLace (Stockholm) has "raised an undisclosed sum from San Francisco-based VC ACME" alongside 201 Ventures and Heartcore Capital. Founded 2023. No primary press release or specific round date/amount is publicly disclosed. This is the closest to a primary funding disclosure available and is not an ACME-authored source.
+
+[^49]: CB Insights, "IONLACE — Products, Competitors, Financials, Employees, Headquarters Locations," accessed July 2026. https://www.cbinsights.com/company/ionlace — Aggregator confirming IonLace's Seed VC funding stage (Alive) and investors ACME Capital, 201 Ventures, Heartcore Capital. Founded 2023, based in Stockholm, Sweden. No specific round date or amount publicly disclosed.

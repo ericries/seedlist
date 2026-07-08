@@ -165598,7 +165598,10 @@ vague_facts:
   line: '| Curio | Seed | ~2024 | Consumer / EdTech | Active [^15] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-08
+  resolution_note: "Fact-spec sweep 2026-07-08 — Curio (heycurio.com, AI-powered plush toys, Redwood City, founded 2023 by CEO Misha Sallee and Co-Founder Sam Eaton with Grimes as voice/investor) has NO public primary press disclosure of ACME Capital's specific round type, date, or amount. Reviewed: (a) TechCrunch launch article 2023-12-15 (does not name ACME); (b) Axios 2023-12-14 (mentions only Grimes as investor and $1.6M early funding); (c) Curio's own website heycurio.com (no press page, no funding info); (d) ACME Capital news page (Curio not listed); (e) Freethink, Decrypt, Dazed, Scary Mommy launch coverage (none name ACME). ACME's attribution comes only via aggregators (PitchBook profile 540000-19 listing ACME Capital + Blue Wire Capital + Shine Capital + AI Grant with ~$13.7M total raised), Crunchbase, Tracxn, and ACME's own highlighted portfolio page [^15]. No specific round can be tied to primary sources. Row tightened to note aggregator-only attribution and updated Year from ~2024 to ~2023 (matching company founding year and launch); added [^44] TechCrunch launch (does NOT name ACME) and [^45] PitchBook aggregator citations. Sector corrected from 'Consumer / EdTech' to 'Consumer / AI Toys' to match actual product category. Consistent with Cherry/SpaceX/Owlery/WayTrade unresolvable precedent."
+
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: Again
@@ -165620,7 +165623,10 @@ vague_facts:
   line: '| Invert | Early Stage | ~2023 | Bioprocessing / Software | Active [^15] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-08
+  resolution_note: "Fact-spec sweep 2026-07-08 — Invert (invertbio.com, bioprocess data software, Copenhagen HQ / SF office, founded 2021 by Mads Ingwar, Rob Lambert, Holger Hjorth Thorup, Martin Tromp Permin, YC W22 batch, Jared Friedman as YC partner) has TWO publicly known funding rounds: (1) initial YC W22 seed circa 2022-01-28 (amount not disclosed publicly); (2) $20.1M seed announced 2025-07-07 per SignalBase. ACME Capital is NOT named in EITHER round's primary coverage. Reviewed: (a) SignalBase 2025-07-07 (no lead, no participants named); (b) YC company page (no funding disclosure); (c) Invert's own website invertbio.com (no press/news page); (d) ACME Capital news page (Invert not listed); (e) PRNewswire/BusinessWire (only unrelated Invert Assist product launch found, October 2025). ACME's attribution comes only via aggregators (PitchBook 494671-69, Crunchbase, Tracxn) listing ACME alongside Giant Ventures, Positive Sum, Y Combinator, and Cathexis Ventures. Row tightened to note aggregator-only attribution across both known rounds and updated Year from ~2023 to ~2022-2025 (bracketing both possible ACME entry points). Added [^46] YC and [^47] SignalBase citations (both explicitly note ACME is NOT named). Consistent with Cherry/SpaceX/Owlery unresolvable precedent."
+
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: IonLace
@@ -165630,7 +165636,10 @@ vague_facts:
   line: '| IonLace | Early Stage | ~2023 | Proteomics / AI | Active [^15] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-08
+  resolution_note: "Fact-spec sweep 2026-07-08 — IonLace (ionlace.com, AI + synthetic biology platform for modular protein design, Stockholm, founded late 2023) has NO public primary press disclosure of a specific funding round. Reviewed: (a) ionlace.com (no press or funding info; only jobs and contact); (b) Nordic 9 news page https://nordic9.com/news/ionlace-raised-pre-seed-capital-funding/ (403 Forbidden on WebFetch); (c) Sifted 'Nordic early-stage startups to watch' article dated 2024-06-07 (title/date confirmed but body garbled on WebFetch — aggregated via CB Insights/StartupUniversal excerpting the article to say 'raised an undisclosed sum from San Francisco-based VC ACME'); (d) BeBeez 'Nordic early-stage startups to watch' 2024-06-07 (TLS cert error on WebFetch); (e) ACME Capital news page (IonLace not listed among featured news items); (f) PitchBook, Tracxn, CB Insights aggregators consistently list ACME + 201 Ventures + Heartcore Capital as investors with undisclosed amount and Seed VC stage. Row tightened to note aggregator-only attribution and updated Year from ~2023 to ~2024 (matching Sifted publication date, since company was founded late 2023). Added [^48] Sifted and [^49] CB Insights citations. Sector clarified from 'Proteomics / AI' to 'Proteomics / AI Protein Design' to match company's own self-description as 'Modular protein design.' Consistent with Cherry/SpaceX/Owlery unresolvable precedent."
+
 - profile: firms/acme-capital
   profile_name: ACME Capital
   company: Camber
