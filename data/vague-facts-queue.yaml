@@ -401,7 +401,9 @@ vague_facts:
   line: '| Wildfire | Seed | 2011 | Marketing | Acquired by Google ($350M) | [^16][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-08
+  resolution_note: "Firm-level 500 Startups attribution is aggregator-only. Primary press (TechCrunch 2012-03-21 [^39] new) lists 500 Startups as a possible existing investor in the late-2011 Series B ($10M) but says exact composition not confirmed. Wildfire Interactive Wikipedia enumerates Series A May 2010 $4M (Summit Partners lead) and Series B 2012 $10M with Summit Partners, Facebook, Accel, Founders Fund — 500 Startups not named. Facebook fbFund $250K grant in 2008 predates 500 Startups' 2010 founding. Dave McClure's Wildfire relationship dates to his 2008 fbFund role, not the 500 Startups firm. Row tightened inline in 500-global.md to '~2010 Seed (attribution via Dave McClure's earlier fbFund investing, not the 500 Startups firm; 500 Startups not named in primary press for Wildfire's Series A ($4M, 2010-05, led by Summit Partners) or Series B ($10M, late 2011))' with [^39] TechCrunch citation added."
 - profile: firms/500-global
   profile_name: 500 Global
   company: MakerBot
@@ -411,7 +413,9 @@ vague_facts:
   line: '| MakerBot | Seed | 2011 | Hardware | Acquired by Stratasys ($403M) | [^16][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-08
+  resolution_note: "Firm-level 500 Startups attribution is aggregator-only. Primary press for MakerBot's $10M Series A on 2011-08-23 (TechCrunch [^40] new) names only Foundry Group (bulk), Bezos Expeditions, True Ventures, RRE Ventures, and a dozen unnamed angel investors — 500 Startups (the firm) is NOT named. MakerBot's 2009 $75K seed (Jake Lodwick + Adrian Bowyer) predates 500 Startups' 2010 founding. Same aggregator-only pattern as 1517 FOSSA/Cursor. Row tightened inline in 500-global.md to '~2011 Seed (aggregator-only attribution — 500 Startups NOT named in primary Series A press coverage ($10M, 2011-08-23, led by Foundry Group with Bezos Expeditions, True Ventures, RRE); likely a Dave McClure personal angel investment)' with [^40] TechCrunch citation added."
 - profile: firms/500-global
   profile_name: 500 Global
   company: Udemy
@@ -461,7 +465,9 @@ vague_facts:
   line: '| Canva | Seed | 2013 | Design/SaaS | Active ($40B valuation) | [^12][^17][^26] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: "Tightened '2013' to '2013-03-20 Seed ($3M; Matrix Partners + InterWest Partners led; 500 Startups + Bill Tai + Lars Rasmussen + Ken Goldman + Paul Bassat participated)' on 500-global.md via 3 primary sources: (1) Canva Newsroom press release 'Aussie startup Canva announces $3 million seed round from world class investors' 2013-03-20 (existing [^26]), (2) TechCrunch (Ingrid Lunden) 'Backed By $3 Million In Funding, Canva Launches A Graphic Design Platform Anyone Can Use' 2013-08-26 (NEW [^38]) which explicitly names 500 Startups alongside Matrix and InterWest and references the earlier 2013-03-19 TC round-announcement coverage, (3) Canva startup profile (data/startups/canva.md line 96) which already had '| Seed | 2013-03-20 | $3M | Matrix Partners, InterWest Partners | 500 Startups, Bill Tai, Lars Rasmussen, Ken Goldman [^5]' — cross-referenced. Startup profile canva.md already correct; no changes needed there."
 - profile: firms/500-global
   profile_name: 500 Global
   company: Talkdesk

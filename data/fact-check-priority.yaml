@@ -1,4 +1,10 @@
 priority:
+- slug: 500-global
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-08: tightened three high-priority portfolio rows on 500-global.md. (1) CANVA: "Seed | 2013" → "Seed ($3M; Matrix Partners + InterWest Partners led; 500 Startups + Bill Tai + Lars Rasmussen + Ken Goldman + Paul Bassat participated) | 2013-03-20" via 3 primary sources — existing Canva Newsroom press release [^26] 2013-03-20, new TechCrunch [^38] 2013-08-26, cross-reference with startup profile canva.md. (2) WILDFIRE: "Seed | 2011" marked unresolvable — firm-level 500 Startups attribution is aggregator-only; primary press for Wildfire''s Series A/B does not name 500 Startups; Dave McClure''s Wildfire relationship dates to his 2008 fbFund role (predates 500 Startups'' 2010 founding). Row tightened inline with caveat and [^39] TechCrunch citation added. (3) MAKERBOT: "Seed | 2011" marked unresolvable — primary Series A press (TechCrunch 2011-08-23 [^40] new) names only Foundry Group, Bezos Expeditions, True Ventures, RRE, and unnamed angels; 500 Startups NOT named; likely a Dave McClure personal angel investment. MakerBot''s 2009 seed predates 500 Startups'' 2010 founding. Row tightened inline with caveat.'
+  added: 2026-07-08
+  status: resolved
+  resolved: 2026-07-08
 - slug: inspired-capital
   type: firm
   reason: 'Fact-spec sweep 2026-07-08: tightened 3 year-only rows on inspired-capital.md portfolio via 3+ primary sources each. (1) FINIX: "Series B | 2020" → "Series B (USD 35M; Sequoia led; Activant + Inspired new; Acrew + Bain Capital Ventures participated) | 2020-02-04" via existing TechCrunch [^17] + NEW Finix own blog [^40] + NEW Crunchbase News [^41]. (2) RHO: "Seed | 2019" → "Seed (USD 4.9M; Inspired Capital led) | 2019-10-15" via existing BusinessWire [^18] + NEW Crunchbase News [^42] + NEW TechStartups [^43]. (3) SNACKPASS: "Series A | 2019" → "Series A (USD 21M; a16z led; First Round, GC, YC, Inspired participated) | 2019-12-19" via existing PRWeb [^24] + NEW TechCrunch [^44] + NEW FinSMEs [^45]. Parallel updates on alexa-von-tobel.md (Rho + Finix rows tightened with new citations [^26][^27][^28][^29]) and andrew-chen.md (Snackpass row tightened).'
