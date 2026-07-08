@@ -104,6 +104,7 @@ Based on 100+ verified portfolio companies from Paradigm's portfolio page, the f
 | Kalshi | Series E (led) | 2025-12-02 | Prediction Markets | [^27][^32] |
 | Andromeda | Growth | 2026 | AI Compute | [^28] |
 | True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | [^29] |
+| M1X Global | Seed (led, $5.5M) | 2026-07-07 | Sovereign Tokenization/Fintech | [^33][^34] |
 
 *This table represents approximately 16% of 148 known investments. The firm's portfolio page notes it excludes confidential positions [^1]. All dates have been verified against primary funding announcement sources.*
 
@@ -157,3 +158,5 @@ No additional independently sourced founder testimonials found from third-party 
 [^31]: blocmates, "Conduit Raises $37 Million in Series A Round Led by Paradigm, Haun Ventures," June 2024, accessed May 2026. https://www.blocmates.com/news-posts/conduit-raises-37-million-in-series-a-round-led-by-paradigm-haun-ventures
 
 [^32]: Kalshi press release, "Kalshi Reaches $11 Billion Valuation as App Takes over America," December 2, 2025. Accessed May 2026. https://news.kalshi.com/p/kalshi-11-billion-valuation-series-e — Confirms $1B Series E announced December 2, 2025 led by Paradigm at $11B valuation; Sequoia, Andreessen Horowitz, Meritech Capital, IVP, ARK Invest, Anthos Capital, CapitalG, and Y Combinator participated.
+[^33]: PR Newswire, "M1X Global Announces Further Funding Led by Paradigm, Totalling $8.5 Million," July 7, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/m1x-global-announces-further-funding-led-by-paradigm-totalling-8-5-million-302819729.html
+[^34]: The Block, "Paradigm leads $5.5 million seed round in M1X Global to expand tokenized sovereign debt platform," July 7, 2026. Accessed July 2026. https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt

@@ -84,6 +84,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Pre-Seed
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/7/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-7-2026/
+  source: alleywatch
+  date_found: '2026-07-07'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Smart glasses maker Even Realities hits $1B valuation with $150M funding
     led by Meituan, Tencent
   url: https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/

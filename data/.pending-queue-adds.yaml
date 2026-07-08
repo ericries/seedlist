@@ -1,0 +1,42 @@
+- name: "SBI Holdings"
+  type: firm
+  firm: "SBI Holdings"
+  priority: normal
+  discovered_from: edx-markets
+  source: "Sole lead of EDX Markets $76M Series C (2026-07-07); Japanese financial conglomerate active digital asset investor"
+- name: "Surface Ventures"
+  type: firm
+  firm: "Surface Ventures"
+  priority: normal
+  discovered_from: octozi
+  source: "Led Octozi $3M Seed (2026-07-07). Managing Partner: Gyan Kapur"
+- name: "Gyan Kapur"
+  type: individual
+  firm: "Surface Ventures"
+  priority: high
+  discovered_from: octozi
+  source: "Managing Partner at Surface Ventures, led Octozi $3M Seed (2026-07-07)"
+- name: "Remarkable Ventures"
+  type: firm
+  firm: "Remarkable Ventures"
+  priority: low
+  discovered_from: octozi
+  source: "Co-investor in Octozi $3M Seed (2026-07-07)"
+- name: "Debiopharm"
+  type: firm
+  firm: "Debiopharm"
+  priority: normal
+  discovered_from: octozi
+  source: "Prior strategic investor in Octozi (via venture arm); Swiss pharma CVC"
+- name: "Breed VC"
+  type: firm
+  firm: "Breed VC"
+  priority: normal
+  discovered_from: m1x-global
+  source: "Co-investor in M1X Global $5.5M Seed led by Paradigm (2026-07-07)"
+- name: "Arjun Balaji"
+  type: individual
+  firm: "Paradigm"
+  priority: low
+  discovered_from: m1x-global
+  source: "Partner at Paradigm; quoted in M1X Global Seed announcement (2026-07-07)"

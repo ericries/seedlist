@@ -2470,3 +2470,15 @@ priority:
   type: investor
   reason: "quoted in alqem Pre-Seed (2026-07-06), €8M USV co-led with UVC Partners"
   added: '2026-07-07'
+- slug: paradigm
+  type: firm
+  reason: "led M1X Global Seed (2026-07-07), $5.5M — Arjun Balaji, sovereign debt tokenization / USDM1"
+  added: '2026-07-07'
+- slug: sequoia-capital
+  type: firm
+  reason: "founding investor in EDX Markets (Series C 2026-07-07, $76M SBI-led)"
+  added: '2026-07-07'
+- slug: pantera-capital
+  type: firm
+  reason: "founding investor in EDX Markets (Series C 2026-07-07, $76M SBI-led)"
+  added: '2026-07-07'

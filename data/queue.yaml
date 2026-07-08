@@ -36569,3 +36569,30 @@ queue:
   firm: Builders VC
   discovered_from: jim-kim
   source: Partner, Head of MENA at Builders VC
+- name: Sixth Street Growth
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: keyfactor
+- name: Vas Natarajan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Accel
+  discovered_from: agave
+- name: Andy Collins
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Summit Partners
+  discovered_from: keyfactor
+- name: Colin Mistele
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Summit Partners
+  discovered_from: keyfactor
