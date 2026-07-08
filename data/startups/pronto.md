@@ -1,11 +1,17 @@
 ---
-firms: []
+firms:
+- round: Board seat (per July 2021 promotion release)
+  slug: origin-ventures
+  year: 2021
 founded: 2025
 founders:
 - name: Anjali Sardana
   role: Founder & CEO
 investors:
 - slug: lachy-groom
+- round: Board seat (per July 2021 promotion release)
+  slug: prashant-shukla
+  year: 2021
 last_researched: 2026-05-11
 location: Bengaluru, India
 name: Pronto

@@ -1,57 +1,75 @@
 ---
-name: "Monogram"
-slug: monogram-ai
-type: startup
-website: "https://www.monogram.ai"
-location: "San Francisco, CA"
-founded: 2025
-status_company: active
-sector: [ai, consumer-ai, mobile, ios, ai-interface, generative-ui]
-stage_latest: "Seed"
-total_raised: "$40M"
 firms:
-  - slug: dst-global
-    round: seed
-    year: 2026
-    date: 2026-07-07
-  - slug: lux-capital
-    round: seed
-    year: 2026
-    date: 2026-07-07
-  - slug: conviction
-    round: seed
-    year: 2026
-    date: 2026-07-07
-investors:
-  - slug: garry-tan
-    round: seed
-    year: 2026
-    date: 2026-07-07
-  - slug: pete-flint
-    round: seed
-    year: 2026
-    date: 2026-07-07
-  - slug: karim-atiyeh
-    round: seed
-    year: 2026
-    date: 2026-07-07
-  - slug: lenny-rachitsky
-    round: seed
-    year: 2026
-    date: 2026-07-07
-  - slug: charlie-songhurst
-    round: seed
-    year: 2026
-    date: 2026-07-07
+- date: 2026-07-07
+  round: seed
+  slug: dst-global
+  year: 2026
+- date: 2026-07-07
+  round: seed
+  slug: lux-capital
+  year: 2026
+- date: 2026-07-07
+  round: seed
+  slug: conviction
+  year: 2026
+- round: Seed (angel)
+  slug: nfx
+  year: 2026
+- round: '2026-07-07'
+  slug: ramp
+  year: 2026
+- round: Seed (angel)
+  slug: y-combinator
+  year: 2026
+- round: Seed (angel)
+  slug: acequia-capital
+  year: 2026
+founded: 2025
 founders:
-  - name: "Eren Bali"
-    role: "Co-Founder & CEO"
-  - name: "Edouard Tabet"
-    role: "Co-Founder"
-  - name: "Murat Akbal"
-    role: "Co-Founder"
-status: published
+- name: Eren Bali
+  role: Co-Founder & CEO
+- name: Edouard Tabet
+  role: Co-Founder
+- name: Murat Akbal
+  role: Co-Founder
+investors:
+- date: 2026-07-07
+  round: seed
+  slug: garry-tan
+  year: 2026
+- date: 2026-07-07
+  round: seed
+  slug: pete-flint
+  year: 2026
+- date: 2026-07-07
+  round: seed
+  slug: karim-atiyeh
+  year: 2026
+- date: 2026-07-07
+  round: seed
+  slug: lenny-rachitsky
+  year: 2026
+- date: 2026-07-07
+  round: seed
+  slug: charlie-songhurst
+  year: 2026
 last_researched: 2026-07-07
+location: San Francisco, CA
+name: Monogram
+sector:
+- ai
+- consumer-ai
+- mobile
+- ios
+- ai-interface
+- generative-ui
+slug: monogram-ai
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $40M
+type: startup
+website: https://www.monogram.ai
 ---
 
 ## About

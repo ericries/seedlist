@@ -24301,7 +24301,7 @@ queue:
 - name: Clay Robbins
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Slow Ventures
   discovered_from: yoni-rechtman
@@ -24513,7 +24513,7 @@ queue:
 - name: Prashant Shukla
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Origin Ventures
   discovered_from: century-health
@@ -36959,3 +36959,37 @@ queue:
   discovered_from: adaptive-insurance
   source: Co-Founder & CEO of Adaptive Insurance; 20-yr career at Nationwide, Allstate,
     Hippo (first insurance hire)
+- name: Colosseum
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clay-robbins
+  source: Clay Robbins's $60M Solana-focused hackathon/accelerator fund; co-founded
+    2024
+- name: Matty Taylor
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Colosseum
+  discovered_from: clay-robbins
+  source: Colosseum co-founder alongside Clay Robbins; ex-Head of Growth at Solana
+    Foundation, ran Solana global hackathon program
+- name: Caroline Cline
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Slow Ventures
+  discovered_from: clay-robbins
+  source: Slow Crypto Team member alongside Clay Robbins and Sam Lessin per Slow Burn
+    newsletter
+- name: Scott Stern
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Origin Ventures
+  discovered_from: prashant-shukla
+  source: Origin Ventures Partner promoted alongside Prashant Shukla on July 20, 2021

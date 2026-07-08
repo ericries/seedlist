@@ -1,38 +1,44 @@
 ---
+firms:
+- date: 2026-03-25
+  round: series-a
+  slug: andreessen-horowitz
+  year: 2026
+- round: seed
+  slug: 8vc
+  year: 2025
+- round: seed
+  slug: y-combinator
+  year: 2024
+- round: Board seat (per July 2021 promotion release)
+  slug: origin-ventures
+  year: 2021
+founded: 2020
+founders:
+- name: Akash Raju
+  role: Co-Founder
+- name: Anuj Mehta
+  role: Co-Founder
+- name: Kushal Negi
+  role: Co-Founder
+investors:
+- round: Board seat (per July 2021 promotion release)
+  slug: prashant-shukla
+  year: 2021
+last_researched: 2026-05-26
+location: New York, NY
 name: Glimpse
+sector:
+- fintech
+- ai
+- retail-tech
 slug: glimpse
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $52M
 type: startup
 website: https://www.glimpse.ai
-location: New York, NY
-founded: 2020
-status_company: active
-sector:
-  - fintech
-  - ai
-  - retail-tech
-stage_latest: Series A
-total_raised: $52M
-firms:
-  - slug: andreessen-horowitz
-    round: series-a
-    year: 2026
-    date: 2026-03-25
-  - slug: 8vc
-    round: seed
-    year: 2025
-  - slug: y-combinator
-    round: seed
-    year: 2024
-investors: []
-founders:
-  - name: Akash Raju
-    role: Co-Founder
-  - name: Anuj Mehta
-    role: Co-Founder
-  - name: Kushal Negi
-    role: Co-Founder
-status: published
-last_researched: 2026-05-26
 ---
 
 ## About

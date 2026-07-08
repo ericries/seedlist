@@ -1,11 +1,33 @@
 ---
-name: Fleek
-slug: fleek
-type: startup
-website: https://joinfleek.com
-location: London, United Kingdom
+firms:
+- date: 2026-07-08
+  round: series-b
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-07-08
+  round: series-b
+  slug: y-combinator
+  year: 2026
+- date: 2026-07-08
+  round: series-b
+  slug: fj-labs
+  year: 2026
+- round: Series A
+  slug: polychain-capital
+  year: 2022
 founded: 2022
-status_company: active
+founders:
+- name: Abhi Arora
+  role: Co-Founder & CEO
+- name: Sanket Agarwal
+  role: Co-Founder
+investors:
+- round: Series A
+  slug: olaf-carlson-wee
+  year: 2022
+last_researched: 2026-07-08
+location: London, United Kingdom
+name: Fleek
 sector:
 - marketplace
 - ecommerce
@@ -14,29 +36,13 @@ sector:
 - fashion
 - sustainability
 - b2b-saas
+slug: fleek
 stage_latest: Series B
-total_raised: "$45M+"
-firms:
-- slug: andreessen-horowitz
-  round: series-b
-  year: 2026
-  date: 2026-07-08
-- slug: y-combinator
-  round: series-b
-  year: 2026
-  date: 2026-07-08
-- slug: fj-labs
-  round: series-b
-  year: 2026
-  date: 2026-07-08
-investors: []
-founders:
-- name: "Abhi Arora"
-  role: "Co-Founder & CEO"
-- name: "Sanket Agarwal"
-  role: "Co-Founder"
-last_researched: 2026-07-08
 status: published
+status_company: active
+total_raised: $45M+
+type: startup
+website: https://joinfleek.com
 ---
 
 ## About
