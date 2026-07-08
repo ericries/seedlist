@@ -36732,3 +36732,60 @@ queue:
   discovered_from: super-com
   source: Co-Founder & CEO of Super.com; Toronto-based savings super app; $1.2B valuation
     2026-07-07
+- name: Point Nine
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aardaia
+  source: led Aardaia €5M seed round (2026-07-08), expansion beyond software
+- name: Astanor Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aardaia
+  source: co-investor Aardaia €5M seed (2026-07-08)
+- name: FoodLabs
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aardaia
+  source: returning investor Aardaia €5M seed; led pre-seed (2026-07-08)
+- name: Grey Silo Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aardaia
+  source: co-investor Aardaia €5M seed (2026-07-08)
+- name: T. Rowe Price Associates
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sambanova-systems
+  source: co-investor SambaNova $1B Series F (2026-07-08)
+- name: Capital Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sambanova-systems
+  source: co-investor SambaNova $1B Series F (2026-07-08)
+- name: BlackRock
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sambanova-systems
+  source: co-investor SambaNova $1B Series F (2026-07-08)
+- name: Rodrigo Liang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: SambaNova Systems
+  discovered_from: sambanova-systems
+  source: Co-founder & CEO of SambaNova; potential angel/operator investor

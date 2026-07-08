@@ -115,8 +115,9 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Opal Security | Series B Extension (co-led, $23M) | 2026-06-04 | Cybersecurity / Identity | Active | [^19][^20][^21] |
 | Coram AI | Series B (co-led, $35M) | 2026-06-10 | AI / Physical Security | Active | [^22][^23][^24] |
 | Warp | Series B (lead, $60M) | 2026-06-25 | HR Tech / Payroll / AI / Fintech | Active | [^25][^26][^27] |
+| SambaNova Systems | Series F (participated, $1B first close, $11B valuation; General Atlantic led) | 2026-07-08 | AI / AI Chips / Inference Infrastructure | Active | [^32] |
 
-*This table represents approximately 29 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
+*This table represents approximately 30 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
 ## In Their Own Words
 
@@ -181,3 +182,5 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^30]: SiliconANGLE, "Fundamental launches with $255M and an AI model optimized for tabular data," February 5, 2026. Accessed July 2026. https://siliconangle.com/2026/02/05/fundamental-launches-255m-ai-model-optimized-tabular-data/ — Independent tier-1 tech-press confirmation of Fundamental's $255M funding ($30M seed + $225M Series A) announced February 5, 2026 with Oak HC/FT leading the Series A and Battery Ventures participating alongside Valor Equity Partners, Salesforce Ventures, and Hetz Ventures.
 
 [^31]: TechCrunch, "Fundamental raises $255M Series A with a new take on big data analysis," February 5, 2026. Accessed July 2026. https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/ — Third independent confirmation of $225M Series A led by Oak HC/FT (plus $30M seed) on February 5, 2026 with Battery Ventures, Valor Equity Partners, Salesforce Ventures, and Hetz Ventures participating; angel investors include Perplexity CEO Aravind Srinivas, Wiz CEO Assaf Rappaport, Brex co-founder Henrique Dubugras, and Datadog CEO Olivier Pomel. Founded October 2024 by DeepMind alumni; flagship product is Nexus, an AI model optimized for tabular data.
+
+[^32]: TechCrunch, "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round," July 8, 2026. Accessed July 2026. https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/ — Primary press confirmation of Battery Ventures participating in SambaNova's $1B Series F first close led by General Atlantic at $11B valuation, alongside Seligman Ventures, T. Rowe Price, Capital Group, BlackRock, Vista Equity Partners, Qatar Investment Authority, and Intel among others.
