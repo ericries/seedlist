@@ -4949,16 +4949,19 @@ priority:
   resolved: 2026-07-07
 - slug: andreessen-horowitz
   type: firm
-  reason: "participated in Fleek Series B (2026-07-08), $25M"
+  reason: 'Fact-spec sweep 2026-07-08: added Fleek row to andreessen-horowitz.md portfolio ("Series A led, USD 20.4M, 2024-11-12; Series B participated, USD 25M, 2026-07-08; Burda Principal Investments led; eBay/FJ Labs/H14 new; HV Capital/Y Combinator existing") with 3 primary sources ([^132] Fortune exclusive 2026-07-08, [^133] Retail Tech Innovation Hub 2026-07-07, [^134] TheNextWeb). Portfolio count updated 82→83. Parallel updates on fj-labs.md and y-combinator.md with same 3 sources; fleek.md startup profile strengthened with TheNextWeb ([^4]) and YC directory ([^5]).'
   added: 2026-07-08
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
 - slug: fj-labs
   type: firm
-  reason: "participated in Fleek Series B (2026-07-08), $25M"
+  reason: 'Fact-spec sweep 2026-07-08: added Fleek row to fj-labs.md portfolio ("Series B participated, USD 25M, 2026-07-08; Burda Principal Investments led; eBay/H14 also new; Andreessen Horowitz/HV Capital/Y Combinator existing") with 3 primary sources ([^24] Fortune exclusive, [^25] Retail Tech Innovation Hub, [^26] TheNextWeb). See andreessen-horowitz entry for full sweep context.'
   added: 2026-07-08
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
 - slug: y-combinator
   type: firm
-  reason: "participated in Fleek Series B (2026-07-08), $25M"
+  reason: 'Fact-spec sweep 2026-07-08: added Fleek (W22 batch) row to y-combinator.md portfolio ("Series B participated, USD 25M, 2026-07-08; Burda Principal Investments led; eBay/FJ Labs/H14 new; Andreessen Horowitz/HV Capital existing") with 4 primary sources ([^66] Fortune exclusive, [^67] Retail Tech Innovation Hub, [^68] TheNextWeb, [^69] YC directory confirming W22 batch). See andreessen-horowitz entry for full sweep context.'
   added: 2026-07-08
-  status: pending
+  status: resolved
+  resolved: 2026-07-08

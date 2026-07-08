@@ -118,6 +118,7 @@ FJ Labs has invested in 1,192 unique companies with 355 exits as of early 2025 [
 | Snackpass | Early Stage | ~2020 | Food / Marketplace | Active [^16] |
 | Snabbit | Series D ($56M, participated) | 2026-04-27 | Home Services / India | Active [^17][^18][^19] |
 | Forage | Series B ($40M, participated) | 2026-06-03 | Fintech / SNAP-EBT Payments | Active [^22][^23] |
+| Fleek | Series B (participated, $25M; Burda Principal Investments led; eBay, H14 also new; Andreessen Horowitz, HV Capital, Y Combinator existing) | 2026-07-08 | B2B Marketplace / Secondhand Fashion / AI Supply Chain | Active (London-based; USD 45M total raised) [^24][^25][^26] |
 
 *Note: This table represents approximately 2.5% of FJ Labs' 1,192 verified investments. Many entries use approximate years based on available sourcing. The firm's portfolio page lists 900+ companies across all sectors and geographies [^14].*
 
@@ -177,3 +178,9 @@ No independently sourced founder testimonials found. FJ Labs' website and market
 [^22]: PRNewswire, "Forage raises additional $40M to help low-income families save on groceries," June 3, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/forage-raises-additional-40m-to-help-low-income-families-save-on-groceries-302789551.html
 
 [^23]: citybiz, "Forage Raises $40M to Expand SNAP Infrastructure and Consumer Savings Platform," June 2026, accessed June 2026. https://www.citybiz.co/article/854835/forage-raises-40m-to-expand-snap-infrastructure-and-consumer-savings-platform/
+
+[^24]: Fortune, "Exclusive: Fleek, an online market for vintage garment wholesalers, raises $25 million in new funding," July 8, 2026. Accessed July 2026. https://fortune.com/2026/07/08/fleek-an-online-marketplace-connecting-vintage-clothing-wholesalers-and-retailers-raises-25-million-in-new-funding/ — Primary tier-1 press exclusive confirming Fleek's Series B of USD 25M led by Burda Principal Investments on July 8, 2026, with participation from eBay, FJ Labs, H14, and existing investors Andreessen Horowitz, HV Capital, and Y Combinator. Total funding to date USD 45M.
+
+[^25]: Retail Technology Innovation Hub, "London-based startup Fleek raises $25 million for AI powered secondhand fashion supply chain push," July 7, 2026. Accessed July 2026. https://retailtechinnovationhub.com/home/2026/7/7/london-based-startup-fleek-raises-25-million-for-ai-powered-secondhand-fashion-supply-chain-push — Independent industry press confirmation of Fleek Series B naming FJ Labs among new participants alongside eBay and H14.
+
+[^26]: TheNextWeb, "Fleek raises $25m to build the AI infrastructure behind global secondhand fashion," July 2026. Accessed July 2026. https://thenextweb.com/news/fleek-25m-series-b-secondhand-fashion-ai — Third independent tier-1 tech press confirmation of USD 25M Series B on July 8, 2026 with full investor list including FJ Labs.
