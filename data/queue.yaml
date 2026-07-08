@@ -12444,7 +12444,7 @@ queue:
 - name: Prime Intellect
   type: startup
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: david-pakman
   source: 'portfolio company of 5 investors: david-pakman, balaji-srinivasan, deedy-das'
@@ -24586,7 +24586,7 @@ queue:
 - name: Venus Aerospace
   type: startup
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: ben-kohlmann
 - name: Firestorm
@@ -36993,3 +36993,69 @@ queue:
   firm: Origin Ventures
   discovered_from: prashant-shukla
   source: Origin Ventures Partner promoted alongside Prashant Shukla on July 20, 2021
+- name: Mercury Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: venus-aerospace
+  source: Lead investor in Venus Aerospace Series B (2026-07-08)
+- name: Lockheed Martin Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: venus-aerospace
+  source: Co-investor in Venus Aerospace Series B (2026-07-08)
+- name: PEAK6
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: venus-aerospace
+  source: Co-investor in Venus Aerospace Series B (2026-07-08)
+- name: Starboard Star Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: venus-aerospace
+  source: Co-investor in Venus Aerospace Series B (2026-07-08)
+- name: Nvidia Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prime-intellect
+  source: Co-investor in Prime Intellect Series A (2026-07-08)
+- name: Energize Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: axle-energy
+  source: Lead investor in Axle Energy Series A (2026-07-08)
+- name: David Katz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Radical Ventures
+  discovered_from: prime-intellect
+  source: Partner at Radical Ventures who led/quoted in Prime Intellect Series A (2026-07-08)
+- name: Sassie Duggleby
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Venus Aerospace
+  discovered_from: venus-aerospace
+  source: CEO/co-founder of Venus Aerospace (2026-07-08 Series B)
+- name: Vincent Weisser
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Prime Intellect
+  discovered_from: prime-intellect
+  source: CEO/co-founder of Prime Intellect (2026-07-08 Series A)
