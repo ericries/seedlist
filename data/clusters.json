@@ -8262,7 +8262,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 29,
+      "size": 30,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8400,6 +8400,11 @@
           "slug": "guillaume-lample",
           "name": "Guillaume Lample",
           "firm": "mistral"
+        },
+        {
+          "slug": "clem-delangue",
+          "name": "Cl\u00e9ment Delangue",
+          "firm": "hugging-face"
         }
       ]
     },
@@ -8597,7 +8602,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 29,
+      "size": 30,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8738,6 +8743,11 @@
         {
           "slug": "will-quist",
           "name": "Will Quist",
+          "firm": "slow-ventures"
+        },
+        {
+          "slug": "megan-lightcap",
+          "name": "Megan Lightcap",
           "firm": "slow-ventures"
         }
       ]
@@ -9602,7 +9612,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 133,
+      "size": 134,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10205,6 +10215,11 @@
           "slug": "florian-hagenbuch",
           "name": "Florian Hagenbuch",
           "firm": "loft"
+        },
+        {
+          "slug": "clem-delangue",
+          "name": "Cl\u00e9ment Delangue",
+          "firm": "hugging-face"
         }
       ]
     },
@@ -10714,7 +10729,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 58,
+      "size": 59,
       "members": [
         {
           "slug": "aileen-lee",
@@ -10998,6 +11013,11 @@
           "slug": "meredith-fisher",
           "name": "Meredith Fisher",
           "firm": "mass-general-brigham-ventures"
+        },
+        {
+          "slug": "megan-lightcap",
+          "name": "Megan Lightcap",
+          "firm": "slow-ventures"
         }
       ]
     },
@@ -12877,7 +12897,7 @@
       "name": "The Essayists",
       "tagline": "Their portfolios speak for themselves \u2014 but founders read their writing before pitching.",
       "type": "curated",
-      "size": 23,
+      "size": 24,
       "members": [
         {
           "slug": "paul-graham",
@@ -12985,6 +13005,11 @@
           "slug": "bryce-roberts",
           "name": "Bryce Roberts",
           "firm": "oatv"
+        },
+        {
+          "slug": "clem-delangue",
+          "name": "Cl\u00e9ment Delangue",
+          "firm": "hugging-face"
         }
       ]
     },
