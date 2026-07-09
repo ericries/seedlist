@@ -92,16 +92,16 @@ Fund I has returned 4.41x DPI (distributed-to-paid-in) and 9.65x TVPI (total val
 | Lambda | ~2017 | Seed | [^10] |
 | Atom Computing | 2018-08 | Seed (~$5M; Venrock led; 1517 confirmed via own portfolio page) | [^1][^10][^23] |
 | Fountain | ~2018 | Seed | [^1][^10] |
-| Cents | ~2019 | Seed | [^1][^15] |
+| Cents | 2021-02-15 | Seed (USD 4.25M; Bessemer Venture Partners led; Newfund Capital + Riverpark Ventures + 1517 Fund + Jason Finger participated; 1517 blog announced check 2020-09-24 ahead of formal round) | [^1][^15][^24][^25] |
 | Xona Space Systems | 2020-05-14 | Pre-Seed (1517 led, $1M) | [^13][^17][^18] |
 | Zeno Power Systems | ~2020 | Seed | [^16] |
-| Presso | ~2021 | Pre-Seed | [^1] |
+| Presso | 2020-12-16 | Pre-Seed (USD 1.6M; Pathbreaker Ventures + AME Cloud Ventures + SOSV + 1517 Fund + YETI Capital participated; no single lead named) | [^1][^26][^27] |
 | Mach Industries | ~2022 | Seed | [^10] |
 | Positron AI | ~2023 | Seed | [^10] |
 | Rainmaker | ~2023 | Pre-Seed | [^10] |
 | Kura | ~2023 | Seed | [^10] |
 | CalWave Power | ~2023 | Seed | [^10] |
-| Trilobio | ~2024 | Pre-Seed | [^10] |
+| Trilobio | ~2022–2024 (pre-seed date undisclosed) | Pre-Seed (USD 3M; Argon Ventures + Lowercarbon Capital named as pre-seed leads; 1517 Fund confirmed in cumulative "over USD 11M raised" investor summary in the 2025-05-05 seed announcement but not named in pre-seed primary press) | [^10][^28] |
 
 *This table represents approximately 19 of ~110 total investments across four flagship funds. Many early-stage investments are not publicly disclosed. Years marked with ~ are approximate based on company founding dates or fund vintage.*
 
@@ -162,3 +162,8 @@ A female founder of color in the portfolio stated: "We are proud to make up the 
 [^21]: 3D Printing Industry, "nTopology CEO gives insight into generative design after raising $7.6M," December 5, 2017, accessed July 2026 (confirms $7.6M Series A led by Data Collective + Root Ventures). https://3dprintingindustry.com/news/ntopology-ceo-gives-insight-generative-design-after-raising-7-6m-125665/
 [^22]: MCADCafe / Digital Engineering, "nTopology Announces Series A Funding of $7.6M," December 1, 2017, accessed July 2026 (confirms 1517 among 4 co-participants alongside CrunchFund, Haystack, Pathbreaker). https://www10.mcadcafe.com/nbc/articles/1/1551871/nTopology-Announces-Series-Funding-$7.6M
 [^23]: Ethan Batraski (Venrock partner), "A Radical New Paradigm in Quantum Computing, Venrock's Investment into Atom Computing," Medium, September 25, 2018, accessed July 2026 (Venrock led seed round in "August" 2018; Atom Computing founded January 2018 by Ben Bloom and Jonathan King). https://medium.com/ethanjb/a-new-paradigm-in-quantum-computing-venrocks-investment-into-atom-computing-cea467daaeb
+[^24]: Cents company press release, "Cents Announces $4.25M Fundraising Round," accessed July 2026 (Bessemer led with Newfund, Riverpark, 1517 Fund, and Jason Finger participating). https://www.trycents.com/news/cents-announces-4.25m-fundraising-round
+[^25]: Crunchbase, "Seed Round — Cents — 2020-11-01," accessed July 2026 (records seed round with 2020-11-01 date, likely Form D filing; publicly announced 2021-02-15). https://www.crunchbase.com/funding_round/cents-ba2f-seed--fe92f668
+[^26]: Hypepotamus, "Atlanta-based Presso raises $1.6M as Hollywood takes notes of its dry cleaning robot," December 16, 2020, accessed July 2026 (independent primary contemporaneous press confirming $1.6M pre-seed with Pathbreaker, AME Cloud Ventures, SOSV, 1517 Fund, YETI Capital; Danielle Strachman quote: "Having worked first with the Presso team as a grantee and now as portfolio founders"). https://hypepotamus.com/news/presso-pre-seed/
+[^27]: TechCrunch, "Dry-cleaning robotics startup Presso raises $1.6M as it shifts focus to Hollywood," December 16, 2020, accessed July 2026. https://techcrunch.com/2020/12/16/dry-cleaning-robotics-startup-presso-raises-1-6m-as-it-shifts-focus-to-hollywood/
+[^28]: SynBioBeta, "Trilobio Raises $8m to Deliver Whole Lab Automation for Biologists," May 5, 2025, accessed July 2026 (trade press coverage of $8M Initialized Capital-led seed; total funding "over $11M" including 1517 Fund among earlier investors alongside Julian Capital, Juniper, Future Labs Capital, Alumni Ventures). https://www.synbiobeta.com/read/trilobio-raises-8m-to-deliver-whole-lab-automation-for-biologists

@@ -70,14 +70,14 @@ This table represents approximately 22 of ~105 known investments (about 21%). Th
 | Atom Computing | 2018-08 | Seed (~$5M; Venrock led per Batraski Medium; 1517 among investors per own portfolio page) | [^1] [^7] [^18] |
 | Zeno Power | ~2019 | Pre-Seed | [^8] |
 | nTopology | 2017-12-01 | Series A ($7.6M; Data Collective + Root Ventures co-led; 1517 among 4 co-participants) | [^1] [^19] [^20] |
-| Cents | ~2018 | Pre-Seed | [^1] |
+| Cents | 2021-02-15 | Seed (USD 4.25M; Bessemer Venture Partners led; Newfund Capital + Riverpark Ventures + 1517 Fund + Jason Finger participated; 1517 blog announced check 2020-09-24 ahead of formal round) | [^1] [^21] [^22] |
 | Eeva | ~2020 | Pre-Seed | [^1] |
 | Rainmaker | ~2021 | Pre-Seed | [^1] [^5] |
 | Xona Space | 2020-05-14 | Pre-Seed (1517 led, $1M; Seraphim, Trucks, Stellar participated) | [^1] [^5] [^16] [^17] |
 | Mach Industries | ~2020 | Seed | [^9] |
 | Stark Therapeutics | ~2021 | Pre-Seed | [^5] |
 | Positron | ~2022 | Pre-Seed | [^5] |
-| Trilobio | ~2022 | Pre-Seed | [^7] |
+| Trilobio | ~2022–2024 (pre-seed date undisclosed) | Pre-Seed (USD 3M; Argon Ventures + Lowercarbon Capital named as pre-seed leads; 1517 Fund confirmed in cumulative "over USD 11M raised" investor summary in the 2025-05-05 seed announcement but not named in pre-seed primary press) | [^7] [^23] |
 | Fleet | ~2017 | Pre-Seed | [^12] |
 
 **Notable exits:**
@@ -146,3 +146,6 @@ On the Deepgram investment, Strachman has described how she initially discourage
 [^18]: Ethan Batraski (Venrock partner), "A Radical New Paradigm in Quantum Computing, Venrock's Investment into Atom Computing," Medium, September 25, 2018, accessed July 2026 (Venrock led seed round in "August" 2018; Atom Computing founded January 2018 by Ben Bloom and Jonathan King). https://medium.com/ethanjb/a-new-paradigm-in-quantum-computing-venrocks-investment-into-atom-computing-cea467daaeb
 [^19]: 3D Printing Industry, "nTopology CEO gives insight into generative design after raising $7.6M," December 5, 2017, accessed July 2026 (confirms $7.6M Series A led by Data Collective + Root Ventures; James Hardiman DCVC quote). https://3dprintingindustry.com/news/ntopology-ceo-gives-insight-generative-design-after-raising-7-6m-125665/
 [^20]: MCADCafe / Digital Engineering, "nTopology Announces Series A Funding of $7.6M," December 1, 2017, accessed July 2026 (confirms 1517 among 4 co-participants alongside CrunchFund, Haystack, Pathbreaker). https://www10.mcadcafe.com/nbc/articles/1/1551871/nTopology-Announces-Series-Funding-$7.6M
+[^21]: Cents company press release, "Cents Announces $4.25M Fundraising Round," accessed July 2026. https://www.trycents.com/news/cents-announces-4.25m-fundraising-round — Confirms Bessemer Venture Partners led the $4.25M seed with Newfund Capital, Riverpark Ventures, 1517 Fund, and Jason Finger participating.
+[^22]: Crunchbase, "Seed Round — Cents — 2020-11-01," accessed July 2026. https://www.crunchbase.com/funding_round/cents-ba2f-seed--fe92f668 — Records Cents seed round with 2020-11-01 date (likely Form D filing), distinct from 2021-02-15 public announcement.
+[^23]: SynBioBeta, "Trilobio Raises $8m to Deliver Whole Lab Automation for Biologists," May 5, 2025, accessed July 2026 — Trade press coverage of Initialized Capital-led $8M seed; total funding "over $11 million" including 1517 Fund among earlier investors. https://www.synbiobeta.com/read/trilobio-raises-8m-to-deliver-whole-lab-automation-for-biologists
