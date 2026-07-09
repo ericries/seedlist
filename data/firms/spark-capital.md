@@ -151,6 +151,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | RadixArk | Seed (co-led, $100M, $400M post-money) | 2026-05-05 | AI Infrastructure | [^45][^46][^47] |
 | Novellia | Series A (lead, $18M; Khosla, Acrew, Bling, TMV participated) | 2026-06-02 | Healthcare / Real-World Data | [^52][^53][^54] |
 | Cadence | Series C (led, $100M; Thrive, General Catalyst, Coatue, B Capital, Corewell Health Ventures, Memorial Hermann, Duke Health participated) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | [^57][^58][^59] |
+| Oratomic | Series A (co-led with ARCH Venture Partners, Khosla Ventures; $300M) | 2026-07-07 | Quantum Computing / Deep Tech | [^60][^61] |
 
 This table represents a subset of Spark Capital's 337 total investments [^4].
 
@@ -250,3 +251,7 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^58]: Cadence website, AI-powered Proactive Care Engine post linking to the Series C announcement, accessed June 2026. https://www.cadence.care/post/cadence-launches-ai-powered-proactive-care-engine-bringing-advanced-primary-care-management-to-medicare-patients-nationwide — Cross-reference to the June 23, 2026 Spark-led Series C announcement.
 
 [^59]: Business Wire newsroom listing for funding announcements (Cadence Series C announcement dated June 23, 2026), accessed June 2026. https://www.businesswire.com/newsroom/subject/funding — Independent confirmation of June 23, 2026 Cadence Series C with Spark Capital leading and Thrive, General Catalyst, and Coatue participating.
+
+[^60]: "Oratomic Raises $300 Million Series A," The Quantum Insider, July 7, 2026. Accessed July 9, 2026. https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/ — Confirms Spark Capital co-led Oratomic's $300M Series A alongside ARCH Venture Partners and Khosla Ventures on July 7, 2026.
+
+[^61]: Duncan Riley, "Quantum startup Oratomic banks $300M to race straight to fault-tolerance," SiliconANGLE, July 8, 2026. Accessed July 9, 2026. https://siliconangle.com/2026/07/08/quantum-startup-oratomic-banks-300m-race-straight-fault-tolerance/ — Independent confirmation of Spark Capital co-leading the Oratomic Series A.

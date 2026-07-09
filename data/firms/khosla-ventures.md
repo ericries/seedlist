@@ -208,6 +208,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | General Intuition | Seed (co-led with General Catalyst, $133.7M) | 2025-10-16 | AI / World Models / Robotics / Gaming | Private — Khosla Ventures' largest seed check since OpenAI 2018 per TechCrunch; Raine Ventures also participated [^genint4][^genint5] |
 | General Intuition | Series A (led, $320M at $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2][^genint3] |
 | Scaled Cognition | Series A (led, $100M at ~$750M val; Genesys participated) | 2026-06-25 | AI / Enterprise / Foundation Models | Private [^sc1][^sc2][^sc3] |
+| Oratomic | Series A (co-led with ARCH Venture Partners, Spark Capital; $300M) | 2026-07-07 | Quantum Computing / Deep Tech | Private [^orat1][^orat2] |
 
 *Note: This table includes 68 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -424,3 +425,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^ch-kh2]: Bloomberg, "Khosla-Led Deal Values Data Startup ClickHouse at $6.35 Billion," May 29, 2025. Accessed July 2026. https://www.bloomberg.com/news/articles/2025-05-29/khosla-led-deal-values-data-startup-clickhouse-at-6-35-billion — Tier-1 press confirmation of Khosla Ventures leading the $350M Series C at $6.35B post-money valuation.
 
 [^ch-kh3]: FirstMark portfolio update, "ClickHouse Raises $350 Million Series C to Power Analytics for the AI Era," May 29, 2025. Accessed July 2026. https://firstmark.com/story/clickhouse-raises-350-million-series-c-to-power-analytics-for-the-ai-era/ — Existing-investor perspective reiterating Khosla Ventures as lead of ClickHouse's Series C.
+
+[^orat1]: "Oratomic Raises $300 Million Series A," The Quantum Insider, July 7, 2026. Accessed July 9, 2026. https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/ — Confirms Khosla Ventures co-led Oratomic's $300M Series A alongside ARCH Venture Partners and Spark Capital on July 7, 2026. Vinod Khosla quoted calling it "the largest initial investment yet, as we did in OpenAI, into TeamOratomic."
+
+[^orat2]: Duncan Riley, "Quantum startup Oratomic banks $300M to race straight to fault-tolerance," SiliconANGLE, July 8, 2026. Accessed July 9, 2026. https://siliconangle.com/2026/07/08/quantum-startup-oratomic-banks-300m-race-straight-fault-tolerance/ — Independent confirmation of Khosla Ventures co-leading the Oratomic Series A.

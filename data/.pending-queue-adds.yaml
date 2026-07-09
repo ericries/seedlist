@@ -1,0 +1,70 @@
+- name: "ARCH Venture Partners"
+  type: firm
+  priority: high
+  discovered_from: oratomic
+  source: "co-led Oratomic $300M Series A (2026-07-07)"
+- name: "Nvidia"
+  type: firm
+  priority: high
+  discovered_from: gradium
+  source: "led Gradium $30M seed extension bringing total to $100M+ (2026-07-09)"
+- name: "FirstMark Capital"
+  type: firm
+  priority: high
+  discovered_from: gradium
+  source: "co-led Gradium $70M first-tranche seed (2025-12) alongside Eurazeo"
+- name: "Eurazeo"
+  type: firm
+  priority: high
+  discovered_from: gradium
+  source: "co-led Gradium $70M first-tranche seed (2025-12) alongside FirstMark"
+- name: "Bezos Expeditions"
+  type: firm
+  priority: high
+  discovered_from: oratomic
+  source: "participated in Oratomic $300M Series A (2026-07-07)"
+- name: "Bain Capital Ventures"
+  type: firm
+  priority: normal
+  discovered_from: oratomic
+  source: "participated in Oratomic $300M Series A (2026-07-07)"
+- name: "Nebular"
+  type: firm
+  priority: normal
+  discovered_from: oratomic
+  source: "participated in Oratomic $300M Series A (2026-07-07)"
+- name: "Infleqtion"
+  type: firm
+  priority: normal
+  discovered_from: oratomic
+  source: "participated in Oratomic $300M Series A (2026-07-07); strategic corporate investor in neutral-atom quantum"
+- name: "Neil Zeghidour"
+  type: individual
+  firm: "Gradium"
+  priority: high
+  discovered_from: gradium
+  source: "co-founder & CEO Gradium; formerly Google Brain, DeepMind, Facebook (Meta) audio AI research"
+- name: "Dolev Bluvstein"
+  type: individual
+  firm: "Oratomic"
+  priority: high
+  discovered_from: oratomic
+  source: "co-founder & CEO Oratomic; Caltech neutral-atom quantum research background"
+- name: "Manuel Endres"
+  type: individual
+  firm: "Oratomic"
+  priority: normal
+  discovered_from: oratomic
+  source: "co-founder Oratomic; Caltech physicist"
+- name: "Rodolphe Saadé"
+  type: individual
+  firm: "CMA CGM"
+  priority: normal
+  discovered_from: gradium
+  source: "Kyutai co-funder and Gradium seed participant (2025-12); French billionaire, CEO CMA CGM"
+- name: "Scott Aaronson"
+  type: individual
+  firm: "UT Austin"
+  priority: normal
+  discovered_from: oratomic
+  source: "quantum researcher, angel in Oratomic Series A (2026-07-07)"

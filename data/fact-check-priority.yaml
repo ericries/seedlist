@@ -5097,4 +5097,44 @@ priority:
   type: firm
   reason: "prior Ollama backer surfaced in Series B coverage (2026-07-09)"
   added: 2026-07-09
+- slug: spark-capital
+  type: firm
+  reason: "co-led Oratomic Series A (2026-07-07), $300M — quantum computing"
+  added: 2026-07-09
+- slug: khosla-ventures
+  type: firm
+  reason: "co-led Oratomic Series A (2026-07-07), $300M — largest initial check since OpenAI per Vinod Khosla"
+  added: 2026-07-09
+- slug: vinod-khosla
+  type: investor
+  reason: "personally championed Oratomic Series A (2026-07-07), $300M"
+  added: 2026-07-09
+- slug: dst-global
+  type: firm
+  reason: "appeared in Gradium seed round (2025-12), $70M first tranche"
+  added: 2026-07-09
+- slug: eric-schmidt
+  type: investor
+  reason: "appeared in Gradium seed round (2025-12), Kyutai co-funder"
+  added: 2026-07-09
+- slug: xavier-niel
+  type: investor
+  reason: "appeared in Gradium seed round (2025-12), Kyutai co-funder"
+  added: 2026-07-09
+- slug: baiju-bhatt
+  type: investor
+  reason: "appeared as angel in Oratomic Series A (2026-07-07), $300M"
+  added: 2026-07-09
+- slug: index-ventures
+  type: firm
+  reason: "participated in Oratomic Series A (2026-07-07), $300M"
+  added: 2026-07-09
+- slug: general-catalyst
+  type: firm
+  reason: "participated in Oratomic Series A (2026-07-07), $300M"
+  added: 2026-07-09
+- slug: lowercarbon-capital
+  type: firm
+  reason: "participated in Oratomic Series A (2026-07-07), $300M"
+  added: 2026-07-09
 
