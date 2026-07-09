@@ -109,6 +109,14 @@ pending_rounds:
   parsed_amount: $90M
   parsed_round: Series B
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/8/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-8-2026/
+  source: alleywatch
+  date_found: '2026-07-08'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Lisbon-based BIZAY raises €48.7 million Series D; set to surpass €88.6 million
     revenue and reach profitability
   url: https://www.eu-startups.com/2026/07/lisbon-based-bizay-raises-e48-75-million-series-d-set-to-surpass-e88-6-million-revenue-and-reach-profitability/

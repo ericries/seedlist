@@ -4983,3 +4983,8 @@ priority:
   added: 2026-07-08
   status: resolved
   resolved: 2026-07-08
+- slug: andreessen-horowitz
+  type: firm
+  reason: "appeared in Pearl Health Series C (2026-07-08), $50M equity"
+  added: 2026-07-08
+
