@@ -131,7 +131,8 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | Nexthop AI | Growth | 2026 | AI Networking | Active | [^13] |
 | ByteDance | Secondary/Growth | ~2020 | Consumer Internet | Active | [^7] |
 | Bridge | Seed | ~2022 | Fintech | Acquired by Stripe (2024) | [^7] |
-| Base Power | Growth | ~2024 | Energy | Active | [^7] |
+| Base Power | Series B (participated; USD 200M co-led by Addition, a16z, Lightspeed, Valor; Thrive, Altimeter, Terrain, Trust participated) | 2025-04-08 | Energy | Active | [^57][^58] |
+| Base Power | Series C (participated as returning investor; USD 1B at USD 4B post-money; Addition led; CapitalG, Ribbit, Spark, BOND, Lowercarbon new) | 2025-10-08 | Energy | Active | [^59][^60] |
 | Unlearn | Series C | ~2024 | AI / Healthcare | Active | [^13] |
 | Sigma | Series D | ~2024 | Data Analytics | Active | [^13] |
 | Clumio | Growth | ~2023 | Data Protection | Active | [^13] |
@@ -282,3 +283,11 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^55]: Parloa press release, "Parloa raises $120M Series C to power AI in CX," May 6, 2025, accessed July 2026. https://www.parloa.com/parloa-in-the-press/parloa-raises-120m-series-c-to-reinvent-customer-service-with-agentic-ai/ — Primary source. Confirms $120M Series C on May 6, 2025 at $1B valuation (Unicorn status); co-led by Durable Capital Partners, Altimeter Capital, and General Catalyst; EQT Ventures, RPT Capital, Senovo, and Mosaic Ventures participated; revenue quadrupled since Series B 12 months prior.
 
 [^56]: EQT Ventures, "Investor Perspective: Parloa Reaches Unicorn Status with $120M Series C," May 2025, accessed July 2026. https://stories.eqtventures.com/articles/investor-perspective-parloa-reaches-unicorn-status-with-120m-series-c — Existing-investor perspective confirming May 6, 2025 Series C; $120M at $1B valuation; co-led by Durable Capital Partners, Altimeter Capital, and General Catalyst.
+
+[^57]: BusinessWire, "Base Power Raises $200M Series B to Reinforce the Texas Power Grid," April 9, 2025 (dateline April 8, 2025). Names Altimeter among participating investors in $200M Series B co-led by Addition, Andreessen Horowitz, Lightspeed Venture Partners, and Valor Equity Partners; Thrive Capital, Altimeter, Terrain, and Trust also participated. Accessed July 8, 2026. https://www.businesswire.com/news/home/20250409624698/en/Base-Power-Raises-200M-Series-B-to-Reinforce-the-Texas-Power-Grid-Accelerate-National-Expansion-and-Build-American-Manufacturing-Capabilities
+
+[^58]: Wilson Sonsini deal advisory, "Wilson Sonsini Advises Base Power on $200 Million Series B," April 2025. Independent counsel confirmation of April 8, 2025 Series B; Altimeter named as participating investor. Accessed July 8, 2026. https://www.wsgr.com/en/insights/wilson-sonsini-advises-base-power-on-dollar200-million-series-b.html
+
+[^59]: BusinessWire, "Base Power Raises $1 Billion Series C to Build the Future of American Power," October 8, 2025. Names Altimeter among returning investors alongside Trust Ventures, Valor Equity, Thrive, Lightspeed, a16z, StepStone, Elad Gil, 137 Ventures, Terrain, Waybury; Addition led with CapitalG, Ribbit, Spark, BOND, Lowercarbon new. Accessed July 8, 2026. https://www.businesswire.com/news/home/20251008106005/en/Base-Power-Raises-1-Billion-Series-C-to-Build-the-Future-of-American-Power
+
+[^60]: TechCrunch, "Base Power raises $1B to deploy home batteries everywhere," October 8, 2025. Independent tech press confirmation of $1B Series C led by Addition; Altimeter confirmed as re-investing existing investor. Accessed July 8, 2026. https://techcrunch.com/2025/10/08/base-power-raises-1b-to-deploy-home-batteries-everywhere/

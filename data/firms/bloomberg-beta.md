@@ -106,7 +106,7 @@ This table represents a selection of Bloomberg Beta's 360+ investments. Sample d
 | Useful Sensors | Seed | ~2022 | Hardware/AI | Active [^9] |
 | Airspace Intelligence | Seed | ~2020 | AI/Aviation | Active [^9] |
 | Armstrong Robotics | Seed | 2025-10-16 | Robotics | Active [^16] |
-| Bluesky | Seed | 2025 | Social Media | Active [^9] |
+| Bluesky | Series B (USD 100M; Bain Capital Crypto led; Alumni Ventures, Anthos Capital, Bloomberg Beta, Knight Foundation, True Ventures participated) | 2025-04 | Social Media | Active [^9][^20][^21][^22] |
 | Corca | Seed (NEA led, $7.8M) | 2026-06-10 | AI/Scientific Computing | Active [^17][^18][^19] |
 
 *Note: Many years shown are approximate, based on founding year as proxy where exact investment date is unavailable. This table represents approximately 7% of Bloomberg Beta's 360+ total investments. Years marked with ~ indicate founding year used as proxy.*
@@ -167,3 +167,9 @@ Ryan Petersen, founder and CEO of Flexport: "I listened to Roy, and I really app
 [^18]: Tech Startups, "Corca raises $7.8M to build an AI-powered 'Cursor for math' and replace decades-old workflows," June 10, 2026. Independently confirms Bloomberg Beta as a participant in NEA-led $7.8M Corca seed. Accessed June 13, 2026. https://techstartups.com/2026/06/10/corca-raises-7-8m-to-build-an-ai-powered-cursor-for-math-and-replace-decades-old-workflows/
 
 [^19]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/11/2026," June 11, 2026. Third independent source confirming Bloomberg Beta participation alongside Daft Capital and NVentures. Accessed June 13, 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/
+
+[^20]: Bluesky, "Bluesky's 2025 $100M Series B Lays Foundation for Open Social Web," company blog post disclosing April 2025 Series B, March 19, 2026. Names Bloomberg Beta among participants: "In April 2025, Bluesky raised $100 million in Series B funding led by Bain Capital Crypto, with participation from Alumni Ventures, Anthos Capital, Bloomberg Beta, Knight Foundation and True Ventures." Accessed July 8, 2026. https://bsky.social/about/blog/03-19-2026-series-b
+
+[^21]: TechCrunch (Sarah Perez), "Bluesky announces $100M Series B after CEO transition," March 19, 2026. Confirms Bloomberg Beta participation in $100M Series B led by Bain Capital Crypto. Accessed July 8, 2026. https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/
+
+[^22]: The Block, "Decentralized social network Bluesky discloses $100 million Series B amid leadership change," March 20, 2026. Third independent confirmation of Bloomberg Beta as Series B participant. Accessed July 8, 2026. https://www.theblock.co/post/394460/bluesky-100-million-series-b

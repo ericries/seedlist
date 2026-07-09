@@ -1,4 +1,22 @@
 priority:
+- slug: bloomberg-beta
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-08 (sixth pass): tightened Bluesky row on bloomberg-beta.md portfolio (was "Seed | 2025 | Social Media" → now "Series B (USD 100M; Bain Capital Crypto led; Alumni Ventures, Anthos Capital, Bloomberg Beta, Knight Foundation, True Ventures participated) | 2025-04") via 3 primary sources: Bluesky company blog [^20] (2026-03-19 disclosure of the April 2025 round), TechCrunch [^21] (2026-03-19), The Block [^22] (2026-03-20). Round closed April 2025; publicly disclosed 2026-03-19 alongside CEO transition (Jay Graber to Chief Innovation Officer, Toni Schneider interim CEO). Exact day within April 2025 not disclosed in any primary source.'
+  added: 2026-07-08
+  status: resolved
+  resolved: 2026-07-08
+- slug: breakthrough-energy-ventures
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-08 (sixth pass): tightened VEIR row on breakthrough-energy-ventures.md portfolio (was "Series B | 2025 | Superconducting Transmission" → now "Series B (USD 75M oversubscribed; Munich Re Ventures led; Microsoft Climate Innovation Fund + Tyche Partners + Piva Capital + National Grid Partners + Dara Holdings + SiteGround new; BEV + VXI Capital + Congruent Ventures + Engine Ventures + Fine Structure Ventures + Galvanize Climate Solutions returned) | 2025-01-28") via 3 primary sources: BusinessWire press release [^32] (2025-01-28 dateline), Pulse 2.0 [^33] (2025-02-04), ESG Post [^34] (2025-01-29). BEV explicitly named as returning existing investor in all 3 (verbatim from ESG Post: "Existing investors such as VXI Capital, Breakthrough Energy Ventures, Congruent Ventures, Engine Ventures, Fine Structure Ventures, and Galvanize Climate Solutions also contributed").'
+  added: 2026-07-08
+  status: resolved
+  resolved: 2026-07-08
+- slug: capitalg
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-08 (sixth pass): tightened Base Power row on capitalg.md portfolio (was "Series C | 2025 | Energy" with [^54] only → now "Series C (USD 1B at USD 4B post-money; Addition led; CapitalG + Ribbit + Spark + BOND + Lowercarbon + Avenir + Glade Brook + Positive Sum + 1789 new; Trust Ventures + Valor Equity + Thrive + Lightspeed + a16z + Altimeter + StepStone + Elad Gil + 137 Ventures + Terrain + Waybury returned) | 2025-10-08") via 3 primary sources: BusinessWire company press release [^63] (2025-10-08), existing TechCrunch [^54] (2025-10-08), Built In Austin [^64] (2025-10-08). Parallel update on altimeter-capital.md replaced wrong "Growth | ~2024" entry with two accurate rows: Series B 2025-04-08 (participated) and Series C 2025-10-08 (participated as returning investor), with 4 new citations [^57][^58][^59][^60].'
+  added: 2026-07-08
+  status: resolved
+  resolved: 2026-07-08
 - slug: 500-global
   type: firm
   reason: 'Fact-spec sweep 2026-07-08: tightened three high-priority portfolio rows on 500-global.md. (1) CANVA: "Seed | 2013" → "Seed ($3M; Matrix Partners + InterWest Partners led; 500 Startups + Bill Tai + Lars Rasmussen + Ken Goldman + Paul Bassat participated) | 2013-03-20" via 3 primary sources — existing Canva Newsroom press release [^26] 2013-03-20, new TechCrunch [^38] 2013-08-26, cross-reference with startup profile canva.md. (2) WILDFIRE: "Seed | 2011" marked unresolvable — firm-level 500 Startups attribution is aggregator-only; primary press for Wildfire''s Series A/B does not name 500 Startups; Dave McClure''s Wildfire relationship dates to his 2008 fbFund role (predates 500 Startups'' 2010 founding). Row tightened inline with caveat and [^39] TechCrunch citation added. (3) MAKERBOT: "Seed | 2011" marked unresolvable — primary Series A press (TechCrunch 2011-08-23 [^40] new) names only Foundry Group, Bezos Expeditions, True Ventures, RRE, and unnamed angels; 500 Startups NOT named; likely a Dave McClure personal angel investment. MakerBot''s 2009 seed predates 500 Startups'' 2010 founding. Row tightened inline with caveat.'

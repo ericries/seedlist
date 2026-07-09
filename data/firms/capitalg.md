@@ -134,7 +134,7 @@ Based on 48 verified investments in the portfolio table below:
 | Baseten | Series E | 2026 | AI/Infrastructure | Active | [^53] |
 | Physical Intelligence | Series B | 2025 | AI/Robotics | Active | [^27] |
 | OMNIA Partners | Growth | 2025 | Enterprise/Procurement | Active | [^28] |
-| Base Power | Series C | 2025 | Energy | Active | [^54] |
+| Base Power | Series C (USD 1B at USD 4B post-money; Addition led; CapitalG, Ribbit, Spark, BOND, Lowercarbon, Avenir, Glade Brook, Positive Sum, 1789 new; Trust Ventures, Valor Equity, Thrive, Lightspeed, a16z, Altimeter, StepStone, Elad Gil, 137 Ventures, Terrain, Waybury returned) | 2025-10-08 | Energy | Active | [^54][^63][^64] |
 | Lovable | Series B | 2025 | AI/DevTools | Active | [^55] |
 | Duna | Series A | 2026 | Enterprise/Identity | Active | [^29] |
 | Bedrock Robotics | Growth | 2026 | AI/Robotics | Active | [^27] |
@@ -244,3 +244,7 @@ Robinhood's team stated: "CapitalG provided our team with significant access to 
 [^61]: GlobeNewswire, "AlphaSense Raises $350M at $7.5B Valuation, and Surpasses $600M in Annual Recurring Revenue," June 3, 2026. Accessed June 2026. https://www.globenewswire.com/news-release/2026/06/03/3305968/0/en/AlphaSense-Raises-350M-at-7-5B-Valuation-and-Surpasses-600M-in-Annual-Recurring-Revenue.html — Wire-distributed press release confirming June 3, 2026 announcement with CapitalG listed among existing investors.
 
 [^62]: FinSMEs, "AlphaSense Raises $350M, at $7.5B Valuation," June 2026. Accessed June 2026. https://www.finsmes.com/2026/06/alphasense-raises-350m-at-7-5b-valuation.html — Independent press confirmation listing CapitalG, Goldman Sachs Alternatives, and Viking Global Investors as existing investors participating in the round.
+
+[^63]: BusinessWire, "Base Power Raises $1 Billion Series C to Build the Future of American Power," company press release, October 8, 2025. Confirms $1B Series C led by Addition with CapitalG among new major investors alongside Ribbit, Spark, BOND, Lowercarbon, Avenir, Glade Brook, Positive Sum, and 1789. Accessed July 8, 2026. https://www.businesswire.com/news/home/20251008106005/en/Base-Power-Raises-1-Billion-Series-C-to-Build-the-Future-of-American-Power
+
+[^64]: Built In Austin, "Austin's Base Power Raises $1B Series C, Announces New Factory," October 8, 2025. Third independent source confirming CapitalG's participation as a new investor. Accessed July 8, 2026. https://www.builtinaustin.com/articles/austins-base-power-raises-1-billion-series-c-funding-20251008

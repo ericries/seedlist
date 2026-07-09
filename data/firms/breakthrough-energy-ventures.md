@@ -126,7 +126,7 @@ This table represents approximately 25% of BEV's 120+ portfolio organizations. O
 | Zap Energy | Early Stage | ~2020 | Fusion Energy | Active [^15] |
 | Heart Aerospace | Early Stage | ~2021 | Electric Aviation | Active [^15] |
 | Antora Energy | Early Stage | ~2021 | Thermal Batteries | Active [^15] |
-| VEIR | Series B | 2025 | Superconducting Transmission | Active [^5] |
+| VEIR | Series B (USD 75M oversubscribed; Munich Re Ventures led; Microsoft Climate Innovation Fund, Tyche Partners, Piva Capital, National Grid Partners, Dara Holdings, SiteGround new; BEV, VXI Capital, Congruent Ventures, Engine Ventures, Fine Structure Ventures, Galvanize Climate Solutions returned) | 2025-01-28 | Superconducting Transmission | Active [^5][^32][^33][^34] |
 | 75F | Series B | ~2022 | Smart Buildings | Active [^26] |
 | Electra | Early Stage | ~2021 | Green Steel | Active [^15] |
 | Mill | Early Stage | ~2022 | Food Waste Recycling | Active [^15] |
@@ -201,3 +201,9 @@ No additional independently sourced founder testimonials found. The firm's portf
 [^29]: CNBC, "Bill Gates' climate-investment firm will put more money into adapting to climate change," 2022, accessed March 2026. https://www.cnbc.com/2022/10/25/bill-gates-climate-tech-investing-company-bev-moving-into-adaptation.html
 [^30]: Breakthrough Energy on X, "Energy is Prosperity," accessed March 2026. https://x.com/Breakthrough/status/1996263568896123306
 [^31]: MCJ Podcast, "Episode 153: Val Miftakhov, Co-Founder & CEO of ZeroAvia," accessed March 2026. https://mcj.vc/inevitable-podcast/val-miftakhov
+
+[^32]: BusinessWire, "VEIR Closes $75M Series B to Deliver Superconducting Solutions for AI Data Centers and High-Capacity Power Lines, Driving Grid Resilience and Global Decarbonization," January 28, 2025 press release. Confirms Munich Re Ventures led, with existing investors "VXI Capital, Breakthrough Energy Ventures, Congruent Ventures, Engine Ventures, Fine Structure Ventures, and Galvanize Climate Solutions" also contributing. Accessed July 8, 2026. https://www.businesswire.com/news/home/20250128084337/en/VEIR-Closes-75M-Series-B-to-Deliver-Superconducting-Solutions-for-AI-Data-Centers-and-High-Capacity-Power-Lines-Driving-Grid-Resilience-and-Global-Decarbonization
+
+[^33]: Pulse 2.0, "VEIR Superconducting Power Company Raises $75 Million Series B," February 4, 2025. Independent confirmation of Breakthrough Energy Ventures as returning Series B participant. Accessed July 8, 2026. https://pulse2.com/veir-superconducting-power-company-raises-75-million-series-b/
+
+[^34]: ESG Post, "VEIR raises USD 75M to accelerate superconducting power for data centres," January 29, 2025. Third independent source naming Breakthrough Energy Ventures among existing Series B investors. Accessed July 8, 2026. https://esgpost.com/veir-superconducting-power-data-centres/
