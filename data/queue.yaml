@@ -37131,3 +37131,51 @@ queue:
   firm: Cyllene Therapeutics
   discovered_from: cyllene-therapeutics
   source: President & CEO of Cyllene Therapeutics (founder profile source)
+- name: Earlybird
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quantumdiamonds
+- name: First Momentum Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quantumdiamonds
+- name: British Business Bank
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alchemab-therapeutics
+- name: SV Health Investors
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alchemab-therapeutics
+- name: British Patient Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alchemab-therapeutics
+- name: Creator Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quantumdiamonds
+- name: Onsight Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quantumdiamonds
+- name: UnternehmerTUM
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quantumdiamonds
