@@ -165863,7 +165863,9 @@ vague_facts:
   line: '| Reeco | Seed | 2024 | Hospitality | Active | [^9] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: CORRECTED Reeco row on aleph.md — the round labeled "Seed | 2024" was actually the Series A led by Aleph on 2025-01-15 (USD 15M; Net Capital Ventures and Joule Ventures participated). Aleph was NOT named in the prior 2023-03-28 USD 10M seed (led by Net Capital Ventures and Joule Ventures). Verified via 3 primary sources: (1) PR Newswire company press release [^27] 2025-01-15 (primary source; Tomer Diari Aleph GP quoted), (2) Calcalist / CTech [^28] 2025-01-15 (independent Israeli tech press), (3) Refresh Miami [^29] 2025-01-15 (independent Miami-area press; CEO Henrik Shimony quote). Company founded 2021 by Henrik Shimony and Omri Shalev in Israel; US HQ Miami since 2022. Total funding to date USD 25M. Also confirmed via PR Newswire 2023-03-28 seed announcement [https://www.prnewswire.com/news-releases/reeco-raises-10m-for-ai-solution-that-helps-hotels-tackle-systemic-procurement-and-supply-chain-issues-301783266.html] that Aleph was NOT named in the 2023 seed round.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: OpenAI
@@ -165930,7 +165932,9 @@ vague_facts:
   line: '| Cerebras | Series H | ~2025 | AI Chips | Active | [^13] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Cerebras row on altimeter-capital.md from "Series H | ~2025" to "Series H (USD 1B at USD 23B post-money; Tiger Global led; participated alongside Benchmark, Fidelity Management & Research Company, Atreides Management, Alpha Wave Global, AMD, Coatue, and 1789 Capital) | 2026-02-03" via 3 primary sources: (1) Cerebras Systems company press release [^61] dated 2026-02-03 (primary source), (2) Data Center Dynamics [^62] 2026-02-05 independent industry press, (3) FNEX [^63] 2026-02-10 independent press. All three sources explicitly name Altimeter among participants. Round follows previously announced USD 10B commercial agreement with OpenAI (750 MW compute capacity by 2028).
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Nexthop AI
@@ -165940,7 +165944,9 @@ vague_facts:
   line: '| Nexthop AI | Growth | 2026 | AI Networking | Active | [^13] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Nexthop AI row on altimeter-capital.md from "Growth | 2026" to "Series B (USD 500M at USD 4.2B post-money; Lightspeed Venture Partners led; Andreessen Horowitz participated; Altimeter participated) | 2026-03-10" via 3 primary sources: (1) Nexthop AI company press release [^64] dated 2026-03-10 (primary source), (2) Pulse 2 [^65] 2026-03-10 independent press, (3) TAMradar [^66] 2026-03-10. All three explicitly name Altimeter as participant. Founded 2024 by former Arista Networks COO Anshul Sadana; Santa Clara-based; AI/cloud data center networking.
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Base Power

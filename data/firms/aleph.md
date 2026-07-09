@@ -119,7 +119,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | Ply | Seed | 2021 | Developer Tools | Active | [^9] |
 | Q | Seed | 2022 | Deep Tech | Acquired by Apple | [^9] |
 | Raftt | Seed | 2021 | Developer Tools | Acquired by Wiz | [^9] |
-| Reeco | Seed | 2024 | Hospitality | Active | [^9] |
+| Reeco | Series A (USD 15M; Aleph led; Net Capital Ventures and Joule Ventures participated. Aleph NOT named in prior 2023-03-28 USD 10M seed led by Net Capital Ventures and Joule Ventures) | 2025-01-15 | Hospitality | Active | [^9] [^27] [^28] [^29] |
 | RiseUp | Seed | ~2017 | Fintech / Education | Active | [^9] |
 | SecuriThings | Series A | ~2020 | Cybersecurity | Active | [^9] |
 | Sequence | Seed Extension | 2025-05-27 | Fintech | Active | [^9] [^20] [^21] |
@@ -222,3 +222,9 @@ No additional independently sourced founder testimonials found beyond the Aleph 
 [^25]: OHR company website, investors and product pages, accessed July 2026. https://ohr.xyz — Confirms Aleph, Deep33 Ventures, Standard Industries, XTX Markets, KDM Partners, Yasmin Lukatz, 202 Ventures, and Clocktower Ventures as investors; discloses ~$30M raised across pre-seed and seed but does not break out individual round dates or amounts.
 
 [^26]: Aleph portfolio page for OHR, accessed July 2026. https://aleph.vc/companies/ohr — Confirms Aleph's Entry Round as "Seed" and identifies co-founder & CEO Dan Davidi (former Aleph EIR from January 2023). Note: no primary press release, tier-1 coverage, or Aleph blog post covers a discretely dated OHR seed round; the company was publicly unveiled via an Aleph LinkedIn post ~January 2025. Row date left as approximate window pending a datable primary source.
+
+[^27]: PR Newswire, "Reeco Raises $15M Series A Round to Modernize Hotel Procurement with AI-Driven Procure-to-Pay Platform," January 15, 2025, accessed July 9, 2026. https://www.prnewswire.com/news-releases/reeco-raises-15m-series-a-round-to-modernize-hotel-procurement-with-ai-driven-procure-to-pay-platform-302351873.html — Primary source (company-issued press release). Confirms January 15, 2025 announcement of $15M Series A led by Aleph VC with Net Capital Ventures and Joule Ventures participating. Tomer Diari (Aleph GP) quoted. Total funding to date $25M (prior $10M seed).
+
+[^28]: Calcalist / CTech, "Reeco raises $15M Series A to modernize hotel procurement," January 15, 2025, accessed July 9, 2026. https://www.calcalistech.com/ctechnews/article/skp0csnpke — Independent Israeli tech press confirmation of January 15, 2025 announcement; $15M Series A led by Aleph VC; Net Capital Ventures and Joule Ventures participated.
+
+[^29]: Refresh Miami, "Reeco raises $15M to modernize hotel procurement," January 15, 2025, accessed July 9, 2026. https://refreshmiami.com/news/reeco-raises-15m-to-modernize-hotel-procurement/ — Independent Miami-area tech press confirmation of Series A. CEO Henrik Shimony quote: "Managing a hotel's six-figure purchases with outdated tools made no sense." Confirms $10M seed round in 2023 (bringing total to $25M) plus $15M Series A led by Aleph VC with Net Capital Ventures and Joule Ventures participating.
