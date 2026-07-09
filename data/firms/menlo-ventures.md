@@ -121,6 +121,8 @@ Based on Menlo Ventures' verified portfolio data:
 | Nectar Social | Series A (led, Anthology Fund) | 2026-05-14 | AI / MarTech / Social Commerce | Private [^20] |
 | OpenRouter | Series B (follow-on, $113M at $1.3B val; CapitalG led) | 2026-05-26 | AI / LLM Infrastructure | Private [^21] |
 | Westmag | Seed (participated, $11M; Andreessen Horowitz led) | 2026-06-02 | Hardware / Robotics / Drones | Private [^22][^23][^24][^25] |
+| Skild | Series A (participated, $300M at $1.5B val; Lightspeed/Coatue/SoftBank/Bezos led) | 2024-07-09 | AI / Robotics Foundation Model | Private [^27][^28] |
+| Lovable | Series B (co-led via Anthology Fund with CapitalG, $330M at $6.6B val) | 2025-12-18 | AI / Developer Tools / Vibe Coding | Private [^29][^30][^31] |
 
 *This table represents a small fraction of Menlo's 466 total investments. The firm has produced 85+ public companies and 170+ M&A exits [^2].*
 
@@ -169,3 +171,13 @@ No independently sourced founder testimonials found.
 [^25]: The AI Insider, "Westmag Emerges From Stealth With $11M in Seed Funding for American-Made Drone Motors and Robot Actuators," June 3, 2026. Accessed June 2026. https://theaiinsider.tech/2026/06/03/westmag-emerges-from-stealth-with-11-million-seed-in-funding-led-by-andreessen-horowitz-for-american-made-drone-motors-and-robot-actuators/ — Independent press confirmation of Menlo Ventures participation alongside Founders Fund, Lux Capital, and NFDG.
 
 [^26]: Forbes (Alex Konrad), "Inside AI Unicorn Anthropic's Unusual $750 Million Fundraise," January 11, 2024. Accessed July 2026. https://www.forbes.com/sites/alexkonrad/2024/01/11/anthropic-750million-funding-round-menlo-ventures/ — Primary contemporaneous press naming Menlo Ventures as lead of Anthropic's $750M Series D at $18.4B post-money valuation via SPV "Menlo Inflection AI Partners" (~$500M through SPV, ~$250M from Menlo's own fund and firm insiders). Cross-referenced with Menlo Ventures' own blog "Tripling Down on Anthropic," https://menlovc.com/perspective/tripling-down-on-anthropic-why-were-excited-to-continue-investing-in-the-leader-in-the-future-of-ai/, and Crunchbase News "Menlo Ventures Looks To Add To Growing AI Portfolio With New Anthropic Partnership," https://news.crunchbase.com/ai/menlo-ventures-portfolio-anthropic-anthology/.
+
+[^27]: Skild AI blog, "Announcing our $300M Series A Funding," July 9, 2024. Accessed July 2026. https://www.skild.ai/blogs/announcing-our-300m-series-a — Startup's own announcement naming Menlo Ventures as participant alongside lead investors Lightspeed, Coatue, SoftBank, and Bezos Expeditions, plus Felicis, Sequoia, General Catalyst, CRV, SV Angel, Amazon Industrial Innovation Fund, and Alexa Fund.
+
+[^28]: BusinessWire, "Skild AI Raises $300M Series A To Build A Scalable AI Foundation Model For Robotics," July 9, 2024. Accessed July 2026. https://www.businesswire.com/news/home/20240709306400/en/Skild-AI-Raises-%24300M-Series-A-To-Build-A-Scalable-AI-Foundation-Model-For-Robotics — Contemporaneous press release confirming $300M at $1.5B valuation with Menlo Ventures as participant.
+
+[^29]: Menlo Ventures, "Software Creation for All: Leading Lovable's $330M Series B," by Matt Murphy, Joff Redfern, and Sam Borja, December 18, 2025. Accessed July 2026. https://menlovc.com/perspective/software-creation-for-all-leading-lovables-330m-series-b/ — Menlo's own announcement confirming Anthology Fund co-led Lovable's Series B alongside CapitalG.
+
+[^30]: Lovable blog, "Lovable raises $330M to power the age of the builder," December 18, 2025. Accessed July 2026. https://lovable.dev/blog/series-b — Startup's own announcement confirming $330M Series B at $6.6B valuation co-led by CapitalG and Menlo Ventures' Anthology Fund, with NVentures, Salesforce Ventures, Databricks Ventures, T.Capital, Atlassian Ventures, HubSpot Ventures, Khosla Ventures, DST Global, EQT Growth, Kinship Ventures, and returning backers Accel, Creandum, and Evantic.
+
+[^31]: TechCrunch, "Vibe-coding startup Lovable raises $330M at a $6.6B valuation," December 18, 2025. Accessed July 2026. https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/ — Contemporaneous tier-1 press confirming the round details.

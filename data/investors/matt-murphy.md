@@ -3,9 +3,9 @@ check_size: $250K-$15M (early stage); $20M-$40M (inflection stage)
 firm: menlo-ventures
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Cleanlab
-  date: 2023-10-11
-  round: Series A ($25M, co-led with TQ Ventures)
+  company: Grow Therapy
+  date: 2026-03-03
+  round: Series D ($150M, participated; TCV and Goldman Sachs Alternatives co-led)
 location: San Francisco, CA
 name: Matt Murphy
 role: Managing Director / Partner
@@ -91,28 +91,28 @@ The analysis below is based on Murphy's publicly listed portfolio on the Menlo V
 |---------|------|-------|--------|
 | Anthropic | 2023-2025 | Series D/E (Board Observer) | [^1][^6] |
 | Alloy.AI | 2018 | Seed/Series A ($12M, led) | [^1] |
-| Benchling | — | Growth | [^1] |
-| Canvas | — | Early | [^1] |
-| Clarifai | — | Early | [^1] |
-| Carta | — | Growth | [^1] |
-| Envoy | — | Growth | [^1] |
-| Harness | — | Growth | [^1] |
-| HOVER | — | Growth | [^1] |
-| Mimic | — | Early | [^1] |
-| Netlify | — | Growth | [^1] |
-| Observable | — | Early | [^1] |
-| OpenRouter | — | Early | [^1] |
-| Relyance.ai | — | Early | [^1] |
-| Semgrep | — | Early | [^1] |
-| Skild | — | Early | [^1] |
-| True Anomaly | — | Early | [^1] |
-| Vivun | — | Early | [^1] |
-| Zylo | — | Early | [^1] |
-| Lovable | — | Seed | [^1] |
-| Typeface | — | Early | [^1] |
-| Finch | — | Early | [^1] |
-| Grow Therapy | — | Growth | [^1] |
-| Turing | — | Growth | [^1] |
+| Benchling | 2019 | Series C | [^1] |
+| Canvas | 2021 | Series B (Acquired by JLG Industries, 2026) | [^1] |
+| Clarifai | 2016 | Series B | [^1] |
+| Carta | 2017 | Series C | [^1] |
+| Envoy | 2018 | Series B | [^1] |
+| Harness | 2017 | Series A | [^1] |
+| HOVER | 2019 | Series C | [^1] |
+| Mimic | 2024 | Seed | [^1] |
+| Netlify | 2021-11-17 | Series D ($105M, participated; Bessemer led) | [^1][^16] |
+| Observable | 2021 | Series B | [^1] |
+| OpenRouter | 2025 | Seed | [^1] |
+| Relyance.ai | 2021 | Series A | [^1] |
+| Semgrep | 2024 | Series D | [^1] |
+| Skild | 2024-07-09 | Series A ($300M, participant; $1.5B valuation) | [^1][^8][^9] |
+| True Anomaly | 2023 | Series B (subsequent Series D 2026-04-28) | [^1] |
+| Vivun | 2020 | Series B | [^1] |
+| Zylo | 2019 | Series B | [^1] |
+| Lovable | 2025-12-18 | Series B ($330M, co-led via Anthology Fund with CapitalG; $6.6B valuation) | [^1][^10][^11][^12] |
+| Typeface | 2023 | Series A | [^1] |
+| Finch | 2020 | Seed | [^1] |
+| Grow Therapy | 2026-03-03 | Series D ($150M, participated; TCV + Goldman Sachs Alternatives co-led; $3B valuation) | [^1][^13][^14][^15] |
+| Turing | 2025 | Series E | [^1] |
 | Airbase | 2021 | Series B ($60M, led; Acquired by Paylocity, 2024) | [^1] |
 | Cleanlab | 2023 | Series A ($25M, co-led; Acquired by Handshake, 2026) | [^1] |
 | FireHydrant | 2020 | Series A ($8M, led; Acquired by Freshworks, 2026) | [^1] |
@@ -120,12 +120,12 @@ The analysis below is based on Murphy's publicly listed portfolio on the Menlo V
 | 6 River Systems | 2018 | Series B ($25M, led; Acquired by Shopify, 2019) | [^1] |
 | Scout RFP | 2017 | Series B ($15.5M, led; Acquired by Workday, 2019) | [^1] |
 | Usermind | 2016 | Series B ($14.5M, led; Acquired by Qualtrics, 2021) | [^1] |
-| Veriflow | — | Early (Acquired by VMware) | [^1] |
+| Veriflow | ~2017 (founding-year proxy; Acquired by VMware 2019) | Early | [^1] |
 | DocuSign | ~2010 | Early (Kleiner Perkins; NASDAQ: DOCU) | [^1] |
 | AppDynamics | ~2010 | Early (Kleiner Perkins; Acquired by Cisco) | [^1] |
 | Upstart | ~2014 | Early (Kleiner Perkins; NASDAQ: UPST) | [^1] |
 
-*This table covers Murphy's publicly listed investments at Menlo Ventures (28 companies) plus select Kleiner Perkins investments (3 shown of 15+ at KP). Most Menlo investments lack publicly confirmed initial investment years.*
+*This table covers Murphy's publicly listed investments at Menlo Ventures (28 companies) plus select Kleiner Perkins investments (3 shown of 15+ at KP). Investment years derive from the "Investments" table on Menlo's Matt Murphy team page [^1], which lists the round Matt Murphy joined and its year for each active board seat; specific press-release-confirmed dates are noted for Skild, Lovable, Grow Therapy, and Netlify Series D.*
 
 ## In Their Own Words
 
@@ -156,3 +156,12 @@ No independently sourced founder testimonials found. Murphy's eight acquisitions
 [^5]: CNBC, "Making deals with Menlo Ventures' Matt Murphy," March 2025, accessed March 2026. https://www.cnbc.com/video/2025/03/28/making-deals-with-menlo-ventures-matt-murphy.html
 [^6]: Menlo Ventures, "Tripling Down on Anthropic: Why We're Excited to Continue Investing in the Leader in the Future of AI," accessed March 2026. https://menlovc.com/perspective/tripling-down-on-anthropic-why-were-excited-to-continue-investing-in-the-leader-in-the-future-of-ai/
 [^7]: CNBC, "Anthropic launches $100 million AI fund with Menlo Ventures," July 2024, accessed March 2026. https://www.cnbc.com/2024/07/17/anthropic-menlo-ventures-launch-100-million-anthology-fund-for-ai.html
+[^8]: Skild AI blog, "Announcing our $300M Series A Funding," July 9, 2024, accessed July 2026. https://www.skild.ai/blogs/announcing-our-300m-series-a — Names Menlo Ventures among participating investors alongside Lightspeed, Coatue, SoftBank, and Bezos Expeditions (lead investors), plus Felicis Ventures, Sequoia, General Catalyst, CRV, SV Angel, Carnegie Mellon University, and the Amazon Industrial Innovation Fund & Alexa Fund.
+[^9]: BusinessWire, "Skild AI Raises $300M Series A To Build A Scalable AI Foundation Model For Robotics," July 9, 2024, accessed July 2026. https://www.businesswire.com/news/home/20240709306400/en/Skild-AI-Raises-%24300M-Series-A-To-Build-A-Scalable-AI-Foundation-Model-For-Robotics — Contemporaneous primary press release confirming $300M Series A at $1.5B valuation with Menlo Ventures as participant.
+[^10]: Menlo Ventures, "Software Creation for All: Leading Lovable's $330M Series B," by Matt Murphy, Joff Redfern, and Sam Borja, December 18, 2025, accessed July 2026. https://menlovc.com/perspective/software-creation-for-all-leading-lovables-330m-series-b/ — Menlo's own announcement confirming Matt Murphy co-led Lovable's Series B via the Anthology Fund alongside CapitalG.
+[^11]: Lovable blog, "Lovable raises $330M to power the age of the builder," December 18, 2025, accessed July 2026. https://lovable.dev/blog/series-b — Startup's own announcement confirming $330M Series B at $6.6B valuation co-led by CapitalG and Menlo Ventures' Anthology Fund.
+[^12]: TechCrunch, "Vibe-coding startup Lovable raises $330M at a $6.6B valuation," December 18, 2025, accessed July 2026. https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/ — Contemporaneous tier-1 press confirming Lovable Series B details.
+[^13]: PR Newswire, "Grow Therapy Raises $150 Million in Series D as It Solidifies New Flagship Partnerships," March 3, 2026, accessed July 2026. https://www.prnewswire.com/news-releases/grow-therapy-raises-150-million-in-series-d-as-it-solidifies-new-flagship-partnerships-302702388.html — Primary press release confirming Menlo Ventures participation in Grow Therapy's $150M Series D on March 3, 2026.
+[^14]: Bloomberg, "Mental Health Startup Grow Therapy Hits $3 Billion Valuation," March 3, 2026, accessed July 2026. https://www.bloomberg.com/news/articles/2026-03-03/mental-health-startup-grow-therapy-hits-3-billion-valuation — Tier-1 press confirming the round.
+[^15]: Behavioral Health Business, "With $1B in Revenue, Grow Therapy Lands $150M Series D," March 3, 2026, accessed July 2026. https://bhbusiness.com/2026/03/03/with-1b-in-revenue-grow-therapy-lands-150m-series-d/ — Independent industry press confirming Menlo Ventures among participants.
+[^16]: Netlify press release, "Netlify Raises $105 Million to Transform Development for the Modern Web," November 17, 2021, accessed July 2026. https://www.netlify.com/press/netlify-raises-usd105-million-to-transform-development-for-the-modern-web/ — Primary press release confirming Menlo Ventures as an existing investor participating in Netlify's $105M Series D on 2021-11-17 (led by Bessemer at $2B valuation).
