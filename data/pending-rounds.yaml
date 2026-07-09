@@ -38,15 +38,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Alchemab Therapeutics secures €29.3 million as British Business Bank makes
-    its largest life sciences investment yet
-  url: https://www.eu-startups.com/2026/07/londons-alchemab-therapeutics-secures-e29-3-million-as-british-business-bank-makes-its-largest-life-sciences-investment-yet/
-  source: eu-startups
-  date_found: '2026-07-09'
-  parsed_company: Alchemab Therapeutics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Popular open source AI developer tool Ollama raises $65M, grows to nearly
     9M users
   url: https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
@@ -71,6 +62,22 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-09'
   parsed_company: University of Sheffield spin-out Pixel-Flo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia
+  url: https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/
+  source: techcrunch
+  date_found: '2026-07-09'
+  parsed_company: Paris-based AI voice startup Gradium
+  parsed_amount: $100M
+  parsed_round: Seed
+  status: pending
+- title: The AlleyWatch June 2026 New York Venture Capital Funding Report
+  url: https://alleywatch.com/2026/07/new-york-venture-capital-june-2026/
+  source: alleywatch
+  date_found: '2026-07-09'
+  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -153,15 +160,6 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Prime Intellect raises $130M Series A to help enterprises build their own
-    AI agents
-  url: https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
-  source: techcrunch
-  date_found: '2026-07-08'
-  parsed_company: Prime Intellect
-  parsed_amount: $130M
-  parsed_round: Series A
   status: pending
 - title: Lisbon-based BIZAY raises €48.7 million Series D; set to surpass €88.6 million
     revenue and reach profitability
