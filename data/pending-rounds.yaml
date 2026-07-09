@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Munich’s QuantumDiamonds raises €91 million to scale its quantum-based semiconductor
+    inspection technology
+  url: https://www.eu-startups.com/2026/07/munichs-quantumdiamonds-raises-e91-million-to-scale-its-quantum-based-semiconductor-inspection-technology/
+  source: eu-startups
+  date_found: '2026-07-09'
+  parsed_company: Munich’s QuantumDiamonds
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last
     mega round
   url: https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
@@ -99,6 +108,15 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
+  status: pending
+- title: Prime Intellect raises $130M Series A to help enterprises build their own
+    AI agents
+  url: https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
+  source: techcrunch
+  date_found: '2026-07-08'
+  parsed_company: Prime Intellect
+  parsed_amount: $130M
+  parsed_round: Series A
   status: pending
 - title: Lisbon-based BIZAY raises €48.7 million Series D; set to surpass €88.6 million
     revenue and reach profitability
