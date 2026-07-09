@@ -9186,7 +9186,7 @@
       "name": "The Marketplace Playbook",
       "tagline": "They understand liquidity, take rates, and chicken-and-egg problems better than anyone. The investors who wrote the book on two-sided marketplaces.",
       "type": "curated",
-      "size": 20,
+      "size": 21,
       "members": [
         {
           "slug": "alfred-lin",
@@ -9285,6 +9285,11 @@
           "slug": "florian-hagenbuch",
           "name": "Florian Hagenbuch",
           "firm": "loft"
+        },
+        {
+          "slug": "apoorva-mehta",
+          "name": "Apoorva Mehta",
+          "firm": "cloud-health-systems"
         }
       ]
     },
@@ -9357,7 +9362,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 39,
+      "size": 40,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9536,6 +9541,11 @@
         {
           "slug": "harry-stebbings",
           "name": "Harry Stebbings"
+        },
+        {
+          "slug": "andi-kazeroonian",
+          "name": "Andi Kazeroonian",
+          "firm": "outward-vc"
         }
       ]
     },
@@ -9612,7 +9622,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 134,
+      "size": 136,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10220,6 +10230,16 @@
           "slug": "clem-delangue",
           "name": "Cl\u00e9ment Delangue",
           "firm": "hugging-face"
+        },
+        {
+          "slug": "harj-taggar",
+          "name": "Harj Taggar",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "apoorva-mehta",
+          "name": "Apoorva Mehta",
+          "firm": "cloud-health-systems"
         }
       ]
     },
@@ -10337,7 +10357,7 @@
       "name": "The YC Network",
       "tagline": "Y Combinator partners and the investors who consistently back YC's best. When a YC company raises, these names are on the cap table.",
       "type": "curated",
-      "size": 13,
+      "size": 14,
       "members": [
         {
           "slug": "alfred-lin",
@@ -10400,6 +10420,11 @@
         {
           "slug": "pete-koomen",
           "name": "Pete Koomen"
+        },
+        {
+          "slug": "harj-taggar",
+          "name": "Harj Taggar",
+          "firm": "y-combinator"
         }
       ]
     },
@@ -10501,7 +10526,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios \u2014 they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 32,
+      "size": 34,
       "members": [
         {
           "slug": "boris-wertz",
@@ -10652,6 +10677,16 @@
         {
           "slug": "marten-mickos",
           "name": "M\u00e5rten Mickos"
+        },
+        {
+          "slug": "harj-taggar",
+          "name": "Harj Taggar",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "apoorva-mehta",
+          "name": "Apoorva Mehta",
+          "firm": "cloud-health-systems"
         }
       ]
     },
@@ -10729,7 +10764,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 59,
+      "size": 60,
       "members": [
         {
           "slug": "aileen-lee",
@@ -11018,6 +11053,11 @@
           "slug": "megan-lightcap",
           "name": "Megan Lightcap",
           "firm": "slow-ventures"
+        },
+        {
+          "slug": "andi-kazeroonian",
+          "name": "Andi Kazeroonian",
+          "firm": "outward-vc"
         }
       ]
     },
@@ -11535,7 +11575,7 @@
       "name": "The YC Alumni Network",
       "tagline": "They built companies through Y Combinator, then crossed to the investor side. The YC network is the most powerful alumni network in startups \u2014 and they're proof.",
       "type": "curated",
-      "size": 35,
+      "size": 37,
       "members": [
         {
           "slug": "alexis-ohanian",
@@ -11708,6 +11748,16 @@
           "slug": "tikhon-bernstam",
           "name": "Tikhon Bernstam",
           "firm": "independent"
+        },
+        {
+          "slug": "harj-taggar",
+          "name": "Harj Taggar",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "apoorva-mehta",
+          "name": "Apoorva Mehta",
+          "firm": "cloud-health-systems"
         }
       ]
     },
@@ -11716,7 +11766,7 @@
       "name": "The Decacorn Club",
       "tagline": "Backed three or more companies worth $10B+. When the biggest outcomes in tech history were being funded, these investors were in the room.",
       "type": "curated",
-      "size": 43,
+      "size": 44,
       "members": [
         {
           "slug": "alfred-lin",
@@ -11927,6 +11977,11 @@
           "slug": "florian-hagenbuch",
           "name": "Florian Hagenbuch",
           "firm": "loft"
+        },
+        {
+          "slug": "apoorva-mehta",
+          "name": "Apoorva Mehta",
+          "firm": "cloud-health-systems"
         }
       ]
     },
