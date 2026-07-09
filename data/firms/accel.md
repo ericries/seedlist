@@ -185,11 +185,11 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Facebook (Meta) | Series A ($12.7M, led at $87.5M post-money; Jim Breyer joined board) | 2005-05-26 | Consumer/Social | [^6][^20][^fbcrimson] |
-| Slack | Seed | 2009 | Enterprise | [^6][^17] |
+| Slack (Tiny Speck) | Seed ($1.5M; Accel + Andreessen Horowitz + angels — Andrew Braccia partner; first institutional check into Butterfield's Glitch game project, which later pivoted to Slack) | 2009 (exact month not publicly disclosed) | Enterprise | [^6][^17][^123][^124] |
 | Dropbox | Series A ($6M, Sequoia-led; Accel participated via Sameer Gandhi) | 2008-10 | Cloud/Consumer | [^6][^18][^19][^db-tc] |
 | Spotify | Series C ($100M at ~$1B valuation; DST Global led; Kleiner Perkins + Accel participated — Accel's initial investment via Sameer Gandhi and Sonali De Rycker) | 2011-06-17 | Consumer/Music | [^6][^21][^22][^119] |
 | Atlassian | Growth ($60M, led; Rich Wong joined board — first outside financing) | 2010-07-14 | Enterprise | [^6][^23][^24][^atl-vcj] |
-| Flipkart | Seed ($800K) | 2008 | E-commerce | [^6][^25][^26] |
+| Flipkart | Seed ($800K; Accel-led — Subrata Mitra partner; deployed from Accel's newly-raised $65M India seed & Series A fund) | 2008 (exact month not publicly disclosed) | E-commerce | [^6][^25][^26] |
 | CrowdStrike | Series B ($30M, led; Warburg Pincus participated; Sameer Gandhi joined board) | 2013-09-09 | Cybersecurity | [^6][^27][^28][^114] |
 | Qualtrics | Series A ($70M, co-led with Sequoia — largest joint investment; Ryan Sweeney + Bryan Schreier joined board) | 2012-05-15 | Enterprise | [^6][^29][^30][^115] |
 | Etsy | Series D ($27M, led; Union Square Ventures + Hubert Burda Media participated; Jim Breyer joined board) | 2008-01-30 | E-commerce | [^6][^31][^32][^116] |
@@ -209,7 +209,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Synthesia | Series E ($200M, participated) | 2026-01-26 | AI/Video | [^65][^66] |
 | Cyera | Series B (led, $100M at $500M post-money) | 2023-06-27 | AI/Cybersecurity | [^9][^67][^68][^69] |
 | DJI | Early | 2013 | Hardware/Drones | [^6] |
-| Cloudera | Series A | 2008 | Data/Enterprise | [^6] |
+| Cloudera | Series A ($5M; Accel led — Ping Li partner; angel participants included Diane Greene (VMware), Caterina Fake (Flickr), Mike Abbott (Palm), Qi Lu (Microsoft), Marten Mickos (MySQL), Jeff Weiner (LinkedIn), Gideon Yu (Facebook)) | 2009-03-16 | Data/Enterprise | [^6][^125][^126][^127] |
 | Vox Media | Early | 2011 | Media | [^6] |
 | MoPub | Early | 2010 | Advertising | [^6] |
 
@@ -473,3 +473,13 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^121]: DealStreetAsia, "India: Quick commerce startup FirstClub raises $23m led by Accel, RTP Global," September 4, 2025. Accessed July 2026. https://www.dealstreetasia.com/stories/commerce-firstclub-accel-rtp-455118 — Contemporaneous confirmation naming Accel and RTP Global as the lead investors on FirstClub's $23M Series A.
 
 [^122]: RTP Global (co-lead) portfolio-company post, "FirstClub Raises $23M to Expand Quality-First Quick Commerce," September 2025. Accessed July 2026. https://rtp.vc/firstclub-raises-23m-to-expand-quality-first-quick-commerce/ — Primary source from the co-lead confirming $23M Series A with Accel + RTP Global co-leading and Blume Founders Fund, 2am VC, Paramark Ventures, and Aditya Birla Ventures participating.
+
+[^123]: Ron Miller, "The Slack origin story," TechCrunch, May 30, 2019. Accessed July 2026. https://techcrunch.com/2019/05/30/the-slack-origin-story/ — First-person account of Slack's founding as Tiny Speck in 2009. Confirms "Andrew Braccia of Accel and John O'Farrell of Andreessen Horowitz were the first to put institutional capital" into Butterfield's project, investing across the seed round, Series A, and Series B. Braccia later became a key supporter during Slack's pivot from Glitch (the game) to Slack (the enterprise product). Per Slack's S-1 filing, Accel owned a 24% stake worth approximately USD 1.8B at IPO.
+
+[^124]: Erica Perez, "Online game company Tiny Speck raises $5M," VatorNews, April 1, 2010. Accessed July 2026. https://vator.tv/2010-04-01-online-game-company-tiny-speck-raises-5m/ — Confirms the Series A closed 2010-04-01 at USD 5M led by Accel Partners with Andreessen Horowitz participating, and references the prior USD 1.5M 2009 seed round from Accel, Andreessen, and angels — the same institutional consortium that funded the initial 2009 seed.
+
+[^125]: Leena Rao, "Cloudera Raises $5 Million Series A Round For Hadoop Commercialization," TechCrunch, March 16, 2009. Accessed July 2026. https://techcrunch.com/2009/03/16/cloudera-raises-5-million-series-a-round-for-hadoop-commercialization/ — Confirms USD 5M Series A led by Accel Partners announced 2009-03-16. Founders: Mike Olson (former Oracle VP), Christophe Bisciglia (created Google's Academic Cloud Computing Initiative), Dr. Amr Awadallah (co-founder VivaSmart), Jeff Hammerbacher (Facebook data team). Angel participants named: Diane Greene (former VMware CEO), Mike Abbott (Palm SVP), Caterina Fake (Flickr co-founder), Dr. Qi Lu (Microsoft Online Services Group president), Marten Mickos (former MySQL CEO), Jeff Weiner (LinkedIn president), Gideon Yu (Facebook CFO).
+
+[^126]: Cloudera press release, "Cloudera, The Commercial Hadoop Company, Announces $5 Million Series A Financing Led By Accel Partners," March 16, 2009. Accessed July 2026. https://www.cloudera.com/about/news-and-blogs/press-releases/2009-03-16-cloudera-the-commercial-hadoop-company-announces-5-million-series-a-financing-led-by-accel-partners.html — Primary source from Cloudera confirming USD 5M Series A led by Accel Partners on 2009-03-16, coinciding with general availability of Cloudera Distribution for Hadoop.
+
+[^127]: Accel portfolio page for Cloudera, accessed July 2026. https://www.accel.com/companies/cloudera — Names Ping Li as the Accel partner leading the Cloudera investment. Accel's internal classification lists the first check as "Seed" with a 2008 first-investment date, but the publicly-announced institutional round was the Series A on 2009-03-16 per [^125] and [^126]; the 2008 date most likely reflects Accel's early relationship with the founders as the company was being incorporated (Cloudera was founded in late 2008 and emerged from stealth alongside the Series A announcement).

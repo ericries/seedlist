@@ -96,7 +96,7 @@ Note: Some companies span categories. Totals may exceed 28 due to overlap.
 
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
-| Cloudera | 2008 | Seed | Data infrastructure | IPO (NYSE: CLDR), acquired by CD&R/KKR | [^2] |
+| Cloudera | 2009-03-16 | Series A ($5M, Accel-led — Li partner; angels: Diane Greene, Caterina Fake, Mike Abbott, Qi Lu, Marten Mickos, Jeff Weiner, Gideon Yu) | Data infrastructure | IPO (NYSE: CLDR), acquired by CD&R/KKR | [^2][^36][^37] |
 | Ludic Labs | 2009 | Series A | Consumer/social | Acquired by Groupon (2010) | [^7][^26] |
 | Renren (Oak Pacific Interactive) | ≤2008 | Pre-Series D (existing investor) | Consumer/social | IPO (NASDAQ: RENN) | [^7][^35] |
 | Lookout | 2010 | Series B | Mobile security | Active | [^7][^27] |
@@ -204,3 +204,7 @@ No additional independently sourced founder testimonials were found after dedica
 [^33]: GeekWire, "VMware acquires Seattle's Heptio to double down on Kubernetes," November 6, 2018. https://www.geekwire.com/2018/vmware-acquires-seattles-heptio-double-kubernetes/
 [^34]: Tracxn, "Fusion-io — Funding Rounds & List of Investors," accessed April 2026. https://tracxn.com/d/companies/fusion-io/__ZkxrCv7la7XYOcKWKVOaFccWXNwAaVIkboiizz7WuoM/funding-and-investors
 [^35]: Business Wire / SOFTBANK press release, "SOFTBANK Leads Investment in Oak Pacific Interactive to Fuel China's Largest Social Networking Site," April 30, 2008, accessed June 2026. https://www.businesswire.com/news/home/20080430006158/en/SOFTBANK-Leads-Investment-Oak-Pacific-Interactive-Fuel — Names existing investors of Oak Pacific Interactive (later renamed Renren) including General Atlantic, DCM, Technology Crossover Ventures, Accel Partners, and Legend Capital, confirming Accel was an investor before the April 2008 SoftBank-led $430M Series D round. Xiaonei was renamed Renren in 2009. Specific Series and date of Accel's initial investment not disclosed in primary sources.
+
+[^36]: Leena Rao, "Cloudera Raises $5 Million Series A Round For Hadoop Commercialization," TechCrunch, March 16, 2009. Accessed July 2026. https://techcrunch.com/2009/03/16/cloudera-raises-5-million-series-a-round-for-hadoop-commercialization/ — Confirms USD 5M Series A led by Accel Partners on 2009-03-16 (the publicly-announced institutional round, though Accel's internal portfolio page classifies the first check as 2008 Seed reflecting pre-launch involvement). Names angel participants Diane Greene, Mike Abbott, Caterina Fake, Qi Lu, Marten Mickos, Jeff Weiner, Gideon Yu.
+
+[^37]: Cloudera press release, "Cloudera, The Commercial Hadoop Company, Announces $5 Million Series A Financing Led By Accel Partners," March 16, 2009. Accessed July 2026. https://www.cloudera.com/about/news-and-blogs/press-releases/2009-03-16-cloudera-the-commercial-hadoop-company-announces-5-million-series-a-financing-led-by-accel-partners.html — Primary source from Cloudera confirming USD 5M Series A led by Accel Partners on 2009-03-16.

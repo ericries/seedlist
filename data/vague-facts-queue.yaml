@@ -1051,7 +1051,9 @@ vague_facts:
   line: '| Slack | Seed | 2009 | Enterprise | [^6][^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-09'
+  resolution_note: 'Tightened Slack row on accel.md (was "Seed | 2009" → now "Seed (USD 1.5M; Accel + Andreessen Horowitz + angels — Andrew Braccia partner; first institutional check into Butterfield Glitch project which later pivoted to Slack) | 2009 (exact month not publicly disclosed)") via 3 primary sources: TechCrunch origin story 2019-05-30 [^123], Vator.tv Series A article 2010-04-01 confirming prior seed [^124], and existing Accel portfolio page [^17]. Exact 2009 month remains not publicly disclosed across all reviewed primary and secondary sources.'
 - profile: firms/accel
   profile_name: Accel
   company: Dropbox
@@ -1099,7 +1101,9 @@ vague_facts:
   line: '| Flipkart | Seed ($800K) | 2008 | E-commerce | [^6][^25][^26] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-09'
+  resolution_note: Tightened Flipkart row on accel.md (was "Seed (USD 800K) | 2008" → now inline names Subrata Mitra as partner and clarifies USD 800K deployed from Accel newly-raised USD 65M India seed & Series A fund) with existing Accel portfolio page [^25] and Accel blog [^26] as two primary sources. Both Accel primary sources agree on 2008; the exact month is not publicly disclosed. Aggregator claims of 2009 (Quartz India, some Tracxn snapshots) contradict both Accel first-party sources.
 - profile: firms/accel
   profile_name: Accel
   company: CrowdStrike
@@ -1109,7 +1113,9 @@ vague_facts:
   line: '| CrowdStrike | Series B ($30M, led) | 2013 | Cybersecurity | [^6][^27][^28] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-09'
+  resolution_note: CrowdStrike Series B row on accel.md was already tightened in a prior sweep to 2013-09-09 with 4 primary sources (TechCrunch, PR Newswire, AllThingsD [^114], Accel portfolio page). Queue snapshot stale.
 - profile: firms/accel
   profile_name: Accel
   company: Qualtrics
@@ -1119,7 +1125,9 @@ vague_facts:
   line: '| Qualtrics | Series A ($70M, co-led with Sequoia) | 2012 | Enterprise | [^6][^29][^30] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-09'
+  resolution_note: Qualtrics Series A row on accel.md was already tightened in a prior sweep to 2012-05-15 with 4 primary sources (TechCrunch, Accel portfolio page, Fortune [^115], BusinessWire). Queue snapshot stale.
 - profile: firms/accel
   profile_name: Accel
   company: Etsy
@@ -1129,7 +1137,9 @@ vague_facts:
   line: '| Etsy | Series D ($27M, led) | 2008 | E-commerce | [^6][^31][^32] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-09'
+  resolution_note: Etsy Series D row on accel.md was already tightened in a prior sweep to 2008-01-30 with 3 primary sources (TechCrunch, Accel portfolio page, Charlie ODonnell blog [^116]). Queue snapshot stale.
 - profile: firms/accel
   profile_name: Accel
   company: Braintree
@@ -1274,7 +1284,9 @@ vague_facts:
   line: '| Cloudera | Series A | 2008 | Data/Enterprise | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-09'
+  resolution_note: 'CORRECTED and tightened Cloudera row on accel.md (was factually WRONG "Series A | 2008" → now correct "Series A (USD 5M; Accel led — Ping Li partner; angels: Diane Greene VMware, Caterina Fake Flickr, Mike Abbott Palm, Qi Lu Microsoft, Marten Mickos MySQL, Jeff Weiner LinkedIn, Gideon Yu Facebook) | 2009-03-16") via 3 primary sources: TechCrunch [^125] (2009-03-16), Cloudera company press release [^126] (2009-03-16), and Accel portfolio page [^127] (Ping Li partner attribution). Accel internal classifies the check as Seed 2008 (likely reflects early relationship with founders during pre-launch stealth in late 2008), but publicly-announced institutional round was Series A on 2009-03-16.'
 - profile: firms/accel
   profile_name: Accel
   company: Vox Media
@@ -200017,7 +200029,9 @@ vague_facts:
   line: '| Slack | Seed | 2009 | Enterprise | [^6][^17] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-09'
+  resolution_note: 'Tightened Slack row on accel.md (was "Seed | 2009" → now "Seed (USD 1.5M; Accel + Andreessen Horowitz + angels — Andrew Braccia partner; first institutional check into Butterfield Glitch project which later pivoted to Slack) | 2009 (exact month not publicly disclosed)") via 3 primary sources: TechCrunch origin story 2019-05-30 [^123], Vator.tv Series A article 2010-04-01 confirming prior seed [^124], and existing Accel portfolio page [^17]. Exact 2009 month remains not publicly disclosed across all reviewed primary and secondary sources.'
 - profile: firms/accel
   profile_name: Accel
   company: Dropbox
@@ -200057,7 +200071,9 @@ vague_facts:
   line: '| Flipkart | Seed ($800K) | 2008 | E-commerce | [^6][^25][^26] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-09'
+  resolution_note: Tightened Flipkart row on accel.md (was "Seed (USD 800K) | 2008" → now inline names Subrata Mitra as partner and clarifies USD 800K deployed from Accel newly-raised USD 65M India seed & Series A fund) with existing Accel portfolio page [^25] and Accel blog [^26] as two primary sources. Both Accel primary sources agree on 2008; the exact month is not publicly disclosed. Aggregator claims of 2009 (Quartz India, some Tracxn snapshots) contradict both Accel first-party sources.
 - profile: firms/accel
   profile_name: Accel
   company: CrowdStrike
@@ -200143,7 +200159,9 @@ vague_facts:
   line: '| Cloudera | Series A | 2008 | Data/Enterprise | [^6] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-09'
+  resolution_note: 'CORRECTED and tightened Cloudera row on accel.md (was factually WRONG "Series A | 2008" → now correct "Series A (USD 5M; Accel led — Ping Li partner; angels: Diane Greene VMware, Caterina Fake Flickr, Mike Abbott Palm, Qi Lu Microsoft, Marten Mickos MySQL, Jeff Weiner LinkedIn, Gideon Yu Facebook) | 2009-03-16") via 3 primary sources: TechCrunch [^125] (2009-03-16), Cloudera company press release [^126] (2009-03-16), and Accel portfolio page [^127] (Ping Li partner attribution). Accel internal classifies the check as Seed 2008 (likely reflects early relationship with founders during pre-launch stealth in late 2008), but publicly-announced institutional round was Series A on 2009-03-16.'
 - profile: firms/accel
   profile_name: Accel
   company: Vox Media
