@@ -62,22 +62,22 @@ The following table represents a subset of Songhurst's approximately 500 claimed
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
 | Monogram | 2026-07-07 | Seed (angel) | [^26][^27][^28] |
-| Entrepreneurs First | 2026 | Growth | [^17] |
-| Forgent AI | 2025 | Pre-Seed | [^18] |
+| Entrepreneurs First | 2026-03-11 | Growth ($200M at $1.3B valuation; Reid Hoffman, John & Patrick Collison, Eric Schmidt, Greylock, Danny Rimer, Claire Hughes Johnson also participated) | [^17][^38][^39] |
+| Forgent AI | 2025-09-23 | Pre-Seed (€4.3M; Cherry Ventures led; Katrin Suder, angels from OpenAI/Anthropic/DeepMind also participated) | [^18][^35][^36][^37] |
 | Hyperdrives | 2025 | Pre-Seed | [^12] |
-| Trace.Space | 2025 | Seed | [^12] |
+| Trace.Space | 2025-02-05 | Seed ($4M; Cherry Ventures led; Outlast Fund, Nebular, Fiedler, Change Ventures also participated — Songhurst attribution aggregator-only, not confirmed in primary press) | [^12][^45] |
 | Tracelight | 2025 | Seed | [^12] |
 | Aidin | 2025 | Venture | [^12] |
 | Refute | 2024-12-13 | Pre-Seed | [^4][^24][^25] |
 | FlyMy.AI | 2024 | Pre-Seed | [^12] |
 | Plato | 2024 | Pre-Seed | [^12] |
-| Auquan | 2024 | Seed | [^12] |
-| Perlego | 2024 | Venture | [^12] |
+| Auquan | 2024-10-29 | Seed ($4.5M add-on to $8M total seed; Peak XV Surge led; Neotribe Ventures also participated — Songhurst attribution aggregator-only, not confirmed in primary press) | [^12][^43] |
+| Perlego | 2024-10-08 | Venture ($20M; Sir Terry Leahy led; ITHAKA, MediaHuis, Raine, KPN Ventures, Kahoot founders also participated — Songhurst attribution aggregator-only, not confirmed in primary press) | [^12][^44] |
 | Wave Photonics | 2024 | Seed | [^12] |
 | Deligo Vision | 2024 | Seed | [^12] |
-| Octomind | 2024 | Seed | [^12] |
-| Utila | 2024 | Seed | [^4] |
-| Lodestar | 2024 | Pre-Seed | [^4] |
+| Octomind | 2024-04-23 | Seed (€4.5M / ~$4.8M; Cherry Ventures led; Sean Mullaney, Lutz Finger also participated) | [^32][^33][^34] |
+| Utila | 2024-03-05 | Seed ($11.5M; NFX and Wing VC co-led; Framework Ventures, Balaji Srinivasan, Surojit Chatterjee also participated) | [^29][^30][^31] |
+| Lodestar | 2024-07-25 | Pre-Seed ($2.5M; Inflection.xyz and Lunar Ventures co-led; Zehan Wang, Mehdi Ghissassi also participated; UK Space Agency non-dilutive funding) | [^40][^41][^42] |
 | Testudo | 2024 | Pre-Seed | [^4] |
 | Hubflo | 2023 | Seed | [^12] |
 | Treyd | 2023 | Series A | [^12] |
@@ -187,3 +187,37 @@ No additional independently sourced founder testimonials found beyond EF's co-fo
 [^27]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent press pickup.
 
 [^28]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement.
+
+[^29]: The Block, "Institutional crypto platform Utila raises $11.5 million in seed funding," March 5, 2024. Accessed July 9, 2026. https://www.theblock.co/post/280621/utila-seed-funding — Names Charlie Songhurst among angel investors alongside Balaji Srinivasan and Surojit Chatterjee.
+
+[^30]: Utila, "Utila Raises $11.5 M in Seed Funding from Leading Investors," company blog, March 2024. Accessed July 9, 2026. https://utila.io/blog/utila-raises-11-5-million-in-seed-funding/
+
+[^31]: Calcalist Tech (Ctech), "Utila nets $11.5 million Seed funding for institutional crypto operations platform," March 2024. Accessed July 9, 2026. https://www.calcalistech.com/ctechnews/article/b1fp6hm6t
+
+[^32]: Octomind, "Octomind raises $4.8m to reinvent testing with AI," company blog, April 23, 2024. Accessed July 9, 2026. https://octomind.dev/blog/octomind-raises-4-8-million-to-reinvent-software-testing-with-ai
+
+[^33]: The SaaS News, "Octomind Secures €4.5 Million in Seed Round," April 2024. Accessed July 9, 2026. https://www.thesaasnews.com/news/octomind-secures-4-5-million-in-seed-round — Names Charlie Songhurst as angel participant alongside Sean Mullaney (Algolia) and Lutz Finger.
+
+[^34]: Data Phoenix, "Octomind secured $4.8 million in seed funding to accelerate bug-free AI-assisted software testing," April 26, 2024. Accessed July 9, 2026. https://dataphoenix.info/octomind-secured-4-8-million-in-seed-funding-to-accelerate-bug-free-ai-assisted-software-testing/
+
+[^35]: Tech.eu, "Forgent AI secures €4.3M to transform public procurement," September 23, 2025. Accessed July 9, 2026. https://tech.eu/2025/09/23/forgent-ai-secures-eur43m-to-transform-public-procurement/
+
+[^36]: The SaaS News, "Forgent AI Secures €4.3 Million Pre-Seed," September 2025. Accessed July 9, 2026. https://www.thesaasnews.com/news/forgent-ai-secures-4-3-million-pre-seed/
+
+[^37]: Startuprise, "Forgent AI Secures €4.3M In Pre-Seed Round," September 2025. Accessed July 9, 2026. https://startuprise.co.uk/forgent-ai-secures-e4-3m-in-pre-seed-round/
+
+[^38]: Sifted, "Entrepreneurs First crowned a unicorn following $200m fundraise," March 11, 2026. Accessed July 9, 2026. https://sifted.eu/articles/entrepreneurs-first-unicorn-200m-fundraise — Names Charlie Songhurst as British angel investor participant.
+
+[^39]: Business Wire, "Entrepreneurs First Raises $200m of Fresh Capital to Unlock the Next Generation of Outlier Founders," March 11, 2026. Accessed July 9, 2026. https://www.businesswire.com/news/home/20260311135208/en/Entrepreneurs-First-Raises-$200m-of-Fresh-Capital-to-Unlock-the-Next-Generation-of-Outlier-Founders
+
+[^40]: SpaceInsider, "Lodestar Space Secures $2.5M Pre-Seed Funding to Safeguard Space Infrastructure," July 25, 2024. Accessed July 9, 2026. https://spaceinsider.tech/2024/07/25/lodestar-space-secures-2-5m-pre-seed-funding-to-safeguard-space-infrastructure/ — Names Charlie Songhurst as participating investor alongside Zehan Wang and Mehdi Ghissassi.
+
+[^41]: Silicon Canals, "UK space robotics startup Lodestar secures €2.3M," July 26, 2024. Accessed July 9, 2026. https://siliconcanals.com/uk-space-robotics-startup-lodestar-raises-e2-3m/
+
+[^42]: Mishcon de Reya, "Mishcon de Reya advises Lodestar Space on $2.5M pre-seed funding round." Accessed July 9, 2026. https://www.mishcon.com/news/mishcon-de-reya-advises-lodestar-space-on-25m-pre-seed-funding-round
+
+[^43]: Business Wire, "Auquan Raises $4.5M to Automate Deep Work in Finance With AI," October 29, 2024. Accessed July 9, 2026. https://www.businesswire.com/news/home/20241029941794/en/Auquan-Raises-$4.5M-to-Automate-Deep-Work-in-Finance-With-AI — Round led by Peak XV Surge; Charlie Songhurst not named in primary press.
+
+[^44]: Tech.eu, "Perlego raises $20M to scale up its edtech with AI," October 8, 2024. Accessed July 9, 2026. https://tech.eu/2024/10/08/perlego-raises-20m-to-scale-up-its-edtech-with-ai/ — Round led by Sir Terry Leahy; Charlie Songhurst not named in primary press.
+
+[^45]: TechCrunch, "Aiming to accelerate product design with AI, Trace.Space raises a seed round," February 5, 2025. Accessed July 9, 2026. https://techcrunch.com/2025/02/05/aiming-to-accelerate-product-design-with-ai-trace-space-raises-a-seed-round/ — Round led by Cherry Ventures; Charlie Songhurst not named in primary press.

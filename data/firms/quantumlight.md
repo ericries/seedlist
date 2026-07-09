@@ -98,9 +98,9 @@ Note: Some companies span multiple sectors; percentages reflect primary classifi
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Aspora | Series B | 2025 | Fintech/Remittance | [^2] |
-| Ben | Series B | 2024 | SaaS/HR | [^2][^7] |
-| Berry Street | Series A | 2024 | Healthcare/Nutrition | [^2] |
+| Aspora | Series B ($53.5M; co-led by Sequoia and Greylock; QuantumLight participated) | 2025-06-16 | Fintech/Remittance | [^2][^8][^9] |
+| Ben | Series B ($27.5M / £20.8M; led by Mercia Ventures; QuantumLight new backer alongside Atomico, Cherry Ventures, DN Capital, Seedcamp) | 2025-12-17 | SaaS/HR | [^2][^7][^10][^11] |
+| Berry Street | Series B ($50M; Northzone/Sofina/FJ Labs among named participants; QuantumLight participation confirmed via firm portfolio page [^2] and aggregator sources) | 2025-02-05 | Healthcare/Nutrition | [^2][^12][^13] |
 | Blockaid | Series A | 2023 | Web3 Security | [^2] |
 | Builder.io | Series B | 2024 | Developer Tools | [^2] |
 | Campfire | Seed | 2024 | SaaS/ERP | [^2] |
@@ -148,3 +148,9 @@ No additional independently sourced founder testimonials found beyond firm press
 [^5]: Finextra, "Storonsky-founded fund QuantumLight raises $250m for AI-guided investments," accessed March 2026. https://www.finextra.com/newsarticle/46041/storonsky-founded-fund-quantumlight-raises-250m-for-ai-guided-investments
 [^6]: Sifted, "Nik Storonsky's QuantumLight targets $500m for second fund," January 2026, accessed March 2026. https://sifted.eu/articles/nik-storonsky-quantumlight-second-fund
 [^7]: Tracxn, "QuantumLight — 2026 Investor Profile, Portfolio & Team," accessed March 2026. https://tracxn.com/d/private-equity/quantumlight/__YQk7VPRD5V9XKhMCCjQoPU07iImM8d72L20kFilTSxA
+[^8]: Aspora, "Aspora Raises $93M to Build the Future of Diaspora Banking," June 2025, accessed July 2026. https://www.aspora.com/news/series-b
+[^9]: Sifted, "Sequoia, Greylock and Nik Storonsky's QuantumLight invest $90m into fintech for overseas diasporas," June 16, 2025, accessed July 2026. https://sifted.eu/articles/aspora-funding
+[^10]: Ben (thanksben), "Ben Raises $27.5m to Fix Employee Benefits for Global Enterprises," December 2025, accessed July 2026. https://www.thanksben.com/blog/series-b
+[^11]: BusinessCloud, "Revolut founder among backers as Ben raises £21m Series B," December 17, 2025, accessed July 2026. https://businesscloud.co.uk/news/revolut-founder-among-backers-as-ben-raises-21m-series-b/
+[^12]: TechCrunch, "As GLP-1s boom, dietician startups Berry Street, Fay each nab $50M rounds," February 5, 2025, accessed July 2026. https://techcrunch.com/2025/02/05/as-glp1s-boom-dietician-startups-berry-street-fay-each-nab-50m-rounds/
+[^13]: Northzone, "Our Investment in Berry Street: The Insurance-Covered Nutrition Coaching Platform," February 5, 2025, accessed July 2026. https://northzone.com/insights/our-investment-in-berry-street-the-insurance-covered-nutrition-coaching-platform
