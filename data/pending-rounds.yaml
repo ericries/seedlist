@@ -81,6 +81,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Alchemab Therapeutics secures €29.3 million as British Business Bank makes
+    its largest life sciences investment yet
+  url: https://www.eu-startups.com/2026/07/londons-alchemab-therapeutics-secures-e29-3-million-as-british-business-bank-makes-its-largest-life-sciences-investment-yet/
+  source: eu-startups
+  date_found: '2026-07-09'
+  parsed_company: Alchemab Therapeutics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last
     mega round
   url: https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
