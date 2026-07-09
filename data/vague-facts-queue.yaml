@@ -140,7 +140,9 @@ vague_facts:
   line: '| Figma | Fellowship-era | 2012 | Design Tools | [^4][^30] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-08
+  resolution_note: 'Fact-spec sweep 2026-07-08: Figma is NOT a 1517 Fund investment. Dylan Field was a 2012 Thiel Fellow (Gibson/Strachman ran the Thiel Fellowship at Thiel Foundation before founding 1517 in 2015). Figma seed on 2013-06-26 ($3.8M total, Index Ventures/Danny Rimer led with $1.7-1.8M) — 1517 Fund NOT named in TechCrunch Tsotsis primary press [https://techcrunch.com/2013/06/26/21-years-4-million-dollars/] or in Danny Rimer''s Index Ventures first-person account [^57]. Row tightened inline on 1517-fund.md to reflect Fellowship-era attribution + retained for historical context; source [^57] added. Same aggregator-only pattern as Wildfire/MakerBot on 500-global.md.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: nTopology (nTop)
@@ -351,7 +353,9 @@ vague_facts:
   line: '| CalWave Power Technologies | Seed | ~2020 | Wave Energy | [^24] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-08
+  resolution_note: 'Fact-spec sweep 2026-07-08: 1517 Fund CalWave attribution is aggregator-only. Primary sources: CalWave own fact sheet [^58] (calwave.energy/pressroom/fact-sheet/) lists Breakout Labs 2017, Autodesk 2017, Sustainable Ocean Alliance 2017, High Tide Foundation 2019 — 1517 Fund NOT named. Offshore Energy 2018-01-04 primary press [^59] confirms Breakout Labs grant, 1517 Fund NOT named. CalWave own investors page [https://calwave.energy/investors/] does not name 1517. Berkeley BERC Marcus Lehmann interview [https://berc.berkeley.edu/news/riding-wave-conversation-calwaves-marcus-lehmann] confirms most CalWave capital came from DOE grants, no venture rounds beyond Breakout Labs/High Tide Foundation. 1517''s own homepage portfolio does not currently show CalWave (WebFetch 2026-07-08). Only Tracxn (aggregator) lists 1517 as CalWave investor. Notable Thiel-org overlap: Breakout Labs is a fund within the Thiel Foundation — same parent org that ran the Thiel Fellowship under Strachman/Gibson before they founded 1517 in 2015. Row tightened inline in 1517-fund.md to reflect aggregator-only attribution + sources [^58][^59] added. Same pattern as Wildfire/MakerBot/FOSSA/Fountain/Deepgram cases previously flagged.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Stark Therapeutics
@@ -425,7 +429,9 @@ vague_facts:
   line: '| Udemy | Seed | 2011 | EdTech | IPO (2021, NASDAQ) | [^16][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-08
+  resolution_note: 'Fact-spec sweep 2026-07-08: tightened Udemy row on 500-global.md from ambiguous "Seed | 2011" to "Seed (USD 1M; MHS Capital + 500 Startups + angels Keith Rabois, Rick Thompson, Russ Fradin, Benjamin Ling, Larry Braitman, Jeremy Stoppelman, Naval Ravikant, Paul Martino, Josh Stylman; 500 Startups continued in USD 3M Series A 2011-10-12 led by Lightbank) | 2010-08-31". Prior "2011" date was incorrect — TechCrunch primary press [^41] (Leena Rao, 2010-08-31) confirms USD 1M seed announced Aug 31, 2010 with 500 Startups (Dave McClure) explicitly named alongside MHS Capital and the 9-angel roster. Udemy''s own PR Newswire Series A release [^42] 2011-10-12 retroactively confirms 500 Startups seed participation. Third cross-reference: Udemy Wikipedia (aggregator; confirms Aug 2010, USD 1M, MHS + 500 Startups + Rabois). Added sources [^41][^42].'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Credit Karma
