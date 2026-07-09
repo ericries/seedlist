@@ -37106,3 +37106,28 @@ queue:
   firm: AlbionVC
   discovered_from: andi-kazeroonian
   source: Led Firenze's £6M Series A on behalf of AlbionVC, 2026
+- name: GordonMD Global Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: GordonMD Global Investments
+  discovered_from: cyllene-therapeutics
+  source: Co-lead of Cyllene Therapeutics Series C (€33M, 2026-07-07)
+- name: Bpifrance Investissement
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bpifrance Investissement
+  discovered_from: cyllene-therapeutics
+  source: Participant in Cyllene Therapeutics Series C (€33M, 2026-07-07); French
+    public sector investment bank
+- name: Philippe Chambon
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Cyllene Therapeutics
+  discovered_from: cyllene-therapeutics
+  source: President & CEO of Cyllene Therapeutics (founder profile source)
