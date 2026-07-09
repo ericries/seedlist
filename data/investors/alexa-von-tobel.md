@@ -17,7 +17,7 @@ social:
   twitter: "@alexavontobel"
   linkedin: "linkedin.com/in/alexavontobel"
 status: published
-last_researched: 2026-03-26
+last_researched: 2026-07-09
 ---
 
 ## Background
@@ -106,7 +106,7 @@ This table represents approximately 35 of an estimated 68+ total investments (pe
 | Frontera Health | 2025 | Funding | Healthcare | [^18] |
 | QA Wolf | 2024-07-23 | Series B ($36M) | Enterprise / Testing | [^19] |
 | Duckbill | ~2024 | Seed | AI / Consumer | [^9] |
-| Kalepa | ~2023 | Series A (led) | Fintech / Insurance | [^20] |
+| Kalepa | 2021-09-03 | Series A (led, USD 14M; IA Ventures returning; Gokul Rajaram + Jackie Reses + Henry Ward participated) | Fintech / Insurance | [^20][^30][^31] |
 | Suno | ~2023 | Early-stage | AI / Music | [^8] |
 | Dandy | ~2021 | Seed | Healthcare / Dental | [^8] |
 | Rho | 2019-10-15 | Seed (led, $4.9M) | Fintech / Banking | [^21][^26][^27] |
@@ -185,3 +185,5 @@ Note: The above testimonials are sourced from Inspired Capital's website, which 
 [^27]: TechStartups, "Rho Business Banking launches digital banking built to accelerate high-growth startups," October 16, 2019. https://techstartups.com/2019/10/16/rho-business-banking-fintech-startup-founded-deutsche-bank-alum-others-launches-digital-banking-built-accelerate-high-growth-startups/
 [^28]: TechCrunch, "Payments infra startup Finix closes $35M Series B led by Sequoia," February 4, 2020. https://techcrunch.com/2020/02/04/payments-infra-startup-finix-closes-35m-series-b-led-by-sequoia/
 [^29]: Finix, "Announcing Finix's $35 Million Series B Led By Sequoia Capital," February 4, 2020. https://finix.com/resources/blogs/announcing-finixs-usd35-million-series-b-led-by-sequoia-capital
+[^30]: Inspired Capital, "NYC-based insurance underwriting platform Kalepa raises $14M Series A led by Inspired Capital," September 2021. https://www.inspiredcapital.com/insights/nyc-based-insurance-underwriting-platform-kalepa-raises-14m-series-a-led-by-inspired-capital
+[^31]: PRWeb, "Kalepa, the Commercial InsureTech Leader, Raises $14MM from Inspired Capital to Scale Its AI-Powered Underwriting Platform," September 8, 2021. https://www.prweb.com/releases/kalepa-the-commercial-insuretech-leader-raises-14mm-from-inspired-capital-to-scale-its-ai-powered-underwriting-platform-804034474.html

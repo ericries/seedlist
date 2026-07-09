@@ -1,7 +1,7 @@
 ---
 founded: 2016
 fund_size: $50M (Fund IV, 2024); $225M total AUM across four funds and SPVs
-last_researched: 2026-03-24
+last_researched: 2026-07-09
 location: Burlingame, CA
 name: Refactor Capital
 sector_focus:
@@ -101,7 +101,7 @@ Based on 55 verified portfolio companies from the firm's website [^12], Refactor
 | Akasa | Seed | ~2019 | Healthtech | Active [^32] |
 | Curative | Seed | 2020 | Health | Active [^33] |
 | Floodbase | Series A | 2023 | Climate/insurance | Active [^34] |
-| Macro Oceans | Seed | 2024 | Critical materials | Active [^35] |
+| Macro Oceans | Seed (led, USD 7.5M with USD 2.5M extension; McKinley Alaska Private Investment + Knollwood Investment Advisory + Schox Venture Capital participated; concurrent acquisition of Everything Seaweed) | 2024-10-31 | Critical materials / seaweed extracts | Active [^35][^43][^44] |
 | Aether | Seed | 2021 | Critical materials | Active [^36] |
 | Solugen | Series D | 2022 | Chemicals/biotech | Active [^13] |
 | Berkeley Yeast | Seed | ~2018 | Biotech/fermentation | Active [^37] |
@@ -119,9 +119,9 @@ Based on 55 verified portfolio companies from the firm's website [^12], Refactor
 | Lumindt | Seed | ~2023 | Energy storage | Active [^12] |
 | Network Ocean | Seed | ~2024 | Data centers/energy | Active [^12] |
 | Pila Energy | Seed | ~2024 | Energy storage | Active [^12] |
-| Hexium | Seed | 2024 | Nuclear energy | Active [^19] |
+| Hexium | Seed (co-led with MaC Venture Capital; USD 12M total: USD 9.5M seed + USD 2.5M credit facility; R7 Partners + Overture VC + Humba Ventures + Julian Capital participated) | 2025-04-15 | Nuclear energy / lithium isotope enrichment | Active [^19][^40][^41][^42] |
 | Brelle | Seed | ~2024 | Electric powertrains | Active [^12] |
-| Causal Labs | Seed | 2025 | AI/weather | Active [^14] |
+| Causal Labs | Seed (Kindred Ventures led; USD 6M; Refactor participated alongside BoxGroup + Factorial + Otherwise + Karman Ventures + angels) | 2025-03-12 | AI / weather prediction | Active [^14][^45][^46] |
 | Orchid | Seed | 2021 | Biotech/genomics | Active [^39] |
 | Atlas | Seed | ~2023 | Mental health | Active [^12] |
 | Pilgrim Labs | Seed | ~2024 | Defense/biotech | Active [^12] |
@@ -196,3 +196,10 @@ No independently sourced founder testimonials found. Refactor Capital's website 
 [^37]: Crunchbase, "Berkeley Yeast Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/berkeley-brewing-science
 [^38]: Crunchbase, "BioRender Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/biorender-inc
 [^39]: Crunchbase News, "Orchid Blooms With $4.5M Seed For Preconception Test To Determine Genetic Risks," April 2021. https://news.crunchbase.com/health-wellness-biotech/orchid-blooms-with-4-5m-seed-for-preconception-test-to-determine-genetic-risks/
+[^40]: TechCrunch, "Exclusive: Fusion power has a fuel problem; Hexium has a laser-powered solution," April 15, 2025. https://techcrunch.com/2025/04/15/fusion-power-has-a-fuel-problem-hexium-has-a-laser-powered-solution/
+[^41]: Climate Insider, "Hexium Emerges From Stealth With $12 Million to Scale AVLIS Lithium Enrichment for Nuclear Fuel," April 15, 2025. https://climateinsider.com/2025/04/15/hexium-emerges-from-stealth-with-12-million-to-scale-avlis-lithium-enrichment-for-nuclear-fuel/
+[^42]: Power Technology, "Hexium raises $12m to advance enriched lithium production," April 2025. https://www.power-technology.com/news/hexium-enriched-lithium-production/
+[^43]: BeautyMatter, "Macro Oceans Closes $7.5 Million Seed Round and Acquires Everything Seaweed," October 31, 2024. https://beautymatter.com/articles/macro-oceans-closes-seed-round-and-acquires-everything-seaweed
+[^44]: Cosmetics & Toiletries, "Macro Oceans, Everything Seaweed Deal to Accelerate Scale-up of Low Carbon Kelp Biomaterials," October 2024. https://www.cosmeticsandtoiletries.com/news/companies/news/22924938/macro-oceans-macro-oceans-everything-seaweed-deal-to-accelerate-scaleup-of-low-carbon-kelp-biomaterials
+[^45]: BusinessWire, "Causal Labs Raises $6M Seed Funding to Build AI for Weather Prediction and Control," March 12, 2025. https://www.businesswire.com/news/home/20250312474306/en/Causal-Labs-Raises-$6M-Seed-Funding-to-Build-AI-for-Weather-Prediction-and-Control
+[^46]: Refactor Capital blog, "Causal Labs: A Foundation Model for Physics, Weather, and the Future of AI," accessed July 2026. https://refactor.com/posts/causal-labs-a-foundation-model-for-physics-weather-and-the-future-of-ai

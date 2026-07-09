@@ -33729,7 +33729,9 @@ vague_facts:
   line: '| Kalepa | ~2023 | Series A (led) | Fintech / Insurance | [^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: date corrected from ~2023 to 2021-09-03. Round: Inspired Capital led, USD 14M Series A; IA Ventures returning; Gokul Rajaram, Jackie Reses, Henry Ward participated. Verified via Kalepa own press page (2021-09-03), Inspired Capital blog post, PRWeb 2021-09-08. Same fix applied to inspired-capital.md firm profile.'
 - profile: investors/alexa-von-tobel
   profile_name: Alexa von Tobel
   company: Suno
@@ -159628,7 +159630,9 @@ vague_facts:
   line: '| Macro Oceans | ~2021 | Seed | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: date corrected from ~2021 to 2024-10-31. Refactor Capital led USD 7.5M seed (including USD 2.5M extension); McKinley Alaska Private Investment, Knollwood Investment Advisory, Schox Venture Capital participated. Announcement coincided with acquisition of Everything Seaweed. Verified via Beauty Independent, BeautyMatter 2024-10-31, Cosmetics & Toiletries October 2024.'
 - profile: investors/zal-bilimoria
   profile_name: Zal Bilimoria
   company: Aether
@@ -159828,7 +159832,9 @@ vague_facts:
   line: '| Hexium | 2024 | Seed | [^19] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: date corrected from ~2024 to 2025-04-15 (stealth emergence). Round: co-led with MaC Venture Capital; USD 12M total (USD 9.5M seed + USD 2.5M credit facility). Participants: R7 Partners, Overture VC, Humba Ventures, Julian Capital. Verified via TechCrunch exclusive 2025-04-15, Climate Insider 2025-04-15, Power Technology April 2025. Prior [^19] Crunchbase date (2024-07-24) appears to be a founding/incorporation date, not funding announcement.'
 - profile: investors/zal-bilimoria
   profile_name: Zal Bilimoria
   company: Causal Labs
@@ -159838,7 +159844,9 @@ vague_facts:
   line: '| Causal Labs | 2025 | Seed | [^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: date tightened from 2025 to 2025-03-12. Round: Kindred Ventures led; USD 6M seed; Refactor Capital participated alongside BoxGroup, Factorial, Otherwise, Karman Ventures. Verified via BusinessWire 2025-03-12, Refactor Capital blog, AI Insider 2025-03-12.'
 - profile: investors/zishaan-hayath
   profile_name: Zishaan Hayath
   company: Ola Cabs (ANI Technologies)
@@ -170985,7 +170993,9 @@ vague_facts:
   line: '| Macro Oceans | Seed | 2024 | Critical materials | Active [^35] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: date tightened to 2024-10-31. See parallel resolution for Macro Oceans on zal-bilimoria profile above for details. New footnotes [^43] BeautyMatter + [^44] Cosmetics & Toiletries added.'
 - profile: firms/refactor-capital
   profile_name: Refactor Capital
   company: General Galactic
@@ -171085,7 +171095,9 @@ vague_facts:
   line: '| Hexium | Seed | 2024 | Nuclear energy | Active [^19] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: date corrected from 2024 to 2025-04-15 (stealth emergence per TechCrunch exclusive). Refactor co-led with MaC Venture Capital; USD 12M total (USD 9.5M seed + USD 2.5M credit facility). Prior [^19] Crunchbase 2024-07-24 date was likely a founding/incorporation event, not the funding announcement. New footnotes [^40] TC + [^41] Climate Insider + [^42] Power Technology added.'
 - profile: firms/refactor-capital
   profile_name: Refactor Capital
   company: Brelle
@@ -171105,7 +171117,9 @@ vague_facts:
   line: '| Causal Labs | Seed | 2025 | AI/weather | Active [^14] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: date tightened from 2025 to 2025-03-12 (BusinessWire dateline). Kindred Ventures led USD 6M seed; Refactor participated alongside BoxGroup, Factorial, Otherwise, Karman Ventures. New footnotes [^45] BusinessWire + [^46] Refactor blog added.'
 - profile: firms/refactor-capital
   profile_name: Refactor Capital
   company: Atlas

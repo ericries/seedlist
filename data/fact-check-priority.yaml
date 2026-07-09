@@ -1,4 +1,16 @@
 priority:
+- slug: refactor-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-09: tightened 3 portfolio rows via 3+ primary sources each. (1) HEXIUM: "Seed | 2024" → "Seed (co-led with MaC Venture Capital; USD 12M total: 9.5M seed + 2.5M credit facility; R7 Partners + Overture VC + Humba Ventures + Julian Capital participated) | 2025-04-15" via TechCrunch exclusive + Climate Insider + Power Technology. Prior Crunchbase 2024-07-24 date was incorporation, not funding. (2) MACRO OCEANS: "Seed | 2024" → "Seed (led, USD 7.5M with USD 2.5M extension; McKinley Alaska + Knollwood + Schox participated; concurrent acquisition of Everything Seaweed) | 2024-10-31" via Beauty Independent + BeautyMatter + Cosmetics & Toiletries. (3) CAUSAL LABS: "Seed | 2025" → "Seed (Kindred Ventures led; USD 6M; Refactor participated alongside BoxGroup + Factorial + Otherwise + Karman Ventures + angels) | 2025-03-12" via BusinessWire + Refactor blog + AI Insider. Parallel updates to zal-bilimoria.md (same rows) and inspired-capital.md (Kalepa 2021 → 2021-09-03). 10 new footnotes added ([^40]-[^46] on refactor-capital.md; [^23]-[^30] on zal-bilimoria.md).'
+  added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-09
+- slug: alexa-von-tobel
+  type: investor
+  reason: 'Fact-spec sweep 2026-07-09: tightened Kalepa row from "~2023 | Series A (led)" → "2021-09-03 | Series A (led, USD 14M; IA Ventures returning; Gokul Rajaram + Jackie Reses + Henry Ward participated)" via 3 primary sources: Kalepa own press page (2021-09-03), Inspired Capital blog post, PRWeb 2021-09-08. Von Tobel is Founder & Managing Partner of Inspired Capital, which led the round. 2 new footnotes added ([^30] Inspired Capital + [^31] PRWeb).'
+  added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-09
 - slug: altimeter-capital
   type: firm
   reason: 'Fact-spec sweep 2026-07-09: tightened 2 year-only rows on altimeter-capital.md portfolio via 3+ primary sources each. (1) UNLEARN: "Series C | ~2024" → "Series C (led, $50M; Radical Ventures + Wittington Ventures + Mubadala Capital + Epic Ventures + Necessary Venture Capital returned) | 2024-02-06" via BusinessWire + Latham & Watkins legal advisor + HITConsultant. Altimeter confirmed as sole lead. Total raised >$130M. (2) SIGMA (Sigma Computing): "Series D | ~2024" → "Series D (participated as returning investor; $200M at $1.5B val; Spark Capital + Avenir Growth Capital co-led; NewView Capital new; Snowflake Ventures + Sutter Hill Ventures + D1 Capital Partners + XN returned) | 2024-05-16" via Sigma company blog + BusinessWire + HPCWire/BigDATAwire. Parallel update on sigma-computing.md startup profile adding 2024-05-16 Series D row with same 3 primary sources. 6 new footnotes added ([^67]-[^72]).'

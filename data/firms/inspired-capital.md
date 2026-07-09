@@ -24,7 +24,7 @@ team:
   - slug: chris-brown
     role: Partner
 status: published
-last_researched: 2026-06-07
+last_researched: 2026-07-09
 ---
 
 ## About
@@ -111,7 +111,7 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 | Day.ai | Seed | 2024-06-20 | AI / CRM | Active | [^27][^39] |
 | Axion | Early | 2023 | AI / Industrial | Active | [^13] |
 | Edia | Early | 2022 | Education | Active | [^13] |
-| Kalepa | Series A | 2021 | Insurtech / AI | Active | [^28] |
+| Kalepa | Series A (led, USD 14M; IA Ventures returning; Gokul Rajaram + Jackie Reses + Henry Ward participated) | 2021-09-03 | Insurtech / AI | Active | [^28] |
 | Kanmon | Early | 2022 | Fintech / Lending | Active | [^13] |
 | Kettle | Seed | 2021 | Climate / Insurtech | Active | [^29] |
 | Orum | Seed | 2020 | Fintech / Payments | Exited | [^30] |
