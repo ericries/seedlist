@@ -91,7 +91,7 @@ Based on 34 verified portfolio companies from the firm's public portfolio page [
 | Commonware | Seed (co-led, $9M) | 2024-12-11 | Infrastructure | Active | [^9][^22][^49][^50] |
 | Conduit | Series A (co-led, $37M) | 2024-06-19 | L2 rollups | Active | [^9][^23][^51][^52] |
 | Ellipsis Labs | Fast-follow (led, $21M) | 2024-10-31 | DeFi | Active | [^9][^24][^57][^58] |
-| Erebor | Early | 2025 | DeFi/banking | Active | [^9][^25] |
+| Erebor | Growth (USD 350M at USD 4.35B post-money; Lux Capital led; Founders Fund + 8VC + Haun Ventures participated as existing backers) | 2025-12-22 | DeFi/banking | Active | [^9][^25][^ereb1][^ereb2] |
 | Euler Labs | Series A (led) | 2022 | DeFi lending | Active | [^9][^26] |
 | Farcaster | Series A ($150M, $1B val.) | 2024-05-21 | Social/Web3 | Acquired by Neynar | [^9][^27][^61][^62] |
 | Fireblocks | Secondary | 2024 | Custody/infra | Active | [^9][^20] |
@@ -206,3 +206,7 @@ No independently sourced founder testimonials found. Haun Ventures' website does
 [^72]: BusinessWire, "Trace Finance Raises $32M Series A Led by CoinFund," June 17, 2026. https://www.businesswire.com/news/home/20260617597265/en/ — Primary press release listing Haun Ventures as a participant alongside Coinbase Ventures, Jump Crypto, Valor Capital, Paxos, HOF Capital, Chainlink Labs, SNZ Capital and angels.
 [^73]: News.Bitcoin.com, "Trace Finance Takes $32M Series A to Scale the Bank Layer Stablecoins Are Missing," June 2026. https://news.bitcoin.com/trace-finance-takes-32m-series-a-to-scale-the-bank-layer-stablecoins-are-missing/ — Independent confirmation of Haun Ventures participation.
 [^74]: The SaaS News, "Trace Finance Raises $32M Series A," June 2026. https://www.thesaasnews.com/news/trace-finance-raises-32m-series-a/ — Independent confirmation listing Haun Ventures among participants.
+
+[^ereb1]: The Block, "Banking startup Erebor raises $350 million at over $4 billion valuation following FDIC approval: Axios," December 22, 2025. Accessed July 2026. https://www.theblock.co/post/383533/banking-startup-erebor-350-million-4-billion-valuation-fdic-approval-axios — Confirms 2025-12-22 announcement of $350M raise at $4.35B post-money valuation, led by Lux Capital, with Founders Fund, 8VC, and Haun Ventures participating as existing backers. Round follows FDIC and OCC conditional approval.
+
+[^ereb2]: Bloomberg, "Erebor Bank to Double Valuation to $4.35 Billion With New Funding Round," December 22, 2025. Accessed July 2026. https://www.bloomberg.com/news/articles/2025-12-22/thiel-backed-bank-set-to-double-valuation-to-4-35-billion — Independent tier-1 confirmation of $350M round at $4.35B post-money, Lux Capital lead, and Founders Fund, 8VC, and Haun Ventures as existing-backer participants. Original scoop: Axios (Dan Primack), "Scoop: Palmer Luckey's digital bank valued at over $4 billion," December 22, 2025. https://www.axios.com/2025/12/22/palmer-luckey-digital-bank

@@ -122,7 +122,7 @@ Based on analysis of 137 verified portfolio companies (96 active, 41 exited) fro
 | HeatTransformers | Series A | 2023 | Heat pump installation (NL) | [^21] |
 | Noetic Cyber | Series A | 2021 | Cyber asset management | [^3][^23] |
 | Oort | Series A | 2022 | Identity threat detection | [^3][^24] |
-| Koloma | Series C | 2024 | Geologic hydrogen | [^22] |
+| Koloma | Series B (USD 245.7M; Khosla Ventures led; Amazon Climate Pledge Fund + United Airlines Sustainable Flight Fund new; Breakthrough Energy Ventures + Energy Impact Partners returning) | 2024-02-09 | Geologic hydrogen | [^22][^kol1][^kol2][^kol3] |
 | Metafuels | Series A | 2026 | Sustainable aviation fuel | [^3] |
 | Overstory | Series A | 2025 | AI grid resilience | [^3] |
 | Hint | Seed | 2026 | AI home management | [^25] |
@@ -182,4 +182,10 @@ No additional independently sourced founder testimonials found beyond press rele
 [^25]: Morningstar / Business Wire, "Martha Stewart Announces Hint, a New Home Management Platform Built on Human Expertise and AI," May 12, 2026. Accessed May 2026. https://www.morningstar.com/news/business-wire/20260512987617/martha-stewart-announces-hint-a-new-home-management-platform-built-on-human-expertise-and-ai
 
 [^26]: GlobeNewsWire, "Heron Power Raises $38M Series A to Accelerate an All-Electric Future," May 29, 2025. Accessed May 2026. https://www.globenewswire.com/news-release/2025/05/29/3090121/0/en/Heron-Power-Raises-38M-Series-A-to-Accelerate-an-All-Electric-Future.html — $38M Series A announced May 29, 2025, led by Capricorn Investment Group; Energy Impact Partners participated alongside Breakthrough Energy Ventures, Gigascale Capital, Powerhouse Ventures, Valor Equity Partners, JB Straubel, and Zach Kirkhorn.
+
+[^kol1]: Forbes (Alan Ohnsman), "Bill Gates-Backed Clean Fuel Startup Raises $246 Million To Aid Plans To Drill For Hydrogen," February 11, 2024. Accessed July 2026. https://www.forbes.com/sites/alanohnsman/2024/02/11/bill-gates-backed-clean-fuel-startup-raises-246-million-to-aid-plans-to-drill-for-hydrogen/ — Contemporaneous tier-1 primary press. Confirms Koloma's $245.7M round disclosed via SEC filing dated February 9, 2024, led by Khosla Ventures, with Amazon Climate Pledge Fund and United Airlines Sustainable Flight Fund as new investors and Breakthrough Energy Ventures and Energy Impact Partners as returning investors. Includes a quote from EIP's head of research on Koloma's competitive position.
+
+[^kol2]: Axios Pro Climate Deals, "Geologic hydrogen startup Koloma raises $245M," February 9, 2024. Accessed July 2026. https://www.axios.com/pro/climate-deals/2024/02/09/koloma-245-million-hydrogen-khosla-amazon-united — Same-day scoop confirming the $245M raise, Khosla Ventures lead, and Amazon + United participation. First public disclosure of the round.
+
+[^kol3]: Crunchbase, "Series B — Koloma — 2024-02-09," accessed July 2026. https://www.crunchbase.com/funding_round/koloma-series-b--8bbc978e — Confirms the round type explicitly as Series B (previously mis-labeled as Series C on this profile) and dates the round as 2024-02-09.
 

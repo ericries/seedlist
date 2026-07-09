@@ -123,7 +123,7 @@ Based on 111 verified portfolio companies listed on the Breyer Capital website [
 | Cleerly | Growth | ~2021 | Healthcare AI | Active [^2] |
 | OpenEvidence | Early | ~2023 | Healthcare AI | Active [^9] |
 | Xaira | Early | ~2024 | Biotech/AI | Active [^2] |
-| World Labs | Series A | 2024 | AI | Active [^13] |
+| World Labs | Series A (USD 230M at over USD 1B post-money; a16z + NEA + Radical Ventures co-led; Jim Breyer participated as individual investor alongside Marc Benioff, Ron Conway, Jeff Dean, Geoffrey Hinton, Reid Hoffman, Andrej Karpathy, Ashton Kutcher, Eric Schmidt, Ram Shriram, Anne Wojcicki, Susan Wojcicki; Adobe Ventures, AMD Ventures, Databricks Ventures, NVentures, Shinrai Investments as corporate CVCs) | 2024-09-13 | AI | Active [^13][^wl1][^wl2] |
 | EigenLayer | Early | ~2023 | Crypto/Infrastructure | Active [^2] |
 | Step | Growth | ~2020 | Fintech | Active [^2] |
 | Cadre | Growth | ~2019 | Fintech/Real Estate | Active [^2] |
@@ -179,3 +179,7 @@ No independently sourced founder testimonials found beyond the Sandbox AQ press 
 [^13]: Yahoo Finance, "World Labs raises $230m to develop 3D-AI technology," 2024. https://finance.yahoo.com/news/world-labs-raises-230m-develop-081506272.html
 [^14]: Circle, "The Money Movement, Ep. 86: The Power of Courage with Jim Breyer of Breyer Capital," 2023. https://www.circle.com/the-money-movement/ep-86-the-power-of-courage
 [^15]: Texas Venture Alliance, "A Featured Investor Interview With Jim Breyer of Breyer Capital," accessed March 2026. https://texasventurealliance.org/venture-blog/interview-with-jim-breyer
+
+[^wl1]: TechCrunch, "Fei-Fei Li's World Labs comes out of stealth with $230M in funding," September 13, 2024. Accessed July 2026. https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/ — Confirms World Labs Series A closed September 13, 2024, $230M raised at over $1B valuation, co-led by Andreessen Horowitz, NEA, and Radical Ventures.
+
+[^wl2]: Bloomberg, "AI Pioneer Fei-Fei Li Raises $230 Million for New Startup World Labs," September 13, 2024. Accessed July 2026. https://www.bloomberg.com/news/articles/2024-09-13/ai-pioneer-fei-fei-li-raises-230-million-for-new-startup-world-labs — Independent tier-1 confirmation of $230M Series A at over $1B post-money valuation. Individual investors named include Marc Benioff, Jim Breyer, Ron Conway, Jeff Dean, Geoffrey Hinton, Reid Hoffman, Andrej Karpathy, Ashton Kutcher (Sound Ventures), Eric Schmidt, Ram Shriram, Anne Wojcicki, and Susan Wojcicki; corporate CVCs include Adobe Ventures, AMD Ventures, Databricks Ventures, NVentures (NVIDIA), and Shinrai Investments LLC (per Yahoo Finance / Reuters wire republication September 16, 2024, https://finance.yahoo.com/news/world-labs-raises-230m-develop-081506272.html).

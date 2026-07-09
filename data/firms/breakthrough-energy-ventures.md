@@ -130,7 +130,7 @@ This table represents approximately 25% of BEV's 120+ portfolio organizations. O
 | 75F | Series B | ~2022 | Smart Buildings | Active [^26] |
 | Electra | Early Stage | ~2021 | Green Steel | Active [^15] |
 | Mill | Early Stage | ~2022 | Food Waste Recycling | Active [^15] |
-| Koloma | Early Stage | ~2023 | Geologic Hydrogen | Active [^27] |
+| Koloma | Series B (USD 245.7M; Khosla Ventures led; Amazon Climate Pledge Fund + United Airlines Sustainable Flight Fund new; BEV + Energy Impact Partners returning; BEV was returning investor from Koloma's July 2023 round) | 2024-02-09 | Geologic Hydrogen | Active [^27][^kol1][^kol2][^kol3] |
 | Terabase Energy | Series C | 2025 | Solar Infrastructure | Active [^26] |
 | 44.01 | Series A | 2025 | Carbon Mineralization | Active [^26] |
 | NitroVolt | Seed | 2024 | Green Ammonia | Active [^5] |
@@ -207,3 +207,9 @@ No additional independently sourced founder testimonials found. The firm's portf
 [^33]: Pulse 2.0, "VEIR Superconducting Power Company Raises $75 Million Series B," February 4, 2025. Independent confirmation of Breakthrough Energy Ventures as returning Series B participant. Accessed July 8, 2026. https://pulse2.com/veir-superconducting-power-company-raises-75-million-series-b/
 
 [^34]: ESG Post, "VEIR raises USD 75M to accelerate superconducting power for data centres," January 29, 2025. Third independent source naming Breakthrough Energy Ventures among existing Series B investors. Accessed July 8, 2026. https://esgpost.com/veir-superconducting-power-data-centres/
+
+[^kol1]: Forbes (Alan Ohnsman), "Bill Gates-Backed Clean Fuel Startup Raises $246 Million To Aid Plans To Drill For Hydrogen," February 11, 2024. Accessed July 2026. https://www.forbes.com/sites/alanohnsman/2024/02/11/bill-gates-backed-clean-fuel-startup-raises-246-million-to-aid-plans-to-drill-for-hydrogen/ — Tier-1 primary press. Confirms Koloma's $245.7M Series B round disclosed via SEC filing dated February 9, 2024, led by Khosla Ventures, with Amazon Climate Pledge Fund and United Airlines Sustainable Flight Fund as new investors and Breakthrough Energy Ventures and Energy Impact Partners as returning investors.
+
+[^kol2]: Axios Pro Climate Deals, "Geologic hydrogen startup Koloma raises $245M," February 9, 2024. Accessed July 2026. https://www.axios.com/pro/climate-deals/2024/02/09/koloma-245-million-hydrogen-khosla-amazon-united — Same-day scoop confirming the $245M raise, Khosla lead, and Amazon + United participation.
+
+[^kol3]: Crunchbase, "Series B — Koloma — 2024-02-09," accessed July 2026. https://www.crunchbase.com/funding_round/koloma-series-b--8bbc978e — Confirms explicit Series B designation and 2024-02-09 date (previously labeled "Early Stage ~2023" on this profile).
