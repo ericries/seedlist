@@ -214,6 +214,7 @@ The following table includes 45 Benchmark investments verified through press cov
 | Eigen | Seed (led) | 2026 | AI / Social | Private [^34] |
 | Sierra | Series E (participated; co-led Seed 2024-02-13) | 2026-05-04 | AI / Customer Service | Private [^38][^39][^40] |
 | Decart | Growth (participated, $300M at $4B val; Radical Ventures led) | 2026-05-18 | AI / World Models / Inference | Private [^44] |
+| Ollama | Series A (led, $15M, 2024); Series B participated ($65M, Theory Ventures led) | 2026-07-09 | AI / Developer Tools / Open Source Models | Private [^50][^51] |
 
 *Note: This table includes 46 companies out of ~305 total portfolio companies (~15%). Years marked with "~" indicate approximate dates based on founding year proxies or estimated investment timing where exact dates are not publicly confirmed. Stages listed reflect Benchmark's initial or most significant investment round.*
 
@@ -365,3 +366,7 @@ The following table includes 45 Benchmark investments verified through press cov
 [^48]: Crypto Briefing, "Index Ventures, Union Square Ventures back FOMO at $550M valuation in $75M Series B," June 22, 2026. Accessed June 2026. https://cryptobriefing.com/fomo-series-b-550m-valuation/ — Third independent confirmation Benchmark participated.
 
 [^49]: fomo, "fomo Series B led by Index Ventures," June 22, 2026. Accessed June 2026. https://fomo.family/blog/fomo-series-b/ — Fomo's own company press release confirming Benchmark's Series B participation as an existing investor.
+
+[^50]: Rebecca Bellan, "Popular open-source AI developer tool Ollama raises $65M, grows to nearly 9M users," TechCrunch, July 9, 2026. Accessed July 9, 2026. https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
+
+[^51]: Ollama, "Ollama: all aboard open models," Ollama Blog, July 9, 2026. Accessed July 9, 2026. https://ollama.com/blog/all-aboard-open-models

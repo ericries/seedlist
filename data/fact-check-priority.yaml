@@ -5057,4 +5057,32 @@ priority:
   type: firm
   reason: "appeared in Pearl Health Series C (2026-07-08), $50M equity"
   added: 2026-07-08
+- slug: benchmark
+  type: firm
+  reason: "appeared in Ollama Series B (2026-07-09), $65M — Benchmark participated as prior Series A lead"
+  added: 2026-07-09
+- slug: 8vc
+  type: firm
+  reason: "appeared in Ollama Series B (2026-07-09), $65M — 8VC participated (Alex Kolicich)"
+  added: 2026-07-09
+- slug: peter-fenton
+  type: investor
+  reason: "appeared in Ollama Series B (2026-07-09), $65M — Benchmark GP, led prior Series A, board member"
+  added: 2026-07-09
+- slug: tomasz-tunguz
+  type: investor
+  reason: "led Ollama Series B (2026-07-09), $65M — Theory Ventures GP"
+  added: 2026-07-09
+- slug: solomon-hykes
+  type: investor
+  reason: "appeared as angel in Ollama Series B (2026-07-09), $65M"
+  added: 2026-07-09
+- slug: y-combinator
+  type: firm
+  reason: "prior Ollama backer surfaced in Series B coverage (2026-07-09)"
+  added: 2026-07-09
+- slug: garage-capital
+  type: firm
+  reason: "prior Ollama backer surfaced in Series B coverage (2026-07-09)"
+  added: 2026-07-09
 

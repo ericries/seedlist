@@ -21,15 +21,15 @@ sector_focus:
 - devops
 check_size: "$25K-$250K"
 last_verified_investment:
-  date: 2026-01-16
-  company: "Recall.ai"
+  date: 2026-07-09
+  company: "Ollama"
   round: "Series B"
 social:
   bluesky: "@shykes.bsky.social"
   twitter: "@solomonstre"
   linkedin: "linkedin.com/in/solomonhykes"
 status: published
-last_researched: 2026-03-25
+last_researched: 2026-07-09
 ---
 
 ## Background
@@ -110,6 +110,7 @@ Based on 20 independently verified investments from primary sources (press relea
 | Kernel | 2025 | Series A | [^25] |
 | Plakar | 2025 | Pre-Seed | [^24] |
 | Recall.ai | 2026 | Series B | [^26] |
+| Ollama | 2026-07-09 | Series B ($65M, angel participant; Theory Ventures led) | [^31][^32] |
 
 *This table represents 20 verified investments, approximately 40–100% of Hykes' total portfolio depending on which aggregator database is used (estimates range from 19 to 49 total investments) [^7]. Companies appearing only in aggregator databases but not independently verifiable through primary sources are excluded from this table.*
 
@@ -201,3 +202,7 @@ No independently sourced founder testimonials found about Solomon Hykes as an in
 [^28]: Solomon Hykes (@solomonstre) on X, March 27, 2019. https://x.com/solomonstre/status/1111004913222324225
 [^29]: Redpoint Ventures, "Solomon Hykes teaches Building an Open Source Business," accessed March 2026. https://www.redpoint.com/start/video/build-open-source-business-solomon-hykes/
 [^30]: The New Stack, "Open Source Leaders: Solomon Hykes and the Docker Revolution," accessed March 2026. https://thenewstack.io/solomon-hykes-leader-open-source-world-needs/
+
+[^31]: Rebecca Bellan, "Popular open-source AI developer tool Ollama raises $65M, grows to nearly 9M users," TechCrunch, July 9, 2026. Accessed July 9, 2026. https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
+
+[^32]: Ollama, "Ollama: all aboard open models," Ollama Blog, July 9, 2026. Accessed July 9, 2026. https://ollama.com/blog/all-aboard-open-models — Company announcement lists Solomon Hykes (Docker founder) as a participating angel investor in the Series B.

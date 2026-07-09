@@ -47,6 +47,33 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Popular open source AI developer tool Ollama raises $65M, grows to nearly
+    9M users
+  url: https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
+  source: techcrunch
+  date_found: '2026-07-09'
+  parsed_company: Popular open source AI developer tool Ollama
+  parsed_amount: $65M
+  parsed_round: null
+  status: pending
+- title: Europe Posted Its Strongest Venture Funding Quarter In 4 Years As UK Gains,
+    M&A Holds Up
+  url: https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/
+  source: crunchbase
+  date_found: '2026-07-09'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: University of Sheffield spin-out Pixel-Flo raises €6.1 million to scale microLED
+    display manufacturing
+  url: https://www.eu-startups.com/2026/07/university-of-sheffield-spin-out-pixel-flo-raises-e6-1-million-to-scale-microled-display-manufacturing/
+  source: eu-startups
+  date_found: '2026-07-09'
+  parsed_company: University of Sheffield spin-out Pixel-Flo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last
     mega round
   url: https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/

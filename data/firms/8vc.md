@@ -119,6 +119,7 @@ Based on 8VC's verified portfolio and public data:
 | Minerva | Seed ($20M, participated) | 2026-06-09 | AI / Consumer Marketing | Private [^30][^31][^32] |
 | Coram AI | Series B ($35M, participated; Battery + Ansa Capital co-led) | 2026-06-10 | AI / Physical Security | Private [^33][^34][^35] |
 | Bespoke Labs | Seed (led, $8.25M portion) — combined $40M Seed + Series A announced 2026-07-06 (Wing led $31.75M Series A) | 2026-07-06 | AI / RL Environments / Data Curation | Private [^36][^37][^38][^39] |
+| Ollama | Series B (participated, $65M; Theory Ventures led; Benchmark also participated) | 2026-07-09 | AI / Developer Tools / Open Source Models | Private [^40][^41] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -202,3 +203,7 @@ No independently sourced founder testimonials found.
 [^37]: Bespoke Labs company announcement on LinkedIn, July 6, 2026. Accessed July 2026. https://www.linkedin.com/company/bespokelabsai — Company-channel confirmation of Wing VC (Series A), 8VC (Seed), Mayfield, and The House Fund as institutional backers.
 [^38]: SiliconANGLE, "AI post-training startup Bespoke Labs raises $40M in funding," July 6, 2026. Accessed July 2026. https://siliconangle.com/2026/07/06/ai-post-training-startup-bespoke-labs-raises-40m-funding/ — Contemporaneous tier-1 tech press confirming $40M total split between $31.75M Series A led by Wing VC (with Mayfield, The House Fund, Anthropic employees participating) and $8.25M Seed led by 8VC (with Jeff Dean and others participating).
 [^39]: The SaaS News, "Bespoke Labs Raises $40M Series A," July 6, 2026. Accessed July 2026. https://www.thesaasnews.com/news/bespoke-labs-raises-40m-series-a/ — Independent third-party confirmation: Series A led by Wing VC with Mayfield, The House Fund, dbt Labs CEO Tristan Handy, and angels from Anthropic/OpenAI/Meta; Seed led by 8VC with Jeff Dean, Resolve AI CEO Spiros Xanthos, and DevRev CEO Dheeraj Pandey.
+
+[^40]: Rebecca Bellan, "Popular open-source AI developer tool Ollama raises $65M, grows to nearly 9M users," TechCrunch, July 9, 2026. Accessed July 9, 2026. https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
+
+[^41]: Ollama, "Ollama: all aboard open models," Ollama Blog, July 9, 2026. Accessed July 9, 2026. https://ollama.com/blog/all-aboard-open-models — Company announcement naming Benchmark, Theory Ventures, 8VC (Alex Kolicich) as backers.

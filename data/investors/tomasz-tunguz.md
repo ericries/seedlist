@@ -9,15 +9,15 @@ stage_focus: [seed, series-a]
 sector_focus: [data-infrastructure, ai, saas, developer-tools, web3, blockchain, ai-agents, vector-database, business-intelligence]
 check_size: "$1M-$25M"
 last_verified_investment:
-  date: 2026-06-25
-  company: "Sail Research"
-  round: "Seed + Series A"
+  date: 2026-07-09
+  company: "Ollama"
+  round: "Series B"
 social:
   bluesky: "@ttunguz.bsky.social"
   twitter: "@ttunguz"
   linkedin: "linkedin.com/in/tomasztunguz"
 status: published
-last_researched: 2026-06-30
+last_researched: 2026-07-09
 ---
 
 ## Background
@@ -85,6 +85,7 @@ Predominantly **Series A leads with board seats** — Tunguz took Theory board s
 | Artemis | 2026 | Seed + Series A ($70M, participation; Felicis led A) | [^25] |
 | Allium | 2026 | Series B ($40M, participation; Amplify led) | [^28] |
 | Sail Research | 2026 | Seed + Series A ($80M combined, participation; Kleiner led A, Sequoia led seed) | [^24] |
+| Ollama | 2026-07-09 | Series B ($65M, led — Theory Ventures) — Tunguz personally attributed as Theory partner in company announcement | [^35][^36] |
 
 **Redpoint Ventures era (2013–2022) — selected board-seat / lead investments:**
 
@@ -201,3 +202,7 @@ No independently sourced founder testimonials describing the working relationshi
 [^32]: "The zen of Tomasz Tunguz," Mixpanel Signals & Stories, accessed June 2026. https://mixpanel.com/blog/the-zen-of-tomasz-tunguz/
 [^33]: PR Newswire, "Kustomer Secures $26 Million in Series B Funding to Modernize Customer Experience," June 15, 2018, accessed July 2026. https://www.prnewswire.com/news-releases/kustomer-secures-26-million-in-series-b-funding-to-modernize-customer-experience-300666788.html — Primary source confirming June 15, 2018 announcement of Kustomer's $26M Series B led by Redpoint Ventures with Canaan Partners, Boldstart Ventures, Social Leverage, and Cisco Investments; Tunguz joined the Board.
 [^34]: FinSMEs, "CRM Company Kustomer Raises $26M in Series B Funding," June 2018, accessed July 2026. https://www.finsmes.com/2018/06/crm-company-kustomer-raises-26m-in-series-b-funding.html — Independent confirmation of $26M Series B led by Redpoint with Canaan Partners, Boldstart, Social Leverage, and Cisco Investments.
+
+[^35]: Rebecca Bellan, "Popular open-source AI developer tool Ollama raises $65M, grows to nearly 9M users," TechCrunch, July 9, 2026. Accessed July 9, 2026. https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/ — Confirms $65M Series B led by Theory Ventures on July 9, 2026.
+
+[^36]: Ollama, "Ollama: all aboard open models," Ollama Blog, July 9, 2026. Accessed July 9, 2026. https://ollama.com/blog/all-aboard-open-models — Company announcement naming Theory Ventures (with Tomasz Tunguz) as a lead investor.
