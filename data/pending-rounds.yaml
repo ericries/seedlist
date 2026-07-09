@@ -29,6 +29,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Belgium’s e-peas secures €19.2 million to scale ultra-low-power energy harvesting
+    and power management solutions
+  url: https://www.eu-startups.com/2026/07/belgiums-e-peas-secures-e19-2-million-to-scale-ultra-low-power-energy-harvesting-and-power-management-solutions/
+  source: eu-startups
+  date_found: '2026-07-09'
+  parsed_company: Belgium’s e-peas
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Alchemab Therapeutics secures €29.3 million as British Business Bank makes
+    its largest life sciences investment yet
+  url: https://www.eu-startups.com/2026/07/londons-alchemab-therapeutics-secures-e29-3-million-as-british-business-bank-makes-its-largest-life-sciences-investment-yet/
+  source: eu-startups
+  date_found: '2026-07-09'
+  parsed_company: Alchemab Therapeutics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last
     mega round
   url: https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
@@ -108,6 +126,15 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
+  status: pending
+- title: Prime Intellect raises $130M Series A to help enterprises build their own
+    AI agents
+  url: https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
+  source: techcrunch
+  date_found: '2026-07-08'
+  parsed_company: Prime Intellect
+  parsed_amount: $130M
+  parsed_round: Series A
   status: pending
 - title: Lisbon-based BIZAY raises €48.7 million Series D; set to surpass €88.6 million
     revenue and reach profitability
