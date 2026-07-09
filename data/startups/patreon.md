@@ -130,6 +130,9 @@ investors:
 - round: Seed
   slug: saar-gur
   year: 2013
+- round: Seed (Initialized)
+  slug: harj-taggar
+  year: 2013
 last_researched: 2026-03-20
 location: San Francisco, CA
 name: Patreon

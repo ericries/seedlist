@@ -24724,7 +24724,7 @@ queue:
 - name: Harj Taggar
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Y Combinator
   discovered_from: daniel-kan
@@ -24818,7 +24818,7 @@ queue:
 - name: Apoorva Mehta
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: independent
   discovered_from: max-mullen
@@ -37179,3 +37179,311 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: quantumdiamonds
+- name: Northern Gritstone
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pixel-flo
+  source: led Pixel-Flo Seed (£5.25M, 2026-07-09) — northern UK deep-tech investor
+    tied to Universities of Manchester, Leeds, Sheffield
+- name: SCVC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pixel-flo
+  source: participated in Pixel-Flo Seed (£5.25M, 2026-07-09) — UK deep-tech/hard-sciences
+    VC
+- name: Parkwalk Northern Universities Venture Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pixel-flo
+  source: participated in Pixel-Flo Seed (£5.25M, 2026-07-09) — Parkwalk (IP Group)
+    Northern Universities university-spinout fund
+- name: HTGF (High-Tech Gründerfonds)
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pixel-flo
+  source: participated in Pixel-Flo Seed (£5.25M, 2026-07-09) — German public-private
+    seed fund
+- name: Duncan Johnson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Northern Gritstone
+  discovered_from: pixel-flo
+  source: CEO of Northern Gritstone, quoted on Pixel-Flo Seed (£5.25M, 2026-07-09)
+- name: John Williams
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SCVC
+  discovered_from: pixel-flo
+  source: SCVC partner quoted on Pixel-Flo Seed (£5.25M, 2026-07-09)
+- name: Anne Umbach
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: HTGF
+  discovered_from: pixel-flo
+  source: HTGF investor quoted on Pixel-Flo Seed (£5.25M, 2026-07-09)
+- name: Crédit Mutuel Innovation
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: e-peas
+  source: Led e-peas Series C (€19.2M / ~$22M, 2026-07-08) — VC arm of Crédit Mutuel
+    Equity (France)
+- name: Alexis Riou
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Crédit Mutuel Innovation
+  discovered_from: e-peas
+  source: Quoted on behalf of Crédit Mutuel Innovation in e-peas Series C announcement
+    (2026-07-08)
+- name: SFPIM
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: e-peas
+  source: Belgian federal investment fund; co-participated in e-peas Series C (€19.2M,
+    2026-07-08)
+- name: Alan Vandenberghe
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SFPIM
+  discovered_from: e-peas
+  source: Investment Manager at SFPIM; quoted in e-peas Series C announcement (2026-07-08)
+- name: European Innovation Council (EIC Fund)
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: e-peas
+  source: Participated in e-peas Series C (2026-07-08) and prior 2024 €17.5M round
+- name: Wallonie Entreprendre
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: e-peas
+  source: Walloon regional investment agency; participated in e-peas Series C (2026-07-08)
+- name: KBC Focus Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: e-peas
+  source: Belgian bank-backed fund; participated in e-peas Series C (2026-07-08) and
+    prior rounds
+- name: Otium Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: e-peas
+  source: Led e-peas 2024 €17.5M round; participated in Series C (2026-07-08)
+- name: Nomainvest
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: e-peas
+  source: Belgian VC; participated in e-peas Series C (2026-07-08) and prior 2024
+    round
+- name: The Faktory
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: e-peas
+  source: Belgian VC; historical e-peas investor, participated in Series C (2026-07-08)
+- name: Invest BW
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: e-peas
+  source: Brabant Wallon regional fund; historical e-peas investor, participated in
+    Series C (2026-07-08)
+- name: Alex Kolicich
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: 8VC
+  discovered_from: ollama
+  source: '8VC founding partner; led 8VC''s participation in Ollama Series B (2026-07-09).
+    Prior: Mithril Capital Principal; engineer at Palantir, Google, Clarium.'
+- name: Aaron Katz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: ClickHouse
+  discovered_from: ollama
+  source: ClickHouse CEO, angel investor in Ollama Series B (2026-07-09)
+- name: Spencer Kimball
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cockroach Labs
+  discovered_from: ollama
+  source: Cockroach Labs co-founder and CEO, angel investor in Ollama Series B (2026-07-09)
+- name: Quinn Slack
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Amp (formerly Sourcegraph)
+  discovered_from: ollama
+  source: Amp CEO (formerly Sourcegraph CEO), angel investor in Ollama Series B (2026-07-09)
+- name: Michael Montano
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: (former Twitter)
+  discovered_from: ollama
+  source: Former Twitter engineering head; angel investor in Ollama Series B (2026-07-09)
+- name: Pace Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ollama
+  source: Listed as Ollama backer in company Series B announcement (2026-07-09)
+- name: 49 Palms
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ollama
+  source: Listed as Ollama backer in company Series B announcement (2026-07-09)
+- name: GTMFund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ollama
+  source: Listed as Ollama backer in company Series B announcement (2026-07-09)
+- name: Kulveer Taggar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harj-taggar
+  source: Harj Taggar's brother; co-founded Auctomatic (YC W07, acquired by Live Current
+    Media 2008); active angel investor including Octolane 2025 seed
+- name: Ammon Bartram
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harj-taggar
+  source: Co-founder Triplebyte (YC S15) with Harj Taggar and Guillaume Luccisano
+- name: Guillaume Luccisano
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harj-taggar
+  source: Co-founder Triplebyte (YC S15) with Harj Taggar and Ammon Bartram
+- name: Auctomatic
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harj-taggar
+  source: YC W07 online seller platform co-founded by Harj Taggar, Kulveer Taggar,
+    Patrick Collison, John Collison; acquired by Live Current Media 2008
+- name: Marissa Mayer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: harj-taggar
+  source: Angel investor in Triplebyte Series A (2018-02-28); former CEO Yahoo, ex-Google
+    VP; co-founded Sunshine
+- name: Cloud Health Systems
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apoorva-mehta
+  source: Founded 2022 by Apoorva Mehta and Tejasvi Singh; raised $30M Series A led
+    by Thrive Capital (2022-11-29); first brand Sunrise, metabolic health/obesity
+    D2C. Grokipedia and Wikipedia both confirm.
+- name: Abundance
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apoorva-mehta
+  source: AI-driven hedge fund founded 2025 by Apoorva Mehta in Palo Alto; raised
+    $100M seed equity to deploy AI agents for trading (Bloomberg 2026-04-24)
+- name: Superblocks
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apoorva-mehta
+  source: Enterprise internal-tools builder; raised $37M Series A led by Kleiner Perkins
+    with Greenoaks, Spark, Meritech (2022-08-11); Apoorva Mehta and Max Mullen angel
+    investors
+- name: Tezi
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apoorva-mehta
+  source: AI-native recruiting startup with agent 'Max'; raised $9M seed (2024-07-31)
+    with participation from Apoorva Mehta, Prime Set, Audacious Ventures, Marco Zappacosta,
+    Liquid 2 Ventures
+- name: Tejasvi Singh
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cloud Health Systems
+  discovered_from: apoorva-mehta
+  source: Co-founder Cloud Health Systems / Sunrise with Apoorva Mehta (2022)
+- name: Twilio Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: coval
+  source: Participated in Coval Series A ($28M, 2026-06-23); Twilio corporate venture
+    arm
+- name: MaC Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: coval
+  source: Participated in Coval Series A ($28M, 2026-06-23)
+- name: Brooke Hopkins
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Coval
+  discovered_from: coval
+  source: Founder and CEO Coval (Series A 2026-06-23); previously built evaluation
+    systems for autonomous vehicles at Waymo

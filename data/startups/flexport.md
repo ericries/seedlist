@@ -173,6 +173,9 @@ investors:
 - round: Seed
   slug: scott-belsky
   year: 2013
+- round: Seed (Initialized)
+  slug: harj-taggar
+  year: 2014
 last_researched: 2026-03-23
 location: San Francisco, CA
 name: Flexport

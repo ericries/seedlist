@@ -33,6 +33,11 @@ investors:
   round: seed
   slug: danielle-strachman
   year: 2021
+- round: Seed (USD 4.25M; Bessemer Venture Partners led; Newfund Capital + Riverpark
+    Ventures + 1517 Fund + Jason Finger participated; 1517 blog announced check 2020-09-24
+    ahead of formal round)
+  slug: michael-gibson
+  year: 2021
 last_researched: 2026-03-28
 location: New York, NY
 name: Cents

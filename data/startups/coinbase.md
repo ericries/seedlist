@@ -24,10 +24,10 @@ firms:
 - round: Pre-IPO
   slug: pantera-capital
   year: 2013
-- round: Series A
+- date: 2013-05-08
+  round: Series A
   slug: ribbit-capital
   year: 2013
-  date: 2013-05-08
 - round: Growth
   slug: addition
   year: 2013
@@ -37,14 +37,14 @@ firms:
 - round: ~2015
   slug: draper-associates
   year: 2015
-- round: Series B
+- date: 2013-12-12
+  round: Series B
   slug: andreessen-horowitz
   year: 2013
-  date: 2013-12-12
-- round: Series A
+- date: 2013-05-08
+  round: Series A
   slug: union-square-ventures
   year: 2013
-  date: 2013-05-08
 - round: '2018'
   slug: paradigm
   year: 2018
@@ -115,14 +115,14 @@ investors:
 - round: ~2015
   slug: tim-draper
   year: 2015
-- round: Series B (Lead)
+- date: 2013-12-12
+  round: Series B (Lead)
   slug: chris-dixon
   year: 2013
-  date: 2013-12-12
-- round: Series A
+- date: 2013-05-08
+  round: Series A
   slug: fred-wilson
   year: 2013
-  date: 2013-05-08
 - round: '2018'
   slug: matt-huang
   year: 2018
@@ -132,10 +132,10 @@ investors:
 - round: '2012'
   slug: fred-ehrsam
   year: 2012
-- round: Series B (a16z led $25M)
+- date: 2013-12-12
+  round: Series B (a16z led $25M)
   slug: marc-andreessen
   year: 2013
-  date: 2013-12-12
 - round: Series D (Lead)
   slug: tom-loverro
   year: 2017
@@ -166,6 +166,9 @@ investors:
 - round: Multiple rounds (Nof named as leading Tusk's involvement)
   slug: jordan-nof
   year: 2017
+- round: Seed (Initialized)
+  slug: harj-taggar
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Coinbase

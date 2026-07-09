@@ -27,6 +27,9 @@ investors:
 - round: ~2021
   slug: turner-novak
   year: 2021
+- round: Series A ($22M)
+  slug: apoorva-mehta
+  year: 2022
 last_researched: 2026-06-03
 location: San Francisco, CA
 name: Forage

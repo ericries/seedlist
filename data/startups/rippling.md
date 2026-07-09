@@ -119,6 +119,9 @@ investors:
 - round: Early/Seed
   slug: josh-buckley
   year: 2016
+- round: Seed (Initialized)
+  slug: harj-taggar
+  year: 2016
 last_researched: 2026-03-17
 location: San Francisco, CA
 name: Rippling

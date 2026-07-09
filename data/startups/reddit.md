@@ -150,6 +150,9 @@ investors:
 - round: Early
   slug: scott-belsky
   year: 2014
+- round: Seed (Initialized)
+  slug: harj-taggar
+  year: 2014
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Reddit

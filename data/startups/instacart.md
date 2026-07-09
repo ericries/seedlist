@@ -130,6 +130,12 @@ investors:
 - round: Series B ($44M round)
   slug: jeff-jordan
   year: 2014
+- round: Seed (Initialized)
+  slug: harj-taggar
+  year: 2012
+- round: Founder, CEO 2012–2021, Executive Chairman 2021–2023
+  slug: apoorva-mehta
+  year: 2012
 last_researched: 2026-03-13
 location: San Francisco, California
 name: Instacart

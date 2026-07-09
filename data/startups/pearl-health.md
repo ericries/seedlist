@@ -1,34 +1,44 @@
 ---
-name: "Pearl Health"
-slug: pearl-health
-type: startup
-website: "https://pearlhealth.com"
-location: "New York, NY"
-founded: 2020
-status_company: active
-sector: [healthcare, digital-health, value-based-care, ai]
-stage_latest: "Series C"
-total_raised: "$125.5M+"
-investors: []
 firms:
-  - slug: andreessen-horowitz
-    round: series-b
-    year: 2023
-  - slug: andreessen-horowitz
-    round: series-c
-    year: 2026
-    date: 2026-07-08
+- round: series-b
+  slug: andreessen-horowitz
+  year: 2023
+- date: 2026-07-08
+  round: series-c
+  slug: andreessen-horowitz
+  year: 2026
+founded: 2020
 founders:
-  - name: "Michael Kopko"
-    role: "Co-Founder & CEO"
-  - name: "Ankit Patel"
-    role: "Co-Founder"
-  - name: "Jeff De Flavio"
-    role: "Co-Founder"
-  - name: "Kevin Ryan"
-    role: "Co-Founder"
-status: published
+- name: Michael Kopko
+  role: Co-Founder & CEO
+- name: Ankit Patel
+  role: Co-Founder
+- name: Jeff De Flavio
+  role: Co-Founder
+- name: Kevin Ryan
+  role: Co-Founder
+investors:
+- round: '2023'
+  slug: scott-kupor
+  year: 2023
+- round: '2023-01-26'
+  slug: julie-yoo
+  year: 2023
 last_researched: 2026-07-08
+location: New York, NY
+name: Pearl Health
+sector:
+- healthcare
+- digital-health
+- value-based-care
+- ai
+slug: pearl-health
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $125.5M+
+type: startup
+website: https://pearlhealth.com
 ---
 
 ## About

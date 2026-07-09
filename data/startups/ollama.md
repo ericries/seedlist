@@ -1,55 +1,73 @@
 ---
-name: "Ollama"
-slug: ollama
-type: startup
-website: "https://ollama.com"
-location: "Palo Alto, CA"
-founded: 2023
-status_company: active
-sector: [developer-tools, ai, open-source, infrastructure, ai-infrastructure]
-stage_latest: "Series B"
-total_raised: "$88M (through Series B, 2026-07-09)"
-investors:
-  - slug: peter-fenton
-    round: series-a
-    year: 2024
-  - slug: peter-fenton
-    round: series-b
-    year: 2026
-    date: 2026-07-09
-  - slug: tomasz-tunguz
-    round: series-b
-    year: 2026
-    date: 2026-07-09
-  - slug: solomon-hykes
-    round: series-b
-    year: 2026
-    date: 2026-07-09
 firms:
-  - slug: benchmark
-    round: series-a
-    year: 2024
-  - slug: benchmark
-    round: series-b
-    year: 2026
-    date: 2026-07-09
-  - slug: 8vc
-    round: series-b
-    year: 2026
-    date: 2026-07-09
-  - slug: y-combinator
-    round: pre-seed
-    year: 2023
-  - slug: garage-capital
-    round: pre-seed
-    year: 2023
+- round: series-a
+  slug: benchmark
+  year: 2024
+- date: 2026-07-09
+  round: series-b
+  slug: benchmark
+  year: 2026
+- date: 2026-07-09
+  round: series-b
+  slug: 8vc
+  year: 2026
+- round: pre-seed
+  slug: y-combinator
+  year: 2023
+- round: pre-seed
+  slug: garage-capital
+  year: 2023
+- round: Seed
+  slug: hanabi-capital
+  year: 2021
+- round: Series B ($65M, led — Theory Ventures) — Tunguz personally attributed as
+    Theory partner in company announcement
+  slug: theory-ventures
+  year: 2026
+- round: Series B ($65M, angel participant; Theory Ventures led)
+  slug: dagger
+  year: 2026
+founded: 2023
 founders:
-  - name: "Jeffrey Morgan"
-    role: "Co-Founder & CEO"
-  - name: "Michael Chiang"
-    role: "Co-Founder"
-status: published
+- name: Jeffrey Morgan
+  role: Co-Founder & CEO
+- name: Michael Chiang
+  role: Co-Founder
+investors:
+- round: series-a
+  slug: peter-fenton
+  year: 2024
+- date: 2026-07-09
+  round: series-b
+  slug: peter-fenton
+  year: 2026
+- date: 2026-07-09
+  round: series-b
+  slug: tomasz-tunguz
+  year: 2026
+- date: 2026-07-09
+  round: series-b
+  slug: solomon-hykes
+  year: 2026
+- round: Seed
+  slug: bryan-offutt
+  year: 2021
 last_researched: 2026-07-09
+location: Palo Alto, CA
+name: Ollama
+sector:
+- developer-tools
+- ai
+- open-source
+- infrastructure
+- ai-infrastructure
+slug: ollama
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $88M (through Series B, 2026-07-09)
+type: startup
+website: https://ollama.com
 ---
 
 ## About
