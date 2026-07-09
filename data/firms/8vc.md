@@ -118,7 +118,7 @@ Based on 8VC's verified portfolio and public data:
 | Cognition | $1B+ growth (co-led with Lux Capital and General Catalyst at $26B post-money) | 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^29] |
 | Minerva | Seed ($20M, participated) | 2026-06-09 | AI / Consumer Marketing | Private [^30][^31][^32] |
 | Coram AI | Series B ($35M, participated; Battery + Ansa Capital co-led) | 2026-06-10 | AI / Physical Security | Private [^33][^34][^35] |
-| Bespoke Labs | Seed (led) — combined $40M Seed + Series A announced 2026-07-06 (Wing led Series A) | 2026-07-06 | AI / RL Environments / Data Curation | Private [^36][^37] |
+| Bespoke Labs | Seed (led, $8.25M portion) — combined $40M Seed + Series A announced 2026-07-06 (Wing led $31.75M Series A) | 2026-07-06 | AI / RL Environments / Data Curation | Private [^36][^37][^38][^39] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -200,3 +200,5 @@ No independently sourced founder testimonials found.
 [^36]: VentureBurn, "Bespoke Labs Raises $40M in Funding To Train Reliable Agents," July 6, 2026. Accessed July 2026. https://ventureburn.com/bespoke-labs-raises-40m-ai-agent-training/ — Bespoke Labs announced $40M combined Seed and Series A on July 6, 2026; Series A led by Wing VC, Seed led by 8VC, with Mayfield and The House Fund participating.
 
 [^37]: Bespoke Labs company announcement on LinkedIn, July 6, 2026. Accessed July 2026. https://www.linkedin.com/company/bespokelabsai — Company-channel confirmation of Wing VC (Series A), 8VC (Seed), Mayfield, and The House Fund as institutional backers.
+[^38]: SiliconANGLE, "AI post-training startup Bespoke Labs raises $40M in funding," July 6, 2026. Accessed July 2026. https://siliconangle.com/2026/07/06/ai-post-training-startup-bespoke-labs-raises-40m-funding/ — Contemporaneous tier-1 tech press confirming $40M total split between $31.75M Series A led by Wing VC (with Mayfield, The House Fund, Anthropic employees participating) and $8.25M Seed led by 8VC (with Jeff Dean and others participating).
+[^39]: The SaaS News, "Bespoke Labs Raises $40M Series A," July 6, 2026. Accessed July 2026. https://www.thesaasnews.com/news/bespoke-labs-raises-40m-series-a/ — Independent third-party confirmation: Series A led by Wing VC with Mayfield, The House Fund, dbt Labs CEO Tristan Handy, and angels from Anthropic/OpenAI/Meta; Seed led by 8VC with Jeff Dean, Resolve AI CEO Spiros Xanthos, and DevRev CEO Dheeraj Pandey.

@@ -37,7 +37,7 @@ Bespoke Labs is a Mountain View–based AI research company that builds reinforc
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-06 | Seed + Series A (combined announcement) | $40M | Wing Venture Capital (Series A), 8VC (Seed) | Mayfield, The House Fund, Jeff Dean, Tristan Handy, Dheeraj Pandey, Tasso Argyros [^1][^2][^3] |
+| 2026-07-06 | Seed + Series A (combined announcement) | $40M ($31.75M Series A + $8.25M Seed) | Wing Venture Capital (Series A), 8VC (Seed) | Mayfield, The House Fund, Jeff Dean, Tristan Handy, Dheeraj Pandey, Spiros Xanthos, Tasso Argyros, angels from Anthropic/OpenAI/Meta [^1][^2][^3][^4][^5][^6] |
 
 ## What Investors Say
 
@@ -53,3 +53,5 @@ In a company statement accompanying the announcement, the team said they had bee
 [^2]: Digg (Fortune Term Sheet reprint), "Bespoke Labs raises $40M for AI agent training," July 6, 2026. Accessed July 2026. https://digg.com/tech/keymoeqf
 [^3]: Bespoke Labs company announcement on LinkedIn, July 6, 2026. Accessed July 2026. https://www.linkedin.com/company/bespokelabsai
 [^4]: Axios Pro Rata deal listing, July 6, 2026. Accessed July 2026. https://www.axios.com/newsletters/axios-pro-rata
+[^5]: SiliconANGLE, "AI post-training startup Bespoke Labs raises $40M in funding," July 6, 2026. Accessed July 2026. https://siliconangle.com/2026/07/06/ai-post-training-startup-bespoke-labs-raises-40m-funding/ — Contemporaneous tier-1 tech press: $40M total = $31.75M Series A led by Wing VC (Mayfield, The House Fund, Anthropic employees participated) + $8.25M Seed led by consortium including Jeff Dean.
+[^6]: The SaaS News, "Bespoke Labs Raises $40M Series A," July 6, 2026. Accessed July 2026. https://www.thesaasnews.com/news/bespoke-labs-raises-40m-series-a/ — Independent third-party confirmation: Series A led by Wing VC (Mayfield, The House Fund, Tristan Handy, angels from Anthropic/OpenAI/Meta participated); Seed led by 8VC (Jeff Dean, Spiros Xanthos, Dheeraj Pandey participated).

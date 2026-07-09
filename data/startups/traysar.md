@@ -33,7 +33,7 @@ Traysar is an Austin, Texas-based defense technology company building autonomous
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-16 | Seed | $25M | Silent Ventures | Lux Capital, Ora Global, NeverLift VC, Mana, Impatient Ventures, New Vista, Entree Capital; angels including Steve Blank, founders from Anduril and Erebor, early SpaceX engineers [^1][^2][^3] |
+| 2026-06-16 | Seed | $25M | Silent Ventures | Lux Capital, Ora Global, NeverLift VC, Mana, Impatient Ventures, New Vista, Entree Capital; angels including Steve Blank, founders from Anduril and Erebor, early SpaceX engineers [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -48,3 +48,4 @@ Traysar is an Austin, Texas-based defense technology company building autonomous
 [^1]: "Traysar Raises $25M Seed, Emerges from Stealth at Reindustrialize as the World's First Subterranean Defense Tech Company," PR Newswire press release, June 16, 2026, accessed July 2026. https://www.prnewswire.com/news-releases/traysar-raises-25m-seed-emerges-from-stealth-at-reindustrialize-as-the-worlds-first-subterranean-defense-tech-company-302802698.html
 [^2]: "Traysar emerges from stealth with $25M seed for subterranean defence tech," Dealroom.co, accessed July 2026. https://app.dealroom.co/news/note/traysar-emerges-from-stealth-with-25m-seed-for-subterranean-defence-tech
 [^3]: "Traysar Raises $25M Seed, Emerges from Stealth at Reindustrialize as the World's First Subterranean Defense Tech Company," Yahoo Finance / Morningstar syndication of PR Newswire release, June 17, 2026, accessed July 2026. https://finance.yahoo.com/technology/articles/traysar-raises-25m-seed-emerges-043300776.html
+[^4]: SatNews, "Underground Maneuver: Traysar Emerges From Stealth With $25M Seed Round to Modernize Subterranean Warfare," June 23, 2026. Accessed July 2026. https://satnews.com/2026/06/23/underground-maneuver-traysar-emerges-from-stealth-with-25m-seed-round-to-modernize-subterranean-warfare/ — Independent third-party contemporaneous confirmation of Silent Ventures lead with Lux Capital, Ora Global, NeverLift VC, Mana, Impatient Ventures, New Vista, and Entree Capital participating; strategic angels include Steve Blank and founders from Anduril and Erebor.

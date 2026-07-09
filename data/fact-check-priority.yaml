@@ -4696,12 +4696,30 @@ priority:
     the pattern.
 - slug: lux-capital
   type: firm
-  reason: appeared in Traysar Seed (2026-06-16), $25M
+  reason: 'Fact-spec sweep 2026-07-08: Traysar Seed 2026-06-16 verified via 3 independent
+    contemporaneous primary sources (PR Newswire [^traysar1] 2026-06-16 official press
+    release, Dealroom.co [^traysar2], NEW SatNews [^traysar3] 2026-06-23). All 3 confirm
+    Silent Ventures led $25M seed; Lux Capital, Ora Global, NeverLift VC, Mana,
+    Impatient Ventures, New Vista, and Entree Capital participated. Also fixed orphan
+    [^monogram1][^monogram2][^monogram3] references on Monogram row (co-led with DST
+    Global, $40M seed, 2026-07-07) — added 3 real citations: Monogram company blog
+    [^monogram1], Eren Bali X post [^monogram2], Tech Startups [^monogram3]. Parallel
+    update on traysar.md startup profile: added SatNews as [^4] and updated citations.'
   added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-08
 - slug: kredosai
   type: startup
-  reason: new profile from KredosAi Series A (2026-07-02), $7M
+  reason: 'Fact-spec sweep 2026-07-08: new profile reviewed and confirmed clean —
+    already has 4 sources (GeekWire [^1], Tech Funding News [^2] 2026-07-02, FinTech
+    Global [^3] 2026-07-03, BusinessWire [^4] 2026-07-02). Round details verified via
+    FinTech Global refetch: $7M Series A led by BMW i Ventures; new investors Motley
+    Fool Ventures and Walter Ventures; existing investors Okapi Venture Capital,
+    StartFast Ventures, SaaS Ventures, Stout Street Capital. Date 2026-07-02 matches
+    BusinessWire release. No changes required to the profile.'
   added: 2026-07-05
+  status: resolved
+  resolved: 2026-07-08
 - slug: index-ventures
   type: firm
   reason: 'Fact-spec sweep 2026-07-06 (second pass): tightened Figma Seed 2013 ->
@@ -4775,9 +4793,19 @@ priority:
     hanabi-capital.md. Rows left unchanged; queue entries marked unresolvable.'
 - slug: 8vc
   type: firm
-  reason: appeared in Bespoke Labs Seed+Series A (2026-07-06), $40M combined (Series
-    A led by Wing VC, Seed led by 8VC)
+  reason: 'Fact-spec sweep 2026-07-08: Bespoke Labs Seed row on 8vc.md tightened via
+    3 independent contemporaneous primary sources. Split confirmed: $40M total =
+    $31.75M Series A led by Wing VC + $8.25M Seed led by 8VC. Series A participants:
+    Mayfield, The House Fund, Tristan Handy (dbt Labs), angels from Anthropic/OpenAI/Meta.
+    Seed participants: Jeff Dean (Google DeepMind), Spiros Xanthos (Resolve AI CEO),
+    Dheeraj Pandey (DevRev CEO). Sources: existing VentureBurn [^36] 2026-07-06,
+    existing Bespoke LinkedIn [^37], NEW SiliconANGLE [^38] 2026-07-06 (confirmed
+    amount split), NEW The SaaS News [^39] 2026-07-06. Parallel updates on
+    bespoke-labs.md startup profile: added SiliconANGLE [^5] and The SaaS News [^6];
+    updated Funding History with amount split and expanded participant list.'
   added: 2026-07-06
+  status: resolved
+  resolved: 2026-07-08
 - slug: mayfield-fund
   type: firm
   reason: appeared in Bespoke Labs Seed+Series A (2026-07-06), $40M combined
