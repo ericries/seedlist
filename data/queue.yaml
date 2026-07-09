@@ -24550,7 +24550,7 @@ queue:
 - name: Andi Kazeroonian
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Outward VC
   discovered_from: infrawatch
@@ -24641,7 +24641,7 @@ queue:
 - name: Brett Adcock
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hark
   discovered_from: hark
@@ -37059,3 +37059,50 @@ queue:
   firm: Prime Intellect
   discovered_from: prime-intellect
   source: CEO/co-founder of Prime Intellect (2026-07-08 Series A)
+- name: Kevin Chong
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Outward VC
+  discovered_from: andi-kazeroonian
+  source: Co-founder and General Partner at Outward VC
+- name: Devin Kohli
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Outward VC
+  discovered_from: andi-kazeroonian
+  source: Co-founder and General Partner at Outward VC
+- name: Sanchit Dhote
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Outward VC
+  discovered_from: andi-kazeroonian
+  source: Principal at Outward VC, London fintech
+- name: Form Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andi-kazeroonian
+  source: Co-investor with Outward VC on Firenze £2.5M seed (March 2025); UK regulated-industries
+    VC
+- name: Pentech Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: andi-kazeroonian
+  source: Co-investor with Outward VC on Vauban £4.7M round, December 2021
+- name: Jay Wilson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: AlbionVC
+  discovered_from: andi-kazeroonian
+  source: Led Firenze's £6M Series A on behalf of AlbionVC, 2026

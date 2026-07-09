@@ -1,18 +1,27 @@
 ---
-name: "Firenze"
-slug: firenze
-type: startup
-website: "https://firenze.co.uk"
-location: "Manchester, UK"
+firms:
+- round: Seed (Outward led, £2.5M, March 26, 2025)
+  slug: outward-vc
+  year: 2025
 founded: 2024
-status_company: active
-sector: [fintech, lending, wealth-management]
-stage_latest: "Seed Extension"
-total_raised: "£8.5M"
-firms: []
-investors: []
-status: published
+investors:
+- round: Seed (Outward led, £2.5M, March 26, 2025)
+  slug: andi-kazeroonian
+  year: 2025
 last_researched: 2026-04-21
+location: Manchester, UK
+name: Firenze
+sector:
+- fintech
+- lending
+- wealth-management
+slug: firenze
+stage_latest: Seed Extension
+status: published
+status_company: active
+total_raised: £8.5M
+type: startup
+website: https://firenze.co.uk
 ---
 
 ## About

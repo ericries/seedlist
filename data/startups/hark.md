@@ -1,11 +1,16 @@
 ---
-name: Hark
-slug: hark
-type: startup
-website: https://hark.com/
-location: United States
+firms: []
 founded: 2025
-status_company: active
+founders:
+- name: Brett Adcock
+  role: Founder & CEO
+investors:
+- round: Founded; $100M personal seed
+  slug: brett-adcock
+  year: 2025
+last_researched: 2026-05-21
+location: United States
+name: Hark
 sector:
 - ai
 - consumer
@@ -13,15 +18,13 @@ sector:
 - foundation-models
 - multimodal
 - ai-agents
+slug: hark
 stage_latest: Series A
-total_raised: $700M+
-investors: []
-firms: []
-founders:
-- name: Brett Adcock
-  role: Founder & CEO
-last_researched: 2026-05-21
 status: published
+status_company: active
+total_raised: $700M+
+type: startup
+website: https://hark.com/
 ---
 
 ## About

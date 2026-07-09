@@ -1,11 +1,19 @@
 ---
-name: Infrawatch
-slug: infrawatch
-type: startup
-website: https://infrawatch.io/
-location: London, United Kingdom
+firms:
+- round: Pre-seed
+  slug: outward-vc
+  year: 2026
 founded: 2025
-status_company: active
+founders:
+- name: Lloyd Davies
+  role: Founder & CEO
+investors:
+- round: Pre-seed
+  slug: andi-kazeroonian
+  year: 2026
+last_researched: 2026-05-21
+location: London, United Kingdom
+name: Infrawatch
 sector:
 - cybersecurity
 - threat-intelligence
@@ -13,15 +21,13 @@ sector:
 - ai
 - fraud-prevention
 - enterprise-software
+slug: infrawatch
 stage_latest: Pre-Seed
-total_raised: £2.2M+
-investors: []
-firms: []
-founders:
-- name: Lloyd Davies
-  role: Founder & CEO
-last_researched: 2026-05-21
 status: published
+status_company: active
+total_raised: £2.2M+
+type: startup
+website: https://infrawatch.io/
 ---
 
 ## About

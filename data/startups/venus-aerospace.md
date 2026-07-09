@@ -1,23 +1,34 @@
 ---
-name: "Venus Aerospace"
-slug: venus-aerospace
-type: startup
-website: "https://www.venusaerospace.com"
-location: "Houston, Texas"
+firms:
+- round: Series A-1 participation
+  slug: cubit-capital
+  year: 2024
 founded: 2020
-status_company: active
-sector: [aerospace, defense, propulsion, hypersonics, deep-tech]
-stage_latest: "Series B"
-total_raised: "$130M+"
-firms: []
-investors: []
 founders:
-  - name: "Sassie Duggleby"
-    role: "CEO & Co-Founder"
-  - name: "Andrew Duggleby"
-    role: "CTO & Co-Founder"
-status: published
+- name: Sassie Duggleby
+  role: CEO & Co-Founder
+- name: Andrew Duggleby
+  role: CTO & Co-Founder
+investors:
+- round: Series A-1 participation
+  slug: ben-kohlmann
+  year: 2024
 last_researched: 2026-07-08
+location: Houston, Texas
+name: Venus Aerospace
+sector:
+- aerospace
+- defense
+- propulsion
+- hypersonics
+- deep-tech
+slug: venus-aerospace
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $130M+
+type: startup
+website: https://www.venusaerospace.com
 ---
 
 ## About

@@ -1,21 +1,31 @@
 ---
-name: "EdVisorly"
-slug: edvisorly
-type: startup
-website: "https://www.edvisorly.com"
-location: "Los Angeles, CA"
+firms:
+- round: '*BBFI / Zeal portfolio*'
+  slug: zeal-capital-partners
+  year: 2023
 founded: 2020
-status_company: active
-sector: [edtech, ai, enterprise-saas, higher-education]
-stage_latest: "Series A"
-total_raised: "$22M+"
-firms: []
-investors: []
 founders:
-  - name: "Manny Smith"
-    role: "Founder & CEO"
-status: published
+- name: Manny Smith
+  role: Founder & CEO
+investors:
+- round: '*BBFI / Zeal portfolio*'
+  slug: stefanie-thomas-martin
+  year: 2023
 last_researched: 2026-07-08
+location: Los Angeles, CA
+name: EdVisorly
+sector:
+- edtech
+- ai
+- enterprise-saas
+- higher-education
+slug: edvisorly
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $22M+
+type: startup
+website: https://www.edvisorly.com
 ---
 
 ## About

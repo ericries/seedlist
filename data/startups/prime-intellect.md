@@ -1,25 +1,67 @@
 ---
-name: "Prime Intellect"
-slug: prime-intellect
-type: startup
-website: "https://www.primeintellect.ai"
-location: "San Francisco, California"
-founded: 2024
-status_company: active
-sector: [ai, ai-infrastructure, ai-agents, machine-learning, reinforcement-learning, developer-tools]
-stage_latest: "Series A"
-total_raised: "$130M+"
 firms:
-  - slug: iconiq-growth
-    round: series-a
-    year: 2026
-    date: 2026-07-08
-investors: []
+- date: 2026-07-08
+  round: series-a
+  slug: iconiq-growth
+  year: 2026
+- round: Seed
+  slug: compound-ventures
+  year: 2024
+- round: Seed (co-led)
+  slug: coinfund
+  year: 2024
+- round: '2025'
+  slug: menlo-ventures
+  year: 2025
+- round: Series A ($15M, led by Founders Fund)
+  slug: hugging-face
+  year: 2025
+founded: 2024
 founders:
-  - name: "Vincent Weisser"
-    role: "CEO & Co-Founder"
-status: published
+- name: Vincent Weisser
+  role: CEO & Co-Founder
+investors:
+- round: Seed
+  slug: michael-dempsey
+  year: 2024
+- round: Seed (co-led)
+  slug: david-pakman
+  year: 2024
+- round: Seed
+  slug: balaji-srinivasan
+  year: 2025
+- round: '2025'
+  slug: deedy-das
+  year: 2025
+- round: Seed ($5.5M, co-led)
+  slug: alex-felix
+  year: 2024
+- round: Seed
+  slug: jake-brukhman
+  year: 2024
+- round: Series A ($15M, led by Founders Fund)
+  slug: clem-delangue
+  year: 2025
+- round: Seed
+  slug: 0xsmac
+  year: 2024
 last_researched: 2026-07-08
+location: San Francisco, California
+name: Prime Intellect
+sector:
+- ai
+- ai-infrastructure
+- ai-agents
+- machine-learning
+- reinforcement-learning
+- developer-tools
+slug: prime-intellect
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $130M+
+type: startup
+website: https://www.primeintellect.ai
 ---
 
 ## About
