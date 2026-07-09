@@ -158,7 +158,7 @@ The following table includes investments made both through Acrew Capital funds (
 | Klar | Growth | ~2021 | Fintech | Active | [^12][^12] |
 | La Haus | Growth | ~2021 | Fintech / Real Estate | Active | [^12] |
 | Marqeta | Growth | ~2019 | Fintech | IPO (NASDAQ, $14.3B) | [^13] |
-| Medallion | Growth | ~2023 | Health | Active | [^11] |
+| Medallion | Growth (led, $43M; Washington Harbour Partners new; Sequoia Capital, GV, Spark Capital, NFDG returned as insiders; total funding to $130M) | 2025-08-18 | Health | Active | [^11][^34][^35][^36] |
 | Nala | Growth | ~2022 | Fintech | Active | [^12] |
 | Observable | Early | ~2020 | Data & Security | Active | [^12] |
 | Orum | Early | ~2021 | Fintech | Active | [^12] |
@@ -260,3 +260,9 @@ Note: The above testimonials are sourced from the Acrew Capital website, which r
 [^32]: SiliconANGLE, "AI-enhanced security operations solutions startup Radiant Security raises $15M," November 14, 2023, accessed July 2026. https://siliconangle.com/2023/11/14/ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m/ — Confirms $15M Series A, Next47 lead, Acrew Capital as participating existing investor.
 
 [^33]: Help Net Security, "Radiant Security raises $15 million to expand engineering and go-to-market capacity," November 15, 2023, accessed July 2026. https://www.helpnetsecurity.com/2023/11/15/radiant-security-funding-15-million/ — Independent confirmation; includes Shahar Ben-Hador (CEO) quote and full syndicate list including Acrew Capital.
+
+[^34]: PR Newswire, "Medallion Raises $43 Million to Expand AI Infrastructure and Launch the First National Credentialing Clearinghouse," August 18, 2025, accessed July 9, 2026. https://www.prnewswire.com/news-releases/medallion-raises-43-million-to-expand-ai-infrastructure-and-launch-the-first-national-credentialing-clearinghouse-302532154.html — Primary press release. Confirms August 18, 2025 announcement of $43M new funding round led by Acrew Capital, with participation from Washington Harbour Partners and insiders Sequoia Capital, GV, Spark Capital, NFDG, and others. Brings Medallion's total funding to $130M. Derek Lo (CEO/Founder) quote on CredAlliance launch.
+
+[^35]: SiliconANGLE, "Medallion raises $43M to streamline back-office paperwork for healthcare," August 18, 2025, accessed July 9, 2026. https://siliconangle.com/2025/08/18/medallion-raises-43m-streamline-back-office-paperwork-healthcare/ — Independent tier-1 tech press confirmation of August 18, 2025 announcement of $43M round led by Acrew Capital; Washington Harbour Partners plus insiders Sequoia, GV, Spark, NFDG participated; total raised >$130M.
+
+[^36]: MobiHealthNews, "Medallion raises $43M, launches credentialing clearinghouse," August 18, 2025, accessed July 9, 2026. https://www.mobihealthnews.com/news/medallion-raises-43m-launches-credentialing-clearinghouse — Independent healthcare-IT press confirmation of $43M round on August 18, 2025 led by Acrew Capital with Washington Harbour Partners and insiders Sequoia, GV, Spark, NFDG participating.

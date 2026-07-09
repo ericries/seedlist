@@ -165806,7 +165806,9 @@ vague_facts:
   line: '| Medallion | Growth | ~2023 | Health | Active | [^11] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: corrected Medallion row on acrew-capital.md from wrong "Growth | ~2023" to "Growth (led, $43M; Washington Harbour Partners new; Sequoia Capital, GV, Spark Capital, NFDG returned as insiders; total funding to $130M) | 2025-08-18" via 3 independent primary sources. Prior 2022 Series C ($35M) was led by Spark Capital + GV — Acrew NOT named in primary press for that round. Acrew is confirmed lead investor only in the 2025-08-18 $43M round (round-letter designation not disclosed in primary press; announced as "$43 million in new funding"). Three primary sources: (1) PR Newswire company press release [^34] (2025-08-18 dateline), (2) SiliconANGLE [^35] (2025-08-18 independent tier-1 tech press), (3) MobiHealthNews [^36] (2025-08-18 independent healthcare-IT press). Derek Lo CEO/Founder named. Total funding to $130M. Existing [^11] Medallion company blog citation retained.
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Radiant Security
@@ -165966,7 +165968,9 @@ vague_facts:
   line: '| Unlearn | Series C | ~2024 | AI / Healthcare | Active | [^13] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Unlearn row on altimeter-capital.md from "Series C | ~2024" to "Series C (led, $50M; Radical Ventures + Wittington Ventures + Mubadala Capital + Epic Ventures + Necessary Venture Capital returned) | 2024-02-06" via 3 independent primary sources. (1) BusinessWire press release [^67] (2024-02-06 dateline — primary source), (2) Latham & Watkins legal advisor announcement [^68] (2024-02-08 — primary legal-advisor confirmation), (3) HITConsultant [^69] (2024-02-08 — independent healthcare-IT tier-1 press). Also cross-confirmed by Bloomberg (2024-02-08) and Altimeter Capital LinkedIn post. Total raised >$130M. Altimeter Capital confirmed as sole lead of the round. Existing [^13] Tracxn citation retained.
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Sigma
@@ -165976,7 +165980,9 @@ vague_facts:
   line: '| Sigma | Series D | ~2024 | Data Analytics | Active | [^13] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Sigma (Sigma Computing) row on altimeter-capital.md from "Series D | ~2024" to "Series D (participated as returning investor; $200M at $1.5B val; Spark Capital + Avenir Growth Capital co-led; NewView Capital new; Snowflake Ventures + Sutter Hill Ventures + D1 Capital Partners + XN returned) | 2024-05-16" via 3 independent primary sources. (1) Sigma Computing company announcement [^70] (2024-05-16 primary source), (2) BusinessWire press release [^71] (2024-05-16 primary source), (3) HPCWire/BigDATAwire [^72] (2024-05-23 independent tier-1 BI/data industry press). Series D valuation 60% higher than Series C 3 years prior (~$1.5B); total funding to $581.3M. Altimeter confirmed as returning investor. Parallel update on sigma-computing.md startup profile: added 2024-05-16 Series D row with same 3 primary sources [^4][^5][^6]. Existing [^13] Tracxn citation retained.
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Clumio

@@ -1,4 +1,16 @@
 priority:
+- slug: altimeter-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-09: tightened 2 year-only rows on altimeter-capital.md portfolio via 3+ primary sources each. (1) UNLEARN: "Series C | ~2024" → "Series C (led, $50M; Radical Ventures + Wittington Ventures + Mubadala Capital + Epic Ventures + Necessary Venture Capital returned) | 2024-02-06" via BusinessWire + Latham & Watkins legal advisor + HITConsultant. Altimeter confirmed as sole lead. Total raised >$130M. (2) SIGMA (Sigma Computing): "Series D | ~2024" → "Series D (participated as returning investor; $200M at $1.5B val; Spark Capital + Avenir Growth Capital co-led; NewView Capital new; Snowflake Ventures + Sutter Hill Ventures + D1 Capital Partners + XN returned) | 2024-05-16" via Sigma company blog + BusinessWire + HPCWire/BigDATAwire. Parallel update on sigma-computing.md startup profile adding 2024-05-16 Series D row with same 3 primary sources. 6 new footnotes added ([^67]-[^72]).'
+  added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-09
+- slug: acrew-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-09: corrected Medallion row on acrew-capital.md from wrong "Growth | ~2023" to "Growth (led, $43M; Washington Harbour Partners new; Sequoia Capital, GV, Spark Capital, NFDG returned as insiders; total funding to $130M) | 2025-08-18" via 3 primary sources: PR Newswire company press release [^34] + SiliconANGLE [^35] + MobiHealthNews [^36]. Prior 2022 Series C ($35M) was led by Spark Capital + GV — Acrew NOT named in primary press for that round, so the ~2023 anchor was wrong; Acrew is confirmed lead investor only in the 2025-08-18 $43M round (round-letter designation not disclosed in primary press; announced as "$43 million in new funding"). Derek Lo CEO/Founder named. 3 new footnotes added.'
+  added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-09
 - slug: charlie-songhurst
   type: investor
   reason: 'Fact-spec sweep 2026-07-09: tightened 5 year-only rows on charlie-songhurst.md portfolio via 3+ primary sources each. (1) ENTREPRENEURS FIRST: 2026 Growth → 2026-03-11 Growth (USD 200M at USD 1.3B valuation; Reid Hoffman, Collisons, Schmidt, Greylock, Rimer, Hughes Johnson participated) via Sifted + Business Wire + Morningstar. (2) FORGENT AI: 2025 Pre-Seed → 2025-09-23 Pre-Seed (EUR 4.3M; Cherry Ventures led) via tech.eu + The SaaS News + Startuprise. (3) OCTOMIND: 2024 Seed → 2024-04-23 Seed (EUR 4.5M / ~USD 4.8M; Cherry Ventures led) via Octomind blog + The SaaS News + Data Phoenix. (4) UTILA: 2024 Seed → 2024-03-05 Seed (USD 11.5M; NFX + Wing VC co-led) via The Block + Utila blog + Calcalist Tech. (5) LODESTAR: 2024 Pre-Seed → 2024-07-25 Pre-Seed (USD 2.5M; Inflection.xyz + Lunar Ventures co-led) via SpaceInsider + Silicon Canals + Mishcon de Reya. Songhurst named in primary press in all 5. Auquan, Perlego, Trace.Space left as-is (Songhurst aggregator-only). 17 new footnotes added.'
