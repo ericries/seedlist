@@ -2156,7 +2156,9 @@ vague_facts:
   line: '| Cornerstone AI | Early | ~2023 | Health / AI | Active | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-10
+  resolution_note: 'Resolved together with the year_only_date entry for the same Cornerstone AI row on 2026-07-10. Row now reads "Cornerstone AI | Opportunistic round (led, $5M; Initiate Ventures and Healthy Ventures returned; Travis May + Web Sun + Arif Nathoo also participated; total to $10M; Vishal Lugani joined board) | 2024-10-30 | Health / AI | Active [^12][^37][^38][^39]". See [^37] PRWeb + [^38] HITConsultant + [^39] SaaS News.'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Crew
@@ -3568,7 +3570,9 @@ vague_facts:
   line: '| Clumio | Growth | ~2023 | Data Protection | Active | [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-10
+  resolution_note: 'Resolved together with the year_only_date entry for the same Clumio row on 2026-07-10. Row now reads "Clumio | Series D (participated as existing investor; $75M; Sutter Hill led; Index Ventures returned; NewView Capital new; total to $261M) | 2024-02-21 | Data Protection | Acquired (Commvault, ~$47M, 2024-09-24)". Status column populated (was previously "Active [^13]") — see [^73] TechCrunch primary + [^74] DCD + [^75] SaaS News + [^76] Commvault PR Newswire acquisition press.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: StockX
@@ -165800,7 +165804,9 @@ vague_facts:
   line: '| Arya | Early Stage | ~2024 | Healthcare AI | Active [^15] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-10
+  resolution_note: 'Fact-spec sweep 2026-07-10: tightened Arya Health row on acme-capital.md from "Arya | Early Stage | ~2024" to "Arya Health | Series A (led, $18.2M; Ridge Ventures, Twelve Below, executives from OpenAI, and post-acute care providers participated; total to $25M) | 2025-10-29" via 3 primary sources: (1) PR Newswire company press release "Arya Health Secures $18.2M Series A" (dateline NEW YORK, Oct. 29, 2025) [^50], (2) MobiHealthNews independent healthcare-IT press "Arya Health lands $18.2M to expand post-acute platform" (Oct 30, 2025) [^51], (3) HITConsultant independent healthcare-IT press (Oct 29, 2025) [^52]. Corrected company name from "Arya" to "Arya Health" and sector to "Healthcare AI (post-acute care administration)." Prior "Early Stage | ~2024" was factually incorrect: Series A was Oct 2025 with $6.8M seed likely earlier per $25M cumulative total. 3 new footnotes added.'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Cornerstone AI
@@ -165810,7 +165816,9 @@ vague_facts:
   line: '| Cornerstone AI | Early | ~2023 | Health / AI | Active | [^12] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-10
+  resolution_note: 'Fact-spec sweep 2026-07-10: tightened Cornerstone AI row on acrew-capital.md from "Early | ~2023" to "Opportunistic round (led, $5M; Initiate Ventures and Healthy Ventures returned; Travis May (Datavant founder) and Web Sun + Arif Nathoo (Komodo Health co-founders) also participated; brings total to $10M; Vishal Lugani joined board) | 2024-10-30" via 3 primary sources: (1) PRWeb company press release "Cornerstone AI Adds Another $5 Million" (dateline SAN FRANCISCO, Oct. 30, 2024) [^37], (2) HITConsultant "Cornerstone AI Raises $5M for AI-Powered Health Data Cleaning" (Oct 30, 2024) [^38], (3) The SaaS News (Oct 30, 2024) [^39]. Round type: "opportunistic" per company press (not designated as Series A). Prior ~2023 year was incorrect; the disclosed round is Oct 30, 2024. 3 new footnotes added.'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Medallion
@@ -166006,7 +166014,9 @@ vague_facts:
   line: '| Clumio | Growth | ~2023 | Data Protection | Active | [^13] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-10
+  resolution_note: 'Fact-spec sweep 2026-07-10: tightened Clumio row on altimeter-capital.md from "Growth | ~2023" to "Series D (participated as existing investor; $75M; Sutter Hill Ventures led; Index Ventures returned; NewView Capital new; brings total to $261M) | 2024-02-21" via 3 primary sources: (1) TechCrunch (Frederic Lardinois) "Clumio raises $75M to automate cloud data backup and recovery" (dateline 6:00 AM PST February 21, 2024) [^73], (2) Data Center Dynamics (Feb 22, 2024) [^74], (3) The SaaS News (Feb 2024) [^75]. Also updated status column from "Active" to "Acquired (Commvault, ~$47M, announced 2024-09-24)" per PR Newswire acquirer press release [^76]. Prior "Growth | ~2023" was factually incorrect: this was the Series D on Feb 21, 2024, and Clumio was acquired 8 months later. 4 new footnotes added ([^73]-[^76]).'
 - profile: firms/altos-ventures
   profile_name: Altos Ventures
   company: Unastella

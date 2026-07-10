@@ -135,7 +135,7 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | Base Power | Series C (participated as returning investor; USD 1B at USD 4B post-money; Addition led; CapitalG, Ribbit, Spark, BOND, Lowercarbon new) | 2025-10-08 | Energy | Active | [^59][^60] |
 | Unlearn | Series C (led, $50M; Radical Ventures + Wittington Ventures + Mubadala Capital + Epic Ventures + Necessary Venture Capital returned) | 2024-02-06 | AI / Healthcare | Active | [^13][^67][^68][^69] |
 | Sigma | Series D (participated as returning investor; $200M at $1.5B val; Spark Capital + Avenir Growth Capital co-led; NewView Capital new; Snowflake Ventures + Sutter Hill Ventures + D1 Capital Partners + XN returned) | 2024-05-16 | Data Analytics | Active | [^13][^70][^71][^72] |
-| Clumio | Growth | ~2023 | Data Protection | Active | [^13] |
+| Clumio | Series D (participated as existing investor; $75M; Sutter Hill Ventures led; Index Ventures returned; NewView Capital new; brings total to $261M) | 2024-02-21 | Data Protection | Acquired (Commvault, ~$47M, announced 2024-09-24) | [^13][^73][^74][^75][^76] |
 | StockX | Growth | ~2021 | E-commerce | Active | [^7] |
 
 ## Public Portfolio (Q4 2025 13F)
@@ -315,3 +315,11 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^72]: HPCWire/BigDATAwire, "Sigma Secures $200M Round to Advance Its BI and Analytics Solutions," May 23, 2024, accessed July 9, 2026. https://www.hpcwire.com/bigdatawire/2024/05/23/sigma-secures-200m-round-to-advance-its-bi-and-analytics-solutions/ — Independent tier-1 data/BI industry press confirmation of $200M Series D announcement on May 16, 2024, co-led by Spark Capital and Avenir Growth Capital, with Altimeter Capital among returning investors.
 
 [^66]: TAMradar Funding Rounds Signals, "Nexthop AI Raises $500M Series B for AI Networking," March 10, 2026, accessed July 9, 2026. https://www.tamradar.com/funding-rounds/nexthop-ai-series-b-500m — Independent aggregator confirmation of March 10, 2026 announcement; $500M Series B at $4.2B valuation led by Lightspeed; Andreessen Horowitz, Altimeter Capital, and Kleiner Perkins participated.
+
+[^73]: TechCrunch (Frederic Lardinois), "Clumio raises $75M to automate cloud data backup and recovery," February 21, 2024 (dateline 6:00 AM PST, February 21, 2024), accessed July 2026. https://techcrunch.com/2024/02/21/clumio-data-backups-series-d-raise-75-million/ — Primary tier-1 tech press confirmation of $75M Series D on February 21, 2024, led by Sutter Hill Ventures with Altimeter Capital and Index Ventures as returning investors and NewView Capital as new investor; brings total raised to $261M.
+
+[^74]: Data Center Dynamics, "Data backup company Clumio raises $75m in funding," February 22, 2024, accessed July 2026. https://www.datacenterdynamics.com/en/news/data-backup-company-clumio-raises-75m-in-funding/ — Independent data-center industry press confirmation of $75M Series D led by Sutter Hill Ventures with Index Ventures, Altimeter Capital (existing investors) and NewView Capital (new) participating.
+
+[^75]: The SaaS News, "Clumio Secures $75 Million in Series D," February 2024, accessed July 2026. https://www.thesaasnews.com/news/clumio-secures-75-million-in-series-d — Independent SaaS press confirmation of $75M Series D led by Sutter Hill Ventures with Index Ventures, Altimeter Capital, and NewView Capital participating.
+
+[^76]: PR Newswire, "Commvault Accelerates Cyber Resilience Capabilities for AWS with Acquisition of Clumio," September 24, 2024, accessed July 2026. https://www.prnewswire.com/news-releases/commvault-accelerates-cyber-resilience-capabilities-for-aws-with-acquisition-of-clumio-302257641.html — Primary source (acquirer press release) confirming Commvault's acquisition of Clumio announced September 24, 2024 (approximately $47M per contemporaneous industry press).

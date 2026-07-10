@@ -134,7 +134,7 @@ The following table includes investments made both through Acrew Capital funds (
 | Clara | Growth | ~2021 | Fintech | Active | [^12] |
 | Coinbase | Early | ~2017 | Fintech / Crypto | IPO | [^13] |
 | Cometa | Early | ~2022 | Fintech | Active | [^12] |
-| Cornerstone AI | Early | ~2023 | Health / AI | Active | [^12] |
+| Cornerstone AI | Opportunistic round (led, $5M; Initiate Ventures and Healthy Ventures returned; Travis May (Datavant founder) and Web Sun + Arif Nathoo (Komodo Health co-founders) also participated; brings total to $10M; Vishal Lugani joined board) | 2024-10-30 | Health / AI (healthcare data cleaning) | Active | [^12][^37][^38][^39] |
 | Crew | Early | ~2017 | Data & Security | Active | [^12] |
 | Curebase | Growth | ~2021 | Health | Active | [^12] |
 | Deserve | Early | ~2018 | Fintech | Active | [^12] |
@@ -266,3 +266,9 @@ Note: The above testimonials are sourced from the Acrew Capital website, which r
 [^35]: SiliconANGLE, "Medallion raises $43M to streamline back-office paperwork for healthcare," August 18, 2025, accessed July 9, 2026. https://siliconangle.com/2025/08/18/medallion-raises-43m-streamline-back-office-paperwork-healthcare/ — Independent tier-1 tech press confirmation of August 18, 2025 announcement of $43M round led by Acrew Capital; Washington Harbour Partners plus insiders Sequoia, GV, Spark, NFDG participated; total raised >$130M.
 
 [^36]: MobiHealthNews, "Medallion raises $43M, launches credentialing clearinghouse," August 18, 2025, accessed July 9, 2026. https://www.mobihealthnews.com/news/medallion-raises-43m-launches-credentialing-clearinghouse — Independent healthcare-IT press confirmation of $43M round on August 18, 2025 led by Acrew Capital with Washington Harbour Partners and insiders Sequoia, GV, Spark, NFDG participating.
+
+[^37]: PRWeb, "Cornerstone AI Adds Another $5 Million to Empower Biopharma and Healthcare Companies to Get More From Their Data," October 30, 2024 (dateline SAN FRANCISCO, Oct. 30, 2024), accessed July 2026. https://www.prweb.com/releases/cornerstone-ai-adds-another-5-million-to-empower-biopharma-and-healthcare-companies-to-get-more-from-their-data-302291205.html — Primary source (company press release). Confirms $5M opportunistic round led by Acrew Capital with Initiate Ventures, Healthy Ventures, Travis May (Datavant founder/former CEO), Web Sun, and Arif Nathoo (Komodo Health co-founders) participating; brings total funding to $10M. Vishal Lugani (Acrew Founding Partner) joined board of directors.
+
+[^38]: HITConsultant, "Cornerstone AI Raises $5M for AI-Powered Health Data Cleaning," October 30, 2024, accessed July 2026. https://hitconsultant.net/2024/10/30/cornerstone-ai-powered-data-cleaning-for-healthcare-funding/ — Independent healthcare-IT press confirmation of $5M funding led by Acrew Capital with Initiate Ventures, Healthy Ventures, Travis May, Web Sun, and Arif Nathoo participating. Notes Viraj Narayanan assumed CEO role while founder Michael Elashoff transitioned to Chief Science Officer.
+
+[^39]: The SaaS News, "Cornerstone AI Secures $5 Million in Funding," October 30, 2024, accessed July 2026. https://www.thesaasnews.com/news/cornerstone-ai-secures-5-million-in-funding — Independent SaaS press confirmation of $5M funding led by Acrew Capital with Initiate Ventures, Healthy Ventures, Travis May, Web Sun, and Arif Nathoo participating.
