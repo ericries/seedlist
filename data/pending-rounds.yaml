@@ -141,6 +141,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged
+    to build new US fabs
+  url: https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
+  source: techcrunch
+  date_found: '2026-07-10'
+  parsed_company: SK Hynix
+  parsed_amount: $26.5B
+  parsed_round: null
+  status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: A Pair Of Billion-Dollar Deals For
+    Cyber And AI Infrastructure Lead'
+  url: https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/
+  source: crunchbase
+  date_found: '2026-07-10'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Munich’s QuantumDiamonds raises €91 million to scale its quantum-based semiconductor
     inspection technology
   url: https://www.eu-startups.com/2026/07/munichs-quantumdiamonds-raises-e91-million-to-scale-its-quantum-based-semiconductor-inspection-technology/
