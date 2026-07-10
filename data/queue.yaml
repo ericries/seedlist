@@ -37620,3 +37620,85 @@ queue:
   firm: Aria
   discovered_from: aria-fintech
   source: Co-founder & CEO of Aria embedded invoice financing
+- name: Bajaj Finserv Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Bajaj Finserv Ventures
+  discovered_from: kapture-cx
+  source: led Kapture CX Pre-Series B ($10M, 2026-07-09) — first AI investment for
+    BFSV
+- name: Cactus Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Cactus Venture Partners
+  discovered_from: kapture-cx
+  source: co-invested Kapture CX Pre-Series B ($10M, 2026-07-09)
+- name: India Alternatives
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: India Alternatives
+  discovered_from: kapture-cx
+  source: co-invested Kapture CX Pre-Series B ($10M, 2026-07-09)
+- name: Felix Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Felix Capital
+  discovered_from: polysense
+  source: led Polysense seed ($10.7M, 2026-07-08) for AI food-manufacturing quality
+    control
+- name: Fortino Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Fortino Ventures
+  discovered_from: polysense
+  source: co-invested Polysense seed ($10.7M, 2026-07-08)
+- name: Yarne De Munck
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Polysense
+  discovered_from: polysense
+  source: Co-Founder & CEO of Polysense ($10.7M seed, 2026-07-08)
+- name: Hony Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hony Capital
+  discovered_from: gim
+  source: co-led GIM Series A ($20M, 2026-07-09) for agentic AI in capital markets
+- name: IDG Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: IDG Capital
+  discovered_from: gim
+  source: participated GIM Series A ($20M, 2026-07-09)
+- name: Monolith Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Monolith Capital
+  discovered_from: gim
+  source: existing investor, participated GIM Series A ($20M, 2026-07-09)
+- name: Jiahao Xu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Grace Investment Machine (GIM)
+  discovered_from: gim
+  source: Founder & CEO of GIM ($20M Series A, 2026-07-09)
