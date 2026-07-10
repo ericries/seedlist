@@ -28,6 +28,18 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Kraken Technology Group makes waves as Europe’s newest maritime defence unicorn
+    with €152.9 million Series B
+  url: https://www.eu-startups.com/2026/07/kraken-technology-group-makes-waves-as-europes-newest-maritime-defence-unicorn-with-e152-9-million-series-b/
+  source: eu-startups
+  date_found: '2026-07-10'
+  parsed_company: Kraken Technology Group
+  parsed_amount: $175M
+  parsed_round: Series B
+  status: processed
+  notes: created startup profile kraken-technology-group.md; $175M Series B led by
+    DTCP with British Business Bank, NATO Innovation Fund, Rheinmetall, Inocea, HICO,
+    Thesiger, BOKA, Supernova Invest, Hakluyt; UK maritime defence unicorn (2026-07-09)
 - title: Munich’s QuantumDiamonds raises €91 million to scale its quantum-based semiconductor
     inspection technology
   url: https://www.eu-startups.com/2026/07/munichs-quantumdiamonds-raises-e91-million-to-scale-its-quantum-based-semiconductor-inspection-technology/
