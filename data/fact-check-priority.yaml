@@ -3,6 +3,16 @@ priority:
   type: firm
   reason: "appeared in Hippo Harvest Series C (2026-07-09), $30M"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-09
+  note: 'Verified 2026-07-09 via PR Newswire primary company release + Axios Pro Rata
+    + ADVFN syndication. Hippo Harvest Series C confirmed: 2026-07-09, $30M, led by
+    Cox Farms (Cox Enterprises subsidiary); Collaborative Fund participated alongside
+    Congruent Ventures, Hawthorne Food Ventures, and Fresh Investment Club. Row already
+    present on collaborative-fund.md (Portfolio row for Hippo Harvest at Series C
+    2026-07-09) with [^29] citation. Startup profile hippo-harvest.md complete with
+    3 primary sources [^1][^2][^3]. Frontmatter cross-reference in place. No further
+    tightening needed.'
 - slug: refactor-capital
   type: firm
   reason: 'Fact-spec sweep 2026-07-09: tightened 3 portfolio rows via 3+ primary sources each. (1) HEXIUM: "Seed | 2024" → "Seed (co-led with MaC Venture Capital; USD 12M total: 9.5M seed + 2.5M credit facility; R7 Partners + Overture VC + Humba Ventures + Julian Capital participated) | 2025-04-15" via TechCrunch exclusive + Climate Insider + Power Technology. Prior Crunchbase 2024-07-24 date was incorporation, not funding. (2) MACRO OCEANS: "Seed | 2024" → "Seed (led, USD 7.5M with USD 2.5M extension; McKinley Alaska + Knollwood + Schox participated; concurrent acquisition of Everything Seaweed) | 2024-10-31" via Beauty Independent + BeautyMatter + Cosmetics & Toiletries. (3) CAUSAL LABS: "Seed | 2025" → "Seed (Kindred Ventures led; USD 6M; Refactor participated alongside BoxGroup + Factorial + Otherwise + Karman Ventures + angels) | 2025-03-12" via BusinessWire + Refactor blog + AI Insider. Parallel updates to zal-bilimoria.md (same rows) and inspired-capital.md (Kalepa 2021 → 2021-09-03). 10 new footnotes added ([^40]-[^46] on refactor-capital.md; [^23]-[^30] on zal-bilimoria.md).'
@@ -4862,6 +4872,18 @@ priority:
   type: firm
   reason: appeared in Bespoke Labs Seed+Series A (2026-07-06), $40M combined
   added: 2026-07-06
+  status: resolved
+  resolved: 2026-07-09
+  note: 'Verified 2026-07-09 via SiliconANGLE tier-1 press + VentureBurn + The SaaS
+    News + Bespoke Labs LinkedIn + Axios Pro Rata. Bespoke Labs combined announcement
+    confirmed: 2026-07-06, $40M total = $31.75M Series A led by Wing VC (Mayfield +
+    The House Fund + Anthropic employees participated) + $8.25M Seed led by 8VC (Jeff
+    Dean + Spiros Xanthos + Dheeraj Pandey + Tristan Handy + Tasso Argyros + angels
+    from Anthropic/OpenAI/Meta participated). Row already present on mayfield-fund.md
+    (Portfolio row for Bespoke Labs at Seed + Series A participant, 2026-07-06) with
+    [^32][^33] citations. Startup profile bespoke-labs.md complete with 6 sources.
+    Frontmatter cross-reference in place (mayfield-fund at series-a, 8vc at seed).
+    No further tightening needed.'
 - slug: gokul-rajaram
   type: investor
   reason: appeared in Katalyze AI Seed (2026-07-06), $10.5M led by Bonfire Ventures
@@ -5034,10 +5056,28 @@ priority:
   type: firm
   reason: appeared in alqem Pre-Seed (2026-07-06), €8M co-led with UVC Partners
   added: '2026-07-07'
+  status: resolved
+  resolved: 2026-07-09
+  note: 'Verified 2026-07-09 via chemeurope.com + UVC Partners official portfolio
+    blog + Tech Funding News + EU-Startups (currency preserved as €8M). alqem Pre-Seed
+    confirmed: 2026-07-06, €8M co-led by UVC Partners and Union Square Ventures. Founders:
+    Dr. Hanh Nguyen (CEO), Dr. Tiago Cerqueira (CTO), Prof. Milan Allan (CSO). Row
+    already present on union-square-ventures.md (Portfolio row for alqem, Pre-Seed
+    co-led €8M with UVC Partners, 2026-07-06) with [^32][^33][^34] citations. Startup
+    profile alqem.md complete with 4 primary sources. Frontmatter cross-reference
+    in place. No further tightening needed.'
 - slug: albert-wenger
   type: investor
   reason: quoted in alqem Pre-Seed (2026-07-06), €8M USV co-led with UVC Partners
   added: '2026-07-07'
+  status: resolved
+  resolved: 2026-07-09
+  note: 'Verified 2026-07-09 via Tech Funding News + chemeurope.com (Wenger personally
+    quoted on the alqem investment). Row already present on albert-wenger.md portfolio
+    (alqem, 2026-07-06, Pre-Seed €8M USV co-led with UVC Partners) with [^37][^38]
+    citations. Wenger quote captured on alqem.md startup profile: "The alqem team
+    is leveraging their experience with building one of the largest open data sets
+    to now explore innovative materials." No further tightening needed.'
 - slug: conviction
   type: firm
   reason: 'Fact-spec sweep 2026-07-07: tightened 3 vague ~2023 Early rows on conviction.md
