@@ -49,6 +49,104 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: En Carta Diagnostics raises €5 million to bring at-home molecular tests for
+    Lyme disease and STIs to market
+  url: https://www.eu-startups.com/2026/07/en-carta-diagnostics-raises-e5-million-to-bring-at-home-molecular-tests-for-lyme-disease-and-stis-to-market/
+  source: eu-startups
+  date_found: '2026-07-10'
+  parsed_company: En Carta Diagnostics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris-based Aria raises €7 million and launches €240 million debt facility
+    to tackle Europe’s late-payment crisis
+  url: https://www.eu-startups.com/2026/07/paris-based-aria-raises-e7-million-and-launches-e240-million-debt-facility-to-tackle-europes-late-payment-crisis/
+  source: eu-startups
+  date_found: '2026-07-10'
+  parsed_company: Paris-based Aria
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Databento raised $97M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-10'
+  parsed_company: Databento
+  parsed_amount: $97M
+  parsed_round: Series B
+  status: pending
+- title: Skapion raised $36M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-10'
+  parsed_company: Skapion
+  parsed_amount: $36M
+  parsed_round: Seed
+  status: pending
+- title: Kapture CX raised $10M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-10'
+  parsed_company: Kapture CX
+  parsed_amount: $10M
+  parsed_round: null
+  status: pending
+- title: Mercator Acquisition raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-10'
+  parsed_company: Mercator Acquisition
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: HarbourVest Partners raised $4.75B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-10'
+  parsed_company: HarbourVest Partners
+  parsed_amount: $4.75B
+  parsed_round: null
+  status: pending
+- title: Serent Capital raised $1.3B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-10'
+  parsed_company: Serent Capital
+  parsed_amount: $1.3B
+  parsed_round: null
+  status: pending
+- title: Axios South Korean memory chipmaker SK Hynix last night raised $26.5B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-10'
+  parsed_company: Axios South Korean memory chipmaker SK Hynix last night
+  parsed_amount: $26.5B
+  parsed_round: null
+  status: pending
+- title: last night raised $26.5B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-10'
+  parsed_company: last night
+  parsed_amount: $26.5B
+  parsed_round: null
+  status: pending
+- title: South Korean memory chipmaker SK Hynix last night raised $26.5B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-10'
+  parsed_company: South Korean memory chipmaker SK Hynix last night
+  parsed_amount: $26.5B
+  parsed_round: null
+  status: pending
+- title: u003elast night raised $26.5B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-10'
+  parsed_company: u003elast night
+  parsed_amount: $26.5B
+  parsed_round: null
+  status: pending
 - title: Munich’s QuantumDiamonds raises €91 million to scale its quantum-based semiconductor
     inspection technology
   url: https://www.eu-startups.com/2026/07/munichs-quantumdiamonds-raises-e91-million-to-scale-its-quantum-based-semiconductor-inspection-technology/
@@ -765,21 +863,4 @@ pending_rounds:
   parsed_company: Bosch and Siemens Energy partner Almetra
   parsed_amount: null
   parsed_round: Series A
-  status: pending
-- title: Amid a €500-700 million SME HRTech opportunity, Ireland’s HR Duo secures
-    €1.6 million for growth
-  url: https://www.eu-startups.com/2026/06/amid-a-e500-700-million-sme-hrtech-opportunity-irelands-hr-duo-secures-e1-6-million-for-growth/
-  source: eu-startups
-  date_found: '2026-06-25'
-  parsed_company: Amid a €500-700 million SME HRTech opportunity, Ireland’s HR Duo
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/25/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
-  source: alleywatch
-  date_found: '2026-06-25'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
   status: pending
