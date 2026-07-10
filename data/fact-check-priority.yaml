@@ -1,4 +1,8 @@
 priority:
+- slug: collaborative-fund
+  type: firm
+  reason: "appeared in Hippo Harvest Series C (2026-07-09), $30M"
+  added: 2026-07-09
 - slug: refactor-capital
   type: firm
   reason: 'Fact-spec sweep 2026-07-09: tightened 3 portfolio rows via 3+ primary sources each. (1) HEXIUM: "Seed | 2024" → "Seed (co-led with MaC Venture Capital; USD 12M total: 9.5M seed + 2.5M credit facility; R7 Partners + Overture VC + Humba Ventures + Julian Capital participated) | 2025-04-15" via TechCrunch exclusive + Climate Insider + Power Technology. Prior Crunchbase 2024-07-24 date was incorporation, not funding. (2) MACRO OCEANS: "Seed | 2024" → "Seed (led, USD 7.5M with USD 2.5M extension; McKinley Alaska + Knollwood + Schox participated; concurrent acquisition of Everything Seaweed) | 2024-10-31" via Beauty Independent + BeautyMatter + Cosmetics & Toiletries. (3) CAUSAL LABS: "Seed | 2025" → "Seed (Kindred Ventures led; USD 6M; Refactor participated alongside BoxGroup + Factorial + Otherwise + Karman Ventures + angels) | 2025-03-12" via BusinessWire + Refactor blog + AI Insider. Parallel updates to zal-bilimoria.md (same rows) and inspired-capital.md (Kalepa 2021 → 2021-09-03). 10 new footnotes added ([^40]-[^46] on refactor-capital.md; [^23]-[^30] on zal-bilimoria.md).'

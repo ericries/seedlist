@@ -124,8 +124,9 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 | Highlight | Early | ~2023 | AI | [^17] |
 | Tagomi (acquired by Coinbase) | Early | ~2018 | Money | [^17] |
 | Era | Seed | 2026 | AI / Consumer Hardware | [^24] |
+| Hippo Harvest | Series C | 2026-07-09 | AgTech / Robotics | [^29] |
 
-*Note: This table represents approximately 44 of 300+ total investments. Many investments, particularly from earlier funds and the Shared Future Fund's 130+ climate companies, are not individually listed here due to limited public sourcing on exact investment dates. Years marked with "~" are approximate, based on company founding dates or estimated investment timing.*
+*Note: This table represents approximately 45 of 300+ total investments. Many investments, particularly from earlier funds and the Shared Future Fund's 130+ climate companies, are not individually listed here due to limited public sourcing on exact investment dates. Years marked with "~" are approximate, based on company founding dates or estimated investment timing.*
 
 ## In Their Own Words
 
@@ -183,3 +184,5 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 [^26]: PRWeb, "Acceleron Fusion Secures $24M Series A Led by Lowercarbon Capital and Collaborative Fund," December 3, 2024, accessed June 2026. https://www.prweb.com/releases/acceleron-fusion-secures-24m-series-a-led-by-lowercarbon-capital-and-collaborative-fund-to-revolutionize-clean-energy-with-muon-catalyzed-fusion-302319341.html
 [^27]: PRNewswire, "MoldCo Raises $8M to Address Mold & Environmental Toxins Health Crisis," September 18, 2025, accessed June 2026. https://www.prnewswire.com/news-releases/moldco-raises-8m-to-address-mold--environmental-toxins-health-crisis-standardize-mold-detox-as-routine-preventative-care-302560136.html
 [^28]: EU-Startups, "London's Fuse Energy secures €25 million Series B extension as it plans 32,000 sq ft London HQ," June 4, 2026, accessed June 2026. https://www.eu-startups.com/2026/06/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/ ; BeBeez International, June 4, 2026. https://bebeez.eu/2026/06/04/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/ ; Mercom Capital Group, December 22, 2025 (original Series B). https://mercomcapital.com/fuse-energy-secures-70-million-in-series-b-funding/
+
+[^29]: PR Newswire, "Hippo Harvest Closes $30 Million Series C Led by Cox Farms, Scaling Robotic Indoor Growing Technology and Expanding to New Markets," July 9, 2026. Accessed July 9, 2026. https://www.prnewswire.com/news-releases/hippo-harvest-closes-30-million-series-c-led-by-cox-farms-scaling-robotic-indoor-growing-technology-and-expanding-to-new-markets-302822124.html
