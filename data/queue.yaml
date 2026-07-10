@@ -24692,7 +24692,7 @@ queue:
 - name: Nader Khalil
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NVIDIA (former Brev.dev)
   discovered_from: vic-hu
@@ -24811,7 +24811,7 @@ queue:
 - name: Brandon Leonardo
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: independent
   discovered_from: max-mullen
@@ -37487,3 +37487,77 @@ queue:
   discovered_from: coval
   source: Founder and CEO Coval (Series A 2026-06-23); previously built evaluation
     systems for autonomous vehicles at Waymo
+- name: Eurazeo
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gradium
+  source: co-led Gradium $70M first-tranche seed (2025-12) alongside FirstMark
+- name: Infleqtion
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: oratomic
+  source: participated in Oratomic $300M Series A (2026-07-07); strategic corporate
+    investor in neutral-atom quantum
+- name: Neil Zeghidour
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gradium
+  discovered_from: gradium
+  source: co-founder & CEO Gradium; formerly Google Brain, DeepMind, Facebook (Meta)
+    audio AI research
+- name: Dolev Bluvstein
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Oratomic
+  discovered_from: oratomic
+  source: co-founder & CEO Oratomic; Caltech neutral-atom quantum research background
+- name: Manuel Endres
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Oratomic
+  discovered_from: oratomic
+  source: co-founder Oratomic; Caltech physicist
+- name: Rodolphe Saadé
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CMA CGM
+  discovered_from: gradium
+  source: Kyutai co-funder and Gradium seed participant (2025-12); French billionaire,
+    CEO CMA CGM
+- name: Scott Aaronson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: UT Austin
+  discovered_from: oratomic
+  source: quantum researcher, angel in Oratomic Series A (2026-07-07)
+- name: Race Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brandon-leonardo
+  source: led Sematic seed and Airtrain AI seed (2022-11); co-invested with Brandon
+    Leonardo
+- name: Jeremy Stanley
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Anomalo
+  discovered_from: brandon-leonardo
+  source: former VP Data Science Instacart; Anomalo co-founder; angel in Sematic and
+    Airtrain AI (2022) alongside Brandon Leonardo

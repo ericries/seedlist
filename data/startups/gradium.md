@@ -1,33 +1,60 @@
 ---
-name: "Gradium"
-slug: gradium
-type: startup
-website: "https://gradium.ai"
-location: "Paris, France"
-founded: 2025
-status_company: active
-sector: [ai, voice-ai, generative-ai, speech, developer-tools, ai-infrastructure]
-stage_latest: "Seed"
-total_raised: "$100M+"
 firms:
-  - slug: eurazeo
-    round: seed
-    year: 2025
-  - slug: dst-global
-    round: seed
-    year: 2025
-investors:
-  - slug: eric-schmidt
-    round: seed
-    year: 2025
-  - slug: xavier-niel
-    round: seed
-    year: 2025
+- round: seed
+  slug: eurazeo
+  year: 2025
+- round: seed
+  slug: dst-global
+  year: 2025
+- round: Seed
+  slug: amplify-partners
+  year: 2025
+- round: Seed
+  slug: vercel
+  year: 2025
+- round: '2025'
+  slug: datadog
+  year: 2025
+- round: Seed ($70M, co-led FirstMark/Eurazeo)
+  slug: innovation-endeavors
+  year: 2025
+founded: 2025
 founders:
-  - name: "Neil Zeghidour"
-    role: "Co-Founder & CEO"
-status: published
+- name: Neil Zeghidour
+  role: Co-Founder & CEO
+investors:
+- round: seed
+  slug: eric-schmidt
+  year: 2025
+- round: seed
+  slug: xavier-niel
+  year: 2025
+- round: Seed
+  slug: sunil-dhaliwal
+  year: 2025
+- round: Seed
+  slug: guillermo-rauch
+  year: 2025
+- round: '2025'
+  slug: olivier-pomel
+  year: 2025
 last_researched: 2026-07-09
+location: Paris, France
+name: Gradium
+sector:
+- ai
+- voice-ai
+- generative-ai
+- speech
+- developer-tools
+- ai-infrastructure
+slug: gradium
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $100M+
+type: startup
+website: https://gradium.ai
 ---
 
 ## About
