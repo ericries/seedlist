@@ -78,7 +78,7 @@ On AI in healthcare, Kocher has cautioned against simplistic applications, criti
 | Stride Health | 2015 | Series A | [^19] |
 | Devoted Health (founding CMO) | 2017 | Seed | [^20] |
 | Suki | 2018 | Series A | [^21] |
-| Accompany Health (co-founder) | 2024 | Series A | [^10] |
+| Accompany Health (co-founder) | 2024-01-30 | Series A (co-led by Venrock + ARCH Venture Partners, $56M; IVP, Granite Capital Management, Evidenced participated) | [^10][^25] |
 ~unknown| Sitka | -- | -- | [^1] |
 ~unknown| Need | -- | -- | [^1] |
 ~unknown| Renew Health | -- | -- | [^2] |
@@ -151,3 +151,5 @@ No independently sourced founder testimonials found. Kocher's portfolio founders
 [^22]: Bob Kocher, X/Twitter post about Devoted Health, October 2021. https://x.com/bobkocher/status/1446522239449325572
 [^23]: Vital Signs Health Substack, "The Future of Health Systems and Increasing Healthcare Productivity: In Conversation With Dr. Bob Kocher," accessed March 2026. https://vitalsignshealth.substack.com/p/the-future-of-health-systems-and
 [^24]: Aledade Podcast, "13. Bob Kocher: Aledade's First Investor | The ACO Show," accessed March 2026. https://aledade.podbean.com/e/bob-kocher-aledades-first-investor/
+
+[^25]: MobiHealthNews, "Accompany Health launches with $56M to care for low-income patients," January 30, 2024. Accessed July 2026. https://www.mobihealthnews.com/news/accompany-health-launches-56m-care-low-income-patients — Independent contemporaneous confirmation: $56M Series A on January 30, 2024, co-led by Venrock and ARCH Venture Partners with IVP, Evidenced, and Granite Capital Management participating. Bob Kocher (Venrock partner) named as co-founder/board member.

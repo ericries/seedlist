@@ -180,7 +180,8 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Medivis | Early | ~2017 (founded) | Health Tech / AR | Private [^3] |
 | SpaceX | Growth | ~2022 | Aerospace | Private [^4] |
 | Neuralink | Series E | 2025-06-02 | Neurotechnology | Private ($650M Series E at ~$9B pre-money valuation; Sequoia Capital, Founders Fund, ARK Invest, Lightspeed, Thrive participated) [^18][^25][^26] |
-| Physical Intelligence | Growth | ~2024 | AI / Robotics | Private [^3] |
+| Physical Intelligence | Seed (led, $70M at ~$400M post-money; Khosla Ventures, Lux Capital, OpenAI, Sequoia Capital participated) | 2024-03-12 | AI / Robotics | Private [^3][^60][^61][^62] |
+| Physical Intelligence (follow-on) | Series A (participated, $400M at $2.4B post-money; Jeff Bezos + Thrive + Lux led per SiliconANGLE; Bond, Redpoint, Khosla, Sequoia, OpenAI joined) | 2024-11-04 | AI / Robotics | Private [^60][^61][^62] |
 | Anysphere (Cursor) | Series C | 2025-06-05 | AI / Developer Tools | Private [^8][^23] |
 | Anthropic | Series E | 2025-03-03 | AI | Private ($3.5B Series E at $61.5B post-money valuation, led by Lightspeed; Bessemer, Cisco, D1, Fidelity, General Catalyst, Jane Street, Menlo, Salesforce Ventures, and Thrive participated) [^27][^28][^29] |
 | Isomorphic Labs | Series A (led, $600M) | 2025-03-31 | AI / Drug Discovery | Private [^9][^30] |
@@ -395,3 +396,9 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^58]: Cadence website, AI-powered Proactive Care Engine post linking to the Series C announcement, accessed June 2026. https://www.cadence.care/post/cadence-launches-ai-powered-proactive-care-engine-bringing-advanced-primary-care-management-to-medicare-patients-nationwide — Cross-reference to the June 23, 2026 Spark-led Series C announcement listing Thrive Capital as a participant.
 
 [^59]: Business Wire newsroom listing for funding announcements (Cadence Series C announcement dated June 23, 2026), accessed June 2026. https://www.businesswire.com/newsroom/subject/funding — Independent press wire confirmation of June 23, 2026 Cadence Series C with Thrive Capital named among participating investors.
+
+[^60]: Maginative, "Physical Intelligence Raises $70M to Build AI-Powered Robots for Any Application," March 12, 2024. Accessed July 2026. https://www.maginative.com/article/physical-intelligence-raises-70m-to-build-ai-powered-robots-for-any-application/ — Primary contemporaneous confirmation of the March 12, 2024 seed round: $70M led by Thrive Capital with participation from Khosla Ventures, Lux Capital, OpenAI, and Sequoia Capital. Founded by Karol Hausman (CEO, ex-Google Brain), Sergey Levine (Chief Scientist, UC Berkeley), Chelsea Finn (Stanford), and Lachy Groom.
+
+[^61]: CNBC (Ashley Capoot / Jonathan Vanian), "Jeff Bezos and OpenAI invest in robot startup Physical Intelligence at $2.4 billion valuation," November 4, 2024. Accessed July 2026. https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html — Primary contemporaneous press for the $400M follow-on: closed November 4, 2024, at $2.4B post-money valuation. Named investors include Jeff Bezos, OpenAI, Thrive Capital, Lux Capital, Bond Capital, Khosla Ventures, and Sequoia Capital.
+
+[^62]: SiliconANGLE, "AI startup Physical Intelligence raises $400M to create a brain for any robot," November 4, 2024. Accessed July 2026. https://siliconangle.com/2024/11/04/ai-startup-physical-intelligence-raises-400m-create-brain-robot/ — Third independent primary source confirming November 4, 2024 $400M follow-on round at $2.4B post-money. Names Jeff Bezos, Thrive Capital, and Lux Capital as leads with OpenAI, Redpoint Ventures, and Bond as additional participants. Explicitly cites the $70M March 2024 seed led by Thrive as the prior round.

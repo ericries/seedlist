@@ -150,7 +150,7 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 | Cognition | ~2023 (founded) | Early | AI / Developer Tools | [^11] |
 | Replit | ~2016 (founded) | Early | Developer Tools | [^11] |
 | Glean | ~2019 (founded) | Early | Enterprise / AI Search | [^11] |
-| Physical Intelligence | ~2024 (founded) | Early | AI / Robotics | [^11] |
+| Physical Intelligence | 2024-03-12 | Seed (Thrive led, $70M at ~$400M post-money; Khosla Ventures, Lux, OpenAI, Sequoia joined) | AI / Robotics | [^11][^32][^33] |
 | Hermeus | ~2018 (founded) | Early | Aerospace / Hypersonic | [^11] |
 | Varda | ~2021 (founded) | Early | Space Manufacturing | [^11] |
 | Sword Health | ~2015 (founded) | Series A | Digital Health | [^11] |
@@ -313,3 +313,7 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 [^30]: Runlayer blog, "Runlayer raises $30M Series A to go all in on AI," by Andy Berman, June 24, 2026. Accessed June 2026. https://www.runlayer.com/blog/series-A-30m-fundraise-felicis-khosla — Company's own primary announcement confirms Felicis and Khosla Ventures led the $30M Series A on June 24, 2026.
 
 [^31]: PR Newswire press release, "Runlayer Raises $30M Series A to Help Enterprises Go All In On AI," June 24, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/runlayer-raises-30m-series-a-to-help-enterprises-go-all-in-on-ai-302809271.html — Includes Vinod Khosla quote verbatim: "Runlayer has the potential to become that foundational layer for the AI-enabled enterprise that every company must inevitably become to stay relevant."
+
+[^32]: Maginative, "Physical Intelligence Raises $70M to Build AI-Powered Robots for Any Application," March 12, 2024. Accessed July 2026. https://www.maginative.com/article/physical-intelligence-raises-70m-to-build-ai-powered-robots-for-any-application/ — Primary contemporaneous confirmation: $70M seed on March 12, 2024, led by Thrive Capital with Khosla Ventures, Lux Capital, OpenAI, and Sequoia Capital participating.
+
+[^33]: SiliconANGLE, "AI startup Physical Intelligence raises $400M to create a brain for any robot," November 4, 2024. Accessed July 2026. https://siliconangle.com/2024/11/04/ai-startup-physical-intelligence-raises-400m-create-brain-robot/ — Third source confirming Khosla Ventures' participation in the March 2024 seed via reference to the $70M seed round.

@@ -116,7 +116,7 @@ The analysis below is based on 24 verified Lux Capital portfolio investments whe
 | Osmo | Seed | 2023 | AI / Scent | Active | [^1][^10] |
 | Databricks | Growth | 2023 | Data / AI | Active | [^10] |
 | Cognition | Seed | 2024 | AI Coding Agent | Active | [^10] |
-| Physical Intelligence | Seed | 2024 | Robotics AI | Active | [^10] |
+| Physical Intelligence | Seed (participated, $70M; Thrive Capital led; Khosla, OpenAI, Sequoia joined) | 2024-03-12 | Robotics AI | Active | [^10][^12][^13] |
 | Sakana AI | Series A | 2024 | Foundation Models | Active | [^10] |
 | Applied Compute | Series A | 2025 | Enterprise AI | Active | [^10] |
 | Erebor | Seed | 2025 | Fintech / Banking | Active | [^10] |
@@ -150,3 +150,7 @@ No independently sourced founder testimonials found. Lux Capital's website and p
 [^9]: Axios, "Anduril raising $4 billion at a $60 billion valuation," March 4, 2026. https://www.axios.com/2026/03/04/anduril-palmer-luckey-valuation
 [^10]: Lux Capital website, "Companies" portfolio page, accessed March 2026. https://www.luxcapital.com/companies
 [^11]: Stephen McBride on X, quoting Josh Wolfe's Lux Capital investor letter, October 2024. https://x.com/DisruptionHedge/status/1845830485122899979
+
+[^12]: Maginative, "Physical Intelligence Raises $70M to Build AI-Powered Robots for Any Application," March 12, 2024. Accessed July 2026. https://www.maginative.com/article/physical-intelligence-raises-70m-to-build-ai-powered-robots-for-any-application/ — Primary contemporaneous source: $70M seed led by Thrive Capital with Khosla Ventures, Lux Capital, OpenAI, and Sequoia Capital participating.
+
+[^13]: SiliconANGLE, "AI startup Physical Intelligence raises $400M to create a brain for any robot," November 4, 2024. Accessed July 2026. https://siliconangle.com/2024/11/04/ai-startup-physical-intelligence-raises-400m-create-brain-robot/ — Third source confirming Lux Capital's participation in both the March 2024 $70M seed and the November 2024 $400M follow-on at $2.4B post-money.

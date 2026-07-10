@@ -158,7 +158,7 @@ This table represents 40 verified investments out of approximately 397 total com
 | Candu | Seed | ~2020 | Enterprise/SaaS | Active [^21] |
 | Dropbox | Seed | ~2008 | Consumer/Productivity | IPO (2018) [^1] |
 | Arena | Series A | ~2020 | Enterprise/SaaS | Active [^21] |
-| Astrix | Seed | ~2023 | Enterprise/AI | Active [^21] |
+| Astrix Security | Series A (led, $25M; Bessemer Venture Partners + F2 Venture Capital participated as existing investors) | 2023-06-28 | Non-Human Identity Security | Acquired by Cisco Investments 2026-05-04 [^21][^39][^40][^41] |
 | Careforce | Seed | ~2024 | AI/Health | Active [^21] |
 | Capy | Seed | ~2024 | AI | Active [^21] |
 | Joyful Health | Series A (led, $17M) | 2026-04-16 | Healthcare / AI | Active [^30] |
@@ -252,3 +252,9 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 [^37]: The SaaS News, "Napkin Raises $10 Million in Seed Round," August 2024. https://www.thesaasnews.com/news/napkin-raises-10-million-in-seed-round/ — Independent confirmation of $10M seed co-led by Accel and CRV. Rich Wong (Accel Partner) and Max Gazor (CRV General Partner) quoted. Accessed July 2026.
 
 [^38]: Inc., "How These Ex-Google Engineers Raised $10 Million for Their AI Startup" (Brian Contreras), August 2024. https://www.inc.com/brian-contreras/how-these-ex-google-engineers-raised-10-million-for-their-ai-startup — Third independent confirmation of Napkin's $10M seed co-led by Accel and CRV. Pramod Sharma quoted: "With the iPhone, Apple made it dead simple for anyone to take photos. We aim to do the same thing with graphics." Accessed July 2026.
+
+[^39]: Astrix Security company press page, "Astrix Security Raises $25M in Series A Funding," June 28, 2023. Accessed July 2026. https://astrix.security/learn/news/astrix-security-raises-25m-in-series-a-funding/ — Primary company announcement confirming $25M Series A led by CRV with existing investors Bessemer Venture Partners and F2 Venture Capital participating. James Green (CRV General Partner) quoted. Total funding brought to nearly $40M. Founders: Alon Jackson (CEO) and Idan Gour (CTO), Unit 8200 veterans; company founded in Tel Aviv 2021.
+
+[^40]: TechCrunch, "Astrix Security, which uses ML to secure app integrations, raises $25M," June 28, 2023. Accessed July 2026. https://techcrunch.com/2023/06/28/astrix-security-which-uses-ml-to-secure-app-integrations-raises-25m/ — Independent contemporaneous confirmation: $25M Series A led by CRV; Bessemer + F2 as existing investors; company secures non-human identities across SaaS/IaaS/PaaS.
+
+[^41]: PR Newswire, "Astrix Security Raises $25M in Series A Funding," June 28, 2023. Accessed July 2026. https://www.prnewswire.com/news-releases/astrix-security-raises-25m-in-series-a-funding-301864886.html — Third independent primary press wire confirming CRV as sole lead of the June 28, 2023 $25M Series A with existing investors Bessemer Venture Partners and F2 Venture Capital continuing. Prior $15M seed (Feb 2022) was led by Bessemer + F2 with Venrock participation — CRV was NOT in the seed round; CRV entered at Series A.

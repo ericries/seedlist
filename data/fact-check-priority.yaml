@@ -1,4 +1,22 @@
 priority:
+- slug: crv
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-10: corrected Astrix row on crv.md from wrong "Seed | ~2023" to accurate "Series A (led, $25M; Bessemer + F2 participated as existing investors) | 2023-06-28". CRV entered at Series A, NOT seed. Prior $15M Seed (Feb 23, 2022) was led by Bessemer + F2 with Venrock participation. Row also updated to note Cisco acquisition (2026-05-04). 3 new footnotes added: [^39] Astrix company press (2023-06-28), [^40] TechCrunch, [^41] PR Newswire.'
+  added: 2026-07-10
+  status: resolved
+  resolved: 2026-07-10
+- slug: venrock
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-10: tightened Accompany Health row on venrock.md from "Seed | ~2023" to "Series A (co-led with ARCH Venture Partners, $56M; IVP + Granite Capital Management + Evidenced participated) | 2024-01-30" via 3 primary sources: GlobeNewswire company release [^32], MobiHealthNews [^33], plus existing FierceHealthcare [^26]. Parallel update on bob-kocher.md tightened row to 2024-01-30 with same $56M syndicate detail and new footnote [^25].'
+  added: 2026-07-10
+  status: resolved
+  resolved: 2026-07-10
+- slug: thrive-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-10: corrected Physical Intelligence row on thrive-capital.md from "Growth | ~2024" to two rows: Seed 2024-03-12 (LED, $70M at ~$400M post-money; Khosla, Lux, OpenAI, Sequoia joined) and Series A follow-on 2024-11-04 ($400M at $2.4B post-money; Bezos + Thrive + Lux led per SiliconANGLE; Bond, Redpoint, Khosla, Sequoia, OpenAI participated). Thrive LED the seed and re-participated in follow-on. Verified via 3 primary sources: Maginative [^60], CNBC [^61], SiliconANGLE [^62]. Parallel updates on josh-kushner.md (added both rows [^17][^18]), josh-wolfe.md (Seed row tightened with [^13][^14]), vinod-khosla.md (Early → Seed 2024-03-12 with [^32][^33]).'
+  added: 2026-07-10
+  status: resolved
+  resolved: 2026-07-10
 - slug: collaborative-fund
   type: firm
   reason: "appeared in Hippo Harvest Series C (2026-07-09), $30M"

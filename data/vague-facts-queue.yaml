@@ -167481,7 +167481,9 @@ vague_facts:
   line: '| Astrix | Seed | ~2023 | Enterprise/AI | Active [^21] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-10
+  resolution_note: 'CORRECTED "Seed | ~2023" to "Series A (led, $25M; Bessemer + F2 participated as existing investors) | 2023-06-28" on crv.md. CRV led the Series A on June 28, 2023, NOT the Seed. Prior $15M Seed (Feb 23, 2022) was led by Bessemer Venture Partners + F2 Venture Capital with Venrock participation — CRV was NOT in the seed. Verified via 3 primary sources: Astrix company press page [^39] (2023-06-28), TechCrunch [^40], PR Newswire [^41]. Also updated status to note Cisco acquisition (2026-05-04). New footnotes [^39][^40][^41] added.'
 - profile: firms/crv
   profile_name: CRV
   company: Careforce
@@ -171895,7 +171897,9 @@ vague_facts:
   line: '| Physical Intelligence | Growth | ~2024 | AI / Robotics | Private [^3] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-10
+  resolution_note: 'CORRECTED "Growth | ~2024" to two rows on thrive-capital.md: (1) Seed (led, $70M at ~$400M post-money; Khosla, Lux, OpenAI, Sequoia joined) | 2024-03-12, and (2) Series A follow-on (participated, $400M at $2.4B post-money; Bezos + Thrive + Lux led per SiliconANGLE) | 2024-11-04. Thrive LED the March 2024 seed and re-participated in the November 2024 Series A follow-on. Verified via 3 primary sources: Maginative [^60] (2024-03-12 seed), CNBC [^61] (2024-11-04 $2.4B follow-on), SiliconANGLE [^62] (2024-11-04, names Bezos/Thrive/Lux as leads). Parallel updates on josh-kushner.md (added both rows with [^17][^18]), josh-wolfe.md (Physical Intelligence Seed row tightened to 2024-03-12 with [^13][^14]), and vinod-khosla.md (Early → Seed 2024-03-12 with [^32][^33]).'
 - profile: firms/thrive-capital
   profile_name: Thrive Capital
   company: Alsym Energy
