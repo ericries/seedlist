@@ -164885,7 +164885,9 @@ vague_facts:
   line: '| 2024-11 | Series A | $29M | — | — [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Starfish Space Series A row from "2024-11 | $29M | — | —" to "2024-11-13 | $29M | Shield Capital | Point72 Ventures + Booz Allen Ventures + Aero X Ventures + Trousdale Ventures + TRAC VC (new); Munich Re Ventures + Toyota Ventures + NFX + Industrious Ventures (existing)" via 3 primary sources: (a) Starfish Space company press release [^3] (2024-11-13), (b) TechCrunch tier-1 press [^2] (2024-11-13), (c) Via Satellite industry press [^4] (2024-11-14). Parallel updates to nfx.md portfolio table (added Starfish Space Series A row as existing investor participation with 3 primary source citations [^39][^40][^41]) and starfish-space.md frontmatter (added NFX Series A 2024-11-13 entry).'
 - profile: startups/stitch-fix
   profile_name: Stitch Fix
   company: Seed
@@ -164998,7 +165000,9 @@ vague_facts:
   line: '| 2026-04-16 | Series C | $56M | — | M Ventures, Pfizer Ventures, Taiho Ventures, IP Group, UTokyo IPC, Fast Track Initi'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: verified STORM Therapeutics Series C 2026-04-16 $56M is an insider round with NO single lead — all participants (M Ventures, Pfizer Ventures, Taiho Ventures LLC, IP Group plc, UTokyo IPC, Fast Track Initiative) are returning existing investors per company press release. Tightened row wording to make the "insider round; no single lead named" explicit rather than ambiguous "—". Verified via 3 primary sources: (a) GlobeNewswire press release [^1] (2026-04-16, "The financing was funded by existing investors"), (b) M Ventures own news page [^2] (independent investor confirmation), (c) Bioxconomy industry press [^3] ("backed entirely by existing investors"). Added 2 new citations [^2][^3] beyond existing [^1].'
 - profile: startups/suno
   profile_name: Suno
   company: 2025-11
@@ -165008,7 +165012,9 @@ vague_facts:
   line: '| 2025-11 | Series C | $250M (at $2.45B val) | — | — [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-09
+  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Suno Series C row from "2025-11 | $250M | — | —" to "2025-11-19 | $250M at $2.45B val | Menlo Ventures (lead) | NVentures (NVIDIA) + Hallwood Media + Lightspeed + Matrix" via 3 primary sources: (a) Suno company blog Series C announcement [^4] (2025-11-19), (b) PR Newswire press release [^5] (2025-11-19), (c) TechCrunch tier-1 press [^6] (2025-11-19). Parallel updates to menlo-ventures.md portfolio table (added Suno Series C row as lead with 3 primary source citations [^32][^33][^34]) and suno.md frontmatter (added Menlo Ventures Series C lead 2025-11-19 entry).'
 - profile: startups/superstate
   profile_name: Superstate
   company: '2026-04-13'

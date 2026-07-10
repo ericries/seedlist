@@ -123,6 +123,7 @@ Based on Menlo Ventures' verified portfolio data:
 | Westmag | Seed (participated, $11M; Andreessen Horowitz led) | 2026-06-02 | Hardware / Robotics / Drones | Private [^22][^23][^24][^25] |
 | Skild | Series A (participated, $300M at $1.5B val; Lightspeed/Coatue/SoftBank/Bezos led) | 2024-07-09 | AI / Robotics Foundation Model | Private [^27][^28] |
 | Lovable | Series B (co-led via Anthology Fund with CapitalG, $330M at $6.6B val) | 2025-12-18 | AI / Developer Tools / Vibe Coding | Private [^29][^30][^31] |
+| Suno | Series C (led, $250M at $2.45B val) | 2025-11-19 | AI / Generative Music | Private [^32][^33][^34] |
 
 *This table represents a small fraction of Menlo's 466 total investments. The firm has produced 85+ public companies and 170+ M&A exits [^2].*
 
@@ -181,3 +182,9 @@ No independently sourced founder testimonials found.
 [^30]: Lovable blog, "Lovable raises $330M to power the age of the builder," December 18, 2025. Accessed July 2026. https://lovable.dev/blog/series-b — Startup's own announcement confirming $330M Series B at $6.6B valuation co-led by CapitalG and Menlo Ventures' Anthology Fund, with NVentures, Salesforce Ventures, Databricks Ventures, T.Capital, Atlassian Ventures, HubSpot Ventures, Khosla Ventures, DST Global, EQT Growth, Kinship Ventures, and returning backers Accel, Creandum, and Evantic.
 
 [^31]: TechCrunch, "Vibe-coding startup Lovable raises $330M at a $6.6B valuation," December 18, 2025. Accessed July 2026. https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/ — Contemporaneous tier-1 press confirming the round details.
+
+[^32]: Suno company blog, "The Future of Music is Already Here," Series C announcement, November 19, 2025. Accessed July 2026. https://suno.com/blog/series-c-announcement — Suno's own announcement confirming Menlo Ventures led the $250M Series C at $2.45B valuation, with participation from NVentures (NVIDIA), Hallwood Media, Lightspeed, and Matrix.
+
+[^33]: PR Newswire, "Suno Raises $250M at a $2.45B Valuation," November 19, 2025. Accessed July 2026. https://www.prnewswire.com/news-releases/suno-raises-250m-at-a-2-45b-valuation-302620166.html — Contemporaneous press release confirming Menlo Ventures as lead and $250M at $2.45B post-money.
+
+[^34]: TechCrunch, "Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue," November 19, 2025. Accessed July 2026. https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/ — Tier-1 press confirming Menlo Ventures lead role and $200M annual revenue at raise.

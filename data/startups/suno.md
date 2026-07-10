@@ -21,7 +21,10 @@ firms:
   year: 2024
 - slug: forerunner-ventures
 - slug: ivp
-- slug: menlo-ventures
+- date: '2025-11-19'
+  round: Series C (led, $250M at $2.45B val)
+  slug: menlo-ventures
+  year: 2025
 - slug: quiet-capital
 founded: 2024
 founders:
@@ -75,7 +78,7 @@ Suno is a Cambridge, Massachusetts-based generative-AI music company founded in 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-06-03 | Series D (at $5.4B val) | $400M | Bond Capital | IVP, Forerunner Ventures, Union Square Ventures, Alkeon, Quiet Capital, Matrix Partners, Lightspeed Venture Partners, Menlo Ventures, Schroders Capital [^1][^2][^3] |
-| 2025-11 | Series C | $250M (at $2.45B val) | — | — [^1] |
+| 2025-11-19 | Series C (at $2.45B val) | $250M | Menlo Ventures | NVentures (NVIDIA), Hallwood Media, Lightspeed, Matrix [^4][^5][^6] |
 
 ## What Investors Say
 
@@ -90,3 +93,6 @@ No independently sourced founder quotes found at this time.
 [^1]: TechCrunch, "Still facing copyright lawsuits, AI music generator Suno raises another $400M," June 3, 2026. Accessed June 2026. https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/
 [^2]: Variety, "AI Music Company Suno Raises $400 Million at $5.4 Billion Valuation," June 3, 2026. Accessed June 2026. https://variety.com/2026/digital/news/ai-music-suno-funding-round-400-million-5-4-billion-valuation-1236765727/
 [^3]: SiliconANGLE, "Generative AI music startup Suno AI raises over $400M at a $5.4B valuation," June 3, 2026. Accessed June 2026. https://siliconangle.com/2026/06/03/generative-ai-music-startup-suno-ai-raises-400m-5-4b-valuation/
+[^4]: Suno company blog, "The Future of Music is Already Here," Series C announcement, November 19, 2025. Accessed July 2026. https://suno.com/blog/series-c-announcement — Company announcement confirming $250M Series C led by Menlo Ventures, with participation from NVentures (NVIDIA), Hallwood Media, Lightspeed, and Matrix.
+[^5]: PR Newswire, "Suno Raises $250M at a $2.45B Valuation," November 19, 2025. Accessed July 2026. https://www.prnewswire.com/news-releases/suno-raises-250m-at-a-2-45b-valuation-302620166.html — Contemporaneous press release confirming $250M raise at $2.45B post-money, Menlo Ventures as lead, and full participant list.
+[^6]: TechCrunch, "Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue," November 19, 2025. Accessed July 2026. https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/ — Tier-1 press confirming round details, $200M annual revenue, and lead investor.

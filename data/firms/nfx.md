@@ -102,6 +102,7 @@ Based on 300 verified investments from Crunchbase and NFX's portfolio page, the 
 | CopilotKit | Series A (participated, $27M) | 2026-05-05 | AI/Developer Tools | [^34][^35] |
 | Pumpkinseed | Series A (co-led, $20M) | 2026-05-05 | Biotech / Proteomics | [^36][^37] |
 | Aligned | Series B (participated, $60M) | 2026-07-01 | SaaS/Sales Enablement | [^38] |
+| Starfish Space | Series A (participated as existing investor, $29M; Shield Capital lead) | 2024-11-13 | Aerospace / Satellite Servicing | Private [^39][^40][^41] |
 
 *This table represents approximately 8% of 300 known investments. NFX was founded in 2015; investments dated before 2015 (DoorDash, Lyft, Patreon, HoneyBook, Similarweb, Trulia, Playtika) are personal angel investments by the GPs, later attributed to NFX's portfolio. NFX invests across both US and Israeli ecosystems [^9].*
 
@@ -164,3 +165,9 @@ No independently sourced founder testimonials with verbatim quotes found from th
 [^37]: NFX team page, "Omri Drory, Ph.D.," accessed May 2026. https://www.nfx.com/team/omri-amirav-drory
 
 [^38]: SiliconANGLE, "Aligned bags $60M in funding to build the AI-native sales execution layer for enterprise deals," July 1, 2026, accessed July 2026. https://siliconangle.com/2026/07/01/aligned-bags-60m-funding-build-ai-native-sales-execution-layer-enterprise-deals/ — Aligned's Series B was led by PeakSpan Capital with participation from prior backers Hetz Ventures, JAL Ventures, and NFX. Also verified via Calcalist Tech (https://www.calcalistech.com/ctechnews/article/b1kmpvz7gx) and The SaaS News (https://www.thesaasnews.com/news/aligned-raises-60m-series-b/).
+
+[^39]: TechCrunch, "Starfish Space raises $29M to launch satellite-servicing spacecraft missions," November 13, 2024. Accessed July 2026. https://techcrunch.com/2024/11/13/starfish-space-raises-29m-to-launch-satellite-servicing-spacecraft/ — Tier-1 press naming NFX as existing investor participating in the $29M Series A led by Shield Capital.
+
+[^40]: Starfish Space press release, "Starfish Space Secures $29 Million in New Funding to Advance Otter Development," November 13, 2024. Accessed July 2026. https://www.starfishspace.com/press-release/starfish-space-secures-29-million-in-new-funding-to-advance-otter-development/ — Company's own announcement confirming NFX as an existing investor participating in the round.
+
+[^41]: Via Satellite, "Starfish Gets $29M in New Funding to Complete Development of Otter Spacecraft," November 14, 2024. Accessed July 2026. https://www.satellitetoday.com/finance/2024/11/14/starfish-gets-29m-in-new-funding-to-complete-development-of-otter-spacecraft/ — Independent industry press confirming NFX's participation.
