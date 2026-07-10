@@ -67,30 +67,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Databento raised $97M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-10'
-  parsed_company: Databento
-  parsed_amount: $97M
-  parsed_round: Series B
-  status: pending
-- title: Skapion raised $36M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-10'
-  parsed_company: Skapion
-  parsed_amount: $36M
-  parsed_round: Seed
-  status: pending
-- title: Kapture CX raised $10M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-10'
-  parsed_company: Kapture CX
-  parsed_amount: $10M
-  parsed_round: null
-  status: pending
 - title: Mercator Acquisition raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -213,15 +189,6 @@ pending_rounds:
   source: techcrunch
   date_found: '2026-07-09'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Alchemab Therapeutics secures €29.3 million as British Business Bank makes
-    its largest life sciences investment yet
-  url: https://www.eu-startups.com/2026/07/londons-alchemab-therapeutics-secures-e29-3-million-as-british-business-bank-makes-its-largest-life-sciences-investment-yet/
-  source: eu-startups
-  date_found: '2026-07-09'
-  parsed_company: Alchemab Therapeutics
   parsed_amount: null
   parsed_round: null
   status: pending
