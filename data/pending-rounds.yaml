@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: JZR Gold Inc. Closes Non-Brokered Private Placement Offering of Units
+  url: https://www.globenewswire.com/news-release/2026/07/10/3325280/0/en/JZR-Gold-Inc-Closes-Non-Brokered-Private-Placement-Offering-of-Units.html
+  source: globenewswire
+  date_found: '2026-07-10'
+  parsed_company: JZR Gold Inc.
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Munich’s QuantumDiamonds raises €91 million to scale its quantum-based semiconductor
     inspection technology
   url: https://www.eu-startups.com/2026/07/munichs-quantumdiamonds-raises-e91-million-to-scale-its-quantum-based-semiconductor-inspection-technology/
@@ -87,6 +95,14 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-09'
   parsed_company: Alchemab Therapeutics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic
+  url: https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/
+  source: techcrunch
+  date_found: '2026-07-09'
+  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending

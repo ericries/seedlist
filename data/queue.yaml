@@ -37561,3 +37561,62 @@ queue:
   discovered_from: brandon-leonardo
   source: former VP Data Science Instacart; Anomalo co-founder; angel in Sematic and
     Airtrain AI (2022) alongside Brandon Leonardo
+- name: UP Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skapion
+  source: co-led Skapion $36M seed 2026-07-09
+- name: DRW Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: databento
+  source: participated in Databento $97M Series B 2026-07-09
+- name: 13books Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aria-fintech
+  source: participated in Aria €7M Series A extension 2026-07-09
+- name: 115K
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: La Banque Postale
+  discovered_from: aria-fintech
+  source: led Aria €7M Series A extension 2026-07-09
+- name: Fusion VC
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skapion
+  source: participated in Skapion $36M seed 2026-07-09
+- name: Stratos Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skapion
+  source: participated in Skapion $36M seed 2026-07-09
+- name: Christina Qi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Databento
+  discovered_from: databento
+  source: Co-founder & CEO of Databento; previously ran hedge fund trading $7B/day
+- name: Clément Carrier
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Aria
+  discovered_from: aria-fintech
+  source: Co-founder & CEO of Aria embedded invoice financing
