@@ -123,6 +123,24 @@ pending_rounds:
   parsed_amount: $26.5B
   parsed_round: null
   status: pending
+- title: Oratomic raises $300M to build a viable quantum computer that needs only
+    20K qubits
+  url: https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/
+  source: techcrunch
+  date_found: '2026-07-10'
+  parsed_company: Oratomic
+  parsed_amount: $300M
+  parsed_round: null
+  status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (July 06-July 10)
+  url: https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-july-06-july-10/
+  source: eu-startups
+  date_found: '2026-07-10'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Munich’s QuantumDiamonds raises €91 million to scale its quantum-based semiconductor
     inspection technology
   url: https://www.eu-startups.com/2026/07/munichs-quantumdiamonds-raises-e91-million-to-scale-its-quantum-based-semiconductor-inspection-technology/
