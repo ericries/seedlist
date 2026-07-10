@@ -40,6 +40,15 @@ pending_rounds:
   notes: created startup profile kraken-technology-group.md; $175M Series B led by
     DTCP with British Business Bank, NATO Innovation Fund, Rheinmetall, Inocea, HICO,
     Thesiger, BOKA, Supernova Invest, Hakluyt; UK maritime defence unicorn (2026-07-09)
+- title: AI puts UK startup funding back in the big leagues with strongest first half
+    since 2022, new data shows
+  url: https://www.eu-startups.com/2026/07/ai-puts-uk-startup-funding-back-in-the-big-leagues-with-strongest-first-half-since-2022-new-data-shows/
+  source: eu-startups
+  date_found: '2026-07-10'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Munich’s QuantumDiamonds raises €91 million to scale its quantum-based semiconductor
     inspection technology
   url: https://www.eu-startups.com/2026/07/munichs-quantumdiamonds-raises-e91-million-to-scale-its-quantum-based-semiconductor-inspection-technology/
