@@ -20,6 +20,32 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The Weekly Notable Startup Funding Report: 7/13/26'
+  url: https://alleywatch.com/2026/07/the-weekly-notable-startup-funding-report-7-13-26/
+  source: alleywatch
+  date_found: '2026-07-13'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Mycelium-based paving material developer Visibuilt raises €3.34 million out
+    of Denmark
+  url: https://www.eu-startups.com/2026/07/mycelium-based-paving-material-developer-visibuilt-raises-e3-34-million-out-denmark/
+  source: eu-startups
+  date_found: '2026-07-13'
+  parsed_company: Mycelium-based paving material developer Visibuilt
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Austria’s Sodex Innovations secures €4 million to scale automated construction-site
+    surveying
+  url: https://www.eu-startups.com/2026/07/austrias-sodex-innovations-secures-e4-million-to-scale-automated-construction-site-surveying/
+  source: eu-startups
+  date_found: '2026-07-13'
+  parsed_company: Austria’s Sodex Innovations
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: JZR Gold Inc. Closes Non-Brokered Private Placement Offering of Units
   url: https://www.globenewswire.com/news-release/2026/07/10/3325280/0/en/JZR-Gold-Inc-Closes-Non-Brokered-Private-Placement-Offering-of-Units.html
   source: globenewswire
@@ -841,29 +867,4 @@ pending_rounds:
   parsed_company: Lab-free testing moves closer to home as Germany’s Intu Diagnostics
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: AI Drives Another Spree Of Megadeals'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/
-  source: crunchbase
-  date_found: '2026-06-26'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Apple raises Mac and iPad prices, spares iPhone for now
-  url: https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/
-  source: techcrunch
-  date_found: '2026-06-25'
-  parsed_company: Apple
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Bosch and Siemens Energy partner Almetra raises €16 million Series A for
-    manufacturing intelligence platform
-  url: https://www.eu-startups.com/2026/06/bosch-and-siemens-energy-partner-almetra-raises-e16-million-series-a-for-manufacturing-intelligence-platform/
-  source: eu-startups
-  date_found: '2026-06-25'
-  parsed_company: Bosch and Siemens Energy partner Almetra
-  parsed_amount: null
-  parsed_round: Series A
   status: pending
