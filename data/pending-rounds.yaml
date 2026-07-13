@@ -46,6 +46,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/13/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-13-2026/
+  source: alleywatch
+  date_found: '2026-07-13'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: JZR Gold Inc. Closes Non-Brokered Private Placement Offering of Units
   url: https://www.globenewswire.com/news-release/2026/07/10/3325280/0/en/JZR-Gold-Inc-Closes-Non-Brokered-Private-Placement-Offering-of-Units.html
   source: globenewswire
@@ -856,15 +864,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-06-26'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Lab-free testing moves closer to home as Germany’s Intu Diagnostics raises
-    €1.1 million
-  url: https://www.eu-startups.com/2026/06/lab-free-testing-moves-closer-to-home-as-germanys-intu-diagnostics-raises-e1-1-million/
-  source: eu-startups
-  date_found: '2026-06-26'
-  parsed_company: Lab-free testing moves closer to home as Germany’s Intu Diagnostics
   parsed_amount: null
   parsed_round: null
   status: pending
