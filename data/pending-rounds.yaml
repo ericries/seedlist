@@ -55,6 +55,31 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: So Far, 2026 Is A Solid Year For Cybersecurity Startup Funding
+  url: https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/
+  source: crunchbase
+  date_found: '2026-07-14'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: The June 2026 US Venture Capital Funding Report
+  url: https://alleywatch.com/2026/07/us-venture-capital-statistics-june-2026/
+  source: alleywatch
+  date_found: '2026-07-14'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Dutch Clean Tech raises €15 million after acquiring 25% stake in Guatemalan
+    drinking water firm Agua del Mariscal
+  url: https://www.eu-startups.com/2026/07/dutch-clean-tech-raises-e15-million-to-acquire-25-stake-in-guatemalas-drinking-water-firm-agua-del-mariscal/
+  source: eu-startups
+  date_found: '2026-07-14'
+  parsed_company: Dutch Clean Tech
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 7/13/26'
   url: https://alleywatch.com/2026/07/the-weekly-notable-startup-funding-report-7-13-26/
   source: alleywatch
@@ -842,28 +867,4 @@ pending_rounds:
   parsed_company: Syracuse-based Archimede
   parsed_amount: null
   parsed_round: Seed
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/29/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-29-2026/
-  source: alleywatch
-  date_found: '2026-06-29'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Labs raised $135M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Labs
-  parsed_amount: $135M
-  parsed_round: Series A
-  status: pending
-- title: Daybreak raised $75M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Daybreak
-  parsed_amount: $75M
-  parsed_round: null
   status: pending
