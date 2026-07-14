@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Video-generation startup PixVerse raises $439M, valuation soars past $2B
+  url: https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
+  source: techcrunch
+  date_found: '2026-07-14'
+  parsed_company: Video-generation startup PixVerse
+  parsed_amount: $439M
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 7/13/26'
   url: https://alleywatch.com/2026/07/the-weekly-notable-startup-funding-report-7-13-26/
   source: alleywatch
@@ -52,6 +60,14 @@ pending_rounds:
   date_found: '2026-07-13'
   parsed_company: null
   parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Hermes agent maker Nous Research in talks for new funding at $1.5B valuation
+  url: https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/
+  source: techcrunch
+  date_found: '2026-07-13'
+  parsed_company: null
+  parsed_amount: $1.5B
   parsed_round: null
   status: pending
 - title: JZR Gold Inc. Closes Non-Brokered Private Placement Offering of Units
@@ -848,22 +864,4 @@ pending_rounds:
   parsed_company: Chamath Palihapitiya
   parsed_amount: $135M
   parsed_round: Series A
-  status: pending
-- title: UK BioTech Thalia Therapeutics raises €3.1 million and acquires Sanmirna
-    Therapeutics
-  url: https://www.eu-startups.com/2026/06/uk-biotech-thalia-therapeutics-raises-e3-1-million-and-acquires-sanmirna-therapeutics/
-  source: eu-startups
-  date_found: '2026-06-26'
-  parsed_company: UK BioTech Thalia Therapeutics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (June 22 – June 26)
-  url: https://www.eu-startups.com/2026/06/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-22-june-26/
-  source: eu-startups
-  date_found: '2026-06-26'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
   status: pending
