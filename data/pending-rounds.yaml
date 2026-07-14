@@ -28,6 +28,33 @@ pending_rounds:
   parsed_amount: $439M
   parsed_round: null
   status: pending
+- title: London-based Prolo secures €4.9 million to bring AI-powered procurement to
+    SME construction firms
+  url: https://www.eu-startups.com/2026/07/london-based-prolo-secures-e4-9-million-to-bring-ai-powered-procurement-to-sme-construction-firms/
+  source: eu-startups
+  date_found: '2026-07-14'
+  parsed_company: London-based Prolo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Europe’s only Gallium Oxide epiwafer producer NextGO Epi raises €2 million
+    pre-Seed funding
+  url: https://www.eu-startups.com/2026/07/europes-only-gallium-oxide-epiwafer-producer-nextgo-epi-raises-e2-million-pre-seed-funding/
+  source: eu-startups
+  date_found: '2026-07-14'
+  parsed_company: Europe’s only Gallium Oxide epiwafer producer NextGO Epi
+  parsed_amount: null
+  parsed_round: Pre-Seed
+  status: pending
+- title: Netflix alumni-founded Nopan reaches €7.2 million in funding to scale account
+    and wallet payments across Europe
+  url: https://www.eu-startups.com/2026/07/netflix-alumni-founded-nopan-reaches-e7-2-million-in-funding-to-scale-account-and-wallet-payments-across-europe/
+  source: eu-startups
+  date_found: '2026-07-14'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 7/13/26'
   url: https://alleywatch.com/2026/07/the-weekly-notable-startup-funding-report-7-13-26/
   source: alleywatch
@@ -839,29 +866,4 @@ pending_rounds:
   parsed_company: Daybreak
   parsed_amount: $75M
   parsed_round: null
-  status: pending
-- title: Discipulus Ventures raised $30M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Discipulus Ventures
-  parsed_amount: $30M
-  parsed_round: null
-  status: pending
-- title: Framework Ventures raised $400M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Framework Ventures
-  parsed_amount: $400M
-  parsed_round: null
-  status: pending
-- title: Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes
-    CEO role
-  url: https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/
-  source: techcrunch
-  date_found: '2026-06-29'
-  parsed_company: Chamath Palihapitiya
-  parsed_amount: $135M
-  parsed_round: Series A
   status: pending
