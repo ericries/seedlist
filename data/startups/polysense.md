@@ -1,25 +1,35 @@
 ---
-name: "Polysense"
-slug: polysense
-type: startup
-website: "https://www.polysense.ai"
-location: "Ghent, Belgium"
-founded: 2022
-status_company: active
-sector: [ai, computer-vision, agtech, food-tech, manufacturing, quality-control, industrial-ai]
-stage_latest: "Seed"
-total_raised: "$12.9M (across 2025 $2.2M and 2026-07-08 $10.7M seed rounds)"
-investors: []
 firms: []
+founded: 2022
 founders:
-  - name: "Yarne De Munck"
-    role: "Co-Founder & CEO"
-  - name: "Lucas Van Dijck"
-    role: "Co-Founder"
-  - name: "Jarne Bogaert"
-    role: "Co-Founder"
-status: published
+- name: Yarne De Munck
+  role: Co-Founder & CEO
+- name: Lucas Van Dijck
+  role: Co-Founder
+- name: Jarne Bogaert
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: jeroen-de-wit
+  year: 2025
 last_researched: 2026-07-10
+location: Ghent, Belgium
+name: Polysense
+sector:
+- ai
+- computer-vision
+- agtech
+- food-tech
+- manufacturing
+- quality-control
+- industrial-ai
+slug: polysense
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $12.9M (across 2025 $2.2M and 2026-07-08 $10.7M seed rounds)
+type: startup
+website: https://www.polysense.ai
 ---
 
 ## About

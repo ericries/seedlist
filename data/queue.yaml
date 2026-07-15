@@ -25203,7 +25203,7 @@ queue:
 - name: Halle Tecco
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Techammer
   discovered_from: jeff-hammerbacher
@@ -25255,7 +25255,7 @@ queue:
 - name: Christian Chabot
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: independent
   discovered_from: chris-stolte
@@ -37702,3 +37702,65 @@ queue:
   firm: Grace Investment Machine (GIM)
   discovered_from: gim
   source: Founder & CEO of GIM ($20M Series A, 2026-07-09)
+- name: Rock Health
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: halle-tecco
+- name: Cofertility
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: halle-tecco
+- name: Collective Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: halle-tecco
+- name: Marley Medical
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: halle-tecco
+- name: Hued
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: halle-tecco
+- name: Poppy Seed Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: halle-tecco
+- name: Besound Health
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: halle-tecco
+- name: Natalist
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: halle-tecco
+- name: Ali Diab
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Collective Health
+  discovered_from: halle-tecco
+- name: Angela Chabot
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: The Holocene Foundation
+  discovered_from: christian-chabot
