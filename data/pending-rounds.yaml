@@ -38,6 +38,58 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Rime picks up $24M Series A to help enterprises field customer calls
+  url: https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/
+  source: techcrunch
+  date_found: '2026-07-15'
+  parsed_company: null
+  parsed_amount: $24M
+  parsed_round: Series A
+  status: pending
+- title: Indian AI coding startup Emergent becomes a unicorn with $130M Series C
+  url: https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/
+  source: techcrunch
+  date_found: '2026-07-15'
+  parsed_company: null
+  parsed_amount: $130M
+  parsed_round: Series C
+  status: pending
+- title: Backed by $60M in funding, Oak steps out of stealth to fix the identity mess
+    that AI agents are making worse
+  url: https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/
+  source: techcrunch
+  date_found: '2026-07-15'
+  parsed_company: null
+  parsed_amount: $60M
+  parsed_round: null
+  status: pending
+- title: Fintech Funding Surges 23% In H1 2026 As Investors Concentrate Their Bets
+    On AI And Financial Infrastructure
+  url: https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/
+  source: crunchbase
+  date_found: '2026-07-15'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Madrid-based Buenavista Equity Partners secures €75 million in commitments
+    for its third buyout fund
+  url: https://www.eu-startups.com/2026/07/madrid-based-buenavista-equity-partners-secures-e75-million-in-commitments-for-its-third-buyout-fund/
+  source: eu-startups
+  date_found: '2026-07-15'
+  parsed_company: Madrid-based Buenavista Equity Partners
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Daniel Ek’s Neko Health raises €612.7 million Series C as it prepares for
+    US expansion
+  url: https://www.eu-startups.com/2026/07/daniel-eks-neko-health-raises-e612-7-million-series-c-as-it-prepares-for-us-expansion/
+  source: eu-startups
+  date_found: '2026-07-15'
+  parsed_company: Daniel Ek’s Neko Health
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
 - title: Video-generation startup PixVerse raises $439M, valuation soars past $2B
   url: https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
   source: techcrunch
@@ -818,53 +870,3 @@ pending_rounds:
   parsed_amount: $19.5M
   parsed_round: Series A
   status: processed
-- title: Ares Acquisition III raised $345M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-30'
-  parsed_company: Ares Acquisition III
-  parsed_amount: $345M
-  parsed_round: null
-  status: pending
-- title: b. Kartos had raised $265M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-30'
-  parsed_company: b. Kartos had
-  parsed_amount: $265M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 6/30/2026'
-  url: https://alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-30-2026/
-  source: alleywatch
-  date_found: '2026-06-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Axios General Intuition raised $320M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Axios General Intuition
-  parsed_amount: $320M
-  parsed_round: Series A
-  status: pending
-- title: Sinda raised $213M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-06-29'
-  parsed_company: Sinda
-  parsed_amount: $213M
-  parsed_round: null
-  status: pending
-- title: 'From charging EVs and drones to powering data centres: London-based Gaussion
-    raises €24.5 million'
-  url: https://www.eu-startups.com/2026/06/from-charging-evs-and-drones-to-powering-data-centres-london-based-gaussion-raises-e24-5-million/
-  source: eu-startups
-  date_found: '2026-06-29'
-  parsed_company: 'From charging EVs and drones to powering data centres: London-based
-    Gaussion'
-  parsed_amount: null
-  parsed_round: null
-  status: pending
