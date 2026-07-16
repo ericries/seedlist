@@ -5269,3 +5269,7 @@ priority:
   status: unresolvable
   resolved: 2026-07-15
 
+- slug: insight-partners
+  type: firm
+  reason: "appeared in InstaLILY AI Series B (2026-07-14), $60M — Energize Capital led"
+  added: 2026-07-16

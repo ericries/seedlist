@@ -28,6 +28,15 @@ pending_rounds:
   parsed_amount: $30M
   parsed_round: Series A
   status: pending
+- title: London-based Applied Computing raises €17.4 million to scale AI that works
+    for the energy industry
+  url: https://www.eu-startups.com/2026/07/london-based-applied-computing-raises-e17-4-million-to-scale-ai-that-works-for-the-energy-industry/
+  source: eu-startups
+  date_found: '2026-07-16'
+  parsed_company: London-based Applied Computing
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: CNB Financial Corporation Announces Quarterly Dividend for Series A Preferred
     Stock and Related Depositary Shares Distribution
   url: https://www.globenewswire.com/news-release/2026/07/14/3327266/0/en/CNB-Financial-Corporation-Announces-Quarterly-Dividend-for-Series-A-Preferred-Stock-and-Related-Depositary-Shares-Distribution.html
@@ -102,6 +111,15 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-07-15'
   parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Float raises €4.5 million to help European tech founders scale without equity
+    dilution or needless bureaucracy
+  url: https://www.eu-startups.com/2026/07/float-raises-e4-5-million-to-help-european-tech-founders-scale-without-sacrificing-equity-and-tackle-unnecessary-bureaucracy/
+  source: eu-startups
+  date_found: '2026-07-15'
+  parsed_company: Float
   parsed_amount: null
   parsed_round: null
   status: pending

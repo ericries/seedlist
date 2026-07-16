@@ -37979,3 +37979,64 @@ queue:
   discovered_from: freddie-martignetti
   source: Freddie Martignetti's prior firm (VC); Cory Rellas worked at Bain Capital
     Credit before this
+- name: Match Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: overtone
+  source: strategic investor in Overtone $18M Seed (2026-07-14); CEO Spencer Rascoff
+    on board
+- name: Home Depot Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: instalily-ai
+  source: participated in InstaLILY AI $60M Series B (2026-07-14)
+- name: KBR
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: applied-computing-uk
+  source: led Applied Computing (London) $20M Series A (2026-07-15); strategic corp
+    investor
+- name: Vireo Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nextgo-epi
+  source: led NextGO Epi EUR 2M pre-Seed (2026-07-15) — Berlin gallium oxide
+- name: Ultratech Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nextgo-epi
+  source: participated in NextGO Epi EUR 2M pre-Seed (2026-07-15)
+- name: IBB Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nextgo-epi
+  source: participated in NextGO Epi EUR 2M pre-Seed (2026-07-15) — Berlin public-backed
+    VC
+- name: Justin McLeod
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Overtone
+  discovered_from: overtone
+  source: Founder/CEO Overtone; Hinge founder (previous exit)
+- name: Callum Adamson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Applied Computing
+  discovered_from: applied-computing-uk
+  source: Co-Founder & CEO Applied Computing (London)

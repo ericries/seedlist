@@ -135,6 +135,8 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Auger | Series A ($200M, co-led with Oak HC/FT) | 2026-06-03 | Supply Chain AI | Active | [^43][^44][^45] |
 | Golden Analytics | Seed Extension ($14M, led) | 2026-06-09 | AI / Business Intelligence | Active | [^46][^47] |
 | Gradial | Series C ($65M, led) | 2026-06-18 | AI / Agents / Marketing | Active ($675M val) | [^48][^49][^50] |
+| InstaLILY AI | Series A ($25M, led) | 2025-08-28 | Vertical AI / Enterprise Agents | Active | [^51] |
+| InstaLILY AI | Series B ($60M, participated; Energize Capital led) | 2026-07-14 | Vertical AI / Enterprise Agents | Active | [^52][^53] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -217,3 +219,9 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^49]: GeekWire, "Gradial raises $65M as startup sees rapid growth around agentic tools for enterprise marketing," June 18, 2026. Accessed June 2026. https://www.geekwire.com/2026/gradial-raises-65m-as-startup-sees-rapid-growth-around-agentic-tools-for-enterprise-marketing/
 
 [^50]: SiliconANGLE, "Agentic marketing AI startup Gradial grabs $65M in fresh funding," June 18, 2026. Accessed June 2026. https://siliconangle.com/2026/06/18/agentic-marketing-ai-startup-gradial-grabs-65m-fresh-funding/
+
+[^51]: "InstaLILY Raises $25M to Bring AI Teammates to the Frontlines of Distribution," PRNewswire / InstaLILY press release, August 2025. Confirms Insight Partners led $25M Series A with Perceptive Ventures and Marvin Ventures participating. Accessed July 16, 2026. https://www.prnewswire.com/news-releases/instalily-raises-25m-to-bring-ai-teammates-to-the-frontlines-of-distribution-302538523.html
+
+[^52]: Reuters via TradingView, "InstaLILY AI Raises $60 Mln Series B Round Led By Energize Capital," July 14, 2026. Confirms Insight Partners participated in the Series B (increased investment). Accessed July 16, 2026. https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43G18M:0-instalily-ai-raises-60-mln-series-b-round-led-by-energize-capital/
+
+[^53]: "InstaLILY Raises $60 Million Series B and Launches Lily, the World's First AI Forward Deployed Engineer," Morningstar/AccessWire, July 14, 2026. Independent confirmation Insight Partners participated in $60M Series B. Accessed July 16, 2026. https://www.morningstar.com/news/accesswire/1190835msn/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-first-ai-forward-deployed-engineer
