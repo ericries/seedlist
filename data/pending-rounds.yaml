@@ -56,7 +56,8 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: processed
-  notes: created startup profile hyperion-robotics.md; €6.4M/$7.4M co-led by Course Corrected and EIC Fund
+  notes: created startup profile hyperion-robotics.md; €6.4M/$7.4M co-led by Course
+    Corrected and EIC Fund
 - title: Ultrahuman’s former hardware VP raises $5.5M for devices that control AI
     agents, not just record you
   url: https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/
@@ -108,44 +109,12 @@ pending_rounds:
   parsed_amount: $91.2M
   parsed_round: null
   status: pending
-- title: Neko Health raised $700M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Neko Health
-  parsed_amount: $700M
-  parsed_round: Series C
-  status: pending
-- title: AdvanCell raised $315M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: AdvanCell
-  parsed_amount: $315M
-  parsed_round: Series D
-  status: pending
-- title: Emergent raised $130M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Emergent
-  parsed_amount: $130M
-  parsed_round: null
-  status: pending
 - title: Brinc raised $125M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
   date_found: '2026-07-16'
   parsed_company: Brinc
   parsed_amount: $125M
-  parsed_round: null
-  status: pending
-- title: Spectro Cloud raised $100M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Spectro Cloud
-  parsed_amount: $100M
   parsed_round: null
   status: pending
 - title: Flex raised $70M Series B1
@@ -156,46 +125,6 @@ pending_rounds:
   parsed_amount: $70M
   parsed_round: Series B1
   status: pending
-- title: Senra Systems raised $65M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Senra Systems
-  parsed_amount: $65M
-  parsed_round: Series B
-  status: pending
-- title: Oak raised $60M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Oak
-  parsed_amount: $60M
-  parsed_round: Seed
-  status: pending
-- title: Velocity raised $38M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Velocity
-  parsed_amount: $38M
-  parsed_round: Series A
-  status: pending
-- title: Risk Ledger raised $32M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Risk Ledger
-  parsed_amount: $32M
-  parsed_round: Series B
-  status: pending
-- title: Feathery raised $30M seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Feathery
-  parsed_amount: $30M
-  parsed_round: Seed And Series A
-  status: pending
 - title: Adapter raised $17.8M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -203,14 +132,6 @@ pending_rounds:
   parsed_company: Adapter
   parsed_amount: $17.8M
   parsed_round: null
-  status: pending
-- title: Meticulous raised $15M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Meticulous
-  parsed_amount: $15M
-  parsed_round: Series A
   status: pending
 - title: CNB Financial Corporation Announces Quarterly Dividend for Series A Preferred
     Stock and Related Depositary Shares Distribution
