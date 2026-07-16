@@ -107,6 +107,7 @@ The following table represents a partial sample of Garage Capital's 200+ investm
 | Humi | Early stage | ~2016 (founding year) | HR Tech / SaaS | Active [^13] |
 | Census | Early stage | ~2018 (founding year) | Data Infrastructure | Active [^13] |
 | Dominion Dynamics | Series A (existing investor, participant; C$139M / USD 100M round at USD 400M post-money) | 2026-06-30 | Defense Tech / Autonomy / Aerospace | Active [^26] [^27] [^28] [^29] |
+| Ollama | Pre-Seed (co-investor with Y Combinator, W21 batch, ~$125K) | 2021 | AI / Developer Tools / Open-Source | Active — Series B $65M raised 2026-07-09 (Theory Ventures-led at $88M total; Garage Capital named as prior backer, not confirmed as follow-on participant) [^30] [^31] [^32] |
 
 Note: Many entries use founding year as a proxy for investment year due to limited public disclosure of exact investment dates. This table represents approximately 15% of Garage Capital's 200+ investments.
 
@@ -161,3 +162,9 @@ No independently sourced founder testimonials found. The firm's website does not
 [^28]: Ottawa Business Journal, "Dominion Dynamics closes $139M funding round in bid to scale defence technology," June 30, 2026. Accessed June 2026. https://obj.ca/dominion-dynamics-closes-139m-funding-round/ — Third independent confirmation of Garage Capital participation in the C$139M Series A (note: this source lists a subset of investors; Garage is confirmed by the PR Newswire press release and BetaKit).
 
 [^29]: Resilience Media, "Dominion Dynamics raises $100M at a $400M valuation to build defence tech for arctic environments," June 30, 2026. Accessed June 2026. https://resiliencemedia.co/dominion-dynamics-raises-100m-at-a-400m-valuation-to-build-defence-tech-for-arctic-environments/ — Fourth independent confirmation; reports USD 400M post-money valuation (CAD 570M) and explicitly lists Garage Capital as a participating investor.
+
+[^30]: Y Combinator company directory, "Ollama: Get up and running with large language models," accessed July 2026. https://www.ycombinator.com/companies/ollama — Confirms Ollama as Winter 2021 (W21) YC batch; founders Jeffrey Morgan and Michael Chiang.
+
+[^31]: Ollama, "Ollama: all aboard open models," Ollama Blog, July 9, 2026. Accessed July 2026. https://ollama.com/blog/all-aboard-open-models — Company announcement naming Garage Capital among prior/existing backers (alongside Y Combinator, Pace Capital, 49 Palms, GTMFund) supporting the Series B.
+
+[^32]: Rebecca Bellan, "Popular open-source AI developer tool Ollama raises $65M, grows to nearly 9M users," TechCrunch, July 9, 2026. Accessed July 2026. https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/ — Independent press confirming $65M Series B led by Theory Ventures on July 9, 2026.

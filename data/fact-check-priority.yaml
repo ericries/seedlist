@@ -5164,34 +5164,58 @@ priority:
   type: investor
   reason: "appeared in Ollama Series B (2026-07-09), $65M — Benchmark GP, led prior Series A, board member"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: added Ollama Series B row to peter-fenton.md (2026-07-09, USD 65M, Theory Ventures LED, Benchmark/Fenton participated as returning investor from Series A; Fenton on Ollama board from Series A). Verified via 3 primary sources: Theory Ventures blog by Tomasz Tunguz [^tt], Ollama company blog "All Aboard: Open Models" [^ob], TechCrunch [^tc].'
 - slug: tomasz-tunguz
   type: investor
   reason: "led Ollama Series B (2026-07-09), $65M — Theory Ventures GP"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: Ollama Series B row on tomasz-tunguz.md already tightened in prior pass (last_verified_investment = Ollama 2026-07-09). Re-verified via Tunguz Theory blog post, Ollama company blog, TechCrunch. No new edits needed.'
 - slug: solomon-hykes
   type: investor
   reason: "appeared as angel in Ollama Series B (2026-07-09), $65M"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: Ollama Series B row on solomon-hykes.md already accurate — row present, last_verified_investment current. Confirmed via Ollama company blog listing Hykes as participating angel. No edits needed.'
 - slug: y-combinator
   type: firm
   reason: "prior Ollama backer surfaced in Series B coverage (2026-07-09)"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: added/updated Ollama portfolio row on y-combinator.md (W21 batch per YC directory ycombinator.com/companies/ollama; prior backer confirmed by Ollama blog). Note: Ollama startup profile says founded 2023 but YC directory shows W21 (2021) — did not modify startup profile in this pass.'
 - slug: garage-capital
   type: firm
   reason: "prior Ollama backer surfaced in Series B coverage (2026-07-09)"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: added/updated Ollama portfolio row on garage-capital.md as prior backer per Ollama blog listing Garage Capital among existing investors. Series B follow-on participation not explicitly confirmed in primary press; row notes prior/existing backer status.'
 - slug: spark-capital
   type: firm
   reason: "co-led Oratomic Series A (2026-07-07), $300M — quantum computing"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: added Oratomic Series A row to spark-capital.md (2026-07-07, USD 300M co-led with ARCH Venture Partners + Khosla Ventures; Bezos Expeditions, Index Ventures, General Catalyst, Lowercarbon Capital, Bain Capital, Formation, Nebular, Infleqtion participated; angels David Aaronson, Scott Aaronson, Les Kohn, Baiju Bhatt). CORRECTION: 3 co-leads (not 2) — ARCH Venture Partners is the third co-lead. Verified via 4 primary sources: The Quantum Insider [^62], TechCrunch [^63], Quantum Computing Report, MLQ News. Added last_verified_investment.'
 - slug: khosla-ventures
   type: firm
   reason: "co-led Oratomic Series A (2026-07-07), $300M — largest initial check since OpenAI per Vinod Khosla"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: added Oratomic Series A row to khosla-ventures.md (2026-07-07, USD 300M co-led with ARCH + Spark). Khosla verbatim X quote: "We at @khoslaventures made the largest initial investment yet, as we did in OpenAI, into @TeamOratomic after we looked at a dozen Quantum starts in a decade." Verified via Quantum Insider [^orat3], Quantum Computing Report [^orat4]. Added last_verified_investment.'
 - slug: vinod-khosla
   type: investor
   reason: "personally championed Oratomic Series A (2026-07-07), $300M"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: added Oratomic Series A row to vinod-khosla.md portfolio (2026-07-07, USD 300M, personally championed). Replaced paraphrased quote in In Their Own Words with verbatim wording from Khosla X post: "We at @khoslaventures made the largest initial investment yet, as we did in OpenAI, into @TeamOratomic after we looked at a dozen Quantum starts in a decade." Updated last_verified_investment from Runlayer (2026-06-24) to Oratomic (2026-07-07). Added footnotes [^34]-[^37].'
 - slug: dst-global
   type: firm
   reason: "appeared in Gradium seed round (2025-12), $70M first tranche"
@@ -5224,14 +5248,23 @@ priority:
   type: firm
   reason: "co-led Oak seed (2026-07-15), $60M"
   added: 2026-07-15
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: Oak seed row on accel.md verified as tightened in prior pass (2026-07-15, USD 60M co-led with CRV + Greylock; Hetz Ventures + AlphaDrive Ventures participated; co-founders Shai Morag + Tal Marom; dual HQ Tel Aviv/SF; AI-native identity operating system). Created new data/startups/oak.md startup profile. Verified via 3 primary sources: PR Newswire company press release (2026-07-15), TechCrunch (2026-07-15), SiliconANGLE (2026-07-15).'
 - slug: crv
   type: firm
   reason: "co-led Oak seed (2026-07-15), $60M"
   added: 2026-07-15
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: Oak seed row on crv.md verified as tightened in prior pass (2026-07-15, USD 60M co-led with Accel + Greylock). Startup profile data/startups/oak.md created. Same 3 primary sources cited (PR Newswire, TechCrunch, SiliconANGLE).'
 - slug: greylock
   type: firm
   reason: "co-led Oak seed (2026-07-15), $60M"
   added: 2026-07-15
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: Oak seed row on greylock.md verified as tightened in prior pass (2026-07-15, USD 60M co-led with Accel + CRV). Startup profile data/startups/oak.md created. Same 3 primary sources cited (PR Newswire, TechCrunch, SiliconANGLE).'
 - slug: bessemer-venture-partners
   type: firm
   reason: 'Fact-spec sweep 2026-07-15: tightened Abridge row on bessemer-venture-partners.md from bare "Series B ($30M, participant) | 2023" to "Series B ($30M, participant; Spark Capital led) | 2023-10-26" via 3 independent primary sources — Abridge company press release [^abr1] (October 26, 2023), BusinessWire wire syndication [^abr2] (October 26, 2023), plus Fierce Healthcare (already noted in queue) confirming Spark led, Bessemer among returning investors, and CVS Health Ventures, Kaiser Permanente Ventures, Lifepoint Health, Mayo Clinic, SCAN Group, UC Investments, and American College of Cardiology participated as new health-system investors.'

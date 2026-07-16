@@ -85,7 +85,7 @@ Predominantly **Series A leads with board seats** — Tunguz took Theory board s
 | Artemis | 2026 | Seed + Series A ($70M, participation; Felicis led A) | [^25] |
 | Allium | 2026 | Series B ($40M, participation; Amplify led) | [^28] |
 | Sail Research | 2026 | Seed + Series A ($80M combined, participation; Kleiner led A, Sequoia led seed) | [^24] |
-| Ollama | 2026-07-09 | Series B ($65M, led — Theory Ventures) — Tunguz personally attributed as Theory partner in company announcement | [^35][^36] |
+| Ollama | 2026-07-09 | Series B ($65M, led — Theory Ventures) — Tunguz personally attributed as Theory partner in company announcement | [^35][^36][^37] |
 
 **Redpoint Ventures era (2013–2022) — selected board-seat / lead investments:**
 
@@ -206,3 +206,5 @@ No independently sourced founder testimonials describing the working relationshi
 [^35]: Rebecca Bellan, "Popular open-source AI developer tool Ollama raises $65M, grows to nearly 9M users," TechCrunch, July 9, 2026. Accessed July 9, 2026. https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/ — Confirms $65M Series B led by Theory Ventures on July 9, 2026.
 
 [^36]: Ollama, "Ollama: all aboard open models," Ollama Blog, July 9, 2026. Accessed July 9, 2026. https://ollama.com/blog/all-aboard-open-models — Company announcement naming Theory Ventures (with Tomasz Tunguz) as a lead investor.
+
+[^37]: Tomasz Tunguz, "8.9 Million AI Users," tomtunguz.com, July 9, 2026. Accessed July 2026. https://tomtunguz.com/ollama-series-b/ — Tunguz's own blog post: "Today we announced our investment leading Ollama's $65m Series B," confirming Theory Ventures as lead and Benchmark and Y Combinator as co-investors.

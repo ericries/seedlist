@@ -45,14 +45,14 @@ founders:
   - name: "Manuel Endres"
     role: "Co-Founder"
 status: published
-last_researched: 2026-07-09
+last_researched: 2026-07-16
 ---
 
 ## About
 
 Oratomic is a Pasadena, California quantum computing company building fault-tolerant, utility-scale quantum computers using reconfigurable neutral-atom qubits [^1][^2][^3]. The company was founded in late March 2026 by CEO Dolev Bluvstein and Manuel Endres, in collaboration with scientists at the California Institute of Technology [^1][^2]. Oratomic's approach explicitly skips noisy intermediate-scale quantum (NISQ) systems in favor of going directly to fault-tolerant architectures, using neutral atoms trapped in optical tweezer arrays as qubits [^2][^3]. The team includes prominent quantum researchers including Caltech theoretical physicist John Preskill and researchers from UC Berkeley, Harvard, Amazon, and Google [^1].
 
-On 2026-07-07 Oratomic announced a $300M Series A co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures [^1][^2][^3]. Vinod Khosla, founder of Khosla Ventures, said the firm made "the largest initial investment yet, as we did in OpenAI, into TeamOratomic" [^2]. Oratomic will use the capital to fund quantum hardware fabrication, algorithmic R&D on fault-tolerant logical qubits, and hiring across physics and hardware engineering [^1].
+On 2026-07-07 Oratomic announced a $300M Series A co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures [^1][^2][^3][^4][^5][^6][^7]. Vinod Khosla, founder of Khosla Ventures, said the firm "made the largest initial investment yet, as we did in OpenAI, into @TeamOratomic after we looked at a dozen Quantum starts in a decade" [^1]. Oratomic will use the capital to fund quantum hardware fabrication, algorithmic R&D on fault-tolerant logical qubits, and hiring across physics and hardware engineering [^1][^5].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -60,11 +60,11 @@ On 2026-07-07 Oratomic announced a $300M Series A co-led by ARCH Venture Partner
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-07 | Series A | $300M | ARCH Venture Partners, Spark Capital, Khosla Ventures | Bezos Expeditions, Index Ventures, General Catalyst, Lowercarbon Capital, Bain Capital Ventures, Formation, Nebular, David Aaronson, Scott Aaronson, Les Kohn, Baiju Bhatt, Infleqtion, Genius Ventures, 7i Capital, Global Frontier Investments [^1][^2][^3] |
+| 2026-07-07 | Series A | $300M | ARCH Venture Partners, Spark Capital, Khosla Ventures | Bezos Expeditions, Index Ventures, General Catalyst, Lowercarbon Capital, Bain Capital Ventures, Formation, Nebular, David Aaronson, Scott Aaronson, Les Kohn, Baiju Bhatt, Infleqtion, Genius Ventures, 7i Capital, Global Frontier Investments [^1][^2][^3][^5][^6][^7] |
 
 ## What Investors Say
 
-Vinod Khosla, Founder of Khosla Ventures, on Oratomic: "The largest initial investment yet, as we did in OpenAI, into TeamOratomic." [^2]
+Vinod Khosla, Founder of Khosla Ventures, on Oratomic: "We at @khoslaventures made the largest initial investment yet, as we did in OpenAI, into @TeamOratomic after we looked at a dozen Quantum starts in a decade." [^1]
 
 ## What Founders Say
 
@@ -79,3 +79,9 @@ Oratomic leadership, on the company's technical goals: "A utility-scale, cryptog
 [^3]: Duncan Riley, "Quantum startup Oratomic banks $300M to race straight to fault-tolerance," SiliconANGLE, July 8, 2026. Accessed July 9, 2026. https://siliconangle.com/2026/07/08/quantum-startup-oratomic-banks-300m-race-straight-fault-tolerance/
 
 [^4]: "Series A," Oratomic company announcement, July 7, 2026. Accessed July 9, 2026. https://www.oratomic.com/news/SeriesA
+
+[^5]: Rebecca Bellan, "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits," TechCrunch, July 10, 2026. Accessed July 16, 2026. https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/ — Independent tier-1 press confirmation of the $300M Series A co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures with participation from Bezos Expeditions, Index Ventures, General Catalyst, Lowercarbon Capital, and Bain Capital. Names co-founder/CEO Dolev Bluvstein.
+
+[^6]: "Oratomic Secures $300M Series A to Build Fault-Tolerant Quantum Computers via Reconfigurable Neutral-Atom Arrays," Quantum Computing Report, July 7, 2026. Accessed July 16, 2026. https://quantumcomputingreport.com/oratomic-secures-300m-series-a-to-build-fault-tolerant-quantum-computers-via-reconfigurable-neutral-atom-arrays/ — Confirms 2026-07-07 announcement, three co-leads (ARCH, Spark, Khosla), and independently names Baiju Bhatt among the angel investors alongside David Aaronson, Scott Aaronson, and Les Kohn.
+
+[^7]: "Oratomic Raises $300M Series A to Build Fault-Tolerant Quantum Computer With 20,000 Qubits," MLQ News, July 11, 2026. Accessed July 16, 2026. https://mlq.ai/news/oratomic-raises-300m-series-a-to-build-fault-tolerant-quantum-computer-with-20000-qubits/ — Fourth independent confirmation naming co-founder Manuel Endres alongside CEO Dolev Bluvstein and the same co-lead/participant slate.

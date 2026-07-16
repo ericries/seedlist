@@ -122,7 +122,8 @@ The following table represents 35 verified investments. Fenton's full portfolio 
 | Sorare | ~2021 | Growth | Active | [^4] |
 | Sema4.ai | 2024 | Series A ($30.5M) | Active | [^2] |
 | Sierra | 2024 | Series A ($110M) | Active | [^17] |
-| Ollama | 2024 | Series A ($15M, led) | Active — Series B $65M raised 2026-07-09 (Theory Ventures led; Benchmark participated) | [^3][^21][^22] |
+| Ollama | 2024 | Series A ($15M, led) | Active | [^3][^21] |
+| Ollama | 2026-07-09 | Series B ($65M; Theory Ventures led — Benchmark participated as returning investor) | Active | [^21][^22][^23] |
 | Mercor | ~2024 | Growth | Active ($10B valuation, Series C, Oct 2025) | [^18] |
 | Exa Labs | 2025 | Series B ($85M) | Active ($700M valuation) | [^10] |
 | Katana | 2025 | Series B extension (€14M) | Active | [^2] |
@@ -256,3 +257,5 @@ No other independently sourced founder testimonials were found through dedicated
 [^21]: Rebecca Bellan, "Popular open-source AI developer tool Ollama raises $65M, grows to nearly 9M users," TechCrunch, July 9, 2026. Accessed July 9, 2026. https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
 
 [^22]: Ollama, "Ollama: all aboard open models," Ollama Blog, July 9, 2026. Accessed July 9, 2026. https://ollama.com/blog/all-aboard-open-models
+
+[^23]: Tomasz Tunguz, "8.9 Million AI Users," tomtunguz.com, July 9, 2026. Accessed July 2026. https://tomtunguz.com/ollama-series-b/ — Theory Ventures partner post announcing that Theory led Ollama's $65M Series B on July 9, 2026, confirming Benchmark as a co-investor.

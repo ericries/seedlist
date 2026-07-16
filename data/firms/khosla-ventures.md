@@ -3,6 +3,10 @@ founded: 2004
 fund_size: $1.6B (Fund VIII, 2023); $500M (Seed Fund, 2023); $900M (Growth Fund, 2023);
   seeking $3.5B across three funds (2025)
 last_researched: 2026-04-30
+last_verified_investment:
+  company: Oratomic
+  date: 2026-07-07
+  round: Series A
 location: Menlo Park, CA
 name: Khosla Ventures
 sector_focus:
@@ -208,7 +212,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | General Intuition | Seed (co-led with General Catalyst, $133.7M) | 2025-10-16 | AI / World Models / Robotics / Gaming | Private — Khosla Ventures' largest seed check since OpenAI 2018 per TechCrunch; Raine Ventures also participated [^genint4][^genint5] |
 | General Intuition | Series A (led, $320M at $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2][^genint3] |
 | Scaled Cognition | Series A (led, $100M at ~$750M val; Genesys participated) | 2026-06-25 | AI / Enterprise / Foundation Models | Private [^sc1][^sc2][^sc3] |
-| Oratomic | Series A (co-led with ARCH Venture Partners, Spark Capital; $300M) | 2026-07-07 | Quantum Computing / Deep Tech | Private [^orat1][^orat2] |
+| Oratomic | Series A (co-led with ARCH Venture Partners, Spark Capital; $300M; Vinod Khosla personally championed — "largest initial investment yet, as we did in OpenAI") | 2026-07-07 | Quantum Computing / Deep Tech | Private [^orat1][^orat2][^orat3][^orat4] |
 
 *Note: This table includes 68 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -429,3 +433,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^orat1]: "Oratomic Raises $300 Million Series A," The Quantum Insider, July 7, 2026. Accessed July 9, 2026. https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/ — Confirms Khosla Ventures co-led Oratomic's $300M Series A alongside ARCH Venture Partners and Spark Capital on July 7, 2026. Vinod Khosla quoted calling it "the largest initial investment yet, as we did in OpenAI, into TeamOratomic."
 
 [^orat2]: Duncan Riley, "Quantum startup Oratomic banks $300M to race straight to fault-tolerance," SiliconANGLE, July 8, 2026. Accessed July 9, 2026. https://siliconangle.com/2026/07/08/quantum-startup-oratomic-banks-300m-race-straight-fault-tolerance/ — Independent confirmation of Khosla Ventures co-leading the Oratomic Series A.
+
+[^orat3]: Rebecca Bellan, "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits," TechCrunch, July 10, 2026. Accessed July 16, 2026. https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/ — Tier-1 press independently confirming Khosla Ventures as a co-lead of the $300M Series A alongside ARCH Venture Partners and Spark Capital.
+
+[^orat4]: "Oratomic Secures $300M Series A to Build Fault-Tolerant Quantum Computers via Reconfigurable Neutral-Atom Arrays," Quantum Computing Report, July 7, 2026. Accessed July 16, 2026. https://quantumcomputingreport.com/oratomic-secures-300m-series-a-to-build-fault-tolerant-quantum-computers-via-reconfigurable-neutral-atom-arrays/ — Trade-press confirmation of July 7, 2026 announcement and Khosla Ventures as a co-lead.

@@ -65,6 +65,10 @@ team:
     name: "Todd Dagres"
 status: published
 last_researched: 2026-05-01
+last_verified_investment:
+  company: "Oratomic"
+  date: 2026-07-07
+  round: "Series A"
 tldr: "Multi-stage venture firm ($12B+ AUM) founded in Boston in 2005, now operating across SF, NYC, and Boston. Invests from pre-seed through growth via separate early-stage ($700M Fund VIII) and growth ($1.4B Growth V) vehicles. Portfolio includes landmark consumer internet investments (Twitter, Slack, Discord, Tumblr) with expanding AI and enterprise focus. Co-founded by Bijan Sabet."
 ---
 
@@ -151,7 +155,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | RadixArk | Seed (co-led, $100M, $400M post-money) | 2026-05-05 | AI Infrastructure | [^45][^46][^47] |
 | Novellia | Series A (lead, $18M; Khosla, Acrew, Bling, TMV participated) | 2026-06-02 | Healthcare / Real-World Data | [^52][^53][^54] |
 | Cadence | Series C (led, $100M; Thrive, General Catalyst, Coatue, B Capital, Corewell Health Ventures, Memorial Hermann, Duke Health participated) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | [^57][^58][^59] |
-| Oratomic | Series A (co-led with ARCH Venture Partners, Khosla Ventures; $300M) | 2026-07-07 | Quantum Computing / Deep Tech | [^60][^61] |
+| Oratomic | Series A (co-led with ARCH Venture Partners, Khosla Ventures; $300M) | 2026-07-07 | Quantum Computing / Deep Tech | [^60][^61][^62][^63] |
 
 This table represents a subset of Spark Capital's 337 total investments [^4].
 
@@ -255,3 +259,7 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^60]: "Oratomic Raises $300 Million Series A," The Quantum Insider, July 7, 2026. Accessed July 9, 2026. https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/ — Confirms Spark Capital co-led Oratomic's $300M Series A alongside ARCH Venture Partners and Khosla Ventures on July 7, 2026.
 
 [^61]: Duncan Riley, "Quantum startup Oratomic banks $300M to race straight to fault-tolerance," SiliconANGLE, July 8, 2026. Accessed July 9, 2026. https://siliconangle.com/2026/07/08/quantum-startup-oratomic-banks-300m-race-straight-fault-tolerance/ — Independent confirmation of Spark Capital co-leading the Oratomic Series A.
+
+[^62]: Rebecca Bellan, "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits," TechCrunch, July 10, 2026. Accessed July 16, 2026. https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/ — Tier-1 press confirmation: "The Series A was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures."
+
+[^63]: "Oratomic Secures $300M Series A to Build Fault-Tolerant Quantum Computers via Reconfigurable Neutral-Atom Arrays," Quantum Computing Report, July 7, 2026. Accessed July 16, 2026. https://quantumcomputingreport.com/oratomic-secures-300m-series-a-to-build-fault-tolerant-quantum-computers-via-reconfigurable-neutral-atom-arrays/ — Independent trade press confirming July 7, 2026 announcement date and Spark Capital as one of three co-leads.

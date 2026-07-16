@@ -1,10 +1,10 @@
 ---
 check_size: $500K-$50M
 firm: khosla-ventures
-last_researched: 2026-03-24
+last_researched: 2026-07-16
 last_verified_investment:
-  company: Runlayer
-  date: 2026-06-24
+  company: Oratomic
+  date: 2026-07-07
   round: Series A
 location: Menlo Park, CA
 name: Vinod Khosla
@@ -170,6 +170,7 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 | eGenesis | ~2014 (founded) | Early | Therapeutics / Xenotransplant | [^11] |
 | HiO AI | 2025 | Seed | AI / Productivity | [^19] |
 | Runlayer | 2026-06-24 | Series A (participated; Felicis led $30M; Vinod Khosla personally championed) | AI / Enterprise AI Governance / Security | [^27][^28][^29][^30][^31] |
+| Oratomic | 2026-07-07 | Series A (co-led $300M with ARCH Venture Partners and Spark Capital; Vinod Khosla personally championed) | Quantum Computing / Deep Tech | [^34][^35][^36][^37] |
 
 *Note: This table represents a curated selection from approximately 710 total firm investments per Crunchbase [^12]. The Khosla Ventures portfolio page lists approximately 163 highlighted companies [^11]; this table covers approximately 38 of those.*
 
@@ -213,6 +214,9 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 
 **On the OpenAI investment:**
 > "I made the largest bet by a factor of two of any initial investment I've made in 40 years." [^15]
+
+**On the Oratomic Series A (July 2026), which he explicitly compared to his OpenAI bet:**
+> "We at @khoslaventures made the largest initial investment yet, as we did in OpenAI, into @TeamOratomic after we looked at a dozen Quantum starts in a decade." [^34]
 
 **On recruiting:**
 > "The single most important thing I spend time on, probably more than any other single thing in my calendar, is helping our companies recruit. Great team." [^2]
@@ -317,3 +321,11 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 [^32]: Maginative, "Physical Intelligence Raises $70M to Build AI-Powered Robots for Any Application," March 12, 2024. Accessed July 2026. https://www.maginative.com/article/physical-intelligence-raises-70m-to-build-ai-powered-robots-for-any-application/ — Primary contemporaneous confirmation: $70M seed on March 12, 2024, led by Thrive Capital with Khosla Ventures, Lux Capital, OpenAI, and Sequoia Capital participating.
 
 [^33]: SiliconANGLE, "AI startup Physical Intelligence raises $400M to create a brain for any robot," November 4, 2024. Accessed July 2026. https://siliconangle.com/2024/11/04/ai-startup-physical-intelligence-raises-400m-create-brain-robot/ — Third source confirming Khosla Ventures' participation in the March 2024 seed via reference to the $70M seed round.
+
+[^34]: "Oratomic Raises $300 Million Series A," The Quantum Insider, July 7, 2026. Accessed July 16, 2026. https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/ — Primary source: confirms Khosla Ventures co-led Oratomic's $300M Series A alongside ARCH Venture Partners and Spark Capital on July 7, 2026. Includes verbatim Vinod Khosla quote posted to X: "We at @khoslaventures made the largest initial investment yet, as we did in OpenAI, into @TeamOratomic after we looked at a dozen Quantum starts in a decade."
+
+[^35]: Rebecca Bellan, "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits," TechCrunch, July 10, 2026. Accessed July 16, 2026. https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/ — Tier-1 press independently confirming the co-led $300M Series A with participation from Bezos Expeditions, Index Ventures, General Catalyst, Lowercarbon Capital, and Bain Capital; names co-founder/CEO Dolev Bluvstein.
+
+[^36]: "Oratomic Secures $300M Series A to Build Fault-Tolerant Quantum Computers via Reconfigurable Neutral-Atom Arrays," Quantum Computing Report, July 7, 2026. Accessed July 16, 2026. https://quantumcomputingreport.com/oratomic-secures-300m-series-a-to-build-fault-tolerant-quantum-computers-via-reconfigurable-neutral-atom-arrays/ — Third independent confirmation of the July 7, 2026 announcement and Khosla Ventures as co-lead; also names Baiju Bhatt among angel investors.
+
+[^37]: Duncan Riley, "Quantum startup Oratomic banks $300M to race straight to fault-tolerance," SiliconANGLE, July 8, 2026. Accessed July 16, 2026. https://siliconangle.com/2026/07/08/quantum-startup-oratomic-banks-300m-race-straight-fault-tolerance/ — Fourth independent confirmation of Khosla Ventures co-leading the Oratomic Series A alongside ARCH Venture Partners and Spark Capital.
