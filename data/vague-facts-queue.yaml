@@ -2990,7 +2990,9 @@ vague_facts:
   line: '| Ohr | Seed | 2024 | Synthetic Biology / Chemicals | Active | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-15
+  resolution_note: 'Fact-spec sweep 2026-07-15: tightened Ohr row on aleph.md from "Pre-Seed + Seed (~$30M aggregate; publicly unveiled ~Jan 2025) | ~2024–2025" to "Seed (Aleph led; syndicate per ohr.xyz: Deep33 Ventures, Standard Industries, KDM Partners, Yasmin Lukatz, 202 Ventures, Clocktower Ventures; total raised undisclosed in primary sources) | 2025-01-16". Aleph portfolio page labels the entry round "Seed" (not pre-seed + seed) and identifies co-founder-CEO Dan Davidi as former Aleph EIR from January 2023. Public unveiling date 2025-01-16 established via 2 independent LinkedIn primary posts (Aleph corporate + Dan Davidi mirror). "$30M aggregate" figure removed as unsourced. 2 new footnotes added ([^30] Aleph LinkedIn + [^31] Dan Davidi LinkedIn). Parallel update on michael-eisenberg.md tightened same row with [^28][^29] and updated LVI from "2024 / Ohr / Seed" to "2025-01-16 / Ohr / Seed".
 - profile: firms/aleph
   profile_name: Aleph
   company: OneStep
@@ -114006,7 +114008,9 @@ vague_facts:
   line: '| Ohr | 2024 | Seed | Deep Tech | Active | [^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-15
+  resolution_note: 'Fact-spec sweep 2026-07-15: tightened Ohr row on michael-eisenberg.md to "2025-01-16 | Seed (Aleph led; syndicate per ohr.xyz: Deep33 Ventures, Standard Industries, KDM Partners, Yasmin Lukatz, 202 Ventures, Clocktower Ventures; founder-CEO Dan Davidi) | Synthetic Biology / Chemicals | Active | [^15][^28][^29]" via 2 new LinkedIn primary sources (Aleph corporate + Dan Davidi mirror, both January 16, 2025). Sector corrected from "Deep Tech" to "Synthetic Biology / Chemicals". LVI updated from "2024 / Ohr / Seed" to "2025-01-16 / Ohr / Seed". Parallel update on aleph.md with same date and syndicate detail.'
 - profile: investors/michael-eisenberg
   profile_name: Michael Eisenberg
   company: Reeco
@@ -166048,7 +166052,9 @@ vague_facts:
   line: '| Lutris Pharma | Early | ~2023 | Pharmaceutical | Active [^14] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-15
+  resolution_note: 'Fact-spec sweep 2026-07-15: tightened Lutris Pharma row on amoon.md from "Early | ~2023" to "Financing ($30M; Columbus Venture Partners + Pontifax Venture Capital co-led as leads; Peregrine Ventures and aMoon Fund participated; Dr. Yael Gruenbaum-Cohen, Partner at aMoon Fund, quoted) | 2025-01-28" via 3 primary sources: (1) PR Newswire company-issued press release [^34] (2025-01-28), (2) Columbus Venture Partners co-lead press page [^35] (2025-01-28), (3) aMoon Fund portfolio page (existing [^14]). aMoon was a participant, NOT lead. Neither Lutris nor the leads label the round with a series letter (some aggregators call it Series A); safest label is "Financing". Prior anchor of "~2023" was wrong — this January 2025 round appears to be aMoon''s first check into Lutris. 2 new footnotes added ([^34] PR Newswire + [^35] Columbus VP). aMoon LVI unchanged (Adcytherix 2025-10-16 remains more recent).'
 - profile: firms/amoon
   profile_name: aMoon
   company: Adcytherix

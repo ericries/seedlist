@@ -37,15 +37,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
-- title: Float raises €4.5 million to help European tech founders scale without equity
-    dilution or needless bureaucracy
-  url: https://www.eu-startups.com/2026/07/float-raises-e4-5-million-to-help-european-tech-founders-scale-without-sacrificing-equity-and-tackle-unnecessary-bureaucracy/
-  source: eu-startups
-  date_found: '2026-07-15'
-  parsed_company: Float
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Rime picks up $24M Series A to help enterprises field customer calls
   url: https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/
   source: techcrunch
@@ -325,15 +316,6 @@ pending_rounds:
   date_found: '2026-07-10'
   parsed_company: u003elast night
   parsed_amount: $26.5B
-  parsed_round: null
-  status: pending
-- title: Oratomic raises $300M to build a viable quantum computer that needs only
-    20K qubits
-  url: https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/
-  source: techcrunch
-  date_found: '2026-07-10'
-  parsed_company: Oratomic
-  parsed_amount: $300M
   parsed_round: null
   status: pending
 - title: Weekly funding round-up! All of the European startup funding rounds we tracked
