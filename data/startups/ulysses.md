@@ -43,8 +43,8 @@ Ulysses is a San Francisco-based company building networked autonomous vehicles 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-16 | Series A | $38M | Andreessen Horowitz | Booz Allen Ventures, Harpoon Ventures [^1][^2] |
-| ~2023 | Seed | $8M | Pebblebed | Genius Ventures, Lowercarbon Capital, Superorganism, ReGen Ventures [^1] |
+| 2026-04-16 | Series A | $38M | Andreessen Horowitz (American Dynamism) | Booz Allen Ventures, Harpoon Ventures [^1][^2][^3][^4] |
+| ~2023 | Seed | $8M | Pebblebed | Genius Ventures, Lowercarbon Capital, Superorganism, ReGen Ventures [^1][^4] |
 
 ## What Investors Say
 
@@ -58,3 +58,5 @@ Will O'Brien, President: "The ocean is 71% of the planet. But it is less explore
 
 [^1]: Silicon Republic, "Irish-founded Ulysses raises $46m in rounds that include Andreessen Horowitz," April 16, 2026. https://www.siliconrepublic.com/start-ups/irish-founded-ulysses-raises-46m-in-rounds-that-include-andereesen-horowitz
 [^2]: Andreessen Horowitz, "Investing in Ulysses," April 16, 2026. https://a16z.com/announcement/investing-in-ulysses/
+[^3]: The Irish Times, "Irish-founded Ulysses raises $38m in Series A funding," April 16, 2026. Accessed July 2026. https://www.irishtimes.com/business/2026/04/16/irish-founded-ulysses-raises-38m-in-series-a-funding/ — Independent tier-1 Irish press confirmation of Series A: USD 38M led by Andreessen Horowitz with Booz Allen Ventures and Harpoon Ventures participating; prior USD 8M seed led by Pebblebed with Genius Ventures, Lowercarbon Capital, Superorganism, and ReGen Ventures. Total funding USD 46M.
+[^4]: Tectonic Defense, "Ulysses Raises $46M Seed + Series A," April 17, 2026. Accessed July 2026. https://www.tectonicdefense.com/ulysses-raises-46m-seed-series-a/ — Independent defense-tech press confirming both rounds: USD 8M seed (Pebblebed lead; Genius Ventures, Lowercarbon Capital, Superorganism, ReGen Ventures participants); USD 38M Series A (a16z American Dynamism lead; Booz Allen Ventures, Harpoon Ventures participants); USD 46M combined; will scale production of Mako AUV, advance Leviathan surface vessel and Kraken launch-and-recovery from prototype to production.

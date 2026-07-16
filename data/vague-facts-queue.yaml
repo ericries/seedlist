@@ -4645,7 +4645,9 @@ vague_facts:
   line: '| Nexthop AI | Series A | 2024 | AI / Networking | Active | [^12] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: row on battery-ventures.md already accurately tightened in prior sweep to "Seed + Series A (participated, USD 110M combined; Lightspeed led) | 2025-03-25" with 3 primary sources [^12] DataCenterDynamics + [^28] SiliconANGLE + [^29] Crunchbase News. Cross-verified this sweep via 3 additional independent primary sources: (1) BusinessWire company press release 20250325719035 (2025-03-25 dateline), (2) Nexthop official press release page https://nexthop.ai/news-and-event/press-release-company-launch/, (3) Business Standard 2025-03-25. All 6 sources independently confirm 2025-03-25 date, USD 110M amount, Lightspeed Venture Partners as lead, and Battery Ventures + Kleiner Perkins + WestBridge Capital + Emergent Ventures as participants. No changes needed; scanner flagged column 5 (status = "Active") which is not vague. Marking resolved.'
 - profile: firms/battery-ventures
   profile_name: Battery Ventures
   company: Orkes
@@ -4655,7 +4657,9 @@ vague_facts:
   line: '| Orkes | Series B (2026-04-23) | 2026 | AI / Workflow Orchestration | Active | [^13] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: tightened Orkes row on battery-ventures.md from "Series B (2026-04-23) | 2026 | [^13]" to "Series B (participated as existing investor, USD 60M; AVP led; Prosperity7 Ventures new; Nexus Venture Partners and Vertex Ventures US existing) | 2026-04-23 | [^13][^33][^34]". Verified via 3 independent primary sources: (1) [^13] AVP corporate blog (existing), (2) [^33] BusinessWire 20260423550324 primary company press release (NEW, 2026-04-23), (3) [^34] Fenwick & West legal-advisor announcement (NEW, 2026-04-22 close date). Battery Ventures explicitly confirmed as existing investor in all 3 sources. Alex Scherbakovsky (AVP GP) joining board. Total raised to USD 90M. Parallel update on orkes.md startup profile added [^3][^4] BusinessWire + Fenwick citations. 2 new footnotes added to battery-ventures.md ([^33] + [^34]).'
 - profile: firms/battery-ventures
   profile_name: Battery Ventures
   company: Blitzy
@@ -166274,7 +166278,9 @@ vague_facts:
   line: '| Ulysses | Series A | 2026 | Autonomous / Ocean Tech | Private [^31] |'
   priority: normal
   type: year_only_date
-  status: investigating
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: tightened Ulysses row on andreessen-horowitz.md from "Series A | 2026 | [^29]" to "Series A (led, USD 38M via American Dynamism; Booz Allen Ventures and Harpoon Ventures participated; USD 46M total with prior USD 8M seed led by Pebblebed) | 2026-04-16 | [^29][^140][^141]". Verified via 3 independent primary sources: (1) [^29] Irish Times (existing), (2) [^140] a16z own announcement post "Investing in Ulysses" (NEW, 2026-04-16 — American Dynamism partners Erin Price-Wright + Ryan McEntush), (3) [^141] Tectonic Defense (NEW, 2026-04-17 — confirms USD 46M combined seed + Series A). All 3 sources independently confirm 2026-04-16 announcement, USD 38M Series A led by a16z American Dynamism, USD 8M prior seed led by Pebblebed. Parallel update on ulysses.md startup profile added [^3] Irish Times + [^4] Tectonic Defense primary citations. 2 new footnotes added to andreessen-horowitz.md ([^140] + [^141]).'
 - profile: firms/atomic
   profile_name: Atomic
   company: Elly

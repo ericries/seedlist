@@ -38,7 +38,7 @@ Orkes is a Santa Clara-based agentic orchestration platform that automates and s
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-23 | Series B | $60M | AVP | Prosperity7 Ventures, Nexus Venture Partners, Battery Ventures, Vertex Ventures US [^1][^2] |
+| 2026-04-23 | Series B | $60M | AVP | Prosperity7 Ventures, Nexus Venture Partners, Battery Ventures, Vertex Ventures US [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -52,3 +52,5 @@ No independently sourced founder quotes found.
 
 [^1]: AVP, "Orkes raises $60M as developers increasingly use its platform to deploy AI confidently in production," April 23, 2026. https://avpcap.com/orkes-raises-60m-as-developers-increasingly-use-its-platform-to-deploy-ai-confidently-in-production/
 [^2]: FinSMEs, "Orkes Raises $60M in Series B Funding," April 23, 2026. https://www.finsmes.com/2026/04/orkes-raises-60m-in-series-b-funding.html
+[^3]: BusinessWire, "Orkes Raises $60M as Developers Increasingly Use Its Platform to Deploy AI Confidently in Production," April 23, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260423550324/en/Orkes-Raises-$60M-as-Developers-Increasingly-Use-Its-Platform-to-Deploy-AI-Confidently-in-Production — Primary press-wire announcement confirming Orkes Series B on 2026-04-23 with USD 60M raised, led by AVP with participation from Prosperity7 Ventures (new) alongside existing investors Nexus Venture Partners, Battery Ventures, and Vertex Ventures US. Alex Scherbakovsky, general partner at AVP, joining the board.
+[^4]: Fenwick & West, "Fenwick Represents Orkes in $60M Series B Funding," April 22, 2026. Accessed July 2026. https://www.fenwick.com/insights/experience/fenwick-represents-orkes-in-60m-series-b-funding — Independent legal-advisor confirmation of Orkes $60M Series B round led by AVP with participation from Prosperity7 Ventures, Nexus Venture Partners, Battery Ventures, and Vertex Ventures US.
