@@ -9622,7 +9622,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 136,
+      "size": 137,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10240,6 +10240,11 @@
           "slug": "apoorva-mehta",
           "name": "Apoorva Mehta",
           "firm": "cloud-health-systems"
+        },
+        {
+          "slug": "halle-tecco",
+          "name": "Halle Tecco",
+          "firm": "techammer"
         }
       ]
     },
@@ -10764,7 +10769,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 60,
+      "size": 61,
       "members": [
         {
           "slug": "aileen-lee",
@@ -11058,6 +11063,11 @@
           "slug": "andi-kazeroonian",
           "name": "Andi Kazeroonian",
           "firm": "outward-vc"
+        },
+        {
+          "slug": "halle-tecco",
+          "name": "Halle Tecco",
+          "firm": "techammer"
         }
       ]
     },
