@@ -5223,4 +5223,40 @@ priority:
   type: firm
   reason: "co-led Oak seed (2026-07-15), $60M"
   added: 2026-07-15
+- slug: bessemer-venture-partners
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-15: tightened Abridge row on bessemer-venture-partners.md from bare "Series B ($30M, participant) | 2023" to "Series B ($30M, participant; Spark Capital led) | 2023-10-26" via 3 independent primary sources — Abridge company press release [^abr1] (October 26, 2023), BusinessWire wire syndication [^abr2] (October 26, 2023), plus Fierce Healthcare (already noted in queue) confirming Spark led, Bessemer among returning investors, and CVS Health Ventures, Kaiser Permanente Ventures, Lifepoint Health, Mayo Clinic, SCAN Group, UC Investments, and American College of Cardiology participated as new health-system investors.'
+  added: 2026-07-15
+  status: resolved
+  resolved: 2026-07-15
+- slug: breakthrough-energy-ventures
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-15: tightened Pacific Fusion row on breakthrough-energy-ventures.md from bare "Series A | 2024" to "Series A ($900M, participant; General Catalyst led with Hemant Taneja) | 2024-10-25" via 3 primary sources — Bloomberg [^pf1] (2024-10-25 primary tier-1 press), Crunchbase funding round page [^pf2] (2024-10-25), plus already-cited Fusion Report substack [^16]. Round structured as milestone-based tranches; Hemant Taneja, Eric Schmidt, and Patrick Collison joined the board.'
+  added: 2026-07-15
+  status: resolved
+  resolved: 2026-07-15
+- slug: balderton-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-15: tightened two rows on balderton-capital.md via 3+ primary sources each. (1) 32Co "Seed | 2023" → "Seed (led, £2.2M; angels including Nicolas Cary of Blockchain.com participated; founder Dr. Sonia Szamocki) | 2023-06-28" via Balderton''s own portfolio blog [^32c1] (2023-06-28) and Tech.eu [^32c2] (2023-06-30). (2) Anytype "Seed | 2023" → "Series A (led, $13.4M; Inflection, Square One, Script Capital, Protocol Labs, Connect Ventures, New Forge, Foreword VC participated; Colin Hanna joined board) | 2023-08-23" via Anytype''s own blog [^any1] (2023-08-23) and Balderton''s portfolio announcement [^any2] (2023-08-23). Round was oversubscribed 4x per company. 4 new footnotes added.'
+  added: 2026-07-15
+  status: resolved
+  resolved: 2026-07-15
+- slug: better-tomorrow-ventures
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-15: corrected Layer row on better-tomorrow-ventures.md from "Seed | 2023" to "Pre-seed (led, $2.3M; angels from Square, Plaid, Unit, Check) | 2024-05-15" via 2 primary sources — TechCrunch exclusive [^lay1] (May 15, 2024) and Finovate [^lay2]. Row prior anchor to 2023 was the founding year; actual pre-seed announcement was 2024-05-15. Founders Justin Meretab (ex-Square Banking) and Daniel O''Neel (ex-Wealthfront). Later $6.6M seed led by Emergence Capital (2025) noted with BTV following on.'
+  added: 2026-07-15
+  status: resolved
+  resolved: 2026-07-15
+- slug: bond
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-15: tightened ElevenLabs row on bond.md from "Growth | 2026" to "Series D (participant, new investor; Sequoia led at USD 11B post-money valuation) | 2026-02-04" via 2 primary sources — ElevenLabs blog [^el1] (2026-02-04 primary source) and TechCrunch [^el2] (2026-02-04 tier-1 press). Round was USD 500M led by Sequoia Capital with Andrew Reed joining board; a16z quadrupled down, ICONIQ tripled down; BOND named as new investor; also participated: Lightspeed, Evantic, BroadLight, NFDG, Valor, AMP Coalition, Smash Capital.'
+  added: 2026-07-15
+  status: resolved
+  resolved: 2026-07-15
+- slug: andreessen-horowitz
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-15: attempted to tighten Anthropic row on andreessen-horowitz.md from "Growth | 2023" but no independent primary source verifies a16z as an investor in any Anthropic round in calendar year 2023. Multiple primary/tier-1 sources confirm the 2023 Anthropic rounds were led by others (Series C May 2023 $450M — Spark Capital; late-2023 mega-rounds — Google and Amazon). Independent reporting states a16z made a $150M investment in Anthropic in 2024, but no primary press release with a specific announcement date was located. Per anti-hallucination rule, row left as-is with existing [^10] a16z portfolio-page citation. Recommend follow-up: search for a16z-specific Anthropic announcement to correct year and add primary sources, or remove the row.'
+  added: 2026-07-15
+  status: unresolvable
+  resolved: 2026-07-15
 

@@ -77,7 +77,7 @@ Based on 12 featured and verified portfolio companies from BTV's website and pre
 | Relay | Seed | 2020 | Banking/SMB Neobank | Active (Series B) | [^1] |
 | Basis | Seed (led, $3.6M) | 2023-10 | Accounting/AI | Active (Series B, $1.15B valuation) | [^1][^13][^14] |
 | InScope | Seed | 2022 | Accounting/Reporting | Active (Series A) | [^1] |
-| Layer | Seed | 2023 | Accounting/Embedded | Active | [^1] |
+| Layer | Pre-seed (led, $2.3M; angels from Square, Plaid, Unit, Check) | 2024-05-15 | Accounting/Embedded | Active | [^1][^lay1][^lay2] |
 | Mendel | Seed | 2022 | Cards/Expense Management | Active (Series A) | [^1] |
 | Monk | Pre-Seed | 2024 | AI/Contract Analysis | Active | [^1] |
 | Lunar | Seed | 2022 | Healthcare/Hospital Software | Active (Series A) | [^1] |
@@ -131,3 +131,7 @@ Note: These testimonials are sourced from BTV's own website and marketing materi
 [^18]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 6/29/2026," June 29, 2026. Accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-29-2026/ — Independent confirmation of Better Tomorrow Ventures' participation in Nebex's $30M Seed.
 
 [^19]: TheNextWeb, "Nebex raises $30M from GV to build a space exchange," June 30, 2026. Accessed June 2026. https://thenextweb.com/news/nebex-30m-seed-gv-space-economy — Tier-1 European tech press lists Better Tomorrow Ventures among the participating investors in Nebex's $30M Seed led by GV alongside Eniac Ventures and 2048 Ventures.
+
+[^lay1]: TechCrunch, "Embedded accounting startup Layer secures $2.3M toward goal of replacing QuickBooks," May 15, 2024. Accessed July 2026. https://techcrunch.com/2024/05/15/embedded-accounting-layer-2-3m-quickbooks/ — Primary press: Layer raised $2.3M pre-seed announced May 15, 2024, led by Better Tomorrow Ventures with participation from executives at Square, Plaid, Unit, and Check. Founders Justin Meretab (ex-Square Banking product lead) and Daniel O'Neel (ex-Wealthfront engineering lead).
+
+[^lay2]: Finovate, "Layer Raises $2.3 Million for Embedded Accounting," May 2024. Accessed July 2026. https://finovate.com/layer-raises-2-3-million-for-embedded-accounting/ — Independent confirmation of the $2.3M pre-seed led by Better Tomorrow Ventures, May 2024. Company later raised a $6.6M seed led by Emergence Capital in 2025 with BTV following on.

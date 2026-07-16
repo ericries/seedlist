@@ -90,7 +90,7 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 ~unknown| Block (Square) | Growth | — | Fintech | Active (Public) | [^3] |
 ~unknown| Checkr | Growth | — | HR Tech | Active | [^3][^6] |
 ~unknown| Dapper Labs | Growth | — | Web3/NFT | Active | [^3] |
-| ElevenLabs | Growth | 2026 | AI | Active | [^8] |
+| ElevenLabs | Series D (participant, new investor; Sequoia led at USD 11B post-money valuation) | 2026-02-04 | AI / Voice | Active | [^8][^el1][^el2] |
 ~unknown| Genies | Growth | — | Digital Avatars | Active | [^3] |
 ~unknown| Hipcamp | Growth | — | Consumer/Travel | Active | [^3] |
 | Ironclad | Series D (lead, $100M) | 2021-01-14 | Legal Tech | Active (~$950M post-money) | [^3][^19][^20][^21] |
@@ -163,3 +163,7 @@ No independently sourced founder testimonials found. BOND's website does not fea
 [^27]: SiliconANGLE, "Generative AI music startup Suno AI raises over $400M at a $5.4B valuation," June 3, 2026. Accessed June 2026. https://siliconangle.com/2026/06/03/generative-ai-music-startup-suno-ai-raises-400m-5-4b-valuation/ — Third independent primary source confirming Bond Capital-led $400M Series D at $5.4B valuation.
 
 [^28]: Defence-Industry.eu, "Quantum Systems raises $1.2 billion Series D," July 2, 2026. Accessed July 2026. https://defence-industry.eu/quantum-systems-raises-1-2-billion-series-d-to-scale-multi-domain-autonomous-systems-and-deepen-airbus-defence-partnership-in-europe/ — Confirms BOND participation in Quantum Systems' €1B (~$1.2B) Series D co-led by Blackstone, Noteus, Airbus, and Advent on July 2, 2026. Cross-referenced with Tech.eu, "Quantum Systems raises $1.2BN at $8BN valuation," July 2, 2026. https://tech.eu/2026/07/02/quantum-systems-raises-12bn-at-8bn-valuation/ and EU-Startups, "Quantum Systems lands €1 billion Series D," July 2, 2026. https://www.eu-startups.com/2026/07/quantum-systems-lands-e1-billion-series-d-in-one-of-europes-largest-defencetech-financings/
+
+[^el1]: ElevenLabs blog, "ElevenLabs raises USD 500M Series D at USD 11B valuation," February 4, 2026. Accessed July 2026. https://elevenlabs.io/blog/series-d — Primary source: ElevenLabs' own announcement of a USD 500M Series D on 2026-02-04, led by Sequoia Capital (Andrew Reed joined board), with a16z, ICONIQ, Lightspeed, Evantic Capital, BOND (new investor), BroadLight, NFDG, Valor Capital, AMP Coalition, and Smash Capital participating.
+
+[^el2]: TechCrunch, "ElevenLabs raises USD 500M from Sequoia at an USD 11 billion valuation," February 4, 2026. Accessed July 2026. https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/ — Independent tier-1 press confirmation of the USD 500M Series D on 2026-02-04, Sequoia lead, USD 11B post-money, BOND among participating investors.

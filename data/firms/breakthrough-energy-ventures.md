@@ -117,7 +117,7 @@ This table represents approximately 25% of BEV's 120+ portfolio organizations. O
 | Redwood Materials | Early Stage | 2020 | Battery Recycling | Active [^23] |
 | Fervo Energy | Early Stage | ~2020 | Enhanced Geothermal | Active [^24] |
 | ESS | Early Stage | ~2019 | Iron Flow Batteries | Public (NYSE: GWH) [^5] |
-| Pacific Fusion | Series A | 2024 | Fusion Energy | Active [^16] |
+| Pacific Fusion | Series A ($900M, participant; General Catalyst led with Hemant Taneja) | 2024-10-25 | Fusion Energy | Active [^16][^pf1][^pf2] |
 | Lilac Solutions | Early Stage | ~2019 | Lithium Extraction | Active [^20] |
 | Pivot Bio | Series B | ~2019 | Sustainable Agriculture | Active [^25] |
 | Heirloom | Early Stage | ~2021 | Direct Air Capture | Active [^15] |
@@ -213,3 +213,7 @@ No additional independently sourced founder testimonials found. The firm's portf
 [^kol2]: Axios Pro Climate Deals, "Geologic hydrogen startup Koloma raises $245M," February 9, 2024. Accessed July 2026. https://www.axios.com/pro/climate-deals/2024/02/09/koloma-245-million-hydrogen-khosla-amazon-united — Same-day scoop confirming the $245M raise, Khosla lead, and Amazon + United participation.
 
 [^kol3]: Crunchbase, "Series B — Koloma — 2024-02-09," accessed July 2026. https://www.crunchbase.com/funding_round/koloma-series-b--8bbc978e — Confirms explicit Series B designation and 2024-02-09 date (previously labeled "Early Stage ~2023" on this profile).
+
+[^pf1]: Bloomberg, "Nuclear Startup Pacific Fusion Nabs $900 Million in Funding," October 25, 2024. Accessed July 2026. https://www.bloomberg.com/news/articles/2024-10-25/nuclear-startup-pacific-fusion-raises-900-million-in-funding — Tier-1 primary press confirms Pacific Fusion's $900M Series A announced October 25, 2024, led by General Catalyst (Hemant Taneja), with participation from Breakthrough Energy Ventures, Andrew Forrest, Elad Gil, Eric Schmidt, John Doerr, Ken Griffin, Lachy Groom, Leitmotif, Lightspeed, Lowercarbon Capital, Mustafa Suleyman, Patrick Collison, Reid Hoffman, Richard Merkin, and Trousdale Ventures.
+
+[^pf2]: Crunchbase, "Series A - Pacific Fusion - 2024-10-25," accessed July 2026. https://www.crunchbase.com/funding_round/pacific-fusion-series-a--9f02f372 — Independent confirmation of the $900M Series A on 2024-10-25, General Catalyst lead, Breakthrough Energy Ventures participant. The round is structured as milestone-based tranches.

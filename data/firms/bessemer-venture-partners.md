@@ -144,7 +144,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Hinge Health | Series C ($90M, led) | 2020 | Healthcare | [^7] |
 | StubHub (via Viagogo) | Growth | 2012 | Marketplaces | [^7] |
 | Urban Company | Series B | 2015 | Consumer/Marketplaces | [^7] |
-| Abridge | Series B ($30M, participant) | 2023 | Healthcare/AI | [^12] |
+| Abridge | Series B ($30M, participant; Spark Capital led) | 2023-10-26 | Healthcare/AI | [^12][^abr1][^abr2] |
 | Boom Supersonic | Growth | 2021 | Deep Tech | [^9] |
 | Axonius | Series A ($13M, led) | 2019 | Cybersecurity | [^9] |
 | Claroty | Series A ($32M, led) | 2016 | Cybersecurity | [^9] |
@@ -272,3 +272,7 @@ However, founder experiences are not universally positive. One founder reported 
 [^twi2]: TechCrunch, "With More Than 20M Gamers Tuning In, Twitch Raises $15M From Bessemer Venture Partners," September 19, 2012. Accessed July 2026. https://techcrunch.com/2012/09/19/twitch-15m-bessemer-venture-partners/ — Independent confirmation of the $15M round on September 19, 2012 with quote: "The new funding will be used to build out Twitch's engineering team, to meet demand for Twitch live streaming on a growing number of devices and game consoles."
 
 [^twi3]: Bessemer Venture Partners, "Twitch Investment Memo," accessed July 2026. https://www.bvp.com/memos/twitch — BVP's own memo (dated July 7, 2012) records Bessemer investing USD 13M of the USD 15M round at USD 53M pre-money valuation for 18.3% ownership. BVP partners on the deal: David Cowan, Ethan Kurzweil, Sunil Nagaraj, and Mackey Craven. BVP competed against another firm proposing a USD 90M pre-money valuation.
+
+[^abr1]: Abridge press release, "Abridge raises $30M to Accelerate Adoption of its Proven Generative AI Solution across U.S. Healthcare Systems," October 26, 2023. Accessed July 2026. https://www.abridge.com/press-release/abridge-raises-30m-to-accelerate-adoption-of-its-proven-generative-ai-solution-across-u-s-healthcare-systems — Primary press release confirming $30M Series B on October 26, 2023, led by Spark Capital with participation from existing investor Bessemer Venture Partners and healthcare partners CVS Health Ventures, Kaiser Permanente Ventures, Lifepoint Health, Mayo Clinic, SCAN Group, UC Investments, and the American College of Cardiology.
+
+[^abr2]: BusinessWire, "Abridge raises $30M to Accelerate Adoption of its Proven Generative AI Solution across U.S. Healthcare Systems," October 26, 2023. Accessed July 2026. https://www.businesswire.com/news/home/20231026850279/en/Abridge-raises-%2430M-to-Accelerate-Adoption-of-its-Proven-Generative-AI-Solution-across-U.S.-Healthcare-Systems — Independent wire-service confirmation of the $30M Series B on October 26, 2023, Spark Capital lead, Bessemer among returning investors.

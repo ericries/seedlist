@@ -207,11 +207,11 @@ The following table includes 45 Benchmark investments verified through press cov
 | Exa Labs | Series B (led, $85M at $700M val) | 2025-09-03 | AI / Search | Private [^19][^41] |
 | Monaco | Series B (led, $50M) | 2026-05-12 | AI / Sales | Private [^42] |
 | Reducto | Series B (participated) | 2025-10-14 | AI / Document Intelligence | Private [^20][^43] |
-| Applied Compute | Early | 2026 | AI / Infrastructure | Private [^9] |
+| Applied Compute | Series A (led, $80M at ~$500M val; Victor Lazarte partner; also led prior $20M seed June 2025) | 2025-10-30 | AI / Infrastructure / Enterprise Agents | Private (Sequoia, Lux Capital, Elad Gil participated; ex-OpenAI researcher founding team) [^9][^52][^53][^54] |
 | Forge | Early | ~2025 | AI | Private [^1] |
 | FOMO | Series B (participated, $75M at ~$550M val; Index Ventures led) | 2026-06-22 | Fintech / Crypto / Consumer Trading | Private [^9][^46][^47][^48][^49] |
 | Legora | Series D (participated) | 2026-03-10 | AI / Legal Tech | Private [^33] |
-| Eigen | Seed (led) | 2026 | AI / Social | Private [^34] |
+| Eigen | Seed (led, $15M; Sarah Tavel partner) | 2026-04-16 | AI / Social / Consumer | Private (Ben Silbermann (Pinterest), David Singleton (Dreamer), Gustav Söderström, Akshay Khotari, Will Wu participated as angels; founder Paul Scherer) [^34][^55][^56] |
 | Sierra | Series E (participated; co-led Seed 2024-02-13) | 2026-05-04 | AI / Customer Service | Private [^38][^39][^40] |
 | Decart | Growth (participated, $300M at $4B val; Radical Ventures led) | 2026-05-18 | AI / World Models / Inference | Private [^44] |
 | Ollama | Series A (led, $15M, 2024); Series B participated ($65M, Theory Ventures led) | 2026-07-09 | AI / Developer Tools / Open Source Models | Private [^50][^51] |
@@ -370,3 +370,13 @@ The following table includes 45 Benchmark investments verified through press cov
 [^50]: Rebecca Bellan, "Popular open-source AI developer tool Ollama raises $65M, grows to nearly 9M users," TechCrunch, July 9, 2026. Accessed July 9, 2026. https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
 
 [^51]: Ollama, "Ollama: all aboard open models," Ollama Blog, July 9, 2026. Accessed July 9, 2026. https://ollama.com/blog/all-aboard-open-models
+
+[^52]: SiliconANGLE, "Former OpenAI researchers launch Applied Compute with $80M in funding," October 30, 2025. Accessed July 2026. https://siliconangle.com/2025/10/30/former-openai-researchers-launch-applied-compute-80m-funding/ — Primary tier-1 tech press confirmation of $80M funding from Benchmark, Sequoia, Lux Capital and angel investors on 2025-10-30. Founding team of ex-OpenAI researchers working on reinforcement learning and agentic systems.
+
+[^53]: Pulse2, "Applied Compute Launches with $80 Million To Build Specific Intelligence For Enterprise AI Agents," October 2025. Accessed July 2026. https://pulse2.com/applied-compute-launches-with-80-million-to-build-specific-intelligence-for-enterprise-ai-agents/ — Independent tech press confirmation of Applied Compute's $80M launch round with Benchmark, Sequoia, and Lux Capital.
+
+[^54]: ReadTheSignal, "Sequoia & Benchmark made $80M bet on 'Specific Intelligence'," October 31, 2025. Accessed July 2026. https://readthesignal.co/p/sequoia-and-benchmark-made-80m-bet — Third independent confirmation identifying Benchmark as lead of the Series A at ~$500M valuation, with Victor Lazarte having also led the prior $20M seed round in June 2025 at $100M valuation.
+
+[^55]: Pulse2, "Eigen: $15 Million Seed Funding Raised To Build 'Mutual Friend' AI Platform," April 2026. Accessed July 2026. https://pulse2.com/eigen-15-million-seed-funding-raised-to-build-mutual-friend-ai-platform/ — Independent tech press confirmation of Eigen's $15M seed round led by Benchmark, with angels Ben Silbermann, Gustav Söderström, Akshay Khotari, David Singleton, and Will Wu participating.
+
+[^56]: FinSMEs, "Eigen Raises $15M in Seed Funding," April 2026. Accessed July 2026. https://www.finsmes.com/2026/04/eigen-raises-15m-in-seed-funding.html — Third independent industry-press confirmation of Eigen's $15M seed round led by Benchmark on April 16, 2026.
