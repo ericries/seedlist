@@ -38040,3 +38040,34 @@ queue:
   firm: Applied Computing
   discovered_from: applied-computing-uk
   source: Co-Founder & CEO Applied Computing (London)
+- name: CIV
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: senra-systems
+  source: participated in Senra Systems $65M Series B (2026-07-15)
+- name: The Friedkin Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: senra-systems
+  source: participated in Senra Systems $65M Series B (2026-07-15)
+- name: Caie Kelley
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lowercarbon Capital
+  discovered_from: senra-systems
+  source: quoted on Senra Systems $65M Series B (2026-07-15)
+- name: Achal Upadhyaya
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Interlagos
+  discovered_from: senra-systems
+  source: quoted on Senra Systems $65M Series B (2026-07-15) — Interlagos not yet
+    profiled
