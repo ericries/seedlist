@@ -6,6 +6,7 @@ firms:
 - round: Seed
   slug: 1517-fund
   year: 2020
+- slug: trucks-venture-capital
 founded: 2019
 founders: []
 investors:

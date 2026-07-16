@@ -8,6 +8,8 @@ firms:
     for 2021 Series A or 2023 Series B)
   slug: psp-partners
   year: 2022
+- slug: bloomberg-beta
+- slug: spark-capital
 founded: 2019
 founders:
 - name: Phillip Buckendorf

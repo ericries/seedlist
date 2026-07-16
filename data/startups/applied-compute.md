@@ -26,6 +26,7 @@ firms:
 - round: Series A ($80M)
   slug: index-ventures
   year: 2025
+- slug: neo
 founded: 2025
 investors:
 - round: '2025'
@@ -37,6 +38,7 @@ investors:
 - round: '2025'
   slug: josh-wolfe
   year: 2025
+- slug: elad-gil
 last_researched: 2026-07-15
 location: San Francisco, CA
 name: Applied Compute

@@ -6,7 +6,8 @@ founders:
   role: Co-Founder & CEO
 - name: Navin Jain
   role: Co-Founder
-investors: []
+investors:
+- slug: lip-bu-tan
 last_researched: 2026-06-12
 location: Bengaluru, India
 name: Ethereal Machines

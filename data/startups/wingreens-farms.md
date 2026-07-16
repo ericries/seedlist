@@ -1,11 +1,16 @@
 ---
-name: Wingreens Farms
-slug: wingreens-farms
-type: startup
-website: https://wingreens.in/
-location: Gurgaon, India
+firms: []
 founded: 2011
-status_company: active
+founders:
+- name: Anju Srivastava
+  role: Founder & CEO
+- name: Arjun Srivastava
+  role: Co-Founder
+investors:
+- slug: ashish-kacholia
+last_researched: 2026-05-11
+location: Gurgaon, India
+name: Wingreens Farms
 sector:
 - consumer
 - food-and-beverage
@@ -13,17 +18,13 @@ sector:
 - india
 - cpg
 - agritech
+slug: wingreens-farms
 stage_latest: Series D
-total_raised: $76.5M
-investors: []
-firms: []
-founders:
-- name: Anju Srivastava
-  role: Founder & CEO
-- name: Arjun Srivastava
-  role: Co-Founder
-last_researched: 2026-05-11
 status: published
+status_company: active
+total_raised: $76.5M
+type: startup
+website: https://wingreens.in/
 ---
 
 ## About

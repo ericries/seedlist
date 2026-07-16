@@ -1,23 +1,29 @@
 ---
-name: "Devplan"
-slug: devplan
-type: startup
-website: "https://devplan.com"
-location: "Seattle, Washington"
+firms:
+- slug: acequia-capital
 founded: 2025
-status_company: active
-sector: [ai, developer-tools, product-management, enterprise-saas, knowledge-graph]
-stage_latest: "Seed"
-total_raised: "$2.5M"
-firms: []
-investors: []
 founders:
-  - name: "Chris Bee"
-    role: "Co-Founder"
-  - name: "Anton Safonov"
-    role: "Co-Founder"
-status: published
+- name: Chris Bee
+  role: Co-Founder
+- name: Anton Safonov
+  role: Co-Founder
+investors: []
 last_researched: 2026-07-06
+location: Seattle, Washington
+name: Devplan
+sector:
+- ai
+- developer-tools
+- product-management
+- enterprise-saas
+- knowledge-graph
+slug: devplan
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $2.5M
+type: startup
+website: https://devplan.com
 ---
 
 ## About

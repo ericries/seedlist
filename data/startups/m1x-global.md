@@ -1,27 +1,34 @@
 ---
-name: "M1X Global"
-slug: m1x-global
-type: startup
-website: "https://m1x.global"
-location: "New York, NY"
-founded: 2026
-status_company: active
-sector: [fintech, crypto, blockchain, tokenization, sovereign-debt, defi]
-stage_latest: "Seed"
-total_raised: "$8.5M"
 firms:
-  - slug: paradigm
-    round: seed
-    year: 2026
-    date: 2026-07-07
-investors: []
+- date: 2026-07-07
+  round: seed
+  slug: paradigm
+  year: 2026
+founded: 2026
 founders:
-  - name: "Mark Lurie"
-    role: "CEO"
-  - name: "Jordan Goldman"
-    role: "President & COO"
-status: published
+- name: Mark Lurie
+  role: CEO
+- name: Jordan Goldman
+  role: President & COO
+investors:
+- slug: balaji-srinivasan
 last_researched: 2026-07-07
+location: New York, NY
+name: M1X Global
+sector:
+- fintech
+- crypto
+- blockchain
+- tokenization
+- sovereign-debt
+- defi
+slug: m1x-global
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $8.5M
+type: startup
+website: https://m1x.global
 ---
 
 ## About

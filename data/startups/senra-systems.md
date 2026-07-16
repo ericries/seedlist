@@ -1,47 +1,54 @@
 ---
-name: "Senra Systems"
-slug: senra-systems
-type: startup
-website: "https://senra.io"
-location: "Cypress, CA"
-founded: 2023
-status_company: active
-sector: [manufacturing, aerospace, defense, industrial, hardware, deeptech]
-stage_latest: "Series B"
-total_raised: "$112M+"
 firms:
-  - slug: lowercarbon-capital
-    round: series-b
-    year: 2026
-    date: 2026-07-15
-  - slug: general-catalyst
-    round: series-b
-    year: 2026
-    date: 2026-07-15
-  - slug: sequoia-capital
-    round: series-b
-    year: 2026
-    date: 2026-07-15
-  - slug: andreessen-horowitz
-    round: series-b
-    year: 2026
-    date: 2026-07-15
-  - slug: founders-fund
-    round: series-b
-    year: 2026
-    date: 2026-07-15
-  - slug: 8vc
-    round: series-b
-    year: 2026
-    date: 2026-07-15
-investors: []
+- date: 2026-07-15
+  round: series-b
+  slug: lowercarbon-capital
+  year: 2026
+- date: 2026-07-15
+  round: series-b
+  slug: general-catalyst
+  year: 2026
+- date: 2026-07-15
+  round: series-b
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-07-15
+  round: series-b
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-07-15
+  round: series-b
+  slug: founders-fund
+  year: 2026
+- date: 2026-07-15
+  round: series-b
+  slug: 8vc
+  year: 2026
+founded: 2023
 founders:
-  - name: "Jordan Black"
-    role: "CEO & Co-Founder"
-  - name: "Benjamin Shanahan"
-    role: "Co-Founder"
-status: published
+- name: Jordan Black
+  role: CEO & Co-Founder
+- name: Benjamin Shanahan
+  role: Co-Founder
+investors:
+- slug: dylan-field
 last_researched: 2026-07-16
+location: Cypress, CA
+name: Senra Systems
+sector:
+- manufacturing
+- aerospace
+- defense
+- industrial
+- hardware
+- deeptech
+slug: senra-systems
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $112M+
+type: startup
+website: https://senra.io
 ---
 
 ## About

@@ -1,18 +1,23 @@
 ---
-name: "NeoCognition"
-slug: neocognition
-type: startup
-website: "https://neocognition.ai"
-location: "United States"
-founded: 2025
-status_company: active
-sector: [ai, agents, enterprise-ai, deeptech]
-stage_latest: "Seed"
-total_raised: "$40M"
 firms: []
-investors: []
-status: published
+founded: 2025
+investors:
+- slug: lip-bu-tan
 last_researched: 2026-04-21
+location: United States
+name: NeoCognition
+sector:
+- ai
+- agents
+- enterprise-ai
+- deeptech
+slug: neocognition
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $40M
+type: startup
+website: https://neocognition.ai
 ---
 
 ## About

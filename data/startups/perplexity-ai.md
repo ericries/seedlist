@@ -62,6 +62,7 @@ investors:
 - slug: amjad-masad
 - slug: bob-muglia
 - slug: paul-buchheit
+- slug: clem-delangue
 last_researched: 2026-04-19
 location: San Francisco, CA
 name: Perplexity AI

@@ -1,119 +1,200 @@
-- name: "Axiom Equity"
+- discovered_from: adonis
+  name: Quadrille Capital
+  priority: normal
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "led Risk Ledger Series B (£24M, 2026-07-15) — B2B SaaS growth fund"
-  discovered_from: risk-ledger
+- discovered_from: air-space-intelligence
+  name: Renegade Partners
   priority: normal
-- name: "Mercia Ventures"
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "co-investor in Risk Ledger Series B (£24M, 2026-07-15) — repeat investor"
-  discovered_from: risk-ledger
+- discovered_from: allo
+  name: Zigg Capital
   priority: normal
-- name: "Haydn Brooks"
-  type: individual
-  firm: "Risk Ledger"
-  source: "CEO & Co-Founder, Risk Ledger; drove Series B (£24M, 2026-07-15)"
-  discovered_from: risk-ledger
-  priority: normal
-- name: "Portage Ventures"
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "led Feathery Series A (2026-07-14) — financial services AI focus"
-  discovered_from: feathery
-  priority: high
-- name: "Stephanie Choo"
-  type: individual
-  firm: "Portage Ventures"
-  source: "General Partner & Co-head, Portage; led Feathery Series A (2026-07-14)"
-  discovered_from: feathery
-  priority: high
-- name: "Allstate Strategic Ventures"
+- discovered_from: alloy-therapeutics
+  name: Mubadala Capital
+  priority: normal
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "co-investor in Feathery Series A (2026-07-14)"
-  discovered_from: feathery
+- discovered_from: alta
+  name: Mindset Ventures
   priority: normal
-- name: "Clocktower Ventures"
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "co-investor in Feathery Series A (2026-07-14)"
-  discovered_from: feathery
+- discovered_from: anthropic
+  name: Sequoia Capital (co-led)
   priority: normal
-- name: "Erie Strategic Ventures"
+  source: investor in 3 startup funding rounds
   type: firm
-  source: "co-investor in Feathery Series A (2026-07-14)"
-  discovered_from: feathery
+- discovered_from: attention
+  name: Aglaé Ventures
   priority: normal
-- name: "Bain Capital Ventures"
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "co-investor in Feathery Series A (2026-07-14); also participated in Decagon Series D"
-  discovered_from: feathery
+- discovered_from: avo
+  name: Scrub Capital
   priority: normal
-- name: "Peter Dun"
-  type: individual
-  firm: "Feathery"
-  source: "Co-Founder & CEO, Feathery; drove Series A (2026-07-14)"
-  discovered_from: feathery
-  priority: normal
-- name: "Zack Khan"
-  type: individual
-  firm: "Feathery"
-  source: "Co-Founder, Feathery; drove Series A (2026-07-14)"
-  discovered_from: feathery
-  priority: normal
-- name: "Ethan Kurzweil"
-  type: individual
-  firm: "Chemistry"
-  source: "Managing Partner & Co-Founder, Chemistry; led Meticulous Series A (2026-07-15)"
-  discovered_from: meticulous
-  priority: normal
-- name: "Course Corrected"
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "co-led Hyperion Robotics growth round (€6.4M, 2026-07-16)"
-  discovered_from: hyperion-robotics
-  priority: high
-- name: "European Innovation Council Fund"
+- discovered_from: cellcentric
+  name: Venrock Healthcare Capital Partners
+  priority: normal
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "co-led Hyperion Robotics growth round (€6.4M, 2026-07-16); EU public co-investor"
-  discovered_from: hyperion-robotics
+- discovered_from: cents
+  name: Riverpark Ventures
   priority: normal
-- name: "Lifeline Ventures"
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "co-investor in Hyperion Robotics (led 2022 seed €3M; participated 2026-07-16 round); Finnish VC"
-  discovered_from: hyperion-robotics
-  priority: high
-- name: "Übermorgen Ventures"
+- discovered_from: clover-health
+  name: Bracket Capital
+  priority: normal
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "co-investor in Hyperion Robotics growth round (€6.4M, 2026-07-16); climate tech focus"
-  discovered_from: hyperion-robotics
+- discovered_from: cognition
+  name: Definition Capital
   priority: normal
-- name: "RE Ventures"
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "co-investor in Hyperion Robotics growth round (€6.4M, 2026-07-16)"
-  discovered_from: hyperion-robotics
+- discovered_from: digital-asset
+  name: Liberty City Ventures
   priority: normal
-- name: "PC Rettig Impact & Co"
+  source: investor in 2 startup funding rounds
   type: firm
-  source: "co-investor in Hyperion Robotics growth round (€6.4M, 2026-07-16); impact investor"
-  discovered_from: hyperion-robotics
+- discovered_from: dream
+  name: Tru Arrow Partners
   priority: normal
-- name: "Fernando De los Rios"
-  type: individual
-  firm: "Hyperion Robotics"
-  source: "CEO, Hyperion Robotics; drove growth round (€6.4M, 2026-07-16)"
-  discovered_from: hyperion-robotics
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: edvisorly
+  name: Motley Fool Ventures
   priority: normal
-- name: "Emile de Rijk"
-  type: individual
-  firm: "SWISSto12"
-  source: "CEO & Founder, SWISSto12; drove Series C ($70M / €61M, 2026-07-16)"
-  discovered_from: swissto12
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: esh-tech
+  name: Q Fund
   priority: normal
-- name: "Gabriel Spencer-Harper"
-  type: individual
-  firm: "Meticulous"
-  source: "Co-Founder, Meticulous; drove Series A ($15M, 2026-07-15)"
-  discovered_from: meticulous
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: featherless-ai
+  name: BMW i Ventures
   priority: normal
-- name: "Quentin Spencer-Harper"
-  type: individual
-  firm: "Meticulous"
-  source: "Co-Founder, Meticulous; drove Series A ($15M, 2026-07-15)"
-  discovered_from: meticulous
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: gradium
+  name: DST Global Partners
   priority: normal
+  source: investor in 4 startup funding rounds
+  type: firm
+- discovered_from: h3-zoom
+  name: Lotus One Investment
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: hippo-harvest
+  name: Amazon Climate Pledge Fund
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: kraken-technology-group
+  name: NATO Innovation Fund
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: kredosai
+  name: SaaS Ventures
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: linqalpha
+  name: Shinhan Venture Investment
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: nebex
+  name: Armory Square Ventures
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: orbital
+  name: Zero Knowledge Ventures
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: oxmiq-labs
+  name: Pegatron Venture Capital
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: patreon
+  name: Rothenberg Ventures
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: pearl-health
+  name: Trinity Capital
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: sage-haven
+  name: a16z Scout Fund
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: saronic
+  name: U.S. Innovative Technology Fund
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: starcloud
+  name: Pareto Holdings
+  priority: normal
+  source: investor in 2 startup funding rounds
+  type: firm
+- discovered_from: jim-kim
+  name: Checkerspot
+  priority: normal
+  source: 'portfolio company of 4 investors: jim-kim, jim-kim, david-lee'
+  type: startup
+- discovered_from: siddarth-pai
+  name: YourStory
+  priority: normal
+  source: 'portfolio company of 3 investors: siddarth-pai, mohandas-pai, vani-kola'
+  type: startup
+- discovered_from: dayna-grayson
+  name: BackOps
+  priority: normal
+  source: 'portfolio company of 3 investors: dayna-grayson, dayna-grayson, rachel-holt'
+  type: startup
+- discovered_from: vishal-lugani
+  name: RapidSOS
+  priority: normal
+  source: 'portfolio company of 3 investors: vishal-lugani, theresia-gouw, freddie-martignetti'
+  type: startup
+- discovered_from: tikhon-bernstam
+  name: Kick
+  priority: normal
+  source: 'portfolio company of 3 investors: tikhon-bernstam, ian-hathaway, brad-lightcap'
+  type: startup
+- discovered_from: pranav-pai
+  name: Spinny
+  priority: normal
+  source: 'portfolio company of 3 investors: pranav-pai, sandeep-tandon, kunal-shah'
+  type: startup
+- discovered_from: mohandas-pai
+  name: BYJU'S
+  priority: normal
+  source: 'portfolio company of 3 investors: mohandas-pai, mary-meeker, ranjan-pai'
+  type: startup
+- discovered_from: jules-maltz
+  name: Oportun
+  priority: normal
+  source: 'portfolio company of 3 investors: jules-maltz, saar-gur, chris-larsen'
+  type: startup
+- discovered_from: anarghya-vardhana
+  name: Imperfect Foods
+  priority: normal
+  source: 'portfolio company of 3 investors: anarghya-vardhana, jason-stoffer, halle-tecco'
+  type: startup

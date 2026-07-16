@@ -1,12 +1,18 @@
 ---
-firms: []
-investors: []
+firms:
+- round: '2022'
+  slug: ramp
+  year: 2022
 founded: 2022
 founders:
 - name: Cedric Notz
   role: CEO & Co-Founder
 - name: Jannis Koehn
   role: Co-Founder
+investors:
+- round: '2022'
+  slug: eric-glyman
+  year: 2022
 last_researched: 2026-07-15
 location: Stockholm, Sweden
 name: Float

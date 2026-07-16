@@ -1,31 +1,32 @@
 ---
-name: Pillar
-slug: pillar-risk
-type: startup
-website: "https://www.pillarhq.com/"
-location: null
-founded: 2023
-status_company: active
-sector:
-- fintech
-- risk-management
-stage_latest: Seed
-total_raised: $23M
 firms:
-- slug: andreessen-horowitz
-  round: seed
+- round: seed
+  slug: andreessen-horowitz
   year: 2026
-investors:
-- name: Dara Khosrowshahi
-  round: seed
-  year: 2026
+- slug: neo
+founded: 2023
 founders:
 - name: Harsha Ramesh
   role: CEO
 - name: Chinmay Deshpande
   role: CTO
-status: published
+investors:
+- name: Dara Khosrowshahi
+  round: seed
+  year: 2026
 last_researched: 2026-04-14
+location: null
+name: Pillar
+sector:
+- fintech
+- risk-management
+slug: pillar-risk
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $23M
+type: startup
+website: https://www.pillarhq.com/
 ---
 
 ## About

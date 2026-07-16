@@ -23,6 +23,7 @@ investors:
   slug: olivier-pomel
   year: 2026
 - slug: thomas-wolf
+- slug: lip-bu-tan
 last_researched: 2026-05-05
 location: Palo Alto, CA
 name: RadixArk

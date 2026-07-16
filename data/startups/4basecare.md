@@ -1,23 +1,31 @@
 ---
-name: "4baseCare"
-slug: 4basecare
-type: startup
-website: "https://4basecare.com"
-location: "Bengaluru, India"
-founded: 2018
-status_company: active
-sector: [healthcare, healthtech, oncology, genomics, ai, precision-medicine, digital-health]
-stage_latest: "Series B"
-total_raised: "₹178 Cr"
-investors: []
 firms: []
+founded: 2018
 founders:
-  - name: "Hitesh Goswami"
-    role: "Co-Founder"
-  - name: "Kshitij Rishi"
-    role: "Co-Founder"
-status: published
+- name: Hitesh Goswami
+  role: Co-Founder
+- name: Kshitij Rishi
+  role: Co-Founder
+investors:
+- slug: ashish-kacholia
 last_researched: 2026-06-12
+location: Bengaluru, India
+name: 4baseCare
+sector:
+- healthcare
+- healthtech
+- oncology
+- genomics
+- ai
+- precision-medicine
+- digital-health
+slug: 4basecare
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: ₹178 Cr
+type: startup
+website: https://4basecare.com
 ---
 
 ## About

@@ -24,17 +24,18 @@ firms:
 - round: Seed
   slug: pear-vc
   year: 2023
-- round: series-a-extension
+- date: 2024-04
+  round: series-a-extension
   slug: conviction
   year: 2024
-  date: 2024-04
 - slug: 8vc
-- round: Growth $400M (led)
+- date: 2025-09-08
+  round: Growth $400M (led)
   slug: founders-fund
   year: 2025
-  date: 2025-09-08
 - slug: general-catalyst
 - slug: ribbit-capital
+- slug: hanabi-capital
 founded: 2023
 founders:
 - name: Scott Wu

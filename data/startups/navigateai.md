@@ -14,6 +14,7 @@ investors:
     Electric participated)
   slug: elad-gil
   year: 2026
+- slug: apoorva-mehta
 last_researched: 2026-05-27
 location: San Francisco, CA
 name: NavigateAI

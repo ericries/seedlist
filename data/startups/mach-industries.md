@@ -24,6 +24,7 @@ firms:
   round: seed
   slug: sequoia-capital
   year: 2023
+- slug: dcvc
 founded: 2023
 founders:
 - name: Ethan Thornton
@@ -48,7 +49,6 @@ investors:
   slug: michael-gibson
   year: 2022
 last_researched: 2026-06-03
-verified_investors: true
 location: Huntington Beach, California
 name: Mach Industries
 sector:
@@ -63,6 +63,7 @@ status: published
 status_company: active
 total_raised: $400M+
 type: startup
+verified_investors: true
 website: https://machindustries.com
 ---
 

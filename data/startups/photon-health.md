@@ -1,26 +1,27 @@
 ---
-name: Photon
-slug: photon-health
-type: startup
-website: https://www.photon.health/
-location: Brooklyn, NY
+firms:
+- slug: boxgroup
 founded: 2021
-status_company: active
+founders:
+- name: Otto Sipe
+  role: Founder & CEO
+investors: []
+last_researched: 2026-04-30
+location: Brooklyn, NY
+name: Photon
 sector:
 - healthcare
 - digital-health
 - pharmacy
 - prescription-infrastructure
 - healthtech
+slug: photon-health
 stage_latest: Series A
-total_raised: $25M
-investors: []
-firms: []
-founders:
-- name: Otto Sipe
-  role: Founder & CEO
 status: published
-last_researched: 2026-04-30
+status_company: active
+total_raised: $25M
+type: startup
+website: https://www.photon.health/
 ---
 
 ## About

@@ -39,6 +39,7 @@ investors:
     seed)
   slug: tomasz-tunguz
   year: 2026
+- slug: lip-bu-tan
 last_researched: 2026-06-26
 location: San Francisco, CA
 name: Sail Research

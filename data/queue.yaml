@@ -38071,3 +38071,286 @@ queue:
   discovered_from: senra-systems
   source: quoted on Senra Systems $65M Series B (2026-07-15) — Interlagos not yet
     profiled
+- name: Axiom Equity
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: risk-ledger
+  source: led Risk Ledger Series B (£24M, 2026-07-15) — B2B SaaS growth fund
+- name: Haydn Brooks
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Risk Ledger
+  discovered_from: risk-ledger
+  source: CEO & Co-Founder, Risk Ledger; drove Series B (£24M, 2026-07-15)
+- name: Stephanie Choo
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Portage Ventures
+  discovered_from: feathery
+  source: General Partner & Co-head, Portage; led Feathery Series A (2026-07-14)
+- name: Allstate Strategic Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: feathery
+  source: co-investor in Feathery Series A (2026-07-14)
+- name: Erie Strategic Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: feathery
+  source: co-investor in Feathery Series A (2026-07-14)
+- name: Peter Dun
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Feathery
+  discovered_from: feathery
+  source: Co-Founder & CEO, Feathery; drove Series A (2026-07-14)
+- name: Zack Khan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Feathery
+  discovered_from: feathery
+  source: Co-Founder, Feathery; drove Series A (2026-07-14)
+- name: Course Corrected
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hyperion-robotics
+  source: co-led Hyperion Robotics growth round (€6.4M, 2026-07-16)
+- name: Übermorgen Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hyperion-robotics
+  source: co-investor in Hyperion Robotics growth round (€6.4M, 2026-07-16); climate
+    tech focus
+- name: RE Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hyperion-robotics
+  source: co-investor in Hyperion Robotics growth round (€6.4M, 2026-07-16)
+- name: PC Rettig Impact & Co
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hyperion-robotics
+  source: co-investor in Hyperion Robotics growth round (€6.4M, 2026-07-16); impact
+    investor
+- name: Fernando De los Rios
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Hyperion Robotics
+  discovered_from: hyperion-robotics
+  source: CEO, Hyperion Robotics; drove growth round (€6.4M, 2026-07-16)
+- name: Emile de Rijk
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: SWISSto12
+  discovered_from: swissto12
+  source: CEO & Founder, SWISSto12; drove Series C ($70M / €61M, 2026-07-16)
+- name: Gabriel Spencer-Harper
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Meticulous
+  discovered_from: meticulous
+  source: Co-Founder, Meticulous; drove Series A ($15M, 2026-07-15)
+- name: Quentin Spencer-Harper
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Meticulous
+  discovered_from: meticulous
+  source: Co-Founder, Meticulous; drove Series A ($15M, 2026-07-15)
+- name: Alpha Wave
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: advancell
+  source: co-led AdvanCell Series D ($315M, 2026-07-15); global crossover investor
+- name: Eventide Asset Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: advancell
+  source: co-investor in AdvanCell Series D ($315M, 2026-07-15)
+- name: Velosity Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: advancell
+  source: co-investor in AdvanCell Series D ($315M, 2026-07-15)
+- name: Morningside
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: advancell
+  source: existing investor in AdvanCell Series D ($315M, 2026-07-15); life sciences
+    family office
+- name: Eli Lilly and Company
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: advancell
+  source: strategic investor in AdvanCell Series D ($315M, 2026-07-15)
+- name: Abingworth
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: advancell
+  source: existing investor in AdvanCell Series D ($315M, 2026-07-15); healthcare
+    growth investor
+- name: SymBiosis
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: advancell
+  source: existing investor in AdvanCell Series D ($315M, 2026-07-15)
+- name: Tenmile
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: advancell
+  source: existing investor in AdvanCell Series D ($315M, 2026-07-15)
+- name: Brandon Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: advancell
+  source: existing investor in AdvanCell Series D ($315M, 2026-07-15); Australian
+    life sciences VC
+- name: Piper Heartland
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: advancell
+  source: existing investor in AdvanCell Series D ($315M, 2026-07-15)
+- name: Proto Axiom
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: advancell
+  source: existing investor in AdvanCell Series D ($315M, 2026-07-15)
+- name: Andrew Adamovich
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: AdvanCell
+  discovered_from: advancell
+  source: Founder & Managing Director Australia, AdvanCell; drove Series D ($315M,
+    2026-07-15)
+- name: Philina Lee
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: AdvanCell
+  discovered_from: advancell
+  source: CEO, AdvanCell; drove Series D ($315M, 2026-07-15)
+- name: Growth Equity at Goldman Sachs Alternatives
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: spectro-cloud
+  source: led Spectro Cloud Series D ($100M, 2026-07-15); Goldman growth-stage tech
+    investing
+- name: Ericsson
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: spectro-cloud
+  source: strategic co-investor in Spectro Cloud Series D ($100M, 2026-07-15); telecom
+    infra
+- name: Maximus
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: spectro-cloud
+  source: strategic co-investor in Spectro Cloud Series D ($100M, 2026-07-15); government
+    services
+- name: Tenry Fu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Spectro Cloud
+  discovered_from: spectro-cloud
+  source: CEO & Co-Founder, Spectro Cloud; drove Series D ($100M, 2026-07-15)
+- name: FirstMark
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: velocity
+  source: co-led Velocity Series A ($38M, 2026-07-14); NYC growth-stage tech investor
+- name: Activant Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: velocity
+  source: co-investor in Velocity Series A ($38M, 2026-07-14); B2B/enterprise-tech
+    growth
+- name: Wintermute Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: velocity
+  source: strategic co-investor in Velocity Series A ($38M, 2026-07-14); crypto market
+    maker CVC
+- name: Eric Queathem
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Velocity
+  discovered_from: velocity
+  source: Co-Founder & CEO, Velocity; drove Series A ($38M, 2026-07-14)
+- name: Tom Greenwood
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Velocity
+  discovered_from: velocity
+  source: Co-Founder, Velocity; drove Series A ($38M, 2026-07-14)
