@@ -133,6 +133,23 @@ pending_rounds:
   parsed_amount: $17.8M
   parsed_round: null
   status: pending
+- title: AI-powered travel agency Fora hits unicorn status, raises $60M
+  url: https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/
+  source: techcrunch
+  date_found: '2026-07-16'
+  parsed_company: AI-powered travel agency Fora hits unicorn status,
+  parsed_amount: $60M
+  parsed_round: null
+  status: pending
+- title: How a former DeepMind researcher raised at a $300M pre-seed valuation before
+    launching a product
+  url: https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/
+  source: techcrunch
+  date_found: '2026-07-16'
+  parsed_company: null
+  parsed_amount: $300M
+  parsed_round: Pre-Seed
+  status: pending
 - title: CNB Financial Corporation Announces Quarterly Dividend for Series A Preferred
     Stock and Related Depositary Shares Distribution
   url: https://www.globenewswire.com/news-release/2026/07/14/3327266/0/en/CNB-Financial-Corporation-Announces-Quarterly-Dividend-for-Series-A-Preferred-Stock-and-Related-Depositary-Shares-Distribution.html
