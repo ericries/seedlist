@@ -1,7 +1,7 @@
 ---
 founded: 2024
 fund_size: $350M
-last_researched: 2026-05-06
+last_researched: 2026-07-16
 location: San Francisco, CA
 name: Chemistry
 sector_focus:
@@ -81,6 +81,7 @@ Based on a limited sample of verified Chemistry investments (the firm launched i
 | ComfyUI | Growth (participated, $30M at $500M valuation) | 2026-04-24 | AI / Generative Media | [^12][^16] |
 | Fathom Therapeutics | Series A | 2026-04-27 | Biotech / AI Drug Discovery | [^13] |
 | Nova Intelligence | Series A (led) | 2026-05-05 | AI / Enterprise / SAP Modernization | [^14] |
+| Meticulous | Series A (led, $15M) | 2026-07-15 | Developer Tools / AI Testing | [^19][^20] |
 
 Note: This table represents Chemistry's investments since its October 2024 launch. The partners' extensive pre-Chemistry portfolios at Bessemer, a16z, and Index (including PagerDuty, Intercom, Plaid, Persona, Twitch, LaunchDarkly, ServiceTitan, and others) are attributed to their prior firms.
 
@@ -127,3 +128,7 @@ Note: The above founder quotes are sourced from Chemistry's own website and shou
 [^16]: Finsmes, "ComfyUI Raises $30M Financing, At $500M Valuation," April 2026. https://www.finsmes.com/2026/04/comfyui-raises-30m-financing-at-500m-valuation.html — ComfyUI's April 24, 2026 $30M growth round at $500M valuation was led by Craft Ventures with Pace Capital, Chemistry, TruArrow, and others participating. Chemistry's prior late-2024 Series A in ComfyUI was approximately $19M.
 [^17]: Marina Temkin, "Serval raises $47M to bring AI agents to IT service management," TechCrunch, October 21, 2025. Accessed July 2026. https://techcrunch.com/2025/10/21/serval-raises-47-million-to-bring-ai-agent-to-it-service-management/ — Primary source: confirms 2025-10-21 date, $47M Series A, Redpoint lead, First Round/General Catalyst/Box Group participation, CEO Jake Stauch quotes.
 [^18]: SiliconANGLE, "Serval raises $47M to bring AI-native automation to IT operations," October 21, 2025. Accessed July 2026. https://siliconangle.com/2025/10/21/serval-raises-47m-bring-ai-native-automation-operations/ — Explicitly names Operator Partners plus Bessemer, Chemistry VC, Strike Capital, Sunflower Capital as syndicate participants; quotes Patrick Chase of Redpoint and Vernon Man of Perplexity.
+
+[^19]: "Meticulous raises $15m to accelerate the pace of software development," Meticulous blog, July 15, 2026. Accessed July 16, 2026. https://www.meticulous.ai/blog/series-a
+
+[^20]: "Meticulous Series A · $15M raised · (2026)," StartupHub.ai, July 15, 2026. Accessed July 16, 2026. https://www.startuphub.ai/investment_rounds/meticulous-series-a-2026

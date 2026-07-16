@@ -5306,3 +5306,18 @@ priority:
   type: firm
   reason: "appeared in InstaLILY AI Series B (2026-07-14), $60M — Energize Capital led"
   added: 2026-07-16
+
+- slug: chemistry-vc
+  type: firm
+  reason: "appeared in Meticulous Series A (2026-07-15), $15M — Chemistry led"
+  added: 2026-07-16
+
+- slug: menlo-ventures
+  type: firm
+  reason: "appeared in Meticulous Series A (2026-07-15), $15M — participated alongside Chemistry lead"
+  added: 2026-07-16
+
+- slug: index-ventures
+  type: firm
+  reason: "appeared in Feathery Series A (2026-07-14), $30M — participated alongside Portage Ventures lead"
+  added: 2026-07-16

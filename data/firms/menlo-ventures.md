@@ -49,7 +49,7 @@ team:
     role: "Partner"
     name: "Croom Beatty"
 status: published
-last_researched: 2026-05-01
+last_researched: 2026-07-16
 ---
 
 ## About
@@ -124,6 +124,7 @@ Based on Menlo Ventures' verified portfolio data:
 | Skild | Series A (participated, $300M at $1.5B val; Lightspeed/Coatue/SoftBank/Bezos led) | 2024-07-09 | AI / Robotics Foundation Model | Private [^27][^28] |
 | Lovable | Series B (co-led via Anthology Fund with CapitalG, $330M at $6.6B val) | 2025-12-18 | AI / Developer Tools / Vibe Coding | Private [^29][^30][^31] |
 | Suno | Series C (led, $250M at $2.45B val) | 2025-11-19 | AI / Generative Music | Private [^32][^33][^34] |
+| Meticulous | Series A (participated, $15M; Chemistry led) | 2026-07-15 | Developer Tools / AI Testing | Private [^35][^36] |
 
 *This table represents a small fraction of Menlo's 466 total investments. The firm has produced 85+ public companies and 170+ M&A exits [^2].*
 
@@ -188,3 +189,7 @@ No independently sourced founder testimonials found.
 [^33]: PR Newswire, "Suno Raises $250M at a $2.45B Valuation," November 19, 2025. Accessed July 2026. https://www.prnewswire.com/news-releases/suno-raises-250m-at-a-2-45b-valuation-302620166.html — Contemporaneous press release confirming Menlo Ventures as lead and $250M at $2.45B post-money.
 
 [^34]: TechCrunch, "Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue," November 19, 2025. Accessed July 2026. https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/ — Tier-1 press confirming Menlo Ventures lead role and $200M annual revenue at raise.
+
+[^35]: "Meticulous raises $15m to accelerate the pace of software development," Meticulous blog, July 15, 2026. Accessed July 16, 2026. https://www.meticulous.ai/blog/series-a — Company's own announcement confirming Menlo Ventures participation in $15M Series A led by Chemistry.
+
+[^36]: "Meticulous Series A · $15M raised · (2026)," StartupHub.ai, July 15, 2026. Accessed July 16, 2026. https://www.startuphub.ai/investment_rounds/meticulous-series-a-2026 — Contemporaneous coverage confirming Menlo Ventures co-investor role.

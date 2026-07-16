@@ -2,7 +2,7 @@
 founded: 1996
 fund_size: '$2.3B (2024: $800M venture + $1.5B growth); $15B total capital raised;
   $3.1B (2021)'
-last_researched: 2026-05-15
+last_researched: 2026-07-16
 location: San Francisco, CA
 name: Index Ventures
 sector_focus:
@@ -155,6 +155,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Fomo | Series B (led, $75M at ~$550M val) | 2026-06-22 | Fintech / Crypto / Consumer Trading | [^64][^65][^66][^67] |
 | Build | Seed (led, $8.5M) | 2026-06-30 | AI / Proptech / Agentic Real Estate | [^68][^69][^70] |
 | Twelve Labs | Series B (participated, $100M; NEA and NAVER Ventures co-led) | 2026-07-01 | AI / Video Foundation Models | [^71] |
+| Feathery | Series A (participated, $30M total; Portage Ventures led) | 2026-07-14 | Fintech / AI / Financial Services | [^77][^78] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -291,4 +292,8 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^75]: TechCrunch, "How a $6M bet on Wiz turned into a massive 200x return for one early backer," by Julie Bort, March 19, 2025. Accessed July 2026. https://techcrunch.com/2025/03/19/how-a-6m-bet-on-wiz-turned-into-a-massive-200x-return-for-one-early-backer/ — Confirms Cyberstarts invested $6.4M from its first $54M fund into Wiz's seed round in February 2020.
 
 [^76]: Calcalist (Ctech), "VC firms reap 200x returns on Wiz's $32B sale to Google," 2026. Accessed July 2026. https://www.calcalistech.com/ctechnews/article/bjdoued3jg — Confirms $21M total seed round in February 2020 co-led by Cyberstarts ($6.4M) and Sequoia ($10M) at ~$67M post-money valuation; Index Ventures invested $3.5M and continued in every subsequent round for $245M total, returning $4.3B.
+
+[^77]: "Feathery Raises $30M to scale the AI operating & decisioning system for financial services," Feathery blog, July 14, 2026. Accessed July 16, 2026. https://www.feathery.io/blog/feathery-raises-30m-to-scale-the-ai-operating-decisioning-system-for-financial-services — Company's own announcement confirming Index Ventures participation in $30M Series A led by Portage Ventures.
+
+[^78]: "Feathery lands $30m to rewire financial services workflows," FinTech Global, July 15, 2026. Accessed July 16, 2026. https://fintech.global/2026/07/15/feathery-lands-30m-to-rewire-financial-services-workflows/ — Contemporaneous press confirming full investor syndicate: Portage Ventures (lead), Index Ventures, Allstate Strategic Ventures, Clocktower Ventures, Erie Strategic Ventures, Bain Capital Ventures.
 

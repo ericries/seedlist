@@ -45,7 +45,8 @@ pending_rounds:
   parsed_company: SWISSto12
   parsed_amount: null
   parsed_round: Series C
-  status: pending
+  status: processed
+  notes: created startup profile swissto12.md; €61M/$70M Series C, investors undisclosed
 - title: Espoo-based Hyperion Robotics raises €6.4 million to bring physical AI to
     European infrastructure
   url: https://www.eu-startups.com/2026/07/espoo-based-hyperion-robotics-raises-e6-4-million-to-bring-physical-ai-to-european-infrastructure/
@@ -54,6 +55,162 @@ pending_rounds:
   parsed_company: Espoo-based Hyperion Robotics
   parsed_amount: null
   parsed_round: null
+  status: processed
+  notes: created startup profile hyperion-robotics.md; €6.4M/$7.4M co-led by Course Corrected and EIC Fund
+- title: Ultrahuman’s former hardware VP raises $5.5M for devices that control AI
+    agents, not just record you
+  url: https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/
+  source: techcrunch
+  date_found: '2026-07-16'
+  parsed_company: Ultrahuman’s former hardware VP
+  parsed_amount: $5.5M
+  parsed_round: null
+  status: pending
+- title: The Billion-Dollar Seed Isn’t The Deal You Think It Is
+  url: https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison/
+  source: crunchbase
+  date_found: '2026-07-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: China And AI Lead Asia’s Startup Funding To Multiyear Peak In Q2
+  url: https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/
+  source: crunchbase
+  date_found: '2026-07-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris-based Syntetica raises €26.1 million to industrialise process that
+    cracks a major nylon recycling barrier
+  url: https://www.eu-startups.com/2026/07/paris-based-syntetica-raises-e26-1-million-to-industrialise-process-that-cracks-a-major-nylon-recycling-barrier/
+  source: eu-startups
+  date_found: '2026-07-16'
+  parsed_company: Paris-based Syntetica
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Cambridge’s Silicon Microgravity secures €7.08 million to scale its GPS-free
+    sensing and navigation tech
+  url: https://www.eu-startups.com/2026/07/cambridges-silicon-microgravitsecures-e7-08-million-to-scale-its-gps-free-sensing-and-navigation-tech/
+  source: eu-startups
+  date_found: '2026-07-16'
+  parsed_company: Cambridge’s Silicon Microgravity
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: s first fund raised $91.2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: s first fund
+  parsed_amount: $91.2M
+  parsed_round: null
+  status: pending
+- title: Neko Health raised $700M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Neko Health
+  parsed_amount: $700M
+  parsed_round: Series C
+  status: pending
+- title: AdvanCell raised $315M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: AdvanCell
+  parsed_amount: $315M
+  parsed_round: Series D
+  status: pending
+- title: Emergent raised $130M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Emergent
+  parsed_amount: $130M
+  parsed_round: null
+  status: pending
+- title: Brinc raised $125M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Brinc
+  parsed_amount: $125M
+  parsed_round: null
+  status: pending
+- title: Spectro Cloud raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Spectro Cloud
+  parsed_amount: $100M
+  parsed_round: null
+  status: pending
+- title: Flex raised $70M Series B1
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Flex
+  parsed_amount: $70M
+  parsed_round: Series B1
+  status: pending
+- title: Senra Systems raised $65M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Senra Systems
+  parsed_amount: $65M
+  parsed_round: Series B
+  status: pending
+- title: Oak raised $60M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Oak
+  parsed_amount: $60M
+  parsed_round: Seed
+  status: pending
+- title: Velocity raised $38M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Velocity
+  parsed_amount: $38M
+  parsed_round: Series A
+  status: pending
+- title: Risk Ledger raised $32M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Risk Ledger
+  parsed_amount: $32M
+  parsed_round: Series B
+  status: pending
+- title: Feathery raised $30M seed and Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Feathery
+  parsed_amount: $30M
+  parsed_round: Seed And Series A
+  status: pending
+- title: Adapter raised $17.8M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Adapter
+  parsed_amount: $17.8M
+  parsed_round: null
+  status: pending
+- title: Meticulous raised $15M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-16'
+  parsed_company: Meticulous
+  parsed_amount: $15M
+  parsed_round: Series A
   status: pending
 - title: CNB Financial Corporation Announces Quarterly Dividend for Series A Preferred
     Stock and Related Depositary Shares Distribution
@@ -699,174 +856,5 @@ pending_rounds:
   date_found: '2026-07-04'
   parsed_company: after the micromobility company
   parsed_amount: $167M
-  parsed_round: null
-  status: pending
-- title: Meridian3 Industrials Acquisition raised $175M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-04'
-  parsed_company: Meridian3 Industrials Acquisition
-  parsed_amount: $175M
-  parsed_round: null
-  status: pending
-- title: Viking Acquisition II raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-04'
-  parsed_company: Viking Acquisition II
-  parsed_amount: $200M
-  parsed_round: null
-  status: pending
-- title: an Israeli connected devices cybersecurity company that had raised $37M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-04'
-  parsed_company: an Israeli connected devices cybersecurity company that had
-  parsed_amount: $37M
-  parsed_round: null
-  status: pending
-- title: a Seattle-based GTM intelligence platform that had raised $55M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-04'
-  parsed_company: a Seattle-based GTM intelligence platform that had
-  parsed_amount: $55M
-  parsed_round: null
-  status: pending
-- title: London’s geoSurge raises €10 million to help brands understand AI-generated
-    outputs
-  url: https://www.eu-startups.com/2026/07/londons-geosurge-raises-e10-million-to-help-brands-understand-ai-generated-outputs/
-  source: eu-startups
-  date_found: '2026-07-03'
-  parsed_company: London’s geoSurge
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (June 29-July 03)
-  url: https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-29-july-03/
-  source: eu-startups
-  date_found: '2026-07-03'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Rivian raises EV sales forecast as Q2 production ramps up
-  url: https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/
-  source: techcrunch
-  date_found: '2026-07-02'
-  parsed_company: Rivian
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Crunchbase Data: Global Startup Investment Hit Record $510B In H1 2026 As
-    AI Boom Accelerates Funding And Exits'
-  url: https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/
-  source: crunchbase
-  date_found: '2026-07-02'
-  parsed_company: null
-  parsed_amount: $510B
-  parsed_round: null
-  status: pending
-- title: Czech VC firm Orbit Capital raises Growth Debt Fund II to €107 million
-  url: https://www.eu-startups.com/2026/07/czech-vc-firm-orbit-capital-raises-growth-debt-fund-ii-to-e107-million/
-  source: eu-startups
-  date_found: '2026-07-02'
-  parsed_company: Czech VC firm Orbit Capital
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: AI, Energy And Biotech Lead The Way'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/
-  source: crunchbase
-  date_found: '2026-07-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: ORYZON Raises €12 Million and Signs a Financing Agreement with COFIDES to
-    Strengthen its Balance Sheet and Accelerate its Clinical Programs
-  url: https://www.globenewswire.com/news-release/2026/07/01/3320668/0/en/ORYZON-Raises-12-Million-and-Signs-a-Financing-Agreement-with-COFIDES-to-Strengthen-its-Balance-Sheet-and-Accelerate-its-Clinical-Programs.html
-  source: globenewswire
-  date_found: '2026-07-01'
-  parsed_company: ORYZON
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  skip_reason: publicly-traded biotech (BME:ORY) capital increase, not a startup VC
-    round
-- title: SunPower Closes $10 Million Share Exchange
-  url: https://www.globenewswire.com/news-release/2026/07/01/3320562/0/en/SunPower-Closes-10-Million-Share-Exchange.html
-  source: globenewswire
-  date_found: '2026-07-01'
-  parsed_company: SunPower
-  parsed_amount: $10M
-  parsed_round: null
-  status: pending
-- title: Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform
-    takes off
-  url: https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/
-  source: techcrunch
-  date_found: '2026-07-01'
-  parsed_company: null
-  parsed_amount: $65M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile venice-ai.md; Dragonfly lead with Coinbase Ventures,
-    F-Prime, North Island Ventures; $1B post-money valuation
-- title: Telum Therapeutics raises €18 million to advance treatments for hospital-acquired
-    infections
-  url: https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/
-  source: eu-startups
-  date_found: '2026-07-01'
-  parsed_company: Telum Therapeutics
-  parsed_amount: €18M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile telum-therapeutics.md; AMR Action Fund lead with
-    Inveready, Invivo Partners, CDTI/SICC Innvierte, Clave Capital, Sodena
-- title: EquiLibre secures Series A at €438 million valutation to scale AI trading
-    agents handling billions daily
-  url: https://www.eu-startups.com/2026/07/equilibre-secures-series-a-at-e438-million-valutation-to-scale-ai-trading-agents-handling-billions-daily/
-  source: eu-startups
-  date_found: '2026-07-01'
-  parsed_company: EquiLibre
-  parsed_amount: undisclosed
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile equilibre-technologies.md; Creandum led at €438M
-    ($500M) valuation; amount undisclosed; updated creandum.md portfolio
-- title: Neocloud Together AI raises $800M, leaps to $8.3B valuation
-  url: https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/
-  source: techcrunch
-  date_found: '2026-07-01'
-  parsed_company: Neocloud Together AI
-  parsed_amount: $800M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/1/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-1-2026/
-  source: alleywatch
-  date_found: '2026-07-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: INMerge Innovation Summit concludes its international event series with INMerge
-    Berlin (Sponsored)
-  url: https://www.eu-startups.com/2026/06/inmerge-innovation-summit-concludes-its-international-event-series-with-inmerge-berlin-sponsored/
-  source: eu-startups
-  date_found: '2026-06-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Austrian BioTech startup Epitome Therapeutics announces €4 million in funding
-    to advance programmes and grow team
-  url: https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/
-  source: eu-startups
-  date_found: '2026-06-30'
-  parsed_company: Austrian BioTech startup Epitome Therapeutics
-  parsed_amount: null
   parsed_round: null
   status: pending

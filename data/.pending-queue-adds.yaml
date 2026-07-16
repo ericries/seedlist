@@ -1,0 +1,119 @@
+- name: "Axiom Equity"
+  type: firm
+  source: "led Risk Ledger Series B (£24M, 2026-07-15) — B2B SaaS growth fund"
+  discovered_from: risk-ledger
+  priority: normal
+- name: "Mercia Ventures"
+  type: firm
+  source: "co-investor in Risk Ledger Series B (£24M, 2026-07-15) — repeat investor"
+  discovered_from: risk-ledger
+  priority: normal
+- name: "Haydn Brooks"
+  type: individual
+  firm: "Risk Ledger"
+  source: "CEO & Co-Founder, Risk Ledger; drove Series B (£24M, 2026-07-15)"
+  discovered_from: risk-ledger
+  priority: normal
+- name: "Portage Ventures"
+  type: firm
+  source: "led Feathery Series A (2026-07-14) — financial services AI focus"
+  discovered_from: feathery
+  priority: high
+- name: "Stephanie Choo"
+  type: individual
+  firm: "Portage Ventures"
+  source: "General Partner & Co-head, Portage; led Feathery Series A (2026-07-14)"
+  discovered_from: feathery
+  priority: high
+- name: "Allstate Strategic Ventures"
+  type: firm
+  source: "co-investor in Feathery Series A (2026-07-14)"
+  discovered_from: feathery
+  priority: normal
+- name: "Clocktower Ventures"
+  type: firm
+  source: "co-investor in Feathery Series A (2026-07-14)"
+  discovered_from: feathery
+  priority: normal
+- name: "Erie Strategic Ventures"
+  type: firm
+  source: "co-investor in Feathery Series A (2026-07-14)"
+  discovered_from: feathery
+  priority: normal
+- name: "Bain Capital Ventures"
+  type: firm
+  source: "co-investor in Feathery Series A (2026-07-14); also participated in Decagon Series D"
+  discovered_from: feathery
+  priority: normal
+- name: "Peter Dun"
+  type: individual
+  firm: "Feathery"
+  source: "Co-Founder & CEO, Feathery; drove Series A (2026-07-14)"
+  discovered_from: feathery
+  priority: normal
+- name: "Zack Khan"
+  type: individual
+  firm: "Feathery"
+  source: "Co-Founder, Feathery; drove Series A (2026-07-14)"
+  discovered_from: feathery
+  priority: normal
+- name: "Ethan Kurzweil"
+  type: individual
+  firm: "Chemistry"
+  source: "Managing Partner & Co-Founder, Chemistry; led Meticulous Series A (2026-07-15)"
+  discovered_from: meticulous
+  priority: normal
+- name: "Course Corrected"
+  type: firm
+  source: "co-led Hyperion Robotics growth round (€6.4M, 2026-07-16)"
+  discovered_from: hyperion-robotics
+  priority: high
+- name: "European Innovation Council Fund"
+  type: firm
+  source: "co-led Hyperion Robotics growth round (€6.4M, 2026-07-16); EU public co-investor"
+  discovered_from: hyperion-robotics
+  priority: normal
+- name: "Lifeline Ventures"
+  type: firm
+  source: "co-investor in Hyperion Robotics (led 2022 seed €3M; participated 2026-07-16 round); Finnish VC"
+  discovered_from: hyperion-robotics
+  priority: high
+- name: "Übermorgen Ventures"
+  type: firm
+  source: "co-investor in Hyperion Robotics growth round (€6.4M, 2026-07-16); climate tech focus"
+  discovered_from: hyperion-robotics
+  priority: normal
+- name: "RE Ventures"
+  type: firm
+  source: "co-investor in Hyperion Robotics growth round (€6.4M, 2026-07-16)"
+  discovered_from: hyperion-robotics
+  priority: normal
+- name: "PC Rettig Impact & Co"
+  type: firm
+  source: "co-investor in Hyperion Robotics growth round (€6.4M, 2026-07-16); impact investor"
+  discovered_from: hyperion-robotics
+  priority: normal
+- name: "Fernando De los Rios"
+  type: individual
+  firm: "Hyperion Robotics"
+  source: "CEO, Hyperion Robotics; drove growth round (€6.4M, 2026-07-16)"
+  discovered_from: hyperion-robotics
+  priority: normal
+- name: "Emile de Rijk"
+  type: individual
+  firm: "SWISSto12"
+  source: "CEO & Founder, SWISSto12; drove Series C ($70M / €61M, 2026-07-16)"
+  discovered_from: swissto12
+  priority: normal
+- name: "Gabriel Spencer-Harper"
+  type: individual
+  firm: "Meticulous"
+  source: "Co-Founder, Meticulous; drove Series A ($15M, 2026-07-15)"
+  discovered_from: meticulous
+  priority: normal
+- name: "Quentin Spencer-Harper"
+  type: individual
+  firm: "Meticulous"
+  source: "Co-Founder, Meticulous; drove Series A ($15M, 2026-07-15)"
+  discovered_from: meticulous
+  priority: normal
