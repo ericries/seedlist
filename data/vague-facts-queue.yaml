@@ -160805,7 +160805,9 @@ vague_facts:
   line: '| 2024-10-08 | Seed | $45M | — | Engine Ventures, At One Ventures and others [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: corrected round type from "Seed" to "Series A" and added lead investors (Engine Ventures + At One Ventures co-led) plus full syndicate (Angular Ventures, Tamarack Global, Propeller Ventures, Starlight Ventures, Nucleation Capital). Verified via 3 primary sources: (1) BusinessWire press release 2024-10-08 [^2], (2) Power Technology 2024-10-09 [^3], (3) Built In Edinburgh 2024-10-08 [^4]. All 3 sources independently confirm co-lead structure and Series A designation.'
 - profile: startups/boom-supersonic
   profile_name: Boom Supersonic
   company: '2023-11-09'
@@ -160937,7 +160939,9 @@ vague_facts:
   line: '| 2024-07-25 | Series A | $15.5M | — | Motive Partners, Cherry Ventures, FinTech Collective [^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: added lead investor FinTech Collective (verbatim per Toby Triebel partner quote in TechCrunch [^4]) and expanded participant list to include Cherry Ventures, Motive Ventures, Broadhaven Ventures, Tiny VC, plus angels from Klarna/Moonfare/Kinnevik. Primary source: TechCrunch 2024-07-25 article [^4] with direct quote from FinTech Collective partner confirming lead role.'
 - profile: startups/butterfly-medical
   profile_name: Butterfly Medical
   company: '2026-05-14'
@@ -163212,7 +163216,9 @@ vague_facts:
   line: '| 2026-03-25 | Series A | $30M | — | — [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: added lead investor (Headline) and full participant syndicate (Lightspeed Venture Partners, Jibe Ventures, Illuminate Financial, Phoenix Insurance). Verified via 3 primary sources: (1) FinTech Global 2026-03-26 [^1], (2) Yahoo Finance/Business Wire syndication 2026-03-25 [^2], (3) The SaaS News 2026-03 [^3]. Also corrected total_raised to $45M, expanded sector tags (fintech, insurtech, ai, enterprise-software), updated website URL to notch.cx.'
 - profile: startups/nubank
   profile_name: Nubank
   company: '2018-10-08'

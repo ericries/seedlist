@@ -18,7 +18,7 @@ total_raised: €30.1M + $15.5M prior
 investors: []
 firms: []
 founders: []
-last_researched: 2026-05-19
+last_researched: 2026-07-16
 status: published
 ---
 
@@ -31,7 +31,7 @@ bunch is a Berlin-based AI-native fund operations platform building the backbone
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-05-19 | Series B | €30.1M | Portage | Illuminate Financial, Motive Partners, Cherry Ventures, FinTech Collective [^1][^2][^3] |
-| 2024-07-25 | Series A | $15.5M | — | Motive Partners, Cherry Ventures, FinTech Collective [^4] |
+| 2024-07-25 | Series A | $15.5M | FinTech Collective | Cherry Ventures, Motive Ventures, Broadhaven Ventures, Tiny VC, angels from Klarna/Moonfare/Kinnevik [^4] |
 
 ## What Investors Say
 
