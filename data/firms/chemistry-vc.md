@@ -81,7 +81,7 @@ Based on a limited sample of verified Chemistry investments (the firm launched i
 | ComfyUI | Growth (participated, $30M at $500M valuation) | 2026-04-24 | AI / Generative Media | [^12][^16] |
 | Fathom Therapeutics | Series A | 2026-04-27 | Biotech / AI Drug Discovery | [^13] |
 | Nova Intelligence | Series A (led) | 2026-05-05 | AI / Enterprise / SAP Modernization | [^14] |
-| Meticulous | Series A (led, $15M) | 2026-07-15 | Developer Tools / AI Testing | [^19][^20] |
+| Meticulous | Series A (led, $15M; Menlo Ventures + angels from Poolside, Dropbox, Vercel, OpenAI, Stripe, Adobe, Hex, Cursor participated) | 2026-07-15 | Developer Tools / AI Testing | [^19][^20][^21] |
 
 Note: This table represents Chemistry's investments since its October 2024 launch. The partners' extensive pre-Chemistry portfolios at Bessemer, a16z, and Index (including PagerDuty, Intercom, Plaid, Persona, Twitch, LaunchDarkly, ServiceTitan, and others) are attributed to their prior firms.
 
@@ -132,3 +132,5 @@ Note: The above founder quotes are sourced from Chemistry's own website and shou
 [^19]: "Meticulous raises $15m to accelerate the pace of software development," Meticulous blog, July 15, 2026. Accessed July 16, 2026. https://www.meticulous.ai/blog/series-a
 
 [^20]: "Meticulous Series A · $15M raised · (2026)," StartupHub.ai, July 15, 2026. Accessed July 16, 2026. https://www.startuphub.ai/investment_rounds/meticulous-series-a-2026
+
+[^21]: "Meticulous raises $15M to help developers ship AI-generated code faster," Vestbee, July 2026. Accessed July 16, 2026. https://www.vestbee.com/insights/articles/meticulous-raises-15-m — Third independent tier-1 source confirming $15M Series A led by Chemistry with Menlo Ventures participation on 2026-07-15.

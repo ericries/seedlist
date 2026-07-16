@@ -155,7 +155,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Fomo | Series B (led, $75M at ~$550M val) | 2026-06-22 | Fintech / Crypto / Consumer Trading | [^64][^65][^66][^67] |
 | Build | Seed (led, $8.5M) | 2026-06-30 | AI / Proptech / Agentic Real Estate | [^68][^69][^70] |
 | Twelve Labs | Series B (participated, $100M; NEA and NAVER Ventures co-led) | 2026-07-01 | AI / Video Foundation Models | [^71] |
-| Feathery | Series A (participated, $30M total; Portage Ventures led) | 2026-07-14 | Fintech / AI / Financial Services | [^77][^78] |
+| Feathery | Series A (participated, $30M total; Portage Ventures led; Allstate Strategic Ventures, Clocktower Ventures, Erie Strategic Ventures, Bain Capital Ventures participated) | 2026-07-14 | Fintech / AI / Financial Services | [^77][^78][^79] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -296,4 +296,6 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^77]: "Feathery Raises $30M to scale the AI operating & decisioning system for financial services," Feathery blog, July 14, 2026. Accessed July 16, 2026. https://www.feathery.io/blog/feathery-raises-30m-to-scale-the-ai-operating-decisioning-system-for-financial-services — Company's own announcement confirming Index Ventures participation in $30M Series A led by Portage Ventures.
 
 [^78]: "Feathery lands $30m to rewire financial services workflows," FinTech Global, July 15, 2026. Accessed July 16, 2026. https://fintech.global/2026/07/15/feathery-lands-30m-to-rewire-financial-services-workflows/ — Contemporaneous press confirming full investor syndicate: Portage Ventures (lead), Index Ventures, Allstate Strategic Ventures, Clocktower Ventures, Erie Strategic Ventures, Bain Capital Ventures.
+
+[^79]: Ryan W. Neal, "Feathery raises $30 million to power AI-driven RIA operations," InvestmentNews, July 14, 2026. Accessed July 16, 2026. https://www.investmentnews.com/fintech/feathery-raises-30-million-to-power-ai-driven-ria-operations/267406 — Third independent tier-1 press source confirming Index Ventures participated in Portage Ventures-led $30M Series A on 2026-07-14.
 

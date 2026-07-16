@@ -5306,18 +5306,30 @@ priority:
   type: firm
   reason: "appeared in InstaLILY AI Series B (2026-07-14), $60M — Energize Capital led"
   added: 2026-07-16
+  status: resolved
+  resolved: 2026-07-16
+  note: 'Fact-spec sweep 2026-07-16: InstaLILY AI Series B row already present on insight-partners.md (2026-07-14, $60M, Energize Capital led). Tightened row to name Home Depot Ventures and United Rentals as new strategic co-investors. Added 3rd primary source [^54] SiliconANGLE alongside existing [^52] Reuters via TradingView and [^53] Morningstar/AccessWire. Verified via 3+ tier-1 primary sources.'
 
 - slug: chemistry-vc
   type: firm
   reason: "appeared in Meticulous Series A (2026-07-15), $15M — Chemistry led"
   added: 2026-07-16
+  status: resolved
+  resolved: 2026-07-16
+  note: 'Fact-spec sweep 2026-07-16: Meticulous Series A row already present on chemistry-vc.md (2026-07-15, led, $15M). Tightened row to name Menlo Ventures and angels from Poolside, Dropbox, Vercel, OpenAI, Stripe, Adobe, Hex, Cursor. Added 3rd primary source [^21] Vestbee alongside existing [^19] Meticulous blog and [^20] StartupHub.ai. Verified via 3+ primary sources.'
 
 - slug: menlo-ventures
   type: firm
   reason: "appeared in Meticulous Series A (2026-07-15), $15M — participated alongside Chemistry lead"
   added: 2026-07-16
+  status: resolved
+  resolved: 2026-07-16
+  note: 'Fact-spec sweep 2026-07-16: Meticulous Series A row already present on menlo-ventures.md (2026-07-15, participated, Chemistry led). Tightened row to name angel investors from Poolside, Dropbox, Vercel, OpenAI, Stripe, Adobe, Hex, Cursor. Added 3rd primary source [^37] Vestbee alongside existing [^35] Meticulous blog and [^36] StartupHub.ai. Verified via 3+ primary sources.'
 
 - slug: index-ventures
   type: firm
   reason: "appeared in Feathery Series A (2026-07-14), $30M — participated alongside Portage Ventures lead"
   added: 2026-07-16
+  status: resolved
+  resolved: 2026-07-16
+  note: 'Fact-spec sweep 2026-07-16: Feathery Series A row already present on index-ventures.md (2026-07-14, participated, $30M total, Portage Ventures led). Tightened row to name Allstate Strategic Ventures, Clocktower Ventures, Erie Strategic Ventures, and Bain Capital Ventures as co-participants. Added 3rd primary source [^79] InvestmentNews alongside existing [^77] Feathery blog and [^78] FinTech Global. Verified via 3+ primary sources.'

@@ -136,7 +136,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Golden Analytics | Seed Extension ($14M, led) | 2026-06-09 | AI / Business Intelligence | Active | [^46][^47] |
 | Gradial | Series C ($65M, led) | 2026-06-18 | AI / Agents / Marketing | Active ($675M val) | [^48][^49][^50] |
 | InstaLILY AI | Series A ($25M, led) | 2025-08-28 | Vertical AI / Enterprise Agents | Active | [^51] |
-| InstaLILY AI | Series B ($60M, participated; Energize Capital led) | 2026-07-14 | Vertical AI / Enterprise Agents | Active | [^52][^53] |
+| InstaLILY AI | Series B ($60M, participated; Energize Capital led; Home Depot Ventures + United Rentals new) | 2026-07-14 | Vertical AI / Enterprise Agents | Active | [^52][^53][^54] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -225,3 +225,5 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^52]: Reuters via TradingView, "InstaLILY AI Raises $60 Mln Series B Round Led By Energize Capital," July 14, 2026. Confirms Insight Partners participated in the Series B (increased investment). Accessed July 16, 2026. https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43G18M:0-instalily-ai-raises-60-mln-series-b-round-led-by-energize-capital/
 
 [^53]: "InstaLILY Raises $60 Million Series B and Launches Lily, the World's First AI Forward Deployed Engineer," Morningstar/AccessWire, July 14, 2026. Independent confirmation Insight Partners participated in $60M Series B. Accessed July 16, 2026. https://www.morningstar.com/news/accesswire/1190835msn/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-first-ai-forward-deployed-engineer
+
+[^54]: SiliconANGLE, "InstaLILY, a developer of AI teammates that can automate complex, business-specific work, raises $60M," July 14, 2026. Accessed July 16, 2026. https://siliconangle.com/2026/07/14/instalily-developer-ai-teammates-can-automate-complex-business-specific-work-raises-60m/ — Third independent tier-1 press source confirming Insight Partners participated in Energize Capital-led $60M Series B on 2026-07-14, with Home Depot Ventures and United Rentals as new strategic investors.
