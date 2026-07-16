@@ -9,7 +9,7 @@ stage_focus: [seed, series-a]
 sector_focus: [fintech, insurtech, logistics, developer-tools, consumer-internet, deep-tech]
 check_size: "$1M-$5M"
 last_verified_investment:
-  date: 2024
+  date: 2025-01-16
   company: "Ohr"
   round: "Seed"
 social:
@@ -129,7 +129,7 @@ Based on 62 verified portfolio companies listed on Aleph's website [^15], combin
 | Dream | 2023 | Seed | Cybersecurity | Active | [^15] |
 | Sequence | 2023 | Seed | Fintech | Active | [^15] |
 | Spines | 2023 | Seed | Education | Active | [^15] |
-| Ohr | 2024 | Seed | Deep Tech | Active | [^15] |
+| Ohr | 2025-01-16 | Seed (Aleph led; Deep33 Ventures, Standard Industries, KDM Partners, Yasmin Lukatz, 202 Ventures, Clocktower Ventures participated; founder-CEO Dan Davidi) | Synthetic Biology / Chemicals | Active | [^15][^28][^29] |
 | Reeco | 2024 | Seed | Hospitality | Active | [^15] |
 | Waltz | 2024 | Seed | Real Estate | Active | [^15] |
 
@@ -237,3 +237,7 @@ No additional independently sourced founder testimonials found beyond the Lemona
 [^25]: "Daniel Schreiber on Storytelling, Good vs. Bad Investors, Running a Public Company," Invested by Aleph podcast, Spotify, accessed March 2026. https://open.spotify.com/episode/08yMmu80OlhrvCt1rbvbi0
 [^26]: "Daniel Schreiber — Episode 5," Aleph VC Invested podcast, accessed March 2026. https://content.aleph.vc/podcast-episodes/episode-5-daniel-schreiber
 [^27]: Lemonade Inc. Investor Relations, Board of Directors, accessed March 2026. https://www.lemonade.com/investor
+
+[^28]: Aleph LinkedIn announcement post, "Introducing Ohr, the company that will free industries from…," January 2025, accessed July 15, 2026. https://www.linkedin.com/posts/aleph-vc_introducing-ohr-the-company-that-will-free-activity-7285253617979133953-W59V — Primary source confirming Aleph's public unveiling of Ohr on January 16, 2025.
+
+[^29]: Dan Davidi (Ohr founder-CEO) LinkedIn mirror post, "Introducing Ohr, the company that will free industries from…," January 2025, accessed July 15, 2026. https://www.linkedin.com/posts/dan-davidi_introducing-ohr-the-company-that-will-free-activity-7285257365052940289-Oa8W — Founder confirmation of Ohr's public launch on January 16, 2025.

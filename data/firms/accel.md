@@ -237,6 +237,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Hera | Series A ($27M, participated; Bain Capital Ventures led) | 2026-06-25 | Healthcare / Senior Care / AI | [^105][^106][^107] |
 | Tomo | Seed ($5M, participated; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | [^108][^109][^110] |
 | Pocket | Seed ($11M, led) | 2026-06-29 | AI / Consumer Hardware | [^111][^112][^113] |
+| Oak | Seed ($60M, co-led with CRV and Greylock Partners) | 2026-07-15 | Cybersecurity / Identity / AI-Native IAM | [^128][^129][^130] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -483,3 +484,9 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^126]: Cloudera press release, "Cloudera, The Commercial Hadoop Company, Announces $5 Million Series A Financing Led By Accel Partners," March 16, 2009. Accessed July 2026. https://www.cloudera.com/about/news-and-blogs/press-releases/2009-03-16-cloudera-the-commercial-hadoop-company-announces-5-million-series-a-financing-led-by-accel-partners.html — Primary source from Cloudera confirming USD 5M Series A led by Accel Partners on 2009-03-16, coinciding with general availability of Cloudera Distribution for Hadoop.
 
 [^127]: Accel portfolio page for Cloudera, accessed July 2026. https://www.accel.com/companies/cloudera — Names Ping Li as the Accel partner leading the Cloudera investment. Accel's internal classification lists the first check as "Seed" with a 2008 first-investment date, but the publicly-announced institutional round was the Series A on 2009-03-16 per [^125] and [^126]; the 2008 date most likely reflects Accel's early relationship with the founders as the company was being incorporated (Cloudera was founded in late 2008 and emerged from stealth alongside the Series A announcement).
+
+[^128]: Ingrid Lunden, "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse," TechCrunch, July 15, 2026. Accessed July 2026. https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/ — Confirms Oak's $60M seed announced 2026-07-15, co-led by Accel, CRV, and Greylock Partners with participation from AlphaDrive Ventures, Hetz Ventures, and angels. Names Andrei Brasoveanu (Accel) as backing Shai Morag a second time.
+
+[^129]: "Oak Raises $60M in Seed Funding to Build the AI-Native Identity Operating System," Yahoo Finance, July 15, 2026. Accessed July 2026. https://finance.yahoo.com/technology/ai/articles/oak-raises-60m-seed-funding-111700598.html — Contemporaneous confirmation of Accel, CRV, Greylock co-leading the round.
+
+[^130]: "Israeli AI cybersecurity co Oak raises $60m," Globes, July 15, 2026. Accessed July 2026. https://en.globes.co.il/en/article-israeli-ai-cybersecurity-co-oak-raises-60m-1001549415 — Third independent confirmation of the round size, lead investors, and founding team.

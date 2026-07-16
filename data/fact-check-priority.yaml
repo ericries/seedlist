@@ -5211,4 +5211,16 @@ priority:
   type: firm
   reason: "participated in Oratomic Series A (2026-07-07), $300M"
   added: 2026-07-09
+- slug: accel
+  type: firm
+  reason: "co-led Oak seed (2026-07-15), $60M"
+  added: 2026-07-15
+- slug: crv
+  type: firm
+  reason: "co-led Oak seed (2026-07-15), $60M"
+  added: 2026-07-15
+- slug: greylock
+  type: firm
+  reason: "co-led Oak seed (2026-07-15), $60M"
+  added: 2026-07-15
 

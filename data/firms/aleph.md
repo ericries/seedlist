@@ -112,7 +112,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | MyInterview | Seed | 2020 | HR Tech | Acquired by Radancy | [^9] |
 | Nexar | Seed | ~2015 | Automotive / AI | Active | [^9] |
 | NextSilicon | Series A | ~2019 | Deep Tech / Semiconductors | Active | [^9] |
-| Ohr | Pre-Seed + Seed (~$30M aggregate; Aleph anchor; publicly unveiled ~Jan 2025) | ~2024–2025 | Synthetic Biology / Chemicals | Active | [^9] [^25] [^26] |
+| Ohr | Seed (Aleph led; founder-CEO Dan Davidi; per ohr.xyz: Deep33 Ventures, Standard Industries, KDM Partners, Yasmin Lukatz, 202 Ventures, Clocktower Ventures participated; total raised undisclosed in primary sources) | 2025-01-16 | Synthetic Biology / Chemicals | Active | [^9] [^25] [^26] [^30] [^31] |
 | OneStep | Seed | 2020 | Healthcare | Active | [^9] |
 | Panorays | Series A | ~2017 | Cybersecurity / Data | Active | [^9] |
 | Placer.ai | Series A | ~2019 | Real Estate / Analytics | Active (Unicorn) | [^9] |
@@ -228,3 +228,7 @@ No additional independently sourced founder testimonials found beyond the Aleph 
 [^28]: Calcalist / CTech, "Reeco raises $15M Series A to modernize hotel procurement," January 15, 2025, accessed July 9, 2026. https://www.calcalistech.com/ctechnews/article/skp0csnpke — Independent Israeli tech press confirmation of January 15, 2025 announcement; $15M Series A led by Aleph VC; Net Capital Ventures and Joule Ventures participated.
 
 [^29]: Refresh Miami, "Reeco raises $15M to modernize hotel procurement," January 15, 2025, accessed July 9, 2026. https://refreshmiami.com/news/reeco-raises-15m-to-modernize-hotel-procurement/ — Independent Miami-area tech press confirmation of Series A. CEO Henrik Shimony quote: "Managing a hotel's six-figure purchases with outdated tools made no sense." Confirms $10M seed round in 2023 (bringing total to $25M) plus $15M Series A led by Aleph VC with Net Capital Ventures and Joule Ventures participating.
+
+[^30]: Aleph LinkedIn announcement post, "Introducing Ohr, the company that will free industries from…," January 2025, accessed July 15, 2026. https://www.linkedin.com/posts/aleph-vc_introducing-ohr-the-company-that-will-free-activity-7285253617979133953-W59V — Primary source. Public unveiling of Ohr by Aleph on January 16, 2025 (per LinkedIn post ID). Confirms Michael Eisenberg as investing partner and founder Dan Davidi's sulfur-free rocket fuel focus.
+
+[^31]: Dan Davidi (Ohr founder-CEO) LinkedIn mirror post, "Introducing Ohr, the company that will free industries from…," January 2025, accessed July 15, 2026. https://www.linkedin.com/posts/dan-davidi_introducing-ohr-the-company-that-will-free-activity-7285257365052940289-Oa8W — Primary source. Founder confirmation of Ohr's public launch, minutes after Aleph's announcement on January 16, 2025.

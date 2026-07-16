@@ -37764,3 +37764,161 @@ queue:
   added: '2026-03-17'
   firm: The Holocene Foundation
   discovered_from: christian-chabot
+- name: Shai Morag
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Oak
+  discovered_from: oak-identity
+  source: CEO & Co-Founder, Oak; announced $60M seed 2026-07-15; prior founder of
+    Ermetic (acquired by Tenable 2023)
+- name: Tal Marom
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Oak
+  discovered_from: oak-identity
+  source: CPO & Co-Founder, Oak; prior Ermetic executive
+- name: Andrei Brasoveanu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Accel
+  discovered_from: oak-identity
+  source: Partner at Accel, quoted on Oak seed round (2026-07-15); previously backed
+    Shai Morag
+- name: M13 Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rime
+  source: Led Rime $24M Series A 2026-07-15
+- name: Morgan Blumberg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: M13 Ventures
+  discovered_from: rime
+  source: Partner at M13, joined Rime board with Series A (2026-07-15)
+- name: Lily Clifford
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Rime
+  discovered_from: rime
+  source: CEO & Co-Founder, Rime; raised $24M Series A 2026-07-15
+- name: Corazon Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rime
+  source: Participated in Rime $24M Series A 2026-07-15
+- name: AlphaDrive Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: oak-identity
+  source: Participated in Oak $60M seed 2026-07-15
+- name: Cadenza Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rime
+  source: Participated in Rime $24M Series A 2026-07-15
+- name: SWEN Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: syntetica
+  source: Participated in Syntetica Series A (2026-07-15)
+- name: CHAPTERS Group AG
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: float-financing
+  source: Led Float Series A (2026-07-15)
+- name: Newion
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nopan
+  source: Led Nopan seed (2026-07-14)
+- name: Crane Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nopan
+  source: Participated in Nopan seed (2026-07-14)
+- name: Anamcara Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prolo
+  source: Participated in Prolo seed (2026-07-14)
+- name: Concrete VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prolo
+  source: Participated in Prolo seed (2026-07-14)
+- name: Foundation Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prolo
+  source: Participated in Prolo seed (2026-07-14)
+- name: Haatch
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prolo
+  source: Participated in Prolo seed (2026-07-14)
+- name: Marco Bertone
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Syntetica
+  discovered_from: syntetica
+  source: Co-founder & CEO
+- name: Cedric Notz
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Float
+  discovered_from: float-financing
+  source: Co-founder & CEO
+- name: Konstantin Surkov
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Nopan
+  discovered_from: nopan
+  source: Co-founder & CEO (ex-Netflix payments)
+- name: James Morris-Manuel
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Prolo
+  discovered_from: prolo
+  source: Founder & CEO; prior founder Virtual Walkthrough (acq. Matterport)

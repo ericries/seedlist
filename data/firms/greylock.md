@@ -243,6 +243,7 @@ The following table includes companies identified from Greylock's website portfo
 | Wiz | Series A | ~2020 (founded) | Cybersecurity | Private [^8] |
 | Workday | Series B | 2006 | Enterprise SaaS / HR | Public (IPO 2012) [^2][^8] |
 | Vori | Series B (participated, $22M) | 2026-05-05 | Grocery Tech / AI / Vertical SaaS | Private [^25] |
+| Oak | Seed (co-led with Accel and CRV, $60M) | 2026-07-15 | Cybersecurity / Identity / AI-Native IAM | Private [^oak1][^oak2][^oak3] |
 
 *Note: This table includes approximately 100 of the 130+ companies listed on Greylock's portfolio page, plus several additional companies from other sources. Investment stages and years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Greylock has invested in approximately 478 companies total per Tracxn [^5]; this table represents approximately 21% of the full portfolio, biased toward the firm's most notable and currently highlighted investments.*
 
@@ -391,3 +392,9 @@ Citron was transparent with his investors about metrics and traction of their ga
 [^41]: Wealthfront Blog, "Everyone Deserves Sophisticated Investment Advice," March 20, 2013, accessed July 2026. https://www.wealthfront.com/blog/finance-tech-startup-funding-2013 — Wealthfront's own announcement of its $20M Series B on March 20, 2013 led by Mike Volpi (Index Ventures), with Chamath Palihapitiya (Social+Capital), Reid Hoffman (Greylock), and John Cadeddu (DAG Ventures) participating.
 
 [^42]: TechCrunch, "Wealthfront, The Investing Service That Has Made Me Money, Raises $20M From Index, Greylock and Social+Capital Partnership," March 20, 2013, accessed July 2026. https://techcrunch.com/2013/03/20/wealthfront-the-investing-service-that-has-made-me-money-raises-20m-from-index-greylock-and-socialcapital-partnership/ — Independent contemporaneous confirmation of the March 20, 2013 announcement, $20M Series B led by Index Ventures with Greylock and Social+Capital.
+
+[^oak1]: Ingrid Lunden, "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse," TechCrunch, July 15, 2026. Accessed July 2026. https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/ — Confirms Greylock as a co-lead of Oak's $60M seed with Accel and CRV, announced 2026-07-15.
+
+[^oak2]: "Oak Raises $60M in Seed Funding to Build the AI-Native Identity Operating System," PR Newswire, July 15, 2026. Accessed July 2026. https://www.prnewswire.com/il/news-releases/oak-raises-60m-in-seed-funding-to-build-the-ai-native-identity-operating-system-302826349.html — Primary press wire confirmation of round size and co-leads.
+
+[^oak3]: "Israeli AI cybersecurity co Oak raises $60m," Globes, July 15, 2026. Accessed July 2026. https://en.globes.co.il/en/article-israeli-ai-cybersecurity-co-oak-raises-60m-1001549415 — Independent Israeli-press confirmation of the round.
