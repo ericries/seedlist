@@ -37,6 +37,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: SWISSto12 secures €61 million Series C amid rising demand for sovereign space
+    infrastructure
+  url: https://www.eu-startups.com/2026/07/swissto12-secures-e61-million-series-c-amid-rising-demand-for-sovereign-space-infrastructure/
+  source: eu-startups
+  date_found: '2026-07-16'
+  parsed_company: SWISSto12
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: Espoo-based Hyperion Robotics raises €6.4 million to bring physical AI to
+    European infrastructure
+  url: https://www.eu-startups.com/2026/07/espoo-based-hyperion-robotics-raises-e6-4-million-to-bring-physical-ai-to-european-infrastructure/
+  source: eu-startups
+  date_found: '2026-07-16'
+  parsed_company: Espoo-based Hyperion Robotics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: CNB Financial Corporation Announces Quarterly Dividend for Series A Preferred
     Stock and Related Depositary Shares Distribution
   url: https://www.globenewswire.com/news-release/2026/07/14/3327266/0/en/CNB-Financial-Corporation-Announces-Quarterly-Dividend-for-Series-A-Preferred-Stock-and-Related-Depositary-Shares-Distribution.html
@@ -849,15 +867,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-06-30'
   parsed_company: Austrian BioTech startup Epitome Therapeutics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: British-U.S. startup Build secures €7.4 million to accelerate “agentic real
-    estate” platform
-  url: https://www.eu-startups.com/2026/06/british-u-s-startup-build-secures-e7-4-million-to-accelerate-agentic-real-estate-platform/
-  source: eu-startups
-  date_found: '2026-06-30'
-  parsed_company: British-U.S. startup Build
   parsed_amount: null
   parsed_round: null
   status: pending
