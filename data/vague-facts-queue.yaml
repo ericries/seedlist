@@ -30499,7 +30499,10 @@ vague_facts:
   line: '| Drafted | n/a | 2025-2026 | AI / Proptech / Generative Design | Private ($16M Seed 2026-05-29, Buckley Ventures-led; Y'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  investigated: '2026-07-16'
+  resolved: '2026-07-16'
+  resolution_note: 'Batch tightened from "n/a" to "Spring 2026". Y Combinator official companies page (https://www.ycombinator.com/companies/drafted) explicitly lists Batch: Spring 2026. Cross-confirmed by Clara sibling company from same batch (https://www.ycombinator.com/companies/clara-2) which also lists Spring 2026. Existing sources [^46] The SaaS News, [^47] AI Business Weekly, [^48] YC directory already confirm Drafted as YC portfolio company — batch code was the only missing detail.'
 - profile: investors/0xsmac
   profile_name: 0xSmac
   company: The Graph
@@ -82152,14 +82155,17 @@ vague_facts:
   status: pending
 - profile: investors/immad-akhund
   profile_name: Immad Akhund
-  company: ~unknown
+  company: Clara
   section: Portfolio
   column: 3
   value: undisclosed
-  line: ~unknown| Clara | Angel | undisclosed | AI Healthcare | Active | [^3] |
+  line: '| Clara | Pre-Seed ($12M) | 2026-05-14 | AI Healthcare | Active | [^15][^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  investigated: '2026-07-16'
+  resolved: '2026-07-16'
+  resolution_note: 'Clara row cleaned up from malformed "~unknown| Clara | Angel | undisclosed | AI Healthcare" (LinkedIn-only citation [^3]) to "| Clara | Pre-Seed ($12M) | 2026-05-14 | AI Healthcare" with 2 primary sources: (1) Clara own launch announcement https://askclara.com/blog/clara-launch dated May 14, 2026 explicitly naming Immad Akhund as a pre-seed participant alongside Y Combinator + A.Capital (leads), Liquid 2 Ventures (Joe Montana, Matthew Mulvey), SV Angel, Tim Abbott, Vinny Lingham, Jude Gomilla, Kevin Hartz, Brian Pokorny, Dan Burleigh; (2) YC Companies Directory https://www.ycombinator.com/companies/clara-2 confirming Clara as Spring 2026 batch, founded 2025 by George Favvas (ex-Circle Medical CEO), Zeeshan Ahmed, Caitlin Swift. Removed LinkedIn [^3] as unverifiable source (Mercury investor DB and Boring Business Nerd — both cited elsewhere — do NOT list Clara). Also updated: last_verified_investment (Axiom Trust 2026-03 → Clara 2026-05-14), added [^15] to inferred-thesis Clara mention, added [^15] and [^16] to Sources.'
 - profile: investors/iqram-magdon-ismail
   profile_name: Iqram Magdon-Ismail
   company: Flutterwave (advisor)
@@ -133568,14 +133574,17 @@ vague_facts:
   status: pending
 - profile: investors/ritesh-agarwal
   profile_name: Ritesh Agarwal
-  company: ~unknown
+  company: CRED
   section: Portfolio
   column: 2
   value: n/a
-  line: ~unknown| CRED | n/a | Growth (top revenue contributor per PrivateCircle) | [^5] |
+  line: '| CRED | Undated | Growth (top revenue contributor per PrivateCircle 2024; no specific round or date independently verifiable in press) | [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  investigated: '2026-07-16'
+  resolved: '2026-07-16'
+  resolution_note: 'CRED investment year cannot be independently verified. Aroa Ventures'' 2024 portfolio revenue analysis by PrivateCircle (blog.privatecircle.co/aroa-venturess-portfolio-overview-2024) flags CRED as a top revenue contributor but does NOT disclose when Aroa/RA Holdings/Ritesh Agarwal took the position. Reviewed Entrackr (2020-07 Aroa launch coverage), BusinessToday (2020-07-30), inc42 buzz post, KrASIA, Business Insider India (Aroa family office deep-dive) — none names CRED as an Aroa investment with a specific round or date. CRED''s Crunchbase and Tracxn round-by-round investor lists do not surface RA Holdings or Aroa in any Series A–F. Data cleanup: malformed table row prefix "~unknown|" removed and year shifted to "Undated" per anti-hallucination rule #3 (never guess). Same cleanup applied to sibling rows (Cars24, Miko, Zorro, GrowthSchool) which had identical formatting bug.'
 - profile: investors/rob-citrone
   profile_name: Rob Citrone
   company: Compass (real estate)

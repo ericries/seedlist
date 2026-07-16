@@ -68,11 +68,11 @@ This table covers only investments independently verified in press; it represent
 | Dukaan | 2021 | Pre-Series A ($11M round) | [^11] |
 | Nas Academy | ~2021 | Seed (per Aroa portfolio listings) | [^12] |
 | Nektar.ai | ~2021 | Seed (per Tracxn) | [^13] |
-~unknown| CRED | n/a | Growth (top revenue contributor per PrivateCircle) | [^5] |
-~unknown| Cars24 | n/a | Growth (top revenue contributor per PrivateCircle) | [^5] |
-~unknown| Miko | n/a | Listed in personal portfolio per Tracxn/YNOS | [^13] |
-~unknown| Zorro | n/a | Listed in personal portfolio per Tracxn/YNOS | [^13] |
-~unknown| GrowthSchool | n/a | Listed in personal portfolio per Tracxn/YNOS | [^13] |
+| CRED | Undated | Growth (top revenue contributor per PrivateCircle 2024; no specific round or date independently verifiable in press) | [^5] |
+| Cars24 | Undated | Growth (top revenue contributor per PrivateCircle 2024; no specific round or date independently verifiable in press) | [^5] |
+| Miko | Undated (Tracxn/YNOS listing, accessed 2024) | Personal portfolio entry per aggregators; no specific round or date confirmed in press | [^13] |
+| Zorro | Undated (Tracxn/YNOS listing, accessed 2024) | Personal portfolio entry per aggregators; no specific round or date confirmed in press | [^13] |
+| GrowthSchool | Undated (Tracxn/YNOS listing, accessed 2024) | Personal portfolio entry per aggregators; no specific round or date confirmed in press | [^13] |
 
 ## In Their Own Words
 

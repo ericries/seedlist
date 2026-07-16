@@ -9,9 +9,9 @@ stage_focus: [pre-seed, seed]
 sector_focus: [fintech, saas, ai, healthcare, consumer, enterprise]
 check_size: "$50K-$100K"
 last_verified_investment:
-  date: 2026-03
-  company: "Axiom Trust"
-  round: "Seed"
+  date: 2026-05-14
+  company: "Clara"
+  round: "Pre-Seed"
 social:
   twitter: "@immad"
   linkedin: "linkedin.com/in/iakhund"
@@ -45,7 +45,7 @@ This analysis is based on a sample of ~17 publicly identified portfolio companie
 
 **Stage:** Pre-seed and seed only. Sweet-spot check is $50K with a $50K–$100K range [^1][^6]. He explicitly does not lead rounds [^1][^6].
 
-**Sector orientation (qualitative, from named investments):** Heavily weighted toward SaaS / productivity / developer infrastructure (Airtable, Linear, Substack, Rippling), fintech (Jeeves, AtoB, Rappi), and healthcare (Nurx, Vitable Health, Pair Team, Thirty Madison, Clara) [^1][^8][^12]. He explicitly excludes biotech and hard tech as categories [^1] — though Gecko Robotics (industrial robotics) and Applied Intuition (autonomous-vehicle simulation) sit on the harder-tech edge of his book [^4][^7].
+**Sector orientation (qualitative, from named investments):** Heavily weighted toward SaaS / productivity / developer infrastructure (Airtable, Linear, Substack, Rippling), fintech (Jeeves, AtoB, Rappi), and healthcare (Nurx, Vitable Health, Pair Team, Thirty Madison, Clara) [^1][^8][^12][^15]. He explicitly excludes biotech and hard tech as categories [^1] — though Gecko Robotics (industrial robotics) and Applied Intuition (autonomous-vehicle simulation) sit on the harder-tech edge of his book [^4][^7].
 
 **Geographic concentration:** Predominantly San Francisco / Bay Area, with significant non-Bay outliers (Rappi in Bogotá, Jeeves in Miami, Thirty Madison in NYC, Vitable Health in Philadelphia) [^8]. Stated geography is global [^1].
 
@@ -84,7 +84,7 @@ This table includes 17 publicly named investments. Akhund's true portfolio is re
 | Thirty Madison | Angel | ~2017 (founding year) | Healthcare | Active | [^8] |
 | Honey Homes | Angel | ~2021 (founding year) | Home Services | Active | [^8] |
 | Golden | Angel | ~2019 (founding year) | Edtech/Crypto | Active | [^8] |
-~unknown| Clara | Angel | undisclosed | AI Healthcare | Active | [^3] |
+| Clara | Pre-Seed ($12M) | 2026-05-14 | AI Healthcare | Active | [^15][^16] |
 
 *Notable miss: Akhund passed on Scale AI's early round because he judged the founders, then 19 and 20, too young — a decision he has publicly cited as the angel investing mistake he most regrets [^11].*
 
@@ -148,3 +148,5 @@ No independently sourced founder testimonials about working with Akhund as an an
 [^12]: Mercury (X / Twitter), "@immad Immad Akhund is the CEO of Mercury and is a serial founder & investor... He's also an investor in 200+ startups, incl. Nurx, AirTable, Rappi, & Substack," March 28, 2022. https://x.com/mercury/status/1508508031763595265
 [^13]: The Full Ratchet, "Episode 398: Behind the Scenes at Mercury During the SVB Crisis, Tactical Fundraising Advice for Founders, Lessons from 300+ Angel Investments (Immad Akhund)," August 28, 2023. https://fullratchet.net/398-behind-the-scenes-at-mercury-during-the-svb-crisis-tactical-fundraising-advice-for-founders-lessons-from-300-angel-investments-immad-akhund/
 [^14]: Tech Funding News, "Cambridge-educated immigrant founder raises $200M at $5.2B to build the fintech Silicon Valley never had," accessed June 2026. https://techfundingnews.com/cambridge-educated-immigrant-founder-raises-200m-at-5-2b-to-build-the-fintech-silicon-valley-never-had/
+[^15]: Clara blog, "Clara launches with $12M pre-seed round, joins Y Combinator," May 14, 2026. Accessed July 2026. https://askclara.com/blog/clara-launch — Company announcement of $12M pre-seed round led by Y Combinator and A.Capital, with participation from Liquid 2 Ventures (Joe Montana and Matthew Mulvey), SV Angel, Tim Abbott, Immad Akhund, Vinny Lingham, Jude Gomilla, Kevin Hartz, Brian Pokorny, and Dan Burleigh. Confirms Akhund as an angel participant.
+[^16]: Y Combinator Companies Directory, "Clara: AI primary care doctor." Accessed July 2026. https://www.ycombinator.com/companies/clara-2 — Confirms Clara as Y Combinator Spring 2026 batch company, founded 2025 by George Favvas (CEO, ex-Circle Medical), Zeeshan Ahmed, and Caitlin Swift. Lists $12M pre-seed from YC and A.Capital.
