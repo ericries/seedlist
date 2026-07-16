@@ -16,9 +16,14 @@ firms:
   round: series-c
   slug: khosla-ventures
   year: 2026
-- round: Seed
+- date: 2023-06-16
+  round: seed
   slug: 1517-fund
-  year: 2020
+  year: 2023
+- date: 2023-06-16
+  round: seed
+  slug: sequoia-capital
+  year: 2023
 founded: 2023
 founders:
 - name: Ethan Thornton
@@ -71,6 +76,9 @@ The company was founded in 2023 by Ethan Thornton, who dropped out of MIT as a t
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
+| 2023-06-16 | Seed | $5.7M | Sequoia Capital | Marque VC, Champion Hill Ventures, 1517 Fund [^4][^5][^6] |
+| 2023-10-04 | Series A | $79M | Bedrock Capital | DCVC, Marque VC [^6] |
+| 2025-06-17 | Series B | $100M | Khosla Ventures, Bedrock Capital | [^7] |
 | 2026-06-02 | Series C | $300M | Ribbit Capital, Infinite Capital | Bedrock Capital, Sequoia Capital, Khosla Ventures [^1][^2][^3] |
 
 The June 2026 Series C valued Mach Industries at $1.8 billion, nearly four times its $470 million Series B valuation from approximately 12 months earlier [^2][^3]. Capital will fund execution of government contracts, talent acquisition, second-generation systems, and expansion of the Forge manufacturing network and Mach Propulsion [^1].
@@ -88,3 +96,7 @@ No independently sourced investor quotes found at this time.
 [^1]: "Mach Industries Raises $300 Million in Series C Funding," PR Newswire press release, June 2, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/mach-industries-raises-300-million-in-series-c-funding-302787788.html
 [^2]: Brianna Wessling, "Autonomous defense manufacturer Mach Industries raises $300M," The Robot Report, June 2026. Accessed June 2026. https://www.therobotreport.com/autonomous-defense-manufacturer-mach-industries-raises-300m/
 [^3]: "MIT dropout's Mach Industries bags $300M at $1.8B valuation as defence manufacturing enters a new era," Tech Funding News, June 2026. Accessed June 2026. https://techfundingnews.com/mit-dropouts-mach-industries-bags-300m-at-1-8b-valuation-as-defence-manufacturing-enters-a-new-era/
+[^4]: PR Newswire, "Sequoia Capital Partners with Mach Industries to Revolutionize Defense Technology for the United States," June 16, 2023, accessed July 2026. https://www.prnewswire.com/news-releases/sequoia-capital-partners-with-mach-industries-to-revolutionize-defense-technology-for-the-united-states-301852798.html — Primary company press release confirming USD 5.7M seed led by Sequoia Capital (Stephanie Zhan and Shaun Maguire) with Marque VC and Champion Hill Ventures participating; Sequoia's first-ever defense-tech investment.
+[^5]: Sequoia Capital, "Partnering with Mach Industries: A New Generation of Defense Technology," June 15, 2023, accessed July 2026. https://sequoiacap.com/article/partnering-with-mach-a-new-generation-of-defense-technology/ — Sequoia's own first-party partnership post; confirms Sequoia leads Mach's seed round.
+[^6]: TechCrunch, "Defense startup Mach Industries closes $79M Series A at $335M valuation," October 4, 2023, accessed July 2026. https://techcrunch.com/2023/10/04/defense-startup-mach-industries-closes-79m-series-a-at-335m-valuation/ — Retrospectively confirms USD 5.7M seed led by Sequoia Capital with Champion Hill Ventures and 1517 Fund among participants; confirms Series A led by Bedrock Capital with DCVC and Marque participating.
+[^7]: TechCrunch, "Two-year-old defense tech Mach Industries confirms $100M raise led by Khosla, Bedrock," June 17, 2025, accessed July 2026. https://techcrunch.com/2025/06/17/two-year-old-defense-tech-mach-industries-confirms-100m-raise-led-by-khosla-bedrock/ — Series B round; Khosla Ventures and Bedrock Capital co-lead.

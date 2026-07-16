@@ -74,8 +74,8 @@ This table represents approximately 22 of ~105 known investments (about 21%). Th
 | Eeva | ~2020 | Pre-Seed | [^1] |
 | Rainmaker | ~2021 | Pre-Seed | [^1] [^5] |
 | Xona Space | 2020-05-14 | Pre-Seed (1517 led, $1M; Seraphim, Trucks, Stellar participated) | [^1] [^5] [^16] [^17] |
-| Mach Industries | ~2020 | Seed | [^9] |
-| Stark Therapeutics | ~2021 | Pre-Seed | [^5] |
+| Mach Industries | 2023-06-16 | Seed (USD 5.7M; Sequoia Capital led — first-ever Sequoia defense-tech investment; Marque VC + Champion Hill Ventures per PR Newswire; 1517 Fund named in TechCrunch's October 2023 Series A retrospective) | [^9] [^24] [^25] |
+| Stark Therapeutics | 2018 (founding year proxy; specific seed date not disclosed in primary sources) | Pre-Seed (aggregator-only 1517 attribution; company primary sources give no dated announcement; ~USD 650K total per Pitchbook) | [^5] [^26] |
 | Positron | ~2022 | Pre-Seed | [^5] |
 | Trilobio | ~2022–2024 (pre-seed date undisclosed) | Pre-Seed (USD 3M; Argon Ventures + Lowercarbon Capital named as pre-seed leads; 1517 Fund confirmed in cumulative "over USD 11M raised" investor summary in the 2025-05-05 seed announcement but not named in pre-seed primary press) | [^7] [^23] |
 | Fleet | ~2017 | Pre-Seed | [^12] |
@@ -149,3 +149,6 @@ On the Deepgram investment, Strachman has described how she initially discourage
 [^21]: Cents company press release, "Cents Announces $4.25M Fundraising Round," accessed July 2026. https://www.trycents.com/news/cents-announces-4.25m-fundraising-round — Confirms Bessemer Venture Partners led the $4.25M seed with Newfund Capital, Riverpark Ventures, 1517 Fund, and Jason Finger participating.
 [^22]: Crunchbase, "Seed Round — Cents — 2020-11-01," accessed July 2026. https://www.crunchbase.com/funding_round/cents-ba2f-seed--fe92f668 — Records Cents seed round with 2020-11-01 date (likely Form D filing), distinct from 2021-02-15 public announcement.
 [^23]: SynBioBeta, "Trilobio Raises $8m to Deliver Whole Lab Automation for Biologists," May 5, 2025, accessed July 2026 — Trade press coverage of Initialized Capital-led $8M seed; total funding "over $11 million" including 1517 Fund among earlier investors. https://www.synbiobeta.com/read/trilobio-raises-8m-to-deliver-whole-lab-automation-for-biologists
+[^24]: PR Newswire, "Sequoia Capital Partners with Mach Industries to Revolutionize Defense Technology for the United States," June 16, 2023, accessed July 2026 (primary company press release confirming USD 5.7M seed led by Sequoia Capital with Marque VC and Champion Hill Ventures participating; Sequoia's first-ever defense-tech investment). https://www.prnewswire.com/news-releases/sequoia-capital-partners-with-mach-industries-to-revolutionize-defense-technology-for-the-united-states-301852798.html
+[^25]: Sequoia Capital, "Partnering with Mach Industries: A New Generation of Defense Technology," June 15, 2023, accessed July 2026 (Sequoia's own first-party partnership announcement posted one day before PR Newswire release). https://sequoiacap.com/article/partnering-with-mach-a-new-generation-of-defense-technology/
+[^26]: Stark Therapeutics company website, accessed July 2026. https://starktx.com/ — Company primary source; site header and navigation only, no funding history or investor list disclosed. Aggregator sources (Pitchbook, Tracxn, Crunchbase) list 1517 Fund and Reinforced Ventures as investors with ~USD 650K total; no dated primary press for a 1517-branded seed round exists.

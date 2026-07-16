@@ -233,7 +233,9 @@ vague_facts:
   line: '| Mach Industries | Seed | 2023-06 | Defense / Unmanned Systems | [^4][^36][^45] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: tightened Mach Industries row on 1517-fund.md (was "Seed | 2023-06" → now "Seed (USD 5.7M; Sequoia Capital led — first-ever Sequoia defense-tech investment; Marque VC + Champion Hill Ventures per PR Newswire; 1517 Fund named in TechCrunch October 2023 retrospective) | 2023-06-16") via 3 primary sources: PR Newswire company press release [^66] (2023-06-16, names Sequoia + Marque VC + Champion Hill Ventures), Sequoia Capital first-party blog [^67] (2023-06-15, confirms Sequoia leads), TechCrunch Oct 2023 Series A retrospective [^45] (confirms 1517 Fund + Champion Hill Ventures participation). Parallel updates: michael-gibson.md ([^29][^30][^31]), danielle-strachman.md ([^24][^25]), mach-industries.md startup profile (added 2023-06-16 Seed + 2023-10-04 Series A + 2025-06-17 Series B rows with [^4][^5][^6][^7]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Rainmaker
@@ -370,7 +372,9 @@ vague_facts:
   line: '| Stark Therapeutics | Seed | 2018 | Therapeutics | [^5][^43] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: Stark Therapeutics 1517 attribution is aggregator-only (Pitchbook, Tracxn, Crunchbase list 1517 Fund + Reinforced Ventures with ~USD 650K total). Company primary source (starktx.com) shows only header/logo, no funding history or investor list disclosed. 1517 Fund own jobs board lists Stark Therapeutics as a portfolio company but with no date/amount detail. Wefunder crowdfunding presence per KingsCrowd summary but no dated press announcement. Row tightened inline on 1517-fund.md to reflect "aggregator-only 1517 attribution" + [^68] company website source added. Parallel update on danielle-strachman.md ([^26]). Same pattern as FOSSA/Fountain/Deepgram/CalWave cases previously flagged. Per anti-hallucination rule ("When in doubt, leave it out"), no discrete YYYY-MM-DD entered; 2018 founding year retained as proxy with explanatory note.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Pareto
@@ -380,7 +384,9 @@ vague_facts:
   line: '| Pareto | Seed | 2022 | AI | [^4][^44] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: tightened Pareto row on 1517-fund.md (was "Seed | 2022" → now "Seed (USD 4.5M; TechCrunch primary press names MaC Venture Capital + Seabed VC + Soma Capital + Fearless Fund + Liquid2 Ventures + Slope Agency + Jonathan Swanson — 1517 Fund NOT independently named in primary press; only Crunchbase (aggregator) lists 1517 as participant) | 2022-03-14 (public announcement per TechCrunch; round closed November 2021)"). 3 primary sources: TechCrunch Christine Hall 2022-03-14 [^69] (NEW — names MaC Venture Capital + Seabed VC + Soma Capital + Fearless Fund + Liquid2 Ventures + Slope Agency + Jonathan Swanson; 1517 NOT named) + Crunchbase seed round profile [^44] (existing — lists 1517 Fund only via aggregator attribution) + Tracxn [^4] (existing — aggregator). Same aggregator-only pattern as FOSSA/Fountain/Deepgram cases. Row retained with explanatory note flagging the aggregator-only attribution; exact date 2022-03-14 now anchored via primary press.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Rainmaker (Series A follow-on)
@@ -4639,7 +4645,7 @@ vague_facts:
   line: '| Nexthop AI | Series A | 2024 | AI / Networking | Active | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/battery-ventures
   profile_name: Battery Ventures
   company: Orkes
@@ -4649,7 +4655,7 @@ vague_facts:
   line: '| Orkes | Series B (2026-04-23) | 2026 | AI / Workflow Orchestration | Active | [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/battery-ventures
   profile_name: Battery Ventures
   company: Blitzy
@@ -166268,7 +166274,7 @@ vague_facts:
   line: '| Ulysses | Series A | 2026 | Autonomous / Ocean Tech | Private [^31] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: investigating
 - profile: firms/atomic
   profile_name: Atomic
   company: Elly
