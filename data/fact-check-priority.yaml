@@ -5143,14 +5143,23 @@ priority:
   type: firm
   reason: "appeared in Pearl Health Series C (2026-07-08), $50M equity"
   added: 2026-07-08
+  status: resolved
+  resolved: 2026-07-15
+  resolution_note: 'Fact-spec sweep 2026-07-15: Pearl Health Series C row already resolved (2026-07-08, $50M equity + $60M debt, a16z led equity per PR Newswire/Cooley/AlleyWatch). Additionally tightened Smart Bricks row from "Pre-Seed | 2026" to "Pre-Seed (led via a16z speedrun, $5M; Mohamed Mohamed founder) | 2026-02-10" via 3 primary sources: TechCrunch exclusive (2026-02-10) [^138], Yahoo Finance/PR Newswire syndication (2026-02-11) [^139], and existing PR Newswire release [^23]. Participants: South Loop Ventures, Cornerstone VC, Techstars, angels from OpenAI/Anthropic/DeepMind/Airbnb/Blackstone. Also tightened smart-bricks.md startup profile from "Feb 2026" to "2026-02-10" with added TechCrunch source.'
 - slug: benchmark
   type: firm
   reason: "appeared in Ollama Series B (2026-07-09), $65M — Benchmark participated as prior Series A lead"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-15
+  resolution_note: 'Fact-spec sweep 2026-07-15: Ollama Series B row already correctly reflects 2026-07-09 with $65M (Theory Ventures led, Benchmark participated). Additionally tightened two vague rows: (1) Applied Compute from "Early | 2026" to "Series A (led, $80M at ~$500M val; Victor Lazarte partner; also led prior $20M seed June 2025) | 2025-10-30" via 3 primary sources: SiliconANGLE (2025-10-30) [^52], Pulse2 (Oct 2025) [^53], ReadTheSignal (2025-10-31) [^54]. Also created new applied-compute.md startup profile with all three rounds. (2) Eigen from "Seed (led) | 2026" to "Seed (led, $15M; Sarah Tavel partner) | 2026-04-16" via 3 primary sources: Fortune exclusive (2026-04-16) [^34], Pulse2 [^55], FinSMEs [^56]. Participants: Ben Silbermann, David Singleton, Gustav Söderström, Akshay Khotari, Will Wu as angels.'
 - slug: 8vc
   type: firm
   reason: "appeared in Ollama Series B (2026-07-09), $65M — 8VC participated (Alex Kolicich)"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-15
+  resolution_note: 'Fact-spec sweep 2026-07-15: Ollama Series B row already correctly reflects 2026-07-09 with $65M (Theory Ventures led, 8VC participated via Alex Kolicich). Portfolio sweep found no pending high/normal-priority vague rows — only low-priority year-approximations on legacy portfolio entries (Palantir 2003, Addepar ~2009, OpenGov ~2012, etc.) which will be handled in the low-priority queue sweep.'
 - slug: peter-fenton
   type: investor
   reason: "appeared in Ollama Series B (2026-07-09), $65M — Benchmark GP, led prior Series A, board member"

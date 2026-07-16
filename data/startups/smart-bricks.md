@@ -3,6 +3,7 @@ firms:
 - round: pre-seed
   slug: andreessen-horowitz
   year: 2026
+  date: 2026-02-10
 - slug: 500-global
 - slug: techstars
 founded: 2024
@@ -34,7 +35,7 @@ Smart Bricks is a San Francisco-based proptech startup building AI infrastructur
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| Feb 2026 | Pre-Seed | $5M | Andreessen Horowitz (a16z Speedrun) | Techstars, 500 Global, Cornerstone VC, South Loop Ventures, Harvard Business School Alumni Angels, Cento Ventures [^1] |
+| 2026-02-10 | Pre-Seed | $5M | Andreessen Horowitz (a16z Speedrun) | Techstars, 500 Global, Cornerstone VC, South Loop Ventures, Harvard Business School Alumni Angels, Cento Ventures [^1][^2] |
 
 Total raised: $5M [^1]. Also backed by angel investors from OpenAI, Anthropic, DeepMind, Airbnb, and Blackstone [^1].
 
@@ -49,3 +50,5 @@ No independently sourced founder testimonials found.
 ## Sources
 
 [^1]: PR Newswire, "Smart Bricks Raises $5M Led by Andreessen Horowitz (a16z) to Build the AI Infrastructure Layer for Global Real Estate," February 11, 2026, accessed March 2026. https://www.prnewswire.com/news-releases/smart-bricks-raises-5m-led-by-andreessen-horowitz-a16z-to-build-the-ai-infrastructure-layer-for-global-real-estate-302684737.html
+
+[^2]: TechCrunch, "Proptech startup Smart Bricks raises $5 million pre-seed in round led by a16z," February 10, 2026. Accessed July 2026. https://techcrunch.com/2026/02/10/proptech-startup-smart-bricks-raises-5-million-pre-seed-in-round-led-by-a16z/

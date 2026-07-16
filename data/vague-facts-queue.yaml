@@ -166173,7 +166173,9 @@ vague_facts:
   line: '| Smart Bricks | Pre-Seed | 2026 | Proptech / AI | Private [^23] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-15
+  resolution_note: 'Tightened Smart Bricks row from "Pre-Seed | 2026" to "Pre-Seed (led via a16z speedrun, $5M; Mohamed Mohamed founder) | 2026-02-10". Verified via 3 primary sources: TechCrunch exclusive (2026-02-10, [^138]), Yahoo Finance/PR Newswire syndication (2026-02-11, [^139]), existing PR Newswire company release [^23]. Participants: South Loop Ventures, Cornerstone VC, Techstars, angels from OpenAI/Anthropic/DeepMind/Airbnb/Blackstone. Also updated smart-bricks.md startup profile from "Feb 2026" to "2026-02-10" with TechCrunch citation added.'
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: Nexthop AI
@@ -166397,7 +166399,9 @@ vague_facts:
   line: '| Applied Compute | Early | 2026 | AI / Infrastructure | Private [^9] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-15
+  resolution_note: 'Corrected year 2026 → 2025 and tightened. Row now "Series A (led, $80M at ~$500M val; Victor Lazarte partner; also led prior $20M seed June 2025) | 2025-10-30". Verified via 3 primary sources: SiliconANGLE (2025-10-30) [^52], Pulse2 (Oct 2025) [^53], ReadTheSignal (2025-10-31 identifying Victor Lazarte as lead) [^54]. Participants: Sequoia Capital, Lux Capital, Elad Gil. Founders are ex-OpenAI researchers. Also created new applied-compute.md startup profile with all three known rounds (June 2025 seed $20M, Oct 2025 Series A $80M, April 2026 growth $80M Kleiner-led at $1.3B val).'
 - profile: firms/benchmark
   profile_name: Benchmark
   company: Forge
@@ -166427,7 +166431,9 @@ vague_facts:
   line: '| Eigen | Seed (led) | 2026 | AI / Social | Private [^34] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-15
+  resolution_note: 'Tightened Eigen row from "Seed (led) | 2026" to "Seed (led, $15M; Sarah Tavel partner) | 2026-04-16". Verified via 3 primary sources: Fortune exclusive (2026-04-16, [^34]), Pulse2 [^55], FinSMEs [^56]. Angel participants: Ben Silbermann (Pinterest cofounder), David Singleton (Dreamer/Stripe), Gustav Söderström (Spotify), Akshay Khotari (Notion), Will Wu (ex-Snap). Founder Paul Scherer, 22, building AI "mutual friend" platform. eigen.md startup profile already reflects same details.'
 - profile: firms/bessemer-venture-partners
   profile_name: Bessemer Venture Partners
   company: Perplexity
