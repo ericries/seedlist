@@ -1,18 +1,12 @@
 ---
-firms:
-- round: '2022'
-  slug: ramp
-  year: 2022
+firms: []
+investors: []
 founded: 2022
 founders:
 - name: Cedric Notz
   role: CEO & Co-Founder
 - name: Jannis Koehn
   role: Co-Founder
-investors:
-- round: '2022'
-  slug: eric-glyman
-  year: 2022
 last_researched: 2026-07-15
 location: Stockholm, Sweden
 name: Float
@@ -29,6 +23,9 @@ total_raised: EUR 4.5M
 type: startup
 website: https://www.float.eu
 ---
+
+<!-- Note: this Float is the Stockholm-based revenue-based-financing platform for European tech SMEs (founded 2022, CEO Cedric Notz). It is DISTINCT from Float the Ghanaian fintech (2022 Seed backed by Eric Glyman/Ramp) and DISTINCT from Float the Ramp expense-management competitor. Do not merge with those companies via xref. -->
+
 
 ## About
 
