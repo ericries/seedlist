@@ -24899,7 +24899,7 @@ queue:
 - name: Daniele Pinna
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Gnosis
   discovered_from: sorted-wallet
@@ -25140,7 +25140,7 @@ queue:
 - name: Dina Radenkovic
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Gameto
   discovered_from: martin-varsavsky
@@ -38354,3 +38354,375 @@ queue:
   firm: Velocity
   discovered_from: velocity
   source: Co-Founder, Velocity; drove Series A ($38M, 2026-07-14)
+- name: Quadrille Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adonis
+  source: investor in 2 startup funding rounds
+- name: Renegade Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: air-space-intelligence
+  source: investor in 2 startup funding rounds
+- name: Zigg Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: allo
+  source: investor in 2 startup funding rounds
+- name: Mubadala Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alloy-therapeutics
+  source: investor in 2 startup funding rounds
+- name: Mindset Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alta
+  source: investor in 2 startup funding rounds
+- name: Sequoia Capital (co-led)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anthropic
+  source: investor in 3 startup funding rounds
+- name: Aglaé Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: attention
+  source: investor in 2 startup funding rounds
+- name: Scrub Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avo
+  source: investor in 2 startup funding rounds
+- name: Venrock Healthcare Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cellcentric
+  source: investor in 2 startup funding rounds
+- name: Riverpark Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cents
+  source: investor in 2 startup funding rounds
+- name: Bracket Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clover-health
+  source: investor in 2 startup funding rounds
+- name: Definition Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cognition
+  source: investor in 2 startup funding rounds
+- name: Liberty City Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: digital-asset
+  source: investor in 2 startup funding rounds
+- name: Tru Arrow Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dream
+  source: investor in 2 startup funding rounds
+- name: Motley Fool Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: edvisorly
+  source: investor in 2 startup funding rounds
+- name: Q Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: esh-tech
+  source: investor in 2 startup funding rounds
+- name: BMW i Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: featherless-ai
+  source: investor in 2 startup funding rounds
+- name: DST Global Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gradium
+  source: investor in 4 startup funding rounds
+- name: Lotus One Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: h3-zoom
+  source: investor in 2 startup funding rounds
+- name: Amazon Climate Pledge Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hippo-harvest
+  source: investor in 2 startup funding rounds
+- name: NATO Innovation Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kraken-technology-group
+  source: investor in 2 startup funding rounds
+- name: SaaS Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kredosai
+  source: investor in 2 startup funding rounds
+- name: Shinhan Venture Investment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: linqalpha
+  source: investor in 2 startup funding rounds
+- name: Armory Square Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nebex
+  source: investor in 2 startup funding rounds
+- name: Zero Knowledge Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: orbital
+  source: investor in 2 startup funding rounds
+- name: Pegatron Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: oxmiq-labs
+  source: investor in 2 startup funding rounds
+- name: Rothenberg Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: patreon
+  source: investor in 2 startup funding rounds
+- name: Trinity Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pearl-health
+  source: investor in 2 startup funding rounds
+- name: a16z Scout Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sage-haven
+  source: investor in 2 startup funding rounds
+- name: U.S. Innovative Technology Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: saronic
+  source: investor in 2 startup funding rounds
+- name: Pareto Holdings
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: starcloud
+  source: investor in 2 startup funding rounds
+- name: Checkerspot
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jim-kim
+  source: 'portfolio company of 4 investors: jim-kim, jim-kim, david-lee'
+- name: YourStory
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: siddarth-pai
+  source: 'portfolio company of 3 investors: siddarth-pai, mohandas-pai, vani-kola'
+- name: BackOps
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dayna-grayson
+  source: 'portfolio company of 3 investors: dayna-grayson, dayna-grayson, rachel-holt'
+- name: RapidSOS
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vishal-lugani
+  source: 'portfolio company of 3 investors: vishal-lugani, theresia-gouw, freddie-martignetti'
+- name: Kick
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tikhon-bernstam
+  source: 'portfolio company of 3 investors: tikhon-bernstam, ian-hathaway, brad-lightcap'
+- name: Spinny
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pranav-pai
+  source: 'portfolio company of 3 investors: pranav-pai, sandeep-tandon, kunal-shah'
+- name: BYJU'S
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mohandas-pai
+  source: 'portfolio company of 3 investors: mohandas-pai, mary-meeker, ranjan-pai'
+- name: Oportun
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jules-maltz
+  source: 'portfolio company of 3 investors: jules-maltz, saar-gur, chris-larsen'
+- name: Imperfect Foods
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anarghya-vardhana
+  source: 'portfolio company of 3 investors: anarghya-vardhana, jason-stoffer, halle-tecco'
+- name: Hooke
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dina-radenkovic
+  source: London longevity research clinic co-founded by Dina Radenkovic with Eric
+    Verdin (Buck Institute)
+- name: SALT Bio Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dina-radenkovic
+  source: Dina Radenkovic is Partner / GP at Programmable Biology SALT Fund
+- name: Overwater Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dina-radenkovic
+  source: led Gameto $44M Series C (Aug 2025); founder Kristina Simmons quoted
+- name: Kristina Simmons
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Overwater Ventures
+  discovered_from: dina-radenkovic
+  source: founder of Overwater Ventures; led Gameto Series C
+- name: Two Sigma Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dina-radenkovic
+  source: led Gameto $33M Series B (May 2024)
+- name: Twyne
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniele-pinna
+  source: Daniele Pinna is co-founder & Head of Research; $450K pre-seed Jun 2025
+    led by Euler Labs; DeFi credit delegation protocol
+- name: 0xSideQuest
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniele-pinna
+  source: Daniele Pinna founded this Estonian protocol-design and smart contract auditing
+    firm
+- name: Gnosis VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniele-pinna
+  source: crypto/DeFi VC arm of Gnosis DAO; 60+ investments since 2019; $40M RWA fund
+- name: Jakub Warmuz
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Twyne
+  discovered_from: daniele-pinna
+  source: co-founder of Twyne alongside Daniele Pinna; co-author of Toxic Liquidation
+    Spirals paper (2022)
+- name: Euler Labs
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daniele-pinna
+  source: led Twyne $450K pre-seed (Jun 2025); DeFi lending incubator
+- name: Friederike Ernst
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Gnosis
+  discovered_from: daniele-pinna
+  source: co-founder of Gnosis (with Martin Köppelmann and Stefan George); physicist
+- name: Martin Köppelmann
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Gnosis
+  discovered_from: daniele-pinna
+  source: co-founder of Gnosis; leads Gnosis Chain and Gnosis Pay
