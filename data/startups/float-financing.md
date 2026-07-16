@@ -1,23 +1,33 @@
 ---
-name: "Float"
-slug: float-financing
-type: startup
-website: "https://www.float.eu"
-location: "Stockholm, Sweden"
+firms:
+- round: '2022'
+  slug: ramp
+  year: 2022
 founded: 2022
-status_company: active
-sector: [fintech, revenue-based-financing, sme-financing, ai-native]
-stage_latest: "Series A"
-total_raised: "EUR 4.5M"
-firms: []
-investors: []
 founders:
-  - name: "Cedric Notz"
-    role: "CEO & Co-Founder"
-  - name: "Jannis Koehn"
-    role: "Co-Founder"
-status: published
+- name: Cedric Notz
+  role: CEO & Co-Founder
+- name: Jannis Koehn
+  role: Co-Founder
+investors:
+- round: '2022'
+  slug: eric-glyman
+  year: 2022
 last_researched: 2026-07-15
+location: Stockholm, Sweden
+name: Float
+sector:
+- fintech
+- revenue-based-financing
+- sme-financing
+- ai-native
+slug: float-financing
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: EUR 4.5M
+type: startup
+website: https://www.float.eu
 ---
 
 ## About

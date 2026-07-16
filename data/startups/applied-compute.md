@@ -1,38 +1,57 @@
 ---
-name: "Applied Compute"
-slug: applied-compute
-type: startup
-website: "https://www.appliedcompute.com"
-location: "San Francisco, CA"
-founded: 2025
-status_company: active
-sector: [ai, ai-infrastructure, enterprise, agents]
-stage_latest: "Series A"
-total_raised: "$100M (~$20M seed June 2025 + $80M Series A October 2025)"
 firms:
-  - slug: benchmark
-    round: seed
-    year: 2025
-    date: 2025-06
-  - slug: benchmark
-    round: series-a
-    year: 2025
-    date: 2025-10-30
-  - slug: sequoia-capital
-    round: series-a
-    year: 2025
-    date: 2025-10-30
-  - slug: lux-capital
-    round: series-a
-    year: 2025
-    date: 2025-10-30
-  - slug: kleiner-perkins
-    round: growth
-    year: 2026
-    date: 2026-04-08
-investors: []
-status: published
+- date: 2025-06
+  round: seed
+  slug: benchmark
+  year: 2025
+- date: 2025-10-30
+  round: series-a
+  slug: benchmark
+  year: 2025
+- date: 2025-10-30
+  round: series-a
+  slug: sequoia-capital
+  year: 2025
+- date: 2025-10-30
+  round: series-a
+  slug: lux-capital
+  year: 2025
+- date: 2026-04-08
+  round: growth
+  slug: kleiner-perkins
+  year: 2026
+- round: '2025'
+  slug: hanabi-capital
+  year: 2025
+- round: Series A ($80M)
+  slug: index-ventures
+  year: 2025
+founded: 2025
+investors:
+- round: '2025'
+  slug: ishani-thakur
+  year: 2025
+- round: Series A ($80M)
+  slug: mike-volpi
+  year: 2025
+- round: '2025'
+  slug: josh-wolfe
+  year: 2025
 last_researched: 2026-07-15
+location: San Francisco, CA
+name: Applied Compute
+sector:
+- ai
+- ai-infrastructure
+- enterprise
+- agents
+slug: applied-compute
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $100M (~$20M seed June 2025 + $80M Series A October 2025)
+type: startup
+website: https://www.appliedcompute.com
 ---
 
 ## About

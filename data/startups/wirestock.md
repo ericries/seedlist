@@ -1,11 +1,16 @@
 ---
-name: Wirestock
-slug: wirestock
-type: startup
-website: https://wirestock.io/
-location: Glendale, CA
+firms: []
 founded: 2020
-status_company: active
+founders:
+- name: Mikayel Khachatryan
+  role: Co-Founder & CEO
+investors:
+- round: First-time investment (Nava-led per Tracxn)
+  slug: freddie-martignetti
+  year: 2026
+last_researched: 2026-05-14
+location: Glendale, CA
+name: Wirestock
 sector:
 - ai
 - ai-data
@@ -13,15 +18,13 @@ sector:
 - foundation-models
 - marketplace
 - multimodal-data
+slug: wirestock
 stage_latest: Series A
-total_raised: $23M+
-investors: []
-firms: []
-founders:
-- name: Mikayel Khachatryan
-  role: Co-Founder & CEO
-last_researched: 2026-05-14
 status: published
+status_company: active
+total_raised: $23M+
+type: startup
+website: https://wirestock.io/
 ---
 
 ## About

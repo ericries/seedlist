@@ -22986,7 +22986,7 @@ queue:
 - name: Freddie Martignetti
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Nava Ventures
   discovered_from: wirestock
@@ -25404,7 +25404,7 @@ queue:
 - name: Lip-Bu Tan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Walden International
   discovered_from: carlos-guestrin
@@ -37922,3 +37922,60 @@ queue:
   firm: Prolo
   discovered_from: prolo
   source: Founder & CEO; prior founder Virtual Walkthrough (acq. Matterport)
+- name: Walden International
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lip-bu-tan
+  source: VC firm founded 1987 by Lip-Bu Tan; $5B+ AUM, 600+ investments, 40 IPOs;
+    SMIC founding shareholder
+- name: Kevin Chenault
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Nava Ventures
+  discovered_from: freddie-martignetti
+  source: Partner at Nava Ventures; prior Nickelodeon and DraftKings; co-founder of
+    Anti-Racism Fund
+- name: Sriram Viswanathan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Walden Catalyst Ventures
+  discovered_from: lip-bu-tan
+  source: Founding managing partner at Walden Catalyst and Celesta Capital alongside
+    Lip-Bu Tan
+- name: Grifin
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: freddie-martignetti
+  source: $11M Series A on 2025-06-18 led by Nava Ventures (Freddie Martignetti led,
+    joined board)
+- name: Yurts
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: freddie-martignetti
+  source: Secure enterprise AI; $40M Series B 2024; Nava participation
+- name: Hydrolix
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: freddie-martignetti
+  source: Elastic cloud data platform for observability; $80M Series C 2025; Nava
+    participation
+- name: Highland Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: freddie-martignetti
+  source: Freddie Martignetti's prior firm (VC); Cory Rellas worked at Bain Capital
+    Credit before this

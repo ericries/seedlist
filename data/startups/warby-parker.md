@@ -122,6 +122,9 @@ investors:
 - round: Series A (Spark-era)
   slug: mo-koyfman
   year: 2011
+- round: Suffolk Equity investment (pre-Nava; prior to founding Nava)
+  slug: freddie-martignetti
+  year: 2016
 last_researched: 2026-03-20
 location: New York, NY
 name: Warby Parker

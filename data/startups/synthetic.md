@@ -9,7 +9,10 @@ founded: 2025
 founders:
 - name: Ian Crosby
   role: Founder & CEO
-investors: []
+investors:
+- round: Series (Nava participant)
+  slug: freddie-martignetti
+  year: 2024
 last_researched: 2026-05-15
 location: United States
 name: Synthetic

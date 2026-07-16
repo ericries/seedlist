@@ -1,35 +1,39 @@
 ---
-name: True Footage
-slug: true-footage
-type: startup
-website: "https://truefootage.com"
-location: Austin, Texas
+firms:
+- round: series-c
+  slug: cox-enterprises
+  year: 2026
+- round: series-c
+  slug: nava-ventures
+  year: 2026
+- round: series-c
+  slug: story-ventures
+  year: 2026
+- round: series-c
+  slug: mockingbird-capital
+  year: 2026
 founded: 2021
-status_company: active
+founders:
+- name: John Liss
+  role: Founder & CEO
+investors:
+- round: Series (Nava participant; property appraisal tech)
+  slug: freddie-martignetti
+  year: 2023
+last_researched: 2026-04-07
+location: Austin, Texas
+name: True Footage
 sector:
 - proptech
 - real-estate
 - AI
+slug: true-footage
 stage_latest: Series C
-total_raised: $105M
-firms:
-- slug: cox-enterprises
-  round: series-c
-  year: 2026
-- slug: nava-ventures
-  round: series-c
-  year: 2026
-- slug: story-ventures
-  round: series-c
-  year: 2026
-- slug: mockingbird-capital
-  round: series-c
-  year: 2026
-founders:
-- name: John Liss
-  role: Founder & CEO
 status: published
-last_researched: 2026-04-07
+status_company: active
+total_raised: $105M
+type: startup
+website: https://truefootage.com
 ---
 
 ## About
