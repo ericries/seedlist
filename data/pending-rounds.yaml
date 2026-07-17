@@ -150,6 +150,14 @@ pending_rounds:
   parsed_amount: $300M
   parsed_round: Pre-Seed
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/16/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-16-2026/
+  source: alleywatch
+  date_found: '2026-07-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: CNB Financial Corporation Announces Quarterly Dividend for Series A Preferred
     Stock and Related Depositary Shares Distribution
   url: https://www.globenewswire.com/news-release/2026/07/14/3327266/0/en/CNB-Financial-Corporation-Announces-Quarterly-Dividend-for-Series-A-Preferred-Stock-and-Related-Depositary-Shares-Distribution.html
