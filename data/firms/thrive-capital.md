@@ -188,6 +188,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Isomorphic Labs | Series B (led, $2.1B) | 2026-05-12 | AI / Drug Discovery | Private [^31] |
 | Formation Bio | Series D (participated, $372M) | 2024-06-26 | Biotech / AI | Private [^13][^42][^43][^44] |
 | Wiz | Growth | 2024-05-07 | Cybersecurity | Private [^13][^22] |
+| Base Power | Series A (participated, $68M; alongside Altimeter Capital, Valor Equity Partners, Trust Ventures, Terrain, MCJ) | 2024-05-07 | Energy | Private [^63][^64][^65] |
 | Base Power | Series B (participated, $200M co-led by Addition, a16z, Lightspeed, Valor) | 2025-04-08 | Energy | Private [^8][^51] |
 | Alsym Energy | Growth | ~2023 | Energy / Batteries | Private [^3] |
 | Clair | Early | ~2021 | Fintech / Payroll | Private [^3] |
@@ -402,3 +403,9 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^61]: CNBC (Ashley Capoot / Jonathan Vanian), "Jeff Bezos and OpenAI invest in robot startup Physical Intelligence at $2.4 billion valuation," November 4, 2024. Accessed July 2026. https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html — Primary contemporaneous press for the $400M follow-on: closed November 4, 2024, at $2.4B post-money valuation. Named investors include Jeff Bezos, OpenAI, Thrive Capital, Lux Capital, Bond Capital, Khosla Ventures, and Sequoia Capital.
 
 [^62]: SiliconANGLE, "AI startup Physical Intelligence raises $400M to create a brain for any robot," November 4, 2024. Accessed July 2026. https://siliconangle.com/2024/11/04/ai-startup-physical-intelligence-raises-400m-create-brain-robot/ — Third independent primary source confirming November 4, 2024 $400M follow-on round at $2.4B post-money. Names Jeff Bezos, Thrive Capital, and Lux Capital as leads with OpenAI, Redpoint Ventures, and Bond as additional participants. Explicitly cites the $70M March 2024 seed led by Thrive as the prior round.
+
+[^63]: Not Boring by Packy McCormick, "Base Power Company," May 7, 2024, accessed July 16, 2026. https://www.notboring.co/p/base-power-company — Contemporaneous long-form profile published on Base Power's Series A announcement day; confirms Base "raised over $60 million from investors including Thrive Capital, Altimeter Capital, and Valor Equity Partners." Also confirms Antonio Gracias (Valor) on the board.
+
+[^64]: EnergyChoiceMatters.com, "Base Power, Start-up Retail Provider Led By Zach Dell, Officially Launches; Retail Pricing, VPP Strategy Revealed," May 7, 2024, accessed July 16, 2026. https://www.energychoicematters.com/stories/20240507b.html — Independent industry-press confirmation dated the launch/announcement date, May 7, 2024. Names capital providers: "Base has raised capital from Thrive Capital, Valor Equity Partners, Altimeter Capital, Trust Ventures, Terrain, and others."
+
+[^65]: Crunchbase News, "The Week's Biggest Funding Rounds: Base Power Fuels Somewhat Quiet Week," April 11, 2025, accessed July 16, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-base-power-caris/ — Tier-1 tech-press retrospective confirming Base Power total funding of $268M since 2023 founding (Series A $68M + Series B $200M = $268M), corroborating $68M Series A figure. See also Sacra profile https://sacra.com/c/base-power/ which independently records Series A as $68M closed May 8, 2024.

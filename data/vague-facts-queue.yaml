@@ -3548,7 +3548,9 @@ vague_facts:
   line: '| Base Power | Growth | ~2024 | Energy | Active | [^7] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: original vague row split into 3 specific rows on altimeter-capital.md. Added Series A (2024-05-07, $68M, participated alongside Thrive Capital + Valor Equity Partners + Trust Ventures + Terrain + MCJ) with 3 new footnotes [^77] Not Boring by Packy McCormick May 7 2024, [^78] EnergyChoiceMatters May 7 2024, [^79] Crunchbase News + Sacra $268M total-funding cross-check. Series B and Series C rows were already present with specific 2025-04-08 and 2025-10-08 dates.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Unlearn
@@ -165903,7 +165905,7 @@ vague_facts:
   line: '| Ohr | Seed | 2024 | Synthetic Biology / Chemicals | Active | [^9] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
   resolved: 2026-07-05
   resolution_note: Company identified as OHR / OHR Synbiosis Ltd. (ohr.xyz), Tel Aviv-based synthetic biology startup building enzyme-based CO2-to-carbon-chain manufacturing (sulfur-free fuels, strategic chemicals). Founder/CEO Dan Davidi (ex-Weizmann, ex-Harvard SBC, ex-Amazon Moonshot; Aleph EIR from January 2023). Publicly unveiled via Aleph LinkedIn post (~January 2025, activity ID 7285253617979133953), NOT 2024. OHR discloses ~$30M raised across pre-seed and seed on its own site with named backers Aleph, Deep33 Ventures, Standard Industries, XTX Markets, KDM Partners, Yasmin Lukatz, 202 Ventures, Clocktower Ventures — but does NOT break out per-round dates or amounts. No tier-1 press coverage (Calcalist/CTech, Globes, NoCamels, Times of Israel, TechCrunch, Bloomberg) of an OHR funding round found; only aggregators (PitchBook, SNC, IVC, Crunchbase) which per CLAUDE.md rules do not count. Row updated to "Pre-Seed + Seed (~$30M aggregate; publicly unveiled ~Jan 2025) | ~2024–2025" with
     citations to ohr.xyz [^25] and Aleph portfolio page [^26]. Cannot resolve to a specific YYYY-MM-DD without a datable primary source.
@@ -166009,7 +166011,9 @@ vague_facts:
   line: '| Base Power | Growth | ~2024 | Energy | Active | [^7] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: original vague "Growth | ~2024" row split into 3 specific rows on altimeter-capital.md. Series A row added at 2024-05-07 ($68M, Altimeter participated alongside Thrive Capital + Valor Equity Partners + Trust Ventures + Terrain + MCJ). Series B and Series C rows already present (2025-04-08 $200M co-led by Addition/a16z/Lightspeed/Valor; 2025-10-08 $1B led by Addition). Verified via 3 independent sources: Not Boring (May 7 2024) [^77], EnergyChoiceMatters (May 7 2024) [^78], Crunchbase News + Sacra cross-check [^79]. Parallel updates on thrive-capital.md (Series A added with footnotes [^63][^64][^65]) and valor-equity-partners.md (Base Power promoted from unverified list to current-growth-portfolio table with all three rounds and footnotes [^46][^47][^48]).'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Unlearn
@@ -166120,7 +166124,9 @@ vague_facts:
   line: '| Hadrian | Growth | 2023 | Manufacturing | Private [^10] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-16
+  resolution_note: 'Fact-spec sweep 2026-07-16: already resolved on andreessen-horowitz.md. Current row reads "| Hadrian | Series B (participated, existing investor) | 2024-02-21 (closed Dec 2023) | Manufacturing / Defense | Private ($117M led by RTX Ventures/Construct Capital; Lux Capital, Founders Fund, WCM, Bracket, Shrug, Caffeinated, Tru Arrow, Silent Ventures, Cubit Capital, S&A also participated) [^10][^97][^98][^99] |". Sources [^97] TechCrunch 2024-02-21, [^98] Cooley LLP 2024-02-21, [^99] Mondaq press release 2024-02-21 confirm $117M Series B closed Dec 2023, announced Feb 21 2024, led by RTX Ventures with a16z participating.'
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: Abridge

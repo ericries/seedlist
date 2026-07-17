@@ -106,6 +106,7 @@ Based on 59 verified current growth portfolio investments and 22 realized invest
 | xAI | Artificial intelligence | 2024 | [^17][^37] |
 | Zipline | Drone delivery | 2026 | [^24][^38] |
 | Dominion Dynamics | Defense / Arctic autonomy | 2026 (Series A, C$139M, Georgian-led, 2026-06-30) | [^43][^44][^45] |
+| Base Power | Residential battery / retail electricity | 2024 (Series A, $68M, co-lead alongside Thrive Capital / Altimeter Capital; 2024-05-07 announcement); 2025 (Series B, $200M, co-led by Addition, a16z, Lightspeed, Valor; 2025-04-08); 2025 (Series C, $1B, Addition-led; 2025-10-08) | [^46][^47][^48] |
 
 #### Other Current Growth Portfolio Companies (year not yet verified from primary sources)
 
@@ -114,7 +115,6 @@ Sourced from Valor's website portfolio page [^12]. Cross-references where noted:
 - Aescape (Wellness technology)
 - Athena
 - Atmosphere
-- Base Power (Energy infrastructure)
 - BitGo (Crypto security)
 - Brightloom (Restaurant software)
 - Castle Creek Biosciences (Biosciences)
@@ -277,3 +277,9 @@ Note: Several of the above testimonials are sourced from the Valor website (Grow
 [^44]: BetaKit, "Dominion Dynamics lands $139 million in Canada's largest defence-tech Series A," June 30, 2026. Accessed June 2026. https://betakit.com/dominion-dynamics-lands-139-million-in-canadas-largest-defence-tech-series-a/ — Independent confirmation of Valor Equity Partners participation via Valor Atreides AI Fund in the Georgian-led C$139M Series A.
 
 [^45]: Ottawa Business Journal, "Dominion Dynamics closes $139M funding round in bid to scale defence technology," June 30, 2026. Accessed June 2026. https://obj.ca/dominion-dynamics-closes-139m-funding-round/ — Third independent confirmation of the C$139M Series A led by Georgian with Valor Equity Partners participating; reports Ottawa headquarters and Kanata, Ontario manufacturing operations.
+
+[^46]: Not Boring by Packy McCormick, "Base Power Company," May 7, 2024, accessed July 16, 2026. https://www.notboring.co/p/base-power-company — Contemporaneous long-form profile published on Base Power's Series A launch day (May 7, 2024). Confirms Base "raised over $60 million from investors including Thrive Capital, Altimeter Capital, and Valor Equity Partners." Notes Antonio Gracias (Valor) sits on the board.
+
+[^47]: EnergyChoiceMatters.com, "Base Power, Start-up Retail Provider Led By Zach Dell, Officially Launches; Retail Pricing, VPP Strategy Revealed," May 7, 2024, accessed July 16, 2026. https://www.energychoicematters.com/stories/20240507b.html — Independent industry-press confirmation of the May 7, 2024 launch. "Base has raised capital from Thrive Capital, Valor Equity Partners, Altimeter Capital, Trust Ventures, Terrain, and others."
+
+[^48]: BusinessWire, "Base Power Raises $200M Series B to Reinforce the Texas Power Grid, Accelerate National Expansion, and Build American Manufacturing Capabilities," April 9, 2025 (dateline April 8, 2025), accessed July 16, 2026. https://www.businesswire.com/news/home/20250409624698/en/Base-Power-Raises-$200M-Series-B-to-Reinforce-the-Texas-Power-Grid-Accelerate-National-Expansion-and-Build-American-Manufacturing-Capabilities — Primary company press release confirming Valor Equity Partners as co-lead of $200M Series B (alongside Addition, Andreessen Horowitz, Lightspeed Venture Partners), with existing investors Thrive Capital, Altimeter, Terrain, and Trust participating. Series C ($1B, Addition-led, October 8, 2025) additionally confirmed via BusinessWire https://www.businesswire.com/news/home/20251008106005/en/Base-Power-Raises-$1-Billion-Series-C-to-Build-the-Future-of-American-Power (lists Valor Equity as re-participating).
