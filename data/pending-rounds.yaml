@@ -38,6 +38,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: British aerospace technology company Greenjets raises €35 million Series
+    A with NATO backing
+  url: https://www.eu-startups.com/2026/07/british-aerospace-technology-company-greenjets-raises-e35-million-series-a-with-nato-backing/
+  source: eu-startups
+  date_found: '2026-07-17'
+  parsed_company: British aerospace technology company Greenjets
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Germany’s Prior Labs raises €1 billion and exits to SAP 18 months after being
+    founded
+  url: https://www.eu-startups.com/2026/07/germanys-prior-labs-raises-e1-billion-and-exits-to-sap-18-months-after-being-founded/
+  source: eu-startups
+  date_found: '2026-07-17'
+  parsed_company: Germany’s Prior Labs
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Lululemon backs nylon recycling startup Syntetica in $30M Series A
   url: https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/
   source: techcrunch
