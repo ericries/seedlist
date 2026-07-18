@@ -5220,14 +5220,23 @@ priority:
   type: firm
   reason: "appeared in Gradium seed round (2025-12), $70M first tranche"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-17
+  resolution_note: 'Fact-spec sweep 2026-07-17: added Gradium row to dst-global.md portfolio via 3 primary sources — TechCrunch [^48] (2025-12-02 announcement), Sifted [^49], and FirstMark Capital lead-investor blog [^50]. Row records $70M seed first tranche on 2025-12-02, co-led by FirstMark Capital + Eurazeo; DST Global Partners participated alongside Eric Schmidt, Xavier Niel, Rodolphe Saadé, Korelya Capital, and Amplify Partners. Table note updated 35 → 36 companies. Parallel updates applied to xavier-niel.md (new row [^30][^31][^32]) and eric-schmidt.md (Sifted third citation [^35] added to existing row). Gradium startup profile tightened from "2025-12" to "2025-12-02" with same 3 primary sources added as [^5][^6][^7].'
 - slug: eric-schmidt
   type: investor
   reason: "appeared in Gradium seed round (2025-12), Kyutai co-funder"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-17
+  resolution_note: 'Fact-spec sweep 2026-07-17: Gradium row on eric-schmidt.md already present at 2025-12-02 with 2 citations ([^14] TechCrunch, [^29] TechCrunch duplicate). Added third independent primary source: Sifted [^35] confirming Schmidt as individual investor. Row updated to enumerate co-participants (DST Global, Xavier Niel, Rodolphe Saadé). Same three-source verification (TechCrunch, Sifted, FirstMark blog) applied to dst-global.md and xavier-niel.md portfolios and to gradium.md Funding History.'
 - slug: xavier-niel
   type: investor
   reason: "appeared in Gradium seed round (2025-12), Kyutai co-funder"
   added: 2026-07-09
+  status: resolved
+  resolved: 2026-07-17
+  resolution_note: 'Fact-spec sweep 2026-07-17: added Gradium row to xavier-niel.md portfolio table (row 21) as personal/direct investment outside Kima Ventures'' EUR150K ticket structure. Row records 2025-12-02 seed, $70M co-led by FirstMark + Eurazeo, with Niel participating alongside DST Global, Eric Schmidt, Rodolphe Saadé, Korelya, Amplify Partners. Three new primary source citations added ([^30] TechCrunch, [^31] Sifted, [^32] FirstMark blog). Table denominator updated 20 → 21. Sifted notably confirms Niel and Saadé were "both original backers of Kyutai, the parent non-profit lab" — reinforcing the Kyutai-to-Gradium spin-out lineage.'
 - slug: baiju-bhatt
   type: investor
   reason: "appeared as angel in Oratomic Series A (2026-07-07), $300M"

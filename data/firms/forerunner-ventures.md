@@ -100,7 +100,7 @@ Based on 80+ verified investments from the firm's portfolio page, the following 
 | Monarch Money | Early | ~2022 | Fintech | [^1] |
 | Speechify | Early | ~2021 | Education/AI | [^1] |
 | Daydream | Early | ~2023 | Marketplace | [^1] |
-| Fora | Early | ~2023 | Marketplace/Travel | [^1] |
+| Fora | Series D (co-led, $60M) | 2026-07-16 | Marketplace/AI Travel | Unicorn ($1B valuation); Forerunner also participated in earlier rounds [^1][^fora-sd] |
 | Decagon | Series C | 2025-06-23 | AI/Infrastructure | [^1][^8] |
 | Agentio | Seed | ~2024 | AI/Advertising | [^1] |
 | Wonder | Growth | ~2022 | Consumer/Food | [^1] |
@@ -139,3 +139,5 @@ No independently sourced founder testimonials found from third-party sources. Fo
 [^9]: Andreessen Horowitz, "Investing in Town," by Alex Rampell and Justine Moore, June 3, 2026, accessed June 2026. https://a16z.com/announcement/investing-in-town/
 
 [^10]: "Town Raises $55M Series A From a16z and Forerunner to Build the AI Assistant That Learns How You Work," GlobeNewswire/Yahoo Finance, June 3, 2026, accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/town-raises-55m-series-a16z-134500847.html
+
+[^fora-sd]: "Fora Raises $60M at $1 Billion Valuation, Defining a New Category of Entrepreneurs," PR Newswire, July 16, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/fora-raises-60m-at-1-billion-valuation-defining-a-new-category-of-entrepreneurs-302827629.html

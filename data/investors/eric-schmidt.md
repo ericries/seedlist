@@ -104,7 +104,7 @@ Note: Some companies span multiple categories. The sector concentration in AI/de
 | Kong | ~2019 | Early | API Infrastructure | [^25] |
 | Atom Computing (follow-on) | 2022 | Series B | Quantum Computing | [^23] |
 | Inflection AI | 2023 | Growth | AI / Consumer | [^15] |
-| Gradium | 2025-12-02 | Seed ($70M, co-led FirstMark/Eurazeo) | Voice AI | [^14][^29] |
+| Gradium | 2025-12-02 | Seed ($70M, co-led FirstMark/Eurazeo; DST Global, Xavier Niel, Rodolphe Saadé also participated) | Voice AI | [^14][^29][^35] |
 | Reflection AI | 2025-10-09 | Series B ($2B, NVIDIA-led, $8B valuation) | Frontier AI | [^26][^30] |
 | Goodfire | 2026-02-05 | Series B ($150M, B Capital-led, $1.25B valuation) | AI Interpretability | [^27][^31][^32] |
 | Dosu | ~2023 | Early | AI / Developer Tools | [^25] |
@@ -224,3 +224,5 @@ No additional independently sourced founder testimonials found. Innovation Endea
 [^33]: TechCrunch, "General Intuition's $2.3B bet that video games can train AI agents for the real world," June 25, 2026. Accessed June 2026. https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/ — Confirms Eric Schmidt participated in General Intuition's $320M Series A led by Khosla Ventures at $2.3B post-money valuation, alongside Jeff Bezos, Nico Rosberg, and General Catalyst.
 
 [^34]: GamesBeat, "General Intuition raises $320M at $2.3B valuation for AI frontier models based on gameplay | exclusive interview," June 25, 2026. Accessed June 2026. https://gamesbeat.com/general-intuition-raises-320m-at-2-3b-valuation-for-ai-frontier-models-based-on-gameplay-exclusive-interview/ — Independent confirmation of Eric Schmidt's participation; co-investors include Hedosophia, cofounders of Remote and Cradle, researchers at Google DeepMind and MIT.
+
+[^35]: Sifted, "Ex-Google CEO Eric Schmidt backs voice AI startup Gradium in $70m seed round," December 2, 2025. Accessed July 2026. https://sifted.eu/articles/gradium-70m-seed-voice-ai — Third independent primary source confirming Eric Schmidt as individual investor in Gradium's $70M seed round announced December 2, 2025; co-led by FirstMark and Eurazeo with DST Global, Korelya Capital, Amplify Partners, Xavier Niel, and Rodolphe Saadé participating.

@@ -69,7 +69,7 @@ On 2026-07-09 Gradium announced that Nvidia had led a $30M extension to its seed
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2025-12 | Seed (first tranche) | $70M | FirstMark Capital, Eurazeo | DST Global Partners, Eric Schmidt, Xavier Niel, Rodolphe Saadé [^2][^4] |
+| 2025-12-02 | Seed (first tranche) | $70M | FirstMark Capital, Eurazeo | DST Global Partners, Eric Schmidt, Xavier Niel, Rodolphe Saadé, Korelya Capital, Amplify Partners [^5][^6][^7] |
 | 2026-07-09 | Seed (extension) | $30M | Nvidia | (extension participants not individually disclosed) [^1][^2] |
 
 ## What Investors Say
@@ -89,3 +89,9 @@ Neil Zeghidour, Co-Founder & CEO of Gradium, on the state of the voice AI market
 [^3]: "AI money watch: five funding rounds that matter today," The Next Web, July 9, 2026. Accessed July 9, 2026. https://thenextweb.com/news/ai-deep-tech-funding-rounds-roundup-oratomic-prime-intellect-gradium
 
 [^4]: Iain Martin, "Former Meta And Google Researcher In Talks To Raise $60 Million For Voice AI Startup," Forbes, October 9, 2025. Accessed July 9, 2026. https://www.forbes.com/sites/iainmartin/2025/10/09/former-meta-and-google-researcher-in-talks-to-raise-60-million-for-voice-ai-startup/
+
+[^5]: TechCrunch, "Paris-based AI voice startup Gradium nabs $70M seed," December 2, 2025. Accessed July 2026. https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/ — Primary tier-1 tech press confirming $70M seed announced December 2, 2025, co-led by FirstMark Capital and Eurazeo, with DST Global Partners, Eric Schmidt, and Xavier Niel among participants.
+
+[^6]: Sifted, "Ex-Google CEO Eric Schmidt backs voice AI startup Gradium in $70m seed round," December 2, 2025. Accessed July 2026. https://sifted.eu/articles/gradium-70m-seed-voice-ai — Independent European tech press: confirms $70M entirely-equity seed, adds Rodolphe Saadé, Korelya Capital, and Amplify Partners to the disclosed participant list.
+
+[^7]: FirstMark Capital blog, "TechCrunch: AI Voice Startup Gradium Nabs $70M Seed," December 2, 2025. Accessed July 2026. https://firstmark.com/story/ai-voice-startup-gradium-nabs-70m-seed/ — Lead investor's own confirmation of the syndicate, naming DST Global Partners, Eric Schmidt, and Xavier Niel as participants.

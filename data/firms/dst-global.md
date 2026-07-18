@@ -153,8 +153,9 @@ The following table includes DST Global investments verified through press cover
 | Partly | Series B (led, $50M at $500M val) | 2026-06-23 | AI / Automotive / Vertical SaaS | Private [^37][^38][^39][^40][^41] |
 | Proxima Fusion | Growth (participated, €411M at €2.4B val; XTX Ventures + East X Ventures co-led) | 2026-07-07 | Deep Tech / Fusion Energy / Climate | Private [^42][^43][^44] |
 | Monogram | Seed (co-led with Lux Capital, $40M) | 2026-07-07 | AI / Consumer AI / Mobile | Private [^45][^46][^47] |
+| Gradium | Seed (participated; $70M co-led by FirstMark Capital + Eurazeo; Eric Schmidt, Xavier Niel, Rodolphe Saadé, Korelya Capital, Amplify Partners also participated) | 2025-12-02 | AI / Voice AI / Foundation Models | Private [^48][^49][^50] |
 
-*Note: This table includes 35 companies out of 214 total (~16%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
+*Note: This table includes 36 companies out of 214 total (~17%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
 
 ## In Their Own Words
 
@@ -298,3 +299,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^46]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent confirmation of the DST-led $40M seed round.
 
 [^47]: Eren Bali, X post announcing Monogram launch and $40M seed round led by DST and Lux Capital, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement of the round.
+
+[^48]: TechCrunch, "Paris-based AI voice startup Gradium nabs $70M seed," December 2, 2025. Accessed July 2026. https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/ — Confirms $70M seed announced December 2, 2025, co-led by FirstMark Capital and Eurazeo, with DST Global Partners, Xavier Niel, and Eric Schmidt among participants.
+
+[^49]: Sifted, "Ex-Google CEO Eric Schmidt backs voice AI startup Gradium in $70m seed round," December 2, 2025. Accessed July 2026. https://sifted.eu/articles/gradium-70m-seed-voice-ai — Independent European tech press confirmation of DST Global's participation alongside Korelya Capital and Amplify Partners, with Niel, Saadé, and Schmidt as individual investors.
+
+[^50]: FirstMark Capital blog, "TechCrunch: AI Voice Startup Gradium Nabs $70M Seed," December 2, 2025. Accessed July 2026. https://firstmark.com/story/ai-voice-startup-gradium-nabs-70m-seed/ — Lead investor's own confirmation of the syndicate, naming DST Global Partners, Xavier Niel, and Eric Schmidt as participants.

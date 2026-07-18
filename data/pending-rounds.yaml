@@ -20,21 +20,38 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Antwerp’s Sightera Biosciences raises €3 million to scale its patient-derived
-    AI drug discovery platform
-  url: https://www.eu-startups.com/2026/07/antwerps-sightera-biosciences-raises-e3-million-to-scale-its-patient-derived-ai-drug-discovery-platform/
-  source: eu-startups
+- title: Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation
+  url: https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/
+  source: techcrunch
   date_found: '2026-07-17'
-  parsed_company: Antwerp’s Sightera Biosciences
+  parsed_company: null
+  parsed_amount: $6B
+  parsed_round: null
+  status: pending
+- title: No product? No problem. This Disrupt 2026 session shows how to get pre-seed
+    funding with conviction, storytelling
+  url: https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/
+  source: techcrunch
+  date_found: '2026-07-17'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Pre-Seed
+  status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still
+    Flow To AI'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/
+  source: crunchbase
+  date_found: '2026-07-17'
+  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Grenoble-based ENGO raises €5.1 million to scale its lightweight AR glasses
-    for athletes
-  url: https://www.eu-startups.com/2026/07/grenoble-based-engo-raises-e5-1-million-to-scale-its-lightweight-ar-glasses-for-athletes/
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (July 13-July 17 )
+  url: https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-july-13-july-17/
   source: eu-startups
   date_found: '2026-07-17'
-  parsed_company: Grenoble-based ENGO
+  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -56,38 +73,21 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation
-  url: https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/
-  source: techcrunch
-  date_found: '2026-07-17'
-  parsed_company: null
-  parsed_amount: $6B
-  parsed_round: null
-  status: pending
-- title: No product? No problem. This Disrupt 2026 session shows how to get pre-seed
-    funding with conviction, storytelling
-  url: https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/
-  source: techcrunch
-  date_found: '2026-07-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Pre-Seed
-  status: pending
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (July 13-July 17 )
-  url: https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-july-13-july-17/
+- title: Antwerp’s Sightera Biosciences raises €3 million to scale its patient-derived
+    AI drug discovery platform
+  url: https://www.eu-startups.com/2026/07/antwerps-sightera-biosciences-raises-e3-million-to-scale-its-patient-derived-ai-drug-discovery-platform/
   source: eu-startups
   date_found: '2026-07-17'
-  parsed_company: null
+  parsed_company: Antwerp’s Sightera Biosciences
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still
-    Flow To AI'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/
-  source: crunchbase
+- title: Grenoble-based ENGO raises €5.1 million to scale its lightweight AR glasses
+    for athletes
+  url: https://www.eu-startups.com/2026/07/grenoble-based-engo-raises-e5-1-million-to-scale-its-lightweight-ar-glasses-for-athletes/
+  source: eu-startups
   date_found: '2026-07-17'
-  parsed_company: null
+  parsed_company: Grenoble-based ENGO
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -180,14 +180,6 @@ pending_rounds:
   parsed_amount: $91.2M
   parsed_round: null
   status: pending
-- title: Brinc raised $125M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Brinc
-  parsed_amount: $125M
-  parsed_round: null
-  status: pending
 - title: Flex raised $70M Series B1
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -195,14 +187,6 @@ pending_rounds:
   parsed_company: Flex
   parsed_amount: $70M
   parsed_round: Series B1
-  status: pending
-- title: Adapter raised $17.8M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Adapter
-  parsed_amount: $17.8M
-  parsed_round: null
   status: pending
 - title: AI-powered travel agency Fora hits unicorn status, raises $60M
   url: https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/

@@ -38726,3 +38726,71 @@ queue:
   firm: Gnosis
   discovered_from: daniele-pinna
   source: co-founder of Gnosis; leads Gnosis Chain and Gnosis Pay
+- name: BlackPines Capital Partners
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fora
+  source: New investor in Fora Series D (2026-07-16)
+- name: Motorola Solutions Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brinc
+  source: Led BRINC $125M round (2026-07-14); corporate strategic
+- name: Halo Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Halo Fund
+  discovered_from: flex-banking
+  source: Led Flex Series B1 (2026-07-14); Ryan Smith (Qualtrics) + Ryan Sweeney (Accel)
+- name: Ryan Smith
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Halo Fund
+  discovered_from: flex-banking
+  source: Co-founder of Halo Fund; led Flex Series B1
+- name: Ryan Sweeney
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Accel
+  discovered_from: flex-banking
+  source: Accel GP; Halo Fund co-founder; led Flex Series B1
+- name: Titanium Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: flex-banking
+  source: Participant in Flex Series B1 (2026-07-14)
+- name: 53 Stations
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: flex-banking
+  source: Participant in Flex Series B1 (2026-07-14)
+- name: Blake Resnick
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: BRINC
+  discovered_from: brinc
+  source: Founder & CEO of BRINC; $125M round (2026-07-14)
+- name: Zaid Rahman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Flex
+  discovered_from: flex-banking
+  source: Founder & CEO of Flex; Series B1 (2026-07-14)

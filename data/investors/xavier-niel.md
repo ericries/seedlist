@@ -109,8 +109,9 @@ The analysis below is based on 20 verified investments drawn from Kima Ventures 
 | Mistral AI | 2023 | Seed | AI | Active (Unicorn) | [^23] |
 | Poolside AI | 2023 | Seed | AI/Developer Tools | Active | [^24] |
 | Kyutai | 2023 | Founding investment | AI Research (Nonprofit) | Active | [^25] |
+| Gradium | 2025-12-02 | Seed ($70M co-led by FirstMark Capital + Eurazeo; DST Global, Eric Schmidt, Rodolphe Saadé, Korelya, Amplify Partners also participated) | AI / Voice AI | Active | [^30][^31][^32] |
 
-*This table represents 20 of 1,273+ total Kima Ventures investments (<2%). Years marked with ~ are estimates based on company founding dates and available press coverage. The table also includes Niel's direct personal investments in Mistral AI, Poolside AI, and Kyutai, which are made outside Kima Ventures' standard €150K ticket structure. All entries include a citation to a source that confirms Kima Ventures or Niel's participation.*
+*This table represents 21 of 1,273+ total Kima Ventures investments (<2%). Years marked with ~ are estimates based on company founding dates and available press coverage. The table also includes Niel's direct personal investments in Mistral AI, Poolside AI, Kyutai, and Gradium, which are made outside Kima Ventures' standard €150K ticket structure. All entries include a citation to a source that confirms Kima Ventures or Niel's participation.*
 
 ## In Their Own Words
 
@@ -184,3 +185,9 @@ No independently sourced founder testimonials found. The Kima Ventures website a
 [^27]: Clay, "How Much Did Sorare Raise? Funding & Key Investors," accessed March 2026. https://www.clay.com/dossier/sorare-funding
 [^28]: Nordic9, "BeReal closed a $30 million capital funding round backed by a16z, DST, Accel and Kima Ventures," June 2021. https://nordic9.com/news/bereal-closed-a-30-million-capital-funding-round-backed-by-a16z-dst-accel-and-kima-ventures/
 [^29]: Sifted, "Brunch with Kima's Jean de La Rochebrochard: 'You need to fight for every single deal'," accessed March 2026. https://sifted.eu/articles/brunch-kima-ventures-jean-de-la-rochebrochard
+
+[^30]: TechCrunch, "Paris-based AI voice startup Gradium nabs $70M seed," December 2, 2025. Accessed July 2026. https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/ — Confirms $70M seed announced December 2, 2025, co-led by FirstMark Capital and Eurazeo. Xavier Niel named as individual participant alongside DST Global Partners and Eric Schmidt.
+
+[^31]: Sifted, "Ex-Google CEO Eric Schmidt backs voice AI startup Gradium in $70m seed round," December 2, 2025. Accessed July 2026. https://sifted.eu/articles/gradium-70m-seed-voice-ai — European tech press confirmation naming Xavier Niel and Rodolphe Saadé as individual investors ("both were original backers of Kyutai, the parent non-profit lab") alongside DST Global, Korelya Capital, and Amplify Partners.
+
+[^32]: FirstMark Capital blog, "TechCrunch: AI Voice Startup Gradium Nabs $70M Seed," December 2, 2025. Accessed July 2026. https://firstmark.com/story/ai-voice-startup-gradium-nabs-70m-seed/ — Lead investor's own confirmation of the syndicate, naming Xavier Niel, DST Global Partners, and Eric Schmidt among participants.

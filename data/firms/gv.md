@@ -131,6 +131,7 @@ Based on GV's verified portfolio and public data:
 | Contraline | Series B (participated; BVF Partners and RA Capital Management co-led, $92.5M) | 2026-06-02 | Life Sciences / Male Contraceptive / Biopharma | Private [^contraline1][^contraline2][^contraline3] |
 | Verse | Series B (participated; Bessemer led, $54M) | 2026-06-18 | Climate / Energy / AI / Data Centers | Private [^verse1][^verse2][^verse3] |
 | Nebex | Seed (led, $30M) | 2026-06-29 | Fintech / Space Economy / Defense / Marketplace | Private [^nebex1][^nebex2][^nebex3] |
+| Adapter | Seed (led, $17.8M) | 2026-07-14 | AI / Data Infrastructure / Personal AI | Private (stealth launch) [^adapter1] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -205,3 +206,5 @@ No independently sourced founder testimonials found.
 [^nebex2]: Crypto Briefing, "Google Ventures leads $30M seed funding for space fintech startup Nebex," June 29, 2026. Accessed June 2026. https://cryptobriefing.com/google-ventures-nebex-space-fintech-seed/ — Independent confirmation of GV's lead role.
 
 [^nebex3]: TheNextWeb, "Nebex raises $30M from GV to build a space exchange," June 30, 2026. Accessed June 2026. https://thenextweb.com/news/nebex-30m-seed-gv-space-economy — Tier-1 European tech press confirming $30M Seed led by GV with Eniac Ventures, 2048 Ventures, and Better Tomorrow Ventures participating. Erik Nordlander (GV General Partner) quote: "Tejpaul is a rare founder who actually knows how to move fast in a heavy, high-friction industry like space."
+
+[^adapter1]: Alex Konrad, "Exclusive: Startup Adapter Launches With $17.8M To Bring New 'Cognition' To AI Tools," Upstarts Media, July 14, 2026. Accessed July 2026. https://www.upstartsmedia.com/p/deep-dive-adapter-launches-ai-cognition — GV led the seed round; Bond Partners and angels including Kevin Mahaffey, Zach Sims, and Ted Schlein participated.
