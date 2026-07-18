@@ -13,26 +13,20 @@ sector:
 stage_latest: Seed
 total_raised: $55M
 firms:
-- slug: striker-ventures
-  round: seed
-  year: 2026
 - slug: menlo-ventures
   round: seed
   year: 2026
-- slug: altimeter
+- slug: altimeter-capital
   round: seed
   year: 2026
-investors:
-- slug: jeff-dean
-  round: seed
-  year: 2026
+investors: []
 founders:
 - name: Andrew Dai
   role: Co-Founder
 - name: Yinfei Yang
   role: Co-Founder
 status: published
-last_researched: 2026-04-12
+last_researched: 2026-07-17
 ---
 
 ## About
@@ -43,7 +37,7 @@ Elorian is a Palo Alto-based AI research lab and product studio focused on visua
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-09 | Seed | $55M | Striker Ventures, Menlo Ventures, Altimeter | NVIDIA, Jeff Dean [^1][^2] |
+| 2026-04-09 | Seed | $55M | Striker Ventures, Menlo Ventures, Altimeter | NVIDIA, Jeff Dean [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -57,3 +51,4 @@ No verified founder quotes available at this time.
 
 [^1]: Bloomberg / Techmeme, "Ex-Google DeepMind Researchers Debut Startup Called Elorian Focused on Visual AI," April 9, 2026. https://www.techmeme.com/260409/p24
 [^2]: Ventureburn, "Elorian Raises $55M for Visual Reasoning AI Growth," April 2026. https://ventureburn.com/elorian-raises-55m-visual-reasoning-ai/
+[^3]: TechCrunch, "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product," July 16, 2026, accessed July 2026. https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/

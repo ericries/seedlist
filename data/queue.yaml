@@ -38794,3 +38794,74 @@ queue:
   firm: Flex
   discovered_from: flex-banking
   source: Founder & CEO of Flex; Series B1 (2026-07-14)
+- name: Ventech
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: engo
+- name: Odyssée Venture
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: engo
+- name: Bpifrance Amorçage Industriel
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: engo
+- name: Blueprint Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: engo
+- name: Apoorv Shankar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Aina
+  discovered_from: aina
+- name: Redstart Labs
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aina
+- name: Shashank Kumar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Razorpay
+  discovered_from: aina
+- name: Vaibhav Domkundwar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Better Capital
+  discovered_from: aina
+- name: Striker Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elorian
+- name: Andrew Dai
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Elorian
+  discovered_from: elorian
+- name: Yinfei Yang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Elorian
+  discovered_from: elorian
