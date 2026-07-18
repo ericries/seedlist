@@ -104,6 +104,7 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 ~unknown| Seso | Growth | — | Workforce/AgTech | Active | [^3] |
 | Suno | Series D (lead, $400M at $5.4B val) | 2026-06-03 | AI / Generative Music | Active | [^25][^26][^27] |
 | Quantum Systems | Series D (participated, €1B co-led by Blackstone/Noteus/Airbus/Advent) | 2026-07-02 | Defence Tech / Autonomous Systems | Active | [^28] |
+| Adapter | Seed (participated; GV led, $17.8M) | 2026-07-14 | AI / Data Infrastructure | Active | [^adapter1] |
 
 *This table represents approximately 15% of BOND's 130 total investments [^8]. Many investments lack publicly confirmed investment years. Prior investments made through Kleiner Perkins Digital Growth Fund (including Airbnb, DocuSign, Instacart, Meta, Pinterest, Snap, Spotify) are not included as they predate BOND's formation.*
 
