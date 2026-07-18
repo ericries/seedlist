@@ -18,8 +18,8 @@ sector_focus:
   - saas
 check_size: "€150K (Kima Ventures standard ticket)"
 last_verified_investment:
-  date: 2023-08-01
-  company: "Poolside AI"
+  date: 2025-12-02
+  company: "Gradium"
   round: "Seed"
 social:
   twitter: "@Xavier75"

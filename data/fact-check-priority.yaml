@@ -5342,3 +5342,23 @@ priority:
   status: resolved
   resolved: 2026-07-16
   note: 'Fact-spec sweep 2026-07-16: Feathery Series A row already present on index-ventures.md (2026-07-14, participated, $30M total, Portage Ventures led). Tightened row to name Allstate Strategic Ventures, Clocktower Ventures, Erie Strategic Ventures, and Bain Capital Ventures as co-participants. Added 3rd primary source [^79] InvestmentNews alongside existing [^77] Feathery blog and [^78] FinTech Global. Verified via 3+ primary sources.'
+
+- slug: forerunner-ventures
+  type: firm
+  reason: "appeared in Fora Series D (2026-07-16), $60M — co-led round"
+  added: 2026-07-17
+
+- slug: gv
+  type: firm
+  reason: "appeared in Adapter Seed (2026-07-14), $17.8M — led round"
+  added: 2026-07-17
+
+- slug: bond
+  type: firm
+  reason: "appeared in Adapter Seed (2026-07-14), $17.8M — participated"
+  added: 2026-07-17
+
+- slug: accel
+  type: firm
+  reason: "appeared in Flex Series B1 (2026-07-14), $70M — participated"
+  added: 2026-07-17
