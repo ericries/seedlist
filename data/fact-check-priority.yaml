@@ -1,4 +1,16 @@
 priority:
+- slug: outlander-vc
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-17: tightened HavocAI row on outlander-vc.md from "Seed | ~2023" to "Seed ($11M; Scout Ventures led, Trousdale Ventures co-led; Outlander VC + The Veteran Fund + BV.VC + Decisive Point + Alumni Ventures + New North Ventures participated) | 2024-09-20" via 3 primary sources: (1) PR Newswire HavocAI company press release (dateline PROVIDENCE, R.I., Sept. 20, 2024) [^24], (2) MarineLink 2024-09-20 [^25], (3) The SaaS News Sept 2024 [^26]. Parallel update on havoc.md startup profile adding 2024-09-20 Seed row with same 3 primary sources ([^4][^5][^6]). Prior ~2023 year was wrong; the disclosed round is Sept. 20, 2024. 3 new footnotes added on outlander-vc.md and 3 on havoc.md.'
+  added: 2026-07-17
+  status: resolved
+  resolved: 2026-07-17
+- slug: trucks-venture-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-17: tightened 2 portfolio rows via 3+ primary sources each. (1) BEDROCK MATERIALS: "Seed | ~2024" → "Seed ($9M; co-led with Refactor Capital and Version One Ventures; Hanover Technology, SpaceCadet, Brainstorm, Evergreen Climate, Expansion VC, Climate Capital, Quest, Meliorate, Valia, Ritual + angels participated) | 2024-05-16" via TechCrunch exclusive [^28] + Version One Ventures blog [^29] + CleanTechnica [^30]. Row also updated to reflect the company''s late-2025 wind-down. (2) JETZERO: "Seed | ~2023" corrected to Series A (2023) + added Series B follow-on row (2026-01-13, $175M, B Capital led, participated) via JetZero own Series B press release [^21] + Alaska Airlines Series A confirmation [^31] + FlightGlobal Series B independent press [^32]. The Series B press explicitly describes Trucks VC as a "longtime supporter from Series A financing," ruling out the prior "Seed" characterization. 5 new footnotes added ([^28]-[^32]).'
+  added: 2026-07-17
+  status: resolved
+  resolved: 2026-07-17
 - slug: crv
   type: firm
   reason: 'Fact-spec sweep 2026-07-10: corrected Astrix row on crv.md from wrong "Seed | ~2023" to accurate "Series A (led, $25M; Bessemer + F2 participated as existing investors) | 2023-06-28". CRV entered at Series A, NOT seed. Prior $15M Seed (Feb 23, 2022) was led by Bessemer + F2 with Venrock participation. Row also updated to note Cisco acquisition (2026-05-04). 3 new footnotes added: [^39] Astrix company press (2023-06-28), [^40] TechCrunch, [^41] PR Newswire.'

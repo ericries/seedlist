@@ -96,7 +96,7 @@ Based on 64 companies listed on the Trucks VC portfolio page [^1], with suppleme
 | Aurora Labs | Seed | ~2018 | OTA software | Active [^1] |
 | BasiGo | Seed | ~2021 | Electric buses (Africa) | Active [^1] |
 | Bear Flag Robotics | Pre-seed | 2017 | Autonomous agriculture | Acquired (John Deere) [^1][^18] |
-| Bedrock | Seed | ~2024 | Sodium-ion batteries | Active [^1] |
+| Bedrock Materials | Seed ($9M; co-led with Refactor Capital and Version One Ventures; Hanover Technology Investment Management, SpaceCadet Ventures, Brainstorm Capital, Evergreen Climate Innovations, Expansion VC, Climate Capital, Quest Venture Partners, Meliorate Partners, Valia Ventures, Ritual Capital + angels participated) | 2024-05-16 | Sodium-ion batteries | Wound down late 2025 [^1][^28][^29][^30] |
 | Bidirectional Energy | Seed | ~2023 | V2X EV charging | Active [^1] |
 | Bingo Tech | Seed | ~2023 | Battery swapping | Active [^1] |
 | Carvis AI | Pre-Seed (led, $1.2M) | 2024-11-04 | AI automotive diagnostics | Active [^1][^8][^24] |
@@ -113,7 +113,8 @@ Based on 64 companies listed on the Trucks VC portfolio page [^1], with suppleme
 | Faction | Seed | ~2021 | Driverless EVs | Active [^1] |
 | Fusaware | Seed | ~2022 | Hardware safety software | Active [^1] |
 | Gatik | Seed | 2018 | Autonomous logistics | Active [^1][^10] |
-| JetZero | Seed | ~2023 | Zero-emissions aircraft | Active [^1][^21] |
+| JetZero | Series A (participant; undisclosed check; JetZero later characterized Trucks VC as a "longtime supporter from Series A financing") | 2023 | Zero-emissions aircraft | Active [^1][^21][^31] |
+| JetZero (follow-on) | Series B ($175M total; B Capital led; Trucks VC participated alongside United Airlines Ventures, Northrop Grumman, 3M Ventures, Marlinspike, Aero X Ventures, RTX Ventures) | 2026-01-13 | Zero-emissions aircraft | Active [^21][^32] |
 | Joby Aviation | Seed | ~2017 | Electric air taxi | Public (NYSE: JOBY) [^1] |
 | LGN | Seed | ~2024 | Real-world AI | Active [^1] |
 | Maritime Fusion | Seed | ~2024 | Nuclear fusion (maritime) | Active [^1] |
@@ -212,3 +213,13 @@ No independently sourced founder testimonials found. Dedicated searches for foun
 [^26]: Xona Space Systems press release, "Xona Space Systems Raises $1M Pre-Seed," May 14, 2020, accessed July 2026. https://www.xonaspace.com/pr20200514 — Confirms $1M pre-seed round announced May 14, 2020, led by 1517 with participation from Seraphim Capital, Trucks Venture Capital, and Stellar Solutions.
 
 [^27]: Via Satellite / SatelliteToday, "PNT Startup Xona Space Systems Raises $1M in Pre-Seed," May 15, 2020, accessed July 2026. https://www.satellitetoday.com/finance/2020/05/15/pnt-startup-xona-space-systems-raises-1m-in-pre-seed/ — Independent tier-1 trade press confirms $1M pre-seed, 1517 as lead, plus Seraphim Capital, Trucks Venture Capital, and Stellar Solutions.
+
+[^28]: TechCrunch, "Forget EVs: Why Bedrock Materials is targeting gas-powered cars for its first sodium-ion batteries," May 16, 2024. Accessed July 2026. https://techcrunch.com/2024/05/16/forget-evs-why-bedrock-materials-is-targeting-gas-powered-cars-for-its-first-sodium-ion-batteries/ — Primary tier-1 press (exclusive to TechCrunch). Confirms Bedrock Materials $9M seed round announced May 16, 2024; co-led by Trucks Venture Capital, Refactor Capital, and Version One Ventures. Company founded 2023 by Spencer Gore and Rafael Vila; HQ Chicago.
+
+[^29]: Version One Ventures blog, "Introducing our investment in Bedrock Materials," May 20, 2024. Accessed July 2026. https://versionone.vc/introducing-bedrock/ — Primary source from co-lead investor. Confirms $9M seed co-led with Trucks Venture Capital and Refactor Capital.
+
+[^30]: CleanTechnica, "Bedrock Materials Secures $9 Million Seed Funding, Establishes R&D Headquarters in Chicago," May 21, 2024. Accessed July 2026. https://cleantechnica.com/2024/05/21/bedrock-materials-secures-9-million-seed-funding-establishes-rd-headquarters-in-chicago/ — Independent tier-1 clean-tech press confirms $9M seed co-led by Trucks Venture Capital, Refactor Capital, and Version One Ventures; full participant list includes Hanover Technology Investment Management, SpaceCadet Ventures, Brainstorm Capital, Evergreen Climate Innovations, Expansion VC, Climate Capital, Quest Venture Partners, Meliorate Partners, Valia Ventures, Ritual Capital, and angel investors.
+
+[^31]: Alaska Airlines News, "Alaska Airlines announces investment in JetZero to propel innovative aircraft technology and design," August 13, 2024. Accessed July 2026. https://news.alaskaair.com/sustainability/alaska-airlines-announces-investment-in-jetzero-to-propel-innovative-aircraft-technology-and-design/ — Corroborating primary source. Alaska Airlines states its investment was "part of JetZero's Series A funding round last year" (i.e., 2023), confirming the Series A closed during 2023. Trucks VC publicly identified JetZero as a "portfolio company" in an August 2023 LinkedIn post celebrating JetZero's DAF selection.
+
+[^32]: FlightGlobal, "'All-wing' aircraft developer JetZero raises $175m for demonstrator advancement," January 2026. Accessed July 2026. https://www.flightglobal.com/airframers/2026/01/all-wing-aircraft-developer-jetzero-raises-175m-for-demonstrator-advancement/ — Independent tier-1 aviation industry press confirms JetZero's $175M Series B on January 13, 2026, led by B Capital, with Trucks VC among participating investors alongside United Airlines Ventures, Northrop Grumman, 3M Ventures, Marlinspike, Aero X Ventures, and RTX Ventures.

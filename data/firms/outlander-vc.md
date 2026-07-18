@@ -120,7 +120,7 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 | ProducePay | Seed | ~2021 | Agtech/fintech | [^10] |
 | Lula Commerce | Seed (co-led, $5.5M) | 2022-02-03 | SaaS marketplace / C-store delivery | [^11][^18][^22] |
 | Crow Industries | Pre-seed | 2023 | Autonomous mining/robotics | [^11] |
-| HavocAI | Seed | ~2023 | Maritime autonomy/defense | [^11] |
+| HavocAI | Seed ($11M; Scout Ventures led, Trousdale Ventures co-led; Outlander VC + The Veteran Fund + BV.VC + Decisive Point + Alumni Ventures + New North Ventures participated) | 2024-09-20 | Maritime autonomy/defense | [^11][^24][^25][^26] |
 | Skyways | Seed | ~2022 | Autonomous cargo drones | [^11][^12] |
 | Tryby AI | Seed | ~2024 | Voice AI agents | [^11] |
 | DiffuseDrive | Seed (co-led) | 2025-05-14 | Generative AI for robotics | [^13][^19] |
@@ -194,3 +194,9 @@ No additional independently sourced founder testimonials found beyond firm-hoste
 [^22]: GlobeNewswire, "VCs Deliver $5.5M to Lula Delivery," February 3, 2022. Accessed May 2026. https://www.globenewswire.com/news-release/2022/02/03/2378536/0/en/VCs-Deliver-5-5M-to-Lula-Delivery.html — Lula (Philadelphia, PA) announced a $5.5M seed round on February 3, 2022 co-led by Ripple Ventures, Outlander VC, and Up.Partners, with participation from SOSV, simple.capital, NZVC, Stonks.com, EasyPost, Park City Angels, Alumni Ventures, Broad Street Angels, Ben Franklin Technology Partners, and additional angels. Brings total to $6.5M following a $1M pre-seed in summer 2021.
 
 [^23]: Yahoo Finance / Sourcing Journal, "Exclusive: Early-Stage Startup Using AI for Visual Commerce Scores Pre-Seed Round," June 18, 2024. Accessed May 2026. https://finance.yahoo.com/news/exclusive-early-stage-startup-using-130000616.html — Flock AI announced $1.5M pre-seed on June 18, 2024, led by Outlander VC; Red Swan Ventures, F4 Fund, Hustle Fund, and Dorm Room Fund participated. Cross-referenced with Orrick news, "Flock AI Raises $6 Million Seed Round to Advance AI-Generated Visual Commerce," February 5, 2026. https://www.orrick.com/en/News/2026/03/Flock-AI-Raises-$6-Million-Seed-Round-to-Advance-AI-Generated-Visual-Commerce — $6M Seed led by Work-Bench; Outlander VC participated as follow-on. Total raised: $7.5M.
+
+[^24]: PR Newswire (HavocAI press release), "HavocAI Closes $11M Seed Round to Revolutionize Autonomous Uncrewed Surface Vessel Operations," September 20, 2024. Accessed July 2026. https://www.prnewswire.com/news-releases/havocai-closes-11m-seed-round-to-revolutionize-autonomous-uncrewed-surface-vessel-operations-302254210.html — Primary source. Confirms HavocAI (Providence, RI) closed $11M Seed on Sept. 20, 2024; Scout Ventures led, Trousdale Ventures co-led; Outlander VC, The Veteran Fund, BV.VC, Decisive Point, Alumni Ventures, and New North Ventures participated. CEO Paul Lwin quoted.
+
+[^25]: MarineLink, "Havocai Raises $11 Million In Seed Funding," September 20, 2024. Accessed July 2026. https://www.marinelink.com/news/havocai-raises-million-seed-funding-517298 — Independent maritime industry press confirms 2024-09-20 $11M seed round with Scout Ventures leading, Trousdale Ventures co-leading, and Outlander VC among participants.
+
+[^26]: The SaaS News, "HavocAI Raises $11 Million in Seed Round," September 2024. Accessed July 2026. https://www.thesaasnews.com/news/havocai-raises-11-million-in-seed-round/ — Third independent confirmation of $11M seed round with Scout Ventures as lead, Trousdale Ventures as co-lead, and Outlander VC and The Veteran Fund among additional participating investors.
