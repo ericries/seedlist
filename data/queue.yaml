@@ -21620,7 +21620,7 @@ queue:
 - name: Dave Feldman
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Greenboard
   discovered_from: greenboard
@@ -21705,7 +21705,7 @@ queue:
 - name: Paul Lwin
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Havoc
   discovered_from: havoc
@@ -38865,3 +38865,41 @@ queue:
   added: '2026-03-17'
   firm: Elorian
   discovered_from: elorian
+- name: Joe Turner
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Havoc
+  discovered_from: paul-lwin
+- name: Scout Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: paul-lwin
+- name: Trousdale Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: paul-lwin
+- name: Decisive Point
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: paul-lwin
+- name: New North Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: paul-lwin
+- name: Ed Schembor
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Greenboard
+  discovered_from: dave-feldman
