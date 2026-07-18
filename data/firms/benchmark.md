@@ -112,7 +112,7 @@ The following analysis is based on 45 verified portfolio investments listed in t
 
 - **Enterprise Software / SaaS / Developer Tools**: 14 companies (31%) — Zendesk, New Relic, Elastic, Confluent, Asana, Cockroach Labs, Contentful, Airtable, LangChain, Reducto, Docker, Benchling, Fullstory, Stitch Fix (tech-enabled)
 - **Marketplaces / Consumer Internet**: 13 companies (29%) — eBay, Uber, OpenTable, GrubHub, Zillow, Yelp, Nextdoor, Tinder, 1stDibs, DoorDash, Discord, Snapchat, Instagram
-- **AI / Infrastructure**: 7 companies (16%) — Cerebras, Exa Labs, Reducto, LangChain, Applied Compute, Forge, Dagger
+- **AI / Infrastructure**: 6 companies (14%) — Cerebras, Exa Labs, Reducto, LangChain, Applied Compute, Dagger
 - **Consumer / Social**: 5 companies (11%) — Twitter, Snapchat, Instagram, Discord, Nextdoor
 - **Other (Real Estate, Fintech, Gaming)**: 6 companies (13%) — WeWork, Stitch Fix, Riot Games, Chainalysis, HackerOne, Amplitude
 
@@ -208,7 +208,6 @@ The following table includes 45 Benchmark investments verified through press cov
 | Monaco | Series B (led, $50M) | 2026-05-12 | AI / Sales | Private [^42] |
 | Reducto | Series B (participated) | 2025-10-14 | AI / Document Intelligence | Private [^20][^43] |
 | Applied Compute | Series A (led, $80M at ~$500M val; Victor Lazarte partner; also led prior $20M seed June 2025) | 2025-10-30 | AI / Infrastructure / Enterprise Agents | Private (Sequoia, Lux Capital, Elad Gil participated; ex-OpenAI researcher founding team) [^9][^52][^53][^54] |
-| Forge | Early | ~2025 | AI | Private [^1] |
 | FOMO | Series B (participated, $75M at ~$550M val; Index Ventures led) | 2026-06-22 | Fintech / Crypto / Consumer Trading | Private [^9][^46][^47][^48][^49] |
 | Legora | Series D (participated) | 2026-03-10 | AI / Legal Tech | Private [^33] |
 | Eigen | Seed (led, $15M; Sarah Tavel partner) | 2026-04-16 | AI / Social / Consumer | Private (Ben Silbermann (Pinterest), David Singleton (Dreamer), Gustav Söderström, Akshay Khotari, Will Wu participated as angels; founder Paul Scherer) [^34][^55][^56] |
@@ -216,7 +215,7 @@ The following table includes 45 Benchmark investments verified through press cov
 | Decart | Growth (participated, $300M at $4B val; Radical Ventures led) | 2026-05-18 | AI / World Models / Inference | Private [^44] |
 | Ollama | Series A (led, $15M, 2024); Series B participated ($65M, Theory Ventures led) | 2026-07-09 | AI / Developer Tools / Open Source Models | Private [^50][^51] |
 
-*Note: This table includes 46 companies out of ~305 total portfolio companies (~15%). Years marked with "~" indicate approximate dates based on founding year proxies or estimated investment timing where exact dates are not publicly confirmed. Stages listed reflect Benchmark's initial or most significant investment round.*
+*Note: This table includes 45 companies out of ~305 total portfolio companies (~15%). Years marked with "~" indicate approximate dates based on founding year proxies or estimated investment timing where exact dates are not publicly confirmed. Stages listed reflect Benchmark's initial or most significant investment round.*
 
 ## In Their Own Words
 

@@ -166157,7 +166157,9 @@ vague_facts:
   line: '| Groq | Growth | 2024 | AI / Chips | Private [^10] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-17'
+  resolution_note: 'Fact-spec 2026-07-17: Row was ALREADY REMOVED from andreessen-horowitz.md in prior sweep on 2026-07-04 (commit 7f629aa "a16z/Groq removed (unverified)"). Cross-verified this sweep — Groq is no longer present in the a16z profile. The original [^10] citation (GrowthList aggregator) did not confirm a16z as a Groq investor, and independent primary sources for all Groq rounds do not name a16z: Seed 2017 led by Social Capital (Chamath Palihapitiya joined board); Series C September 2021 led by Tiger Global + D1 Capital ($300M at $1B val, no a16z per Groq press release); Series D August 2024 led by BlackRock ($640M at $2.8B val, per Groq press release naming Neuberger Berman, Type One Ventures, Cisco Investments, KDDI, Samsung Catalyst Fund — no a16z); Sept 2025 secondary tender led by Disruptive ($750M at $6.9B val, per Groq/Bloomberg — no a16z). Verified via 3+ primary sources per round: (1) groq.com press releases, (2) BlackRock/D1/Tiger Global respective statements, (3) Bloomberg/TechCrunch contemporaneous press. a16z portfolio page (a16z.com/portfolio) does not list Groq. Marking queue entry resolved to close the loop; no additional profile edits needed.'
 - profile: firms/andreessen-horowitz
   profile_name: Andreessen Horowitz
   company: Vanta
@@ -166388,7 +166390,9 @@ vague_facts:
   line: '| Nexthop AI | Series A | 2024 | AI / Networking | Active | [^12] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-17'
+  resolution_note: 'Fact-spec 2026-07-17: Row was ALREADY TIGHTENED in battery-ventures.md in prior sweep on 2026-07-04 (commit 7f629aa) from "Series A | 2024" to "Seed + Series A (participated, USD 110M combined; Lightspeed led) | 2025-03-25". Cross-verified in follow-up sweep 2026-07-16 (entry line 4643 already marked resolved) with 6 independent primary sources: (1) DataCenterDynamics 2025-03-25 [^12], (2) SiliconANGLE 2025-03-25 [^28], (3) Crunchbase News 2025-03-25 [^29], (4) BusinessWire company press release 20250325719035, (5) Nexthop official press release page https://nexthop.ai/news-and-event/press-release-company-launch/, (6) Business Standard 2025-03-25. All six independently confirm 2025-03-25 date, USD 110M combined seed+Series A amount, Lightspeed Venture Partners as lead, and Battery Ventures + Kleiner Perkins + WestBridge Capital + Emergent Ventures as participants. This queue entry is a duplicate scan of the same fact (year_only_date scanner); marking resolved to close.'
 - profile: firms/battery-ventures
   profile_name: Battery Ventures
   company: Orkes
@@ -166444,7 +166448,9 @@ vague_facts:
   line: '| Forge | Early | ~2025 | AI | Private [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: '2026-07-17'
+  resolution_note: 'Fact-spec 2026-07-17: UNRESOLVABLE and REMOVED from benchmark.md portfolio table. Same aggregator-only error pattern as prior Groq/Vanta removals on a16z. The Forge row was based solely on Grokipedia [^1] — an unreliable aggregator not a primary source. Investigation: (1) Wikipedia Benchmark article lists AI portfolio (Fireworks AI, Mercor, Sierra AI, Manus) — NO Forge. (2) No primary source confirms Benchmark invested in any specific "Forge" AI company circa 2025. (3) Multiple "Forge" companies exist with unrelated investors: Forge.AI (Accomplice, Boston Seed, In-Q-Tel — no Benchmark), Forge (gaming, acquired by NZXT, Makers Fund/BITKRAFT/Animoca led seed — no Benchmark), Forge Global FRGE (public secondary market — no Benchmark early investment record), various ForgeCode open-source projects. (4) Web searches "Benchmark Forge 2025 investment", "Benchmark Capital Forge portfolio", "Forge AI seed Benchmark led", and named-partner searches (Fenton/Tavel/Grimshaw/Puttagunta/Lazarte) returned zero primary-source hits confirming Benchmark as investor in any Forge entity. Given ambiguity across multiple candidates and no confirming primary source, row REMOVED from benchmark.md Portfolio table (line 211), AI/Infrastructure sector cluster on line 115 updated from "7 companies (16%) — Cerebras, Exa Labs, Reducto, LangChain, Applied Compute, Forge, Dagger" to "6 companies (14%) — Cerebras, Exa Labs, Reducto, LangChain, Applied Compute, Dagger", and portfolio table count note updated from 46 to 45 companies. [^1] Grokipedia source retained since it is referenced by many other rows.'
 - profile: firms/benchmark
   profile_name: Benchmark
   company: FOMO
