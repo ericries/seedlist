@@ -8267,7 +8267,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 31,
+      "size": 33,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8415,6 +8415,16 @@
           "slug": "olivia-moore",
           "name": "Olivia Moore",
           "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "justine-moore",
+          "name": "Justine Moore",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "anish-acharya",
+          "name": "Anish Acharya",
+          "firm": "andreessen-horowitz"
         }
       ]
     },
@@ -8497,7 +8507,7 @@
       "name": "The Fintech Mafia",
       "tagline": "Deep in the financial plumbing. They backed multiple fintech unicorns and understand payments, lending, and banking infrastructure cold.",
       "type": "curated",
-      "size": 22,
+      "size": 23,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -8604,6 +8614,11 @@
           "slug": "nithin-kamath",
           "name": "Nithin Kamath",
           "firm": "rainmatter"
+        },
+        {
+          "slug": "anish-acharya",
+          "name": "Anish Acharya",
+          "firm": "andreessen-horowitz"
         }
       ]
     },
@@ -8612,7 +8627,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 31,
+      "size": 32,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8763,6 +8778,11 @@
         {
           "slug": "olivia-moore",
           "name": "Olivia Moore",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "justine-moore",
+          "name": "Justine Moore",
           "firm": "andreessen-horowitz"
         }
       ]
@@ -10809,7 +10829,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 63,
+      "size": 64,
       "members": [
         {
           "slug": "aileen-lee",
@@ -11118,6 +11138,11 @@
           "slug": "dina-radenkovic",
           "name": "Dina Radenkovic",
           "firm": "independent"
+        },
+        {
+          "slug": "justine-moore",
+          "name": "Justine Moore",
+          "firm": "andreessen-horowitz"
         }
       ]
     },
