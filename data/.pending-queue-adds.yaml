@@ -1,0 +1,85 @@
+- name: "Hummingbird Ventures"
+  type: firm
+  firm: ""
+  priority: high
+  discovered_from: microagi
+- name: "LocalGlobe"
+  type: firm
+  firm: ""
+  priority: high
+  discovered_from: microagi
+- name: "Village Global"
+  type: firm
+  firm: ""
+  priority: high
+  discovered_from: microagi
+- name: "Redalpine"
+  type: firm
+  firm: ""
+  priority: high
+  discovered_from: microagi
+- name: "Bercan Kilic"
+  type: individual
+  firm: "microagi"
+  priority: high
+  discovered_from: microagi
+- name: "West Hill Capital"
+  type: firm
+  firm: ""
+  priority: high
+  discovered_from: silicon-microgravity
+- name: "UK Innovation & Science Seed Fund (UKI2S)"
+  type: firm
+  firm: ""
+  priority: high
+  discovered_from: silicon-microgravity
+- name: "Future Planet Capital"
+  type: firm
+  firm: ""
+  priority: high
+  discovered_from: silicon-microgravity
+- name: "Francis Neill"
+  type: individual
+  firm: "Silicon Microgravity"
+  priority: low
+  discovered_from: silicon-microgravity
+- name: "Pathlight Ventures"
+  type: firm
+  firm: ""
+  priority: high
+  discovered_from: hadrius
+- name: "Thomas Stewart"
+  type: individual
+  firm: "Hadrius"
+  priority: high
+  discovered_from: hadrius
+- name: "Capmont Technology"
+  type: firm
+  firm: ""
+  priority: high
+  discovered_from: sodex-innovations
+- name: "Bloomhaus"
+  type: firm
+  firm: ""
+  priority: normal
+  discovered_from: sodex-innovations
+- name: "Look AI Ventures"
+  type: firm
+  firm: ""
+  priority: normal
+  discovered_from: sodex-innovations
+- name: "Superangels"
+  type: firm
+  firm: ""
+  priority: normal
+  discovered_from: sodex-innovations
+- name: "SOSV"
+  type: firm
+  firm: ""
+  priority: high
+  discovered_from: sodex-innovations
+- name: "12 Rounds Capital"
+  type: firm
+  firm: ""
+  priority: normal
+  discovered_from: sodex-innovations

@@ -5374,3 +5374,13 @@ priority:
   type: firm
   reason: "appeared in Flex Series B1 (2026-07-14), $70M — participated"
   added: 2026-07-17
+
+- slug: crv
+  type: firm
+  reason: "appeared in Hadrius Series A+Seed (2026-07-14), $27M — led round"
+  added: 2026-07-19
+
+- slug: northzone
+  type: firm
+  reason: "appeared in microagi Seed (2026-07-16), $55M — participated alongside Hummingbird lead"
+  added: 2026-07-19

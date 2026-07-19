@@ -89,14 +89,14 @@ Perplexity AI is an AI-powered search engine founded in August 2022 by Aravind S
 |-------|------|--------|-------------------|-------------------|-----------|
 | Seed | 2022-09 | $3.1M | Elad Gil, Nat Friedman | Yann LeCun, Andrej Karpathy, Ashish Vaswani, Amjad Masad, Clem Delangue, Pieter Abbeel | Not disclosed [^10] |
 | Series A | 2023-03-28 | $25.6M | NEA (Peter Sonsini) | Databricks Ventures, Elad Gil, Nat Friedman, Bob Muglia, Jeff Dean, Paul Buchheit | Not disclosed [^4][^11] |
-| Series B | 2024-01 | $73.6M | IVP | NVIDIA, Bezos Expeditions, Bessemer Venture Partners | $520M |
+| Series B | 2024-01-04 | $73.6M | IVP | NVIDIA, NEA, Bessemer Venture Partners, Elad Gil, Jeff Bezos (Bezos Expeditions), Nat Friedman, Databricks, Tobi Lutke, Guillermo Rauch, Naval Ravikant, Balaji Srinivasan, Kindred Ventures | $520M [^14][^15][^16] |
 | Series C | 2024-04 | $62.7M | Daniel Gross | Jeff Bezos, NVIDIA, Stan Druckenmiller, Tobias Lutke, Garry Tan | $1B |
 | Series D | 2024-12 | $500M | IVP, SoftBank | Jeff Bezos, NVIDIA | $9B |
 | Series E | 2025-05-12 | $500M | Accel | — | $14B [^7] |
 | Extension | 2025-07-17 | $100M | Accel | NVIDIA, SoftBank Vision Fund 2, NEA, IVP | $18B [^12][^13] |
 | Round | 2025-09-10 | $200M | — | — | $20B |
 
-Sources: [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13]
+Sources: [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16]
 
 ## What Investors Say
 
@@ -121,3 +121,6 @@ No independently sourced founder testimonials found.
 [^11]: Benzinga / PR Newswire, "Perplexity AI Launches iOS Version of Conversational Answer Engine, Announces $25.6M Series A Round Led by NEA," March 28, 2023. https://www.benzinga.com/pressreleases/23/03/n31525879/perplexity-ai-launches-ios-version-of-conversational-answer-engine-announces-25-6m-series-a-round-
 [^12]: Bloomberg, "Aravind Srinivas' Startup Perplexity AI Valued at $18 Billion With New Funding," July 17, 2025. https://www.bloomberg.com/news/articles/2025-07-17/ai-startup-perplexity-valued-at-18-billion-with-new-funding
 [^13]: PYMNTS, "Perplexity AI Hits $18 Billion Valuation in Latest Funding Round," July 18, 2025. https://www.pymnts.com/artificial-intelligence-2/2025/perplexity-ai-hits-18-billion-valuation-in-latest-funding-round/
+[^14]: Perplexity AI blog, "Perplexity raises Series B funding round," January 4, 2024. Accessed July 2026. https://www.perplexity.ai/hub/blog/perplexity-raises-series-b-funding-round — Perplexity's own announcement of $73.6M Series B led by IVP with returning investors NEA, Elad Gil, Nat Friedman, Databricks and new investors NVIDIA, Jeff Bezos (via Bezos Expeditions Fund), Tobi Lutke, Bessemer Venture Partners, Naval Ravikant, Balaji Srinivasan, Guillermo Rauch, Austen Allred, Factorial Funds, and Kindred Ventures.
+[^15]: Cointelegraph, "Perplexity raises $73M Series B off reported $520M valuation for AI-powered search engine," January 4, 2024. Accessed July 2026. https://cointelegraph.com/news/perplexity-artificial-intelligence-raises-73-m-series-b-off-520-m-valuation-ai-powered-search-engine — Independent contemporaneous confirmation of $73.6M Series B at $520M post-money on 2024-01-04, IVP-led, Bessemer Venture Partners named as new investor.
+[^16]: Latham & Watkins, "Latham & Watkins Advises Perplexity.AI in US$73.6 Million Series B Financing," January 5, 2024. Accessed July 2026. https://www.lw.com/en/news/latham-watkins-advises-perplexityai-in-us73-6-million-series-b-financing — Primary source from Perplexity's outside legal counsel confirming US$73.6M Series B at US$520M valuation led by IVP with participants NVIDIA, NEA, Bessemer Venture Partners, Elad Gil, Jeff Bezos, Nat Friedman, Databricks, Tobi Lutke, Guillermo Rauch, Naval Ravikant, and Balaji Srinivasan.

@@ -9,9 +9,9 @@ stage_focus: [seed, series-a, series-b]
 sector_focus: [space, aerospace, deeptech, energy, climate]
 check_size: "Undisclosed (selective angel checks)"
 last_verified_investment:
-  date: 2024-09-24
-  company: "Reflect Orbital"
-  round: "Seed"
+  date: 2026-07-07
+  company: "Oratomic"
+  round: "Series A"
 social:
   twitter: "@BaijuBhatt"
   linkedin: "linkedin.com/in/bprafulkumar"
@@ -53,6 +53,7 @@ Speaking about his motivation for building in space, Bhatt has said: "Until you 
 
 | Company | Year | Stage | Source |
 |---|---|---|---|
+| Oratomic | 2026-07-07 | Series A (co-led by ARCH Venture Partners, Spark Capital, Khosla Ventures; Bhatt participated as angel) | Quantum Computing Report [^11]; The Quantum Insider [^12]; MLQ News [^13] |
 | Apex | 2024 | Series B [^7] | Tracxn / Fast Company [^6][^7] |
 | Reflect Orbital | 2024 | Seed [^6] | Fast Company / Wikipedia [^1][^6] |
 
@@ -94,3 +95,6 @@ No independently sourced founder testimonials found. Bhatt's angel portfolio is 
 [^8]: "Robinhood Co-Founder Bhatt's Space Solar Startup Aetherflux Raises $50 Million," Bloomberg, April 2, 2025. https://www.bloomberg.com/news/articles/2025-04-02/robinhood-billionaire-s-space-solar-startup-raises-50-million
 [^9]: "From Robinhood to Aetherflux: Baiju Bhatt at Disrupt 2025," TechCrunch, September 29, 2025. https://techcrunch.com/2025/09/29/from-robinhood-to-aetherflux-baiju-bhatts-next-frontier-at-techcrunch-disrupt-2025/
 [^10]: "Cowboy Space Corporation Raises $275M Series B For Vertically-Integrated Orbital Data Centers and Rockets," BusinessWire, May 8, 2026. https://www.businesswire.com/news/home/20260508036993/en/Cowboy-Space-Corporation-Raises-$275M-Series-B-For-Vertically-Integrated-Orbital-Data-Centers-and-Rockets
+[^11]: "Oratomic Secures $300M Series A to Build Fault-Tolerant Quantum Computers via Reconfigurable Neutral-Atom Arrays," Quantum Computing Report, July 7, 2026. Accessed July 19, 2026. https://quantumcomputingreport.com/oratomic-secures-300m-series-a-to-build-fault-tolerant-quantum-computers-via-reconfigurable-neutral-atom-arrays/ — Independently names Baiju Bhatt among the angel investors alongside David Aaronson, Scott Aaronson, and Les Kohn.
+[^12]: "Oratomic Raises $300 Million Series A," The Quantum Insider, July 7, 2026. Accessed July 19, 2026. https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/
+[^13]: "Oratomic Raises $300M Series A to Build Fault-Tolerant Quantum Computer With 20,000 Qubits," MLQ News, July 11, 2026. Accessed July 19, 2026. https://mlq.ai/news/oratomic-raises-300m-series-a-to-build-fault-tolerant-quantum-computer-with-20000-qubits/

@@ -184,7 +184,7 @@ ElevenLabs is an AI audio research and deployment company co-founded in 2022 by 
 | Jan 2024 | Series B | $80M | $1.1B | a16z, Nat Friedman, Daniel Gross | Sequoia Capital, Smash Capital, SV Angel, BroadLight Capital, Credo Ventures [^9][^10] |
 | 2025-09-23 | Strategic | Undisclosed (amount not publicly disclosed by ElevenLabs) | — | NVIDIA | — [^11][^17][^18] |
 | Jan 2025 | Series C | $180M | $3.3B | a16z, ICONIQ Growth | NEA, World Innovation Lab, Valor, Endeavor Catalyst, Lunate, Sequoia Capital, Salesforce Ventures, Smash Capital, SV Angel, NFDG, BroadLight Capital; strategic: Deutsche Telekom, LG Technology Ventures, HubSpot Ventures, NTT DOCOMO Ventures, RingCentral Ventures [^3][^12] |
-| Feb 2026 | Series D | $500M | $11B | Sequoia Capital | a16z, ICONIQ Growth, Lightspeed Venture Partners, Evantic Capital, BOND, BroadLight, NFDG, Valor Capital, AMP Coalition, Smash Capital [^4][^5] |
+| 2026-02-04 | Series D | $500M | $11B | Sequoia Capital | a16z, ICONIQ Growth, Lightspeed Venture Partners, Evantic Capital, BOND, BroadLight, NFDG, Valor Capital, AMP Coalition, Smash Capital [^4][^5][^19] |
 
 ## What Investors Say
 
@@ -223,3 +223,4 @@ ElevenLabs is an AI audio research and deployment company co-founded in 2022 by 
 [^17]: Tech.eu, "Nvidia to make 'strategic' investment in ElevenLabs," September 23, 2025. https://tech.eu/2025/09/23/nvidia-to-make-strategic-investment-in-elevenlabs/
 
 [^18]: American Bazaar, "Nvidia invests big in AI voice startup ElevenLabs," September 23, 2025. Accessed July 2026. https://americanbazaaronline.com/2025/09/23/nvidia-invests-big-in-ai-voice-startup-elevenlabs-467989/ — Third independent confirmation that NVIDIA's strategic investment in ElevenLabs was announced 2025-09-23; amount was not disclosed by ElevenLabs CEO Mati Staniszewski.
+[^19]: ElevenLabs blog, "ElevenLabs raises USD 500M Series D at USD 11B valuation," February 4, 2026. Accessed July 2026. https://elevenlabs.io/blog/series-d — Primary source: ElevenLabs' own announcement of a USD 500M Series D on 2026-02-04, led by Sequoia Capital (Andrew Reed joined board), with Andreessen Horowitz and ICONIQ (existing) super pro-rata, new investors Lightspeed Venture Partners, Evantic Capital, BOND, and continuing investors BroadLight, NFDG, Valor Capital, AMP Coalition, and Smash Capital.

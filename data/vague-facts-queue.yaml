@@ -4777,7 +4777,9 @@ vague_facts:
   line: '| Perplexity | Series B ($250M) | 2024 | AI | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-19'
+  resolution_note: 'Tightened bessemer-venture-partners.md row from Series B ($250M) 2024 to Series B ($73.6M, participated as new investor; IVP-led at $520M val) 2024-01-04 via 3 independent primary sources: (1) Cointelegraph contemporaneous coverage [^perp1], (2) Maginative independent press [^perp2], (3) Latham & Watkins (Perplexity outside counsel) primary press release [^perp3]. Prior "$250M" value confused Bessemer''s Series B participation with April-May 2024 press reports that Bessemer was "in talks to lead" a subsequent $250M+ round at $2.5-3B valuation; no primary press release confirming Bessemer as lead of that later round has been located. Bessemer''s confirmed investment is the $73.6M IVP-led Series B on 2024-01-04. Also tightened perplexity-ai.md startup Funding History date from 2024-01 to 2024-01-04 with parallel [^14] Perplexity blog + [^15] Cointelegraph + [^16] Latham & Watkins citations and full participant list.'
 - profile: firms/bessemer-venture-partners
   profile_name: Bessemer Venture Partners
   company: ServiceTitan
@@ -5192,7 +5194,9 @@ vague_facts:
   line: '| ElevenLabs | Growth | 2026 | AI | Active | [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-19'
+  resolution_note: 'Tightened bond.md row from Growth 2026 to Series D (participant, new investor; Sequoia led at USD 11B post-money valuation) 2026-02-04 via 3 independent primary sources: (1) ElevenLabs company blog [^el1], (2) TechCrunch tier-1 press [^el2], (3) Sifted independent primary [^el3]. $500M Series D announced 2026-02-04 led by Sequoia Capital (Andrew Reed to board) at $11B post-money. Existing investors a16z and ICONIQ participated super pro-rata; new investors Lightspeed Venture Partners, Evantic Capital, and BOND joined; continuing investors BroadLight, NFDG, Valor Capital, AMP Coalition, and Smash Capital. Also updated elevenlabs.md startup Funding History date from Feb 2026 to 2026-02-04 with ElevenLabs blog citation [^19] added alongside existing Sifted [^4] and TechCrunch [^5].'
 - profile: firms/bond
   profile_name: BOND
   company: Ironclad
