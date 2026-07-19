@@ -1,22 +1,34 @@
 ---
-name: "Ritesh Agarwal"
-slug: ritesh-agarwal
-type: individual
+check_size: $500K-$5M
 firm: aroa-ventures
-role: "Founder, Aroa Ventures; Founder & Group CEO, OYO"
-location: "Gurugram, India"
-stage_focus: [seed, series-a, growth]
-sector_focus: [consumer, hospitality, retail-tech, edtech, fintech, saas, southeast-asia, india]
-check_size: "$500K-$5M"
-last_verified_investment:
-  date: 2021-09
-  company: "Dukaan"
-  round: "Pre-Series A"
-social:
-  twitter: "@riteshagar"
-  linkedin: "linkedin.com/in/ritesh-agarwal-50219356"
-status: published
 last_researched: 2026-06-08
+last_verified_investment:
+  company: CRED
+  date: ~2024
+  round: Growth (top revenue contributor per PrivateCircle 2024; no specific round
+    or date independently verifiable in press)
+location: Gurugram, India
+name: Ritesh Agarwal
+role: Founder, Aroa Ventures; Founder & Group CEO, OYO
+sector_focus:
+- consumer
+- hospitality
+- retail-tech
+- edtech
+- fintech
+- saas
+- southeast-asia
+- india
+slug: ritesh-agarwal
+social:
+  linkedin: linkedin.com/in/ritesh-agarwal-50219356
+  twitter: '@riteshagar'
+stage_focus:
+- seed
+- series-a
+- growth
+status: published
+type: individual
 ---
 
 ## Background

@@ -23253,7 +23253,7 @@ queue:
 - name: Ian Crosby
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Synthetic
   discovered_from: synthetic
@@ -25665,7 +25665,7 @@ queue:
 - name: Olivia Moore
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Andreessen Horowitz
   discovered_from: arc-qsr
@@ -38941,3 +38941,90 @@ queue:
   added: '2026-03-17'
   discovered_from: silicon-microgravity
   source: manages UKI2S, co-invested in Silicon Microgravity growth round (2026-07-17)
+- name: LocalGlobe
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: microagi
+- name: Bercan Kilic
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: microagi
+  discovered_from: microagi
+- name: UK Innovation & Science Seed Fund (UKI2S)
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: silicon-microgravity
+- name: Francis Neill
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Silicon Microgravity
+  discovered_from: silicon-microgravity
+- name: Thomas Stewart
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hadrius
+  discovered_from: hadrius
+- name: Capmont Technology
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sodex-innovations
+- name: Bloomhaus
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sodex-innovations
+- name: Look AI Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sodex-innovations
+- name: Superangels
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sodex-innovations
+- name: SOSV
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sodex-innovations
+- name: 12 Rounds Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sodex-innovations
+- name: Justine Moore
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: olivia-moore
+  source: twin sister and fellow a16z investing partner (consumer + AI); co-founded
+    Cardinal Ventures with Olivia Moore at Stanford
+- name: Seema Amble
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: olivia-moore
+  source: co-sponsor with Olivia Moore of HappyRobot Series A and Toma Series A at
+    a16z

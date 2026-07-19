@@ -1,21 +1,38 @@
 ---
-name: "Flex"
-slug: flex-banking
-type: startup
-website: "https://flex.one"
-location: "Miami, FL"
+firms:
+- round: Seed (Angel)
+  slug: kapor-capital
+  year: 2016
+- round: ~2021
+  slug: banana-capital
+  year: 2021
 founded: 2022
-status_company: active
-sector: [fintech, banking, private-banking, ai, sme]
-stage_latest: "Series B1"
-total_raised: "$180M equity + $300M debt"
-firms: []
-investors: []
 founders:
-  - name: "Zaid Rahman"
-    role: "Founder & CEO"
-status: published
+- name: Zaid Rahman
+  role: Founder & CEO
+investors:
+- round: Seed (Angel)
+  slug: ellen-pao
+  year: 2016
+- round: ~2021
+  slug: turner-novak
+  year: 2021
 last_researched: 2026-07-17
+location: Miami, FL
+name: Flex
+sector:
+- fintech
+- banking
+- private-banking
+- ai
+- sme
+slug: flex-banking
+stage_latest: Series B1
+status: published
+status_company: active
+total_raised: $180M equity + $300M debt
+type: startup
+website: https://flex.one
 ---
 
 ## About

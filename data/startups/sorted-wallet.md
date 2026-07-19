@@ -1,11 +1,19 @@
 ---
-name: Sorted Wallet
-slug: sorted-wallet
-type: startup
-website: https://www.sorted.io/
-location: Hong Kong
+firms:
+- round: Seed ($4.4M, co-led by Gnosis VC and Tether)
+  slug: gnosis-vc
+  year: 2026
 founded: 2022
-status_company: active
+founders:
+- name: Stephen Browne
+  role: CEO & Founder
+investors:
+- round: Seed ($4.4M, co-led by Gnosis VC and Tether)
+  slug: daniele-pinna
+  year: 2026
+last_researched: 2026-05-22
+location: Hong Kong
+name: Sorted Wallet
 sector:
 - crypto
 - web3
@@ -14,15 +22,13 @@ sector:
 - mobile
 - emerging-markets
 - wallet
+slug: sorted-wallet
 stage_latest: Seed
-total_raised: $5.9M
-investors: []
-firms: []
-founders:
-- name: Stephen Browne
-  role: CEO & Founder
-last_researched: 2026-05-22
 status: published
+status_company: active
+total_raised: $5.9M
+type: startup
+website: https://www.sorted.io/
 ---
 
 ## About

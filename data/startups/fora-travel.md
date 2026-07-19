@@ -1,33 +1,40 @@
 ---
-name: "Fora"
-slug: fora-travel
-type: startup
-website: "https://www.foratravel.com"
-location: "New York, New York"
-founded: 2021
-status_company: active
-sector: [travel, ai, marketplace, consumer]
-stage_latest: "Series D"
-total_raised: "$138.5M"
-investors: []
 firms:
-  - slug: forerunner-ventures
-    round: series-d
-    year: 2026
-    date: 2026-07-16
-  - slug: insight-partners
-    round: series-d
-    year: 2026
-    date: 2026-07-16
-  - slug: thrive-capital
-    round: series-d
-    year: 2026
-    date: 2026-07-16
+- date: 2026-07-16
+  round: series-d
+  slug: forerunner-ventures
+  year: 2026
+- date: 2026-07-16
+  round: series-d
+  slug: insight-partners
+  year: 2026
+- date: 2026-07-16
+  round: series-d
+  slug: thrive-capital
+  year: 2026
+founded: 2021
 founders:
-  - name: "Evan Frank"
-    role: "Co-Founder & CEO"
-status: published
+- name: Evan Frank
+  role: Co-Founder & CEO
+investors:
+- round: Seed (Forerunner)
+  slug: brian-omalley
+  year: 2021
 last_researched: 2026-07-17
+location: New York, New York
+name: Fora
+sector:
+- travel
+- ai
+- marketplace
+- consumer
+slug: fora-travel
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: $138.5M
+type: startup
+website: https://www.foratravel.com
 ---
 
 ## About

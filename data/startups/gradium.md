@@ -18,6 +18,10 @@ firms:
 - round: Seed ($70M, co-led FirstMark/Eurazeo)
   slug: innovation-endeavors
   year: 2025
+- round: Seed ($70M co-led by FirstMark Capital + Eurazeo; DST Global, Eric Schmidt,
+    Rodolphe Saadé, Korelya, Amplify Partners also participated)
+  slug: kima-ventures
+  year: 2025
 founded: 2025
 founders:
 - name: Neil Zeghidour

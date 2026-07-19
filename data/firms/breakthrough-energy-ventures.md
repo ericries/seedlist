@@ -131,9 +131,9 @@ This table represents approximately 25% of BEV's 120+ portfolio organizations. O
 | Electra | Early Stage | ~2021 | Green Steel | Active [^15] |
 | Mill | Early Stage | ~2022 | Food Waste Recycling | Active [^15] |
 | Koloma | Series B (USD 245.7M; Khosla Ventures led; Amazon Climate Pledge Fund + United Airlines Sustainable Flight Fund new; BEV + Energy Impact Partners returning; BEV was returning investor from Koloma's July 2023 round) | 2024-02-09 | Geologic Hydrogen | Active [^27][^kol1][^kol2][^kol3] |
-| Terabase Energy | Series C | 2025 | Solar Infrastructure | Active [^26] |
-| 44.01 | Series A | 2025 | Carbon Mineralization | Active [^26] |
-| NitroVolt | Seed | 2024 | Green Ammonia | Active [^5] |
+| Terabase Energy | Series C ($130M; SoftBank Vision Fund 2 led; BEV participated as existing investor alongside Prelude Ventures, Fifth Wall, SJF Ventures, EDP Ventures) | 2025-03-13 | Solar Infrastructure | Active [^26][^tb1][^tb2][^tb3] |
+| 44.01 | Series A ($37M; Equinor Ventures + Shorooq Partners co-led; BEV participated as existing investor recommitting alongside Air Liquide Venture Capital, Alumni Ventures, Amazon Climate Pledge Fund, Climate Investment, Innovation Development Oman, Planet A Ventures, Salica Oryx Fund, Siemens Financial Services, Sumitomo Corporation; +$5M extension 2025-02-05 from Nysnø + Jasoor bringing total Series A to $42M) | 2024-07-15 | Carbon Mineralization | Active [^26][^4401a][^4401b][^4401c] |
+| NitroVolt | Seed (€3.5M; BackingMinds + EIFO co-led; Breakthrough Energy Fellowship followed on from 2023 grant with equity; EQT Foundation, Satgana, Division Q participated) | 2024-11-13 | Green Ammonia | Active [^5][^nv1][^nv2][^nv3] |
 | Savor | Early Stage | ~2024 | Food Tech | Active [^5] |
 | Yard Stick | Early Stage | ~2022 | Soil Carbon | Active [^15] |
 | Bloom Biorenewables | Early Stage | 2025 | Sustainable Materials | Active [^5] |
