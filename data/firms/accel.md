@@ -238,7 +238,6 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Tomo | Seed ($5M, participated; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | [^108][^109][^110] |
 | Pocket | Seed ($11M, led) | 2026-06-29 | AI / Consumer Hardware | [^111][^112][^113] |
 | Oak | Seed ($60M, co-led with CRV and Greylock Partners) | 2026-07-15 | Cybersecurity / Identity / AI-Native IAM | [^128][^129][^130] |
-| Flex | Series B1 ($70M, participated; Halo Fund led at $1.2B val; Portage, Wellington Management, Crosslink Capital, 53 Stations, Titanium Ventures, Spice, Florida Funders also participated) | 2026-07-14 | Fintech / AI-Native Private Banking | [^ac-flex-1][^ac-flex-2][^ac-flex-3] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
