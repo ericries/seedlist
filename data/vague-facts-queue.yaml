@@ -223,7 +223,9 @@ vague_facts:
   line: '| Positron AI | Seed | 2025-02-11 | AI Inference Hardware | [^4][^35][^46] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: ''Fact-spec sweep 2026-07-19: Verified Positron AI 2025-02-11 seed (USD 23.5M) via 3 primary sources: [^46] Reuters/Yahoo (existing), [^65] MarketScreener syndication (NEW), [^66] US News & World Report (NEW). All three independently confirm 1517 Fund as investor alongside Valor Equity Partners (lead), Atreides Management, Flume Ventures, and Resilience Reserve. Row date confirmed unchanged.''
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Mach Industries
@@ -297,7 +299,9 @@ vague_facts:
   line: '| Miist Therapeutics | Seed | 2025-02-04 | Biotech / Therapeutics | [^24][^41] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: ''Fact-spec sweep 2026-07-19: Corrected date from 2025-02-04 (TechCrunch pub date) to 2025-02-05 (official BusinessWire press release date) on 1517-fund.md. Verified via 3 primary sources: [^41] TechCrunch (existing), [^67] BusinessWire company release (NEW), [^68] HITConsultant (NEW). All confirm USD 7M seed with Refactor Capital (lead) and 1517 Fund + Freeflow Ventures + California Innovation Fund + Entrepreneur First participating.''
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Presso
@@ -396,7 +400,9 @@ vague_facts:
   line: '| Rainmaker (Series A follow-on) | Series A | 2025-05-05 | Climate Tech / Cloud Seeding | [^24][^47] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: ''Fact-spec sweep 2026-07-19: Verified Rainmaker Series A on 2025-05-05 (USD 25M, Lowercarbon Capital led) via 3 primary sources: [^47] FinSMEs (existing), [^69] Lowercarbon Capital own blog post 2025-05-07 (NEW — lead investor primary), [^70] Axios Pro Climate Deals 2025-05-05 (NEW). All confirm 1517 Fund as participant alongside Starship Ventures, Long Journey Ventures, Day One Ventures, and Tamarack Global. Row date confirmed unchanged.''
 - profile: firms/500-global
   profile_name: 500 Global
   company: Twilio
