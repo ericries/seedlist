@@ -166589,7 +166589,9 @@ vague_facts:
   line: '| ElevenLabs | Growth | 2026 | AI | Active | [^8] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-19'
+  resolution: 'Series D (participant, new investor; Sequoia led at USD 11B post-money valuation) 2026-02-04 — resolved via ElevenLabs blog [^el1], TechCrunch [^el2], Sifted [^el3]'
 - profile: firms/boxgroup
   profile_name: BoxGroup
   company: Cursor (Anysphere)

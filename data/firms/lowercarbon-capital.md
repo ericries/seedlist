@@ -97,6 +97,7 @@ Based on approximately 93-233 investments (sources vary; Tracxn reports 93 as of
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Oratomic | Series A (Participated) | 2026-07-07 | Quantum computing/Deep tech | Active | [^lcc-orat-1][^lcc-orat-2][^lcc-orat-3] |
 | Isometric | Series A | 2026-06-22 | Industrial certification/AI/Climate | Active | [^33][^34][^35] |
 | Fuse Energy | Series B Extension | 2026-06-04 | Energy (vertically integrated) | Active | [^28][^29][^30] |
 | Fuse Energy | Series B (Co-Led) | 2025-12-22 | Energy (vertically integrated) | Active | [^31][^32] |
@@ -172,3 +173,6 @@ No independently sourced founder testimonials found. The firm's website describe
 [^33]: Finsmes, "Isometric Raises $40M in Series A Funding," June 22, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/isometric-raises-40m-in-series-a-funding.html — Confirms $40M Series A on June 22, 2026 led by AVP with Lowercarbon Capital, Plural, John Doerr, and Walter Kortschak participating.
 [^34]: UKTN, "Isometric raises over £30m to expand AI certification platform," June 22, 2026. Accessed June 2026. https://www.uktech.news/ai/isometric-raises-over-30m-to-expand-ai-certification-platform-20260622 — Independent confirmation of June 22, 2026 Series A with Lowercarbon Capital as a backer.
 [^35]: Carbon Herald, "Isometric Secures $40M To Bring AI Certification Beyond Carbon Markets," June 22, 2026. Accessed June 2026. https://carbonherald.com/isometric-secures-40m-to-bring-ai-certification-beyond-carbon-markets/ — Third independent source confirming Lowercarbon Capital participation in the $40M Series A.
+[^lcc-orat-1]: "Oratomic Raises $300 Million Series A," The Quantum Insider, July 7, 2026. Accessed July 19, 2026. https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/ — Names Lowercarbon Capital as a participant in the ARCH/Spark/Khosla-led Series A.
+[^lcc-orat-2]: Rebecca Bellan, "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits," TechCrunch, July 10, 2026. Accessed July 19, 2026. https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/
+[^lcc-orat-3]: "Oratomic Secures $300M Series A to Build Fault-Tolerant Quantum Computers via Reconfigurable Neutral-Atom Arrays," Quantum Computing Report, July 7, 2026. Accessed July 19, 2026. https://quantumcomputingreport.com/oratomic-secures-300m-series-a-to-build-fault-tolerant-quantum-computers-via-reconfigurable-neutral-atom-arrays/
