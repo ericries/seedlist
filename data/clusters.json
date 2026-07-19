@@ -8267,7 +8267,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 30,
+      "size": 31,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8410,6 +8410,11 @@
           "slug": "clem-delangue",
           "name": "Cl\u00e9ment Delangue",
           "firm": "hugging-face"
+        },
+        {
+          "slug": "olivia-moore",
+          "name": "Olivia Moore",
+          "firm": "andreessen-horowitz"
         }
       ]
     },
@@ -8607,7 +8612,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 30,
+      "size": 31,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8754,6 +8759,11 @@
           "slug": "megan-lightcap",
           "name": "Megan Lightcap",
           "firm": "slow-ventures"
+        },
+        {
+          "slug": "olivia-moore",
+          "name": "Olivia Moore",
+          "firm": "andreessen-horowitz"
         }
       ]
     },
@@ -8762,7 +8772,7 @@
       "name": "The Solo GPs",
       "tagline": "No partnership, no committee, no BS. They write their own checks and make their own decisions \u2014 often faster than anyone else.",
       "type": "curated",
-      "size": 21,
+      "size": 22,
       "members": [
         {
           "slug": "dan-scheinman",
@@ -8864,6 +8874,11 @@
           "slug": "tikhon-bernstam",
           "name": "Tikhon Bernstam",
           "firm": "independent"
+        },
+        {
+          "slug": "freddie-martignetti",
+          "name": "Freddie Martignetti",
+          "firm": "nava-ventures"
         }
       ]
     },
@@ -9627,7 +9642,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 138,
+      "size": 140,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10255,6 +10270,16 @@
           "slug": "lip-bu-tan",
           "name": "Lip-Bu Tan",
           "firm": "walden-international"
+        },
+        {
+          "slug": "dina-radenkovic",
+          "name": "Dina Radenkovic",
+          "firm": "independent"
+        },
+        {
+          "slug": "freddie-martignetti",
+          "name": "Freddie Martignetti",
+          "firm": "nava-ventures"
         }
       ]
     },
@@ -10541,7 +10566,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios \u2014 they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 34,
+      "size": 35,
       "members": [
         {
           "slug": "boris-wertz",
@@ -10702,6 +10727,11 @@
           "slug": "apoorva-mehta",
           "name": "Apoorva Mehta",
           "firm": "cloud-health-systems"
+        },
+        {
+          "slug": "halle-tecco",
+          "name": "Halle Tecco",
+          "firm": "techammer"
         }
       ]
     },
@@ -10779,7 +10809,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 61,
+      "size": 63,
       "members": [
         {
           "slug": "aileen-lee",
@@ -11078,6 +11108,16 @@
           "slug": "halle-tecco",
           "name": "Halle Tecco",
           "firm": "techammer"
+        },
+        {
+          "slug": "olivia-moore",
+          "name": "Olivia Moore",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "dina-radenkovic",
+          "name": "Dina Radenkovic",
+          "firm": "independent"
         }
       ]
     },
@@ -12684,7 +12724,7 @@
       "name": "The Goldman Pipeline",
       "tagline": "From 200 West Street to Sand Hill Road \u2014 Goldman Sachs alumni who turned investment banking training into venture capital careers.",
       "type": "curated",
-      "size": 15,
+      "size": 16,
       "members": [
         {
           "slug": "divesh-makan",
@@ -12760,6 +12800,11 @@
           "slug": "scott-stanford",
           "name": "Scott Stanford",
           "firm": "sherpa-capital"
+        },
+        {
+          "slug": "olivia-moore",
+          "name": "Olivia Moore",
+          "firm": "andreessen-horowitz"
         }
       ]
     },
