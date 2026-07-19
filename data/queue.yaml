@@ -38903,3 +38903,41 @@ queue:
   added: '2026-03-17'
   firm: Greenboard
   discovered_from: dave-feldman
+- name: Deviation Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: walden-robotics
+  source: co-lead of Walden Robotics $300M seed (2026-07-15)
+- name: Russ Tedrake
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Walden Robotics
+  discovered_from: walden-robotics
+  source: co-founder & CEO of Walden Robotics; MIT professor; ex-Toyota Research Institute
+    SVP of large behavior models
+- name: Colin Beirne
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Deviation Capital
+  discovered_from: walden-robotics
+  source: Partner at Deviation Capital, quoted in Walden Robotics seed
+- name: West Hill Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: silicon-microgravity
+  source: lead investor Silicon Microgravity growth round (2026-07-17)
+- name: Future Planet Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: silicon-microgravity
+  source: manages UKI2S, co-invested in Silicon Microgravity growth round (2026-07-17)

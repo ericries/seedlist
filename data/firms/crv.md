@@ -165,6 +165,7 @@ This table represents 40 verified investments out of approximately 397 total com
 | THEKER | Series A (led, €73M / ~$85M) | 2026-06-11 | Robotics / AI | Active [^35] |
 | Omen AI | Series A (participated, $31M) | 2026-06-29 | AI / Data Centers / Infrastructure / Sensors | Active [^omen1][^omen2] |
 | Oak | Seed (co-led with Accel and Greylock Partners, $60M) | 2026-07-15 | Cybersecurity / Identity / AI-Native IAM | Active [^oak1][^oak2][^oak3] |
+| Hadrius | Series A + Seed (led, $27M combined; $22M Series A) | 2026-07-14 | Fintech / Compliance / Agentic AI | Active [^had1][^had2][^had3] |
 
 ## In Their Own Words
 
@@ -265,3 +266,9 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 [^oak2]: "Oak Raises $60M in Seed Funding to Build the AI-Native Identity Operating System," PR Newswire, July 15, 2026. Accessed July 2026. https://www.prnewswire.com/il/news-releases/oak-raises-60m-in-seed-funding-to-build-the-ai-native-identity-operating-system-302826349.html — Primary company press wire confirming the round size, lead investors, and participants.
 
 [^oak3]: "Israeli AI cybersecurity co Oak raises $60m," Globes, July 15, 2026. Accessed July 2026. https://en.globes.co.il/en/article-israeli-ai-cybersecurity-co-oak-raises-60m-1001549415 — Independent Israeli-press confirmation of the round.
+
+[^had1]: "Hadrius Raises $27 Million to Build Agentic Compliance Infrastructure," PR Newswire, July 14, 2026. Accessed July 19, 2026. https://www.prnewswire.com/news-releases/hadrius-raises-27-million-to-build-agentic-compliance-infrastructure-302824196.html — Primary company press release confirming CRV as lead investor.
+
+[^had2]: "Announcing our $22 Million Series A," Hadrius blog, July 2026. Accessed July 19, 2026. https://www.hadrius.com/insights/series-a — Company blog post confirming Series A size and CRV lead.
+
+[^had3]: "Hadrius Raises $27M in Seed and Series A Funding," FinSMEs, July 2026. Accessed July 19, 2026. https://www.finsmes.com/2026/07/hadrius-raises-27m-in-funding.html — Independent trade-press confirmation.
