@@ -166643,7 +166643,9 @@ vague_facts:
   line: '| Terabase Energy | Series C | 2025 | Solar Infrastructure | Active [^26] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: 'Fact-spec sweep 2026-07-19: tightened Terabase Energy row from "Series C | 2025" to "Series C ($130M; SoftBank Vision Fund 2 led; BEV participated as existing investor alongside Prelude Ventures, Fifth Wall, SJF Ventures, EDP Ventures) | 2025-03-13" via 3 primary/tier-1 sources: (1) Terabase Energy company press release [^tb1] (2025-03-13), (2) BusinessWire wire distribution [^tb2] (2025-03-13), (3) pv magazine USA tier-1 solar press [^tb3] (2025-03-13). BEV confirmed as existing investor by company press release ("notable investors to date" list). 3 new footnotes added ([^tb1]-[^tb3]).'
 - profile: firms/breakthrough-energy-ventures
   profile_name: Breakthrough Energy Ventures
   company: '44.01'
@@ -166653,7 +166655,9 @@ vague_facts:
   line: '| 44.01 | Series A | 2025 | Carbon Mineralization | Active [^26] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: 'Fact-spec sweep 2026-07-19: corrected 44.01 row from wrong "Series A | 2025" to "Series A ($37M; Equinor Ventures + Shorooq Partners co-led; BEV participated as existing investor recommitting alongside Air Liquide Venture Capital, Alumni Ventures, Amazon Climate Pledge Fund, Climate Investment, Innovation Development Oman, Planet A Ventures, Salica Oryx Fund, Siemens Financial Services, Sumitomo Corporation) | 2024-07-15" via 3 primary sources: (1) 44.01 company blog [^4401a] (2024-07-15), (2) ESG Today tier-1 press [^4401b], (3) Carbon Herald independent climate-tech press [^4401c]. Prior year (2025) was wrong; the actual Series A closed 2024-07-15, with a $5M extension announced 2025-02-05 bringing Series A total to $42M. BEV confirmed as existing investor recommitting (per 44.01 own press release: "Existing investors including Breakthrough Energy Ventures have also recommitted"). 3 new footnotes added.'
 - profile: firms/breakthrough-energy-ventures
   profile_name: Breakthrough Energy Ventures
   company: NitroVolt
@@ -166663,7 +166667,9 @@ vague_facts:
   line: '| NitroVolt | Seed | 2024 | Green Ammonia | Active [^5] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: 'Fact-spec sweep 2026-07-19: tightened NitroVolt row from "Seed | 2024" to "Seed (€3.5M; BackingMinds + EIFO co-led; Breakthrough Energy Fellowship followed on from 2023 grant with equity; EQT Foundation, Satgana, Division Q participated) | 2024-11-13" via 3 primary/tier-1 sources: (1) Tech.eu tier-1 EU tech press [^nv1] (2024-11-13), (2) EQT Group investor press release [^nv2] (2024-11-13), (3) ESG Today tier-1 press [^nv3] (2024-11-14). Note: participant is technically "Breakthrough Energy Fellowship" (a separate BEV program) — footnote [^nv3] annotation clarifies this. Currency preserved (€, not USD-converted). 3 new footnotes added ([^nv1]-[^nv3]).'
 - profile: firms/breakthrough-energy-ventures
   profile_name: Breakthrough Energy Ventures
   company: Savor
