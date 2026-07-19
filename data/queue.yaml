@@ -25262,7 +25262,7 @@ queue:
 - name: Pat Hanrahan
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: independent
   discovered_from: chris-stolte
@@ -25418,7 +25418,7 @@ queue:
 - name: Daphne Koller
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: insitro
   discovered_from: carlos-guestrin
@@ -39138,3 +39138,102 @@ queue:
   added: '2026-03-17'
   discovered_from: anish-acharya
   source: Anish Acharya board seat per a16z bio
+- name: Tableau Software
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pat-hanrahan
+  source: co-founded by pat-hanrahan (2003); acquired by Salesforce for $15.3B in
+    2019
+- name: PeakStream
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pat-hanrahan
+  source: co-founded by pat-hanrahan (2005); acquired by Google in 2007
+- name: Apropose
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pat-hanrahan
+  source: Stanford CS spinout; seed round Sep 2014 led by NEA + a16z with pat-hanrahan
+    as angel
+- name: Ed Catmull
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pixar Animation Studios
+  discovered_from: pat-hanrahan
+  source: co-recipient of 2019 Turing Award with pat-hanrahan; Pixar co-founder
+- name: Nick McKeown
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Nicira
+  discovered_from: pat-hanrahan
+  source: Stanford EE professor; Nicira founder; co-angel with pat-hanrahan on Apropose
+    seed 2014
+- name: Coursera
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daphne-koller
+  source: 'co-founded by daphne-koller and Andrew Ng in 2012; IPO 2021 (NYSE: COUR)'
+- name: Engageli
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daphne-koller
+  source: co-founded by daphne-koller with Dan Avida, Serge Plotkin, Jamie Nacht Farrell;
+    $14.5M seed Oct 2020
+- name: Andrew Ng
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Landing AI / Coursera / DeepLearning.AI
+  discovered_from: daphne-koller
+  source: co-founded Coursera with daphne-koller in 2012; Stanford CS professor; prolific
+    AI angel investor
+- name: Dan Avida
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Opus Capital
+  discovered_from: daphne-koller
+  source: General Partner at Opus Capital; co-founded Engageli with daphne-koller
+    (his wife)
+- name: Serge Plotkin
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Stanford / Engageli
+  discovered_from: daphne-koller
+  source: Stanford CS emeritus; Engageli co-founder alongside daphne-koller; Decru
+    co-founder
+- name: Alex Balkanski
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Benchmark
+  discovered_from: daphne-koller
+  source: Benchmark partner; individual investor in Engageli seed Oct 2020 (daphne-koller
+    co-founder)
+- name: Calico Labs
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: daphne-koller
+  source: Alphabet longevity subsidiary; daphne-koller was Chief Computing Officer
+    2016-2018
