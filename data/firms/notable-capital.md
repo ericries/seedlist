@@ -87,6 +87,7 @@ Based on Notable Capital's (and its predecessor GGV Capital's) portfolio, the fi
 | Anthropic | Growth | 2023 | AI | Active | [^8] |
 | Quince | Series A | 2020 | Consumer/E-commerce | Active | [^3] |
 | Stori | Series A | 2019 | Fintech | Active | [^3] |
+| Beacon Security | Seed | 2026 | Cybersecurity/AI | Active | [^11] |
 
 *This table represents a subset of over 400 companies backed under the GGV/Notable Capital platform [^6]. Stages and years are approximate based on available sources.*
 
@@ -116,3 +117,4 @@ No additional independently sourced founder testimonials were found during this 
 [^8]: Signal by NFX, "Hans Tung Investing Profile," accessed March 2026. https://signal.nfx.com/investors/hans-tung
 [^9]: Signal by NFX, "Glenn Solomon Investing Profile," accessed March 2026. https://signal.nfx.com/investors/glenn-solomon
 [^10]: Crunchbase, "GGV Capital" profile, accessed March 2026. https://www.crunchbase.com/organization/ggv-capital
+[^11]: "Beacon Security Raises $13 Million in Seed Funding to Give AI Agents a Trustworthy Data Foundation for Cyber Defense," PR Newswire, July 16, 2026. Accessed July 19, 2026. https://www.prnewswire.com/news-releases/beacon-security-raises-13-million-in-seed-funding-to-give-ai-agents-a-trustworthy-data-foundation-for-cyber-defense-302826450.html

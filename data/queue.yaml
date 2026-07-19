@@ -39237,3 +39237,77 @@ queue:
   discovered_from: daphne-koller
   source: Alphabet longevity subsidiary; daphne-koller was Chief Computing Officer
     2016-2018
+- name: Yamaha Music Innovations Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: speakeasy-irl
+- name: Holly Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: beacon-security
+- name: SVCI
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: beacon-security
+- name: Gal Tal-Hochberg
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Beacon Security
+  discovered_from: beacon-security
+- name: Lightspeed Faction
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: glacis-labs
+- name: Franklin Templeton Digital Assets
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: glacis-labs
+- name: Protein Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: glacis-labs
+- name: Techni Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: glacis-labs
+- name: Breakers
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: proaction-fleet
+- name: Aviso Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: proaction-fleet
+- name: Holman Growth Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: proaction-fleet
+- name: Alex Manavi
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Speakeasy
+  discovered_from: speakeasy-irl
