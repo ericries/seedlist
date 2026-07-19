@@ -245,6 +245,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Westmag | Seed (participated; a16z led) | 2026-06-02 | Drone Motors / Robot Actuators / Hard Tech | Private [^64][^65][^66] |
 | Poetic | Series A (participated; Kleiner Perkins led, $50M at $500M post-money) | 2026-06-10 | AI / Enterprise Automation | Private [^68][^69][^70] |
 | Stark Defence | Series C (co-led with Sequoia Capital, €500M at €3.5B+ post-money) | 2026-06-23 | Defense Tech / Drones / Loitering Munitions | Private [^71][^72][^73] |
+| State Affairs | Growth ($70M; co-led with Khosla Ventures) | 2026-07-14 | AI / Policy Intelligence / Media | Private [^sa1][^sa2] |
 
 *Note: This table includes all 61 companies listed on Founders Fund's portfolio page plus Lyft, Anthropic, and Nominal from cross-referenced startup profiles. Investment years use company founding year as a proxy where specific investment date is unknown, marked with "~YYYY (founded)". Founders Fund has invested in 553 companies total per Tracxn [^12]; this table represents approximately 11% of the full portfolio, biased toward the firm's most notable investments.*
 
@@ -437,3 +438,7 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^75]: Cognition, "Funding, growth, and the next frontier of AI coding agents," company blog, September 8, 2025. Accessed July 2026. https://cognition.com/blog/funding-growth-and-the-next-frontier-of-ai-coding-agents — Company confirms Founders Fund led; existing investors Lux Capital, 8VC, Neo, Elad Gil, Definition Capital, Swish VC; new investors Bain Capital Ventures, Hanabi Capital, D1 Capital.
 
 [^76]: The AI Insider, "Cognition AI Closes $400M in Funding to Reach $10.2B Valuation Amid Rapid Growth," September 9, 2025. Accessed July 2026. https://theaiinsider.tech/2025/09/09/cognition-ai-closes-400m-in-funding-to-reach-10-2b-valuation-amid-rapid-growth/ — Third independent confirmation that Founders Fund led Cognition's $400M round at $10.2B valuation.
+
+[^sa1]: "State Affairs Raises $70 Million to Help Institutions Navigate the Policy and Regulatory Economy," PR Newswire, July 14, 2026. Accessed July 19, 2026. https://www.prnewswire.com/news-releases/state-affairs-raises-70-million-to-help-institutions-navigate-the-policy-and-regulatory-economy-302824501.html — Confirms Founders Fund co-led State Affairs' $70M round with Khosla Ventures on July 14, 2026.
+
+[^sa2]: "State Affairs Raises $70 Million to Help Institutions Navigate the Policy and Regulatory Economy," Yahoo Finance, July 14, 2026. Accessed July 19, 2026. https://finance.yahoo.com/economy/policy/articles/state-affairs-raises-70-million-110000098.html — Independent confirmation of Founders Fund as co-lead.

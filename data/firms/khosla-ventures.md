@@ -4,9 +4,9 @@ fund_size: $1.6B (Fund VIII, 2023); $500M (Seed Fund, 2023); $900M (Growth Fund,
   seeking $3.5B across three funds (2025)
 last_researched: 2026-04-30
 last_verified_investment:
-  company: Oratomic
-  date: 2026-07-07
-  round: Series A
+  company: State Affairs
+  date: 2026-07-14
+  round: Growth
 location: Menlo Park, CA
 name: Khosla Ventures
 sector_focus:
@@ -213,8 +213,10 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | General Intuition | Series A (led, $320M at $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2][^genint3] |
 | Scaled Cognition | Series A (led, $100M at ~$750M val; Genesys participated) | 2026-06-25 | AI / Enterprise / Foundation Models | Private [^sc1][^sc2][^sc3] |
 | Oratomic | Series A (co-led with ARCH Venture Partners, Spark Capital; $300M; Vinod Khosla personally championed — "largest initial investment yet, as we did in OpenAI") | 2026-07-07 | Quantum Computing / Deep Tech | Private [^orat1][^orat2][^orat3][^orat4] |
+| State Affairs | Growth ($70M; co-led with Founders Fund) | 2026-07-14 | AI / Policy Intelligence / Media | Private [^sa1][^sa2] |
+| Singularity | Series A (co-led with Felicis, $80M at $400M val) | 2026-07-14 | Defense / Aerospace / Deep Tech | Private [^sing1][^sing2] |
 
-*Note: This table includes 68 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
+*Note: This table includes 70 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
 ## In Their Own Words
 
@@ -437,3 +439,11 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^orat3]: Rebecca Bellan, "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits," TechCrunch, July 10, 2026. Accessed July 16, 2026. https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/ — Tier-1 press independently confirming Khosla Ventures as a co-lead of the $300M Series A alongside ARCH Venture Partners and Spark Capital.
 
 [^orat4]: "Oratomic Secures $300M Series A to Build Fault-Tolerant Quantum Computers via Reconfigurable Neutral-Atom Arrays," Quantum Computing Report, July 7, 2026. Accessed July 16, 2026. https://quantumcomputingreport.com/oratomic-secures-300m-series-a-to-build-fault-tolerant-quantum-computers-via-reconfigurable-neutral-atom-arrays/ — Trade-press confirmation of July 7, 2026 announcement and Khosla Ventures as a co-lead.
+
+[^sa1]: "State Affairs Raises $70 Million to Help Institutions Navigate the Policy and Regulatory Economy," PR Newswire, July 14, 2026. Accessed July 19, 2026. https://www.prnewswire.com/news-releases/state-affairs-raises-70-million-to-help-institutions-navigate-the-policy-and-regulatory-economy-302824501.html — Confirms Khosla Ventures co-led the $70M round alongside Founders Fund on July 14, 2026.
+
+[^sa2]: "State Affairs Raises $70 Million to Help Institutions Navigate the Policy and Regulatory Economy," Yahoo Finance, July 14, 2026. Accessed July 19, 2026. https://finance.yahoo.com/economy/policy/articles/state-affairs-raises-70-million-110000098.html — Independent confirmation of Khosla Ventures as co-lead.
+
+[^sing1]: "Singularity Emerges from Stealth with $80M Series A at $400M Valuation to Deploy Air Defense at Scale," Business Wire, July 14, 2026. Accessed July 19, 2026. https://www.businesswire.com/news/home/20260714185502/en/Singularity-Emerges-from-Stealth-with-$80M-Series-A-at-$400M-Valuation-to-Deploy-Air-Defense-at-Scale — Confirms Khosla Ventures co-led the $80M Series A alongside Felicis.
+
+[^sing2]: Duncan Riley, "Singularity lands $80M at $400M valuation to build cheap drone interceptors," SiliconANGLE, July 14, 2026. Accessed July 19, 2026. https://siliconangle.com/2026/07/14/singularity-lands-80m-400m-valuation-build-cheap-drone-interceptors/ — Independent confirmation of Khosla Ventures as co-lead.

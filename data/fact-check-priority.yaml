@@ -1,4 +1,28 @@
 priority:
+- slug: khosla-ventures
+  type: firm
+  reason: "appeared in State Affairs Growth (2026-07-14, $70M) and Singularity Series A (2026-07-14, $80M)"
+  added: 2026-07-19
+- slug: founders-fund
+  type: firm
+  reason: "appeared in State Affairs Growth (2026-07-14, $70M)"
+  added: 2026-07-19
+- slug: nea
+  type: firm
+  reason: "appeared in Singularity Series A (2026-07-14, $80M)"
+  added: 2026-07-19
+- slug: menlo-ventures
+  type: firm
+  reason: "appeared in Singularity Series A (2026-07-14, $80M)"
+  added: 2026-07-19
+- slug: y-combinator
+  type: firm
+  reason: "appeared in Singularity Series A (2026-07-14, $80M)"
+  added: 2026-07-19
+- slug: long-journey-ventures
+  type: firm
+  reason: "appeared in Singularity Series A (2026-07-14, $80M)"
+  added: 2026-07-19
 - slug: outlander-vc
   type: firm
   reason: 'Fact-spec sweep 2026-07-17: tightened HavocAI row on outlander-vc.md from "Seed | ~2023" to "Seed ($11M; Scout Ventures led, Trousdale Ventures co-led; Outlander VC + The Veteran Fund + BV.VC + Decisive Point + Alumni Ventures + New North Ventures participated) | 2024-09-20" via 3 primary sources: (1) PR Newswire HavocAI company press release (dateline PROVIDENCE, R.I., Sept. 20, 2024) [^24], (2) MarineLink 2024-09-20 [^25], (3) The SaaS News Sept 2024 [^26]. Parallel update on havoc.md startup profile adding 2024-09-20 Seed row with same 3 primary sources ([^4][^5][^6]). Prior ~2023 year was wrong; the disclosed round is Sept. 20, 2024. 3 new footnotes added on outlander-vc.md and 3 on havoc.md.'
