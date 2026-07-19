@@ -1,37 +1,59 @@
 ---
-name: "Fireworks AI"
-slug: fireworks-ai
-type: startup
-website: "https://fireworks.ai"
-location: "Redwood City, California"
-founded: 2022
-status_company: active
-sector: [ai, ai-infrastructure, developer-tools, enterprise-ai]
-stage_latest: "Series D"
-total_raised: "USD ~1.8B"
-investors: []
 firms:
-  - slug: index-ventures
-    round: series-d
-    year: 2026
-    date: 2026-07-15
-  - slug: tcv
-    round: series-d
-    year: 2026
-    date: 2026-07-15
-  - slug: menlo-ventures
-    round: series-d
-    year: 2026
-    date: 2026-07-15
-  - slug: bessemer-venture-partners
-    round: series-d
-    year: 2026
-    date: 2026-07-15
+- date: 2026-07-15
+  round: series-d
+  slug: index-ventures
+  year: 2026
+- date: 2026-07-15
+  round: series-d
+  slug: tcv
+  year: 2026
+- date: 2026-07-15
+  round: series-d
+  slug: menlo-ventures
+  year: 2026
+- date: 2026-07-15
+  round: series-d
+  slug: bessemer-venture-partners
+  year: 2026
+- round: Early
+  slug: sequoia-capital
+  year: 2023
+- round: '2024'
+  slug: benchmark
+  year: 2024
+founded: 2022
 founders:
-  - name: "Lin Qiao"
-    role: "CEO & Co-Founder"
-status: published
+- name: Lin Qiao
+  role: CEO & Co-Founder
+investors:
+- round: Early
+  slug: alfred-lin
+  year: 2023
+- round: Series B
+  slug: sonya-huang
+  year: 2024
+- round: '2024'
+  slug: eric-vishria
+  year: 2024
+- round: Early
+  slug: shardul-shah
+  year: 2023
 last_researched: 2026-07-19
+location: Redwood City, California
+name: Fireworks AI
+sector:
+- ai
+- ai-infrastructure
+- developer-tools
+- enterprise-ai
+slug: fireworks-ai
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: USD ~1.8B
+type: startup
+website: https://fireworks.ai
 ---
 
 ## About

@@ -1,59 +1,84 @@
 ---
-name: "Chai Discovery"
-slug: chai-discovery
-type: startup
-website: "https://chaidiscovery.com"
-location: "San Francisco, California"
-founded: 2024
-status_company: active
-sector: [ai, biotech, drug-discovery, healthcare]
-stage_latest: "Series C"
-total_raised: "USD ~570M"
-investors: []
 firms:
-  - slug: index-ventures
-    round: series-c
-    year: 2026
-    date: 2026-07-14
-  - slug: kleiner-perkins
-    round: series-c
-    year: 2026
-    date: 2026-07-14
-  - slug: sequoia-capital
-    round: series-c
-    year: 2026
-    date: 2026-07-14
-  - slug: battery-ventures
-    round: series-c
-    year: 2026
-    date: 2026-07-14
-  - slug: thrive-capital
-    round: series-c
-    year: 2026
-    date: 2026-07-14
-  - slug: menlo-ventures
-    round: series-c
-    year: 2026
-    date: 2026-07-14
-  - slug: general-catalyst
-    round: series-c
-    year: 2026
-    date: 2026-07-14
-  - slug: openai-startup-fund
-    round: series-c
-    year: 2026
-    date: 2026-07-14
+- date: 2026-07-14
+  round: series-c
+  slug: index-ventures
+  year: 2026
+- date: 2026-07-14
+  round: series-c
+  slug: kleiner-perkins
+  year: 2026
+- date: 2026-07-14
+  round: series-c
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-07-14
+  round: series-c
+  slug: battery-ventures
+  year: 2026
+- date: 2026-07-14
+  round: series-c
+  slug: thrive-capital
+  year: 2026
+- date: 2026-07-14
+  round: series-c
+  slug: menlo-ventures
+  year: 2026
+- date: 2026-07-14
+  round: series-c
+  slug: general-catalyst
+  year: 2026
+- date: 2026-07-14
+  round: series-c
+  slug: openai-startup-fund
+  year: 2026
+- round: Seed
+  slug: amplify-partners
+  year: 2024
+- round: Seed
+  slug: neo
+  year: 2024
+founded: 2024
 founders:
-  - name: "Joshua Meier"
-    role: "CEO & Co-Founder"
-  - name: "Jack Dent"
-    role: "Co-Founder"
-  - name: "Matthew McPartlon"
-    role: "Co-Founder"
-  - name: "Jacques Boitreaud"
-    role: "Co-Founder"
-status: published
+- name: Joshua Meier
+  role: CEO & Co-Founder
+- name: Jack Dent
+  role: Co-Founder
+- name: Matthew McPartlon
+  role: Co-Founder
+- name: Jacques Boitreaud
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: sunil-dhaliwal
+  year: 2024
+- round: Seed ($30M, co-led)
+  slug: ian-hathaway
+  year: 2024
+- round: Seed
+  slug: ali-partovi
+  year: 2024
+- round: Board role
+  slug: miles-grimshaw
+  year: 2025
+- round: Seed ($30M, co-led)
+  slug: brad-lightcap
+  year: 2024
 last_researched: 2026-07-19
+location: San Francisco, California
+name: Chai Discovery
+sector:
+- ai
+- biotech
+- drug-discovery
+- healthcare
+slug: chai-discovery
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: USD ~570M
+type: startup
+website: https://chaidiscovery.com
 ---
 
 ## About

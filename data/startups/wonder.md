@@ -1,33 +1,55 @@
 ---
-name: "Wonder"
-slug: wonder
-type: startup
-website: "https://wonder.com"
-location: "New York, New York"
-founded: 2018
-status_company: active
-sector: [food-tech, consumer, robotics, ai]
-stage_latest: "Series D"
-total_raised: "USD ~3B"
-investors: []
 firms:
-  - slug: accel
-    round: series-d
-    year: 2026
-    date: 2026-07-16
-  - slug: gv
-    round: series-d
-    year: 2026
-    date: 2026-07-16
-  - slug: nea
-    round: series-d
-    year: 2026
-    date: 2026-07-16
+- date: 2026-07-16
+  round: series-d
+  slug: accel
+  year: 2026
+- date: 2026-07-16
+  round: series-d
+  slug: gv
+  year: 2026
+- date: 2026-07-16
+  round: series-d
+  slug: nea
+  year: 2026
+- round: ~2020
+  slug: forerunner-ventures
+  year: 2020
+- round: '2018'
+  slug: vcp-ventures
+  year: 2018
+founded: 2018
 founders:
-  - name: "Marc Lore"
-    role: "Founder & CEO"
-status: published
+- name: Marc Lore
+  role: Founder & CEO
+investors:
+- round: Growth
+  slug: tony-florence
+  year: 2021
+- round: ~2020
+  slug: kirsten-green
+  year: 2020
+- round: '2018'
+  slug: marc-lore
+  year: 2018
+- round: ~2021
+  slug: sameer-gandhi
+  year: 2021
 last_researched: 2026-07-19
+location: New York, New York
+name: Wonder
+sector:
+- food-tech
+- consumer
+- robotics
+- ai
+slug: wonder
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: USD ~3B
+type: startup
+website: https://wonder.com
 ---
 
 ## About

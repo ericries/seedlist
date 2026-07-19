@@ -154,6 +154,9 @@ investors:
 - round: Series D ($550M)
   slug: bryan-kim
   year: 2026
+- round: Series A (co-led)
+  slug: justine-moore
+  year: 2023
 last_researched: 2026-03-22
 location: New York, NY
 name: ElevenLabs

@@ -4940,7 +4940,7 @@ queue:
   source: VC Media Influencers FINAL MASTER spreadsheet
   discovered_from: influencer-outreach
   priority: low
-  status: pending
+  status: completed
   added: '2026-03-20'
 - name: Angela Strange
   type: individual
@@ -39013,7 +39013,7 @@ queue:
 - name: Justine Moore
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Andreessen Horowitz
   discovered_from: olivia-moore
@@ -39088,3 +39088,53 @@ queue:
   firm: Chai Discovery
   discovered_from: chai-discovery
   source: CEO/co-founder Chai Discovery
+- name: Anjney Midha
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: justine-moore
+  source: Co-author of a16z Black Forest Labs investment announcement 2024-08-01
+- name: Krea
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: justine-moore
+  source: a16z investment announced 2025-04-07; AI creative interface
+- name: Hedra
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: justine-moore
+  source: a16z Series A investment; AI character animation
+- name: Titan
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anish-acharya
+  source: a16z-led Series B 2021-07-20; consumer fintech / active investment platform
+- name: Method Financial
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anish-acharya
+  source: Anish Acharya board seat per a16z bio; consumer fintech infra
+- name: The Coterie
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anish-acharya
+  source: Anish Acharya board seat per a16z bio
+- name: Clutch
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anish-acharya
+  source: Anish Acharya board seat per a16z bio

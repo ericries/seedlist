@@ -9,7 +9,13 @@ firms:
 - round: Growth
   slug: general-catalyst
   year: 2020
+- round: Board seat
+  slug: andreessen-horowitz
+  year: 2022
 founded: 2020
+founders:
+- name: Ian Gutwinski
+  role: Founder & CEO
 investors:
 - round: Angel
   slug: erik-blachford
@@ -23,9 +29,9 @@ investors:
 - round: Early
   slug: james-joaquin
   year: 2015
-founders:
-- name: Ian Gutwinski
-  role: Founder & CEO
+- round: Board seat
+  slug: anish-acharya
+  year: 2022
 last_researched: 2026-05-30
 location: New York, NY
 name: Mosaic
