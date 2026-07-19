@@ -11918,7 +11918,7 @@ queue:
 - name: Chai Discovery
   type: startup
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: sunil-dhaliwal
   source: 'portfolio company of 5 investors: sunil-dhaliwal, ian-hathaway, ali-partovi'
@@ -12691,7 +12691,7 @@ queue:
 - name: Fireworks AI
   type: startup
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: alfred-lin
   source: 'portfolio company of 4 investors: alfred-lin, sonya-huang, eric-vishria'
@@ -13329,7 +13329,7 @@ queue:
 - name: Wonder
   type: startup
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: tony-florence
   source: 'portfolio company of 4 investors: tony-florence, kirsten-green, marc-lore'
@@ -39028,3 +39028,63 @@ queue:
   discovered_from: olivia-moore
   source: co-sponsor with Olivia Moore of HappyRobot Series A and Toma Series A at
     a16z
+- name: Lin Qiao
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Fireworks AI
+  discovered_from: fireworks-ai
+  source: CEO / co-founder Fireworks AI (announced Series D 2026-07-15)
+- name: Cathie Wood
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: ARK Invest
+  discovered_from: wonder
+  source: ARK Invest new investor in Wonder Series D 2026-07-16
+- name: Kayne Anderson Rudnick Investment Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wonder
+  source: New investor in Wonder Series D 2026-07-16
+- name: Nina Achadjian
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Index Ventures
+  discovered_from: chai-discovery
+  source: Led Chai Discovery Series C 2026-07-14; Index partner
+- name: Avra Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chai-discovery
+  source: Participated in Chai Discovery Series C 2026-07-14
+- name: Avenir Growth Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chai-discovery
+  source: Existing investor Chai Discovery Series C 2026-07-14
+- name: Yosemite
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: chai-discovery
+  source: Existing investor Chai Discovery Series C 2026-07-14
+- name: Joshua Meier
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Chai Discovery
+  discovered_from: chai-discovery
+  source: CEO/co-founder Chai Discovery
