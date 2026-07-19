@@ -180,15 +180,15 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Facebook | Angel/Early | ~2005 | Consumer Internet / Social | Public (IPO 2012) [^1] |
 | Airbnb | Series C (led) | 2013-10-28 | Marketplace | Public (IPO 2020) [^22][^54] |
 | Ramp | Growth | ~2019 (founded) | Fintech | Private [^20] |
-| Neuralink | Early | ~2016 (founded) | Biotech / Neural Interface | Private [^20] |
+| Neuralink | Series D (led, $280M) | 2023-08-07 | Biotech / Neural Interface / BCI | Private [^83][^84][^85] |
 | OpenAI | Series F (participated) | 2025-03-31 | AI | Private [^25][^45] |
 | Enter | Series B (led) | 2026-05-05 | AI / Legal Tech / LatAm | Private [^46][^47] |
 | Endurance Energy | Series A (led) | 2026-06-11 | Energy / Geothermal / Climate | Private [^67] |
 | Cognition | Series A (led) 2024-03-12; Growth $400M (led at $10.2B post-money) 2025-09-08; $1B+ growth (participant at $26B post-money; Lux/General Catalyst/8VC co-led) 2026-05-27 | 2024-03-12; 2025-09-08; 2026-05-27 | AI / Developer Tools / Coding Agents | Private [^20][^36][^37][^38][^61][^74][^75][^76] |
 | Nubank | Series C | ~2014 | Fintech / Banking | Public (IPO 2021) [^2] |
-| Trade Republic | Growth | ~2019 (founded) | Fintech / Brokerage | Private [^20] |
+| Trade Republic | Series C (participated as existing investor; Sequoia led, $900M at $5.3B post-money) | 2021-05-20 | Fintech / Brokerage / Neobroker (Germany) | Private [^86][^87][^88] |
 | Spotify | Growth | ~2008 (founded) | Consumer / Music Streaming | Public (IPO 2018) [^20] |
-| Rippling | Growth | ~2017 (founded) | Enterprise / HR | Private [^20] |
+| Rippling | Series B (led, $145M at $1.35B post-money; Napoleon Ta joined board) | 2020-08-04 | Enterprise / HR / Workforce Management | Private [^77][^78][^79] |
 | Affirm | Early | ~2012 (founded) | Fintech / BNPL | Public (IPO 2021) [^14][^20] |
 | Crusoe | Series D (led) | 2024-12-12 | AI / Cloud / Energy | Private [^20][^39][^40][^41] |
 | Polymarket | Growth | ~2020 (founded) | Prediction Markets | Private [^20] |
@@ -203,7 +203,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | PsiQuantum | Growth | ~2016 (founded) | Quantum Computing | Private [^20] |
 | Until | Early | ~2023 (founded) | AI | Private [^20] |
 | DeepMind | Early | ~2010 (founded) | AI | Acquired by Google (2014) [^20] |
-| Scale | Growth | ~2016 (founded) | AI / Data Infrastructure | Private [^20] |
+| Scale | Series C (led, $100M at $1B+ post-money) | 2019-08-05 | AI / Data Infrastructure | Private [^80][^81][^82] |
 | Flock Safety | Growth | ~2017 (founded) | Public Safety / Hardware | Private [^20] |
 | Boring Company | Growth | ~2016 (founded) | Tunnel Infrastructure | Private [^20] |
 | Oculus | Early | ~2012 (founded) | VR / Hardware | Acquired by Facebook (2014) [^20] |
@@ -245,7 +245,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Westmag | Seed (participated; a16z led) | 2026-06-02 | Drone Motors / Robot Actuators / Hard Tech | Private [^64][^65][^66] |
 | Poetic | Series A (participated; Kleiner Perkins led, $50M at $500M post-money) | 2026-06-10 | AI / Enterprise Automation | Private [^68][^69][^70] |
 | Stark Defence | Series C (co-led with Sequoia Capital, €500M at €3.5B+ post-money) | 2026-06-23 | Defense Tech / Drones / Loitering Munitions | Private [^71][^72][^73] |
-| State Affairs | Growth ($70M; co-led with Khosla Ventures) | 2026-07-14 | AI / Policy Intelligence / Media | Private [^sa1][^sa2] |
+| State Affairs | Growth ($70M; co-led with Khosla Ventures; Tru Arrow Partners, Alumni Ventures, Marcus Brauchli, Alex Mather, Adam Hansmann, Richard Sarnoff participated; round type not disclosed) | 2026-07-14 | AI / Policy Intelligence / Media | Private [^sa1][^sa2][^sa3] |
 
 *Note: This table includes all 61 companies listed on Founders Fund's portfolio page plus Lyft, Anthropic, and Nominal from cross-referenced startup profiles. Investment years use company founding year as a proxy where specific investment date is unknown, marked with "~YYYY (founded)". Founders Fund has invested in 553 companies total per Tracxn [^12]; this table represents approximately 11% of the full portfolio, biased toward the firm's most notable investments.*
 
@@ -442,3 +442,29 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^sa1]: "State Affairs Raises $70 Million to Help Institutions Navigate the Policy and Regulatory Economy," PR Newswire, July 14, 2026. Accessed July 19, 2026. https://www.prnewswire.com/news-releases/state-affairs-raises-70-million-to-help-institutions-navigate-the-policy-and-regulatory-economy-302824501.html — Confirms Founders Fund co-led State Affairs' $70M round with Khosla Ventures on July 14, 2026.
 
 [^sa2]: "State Affairs Raises $70 Million to Help Institutions Navigate the Policy and Regulatory Economy," Yahoo Finance, July 14, 2026. Accessed July 19, 2026. https://finance.yahoo.com/economy/policy/articles/state-affairs-raises-70-million-110000098.html — Independent confirmation of Founders Fund as co-lead.
+
+[^sa3]: "State Affairs Raises $70 Million To Advance Policy And Regulatory Intelligence Platform," Pulse 2, July 14, 2026. Accessed July 19, 2026. https://pulse2.com/state-affairs-raises-70-million-to-advance-policy-and-regulatory-intelligence-platform/ — Third independent primary press coverage confirming Founders Fund as co-lead alongside Khosla Ventures on the $70M round; full participant list matches PR Newswire release.
+
+[^77]: TechCrunch, "Rippling nabs $145M at a $1.35B valuation to build out its all-in-one platform for employee data," August 4, 2020. Accessed July 2026. https://techcrunch.com/2020/08/04/rippling-nabs-145m-at-a-1-35b-valuation-to-build-out-its-all-in-one-platform-for-employee-data/ — Confirms $145M Series B on August 4, 2020 at $1.35B valuation; led by Founders Fund with Greenoaks Capital, Coatue Management, and Bedrock Capital participating, plus existing investors Kleiner Perkins, Initialized Capital, and Y Combinator; Founders Fund partner Napoleon Ta joined the board.
+
+[^78]: Forbes, "Rippling, Founded By Fallen Tech CEO Parker Conrad, Passes $1 Billion Valuation With $145 Million Fundraise," August 4, 2020. Accessed July 2026. https://www.forbes.com/sites/amyfeldman/2020/08/04/rippling-founded-by-fallen-tech-ceo-parker-conrad-passes-1-billion-valuation-with-145-million-fundraise/ — Independent confirmation of $145M raise on August 4, 2020 at ~$1.35B post-money valuation, led by Founders Fund.
+
+[^79]: Crunchbase News, "Rippling Reaches Unicorn Status With $145M Series B," August 2020. Accessed July 2026. https://news.crunchbase.com/venture/rippling-reaches-unicorn-status-with-145m-series-b/ — Third independent confirmation: $145M Series B at $1.35B valuation; Founders Fund led with Greenoaks, Coatue, Bedrock, Kleiner Perkins, Initialized Capital, and Y Combinator.
+
+[^80]: TechCrunch, "Scale AI and its 22-year-old CEO lock down $100 million to help label Silicon Valley's data," August 5, 2019. Accessed July 2026. https://techcrunch.com/2019/08/05/scale-ai-and-its-22-year-old-ceo-lock-down-100-million-to-help-label-silicon-valleys-data/ — Confirms $100M Series C on August 5, 2019 at $1B+ valuation; led by Founders Fund with Accel, Coatue Management, Index Ventures, Spark Capital, Thrive Capital, Kevin Systrom, Mike Krieger, and Adam d'Angelo participating.
+
+[^81]: Scale AI blog, "Scale AI's Series C: Building the data platform for ML," August 5, 2019. Accessed July 2026. https://scale.com/blog/series-c — Company's own announcement confirming $100M Series C at $1B+ valuation led by Founders Fund with Accel, Coatue, Index Ventures, Spark Capital, Thrive Capital, and angels Kevin Systrom, Mike Krieger, and Adam d'Angelo.
+
+[^82]: Silicon Republic, "Scale AI secures $100m in Series C round led by Founders Fund," August 2019. Accessed July 2026. https://www.siliconrepublic.com/start-ups/scale-ai-funding — Third independent confirmation of $100M Series C led by Founders Fund at $1B+ unicorn valuation.
+
+[^83]: Fortune, "Elon Musk's Neuralink raises $280 million in its quest to implant chips inside human brains," August 7, 2023. Accessed July 2026. https://fortune.com/2023/08/07/elon-musk-neuralink-raises-280-million-brain-implants/ — Confirms $280M round led by Founders Fund announced via Elon Musk's post on X on August 7, 2023.
+
+[^84]: MedTech Dive, "Elon Musk's brain implant company raises $280M to fund clinical trials," August 8, 2023. Accessed July 2026. https://www.medtechdive.com/news/elon-musk-neuralink-raises-280-million/690340/ — Independent confirmation of $280M Series D led by Founders Fund; includes quote from Founders Fund partner Scott Nolan: "The team has been working for seven years to make this possible, pulling off technical breakthroughs that feel like science fiction."
+
+[^85]: Longevity Technology, "Neuralink raises $280 million following clinical trial go-ahead," August 2023. Accessed July 2026. https://longevity.technology/news/neuralink-raises-280-million-following-clinical-trial-go-ahead/ — Third independent confirmation of $280M Series D led by Founders Fund following FDA approval for human clinical trials.
+
+[^86]: TechCrunch, "Berlin's Trade Republic nabs $900M led by Sequoia at a $5B+ valuation to take its neo-broker app across Europe," May 20, 2021. Accessed July 2026. https://techcrunch.com/2021/05/20/berlins-trade-republic-nabs-900m-led-by-sequoia-at-a-5b-valuation-to-take-its-neo-broker-app-across-europe/ — Confirms $900M Series C on May 20, 2021 at $5.3B valuation; Sequoia led with new investors TCV and Thrive Capital and existing investors Accel, Founders Fund, Creandum, and Project A participating.
+
+[^87]: Sifted, "Trade Republic hits $5.3bn valuation in Series C led by Sequoia," May 2021. Accessed July 2026. https://sifted.eu/articles/trade-republic-unicorn-round — Independent confirmation: $750M primary + $150M secondary ($900M total) Series C on May 20, 2021 at $5.3B valuation; Sequoia led with TCV, Thrive, Accel, Founders Fund, Creandum, and Project A.
+
+[^88]: Trade Republic press release, "TRADE REPUBLIC ANNOUNCES $900M INVESTMENT, LED BY SEQUOIA, VALUING THE COMPANY AT $5.3B," May 20, 2021. Accessed July 2026. https://assets.ctfassets.net/vkizfq3pbtzc/IXoUsa33oXuXwguKh9PlC/a5bed167300cba65454d4bd6b660067c/2021-05-20_Trade_Republic_Press_Release_Series_C.pdf — Company's own press release confirming $900M Series C on May 20, 2021; Sequoia led with participation from Founders Fund (existing investor), Accel, Creandum, Project A, TCV, and Thrive Capital.

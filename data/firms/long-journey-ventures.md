@@ -170,6 +170,7 @@ Based on 60 verified portfolio companies from the firm's website and aggregator 
 | DreamPark | Seed ($1.1M, led) | 2025-05-29 | Gaming/XR | [^10] [^33] |
 | Unusual | Seed | 2026 | -- | [^10] |
 | Forage | Series B ($40M, participated) | 2026-06-03 | Fintech / SNAP-EBT Payments | [^26] [^27] [^28] |
+| Singularity | Series A (participated; $80M at $400M post-money; Khosla Ventures + Felicis co-led; AE Ventures, NEA, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, Soma also participated) | 2026-07-14 | Defense / Aerospace / Deep Tech | [^34] [^35] [^36] |
 
 *This table represents approximately 60 of ~130 known investments (46%). Many early investments were made as personal angel investments by partners (Scott and Cyan Banister) before the fund formalized. Years marked with "~" indicate approximate dates based on founding year or earliest known investment date; verified years have specific source citations.*
 
@@ -234,3 +235,6 @@ No independently sourced founder testimonials found from founders outside the Lo
 [^31]: Fortune, "Cloud seeding startup Rainmaker raises $6.3 million," May 7, 2024, accessed June 2026. https://fortune.com/2024/05/07/cloud-seeding-startup-rainmaker-raises-6-million/
 [^32]: Volteras blog, "Volteras closes $11.1 million Series A to transform energy data streaming," May 29, 2025, accessed June 2026. https://blog.volteras.com/post/Volteras_raises_series_A_funding
 [^33]: BusinessWire, "DreamPark Secures $1.1M Seed Funding to Transform Real-World Spaces into Mixed Reality Theme Parks," May 29, 2025, accessed June 2026. https://www.businesswire.com/news/home/20250529418603/en/DreamPark-Secures-$1.1M-Seed-Funding-to-Transform-Real-World-Spaces-into-Mixed-Reality-Theme-Parks
+[^34]: "Singularity Emerges from Stealth with $80M Series A at $400M Valuation to Deploy Air Defense at Scale," Business Wire, July 14, 2026. Accessed July 19, 2026. https://www.businesswire.com/news/home/20260714185502/en/Singularity-Emerges-from-Stealth-with-$80M-Series-A-at-$400M-Valuation-to-Deploy-Air-Defense-at-Scale — Names Long Journey among Series A participants alongside AE Ventures, NEA, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, and Soma.
+[^35]: Duncan Riley, "Singularity lands $80M at $400M valuation to build cheap drone interceptors," SiliconANGLE, July 14, 2026. Accessed July 19, 2026. https://siliconangle.com/2026/07/14/singularity-lands-80m-400m-valuation-build-cheap-drone-interceptors/ — Independent tech press coverage confirming Long Journey's Series A participation and the $400M valuation.
+[^36]: Dan Primack, "Air-defense startup Singularity secures $80 million," Axios, July 14, 2026. Accessed July 19, 2026. https://www.axios.com/2026/07/14/singularity-air-defense-seriesa-venture-oswald — Third-party primary confirmation via Axios Pro Rata reporting.

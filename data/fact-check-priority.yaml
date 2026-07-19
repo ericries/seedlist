@@ -1,28 +1,40 @@
 priority:
 - slug: khosla-ventures
   type: firm
-  reason: "appeared in State Affairs Growth (2026-07-14, $70M) and Singularity Series A (2026-07-14, $80M)"
+  reason: 'Fact-spec sweep 2026-07-19: added third primary source (Pulse 2) to State Affairs row and third primary source (Axios Pro Rata) to Singularity row on khosla-ventures.md; tightened both rows to include full syndicate detail. State Affairs Growth (USD 70M, 2026-07-14, co-led with Founders Fund; Tru Arrow Partners, Alumni Ventures, Marcus Brauchli, Alex Mather, Adam Hansmann, Richard Sarnoff participated; round type not disclosed) verified via PR Newswire company release [^sa1] + Yahoo Finance syndication [^sa2] + Pulse 2 independent press [^sa3]. Singularity Series A (USD 80M at USD 400M post-money, 2026-07-14, co-led with Felicis; AE Ventures + NEA existing seed; Long Journey, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, Soma also participated) verified via BusinessWire company release [^sing1] + SiliconANGLE [^sing2] + Axios [^sing3]. Parallel updates on state-affairs.md (added [^3] Pulse 2) and singularity-defense.md (added [^4] Axios).'
   added: 2026-07-19
+  status: resolved
+  resolved: 2026-07-19
 - slug: founders-fund
   type: firm
-  reason: "appeared in State Affairs Growth (2026-07-14, $70M)"
+  reason: 'Fact-spec sweep 2026-07-19: added third primary source (Pulse 2 [^sa3]) to State Affairs row on founders-fund.md; tightened row to include full syndicate detail (co-led with Khosla Ventures; Tru Arrow Partners, Alumni Ventures, Marcus Brauchli, Alex Mather, Adam Hansmann, Richard Sarnoff participated; round type not disclosed). USD 70M Growth round 2026-07-14 verified via PR Newswire company release + Yahoo Finance syndication + Pulse 2 independent press.'
   added: 2026-07-19
+  status: resolved
+  resolved: 2026-07-19
 - slug: nea
   type: firm
-  reason: "appeared in Singularity Series A (2026-07-14, $80M)"
+  reason: 'Fact-spec sweep 2026-07-19: added Singularity Series A portfolio row on nea.md with 3 primary sources ([^29] BusinessWire, [^30] SiliconANGLE, [^31] Axios). Row inline discloses NEA is an existing seed investor participating in Series A (USD 80M at USD 400M post-money, 2026-07-14; Khosla Ventures + Felicis co-led; AE Ventures also existing seed; Long Journey, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, Soma also participated).'
   added: 2026-07-19
+  status: resolved
+  resolved: 2026-07-19
 - slug: menlo-ventures
   type: firm
-  reason: "appeared in Singularity Series A (2026-07-14, $80M)"
+  reason: 'Fact-spec sweep 2026-07-19: added Singularity Series A portfolio row on menlo-ventures.md with 3 primary sources ([^50] BusinessWire, [^51] SiliconANGLE, [^52] Axios). Row discloses Menlo participation in USD 80M at USD 400M post-money Series A (2026-07-14; Khosla Ventures + Felicis co-led; AE Ventures + NEA existing seed; Long Journey, Harpoon, Y Combinator, Decisive Point, New Vista, Sunflower, Soma also participated).'
   added: 2026-07-19
+  status: resolved
+  resolved: 2026-07-19
 - slug: y-combinator
   type: firm
-  reason: "appeared in Singularity Series A (2026-07-14, $80M)"
+  reason: 'Fact-spec sweep 2026-07-19: added Singularity Series A portfolio row on y-combinator.md with 3 primary sources ([^73] BusinessWire, [^74] SiliconANGLE, [^75] Axios). Row discloses YC participation in USD 80M at USD 400M post-money Series A (2026-07-14; Khosla Ventures + Felicis co-led; AE Ventures, NEA, Long Journey, Harpoon, Menlo Ventures, Decisive Point, New Vista, Sunflower, Soma also participated).'
   added: 2026-07-19
+  status: resolved
+  resolved: 2026-07-19
 - slug: long-journey-ventures
   type: firm
-  reason: "appeared in Singularity Series A (2026-07-14, $80M)"
+  reason: 'Fact-spec sweep 2026-07-19: added Singularity Series A portfolio row on long-journey-ventures.md with 3 primary sources ([^34] BusinessWire, [^35] SiliconANGLE, [^36] Axios). Row discloses Long Journey participation in USD 80M at USD 400M post-money Series A (2026-07-14; Khosla Ventures + Felicis co-led; AE Ventures, NEA, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, Soma also participated).'
   added: 2026-07-19
+  status: resolved
+  resolved: 2026-07-19
 - slug: outlander-vc
   type: firm
   reason: 'Fact-spec sweep 2026-07-17: tightened HavocAI row on outlander-vc.md from "Seed | ~2023" to "Seed ($11M; Scout Ventures led, Trousdale Ventures co-led; Outlander VC + The Veteran Fund + BV.VC + Decisive Point + Alumni Ventures + New North Ventures participated) | 2024-09-20" via 3 primary sources: (1) PR Newswire HavocAI company press release (dateline PROVIDENCE, R.I., Sept. 20, 2024) [^24], (2) MarineLink 2024-09-20 [^25], (3) The SaaS News Sept 2024 [^26]. Parallel update on havoc.md startup profile adding 2024-09-20 Seed row with same 3 primary sources ([^4][^5][^6]). Prior ~2023 year was wrong; the disclosed round is Sept. 20, 2024. 3 new footnotes added on outlander-vc.md and 3 on havoc.md.'

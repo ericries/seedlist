@@ -96,12 +96,12 @@ Based on Menlo Ventures' verified portfolio data:
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Anthropic | Series C, Series D (led, 2024-01-11, $750M at $18.4B via Menlo Inflection AI Partners SPV), Series E, Series F, Series G, Series H | 2023-05-23 onward | AI | Private [^1][^26] |
-| Pinecone | Growth | ~2023 | AI Infrastructure | Private [^1] |
+| Pinecone | Series B (participated; $100M at $750M val; Andreessen Horowitz led) | 2023-04-27 | AI Infrastructure | Private [^38][^39][^40] |
 | Abnormal Security | Growth | ~2021 | Cybersecurity/AI | Private [^1] |
-| Chime | Growth | ~2018 | Fintech | IPO (Nasdaq) [^1] |
+| Chime | Series D (participated; $200M at $1.5B val; DST Global led) | 2019-03-05 | Fintech | IPO (Nasdaq) [^47][^48][^49] |
 | Roku | Early | ~2008 | Consumer Electronics | IPO [^3] |
-| Uber | Early | ~2013 | Mobility | IPO [^3] |
-| Carta | Growth | ~2018 | Fintech | Private [^1] |
+| Uber | Series B (led; $32M at $322M post-money val) | 2011-12-07 | Mobility | IPO [^41][^42][^43] |
+| Carta | Series E (participated; $300M at $1.7B val; Andreessen Horowitz led) | 2019-05-06 | Fintech | Private [^44][^45][^46] |
 | Betterment | Growth | ~2016 | Fintech | Private [^1] |
 | BitSight | Growth | ~2018 | Cybersecurity | Private [^1] |
 | Poshmark | Early | ~2013 | Consumer Marketplace | IPO [^3] |
@@ -125,6 +125,7 @@ Based on Menlo Ventures' verified portfolio data:
 | Lovable | Series B (co-led via Anthology Fund with CapitalG, $330M at $6.6B val) | 2025-12-18 | AI / Developer Tools / Vibe Coding | Private [^29][^30][^31] |
 | Suno | Series C (led, $250M at $2.45B val) | 2025-11-19 | AI / Generative Music | Private [^32][^33][^34] |
 | Meticulous | Series A (participated, $15M; Chemistry led; angels from Poolside, Dropbox, Vercel, OpenAI, Stripe, Adobe, Hex, Cursor) | 2026-07-15 | Developer Tools / AI Testing | Private [^35][^36][^37] |
+| Singularity | Series A (participated; $80M at $400M post-money; Khosla Ventures + Felicis co-led; AE Ventures, NEA existing seed; Long Journey, Harpoon, Y Combinator, Decisive Point, New Vista, Sunflower, Soma also participated) | 2026-07-14 | Defense / Aerospace / Deep Tech | Private [^50][^51][^52] |
 
 *This table represents a small fraction of Menlo's 466 total investments. The firm has produced 85+ public companies and 170+ M&A exits [^2].*
 
@@ -195,3 +196,33 @@ No independently sourced founder testimonials found.
 [^36]: "Meticulous Series A · $15M raised · (2026)," StartupHub.ai, July 15, 2026. Accessed July 16, 2026. https://www.startuphub.ai/investment_rounds/meticulous-series-a-2026 — Contemporaneous coverage confirming Menlo Ventures co-investor role.
 
 [^37]: "Meticulous raises $15M to help developers ship AI-generated code faster," Vestbee, July 2026. Accessed July 16, 2026. https://www.vestbee.com/insights/articles/meticulous-raises-15-m — Third independent tier-1 source confirming Menlo Ventures as co-investor in Chemistry-led $15M Series A on 2026-07-15.
+
+[^38]: Pinecone blog, "Announcing Our $100M Series B Funding to Build Long-Term Memory for AI," April 27, 2023. Accessed July 2026. https://www.pinecone.io/blog/series-b/ — Pinecone's own announcement: "$100M Series B... led by Andreessen Horowitz, with participation from ICONIQ Growth, and our existing investors Menlo Ventures and Wing Venture Capital" at $750M valuation.
+
+[^39]: Pinecone newsroom, "Pinecone Raises $100M in Series B Funding to Provide Long-Term Memory for AI," April 27, 2023. Accessed July 2026. https://www.pinecone.io/newsroom/pinecone-raises-usd100m-in-series-b-funding-to-provide-long-term-memory-for-ai/ — Contemporaneous company press release confirming Menlo Ventures as previous investor participating in $100M Series B at $750M valuation.
+
+[^40]: TechCrunch (Ron Miller), "Pinecone drops $100M investment on $750M valuation, as vector database demand grows," April 27, 2023. Accessed July 2026. https://techcrunch.com/2023/04/27/pinecone-drops-100m-investment-on-750m-valuation-as-vector-database-demand-grows/ — Tier-1 press confirming the round: "Today's investment was led by Andreessen Horowitz with participation from ICONIQ Growth and previous investors Menlo Ventures and Wing Venture Capital."
+
+[^41]: TechCrunch (Erick Schonfeld), "Uber Gets $32M From Menlo Ventures, Jeff Bezos And Goldman Sachs," December 7, 2011. Accessed July 2026. https://techcrunch.com/2011/12/07/uber-announces-32-million-in-funding/ — Contemporaneous announcement of Uber's $32M Series B led by Menlo Ventures (Shervin Pishevar), with Jeff Bezos, Goldman Sachs, and existing investor Benchmark Capital participating.
+
+[^42]: Vator.tv, "Uber pulls in another $32M for app-based car service," December 7, 2011. Accessed July 2026. https://vator.tv/news/2011-12-07-uber-pulls-in-another-32m-for-app-based-car-service — Independent contemporaneous confirmation of the $32M Series B led by Menlo Ventures with Jeff Bezos, Goldman Sachs, and Benchmark Capital participating.
+
+[^43]: TechCrunch (Kate Clark), "Getting a piece of Uber," April 29, 2019. Accessed July 2026. https://techcrunch.com/2019/04/29/getting-a-piece-of-uber/ — Retrospective confirming Menlo Ventures led Uber's $32M Series B at $322M valuation in 2011 (agreeing to terms after Andreessen Horowitz declined), with total Menlo investment reaching $66.5M across follow-ons.
+
+[^44]: TechCrunch (Connie Loizos), "Carta was just valued at $1.7 billion by Andreessen Horowitz, in a deal some see as rich," May 6, 2019. Accessed July 2026. https://techcrunch.com/2019/05/06/carta-was-just-valued-at-1-7-billion-by-andreessen-horowitz-in-a-deal-some-see-as-rich/ — Tier-1 press confirming Carta's $300M Series E at $1.7B valuation led by Andreessen Horowitz, with "earlier backers Tribe Capital, Menlo Ventures and Meritech" participating alongside Lightspeed, Goldman Sachs, Tiger Global, and Thrive Capital.
+
+[^45]: Tech Startups, "Carta (formerly eShares) raises $300 million in Series E funding to increase private market liquidity and continue building products for companies," May 7, 2019. Accessed July 2026. https://techstartups.com/2019/05/07/carta-formerly-eshares-raises-300-million-series-e-funding-increase-private-market-liquidity-continue-building-products-companies/ — Contemporaneous confirmation of $300M Series E at $1.7B post-money led by Andreessen Horowitz with Menlo Ventures among previous investors participating.
+
+[^46]: VC News Daily, "Carta Raises $300M in Series E," May 7, 2019. Accessed July 2026. https://vcnewsdaily.com/carta/venture-capital-funding/bsnyxpkgqf — Independent confirmation of $300M Series E at $1.7B valuation, with Menlo Ventures explicitly named among previous investors participating.
+
+[^47]: Forbes (Donna Fuscaldo), "Chime Raises $200 Million At $1.5 Billion Valuation," March 5, 2019. Accessed July 2026. https://www.forbes.com/sites/donnafuscaldo/2019/03/05/chime-raises-200-million-at-1-5-billion-valuation/ — Tier-1 press confirming Chime's $200M Series D at $1.5B valuation led by DST Global, with new investors Coatue, General Atlantic, ICONIQ Capital, Dragoneer, and "existing investors Menlo Ventures, Forerunner Ventures, Cathay Innovation and other unnamed investors" also participating.
+
+[^48]: Menlo Ventures, "Cheers to Chime: Finally, a Bank Consumers Can Love!," 2019. Accessed July 2026. https://menlovc.com/perspective/cheers-to-chime-finally-a-bank-consumers-can-love/ — Menlo's own blog post confirming participation in Chime's $200M Series D (March 2019) led by DST Global, closing nine months after Menlo led Chime's Series C.
+
+[^49]: PYMNTS, "Chime Valued At $1.5B After Capital Raise," March 5, 2019. Accessed July 2026. https://www.pymnts.com/news/investment-tracker/2019/chime-challenger-bank-venture-capital-funding/ — Independent contemporaneous confirmation: "Other existing investors participating in the fundraising round include Menlo Ventures, Forerunner Ventures and Cathay Innovation."
+
+[^50]: "Singularity Emerges from Stealth with $80M Series A at $400M Valuation to Deploy Air Defense at Scale," Business Wire, July 14, 2026. Accessed July 19, 2026. https://www.businesswire.com/news/home/20260714185502/en/Singularity-Emerges-from-Stealth-with-$80M-Series-A-at-$400M-Valuation-to-Deploy-Air-Defense-at-Scale — Company press release names Menlo Ventures among Series A participants alongside AE Ventures, NEA, Long Journey, Harpoon, Y Combinator, Decisive Point, New Vista, Sunflower, and Soma.
+
+[^51]: Duncan Riley, "Singularity lands $80M at $400M valuation to build cheap drone interceptors," SiliconANGLE, July 14, 2026. Accessed July 19, 2026. https://siliconangle.com/2026/07/14/singularity-lands-80m-400m-valuation-build-cheap-drone-interceptors/ — Independent tech press coverage confirming Menlo's Series A participation and the $400M valuation.
+
+[^52]: Dan Primack, "Air-defense startup Singularity secures $80 million," Axios, July 14, 2026. Accessed July 19, 2026. https://www.axios.com/2026/07/14/singularity-air-defense-seriesa-venture-oswald — Third-party primary confirmation via Axios Pro Rata reporting.

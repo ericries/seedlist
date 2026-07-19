@@ -148,7 +148,7 @@ Rippling is a workforce management platform that unifies HR, IT, and finance ope
 |------|-------|--------|-----------|------|--------------|
 | Mar 2017 | Seed | $7M | -- | Initialized Capital, Hydrazine Capital | Y Combinator [^4] |
 | Apr 2019 | Series A | $45M | $270M post | Kleiner Perkins (Mamoon Hamid) | Initialized Capital, Threshold Ventures, Y Combinator [^5][^13] |
-| Aug 2020 | Series B | $145M | $1.35B post | Founders Fund | Greenoaks Capital, Coatue Management, Bedrock Capital, Kleiner Perkins, Initialized Capital, Y Combinator [^6][^14] |
+| 2020-08-04 | Series B | $145M | $1.35B post | Founders Fund | Greenoaks Capital, Coatue Management, Bedrock Capital, Kleiner Perkins, Initialized Capital, Y Combinator [^6][^14][^15] |
 | Oct 2021 | Series C | $250M | $6.5B | Sequoia Capital Global Equities | Greenoaks, existing investors [^7] |
 | May 2022 | Series D | $250M | $11.25B | Bedrock, Kleiner Perkins | Y Combinator, Sequoia Capital, existing investors [^8] |
 | Mar 2023 | Series E | $500M | $11.25B | Greenoaks (Neil Mehta) | Existing investors [^9] |
@@ -191,3 +191,5 @@ Rippling is a workforce management platform that unifies HR, IT, and finance ope
 [^13]: Techmeme, "HR software startup Rippling, led by ex-Zenefits CEO Parker Conrad, raises $45M Series A led by Kleiner Perkins, source says at a valuation of $270M (Josh Constine/TechCrunch)," April 3, 2019. Accessed May 2026. https://www.techmeme.com/190403/p13 — Confirms Rippling's April 2019 Series A valuation of $270M; Kleiner Perkins led with Initialized Capital, Threshold Ventures, and Y Combinator participating.
 
 [^14]: Crunchbase News, "Rippling Reaches Unicorn Status With $145M Series B," August 2020. Accessed May 2026. https://news.crunchbase.com/venture/rippling-reaches-unicorn-status-with-145m-series-b/ — Confirms Rippling's August 2020 Series B at $1.35B valuation; Founders Fund led with Greenoaks, Coatue, Bedrock, Kleiner Perkins, Initialized Capital, and Y Combinator participating.
+
+[^15]: TechCrunch, "Rippling nabs $145M at a $1.35B valuation to build out its all-in-one platform for employee data," August 4, 2020. Accessed July 2026. https://techcrunch.com/2020/08/04/rippling-nabs-145m-at-a-1-35b-valuation-to-build-out-its-all-in-one-platform-for-employee-data/ — Pins the announcement date to August 4, 2020; confirms Founders Fund led at $1.35B valuation with Napoleon Ta joining Rippling's board of directors as part of the round.

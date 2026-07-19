@@ -137,7 +137,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Block (Square) | Series A | 2009 | Fintech | Public (IPO 2015) [^22][^25] |
 | Stripe | Early | ~2012 | Fintech / Payments | Private [^12][^22] |
 | Okta | Series B ($16.5M; w/ Greylock, a16z, Floodgate) | 2011-08-08 | Enterprise SaaS | Public (IPO 2017) [^22][^26][^44] |
-| Nutanix | Series B | ~2011 | Enterprise / Infrastructure | Public (IPO 2016) [^22][^16] |
+| Nutanix | Series B (led, $25M; Lightspeed Venture Partners and Blumberg Capital participated) | 2011-10-25 | Enterprise / Infrastructure | Public (IPO 2016) [^22][^16][^55][^56][^57] |
 | GitLab | Series A | 2015 | Developer Tools | Public (IPO 2021) [^22][^6] |
 | Affirm | Series A | 2014 | Fintech | Public (IPO 2021) [^22][^10][^37] |
 | QuantumScape | Early | ~2012 (founded) | Energy / Batteries | Public (SPAC 2020) [^22][^22] |
@@ -149,7 +149,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Impossible Foods | Series A | ~2011 (founded) | Food Tech | Private [^22] |
 | Commonwealth Fusion | Series A | 2019-06-27 | Energy / Fusion | Private [^22][^36] |
 | Sword Health | Series A | ~2015 (founded) | Digital Health | Private [^22][^29] |
-| Ramp | Early | ~2019 (founded) | Fintech | Private [^22] |
+| Ramp | Series D-2 (co-led with Founders Fund, $150M at $7.65B post; Keith Rabois led for Khosla; participants: Sequoia Capital, Greylock, 8VC) | 2024-04-17 | Fintech | Private [^22][^58][^59][^60] |
 | Faire | Early | ~2017 (founded) | Marketplace | Private [^12][^22] |
 | Opendoor | Co-founded by Rabois | ~2014 (founded) | Real Estate | Public (SPAC 2020) [^12][^22] |
 | Waabi | Series A | 2021-06-08 | Autonomous Vehicles | Private [^22][^30] |
@@ -181,7 +181,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Fortera | Early | ~2019 (founded) | Sustainability / Cement | Private [^22] |
 | LanzaTech | Early | ~2005 (founded) | Sustainability / Carbon | Public (SPAC 2023) [^22] |
 | Mainspring | Early | ~2010 (founded) | Sustainability / Energy | Private [^22] |
-| Blue River Technology | Early | ~2011 (founded) | AgTech / AI | Acquired by John Deere (2017) [^22] |
+| Blue River Technology | Series A (led, $3.1M; Steve Blank, Ulu Ventures, Stanford Angels and Entrepreneurs participated) | 2012-09-10 | AgTech / AI | Acquired by John Deere (2017) [^22][^61][^62][^63] |
 | ThoughtSpot | Early | ~2012 (founded) | Enterprise / Analytics | Private [^22] |
 | Vectra | Early | ~2012 (founded) | Enterprise / Security | Private [^22] |
 | Mach Industries | Series C ($300M, $1.8B post-money; existing investor; led by Infinite Capital and Ribbit Capital) | 2026-06-02 | Defense Tech | Private [^22][^46] |
@@ -213,8 +213,8 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | General Intuition | Series A (led, $320M at $2.3B post-money) | 2026-06-25 | AI / World Models / Robotics / Gaming | Private [^genint1][^genint2][^genint3] |
 | Scaled Cognition | Series A (led, $100M at ~$750M val; Genesys participated) | 2026-06-25 | AI / Enterprise / Foundation Models | Private [^sc1][^sc2][^sc3] |
 | Oratomic | Series A (co-led with ARCH Venture Partners, Spark Capital; $300M; Vinod Khosla personally championed — "largest initial investment yet, as we did in OpenAI") | 2026-07-07 | Quantum Computing / Deep Tech | Private [^orat1][^orat2][^orat3][^orat4] |
-| State Affairs | Growth ($70M; co-led with Founders Fund) | 2026-07-14 | AI / Policy Intelligence / Media | Private [^sa1][^sa2] |
-| Singularity | Series A (co-led with Felicis, $80M at $400M val) | 2026-07-14 | Defense / Aerospace / Deep Tech | Private [^sing1][^sing2] |
+| State Affairs | Growth ($70M; co-led with Founders Fund; Tru Arrow Partners, Alumni Ventures, Marcus Brauchli, Alex Mather, Adam Hansmann, Richard Sarnoff participated; round type not disclosed) | 2026-07-14 | AI / Policy Intelligence / Media | Private [^sa1][^sa2][^sa3] |
+| Singularity | Series A (co-led with Felicis, $80M at $400M post-money; AE Ventures + NEA existing seed; Long Journey, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, Soma also participated) | 2026-07-14 | Defense / Aerospace / Deep Tech | Private [^sing1][^sing2][^sing3] |
 
 *Note: This table includes 70 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -444,6 +444,28 @@ The following table includes companies from the Khosla Ventures portfolio page [
 
 [^sa2]: "State Affairs Raises $70 Million to Help Institutions Navigate the Policy and Regulatory Economy," Yahoo Finance, July 14, 2026. Accessed July 19, 2026. https://finance.yahoo.com/economy/policy/articles/state-affairs-raises-70-million-110000098.html — Independent confirmation of Khosla Ventures as co-lead.
 
+[^sa3]: "State Affairs Raises $70 Million To Advance Policy And Regulatory Intelligence Platform," Pulse 2, July 14, 2026. Accessed July 19, 2026. https://pulse2.com/state-affairs-raises-70-million-to-advance-policy-and-regulatory-intelligence-platform/ — Third independent primary press coverage confirming Khosla Ventures as co-lead alongside Founders Fund; full participant list matches PR Newswire release.
+
 [^sing1]: "Singularity Emerges from Stealth with $80M Series A at $400M Valuation to Deploy Air Defense at Scale," Business Wire, July 14, 2026. Accessed July 19, 2026. https://www.businesswire.com/news/home/20260714185502/en/Singularity-Emerges-from-Stealth-with-$80M-Series-A-at-$400M-Valuation-to-Deploy-Air-Defense-at-Scale — Confirms Khosla Ventures co-led the $80M Series A alongside Felicis.
 
 [^sing2]: Duncan Riley, "Singularity lands $80M at $400M valuation to build cheap drone interceptors," SiliconANGLE, July 14, 2026. Accessed July 19, 2026. https://siliconangle.com/2026/07/14/singularity-lands-80m-400m-valuation-build-cheap-drone-interceptors/ — Independent confirmation of Khosla Ventures as co-lead.
+
+[^sing3]: Dan Primack, "Air-defense startup Singularity secures $80 million," Axios, July 14, 2026. Accessed July 19, 2026. https://www.axios.com/2026/07/14/singularity-air-defense-seriesa-venture-oswald — Third-party primary confirmation via Axios Pro Rata reporting.
+
+[^55]: "Nutanix Adds $25 Million In Series B Round Led By Khosla Ventures," Nutanix press release, October 25, 2011. Accessed July 19, 2026. https://www.nutanix.com/press-releases/2011/nutanix-adds-25-million-in-series-b-round-led-by-khosla-ventures — Nutanix's own announcement confirms Khosla Ventures led the $25M Series B on October 25, 2011 with participation from existing backers Lightspeed Venture Partners and Blumberg Capital. Vinod Khosla quoted: "Network storage, as we know it, is ready to be radically disrupted. Datacenters will be dramatically faster, simpler and greener with Nutanix." Nutanix was one of the first companies funded from Khosla Ventures IV, the firm's then-new $1.05B fund.
+
+[^56]: Klint Finley, "Nutanix Closes $25 Million Round from Khosla Ventures," SiliconANGLE, October 25, 2011. Accessed July 19, 2026. https://siliconangle.com/2011/10/25/nutanix-closes-25-million-round-from-khosla-ventures/ — Independent primary press confirmation of Khosla Ventures leading the $25M Series B with Lightspeed Venture Partners and Blumberg Capital participating.
+
+[^57]: "Nutanix Adds $25 Million in Series B Round Led by Khosla Ventures," GlobeNewswire, October 25, 2011. Accessed July 19, 2026. https://www.globenewswire.com/news-release/2011/10/25/1131193/0/en/Nutanix-Adds-25-Million-in-Series-B-Round-Led-by-Khosla-Ventures.html — Newswire distribution of Nutanix's official announcement confirming Khosla Ventures as lead of the $25M Series B on October 25, 2011.
+
+[^58]: Mary Ann Azevedo, "Ramp raises another $150M co-led by Khosla and Founders Fund at a $7.65B valuation," TechCrunch, April 17, 2024. Accessed July 19, 2026. https://techcrunch.com/2024/04/17/ramp-raises-another-150-million-co-led-by-khosla-founders-fund-at-a-7-65b-valuation/ — Tier-1 press confirmation that Khosla Ventures (new investor, Keith Rabois leading) and Founders Fund (existing) co-led Ramp's $150M Series D-2 on April 17, 2024 at a $7.65B post-money valuation; new backers Sequoia Capital, Greylock, and 8VC also joined.
+
+[^59]: Ramp company blog, "Ramp announces Series D-2 capital raise," April 2024. Accessed July 19, 2026. https://ramp.com/blog/ramp-april-2024-funding — Ramp's own official announcement of the $150M Series D-2 at $7.65B valuation, co-led by Khosla Ventures and Founders Fund with Sequoia Capital, Greylock, and 8VC as additional new investors.
+
+[^60]: "Latham & Watkins Advises Ramp in US$150 Million Series D-2 Funding Round," Latham & Watkins press release, April 2024. Accessed July 19, 2026. https://www.lw.com/en/news/2024/04/latham-watkins-advises-ramp-in-us150-million-series-d-2-funding-round — Deal counsel announcement independently confirming Khosla Ventures and Founders Fund co-led the $150M Series D-2 at $7.65B valuation.
+
+[^61]: Colleen Taylor, "Blue River Technology Raises $3.1 Million To Build Robots To Replace Chemical Herbicides," TechCrunch, September 10, 2012. Accessed July 19, 2026. https://techcrunch.com/2012/09/10/blue-river-technology-raises-3-1-million-to-build-robots-to-replace-chemical-herbicides/ — Tier-1 press confirmation that Khosla Ventures led Blue River Technology's $3.1M Series A on September 10, 2012 with Steve Blank, Ulu Ventures, and Stanford Angels and Entrepreneurs also participating. Vinod Khosla cited Blue River's potential to reduce US herbicide use by 250M pounds/year.
+
+[^62]: "Blue River Technology Raises $3.1 Million from Khosla Ventures and Angel Investors," Business Wire, September 10, 2012. Accessed July 19, 2026. https://www.businesswire.com/news/home/20120910006479/en/Blue-River-Technology-Raises-3.1-Million-from-Khosla-Ventures-and-Angel-Investors — Business Wire distribution of Blue River Technology's official announcement confirming Khosla Ventures as lead of the $3.1M Series A on September 10, 2012.
+
+[^63]: "Blue River Bags $3.1M Round," PE Hub, September 2012. Accessed July 19, 2026. https://www.pehub.com/blue-river-bags-3-1m-round/ — Independent primary press confirmation of Khosla Ventures leading Blue River Technology's $3.1M Series A with Steve Blank, Ulu Ventures, and Stanford Angels and Entrepreneurs participating.
