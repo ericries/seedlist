@@ -71,6 +71,15 @@ pending_rounds:
   parsed_amount: $60M
   parsed_round: Series D
   status: pending
+- title: CuspAI raises €393.2 million at €2.2 billion valuation; launches AI Materials
+    Foundry to accelerate materials discovery
+  url: https://www.eu-startups.com/2026/07/cuspai-raises-e393-2-million-at-e2-2-billion-valuation-launches-ai-materials-foundry-to-accelerate-materials-discovery/
+  source: eu-startups
+  date_found: '2026-07-20'
+  parsed_company: CuspAI
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation
   url: https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/
   source: techcrunch
