@@ -123,7 +123,7 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | Agave Games | Seed | 2022 | Gaming | Active [^6] |
 | PhotoRoom | Series A | 2022 | AI/Consumer | Active [^6] |
 | Brigad | Series B (led, €33M) | 2023-02-16 | Enterprise/Marketplace | Active [^6][^31] |
-| 32Co | Seed (led, £2.2M; strategic angels including Nicolas Cary of Blockchain.com participated; founder Dr. Sonia Szamocki) | 2023-06-28 | Digital Health | Active [^6][^32c1][^32c2] |
+| 32Co | Seed (led, £2.2M; Wavemaker 360 Health + strategic angels including Nicolas Cary of Blockchain.com participated; founder Dr. Sonia Szamocki) | 2023-06-28 | Digital Health | Active [^6][^32c1][^32c2][^32c3] |
 | Anytype | Series A (led, $13.4M; Inflection, Square One, Script Capital, Protocol Labs, Connect Ventures, New Forge, Foreword VC participated; Colin Hanna joined board) | 2023-08-23 | Enterprise/Productivity | Active [^6][^any1][^any2] |
 | Dream Games | Seed | 2019 | Gaming | Acquired by CVC 2025 [^6] |
 | GoCardless | Series B | 2014 | Fintech | Acquired by Mollie 2025 [^15] |
@@ -240,6 +240,8 @@ No additional independently sourced founder testimonials found beyond those publ
 [^32c1]: Balderton Capital, "32co raises £2.2 million to revolutionise access to specialist healthcare," June 28, 2023. Accessed July 2026. https://www.balderton.com/news/32co-raises-2-2-million-to-revolutionise-access-to-specialist-healthcare/ — Balderton's own announcement confirming £2.2M seed on June 28, 2023, led by Balderton with participation from Wavemaker 360 Health and strategic angels including Nicolas Cary (Blockchain.com co-founder). Founder/CEO Dr. Sonia Szamocki.
 
 [^32c2]: Tech.eu, "32Co raises £2.2 million in seed funding to upskill and support the clear aligner industry," June 30, 2023. Accessed July 2026. https://tech.eu/2023/06/30/32co-is-helping/ — Independent press confirmation of the £2.2M seed round led by Balderton Capital, June 2023.
+
+[^32c3]: HTWorld, "32co raises 2.2m in funding round," June 28, 2023. Accessed July 19, 2026. https://www.htworld.co.uk/news/32co-raises-2-2m-in-funding-round/ — Third independent primary press (UK healthtech industry) confirming 32Co (Dr Sonia Szamocki, CEO/founder) closed a £2.2M / ~$3M seed on June 28, 2023 led by Balderton Capital, with Wavemaker Three-Sixty Health and strategic angels participating. 32Co connects general clinicians with specialists via an AI-enhanced collaboration platform, initially focused on clear aligner orthodontics.
 
 [^any1]: Anytype blog, "Announcing our $13.4M Raise," August 23, 2023. Accessed July 2026. https://blog.anytype.io/anytype-raises-13-4million-usd-funding/ — Primary source: Anytype's own announcement of a $13.4M round on August 23, 2023, led by Balderton Capital with Inflection, Square One, Script Capital, Protocol Labs, Connect Ventures, New Forge, Foreword VC and angels including Trent McConnaghy, Jutta Steiner, Luis Cuendo, and Adam Wiggins. The round was described as oversubscribed four times; Colin Hanna from Balderton joined Anytype's board.
 

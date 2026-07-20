@@ -77,7 +77,7 @@ Based on 12 featured and verified portfolio companies from BTV's website and pre
 | Relay | Seed | 2020 | Banking/SMB Neobank | Active (Series B) | [^1] |
 | Basis | Seed (led, $3.6M) | 2023-10 | Accounting/AI | Active (Series B, $1.15B valuation) | [^1][^13][^14] |
 | InScope | Seed | 2022 | Accounting/Reporting | Active (Series A) | [^1] |
-| Layer | Pre-seed (led, $2.3M; angels from Square, Plaid, Unit, Check) | 2024-05-15 | Accounting/Embedded | Active | [^1][^lay1][^lay2] |
+| Layer | Pre-seed (led, USD 2.3M; angels from Square, Plaid, Unit, Check; founders Justin Meretab + Daniel O'Neel) → Seed (participant, USD 6.6M; Emergence Capital led; 2025-07-09) | 2024-05-15 | Accounting/Embedded | Active | [^1][^lay1][^lay2][^lay3][^lay4][^lay5] |
 | Mendel | Seed | 2022 | Cards/Expense Management | Active (Series A) | [^1] |
 | Monk | Pre-Seed | 2024 | AI/Contract Analysis | Active | [^1] |
 | Lunar | Seed | 2022 | Healthcare/Hospital Software | Active (Series A) | [^1] |
@@ -135,3 +135,9 @@ Note: These testimonials are sourced from BTV's own website and marketing materi
 [^lay1]: TechCrunch, "Embedded accounting startup Layer secures $2.3M toward goal of replacing QuickBooks," May 15, 2024. Accessed July 2026. https://techcrunch.com/2024/05/15/embedded-accounting-layer-2-3m-quickbooks/ — Primary press: Layer raised $2.3M pre-seed announced May 15, 2024, led by Better Tomorrow Ventures with participation from executives at Square, Plaid, Unit, and Check. Founders Justin Meretab (ex-Square Banking product lead) and Daniel O'Neel (ex-Wealthfront engineering lead).
 
 [^lay2]: Finovate, "Layer Raises $2.3 Million for Embedded Accounting," May 2024. Accessed July 2026. https://finovate.com/layer-raises-2-3-million-for-embedded-accounting/ — Independent confirmation of the $2.3M pre-seed led by Better Tomorrow Ventures, May 2024. Company later raised a $6.6M seed led by Emergence Capital in 2025 with BTV following on.
+
+[^lay3]: The Paypers, "Layer receives USD 2.3 million in pre-seed investment," May 17, 2024. Accessed July 19, 2026. https://thepaypers.com/fintech/news/layer-secures-usd-23-million-in-pre-seed-investment — Third independent fintech-press confirmation of Layer's $2.3M pre-seed led by Better Tomorrow Ventures, with executives from Square, Plaid, Unit, and Check joining. Capital used to expand across SME software platforms and grow the team beyond the initial four employees.
+
+[^lay4]: Layer blog, "Announcing our $6.6M Seed round led by Emergence Capital," July 9, 2025. Accessed July 19, 2026. https://www.layerfi.com/posts/announcing-our-6-6m-seed-round-led-by-emergence-capital — Primary company source. Layer announced a $6.6M Seed round on July 9, 2025 led by Emergence Capital with Better Tomorrow Ventures (existing pre-seed investor) participating; brings total raised to ~$9M. Founders: Justin Meretab (CEO) and Daniel O'Neel. Partners include Moxie, Nav, Dripos, Duet, and Carry that have collectively onboarded 30,000+ SMBs.
+
+[^lay5]: National Law Review press release wire, "Layer Raises $6.6M Led by Emergence Capital to Bring Embedded Accounting to the SMB Software Stack," July 9, 2025. Accessed July 19, 2026. https://natlawreview.com/press-releases/layer-raises-66m-led-emergence-capital-bring-embedded-accounting-smb — Independent wire confirmation of Layer's $6.6M Seed announced July 9, 2025, "led by Emergence Capital, with participation from Better Tomorrow Ventures (BTV)."

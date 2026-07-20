@@ -166369,7 +166369,9 @@ vague_facts:
   line: '| 32Co | Seed | 2023 | Digital Health | Active [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: 'Fact-spec sweep 2026-07-19 — Tightened 32Co Seed row from "Seed | 2023" to "Seed (led, GBP 2.2M; Wavemaker 360 Health + strategic angels incl. Nicolas Cary of Blockchain.com participated) | 2023-06-28" via 3 primary sources: Balderton press release, Tech.eu contemporaneous coverage, and HTWorld (UK healthtech press). Founder Dr. Sonia Szamocki. No 32Co startup profile exists.'
 - profile: firms/balderton-capital
   profile_name: Balderton Capital
   company: Anytype
@@ -166533,7 +166535,9 @@ vague_facts:
   line: '| Layer | Seed | 2023 | Accounting/Embedded | Active | [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: 'Fact-spec sweep 2026-07-19 — Tightened Layer (getlayer.com, YC W23) Seed row to two rows: "Pre-Seed (led, USD 2.3M; executive angels from Square, Plaid, Unit, Check participated) | 2024-05-15" + "Seed (participated as existing; Emergence Capital led, USD 6.6M) | 2025-07-09" via 3 primary sources: Layer own blog, wire release, and The Paypers (2024-05-17). Founders Justin Meretab (ex-Square Banking) and Daniel O''Neel (ex-Wealthfront). No Layer startup profile exists.'
 - profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   company: Monk
@@ -166617,7 +166621,9 @@ vague_facts:
   line: '| Pacific Fusion | Series A | 2024 | Fusion Energy | Active [^16] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: 'Fact-spec sweep 2026-07-19 — Tightened Pacific Fusion Series A row to "Series A (participated as existing investor; General Catalyst led [Hemant Taneja]; USD 900M milestone-based tranches; syndicate: Andrew Forrest, Elad Gil, Eric Schmidt, John Doerr, Ken Griffin, Lachy Groom, Leitmotif, Lightspeed, Lowercarbon, Mustafa Suleyman, Patrick Collison, Reid Hoffman, Richard Merkin, Trousdale Ventures) | 2024-10-25" via 4 primary sources: Bloomberg, The Fusion Report [^16], General Catalyst blog "Our Investment in Pacific Fusion" (2024-10-25), Neutron Bytes (2024-10-27). No Pacific Fusion startup profile exists.'
 - profile: firms/breakthrough-energy-ventures
   profile_name: Breakthrough Energy Ventures
   company: VEIR
