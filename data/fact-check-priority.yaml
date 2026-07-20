@@ -3,10 +3,16 @@ priority:
   type: firm
   reason: "appeared in Databricks strategic round ($3B at $188B, 2026-07-16)"
   added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-20
+  note: "Added Databricks (follow-on) 2026-07-16 strategic round row to coatue-management.md portfolio table. Verified via 3 independent primary sources: (1) Databricks own press release (2026-07-16) confirming Coatue as lead of strategic round at $188B post-money with term sheet signed; (2) TechCrunch 2026-07-17 confirming ~$3B raise at $188B, up from $134B in Feb 2026; (3) SiliconANGLE 2026-07-17 third primary confirmation. Coatue was existing investor since Series E 2019. Round has NOT closed yet (term sheet only). 3 new footnotes added ([^67]-[^69])."
 - slug: owl-ventures
   type: firm
   reason: "participated in DeweyLearn Series A ($5M, 2026-07-16)"
   added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-20
+  note: "Added DeweyLearn Series A 2026-07-16 row to owl-ventures.md portfolio table. Verified via 3 independent primary sources: (1) PR Newswire company press release (2026-07-16) confirming $5M oversubscribed Series A led by SJF Ventures with Catalysis Capital, Morningside, and Owl Ventures participating; (2) Yahoo Finance/Business Wire 2026-07-16 independent confirmation; (3) Pulse 2.0 2026-07-16 third primary confirmation. Startup profile deweylearn.md already has full funding history row. 3 new footnotes added ([^36]-[^38])."
 - slug: 1517-fund
   type: firm
   reason: 'Fact-spec sweep 2026-07-19 (fourth pass): tightened 3 more vague portfolio rows on 1517-fund.md via 3+ primary sources each. (1) MARATHON FUSION: "Seed (co-lead) | 2024-07-18" → "Seed (co-led with Anglo American, USD 5.9M; Übermorgen Ventures + Shared Future Fund + Malcolm Handley participated; DOE ARPA-E CREATE award brings total funding to USD 6.9M) | 2024-07-18" via existing PR Newswire [^22] + NEW FinSMEs [^71] + NEW VCNewsDaily [^72]. (2) SOLIDEON: CORRECTED "Seed | 2024-10-28" to "Pre-Seed (oversubscribed beyond USD 5M initial target; 8090 Industries + 1517 Fund + Stellar Ventures + Boost VC + 10X Founders + Pathbreaker Ventures + AIN Ventures + Tiny VC + MD One Ventures + Reinforced Ventures + Techstars Space + Capital Factory + Vibe Capital + Gaingels participated) | 2024-07-17" via 3 NEW primary sources: Yahoo/AccessNewswire [^73] + AccessNewswire canonical [^74] + 3D Adept Media [^75]. Both round type AND date were wrong; prior TechCrunch 2024-10-28 [^39] was a company profile piece, not a round announcement. (3) CERAGEN: "Seed | 2024-07-16" → "Seed (co-led with Divergent Capital; USD 2.7M CAD / USD 2M USD; Ajira Ventures participated; brings total to USD 4.8M CAD / USD 3.5M USD including prior Velocity Fund + Ontario Centre of Innovation; 1517 named as existing investor) | 2024-07-16" via existing Crunchbase [^40] + NEW BetaKit [^76] + NEW iGrow News [^77]. 7 new footnotes added ([^71]-[^77]).'

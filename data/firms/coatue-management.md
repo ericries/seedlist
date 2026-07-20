@@ -55,7 +55,7 @@ team:
     role: "President & Head of Strategy"
     name: "Nathan Urquhart"
 status: published
-last_researched: 2026-05-04
+last_researched: 2026-07-20
 ---
 
 ## About
@@ -154,6 +154,7 @@ The following table includes Coatue investments verified through the firm's port
 | Instacart | Series E (Led) | 2018 | Marketplace / Delivery | Public (IPO 2023) [^21] |
 | Airtable | Series C | 2018 | Enterprise SaaS / No-Code | Private [^26] |
 | Databricks | Series E | 2019 | Data & AI | Private [^27] |
+| Databricks (follow-on) | Strategic (Led, ~$3B at $188B post; term sheet signed, expected close summer 2026; Coatue was existing investor since Series E 2019) | 2026-07-16 | Data & AI | Private [^67][^68][^69] |
 | Chime | Series F | 2020 | Fintech / Neobank | Private [^28] |
 | SpaceX | Series J | 2021 | Aerospace | Private [^29] |
 | Anaplan | Series E | 2016 | Enterprise SaaS / Planning | Acquired by Thoma Bravo (2022) [^12][^41] |
@@ -191,7 +192,7 @@ The following table includes Coatue investments verified through the firm's port
 | Supabase | Series F (participated, $500M at $10.5B val; GIC led) | 2026-06-04 | AI Infrastructure / Database | Private [^58][^59][^60] |
 | Cadence | Series C (participated, $100M; Spark Capital led) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | Private [^64][^65][^66] |
 
-*Note: This table includes 36 companies out of 367 total private portfolio companies (~10%). Investment years marked with "~" are approximate based on available press coverage and funding round dates. Many investments span multiple rounds; the stage listed reflects Coatue's initial or most publicly documented investment.*
+*Note: This table includes 37 companies out of 367 total private portfolio companies (~10%). Investment years marked with "~" are approximate based on available press coverage and funding round dates. Many investments span multiple rounds; the stage listed reflects Coatue's initial or most publicly documented investment.*
 
 ## In Their Own Words
 
@@ -362,3 +363,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^65]: Cadence website, AI-powered Proactive Care Engine post linking to the Series C announcement, accessed June 2026. https://www.cadence.care/post/cadence-launches-ai-powered-proactive-care-engine-bringing-advanced-primary-care-management-to-medicare-patients-nationwide — Cross-reference to the June 23, 2026 Spark-led Series C announcement listing Coatue as a participant.
 
 [^66]: Business Wire newsroom listing for funding announcements (Cadence Series C announcement dated June 23, 2026), accessed June 2026. https://www.businesswire.com/newsroom/subject/funding — Independent press wire confirmation of June 23, 2026 Cadence Series C with Coatue named among participating investors.
+
+[^67]: Databricks press release, "Databricks is Raising a Strategic Round of Funding at a $188 Billion Valuation," July 16, 2026, accessed July 20, 2026. https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation — Company's own announcement of a strategic round at $188B post-money valuation led by Coatue as existing investor. Databricks confirms it "has signed a term sheet for this round, which it expects to close later this summer." Amount not officially disclosed by the company; capital to accelerate AI strategy including Unity AI Gateway, Genie, and Lakebase, plus future AI acquisitions and research. Includes CEO Ali Ghodsi quote on "tokenmaxxing to valuemaxxing."
+
+[^68]: TechCrunch (Marina Temkin), "Databricks hits $188B valuation, extending its run as AI's favorite second act," July 17, 2026, accessed July 20, 2026. https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/ — Contemporaneous tier-1 press confirming ~$3B strategic round at $188B valuation led by Coatue, up from $134B in February 2026. Confirms the round has not closed ("the money isn't in its hands yet") and is expected to close later summer 2026.
+
+[^69]: SiliconANGLE, "Databricks raising new funding at $188B valuation," July 17, 2026, accessed July 20, 2026. https://siliconangle.com/2026/07/17/databricks-raising-new-funding-188b-valuation/ — Third independent primary confirmation of ~$3B strategic round at $188B post-money valuation led by Coatue with term sheet signed and close expected later in 2026.

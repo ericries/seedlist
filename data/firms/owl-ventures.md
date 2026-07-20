@@ -37,7 +37,7 @@ team:
     role: "Operating Partner & Head of Outcomes"
     name: "Malvika Bhagwat"
 status: published
-last_researched: 2026-03-23
+last_researched: 2026-07-20
 ---
 
 ## About
@@ -114,8 +114,9 @@ Based on 30 verified investments from the portfolio table below:
 | Classplus | Growth | ~2021 | PreK-12 / Educator Platform | Active [^1] |
 | Coala | Growth | ~2021 | PreK-12 / School Telehealth | Active [^1] |
 | Hoytrabajas | Growth | ~2021 | Workforce / Talent Platform | Active [^1] |
+| DeweyLearn | Series A (participated; $5M oversubscribed; SJF Ventures led; Catalysis Capital + Morningside also participated) | 2026-07-16 | EdTech+ / Multimodal AI / Skills Assessment | Active [^36][^37][^38] |
 
-This table represents approximately 30 of 100+ known portfolio companies (~30%). The firm's portfolio page lists additional companies across all stages; many lack independently verifiable investment dates. Crunchbase reports 154 total investments as of late 2025 [^34].
+This table represents approximately 31 of 100+ known portfolio companies (~31%). The firm's portfolio page lists additional companies across all stages; many lack independently verifiable investment dates. Crunchbase reports 154 total investments as of late 2025 [^34].
 
 ## In Their Own Words
 
@@ -200,3 +201,6 @@ This table represents approximately 30 of 100+ known portfolio companies (~30%).
 [^33]: YourStory, "Tetr College raises $18M co-led by Owl Ventures and Bertelsmann India Investments," November 2025. https://yourstory.com/2025/11/tetr-college-raises-18-m-co-led-by-owl-ventures-and-bertelsmann-india-investments
 [^34]: Tracxn, "Owl Ventures — 2026 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/owl-ventures/__eqF_3slJKLDjbzzSQxxKMxxzOiObMW3KzR0yPVCqAA0
 [^35]: PR Newswire, "Former Dreambox CEO Jessie Woolley-Wilson Joins Owl Ventures as Operating Partner," April 2024. https://www.prnewswire.com/news-releases/former-dreambox-ceo-jessie-woolley-wilson-joins-owl-ventures-as-operating-partner-302112233.html
+[^36]: PR Newswire, "DeweyLearn Secures $5 Million in Series A Funding to Scale AI That Assesses Real-World Skill at Expert Level," July 16, 2026, accessed July 20, 2026. https://www.prnewswire.com/news-releases/deweylearn-secures-5-million-in-series-a-funding-to-scale-ai-that-assesses-real-world-skill-at-expert-level-302827161.html — DeweyLearn's own announcement (via PR Newswire) of the $5M oversubscribed Series A led by SJF Ventures with participation from Catalysis Capital, Morningside, and Owl Ventures, among others. Names Luyen Chou (CEO) and Dirk Liebich (CTO) as co-founders.
+[^37]: Yahoo Finance / Business Wire, "DeweyLearn Secures $5 Million in Series A Funding to Scale AI That Assesses Real-World Skill at Expert Level," July 16, 2026, accessed July 20, 2026. https://finance.yahoo.com/technology/ai/articles/deweylearn-secures-5-million-series-130000894.html — Independent primary confirmation of the July 16, 2026 announcement with Owl Ventures named among the participating investors alongside SJF Ventures (lead), Catalysis Capital, and Morningside.
+[^38]: Pulse 2.0, "DeweyLearn Raises $5 Million Series A To Scale AI-Powered Skills Assessment," July 16, 2026, accessed July 20, 2026. https://pulse2.com/deweylearn-raises-5-million-series-a-to-scale-ai-powered-skills-assessment/ — Third independent primary source confirming the July 16, 2026 date, $5M amount (oversubscribed), SJF Ventures as lead, and Owl Ventures among the participating investors alongside Catalysis Capital and Morningside.
