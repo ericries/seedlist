@@ -20,6 +20,9 @@ firms:
 - round: Series B
   slug: quantumlight
   year: 2024
+- round: Angel — Seed ($20M led by Lux Capital; Dawn Song explicitly named)
+  slug: independent
+  year: 2023
 founded: 2022
 founders:
 - name: Vipul Ved Prakash
@@ -50,6 +53,9 @@ investors:
 - round: Series B
   slug: tommaso-conca
   year: 2024
+- round: Angel — Seed ($20M led by Lux Capital; Dawn Song explicitly named)
+  slug: dawn-song
+  year: 2023
 last_researched: 2026-07-01
 location: San Francisco, CA
 name: Together AI

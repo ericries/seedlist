@@ -1,8 +1,16 @@
 ---
-firms: []
+firms:
+- round: Angel & founding advisor — Seed ($40M co-led by Cambium Capital and Walden
+    Catalyst; Dawn Song named as founding advisor in press release)
+  slug: independent
+  year: 2026
 founded: 2025
 investors:
 - slug: lip-bu-tan
+- round: Angel & founding advisor — Seed ($40M co-led by Cambium Capital and Walden
+    Catalyst; Dawn Song named as founding advisor in press release)
+  slug: dawn-song
+  year: 2026
 last_researched: 2026-04-21
 location: United States
 name: NeoCognition

@@ -1,36 +1,42 @@
 ---
-name: "Probook"
-slug: probook
-type: startup
-website: "https://probook.ai"
-location: "New York, New York"
-status_company: active
-sector: [ai, vertical-saas, home-services]
-stage_latest: "Series A"
-total_raised: "$40M"
-investors: []
 firms:
-  - slug: sequoia-capital
-    round: seed
-    year: 2026
-    date: 2026-06-23
-  - slug: andreessen-horowitz
-    round: series-a
-    year: 2026
-    date: 2026-06-23
-  - slug: sequoia-capital
-    round: series-a
-    year: 2026
-    date: 2026-06-23
+- date: 2026-06-23
+  round: seed
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-06-23
+  round: series-a
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-06-23
+  round: series-a
+  slug: sequoia-capital
+  year: 2026
 founders:
-  - name: "George Eliadis"
-    role: "Co-Founder & CEO"
-  - name: "Ben Cervantez"
-    role: "Co-Founder"
-  - name: "Lewis Zhang"
-    role: "Co-Founder & CTO"
-status: published
+- name: George Eliadis
+  role: Co-Founder & CEO
+- name: Ben Cervantez
+  role: Co-Founder
+- name: Lewis Zhang
+  role: Co-Founder & CTO
+investors:
+- round: Series A ($34M, a16z-led)
+  slug: seema-amble
+  year: 2026
 last_researched: 2026-06-23
+location: New York, New York
+name: Probook
+sector:
+- ai
+- vertical-saas
+- home-services
+slug: probook
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $40M
+type: startup
+website: https://probook.ai
 ---
 
 ## About

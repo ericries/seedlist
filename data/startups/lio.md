@@ -19,6 +19,9 @@ founders:
   role: Co-Founder
 investors:
 - slug: harry-stebbings
+- round: Series A ($30M, a16z-led)
+  slug: seema-amble
+  year: 2026
 last_researched: 2026-03-24
 location: Germany
 name: Lio

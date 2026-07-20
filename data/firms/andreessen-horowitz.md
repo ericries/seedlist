@@ -99,6 +99,9 @@ team:
 - name: Justine Moore
   role: Partner
   slug: justine-moore
+- name: Seema Amble
+  role: Partner
+  slug: seema-amble
 tldr: Global venture firm ($90B+ AUM) co-founded in 2009 by Marc Andreessen and Ben
   Horowitz. Invests across AI, enterprise, consumer, crypto ($7B dedicated fund),
   bio/health, games, and American Dynamism via specialized sector funds. Portfolio

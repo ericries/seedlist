@@ -1,32 +1,35 @@
 ---
-name: Tessera Labs
-slug: tessera-labs
-type: startup
-website: https://tessera.ai/
-location: San Jose, CA
+firms:
+- date: 2026-05-06
+  round: series-a
+  slug: andreessen-horowitz
+  year: 2026
 founded: 2025
-status_company: active
+founders:
+- name: Kabir Nagrecha
+  role: Co-Founder & CEO
+- name: Ming Chang
+  role: Co-Founder & COO
+investors:
+- round: Series A (a16z-led)
+  slug: seema-amble
+  year: 2026
+last_researched: 2026-05-10
+location: San Jose, CA
+name: Tessera Labs
 sector:
 - ai
 - ai-agents
 - enterprise-software
 - erp
 - vertical-saas
+slug: tessera-labs
 stage_latest: Series A
-total_raised: $60M
-investors: []
-firms:
-- slug: andreessen-horowitz
-  round: series-a
-  year: 2026
-  date: 2026-05-06
-founders:
-- name: Kabir Nagrecha
-  role: Co-Founder & CEO
-- name: Ming Chang
-  role: Co-Founder & COO
-last_researched: 2026-05-10
 status: published
+status_company: active
+total_raised: $60M
+type: startup
+website: https://tessera.ai/
 ---
 
 ## About

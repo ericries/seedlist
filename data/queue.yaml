@@ -25360,7 +25360,7 @@ queue:
 - name: Dawn Song
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: UC Berkeley
   discovered_from: carlos-guestrin
@@ -39022,7 +39022,7 @@ queue:
 - name: Seema Amble
   type: individual
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Andreessen Horowitz
   discovered_from: olivia-moore
@@ -39311,3 +39311,133 @@ queue:
   added: '2026-03-17'
   firm: Speakeasy
   discovered_from: speakeasy-irl
+- name: Oasis Labs
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dawn-song
+  source: Dawn Song's company; $45M raise led by a16z crypto July 9, 2018
+- name: alphaXiv
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dawn-song
+  source: AI research platform; $7M seed Nov 19 2025 led by Menlo Ventures and Haystack;
+    Dawn Song angel
+- name: Joe Schmidt
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: seema-amble
+  source: co-author with Amble on Stoik, Stuut, Payall, Tessera Labs a16z investment
+    announcements
+- name: Peter Levine
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: seema-amble
+  source: co-led Moov Series A with Amble
+- name: Marc Andrusko
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: seema-amble
+  source: co-author with Amble on Rillet and generative AI accounting writing
+- name: Eric Zhou
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: seema-amble
+  source: co-lead with Amble on Tessera Labs and Toma
+- name: Brian Roberts
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: seema-amble
+  source: co-author with Amble on Stuut Series A announcement
+- name: Kimberly Tan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: seema-amble
+  source: co-author with Amble on fintech-in-SaaS thesis writing
+- name: Moov
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: seema-amble
+  source: Amble co-led $27M Series A Dec 2020; payments infrastructure (Iowa)
+- name: Stoik
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: seema-amble
+  source: Amble-led a16z Series A June 2022 (€11M); French cyber insurtech (multiple
+    follow-on rounds through Series C 2026)
+- name: Inventa
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: seema-amble
+  source: Amble-led a16z investment Jan 2022; B2B marketplace in Brazil
+- name: Sequence
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: seema-amble
+  source: Amble-led a16z $19M seed Sept 2022; London-based B2B FinOps
+- name: MVMNT
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: seema-amble
+  source: Amble-led a16z Series A Oct 2022; Chicago freight/logistics
+- name: Payall
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: seema-amble
+  source: Amble co-authored a16z seed announcement Sept 2022; cross-border payments
+    compliance
+- name: Toma
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: seema-amble
+  source: a16z led Series A June 2025 (Amble co-authored); AI for car dealerships
+- name: Stuut
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: seema-amble
+  source: a16z led $29.5M Series A Nov 2025 (Amble on board, direct quote); AI accounts
+    receivable
+- name: Valon
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: seema-amble
+  source: a16z portfolio (Strange lead Feb 2021); mortgage servicing software
