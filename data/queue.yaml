@@ -39441,3 +39441,90 @@ queue:
   added: '2026-03-17'
   discovered_from: seema-amble
   source: a16z portfolio (Strange lead Feb 2021); mortgage servicing software
+- name: Hanaco Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hemispheric
+- name: OneMind / Awareness Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hemispheric
+- name: Protocol Labs
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hemispheric
+- name: Arkin Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hemispheric
+- name: OurCrowd
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hemispheric
+- name: Artofin
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hemispheric
+- name: Naomi Azrieli
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Azrieli Foundation
+  discovered_from: hemispheric
+- name: Yasmin Lukatz
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: ICON Fund
+  discovered_from: hemispheric
+- name: HOOP
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tytocare
+- name: OliveTree
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tytocare
+- name: Qumra Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tytocare
+- name: West Fountain Global Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tytocare
+- name: MTIP Health
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tytocare
+- name: Adam Pellegrini
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: TytoCare
+  discovered_from: tytocare
