@@ -39528,3 +39528,34 @@ queue:
   added: '2026-03-17'
   firm: TytoCare
   discovered_from: tytocare
+- name: Elefund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alpaca
+- name: Opera Tech Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alpaca
+- name: Aakash Kapoor
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Peak XV Partners
+  discovered_from: alpaca
+- name: Yoshi Yokokawa
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alpaca
+- name: Nim Ravid
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sable

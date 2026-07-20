@@ -3,9 +3,9 @@ check_size: $1M-$10M
 firm: sequoia-capital
 last_researched: 2026-03-16
 last_verified_investment:
-  company: Neros
-  date: 2025-11-10
-  round: Series B
+  company: Sable
+  date: 2026-07-16
+  round: Series A
 location: San Francisco, CA
 name: Shaun Maguire
 role: Partner
@@ -141,6 +141,7 @@ Stripe, Opendoor, IonQ, SpinLaunch, Lambda School, Dandelion Energy, Clutter, Mo
 | Mach Industries | ~2024 | Early | Defense Tech / Hardware | [^2] |
 | Harmonic | ~2023 | Early | AI / Israel | [^2] |
 | Irregular | ~2024 | Early | AI / Defense | [^2] |
+| Sable | 2026 | Series A ($45M, Sequoia + 8VC co-led; board seat) | AI / Sales Enablement | [^32] |
 
 ### GV / Google Ventures (2016–2019)
 
@@ -294,3 +295,4 @@ Ali Amin-Javaheri, CEO and Co-Founder of Knowde, on Sequoia partnership at Serie
 [^29]: Neros, "Neros Closes $75M Series B Fundraise led by Sequoia Capital," November 10, 2025. https://www.neros.tech/articles/neros-closes-75m-series-b-fundraise-led-by-sequoia-capital
 [^30]: Sequoia Capital, "Bryan Pellegrino: From Poker to Protocols," accessed March 2026. https://sequoiacap.com/article/bryan-pellegrino-spotlight-layerzero/
 [^31]: Sequoia Capital podcast, "Factory Unleashes the Droids on Software Development," 2024. https://sequoiacap.com/podcast/training-data-factory/
+[^32]: Allie Garfinkle, "Meet the AI employee that convinced Sequoia to invest $45 million in Sable," Fortune, July 16, 2026. https://fortune.com/2026/07/16/ai-employee-that-convinced-sequoia-to-invest-45-million-in-sable-shaun-maguire/

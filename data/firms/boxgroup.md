@@ -107,6 +107,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Sable | Series A (participated, $45M; co-led by Sequoia and 8VC) | 2026-07-16 | AI / Sales Enablement | Active [^sable2026] |
 | Niteshift | Seed (participated, $7M; led by Greylock/Jerry Chen) | 2026-06-10 | AI / Developer Tools / Cloud | Active [^niteshift2026a][^niteshift2026b][^niteshift2026c] |
 | Ramp | Series F (participated, $750M; led by ICONIQ, GIC, Ontario Teachers') | 2026-06-04 | Fintech | Active ($44B valuation) [^ramp2026f] |
 | Adaptive Innovations | Series A (participated, $50M; led by Felicis and Bain Capital Ventures) | 2026-06-02 | Healthcare / AI | Active [^adaptive2026] |
@@ -250,3 +251,5 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^ramp2026f]: PR Newswire, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html — Confirms BoxGroup participated as a returning investor in Ramp's $750M Series F on June 4, 2026 at $44B valuation; round led by ICONIQ, GIC, and Ontario Teachers' Pension Plan. Cross-referenced with TechCrunch, "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story," June 4, 2026. https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/
 
 [^25]: "Announcing our $22M Series B," Opal Security blog (Umaimah Khan), December 7, 2023. https://www.opal.dev/blog/series-b — Confirms BoxGroup participated as existing investor in $22M Series B led by Battery Ventures with Greylock and BoxGroup. Cross-referenced with FinancialContent (Business Wire), "Opal Security Raises $23M..." June 4, 2026, which confirms BoxGroup was a prior investor but did NOT participate in the June 2026 $23M extension. https://www.financialcontent.com/article/bizwire-2026-6-4-opal-security-raises-23m-and-expands-leadership-team-to-unify-identity-governance-across-human-non-human-and-agentic-ai — Accessed June 2026.
+
+[^sable2026]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," ACCESS Newswire (via Globe and Mail), July 16, 2026. Accessed July 20, 2026. https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/3321857/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain/ — Confirms BoxGroup participated in Sable's $45M Series A, co-led by Sequoia Capital and 8VC, alongside SV Angel, Valor Atreides AI Fund, and Sabrina and Evan Hahn.

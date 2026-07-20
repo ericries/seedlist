@@ -2997,3 +2997,27 @@ priority:
   type: firm
   reason: Prior Labs (pre-seed lead 2025-02-05, €9M) exited to SAP on 2026-07-17 with EUR 1B four-year SAP commitment — reflect exit in portfolio
   added: 2026-07-19
+- slug: shaun-maguire
+  type: investor
+  reason: "appeared in Sable Series A (2026-07-16), $45M co-led with 8VC; joining board"
+  added: 2026-07-20
+- slug: joe-lonsdale
+  type: investor
+  reason: "appeared in Sable Series A (2026-07-16), $45M co-led with Sequoia; joining board"
+  added: 2026-07-20
+- slug: sequoia-capital
+  type: firm
+  reason: "co-led Sable Series A (2026-07-16), $45M with 8VC"
+  added: 2026-07-20
+- slug: 8vc
+  type: firm
+  reason: "co-led Sable Series A (2026-07-16), $45M with Sequoia Capital"
+  added: 2026-07-20
+- slug: boxgroup
+  type: firm
+  reason: "participated in Sable Series A (2026-07-16), $45M"
+  added: 2026-07-20
+- slug: sv-angel
+  type: firm
+  reason: "participated in Sable Series A (2026-07-16), $45M"
+  added: 2026-07-20
