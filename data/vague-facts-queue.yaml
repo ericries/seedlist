@@ -161189,7 +161189,9 @@ vague_facts:
   line: '| Seed | Sep 2012 | $600K | N/A | Y Combinator ($150K) | FundersClub ($269K from 61 members), IDG Ventures, SV Angel, Ad'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec 2026-07-20: tightened Coinbase Seed row valuation from bare "N/A" to "Not publicly disclosed (round predated the SAFE instrument, which Y Combinator introduced in late 2013; no valuation cap or post-money is stated in contemporaneous primary sources)" via three independent primary sources — (1) Brian Armstrong own pitch-deck retrospective on Medium [^5] (existing) — quotes his August 2012 investor email ("$320k committed already and will close it at $1M for this round") and names Adam Draper but discloses neither valuation cap nor security type; (2) Kingscrowd retrospective on the FundersClub crowdfunding piece [^2] (existing) — confirms the ~$600K composite (61 FundersClub members contributed $268,700 over a $250K target, plus ~$350K offline) but discloses no valuation cap or security type; (3) Bitcoin Magazine May 2013 [^19] (NEW) — contemporaneous industry press confirming the "September 2012 seed fund of $600,000" but not disclosing cap or structure. The SAFE instrument was created by YC''s Carolynn Levy in late 2013, so this September 2012 seed pre-dates modern seed-round instruments and would have used a convertible note if convertible-based. 1 new footnote added ([^19]).'
 - profile: startups/coinbase
   profile_name: Coinbase
   company: Series B
@@ -163364,7 +163366,9 @@ vague_facts:
   line: '| Series D (Microsoft) | Jul 2019 | $1B | N/A | Microsoft | N/A [^3] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec 2026-07-20: tightened OpenAI "Series D (Microsoft)" row valuation from bare "N/A" to "Not publicly disclosed (announced as an exclusive computing partnership + capital commitment into OpenAI LP; not a conventional priced equity round; contemporaneous press did not state a valuation)" via three independent primary sources — (1) TechCrunch 2019-07-22 [^17] (NEW) — confirms $1B is "a total amount that can be delivered anytime over the next decade, in installments," per OpenAI CTO Greg Brockman "a cash investment into OpenAI LP" using "a standard capital commitment structure, to be called as we need it"; no valuation stated; (2) Microsoft official press release news.microsoft.com 2019-07-22 [^18] (NEW) — mentions only "an investment of $1 billion from Microsoft"; no valuation, no equity percentage disclosed; (3) Fortune 2019-07-22 [^19] (NEW) — confirms investment went "to the for-profit arm, OpenAI LP, but the partnership is between Microsoft and the whole entity"; no valuation stated. Also relabeled row from bare "Series D (Microsoft)" to "Microsoft Strategic Partnership (labeled Series D by aggregators)" and expanded amount cell to note the multi-year installment structure and Azure credits component. 3 new footnotes added ([^17], [^18], [^19]).'
 - profile: startups/openai
   profile_name: OpenAI
   company: Microsoft Investment
@@ -164932,7 +164936,9 @@ vague_facts:
   line: '| 2025-08-08 | Strategic Investment | Undisclosed | In-Q-Tel | [^14] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: unresolvable
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec 2026-07-20: Starcloud/In-Q-Tel amount is genuinely undisclosed. Verified via three independent primary sources — (1) Data Center Dynamics [^14] (existing) — states amount not disclosed; (2) DC Pulse Aug 2025 [^17] (NEW) — verbatim: "Although neither Starcloud nor IN-Q-Tel has disclosed the size or terms of the investment, the addition of Starcloud to IN-Q-Tel''s official portfolio confirms the deal"; (3) Wikipedia Starcloud entry [^18] (NEW) — cross-referenced: names In-Q-Tel among investors but does not state amount or date. Starcloud CEO Philip Johnston''s original LinkedIn announcement (source for the 2025-08-08 date via DCD) did NOT state the amount. In-Q-Tel by policy does not always disclose investment sizes. Row text expanded to make the disclosure gap explicit; 2 new footnotes added ([^17], [^18]). Marked unresolvable because the amount cannot be tightened further without a primary disclosure that does not exist as of July 2026.'
 - profile: startups/starfish-space
   profile_name: Starfish Space
   company: 2024-11

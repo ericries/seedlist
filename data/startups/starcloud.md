@@ -94,8 +94,8 @@ On March 30, 2026, the company announced a $170M Series A at a $1.1B valuation, 
 |------|-------|--------|------|--------------|
 | 2024-03-11 | Pre-Seed | $2.4M | Nebular | Caffeinated Capital, Plug & Play, Everywhere Ventures, Tiny.vc, Sterling Road, Pareto Holdings, Foreword Ventures, Sequoia Scout Fund [^8][^11][^12] |
 | 2024-12 | Seed | $11M | NFX | Y Combinator, FUSE, Soma Capital, Andreessen Horowitz (scout), Sequoia Capital (scout) [^8] |
-| 2025-02-26 | Seed Extension (SAFE) | $10M | No lead — SAFE round; new investors not publicly named until Series A per CEO Philip Johnston | Previous seed investors (NFX, Y Combinator, FUSE, Soma Capital, Andreessen Horowitz scout, Sequoia scout); Nvidia partnership announced concurrently [^8][^9][^13][^15][^16] |
-| 2025-08-08 | Strategic Investment | Undisclosed | In-Q-Tel | [^14] |
+| 2025-02-26 | Seed Extension (SAFE) | $10M | No lead — SAFE round; new investors not publicly named until Series A per CEO Philip Johnston | Previous seed investors (NFX, Y Combinator, FUSE, Soma Capital, Andreessen Horowitz scout, Sequoia scout); Nvidia partnership announced concurrently [^8][^9][^13][^15] |
+| 2025-08-08 | Strategic Investment | Not disclosed (Starcloud CEO Philip Johnston announced the deal on LinkedIn without stating the amount; neither Starcloud nor In-Q-Tel has publicly disclosed the size or terms of the investment) | In-Q-Tel | — [^14] [^16] [^17] |
 | 2026-03-30 | Series A | $170M | Benchmark, EQT Ventures | Macquarie Capital, NFX, Nebular, Y Combinator, Adjacent, 776 Ventures, Fuse Ventures, Manhattan West, Monolith Power Systems [^2][^7] |
 
 Total raised: $200M [^2][^5]. Valuation: $1.1B (post-money, as of Series A) [^2][^5].
@@ -138,5 +138,8 @@ Philip Johnston on commercial plans: "The main customer contracts that are commi
 [^12]: Cosmic Log, "Lumen Orbit raises $2.4M to put data centers in space," Alan Boyle, March 11, 2024. https://cosmiclog.com/2024/03/11/lumen-orbit-raises-2-4m-to-put-data-centers-in-space/
 [^13]: Crunchbase, "Seed Round - Starcloud - 2025-02-26," accessed April 2026. https://www.crunchbase.com/funding_round/lumen-orbit-seed--d501ee39
 [^14]: Data Center Dynamics, "In-Q-Tel invests in data center in space firm Starcloud," August 2025 (CEO Philip Johnston announced the strategic investment via LinkedIn on August 8, 2025; amount not disclosed). https://www.datacenterdynamics.com/en/news/in-q-tel-invests-in-data-center-in-space-firm-starcloud/
-[^15]: GeekWire, "Lumen Orbit changes its name to Starcloud and raises $10M for space data centers," February 26, 2025 (confirms $10M SAFE, previous seed investors + new firms undisclosed until Series A). Accessed July 2026. https://www.geekwire.com/2025/lumen-orbit-starcloud-10m-space-data-centers/
-[^16]: Data Center Dynamics, "Lumen Orbit rebrands to Starcloud, raises another $10m for in-orbit data centers," February 26, 2025. Accessed July 2026. https://www.datacenterdynamics.com/en/news/lumen-orbit-rebrands-to-starcloud-raises-another-10m-for-in-orbit-data-centers/
+[^15]: Data Center Dynamics, "Lumen Orbit rebrands to Starcloud, raises another $10m for in-orbit data centers," February 26, 2025. Accessed July 2026. https://www.datacenterdynamics.com/en/news/lumen-orbit-rebrands-to-starcloud-raises-another-10m-for-in-orbit-data-centers/
+
+[^16]: DC Pulse, "IN-Q-Tel Invests in Starcloud's Orbital Cloud: From Earth to Space Data Centers," August 2025, accessed July 2026. https://dcpulse.com/news/from-earth-to-orbit-inqtel-invests-in-starcloud-space-data-centers — Independent industry press. States verbatim: "Although neither Starcloud nor IN-Q-Tel has disclosed the size or terms of the investment, the addition of Starcloud to IN-Q-Tel's official portfolio confirms the deal." The Starcloud entry now appears on IQT's investments page but the check size is not published.
+
+[^17]: Starcloud, Wikipedia article on "Starcloud," accessed July 2026. https://en.wikipedia.org/wiki/Starcloud — Cross-referenced encyclopedia entry: names In-Q-Tel among Starcloud's investors alongside Y Combinator, NFX, and scout funds of Sequoia and A16z. Amount and date of the In-Q-Tel check are not stated.

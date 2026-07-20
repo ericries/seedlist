@@ -194,7 +194,7 @@ Coinbase was founded in June 2012 by Brian Armstrong and Fred Ehrsam in San Fran
 
 | Round | Date | Amount | Valuation | Lead Investor | Key Co-Investors |
 |-------|------|--------|-----------|---------------|------------------|
-| Seed | Sep 2012 | $600K | N/A | Y Combinator ($150K) | FundersClub ($269K from 61 members), IDG Ventures, SV Angel, Adam Draper [^2] [^5] |
+| Seed | Sep 2012 | $600K | Not publicly disclosed (round predated the SAFE instrument, which Y Combinator introduced in late 2013; no valuation cap or post-money is stated in contemporaneous primary sources) | Y Combinator ($150K) | FundersClub ($269K from 61 members), IDG Ventures, SV Angel, Adam Draper [^2] [^5] [^19] |
 | Series A | 2013-05-08 | $5M | ~$20M | Union Square Ventures (Fred Wilson) | Ribbit Capital, SV Angel, FundersClub [^6][^13][^14] |
 | Series B | 2013-12-12 | $25M | Not publicly disclosed (secondary sources cite ~$143M post-money) | Andreessen Horowitz (Chris Dixon, board) | Union Square Ventures (Fred Wilson, board), Ribbit Capital [^7][^15][^16][^17][^18] |
 | Series C | Jan 2015 | $75M | ~$500M | DFJ Growth | Andreessen Horowitz, Union Square Ventures, Ribbit Capital, NYSE, USAA, BBVA, DoCoMo Capital [^8] |
@@ -245,3 +245,6 @@ Armstrong has spoken about recognizing early on that someone needed to build a c
 [^17]: CoinDesk, "Coinbase Raises $25 Million in Bitcoin's Biggest Ever Funding Deal," December 12, 2013, accessed July 2026. https://www.coindesk.com/markets/2013/12/12/coinbase-raises-25-million-in-bitcoins-biggest-ever-funding-deal — Contemporaneous industry press confirming $25M raise led by Andreessen Horowitz on December 12, 2013. Total raised to date: $31.9M. Co-founder Fred Ehrsam quote: "The team at Andreessen is very far up on the curve on their thinking on bitcoin, especially as a way to bring simple economics in to the web." No post-money valuation disclosed.
 
 [^18]: Jason Del Rey, AllThingsD, "Bitcoin's Biggest Bet: Andreessen Horowitz Leads $25 Million Investment in Coinbase," December 12, 2013, accessed July 2026. https://allthingsd.com/20131212/bitcoins-biggest-bet-andreessen-horowitz-leads-25-million-investment-in-coinbase/ — Contemporaneous tech press confirming Andreessen Horowitz-led $25M Series B with Union Square Ventures and Ribbit Capital participating, and Chris Dixon (a16z) plus Fred Wilson (USV) taking board seats. Coinbase had 8 employees at announcement. No post-money valuation disclosed.
+
+[^19]: Bitcoin Magazine, "Bitcoin Magazine Congratulates Coinbase On A Series A Round Of Funding," May 2013, accessed July 2026. https://bitcoinmagazine.com/markets/bitcoin-magazine-congratulates-coinbase-series-round-funding — Contemporaneous industry press confirming "a September 2012 seed fund of $600,000 which provided the company tools to move forward" but not disclosing any valuation cap or security structure for the seed round.
+
