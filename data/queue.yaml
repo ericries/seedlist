@@ -39753,3 +39753,47 @@ queue:
   firm: SambaNova Systems
   discovered_from: chris-re
   source: SambaNova co-founder; Stanford EE professor; Cadence Design Professor
+- name: Principal VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: infinity-inc
+  source: Participated in Infinity $15M seed on 2026-07-20
+- name: Jeremy Nixon
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Infinity
+  discovered_from: infinity-inc
+  source: Founder of Infinity (AI infrastructure); creator of AGI House community;
+    former Google Brain researcher
+- name: Sixty Degree Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: empirical-security
+  source: Participated in Empirical Security $12M seed (2025-07)
+- name: Hyde Park Angels
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: empirical-security
+  source: Participated in Empirical Security $12M seed (2025-07)
+- name: Space Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: empirical-security
+  source: Participated in Empirical Security $12M seed (2025-07)
+- name: D-Matrix
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: infinity-inc
+  source: Customer of Infinity (Nvidia-alternative AI chip maker)
