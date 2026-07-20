@@ -39559,3 +39559,25 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: sable
+- name: SJF Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deweylearn
+  source: led DeweyLearn $5M Series A on 2026-07-16
+- name: Catalysis Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deweylearn
+  source: participated in DeweyLearn $5M Series A on 2026-07-16
+- name: Arrun Kapoor
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SJF Ventures
+  discovered_from: deweylearn
+  source: Managing Director at SJF Ventures, led DeweyLearn Series A on 2026-07-16

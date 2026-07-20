@@ -47,6 +47,10 @@ firms:
   year: 2024
 - slug: insight-partners
 - slug: nea
+- date: 2026-07-16
+  round: Strategic
+  slug: coatue-management
+  year: 2026
 founded: 2013
 founders:
 - name: Ali Ghodsi
@@ -109,7 +113,7 @@ investors:
 - round: Late-stage
   slug: will-griffith
   year: 2024
-last_researched: 2026-03-13
+last_researched: 2026-07-20
 location: San Francisco, CA
 name: Databricks
 sector:
@@ -118,10 +122,10 @@ sector:
 - cloud-infrastructure
 - big-data
 slug: databricks
-stage_latest: Series L
+stage_latest: Strategic
 status: published
 status_company: active
-total_raised: $20.2B
+total_raised: $23B+
 type: startup
 website: https://www.databricks.com
 ---
@@ -146,6 +150,7 @@ Databricks was founded in 2013 by seven UC Berkeley researchers: Ali Ghodsi, Ion
 | Series J | 2024-12-17 | $10B | $62B | Thrive Capital | Andreessen Horowitz, DST Global, GIC, Insight Partners, WCM Investment Management, Ontario Teachers' Pension Plan, ICONIQ Growth, MGX, Sands Capital, Wellington Management [^15][^19][^20] |
 | Series K | 2025-09-08 | $1B | $100B+ | Andreessen Horowitz, Insight Partners, MGX, Thrive Capital, WCM Investment Management (co-leads) | Existing strategic investors [^16][^27][^28] |
 | Series L | Dec 2025 | $4B+ | $134B | Insight Partners, Fidelity, J.P. Morgan Asset Management | Andreessen Horowitz, BlackRock, Blackstone, Coatue, GIC, MGX, NEA, Ontario Teachers' Pension Plan, Robinhood Ventures, T. Rowe Price, Temasek, Thrive Capital [^17] |
+| Strategic | 2026-07-16 | ~$3B (term sheet signed, expected close summer 2026) | $188B | Coatue Management | Additional new and existing investors (not disclosed) [^33][^34][^35] |
 
 ## What Investors Say
 
@@ -161,6 +166,9 @@ Ben Horowitz has also spoken about co-founder Matei Zaharia, calling him one of 
 
 > "The same first-principles thinking that created Spark... Don't optimize the existing thing. Go back to fundamentals and build the right system."
 > -- Ali Ghodsi, on Databricks' product philosophy [^2]
+
+> "Enterprises are moving from tokenmaxxing to valuemaxxing. They don't want to burn expensive tokens on the smartest model for every task — they want the best outcome per dollar."
+> -- Ali Ghodsi, co-founder and CEO, in the Databricks press release announcing the July 16, 2026 strategic round at a $188B valuation [^33]
 
 ## Sources
 
@@ -208,3 +216,9 @@ Ben Horowitz has also spoken about co-founder Matei Zaharia, calling him one of 
 [^31]: Forbes (Alex Konrad), "Databricks Raises $140M From Top VCs In Mission To Bring AI To 'The 99%'," August 22, 2017, accessed July 2026. https://www.forbes.com/sites/alexkonrad/2017/08/22/databricks-raises-140m-for-ai/ — Contemporaneous press confirming August 22, 2017 date and $140M raise. Reports Databricks "sought a valuation in the ballpark of $900 million" but "didn't disclose its valuation after the new raise." Contains the Ben Horowitz quote used above in "What Investors Say."
 
 [^32]: SiliconANGLE, "Big data firm Databricks raises massive $140M funding led by Andreessen Horowitz," August 22, 2017, accessed July 2026. https://siliconangle.com/2017/08/22/big-data-firm-databricks-raises-massive-140m-funding-led-andreessen-horowitz/ — Contemporaneous press confirming the August 22, 2017 date, $140M amount, a16z as lead, and named participants NEA, Battery Ventures, Future Fund Investment Co., A.Capital Partners, Geodesic Capital, and Green Bay Ventures. No post-money valuation disclosed.
+
+[^33]: Databricks press release, "Databricks is Raising a Strategic Round of Funding at a $188 Billion Valuation," July 16, 2026, accessed July 20, 2026. https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation — Company's own announcement of a strategic round at $188B valuation led by Coatue, term sheet signed with expected close later in summer 2026. Includes Ali Ghodsi quote on "tokenmaxxing to valuemaxxing."
+
+[^34]: TechCrunch (Marina Temkin), "Databricks hits $188B valuation, extending its run as AI's favorite second act," July 17, 2026, accessed July 20, 2026. https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/ — Contemporaneous press confirming ~$3B strategic round at $188B valuation led by Coatue Management, up from $134B in February 2026.
+
+[^35]: Bloomberg, "Coatue Leads Databricks Funding at $188 Billion Valuation," July 17, 2026, accessed July 20, 2026. https://www.bloomberg.com/news/articles/2026-07-17/coatue-leads-databricks-funding-round-at-188-billion-valuation — Contemporaneous press confirming Coatue as lead and $188B post-money valuation.
