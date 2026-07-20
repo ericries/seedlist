@@ -1,30 +1,39 @@
 ---
-name: "Prior Labs"
-slug: prior-labs
-type: startup
-website: "https://priorlabs.ai"
-location: "Berlin / Freiburg, Germany"
-founded: 2024
-status_company: acquired
-acquired_by: "SAP"
-sector: [ai, foundation-models, enterprise-ai, machine-learning, tabular-ai, deep-tech]
-stage_latest: "Acquired"
-total_raised: "EUR 9M (pre-seed, prior to SAP acquisition)"
+acquired_by: SAP
 firms:
-  - slug: balderton-capital
-    round: pre-seed
-    year: 2025
-    date: 2025-02-05
-investors: []
+- date: 2025-02-05
+  round: pre-seed
+  slug: balderton-capital
+  year: 2025
+founded: 2024
 founders:
-  - name: "Frank Hutter"
-    role: "CEO & Co-Founder"
-  - name: "Noah Hollmann"
-    role: "Co-Founder"
-  - name: "Sauraj Gambhir"
-    role: "Co-Founder"
-status: published
+- name: Frank Hutter
+  role: CEO & Co-Founder
+- name: Noah Hollmann
+  role: Co-Founder
+- name: Sauraj Gambhir
+  role: Co-Founder
+investors:
+- round: Pre-seed
+  slug: james-wise
+  year: 2025
 last_researched: 2026-07-19
+location: Berlin / Freiburg, Germany
+name: Prior Labs
+sector:
+- ai
+- foundation-models
+- enterprise-ai
+- machine-learning
+- tabular-ai
+- deep-tech
+slug: prior-labs
+stage_latest: Acquired
+status: published
+status_company: acquired
+total_raised: EUR 9M (pre-seed, prior to SAP acquisition)
+type: startup
+website: https://priorlabs.ai
 ---
 
 ## About

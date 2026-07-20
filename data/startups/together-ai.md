@@ -23,6 +23,9 @@ firms:
 - round: Angel — Seed ($20M led by Lux Capital; Dawn Song explicitly named)
   slug: independent
   year: 2023
+- round: Co-founder; Factory portfolio
+  slug: factory
+  year: 2022
 founded: 2022
 founders:
 - name: Vipul Ved Prakash
@@ -56,6 +59,9 @@ investors:
 - round: Angel — Seed ($20M led by Lux Capital; Dawn Song explicitly named)
   slug: dawn-song
   year: 2023
+- round: Co-founder; Factory portfolio
+  slug: chris-re
+  year: 2022
 last_researched: 2026-07-01
 location: San Francisco, CA
 name: Together AI

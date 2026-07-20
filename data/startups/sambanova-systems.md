@@ -1,29 +1,40 @@
 ---
-name: "SambaNova Systems"
-slug: sambanova-systems
-type: startup
-website: "https://sambanova.ai"
-location: "Palo Alto, CA"
-founded: 2017
-status_company: active
-sector: [ai, ai-infrastructure, semiconductors, ai-chips, enterprise-ai]
-stage_latest: "Series F"
-total_raised: "$2.5B+"
 firms:
-  - slug: battery-ventures
-    round: series-f
-    year: 2026
-    date: 2026-07-08
-investors: []
+- date: 2026-07-08
+  round: series-f
+  slug: battery-ventures
+  year: 2026
+- round: Co-founder
+  slug: factory
+  year: 2017
+founded: 2017
 founders:
-  - name: "Rodrigo Liang"
-    role: "Co-Founder & CEO"
-  - name: "Kunle Olukotun"
-    role: "Co-Founder & Chief Technologist"
-  - name: "Christopher Ré"
-    role: "Co-Founder & Chief Scientist"
-status: published
+- name: Rodrigo Liang
+  role: Co-Founder & CEO
+- name: Kunle Olukotun
+  role: Co-Founder & Chief Technologist
+- name: Christopher Ré
+  role: Co-Founder & Chief Scientist
+investors:
+- round: Co-founder
+  slug: chris-re
+  year: 2017
 last_researched: 2026-07-08
+location: Palo Alto, CA
+name: SambaNova Systems
+sector:
+- ai
+- ai-infrastructure
+- semiconductors
+- ai-chips
+- enterprise-ai
+slug: sambanova-systems
+stage_latest: Series F
+status: published
+status_company: active
+total_raised: $2.5B+
+type: startup
+website: https://sambanova.ai
 ---
 
 ## About

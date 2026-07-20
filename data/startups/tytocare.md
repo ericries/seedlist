@@ -1,27 +1,35 @@
 ---
-name: "TytoCare"
-slug: tytocare
-type: startup
-website: "https://www.tytocare.com"
-location: "New York, NY / Netanya, Israel"
-founded: 2012
-status_company: active
-sector: [healthcare, digital-health, medical-devices, telehealth, ai]
-stage_latest: "Growth"
-total_raised: "$25M+ (2026 round)"
 firms:
-  - slug: insight-partners
-    round: growth
-    year: 2026
-    date: 2026-07-15
-investors: []
+- date: 2026-07-15
+  round: growth
+  slug: insight-partners
+  year: 2026
+founded: 2012
 founders:
-  - name: "Dedi Gilad"
-    role: "Co-Founder"
-  - name: "Ofer Tzadik"
-    role: "Co-Founder"
-status: published
+- name: Dedi Gilad
+  role: Co-Founder
+- name: Ofer Tzadik
+  role: Co-Founder
+investors:
+- round: '2026-07-15'
+  slug: jeff-horing
+  year: 2026
 last_researched: 2026-07-19
+location: New York, NY / Netanya, Israel
+name: TytoCare
+sector:
+- healthcare
+- digital-health
+- medical-devices
+- telehealth
+- ai
+slug: tytocare
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $25M+ (2026 round)
+type: startup
+website: https://www.tytocare.com
 ---
 
 ## About

@@ -25316,7 +25316,7 @@ queue:
 - name: Lyndon Rive
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: independent
   discovered_from: peter-rive
@@ -25411,7 +25411,7 @@ queue:
 - name: Chris Re
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Stanford
   discovered_from: carlos-guestrin
@@ -39737,3 +39737,19 @@ queue:
   firm: Regatta Data
   discovered_from: regatta-data
   source: Co-Founder & CEO of Regatta Data, previously founded Topio/Storwize/ScaleIO
+- name: Alex Ratner
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Snorkel AI
+  discovered_from: chris-re
+  source: Snorkel AI co-founder & CEO; former Chris Ré PhD student at Stanford
+- name: Kunle Olukotun
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SambaNova Systems
+  discovered_from: chris-re
+  source: SambaNova co-founder; Stanford EE professor; Cadence Design Professor

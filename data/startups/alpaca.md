@@ -1,20 +1,36 @@
 ---
-name: "Alpaca"
-slug: alpaca
-type: startup
-website: "https://alpaca.markets"
-location: "San Mateo, CA"
+firms:
+- round: Seed
+  slug: social-leverage
+  year: 2019
 founded: 2015
-status_company: active
-sector: [fintech, brokerage, api-first, tokenized-assets, ai-native-finance, crypto-infrastructure]
-stage_latest: "Series E"
-total_raised: "$435M (incl. debt); $135M Series E equity"
-firms: []
 founders:
-  - name: "Yoshi Yokokawa"
-    role: "Co-Founder & CEO"
-status: published
+- name: Yoshi Yokokawa
+  role: Co-Founder & CEO
+investors:
+- round: Seed
+  slug: tom-peterson
+  year: 2019
+- round: ~2018
+  slug: howard-lindzon
+  year: 2018
 last_researched: 2026-07-20
+location: San Mateo, CA
+name: Alpaca
+sector:
+- fintech
+- brokerage
+- api-first
+- tokenized-assets
+- ai-native-finance
+- crypto-infrastructure
+slug: alpaca
+stage_latest: Series E
+status: published
+status_company: active
+total_raised: $435M (incl. debt); $135M Series E equity
+type: startup
+website: https://alpaca.markets
 ---
 
 ## About
