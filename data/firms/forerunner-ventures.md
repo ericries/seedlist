@@ -105,6 +105,7 @@ Based on 80+ verified investments from the firm's portfolio page, the following 
 | Agentio | Seed | ~2024 | AI/Advertising | [^1] |
 | Wonder | Growth | ~2022 | Consumer/Food | [^1] |
 | Town | Series A | 2026-06-03 | AI/Consumer | $55M co-led with a16z [^9][^10] |
+| Natural | Series A (lead) | 2026-07-20 | Fintech/AI Agent Payments | $30M Series A [^natural-a] |
 
 *This table represents approximately 14% of 161 known investments. Many early-stage investments are not individually documented in press sources.*
 
@@ -141,3 +142,5 @@ No independently sourced founder testimonials found from third-party sources. Fo
 [^10]: "Town Raises $55M Series A From a16z and Forerunner to Build the AI Assistant That Learns How You Work," GlobeNewswire/Yahoo Finance, June 3, 2026, accessed June 2026. https://finance.yahoo.com/sectors/technology/articles/town-raises-55m-series-a16z-134500847.html
 
 [^fora-sd]: "Fora Raises $60M at $1 Billion Valuation, Defining a New Category of Entrepreneurs," PR Newswire, July 16, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/fora-raises-60m-at-1-billion-valuation-defining-a-new-category-of-entrepreneurs-302827629.html
+
+[^natural-a]: "Natural Raises $30M Series A to Build Payments Infrastructure for AI Agents," PR Newswire, July 20, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/natural-raises-30m-series-a-to-build-payments-infrastructure-for-ai-agents-302829855.html

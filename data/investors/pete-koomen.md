@@ -9,9 +9,9 @@ stage_focus: [pre-seed, seed]
 sector_focus: [ai, developer-tools, saas, security, enterprise-software]
 check_size: "$5K-$50K"
 last_verified_investment:
-  date: 2023-02-21
-  company: "Sublime Security"
-  round: "Angel"
+  date: 2026-07-20
+  company: "Natural"
+  round: "Series A"
 social:
   twitter: "@koomen"
   linkedin: "linkedin.com/in/petekoomen"
@@ -60,6 +60,7 @@ This table is intentionally conservative — it includes only investments verifi
 | Cerbos | 2021 | Seed ($3.5M, led by Crane) | FinSMEs, Nov 2021 [^13] |
 | Sublime Security | 2023 | Angel | Signal by NFX [^8] |
 | Milk Video | ~2021 | Angel/Seed | Signal by NFX [^8] |
+| Natural | 2026-07-20 | Series A ($30M, participated as individual investor) | PR Newswire [^natural-a] |
 
 Tracxn and PitchBook list additional positions but without per-deal citations these are not included here [^9][^10].
 
@@ -114,3 +115,5 @@ No independently sourced founder testimonials specific to Pete Koomen's angel in
 [^11]: "Betting on people: A startup founder and investor's perspective on entrepreneurship," The Grainger College of Engineering, University of Illinois, 2026. Accessed June 2026. https://grainger.illinois.edu/news/stories/2026-betting-on-people
 [^12]: "Q&A with Pete Koomen, Cofounder of Optimizely," Y Combinator blog, October 17, 2018. Accessed June 2026. https://www.ycombinator.com/blog/qa-with-pete-koomen-cofounder-of-optimizely/
 [^13]: "Cerbos Raises $3.5M in Seed Funding," FinSMEs, November 30, 2021. Accessed June 2026. https://www.finsmes.com/2021/11/cerbos-raises-3-5m-in-seed-funding.html
+
+[^natural-a]: "Natural Raises $30M Series A to Build Payments Infrastructure for AI Agents," PR Newswire, July 20, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/natural-raises-30m-series-a-to-build-payments-infrastructure-for-ai-agents-302829855.html — Series A led by Forerunner Ventures; Pete Koomen listed as individual investor.

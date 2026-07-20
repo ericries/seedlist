@@ -3065,3 +3065,23 @@ priority:
   type: firm
   reason: "co-backed American Growth Insurance launch (2026-07-16), $70M committed equity"
   added: 2026-07-20
+- slug: forerunner-ventures
+  type: firm
+  reason: "led Natural Series A (2026-07-20), $30M"
+  added: 2026-07-20
+- slug: kirsten-green
+  type: investor
+  reason: "led Natural Series A via Forerunner (2026-07-20), $30M"
+  added: 2026-07-20
+- slug: abstract-ventures
+  type: firm
+  reason: "participated in Natural Series A (2026-07-20), $30M"
+  added: 2026-07-20
+- slug: ramtin-naimi
+  type: investor
+  reason: "participated in Natural Series A (2026-07-20), $30M"
+  added: 2026-07-20
+- slug: pete-koomen
+  type: investor
+  reason: "angel-participated in Natural Series A (2026-07-20), $30M"
+  added: 2026-07-20
