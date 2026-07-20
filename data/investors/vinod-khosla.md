@@ -3,9 +3,9 @@ check_size: $500K-$50M
 firm: khosla-ventures
 last_researched: 2026-07-16
 last_verified_investment:
-  company: Oratomic
-  date: 2026-07-07
-  round: Series A
+  company: Bunkerhill Health
+  date: 2026-07-16
+  round: Series B
 location: Menlo Park, CA
 name: Vinod Khosla
 role: Founder & Managing Director
@@ -162,6 +162,7 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 | Cylance | ~2012 (founded) | Early | Cybersecurity | [^11] |
 | LanzaTech | ~2005 (founded) | Early | Sustainability / Carbon | [^11] |
 | Blue River Technology | ~2011 (founded) | Early | AgTech / AI | [^11] |
+| Bunkerhill Health | 2026-07-16 | Series B (led, $25M; Sequoia, Felicis, Optum Ventures, Y Combinator joined) | Healthcare / AI | [^bh1][^bh2] |
 | Mainspring | ~2010 (founded) | Early | Sustainability / Energy | [^11] |
 | Abridge | ~2018 (founded) | Early | Digital Health / AI | [^11] |
 | AliveCor | ~2011 (founded) | Early | Digital Health / Devices | [^11] |
@@ -329,3 +330,7 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 [^36]: "Oratomic Secures $300M Series A to Build Fault-Tolerant Quantum Computers via Reconfigurable Neutral-Atom Arrays," Quantum Computing Report, July 7, 2026. Accessed July 16, 2026. https://quantumcomputingreport.com/oratomic-secures-300m-series-a-to-build-fault-tolerant-quantum-computers-via-reconfigurable-neutral-atom-arrays/ — Third independent confirmation of the July 7, 2026 announcement and Khosla Ventures as co-lead; also names Baiju Bhatt among angel investors.
 
 [^37]: Duncan Riley, "Quantum startup Oratomic banks $300M to race straight to fault-tolerance," SiliconANGLE, July 8, 2026. Accessed July 16, 2026. https://siliconangle.com/2026/07/08/quantum-startup-oratomic-banks-300m-race-straight-fault-tolerance/ — Fourth independent confirmation of Khosla Ventures co-leading the Oratomic Series A alongside ARCH Venture Partners and Spark Capital.
+
+[^bh1]: Allie Garfinkle, "Bunkerhill Health raises $55 million to put AI agents to work inside hospitals," Fortune, July 16, 2026. Accessed July 20, 2026. https://fortune.com/2026/07/16/bunkerhill-health-raises-55-million-ai-agents-work-inside-hospitals/ — Primary tier-1 press confirming Khosla Ventures led Bunkerhill Health's $25M Series B on July 16, 2026 with Sequoia Capital, Felicis, Optum Ventures, and Y Combinator participating; total funding raised to $55M. Includes Vinod Khosla quote: "The bottleneck in healthcare AI was never the technology, it was getting a health system to actually run it. Bunkerhill closed that gap."
+
+[^bh2]: Bunkerhill Health, "Bunkerhill Health Raises $55 Million to Help Health Systems Turn Their Best Ideas into Reality," Series B announcement, July 16, 2026. Accessed July 20, 2026. https://www.bunkerhillhealth.com/resources/series-b-announcement — Company's own primary announcement of the Series B and total funding milestone.

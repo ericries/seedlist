@@ -3045,3 +3045,23 @@ priority:
   added: 2026-07-20
   status: resolved
   resolved: 2026-07-20
+- slug: khosla-ventures
+  type: firm
+  reason: "appeared in Bunkerhill Health Series B (2026-07-16), $25M / $55M total"
+  added: 2026-07-20
+- slug: vinod-khosla
+  type: investor
+  reason: "led Bunkerhill Health Series B (2026-07-16), $25M / $55M total"
+  added: 2026-07-20
+- slug: sequoia-capital
+  type: firm
+  reason: "participated in Bunkerhill Health Series B (2026-07-16), $25M"
+  added: 2026-07-20
+- slug: y-combinator
+  type: firm
+  reason: "participated in Bunkerhill Health Series B (2026-07-16), $25M"
+  added: 2026-07-20
+- slug: atomic
+  type: firm
+  reason: "co-backed American Growth Insurance launch (2026-07-16), $70M committed equity"
+  added: 2026-07-20

@@ -29,6 +29,105 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: AmpliTech Receives Approximately $21.9 Million of Subscriptions in Series
+    A Rights Offering
+  url: https://www.globenewswire.com/news-release/2026/07/20/3329662/0/en/AmpliTech-Receives-Approximately-21-9-Million-of-Subscriptions-in-Series-A-Rights-Offering.html
+  source: globenewswire
+  date_found: '2026-07-20'
+  parsed_company: null
+  parsed_amount: $21.9M
+  parsed_round: Series A
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 7/20/26'
+  url: https://alleywatch.com/2026/07/the-weekly-notable-startup-funding-report-7-20-26/
+  source: alleywatch
+  date_found: '2026-07-20'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Spain’s female-led FoodTech startup Sensesbit raises €1 million to scale
+    its AI-powered sensory intelligence platform
+  url: https://www.eu-startups.com/2026/07/spains-female-led-foodtech-startup-sensesbit-raises-e1-million-to-scale-its-ai-powered-sensory-intelligence-platform/
+  source: eu-startups
+  date_found: '2026-07-20'
+  parsed_company: Spain’s female-led FoodTech startup Sensesbit
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Leeds-based Xentra secures €3.18 million to scale cybersecurity services
+    for SMEs
+  url: https://www.eu-startups.com/2026/07/leeds-based-xentra-secures-e3-18-million-to-scale-cybersecurity-services-for-smes/
+  source: eu-startups
+  date_found: '2026-07-20'
+  parsed_company: Leeds-based Xentra
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: s financial disclosures earlier this year revealed that he raised $1.4B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-20'
+  parsed_company: s financial disclosures earlier this year revealed that he
+  parsed_amount: $1.4B
+  parsed_round: null
+  status: pending
+- title: Wonder raised $650M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-20'
+  parsed_company: Wonder
+  parsed_amount: $650M
+  parsed_round: Series D
+  status: pending
+- title: American Growth Insurance raised $70M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-20'
+  parsed_company: American Growth Insurance
+  parsed_amount: $70M
+  parsed_round: null
+  status: pending
+- title: Fora raised $60M Series D
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-20'
+  parsed_company: Fora
+  parsed_amount: $60M
+  parsed_round: Series D
+  status: pending
+- title: Bunkerhill Health raised $55M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-20'
+  parsed_company: Bunkerhill Health
+  parsed_amount: $55M
+  parsed_round: null
+  status: pending
+- title: Sable raised $45M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-20'
+  parsed_company: Sable
+  parsed_amount: $45M
+  parsed_round: null
+  status: pending
+- title: Self Inspection raised $10M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-20'
+  parsed_company: Self Inspection
+  parsed_amount: $10M
+  parsed_round: null
+  status: pending
+- title: Hyperion Robotics raised $7.4M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-20'
+  parsed_company: Hyperion Robotics
+  parsed_amount: $7.4M
+  parsed_round: null
+  status: pending
 - title: Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation
   url: https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/
   source: techcrunch
@@ -767,96 +866,5 @@ pending_rounds:
   date_found: '2026-07-06'
   parsed_company: null
   parsed_amount: $1B
-  parsed_round: null
-  status: pending
-- title: Finland’s CurifyLabs raises €12 million to expand 3D printing-based medicine
-    compounding
-  url: https://www.eu-startups.com/2026/07/finlands-curifylabs-raises-e12-million-to-expand-3d-printing-based-medicine-compounding/
-  source: eu-startups
-  date_found: '2026-07-06'
-  parsed_company: Finland’s CurifyLabs
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: France’s Skello secures €200 million to grow its AI tools for frontline workforce
-    management
-  url: https://www.eu-startups.com/2026/07/frances-skello-secures-e200-million-to-grow-its-ai-tools-for-frontline-workforce-management/
-  source: eu-startups
-  date_found: '2026-07-06'
-  parsed_company: France’s Skello
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Sector Snapshot: Cleantech Startup Funding Stabilizes As Energy Demand Grows'
-  url: https://news.crunchbase.com/venture/startup-funding-clean-energy-exits-ipo-q2-2026/
-  source: crunchbase
-  date_found: '2026-07-06'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'From cash deposits to everyday rewards: London-based Stoa raises €2.1 million'
-  url: https://www.eu-startups.com/2026/07/360944/
-  source: eu-startups
-  date_found: '2026-07-06'
-  parsed_company: 'From cash deposits to everyday rewards: London-based Stoa'
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 7/6/26'
-  url: https://alleywatch.com/2026/07/the-weekly-notable-startup-funding-report-7-6-26/
-  source: alleywatch
-  date_found: '2026-07-06'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Bespoke Labs raised $40M seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-06'
-  parsed_company: Bespoke Labs
-  parsed_amount: $40M
-  parsed_round: Seed And Series A
-  status: processed
-- title: Katalyze AI raised $10.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-06'
-  parsed_company: Katalyze AI
-  parsed_amount: $10.5M
-  parsed_round: Seed
-  status: processed
-- title: a London developer of antibody-drug conjugates that had raised $114M Series
-    A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-06'
-  parsed_company: a London developer of antibody-drug conjugates that had
-  parsed_amount: $114M
-  parsed_round: Series A
-  status: pending
-- title: Thymmune raised $7M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-06'
-  parsed_company: Thymmune
-  parsed_amount: $7M
-  parsed_round: null
-  status: pending
-- title: u003e raised $2.8B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-06'
-  parsed_company: u003e
-  parsed_amount: $2.8B
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/6/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-6-2026/
-  source: alleywatch
-  date_found: '2026-07-06'
-  parsed_company: null
-  parsed_amount: null
   parsed_round: null
   status: pending

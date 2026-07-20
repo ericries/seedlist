@@ -115,6 +115,7 @@ Based on 18 verified portfolio companies from Atomic's website [^6]:
 | TalkIQ | Acquired | 2013 | AI | Acquired by Dialpad [^6] |
 | Terminal | Series B | 2016 | Marketplace | Active [^6] |
 | Villa | Series A | 2019 | Real Estate | Active [^6] |
+| American Growth Insurance | Equity Funding (~$70M committed, co-backed with Rockbridge Growth Equity) | 2026-07-16 | Insurance / AI | Active [^agi1][^agi2] |
 
 ## In Their Own Words
 
@@ -156,3 +157,7 @@ Note: The above founder quotes are sourced from Atomic's own website and should 
 [^12]: PR Newswire, "Elly Debuts AI-Native Hiring Platform and Raises Funding Led by Sorenson Capital," February 25, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/elly-debuts-ai-native-hiring-platform-and-raises-funding-led-by-sorenson-capital-302696511.html — Confirms $8M Pre-Seed announced February 25, 2026; lead Sorenson Capital with participation from Atomic and Next Wave Capital; Elly created as part of Atomic venture studio.
 
 [^13]: Gunderson Dettmer, "Elly Launches With $8 Million Pre-Seed Financing," February 2026, accessed June 2026. https://www.gunder.com/en/news-insights/client-news/elly-launches-with-8-million-usd-pre-seed-financing — Independent legal counsel announcement confirming $8M Pre-Seed and Atomic's role as co-founder.
+
+[^agi1]: American Growth Insurance press release, "American Growth Insurance Launches Specialty Insurance Brokerage Growth Platform," PR Newswire, July 16, 2026. Accessed July 20, 2026. https://www.prnewswire.com/news-releases/american-growth-insurance-launches-specialty-insurance-brokerage-growth-platform-302827676.html — Primary announcement of AGI's July 16, 2026 launch with nearly $70M in committed equity funding backed by Rockbridge Growth Equity and Atomic. Includes Michael Stenclik (Atomic) quote and Tony Pulice (Rockbridge Growth Equity) quote.
+
+[^agi2]: SiliconANGLE, "AGI raises $70M to buy up and transform insurance firms into AI-native operations," July 15/16, 2026. Accessed July 20, 2026. https://siliconangle.com/2026/07/15/agi-raises-70m-buy-transform-insurance-firms-ai-native-operations/ — Independent tier-1 confirmation of $70M commitment from Rockbridge Growth Equity and Atomic; Brian Morgan named CEO.

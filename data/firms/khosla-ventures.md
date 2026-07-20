@@ -4,9 +4,9 @@ fund_size: $1.6B (Fund VIII, 2023); $500M (Seed Fund, 2023); $900M (Growth Fund,
   seeking $3.5B across three funds (2025)
 last_researched: 2026-04-30
 last_verified_investment:
-  company: State Affairs
-  date: 2026-07-14
-  round: Growth
+  company: Bunkerhill Health
+  date: 2026-07-16
+  round: Series B
 location: Menlo Park, CA
 name: Khosla Ventures
 sector_focus:
@@ -160,6 +160,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Rubrik | Early | ~2014 (founded) | Enterprise / Security | Public (IPO 2024) [^22] |
 | Physical Intelligence | Early | ~2024 (founded) | AI / Robotics | Private [^22] |
 | Hermeus | Early | ~2018 (founded) | Aerospace / Hypersonic | Private [^22] |
+| Bunkerhill Health | Series B (led, $25M; total funding to $55M; Sequoia, Felicis, Optum Ventures, Y Combinator joined) | 2026-07-16 | Healthcare / AI | Private [^bh1][^bh2] |
 | Varda | Early | ~2021 (founded) | Space Manufacturing | Private [^22] |
 | Windborne | Early | ~2019 (founded) | Climate / Weather | Private [^22] |
 | Cylance | Early | ~2012 (founded) | Cybersecurity | Acquired by BlackBerry (2019) [^22] |
@@ -469,3 +470,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^62]: "Blue River Technology Raises $3.1 Million from Khosla Ventures and Angel Investors," Business Wire, September 10, 2012. Accessed July 19, 2026. https://www.businesswire.com/news/home/20120910006479/en/Blue-River-Technology-Raises-3.1-Million-from-Khosla-Ventures-and-Angel-Investors — Business Wire distribution of Blue River Technology's official announcement confirming Khosla Ventures as lead of the $3.1M Series A on September 10, 2012.
 
 [^63]: "Blue River Bags $3.1M Round," PE Hub, September 2012. Accessed July 19, 2026. https://www.pehub.com/blue-river-bags-3-1m-round/ — Independent primary press confirmation of Khosla Ventures leading Blue River Technology's $3.1M Series A with Steve Blank, Ulu Ventures, and Stanford Angels and Entrepreneurs participating.
+
+[^bh1]: Allie Garfinkle, "Bunkerhill Health raises $55 million to put AI agents to work inside hospitals," Fortune, July 16, 2026. Accessed July 20, 2026. https://fortune.com/2026/07/16/bunkerhill-health-raises-55-million-ai-agents-work-inside-hospitals/ — Primary tier-1 press confirming Khosla Ventures led Bunkerhill Health's $25M Series B on July 16, 2026 with Sequoia Capital, Felicis, Optum Ventures, and Y Combinator participating; total funding raised to $55M.
+
+[^bh2]: Bunkerhill Health, "Bunkerhill Health Raises $55 Million to Help Health Systems Turn Their Best Ideas into Reality," Series B announcement, July 16, 2026. Accessed July 20, 2026. https://www.bunkerhillhealth.com/resources/series-b-announcement — Company's primary announcement of the Series B round and $55M total funding milestone.
