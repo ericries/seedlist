@@ -8039,7 +8039,7 @@
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
       "type": "curated",
-      "size": 30,
+      "size": 31,
       "members": [
         {
           "slug": "angela-tran",
@@ -8185,6 +8185,11 @@
           "slug": "lip-bu-tan",
           "name": "Lip-Bu Tan",
           "firm": "walden-international"
+        },
+        {
+          "slug": "chris-re",
+          "name": "Christopher R\u00e9",
+          "firm": "factory"
         }
       ]
     },
@@ -8267,7 +8272,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 33,
+      "size": 35,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8425,6 +8430,16 @@
           "slug": "anish-acharya",
           "name": "Anish Acharya",
           "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "chris-re",
+          "name": "Christopher R\u00e9",
+          "firm": "factory"
+        },
+        {
+          "slug": "dawn-song",
+          "name": "Dawn Song",
+          "firm": "oasis-labs"
         }
       ]
     },
@@ -8507,7 +8522,7 @@
       "name": "The Fintech Mafia",
       "tagline": "Deep in the financial plumbing. They backed multiple fintech unicorns and understand payments, lending, and banking infrastructure cold.",
       "type": "curated",
-      "size": 23,
+      "size": 24,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -8618,6 +8633,11 @@
         {
           "slug": "anish-acharya",
           "name": "Anish Acharya",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "seema-amble",
+          "name": "Seema Amble",
           "firm": "andreessen-horowitz"
         }
       ]
@@ -9662,7 +9682,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 140,
+      "size": 141,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10300,6 +10320,11 @@
           "slug": "freddie-martignetti",
           "name": "Freddie Martignetti",
           "firm": "nava-ventures"
+        },
+        {
+          "slug": "chris-re",
+          "name": "Christopher R\u00e9",
+          "firm": "factory"
         }
       ]
     },
@@ -10829,7 +10854,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 64,
+      "size": 66,
       "members": [
         {
           "slug": "aileen-lee",
@@ -11142,6 +11167,16 @@
         {
           "slug": "justine-moore",
           "name": "Justine Moore",
+          "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "dawn-song",
+          "name": "Dawn Song",
+          "firm": "oasis-labs"
+        },
+        {
+          "slug": "seema-amble",
+          "name": "Seema Amble",
           "firm": "andreessen-horowitz"
         }
       ]
@@ -12146,7 +12181,7 @@
       "name": "The Engineer-Investors",
       "tagline": "They wrote code before they wrote checks. Engineers and CTOs who became investors \u2014 they can read your architecture docs, not just your pitch deck.",
       "type": "curated",
-      "size": 37,
+      "size": 39,
       "members": [
         {
           "slug": "adam-dangelo",
@@ -12324,6 +12359,16 @@
           "slug": "lip-bu-tan",
           "name": "Lip-Bu Tan",
           "firm": "walden-international"
+        },
+        {
+          "slug": "chris-re",
+          "name": "Christopher R\u00e9",
+          "firm": "factory"
+        },
+        {
+          "slug": "dawn-song",
+          "name": "Dawn Song",
+          "firm": "oasis-labs"
         }
       ]
     },
