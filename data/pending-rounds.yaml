@@ -71,23 +71,6 @@ pending_rounds:
   parsed_amount: $60M
   parsed_round: Series D
   status: pending
-- title: CuspAI raises €393.2 million at €2.2 billion valuation; launches AI Materials
-    Foundry to accelerate materials discovery
-  url: https://www.eu-startups.com/2026/07/cuspai-raises-e393-2-million-at-e2-2-billion-valuation-launches-ai-materials-foundry-to-accelerate-materials-discovery/
-  source: eu-startups
-  date_found: '2026-07-20'
-  parsed_company: CuspAI
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Natural raises $30M to reinvent payments for AI agents — and take on Stripe
-  url: https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/
-  source: techcrunch
-  date_found: '2026-07-20'
-  parsed_company: Natural
-  parsed_amount: $30M
-  parsed_round: null
-  status: pending
 - title: Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic
     researchers
   url: https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/
@@ -95,38 +78,6 @@ pending_rounds:
   date_found: '2026-07-20'
   parsed_company: Inference startup Infinity
   parsed_amount: $15M
-  parsed_round: null
-  status: pending
-- title: CuspAI raised $450M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: CuspAI
-  parsed_amount: $450M
-  parsed_round: Series B
-  status: pending
-- title: RapidPulse raised $48M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: RapidPulse
-  parsed_amount: $48M
-  parsed_round: Series B
-  status: pending
-- title: Empirical Security raised $25M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: Empirical Security
-  parsed_amount: $25M
-  parsed_round: Series A
-  status: pending
-- title: Applied Computing raised $20M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: Applied Computing
-  parsed_amount: $20M
   parsed_round: null
   status: pending
 - title: General Bio raised $7.4M
