@@ -103,7 +103,7 @@ The analysis below is based on 25 verified investments from press coverage, Crun
 | Menlo Micro | Series C | 2022-03-09 | Microelectronic switches | [^40][^41] |
 | mmhmm | Seed | 2020 | Video / presentation tools | [^10] |
 | MycoWorks | Series B | 2020 | Bio-materials / alternative leather | [^11][^33] |
-| Nabla | Series C | 2025 | Healthcare AI / ambient documentation | [^23] |
+| Nabla | Series C ($70M; HV Capital led; Highland Europe key participant; DST Global new; Cathay Innovation and Build Collective/Fadell as existing investors; brings total funding to $120M) | 2025-06-17 | Healthcare AI / ambient documentation | [^23][^44][^45] |
 | Nothing | Seed | 2020 | Consumer electronics / smartphones | [^24] |
 | Nothing | Series B | 2022 | Consumer electronics / smartphones | [^24] |
 | Orionis Biosciences | Series C | 2022 | Biotech / cancer immunotherapy | [^16][^34] |
@@ -246,4 +246,8 @@ No additional independently sourced founder testimonials were found beyond the e
 [^42]: Prenuvo, "Prenuvo Raises $70M Series A Led By Felicis to Reimagine Preventive Healthcare," October 18, 2022. https://prenuvo.com/announcements/prenuvo-raises-70m-series-a-led-by-felicis-to-reimagine-preventive
 
 [^43]: PR Newswire, "Turntide Technologies Brings Change to Global Power Consumption with World's First Digital, Intelligent and Sustainable Electric Motor, Raises $33M Including Investment from Amazon Climate Pledge Fund," September 24, 2020. https://www.prnewswire.com/news-releases/turntide-technologies-brings-change-to-global-power-consumption-with-worlds-first-digital-intelligent-and-sustainable-electric-motor-raises-33m-including-investment-from-amazon-climate-pledge-fund-301137423.html
+
+[^44]: Highland Europe, "Nabla Raises $70M Series C to Deliver Agentic AI to the Heart of Clinical Workflows, Bringing Total Funding to $120M," June 17, 2025. Accessed July 2026. https://www.highlandeurope.com/nabla-raises-70m-series-c-to-deliver-agentic-ai-to-the-heart-of-clinical-workflows-bringing-total-funding-to-120m/ — Primary source from a lead-tier participant confirming $70M Series C led by HV Capital, with Highland Europe joining as key investor alongside DST Global (new), and Cathay Innovation and Tony Fadell's Build Collective as existing investors. Advisors include Yann LeCun (Meta) and Tony Fadell (Build Collective).
+
+[^45]: FierceHealthcare, "Nabla banks $70M series C to build out agentic AI for clinical workflows," June 2025. Accessed July 2026. https://www.fiercehealthcare.com/ai-and-machine-learning/nabla-banks-70m-series-c — Independent healthcare-industry press confirmation of $70M Series C in June 2025 with HV Capital as lead and Tony Fadell's Build Collective among existing investors continuing participation.
 

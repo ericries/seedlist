@@ -118,7 +118,7 @@ Based on 48 verified investments in the portfolio table below:
 | Chief | Series B | 2022 | Enterprise/Community | Active | [^41] |
 | AlphaSense | Growth | 2023 | Enterprise/AI | Active | [^25] |
 | Whatnot | Series C | 2021 | Consumer/Marketplace | Active | [^42] |
-| Armis | Growth | 2025 | Security | Active | [^43] |
+| Armis | Pre-IPO ($435M at $6.1B valuation; Growth Equity at Goldman Sachs Alternatives led; Evolution Equity Partners new; CapitalG participated as major existing investor; Derek Zanutto of CapitalG has "repeatedly doubled down on the company" since 2019) | 2025-11-05 | Security | Active | [^43][^65][^66] |
 | Expel | Series D | 2020 | Security | Active | [^44] |
 | Cribl | Series E | 2024-08-27 | Data/Infrastructure | Active | [^45] |
 | Clio | Series F | 2024-07-23 | Enterprise/LegalTech | Active | [^46] |
@@ -248,3 +248,7 @@ Robinhood's team stated: "CapitalG provided our team with significant access to 
 [^63]: BusinessWire, "Base Power Raises $1 Billion Series C to Build the Future of American Power," company press release, October 8, 2025. Confirms $1B Series C led by Addition with CapitalG among new major investors alongside Ribbit, Spark, BOND, Lowercarbon, Avenir, Glade Brook, Positive Sum, and 1789. Accessed July 8, 2026. https://www.businesswire.com/news/home/20251008106005/en/Base-Power-Raises-1-Billion-Series-C-to-Build-the-Future-of-American-Power
 
 [^64]: Built In Austin, "Austin's Base Power Raises $1B Series C, Announces New Factory," October 8, 2025. Third independent source confirming CapitalG's participation as a new investor. Accessed July 8, 2026. https://www.builtinaustin.com/articles/austins-base-power-raises-1-billion-series-c-funding-20251008
+
+[^65]: TechCrunch, "Armis raises $435M pre-IPO round at $6.1B valuation after refusing M&A offers," November 5, 2025. Accessed July 2026. https://techcrunch.com/2025/11/05/armis-raises-435m-pre-ipo-round-at-6-1b-valuation-after-refusing-ma-offers/ — Independent tier-1 press confirming $435M pre-IPO round on November 5, 2025 at $6.1B valuation; Growth Equity at Goldman Sachs Alternatives led; CapitalG participation confirmed; Evolution Equity Partners named as new investor. Armis CEO Yevgeny Dibrov targeting late 2026/early 2027 IPO after crossing $300M ARR.
+
+[^66]: Goldman Sachs Asset Management press release, "Cybersecurity Leader Armis Closes $435 Million at $6.1 Billion Valuation," November 5, 2025. Accessed July 2026. https://am.gs.com/en-us/advisors/news/press-release/2025/armis — Primary source from the lead investor confirming $435M round at $6.1B valuation with CapitalG's "major participation." Includes Derek Zanutto (CapitalG) quote: "repeatedly doubled down on the company" since initial 2019 investment.

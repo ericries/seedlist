@@ -228,7 +228,6 @@ The following table includes a16z investments verified through the firm's own po
 | XDOF | Venture | 2026-06-17 | Robotics / AI Infrastructure | Active ($70M launch from stealth alongside Thrive, Spark, Lux, WndrCo) [^73][^74] |
 | Convey | Series A (led) | 2026-06-17 | AI / Enterprise | Active ($38M Series A led by a16z; Khosla and Pear VC participated; Joe Schmidt joined board) [^75][^76] |
 | Jarvie AI | Seed | 2026-06-23 | AI / Consumer / Messaging | Active ($8.3M Seed alongside Base10 Partners and Lightspeed) [^88][^90] |
-| Anthropic | Growth | 2023 | AI | Private [^10] |
 | Anduril | Growth (Series B→H; co-led Series H) | 2019 (Series B); 2026-05-13 (Series H, co-led at $61B) | Defense Tech | Private [^10][^45] |
 | Applied Intuition | Growth | 2021 | Autonomous / Simulation | Private [^10] |
 | Rippling | Growth | 2022 | HR / Enterprise | Private [^10] |
