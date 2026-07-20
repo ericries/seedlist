@@ -55,7 +55,7 @@ Kukreja has not published a formal angel investing thesis. In public commentary 
 | Superfoods Valley | ~2021 (founding year) | Angel | D2C / e-commerce | [^6] |
 | TartanHQ | ~2021 (founding year) | Angel | Fintech infra | [^6] |
 | Sugmya Finance | ~2017 (founding year) | Angel | FinTech (lending) | [^6] |
-~unknown| Grip | Unknown | Unknown | Consumer / investments | [^5] |
+| Grip Invest | ~2020-2021 (unverified) | Angel (aggregator-attributed; Kukreja NOT named in primary press for Grip's disclosed rounds: 2020-11-25 pre-Series A led by Anicut Angel Fund with Gemba Capital + Anupam Mittal + Sunjay Kapur + Maninder Gulati [^9][^10][^11], or 2021-08 $3M Series A) | Consumer / investments | [^5] |
 
 This table represents ~10 of ~15-16 angel investments reported by aggregators [^5]. Specific check sizes are not publicly disclosed. Several entries use founding-year as a proxy where exact round dates were not independently verifiable.
 
@@ -80,3 +80,6 @@ No independently sourced founder testimonials about working with Naveen Kukreja 
 [^6]: "Investment Highlight of Naveen Kukreja," Inc42 DataLabs, accessed June 2026. https://inc42.com/person/naveen-kukreja/investments/
 [^7]: Naveen Kukreja, personal site / blog, accessed June 2026. https://www.naveenkukreja.com/blog/
 [^8]: Naveen Kukreja, LinkedIn profile, accessed June 2026. https://in.linkedin.com/in/naveen-kukreja-b333013
+[^9]: "Grip raises equity funding from Anicut Angel Fund and Gemba Capital," HRNXT, November 25, 2020, accessed July 2026. Names Anicut Angel Fund (lead), Gemba Capital, Anupam Mittal, Sunjay Kapur, Maninder Gulati; Naveen Kukreja not mentioned. https://hrnxt.com/news/investment/grip-raises-equity-funding-from-anicut-angel-fund-and-gemba-capital/27055/2020/11/25/
+[^10]: "[Funding alert] Gurugram-based Grip Invest raises pre-Series A round led by Anicut Angel Fund," YourStory (via DailyHunt syndication), November 2020, accessed July 2026. Same investor list, no Kukreja. https://m.dailyhunt.in/news/india/english/yourstory-epaper-dh3cb9c50f248d4dcdbaeaeab48287f080/funding+alert+gurugrambased+grip+invest+raises+preseries+a+round+led+by+anicut+angel+fund-newsid-n231745656
+[^11]: "Small Ticket Investment Platform Grip Invest Raises Equity Funding from Anicut Angel Fund," SiliconIndia Startup, November 2020, accessed July 2026. Same investor list, no Kukreja. https://www.siliconindia.com/startup/startup-funding/small-ticket-investment-platform-grip-invest-raises-equity-funding-from-anicut-angel-fund-nwid-26028.html

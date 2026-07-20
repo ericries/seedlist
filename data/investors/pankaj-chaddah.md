@@ -54,8 +54,8 @@ Sample size is too small for precise sector percentages — the inferred read is
 | Vahdam | ~2022 | Series C | [^6] |
 | Threado | 2022 | Seed | [^6] |
 | Infra.Market | ~2020 | Series A+ | [^2] |
-~unknown| MCaffeine | Unknown | Unknown | [^2] |
-~unknown| Flatheads | Unknown | Seed | [^2] |
+| MCaffeine | ~2019 (unverified) | Angel/Seed (aggregator-attributed; no primary press names Chaddah in any of MCaffeine's four disclosed rounds — 2018-03 Seed, 2019-06 Series A led by RPSG Ventures, 2020-09 Series B led by Amicus Capital, or 2022-03 Series C led by Paragon Partners) | [^2] |
+| Flatheads | 2019-10 | Angel (part of $500K aggregate angel round; Sahil Barua co-participant per YourStory launch coverage) | [^2][^9][^10][^11] |
 | Yoho | 2024-09-24 | Series A ($3.21M) | [^2] |
 | Freshly | 2025-01-31 | Seed ($465K) | [^2] |
 | Cumin | 2026-01-05 | Seed ($5M) | [^2] |
@@ -90,3 +90,6 @@ No independently sourced founder testimonials about Pankaj Chaddah as an angel i
 [^6]: "List of Startups Funded by Pankaj Chaddah," Razorpay Rize, accessed June 2026. https://razorpay.com/rize/investors-list/shyft
 [^7]: "Pankaj Chaddah — Shyft," LinkedIn, accessed June 2026. https://in.linkedin.com/in/pankaj-chaddah
 [^8]: "Food delivery rivals Swiggy and Zomato back UrbanPiper," TechCrunch, April 17, 2022. https://techcrunch.com/2022/04/17/swiggy-and-zomato-food-delivery-rivals-in-india-back-urbanpiper-in-24-million-funding/
+[^9]: "After testing the waters in fintech, MomoE founders set their sights on Rs 8,000 Cr footwear market with Flatheads," YourStory, October 2019, accessed July 2026. Article names Chaddah and Sahil Barua (Delhivery co-founder) as prominent angels in the $500K angel round. https://yourstory.com/2019/10/fintech-momoe-founders-launch-flatheads-startup-shoes-brand
+[^10]: "D2C online brand Flatheads raises USD 1 Mn in pre-series A funding round," MyBigPlunge, September 16, 2021, accessed July 2026. Confirms Flatheads had raised ~USD 1.5M total since inception (prior ~USD 500K angel round). https://mybigplunge.com/startups/d2c-online-brand-flatheads-raises-usd-1-mn-in-pre-series-a-funding-round/
+[^11]: "D2C: How Flatheads makes ridiculously comfortable shoes," Startups Unplugged (Medium), accessed July 2026. Founder Ganesh Balakrishnan describes the initial angel round: "In 72 hours [the LinkedIn video] went viral. About 400–450 people pinged us saying they wanted to invest. Eventually, 40 people became angel investors in Flatheads." https://startupsunplugged.medium.com/d2c-how-flatheads-makes-ridiculously-comfortable-shoes-d130327a6dba
