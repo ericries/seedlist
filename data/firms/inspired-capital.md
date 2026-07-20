@@ -85,13 +85,13 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Solace | Series A | 2024-08-22 | Healthcare | Active | [^14][^34] |
-| Stand | Seed | 2024 | Insurtech / Fintech | Active | [^13] |
+| Stand | Undesignated ($30M; no lead named; Lowercarbon Capital, Equal Ventures, Convective Capital also participated) | 2024-12-16 | Insurtech / Climate | Active | [^13][^46][^47][^48] |
 | Scowtt | Series A | 2025 | AI / Advertising | Active | [^13] |
 | BrightAI | Early | 2024 | AI / Industrial | Active | [^13] |
 | Remark | Early | 2024 | AI / Commerce | Active | [^13] |
 | Arketa | Early | 2024 | B2B / Consumer | Active | [^13] |
 | Arcade | Early | 2024 | AI / Consumer | Active | [^13] |
-| Duckbill | Series A | 2023 | AI / Consumer | Active | [^8] |
+| Duckbill | Seed + Series A ($33M total; $25M Series A led by Forerunner Ventures; Greycroft, Inspired Capital, General Catalyst, G9 Ventures, Red Antler, Future Back Ventures by Bain & Co, Offline Ventures participated) | 2023-09-13 | AI / Consumer | Active | [^8][^49][^50] |
 | Dandy | Series A | 2019 | Healthcare / Dental | Active | [^13][^16] |
 | Finix | Series B ($35M; Sequoia led; Activant Capital and Inspired Capital new; Acrew Capital and Bain Capital Ventures also participated) | 2020-02-04 | Fintech / Payments | Active | [^17][^40][^41] |
 | Rho | Seed ($4.9M; Inspired Capital led) | 2019-10-15 | Fintech / Banking | Active | [^18][^42][^43] |
@@ -120,7 +120,7 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 | Saturn | Early | 2021 | Consumer / Education | Exited | [^13] |
 | Geneva | Early | 2021 | Consumer / Social | Exited | [^13] |
 | Nirvana | Early | 2022 | Healthcare / B2B | Active | [^13] |
-| Frontera Health | Early | 2023 | Healthcare | Active | [^13] |
+| Frontera Health | Seed ($32M; Lux Capital and Lightspeed Venture Partners co-led; Bison Ventures and Menlo Ventures also participated) | 2025-02-18 | Healthcare / Autism Care | Active | [^13][^51][^52][^53] |
 | Hopscotch | Early | 2023 | Healthcare / Mental Health | Active | [^13] |
 | Kamino | Early | 2022 | Fintech / LatAm | Active | [^13] |
 | Blaze | Early | 2023 | AI / Content | Active | [^13] |
@@ -237,3 +237,11 @@ Lucy Deland has been described as an exceptional "thought partner" with "unmatch
 [^43]: TechStartups, "Rho Business Banking, a fintech startup founded by Deutsche Bank alum and others, launches digital banking built to accelerate high-growth startups," October 16, 2019. https://techstartups.com/2019/10/16/rho-business-banking-fintech-startup-founded-deutsche-bank-alum-others-launches-digital-banking-built-accelerate-high-growth-startups/
 [^44]: TechCrunch, "Snackpass snags $21M to let you earn friends free takeout," December 19, 2019. https://techcrunch.com/2019/12/19/snackpass/
 [^45]: FinSMEs, "Snackpass Raises $21M in Series A Funding," December 20, 2019. https://www.finsmes.com/2019/12/snackpass-raises-usd21m-series-a-funding.html
+[^46]: PR Newswire, "Team Of Silicon Valley Veterans Launch Stand Insurance, Using Physics-Driven AI To Insure The World's Climate-Impacted Properties," December 16, 2024. https://www.prnewswire.com/news-releases/team-of-silicon-valley-veterans-launch-stand-insurance-using-physics-driven-ai-to-insure-the-worlds-climate-impacted-properties-302333108.html
+[^47]: FinTech Global, "Silicon Valley veterans unveil Stand with $30m funding to tackle climate risks," December 17, 2024. https://fintech.global/2024/12/17/silicon-valley-veterans-unveil-stand-with-30m-funding-to-tackle-climate-risks/
+[^48]: Insurance Innovation Reporter, "Startup Stand Debuts Homeowners' Product Using Physics-Driven AI," December 18, 2024. https://iireporter.com/startup-stand-debuts-homeowners-product-using-physics-driven-ai/
+[^49]: Boston Globe, "This Boston startup wants to tackle your to-do list," September 13, 2023. https://www.bostonglobe.com/2023/09/13/business/duckbill-startup-personal-assistant/
+[^50]: Forerunner Ventures, "The CQ | Delivering on One of Tech's Holy Grails: Duckbill, the AI-Powered Personal Assistant," September 16, 2023. https://forerunnerventures.substack.com/p/the-cq-delivering-on-one-of-techs
+[^51]: BusinessWire, "Frontera Health Launches, Bringing AI Solutions to Transform Autism Care and Advance Health Equity," February 18, 2025. https://www.businesswire.com/news/home/20250218656544/en/Frontera-Health-Launches-Bringing-AI-Solutions-to-Transform-Autism-Care-and-Advance-Health-Equity
+[^52]: MobiHealthNews, "Frontera launches with $32M in seed funding," February 20, 2025. https://www.mobihealthnews.com/news/frontera-launches-32m-seed-funding
+[^53]: Pulse 2.0, "Frontera Health: $32 Million (Seed) Funding Raised For Advancing Autism Care And Health Equity," February 24, 2025. https://pulse2.com/frontera-health-32-million-seed-funding-raised-for-advancing-autism-care-and-health-equity/

@@ -257,7 +257,7 @@ vague_facts:
   line: '| Marathon Fusion | Seed (co-lead) | 2024-07-18 | Fusion Energy | [^22] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Trilobio
@@ -279,7 +279,7 @@ vague_facts:
   line: '| Solideon | Seed | 2024-10-28 | Deep Tech / 3D Printing | [^23][^39] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Ceragen
@@ -289,7 +289,7 @@ vague_facts:
   line: '| Ceragen | Seed | 2024-07-16 | Biotech | [^24][^40] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Miist Therapeutics
@@ -13931,7 +13931,9 @@ vague_facts:
   line: '| Stand | Seed | 2024 | Insurtech / Fintech | Active | [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: "Fact-spec sweep 2026-07-19: tightened via 3 primary sources — PR Newswire company release [^46] (2024-12-16), FinTech Global [^47], Insurance Innovation Reporter [^48]. Round type NOT designated as Seed or Series A in press. Row updated to 'Undesignated ($30M; no lead named; Lowercarbon Capital, Equal Ventures, Convective Capital also participated) | 2024-12-16'. Sector corrected to Insurtech/Climate."
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Scowtt
@@ -13991,7 +13993,9 @@ vague_facts:
   line: '| Duckbill | Series A | 2023 | AI / Consumer | Active | [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: "Fact-spec sweep 2026-07-19: tightened via 3 primary sources — Boston Globe [^49] (2023-09-13), Forerunner Ventures Substack 'The CQ' [^50] (co-participant primary source, 2023-09-16), existing Fortune [^8]. Round is $33M combined Seed + Series A ($25M Series A led by Forerunner). Row updated to 'Seed + Series A ($33M total; $25M Series A led by Forerunner Ventures; Greycroft, Inspired Capital, General Catalyst, G9 Ventures, Red Antler, Future Back Ventures by Bain & Co, Offline Ventures participated) | 2023-09-13'."
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Dandy
@@ -14287,7 +14291,9 @@ vague_facts:
   line: '| Frontera Health | Early | 2023 | Healthcare | Active | [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: "Fact-spec sweep 2026-07-19: tightened via 3 primary sources — BusinessWire company release [^51] (2025-02-18), MobiHealthNews [^52] (2025-02-20), Pulse 2.0 [^53] (2025-02-24). Prior 2023 year was the founding year, NOT the round date. Row updated to 'Seed ($32M; Lux Capital and Lightspeed Venture Partners co-led; Bison Ventures and Menlo Ventures also participated) | 2025-02-18'. Sector tightened to Healthcare / Autism Care."
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Hopscotch
