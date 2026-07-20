@@ -3033,3 +3033,15 @@ priority:
   type: firm
   reason: "participated in Sable Series A (2026-07-16), $45M"
   added: 2026-07-20
+- slug: ame-cloud-ventures
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-20: tightened 3 vague year-only portfolio rows on ame-cloud-ventures.md via 3+ primary sources each. (1) ZOOM: "Series A | 2013" → "Series A (participated as one of earliest institutional backers; $6M round: Qualcomm Ventures, Jerry Yang/AME Cloud Ventures, Maven Ventures, angels Subrah Iyar (WebEx), Dan Scheinman (Cisco), Bill Tai) | 2013-01-28" via [^8] TechCrunch 2013-01-28 + [^16] TechCrunch Eric Yuan IPO interview 2019-05-17 (first-party CEO confirmation of AME Cloud Ventures as institutional backer, not just Jerry Yang personally) + [^21] Vator.tv retrospective 2020-03-26. (2) NERVANA SYSTEMS: "Series A/B | 2015" (aggregated dual-round label was incorrect) → "Series A (participated; $20.5M; DCVC led; Allen & Co., AME Cloud Ventures, Playground Global, CME Group, DFJ, Fuel Capital, Lux Capital, Omidyar Network participated; total to $24.4M) | 2015-06-04" via [^11] Fortune (existing) + [^22] Wikipedia (NEW) + [^23] VentureBeat 2015-06-04 (NEW; URL structure confirms date). Prior August 2014 $3.3M seed (DFJ-led) did NOT include AME Cloud; AME entered at the June 2015 Series A. Intel acquired for ~$408M on 2016-08-09. (3) PLANET LABS: "Series B | 2013" → "Series B (participated as existing investor; $52M; Yuri Milner led; Industry Ventures + Felicis + Lux + Ray Rothrock new; DFJ + Capricorn + OATV + Founders Fund + First Round + Innovation Endeavors + Data Collective + AME Cloud Ventures existing) | 2013-12-18" via [^15] New Atlas (existing) + [^24] TechCrunch Alex Wilhelm 2013-12-18 (NEW; explicitly names AME Cloud Ventures) + [^25] Business Wire company primary press 2013-12-18 (NEW). 5 new footnotes added ([^21]-[^25]). Parallel updates on jerry-yang.md: 3 portfolio rows tightened with same primary sources plus 6 new footnotes ([^9]-[^14]); added Cartography Biosciences (2025-10-02 Series B) and Flint (2025-11-06 Series A) portfolio rows with [^15]-[^18]; LVI updated from generic "Unknown/2025" to "Flint / 2025-11-06 / Series A".'
+  added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-20
+- slug: jerry-yang
+  type: investor
+  reason: 'Fact-spec sweep 2026-07-20 (parallel update from ame-cloud-ventures): 3 vague year-only portfolio rows tightened on jerry-yang.md (Zoom 2013-01-28, Nervana Systems 2015-06-04, Planet Labs 2013-12-18) with same 3+ primary sources per fact; 2 new portfolio rows added (Cartography Biosciences 2025-10-02 Series B, Flint 2025-11-06 Series A) with [^15]-[^18]; LVI updated from generic "Unknown/2025" to Flint / 2025-11-06 / Series A. 10 new footnotes added ([^9]-[^18]).'
+  added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-20

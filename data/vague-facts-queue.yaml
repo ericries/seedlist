@@ -161189,7 +161189,7 @@ vague_facts:
   line: '| Seed | Sep 2012 | $600K | N/A | Y Combinator ($150K) | FundersClub ($269K from 61 members), IDG Ventures, SV Angel, Ad'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: startups/coinbase
   profile_name: Coinbase
   company: Series B
@@ -163364,7 +163364,7 @@ vague_facts:
   line: '| Series D (Microsoft) | Jul 2019 | $1B | N/A | Microsoft | N/A [^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: startups/openai
   profile_name: OpenAI
   company: Microsoft Investment
@@ -164932,7 +164932,7 @@ vague_facts:
   line: '| 2025-08-08 | Strategic Investment | Undisclosed | In-Q-Tel | [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: startups/starfish-space
   profile_name: Starfish Space
   company: 2024-11
@@ -202493,7 +202493,9 @@ vague_facts:
   line: '| Zoom | Series A | 2013 | Video communications | Active (IPO 2019) [^8] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec sweep 2026-07-20: tightened Zoom row on ame-cloud-ventures.md from "Series A | 2013" to "Series A (participated as one of earliest institutional backers; $6M round included Qualcomm Ventures, Jerry Yang/AME Cloud Ventures, Maven Ventures, plus angels Subrah Iyar (WebEx founder), Dan Scheinman (former Cisco SVP/GC), and Bill Tai) | 2013-01-28" via 3 primary sources: [^8] TechCrunch contemporaneous 2013-01-28 (existing), [^16] TechCrunch Eric Yuan IPO interview 2019-05-17 (existing; first-party CEO confirmation of AME Cloud Ventures as early institutional backer), and [^21] Vator.tv retrospective 2020-03-26 (NEW). Parallel updates on jerry-yang.md portfolio row with same [^9][^10] citations.'
 - profile: firms/ame-cloud-ventures
   profile_name: AME Cloud Ventures
   company: Savioke
@@ -202513,7 +202515,9 @@ vague_facts:
   line: '| Nervana Systems | Series A/B | 2015 | AI / deep learning chips | Acquired by Intel 2016 [^11] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec sweep 2026-07-20: corrected Nervana Systems row on ame-cloud-ventures.md from vague "Series A/B | 2015" (aggregated dual-round label) to specific "Series A (participated; $20.5M round led by Data Collective/DCVC; Allen & Co., AME Cloud Ventures, Playground Global, CME Group, DFJ, Fuel Capital, Lux Capital, Omidyar Network also participated; brought total funding to $24.4M) | 2015-06-04" via 3 primary sources: [^11] Fortune 2016-02-29 (existing; company profile piece), [^22] Wikipedia (NEW; comprehensive investor list confirmation), [^23] VentureBeat 2015-06-04 (NEW; contemporaneous tier-1 tech press primary source; URL structure confirms date). Note: prior "Series A/B" label appears to have conflated the August 2014 $3.3M seed round (DFJ-led; AME NOT named per PE Hub) with the June 2015 $20.5M Series A (DCVC-led; AME named). AME Cloud Ventures entered at the 2015 Series A, not the 2014 seed. Nervana was acquired by Intel on August 9, 2016 for ~$408M. Parallel updates on jerry-yang.md portfolio row with same [^13][^14] citations.'
 - profile: firms/ame-cloud-ventures
   profile_name: AME Cloud Ventures
   company: Planet Labs
@@ -202523,7 +202527,9 @@ vague_facts:
   line: '| Planet Labs | Series B | 2013 | Satellite imagery | Active (IPO 2021) [^15] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec sweep 2026-07-20: tightened Planet Labs row on ame-cloud-ventures.md from "Series B | 2013" to "Series B (participated as existing investor; $52M round led by Yuri Milner with Industry Ventures, Felicis Ventures, Lux Capital, and Ray Rothrock as new co-investors; existing investors DFJ, Capricorn, OATV, Founders Fund, First Round Capital, Innovation Endeavors, Data Collective, and AME Cloud Ventures also participated; brought total funding to $65M) | 2013-12-18" via 3 primary sources: [^15] New Atlas 2013-12-18 (existing), [^24] TechCrunch Alex Wilhelm 2013-12-18 (NEW; explicitly names AME Cloud Ventures as existing investor), [^25] Business Wire company press release 2013-12-18 (NEW; Planet Labs primary press). Parallel updates on jerry-yang.md portfolio row with same [^11][^12] citations.'
 - profile: firms/ame-cloud-ventures
   profile_name: AME Cloud Ventures
   company: Capella Space

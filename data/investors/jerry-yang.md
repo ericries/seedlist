@@ -3,9 +3,9 @@ check_size: $1M-$10M
 firm: ame-cloud-ventures
 last_researched: 2026-03-19
 last_verified_investment:
-  company: Unknown
-  date: 2025
-  round: Unknown
+  company: Flint
+  date: 2025-11-06
+  round: Series A
 location: Palo Alto, CA
 name: Jerry Yang
 role: Founding Partner
@@ -84,13 +84,13 @@ Based on 25 verified investments (out of 252 reported by Tracxn), the following 
 
 | Company | Year | Stage | Sector | Status | Source |
 |---------|------|-------|--------|--------|--------|
-| Zoom | 2013 | Series A | Video communications | Active (IPO 2019) | [^7] |
+| Zoom | 2013-01-28 | Series A ($6M; Qualcomm Ventures + Maven Ventures + Jerry Yang/AME Cloud Ventures; angels Subrah Iyar, Dan Scheinman, Bill Tai) | Video communications | Active (IPO 2019) | [^7][^9][^10] |
 | Zoom | 2015 | Series C | Video communications | Active | [^7] |
 | Evernote | ~2012 | Early | Productivity | Active | [^3] |
 | Wish | ~2013 | Early | E-commerce marketplace | Active (IPO 2020) | [^3][^8] |
 | Wattpad | ~2013 | Early | Content platform | Acquired | [^3] |
 | Tango | ~2012 | Early | Video messaging | Active | [^3] |
-| Planet | ~2014 | Early | Satellite imaging | Active (IPO 2021) | [^3][^8] |
+| Planet Labs | 2013-12-18 | Series B (participated as existing investor; $52M round led by Yuri Milner; new co-investors Industry Ventures, Felicis Ventures, Lux Capital, Ray Rothrock; existing co-investors DFJ, Capricorn, OATV, Founders Fund, First Round, Innovation Endeavors, Data Collective) | Satellite imaging | Active (IPO 2021) | [^3][^8][^11][^12] |
 | Freenome | ~2016 | Early | Biotech/diagnostics | Active | [^3] |
 | Synthego | ~2016 | Early | Gene editing tools | Active | [^3] |
 | Rigetti Quantum Computing | ~2016 | Early | Quantum computing | Active | [^3] |
@@ -99,7 +99,7 @@ Based on 25 verified investments (out of 252 reported by Tracxn), the following 
 | Canvas Technology | ~2015 | Early | Warehouse robotics | Acquired by Amazon | [^3] |
 | MegaBots | ~2015 | Early | Robotics | Active | [^3] |
 | Vicarious Surgical | ~2016 | Early | Surgical robotics | Active (IPO via SPAC) | [^3] |
-| Nervana Systems | ~2015 | Early | AI/deep learning | Acquired by Intel | [^3] |
+| Nervana Systems | 2015-06-04 | Series A ($20.5M; Data Collective/DCVC led; Allen & Co., AME Cloud Ventures, Playground Global, CME Group, DFJ, Fuel Capital, Lux Capital, Omidyar Network participated) | AI/deep learning | Acquired by Intel Aug 2016 (~$408M) | [^3][^13][^14] |
 | Vectra Networks | ~2014 | Early | AI cybersecurity | Active | [^3] |
 | Slack | ~2013 | Early | Enterprise messaging | Acquired by Salesforce | [^8] |
 | Okta | ~2014 | Early | Identity management | Active (IPO 2017) | [^8] |
@@ -112,6 +112,8 @@ Based on 25 verified investments (out of 252 reported by Tracxn), the following 
 | FiscalNote | ~2016 | Early | GovTech/AI | Active (IPO via SPAC) | [^4] |
 | Mammoth Biosciences | ~2018 | Early | CRISPR/biotech | Active | [^4] |
 | Zipline | ~2016 | Early | Drone delivery | Active | [^4] |
+| Cartography Biosciences | 2025-10-02 | Series B (participated as existing; $67M; Pfizer led) | Oncology biotech | Active | [^15][^16] |
+| Flint | 2025-11-06 | Series A (participated; $15M; Basis Set Ventures + Patron co-led) | AI / EdTech | Active | [^17][^18] |
 
 *Note: Most investment years are approximate (marked ~), inferred from company founding dates and known fundraising timelines. This table represents approximately 11% of 252 reported investments.*
 
@@ -139,3 +141,23 @@ Rob Solomon, a venture capitalist at Accel Partners, has described Yang as "a gr
 [^6]: Yahoo Finance, "Yahoo co-founder Jerry Yang on AI: The wave is coming," accessed March 2026. https://finance.yahoo.com/news/yahoo-co-founder-jerry-yang-on-ai-the-wave-is-coming-133019251.html
 [^7]: VCNewsDaily, "Zoom Raises $100M Series D Financing," accessed March 2026. https://www.vcnewsdaily.com/zoom-video-communications/venture-capital-funding/dpxljlrhjl
 [^8]: Tracxn, "AME Cloud Ventures - 2026 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/ame-cloud-ventures/__wSbmvvuYrxfnvxCi0Ci26qj-e0bSOWZ2dStoQWZWGjE
+
+[^9]: TechCrunch, "Zoom Raises $6M Series A, Launches Version 1.0 Of Its Radically Different Virtual Conferencing Tool," January 28, 2013. Accessed July 2026. https://techcrunch.com/2013/01/28/zoom-raises-6m-series-a-launches-version-1-0-of-its-radically-different-virtual-conferencing-tool/ — Contemporaneous tier-1 tech press primary source; confirms Zoom's $6M Series A closed January 28, 2013 with Qualcomm Ventures, Jerry Yang, WebEx founder Subrah Iyar, and former Cisco SVP/GC Dan Scheinman.
+
+[^10]: TechCrunch, "Under the hood on Zoom's IPO, with founder and CEO Eric Yuan," May 17, 2019. Accessed July 2026. https://techcrunch.com/2019/05/17/under-the-hood-on-zooms-ipo-with-founder-and-ceo-eric-yuan/ — Eric Yuan (Zoom founder/CEO) directly credits AME Cloud Ventures as one of Zoom's earliest institutional investors alongside Qualcomm Ventures in the 2013 Series A. First-party confirmation of AME Cloud Ventures participation via the fund entity (not merely Jerry Yang personally).
+
+[^11]: TechCrunch, "Planet Labs Raises $52 Million From Yuri Milner To Build The Biggest (Little) Flock Of Satellites," December 18, 2013. Accessed July 2026. https://techcrunch.com/2013/12/18/planet-labs-52m-yuri-milner/ — Contemporaneous tier-1 tech press primary source confirming Planet Labs' $52M Series B on December 18, 2013 led by Yuri Milner with Industry Ventures, Felicis Ventures, Lux Capital, and Ray Rothrock as new co-investors. Explicitly names existing investors DFJ, Capricorn, OATV, Founders Fund, First Round Capital, Innovation Endeavors, Data Collective, and AME Cloud Ventures.
+
+[^12]: Business Wire, "Planet Labs Raises $52M Financing," December 18, 2013. Accessed July 2026. https://www.businesswire.com/news/home/20131218005375/en/Planet-Labs-Raises-52M-Financing — Planet Labs' own company primary press release confirming $52M Series B on December 18, 2013 led by Yuri Milner.
+
+[^13]: Wikipedia, "Nervana Systems." Accessed July 2026. https://en.wikipedia.org/wiki/Nervana_Systems — Confirms Nervana Systems' Series A ($20.5M, June 2015) was led by Data Collective with participation from Allen & Company, AME Cloud Ventures, Playground Global, CME Group, DFJ, Fuel Capital, Lux Capital, and Omidyar Network. Company founded 2014 in San Diego by CEO Naveen Rao, CTO Amir Khosrowshahi, and VP Algorithms Arjun Bansal; acquired by Intel August 9, 2016 for a reported ~$408M.
+
+[^14]: VentureBeat, "Deep learning startup Nervana raises $20.5M," June 4, 2015. Accessed July 2026. https://venturebeat.com/2015/06/04/deep-learning-startup-nervana-raises-20-5m/ — Contemporaneous tier-1 tech press primary source for the $20.5M Series A announcement dated June 4, 2015; article URL structure and multiple aggregator cross-references confirm the announcement date. AME Cloud Ventures explicitly named among Series A participants alongside Data Collective (lead), Allen & Company, Playground Global, CME Group, DFJ, Fuel Capital, Lux Capital, and Omidyar Network.
+
+[^15]: BusinessWire, "Cartography Secures $67 Million Series B Financing to Advance Differentiated Oncology Pipeline of Antibody-Based Therapies into the Clinic," October 2, 2025. Accessed July 2026. https://www.businesswire.com/news/home/20251002482177/en/Cartography-Secures-$67-Million-Series-B-Financing-to-Advance-Differentiated-Oncology-Pipeline-of-Antibody-Based-Therapies-into-the-Clinic — Confirms Pfizer-led $67M Series B with AME Cloud Ventures as participating existing investor; announcement date October 2, 2025.
+
+[^16]: FinSMEs, "Cartography Raises $67M in Series B Funding," October 2, 2025. Accessed July 2026. https://www.finsmes.com/2025/10/cartography-raises-67m-in-series-b-funding.html — Independent confirmation of Series B amount, lead investor (Pfizer), and AME Cloud Ventures participation.
+
+[^17]: Yahoo Finance / AccessWire, "Flint Raises $15M Series A to Personalize Learning for the AI-Native Generation," November 6, 2025. Accessed July 2026. https://finance.yahoo.com/news/flint-raises-15m-series-personalize-170000926.html — Confirms Series A announcement date of November 6, 2025; co-led by Basis Set Ventures and Patron; participants include USC Viterbi, AME Cloud Ventures, Afore Capital, and Y Combinator.
+
+[^18]: The AI Insider, "Flint Raises $15M Series A to Personalize Learning for the AI-Native Generation," November 27, 2025. Accessed July 2026. https://theaiinsider.tech/2025/11/27/flint-raises-15m-series-15m-series-a-to-personalize-learning-for-the-ai-native-generation/ — Independent press confirmation of Flint's $15M Series A with AME Cloud Ventures participation.
