@@ -20,15 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: CuspAI raises €393.2 million at €2.2 billion valuation; launches AI Materials
-    Foundry to accelerate materials discovery
-  url: https://www.eu-startups.com/2026/07/cuspai-raises-e393-2-million-at-e2-2-billion-valuation-launches-ai-materials-foundry-to-accelerate-materials-discovery/
-  source: eu-startups
-  date_found: '2026-07-20'
-  parsed_company: CuspAI
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: AmpliTech Receives Approximately $21.9 Million of Subscriptions in Series
     A Rights Offering
   url: https://www.globenewswire.com/news-release/2026/07/20/3329662/0/en/AmpliTech-Receives-Approximately-21-9-Million-of-Subscriptions-in-Series-A-Rights-Offering.html
@@ -72,22 +63,6 @@ pending_rounds:
   parsed_amount: $1.4B
   parsed_round: null
   status: pending
-- title: Wonder raised $650M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: Wonder
-  parsed_amount: $650M
-  parsed_round: Series D
-  status: pending
-- title: American Growth Insurance raised $70M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: American Growth Insurance
-  parsed_amount: $70M
-  parsed_round: null
-  status: pending
 - title: Fora raised $60M Series D
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -95,38 +70,6 @@ pending_rounds:
   parsed_company: Fora
   parsed_amount: $60M
   parsed_round: Series D
-  status: pending
-- title: Bunkerhill Health raised $55M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: Bunkerhill Health
-  parsed_amount: $55M
-  parsed_round: null
-  status: pending
-- title: Sable raised $45M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: Sable
-  parsed_amount: $45M
-  parsed_round: null
-  status: pending
-- title: Self Inspection raised $10M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: Self Inspection
-  parsed_amount: $10M
-  parsed_round: null
-  status: pending
-- title: Hyperion Robotics raised $7.4M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: Hyperion Robotics
-  parsed_amount: $7.4M
-  parsed_round: null
   status: pending
 - title: Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation
   url: https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/
