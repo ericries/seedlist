@@ -146,6 +146,7 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | Grand Games | Series A (led, $30M, 2025-01-09) → Series B (led, $70M Growth Fund, 2026-05-11) | 2025-01-09 | Gaming/Mobile Hybrid Casual | Active [^19][^20][^21] |
 | Geordie AI | Series A (led, $30M at ~$180M post-money) | 2026-05-28 | Cybersecurity / AI / Agent Governance | Active [^22] |
 | Tilt | Venture ($26M, follow-on; Vinted Ventures led) | 2026-06-02 | Consumer/Live Commerce | Active [^30] |
+| Prior Labs | Pre-Seed (led, €9M, 2025-02-05) | 2025-02-05 | AI / Tabular Foundation Models / Enterprise AI | Acquired by SAP (2026-07-17); SAP committed EUR 1B over four years [^priorlabs1][^priorlabs2][^priorlabs3] |
 
 This table represents approximately 51 of 275+ known investments (~19%). The portfolio is heavily skewed toward companies founded in the UK, with growing representation from Germany, France, and Turkey. Years shown are year of Balderton's first investment.
 
@@ -246,3 +247,9 @@ No additional independently sourced founder testimonials found beyond those publ
 [^any1]: Anytype blog, "Announcing our $13.4M Raise," August 23, 2023. Accessed July 2026. https://blog.anytype.io/anytype-raises-13-4million-usd-funding/ — Primary source: Anytype's own announcement of a $13.4M round on August 23, 2023, led by Balderton Capital with Inflection, Square One, Script Capital, Protocol Labs, Connect Ventures, New Forge, Foreword VC and angels including Trent McConnaghy, Jutta Steiner, Luis Cuendo, and Adam Wiggins. The round was described as oversubscribed four times; Colin Hanna from Balderton joined Anytype's board.
 
 [^any2]: Balderton Capital, "Anytype announces $13.4 million round following launch of open Beta," August 23, 2023. Accessed July 2026. https://www.balderton.com/news/anytype-announces-13-4-million-round-following-launch-of-open-beta/ — Balderton's own portfolio announcement confirming $13.4M raise on August 23, 2023, Balderton lead.
+
+[^priorlabs1]: Balderton Capital, "Prior Labs raises €9M to revolutionise how businesses interact with their tabular data," February 5, 2025. Accessed July 19, 2026. https://www.balderton.com/news/prior-labs-raises-e9m-to-revolutionise-how-businesses-interact-with-their-tabular-data/ — Balderton's own announcement confirming it led Prior Labs' €9M pre-seed on February 5, 2025, with XTX Ventures, Hector Foundation, Atlantic Labs, and Galion.exe participating; James Wise (Partner) provided investor commentary.
+
+[^priorlabs2]: Fortune, "Exclusive: Prior Labs gets $9.3 million 'pre-seed' round to build AI models that can analyze tables and spreadsheets," February 5, 2025. Accessed July 19, 2026. https://fortune.com/2025/02/05/prior-labs-9-million-euro-preseed-funding-tabular-data-ai/ — Independent primary press confirming Balderton-led €9M ($9.3M) pre-seed for Prior Labs, founded by Frank Hutter, Noah Hollmann, and Sauraj Gambhir.
+
+[^priorlabs3]: SAP News Center, "SAP Completes Prior Labs Acquisition," July 17, 2026. Accessed July 19, 2026. https://news.sap.com/2026/07/sap-completes-prior-labs-acquisition/ — Confirms SAP completed the Prior Labs acquisition on July 17, 2026, and committed more than €1 billion over four years to scale the company as an independent frontier AI lab within SAP.

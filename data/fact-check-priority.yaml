@@ -1,4 +1,22 @@
 priority:
+- slug: andreessen-horowitz
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-19: REMOVED Anthropic row from andreessen-horowitz.md portfolio table. Row was "| Anthropic | Growth | 2023 | AI | Private [^10] |" — [^10] is a GrowthList aggregator citation (same failure mode that produced the earlier Groq and Vanta removals). Verified via 3 independent primary sources that a16z has NOT invested in Anthropic: (1) Yahoo Finance/Fortune "AI investor loyalty is (almost) dead" (Feb 2026) explicitly states "Andreessen Horowitz backs OpenAI but not (yet) Anthropic" and enumerates the OpenAI-and-also-Anthropic backers (Founders Fund, Iconiq, Insight Partners, Sequoia, D1, Fidelity, TPG, BlackRock) — a16z is NOT on that list; (2) Anthropic's own Series C press release (May 23, 2023) names Google, Salesforce Ventures, Sound Ventures, Zoom Ventures, Spark Capital, Menlo Ventures — no a16z; (3) Crunchbase News Anthropic $183B/Series funding round coverage lists Iconiq, Altimeter, Dragoneer, Greenoaks, Sequoia, Capital Group, Coatue, D1, GIC, Iconiq, Xn Ventures as leads — no a16z. Consistent with Groq (removed 2026-07-04) and Vanta (removed prior sweep) precedent for GrowthList aggregator false positives.'
+  added: 2026-07-19
+  status: resolved
+  resolved: 2026-07-19
+- slug: capitalg
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-19: tightened Armis row on capitalg.md from "Growth | 2025" to "Pre-IPO ($435M at $6.1B valuation; Growth Equity at Goldman Sachs Alternatives led; Evolution Equity Partners new; CapitalG participated as major existing investor; Derek Zanutto quote on repeat participation since 2019) | 2025-11-05" via 3 primary sources: existing BusinessWire [^43] + NEW TechCrunch [^65] (2025-11-05 tier-1 press) + NEW Goldman Sachs Asset Management press release [^66] (lead-investor primary source with Derek Zanutto quote). Round targets late 2026/early 2027 IPO; Armis crossed $300M ARR.'
+  added: 2026-07-19
+  status: resolved
+  resolved: 2026-07-19
+- slug: future-shape
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-19: tightened Nabla row on future-shape.md from "Series C | 2025" to "Series C ($70M; HV Capital led; Highland Europe key participant; DST Global new; Cathay Innovation and Build Collective/Fadell as existing investors; brings total funding to $120M) | 2025-06-17" via 3 primary sources: existing PRNewswire [^23] + NEW Highland Europe (co-participant) [^44] + NEW FierceHealthcare [^45]. Note: Future Shape now operates as Build Collective (per tony-fadell.md) — primary press names "Build Collective" as Fadell''s vehicle; entities are the same. Advisors include Yann LeCun (Meta) and Tony Fadell.'
+  added: 2026-07-19
+  status: resolved
+  resolved: 2026-07-19
 - slug: khosla-ventures
   type: firm
   reason: 'Fact-spec sweep 2026-07-19: (A) Added third primary source (Pulse 2) to State Affairs row and third primary source (Axios Pro Rata) to Singularity row on khosla-ventures.md; tightened both rows to include full syndicate detail. State Affairs Growth (USD 70M, 2026-07-14) verified via PR Newswire + Yahoo Finance + Pulse 2. Singularity Series A (USD 80M at USD 400M post-money, 2026-07-14) verified via BusinessWire + SiliconANGLE + Axios. Parallel updates on state-affairs.md and singularity-defense.md. (B) Deeper portfolio sweep: tightened 3 vague rows via 3+ primary sources each. NUTANIX: "Series B | ~2011" → "Series B (led, USD 25M; Lightspeed + Blumberg Capital participated) | 2011-10-25" via Nutanix press [^55] + SiliconANGLE [^56] + GlobeNewswire [^57]. RAMP: "Early | ~2019 (founded)" → "Series D-2 (co-led with Founders Fund, USD 150M at USD 7.65B post; Keith Rabois led for Khosla; Sequoia, Greylock, 8VC participated) | 2024-04-17" via TechCrunch [^58] + Ramp blog [^59] + Latham & Watkins [^60]. BLUE RIVER TECHNOLOGY: "Early | ~2011 (founded)" → "Series A (led, USD 3.1M; Steve Blank, Ulu Ventures, Stanford Angels participated) | 2012-09-10" via TechCrunch [^61] + Business Wire [^62] + PE Hub [^63]. 9 new footnotes added ([^55]-[^63]). Cognition, Physical Intelligence, Impossible Foods left as-is (could not confirm Khosla via 3 primary sources).'
@@ -2950,4 +2968,20 @@ priority:
 - slug: northzone
   type: firm
   reason: appeared in microagi Seed (2026-07-16), $55M — participated alongside Hummingbird lead
+  added: 2026-07-19
+- slug: kleiner-perkins
+  type: firm
+  reason: appeared in TerraFirma Series A (2026-07-14), $115M — led the $100M Series A within a $115M total round; SpaceX-alumni construction robotics
+  added: 2026-07-19
+- slug: insight-partners
+  type: firm
+  reason: appeared in TytoCare Growth (2026-07-15), $25M+ — led oversubscribed growth round; new CEO Adam Pellegrini
+  added: 2026-07-19
+- slug: jeff-horing
+  type: investor
+  reason: appeared in TytoCare Growth (2026-07-15), $25M+ — Horing quoted on diagnostic-fidelity thesis
+  added: 2026-07-19
+- slug: balderton-capital
+  type: firm
+  reason: Prior Labs (pre-seed lead 2025-02-05, €9M) exited to SAP on 2026-07-17 with EUR 1B four-year SAP commitment — reflect exit in portfolio
   added: 2026-07-19

@@ -1,10 +1,10 @@
 ---
 check_size: $10M-$350M
 firm: insight-partners
-last_researched: 2026-03-20
+last_researched: 2026-07-19
 last_verified_investment:
-  company: Wiz
-  date: 2025
+  company: TytoCare
+  date: 2026-07-15
   round: Growth
 location: New York, NY
 name: Jeff Horing
@@ -106,6 +106,7 @@ The analysis below is based on 14 verified investments attributed to Horing or t
 | Conga | Growth | ~2016 | Revenue operations / SaaS | Active | [^1] |
 | DocuSign | Growth | ~2015 | E-signature / SaaS | IPO (DOCU) | [^1] |
 | Jagex | Growth | ~2012 | Online gaming | Active | [^5] |
+| TytoCare | Growth ($25M+, led; oversubscribed) | 2026-07-15 | Digital Health / Remote Care / AI Diagnostics | Active | [^tyto1][^tyto2] |
 
 *Years marked with ~ are approximate based on available information. This table represents investments publicly attributed to Horing, not the full Insight Partners portfolio of 875+ companies.*
 
@@ -145,3 +146,7 @@ No independently sourced founder testimonials found. Despite Insight's scale (87
 [^8]: Wikipedia, "Insight Partners," accessed March 2026. https://en.wikipedia.org/wiki/Insight_Partners
 [^9]: Crunchbase, "Jeff Horing Person Profile," accessed March 2026. https://www.crunchbase.com/person/jeff-horing
 [^10]: Crunchbase News, "Insight Partners Collects $12.5B For New Funds," January 2025, accessed March 2026. https://news.crunchbase.com/venture/insight-partners-flagship-fund-13-raise/
+
+[^tyto1]: Insight Partners, "TytoCare Names Adam Pellegrini as CEO and Closes $25M+ Growth Round to Scale AI-First Clinical Enablement Platform," July 15, 2026. Accessed July 19, 2026. https://www.insightpartners.com/ideas/tytocare-names-adam-pellegrini-as-ceo-and-closes-25m-growth-round-to-scale-ai-first-clinical-enablement-platform/ — Insight's own announcement includes an investor quote from Jeff Horing on the diagnostic-fidelity thesis and confirms Insight led the oversubscribed $25M+ growth round.
+
+[^tyto2]: TytoCare press release, "TytoCare Names Adam Pellegrini as CEO and Closes $25M+ Growth Round to Scale AI-First Clinical Enablement Platform," July 15, 2026. Accessed July 19, 2026. https://www.tytocare.com/news-and-press/tytocare-names-adam-pellegrini-as-ceo-and-closes-25m-growth-round-to-scale-ai-first-clinical-enablement-platform/ — TytoCare's own release; Jeff Horing quoted on behalf of Insight Partners.
