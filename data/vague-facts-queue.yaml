@@ -257,7 +257,9 @@ vague_facts:
   line: '| Marathon Fusion | Seed (co-lead) | 2024-07-18 | Fusion Energy | [^22] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: 'Fact-spec sweep 2026-07-19: tightened Marathon Fusion row on 1517-fund.md from "Seed (co-lead) | 2024-07-18" to "Seed (co-led with Anglo American, USD 5.9M; Übermorgen Ventures + Shared Future Fund + Malcolm Handley participated; DOE ARPA-E CREATE award brings total funding to USD 6.9M) | 2024-07-18" via 3 primary sources: existing PR Newswire [^22] + NEW FinSMEs [^71] + NEW VCNewsDaily [^72]. All three confirm USD 5.9M seed on 2024-07-18 co-led by 1517 Fund and Anglo American with named participants.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Trilobio
@@ -279,7 +281,9 @@ vague_facts:
   line: '| Solideon | Seed | 2024-10-28 | Deep Tech / 3D Printing | [^23][^39] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: 'Fact-spec sweep 2026-07-19: CORRECTED Solideon row on 1517-fund.md from "Seed | 2024-10-28" to "Pre-Seed (oversubscribed beyond USD 5M initial target; 8090 Industries + 1517 Fund + Stellar Ventures + Boost VC + 10X Founders + Pathbreaker Ventures + AIN Ventures + Tiny VC + MD One Ventures + Reinforced Ventures + Techstars Space + Capital Factory + Vibe Capital + Gaingels participated; no single lead named in primary press) | 2024-07-17" via 3 NEW primary sources: [^73] Yahoo Finance/AccessNewswire company press release + [^74] AccessNewswire canonical + [^75] 3D Adept Media trade press. Both round type (Pre-Seed, not Seed) AND date (2024-07-17, not 2024-10-28) were wrong in the profile. The prior [^39] TechCrunch 2024-10-28 URL is NOT a round announcement — it is a company profile piece that mentions "USD 6.5M raised to date" retrospectively. Cited existing [^23][^39] retained for context; new primary sources [^73][^74][^75] anchor the actual pre-seed announcement.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Ceragen
@@ -289,7 +293,9 @@ vague_facts:
   line: '| Ceragen | Seed | 2024-07-16 | Biotech | [^24][^40] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-19
+  resolution_note: 'Fact-spec sweep 2026-07-19: tightened Ceragen row on 1517-fund.md from "Seed | 2024-07-16" to "Seed (co-led with Divergent Capital; USD 2.7M CAD / USD 2M USD; Ajira Ventures participated; brings total funding to USD 4.8M CAD / USD 3.5M USD including prior Velocity Fund + Ontario Centre of Innovation backing; 1517 named as existing investor) | 2024-07-16" via 3 primary sources: existing Crunchbase [^40] (round profile date anchor) + NEW BetaKit [^76] (Canadian tech trade press with full syndicate detail and SAFE/equity financing structure) + NEW iGrow News [^77] (independent agriculture trade press confirming USD 2M USD figure). Both currencies preserved per CLAUDE.md rule.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Miist Therapeutics
