@@ -163356,7 +163356,9 @@ vague_facts:
   line: '| Grant/Seed | Dec 2015 | $130M | N/A | N/A | Elon Musk, Sam Altman, Peter Thiel, Reid Hoffman, AWS [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec 2026-07-20: The Dec 11, 2015 OpenAI founding was a non-profit launch with $1B in pledged commitments (of which only ~$133M was actually received per subsequent tax filings). The Valuation column is legitimately N/A because a non-profit receiving donation-style commitments does not have an equity valuation. The Lead column is legitimately N/A because there were 8+ named co-founders/donors (Musk, Altman, Brockman, Hoffman, Livingston, Thiel, AWS, Infosys) contributing to a pooled pledge, not a priced-round with a lead. Per anti-hallucination rule ("when in doubt, leave it out"), no fabricated valuation or lead has been added. Left row unchanged; the N/A entries accurately reflect that this was not a priced equity round.'
 - profile: startups/openai
   profile_name: OpenAI
   company: Series D (Microsoft)
@@ -163378,7 +163380,9 @@ vague_facts:
   line: '| Microsoft Investment | Jan 2023 | $10B | $29B | Microsoft | N/A [^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec 2026-07-20: tightened OpenAI Jan 2023 Microsoft Investment row on 3 dimensions. (1) Date: Jan 2023 → 2023-01-23 (exact announcement date confirmed via TechCrunch [^20] and Fortune [^21]). (2) Amount: added multi-year commitment structure clarification. (3) Valuation: clarified that $29B was reported by third-party sources, not officially confirmed in the Microsoft press release itself. (4) Co-Investors column: changed bare "N/A" to "None named in official announcement (Microsoft-only tranche)" — TechCrunch and Fortune contemporaneous coverage names ONLY Microsoft as the investor; no co-investors participated in this Jan 2023 tranche. The subsequent $300M secondary in April 2023 (Thrive-led with Sequoia/a16z/Tiger/Founders Fund/K2 Global) is documented separately on the profile as Series E (Tender Offer) row. Two new footnotes added ([^20] TechCrunch, [^21] Fortune).'
 - profile: startups/openai
   profile_name: OpenAI
   company: Secondary/Tender
@@ -163388,7 +163392,9 @@ vague_facts:
   line: '| Secondary/Tender | Oct 2025 | $6.6B | $500B | N/A | Various [^7] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec 2026-07-20: tightened OpenAI Oct 2025 Secondary/Tender row via 3 independent primary sources. (1) Date: Oct 2025 → 2025-10-02 (finalization date confirmed by CNBC/Crunchbase News). (2) Amount: added "$6.6B (of $10.3B authorized)" — CNBC and Crunchbase both confirm only ~two-thirds of the $10.3B ceiling was ultimately sold. (3) Lead column: changed bare "N/A" to "Investor group (no single lead named)" — Fortune Aug 16, 2025 [^22] describes it verbatim as "an investor group that includes Thrive Capital, SoftBank Group Corp. and Dragoneer Investment Group" without designating a single lead. (4) Co-Investors column: changed "Various" to specific named institutional buyers: Thrive Capital, SoftBank Group, Dragoneer Investment Group, MGX (Abu Dhabi), T. Rowe Price. Sources: Fortune 2025-08-16 [^22] (pre-close reporting naming Thrive/SoftBank/Dragoneer), Crunchbase News 2025-10-02 [^23] ($6.6B/$500B close confirmation). Also relabeled row from bare "Secondary/Tender" to "Secondary/Tender (Employee Share Sale)" to disambiguate from primary rounds. Two new footnotes added ([^22] Fortune, [^23] Crunchbase News).'
 - profile: startups/openobserve
   profile_name: OpenObserve
   company: '2026-04-29'
