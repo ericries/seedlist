@@ -152,7 +152,7 @@ The following table includes Coatue investments verified through the firm's port
 | Snap (Snapchat) | Series C | 2013 | Consumer / Social | Public (IPO 2017) [^19] |
 | DoorDash | Growth | 2018 | Marketplace / Delivery | Public (IPO 2020) [^20] |
 | Instacart | Series E (Led) | 2018 | Marketplace / Delivery | Public (IPO 2023) [^21] |
-| Airtable | Series C | 2018 | Enterprise SaaS / No-Code | Private [^26] |
+| Airtable | Series C (Co-Led by Coatue with Thrive Capital + Benchmark; $100M at $1.1B post-money; angels Delphine Arnault, Emily Weiss, Alexa Von Tobel, Sarah Smith, Dan Rose; existing investors CRV and Caffeinated Capital participated) | 2018-11-15 | Enterprise SaaS / No-Code | Private [^26][^70][^71][^72] |
 | Databricks | Series E | 2019 | Data & AI | Private [^27] |
 | Databricks (follow-on) | Strategic (Led, ~$3B at $188B post; term sheet signed, expected close summer 2026; Coatue was existing investor since Series E 2019) | 2026-07-16 | Data & AI | Private [^67][^68][^69] |
 | Chime | Series F | 2020 | Fintech / Neobank | Private [^28] |
@@ -164,8 +164,8 @@ The following table includes Coatue investments verified through the firm's port
 | Ant Group | Growth | ~2018 | Fintech | Private [^12] |
 | BOSS Zhipin | Growth | ~2019 | HR / Recruitment | Public [^12] |
 | Applied Intuition | Growth | ~2021 | Autonomous / Simulation | Private [^12] |
-| Attentive | Series D (Led) | 2021 | Enterprise SaaS / Marketing | Private [^30] |
-| Deel | Series D | 2021 | HR / Payroll | Private [^31] |
+| Attentive | Series D (Led by Coatue as existing investor; $230M at $2.2B post-money; Tiger Global, Wellington Management, D1 Capital, Atomico, Sozo Ventures new; Bain Capital Ventures, Sequoia, Sequoia Global Equities, IVP, Eniac, NextView, High Alpha, Sapphire Ventures continued) | 2020-09-23 | Enterprise SaaS / Marketing | Private [^30][^73][^74] |
+| Deel | Series D (Led by Coatue — Rahul Kishore + Lucas Swisher; $425M at $5.5B post-money; Altimeter Capital, Andreessen Horowitz, Y Combinator Continuity, Spark Capital, Greenbay Ventures, Neo participated) | 2021-10-18 | HR / Payroll | Private [^31][^75][^76][^77] |
 | CoreWeave | Series C (Led) | 2024-05-01 | AI Infrastructure / Cloud | Public (IPO 2025) [^22][^44][^45] |
 | Stability AI | Seed (Co-Led) | 2022 | AI / Generative | Private [^25] |
 | OpenAI | Growth (participated) | 2025-03-31 | AI | Private [^23][^52][^53] |
@@ -369,3 +369,19 @@ No independently sourced negative or critical founder testimonials were found in
 [^68]: TechCrunch (Marina Temkin), "Databricks hits $188B valuation, extending its run as AI's favorite second act," July 17, 2026, accessed July 20, 2026. https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/ — Contemporaneous tier-1 press confirming ~$3B strategic round at $188B valuation led by Coatue, up from $134B in February 2026. Confirms the round has not closed ("the money isn't in its hands yet") and is expected to close later summer 2026.
 
 [^69]: SiliconANGLE, "Databricks raising new funding at $188B valuation," July 17, 2026, accessed July 20, 2026. https://siliconangle.com/2026/07/17/databricks-raising-new-funding-188b-valuation/ — Third independent primary confirmation of ~$3B strategic round at $188B post-money valuation led by Coatue with term sheet signed and close expected later in 2026.
+
+[^70]: TechCrunch (Ingrid Lunden), "Airtable, maker of a coding platform for non-techies, raises $100M at a $1.1B valuation," November 15, 2018, accessed July 20, 2026. https://techcrunch.com/2018/11/15/airtable-maker-of-a-coding-platform-for-non-techies-raises-100m-at-a-1-1b-valuation/ — Contemporaneous tier-1 press confirming exact November 15, 2018 announcement of Airtable's $100M Series C at $1.1B post-money valuation, co-led by Thrive Capital, Benchmark, and Coatue Management. Names Josh Kushner (Thrive), Peter Fenton (Benchmark), and Philippe and Thomas Laffont (Coatue) as deal partners. Cumulative raised of $170M at close.
+
+[^71]: Forbes (Steven Bertoni), "Move Slow And Make Things: Airtable's Howie Liu Built A $1B Software Giant Emphasizing Substance Over Speed," November 15, 2018, accessed July 20, 2026. https://www.forbes.com/sites/stevenbertoni/2018/11/15/move-slow-and-make-things-airtables-howie-liu-built-a-1b-software-giant-emphasizing-substance-over-speed/ — Independent tier-1 confirmation of November 15, 2018 Series C at $1.1B valuation, naming Coatue Management among the three co-leads alongside Thrive Capital and Benchmark. Also names angel investors Delphine Arnault, Emily Weiss, Alexa Von Tobel, Sarah Smith, and Dan Rose.
+
+[^72]: CRV Team blog (Saar Gur), "Airtable's $1.1bn valuation funding round," November 15, 2018, accessed July 20, 2026. https://medium.com/crv-insights/airtables-1-1bn-valuation-funding-round-9e616221a613 — Existing-investor primary source confirming CRV's continued participation in the Series C and independently confirming the $100M Series C led by Coatue, Thrive, and Benchmark at $1.1B post-money.
+
+[^73]: Attentive company blog (official announcement), "Attentive Raises $230 Million Series D Investment, Led by Coatue," September 23, 2020, accessed July 20, 2026. https://www.attentive.com/blog/attentive-raises-230-million-series-d-investment-led-by-coatue — Company's own announcement of Series D $230M raise led by Coatue (existing investor) at $2.2B post-money. Names Tiger Global, Wellington Management, D1 Capital Partners, Atomico, and Sozo Ventures as new investors, with Bain Capital Ventures, Sequoia, Sequoia Global Equities, IVP, Eniac, NextView, High Alpha, and Sapphire Ventures as existing investors continuing. Cumulative raised of $394M at close. Corrects prior "2021" year on this row — Attentive's Series D was 2020-09-23, and its 2021 raise was a separate $470M Series E in March 2021 (Coatue also participated).
+
+[^74]: Forbes (Kenrick Cai), "Text Marketing Startup Attentive Hits $2.2 Billion Valuation With Its Third Funding Announcement Of 2020," September 23, 2020, accessed July 20, 2026. https://www.forbes.com/sites/kenrickcai/2020/09/23/attentive-messaging-marketing-startup-series-d-billion-valuation/ — Independent tier-1 confirmation of September 23, 2020 Series D at $230M, $2.2B post-money, Coatue lead. Notes this was Attentive's third funding announcement of 2020.
+
+[^75]: TechCrunch (Mary Ann Azevedo), "With customers like Coinbase and Shopify, remote hiring startup Deel raises $425M at a $5.5B valuation," October 18, 2021, accessed July 20, 2026. https://techcrunch.com/2021/10/18/with-customers-like-coinbase-and-shopify-remote-hiring-startup-deel-raises-425m-at-a-5-5b-valuation/ — Contemporaneous tier-1 press confirming exact October 18, 2021 announcement of Deel's $425M Series D at $5.5B post-money valuation, Coatue leading. Names Coatue partners Rahul Kishore and Lucas Swisher. Names Altimeter Capital, Andreessen Horowitz, Y Combinator Continuity Fund, Spark Capital, Greenbay Ventures, and Neo among participants. Cumulative raised of $631M at close.
+
+[^76]: GlobeNewswire (official Deel press release), "Deel Raises $425M in Series D funding to continue transforming the future of work," October 18, 2021, accessed July 20, 2026. https://www.globenewswire.com/news-release/2021/10/18/2315776/0/en/Deel-Raises-425M-in-Series-D-funding-to-continue-transforming-the-future-of-work.html — Company's own primary announcement of the $425M Series D at $5.5B post-money valuation led by Coatue with participation from Altimeter, a16z, YC Continuity, Spark Capital, Greenbay, and Neo.
+
+[^77]: PYMNTS, "Deel Nets $425M in Series D Funding," October 18, 2021, accessed July 20, 2026. https://www.pymnts.com/news/investment-tracker/2021/deel-nets-425m-in-series-d-funding/ — Third independent primary confirmation of October 18, 2021 Deel Series D at $425M and $5.5B post-money valuation with Coatue as lead.

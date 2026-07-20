@@ -88,11 +88,11 @@ Based on 30 verified investments from the portfolio table below:
 | Accelerate Learning | Growth | ~2015 | PreK-12 / STEM | Acquired (Carlyle Group) [^7] |
 | DreamBox Learning | Series B (lead) | 2015 | PreK-12 / Adaptive Math | Acquired (Discovery Education, 2023) [^9] |
 | Quizlet | Series A | 2015 | Higher Ed / Study Tools | Active [^17] |
-| Codecademy | Growth | ~2017 | Workforce / Coding | Acquired (Skillsoft, $525M, 2021) [^8] |
+| Codecademy | Series D (Led by Owl Ventures; $40M; Prosus and Union Square Ventures participated) | 2021-02-23 | Workforce / Coding | Acquired (Skillsoft, $525M, December 2021) [^8][^39][^40][^41] |
 | Degreed | Series C (co-lead) | 2018 | Workforce / Upskilling | Active [^18] |
 | Kiddom | Series B (lead) | 2018 | PreK-12 / Curriculum | Active [^19] |
 | BYJU'S | Growth | 2019 | PreK-12 / Tutoring | Active [^20] |
-| Labster | Growth | ~2019 | Higher Ed / VR Labs | Active [^4] |
+| Labster | Series B (Led by Owl Ventures; $21M; Balderton Capital, Northzone, and Swisscom Ventures joined as new co-investors; existing backers Nordic Makers, David Helgason, EduCapital, and Entangled Group followed on) | 2019-04-25 | Higher Ed / VR Labs | Active [^4][^42][^43][^44] |
 | Apna | Series C | 2021 | Workforce / Jobs Platform | Active [^21] |
 | MasterClass | Series E | 2020 | Workforce / Online Learning | Active [^22] |
 | Hazel Health | Series C (co-lead) | 2020 | PreK-12 / School Telehealth | Active [^23] |
@@ -111,7 +111,7 @@ Based on 30 verified investments from the portfolio table below:
 | Jotit | Seed (lead) | 2025 | PreK-12 / Digital Paper | Active [^32] |
 | Tetr College | Series A (co-lead) | 2025 | Higher Ed / Global B-School | Active [^33] |
 | Starbridge | Series A | 2025 | Education / AI | Active [^34] |
-| Classplus | Growth | ~2021 | PreK-12 / Educator Platform | Active [^1] |
+| Classplus | Series D extension (Owl Ventures joined the extension; per Entrackr scoop investing ~$5-7M; the initial March 2022 $70M Series D was co-led by Alpha Wave Global + Tiger Global, with Chimera Ventures + RTP Global) | 2022 | PreK-12 / Educator Platform | Active [^1][^45] |
 | Coala | Growth | ~2021 | PreK-12 / School Telehealth | Active [^1] |
 | Hoytrabajas | Growth | ~2021 | Workforce / Talent Platform | Active [^1] |
 | DeweyLearn | Series A (participated; $5M oversubscribed; SJF Ventures led; Catalysis Capital + Morningside also participated) | 2026-07-16 | EdTech+ / Multimodal AI / Skills Assessment | Active [^36][^37][^38] |
@@ -204,3 +204,17 @@ This table represents approximately 31 of 100+ known portfolio companies (~31%).
 [^36]: PR Newswire, "DeweyLearn Secures $5 Million in Series A Funding to Scale AI That Assesses Real-World Skill at Expert Level," July 16, 2026, accessed July 20, 2026. https://www.prnewswire.com/news-releases/deweylearn-secures-5-million-in-series-a-funding-to-scale-ai-that-assesses-real-world-skill-at-expert-level-302827161.html — DeweyLearn's own announcement (via PR Newswire) of the $5M oversubscribed Series A led by SJF Ventures with participation from Catalysis Capital, Morningside, and Owl Ventures, among others. Names Luyen Chou (CEO) and Dirk Liebich (CTO) as co-founders.
 [^37]: Yahoo Finance / Business Wire, "DeweyLearn Secures $5 Million in Series A Funding to Scale AI That Assesses Real-World Skill at Expert Level," July 16, 2026, accessed July 20, 2026. https://finance.yahoo.com/technology/ai/articles/deweylearn-secures-5-million-series-130000894.html — Independent primary confirmation of the July 16, 2026 announcement with Owl Ventures named among the participating investors alongside SJF Ventures (lead), Catalysis Capital, and Morningside.
 [^38]: Pulse 2.0, "DeweyLearn Raises $5 Million Series A To Scale AI-Powered Skills Assessment," July 16, 2026, accessed July 20, 2026. https://pulse2.com/deweylearn-raises-5-million-series-a-to-scale-ai-powered-skills-assessment/ — Third independent primary source confirming the July 16, 2026 date, $5M amount (oversubscribed), SJF Ventures as lead, and Owl Ventures among the participating investors alongside Catalysis Capital and Morningside.
+
+[^39]: PR Newswire (Codecademy official press release), "Codecademy Raises $40M in Series D Funding," February 23, 2021, accessed July 20, 2026. https://www.prnewswire.com/news-releases/codecademy-raises-40m-in-series-d-funding-301233592.html — Company's own announcement of the $40M Series D led by Owl Ventures with participation from Prosus and Union Square Ventures. Includes quote from Amit Patel of Owl Ventures. Corrects prior "Growth ~2017" row characterization — Owl's Codecademy investment was a 2021 Series D lead, not a 2017 growth round.
+
+[^40]: TechCrunch (Natasha Mascarenhas), "Codecademy eyes the enterprise with $40 million in new capital," February 23, 2021, accessed July 20, 2026. https://techcrunch.com/2021/02/23/codecademy-series-d/ — Contemporaneous tier-1 press confirming exact February 23, 2021 announcement of the $40M Series D led by Owl Ventures with Prosus and Union Square Ventures participating.
+
+[^41]: Owl Ventures news page, "Codecademy eyes the enterprise with $40 million in new capital," February 2021, accessed July 20, 2026. https://www.owlvc.com/news-codecademy.php — Owl Ventures' own news page linking to the Codecademy Series D coverage, confirming Owl led the round.
+
+[^42]: PR Newswire (Labster official press release), "Labster Secures $21MM In Series B To Massively Expand Virtual Lab Catalog And Scale U.S. Operations," April 25, 2019, accessed July 20, 2026. https://www.prnewswire.com/news-releases/labster-secures-21mm-in-series-b-to-massively-expand-virtual-lab-catalog-and-scale-us-operations-300837775.html — Company's own announcement of the $21M Series B led by Owl Ventures with new co-investors Balderton Capital, Northzone, and Swisscom Ventures, and follow-on from existing investors Nordic Makers, David Helgason, EduCapital, and Entangled Group. Includes quote from Tory Patterson of Owl Ventures. Corrects prior "Growth ~2019" row — Owl's Labster investment was a Series B lead on April 25, 2019.
+
+[^43]: TechCrunch (Natasha Lomas), "Labster scores $21M Series B to bring VR to STEM education," April 25, 2019, accessed July 20, 2026. https://techcrunch.com/2019/04/25/labster-series-b/ — Contemporaneous tier-1 press confirming April 25, 2019 announcement of the $21M Series B led by Owl Ventures with Balderton, Northzone, and Swisscom Ventures as new co-investors.
+
+[^44]: Balderton Capital press release (co-investor primary source), "Labster Secures $21M Series B to Scale U.S. Operations and Expand Virtual Lab Catalogue," April 25, 2019, accessed July 20, 2026. https://www.balderton.com/news/labster-secures-21m-series-b-to-scale-u-s-operations-and-expand-virtual-lab-catalogue/ — Third independent primary source (from a named co-investor) confirming Owl Ventures led the $21M Series B on April 25, 2019 with Balderton Capital, Northzone, and Swisscom Ventures joining as new investors.
+
+[^45]: Entrackr (exclusive scoop), "Classplus to raise fresh funds; conducts share buyback program," April 2022, accessed July 20, 2026. https://entrackr.com/2022/04/exclusive-classplus-to-raise-fresh-funds-conducts-share-buyback-program/ — Reports Owl Ventures investing $5-7M in an ongoing Series D extension. Note: only 2 independent primary sources confirm Owl's specific participation (this Entrackr scoop and Owl's own portfolio listing); no tier-1 press release or company announcement was located. The initial March 2022 $70M Series D (co-led by Alpha Wave Global + Tiger Global, with Chimera Ventures + RTP Global) did NOT include Owl Ventures per TechCrunch coverage (https://techcrunch.com/2022/03/28/indias-classplus-raises-70-million-to-help-teachers-and-creators-expand-their-reach/). Corrects prior "~2021" year — no evidence Owl participated in the Classplus June 2021 Series C ($65M Tiger Global-led). Row remains lower-confidence than others due to thin primary-source trail.
