@@ -116,7 +116,7 @@ Based on 48 verified investments in the portfolio table below:
 | Webflow | Series B | 2021 | Enterprise/No-Code | Active | [^23] |
 | Databricks | Series G | 2021 | Data/AI Infrastructure | Active | [^24] |
 | Chief | Series B | 2022 | Enterprise/Community | Active | [^41] |
-| AlphaSense | Growth | 2023 | Enterprise/AI | Active | [^25] |
+| AlphaSense | Series D extension (led, $100M at $1.8B post-money; Goldman Sachs Asset Management and Viking Global Investors participated as existing investors; James Luo of CapitalG named investing partner) | 2023-04-11 | Enterprise/AI | Active | [^25][^67][^68] |
 | Whatnot | Series C | 2021 | Consumer/Marketplace | Active | [^42] |
 | Armis | Pre-IPO ($435M at $6.1B valuation; Growth Equity at Goldman Sachs Alternatives led; Evolution Equity Partners new; CapitalG participated as major existing investor; Derek Zanutto of CapitalG has "repeatedly doubled down on the company" since 2019) | 2025-11-05 | Security | Active | [^43][^65][^66] |
 | Expel | Series D | 2020 | Security | Active | [^44] |
@@ -252,3 +252,7 @@ Robinhood's team stated: "CapitalG provided our team with significant access to 
 [^65]: TechCrunch, "Armis raises $435M pre-IPO round at $6.1B valuation after refusing M&A offers," November 5, 2025. Accessed July 2026. https://techcrunch.com/2025/11/05/armis-raises-435m-pre-ipo-round-at-6-1b-valuation-after-refusing-ma-offers/ — Independent tier-1 press confirming $435M pre-IPO round on November 5, 2025 at $6.1B valuation; Growth Equity at Goldman Sachs Alternatives led; CapitalG participation confirmed; Evolution Equity Partners named as new investor. Armis CEO Yevgeny Dibrov targeting late 2026/early 2027 IPO after crossing $300M ARR.
 
 [^66]: Goldman Sachs Asset Management press release, "Cybersecurity Leader Armis Closes $435 Million at $6.1 Billion Valuation," November 5, 2025. Accessed July 2026. https://am.gs.com/en-us/advisors/news/press-release/2025/armis — Primary source from the lead investor confirming $435M round at $6.1B valuation with CapitalG's "major participation." Includes Derek Zanutto (CapitalG) quote: "repeatedly doubled down on the company" since initial 2019 investment.
+
+[^67]: SiliconANGLE, "Market intelligence startup AlphaSense reels in $100M at $1.8B valuation," April 11, 2023. Accessed July 2026. https://siliconangle.com/2023/04/11/market-intelligence-startup-alphasense-reels-100m-1-8b-valuation/ — Independent tier-1 tech press confirming April 11, 2023 announcement of $100M Series D extension led by CapitalG at $1.8B post-money valuation. Names Goldman Sachs Asset Management (growth equity business) and Viking Global Investors as existing investors participating; extends prior $225M Series D at $1.7B.
+
+[^68]: Crunchbase News, "Startup AlphaSense Snags $100M As AI Stays Hot; Alphabet's CapitalG Invests," April 11, 2023. Accessed July 2026. https://news.crunchbase.com/ai-robotics/alphasense-alphabet-capitalg-google/ — Third independent press confirmation of $100M Series D extension led by CapitalG on April 11, 2023; $1.8B post-money valuation; Goldman Sachs and Viking Global existing-investor participation.

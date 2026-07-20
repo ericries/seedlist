@@ -4,6 +4,10 @@ firms:
   round: series-g
   slug: capitalg
   year: 2026
+- date: 2023-04-11
+  round: series-d-extension
+  slug: capitalg
+  year: 2023
 - round: Series E
   slug: bond
   year: 2023
@@ -61,7 +65,7 @@ AlphaSense is an AI-powered market intelligence and search platform founded in 2
 | 2026-06-03 | Series G | $350M | Vitruvian Partners, Accenture Ventures, J.P. Morgan Asset Management | D. E. Shaw Ventures, Pinegrove Opportunity Partners, CapitalG, Goldman Sachs Alternatives, Viking Global Investors [^1] [^2] [^3] |
 | 2024-06 | Series F | $650M | Viking Global Investors, BDT & MSD Partners | [^5] |
 | 2023-09 | Series E | $150M | BOND | [^5] |
-| 2023-04 | Series D (2nd close) | $100M | CapitalG | [^5] |
+| 2023-04-11 | Series D extension | $100M | CapitalG | Goldman Sachs Asset Management, Viking Global Investors (existing investors) [^6] [^7] [^8] |
 | 2022-06 | Series D (1st close) | $225M | Goldman Sachs Asset Management, Viking Global Investors | [^5] |
 | 2021-09 | Series C | $180M | Viking Global Investors, Goldman Sachs Asset Management | [^5] |
 | 2019-07 | Series B | $50M | Innovation Endeavors | [^5] |
@@ -84,3 +88,9 @@ No independently sourced founder testimonials found at this time.
 [^3]: The Star (Reuters), "Market research firm AlphaSense nearly doubles valuation to $7.5 billion in new funding round," June 3, 2026, accessed June 2026. https://www.thestar.com.my/tech/tech-news/2026/06/03/market-research-firm-alphasense-nearly-doubles-valuation-to-75-billion-in-new-funding-round
 [^4]: AlphaSense, "About," accessed June 2026. https://www.alpha-sense.com/about/
 [^5]: Clay, "AlphaSense Funding," accessed June 2026. https://www.clay.com/dossier/alphasense-funding
+
+[^6]: PR Newswire, "AlphaSense Raises $100M Led By Alphabet's CapitalG to Fuel Innovation in AI and Market Intelligence," April 11, 2023. Accessed July 2026. https://www.prnewswire.com/news-releases/alphasense-raises-100m-led-by-alphabets-capitalg-to-fuel-innovation-in-ai-and-market-intelligence-301794245.html — Company press release confirming April 11, 2023 announcement of $100M Series D extension led by CapitalG at $1.8B post-money valuation; Goldman Sachs Asset Management (growth equity) and Viking Global Investors participated as existing investors.
+
+[^7]: SiliconANGLE, "Market intelligence startup AlphaSense reels in $100M at $1.8B valuation," April 11, 2023. Accessed July 2026. https://siliconangle.com/2023/04/11/market-intelligence-startup-alphasense-reels-100m-1-8b-valuation/ — Independent tier-1 tech press confirmation of $100M Series D extension led by CapitalG on April 11, 2023 at $1.8B valuation.
+
+[^8]: Crunchbase News, "Startup AlphaSense Snags $100M As AI Stays Hot; Alphabet's CapitalG Invests," April 11, 2023. Accessed July 2026. https://news.crunchbase.com/ai-robotics/alphasense-alphabet-capitalg-google/ — Third independent press confirmation of $100M Series D extension led by CapitalG on April 11, 2023.

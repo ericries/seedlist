@@ -3440,7 +3440,9 @@ vague_facts:
   line: '| SpaceX | Secondary/Growth | ~2023 | Aerospace | Active | [^7] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-07-20'
+  resolution_note: 'Fact-spec sweep 2026-07-20: UNRESOLVABLE. Altimeter Capital''s SpaceX position is not disclosed via primary press announcements. The sole existing citation ([^7] Sourcery VC blog) only names SpaceX in a bare portfolio list without date, size, or round type. Searched: TechCrunch/Bloomberg/Fortune/CNBC/PR Newswire/BusinessWire — no primary press release names Altimeter as a SpaceX investor for any specific round or secondary tender. Related coverage exists of Brad Gerstner discussing SpaceX (BG2Pod, CNBC Halftime, Acquired podcast) but these are commentary, not investment announcements. SpaceX rounds are typically closed via Form D filings + tender offers to existing shareholders; per-investor participation is rarely disclosed publicly. Leaving row as-is; cannot tighten to specific date/round/size without inventing facts. Recommend flagging or removing the row on a future sweep if no primary source surfaces.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: K2 Space
@@ -166741,7 +166743,9 @@ vague_facts:
   line: '| OpenEvidence | Early | ~2023 | Healthcare AI | Active [^9] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-07-20'
+  resolution_note: 'Fact-spec sweep 2026-07-20: CORRECTED OpenEvidence row on breyer-capital.md from wrong "Early | ~2023" to "Series D (participated as existing investor; $250M at $12B post-money; Thrive Capital and DST Global co-led; Sequoia, GV, NVIDIA, Kleiner Perkins, Blackstone, Henry Kravis, Coatue, Conviction, ICONIQ, Greycroft, BOND, Craft Ventures, Goanna, Meritech, Alkeon, Mayo Clinic also participated as existing investors) | 2026-01-21" via 3 primary sources: existing Fierce Healthcare [^9] + NEW Pulse 2.0 [^oe1] + NEW MobiHealthNews [^oe2]. The [^9] citation (Fierce Healthcare Series D article) explicitly describes the January 21, 2026 $250M Series D — the prior ~2023 year on the row was completely wrong. All three sources confirm Breyer Capital participation as follow-on existing investor.'
 - profile: firms/breyer-capital
   profile_name: Breyer Capital
   company: Xaira
@@ -166892,6 +166896,9 @@ vague_facts:
   line: '| AlphaSense | Growth | 2023 | Enterprise/AI | Active | [^25] |'
   priority: normal
   type: year_only_date
+  status: resolved
+  resolved: '2026-07-20'
+  resolution_note: 'Fact-spec sweep 2026-07-20: Tightened AlphaSense row on capitalg.md from "Growth | 2023" to "Series D extension (led, $100M at $1.8B post-money; Goldman Sachs Asset Management + Viking Global Investors participated as existing investors; James Luo of CapitalG named investing partner) | 2023-04-11" via 3 primary sources: existing PR Newswire company press release [^25] + NEW SiliconANGLE [^67] + NEW Crunchbase News [^68]. Parallel update on alphasense.md startup profile: Series D (2nd close) row tightened to 2023-04-11 with same 3 primary source citations ([^6][^7][^8]). Frontmatter updated with date field.'
   status: pending
 - profile: firms/capitalg
   profile_name: CapitalG
