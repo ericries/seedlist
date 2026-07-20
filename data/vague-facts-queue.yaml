@@ -16129,7 +16129,9 @@ vague_facts:
   line: '| Alkira | ~2020 | -- | Connectivity / Cloud Networking | [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution: 'Fact-spec sweep 2026-07-20: Alkira Series B (KDT led; USD 54M; 2020-10-13) — Alkira press + SiliconANGLE + BusinessWire. Updated koch-disruptive-technologies.md portfolio row with round type, date, lead, participants, and 3 new primary source footnotes.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Automox
@@ -16139,7 +16141,9 @@ vague_facts:
   line: '| Automox | ~2020 | -- | Cybersecurity / Endpoint | [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution: 'Fact-spec sweep 2026-07-20: Automox Series B (KDT led; USD 30M; 2020-02-04) — Automox press + Koch Industries press + BusinessWire. Updated koch-disruptive-technologies.md portfolio row with round type, date, lead, participants, and 3 new primary source footnotes.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Beyond Identity
@@ -16253,7 +16257,9 @@ vague_facts:
   line: '| Gideon Brothers | ~2020 | -- | Supply Chain / Robotics | [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution: 'Fact-spec sweep 2026-07-20: Gideon Brothers Series A (KDT led; USD 31M; 2021-06-08) — Gideon press + PR Newswire + TechCrunch. Updated koch-disruptive-technologies.md portfolio row with round type, date, lead, participants, and 3 new primary source footnotes.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Greeneye
@@ -219260,7 +219266,9 @@ vague_facts:
   line: '| Alkira | ~2020 | -- | Connectivity / Cloud Networking | [^5] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution: 'Fact-spec sweep 2026-07-20: Alkira year clarified to 2020-10-13 (KDT-led USD 54M Series B) via Alkira press + SiliconANGLE + BusinessWire. Updated koch-disruptive-technologies.md portfolio row with round type, date, lead, participants, and 3 new primary source footnotes.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Automox
@@ -219270,7 +219278,9 @@ vague_facts:
   line: '| Automox | ~2020 | -- | Cybersecurity / Endpoint | [^5] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution: 'Fact-spec sweep 2026-07-20: Automox year clarified to 2020-02-04 (KDT-led USD 30M Series B) via Automox press + Koch Industries press + BusinessWire. Updated koch-disruptive-technologies.md portfolio row with round type, date, lead, participants, and 3 new primary source footnotes.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Beyond Identity
@@ -219380,7 +219390,9 @@ vague_facts:
   line: '| Gideon Brothers | ~2020 | -- | Supply Chain / Robotics | [^5] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution: 'Fact-spec sweep 2026-07-20: Gideon Brothers year clarified to 2021-06-08 (KDT-led USD 31M Series A) via Gideon press + PR Newswire + TechCrunch. Updated koch-disruptive-technologies.md portfolio row with round type, date, lead, participants, and 3 new primary source footnotes.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Greeneye

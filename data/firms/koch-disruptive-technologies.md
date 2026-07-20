@@ -137,8 +137,8 @@ Based on 67 verified portfolio companies listed on KDT's website [^5]:
 | Rhino.ai | Series A | 2025-01-21 | Enterprise Software / AI | [^8] |
 | Lucidean | Seed | 2025-12-23 | Semiconductors / Optical | [^9] |
 | Orderful | Series C (lead, $35M with NewRoad Capital participating) | 2026-06-24 | SaaS / Supply Chain / EDI / AI | [^21][^22][^23] |
-| Alkira | ~2020 | -- | Connectivity / Cloud Networking | [^5] |
-| Automox | ~2020 | -- | Cybersecurity / Endpoint | [^5] |
+| Alkira | Series B (Led by KDT; USD 54M; Kleiner Perkins, Sequoia Capital, GV participated; Jason Illian joined board) | 2020-10-13 | Connectivity / Cloud Networking | [^5][^28][^29][^30] |
+| Automox | Series B (Led by KDT; USD 30M; CRV, TechOperators, CrowdStrike Falcon Fund participated; Byron Knight quote in press) | 2020-02-04 | Cybersecurity / Endpoint | [^5][^31][^32][^33] |
 | Beyond Identity | Series A (co-led with NEA, $30M total) | 2020-04-14 | Cybersecurity / Identity | [^24] |
 | Beyond Identity | Series B ($75M; existing investors NEA, KDT, Jim Clark) | 2020-12-08 | Cybersecurity / Identity | [^25] |
 | BlueCurrent | ~2020 | -- | Energy / Batteries | [^5] |
@@ -150,7 +150,7 @@ Based on 67 verified portfolio companies listed on KDT's website [^5]:
 | DeepCube | ~2020 | -- | Connectivity / ML Accelerator | [^5] |
 | Fabric | ~2020 | -- | Supply Chain / Fulfillment | [^5] |
 | ForAllSecure | ~2020 | -- | Cybersecurity / Testing | [^5] |
-| Gideon Brothers | ~2020 | -- | Supply Chain / Robotics | [^5] |
+| Gideon Brothers | Series A (Led by KDT — Annant Patel, Director; USD 31M; DB Schenker, Prologis Ventures, Rite-Hite, Taavet Hinrikus, Pentland Ventures, Peaksjah, HCVC participated) | 2021-06-08 | Supply Chain / Robotics | [^5][^34][^35][^36] |
 | Greeneye | ~2020 | -- | Supply Chain / Agriculture AI | [^5] |
 | MetOx International | ~2020 | -- | Energy / Superconductors | [^5] |
 | Nile | Undisclosed early round (portfolio per KDT website; KDT not named in Nile's Sep 2022 stealth-emergence or Aug 2023 $175M Series C press — likely pre-2022) | ~2020-2022 | Connectivity / NaaS | [^5][^27] |
@@ -191,7 +191,7 @@ Based on 67 verified portfolio companies listed on KDT's website [^5]:
 | Arkestro | ~2020 | -- | Supply Chain / Procurement AI | [^5] |
 | OneOf | ~2020 | -- | Fintech / NFT | [^5] |
 
-This table represents 67 companies from KDT's website portfolio page. KDT claims 70+ portfolio companies; this table captures approximately 96% of the publicly listed portfolio. Exact round details and years could only be verified for 16 investments from press sources; the remainder are confirmed as KDT portfolio companies via the firm's website but lack publicly disclosed round specifics.
+This table represents 67 companies from KDT's website portfolio page. KDT claims 70+ portfolio companies; this table captures approximately 96% of the publicly listed portfolio. Exact round details and years could only be verified for 19 investments from press sources; the remainder are confirmed as KDT portfolio companies via the firm's website but lack publicly disclosed round specifics.
 
 ## In Their Own Words
 
@@ -261,3 +261,21 @@ This table represents 67 companies from KDT's website portfolio page. KDT claims
 [^26]: Cohere Technologies press release, "Cohere Technologies Raises $46 Million Series D Round to Commercialize Universal Spectrum Multiplier Open RAN Software for Any Generation Mobile Network," February 22, 2022. Accessed July 2026. https://www.cohere-tech.com/cohere-technologies-raises-46-million-series-d-round-to-commercialize-universal-spectrum-multiplier-open-ran-software-for-any-generation-mobile-network/ — Names Koch Strategic Platforms (KSP), a subsidiary of Koch Investments Group, as the lead. KDT is NOT named in the release. Cohere's own investors page (https://www.cohere-tech.com/investors/) lists KSP but not KDT. KDT's own portfolio page lists Cohere, likely a Koch-sibling attribution.
 
 [^27]: Nile press release, "Nile Raises $175M Series C Funding to Propel Its Vision to Redefine Enterprise Networks," August 1, 2023. Accessed July 2026. https://nilesecure.com/press-releases/nile-raises-175m-series-c-funding-to-propel-its-vision-to-redefine-enterprise-networks — Series C co-led by March Capital and Sanabil Investments; other named investors are solutions by stc, Prosperity7, Liberty Global Ventures, 8VC, Geodesic Capital, U First Capital, Valor Equity Partners. No Koch entity is named. Nile's Sept 14, 2022 emergence-from-stealth release (https://www.businesswire.com/news/home/20220914005324/) similarly names only JC2, March Capital, 8VC, and ICONIQ across $125M in prior rounds. KDT's own portfolio page lists Nile but no primary source confirms specific KDT participation.
+
+[^28]: Alkira press release, "Alkira Raises USD 54M Series B for Network Cloud Offering Following Transformative Customer Deployments," October 13, 2020. Accessed July 2026. https://www.alkira.com/alkira-raises-54m-series-b-for-network-cloud-offering-following-transformative-customer-deployments/ — Confirms USD 54M Series B on 2020-10-13 led by Koch Disruptive Technologies with participation from returning investors Kleiner Perkins and Sequoia Capital plus new investor GV; Jason Illian, Managing Director at KDT, joined Alkira's Board of Directors.
+
+[^29]: SiliconANGLE, "Multicloud networking startup Alkira raises USD 54M funding round," October 13, 2020. Accessed July 2026. https://siliconangle.com/2020/10/13/multicloud-networking-startup-alkira-raises-54m-series-b-round/ — Independent tier-1 tech press confirms USD 54M Series B on 2020-10-13 led by Koch Disruptive Technologies with Kleiner Perkins, Sequoia Capital, and GV participating; total funding to USD 76M.
+
+[^30]: BusinessWire (Alkira press release syndication), "Alkira Raises USD 54M Series B for Network Cloud Offering Following Transformative Customer Deployments," October 13, 2020. Accessed July 2026. https://www.businesswire.com/news/home/20201013005436/en/Alkira-Raises-%2454M-Series-B-for-Network-Cloud-Offering-Following-Transformative-Customer-Deployments — Wire-service syndication of the Alkira press release; third independent confirmation of KDT-led USD 54M Series B on 2020-10-13.
+
+[^31]: Automox press release, "Automox Fuels Up to Solve One of the Most Pervasive Threats in Cybersecurity: Unpatched, Misconfigured, and Out-of-Date Systems," February 4, 2020. Accessed July 2026. https://www.automox.com/resources/news/automox-fuels-up-with-30m-series-b-funding — Confirms USD 30M Series B on 2020-02-04 led by Koch Disruptive Technologies with participation from CRV, TechOperators, and CrowdStrike (via Falcon Fund in partnership with Accel); quote from Byron Knight, Managing Director at KDT.
+
+[^32]: Koch Industries press release, "Koch Disruptive Technologies Leads USD 30M Series B Investment in Automox," February 4, 2020. Accessed July 2026. https://news.kochinc.com/media-resources/press-releases/Koch-Disruptive-Technologies-Leads-$30M-Series-B-I — Lead-investor primary source confirms KDT led the USD 30M Series B in Automox on 2020-02-04.
+
+[^33]: BusinessWire (Automox press release syndication), "Automox Fuels Up to Solve One of the Most Pervasive Threats in Cybersecurity: Unpatched, Misconfigured, and Out-of-Date Systems," February 4, 2020. Accessed July 2026. https://www.businesswire.com/news/home/20200204005128/en/Automox-Fuels-Up-to-Solve-One-of-the-Most-Pervasive-Threats-in-Cybersecurity-Unpatched-Misconfigured-and-Out-of-Date-Systems — Third independent confirmation of KDT-led USD 30M Series B on 2020-02-04.
+
+[^34]: Gideon Brothers press release, "Gideon Brothers Raises USD 31 Million Series A to Expand Its Portfolio of AI 3D Vision Autonomous Mobile Robots," June 8, 2021. Accessed July 2026. https://www.gideon.ai/news-press/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai-3d-vision-autonomous-mobile-robots/ — Confirms USD 31M Series A on 2021-06-08 led by Koch Disruptive Technologies with strategic investors DB Schenker, Prologis Ventures, and Rite-Hite plus existing backers Taavet Hinrikus (TransferWise co-founder), Pentland Ventures, Peaksjah, and HCVC participating; quote from Annant Patel, Director at KDT.
+
+[^35]: PR Newswire (Gideon Brothers press release syndication), "Gideon Brothers Raises USD 31 Million Series A to Expand Its Portfolio of AI 3D Vision Autonomous Mobile Robots," June 8, 2021. Accessed July 2026. https://www.prnewswire.com/news-releases/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai--3d-vision-autonomous-mobile-robots-301307461.html — Wire-service syndication confirms USD 31M Series A on 2021-06-08 led by KDT (Annant Patel quote) with DB Schenker, Prologis Ventures, Rite-Hite, and existing backers participating.
+
+[^36]: TechCrunch, "Croatia's Gideon Brothers raises USD 31M for its 3D vision-enabled autonomous warehouse robots," June 8, 2021. Accessed July 2026. https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-3d-vision-enabled-autonomous-warehouse-robots/ — Tier-1 tech press confirms USD 31M Series A on 2021-06-08 led by Koch Disruptive Technologies; Croatia's largest ever Series A at the time.
