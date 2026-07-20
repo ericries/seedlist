@@ -39581,3 +39581,159 @@ queue:
   firm: SJF Ventures
   discovered_from: deweylearn
   source: Managing Director at SJF Ventures, led DeweyLearn Series A on 2026-07-16
+- name: Rockbridge Growth Equity
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: american-growth-insurance
+  source: led American Growth Insurance $70M equity funding 2026-07-16
+- name: Sandberg Bernthal Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: self-inspection
+  source: led Self Inspection $10M Series A 2026-07-16 (Sheryl Sandberg family office)
+- name: Nishith Khandwala
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Bunkerhill Health
+  discovered_from: bunkerhill-health
+  source: founder/CEO Bunkerhill Health
+- name: DVx Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: self-inspection
+  source: participated in Self Inspection $10M Series A 2026-07-16
+- name: Rebellion Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: self-inspection
+  source: participated in Self Inspection $10M Series A 2026-07-16
+- name: BrightCap Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: self-inspection
+  source: participated in Self Inspection $10M Series A 2026-07-16
+- name: Eoniq Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sensesbit
+  source: participated in Sensesbit €1M round 2026-07-17
+- name: Paraíso Natural Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sensesbit
+  source: participated in Sensesbit €1M 2026-07-17 (Central Lechera Asturiana group
+    vehicle)
+- name: Sovereign AI Venture Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cuspai
+  source: participated in CuspAI $450M Series B 2026-07-20 (UK government-backed)
+- name: Invest-NL
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cuspai
+  source: participated in CuspAI $450M Series B 2026-07-20 (Netherlands sovereign
+    fund)
+- name: Phoenix Court
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cuspai
+  source: existing investor CuspAI Series B 2026-07-20
+- name: Josh Coyne
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Kleiner Perkins
+  discovered_from: cuspai
+  source: Partner at Kleiner Perkins, quoted on CuspAI Series B 2026-07-20
+- name: TPY Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: regatta-data
+  source: co-led Regatta Data $68M 2026-07-15
+- name: Gil Goren
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: 83North
+  discovered_from: regatta-data
+  source: General Partner at 83North, quoted on Regatta $68M 2026-07-15
+- name: Frank Slootman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Angel
+  discovered_from: regatta-data
+  source: angel investor Regatta Data $68M 2026-07-15 (former Snowflake CEO)
+- name: Eyal Waldman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Angel
+  discovered_from: regatta-data
+  source: angel investor Regatta Data $68M 2026-07-15 (Mellanox co-founder)
+- name: Jefferson River Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: augmodo
+  source: participated in Augmodo $21M 2026-07-13
+- name: Arena Holdings
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: augmodo
+  source: participated in Augmodo $21M 2026-07-13
+- name: Webb Investment Network
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: augmodo
+  source: participated in Augmodo $21M 2026-07-13 (Maynard Webb's fund)
+- name: Ross Finman
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Augmodo
+  discovered_from: augmodo
+  source: Co-Founder & CEO of Augmodo, quoted on $21M raise 2026-07-13
+- name: Boaz Palgi
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Regatta Data
+  discovered_from: regatta-data
+  source: Co-Founder & CEO of Regatta Data, previously founded Topio/Storwize/ScaleIO
