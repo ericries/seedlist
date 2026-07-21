@@ -68550,7 +68550,9 @@ vague_facts:
   line: '| Gizmo | 2026 | Series A | AI/EdTech | [^10] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Tightened "Gizmo | 2026 | Series A" to "Gizmo | 2026-04-15 | Series A (led, $22M; Ada Ventures, Seek Investments, GSV, NFX participated) | AI/EdTech | [^10][^23][^24]" via existing PR Newswire company press [^10] + NEW TechCrunch primary [^23] + NEW Pulse 2.0 [^24]. All three sources independently confirm Shine Capital led, $22M amount, and named participants Ada Ventures, Seek Investments, GSV, NFX. 2 new footnotes added.'
 - profile: investors/ethan-daly
   profile_name: Ethan Daly
   company: Antares
@@ -68560,7 +68562,9 @@ vague_facts:
   line: '| Antares | 2025 | Series B | Nuclear Energy | [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Tightened "Antares | 2025 | Series B" to "Antares | 2025-12-02 | Series B (led, $96M = $71M equity + $25M debt; Alt Capital, Caffeinated, FiftyThree Stations, Industrious participated)" via existing BusinessWire company press [^8] + NEW Power Magazine trade press [^27] + NEW American Nuclear Society Nuclear Newswire [^28]. All three sources independently confirm Shine Capital led, $96M split as $71M equity + $25M debt, and named participants Alt Capital, Caffeinated, FiftyThree Stations, Industrious. 2 new footnotes added.'
 - profile: investors/ethan-daly
   profile_name: Ethan Daly
   company: AudioShake
@@ -68590,7 +68594,9 @@ vague_facts:
   line: '| Turnout | 2025 | Seed | Govtech/AI | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Tightened "Turnout | 2025 | Seed" to "Turnout | 2025-09-17 | Seed (co-led with LGVP, $21M; Swish Ventures, Jaz Capital Partners, Zeev Ventures, HoneyStone, Conversion, Four Aces participated)" via existing PR Newswire company press [^12] + NEW Yahoo Finance (PR Newswire syndication) [^25] + NEW Fintech News [^26]. All three sources independently confirm Shine Capital and LGVP co-led, $21M amount, and named participants Swish Ventures, Jaz Capital Partners, Zeev Ventures, HoneyStone, Conversion, Four Aces. 2 new footnotes added.'
 - profile: investors/ethan-daly
   profile_name: Ethan Daly
   company: Orchard Robotics

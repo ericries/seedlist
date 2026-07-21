@@ -80,11 +80,11 @@ Despite Shine's broad stated thesis, the verified portfolio shows limited health
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
-| Gizmo | 2026 | Series A | AI/EdTech | [^10] |
-| Antares | 2025 | Series B | Nuclear Energy | [^8] |
+| Gizmo | 2026-04-15 | Series A (led, $22M; Ada Ventures, Seek Investments, GSV, NFX participated) | AI/EdTech | [^10][^23][^24] |
+| Antares | 2025-12-02 | Series B (led, $96M = $71M equity + $25M debt; Alt Capital, Caffeinated, FiftyThree Stations, Industrious participated) | Nuclear Energy | [^8][^27][^28] |
 | AudioShake | 2025 | Series A | AI/Audio | [^9] |
 | Bliss | 2025 | Seed | Consumer/AI | [^7] |
-| Turnout | 2025 | Seed | Govtech/AI | [^12] |
+| Turnout | 2025-09-17 | Seed (co-led with LGVP, $21M; Swish Ventures, Jaz Capital Partners, Zeev Ventures, HoneyStone, Conversion, Four Aces participated) | Govtech/AI | [^12][^25][^26] |
 | Orchard Robotics | 2025 | Series A | AgTech/AI | [^13] |
 | iVerify | 2024 | Series A | Cybersecurity | [^14] |
 | Polimorphic | 2023 | Seed | Govtech/AI | [^15] |
@@ -146,3 +146,9 @@ No additional independently sourced founder testimonials found beyond firm-publi
 [^20]: Crypto-Reporter, "Endaoment Raises $6.67 Million to Further Crypto-Native Planned Giving," accessed April 2026. https://www.crypto-reporter.com/press-releases/endaoment-raises-6-67-million-to-further-crypto-native-planned-giving-33090/
 [^21]: VentureBurn, "Numerai Raises $30M Series C at $500M Valuation," accessed April 2026. https://ventureburn.com/numerai-raises-30m/
 [^22]: Charlie Wu (@ccharliewu), X post, September 2025. https://x.com/ccharliewu/status/1963261722967556277
+[^23]: TechCrunch, "AI learning app Gizmo levels up with 13M users and a $22M investment," April 15, 2026. https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/
+[^24]: Pulse 2.0, "Gizmo: $22 Million Series A Raised To Scale AI-Powered Learning Platform Globally," accessed July 2026. https://pulse2.com/gizmo-22-million-series-a-raised-to-scale-ai-powered-learning-platform-globally/
+[^25]: Yahoo Finance (PR Newswire syndication), "Turnout Secures $21M in Seed Funding to Fuel Mission to Simplify Government Bureaucracy," September 17, 2025. https://finance.yahoo.com/news/turnout-secures-21m-seed-funding-130000049.html
+[^26]: Fintech News, "Turnout raises $21m in Seed funding," September 2025. https://news.fintech.io/post/102l5fg/turnout-raises-21m-in-seed-funding
+[^27]: Power Magazine, "Antares Raises $96 Million in Series B Funding to Accelerate Nuclear Microreactor Development," December 2, 2025. https://www.powermag.com/antares-raises-96-million-in-series-b-funding-to-accelerate-nuclear-microreactor-development/
+[^28]: American Nuclear Society (Nuclear Newswire), "Antares raises funds for microreactor development," December 4, 2025. https://www.ans.org/news/2025-12-04/article-7594/antares-raises-funds-for-microreactor-development/
