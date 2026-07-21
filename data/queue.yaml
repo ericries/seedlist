@@ -39893,3 +39893,39 @@ queue:
   firm: UC Berkeley / RunLLM
   discovered_from: joe-hellerstein
   source: UC Berkeley CS professor; co-founder RunLLM with Joe Hellerstein
+- name: Kickstart
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apaluma
+  source: co-lead of Apaluma Seed (2026-07-16)
+- name: Haven Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apaluma
+  source: co-lead of Apaluma Seed (2026-07-16)
+- name: Orange DAO
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apaluma
+  source: participant in Apaluma Seed (2026-07-16)
+- name: NM Vintage Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apaluma
+  source: participant in Apaluma Seed (2026-07-16)
+- name: Gabby Contro
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Crosslink Capital
+  discovered_from: apaluma
+  source: led Apaluma Seed (2026-07-16)
