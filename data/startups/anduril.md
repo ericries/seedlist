@@ -277,7 +277,7 @@ Anduril has raised over $11 billion across eight rounds since its 2017 founding 
 | Jun 2021 | Series D | $450M | $4.6B post | Elad Gil | Andreessen Horowitz, 8VC, Founders Fund, General Catalyst, Lux Capital, Valor Equity Partners, D1 Capital Partners [^8] |
 | Dec 2022 | Series E | $1.48B | $8.48B post | Valor Equity Partners | Founders Fund, Andreessen Horowitz, General Catalyst, 8VC, Lux Capital, Thrive Capital, DFJ Growth, Elad Gil, Lachy Groom, Human Capital, WCM Investment Management, MVP Ventures, Lightspeed Venture Partners, US Innovative Technology Fund (Thomas Tull) [^9][^10] |
 | 2024-08-07 | Series F | $1.5B | $14B post | Founders Fund, Sands Capital | Fidelity Management & Research, Counterpoint Global, Baillie Gifford, Altimeter Capital, Franklin Venture Partners [^3][^11] |
-| Jun 2025 | Series G | $2.5B | $30.5B post | Founders Fund ($1B) | — [^2][^4] |
+| 2025-06-05 | Series G | $2.5B | $30.5B post | Founders Fund ($1B, largest single check in FF history) | Existing investors participated (not individually named in primary press); round oversubscribed 8x [^2][^4][^6] |
 | 2026-05-13 | Series H | $5B | $61B post | Thrive Capital, Andreessen Horowitz | Founders Fund, Lux Capital [^5][^12][^15][^16][^17] |
 
 Note: The Series H was first reported in March 2026 with a target of $4B at $60B [^5][^12]; the round closed on May 13, 2026 at $5B and a $61B post-money valuation [^15][^16][^17].
@@ -303,7 +303,7 @@ Trae Stephens on Anduril's strategic positioning: "We will look more like Lockhe
 [^3]: Crunchbase News, "Anduril Industries Valued At $14B After $1.5B Series F," accessed March 2026. https://news.crunchbase.com/ai/defense-tech-anduril-industries-series-f/
 [^4]: TechCrunch, "Anduril raises $2.5B at $30.5B valuation led by Founders Fund," June 5, 2025, accessed March 2026. https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/
 [^5]: Bloomberg, "Josh Kushner's Thrive Capital, Andreessen to Lead $4 Billion Anduril Round," March 3, 2026, accessed March 2026. https://www.bloomberg.com/news/articles/2026-03-03/thrive-capital-andreessen-to-lead-4-billion-anduril-round
-[^6]: Crunchbase News, "Defense Tech Unicorn Anduril Powers Up With $2.5B At $30.5B Valuation" (Series B reference), accessed March 2026. https://news.crunchbase.com/venture/defense-tech-unicorn-anduril-doubles-valuation/
+[^6]: Crunchbase News, "Defense Tech Unicorn Anduril Powers Up With $2.5B At $30.5B Valuation," June 5, 2025, accessed July 2026. https://news.crunchbase.com/venture/defense-tech-unicorn-anduril-doubles-valuation/ — Series G ($2.5B at $30.5B post) primary press coverage confirming Founders Fund as sole named lead.
 [^7]: Fortune, "Controversial surveillance startup Anduril gets a $1.9 billion valuation," July 2, 2020, accessed March 2026. https://fortune.com/2020/07/02/controversial-surveillance-startup-anduril-gets-a-1-9-billion-valuation/
 [^8]: TechCrunch, "Anduril raises $450M as the defense tech company's valuation soars to $4.6B," June 17, 2021, accessed March 2026. https://techcrunch.com/2021/06/17/anduril-funding-series-d-valuation/
 [^9]: Axios, "Defense startup Anduril raises $1.48 billion in Series E funding," December 2, 2022, accessed March 2026. https://www.axios.com/2022/12/02/anduril-capital-raise-billion-defense-technology
@@ -318,3 +318,4 @@ Trae Stephens on Anduril's strategic positioning: "We will look more like Lockhe
 [^16]: SiliconAngle, "Anduril doubles valuation to $61B in new $5B funding round," May 13, 2026. Accessed May 2026. https://siliconangle.com/2026/05/13/anduril-doubles-valuation-61b-new-5b-funding-round/
 
 [^17]: Washington Technology, "Anduril hauls in $5B for Series H round," May 13, 2026. Accessed May 2026. https://www.washingtontechnology.com/companies/2026/05/anduril-hauls-5b-series-h-round/413515/
+

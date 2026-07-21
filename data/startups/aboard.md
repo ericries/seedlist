@@ -30,7 +30,7 @@ Aboard is an Orange, California-based mobility company building an extended-rang
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-05-21 | Pre-Series A | $13M (total raised) | Ondine Capital, Llama Ventures | — [^1][^2] |
+| 2026-05-21 | Pre-Series A | $13M (total raised) | Ondine Capital, Llama Ventures | No additional participants named in primary press [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -46,3 +46,5 @@ No independently sourced investor quotes found at this time.
 
 [^1]: PR Newswire, "Aboard Completes Pre-Series A Funding Bringing Total Raise to $13 Million for Next-Gen Travel Trailer," May 21, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/aboard-completes-pre-series-a-funding-bringing-total-raise-to-13-million-for-next-gen-travel-trailer-302779246.html
 [^2]: RV News, "Aboard Raises $13 Million for Next-Gen Travel Trailer," May 2026. Accessed May 2026. https://www.rvnews.com/aboard-raises-13-million-for-next-gen-travel-trailer/
+[^3]: Modern Campground, "Aboard Secures $13 Million to Advance Electric Travel Trailer Production," May 25, 2026. Accessed July 2026. https://moderncampground.com/usa/aboard-secures-13-million-to-advance-electric-travel-trailer-production
+[^4]: Pulse 2.0, "Aboard: $13 Million Raised For Next-Gen Electric Travel Trailer Platform," May 24, 2026. Accessed July 2026. https://pulse2.com/aboard-13-million-raised-for-next-gen-electric-travel-trailer-platform/amp/

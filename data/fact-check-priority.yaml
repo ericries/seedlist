@@ -1,4 +1,22 @@
 priority:
+- slug: aboard
+  type: startup
+  reason: 'Fact-spec sweep 2026-07-21 (second pass): tightened Pre-Series A row on aboard.md from "2026-05-21 | Pre-Series A | $13M (total raised) | Ondine Capital, Llama Ventures | — [^1][^2]" to add explicit co-investor annotation "No additional participants named in primary press" via 3+ primary sources: existing PR Newswire company press [^1] + existing RV News [^2] + NEW Modern Campground [^3] + NEW Pulse 2.0 [^4]. All four sources independently confirm only Ondine Capital and Llama Ventures as leads; no other participants named. 2 new footnotes added ([^3], [^4]).'
+  added: 2026-07-21
+  status: resolved
+  resolved: 2026-07-21
+- slug: anduril
+  type: startup
+  reason: 'Fact-spec sweep 2026-07-21 (second pass): tightened Series G row on anduril.md from "Jun 2025 | Series G | $2.5B | $30.5B post | Founders Fund ($1B) | — [^2][^4]" to "2025-06-05 | Series G | $2.5B | $30.5B post | Founders Fund ($1B, largest single check in FF history) | Existing investors participated (not individually named in primary press); round oversubscribed 8x [^2][^4][^18]" via existing FNEX [^2] + existing TechCrunch [^4] + NEW Crunchbase News [^18]. Date tightened from month-only "Jun 2025" to exact 2025-06-05. All three primary sources confirm no individual co-investor names disclosed for this round — existing investors "piled in" but not individually named. 1 new footnote added ([^18]).'
+  added: 2026-07-21
+  status: resolved
+  resolved: 2026-07-21
+- slug: a-star-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-21 (second pass): tightened Mach Industries portfolio row on a-star-capital.md from corrupted "~unknown| Mach Industries | — | — | Defense/Drones | Active [^15] |" to "| Mach Industries | Participated (A* self-attributed by Kevin Hartz on The Split podcast [^15]; not named in primary press for Seed 2023-06 [Sequoia led, $5.7M], Series A 2023-10 [Bedrock led, $79M], or Series B 2025-06-17 [Khosla + Bedrock led, $100M]) | 2023+ | Defense/Drones | Active [^15][^35][^36][^37] |". Verified via 3 NEW primary sources that A* / Kevin Hartz is NOT named in primary press for any of Mach Industries'' three disclosed rounds: NEW PR Newswire seed press [^35] + NEW Forbes 2024 coverage through Series A [^36] + NEW TechCrunch Series B primary [^37]. A* attribution rests solely on Kevin Hartz''s own podcast statement [^15] naming Mach among his portfolio bets. Analogous to aggregator-only precedents but with first-person investor attribution rather than pure aggregator. Also fixed corrupted "~unknown|" table prefix and stray "**  **" markdown artifacts. 3 new footnotes added ([^35], [^36], [^37]).'
+  added: 2026-07-21
+  status: resolved
+  resolved: 2026-07-21
 - slug: cake-ventures
   type: firm
   reason: 'Fact-spec sweep 2026-07-21: tightened Koobz portfolio row on cake-ventures.md from year-only "Seed | 2025" to "Seed (participated; USD 6M tranche brings total seed to USD 7.2M; Uncork Capital led; V1.VC, Karman Ventures, Antler, Pathbreaker Ventures, Anorak Ventures also participated) | 2025-06-24" via existing 3D Printing Industry [^17] + NEW VoxelMatters [^22] + NEW 3DPrint.com [^23]. Earliest announcement date is June 24, 2025 (VoxelMatters). 2 new footnotes added.'

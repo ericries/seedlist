@@ -85,7 +85,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 | Faire | Series B+ | ~2021 | Wholesale Marketplace | Active [^2] |
 | Flock Safety | Series C ($47M, led by Meritech) | 2020-11-02 | Public Safety | Active [^20][^34] |
 | Krea | Seed ($3M, led by Pebblebed) | 2023-03 | AI/Creative Tools | Active [^1][^32][^33] |
-~unknown| Mach Industries | — | — | Defense/Drones | Active [^15] |
+| Mach Industries | Participated (A* self-attributed by Kevin Hartz on The Split podcast [^15]; not named in primary press for Seed 2023-06 [Sequoia led, $5.7M], Series A 2023-10 [Bedrock led, $79M], or Series B 2025-06-17 [Khosla + Bedrock led, $100M]) | 2023+ | Defense/Drones | Active [^15][^35][^36][^37] |
 | Mercor | Series A (Benchmark led) | 2024-09-18 | AI/HR Marketplace | Active [^12][^31] |
 ~unknown| Multiply | — | — | AI/Fintech | Active [^15] |
 ~unknown| Fifteenth | — | — | AI/Tax | Active [^15] |
@@ -189,3 +189,9 @@ No independently sourced founder testimonials found. The firm's website does not
 [^33]: Contrary Research, "Krea Business Breakdown & Founding Story," accessed May 2026. https://research.contrary.com/company/krea — Confirms A* participated in Krea's $3M seed round (early 2023) alongside Pebblebed (lead), HF0, Abstract Ventures, and Gradient Ventures.
 
 [^34]: GlobeNewswire, "FLOCK SAFETY RAISES $47M IN SERIES C FUNDING TO ELIMINATE CRIME WITHIN A PRIVACY-FIRST FRAMEWORK," November 2, 2020, accessed June 2026. https://www.globenewswire.com/en/news-release/2020/11/02/2118747/0/en/FLOCK-SAFETY-RAISES-47M-IN-SERIES-C-FUNDING-TO-ELIMINATE-CRIME-WITHIN-A-PRIVACY-FIRST-FRAMEWORK.html — Press release confirming exact announcement date 2020-11-02. Round led by Meritech Capital; participants include Initialized Capital, Axon, Bedrock Capital, Matrix Partners, Founders Fund, Y-Combinator, plus angel investors Kevin and Julia Hartz, and Zac Bookman.
+
+[^35]: PR Newswire, "Sequoia Capital Partners with Mach Industries to Revolutionize Defense Technology for the United States," June 16, 2023. Accessed July 2026. https://www.prnewswire.com/news-releases/sequoia-capital-partners-with-mach-industries-to-revolutionize-defense-technology-for-the-united-states-301852798.html — Mach Industries $5.7M Seed round announcement. Named investors: Sequoia Capital (lead, Shaun Maguire + Stephanie Zhan), Marque VC, Champion Hill Ventures. A* / Kevin Hartz NOT named.
+
+[^36]: Forbes, "Investors Gave A Teenager $85 Million To Build Hydrogen Weapons. It's Not Going Well," May 23, 2024. Accessed July 2026. https://www.forbes.com/sites/davidjeans/2024/05/23/sequoia-bedrock-defense-tech-mach-industries/ — Coverage of Mach through Series A. Named investors: Sequoia (Seed, $5M, summer 2023; Shaun Maguire), Bedrock (Series A, $79M, October 2023; Geoff Lewis at $300M+ valuation). A* / Kevin Hartz NOT named.
+
+[^37]: TechCrunch, "Two-year-old defense tech Mach Industries confirms $100M raise led by Khosla, Bedrock," June 17, 2025. Accessed July 2026. https://techcrunch.com/2025/06/17/two-year-old-defense-tech-mach-industries-confirms-100m-raise-led-by-khosla-bedrock/ — Mach Series B: $100M at $470M post-money on 2025-06-17. Co-led by Khosla Ventures (Keith Rabois) + Bedrock Capital (Geoff Lewis); Sequoia participated as existing investor. Total raised: ~$185M. A* / Kevin Hartz NOT named.
