@@ -139,7 +139,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Scotch | Series A | 2026-06-04 | Retail tech / AI | Active (participated; led by VMG Partners) | [^20] |
 | Binti | Seed (led) | 2015-03 | Govtech / Child welfare SaaS | Active (raised Series B 2021-08, $6M follow-on from SJF Ventures 2026-06) | [^21][^22][^23] |
 | Ploy | Seed (led, $27M; Y Combinator participated) | 2026-06-17 | AI / Marketing / Vertical SaaS | Active | [^25][^26][^27] |
-| Corner Health | Series A (participated; Oak HC/FT led, $25M; Zigg Capital co-participated) | 2026-07-09 | Healthcare / Primary Care / AI | Active | [^31] |
+| Corner Health | Series A (participated; Oak HC/FT led, $25M; Zigg Capital co-participated; combined with $7.5M prior seed and pre-seed for total announced funding of $32.5M) | 2026-07-09 | Healthcare / Primary Care / AI | Active | [^31][^32][^33] |
 
 Note: Years marked with "~" are approximate. This table represents approximately 4% of 500+ claimed investments.
 
@@ -219,3 +219,7 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^30]: CNBC, "Meet K2 Space, a spacecraft startup leveraging SpaceX Starship," March 10, 2023, accessed July 2026. https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html — Primary press confirmation of March 10, 2023 K2 Space stealth-launch $8.5M Seed round co-led by First Round Capital and Republic Capital with participation from Countdown Capital, Boost VC, Also Capital, Side Door Ventures, Earthrise Ventures, Spacecadet VC, and Pathbreaker Ventures.
 
 [^31]: "Corner Health Announces $32.5 Million in Seed and Series A Financing to Help Independent Clinicians Rebuild Primary Care," BusinessWire, July 9, 2026. Accessed July 20, 2026. https://www.businesswire.com/news/home/20260709012876/en/Corner-Health-Announces-$32.5-Million-in-Seed-and-Series-A-Financing-to-Help-Independent-Clinicians-Rebuild-Primary-Care — Confirms First Round Capital as existing investor participating in Oak HC/FT-led $25M Series A alongside Zigg Capital.
+
+[^32]: Allie Garfinkle, "Exclusive: Corner Health raises $25 million to turn nurse practitioners into entrepreneurs," Fortune, July 13, 2026. Accessed July 20, 2026. https://fortune.com/2026/07/13/corner-health-nurse-practitioners-independent-practice-oak-series-a-funding/ — Independent tier-1 press confirmation of Oak HC/FT-led $25M Series A with First Round Capital and Zigg Capital participating; Annie Lamont quote confirms Oak HC/FT lead.
+
+[^33]: "Corner Health Raises $32.5M to Expand AI Platform for Independent Nurse Practitioner Practices," HLTH, July 2026. Accessed July 20, 2026. https://hlth.com/insights/news/corner-health-raises-32-5m-to-expand-ai-platform-for-independent-nurse-practitioner-practices — Third independent healthcare-vertical press confirmation of the $32.5M combined Seed + Series A financing including First Round Capital as existing investor participant.

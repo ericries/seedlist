@@ -109,13 +109,13 @@ The analysis below is based on 45 verified direct investments from the Mark Cuba
 | Relativity Space | 2021 | Series E | Aerospace / manufacturing | [^17] |
 | Polygon (MATIC) | 2021 | Direct | Blockchain / L2 | [^20] |
 | OpenSea | 2021 | Direct | NFT / marketplace | [^15] |
-| Injective Protocol | ~2021 | Direct | DeFi / blockchain | [^15] |
+| Injective Protocol | 2021-04-20 | Private token sale ($10M at $1B+ val) | DeFi / blockchain | [^28][^37][^38] |
 | Arbitrum | ~2021 | Direct | Blockchain / L2 | [^15] |
 | Zapper.Fi | ~2021 | Direct | DeFi | [^15] |
 | SuperRare | ~2021 | Direct | NFT / marketplace | [^15] |
 | ThirdWeb | ~2021 | Direct | Web3 / dev tools | [^15] |
 | Synthesia | ~2017 | Seed ($1M, first investor) | AI / video | [^29] |
-| Dave | ~2017 | Seed (led) | Fintech / banking | [^21] |
+| Dave | 2017-04-25 | Seed ($3M, led) | Fintech / banking | [^21][^35][^36] |
 | Upstart | ~2015 | Direct | Fintech / lending | [^15] |
 | Sportradar | ~2018 | Direct | Sports data | [^15] |
 | Catapult | ~2018 | Direct | Sports tech / wearables | [^15] |
@@ -138,7 +138,7 @@ The analysis below is based on 45 verified direct investments from the Mark Cuba
 | Degreed | ~2016 | Direct | Education / edtech | [^15] |
 | Settle | ~2020 | Direct | Fintech / AP automation | [^15] |
 | Yendo | ~2021 | Direct | Fintech / credit | [^15] |
-| Underdog Fantasy | ~2021 | Direct | Sports / fantasy | [^15] |
+| Underdog Fantasy | 2021-05-03 | Seed ($10M) | Sports / fantasy | [^31][^39][^40] |
 | Cerebro Sports | ~2019 | Direct | Sports / scouting | [^15] |
 | CivicScience | ~2018 | Direct | Analytics / consumer intel | [^15] |
 | Burwoodland | 2026 | Direct | Entertainment / live events | [^22] |
@@ -146,7 +146,7 @@ The analysis below is based on 45 verified direct investments from the Mark Cuba
 | Samaya AI | ~2023 | Direct | AI / enterprise | [^15] |
 | DIRT | ~2022 | Direct | AI / audience | [^15] |
 | Clipbook | 2025 | Seed ($3M round) | AI / PR | [^30] |
-| Kind Designs | 2026 | Pre-Series A ($10M round; returning investor) | Climate / Coastal Infrastructure / 3D Printing | [^32] |
+| Kind Designs | 2026-07-16 | Pre-Series A ($10M oversubscribed round at $70M valuation; targeted at $5M but upsized after ~$20M in investor interest; Cuban is a returning investor; new backer Kyle Kuzma; total raised ~$21.5M) | Climate / Coastal Infrastructure / 3D Printing | [^32][^33][^34] |
 | Fireside | ~2021 | Co-founder | Media / streaming | [^3] |
 
 *Note: This table represents approximately 45 of Cuban's 264+ total investments tracked on Crunchbase [^23]. Many Shark Tank deals (85+ total) and crypto token holdings are not individually listed. Years marked with ~ are approximate, based on founding year or portfolio page listing date.*
@@ -226,4 +226,20 @@ Eric Chen, co-founder of Injective Protocol, has stated that landing Cuban as an
 [^30]: TechCrunch, "How AI PR startup Clipbook won Mark Cuban's investment from a cold email," December 2025. https://techcrunch.com/2025/12/01/how-ai-pr-startup-clipbook-won-mark-cubans-investment-from-a-cold-email/
 [^31]: Yahoo Sports / Sportico, "Underdog Fantasy Raises $10 Million From Cuban, KD, Nas, Others," 2021. https://sports.yahoo.com/underdog-fantasy-raises-10-million-163026182.html
 
-[^32]: Nancy Dahlberg, "Kind Designs just raised a star-studded $10 million round to change how America builds seawalls," Refresh Miami, July 16, 2026. Accessed July 20, 2026. https://refreshmiami.com/news/kind-designs-just-raised-a-star-studded-10-million-round-to-change-how-america-builds-seawalls/
+[^32]: Nancy Dahlberg, "Kind Designs just raised a star-studded $10 million round to change how America builds seawalls," Refresh Miami, July 16, 2026. Accessed July 20, 2026. https://refreshmiami.com/news/kind-designs-just-raised-a-star-studded-10-million-round-to-change-how-america-builds-seawalls/ — Includes Mark Cuban quote: "Most climate founders pitch you on saving the planet. Anya pitched me on an opportunity to disrupt a multi-billion-dollar coastal infrastructure market."
+
+[^33]: "Kind Designs Closes Oversubscribed $10M Round to Scale 3D-Printed Living Seawalls," BusinessWire (via Morningstar), July 16, 2026. Accessed July 20, 2026. https://www.morningstar.com/news/business-wire/20260716799371/kind-designs-closes-oversubscribed-10m-round-to-scale-3d-printed-living-seawalls — Company primary press release confirming the oversubscribed $10M Pre-Series A at $70M valuation with Mark Cuban as returning investor.
+
+[^34]: "Kind Designs Raises $10M in Pre-Series A Funding," FinSMEs, July 16, 2026. Accessed July 20, 2026. https://www.finsmes.com/2026/07/kind-designs-raises-10m-in-pre-series-a-funding.html — Third independent confirmation of Mark Cuban as returning investor in Kind Designs' Pre-Series A alongside Adrian Fenty and new backer Kyle Kuzma.
+
+[^35]: TechCrunch, "Dave wants to save you from expensive overdraft fees," April 25, 2017. Accessed July 20, 2026. https://techcrunch.com/2017/04/25/dave-wants-to-save-you-from-expensive-overdraft-fees/ — Primary press confirming Dave's $3M seed round with investors Mark Cuban, SV Angel, The Chernin Group, Jonathan Kraft, Skip Paul, and Diplo, announced April 25, 2017.
+
+[^36]: Built In Los Angeles, "Dave CEO Jason Wilk on the startup's stealth funding, working with Mark Cuban, and more." Accessed July 20, 2026. https://www.builtinla.com/articles/dave-financial-planning-tool-eliminates-overdrafts — Independent confirmation of Dave's early Mark Cuban-backed seed round and stealth funding history.
+
+[^37]: Injective Labs, "The Block: Injective raises $10 million from Mark Cuban and other investors." Accessed July 20, 2026. https://injective.com/blog/the-block-injective-protocol-raises-10-million-from-mark-cuban-and-other-investors/ — Company primary source confirming April 2021 $10M private token sale with Mark Cuban, Pantera Capital, BlockTower, Hashed, CMS, and QCP Capital at $1B+ valuation.
+
+[^38]: The Defiant, "Injective Protocol Raises $10M at $1B Valuation From Investors Including Pantera." Accessed July 20, 2026. https://thedefiant.io/news/blockchains/injective-protocol-raises-10m-at-1b-valuation-from-investors-including-pantera — Independent DeFi press confirming the $10M private token sale, $1B+ valuation, and full participant list including Mark Cuban, Pantera Capital, BlockTower, Hashed, Cadenza Ventures, and Cumberland.
+
+[^39]: PR Newswire, "Underdog Fantasy Announces Fundraise and $3,500,000 Best Ball Tournament," May 3, 2021. Accessed July 20, 2026. https://www.prnewswire.com/news-releases/underdog-fantasy-announces-fund-raise-in-3-500-000-best-ball-tournament-301282593.html — Company press release announcing the $10M round led by Kevin Carter with investors including Mark Cuban, Kevin Durant & Rich Kleiman (Thirty Five Ventures), Nas, Future, Adam Schefter, The Chainsmokers & Mantis VC, Kygo & The Palm Tree Crew, Steve Aoki, SV Angel, and Mark Pincus.
+
+[^40]: Sportico, "Underdog Fantasy Investors in $10 Million Round: Cuban, KD, Nas, Kygo," May 3, 2021. Accessed July 20, 2026. https://www.sportico.com/business/finance/2021/underdog-fantasy-investors-1234628810/ — Tier-1 sports business press confirming the May 3, 2021 announcement, Kevin Carter as lead, and Mark Cuban's participation alongside Kevin Durant, Nas, Future, and HBSE Ventures.

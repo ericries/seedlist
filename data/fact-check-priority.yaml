@@ -1,20 +1,28 @@
 priority:
 - slug: mark-cuban
   type: investor
-  reason: "appeared in Kind Designs Pre-Series A (2026-07-16), $10M — returning investor"
+  reason: 'Fact-spec sweep 2026-07-20 (sixth pass): (A) Kind Designs Pre-Series A priority row on mark-cuban.md tightened from "2026 | [^32]" to "2026-07-16 | Pre-Series A ($10M oversubscribed at $70M val; upsized from $5M target after ~$20M in investor interest; new backer Kyle Kuzma; total raised ~$21.5M) | [^32][^33][^34]" via existing Refresh Miami [^32] + NEW BusinessWire company press [^33] + NEW FinSMEs [^34]. (B) Deeper portfolio sweep: tightened 3 additional vague ~year rows via 3+ primary sources each. DAVE: "~2017 | Seed (led)" → "2017-04-25 | Seed ($3M, led; Cuban led alongside SV Angel, Chernin Group, Kraft, Skip Paul, Diplo)" via existing CNBC [^21] + NEW TechCrunch primary [^35] + NEW Built In LA Wilk interview [^36]. INJECTIVE PROTOCOL: "~2021 | Direct" → "2021-04-20 | Private token sale ($10M at $1B+ val; Pantera Capital led)" via existing TechCrunch [^28] + NEW Injective company blog / The Block [^37] + NEW The Defiant [^38]. UNDERDOG FANTASY: "~2021 | Direct" → "2021-05-03 | Seed ($10M; Kevin Carter led; Cuban participated alongside Kevin Durant, Nas, Future, Kygo, Chainsmokers)" via existing Yahoo Sports/Sportico [^31] + NEW PR Newswire company primary [^39] + NEW Sportico original [^40]. 6 new footnotes added ([^33]-[^40]) on mark-cuban.md.'
   added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-20
 - slug: adrian-fenty
   type: investor
-  reason: "appeared in Kind Designs Pre-Series A (2026-07-16), $10M — returning investor"
+  reason: 'Fact-spec sweep 2026-07-20 (sixth pass): Kind Designs Pre-Series A priority row on adrian-fenty.md tightened from "2026 | [^23]" to "2026-07-16 | Pre-Series A ($10M oversubscribed at $70M val; upsized from $5M target after ~$20M in investor interest; new backer Kyle Kuzma; total raised ~$21.5M) | [^23][^24][^25]" via existing Refresh Miami [^23] + NEW BusinessWire company press [^24] + NEW FinSMEs [^25]. 2 new footnotes added.'
   added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-20
 - slug: first-round-capital
   type: firm
-  reason: "appeared in Corner Health Series A (2026-07-09), $25M — Oak HC/FT led"
+  reason: 'Fact-spec sweep 2026-07-20 (sixth pass): Corner Health Series A priority row on first-round-capital.md tightened from "2026-07-09 | [^31]" to "2026-07-09 | Series A (participated; Oak HC/FT led, $25M; Zigg Capital co-participated; combined with $7.5M prior seed/pre-seed for total announced funding of $32.5M) | [^31][^32][^33]" via existing BusinessWire [^31] + NEW Fortune exclusive with Annie Lamont quote [^32] + NEW HLTH healthcare-vertical [^33]. 2 new footnotes added.'
   added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-20
 - slug: union-square-ventures
   type: firm
-  reason: "led Pascal Series A (2026-07-16), $9M"
+  reason: 'Fact-spec sweep 2026-07-20 (sixth pass): Pascal Series A priority row on union-square-ventures.md tightened from "2026-07-16 | [^35]" to "2026-07-16 | Series A (led, $9M; follows ~$6M seed August 2025; total funding ~$15M) | [^35][^36][^37]" via existing Fortune [^35] + NEW Crypto Briefing [^36] + NEW Bettors Insider [^37]. 2 new footnotes added.'
   added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-20
 - slug: vishal-lugani
   type: investor
   reason: 'Fact-spec sweep 2026-07-20 (fifth pass): tightened 3 year-only portfolio rows on vishal-lugani.md (with parallel updates on acrew-capital.md firm profile) via 3+ primary sources each. (1) NOMAD HOMES: "2023 | Series A ext." → "2023-10-23 | Series A extension (led by Acrew, USD 20M; 01 Advisors, HighSage Ventures, Abstract Ventures, Partech, Precursor Ventures, Potluck Ventures, Knollwood participated)" via existing TechCrunch [^16] + Lowenstein Sandler LLP (Acrew legal counsel) [^21] + Wamda [^22]. (2) FINIX PAYMENTS: "2024 | Series C" → "2024-10-24 | Series C (led by Acrew, USD 75M; co-led with Leap Global and Lightspeed Venture Partners; Citi Ventures + Tribeca Venture Partners new; Homebrew, Insight Partners, Inspired Capital, Cap Table Coalition existing; total funding to USD 208M)" via existing Finix press [^17] + GlobeNewswire wire distribution [^23] + FinTech Global [^24]. (3) MEDALLION: "2025 | Series B" CORRECTED to "2025-08-18 | Growth (led by Acrew, USD 43M; stage not named in press — profile previously mis-labeled as Series B; Washington Harbour Partners new; Sequoia Capital, GV, Spark Capital, NFDG existing; total funding to USD 130M)" via existing Medallion press [^18] + PR Newswire [^25] + MobiHealthNews [^26]. Also updated frontmatter last_verified_investment.round from "Series B" to "Growth" and corrected the "In Their Own Words" quote header from "Medallion Series B" to "Medallion''s USD 43M round". Parallel updates on acrew-capital.md: Finix row tightened from "Growth | ~2021" to Series C 2024-10-24 with full syndicate via [^40]-[^42]; new Nomad Homes row added via [^43]-[^45]. 6 new footnotes on vishal-lugani.md ([^21]-[^26]); 6 new footnotes on acrew-capital.md ([^40]-[^45]).'

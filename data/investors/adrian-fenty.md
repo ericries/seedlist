@@ -149,7 +149,7 @@ Portfolio entries below are attributed to Adrian Fenty based on the MaC VC portf
 | Somewhere Somehow | ~2023 | Seed | Consumer / Social | [^14] |
 | Cosmic Labs | ~2023 | Seed | Deep Tech / Robotics | [^14] |
 | Prembly | ~2023 | Seed | Fintech / Africa / KYC | [^14] |
-| Kind Designs | 2026 | Pre-Series A ($10M round; returning investor) | Climate / Coastal Infrastructure / 3D Printing | [^23] |
+| Kind Designs | 2026-07-16 | Pre-Series A ($10M oversubscribed round at $70M valuation; targeted at $5M but upsized after ~$20M in investor interest; returning investor; new backer Kyle Kuzma; total raised ~$21.5M) | Climate / Coastal Infrastructure / 3D Printing | [^23][^24][^25] |
 
 ## In Their Own Words
 
@@ -247,3 +247,7 @@ Described working with MaC as "running a business with a brother." [^13]
 [^22]: TechCrunch, "Epsilon3 lines up $2.8M seed round to modernize space and launch operations," January 26, 2022 (confirms MaC as pre-seed investor in Epsilon3, YC S2021). https://techcrunch.com/2022/01/26/epsilon3-lines-up-2-8m-seed-round-to-modernize-space-and-launch-operations/
 
 [^23]: Nancy Dahlberg, "Kind Designs just raised a star-studded $10 million round to change how America builds seawalls," Refresh Miami, July 16, 2026 (confirms Adrian Fenty as returning investor in Kind Designs' Pre-Series A). Accessed July 20, 2026. https://refreshmiami.com/news/kind-designs-just-raised-a-star-studded-10-million-round-to-change-how-america-builds-seawalls/
+
+[^24]: "Kind Designs Closes Oversubscribed $10M Round to Scale 3D-Printed Living Seawalls," BusinessWire (via Morningstar), July 16, 2026. Accessed July 20, 2026. https://www.morningstar.com/news/business-wire/20260716799371/kind-designs-closes-oversubscribed-10m-round-to-scale-3d-printed-living-seawalls — Company primary press release confirming the oversubscribed $10M Pre-Series A at $70M valuation with Adrian Fenty as returning investor.
+
+[^25]: "Kind Designs Raises $10M in Pre-Series A Funding," FinSMEs, July 16, 2026. Accessed July 20, 2026. https://www.finsmes.com/2026/07/kind-designs-raises-10m-in-pre-series-a-funding.html — Third independent confirmation of Adrian Fenty as returning investor in Kind Designs' Pre-Series A alongside Mark Cuban and new backer Kyle Kuzma.
