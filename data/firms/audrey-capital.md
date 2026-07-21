@@ -99,7 +99,7 @@ Based on 20 verified investments where the source, year, and Audrey Capital or M
 | Telegram | Early | ~2018 | Messaging | [^3] |
 | AppFlowy | Seed ($6.4M, OSS Capital led) | 2023-11-20 | Developer Tools / Open Source | [^18] [^26] |
 | Mindset Health | Series A | 2023-03-21 | Digital Health | [^12] [^24] [^25] |
-| Spiraldot Health | Seed | 2025 | Healthcare | [^19] |
+| Spiraldot Health | Seed (Series 2 seed, USD 3.2M; Sofinnova Partners, Antler, and Atlas SGR named in primary press; Audrey Capital aggregator-attributed only — not named in the CastlePlacement Feb 1-15, 2025 tier-1 digital health capital raises report) | 2025-02 | Healthcare / Oncology AI | Aggregator-attributed [^19][^29] |
 | Scorbit | Seed ($5M+; Detroit Venture Partners led; Mullenweg among pre-seed angels whose commitment converted into seed) | 2025-11-13 | Gaming / Hardware | [^20][^27][^28] |
 | Decrypt | Series A | 2022 | Media / Crypto | [^19] |
 | Journey Clinical | Seed | 2021 | Healthcare | [^19] |
@@ -158,3 +158,5 @@ No independently sourced founder testimonials found. Audrey Capital's website do
 [^26]: AppFlowy, "Announcing AppFlowy $6.4M Seed Funding," November 16, 2023, accessed June 2026. https://appflowy.com/blog/seed — Company's own announcement confirming $6.4M Seed led by OSS Capital with participation from Matt Mullenweg (Automattic), Bob Young (Red Hat), Steve Chen (YouTube), Tom Preston-Werner (GitHub), Amr Awadallah (Cloudera).
 [^27]: Scorbit official newsroom, "Scorbit Closes $5 Million+ Seed Round As Beta Launch Proves Market Traction And Massive Opportunity," November 13, 2025. https://scorbit.io/news/2025/11/scorbit-closes-5-million-seed-round-as-beta-launch-proves-market-traction-and-massive-opportunity/ — Company's own announcement. Confirms Detroit Venture Partners led the $5M+ seed; Matt Mullenweg (Automattic) named among pre-seed angels whose commitment converted into the seed round.
 [^28]: FinSMEs, "Scorbit Closes Over $5M Seed Funding," November 2025. https://www.finsmes.com/2025/11/scorbit-closes-over-5m-seed-funding.html — Independent press coverage confirming the November 13, 2025 seed round; investor list matches primary source.
+
+[^29]: Castle Placement, "Top 10 DigitalHealth/HealthTech Capital Raises in the U.S. — February 1st – 15th, 2025," accessed July 2026. https://castleplacement.com/top-10-digitalhealth-healthtech-capital-raises-in-the-u-s-february-1st-15th-2025/ — Contemporaneous industry-tracker report of Feb 1-15, 2025 capital raises. Names Spiraldot Health's USD 3.2M Series 2 seed with investors Sofinnova Partners, Antler, and Atlas SGR. Audrey Capital is NOT named in this primary press report; Audrey's participation appears only in aggregator listings (Crunchbase, PitchBook, Tracxn) — same aggregator-only failure mode as prior Owlery, Dishcraft, WayTrade unresolvable precedents. Row retained for provenance but flagged as aggregator-attributed.

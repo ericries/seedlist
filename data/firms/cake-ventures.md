@@ -103,7 +103,7 @@ The stated thesis emphasizes the "majority-minority shift" and new consumer demo
 | TenYour | Seed | ~2023 | Insurtech | Active [^4] |
 | STAND+ | Seed | ~2022 | Consumer / future-of-work | Active [^4] |
 | Lotus Labs | Pre-seed | ~2023 | Hardware / smart home | Active [^4] |
-| Koobz | Seed | 2025 | Manufacturing / footwear | Active [^17] |
+| Koobz | Seed (participated; USD 6M tranche brings total seed to USD 7.2M; Uncork Capital led; V1.VC, Karman Ventures, Antler, Pathbreaker Ventures, Anorak Ventures also participated) | 2025-06-24 | Manufacturing / footwear | Active [^17][^22][^23] |
 | Shop McMullen | Seed | ~2021 | Consumer / e-commerce | Active [^4] |
 | EasyMateAI | Pre-seed/Seed | 2024 | AI / developer tools | Active [^4] |
 
@@ -167,10 +167,14 @@ No additional independently sourced founder testimonials found. The McGlory quot
 
 [^16]: Remedy Product Studio, "Remedy Invests in Sol Health," accessed April 2026. https://www.remedyproduct.com/post/remedy-invests-in-sol-health-a-company-bringing-affordable-high-quality-therapy-to-gen-z
 
-[^17]: 3D Printing Industry, "Koobz Secures $7.2 Million to Bring Scalable, Automated Footwear Manufacturing to the U.S.," 2025. https://3dprintingindustry.com/news/koobz-secures-7-2-million-to-bring-scalable-automated-footwear-manufacturing-to-the-u-s-241268/
+[^17]: 3D Printing Industry, "Koobz Secures $7.2 Million to Bring Scalable, Automated Footwear Manufacturing to the U.S.," June 30, 2025. https://3dprintingindustry.com/news/koobz-secures-7-2-million-to-bring-scalable-automated-footwear-manufacturing-to-the-u-s-241268/ — Confirms $7.2M total seed capital (comprising $6M new tranche plus $1.2M prior fall), lead investor Uncork Capital, with participation from Cake Ventures, V1.VC, Karman Ventures, Antler, Pathbreaker Ventures, and Anorak Ventures.
 
 [^18]: VC Uncovered, "Monique Woodard — Cake Ventures," accessed April 2026. https://www.vcuncovered.com/p/monique-woodard-cake-ventures
 [^19]: AfroTech, "Gerome Sapp's Sneaker Investment App Rares Secures $4M In Seed Funding Round," October 2021. https://afrotech.com/rares-mac-venture-capital-seed-funding-round
 [^20]: PRNewswire, "RethinkFirst Acquires Joshin to Create First Fully Integrated Neurodiversity and Disability Support Platform," 2025. https://www.prnewswire.com/news-releases/rethinkfirst-acquires-joshin-to-create-first-fully-integrated-neurodiversity-and-disability-support-platform-302532850.html
 [^21]: PRNewswire, "Frame Fertility Launches to Proactively Reduce the Crises, Risk Factors and High Costs of an Infertility Diagnosis," April 2022. https://www.prnewswire.com/news-releases/frame-fertility-launches-to-proactively-reduce-the-crises-risk-factors-and-high-costs-of-an-infertility-diagnosis-301533813.html
+
+[^22]: VoxelMatters, "Koobz closes seed round, bringing total funding to $7.2M," June 24, 2025. https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/ — Independent additive-manufacturing press confirmation dated June 24, 2025 with the same syndicate: Uncork Capital lead; Cake Ventures, Antler, V1, Karman Ventures, Pathbreaker Ventures, Anorak Ventures participants.
+
+[^23]: 3DPrint.com, "3D Printed Footwear Startup Koobz Lands $7.2M in Seed Round," June 25, 2025. https://3dprint.com/318985/3d-printed-footwear-startup-koobz-lands-7-2m-in-seed-round/ — Third independent confirmation: $7.2M seed with Uncork Capital as lead and $6M added to the prior $1.2M raised the previous fall.
 

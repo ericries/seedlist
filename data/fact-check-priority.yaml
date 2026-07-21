@@ -1,4 +1,22 @@
 priority:
+- slug: cake-ventures
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-21: tightened Koobz portfolio row on cake-ventures.md from year-only "Seed | 2025" to "Seed (participated; USD 6M tranche brings total seed to USD 7.2M; Uncork Capital led; V1.VC, Karman Ventures, Antler, Pathbreaker Ventures, Anorak Ventures also participated) | 2025-06-24" via existing 3D Printing Industry [^17] + NEW VoxelMatters [^22] + NEW 3DPrint.com [^23]. Earliest announcement date is June 24, 2025 (VoxelMatters). 2 new footnotes added.'
+  added: 2026-07-21
+  status: resolved
+  resolved: 2026-07-21
+- slug: breakthrough-energy-ventures
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-21: tightened Bloom Biorenewables portfolio row on breakthrough-energy-ventures.md from year-only "Early Stage | 2025" to "Series A (participated; CHF 13M / ~USD 15M co-led by Anaïs Ventures and Valquest Partners; Lombard Odier Investment Managers, Capital Risque Fribourg, Btomorrow Ventures, Amcor Ventures, Rosebrook, King Baudouin Foundation via R&Co4Generations also participated) | 2025-04-03" via 3 primary sources: NEW ESG Today [^bb1] + NEW Anaïs Ventures own primary announcement [^bb2] + NEW Lombard Odier Asset Management participant-side primary [^bb3]. Original currency (CHF 13M) preserved. 3 new footnotes added.'
+  added: 2026-07-21
+  status: resolved
+  resolved: 2026-07-21
+- slug: audrey-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-21 (unresolvable, aggregator-only): reviewed Spiraldot Health Seed row on audrey-capital.md ("Seed | 2025 | [^19]"). Verified via CastlePlacement Feb 1-15, 2025 tier-1 digital health capital raises report [^29] (only primary source located) that Spiraldot Health raised USD 3.2M Series 2 seed with Sofinnova Partners, Antler, and Atlas SGR — Audrey Capital is NOT named. Audrey attribution appears only in aggregators (Crunchbase, PitchBook, Tracxn) — same aggregator-only failure mode as Owlery, Dishcraft, WayTrade, ArchiBoost, Polymarket unresolvable precedents. Row annotated with the finding (year tightened from "2025" to "2025-02" per aggregator-recorded 2025-02-07 investment date; status column marked "Aggregator-attributed"). Retained for provenance rather than removed. 1 new footnote added ([^29]).'
+  added: 2026-07-21
+  status: unresolvable
+  resolved: 2026-07-21
 - slug: mark-cuban
   type: investor
   reason: 'Fact-spec sweep 2026-07-20 (sixth pass): (A) Kind Designs Pre-Series A priority row on mark-cuban.md tightened from "2026 | [^32]" to "2026-07-16 | Pre-Series A ($10M oversubscribed at $70M val; upsized from $5M target after ~$20M in investor interest; new backer Kyle Kuzma; total raised ~$21.5M) | [^32][^33][^34]" via existing Refresh Miami [^32] + NEW BusinessWire company press [^33] + NEW FinSMEs [^34]. (B) Deeper portfolio sweep: tightened 3 additional vague ~year rows via 3+ primary sources each. DAVE: "~2017 | Seed (led)" → "2017-04-25 | Seed ($3M, led; Cuban led alongside SV Angel, Chernin Group, Kraft, Skip Paul, Diplo)" via existing CNBC [^21] + NEW TechCrunch primary [^35] + NEW Built In LA Wilk interview [^36]. INJECTIVE PROTOCOL: "~2021 | Direct" → "2021-04-20 | Private token sale ($10M at $1B+ val; Pantera Capital led)" via existing TechCrunch [^28] + NEW Injective company blog / The Block [^37] + NEW The Defiant [^38]. UNDERDOG FANTASY: "~2021 | Direct" → "2021-05-03 | Seed ($10M; Kevin Carter led; Cuban participated alongside Kevin Durant, Nas, Future, Kygo, Chainsmokers)" via existing Yahoo Sports/Sportico [^31] + NEW PR Newswire company primary [^39] + NEW Sportico original [^40]. 6 new footnotes added ([^33]-[^40]) on mark-cuban.md.'
