@@ -39,6 +39,15 @@ pending_rounds:
   parsed_round: Pre-Seed
   status: processed
   processed: '2026-07-21'
+- title: Italy’s Circular Materials secures €11.8 million to recover critical raw
+    materials from industrial wastewater
+  url: https://www.eu-startups.com/2026/07/italys-circular-materials-secures-e11-8-million-to-recover-critical-raw-materials-from-industrial-wastewater/
+  source: eu-startups
+  date_found: '2026-07-21'
+  parsed_company: Italy’s Circular Materials
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: AmpliTech Receives Approximately $21.9 Million of Subscriptions in Series
     A Rights Offering
   url: https://www.globenewswire.com/news-release/2026/07/20/3329662/0/en/AmpliTech-Receives-Approximately-21-9-Million-of-Subscriptions-in-Series-A-Rights-Offering.html
@@ -130,6 +139,14 @@ pending_rounds:
   date_found: '2026-07-20'
   parsed_company: null
   parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Natural raises $30M to reinvent payments for AI agents — and take on Stripe
+  url: https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/
+  source: techcrunch
+  date_found: '2026-07-20'
+  parsed_company: Natural
+  parsed_amount: $30M
   parsed_round: null
   status: pending
 - title: Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation
