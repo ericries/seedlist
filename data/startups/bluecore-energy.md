@@ -1,25 +1,36 @@
 ---
-name: "Bluecore Energy"
-slug: bluecore-energy
-type: startup
-website: "https://bluecore.energy"
-location: "United States"
+firms:
+- round: Pre-Seed
+  slug: ripple
+  year: 2026
 founded: 2025
-status_company: active
-sector: [energy, nuclear, cleantech, climate-tech, hardware, deeptech, maritime, infrastructure]
-stage_latest: "Pre-Seed"
-total_raised: "$10M"
-firms: []
-investors:
-  - slug: chris-larsen
-    round: pre-seed
-    year: 2026
-    date: 2026-07-21
 founders:
-  - name: "Kofi Asante"
-    role: "Founder & CEO"
-status: published
+- name: Kofi Asante
+  role: Founder & CEO
+investors:
+- date: 2026-07-21
+  round: pre-seed
+  slug: chris-larsen
+  year: 2026
 last_researched: 2026-07-21
+location: United States
+name: Bluecore Energy
+sector:
+- energy
+- nuclear
+- cleantech
+- climate-tech
+- hardware
+- deeptech
+- maritime
+- infrastructure
+slug: bluecore-energy
+stage_latest: Pre-Seed
+status: published
+status_company: active
+total_raised: $10M
+type: startup
+website: https://bluecore.energy
 ---
 
 ## About

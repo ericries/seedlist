@@ -1,21 +1,32 @@
 ---
-name: "Omio"
-slug: omio
-type: startup
-website: "https://www.omio.com"
-location: "Berlin, Germany"
+firms:
+- round: Growth
+  slug: bond
+  year: 2022
 founded: 2013
-status_company: active
-sector: [travel, transportation, marketplace, consumer, mobility]
-stage_latest: "Strategic"
-total_raised: "$490M+"
-firms: []
-investors: []
 founders:
-  - name: "Naren Shaam"
-    role: "CEO & Founder"
-status: published
+- name: Naren Shaam
+  role: CEO & Founder
+investors:
+- round: Growth
+  slug: mood-rowghani
+  year: 2022
 last_researched: 2026-07-21
+location: Berlin, Germany
+name: Omio
+sector:
+- travel
+- transportation
+- marketplace
+- consumer
+- mobility
+slug: omio
+stage_latest: Strategic
+status: published
+status_company: active
+total_raised: $490M+
+type: startup
+website: https://www.omio.com
 ---
 
 ## About

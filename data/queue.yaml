@@ -25269,7 +25269,7 @@ queue:
 - name: Elissa Fink
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: independent
   discovered_from: chris-stolte
@@ -25556,7 +25556,7 @@ queue:
 - name: Mike Bostock
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Observable
   discovered_from: jeff-heer
@@ -39996,3 +39996,79 @@ queue:
   firm: Gritt
   discovered_from: gritt
   source: Co-Founder & CTO of Gritt; Carnegie Mellon roboticist
+- name: Magnify
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elissa-fink
+- name: Goldcast
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elissa-fink
+- name: Keyplay
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elissa-fink
+- name: MHS Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elissa-fink
+- name: Ascend VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elissa-fink
+- name: Stage 2 Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elissa-fink
+- name: Aaron Bird
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elissa-fink
+- name: Chandar Pattabhiram
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Coupa
+  discovered_from: elissa-fink
+- name: Adam Schoenfeld
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Keyplay
+  discovered_from: elissa-fink
+- name: Bill Richter
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Qumulo
+  discovered_from: elissa-fink
+- name: Observable
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: mike-bostock
+- name: Melody Meckfessel
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Observable
+  discovered_from: mike-bostock

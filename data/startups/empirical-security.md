@@ -1,25 +1,35 @@
 ---
-name: "Empirical Security"
-slug: empirical-security
-type: startup
-website: "https://www.empiricalsecurity.com"
-location: "Chicago, IL"
+firms:
+- round: Seed
+  slug: costanoa-ventures
+  year: 2025
 founded: 2024
-status_company: active
-sector: [cybersecurity, ai, enterprise-software, vulnerability-management]
-stage_latest: "Series A"
-total_raised: "$37M"
-firms: []
-investors: []
 founders:
-  - name: "Ed Bellis"
-    role: "CEO & Co-Founder"
-  - name: "Michael Roytman"
-    role: "CTO & Co-Founder"
-  - name: "Jay Jacobs"
-    role: "Chief Data Scientist & Co-Founder"
-status: published
+- name: Ed Bellis
+  role: CEO & Co-Founder
+- name: Michael Roytman
+  role: CTO & Co-Founder
+- name: Jay Jacobs
+  role: Chief Data Scientist & Co-Founder
+investors:
+- round: Seed
+  slug: john-cowgill
+  year: 2025
 last_researched: 2026-07-20
+location: Chicago, IL
+name: Empirical Security
+sector:
+- cybersecurity
+- ai
+- enterprise-software
+- vulnerability-management
+slug: empirical-security
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $37M
+type: startup
+website: https://www.empiricalsecurity.com
 ---
 
 ## About

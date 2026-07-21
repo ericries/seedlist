@@ -1,33 +1,46 @@
 ---
-name: "Gritt"
-slug: gritt
-type: startup
-website: "https://www.gritt.ai"
-location: "United States"
-founded: 2024
-status_company: active
-sector: [robotics, ai, construction, cleantech, climate-tech, hardware, deeptech, solar, physical-ai]
-stage_latest: "Series A"
-total_raised: "$34M"
 firms:
-  - slug: obvious-ventures
-    round: series-a
-    year: 2026
-    date: 2026-07-21
-  - slug: union-square-ventures
-    round: series-a
-    year: 2026
-    date: 2026-07-21
-  - slug: first-round-capital
-    round: seed
-    year: 2025
+- date: 2026-07-21
+  round: series-a
+  slug: obvious-ventures
+  year: 2026
+- date: 2026-07-21
+  round: series-a
+  slug: union-square-ventures
+  year: 2026
+- round: seed
+  slug: first-round-capital
+  year: 2025
+founded: 2024
 founders:
-  - name: "Puneet Puri"
-    role: "Co-Founder & CEO"
-  - name: "Vishal Dugar"
-    role: "Co-Founder & CTO"
-status: published
+- name: Puneet Puri
+  role: Co-Founder & CEO
+- name: Vishal Dugar
+  role: Co-Founder & CTO
+investors:
+- round: Series A (led, $26M)
+  slug: andrew-beebe
+  year: 2026
 last_researched: 2026-07-21
+location: United States
+name: Gritt
+sector:
+- robotics
+- ai
+- construction
+- cleantech
+- climate-tech
+- hardware
+- deeptech
+- solar
+- physical-ai
+slug: gritt
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $34M
+type: startup
+website: https://www.gritt.ai
 ---
 
 ## About

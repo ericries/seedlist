@@ -1,28 +1,44 @@
 ---
-name: "Kind Designs"
-slug: kind-designs
-type: startup
-website: "https://www.kinddesigns.org"
-location: "Miami, FL"
-status_company: active
-sector: [climate, climate-resilience, coastal-infrastructure, 3d-printing, hardware, deep-tech]
-stage_latest: "Pre-Series A"
-total_raised: "$21.5M"
-investors:
-  - slug: mark-cuban
-    round: pre-series-a
-    year: 2026
-    date: 2026-07-16
-  - slug: adrian-fenty
-    round: pre-series-a
-    year: 2026
-    date: 2026-07-16
-firms: []
+firms:
+- round: Pre-Series A ($10M oversubscribed round at $70M valuation; targeted at $5M
+    but upsized after ~$20M in investor interest; Cuban is a returning investor; new
+    backer Kyle Kuzma; total raised ~$21.5M)
+  slug: mark-cuban-companies
+  year: 2026
+- round: Pre-Series A ($10M oversubscribed round at $70M valuation; targeted at $5M
+    but upsized after ~$20M in investor interest; returning investor; new backer Kyle
+    Kuzma; total raised ~$21.5M)
+  slug: mac-venture-capital
+  year: 2026
 founders:
-  - name: "Anya Freeman"
-    role: "Founder & CEO"
-status: published
+- name: Anya Freeman
+  role: Founder & CEO
+investors:
+- date: 2026-07-16
+  round: pre-series-a
+  slug: mark-cuban
+  year: 2026
+- date: 2026-07-16
+  round: pre-series-a
+  slug: adrian-fenty
+  year: 2026
 last_researched: 2026-07-20
+location: Miami, FL
+name: Kind Designs
+sector:
+- climate
+- climate-resilience
+- coastal-infrastructure
+- 3d-printing
+- hardware
+- deep-tech
+slug: kind-designs
+stage_latest: Pre-Series A
+status: published
+status_company: active
+total_raised: $21.5M
+type: startup
+website: https://www.kinddesigns.org
 ---
 
 ## About

@@ -1,45 +1,56 @@
 ---
-name: "Natural"
-slug: natural
-type: startup
-website: "https://trynatural.com"
-location: "San Francisco, CA"
-founded: 2024
-status_company: active
-sector: [fintech, ai, ai-agents, payments, infrastructure]
-stage_latest: "Series A"
-total_raised: "$40M"
 firms:
-  - slug: forerunner-ventures
-    round: series-a
-    year: 2026
-    date: 2026-07-20
-  - slug: abstract-ventures
-    round: series-a
-    year: 2026
-    date: 2026-07-20
-investors:
-  - slug: kirsten-green
-    round: series-a
-    year: 2026
-    date: 2026-07-20
-  - slug: ramtin-naimi
-    round: series-a
-    year: 2026
-    date: 2026-07-20
-  - slug: pete-koomen
-    round: series-a
-    year: 2026
-    date: 2026-07-20
+- date: 2026-07-20
+  round: series-a
+  slug: forerunner-ventures
+  year: 2026
+- date: 2026-07-20
+  round: series-a
+  slug: abstract-ventures
+  year: 2026
+- round: Series A ($30M, participated as individual investor)
+  slug: y-combinator
+  year: 2026
+founded: 2024
 founders:
-  - name: "Kahlil Lalji"
-    role: "CEO & Co-Founder"
-  - name: "Eric Wang"
-    role: "Co-Founder"
-  - name: "Walt Leung"
-    role: "Co-Founder"
-status: published
+- name: Kahlil Lalji
+  role: CEO & Co-Founder
+- name: Eric Wang
+  role: Co-Founder
+- name: Walt Leung
+  role: Co-Founder
+investors:
+- date: 2026-07-20
+  round: series-a
+  slug: kirsten-green
+  year: 2026
+- date: 2026-07-20
+  round: series-a
+  slug: ramtin-naimi
+  year: 2026
+- date: 2026-07-20
+  round: series-a
+  slug: pete-koomen
+  year: 2026
+- round: 2025-10
+  slug: immad-akhund
+  year: 2025
 last_researched: 2026-07-20
+location: San Francisco, CA
+name: Natural
+sector:
+- fintech
+- ai
+- ai-agents
+- payments
+- infrastructure
+slug: natural
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $40M
+type: startup
+website: https://trynatural.com
 ---
 
 ## About
