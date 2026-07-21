@@ -10854,7 +10854,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 66,
+      "size": 67,
       "members": [
         {
           "slug": "aileen-lee",
@@ -11178,6 +11178,11 @@
           "slug": "seema-amble",
           "name": "Seema Amble",
           "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "elissa-fink",
+          "name": "Elissa Fink",
+          "firm": "independent"
         }
       ]
     },
