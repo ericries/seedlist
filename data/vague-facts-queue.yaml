@@ -5806,7 +5806,9 @@ vague_facts:
   line: '| Duna | Series A | 2026 | Enterprise/Identity | Active | [^29] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: tightened Duna row on capitalg.md from "Series A | 2026" to "Series A (€30M, CapitalG led; Index Ventures and Puzzle Ventures follow-on; Snowflake chairman Frank Slootman and Stripe/Adyen executive angels participated) | 2026-02-05" via 3 primary sources: (1) Duna company news page "Duna raises €30mn Series A" [^69] (NEW — company primary), (2) TechCrunch 2026-02-04 "Stripe alumni raise €30M Series A for Duna" [^70] (NEW — contemporaneous tier-1 tech press with angel-investor list), (3) BusinessWire 20260205 wire release [^29] (existing). Duna.com and BusinessWire both anchor Feb 5, 2026 as canonical announcement date; TechCrunch pre-embargo cover Feb 4. 2 new footnotes added; currency preserved (€30M, not converted to USD).'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Bedrock Robotics
@@ -5816,7 +5818,9 @@ vague_facts:
   line: '| Bedrock Robotics | Growth | 2026 | AI/Robotics | Active | [^27] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: CORRECTED misclassified round type on capitalg.md from "Growth | 2026" to "Series B ($270M, CapitalG and Valor Atreides AI Fund co-led; Xora, 8VC, Eclipse, Emergence Capital, Perry Creek Capital, NVentures, Tishman Speyer, MIT, Georgian, Incharge Capital, C4 Ventures participated) | 2026-02-04" via 3 primary sources: (1) PR Newswire primary press release 2026-02-04 [^71] (NEW), (2) Robotics and Automation News 2026-02-05 [^72] (NEW), (3) FinSMEs 2026-02 [^73] (NEW). Prior "Growth" was wrong — this is a designated Series B ($270M brings total to $350M+ after July 2025 stealth emergence at $1.75B valuation). 3 new footnotes added.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Nibol
@@ -167065,7 +167069,9 @@ vague_facts:
   line: '| Duna | Series A | 2026 | Enterprise/Identity | Active | [^29] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Date column tightened from year-only "2026" to specific "2026-02-05" — see parallel resolution on the same row (unknown_value column 5) above for full 3-source verification. Duna.com official announcement date is 2026-02-05.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Bedrock Robotics
@@ -167075,7 +167081,9 @@ vague_facts:
   line: '| Bedrock Robotics | Growth | 2026 | AI/Robotics | Active | [^27] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Date column tightened from year-only "2026" to specific "2026-02-04" and round type CORRECTED from "Growth" to "Series B" — see parallel resolution on the same row (unknown_value column 5) above for full 3-source verification. PR Newswire press release dateline is February 4, 2026.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Nibol
@@ -167719,7 +167727,9 @@ vague_facts:
   line: '| R1 Therapeutics | Seed | 2026 | Biotechnology | Active [^20] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: CORRECTED misclassified round type AND date on curie-bio.md from "Seed | 2026" to "Series A (Curie.Bio participated in $77.5M oversubscribed round co-led by Abingworth, F-Prime Capital, and DaVita Venture Group; SymBiosis and U.S. Renal Care also participated) | 2026-03-17" via 3 primary sources: (1) GlobeNewswire R1 Therapeutics primary press release 2026-03-17 [^22] (NEW), (2) BioPharma Dive 2026-03-17 [^23] (NEW — tier-1 trade press), (3) Fierce Biotech 2026-03 [^24] (NEW — tier-1 trade press). Curie.Bio participated in R1 Therapeutics Series A — the company launched publicly with this Series A and no separate seed round is documented in any primary source. Prior "Seed | 2026" was incorrect on both fields. Also updated Inferred Thesis sector breakdown to add nephrology/CKD category (R1 Therapeutics AP306 for hyperphosphatemia in dialysis patients). 3 new footnotes added ([^22][^23][^24]).'
 - profile: firms/dbl-partners
   profile_name: DBL Partners
   company: xAI

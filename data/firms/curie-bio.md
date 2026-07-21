@@ -65,7 +65,7 @@ Based on 10 verified investments (out of 26+ claimed), Curie.Bio's actual portfo
 
 **Stage distribution:** 100% seed-stage investments (10 of 10). Every verified investment is a pre-Series A seed round. This is consistent with the firm's stated focus [^9][^14].
 
-**Sector breakdown:** The portfolio is exclusively therapeutics, with no platform-only or tools companies observed. Based on verified investments: immunology/inflammation (2 of 10, 20% — Forward Therapeutics, Decrypt Biomedicine), neuroscience/psychiatry (2 of 10, 20% — Phrenix Therapeutics, Alkira Bio [GPCR-targeting antibodies for neurological conditions]), degrader therapeutics (1 of 10, 10% — Differentiated Therapeutics), multiple sclerosis (1 of 10, 10% — Astoria Biologica). The remaining verified companies (R1 Therapeutics, Ambagon Therapeutics) have limited public information on therapeutic area [^2][^6][^9][^17][^18].
+**Sector breakdown:** The portfolio is exclusively therapeutics, with no platform-only or tools companies observed. Based on verified investments: immunology/inflammation (2 of 10, 20% — Forward Therapeutics, Decrypt Biomedicine), neuroscience/psychiatry (2 of 10, 20% — Phrenix Therapeutics, Alkira Bio [GPCR-targeting antibodies for neurological conditions]), degrader therapeutics (1 of 10, 10% — Differentiated Therapeutics), multiple sclerosis (1 of 10, 10% — Astoria Biologica), nephrology/CKD (1 of 10, 10% — R1 Therapeutics, developing AP306 for hyperphosphatemia in dialysis patients [^22]). The remaining verified company (Ambagon Therapeutics) has limited public information on therapeutic area [^2][^6][^9][^17][^18].
 
 **Modality mix:** The portfolio spans small molecules (Forward Therapeutics), biologics/antibodies (Alkira Bio), and degraders (Differentiated Therapeutics), consistent with the stated "any modality" approach [^2][^13].
 
@@ -90,7 +90,7 @@ Based on 10 verified investments (out of 26+ claimed), Curie.Bio's actual portfo
 | Alkira Bio | Seed | 2024 | Antibody discovery (GPCRs) | Active [^17] |
 | Phrenix Therapeutics | Seed | 2025 | Psychiatry, neuroscience | Active [^18] |
 | Ambagon Therapeutics | Seed | ~2024 | Biotechnology | Active [^20] |
-| R1 Therapeutics | Seed | 2026 | Biotechnology | Active [^20] |
+| R1 Therapeutics | Series A (Curie.Bio participated in $77.5M oversubscribed round co-led by Abingworth, F-Prime Capital, and DaVita Venture Group; SymBiosis and U.S. Renal Care also participated) | 2026-03-17 | Nephrology / Chronic kidney disease | Active [^20][^22][^23][^24] |
 
 This table represents approximately 30% of Curie.Bio's claimed 26+ portfolio companies. The majority of investments are not publicly disclosed. Only 8 companies could be independently verified from public sources.
 
@@ -145,3 +145,9 @@ No additional independently sourced founder testimonials describing their experi
 [^19]: Endpoints News, "Forward Therapeutics, the first biotech from Curie.Bio, raises $50M for oral small molecules in immunology," November 2023, accessed April 2026. https://endpoints.news/forward-therapeutics-the-first-biotech-from-curie-bio-raises-50m-for-oral-small-molecules-in-immunology/
 [^20]: Crunchbase, "Curie.Bio Investments," accessed April 2026. https://www.crunchbase.com/organization/curie-bio
 [^21]: Bits in Bio, "Interview with Curie.Bio," accessed April 2026. https://bitsinbio.substack.com/p/interview-with-curiebio
+
+[^22]: GlobeNewswire, "R1 Therapeutics launches with oversubscribed $77.5 million Series A financing to advance first-in-class treatment for hyperphosphatemia in patients with chronic kidney disease," March 17, 2026. Accessed July 2026. https://www.globenewswire.com/news-release/2026/03/17/3256979/0/en/r1-therapeutics-launches-with-oversubscribed-77-5-million-series-a-financing-to-advance-first-in-class-treatment-for-hyperphosphatemia-in-patients-with-chronic-kidney-disease.html — Primary press release. Confirms R1 Therapeutics launched on March 17, 2026 with an oversubscribed $77.5M Series A co-led by Abingworth, F-Prime Capital, and DaVita Venture Group; Curie.Bio, SymBiosis, and U.S. Renal Care participated. Lead program AP306 is a pan phosphate active transport inhibitor licensed from Alebund Pharmaceuticals for hyperphosphatemia in CKD dialysis patients; Phase 2b planned to start later in 2026. Corrects prior classification of Curie.Bio's investment as "Seed" — R1 launched publicly with this Series A, and no separate seed round is documented in any primary source.
+
+[^23]: BioPharma Dive, "R1 starts up with $78M, aiming for a better kidney drug," March 17, 2026. Accessed July 2026. https://www.biopharmadive.com/news/r1-therapeutics-chronic-kidney-hyperphosphatemia/814593/ — Contemporaneous tier-1 trade press confirming $77.5M Series A on March 17, 2026 with Abingworth, F-Prime Capital, DaVita Venture Group, Curie.Bio, SymBiosis, and U.S. Renal Care.
+
+[^24]: Fierce Biotech, "R1 zooms out of stealth with $77.5M series A financing to advance chronic kidney disease treatment," March 2026. Accessed July 2026. https://www.fiercebiotech.com/biotech/r1-zooms-out-stealth-775m-series-financing-advance-chronic-kidney-disease-treatment — Third independent tier-1 trade-press confirmation of $77.5M Series A with same investor list; company emerged from stealth with this round.
