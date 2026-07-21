@@ -78,7 +78,7 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Kickstarter | Seed | 2010 | Money | [^4] |
+| Kickstarter | Seed/Angel | ~2010 | Money | [^5][^30] |
 | Reddit | Early | 2011 | Consumer | [^5] |
 | Lyft | Early | 2011 | Consumer | [^5] |
 | Blue Bottle Coffee | Early | 2011 | Consumer | [^5] |
@@ -186,3 +186,5 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 [^28]: EU-Startups, "London's Fuse Energy secures €25 million Series B extension as it plans 32,000 sq ft London HQ," June 4, 2026, accessed June 2026. https://www.eu-startups.com/2026/06/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/ ; BeBeez International, June 4, 2026. https://bebeez.eu/2026/06/04/londons-fuse-energy-secures-e25-million-series-b-extension-as-it-plans-32000-sq-ft-london-hq/ ; Mercom Capital Group, December 22, 2025 (original Series B). https://mercomcapital.com/fuse-energy-secures-70-million-in-series-b-funding/
 
 [^29]: PR Newswire, "Hippo Harvest Closes $30 Million Series C Led by Cox Farms, Scaling Robotic Indoor Growing Technology and Expanding to New Markets," July 9, 2026. Accessed July 9, 2026. https://www.prnewswire.com/news-releases/hippo-harvest-closes-30-million-series-c-led-by-cox-farms-scaling-robotic-indoor-growing-technology-and-expanding-to-new-markets-302822124.html
+
+[^30]: AllThingsD (Peter Kafka), "Kickstarter Fesses Up: The Crowd-Sourced Funding Startup Has Funding, Too," March 17, 2011. Accessed July 2026. Note: The publicly disclosed Kickstarter funding round (~USD 10M) was led by Union Square Ventures with Betaworks and 15 named individual angels (Jack Dorsey, Zach Klein, Caterina Fake, Scott Heiferman, David Cross, Josh Stylman, Peter Hershberg, Joi Ito, Chris Sacca, Joshua Schacter, Matt Haughey, Josh Kushner, Jared Kushner, Chris Kaskie); Collaborative Fund was not publicly named in this disclosure. Craig Shapiro is reported to have made a personal angel investment in Kickstarter prior to founding Collaborative Fund in 2010, later associated with Fund I (2011 vintage). https://allthingsd.com/20110317/kickstarter-fesses-up-the-crowd-sourced-funding-startup-has-funding-too/

@@ -76,7 +76,7 @@ Based on 12 verified portfolio companies from the firm's portfolio page [^6]:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Nudge Security | Series A | 2023 | Cybersecurity | Active | [^6] |
+| Nudge Security | Series A (USD 22.5M, led by Cerberus Ventures; Ballistic Ventures, Forgepoint Capital, Squadra Ventures participating; Morgan Mahlock joined board) | 2025-11-18 | Cybersecurity | Active | [^6][^10][^11][^12] |
 | Syntis Bio | Seed/Series A | 2024 | Biotech | Active | [^6] |
 | ChipStack | Seed | 2023 | AI / Chip Design | Acquired (Cadence) | [^6] |
 | Ghostdog Systems | Seed | 2023 | AI / Defense | Acquired (Mission Essential) | [^6] |
@@ -109,3 +109,6 @@ No independently sourced founder testimonials found.
 [^7]: The Quantum Insider, "Maybell Quantum Announces $25 Million Series A Funding Led by Cerberus," March 4, 2024. https://thequantuminsider.com/2024/03/04/maybell-quantum-announces-25-million-series-a-funding-led-by-cerberus/
 [^8]: PR Newswire, "Star Catcher Raises $65 Million to Build the First Power Grid in Space," May 12, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/star-catcher-raises-65-million-to-build-the-first-power-grid-in-space-302769128.html — $65M Series A led by B Capital with Cerberus Ventures and Shield Capital co-leading; GreatPoint Ventures, Helena, Oceans Ventures, and MVP Ventures participated. Gen. John "Jay" Raymond (Cerberus) joined Star Catcher's board.
 [^9]: Payload, "Star Catcher Closes $65M Series A," May 12, 2026. Accessed May 2026. https://payloadspace.com/star-catcher-closes-65m-series-a/ — Confirms Series A close, total capital raised $88M, planned in-orbit power-beaming demonstration in 2026.
+[^10]: Nudge Security press release, "Nudge Security Raises $22.5M Series A to Secure Workforce AI and SaaS," November 18, 2025. Accessed July 2026. https://www.nudgesecurity.com/press/nudge-security-raises-22-5m-series-a-to-secure-workforce-ai-and-saas — USD 22.5M Series A led by Cerberus Ventures with Ballistic Ventures, Forgepoint Capital, and Squadra Ventures participating; Morgan Mahlock of Cerberus Ventures joined the board.
+[^11]: Cerberus Ventures, "Announcing Our Investment in Nudge Security," by Morgan Mahlock, Managing Director, November 18, 2025. Accessed July 2026. https://www.cerberus-ventures.com/perspectives/announcing-our-investment-in-nudge-security — Cerberus Ventures' own announcement of the investment, authored by Morgan Mahlock, confirming firm participation.
+[^12]: Gunderson Dettmer, "Nudge Security Raises $22.5 Million Series A Led by Cerberus Ventures," November 18, 2025. Accessed July 2026. https://www.gunder.com/en/news-insights/client-news/nudge-security-raises-22-5-million-dollar-series-a-led-by-cerberus-ventures — Transaction counsel confirmation of USD 22.5M Series A led by Cerberus Ventures with Ballistic, Forgepoint, and Squadra participating.

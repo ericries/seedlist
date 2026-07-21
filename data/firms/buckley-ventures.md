@@ -79,7 +79,7 @@ Based on 22 verified portfolio investments, Buckley Ventures' actual investment 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---|---|---|---|---|---|
-| Rippling | Early | ~2018 | Enterprise/HR | Active ($16.8B valuation) | [^7][^14] |
+| Rippling | Early (round unverified) | — | Enterprise/HR | Active ($16.8B Series G, 2025-05) | [^7][^14] |
 | Applied Intuition | Angel/Series A | ~2018 | Autonomous Vehicles | Active | [^7][^15] |
 ~unknown| Physical Intelligence | Early | — | Robotics/AI | Active | [^7] |
 ~unknown| Flock Safety | Early | — | Public Safety/Hardware | Active | [^7] |
@@ -143,7 +143,7 @@ No independently sourced founder testimonials found. Buckley Ventures' website d
 [^11]: Speak blog, "Speak Hits $500M Valuation, Expands Rapidly Across Markets," June 2024, accessed March 2026. https://www.speak.com/blog/series-b-3
 [^12]: Crunchbase, "Josh Buckley — Person Profile," accessed March 2026. https://www.crunchbase.com/person/josh-buckley
 [^13]: Deciphr AI transcript, "20VC: Why The Best Entrepreneurs Are Cockroaches with Josh Buckley," accessed March 2026. https://www.deciphr.ai/podcast/20vc-why-the-best-entrepreneurs-are-cockroaches-what-everyone-underestimates-about-customer-acquisition--what-you-dont-but-need-to-know-about-payback-periods-with-josh-buckley-founder--chairman--mino-games
-[^14]: Rippling blog, "Rippling Raises $45M Series A Led by Kleiner Perkins," April 2019, accessed March 2026. https://www.rippling.com/blog/rippling-45m-series-a-kleiner-perkins
+[^14]: TechCrunch, "Rippling raises $450M at a $16.8B valuation, reveals YC is a customer," May 9, 2025, accessed July 2026. Article confirms Rippling's $16.8B valuation via $450M Series G; named participating investors (Sands Capital, GIC, Goldman Sachs Growth, Baillie Gifford, Elad Gil, Y Combinator, Kleiner Perkins, Greenoaks, Founders Fund) do not include Buckley Ventures. https://techcrunch.com/2025/05/09/rippling-raises-450m-at-a-16-8b-valuation-reveals-yc-is-a-customer/
 [^15]: Tracxn, "Applied Intuition Funding Rounds & Investors," accessed April 2026 — documents Applied Intuition's September 2018 Series A ($11.5M) led by Marc Andreessen (Andreessen Horowitz) with angel participation, consistent with Josh Buckley's self-described early-investor status and typical ~$300K angel check pattern. https://tracxn.com/d/companies/appliedintuition/__ED2WNDlvCijCE4b8Xo7YLVacaW9Rpk3KM93vjy61lIE/funding-and-investors
 
 [^16]: The SaaS News, "Drafted Raises $16M Seed," May 29, 2026. Confirms Buckley Ventures-led $16M seed with Y Combinator, Ben Silbermann, Ryan Tedder participating. Accessed June 13, 2026. https://www.thesaasnews.com/news/drafted-raises-16m-seed/

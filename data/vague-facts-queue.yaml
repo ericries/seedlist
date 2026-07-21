@@ -225,7 +225,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-19
-  resolution_note: ''Fact-spec sweep 2026-07-19: Verified Positron AI 2025-02-11 seed (USD 23.5M) via 3 primary sources: [^46] Reuters/Yahoo (existing), [^65] MarketScreener syndication (NEW), [^66] US News & World Report (NEW). All three independently confirm 1517 Fund as investor alongside Valor Equity Partners (lead), Atreides Management, Flume Ventures, and Resilience Reserve. Row date confirmed unchanged.''
+  resolution_note: 'Fact-spec sweep 2026-07-19: Verified Positron AI 2025-02-11 seed (USD 23.5M) via 3 primary sources: [^46] Reuters/Yahoo (existing), [^65] MarketScreener syndication (NEW), [^66] US News & World Report (NEW). All three independently confirm 1517 Fund as investor alongside Valor Equity Partners (lead), Atreides Management, Flume Ventures, and Resilience Reserve. Row date confirmed unchanged.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Mach Industries
@@ -5282,7 +5282,9 @@ vague_facts:
   line: '| Rippling | Early | ~2018 | Enterprise/HR | Active ($16.8B valuation) | [^7][^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: Buckley Ventures participation in Rippling is self-attributed only via joshbuckley.com portfolio listing (existing [^7]) with no round, date, or amount specified. No Rippling press release, TechCrunch article, or contemporaneous primary source (across the 2018 seed through 2025-05-09 Series G rounds) names Buckley Ventures or Josh Buckley as a participant. Aggregators (Signal/NFX, Tracxn, PitchBook, Hustle Fund) reference him as "early investor" without round detail — same aggregator-only failure mode as Owlery, Dishcraft, WayTrade, ArchiBoost, Polymarket unresolvable precedents. Row updated to "Early (round unverified)" with valuation-supporting citation swap: [^14] replaced from misleading Kleiner Series A blog to TechCrunch 2025-05-09 Series G at USD 16.8B valuation. 1 new footnote added ([^14] replacement).'
 - profile: firms/buckley-ventures
   profile_name: Buckley Ventures
   company: Applied Intuition
@@ -5866,7 +5868,9 @@ vague_facts:
   line: '| Nudge Security | Series A | 2023 | Cybersecurity | Active | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: Corrected Nudge Security Series A date from wrong "2023" to actual 2025-11-18 via 3 independent primary sources: NEW Nudge Security own press release [^10] + NEW Cerberus Ventures own announcement post by Morgan Mahlock [^11] + NEW Gunderson Dettmer transaction counsel confirmation [^12]. Row tightened to: "Series A (USD 22.5M, led by Cerberus Ventures; Ballistic Ventures, Forgepoint Capital, Squadra Ventures participating; Morgan Mahlock joined board) | 2025-11-18". Nudge history: USD 7M seed Aug 2022, Forgepoint-extended seed May 2024, Series A closed Nov 2025. 3 new footnotes added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Syntis Bio
@@ -6376,7 +6380,9 @@ vague_facts:
   line: '| Kickstarter | Seed | 2010 | Money | [^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: Only primary source directly confirming Collaborative Fund''s Kickstarter position is Collab Fund''s own Fund I blog (existing [^5]) listing Kickstarter as one of 8 return-driving Fund I portfolio companies without round type or date. The publicly disclosed 2011-03-17 ~USD 10M Kickstarter round (Union Square Ventures lead + Betaworks + 15 named angels including Dorsey, Fake, Sacca, Ito, both Kushners) does NOT name Collaborative Fund per NEW AllThingsD (Peter Kafka) primary source [^30]. Secondary sources (StartupIntros, Grokipedia) suggest Craig Shapiro personally angel-invested pre-Collaborative-Fund-founding (2010) with position rolled into Fund I — timing/round unverifiable via primary press. Same aggregator-only failure mode as prior precedents. Row updated: swapped aggregator [^4]=Crunchbase for primary [^5]=Collab Fund Fund I blog + [^30]=AllThingsD disclosure. 1 new footnote added ([^30]).'
 - profile: firms/collaborative-fund
   profile_name: Collaborative Fund
   company: Reddit
