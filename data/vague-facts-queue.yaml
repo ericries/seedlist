@@ -166585,7 +166585,9 @@ vague_facts:
   line: '| Monk | Pre-Seed | 2024 | AI/Contract Analysis | Active | [^1] |'
   priority: normal
   type: year_only_date
-  status: investigating
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec sweep 2026-07-20 (fifth pass): tightened Monk row on better-tomorrow-ventures.md from "Pre-Seed | 2024" to "Seed (led, USD 4M; GTMfund + Rerail participated; George Kurdin CEO + Joe Zhou co-founder) | 2025-10-08 | AI / Accounts Receivable | Active (Series A April 2026, USD 25M co-led by Footwork + Acrew; BTV follow-on)" via 3 primary sources: (1) BTV blog "Why We Invested in Monk" dated Oct 8, 2025 [^monk1] (lead-investor primary source), (2) SignalBase Oct 8, 2025 [^monk2] (independent funding-signal confirmation of $4M and same date), (3) AlleyWatch May 2026 Series A press [^monk3] (independent tier-1 tech press confirming seed lead was BTV and Series A co-leads were Footwork + Acrew). Prior "Pre-Seed | 2024" was factually incorrect on both round type and year — this was a Seed round announced October 8, 2025 as Monk exited stealth. 3 new footnotes added ([^monk1]-[^monk3]).'
 - profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   company: Deck
@@ -166595,7 +166597,9 @@ vague_facts:
   line: '| Deck | Seed | 2023 | Data/Alternative Data | Active | [^1] |'
   priority: normal
   type: year_only_date
-  status: investigating
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec sweep 2026-07-20 (fifth pass): tightened Deck row on better-tomorrow-ventures.md from "Seed | 2023" to "Seed (co-led with Golden Ventures, USD 4.5M / CAD 6.2M; Luge Capital participated; founders Yves-Gabriel Leboeuf CEO, Frédérick Lavoie, Julien Belisle, Bruno Lambert — ex-Flinks founders) | 2024-10-15 | Data / Utility Access (Montreal) | Active (Series A April 2025, USD 12M led by Infinity Ventures; BTV follow-on)" via 3 primary sources: (1) Luge Capital blog "Backing Deck" Oct 15, 2024 [^deck1] (co-participant primary source), (2) BetaKit Oct 15, 2024 [^deck2] (independent Canadian tech-press primary), (3) TechCrunch April 16, 2025 [^deck3] (tier-1 tech-press Series A article that also recaps the Oct 2024 seed). Prior "Seed | 2023" was factually incorrect on year — Deck was founded Jan/June 2024 and the seed was announced Oct 15, 2024. 3 new footnotes added ([^deck1]-[^deck3]).'
 - profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   company: Outpost
@@ -166605,7 +166609,9 @@ vague_facts:
   line: '| Outpost | Pre-Seed | 2024 | Payments/Global Commerce | Active | [^1] |'
   priority: normal
   type: year_only_date
-  status: investigating
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Fact-spec sweep 2026-07-20 (fifth pass): tightened Outpost row on better-tomorrow-ventures.md from "Pre-Seed | 2024" to "Seed (led, ~USD 3M / EUR 2.5M; disclosed retrospectively in Series A press as ''less than a year'' before March 2026 → circa mid-2025; founder Will Mahon-Heap ex-Revolut international expansion + Wayflyer CBO) | ~2025 (exact seed date not independently announced) | Payments / Cross-border Commerce (London) | Active (Series A 2026-03-11, USD 17.5M / EUR 15M led by Ribbit Capital; BTV follow-on; angels from Revolut, Uber, Affirm, Airwallex, Checkout)" via 3 primary sources: (1) fintech.global March 11, 2026 [^out1] (Series A primary press), (2) TheNextWeb March 2026 [^out2] (independent European tech-press), (3) PathFounders March 2026 [^out3] (independent long-form profile). Corrected round type from Pre-Seed to Seed. Exact seed date remains undisclosed — Outpost only publicly announced the Series A; the seed round is referenced retrospectively across 3 primary sources without a specific announcement date. Consistent with anti-hallucination rule (do not guess exact date). 3 new footnotes added ([^out1]-[^out3]).'
 - profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   company: Meroka
