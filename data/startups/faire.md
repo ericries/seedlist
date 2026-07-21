@@ -149,7 +149,7 @@ Faire is an online wholesale marketplace that connects independent retailers wit
 | Jun 2021 | Series F | $260M | Sequoia Capital | Baillie Gifford (new), Wellington Management (new), Forerunner Ventures, Founders Fund, Khosla Ventures, Lightspeed, YC, DST Global, Dragoneer, D1 Capital, Norwest [^10] [^11] |
 | Nov 2021 | Series G | $400M | Durable Capital Partners, D1 Capital Partners, Dragoneer | All existing investors [^12] |
 | May 2022 | Series G Ext. | $416M | Y Combinator, Sequoia Capital | Existing investors [^13] |
-| 2023-09-27 | Series H (strategic) | Undisclosed (valued company at $12.59B) | Shopify | — [^14][^17] |
+| 2023-09-27 | Series H (strategic) | Undisclosed (check size and ownership stake both undisclosed; company valued at $12.59B) | Shopify | — [^14][^17][^18] |
 | Nov 2025 | Series I (secondary) | ~$100M | WCM Investment Management | Baillie Gifford, True North Fund [^4] |
 
 **Valuation milestones:** $535M at Series B/C (Dec 2018) [^6], $1B at Series D (Oct 2019) [^7], $2.5B at Series E (Oct 2020) [^9], $7B at Series F (Jun 2021) [^10], $12.4B at Series G (Nov 2021) [^12], $12.59B at Series G extension (May 2022) [^13], $5.2B at Series I secondary (Nov 2025) [^4].
@@ -195,3 +195,4 @@ Faire is an online wholesale marketplace that connects independent retailers wit
 [^15]: Sequoia Capital, "Seven Questions with Max Rhodes," April 2019, accessed March 2026. https://articles.sequoiacap.com/2019-04-10-max-rhodes
 [^16]: Forerunner Ventures, "Faire's Max Rhodes Has the Heart (and Drive) of a Small Business Owner," accessed March 2026. https://www.forerunnerventures.com/perspectives/faires-max-rhodes-has-the-heart-and-drive-of-a-small-business-owner
 [^17]: Tech Startups, "Shopify invests in wholesale platform Faire, valuing the e-commerce startup at $12.59 billion," September 27, 2023, accessed May 2026. https://techstartups.com/2023/09/27/shopify-invests-in-wholesale-platform-faire-valuing-the-e-commerce-startup-at-12-59-billion/
+[^18]: Retail Dive, "Shopify invests in wholesale marketplace Faire," September 29, 2023, accessed July 2026. Confirms Shopify became a Faire shareholder while explicitly noting the investment amount and ownership stake were not disclosed. https://www.retaildive.com/news/shopify-invests-in-wholesale-marketplace-faire/695151/

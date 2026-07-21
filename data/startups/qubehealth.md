@@ -26,18 +26,21 @@ QubeHealth is a Mumbai, India-based healthcare-focused fintech that operates Qub
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-11 | Series A | Undisclosed (₹416 Cr post-money) | — | Unicorn India Ventures, IA Growth Opportunities Fund, Brew Opportunities Fund, Finvolve Ventures, FirstPort Capital, Maithan Family Office [^1][^2][^3] |
+| 2026-06-11 | Series A | Undisclosed (round amount confidential; ₹416 Cr / ~USD 44M post-money valuation is the only disclosed figure; no single lead named — all six investors listed as participants) | — | Unicorn India Ventures, IA Growth Opportunities Fund, Brew Opportunities Fund, Finvolve Ventures, FirstPort Capital, Maithan Family Office [^1][^2][^3][^4][^5][^6] |
 
 ## What Investors Say
 
-No independently sourced investor quotes found at time of writing.
+"We backed Qube before this was a recognised category... The team has turned a sharp insight about out-of-pocket healthcare into genuine product-market fit and relentless growth." — Bhaskar Majumdar, Managing Partner, Unicorn India Ventures, on the June 2026 Series A round [^4].
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at time of writing.
+"Paying for your family's health is not like buying groceries, it's urgent, recurring, emotional, and rarely fully covered by insurance." — Chris George, Group CEO & Co-founder, on the June 2026 Series A round [^4].
 
 ## Sources
 
 [^1]: "QubeHealth-Pay Closes Series A Round at ₹416 Crore Valuation, Eyes Global Expansion in Healthcare Payments," Indian Startup Times, June 11, 2026. Accessed June 2026. https://www.indianstartuptimes.com/investment/qubehealth-pay-closes-series-a-round-at-%E2%82%B9416-crore-valuation-eyes-global-expansion-in-healthcare-payments/
 [^2]: "QubeHealth-Pay raises Series A at Rs 416 Cr valuation," Entrackr, June 11, 2026. Accessed June 2026. https://entrackr.com/snippets/qubehealth-pay-raises-series-a-at-rs-416-cr-valuation-12024061
 [^3]: "Startup news and updates: Daily roundup (June 11, 2026)," YourStory, June 11, 2026. Accessed June 2026. https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-11-2026
+[^4]: Indian Startup News, "QubeHealth-Pay raises funding at Rs 416 crore valuation, plans expansion beyond India," June 12, 2026, accessed July 2026. Article explicitly states amount raised was "undisclosed"; only ₹416 Cr valuation was disclosed. Includes Bhaskar Majumdar quote (Managing Partner, Unicorn India Ventures) and Chris George quote (Group CEO). https://indianstartupnews.com/funding/qubehealth-pay-raises-funding-at-rs-416-crore-valuation-plans-expansion-beyond-india-12024661
+[^5]: The SaaS News, "QubeHealth-Pay Raises Series A at ₹416 Crore Valuation," June 11, 2026, accessed July 2026. Confirms the funding amount was not disclosed — only post-money valuation. https://www.thesaasnews.com/news/qubehealth-pay-closes-series-a-round-at-416-crore-valuation-eyes-global-expansion/
+[^6]: Storyboard18, "Healthcare payments platform QubeHealth-Pay closes Series A round at ₹416 crore valuation, eyes global expansion," June 22, 2026, accessed July 2026. Explicitly states: "While the company confirmed the close of the round, it did not disclose the amount raised." https://www.storyboard18.com/brand-marketing/healthcare-payments-platform-qubehealth-pay-closes-series-a-round-at-%E2%82%B9416-crore-valuation-eyes-global-expansion-101951.htm

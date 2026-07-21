@@ -161892,7 +161892,9 @@ vague_facts:
   line: '| 2025-02-25 | Private Equity | Undisclosed (majority stake at ~$1.5B valuation) | GI Partners, TA Associates | — [^1][^'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: VERIFIED UNDISCLOSED via 3+ primary sources but CORRECTED the ~$1.5B valuation attribution. Prior row cited "~$1.5B valuation" to [^1][^2][^5][^12] but only [^5] SaaStr (secondary analyst commentary) supports that figure — [^1] Egnyte press, [^2] GlobeNewsWire, and [^12] GI Partners press all state "Financial terms of the transaction were not disclosed." Also added NEW [^13] TA Associates primary press [https://www.ta.com/news/egnyte-announces-majority-investment-from-gi-partners-and-ta/] confirming same. Blocks & Files 2025-02-26 [^11] (already cited) also independently confirms no financial terms. Row tightened to explicitly note ~$1.5B is SaaStr analyst estimate only, not primary-confirmed. Also fixed unqualified $1.5B claim in About section. Retains executive quotes: Travis Pearson (GI Partners MD) and Jason Werlin (TA Associates MD) from primary press. 1 new footnote added ([^13]).'
 - profile: startups/eight-sleep
   profile_name: Eight Sleep
   company: '2026-03-04'
@@ -162105,7 +162107,9 @@ vague_facts:
   line: '| 2023-09-27 | Series H (strategic) | Undisclosed (valued company at $12.59B) | Shopify | — [^14][^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: VERIFIED UNDISCLOSED via 3+ primary sources. Faire''s 2023-09-27 Series H (strategic) from Shopify has no publicly disclosed check size or ownership stake. Three primary sources triangulated: (1) TechStartups 2023-09-27 [^17] states valuation of USD 12.59B but "financial details of the transaction, including the investment amount and Shopify''s ownership stake in Faire, were not disclosed"; (2) Modern Retail [^14] confirms "exact terms of the agreement were not disclosed" (contrasts Shopify''s disclosed 3% Klaviyo and 13% Flexport stakes); (3) NEW Retail Dive [^18] independently confirms "Shopify will also become a Faire shareholder" without any dollar or percentage figure. Also cross-checked: SEC filings for Shopify FY2023 (40-F, 6-K exhibits) do not itemize Faire''s carrying value separately. Row tightened from ambiguous "valued company at $12.59B" to explicit "check size and ownership stake both undisclosed; company valued at $12.59B" and added [^18] confirming citation. 1 new footnote added ([^18]).'
 - profile: startups/fasal-bio
   profile_name: Fasal Bio
   company: '2026-04-23'
@@ -164013,7 +164017,9 @@ vague_facts:
   line: '| 2026-06-11 | Series A | Undisclosed (₹416 Cr post-money) | — | Unicorn India Ventures, IA Growth Opportunities Fund, B'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: VERIFIED UNDISCLOSED via 3+ primary sources. QubeHealth-Pay 2026-06-11 Series A round amount is genuinely confidential; only the ₹416 Cr post-money valuation is disclosed. Sources triangulated: (1) existing Indian Startup Times [^1], (2) existing Entrackr [^2], (3) existing YourStory [^3], (4) NEW Indian Startup News [^4] explicitly states amount was "undisclosed" + includes Bhaskar Majumdar (Unicorn India Ventures Managing Partner) and Chris George (Group CEO) quotes; (5) NEW TheSaaSNews [^5] confirms funding amount not disclosed; (6) NEW Storyboard18 [^6] states: "While the company confirmed the close of the round, it did not disclose the amount raised." All six sources agree: no single lead investor named — all six participants (Unicorn India Ventures, IA Growth Opportunities Fund, Brew Opportunities Fund, Finvolve Ventures, FirstPort Capital, Maithan Family Office) listed as co-participants. Row tightened to reflect: amount undisclosed, ₹416 Cr / ~USD 44M post-money valuation, no named lead. Added executive quotes to In Their Own Words + What Founders Say sections. 3 new footnotes added ([^4], [^5], [^6]).'
 - profile: startups/radical-numerics
   profile_name: Radical Numerics
   company: '2025'

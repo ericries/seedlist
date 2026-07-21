@@ -42,7 +42,7 @@ website: https://www.egnyte.com
 
 ## About
 
-Egnyte is a cloud-based content intelligence, governance, and collaboration platform founded in 2007 in Mountain View, California [^1]. The company provides enterprise file sharing, data security, and compliance tools, serving over 22,000 enterprise customers globally [^2]. Egnyte pioneered a hybrid cloud approach, allowing businesses to store and sync files across local and cloud environments [^3]. The company achieved GAAP profitability in Q4 2016 and has maintained capital efficiency throughout its history [^4]. As of mid-2023, Egnyte reported approximately $200M in ARR growing at 25%, reaching an estimated $250M ARR by early 2025 [^5]. In February 2025, GI Partners and TA Associates made a majority investment in Egnyte at a reported $1.5 billion valuation [^2][^5].
+Egnyte is a cloud-based content intelligence, governance, and collaboration platform founded in 2007 in Mountain View, California [^1]. The company provides enterprise file sharing, data security, and compliance tools, serving over 22,000 enterprise customers globally [^2]. Egnyte pioneered a hybrid cloud approach, allowing businesses to store and sync files across local and cloud environments [^3]. The company achieved GAAP profitability in Q4 2016 and has maintained capital efficiency throughout its history [^4]. As of mid-2023, Egnyte reported approximately $200M in ARR growing at 25%, reaching an estimated $250M ARR by early 2025 [^5]. In February 2025, GI Partners and TA Associates made a majority investment in Egnyte; financial terms were not disclosed in the joint press announcement [^1][^2][^12][^13]. Industry analyst commentary at SaaStr estimated the transaction at a ~$1.5 billion valuation [^5], but this figure is not confirmed by any primary source and does not appear in the Egnyte, GI Partners, TA Associates, or GlobeNewswire announcements.
 
 ## Funding History
 
@@ -54,7 +54,7 @@ Egnyte is a cloud-based content intelligence, governance, and collaboration plat
 | 2012-07-17 | Series C | $16M | Google Ventures (GV) | Kleiner Perkins, Polaris Ventures [^9] |
 | 2013-12-11 | Series D | $29.5M | Northgate Capital | Seagate Technology, CenturyLink, GV, Kleiner Perkins, Polaris Partners [^10][^11] |
 | 2018-10 | Series E | $75M | Goldman Sachs | — [^4] |
-| 2025-02-25 | Private Equity | Undisclosed (majority stake at ~$1.5B valuation) | GI Partners, TA Associates | — [^1][^2][^5][^12] |
+| 2025-02-25 | Private Equity | Undisclosed (financial terms not disclosed in Egnyte, GI Partners, or TA primary press; ~$1.5B valuation is SaaStr analyst estimate only [^5], not confirmed by primary sources; existing investors and founders retain significant ownership) | GI Partners, TA Associates | — [^1][^2][^5][^12][^13] |
 
 Total venture funding raised: $137.5M across seed through Series E [^4]. The 2025 PE majority investment was reportedly at a $1.5 billion valuation [^5].
 
@@ -80,3 +80,4 @@ No independently sourced founder testimonials found.
 [^10]: Egnyte press release, "Egnyte Secures $29.5 Million in Series D Funding," December 11, 2013. https://www.egnyte.com/press-releases/2013-12-11-Egnyte-Secures-Funding-Announces-Global-Expansion-Plans
 [^11]: Blocks & Files, "Private equity pair make Egnyte majority buy," February 26, 2025. https://blocksandfiles.com/2025/02/26/private-equity-egnyte/
 [^12]: GI Partners press release, "Egnyte Announces Majority Investment from GI Partners and TA," February 25, 2025. https://www.gipartners.com/news/egnyte-announces-majority-investment-from-gi-partners-and-ta
+[^13]: TA Associates press release, "Egnyte Announces Majority Investment from GI Partners and TA," February 25, 2025, accessed July 2026. States "Financial terms of the transaction were not disclosed." Includes quotes from Travis Pearson (GI Partners Managing Director) and Jason Werlin (TA Associates Managing Director). https://www.ta.com/news/egnyte-announces-majority-investment-from-gi-partners-and-ta/
