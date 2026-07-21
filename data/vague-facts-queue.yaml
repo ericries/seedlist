@@ -506,7 +506,9 @@ vague_facts:
   line: '| Talkdesk | Seed | 2012 | Enterprise SaaS | Active ($10B valuation) | [^12][^17][^27] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: CORRECTED Talkdesk row on 500-global.md from imprecise "Seed | 2012" to "Batch 3 admission | 2011-10-31" via 3 primary sources. 500 Startups admitted Talkdesk to its third accelerator batch on 2011-10-31 (batch program started 2011-10-10; Demo Days scheduled Jan 2012) — this is when the 500 Startups accelerator standard check first hit Talkdesk. Founders Tiago Paiva + Cristina Fonseca had won the Twilio hackathon prior (TwilioCon 2011, $50K prize + MacBook Air first place). Alex Khein (AngelList) provided ~$350-450K angel round in November 2011 pre-Demo Day. Talkdesk did NOT raise formally again until 2014 DFJ Series A. The "2012 seed" attribution was imprecise — no dated 2012 seed round exists in primary press; the 500 Startups relationship dates to the Oct 31 2011 batch 3 admission. 3 primary sources: existing 500.co blog [^27] + NEW TechCrunch batch 3 announcement 2011-10-31 [^43] + NEW CompassList Cristina Fonseca profile [^44].'
 - profile: firms/500-global
   profile_name: 500 Global
   company: GitLab
@@ -516,7 +518,9 @@ vague_facts:
   line: '| GitLab | Seed | 2015 | Developer Tools | IPO (2021, $11B valuation) | [^12][^17][^28] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: tightened GitLab row on 500-global.md from "Seed | 2015" to "Seed (USD 1.5M announced; Khosla Ventures led with Ben Ling + Sven Strohband deal team; 500 Startups + Crunchfund + Sound Ventures (Ashton Kutcher) + Liquid 2 Ventures (Joe Montana) participated; YC W15 batch; Newcomer cap-table analysis puts actual close at March 2015 at USD 1.7M / USD 13M post-money before YC Demo Day) | 2015-07-09" via 3 primary sources: existing GitLab own blog [^28] (2015-07-09 announcement) + NEW Newcomer "Story of a Cap Table: GitLab" [^45] (independent cap-table reconstruction citing USD 1.7M actual close in March 2015) + NEW StartUp Beat wire coverage [^46]. All 3 confirm Khosla as lead and the 4-firm participant list. Ben Ling (Khosla) quote: "sufficient customer and revenue traction." Sven Strohband: founders "had not only taste. They also had empathy for developers."'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Grab
@@ -526,7 +530,9 @@ vague_facts:
   line: '| Grab | Seed | 2013 | Ride-hailing/Fintech | IPO via SPAC (NASDAQ) | [^6][^15][^29] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: 500 Startups Grab attribution is aggregator-only. TechCrunch primary press for GrabTaxi Series A on 2014-04-07 (NEW [^47]) names ONLY Vertex Ventures (Temasek subsidiary) as lead; amount "more than $10M" per Anthony Tan; NO other participants named. Vertex Ventures own retrospective (NEW [^48]) dates its first investment to June 2013 at USD 2.15M at USD 9M pre-money AND explicitly identifies itself as Grab''s "first institutional investor" — no reference to 500 Startups or 500 Durians as co-investor or preceding-round participant. Only aggregator (Wikipedia shareholding registry as of Dec 31 2013) supports the 0.42% 500 Durians position, likely via SPV or small secondary. Same aggregator-only failure mode as Wildfire/MakerBot/FOSSA/Fountain/Deepgram/Simple/Bukalapak. Row annotated inline in 500-global.md with the finding; kept for historical/portfolio-inference context. 2 new footnotes added ([^47] TechCrunch primary + [^48] Vertex first-party retrospective).'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Intercom
