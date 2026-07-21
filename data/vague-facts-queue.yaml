@@ -155689,7 +155689,9 @@ vague_facts:
   line: '| Nomad Homes | 2023 | Series A ext. | PropTech / real estate | [^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Tightened to "2023-10-23 | Series A extension (led by Acrew, USD 20M; 01 Advisors, HighSage Ventures, Abstract Ventures, Partech, Precursor Ventures, Potluck Ventures, Knollwood participated)" via TechCrunch [^16] + Lowenstein Sandler LLP (Acrew legal counsel) [^21] + Wamda [^22]. Parallel row added to acrew-capital.md firm profile with same citations.'
 - profile: investors/vishal-lugani
   profile_name: Vishal Lugani
   company: Finix Payments
@@ -155699,7 +155701,9 @@ vague_facts:
   line: '| Finix Payments | 2024 | Series C | Payment infrastructure | [^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Tightened to "2024-10-24 | Series C (led by Acrew, USD 75M; co-led with Leap Global and Lightspeed Venture Partners; Citi Ventures + Tribeca Venture Partners new; Homebrew, Insight Partners, Inspired Capital, Cap Table Coalition existing; total funding to USD 208M)" via Finix press [^17] + GlobeNewswire [^23] + FinTech Global [^24]. Parallel row on acrew-capital.md updated from "Growth | ~2021" to Series C 2024-10-24.'
 - profile: investors/vishal-lugani
   profile_name: Vishal Lugani
   company: Medallion
@@ -155709,7 +155713,9 @@ vague_facts:
   line: '| Medallion | 2025 | Series B | Healthcare credentialing | [^18] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'CORRECTED "Series B" (which was WRONG — this is Medallion''s post-Series-C round; primary press does not name a stage; Tracxn labels it Series D but that is aggregator-only) to "2025-08-18 | Growth (led by Acrew, USD 43M; stage not named in press; Washington Harbour Partners new; Sequoia Capital, GV, Spark Capital, NFDG existing; total funding to USD 130M)" via Medallion press [^18] + PR Newswire [^25] + MobiHealthNews [^26]. Also updated frontmatter last_verified_investment.round and quote header in "In Their Own Words". Parallel row on acrew-capital.md firm profile already carried the correct 2025-08-18 growth stage attribution.'
 - profile: investors/vishal-vasishth
   profile_name: Vishal Vasishth
   company: Virta Health
@@ -166579,7 +166585,7 @@ vague_facts:
   line: '| Monk | Pre-Seed | 2024 | AI/Contract Analysis | Active | [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: investigating
 - profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   company: Deck
@@ -166589,7 +166595,7 @@ vague_facts:
   line: '| Deck | Seed | 2023 | Data/Alternative Data | Active | [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: investigating
 - profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   company: Outpost
@@ -166599,7 +166605,7 @@ vague_facts:
   line: '| Outpost | Pre-Seed | 2024 | Payments/Global Commerce | Active | [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: investigating
 - profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   company: Meroka
@@ -197829,7 +197835,9 @@ vague_facts:
   line: '| Medallion | 2025 | Series B | Healthcare credentialing | [^18] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-20
+  resolution_note: 'Tightened to 2025-08-18 and stage corrected from Series B (wrong) to Growth. See sibling entry (unknown_value) for full details.'
 - profile: investors/vishal-vasishth
   profile_name: Vishal Vasishth
   company: Pyka

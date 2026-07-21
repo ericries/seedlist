@@ -5,7 +5,7 @@ last_researched: 2026-03-18
 last_verified_investment:
   company: Medallion
   date: 2025-08-18
-  round: Series B
+  round: Growth ($43M; stage not named in press)
 location: San Francisco, CA
 name: Vishal Lugani
 role: Co-Founder & General Partner
@@ -95,9 +95,9 @@ Based on 16 verified investments attributable to Lugani at Acrew Capital (per pu
 | Deuna | 2022 | Series A | LatAm payments | [^14] |
 | Stardust | 2022 | Series A | Web3 / gaming infra | [^15] |
 | Stable | ~2022 | Series B | B2B payments | [^5] |
-| Nomad Homes | 2023 | Series A ext. | PropTech / real estate | [^16] |
-| Finix Payments | 2024 | Series C | Payment infrastructure | [^17] |
-| Medallion | 2025 | Series B | Healthcare credentialing | [^18] |
+| Nomad Homes | 2023-10-23 | Series A extension (led, $20M; 01 Advisors, HighSage Ventures, Abstract Ventures, Partech, Precursor Ventures, Potluck Ventures, Knollwood participated) | PropTech / real estate | [^16][^21][^22] |
+| Finix Payments | 2024-10-24 | Series C (led, $75M; co-led with Leap Global and Lightspeed Venture Partners; Citi Ventures + Tribeca Venture Partners new; Homebrew, Insight Partners, Inspired Capital, Cap Table Coalition existing; total funding to $208M) | Payment infrastructure | [^17][^23][^24] |
+| Medallion | 2025-08-18 | Growth (led, $43M; stage not named in press; Washington Harbour Partners new; Sequoia Capital, GV, Spark Capital, NFDG existing; total funding to $130M) | Healthcare credentialing | [^18][^25][^26] |
 
 *Pre-Acrew investments (Aspect Ventures, 2016–2019):* Coinbase, Eden Health, Amino, The RealReal (NASDAQ: REAL), Hotel Tonight (acq. Airbnb), Pie Insurance, PredictHQ, BaubleBar, Shipwell, Worklete, Astro (acq. Slack) [^3].
 
@@ -115,7 +115,7 @@ On the Kintsugi Health seed round ($8M, August 2021):
 
 > "Kintsugi is building differentiated technology to support an ever growing need for scale in mental healthcare." — Vishal Lugani, General Partner, Acrew Capital, August 2021 [^12]
 
-On the Medallion Series B ($43M, August 2025):
+On Medallion's $43M round (August 18, 2025):
 
 > "Medallion is delivering what the healthcare industry has needed for years: a scalable, intelligent infrastructure layer that automates the administrative burden behind care delivery. We've been impressed by the team's speed of execution and the depth of customer demand across the ecosystem, from provider groups to national payers. We're proud to back Medallion's next phase of growth." — Vishal Lugani, General Partner and Co-founder, Acrew Capital, August 2025 [^18]
 
@@ -176,3 +176,15 @@ No independently sourced founder testimonials found for Vishal Lugani specifical
 [^19]: Business Wire, "As Deposits Pass $90M HMBradley Raises $18.25M Series A to Continue Fueling Its Explosive Growth," November 24, 2020. https://www.businesswire.com/news/home/20201124005305/en/As-Deposits-Pass-$90M-HMBradley-Raises-$18.25M-Series-A-to-Continue-Fueling-Its-Explosive-Growth
 
 [^20]: TechCrunch, "A timeline for startup M&A processes: Key steps and factors to consider," by Vishal Lugani, January 10, 2023. https://techcrunch.com/2023/01/10/a-timeline-for-startup-ma-processes-key-steps-and-factors-to-consider/
+
+[^21]: Lowenstein Sandler LLP, "Lowenstein Represents Acrew Capital in Series A Extension Round in PropTech Startup Nomad Homes," accessed July 2026. https://www.lowenstein.com/news-insights/firm-news/lowenstein-represents-acrew-capital-in-series-a-extension-round-in-proptech-startup-nomad-homes — Confirms $20M Series A extension led by Acrew Capital in Nomad Homes (October 2023); Lowenstein represented Acrew as legal counsel.
+
+[^22]: Wamda, "Nomad Homes raises $20 million Series A round," October 24, 2023, accessed July 2026. https://www.wamda.com/2023/10/nomad-homes-raises-20-million-series-round — Independent regional (Middle East / North Africa) tech press confirmation of $20M Series A extension led by Acrew Capital with 01 Advisors, HighSage Ventures, Abstract Ventures, Partech, Precursor Ventures, Potluck Ventures, and Knollwood participating.
+
+[^23]: GlobeNewswire, "Announcing Finix's $75M Series C," October 24, 2024, accessed July 2026. https://www.globenewswire.com/news-release/2024/10/24/2968783/0/en/Announcing-Finix-s-75M-Series-C.html — Canonical wire distribution primary source. Confirms October 24, 2024 announcement of $75M Series C led by Acrew Capital, co-led by Leap Global and Lightspeed Venture Partners, with Citi Ventures and Tribeca Venture Partners as new investors and Homebrew, Insight Partners, Inspired Capital, and Cap Table Coalition as existing participants. Brings total funding to $208M.
+
+[^24]: FinTech Global, "Finix secures $75m in Series C to enhance no-code payment solutions for businesses," October 24, 2024, accessed July 2026. https://fintech.global/2024/10/24/finix-secures-75m-in-series-c-to-enhance-no-code-payment-solutions-for-businesses/ — Independent fintech-specialist press confirmation of the $75M Series C on October 24, 2024, led by Acrew Capital, co-led by Leap Global and Lightspeed Venture Partners.
+
+[^25]: PR Newswire, "Medallion Raises $43 Million to Expand AI Infrastructure and Launch the First National Credentialing Clearinghouse," August 18, 2025, accessed July 2026. https://www.prnewswire.com/news-releases/medallion-raises-43-million-to-expand-ai-infrastructure-and-launch-the-first-national-credentialing-clearinghouse-302532154.html — Canonical PR Newswire primary source. Confirms August 18, 2025 announcement of $43M round led by Acrew Capital with Washington Harbour Partners and insiders Sequoia Capital, GV, Spark Capital, NFDG participating; total funding to $130M. Stage not explicitly named in the press release.
+
+[^26]: MobiHealthNews, "Medallion raises $43M, launches credentialing clearinghouse," August 18, 2025, accessed July 2026. https://www.mobihealthnews.com/news/medallion-raises-43m-launches-credentialing-clearinghouse — Independent healthcare-IT press confirmation of $43M round on August 18, 2025 led by Acrew Capital with Washington Harbour Partners and insiders Sequoia, GV, Spark, NFDG participating.

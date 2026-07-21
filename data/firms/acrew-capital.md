@@ -144,7 +144,7 @@ The following table includes investments made both through Acrew Capital funds (
 | Eden Health | Early | ~2020 | Health | Active | [^12][^18] |
 | Edge Impulse | Early | ~2021 | Data & Security / AI | Active | [^12] |
 | Exabeam | Early | ~2017 | Data & Security | Active | [^12] |
-| Finix | Growth | ~2021 | Fintech | Active | [^12] |
+| Finix | Series C (led, $75M; co-led with Leap Global + Lightspeed Venture Partners; Citi Ventures + Tribeca Venture Partners new; Homebrew, Insight Partners, Inspired Capital, Cap Table Coalition existing; total funding to $208M) | 2024-10-24 | Fintech | Active | [^12][^40][^41][^42] |
 | Forescout | Early | ~2014 | Data & Security | IPO (pre-Acrew) | [^12][^19] |
 | Glide | Early | ~2022 | Fintech | Active | [^12] |
 | Gusto | Growth | ~2020 | Fintech | Active | [^12] |
@@ -160,6 +160,7 @@ The following table includes investments made both through Acrew Capital funds (
 | Marqeta | Growth | ~2019 | Fintech | IPO (NASDAQ, $14.3B) | [^13] |
 | Medallion | Growth (led, $43M; Washington Harbour Partners new; Sequoia Capital, GV, Spark Capital, NFDG returned as insiders; total funding to $130M) | 2025-08-18 | Health | Active | [^11][^34][^35][^36] |
 | Nala | Growth | ~2022 | Fintech | Active | [^12] |
+| Nomad Homes | Series A extension (led, $20M; 01 Advisors, HighSage Ventures, Abstract Ventures, Partech, Precursor Ventures, Potluck Ventures, Knollwood participated) | 2023-10-23 | PropTech / Real Estate | Active | [^43][^44][^45] |
 | Observable | Early | ~2020 | Data & Security | Active | [^12] |
 | Orum | Early | ~2021 | Fintech | Active | [^12] |
 | Pacaso | Growth | ~2021 | Other / Real Estate | Active | [^12] |
@@ -272,3 +273,15 @@ Note: The above testimonials are sourced from the Acrew Capital website, which r
 [^38]: HITConsultant, "Cornerstone AI Raises $5M for AI-Powered Health Data Cleaning," October 30, 2024, accessed July 2026. https://hitconsultant.net/2024/10/30/cornerstone-ai-powered-data-cleaning-for-healthcare-funding/ — Independent healthcare-IT press confirmation of $5M funding led by Acrew Capital with Initiate Ventures, Healthy Ventures, Travis May, Web Sun, and Arif Nathoo participating. Notes Viraj Narayanan assumed CEO role while founder Michael Elashoff transitioned to Chief Science Officer.
 
 [^39]: The SaaS News, "Cornerstone AI Secures $5 Million in Funding," October 30, 2024, accessed July 2026. https://www.thesaasnews.com/news/cornerstone-ai-secures-5-million-in-funding — Independent SaaS press confirmation of $5M funding led by Acrew Capital with Initiate Ventures, Healthy Ventures, Travis May, Web Sun, and Arif Nathoo participating.
+
+[^40]: Finix, "Announcing Finix's $75M Series C," October 24, 2024, accessed July 2026. https://finix.com/press/announcing-finix-series-c — Primary company press release. Confirms $75M Series C led by Acrew Capital, co-led by Leap Global and Lightspeed Venture Partners, with Citi Ventures and Tribeca Venture Partners as new investors and Homebrew, Insight Partners, Inspired Capital, and Cap Table Coalition as existing participants. Includes Vishal Lugani (Acrew Founding General Partner) quote. Brings total funding to $208M.
+
+[^41]: GlobeNewswire, "Announcing Finix's $75M Series C," October 24, 2024, accessed July 2026. https://www.globenewswire.com/news-release/2024/10/24/2968783/0/en/Announcing-Finix-s-75M-Series-C.html — Canonical wire distribution primary source. Independent confirmation of Finix's $75M Series C on October 24, 2024 led by Acrew Capital, co-led by Leap Global and Lightspeed.
+
+[^42]: FinTech Global, "Finix secures $75m in Series C to enhance no-code payment solutions for businesses," October 24, 2024, accessed July 2026. https://fintech.global/2024/10/24/finix-secures-75m-in-series-c-to-enhance-no-code-payment-solutions-for-businesses/ — Independent fintech-specialist press confirmation of the $75M Series C on October 24, 2024, led by Acrew Capital.
+
+[^43]: TechCrunch, "Nomad Homes adds software for real estate agents following $20M capital infusion," October 23, 2023, accessed July 2026. https://techcrunch.com/2023/10/23/nomad-homes-real-estate-20m/ — Primary tier-1 tech press source. Confirms Acrew Capital led $20M Series A extension in Nomad Homes on October 23, 2023, with 01 Advisors, HighSage Ventures, Abstract Ventures, Partech, Precursor Ventures, Potluck Ventures, and Knollwood participating.
+
+[^44]: Lowenstein Sandler LLP, "Lowenstein Represents Acrew Capital in Series A Extension Round in PropTech Startup Nomad Homes," accessed July 2026. https://www.lowenstein.com/news-insights/firm-news/lowenstein-represents-acrew-capital-in-series-a-extension-round-in-proptech-startup-nomad-homes — Primary source (Acrew's legal counsel). Confirms $20M Series A extension led by Acrew Capital in Nomad Homes (October 2023).
+
+[^45]: Wamda, "Nomad Homes raises $20 million Series A round," October 24, 2023, accessed July 2026. https://www.wamda.com/2023/10/nomad-homes-raises-20-million-series-round — Independent regional (Middle East / North Africa) tech press confirmation of the $20M Series A extension led by Acrew Capital.
