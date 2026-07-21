@@ -40072,3 +40072,71 @@ queue:
   added: '2026-03-17'
   firm: Observable
   discovered_from: mike-bostock
+- name: Merlin Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: neo
+  source: participant in Neo (Boston agentic security) $100M Series A, 2026-07-20
+- name: Unconventional Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: visibuilt
+  source: co-lead in Visibuilt €3.34M seed, 2026-07-13
+- name: Proptechfonden
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: visibuilt
+  source: participant in Visibuilt €3.34M seed, 2026-07-13
+- name: EMDFonden
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: visibuilt
+  source: participant in Visibuilt €3.34M seed, 2026-07-13
+- name: Nick Warner
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Neo
+  discovered_from: neo
+  source: Co-Founder & CEO, Neo; formerly President of Go-to-Market at SentinelOne
+- name: Zane Lackey
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: neo
+  source: General Partner at a16z; led Series A into Neo (2026-07-20)
+- name: Elliott Robinson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bessemer Venture Partners
+  discovered_from: neo
+  source: Partner at Bessemer; co-led Series A into Neo (2026-07-20)
+- name: Michael Robinson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Craft Ventures
+  discovered_from: neo
+  source: Partner at Craft Ventures; participated in Neo Series A (2026-07-20)
+- name: Line Kloster Pedersen
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Visibuilt
+  discovered_from: visibuilt
+  source: Founder & CEO, Visibuilt (Danish mycelium construction binder biotech)
