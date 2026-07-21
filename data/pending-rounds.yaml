@@ -48,14 +48,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Bluecore Energy raises $10M to build portable nuclear reactors on barges
-  url: https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/
-  source: techcrunch
-  date_found: '2026-07-21'
-  parsed_company: Bluecore Energy
-  parsed_amount: $10M
-  parsed_round: null
-  status: pending
 - title: Closing The Series A Gap Is The Next Great Opportunity For Black Founders
     In The AI Era
   url: https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/
@@ -64,14 +56,6 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Series A
-  status: pending
-- title: Omio raises €8.7 million strategic investment for Asian expansion
-  url: https://www.eu-startups.com/2026/07/omio-raises-e8-7-million-strategic-investment-for-asian-expansion/
-  source: eu-startups
-  date_found: '2026-07-21'
-  parsed_company: Omio
-  parsed_amount: null
-  parsed_round: null
   status: pending
 - title: Profitable space startup deltaVision secures €10.2 million to provide the
     “cardiovascular system for spacecraft”
@@ -173,14 +157,6 @@ pending_rounds:
   date_found: '2026-07-20'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Natural raises $30M to reinvent payments for AI agents — and take on Stripe
-  url: https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/
-  source: techcrunch
-  date_found: '2026-07-20'
-  parsed_company: Natural
-  parsed_amount: $30M
   parsed_round: null
   status: pending
 - title: Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation

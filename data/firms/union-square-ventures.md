@@ -117,6 +117,7 @@ Based on USV's portfolio of 130+ startups and 509 total investments across 234 c
 | Fomo | Series B (participated, $75M at ~$550M val; Index Ventures led) | 2026-06-22 | Fintech / Crypto / Consumer Trading | Active | [^28][^29][^30][^31] |
 | alqem | Pre-Seed (co-led, €8M with UVC Partners) | 2026-07-06 | Deep-tech / Materials / AI / Rare-Earth-Free Magnets | Active | [^32][^33][^34] |
 | Pascal | Series A (led, $9M; follows ~$6M seed August 2025; total funding ~$15M) | 2026-07-16 | Prediction Markets / Fintech / Crypto Trading | Active | [^35][^36][^37] |
+| Gritt | Series A (participated, $26M; Obvious Ventures led) | 2026-07-21 | Robotics / AI / Solar Construction | Active | [^38] |
 
 *This table represents approximately 18 of 130+ known startup investments. USV's portfolio of 234 companies includes follow-on investments [^7][^8].*
 
@@ -187,3 +188,4 @@ No independently sourced founder testimonials found. USV's portfolio founders ha
 [^36]: "Pascal raises $9M in Series A to take on Kalshi and Polymarket with institutional-grade prediction markets," Crypto Briefing, July 2026. Accessed July 20, 2026. https://cryptobriefing.com/pascal-raises-9m-series-a-prediction-markets/ — Independent confirmation of Union Square Ventures as lead of Pascal's $9M Series A, with the startup positioning between Kalshi and Polymarket for institutional prediction-market traders.
 
 [^37]: "Pascal Closes $9 Million Series A to Take On Kalshi and Polymarket in Prediction Markets," Bettors Insider, July 18, 2026. Accessed July 20, 2026. https://bettorsinsider.com/news/2026/07/18/new-prediction-market-entrant-pascal-closes-9-million-series-a/ — Third independent confirmation of Pascal's $9M Series A led by Union Square Ventures with the ~$6M seed raised August 2025 for cumulative funding of ~$15M.
+[^38]: TechCrunch, "Gritt exits stealth with $34 million for robots to build solar plants — then, everything else," July 21, 2026. Accessed July 2026. https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/ — Confirms Union Square Ventures participated alongside Obvious Ventures (lead) and Active Impact Investments in Gritt's $26M Series A.

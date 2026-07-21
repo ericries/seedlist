@@ -39929,3 +39929,70 @@ queue:
   firm: Crosslink Capital
   discovered_from: apaluma
   source: led Apaluma Seed (2026-07-16)
+- name: Slauson & Co.
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bluecore-energy
+  source: led Bluecore Energy $10M pre-seed (2026-07-21)
+- name: Harlem Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bluecore-energy
+  source: participated in Bluecore Energy $10M pre-seed (2026-07-21)
+- name: Hartbeat Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bluecore-energy
+  source: participated in Bluecore Energy $10M pre-seed (2026-07-21); Kevin Hart's
+    firm
+- name: Kofi Asante
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bluecore Energy
+  discovered_from: bluecore-energy
+  source: Founder & CEO of Bluecore Energy; Uber Freight alum
+- name: Active Impact Investments
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gritt
+  source: participated in Gritt $26M Series A (2026-07-21)
+- name: Climactic
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gritt
+  source: backed Gritt seed round
+- name: VSC Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gritt
+  source: backed Gritt seed round
+- name: Puneet Puri
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Gritt
+  discovered_from: gritt
+  source: Co-Founder & CEO of Gritt; Carnegie Mellon roboticist
+- name: Vishal Dugar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Gritt
+  discovered_from: gritt
+  source: Co-Founder & CTO of Gritt; Carnegie Mellon roboticist

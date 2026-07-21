@@ -19,9 +19,9 @@ sector_focus:
 - construction-tech
 check_size: $1M-$5M
 last_verified_investment:
-  date: 2024-09-23
-  company: Pyka
-  round: Series B
+  date: 2026-07-21
+  company: Gritt
+  round: Series A
 social:
   twitter: '@andrewbeebe'
   linkedin: linkedin.com/in/andrewbeebe
@@ -89,6 +89,7 @@ Based on 16 verified investments attributed to Beebe personally (from the Obviou
 | Zanskar | 2024 | Series B | Geothermal exploration | Active | [^15] |
 | Pyka | 2024 | Series B | Autonomous electric aircraft | Active | [^16] |
 | Halcyon | ~2023 | Early | Energy data analytics | Active | [^17] |
+| Gritt | 2026 | Series A (led, $26M) | Robotics / solar construction | Active | [^19] |
 
 *Note: This table represents investments attributed to Beebe personally on the Obvious Ventures website and in press releases. Obvious Ventures has invested in 113+ companies total across all partners [^8]. Years marked with "~" are approximations based on company founding dates or earliest known Obvious involvement; exact entry years could not be independently verified for all entries.*
 
@@ -136,3 +137,4 @@ No other independently sourced founder testimonials about Andrew Beebe were foun
 [^16]: PR Newswire, "Pyka Secures $40M Series B to Advance Commercialization of Dual-use Autonomous Electric Aircraft," September 23, 2024. https://www.prnewswire.com/news-releases/pyka-secures-40m-series-b-to-advance-commercialization-of-dual-use-autonomous-electric-aircraft-302255688.html
 [^17]: Obvious Ventures, "Portfolio" page, accessed March 2026. https://obvious.com/portfolio/
 [^18]: Obvious Ventures, "The Next Frontier of the 'Electrification of Everything,'" December 9, 2025. https://obvious.com/ideas/the-next-frontier-of-electrification/
+[^19]: TechCrunch, "Gritt exits stealth with $34 million for robots to build solar plants — then, everything else," July 21, 2026. Accessed July 2026. https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/ — Andrew Beebe quoted as the Obvious Ventures partner backing Gritt's Series A.

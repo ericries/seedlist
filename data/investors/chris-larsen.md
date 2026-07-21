@@ -2,9 +2,9 @@
 firm: ripple
 last_researched: 2026-06-29
 last_verified_investment:
-  company: Aircela
-  date: ~2025
-  round: Early-stage / angel
+  company: Bluecore Energy
+  date: 2026-07-21
+  round: Pre-Seed
 location: San Francisco, CA
 name: Chris Larsen
 role: Co-Founder & Executive Chairman, Ripple
@@ -60,6 +60,7 @@ This table lists only investments and board roles with a primary source. Larsen'
 
 | Company | Year | Stage | Source |
 | --- | --- | --- | --- |
+| Bluecore Energy | 2026 | Pre-Seed | [^10] |
 | Yellow Network | 2024 | Seed (led, $10M) | [^2] |
 | Aircela | 2025 | Early-stage / angel | [^5] |
 | Credit Karma | ~2008 | Board / advisor (former) | [^1] |
@@ -103,3 +104,4 @@ No independently sourced founder testimonials about working with Chris Larsen as
 [^7]: "SF is best investment for Silicon Valley exec Chris Larsen," San Francisco Examiner, November 10, 2024, accessed June 2026. https://www.sfexaminer.com/sf-is-best-investment-for-silicon-valley-exec-chris-larsen/article_71a847ea-9d57-11ef-881f-7f13388d7154.html
 [^8]: MacKenzie Sigalos, "Harris PAC's $1 million contribution from Ripple's Chris Larsen shows crypto industry warming to VP," CNBC, October 15, 2024, accessed June 2026. https://www.cnbc.com/2024/10/15/kamala-harris-got-1-million-from-ripples-chris-larsen-crypto-warms.html
 [^9]: "Alumnus Chris Larsen (B.S. '84): From Practicality to Cutting Loose the Lifeboats," SF State University Development donor profile, accessed June 2026. https://develop.sfsu.edu/chris-larsen-donor-profile
+[^10]: "This Uber alum just raised a $10M pre-seed to build portable nuclear energy," TechCrunch, July 21, 2026, accessed July 2026. https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/

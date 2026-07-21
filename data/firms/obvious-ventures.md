@@ -135,8 +135,9 @@ The distribution is relatively balanced across the three pillars, with a slight 
 | Iterative Health | Series C | 2026-04-30 | Human Health / Clinical Trials AI | Active | [^14] |
 | Gray Swan | Series A | 2026-05-28 | Economic Health / AI Security | Active | [^15][^16][^17] |
 | Radical Numerics | Seed (participated, $50M; Emergence Capital led) | 2026-06-15 | Human Health / AI / Biological Intelligence | Active | [^21][^22][^23] |
+| Gritt | Series A (led, $26M) | 2026-07-21 | Planetary Health / Robotics / Solar Construction | Active | [^24] |
 
-*This table represents 37 portfolio companies sourced from the Obvious Ventures portfolio page. The firm has made additional investments not listed here.*
+*This table represents 38 portfolio companies sourced from the Obvious Ventures portfolio page. The firm has made additional investments not listed here.*
 
 ## In Their Own Words
 
@@ -175,3 +176,4 @@ No independently sourced founder testimonials were found during this research pa
 [^21]: BusinessWire, "AI Lab Radical Numerics Launches with $50M Seed Round To Build General Biological Intelligence," June 15, 2026. Accessed June 2026. https://www.businesswire.com/news/home/20260615558179/en/AI-Lab-Radical-Numerics-Launches-with-$50M-Seed-Round-To-Build-General-Biological-Intelligence — Confirms Obvious Ventures participated in Radical Numerics $50M seed alongside lead Emergence Capital and co-investors Triatomic Capital, Factory, First Spark Ventures.
 [^22]: Fortune (via Yahoo Finance), "Exclusive: The researchers who built AI-generated DNA just raised $50 million to reinvent biology," June 15, 2026. Accessed June 2026. https://finance.yahoo.com/sectors/healthcare/articles/exclusive-researchers-built-ai-generated-120000788.html — Independent confirmation of Obvious Ventures participation in Radical Numerics seed.
 [^23]: FinSMEs, "Radical Numerics Raises $50M in Seed Funding," June 15, 2026. Accessed June 2026. https://www.finsmes.com/2026/06/radical-numerics-raises-50m-in-seed-funding.html — Third independent confirmation of Obvious Ventures in Radical Numerics seed.
+[^24]: TechCrunch, "Gritt exits stealth with $34 million for robots to build solar plants — then, everything else," July 21, 2026. Accessed July 2026. https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/ — Confirms Obvious Ventures led Gritt $26M Series A with Union Square Ventures and Active Impact Investments participating.
