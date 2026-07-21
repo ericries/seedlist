@@ -130,6 +130,7 @@ Based on 75 verified portfolio companies from Heavybit's website [^5]:
 | Treasure Data | Seed | ~2013 | Customer Data | Acquired [^5] |
 | Unikraft | Seed | ~2022 | Cloud Scaling | Active [^5] |
 | Vibrant Labs | Seed | ~2024 | AI Agent Simulation | Active [^5] |
+| Reo.Dev | Series A (participated, returning; $11.3M round led by Elevation Capital) | 2026-07-17 | AI / Developer GTM / Sales Intelligence | Active [^9][^10] |
 
 Note: This table represents approximately 39 of 80+ known Heavybit investments. Founding years are approximate based on available data. Heavybit exclusively leads pre-seed and seed rounds with $500K–$5M checks [^3][^4], so all entries are listed as Seed stage. Many additional companies in the portfolio (including Stripe, which Heavybit lists as a portfolio company) are not included due to insufficient year/stage verification. Kosli and Tailscale seed rounds confirmed by press releases [^8].
 
@@ -165,3 +166,7 @@ Note: This table represents approximately 39 of 80+ known Heavybit investments. 
 [^6]: ShiftMag, "What It Takes to Build a Dev Tool Startup in 2025 with Jesse Robbins, Heavybit," 2025, accessed March 2026. https://shiftmag.dev/how-to-build-dev-tool-startup-jesse-robbins-heavybit-5194/
 [^7]: Jesse Robbins personal website, "Investor in AI Developer Tools," accessed March 2026. https://jesserobbins.com/
 [^8]: PR Newswire, "Kosli raises $3.1m seed round led by Heavybit," November 2022. https://www.prnewswire.com/news-releases/kosli-raises-3-1m-seed-round-led-by-heavybit-301665833.html; Private Capital Journal, "Tailscale secures $3M seed financing led by Heavybit," 2020. https://privatecapitaljournal.com/tailscale-secures-3m-seed-financing-led-by-heavybit/
+
+[^9]: PR Newswire, "Reo.Dev Raises $11.3 Million Series A to Scale AI Signals for Companies Selling to Engineering Teams," July 17, 2026. Accessed July 21, 2026. https://www.prnewswire.com/news-releases/reodev-raises-11-3-million-series-a-to-scale-ai-signals-for-companies-selling-to-engineering-teams-302828436.html — Confirms Heavybit as returning investor in Reo.Dev's $11.3M Series A led by Elevation Capital; India Quotient, Foster Ventures, Uncorrelated Ventures also participated.
+
+[^10]: YourStory, "Reo.Dev raises $11.3M in Series A led by Elevation Capital," July 17, 2026. Accessed July 21, 2026. https://yourstory.com/2026/07/reodev-raises-113-million-series-a-elevation-capital — Independent Indian tech press confirming Reo.Dev Series A participants and $15.3M total funding to date.

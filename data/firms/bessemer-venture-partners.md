@@ -158,6 +158,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Sarvam AI | Series B (participant; $234M first close of $300M round) | 2026-06-15 | AI / India | [^24][^25][^26] |
 | Verse | Series B (led, $54M) | 2026-06-18 | Climate / Energy / AI / Data Centers | [^verse1][^verse2][^verse3] |
 | Dominion Dynamics | Series A (existing investor, participant; C$139M / USD 100M round at USD 400M post-money) | 2026-06-30 | Defense Tech / Autonomy / Aerospace | [^dom1][^dom2][^dom3][^dom4] |
+| Sila | Late-stage private ($300M; Atreides Management & Sutter Hill Ventures co-led; 8VC, Matrix Partners, T. Rowe Price participated) | 2026-07-21 | Battery Materials / Cleantech | [^sila1][^sila2] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -278,3 +279,7 @@ However, founder experiences are not universally positive. One founder reported 
 [^abr1]: Abridge press release, "Abridge raises $30M to Accelerate Adoption of its Proven Generative AI Solution across U.S. Healthcare Systems," October 26, 2023. Accessed July 2026. https://www.abridge.com/press-release/abridge-raises-30m-to-accelerate-adoption-of-its-proven-generative-ai-solution-across-u-s-healthcare-systems — Primary press release confirming $30M Series B on October 26, 2023, led by Spark Capital with participation from existing investor Bessemer Venture Partners and healthcare partners CVS Health Ventures, Kaiser Permanente Ventures, Lifepoint Health, Mayo Clinic, SCAN Group, UC Investments, and the American College of Cardiology.
 
 [^abr2]: BusinessWire, "Abridge raises $30M to Accelerate Adoption of its Proven Generative AI Solution across U.S. Healthcare Systems," October 26, 2023. Accessed July 2026. https://www.businesswire.com/news/home/20231026850279/en/Abridge-raises-%2430M-to-Accelerate-Adoption-of-its-Proven-Generative-AI-Solution-across-U.S.-Healthcare-Systems — Independent wire-service confirmation of the $30M Series B on October 26, 2023, Spark Capital lead, Bessemer among returning investors.
+
+[^sila1]: TechCrunch, "Bucking EV slowdown, Sila raises $300M to expand battery materials factory," July 21, 2026. Accessed July 21, 2026. https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/ — Confirms $300M private round co-led by Atreides Management and Sutter Hill Ventures with participation from 8VC, Bessemer Venture Partners, Matrix Partners, and T. Rowe Price. Announced July 21, 2026.
+
+[^sila2]: GeekWire, "Next-gen battery startup Sila raises $300M to expand manufacturing plant in Washington state," July 21, 2026. Accessed July 21, 2026. https://www.geekwire.com/2026/next-gen-battery-startup-sila-raises-300m-to-expand-washington-state-manufacturing-plant/ — Independent confirmation of Sila $300M raise.

@@ -303,6 +303,7 @@ The following table includes a16z investments verified through the firm's own po
 | Telepatia | Series A (led via a16z Bio+Health, $33M) | 2026-06-17 | Healthtech / Clinical AI / Latin America | Private [^129][^130][^131] |
 | Fleek | Series A (led, $20.4M) → Series B (participated) | 2024-11-12 (Series A); 2026-07-08 (Series B, $25M; Burda Principal Investments led; eBay, FJ Labs, H14 joined as new; HV Capital, Y Combinator existing) | Marketplace / Secondhand Fashion / AI Supply Chain | Private ($45M total raised; London-based B2B vintage clothing marketplace) [^132][^133][^134] |
 | Pearl Health | Series B (led, $75M) → Series C (led, $50M equity + $60M debt) | 2023-01 (Series B); 2026-07-08 (Series C; Viking Global Investors, AlleyCorp, Ulysses Capital participated equity; Trinity Capital led debt facility) | Healthcare / Digital Health / Value-Based Care / Medicare | Private ($125.5M+ total raised; NYC-based; Vineeta Agarwala GP quoted) [^135][^136][^137] |
+| Runta | Seed (led, $20M) | 2026-07-16 | AI / AI Agents / Security | Private ($100M+ post-money valuation; Martin Casado partner) [^142][^143] |
 
 *Note: This table includes 84 companies out of 1,076+ total portfolio companies (~8%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
@@ -644,3 +645,7 @@ The following table includes a16z investments verified through the firm's own po
 [^140]: Andreessen Horowitz, "Investing in Ulysses," April 16, 2026. Accessed July 2026. https://a16z.com/announcement/investing-in-ulysses/ — Primary announcement post from a16z American Dynamism confirming Ulysses Series A led by Andreessen Horowitz on 2026-04-16. Describes Ulysses' vertically integrated manufacturing facility and modular autonomous underwater vehicle platform for defense and commercial applications; "ready to scale."
 
 [^141]: Tectonic Defense, "Ulysses Raises USD 46M Seed + Series A," April 17, 2026. Accessed July 2026. https://www.tectonicdefense.com/ulysses-raises-46m-seed-series-a/ — Independent defense-tech press confirmation: Ulysses Series A of USD 38M led by Andreessen Horowitz American Dynamism with Booz Allen Ventures and Harpoon Ventures participating; earlier USD 8M seed led by Pebblebed with Genius Ventures, Lowercarbon Capital, Superorganism, and ReGen Ventures participating; total funding USD 46M.
+
+[^142]: FinSMEs, "Runta Raises $20M in Seed Funding," July 2026. Accessed July 21, 2026. https://www.finsmes.com/2026/07/runta-raises-20m-in-seed-funding.html — Confirms Runta $20M seed led by Andreessen Horowitz, San Francisco Bay Area, founder/CEO Guanlan Dai.
+
+[^143]: The Next Web, "a16z leads a $20M seed in AI agent startup Runta," July 2026. Accessed July 21, 2026. https://thenextweb.com/news/runta-a16z-seed-ai-agent-infrastructure — Confirms a16z-led seed at $100M+ valuation; Martin Casado quote "agents just want a computer"; founder Guanlan Dai previously led Cloudflare's edge team and built core proxy technology at Kong.

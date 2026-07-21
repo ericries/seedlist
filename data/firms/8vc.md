@@ -121,6 +121,7 @@ Based on 8VC's verified portfolio and public data:
 | Bespoke Labs | Seed (led, $8.25M portion) — combined $40M Seed + Series A announced 2026-07-06 (Wing led $31.75M Series A) | 2026-07-06 | AI / RL Environments / Data Curation | Private [^36][^37][^38][^39] |
 | Ollama | Series B (participated, $65M; Theory Ventures led; Benchmark also participated) | 2026-07-09 | AI / Developer Tools / Open Source Models | Private [^40][^41] |
 | Sable | Series A ($45M, co-led with Sequoia; Joe Lonsdale joined board) | 2026-07-16 | AI / Sales Enablement | Private [^42] |
+| Sila | Late-stage private ($300M; Atreides Management & Sutter Hill Ventures co-led; Bessemer, Matrix Partners, T. Rowe Price participated) | 2026-07-21 | Battery Materials / Cleantech | Private [^43][^44] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -209,3 +210,7 @@ No independently sourced founder testimonials found.
 
 [^41]: Ollama, "Ollama: all aboard open models," Ollama Blog, July 9, 2026. Accessed July 9, 2026. https://ollama.com/blog/all-aboard-open-models — Company announcement naming Benchmark, Theory Ventures, 8VC (Alex Kolicich) as backers.
 [^42]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," ACCESS Newswire (via Globe and Mail), July 16, 2026. Accessed July 20, 2026. https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/3321857/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain/ — Confirms 8VC co-led $45M Series A with Sequoia; Joe Lonsdale joining Sable's board.
+
+[^43]: TechCrunch, "Bucking EV slowdown, Sila raises $300M to expand battery materials factory," July 21, 2026. Accessed July 21, 2026. https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/ — Confirms $300M private round co-led by Atreides Management and Sutter Hill Ventures with participation from 8VC, Bessemer Venture Partners, Matrix Partners, and T. Rowe Price. Announced July 21, 2026.
+
+[^44]: GeekWire, "Next-gen battery startup Sila raises $300M to expand manufacturing plant in Washington state," July 21, 2026. Accessed July 21, 2026. https://www.geekwire.com/2026/next-gen-battery-startup-sila-raises-300m-to-expand-washington-state-manufacturing-plant/ — Independent confirmation of Sila $300M raise, expanding Moses Lake, WA silicon-anode manufacturing plant.

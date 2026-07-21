@@ -82,6 +82,79 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Bucking EV slowdown, Sila raises $300M to expand battery materials factory
+  url: https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/
+  source: techcrunch
+  date_found: '2026-07-21'
+  parsed_company: Bucking EV slowdown, Sila
+  parsed_amount: $300M
+  parsed_round: null
+  status: pending
+- title: New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale
+    industrial robotics and physical AI
+  url: https://www.eu-startups.com/2026/07/new-unicorn-humanoid-secures-e133-million-at-e1-1-billion-valuation-to-scale-industrial-robotics-and-physical-ai/
+  source: eu-startups
+  date_found: '2026-07-21'
+  parsed_company: New Unicorn! Humanoid
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Fluidstack raised $830M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-21'
+  parsed_company: Fluidstack
+  parsed_amount: $830M
+  parsed_round: Series A
+  status: pending
+- title: Neo raised $100M seed and Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-21'
+  parsed_company: Neo
+  parsed_amount: $100M
+  parsed_round: Seed And Series A
+  status: pending
+- title: Runta raised $20M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-21'
+  parsed_company: Runta
+  parsed_amount: $20M
+  parsed_round: Seed
+  status: pending
+- title: Uniti raised $12M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-21'
+  parsed_company: Uniti
+  parsed_amount: $12M
+  parsed_round: Series A
+  status: pending
+- title: Reo.Dev raised $11.3M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-21'
+  parsed_company: Reo.Dev
+  parsed_amount: $11.3M
+  parsed_round: Series A
+  status: pending
+- title: Capitol Meridian Partners raised $1.9B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-21'
+  parsed_company: Capitol Meridian Partners
+  parsed_amount: $1.9B
+  parsed_round: null
+  status: pending
+- title: Dimension Capital raised $800M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-21'
+  parsed_company: Dimension Capital
+  parsed_amount: $800M
+  parsed_round: null
+  status: pending
 - title: AmpliTech Receives Approximately $21.9 Million of Subscriptions in Series
     A Rights Offering
   url: https://www.globenewswire.com/news-release/2026/07/20/3329662/0/en/AmpliTech-Receives-Approximately-21-9-Million-of-Subscriptions-in-Series-A-Rights-Offering.html
@@ -786,88 +859,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-08'
   parsed_company: Dutch startup Aardaia
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Toulouse-based Bohr Energie secures €10 million to scale its AI-powered renewable
-    energy aggregation platform
-  url: https://www.eu-startups.com/2026/07/toulouse-based-bohr-energie-secures-e10-million-to-scale-its-ai-powered-renewable-energy-aggregation-platform/
-  source: eu-startups
-  date_found: '2026-07-08'
-  parsed_company: Toulouse-based Bohr Energie
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: As power demand rises from electrification and data centres, London’s Axle
-    Energy raises €21 million for energy flexibility
-  url: https://www.eu-startups.com/2026/07/as-power-demand-rises-from-electrification-and-data-centres-londons-axle-energy-raises-e21-million-for-energy-flexibility/
-  source: eu-startups
-  date_found: '2026-07-08'
-  parsed_company: As power demand rises from electrification and data centres, London’s
-    Axle Energy
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: YC-backed Fleek raises €22 million to build AI infrastructure keeping global
-    secondhand fashion on fleek
-  url: https://www.eu-startups.com/2026/07/yc-backed-fleek-raises-e22-million-to-build-ai-infrastructure-keeping-global-secondhand-fashion-on-fleek/
-  source: eu-startups
-  date_found: '2026-07-08'
-  parsed_company: YC-backed Fleek
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups
-  url: https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/
-  source: techcrunch
-  date_found: '2026-07-08'
-  parsed_company: Crypto VC firm Paradigm
-  parsed_amount: $1.2B
-  parsed_round: null
-  status: pending
-- title: 'Exclusive: EdVisorly Raises $13.3M Series A To Fix The Messy College Transfer
-    Process With AI'
-  url: https://news.crunchbase.com/venture/edtech-university-ai-platform-funding-edvisorly/
-  source: crunchbase
-  date_found: '2026-07-08'
-  parsed_company: EdVisorly
-  parsed_amount: $13.3M
-  parsed_round: Series A
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/8/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-8-2026/
-  source: alleywatch
-  date_found: '2026-07-08'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Lisbon-based BIZAY raises €48.7 million Series D; set to surpass €88.6 million
-    revenue and reach profitability
-  url: https://www.eu-startups.com/2026/07/lisbon-based-bizay-raises-e48-75-million-series-d-set-to-surpass-e88-6-million-revenue-and-reach-profitability/
-  source: eu-startups
-  date_found: '2026-07-07'
-  parsed_company: Lisbon-based BIZAY
-  parsed_amount: null
-  parsed_round: Series D
-  status: processed
-  processed_slug: bizay
-  processed_date: '2026-07-07'
-- title: Leiden-based Whispp raises €5 million to scale on-device voice reconstruction
-    AI technology globally
-  url: https://www.eu-startups.com/2026/07/leiden-based-whispp-raises-e5m-to-scale-on-device-voice-reconstruction-ai-technology-globally/
-  source: eu-startups
-  date_found: '2026-07-07'
-  parsed_company: Leiden-based Whispp
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London-based HIVE raises €13.1 million to build “silicon brain” for industrial
-    machines
-  url: https://www.eu-startups.com/2026/07/london-based-hive-raises-e13-1-million-to-build-silicon-brain-for-industrial-machines/
-  source: eu-startups
-  date_found: '2026-07-07'
-  parsed_company: London-based HIVE
   parsed_amount: null
   parsed_round: null
   status: pending

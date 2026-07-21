@@ -3169,3 +3169,23 @@ priority:
   type: investor
   reason: "angel-participated in Natural Series A (2026-07-20), $30M"
   added: 2026-07-20
+- slug: andreessen-horowitz
+  type: firm
+  reason: "led Runta Seed (2026-07-16), $20M"
+  added: 2026-07-21
+- slug: 8vc
+  type: firm
+  reason: "participated in Sila $300M private round (2026-07-21)"
+  added: 2026-07-21
+- slug: bessemer-venture-partners
+  type: firm
+  reason: "participated in Sila $300M private round (2026-07-21)"
+  added: 2026-07-21
+- slug: heavybit
+  type: firm
+  reason: "participated in Reo.Dev Series A (2026-07-17), $11.3M"
+  added: 2026-07-21
+- slug: uncorrelated-ventures
+  type: firm
+  reason: "participated in Reo.Dev Series A (2026-07-17), $11.3M"
+  added: 2026-07-21

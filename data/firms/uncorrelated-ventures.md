@@ -83,6 +83,7 @@ This table represents a subset of Uncorrelated Ventures' 190+ investments. Many 
 | Sedai | Follow-on | ~2024 | Cloud Infrastructure | Active | [^4] |
 | Lemurian Labs | Series A | 2025 | AI Infrastructure | Active | [^20] |
 | S2.dev | Early | 2026 | Developer Tools | Active | [^4] |
+| Reo.Dev | Series A | 2026 | AI / Developer GTM / Sales Intelligence | Active | [^23][^24] |
 
 **Notable earlier investments (Bay Partners/Bain Capital Ventures era):** MuleSoft (acquired by Salesforce for $6.5B), Buddy Media (acquired by Salesforce), SpringSource (acquired by VMware for $420M), Dropcam (acquired by Google/Nest), Redis (IPO 2024), Dynatrace, DataStax, Lending Club, Sysdig, Hazelcast, Tealium, Sonatype, Gradle, Quantum Metric, Astranis, Compound Finance, MakerDAO, Cosmos, Crusoe Energy, Pipe, dYdX, PostHog, ZeroHash [^3] [^7] [^21].
 
@@ -150,3 +151,7 @@ No independently sourced founder testimonials found. The firm's solo-GP structur
 
 [^21]: Salil Deshpande profile, Arete Index, accessed April 2026. https://www.areteindex.com/angels/salil-deshpande/
 [^22]: PR Newswire, "Defense Unicorns Raises $136 Million Series B to Build the Software Backbone of the Department of War," January 2026, accessed April 2026. https://www.prnewswire.com/news-releases/defense-unicorns-raises-136-million-series-b-to-build-the-software-backbone-of-the-department-of-war-302658857.html
+
+[^23]: PR Newswire, "Reo.Dev Raises $11.3 Million Series A to Scale AI Signals for Companies Selling to Engineering Teams," July 17, 2026. Accessed July 21, 2026. https://www.prnewswire.com/news-releases/reodev-raises-11-3-million-series-a-to-scale-ai-signals-for-companies-selling-to-engineering-teams-302828436.html — Confirms Uncorrelated Ventures as new investor in Reo.Dev's $11.3M Series A led by Elevation Capital; Heavybit, India Quotient, and Foster Ventures also participated.
+
+[^24]: YourStory, "Reo.Dev raises $11.3M in Series A led by Elevation Capital," July 17, 2026. Accessed July 21, 2026. https://yourstory.com/2026/07/reodev-raises-113-million-series-a-elevation-capital — Independent confirmation of Uncorrelated Ventures participation in the Reo.Dev Series A.
