@@ -25542,7 +25542,7 @@ queue:
 - name: Joe Hellerstein
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: UC Berkeley
   discovered_from: jeff-heer
@@ -25563,7 +25563,7 @@ queue:
 - name: Jeremy Allaire
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Circle Internet Group
   discovered_from: sean-neville
@@ -39833,3 +39833,63 @@ queue:
   firm: Guthrie AI
   discovered_from: guthrie-ai
   source: Founder & President of Guthrie AI
+- name: Brightcove
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jeremy-allaire
+  source: Jeremy Allaire founded 2004; IPO 2012
+- name: CloudBees
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jeremy-allaire
+  source: Angel investment by Jeremy Allaire per PitchBook
+- name: FlipKey
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jeremy-allaire
+  source: Angel investment by Jeremy Allaire per PitchBook
+- name: Ponder
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: joe-hellerstein
+  source: $7M seed 2022-03-09 co-led by Lightspeed VP + Intel Capital + 19 investors
+    incl. Joe Hellerstein
+- name: RunLLM
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: joe-hellerstein
+  source: Joe Hellerstein co-founded 2020; LLM technical-support assistant
+- name: Trifacta
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: joe-hellerstein
+  source: Joe Hellerstein co-founded 2012 with Jeffrey Heer, Sean Kandel; acquired
+    by Alteryx 2022
+- name: Jeffrey Heer
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: University of Washington / Trifacta
+  discovered_from: joe-hellerstein
+  source: Trifacta co-founder with Joe Hellerstein
+- name: Joseph Gonzalez
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: UC Berkeley / RunLLM
+  discovered_from: joe-hellerstein
+  source: UC Berkeley CS professor; co-founder RunLLM with Joe Hellerstein
