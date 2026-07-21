@@ -39797,3 +39797,39 @@ queue:
   added: '2026-03-17'
   discovered_from: infinity-inc
   source: Customer of Infinity (Nvidia-alternative AI chip maker)
+- name: Chicago Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: guthrie-ai
+  source: led Guthrie AI seed round (2026-07-13)
+- name: Matter Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tylsemi
+  source: led TYLsemi $43M early-stage round (2026-07-14)
+- name: Viola Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tylsemi
+  source: participated in TYLsemi $43M early-stage round (2026-07-14)
+- name: Global Hands-On VC
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tylsemi
+  source: participated in TYLsemi $43M early-stage round (2026-07-14)
+- name: Ted Baumgardner
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Guthrie AI
+  discovered_from: guthrie-ai
+  source: Founder & President of Guthrie AI
