@@ -592,7 +592,9 @@ vague_facts:
   line: '| Innovaccer | Seed | ~2016 | Health Tech | Active (unicorn) | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: tightened Innovaccer row on 500-global.md from "Seed | ~2016" to "Seed (undisclosed, ~USD 2.5M per aggregators; Rajan Anandan led with Teru Sato, Aneesh Reddy, Venkatesh Valluri, 500 Startups, Phanindra Sama participating) | 2015-05-13" via 3 primary sources: NEW Inc42 seed announcement [^49] + NEW Vator.tv weekly funding roundup [^50] + NEW Inc42 Aug 2016 Series A retrospective [^51]. Prior year was wrong (2016 was actually the Series A year). 3 new footnotes added.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Insider
@@ -652,7 +654,9 @@ vague_facts:
   line: '| eFishery | Seed | ~2015 | AgriTech | Active | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: CORRECTED eFishery row on 500-global.md from "Seed | ~2015" to "Series A ($4M; Wavemaker Partners lead per DealStreetAsia; Aqua-Spark return investor from Sep-2015 Pre-Series A, Maloekoe Ventures, Social Capital, Unreasonable Capital, Triputra Group, 500 Startups participated) | 2018-11-13" via 3 primary sources: NEW KrAsia contemporaneous SEA tech press [^55] + NEW Aquaculture Magazine trade press [^56] + NEW DealStreetAsia regional VC trade [^57]. Prior row was WRONG on both round type and year: 500 Startups was NOT in the Sept 2015 Pre-Series A (Aqua-Spark led that alone with Ideosource). 500 Startups only joined the Series A on 2018-11-13. Status also updated to reflect January 2025 collapse (accounting scandal, ~USD 600M revenue fabrication uncovered; unicorn status revoked). 3 new footnotes added.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Mejuri
@@ -662,7 +666,9 @@ vague_facts:
   line: '| Mejuri | Seed | ~2016 | DTC/E-commerce | Active | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: reclassified Mejuri row on 500-global.md from "Seed | ~2016" to "500 Startups Batch 15 accelerator admission (standard accelerator check via Fall 2015 batch, welcomed 2015-11-05; Demo Day 2016-02-17; DASH Ventures-participated seed followed in 2016; Sept 2018 USD 5M Series A led by DCM Ventures; pre-Series A total ~USD 1M) | 2015-11-05" via 3 primary sources: NEW 500 Global blog Batch 15 welcome post [^52] + NEW TechCrunch Batch 15 introduction [^53] + NEW TheNextWeb Feb-2016 Demo Day standouts coverage [^54]. Same reclassification pattern as Talkdesk (Batch 3) — 500 Startups accelerator batch admissions are not traditional seed rounds; they are standard accelerator checks (~USD 100-125K historically). 3 new footnotes added.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: DeepInfra

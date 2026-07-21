@@ -105,7 +105,7 @@ The table below includes a selection of notable 500 Global portfolio companies. 
 | AngelList | ~2012 | Seed | Financial Services | Unicorn ($4B) | [^14] |
 | Animoca Brands | ~2018 | Seed | Gaming / Blockchain | Unicorn ($6B) | [^14] |
 | Mercury | 2021 | Seed | Fintech | Unicorn ($4B) | [^14] |
-| Innovaccer | 2021 | Seed | Healthcare / AI | Unicorn ($3.45B) | [^14] |
+| Innovaccer | 2015-05-13 | Seed (undisclosed; Rajan Anandan led; 500 Startups + Teru Sato + Aneesh Reddy + Venkatesh Valluri + Phanindra Sama participated; Innovaccer had graduated from 500 Startups accelerator prior) | Healthcare / AI | Unicorn ($3.45B) | [^14][^21][^22][^23] |
 | CARS24 | 2020 | Seed | Automotive E-commerce | Unicorn ($3.3B) | [^14] |
 | ApplyBoard | 2020 | Seed | Education | Unicorn ($3.2B) | [^14] |
 | LaunchDarkly | 2021 | Seed | Developer Tools | Unicorn ($3B) | [^14] |
@@ -176,3 +176,9 @@ Note: These founder testimonials reference the 500 Global accelerator program br
 [^18]: The Full Ratchet, "62. Diversity in Venture Capital, Part 2 (Christine Tsai)," accessed March 2026. https://fullratchet.net/ep62-diversity-in-venture-capital-part-2-christine-tsai/
 [^19]: 500 Global, "Christine's Quarterly Letter: Q2 '24 Venture Review & Outlook," 2024, accessed March 2026. https://500.co/content/christine-s-quarterly-letter-q2-24-venture-review-and-outlook
 [^20]: GrowthMentor, "500 Global | Stories from Founders who Received Funding," accessed March 2026. https://www.growthmentor.com/startup-accelerators/500-global/
+
+[^21]: Inc42, "Data Analytics Startup Innovaccer Raises Seed Funding Led By Google's South East Asia VP Rajan Anandan," May 13, 2015. Accessed July 2026. https://inc42.com/buzz/innovaccer-raises-seed-funding/ — Primary contemporaneous Indian tech press announcement of Innovaccer's seed round on 2015-05-13. Undisclosed amount. Names Rajan Anandan (Google VP South East Asia) as lead investor, with Teru Sato (Beenos Group CEO), Aneesh Reddy (Capillary Technologies founder/CEO), Venkatesh Valluri (Ingersoll Rand India Chairman), 500 Startups, and Phanindra Sama (redBus founder) as participants.
+
+[^22]: Vator.tv, "Funding roundup - week ending 5/15/15," May 15, 2015. Accessed July 2026. https://vator.tv/news/2015-05-15-funding-roundup-week-ending-5-15-15 — Independent US-based startup funding news wire. Confirms Innovaccer raised "an undisclosed amount of seed funding in a round led by Rajan Anandan, with 500Startups and Phanindra Sama also participating."
+
+[^23]: Inc42 (flash-feed), "Big Data Startup Innovaccer Raises $15.6 Mn," August 2016. Accessed July 2026. https://inc42.com/flash-feed/innovaccer-15-6-mn-seriesa/ — Series A announcement retrospectively confirms the May 2015 seed round timing and full investor lineup: Rajan Anandan, Teru Sato, Aneesh Reddy, Venkatesh Valluri, 500 Startups, and Phanindra Sama.
