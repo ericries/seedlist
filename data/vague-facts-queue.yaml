@@ -7266,7 +7266,9 @@ vague_facts:
   line: '| iZettle | Series A | ~2011 | Fintech/Payments | Acquired by PayPal ($2.2B, 2018) | [^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-20'
+  resolution_note: 'Fact-spec sweep 2026-07-20 (sixth pass): Tightened Creandum iZettle row from "Series A | ~2011" to "Series A (Index Ventures led, €8.2M / USD 11.2M; Creandum + Charles Dunstone [Carphone Warehouse CEO] participated) | 2011-10-18" via 3 NEW primary sources: Forbes/Peter Cohan 2011-10-19 [^38], EU-Startups 2011-10 [^39], TechCrunch 2011-10-18 [^40]. All three independently confirm Series A of €8.2M (USD 11.2M) led by Index Ventures with Creandum and angel Charles Dunstone as participants. Preserves original currency (€8.2M). Existing Maddyness citation [^15] retained.'
 - profile: firms/creandum
   profile_name: Creandum
   company: Kahoot!
@@ -7386,7 +7388,9 @@ vague_facts:
   line: '| Trade Republic | Series A | ~2019 | Fintech/Neobroker | Active (€12.5B valuation) | [^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-20'
+  resolution_note: 'Fact-spec sweep 2026-07-20 (sixth pass): Tightened Creandum Trade Republic row from "Series A | ~2019" to "Series A (led out of Creandum V; more than €10M; Project A co-invested; Johan Brenner joined board) | 2019-07-16" via 3 NEW primary sources: Trade Republic official press release PDF (German, dateline Berlin 16. Juli 2019) [^41], FinSMEs Aug 2019 [^42], Creandum blog retrospective by Johan Brenner [^43]. Primary PR verbatim: "in einer Series A Runde mehr als zehn Millionen Euro eingesammelt hat. Die Finanzierungsrunde wird vom VC-Investor Creandum angeführt … Als Co-Investor beteiligt sich der auf Technologie-Startups spezialisierte Berliner Kapitalgeber Project A." Preserves original currency (€10M+). Existing 20VC/DeepCast citation [^20] retained.'
 - profile: firms/creandum
   profile_name: Creandum
   company: Cornershop
@@ -7566,7 +7570,9 @@ vague_facts:
   line: '| Lovable | Pre-Series A | 2024 | AI/Developer Tools | Active ($6.6B valuation) | [^28] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-20'
+  resolution_note: 'Fact-spec sweep 2026-07-20 (sixth pass): CORRECTED Creandum Lovable row from "Pre-Series A | 2024" to "Pre-Series A (led by Fredrik Cassel, USD 15M; Visionaries Club participated; angel co-investors: Charlie Songhurst, Adam DAngelo, Thomas Wolf [Hugging Face], Erik Bernhardsson [Modal Labs]) | 2025-02-25" via 3 NEW primary sources: Creandum commitments page [^44], Cooley LLP legal counsel announcement [^45], Lovable own blog [^46]. Prior "2024" year was WRONG — the 2024-10-07 Lovable pre-seed (USD 7.5M) was led by Hummingbird Ventures + byFounders (NOT Creandum, though Creandum co-founder Stefan Lindeberg angel-invested personally). Creandum firm-level lead came Feb 25 2025. Existing TechCrunch [^28] retained (Rebecca Bellan, Feb 25 2025 dateline).'
 - profile: firms/creandum
   profile_name: Creandum
   company: Atla

@@ -111,7 +111,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Spotify | Series A | 2008 | Music/Consumer | IPO (2018, $29.5B) | [^22][^31] |
-| iZettle | Series A | ~2011 | Fintech/Payments | Acquired by PayPal ($2.2B, 2018) | [^15] |
+| iZettle | Series A (Index Ventures led, €8.2M / USD 11.2M; Creandum + Charles Dunstone (Carphone Warehouse CEO) participated) | 2011-10-18 | Fintech/Payments | Acquired by PayPal (USD 2.2B, 2018) | [^15][^38][^39][^40] |
 | Kahoot! | Early stage | ~2013 | EdTech | IPO | [^13] |
 | Small Giant Games | Seed | 2014 | Gaming | Acquired by Zynga (~$700M) | [^23] |
 | Klarna | Growth | ~2010 | Fintech | IPO (NYSE, 2025, $15.1B) | [^13] |
@@ -123,7 +123,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | Vivino | Early stage | ~2016 | Consumer/Wine | Active | [^15] |
 | Voi | Early stage | ~2018 | Mobility/Micromobility | Active | [^15] |
 | Pleo | Early stage | ~2018 | Fintech/Expense Mgmt | Active (unicorn) | [^13] |
-| Trade Republic | Series A | ~2019 | Fintech/Neobroker | Active (€12.5B valuation) | [^20] |
+| Trade Republic | Series A (led out of Creandum V; more than €10M; Project A co-invested; Johan Brenner joined board) | 2019-07-16 | Fintech/Neobroker | Active (€12.5B valuation) | [^20][^41][^42][^43] |
 | Cornershop | Early stage | ~2018 | Consumer/Delivery | Acquired by Uber | [^13] |
 | Factorial | Early stage | ~2019 | HR Tech/SaaS | Active (unicorn) | [^4] |
 | Taxfix | Early stage | ~2018 | Fintech/Tax | Active | [^1] |
@@ -141,7 +141,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | Leapsome | Early stage | ~2021 | HR Tech/SaaS | Active | [^6] |
 | Packfleet | Early stage | ~2023 | Logistics/Delivery | Active | [^5] |
 | Monta | Early stage | ~2022 | Climate/EV Charging | Active | [^5] |
-| Lovable | Pre-Series A | 2024 | AI/Developer Tools | Active ($6.6B valuation) | [^28] |
+| Lovable | Pre-Series A (led by Fredrik Cassel, USD 15M; Visionaries Club participated; angel co-investors: Charlie Songhurst, Adam D'Angelo, Thomas Wolf (Hugging Face), Erik Bernhardsson (Modal Labs)) | 2025-02-25 | AI/Developer Tools | Active (USD 6.6B valuation at later round) | [^28][^44][^45][^46] |
 | Atla | Early stage | ~2024 | AI/Mobile | Active | [^5] |
 | H Company | Early stage | ~2024 | AI | Active | [^5] |
 | nexos.ai | Seed | 2025 | AI/Infrastructure | Active | [^29] |
@@ -231,3 +231,21 @@ No independently sourced founder testimonials found. Creandum's reputation among
 [^36]: Tech Funding News, "Prague's EquiLibre raises Series A at $500M valuation to scale AI trading agents," July 1, 2026. Accessed July 2026. https://techfundingnews.com/equilibre-series-a-500m-ai-trading-agents-creandum/ — Cameron Sellers (VP, Creandum) quoted: "This is the largest investment we have ever made... EquiLibre is doing what the best frontier labs do."
 
 [^37]: EU-Startups, "EquiLibre secures Series A at €438 million valuation to scale AI trading agents handling billions daily," July 1, 2026. Accessed July 2026. https://www.eu-startups.com/2026/07/equilibre-secures-series-a-at-e438-million-valutation-to-scale-ai-trading-agents-handling-billions-daily/ — Third independent confirmation of Creandum-led Series A at €438M valuation, backing DeepMind alumni Martin Schmid, Rudolf Kadlec, Matej Moravcik.
+
+[^38]: Forbes / Peter Cohan, "iZettle Lets Europe's Mom-and-Pops Take Chip-Cards," October 19, 2011. Accessed July 2026. https://www.forbes.com/sites/petercohan/2011/10/19/izettle-lets-europes-mom-and-pops-take-chip-cards/ — Confirms Series A of USD 11.2M led by Index Ventures with Creandum and angel Charles Dunstone (CEO/Co-founder of The Carphone Warehouse) participating; contemporaneous coverage with dateline of announcement.
+
+[^39]: EU-Startups, "iZettle secures €8.2 Million in a Series A round," October 2011. Accessed July 2026. https://www.eu-startups.com/2011/10/izettle-secures-e8-2-million-in-a-series-a-round/ — Preserves original currency (€8.2M); confirms Series A led by Index Ventures with Creandum co-investing.
+
+[^40]: TechCrunch, "Europe's Square iZettle Raises USD 11 Million For Mobile Payments Technology," October 18, 2011. Accessed July 2026. https://techcrunch.com/?p=438016 — Contemporaneous confirmation of €8.2M (USD 11.2M) Series A, Index Ventures lead, Creandum + Charles Dunstone co-investors.
+
+[^41]: Trade Republic Bank official press release (German PDF), "Pressemitteilung Series A DE FINAL," dateline Berlin, July 16, 2019. Accessed July 2026. https://assets.traderepublic.com/assets/files/2019-07-16_Trade_Republic_Pressemitteilung_Series_A_DE_FINAL.pdf — Primary source in original German: "in einer Series A Runde mehr als zehn Millionen Euro eingesammelt hat. Die Finanzierungsrunde wird vom VC-Investor Creandum angeführt … Als Co-Investor beteiligt sich der auf Technologie-Startups spezialisierte Berliner Kapitalgeber Project A."
+
+[^42]: FinSMEs, "Trade Republic Banks Raises €10M in Series A Funding," August 2019. Accessed July 2026. https://www.finsmes.com/2019/08/trade-republic-bank-raises-e10m-in-series-a-funding.html — Independent trade-press confirmation of €10M Series A led by Creandum with Project A participating.
+
+[^43]: Creandum blog, Johan Brenner, "Trade Republic — The Last Five Years," 2024. Accessed July 2026. https://creandum.com/stories/trade-republic-the-last-five-years/ — Investor-side primary source: Brenner (Creandum GP) confirms Creandum V led the Series A "five years ago this summer," corroborating July 2019.
+
+[^44]: Creandum portfolio commitments page, "Lovable." Accessed July 2026. https://creandum.com/commitments/lovable/ — Investor's own record: "Pre-Series A, 25 February 2025, USD 15 million," Fredrik Cassel named as Creandum Lead.
+
+[^45]: Cooley LLP (legal counsel to Lovable), "Lovable Announces USD 15 Million Pre-Series A," February 25, 2025. Accessed July 2026. https://www.cooley.com/news/coverage/2025/2025-02-25-lovable-announces-15-million-pre-series-a — Confirms Pre-Series A, USD 15M, Creandum-led, with Visionaries Club and angels Charlie Songhurst, Adam D'Angelo, Thomas Wolf, Erik Bernhardsson.
+
+[^46]: Lovable blog, "Fundraise announcement," February 25, 2025. Accessed July 2026. https://lovable.dev/blog/fundraise-series-a-announcement — Company's own confirmation of USD 15M round led by Creandum, dated February 25, 2025 (URL slug uses "series-a" but coverage across TechCrunch and Cooley labels it Pre-Series A).
