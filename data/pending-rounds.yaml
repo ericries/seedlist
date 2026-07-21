@@ -20,6 +20,25 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Berlin’s Deutsche Sanierungsberatung raises over €10 million to accelerate
+    climate-neutral home renovations
+  url: https://www.eu-startups.com/2026/07/berlin-based-deutsche-sanierungsberatung-raises-over-e10-million-to-accelerate-climate-neutral-home-renovations/
+  source: eu-startups
+  date_found: '2026-07-21'
+  parsed_company: Berlin’s Deutsche Sanierungsberatung
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: ORiS secures €5 million to develop wireless power transmission systems for
+    space and dual-use applications
+  url: https://www.eu-startups.com/2026/07/turin-based-oris-secures-e5-million-to-develop-wireless-power-transmission-systems-for-space-and-dual-use-applications/
+  source: eu-startups
+  date_found: '2026-07-21'
+  parsed_company: ORiS
+  parsed_amount: €5M
+  parsed_round: Pre-Seed
+  status: processed
+  processed: '2026-07-21'
 - title: AmpliTech Receives Approximately $21.9 Million of Subscriptions in Series
     A Rights Offering
   url: https://www.globenewswire.com/news-release/2026/07/20/3329662/0/en/AmpliTech-Receives-Approximately-21-9-Million-of-Subscriptions-in-Series-A-Rights-Offering.html
