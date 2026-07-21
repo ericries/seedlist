@@ -54,7 +54,8 @@ pending_rounds:
   parsed_company: Leeds-based Xentra
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  processed: '2026-07-20'
 - title: s financial disclosures earlier this year revealed that he raised $1.4B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -118,6 +119,14 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-20'
   parsed_company: CuspAI
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/20/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-20-2026/
+  source: alleywatch
+  date_found: '2026-07-20'
+  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending

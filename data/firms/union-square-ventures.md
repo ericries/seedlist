@@ -19,9 +19,9 @@ stage_focus:
 - seed
 - series-a
 last_verified_investment:
-  date: 2026-07-06
-  company: alqem
-  round: Pre-Seed
+  date: 2026-07-16
+  company: Pascal
+  round: Series A
 status: published
 team:
 - name: Fred Wilson
@@ -116,6 +116,7 @@ Based on USV's portfolio of 130+ startups and 509 total investments across 234 c
 | Suno | Series D (participant, $400M at $5.4B val; Bond Capital led) | 2026-06-03 | AI / Generative Music / Consumer | Active | [^27] |
 | Fomo | Series B (participated, $75M at ~$550M val; Index Ventures led) | 2026-06-22 | Fintech / Crypto / Consumer Trading | Active | [^28][^29][^30][^31] |
 | alqem | Pre-Seed (co-led, €8M with UVC Partners) | 2026-07-06 | Deep-tech / Materials / AI / Rare-Earth-Free Magnets | Active | [^32][^33][^34] |
+| Pascal | Series A (led, $9M) | 2026-07-16 | Prediction Markets / Fintech / Crypto Trading | Active | [^35] |
 
 *This table represents approximately 18 of 130+ known startup investments. USV's portfolio of 234 companies includes follow-on investments [^7][^8].*
 
@@ -180,3 +181,5 @@ No independently sourced founder testimonials found. USV's portfolio founders ha
 [^33]: Tech Funding News, "alqem raises €8M from UVC Partners and Union Square Ventures to hunt for rare-earth-free magnets," July 6, 2026. Accessed July 2026. https://techfundingnews.com/alqem-raises-8m-rare-earth-free-magnets/ — Independent confirmation of Union Square Ventures co-lead in €8M pre-seed; includes quote from Albert Wenger of USV.
 
 [^34]: UVC Partners, "alqem raises €8M to scale its AI-driven Materials Discovery engine built on the largest known materials database," July 2026. Accessed July 2026. https://www.uvcpartners.com/blog/endless-materials-alqem-raises-eu8m-to-scale-its-ai-driven-materials-discovery-engine-built-on-the-largest-known-materials-database — Co-lead firm's own portfolio announcement confirming the round structure.
+
+[^35]: Leo Schwartz, "Exclusive: Prediction market startup Pascal raises $9 million to challenge heavyweights Kalshi and Polymarket," Fortune, July 16, 2026. Accessed July 20, 2026. https://fortune.com/2026/07/16/exclusive-prediction-market-startup-pascal-9-million-heavyweights-kalshi-and-polymarket/ — Confirms Union Square Ventures led Pascal's $9M Series A.

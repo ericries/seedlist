@@ -3,9 +3,9 @@ check_size: $1M-$3M
 firm: mac-venture-capital
 last_researched: 2026-03-25
 last_verified_investment:
-  company: Wonder Dynamics (acq. Autodesk 2024)
-  date: ~2024
-  round: Seed
+  company: Kind Designs
+  date: 2026-07-16
+  round: Pre-Series A
 location: Los Angeles, CA
 name: Adrian Fenty
 role: Managing General Partner
@@ -149,6 +149,7 @@ Portfolio entries below are attributed to Adrian Fenty based on the MaC VC portf
 | Somewhere Somehow | ~2023 | Seed | Consumer / Social | [^14] |
 | Cosmic Labs | ~2023 | Seed | Deep Tech / Robotics | [^14] |
 | Prembly | ~2023 | Seed | Fintech / Africa / KYC | [^14] |
+| Kind Designs | 2026 | Pre-Series A ($10M round; returning investor) | Climate / Coastal Infrastructure / 3D Printing | [^23] |
 
 ## In Their Own Words
 
@@ -244,3 +245,5 @@ Described working with MaC as "running a business with a brother." [^13]
 [^21]: TechCrunch, "Avatar startup Genies scores $65 million in funding round led by Mary Meeker's Bond," May 3, 2021 (confirms MaC is a Genies investor; initial investment predated this Series B). https://techcrunch.com/2021/05/03/avatar-startup-genies-scores-65-million-in-funding-round-led-by-mary-meekers-bond/
 
 [^22]: TechCrunch, "Epsilon3 lines up $2.8M seed round to modernize space and launch operations," January 26, 2022 (confirms MaC as pre-seed investor in Epsilon3, YC S2021). https://techcrunch.com/2022/01/26/epsilon3-lines-up-2-8m-seed-round-to-modernize-space-and-launch-operations/
+
+[^23]: Nancy Dahlberg, "Kind Designs just raised a star-studded $10 million round to change how America builds seawalls," Refresh Miami, July 16, 2026 (confirms Adrian Fenty as returning investor in Kind Designs' Pre-Series A). Accessed July 20, 2026. https://refreshmiami.com/news/kind-designs-just-raised-a-star-studded-10-million-round-to-change-how-america-builds-seawalls/

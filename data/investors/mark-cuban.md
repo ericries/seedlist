@@ -19,9 +19,9 @@ sector_focus:
   - education
 check_size: "$10K-$500K"
 last_verified_investment:
-  date: 2026-01-14
-  company: Burwoodland
-  round: undisclosed
+  date: 2026-07-16
+  company: Kind Designs
+  round: Pre-Series A
 social:
   bluesky: "@mcuban.bsky.social"
   twitter: "@mcuban"
@@ -146,6 +146,7 @@ The analysis below is based on 45 verified direct investments from the Mark Cuba
 | Samaya AI | ~2023 | Direct | AI / enterprise | [^15] |
 | DIRT | ~2022 | Direct | AI / audience | [^15] |
 | Clipbook | 2025 | Seed ($3M round) | AI / PR | [^30] |
+| Kind Designs | 2026 | Pre-Series A ($10M round; returning investor) | Climate / Coastal Infrastructure / 3D Printing | [^32] |
 | Fireside | ~2021 | Co-founder | Media / streaming | [^3] |
 
 *Note: This table represents approximately 45 of Cuban's 264+ total investments tracked on Crunchbase [^23]. Many Shark Tank deals (85+ total) and crypto token holdings are not individually listed. Years marked with ~ are approximate, based on founding year or portfolio page listing date.*
@@ -224,3 +225,5 @@ Eric Chen, co-founder of Injective Protocol, has stated that landing Cuban as an
 [^29]: Product Market Fit, "Synthesia: inside the $1M cold email to Mark Cuban & the $180M Series D Pitch Deck," accessed March 2026. https://www.productmarketfit.tech/p/synthesia-inside-the-1m-cold-email
 [^30]: TechCrunch, "How AI PR startup Clipbook won Mark Cuban's investment from a cold email," December 2025. https://techcrunch.com/2025/12/01/how-ai-pr-startup-clipbook-won-mark-cubans-investment-from-a-cold-email/
 [^31]: Yahoo Sports / Sportico, "Underdog Fantasy Raises $10 Million From Cuban, KD, Nas, Others," 2021. https://sports.yahoo.com/underdog-fantasy-raises-10-million-163026182.html
+
+[^32]: Nancy Dahlberg, "Kind Designs just raised a star-studded $10 million round to change how America builds seawalls," Refresh Miami, July 16, 2026. Accessed July 20, 2026. https://refreshmiami.com/news/kind-designs-just-raised-a-star-studded-10-million-round-to-change-how-america-builds-seawalls/

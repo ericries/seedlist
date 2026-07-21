@@ -1,4 +1,20 @@
 priority:
+- slug: mark-cuban
+  type: investor
+  reason: "appeared in Kind Designs Pre-Series A (2026-07-16), $10M — returning investor"
+  added: 2026-07-20
+- slug: adrian-fenty
+  type: investor
+  reason: "appeared in Kind Designs Pre-Series A (2026-07-16), $10M — returning investor"
+  added: 2026-07-20
+- slug: first-round-capital
+  type: firm
+  reason: "appeared in Corner Health Series A (2026-07-09), $25M — Oak HC/FT led"
+  added: 2026-07-20
+- slug: union-square-ventures
+  type: firm
+  reason: "led Pascal Series A (2026-07-16), $9M"
+  added: 2026-07-20
 - slug: vishal-lugani
   type: investor
   reason: 'Fact-spec sweep 2026-07-20 (fifth pass): tightened 3 year-only portfolio rows on vishal-lugani.md (with parallel updates on acrew-capital.md firm profile) via 3+ primary sources each. (1) NOMAD HOMES: "2023 | Series A ext." → "2023-10-23 | Series A extension (led by Acrew, USD 20M; 01 Advisors, HighSage Ventures, Abstract Ventures, Partech, Precursor Ventures, Potluck Ventures, Knollwood participated)" via existing TechCrunch [^16] + Lowenstein Sandler LLP (Acrew legal counsel) [^21] + Wamda [^22]. (2) FINIX PAYMENTS: "2024 | Series C" → "2024-10-24 | Series C (led by Acrew, USD 75M; co-led with Leap Global and Lightspeed Venture Partners; Citi Ventures + Tribeca Venture Partners new; Homebrew, Insight Partners, Inspired Capital, Cap Table Coalition existing; total funding to USD 208M)" via existing Finix press [^17] + GlobeNewswire wire distribution [^23] + FinTech Global [^24]. (3) MEDALLION: "2025 | Series B" CORRECTED to "2025-08-18 | Growth (led by Acrew, USD 43M; stage not named in press — profile previously mis-labeled as Series B; Washington Harbour Partners new; Sequoia Capital, GV, Spark Capital, NFDG existing; total funding to USD 130M)" via existing Medallion press [^18] + PR Newswire [^25] + MobiHealthNews [^26]. Also updated frontmatter last_verified_investment.round from "Series B" to "Growth" and corrected the "In Their Own Words" quote header from "Medallion Series B" to "Medallion''s USD 43M round". Parallel updates on acrew-capital.md: Finix row tightened from "Growth | ~2021" to Series C 2024-10-24 with full syndicate via [^40]-[^42]; new Nomad Homes row added via [^43]-[^45]. 6 new footnotes on vishal-lugani.md ([^21]-[^26]); 6 new footnotes on acrew-capital.md ([^40]-[^45]).'

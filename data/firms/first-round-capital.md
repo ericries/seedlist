@@ -139,6 +139,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Scotch | Series A | 2026-06-04 | Retail tech / AI | Active (participated; led by VMG Partners) | [^20] |
 | Binti | Seed (led) | 2015-03 | Govtech / Child welfare SaaS | Active (raised Series B 2021-08, $6M follow-on from SJF Ventures 2026-06) | [^21][^22][^23] |
 | Ploy | Seed (led, $27M; Y Combinator participated) | 2026-06-17 | AI / Marketing / Vertical SaaS | Active | [^25][^26][^27] |
+| Corner Health | Series A (participated; Oak HC/FT led, $25M; Zigg Capital co-participated) | 2026-07-09 | Healthcare / Primary Care / AI | Active | [^31] |
 
 Note: Years marked with "~" are approximate. This table represents approximately 4% of 500+ claimed investments.
 
@@ -216,3 +217,5 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^29]: FinSMEs, "UberCab Raises $1.25M in Funding," October 2010. Accessed July 2026. https://www.finsmes.com/2010/10/ubercab-raises-1-25m-in-funding.html — Third independent contemporaneous confirmation of the $1.25M seed round: First Round Capital led with Lowercase Capital and Founder Collective participating alongside more than a dozen angel investors.
 
 [^30]: CNBC, "Meet K2 Space, a spacecraft startup leveraging SpaceX Starship," March 10, 2023, accessed July 2026. https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html — Primary press confirmation of March 10, 2023 K2 Space stealth-launch $8.5M Seed round co-led by First Round Capital and Republic Capital with participation from Countdown Capital, Boost VC, Also Capital, Side Door Ventures, Earthrise Ventures, Spacecadet VC, and Pathbreaker Ventures.
+
+[^31]: "Corner Health Announces $32.5 Million in Seed and Series A Financing to Help Independent Clinicians Rebuild Primary Care," BusinessWire, July 9, 2026. Accessed July 20, 2026. https://www.businesswire.com/news/home/20260709012876/en/Corner-Health-Announces-$32.5-Million-in-Seed-and-Series-A-Financing-to-Help-Independent-Clinicians-Rebuild-Primary-Care — Confirms First Round Capital as existing investor participating in Oak HC/FT-led $25M Series A alongside Zigg Capital.
