@@ -1,7 +1,7 @@
 ---
 founded: 2012
 fund_size: $100M-$150M (reported)
-last_researched: 2026-05-01
+last_researched: 2026-07-21
 location: Bengaluru, Karnataka, India
 name: Aarin Capital
 sector_focus:
@@ -76,9 +76,10 @@ This table lists 14 named Aarin Capital portfolio investments confirmed by conte
 | Company | Stage | Year | Lead Partner | Sector | Status |
 |---------|-------|------|--------------|--------|--------|
 | BYJU'S | Early ($9.2M) | 2012 | Mohandas Pai | EdTech | Active (post-unwind) [^10] |
-| Counsyl | Early | ~2013 | — | Life Sciences/Genomics | Acquired by Myriad (2018) [^5] |
-| Faircent | Early | ~2014 | — | Fintech/Lending | Active [^5] |
-| Vyome Biosciences | Early | ~2014 | — | Life Sciences | Active [^5] |
+| Counsyl | Venture Round (~$65M total raised at that point; Aarin/Manipal Group participated alongside Founders Fund, Felicis Ventures, David Drummond, Rosemont Seneca, WTI, Jeff Dean) | 2013-04-23 | Ranjan Pai (Manipal Group) | Life Sciences/Genomics | Acquired by Myriad (2018) [^5][^16][^17] |
+| Faircent | Series A (led, undisclosed amount; third funding round for Faircent within a year) | 2015-10-12 | Mohandas Pai | Fintech/Lending | Active [^5][^18][^19] |
+| Vyome Biosciences | Series A ($3.3M co-investor; Kalaari Capital led with Navam Capital and Aarin Capital participating; total round Rs 18.5 cr) | 2012-09 | Ranjan Pai (joined board Dec 2014) | Life Sciences | Active [^5][^20][^21][^22] |
+| Vyome Biosciences | Series B (existing investor; $8M led by Sabre Partners; Kalaari + Aarin returned) | 2014-08-12 | — | Life Sciences | Active [^21][^22] |
 | TripFactory | Series A | 2015 | Mohandas Pai | Travel | Active [^12] |
 | KleverKid | Seed ($500K) | 2015-05-07 | Mohandas Pai | EdTech | Deadpooled (Dec 2016) [^13][^15] |
 | YourStory | Early | ~2014-2015 | — | Media | Active [^5][^14] |
@@ -119,3 +120,10 @@ No independently sourced founder testimonials about Aarin Capital (as distinct f
 [^13]: YourStory, "KleverKid, platform for tutors, raises funding from Mohandas Pai's Aarin Capital and others," May 2015. https://yourstory.com/2015/05/aarin-capital-funding-kleverkid
 [^14]: Planify, "Mohandas Pai Portfolio, Shareholdings & Investments," accessed May 2026. https://www.planify.in/investors/mohandas-pai/
 [^15]: Tracxn, "KleverKid - 2025 Company Profile, Funding & Competitors," accessed June 2026. Confirms 2015-05-07 seed round of $500K total with 4 investors (Aarin Capital, Sunil Kaul, Ananda Kallugadde, Maina Sahi); company deadpooled December 2016. https://tracxn.com/d/companies/kleverkid/__8d53zJyin86Q0xpUZsgeHqDZZiA07Bh0ZxWl9U6dUq0
+[^16]: TechCrunch, "Through Dirt-Cheap Genetic Testing, Counsyl Is Pioneering A New Bioinformatics Wave," April 23, 2013. Accessed July 2026. https://techcrunch.com/2013/04/23/counsyl/ — Contemporaneous tier-1 press confirming Counsyl "has quietly raised roughly $65 million in funding" from Founders Fund, Felicis Ventures, India's Manipal Group, David Drummond (Google SVP Corporate Development), WTI, Rosemont Seneca, and Google research scientist Jeff Dean.
+[^17]: Forbes India, "Ranjan Pai of the Manipal Group Has Hit the Sweet Spot with Investors," 2014 (India Rich List). Accessed July 2026. https://www.forbesindia.com/article/india-rich-list-2014/ranjan-pai-of-the-manipal-group-has-hit-the-sweet-spot-with-investors/38857/1 — Confirms Aarin Capital Fund (launched 2011, $50M corpus) includes Silicon Valley-based Counsyl clinical genomics player in its portfolio; investment made under Ranjan Pai/Manipal Group.
+[^18]: Inc42, "Online Lending Platform Faircent.com Raises Funding From TV Mohandas Pai," October 12, 2015. Accessed July 2026. https://inc42.com/flash-feed/faircent-raises-funding-from-mohandas-pai/ — Primary confirmation Faircent raised undisclosed amount led by Aarin Capital Partners (TV Mohandas Pai) on October 12, 2015; third funding round in one year (prior: pre-Series A of $250K from M&S Partners in June 2015; initial round from Fusion Microfinance promoters January 2015).
+[^19]: Business Standard, "Faircent raises undisclosed amount from Mohandas Pai-led fund," October 13, 2015. https://www.business-standard.com/article/companies/faircent-raises-undisclosed-amount-from-mohandas-pai-led-fund-115101300488_1.html — Independent tier-1 Indian business press confirmation of Aarin Capital / Mohandas Pai-led Faircent funding round (URL returned 403 on fetch attempt; headline confirms Aarin Capital lead investor role and October 2015 date).
+[^20]: The Indian Wire, "Top Kalaari Capital investments in India," accessed July 2026. https://www.theindianwire.com/startups/top-kalaari-capital-investments-77276/ — Confirms "Kalaari Capital first invested $3.3 million in [Vyome Biosciences] series A round, along with Navam Capital and Aarin Capital in September 2012."
+[^21]: PR Newswire India, "Sabre Partners Leads $8 Million Series B Investment in Vyome Biosciences," August 12, 2014. Accessed July 2026. https://www.prnewswire.com/in/news-releases/sabre-partners-leads-8-million-series-b-investment-in-vyome-biosciences-270876771.html — Primary company/wire release confirming Vyome Biosciences closed $8M Series B on August 12, 2014, led by Sabre Partners "with existing Series A investors Kalaari Capital and Aarin Capital also co-investing."
+[^22]: BioSpace, "Vyome Biosciences Adds To Board Of Directors," October 2015. Accessed July 2026. https://www.biospace.com/b-vyome-biosciences-b-adds-to-board-of-directors — Confirms Vyome "is currently backed by leading venture capital and private equity funds, including Kalaari Capital, Sabre Partners, Aarin Capital and Navam Capital." Bio-IT World December 2, 2014 title "Vyome Ropes in Ranjan Pai in its board of directors" independently confirms Ranjan Pai/Aarin board seat via search-result headline (URL returned 403 on direct fetch).

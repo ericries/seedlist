@@ -978,7 +978,9 @@ vague_facts:
   line: '| Counsyl | Early | ~2013 | — | Life Sciences/Genomics | Acquired by Myriad (2018) [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Tightened "Early | ~2013" to "Venture Round | 2013-04-23" with full participant list (Founders Fund, Felicis Ventures, Manipal Group [Aarin], David Drummond, Rosemont Seneca, WTI, Jeff Dean). Aarin-side attribution runs through Manipal Group (Ranjan Pai). Verified via: (a) TechCrunch April 23, 2013 primary contemporaneous [^16] ("$65M raised... India''s Manipal Group"); (b) Forbes India 2014 Ranjan Pai profile [^17] (Aarin/Manipal Counsyl portfolio confirmed); (c) StartupIntros aggregator cross-reference showing 2013-04-23 as the venture round date with Manipal Education And Medical Group participation. 2 new primary-source footnotes added ([^16], [^17]).'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: Faircent
@@ -988,7 +990,9 @@ vague_facts:
   line: '| Faircent | Early | ~2014 | — | Fintech/Lending | Active [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'CORRECTED "Early | ~2014" to "Series A (led, undisclosed) | 2015-10-12" — prior year was WRONG. Faircent''s Aarin round was October 12, 2015 (Faircent was FOUNDED in 2014 but Aarin didn''t invest until 2015). Verified via: (a) Inc42 October 12, 2015 primary contemporaneous [^18] ("Online Lending Platform Faircent.com Raises Funding From TV Mohandas Pai"; "Aarin Capital Partners" lead investor; third round in year); (b) Business Standard October 13, 2015 [^19] ("Faircent raises undisclosed amount from Mohandas Pai-led fund"; URL 403d but headline confirms); (c) YourStory Aug 2016 subsequent BCCL round coverage cross-references Aarin as prior investor. 2 new footnotes added ([^18], [^19]).'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: Vyome Biosciences
@@ -998,7 +1002,9 @@ vague_facts:
   line: '| Vyome Biosciences | Early | ~2014 | — | Life Sciences | Active [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'CORRECTED "Early | ~2014" — Aarin actually joined at Series A in September 2012 (not 2014). Now split into two verified rows: (1) Series A $3.3M co-investor Sep 2012 (Kalaari led with Navam Capital and Aarin Capital; total round Rs 18.5 cr); (2) Series B existing-investor participation Aug 12, 2014 ($8M led by Sabre Partners; Kalaari + Aarin returned). Verified via: (a) PR Newswire India Aug 12, 2014 primary wire release [^21] ("Sabre Partners Leads $8 Million Series B Investment in Vyome Biosciences"; "existing Series A investors Kalaari Capital and Aarin Capital also co-investing"); (b) The Indian Wire Kalaari portfolio review [^20] ("Kalaari Capital first invested $3.3 million in [Vyome] series A round, along with Navam Capital and Aarin Capital in September 2012"); (c) BioSpace Oct 2015 board additions [^22] (confirms Vyome "backed by Kalaari Capital, Sabre Partners, Aarin Capital and Navam Capital"; Bio-IT World Dec 2, 2014 headline "Vyome Ropes in Ranjan Pai in its board of directors" confirms Ranjan Pai/Aarin board seat, though URL 403d). 3 new footnotes added ([^20], [^21], [^22]).'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: YourStory
