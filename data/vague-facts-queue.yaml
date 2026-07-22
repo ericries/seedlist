@@ -247,7 +247,9 @@ vague_facts:
   line: '| Rainmaker | Seed | 2024-05-07 | Climate Tech / Cloud Seeding | [^4][^37] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21 (fifth pass): tightened Rainmaker seed row on 1517-fund.md from "Seed | 2024-05-07" to "Seed (USD 6.3M; no formal lead named; Long Journey Ventures, Day One Ventures, Tamarack Global, 1517 Fund, Starship VC, Champion Hill Ventures participated with angels Garry Tan and Balaji Srinivasan) | 2024-05-07" via 3 primary sources: existing Fortune [^37] + NEW Sacra analyst report [^78] + NEW HubSpot Marketing Blog founder interview [^79]. All three independently confirm USD 6.3M seed round announced 2024-05-07 with 1517 Fund as a participant. 2 new footnotes added.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Marathon Fusion
@@ -614,7 +616,9 @@ vague_facts:
   line: '| Konfio | Seed | ~2015 | Fintech | Active | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21 (fifth pass): 500 Startups'' Konfio attribution is aggregator-only (Crunchbase/PitchBook/Tracxn). Primary sources for the actual Konfio seed round (October 2014 with Accion Venture Lab, joined by Jaguar Ventures in December 2014 per LAVCA/Accion first-party case study [^61]) and Series A (2016-05-27, USD 8M led by Accion Frontier Inclusion Fund with Quona Capital, QED Investors, Kaszek Ventures, and Jaguar Ventures per Nearshore Americas [^62]) do NOT name 500 Startups. Same failure pattern as Wildfire/MakerBot/Simple/Grab/Carousell cases previously flagged. Row on 500-global.md annotated with aggregator-only finding + 2 new primary sources added ([^61], [^62]). Row retained for provenance rather than removed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Clip
@@ -634,7 +638,9 @@ vague_facts:
   line: '| Paidy | Seed | ~2014 | Fintech | Acquired | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21 (fifth pass): tightened Paidy row on 500-global.md from "Seed | ~2014 | Fintech | Acquired" to a fully-detailed row anchored to 2014-07-29 (500 Startups first primary-press confirmation as prior seed investor named in the USD 3.3M Series A announcement) with acquisition context (PayPal, September 2021, JPY 300B / ~USD 2.7B). 3 primary sources: NEW PR Newswire company press release [^58] (Exchange Corporation K.K. Paidy Launch announcement, 2014-07-29 — names Arbor Ventures lead + CyberAgent + Recruit + "existing investors 500 Startups + Cherubic Ventures") + NEW AVCJ Asia VC trade press [^59] (2014-07-30 confirming same syndicate) + NEW The Paypers European payments trade press [^60] (2014-07-30 independent third confirmation). All three explicitly name 500 Startups as prior seed participant. 3 new footnotes added.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: SmartHR

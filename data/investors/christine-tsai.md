@@ -117,8 +117,8 @@ The table below includes a selection of notable 500 Global portfolio companies. 
 | Mural | ~2016 | Seed | Enterprise / Collaboration | Unicorn ($2B) | [^14] |
 | SmartHR | ~2018 | Seed | HR Tech / SaaS | Unicorn ($1B+) | [^7][^11] |
 | Clip | ~2015 | Seed | Fintech | Unicorn ($1B+) | [^7] |
-| Konfio | ~2016 | Seed | Fintech | Unicorn ($1B+) | [^7] |
-| Paidy | ~2015 | Seed | Fintech | Unicorn ($1B+) | [^7] |
+| Konfio | ~2014 (founding-year proxy; 500 Startups attribution unverified in primary press) | Seed (aggregator-only 500 Startups attribution; primary sources for Konfio's actual seed round (Oct 2014, Accion Venture Lab lead + Jaguar Ventures in Dec 2014 per LAVCA/Accion first-party case study [^27]) and Series A (2016-05-27, USD 8M led by Accion Frontier Inclusion Fund with Quona Capital, QED Investors, KaszeK Ventures, and Jaguar Ventures per Nearshore Americas [^28]) do NOT name 500 Startups) | Fintech | Unicorn ($1B+) | [^7][^27][^28] |
+| Paidy | 2014-07-29 | Seed (500 Startups + Cherubic Ventures were named "existing investors" that participated in Paidy's USD 3.3M Series A announced by Exchange Corporation K.K. on 2014-07-29, led by Arbor Ventures with CyberAgent Ventures + Recruit Strategic Partners; extended to USD 8.3M by May 2015) | Fintech | Acquired by PayPal Sept 2021 for JPY 300B / ~USD 2.7B — highest-valued Japanese venture M&A on record | [^7][^24][^25][^26] |
 | Sky Mavis | 2021 | Seed | Gaming / Blockchain | Unicorn ($3B) | [^14] |
 | Bombfell | ~2013 | Seed | E-commerce / Fashion | Active | [^5] |
 | Storefront | ~2013 | Seed | Marketplace | Active | [^5] |
@@ -182,3 +182,13 @@ Note: These founder testimonials reference the 500 Global accelerator program br
 [^22]: Vator.tv, "Funding roundup - week ending 5/15/15," May 15, 2015. Accessed July 2026. https://vator.tv/news/2015-05-15-funding-roundup-week-ending-5-15-15 — Independent US-based startup funding news wire. Confirms Innovaccer raised "an undisclosed amount of seed funding in a round led by Rajan Anandan, with 500Startups and Phanindra Sama also participating."
 
 [^23]: Inc42 (flash-feed), "Big Data Startup Innovaccer Raises $15.6 Mn," August 2016. Accessed July 2026. https://inc42.com/flash-feed/innovaccer-15-6-mn-seriesa/ — Series A announcement retrospectively confirms the May 2015 seed round timing and full investor lineup: Rajan Anandan, Teru Sato, Aneesh Reddy, Venkatesh Valluri, 500 Startups, and Phanindra Sama.
+
+[^24]: PR Newswire, "Paidy Launches to Advance Asia's Cardless Payment Economy," July 29, 2014. Accessed July 2026. https://www.prnewswire.com/news-releases/paidy-launches-to-advance-asias-cardless-payment-economy-269015761.html — Primary company press release (Exchange Corporation K.K.) announcing Paidy's launch and USD 3.3M Series A on 2014-07-29. Names Arbor Ventures as lead with CyberAgent Ventures and Recruit Strategic Partners co-investing, and identifies 500 Startups and Cherubic Ventures as "existing investors" that participated — establishing 500 Startups as a prior-seed Paidy investor.
+
+[^25]: AVCJ (Asia Venture Capital Journal), "Arbor leads $3.3m Series A round for Japan e-payments service," July 30, 2014. Accessed July 2026. https://www.avcj.com/avcj/news/57028/arbor-leads-usd33m-series-a-round-for-japan-e-payments-service — Independent Asia VC trade publication for Paidy's Series A on 2014-07-30. Names Arbor Ventures lead with CyberAgent + Recruit and identifies 500 Startups + Cherubic Ventures as "existing investors" that also took part.
+
+[^26]: The Paypers, "Boost for Japan ecommerce, with launch of Paidy payment method," July 30, 2014. Accessed July 2026. https://thepaypers.com/payments/news/boost-for-japan-ecommerce-with-launch-of-paidy-payment-method — Third independent primary source; European payments trade press confirming 500 Startups + Cherubic Ventures as prior participants in the Arbor-led Series A.
+
+[^27]: Accion, "Konfio innovates in digital lending for Mexican MSMEs," case study, accessed July 2026. https://www.accion.org/case-study/konfio-innovates-in-digital-lending-for-mexican-msmes/ — First-party case study by Konfio's actual seed investor (Accion Venture Lab). States "In October of 2014, Venture Lab decided to invest in Konfio's seed funding round"; May 2016 USD 8M Series A led by QED Investors and Kaszek Ventures; 500 Startups is NOT named in any Konfio round.
+
+[^28]: Nearshore Americas, "Mexican Fintech Start-up Konfio Raises $8 Million in Funding," May 27, 2016. Accessed July 2026. https://nearshoreamericas.com/mexican-fintech-start-up-konfio-raises-8-million-investment/ — Independent Latin America tech trade press for Konfio Series A on 2016-05-27. Names Accion Frontier Inclusion Fund (managed by Quona Capital), QED Investors, Kaszek Ventures, and Jaguar Ventures. 500 Startups NOT named, establishing aggregator-only attribution.
