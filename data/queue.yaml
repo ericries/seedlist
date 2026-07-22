@@ -40282,3 +40282,22 @@ queue:
   added: '2026-03-17'
   firm: 30 Sundays
   discovered_from: 30-sundays
+- name: Illinois Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: photon-queue
+- name: MFV Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: photon-queue
+- name: Ferdinand Dabitz
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Augustus
+  discovered_from: augustus

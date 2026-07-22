@@ -157,8 +157,9 @@ QED claims to invest across the full fintech stack, but the verified portfolio s
 | OneCard | Series A | 2019 | Consumer Finance | Active (Unicorn) | [^37] |
 | Capchase | Series A (Led) | 2021 | Lending | Active | [^38] |
 | Moniepoint | Pre-Series C (Co-led) | 2022 | Payments | Active (Unicorn) | [^9] |
+| Augustus | Series B (Tiger Global-led, $180M at $1B post-money) | 2026-07-21 | Fintech / Stablecoin Clearing Bank | Active (Unicorn) | [^43][^44] |
 
-This table represents 26 portfolio companies (27 entries including the Current Series E follow-on, June 11, 2026 [^40][^41][^42]) of QED's 250+ claimed investments (~10%). The full portfolio includes companies across 27 countries and additional sectors including wealthtech, edtech, HR tech, vertical SaaS, and data aggregation, as listed on QED's website [^1].
+This table represents 27 portfolio companies (28 entries including the Current Series E follow-on, June 11, 2026 [^40][^41][^42]) of QED's 250+ claimed investments (~11%). The full portfolio includes companies across 27 countries and additional sectors including wealthtech, edtech, HR tech, vertical SaaS, and data aggregation, as listed on QED's website [^1].
 
 ## In Their Own Words
 
@@ -238,3 +239,5 @@ This table represents 26 portfolio companies (27 entries including the Current S
 [^40]: Current press release via PR Newswire, "Current Secures $80 Million Series E at $1.5 Billion Valuation Following Third Consecutive Year of 70%+ Growth," June 11, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/current-secures-80-million-series-e-at-1-5-billion-valuation-following-third-consecutive-year-of-70-growth-302797260.html
 [^41]: Paul Hastings LLP, "Paul Hastings Advises Current on Its Series E Financing Led by Springcoast Partners," June 2026, accessed June 2026. https://www.paulhastings.com/news/paul-hastings-advises-current-on-its-series-e-financing-led-by-springcoast-partners
 [^42]: AlleyWatch Startup Daily Funding Report, June 11, 2026, accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/
+[^43]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
+[^44]: FinTech Global, "Augustus lands $180m Series B to dollarise the world," July 21, 2026. Accessed July 22, 2026. https://fintech.global/2026/07/21/augustus-lands-180m-series-b-to-dollarise-the-world/

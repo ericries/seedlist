@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: London’s Modo Energy secures €14.9 million to scale its AI-powered energy
+    benchmarking and valuation platform
+  url: https://www.eu-startups.com/2026/07/londons-modo-energy-secures-e14-9-million-to-scale-its-ai-powered-energy-benchmarking-and-valuation-platform/
+  source: eu-startups
+  date_found: '2026-07-22'
+  parsed_company: London’s Modo Energy
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Berlin’s Deutsche Sanierungsberatung raises over €10 million to accelerate
     climate-neutral home renovations
   url: https://www.eu-startups.com/2026/07/berlin-based-deutsche-sanierungsberatung-raises-over-e10-million-to-accelerate-climate-neutral-home-renovations/

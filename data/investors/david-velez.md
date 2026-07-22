@@ -104,8 +104,9 @@ Vélez invests across stages, from pre-seed (Carecode) through Series B (Jupiter
 | Nuvocargo | 2021 | Series A | Cross-border logistics / fintech | [^31] |
 | CoderHouse | 2021 | Series A | Edtech | [^32] |
 | Latitud | 2022-03-28 | Seed | Startup ecosystem / fintech | [^23] [^33] [^36] |
+| Augustus | 2026-07-21 | Series B ($180M, Tiger Global-led at $1B valuation) | Stablecoin clearing bank / fintech | [^37] [^38] |
 
-Note: This table represents approximately 18 of an estimated 19-33 total investments [^24] [^10].
+Note: This table represents approximately 19 of an estimated 20-34 total investments [^24] [^10].
 
 ## In Their Own Words
 
@@ -184,3 +185,5 @@ No additional independently sourced founder testimonials found beyond the quote 
 [^34]: Civic Marketplace, "Civic Marketplace Raises $3.2M to Transform Government Procurement, Announces Partnerships with Major Industry Leading Organizations," press release, December 2, 2024. https://www.civicmarketplace.com/insights/civic-marketplace-raises-3-2m-to-transform-government-procurement-announces-partnerships-with-major-industry-leading-organizations
 [^35]: Government Technology, "Investors Bet $3M on Procurement Startup Civic Marketplace," November 20, 2024. https://www.govtech.com/biz/investors-bet-3m-on-procurement-startup-civic-marketplace
 [^36]: Latitud blog, "How we raised Latitud's $13M seed round," Brian Requarth, July 12, 2022. https://www.latitud.com/blog/how-we-raised-latitud-seed-round
+[^37]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
+[^38]: FinTech Global, "Augustus lands $180m Series B to dollarise the world," July 21, 2026. Accessed July 22, 2026. https://fintech.global/2026/07/21/augustus-lands-180m-series-b-to-dollarise-the-world/

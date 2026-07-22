@@ -88,10 +88,11 @@ Atiyeh invests across stages from seed to Series B, with the heaviest concentrat
 
 ## Portfolio
 
-This table includes 12 verified investments. Sources indicate Atiyeh may have made up to 23 total investments [^12]; this represents approximately 52% of the estimated total.
+This table includes 13 verified investments. Sources indicate Atiyeh may have made up to 23 total investments [^12]; this represents approximately 57% of the estimated total.
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Augustus | Series B (angel) | 2026-07-21 | Fintech / Stablecoin clearing bank | Active | [^31][^32] |
 | Monogram | Seed (angel) | 2026-07-07 | AI / Consumer AI / Mobile | Active | [^28][^29][^30] |
 | 1001 | Series A (angel) | 2026-06-30 | Sovereign AI / critical infrastructure | Active | [^26][^27] |
 | Matia | Series A | 2026 | Data infrastructure / AI | Active | [^18] |
@@ -165,3 +166,5 @@ No independently sourced founder testimonials found. Nuvocargo's blog post welco
 [^29]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent press pickup.
 
 [^30]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement.
+[^31]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
+[^32]: FinTech Global, "Augustus lands $180m Series B to dollarise the world," July 21, 2026. Accessed July 22, 2026. https://fintech.global/2026/07/21/augustus-lands-180m-series-b-to-dollarise-the-world/

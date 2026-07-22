@@ -3213,3 +3213,35 @@ priority:
   type: firm
   reason: "participated in Neo Seed+Series A ($100M, 2026-07-20)"
   added: 2026-07-21
+- slug: tiger-global
+  type: firm
+  reason: "led Augustus Series B ($180M, 2026-07-21)"
+  added: 2026-07-22
+- slug: qed-investors
+  type: firm
+  reason: "co-invested in Augustus Series B ($180M, 2026-07-21)"
+  added: 2026-07-22
+- slug: david-velez
+  type: investor
+  reason: "angel in Augustus Series B ($180M, 2026-07-21)"
+  added: 2026-07-22
+- slug: karim-atiyeh
+  type: investor
+  reason: "angel in Augustus Series B ($180M, 2026-07-21)"
+  added: 2026-07-22
+- slug: sean-neville
+  type: investor
+  reason: "angel in Augustus Series B ($180M, 2026-07-21)"
+  added: 2026-07-22
+- slug: alex-bouaziz
+  type: investor
+  reason: "angel in Augustus Series B ($180M, 2026-07-21)"
+  added: 2026-07-22
+- slug: balaji-srinivasan
+  type: investor
+  reason: "angel in Augustus Series B ($180M, 2026-07-21)"
+  added: 2026-07-22
+- slug: cerberus-ventures
+  type: firm
+  reason: "co-invested in Photon Queue Seed ($4M, 2026-07-21)"
+  added: 2026-07-22

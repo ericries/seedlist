@@ -57,6 +57,7 @@ Partial list of confirmed angel investments. Each row is sourced to a press anno
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
+| Augustus | 2026-07-21 | Series B ($180M, Tiger Global-led at $1B valuation) | [^20][^21] |
 | Realm | 2026-04-22 | Seed ($4.5M) | [^10] |
 | Isembard | 2026-03-09 | Series A ($50M) | [^10] |
 | Linkup | 2026-02-03 | Seed ($10M) | [^10] |
@@ -149,3 +150,5 @@ Rippling filed suit against Deel in the Northern District of California on March
 [^17]: TechCrunch, "The Rippling/Deel corporate spying scandal may have taken another wild turn," January 23, 2026. https://techcrunch.com/2026/01/23/the-rippling-deel-corporate-spying-scandal-may-have-taken-another-wild-turn/
 [^18]: Rippling, "Lawsuit Alleges $12 Billion 'Unicorn' Deel Cultivated Spy, Orchestrated Long-Running Trade-Secret Theft & Corporate Espionage Against Competitor," March 17, 2025. https://www.rippling.com/blog/lawsuit-alleges-12-billion-unicorn-deel-cultivated-spy-orchestrated-long-running-trade-secret-theft-corporate-espionage-against-competitor
 [^19]: Deel, "Deel's Counterclaims Against Rippling," April–June 2025 (updated). https://www.deel.com/blog/deel-files-lawsuit/
+[^20]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
+[^21]: FinTech Global, "Augustus lands $180m Series B to dollarise the world," July 21, 2026. Accessed July 22, 2026. https://fintech.global/2026/07/21/augustus-lands-180m-series-b-to-dollarise-the-world/

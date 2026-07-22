@@ -89,6 +89,7 @@ Based on 12 verified portfolio companies from the firm's portfolio page [^6]:
 | DG Matrix | Seed | 2023 | Energy Infrastructure | Acquired | [^6] |
 | Ferveret | Seed | 2024 | Liquid Cooling / Energy | Acquired | [^6] |
 | Star Catcher Industries | Series A ($65M, co-led with B Capital and Shield Capital) | 2026-05-12 | Space / Power / Orbital Infrastructure | Active | [^8][^9] |
+| Photon Queue | Seed ($4M, Playground Global-led; with Illinois Ventures, Roadrunner Venture Studios, MFV Partners) | 2026-07-21 | Quantum Computing / Quantum Memory | Active | [^13][^14] |
 
 ## In Their Own Words
 
@@ -112,3 +113,5 @@ No independently sourced founder testimonials found.
 [^10]: Nudge Security press release, "Nudge Security Raises $22.5M Series A to Secure Workforce AI and SaaS," November 18, 2025. Accessed July 2026. https://www.nudgesecurity.com/press/nudge-security-raises-22-5m-series-a-to-secure-workforce-ai-and-saas — USD 22.5M Series A led by Cerberus Ventures with Ballistic Ventures, Forgepoint Capital, and Squadra Ventures participating; Morgan Mahlock of Cerberus Ventures joined the board.
 [^11]: Cerberus Ventures, "Announcing Our Investment in Nudge Security," by Morgan Mahlock, Managing Director, November 18, 2025. Accessed July 2026. https://www.cerberus-ventures.com/perspectives/announcing-our-investment-in-nudge-security — Cerberus Ventures' own announcement of the investment, authored by Morgan Mahlock, confirming firm participation.
 [^12]: Gunderson Dettmer, "Nudge Security Raises $22.5 Million Series A Led by Cerberus Ventures," November 18, 2025. Accessed July 2026. https://www.gunder.com/en/news-insights/client-news/nudge-security-raises-22-5-million-dollar-series-a-led-by-cerberus-ventures — Transaction counsel confirmation of USD 22.5M Series A led by Cerberus Ventures with Ballistic, Forgepoint, and Squadra participating.
+[^13]: The Quantum Insider, "Photon Queue Raises $4 Million Oversubscribed Seed Round," July 21, 2026. Accessed July 22, 2026. https://thequantuminsider.com/2026/07/21/photon-queue-raises-4-millionoversubscribed-seed-round/ — $4M oversubscribed seed round led by Playground Global with Cerberus Capital Management, Illinois Ventures, Roadrunner Venture Studios, and MFV Partners participating.
+[^14]: Quantum Computing Report, "Photon Queue Raises $4M Oversubscribed Seed Round to Commercialize Room-Temperature Quantum Memory," July 21, 2026. Accessed July 22, 2026. https://quantumcomputingreport.com/photon-queue-raises-4m-oversubscribed-seed-round-to-commercialize-room-temperature-quantum-memory/ — Independent confirmation of Playground Genesis Fund-led $4M seed with Cerberus, Illinois Ventures, Roadrunner, MFV Partners as co-investors.

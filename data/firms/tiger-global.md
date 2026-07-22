@@ -214,8 +214,9 @@ The following table includes Tiger Global private investments verified through C
 | Uber | Growth | ~2017 | Consumer / Ride-hailing | Public (IPO 2019) [^2] |
 | IrokoTV | Growth | ~2012 | Consumer / Streaming (Africa) | Private [^16] |
 | Upscale AI | Series A-1 (existing investor; Premji Invest-led, $190M at $2B post-money) | 2026-06-22 | AI / Networking Infrastructure | Private [^23][^24][^25] |
+| Augustus | Series B (led, $180M at $1B post-money) | 2026-07-21 | Fintech / Stablecoin Clearing Bank | Private [^26][^27] |
 
-*Note: This table includes 36 companies out of ~790 active portfolio companies (~5%). Many investment years are approximate, marked with "~", where exact dates are not publicly confirmed. Tiger Global frequently participates in multiple rounds of the same company; the stage listed reflects the first or most significant known investment.*
+*Note: This table includes 37 companies out of ~790 active portfolio companies (~5%). Many investment years are approximate, marked with "~", where exact dates are not publicly confirmed. Tiger Global frequently participates in multiple rounds of the same company; the stage listed reflects the first or most significant known investment.*
 
 ## In Their Own Words
 
@@ -320,3 +321,7 @@ The same founder later reflected on the downturn: "Too much money fucked us, bas
 [^24]: Fortune, "Exclusive: Upscale AI wants to be the next Cisco—and it just raised another $190 million," June 22, 2026. Accessed June 2026. https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/ — Term Sheet exclusive confirming Premji Invest-led $190M Series A-1 with Tiger Global among returning backers; total funding reaches $500M.
 
 [^25]: Pulse 2.0, "Upscale AI Raises $190 Million Series A-1 At $2 Billion Valuation For AI Networking Infrastructure," June 22, 2026. Accessed June 2026. https://pulse2.com/upscale-ai-raises-190-million-series-a-1-at-2-billion-valuation-for-ai-networking-infrastructure-company/ — Independent confirmation of Premji Invest-led $190M Series A-1 with Tiger Global as existing investor.
+
+[^26]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
+
+[^27]: CoinDesk, "Stablecoin bank Augustus raises $180 million to build a clearing bank for the AI era," July 21, 2026. Accessed July 22, 2026. https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era

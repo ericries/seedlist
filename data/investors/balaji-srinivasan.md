@@ -127,6 +127,7 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
+| Augustus | 2026-07-21 | Series B (angel, $180M Tiger Global-led at $1B) | [^30][^31] |
 | Avalanche (Ava Labs) | 2019 | Seed | [^17] |
 | NEAR Protocol | 2019 | Seed | [^17] |
 | InstaDApp (Fluid) | 2019 | Seed | [^17] |
@@ -337,3 +338,5 @@ No independently sourced founder testimonials found. Despite dedicated searches 
 [^28]: "OpenGov: The Startup Analyzing $50B in Spending" (notes OpenGov's $3M seed round in 2012 followed by 2014 Series B led by a16z). a16z announcement. Accessed June 2026. https://a16z.com/announcement/opengov-the-startup-analyzing-50b-in-spending/
 
 [^29]: PitchBook, "Omada Health Series A" (Omada raised $4.7M Series A led by U.S. Venture Partners on March 21, 2013; Andreessen Horowitz invested in the April 2014 Series B). Accessed June 2026. https://pitchbook.com/newsletter/andreessen-horowitz-leads-23m-series-b-for-omada-health
+[^30]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
+[^31]: FinTech Global, "Augustus lands $180m Series B to dollarise the world," July 21, 2026. Accessed July 22, 2026. https://fintech.global/2026/07/21/augustus-lands-180m-series-b-to-dollarise-the-world/

@@ -56,6 +56,7 @@ Patterns visible from his founder roles and the limited verified angel activity:
 |---------|------|-------|--------|
 | Circle Internet Group (co-founder, board director) | 2013-present | Founded 2013; IPO June 4, 2025 (NYSE) | [^1] [^5] |
 | Catena Labs (co-founder & CEO) | 2024-present | Seed $18M (May 20, 2025, led by a16z crypto); Series A $30M (May 20, 2026, co-led Acrew Capital & a16z crypto) | [^2] [^7] [^8] |
+| Augustus (angel) | 2026-07-21 | Series B ($180M, Tiger Global-led at $1B valuation) | [^12] [^13] |
 
 Public aggregator profiles (e.g., Tracxn, CB Insights) list additional angel activity attributed to a "Sean Neville," but the records appear to mix multiple individuals with the same name (including a Singapore-based investor with one disclosed investment in AltLayer) [^10] [^11]. Those entries are not included here because the identity attribution cannot be independently verified from primary sources.
 
@@ -117,3 +118,5 @@ No independently sourced founder testimonials about working with Sean Neville as
 [^9]: "Dive Newsdesk: Circle co-founder eyes banking for the 'AI actor,'" Banking Dive, accessed May 2026. https://www.bankingdive.com/news/dive-newsdesk-stablecoins-agentic-finance-ai-circle-co-founder-sean-neville/804646/
 [^10]: Sean Neville Portfolio Investments, CB Insights, accessed May 2026. https://www.cbinsights.com/investor/sean-neville
 [^11]: Sean Neville — Portfolio & Founded Companies, Tracxn, accessed May 2026. https://tracxn.com/d/people/sean-neville/__EzppciKaQG9ZU92GpsTvkzjr4UOy6WnjVa_slMOjkrY
+[^12]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
+[^13]: FinTech Global, "Augustus lands $180m Series B to dollarise the world," July 21, 2026. Accessed July 22, 2026. https://fintech.global/2026/07/21/augustus-lands-180m-series-b-to-dollarise-the-world/
