@@ -586,7 +586,9 @@ vague_facts:
   line: '| Carousell | Seed | ~2014 | Marketplace | Active (unicorn) | [^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22 (fourth pass): tightened Carousell row on 500-global.md from year-only "Seed | ~2014" to "Seed (S$1M / USD 800K; Rakuten Ventures led; 500 Startups + Golden Gate Ventures + Danny Oei Wirianto + Darius Cheung participated; company was co-founded by Quek Siu Rui, Lucas Ngoo, and Marcus Tan in Singapore) | 2013-11-13". Prior "~2014" year was WRONG — Carousell seed was November 2013; 2014 was the Series A (USD 6M led by Sequoia). 3 primary sources: NEW TechCrunch (Catherine Shu) 2013-11-13 seed announcement [^81] + NEW TechCrunch (Catherine Shu) 2014-11-26 Series A confirming 500 Startups continued from seed [^82] + NEW NUS News unicorn profile [^83]. 3 new footnotes added.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Lucidchart
@@ -644,7 +646,9 @@ vague_facts:
   line: '| Clip | Seed | ~2014 | Fintech/Payments | Active | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22 (fourth pass): tightened Clip row on 500-global.md from year-only "Seed | ~2014" to "Seed (USD 1.5M venture round; 500 Startups + Alta Ventures Mexico + Accion + Karl Mehta (PlaySpan founder) participated; no single lead named; follows undisclosed ~USD 425K prior seed; founders Adolfo Babatz and Vilash Poovala; SoftBank LatAm Fund''s first LatAm investment; later Amex-backed) | 2013-05-28". Prior "~2014" year was WRONG — the May 28, 2013 venture round was Clip''s formative 500 Startups check; November 2013 was a follow-on convertible note. 3 primary sources: NEW StartUp Beat (Brian Kovalesky) 2013-05-28 [^84] + NEW TheNextWeb (Ken Yeung) 2013-05-28 [^85] + NEW TechCrunch (Mike Butcher) 2013-11-16 subsequent-round primary [^86]. All three confirm the round chronology. 3 new footnotes added.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Paidy
