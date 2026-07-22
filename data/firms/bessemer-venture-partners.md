@@ -159,6 +159,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Verse | Series B (led, $54M) | 2026-06-18 | Climate / Energy / AI / Data Centers | [^verse1][^verse2][^verse3] |
 | Dominion Dynamics | Series A (existing investor, participant; C$139M / USD 100M round at USD 400M post-money) | 2026-06-30 | Defense Tech / Autonomy / Aerospace | [^dom1][^dom2][^dom3][^dom4] |
 | Sila | Late-stage private ($300M; Atreides Management & Sutter Hill Ventures co-led; 8VC, Matrix Partners, T. Rowe Price participated) | 2026-07-21 | Battery Materials / Cleantech | [^sila1][^sila2] |
+| Neo | Seed + Series A ($100M combined; co-led with Andreessen Horowitz; Craft Ventures and Merlin Ventures participated; Boston HQ; founders ex-SentinelOne) | 2026-07-20 | Cybersecurity / AI / Enterprise Software | [^neo1][^neo2] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -283,3 +284,7 @@ However, founder experiences are not universally positive. One founder reported 
 [^sila1]: TechCrunch, "Bucking EV slowdown, Sila raises $300M to expand battery materials factory," July 21, 2026. Accessed July 21, 2026. https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/ — Confirms $300M private round co-led by Atreides Management and Sutter Hill Ventures with participation from 8VC, Bessemer Venture Partners, Matrix Partners, and T. Rowe Price. Announced July 21, 2026.
 
 [^sila2]: GeekWire, "Next-gen battery startup Sila raises $300M to expand manufacturing plant in Washington state," July 21, 2026. Accessed July 21, 2026. https://www.geekwire.com/2026/next-gen-battery-startup-sila-raises-300m-to-expand-washington-state-manufacturing-plant/ — Independent confirmation of Sila $300M raise.
+
+[^neo1]: SecurityWeek, "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software," July 20, 2026. Accessed July 21, 2026. https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/ — Confirms $100M combined seed + Series A co-led by Andreessen Horowitz and Bessemer Venture Partners; Craft Ventures and Merlin Ventures participated.
+
+[^neo2]: GlobeNewswire (Neo company press release), "Neo Launches with $100M to Secure AI Software Across the Enterprise," July 20, 2026. Accessed July 21, 2026. https://www.globenewswire.com/news-release/2026/07/20/3329638/0/en/Neo-Launches-with-100M-to-Secure-AI-Software-Across-the-Enterprise.html — Official company press release; confirms Bessemer as co-lead alongside a16z.

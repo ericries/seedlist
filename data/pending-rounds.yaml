@@ -90,7 +90,9 @@ pending_rounds:
   parsed_company: Neo
   parsed_amount: $100M
   parsed_round: Seed And Series A
-  status: pending
+  status: processed
+  processed: '2026-07-21'
+  processed_slug: neo-agentic-security
 - title: Uniti raised $12M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -98,7 +100,9 @@ pending_rounds:
   parsed_company: Uniti
   parsed_amount: $12M
   parsed_round: Series A
-  status: pending
+  status: processed
+  processed: '2026-07-21'
+  processed_slug: uniti-ai
 - title: Reo.Dev raised $11.3M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -136,6 +140,14 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-21'
   parsed_company: Omio
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/21/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-21-2026/
+  source: alleywatch
+  date_found: '2026-07-21'
+  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending

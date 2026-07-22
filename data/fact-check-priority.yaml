@@ -3201,3 +3201,15 @@ priority:
   type: firm
   reason: "participated in Reo.Dev Series A (2026-07-17), $11.3M"
   added: 2026-07-21
+- slug: andreessen-horowitz
+  type: firm
+  reason: "co-led Neo Seed+Series A ($100M, 2026-07-20)"
+  added: 2026-07-21
+- slug: bessemer-venture-partners
+  type: firm
+  reason: "co-led Neo Seed+Series A ($100M, 2026-07-20)"
+  added: 2026-07-21
+- slug: craft-ventures
+  type: firm
+  reason: "participated in Neo Seed+Series A ($100M, 2026-07-20)"
+  added: 2026-07-21
