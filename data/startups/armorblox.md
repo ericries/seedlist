@@ -56,7 +56,7 @@ Armorblox was a cybersecurity company that used natural language understanding (
 |------|-------|--------|------|--------------|
 | 2019-02-20 | Series A | $16.5M | General Catalyst | Point72 Ventures, A Capital, SV Angel (Ron Conway), Robin Vasan, John Thompson, Gerhard Eschelbeck, Oliver Friedrichs, DJ Patil [^1][^4] |
 | 2021-02-23 | Series B | $30M | Next47 | Polaris Partners, Unusual Ventures, General Catalyst [^3] |
-| 2022-09-21 | Strategic | Undisclosed (S Ventures fund range: $1M–$5M) | S Ventures (SentinelOne) | — [^6][^7][^8] |
+| 2022-09-21 | Strategic | Undisclosed (S Ventures fund range: $1M–$5M) | S Ventures (SentinelOne) | Solo strategic investment — no co-investors named in primary press [^6][^7][^8] |
 
 Total raised: $46.5M [^3].
 

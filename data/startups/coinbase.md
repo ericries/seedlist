@@ -200,7 +200,7 @@ Coinbase was founded in June 2012 by Brian Armstrong and Fred Ehrsam in San Fran
 | Series C | Jan 2015 | $75M | ~$500M | DFJ Growth | Andreessen Horowitz, Union Square Ventures, Ribbit Capital, NYSE, USAA, BBVA, DoCoMo Capital [^8] |
 | Series D | Aug 2017 | $100M | $1.6B | IVP | Spark Capital, Greylock Partners, Battery Ventures, Section 32, Draper Associates [^9] |
 | Series E | Oct 2018 | $300M | $8B | Tiger Global | Y Combinator Continuity, Wellington Management, Andreessen Horowitz, Polychain [^10] |
-| IPO (Direct Listing) | Apr 2021 | N/A | $47B (reference) | N/A | Public markets (Nasdaq: COIN) [^3] |
+| IPO (Direct Listing) | 2021-04-14 | N/A (direct listing — no new capital raised) | $65B ($250 reference price × ~261M shares outstanding) | N/A (direct listing — no lead underwriter) | Public markets (Nasdaq: COIN) [^3] [^20] [^21] |
 
 ## What Investors Say
 
@@ -247,4 +247,8 @@ Armstrong has spoken about recognizing early on that someone needed to build a c
 [^18]: Jason Del Rey, AllThingsD, "Bitcoin's Biggest Bet: Andreessen Horowitz Leads $25 Million Investment in Coinbase," December 12, 2013, accessed July 2026. https://allthingsd.com/20131212/bitcoins-biggest-bet-andreessen-horowitz-leads-25-million-investment-in-coinbase/ — Contemporaneous tech press confirming Andreessen Horowitz-led $25M Series B with Union Square Ventures and Ribbit Capital participating, and Chris Dixon (a16z) plus Fred Wilson (USV) taking board seats. Coinbase had 8 employees at announcement. No post-money valuation disclosed.
 
 [^19]: Bitcoin Magazine, "Bitcoin Magazine Congratulates Coinbase On A Series A Round Of Funding," May 2013, accessed July 2026. https://bitcoinmagazine.com/markets/bitcoin-magazine-congratulates-coinbase-series-round-funding — Contemporaneous industry press confirming "a September 2012 seed fund of $600,000 which provided the company tools to move forward" but not disclosing any valuation cap or security structure for the seed round.
+
+[^20]: CNBC, "Coinbase stock debuts on Nasdaq in direct listing," April 14, 2021, accessed July 2026. https://www.cnbc.com/2021/04/14/coinbase-to-debut-on-nasdaq-in-direct-listing.html — Contemporaneous coverage of Coinbase's direct listing debut on Nasdaq (ticker: COIN) on April 14, 2021. Reference price was $250/share, and shares opened at $381 (up 52%). As a direct listing, no new capital was raised and there was no lead underwriter.
+
+[^21]: CNBC, "Coinbase gets reference price of $250 per share from Nasdaq ahead of today's direct listing," April 13, 2021, accessed July 2026. https://www.cnbc.com/2021/04/13/coinbase-reference-price-250-ahead-of-direct-listing.html — Confirms Nasdaq set Coinbase's reference price at $250/share on April 13, 2021, with direct-listing debut scheduled for April 14, 2021.
 

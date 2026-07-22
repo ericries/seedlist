@@ -64,7 +64,7 @@ Smule is a social music platform founded in 2008 by Jeff Smith and Stanford prof
 | Oct 2011 | Series D | $12M | Shasta Ventures | Granite Ventures, Bessemer Venture Partners [^6] |
 | 2014-04-10 | Series E | $16.6M | Roth Capital Partners | Bessemer Venture Partners, Granite Ventures, Shasta Ventures [^4] [^12] [^13] |
 | Apr 2015 | Series F | $26M | Adams Street Partners | Shasta Ventures, Bessemer Venture Partners [^4] |
-| Jun 2016 | Series G | $22M | Adams Street Partners | Undisclosed [^7] |
+| 2016-06-01 | Series G | $22M | Adams Street Partners | Not named in primary sources; SEC Form D discloses only related persons (executives), not investors [^7] [^15] |
 | May 2017 | Series H | $54M | Tencent | Adams Street Partners, Bessemer Venture Partners, Floodgate, Franklin Templeton, Shasta Ventures [^2] |
 | Oct 2018 | Series I | $20M | Times Bridge | — [^8] |
 | 2022-12-06 | Series J | $14.2M | Undisclosed | Bessemer Venture Partners, Experior Venture Fund, Granite Ventures, Shasta Ventures [^3] [^14] |
@@ -101,3 +101,4 @@ Smule is a social music platform founded in 2008 by Jeff Smith and Stanford prof
 [^12]: Billboard, "App Maker Smule Raises $16.6M, Eyes Eventual IPO," April 2014. https://www.billboard.com/music/music-news/app-maker-smule-raises-166m-eyes-eventual-ipo-6049206/
 [^13]: Music Ally, "Music apps firm Smule raises $16.6m in latest funding round," June 23, 2014. https://musically.com/2014/06/23/music-apps-firm-smule-raises-16-6m-in-latest-funding-round/
 [^14]: CB Insights, Smule Financials (Series J, December 6, 2022), accessed April 2026. https://www.cbinsights.com/company/smule/financials
+[^15]: SEC Form D (Notice of Exempt Offering of Securities), Smule, Inc. (CIK 0001441408), filed June 16, 2016. Accession 0001441408-16-000003. https://www.sec.gov/Archives/edgar/data/1441408/000144140816000003/xslFormDX01/primary_doc.xml — Primary source: Date of First Sale 2016-06-01; Total Offering Amount $22,185,434 (Equity); Total Amount Sold $22,005,588. Filing lists only executive officers/directors as related persons; participating investors are not named.

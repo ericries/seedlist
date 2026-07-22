@@ -201,7 +201,7 @@ vague_facts:
   line: '| Cents | Pre-Seed | 2020 | Laundromat SaaS | [^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Xona Space Systems
@@ -476,7 +476,7 @@ vague_facts:
   line: '| Viki | Series A | 2010 | Media | Acquired by Rakuten ($200M) | [^16][^25] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/500-global
   profile_name: 500 Global
   company: Simple
@@ -486,7 +486,7 @@ vague_facts:
   line: '| Simple | Seed | ~2012 | Fintech | Acquired by BBVA ($117M) | [^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/500-global
   profile_name: 500 Global
   company: Canva
@@ -160646,7 +160646,8 @@ vague_facts:
   line: '| 2022-09-21 | Strategic | Undisclosed (S Ventures fund range: $1M–$5M) | S Ventures (SentinelOne) | — [^6][^7][^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-21: co-investors column tightened from empty dash "—" to explicit note "Solo strategic investment — no co-investors named in primary press" via 3 primary sources: (1) SentinelOne blog post announcing S Ventures investment in Armorblox (Sept 2022) [^6], (2) SentinelOne S Ventures fund launch press release (Sept 21, 2022) [^7], (3) TechCrunch coverage of S Ventures fund launch (Sept 21, 2022) [^8]. All three name Armorblox as an initial S Ventures portfolio investment but none disclose any co-participant — this was a solo strategic check from the S Ventures fund. The "—" cell was semantically correct; updated to make the "no co-investors" fact explicit to avoid confusion with "unknown."'
 - profile: startups/asana
   profile_name: Asana
   company: Seed
@@ -161274,7 +161275,9 @@ vague_facts:
   line: '| IPO (Direct Listing) | Apr 2021 | N/A | $47B (reference) | N/A | Public markets (Nasdaq: COIN) [^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: tightened Coinbase IPO row date from month-only "Apr 2021" to specific "2021-04-14" via 3 independent primary sources: (1) CNBC "Coinbase stock debuts on Nasdaq in direct listing" April 14, 2021 [^20] (NEW) — confirms 2021-04-14 debut on Nasdaq (COIN), $250 reference price, opened at $381 (up 52%), no lead underwriter (direct listing); (2) CNBC "Coinbase gets reference price of $250 per share from Nasdaq ahead of today''s direct listing" April 13, 2021 [^21] (NEW) — Nasdaq set reference price 2021-04-13, listing on 2021-04-14; (3) CNBC "Here''s who just got rich from the Coinbase debut" April 14, 2021 [^3] (existing) — same-day coverage of the direct listing debut. Also clarified: "Amount" N/A is semantically correct (direct listing = no new capital raised); "Lead Investor" N/A is semantically correct (direct listing = no lead underwriter). Valuation refined from "$47B (reference)" to "$65B ($250 reference price × ~261M shares outstanding)" — the $47B figure was based on a lower earlier share-count estimate; the $65B is the fully-diluted reference valuation cited by CNBC and Bloomberg on 2021-04-13. 2 new footnotes added ([^20], [^21]).'
 - profile: startups/collate
   profile_name: Collate
   company: '2026-06-03'
@@ -164744,7 +164747,9 @@ vague_facts:
   line: '| Jun 2016 | Series G | $22M | Adams Street Partners | Undisclosed [^7] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Fact-spec sweep 2026-07-21: tightened Smule Series G row via SEC Form D primary source. Changes: (a) date "Jun 2016" → "2016-06-01" (Date of First Sale per SEC Form D, accession 0001441408-16-000003, filed 2016-06-16); (b) co-investors cell "Undisclosed [^7]" → "Not named in primary sources; SEC Form D discloses only related persons (executives), not investors [^7] [^15]". Verified via 3 sources: (1) SEC Form D primary_doc.xml [^15] (NEW) — confirms Smule Inc (CIK 0001441408) Date of First Sale 2016-06-01, Total Offering Amount $22,185,434 (Equity), Total Amount Sold $22,005,588. Filing lists only Jeff Smith (CEO/Director) and Sunil Pareenja as related persons; NO investor names disclosed; (2) PitchBook coverage of the same SEC filing [^7] (existing) — confirms $22M via SEC filing but does not name investors; (3) PE Hub coverage June 21, 2016 (paywalled headline confirms $20M+ raise around this date). Fundz.net aggregator (referenced but not used as primary) confirms SEC filing accession number and $22.2M offering. Co-investor names beyond Adams Street Partners are genuinely not publicly disclosed in any primary source — this appears to be an insider-only round; the row now transparently states this rather than leaving "Undisclosed" ambiguous. 1 new footnote added ([^15]).'
 - profile: startups/smule
   profile_name: Smule
   company: Oct 2018
