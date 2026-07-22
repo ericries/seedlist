@@ -1,33 +1,41 @@
 ---
-name: "Reo.Dev"
-slug: reo-dev
-type: startup
-website: "https://reo.dev"
-location: "San Francisco, CA / Bengaluru, India"
-founded: 2023
-status_company: active
-sector: [ai, developer-tools, sales-intelligence, gtm, saas]
-stage_latest: "Series A"
-total_raised: "$15.3M"
-investors: []
 firms:
-  - slug: heavybit
-    round: series-a
-    year: 2026
-    date: 2026-07-17
-  - slug: uncorrelated-ventures
-    round: series-a
-    year: 2026
-    date: 2026-07-17
+- date: 2026-07-17
+  round: series-a
+  slug: heavybit
+  year: 2026
+- date: 2026-07-17
+  round: series-a
+  slug: uncorrelated-ventures
+  year: 2026
+founded: 2023
 founders:
-  - name: "Achintya Gupta"
-    role: "Co-Founder & CEO"
-  - name: "Gaurav Jain"
-    role: "Co-Founder"
-  - name: "Piyush Agarwal"
-    role: "Co-Founder"
-status: published
+- name: Achintya Gupta
+  role: Co-Founder & CEO
+- name: Gaurav Jain
+  role: Co-Founder
+- name: Piyush Agarwal
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: joseph-ruscio
+  year: 2025
 last_researched: 2026-07-21
+location: San Francisco, CA / Bengaluru, India
+name: Reo.Dev
+sector:
+- ai
+- developer-tools
+- sales-intelligence
+- gtm
+- saas
+slug: reo-dev
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $15.3M
+type: startup
+website: https://reo.dev
 ---
 
 ## About

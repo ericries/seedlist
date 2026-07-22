@@ -2,7 +2,7 @@
 firms:
 - round: growth
   slug: sv-angel
-  year: ~2021
+  year: 2021
 - round: Seed
   slug: independent
   year: 2018
@@ -69,6 +69,9 @@ firms:
 - round: Early/Seed
   slug: buckley-ventures
   year: 2012
+- round: Angel (aggregator-reported; exact round undisclosed)
+  slug: gusto
+  year: 2013
 founded: 2012
 founders:
 - name: Dylan Field
@@ -147,6 +150,9 @@ investors:
   year: 2012
 - round: Early
   slug: sahil-lavingia
+  year: 2013
+- round: Angel (aggregator-reported; exact round undisclosed)
+  slug: tomer-london
   year: 2013
 last_researched: 2026-05-04
 location: San Francisco, CA

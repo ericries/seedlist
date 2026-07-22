@@ -54,6 +54,9 @@ firms:
   slug: buckley-ventures
   year: 2017
 - slug: tcv
+- round: Angel (aggregator-reported; exact round undisclosed)
+  slug: gusto
+  year: 2019
 founded: 2017
 founders: []
 investors:
@@ -110,6 +113,9 @@ investors:
   year: 2017
 - round: Early
   slug: sahil-lavingia
+  year: 2019
+- round: Angel (aggregator-reported; exact round undisclosed)
+  slug: tomer-london
   year: 2019
 last_researched: 2026-05-21
 location: San Francisco, CA

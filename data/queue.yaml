@@ -25697,7 +25697,7 @@ queue:
 - name: Sarah Friar
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: OpenAI
   discovered_from: arc-qsr
@@ -25742,7 +25742,7 @@ queue:
 - name: Tomer London
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Gusto
   discovered_from: didit
@@ -40140,3 +40140,110 @@ queue:
   firm: Visibuilt
   discovered_from: visibuilt
   source: Founder & CEO, Visibuilt (Danish mycelium construction binder biotech)
+- name: Josh Reeves
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gusto
+  discovered_from: tomer-london
+  source: co-founder & CEO of Gusto with Tomer London
+- name: Edward Kim
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Gusto
+  discovered_from: tomer-london
+  source: co-founder & CTO of Gusto with Tomer London
+- name: Jacqueline Reses
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Post House Capital
+  discovered_from: sarah-friar
+  source: co-investor in Step Series C (2021-04-27) with Sarah Friar; ex-Square
+- name: Kyle Doherty
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: General Catalyst
+  discovered_from: sarah-friar
+  source: led Step Series C (2021-04-27), joined board
+- name: Nina Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sarah-friar
+  source: co-invested in MedAll Seed (2022-01-05) with Sarah Friar; healthtech specialist
+- name: Amiti Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomer-london
+  source: led Demostack Seed (2020-12) with Tomer London participating
+- name: Tapestry VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sarah-friar
+  source: Sarah Friar is LP in Fund III (2026-07-01); repeat-founder-focused VC
+- name: ConsenSys
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sarah-friar
+  source: Sarah Friar board member (Web3 infrastructure)
+- name: Bond Financial Technologies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sarah-friar
+  source: Series A $32M July 2020 led by Coatue; Sarah Friar angel
+- name: Belong
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sarah-friar
+  source: Real estate marketplace; Series B $40M 2021 led by Battery Ventures; Sarah
+    Friar angel
+- name: MedAll
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sarah-friar
+  source: Belfast healthcare training platform; Seed $3.4M Jan 2022 led by Connect
+    Ventures; Sarah Friar angel
+- name: UNIPaaS
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sarah-friar
+  source: Embedded payments for marketplaces; Seed $10M Feb 2021 led by TPY Capital;
+    Sarah Friar angel
+- name: Demostack
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tomer-london
+  source: SaaS demo experience platform; Seed Dec 2020 led by Amiti; Series A $13.3M
+    April 2021 led by Bessemer; Tomer London angel
+- name: Step Mobile
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sarah-friar
+  source: Teen mobile banking; Series C $100M April 2021 led by General Catalyst;
+    Sarah Friar angel

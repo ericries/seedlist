@@ -1,26 +1,37 @@
 ---
-name: "Cloudsmith"
-slug: cloudsmith
-type: startup
-website: "https://cloudsmith.com/"
-location: "Belfast, Northern Ireland"
-founded: 2016
-status_company: active
-sector: [developer-tools, devops, security, ai, infrastructure]
-stage_latest: "Series C"
-total_raised: "$100M+"
 firms:
-  - slug: tcv
-    round: series-c
-    year: 2026
-    date: 2026-04-23
-  - slug: insight-partners
-    round: series-c
-    year: 2026
-    date: 2026-04-23
-investors: []
-status: published
+- date: 2026-04-23
+  round: series-c
+  slug: tcv
+  year: 2026
+- date: 2026-04-23
+  round: series-c
+  slug: insight-partners
+  year: 2026
+- round: Series A (Tiger Global led)
+  slug: openai
+  year: 2021
+founded: 2016
+investors:
+- round: Series A (Tiger Global led)
+  slug: sarah-friar
+  year: 2021
 last_researched: 2026-04-23
+location: Belfast, Northern Ireland
+name: Cloudsmith
+sector:
+- developer-tools
+- devops
+- security
+- ai
+- infrastructure
+slug: cloudsmith
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $100M+
+type: startup
+website: https://cloudsmith.com/
 ---
 
 ## About
