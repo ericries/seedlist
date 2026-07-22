@@ -99,7 +99,7 @@ Based on 100+ verified portfolio companies from Paradigm's portfolio page, the f
 | Monad | Series A (Led) | 2024-04-09 | L1 Blockchain | [^7] |
 | Conduit | Series A (co-led, $37M) | 2024-06-19 | L2 rollups | [^30][^31] |
 | Farcaster | Series A | 2024 | Social/Crypto | [^24] |
-| Nous Research | Series A | 2025 | AI/Open Source | [^25] |
+| Nous Research | Series A (led, $50M at $1B token valuation; round almost entirely financed by Paradigm) | 2025-04-25 | AI/Open Source | [^25] |
 | Tempo | Incubation | 2025 | Blockchain Payments | [^26] |
 | Kalshi | Series E (led) | 2025-12-02 | Prediction Markets | [^27][^32] |
 | Andromeda | Growth | 2026 | AI Compute | [^28] |

@@ -177,7 +177,7 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 | NFTPort | 2022 | Series A | [^17] |
 | Vibe Bio | 2022 | Seed | [^17] |
 | AltLayer | 2022 | Seed | [^17] |
-| Farcaster | 2022 | Seed | [^17][^22] |
+| Farcaster (Merkle Manufactory) | 2022-07-13 | Seed ($30M; led by a16z crypto; Standard Crypto, 1confirmation, Coinbase Ventures, Multicoin Capital, Ribbit Capital, Elad Gil, Volt Capital, First Round Capital, Scalar Capital and others also participated; Balaji among angels) | [^17][^22][^32][^33] |
 | Hashflow | 2022 | Series A | [^17] |
 | Socket Protocol | 2022 | Pre-Seed | [^17] |
 | Shardeum | 2022 | Seed | [^17] |
@@ -216,8 +216,8 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 | Parallax | 2023 | Seed | [^17] |
 | Ostium Labs | 2023 | Seed | [^17] |
 | Fileverse | 2023 | Pre-Seed | [^17] |
-| Ritual | 2023 | Series A | [^17] |
-| Nous Research | 2024 | Seed | [^17] |
+| Ritual | 2023-11-09 | Series A ($25M; led by Archetype; dao5, Canonical Crypto, Accomplice, Robot Ventures, Accel, Dialectic, Anagram, Avra, Hypersphere also participated; Balaji among angels alongside Nicola Greco, Chase Lochmiller, Keone Hon, Sergey Gorbunov and others) | [^17][^34][^35] |
+| Nous Research | 2024-01-10 | Seed ($5.2M; co-led by Distributed Global and OSS Capital; Balaji among angels alongside Vipul Ved Prakash [Together AI], Alex Atallah [OpenRouter/OpenSea], Yonatan Ben Shimon, Chris Prucha [Notion], Sahil Chaudhary [Glaive AI], Gavin Uberti [Etched] and Thibaud Zamora) | [^17][^36][^37] |
 | Dinari | 2024 | Seed | [^17] |
 | Analog | 2024 | Seed | [^17] |
 | Avail | 2024 | Seed | [^17] |
@@ -340,3 +340,15 @@ No independently sourced founder testimonials found. Despite dedicated searches 
 [^29]: PitchBook, "Omada Health Series A" (Omada raised $4.7M Series A led by U.S. Venture Partners on March 21, 2013; Andreessen Horowitz invested in the April 2014 Series B). Accessed June 2026. https://pitchbook.com/newsletter/andreessen-horowitz-leads-23m-series-b-for-omada-health
 [^30]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
 [^31]: FinTech Global, "Augustus lands $180m Series B to dollarise the world," July 21, 2026. Accessed July 22, 2026. https://fintech.global/2026/07/21/augustus-lands-180m-series-b-to-dollarise-the-world/
+
+[^32]: The Block, "Ex-Coinbase exec raises $30 million led by a16z for decentralized social network protocol," July 13, 2022. Accessed July 2026. https://www.theblock.co/post/157271/farcaster-a16z-round-for-decentralized-social-network-protocol — Confirms $30M funding for Merkle Manufactory (Farcaster) announced July 13, 2022, led by a16z (Andreessen Horowitz) with participation from Standard Crypto, Elad Gil, 1confirmation, Scalar Capital, First Round Capital, Volt Capital, A Capital, Todd and Rahul's Angel Fund, Coinbase Ventures, Mischief, Ansa Capital, Haystack, Ribbit Capital, Chapter One, Multicoin Capital, Offline Ventures, Archetype, Canonical Crypto, Proof Group, Floodgate, Balaji Srinivasan, 6529, Ray Tonsing, and other angels.
+
+[^33]: crypto.news, "Merkle Manufactory Raises $30M from a16Z, Others, for Farcaster Social Protocol Launch," July 14, 2022. Accessed July 2026. https://crypto.news/merkle-manufactory-30m-16z-others-farcaster-social-protocol-launch/ — Independent second primary press confirmation of $30M Farcaster round led by Andreessen Horowitz with Standard Crypto, Elad Gil, 1confirmation, Scalar Capital, First Round Capital, Balaji Srinivasan, Ribbit Capital, and Coinbase Ventures.
+
+[^34]: Cointelegraph, "AI infrastructure startup Ritual raises $25M to fill gaps in crypto," November 9, 2023. Accessed July 2026. https://cointelegraph.com/news/ai-infrastructure-startup-ritual-raises-25-m-gaps-crypto — Primary tier-1 crypto press confirming $25M Series A announced November 9, 2023 for Ritual, led by Archetype with Balaji Srinivasan, Accomplice, Robot Ventures, Accel, Dialectic, Anagram, Avra, and Hypersphere participating.
+
+[^35]: Ritual company blog, "Introducing Ritual." Accessed July 2026. https://ritual.net/blog/introducing-ritual — First-party Ritual announcement of $25M Series A led by Archetype with Accomplice, Robot Ventures, dao5, Accel, Dialectic, Anagram, Avra, and Hypersphere participating, plus angels Balaji Srinivasan, Nicola Greco, Chase Lochmiller, DC Builder, Keone Hon (Monad), Sergey Gorbunov and Georgios Vlachos (Axelar), Kevin Pang (SCP), Daniel Shorr & Ryan Cao (Modulus), and others.
+
+[^36]: The Block, "Paradigm leads $50 million Series A round for decentralized AI project Nous Research," April 2025. Accessed July 2026. https://www.theblock.co/post/352000/paradigm-leads-50-million-usd-round-decentralized-ai-project-nous-research — Confirms Nous Research's initial $5.2M seed closed January 2024 co-led by Distributed Global and OSS Capital with Balaji Srinivasan among angel participants.
+
+[^37]: Nous Research on X (Twitter), January 9, 2024. https://x.com/nousresearch/status/1744865872563618128 — First-party founder announcement of $5.2M seed round co-led by Distributed Global and OSS Capital, with participation from Vipul Ved Prakash (Together AI), Alex Atallah (OpenRouter/OpenSea), Yonatan Ben Shimon, Chris Prucha (Notion), Sahil Chaudhary (Glaive AI), Gavin Uberti (Etched), Thibaud Zamora, and Balaji Srinivasan among others.

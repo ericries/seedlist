@@ -41812,7 +41812,9 @@ vague_facts:
   line: '| Farcaster | 2022 | Seed | [^17][^22] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22: tightened Farcaster row on balaji-srinivasan.md from "2022 | Seed" to "2022-07-13 | Seed ($30M; led by a16z crypto; Standard Crypto, 1confirmation, Coinbase Ventures, Multicoin Capital, Ribbit Capital, Elad Gil, Volt Capital, First Round Capital, Scalar Capital and others also participated; Balaji among angels)" via 2 NEW primary sources: The Block "Ex-Coinbase exec raises $30 million led by a16z for decentralized social network protocol" July 13, 2022 [^32] + crypto.news "Merkle Manufactory Raises $30M from a16Z, Others" July 14, 2022 [^33]. Existing ChainCatcher [^22] retained. 2 new footnotes ([^32], [^33]).'
 - profile: investors/balaji-srinivasan
   profile_name: Balaji Srinivasan
   company: Hashflow
@@ -42202,7 +42204,9 @@ vague_facts:
   line: '| Ritual | 2023 | Series A | [^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22: tightened Ritual row on balaji-srinivasan.md from "2023 | Series A" to "2023-11-09 | Series A ($25M; led by Archetype; dao5, Canonical Crypto, Accomplice, Robot Ventures, Accel, Dialectic, Anagram, Avra, Hypersphere also participated; Balaji among angels alongside Nicola Greco, Chase Lochmiller, Keone Hon, Sergey Gorbunov and others)" via 2 NEW primary sources: Cointelegraph "AI infrastructure startup Ritual raises $25M to fill gaps in crypto" November 9, 2023 [^34] + Ritual first-party company blog "Introducing Ritual" [^35]. Existing Crypto-Fundraising [^17] retained. 2 new footnotes ([^34], [^35]).'
 - profile: investors/balaji-srinivasan
   profile_name: Balaji Srinivasan
   company: Nous Research
@@ -42212,7 +42216,9 @@ vague_facts:
   line: '| Nous Research | 2024 | Seed | [^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22: tightened Nous Research row on balaji-srinivasan.md from "2024 | Seed" to "2024-01-10 | Seed ($5.2M; co-led by Distributed Global and OSS Capital; Balaji among angels alongside Vipul Ved Prakash [Together AI], Alex Atallah [OpenRouter/OpenSea], Yonatan Ben Shimon, Chris Prucha [Notion], Sahil Chaudhary [Glaive AI], Gavin Uberti [Etched] and Thibaud Zamora)" via 2 NEW primary sources: The Block "Paradigm leads $50 million Series A round for decentralized AI project Nous Research" (Series A article confirming initial Jan 2024 seed details) [^36] + Nous Research first-party X/Twitter announcement January 9, 2024 [^37]. Existing Crypto-Fundraising [^17] retained. 2 new footnotes ([^36], [^37]).'
 - profile: investors/balaji-srinivasan
   profile_name: Balaji Srinivasan
   company: Dinari
