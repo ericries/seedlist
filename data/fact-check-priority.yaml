@@ -3222,3 +3222,15 @@ priority:
   type: firm
   reason: co-invested in Photon Queue Seed ($4M, 2026-07-21)
   added: 2026-07-22
+- slug: andreessen-horowitz
+  type: firm
+  reason: led Cascade Seed via Speedrun ($3.5M, 2026-07-22)
+  added: 2026-07-22
+- slug: northzone
+  type: firm
+  reason: led Yope Seed ($12.3M, 2026-07-22)
+  added: 2026-07-22
+- slug: par-jorgen-parson
+  type: investor
+  reason: led Yope Seed for Northzone ($12.3M, 2026-07-22)
+  added: 2026-07-22

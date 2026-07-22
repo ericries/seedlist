@@ -40603,3 +40603,66 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: jean-tardy-joubert
+- name: G2C Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cascade
+- name: Snowball VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cascade
+- name: Marcus Segal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Andreessen Horowitz
+  discovered_from: cascade
+- name: Matt Penneycard
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Ada Ventures
+  discovered_from: cascade
+- name: Scott Johnson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Blitzscaling Ventures
+  discovered_from: cascade
+- name: Inovo
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yope
+- name: Redseed
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yope
+- name: Geek Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yope
+- name: ETF Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: modo-energy
+- name: CIBC Innovation Banking
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: modo-energy

@@ -3,8 +3,8 @@ check_size: $400K-$24M
 firm: northzone
 last_researched: 2026-03-24
 last_verified_investment:
-  company: AirForestry
-  date: 2024-10
+  company: Yope
+  date: 2026-07-22
   round: Seed
 location: Stockholm, Sweden / New York, NY
 name: Pär-Jörgen Pärson
@@ -112,8 +112,9 @@ The analysis below is based on 20 verified investments where Pärson led or was 
 | Bedrock Ocean | 2023 | Series A (co-led) | [^33] |
 | Tandem Health | 2024 | Seed (led) | [^20] |
 | AirForestry | 2024 | Seed (led) | [^19] |
+| Yope | 2026 | Seed (led, $12.3M) | [^yope] |
 
-*This table represents Pärson's personally attributed investments. Northzone has 337 investments across 10 funds [^34]; Pärson's individual deal count is reported as 43 [^21]. This table covers 18 of those 43, representing approximately 42% of his known investments.*
+*This table represents Pärson's personally attributed investments. Northzone has 337 investments across 10 funds [^34]; Pärson's individual deal count is reported as 43 [^21]. This table covers 19 of those 43, representing approximately 44% of his known investments.*
 
 ## In Their Own Words
 
@@ -182,3 +183,4 @@ No additional independently sourced founder testimonials found beyond the above.
 [^35]: Spring Health press release, "Spring Health Raises $76 Million in Series B Financing," November 18, 2020. https://www.prnewswire.com/news-releases/spring-health-raises-76-million-in-series-b-financing-301176026.html
 [^36]: Northzone, "A Fika with iZettle's Magnus Nilsson," October 21, 2020. https://northzone.com/2020/10/21/a-fika-with-izettles-magnus-nilsson-how-a-small-business-payment-solution-rose-to-paypal-level-success/
 [^37]: Northzone, "A fika with... April Koh, Co-founder and CEO of Spring Health," September 17, 2021. https://northzone.com/2021/09/17/a-fika-with-april-koh-co-founder-and-ceo-of-spring-health/
+[^yope]: Ivan Mehta, "Yope raises $12.3M to build a private social network without algorithms or ads," TechCrunch, July 22, 2026. Accessed July 22, 2026. https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/ — Pärson led the $12.3M seed round for Northzone; Pärson is quoted in the article and joins Yope's board.

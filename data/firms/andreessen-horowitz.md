@@ -305,8 +305,9 @@ The following table includes a16z investments verified through the firm's own po
 | Pearl Health | Series B (led, $75M) → Series C (led, $50M equity + $60M debt) | 2023-01 (Series B); 2026-07-08 (Series C; Viking Global Investors, AlleyCorp, Ulysses Capital participated equity; Trinity Capital led debt facility) | Healthcare / Digital Health / Value-Based Care / Medicare | Private ($125.5M+ total raised; NYC-based; Vineeta Agarwala GP quoted) [^135][^136][^137] |
 | Runta | Seed (led, $20M) | 2026-07-16 | AI / AI Agents / Security | Private ($100M+ post-money valuation; Martin Casado partner) [^142][^143] |
 | Neo | Seed + Series A (co-led, $100M combined) | 2026-07-20 | Cybersecurity / AI / Enterprise Software | Private (co-led with Bessemer Venture Partners; Craft Ventures and Merlin Ventures participated; Boston-based; founders ex-SentinelOne) [^144][^145] |
+| Cascade | Seed (led via a16z Speedrun, $3.5M; Marcus Segal) | 2026-07-22 | ConstructionTech / AI / SaaS / GTM | Private (NYC-based; Hannia Zia CEO and Joana Ferreira CTO — ex-Google/Amazon; Ada Ventures, Blitzscaling Ventures, Indico Capital Partners, shuckerVC, G2C Ventures, and Snowball VC also participated) [^casc1][^casc2] |
 
-*Note: This table includes 84 companies out of 1,076+ total portfolio companies (~8%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 85 companies out of 1,076+ total portfolio companies (~8%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -654,3 +655,7 @@ The following table includes a16z investments verified through the firm's own po
 [^144]: SecurityWeek, "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software," July 20, 2026. Accessed July 21, 2026. https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/ — Confirms $100M seed + Series A led by Andreessen Horowitz and Bessemer Venture Partners with participation from Craft Ventures and Merlin Ventures. Founders: Nick Warner (ex-SentinelOne COO, CEO), Shlomi Salem (ex-SentinelOne), Eran Shirazi (ex-EasySend, IDF Unit 8200).
 
 [^145]: GlobeNewswire (Neo company press release), "Neo Launches with $100M to Secure AI Software Across the Enterprise," July 20, 2026. Accessed July 21, 2026. https://www.globenewswire.com/news-release/2026/07/20/3329638/0/en/Neo-Launches-with-100M-to-Secure-AI-Software-Across-the-Enterprise.html — Official company press release; confirms $100M combined seed + Series A led by Andreessen Horowitz and Bessemer Venture Partners; Craft Ventures and Merlin Ventures participated; Boston HQ.
+
+[^casc1]: Marina Temkin, "Cascade raises $3.5M to help construction firms find and win projects," TechCrunch, July 22, 2026. Accessed July 22, 2026. https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/ — Confirms $3.5M seed led by a16z Speedrun; participants Ada Ventures, Blitzscaling Ventures, Indico Capital Partners, shuckerVC, G2C Ventures, Snowball VC.
+
+[^casc2]: Cascade press release via GlobeNewswire, "Cascade raises $3.5M to help construction firms predict the future and win more projects," July 21, 2026. Accessed July 22, 2026. https://www.globenewswire.com/news-release/2026/07/21/3330581/0/en/cascade-raises-3-5m-to-help-construction-firms-predict-the-future-and-win-more-projects.html — Marcus Segal quoted representing a16z Speedrun.

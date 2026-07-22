@@ -133,6 +133,7 @@ Based on 30 verified portfolio investments, the following patterns emerge. Note:
 | OpenFX | Series A (co-led, $94M) | 2026-03-31 | Fintech/Stablecoin/FX | Active [^32][^33][^34] |
 | Blitzy | Growth (led, $200M, $1.4B valuation) | 2026-05-05 | AI/Autonomous Software Development | Active [^38][^39] |
 | microagi | Seed (participated, $55M; Hummingbird led) | 2026-07-16 | Robotics / Humanoid AI / Manufacturing | Active [^micro1][^micro2] |
+| Yope | Seed (led, $12.3M) | 2026-07-22 | Private social networking | Active [^yope1] |
 
 This table represents approximately 15% of Northzone's ~207 total investments [^10]. Many entries use founding year as a proxy where exact investment year could not be verified.
 
@@ -211,5 +212,7 @@ Note: Both quotes above are from Northzone's own blog about their Operator Netwo
 [^40]: BusinessWire, "XBOW Secures Additional $35M from Strategic Investors, Including Select Customers and Ecosystem Partners," May 6, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260506914922/en/XBOW-Secures-Additional-$35M-from-Strategic-Investors-Including-Select-Customers-and-Ecosystem-Partners — XBOW announced an additional $35M Series C extension on May 6, 2026, bringing total Series C to $155M. Extension participants were strategic/customer-aligned investors: Accenture Ventures, DNX Ventures, Liberty Global Tech Ventures, NVentures (NVIDIA), Samsung Ventures, and SentinelOne S Ventures. Northzone did not participate in the extension; Northzone remains an original Series C co-lead from the $120M round announced March 18, 2026 [^15]. Cross-referenced with SecurityWeek, "Autonomous Offensive Security Firm XBOW Raises $35 Million," May 6, 2026. https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/
 
 [^micro1]: "Munich robotics startup microagi raises $55m, Germany's largest ever seed round," Sifted, July 16, 2026. Accessed July 19, 2026. https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round — Confirms Northzone as a participant in the $55M seed alongside Hummingbird (lead), LocalGlobe, Village Global and Redalpine.
+
+[^yope1]: Ivan Mehta, "Yope raises $12.3M to build a private social network without algorithms or ads," TechCrunch, July 22, 2026. Accessed July 22, 2026. https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/ — Northzone led the $12.3M seed round with participation from Inovo, Redseed, and Geek Ventures. Pär-Jörgen Pärson joins Yope's board.
 
 [^micro2]: "microagi Raises $55M in Seed Funding," FinSMEs, July 2026. Accessed July 19, 2026. https://www.finsmes.com/2026/07/microagi-raises-55m-in-seed-funding.html — Independent trade-press confirmation of participants.
