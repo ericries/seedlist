@@ -1,26 +1,49 @@
 ---
-name: "Gauntlet"
-slug: gauntlet
-type: startup
-website: "https://www.gauntlet.xyz"
-location: "New York, NY"
+firms:
+- round: '2022'
+  slug: paradigm
+  year: 2022
+- round: Series B
+  slug: polychain-capital
+  year: 2022
+- round: Seed
+  slug: the-general-partnership
+  year: 2018
 founded: 2018
-status_company: active
-sector: [defi, crypto, fintech, risk-management, blockchain]
-stage_latest: "Series C"
-total_raised: "$170M+"
-firms: []
-investors:
-  - slug: tarun-chitra
-    role: founder
-    round: series-c
-    year: 2026
-    date: 2026-07-09
 founders:
-  - name: "Tarun Chitra"
-    role: "Co-Founder & CEO"
-status: published
+- name: Tarun Chitra
+  role: Co-Founder & CEO
+investors:
+- date: 2026-07-09
+  role: founder
+  round: series-c
+  slug: tarun-chitra
+  year: 2026
+- round: '2022'
+  slug: matt-huang
+  year: 2022
+- round: Series B
+  slug: olaf-carlson-wee
+  year: 2022
+- round: Seed
+  slug: phin-barnes
+  year: 2018
 last_researched: 2026-07-21
+location: New York, NY
+name: Gauntlet
+sector:
+- defi
+- crypto
+- fintech
+- risk-management
+- blockchain
+slug: gauntlet
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $170M+
+type: startup
+website: https://www.gauntlet.xyz
 ---
 
 ## About

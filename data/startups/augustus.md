@@ -1,55 +1,71 @@
 ---
-name: "Augustus"
-slug: augustus
-type: startup
-website: "https://augustus.com"
-location: "United States"
-founded: 2022
-status_company: active
-sector: [fintech, stablecoins, payments, banking, cross-border-payments, crypto, ai]
-stage_latest: "Series B"
-total_raised: "$210M"
-investors:
-  - slug: david-velez
-    round: series-b
-    year: 2026
-    date: 2026-07-21
-  - slug: karim-atiyeh
-    round: series-b
-    year: 2026
-    date: 2026-07-21
-  - slug: sean-neville
-    round: series-b
-    year: 2026
-    date: 2026-07-21
-  - slug: alex-bouaziz
-    round: series-b
-    year: 2026
-    date: 2026-07-21
-  - slug: balaji-srinivasan
-    round: series-b
-    year: 2026
-    date: 2026-07-21
 firms:
-  - slug: tiger-global
-    round: series-b
-    year: 2026
-    date: 2026-07-21
-  - slug: qed-investors
-    round: series-b
-    year: 2026
-    date: 2026-07-21
+- date: 2026-07-21
+  round: series-b
+  slug: tiger-global
+  year: 2026
+- date: 2026-07-21
+  round: series-b
+  slug: qed-investors
+  year: 2026
+- round: Series B ($180M, Tiger Global-led at $1B valuation)
+  slug: catena-labs
+  year: 2026
+- round: '2026-07-21'
+  slug: ramp
+  year: 2026
+- round: Series B ($180M, Tiger Global-led at $1B valuation)
+  slug: nubank
+  year: 2026
+founded: 2022
 founders:
-  - name: "Ferdinand Dabitz"
-    role: "CEO & Co-Founder"
-  - name: "Joshua Becker"
-    role: "Co-Founder"
-  - name: "Simon Wimmer"
-    role: "Co-Founder"
-  - name: "Peter Lieck"
-    role: "Co-Founder"
-status: published
+- name: Ferdinand Dabitz
+  role: CEO & Co-Founder
+- name: Joshua Becker
+  role: Co-Founder
+- name: Simon Wimmer
+  role: Co-Founder
+- name: Peter Lieck
+  role: Co-Founder
+investors:
+- date: 2026-07-21
+  round: series-b
+  slug: david-velez
+  year: 2026
+- date: 2026-07-21
+  round: series-b
+  slug: karim-atiyeh
+  year: 2026
+- date: 2026-07-21
+  round: series-b
+  slug: sean-neville
+  year: 2026
+- date: 2026-07-21
+  round: series-b
+  slug: alex-bouaziz
+  year: 2026
+- date: 2026-07-21
+  round: series-b
+  slug: balaji-srinivasan
+  year: 2026
 last_researched: 2026-07-22
+location: United States
+name: Augustus
+sector:
+- fintech
+- stablecoins
+- payments
+- banking
+- cross-border-payments
+- crypto
+- ai
+slug: augustus
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $210M
+type: startup
+website: https://augustus.com
 ---
 
 ## About

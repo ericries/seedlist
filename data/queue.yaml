@@ -25914,7 +25914,7 @@ queue:
 - name: Victoria Beasley
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Gigascale Capital
   discovered_from: gigascale-capital
@@ -26088,7 +26088,7 @@ queue:
 - name: Jean Tardy-Joubert
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Highland Europe
   discovered_from: wordsmith
@@ -40489,3 +40489,117 @@ queue:
   added: '2026-03-17'
   firm: Karoo Health
   discovered_from: karoo-health
+- name: Evaline Tsai
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Gigascale Capital
+  discovered_from: victoria-beasley
+- name: Mark Cupta
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Prelude Ventures
+  discovered_from: victoria-beasley
+- name: Persefoni
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: victoria-beasley
+- name: Trove
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: victoria-beasley
+- name: Arch
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: victoria-beasley
+- name: Dioxycle
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: victoria-beasley
+- name: Estes
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: victoria-beasley
+- name: Homeboost
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: victoria-beasley
+- name: Gajan Rajanathan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Highland Europe
+  discovered_from: jean-tardy-joubert
+- name: Ronan Shally
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Highland Europe
+  discovered_from: jean-tardy-joubert
+- name: Laurence Garrett
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Highland Europe
+  discovered_from: jean-tardy-joubert
+- name: Jacob Bernstein
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Highland Europe
+  discovered_from: jean-tardy-joubert
+- name: One Peak
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jean-tardy-joubert
+- name: Deepki
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jean-tardy-joubert
+- name: Yoobic
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jean-tardy-joubert
+- name: Snapshift
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jean-tardy-joubert
+- name: Revaia
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jean-tardy-joubert
+- name: Hi Inov
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jean-tardy-joubert

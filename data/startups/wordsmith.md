@@ -1,21 +1,24 @@
 ---
 firms:
-- round: Seed
+- date: 2024-06
+  round: Seed
   slug: index-ventures
   year: 2024
-  date: 2024-06
-- round: Seed
+- date: 2024-06
+  round: Seed
   slug: general-catalyst
   year: 2024
-  date: 2024-06
-- round: Series A
+- date: 2025-06-02
+  round: Series A
   slug: index-ventures
   year: 2025
-  date: 2025-06-02
-- round: Series B
+- date: 2026-06-03
+  round: Series B
   slug: index-ventures
   year: 2026
-  date: 2026-06-03
+- round: Series B ($70M, co-led by Highland Europe & Index Ventures)
+  slug: highland-europe
+  year: 2026
 founded: 2023
 founders:
 - name: Ross McNairn
@@ -24,6 +27,10 @@ founders:
   role: Co-Founder & CTO
 - name: Robbie Falkenthal
   role: Co-Founder & COO
+investors:
+- round: Series B ($70M, co-led by Highland Europe & Index Ventures)
+  slug: jean-tardy-joubert
+  year: 2026
 last_researched: 2026-06-03
 location: Edinburgh, Scotland
 name: Wordsmith

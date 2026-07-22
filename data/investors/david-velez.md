@@ -1,26 +1,36 @@
 ---
-name: "David Vélez"
-slug: david-velez
-tldr: 'Founder and CEO of Nubank, the world''s largest digital bank by
-  customers. Angel investor backing fintech, healthtech, and emerging
-  market solutions across Latin America, India, Southeast Asia. Checks
-  $5K-$50K. Giving Pledge signatory.'
-type: individual
+check_size: $5K-$50K
 firm: nubank
-role: "Founder & CEO, Nubank (Angel Investor)"
-location: "São Paulo, Brazil"
-stage_focus: [pre-seed, seed, series-a, series-b]
-sector_focus: [fintech, neobanking, healthtech, proptech, insurtech, edtech, social-commerce]
-check_size: "$5K-$50K"
-last_verified_investment:
-  date: 2025-12-17
-  company: "Leona Health"
-  round: "Seed"
-social:
-  twitter: "@velez_david"
-  linkedin: "linkedin.com/in/david-vélez-1004875"
-status: published
 last_researched: 2026-04-06
+last_verified_investment:
+  company: Augustus
+  date: ~2026
+  round: Series B ($180M, Tiger Global-led at $1B valuation)
+location: São Paulo, Brazil
+name: David Vélez
+role: Founder & CEO, Nubank (Angel Investor)
+sector_focus:
+- fintech
+- neobanking
+- healthtech
+- proptech
+- insurtech
+- edtech
+- social-commerce
+slug: david-velez
+social:
+  linkedin: linkedin.com/in/david-vélez-1004875
+  twitter: '@velez_david'
+stage_focus:
+- pre-seed
+- seed
+- series-a
+- series-b
+status: published
+tldr: Founder and CEO of Nubank, the world's largest digital bank by customers. Angel
+  investor backing fintech, healthtech, and emerging market solutions across Latin
+  America, India, Southeast Asia. Checks $5K-$50K. Giving Pledge signatory.
+type: individual
 ---
 
 ## Background
