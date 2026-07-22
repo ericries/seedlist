@@ -562,7 +562,9 @@ vague_facts:
   line: '| SendGrid | Seed | ~2011 | Communications | IPO (NASDAQ), acquired by Twilio | [^7][^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22: tightened SendGrid row on 500-global.md from year-only "Seed | ~2011" to "Series B (USD 21M; Bessemer Venture Partners led; existing investors Foundry Group, Highway 12 Ventures, SoftTech VC, 500 Startups, Bullet Time Ventures participated) | 2012-01-17". CORRECTED: prior "Seed | ~2011" was wrong — SendGrid seed (Dec 2009, USD 750K) was led by Highway 12 Ventures (500 Startups did not exist as a firm yet — founded 2010); Series A (April 2010, USD 5M) named Dave McClure as an individual angel, not 500 Startups the firm; the January 17, 2012 Series B is the first primary press to name "500 Startups" as an existing investor firm. 3 primary sources: NEW TechCrunch (Alexia Tsotsis) 2012-01-17 [^70] + NEW GlobeNewswire/Marketwired company press release [^71] + NEW Vator.tv 2012-01-17 [^72]. All three independently confirm Bessemer as lead and 500 Startups as existing-investor firm-level participant.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Bukalapak
@@ -572,7 +574,9 @@ vague_facts:
   line: '| Bukalapak | Seed | ~2014 | E-commerce | IPO (Indonesia''s largest) | [^12][^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22: tightened Bukalapak row on 500-global.md from year-only "Seed | ~2014" to "Series A (undisclosed amount; announced 2014-02-13; Aucfan contributed ~USD 300K per DailySocial; new investors 500 Startups and Aucfan joined; existing investor GREE Ventures returned; IREP also participated) | 2014-02-13". Follow-on to a September 2012 Series A from GREE Ventures (some later coverage labels this the Series B). 3 primary sources: NEW Yahoo Finance SG syndicating e27 [^73] (2014-02-13 announcement quoting Khailee Ng of 500 Startups) + NEW DealStreetAsia [^74] (retrospective from the 2015-02-04 Emtek round establishing this as Series A) + existing 500 Global SEA portfolio first-party page [^15] (lists Bukalapak among first 50 SEA investments during 2012-2015 500 Durians I fund period).'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Carousell
@@ -592,7 +596,9 @@ vague_facts:
   line: '| Lucidchart | Seed | ~2013 | Productivity SaaS | Active ($3B valuation) | [^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22: tightened Lucidchart row on 500-global.md from year-only "Seed | ~2013" to "Seed (USD 1M; 500 Startups + 2M Companies + K9 Ventures + several unnamed angels; Dave McClure quote provided for the announcement — no single lead named) | 2011-07-26". CORRECTED: prior "~2013" was wrong — the seed round was July 2011. 3 primary sources: NEW TechCrunch (Robin Wauters) [^75] + NEW Newswire company press release [^76] + NEW SiliconANGLE [^77]. All three independently confirm USD 1M seed on 2011-07-26 with 500 Startups, 2M Companies, and K9 Ventures as named participants.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Innovaccer
@@ -614,7 +620,9 @@ vague_facts:
   line: '| Insider | Seed | ~2015 | MarTech | Active (unicorn) | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22 (fourth pass): CORRECTED Insider row on 500-global.md from wrong "Seed | ~2015" to "Series A follow-on (500 Startups joined after initial close; USD 2.2M Series A closed 2016-09-19 with 212 named as lead per TechCrunch or Wamda Capital as lead per Wamda; Oncu GSYO and Galata Business Angels participated in initial close; 500 Startups follow-on formally announced 2017-02-14 by Insider One with Rina Onur as investing GP) | 2017-02-14 (500 Startups follow-on announcement)". Prior year 2015 was wrong — Insider was founded 2012 with 2013 angel round from Galata Business Angels + Aslanoba Capital (500 NOT in that round); Series A closed 2016-09-19 (500 NOT in initial close); 500 Startups follow-on announced 2017-02-14. 3 primary sources: NEW Insider One company press release 2017-02-14 [^78] + NEW TechCrunch 2016-09-19 Series A primary [^79] + NEW Wamda 2016-09-21 Series A primary [^80]. 3 new footnotes added.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Konfio
