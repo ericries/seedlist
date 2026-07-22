@@ -129,7 +129,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Pomelo Care | Seed | ~2022 | Healthcare | Active | [^3][^7] |
 | Loyal | Seed | ~2021 | Healthcare / Pets | Active | [^3] |
 | Perpay | Seed | ~2020 | Fintech | Active | [^3] |
-| Reducto | Seed | ~2023 | AI | Active | [^1] |
+| Reducto | Seed ($8.4M; First Round Capital led (Liz Wessel); Y Combinator, BoxGroup, SVAngel, and Liquid2 participated; angels included Arash Ferdowsi (Dropbox), Andrew Ofstad (Airtable), Kulveer Taggar (Zeus)) | 2024-10-02 | AI / Document Processing | Active | [^34][^35][^36] |
 | Rillet | Seed | ~2023 | Accounting SaaS | Active | [^1] |
 | Omni | Seed | ~2023 | Enterprise | Active | [^1] |
 | Actively | Series B | 2026-04-28 | AI / Sales | Active | [^9] |
@@ -223,3 +223,9 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^32]: Allie Garfinkle, "Exclusive: Corner Health raises $25 million to turn nurse practitioners into entrepreneurs," Fortune, July 13, 2026. Accessed July 20, 2026. https://fortune.com/2026/07/13/corner-health-nurse-practitioners-independent-practice-oak-series-a-funding/ — Independent tier-1 press confirmation of Oak HC/FT-led $25M Series A with First Round Capital and Zigg Capital participating; Annie Lamont quote confirms Oak HC/FT lead.
 
 [^33]: "Corner Health Raises $32.5M to Expand AI Platform for Independent Nurse Practitioner Practices," HLTH, July 2026. Accessed July 20, 2026. https://hlth.com/insights/news/corner-health-raises-32-5m-to-expand-ai-platform-for-independent-nurse-practitioner-practices — Third independent healthcare-vertical press confirmation of the $32.5M combined Seed + Series A financing including First Round Capital as existing investor participant.
+
+[^34]: Reducto blog, "Reducto raises $8.4 million to help LLMs read documents the way humans do," October 2, 2024. Accessed July 2026. https://reducto.ai/blog/seed-round — Company's own primary announcement: "Our seed round was led by First Round Capital, with participation from funds like YCombinator, BoxGroup, SVAngel, and Liquid2, alongside founders we admire," including Arash Ferdowsi (Dropbox), Andrew Ofstad (Airtable), Kulveer Taggar (Zeus), JJ Fliegelman (WayUp), Richard Aberman (WePay), and Ralph Goottee & Tracy Young (PlanGrid).
+
+[^35]: Allie Garfinkle, "Exclusive: Reducto, AI document parsing startup, raises $24.5 million Series A led by Benchmark," Fortune, April 25, 2025. Accessed July 2026. https://fortune.com/2025/04/25/exclusive-reducto-ai-document-parsing-startup-raises-24-5-million-series-a-led-by-benchmark/ — Tier-1 press confirmation of the earlier seed round: "Reducto's $8.4 million seed round, led by First Round, was in October 2024," with Liz Wessel of First Round Capital quoted on the deal.
+
+[^36]: First Round Capital website, "Liz Wessel — Partner," accessed July 2026. https://www.firstround.com/team/investing/liz-wessel — First Round's own partner page lists Reducto among Liz Wessel's investments, confirming First Round's role in the round.

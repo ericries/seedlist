@@ -6042,7 +6042,9 @@ vague_facts:
   line: '| Assort Health | Follow-on | 2025 | Healthcare AI | [^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22: split vague "Follow-on | 2025" row on chemistry-vc.md into TWO distinct Chemistry participations: (1) "Series A (co-led $22M with First Round Capital; Quiet Capital participated) | 2025-04-16" via NEW Fortune exclusive [^22] + NEW Assort Health company blog [^23] + NEW Wilson Sonsini legal counsel release [^24] — Fortune notes this was Kristina Shen first announced investment since leaving a16z. (2) "Series B (participated, $76M; Lightspeed Venture Partners led; Felicis, First Round Capital, A*, Liquid 2 Ventures, Quiet also participated) | 2025-09-30" via NEW Fortune exclusive [^25] + NEW Assort Health company blog [^26] + NEW PR Newswire [^27]. 6 new footnotes added ([^22]-[^27]).'
 - profile: firms/chemistry-vc
   profile_name: Chemistry
   company: Serval
@@ -9028,7 +9030,9 @@ vague_facts:
   line: '| Reducto | Seed | ~2023 | AI | Active | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22: tightened Reducto row on first-round-capital.md from "Seed | ~2023" to "Seed ($8.4M; First Round Capital led (Liz Wessel); Y Combinator, BoxGroup, SVAngel, and Liquid2 participated; angels included Arash Ferdowsi/Dropbox, Andrew Ofstad/Airtable, Kulveer Taggar/Zeus) | 2024-10-02" via 3 primary sources: NEW Reducto company blog [^34] (reducto.ai/blog/seed-round, Oct 2, 2024 — "Our seed round was led by First Round Capital"), NEW Fortune Series A exclusive [^35] (April 25, 2025, confirms $8.4M seed led by First Round in October 2024 with Liz Wessel), NEW First Round Capital team page [^36] (firstround.com/team/investing/liz-wessel, lists Reducto in Liz Wessel investments). 3 new footnotes added ([^34]-[^36]).'
 - profile: firms/first-round-capital
   profile_name: First Round Capital
   company: Rillet
@@ -166850,7 +166854,9 @@ vague_facts:
   line: '| Xaira | Early | ~2024 | Biotech/AI | Active [^2] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22: Xaira launch financing on 2024-04-23 (over USD 1B+ co-led by ARCH Venture Partners and Foresite Labs) named F-Prime, NEA, Sequoia, Lux, Lightspeed, Menlo, Two Sigma Ventures, SV Angel, PICI, Rsquared, Byers Capital (Blake Byers family office — distinct from Breyer), and Risk and Return in Xaira''s own BusinessWire launch press [^x1] + TechCrunch [^x2] + Fortune [^x3]. Breyer Capital is NOT named in any tier-1 primary source. Only breyercapital.com/portfolio [^2] self-reports Xaira. Row annotated inline to reflect aggregator/self-report-only attribution; 3 primary sources ([^x1]-[^x3]) added. Same aggregator-only pattern as Cherry/SpaceX/Owlery precedents.'
 - profile: firms/breyer-capital
   profile_name: Breyer Capital
   company: World Labs

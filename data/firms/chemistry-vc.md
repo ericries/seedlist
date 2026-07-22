@@ -75,7 +75,8 @@ Based on a limited sample of verified Chemistry investments (the firm launched i
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Decagon | Series D (participated) | 2026-01-28 | AI / Enterprise Software | [^4][^11][^15] |
-| Assort Health | Follow-on | 2025 | Healthcare AI | [^4] |
+| Assort Health | Series A (co-led $22M with First Round Capital; Quiet Capital participated) | 2025-04-16 | Healthcare AI / Voice AI | [^22][^23][^24] |
+| Assort Health | Series B (participated, $76M; Lightspeed Venture Partners led; Felicis, First Round Capital, A*, Liquid 2 Ventures, Quiet also participated) | 2025-09-30 | Healthcare AI / Voice AI | [^25][^26][^27] |
 | Serval | Series A ($47M; Redpoint led — Patrick Chase joined; First Round, General Catalyst, Box Group, Bessemer, Chemistry VC, Strike Capital, Sunflower Capital, Operator Partners + angels Sabrina Hahn, Alex Clayton, Colin Zima participated; $52M total) | 2025-10-21 | AI / IT Automation | [^4][^17][^18] |
 | Datacurve | Series A | 2025 | AI/Data Infrastructure | [^10] |
 | ComfyUI | Growth (participated, $30M at $500M valuation) | 2026-04-24 | AI / Generative Media | [^12][^16] |
@@ -134,3 +135,15 @@ Note: The above founder quotes are sourced from Chemistry's own website and shou
 [^20]: "Meticulous Series A · $15M raised · (2026)," StartupHub.ai, July 15, 2026. Accessed July 16, 2026. https://www.startuphub.ai/investment_rounds/meticulous-series-a-2026
 
 [^21]: "Meticulous raises $15M to help developers ship AI-generated code faster," Vestbee, July 2026. Accessed July 16, 2026. https://www.vestbee.com/insights/articles/meticulous-raises-15-m — Third independent tier-1 source confirming $15M Series A led by Chemistry with Menlo Ventures participation on 2026-07-15.
+
+[^22]: Allie Garfinkle, "Exclusive: Assort Health raises $22 million Series A led by First Round and Chemistry," Fortune, April 16, 2025. Accessed July 2026. https://fortune.com/2025/04/16/exclusive-assort-health-raises-22-million-series-a-led-by-first-round-and-chemistry — Primary tier-1 press confirming $22M Series A co-led by First Round Capital and Chemistry (Kristina Shen's first announced investment since leaving a16z), with Quiet Capital participating; total raised to $26M.
+
+[^23]: "Assort Health Raises $26M to Scale Specialty-Specific Voice AI for Healthcare," Assort Health blog, April 15, 2025. Accessed July 2026. https://www.assorthealth.com/blog/assort-health-secures-26-million-in-funding-to-expand-specialty-specific-generative-ai-platform-for-managing-patient-phone-calls — Company primary source: names First Round Capital and Chemistry as co-leads with Quiet Capital, Four Acres, Tau Ventures, and angels from Athena Health, Astrana Health, Flatiron Health, Infinitus, Mammoth Biosciences, Mercury, PathAI, and Presto.
+
+[^24]: "Wilson Sonsini Advises Assort Health on $22 Million Series A Funding," Wilson Sonsini, April 2025. Accessed July 2026. https://www.wsgr.com/en/insights/wilson-sonsini-advises-assort-health-on-dollar22-million-series-a-funding.html — Legal counsel primary source confirming $22M Series A co-led by First Round Capital and Chemistry.
+
+[^25]: Allie Garfinkle, "Exclusive: Assort Health raises $76 million Series B to build on voice AI healthcare platform," Fortune, September 30, 2025. Accessed July 2026. https://fortune.com/2025/09/30/exclusive-assort-health-raises-76-million-series-b-to-build-on-voice-ai-healthcare-platform/ — Primary tier-1 press confirming $76M Series B led by Lightspeed, with Chemistry (returning), First Round (returning), Felicis, A*, Liquid 2 Ventures, and Quiet participating; brings total to $102M.
+
+[^26]: "Assort Health Raises $102M for Agentic AI in Healthcare," Assort Health blog, September 30, 2025. Accessed July 2026. https://www.assorthealth.com/blog/assort-health-secures-102m-to-scale-nations-first-agentic-ai-platform-that-solves-longstanding-frustrations-tied-to-patient-access-and-experience — Company primary source confirming $76M Series B led by Lightspeed with Felicis, First Round Capital, Chemistry, A*, Liquid2, and Quiet participating.
+
+[^27]: "Assort Health Secures $102 Million to Scale Nation's First Agentic AI Platform That Solves Longstanding Frustrations Tied to Patient Access and Experience," PR Newswire, September 30, 2025. Accessed July 2026. https://www.prnewswire.com/news-releases/assort-health-secures-102-million-to-scale-nations-first-agentic-ai-platform-that-solves-longstanding-frustrations-tied-to-patient-access-and-experience-302570046.html — Independent newswire distribution confirming $76M Series B, Lightspeed lead, Chemistry among participating investors.
