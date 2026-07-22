@@ -135,6 +135,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Omio raises €8.7 million strategic investment for Asian expansion
+  url: https://www.eu-startups.com/2026/07/omio-raises-e8-7-million-strategic-investment-for-asian-expansion/
+  source: eu-startups
+  date_found: '2026-07-21'
+  parsed_company: Omio
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: AmpliTech Receives Approximately $21.9 Million of Subscriptions in Series
     A Rights Offering
   url: https://www.globenewswire.com/news-release/2026/07/20/3329662/0/en/AmpliTech-Receives-Approximately-21-9-Million-of-Subscriptions-in-Series-A-Rights-Offering.html
