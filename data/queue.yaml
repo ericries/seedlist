@@ -40247,3 +40247,38 @@ queue:
   discovered_from: sarah-friar
   source: Teen mobile banking; Series C $100M April 2021 led by General Catalyst;
     Sarah Friar angel
+- name: Info Edge Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Info Edge Ventures
+  discovered_from: 30-sundays
+- name: Eximius Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Eximius Ventures
+  discovered_from: 30-sundays
+- name: Prasanna Sankar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Vorflux
+  discovered_from: vorflux
+- name: Kshitij Chaudhary
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 30 Sundays
+  discovered_from: 30-sundays
+- name: Anuj Punjani
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 30 Sundays
+  discovered_from: 30-sundays

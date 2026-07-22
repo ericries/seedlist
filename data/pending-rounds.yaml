@@ -127,22 +127,6 @@ pending_rounds:
   parsed_amount: $800M
   parsed_round: null
   status: pending
-- title: Bluecore Energy raises $10M to build portable nuclear reactors on barges
-  url: https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/
-  source: techcrunch
-  date_found: '2026-07-21'
-  parsed_company: Bluecore Energy
-  parsed_amount: $10M
-  parsed_round: null
-  status: pending
-- title: Omio raises €8.7 million strategic investment for Asian expansion
-  url: https://www.eu-startups.com/2026/07/omio-raises-e8-7-million-strategic-investment-for-asian-expansion/
-  source: eu-startups
-  date_found: '2026-07-21'
-  parsed_company: Omio
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: 'The AlleyWatch Startup Daily Funding Report: 7/21/2026'
   url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-21-2026/
   source: alleywatch
