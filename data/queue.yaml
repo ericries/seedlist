@@ -40398,3 +40398,94 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: halo-x-ray-technologies
+- name: Supernode Global
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: passionfroot
+- name: Jen Phan
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Passionfroot
+  discovered_from: passionfroot
+- name: Rebecca Liu-Doyle
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Insight Partners
+  discovered_from: passionfroot
+- name: Vensana Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tybr-health
+- name: Mutual Capital Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tybr-health
+- name: Neovate Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tybr-health
+- name: Greg Banker
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Vensana Capital
+  discovered_from: tybr-health
+- name: Liz Todia Zambory
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Mutual Capital Partners
+  discovered_from: tybr-health
+- name: Tim Keane
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: TYBR Health
+  discovered_from: tybr-health
+- name: Allumia Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: karoo-health
+- name: First Trust Capital Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: karoo-health
+- name: SpringRock Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: karoo-health
+- name: Jeff Stolte
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Allumia Ventures
+  discovered_from: karoo-health
+- name: Ian Koons
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Karoo Health
+  discovered_from: karoo-health
