@@ -40301,3 +40301,100 @@ queue:
   added: '2026-03-17'
   firm: Augustus
   discovered_from: augustus
+- name: Ion Stoica
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SkyPilot / Databricks / Anyscale
+  discovered_from: skypilot
+- name: Ali Ghodsi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Databricks
+  discovered_from: skypilot
+- name: Jeff Dean
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Google
+  discovered_from: skypilot
+- name: Tristan Handy
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: dbt Labs
+  discovered_from: skypilot
+- name: Scott Shenker
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: UC Berkeley / SkyPilot
+  discovered_from: skypilot
+- name: Zongheng Yang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: SkyPilot
+  discovered_from: skypilot
+- name: UI Investissement
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brenus-pharma
+- name: Angelor
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brenus-pharma
+- name: Noshaq
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brenus-pharma
+- name: Sambrinvest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brenus-pharma
+- name: Korea Omega Investment Corp
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brenus-pharma
+- name: Paul Bravetti
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Brenus Pharma
+  discovered_from: brenus-pharma
+- name: Agilent Technologies
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: halo-x-ray-technologies
+- name: UK Innovation Science Seed Fund (UKI2S)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: halo-x-ray-technologies
+- name: Midlands Engine Investment Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: halo-x-ray-technologies
