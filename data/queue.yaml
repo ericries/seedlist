@@ -40666,3 +40666,19 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: modo-energy
+- name: Nick Perry
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Candid Health
+  discovered_from: candid-health
+  source: Co-Founder & CEO of Candid Health
+- name: Alex Katz
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sixth Street Growth
+  discovered_from: candid-health
+  source: Sixth Street Growth partner who led Candid Health Series D
