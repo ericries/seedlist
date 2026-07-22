@@ -141,7 +141,7 @@ Stripe, Opendoor, IonQ, SpinLaunch, Lambda School, Dandelion Energy, Clutter, Mo
 | Mach Industries | ~2024 | Early | Defense Tech / Hardware | [^2] |
 | Harmonic | ~2023 | Early | AI / Israel | [^2] |
 | Irregular | ~2024 | Early | AI / Defense | [^2] |
-| Sable | 2026 | Series A ($45M, Sequoia + 8VC co-led; board seat) | AI / Sales Enablement | [^32] |
+| Sable | 2026-07-16 | Series A ($45M, Sequoia + 8VC co-led; Maguire joined board) | AI / Sales Enablement | [^32][^33][^34] |
 
 ### GV / Google Ventures (2016–2019)
 
@@ -295,4 +295,6 @@ Ali Amin-Javaheri, CEO and Co-Founder of Knowde, on Sequoia partnership at Serie
 [^29]: Neros, "Neros Closes $75M Series B Fundraise led by Sequoia Capital," November 10, 2025. https://www.neros.tech/articles/neros-closes-75m-series-b-fundraise-led-by-sequoia-capital
 [^30]: Sequoia Capital, "Bryan Pellegrino: From Poker to Protocols," accessed March 2026. https://sequoiacap.com/article/bryan-pellegrino-spotlight-layerzero/
 [^31]: Sequoia Capital podcast, "Factory Unleashes the Droids on Software Development," 2024. https://sequoiacap.com/podcast/training-data-factory/
-[^32]: Allie Garfinkle, "Meet the AI employee that convinced Sequoia to invest $45 million in Sable," Fortune, July 16, 2026. https://fortune.com/2026/07/16/ai-employee-that-convinced-sequoia-to-invest-45-million-in-sable-shaun-maguire/
+[^32]: Allie Garfinkle, "Meet the AI employee that convinced Sequoia to invest $45 million in Sable," Fortune, July 16, 2026. Accessed July 22, 2026. https://fortune.com/2026/07/16/ai-employee-that-convinced-sequoia-to-invest-45-million-in-sable-shaun-maguire/ — Names Maguire as Sequoia partner leading investment; quotes his "reminded me of what Stripe did for payments" reaction to product demo.
+[^33]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," ACCESS Newswire (via Newswire.com), July 16, 2026. Accessed July 22, 2026. https://www.newswire.com/news/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain — Company primary press release confirming Sequoia's Shaun Maguire and 8VC's Joe Lonsdale led their firms' investments and are joining Sable's board; participants also include BoxGroup, SV Angel, Valor Atreides AI Fund, Sabrina and Evan Hahn.
+[^34]: "Sequoia Backs Sable With $45M Series A for AI Employees," Fundraise Insider, July 2026. Accessed July 22, 2026. https://fundraiseinsider.com/blog/sequoia-backs-sable-with-45m-series-a-for-ai-employees/ — Independent trade-press confirming Series A designation, $45M size, Sequoia + 8VC co-lead structure, and board appointments.
