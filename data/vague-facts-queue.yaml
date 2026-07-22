@@ -311,7 +311,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-19
-  resolution_note: ''Fact-spec sweep 2026-07-19: Corrected date from 2025-02-04 (TechCrunch pub date) to 2025-02-05 (official BusinessWire press release date) on 1517-fund.md. Verified via 3 primary sources: [^41] TechCrunch (existing), [^67] BusinessWire company release (NEW), [^68] HITConsultant (NEW). All confirm USD 7M seed with Refactor Capital (lead) and 1517 Fund + Freeflow Ventures + California Innovation Fund + Entrepreneur First participating.''
+  resolution_note: 'Fact-spec sweep 2026-07-19: Corrected date from 2025-02-04 (TechCrunch pub date) to 2025-02-05 (official BusinessWire press release date) on 1517-fund.md. Verified via 3 primary sources: [^41] TechCrunch (existing), [^67] BusinessWire company release (NEW), [^68] HITConsultant (NEW). All confirm USD 7M seed with Refactor Capital (lead) and 1517 Fund + Freeflow Ventures + California Innovation Fund + Entrepreneur First participating.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Presso
@@ -412,7 +412,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-19
-  resolution_note: ''Fact-spec sweep 2026-07-19: Verified Rainmaker Series A on 2025-05-05 (USD 25M, Lowercarbon Capital led) via 3 primary sources: [^47] FinSMEs (existing), [^69] Lowercarbon Capital own blog post 2025-05-07 (NEW — lead investor primary), [^70] Axios Pro Climate Deals 2025-05-05 (NEW). All confirm 1517 Fund as participant alongside Starship Ventures, Long Journey Ventures, Day One Ventures, and Tamarack Global. Row date confirmed unchanged.''
+  resolution_note: 'Fact-spec sweep 2026-07-19: Verified Rainmaker Series A on 2025-05-05 (USD 25M, Lowercarbon Capital led) via 3 primary sources: [^47] FinSMEs (existing), [^69] Lowercarbon Capital own blog post 2025-05-07 (NEW — lead investor primary), [^70] Axios Pro Climate Deals 2025-05-05 (NEW). All confirm 1517 Fund as participant alongside Starship Ventures, Long Journey Ventures, Day One Ventures, and Tamarack Global. Row date confirmed unchanged.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Twilio
@@ -3054,7 +3054,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-15
-  resolution_note: 'Fact-spec sweep 2026-07-15: tightened Ohr row on aleph.md from "Pre-Seed + Seed (~$30M aggregate; publicly unveiled ~Jan 2025) | ~2024–2025" to "Seed (Aleph led; syndicate per ohr.xyz: Deep33 Ventures, Standard Industries, KDM Partners, Yasmin Lukatz, 202 Ventures, Clocktower Ventures; total raised undisclosed in primary sources) | 2025-01-16". Aleph portfolio page labels the entry round "Seed" (not pre-seed + seed) and identifies co-founder-CEO Dan Davidi as former Aleph EIR from January 2023. Public unveiling date 2025-01-16 established via 2 independent LinkedIn primary posts (Aleph corporate + Dan Davidi mirror). "$30M aggregate" figure removed as unsourced. 2 new footnotes added ([^30] Aleph LinkedIn + [^31] Dan Davidi LinkedIn). Parallel update on michael-eisenberg.md tightened same row with [^28][^29] and updated LVI from "2024 / Ohr / Seed" to "2025-01-16 / Ohr / Seed".
+  resolution_note: 'Fact-spec sweep 2026-07-15: tightened Ohr row on aleph.md from "Pre-Seed + Seed (~USD 30M aggregate; publicly unveiled ~Jan 2025) | ~2024–2025" to "Seed (Aleph led; syndicate per ohr.xyz: Deep33 Ventures, Standard Industries, KDM Partners, Yasmin Lukatz, 202 Ventures, Clocktower Ventures; total raised undisclosed in primary sources) | 2025-01-16". Aleph portfolio page labels the entry round "Seed" (not pre-seed + seed) and identifies co-founder-CEO Dan Davidi as former Aleph EIR from January 2023. Public unveiling date 2025-01-16 established via 2 independent LinkedIn primary posts (Aleph corporate + Dan Davidi mirror). USD 30M aggregate figure removed as unsourced. 2 new footnotes added ([^30] Aleph LinkedIn + [^31] Dan Davidi LinkedIn). Parallel update on michael-eisenberg.md tightened same row with [^28][^29] and updated LVI from "2024 / Ohr / Seed" to "2025-01-16 / Ohr / Seed".'
 - profile: firms/aleph
   profile_name: Aleph
   company: OneStep
@@ -165992,7 +165992,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-09
-  resolution_note: 'Fact-spec sweep 2026-07-09: corrected Medallion row on acrew-capital.md from wrong "Growth | ~2023" to "Growth (led, $43M; Washington Harbour Partners new; Sequoia Capital, GV, Spark Capital, NFDG returned as insiders; total funding to $130M) | 2025-08-18" via 3 independent primary sources. Prior 2022 Series C ($35M) was led by Spark Capital + GV — Acrew NOT named in primary press for that round. Acrew is confirmed lead investor only in the 2025-08-18 $43M round (round-letter designation not disclosed in primary press; announced as "$43 million in new funding"). Three primary sources: (1) PR Newswire company press release [^34] (2025-08-18 dateline), (2) SiliconANGLE [^35] (2025-08-18 independent tier-1 tech press), (3) MobiHealthNews [^36] (2025-08-18 independent healthcare-IT press). Derek Lo CEO/Founder named. Total funding to $130M. Existing [^11] Medallion company blog citation retained.
+  resolution_note: 'Fact-spec sweep 2026-07-09: corrected Medallion row on acrew-capital.md from wrong "Growth | ~2023" to "Growth (led, USD 43M; Washington Harbour Partners new; Sequoia Capital, GV, Spark Capital, NFDG returned as insiders; total funding to USD 130M) | 2025-08-18" via 3 independent primary sources. Prior 2022 Series C (USD 35M) was led by Spark Capital + GV — Acrew NOT named in primary press for that round. Acrew is confirmed lead investor only in the 2025-08-18 USD 43M round (round-letter designation not disclosed in primary press; announced as "USD 43 million in new funding"). Three primary sources: (1) PR Newswire company press release [^34] (2025-08-18 dateline), (2) SiliconANGLE [^35] (2025-08-18 independent tier-1 tech press), (3) MobiHealthNews [^36] (2025-08-18 independent healthcare-IT press). Derek Lo CEO/Founder named. Total funding to USD 130M. Existing [^11] Medallion company blog citation retained.'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Radiant Security
@@ -166120,7 +166120,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-09
-  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Cerebras row on altimeter-capital.md from "Series H | ~2025" to "Series H (USD 1B at USD 23B post-money; Tiger Global led; participated alongside Benchmark, Fidelity Management & Research Company, Atreides Management, Alpha Wave Global, AMD, Coatue, and 1789 Capital) | 2026-02-03" via 3 primary sources: (1) Cerebras Systems company press release [^61] dated 2026-02-03 (primary source), (2) Data Center Dynamics [^62] 2026-02-05 independent industry press, (3) FNEX [^63] 2026-02-10 independent press. All three sources explicitly name Altimeter among participants. Round follows previously announced USD 10B commercial agreement with OpenAI (750 MW compute capacity by 2028).
+  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Cerebras row on altimeter-capital.md from "Series H | ~2025" to "Series H (USD 1B at USD 23B post-money; Tiger Global led; participated alongside Benchmark, Fidelity Management & Research Company, Atreides Management, Alpha Wave Global, AMD, Coatue, and 1789 Capital) | 2026-02-03" via 3 primary sources: (1) Cerebras Systems company press release [^61] dated 2026-02-03 (primary source), (2) Data Center Dynamics [^62] 2026-02-05 independent industry press, (3) FNEX [^63] 2026-02-10 independent press. All three sources explicitly name Altimeter among participants. Round follows previously announced USD 10B commercial agreement with OpenAI (750 MW compute capacity by 2028).'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Nexthop AI
@@ -166132,7 +166132,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-09
-  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Nexthop AI row on altimeter-capital.md from "Growth | 2026" to "Series B (USD 500M at USD 4.2B post-money; Lightspeed Venture Partners led; Andreessen Horowitz participated; Altimeter participated) | 2026-03-10" via 3 primary sources: (1) Nexthop AI company press release [^64] dated 2026-03-10 (primary source), (2) Pulse 2 [^65] 2026-03-10 independent press, (3) TAMradar [^66] 2026-03-10. All three explicitly name Altimeter as participant. Founded 2024 by former Arista Networks COO Anshul Sadana; Santa Clara-based; AI/cloud data center networking.
+  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Nexthop AI row on altimeter-capital.md from "Growth | 2026" to "Series B (USD 500M at USD 4.2B post-money; Lightspeed Venture Partners led; Andreessen Horowitz participated; Altimeter participated) | 2026-03-10" via 3 primary sources: (1) Nexthop AI company press release [^64] dated 2026-03-10 (primary source), (2) Pulse 2 [^65] 2026-03-10 independent press, (3) TAMradar [^66] 2026-03-10. All three explicitly name Altimeter as participant. Founded 2024 by former Arista Networks COO Anshul Sadana; Santa Clara-based; AI/cloud data center networking.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Base Power
@@ -166156,7 +166156,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-09
-  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Unlearn row on altimeter-capital.md from "Series C | ~2024" to "Series C (led, $50M; Radical Ventures + Wittington Ventures + Mubadala Capital + Epic Ventures + Necessary Venture Capital returned) | 2024-02-06" via 3 independent primary sources. (1) BusinessWire press release [^67] (2024-02-06 dateline — primary source), (2) Latham & Watkins legal advisor announcement [^68] (2024-02-08 — primary legal-advisor confirmation), (3) HITConsultant [^69] (2024-02-08 — independent healthcare-IT tier-1 press). Also cross-confirmed by Bloomberg (2024-02-08) and Altimeter Capital LinkedIn post. Total raised >$130M. Altimeter Capital confirmed as sole lead of the round. Existing [^13] Tracxn citation retained.
+  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Unlearn row on altimeter-capital.md from "Series C | ~2024" to "Series C (led, USD 50M; Radical Ventures + Wittington Ventures + Mubadala Capital + Epic Ventures + Necessary Venture Capital returned) | 2024-02-06" via 3 independent primary sources. (1) BusinessWire press release [^67] (2024-02-06 dateline — primary source), (2) Latham & Watkins legal advisor announcement [^68] (2024-02-08 — primary legal-advisor confirmation), (3) HITConsultant [^69] (2024-02-08 — independent healthcare-IT tier-1 press). Also cross-confirmed by Bloomberg (2024-02-08) and Altimeter Capital LinkedIn post. Total raised >USD 130M. Altimeter Capital confirmed as sole lead of the round. Existing [^13] Tracxn citation retained.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Sigma
@@ -166168,7 +166168,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-09
-  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Sigma (Sigma Computing) row on altimeter-capital.md from "Series D | ~2024" to "Series D (participated as returning investor; $200M at $1.5B val; Spark Capital + Avenir Growth Capital co-led; NewView Capital new; Snowflake Ventures + Sutter Hill Ventures + D1 Capital Partners + XN returned) | 2024-05-16" via 3 independent primary sources. (1) Sigma Computing company announcement [^70] (2024-05-16 primary source), (2) BusinessWire press release [^71] (2024-05-16 primary source), (3) HPCWire/BigDATAwire [^72] (2024-05-23 independent tier-1 BI/data industry press). Series D valuation 60% higher than Series C 3 years prior (~$1.5B); total funding to $581.3M. Altimeter confirmed as returning investor. Parallel update on sigma-computing.md startup profile: added 2024-05-16 Series D row with same 3 primary sources [^4][^5][^6]. Existing [^13] Tracxn citation retained.
+  resolution_note: 'Fact-spec sweep 2026-07-09: tightened Sigma (Sigma Computing) row on altimeter-capital.md from "Series D | ~2024" to "Series D (participated as returning investor; USD 200M at USD 1.5B val; Spark Capital + Avenir Growth Capital co-led; NewView Capital new; Snowflake Ventures + Sutter Hill Ventures + D1 Capital Partners + XN returned) | 2024-05-16" via 3 independent primary sources. (1) Sigma Computing company announcement [^70] (2024-05-16 primary source), (2) BusinessWire press release [^71] (2024-05-16 primary source), (3) HPCWire/BigDATAwire [^72] (2024-05-23 independent tier-1 BI/data industry press). Series D valuation 60% higher than Series C 3 years prior (~USD 1.5B); total funding to USD 581.3M. Altimeter confirmed as returning investor. Parallel update on sigma-computing.md startup profile: added 2024-05-16 Series D row with same 3 primary sources [^4][^5][^6]. Existing [^13] Tracxn citation retained.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Clumio
