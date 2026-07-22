@@ -9422,7 +9422,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 40,
+      "size": 41,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9606,6 +9606,11 @@
           "slug": "andi-kazeroonian",
           "name": "Andi Kazeroonian",
           "firm": "outward-vc"
+        },
+        {
+          "slug": "jean-tardy-joubert",
+          "name": "Jean Tardy-Joubert",
+          "firm": "highland-europe"
         }
       ]
     },
@@ -9682,7 +9687,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 141,
+      "size": 143,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10325,6 +10330,16 @@
           "slug": "chris-re",
           "name": "Christopher R\u00e9",
           "firm": "factory"
+        },
+        {
+          "slug": "sarah-friar",
+          "name": "Sarah Friar",
+          "firm": "openai"
+        },
+        {
+          "slug": "tomer-london",
+          "name": "Tomer London",
+          "firm": "gusto"
         }
       ]
     },
@@ -10577,7 +10592,7 @@
       "name": "The Climate Vanguard",
       "tagline": "Betting the energy transition is the biggest investment opportunity of the century. These investors actually back the hard science, not just the marketing.",
       "type": "curated",
-      "size": 5,
+      "size": 6,
       "members": [
         {
           "slug": "angela-tran",
@@ -10603,6 +10618,11 @@
           "slug": "zachary-bogue",
           "name": "Zachary Bogue",
           "firm": "dcvc"
+        },
+        {
+          "slug": "victoria-beasley",
+          "name": "Victoria Beasley",
+          "firm": "gigascale-capital"
         }
       ]
     },
@@ -10854,7 +10874,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 67,
+      "size": 69,
       "members": [
         {
           "slug": "aileen-lee",
@@ -11183,6 +11203,16 @@
           "slug": "elissa-fink",
           "name": "Elissa Fink",
           "firm": "independent"
+        },
+        {
+          "slug": "sarah-friar",
+          "name": "Sarah Friar",
+          "firm": "openai"
+        },
+        {
+          "slug": "victoria-beasley",
+          "name": "Victoria Beasley",
+          "firm": "gigascale-capital"
         }
       ]
     },
@@ -11891,7 +11921,7 @@
       "name": "The Decacorn Club",
       "tagline": "Backed three or more companies worth $10B+. When the biggest outcomes in tech history were being funded, these investors were in the room.",
       "type": "curated",
-      "size": 44,
+      "size": 45,
       "members": [
         {
           "slug": "alfred-lin",
@@ -12107,6 +12137,11 @@
           "slug": "apoorva-mehta",
           "name": "Apoorva Mehta",
           "firm": "cloud-health-systems"
+        },
+        {
+          "slug": "tomer-london",
+          "name": "Tomer London",
+          "firm": "gusto"
         }
       ]
     },
