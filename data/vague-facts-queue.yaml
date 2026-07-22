@@ -201,7 +201,9 @@ vague_facts:
   line: '| Cents | Pre-Seed | 2020 | Laundromat SaaS | [^20] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-21
+  resolution_note: 'Already resolved in prior sweep. Current row: "Cents | Seed (USD 4.25M; Bessemer Venture Partners led; Newfund Capital + Riverpark Ventures + 1517 Fund + Jason Finger participated) | 2021-02-15 | Laundromat SaaS | [^20][^60][^61][^62]". Queue entry was stale; verified during 2026-07-22 sweep against 1517-fund.md line 112. 3+ primary sources already present.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Xona Space Systems
@@ -476,7 +478,9 @@ vague_facts:
   line: '| Viki | Series A | 2010 | Media | Acquired by Rakuten ($200M) | [^16][^25] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22 (third pass): tightened Viki row on 500-global.md from year-only "Series A | 2010" to "Series A (USD 4.3M; Greylock Partners led (Reid Hoffman); Andreessen Horowitz (Marc Andreessen), Charles River Ventures (Saar Gur), Neoteny Labs (Joi Ito), 500 Startups, Omidyar Network, The Raine Group participated; Series B USD 20M in October 2011 added SK Telecom, SingTel, BBC Worldwide) | 2010-12-08" via 3 primary sources: NEW PR Newswire Viki company press release 2010-12-08 [^63] (explicitly names 500 Startups in full syndicate; TechCrunch and Forbes tier-1 coverage only named big-VC leads and omitted 500 Startups) + NEW Rakuten acquisition press release 2013-09-02 [^64] (Rakuten Group primary listing Viki investors including "500 StartUps") + NEW TheNextWeb Viki article [^65] (independent tech press listing 500 Startups as publicly announced backer). Prior TechCrunch/Forbes coverage on 2010-12-08 did NOT name 500 Startups — this is a case where the company press release is more complete than the primary tech press. 3 new footnotes added ([^63]-[^65]).'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Simple
@@ -486,7 +490,9 @@ vague_facts:
   line: '| Simple | Seed | ~2012 | Fintech | Acquired by BBVA ($117M) | [^16] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: unresolvable
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22 (third pass): 500 Startups Simple attribution is aggregator-only (same failure pattern as Wildfire/MakerBot/Grab/Konfio). Primary press for both of Simple''s disclosed rounds does NOT name 500 Startups: (a) PR Newswire company release USD 2.9M Series A 2010-09-03 [^67] names First Round Capital + IA Ventures + Village Ventures as leads with Jerry Neumann + SV Angel + Nauiokas Park participating — 500 Startups NOT named; (b) TechCrunch USD 10M Series B 2011-08-10 [^66] names IA Ventures + Shasta Ventures as leads — 500 Startups NOT mentioned. Wikipedia and HandWiki attribute 500 Startups to the Series B via Oregonian/Mike Rogoway 2011-08-24 "Promising NYC startup BankSimple moves HQ to Portland" (Oregonlive URL not fetchable) — this is contemporaneous but secondary. Row on 500-global.md tightened inline to explicitly flag aggregator-attributed status; row retained for provenance rather than removed. Also added [^68] TechCrunch BBVA acquisition primary (USD 117M, 2014-02-20) with note that BBVA shut down Simple 2021-01. 3 new footnotes added ([^66]-[^68]).'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Canva
@@ -544,7 +550,9 @@ vague_facts:
   line: '| Intercom | Seed | 2012 | Enterprise SaaS | Active | [^7][^30] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-22
+  resolution_note: 'Fact-spec sweep 2026-07-22 (third pass): tightened Intercom row on 500-global.md from year-only "Seed | 2012" to "Seed (USD 1M announced initial seed; Biz Stone (Twitter co-founder), Andy McLoughlin (Huddle founder), Dan Martell, 500 Startups, Digital Garage participated as institutional/angel investors; follow-on ~USD 750K second seed followed mid-2012 with Freestyle Capital + 500 Startups continuing, bringing pre-Series A total to ~USD 1.75M) | 2012-01-25" via 3 primary sources: existing TechCrunch [^30] (2012-01-25 seed announcement, explicitly names 500 Startups + full angel roster) + NEW WebWire Series A press release 2013-06-19 [^69] (retroactively confirms USD 1.75M pre-Series A total with 500 Startups + Freestyle Capital + Biz Stone as named seed participants) + Intercom Wikipedia (secondary corroboration of 500 Global/500 Startups participation). 1 new footnote added ([^69] WebWire Series A press release).'
 - profile: firms/500-global
   profile_name: 500 Global
   company: SendGrid
