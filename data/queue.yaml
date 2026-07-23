@@ -25367,7 +25367,7 @@ queue:
 - name: Sanmi Koyejo
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Stanford CS
   discovered_from: carlos-guestrin
@@ -25535,7 +25535,7 @@ queue:
 - name: Ellie Fields
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Ridge AI
   discovered_from: jeff-heer
@@ -40682,3 +40682,19 @@ queue:
   firm: Sixth Street Growth
   discovered_from: candid-health
   source: Sixth Street Growth partner who led Candid Health Series D
+- name: Guru Chahal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lightspeed Venture Partners
+  discovered_from: sanmi-koyejo
+  source: Lightspeed partner leading Virtue AI investment
+- name: James Alcorn
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Lightspeed Venture Partners
+  discovered_from: sanmi-koyejo
+  source: Lightspeed partner on Virtue AI investment
