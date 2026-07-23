@@ -149,7 +149,7 @@ Plaid is a fintech infrastructure company founded in 2013 by Zach Perret and Wil
 | Series C | Dec 2018 | $250M | Mary Meeker / Kleiner Perkins | Andreessen Horowitz, Index Ventures, Goldman Sachs, NEA, Spark Capital [^6] | $2.65B |
 | Series D | Apr 2021 | $425M | Altimeter Capital | Silver Lake, Ribbit Capital, Andreessen Horowitz, Index Ventures, Kleiner Perkins, NEA, Spark Capital, Thrive Capital [^7] | $13.4B |
 | Series D (ext) | 2021-08-17 | Undisclosed (not publicly stated) | J.P. Morgan Private Capital Growth Equity Partners, Amex Ventures | [^8][^10][^11][^12] | $13.4B (unchanged) |
-| Series E | Apr 2025 | $575M | Franklin Templeton | Fidelity, BlackRock, NEA, Ribbit Capital [^9] | $6.1B |
+| Common stock sale (characterized as Series E in press) | 2025-04-03 | $575M | Franklin Templeton | Fidelity Management and Research, BlackRock, NEA, Ribbit Capital [^9][^13][^14] | $6.1B post-money |
 
 ## What Investors Say
 
@@ -173,3 +173,5 @@ No independently sourced founder testimonials found.
 [^10]: PYMNTS, "Plaid Raises Additional Series D Funding Led By J.P. Morgan Private Capital, Amex," August 17, 2021. https://www.pymnts.com/news/investment-tracker/2021/plaid-raises-additional-series-d-funding-led-by-jpmorgan-amex/
 [^11]: American Banker, "Plaid stockpiles funding with investments by JPMorgan, American Express," accessed July 2026. https://www.americanbanker.com/news/plaid-stockpiles-funding-with-investments-by-jpmorgan-american-express
 [^12]: Finovate, "Plaid Lands Funding from JP Morgan Private Capital & Amex," accessed July 2026. https://finovate.com/plaid-lands-funding-from-jp-morgan-amex/
+[^13]: Plaid Blog, "Our latest fundraise," April 3, 2025. Accessed July 2026. https://plaid.com/blog/our-latest-fundraise/ — Primary source: Plaid's own announcement of the $575M raise led by Franklin Templeton with participation from Fidelity Management and Research and existing investors NEA and Ribbit Capital. Proceeds primarily used for employee tax withholding on expiring RSU conversions and an employee tender offer.
+[^14]: Fortune, "Plaid notches $575 million funding round as fintech sector rides upswing," April 3, 2025. Accessed July 2026. https://fortune.com/2025/04/03/fintech-plaid-funding-round-fidelity-blackrock-franklin-templeton-nea-perret/ — Third independent tier-1 press confirmation of the $575M raise at $6.1B post-money valuation on April 3, 2025, led by Franklin Templeton with Fidelity, BlackRock, NEA, and Ribbit Capital participating.
