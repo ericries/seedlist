@@ -115,8 +115,11 @@ pending_rounds:
   date_found: '2026-07-22'
   parsed_company: Travis Kalanick’s robotics company
   parsed_amount: $1.7B
-  parsed_round: null
-  status: pending
+  parsed_round: Growth
+  status: processed
+  notes: atoms.md already existed; updated andreessen-horowitz portfolio; a16z led
+    with Bain Capital, Fifth Wall, Chemistry, K5 Global, SV Angel, Alpha Square Group,
+    Uber; Ben Horowitz to board
 - title: Yope raises $12.3M to build a private social network without algorithms or
     ads
   url: https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/
@@ -151,7 +154,10 @@ pending_rounds:
   parsed_company: Assured Health
   parsed_amount: $19M
   parsed_round: Series A
-  status: pending
+  status: processed
+  notes: created startup profile assured-health.md; Insight Partners led with First
+    Round Capital and Kindred Ventures on 2026-07-22; updated insight-partners and
+    first-round-capital portfolios
 - title: an SF-based AI compute management platform raised $20M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -167,7 +173,10 @@ pending_rounds:
   parsed_company: Cordant
   parsed_amount: $8M
   parsed_round: Seed
-  status: pending
+  status: processed
+  notes: created startup profile cordant.md; Motive Partners and Oak HC/FT co-led
+    on 2026-07-21 with FJ Labs, SignalFire, Quona, Bitso, Paxos, Bankless VC, others;
+    updated fj-labs portfolio
 - title: Cashboard raised $5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -190,8 +199,10 @@ pending_rounds:
   date_found: '2026-07-22'
   parsed_company: Passionfroot
   parsed_amount: $15M
-  parsed_round: null
-  status: pending
+  parsed_round: Series A
+  status: processed
+  notes: passionfroot.md already existed; updated insight-partners and creandum portfolios;
+    Insight Partners led with Creandum, Supernode Global, s16vc on 2026-07-22
 - title: Brenus Pharma raises €11 million Series A extension to advance immunotherapy
     for hard-to-treat solid tumours
   url: https://www.eu-startups.com/2026/07/frances-brenus-pharma-raises-e11-million-series-a-extension-to-advance-immunotherapy-for-hard-to-treat-solid-tumours/
