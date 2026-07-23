@@ -40698,3 +40698,85 @@ queue:
   firm: Lightspeed Venture Partners
   discovered_from: sanmi-koyejo
   source: Lightspeed partner on Virtue AI investment
+- name: Swish Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: glow-security
+- name: Operator Collective
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: glow-security
+- name: Fintop Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cashboard
+- name: FinSight Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cashea
+- name: Spice Expeditions
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cashea
+- name: Architect Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cashea
+- name: Imaginary Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: genius-ai
+- name: L Catterton Growth
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: genius-ai
+- name: StepStone Private Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: genius-ai
+- name: Roi Tiger
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Glow
+  discovered_from: glow-security
+- name: Pedro Vallenilla
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Cashea
+  discovered_from: cashea
+- name: Danielle Cohen-Shohet
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Genius AI
+  discovered_from: genius-ai
+- name: Julian Rowlands
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Cashboard
+  discovered_from: cashboard
