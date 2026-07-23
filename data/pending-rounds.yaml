@@ -37,6 +37,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: German DeepTech startup kausable raises €12 million to develop reasoning-first
+    AI that adapts without retraining
+  url: https://www.eu-startups.com/2026/07/german-deeptech-startup-kausable-raises-e12-million-to-develop-reasoning-first-ai-that-adapts-without-retraining/
+  source: eu-startups
+  date_found: '2026-07-23'
+  parsed_company: German DeepTech startup kausable
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: London’s Modo Energy secures €14.9 million to scale its AI-powered energy
     benchmarking and valuation platform
   url: https://www.eu-startups.com/2026/07/londons-modo-energy-secures-e14-9-million-to-scale-its-ai-powered-energy-benchmarking-and-valuation-platform/
