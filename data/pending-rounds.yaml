@@ -20,6 +20,23 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Nernst Electric raises €1.7 million to scale on-site oxygen generation technology
+    for aquaculture and heavy industry
+  url: https://www.eu-startups.com/2026/07/irelands-nernst-electric-raises-e1-7-million-to-advance-on-site-oxygen-generation-technology-for-aquaculture-and-heavy-industry/
+  source: eu-startups
+  date_found: '2026-07-23'
+  parsed_company: Nernst Electric
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: YC-backed telli raises €13.1 million to build AI for B2C customer operations
+  url: https://www.eu-startups.com/2026/07/yc-backed-telli-raises-e13-1-million-to-build-ai-for-b2c-customer-operations/
+  source: eu-startups
+  date_found: '2026-07-23'
+  parsed_company: YC-backed telli
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: London’s Modo Energy secures €14.9 million to scale its AI-powered energy
     benchmarking and valuation platform
   url: https://www.eu-startups.com/2026/07/londons-modo-energy-secures-e14-9-million-to-scale-its-ai-powered-energy-benchmarking-and-valuation-platform/
