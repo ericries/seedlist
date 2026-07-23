@@ -10348,7 +10348,7 @@
       "name": "The Quiet Giants",
       "tagline": "They don't tweet, they don't podcast, they just write very large checks. The growth and late-stage investors who let returns do the talking.",
       "type": "curated",
-      "size": 20,
+      "size": 21,
       "members": [
         {
           "slug": "andrew-braccia",
@@ -10449,6 +10449,11 @@
           "slug": "benny-peretz",
           "name": "Benny Peretz",
           "firm": "greenoaks"
+        },
+        {
+          "slug": "jeff-horing",
+          "name": "Jeff Horing",
+          "firm": "insight-partners"
         }
       ]
     },
@@ -11336,7 +11341,7 @@
       "name": "The IPO Whisperers",
       "tagline": "Three or more portfolio companies that went public. These investors don't just pick winners \u2014 they pick companies that reach the finish line.",
       "type": "curated",
-      "size": 25,
+      "size": 26,
       "members": [
         {
           "slug": "alfred-lin",
@@ -11460,6 +11465,11 @@
           "slug": "neil-mehta",
           "name": "Neil Mehta",
           "firm": "greenoaks"
+        },
+        {
+          "slug": "jeff-horing",
+          "name": "Jeff Horing",
+          "firm": "insight-partners"
         }
       ]
     },
