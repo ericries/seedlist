@@ -95,9 +95,9 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Livongo | Seed | 2014 | Chronic disease management | Acquired (Teladoc, $18.5B) | [^11][^1] |
-| Transcarent | Seed | 2021 | Health experience platform | Active (unicorn) | [^12][^13] |
-| NOCD | Seed | 2018 | OCD therapy | Active | [^17][^17] |
+| Livongo | Formation / Seed (7wire hatched); Series A ($10M, 2014-09-10, led by General Catalyst) | 2013–2014-09-10 | Chronic disease management | Acquired (Teladoc, $18.5B) | [^11][^1][^48][^49] |
+| Transcarent | Series A ($40M, co-led by General Catalyst (Hemant Taneja) and 7wireVentures (Lee Shapiro); Alta Partners, Jove Equity Partners participated) | 2020-10-22 | Health experience platform | Active (unicorn) | [^12][^13][^50][^51] |
+| NOCD | Seed ($1M; 7wire Ventures lead) | 2018-02-12 | OCD therapy | Active | [^17][^52][^17] |
 | Brightline | Series B | 2021 | Pediatric behavioral health | Active | [^23][^23] |
 | Jasper Health | Seed | 2021 | Oncology care navigation | Active | [^25][^36] |
 | Zerigo Health | Early | 2014 | Dermatology / phototherapy | Active | [^20][^37] |
@@ -199,3 +199,8 @@ No additional independently sourced founder testimonials found beyond 7wire's ow
 [^45]: Femtech Insider, "Caraway, A Digital Health Startup Targeting College Women, Comes Out of Stealth with $10.5M in Funding," July 2022. https://femtechinsider.com/caraway-launch-seed-round/
 [^46]: BusinessWire, "Truvian Health Raises $74M to Bring Blood Testing to Anyone, Anywhere," July 17, 2024. https://www.businesswire.com/news/home/20240717480701/en/Truvian-Health-Raises-$74M-to-Bring-Blood-Testing-to-Anyone-Anywhere
 [^47]: TailorCare, "TailorCare Acquires RecoveryOne to Revolutionize Musculoskeletal Care," December 10, 2024. https://www.tailorcare.com/press-release/tailorcare-recoveryone-acquisition/
+[^48]: PR Newswire, "Glen Tullman Launches Livongo Health to Empower Consumers with Chronic Conditions to Live Better, Beginning with Diabetes," September 10, 2014. Accessed July 23, 2026. https://www.prnewswire.com/news-releases/glen-tullman-launches-livongo-health-to-empower-consumers-with-chronic-conditions-to-live-better-beginning-with-diabetes-274596491.html
+[^49]: PE Hub, "Livongo Health raises $10 mln Series A," September 11, 2014. Accessed July 23, 2026. https://www.pehub.com/2014/09/livongo-health-raises-10-mln-series-a/
+[^50]: Transcarent, "Glen Tullman Joins Transcarent as Chief Executive Officer," March 18, 2021. Accessed July 23, 2026. https://transcarent.com/press-releases/glen-tullman-joins-transcarent-as-chief-executive-officer
+[^51]: Forbes, "'Concierge Medicine On Steroids' Startup Raised $40 Million To Disrupt Employer-Sponsored Care," March 18, 2021. Accessed July 23, 2026. https://www.forbes.com/sites/katiejennings/2021/03/18/concierge-medicine-on-steroids-startup-raised-40-million-to-disrupt-primary-care/
+[^52]: MobiHealthNews, "nOCD raises $1M in funding for OCD help app," February 12, 2018. Accessed July 23, 2026. https://www.mobihealthnews.com/news/nocd-raises-1m-funding-ocd-help-app

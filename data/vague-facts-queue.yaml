@@ -724,7 +724,9 @@ vague_facts:
   line: '| Livongo | Seed | 2014 | Chronic disease management | Acquired (Teladoc, $18.5B) | [^11][^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-23
+  resolution_note: 'Fact-spec sweep 2026-07-23: tightened 7wire-ventures.md Livongo Portfolio row from "Seed | 2014" to "Formation / Seed (7wire hatched); Series A (USD 10M, 2014-09-10, led by General Catalyst) | 2013–2014-09-10" via 3 primary sources. (1) Existing Crunchbase [^11] and PR Newswire 2013 [^1]; (2) NEW PR Newswire launch/Series A announcement dated 2014-09-10 [^48] (Glen Tullman Launches Livongo Health); (3) NEW PE Hub 2014-09-11 [^49] (Livongo Health raises $10 mln Series A, confirms General Catalyst lead). Existing startups/livongo.md already has 2014-09-10 Series A date correctly recorded — no change needed there. 2 new footnotes added ([^48], [^49]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Transcarent
@@ -734,7 +736,9 @@ vague_facts:
   line: '| Transcarent | Seed | 2021 | Health experience platform | Active (unicorn) | [^12][^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-23
+  resolution_note: 'Fact-spec sweep 2026-07-23: CORRECTED 7wire-ventures.md Transcarent Portfolio row from "Seed | 2021" (WRONG — Transcarent had no seed, it went straight to Series A) to "Series A (USD 40M, co-led by General Catalyst (Hemant Taneja) and 7wireVentures (Lee Shapiro); Alta Partners, Jove Equity Partners participated) | 2020-10-22" via 3 primary sources. (1) NEW Transcarent company press release [^50] "Glen Tullman Joins Transcarent as Chief Executive Officer" dated 2021-03-18 confirms Oct 2020 close, USD 40M, and both leads; (2) NEW Forbes 2021-03-18 [^51] confirms leads and participant list; (3) Existing STAT News [^12] and Transcarent Series D press [^13] confirm total capital raised trajectory. Also created new startups/transcarent.md with full funding history. 2 new footnotes added ([^50], [^51]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: NOCD
@@ -744,7 +748,9 @@ vague_facts:
   line: '| NOCD | Seed | 2018 | OCD therapy | Active | [^17][^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-23
+  resolution_note: 'Fact-spec sweep 2026-07-23: tightened 7wire-ventures.md NOCD Portfolio row from "Seed | 2018" to "Seed (USD 1M; 7wire Ventures lead) | 2018-02-12" via 3 primary sources. (1) Existing TechCrunch [^17]; (2) NEW MobiHealthNews 2018-02-12 primary [^52]; (3) NEW TechCrunch dedicated seed announcement [^53]. Also created new startups/nocd.md with full funding history. 2 new footnotes added ([^52], [^53]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Brightline
