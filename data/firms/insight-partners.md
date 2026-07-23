@@ -138,6 +138,8 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | InstaLILY AI | Series A ($25M, led) | 2025-08-28 | Vertical AI / Enterprise Agents | Active | [^51] |
 | InstaLILY AI | Series B ($60M, participated; Energize Capital led; Home Depot Ventures + United Rentals new) | 2026-07-14 | Vertical AI / Enterprise Agents | Active | [^52][^53][^54] |
 | TytoCare | Growth ($25M+, led; oversubscribed) | 2026-07-15 | Digital Health / Remote Care / AI Diagnostics | Active (Adam Pellegrini appointed CEO) | [^tyto1][^tyto2][^tyto3] |
+| Passionfroot | Series A ($15M, led) | 2026-07-22 | Creator Economy / B2B Marketplace / AI | Active | [^pfr1][^pfr2] |
+| Assured Health | Series A ($19M, led) | 2026-07-22 | Healthtech / Agentic AI / Credentialing | Active | [^ah1][^ah2] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -234,3 +236,12 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^tyto2]: TytoCare press release, "TytoCare Names Adam Pellegrini as CEO and Closes $25M+ Growth Round to Scale AI-First Clinical Enablement Platform," July 15, 2026. Accessed July 19, 2026. https://www.tytocare.com/news-and-press/tytocare-names-adam-pellegrini-as-ceo-and-closes-25m-growth-round-to-scale-ai-first-clinical-enablement-platform/ — TytoCare's own release confirming Insight Partners led the growth round; Jeff Horing (Insight Partners) provided investor quote.
 
 [^tyto3]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 7/16/2026," July 16, 2026. Accessed July 19, 2026. https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-16-2026/ — Independent daily-funding aggregator confirming Insight Partners-led $25M round in TytoCare with the same syndicate list.
+
+
+[^pfr1]: TechCrunch, "Passionfroot raises $15M to expand its B2B creator marketplace to the US," July 22, 2026. Accessed July 2026. https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/
+
+[^pfr2]: PR Newswire, "Passionfroot Raises $15M Series A Led by Insight Partners to Power Creator-Led Growth in the AI Era," July 22, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/passionfroot-raises-15m-series-a-led-by-insight-partners-to-power-creator-led-growth-in-the-ai-era-302831506.html
+
+[^ah1]: MedCity News, "Assured Health Secures $19M to Get Providers In-Network Faster with Agentic AI," July 23, 2026. Accessed July 2026. https://medcitynews.com/2026/07/assured-health-healthcare-credentialing/
+
+[^ah2]: MobiHealthNews, "Assured raises $19M for AI provider operations platform," July 22, 2026. Accessed July 2026. https://www.mobihealthnews.com/news/assured-raises-19m-ai-provider-operations-platform

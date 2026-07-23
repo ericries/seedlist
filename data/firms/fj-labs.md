@@ -119,6 +119,7 @@ FJ Labs has invested in 1,192 unique companies with 355 exits as of early 2025 [
 | Snabbit | Series D ($56M, participated) | 2026-04-27 | Home Services / India | Active [^17][^18][^19] |
 | Forage | Series B ($40M, participated) | 2026-06-03 | Fintech / SNAP-EBT Payments | Active [^22][^23] |
 | Fleek | Series B (participated, $25M; Burda Principal Investments led; eBay, H14 also new; Andreessen Horowitz, HV Capital, Y Combinator existing) | 2026-07-08 | B2B Marketplace / Secondhand Fashion / AI Supply Chain | Active (London-based; USD 45M total raised) [^24][^25][^26] |
+| Cordant | Seed (participated, $8M; Motive Partners and Oak HC/FT co-led; Bitso, Paxos, Bankless VC, SignalFire, Quona, Selah Ventures, FlatironX, SilverCircle, Nascent, Generative Ventures also participated) | 2026-07-21 | Fintech / Payments Infrastructure / Stablecoin | Active (founded 2026 by four former Rapyd leaders — Eric Rosenthal, Lior Levitt, Sagi Ittah, Juan Jose Huezo) [^cor-fj1][^cor-fj2] |
 
 *Note: This table represents approximately 2.5% of FJ Labs' 1,192 verified investments. Many entries use approximate years based on available sourcing. The firm's portfolio page lists 900+ companies across all sectors and geographies [^14].*
 
@@ -184,3 +185,7 @@ No independently sourced founder testimonials found. FJ Labs' website and market
 [^25]: Retail Technology Innovation Hub, "London-based startup Fleek raises $25 million for AI powered secondhand fashion supply chain push," July 7, 2026. Accessed July 2026. https://retailtechinnovationhub.com/home/2026/7/7/london-based-startup-fleek-raises-25-million-for-ai-powered-secondhand-fashion-supply-chain-push — Independent industry press confirmation of Fleek Series B naming FJ Labs among new participants alongside eBay and H14.
 
 [^26]: TheNextWeb, "Fleek raises $25m to build the AI infrastructure behind global secondhand fashion," July 2026. Accessed July 2026. https://thenextweb.com/news/fleek-25m-series-b-secondhand-fashion-ai — Third independent tier-1 tech press confirmation of USD 25M Series B on July 8, 2026 with full investor list including FJ Labs.
+
+[^cor-fj1]: Refresh Miami, "Cordant emerges from stealth with $8M to build the next layer of financial infrastructure," July 2026. Accessed July 2026. https://refreshmiami.com/news/cordant-emerges-from-stealth-with-8m-to-build-the-next-layer-of-financial-infrastructure/ — Confirms Cordant's $8M seed round co-led by Motive Partners and Oak HC/FT with FJ Labs among the named participants.
+
+[^cor-fj2]: TechStartups, "Former Rapyd execs launch Cordant with $8M to help banks and fintechs manage complex payments," July 21, 2026. Accessed July 2026. https://techstartups.com/2026/07/21/former-rapyd-execs-launch-cordant-with-8m-to-help-banks-and-fintechs-manage-complex-payments/ — Independent tech press confirming FJ Labs' participation in Cordant's seed round.

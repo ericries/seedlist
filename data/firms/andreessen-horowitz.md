@@ -306,6 +306,7 @@ The following table includes a16z investments verified through the firm's own po
 | Runta | Seed (led, $20M) | 2026-07-16 | AI / AI Agents / Security | Private ($100M+ post-money valuation; Martin Casado partner) [^142][^143] |
 | Neo | Seed + Series A (co-led, $100M combined) | 2026-07-20 | Cybersecurity / AI / Enterprise Software | Private (co-led with Bessemer Venture Partners; Craft Ventures and Merlin Ventures participated; Boston-based; founders ex-SentinelOne) [^144][^145] |
 | Cascade | Seed (led via a16z Speedrun, $3.5M; Marcus Segal) | 2026-07-22 | ConstructionTech / AI / SaaS / GTM | Private (NYC-based; Hannia Zia CEO and Joana Ferreira CTO — ex-Google/Amazon; Ada Ventures, Blitzscaling Ventures, Indico Capital Partners, shuckerVC, G2C Ventures, and Snowball VC also participated) [^casc1][^casc2] |
+| Atoms | Growth (led, $1.7B) | 2026-07-22 | Robotics / Industrial AI / Physical AI | Private (Travis Kalanick founder; Bain Capital, Fifth Wall, Chemistry, K5 Global, SV Angel, Alpha Square Group, Uber participated; Ben Horowitz joins board) [^atoms1][^atoms2][^atoms3] |
 
 *Note: This table includes 85 companies out of 1,076+ total portfolio companies (~8%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
@@ -659,3 +660,9 @@ The following table includes a16z investments verified through the firm's own po
 [^casc1]: Marina Temkin, "Cascade raises $3.5M to help construction firms find and win projects," TechCrunch, July 22, 2026. Accessed July 22, 2026. https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/ — Confirms $3.5M seed led by a16z Speedrun; participants Ada Ventures, Blitzscaling Ventures, Indico Capital Partners, shuckerVC, G2C Ventures, Snowball VC.
 
 [^casc2]: Cascade press release via GlobeNewswire, "Cascade raises $3.5M to help construction firms predict the future and win more projects," July 21, 2026. Accessed July 22, 2026. https://www.globenewswire.com/news-release/2026/07/21/3330581/0/en/cascade-raises-3-5m-to-help-construction-firms-predict-the-future-and-win-more-projects.html — Marcus Segal quoted representing a16z Speedrun.
+
+[^atoms1]: Marina Temkin, "Travis Kalanick's robotics company raises $1.7B, led by a16z," TechCrunch, July 22, 2026. Accessed July 2026. https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/ — Confirms $1.7B round led by Andreessen Horowitz; Ben Horowitz joins the Atoms board; participants Bain Capital, Fifth Wall, Uber, Chemistry, K5 Global, SV Angel, Alpha Square Group.
+
+[^atoms2]: Yahoo Finance / TechCrunch syndication, "Travis Kalanick's robotics company raises $1.7B, led by a16z," July 22, 2026. Accessed July 2026. https://finance.yahoo.com/technology/articles/travis-kalanick-robotics-company-raises-185044673.html — Independent syndicated tier-1 press confirmation.
+
+[^atoms3]: PYMNTS, "Uber Co-Founder Kalanick's Atoms Secures $1.7 Billion to Build Physical AI," July 22, 2026. Accessed July 2026. https://www.pymnts.com/news/artificial-intelligence/2026/uber-co-founder-kalanicks-atoms-secures-1-7-billion-to-build-physical-ai/ — Third independent tier-1 fintech/AI press confirmation.

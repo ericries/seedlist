@@ -26,24 +26,38 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-23'
   parsed_company: Nernst Electric
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: €1.7M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile nernst-electric.md; Hatch Blue Blue Revolution Fund
+    led seed 2026-07-22
 - title: YC-backed telli raises €13.1 million to build AI for B2C customer operations
   url: https://www.eu-startups.com/2026/07/yc-backed-telli-raises-e13-1-million-to-build-ai-for-b2c-customer-operations/
   source: eu-startups
   date_found: '2026-07-23'
   parsed_company: YC-backed telli
-  parsed_amount: null
-  parsed_round: null
-  status: pending
+  parsed_amount: $15M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile telli.md; redalpine led with Cherry Ventures, Y Combinator,
+    Mutschler on 2026-07-23
 - title: German DeepTech startup kausable raises €12 million to develop reasoning-first
     AI that adapts without retraining
   url: https://www.eu-startups.com/2026/07/german-deeptech-startup-kausable-raises-e12-million-to-develop-reasoning-first-ai-that-adapts-without-retraining/
   source: eu-startups
   date_found: '2026-07-23'
   parsed_company: German DeepTech startup kausable
-  parsed_amount: null
+  parsed_amount: €12M
+  parsed_round: Seed
+  status: processed
+  notes: created startup profile kausable.md; UVC Partners and Entourage co-led with
+    HTGF and Mätch VC on 2026-07-23
+- title: Edtech platform raises $4.5M to help teach students how to vibe code
+  url: https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/
+  source: techcrunch
+  date_found: '2026-07-23'
+  parsed_company: Edtech platform
+  parsed_amount: $4.5M
   parsed_round: null
   status: pending
 - title: Edtech platform raises $4.5M to help teach students how to vibe code

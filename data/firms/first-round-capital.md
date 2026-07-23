@@ -140,6 +140,7 @@ Based on 20 verified portfolio investments, the following patterns emerge. Note:
 | Binti | Seed (led) | 2015-03 | Govtech / Child welfare SaaS | Active (raised Series B 2021-08, $6M follow-on from SJF Ventures 2026-06) | [^21][^22][^23] |
 | Ploy | Seed (led, $27M; Y Combinator participated) | 2026-06-17 | AI / Marketing / Vertical SaaS | Active | [^25][^26][^27] |
 | Corner Health | Series A (participated; Oak HC/FT led, $25M; Zigg Capital co-participated; combined with $7.5M prior seed and pre-seed for total announced funding of $32.5M) | 2026-07-09 | Healthcare / Primary Care / AI | Active | [^31][^32][^33] |
+| Assured Health | Series A (participated; Insight Partners led, $19M; Kindred Ventures also participated) | 2026-07-22 | Healthtech / Agentic AI / Credentialing | Active (NYC-based; Rahul Shivkumar and Varun Krishnamurthy founders; total funding $25M) | [^ah-fr1][^ah-fr2] |
 
 Note: Years marked with "~" are approximate. This table represents approximately 4% of 500+ claimed investments.
 
@@ -229,3 +230,7 @@ No independently sourced founder testimonials found from publicly accessible sou
 [^35]: Allie Garfinkle, "Exclusive: Reducto, AI document parsing startup, raises $24.5 million Series A led by Benchmark," Fortune, April 25, 2025. Accessed July 2026. https://fortune.com/2025/04/25/exclusive-reducto-ai-document-parsing-startup-raises-24-5-million-series-a-led-by-benchmark/ — Tier-1 press confirmation of the earlier seed round: "Reducto's $8.4 million seed round, led by First Round, was in October 2024," with Liz Wessel of First Round Capital quoted on the deal.
 
 [^36]: First Round Capital website, "Liz Wessel — Partner," accessed July 2026. https://www.firstround.com/team/investing/liz-wessel — First Round's own partner page lists Reducto among Liz Wessel's investments, confirming First Round's role in the round.
+
+[^ah-fr1]: MobiHealthNews, "Assured raises $19M for AI provider operations platform," July 22, 2026. Accessed July 2026. https://www.mobihealthnews.com/news/assured-raises-19m-ai-provider-operations-platform — Confirms Assured Health closed $19M Series A led by Insight Partners with First Round Capital and Kindred Ventures participating.
+
+[^ah-fr2]: MedCity News, "Assured Health Secures $19M to Get Providers In-Network Faster with Agentic AI," July 23, 2026. Accessed July 2026. https://medcitynews.com/2026/07/assured-health-healthcare-credentialing/ — Independent healthcare-tech press confirmation of First Round Capital's participation in the Assured Health Series A.

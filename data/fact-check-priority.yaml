@@ -3234,3 +3234,39 @@ priority:
   type: investor
   reason: led Yope Seed for Northzone ($12.3M, 2026-07-22)
   added: 2026-07-22
+- slug: insight-partners
+  type: firm
+  reason: "led Passionfroot Series A ($15M, 2026-07-22) and Assured Health Series A ($19M, 2026-07-22)"
+  added: 2026-07-23
+- slug: creandum
+  type: firm
+  reason: "participated in Passionfroot Series A ($15M, 2026-07-22)"
+  added: 2026-07-23
+- slug: first-round-capital
+  type: firm
+  reason: "participated in Assured Health Series A ($19M, 2026-07-22)"
+  added: 2026-07-23
+- slug: andreessen-horowitz
+  type: firm
+  reason: "led Atoms $1.7B growth round (2026-07-22)"
+  added: 2026-07-23
+- slug: ben-horowitz
+  type: investor
+  reason: "joined Atoms board via a16z $1.7B lead (2026-07-22)"
+  added: 2026-07-23
+- slug: travis-kalanick
+  type: investor
+  reason: "founded Atoms and closed $1.7B growth round (2026-07-22)"
+  added: 2026-07-23
+- slug: fj-labs
+  type: firm
+  reason: "participated in Cordant Seed ($8M, 2026-07-21)"
+  added: 2026-07-23
+- slug: sv-angel
+  type: firm
+  reason: "participated in Atoms $1.7B growth round (2026-07-22)"
+  added: 2026-07-23
+- slug: chemistry-vc
+  type: firm
+  reason: "participated in Atoms $1.7B growth round (2026-07-22)"
+  added: 2026-07-23
