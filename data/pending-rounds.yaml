@@ -46,6 +46,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Edtech platform raises $4.5M to help teach students how to vibe code
+  url: https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/
+  source: techcrunch
+  date_found: '2026-07-23'
+  parsed_company: Edtech platform
+  parsed_amount: $4.5M
+  parsed_round: null
+  status: pending
 - title: London’s Modo Energy secures €14.9 million to scale its AI-powered energy
     benchmarking and valuation platform
   url: https://www.eu-startups.com/2026/07/londons-modo-energy-secures-e14-9-million-to-scale-its-ai-powered-energy-benchmarking-and-valuation-platform/
