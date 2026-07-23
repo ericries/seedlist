@@ -136,6 +136,23 @@ pending_rounds:
   parsed_amount: $1.85M
   parsed_round: null
   status: pending
+- title: Passionfroot raises $15M to expand its B2B creator marketplace to the US
+  url: https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/
+  source: techcrunch
+  date_found: '2026-07-22'
+  parsed_company: Passionfroot
+  parsed_amount: $15M
+  parsed_round: null
+  status: pending
+- title: Brenus Pharma raises €11 million Series A extension to advance immunotherapy
+    for hard-to-treat solid tumours
+  url: https://www.eu-startups.com/2026/07/frances-brenus-pharma-raises-e11-million-series-a-extension-to-advance-immunotherapy-for-hard-to-treat-solid-tumours/
+  source: eu-startups
+  date_found: '2026-07-22'
+  parsed_company: Brenus Pharma
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Berlin’s Deutsche Sanierungsberatung raises over €10 million to accelerate
     climate-neutral home renovations
   url: https://www.eu-startups.com/2026/07/berlin-based-deutsche-sanierungsberatung-raises-over-e10-million-to-accelerate-climate-neutral-home-renovations/
@@ -248,6 +265,14 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-07-21'
   parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Omio raises €8.7 million strategic investment for Asian expansion
+  url: https://www.eu-startups.com/2026/07/omio-raises-e8-7-million-strategic-investment-for-asian-expansion/
+  source: eu-startups
+  date_found: '2026-07-21'
+  parsed_company: Omio
   parsed_amount: null
   parsed_round: null
   status: pending
