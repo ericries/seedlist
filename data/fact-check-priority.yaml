@@ -3,22 +3,37 @@ priority:
   type: firm
   reason: appeared in Etched Series C (2026-07-23), $300M
   added: 2026-07-24
+  status: resolved
+  resolved: 2026-07-24
+  note: "Verified Etched Series C row in sequoia-capital.md portfolio (line 245): '2026-07-23 | Series C (led, $300M at $10.3B val)' with primary source citations [^etched1] TechCrunch (Julie Bort, 2026-07-23) and [^etched2] GlobeNewswire press release (2026-07-23). Sonya Huang named as lead partner. No changes needed — already fully cited."
 - slug: andreessen-horowitz
   type: firm
   reason: participated in Etched Series C (2026-07-23), $300M
   added: 2026-07-24
+  status: resolved
+  resolved: 2026-07-24
+  note: "Verified Etched Series C participation row in andreessen-horowitz.md portfolio (line 311) with primary source citations [^etchd1] TechCrunch (2026-07-23) and [^etchd2] GlobeNewswire press release (2026-07-23). Confirms a16z participated in $300M Series C at $10.3B valuation (Sequoia led; Jane Street, Diffusion, SK Hynix co-participants). No changes needed."
 - slug: battery-ventures
   type: firm
   reason: led AegisAI Series A (2026-07-23), $36M
   added: 2026-07-24
+  status: resolved
+  resolved: 2026-07-24
+  note: "Verified AegisAI Series A lead row in battery-ventures.md portfolio (line 119) with primary source citations [^aegis1] PR Newswire press release (2026-07-23) and [^aegis2] TechCrunch (Marina Temkin, 2026-07-23). Confirms Battery led $36M Series A with Accel and Foundation Capital participating; Dharmesh Thakker quoted as GP lead. No changes needed."
 - slug: accel
   type: firm
   reason: co-led Paper Series A + participated in AegisAI Series A (2026-07-23)
   added: 2026-07-24
+  status: resolved
+  resolved: 2026-07-24
+  note: "Verified both rows in accel.md portfolio (lines 241-242): Paper Series A co-led with ICONIQ ([^paper1] BusinessWire 2026-07-23, [^paper2] Accel portfolio page naming Daniel Levine as lead partner) and AegisAI Series A participation ([^aegisa1] PR Newswire 2026-07-23, [^aegisa2] TechCrunch 2026-07-23). No changes needed."
 - slug: iconiq-growth
   type: firm
   reason: co-led Paper Series A (2026-07-23), $34M
   added: 2026-07-24
+  status: resolved
+  resolved: 2026-07-24
+  note: "Verified Paper Series A co-lead row in iconiq-growth.md portfolio (line 160) with primary source citations [^paper1] BusinessWire press release (2026-07-23) and [^paper2] FinSMEs (2026-07-23). Confirms ICONIQ co-led $34M Series A with Accel; Designer Fund and angels (Michael Grinich, Anton Osika) participated. No changes needed."
 - slug: plaid
   type: startup
   reason: 'Fact-spec sweep 2026-07-23: tightened Plaid Series E row on plaid.md from ''Series E | Apr 2025 | $575M | Franklin Templeton | Fidelity, BlackRock, NEA, Ribbit Capital [^9] | $6.1B'' to ''Common stock sale (characterized as Series E in press) | 2025-04-03 | $575M | Franklin Templeton | Fidelity Management and Research, BlackRock, NEA, Ribbit Capital [^9][^13][^14] | $6.1B post-money''. Verified via 3 primary sources: (a) Plaid Blog primary [^13] (2025-04-03), (b) TechCrunch [^9], (c) Fortune [^14]. Note: Plaid characterized this as ''a sale of common stock'' rather than a traditional Series E, with proceeds used for RSU-related employee tax withholding and an employee tender offer; press widely reported it as Series E. 2 new footnotes added ([^13], [^14]).'
