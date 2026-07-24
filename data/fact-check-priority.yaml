@@ -3401,3 +3401,11 @@ priority:
   status: resolved
   resolved: '2026-07-24'
   note: "Third primary source added to abstract-ventures.md Cast Insights row (line 119): [^cast-insights-3] FinSMEs (2026-07-23). Row now cites 3 independent primaries — PRN release [^cast-insights-1], SiliconANGLE [^cast-insights-2], FinSMEs [^cast-insights-3] — confirming Abstract Ventures-led USD 4.5M pre-seed with HF0, Village Global, Max Ventures, Embassy Ventures, Stratus Ventures participating; CEO Otávio Costa Miranda."
+- slug: businessnext
+  type: startup
+  reason: "new profile — ServiceNow Ventures $40M Series C (2026-07-23)"
+  added: 2026-07-24
+- slug: carpl-ai
+  type: startup
+  reason: "new profile — IFC-led $10M Series A with Stellaris (2026-07-23)"
+  added: 2026-07-24

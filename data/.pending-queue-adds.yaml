@@ -1,0 +1,39 @@
+- name: ServiceNow Ventures
+  type: firm
+  priority: normal
+  discovered_from: businessnext
+  source: "Led BUSINESSNEXT $40M Series C (2026-07-23) at $700M valuation"
+- name: Stellaris Venture Partners
+  type: firm
+  priority: normal
+  discovered_from: carpl-ai
+  source: "Co-invested in CARPL.ai $10M Series A led by IFC (2026-07-23); prior seed investor"
+- name: International Finance Corporation
+  type: firm
+  priority: normal
+  discovered_from: carpl-ai
+  source: "Led CARPL.ai $10M Series A (2026-07-23); World Bank Group private-sector arm"
+- name: Nishant Singh
+  type: individual
+  firm: BUSINESSNEXT
+  priority: low
+  discovered_from: businessnext
+  source: "CEO & Co-Founder of BUSINESSNEXT (Noida-based banking software co.)"
+- name: Vidur Mahajan
+  type: individual
+  firm: CARPL.ai
+  priority: low
+  discovered_from: carpl-ai
+  source: "Founder & CEO of CARPL.ai (radiology AI marketplace)"
+- name: Farid Fezoua
+  type: individual
+  firm: International Finance Corporation
+  priority: low
+  discovered_from: carpl-ai
+  source: "IFC partner quoted on CARPL.ai Series A"
+- name: Alok Goyal
+  type: individual
+  firm: Stellaris Venture Partners
+  priority: normal
+  discovered_from: carpl-ai
+  source: "Stellaris partner quoted on CARPL.ai Series A"
