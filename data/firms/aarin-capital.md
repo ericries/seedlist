@@ -84,7 +84,7 @@ This table lists 14 named Aarin Capital portfolio investments confirmed by conte
 | KleverKid | Seed ($500K) | 2015-05-07 | Mohandas Pai | EdTech | Deadpooled (Dec 2016) [^13][^15] |
 | YourStory | Early | ~2014-2015 | — | Media | Active [^5][^14] |
 | Praxify | Early | ~2013 | — | HealthTech/SaaS | Acquired [^5] |
-| HomeLane | Early | ~2016 | — | Interior Design / Home | Active [^5] |
+| HomeLane | Series A (USD 4.5M co-investor; Sequoia Capital India led; Aarin Capital participated) | 2015-02-24 | — | Interior Design / Home | Active [^5][^23][^24][^25] |
 | PharmEasy (API Holdings) | Early | ~2016 | — | HealthTech / Pharmacy | Active [^6] |
 ~unknown| Jigsaw Academy | Early | — | — | EdTech / Analytics | Active [^14] |
 ~unknown| Impact Analytics | Early | — | — | SaaS / Retail | Active [^4] |
@@ -127,3 +127,9 @@ No independently sourced founder testimonials about Aarin Capital (as distinct f
 [^20]: The Indian Wire, "Top Kalaari Capital investments in India," accessed July 2026. https://www.theindianwire.com/startups/top-kalaari-capital-investments-77276/ — Confirms "Kalaari Capital first invested $3.3 million in [Vyome Biosciences] series A round, along with Navam Capital and Aarin Capital in September 2012."
 [^21]: PR Newswire India, "Sabre Partners Leads $8 Million Series B Investment in Vyome Biosciences," August 12, 2014. Accessed July 2026. https://www.prnewswire.com/in/news-releases/sabre-partners-leads-8-million-series-b-investment-in-vyome-biosciences-270876771.html — Primary company/wire release confirming Vyome Biosciences closed $8M Series B on August 12, 2014, led by Sabre Partners "with existing Series A investors Kalaari Capital and Aarin Capital also co-investing."
 [^22]: BioSpace, "Vyome Biosciences Adds To Board Of Directors," October 2015. Accessed July 2026. https://www.biospace.com/b-vyome-biosciences-b-adds-to-board-of-directors — Confirms Vyome "is currently backed by leading venture capital and private equity funds, including Kalaari Capital, Sabre Partners, Aarin Capital and Navam Capital." Bio-IT World December 2, 2014 title "Vyome Ropes in Ranjan Pai in its board of directors" independently confirms Ranjan Pai/Aarin board seat via search-result headline (URL returned 403 on direct fetch).
+
+[^23]: TechCrunch (Catherine Shu), "India's HomeLane Raises $4.5M Series A Led By Sequoia Capital," February 24, 2015. Accessed July 2026. https://techcrunch.com/2015/02/24/indias-homelane-raises-4-5m-series-a-led-by-sequoia-capital/ — Primary tier-1 tech press confirmation of HomeLane's USD 4.5M Series A on 2015-02-24, led by Sequoia Capital India with Aarin Capital participating. CORRECTS prior "Early | ~2016" — round was February 2015 Series A, not undated 2016 early.
+
+[^24]: AVCJ (Asian Venture Capital Journal), "Sequoia leads $4.5m round for Indian interior design start-up HomeLane," February 25, 2015. Accessed July 2026. https://www.avcj.com/avcj/news/60588/sequoia-leads-usd45m-round-for-indian-interior-design-start-up-homelane — Second independent primary source for HomeLane's Series A. Names Sequoia Capital as lead and Aarin Capital as participating investor.
+
+[^25]: The Tech Portal, "HomeLane raises $4.5 Million in Series A to cut through your interior-designing worries," February 24, 2015. Accessed July 2026. https://thetechportal.com/2015/02/24/homelane-series-a/ — Third independent primary source for HomeLane's Series A. Captures G V Ravi Shankar (Sequoia Capital India Advisors MD) quote: "We have known Srikanth and team for many years and are thrilled to partner with them again to solve a very large pain point in the home improvement market." Also captures HomeLane COO Prabhu Venkatesh quote on the "30 days from order to installation" product guarantee.

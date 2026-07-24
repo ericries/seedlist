@@ -670,7 +670,9 @@ vague_facts:
   line: '| SmartHR | Seed | ~2016 | HR Tech | Active | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-23
+  resolution_note: 'Fact-spec sweep 2026-07-23: CORRECTED SmartHR row on 500-global.md from "Seed | ~2016" (WRONG on both round type and precision) to "Series A (¥500M / ~USD 4.89M; World Innovation Lab (WiL) led; BEENEXT, 500 Startups Japan, and angels Kotaro Chiba (Colopl), Yu Akasaka + Jun Nishikawa (both Eureka) participated. 500 Startups Japan was NOT in the Feb 2016 seed round (East Ventures + DG Incubation + BEENEXT only); Aug 2016 Series A is 500 Japan first primary-press check; later led Series B 2018-01-22 at ¥1.5B / USD 13.3M) | 2016-08-30" via 3 primary sources: NEW The Bridge 2016-08-30 [^87] (Japanese tech press primary) + NEW Tech Wire Asia 2016-08-30 [^88] + NEW TechCrunch 2018-01-22 Series B retrospective [^89]. 3 new footnotes added.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: eFishery
@@ -870,7 +872,9 @@ vague_facts:
   line: '| ConsejoSano | Series A | ~2018 | Hispanic telehealth | Active | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-23
+  resolution_note: 'Fact-spec sweep 2026-07-23: CORRECTED ConsejoSano row on 7wire-ventures.md from vague "Series A | ~2018" to "Series A (USD 4.9M; 7wire Ventures led; Tufts Health Ventures, TOTAL Impact Capital, Wanxiang Healthcare Investments, Acumen, Oxeon Partners, Impact Engine participated; post-round total raised USD 7.2M; company later rebranded to SameSky Health) | 2017-02-21" via 3 primary sources: NEW PR Newswire company press release 2017-02-21 [^53] + NEW MobiHealthNews 2017-02-13 [^54] + NEW MedCity News 2017-02-23 [^55]. Prior year (2018) was WRONG — the round closed February 2017. Also updated status column to reflect April 2024 merger into GroundGame.Health. 3 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: CareDox
@@ -1066,7 +1070,9 @@ vague_facts:
   line: '| HomeLane | Early | ~2016 | — | Interior Design / Home | Active [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-23
+  resolution_note: 'Fact-spec sweep 2026-07-23: CORRECTED HomeLane row on aarin-capital.md from vague "Early | ~2016" (WRONG on both year and round type) to "Series A (USD 4.5M co-investor; Sequoia Capital India led; Aarin Capital participated) | 2015-02-24" via 3 primary sources: NEW TechCrunch 2015-02-24 [^23] + NEW AVCJ 2015-02-25 [^24] + NEW The Tech Portal 2015-02-24 [^25]. Aarin joined at Feb 2015 Sequoia-led Series A (not undated 2016). 3 new footnotes added.'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: PharmEasy (API Holdings)

@@ -110,7 +110,7 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 | WellTheory | Early | 2022 | Autoimmune care | Active | [^28][^42] |
 | Override | Seed | 2022 | Chronic pain management | Active | [^29][^43] |
 | When Insurance | Series A | 2026-02-02 | Severance insurance | Active | [^11][^44] |
-| ConsejoSano | Series A | ~2018 | Hispanic telehealth | Active | [^6] |
+| ConsejoSano | Series A (USD 4.9M; 7wire Ventures led; Tufts Health Ventures, TOTAL Impact Capital, Wanxiang Healthcare Investments, Acumen, Oxeon Partners, Impact Engine participated; post-round total raised USD 7.2M; company later rebranded to SameSky Health) | 2017-02-21 | Hispanic telehealth | Merged (into GroundGame.Health, April 2024) | [^6][^53][^54][^55] |
 | CareDox | Series B | ~2018 | School health IT | Active | [^6] |
 | Medisafe | Early | ~2018 | Medication management | Active | [^30] |
 | Higi | Early | ~2015 | Biometric screening | Acquired | [^11] |
@@ -204,3 +204,9 @@ No additional independently sourced founder testimonials found beyond 7wire's ow
 [^50]: Transcarent, "Glen Tullman Joins Transcarent as Chief Executive Officer," March 18, 2021. Accessed July 23, 2026. https://transcarent.com/press-releases/glen-tullman-joins-transcarent-as-chief-executive-officer
 [^51]: Forbes, "'Concierge Medicine On Steroids' Startup Raised $40 Million To Disrupt Employer-Sponsored Care," March 18, 2021. Accessed July 23, 2026. https://www.forbes.com/sites/katiejennings/2021/03/18/concierge-medicine-on-steroids-startup-raised-40-million-to-disrupt-primary-care/
 [^52]: MobiHealthNews, "nOCD raises $1M in funding for OCD help app," February 12, 2018. Accessed July 23, 2026. https://www.mobihealthnews.com/news/nocd-raises-1m-funding-ocd-help-app
+
+[^53]: PR Newswire, "ConsejoSano Raises $4.9 million to Help Spanish Speakers Efficiently Navigate the U.S. Health System," February 21, 2017. Accessed July 23, 2026. https://www.prnewswire.com/news-releases/consejosano-raises-49-million-to-help-spanish-speakers-efficiently-navigate-the-us-health-system-300410541.html — Primary company press release confirming USD 4.9M Series A led by 7wire Ventures with Tufts Health Ventures, TOTAL Impact Capital, Wanxiang Healthcare Investments, Acumen, Oxeon Partners, and Impact Engine participating. Post-round total capital raised USD 7.2M.
+
+[^54]: MobiHealthNews (Jonah Comstock), "ConsejoSano raises $4.9M for Spanish-language healthcare services platform," February 13, 2017. Accessed July 23, 2026. https://www.mobihealthnews.com/news/consejosano-raises-49m-spanish-language-healthcare-services-platform — Independent trade-press primary confirmation of ConsejoSano's Series A. Names 7wire Ventures as lead and lists the full participant syndicate. Published a week before the official PR Newswire release (early access coverage).
+
+[^55]: MedCity News, "Telehealth startup for Spanish speakers raises $4.9M to expand staff and product development," February 23, 2017. Accessed July 23, 2026. https://medcitynews.com/2017/02/telehealth-startup-for-spanish-speakers-raises-4-9m/ — Second independent trade-press primary source for ConsejoSano's Series A on 2017-02-21. Confirms 7wire Ventures lead role and participant list. Also captures founder Abner Mason's product roadmap for the round.
