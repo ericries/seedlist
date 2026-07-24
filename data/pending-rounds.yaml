@@ -71,6 +71,41 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Anduril reportedly in talks to raise funding at $100B valuation, more than
+    3x last year’s mark
+  url: https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/
+  source: techcrunch
+  date_found: '2026-07-24'
+  parsed_company: null
+  parsed_amount: $100B
+  parsed_round: null
+  status: pending
+- title: Sam Altman’s biometric startup World raises $52.5M via crypto sale
+  url: https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/
+  source: techcrunch
+  date_found: '2026-07-24'
+  parsed_company: Sam Altman’s biometric startup World
+  parsed_amount: $52.5M
+  parsed_round: null
+  status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In
+    Varied Week For Large Deals'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-physical-ai-fintech-defense-atoms/
+  source: crunchbase
+  date_found: '2026-07-24'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (July 20 -July 24)
+  url: https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-july-20-july-24/
+  source: eu-startups
+  date_found: '2026-07-24'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Nernst Electric raises €1.7 million to scale on-site oxygen generation technology
     for aquaculture and heavy industry
   url: https://www.eu-startups.com/2026/07/irelands-nernst-electric-raises-e1-7-million-to-advance-on-site-oxygen-generation-technology-for-aquaculture-and-heavy-industry/

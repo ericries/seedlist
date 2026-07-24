@@ -41179,3 +41179,79 @@ queue:
   discovered_from: julien-chaumond
   source: Co-led Pimento seed (December 2023) alongside Partech; co-invested with
     Julien Chaumond
+- name: Kantharos Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tikva-allocell
+  source: led Tikva Allocell $8M Series A (2026-07-22)
+- name: Backbone Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: immitra-bio
+  source: led Immitra Bio €2.58M pre-seed (2026-07-21)
+- name: OCCIDENT
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: immitra-bio
+  source: co-lead of Immitra Bio pre-seed (2026-07-21)
+- name: Together Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: architect-labs
+  source: participated in Architect Labs seed (2026-06-18)
+- name: Aravind Srinivas
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Perplexity (CEO)
+  discovered_from: architect-labs
+  source: angel in Architect Labs seed (2026-06-18)
+- name: Trevor Blackwell
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Y Combinator
+  discovered_from: architect-labs
+  source: angel in Architect Labs seed (2026-06-18)
+- name: Alex Wissner-Gross
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Independent
+  discovered_from: architect-labs
+  source: angel in Architect Labs seed (2026-06-18)
+- name: Lukasz Kaiser
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: OpenAI
+  discovered_from: architect-labs
+  source: angel in Architect Labs seed (2026-06-18)
+- name: Ivan Horak
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Tikva Allocell (Founder/CEO)
+  discovered_from: tikva-allocell
+  source: founder
+- name: Jan Nelis
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Immitra Bio (Founder/CEO)
+  discovered_from: immitra-bio
+  source: founder
