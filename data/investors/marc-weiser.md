@@ -53,30 +53,23 @@ Patterns visible in the RPM/Weiser portfolio:
 
 ## Portfolio
 
+Rounds with independently verified dates (Weiser-associated or led by RPM during his tenure):
+
 | Company | Year | Stage | Source |
 |---|---|---|---|
 | SoFi | 2011 | Seed / Series A (early investor) | [^7][^11] |
-~unknown| Xtime | (exited) | Early stage; RPM was investor prior to acquisition | [^3][^11] |
-~unknown| BountyJobs | (exited) | Weiser board member | [^7] |
-~unknown| Automatic | (exited) | Weiser board member | [^7] |
-~unknown| Carlypso | (exited) | Portfolio company | [^11] |
-~unknown| Mojo Motors | (exited) | Weiser board member | [^7] |
-~unknown| Giftly | (exited) | Weiser-led investment | [^7] |
-~unknown| Luvocracy | (exited) | Weiser-led investment | [^7] |
-~unknown| OpenLane | (exited via acquisition) | Adam Boyden co-founded; RPM invested | [^7][^3] |
-~unknown| Hippo | (exited via SPAC) | RPM early investor | [^11] |
 | DailyPay | 2020 | Growth-stage participant; RPM unicorn portco | [^11][^3] |
 | Firefly Aerospace | 2024 | Series D ($175M, RPM led) | [^8][^9] |
 | Players Health | 2024 | Follow-on round | [^11] |
-| Hubble Network | 2025 | Series B ($70M, RPM participated alongside Swagar Capital lead) | [^10] |
-| Figure | (IPO Sept 2025) | Prior-stage portfolio | [^11] |
-~unknown| Coterie | (active) | Active portfolio | [^11] |
-~unknown| Findigs | (active) | Active portfolio | [^11] |
-~unknown| Family First | (active) | Active portfolio | [^11] |
-~unknown| Mobi | (active) | Active portfolio | [^11] |
-~unknown| Overalls | (active) | Active portfolio | [^11] |
+| Hubble Network | 2025 | Series B ($70M, RPM participated; Swagar Capital led) | [^10] |
+| Figure | 2025 | Prior-stage portfolio; IPO September 2025 | [^11] |
 
-*Portfolio table is representative, not exhaustive. RPM has ~59 total investments per RPM disclosures and ~118 per Tracxn, of which this table captures the publicly documented subset. Individual entry years are not disclosed for many RPM active investments on the firm's own portfolio page [^11].*
+Additional RPM Ventures portfolio companies Weiser is publicly associated with (specific investment years not disclosed on primary sources; listed by exit status):
+
+- **Exited:** Xtime (acquired), BountyJobs (Weiser board member), Automatic (Weiser board member), Carlypso, Mojo Motors (Weiser board member), Giftly (Weiser-led), Luvocracy (Weiser-led), OpenLane (acquired; co-founded by RPM Managing Director Adam Boyden), Hippo (SPAC) [^3][^7][^11].
+- **Active:** Coterie, Findigs, Family First, Mobi, Overalls [^11].
+
+*Portfolio is representative, not exhaustive. RPM reports ~59 total investments (December 2024 disclosure) and ~118 per Tracxn; this section captures the publicly documented subset. Individual entry years are not disclosed for many RPM active investments on the firm's own portfolio page [^11].*
 
 ## In Their Own Words
 
