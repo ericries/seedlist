@@ -77,7 +77,7 @@ On AI in healthcare, Kocher has cautioned against simplistic applications, criti
 | Lyra Health (co-founder) | 2015 | Seed | [^18] |
 | Stride Health | 2015 | Series A | [^19] |
 | Devoted Health (founding CMO) | 2017 | Seed | [^20] |
-| Suki | 2018 | Series A | [^21] |
+| Suki | 2018-05-01 | Series A ($20M, Venrock led; First Round, Social Capital, Nat Turner, Marc Benioff participated) | [^21][^26][^27][^28] |
 | Accompany Health (co-founder) | 2024-01-30 | Series A (co-led by Venrock + ARCH Venture Partners, $56M; IVP, Granite Capital Management, Evidenced participated) | [^10][^25] |
 ~unknown| Sitka | -- | -- | [^1] |
 ~unknown| Need | -- | -- | [^1] |
@@ -153,3 +153,9 @@ No independently sourced founder testimonials found. Kocher's portfolio founders
 [^24]: Aledade Podcast, "13. Bob Kocher: Aledade's First Investor | The ACO Show," accessed March 2026. https://aledade.podbean.com/e/bob-kocher-aledades-first-investor/
 
 [^25]: MobiHealthNews, "Accompany Health launches with $56M to care for low-income patients," January 30, 2024. Accessed July 2026. https://www.mobihealthnews.com/news/accompany-health-launches-56m-care-low-income-patients — Independent contemporaneous confirmation: $56M Series A on January 30, 2024, co-led by Venrock and ARCH Venture Partners with IVP, Evidenced, and Granite Capital Management participating. Bob Kocher (Venrock partner) named as co-founder/board member.
+
+[^26]: TechCrunch, Matthew Lynley, "Suki raises $20M to create a voice assistant for doctors," May 1, 2018. Accessed July 2026. https://techcrunch.com/2018/05/01/suki-raises-20m-to-create-a-voice-assistant-for-doctors/
+
+[^27]: PR Newswire (Suki press release), "Suki - an AI-Powered, Voice-Enabled Digital Assistant for Doctors - Launches to Reduce Documentation Burden on Physicians," May 1, 2018. Accessed July 2026. https://www.prnewswire.com/news-releases/suki--an-ai-powered-voice-enabled-digital-assistant-for-doctors--launches-to-reduce-documentation-burden-on-physicians-300639586.html
+
+[^28]: MobiHealthNews, "AI-powered doctor assistant Suki lands $20M in funding," May 1, 2018. Accessed July 2026. https://www.mobihealthnews.com/news/ai-powered-doctor-assistant-suki-lands-20m-funding

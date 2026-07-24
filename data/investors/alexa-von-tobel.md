@@ -96,7 +96,7 @@ This table represents approximately 35 of an estimated 68+ total investments (pe
 | Supper | 2025 | Seed | AI / Enterprise | [^18] |
 | Spara | 2025 | Seed | AI / B2B | [^18] |
 | ShopMy | 2024 | Growth | Consumer / Creator | [^18] |
-| Scowtt | 2025 | Series A | AI / Advertising | [^18] |
+| Scowtt | 2025-12-08 | Series A (USD 12M; Inspired Capital led — Lucy Deland; LiveRamp Ventures, Angeles Investors, Angeles Ventures participated) | AI / Advertising | [^18][^32][^33][^34] |
 | Stand Insurance | 2025 | Series B | Fintech / Insurance | [^18] |
 | Kamino | 2025 | Series A | Fintech / LatAm | [^18] |
 | Basic Capital | 2025 | Series A | Fintech | [^18] |
@@ -187,3 +187,9 @@ Note: The above testimonials are sourced from Inspired Capital's website, which 
 [^29]: Finix, "Announcing Finix's $35 Million Series B Led By Sequoia Capital," February 4, 2020. https://finix.com/resources/blogs/announcing-finixs-usd35-million-series-b-led-by-sequoia-capital
 [^30]: Inspired Capital, "NYC-based insurance underwriting platform Kalepa raises $14M Series A led by Inspired Capital," September 2021. https://www.inspiredcapital.com/insights/nyc-based-insurance-underwriting-platform-kalepa-raises-14m-series-a-led-by-inspired-capital
 [^31]: PRWeb, "Kalepa, the Commercial InsureTech Leader, Raises $14MM from Inspired Capital to Scale Its AI-Powered Underwriting Platform," September 8, 2021. https://www.prweb.com/releases/kalepa-the-commercial-insuretech-leader-raises-14mm-from-inspired-capital-to-scale-its-ai-powered-underwriting-platform-804034474.html
+
+[^32]: PR Newswire (Scowtt press release), "Scowtt Raises USD 12M Series A to Transform Performance Marketing with AI-Powered Advertising Platform," December 8, 2025. Accessed July 2026. https://www.prnewswire.com/news-releases/scowtt-raises-12m-series-a-to-transform-performance-marketing-with-ai-powered-advertising-platform-302634568.html
+
+[^33]: Inspired Capital, "Why We Invested: Scowtt," accessed July 2026. https://www.inspiredcapital.com/insights/why-we-invested-scowtt
+
+[^34]: GeekWire, "Seattle adtech startup Scowtt raises USD 12M to turn CRM data into better ad campaigns," December 2025. Accessed July 2026. https://www.geekwire.com/2025/seattle-adtech-startup-scowtt-raises-12m-to-turn-crm-data-into-better-ad-campaigns/
