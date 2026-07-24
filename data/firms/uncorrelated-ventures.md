@@ -13,7 +13,7 @@ team:
     role: Founder & General Partner
     slug: salil-deshpande
 status: published
-last_researched: 2026-04-02
+last_researched: 2026-07-24
 ---
 
 ## About
@@ -79,11 +79,11 @@ This table represents a subset of Uncorrelated Ventures' 190+ investments. Many 
 | Fingerprint | Series C | 2023 | Developer Tools | Active | [^19] |
 | Archimedes | Seed | 2023 | DeFi | Active | [^10] |
 | Terrace | Seed | 2024 | Crypto/Trading | Active | [^10] |
-| Defense Unicorns | Series B | 2026 | Defense/DevSecOps | Active | [^4][^22] |
+| Defense Unicorns | Series B (participated, $136M at $1B+ val; Bain Capital Tech Opportunities led; Ansa Capital, Sapphire Ventures, Valor Equity Partners, AVP, and David H. Petraeus also participated) | 2026-01-13 | Defense/DevSecOps | Active (San Antonio-based; Rob Slaughter CEO; 300% YoY military systems adoption) | [^4][^22][^29][^30] |
 | Sedai | Follow-on | ~2024 | Cloud Infrastructure | Active | [^4] |
 | Lemurian Labs | Series A | 2025 | AI Infrastructure | Active | [^20] |
-| S2.dev | Early | 2026 | Developer Tools | Active | [^4] |
-| Reo.Dev | Series A | 2026 | AI / Developer GTM / Sales Intelligence | Active | [^23][^24] |
+| S2.dev | Early ($3.85M; Accel led; Grayscale Ventures, Transpose Platform, Race Capital, Pioneer Fund, Ritual Capital, Orange Collective also participated) | 2026-02-25 | Developer Tools / Data Infrastructure | Active ($5.5M total post-YC; ex-Etsy/Meta/Confluent founders) | [^4][^26][^27][^28] |
+| Reo.Dev | Series A (new investor, $11.3M; Elevation Capital led; returning Heavybit, India Quotient, Foster Ventures) | 2026-07-17 | AI / Developer GTM / Sales Intelligence | Active ($15.3M total; SF-based; Achintya Gupta CEO) | [^23][^24][^25] |
 
 **Notable earlier investments (Bay Partners/Bain Capital Ventures era):** MuleSoft (acquired by Salesforce for $6.5B), Buddy Media (acquired by Salesforce), SpringSource (acquired by VMware for $420M), Dropcam (acquired by Google/Nest), Redis (IPO 2024), Dynatrace, DataStax, Lending Club, Sysdig, Hazelcast, Tealium, Sonatype, Gradle, Quantum Metric, Astranis, Compound Finance, MakerDAO, Cosmos, Crusoe Energy, Pipe, dYdX, PostHog, ZeroHash [^3] [^7] [^21].
 
@@ -155,3 +155,15 @@ No independently sourced founder testimonials found. The firm's solo-GP structur
 [^23]: PR Newswire, "Reo.Dev Raises $11.3 Million Series A to Scale AI Signals for Companies Selling to Engineering Teams," July 17, 2026. Accessed July 21, 2026. https://www.prnewswire.com/news-releases/reodev-raises-11-3-million-series-a-to-scale-ai-signals-for-companies-selling-to-engineering-teams-302828436.html — Confirms Uncorrelated Ventures as new investor in Reo.Dev's $11.3M Series A led by Elevation Capital; Heavybit, India Quotient, and Foster Ventures also participated.
 
 [^24]: YourStory, "Reo.Dev raises $11.3M in Series A led by Elevation Capital," July 17, 2026. Accessed July 21, 2026. https://yourstory.com/2026/07/reodev-raises-113-million-series-a-elevation-capital — Independent confirmation of Uncorrelated Ventures participation in the Reo.Dev Series A.
+
+[^25]: "Reo.Dev Bags $11.3M Series A to Scale Across the US," Yahoo Finance (AccessNewswire syndication), July 2026. Accessed July 24, 2026. https://finance.yahoo.com/technology/ai/articles/reo-dev-bags-11-3m-055000508.html — Third independent primary confirmation of Uncorrelated Ventures as new investor in the $11.3M Series A; Elevation Capital lead; Heavybit, India Quotient, Foster Ventures returning; $15.3M total funding.
+
+[^26]: "Data infrastructure startup S2.dev raises $3.85 Mn led by Accel," Entrackr, February 25, 2026. Accessed July 24, 2026. https://entrackr.com/snippets/data-infrastructure-startup-s2dev-raises-385-mn-led-by-accel-11152721 — Confirms Uncorrelated Ventures participated in S2.dev's Accel-led $3.85M round on February 25, 2026; $5.5M total funding since joining YC Fall 2025 batch.
+
+[^27]: "S2.dev raises $3.85 million to simplify real-time data updates for apps," NewsBytes, February 25, 2026. Accessed July 24, 2026. https://www.newsbytesapp.com/news/business/s2dev-raises-385-million-to-simplify-real-time-data-updates-for-apps/tldr — Independent confirmation of Accel-led $3.85M round with Uncorrelated Ventures participating; founders are former engineers from Etsy, Meta, and Confluent.
+
+[^28]: "S2.dev secures $3.85 million led by Accel," The Head and Tale, February 25, 2026. Accessed July 24, 2026. https://theheadandtale.com/ai-emerging-tech/s2-dev-secures--3-85-million-led-by-accel/ — Third independent confirmation naming Uncorrelated Ventures alongside Grayscale Ventures, Transpose Platform, Race Capital, Pioneer Fund, Ritual Capital, and Orange Collective; prior $500K YC Fall 2025 Seed noted.
+
+[^29]: Bain Capital, "Defense Unicorns Raises $136 Million Series B to Build the Software Backbone of the Department of War," January 13, 2026. Accessed July 24, 2026. https://www.baincapital.com/news/defense-unicorns-raises-136-million-series-b-build-software-backbone-department-war — Primary Bain Capital announcement confirming its Tech Opportunities fund led Defense Unicorns' $136M Series B at $1B+ valuation on January 13, 2026, with Uncorrelated Ventures, Ansa Capital, Sapphire Ventures, Valor Equity Partners, AVP, and David H. Petraeus participating.
+
+[^30]: Defense Unicorns press release, "Defense Unicorns Raises $136 Million Series B," January 13, 2026. Accessed July 24, 2026. https://defenseunicorns.com/defense-unicorns-raises-136-million-series-b/ — Company's own primary release confirming Uncorrelated Ventures participation in the $136M Series B; Rob Slaughter CEO quote on making software "a strategic deterrent"; 300% YoY military adoption.

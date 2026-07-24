@@ -1,7 +1,7 @@
 ---
 founded: 2024
 fund_size: $350M
-last_researched: 2026-07-16
+last_researched: 2026-07-24
 location: San Francisco, CA
 name: Chemistry
 sector_focus:
@@ -83,6 +83,7 @@ Based on a limited sample of verified Chemistry investments (the firm launched i
 | Fathom Therapeutics | Series A | 2026-04-27 | Biotech / AI Drug Discovery | [^13] |
 | Nova Intelligence | Series A (led) | 2026-05-05 | AI / Enterprise / SAP Modernization | [^14] |
 | Meticulous | Series A (led, $15M; Menlo Ventures + angels from Poolside, Dropbox, Vercel, OpenAI, Stripe, Adobe, Hex, Cursor participated) | 2026-07-15 | Developer Tools / AI Testing | [^19][^20][^21] |
+| Atoms | Growth (participated, $1.7B equity; Andreessen Horowitz led; Bain Capital, Fifth Wall, K5 Global, SV Angel, Alpha Square Group, A*, Abstract, Uber also participated) | 2026-07-22 | Physical AI / Industrial Robotics | Active (Kalanick-led holding company for CloudKitchens + Pronto; Ben Horowitz joined board) | [^28][^29][^30] |
 
 Note: This table represents Chemistry's investments since its October 2024 launch. The partners' extensive pre-Chemistry portfolios at Bessemer, a16z, and Index (including PagerDuty, Intercom, Plaid, Persona, Twitch, LaunchDarkly, ServiceTitan, and others) are attributed to their prior firms.
 
@@ -147,3 +148,9 @@ Note: The above founder quotes are sourced from Chemistry's own website and shou
 [^26]: "Assort Health Raises $102M for Agentic AI in Healthcare," Assort Health blog, September 30, 2025. Accessed July 2026. https://www.assorthealth.com/blog/assort-health-secures-102m-to-scale-nations-first-agentic-ai-platform-that-solves-longstanding-frustrations-tied-to-patient-access-and-experience — Company primary source confirming $76M Series B led by Lightspeed with Felicis, First Round Capital, Chemistry, A*, Liquid2, and Quiet participating.
 
 [^27]: "Assort Health Secures $102 Million to Scale Nation's First Agentic AI Platform That Solves Longstanding Frustrations Tied to Patient Access and Experience," PR Newswire, September 30, 2025. Accessed July 2026. https://www.prnewswire.com/news-releases/assort-health-secures-102-million-to-scale-nations-first-agentic-ai-platform-that-solves-longstanding-frustrations-tied-to-patient-access-and-experience-302570046.html — Independent newswire distribution confirming $76M Series B, Lightspeed lead, Chemistry among participating investors.
+
+[^28]: Rebecca Bellan, "Travis Kalanick's robotics company raises $1.7B, led by a16z," TechCrunch, July 22, 2026. Accessed July 24, 2026. https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/ — Primary tier-1 press confirming $1.7B a16z-led equity round in Atoms on July 22, 2026; Ben Horowitz joining board; Bain Capital, Fifth Wall, and Uber named participants.
+
+[^29]: "Kalanick's Atoms raises $1.7B in a16z-led round for industrial AI," Yahoo Finance, July 22, 2026. Accessed July 24, 2026. https://finance.yahoo.com/technology/ai/articles/kalanick-atoms-raises-1-7b-212701007.html — Independent press confirmation naming Chemistry among equity participants: Bain Capital, Fifth Wall, Chemistry, A*, K5 Global, Abstract, SV Angel, Alpha Square Group, and Uber; debt from Bank of America, Goldman Sachs, Wells Fargo, JP Morgan, Barclays.
+
+[^30]: "Travis Kalanick's Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z," The AI Insider, July 23, 2026. Accessed July 24, 2026. https://theaiinsider.tech/2026/07/23/travis-kalanicks-physical-ai-startup-atoms-raises-1-7b-in-funding-led-by-a16z/ — Third independent confirmation of Chemistry's participation in the $1.7B a16z-led Atoms round; full equity partner list matches.
