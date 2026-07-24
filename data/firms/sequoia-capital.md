@@ -242,8 +242,9 @@ The following table includes Sequoia Capital investments verified through the fi
 | Stark Defence | Series C (co-led with Founders Fund, €500M at €3.5B+ post-money) | 2026-06-23 | Defense Tech / Drones / Loitering Munitions | Private [^91][^92][^93] |
 | EDX Markets | Founding backer (2022) → Series B (co-led with Pantera, 2024-01-24) | 2022; 2024-01-24 | Fintech / Institutional Crypto / Market Infrastructure | Private [^edx1][^edx2][^edx3] |
 | Sable | Series A ($45M, co-led with 8VC; Shaun Maguire joined board) | 2026-07-16 | AI / Sales Enablement / Computer Use | Private [^sable1] |
+| Etched | Series C (led, $300M at $10.3B val) | 2026-07-23 | AI / Semiconductors / Inference | Private [^etched1][^etched2] |
 
-*Note: This table includes 42 companies out of 1,668 total investments (~2%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
+*Note: This table includes 43 companies out of 1,668 total investments (~3%). Investment years marked with "~" are approximate based on company founding dates and publicly reported rounds. Many investments span multiple rounds; the stage listed reflects Sequoia's initial or most prominent investment.*
 
 ## In Their Own Words
 
@@ -511,3 +512,7 @@ The following table includes Sequoia Capital investments verified through the fi
 [^edx3]: CoinDesk, "EDX Markets raises $76 million in Series C funding round led by SBI Holdings," July 7, 2026. Accessed July 2026. https://www.coindesk.com/business/2026/07/07/edx-markets-raises-usd76-million-in-funding-round-led-by-sbi-holdings — Contemporaneous coverage of the $76M Series C led solely by SBI Holdings; Sequoia did NOT participate in the Series C.
 
 [^sable1]: Allie Garfinkle, "Meet the AI employee that convinced Sequoia to invest $45 million in Sable," Fortune, July 16, 2026. Accessed July 20, 2026. https://fortune.com/2026/07/16/ai-employee-that-convinced-sequoia-to-invest-45-million-in-sable-shaun-maguire/ — Confirms Sequoia Capital co-led Sable's $45M Series A with 8VC; Shaun Maguire joining the Sable board.
+
+[^etched1]: Julie Bort, "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors," TechCrunch, July 23, 2026. Accessed July 24, 2026. https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/ — Confirms Sequoia led Etched's $300M Series C at a $10.3B valuation on July 23, 2026; the article notes this is the highest-valuation Sequoia-led Series C on record. Sonya Huang led for Sequoia.
+
+[^etched2]: "Etched raises $300M at a $10.3B Valuation to Scale Production of Frontier Scale Inference Hardware," GlobeNewswire, July 23, 2026. Accessed July 24, 2026. https://www.globenewswire.com/news-release/2026/07/23/3332366/0/en/Etched-raises-300M-at-a-10-3B-Valuation-to-Scale-Production-of-Frontier-Scale-Inference-Hardware.html — Primary press release naming Sequoia as lead; Andreessen Horowitz, Jane Street, Diffusion, and SK Hynix as participants. Includes Sonya Huang (Sequoia Partner) quote.

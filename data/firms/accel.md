@@ -238,6 +238,8 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Tomo | Seed ($5M, participated; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | [^108][^109][^110] |
 | Pocket | Seed ($11M, led) | 2026-06-29 | AI / Consumer Hardware | [^111][^112][^113] |
 | Oak | Seed ($60M, co-led with CRV and Greylock Partners) | 2026-07-15 | Cybersecurity / Identity / AI-Native IAM | [^128][^129][^130] |
+| Paper | Series A ($34M, co-led with ICONIQ; Designer Fund and angels participated; Daniel Levine led) | 2026-07-23 | AI / Design Tools / Developer Tools | [^paper1][^paper2] |
+| AegisAI | Series A ($36M, participated; Battery Ventures led; Foundation Capital also) | 2026-07-23 | AI / Cybersecurity / Email Security | [^aegisa1][^aegisa2] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -490,3 +492,11 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^129]: "Oak Raises $60M in Seed Funding to Build the AI-Native Identity Operating System," Yahoo Finance, July 15, 2026. Accessed July 2026. https://finance.yahoo.com/technology/ai/articles/oak-raises-60m-seed-funding-111700598.html — Contemporaneous confirmation of Accel, CRV, Greylock co-leading the round.
 
 [^130]: "Israeli AI cybersecurity co Oak raises $60m," Globes, July 15, 2026. Accessed July 2026. https://en.globes.co.il/en/article-israeli-ai-cybersecurity-co-oak-raises-60m-1001549415 — Third independent confirmation of the round size, lead investors, and founding team.
+
+[^paper1]: "Paper Raises $34 Million Series A with Accel and ICONIQ to Build the Design Platform for the Agentic Era," BusinessWire, July 23, 2026. Accessed July 24, 2026. https://www.businesswire.com/news/home/20260723608438/en/Paper-Raises-%2434-Million-Series-A-with-Accel-and-ICONIQ-to-Build-the-Design-Platform-for-the-Agentic-Era — Primary press release confirming Accel and ICONIQ co-leading Paper's $34M Series A on July 23, 2026 with Designer Fund and angels (Michael Grinich, Anton Osika) participating.
+
+[^paper2]: Accel portfolio page for Paper, referencing "Our Investment in Paper: The AI-Native Design Space" (Daniel Levine, July 23, 2026). Accessed July 24, 2026. https://www.accel.com/companies/paper — Names Daniel Levine as the Accel partner leading the deal.
+
+[^aegisa1]: "AegisAI Raises $36 Million Series A Led by Battery Ventures to Fight the New Wave of AI Spear Phishing," PR Newswire, July 23, 2026. Accessed July 24, 2026. https://www.prnewswire.com/news-releases/aegisai-raises-36-million-series-a-led-by-battery-ventures-to-fight-the-new-wave-of-ai-spear-phishing-302833624.html — Names Accel and Foundation Capital as existing investors participating alongside Battery Ventures lead.
+
+[^aegisa2]: Marina Temkin, "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing," TechCrunch, July 23, 2026. Accessed July 24, 2026. https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/ — Independent tier-1 press confirmation.

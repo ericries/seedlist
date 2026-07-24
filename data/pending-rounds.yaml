@@ -76,6 +76,31 @@ pending_rounds:
   parsed_amount: $21B
   parsed_round: null
   status: pending
+- title: Oxford-based Moa Technology raises €25.9 million to tackle herbicide-resistant
+    weeds
+  url: https://www.eu-startups.com/2026/07/oxford-based-moa-technology-raises-e25-9-million-to-tackle-herbicide-resistant-weeds/
+  source: eu-startups
+  date_found: '2026-07-24'
+  parsed_company: Oxford-based Moa Technology
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Crystalys Therapeutics raised $130M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-24'
+  parsed_company: Crystalys Therapeutics
+  parsed_amount: $130M
+  parsed_round: Series B
+  status: pending
+- title: Yope raised $12.3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-24'
+  parsed_company: Yope
+  parsed_amount: $12.3M
+  parsed_round: null
+  status: pending
 - title: Nernst Electric raises €1.7 million to scale on-site oxygen generation technology
     for aquaculture and heavy industry
   url: https://www.eu-startups.com/2026/07/irelands-nernst-electric-raises-e1-7-million-to-advance-on-site-oxygen-generation-technology-for-aquaculture-and-heavy-industry/
@@ -857,15 +882,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-10'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: En Carta Diagnostics raises €5 million to bring at-home molecular tests for
-    Lyme disease and STIs to market
-  url: https://www.eu-startups.com/2026/07/en-carta-diagnostics-raises-e5-million-to-bring-at-home-molecular-tests-for-lyme-disease-and-stis-to-market/
-  source: eu-startups
-  date_found: '2026-07-10'
-  parsed_company: En Carta Diagnostics
   parsed_amount: null
   parsed_round: null
   status: pending

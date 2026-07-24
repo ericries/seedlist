@@ -116,8 +116,9 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Coram AI | Series B (co-led, $35M) | 2026-06-10 | AI / Physical Security | Active | [^22][^23][^24] |
 | Warp | Series B (lead, $60M) | 2026-06-25 | HR Tech / Payroll / AI / Fintech | Active | [^25][^26][^27] |
 | SambaNova Systems | Series F (participated, $1B first close, $11B valuation; General Atlantic led) | 2026-07-08 | AI / AI Chips / Inference Infrastructure | Active | [^32] |
+| AegisAI | Series A (led, $36M; Accel and Foundation Capital participated) | 2026-07-23 | AI / Cybersecurity / Email Security | Active | [^aegis1][^aegis2] |
 
-*This table represents approximately 30 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
+*This table represents approximately 31 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
 ## In Their Own Words
 
@@ -188,3 +189,7 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^33]: BusinessWire, "Orkes Raises USD 60M as Developers Increasingly Use Its Platform to Deploy AI Confidently in Production," April 23, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260423550324/en/Orkes-Raises-$60M-as-Developers-Increasingly-Use-Its-Platform-to-Deploy-AI-Confidently-in-Production — Primary press-wire announcement confirming Orkes Series B on 2026-04-23 with USD 60M raised, led by AVP with participation from Prosperity7 Ventures (new) alongside existing investors Nexus Venture Partners, Battery Ventures, and Vertex Ventures US. Alex Scherbakovsky, general partner at AVP, joining the board.
 
 [^34]: Fenwick & West, "Fenwick Represents Orkes in USD 60M Series B Funding," April 22, 2026. Accessed July 2026. https://www.fenwick.com/insights/experience/fenwick-represents-orkes-in-60m-series-b-funding — Independent legal-advisor confirmation of Orkes USD 60M Series B round led by AVP with participation from Prosperity7 Ventures, Nexus Venture Partners, Battery Ventures, and Vertex Ventures US.
+
+[^aegis1]: "AegisAI Raises $36 Million Series A Led by Battery Ventures to Fight the New Wave of AI Spear Phishing," PR Newswire, July 23, 2026. Accessed July 24, 2026. https://www.prnewswire.com/news-releases/aegisai-raises-36-million-series-a-led-by-battery-ventures-to-fight-the-new-wave-of-ai-spear-phishing-302833624.html — Primary press release confirming Battery Ventures led the $36M Series A with Accel and Foundation Capital participating. Dharmesh Thakker quoted for Battery.
+
+[^aegis2]: Marina Temkin, "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing," TechCrunch, July 23, 2026. Accessed July 24, 2026. https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/ — Independent tier-1 press confirmation; total funding to date $49M.

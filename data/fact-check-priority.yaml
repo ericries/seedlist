@@ -1,4 +1,24 @@
 priority:
+- slug: sequoia-capital
+  type: firm
+  reason: "appeared in Etched Series C (2026-07-23), $300M"
+  added: 2026-07-24
+- slug: andreessen-horowitz
+  type: firm
+  reason: "participated in Etched Series C (2026-07-23), $300M"
+  added: 2026-07-24
+- slug: battery-ventures
+  type: firm
+  reason: "led AegisAI Series A (2026-07-23), $36M"
+  added: 2026-07-24
+- slug: accel
+  type: firm
+  reason: "co-led Paper Series A + participated in AegisAI Series A (2026-07-23)"
+  added: 2026-07-24
+- slug: iconiq-growth
+  type: firm
+  reason: "co-led Paper Series A (2026-07-23), $34M"
+  added: 2026-07-24
 - slug: plaid
   type: startup
   reason: 'Fact-spec sweep 2026-07-23: tightened Plaid Series E row on plaid.md from ''Series E | Apr 2025 | $575M | Franklin Templeton | Fidelity, BlackRock, NEA, Ribbit Capital [^9] | $6.1B'' to ''Common stock sale (characterized as Series E in press) | 2025-04-03 | $575M | Franklin Templeton | Fidelity Management and Research, BlackRock, NEA, Ribbit Capital [^9][^13][^14] | $6.1B post-money''. Verified via 3 primary sources: (a) Plaid Blog primary [^13] (2025-04-03), (b) TechCrunch [^9], (c) Fortune [^14]. Note: Plaid characterized this as ''a sale of common stock'' rather than a traditional Series E, with proceeds used for RSU-related employee tax withholding and an employee tender offer; press widely reported it as Series E. 2 new footnotes added ([^13], [^14]).'

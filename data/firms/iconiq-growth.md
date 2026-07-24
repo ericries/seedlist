@@ -157,8 +157,9 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | Monzo | Growth | ~2022 | Fintech/Neobank | Active | [^7] |
 | Moveworks | Growth | ~2022 | AI/Enterprise | Acquired by ServiceNow (2024) | [^10] |
 | Conduct | Series A (co-led with Index Ventures, $60M; SAP strategic; Creandum, Lucid Capital, Booom participated) | 2026-06-17 | AI/Enterprise Operating System/SAP | Active | [^46][^47][^48] |
+| Paper | Series A ($34M, co-led with Accel; Designer Fund and angels also) | 2026-07-23 | AI/Design Tools/Developer Tools | Active | [^paper1][^paper2] |
 
-*Note: Years marked with "~" are approximate, based on founding year proxies or estimated from fund vintage. This table represents approximately 51 of 140+ reported portfolio company partnerships. ICONIQ Growth's website lists over 100 companies [^11].*
+*Note: Years marked with "~" are approximate, based on founding year proxies or estimated from fund vintage. This table represents approximately 52 of 140+ reported portfolio company partnerships. ICONIQ Growth's website lists over 100 companies [^11].*
 
 ## In Their Own Words
 
@@ -281,3 +282,7 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 [^47]: TheNextWeb, "Conduct raises $60M Series A from Index, ICONIQ and SAP," June 17, 2026. Accessed June 2026. https://thenextweb.com/news/conduct-60-million-series-a-index-iconiq-sap — Independent confirmation that ICONIQ co-led; notes ICONIQ "rarely does early-stage deals" — significance for an early-stage co-lead.
 
 [^48]: The SaaS News, "Conduct Raises $60M Series A," June 17, 2026. Accessed June 2026. https://www.thesaasnews.com/news/conduct-raises-60m-series-a/ — Third independent confirmation of ICONIQ co-lead alongside Index Ventures with SAP strategic investment.
+
+[^paper1]: "Paper Raises $34 Million Series A with Accel and ICONIQ to Build the Design Platform for the Agentic Era," BusinessWire, July 23, 2026. Accessed July 24, 2026. https://www.businesswire.com/news/home/20260723608438/en/Paper-Raises-%2434-Million-Series-A-with-Accel-and-ICONIQ-to-Build-the-Design-Platform-for-the-Agentic-Era — Primary press release confirming ICONIQ co-led Paper's $34M Series A with Accel on July 23, 2026 with Designer Fund and angels (Michael Grinich, Anton Osika) participating.
+
+[^paper2]: "Paper Raises $34M in Series A Funding," FinSMEs, July 23, 2026. Accessed July 24, 2026. https://www.finsmes.com/2026/07/paper-raises-34m-in-series-a-funding.html — Independent confirmation of the co-lead.
