@@ -40988,3 +40988,138 @@ queue:
   added: '2026-03-17'
   discovered_from: elio
   source: angel in Elio $21M Series A (2026-07-23)
+- name: Supernova Invest
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: moa-technology
+- name: Lansdowne Partners
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: moa-technology
+- name: Parkwalk
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: moa-technology
+- name: Cross Border Impact Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tidalsense
+- name: Foresight Group
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tidalsense
+- name: Airstream Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tidalsense
+- name: CoFound
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: coverwatch
+- name: Restive
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: coverwatch
+- name: HF0
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cast-insights
+- name: FUSE
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prosper-medical
+- name: Aurum Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prosper-medical
+- name: Better.vc
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prosper-medical
+- name: Cal Innovation Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prosper-medical
+- name: Fluent
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prosper-medical
+- name: Latitude Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prosper-medical
+- name: Knoll Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prosper-medical
+- name: Ryan McQuaid
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Prosper Medical
+  discovered_from: prosper-medical
+- name: Cheyenne Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: abstract-security
+- name: Olive Hill Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: abstract-security
+- name: Rally Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: abstract-security
+- name: J.R. Becko
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cheyenne Ventures
+  discovered_from: abstract-security
+- name: Colby DeRodeff
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Abstract Security
+  discovered_from: abstract-security
