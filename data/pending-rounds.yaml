@@ -53,6 +53,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Cambridge’s TidalSense raises €16.6 million to turn the tide on respiratory
+    diagnostics with patented AI tech
+  url: https://www.eu-startups.com/2026/07/cambridge-based-tidalsense-raises-e16-6-million-to-take-its-ai-respiratory-diagnostic-technology-global/
+  source: eu-startups
+  date_found: '2026-07-24'
+  parsed_company: Cambridge’s TidalSense
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Nernst Electric raises €1.7 million to scale on-site oxygen generation technology
     for aquaculture and heavy industry
   url: https://www.eu-startups.com/2026/07/irelands-nernst-electric-raises-e1-7-million-to-advance-on-site-oxygen-generation-technology-for-aquaculture-and-heavy-industry/
