@@ -1,0 +1,56 @@
+- name: "Oxford Science Enterprises"
+  type: firm
+  priority: normal
+  discovered_from: moa-technology
+- name: "Supernova Invest"
+  type: firm
+  priority: normal
+  discovered_from: moa-technology
+- name: "Lansdowne Partners"
+  type: firm
+  priority: low
+  discovered_from: moa-technology
+- name: "Parkwalk"
+  type: firm
+  priority: low
+  discovered_from: moa-technology
+- name: "Cross Border Impact Ventures"
+  type: firm
+  priority: normal
+  discovered_from: tidalsense
+- name: "BGF"
+  type: firm
+  priority: normal
+  discovered_from: tidalsense
+- name: "Foresight Group"
+  type: firm
+  priority: low
+  discovered_from: tidalsense
+- name: "Airstream Capital"
+  type: firm
+  priority: low
+  discovered_from: tidalsense
+- name: "CoFound"
+  type: firm
+  priority: normal
+  discovered_from: coverwatch
+- name: "Restive"
+  type: firm
+  priority: normal
+  discovered_from: coverwatch
+- name: "Liquid2 Ventures"
+  type: firm
+  priority: normal
+  discovered_from: coverwatch
+- name: "KFund"
+  type: firm
+  priority: low
+  discovered_from: coverwatch
+- name: "HF0"
+  type: firm
+  priority: normal
+  discovered_from: cast-insights
+- name: "Village Global"
+  type: firm
+  priority: normal
+  discovered_from: cast-insights

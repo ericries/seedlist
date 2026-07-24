@@ -116,6 +116,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Coworker AI | Seed ($13M, participated) | 2025-05-21 | AI / Enterprise | Active [^15][^39][^40][^41] |
 | Era | Seed (co-led, $9M) | 2026-04-23 | AI / Consumer Hardware | Active [^16] |
 | NewLimit | Series C ($435M, returning investor) | 2026-06-02 | Biotech / Longevity | Active [^48][^49][^50] |
+| Cast Insights | Pre-seed ($4.5M, led) | 2026-07-23 | AI / Media Intelligence | Active [^cast-insights-1][^cast-insights-2] |
 
 Note: Many investment years are approximate, marked with "~", based on company founding years or first known funding rounds. This table represents approximately 7% of Abstract's 500+ total investments. Tracxn reports 192 companies tracked with 83 seed-stage investments averaging $5.52M round sizes [^5].
 
@@ -213,3 +214,7 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^55]: Contrary Research, "xAI Business Breakdown & Founding Story," accessed June 2026. https://research.contrary.com/company/xai — Confirms xAI's first institutional round was a $135M Series A in December 2023, followed by a $6B Series B (May 2024), $6B Series C (December 2024), and $20B Series E (January 2026). Founders include Elon Musk and former researchers from OpenAI, DeepMind, and Tesla. Abstract Ventures is not named in this source but appears on Abstract's own portfolio page [^6] and Tracxn [^14]; the firm's "Early" entry is attributed to the December 2023 Series A given timing.
 
 [^natural-a]: "Natural Raises $30M Series A to Build Payments Infrastructure for AI Agents," PR Newswire, July 20, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/natural-raises-30m-series-a-to-build-payments-infrastructure-for-ai-agents-302829855.html — Series A led by Forerunner Ventures (Kirsten Green); Abstract Ventures named among participating firms.
+
+[^cast-insights-1]: "Cast Insights Raises $4.5M Pre-Seed to Replace Forecasting With Real-Time Intelligence From the World's Ephemeral Speech Data," PR Newswire, July 23, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/cast-insights-raises-4-5m-pre-seed-to-replace-forecasting-with-real-time-intelligence-from-the-worlds-ephemeral-speech-data-302832850.html — $4.5M pre-seed led by Abstract Ventures.
+
+[^cast-insights-2]: SiliconANGLE, "Real-time speech intelligence startup Cast Insights raises $4.5M to track the world's TV, radio and podcasts," July 23, 2026, accessed July 2026. https://siliconangle.com/2026/07/23/real-time-speech-intelligence-startup-cast-insights-raises-4-5m-track-worlds-tv-radio-podcasts/

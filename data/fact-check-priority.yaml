@@ -3373,3 +3373,7 @@ priority:
   added: '2026-07-24'
   status: resolved
   resolved: '2026-07-24'
+- slug: abstract-ventures
+  type: firm
+  reason: "led Cast Insights Pre-seed ($4.5M, 2026-07-23)"
+  added: 2026-07-24
