@@ -116,7 +116,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Coworker AI | Seed ($13M, participated) | 2025-05-21 | AI / Enterprise | Active [^15][^39][^40][^41] |
 | Era | Seed (co-led, $9M) | 2026-04-23 | AI / Consumer Hardware | Active [^16] |
 | NewLimit | Series C ($435M, returning investor) | 2026-06-02 | Biotech / Longevity | Active [^48][^49][^50] |
-| Cast Insights | Pre-seed ($4.5M, led) | 2026-07-23 | AI / Media Intelligence | Active [^cast-insights-1][^cast-insights-2] |
+| Cast Insights | Pre-seed ($4.5M, led) | 2026-07-23 | AI / Media Intelligence | Active [^cast-insights-1][^cast-insights-2][^cast-insights-3] |
 
 Note: Many investment years are approximate, marked with "~", based on company founding years or first known funding rounds. This table represents approximately 7% of Abstract's 500+ total investments. Tracxn reports 192 companies tracked with 83 seed-stage investments averaging $5.52M round sizes [^5].
 
@@ -218,3 +218,5 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^cast-insights-1]: "Cast Insights Raises $4.5M Pre-Seed to Replace Forecasting With Real-Time Intelligence From the World's Ephemeral Speech Data," PR Newswire, July 23, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/cast-insights-raises-4-5m-pre-seed-to-replace-forecasting-with-real-time-intelligence-from-the-worlds-ephemeral-speech-data-302832850.html — $4.5M pre-seed led by Abstract Ventures.
 
 [^cast-insights-2]: SiliconANGLE, "Real-time speech intelligence startup Cast Insights raises $4.5M to track the world's TV, radio and podcasts," July 23, 2026, accessed July 2026. https://siliconangle.com/2026/07/23/real-time-speech-intelligence-startup-cast-insights-raises-4-5m-track-worlds-tv-radio-podcasts/
+
+[^cast-insights-3]: FinSMEs, "Cast Insights Raises $4.5M in Pre-Seed Funding," July 23, 2026. Accessed July 24, 2026. https://www.finsmes.com/2026/07/cast-insights-raises-4-5m-in-pre-seed-funding.html — Third-party trade press confirming Abstract Ventures-led $4.5M pre-seed with HF0, Village Global, Max Ventures, Embassy Ventures, and Stratus Ventures participating; CEO Otávio Costa Miranda.

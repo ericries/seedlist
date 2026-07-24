@@ -105,7 +105,7 @@ Based on 80+ verified investments from the firm's portfolio page, the following 
 | Agentio | Seed | ~2024 | AI/Advertising | [^1] |
 | Wonder | Growth | ~2022 | Consumer/Food | [^1] |
 | Town | Series A | 2026-06-03 | AI/Consumer | $55M co-led with a16z [^9][^10] |
-| Natural | Series A (lead) | 2026-07-20 | Fintech/AI Agent Payments | $30M Series A [^natural-a] |
+| Natural | Series A (led by Kirsten Green) | 2026-07-20 | Fintech/AI Agent Payments | $30M Series A [^natural-a][^natural-b][^natural-c] |
 
 *This table represents approximately 14% of 161 known investments. Many early-stage investments are not individually documented in press sources.*
 
@@ -143,4 +143,8 @@ No independently sourced founder testimonials found from third-party sources. Fo
 
 [^fora-sd]: "Fora Raises $60M at $1 Billion Valuation, Defining a New Category of Entrepreneurs," PR Newswire, July 16, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/fora-raises-60m-at-1-billion-valuation-defining-a-new-category-of-entrepreneurs-302827629.html
 
-[^natural-a]: "Natural Raises $30M Series A to Build Payments Infrastructure for AI Agents," PR Newswire, July 20, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/natural-raises-30m-series-a-to-build-payments-infrastructure-for-ai-agents-302829855.html
+[^natural-a]: "Natural Raises $30M Series A to Build Payments Infrastructure for AI Agents," PR Newswire, July 20, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/natural-raises-30m-series-a-to-build-payments-infrastructure-for-ai-agents-302829855.html — Names Forerunner (led by Kirsten Green) as lead; Human Capital, Abstract, Bridge, Brex, Mercury, Privy, Vercel, Notion, Increase, Unit, and Figure participating.
+
+[^natural-b]: TechCrunch, "Natural raises $30M to reinvent payments for AI agents — and take on Stripe," July 20, 2026. Accessed July 24, 2026. https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/ — Independent primary press confirming Forerunner (Kirsten Green, founder/managing partner) as lead investor; company was 193 days old at round; $40M total funding to date; founders Kahlil Lalji (CEO), Eric Wang, Walt Leung.
+
+[^natural-c]: Fintech Global, "Natural raises $30m to power payments for AI agents," July 21, 2026. Accessed July 24, 2026. https://fintech.global/2026/07/21/natural-raises-30m-to-power-payments-for-ai-agents/ — Third-party trade press confirming Forerunner-led $30M Series A.

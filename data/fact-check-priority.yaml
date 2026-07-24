@@ -3241,10 +3241,16 @@ priority:
   type: firm
   reason: co-backed American Growth Insurance launch (2026-07-16), $70M committed equity
   added: 2026-07-20
+  status: resolved
+  resolved: '2026-07-24'
+  note: "Third primary source added to atomic.md AGI row (line 118): [^agi3] Insurance Business America (2026-07-17). Row now cites 3 independent primaries — PRN release [^agi1], SiliconANGLE [^agi2], and Insurance Business America [^agi3] — confirming Atomic + Rockbridge Growth Equity as co-backers of AGI's nearly USD 70M launch; Michael Stenclik (Atomic VP) quoted in [^agi3]."
 - slug: forerunner-ventures
   type: firm
   reason: led Natural Series A (2026-07-20), $30M
   added: 2026-07-20
+  status: resolved
+  resolved: '2026-07-24'
+  note: "Tightened forerunner-ventures.md Natural row (line 108) from 'Series A (lead)' to 'Series A (led by Kirsten Green)' with 3 primary sources: [^natural-a] PRN release (2026-07-20), [^natural-b] TechCrunch (2026-07-20), [^natural-c] Fintech Global (2026-07-21). Confirms Forerunner (Kirsten Green, founder/managing partner) as lead of USD 30M Series A; participants include Human Capital, Abstract, Bridge, Brex, Mercury, Privy, Vercel, Notion, Increase, Unit, Figure; founders Kahlil Lalji (CEO), Eric Wang, Walt Leung."
 - slug: kirsten-green
   type: investor
   reason: led Natural Series A via Forerunner (2026-07-20), $30M
@@ -3392,3 +3398,6 @@ priority:
   type: firm
   reason: "led Cast Insights Pre-seed ($4.5M, 2026-07-23)"
   added: 2026-07-24
+  status: resolved
+  resolved: '2026-07-24'
+  note: "Third primary source added to abstract-ventures.md Cast Insights row (line 119): [^cast-insights-3] FinSMEs (2026-07-23). Row now cites 3 independent primaries — PRN release [^cast-insights-1], SiliconANGLE [^cast-insights-2], FinSMEs [^cast-insights-3] — confirming Abstract Ventures-led USD 4.5M pre-seed with HF0, Village Global, Max Ventures, Embassy Ventures, Stratus Ventures participating; CEO Otávio Costa Miranda."

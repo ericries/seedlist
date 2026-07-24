@@ -115,7 +115,7 @@ Based on 18 verified portfolio companies from Atomic's website [^6]:
 | TalkIQ | Acquired | 2013 | AI | Acquired by Dialpad [^6] |
 | Terminal | Series B | 2016 | Marketplace | Active [^6] |
 | Villa | Series A | 2019 | Real Estate | Active [^6] |
-| American Growth Insurance | Equity Funding (~$70M committed, co-backed with Rockbridge Growth Equity) | 2026-07-16 | Insurance / AI | Active [^agi1][^agi2] |
+| American Growth Insurance | Equity Funding (~$70M committed, co-backed with Rockbridge Growth Equity) | 2026-07-16 | Insurance / AI | Active [^agi1][^agi2][^agi3] |
 
 ## In Their Own Words
 
@@ -161,3 +161,5 @@ Note: The above founder quotes are sourced from Atomic's own website and should 
 [^agi1]: American Growth Insurance press release, "American Growth Insurance Launches Specialty Insurance Brokerage Growth Platform," PR Newswire, July 16, 2026. Accessed July 20, 2026. https://www.prnewswire.com/news-releases/american-growth-insurance-launches-specialty-insurance-brokerage-growth-platform-302827676.html — Primary announcement of AGI's July 16, 2026 launch with nearly $70M in committed equity funding backed by Rockbridge Growth Equity and Atomic. Includes Michael Stenclik (Atomic) quote and Tony Pulice (Rockbridge Growth Equity) quote.
 
 [^agi2]: SiliconANGLE, "AGI raises $70M to buy up and transform insurance firms into AI-native operations," July 15/16, 2026. Accessed July 20, 2026. https://siliconangle.com/2026/07/15/agi-raises-70m-buy-transform-insurance-firms-ai-native-operations/ — Independent tier-1 confirmation of $70M commitment from Rockbridge Growth Equity and Atomic; Brian Morgan named CEO.
+
+[^agi3]: Insurance Business America, "New brokerage platform bets AI can close the mid-market growth gap," July 17, 2026. Accessed July 24, 2026. https://www.insurancebusinessmag.com/us/news/technology/new-brokerage-platform-hopes-ai-can-close-the-midmarket-growth-gap-582787.aspx — Third-party industry trade confirming Atomic + Rockbridge Growth Equity as backers of American Growth Insurance's nearly $70M launch; Michael Stenclik (Atomic VP) quoted: "The value of AI compounds only when it shapes the whole operating company rather than sitting on top of it as another tool."
