@@ -40938,3 +40938,53 @@ queue:
   firm: Sorenson Capital
   discovered_from: strongestlayer
   source: partner at Sorenson Capital, invested in StrongestLayer seed (2026-07-22)
+- name: Schreiber Foods
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: plantopia
+  source: led Plantopia $9M round (2026-07-22)
+- name: Siddhi Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: plantopia
+  source: co-invested in Plantopia $9M (2026-07-22)
+- name: Fresh Start
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: plantopia
+  source: co-invested in Plantopia $9M (2026-07-22); foodtech incubator
+- name: The O.H.I.O. Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: '1872'
+  source: led 1872 $15M seed (2026-07-22); one of largest seed financings in Ohio
+    history
+- name: Xora Innovation
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elio
+  source: co-led Elio $21M Series A (2026-07-23); deeptech VC
+- name: Scribble VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elio
+  source: participated in Elio $21M Series A (2026-07-23)
+- name: Kevin Weil
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elio
+  source: angel in Elio $21M Series A (2026-07-23)
