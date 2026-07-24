@@ -1,13 +1,22 @@
 ---
 firms:
-- round: series-c
+- date: 2026-07-23
+  round: series-c
   slug: sequoia-capital
   year: 2026
-  date: 2026-07-23
-- round: series-c
+- date: 2026-07-23
+  round: series-c
   slug: andreessen-horowitz
   year: 2026
-  date: 2026-07-23
+- round: Series A
+  slug: the-bot-company
+  year: 2024
+- round: Seed
+  slug: a-star-capital
+  year: 2024
+- round: Series A
+  slug: replit
+  year: 2024
 founded: 2022
 founders:
 - name: Gavin Uberti
@@ -16,6 +25,16 @@ founders:
   role: Co-Founder & President
 - name: Chris Zhu
   role: Co-Founder
+investors:
+- round: Series A
+  slug: kyle-vogt
+  year: 2024
+- round: Seed
+  slug: kevin-hartz
+  year: 2024
+- round: Series A
+  slug: amjad-masad
+  year: 2024
 last_researched: 2026-07-24
 location: Cupertino, CA
 name: Etched

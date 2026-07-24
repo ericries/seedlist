@@ -1,27 +1,36 @@
 ---
-name: "Elio"
-slug: elio
-type: startup
-website: "https://elio.ai"
-location: "San Mateo, CA"
-founded: 2024
-status_company: active
-sector: [ai, sensors, semiconductors, robotics, defense, computer-vision]
-stage_latest: "Series A"
-total_raised: "USD 21M"
-investors: []
 firms:
-  - slug: upwest
-    round: series-a
-    year: 2026
-    date: 2026-07-23
+- date: 2026-07-23
+  round: series-a
+  slug: upwest
+  year: 2026
+founded: 2024
 founders:
-  - name: "Nadav Grossinger"
-    role: "Co-Founder & CEO"
-  - name: "Nitay Romano"
-    role: "Co-Founder & CTO"
-status: published
+- name: Nadav Grossinger
+  role: Co-Founder & CEO
+- name: Nitay Romano
+  role: Co-Founder & CTO
+investors:
+- round: Seed
+  slug: gil-ben-artzy
+  year: 2024
 last_researched: 2026-07-24
+location: San Mateo, CA
+name: Elio
+sector:
+- ai
+- sensors
+- semiconductors
+- robotics
+- defense
+- computer-vision
+slug: elio
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: USD 21M
+type: startup
+website: https://elio.ai
 ---
 
 ## About

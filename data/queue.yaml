@@ -26183,7 +26183,7 @@ queue:
 - name: Julien Chaumond
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hugging Face
   discovered_from: thomas-wolf
@@ -26319,7 +26319,7 @@ queue:
 - name: Marc Weiser
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: RPM Ventures
   discovered_from: findigs
@@ -41123,3 +41123,59 @@ queue:
   added: '2026-03-17'
   firm: Abstract Security
   discovered_from: abstract-security
+- name: Adam Boyden
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: RPM Ventures
+  discovered_from: marc-weiser
+  source: Managing Director at RPM Ventures alongside Marc Weiser; former COO at SoFi,
+    co-founder of OpenLane
+- name: Tony Grover
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: RPM Ventures
+  discovered_from: marc-weiser
+  source: Managing Director at RPM Ventures alongside Marc Weiser
+- name: Ryan Swagar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Swagar Capital
+  discovered_from: marc-weiser
+  source: Led Hubble Network Series B (2025-09-17); co-invested with Marc Weiser /
+    RPM Ventures
+- name: Serena
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: julien-chaumond
+  source: Co-led pyannoteAI seed (2025-04-11) alongside Crane Venture Partners
+- name: Bee Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: julien-chaumond
+  source: Led Sourcetable seed (March 2025); co-invested with Julien Chaumond
+- name: GiantLeap Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: marc-weiser
+  source: New investor in Firefly Aerospace Series D (2024-11-12) alongside RPM Ventures
+    lead
+- name: Cygni Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: julien-chaumond
+  source: Co-led Pimento seed (December 2023) alongside Partech; co-invested with
+    Julien Chaumond

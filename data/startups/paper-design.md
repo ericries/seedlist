@@ -1,17 +1,30 @@
 ---
 firms:
-- round: series-a
+- date: 2026-07-23
+  round: series-a
   slug: accel
   year: 2026
-  date: 2026-07-23
-- round: series-a
+- date: 2026-07-23
+  round: series-a
   slug: iconiq-growth
   year: 2026
-  date: 2026-07-23
+- round: Series C (Lead)
+  slug: ivp
+  year: 2021
+- round: Seed
+  slug: acequia-capital
+  year: 2012
 founded: 2024
 founders:
 - name: Stephen Haney
   role: Co-Founder & CEO
+investors:
+- round: Series C (Lead)
+  slug: tom-loverro
+  year: 2021
+- round: Seed
+  slug: fritz-lanman
+  year: 2012
 last_researched: 2026-07-24
 location: San Francisco, CA
 name: Paper
