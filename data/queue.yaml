@@ -40841,3 +40841,100 @@ queue:
   added: '2026-03-17'
   discovered_from: crystalys-therapeutics
   source: co-founder of Crystalys Therapeutics (biotech incubator)
+- name: Decarbonization Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: asuene
+  source: led Asuene Series D ($87M, 2026-07-23) — BlackRock/Temasek climate JV, first
+    Japan investment
+- name: Incubate Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: asuene
+  source: participated in Asuene Series D ($87M, 2026-07-23) — Japan early-stage VC
+- name: Sparks Asset Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: asuene
+  source: participated in Asuene Series D ($87M, 2026-07-23)
+- name: Twin Towers Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: asuene
+  source: participated in Asuene Series D ($87M, 2026-07-23) — Petronas CVC
+- name: GLIN Impact Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: asuene
+  source: participated in Asuene Series D ($87M, 2026-07-23)
+- name: RICOH Innovation Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: asuene
+  source: participated in Asuene Series D ($87M, 2026-07-23) — corporate VC
+- name: Kohei Nishiwada
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Asuene
+  discovered_from: asuene
+  source: Founder & CEO of Asuene (Series D $87M, 2026-07-23)
+- name: Chris Faught
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Neon Commerce
+  discovered_from: neon-commerce
+  source: Founder & CEO of Neon Commerce (Series A $13M, 2026-07-22)
+- name: Sorenson Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: strongestlayer
+  source: existing investor in StrongestLayer seed extension ($4.1M, 2026-07-22)
+- name: LaunchPod
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: strongestlayer
+  source: participated in StrongestLayer seed extension ($4.1M, 2026-07-22)
+- name: Alan LeFort
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: StrongestLayer
+  discovered_from: strongestlayer
+  source: Co-Founder & CEO of StrongestLayer (Seed $4.1M, 2026-07-22)
+- name: Taha Mubashir
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Inovia Capital
+  discovered_from: strongestlayer
+  source: partner at Inovia Capital who led StrongestLayer seed (2026-07-22)
+- name: Ken Elefant
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sorenson Capital
+  discovered_from: strongestlayer
+  source: partner at Sorenson Capital, invested in StrongestLayer seed (2026-07-22)

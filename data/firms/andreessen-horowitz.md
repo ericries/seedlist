@@ -307,8 +307,9 @@ The following table includes a16z investments verified through the firm's own po
 | Neo | Seed + Series A (co-led, $100M combined) | 2026-07-20 | Cybersecurity / AI / Enterprise Software | Private (co-led with Bessemer Venture Partners; Craft Ventures and Merlin Ventures participated; Boston-based; founders ex-SentinelOne) [^144][^145] |
 | Cascade | Seed (led via a16z Speedrun, $3.5M; Marcus Segal) | 2026-07-22 | ConstructionTech / AI / SaaS / GTM | Private (NYC-based; Hannia Zia CEO and Joana Ferreira CTO — ex-Google/Amazon; Ada Ventures, Blitzscaling Ventures, Indico Capital Partners, shuckerVC, G2C Ventures, and Snowball VC also participated) [^casc1][^casc2] |
 | Atoms | Growth (led, $1.7B) | 2026-07-22 | Robotics / Industrial AI / Physical AI | Private (Travis Kalanick founder; Bain Capital, Fifth Wall, Chemistry, K5 Global, SV Angel, Alpha Square Group, Uber participated; Ben Horowitz joins board) [^atoms1][^atoms2][^atoms3] |
+| Neon (Neon Commerce) | Series A (led, $13M) | 2026-07-22 | Gaming / D2C Commerce / Payments | Private ($27M total raised; SF-based; Renegade Partners and Krafton participated; Chris Faught CEO) [^neon1][^neon2] |
 
-*Note: This table includes 85 companies out of 1,076+ total portfolio companies (~8%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
+*Note: This table includes 86 companies out of 1,076+ total portfolio companies (~8%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
 ## In Their Own Words
 
@@ -666,3 +667,7 @@ The following table includes a16z investments verified through the firm's own po
 [^atoms2]: Yahoo Finance / TechCrunch syndication, "Travis Kalanick's robotics company raises $1.7B, led by a16z," July 22, 2026. Accessed July 2026. https://finance.yahoo.com/technology/articles/travis-kalanick-robotics-company-raises-185044673.html — Independent syndicated tier-1 press confirmation.
 
 [^atoms3]: PYMNTS, "Uber Co-Founder Kalanick's Atoms Secures $1.7 Billion to Build Physical AI," July 22, 2026. Accessed July 2026. https://www.pymnts.com/news/artificial-intelligence/2026/uber-co-founder-kalanicks-atoms-secures-1-7-billion-to-build-physical-ai/ — Third independent tier-1 fintech/AI press confirmation.
+
+[^neon1]: Dean Takahashi, "Neon raises $13M Series A to expand direct-to-consumer commerce for games | exclusive," GamesBeat, July 22, 2026. Accessed July 23, 2026. https://gamesbeat.com/neon-raises-13m-series-a-to-expand-direct-to-consumer-commerce-for-games-exclusive/ — Confirms $13M Series A led by Andreessen Horowitz; Renegade Partners and Krafton participated; Chris Faught CEO; $27M total raised.
+
+[^neon2]: Mobidictum, "Neon secures $13M Series A with KRAFTON joining as strategic investor," July 23, 2026. Accessed July 23, 2026. https://mobidictum.com/neon-13m-series-a-krafton/ — Independent games-industry press confirmation.

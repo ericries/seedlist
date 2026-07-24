@@ -3282,3 +3282,7 @@ priority:
   type: firm
   reason: "participated in Atoms $1.7B growth round (2026-07-22)"
   added: 2026-07-23
+- slug: andreessen-horowitz
+  type: firm
+  reason: "led Neon Commerce Series A ($13M, 2026-07-22)"
+  added: 2026-07-23
