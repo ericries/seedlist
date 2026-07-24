@@ -71675,7 +71675,9 @@ vague_facts:
   line: ~unknown| Dishcraft Robotics | Unknown | Unknown | Robotics | [^18] |
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-24
+  resolution_note: 'Fact-spec sweep 2026-07-24: REMOVED Dishcraft Robotics from Batraski portfolio. Aggregator-only claim. Verified against 3 independent sources: (1) Signal by NFX Batraski page [^7] — Dishcraft NOT listed among his 8+ credited portfolio companies (Archetype AI, Euclid Power, Astronomer, Hypermode, Oumi, Tembo, SQLite Cloud, Border0); (2) Robotics & Automation News primary press for Dishcraft $20M Series A1 (May 29, 2020) [^28 NEW] — names Grit Ventures (lead) + First Round Capital, Baseline Ventures, Fuel Capital, Lemnos as participants, does NOT name Venrock or Batraski; (3) Baseline Ventures own portfolio page confirms Dishcraft investment but no Venrock/Batraski involvement. Original citation was Tracxn/The Network Search aggregator [^18]. Updated inferred thesis (11→10 verified investments, removed robotics category, recomputed sector percentages), portfolio table note updated with removal rationale, [^28] added as new primary source.'
 - profile: investors/ethan-daly
   profile_name: Ethan Daly
   company: Gizmo
@@ -87337,7 +87339,9 @@ vague_facts:
   line: '| ArchiBoost AI | Unknown | 2026 | AI / productivity | [^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-24
+  resolution_note: 'Fact-spec sweep 2026-07-24: UNRESOLVABLE (no primary press release for any ArchiBoost AI funding round exists as of 2026-07-24). Verified via 3 sources: (1) archiboost.ai company website homepage — no funding or investor info; (2) f4.fund [^16 NEW] — lists a16z + Hanabi Capital Management as investors (aggregator only); (3) PitchBook — Hanabi + a16z listed but no round detail public. Same aggregator-only pattern already documented in hanabi-capital.md fact-spec queue (resolved unresolvable 2026-06-30). Row updated from "Unknown | 2026 | AI / productivity" to "Undisclosed (no primary press release exists...) | 2024-2025 | AI / AEC compliance" — sector corrected from generic "productivity" to accurate "AEC compliance" per archiboost.ai homepage, year range widened per company founded 2025. Added [^16] f4.fund as citation for the aggregator status.'
 - profile: investors/itamar-novick
   profile_name: Itamar Novick
   company: Credible
@@ -138995,7 +138999,9 @@ vague_facts:
     |
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-24
+  resolution_note: 'Fact-spec sweep 2026-07-24: UNRESOLVABLE to specific round but ROW REWRITTEN with source transparency. Abstract Ventures / Ramtin Naimi is NOT named in any primary source for any Polymarket funding round. Verified against 3 independent sources: (1) Forbes primary press [^35 NEW] for 2020-10-19 $4M seed led by Polychain — 14 named participants (Naval Ravikant, Balaji Srinivasan, Meltem Demirors, Robert Leshner, Stani Kulechov, Kain Warwick, ParaFi, 1confirmation, Tarun Chitra, Kal Vepuri, Josh Hannah, Marc Bhargava, Samir Vasavada, Calvin Liu), Abstract NOT named; (2) Tracxn Polymarket investor list [^36 NEW] across all rounds (Seed Jul 2020, Series A 2021, Series B 2024-05-14, Series C 2024-10-04, Series D 2025) — Abstract NOT named; (3) The Block 2025 disclosure article — Abstract NOT named. Abstract IS listed on their own portfolio page [^7] and by Venture Capital Archive [^10] as a Polymarket investor — possibly a secondary share purchase, undisclosed SPV, or LP allocation. Row updated from "Unknown | Unknown" to "Undisclosed round (Abstract listed on own portfolio + aggregator, but NOT named in Forbes primary press...) | ~2020–2024" with [^35][^36] added as new citations for the exclusion.'
 - profile: investors/randy-lee
   profile_name: Randy Lee
   company: Ironwood Studios
