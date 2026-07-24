@@ -40799,3 +40799,45 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: sean-kandel
+- name: Work-Bench
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: petra-labs
+  source: led Petra Labs Seed 2026-07-22
+- name: Frazier Life Sciences
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: crystalys-therapeutics
+  source: led Crystalys Therapeutics Series B 2026-07-22 ($130M)
+- name: Soleus Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: crystalys-therapeutics
+  source: participant Crystalys Therapeutics Series B 2026-07-22
+- name: Cormorant Asset Management
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: crystalys-therapeutics
+  source: participant Crystalys Therapeutics Series B 2026-07-22
+- name: Pivotal bioVenture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: crystalys-therapeutics
+  source: participant Crystalys Therapeutics Series B 2026-07-22
+- name: Catalys Pacific
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: crystalys-therapeutics
+  source: co-founder of Crystalys Therapeutics (biotech incubator)
