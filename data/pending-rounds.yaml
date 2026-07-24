@@ -20,38 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Asuene raised $43.8M Series D
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-24'
-  parsed_company: Asuene
-  parsed_amount: $43.8M
-  parsed_round: Series D
-  status: pending
-- title: Neon Commerce raised $13M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-24'
-  parsed_company: Neon Commerce
-  parsed_amount: $13M
-  parsed_round: Series A
-  status: pending
-- title: Plantopia raised $9M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-24'
-  parsed_company: Plantopia
-  parsed_amount: $9M
-  parsed_round: null
-  status: pending
-- title: StrongestLayer raised $4.1M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-24'
-  parsed_company: StrongestLayer
-  parsed_amount: $4.1M
-  parsed_round: null
-  status: pending
 - title: Axios Francisco Partners raised $21B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -83,22 +51,6 @@ pending_rounds:
   date_found: '2026-07-24'
   parsed_company: Oxford-based Moa Technology
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Crystalys Therapeutics raised $130M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-24'
-  parsed_company: Crystalys Therapeutics
-  parsed_amount: $130M
-  parsed_round: Series B
-  status: pending
-- title: Yope raised $12.3M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-24'
-  parsed_company: Yope
-  parsed_amount: $12.3M
   parsed_round: null
   status: pending
 - title: Nernst Electric raises €1.7 million to scale on-site oxygen generation technology
