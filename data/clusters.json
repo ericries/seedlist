@@ -8272,7 +8272,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 35,
+      "size": 37,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8440,6 +8440,16 @@
           "slug": "dawn-song",
           "name": "Dawn Song",
           "firm": "oasis-labs"
+        },
+        {
+          "slug": "julien-chaumond",
+          "name": "Julien Chaumond",
+          "firm": "hugging-face"
+        },
+        {
+          "slug": "ted-xiao",
+          "name": "Ted Xiao",
+          "firm": "independent"
         }
       ]
     },
@@ -9687,7 +9697,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 143,
+      "size": 144,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10340,6 +10350,11 @@
           "slug": "tomer-london",
           "name": "Tomer London",
           "firm": "gusto"
+        },
+        {
+          "slug": "julien-chaumond",
+          "name": "Julien Chaumond",
+          "firm": "hugging-face"
         }
       ]
     },
@@ -12231,7 +12246,7 @@
       "name": "The Engineer-Investors",
       "tagline": "They wrote code before they wrote checks. Engineers and CTOs who became investors \u2014 they can read your architecture docs, not just your pitch deck.",
       "type": "curated",
-      "size": 39,
+      "size": 40,
       "members": [
         {
           "slug": "adam-dangelo",
@@ -12419,6 +12434,11 @@
           "slug": "dawn-song",
           "name": "Dawn Song",
           "firm": "oasis-labs"
+        },
+        {
+          "slug": "julien-chaumond",
+          "name": "Julien Chaumond",
+          "firm": "hugging-face"
         }
       ]
     },
