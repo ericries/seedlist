@@ -70,7 +70,7 @@ Based on verified deals, frequent co-investors include Founders Fund (Cognition 
 | Netic | Series A ($20M) | 2025 | AI for home services | [^12] |
 | Applied Compute | Series A | 2025 | Compute infrastructure | [^10] |
 | Traversal | Seed | 2026 | AI SRE | [^8] |
-| ArchiBoost AI | Unknown | 2026 | AI / productivity | [^3] |
+| ArchiBoost AI | Undisclosed (no primary press release exists; Hanabi listed on aggregators — a16z + Hanabi named as investors per PitchBook / f4.fund; company website discloses no funding info) | 2024-2025 | AI / AEC compliance | [^3][^16] |
 
 *This table represents approximately 35% of Hanabi Capital's reported 20 investments. Additional portfolio companies associated with Hanabi partners from their Index Ventures tenure (such as Scale AI, ClickHouse, Confluent, Temporal, Starburst, Lightning AI, Adaptive ML, Superlinked) are board seats or investments made prior to Hanabi's founding and are not included here.*
 
@@ -99,3 +99,5 @@ No independently sourced founder testimonials found.
 [^13]: The AI Insider, "Cognition AI Closes $400M in Funding to Reach $10.2B Valuation Amid Rapid Growth," September 9, 2025, accessed May 2026. https://theaiinsider.tech/2025/09/09/cognition-ai-closes-400m-in-funding-to-reach-10-2b-valuation-amid-rapid-growth/ — Founders Fund led; corroborates the Cognition blog dated September 8, 2025 listing Hanabi Capital among new investors alongside Bain Capital Ventures and D1 Capital.
 [^14]: TechCrunch, "LiveKit's tools power real-time communications, including OpenAI's Voice Mode," April 10, 2025, accessed May 2026. https://techcrunch.com/2025/04/10/livekits-tools-help-power-real-time-communications/ — LiveKit raised $45M Series B led by Altimeter with Redpoint Ventures and Hanabi Capital.
 [^15]: FinSMEs, "LiveKit Raises $45M in Series B at $345M Valuation," April 11, 2025, accessed May 2026. https://www.finsmes.com/2025/04/livekit-raises-45m-in-series-b-at-a-345m-valuation.html — Confirms $45M Series B at $345M post-money valuation; Altimeter Capital led, Redpoint and Hanabi participated; total capital raised to $83M.
+
+[^16]: f4.fund, "ArchiBoost AI | Enterprise Software," accessed July 2026. https://f4.fund/startups/archiboost — Aggregator listing showing Andreessen Horowitz and Hanabi Capital Management as investors in ArchiBoost AI (Newark, DE; founded 2025; AI-powered code compliance and QA/QC for AEC teams). archiboost.ai company site discloses no funding or investor information as of July 2026. No primary press release found. Cross-referenced against Hanabi Capital's earlier fact-spec sweep (2026-06-30) which reached the same "unresolvable" conclusion.

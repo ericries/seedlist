@@ -115,7 +115,7 @@ While Abstract claims to be "sector-agnostic," the portfolio shows a strong conc
 | Coworker AI | Seed ($13M, participated) | 2025-05-20 | AI / Enterprise | [^24][^32][^33] |
 | Material Security | Seed (angel) | 2017-07 | Security / Cybersecurity | [^7][^29][^34] |
 | Natural | Series A ($30M, participated) | 2026-07-20 | Fintech / AI Agent Payments | [^natural-a] |
-~unknown| Polymarket | Unknown | Unknown | Crypto / Prediction Markets | [^10] |
+| Polymarket | Undisclosed round (Abstract listed on own portfolio + aggregator, but NOT named in Forbes primary press for 2020-10-19 $4M seed led by Polychain, or Tracxn's Series A/B/C/D investor lists) | ~2020–2024 | Crypto / Prediction Markets | [^10][^35][^36] |
 ~unknown| dYdX | Unknown | Unknown | Crypto / DeFi | [^7] |
 ~unknown| Avalanche | Unknown | Unknown | Crypto / Blockchain | [^7] |
 ~unknown| Optimism | Unknown | Unknown | Crypto / L2 | [^7] |
@@ -214,5 +214,9 @@ Michael Ovitz, former president of Disney and founder of CAA, has referred to Na
 [^32]: Finsmes, "Coworker.ai Raises $13M in Seed Funding," May 21, 2025, accessed May 2026. https://www.finsmes.com/2025/05/coworker-ai-raises-13m-in-seed-funding.html — Independent confirmation that Ramtin Naimi (Abstract Ventures) participated in Coworker.ai's $13M seed round, led by Jeff Huber at Triatomic Capital, alongside Operator Collective, Eniac Ventures, and K2 Access Fund.
 [^33]: The SaaS News, "Coworker.ai Raises $13 Million in Seed Round," May 21, 2025, accessed May 2026. https://www.thesaasnews.com/news/coworker-ai-raises-13-million-in-seed-round — Third independent source confirming Coworker.ai $13M seed announced May 20-21, 2025 with Abstract Ventures (Ramtin Naimi) participating; lead Jeff Huber (Triatomic Capital).
 [^34]: First Round Review, "Material Security's Path to Product-Market Fit," accessed May 2026. https://review.firstround.com/material-securitys-path-to-product-market-fit/ — Confirms Material Security was co-founded in 2017 by Ryan Noon, Abhishek Agrawal, and Chris Park; angel investors wrote their first checks in July 2017 before the team had built an MVP.
+
+[^35]: Forbes, "Polymarket Raises Massive $4 Million Round From Polychain, Naval Ravikant, Other Notable Investors," October 19, 2020, accessed July 2026. https://www.forbes.com/sites/rorymurray/2020/10/19/polymarket-raises-massive-4-million-round-from-polychain-naval-ravikant-other-notable-investors/ — Primary press for Polymarket $4M seed. Lead: Polychain. Participants named: Naval Ravikant, Balaji Srinivasan, Meltem Demirors, Robert Leshner, Stani Kulechov, Kain Warwick, ParaFi, 1confirmation, Tarun Chitra, Kal Vepuri, Josh Hannah, Marc Bhargava, Samir Vasavada, Calvin Liu. Abstract Ventures and Ramtin Naimi NOT named.
+
+[^36]: Tracxn, "Polymarket Funding Rounds & List of Investors," accessed July 2026. https://tracxn.com/d/companies/polymarket/__tyGnhK6h0nNQwFjEILKwDY6EySuY3ysyYIqXEnHEd9g/funding-and-investors — Full aggregator investor list across Seed (Jul 2020), Series A (2021), Series B (May 14, 2024), Series C (Oct 04, 2024), Series D (2025). Abstract Ventures and Ramtin Naimi NOT named in any round.
 
 [^natural-a]: "Natural Raises $30M Series A to Build Payments Infrastructure for AI Agents," PR Newswire, July 20, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/natural-raises-30m-series-a-to-build-payments-infrastructure-for-ai-agents-302829855.html — Series A led by Forerunner Ventures (Kirsten Green) with Ramtin Naimi listed as individual investor.
