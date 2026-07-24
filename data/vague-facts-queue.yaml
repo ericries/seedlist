@@ -176227,7 +176227,9 @@ vague_facts:
     | [^11] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-24
+  note: "Tightened Speak Series B-3 row on buckley-ventures.md from '2024' to '2024-06-18' with amount ($20M), participants (OpenAI Startup Fund, Khosla Ventures, Paul Graham, Jeff Weiner), and 3+ primary sources: existing Speak company blog [^11] (2024-06-18 primary), NEW TechCrunch [^19] (2024-06-20), NEW Dataphoenix [^20] (2024-06-24). 2 new footnotes added."
 - profile: firms/cake-ventures
   profile_name: Cake Ventures
   company: Bright
@@ -176237,7 +176239,9 @@ vague_facts:
   line: '| Bright | Seed | 2023 | Enterprise / training | Active [^10] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-24
+  note: "Tightened Bright Seed row on cake-ventures.md from '2023' to '2023-03-02' with full syndicate (co-leads Ringbolt Capital + Triple Impact Capital; participants Riptide Ventures, Cake Ventures, Blu Venture Investors, deftly.vc, JHH.vc) and amount ($2.7M oversubscribed) via 3+ primary sources: existing Citybiz [^10] (2023-03-02), NEW Bright company blog primary [^24] (2023-03-02), NEW Futurum Group trade press [^25] (2023-03-10). 2 new footnotes added."
 - profile: firms/cake-ventures
   profile_name: Cake Ventures
   company: Eli Health

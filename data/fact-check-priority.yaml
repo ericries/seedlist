@@ -1,4 +1,22 @@
 priority:
+- slug: better-tomorrow-ventures
+  type: firm
+  reason: "Fact-spec sweep 2026-07-24: CORRECTED wrong year on Meroka row (had '2024', actual round 2025-09-03). Updated to '2025-09-03 | Seed (co-led with Slow Ventures, $6M; 8VC and other investors participated)' via 3 primary sources: BusinessWire company press release [^mer1] (2025-09-03), Forbes [^mer2] (2025-09-04), Pulse 2.0 [^mer3] (2025-09-07). 3 new footnotes added."
+  added: 2026-07-24
+  status: resolved
+  resolved: 2026-07-24
+- slug: buckley-ventures
+  type: firm
+  reason: "Fact-spec sweep 2026-07-24: tightened Speak Series B-3 row from '2024' to '2024-06-18' with amount ($20M), participants (OpenAI Startup Fund, Khosla Ventures, Paul Graham, Jeff Weiner) via 3+ primary sources: existing Speak company blog [^11] (2024-06-18 primary), NEW TechCrunch [^19] (2024-06-20), NEW Dataphoenix [^20] (2024-06-24). 2 new footnotes added."
+  added: 2026-07-24
+  status: resolved
+  resolved: 2026-07-24
+- slug: cake-ventures
+  type: firm
+  reason: "Fact-spec sweep 2026-07-24: tightened Bright Seed row from '2023' to '2023-03-02' with full syndicate (co-leads Ringbolt Capital + Triple Impact Capital; participants Riptide Ventures, Cake Ventures, Blu Venture Investors, deftly.vc, JHH.vc) and amount ($2.7M oversubscribed) via 3+ primary sources: existing Citybiz [^10] (2023-03-02), NEW Bright company blog primary [^24] (2023-03-02), NEW Futurum Group trade press [^25] (2023-03-10). 2 new footnotes added."
+  added: 2026-07-24
+  status: resolved
+  resolved: 2026-07-24
 - slug: sequoia-capital
   type: firm
   reason: appeared in Etched Series C (2026-07-23), $300M
