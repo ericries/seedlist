@@ -1,33 +1,43 @@
 ---
-name: "NOCD"
-slug: nocd
-type: startup
-website: "https://www.treatmyocd.com"
-location: "Chicago, IL"
+firms:
+- date: 2018-02-12
+  round: seed
+  slug: 7wire-ventures
+  year: 2018
+- date: 2021-09-21
+  round: series-b
+  slug: 7wire-ventures
+  year: 2021
 founded: 2016
-status_company: active
+founders:
+- name: Stephen Smith
+  role: Founder & CEO
+investors:
+- round: Seed (Executive Chairman)
+  slug: glen-tullman
+  year: 2018
+- round: Seed
+  slug: lee-shapiro
+  year: 2018
+- round: STI S1 (₹20L + ₹30L debt for 15%)
+  slug: vineeta-singh
+  year: 2022
+last_researched: 2026-07-23
+location: Chicago, IL
+name: NOCD
 sector:
 - digital-health
 - healthcare
 - mental-health
 - behavioral-health
 - ocd-therapy
-stage_latest: "Series C"
-total_raised: "$68M+"
-founders:
-- name: Stephen Smith
-  role: Founder & CEO
-firms:
-- slug: 7wire-ventures
-  round: seed
-  year: 2018
-  date: 2018-02-12
-- slug: 7wire-ventures
-  round: series-b
-  year: 2021
-  date: 2021-09-21
+slug: nocd
+stage_latest: Series C
 status: published
-last_researched: 2026-07-23
+status_company: active
+total_raised: $68M+
+type: startup
+website: https://www.treatmyocd.com
 ---
 
 ## About

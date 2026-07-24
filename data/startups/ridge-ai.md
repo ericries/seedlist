@@ -9,6 +9,9 @@ firms:
 - round: Pre-seed
   slug: independent
   year: 2026
+- round: Co-founder (Pre-Seed, $2.6M, 2026-04-06)
+  slug: ridge-ai
+  year: 2026
 founded: 2025
 founders:
 - name: Ellie Fields
@@ -27,6 +30,9 @@ investors:
   year: 2026
 - round: Pre-seed
   slug: jeff-heer
+  year: 2026
+- round: Co-founder (Pre-Seed, $2.6M, 2026-04-06)
+  slug: ellie-fields
   year: 2026
 last_researched: 2026-04-07
 location: Seattle, Washington

@@ -1,45 +1,55 @@
 ---
-name: "Transcarent"
-slug: transcarent
-type: startup
-website: "https://transcarent.com"
-location: "Palo Alto, CA"
+firms:
+- date: 2020-10-22
+  round: series-a
+  slug: general-catalyst
+  year: 2020
+- date: 2020-10-22
+  round: series-a
+  slug: 7wire-ventures
+  year: 2020
+- date: 2021-06-10
+  round: series-b
+  slug: general-catalyst
+  year: 2021
+- date: 2021-06-10
+  round: series-b
+  slug: 7wire-ventures
+  year: 2021
+- date: 2021-06-10
+  round: series-b
+  slug: kleiner-perkins
+  year: 2021
 founded: 2020
-status_company: active
+founders:
+- name: Glen Tullman
+  role: Chairman & CEO
+investors:
+- round: Founder/Seed
+  slug: glen-tullman
+  year: 2021
+- round: Founding
+  slug: hemant-taneja
+  year: 2020
+- round: Seed (hatched)
+  slug: lee-shapiro
+  year: 2021
+last_researched: 2026-07-23
+location: Palo Alto, CA
+name: Transcarent
 sector:
 - digital-health
 - healthcare
 - benefits
 - employer-health
 - consumer-health
-stage_latest: "Series D"
-total_raised: "$424M"
-founders:
-- name: Glen Tullman
-  role: Chairman & CEO
-firms:
-- slug: general-catalyst
-  round: series-a
-  year: 2020
-  date: 2020-10-22
-- slug: 7wire-ventures
-  round: series-a
-  year: 2020
-  date: 2020-10-22
-- slug: general-catalyst
-  round: series-b
-  year: 2021
-  date: 2021-06-10
-- slug: 7wire-ventures
-  round: series-b
-  year: 2021
-  date: 2021-06-10
-- slug: kleiner-perkins
-  round: series-b
-  year: 2021
-  date: 2021-06-10
+slug: transcarent
+stage_latest: Series D
 status: published
-last_researched: 2026-07-23
+status_company: active
+total_raised: $424M
+type: startup
+website: https://transcarent.com
 ---
 
 ## About

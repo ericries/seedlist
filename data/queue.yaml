@@ -25549,7 +25549,7 @@ queue:
 - name: Sean Kandel
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Trifacta
   discovered_from: jeff-heer
@@ -26987,7 +26987,7 @@ queue:
 - name: Ted Xiao
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Angel
   discovered_from: mecka-ai
@@ -40780,3 +40780,22 @@ queue:
   added: '2026-03-17'
   firm: Cashboard
   discovered_from: cashboard
+- name: Adam Wilson
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Trifacta (former CEO) / Alteryx
+  discovered_from: sean-kandel
+- name: Data Collective
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sean-kandel
+- name: Anand Rajaraman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sean-kandel

@@ -1,16 +1,14 @@
 ---
-name: Mecka AI
-slug: mecka-ai
-type: startup
-location: New York, NY
+firms:
+- date: 2026-06-01
+  round: series-a
+  slug: menlo-ventures
+  year: 2026
+- date: 2026-06-01
+  round: series-a
+  slug: sv-angel
+  year: 2026
 founded: 2024
-status_company: active
-sector:
-- robotics
-- ai
-- embodied-ai
-stage_latest: Series A
-total_raised: $60M
 founders:
 - name: Josh Gao
   role: Co-Founder & CEO
@@ -20,17 +18,23 @@ founders:
   role: Co-Founder
 - name: Duy Nguyen
   role: Co-Founder
-firms:
-- slug: menlo-ventures
-  round: series-a
-  year: 2026
-  date: 2026-06-01
-- slug: sv-angel
-  round: series-a
-  year: 2026
-  date: 2026-06-01
-status: published
+investors:
+- round: Series A (participated as angel)
+  slug: ted-xiao
+  year: 2025
 last_researched: 2026-06-04
+location: New York, NY
+name: Mecka AI
+sector:
+- robotics
+- ai
+- embodied-ai
+slug: mecka-ai
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $60M
+type: startup
 ---
 
 ## About
