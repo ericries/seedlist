@@ -94,7 +94,7 @@ Based on 22 verified portfolio investments, Buckley Ventures' actual investment 
 ~unknown| Relativity Space | Early | — | Aerospace/3D Printing | Active | [^7] |
 ~unknown| WorkOS | Early | — | Enterprise/Dev Tools | Active | [^7] |
 ~unknown| Retool | Early | — | Developer Tools | Active | [^7] |
-| Speak | Series B-3 lead | 2024 | EdTech/AI | Active (unicorn, $500M valuation) | [^11] |
+| Speak | Series B-3 lead ($20M; OpenAI Startup Fund, Khosla Ventures, Paul Graham, Jeff Weiner participated) | 2024-06-18 | EdTech/AI | Active (unicorn, $500M valuation) | [^11][^19][^20] |
 ~unknown| ClassDojo | Early | — | EdTech | Active (unicorn) | [^6] |
 | Clearbit | Chairman/Investor | ~2014 | Data/MarTech | Acquired by HubSpot ($150M, 2023) | [^7][^6] |
 ~unknown| Lattice | Early | — | HR/Enterprise | Active | [^3] |
@@ -151,3 +151,7 @@ No independently sourced founder testimonials found. Buckley Ventures' website d
 [^17]: AI Business Weekly, "Drafted Raises Funding to Build AI Home Design Platform After 120,000 Users Generated 325,000 Floor Plans in One Month," June 1, 2026. Lists Buckley Ventures as lead with Y Combinator, Patrick Collison, Evan Moore, Convective Capital, Ben Silbermann, Jack Altman, Samsung, Starship Ventures, Charlie Songhurst, Ryan Tedder, Moses Moody, Alex Blania, Kevin Mahaffey participating. Accessed June 13, 2026. https://aibusinessweekly.net/p/drafted-ai-home-design-funding-floor-plans
 
 [^18]: NewsBeep, "Drafted Secures $16M in Funding to Reshape Home Design With AI," June 4, 2026. Third independent confirmation of $16M seed with Buckley Ventures, Y Combinator, Ben Silbermann, Ryan Tedder participating. Accessed June 13, 2026. https://www.newsbeep.com/us/683266/
+
+[^19]: TechCrunch, "Language-learning app Speak nets $20M, doubles valuation," June 20, 2024. Confirms Buckley Ventures led the $20M Series B extension with OpenAI Startup Fund, Khosla Ventures, Paul Graham, and Jeff Weiner participating; $500M valuation and $84M total raised. Accessed July 2026. https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/
+
+[^20]: Dataphoenix, "AI-powered English tutor Speak has raised a $20M Series B extension," June 24, 2024. Independent trade-press confirmation of the $20M raise led by Buckley Ventures; existing investors participated; total capital raised $84M at $500M valuation. Accessed July 2026. https://dataphoenix.info/ai-powered-english-tutor-speak-has-raised-a-20m-series-b-extension/

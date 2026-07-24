@@ -89,7 +89,7 @@ The stated thesis emphasizes the "majority-minority shift" and new consumer demo
 | Guaranteed | Seed | 2022 | Digital health / hospice | Active [^9] |
 | Pamper | Seed | 2022 | Consumer / D2C | Active [^5] |
 | Rares | Seed | 2021 | Consumer / collectibles | Active [^5][^19] |
-| Bright | Seed | 2023 | Enterprise / training | Active [^10] |
+| Bright | Seed (participated; $2.7M oversubscribed round co-led by Ringbolt Capital + Triple Impact Capital; Riptide Ventures, Blu Venture Investors, deftly.vc, JHH.vc also participated) | 2023-03-02 | Enterprise / training | Active [^10][^24][^25] |
 | Joshin | Seed | 2021 | Enterprise / disability support | Acquired (RethinkFirst, 2025) [^1][^20] |
 | Snack | Seed | 2021 | Consumer / dating | Inactive [^11] |
 | Culina Health | Seed; Series A follow-on | 2022; 2024 | Digital health / nutrition | Active [^12][^13] |
@@ -177,4 +177,8 @@ No additional independently sourced founder testimonials found. The McGlory quot
 [^22]: VoxelMatters, "Koobz closes seed round, bringing total funding to $7.2M," June 24, 2025. https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/ — Independent additive-manufacturing press confirmation dated June 24, 2025 with the same syndicate: Uncork Capital lead; Cake Ventures, Antler, V1, Karman Ventures, Pathbreaker Ventures, Anorak Ventures participants.
 
 [^23]: 3DPrint.com, "3D Printed Footwear Startup Koobz Lands $7.2M in Seed Round," June 25, 2025. https://3dprint.com/318985/3d-printed-footwear-startup-koobz-lands-7-2m-in-seed-round/ — Third independent confirmation: $7.2M seed with Uncork Capital as lead and $6M added to the prior $1.2M raised the previous fall.
+
+[^24]: Bright company blog, "Bright Announces Completion of Oversubscribed Funding Round," March 2, 2023. Primary company announcement confirming $2.7M seed co-led by Ringbolt Capital and Triple Impact Capital, with Srikanth Ramachandran joining Bright's Board of Directors. Accessed July 2026. https://www.learnwithbright.com/post/bright-announces-completion-of-oversubscribed-funding-round
+
+[^25]: Futurum Group, "New Funding for Typeface, IrisCX, Bonusly, and Bright Software," March 10, 2023. Trade-press confirmation of the $2.7M seed with full participant list: Ringbolt Capital and Triple Impact Capital (co-leads); Riptide Ventures, Cake Ventures, Blu Venture Investors, deftly.vc, and JHH.vc (participants). Accessed July 2026. https://futurumgroup.com/news/new-funding-for-typeface-iriscx-bonusly-and-bright-software/
 

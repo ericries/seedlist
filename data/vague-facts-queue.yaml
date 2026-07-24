@@ -10896,7 +10896,9 @@ vague_facts:
   line: '| ArchiBoost AI | Undisclosed | 2024-2025 | AI | [^4][^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-24
+  note: "Fact-spec sweep 2026-07-24: No primary source (company press release, blog post, or contemporaneous press article) could be located naming Hanabi Capital as a participant in any ArchiBoost AI funding round. Only PitchBook aggregator [^hanabi-archi-1] confirms Hanabi and Andreessen Horowitz as investors; no round type, date, amount, or lead is publicly disclosed. Tightened row to reflect this aggregator-only pattern (consistent with ClickHouse, Cartesia, Cerebras, Cursor rows) and updated date approximation to ~2025 (per PitchBook founding year). Added new footnote [^hanabi-archi-1] with PitchBook citation. Cannot upgrade to specific round without a primary source disclosing terms."
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: Cerebras
@@ -10928,7 +10930,9 @@ vague_facts:
   line: '| Cursor | Undisclosed | 2024-2025 | Developer Tools | [^9][^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-24
+  note: "Fact-spec sweep 2026-07-24: Verified Hanabi Capital is NOT named as a primary-round participant in any of Anysphere's disclosed Cursor funding rounds — Series A (2024-08 USD 60M at USD 400M val; a16z + Thrive co-led with Patrick Collison as individual) per TechCrunch [^hanabi-cursor-1]; Series B (2024-12 USD 105M at USD 2.5B val; a16z + Thrive co-led); Series C (2025-06-06 USD 900M at USD 9.9B val; Thrive/Accel/a16z/DST) per Cursor's own blog [^hanabi-cursor-2]; Series D (2025-11-13 USD 2.3B at USD 29.3B val; Accel + Coatue co-led with Thrive/a16z/DST/NVIDIA/Google). Tightened row from vague 'Undisclosed' to explicitly note Secondary/SPV pattern with all Anysphere rounds enumerated and each primary participant list confirming Hanabi's absence. Added 2 new footnotes ([^hanabi-cursor-1] TechCrunch Series A + [^hanabi-cursor-2] Cursor blog Series C). Consistent with the aggregator-only SPV pattern already documented for ClickHouse, Cartesia, Cerebras, and now ArchiBoost."
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: Flora
@@ -10938,7 +10942,9 @@ vague_facts:
   line: '| Flora | Seed | 2025 | AI/Creative Tools | [^9][^21] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-24
+  note: "Fact-spec sweep 2026-07-24: Tightened vague 'Seed | 2025' row to 'Seed (USD 6.5M; Hanabi Capital led — Mike Volpi; Menlo Ventures [Amy Wu Martin], Justin Kan, Gabe Whaley, Company Ventures, Alumni Ventures, a16z GAMES, Long Journey, Embedding VC participated) | 2025-05-28' via 3 primary/independent sources: (a) FLORA company blog primary [^hanabi-flora-1] (2025-05-28), (b) existing Upstarts Media [^21] confirms Hanabi as lead with same participant list, (c) NEW NetInfluencer [^hanabi-flora-2] independent trade press confirmation. 2 new footnotes added ([^hanabi-flora-1], [^hanabi-flora-2])."
 - profile: firms/hanabi-capital
   profile_name: Hanabi Capital
   company: LiveKit
@@ -176167,7 +176173,9 @@ vague_facts:
   line: '| Meroka | Seed | 2024 | Healthcare/Medical Group | Active | [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-24
+  note: "CORRECTED wrong year: prior '2024' was inaccurate — actual Meroka seed announced 2025-09-03. Updated Meroka portfolio row on better-tomorrow-ventures.md to '2025-09-03 | Seed (co-led with Slow Ventures, $6M; 8VC and other investors participated)' via 3 primary sources: BusinessWire primary press release [^mer1] (2025-09-03), Forbes tier-1 [^mer2] (2025-09-04), Pulse 2.0 trade press [^mer3] (2025-09-07). 3 new footnotes added."
 - profile: firms/boxgroup
   profile_name: BoxGroup
   company: Cursor (Anysphere)
