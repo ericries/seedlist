@@ -1,37 +1,44 @@
 ---
-name: "Fora"
-slug: fora
-type: startup
-website: "https://foratravel.com"
-location: "New York, NY"
-founded: 2021
-status_company: active
-sector: [travel, marketplace, consumer, ai]
-stage_latest: "Series D"
-total_raised: "$152M+"
 firms:
-  - slug: forerunner-ventures
-    round: series-d
-    year: 2026
-    date: 2026-07-16
-  - slug: insight-partners
-    round: series-d
-    year: 2026
-    date: 2026-07-16
-  - slug: thrive-capital
-    round: series-d
-    year: 2026
-    date: 2026-07-16
-investors: []
+- date: 2026-07-16
+  round: series-d
+  slug: forerunner-ventures
+  year: 2026
+- date: 2026-07-16
+  round: series-d
+  slug: insight-partners
+  year: 2026
+- date: 2026-07-16
+  round: series-d
+  slug: thrive-capital
+  year: 2026
+founded: 2021
 founders:
-  - name: "Henley Vazquez"
-    role: "Co-Founder"
-  - name: "Jake Peters"
-    role: "Co-Founder"
-  - name: "Evan Frank"
-    role: "Co-Founder"
-status: published
+- name: Henley Vazquez
+  role: Co-Founder
+- name: Jake Peters
+  role: Co-Founder
+- name: Evan Frank
+  role: Co-Founder
+investors:
+- round: Seed (Forerunner)
+  slug: brian-omalley
+  year: 2021
 last_researched: 2026-07-25
+location: New York, NY
+name: Fora
+sector:
+- travel
+- marketplace
+- consumer
+- ai
+slug: fora
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: $152M+
+type: startup
+website: https://foratravel.com
 ---
 
 ## About

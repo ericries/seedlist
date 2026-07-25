@@ -1,29 +1,40 @@
 ---
-name: "Stepful"
-slug: stepful
-type: startup
-website: "https://www.stepful.com"
-location: "New York, NY"
-founded: 2021
-status_company: active
-sector: [healthcare, digital-health, edtech, workforce, AI]
-stage_latest: "Series C"
-total_raised: "~$106.5M"
-investors: []
 firms:
-  - slug: y-combinator
-    round: series-c
-    year: 2026
-    date: 2026-06-08
+- date: 2026-06-08
+  round: series-c
+  slug: y-combinator
+  year: 2026
+- round: Seed follow-on
+  slug: reach-capital
+  year: 2023
+founded: 2021
 founders:
-  - name: "Carl Madi"
-    role: "CEO & Co-Founder"
-  - name: "Tressia Hobeika"
-    role: "Co-Founder"
-  - name: "Edoardo Serra"
-    role: "Co-Founder"
-status: published
+- name: Carl Madi
+  role: CEO & Co-Founder
+- name: Tressia Hobeika
+  role: Co-Founder
+- name: Edoardo Serra
+  role: Co-Founder
+investors:
+- round: Seed follow-on
+  slug: jomayra-herrera
+  year: 2023
 last_researched: 2026-06-03
+location: New York, NY
+name: Stepful
+sector:
+- healthcare
+- digital-health
+- edtech
+- workforce
+- AI
+slug: stepful
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: ~$106.5M
+type: startup
+website: https://www.stepful.com
 ---
 
 ## About

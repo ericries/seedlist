@@ -57,6 +57,9 @@ firms:
 - round: Angel (aggregator-reported; exact round undisclosed)
   slug: gusto
   year: 2019
+- round: Early angel (pre-IA Fund)
+  slug: ia-fund
+  year: 2019
 founded: 2017
 founders: []
 investors:
@@ -116,6 +119,9 @@ investors:
   year: 2019
 - round: Angel (aggregator-reported; exact round undisclosed)
   slug: tomer-london
+  year: 2019
+- round: Early angel (pre-IA Fund)
+  slug: yash-doshi
   year: 2019
 last_researched: 2026-05-21
 location: San Francisco, CA

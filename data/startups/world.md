@@ -1,27 +1,38 @@
 ---
-name: "World"
-slug: world
-type: startup
-website: "https://world.org"
-location: "San Francisco, CA"
-founded: 2019
-status_company: active
-sector: [crypto, identity, biometrics, web3, ai]
-stage_latest: "Strategic token sale"
-total_raised: "$300M+"
 firms:
-  - slug: pantera-capital
-    round: token-sale
-    year: 2026
-    date: 2026-07-24
-investors: []
+- date: 2026-07-24
+  round: token-sale
+  slug: pantera-capital
+  year: 2026
+- round: Series A
+  slug: coinfund
+  year: 2021
+founded: 2019
 founders:
-  - name: "Sam Altman"
-    role: "Co-Founder"
-  - name: "Alex Blania"
-    role: "Co-Founder & CEO, Tools for Humanity"
-status: published
+- name: Sam Altman
+  role: Co-Founder
+- name: Alex Blania
+  role: Co-Founder & CEO, Tools for Humanity
+investors:
+- round: Series A
+  slug: jake-brukhman
+  year: 2021
 last_researched: 2026-07-25
+location: San Francisco, CA
+name: World
+sector:
+- crypto
+- identity
+- biometrics
+- web3
+- ai
+slug: world
+stage_latest: Strategic token sale
+status: published
+status_company: active
+total_raised: $300M+
+type: startup
+website: https://world.org
 ---
 
 ## About

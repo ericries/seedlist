@@ -27232,7 +27232,7 @@ queue:
 - name: Yash Doshi
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Immad Akhund Fund
   discovered_from: immad-akhund
@@ -27310,7 +27310,7 @@ queue:
 - name: Guy Fighel
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hetz Ventures
   discovered_from: willow
@@ -27371,7 +27371,7 @@ queue:
 - name: Nicole Quinn
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Connect Ventures
   discovered_from: sekai
@@ -28025,7 +28025,7 @@ queue:
 - name: Jomayra Herrera
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Reach Capital
   discovered_from: stepful
@@ -41332,3 +41332,35 @@ queue:
   added: '2026-03-17'
   discovered_from: reo-dev
   source: Participated in Reo.Dev Series A $11.3M (2026-07-17)
+- name: Michael Blank
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Connect Ventures
+  discovered_from: nicole-quinn
+  source: Co-Founder/Managing Partner of Connect Ventures (CAA+NEA JV); former CAA
+    exec 15 years; announced Jan 2026
+- name: Steve Kupfer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Reach Capital
+  discovered_from: jomayra-herrera
+  source: Reach Capital co-author on Cartwheel Series A investment memo (2023-09-26)
+- name: Connect Ventures (CAA/NEA)
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nicole-quinn
+  source: New consumer VC JV between CAA and NEA; led by Nicole Quinn and Michael
+    Blank (Jan 2026)
+- name: IA Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yash-doshi
+  source: Immad Akhund's $26M debut fund co-managed with Yash Doshi (May 2025)

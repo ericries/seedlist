@@ -1,25 +1,36 @@
 ---
-name: "Willow"
-slug: willow
-type: startup
-website: "https://www.willow.security"
-location: "Herzliya, Israel"
+firms:
+- round: Seed ($7M, led)
+  slug: hetz-ventures
+  year: 2026
 founded: 2025
-status_company: active
-sector: [ai-agents, cybersecurity, enterprise-software, identity-access-management, ai-governance]
-stage_latest: "Seed"
-total_raised: "$7M"
-investors: []
-firms: []
 founders:
-  - name: "Eyal Ben Ezra"
-    role: "CEO & Co-Founder"
-  - name: "Shalev Shalit"
-    role: "CTO & Co-Founder"
-  - name: "Idan Chetrit"
-    role: "VP Platform & Co-Founder"
-status: published
+- name: Eyal Ben Ezra
+  role: CEO & Co-Founder
+- name: Shalev Shalit
+  role: CTO & Co-Founder
+- name: Idan Chetrit
+  role: VP Platform & Co-Founder
+investors:
+- round: Seed ($7M, led)
+  slug: guy-fighel
+  year: 2026
 last_researched: 2026-06-03
+location: Herzliya, Israel
+name: Willow
+sector:
+- ai-agents
+- cybersecurity
+- enterprise-software
+- identity-access-management
+- ai-governance
+slug: willow
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $7M
+type: startup
+website: https://www.willow.security
 ---
 
 ## About

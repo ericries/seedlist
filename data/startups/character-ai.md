@@ -18,6 +18,9 @@ firms:
 - round: Early stage
   slug: gil-capital
   year: 2022
+- round: Growth (Lightspeed)
+  slug: connect-ventures-caa-nea
+  year: 2023
 founded: 2021
 founders:
 - name: Noam Shazeer
@@ -36,6 +39,9 @@ investors:
   year: 2021
 - round: Growth (via NFDG)
   slug: daniel-gross
+  year: 2023
+- round: Growth (Lightspeed)
+  slug: nicole-quinn
   year: 2023
 last_researched: 2026-03-23
 location: Menlo Park, CA

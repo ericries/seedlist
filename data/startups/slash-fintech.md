@@ -9,6 +9,9 @@ firms:
 - round: Seed + Series A (NEA led)
   slug: column
   year: 2023
+- round: Connect Ventures
+  slug: connect-ventures-caa-nea
+  year: 2026
 founded: null
 founders: []
 investors:
@@ -18,6 +21,9 @@ investors:
 - round: Seed + Series A (NEA led)
   slug: william-hockey
   year: 2023
+- round: Connect Ventures
+  slug: nicole-quinn
+  year: 2026
 last_researched: 2026-04-16
 location: San Francisco, CA
 name: Slash

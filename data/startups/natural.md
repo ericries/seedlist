@@ -11,6 +11,9 @@ firms:
 - round: Series A ($30M, participated as individual investor)
   slug: y-combinator
   year: 2026
+- round: Early ($9.8M round)
+  slug: ia-fund
+  year: 2025
 founded: 2024
 founders:
 - name: Kahlil Lalji
@@ -34,6 +37,9 @@ investors:
   year: 2026
 - round: 2025-10
   slug: immad-akhund
+  year: 2025
+- round: Early ($9.8M round)
+  slug: yash-doshi
   year: 2025
 last_researched: 2026-07-20
 location: San Francisco, CA

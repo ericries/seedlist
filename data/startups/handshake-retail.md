@@ -9,6 +9,9 @@ firms:
 - round: ~2018
   slug: notable-capital
   year: 2018
+- round: Series C (at Emerson Collective)
+  slug: reach-capital
+  year: 2019
 founded: 2024
 founders:
 - name: Alex Lindsay
@@ -25,6 +28,9 @@ investors:
 - round: ~2018
   slug: jeff-richards
   year: 2018
+- round: Series C (at Emerson Collective)
+  slug: jomayra-herrera
+  year: 2019
 last_researched: 2026-06-13
 location: London, UK
 name: Handshake
