@@ -120,6 +120,7 @@ FJ Labs has invested in 1,192 unique companies with 355 exits as of early 2025 [
 | Forage | Series B ($40M, participated) | 2026-06-03 | Fintech / SNAP-EBT Payments | Active [^22][^23] |
 | Fleek | Series B (participated, $25M; Burda Principal Investments led; eBay, H14 also new; Andreessen Horowitz, HV Capital, Y Combinator existing) | 2026-07-08 | B2B Marketplace / Secondhand Fashion / AI Supply Chain | Active (London-based; USD 45M total raised) [^24][^25][^26] |
 | Cordant | Seed (participated, $8M; Motive Partners and Oak HC/FT co-led; Bitso, Paxos, Bankless VC, SignalFire, Quona, Selah Ventures, FlatironX, SilverCircle, Nascent, Generative Ventures also participated) | 2026-07-21 | Fintech / Payments Infrastructure / Stablecoin | Active (founded 2026 by four former Rapyd leaders — Eric Rosenthal, Lior Levitt, Sagi Ittah, Juan Jose Huezo) [^cor-fj1][^cor-fj2] |
+| Jusfy | Series A (participated, $15M; Quona Capital led; Thomson Reuters Ventures, The LegalTech Fund, SaaSholic, Spectra Investments, Fluent Ventures, Endeavor, Maya Capital also participated) | 2026-07-23 | Legaltech / AI / LatAm | Active (São Paulo-based; founded 2021 by Rafael Saccol Bagolin and Juliano Lima) [^jus-fj1][^jus-fj2][^jus-fj3] |
 
 *Note: This table represents approximately 2.5% of FJ Labs' 1,192 verified investments. Many entries use approximate years based on available sourcing. The firm's portfolio page lists 900+ companies across all sectors and geographies [^14].*
 
@@ -189,3 +190,9 @@ No independently sourced founder testimonials found. FJ Labs' website and market
 [^cor-fj1]: Refresh Miami, "Cordant emerges from stealth with $8M to build the next layer of financial infrastructure," July 2026. Accessed July 2026. https://refreshmiami.com/news/cordant-emerges-from-stealth-with-8m-to-build-the-next-layer-of-financial-infrastructure/ — Confirms Cordant's $8M seed round co-led by Motive Partners and Oak HC/FT with FJ Labs among the named participants.
 
 [^cor-fj2]: TechStartups, "Former Rapyd execs launch Cordant with $8M to help banks and fintechs manage complex payments," July 21, 2026. Accessed July 2026. https://techstartups.com/2026/07/21/former-rapyd-execs-launch-cordant-with-8m-to-help-banks-and-fintechs-manage-complex-payments/ — Independent tech press confirming FJ Labs' participation in Cordant's seed round.
+
+[^jus-fj1]: Law.com Legaltech News, "Brazilian Legal Tech Startup Jusfy Announces $15M Series A Backed by Thomson Reuters and The LegalTech Fund," July 23, 2026. Accessed July 25, 2026. https://www.law.com/legaltechnews/2026/07/23/brazilian-legal-tech-startup-jusfy-announces-15m-series-a-backed-by-thomson-reuters-and-the-legaltech-fund-/ — Primary tier-1 legal press confirming Quona Capital-led $15M Series A with FJ Labs among named participants.
+
+[^jus-fj2]: Pulse 2.0, "Jusfy Raises $15 Million Series A Led By Quona Capital," July 23, 2026. Accessed July 25, 2026. https://pulse2.com/jusfy-raises-15-million-series-a-led-by-quona-capital/ — Independent trade press confirming Quona lead and FJ Labs participation.
+
+[^jus-fj3]: FinSMEs, "Jusfy Raises Series A Funding," July 2026. Accessed July 25, 2026. https://www.finsmes.com/2026/07/jusfy-raises-series-a-funding.html — Third independent source confirming the round syndicate including FJ Labs.

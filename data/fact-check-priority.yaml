@@ -3445,3 +3445,7 @@ priority:
   added: 2026-07-25
   status: resolved
   resolved: 2026-07-25
+- slug: fj-labs
+  type: firm
+  reason: "appeared in Jusfy Series A (2026-07-23), $15M"
+  added: 2026-07-25
