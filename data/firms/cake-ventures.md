@@ -93,9 +93,9 @@ The stated thesis emphasizes the "majority-minority shift" and new consumer demo
 | Joshin | Seed | 2021 | Enterprise / disability support | Acquired (RethinkFirst, 2025) [^1][^20] |
 | Snack | Seed | 2021 | Consumer / dating | Inactive [^11] |
 | Culina Health | Seed; Series A follow-on | 2022; 2024 | Digital health / nutrition | Active [^12][^13] |
-| Eli Health | Seed | 2023 | Digital health / women's health | Active [^14] |
+| Eli Health | Seed ($3.6M USD / $5M CAD; Muse Capital led; RH Capital, Cake Ventures, TELUS Pollinator Fund For Good, Garage Capital, Leva Capital, Real Ventures, Panache, Vectr, MEDTEQ+ participated) | 2023-04-04 | Digital health / women's health | Active [^14][^26][^27] |
 | Frame Fertility | Seed | 2022 | Digital health / fertility | Active [^4][^21] |
-| Aster | Pre-seed (led) | 2024 | Digital health / maternal health | Active [^15] |
+| Aster | Pre-seed ($2.4M; Cake Ventures + Cornerstone VC co-led; Zeal Capital Partners, Octopus Ventures, Sterling Road, Blueprint, Everywhere Ventures + healthcare angels participated) | 2024-01-30 | Digital health / maternal health | Active [^15][^28] |
 | Death Clock | Seed | ~2023 | Digital health / longevity | Active [^4] |
 | Sol Health | Pre-seed | ~2024 | Digital health / mental health | Active [^16] |
 | Tendercare | Pre-seed | ~2023 | Digital health / caregiving | Active [^4] |
@@ -181,4 +181,10 @@ No additional independently sourced founder testimonials found. The McGlory quot
 [^24]: Bright company blog, "Bright Announces Completion of Oversubscribed Funding Round," March 2, 2023. Primary company announcement confirming $2.7M seed co-led by Ringbolt Capital and Triple Impact Capital, with Srikanth Ramachandran joining Bright's Board of Directors. Accessed July 2026. https://www.learnwithbright.com/post/bright-announces-completion-of-oversubscribed-funding-round
 
 [^25]: Futurum Group, "New Funding for Typeface, IrisCX, Bonusly, and Bright Software," March 10, 2023. Trade-press confirmation of the $2.7M seed with full participant list: Ringbolt Capital and Triple Impact Capital (co-leads); Riptide Ventures, Cake Ventures, Blu Venture Investors, deftly.vc, and JHH.vc (participants). Accessed July 2026. https://futurumgroup.com/news/new-funding-for-typeface-iriscx-bonusly-and-bright-software/
+
+[^26]: Eli Health company press page, "Eli Health Raises $3.6 Million to Improve Women's Health with Saliva-Based Continuous Hormone-Monitoring Technology," April 4, 2023. Primary company announcement confirming Muse Capital led the $3.6M USD ($5M CAD) seed with participation from RH Capital and Cake Ventures. Accessed July 2026. https://eli.health/blogs/press/eli-health-raises-3-6-million-to-improve-womens-health-with-saliva-based-continuous-hormone-monitoring-technology
+
+[^27]: Forbes (Marija Butkovic), "Eli Health Raises $3.6 Million To Improve Women's Health With Saliva-Based Continuous Hormone-Monitoring Technology," April 4, 2023. Tier-1 press confirmation of the April 4, 2023 close, lead (Muse Capital), and participants (RH Capital, Cake Ventures). Accessed July 2026. https://www.forbes.com/sites/marijabutkovic/2023/04/04/eli-health-raises-36-million-to-improve-womens-health-with-saliva-based-continuous-hormone-monitoring-technology/
+
+[^28]: People of Color in Tech (POCIT), "Aster Raises $2.4M For Maternal Healthcare Platform In Pre-Seed Round Led By Black VCs," January 30, 2024. Contemporaneous trade press confirming the January 30, 2024 announcement date, $2.4M amount, co-leads Cake Ventures and Cornerstone VC, and participants Zeal Capital Partners, Octopus Ventures, Sterling Road, Blueprint, and Everywhere Ventures. Accessed July 2026. https://peopleofcolorintech.com/articles/aster-raises-2-4m-for-maternal-healthcare-platform-in-pre-seed-round-led-by-black-vcs/
 

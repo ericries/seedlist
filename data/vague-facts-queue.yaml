@@ -2057,7 +2057,9 @@ vague_facts:
   line: '| Amino | Early | ~2019 | Health | Active | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-25
+  note: "Fact-spec sweep 2026-07-25: tightened Acrew Capital Amino row from 'Early | ~2019' to 'Series C (USD 25M; Highland Capital led; Accel, Aspect Ventures [Acrew predecessor firm], CRV, Northwestern Mutual Future Ventures, Pilot Wall Group) | 2017-04-04' via 3 primary sources: GlobeNewswire company press [^44] (2017-04-04), TechCrunch [^45] (2017-04-04), FinSMEs [^46] (April 2017). Documented that Acrew's position originated in Aspect Ventures (Acrew founding partners spun out of Aspect in 2019 and inherited Aspect portfolio positions). 3 new footnotes added ([^44]-[^46])."
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Aqua Security
@@ -2077,7 +2079,9 @@ vague_facts:
   line: '| Arthur | Early | ~2020 | Data & Security / AI | Active | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-25
+  note: "Fact-spec sweep 2026-07-25: tightened Acrew Capital Arthur row from 'Early | ~2020' to 'Series A (USD 15M; Index Ventures led; Acrew Capital + Plexo Capital new; Homebrew, Work-Bench Ventures, AME Ventures returning from seed) | 2020-12-09' via 3 primary sources: Arthur.ai company blog [^47] (2020-12-09), PR Newswire [^48] (2020-12-09), FinSMEs [^49] (December 2020). 3 new footnotes added ([^47]-[^49])."
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Astro
@@ -2087,7 +2091,9 @@ vague_facts:
   line: '| Astro | Early | ~2017 | Data & Security | Acquired (Slack) | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-25
+  note: "Fact-spec sweep 2026-07-25: tightened Acrew Capital Astro row from 'Early | ~2017' to 'Series A (USD 8M; Redpoint Ventures led; Aspect Ventures [Acrew predecessor firm], Harrison Metal, Upside Partnership; acquired by Slack 2018-09-24) | 2017-03-09' via 3 primary sources: TechCrunch [^50] (2017-03-09), Slack company acquisition blog [^51] (2018-09-24), FinSMEs [^52] (March 2017). Documented Aspect Ventures→Acrew spin-out lineage. 3 new footnotes added ([^50]-[^52])."
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: At-Bay
@@ -176195,7 +176201,9 @@ vague_facts:
   line: '| Savor | Early Stage | ~2024 | Food Tech | Active [^5] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-25
+  note: "CORRECTED wrong year: prior '~2024' was inaccurate — BEV's actual investment was the $10M seed round in March 2022 that launched Savor out of Orca Sciences. Updated Savor row on breakthrough-energy-ventures.md from '~2024' to '2022-03' with amount ($10M seed led by BEV) and total funding trajectory ($33M raised through 2024 including subsequent Synthesis Capital Series A in 2023). Sources: existing Crunchbase [^5], NEW CNBC tier-1 [^sv1] (Oct 8, 2025), NEW Snopes fact-check [^sv2]. 2 new footnotes added."
 - profile: firms/breyer-capital
   profile_name: Breyer Capital
   company: Xaira
@@ -176252,7 +176260,9 @@ vague_facts:
     |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-25
+  note: "Tightened Eli Health Seed row on cake-ventures.md from '2023' to '2023-04-04' with amount ($3.6M USD / $5M CAD), lead (Muse Capital), and full syndicate (RH Capital, Cake Ventures, TELUS Pollinator Fund For Good, Garage Capital, Leva Capital, Real Ventures, Panache, Vectr, MEDTEQ+) via 3+ primary sources: existing Femtech Insider [^14] (April 2023), NEW Eli Health company press [^26] (April 4, 2023 primary), NEW Forbes tier-1 [^27] (April 4, 2023). 2 new footnotes added."
 - profile: firms/cake-ventures
   profile_name: Cake Ventures
   company: Aster
@@ -176263,7 +176273,9 @@ vague_facts:
     [^15] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-25
+  note: "Tightened Aster Pre-seed row on cake-ventures.md from '2024' to '2024-01-30' with amount ($2.4M), co-leads (Cake Ventures + Cornerstone VC), and full syndicate (Zeal Capital Partners, Octopus Ventures, Sterling Road, Blueprint, Everywhere Ventures + healthcare angels) via 3+ primary sources: existing AfroTech [^15] (Feb 1, 2024), NEW POCIT [^28] (Jan 30, 2024 contemporaneous). Cross-verified via Monique Woodard's X post (status ID 1752444370962526373 = Jan 30-31, 2024) and Cake Ventures Medium post. 1 new footnote added."
 - profile: firms/cake-ventures
   profile_name: Cake Ventures
   company: Death Clock
