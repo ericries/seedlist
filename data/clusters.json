@@ -8272,7 +8272,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 37,
+      "size": 38,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8450,6 +8450,11 @@
           "slug": "ted-xiao",
           "name": "Ted Xiao",
           "firm": "independent"
+        },
+        {
+          "slug": "guy-fighel",
+          "name": "Guy Fighel",
+          "firm": "hetz-ventures"
         }
       ]
     },
@@ -8657,7 +8662,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 32,
+      "size": 33,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8814,6 +8819,11 @@
           "slug": "justine-moore",
           "name": "Justine Moore",
           "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "nicole-quinn",
+          "name": "Nicole Quinn",
+          "firm": "connect-ventures-caa-nea"
         }
       ]
     },
@@ -9368,7 +9378,7 @@
       "name": "The Israel Connection",
       "tagline": "Investing in or from Israel's legendary startup ecosystem. Deep ties to Unit 8200 alumni, cybersecurity, and deep tech.",
       "type": "curated",
-      "size": 11,
+      "size": 12,
       "members": [
         {
           "slug": "assaf-rappaport",
@@ -9424,6 +9434,11 @@
           "slug": "yotam-segev",
           "name": "Yotam Segev",
           "firm": "cyera"
+        },
+        {
+          "slug": "guy-fighel",
+          "name": "Guy Fighel",
+          "firm": "hetz-ventures"
         }
       ]
     },
@@ -10894,7 +10909,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 69,
+      "size": 71,
       "members": [
         {
           "slug": "aileen-lee",
@@ -11233,6 +11248,16 @@
           "slug": "victoria-beasley",
           "name": "Victoria Beasley",
           "firm": "gigascale-capital"
+        },
+        {
+          "slug": "jomayra-herrera",
+          "name": "Jomayra Herrera",
+          "firm": "reach-capital"
+        },
+        {
+          "slug": "nicole-quinn",
+          "name": "Nicole Quinn",
+          "firm": "connect-ventures-caa-nea"
         }
       ]
     },
@@ -11527,7 +11552,7 @@
       "name": "The Entertainment Tech Investors",
       "tagline": "Gaming, streaming, social, and the creator economy. They understand attention, engagement, and what people do when they're not working.",
       "type": "curated",
-      "size": 15,
+      "size": 16,
       "members": [
         {
           "slug": "bijan-sabet",
@@ -11599,6 +11624,11 @@
         },
         {
           "slug": "randy-lee"
+        },
+        {
+          "slug": "nicole-quinn",
+          "name": "Nicole Quinn",
+          "firm": "connect-ventures-caa-nea"
         }
       ]
     },
@@ -11683,7 +11713,7 @@
       "name": "The Future of Work Investors",
       "tagline": "They backed the tools that replaced the office \u2014 Slack, Figma, Notion, Gusto, Rippling. Betting that how we work matters as much as what we build.",
       "type": "curated",
-      "size": 13,
+      "size": 14,
       "members": [
         {
           "slug": "benny-peretz",
@@ -11747,6 +11777,11 @@
           "slug": "alex-bouaziz",
           "name": "Alex Bouaziz",
           "firm": "deel"
+        },
+        {
+          "slug": "jomayra-herrera",
+          "name": "Jomayra Herrera",
+          "firm": "reach-capital"
         }
       ]
     },
