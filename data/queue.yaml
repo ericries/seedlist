@@ -41364,3 +41364,26 @@ queue:
   added: '2026-03-17'
   discovered_from: yash-doshi
   source: Immad Akhund's $26M debut fund co-managed with Yash Doshi (May 2025)
+- name: Robinhood Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kelai
+  source: co-lead investor in KelAI seed round (2026-07-24)
+- name: Jeremie Cohen
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: KelAI
+  discovered_from: kelai
+  source: Founder/CEO of KelAI
+- name: Zhaoxi Chen
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Ropedia
+  discovered_from: ropedia
+  source: Co-founder/CEO of Ropedia
