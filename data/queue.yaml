@@ -41255,3 +41255,80 @@ queue:
   firm: Immitra Bio (Founder/CEO)
   discovered_from: immitra-bio
   source: founder
+- name: International Finance Corporation
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: carpl-ai
+  source: Led CARPL.ai $10M Series A (2026-07-23); World Bank Group private-sector
+    arm
+- name: Nishant Singh
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: BUSINESSNEXT
+  discovered_from: businessnext
+  source: CEO & Co-Founder of BUSINESSNEXT (Noida-based banking software co.)
+- name: Vidur Mahajan
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: CARPL.ai
+  discovered_from: carpl-ai
+  source: Founder & CEO of CARPL.ai (radiology AI marketplace)
+- name: Farid Fezoua
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: International Finance Corporation
+  discovered_from: carpl-ai
+  source: IFC partner quoted on CARPL.ai Series A
+- name: Alok Goyal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Stellaris Venture Partners
+  discovered_from: carpl-ai
+  source: Stellaris partner quoted on CARPL.ai Series A
+- name: Susquehanna Crypto
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: world
+  source: Co-invested in World token sale $52.5M (2026-07-24)
+- name: Selini Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: world
+  source: Co-invested in World token sale $52.5M (2026-07-24)
+- name: Alex Blania
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Tools for Humanity
+  discovered_from: world
+  source: Co-Founder & CEO of Tools for Humanity (World / Worldcoin)
+- name: Henley Vazquez
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Fora
+  discovered_from: fora
+  source: Co-founder of Fora (travel advisor platform); Series D 2026-07-16
+- name: Foster Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: reo-dev
+  source: Participated in Reo.Dev Series A $11.3M (2026-07-17)
