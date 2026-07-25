@@ -118,10 +118,10 @@ The following table includes investments made both through Acrew Capital funds (
 | Aira | Series A ($13M, co-led) | 2021 | Data & Security / AI | Active | [^21][^22] |
 | Alix | Series A (led, $20M) | 2025-07-22 | Fintech / Estate Settlement | Active | [^23][^24] |
 | AltoIRA | Series A (participated) | 2021 | Fintech | Active | [^12][^26] |
-| Amino | Early | ~2019 | Health | Active | [^12] |
+| Amino | Series C (USD 25M; Highland Capital led; Accel, Aspect Ventures [Acrew predecessor firm], CRV, Northwestern Mutual Future Ventures, Pilot Wall Group participated — position carried into Acrew when Theresia Gouw spun out from Aspect in 2019) | 2017-04-04 | Health | Active | [^12][^44][^45][^46] |
 | Aqua Security | Growth | 2021 | Data & Security | Active | [^12] |
-| Arthur | Early | ~2020 | Data & Security / AI | Active | [^12] |
-| Astro | Early | ~2017 | Data & Security | Acquired (Slack) | [^12] |
+| Arthur | Series A (USD 15M; Index Ventures led; Acrew Capital + Plexo Capital new; Homebrew, Work-Bench Ventures, AME Ventures returning from seed) | 2020-12-09 | Data & Security / AI | Active | [^12][^47][^48][^49] |
+| Astro | Series A (USD 8M; Redpoint Ventures led; Aspect Ventures [Acrew predecessor firm], Harrison Metal, Upside Partnership participated — position carried into Acrew via Aspect spin-out; company acquired by Slack 2018-09-24) | 2017-03-09 | Data & Security | Acquired (Slack, 2018-09-24) | [^12][^50][^51][^52] |
 | At-Bay | Seed–Series D | 2020–2021 | Fintech / Cyber Insurance | Active | [^6][^16] |
 | Bazaar | Early | ~2021 | Data & Security | Active | [^12] |
 | Bilt Rewards | Growth | ~2022 | Fintech | Active | [^12] |
@@ -281,6 +281,24 @@ Note: The above testimonials are sourced from the Acrew Capital website, which r
 [^42]: FinTech Global, "Finix secures $75m in Series C to enhance no-code payment solutions for businesses," October 24, 2024, accessed July 2026. https://fintech.global/2024/10/24/finix-secures-75m-in-series-c-to-enhance-no-code-payment-solutions-for-businesses/ — Independent fintech-specialist press confirmation of the $75M Series C on October 24, 2024, led by Acrew Capital.
 
 [^43]: TechCrunch, "Nomad Homes adds software for real estate agents following $20M capital infusion," October 23, 2023, accessed July 2026. https://techcrunch.com/2023/10/23/nomad-homes-real-estate-20m/ — Primary tier-1 tech press source. Confirms Acrew Capital led $20M Series A extension in Nomad Homes on October 23, 2023, with 01 Advisors, HighSage Ventures, Abstract Ventures, Partech, Precursor Ventures, Potluck Ventures, and Knollwood participating.
+
+[^44]: GlobeNewswire, "Amino Raises $25 Million Series C Round Led by Highland Capital to Achieve Higher Quality, Lower Cost Healthcare for All Americans," April 4, 2017, accessed July 2026. https://www.globenewswire.com/news-release/2017/04/04/1115078/0/en/Amino-Raises-25-Million-Series-C-Round-Led-by-Highland-Capital-to-Achieve-Higher-Quality-Lower-Cost-Healthcare-for-All-Americans.html — Primary company press release. Confirms USD 25M Series C on 2017-04-04 led by Highland Capital Management with Accel, Aspect Ventures, CRV, Northwestern Mutual Future Ventures, and Pilot Wall Group participating. Brought Amino's total funding to ~USD 45M. Aspect Ventures partner participation is the origin of Acrew's Amino position (Theresia Gouw and other Acrew founding partners spun out of Aspect in 2019).
+
+[^45]: TechCrunch, "Amino raises $25 million to match patients with doctors best qualified to help them," April 4, 2017, accessed July 2026. https://techcrunch.com/2017/04/04/amino-raises-25-million-to-match-patients-with-doctors-best-qualified-to-help-them/ — Independent tier-1 tech press confirmation of USD 25M Series C on 2017-04-04, Highland Capital lead, Aspect Ventures among participants.
+
+[^46]: FinSMEs, "Amino Raises $25M in Series C Funding," April 2017, accessed July 2026. https://www.finsmes.com/2017/04/amino-raises-25m-in-series-c-funding.html — Third independent confirmation of USD 25M Series C on 2017-04-04.
+
+[^47]: Arthur.ai company blog, "We've Just Raised Our Series A, and the Journey is Just Beginning," December 9, 2020, accessed July 2026. https://www.arthur.ai/blog/announcing-series-a — Primary company source. Confirms USD 15M Series A on 2020-12-09 led by Index Ventures with participation from aCrew Capital, Homebrew, Work-Bench Ventures, AME Ventures, and Plexo Capital.
+
+[^48]: PR Newswire, "Arthur raises $15M in a Series A round to fill the last-mile gap in the AI software stack," December 9, 2020, accessed July 2026. https://www.prnewswire.com/news-releases/arthur-raises-15m-in-a-series-a-round-to-fill-the-last-mile-gap-in-the-ai-software-stack-301189670.html — Independent primary wire confirmation of USD 15M Series A on 2020-12-09, Index Ventures lead, Acrew + Plexo Capital as new investors, existing Homebrew + Work-Bench + AME Ventures returning.
+
+[^49]: FinSMEs, "Arthur Raises $15M in Series A Funding," December 2020, accessed July 2026. https://www.finsmes.com/2020/12/arthur-raises-15m-in-series-a-funding.html — Third independent confirmation of Arthur USD 15M Series A on 2020-12-09.
+
+[^50]: TechCrunch, "Astro raises an $8 million Series A for its AI-powered email solution for teams," March 9, 2017, accessed July 2026. https://techcrunch.com/2017/03/09/astro-raises-an-8-million-series-a-for-its-ai-powered-email-solution-for-teams/ — Primary tier-1 tech press. Confirms Astro Series A of USD 8M on 2017-03-09 led by Redpoint Ventures with Aspect Ventures, Harrison Metal, and Upside Partnership participating. Aspect Ventures is the source of Acrew's Astro position (spin-out lineage 2019).
+
+[^51]: Slack company blog, "Slack acquires Astro to help email and channels work together," September 24, 2018, accessed July 2026. https://slack.com/blog/news/slack-acquires-astro-to-help-email-and-channels-work-together — Primary acquirer source. Confirms Slack acquired Astro on 2018-09-24; described as Slack's largest acquisition to that date; most of Astro's 28 employees joined Slack.
+
+[^52]: FinSMEs, "Astro Raises $8.3M in Series A Funding," March 2017, accessed July 2026. http://www.finsmes.com/2017/03/astro-raises-8-3m-in-series-a-funding.html — Third independent confirmation of Astro Series A on 2017-03-09; totals ~USD 8.3M with Redpoint lead and Aspect Ventures + Harrison Metal + Upside Partnership participants.
 
 [^44]: Lowenstein Sandler LLP, "Lowenstein Represents Acrew Capital in Series A Extension Round in PropTech Startup Nomad Homes," accessed July 2026. https://www.lowenstein.com/news-insights/firm-news/lowenstein-represents-acrew-capital-in-series-a-extension-round-in-proptech-startup-nomad-homes — Primary source (Acrew's legal counsel). Confirms $20M Series A extension led by Acrew Capital in Nomad Homes (October 2023).
 
