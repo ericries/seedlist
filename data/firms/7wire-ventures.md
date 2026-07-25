@@ -98,12 +98,12 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 | Livongo | Formation / Seed (7wire hatched); Series A ($10M, 2014-09-10, led by General Catalyst) | 2013–2014-09-10 | Chronic disease management | Acquired (Teladoc, $18.5B) | [^11][^1][^48][^49] |
 | Transcarent | Series A ($40M, co-led by General Catalyst (Hemant Taneja) and 7wireVentures (Lee Shapiro); Alta Partners, Jove Equity Partners participated) | 2020-10-22 | Health experience platform | Active (unicorn) | [^12][^13][^50][^51] |
 | NOCD | Seed ($1M; 7wire Ventures lead) | 2018-02-12 | OCD therapy | Active | [^17][^52][^17] |
-| Brightline | Series B | 2021 | Pediatric behavioral health | Active | [^23][^23] |
-| Jasper Health | Seed | 2021 | Oncology care navigation | Active | [^25][^36] |
+| Brightline | Series B ($72M; GV lead; Optum Ventures, 7wireVentures, Gaingels new; Oak HC/FT, Threshold Ventures, Blue Shield of California, Blue Cross Blue Shield of Massachusetts, SemperVirens VC, City Light Capital returning) | 2021-06-16 | Pediatric behavioral health | Active | [^23][^56][^57] |
+| Jasper Health | Seed ($6.75M; co-led by 7wireVentures and Redesign Health) | 2021-05-12 | Oncology care navigation | Active | [^25][^36][^58][^59] |
 | Zerigo Health | Early | 2014 | Dermatology / phototherapy | Active | [^20][^37] |
 | FOLX Health | Series B | 2022 | LGBTQIA+ virtual care | Active | [^21][^38] |
 | Parsley Health | Growth | 2023-10 | Chronic disease virtual clinic | Active | [^26][^5] |
-| PayZen | Series A | 2021 | Healthcare affordability | Active | [^18][^39] |
+| PayZen | Series A ($15M; SignalFire lead; Link Ventures, 7wireVentures new; Viola Ventures, Picus Capital returning) | 2021-11-17 | Healthcare affordability | Active | [^18][^39][^60][^61] |
 | Homethrive | Series A | 2020 | Caregiving / aging in place | Active | [^19][^24] |
 | MedArrive | Series A | 2021 | At-home care delivery | Active | [^22][^40] |
 | GroundGame.Health | Series A | 2024 | Population health / SDOH | Active | [^27][^41] |
@@ -210,3 +210,15 @@ No additional independently sourced founder testimonials found beyond 7wire's ow
 [^54]: MobiHealthNews (Jonah Comstock), "ConsejoSano raises $4.9M for Spanish-language healthcare services platform," February 13, 2017. Accessed July 23, 2026. https://www.mobihealthnews.com/news/consejosano-raises-49m-spanish-language-healthcare-services-platform — Independent trade-press primary confirmation of ConsejoSano's Series A. Names 7wire Ventures as lead and lists the full participant syndicate. Published a week before the official PR Newswire release (early access coverage).
 
 [^55]: MedCity News, "Telehealth startup for Spanish speakers raises $4.9M to expand staff and product development," February 23, 2017. Accessed July 23, 2026. https://medcitynews.com/2017/02/telehealth-startup-for-spanish-speakers-raises-4-9m/ — Second independent trade-press primary source for ConsejoSano's Series A on 2017-02-21. Confirms 7wire Ventures lead role and participant list. Also captures founder Abner Mason's product roadmap for the round.
+
+[^56]: MobiHealthNews, "Pediatric-focused mental health startup Brightline scores $72M in Series B funding," June 17, 2021. Accessed July 25, 2026. https://www.mobihealthnews.com/news/pediatric-focused-mental-health-startup-brightline-scores-72m-series-b-funding — Independent trade-press primary confirmation of Brightline's $72M Series B (announced 2021-06-16), GV lead, with 7wireVentures, Optum Ventures, and Gaingels as new investors plus $7M venture debt from SVB.
+
+[^57]: Behavioral Health Business, "Brightline Hauls in $72M in Funding, Plans to Expand," June 17, 2021. Accessed July 25, 2026. https://bhbusiness.com/2021/06/17/brightline-hauls-in-72m-in-funding-plans-to-expand/ — Third independent primary source for Brightline's Series B confirming amount, lead (GV), and 7wireVentures participation.
+
+[^58]: HIT Consultant, "Redesign Health Spinout Jasper Health Launches AI-Driven Cancer Care Platform," May 12, 2021. Accessed July 25, 2026. https://hitconsultant.net/2021/05/12/jasper-health-cancer-care-platform-launch/ — Independent trade-press primary confirmation of Jasper Health's $6.75M seed (announced 2021-05-12), co-led by 7wireVentures and Redesign Health. Notes Lee Shapiro joining Jasper's board.
+
+[^59]: BusinessWire, "Jasper Health Launches Comprehensive Support Platform for Individuals With Cancer and Their Caregivers," May 12, 2021. Accessed July 25, 2026. https://www.businesswire.com/news/home/20210512005663/en/Jasper-Health-Launches-Comprehensive-Support-Platform-for-Individuals-With-Cancer-and-Their-Caregivers — Primary press release from Jasper Health confirming $6.75M seed co-led by 7wireVentures and Redesign Health on 2021-05-12.
+
+[^60]: PR Newswire, "SignalFire Backs 'Care Now, Pay Later' Pioneer PayZen to Fuel Healthcare Affordability," November 17, 2021. Accessed July 25, 2026. https://www.prnewswire.com/news-releases/signalfire-backs-care-now-pay-later-pioneer-payzen-to-fuel-healthcare-affordability-301425873.html — Primary press release confirming PayZen's $15M Series A (announced 2021-11-17) led by SignalFire with Link Ventures and 7wireVentures as new investors plus Viola Ventures and Picus Capital returning.
+
+[^61]: TechCrunch, "PayZen secures $15M Series A for 'care now, pay later' healthcare platform," November 17, 2021. Accessed July 25, 2026. https://techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform — Independent contemporaneous press confirmation of PayZen's $15M Series A on 2021-11-17, SignalFire lead, full participant list.

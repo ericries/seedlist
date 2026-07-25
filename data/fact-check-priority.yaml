@@ -3427,3 +3427,21 @@ priority:
   type: startup
   reason: "new profile — IFC-led $10M Series A with Stellaris (2026-07-23)"
   added: 2026-07-24
+- slug: acme-capital
+  type: firm
+  reason: "Fact-spec sweep 2026-07-25: tightened 1 year-only Portfolio row (Cue Health) to 2020-06-10 via 3+ primary sources. 3 new footnotes added."
+  added: 2026-07-25
+  status: resolved
+  resolved: 2026-07-25
+- slug: 7wire-ventures
+  type: firm
+  reason: "Fact-spec sweep 2026-07-25: tightened 3 year-only Portfolio rows (Brightline, Jasper Health, PayZen) with YYYY-MM-DD dates via 3+ primary sources each. 6 new footnotes added."
+  added: 2026-07-25
+  status: resolved
+  resolved: 2026-07-25
+- slug: aleph
+  type: firm
+  reason: "Fact-spec sweep 2026-07-25: tightened 2 year-only Portfolio rows (Bringg, HoneyBook) with YYYY-MM-DD dates via 3+ primary sources each. Bringg row also CORRECTED from Series A to Series B ($10M, 2017-03-14, led Aleph with Coca-Cola + Pereg Ventures). HoneyBook Series A confirmed 2014-09-22 ($10M led Aleph with Hillsven, Ev Williams, Naval Ravikant, others). 6 new footnotes added."
+  added: 2026-07-25
+  status: resolved
+  resolved: 2026-07-25

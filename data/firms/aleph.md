@@ -83,7 +83,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | Anecdotes | Seed | 2020 | Data Infrastructure | Active | [^9] |
 | Approve | Seed | 2020 | Fintech | Acquired by Tipalti | [^9] |
 | Brew | Seed | 2020 | Logistics | Active | [^9] |
-| Bringg | Series A | ~2017 | Logistics | Active | [^9] |
+| Bringg | Series B | 2017-03-14 | Logistics | Active | [^9] [^32] [^33] [^34] |
 | Centrical | Series A | ~2019 | HR Tech | Active | [^9] |
 | Colu | Seed | ~2015 | Fintech | Acquired by HBSS Connect | [^9] |
 | Compete | Seed | 2021 | HR Tech | Active | [^9] |
@@ -103,7 +103,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | Geoquant | Seed | ~2017 | Data Infrastructure | Acquired by Fitch Ratings | [^9] |
 | Grain | Seed | 2022 | Fintech | Active | [^9] |
 | Healthy.io | Series A | ~2018 | Healthcare | Active | [^9] |
-| HoneyBook | Series A | ~2014 | Fintech / SMB | Active (Unicorn) | [^9] |
+| HoneyBook | Series A | 2014-09-22 | Fintech / SMB | Active (Unicorn) | [^9] [^35] [^36] [^37] |
 | Houseparty | Seed | ~2016 | Consumer | Acquired by Epic Games | [^9] |
 | Jiga | Series A | 2025-11-18 | Software / Manufacturing | Active | [^17] |
 | Lemonade | Seed | ~2015 | Insurtech | IPO: NYSE LMND | [^9] |
@@ -232,3 +232,15 @@ No additional independently sourced founder testimonials found beyond the Aleph 
 [^30]: Aleph LinkedIn announcement post, "Introducing Ohr, the company that will free industries from…," January 2025, accessed July 15, 2026. https://www.linkedin.com/posts/aleph-vc_introducing-ohr-the-company-that-will-free-activity-7285253617979133953-W59V — Primary source. Public unveiling of Ohr by Aleph on January 16, 2025 (per LinkedIn post ID). Confirms Michael Eisenberg as investing partner and founder Dan Davidi's sulfur-free rocket fuel focus.
 
 [^31]: Dan Davidi (Ohr founder-CEO) LinkedIn mirror post, "Introducing Ohr, the company that will free industries from…," January 2025, accessed July 15, 2026. https://www.linkedin.com/posts/dan-davidi_introducing-ohr-the-company-that-will-free-activity-7285257365052940289-Oa8W — Primary source. Founder confirmation of Ohr's public launch, minutes after Aleph's announcement on January 16, 2025.
+
+[^32]: Aleph blog / Medium, Aaron Rosenson, "Announcing Aleph's Investment in Bringg," March 14, 2017, accessed July 25, 2026. https://www.aleph.vc/content/announcing-alephs-investment-in-bringg — Primary source (firm-issued announcement). Confirms Aleph's $10M Series B investment in Bringg, announced March 14, 2017.
+
+[^33]: TechCrunch, Ingrid Lunden, "Delivery management platform Bringg raises $10 million to help any business take on Amazon," March 14, 2017, accessed July 25, 2026. https://techcrunch.com/2017/03/14/delivery-management-platform-bringg-raises-10-million-to-help-any-business-take-on-amazon/ — Contemporaneous tier-1 press confirmation. $10M Series B led by Aleph VC with Coca-Cola and prior investor Pereg Ventures participating. Total raised to date: $19M.
+
+[^34]: SiliconANGLE, "Israeli enterprise logistics startup Bringg raises $10M in new round," March 14, 2017, accessed July 25, 2026. https://siliconangle.com/2017/03/14/israeli-enterprise-logistics-startup-bringg-raises-10m-new-round/ — Independent primary press confirmation. $10M Series B; lead Aleph VC; participants Coca-Cola and Pereg Ventures; prior investors Cambridge Capital and Ituran.
+
+[^35]: NoCamels, "Event Planning Platform HoneyBook Raises $10M," September 23, 2014, accessed July 25, 2026. https://nocamels.com/2014/09/event-planning-platform-honeybook-raises-10m/ — Contemporaneous Israeli tech press confirmation. $10M Series A led by Aleph VC with Hillsven VC, Ev Williams, James Currier, and Stan Chudnovsky (Ooga Labs) participating, among others.
+
+[^36]: Venture Capital Journal, "Aleph VC leads $10 mln round for HoneyBook," September 22, 2014, accessed July 25, 2026. https://www.venturecapitaljournal.com/aleph-vc-leads-10-mln-round-for-honeybook/ — Independent trade press confirmation of $10M Series A led by Aleph VC.
+
+[^37]: StartupHub.ai, "HoneyBook Series A" round profile, September 22, 2014, accessed July 25, 2026. https://www.startuphub.ai/investment_rounds/honeybook-raises-10-million/ — Independent round profile confirming September 22, 2014 announcement of $10M Series A led by Aleph, with Hillsven Capital, UpWest Labs, Ben Narasin, and Naval Ravikant participating.

@@ -98,7 +98,7 @@ Based on 31 verified portfolio companies from the highlighted portfolio and publ
 |---------|-------|------|--------|--------|
 | IonQ | Early Stage | ~2019 | Quantum Computing | IPO (NYSE: IONQ) [^3] |
 | Astra | Early Stage | ~2018 | Aerospace | IPO via SPAC (NASDAQ: ASTR, 2021) [^13] |
-| Cue Health | Series C+ | 2020 | Diagnostics / Health | IPO (NASDAQ: HLTH, 2021) [^14] |
+| Cue Health | Series C ($100M; participated alongside Decheng Capital, Foresite Capital, Madrone Capital Partners, Johnson & Johnson Innovation) | 2020-06-10 | Diagnostics / Health | IPO (NASDAQ: HLTH, 2021) [^14][^53][^54][^55] |
 | DraftKings | Early Stage | ~2015 | Gaming / Sports | IPO (NASDAQ: DKNG) [^5] |
 | Braintrust | Early Stage | ~2020 | Enterprise / Web3 | Public (BTRST) [^15] |
 | True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | Active [^10][^22] |
@@ -256,3 +256,9 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^51]: MobiHealthNews (Anthony Vecchione), "Arya Health lands $18.2M to expand post-acute platform," October 30, 2025, accessed July 2026. https://www.mobihealthnews.com/news/arya-health-lands-182m-expand-post-acute-platform — Independent healthcare-IT press confirmation of $18.2M Series A led by ACME Capital with Ridge Ventures, Twelve Below, and OpenAI executives participating; total raised $25M.
 
 [^52]: HITConsultant, "Arya Health Secures $18.2M to Automate Post-Acute Care with AI Agent Teams," October 29, 2025, accessed July 2026. https://hitconsultant.net/2025/10/29/arya-health-secures-18-2m-to-automate-post-acute-care-with-ai-agent-teams/ — Independent healthcare-IT press confirmation of $18.2M Series A led by ACME Capital with Ridge Ventures, Twelve Below, and OpenAI executives participating.
+
+[^53]: TechCrunch, "Cue Health raises $100 million to speed development of rapid, portable COVID-19 diagnostics," June 10, 2020, accessed July 2026. https://techcrunch.com/2020/06/10/cue-health-raises-100-million-to-speed-development-of-rapid-portable-covid-19-diagnostics/ — Contemporaneous primary press coverage confirming the $100M Series C closed on June 10, 2020, with participation from Decheng Capital, Foresite Capital, Madrone Capital Partners, Johnson & Johnson Innovation, and ACME Capital.
+
+[^54]: GlobeNewswire (Cue Health Inc. press release), "Cue Health Closes $100 Million Series C Financing to Support Launch of Rapid Molecular Testing Platform," June 10, 2020, accessed July 2026. https://www.globenewswire.com/news-release/2020/06/10/2046258/0/en/Cue-Health-Closes-100-Million-Series-C-Financing-to-Support-Launch-of-Rapid-Molecular-Testing-Platform.html — Primary source (company press release on official press wire). Confirms $100M Series C closed on June 10, 2020, with Decheng Capital, Foresite Capital, Madrone Capital Partners, Johnson & Johnson Innovation - JJDC, Inc., and ACME Capital named as participants; Goldman Sachs & Co. acted as exclusive placement agent.
+
+[^55]: Yahoo Finance (syndicated Cue Health press release), "Cue Health Closes $100 Million Series C Financing to Support Launch of Rapid Molecular Testing Platform," June 10, 2020, accessed July 2026. https://finance.yahoo.com/news/cue-health-closes-100-million-130010484.html — Independent syndication of the June 10, 2020 press release confirming $100M Series C with ACME Capital named among participants alongside Decheng Capital, Foresite Capital, Madrone Capital Partners, and Johnson & Johnson Innovation - JJDC, Inc.
