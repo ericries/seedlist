@@ -9712,7 +9712,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 144,
+      "size": 145,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10370,6 +10370,11 @@
           "slug": "julien-chaumond",
           "name": "Julien Chaumond",
           "firm": "hugging-face"
+        },
+        {
+          "slug": "marc-weiser",
+          "name": "Marc Weiser",
+          "firm": "rpm-ventures"
         }
       ]
     },
