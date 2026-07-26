@@ -54,7 +54,7 @@ Sample size caveat: only a minority of his reported 29 portfolio companies have 
 | Gabit | 2023 | Seed (~$9.5M) | [^5] |
 | Park+ | ~2021 | Angel | [^5] |
 | Ultrahuman | ~2020 | Angel/Seed | [^5] |
-~unknown| Scripbox | Undisclosed | Angel | [^5] |
+| Scripbox | 2015-08-13 | Series A angel participant (₹16 Cr / ~$2.5M round led by Accel Partners; alongside Deep Kalra, Rajesh Magow, Shamik Sharma, Subba Rao Telidevara) | [^5][^7][^8][^9] |
 ~unknown| HexaHealth | Undisclosed | Angel | [^5] |
 | BabyChakra | Pre-2021 | Angel (Exit: acquired Aug 2021) | [^4] |
 | Runnr | Pre-2017 | Angel (Exit: acquired Sep 2017) | [^4] |
@@ -100,3 +100,6 @@ No independently sourced founder testimonials about Mohit Gupta's angel investin
 [^4]: Tracxn investor profile, "Mohit Gupta – 2026 Portfolio & Founded Companies," accessed June 2026. https://tracxn.com/d/people/mohit-gupta/__E9u_QVsTIAKyPraHHQ8usRnG8LR1RrDgaRj1_9A-X2w
 [^5]: Planify, "Mohit Gupta Portfolio, Shareholdings & Investments," accessed June 2026. https://www.planify.in/investors/mohit-gupta/
 [^6]: Entrackr, "Peak XV's Surge leads $2.5 Mn seed round in Elivaas," November 27, 2023, accessed June 2026. https://entrackr.com/2023/11/peak-xvs-surge-leads-2-5-mn-seed-round-in-elivaas/
+[^7]: YourStory, "Fintech startup Scripbox announces Series A funding of INR 16 crores," August 13, 2015. Accessed July 2026. https://yourstory.com/2015/08/scripbox-series-a — Primary press for Scripbox Series A. Confirms round closed August 2015, ₹16 crore led by Accel Partners with angel participants Deep Kalra, Rajesh Magow, Mohit Gupta (all MakeMyTrip), Shamik Sharma (Myntra), Subba Rao Telidevara (former Actis partner).
+[^8]: Entrepreneur India, "With an aim to simplify investment needs, Scripbox bags Rs 16 cr from Deep Kalra, Accel Partners," August 2015. Accessed July 2026. https://india.entrepreneur.com/business-news/with-an-aim-to-simplify-investment-needs-scripbox-bags-rs/249684 — Corroborates ₹16 crore Series A led by Accel Partners; names Mohit Gupta (then MakeMyTrip COO) among angel investor group.
+[^9]: Finch Capital / Business Wire syndication, "Bangalore-based fintech startup Scripbox raises $2.5M from Accel Partners & others," August 2015. Accessed July 2026. https://news.finchcapital.com/post/102cwft/bangalore-based-fintech-startup-scripbox-raises-2-5m-from-accel-partners-other — USD-denominated confirmation of Series A ($2.5M) led by Accel Partners with angel participants including Mohit Gupta.

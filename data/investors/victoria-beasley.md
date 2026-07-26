@@ -67,7 +67,7 @@ Focused on companies where Beasley personally held a board seat or board observe
 | Dioxycle | 2023-07-26 | Series A ($17M; participant; co-leads Lowercarbon Capital, Breakthrough Energy Ventures Europe) | [^11] |
 | Estes | 2026-07-21 | Emergence from stealth (Gigascale disclosed as backer alongside BMW iVentures, Fortescue Capital, DCVC, Baukunst) | [^12] |
 | Homeboost | 2024-10 | Seed ($4M; lead group: True Ventures, Gigascale, Incite.org) | [^14] |
-| Light Energy | ~2024 (Gigascale portfolio disclosure) | Undisclosed | [^1] |
+| Light (Light Energy, LLC / Light Technology, Inc.; embedded electricity platform; founders Baker Shogry ex-Plaid + Adam Compain ex-ClearMetal/Google; TX REP certificate issued 2024-04-12) | ~2024-2025 (Gigascale + Spark Capital + Mischief + Box Group + MCJ named on Light's About page; no round terms publicly disclosed) | Undisclosed | [^1][^15][^16][^17] |
 
 ### At Prelude Ventures (selected)
 
@@ -126,3 +126,6 @@ No independently sourced founder testimonials found.
 [^12]: GlobeNewswire, "Estes Emerges from Stealth Shipping Magnus Battery System, Unveils Levius, a Full-Stack Magnesium Processing Platform," July 21, 2026. https://www.globenewswire.com/news-release/2026/07/21/3330551/0/en/Estes-Emerges-from-Stealth-Shipping-Magnus-Battery-System-Unveils-Levius-a-Full-Stack-Magnesium-Processing-Platform.html
 [^13]: VCSheet, "Victoria Beasley (Prelude Ventures) VC Breakdown & Contact," accessed July 2026. https://www.vcsheet.com/who/victoria-beasley
 [^14]: Palo Alto Today / national coverage, "HomeBoost Raises $4M in Seed Funding," October 2024. https://www.finsmes.com/2024/10/homeboost-raises-4m-in-seed-funding.html
+[^15]: Light (poweredbylight.com), "About: We're rebuilding the power grid for a fully renewable future," accessed July 2026. https://www.poweredbylight.com/about — Company's own About page names co-founders Baker Shogry (ex-Plaid Head of Product & Operations) and Adam Compain (ex-CEO ClearMetal, ex-Google New Product Incubation Lead), and lists investors: Spark Capital, Mischief, Gigascale Capital, Box Group, MCJ. No specific round type, date, or amount disclosed on the page.
+[^16]: EnergyChoiceMatters.com, "Start-up Retail Provider Led by FinTech, AI, & Digital Transformation Vets Receives Texas REP Certificate," April 12, 2024. https://www.energychoicematters.com/stories/20240412a.html — Confirms Light Energy, LLC (a Light Technology, Inc. subsidiary) received its Texas Retail Electric Provider Option 1 certificate on 2024-04-12. Names Baker Shogry as President and Adam Compain as Secretary. No funding details disclosed.
+[^17]: Stealth Startup Spy #156 (Drake Dukes on Substack), covering Light (poweredbylight.com), accessed July 2026. https://stealthstartupspy.substack.com/p/stealth-startup-spy-156 — Confirms Light was in stealth for ~13 months prior to public emergence (Austin, TX; team size 2). No round terms disclosed. Consistent with "no primary press release" pattern — Gigascale's investment is only disclosed via firm and company portfolio pages, not any dated funding announcement.

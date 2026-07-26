@@ -124806,14 +124806,16 @@ vague_facts:
   status: pending
 - profile: investors/mohit-gupta
   profile_name: Mohit Gupta
-  company: ~unknown
+  company: Scripbox
   section: Portfolio
   column: 2
   value: Undisclosed
   line: ~unknown| Scripbox | Undisclosed | Angel | [^5] |
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-26
+  note: "Fact-spec sweep 2026-07-26: tightened Scripbox row from vague 'Undisclosed | Angel' to '2015-08-13 | Series A angel participant (INR 16 Cr / ~USD 2.5M round led by Accel Partners; alongside Deep Kalra, Rajesh Magow, Shamik Sharma, Subba Rao Telidevara)' via 3 primary sources: YourStory [^7] (August 13, 2015 Series A announcement naming Mohit Gupta as MakeMyTrip COO angel investor), Entrepreneur India [^8] (corroborating angel list), and Finch Capital / BusinessWire syndication [^9] (USD-denominated confirmation at USD 2.5M). Existing Planify [^5] aggregator listing retained. 3 new footnotes added ([^7], [^8], [^9])."
 - profile: investors/mohit-gupta
   profile_name: Mohit Gupta
   company: BabyChakra
@@ -139001,14 +139003,16 @@ vague_facts:
   status: pending
 - profile: investors/ramtin-naimi
   profile_name: Ramtin Naimi
-  company: ~unknown
+  company: dYdX
   section: Portfolio
   column: 2
   value: Unknown
   line: ~unknown| dYdX | Unknown | Unknown | Crypto / DeFi | [^7] |
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-26
+  note: "Fact-spec sweep 2026-07-26: tightened dYdX row from 'Unknown | Unknown' to 'Seed (participated) + Series A (continued support) | 2017-12-19 (seed); 2018-10-19 (Series A, USD 10M co-led a16z crypto + Polychain)' via 2 primary sources (both dYdX founder/company Medium blog posts): [^dydx-seed] Antonio Juliano (dYdX founder), December 19, 2017 seed announcement explicitly naming Abstract Ventures among participants; [^dydx-a] Zhuoxun Yin, October 19, 2018 USD 10M Series A explicitly naming Abstract Ventures as continuing investor alongside Kindred Ventures, 1confirmation, Elad Gil, Fred Ehrsam. Plus existing F4.Fund / Abstract portfolio listing [^7]. 2 new footnotes added ([^dydx-seed], [^dydx-a])."
 - profile: investors/randy-lee
   profile_name: Randy Lee
   company: Ironwood Studios
@@ -164531,7 +164535,9 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-26
+  note: "Fact-spec sweep 2026-07-26: verified company identity (Light Energy, LLC — a subsidiary of Light Technology, Inc.; embedded electricity platform; poweredbylight.com) and expanded row with founder names (Baker Shogry ex-Plaid + Adam Compain ex-ClearMetal/Google), Texas REP certificate date (2024-04-12), and full disclosed investor list (Spark Capital, Mischief, Gigascale Capital, Box Group, MCJ) per company's own About page. NO round type, date, or amount is publicly disclosed in any primary source — Gigascale's participation is only surfaced via the company's own About page and the Gigascale firm portfolio page, with no dated funding announcement in press. Marked unresolvable on the amount specifically but row is now much richer. 3 new footnotes ([^15] company About page + [^16] EnergyChoiceMatters TX REP certificate + [^17] Stealth Startup Spy)."
 - profile: investors/victoria-beasley
   profile_name: Victoria Beasley
   company: Persefoni

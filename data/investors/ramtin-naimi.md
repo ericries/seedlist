@@ -116,7 +116,7 @@ While Abstract claims to be "sector-agnostic," the portfolio shows a strong conc
 | Material Security | Seed (angel) | 2017-07 | Security / Cybersecurity | [^7][^29][^34] |
 | Natural | Series A ($30M, participated) | 2026-07-20 | Fintech / AI Agent Payments | [^natural-a] |
 | Polymarket | Undisclosed round (Abstract listed on own portfolio + aggregator, but NOT named in Forbes primary press for 2020-10-19 $4M seed led by Polychain, or Tracxn's Series A/B/C/D investor lists) | ~2020–2024 | Crypto / Prediction Markets | [^10][^35][^36] |
-~unknown| dYdX | Unknown | Unknown | Crypto / DeFi | [^7] |
+| dYdX | Seed (participated) + Series A (continued support) | 2017-12-19 (seed); 2018-10-19 (Series A, $10M co-led a16z crypto + Polychain) | Crypto / DeFi | [^7][^dydx-seed][^dydx-a] |
 ~unknown| Avalanche | Unknown | Unknown | Crypto / Blockchain | [^7] |
 ~unknown| Optimism | Unknown | Unknown | Crypto / L2 | [^7] |
 ~unknown| Crossmint | Unknown | Unknown | Crypto / Infrastructure | [^7] |
@@ -220,3 +220,7 @@ Michael Ovitz, former president of Disney and founder of CAA, has referred to Na
 [^36]: Tracxn, "Polymarket Funding Rounds & List of Investors," accessed July 2026. https://tracxn.com/d/companies/polymarket/__tyGnhK6h0nNQwFjEILKwDY6EySuY3ysyYIqXEnHEd9g/funding-and-investors — Full aggregator investor list across Seed (Jul 2020), Series A (2021), Series B (May 14, 2024), Series C (Oct 04, 2024), Series D (2025). Abstract Ventures and Ramtin Naimi NOT named in any round.
 
 [^natural-a]: "Natural Raises $30M Series A to Build Payments Infrastructure for AI Agents," PR Newswire, July 20, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/natural-raises-30m-series-a-to-build-payments-infrastructure-for-ai-agents-302829855.html — Series A led by Forerunner Ventures (Kirsten Green) with Ramtin Naimi listed as individual investor.
+
+[^dydx-seed]: Antonio Juliano (dYdX founder), "dYdX raises seed round led by Andreessen Horowitz and Polychain Capital," dYdX Derivatives (Medium), December 19, 2017. Accessed July 2026. https://medium.com/dydxderivatives/dydx-raises-seed-round-led-by-andreessen-horowitz-and-polychain-capital-f15d0e9ca16a — Primary source (founder's own blog post). Seed round dated 2017-12-19, co-led by Andreessen Horowitz (Chris Dixon) and Polychain Capital (Olaf Carlson-Wee). Named participants: Fred Ehrsam, Brian Armstrong, Elad Gil, Scott Belsky, Avichal Garg, Kindred Ventures, **Abstract Ventures**, 1confirmation, "and many more great angel and seed investors." Abstract Ventures explicitly named.
+
+[^dydx-a]: Zhuoxun Yin (dYdX), "dYdX raises $10M Series A led by a16z crypto and Polychain Capital," dYdX Derivatives (Medium), October 19, 2018. Accessed July 2026. https://medium.com/dydxderivatives/dydx-raises-10m-series-a-1250b7e0e1df — Primary source (company's own blog post). $10M Series A dated 2018-10-19, co-led by a16z crypto (Chris Dixon) and Polychain Capital (Olaf Carlson-Wee). Cites "continued support from Abstract Ventures, Kindred Ventures, 1confirmation, Elad Gil and Fred Ehrsam" alongside new investors Craft Ventures, Bain Capital Ventures, Naval Ravikant, Kevin Hartz, Dragonfly Capital, and VY Capital. Abstract Ventures explicitly named as continuing investor.
