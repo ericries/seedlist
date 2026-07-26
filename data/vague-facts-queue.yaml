@@ -176408,7 +176408,9 @@ vague_facts:
   line: '| Abridge | Series D | 2025 | AI/Healthcare | Active | [^52] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-25
+  note: "Tightened Abridge Series D row on capitalg.md from '2025' to '2025-02-17' with amount (USD 250M), co-leads (Elad Gil, IVP), and full syndicate (Bessemer, California Health Care Foundation, CapitalG, CVS Health Ventures, K. Ventures, Lightspeed, NVentures, Redpoint, Spark, SV Angel) via 3 primary sources: NEW Abridge company press release [^abridge-d1] (Feb 17, 2025 primary), NEW BusinessWire [^abridge-d2] (Feb 17, 2025 wire), NEW MobiHealthNews [^abridge-d3] (Feb 17, 2025 trade press). 3 new footnotes added."
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Baseten
@@ -176429,7 +176431,9 @@ vague_facts:
     |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-25
+  note: "Tightened Physical Intelligence Series B row on capitalg.md from '2025' to '2025-11-20' with amount (USD 600M), valuation (USD 5.6B post-money), co-leads (CapitalG and Lux Capital), and full syndicate (Bond, Redpoint, Sequoia; returning Jeff Bezos, OpenAI, Thrive, T. Rowe Price) via 3 primary sources: NEW The Robot Report [^pi-b1] (Nov 2025 trade press with CapitalG partner quote), NEW VCNewsDaily [^pi-b2] (Nov 24, 2025), NEW AI Deals Index [^pi-b3] (Nov 20, 2025). 3 new footnotes added."
 - profile: firms/capitalg
   profile_name: CapitalG
   company: OMNIA Partners
@@ -176450,7 +176454,9 @@ vague_facts:
   line: '| Lovable | Series B | 2025 | AI/DevTools | Active | [^55] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-25
+  note: "Tightened Lovable Series B row on capitalg.md from '2025' to '2025-12-18' with amount (USD 330M), valuation (USD 6.6B), co-leads (CapitalG and Menlo Ventures Anthology fund), and full syndicate (NVentures, Salesforce Ventures, Databricks Ventures, T.Capital, Atlassian, HubSpot, Khosla, DST Global, EQT Growth, Kinship + returning Accel, Creandum, Evantic) via 3 primary sources: NEW Lovable company blog [^lov-b1] (Dec 18, 2025 primary with CapitalG MP quote), NEW TechCrunch [^lov-b2] (Dec 18, 2025 tier-1), NEW The SaaS News [^lov-b3] (Dec 2025). 3 new footnotes added."
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Nibol
