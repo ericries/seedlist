@@ -9,8 +9,8 @@ stage_focus: [seed, series-a]
 sector_focus: [developer-tools, ai, infrastructure, devops, open-source]
 check_size: "Undisclosed (small angel checks)"
 last_verified_investment:
-  date: 2026-03-02
-  company: "Tangled"
+  date: 2026-07-23
+  company: "imagi"
   round: "Seed"
 social:
   twitter: "@ashtom"
@@ -46,6 +46,7 @@ This analysis is based on 3 independently verified investments plus aggregator c
 | Resolve AI | 2024-10-01 | Seed ($35M, led by Greylock) | [^4][^8][^9][^10] |
 | Doppler | 2022-04-26 | Series A ($20M, led by CRV) | [^4][^5][^11][^12][^13] |
 | Tangled | 2026-03-02 | Seed (€3.8M) | [^6][^7] |
+| imagi | 2026-07-23 | Seed ($4.5M, led by Brighteye Ventures & Day One Capital) | [^14][^15] |
 
 Aggregators list two additional unnamed investments that could not be independently verified in primary sources and are therefore excluded [^4][^5].
 
@@ -80,3 +81,5 @@ No independently sourced founder testimonials about working with Thomas Dohmke a
 [^11]: Doppler blog, "$20m Series A to build the first SecretOps Platform," April 26, 2022. https://www.doppler.com/blog/series-a-announcement
 [^12]: TechCrunch, "Doppler lands $20M to help companies manage their app secrets," April 27, 2022. https://techcrunch.com/2022/04/27/doppler-lands-20m-to-help-companies-manage-their-app-secrets/
 [^13]: TechStartups, "Doppler raises $20M led by CRV to help developers seamlessly manage and secure application secrets at scale," April 27, 2022. https://techstartups.com/2022/04/27/doppler-raises-20-million-led-crv-help-developers-seamlessly-manage-secure-application-secrets-scale/
+[^14]: "Edtech platform raises $4.5M to help teach students how to vibe code," TechCrunch, July 23, 2026. Accessed July 25, 2026. https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/ — Names Thomas Dohmke among angel participants.
+[^15]: "imagi raises $4.5M seed to expand AI literacy platform for schools," Vestbee, July 2026. Accessed July 25, 2026. https://www.vestbee.com/insights/articles/imagi-raises-4-5-m

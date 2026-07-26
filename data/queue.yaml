@@ -41496,3 +41496,118 @@ queue:
   firm: EQT Ventures
   discovered_from: clem-delangue
   source: EQT Ventures partner who led Beside Series A
+- name: Bison Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: inner-logic
+  source: Co-led Inner Logic $11.5M seed with General Catalyst (2026-07-22)
+- name: Nuance Connected Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wellumio
+  source: Led Wellumio $9.75M pre-Series A (2026-07-24) and prior Feb 2026 round
+- name: Brighteye Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: imagi
+  source: Co-led imagi $4.5M seed with Day One Capital (2026-07-23)
+- name: Day One Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: imagi
+  source: Co-led imagi $4.5M seed with Brighteye Ventures (2026-07-23)
+- name: Bioshore Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wellumio
+  source: Participated in Wellumio $9.75M pre-Series A (2026-07-24); Australian medtech
+    investor
+- name: Jumpspace Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wellumio
+  source: Participated in Wellumio $9.75M pre-Series A (2026-07-24); US neurotechnology-focused
+    early-stage fund
+- name: Pacific Channel
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wellumio
+  source: Participated in Wellumio $9.75M pre-Series A (2026-07-24)
+- name: Cure Kids Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wellumio
+  source: Participated in Wellumio $9.75M pre-Series A (2026-07-24)
+- name: Fredrik Hjelm
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Voi
+  discovered_from: imagi
+  source: Voi CEO; angel in imagi $4.5M seed (2026-07-23)
+- name: Sophia Amoruso
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Trust Fund
+  discovered_from: imagi
+  source: Angel in imagi $4.5M seed (2026-07-23); Girlboss founder, runs Trust Fund
+- name: Tito Porras
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Inner Logic
+  discovered_from: inner-logic
+  source: CEO & co-founder of Inner Logic
+- name: Mathias Unberath
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Inner Logic
+  discovered_from: inner-logic
+  source: CTO & co-founder of Inner Logic; Johns Hopkins CS professor
+- name: Axel Krieger
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Inner Logic
+  discovered_from: inner-logic
+  source: Chief Robotics Officer & co-founder of Inner Logic; Johns Hopkins robotics
+    researcher
+- name: Dora Palfi
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: imagi
+  discovered_from: imagi
+  source: CEO & co-founder of imagi
+- name: Shieak Tzeng
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Wellumio
+  discovered_from: wellumio
+  source: CEO & co-founder of Wellumio
