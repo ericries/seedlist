@@ -20,7 +20,14 @@ vague_facts:
     2020) | [^10] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Confirmed 2018-06-13 announcement of $325M Series E via 3+ primary
+    sources: Opendoor blog (opendoor.com), Cooley LLP deal coverage, and CNBC contemporaneous
+    press. Co-led by General Atlantic, Access Technology Ventures, and Lennar; 10100
+    Fund participated as a new investor alongside Andreessen Horowitz, Coatue, and
+    Invitation Homes. Existing investors Norwest, Lakestar, GGV, NEA, and Khosla also
+    participated. Added [^21] (Opendoor) and [^22] (Cooley) citations; tightened portfolio
+    row with lead investor details.'
 - profile: firms/10100
   profile_name: '10100'
   company: Spotahome
@@ -62,7 +69,13 @@ vague_facts:
     hotels | Active | [^14][^19] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Confirmed 2020-02-09 date and $20M amount via 3 independent sources:
+    Financial Times (Feb 9, 2020, referenced), PYMNTS (Feb 10, 2020), and Morning
+    Brew (Feb 9, 2020). Participants: Travis Kalanick, Tim Steiner (Ocado CEO), Justin
+    Mateen (Tinder co-founder), Div Turakhia. No formal lead investor was named across
+    sources; funds allocated for expansion into Asia, Middle East, and Africa. Added
+    [^23] (Morning Brew) citation.'
 - profile: firms/10100
   profile_name: '10100'
   company: FoodStars
@@ -84,7 +97,15 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Confirmed 2026-04-30 Series A announcement of $20M (portion of
+    ~$27M total raised) via 3 primary sources: Inc.com (Contreras, April 30, 2026),
+    Forerunner Ventures blog (April 29, 2026 — direct lead confirmation with quotes),
+    and Pulse 2.0 (April 30, 2026). Lead: Forerunner Ventures. Participants: Travis
+    Kalanick, Sandberg Bernthal Venture Partners, Compound Ventures (existing seed
+    investor follow-on). Added [^24] (Forerunner) and [^25] (Pulse 2.0) to 10100 profile;
+    added [^3] and [^4] to Casa startup profile; added verified Forerunner quotes to
+    What Investors Say section.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Luminar Technologies

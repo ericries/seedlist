@@ -55,11 +55,15 @@ The company has raised approximately $27 million to date, including a $20 millio
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
-| 2026-04-30 | Series A | $20M | Forerunner Ventures | Travis Kalanick, Sandberg Bernthal Venture Partners [^1] |
+| 2026-04-30 | Series A | $20M | Forerunner Ventures | Travis Kalanick, Sandberg Bernthal Venture Partners [^1][^3][^4] |
 
 ## What Investors Say
 
-No independently sourced investor quotes about the investment thesis available at this time. Inc. reports that "Forerunner founder Kirsten Green has stated that the firm will not follow Uber's blitzscaling model" with Casa [^1].
+Forerunner Ventures, on why they led Casa's Series A: "We are investing in Casa because we believe this is the right moment, and this is the right team" [^3].
+
+Forerunner Ventures, on the long-term vision: "In ten years, we see millions of homes running on Casa's intelligence layer, and the idea of managing a home without it will seem as foreign as navigating a city without a map on your phone" [^3].
+
+Inc. reports that "Forerunner founder Kirsten Green has stated that the firm will not follow Uber's blitzscaling model" with Casa [^1].
 
 ## What Founders Say
 
@@ -71,3 +75,5 @@ Michael York on long-term ambition: "the ultimate vision is that Casa is buildin
 
 [^1]: Brian Contreras, "Ex-Uber Execs Raise $27 Million for a Home Maintenance Startup," Inc., April 30, 2026. https://www.inc.com/brian-contreras/uber-veterans-raised-27-million-home-maintenance-startup-casa/91338374
 [^2]: Sandberg Bernthal Venture Partners, CB Insights investor profile, accessed April 2026. https://www.cbinsights.com/investor/sandberg-bernthal-venture-partners
+[^3]: Forerunner Ventures, "Investing in Casa: The Modern Operating System for Homeownership," April 29, 2026 (Forerunner's own announcement confirming lead on Casa Series A, with direct quotes about the investment rationale). https://www.forerunnerventures.com/perspectives/investing-in-casa-the-modern-operating-system-for-homeownership
+[^4]: Pulse 2.0, "Casa Raises $27 Million To Automate Home Maintenance For Monthly Members," April 30, 2026 (confirming total $27M raised with Forerunner Ventures, Sandberg Bernthal Venture Partners, and Travis Kalanick as backers). https://pulse2.com/casa-raises-27-million-to-automate-home-maintenance-for-monthly-members/
