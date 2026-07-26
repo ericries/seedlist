@@ -176299,7 +176299,17 @@ vague_facts:
   line: '| Cursor (Anysphere) | Early | ~2023 | Developer Tools | Active [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-26
+  note: 'Tightened Cursor (Anysphere) row on boxgroup.md from ''~2023'' to ''2023-10-11''
+    (seed round date). BoxGroup NOT named in contemporaneous press (TechCrunch, The
+    SaaS News, Fundz) — only OpenAI Startup Fund lead + angels Nat Friedman and Arash
+    Ferdowsi named. BoxGroup participation is attributed to the October 2023 seed
+    round per BoxGroup''s own portfolio listing (cited via Fortune [^6] and BoxGroup
+    portfolio disclosure). Added footnotes [^cursor2023a] (TechCrunch 2023-10-11 primary)
+    and [^cursor2023b] (The SaaS News 2023-10-16 independent) with explicit note that
+    BoxGroup is not named in contemporaneous press. Row also updated with company
+    valuation ($29.3B, Nov 2025). 2 new footnotes added.'
 - profile: firms/breakthrough-energy-ventures
   profile_name: Breakthrough Energy Ventures
   company: Savor
@@ -176419,7 +176429,18 @@ vague_facts:
   line: '| Death Clock | Seed | ~2023 | Digital health / longevity | Active [^4] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-26
+  note: 'Death Clock is a rebrand/pivot of Most Days (same legal entity per Crunchbase
+    URL /organization/most-days). Most Days'' Dec 9, 2020 $3.2M seed (PRNewswire primary)
+    was led by Freestyle.vc with Harrison Metal, Village Global, and angels — Cake
+    Ventures was NOT named. Death Clock relaunch (~2024) named Freestyle Capital,
+    Village Global, Harrison Metal, King River, and Origin Ventures — again no Cake
+    Ventures. Cake Ventures'' own portfolio page lists Death Clock without a year
+    or round. No contemporaneous primary source ties Cake Ventures to a specific Death
+    Clock round; Cake''s participation likely occurred via an unannounced bridge or
+    follow-on. Row annotated on cake-ventures.md to note pivot relationship and unverified
+    round attribution. Leaving portfolio row as ''~2023'' pending better primary sourcing.'
 - profile: firms/cake-ventures
   profile_name: Cake Ventures
   company: Sol Health
@@ -176430,7 +176451,18 @@ vague_facts:
     [^16] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-26
+  note: 'CORRECTED wrong year: prior ''~2024'' was inaccurate — Sol Health''s pre-seed
+    round was announced by founder Melinda Gong on LinkedIn on 2025-02-11 (activity
+    ID 7295112546070446084). Updated Sol Health row on cake-ventures.md from ''~2024''
+    to ''2025-02-11'' with 2 new primary source citations: [^solhealth1] (founder
+    LinkedIn announcement primary) and [^solhealth2] (LEAD Capital co-investor LinkedIn
+    confirmation, activity ID 7295132964068249601). Round included BAM Ventures, Cake
+    Ventures, Strada Education Foundation, FullCircle, LEAD, Remedy Product Studio,
+    Gaingels, and angels. Exact round amount not publicly disclosed. Tracxn separately
+    lists a Sol Health seed round on 2024-12-30 which may be the same round tagged
+    differently or a subsequent close. 2 new footnotes added.'
 - profile: firms/cake-ventures
   profile_name: Cake Ventures
   company: Tendercare

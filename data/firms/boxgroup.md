@@ -115,7 +115,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 | Novella | Series A | 2026-05-14 | Insurtech | Active [^novella2026] |
 | Plaid | Seed | 2013-09-19 | Fintech | Active (valued at $13B+) [^2][^20] |
 | Ramp | Seed | 2019-08-08 | Fintech | Active (valued at $16B+) [^11] |
-| Cursor (Anysphere) | Early | ~2023 | Developer Tools | Active [^6] |
+| Cursor (Anysphere) | Seed (participation per BoxGroup portfolio listing; contemporaneous press names only OpenAI Startup Fund lead + Nat Friedman/Arash Ferdowsi angels) | 2023-10-11 | Developer Tools | Active (valued at $29.3B, Nov 2025) [^6][^cursor2023a][^cursor2023b] |
 | Warby Parker | Seed | ~2011 | Consumer/DTC | Public (NYSE: WRBY) [^2] [^13] |
 | Airtable | Seed | ~2013 | Enterprise SaaS | Active [^2] |
 | Oscar Health | Early | ~2012 | Healthcare | Public (NYSE: OSCR) [^2] |
@@ -253,3 +253,7 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^25]: "Announcing our $22M Series B," Opal Security blog (Umaimah Khan), December 7, 2023. https://www.opal.dev/blog/series-b — Confirms BoxGroup participated as existing investor in $22M Series B led by Battery Ventures with Greylock and BoxGroup. Cross-referenced with FinancialContent (Business Wire), "Opal Security Raises $23M..." June 4, 2026, which confirms BoxGroup was a prior investor but did NOT participate in the June 2026 $23M extension. https://www.financialcontent.com/article/bizwire-2026-6-4-opal-security-raises-23m-and-expands-leadership-team-to-unify-identity-governance-across-human-non-human-and-agentic-ai — Accessed June 2026.
 
 [^sable2026]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," ACCESS Newswire (via Globe and Mail), July 16, 2026. Accessed July 20, 2026. https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/3321857/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain/ — Confirms BoxGroup participated in Sable's $45M Series A, co-led by Sequoia Capital and 8VC, alongside SV Angel, Valor Atreides AI Fund, and Sabrina and Evan Hahn.
+
+[^cursor2023a]: TechCrunch, "Anysphere raises $8M from OpenAI to build an AI-powered IDE," October 11, 2023. Accessed July 2026. https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/ — Contemporaneous press confirming Anysphere's $8M seed round announced October 11, 2023, led by OpenAI's Startup Fund with participation from Nat Friedman (former GitHub CEO), Arash Ferdowsi (Dropbox co-founder), and other angel investors. BoxGroup is NOT named in contemporaneous press, but appears in BoxGroup's own portfolio listing per [^6] (Fortune article, October 2025). BoxGroup's Cursor participation is per BoxGroup portfolio disclosure only.
+
+[^cursor2023b]: The SaaS News, "Anysphere Raises $8 Million in Seed Round," October 16, 2023. Accessed July 2026. https://www.thesaasnews.com/news/anysphere-raises-8-million-in-seed-round/ — Independent second confirmation of Anysphere's October 2023 $8M seed round led by OpenAI Startup Fund with angels Nat Friedman and Arash Ferdowsi. BoxGroup is not named in this article; participation attribution is per BoxGroup's own portfolio disclosure.
