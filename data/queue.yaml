@@ -25353,7 +25353,7 @@ queue:
 - name: Bo Li
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Virtue AI
   discovered_from: carlos-guestrin
@@ -26176,7 +26176,7 @@ queue:
 - name: Clement Delangue
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Hugging Face
   discovered_from: thomas-wolf
@@ -41387,3 +41387,112 @@ queue:
   firm: Ropedia
   discovered_from: ropedia
   source: Co-founder/CEO of Ropedia
+- name: Amarjit Gill
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bo-li
+  source: Angel investor in Virtue AI $30M round; known angel in AI/infra (Together
+    AI)
+- name: Chris Ré
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Stanford
+  discovered_from: bo-li
+  source: Stanford CS professor; angel investor in Virtue AI; MacArthur Fellow; co-founder
+    of SambaNova, Snorkel, Together AI
+- name: Matthew Hartman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Factorial Capital
+  discovered_from: clement-delangue
+  source: Factorial Capital founder; former Betaworks partner; co-investor with Delangue
+    on Twin Labs, Resolvd AI, Boltz, Beside, and others
+- name: Alex Chung
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Factorial Capital
+  discovered_from: clement-delangue
+  source: Giphy co-founder; Factorial Capital sourcing partner alongside Delangue
+- name: Hilary Mason
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Factorial Capital / Fast Forward Labs
+  discovered_from: clement-delangue
+  source: Fast Forward Labs co-founder; Factorial Capital sourcing partner
+- name: Nomic AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clement-delangue
+  source: GPT4All maker; Delangue/Factorial angel investment (~2023)
+- name: Flower Labs
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clement-delangue
+  source: flower.dev, federated AI; Delangue angel + Series A €18.5M Feb 2024
+- name: Substrate
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clement-delangue
+  source: AI dev-tools; Delangue/Factorial angel investment cited in Fast Company
+    2023
+- name: Twin Labs
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clement-delangue
+  source: AI agents startup; $3M pre-seed Feb 2024 (Betaworks lead); Delangue/Factorial
+    + Chaumond + Wolf + Pomel
+- name: Resolvd AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clement-delangue
+  source: $1.6M pre-seed Aug 2025 led by Spice Capital; Delangue angel
+- name: Beside
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clement-delangue
+  source: $32M Series A Nov 11 2025 led by EQT Ventures; Delangue angel; also Stewart
+    Butterfield, Ben Silbermann
+- name: Boltz
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clement-delangue
+  source: $28M seed Dec 2025 led by Zetta, Amplify, a16z; Delangue via Factorial
+- name: Spice Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: clement-delangue
+  source: Led Resolvd AI $1.6M pre-seed August 2025
+- name: Kaushik Subramanian
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: EQT Ventures
+  discovered_from: clement-delangue
+  source: EQT Ventures partner who led Beside Series A

@@ -15,6 +15,9 @@ firms:
 - round: Seed (€2.2M, angels Delangue, Gomez, BoxGroup, Frst)
   slug: hugging-face
   year: 2024
+- round: 'Seed ($10M, lead: redalpine)'
+  slug: independent
+  year: 2026
 founded: 2024
 founders:
 - name: Rick Schneider
@@ -27,6 +30,9 @@ investors:
 - round: Seed (€2.2M, angels Delangue, Gomez, BoxGroup, Frst)
   slug: clem-delangue
   year: 2024
+- round: 'Seed ($10M, lead: redalpine)'
+  slug: clement-delangue
+  year: 2026
 last_researched: 2026-04-14
 location: London, United Kingdom
 name: Helical
