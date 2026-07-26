@@ -1165,7 +1165,8 @@ vague_facts:
   line: '| Scale AI | Early | 2017 | AI/Data | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-26: tightened "Early | 2017" to "Series A ($4.5M, led — Daniel Levine partner, joined board) | 2017-07-16" via 3 primary sources: NEW Scale AI company blog primary [^131] (2017-07-16 announcement, Alexandr Wang bylined), NEW Crunchbase funding round profile [^132], NEW Not Boring by Packy McCormick [^133]. 3 new footnotes added.'
 - profile: firms/accel
   profile_name: Accel
   company: Perplexity
@@ -1272,7 +1273,8 @@ vague_facts:
   line: '| DJI | Early | 2013 | Hardware/Drones | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-26: CORRECTED wrong year "2013" to "2015-05-06" and tightened "Early" to "Growth Equity (USD 75M, Accel-led — Sameer Gandhi partner; USD 8B valuation)" via 3 primary sources: NEW PR Newswire official DJI press release [^134] (2015-05-06), NEW TechCrunch by Kim-Mai Cutler [^135] (2015-05-06, names Gandhi as lead), NEW Forbes by Ryan Mac [^136] (2015-05-27 SkyFund follow-on). 3 new footnotes added.'
 - profile: firms/accel
   profile_name: Accel
   company: Cloudera
@@ -1293,7 +1295,8 @@ vague_facts:
   line: '| Vox Media | Early | 2011 | Media | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-26: CORRECTED wrong year "2011" to "2008-10-29" and tightened "Early" to "Series A (mid-seven-figure sum, ~USD 5M; Accel-led — Andrew Braccia partner; Allen & Co, Ted Leonsis, Comcast Ventures, angels participated)" via 3 primary sources: NEW TechCrunch by Erick Schonfeld [^137] (2008-10-29 announcement), NEW CBS News [^138] (2009-01-15 follow-up confirming $5M and full participant list), NEW Accel portfolio page [^139]. Also renamed row from "Vox Media" to "Vox Media (formerly SB Nation / SportsBlogs)" for clarity. 3 new footnotes added.'
 - profile: firms/accel
   profile_name: Accel
   company: MoPub
@@ -210693,7 +210696,8 @@ vague_facts:
   line: '| Scale AI | Early | 2017 | AI/Data | [^12] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved together with high-priority column 4 fact 2026-07-26: date tightened to 2017-07-16 via 3 primary sources ([^131][^132][^133]).'
 - profile: firms/accel
   profile_name: Accel
   company: DJI
@@ -210703,7 +210707,8 @@ vague_facts:
   line: '| DJI | Early | 2013 | Hardware/Drones | [^6] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved together with high-priority column 4 fact 2026-07-26: date CORRECTED from wrong 2013 to 2015-05-06 via 3 primary sources ([^134][^135][^136]).'
 - profile: firms/accel
   profile_name: Accel
   company: Vox Media
@@ -210713,7 +210718,8 @@ vague_facts:
   line: '| Vox Media | Early | 2011 | Media | [^6] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Resolved together with high-priority column 4 fact 2026-07-26: date CORRECTED from wrong 2011 to 2008-10-29 via 3 primary sources ([^137][^138][^139]).'
 - profile: firms/accel
   profile_name: Accel
   company: MoPub

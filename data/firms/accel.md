@@ -195,7 +195,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Etsy | Series D ($27M, led; Union Square Ventures + Hubert Burda Media participated; Jim Breyer joined board) | 2008-01-30 | E-commerce | [^6][^31][^32][^116] |
 | Braintree | Series A ($34M, led — Braintree's first institutional round after four years bootstrapped; Ryan Sweeney joined board) | 2011-06-29 | Fintech | [^33][^34][^117] |
 | Supercell | Series A ($12M, led; London Venture Partners participated; Kevin Comolli joined board) | 2011-05-26 | Gaming | [^35][^36][^118] |
-| Scale AI | Early | 2017 | AI/Data | [^12] |
+| Scale AI | Series A ($4.5M, led — Daniel Levine partner, joined board) | 2017-07-16 | AI/Data | [^12][^131][^132][^133] |
 | Perplexity | Series D (led) | 2025-05-14 | AI | [^9][^55] |
 | Anysphere (Cursor) | Series C ($900M, participated) | 2025-06-05 | AI/Developer Tools | [^9][^56][^57] |
 | Anysphere (Cursor) | Series D ($2.3B, co-led with Coatue) | 2025-11-13 | AI/Developer Tools | [^58][^59] |
@@ -208,9 +208,9 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Synthesia | Series C ($90M, led, $1B valuation) | 2023-06-13 | AI/Video | [^62][^63][^64] |
 | Synthesia | Series E ($200M, participated) | 2026-01-26 | AI/Video | [^65][^66] |
 | Cyera | Series B (led, $100M at $500M post-money) | 2023-06-27 | AI/Cybersecurity | [^9][^67][^68][^69] |
-| DJI | Early | 2013 | Hardware/Drones | [^6] |
+| DJI | Growth Equity ($75M, Accel-led — Sameer Gandhi partner; $8B valuation; one of Accel's largest single investments) | 2015-05-06 | Hardware/Drones | [^6][^134][^135][^136] |
 | Cloudera | Series A ($5M; Accel led — Ping Li partner; angel participants included Diane Greene (VMware), Caterina Fake (Flickr), Mike Abbott (Palm), Qi Lu (Microsoft), Marten Mickos (MySQL), Jeff Weiner (LinkedIn), Gideon Yu (Facebook)) | 2009-03-16 | Data/Enterprise | [^6][^125][^126][^127] |
-| Vox Media | Early | 2011 | Media | [^6] |
+| Vox Media (formerly SB Nation / SportsBlogs) | Series A (mid-seven-figure, ~$5M; Accel-led — Andrew Braccia partner; Allen & Co, Ted Leonsis, Comcast Ventures, angels participated) | 2008-10-29 | Media | [^6][^137][^138][^139] |
 | MoPub | Early | 2010 | Advertising | [^6] |
 
 | Oasis Security | Series A Extension ($35M) | 2024-05-01 | Cybersecurity/Identity | [^14][^82][^83] |
@@ -500,3 +500,21 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^aegisa1]: "AegisAI Raises $36 Million Series A Led by Battery Ventures to Fight the New Wave of AI Spear Phishing," PR Newswire, July 23, 2026. Accessed July 24, 2026. https://www.prnewswire.com/news-releases/aegisai-raises-36-million-series-a-led-by-battery-ventures-to-fight-the-new-wave-of-ai-spear-phishing-302833624.html — Names Accel and Foundation Capital as existing investors participating alongside Battery Ventures lead.
 
 [^aegisa2]: Marina Temkin, "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing," TechCrunch, July 23, 2026. Accessed July 24, 2026. https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/ — Independent tier-1 press confirmation.
+
+[^131]: Alexandr Wang, "Scale Raises $4.5M Series A Led by Accel," Scale AI Blog, July 16, 2017. Accessed July 2026. https://scale.com/blog/announcing-our-series-a-with-accel — Primary company announcement. States "we have raised a $4.5 million Series A round of funding led by Accel. Along with this funding, Accel's Daniel Levine has joined Scale's board."
+
+[^132]: Crunchbase funding round profile for Scale AI Series A, accessed July 2026. https://www.crunchbase.com/funding_round/scale-2-series-a--94857ec1 — Independent database confirmation of the July 2017 Series A led by Accel.
+
+[^133]: Packy McCormick, "Scale: Rational in the Fullness of Time," Not Boring, referencing Scale AI's July 2017 $4.5M Series A led by Accel. Accessed July 2026. https://www.notboring.co/p/scale-rational-in-the-fullness-of — Third independent narrative confirmation of the July 2017 announcement date and $4.5M amount led by Accel.
+
+[^134]: "DJI Raises USD $75 Million from Accel," PR Newswire (official DJI press release), May 6, 2015. Accessed July 2026. https://www.prnewswire.com/news-releases/dji-raises-75-usd-million-from-accel-300078523.html — Primary company release. Quotes Sameer Gandhi (Accel): "DJI is quickly establishing itself as the owner of the world's most powerful robotics platforms." Describes the round as "one of Accel's largest single investments."
+
+[^135]: Kim-Mai Cutler, "Consumer Drone King DJI Raises $75M To Build Industrial UAV Developer Platform," TechCrunch, May 6, 2015. Accessed July 2026. https://techcrunch.com/2015/05/06/dji-drone-platform/ — Names Sameer Gandhi as the Accel partner leading the round; reports $8B valuation per Fortune's Dan Primack (WSJ reported north of $10B). Sameer Gandhi quote: "We spent over a year really looking at the UAV market and advanced robotics in general."
+
+[^136]: Ryan Mac, "World's Largest Drone Company And Accel Partners Launch Fund To Invest In Flying Robots," Forbes, May 27, 2015. Accessed July 2026. https://www.forbes.com/sites/ryanmac/2015/05/27/accel-partners-dji-skyfund-drone-investments/ — Independent third confirmation of the $75M Accel investment and subsequent $10M SkyFund vehicle to invest in the UAV developer ecosystem.
+
+[^137]: Erick Schonfeld, "Former AOL Exec Raises Funding For Sports Blogs Network," TechCrunch, October 29, 2008. Accessed July 2026. https://techcrunch.com/2008/10/29/former-aol-exec-raises-funding-for-sports-blogs-network — Contemporaneous primary announcement. Confirms Accel Partners led a "mid-seven-figure sum" Series A into SportsBlogs Inc. (the SB Nation / Vox Media parent). Allen & Co and angels participated. Jim Bankoff (former AOL EVP) led the fundraising.
+
+[^138]: "SB Nation Got $5 Million In Funding For Sports Blogs," CBS News, January 15, 2009. Accessed July 2026. https://www.cbsnews.com/news/sb-nation-got-5-million-in-funding-for-sports-blogs/ — Second independent confirmation. States the $5M round was led by Accel Partners and Allen & Co with Ted Leonsis, Dan Rosensweig, Jeff Weiner, Brent Jones, and executives from Providence Equity Partners participating.
+
+[^139]: Accel portfolio page for Vox Media, accessed July 2026. https://www.accel.com/companies/vox-media — Accel's own portfolio page confirms first investment in Vox Media (formerly SportsBlogs / SB Nation) was a Series A dated January 1, 2008 (Accel's internal first-investment date; the public announcement followed October 29, 2008 per [^137]). Andrew Braccia named as the Accel partner leading Vox investments per TechCrunch's 2013 coverage of the follow-on $40M round.
