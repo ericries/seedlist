@@ -87,7 +87,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 | Krea | Seed ($3M, led by Pebblebed) | 2023-03 | AI/Creative Tools | Active [^1][^32][^33] |
 | Mach Industries | Participated (A* self-attributed by Kevin Hartz on The Split podcast [^15]; not named in primary press for Seed 2023-06 [Sequoia led, $5.7M], Series A 2023-10 [Bedrock led, $79M], or Series B 2025-06-17 [Khosla + Bedrock led, $100M]) | 2023+ | Defense/Drones | Active [^15][^35][^36][^37] |
 | Mercor | Series A (Benchmark led) | 2024-09-18 | AI/HR Marketplace | Active [^12][^31] |
-~unknown| Multiply | — | — | AI/Fintech | Active [^15] |
+| Multiply (Multiply Mortgage) | Seed ($3.5M, led, ~2022) + Series A ($23.5M, Kleiner Perkins led; A*, BoxGroup, Mischief, Workshop participated) | 2025-03-19 | AI/Fintech | Active [^15][^38][^39][^40] |
 ~unknown| Fifteenth | — | — | AI/Tax | Active [^15] |
 | Notion | Series B+ | ~2021 | Productivity/SaaS | Active [^2] |
 | Paraform | Seed ($3.6M, led) | 2024-04-15 | AI/Recruiting | Active [^21][^27] |
@@ -195,3 +195,9 @@ No independently sourced founder testimonials found. The firm's website does not
 [^36]: Forbes, "Investors Gave A Teenager $85 Million To Build Hydrogen Weapons. It's Not Going Well," May 23, 2024. Accessed July 2026. https://www.forbes.com/sites/davidjeans/2024/05/23/sequoia-bedrock-defense-tech-mach-industries/ — Coverage of Mach through Series A. Named investors: Sequoia (Seed, $5M, summer 2023; Shaun Maguire), Bedrock (Series A, $79M, October 2023; Geoff Lewis at $300M+ valuation). A* / Kevin Hartz NOT named.
 
 [^37]: TechCrunch, "Two-year-old defense tech Mach Industries confirms $100M raise led by Khosla, Bedrock," June 17, 2025. Accessed July 2026. https://techcrunch.com/2025/06/17/two-year-old-defense-tech-mach-industries-confirms-100m-raise-led-by-khosla-bedrock/ — Mach Series B: $100M at $470M post-money on 2025-06-17. Co-led by Khosla Ventures (Keith Rabois) + Bedrock Capital (Geoff Lewis); Sequoia participated as existing investor. Total raised: ~$185M. A* / Kevin Hartz NOT named.
+
+[^38]: BusinessWire (company press release), "Multiply Mortgage Announces $23.5M Series A Funding to Introduce Lower-Rate Mortgages as a New Category of Employee Benefits," March 19, 2025. Accessed July 2026. https://www.businesswire.com/news/home/20250319357834/en/Multiply-Mortgage-Announces-$23.5M-Series-A-Funding-to-Introduce-Lower-Rate-Mortgages-as-a-New-Category-of-Employee-Benefits — Primary company announcement. Series A led by Kleiner Perkins with participation from A*, BoxGroup, Mischief, and Workshop. Total raised to date: $27M since 2022.
+
+[^39]: TechCrunch, "Mortgage as an employee benefit? Kleiner Perkins leads $23.5M Series A for Multiply Mortgage," March 19, 2025. Accessed July 2026. https://techcrunch.com/2025/03/19/mortgage-as-an-employee-benefit-kleiner-perkins-leads-23-5m-series-a-for-multiply-mortgage/ — Contemporaneous tech-press confirmation. Confirms A* participated in Series A and previously led the $3.5M seed round in early 2022. Multiply co-founder Gautam Gupta is a general partner at A*.
+
+[^40]: FinSMEs, "Multiply Mortgage Raises $23.5M in Series A Funding," March 19, 2025. Accessed July 2026. https://www.finsmes.com/2025/03/multiply-mortgage-raises-23-5m-in-series-a-funding.html — Third independent confirmation of amount, lead, and participants.

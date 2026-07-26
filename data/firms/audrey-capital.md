@@ -67,7 +67,7 @@ Based on 20 verified investments where the source, year, and Audrey Capital or M
 
 **Co-investor patterns:** Mullenweg has co-invested repeatedly with Ron Conway/SV Angel (Hipmunk, Typekit), Tim Ferriss (DailyBurn), and founder-angels including Paul Buchheit, Sam Altman (Hipmunk), Tom Preston-Werner, and Steve Chen (AppFlowy) [^14] [^15] [^16].
 
-**Exits:** The firm has achieved several notable exits. Ring was acquired by Amazon, GitLab went public in October 2021 (Mullenweg served on the board), Typekit was acquired by Adobe in 2011, DailyBurn was acquired by IAC, Pointy was acquired by Google, Groupcard was acquired by InComm, and Getaround went public in 2022 [^3] [^6] [^7] [^15] [^13].
+**Exits:** The firm has achieved several notable exits. Ring was acquired by Amazon, GitLab went public in October 2021 (Mullenweg served on the board), Typekit was acquired by Adobe in 2011, DailyBurn was acquired by IAC, Pointy was acquired by Google, Groupcard was acquired by InComm on 2010-04-29, and Getaround went public in 2022 [^3] [^6] [^7] [^15] [^13] [^32].
 
 **Notable gap — stated vs. actual thesis:** While the firm emphasizes open source values, a substantial portion of the portfolio has no obvious open source connection — Calm, DailyBurn, Hipmunk, Scorbit, Ring, Sonos, SpaceX, Mindset Health. This suggests a significant secondary thread of personal-interest investments in consumer products, wellness, and hardware alongside the core open source / developer tools thesis.
 
@@ -75,7 +75,7 @@ Based on 20 verified investments where the source, year, and Audrey Capital or M
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Groupcard | Seed | ~2009 | Consumer | [^13] |
+| Groupcard | Angel (fbFund $225K grant winner 2008-12-09; Mullenweg named one of first angels) | 2008-12-09 | Consumer | [^13][^30][^31][^32] |
 | Typekit | Seed | 2009 | Developer Tools | [^13] |
 | DailyBurn | Seed | 2010 | Consumer / Fitness | [^15] |
 | Chartbeat | Seed | 2010 | Analytics | [^17] |
@@ -160,3 +160,9 @@ No independently sourced founder testimonials found. Audrey Capital's website do
 [^28]: FinSMEs, "Scorbit Closes Over $5M Seed Funding," November 2025. https://www.finsmes.com/2025/11/scorbit-closes-over-5m-seed-funding.html — Independent press coverage confirming the November 13, 2025 seed round; investor list matches primary source.
 
 [^29]: Castle Placement, "Top 10 DigitalHealth/HealthTech Capital Raises in the U.S. — February 1st – 15th, 2025," accessed July 2026. https://castleplacement.com/top-10-digitalhealth-healthtech-capital-raises-in-the-u-s-february-1st-15th-2025/ — Contemporaneous industry-tracker report of Feb 1-15, 2025 capital raises. Names Spiraldot Health's USD 3.2M Series 2 seed with investors Sofinnova Partners, Antler, and Atlas SGR. Audrey Capital is NOT named in this primary press report; Audrey's participation appears only in aggregator listings (Crunchbase, PitchBook, Tracxn) — same aggregator-only failure mode as prior Owlery, Dishcraft, WayTrade unresolvable precedents. Row retained for provenance but flagged as aggregator-attributed.
+
+[^30]: TechCrunch, "Facebook's fbFund Names Winners of $225,000 Grants," December 9, 2008. Accessed July 2026. https://techcrunch.com/2008/12/09/facebooks-fbfund-names-winners-of-225000-grants/ — Primary contemporaneous press. Names GroupCard as one of five fbFund grant winners on 2008-12-09 (alongside Kontagent, MouseHunt, Weddingbook, Wildfire). fbFund was a joint venture between Facebook, Accel Partners, and Founders Fund. Confirms specific date for GroupCard's institutional funding milestone; Mullenweg's angel investment was pre- or contemporaneous with this per his own account [^31].
+
+[^31]: Matt Mullenweg, "Groupcard Acquired," May 4, 2010. Accessed July 2026. https://ma.tt/2010/05/groupcard-acquired/ — Mullenweg's personal blog post identifying GroupCard as "one of my first angel investments." Confirms his angel participation and celebrates the InComm acquisition. Does not disclose the exact investment date; per fbFund press [^30] the company's institutional milestone was 2008-12-09.
+
+[^32]: TechCrunch, "Gift Card Giant InComm Acquires fbFund Startup GroupCard," April 29, 2010. Accessed July 2026. https://techcrunch.com/2010/04/29/gift-card-giant-incomm-acquires-fbfund-startup-groupcard/ — Contemporaneous acquisition press confirming GroupCard was a fbFund alumnus (2008 grant + 2009 fbFund REV incubator) acquired by InComm on 2010-04-29. Terms undisclosed.
