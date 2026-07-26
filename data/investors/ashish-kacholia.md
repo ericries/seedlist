@@ -9,9 +9,9 @@ stage_focus: [public-equities, public-markets, growth, ipo-anchor]
 sector_focus: [smallcap, midcap, specialty-chemicals, manufacturing, industrials, pharmaceuticals, indian-manufacturing, defense, engineering]
 check_size: "₹5 Cr – ₹100+ Cr per position (public equity)"
 last_verified_investment:
-  date: 2026-03-20
-  company: "Aelea Commodities Ltd"
-  round: "Bulk deal (buy, BSE)"
+  date: 2026-07-20
+  company: "Raghu Vamsi Aerospace Group"
+  round: "Series B"
 social:
   twitter: "@LuckyInvest_ARK"
   linkedin: "linkedin.com/in/ashish-kacholia-308b8018"
@@ -117,6 +117,7 @@ The table below lists Kacholia's 30 largest publicly disclosed shareholdings by 
 
 | Company | Date | Stage | Source |
 | --- | --- | --- | --- |
+| Raghu Vamsi Aerospace Group | 2026-07-20 | Private Series B (co-invest with Norwest, Skegen) | [^ashk-rvag-1][^ashk-rvag-2] |
 | Aelea Commodities | 2026-03-20 | Bulk buy (BSE; 7,73,400 shares @ ₹120.50; 3.80%) | [^19] |
 | Naman In-Store India | 2026-03-20 | Block sell (NSE; 10,78,400 shares @ ₹53.41; 8.25% exit) | [^19] |
 | Brand Concepts | 2026-03-23 | Bulk sell (NSE; 1,79,838 shares @ ₹217; 1.44%) | [^19] |
@@ -169,3 +170,5 @@ No independently sourced founder testimonials found. This is expected: Kacholia'
 [^21]: TradeBrains, "Vijay Kedia, Ashish Kacholia or Mukul Agrawal: Which Ace Investor Lost The Most Money In 2025?" accessed July 2026. https://tradebrains.in/vijay-kedia-ashish-kacholia-or-mukul-agrawal-which-ace-investor-lost-the-most-money-in-2025/
 [^22]: Business Standard (referenced via search), "Ashish Kacholia portfolio stock Shaily Engineering soars 31% in 3 days," April 24, 2026 — page returned 403 on direct fetch; retained here only as a secondary confirming mention. https://www.business-standard.com/markets/news/ashish-kacholia-portfolio-stock-shaily-engineering-soars-31-in-3-days-126042400690_1.html
 [^23]: Business Today, "Ashish Kacholia just bought big into this defense stock, it's already up 233%" (TechEra Engineering India), October 12, 2025, accessed July 2026. https://www.businesstoday.in/markets/stocks/story/ashish-kacholia-just-bought-big-into-this-defense-stock-its-already-up-233-497855-2025-10-12
+[^ashk-rvag-1]: PR Newswire, "Raghu Vamsi Aerospace Group Raises $40 Million to Scale Precision Manufacturing, Mission Systems and Deep-Tech Platforms," July 20, 2026. Accessed July 25, 2026. https://www.prnewswire.com/news-releases/raghu-vamsi-aerospace-group-raises-40-million-to-scale-precision-manufacturing-mission-systems-and-deep-tech-platforms-302829628.html — Names Ashish Kacholia as a participant in the $40M Series B co-led by Norwest and Skegen Asset Management.
+[^ashk-rvag-2]: Entrackr, "Raghu Vamsi Aerospace Group raises $40 Mn led by Norwest, Skegen Asset Management," July 20, 2026. Accessed July 25, 2026. https://entrackr.com/news/raghu-vamsi-aerospace-group-raises-40-mn-led-by-norwest-skegen-asset-management-12181153 — Independent confirmation of Kacholia's participation.

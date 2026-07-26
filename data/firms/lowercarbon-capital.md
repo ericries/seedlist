@@ -112,6 +112,7 @@ Based on approximately 93-233 investments (sources vary; Tracxn reports 93 as of
 | Pachama | Series B Extension (Led) | 2023 | Carbon offsets/Forestry | Acquired by Carbon Direct (Nov 2025) | [^3][^19] |
 | Panthalassa | Series A (Co-Led) | ~2024 | Ocean energy | Active | [^1][^20] |
 | SolarSquare | Seed | 2022 | Rooftop solar (India) | Active | [^1][^21] |
+| SolarSquare | Series C | 2026-07-21 | Rooftop solar (India) | Active | [^lcc-solar-c1][^lcc-solar-c2] |
 | Solugen | Series C | 2021 | Enzyme-based chemicals | Active | [^1][^22] |
 | Sublime Systems | Series A (Led) | 2023 | Low-carbon cement | Active | [^3][^23] |
 | Watershed | Series B | 2022 | Carbon accounting | Active (Unicorn) | [^3][^24] |
@@ -176,3 +177,5 @@ No independently sourced founder testimonials found. The firm's website describe
 [^lcc-orat-1]: "Oratomic Raises $300 Million Series A," The Quantum Insider, July 7, 2026. Accessed July 19, 2026. https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/ — Names Lowercarbon Capital as a participant in the ARCH/Spark/Khosla-led Series A.
 [^lcc-orat-2]: Rebecca Bellan, "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits," TechCrunch, July 10, 2026. Accessed July 19, 2026. https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/
 [^lcc-orat-3]: "Oratomic Secures $300M Series A to Build Fault-Tolerant Quantum Computers via Reconfigurable Neutral-Atom Arrays," Quantum Computing Report, July 7, 2026. Accessed July 19, 2026. https://quantumcomputingreport.com/oratomic-secures-300m-series-a-to-build-fault-tolerant-quantum-computers-via-reconfigurable-neutral-atom-arrays/
+[^lcc-solar-c1]: Entrackr, "MS Dhoni invests in SolarSquare as part of $53 Mn Series C round," July 21, 2026. Accessed July 25, 2026. https://entrackr.com/snippets/ms-dhoni-invests-in-solarsquare-as-part-of-53-mn-series-c-round-12183463 — Names Lightspeed as lead of the $53M Series C with Lowercarbon Capital, NGP Capital, and Elevation Capital as participants.
+[^lcc-solar-c2]: SiliconIndia, "MS Dhoni Invests in SolarSquare's $53 Million Series C Round," July 21, 2026. Accessed July 25, 2026. https://www.siliconindia.com/news/startups/ms-dhoni-invests-in-solarsquares-53-million-series-c-round-nid-241597-cid-19.html — Independent confirmation of Lowercarbon Capital's participation.

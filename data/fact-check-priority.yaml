@@ -3449,3 +3449,11 @@ priority:
   type: firm
   reason: "appeared in Jusfy Series A (2026-07-23), $15M"
   added: 2026-07-25
+- slug: lowercarbon-capital
+  type: firm
+  reason: "appeared in SolarSquare Series C (2026-07-21), $53M"
+  added: 2026-07-25
+- slug: ashish-kacholia
+  type: investor
+  reason: "appeared in Raghu Vamsi Aerospace Group Series B (2026-07-20), $40M"
+  added: 2026-07-25
