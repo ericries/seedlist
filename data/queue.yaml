@@ -23000,7 +23000,7 @@ queue:
 - name: Sheryl Sandberg
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: SBVP
   discovered_from: wirestock
@@ -23267,7 +23267,7 @@ queue:
 - name: Misbah Uraizee
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Nectar Social
   discovered_from: nectar-social
@@ -41698,3 +41698,34 @@ queue:
   added: '2026-03-17'
   firm: Hey Seven
   discovered_from: hey-seven
+- name: Tom Bernthal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sandberg Bernthal Venture Partners
+  discovered_from: sheryl-sandberg
+- name: Cercle
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sheryl-sandberg
+- name: Pigment
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sheryl-sandberg
+- name: Flint
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sheryl-sandberg
+- name: Guild Education
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sheryl-sandberg
