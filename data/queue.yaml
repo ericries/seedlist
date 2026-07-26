@@ -41672,3 +41672,29 @@ queue:
   added: '2026-03-17'
   firm: Blossom Capital
   discovered_from: arrakis-ai
+- name: Bettor Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hey-seven
+- name: SEMCAP Beauty & Wellness
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: merit-beauty
+- name: Vasiliki Petrou
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: SEMCAP Beauty & Wellness
+  discovered_from: merit-beauty
+- name: Tal Rubinstein
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Hey Seven
+  discovered_from: hey-seven
