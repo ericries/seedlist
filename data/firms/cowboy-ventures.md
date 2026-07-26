@@ -112,15 +112,15 @@ Note: This represents only the current active portfolio. Historical investments 
 | Vic.ai | Seed | ~2020 | AI/Accounting | Active | [^11] |
 | Mutiny | Seed | ~2019 | AI/Marketing | Active | [^11] |
 | Standard Kernel | Seed | ~2023 | Software Infra | Active | [^11] |
-| Portex | Seed | ~2023 | Vertical SaaS | Active | [^11] |
+| Portex | Seed (participant, $6.25M round led by Footwork) | 2024-09-05 | Vertical SaaS / Freight | Active | [^11][^15][^16] |
 | CapStack | Seed | ~2022 | Fintech | Exited | [^11] |
 | Samooha | Seed | ~2022 | Software Infra | Exited | [^11] |
 | Elementary Data | Seed | ~2022 | Software Infra | Active | [^11] |
 | Uplimit | Seed | ~2022 | EdTech/Future of Work | Active | [^11] |
-| Palla | Seed | ~2023 | Fintech | Active | [^11] |
+| Palla | Series A (participant, $14.5M round led by Revolution Ventures) | 2025-05-28 | Fintech / Cross-border Payments | Active | [^11][^17][^18] |
 | GetSetUp | Seed | ~2020 | Consumer/Healthcare | Active | [^11] |
-| Eisen | Seed | ~2023 | Fintech | Active | [^11] |
-| Continuum | Seed | ~2024 | Enterprise | Active | [^11] |
+| Eisen | Seed (participant, $8.5M round led by Index Ventures) | 2026-05-19 | Fintech / Compliance | Active | [^11][^19][^20] |
+| Continuum | Seed (led, $4.1M with M25, Clocktower Ventures, Cambrian) | 2024-08-26 | Enterprise / Supply Chain | Active | [^11][^21][^22] |
 
 Note: This table represents approximately 22 of 70+ total investments (~31%). The remaining investments include additional exited companies and earlier portfolio companies not shown on the current portfolio page. Investment years are approximate.
 
@@ -160,3 +160,11 @@ Note: These testimonials are from the firm's website and were not independently 
 [^12]: PitchBook, "Q&A: Aileen Lee on Cowboy Ventures' latest fund, getting women on her cap table and what keeps her motivated," accessed March 2026. https://pitchbook.com/news/articles/qa-aileen-lee-on-cowboy-ventures-latest-fund-getting-women-on-her-cap-table-and-what-keeps-her-motivated
 [^13]: Cowboy Ventures website, "Portfolio — Dollar Shave Club," accessed March 2026. https://www.cowboy.vc/portfolio/dollar-shave-club
 [^14]: Venture Capital Journal, "DollarShaveClub Puts together $1M Round," March 6, 2012. https://www.venturecapitaljournal.com/dollarshaveclub-puts-together-1m-round/
+[^15]: BusinessWire, "Portex Raises $6.25 Million Seed Round to Use AI to Automate Freight Management for Small- to Mid-Sized Companies Globally," September 5, 2024. Accessed July 2026. https://www.businesswire.com/news/home/20240905984373/en/Portex-Raises-$6.25-Million-Seed-Round-to-Use-AI-to-Automate-Freight-Management-for-Small--to-Mid-Sized-Companies-Globally
+[^16]: FreightWaves, "Former Flexport associate raises $6.5M for SMB freight management platform," September 5, 2024. Accessed July 2026. https://www.freightwaves.com/news/former-flexport-associate-raises-6-5m-for-smb-freight-management-platform
+[^17]: BusinessWire, "Palla Secures $14.5 Million Series A Funding to Drive Expansion and Innovation in Cross-Border Payments," May 28, 2025. Accessed July 2026. https://www.businesswire.com/news/home/20250528284383/en/Palla-Secures-$14.5-Million-Series-A-Funding-to-Drive-Expansion-and-Innovation-in-Cross-Border-Payments
+[^18]: Finextra, "Palla raises $14.5m for cross-border payments," May 29, 2025. Accessed July 2026. https://www.finextra.com/newsarticle/46061/palla-raises-145m-for-cross-border-payments
+[^19]: BusinessWire, "Eisen Raises $18.5 Million to Build the Compliance Operations Infrastructure Financial Services Has Been Missing," May 19, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260519710427/en/Eisen-Raises-$18.5-Million-to-Build-the-Compliance-Operations-Infrastructure-Financial-Services-Has-Been-Missing
+[^20]: Fintech Global, "Eisen raises $18.5m to fix financial compliance gap," May 20, 2026. Accessed July 2026. https://fintech.global/2026/05/20/eisen-raises-18-5m-to-fix-financial-compliance-gap/
+[^21]: Continuum press release, "Continuum Announces $4.1M Seed Round to Continue Rapid Growth," 2024. Accessed July 2026. https://resources.gocontinuum.ai/press/continuum-announces-4.1m-seed-round-to-continue-rapid-growth
+[^22]: Industrial Distribution, "Continuum Raises More than $4M in Seed Funding," 2024. Accessed July 2026. https://www.inddist.com/technology-software/news/22926294/continuum-raises-more-than-4m-in-seed-funding

@@ -119,7 +119,7 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | AgentSync | Series A | 2021 | Enterprise/Insurance | Unicorn [^8] |
 | ClickUp | Series A | 2020 | Enterprise/Productivity | Unicorn [^8] |
 | Eventbrite | Angel-Seed | ~2012 | Consumer/Events | IPO [^8] |
-| Glean | Growth | ~2023 | Enterprise/AI | Active [^8] |
+| Glean | Series E (participant, $260M+ round co-led by Altimeter and DST Global) | 2024-09-10 | Enterprise/AI | Active [^8][^30][^31] |
 | Intercom | Angel-Seed | ~2015 | Enterprise/SaaS | Unicorn [^8] |
 | Lyft | Angel-Seed | ~2013 | Consumer/Transport | IPO [^8] |
 | Meta (Facebook) | Angel-Seed | ~2005 | Consumer/Social | IPO [^8] |
@@ -130,7 +130,7 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | Pipe | Angel-Seed | ~2020 | Enterprise/Fintech | Unicorn [^8] |
 | Postmates | Angel-Seed | ~2014 | Consumer/Delivery | Acquired [^8] |
 | Reddit | Growth | ~2021 | Consumer/Social | IPO [^8] |
-| Replit | Growth | ~2023 | Developer Tools | Active [^8] |
+| Replit | Growth (Craft-led secondary/tender, $20M) | 2023-11-06 | Developer Tools | Active [^8][^32] |
 | Vanta | Series B | ~2022 | Enterprise/Security | Unicorn [^8] |
 | Secoda | Angel-Seed | ~2021 | Enterprise/Data | Acquired (Atlassian, Dec 2025) [^7] |
 | Noma Security | Series B (participant) | 2025-07-31 | Enterprise/Security | Active — $100M, Evolution Equity-led [^7][^17] |
@@ -192,6 +192,9 @@ Snehal Antani, Co-Founder & CEO of Horizon3.ai: "What's been amazing working wit
 [^19]: BusinessWire/Yahoo Finance, "Allen Control Systems Raises $200 Million Series B at $2.2 Billion Post-Money Valuation to Scale Manufacturing and Accelerate Deployment of Bullfrog," June 5, 2026. Accessed June 2026. https://sg.finance.yahoo.com/news/allen-control-systems-raises-200-141300911.html
 [^20]: Pulse 2.0, "Allen Control Systems Raises $200 Million Series B At $2.2 Billion Valuation To Scale Bullfrog Autonomous Weapon Systems," June 5, 2026. Accessed June 2026. https://pulse2.com/allen-control-systems-raises-200-million-series-b-at-2-2-billion-valuation-to-scale-bullfrog-autonomous-weapon-systems/
 [^21]: VCNewsDaily, "Allen Control Systems Scoops Up $200M Series B," June 2026. Accessed June 2026. https://vcnewsdaily.com/allen-control-systems/venture-capital-funding/jcrjfhvksz
+[^30]: Glean Press, "Glean Announces Over $260 Million Series E and Next-Generation Prompting as it Brings Work AI to the Enterprise," September 10, 2024. Accessed July 2026. https://www.glean.com/press/glean-announces-over-260-million-series-e-and-next-generation-prompting-as-it-brings-work-ai-to-the-enterprise
+[^31]: CNBC, "AI-powered search startup Glean doubles valuation in new funding round led by Altimeter," September 10, 2024. Accessed July 2026. https://www.cnbc.com/2024/09/10/ai-powered-search-startup-glean-doubles-valuation-in-new-funding-round.html
+[^32]: Michael Robinson, Craft Ventures, "Why We Invested in Replit," Medium, November 6, 2023. Accessed July 2026. https://medium.com/craft-ventures/why-we-invested-in-replit-81d297364742
 
 [^22]: FinSMEs, "Samepage.ai Raises $4.85M in Funding," June 2026. Accessed June 2026. https://www.finsmes.com/2026/06/samepage-ai-raises-4-85m-in-funding.html — Confirms Craft Ventures co-led Samepage's $4.85M seed alongside Freestyle VC and Glasswing Ventures, with Justin Kan and Matt Mullenweg participating as angels.
 [^23]: PR Newswire, "Samepage.ai Launches to Bring Continuous Intelligence to Product Teams," June 25, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/samepageai-launches-to-bring-continuous-intelligence-to-product-teams-302809943.html — Official company press release naming Craft Ventures, Freestyle VC, and Glasswing Ventures as backers, plus angels Justin Kan and Matt Mullenweg; quotes Sahil Jain (Samepage CEO) and David Samuel (Freestyle VC Partner).
