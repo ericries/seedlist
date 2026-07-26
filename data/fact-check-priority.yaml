@@ -3457,3 +3457,11 @@ priority:
   type: investor
   reason: "appeared in Raghu Vamsi Aerospace Group Series B (2026-07-20), $40M"
   added: 2026-07-25
+- slug: veriqus
+  type: startup
+  reason: "appeared in Veriqus growth round (2026-07-21), $40M / ₹387 crore led by Norwest Venture Partners"
+  added: 2026-07-26
+- slug: bioscan-research
+  type: startup
+  reason: "appeared in Bioscan Research seed (2026-07-22), $1M led by Unicorn India Ventures"
+  added: 2026-07-26
