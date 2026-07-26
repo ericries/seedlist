@@ -1,0 +1,42 @@
+- name: "Episode 1 Ventures"
+  type: firm
+  firm: "Episode 1 Ventures"
+  priority: normal
+  discovered_from: ossprey
+  source: "led Ossprey pre-seed $2.65M (2026-07-22)"
+- name: "Osney Capital"
+  type: firm
+  firm: "Osney Capital"
+  priority: normal
+  discovered_from: ossprey
+  source: "co-investor in Ossprey pre-seed (2026-07-22)"
+- name: "Octopus Ventures"
+  type: firm
+  firm: "Octopus Ventures"
+  priority: normal
+  discovered_from: ossprey
+  source: "co-investor in Ossprey pre-seed (2026-07-22)"
+- name: "4Founders Capital"
+  type: firm
+  firm: "4Founders Capital"
+  priority: normal
+  discovered_from: pagemind
+  source: "led PageMind seed €1.2M (2026-07-23)"
+- name: "Earth Fund"
+  type: firm
+  firm: "Earth Fund"
+  priority: normal
+  discovered_from: wiffy
+  source: "led Wiffy Series A $3M (2026-07-23)"
+- name: "Capria Ventures"
+  type: firm
+  firm: "Capria Ventures"
+  priority: normal
+  discovered_from: wiffy
+  source: "co-investor in Wiffy Series A (2026-07-23)"
+- name: "Persol Holdings"
+  type: firm
+  firm: "Persol Holdings"
+  priority: low
+  discovered_from: wiffy
+  source: "corporate investor in Wiffy Series A (2026-07-23)"

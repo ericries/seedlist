@@ -3465,3 +3465,15 @@ priority:
   type: startup
   reason: "appeared in Bioscan Research seed (2026-07-22), $1M led by Unicorn India Ventures"
   added: 2026-07-26
+- slug: ossprey
+  type: startup
+  reason: "new Ossprey pre-seed (2026-07-22), $2.65M led by Episode 1 Ventures with Osney Capital, Octopus Ventures"
+  added: 2026-07-26
+- slug: pagemind
+  type: startup
+  reason: "new PageMind seed (2026-07-23), €1.2M led by 4Founders Capital"
+  added: 2026-07-26
+- slug: wiffy
+  type: startup
+  reason: "new Wiffy Series A (2026-07-23), $3M led by Earth Fund with Persol Holdings, Capria Ventures"
+  added: 2026-07-26
