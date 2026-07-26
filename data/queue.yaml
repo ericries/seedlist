@@ -41729,3 +41729,83 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: sheryl-sandberg
+- name: Episode 1 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Episode 1 Ventures
+  discovered_from: ossprey
+  source: led Ossprey pre-seed $2.65M (2026-07-22)
+- name: Osney Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Osney Capital
+  discovered_from: ossprey
+  source: co-investor in Ossprey pre-seed (2026-07-22)
+- name: Earth Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Earth Fund
+  discovered_from: wiffy
+  source: led Wiffy Series A $3M (2026-07-23)
+- name: Capria Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Capria Ventures
+  discovered_from: wiffy
+  source: co-investor in Wiffy Series A (2026-07-23)
+- name: Persol Holdings
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Persol Holdings
+  discovered_from: wiffy
+  source: corporate investor in Wiffy Series A (2026-07-23)
+- name: Matrix Partners China
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Matrix Partners China
+  discovered_from: meshy
+  source: co-lead Meshy Series B ~$400M (2026-07-21)
+- name: Monolith
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Monolith
+  discovered_from: meshy
+  source: co-lead Meshy Series B ~$400M (2026-07-21)
+- name: Granite Asia
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Granite Asia
+  discovered_from: meshy
+  source: existing investor participated in Meshy Series B (2026-07-21)
+- name: BAI Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: BAI Capital
+  discovered_from: meshy
+  source: existing investor participated in Meshy Series B (2026-07-21)
+- name: Source Code Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Source Code Capital
+  discovered_from: meshy
+  source: existing investor participated in Meshy Series B (2026-07-21)
