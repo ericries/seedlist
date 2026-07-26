@@ -41611,3 +41611,64 @@ queue:
   firm: Wellumio
   discovered_from: wellumio
   source: CEO & co-founder of Wellumio
+- name: Unicorn India Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bioscan-research
+- name: Ashish Gumashta
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Veriqus Group
+  discovered_from: veriqus
+- name: Roshi Jain
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Veriqus Group
+  discovered_from: veriqus
+- name: Nikhil Kookada
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Norwest Venture Partners
+  discovered_from: veriqus
+- name: Anil Joshi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Unicorn India Ventures
+  discovered_from: bioscan-research
+- name: Anupam Lavania
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Bioscan Research
+  discovered_from: bioscan-research
+- name: Shilpa Malik
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Bioscan Research
+  discovered_from: bioscan-research
+- name: Trind Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aampere
+- name: Ophelia Brown
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Blossom Capital
+  discovered_from: arrakis-ai
