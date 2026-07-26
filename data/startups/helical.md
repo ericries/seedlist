@@ -31,7 +31,7 @@ investors:
   slug: clem-delangue
   year: 2024
 - round: 'Seed ($10M, lead: redalpine)'
-  slug: clement-delangue
+  slug: clem-delangue
   year: 2026
 last_researched: 2026-04-14
 location: London, United Kingdom
