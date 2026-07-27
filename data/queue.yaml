@@ -23274,7 +23274,7 @@ queue:
 - name: Farah Uraizee
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Nectar Social
   discovered_from: nectar-social
@@ -24699,7 +24699,7 @@ queue:
 - name: Alec Fong
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: NVIDIA (former Brev.dev)
   discovered_from: vic-hu
