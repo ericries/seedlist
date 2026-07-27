@@ -3,9 +3,9 @@ check_size: $1M-$25M
 firm: conviction
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Baseten
-  date: 2026-01-23
-  round: Series E (participated, $300M)
+  company: Enigma
+  date: 2026-07-27
+  round: Seed (participated, $70M)
 location: San Francisco, CA
 name: Sarah Guo
 role: Founder & General Partner
@@ -111,6 +111,7 @@ Based on 22 verified investments below (12 at Conviction, 10 at Greylock):
 | Sunday Robotics | Seed (participated, $35M; Benchmark and Conviction co-backed emergence from stealth; Guo self-listed in own portfolio [^4]) | 2025-11-19 | AI / Humanoid Robotics / Home | Active | [^4][^8][^34][^35] |
 | Corridor | Seed (led, $5.4M) | 2025-08-05 | AI Code Security | Active | [^15][^16][^17] |
 | Open Evidence | Series B (participated, $210M) | 2025-07-15 | AI / Medical | Active ($3.5B valuation) | [^26][^27][^28] |
+| Enigma | Seed (participated, $70M; Index Ventures and Ribbit Capital co-led) | 2026-07-27 | Robotics / AI / Foundation Models | Active | [^36] |
 
 ### Greylock Portfolio (2013-2022)
 
@@ -201,4 +202,5 @@ No independently sourced founder testimonials found. Guo's personal website refe
 [^34]: The AI Insider, "Sunday Emerges from Stealth with $35M for Household Robot Called Memo," November 20, 2025. Accessed July 2026. https://theaiinsider.tech/2025/11/20/sunday-emerges-from-stealth-with-35m-for-household-robot-called-memo/ — Primary press source naming Benchmark and Conviction as backers of Sunday Robotics' $35M emergence from stealth on November 19-20, 2025. Co-founders Tony Zhao (CEO, ex-DeepMind) and Cheng Chi (CTO, ex-Apple, Toyota Research Institute).
 
 [^35]: Mugglehead Investment Magazine, "Sunday Robotics emerges from stealth with launch of 'Memo' humanoid house chores robot," November 20, 2025. Accessed July 2026. https://mugglehead.com/sunday-robotics-emerges-from-stealth-with-launch-of-memo-humanoid-house-chores-robot/ — Independent contemporaneous press confirming US$35M emergence from stealth funding with Benchmark and Conviction identified as the two VC firms.
+[^36]: "Enigma raises $70M to make controlling a robot as easy as adjusting the volume," TechCrunch, July 27, 2026. Accessed July 27, 2026. https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/ — Names Sarah Guo's Conviction Partners as a participant in the $70M seed co-led by Index Ventures and Ribbit Capital.
 

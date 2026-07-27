@@ -97,6 +97,7 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 | Adaptive Innovations | Series A (participated, $50M total) | 2026-06-02 | Healthcare AI / Home Health | Active | [^55][^56][^57] |
 | Tomo | Seed (participated, $5M; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | Active | [^tomo1][^tomo2][^tomo3] |
 | Monogram | Seed (participated, $40M; DST Global and Lux Capital co-led) | 2026-07-07 | AI / Consumer AI / Mobile | Active | [^monogram1][^monogram2][^monogram3] |
+| Enigma | Seed (participated, $70M; Index Ventures and Ribbit Capital co-led) | 2026-07-27 | Robotics / AI / Foundation Models | Active | [^enigma1] |
 
 Note: Investment years are approximate based on company founding timelines. This table represents approximately 22 of ~32 total investments (~69%); the remainder are in stealth or undisclosed [^3][^5].
 
@@ -230,3 +231,4 @@ No independently sourced founder testimonials found. The firm's website describe
 [^monogram1]: Monogram, "Introducing Monogram, a new interface for AI," launch blog post, July 2026. Accessed July 2026. https://www.monogram.ai/blog/introducing-monogram — Official launch post naming DST Global and Lux Capital as $40M seed co-leads with Conviction, SOMA Capital, Gradient Ventures, e2vc, and Maxitech participating.
 [^monogram2]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent press pickup confirming DST Global lead and Conviction participation.
 [^monogram3]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement of the round led by DST and Lux Capital.
+[^enigma1]: "Enigma raises $70M to make controlling a robot as easy as adjusting the volume," TechCrunch, July 27, 2026. Accessed July 27, 2026. https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/ — Names Conviction Partners (Sarah Guo) as a participant in the $70M seed co-led by Index Ventures and Ribbit Capital.

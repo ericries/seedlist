@@ -3477,3 +3477,23 @@ priority:
   type: startup
   reason: "new Wiffy Series A (2026-07-23), $3M led by Earth Fund with Persol Holdings, Capria Ventures"
   added: 2026-07-26
+- slug: index-ventures
+  type: firm
+  reason: "appeared in Enigma Seed (2026-07-27), $70M"
+  added: 2026-07-27
+- slug: ribbit-capital
+  type: firm
+  reason: "appeared in Enigma Seed (2026-07-27), $70M"
+  added: 2026-07-27
+- slug: conviction
+  type: firm
+  reason: "appeared in Enigma Seed (2026-07-27), $70M"
+  added: 2026-07-27
+- slug: sarah-guo
+  type: investor
+  reason: "appeared in Enigma Seed (2026-07-27), $70M via Conviction Partners"
+  added: 2026-07-27
+- slug: rhapsody-venture-partners
+  type: firm
+  reason: "appeared in Nuclear Turbines Foundational (2026-07-27), £15M"
+  added: 2026-07-27

@@ -157,6 +157,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Twelve Labs | Series B (participated, $100M; NEA and NAVER Ventures co-led) | 2026-07-01 | AI / Video Foundation Models | [^71] |
 | Feathery | Series A (participated, $30M total; Portage Ventures led; Allstate Strategic Ventures, Clocktower Ventures, Erie Strategic Ventures, Bain Capital Ventures participated) | 2026-07-14 | Fintech / AI / Financial Services | [^77][^78][^79] |
 | Oratomic | Series A (participated, $300M; ARCH Venture Partners, Spark Capital, Khosla Ventures co-led; Bezos Expeditions, General Catalyst, Lowercarbon Capital, Bain Capital Ventures, Formation, Nebular also participated) | 2026-07-07 | Quantum Computing / Deep Tech | [^80][^81][^82] |
+| Enigma | Seed (co-led with Ribbit Capital, $70M; Conviction Partners participated) | 2026-07-27 | Robotics / AI / Foundation Models | [^83] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -302,4 +303,5 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^80]: "Oratomic Raises $300 Million Series A," The Quantum Insider, July 7, 2026. Accessed July 19, 2026. https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/ — Names Index Ventures as a participant in the ARCH/Spark/Khosla-led Series A.
 [^81]: Rebecca Bellan, "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits," TechCrunch, July 10, 2026. Accessed July 19, 2026. https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/
 [^82]: "Oratomic Raises $300M in Series A Funding," FinSMEs, July 2026. Accessed July 19, 2026. https://www.finsmes.com/2026/07/oratomic-raises-300m-in-series-a-funding.html
+[^83]: "Enigma raises $70M to make controlling a robot as easy as adjusting the volume," TechCrunch, July 27, 2026. Accessed July 27, 2026. https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/ — Names Index Ventures and Ribbit Capital as seed co-leads with Conviction Partners participating.
 
