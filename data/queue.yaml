@@ -41809,3 +41809,21 @@ queue:
   firm: Source Code Capital
   discovered_from: meshy
   source: existing investor participated in Meshy Series B (2026-07-21)
+- name: Motorola Solutions Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brinc-drones
+- name: Global PayTech Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cyclops
+- name: Lasagna Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cyclops
