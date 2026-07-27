@@ -86,7 +86,7 @@ Based on 42 verified current portfolio companies from Contrary's website [^11], 
 | Base Power | 2025 | Series C | [^17] |
 | DualEntry | 2025 | Seed | [^19] |
 | Voltra | 2025 | Pre-seed | [^20] |
-| Doss | 2025 | Seed | [^21] |
+| Doss | ~2022 (late; per Contrary Research) | Seed (Contrary led) | [^21][^doss-et2][^doss-et3] |
 | Leland | 2024 | Series A | [^22] |
 | Nomic | ~2023 | Seed | [^23] |
 | Ramp | 2021 | Series B | [^24] |
@@ -191,3 +191,7 @@ Zepto co-founder Aadit Palicha's founding story is closely intertwined with Cont
 [^26]: 5paisa, "Aadit Palicha: Success Story of Zepto Co-founder," accessed March 2026. https://www.5paisa.com/finschool/aadit-palicha-co-founder-of-zepto/
 [^27]: Contrary, "Investments," accessed March 2026. https://www.contrary.com/investments
 [^28]: Contrary, "Anduril" portfolio page (lists "First Partnered: Series D"), accessed April 2026. https://www.contrary.com/companies/anduril ; TechCrunch, "Anduril hits $4.6B valuation on $450M Series D led by Elad Gil and Andreessen Horowitz," June 2021 context per Tracxn funding history. https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/funding-and-investors
+
+[^doss-et2]: Contrary Research, "DOSS Business Breakdown & Founding Story," accessed July 2026. https://research.contrary.com/company/doss — Confirms "Prior to this DOSS had raised a seed round from Contrary in late 2022."
+
+[^doss-et3]: TechCrunch, "Doss raises $55M for AI inventory management that plugs into ERP," March 24, 2026. Accessed July 2026. https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/ — Third-source confirmation of Doss's funding history: Contrary a returning investor in the $55M Series B co-led by Madrona and Premji Invest.

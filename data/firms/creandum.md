@@ -144,7 +144,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | Lovable | Pre-Series A (led by Fredrik Cassel, USD 15M; Visionaries Club participated; angel co-investors: Charlie Songhurst, Adam D'Angelo, Thomas Wolf (Hugging Face), Erik Bernhardsson (Modal Labs)) | 2025-02-25 | AI/Developer Tools | Active (USD 6.6B valuation at later round) | [^28][^44][^45][^46] |
 | Atla | Early stage | ~2024 | AI/Mobile | Active | [^5] |
 | H Company | Early stage | ~2024 | AI | Active | [^5] |
-| nexos.ai | Seed | 2025 | AI/Infrastructure | Active | [^29] |
+| nexos.ai | Seed ($8M, Index Ventures led; Creandum + Dig Ventures participated) | 2025-01-17 | AI/Infrastructure | Active | [^29][^nex1][^nex2][^nex3] |
 | Superscale | Pre-seed | 2025 | AI/Marketing | Active | [^30] |
 | Wrapp | Seed | ~2011 | Consumer/Mobile | Shut down | [^7] |
 | Modal | Early stage | ~2022 | AI/Cloud Infrastructure | Active (unicorn) | [^19] |
@@ -254,3 +254,9 @@ No independently sourced founder testimonials found. Creandum's reputation among
 [^pfr-c1]: TechCrunch, "Passionfroot raises $15M to expand its B2B creator marketplace to the US," July 22, 2026. Accessed July 2026. https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/ — Confirms Creandum participated in Passionfroot's $15M Series A led by Insight Partners.
 
 [^pfr-c2]: PR Newswire, "Passionfroot Raises $15M Series A Led by Insight Partners to Power Creator-Led Growth in the AI Era," July 22, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/passionfroot-raises-15m-series-a-led-by-insight-partners-to-power-creator-led-growth-in-the-ai-era-302831506.html — Company release confirming Creandum among the participating investors.
+
+[^nex1]: GlobeNewswire, "nexos.ai launches an enterprise AI orchestration platform with funding led by Index Ventures," January 17, 2025. Accessed July 2026. https://www.globenewswire.com/news-release/2025/01/17/3011551/0/en/nexos-ai-launches-an-enterprise-AI-orchestration-platform-with-funding-led-by-Index-Ventures.html — Official announcement confirming $8M seed led by Index Ventures with Creandum and Dig Ventures participating.
+
+[^nex2]: nexos.ai, "nexos.ai emerges from stealth to launch an AI orchestration platform for the enterprise with funding led by Index Ventures," January 2025. Accessed July 2026. https://nexos.ai/blog/nexos-launch/ — Company's own launch blog naming Creandum among the seed participants.
+
+[^nex3]: The AI Insider, "nexos.ai Emerges from Stealth to Launch an AI Orchestration Platform for the Enterprise with Funding Led by Index Ventures," January 21, 2025. Accessed July 2026. https://theaiinsider.tech/2025/01/21/nexos-ai-emerges-from-stealth-to-launch-an-ai-orchestration-platform-for-the-enterprise-with-funding-led-by-index-ventures/ — Independent tech press confirmation.

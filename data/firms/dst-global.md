@@ -140,7 +140,7 @@ The following table includes DST Global investments verified through press cover
 | Databricks | Series J (co-led) | 2024-12-17 | Enterprise / Data & AI | Private [^15][^25][^26] |
 | Safe Superintelligence (SSI) | Series A (participated) | 2024-09-04 | AI | Private [^12][^27][^28] |
 | Reflection AI | Series B (participated; NVIDIA-led) | 2025-10-09 | AI / Frontier Models | Private [^6][^29][^30] |
-| Distyl AI | Series B | 2025 | Enterprise AI | Private [^6] |
+| Distyl AI | Series B (participated; $175M at $1.8B val, co-led by Khosla Ventures + Lightspeed) | 2025-09-23 | Enterprise AI | Private [^6][^51][^52][^53] |
 | Upgrade | Series G | 2025 | Fintech / Consumer Lending | Private [^6] |
 | Console | Series A | 2025 | AI / IT Operations | Private [^6] |
 | Brex | Growth | ~2021 | Fintech | Acquired by Capital One (2026) [^6] |
@@ -305,3 +305,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^49]: Sifted, "Ex-Google CEO Eric Schmidt backs voice AI startup Gradium in $70m seed round," December 2, 2025. Accessed July 2026. https://sifted.eu/articles/gradium-70m-seed-voice-ai — Independent European tech press confirmation of DST Global's participation alongside Korelya Capital and Amplify Partners, with Niel, Saadé, and Schmidt as individual investors.
 
 [^50]: FirstMark Capital blog, "TechCrunch: AI Voice Startup Gradium Nabs $70M Seed," December 2, 2025. Accessed July 2026. https://firstmark.com/story/ai-voice-startup-gradium-nabs-70m-seed/ — Lead investor's own confirmation of the syndicate, naming DST Global Partners, Xavier Niel, and Eric Schmidt as participants.
+
+[^51]: PR Newswire, "Distyl AI Raises $175 Million at $1.8 Billion Valuation to Help Global Enterprises Become AI-Native," September 23, 2025. Accessed July 2026. https://www.prnewswire.com/news-releases/distyl-ai-raises-175-million-at-1-8-billion-valuation-to-help-global-enterprises-become-ai-native-302564270.html — Official press release confirming $175M Series B at $1.8B valuation co-led by Khosla Ventures and Lightspeed, with DST Global joining as a new investor alongside Coatue and Dell Technologies Capital.
+
+[^52]: StartupHub.ai, "Distyl AI Secures $175M Series B, Reaches $1.8B Valuation," September 2025. Accessed July 2026. https://www.startuphub.ai/ai-news/funding-round/2025/distyl-ai-secures-175m-series-b-reaches-1-8b-valuation — Independent confirmation of the September 23, 2025 Series B with DST Global as a participant.
+
+[^53]: Sacra, "Distyl AI valuation, funding & news," accessed July 2026. https://sacra.com/c/distyl-ai/ — Third-source funding history for Distyl AI covering the $7M seed (April 2023), $20M Series A (November 2024) and $175M Series B (September 2025) with DST Global as a Series B participant.

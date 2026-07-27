@@ -109,7 +109,7 @@ This global spread is unusual among Silicon Valley-based investors and aligns wi
 | H Company | 2024 | Seed | AI | [^27] |
 | RedotPay | 2025 | Series A | Crypto Payments | [^28] |
 | Reflection AI | 2025 | Series B | AI | [^8] |
-| Distyl AI | 2025 | Series B | Enterprise AI | [^8] |
+| Distyl AI | 2025-09-23 | Series B ($175M at $1.8B val, co-led by Khosla + Lightspeed) | Enterprise AI | [^8][^29][^30][^31] |
 | Console | 2025 | Series A | AI / IT Ops | [^8] |
 | Upgrade | 2025 | Series G | Fintech | [^8] |
 
@@ -175,3 +175,9 @@ No independently sourced founder testimonials found beyond press release quotes.
 [^26]: "Instacart Announces $225 Million In New Funding Led By DST Global, General Catalyst And D1 Capital Partners," PR Newswire, June 11, 2020. https://www.prnewswire.com/news-releases/instacart-announces-225-million-in-new-funding-led-by-dst-global-general-catalyst-and-d1-capital-partners-301074195.html
 [^27]: "Yuri Milner — Crunchbase Person Profile" (H Company seed round, May 21, 2024), accessed March 2026. https://www.crunchbase.com/person/yuri-milner
 [^28]: "RedotPay Announces $40M Series A," Crowdfund Insider, March 2025. https://www.crowdfundinsider.com/2025/03/237410-redotpay-announces-40m-series-a-to-enhance-global-crypto-payments-solutions/
+
+[^29]: PR Newswire, "Distyl AI Raises $175 Million at $1.8 Billion Valuation to Help Global Enterprises Become AI-Native," September 23, 2025. Accessed July 2026. https://www.prnewswire.com/news-releases/distyl-ai-raises-175-million-at-1-8-billion-valuation-to-help-global-enterprises-become-ai-native-302564270.html — Official press release confirming Series B co-led by Khosla Ventures and Lightspeed with DST Global as a new participant.
+
+[^30]: StartupHub.ai, "Distyl AI Secures $175M Series B, Reaches $1.8B Valuation," September 2025. Accessed July 2026. https://www.startuphub.ai/ai-news/funding-round/2025/distyl-ai-secures-175m-series-b-reaches-1-8b-valuation — Independent confirmation of the September 23, 2025 Series B.
+
+[^31]: Sacra, "Distyl AI valuation, funding & news," accessed July 2026. https://sacra.com/c/distyl-ai/ — Third-source funding history dating Series B to September 2025.

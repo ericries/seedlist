@@ -176974,7 +176974,9 @@ vague_facts:
   line: '| Doss | Seed | 2025 | Enterprise SaaS | Active [^17] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  note: "CORRECTED: The '2025' date reflected the public announcement of the Contrary Research report, not the actual seed investment. Per Contrary Research (Contrary's own analysis arm) and Contrary's blog: Contrary led Doss's seed in late 2022. Row updated to '~2022 (late 2022 per Contrary Research); follow-on Series A 2025-04 (USD 18M, Theory-led); Series B 2026-03-24 (USD 55M, Madrona/Premji-led)' via 3 primary sources: Contrary blog [^doss1] (2025-04-15), Contrary Research report [^doss2], TechCrunch [^doss3] (2026-03-24). Same update propagated to investors/eric-tarczynski.md."
 - profile: firms/contrary
   profile_name: Contrary
   company: DualEntry
@@ -177229,7 +177231,9 @@ vague_facts:
   line: '| nexos.ai | Seed | 2025 | AI/Infrastructure | Active | [^29] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  note: "Resolved to 2025-01-17 seed (USD 8M, Index Ventures led; Creandum + Dig Ventures participated with angels Olivier Pomel, Sebastian Siemiatkowski, Ilkka Paananen, Avishai Abrahami) via 3 primary sources: GlobeNewswire company release [^nex1] (2025-01-17), nexos.ai launch blog [^nex2], The AI Insider [^nex3] (2025-01-21)."
 - profile: firms/creandum
   profile_name: Creandum
   company: Superscale
@@ -177425,7 +177429,9 @@ vague_facts:
   line: '| Distyl AI | Series B | 2025 | Enterprise AI | Private [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  note: "Resolved to 2025-09-23 Series B (USD 175M at USD 1.8B val, co-led by Khosla Ventures + Lightspeed) via 3 primary sources: PR Newswire company press release [^51] (2025-09-23), StartupHub.ai [^52] (2025), Sacra [^53] (funding history). Same update propagated to investors/yuri-milner.md."
 - profile: firms/dst-global
   profile_name: DST Global
   company: Upgrade

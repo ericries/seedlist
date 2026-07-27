@@ -95,7 +95,7 @@ Based on 42 verified portfolio companies from Contrary's public portfolio page a
 | Candor | Seed | ~2020 | HR tech | Active [^1] |
 | Check | Seed | ~2019 | Fintech/payroll | Active [^1] |
 | DoorDash | Late stage | ~2018 | Delivery/logistics | IPO (NYSE: DASH, Dec 2020) [^6] |
-| Doss | Seed | 2025 | Enterprise SaaS | Active [^17] |
+| Doss | Seed (Contrary led; Theory Ventures joined) | ~2022 (late 2022 per Contrary Research); follow-on Series A 2025-04 ($18M, Theory-led); Series B 2026-03-24 ($55M, Madrona/Premji-led) | Enterprise SaaS / AI operations | Active [^17][^doss1][^doss2][^doss3] |
 | DualEntry | Seed | 2025 | Fintech/AI | Active [^17] |
 | Endeavor | Seed | 2024 | AI | Active [^17] |
 | Feathery | Seed | ~2021 | Developer tools | Active (profitable) [^1] |
@@ -182,3 +182,9 @@ Zepto CEO Aadit Palicha described receiving Contrary's first investment: "They s
 [^20]: Inshorts, "We got first capital of ₹40 lakh for free from Contrary: Zepto CEO," September 2023. https://inshorts.com/en/news/we-got-first-capital-of-%E2%82%B940-lakh-for-free-from-contrary-zepto-ceo-1695379981033
 
 [^21]: PR Newswire, "Corgi Insurance Raises $108 Million, Receives Regulatory Approval to Launch the First Full-Stack Insurance Carrier for Startups," January 9, 2026. https://www.prnewswire.com/news-releases/corgi-insurance-raises-108-million-receives-regulatory-approval-to-launch-the-first-full-stack-insurance-carrier-for-startups-302657727.html — Corgi's $108M Series A (co-led by Y Combinator and Kindred Ventures at a $630M valuation, announced January 9, 2026) included Contrary as a participant alongside SV Angel, Oliver Jung, Glade Brook, Seven Stars, Leblon, Fellows Fund, Alumni Ventures, Quadri Ventures, Vocal Ventures, Phosphor Capital, and Tekedia Capital. Cross-referenced with PR Newswire, "Corgi Raises $160 Million Series B," May 6, 2026, https://www.prnewswire.com/news-releases/corgi-raises-160-million-series-b-to-continue-expanding-its-full-stack-insurance-platform-into-new-verticals-302764003.html (confirms Contrary as prior-round investor; Contrary not listed among Series B participants). Cross-referenced with Tekedia, "Tekedia Capital Portfolio Startup, Corgi, Raises $108M at $630M Valuation," accessed May 2026. https://www.tekedia.com/tekedia-capital-portfolio-startup-corgi-raises-108m-at-630m-valuation/
+
+[^doss1]: Contrary, "Investing in Doss," April 15, 2025. Accessed July 2026. https://contrary.com/blog/investing-in-doss — Contrary's own blog stating they were "delighted to lead their seed round" for Doss, published alongside the Series A announcement.
+
+[^doss2]: Contrary Research, "DOSS Business Breakdown & Founding Story," accessed July 2026. https://research.contrary.com/company/doss — Contrary Research report noting "Prior to this DOSS had raised a seed round from Contrary in late 2022."
+
+[^doss3]: TechCrunch, "Doss raises $55M for AI inventory management that plugs into ERP," March 24, 2026. Accessed July 2026. https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/ — Third-source confirmation of Doss's funding trajectory including Contrary as a returning investor in the $55M Series B co-led by Madrona and Premji Invest, and confirming founders Wiley Jones (CEO) and Arnav Mishra (CTO).
