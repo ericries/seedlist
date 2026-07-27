@@ -3455,7 +3455,13 @@ vague_facts:
     Software | Acquired by Cisco (2017) |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened AppDynamics Series F row from
+    year "2015" to date "2015-12-01" with full participant list (General Atlantic + Altimeter
+    co-leads; new investors Adage Capital, Industry Ventures, Goldman Sachs, Cross Creek
+    Advisors; existing IVP, Greylock, Lightspeed participated; Robert Swan joined the
+    board) via 3+ primary sources: existing Aurigin [^18] + existing TechCrunch [^28][^29]
+    + NEW General Atlantic co-lead press release [^80] (2015-12-01). 1 new footnote.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Cockroach Labs
@@ -3477,7 +3483,14 @@ vague_facts:
     | [^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Roblox Series H row from year
+    "2021" to date "2021-01-06" with USD 520M at USD 29.5B post-money valuation, Altimeter
+    Capital and Dragoneer Investment Group co-leads, and Investment Group of Santa Barbara
+    + Warner Music Group as new participants, via 3+ primary sources: existing Business
+    Wire [^20] + NEW Gunderson Dettmer transaction counsel [^81] + NEW TechCrunch [^82].
+    Also updated startup profile roblox.md with same details plus 2 new footnotes [^17][^18].
+    2 new firm footnotes.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Grab
@@ -3498,7 +3511,15 @@ vague_facts:
   line: '| Plaid | Series D (lead) | 2021 | Fintech | Active | [^21] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Plaid Series D row from year
+    "2021" to date "2021-04-07" with USD 425M at USD 13.4B post-money, Altimeter Capital
+    lead, Silver Lake and Ribbit Capital new investors, and Andreessen Horowitz, Index
+    Ventures, Kleiner Perkins, NEA, Spark Capital, Thrive Capital as existing investors,
+    via 3+ primary sources: NEW Plaid company blog primary [^83] + existing TechCrunch
+    [^84] (2021-04-07 published) + NEW Finovate [^85]. Also updated plaid.md startup
+    Funding History row (dated to 2021-04-07) with 2 new footnotes [^15][^16]. 3 new
+    firm footnotes.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Modern Treasury

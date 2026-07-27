@@ -102,13 +102,13 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Snowflake | Series C (lead, $45M announced / $79M total) | 2015 | Cloud / Data | Public (IPO 2020) | [^3][^8][^26][^27] |
-| AppDynamics | Series F ($158M, co-led with General Atlantic) | 2015 | Enterprise Software | Acquired by Cisco (2017) | [^18][^28][^29] |
+| AppDynamics | Series F (USD 158M at USD 1.9B valuation; Altimeter Capital co-led with General Atlantic; Adage Capital, Industry Ventures, Goldman Sachs, Cross Creek Advisors joined; existing IVP, Greylock, Lightspeed participated) | 2015-12-01 | Enterprise Software | Acquired by Cisco (2017) | [^18][^28][^29][^80] |
 | Cockroach Labs | Series C (co-led, $55M) | 2019 | Database / Infrastructure | Active | [^19][^30][^31] |
 | Cockroach Labs | Series D (lead) | 2020 | Database / Infrastructure | Active | [^19] |
 | Cockroach Labs | Series E (lead) | 2021 | Database / Infrastructure | Active | [^19] |
-| Roblox | Series H (co-lead) | 2021 | Gaming / Metaverse | Public (DPO 2021) | [^20] |
+| Roblox | Series H (co-led with Dragoneer Investment Group; USD 520M at USD 29.5B post-money; Investment Group of Santa Barbara and Warner Music Group joined; existing investors also participated) | 2021-01-06 | Gaming / Metaverse | Public (DPO 2021) | [^20][^81][^82] |
 | Grab | SPAC merger | 2021 | Mobility / Fintech | Public (2021) | [^9][^10] |
-| Plaid | Series D (lead) | 2021 | Fintech | Active | [^21] |
+| Plaid | Series D (led; USD 425M at USD 13.4B post-money; Silver Lake and Ribbit Capital new; Andreessen Horowitz, Index Ventures, Kleiner Perkins, NEA, Spark Capital, Thrive Capital existing) | 2021-04-07 | Fintech | Active | [^21][^83][^84][^85] |
 | Modern Treasury | Series C (lead) | 2021 | Fintech | Active | [^22] |
 | Confluent | Pre-IPO | ~2020 | Data Streaming | Public (IPO 2021); acquired by IBM (2025) | [^23] |
 | Pine Labs | Series B | 2018 | Payments / Fintech | Public (IPO 2025) | [^24] |
@@ -330,3 +330,15 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^78]: EnergyChoiceMatters.com, "Base Power, Start-up Retail Provider Led By Zach Dell, Officially Launches; Retail Pricing, VPP Strategy Revealed," May 7, 2024, accessed July 16, 2026. https://www.energychoicematters.com/stories/20240507b.html — Independent industry press confirmation dated the launch/announcement date, May 7, 2024. Names capital providers: "Base has raised capital from Thrive Capital, Valor Equity Partners, Altimeter Capital, Trust Ventures, Terrain, and others." Announces official launch as retail electricity provider in Texas.
 
 [^79]: Crunchbase News, "The Week's Biggest Funding Rounds: Base Power Fuels Somewhat Quiet Week," April 11, 2025, accessed July 16, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-base-power-caris/ — Tier-1 tech-press retrospective confirming Base Power total funding of $268M since 2023 founding (Series A $68M + Series B $200M = $268M), corroborating $68M Series A figure. Also see Sacra profile https://sacra.com/c/base-power/ which independently records Series A as $68M closed May 8, 2024.
+
+[^80]: General Atlantic press release, "AppDynamics Closes $158 Million in Growth Financing to Fuel Platform and Sales Expansion," December 1, 2015, accessed July 2026. https://www.generalatlantic.com/media-article/appdynamics-closes-158-million-growth-financing-fuel-platform-sales-expansion/ — Primary co-lead press release confirming December 1, 2015 announcement date; $158M in growth financing led by General Atlantic and Altimeter Capital; new investors Adage Capital, Industry Ventures, Goldman Sachs, and Cross Creek Advisors; existing IVP, Greylock Partners, Lightspeed Venture Partners returned. Robert Swan (former eBay CFO, General Atlantic operating partner) joined the board.
+
+[^81]: Gunderson Dettmer client news, "Altimeter and Dragoneer Lead $520M Series H Financing of Roblox," January 6, 2021, accessed July 2026. https://www.gunder.com/en/news-insights/client-news/altimeter-and-dragoneer-lead-520m-series-h-financing-of-roblox — Primary transaction counsel confirmation of January 6, 2021 Series H announcement; $520M co-led by Altimeter Capital and Dragoneer Investment Group at $29.5B post-money valuation ($45.00 per share); includes David Baszucki CEO quote.
+
+[^82]: TechCrunch (Lucas Matney), "Roblox raises at $29.5 billion valuation, readies for direct listing," January 7, 2021, accessed July 2026. https://techcrunch.com/2021/01/07/robloxs-raises-at-29-5-billion-valuation-as-it-readies-for-direct-listing — Contemporaneous tier-1 tech press confirming $520M Series H, $29.5B valuation, Altimeter Capital and Dragoneer co-leads, Investment Group of Santa Barbara and Warner Music Group participation.
+
+[^83]: Plaid company blog (Zach Perret), "Digital finance is everywhere, but it's just getting started," April 7, 2021, accessed July 2026. https://plaid.com/blog/digital-finance-is-everywhere-but-its-just-getting-started/ — Primary company announcement of April 7, 2021 Series D confirming $425M raise; new investors Altimeter Capital (lead), Silver Lake, and Ribbit Capital; existing investors Andreessen Horowitz, Index Ventures, Kleiner Perkins, NEA, Spark Capital, Thrive Capital participated.
+
+[^84]: TechCrunch (Alex Wilhelm and Mary Ann Azevedo), "Plaid raises $425M Series D from Altimeter as it charts a post-Visa future," April 7, 2021, accessed July 2026. https://techcrunch.com/2021/04/07/plaid-raises-425m-series-d-from-altimeter-as-it-charts-a-post-visa-future/ — Contemporaneous tier-1 tech press confirming $425M Series D at $13.4B valuation led by Altimeter Capital; Silver Lake and Ribbit Capital new; prior investors participated.
+
+[^85]: Finovate, "Plaid Scores $425 Million in Series D Funding," April 7, 2021, accessed July 2026. https://finovate.com/plaid-scores-425-million-in-series-d-funding/ — Independent fintech-industry press confirmation of April 7, 2021 $425M Series D, $13.4B valuation, Altimeter Capital lead, and full investor lineup.
