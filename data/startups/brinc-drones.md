@@ -1,29 +1,52 @@
 ---
-name: "BRINC"
-slug: brinc-drones
-type: startup
-website: "https://brincdrones.com"
-location: "Seattle, WA"
-founded: 2017
-status_company: active
-sector: [drones, public-safety, defense, hardware, robotics]
-stage_latest: "Growth"
-total_raised: "$250M+"
-investors:
-  - slug: dylan-field
-    round: growth
-    year: 2026
-    date: 2026-07-14
 firms:
-  - slug: index-ventures
-    round: growth
-    year: 2026
-    date: 2026-07-14
+- date: 2026-07-14
+  round: growth
+  slug: index-ventures
+  year: 2026
+- round: Series C
+  slug: independent
+  year: 2025
+- round: '2025'
+  slug: hanabi-capital
+  year: 2025
+- round: Tusk participated (public-safety drones)
+  slug: tusk-ventures
+  year: 2021
+founded: 2017
 founders:
-  - name: "Blake Resnick"
-    role: "Founder & CEO"
-status: published
+- name: Blake Resnick
+  role: Founder & CEO
+investors:
+- date: 2026-07-14
+  round: growth
+  slug: dylan-field
+  year: 2026
+- round: '2025'
+  slug: ishani-thakur
+  year: 2025
+- round: Series B
+  slug: mike-volpi
+  year: 2025
+- round: Tusk participated (public-safety drones)
+  slug: bradley-tusk
+  year: 2021
 last_researched: 2026-07-26
+location: Seattle, WA
+name: BRINC
+sector:
+- drones
+- public-safety
+- defense
+- hardware
+- robotics
+slug: brinc-drones
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $250M+
+type: startup
+website: https://brincdrones.com
 ---
 
 ## About

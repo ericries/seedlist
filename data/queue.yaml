@@ -26844,7 +26844,7 @@ queue:
 - name: Elaine Wherry
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Edelweiss.vc
   discovered_from: brian-balfour
@@ -27975,7 +27975,7 @@ queue:
 - name: Vig Chandramouli
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Oak HC/FT
   discovered_from: stepful
@@ -41888,3 +41888,72 @@ queue:
   added: '2026-03-17'
   discovered_from: multiverse-computing
   source: participant Multiverse Computing Series C (2026-07-27)
+- name: Andrew Adams
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Oak HC/FT
+  discovered_from: vig-chandramouli
+- name: Turquoise Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vig-chandramouli
+- name: Trovo Health
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vig-chandramouli
+- name: Notable
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vig-chandramouli
+- name: Reveleer
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vig-chandramouli
+- name: Osso VR
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vig-chandramouli
+- name: Syllable
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vig-chandramouli
+- name: Akido
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vig-chandramouli
+- name: Sandy Jen
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: (Meebo co-founder, angel)
+  discovered_from: elaine-wherry
+- name: Seth Sternberg
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: (Meebo co-founder, Honor CEO)
+  discovered_from: elaine-wherry
+- name: Pipefy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elaine-wherry

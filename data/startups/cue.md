@@ -1,21 +1,38 @@
 ---
-name: "Cue"
-slug: cue
-type: startup
-website: "https://cue.ai"
-location: "Cape Town, South Africa"
+firms:
+- round: Seed
+  slug: sierra-ai
+  year: 2011
+- round: Seed
+  slug: mac-venture-capital
+  year: 2021
 founded: 2015
-status_company: active
-sector: [customer-service, ai, saas, conversational-ai, enterprise-software]
-stage_latest: "Primary funding round"
-total_raised: "$7M (approx., $5M 2026 + $2M 2024)"
-investors: []
-firms: []
 founders:
-  - name: "Richard Nischk"
-    role: "CEO"
-status: published
+- name: Richard Nischk
+  role: CEO
+investors:
+- round: Seed
+  slug: bret-taylor
+  year: 2011
+- round: Seed
+  slug: adrian-fenty
+  year: 2021
 last_researched: 2026-07-27
+location: Cape Town, South Africa
+name: Cue
+sector:
+- customer-service
+- ai
+- saas
+- conversational-ai
+- enterprise-software
+slug: cue
+stage_latest: Primary funding round
+status: published
+status_company: active
+total_raised: $7M (approx., $5M 2026 + $2M 2024)
+type: startup
+website: https://cue.ai
 ---
 
 ## About

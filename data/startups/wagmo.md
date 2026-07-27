@@ -1,21 +1,31 @@
 ---
-name: "Wagmo"
-slug: wagmo
-type: startup
-website: "https://wagmo.io"
-location: "New York, NY"
+firms:
+- round: Seed
+  slug: first-round-capital
+  year: 2019
 founded: 2018
-status_company: active
-sector: [insurtech, pet-tech, healthcare, benefits]
-stage_latest: "Strategic investment"
-total_raised: "undisclosed"
-investors: []
-firms: []
 founders:
-  - name: "Christie Horvath"
-    role: "Co-Founder & CEO"
-status: published
+- name: Christie Horvath
+  role: Co-Founder & CEO
+investors:
+- round: Seed
+  slug: liz-wessel
+  year: 2019
 last_researched: 2026-07-27
+location: New York, NY
+name: Wagmo
+sector:
+- insurtech
+- pet-tech
+- healthcare
+- benefits
+slug: wagmo
+stage_latest: Strategic investment
+status: published
+status_company: active
+total_raised: undisclosed
+type: startup
+website: https://wagmo.io
 ---
 
 ## About

@@ -1,21 +1,32 @@
 ---
-name: "Quorum"
-slug: quorum
-type: startup
-website: "https://www.quorum.us"
-location: "Washington, DC"
+firms:
+- round: Gruhas portfolio
+  slug: gruhas
+  year: 2018
 founded: 2014
-status_company: active
-sector: [govtech, saas, ai, public-affairs, vertical-saas]
-stage_latest: "Strategic investment"
-total_raised: "undisclosed"
-investors: []
-firms: []
 founders:
-  - name: "Alex Wirth"
-    role: "Co-Founder & CEO"
-status: published
+- name: Alex Wirth
+  role: Co-Founder & CEO
+investors:
+- round: Gruhas portfolio
+  slug: nikhil-kamath
+  year: 2018
 last_researched: 2026-07-27
+location: Washington, DC
+name: Quorum
+sector:
+- govtech
+- saas
+- ai
+- public-affairs
+- vertical-saas
+slug: quorum
+stage_latest: Strategic investment
+status: published
+status_company: active
+total_raised: undisclosed
+type: startup
+website: https://www.quorum.us
 ---
 
 ## About

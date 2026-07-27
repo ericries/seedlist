@@ -1,30 +1,39 @@
 ---
-name: "Thesis Care"
-slug: thesis-care
-type: startup
-website: "https://thesiscare.com"
-location: "New York, NY"
-founded: 2024
-status_company: active
-sector: [healthcare, ai, clinical-workflows, ai-agents, care-management]
-stage_latest: "Series A"
-total_raised: "$60M+"
 firms:
-  - slug: oak-hc-ft
-    round: series-a
-    year: 2026
-    date: 2026-03-25
-  - slug: crv
-    round: series-a
-    year: 2026
-    date: 2026-03-25
+- date: 2026-03-25
+  round: series-a
+  slug: oak-hc-ft
+  year: 2026
+- date: 2026-03-25
+  round: series-a
+  slug: crv
+  year: 2026
+founded: 2024
 founders:
-  - name: Niren Gandra
-    role: Co-Founder & CEO
-  - name: Aditya Pandyaram
-    role: Co-Founder & CPO
-status: published
+- name: Niren Gandra
+  role: Co-Founder & CEO
+- name: Aditya Pandyaram
+  role: Co-Founder & CPO
+investors:
+- round: active investment (board seat)
+  slug: vig-chandramouli
+  year: 2024
 last_researched: 2026-05-23
+location: New York, NY
+name: Thesis Care
+sector:
+- healthcare
+- ai
+- clinical-workflows
+- ai-agents
+- care-management
+slug: thesis-care
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $60M+
+type: startup
+website: https://thesiscare.com
 ---
 
 ## About

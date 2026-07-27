@@ -1,19 +1,38 @@
 ---
-name: "Flex"
-slug: flex
-type: startup
-website: "https://flex.one"
-location: "San Francisco, CA"
+firms:
+- round: Seed (Angel)
+  slug: kapor-capital
+  year: 2016
+- round: ~2021
+  slug: banana-capital
+  year: 2021
 founded: 2022
-status_company: active
-sector: [fintech, private-banking, wealth-management, ai, stablecoins]
-stage_latest: "Series B1"
-total_raised: "$130M+"
 founders:
-  - name: "Zaid Rahman"
-    role: "Founder & CEO"
-status: published
+- name: Zaid Rahman
+  role: Founder & CEO
+investors:
+- round: Seed (Angel)
+  slug: ellen-pao
+  year: 2016
+- round: ~2021
+  slug: turner-novak
+  year: 2021
 last_researched: 2026-07-26
+location: San Francisco, CA
+name: Flex
+sector:
+- fintech
+- private-banking
+- wealth-management
+- ai
+- stablecoins
+slug: flex
+stage_latest: Series B1
+status: published
+status_company: active
+total_raised: $130M+
+type: startup
+website: https://flex.one
 ---
 
 ## About

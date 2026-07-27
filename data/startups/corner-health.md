@@ -1,26 +1,34 @@
 ---
-name: "Corner Health"
-slug: corner-health
-type: startup
-website: "https://www.cornerhealth.com"
-location: "United States"
-status_company: active
-sector: [healthcare, primary-care, digital-health, ai, healthtech]
-stage_latest: "Series A"
-total_raised: "$32.5M"
-investors: []
 firms:
-  - slug: first-round-capital
-    round: series-a
-    year: 2026
-    date: 2026-07-09
+- date: 2026-07-09
+  round: series-a
+  slug: first-round-capital
+  year: 2026
 founders:
-  - name: "Lava Sunder"
-    role: "Co-Founder & CEO"
-  - name: "Anne Gifford"
-    role: "Co-Founder"
-status: published
+- name: Lava Sunder
+  role: Co-Founder & CEO
+- name: Anne Gifford
+  role: Co-Founder
+investors:
+- round: $32.5M Seed + Series A, Oak HC/FT led Series A
+  slug: vig-chandramouli
+  year: 2026
 last_researched: 2026-07-20
+location: United States
+name: Corner Health
+sector:
+- healthcare
+- primary-care
+- digital-health
+- ai
+- healthtech
+slug: corner-health
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $32.5M
+type: startup
+website: https://www.cornerhealth.com
 ---
 
 ## About

@@ -1,39 +1,55 @@
 ---
-name: "Enigma"
-slug: enigma-robotics
-type: startup
-website: "https://enigma.ai"
-location: "Tel Aviv, Israel / California"
-founded: 2024
-status_company: active
-sector: [robotics, ai, humanoid-robotics, foundation-models]
-stage_latest: "Seed"
-total_raised: "$70M"
 firms:
-  - slug: index-ventures
-    round: seed
-    year: 2026
-    date: 2026-07-27
-  - slug: ribbit-capital
-    round: seed
-    year: 2026
-    date: 2026-07-27
-  - slug: conviction
-    round: seed
-    year: 2026
-    date: 2026-07-27
-investors:
-  - slug: sarah-guo
-    round: seed
-    year: 2026
-    date: 2026-07-27
+- date: 2026-07-27
+  round: seed
+  slug: index-ventures
+  year: 2026
+- date: 2026-07-27
+  round: seed
+  slug: ribbit-capital
+  year: 2026
+- date: 2026-07-27
+  round: seed
+  slug: conviction
+  year: 2026
+- round: ~2019
+  slug: nea
+  year: 2019
+- round: Pre-Seed
+  slug: independent
+  year: 2021
+founded: 2024
 founders:
-  - name: "Jonathan Jacobi"
-    role: "Co-Founder"
-  - name: "Gal Niv"
-    role: "Co-Founder"
-status: published
+- name: Jonathan Jacobi
+  role: Co-Founder
+- name: Gal Niv
+  role: Co-Founder
+investors:
+- date: 2026-07-27
+  round: seed
+  slug: sarah-guo
+  year: 2026
+- round: ~2019
+  slug: scott-sandell
+  year: 2019
+- round: Pre-Seed
+  slug: wences-casares
+  year: 2021
 last_researched: 2026-07-27
+location: Tel Aviv, Israel / California
+name: Enigma
+sector:
+- robotics
+- ai
+- humanoid-robotics
+- foundation-models
+slug: enigma-robotics
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $70M
+type: startup
+website: https://enigma.ai
 ---
 
 ## About

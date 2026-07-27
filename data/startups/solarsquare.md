@@ -1,34 +1,45 @@
 ---
-name: "SolarSquare"
-slug: solarsquare
-type: startup
-website: "https://www.solarsquare.in"
-location: "Mumbai, India"
-founded: 2015
-status_company: active
-sector: [cleantech, climate, solar, residential-solar, energy]
-stage_latest: "Series C"
-total_raised: "$53M+"
-investors:
-  - slug: ashish-kacholia
-    round: series-c
-    year: 2026
-    date: 2026-07-21
-    note: "prior existing investor; participated in earlier rounds"
 firms:
-  - slug: lowercarbon-capital
-    round: series-c
-    year: 2026
-    date: 2026-07-21
+- date: 2026-07-21
+  round: series-c
+  slug: lowercarbon-capital
+  year: 2026
+- round: Series B
+  slug: gruhas
+  year: 2023
+founded: 2015
 founders:
-  - name: "Shreya Mishra"
-    role: "Co-Founder & CEO"
-  - name: "Neeraj Jain"
-    role: "Co-Founder"
-  - name: "Nikhil Nahar"
-    role: "Co-Founder"
-status: published
+- name: Shreya Mishra
+  role: Co-Founder & CEO
+- name: Neeraj Jain
+  role: Co-Founder
+- name: Nikhil Nahar
+  role: Co-Founder
+investors:
+- date: 2026-07-21
+  note: prior existing investor; participated in earlier rounds
+  round: series-c
+  slug: ashish-kacholia
+  year: 2026
+- round: Series B
+  slug: nikhil-kamath
+  year: 2023
 last_researched: 2026-07-25
+location: Mumbai, India
+name: SolarSquare
+sector:
+- cleantech
+- climate
+- solar
+- residential-solar
+- energy
+slug: solarsquare
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $53M+
+type: startup
+website: https://www.solarsquare.in
 ---
 
 ## About

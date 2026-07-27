@@ -1,27 +1,35 @@
 ---
-name: "Raghu Vamsi Aerospace Group"
-slug: raghu-vamsi-aerospace-group
-type: startup
-website: "https://www.raghuvamsi.com"
-location: "Hyderabad, India"
+firms:
+- round: Private Series B (co-invest with Norwest, Skegen)
+  slug: lucky-investment-managers
+  year: 2026
 founded: 2005
-status_company: active
-sector: [aerospace, defense, precision-manufacturing, deeptech, autonomous-systems]
-stage_latest: "Series B"
-total_raised: "$40M+"
-investors:
-  - slug: ashish-kacholia
-    round: series-b
-    year: 2026
-    date: 2026-07-20
-firms: []
 founders:
-  - name: "Vamsi Vikas"
-    role: "Founder & Managing Director"
-  - name: "Siva Arvinth"
-    role: "CEO"
-status: published
+- name: Vamsi Vikas
+  role: Founder & Managing Director
+- name: Siva Arvinth
+  role: CEO
+investors:
+- date: 2026-07-20
+  round: series-b
+  slug: ashish-kacholia
+  year: 2026
 last_researched: 2026-07-25
+location: Hyderabad, India
+name: Raghu Vamsi Aerospace Group
+sector:
+- aerospace
+- defense
+- precision-manufacturing
+- deeptech
+- autonomous-systems
+slug: raghu-vamsi-aerospace-group
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $40M+
+type: startup
+website: https://www.raghuvamsi.com
 ---
 
 ## About

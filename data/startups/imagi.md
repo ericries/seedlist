@@ -1,27 +1,34 @@
 ---
-name: "imagi"
-slug: imagi
-type: startup
-website: "https://imagilabs.com"
-location: "Stockholm, Sweden / New York, NY"
+firms:
+- round: Seed ($4.5M, led by Brighteye Ventures & Day One Capital)
+  slug: entire
+  year: 2026
 founded: 2018
-status_company: active
-sector: [edtech, ai, education, k-12]
-stage_latest: "Seed"
-total_raised: "USD 5.5M"
-investors:
-  - slug: thomas-dohmke
-    round: seed
-    year: 2026
-    date: 2026-07-23
-firms: []
 founders:
-  - name: "Dora Palfi"
-    role: "Co-Founder & CEO"
-  - name: "Beatrice Ionascu"
-    role: "Co-Founder"
-status: published
+- name: Dora Palfi
+  role: Co-Founder & CEO
+- name: Beatrice Ionascu
+  role: Co-Founder
+investors:
+- date: 2026-07-23
+  round: seed
+  slug: thomas-dohmke
+  year: 2026
 last_researched: 2026-07-25
+location: Stockholm, Sweden / New York, NY
+name: imagi
+sector:
+- edtech
+- ai
+- education
+- k-12
+slug: imagi
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: USD 5.5M
+type: startup
+website: https://imagilabs.com
 ---
 
 ## About

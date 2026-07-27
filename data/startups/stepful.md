@@ -19,6 +19,9 @@ investors:
 - round: Seed follow-on
   slug: jomayra-herrera
   year: 2023
+- round: $31.5M Series B, Oak HC/FT led
+  slug: vig-chandramouli
+  year: 2024
 last_researched: 2026-06-03
 location: New York, NY
 name: Stepful
