@@ -20,6 +20,54 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: BusinessNext raised $40M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-27'
+  parsed_company: BusinessNext
+  parsed_amount: $40M
+  parsed_round: null
+  status: pending
+- title: Paper raised $34M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-27'
+  parsed_company: Paper
+  parsed_amount: $34M
+  parsed_round: Series A
+  status: pending
+- title: Abstract raised $25M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-27'
+  parsed_company: Abstract
+  parsed_amount: $25M
+  parsed_round: null
+  status: pending
+- title: Ropedia raised $22M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-27'
+  parsed_company: Ropedia
+  parsed_amount: $22M
+  parsed_round: null
+  status: pending
+- title: Coverwatch raised $4.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-27'
+  parsed_company: Coverwatch
+  parsed_amount: $4.5M
+  parsed_round: null
+  status: pending
+- title: u003eThe company raised $5B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-27'
+  parsed_company: u003eThe company
+  parsed_amount: $5B
+  parsed_round: null
+  status: pending
 - title: Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation
   url: https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/
   source: techcrunch
@@ -833,51 +881,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-13'
   parsed_company: Austria’s Sodex Innovations
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/13/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-13-2026/
-  source: alleywatch
-  date_found: '2026-07-13'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Hermes agent maker Nous Research in talks for new funding at $1.5B valuation
-  url: https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/
-  source: techcrunch
-  date_found: '2026-07-13'
-  parsed_company: null
-  parsed_amount: $1.5B
-  parsed_round: null
-  status: pending
-- title: JZR Gold Inc. Closes Non-Brokered Private Placement Offering of Units
-  url: https://www.globenewswire.com/news-release/2026/07/10/3325280/0/en/JZR-Gold-Inc-Closes-Non-Brokered-Private-Placement-Offering-of-Units.html
-  source: globenewswire
-  date_found: '2026-07-10'
-  parsed_company: JZR Gold Inc.
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Kraken Technology Group makes waves as Europe’s newest maritime defence unicorn
-    with €152.9 million Series B
-  url: https://www.eu-startups.com/2026/07/kraken-technology-group-makes-waves-as-europes-newest-maritime-defence-unicorn-with-e152-9-million-series-b/
-  source: eu-startups
-  date_found: '2026-07-10'
-  parsed_company: Kraken Technology Group
-  parsed_amount: $175M
-  parsed_round: Series B
-  status: processed
-  notes: created startup profile kraken-technology-group.md; $175M Series B led by
-    DTCP with British Business Bank, NATO Innovation Fund, Rheinmetall, Inocea, HICO,
-    Thesiger, BOKA, Supernova Invest, Hakluyt; UK maritime defence unicorn (2026-07-09)
-- title: AI puts UK startup funding back in the big leagues with strongest first half
-    since 2022, new data shows
-  url: https://www.eu-startups.com/2026/07/ai-puts-uk-startup-funding-back-in-the-big-leagues-with-strongest-first-half-since-2022-new-data-shows/
-  source: eu-startups
-  date_found: '2026-07-10'
-  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
