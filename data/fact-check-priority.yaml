@@ -3497,3 +3497,7 @@ priority:
   type: firm
   reason: "appeared in Nuclear Turbines Foundational (2026-07-27), £15M"
   added: 2026-07-27
+- slug: paradigm
+  type: firm
+  reason: "co-led Antares Series C (2026-07-27), $470M"
+  added: 2026-07-27

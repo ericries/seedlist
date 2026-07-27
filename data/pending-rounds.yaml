@@ -63,6 +63,62 @@ pending_rounds:
   parsed_amount: $70M
   parsed_round: null
   status: pending
+- title: Antares raises $470M to build nuclear reactors for the US military
+  url: https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/
+  source: techcrunch
+  date_found: '2026-07-27'
+  parsed_company: Antares
+  parsed_amount: $470M
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/27/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-27-2026-2/
+  source: alleywatch
+  date_found: '2026-07-27'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 7/27/26'
+  url: https://alleywatch.com/2026/07/the-weekly-notable-startup-funding-report-7-27-26/
+  source: alleywatch
+  date_found: '2026-07-27'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Prentis raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-27'
+  parsed_company: Prentis
+  parsed_amount: $100M
+  parsed_round: null
+  status: pending
+- title: Telli raised $15M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-27'
+  parsed_company: Telli
+  parsed_amount: $15M
+  parsed_round: Seed
+  status: pending
+- title: Market Technology Acquisition raised $200M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-27'
+  parsed_company: Market Technology Acquisition
+  parsed_amount: $200M
+  parsed_round: null
+  status: pending
+- title: Scribe had raised $121M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-27'
+  parsed_company: Scribe had
+  parsed_amount: $121M
+  parsed_round: null
+  status: pending
 - title: Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation
   url: https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/
   source: techcrunch
@@ -315,6 +371,14 @@ pending_rounds:
   status: processed
   notes: passionfroot.md already existed; updated insight-partners and creandum portfolios;
     Insight Partners led with Creandum, Supernode Global, s16vc on 2026-07-22
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/27/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-27-2026/
+  source: alleywatch
+  date_found: '2026-07-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Berlin’s Deutsche Sanierungsberatung raises over €10 million to accelerate
     climate-neutral home renovations
   url: https://www.eu-startups.com/2026/07/berlin-based-deutsche-sanierungsberatung-raises-over-e10-million-to-accelerate-climate-neutral-home-renovations/
@@ -817,57 +881,6 @@ pending_rounds:
   source: crunchbase
   date_found: '2026-07-14'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: The June 2026 US Venture Capital Funding Report
-  url: https://alleywatch.com/2026/07/us-venture-capital-statistics-june-2026/
-  source: alleywatch
-  date_found: '2026-07-14'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Dutch Clean Tech raises €15 million after acquiring 25% stake in Guatemalan
-    drinking water firm Agua del Mariscal
-  url: https://www.eu-startups.com/2026/07/dutch-clean-tech-raises-e15-million-to-acquire-25-stake-in-guatemalas-drinking-water-firm-agua-del-mariscal/
-  source: eu-startups
-  date_found: '2026-07-14'
-  parsed_company: Dutch Clean Tech
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/14/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-14-2026/
-  source: alleywatch
-  date_found: '2026-07-14'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 7/13/26'
-  url: https://alleywatch.com/2026/07/the-weekly-notable-startup-funding-report-7-13-26/
-  source: alleywatch
-  date_found: '2026-07-13'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Mycelium-based paving material developer Visibuilt raises €3.34 million out
-    of Denmark
-  url: https://www.eu-startups.com/2026/07/mycelium-based-paving-material-developer-visibuilt-raises-e3-34-million-out-denmark/
-  source: eu-startups
-  date_found: '2026-07-13'
-  parsed_company: Mycelium-based paving material developer Visibuilt
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Austria’s Sodex Innovations secures €4 million to scale automated construction-site
-    surveying
-  url: https://www.eu-startups.com/2026/07/austrias-sodex-innovations-secures-e4-million-to-scale-automated-construction-site-surveying/
-  source: eu-startups
-  date_found: '2026-07-13'
-  parsed_company: Austria’s Sodex Innovations
   parsed_amount: null
   parsed_round: null
   status: pending
