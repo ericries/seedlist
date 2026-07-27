@@ -41957,3 +41957,41 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: elaine-wherry
+- name: Cloudberry Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sofab-inks
+  source: Led Sofab Inks $6M seed (2026-07-21); founded 2024 by ex-Google executive
+    Mahir Sahin
+- name: MagnaSci Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vikk-ai
+  source: Led Vikk AI $3.5M seed (2026-07-21); Cooper Collins is Managing Member
+- name: The Family Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: smash-foods
+  source: Participated in Smash Foods $18M Series A (2026-07-23)
+- name: Eclair Partners
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: smash-foods
+  source: Participated in Smash Foods $18M Series A (2026-07-23); also reported as
+    Eclair Ventures
+- name: Cooper Collins
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: MagnaSci Ventures
+  discovered_from: vikk-ai
+  source: Managing Member of MagnaSci; led Vikk AI $3.5M seed (2026-07-21)
