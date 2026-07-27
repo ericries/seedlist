@@ -28,6 +28,24 @@ pending_rounds:
   parsed_amount: $5B
   parsed_round: null
   status: pending
+- title: Manchester’s Nuclear Turbines raises €17.5 million to develop compact, cost-effective
+    nuclear power systems
+  url: https://www.eu-startups.com/2026/07/manchesters-nuclear-turbines-raises-e17-5-million-to-develop-compact-cost-effective-nuclear-power-systems/
+  source: eu-startups
+  date_found: '2026-07-27'
+  parsed_company: Manchester’s Nuclear Turbines
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Spain’s Multiverse Computing hits unicorn status after raising €500 million
+    Series C at €1.5 billion valuation
+  url: https://www.eu-startups.com/2026/07/spains-multiverse-computing-hits-unicorn-status-after-raising-e500-million-series-c-at-e1-5-billion-valuation/
+  source: eu-startups
+  date_found: '2026-07-27'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
 - title: Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation
   url: https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/
   source: techcrunch
