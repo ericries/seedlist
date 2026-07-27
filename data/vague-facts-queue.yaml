@@ -3763,7 +3763,14 @@ vague_facts:
     | Community Management | [^9] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Mobilize row to 2016-09-21
+    (contemporaneous TechCrunch date) with full participant list (Trinity Ventures
+    lead; Floodgate, Hillsven Capital, Array Ventures, UpWest Labs, Eoghan McCabe,
+    Sanjay Subhedar) via 3+ primary sources: existing TechSeen [^9] (2016-09-22)
+    + NEW TechCrunch [^13] (2016-09-21, primary announcement) + NEW Yahoo News SG
+    / e27 syndication [^14] (2016-09-22). 2 new footnotes added.
+    resolved: 2026-07-27'
 - profile: firms/array-ventures
   profile_name: Array Ventures
   company: Wabi
@@ -4182,7 +4189,17 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: CORRECTED "~2021" (WRONG) to "2022-08-24"
+    — Bun''s actual seed round (as Oven) was announced 2022-08-24 at USD 7M, Kleiner
+    Perkins led (Bucky Moore) with Guillermo Rauch and Y Combinator participating.
+    Verified via 3 primary sources: NEW DevClass [^10] (2022-08-24, primary announcement)
+    + NEW Kleiner Perkins "Celebrating Bun" [^11] + NEW Bun blog "Bun is joining
+    Anthropic" [^12] (confirms 2025-12-02 Anthropic acquisition). Note: Banana Capital
+    lists Bun on its portfolio page [^1] but is NOT independently named in the primary
+    seed announcement (KP article names only KP, Rauch, YC "and more"); this caveat
+    is flagged inline in the profile. 3 new footnotes added.
+    resolved: 2026-07-27'
 - profile: firms/banana-capital
   profile_name: Banana Capital
   company: ScienceIO
@@ -4397,7 +4414,18 @@ vague_facts:
   line: '| Twitter | Seed | 2007-01 | Social media | IPO | [^2][^18] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: partial resolution — "2007-01" appears
+    to be a Crunchbase fallback default (2007-01-01), not a documented date. Contemporaneous
+    primary press (TechCrunch 2007-07-26 [^22] and 2007-07-29 [^23]) covering Twitter''s
+    July 2007 USD 5M venture round names Union Square Ventures (lead), Charles River
+    Ventures, Marc Andreessen, Dick Costolo, Ron Conway, Naval Ravikant — Baseline
+    is NOT named. Baseline self-attributes as "seed investor in Twitter" on baselinev.com/founder
+    [^1] but no primary press documents the specific round/date. Updated table to
+    "2007" year-only with an explicit inline caveat about the sourcing gap; added
+    2 new footnotes ([^22], [^23]) documenting the primary press that does not corroborate
+    a specific Baseline round.
+    resolved: 2026-07-27'
 - profile: firms/baseline-ventures
   profile_name: Baseline Ventures
   company: Heroku

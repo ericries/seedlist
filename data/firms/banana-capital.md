@@ -70,7 +70,7 @@ Based on 21 verified portfolio companies from Banana Capital's website and press
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | BeReal | Seed (Kima Ventures, New Wave co-led) | 2020 | Consumer/Social | Acquired (Voodoo, €500M, 2024) | [^1][^7] |
-| Bun | Seed | ~2021 | Developer Tools/Runtime | Acquired (Anthropic) | [^1] |
+| Bun | Seed ($7M as Oven, KP-led with Guillermo Rauch and Y Combinator; Banana Capital listed as portfolio investor per firm site — not independently named in primary press) | 2022-08-24 | Developer Tools/Runtime | Acquired (Anthropic, 2025-12-02) | [^1][^10][^11][^12] |
 | ScienceIO | Seed | ~2021 | Health/AI | Acquired (Veradigm) | [^1] |
 | Bee | Seed | ~2021 | Consumer/Productivity | Acquired (Amazon) | [^1] |
 | Chainguard | Seed | 2022 | Developer Tools/Security | Active (Unicorn, 2024) | [^1][^6] |
@@ -116,3 +116,6 @@ No independently sourced founder testimonials found. Banana Capital's website no
 [^7]: Nordic 9, "BeReal closed a $30 million capital funding round backed by a16z, DST, Accel and Kima Ventures." Confirms seed round by Kima Ventures and New Wave in late 2020. https://nordic9.com/news/bereal-closed-a-30-million-capital-funding-round-backed-by-a16z-dst-accel-and-kima-ventures/
 [^8]: PR Newswire, "Mindset Health raises US$12m to expand digital hypnotherapy apps & scale distribution," March 21, 2023, accessed June 2026. https://www.prnewswire.com/news-releases/mindset-health-raises-us12m-to-expand-digital-hypnotherapy-apps--scale-distribution-301776991.html
 [^9]: MobiHealthNews, "Digital therapeutics startup Mindset Health scores $12M in Series A funding," March 22, 2023, accessed June 2026. https://www.mobihealthnews.com/news/anz/digital-therapeutics-startup-mindset-health-scores-12m-series-funding
+[^10]: DevClass, "Bun announces Oven, promises first bake in six months," August 24, 2022, accessed July 2026. https://devclass.com/2022/08/24/bun-announces-oven — Contemporaneous primary press: Oven (the company behind Bun) raised $7M on 2022-08-24 with Kleiner Perkins leading and Guillermo Rauch (Vercel) participating. Banana Capital is not named in this article.
+[^11]: Kleiner Perkins, "Celebrating Bun," December 2, 2025, accessed July 2026. https://www.kleinerperkins.com/perspectives/celebrating-bun/ — Kleiner Perkins confirms it "proudly led Bun (then called Oven's) Seed" and that Bun launched v0.1.0 in 2022 with 20k GitHub stars in its first week.
+[^12]: Bun Blog, "Bun is joining Anthropic," December 2, 2025, accessed July 2026. https://bun.com/blog/bun-joins-anthropic — Company primary confirming Anthropic acquisition on 2025-12-02.

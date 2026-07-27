@@ -79,7 +79,7 @@ Based on Array's publicly listed portfolio of approximately 52 active investment
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Mobilize | Series A (participant; Trinity Ventures led, $6.5M) | 2016-09-22 | Community Management | [^9] |
+| Mobilize | Series A (participant; Trinity Ventures led, $6.5M; Floodgate, Hillsven Capital, UpWest Labs, Eoghan McCabe, Sanjay Subhedar also participated) | 2016-09-21 | Community Management | [^9][^13][^14] |
 | Simility | Seed | ~2016 | Fraud/Security | Acquired by PayPal [^1] |
 | Placer.ai | Pre-seed | ~2017 | Data Analytics | Unicorn [^7] |
 | Solugen | Pre-seed | ~2017 | Climate/Materials | Unicorn [^1] |
@@ -130,3 +130,5 @@ No independently sourced founder testimonials found. Array Ventures' website inc
 [^10]: PRNewswire, "Blumira Raises New Round of Funding For Threat Detection & Response," August 11, 2020, accessed June 2026. https://www.prnewswire.com/news-releases/blumira-raises-new-round-of-funding-for-threat-detection--response-301109106.html — Confirms Blumira's $2.6M seed round on 2020-08-11, led by M25 with participation from Array Ventures.
 [^11]: Blumira blog, "Blumira Raises New Round of Funding For Threat Detection & Response," August 11, 2020, accessed June 2026. https://www.blumira.com/blog/blumira-raises-funding-threat-detection-response — Company's own announcement confirming $2.6M seed led by M25 with Array Ventures participating.
 [^12]: TechStartups, "Blumira emerges from stealth with $2.6 million in funding to offer automated threat detection and response to organizations," August 11, 2020, accessed June 2026. https://techstartups.com/2020/08/11/blumira-emerges-stealth-2-6-million-funding-offer-automated-threat-detection-response-organiztions/ — Contemporaneous tech press coverage confirming round details.
+[^13]: TechCrunch, "New messaging platform Mobilize raises $6.5 million," September 21, 2016, accessed July 2026. https://techcrunch.com/2016/09/21/new-messaging-platform-mobilize-raises-6-5-million/ — Contemporaneous primary press announcing Mobilize's $6.5M Series A on 2016-09-21; Trinity Ventures led with Floodgate Ventures, Hillsven Capital, Array Ventures, UpWest Labs, and angels Eoghan McCabe (Intercom.io) and Sanjay Subhedar participating.
+[^14]: Yahoo News Singapore / e27 syndication, "Israeli group communications startup Mobilize raises US$6.5M Series A, tackles Slack," September 22, 2016, accessed July 2026. https://sg.news.yahoo.com/israeli-group-communications-startup-mobilize-raises-us-6-011158232.html — Independent confirmation of 2016-09-21 announcement with Array Ventures as participant; also confirms prior seed rounds (Nov 2014 $1.125M and June 2015 $800K) that did NOT include Array Ventures.
