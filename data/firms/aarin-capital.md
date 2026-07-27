@@ -79,12 +79,12 @@ This table lists 14 named Aarin Capital portfolio investments confirmed by conte
 | Counsyl | Venture Round (~$65M total raised at that point; Aarin/Manipal Group participated alongside Founders Fund, Felicis Ventures, David Drummond, Rosemont Seneca, WTI, Jeff Dean) | 2013-04-23 | Ranjan Pai (Manipal Group) | Life Sciences/Genomics | Acquired by Myriad (2018) [^5][^16][^17] |
 | Faircent | Series A (led, undisclosed amount; third funding round for Faircent within a year) | 2015-10-12 | Mohandas Pai | Fintech/Lending | Active [^5][^18][^19] |
 | Vyome Biosciences | Series A ($3.3M co-investor; Kalaari Capital led with Navam Capital and Aarin Capital participating; total round Rs 18.5 cr) | 2012-09 | Ranjan Pai (joined board Dec 2014) | Life Sciences | Active [^5][^20][^21][^22] |
-| Vyome Biosciences | Series B (existing investor; $8M led by Sabre Partners; Kalaari + Aarin returned) | 2014-08-12 | — | Life Sciences | Active [^21][^22] |
+| Vyome Biosciences | Series B (existing investor; $8M led by Sabre Partners; Kalaari + Aarin returned) | 2014-08-12 | Ranjan Pai (board seat added Dec 2014) | Life Sciences | Active [^21][^22][^26] |
 | TripFactory | Series A | 2015 | Mohandas Pai | Travel | Active [^12] |
 | KleverKid | Seed ($500K) | 2015-05-07 | Mohandas Pai | EdTech | Deadpooled (Dec 2016) [^13][^15] |
 | YourStory | Early | ~2014-2015 | — | Media | Active [^5][^14] |
 | Praxify | Early | ~2013 | — | HealthTech/SaaS | Acquired [^5] |
-| HomeLane | Series A (USD 4.5M co-investor; Sequoia Capital India led; Aarin Capital participated) | 2015-02-24 | — | Interior Design / Home | Active [^5][^23][^24][^25] |
+| HomeLane | Series A (USD 4.5M co-investor; Sequoia Capital India led; Aarin Capital participated) | 2015-02-24 | Ranjan Pai & Mohandas Pai | Interior Design / Home | Active [^5][^23][^24][^25] |
 | PharmEasy (API Holdings) | Early | ~2016 | — | HealthTech / Pharmacy | Active [^6] |
 ~unknown| Jigsaw Academy | Early | — | — | EdTech / Analytics | Active [^14] |
 ~unknown| Impact Analytics | Early | — | — | SaaS / Retail | Active [^4] |
@@ -132,4 +132,6 @@ No independently sourced founder testimonials about Aarin Capital (as distinct f
 
 [^24]: AVCJ (Asian Venture Capital Journal), "Sequoia leads $4.5m round for Indian interior design start-up HomeLane," February 25, 2015. Accessed July 2026. https://www.avcj.com/avcj/news/60588/sequoia-leads-usd45m-round-for-indian-interior-design-start-up-homelane — Second independent primary source for HomeLane's Series A. Names Sequoia Capital as lead and Aarin Capital as participating investor.
 
-[^25]: The Tech Portal, "HomeLane raises $4.5 Million in Series A to cut through your interior-designing worries," February 24, 2015. Accessed July 2026. https://thetechportal.com/2015/02/24/homelane-series-a/ — Third independent primary source for HomeLane's Series A. Captures G V Ravi Shankar (Sequoia Capital India Advisors MD) quote: "We have known Srikanth and team for many years and are thrilled to partner with them again to solve a very large pain point in the home improvement market." Also captures HomeLane COO Prabhu Venkatesh quote on the "30 days from order to installation" product guarantee.
+[^25]: The Tech Portal, "HomeLane raises $4.5 Million in Series A to cut through your interior-designing worries," February 24, 2015. Accessed July 2026. https://thetechportal.com/2015/02/24/homelane-series-a/ — Third independent primary source for HomeLane's Series A. Names Aarin Capital investors as "led by Dr. Ranjan Pai and Padma Shri awardee Mohandas Pai." Captures G V Ravi Shankar (Sequoia Capital India Advisors MD) quote and HomeLane COO Prabhu Venkatesh quote on the "30 days from order to installation" product guarantee.
+
+[^26]: Bio-IT World, "Vyome Ropes in Ranjan Pai in its Board of Directors," December 2, 2014. Accessed July 2026. https://www.bio-itworld.com/press-release/2014/12/02/vyome-ropes-in-ranjan-pai-in-its-board-of-directors — Primary source (URL returned 403 on direct fetch; content confirmed via search snippet) confirms Dr. Ranjan Pai, MD and CEO of Manipal Education & Medical Group, joined Vyome Biosciences Board of Directors December 2014; Bio-IT World describes Ranjan's venture firm Aarin Capital as an existing investor in Vyome — establishing Ranjan Pai as the Aarin Capital board representative for the Vyome relationship starting December 2014, four months after the August 2014 Series B closing.

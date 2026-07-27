@@ -1003,7 +1003,9 @@ vague_facts:
     Kalaari + Aarin returned) | 2014-08-12 | —'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  resolution_note: 'Fact-spec sweep 2026-07-27: Filled Lead Partner column for Vyome Series B (2014-08-12) with "Ranjan Pai (board seat added Dec 2014)". Confirmed via 3 primary sources: PR Newswire India Sabre-led Series B release [^21] (2014-08-12), BioSpace board update [^22] (Oct 2015) confirming Aarin backing, and NEW Bio-IT World primary [^26] (2014-12-02) confirming "Dr Ranjan Pai...has joined its Board of Directors. Dr Pai''s venture firm Aarin Capital is an investor in Vyome." 1 new footnote added.'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: YourStory
@@ -1034,7 +1036,9 @@ vague_facts:
     Capital participated) | 2015-02-24 | — | I'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  resolution_note: 'Fact-spec sweep 2026-07-27: Filled Lead Partner column for HomeLane Series A (2015-02-24) with "Ranjan Pai & Mohandas Pai" — both Aarin partners named as investors leading the firm''s involvement. Confirmed via 3 sources: The Tech Portal [^25] (2015-02-24) names investors "led by Dr. Ranjan Pai and Padma Shri awardee Mohandas Pai"; TechCrunch [^23] (2015-02-24) primary tier-1 press confirms round; AVCJ [^24] (2015-02-25) independent confirmation. Existing [^23][^24][^25] citations already in place; footnote [^25] amended to preserve Aarin partner naming.'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: PharmEasy (API Holdings)
@@ -1176,7 +1180,9 @@ vague_facts:
   line: '| Perplexity | Series D (led) | 2025-05-14 | AI | [^9][^55] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  resolution_note: 'Fact-spec sweep 2026-07-27: CORRECTED round type on Perplexity row from "Series D" to "Series E ($500M, led at $14B valuation)" — the December 2024 SoftBank/Nvidia/IVP-led $500M @ $9B was Perplexity''s actual Series D; the May 2025 Accel-led round is Series E. Verified via 3 primary sources: Tracxn round history [^140] (authoritative round sequencing showing 11 rounds total incl. Dec 2024 Series D and May 2025 Series E), YourStory contemporaneous coverage of Dec 2024 Series D at $9B (https://yourstory.com/2024/12/softbank-backed-perplexity-bags-funding-valuation), and PYMNTS "Report: Perplexity Closed $500 Million Funding Round in Early December" (2024-12-18). Existing [^55] FinTech Weekly citation had mistakenly labeled the round as Series D; footnote annotation updated. 1 new footnote added [^140]; also added $500M amount and $14B valuation to row.'
 - profile: firms/accel
   profile_name: Accel
   company: Anysphere (Cursor)
