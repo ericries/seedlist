@@ -211990,7 +211990,9 @@ vague_facts:
   line: '| Snyk | Series D (led) | 2020 | Cybersecurity | Active [^13] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  note: "Fact-spec sweep 2026-07-27: tightened Snyk Series D row from '2020' to '2020-09-09' with full co-investor list (Accel, Boldstart, Canaan, Coatue, GV, Salesforce Ventures, Stripes, Tiger Global, Trend Forward, Amity) and $200M amount at $2.6B valuation. Existing PR Newswire [^13] source re-verified via WebFetch on 2026-07-27, confirming date/amount/participants. No new footnote required (already fully cited)."
 - profile: firms/addition
   profile_name: Addition
   company: dLocal
@@ -212000,7 +212002,9 @@ vague_facts:
   line: '| dLocal | Growth | 2020 | Fintech/Payments | IPO 2021 [^10] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  note: "Fact-spec sweep 2026-07-27: tightened dLocal row from '2020' to '2020-09-15' and clarified Addition was participant (not lead) — General Atlantic led up to USD 200M at USD 1.2B valuation with Addition joining as new investor. Verified via 3 primary sources: existing LAVCA [^10] + NEW dLocal press release [^39] (2020-09-15) + NEW FinSMEs [^40] (2020-09-15). 2 new footnotes added ([^39], [^40])."
 - profile: firms/addition
   profile_name: Addition
   company: Chainalysis
@@ -212011,7 +212015,9 @@ vague_facts:
     |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  note: "Fact-spec sweep 2026-07-27: tightened Chainalysis Series C row from '2020' to '2020-11-23' with $100M amount at $1B+ valuation and returning-investor participants (Accel, Benchmark, Ribbit Capital) via 3 primary sources: existing PR Newswire [^16] + NEW Chainalysis company blog [^41] (2020-11-23 primary) confirming Addition led with $100M at over $1B valuation. 1 new footnote added [^41]."
 - profile: firms/addition
   profile_name: Addition
   company: Hugging Face

@@ -26,7 +26,7 @@ team:
     name: "Jennifer Lambert"
 tldr: "Solo-GP firm ($7.1B across five funds) founded in 2020 by Lee Fixel, former Tiger Global private equity head. Fixel makes all investment decisions personally, enabling hour-not-week deal velocity. Portfolio (73+ companies, 17 unicorns) skews growth-stage despite claiming one-third early-stage: 61% of verified first investments are Series C or later. Focus on AI (Hugging Face, Snorkel AI), fintech (dLocal IPO, Airwallex), and developer tools (Snyk, Alchemy). Strong India connection from Tiger Global years."
 status: published
-last_researched: 2026-03-23
+last_researched: 2026-07-27
 ---
 
 ## About
@@ -88,11 +88,11 @@ The firm skews more growth-stage than its stated one-third early-stage allocatio
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Snyk | Series D (led) | 2020 | Cybersecurity | Active [^13] |
+| Snyk | Series D (led, $200M at $2.6B+; co-investors Accel, Boldstart, Canaan, Coatue, GV, Salesforce Ventures, Stripes, Tiger Global, Trend Forward, Amity) | 2020-09-09 | Cybersecurity | Active [^13] |
 | Lyra Health | Series D (led, $110M) | 2020-08-25 | Digital Health | Active [^14][^37][^38] |
-| dLocal | Growth | 2020 | Fintech/Payments | IPO 2021 [^10] |
+| dLocal | Growth (participant; General Atlantic led up to $200M at $1.2B) | 2020-09-15 | Fintech/Payments | IPO 2021 [^10][^39][^40] |
 | Inshorts | Growth (led) | 2020-09-30 | Media/Content | Active [^15] |
-| Chainalysis | Series C (led) | 2020 | Blockchain Analytics | Active [^16] |
+| Chainalysis | Series C (led, $100M at $1B+ valuation; Accel, Benchmark, Ribbit Capital returned) | 2020-11-23 | Blockchain Analytics | Active [^16][^41] |
 | Hugging Face | Series B (led) | 2021 | AI/ML | Active [^17] |
 | Alchemy | Series B (co-led) | 2021 | Blockchain/Developer Tools | Active [^18] |
 | Built Technologies | Series C (led) | 2021 | Construction Tech | Active [^19] |
@@ -172,3 +172,6 @@ Chase Gilbert, Co-founder and CEO of Built Technologies (portfolio company), sta
 [^36]: Tech.eu, "£15M boost for Hello Vet as it reimagines the future of veterinary care," December 11, 2025. https://tech.eu/2025/12/11/ps15m-boost-for-hello-vet-as-it-reimagines-the-future-of-veterinary-care/
 [^37]: MobiHealthNews, "Lyra Health brings in $110M Series D for digital behavioral health benefits," August 25, 2020. https://www.mobihealthnews.com/news/lyra-health-brings-110m-series-d-digital-behavioral-health-benefits
 [^38]: Behavioral Health Business, "Behavioral Benefits Provider Lyra Health Raises $110 Million," August 25, 2020. https://bhbusiness.com/2020/08/25/behavioral-benefits-provider-lyra-health-raises-110-million-%EF%BB%BF/
+[^39]: dLocal press release, "dLocal Achieves $1.2B Valuation After Securing New $200M Investment — General Atlantic led up to USD 200M growth investment; Addition joined as new investor," September 15, 2020. Accessed July 27, 2026. https://www.dlocal.com/press-releases/latin-america-newest-unicorn/
+[^40]: FinSMEs, "dLocal Receives $200M Investment; Achieves $1.2B Valuation," September 15, 2020. Accessed July 27, 2026. https://www.finsmes.com/2020/09/dlocal-receives-200m-investment-achieves-1-2b-valuation.html
+[^41]: Chainalysis company blog, "Announcing Our Series C — Addition led USD 100M round at over USD 1B valuation with Accel, Benchmark, and Ribbit Capital participating," November 23, 2020. Accessed July 27, 2026. https://www.chainalysis.com/blog/series-c-announcement/
