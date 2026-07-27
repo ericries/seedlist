@@ -1,0 +1,10 @@
+- name: "Knife Capital"
+  type: firm
+  firm: null
+  priority: normal
+  discovered_from: cue
+- name: "FAM Investments"
+  type: firm
+  firm: null
+  priority: normal
+  discovered_from: cue
