@@ -41827,3 +41827,15 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: cyclops
+- name: Knife Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cue
+- name: FAM Investments
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cue
