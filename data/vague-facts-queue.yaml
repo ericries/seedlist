@@ -12687,7 +12687,22 @@ vague_facts:
   line: '| AMP Robotics | Early | ~2018 | Recycling robotics | Active | [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_note: 'Checked AMP Robotics primary press for every announced round —
+    Seed 2017-10-23 ($3.2M), Series A 2019-11-14 ($16M, led by Sequoia), Series B
+    2021-01-04 ($55M, led by XN), Series C 2022-11-02 ($91M, led by Congruent/Wellington),
+    Series D 2024-12-05 ($91M, led by Congruent). Incite Ventures is NOT named in
+    any AMP company press release, BusinessWire announcement, Recycling Today article,
+    or TechCrunch coverage across any round. Swati Mylavarapu and Matt Rogers are
+    also not named individually. The only evidence of an Incite-AMP relationship
+    is AMP appearing on Incite''s own portfolio page (https://www.incite.org/innovators/),
+    which lists it under "Growth" with no round or date. Row updated to "Seed (round
+    unspecified) / Pre-2019 (round unspecified)" with the AMP Series A + Series B
+    press releases added as footnotes [^17][^18][^19] explicitly noting Incite is
+    absent from named investor lists. This appears to be either a very small angel
+    check that never got press attribution or a late secondary; not resolvable to
+    a specific round from public sources.'
+  resolved: 2026-07-26
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
   company: Charm Industrial
@@ -12719,7 +12734,20 @@ vague_facts:
     Series A 2024-04-16, $20M Series B 2025-12-08'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-26
+  resolution_note: >-
+    Verified Incite Ventures participated (not led) in all three Quilt rounds via
+    primary sources. Seed ($9M, 2023-05-16): TechCrunch [^12], BusinessWire [^15],
+    plus Finsmes wire aggregator all name Incite Ventures alongside leads Lowercarbon
+    Capital and Gradient Ventures. Series A ($33M, 2024-04-16): added Quilt company
+    newsroom post [^20] and TechCrunch contemporaneous coverage [^21] — round co-led
+    by Energy Impact Partners and Galvanize Climate Solutions with Incite Ventures
+    among named participants. Series B ($20M, 2025-12-08): added Quilt company
+    newsroom post [^22] alongside existing TechCrunch [^16] — round led by Energy
+    Impact Partners and Galvanize with Incite Ventures explicitly named. Updated
+    portfolio row to clarify Incite's role as "participant" on each round and cite
+    the three new primary sources.
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
   company: Gradient
@@ -43010,7 +43038,20 @@ vague_facts:
   line: '| Alchemy | 2019 | Series A | [^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: |
+    Verified 2026-07-26. Alchemy $15M Series A announced 2019-12-17 led by Pantera
+    Capital with Coinbase, Stanford, Mayfield, SignalFire, Samsung, StartX, Kenetic,
+    Dreamers VC and angels Charles Schwab, John Hennessy, Reid Hoffman, Tom Glocer,
+    Jerry Yang. Confirmed via three primary sources: (a) PR Newswire first-party
+    press release, (b) TechCrunch (Josh Constine) contemporaneous coverage,
+    (c) SiliconANGLE contemporaneous coverage. Balaji Srinivasan is NOT named in
+    any primary press for the Alchemy Series A. However, Balaji SELF-ATTESTS as an
+    "early investor" in Alchemy on his personal website balajis.com/about (does not
+    specify round or date). Round entry tightened with full date, amount, lead,
+    participants, and explicit annotation that Balaji is only aggregator- and
+    self-attested (not primary-press confirmed for this specific round). Added
+    footnotes [^38] PR Newswire, [^39] TechCrunch, [^40] SiliconANGLE.
 - profile: investors/balaji-srinivasan
   profile_name: Balaji Srinivasan
   company: Opyn Squeeth

@@ -131,7 +131,7 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 | Avalanche (Ava Labs) | 2019 | Seed | [^17] |
 | NEAR Protocol | 2019 | Seed | [^17] |
 | InstaDApp (Fluid) | 2019 | Seed | [^17] |
-| Alchemy | 2019 | Series A | [^17] |
+| Alchemy | 2019-12-17 | Series A ($15M; led by Pantera Capital; Coinbase, Stanford University, Mayfield, SignalFire, Samsung, StartX, Kenetic, Dreamers VC also participated, plus angels Charles Schwab, John Hennessy, Reid Hoffman, Tom Glocer, Jerry Yang; Balaji NOT named in primary press but self-attests as "early investor" on balajis.com) | [^17][^2][^38][^39][^40] |
 | Opyn Squeeth | 2020 | Seed | [^17] |
 | Nuo | 2020 | Seed | [^17] |
 | Polymarket | 2020 | Seed | [^17][^20] |
@@ -352,3 +352,9 @@ No independently sourced founder testimonials found. Despite dedicated searches 
 [^36]: The Block, "Paradigm leads $50 million Series A round for decentralized AI project Nous Research," April 2025. Accessed July 2026. https://www.theblock.co/post/352000/paradigm-leads-50-million-usd-round-decentralized-ai-project-nous-research — Confirms Nous Research's initial $5.2M seed closed January 2024 co-led by Distributed Global and OSS Capital with Balaji Srinivasan among angel participants.
 
 [^37]: Nous Research on X (Twitter), January 9, 2024. https://x.com/nousresearch/status/1744865872563618128 — First-party founder announcement of $5.2M seed round co-led by Distributed Global and OSS Capital, with participation from Vipul Ved Prakash (Together AI), Alex Atallah (OpenRouter/OpenSea), Yonatan Ben Shimon, Chris Prucha (Notion), Sahil Chaudhary (Glaive AI), Gavin Uberti (Etched), Thibaud Zamora, and Balaji Srinivasan among others.
+
+[^38]: PR Newswire, "Alchemy Launches Infrastructure Platform To Bring Blockchain Mainstream," December 17, 2019. Accessed July 2026. https://www.prnewswire.com/news-releases/alchemy-launches-infrastructure-platform-to-bring-blockchain-mainstream-300975812.html — First-party Alchemy press release confirming $15M Series A on December 17, 2019 with investors Pantera Capital, Stanford University, Coinbase, Mayfield, SignalFire, Samsung, StartX, Kenetic, Dreamers, plus angels Charles Schwab, John Hennessy, Reid Hoffman, Tom Glocer, and Jerry Yang. Balaji Srinivasan is NOT named in this primary release.
+
+[^39]: Josh Constine, "Alchemy is secretly fixing blockchain's node nightmare," TechCrunch, December 17, 2019. Accessed July 2026. https://techcrunch.com/2019/12/17/alchemy-blockchain/amp — Contemporaneous tier-1 tech press confirming $15M funding announced December 17, 2019 led by Pantera Capital with Stanford, Coinbase, Samsung, SignalFire, Mayfield, Kenetic, Dreamers, StartX participating and angels Jerry Yang, Reid Hoffman, Charles Schwab, John Hennessy, Tom Glocer. Balaji Srinivasan is NOT named in this article.
+
+[^40]: SiliconANGLE, "Enterprise blockchain Alchemy raises $15M and launches its platform worldwide," December 17, 2019. Accessed July 2026. https://siliconangle.com/2019/12/17/enterprise-blockchain-alchemy-raises-15m-launches-platform-worldwide/ — Second independent contemporaneous press confirmation of $15M Series A with same investor list as PR Newswire and TechCrunch. Balaji Srinivasan is NOT named in this article. Balaji self-attests as an "early investor" in Alchemy on his personal website balajis.com/about [^2], confirming participation but not the specific round or date.
