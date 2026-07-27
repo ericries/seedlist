@@ -20,46 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: BusinessNext raised $40M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-27'
-  parsed_company: BusinessNext
-  parsed_amount: $40M
-  parsed_round: null
-  status: pending
-- title: Paper raised $34M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-27'
-  parsed_company: Paper
-  parsed_amount: $34M
-  parsed_round: Series A
-  status: pending
-- title: Abstract raised $25M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-27'
-  parsed_company: Abstract
-  parsed_amount: $25M
-  parsed_round: null
-  status: pending
-- title: Ropedia raised $22M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-27'
-  parsed_company: Ropedia
-  parsed_amount: $22M
-  parsed_round: null
-  status: pending
-- title: Coverwatch raised $4.5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-27'
-  parsed_company: Coverwatch
-  parsed_amount: $4.5M
-  parsed_round: null
-  status: pending
 - title: u003eThe company raised $5B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -679,14 +639,6 @@ pending_rounds:
   parsed_company: s first fund
   parsed_amount: $91.2M
   parsed_round: null
-  status: pending
-- title: Flex raised $70M Series B1
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: Flex
-  parsed_amount: $70M
-  parsed_round: Series B1
   status: pending
 - title: AI-powered travel agency Fora hits unicorn status, raises $60M
   url: https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/
