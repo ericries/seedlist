@@ -41839,3 +41839,52 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: cue
+- name: Forgepoint Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: multiverse-computing
+  source: co-lead investor on Multiverse Computing Series C (2026-07-27)
+- name: BNP Paribas Solar Impulse Venture Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: multiverse-computing
+  source: co-lead investor on Multiverse Computing Series C (2026-07-27)
+- name: Santander Alternative Investments
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: multiverse-computing
+  source: participant Multiverse Computing Series C (2026-07-27)
+- name: Tikehau Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: multiverse-computing
+  source: participant Multiverse Computing Series C (2026-07-27)
+- name: Orange Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: multiverse-computing
+  source: participant Multiverse Computing Series C (2026-07-27)
+- name: Zouk Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: multiverse-computing
+  source: participant Multiverse Computing Series C (2026-07-27)
+- name: Qatar Development Bank
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: multiverse-computing
+  source: participant Multiverse Computing Series C (2026-07-27)
