@@ -3180,6 +3180,9 @@ priority:
   type: firm
   reason: appeared in microagi Seed (2026-07-16), $55M — participated alongside Hummingbird lead
   added: 2026-07-19
+  status: resolved
+  resolved: '2026-07-27'
+  note: 'Fact-spec sweep 2026-07-27: verified microagi Seed 2026-07-16 $55M row already present in northzone.md portfolio (line 135) with 2 primary source citations [^micro1 Sifted, ^micro2 FinSMEs]. Sifted primary re-fetched today confirms exact date 2026-07-16, exact amount $55M, lead Hummingbird, and participants (Northzone, LocalGlobe, Village Global, Redalpine). Startup profile data/startups/microagi.md also carries 4 independent citations (Sifted, The Next Web, The AI Insider, FinSMEs) — cross-consistent. No changes needed.'
 - slug: kleiner-perkins
   type: firm
   reason: appeared in TerraFirma Series A (2026-07-14), $115M — led the $100M Series A within a $115M total round; SpaceX-alumni construction robotics
@@ -3191,10 +3194,16 @@ priority:
   type: firm
   reason: appeared in TytoCare Growth (2026-07-15), $25M+ — led oversubscribed growth round; new CEO Adam Pellegrini
   added: 2026-07-19
+  status: resolved
+  resolved: '2026-07-27'
+  note: 'Fact-spec sweep 2026-07-27: verified TytoCare Growth 2026-07-15 $25M+ row present in insight-partners.md portfolio (line 140) with 3 primary source citations [^tyto1 Insight Partners official, ^tyto2 TytoCare press release, ^tyto3 AlleyWatch]. TytoCare official press release re-fetched today confirms exact date 2026-07-15, amount $25M+, lead Insight Partners, syndicate (HOOPP, OliveTree, OrbiMed, Qumra Capital, Qualcomm Ventures, West Fountain Global Fund, Echo Health Ventures, MTIP Health, MemorialCare), and Jeff Horing quote verbatim. CEO transition to Adam Pellegrini confirmed. No changes needed.'
 - slug: jeff-horing
   type: investor
   reason: appeared in TytoCare Growth (2026-07-15), $25M+ — Horing quoted on diagnostic-fidelity thesis
   added: 2026-07-19
+  status: resolved
+  resolved: '2026-07-27'
+  note: 'Fact-spec sweep 2026-07-27: verified TytoCare Growth 2026-07-15 $25M+ row present in jeff-horing.md portfolio (line 109) with 2 primary source citations [^tyto1 Insight Partners official, ^tyto2 TytoCare press release]. LVI already set to TytoCare 2026-07-15 Growth (frontmatter lines 5-8). Horing diagnostic-fidelity quote verified verbatim against TytoCare release primary source: "Health systems have wanted to extend real clinical care into the home for years. The barrier has long been diagnostic fidelity." No changes needed.'
 - slug: balderton-capital
   type: firm
   reason: Prior Labs (pre-seed lead 2025-02-05, €9M) exited to SAP on 2026-07-17 with EUR 1B four-year SAP commitment — reflect exit in portfolio
