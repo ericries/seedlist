@@ -144,7 +144,7 @@ Based on 120+ verified investments from the firm's portfolio page, the following
 | Glean | Growth | ~2024 | AI/Enterprise Search | Active | [^9] |
 | Abridge | Series B | ~2024 | AI/Health Tech | Active | [^9] |
 | Chainguard | Series B | ~2024 | Cybersecurity | Active | [^9] |
-| LangChain | Series A | ~2024 | AI/Developer Tools | Active | [^9] |
+| LangChain | Series B (led, $125M at $1.25B valuation; new investors CapitalG and Sapphire Ventures; existing investors Sequoia, Benchmark, and Amplify; ServiceNow Ventures, Workday Ventures, Cisco Investments, Datadog, Databricks, Frontline participated) | 2025-10-20 | AI/Developer Tools | Active | [^9][^lc-b1][^lc-b2] |
 | Vercel | Growth | ~2023 | Developer Tools | Active | [^9] |
 | Suno | Series D (participant, $400M at $5.4B val; Bond Capital led) | 2026-06-03 | AI / Generative Music / Consumer | Active | [^13] |
 
@@ -182,3 +182,7 @@ No independently sourced founder testimonials found from third-party sources at 
 [^12]: IVP press release, "AppDynamics Secures $50 Million Financing Round; Kicks Off 2013 with 300 Percent Growth." https://www.ivp.com/news/press-release/appdynamics-secures--50-million-financing-round--kicks-off-2013-with-300-percent-growth/ — IVP's own announcement of the January 23, 2013 Series D investment. Accessed May 2026.
 
 [^13]: TechCrunch, "Still facing copyright lawsuits, AI music generator Suno raises another $400M," June 3, 2026. Accessed June 2026. https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/ — Confirms IVP participated in Suno's $400M Series D on June 3, 2026 at $5.4B valuation; Bond Capital led; Forerunner Ventures, Union Square Ventures, Alkeon, and Quiet Capital also participated alongside returning Matrix Partners, Lightspeed Venture Partners, Menlo Ventures, and Schroders Capital.
+
+[^lc-b1]: LangChain blog, "LangChain raises $125M to build the platform for agent engineering," October 20, 2025. Accessed July 2026. https://www.langchain.com/blog/series-b — Primary company announcement: $125M Series B on October 20, 2025 at $1.25B valuation led by IVP with new investors CapitalG and Sapphire Ventures alongside existing investors Sequoia, Benchmark, and Amplify. Also participating: ServiceNow Ventures, Workday Ventures, Cisco Investments, Datadog Ventures, Databricks Ventures, and Frontline. Concurrent with LangChain/LangGraph 1.0 releases.
+
+[^lc-b2]: SiliconANGLE, "AI agent tooling provider LangChain raises $125M at $1.25B valuation," October 20, 2025. Accessed July 2026. https://siliconangle.com/2025/10/20/ai-agent-tooling-provider-langchain-raises-125m-1-25b-valuation/ — Contemporaneous tier-1 tech-press confirmation: $125M Series B on October 20, 2025 at $1.25B valuation led by IVP and joined by Alphabet's CapitalG. Additional participants include ServiceNow Ventures, Workday Ventures, Cisco Investments, Datadog, and Databricks.

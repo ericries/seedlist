@@ -123,13 +123,13 @@ Based on 48 verified investments in the portfolio table below:
 | Cribl | Series E | 2024-08-27 | Data/Infrastructure | Active | [^45] |
 | Clio | Series F | 2024-07-23 | Enterprise/LegalTech | Active | [^46] |
 | Grafana | Series D ext. | 2024-08-21 | Data/Infrastructure | Active | [^47] |
-| Farther | Series C | 2024 | Fintech/WealthMgmt | Active | [^26] |
+| Farther | Series C ($72M co-led by CapitalG and Viewpoint Ventures at $542M post-money; Bessemer, Context, Cota, Khosla, Lightspeed, MassMutual Ventures, Moneta Venture Capital as existing investors) | 2024-10-10 | Fintech/WealthMgmt | Active | [^26][^farther-c1][^farther-c2] |
 | Odoo | Secondary | 2024-11-20 | Enterprise/ERP | Active | [^48] |
-| Monzo | Growth | 2024 | Fintech/Banking | Active | [^49] |
+| Monzo | Growth (£340M / $430M led by CapitalG at $5B valuation; GV, HongShan Capital, Passion Capital, Tencent participated) | 2024-03-05 | Fintech/Banking | Active | [^49][^monzo-g1][^monzo-g2] |
 | DTEX | Series E | 2024 | Security | Active | [^50] |
 | Canva | Growth | ~2024 | Enterprise/Design | Active | [^6] |
 | Rippling | Growth | ~2024 | Enterprise/HR | Active | [^6] |
-| LangChain | Series B | 2025 | AI/Infrastructure | Active | [^51] |
+| LangChain | Series B ($125M led by IVP at $1.25B valuation; CapitalG and Sapphire Ventures new; Sequoia, Benchmark, Amplify existing; ServiceNow Ventures, Workday Ventures, Cisco Investments, Datadog, Databricks, Frontline participated) | 2025-10-20 | AI/Infrastructure | Active | [^51][^lc-b1][^lc-b2] |
 | Abridge | Series D (USD 250M co-led by Elad Gil and IVP; CapitalG, Bessemer, California Health Care Foundation, CVS Health Ventures, K. Ventures, Lightspeed, NVentures, Redpoint, Spark, SV Angel participated) | 2025-02-17 | AI/Healthcare | Active | [^52][^abridge-d1][^abridge-d2][^abridge-d3] |
 | Baseten | Series E | 2026 | AI/Infrastructure | Active | [^53] |
 | Physical Intelligence | Series B (USD 600M led by CapitalG at USD 5.6B post-money; Lux Capital, Bond, Redpoint, Sequoia Capital participated; Jeff Bezos, OpenAI, Thrive Capital, T. Rowe Price returned) | 2025-11-20 | AI/Robotics | Active | [^27][^pi-b1][^pi-b2][^pi-b3] |
@@ -284,3 +284,15 @@ Robinhood's team stated: "CapitalG provided our team with significant access to 
 [^lov-b2]: TechCrunch, "Vibe-coding startup Lovable raises $330M at a $6.6B valuation," December 18, 2025. Accessed July 2026. https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/ — Contemporaneous tier-1 tech press confirming December 18, 2025 announcement of USD 330M Series B at USD 6.6B valuation co-led by CapitalG and Menlo Ventures; 3.67x valuation jump from July 2025 Series A at USD 1.8B.
 
 [^lov-b3]: The SaaS News, "Lovable Raises $330M Series B at $6.6B Valuation," December 2025. Accessed July 2026. https://www.thesaasnews.com/news/lovable-raises-330m-series-b-at-6-6b-valuation — Third independent press confirmation of USD 330M Series B co-led by CapitalG and Menlo Ventures Anthology Fund at USD 6.6B valuation with the full syndicate list matching Lovable's own blog post.
+
+[^farther-c1]: PR Newswire, "Farther Secures $72 Million Series C from CapitalG and Viewpoint Ventures to Continue Revolutionizing Wealth Management," October 10, 2024. Accessed July 2026. https://www.prnewswire.com/news-releases/farther-secures-72-million-series-c-from-capitalg-and-viewpoint-ventures-to-continue-revolutionizing-wealth-management-302273094.html — Primary press release: $72M Series C on October 10, 2024 co-led by CapitalG and Viewpoint Ventures at $542M post-money valuation; existing investors Bessemer, Context Ventures, Cota Capital, Khosla Ventures, Lightspeed, MassMutual Ventures, and Moneta Venture Capital participated. Total funding to date: over $118M. AUM crossed $5B (5x YoY).
+
+[^farther-c2]: Pulse 2.0, "Farther: Financial Advisory Firm Raises $72 Million (Series C) At $542 Million Valuation," October 2024. Accessed July 2026. https://pulse2.com/farther-financial-advisory-firm-raises-72-million-series-c-at-542-million-valuation/ — Independent trade-press confirmation of $72M Series C co-led by CapitalG and Viewpoint Ventures at $542M post-money valuation. Farther surpassed $5B AUM; total raised: over $118M.
+
+[^monzo-g1]: Monzo Community, "We've raised £340 million in new funding," March 5, 2024. Accessed July 2026. https://community.monzo.com/t/we-ve-raised-340-million-in-new-funding/160844 — Primary company announcement: £340M ($430M) round on March 5, 2024 led by CapitalG at £4B post-money ($5B) valuation. Participants: GV (Google Ventures), HSG (HongShan Capital), Passion Capital (existing), Tencent (existing). Share price £14.41.
+
+[^monzo-g2]: fintech.global, "Monzo secures $430m from CapitalG and others, valuation hits $5bn," March 5, 2024. Accessed July 2026. https://fintech.global/2024/03/05/monzo-secures-430m-from-capitalg-and-others-valuation-hits-5bn/ — Independent contemporaneous fintech-press confirmation of the March 5, 2024 announcement: $430M led by CapitalG at $5B valuation; GV, HongShan Capital, Passion Capital, and Tencent participated. UK's largest digital bank; profitable since March 2023; 9M+ retail customers and 400,000+ business accounts at announcement.
+
+[^lc-b1]: LangChain blog, "LangChain raises $125M to build the platform for agent engineering," October 20, 2025. Accessed July 2026. https://www.langchain.com/blog/series-b — Primary company announcement: $125M Series B on October 20, 2025 at $1.25B valuation led by IVP with new investors CapitalG and Sapphire Ventures alongside existing investors Sequoia, Benchmark, and Amplify. Also participating: ServiceNow Ventures, Workday Ventures, Cisco Investments, Datadog Ventures, Databricks Ventures, and Frontline. Concurrent with LangChain/LangGraph 1.0 releases.
+
+[^lc-b2]: SiliconANGLE, "AI agent tooling provider LangChain raises $125M at $1.25B valuation," October 20, 2025. Accessed July 2026. https://siliconangle.com/2025/10/20/ai-agent-tooling-provider-langchain-raises-125m-1-25b-valuation/ — Contemporaneous tier-1 tech-press confirmation: $125M Series B on October 20, 2025 at $1.25B valuation led by IVP and joined by Alphabet's CapitalG. Additional participants include ServiceNow Ventures, Workday Ventures, Cisco Investments, Datadog, and Databricks.

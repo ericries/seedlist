@@ -3763,7 +3763,7 @@ vague_facts:
     | Community Management | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/array-ventures
   profile_name: Array Ventures
   company: Wabi
@@ -4182,7 +4182,7 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/banana-capital
   profile_name: Banana Capital
   company: ScienceIO
@@ -4397,7 +4397,7 @@ vague_facts:
   line: '| Twitter | Seed | 2007-01 | Social media | IPO | [^2][^18] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/baseline-ventures
   profile_name: Baseline Ventures
   company: Heroku
@@ -176555,7 +176555,16 @@ vague_facts:
   line: '| Farther | Series C | 2024 | Fintech/WealthMgmt | Active | [^26] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  note: 'Tightened Farther Series C row on capitalg.md from ''2024'' to ''2024-10-10''
+    with amount ($72M), co-leads (CapitalG and Viewpoint Ventures), post-money valuation
+    ($542M), and full syndicate (Bessemer, Context, Cota, Khosla, Lightspeed, MassMutual
+    Ventures, Moneta Venture Capital) via 3 primary sources: NEW PR Newswire primary
+    press release [^farther-c1] (October 10, 2024), NEW Pulse 2.0 trade press [^farther-c2],
+    and NEW Farther company blog [^6] (October 10, 2024). Also updated farther.md startup
+    profile: added Series C row to funding history, added series-c firms array entry
+    for CapitalG (2024-10-10), and appended 3 new footnotes. 5 new footnotes total.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Monzo
@@ -176565,7 +176574,14 @@ vague_facts:
   line: '| Monzo | Growth | 2024 | Fintech/Banking | Active | [^49] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  note: 'Tightened Monzo growth round row on capitalg.md from ''2024'' to ''2024-03-05''
+    with amount (£340M / $430M), lead (CapitalG), valuation ($5B post-money), and full
+    syndicate (GV / Google Ventures, HongShan Capital / HSG, Passion Capital, Tencent)
+    via 3 primary sources: existing CNBC coverage [^49] (March 5, 2024), NEW Monzo
+    community/blog primary [^monzo-g1] (March 5, 2024), and NEW fintech.global contemporaneous
+    trade press [^monzo-g2] (March 5, 2024). 2 new footnotes added.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: DTEX
@@ -176605,7 +176621,18 @@ vague_facts:
   line: '| LangChain | Series B | 2025 | AI/Infrastructure | Active | [^51] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  note: 'Tightened LangChain Series B row on capitalg.md from ''2025'' to ''2025-10-20''
+    with amount ($125M), lead (IVP), valuation ($1.25B), and full syndicate (new: CapitalG,
+    Sapphire Ventures; existing: Sequoia, Benchmark, Amplify; other: ServiceNow Ventures,
+    Workday Ventures, Cisco Investments, Datadog, Databricks, Frontline) via 3 primary
+    sources: existing Fortune coverage [^51] (October 20, 2025), NEW LangChain company
+    blog primary [^lc-b1] (October 20, 2025), and NEW SiliconANGLE tier-1 tech press
+    [^lc-b2] (October 20, 2025). Also corrected IVP profile (ivp.md): LangChain row
+    was mislabeled ''Series A | ~2024'' — actual IVP participation is Series B lead
+    on 2025-10-20, not Series A (which Sequoia led in Feb 2024). Updated IVP row with
+    full syndicate and 2 new footnotes. 4 new footnotes total.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Abridge
