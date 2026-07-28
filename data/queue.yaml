@@ -42175,3 +42175,73 @@ queue:
   added: '2026-03-17'
   firm: Enigma
   discovered_from: enigma
+- name: Will Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: throne-science
+  source: led Throne Science $10M Series A (2026-07-28)
+- name: Accomplice
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: throne-science
+  source: participant in Throne Science Series A (2026-07-28)
+- name: Workshop
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: throne-science
+  source: participant in Throne Science Series A (2026-07-28)
+- name: LEAD VC
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: throne-science
+  source: participant in Throne Science Series A (2026-07-28)
+- name: Salt VC
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: throne-science
+  source: participant in Throne Science Series A (2026-07-28)
+- name: Quantonation
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zuriq
+  source: led ZuriQ €22.4M Seed (2026-07-28)
+- name: Extantia
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zuriq
+  source: participant in ZuriQ Seed (2026-07-28)
+- name: Firgun Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zuriq
+  source: participant in ZuriQ Seed (2026-07-28)
+- name: Horizon 3 Healthcare
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: xeltis
+  source: led Xeltis €20.5M growth round (2026-07-28)
+- name: EQT Life Sciences
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: xeltis
+  source: participant in Xeltis €20.5M round (2026-07-28)
