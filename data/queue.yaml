@@ -41995,3 +41995,73 @@ queue:
   firm: MagnaSci Ventures
   discovered_from: vikk-ai
   source: Managing Member of MagnaSci; led Vikk AI $3.5M seed (2026-07-21)
+- name: Launch Africa
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fincart
+- name: Antler MENAP
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fincart
+- name: Yango Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fincart
+- name: Five35 Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fincart
+- name: Bluestream Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fincart
+- name: Kalahari Venture Labs
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fincart
+- name: Karatage
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: epic-markets
+- name: Kevin Kimmel
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Epic Markets
+  discovered_from: epic-markets
+- name: Bryan Seegers
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Epic Markets
+  discovered_from: epic-markets
+- name: Mustafa Masry
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Fincart
+  discovered_from: fincart
+- name: Nihal Ali
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Fincart
+  discovered_from: fincart
