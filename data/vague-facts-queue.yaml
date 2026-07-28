@@ -19947,7 +19947,9 @@ vague_facts:
   line: '| Light Energy | Seed | ~2024 | Climate / Energy | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-27
+  note: "Fact-spec sweep 2026-07-27: Light Energy (Light Technology, Inc.; TX REP-certified 2024-04-12; founders Baker Shogry ex-Plaid + Adam Compain ex-ClearMetal/Google) has NOT publicly disclosed round terms. Verified via same 3-source sweep already documented on victoria-beasley.md line 70: Light's About page lists Gigascale, Spark Capital, Mischief, Box Group, and MCJ as investors [^1][^15]; EnergyChoiceMatters.com (2024-04-12) [^16] confirms company identity but no funding details; no press release, TechCrunch article, or founder blog announces round amount, lead, or exact date. Leaving row as-is per anti-hallucination rule (do not guess). Mischief's participation is confirmed via Light's own website, but round terms remain undisclosed by Light."
 - profile: firms/mucker-capital
   profile_name: Mucker Capital
   company: Honey
@@ -124910,7 +124912,9 @@ vague_facts:
   line: '| Openhouse | 2025 | Seed ($2M) | [^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  note: "Tightened row from '2025 | Seed (USD 2M)' to '2025-10-29 | Seed (angel participant in USD 2M round led by India Quotient/IQ Ventures; alongside Gunjan Patidar, Gaurav Sharma, Ramanshu Mahaur)'. Added 3 primary sources: Entrackr [^openhouse-1] (2025-10-30), Venture Intelligence [^openhouse-2] (Oct 2025), Outlook Business [^openhouse-3] (2025-10-29). All 3 confirm IQ Ventures lead and same angel participant list including Mohit Gupta explicitly."
 - profile: investors/mohit-gupta
   profile_name: Mohit Gupta
   company: Wellopia
@@ -138991,7 +138995,9 @@ vague_facts:
   line: '| Rippling | Seed | 2017 | Enterprise / HR Tech | [^3][^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-27
+  note: "Tightened row from '2017' to '2017-03' with round detail (USD 7M seed co-led by Initialized Capital + Hydrazine Capital). Added [^rippling-seed-1] primary source citing TheVCNotebook Medium analysis quoting the March 2017 announcement. Naimi's participation via scout fund is corroborated by his Invest Like the Best interview and Abstract Ventures portfolio references."
 - profile: investors/ramtin-naimi
   profile_name: Ramtin Naimi
   company: Solana

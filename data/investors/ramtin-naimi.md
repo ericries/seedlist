@@ -96,7 +96,7 @@ While Abstract claims to be "sector-agnostic," the portfolio shows a strong conc
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Rippling | Seed | 2017 | Enterprise / HR Tech | [^3][^4] |
+| Rippling | Seed (participated; USD 7M seed co-led by Initialized Capital + Hydrazine Capital, announced 2017-03) | 2017-03 | Enterprise / HR Tech | [^3][^4][^rippling-seed-1] |
 | Solana | Seed | ~2018 | Crypto / Blockchain | [^3][^4] |
 | Hippo | Series D | 2019 | Insurance | [^16] |
 | Alloy | Seed | 2020 | Enterprise / Automation | [^12] |
@@ -224,3 +224,5 @@ Michael Ovitz, former president of Disney and founder of CAA, has referred to Na
 [^dydx-seed]: Antonio Juliano (dYdX founder), "dYdX raises seed round led by Andreessen Horowitz and Polychain Capital," dYdX Derivatives (Medium), December 19, 2017. Accessed July 2026. https://medium.com/dydxderivatives/dydx-raises-seed-round-led-by-andreessen-horowitz-and-polychain-capital-f15d0e9ca16a — Primary source (founder's own blog post). Seed round dated 2017-12-19, co-led by Andreessen Horowitz (Chris Dixon) and Polychain Capital (Olaf Carlson-Wee). Named participants: Fred Ehrsam, Brian Armstrong, Elad Gil, Scott Belsky, Avichal Garg, Kindred Ventures, **Abstract Ventures**, 1confirmation, "and many more great angel and seed investors." Abstract Ventures explicitly named.
 
 [^dydx-a]: Zhuoxun Yin (dYdX), "dYdX raises $10M Series A led by a16z crypto and Polychain Capital," dYdX Derivatives (Medium), October 19, 2018. Accessed July 2026. https://medium.com/dydxderivatives/dydx-raises-10m-series-a-1250b7e0e1df — Primary source (company's own blog post). $10M Series A dated 2018-10-19, co-led by a16z crypto (Chris Dixon) and Polychain Capital (Olaf Carlson-Wee). Cites "continued support from Abstract Ventures, Kindred Ventures, 1confirmation, Elad Gil and Fred Ehrsam" alongside new investors Craft Ventures, Bain Capital Ventures, Naval Ravikant, Kevin Hartz, Dragonfly Capital, and VY Capital. Abstract Ventures explicitly named as continuing investor.
+
+[^rippling-seed-1]: TheVCNotebook, "Rippling: The Compounding Machine," Medium. Accessed July 2026. https://medium.com/@vcnewsfr/rippling-the-compounding-machine-de5c68d4b3b1 — Confirms Rippling seed round: "In March 2017, Rippling announced a $7m seed round led by Initialized Capital and Hydrazine." Public discussion of Ramtin Naimi/Abstract Ventures' scout-fund participation appears on Naimi's Invest Like the Best podcast interview ("half his scout fund into the seed round of Rippling") and on multiple firm profile pages that list Rippling among Abstract Ventures' notable investments.
