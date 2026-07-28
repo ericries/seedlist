@@ -42161,3 +42161,17 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: elliot-hershberg
+- name: Jonathan Jacobi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Enigma
+  discovered_from: enigma
+- name: Gal Niv
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Enigma
+  discovered_from: enigma
