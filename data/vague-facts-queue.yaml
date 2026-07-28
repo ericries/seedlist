@@ -210540,7 +210540,9 @@ vague_facts:
     (PLTR) [^3] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-28
+  note: 'Fact-spec 2026-07-28: tightened founding year to exact date 2003-05-06 via Wikipedia primary [^45] (all 5 co-founders confirmed; first equity round $7.5M Series A by Oakhouse Partners June 2006).'
 - profile: firms/8vc
   profile_name: 8VC
   company: Addepar
@@ -210550,7 +210552,9 @@ vague_facts:
   line: '| Addepar | Co-founded | ~2009 | Fintech | Private [^3] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-28
+  note: 'Fact-spec 2026-07-28: tightened ~2009 to specific founding year 2009 with round history — Series A ~$1.1M (2010), Series B $15.8M (2011-06-15). Primary source: Caproasia [^46].'
 - profile: firms/8vc
   profile_name: 8VC
   company: OpenGov
@@ -210560,7 +210564,9 @@ vague_facts:
   line: '| OpenGov | Co-founded | ~2012 | GovTech | Acquired ($1.8B) [^3] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-28
+  note: 'Fact-spec 2026-07-28: tightened ~2012 to specific 2012 founding; documented Series B May 2014 ($15M) led by a16z with Formation 8 (8VC predecessor) participating. Primary source: FinSMEs [^47].'
 - profile: firms/8vc
   profile_name: 8VC
   company: Flexport

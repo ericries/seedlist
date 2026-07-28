@@ -90,9 +90,9 @@ Based on 8VC's verified portfolio and public data:
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Anduril Industries | Series D ($450M) | 2021-06-17 | Defense Tech | Private [^3][^23][^24][^25] |
-| Palantir Technologies | Co-founded | 2003 | Defense/Enterprise | Public (PLTR) [^3] |
-| Addepar | Co-founded | ~2009 | Fintech | Private [^3] |
-| OpenGov | Co-founded | ~2012 | GovTech | Acquired ($1.8B) [^3] |
+| Palantir Technologies | Co-founded | 2003-05-06 | Defense/Enterprise | Public (PLTR) [^3][^45] |
+| Addepar | Co-founded | 2009 (Series A: 2010; Series B: 2011-06-15) | Fintech | Private [^3][^46] |
+| OpenGov | Co-founded | 2012 (Series B: 2014-05, a16z led with Formation 8) | GovTech | Acquired ($1.8B) [^3][^47] |
 | Flexport | Early | ~2015 | Logistics | Private [^3] |
 | Joby Aviation | Series B | 2018-02-01 | Transportation | Public (JOBY) [^3][^5][^14] |
 | Oculus | Early | ~2013 | Consumer Tech | Acquired by Facebook [^3] |
@@ -214,3 +214,9 @@ No independently sourced founder testimonials found.
 [^43]: TechCrunch, "Bucking EV slowdown, Sila raises $300M to expand battery materials factory," July 21, 2026. Accessed July 21, 2026. https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/ — Confirms $300M private round co-led by Atreides Management and Sutter Hill Ventures with participation from 8VC, Bessemer Venture Partners, Matrix Partners, and T. Rowe Price. Announced July 21, 2026.
 
 [^44]: GeekWire, "Next-gen battery startup Sila raises $300M to expand manufacturing plant in Washington state," July 21, 2026. Accessed July 21, 2026. https://www.geekwire.com/2026/next-gen-battery-startup-sila-raises-300m-to-expand-washington-state-manufacturing-plant/ — Independent confirmation of Sila $300M raise, expanding Moses Lake, WA silicon-anode manufacturing plant.
+
+[^45]: Wikipedia, "Palantir Technologies," accessed July 2026. https://en.wikipedia.org/wiki/Palantir — Confirms Palantir Technologies founded May 6, 2003 by Peter Thiel, Stephen Cohen, Alex Karp, Joe Lonsdale, and Nathan Gettings. First equity funding round was $7.5M Series A led by Oakhouse Partners in June 2006.
+
+[^46]: Caproasia, "United States Wealth & Investment Management Tech & Data Platform Addepar Raised $230 Million in Series G Funding at $3.25 Billion Valuation, Founded in 2009 by Palantir Technologies Co-Founder Joe Lonsdale & ex-Employee Jason Mirra," May 14, 2025. Accessed July 2026. https://www.caproasia.com/2025/05/14/united-states-wealth-investment-management-tech-data-platform-addepar-raised-230-million-in-series-g-funding-at-3-25-billion-valuation-founded-in-2009-by-palantir-technologies-co-founder-joe-lo/ — Confirms Addepar founded 2009 by Joe Lonsdale and Jason Mirra; first Series A (~$1.1M) in 2010; Series B ($15.8M) on June 15, 2011.
+
+[^47]: FinSMEs, "OpenGov Raises $15M in Series B Funding," May 2014. Accessed July 2026. https://www.finsmes.com/2014/05/opengov-raises-15m-in-series-b-funding.html — Confirms OpenGov founded 2012 by Zachary Bookman, Joe Lonsdale, Nate Levine, and Dakin Sloss; $15M Series B in May 2014 led by Andreessen Horowitz with Formation 8 (8VC predecessor) and Thrive Capital participating.
