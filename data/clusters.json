@@ -8039,7 +8039,7 @@
       "name": "The Hardest of Hard Tech",
       "tagline": "Atoms over bits. These investors back rockets, robots, chips, and defense systems where the moat is physics, not code.",
       "type": "curated",
-      "size": 31,
+      "size": 32,
       "members": [
         {
           "slug": "angela-tran",
@@ -8190,6 +8190,11 @@
           "slug": "chris-re",
           "name": "Christopher R\u00e9",
           "firm": "factory"
+        },
+        {
+          "slug": "chase-koch",
+          "name": "Chase Koch",
+          "firm": "koch-disruptive-technologies"
         }
       ]
     },
@@ -8198,7 +8203,7 @@
       "name": "Not Afraid of Regulators",
       "tagline": "They invest where others fear to tread \u2014 fintech, healthcare, crypto, insurance. Regulatory complexity is a moat, not a bug.",
       "type": "curated",
-      "size": 13,
+      "size": 15,
       "members": [
         {
           "slug": "andrew-dudum",
@@ -8264,6 +8269,15 @@
           "slug": "ranjan-pai",
           "name": "Ranjan Pai",
           "firm": "aarin-capital"
+        },
+        {
+          "slug": "penny-pritzker",
+          "name": "Penny Pritzker",
+          "firm": "psp-partners"
+        },
+        {
+          "slug": "sameer-nigam",
+          "name": "Sameer Nigam"
         }
       ]
     },
@@ -8272,7 +8286,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 38,
+      "size": 45,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8455,6 +8469,41 @@
           "slug": "guy-fighel",
           "name": "Guy Fighel",
           "firm": "hetz-ventures"
+        },
+        {
+          "slug": "tri-dao",
+          "name": "Tri Dao",
+          "firm": "together-ai"
+        },
+        {
+          "slug": "dalton-caldwell",
+          "name": "Dalton Caldwell",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "vijay-pande",
+          "name": "Vijay Pande",
+          "firm": "vzvc"
+        },
+        {
+          "slug": "benny-peretz",
+          "name": "Benny Peretz",
+          "firm": "greenoaks"
+        },
+        {
+          "slug": "elliot-hershberg",
+          "name": "Elliot Hershberg",
+          "firm": "amplify-partners"
+        },
+        {
+          "slug": "ramtin-naimi",
+          "name": "Ramtin Naimi",
+          "firm": "abstract-ventures"
+        },
+        {
+          "slug": "lee-linden",
+          "name": "Lee Linden",
+          "firm": "quiet-capital"
         }
       ]
     },
@@ -8463,7 +8512,7 @@
       "name": "Crypto Conviction",
       "tagline": "HODLing through every winter. They kept backing blockchain and crypto infrastructure when everyone else ran.",
       "type": "curated",
-      "size": 13,
+      "size": 16,
       "members": [
         {
           "slug": "boris-wertz",
@@ -8529,6 +8578,21 @@
           "slug": "chris-larsen",
           "name": "Chris Larsen",
           "firm": "ripple"
+        },
+        {
+          "slug": "alexis-ohanian",
+          "name": "Alexis Ohanian",
+          "firm": "seven-seven-six"
+        },
+        {
+          "slug": "garry-tan",
+          "name": "Garry Tan",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "ramtin-naimi",
+          "name": "Ramtin Naimi",
+          "firm": "abstract-ventures"
         }
       ]
     },
@@ -8537,7 +8601,7 @@
       "name": "The Fintech Mafia",
       "tagline": "Deep in the financial plumbing. They backed multiple fintech unicorns and understand payments, lending, and banking infrastructure cold.",
       "type": "curated",
-      "size": 24,
+      "size": 26,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -8654,6 +8718,15 @@
           "slug": "seema-amble",
           "name": "Seema Amble",
           "firm": "andreessen-horowitz"
+        },
+        {
+          "slug": "sameer-nigam",
+          "name": "Sameer Nigam"
+        },
+        {
+          "slug": "penny-pritzker",
+          "name": "Penny Pritzker",
+          "firm": "psp-partners"
         }
       ]
     },
@@ -8662,7 +8735,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 33,
+      "size": 37,
       "members": [
         {
           "slug": "alfred-lin",
@@ -8824,6 +8897,26 @@
           "slug": "nicole-quinn",
           "name": "Nicole Quinn",
           "firm": "connect-ventures-caa-nea"
+        },
+        {
+          "slug": "alexis-ohanian",
+          "name": "Alexis Ohanian",
+          "firm": "seven-seven-six"
+        },
+        {
+          "slug": "chris-sacca",
+          "name": "Chris Sacca",
+          "firm": "lowercase-capital"
+        },
+        {
+          "slug": "naveen-selvadurai",
+          "name": "Naveen Selvadurai",
+          "firm": "expa"
+        },
+        {
+          "slug": "deepinder-goyal",
+          "name": "Deepinder Goyal",
+          "firm": "eternal"
         }
       ]
     },
@@ -8832,7 +8925,7 @@
       "name": "The Solo GPs",
       "tagline": "No partnership, no committee, no BS. They write their own checks and make their own decisions \u2014 often faster than anyone else.",
       "type": "curated",
-      "size": 22,
+      "size": 26,
       "members": [
         {
           "slug": "dan-scheinman",
@@ -8939,6 +9032,25 @@
           "slug": "freddie-martignetti",
           "name": "Freddie Martignetti",
           "firm": "nava-ventures"
+        },
+        {
+          "slug": "sahil-lavingia",
+          "name": "Sahil Lavingia"
+        },
+        {
+          "slug": "chris-sacca",
+          "name": "Chris Sacca",
+          "firm": "lowercase-capital"
+        },
+        {
+          "slug": "ramtin-naimi",
+          "name": "Ramtin Naimi",
+          "firm": "abstract-ventures"
+        },
+        {
+          "slug": "eric-tarczynski",
+          "name": "Eric Tarczynski",
+          "firm": "contrary"
         }
       ]
     },
@@ -8947,7 +9059,7 @@
       "name": "The Unicorn Collectors",
       "tagline": "Five or more unicorns in a single portfolio. These investors have an uncanny ability to pick winners \u2014 or the dealflow to never miss.",
       "type": "curated",
-      "size": 19,
+      "size": 21,
       "members": [
         {
           "slug": "alfred-lin",
@@ -9040,6 +9152,16 @@
         {
           "slug": "scott-stanford",
           "name": "Scott Stanford"
+        },
+        {
+          "slug": "chris-sacca",
+          "name": "Chris Sacca",
+          "firm": "lowercase-capital"
+        },
+        {
+          "slug": "brian-singerman",
+          "name": "Brian Singerman",
+          "firm": "gpx"
         }
       ]
     },
@@ -9048,7 +9170,7 @@
       "name": "The First Check Club",
       "tagline": "They wrote the seed check that started a unicorn \u2014 and did it more than once. The rarest skill in venture: picking winners before anyone else sees them.",
       "type": "curated",
-      "size": 18,
+      "size": 21,
       "members": [
         {
           "slug": "bill-trenchard",
@@ -9135,6 +9257,21 @@
         {
           "slug": "zach-weinberg",
           "name": "Zach Weinberg"
+        },
+        {
+          "slug": "chris-sacca",
+          "name": "Chris Sacca",
+          "firm": "lowercase-capital"
+        },
+        {
+          "slug": "harj-taggar",
+          "name": "Harj Taggar",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "alexis-ohanian",
+          "name": "Alexis Ohanian",
+          "firm": "seven-seven-six"
         }
       ]
     },
@@ -9222,7 +9359,7 @@
       "name": "The PayPal Mafia & Friends",
       "tagline": "Alumni of PayPal's founding team and the investors who run in their orbit. The original startup mafia \u2014 still the most influential network in tech.",
       "type": "curated",
-      "size": 7,
+      "size": 8,
       "members": [
         {
           "slug": "david-sacks",
@@ -9258,6 +9395,11 @@
           "slug": "ron-conway",
           "name": "Ron Conway",
           "firm": "sv-angel"
+        },
+        {
+          "slug": "brian-singerman",
+          "name": "Brian Singerman",
+          "firm": "gpx"
         }
       ]
     },
@@ -9266,7 +9408,7 @@
       "name": "The Marketplace Playbook",
       "tagline": "They understand liquidity, take rates, and chicken-and-egg problems better than anyone. The investors who wrote the book on two-sided marketplaces.",
       "type": "curated",
-      "size": 21,
+      "size": 23,
       "members": [
         {
           "slug": "alfred-lin",
@@ -9370,6 +9512,16 @@
           "slug": "apoorva-mehta",
           "name": "Apoorva Mehta",
           "firm": "cloud-health-systems"
+        },
+        {
+          "slug": "chris-sacca",
+          "name": "Chris Sacca",
+          "firm": "lowercase-capital"
+        },
+        {
+          "slug": "alexis-ohanian",
+          "name": "Alexis Ohanian",
+          "firm": "seven-seven-six"
         }
       ]
     },
@@ -9644,7 +9796,7 @@
       "name": "The Biotech Believers",
       "tagline": "From CRISPR to synthetic biology to computational drug discovery. They bet on the biological century.",
       "type": "curated",
-      "size": 12,
+      "size": 14,
       "members": [
         {
           "slug": "eddie-eltoukhy",
@@ -9704,6 +9856,16 @@
           "slug": "meredith-fisher",
           "name": "Meredith Fisher",
           "firm": "mass-general-brigham-ventures"
+        },
+        {
+          "slug": "elliot-hershberg",
+          "name": "Elliot Hershberg",
+          "firm": "amplify-partners"
+        },
+        {
+          "slug": "brian-singerman",
+          "name": "Brian Singerman",
+          "firm": "gpx"
         }
       ]
     },
@@ -9712,7 +9874,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 145,
+      "size": 148,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10375,6 +10537,20 @@
           "slug": "marc-weiser",
           "name": "Marc Weiser",
           "firm": "rpm-ventures"
+        },
+        {
+          "slug": "tri-dao",
+          "name": "Tri Dao",
+          "firm": "together-ai"
+        },
+        {
+          "slug": "deepinder-goyal",
+          "name": "Deepinder Goyal",
+          "firm": "eternal"
+        },
+        {
+          "slug": "sameer-nigam",
+          "name": "Sameer Nigam"
         }
       ]
     },
@@ -10497,7 +10673,7 @@
       "name": "The YC Network",
       "tagline": "Y Combinator partners and the investors who consistently back YC's best. When a YC company raises, these names are on the cap table.",
       "type": "curated",
-      "size": 14,
+      "size": 15,
       "members": [
         {
           "slug": "alfred-lin",
@@ -10565,6 +10741,11 @@
           "slug": "harj-taggar",
           "name": "Harj Taggar",
           "firm": "y-combinator"
+        },
+        {
+          "slug": "brian-singerman",
+          "name": "Brian Singerman",
+          "firm": "gpx"
         }
       ]
     },
@@ -10671,7 +10852,7 @@
       "name": "The Prolific Angels",
       "tagline": "Quantity AND quality. These investors have 40+ companies in their portfolios \u2014 they see more deals, write more checks, and build broader networks than anyone.",
       "type": "curated",
-      "size": 35,
+      "size": 36,
       "members": [
         {
           "slug": "boris-wertz",
@@ -10837,6 +11018,11 @@
           "slug": "halle-tecco",
           "name": "Halle Tecco",
           "firm": "techammer"
+        },
+        {
+          "slug": "chris-sacca",
+          "name": "Chris Sacca",
+          "firm": "lowercase-capital"
         }
       ]
     },
@@ -11271,7 +11457,7 @@
       "name": "The Dev Tools Obsessives",
       "tagline": "They back the picks and shovels every developer reaches for. Open source, infrastructure, and the building blocks of modern software.",
       "type": "curated",
-      "size": 22,
+      "size": 25,
       "members": [
         {
           "slug": "dalton-caldwell",
@@ -11378,6 +11564,20 @@
           "slug": "ethan-kurzweil",
           "name": "Ethan Kurzweil",
           "firm": "chemistry-vc"
+        },
+        {
+          "slug": "sahil-lavingia",
+          "name": "Sahil Lavingia"
+        },
+        {
+          "slug": "chris-sacca",
+          "name": "Chris Sacca",
+          "firm": "lowercase-capital"
+        },
+        {
+          "slug": "lee-linden",
+          "name": "Lee Linden",
+          "firm": "quiet-capital"
         }
       ]
     },
@@ -11386,7 +11586,7 @@
       "name": "The IPO Whisperers",
       "tagline": "Three or more portfolio companies that went public. These investors don't just pick winners \u2014 they pick companies that reach the finish line.",
       "type": "curated",
-      "size": 26,
+      "size": 28,
       "members": [
         {
           "slug": "alfred-lin",
@@ -11515,6 +11715,16 @@
           "slug": "jeff-horing",
           "name": "Jeff Horing",
           "firm": "insight-partners"
+        },
+        {
+          "slug": "mike-volpi",
+          "name": "Mike Volpi",
+          "firm": "index-ventures"
+        },
+        {
+          "slug": "ethan-kurzweil",
+          "name": "Ethan Kurzweil",
+          "firm": "chemistry-vc"
         }
       ]
     },
@@ -11986,7 +12196,7 @@
       "name": "The Decacorn Club",
       "tagline": "Backed three or more companies worth $10B+. When the biggest outcomes in tech history were being funded, these investors were in the room.",
       "type": "curated",
-      "size": 45,
+      "size": 46,
       "members": [
         {
           "slug": "alfred-lin",
@@ -12207,6 +12417,11 @@
           "slug": "tomer-london",
           "name": "Tomer London",
           "firm": "gusto"
+        },
+        {
+          "slug": "brian-singerman",
+          "name": "Brian Singerman",
+          "firm": "gpx"
         }
       ]
     },
@@ -12286,7 +12501,7 @@
       "name": "The Engineer-Investors",
       "tagline": "They wrote code before they wrote checks. Engineers and CTOs who became investors \u2014 they can read your architecture docs, not just your pitch deck.",
       "type": "curated",
-      "size": 40,
+      "size": 47,
       "members": [
         {
           "slug": "adam-dangelo",
@@ -12479,6 +12694,40 @@
           "slug": "julien-chaumond",
           "name": "Julien Chaumond",
           "firm": "hugging-face"
+        },
+        {
+          "slug": "tri-dao",
+          "name": "Tri Dao",
+          "firm": "together-ai"
+        },
+        {
+          "slug": "sahil-lavingia",
+          "name": "Sahil Lavingia"
+        },
+        {
+          "slug": "garry-tan",
+          "name": "Garry Tan",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "lee-linden",
+          "name": "Lee Linden",
+          "firm": "quiet-capital"
+        },
+        {
+          "slug": "naveen-selvadurai",
+          "name": "Naveen Selvadurai",
+          "firm": "expa"
+        },
+        {
+          "slug": "brian-singerman",
+          "name": "Brian Singerman",
+          "firm": "gpx"
+        },
+        {
+          "slug": "elliot-hershberg",
+          "name": "Elliot Hershberg",
+          "firm": "amplify-partners"
         }
       ]
     },
@@ -12654,7 +12903,7 @@
       "name": "The Podcast VCs",
       "tagline": "They build in public \u2014 on microphones. Through All-In, Masters of Scale, No Priors, and more, they've made venture capital a spectator sport.",
       "type": "curated",
-      "size": 12,
+      "size": 14,
       "members": [
         {
           "slug": "bill-gurley",
@@ -12713,6 +12962,16 @@
         {
           "slug": "lenny-rachitsky",
           "name": "Lenny Rachitsky"
+        },
+        {
+          "slug": "harj-taggar",
+          "name": "Harj Taggar",
+          "firm": "y-combinator"
+        },
+        {
+          "slug": "eric-tarczynski",
+          "name": "Eric Tarczynski",
+          "firm": "contrary"
         }
       ]
     },
@@ -12993,7 +13252,7 @@
       "name": "The Defense Tech Vanguard",
       "tagline": "They bet on Anduril before it was cool \u2014 investors who saw defense tech as venture-scale before the geopolitical shift made it obvious.",
       "type": "curated",
-      "size": 15,
+      "size": 16,
       "members": [
         {
           "slug": "palmer-luckey",
@@ -13067,6 +13326,11 @@
           "slug": "daniel-ek",
           "name": "Daniel Ek",
           "firm": "prima-materia"
+        },
+        {
+          "slug": "eric-tarczynski",
+          "name": "Eric Tarczynski",
+          "firm": "contrary"
         }
       ]
     },
@@ -13202,7 +13466,7 @@
       "name": "The Essayists",
       "tagline": "Their portfolios speak for themselves \u2014 but founders read their writing before pitching.",
       "type": "curated",
-      "size": 24,
+      "size": 25,
       "members": [
         {
           "slug": "paul-graham",
@@ -13315,6 +13579,11 @@
           "slug": "clem-delangue",
           "name": "Cl\u00e9ment Delangue",
           "firm": "hugging-face"
+        },
+        {
+          "slug": "elliot-hershberg",
+          "name": "Elliot Hershberg",
+          "firm": "amplify-partners"
         }
       ]
     },
@@ -13399,7 +13668,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 28,
+      "size": 30,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -13531,6 +13800,15 @@
           "slug": "gazal-alagh",
           "name": "Gazal Alagh",
           "firm": "mamaearth"
+        },
+        {
+          "slug": "sameer-nigam",
+          "name": "Sameer Nigam"
+        },
+        {
+          "slug": "deepinder-goyal",
+          "name": "Deepinder Goyal",
+          "firm": "eternal"
         }
       ],
       "id": "curated-49"
