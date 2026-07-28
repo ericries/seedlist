@@ -160,6 +160,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Dominion Dynamics | Series A (existing investor, participant; C$139M / USD 100M round at USD 400M post-money) | 2026-06-30 | Defense Tech / Autonomy / Aerospace | [^dom1][^dom2][^dom3][^dom4] |
 | Sila | Late-stage private ($300M; Atreides Management & Sutter Hill Ventures co-led; 8VC, Matrix Partners, T. Rowe Price participated) | 2026-07-21 | Battery Materials / Cleantech | [^sila1][^sila2] |
 | Neo | Seed + Series A ($100M combined; co-led with Andreessen Horowitz; Craft Ventures and Merlin Ventures participated; Boston HQ; founders ex-SentinelOne) | 2026-07-20 | Cybersecurity / AI / Enterprise Software | [^neo1][^neo2] |
+| Act Security | Seed (co-led with Team8, $20M; Hetz Ventures and Caltech participated; Tel Aviv-based; founders ex-Medigate) | 2026-07-28 | Cybersecurity / AI / Cloud Security | [^act1][^act2] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -288,3 +289,7 @@ However, founder experiences are not universally positive. One founder reported 
 [^neo1]: SecurityWeek, "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software," July 20, 2026. Accessed July 21, 2026. https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/ — Confirms $100M combined seed + Series A co-led by Andreessen Horowitz and Bessemer Venture Partners; Craft Ventures and Merlin Ventures participated.
 
 [^neo2]: GlobeNewswire (Neo company press release), "Neo Launches with $100M to Secure AI Software Across the Enterprise," July 20, 2026. Accessed July 21, 2026. https://www.globenewswire.com/news-release/2026/07/20/3329638/0/en/Neo-Launches-with-100M-to-Secure-AI-Software-Across-the-Enterprise.html — Official company press release; confirms Bessemer as co-lead alongside a16z.
+
+[^act1]: "Act Security raises $60M to take action against agentic access sprawl at the infrastructure layer," SiliconANGLE, July 28, 2026. Accessed July 2026. https://siliconangle.com/2026/07/28/act-security-raises-60m-take-action-agentic-access-sprawl-infrastructure-layer/ — Confirms Bessemer as co-lead on Act Security's $20M seed with Team8.
+
+[^act2]: "Act Security Emerges from Stealth to Fight the Patch Problem," SecurityWeek, July 28, 2026. Accessed July 2026. https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/ — Independent confirmation of Act Security seed round and founders.

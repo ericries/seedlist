@@ -4675,3 +4675,27 @@ priority:
   type: firm
   reason: co-led Antares Series C (2026-07-27), $470M
   added: 2026-07-27
+- slug: notable-capital
+  type: firm
+  reason: led Act Security Series A (2026-07-28), $40M
+  added: 2026-07-28
+- slug: bessemer-venture-partners
+  type: firm
+  reason: co-led Act Security Seed (2026-07-28), $20M
+  added: 2026-07-28
+- slug: general-catalyst
+  type: firm
+  reason: participated Dwelly Series B (2026-07-28), $170M
+  added: 2026-07-28
+- slug: index-ventures
+  type: firm
+  reason: co-led Enigma Seed (2026-07-27), $70-71M
+  added: 2026-07-28
+- slug: ribbit-capital
+  type: firm
+  reason: co-led Enigma Seed (2026-07-27), $70-71M
+  added: 2026-07-28
+- slug: conviction
+  type: firm
+  reason: participated Enigma Seed (2026-07-27), $70-71M
+  added: 2026-07-28
