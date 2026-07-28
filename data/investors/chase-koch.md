@@ -72,7 +72,7 @@ This table lists KDT investments where Chase Koch is personally named or quoted 
 |---------|------|-------|--------|
 | Insightec | 2017-12 | Series E ($150M) | [^11] |
 | Insightec | 2019 | Series F (follow-on) | [^16] |
-| Ibotta | 2019-08 | Series D | [^17] |
+| Ibotta | 2019-08-06 | Series D (KDT led at USD 1B valuation; amount undisclosed) | [^17] |
 | Valo Health | 2021-03 | Series B ($110M) | [^12] |
 | Gatik | 2021-08 | Series B ($85M, lead) | [^13] |
 | Dragos | 2021-10 | Series D ($200M, co-lead) | [^15] |

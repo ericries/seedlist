@@ -182,7 +182,14 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-27: tightened FOSSA row from year-only 2017 to full 2017-02-23 with USD 2.2M amount and Bain Capital Ventures lead. Named angels: Marc Benioff, Steve Chen, Jaan Tallinn, Amr Awadallah, Justin Mateen. Verified via 3+ primary sources: existing TechCrunch [^17] (2017-02-23), NEW PR Newswire company release [^80] (2017-02-23), NEW XSeed Capital republication [^81]. 1517 Fund is NOT named in any primary press — aggregator-only attribution pattern matches Wildfire/MakerBot/Fountain/Deepgram cases previously flagged. Row annotated to note this. 2 new footnotes added ([^80], [^81]).'
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened FOSSA row from year-only
+    2017 to full 2017-02-23 with USD 2.2M amount and Bain Capital Ventures lead. Named
+    angels: Marc Benioff, Steve Chen, Jaan Tallinn, Amr Awadallah, Justin Mateen.
+    Verified via 3+ primary sources: existing TechCrunch [^17] (2017-02-23), NEW PR
+    Newswire company release [^80] (2017-02-23), NEW XSeed Capital republication [^81].
+    1517 Fund is NOT named in any primary press — aggregator-only attribution pattern
+    matches Wildfire/MakerBot/Fountain/Deepgram cases previously flagged. Row annotated
+    to note this. 2 new footnotes added ([^80], [^81]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Atom Computing
@@ -204,7 +211,16 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Fountain row from year-only 2015 to full 2015-05-18 with USD 1.65M amount and named participants (SoftTechVC, Slow Ventures, Crosslink Capital, Bastian Lehmann/Postmates CEO, Ilya Fushman, all four Caviar founders). Company was operating as OnboardIQ at the time (rebranded to Fountain later). Verified via 3 primary sources: existing Fountain Crunchbase profile [^19], existing Crunchbase Seed round page [^33] (dated 2015-05-18), and NEW VatorNews weekly funding roundup [^82] (2015-05-22). 1517 Fund is NOT named in primary contemporaneous VatorNews roundup — aggregator-only attribution pattern matches FOSSA/Deepgram cases previously flagged. Row annotated to note this. 1 new footnote added ([^82]).'
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Fountain row from year-only
+    2015 to full 2015-05-18 with USD 1.65M amount and named participants (SoftTechVC,
+    Slow Ventures, Crosslink Capital, Bastian Lehmann/Postmates CEO, Ilya Fushman,
+    all four Caviar founders). Company was operating as OnboardIQ at the time (rebranded
+    to Fountain later). Verified via 3 primary sources: existing Fountain Crunchbase
+    profile [^19], existing Crunchbase Seed round page [^33] (dated 2015-05-18), and
+    NEW VatorNews weekly funding roundup [^82] (2015-05-22). 1517 Fund is NOT named
+    in primary contemporaneous VatorNews roundup — aggregator-only attribution pattern
+    matches FOSSA/Deepgram cases previously flagged. Row annotated to note this. 1
+    new footnote added ([^82]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Cents
@@ -806,7 +822,13 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Homethrive Series A row from year-only 2020 to full 2020-10-28 with USD 18M amount and co-leads (7wireVentures + Pitango HealthTech). No other participants named in primary press. Verified via 3+ primary sources: existing PRWeb company release [^24] (2020-10-28), NEW Benzinga syndication [^62] (2020-10-28), NEW VC Advisor Online [^63] (2020-10-28); AgeInPlaceTech also independently confirmed same date and syndicate. 2 new footnotes added ([^62], [^63]).'
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Homethrive Series A row
+    from year-only 2020 to full 2020-10-28 with USD 18M amount and co-leads (7wireVentures
+    + Pitango HealthTech). No other participants named in primary press. Verified
+    via 3+ primary sources: existing PRWeb company release [^24] (2020-10-28), NEW
+    Benzinga syndication [^62] (2020-10-28), NEW VC Advisor Online [^63] (2020-10-28);
+    AgeInPlaceTech also independently confirmed same date and syndicate. 2 new footnotes
+    added ([^62], [^63]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: MedArrive
@@ -14683,7 +14705,15 @@ vague_facts:
   line: '| Dandy | Series A | 2019 | Healthcare / Dental | Active | [^13][^16] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: unresolvable
+  resolution_note: 'Fact-spec sweep 2026-07-27: could not nail down THE specific Dandy
+    round where Inspired Capital participated with 3 primary sources. Tracxn dates
+    a Series A April 29, 2019 led by Primary Venture Partners, but no primary press
+    release names Inspired Capital as a participant on that specific round; multiple
+    aggregators (Sacra, StartupIntros, PitchBook) reference "2020 financing round"
+    for Inspired Capital participation but again no primary press or company blog
+    was locatable. Crunchbase/Tracxn are behind paywall/403. Row left as-is pending
+    discovery of a primary announcement.'
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Finix
@@ -14726,7 +14756,15 @@ vague_facts:
   line: '| QA Wolf | Series A | 2022 | AI / Testing | Active | [^20] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened QA Wolf row on inspired-capital.md
+    from "Series A | 2022" to "Series A (USD 20.1M; Inspired Capital led; Notation
+    Capital, CoFound / Operator Partners, Thiel Capital participated; angels Peter
+    Thiel, Sahil Lavingia, Naval Ravikant, Austen Allred) | 2022-09-07" via 3 primary
+    sources: existing TechCrunch [^20] (2022-09-07), NEW PR Newswire company primary
+    [^54] (2022-09-07), NEW SiliconANGLE [^55] (2022-09-07). Also updated sahil-lavingia.md
+    and penny-pritzker.md QA Wolf rows. 2 new footnotes added to inspired-capital.md,
+    2 new footnotes added to sahil-lavingia.md.'
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Habi
@@ -16725,7 +16763,14 @@ vague_facts:
   line: '| Ibotta | Series D | 2019 | Fintech / Rewards | [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Ibotta row on koch-disruptive-technologies.md
+    from "Series D | 2019" to "Series D (led by KDT at USD 1B valuation; amount undisclosed
+    publicly; Byron Knight quoted) | 2019-08-06" via 3 primary sources: existing PR
+    Newswire [^13] (2019-08-06), NEW Ibotta investor relations primary [^37] (2019-08-06),
+    NEW Jones Day legal counsel [^38] (August 2019). Also tightened chase-koch.md
+    Ibotta row from "2019-08" to "2019-08-06 | Series D (KDT led at USD 1B valuation)".
+    Byron Knight profile already had 2019-08-06 date. 2 new footnotes added to koch-disruptive-technologies.md.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Valo Health
@@ -16775,7 +16820,17 @@ vague_facts:
   line: '| Snyk | Series F | 2021 | Cybersecurity / Application Security | [^2] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Snyk row on koch-disruptive-technologies.md
+    from "Series F | 2021" to "Series F (USD 530M at USD 8.5B valuation; co-led by
+    Sands Capital and Tiger Global; primary Snyk press names Koch Strategic Platforms
+    (KSP) — a sibling Koch investment arm — as the new investor, not KDT; Snyk is
+    listed on KDT''s own portfolio page, likely a Koch-sibling attribution) | 2021-09-09"
+    via 3 primary sources: existing KDT portfolio page [^2] and [^5], NEW Snyk PR
+    Newswire press release [^39] (2021-09-09), NEW TechCrunch [^40] (2021-09-09),
+    NEW Jones Day legal counsel primary [^41] (September 2021). The Cohere-style qualifying
+    note (per existing [^26] convention) discloses the KSP vs KDT ambiguity to the
+    reader. 3 new footnotes added.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Immunai
@@ -210161,7 +210216,8 @@ vague_facts:
   priority: low
   type: year_only_date
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-27: date tightened to 2017-02-23 (see companion unknown_value entry for FOSSA on same profile — resolved in same pass).'
+  resolution_note: 'Fact-spec sweep 2026-07-27: date tightened to 2017-02-23 (see
+    companion unknown_value entry for FOSSA on same profile — resolved in same pass).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Fountain
@@ -210172,7 +210228,9 @@ vague_facts:
   priority: low
   type: year_only_date
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-27: date tightened to 2015-05-18 (see companion unknown_value entry for Fountain on same profile — resolved in same pass).'
+  resolution_note: 'Fact-spec sweep 2026-07-27: date tightened to 2015-05-18 (see
+    companion unknown_value entry for Fountain on same profile — resolved in same
+    pass).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: eEva
@@ -210323,7 +210381,9 @@ vague_facts:
   priority: low
   type: year_only_date
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-27: date tightened to 2020-10-28 (see companion unknown_value entry for Homethrive on same profile — resolved in same pass).'
+  resolution_note: 'Fact-spec sweep 2026-07-27: date tightened to 2020-10-28 (see
+    companion unknown_value entry for Homethrive on same profile — resolved in same
+    pass).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: MedArrive
@@ -227156,7 +227216,15 @@ vague_facts:
   line: '| Dandy | Series A | 2019 | Healthcare / Dental | Active | [^13][^16] |'
   priority: low
   type: year_only_date
-  status: investigating
+  status: unresolvable
+  resolution_note: 'Fact-spec sweep 2026-07-27: could not nail down THE specific Dandy
+    round where Inspired Capital participated with 3 primary sources. Tracxn dates
+    a Series A April 29, 2019 led by Primary Venture Partners, but no primary press
+    release names Inspired Capital as a participant on that specific round; multiple
+    aggregators (Sacra, StartupIntros, PitchBook) reference "2020 financing round"
+    for Inspired Capital participation but again no primary press or company blog
+    was locatable. Crunchbase/Tracxn are behind paywall/403. Row left as-is pending
+    discovery of a primary announcement.'
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Teamshares
@@ -227177,7 +227245,15 @@ vague_facts:
   line: '| QA Wolf | Series A | 2022 | AI / Testing | Active | [^20] |'
   priority: low
   type: year_only_date
-  status: investigating
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened QA Wolf row on inspired-capital.md
+    from "Series A | 2022" to "Series A (USD 20.1M; Inspired Capital led; Notation
+    Capital, CoFound / Operator Partners, Thiel Capital participated; angels Peter
+    Thiel, Sahil Lavingia, Naval Ravikant, Austen Allred) | 2022-09-07" via 3 primary
+    sources: existing TechCrunch [^20] (2022-09-07), NEW PR Newswire company primary
+    [^54] (2022-09-07), NEW SiliconANGLE [^55] (2022-09-07). Also updated sahil-lavingia.md
+    and penny-pritzker.md QA Wolf rows. 2 new footnotes added to inspired-capital.md,
+    2 new footnotes added to sahil-lavingia.md.'
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Habi
@@ -230141,7 +230217,14 @@ vague_facts:
   line: '| Ibotta | Series D | 2019 | Fintech / Rewards | [^13] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Ibotta row on koch-disruptive-technologies.md
+    from "Series D | 2019" to "Series D (led by KDT at USD 1B valuation; amount undisclosed
+    publicly; Byron Knight quoted) | 2019-08-06" via 3 primary sources: existing PR
+    Newswire [^13] (2019-08-06), NEW Ibotta investor relations primary [^37] (2019-08-06),
+    NEW Jones Day legal counsel [^38] (August 2019). Also tightened chase-koch.md
+    Ibotta row from "2019-08" to "2019-08-06 | Series D (KDT led at USD 1B valuation)".
+    Byron Knight profile already had 2019-08-06 date. 2 new footnotes added to koch-disruptive-technologies.md.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Valo Health
@@ -230191,7 +230274,17 @@ vague_facts:
   line: '| Snyk | Series F | 2021 | Cybersecurity / Application Security | [^2] |'
   priority: low
   type: year_only_date
-  status: investigating
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Snyk row on koch-disruptive-technologies.md
+    from "Series F | 2021" to "Series F (USD 530M at USD 8.5B valuation; co-led by
+    Sands Capital and Tiger Global; primary Snyk press names Koch Strategic Platforms
+    (KSP) — a sibling Koch investment arm — as the new investor, not KDT; Snyk is
+    listed on KDT''s own portfolio page, likely a Koch-sibling attribution) | 2021-09-09"
+    via 3 primary sources: existing KDT portfolio page [^2] and [^5], NEW Snyk PR
+    Newswire press release [^39] (2021-09-09), NEW TechCrunch [^40] (2021-09-09),
+    NEW Jones Day legal counsel primary [^41] (September 2021). The Cohere-style qualifying
+    note (per existing [^26] convention) discloses the KSP vs KDT ambiguity to the
+    reader. 3 new footnotes added.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Immunai

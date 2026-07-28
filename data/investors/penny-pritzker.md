@@ -122,7 +122,7 @@ The table below covers verified investments through PSP Growth, PSP Partners str
 | MosaicML | ~2022 | Early stage (exited) | [^17] |
 | Form Energy | ~2019 | Pre-Inspired | [^17] |
 | Scythe | ~2021 | Early stage (exited) | [^17] |
-| QA Wolf | ~2022 | Early stage | [^17] |
+| QA Wolf | 2022-09-07 | Series A (USD 20.1M; Inspired Capital led) | [^17] |
 
 ### PSP Capital (Control Investments / Acquisitions)
 

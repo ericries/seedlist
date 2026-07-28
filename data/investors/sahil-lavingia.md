@@ -69,7 +69,7 @@ Selected investments verified across multiple public sources. This table represe
 | Vercel | ~2020 | Early | [^9][^10] |
 | Mercury | ~2019 | Early | [^9][^10] |
 | AngelList | ~2018 | Late-stage angel | [^9][^10] |
-| QA Wolf | ~2021 | Seed | [^9] |
+| QA Wolf | 2022-09-07 | Series A (USD 20.1M; Inspired Capital led; Lavingia named as angel) | [^9][^12][^13] |
 | Verifiable | ~2020 | Seed | [^9] |
 | Lambda Labs | ~2017 | Early | [^9] |
 | Movable Ink | ~2012 | Early | [^9] |
@@ -119,3 +119,7 @@ No independently sourced founder testimonials about working with Sahil Lavingia 
 [^9]: Mercury Investor Database, "Sahil Lavingia," accessed June 2026. https://mercury.com/investor-database/sahil-lavingia
 [^10]: PitchBook, "Sahil Lavingia investment portfolio," accessed June 2026. https://pitchbook.com/profiles/investor/265035-34
 [^11]: Condia, "Sahil Lavingia is looking to invest in more African startups," accessed June 2026. https://thecondia.com/sahil-lavingia-africa-startups/
+
+[^12]: PR Newswire (QA Wolf press release), "QA Wolf Launches with over 20 Million Dollars to Bring Zero-Effort Automated QA to Developers at Scale," September 7, 2022. Accessed July 2026. https://www.prnewswire.com/news-releases/qa-wolf-launches-with-over-20-million-dollars-to-bring-zero-effort-automated-qa-to-developers-at-scale-301619339.html — Company primary naming Sahil Lavingia among angel investors on QA Wolf's USD 20.1M Series A led by Inspired Capital on 2022-09-07.
+
+[^13]: TechCrunch, "QA Wolf exits stealth with an end-to-end service for software testing," September 7, 2022. Accessed July 2026. https://techcrunch.com/2022/09/07/qa-wolf-exits-stealth-with-an-end-to-end-service-for-software-testing/ — Tier-1 tech press confirms USD 20M Series A on 2022-09-07 led by Inspired Capital.

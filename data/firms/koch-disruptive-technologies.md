@@ -121,12 +121,12 @@ Based on 67 verified portfolio companies listed on KDT's website [^5]:
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Insightec | Series E | 2017 | Healthcare / Medical Devices | [^12] |
-| Ibotta | Series D | 2019 | Fintech / Rewards | [^13] |
+| Ibotta | Series D (led by KDT at USD 1B valuation; amount undisclosed publicly; Byron Knight quoted) | 2019-08-06 | Fintech / Rewards | [^13][^37][^38] |
 | Valo Health | Series B | 2021 | Healthcare / Drug Discovery | [^14] |
 | Astranis | Series C | 2021 | Connectivity / Satellites | [^2] |
 | Gatik | Series B | 2021 | Supply Chain / Autonomous Vehicles | [^15] |
 | Dragos | Series D | 2021 | Cybersecurity / Industrial | [^11] |
-| Snyk | Series F | 2021 | Cybersecurity / Application Security | [^2] |
+| Snyk | Series F (USD 530M at USD 8.5B valuation; co-led by Sands Capital and Tiger Global; primary Snyk press names Koch Strategic Platforms (KSP) — a sibling Koch investment arm — as the new investor, not KDT; Snyk is listed on KDT's own portfolio page, likely a Koch-sibling attribution) | 2021-09-09 | Cybersecurity / Application Security | [^2][^5][^39][^40][^41] |
 | Immunai | Series B | 2021 | Healthcare / Genomics | [^16] |
 | Celestial AI | Series A | 2022 | Semiconductors / Photonics | [^17] |
 | Celestial AI | Series B | 2023 | Semiconductors / Photonics | [^17] |
@@ -279,3 +279,13 @@ This table represents 67 companies from KDT's website portfolio page. KDT claims
 [^35]: PR Newswire (Gideon Brothers press release syndication), "Gideon Brothers Raises USD 31 Million Series A to Expand Its Portfolio of AI 3D Vision Autonomous Mobile Robots," June 8, 2021. Accessed July 2026. https://www.prnewswire.com/news-releases/gideon-brothers-raises-31-million-series-a-to-expand-its-portfolio-of-ai--3d-vision-autonomous-mobile-robots-301307461.html — Wire-service syndication confirms USD 31M Series A on 2021-06-08 led by KDT (Annant Patel quote) with DB Schenker, Prologis Ventures, Rite-Hite, and existing backers participating.
 
 [^36]: TechCrunch, "Croatia's Gideon Brothers raises USD 31M for its 3D vision-enabled autonomous warehouse robots," June 8, 2021. Accessed July 2026. https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-3d-vision-enabled-autonomous-warehouse-robots/ — Tier-1 tech press confirms USD 31M Series A on 2021-06-08 led by Koch Disruptive Technologies; Croatia's largest ever Series A at the time.
+
+[^37]: Ibotta investor relations, "Ibotta Poised to Transform Digital Payments as it Becomes Colorado's Latest Tech Unicorn," August 6, 2019. Accessed July 2026. https://investors.ibotta.com/news-events/press-releases/detail/50/ibotta-poised-to-transform-digital-payments-as-it-becomes-colorados-latest-tech-unicorn — Company IR primary confirming Series D led by Koch Disruptive Technologies at USD 1B valuation on 2019-08-06; specific amount undisclosed publicly; quote from Byron Knight (KDT Managing Director).
+
+[^38]: Jones Day, "Koch Disruptive Technologies leads investment in Ibotta at $1 billion valuation," August 2019. Accessed July 2026. https://www.jonesday.com/en/practices/experience/2019/08/koch-disruptive-technologies-leads-investment-in-i — Legal counsel confirmation that KDT (represented by Jones Day) led Ibotta's Series D unicorn financing announced 2019-08-06.
+
+[^39]: Snyk press release (via PR Newswire), "Snyk Closes $530 Million Series F Investment at $8.5 Billion Valuation," September 9, 2021. Accessed July 2026. https://www.prnewswire.com/news-releases/snyk-closes-530-million-series-f-investment-at-8-5-billion-valuation-301372676.html — Company primary confirms USD 530M Series F announced 2021-09-09 at USD 8.5B post-money valuation; co-led by Sands Capital and Tiger Global; new investors named as Baillie Gifford, Koch Strategic Platforms, Lone Pine Capital, T. Rowe Price, and Whale Rock Capital Management (KDT is NOT named). More than USD 300M in new capital; existing investors Accel, Addition, Alkeon, Atlassian Ventures, BlackRock funds, Boldstart Ventures, Canaan Partners, Coatue, Franklin Templeton, Geodesic Capital, Salesforce Ventures, and Temasek participated.
+
+[^40]: TechCrunch, "Snyk snags another $530M as valuation rises to $8.5B," September 9, 2021. Accessed July 2026. https://techcrunch.com/2021/09/09/snyk-snags-another-530m-as-valuation-rises-to-8-4b/ — Independent tier-1 tech press confirms USD 530M Series F announced 2021-09-09; names Koch Strategic Platforms (not KDT) among new investors.
+
+[^41]: Jones Day, "Koch Strategic Platforms, LLC participates in $530 million Series F investment in Snyk Limited at an $8.5 billion post-money valuation," September 2021. Accessed July 2026. https://www.jonesday.com/en/practices/experience/2021/09/koch-strategic-platforms-llc-participates-in-530-million-series-f-investment-in-snyk-limited-at-an-85-billion-postmoney — Legal counsel primary specifically names Koch Strategic Platforms (KSP) as the Koch investment vehicle in Snyk's Series F, not KDT. KSP is a separate Koch Industries investment arm from Koch Disruptive Technologies.

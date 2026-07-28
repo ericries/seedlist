@@ -96,7 +96,7 @@ Note: Some companies span multiple categories (e.g., Paytient is both healthcare
 | Finix | Series B ($35M; Sequoia led; Activant Capital and Inspired Capital new; Acrew Capital and Bain Capital Ventures also participated) | 2020-02-04 | Fintech / Payments | Active | [^17][^40][^41] |
 | Rho | Seed ($4.9M; Inspired Capital led) | 2019-10-15 | Fintech / Banking | Active | [^18][^42][^43] |
 | Teamshares | Seed | 2019 | Fintech / Labor | Exited (2025) | [^13][^19] |
-| QA Wolf | Series A | 2022 | AI / Testing | Active | [^20] |
+| QA Wolf | Series A (USD 20.1M; Inspired Capital led; Notation Capital, CoFound / Operator Partners, Thiel Capital participated; angels Peter Thiel, Sahil Lavingia, Naval Ravikant, Austen Allred) | 2022-09-07 | AI / Testing | Active | [^20][^54][^55] |
 | Habi | Series A | 2020 | Real Estate / Fintech | Active | [^21] |
 | Good Inside | Early | 2021 | Consumer / Education | Active | [^13] |
 | Paytient | Series B | 2023-01-10 | Healthcare / Fintech | Active | [^22][^35] |
@@ -245,3 +245,7 @@ Lucy Deland has been described as an exceptional "thought partner" with "unmatch
 [^51]: BusinessWire, "Frontera Health Launches, Bringing AI Solutions to Transform Autism Care and Advance Health Equity," February 18, 2025. https://www.businesswire.com/news/home/20250218656544/en/Frontera-Health-Launches-Bringing-AI-Solutions-to-Transform-Autism-Care-and-Advance-Health-Equity
 [^52]: MobiHealthNews, "Frontera launches with $32M in seed funding," February 20, 2025. https://www.mobihealthnews.com/news/frontera-launches-32m-seed-funding
 [^53]: Pulse 2.0, "Frontera Health: $32 Million (Seed) Funding Raised For Advancing Autism Care And Health Equity," February 24, 2025. https://pulse2.com/frontera-health-32-million-seed-funding-raised-for-advancing-autism-care-and-health-equity/
+
+[^54]: PR Newswire (QA Wolf press release syndication), "QA Wolf Launches with over 20 Million Dollars to Bring Zero-Effort Automated QA to Developers at Scale," September 7, 2022. Accessed July 2026. https://www.prnewswire.com/news-releases/qa-wolf-launches-with-over-20-million-dollars-to-bring-zero-effort-automated-qa-to-developers-at-scale-301619339.html — Company primary confirms USD 20.1M announced 2022-09-07 led by Inspired Capital with Notation Capital, CoFound / Operator Partners, and Thiel Capital participating; angel investors named as Sahil Lavingia, Peter Thiel, Naval Ravikant, and Austen Allred.
+
+[^55]: SiliconANGLE, "Automated quality assurance startup QA Wolf launches with $20M in funding," September 7, 2022. Accessed July 2026. https://siliconangle.com/2022/09/07/automated-quality-assurance-startup-qa-wolf-launches-20m-funding/ — Independent tier-1 tech press confirms USD 20M launch announcement 2022-09-07 with Inspired Capital leading.
