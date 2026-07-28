@@ -104,7 +104,7 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 | FOLX Health | Series B | 2022 | LGBTQIA+ virtual care | Active | [^21][^38] |
 | Parsley Health | Growth | 2023-10 | Chronic disease virtual clinic | Active | [^26][^5] |
 | PayZen | Series A ($15M; SignalFire lead; Link Ventures, 7wireVentures new; Viola Ventures, Picus Capital returning) | 2021-11-17 | Healthcare affordability | Active | [^18][^39][^60][^61] |
-| Homethrive | Series A | 2020 | Caregiving / aging in place | Active | [^19][^24] |
+| Homethrive | Series A (USD 18M; co-led by 7wireVentures and Pitango HealthTech; no other participants named in primary press) | 2020-10-28 | Caregiving / aging in place | Active | [^19][^24][^62][^63] |
 | MedArrive | Series A | 2021 | At-home care delivery | Active | [^22][^40] |
 | GroundGame.Health | Series A | 2024 | Population health / SDOH | Active | [^27][^41] |
 | WellTheory | Early | 2022 | Autoimmune care | Active | [^28][^42] |
@@ -222,3 +222,7 @@ No additional independently sourced founder testimonials found beyond 7wire's ow
 [^60]: PR Newswire, "SignalFire Backs 'Care Now, Pay Later' Pioneer PayZen to Fuel Healthcare Affordability," November 17, 2021. Accessed July 25, 2026. https://www.prnewswire.com/news-releases/signalfire-backs-care-now-pay-later-pioneer-payzen-to-fuel-healthcare-affordability-301425873.html — Primary press release confirming PayZen's $15M Series A (announced 2021-11-17) led by SignalFire with Link Ventures and 7wireVentures as new investors plus Viola Ventures and Picus Capital returning.
 
 [^61]: TechCrunch, "PayZen secures $15M Series A for 'care now, pay later' healthcare platform," November 17, 2021. Accessed July 25, 2026. https://techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform — Independent contemporaneous press confirmation of PayZen's $15M Series A on 2021-11-17, SignalFire lead, full participant list.
+
+[^62]: Benzinga, "Homethrive Announces $18 Million Series A Funding Led by 7wireVentures and Pitango HealthTech," October 28, 2020, accessed July 2026. https://www.benzinga.com/pressreleases/20/10/p18096310/homethrive-announces-18-million-series-a-funding-led-by-7wireventures-and-pitango-healthtech — Contemporaneous press release syndication confirming Homethrive's USD 18M Series A on 2020-10-28, co-led by 7wireVentures and Pitango HealthTech. No other investors named.
+
+[^63]: VC Advisor Online, "Homethrive Announces $18 Million Series A Funding Led by 7wireVentures and Pitango HealthTech," October 28, 2020, accessed July 2026. https://www.vcaonline.com/news/2020102815/homethrive-announces-18-million-series-a-funding-led-by-7wireventures-and-pitango-healthtech/ — Third independent primary press confirmation of the USD 18M Series A on 2020-10-28 with 7wireVentures and Pitango HealthTech as sole named investors.

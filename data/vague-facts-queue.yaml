@@ -104,8 +104,8 @@ vague_facts:
     and Pulse 2.0 (April 30, 2026). Lead: Forerunner Ventures. Participants: Travis
     Kalanick, Sandberg Bernthal Venture Partners, Compound Ventures (existing seed
     investor follow-on). Added [^24] (Forerunner) and [^25] (Pulse 2.0) to 10100 profile;
-    added [^3] and [^4] to Casa startup profile; added verified Forerunner quotes to
-    What Investors Say section.'
+    added [^3] and [^4] to Casa startup profile; added verified Forerunner quotes
+    to What Investors Say section.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Luminar Technologies
@@ -181,7 +181,8 @@ vague_facts:
   line: '| FOSSA | Seed | 2017 | Developer Tools / Open Source | [^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened FOSSA row from year-only 2017 to full 2017-02-23 with USD 2.2M amount and Bain Capital Ventures lead. Named angels: Marc Benioff, Steve Chen, Jaan Tallinn, Amr Awadallah, Justin Mateen. Verified via 3+ primary sources: existing TechCrunch [^17] (2017-02-23), NEW PR Newswire company release [^80] (2017-02-23), NEW XSeed Capital republication [^81]. 1517 Fund is NOT named in any primary press — aggregator-only attribution pattern matches Wildfire/MakerBot/Fountain/Deepgram cases previously flagged. Row annotated to note this. 2 new footnotes added ([^80], [^81]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Atom Computing
@@ -202,7 +203,8 @@ vague_facts:
   line: '| Fountain | Seed | 2015 | HR Tech / Hiring SaaS | [^19][^33] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Fountain row from year-only 2015 to full 2015-05-18 with USD 1.65M amount and named participants (SoftTechVC, Slow Ventures, Crosslink Capital, Bastian Lehmann/Postmates CEO, Ilya Fushman, all four Caviar founders). Company was operating as OnboardIQ at the time (rebranded to Fountain later). Verified via 3 primary sources: existing Fountain Crunchbase profile [^19], existing Crunchbase Seed round page [^33] (dated 2015-05-18), and NEW VatorNews weekly funding roundup [^82] (2015-05-22). 1517 Fund is NOT named in primary contemporaneous VatorNews roundup — aggregator-only attribution pattern matches FOSSA/Deepgram cases previously flagged. Row annotated to note this. 1 new footnote added ([^82]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Cents
@@ -803,7 +805,8 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Homethrive Series A row from year-only 2020 to full 2020-10-28 with USD 18M amount and co-leads (7wireVentures + Pitango HealthTech). No other participants named in primary press. Verified via 3+ primary sources: existing PRWeb company release [^24] (2020-10-28), NEW Benzinga syndication [^62] (2020-10-28), NEW VC Advisor Online [^63] (2020-10-28); AgeInPlaceTech also independently confirmed same date and syndicate. 2 new footnotes added ([^62], [^63]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: MedArrive
@@ -1005,7 +1008,13 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-27
-  resolution_note: 'Fact-spec sweep 2026-07-27: Filled Lead Partner column for Vyome Series B (2014-08-12) with "Ranjan Pai (board seat added Dec 2014)". Confirmed via 3 primary sources: PR Newswire India Sabre-led Series B release [^21] (2014-08-12), BioSpace board update [^22] (Oct 2015) confirming Aarin backing, and NEW Bio-IT World primary [^26] (2014-12-02) confirming "Dr Ranjan Pai...has joined its Board of Directors. Dr Pai''s venture firm Aarin Capital is an investor in Vyome." 1 new footnote added.'
+  resolution_note: 'Fact-spec sweep 2026-07-27: Filled Lead Partner column for Vyome
+    Series B (2014-08-12) with "Ranjan Pai (board seat added Dec 2014)". Confirmed
+    via 3 primary sources: PR Newswire India Sabre-led Series B release [^21] (2014-08-12),
+    BioSpace board update [^22] (Oct 2015) confirming Aarin backing, and NEW Bio-IT
+    World primary [^26] (2014-12-02) confirming "Dr Ranjan Pai...has joined its Board
+    of Directors. Dr Pai''s venture firm Aarin Capital is an investor in Vyome." 1
+    new footnote added.'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: YourStory
@@ -1038,7 +1047,13 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-27
-  resolution_note: 'Fact-spec sweep 2026-07-27: Filled Lead Partner column for HomeLane Series A (2015-02-24) with "Ranjan Pai & Mohandas Pai" — both Aarin partners named as investors leading the firm''s involvement. Confirmed via 3 sources: The Tech Portal [^25] (2015-02-24) names investors "led by Dr. Ranjan Pai and Padma Shri awardee Mohandas Pai"; TechCrunch [^23] (2015-02-24) primary tier-1 press confirms round; AVCJ [^24] (2015-02-25) independent confirmation. Existing [^23][^24][^25] citations already in place; footnote [^25] amended to preserve Aarin partner naming.'
+  resolution_note: 'Fact-spec sweep 2026-07-27: Filled Lead Partner column for HomeLane
+    Series A (2015-02-24) with "Ranjan Pai & Mohandas Pai" — both Aarin partners named
+    as investors leading the firm''s involvement. Confirmed via 3 sources: The Tech
+    Portal [^25] (2015-02-24) names investors "led by Dr. Ranjan Pai and Padma Shri
+    awardee Mohandas Pai"; TechCrunch [^23] (2015-02-24) primary tier-1 press confirms
+    round; AVCJ [^24] (2015-02-25) independent confirmation. Existing [^23][^24][^25]
+    citations already in place; footnote [^25] amended to preserve Aarin partner naming.'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: PharmEasy (API Holdings)
@@ -1170,7 +1185,11 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-26: tightened "Early | 2017" to "Series A ($4.5M, led — Daniel Levine partner, joined board) | 2017-07-16" via 3 primary sources: NEW Scale AI company blog primary [^131] (2017-07-16 announcement, Alexandr Wang bylined), NEW Crunchbase funding round profile [^132], NEW Not Boring by Packy McCormick [^133]. 3 new footnotes added.'
+  resolution_note: 'Fact-spec sweep 2026-07-26: tightened "Early | 2017" to "Series
+    A ($4.5M, led — Daniel Levine partner, joined board) | 2017-07-16" via 3 primary
+    sources: NEW Scale AI company blog primary [^131] (2017-07-16 announcement, Alexandr
+    Wang bylined), NEW Crunchbase funding round profile [^132], NEW Not Boring by
+    Packy McCormick [^133]. 3 new footnotes added.'
 - profile: firms/accel
   profile_name: Accel
   company: Perplexity
@@ -1182,7 +1201,17 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-27
-  resolution_note: 'Fact-spec sweep 2026-07-27: CORRECTED round type on Perplexity row from "Series D" to "Series E ($500M, led at $14B valuation)" — the December 2024 SoftBank/Nvidia/IVP-led $500M @ $9B was Perplexity''s actual Series D; the May 2025 Accel-led round is Series E. Verified via 3 primary sources: Tracxn round history [^140] (authoritative round sequencing showing 11 rounds total incl. Dec 2024 Series D and May 2025 Series E), YourStory contemporaneous coverage of Dec 2024 Series D at $9B (https://yourstory.com/2024/12/softbank-backed-perplexity-bags-funding-valuation), and PYMNTS "Report: Perplexity Closed $500 Million Funding Round in Early December" (2024-12-18). Existing [^55] FinTech Weekly citation had mistakenly labeled the round as Series D; footnote annotation updated. 1 new footnote added [^140]; also added $500M amount and $14B valuation to row.'
+  resolution_note: 'Fact-spec sweep 2026-07-27: CORRECTED round type on Perplexity
+    row from "Series D" to "Series E ($500M, led at $14B valuation)" — the December
+    2024 SoftBank/Nvidia/IVP-led $500M @ $9B was Perplexity''s actual Series D; the
+    May 2025 Accel-led round is Series E. Verified via 3 primary sources: Tracxn round
+    history [^140] (authoritative round sequencing showing 11 rounds total incl. Dec
+    2024 Series D and May 2025 Series E), YourStory contemporaneous coverage of Dec
+    2024 Series D at $9B (https://yourstory.com/2024/12/softbank-backed-perplexity-bags-funding-valuation),
+    and PYMNTS "Report: Perplexity Closed $500 Million Funding Round in Early December"
+    (2024-12-18). Existing [^55] FinTech Weekly citation had mistakenly labeled the
+    round as Series D; footnote annotation updated. 1 new footnote added [^140]; also
+    added $500M amount and $14B valuation to row.'
 - profile: firms/accel
   profile_name: Accel
   company: Anysphere (Cursor)
@@ -1280,7 +1309,12 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-26: CORRECTED wrong year "2013" to "2015-05-06" and tightened "Early" to "Growth Equity (USD 75M, Accel-led — Sameer Gandhi partner; USD 8B valuation)" via 3 primary sources: NEW PR Newswire official DJI press release [^134] (2015-05-06), NEW TechCrunch by Kim-Mai Cutler [^135] (2015-05-06, names Gandhi as lead), NEW Forbes by Ryan Mac [^136] (2015-05-27 SkyFund follow-on). 3 new footnotes added.'
+  resolution_note: 'Fact-spec sweep 2026-07-26: CORRECTED wrong year "2013" to "2015-05-06"
+    and tightened "Early" to "Growth Equity (USD 75M, Accel-led — Sameer Gandhi partner;
+    USD 8B valuation)" via 3 primary sources: NEW PR Newswire official DJI press release
+    [^134] (2015-05-06), NEW TechCrunch by Kim-Mai Cutler [^135] (2015-05-06, names
+    Gandhi as lead), NEW Forbes by Ryan Mac [^136] (2015-05-27 SkyFund follow-on).
+    3 new footnotes added.'
 - profile: firms/accel
   profile_name: Accel
   company: Cloudera
@@ -1302,7 +1336,13 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-26: CORRECTED wrong year "2011" to "2008-10-29" and tightened "Early" to "Series A (mid-seven-figure sum, ~USD 5M; Accel-led — Andrew Braccia partner; Allen & Co, Ted Leonsis, Comcast Ventures, angels participated)" via 3 primary sources: NEW TechCrunch by Erick Schonfeld [^137] (2008-10-29 announcement), NEW CBS News [^138] (2009-01-15 follow-up confirming $5M and full participant list), NEW Accel portfolio page [^139]. Also renamed row from "Vox Media" to "Vox Media (formerly SB Nation / SportsBlogs)" for clarity. 3 new footnotes added.'
+  resolution_note: 'Fact-spec sweep 2026-07-26: CORRECTED wrong year "2011" to "2008-10-29"
+    and tightened "Early" to "Series A (mid-seven-figure sum, ~USD 5M; Accel-led —
+    Andrew Braccia partner; Allen & Co, Ted Leonsis, Comcast Ventures, angels participated)"
+    via 3 primary sources: NEW TechCrunch by Erick Schonfeld [^137] (2008-10-29 announcement),
+    NEW CBS News [^138] (2009-01-15 follow-up confirming $5M and full participant
+    list), NEW Accel portfolio page [^139]. Also renamed row from "Vox Media" to "Vox
+    Media (formerly SB Nation / SportsBlogs)" for clarity. 3 new footnotes added.'
 - profile: firms/accel
   profile_name: Accel
   company: MoPub
@@ -3456,12 +3496,13 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-27: tightened AppDynamics Series F row from
-    year "2015" to date "2015-12-01" with full participant list (General Atlantic + Altimeter
-    co-leads; new investors Adage Capital, Industry Ventures, Goldman Sachs, Cross Creek
-    Advisors; existing IVP, Greylock, Lightspeed participated; Robert Swan joined the
-    board) via 3+ primary sources: existing Aurigin [^18] + existing TechCrunch [^28][^29]
-    + NEW General Atlantic co-lead press release [^80] (2015-12-01). 1 new footnote.'
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened AppDynamics Series F row
+    from year "2015" to date "2015-12-01" with full participant list (General Atlantic
+    + Altimeter co-leads; new investors Adage Capital, Industry Ventures, Goldman
+    Sachs, Cross Creek Advisors; existing IVP, Greylock, Lightspeed participated;
+    Robert Swan joined the board) via 3+ primary sources: existing Aurigin [^18] +
+    existing TechCrunch [^28][^29] + NEW General Atlantic co-lead press release [^80]
+    (2015-12-01). 1 new footnote.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Cockroach Labs
@@ -3484,13 +3525,13 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Roblox Series H row from year
-    "2021" to date "2021-01-06" with USD 520M at USD 29.5B post-money valuation, Altimeter
-    Capital and Dragoneer Investment Group co-leads, and Investment Group of Santa Barbara
-    + Warner Music Group as new participants, via 3+ primary sources: existing Business
-    Wire [^20] + NEW Gunderson Dettmer transaction counsel [^81] + NEW TechCrunch [^82].
-    Also updated startup profile roblox.md with same details plus 2 new footnotes [^17][^18].
-    2 new firm footnotes.'
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Roblox Series H row from
+    year "2021" to date "2021-01-06" with USD 520M at USD 29.5B post-money valuation,
+    Altimeter Capital and Dragoneer Investment Group co-leads, and Investment Group
+    of Santa Barbara + Warner Music Group as new participants, via 3+ primary sources:
+    existing Business Wire [^20] + NEW Gunderson Dettmer transaction counsel [^81]
+    + NEW TechCrunch [^82]. Also updated startup profile roblox.md with same details
+    plus 2 new footnotes [^17][^18]. 2 new firm footnotes.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Grab
@@ -3512,14 +3553,14 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Plaid Series D row from year
-    "2021" to date "2021-04-07" with USD 425M at USD 13.4B post-money, Altimeter Capital
-    lead, Silver Lake and Ribbit Capital new investors, and Andreessen Horowitz, Index
-    Ventures, Kleiner Perkins, NEA, Spark Capital, Thrive Capital as existing investors,
-    via 3+ primary sources: NEW Plaid company blog primary [^83] + existing TechCrunch
-    [^84] (2021-04-07 published) + NEW Finovate [^85]. Also updated plaid.md startup
-    Funding History row (dated to 2021-04-07) with 2 new footnotes [^15][^16]. 3 new
-    firm footnotes.'
+  resolution_note: 'Fact-spec sweep 2026-07-27: tightened Plaid Series D row from
+    year "2021" to date "2021-04-07" with USD 425M at USD 13.4B post-money, Altimeter
+    Capital lead, Silver Lake and Ribbit Capital new investors, and Andreessen Horowitz,
+    Index Ventures, Kleiner Perkins, NEA, Spark Capital, Thrive Capital as existing
+    investors, via 3+ primary sources: NEW Plaid company blog primary [^83] + existing
+    TechCrunch [^84] (2021-04-07 published) + NEW Finovate [^85]. Also updated plaid.md
+    startup Funding History row (dated to 2021-04-07) with 2 new footnotes [^15][^16].
+    3 new firm footnotes.'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: Modern Treasury
@@ -3794,10 +3835,9 @@ vague_facts:
   resolution_note: 'Fact-spec sweep 2026-07-27: tightened Mobilize row to 2016-09-21
     (contemporaneous TechCrunch date) with full participant list (Trinity Ventures
     lead; Floodgate, Hillsven Capital, Array Ventures, UpWest Labs, Eoghan McCabe,
-    Sanjay Subhedar) via 3+ primary sources: existing TechSeen [^9] (2016-09-22)
-    + NEW TechCrunch [^13] (2016-09-21, primary announcement) + NEW Yahoo News SG
-    / e27 syndication [^14] (2016-09-22). 2 new footnotes added.
-    resolved: 2026-07-27'
+    Sanjay Subhedar) via 3+ primary sources: existing TechSeen [^9] (2016-09-22) +
+    NEW TechCrunch [^13] (2016-09-21, primary announcement) + NEW Yahoo News SG /
+    e27 syndication [^14] (2016-09-22). 2 new footnotes added. resolved: 2026-07-27'
 - profile: firms/array-ventures
   profile_name: Array Ventures
   company: Wabi
@@ -4221,12 +4261,11 @@ vague_facts:
     — Bun''s actual seed round (as Oven) was announced 2022-08-24 at USD 7M, Kleiner
     Perkins led (Bucky Moore) with Guillermo Rauch and Y Combinator participating.
     Verified via 3 primary sources: NEW DevClass [^10] (2022-08-24, primary announcement)
-    + NEW Kleiner Perkins "Celebrating Bun" [^11] + NEW Bun blog "Bun is joining
-    Anthropic" [^12] (confirms 2025-12-02 Anthropic acquisition). Note: Banana Capital
-    lists Bun on its portfolio page [^1] but is NOT independently named in the primary
-    seed announcement (KP article names only KP, Rauch, YC "and more"); this caveat
-    is flagged inline in the profile. 3 new footnotes added.
-    resolved: 2026-07-27'
+    + NEW Kleiner Perkins "Celebrating Bun" [^11] + NEW Bun blog "Bun is joining Anthropic"
+    [^12] (confirms 2025-12-02 Anthropic acquisition). Note: Banana Capital lists
+    Bun on its portfolio page [^1] but is NOT independently named in the primary seed
+    announcement (KP article names only KP, Rauch, YC "and more"); this caveat is
+    flagged inline in the profile. 3 new footnotes added. resolved: 2026-07-27'
 - profile: firms/banana-capital
   profile_name: Banana Capital
   company: ScienceIO
@@ -4451,8 +4490,7 @@ vague_facts:
     [^1] but no primary press documents the specific round/date. Updated table to
     "2007" year-only with an explicit inline caveat about the sourcing gap; added
     2 new footnotes ([^22], [^23]) documenting the primary press that does not corroborate
-    a specific Baseline round.
-    resolved: 2026-07-27'
+    a specific Baseline round. resolved: 2026-07-27'
 - profile: firms/baseline-ventures
   profile_name: Baseline Ventures
   company: Heroku
@@ -12743,20 +12781,20 @@ vague_facts:
   priority: high
   type: unknown_value
   status: unresolvable
-  resolution_note: 'Checked AMP Robotics primary press for every announced round —
+  resolution_note: Checked AMP Robotics primary press for every announced round —
     Seed 2017-10-23 ($3.2M), Series A 2019-11-14 ($16M, led by Sequoia), Series B
     2021-01-04 ($55M, led by XN), Series C 2022-11-02 ($91M, led by Congruent/Wellington),
     Series D 2024-12-05 ($91M, led by Congruent). Incite Ventures is NOT named in
     any AMP company press release, BusinessWire announcement, Recycling Today article,
     or TechCrunch coverage across any round. Swati Mylavarapu and Matt Rogers are
-    also not named individually. The only evidence of an Incite-AMP relationship
-    is AMP appearing on Incite''s own portfolio page (https://www.incite.org/innovators/),
+    also not named individually. The only evidence of an Incite-AMP relationship is
+    AMP appearing on Incite's own portfolio page (https://www.incite.org/innovators/),
     which lists it under "Growth" with no round or date. Row updated to "Seed (round
     unspecified) / Pre-2019 (round unspecified)" with the AMP Series A + Series B
     press releases added as footnotes [^17][^18][^19] explicitly noting Incite is
     absent from named investor lists. This appears to be either a very small angel
     check that never got press attribution or a late secondary; not resolvable to
-    a specific round from public sources.'
+    a specific round from public sources.
   resolved: 2026-07-26
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
@@ -12791,18 +12829,17 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-26
-  resolution_note: >-
-    Verified Incite Ventures participated (not led) in all three Quilt rounds via
-    primary sources. Seed ($9M, 2023-05-16): TechCrunch [^12], BusinessWire [^15],
-    plus Finsmes wire aggregator all name Incite Ventures alongside leads Lowercarbon
+  resolution_note: 'Verified Incite Ventures participated (not led) in all three Quilt
+    rounds via primary sources. Seed ($9M, 2023-05-16): TechCrunch [^12], BusinessWire
+    [^15], plus Finsmes wire aggregator all name Incite Ventures alongside leads Lowercarbon
     Capital and Gradient Ventures. Series A ($33M, 2024-04-16): added Quilt company
     newsroom post [^20] and TechCrunch contemporaneous coverage [^21] — round co-led
     by Energy Impact Partners and Galvanize Climate Solutions with Incite Ventures
-    among named participants. Series B ($20M, 2025-12-08): added Quilt company
-    newsroom post [^22] alongside existing TechCrunch [^16] — round led by Energy
-    Impact Partners and Galvanize with Incite Ventures explicitly named. Updated
-    portfolio row to clarify Incite's role as "participant" on each round and cite
-    the three new primary sources.
+    among named participants. Series B ($20M, 2025-12-08): added Quilt company newsroom
+    post [^22] alongside existing TechCrunch [^16] — round led by Energy Impact Partners
+    and Galvanize with Incite Ventures explicitly named. Updated portfolio row to
+    clarify Incite''s role as "participant" on each round and cite the three new primary
+    sources.'
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
   company: Gradient
@@ -14646,7 +14683,7 @@ vague_facts:
   line: '| Dandy | Series A | 2019 | Healthcare / Dental | Active | [^13][^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Finix
@@ -14689,7 +14726,7 @@ vague_facts:
   line: '| QA Wolf | Series A | 2022 | AI / Testing | Active | [^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Habi
@@ -16738,7 +16775,7 @@ vague_facts:
   line: '| Snyk | Series F | 2021 | Cybersecurity / Application Security | [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Immunai
@@ -19949,7 +19986,16 @@ vague_facts:
   type: unknown_value
   status: unresolvable
   resolved: 2026-07-27
-  note: "Fact-spec sweep 2026-07-27: Light Energy (Light Technology, Inc.; TX REP-certified 2024-04-12; founders Baker Shogry ex-Plaid + Adam Compain ex-ClearMetal/Google) has NOT publicly disclosed round terms. Verified via same 3-source sweep already documented on victoria-beasley.md line 70: Light's About page lists Gigascale, Spark Capital, Mischief, Box Group, and MCJ as investors [^1][^15]; EnergyChoiceMatters.com (2024-04-12) [^16] confirms company identity but no funding details; no press release, TechCrunch article, or founder blog announces round amount, lead, or exact date. Leaving row as-is per anti-hallucination rule (do not guess). Mischief's participation is confirmed via Light's own website, but round terms remain undisclosed by Light."
+  note: 'Fact-spec sweep 2026-07-27: Light Energy (Light Technology, Inc.; TX REP-certified
+    2024-04-12; founders Baker Shogry ex-Plaid + Adam Compain ex-ClearMetal/Google)
+    has NOT publicly disclosed round terms. Verified via same 3-source sweep already
+    documented on victoria-beasley.md line 70: Light''s About page lists Gigascale,
+    Spark Capital, Mischief, Box Group, and MCJ as investors [^1][^15]; EnergyChoiceMatters.com
+    (2024-04-12) [^16] confirms company identity but no funding details; no press
+    release, TechCrunch article, or founder blog announces round amount, lead, or
+    exact date. Leaving row as-is per anti-hallucination rule (do not guess). Mischief''s
+    participation is confirmed via Light''s own website, but round terms remain undisclosed
+    by Light.'
 - profile: firms/mucker-capital
   profile_name: Mucker Capital
   company: Honey
@@ -43096,19 +43142,32 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: |
-    Verified 2026-07-26. Alchemy $15M Series A announced 2019-12-17 led by Pantera
+  resolution_note: 'Verified 2026-07-26. Alchemy $15M Series A announced 2019-12-17
+    led by Pantera
+
     Capital with Coinbase, Stanford, Mayfield, SignalFire, Samsung, StartX, Kenetic,
+
     Dreamers VC and angels Charles Schwab, John Hennessy, Reid Hoffman, Tom Glocer,
+
     Jerry Yang. Confirmed via three primary sources: (a) PR Newswire first-party
+
     press release, (b) TechCrunch (Josh Constine) contemporaneous coverage,
+
     (c) SiliconANGLE contemporaneous coverage. Balaji Srinivasan is NOT named in
+
     any primary press for the Alchemy Series A. However, Balaji SELF-ATTESTS as an
+
     "early investor" in Alchemy on his personal website balajis.com/about (does not
+
     specify round or date). Round entry tightened with full date, amount, lead,
+
     participants, and explicit annotation that Balaji is only aggregator- and
+
     self-attested (not primary-press confirmed for this specific round). Added
+
     footnotes [^38] PR Newswire, [^39] TechCrunch, [^40] SiliconANGLE.
+
+    '
 - profile: investors/balaji-srinivasan
   profile_name: Balaji Srinivasan
   company: Opyn Squeeth
@@ -124914,7 +124973,12 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-27
-  note: "Tightened row from '2025 | Seed (USD 2M)' to '2025-10-29 | Seed (angel participant in USD 2M round led by India Quotient/IQ Ventures; alongside Gunjan Patidar, Gaurav Sharma, Ramanshu Mahaur)'. Added 3 primary sources: Entrackr [^openhouse-1] (2025-10-30), Venture Intelligence [^openhouse-2] (Oct 2025), Outlook Business [^openhouse-3] (2025-10-29). All 3 confirm IQ Ventures lead and same angel participant list including Mohit Gupta explicitly."
+  note: 'Tightened row from ''2025 | Seed (USD 2M)'' to ''2025-10-29 | Seed (angel
+    participant in USD 2M round led by India Quotient/IQ Ventures; alongside Gunjan
+    Patidar, Gaurav Sharma, Ramanshu Mahaur)''. Added 3 primary sources: Entrackr
+    [^openhouse-1] (2025-10-30), Venture Intelligence [^openhouse-2] (Oct 2025), Outlook
+    Business [^openhouse-3] (2025-10-29). All 3 confirm IQ Ventures lead and same
+    angel participant list including Mohit Gupta explicitly.'
 - profile: investors/mohit-gupta
   profile_name: Mohit Gupta
   company: Wellopia
@@ -138997,7 +139061,11 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-07-27
-  note: "Tightened row from '2017' to '2017-03' with round detail (USD 7M seed co-led by Initialized Capital + Hydrazine Capital). Added [^rippling-seed-1] primary source citing TheVCNotebook Medium analysis quoting the March 2017 announcement. Naimi's participation via scout fund is corroborated by his Invest Like the Best interview and Abstract Ventures portfolio references."
+  note: Tightened row from '2017' to '2017-03' with round detail (USD 7M seed co-led
+    by Initialized Capital + Hydrazine Capital). Added [^rippling-seed-1] primary
+    source citing TheVCNotebook Medium analysis quoting the March 2017 announcement.
+    Naimi's participation via scout fund is corroborated by his Invest Like the Best
+    interview and Abstract Ventures portfolio references.
 - profile: investors/ramtin-naimi
   profile_name: Ramtin Naimi
   company: Solana
@@ -176403,15 +176471,15 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-26
-  note: 'Tightened Cursor (Anysphere) row on boxgroup.md from ''~2023'' to ''2023-10-11''
+  note: Tightened Cursor (Anysphere) row on boxgroup.md from '~2023' to '2023-10-11'
     (seed round date). BoxGroup NOT named in contemporaneous press (TechCrunch, The
     SaaS News, Fundz) — only OpenAI Startup Fund lead + angels Nat Friedman and Arash
     Ferdowsi named. BoxGroup participation is attributed to the October 2023 seed
-    round per BoxGroup''s own portfolio listing (cited via Fortune [^6] and BoxGroup
+    round per BoxGroup's own portfolio listing (cited via Fortune [^6] and BoxGroup
     portfolio disclosure). Added footnotes [^cursor2023a] (TechCrunch 2023-10-11 primary)
     and [^cursor2023b] (The SaaS News 2023-10-16 independent) with explicit note that
     BoxGroup is not named in contemporaneous press. Row also updated with company
-    valuation ($29.3B, Nov 2025). 2 new footnotes added.'
+    valuation ($29.3B, Nov 2025). 2 new footnotes added.
 - profile: firms/breakthrough-energy-ventures
   profile_name: Breakthrough Energy Ventures
   company: Savor
@@ -176533,16 +176601,16 @@ vague_facts:
   type: year_only_date
   status: unresolvable
   resolved: 2026-07-26
-  note: 'Death Clock is a rebrand/pivot of Most Days (same legal entity per Crunchbase
-    URL /organization/most-days). Most Days'' Dec 9, 2020 $3.2M seed (PRNewswire primary)
+  note: Death Clock is a rebrand/pivot of Most Days (same legal entity per Crunchbase
+    URL /organization/most-days). Most Days' Dec 9, 2020 $3.2M seed (PRNewswire primary)
     was led by Freestyle.vc with Harrison Metal, Village Global, and angels — Cake
     Ventures was NOT named. Death Clock relaunch (~2024) named Freestyle Capital,
     Village Global, Harrison Metal, King River, and Origin Ventures — again no Cake
-    Ventures. Cake Ventures'' own portfolio page lists Death Clock without a year
-    or round. No contemporaneous primary source ties Cake Ventures to a specific Death
-    Clock round; Cake''s participation likely occurred via an unannounced bridge or
+    Ventures. Cake Ventures' own portfolio page lists Death Clock without a year or
+    round. No contemporaneous primary source ties Cake Ventures to a specific Death
+    Clock round; Cake's participation likely occurred via an unannounced bridge or
     follow-on. Row annotated on cake-ventures.md to note pivot relationship and unverified
-    round attribution. Leaving portfolio row as ''~2023'' pending better primary sourcing.'
+    round attribution. Leaving portfolio row as '~2023' pending better primary sourcing.
 - profile: firms/cake-ventures
   profile_name: Cake Ventures
   company: Sol Health
@@ -176623,9 +176691,10 @@ vague_facts:
     ($542M), and full syndicate (Bessemer, Context, Cota, Khosla, Lightspeed, MassMutual
     Ventures, Moneta Venture Capital) via 3 primary sources: NEW PR Newswire primary
     press release [^farther-c1] (October 10, 2024), NEW Pulse 2.0 trade press [^farther-c2],
-    and NEW Farther company blog [^6] (October 10, 2024). Also updated farther.md startup
-    profile: added Series C row to funding history, added series-c firms array entry
-    for CapitalG (2024-10-10), and appended 3 new footnotes. 5 new footnotes total.'
+    and NEW Farther company blog [^6] (October 10, 2024). Also updated farther.md
+    startup profile: added Series C row to funding history, added series-c firms array
+    entry for CapitalG (2024-10-10), and appended 3 new footnotes. 5 new footnotes
+    total.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Monzo
@@ -176638,11 +176707,11 @@ vague_facts:
   status: resolved
   resolved: 2026-07-27
   note: 'Tightened Monzo growth round row on capitalg.md from ''2024'' to ''2024-03-05''
-    with amount (£340M / $430M), lead (CapitalG), valuation ($5B post-money), and full
-    syndicate (GV / Google Ventures, HongShan Capital / HSG, Passion Capital, Tencent)
-    via 3 primary sources: existing CNBC coverage [^49] (March 5, 2024), NEW Monzo
-    community/blog primary [^monzo-g1] (March 5, 2024), and NEW fintech.global contemporaneous
-    trade press [^monzo-g2] (March 5, 2024). 2 new footnotes added.'
+    with amount (£340M / $430M), lead (CapitalG), valuation ($5B post-money), and
+    full syndicate (GV / Google Ventures, HongShan Capital / HSG, Passion Capital,
+    Tencent) via 3 primary sources: existing CNBC coverage [^49] (March 5, 2024),
+    NEW Monzo community/blog primary [^monzo-g1] (March 5, 2024), and NEW fintech.global
+    contemporaneous trade press [^monzo-g2] (March 5, 2024). 2 new footnotes added.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: DTEX
@@ -176685,15 +176754,15 @@ vague_facts:
   status: resolved
   resolved: 2026-07-27
   note: 'Tightened LangChain Series B row on capitalg.md from ''2025'' to ''2025-10-20''
-    with amount ($125M), lead (IVP), valuation ($1.25B), and full syndicate (new: CapitalG,
-    Sapphire Ventures; existing: Sequoia, Benchmark, Amplify; other: ServiceNow Ventures,
-    Workday Ventures, Cisco Investments, Datadog, Databricks, Frontline) via 3 primary
-    sources: existing Fortune coverage [^51] (October 20, 2025), NEW LangChain company
-    blog primary [^lc-b1] (October 20, 2025), and NEW SiliconANGLE tier-1 tech press
-    [^lc-b2] (October 20, 2025). Also corrected IVP profile (ivp.md): LangChain row
-    was mislabeled ''Series A | ~2024'' — actual IVP participation is Series B lead
-    on 2025-10-20, not Series A (which Sequoia led in Feb 2024). Updated IVP row with
-    full syndicate and 2 new footnotes. 4 new footnotes total.'
+    with amount ($125M), lead (IVP), valuation ($1.25B), and full syndicate (new:
+    CapitalG, Sapphire Ventures; existing: Sequoia, Benchmark, Amplify; other: ServiceNow
+    Ventures, Workday Ventures, Cisco Investments, Datadog, Databricks, Frontline)
+    via 3 primary sources: existing Fortune coverage [^51] (October 20, 2025), NEW
+    LangChain company blog primary [^lc-b1] (October 20, 2025), and NEW SiliconANGLE
+    tier-1 tech press [^lc-b2] (October 20, 2025). Also corrected IVP profile (ivp.md):
+    LangChain row was mislabeled ''Series A | ~2024'' — actual IVP participation is
+    Series B lead on 2025-10-20, not Series A (which Sequoia led in Feb 2024). Updated
+    IVP row with full syndicate and 2 new footnotes. 4 new footnotes total.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Abridge
@@ -176982,7 +177051,13 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-27
-  note: "CORRECTED: The '2025' date reflected the public announcement of the Contrary Research report, not the actual seed investment. Per Contrary Research (Contrary's own analysis arm) and Contrary's blog: Contrary led Doss's seed in late 2022. Row updated to '~2022 (late 2022 per Contrary Research); follow-on Series A 2025-04 (USD 18M, Theory-led); Series B 2026-03-24 (USD 55M, Madrona/Premji-led)' via 3 primary sources: Contrary blog [^doss1] (2025-04-15), Contrary Research report [^doss2], TechCrunch [^doss3] (2026-03-24). Same update propagated to investors/eric-tarczynski.md."
+  note: 'CORRECTED: The ''2025'' date reflected the public announcement of the Contrary
+    Research report, not the actual seed investment. Per Contrary Research (Contrary''s
+    own analysis arm) and Contrary''s blog: Contrary led Doss''s seed in late 2022.
+    Row updated to ''~2022 (late 2022 per Contrary Research); follow-on Series A 2025-04
+    (USD 18M, Theory-led); Series B 2026-03-24 (USD 55M, Madrona/Premji-led)'' via
+    3 primary sources: Contrary blog [^doss1] (2025-04-15), Contrary Research report
+    [^doss2], TechCrunch [^doss3] (2026-03-24). Same update propagated to investors/eric-tarczynski.md.'
 - profile: firms/contrary
   profile_name: Contrary
   company: DualEntry
@@ -177239,7 +177314,10 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-27
-  note: "Resolved to 2025-01-17 seed (USD 8M, Index Ventures led; Creandum + Dig Ventures participated with angels Olivier Pomel, Sebastian Siemiatkowski, Ilkka Paananen, Avishai Abrahami) via 3 primary sources: GlobeNewswire company release [^nex1] (2025-01-17), nexos.ai launch blog [^nex2], The AI Insider [^nex3] (2025-01-21)."
+  note: 'Resolved to 2025-01-17 seed (USD 8M, Index Ventures led; Creandum + Dig Ventures
+    participated with angels Olivier Pomel, Sebastian Siemiatkowski, Ilkka Paananen,
+    Avishai Abrahami) via 3 primary sources: GlobeNewswire company release [^nex1]
+    (2025-01-17), nexos.ai launch blog [^nex2], The AI Insider [^nex3] (2025-01-21).'
 - profile: firms/creandum
   profile_name: Creandum
   company: Superscale
@@ -177437,7 +177515,10 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-27
-  note: "Resolved to 2025-09-23 Series B (USD 175M at USD 1.8B val, co-led by Khosla Ventures + Lightspeed) via 3 primary sources: PR Newswire company press release [^51] (2025-09-23), StartupHub.ai [^52] (2025), Sacra [^53] (funding history). Same update propagated to investors/yuri-milner.md."
+  note: 'Resolved to 2025-09-23 Series B (USD 175M at USD 1.8B val, co-led by Khosla
+    Ventures + Lightspeed) via 3 primary sources: PR Newswire company press release
+    [^51] (2025-09-23), StartupHub.ai [^52] (2025), Sacra [^53] (funding history).
+    Same update propagated to investors/yuri-milner.md.'
 - profile: firms/dst-global
   profile_name: DST Global
   company: Upgrade
@@ -210079,7 +210160,8 @@ vague_facts:
   line: '| FOSSA | Seed | 2017 | Developer Tools / Open Source | [^17] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: date tightened to 2017-02-23 (see companion unknown_value entry for FOSSA on same profile — resolved in same pass).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Fountain
@@ -210089,7 +210171,8 @@ vague_facts:
   line: '| Fountain | Seed | 2015 | HR Tech / Hiring SaaS | [^19][^33] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: date tightened to 2015-05-18 (see companion unknown_value entry for Fountain on same profile — resolved in same pass).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: eEva
@@ -210239,7 +210322,8 @@ vague_facts:
     |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-27: date tightened to 2020-10-28 (see companion unknown_value entry for Homethrive on same profile — resolved in same pass).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: MedArrive
@@ -210864,7 +210948,8 @@ vague_facts:
   priority: low
   type: year_only_date
   status: resolved
-  resolution_note: 'Resolved together with high-priority column 4 fact 2026-07-26: date tightened to 2017-07-16 via 3 primary sources ([^131][^132][^133]).'
+  resolution_note: 'Resolved together with high-priority column 4 fact 2026-07-26:
+    date tightened to 2017-07-16 via 3 primary sources ([^131][^132][^133]).'
 - profile: firms/accel
   profile_name: Accel
   company: DJI
@@ -210875,7 +210960,8 @@ vague_facts:
   priority: low
   type: year_only_date
   status: resolved
-  resolution_note: 'Resolved together with high-priority column 4 fact 2026-07-26: date CORRECTED from wrong 2013 to 2015-05-06 via 3 primary sources ([^134][^135][^136]).'
+  resolution_note: 'Resolved together with high-priority column 4 fact 2026-07-26:
+    date CORRECTED from wrong 2013 to 2015-05-06 via 3 primary sources ([^134][^135][^136]).'
 - profile: firms/accel
   profile_name: Accel
   company: Vox Media
@@ -210886,7 +210972,8 @@ vague_facts:
   priority: low
   type: year_only_date
   status: resolved
-  resolution_note: 'Resolved together with high-priority column 4 fact 2026-07-26: date CORRECTED from wrong 2011 to 2008-10-29 via 3 primary sources ([^137][^138][^139]).'
+  resolution_note: 'Resolved together with high-priority column 4 fact 2026-07-26:
+    date CORRECTED from wrong 2011 to 2008-10-29 via 3 primary sources ([^137][^138][^139]).'
 - profile: firms/accel
   profile_name: Accel
   company: MoPub
@@ -212086,7 +212173,12 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-27
-  note: "Fact-spec sweep 2026-07-27: tightened Snyk Series D row from '2020' to '2020-09-09' with full co-investor list (Accel, Boldstart, Canaan, Coatue, GV, Salesforce Ventures, Stripes, Tiger Global, Trend Forward, Amity) and $200M amount at $2.6B valuation. Existing PR Newswire [^13] source re-verified via WebFetch on 2026-07-27, confirming date/amount/participants. No new footnote required (already fully cited)."
+  note: 'Fact-spec sweep 2026-07-27: tightened Snyk Series D row from ''2020'' to
+    ''2020-09-09'' with full co-investor list (Accel, Boldstart, Canaan, Coatue, GV,
+    Salesforce Ventures, Stripes, Tiger Global, Trend Forward, Amity) and $200M amount
+    at $2.6B valuation. Existing PR Newswire [^13] source re-verified via WebFetch
+    on 2026-07-27, confirming date/amount/participants. No new footnote required (already
+    fully cited).'
 - profile: firms/addition
   profile_name: Addition
   company: dLocal
@@ -212098,7 +212190,11 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-27
-  note: "Fact-spec sweep 2026-07-27: tightened dLocal row from '2020' to '2020-09-15' and clarified Addition was participant (not lead) — General Atlantic led up to USD 200M at USD 1.2B valuation with Addition joining as new investor. Verified via 3 primary sources: existing LAVCA [^10] + NEW dLocal press release [^39] (2020-09-15) + NEW FinSMEs [^40] (2020-09-15). 2 new footnotes added ([^39], [^40])."
+  note: 'Fact-spec sweep 2026-07-27: tightened dLocal row from ''2020'' to ''2020-09-15''
+    and clarified Addition was participant (not lead) — General Atlantic led up to
+    USD 200M at USD 1.2B valuation with Addition joining as new investor. Verified
+    via 3 primary sources: existing LAVCA [^10] + NEW dLocal press release [^39] (2020-09-15)
+    + NEW FinSMEs [^40] (2020-09-15). 2 new footnotes added ([^39], [^40]).'
 - profile: firms/addition
   profile_name: Addition
   company: Chainalysis
@@ -212111,7 +212207,11 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-27
-  note: "Fact-spec sweep 2026-07-27: tightened Chainalysis Series C row from '2020' to '2020-11-23' with $100M amount at $1B+ valuation and returning-investor participants (Accel, Benchmark, Ribbit Capital) via 3 primary sources: existing PR Newswire [^16] + NEW Chainalysis company blog [^41] (2020-11-23 primary) confirming Addition led with $100M at over $1B valuation. 1 new footnote added [^41]."
+  note: 'Fact-spec sweep 2026-07-27: tightened Chainalysis Series C row from ''2020''
+    to ''2020-11-23'' with $100M amount at $1B+ valuation and returning-investor participants
+    (Accel, Benchmark, Ribbit Capital) via 3 primary sources: existing PR Newswire
+    [^16] + NEW Chainalysis company blog [^41] (2020-11-23 primary) confirming Addition
+    led with $100M at over $1B valuation. 1 new footnote added [^41].'
 - profile: firms/addition
   profile_name: Addition
   company: Hugging Face
@@ -227056,7 +227156,7 @@ vague_facts:
   line: '| Dandy | Series A | 2019 | Healthcare / Dental | Active | [^13][^16] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: investigating
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Teamshares
@@ -227077,7 +227177,7 @@ vague_facts:
   line: '| QA Wolf | Series A | 2022 | AI / Testing | Active | [^20] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: investigating
 - profile: firms/inspired-capital
   profile_name: Inspired Capital
   company: Habi
@@ -230091,7 +230191,7 @@ vague_facts:
   line: '| Snyk | Series F | 2021 | Cybersecurity / Application Security | [^2] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: investigating
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Immunai
