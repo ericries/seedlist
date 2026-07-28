@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Zürich-based ZuriQ raises €22.4 million to scale its 2D trapped-ion quantum
+    processors
+  url: https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/
+  source: eu-startups
+  date_found: '2026-07-28'
+  parsed_company: Zürich-based ZuriQ
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: u003eThe company raised $5B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -93,22 +102,6 @@ pending_rounds:
   date_found: '2026-07-27'
   parsed_company: Scribe had
   parsed_amount: $121M
-  parsed_round: null
-  status: pending
-- title: Antares raises $470M to build nuclear reactors for the US military
-  url: https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/
-  source: techcrunch
-  date_found: '2026-07-27'
-  parsed_company: Antares
-  parsed_amount: $470M
-  parsed_round: null
-  status: pending
-- title: Enigma raises $71M to make controlling a robot as easy as adjusting the volume
-  url: https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/
-  source: techcrunch
-  date_found: '2026-07-27'
-  parsed_company: Enigma
-  parsed_amount: $71M
   parsed_round: null
   status: pending
 - title: Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation
@@ -863,14 +856,6 @@ pending_rounds:
     and wallet payments across Europe
   url: https://www.eu-startups.com/2026/07/netflix-alumni-founded-nopan-reaches-e7-2-million-in-funding-to-scale-account-and-wallet-payments-across-europe/
   source: eu-startups
-  date_found: '2026-07-14'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: So Far, 2026 Is A Solid Year For Cybersecurity Startup Funding
-  url: https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/
-  source: crunchbase
   date_found: '2026-07-14'
   parsed_company: null
   parsed_amount: null
