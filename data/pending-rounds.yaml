@@ -81,6 +81,102 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Dwelly raised $95M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: Dwelly
+  parsed_amount: $95M
+  parsed_round: Series B
+  status: pending
+- title: and DVC. It also raised $75M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: and DVC. It also
+  parsed_amount: $75M
+  parsed_round: null
+  status: pending
+- title: Enigma raised $70M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: Enigma
+  parsed_amount: $70M
+  parsed_round: Seed
+  status: pending
+- title: Act Security raised $40M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: Act Security
+  parsed_amount: $40M
+  parsed_round: Series A
+  status: pending
+- title: AegisAI raised $36M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: AegisAI
+  parsed_amount: $36M
+  parsed_round: Series A
+  status: pending
+- title: ProphetX raised $35M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: ProphetX
+  parsed_amount: $35M
+  parsed_round: null
+  status: pending
+- title: ZuriQ raised $25.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: ZuriQ
+  parsed_amount: $25.5M
+  parsed_round: Seed
+  status: pending
+- title: Mate raised $25M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: Mate
+  parsed_amount: $25M
+  parsed_round: Series A
+  status: pending
+- title: Sent raised $12M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: Sent
+  parsed_amount: $12M
+  parsed_round: Series A
+  status: pending
+- title: Pilot Protocol raised $4.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: Pilot Protocol
+  parsed_amount: $4.5M
+  parsed_round: Seed
+  status: pending
+- title: U AI raised $3.2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: U AI
+  parsed_amount: $3.2M
+  parsed_round: null
+  status: pending
+- title: Align Ventures raised $125M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-28'
+  parsed_company: Align Ventures
+  parsed_amount: $125M
+  parsed_round: null
+  status: pending
 - title: u003eThe company raised $5B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -782,107 +878,5 @@ pending_rounds:
   date_found: '2026-07-16'
   parsed_company: s first fund
   parsed_amount: $91.2M
-  parsed_round: null
-  status: pending
-- title: AI-powered travel agency Fora hits unicorn status, raises $60M
-  url: https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/
-  source: techcrunch
-  date_found: '2026-07-16'
-  parsed_company: AI-powered travel agency Fora hits unicorn status,
-  parsed_amount: $60M
-  parsed_round: null
-  status: pending
-- title: How a former DeepMind researcher raised at a $300M pre-seed valuation before
-    launching a product
-  url: https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/
-  source: techcrunch
-  date_found: '2026-07-16'
-  parsed_company: null
-  parsed_amount: $300M
-  parsed_round: Pre-Seed
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/16/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-16-2026/
-  source: alleywatch
-  date_found: '2026-07-16'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: CNB Financial Corporation Announces Quarterly Dividend for Series A Preferred
-    Stock and Related Depositary Shares Distribution
-  url: https://www.globenewswire.com/news-release/2026/07/14/3327266/0/en/CNB-Financial-Corporation-Announces-Quarterly-Dividend-for-Series-A-Preferred-Stock-and-Related-Depositary-Shares-Distribution.html
-  source: globenewswire
-  date_found: '2026-07-15'
-  parsed_company: CNB Financial Corporation
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Rime picks up $24M Series A to help enterprises field customer calls
-  url: https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/
-  source: techcrunch
-  date_found: '2026-07-15'
-  parsed_company: null
-  parsed_amount: $24M
-  parsed_round: Series A
-  status: pending
-- title: Indian AI coding startup Emergent becomes a unicorn with $130M Series C
-  url: https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/
-  source: techcrunch
-  date_found: '2026-07-15'
-  parsed_company: null
-  parsed_amount: $130M
-  parsed_round: Series C
-  status: pending
-- title: Backed by $60M in funding, Oak steps out of stealth to fix the identity mess
-    that AI agents are making worse
-  url: https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/
-  source: techcrunch
-  date_found: '2026-07-15'
-  parsed_company: null
-  parsed_amount: $60M
-  parsed_round: null
-  status: pending
-- title: Fintech Funding Surges 23% In H1 2026 As Investors Concentrate Their Bets
-    On AI And Financial Infrastructure
-  url: https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/
-  source: crunchbase
-  date_found: '2026-07-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Madrid-based Buenavista Equity Partners secures €75 million in commitments
-    for its third buyout fund
-  url: https://www.eu-startups.com/2026/07/madrid-based-buenavista-equity-partners-secures-e75-million-in-commitments-for-its-third-buyout-fund/
-  source: eu-startups
-  date_found: '2026-07-15'
-  parsed_company: Madrid-based Buenavista Equity Partners
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Daniel Ek’s Neko Health raises €612.7 million Series C as it prepares for
-    US expansion
-  url: https://www.eu-startups.com/2026/07/daniel-eks-neko-health-raises-e612-7-million-series-c-as-it-prepares-for-us-expansion/
-  source: eu-startups
-  date_found: '2026-07-15'
-  parsed_company: Daniel Ek’s Neko Health
-  parsed_amount: null
-  parsed_round: Series C
-  status: pending
-- title: Daniel Ek’s body-scanning startup Neko Health raises another $700M
-  url: https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/
-  source: techcrunch
-  date_found: '2026-07-15'
-  parsed_company: Daniel Ek’s body-scanning startup Neko Health
-  parsed_amount: $700M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/15/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-15-2026/
-  source: alleywatch
-  date_found: '2026-07-15'
-  parsed_company: null
-  parsed_amount: null
   parsed_round: null
   status: pending

@@ -42337,3 +42337,79 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: sameer-nigam
+- name: Coreline Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fish-audio
+- name: Capital Today
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fish-audio
+- name: Parable
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fish-audio
+- name: Play Time
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fish-audio
+- name: Alphalist Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fish-audio
+- name: Bayhouse Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fish-audio
+- name: Carya Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fish-audio
+- name: Osuke Honda
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Coreline Ventures
+  discovered_from: fish-audio
+- name: Cherryrock Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: flourish-health
+- name: Adam Seabrook
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: B Capital
+  discovered_from: flourish-health
+- name: Brett Cook
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: F-Prime Capital
+  discovered_from: flourish-health
+- name: Stacy Brown-Philpot
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cherryrock Capital
+  discovered_from: flourish-health
