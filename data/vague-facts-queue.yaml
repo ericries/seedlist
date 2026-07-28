@@ -171335,7 +171335,17 @@ vague_facts:
   line: '| 2024-07-17 | Acquisition | Undisclosed | NVIDIA (acquirer) | — [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_note: 'Fact-spec sweep 2026-07-28: NVIDIA-Brev.dev acquisition terms
+    are genuinely undisclosed. Confirmed via 4 primary/contemporaneous sources:
+    founder Nader Khalil LinkedIn post [^5] (announces the deal, no terms), NVIDIA
+    Developer Blog [^6], NEW Cryptopolitan [^7] (explicitly contrasts undisclosed
+    Brev.dev terms with disclosed 2024 NVIDIA acquisitions Run $700M, Shoreline
+    $100M, Deci $300M), and NEW Nama Ventures (lead investor) [^8] (no terms).
+    Additional confirmations: Perkins Coie legal advisor announcement, Nama Ventures
+    portfolio retrospective — neither discloses terms. Public announcement date
+    July 17, 2024 (Khalil LinkedIn), news coverage propagated July 20, 2024. 2
+    new footnotes added ([^7], [^8]).'
 - profile: startups/brex
   profile_name: Brex
   company: '2017-03-20'
@@ -172141,7 +172151,17 @@ vague_facts:
     [^10][^11][^12] | -- |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_note: 'Fact-spec sweep 2026-07-28: Discord (then Hammer & Chisel) Series
+    B amount is genuinely undisclosed. Confirmed via 4 independent primary sources
+    from Feb 10-12, 2015: TechCrunch [^10] ("Citron isn''t disclosing the size of
+    the round"), PocketGamer.biz [^11] (Tencent named as lead, amount not disclosed),
+    Yahoo Finance/BusinessWire [^12] (no amount stated), and NEW MCV/DEVELOP [^14]
+    ("The amount of investment in the studio was not disclosed."). Tightened lead
+    to note "Tencent (led per PocketGamer)" — TechCrunch and BusinessWire simply
+    named all three (Tencent, Benchmark, YouWeb''s 9+) without designating a lead.
+    Cumulative capital post-round was $8.2M per multiple sources (matching prior
+    Series A total), suggesting a small follow-on. 1 new footnote added ([^14]).'
 - profile: startups/discord
   profile_name: Discord
   company: Series C
@@ -172265,7 +172285,18 @@ vague_facts:
     (co-led) | Citadel Securities, Fidelity Digital'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_note: 'Fact-spec sweep 2026-07-28: EDX Markets Series B (2024-01-24)
+    amount is genuinely undisclosed — company deliberately did not release the figure.
+    Confirmed via 4 primary/contemporaneous sources: EDX press release [^6] (no
+    amount stated), FinSMEs [^7] (no amount stated), Wikipedia entry (states "for
+    an undisclosed amount"), and NEW Ledger Insights trade press [^8] which explicitly
+    states "EDX didn''t share the Series B round amount, but Bloomberg said the
+    valuation was double that of the Series A." Later secondary sources (e.g., ValueTheMarkets,
+    July 2026) report $65M by back-inference from Series C aggregate context, but
+    this figure is not from primary reporting and EDX itself has never disclosed
+    it. Tightened row to note the non-disclosure and Bloomberg valuation-doubled
+    signal. 1 new footnote added ([^8]).'
 - profile: startups/edx-markets
   profile_name: EDX Markets
   company: '2022'

@@ -106,7 +106,7 @@ Discord is a communication platform originally built for gamers, founded by Jaso
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
 | Series A | Nov 2013 | $8.2M | Benchmark | Accel, IDG Capital, General Catalyst, WarnerMedia [^3] [^4] | -- |
-| Series B | 2015-02-10 | Undisclosed | Tencent | Benchmark, YouWeb's 9+ [^10][^11][^12] | -- |
+| Series B | 2015-02-10 | Undisclosed (amount not disclosed per multiple primary sources) | Tencent (led per PocketGamer) | Benchmark Capital, YouWeb's 9+ [^10][^11][^12][^14] | -- |
 | Series C | Jan 2016 | $20M | Greylock | Tencent, YouWeb, Benchmark [^4] | -- |
 | Series C (ext) | Jun 2017 | $50M | Index Ventures | IVP, Greylock, Benchmark, Spark Capital [^4] | $725M |
 | Series D | Dec 2018 | $150M | Greenoaks Capital | Tencent, Index Ventures, Technology Opportunity Partners, FirstMark, IVP [^5] | $2.05B |
@@ -138,3 +138,5 @@ No independently sourced founder testimonials found.
 [^12]: Yahoo Finance / Business Wire press release, "Hammer & Chisel Raises Series B Investment After Launching Award Winning iPad Game Fates Forever," February 10, 2015. https://finance.yahoo.com/news/hammer-chisel-raises-series-b-140000836.html
 
 [^13]: TechCrunch, "Discord now has a $3.5B valuation and $100M for a sales pitch lighter on the gaming," June 30, 2020. Accessed May 2026. https://techcrunch.com/2020/06/30/discord-now-has-a-3-5b-valuation-and-100m-for-a-sales-pitch-lighter-on-the-gaming/ — Confirms Index Ventures (led by Danny Rimer) led Discord's June 30, 2020 $100M Series G at $3.5B valuation, with new investor IVP participating. Cross-referenced with Crunchbase, https://www.crunchbase.com/funding_round/discord-series-g--8eab3a51.
+
+[^14]: MCV/DEVELOP, "Fates Forever dev secures funding from Tencent and Benchmark," February 2015, accessed July 2026. https://mcvuk.com/business-news/mobile/fates-forever-dev-secures-funding-from-tencent-and-benchmark/ — Confirms Series B date and states "The amount of investment in the studio was not disclosed." Names Tencent, Benchmark Capital, and YouWeb's 9+ as participants.

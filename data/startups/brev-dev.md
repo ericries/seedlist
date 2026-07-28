@@ -32,7 +32,7 @@ NVIDIA acquired Brev.dev in July 2024; Khalil announced the deal publicly on Jul
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2022-06 | Pre-Seed | Undisclosed | Nama Ventures | Not publicly disclosed [^2] |
-| 2024-07-17 | Acquisition | Undisclosed | NVIDIA (acquirer) | — [^5] |
+| 2024-07-17 | Acquisition | Undisclosed (financial terms not disclosed) | NVIDIA (acquirer) | — [^5][^7][^8] |
 
 ## What Investors Say
 
@@ -52,3 +52,7 @@ Nader Khalil, announcing the NVIDIA acquisition on LinkedIn, July 17, 2024: "We 
 [^4]: Y Combinator company profile: Paneau (W20), accessed July 2026. https://www.ycombinator.com/companies/paneau
 [^5]: Nader Khalil LinkedIn post, "Brev.dev has been acquired by NVIDIA!", July 17, 2024. https://www.linkedin.com/posts/naderlikeladder_brevdev-has-been-acquired-by-nvidia-activity-7219052262373957633-fGsz
 [^6]: NVIDIA Developer Blog, "Deploy GPU-Optimized AI Software with One Click Using Brev.dev and NVIDIA NGC Catalog," Nader Khalil, July 1, 2024. https://developer.nvidia.com/blog/author/nader/
+
+[^7]: Cryptopolitan, "Nvidia acquires AI startup Brev.dev to enhance Cloud GPU services," July 2024. Accessed July 2026. https://www.cryptopolitan.com/nvidia-acquires-ai-startup-brev-dev/ — Contemporaneous trade press coverage of the acquisition. Notes this was NVIDIA's fourth 2024 acquisition; unlike Run ($700M), Shoreline.io ($100M), and Deci ($300M), the Brev.dev deal terms were not disclosed.
+
+[^8]: Nama Ventures, "NVIDIA Acquires Brev.dev, a Portfolio Company of Nama Ventures," July 2024. Accessed July 2026. https://www.namaventures.com/nvidia-acquires-brev-dev-a-portfolio-company-of-nama-ventures/ — Lead investor announcement of the NVIDIA acquisition; no financial terms disclosed. Includes quote from Mohamed Alzubi (Founder & Managing Director) on the exit.

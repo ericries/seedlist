@@ -36,7 +36,7 @@ Yope is a private social networking app centered on "micro communities," where f
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-22 | Seed | $12.3M | Northzone | Inovo, Redseed, Geek Ventures [^1] |
+| 2026-07-22 | Seed | $12.3M | Northzone | Inovo, Redseed, Geek Ventures [^1][^4][^5] |
 | 2025-02-24 | Seed | $4.65M | Goodwater Capital | Inovo VC, Redseed [^2][^3] |
 
 Total funding to date: approximately $20M across all rounds [^1].
@@ -56,3 +56,5 @@ Total funding to date: approximately $20M across all rounds [^1].
 [^1]: Ivan Mehta, "Yope raises $12.3M to build a private social network without algorithms or ads," TechCrunch, July 22, 2026. Accessed July 22, 2026. https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/
 [^2]: Ivan Mehta, "Yope is sparking Gen Z (and VC) interest with an Instagram-like app for private groups," TechCrunch, February 24, 2025. Accessed July 22, 2026. https://techcrunch.com/2025/02/24/yope-is-sparking-genz-and-vc-interest-with-an-instagram-like-app-for-private-groups/
 [^3]: "YOPE," Wikipedia. Accessed July 22, 2026. https://en.wikipedia.org/wiki/YOPE
+[^4]: "Yope Raises $12.3M Seed for Private Social Network," Fundraise Insider, July 22, 2026. Accessed July 28, 2026. https://fundraiseinsider.com/blog/yope-raises-12-3m-seed-for-private-social-network/
+[^5]: "Yope Raises $12.3 Million Pre-Series A Led By Northzone For AI-Native Private Social Platform," Pulse 2.0, July 24, 2026. Accessed July 28, 2026. https://pulse2.com/yope-raises-12-3-million-pre-series-a-led-by-northzone-for-ai-native-private-social-platform/

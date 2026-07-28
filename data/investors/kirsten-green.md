@@ -111,7 +111,7 @@ The analysis below is based on 30 verified portfolio companies from Forerunner's
 | Zola | Early | ~2016 | Consumer/Weddings | Active | [^8] |
 | Leland | Early | ~2022 | Marketplace/Education | Active | [^8] |
 | Casa | Series A (lead) | 2026-04-30 | Home services / Marketplace | Active | [^14] |
-| Natural | Series A (lead) | 2026-07-20 | Fintech / AI Agent Payments | Active | [^natural-a] |
+| Natural | Series A (lead) | 2026-07-20 | Fintech / AI Agent Payments | Active | [^natural-a][^natural-b][^natural-c] |
 
 *This table represents approximately 30 of 161 total investments reported by Tracxn [^9]. Many investment years are approximate based on founding year or press coverage timing.*
 
@@ -151,3 +151,5 @@ No additional independently sourced founder testimonials were found beyond firm-
 [^14]: Brian Contreras, "Ex-Uber Execs Raise $27 Million for a Home Maintenance Startup," Inc., April 30, 2026. https://www.inc.com/brian-contreras/uber-veterans-raised-27-million-home-maintenance-startup-casa/91338374
 
 [^natural-a]: "Natural Raises $30M Series A to Build Payments Infrastructure for AI Agents," PR Newswire, July 20, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/natural-raises-30m-series-a-to-build-payments-infrastructure-for-ai-agents-302829855.html
+[^natural-b]: "Natural raises $30M to reinvent payments for AI agents — and take on Stripe," TechCrunch, July 20, 2026. Accessed July 2026. https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/
+[^natural-c]: "Natural Raises $30M Series A to Build Payments Infrastructure for AI Agents," Yahoo Finance, July 20, 2026. Accessed July 2026. https://finance.yahoo.com/technology/ai/articles/natural-raises-30m-series-build-174500490.html

@@ -112,7 +112,7 @@ The analysis below is based on 20 verified investments where Pärson led or was 
 | Bedrock Ocean | 2023 | Series A (co-led) | [^33] |
 | Tandem Health | 2024 | Seed (led) | [^20] |
 | AirForestry | 2024 | Seed (led) | [^19] |
-| Yope | 2026 | Seed (led, $12.3M) | [^yope] |
+| Yope | 2026-07-22 | Seed (led, $12.3M) | [^yope][^yope-b][^yope-c] |
 
 *This table represents Pärson's personally attributed investments. Northzone has 337 investments across 10 funds [^34]; Pärson's individual deal count is reported as 43 [^21]. This table covers 19 of those 43, representing approximately 44% of his known investments.*
 

@@ -133,7 +133,7 @@ Based on 30 verified portfolio investments, the following patterns emerge. Note:
 | OpenFX | Series A (co-led, $94M) | 2026-03-31 | Fintech/Stablecoin/FX | Active [^32][^33][^34] |
 | Blitzy | Growth (led, $200M, $1.4B valuation) | 2026-05-05 | AI/Autonomous Software Development | Active [^38][^39] |
 | microagi | Seed (participated, $55M; Hummingbird led) | 2026-07-16 | Robotics / Humanoid AI / Manufacturing | Active [^micro1][^micro2] |
-| Yope | Seed (led, $12.3M) | 2026-07-22 | Private social networking | Active [^yope1] |
+| Yope | Seed (led, $12.3M) | 2026-07-22 | Private social networking | Active [^yope1][^yope2][^yope3] |
 
 This table represents approximately 15% of Northzone's ~207 total investments [^10]. Many entries use founding year as a proxy where exact investment year could not be verified.
 
@@ -214,5 +214,9 @@ Note: Both quotes above are from Northzone's own blog about their Operator Netwo
 [^micro1]: "Munich robotics startup microagi raises $55m, Germany's largest ever seed round," Sifted, July 16, 2026. Accessed July 19, 2026. https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round — Confirms Northzone as a participant in the $55M seed alongside Hummingbird (lead), LocalGlobe, Village Global and Redalpine.
 
 [^yope1]: Ivan Mehta, "Yope raises $12.3M to build a private social network without algorithms or ads," TechCrunch, July 22, 2026. Accessed July 22, 2026. https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/ — Northzone led the $12.3M seed round with participation from Inovo, Redseed, and Geek Ventures. Pär-Jörgen Pärson joins Yope's board.
+
+[^yope2]: "Yope Raises $12.3M Seed for Private Social Network," Fundraise Insider, July 22, 2026. Accessed July 28, 2026. https://fundraiseinsider.com/blog/yope-raises-12-3m-seed-for-private-social-network/ — Independent trade-press confirmation of $12.3M seed led by Northzone with Inovo, Redseed, Geek Ventures participating; brings total funding to $20M.
+
+[^yope3]: "Yope Raises $12.3 Million Pre-Series A Led By Northzone For AI-Native Private Social Platform," Pulse 2.0, July 24, 2026. Accessed July 28, 2026. https://pulse2.com/yope-raises-12-3-million-pre-series-a-led-by-northzone-for-ai-native-private-social-platform/ — Trade-press confirmation; contains verbatim quote from Pär-Jörgen Pärson (Northzone Partner) and both co-founders (some sources label the round Pre-Series A vs. Seed).
 
 [^micro2]: "microagi Raises $55M in Seed Funding," FinSMEs, July 2026. Accessed July 19, 2026. https://www.finsmes.com/2026/07/microagi-raises-55m-in-seed-funding.html — Independent trade-press confirmation of participants.
