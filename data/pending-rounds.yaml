@@ -64,6 +64,23 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Fish Audio raises $50M seed to build AI voice models for creators and enterprises
+  url: https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
+  source: techcrunch
+  date_found: '2026-07-28'
+  parsed_company: Fish Audio
+  parsed_amount: $50M
+  parsed_round: Seed
+  status: pending
+- title: DITTO raises €5.2 million to tackle menstrual health gaps with research and
+    targeted supplements
+  url: https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/
+  source: eu-startups
+  date_found: '2026-07-28'
+  parsed_company: DITTO
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: u003eThe company raised $5B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -137,6 +154,14 @@ pending_rounds:
   date_found: '2026-07-27'
   parsed_company: Scribe had
   parsed_amount: $121M
+  parsed_round: null
+  status: pending
+- title: Antares raises $470M to build nuclear reactors for the US military
+  url: https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/
+  source: techcrunch
+  date_found: '2026-07-27'
+  parsed_company: Antares
+  parsed_amount: $470M
   parsed_round: null
   status: pending
 - title: Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation
