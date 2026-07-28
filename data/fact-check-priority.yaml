@@ -4655,18 +4655,30 @@ priority:
   type: firm
   reason: appeared in Enigma Seed (2026-07-27), $70M
   added: 2026-07-27
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified: actual amount is $71M (not $70M). Index Ventures portfolio row corrected + SiliconANGLE added as 2nd citation.'
 - slug: ribbit-capital
   type: firm
   reason: appeared in Enigma Seed (2026-07-27), $70M
   added: 2026-07-27
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified: $71M seed co-led by Ribbit + Index. Portfolio row corrected + SiliconANGLE 2nd citation + LVI updated to Enigma (2026-07-27).'
 - slug: conviction
   type: firm
   reason: appeared in Enigma Seed (2026-07-27), $70M
   added: 2026-07-27
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified: $71M seed with Conviction participating. Portfolio row + citations corrected.'
 - slug: sarah-guo
   type: investor
   reason: appeared in Enigma Seed (2026-07-27), $70M via Conviction Partners
   added: 2026-07-27
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified: $71M seed via Conviction Partners. Portfolio row + LVI + citations corrected.'
 - slug: rhapsody-venture-partners
   type: firm
   reason: appeared in Nuclear Turbines Foundational (2026-07-27), £15M
@@ -4679,23 +4691,41 @@ priority:
   type: firm
   reason: led Act Security Series A (2026-07-28), $40M
   added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified via SecurityWeek + SiliconANGLE + FinSMEs: 2026-07-28, $40M Series A led by Notable Capital, Startpoint Capital + SVCI participated. Notable Capital portfolio row already accurate.'
 - slug: bessemer-venture-partners
   type: firm
   reason: co-led Act Security Seed (2026-07-28), $20M
   added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified via SecurityWeek + SiliconANGLE + FinSMEs: 2026-07-28, $20M seed co-led by Bessemer + Team8 with Hetz Ventures + Caltech. BVP portfolio row already accurate.'
 - slug: general-catalyst
   type: firm
   reason: participated Dwelly Series B (2026-07-28), $170M
   added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified via TechFundingNews + TheNextWeb + Bloomberg headline: 2026-07-28, $170M ($95M equity + $75M debt) Series B led by EQT Growth with GC, s16vc, Begin Capital, DVC participating; Trinity Capital provided debt. GC portfolio row already accurate.'
 - slug: index-ventures
   type: firm
   reason: co-led Enigma Seed (2026-07-27), $70-71M
   added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Duplicate of 2026-07-27 entry — see resolution above. Amount corrected to $71M with SiliconANGLE 2nd citation.'
 - slug: ribbit-capital
   type: firm
   reason: co-led Enigma Seed (2026-07-27), $70-71M
   added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Duplicate of 2026-07-27 entry — see resolution above. Amount corrected to $71M; LVI updated.'
 - slug: conviction
   type: firm
   reason: participated Enigma Seed (2026-07-27), $70-71M
   added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Duplicate of 2026-07-27 entry — see resolution above. Amount corrected to $71M.'

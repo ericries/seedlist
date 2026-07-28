@@ -76,6 +76,6 @@ No independently sourced investor commentary quoted at press time.
 
 ## Sources
 
-[^1]: "Enigma raises $71M to make controlling a robot as easy as adjusting the volume," TechCrunch, July 27, 2026. Accessed July 28, 2026. https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/
+[^1]: "Enigma raises $71M to make controlling a robot as easy as adjusting the volume," TechCrunch, July 27, 2026. Accessed July 28, 2026. https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/ — Article body confirms $71M seed (headline URL uses "70m" but text specifies $71 million); names Index Ventures and Ribbit Capital as co-leads with Conviction Partners participating.
 [^2]: "Enigma Raises $71 Million Seed Round and Puts the World's First Interactive AI Robots Online," Yahoo Finance / Newswire, July 27, 2026. Accessed July 28, 2026. https://finance.yahoo.com/technology/ai/articles/enigma-raises-71-million-seed-130500942.html
 [^3]: "Enigma Emerges From Stealth With $71 Million Seed Round to Build AI Foundation Models for Robotics," citybiz, July 27, 2026. Accessed July 28, 2026. https://www.citybiz.co/article/879604/enigma-emerges-from-stealth-with-71-million-seed-round-to-build-ai-foundation-models-for-robotics/

@@ -5,9 +5,9 @@ last_researched: 2026-03-20
 location: Palo Alto, CA
 name: Ribbit Capital
 last_verified_investment:
-  date: 2026-06-02
-  company: Mach Industries
-  round: Series C
+  date: 2026-07-27
+  company: Enigma
+  round: Seed (co-led)
 sector_focus:
 - fintech
 - insurtech
@@ -123,7 +123,7 @@ The firm emphasizes brand-building as central to its value proposition, stating 
 | One (Walmart) | Growth | 2021 | Digital Banking | Active | [^2] |
 | Slash | Series C | 2026 | Fintech / Banking | Active | [^19] |
 | Mach Industries | Series C (co-led, $300M) | 2026-06-02 | Defense-tech / Manufacturing | Active | [^20][^21][^22] |
-| Enigma | Seed (co-led with Index Ventures, $70M; Conviction Partners participated) | 2026-07-27 | Robotics / AI / Foundation Models | Active | [^23] |
+| Enigma | Seed (co-led with Index Ventures, $71M; Conviction Partners participated) | 2026-07-27 | Robotics / AI / Foundation Models | Active | [^23][^24] |
 
 *This table represents approximately 8% of Ribbit's 164 total investments [^6]. All entries now have verified round stages and years from primary sources. The firm's portfolio likely contains significantly more companies, particularly from Funds IV-X, that could not be independently verified from available sources.*
 
@@ -177,4 +177,5 @@ No independently sourced founder testimonials found. Dedicated searches for port
 [^20]: "Mach Industries Raises $300 Million in Series C Funding," PR Newswire press release, June 2, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/mach-industries-raises-300-million-in-series-c-funding-302787788.html
 [^21]: Brianna Wessling, "Autonomous defense manufacturer Mach Industries raises $300M," The Robot Report, June 2026. Accessed June 2026. https://www.therobotreport.com/autonomous-defense-manufacturer-mach-industries-raises-300m/
 [^22]: "MIT dropout's Mach Industries bags $300M at $1.8B valuation as defence manufacturing enters a new era," Tech Funding News, June 2026. Accessed June 2026. https://techfundingnews.com/mit-dropouts-mach-industries-bags-300m-at-1-8b-valuation-as-defence-manufacturing-enters-a-new-era/
-[^23]: "Enigma raises $70M to make controlling a robot as easy as adjusting the volume," TechCrunch, July 27, 2026. Accessed July 27, 2026. https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/ — Names Ribbit Capital and Index Ventures as seed co-leads.
+[^23]: "Enigma raises $71M to make controlling a robot as easy as adjusting the volume," TechCrunch, July 27, 2026. Accessed July 28, 2026. https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/ — Article body confirms $71M seed; names Ribbit Capital and Index Ventures as co-leads.
+[^24]: "Enigma raises $71M to develop foundation models for robots," SiliconANGLE, July 27, 2026. Accessed July 28, 2026. https://siliconangle.com/2026/07/27/enigma-raises-71m-develop-foundation-models-robots/ — Independent tier-1 confirmation of $71M seed co-led by Index Ventures and Ribbit Capital with Conviction Partners participation.
