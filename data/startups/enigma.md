@@ -1,35 +1,55 @@
 ---
-name: "Enigma"
-slug: enigma
-type: startup
-website: "https://www.enigma.ai"
-location: "Israel / California"
-founded: 2025
-status_company: active
-sector: [robotics, ai, foundation-models, physical-ai, deeptech]
-stage_latest: "Seed"
-total_raised: "$71M"
-investors: []
 firms:
-  - slug: index-ventures
-    round: seed
-    year: 2026
-    date: 2026-07-27
-  - slug: ribbit-capital
-    round: seed
-    year: 2026
-    date: 2026-07-27
-  - slug: conviction
-    round: seed
-    year: 2026
-    date: 2026-07-27
+- date: 2026-07-27
+  round: seed
+  slug: index-ventures
+  year: 2026
+- date: 2026-07-27
+  round: seed
+  slug: ribbit-capital
+  year: 2026
+- date: 2026-07-27
+  round: seed
+  slug: conviction
+  year: 2026
+- round: ~2019
+  slug: nea
+  year: 2019
+- round: Pre-Seed
+  slug: independent
+  year: 2021
+founded: 2025
 founders:
-  - name: "Jonathan Jacobi"
-    role: "Co-Founder"
-  - name: "Gal Niv"
-    role: "Co-Founder"
-status: published
+- name: Jonathan Jacobi
+  role: Co-Founder
+- name: Gal Niv
+  role: Co-Founder
+investors:
+- round: ~2019
+  slug: scott-sandell
+  year: 2019
+- round: Pre-Seed
+  slug: wences-casares
+  year: 2021
+- round: '2026-07-27'
+  slug: sarah-guo
+  year: 2026
 last_researched: 2026-07-28
+location: Israel / California
+name: Enigma
+sector:
+- robotics
+- ai
+- foundation-models
+- physical-ai
+- deeptech
+slug: enigma
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $71M
+type: startup
+website: https://www.enigma.ai
 ---
 
 ## About

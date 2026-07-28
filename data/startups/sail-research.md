@@ -28,6 +28,10 @@ firms:
     seed)
   slug: theory-ventures
   year: 2026
+- round: Series A ($80M combined seed + Series A; Sequoia seed, Kleiner Perkins Series
+    A)
+  slug: together-ai
+  year: 2026
 founded: 2026
 founders:
 - name: Neil Movva
@@ -40,6 +44,10 @@ investors:
   slug: tomasz-tunguz
   year: 2026
 - slug: lip-bu-tan
+- round: Series A ($80M combined seed + Series A; Sequoia seed, Kleiner Perkins Series
+    A)
+  slug: tri-dao
+  year: 2026
 last_researched: 2026-06-26
 location: San Francisco, CA
 name: Sail Research

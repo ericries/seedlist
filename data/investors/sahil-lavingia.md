@@ -4,8 +4,8 @@ firm: ''
 last_researched: 2026-06-14
 last_verified_investment:
   company: QA Wolf
-  date: ~2021
-  round: Seed
+  date: ~2022
+  round: Series A (USD 20.1M; Inspired Capital led; Lavingia named as angel)
 location: Portland, Oregon
 name: Sahil Lavingia
 role: Founder & CEO, Gumroad; Solo GP, SHL Capital

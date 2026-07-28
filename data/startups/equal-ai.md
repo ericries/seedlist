@@ -1,18 +1,25 @@
 ---
-name: "Equal AI"
-slug: equal-ai
-type: startup
-location: "India"
 founded: 2022
-status_company: active
-sector: [ai, consumer, mobile]
-stage_latest: "Series B"
-total_raised: "$42M+"
 founders:
-  - name: "Keshav Reddy"
-    role: "Founder"
-status: published
+- name: Keshav Reddy
+  role: Founder
+investors:
+- round: Series B ($30M)
+  slug: sameer-nigam
+  year: 2026
 last_researched: 2026-06-12
+location: India
+name: Equal AI
+sector:
+- ai
+- consumer
+- mobile
+slug: equal-ai
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $42M+
+type: startup
 ---
 
 ## About

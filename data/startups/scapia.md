@@ -1,11 +1,20 @@
 ---
-name: Scapia
-slug: scapia
-type: startup
-website: https://scapia.cards/
-location: Bengaluru, India
+firms:
+- date: 2026-05-21
+  round: series-c
+  slug: general-catalyst
+  year: 2026
 founded: 2022
-status_company: active
+founders:
+- name: Anil Goteti
+  role: Founder & CEO
+investors:
+- round: Seed ($9M)
+  slug: sameer-nigam
+  year: 2022
+last_researched: 2026-05-22
+location: Bengaluru, India
+name: Scapia
 sector:
 - fintech
 - payments
@@ -13,19 +22,13 @@ sector:
 - credit-cards
 - india
 - consumer
+slug: scapia
 stage_latest: Series C
-total_raised: $126M+
-investors: []
-firms:
-- slug: general-catalyst
-  round: series-c
-  year: 2026
-  date: 2026-05-21
-founders:
-- name: Anil Goteti
-  role: Founder & CEO
-last_researched: 2026-05-22
 status: published
+status_company: active
+total_raised: $126M+
+type: startup
+website: https://scapia.cards/
 ---
 
 ## About

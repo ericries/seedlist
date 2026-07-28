@@ -27468,7 +27468,7 @@ queue:
 - name: Tri Dao
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Together AI
   discovered_from: ant-wilson
@@ -28946,7 +28946,7 @@ queue:
 - name: Sameer Nigam
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: PhonePe (founder)
   discovered_from: equal-ai
@@ -42245,3 +42245,95 @@ queue:
   added: '2026-03-17'
   discovered_from: xeltis
   source: participant in Xeltis €20.5M round (2026-07-28)
+- name: Ce Zhang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Together AI
+  discovered_from: tri-dao
+- name: Percy Liang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Together AI
+  discovered_from: tri-dao
+- name: Adaptive ML
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: tri-dao
+- name: Dylan Patel
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SemiAnalysis
+  discovered_from: tri-dao
+- name: Rahul Chari
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: PhonePe
+  discovered_from: sameer-nigam
+- name: Burzin Engineer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: PhonePe
+  discovered_from: sameer-nigam
+- name: PhonePe
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-nigam
+- name: Pravin Jadhav
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Raise Financial Services (Dhan)
+  discovered_from: sameer-nigam
+- name: Amar Nagaram
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Virgio
+  discovered_from: sameer-nigam
+- name: Keshav Reddy
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Equal AI
+  discovered_from: sameer-nigam
+- name: Bzaar
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-nigam
+- name: Crejo.Fun
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-nigam
+- name: Raise Financial Services
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-nigam
+- name: Virgio
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sameer-nigam

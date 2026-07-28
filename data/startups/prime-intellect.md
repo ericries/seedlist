@@ -16,6 +16,9 @@ firms:
 - round: Series A ($15M, led by Founders Fund)
   slug: hugging-face
   year: 2025
+- round: Seed extension ($15M, led by Founders Fund)
+  slug: together-ai
+  year: 2025
 founded: 2024
 founders:
 - name: Vincent Weisser
@@ -45,6 +48,9 @@ investors:
 - round: Seed
   slug: 0xsmac
   year: 2024
+- round: Seed extension ($15M, led by Founders Fund)
+  slug: tri-dao
+  year: 2025
 last_researched: 2026-07-08
 location: San Francisco, California
 name: Prime Intellect
