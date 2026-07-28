@@ -27460,7 +27460,7 @@ queue:
 - name: Elliot Hershberg
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Amplify Partners
   discovered_from: waypoint-bio
@@ -27664,7 +27664,7 @@ queue:
 - name: Deepinder Goyal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Zomato
   discovered_from: ritesh-agarwal
@@ -42065,3 +42065,99 @@ queue:
   added: '2026-03-17'
   firm: Fincart
   discovered_from: fincart
+- name: Eternal
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deepinder-goyal
+- name: Temple
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deepinder-goyal
+- name: LAT Aerospace
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deepinder-goyal
+- name: Continue Research
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deepinder-goyal
+- name: Vayudh
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deepinder-goyal
+- name: Gully Labs
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deepinder-goyal
+- name: Sparkl Edventure
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deepinder-goyal
+- name: Pixxel
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deepinder-goyal
+- name: Steadview Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deepinder-goyal
+- name: InfoEdge Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deepinder-goyal
+- name: Dharana Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deepinder-goyal
+- name: Infinitopes
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elliot-hershberg
+- name: Unnatural Products
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elliot-hershberg
+- name: Atomic AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elliot-hershberg
+- name: Digital Biology
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elliot-hershberg
+- name: Not Boring Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: elliot-hershberg

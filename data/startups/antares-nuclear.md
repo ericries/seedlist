@@ -1,25 +1,45 @@
 ---
-name: "Antares"
-slug: antares-nuclear
-type: startup
-website: "https://www.antaresnuclear.com"
-location: "Los Angeles, CA"
-founded: 2023
-status_company: active
-sector: [nuclear, energy, deeptech, defense, hard-tech, climate]
-stage_latest: "Series C"
-total_raised: "$604M"
 firms:
-  - slug: paradigm
-    round: series-c
-    year: 2026
-    date: 2026-07-27
-investors: []
+- date: 2026-07-27
+  round: series-c
+  slug: paradigm
+  year: 2026
+- round: Seed (Alt Capital)
+  slug: benchmark
+  year: 2024
+- round: Series B (led, $96M = $71M equity + $25M debt; Alt Capital, Caffeinated,
+    FiftyThree Stations, Industrious participated)
+  slug: shine-capital
+  year: 2025
+founded: 2023
 founders:
-  - name: "Jordan Bramble"
-    role: "CEO & Co-Founder"
-status: published
+- name: Jordan Bramble
+  role: CEO & Co-Founder
+investors:
+- round: Seed (Alt Capital)
+  slug: jack-altman
+  year: 2024
+- round: Series B (led, $96M = $71M equity + $25M debt; Alt Capital, Caffeinated,
+    FiftyThree Stations, Industrious participated)
+  slug: ethan-daly
+  year: 2025
 last_researched: 2026-07-27
+location: Los Angeles, CA
+name: Antares
+sector:
+- nuclear
+- energy
+- deeptech
+- defense
+- hard-tech
+- climate
+slug: antares-nuclear
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $604M
+type: startup
+website: https://www.antaresnuclear.com
 ---
 
 ## About
