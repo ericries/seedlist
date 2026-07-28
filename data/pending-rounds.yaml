@@ -136,6 +136,23 @@ pending_rounds:
   parsed_amount: $125M
   parsed_round: null
   status: pending
+- title: Fish Audio raises $52M seed to build AI voice models for creators and enterprises
+  url: https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
+  source: techcrunch
+  date_found: '2026-07-28'
+  parsed_company: Fish Audio
+  parsed_amount: $52M
+  parsed_round: Seed
+  status: pending
+- title: DITTO raises €5.2 million to tackle menstrual health gaps with research and
+    targeted supplements
+  url: https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/
+  source: eu-startups
+  date_found: '2026-07-28'
+  parsed_company: DITTO
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: u003eThe company raised $5B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
