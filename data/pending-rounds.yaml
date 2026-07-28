@@ -64,23 +64,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Fish Audio raises $50M seed to build AI voice models for creators and enterprises
-  url: https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
-  source: techcrunch
-  date_found: '2026-07-28'
-  parsed_company: Fish Audio
-  parsed_amount: $50M
-  parsed_round: Seed
-  status: pending
-- title: DITTO raises €5.2 million to tackle menstrual health gaps with research and
-    targeted supplements
-  url: https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/
-  source: eu-startups
-  date_found: '2026-07-28'
-  parsed_company: DITTO
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Dwelly raised $95M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -97,28 +80,12 @@ pending_rounds:
   parsed_amount: $75M
   parsed_round: null
   status: pending
-- title: Enigma raised $70M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: Enigma
-  parsed_amount: $70M
-  parsed_round: Seed
-  status: pending
 - title: Act Security raised $40M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
   date_found: '2026-07-28'
   parsed_company: Act Security
   parsed_amount: $40M
-  parsed_round: Series A
-  status: pending
-- title: AegisAI raised $36M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: AegisAI
-  parsed_amount: $36M
   parsed_round: Series A
   status: pending
 - title: ProphetX raised $35M
@@ -128,14 +95,6 @@ pending_rounds:
   parsed_company: ProphetX
   parsed_amount: $35M
   parsed_round: null
-  status: pending
-- title: ZuriQ raised $25.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: ZuriQ
-  parsed_amount: $25.5M
-  parsed_round: Seed
   status: pending
 - title: Mate raised $25M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -250,14 +209,6 @@ pending_rounds:
   date_found: '2026-07-27'
   parsed_company: Scribe had
   parsed_amount: $121M
-  parsed_round: null
-  status: pending
-- title: Antares raises $470M to build nuclear reactors for the US military
-  url: https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/
-  source: techcrunch
-  date_found: '2026-07-27'
-  parsed_company: Antares
-  parsed_amount: $470M
   parsed_round: null
   status: pending
 - title: Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation
