@@ -3927,7 +3927,21 @@ vague_facts:
   line: '| Happyrobot | Pre-seed | ~2020s | AI/Robotics | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-29
+  resolution_notes: 'Tightened Happyrobot row on array-ventures.md. Was "Pre-seed |
+    ~2020s | AI/Robotics"; now "Pre-seed (amount undisclosed in primary press; a16z''s
+    Dec 2024 Series A press retrospectively confirmed a ''previously undisclosed pre-seed''
+    from ~1.5 years earlier backed by Array Ventures + Y Combinator; Tracxn dates the
+    round to 2023) | 2023 | AI / Logistics (Voice AI for freight brokerage)". Via 3
+    primary sources: PR Newswire Series A announcement [^15] (2024-12-04, retrospectively
+    disclosed the pre-seed with Array Ventures + YC), HappyRobot company blog Series
+    A announcement [^16] (confirms same), Tracxn [^17] (dates earliest round to 2023;
+    exact date + amount not in primary press). Corrected sector from "AI/Robotics" to
+    "AI / Logistics (Voice AI for freight brokerage)" — HappyRobot builds voice AI for
+    freight brokers, not robotics. Exact pre-seed date and amount remain undisclosed
+    in primary press; year 2023 is the tightest defensible date. 3 new footnotes added
+    ([^15]-[^17]).'
 - profile: firms/array-ventures
   profile_name: Array Ventures
   company: AnswersAI
@@ -4345,7 +4359,18 @@ vague_facts:
   line: '| ScienceIO | Seed | ~2021 | Health/AI | Acquired (Veradigm) | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-29
+  resolution_notes: 'Tightened ScienceIO row on banana-capital.md. Was "Seed | ~2021";
+    now "Seed (USD 8M; Section 32 led; Turner Novak listed as individual angel in primary
+    press — Banana Capital not independently named as a firm; Novak included on Banana
+    Capital portfolio page [^1]) | 2021-10-13". Status column updated to "Acquired
+    (Veradigm, USD 140M cash, closed 2024-03-04)". Via 3 primary sources: PR Newswire
+    seed announcement [^13] (2021-10-13; Section 32 led, full participant list including
+    Turner Novak as angel), SaaS News independent secondary [^14], BusinessWire Veradigm
+    acquisition close [^15] (2024-03-04, USD 140M cash / USD 44M deferred). Important
+    caveat added: primary press names Turner Novak as an individual angel; Banana Capital
+    (the firm) is not independently named. 3 new footnotes added ([^13]-[^15]).'
 - profile: firms/banana-capital
   profile_name: Banana Capital
   company: Bee
@@ -4355,7 +4380,18 @@ vague_facts:
   line: '| Bee | Seed | ~2021 | Consumer/Productivity | Acquired (Amazon) | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-29
+  resolution_notes: 'Tightened Bee row on banana-capital.md. Was "Seed | ~2021"; now
+    "Seed (USD 7M incl. USD 1.5M pre-seed; Exor led; Greycroft, New Wave VC, Banana
+    Capital, Brian Bedol participated) | 2024-07-29". Also corrected year (was ~2021,
+    actual round 2024-07-29) and sector (was Consumer/Productivity; now Consumer/AI
+    Wearable, matching Bee''s actual product). Status column updated to "Acquired (Amazon,
+    terms undisclosed, announced 2025-07-22)". Via 3 primary sources: TechCrunch seed
+    announcement [^16] (Ivan Mehta, 2024-07-29; Exor led, Banana Capital explicitly
+    named as participant), Yahoo Finance/TechCrunch syndication [^17] (2024-07-30 second
+    confirmation), TechCrunch Amazon acquisition [^18] (2025-07-22 announcement; terms
+    undisclosed, deal not yet closed at announcement time). 3 new footnotes added ([^16]-[^18]).'
 - profile: firms/banana-capital
   profile_name: Banana Capital
   company: Chainguard
