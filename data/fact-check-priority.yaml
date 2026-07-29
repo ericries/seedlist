@@ -4739,19 +4739,34 @@ priority:
   type: firm
   reason: 'appeared in Mate Security Series A (2026-07-28)'
   added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified via Calcalist + The Next Web + Security Boulevard (Teddie Wardi quoted): 2026-07-28, $35M Series A led by Canaan Partners with Insight, Team8, M12 participating. Insight portfolio row updated to add Team8/M12 participants and 3rd citation ([^mate3] Security Boulevard).'
 - slug: version-one-ventures
   type: firm
   reason: 'led Pilot Protocol Seed (2026-07-27)'
   added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified via Version One blog + BusinessWire + TechStartups: 2026-07-27, $4.5M seed led by V1 with Precursor, Night Capital, Todd & Rahul Angel Fund, Lenny Rachitsky, Ben Tossell participating. V1 portfolio row updated with participant list and 3rd citation ([^pilot3] TechStartups).'
 - slug: lenny-rachitsky
   type: investor
   reason: 'appeared in Pilot Protocol Seed (2026-07-27)'
   added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified via Version One blog + BusinessWire + TechStartups: Rachitsky confirmed as angel participant in $4.5M seed 2026-07-27 (V1 led). Portfolio row updated with amount and 3rd citation ([^pilot3] TechStartups).'
 - slug: bessemer-venture-partners
   type: firm
   reason: 'participated in Sent Series A (2026-07-28), $12M'
   added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified via GlobeNewswire + Manila Times syndication + ChinaTechNews aggregator: 2026-07-28, $12M Series A led by Companyon Ventures with Bessemer, UIF, CP Overture participating (all returning investors from May 2025 seed). Kent Bennett quoted. BVP portfolio row updated with 3rd citation ([^sent3] ChinaTechNews).'
 - slug: kent-bennett
   type: investor
   reason: 'quoted on Sent Series A (2026-07-28), $12M'
   added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
+  resolution_note: 'Verified via GlobeNewswire + Manila Times + ChinaTechNews: Bennett quoted attributing "orchestration layer to power the next generation of business communications" in Sent Series A press release. Kent Bennett portfolio row updated with participants (UIF, CP Overture) and 3rd/2nd citations ([^sent-b], [^sent-c]).'

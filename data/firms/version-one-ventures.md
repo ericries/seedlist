@@ -143,7 +143,7 @@ Wertz has stated a preference for first-time entrepreneurs, saying "We're happy 
 | Kobalt | Early | ~2014 | Music/Entertainment | Active [^20] |
 | Zenput | Early | ~2016 | Operations SaaS | Acquired (CrunchTime!, 2022) [^20] |
 | Demandstar | Early | ~2015 | Gov't Procurement | Acquired (GTY Technologies, 2022) [^20] |
-| Pilot Protocol | Seed ($4.5M, led) | 2026-07-27 | AI Agents / Infrastructure | Active [^pilot1][^pilot2] |
+| Pilot Protocol | Seed ($4.5M, led; Precursor Ventures, Night Capital, Todd & Rahul's Angel Fund, Lenny Rachitsky, Ben Tossell participated) | 2026-07-27 | AI Agents / Infrastructure | Active [^pilot1][^pilot2][^pilot3] |
 
 *Note: This table represents approximately 46 of 113+ known investments (~41%). Years marked with ~ are based on founding year or estimated from fund vintage; specific investment dates could not be independently verified for all entries. Many early angel investments and smaller positions are not reflected here.*
 
@@ -213,3 +213,5 @@ No independently sourced founder testimonials found. The firm's website and blog
 [^pilot1]: Version One Ventures, "Announcing Our Investment in Pilot: The Internet for Agents," July 2026. Accessed July 2026. https://versionone.vc/announcing-our-investment-in-pilot-the-internet-for-agents/
 
 [^pilot2]: BusinessWire, "Pilot Protocol Launches with USD 4.5M to Build the Internet for Agents," July 24, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260724693789/en/Pilot-Protocol-Launches-with-$4.5M-to-Build-the-Internet-for-Agents
+
+[^pilot3]: Tech Startups, "Pilot Protocol emerges from stealth with USD 4.5M to build the internet for AI agents," July 27, 2026. Accessed July 2026. https://techstartups.com/2026/07/27/pilot-protocol-emerges-from-stealth-with-4-5m-to-build-the-internet-for-ai-agents/ — Third independent tier confirming Version One Ventures led $4.5M seed on 2026-07-27 with Precursor, Night Capital, Todd & Rahul, Lenny Rachitsky, Ben Tossell.

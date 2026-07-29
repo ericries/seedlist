@@ -161,7 +161,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Sila | Late-stage private ($300M; Atreides Management & Sutter Hill Ventures co-led; 8VC, Matrix Partners, T. Rowe Price participated) | 2026-07-21 | Battery Materials / Cleantech | [^sila1][^sila2] |
 | Neo | Seed + Series A ($100M combined; co-led with Andreessen Horowitz; Craft Ventures and Merlin Ventures participated; Boston HQ; founders ex-SentinelOne) | 2026-07-20 | Cybersecurity / AI / Enterprise Software | [^neo1][^neo2] |
 | Act Security | Seed (co-led with Team8, $20M; Hetz Ventures and Caltech participated; Tel Aviv-based; founders ex-Medigate) | 2026-07-28 | Cybersecurity / AI / Cloud Security | [^act1][^act2] |
-| Sent | Series A ($12M; Companyon Ventures led; Urban Innovation Fund and CP Overture participated; NYC-based messaging infrastructure; also participated in $3.55M seed May 2025) | 2026-07-28 | Messaging / Telecom / Developer Tools / AI | [^sent1][^sent2] |
+| Sent | Series A ($12M; Companyon Ventures led; Urban Innovation Fund and CP Overture participated; NYC-based messaging infrastructure; also participated in $3.55M seed May 2025) | 2026-07-28 | Messaging / Telecom / Developer Tools / AI | [^sent1][^sent2][^sent3] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -298,3 +298,5 @@ However, founder experiences are not universally positive. One founder reported 
 [^sent1]: "Sent Raises $12M Series A to Supercharge AI Messaging Infrastructure," GlobeNewswire, July 28, 2026. Accessed July 2026. https://www.globenewswire.com/news-release/2026/07/28/3334213/0/en/Sent-Raises-12M-Series-A-to-Supercharge-AI-Messaging-Infrastructure.html — Confirms Bessemer participation in Sent Series A; Kent Bennett quoted.
 
 [^sent2]: "Sent Raises $12M Series A to Supercharge AI Messaging Infrastructure," Manila Times / GlobeNewswire syndication, July 28, 2026. Accessed July 2026. https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/sent-raises-12m-series-a-to-supercharge-ai-messaging-infrastructure/2393028 — Independent syndication confirming Bessemer participation.
+
+[^sent3]: "Venture Capital & Startup Funding Roundup, July 28, 2026: Battery Ventures, Bessemer, Gradient, Team8, Y Combinator & More," ChinaTechNews.com, July 29, 2026. Accessed July 2026. https://www.chinatechnews.com/2026/07/29/126373-venture-capital-startup-funding-roundup-july-28-2026-battery-ventures-bessemer-gradient-team8-y-combinator-more — Third independent aggregator confirming Bessemer participation in Sent Series A.

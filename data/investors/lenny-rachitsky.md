@@ -68,7 +68,7 @@ Sample of publicly verifiable investments. This represents a small fraction of h
 | LittleBird | 2026 | Seed | [^6] |
 | Viktor | 2026 | Series A | [^6] |
 | Monogram | 2026-07-07 | Seed (angel) | [^8][^9][^10] |
-| Pilot Protocol | 2026-07-27 | Seed (angel; Version One Ventures led) | [^pilot1][^pilot2] |
+| Pilot Protocol | 2026-07-27 | Seed (angel; Version One Ventures led; $4.5M total) | [^pilot1][^pilot2][^pilot3] |
 
 Rachitsky has publicly stated that of his 140+ angel investments, 12 have become unicorns and 10 more are on track [^5].
 
@@ -103,3 +103,5 @@ No independently sourced founder testimonials about Rachitsky's post-investment 
 [^pilot1]: Version One Ventures, "Announcing Our Investment in Pilot: The Internet for Agents," July 2026. Accessed July 2026. https://versionone.vc/announcing-our-investment-in-pilot-the-internet-for-agents/
 
 [^pilot2]: BusinessWire, "Pilot Protocol Launches with USD 4.5M to Build the Internet for Agents," July 24, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260724693789/en/Pilot-Protocol-Launches-with-$4.5M-to-Build-the-Internet-for-Agents
+
+[^pilot3]: Tech Startups, "Pilot Protocol emerges from stealth with USD 4.5M to build the internet for AI agents," July 27, 2026. Accessed July 2026. https://techstartups.com/2026/07/27/pilot-protocol-emerges-from-stealth-with-4-5m-to-build-the-internet-for-ai-agents/ — Third independent tier confirming Lenny Rachitsky as angel participant on 2026-07-27 seed.

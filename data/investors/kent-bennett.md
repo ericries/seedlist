@@ -106,7 +106,7 @@ Bennett is primarily a Series A investor who leads initial institutional rounds 
 | Brisk Teaching | 2025 | Series A (led) | [^12] |
 | Miter | 2025 | Series A (led) | [^7] |
 | Strella | 2025 | Series A | [^15] |
-| Sent | 2026-07-28 | Series A ($12M; Companyon Ventures led) | [^sent-a] |
+| Sent | 2026-07-28 | Series A ($12M; Companyon Ventures led; UIF, CP Overture participated) | [^sent-a][^sent-b][^sent-c] |
 
 This table represents approximately 20 distinct companies. Bennett has 33 investments on record according to aggregator sites [^17], suggesting this table captures roughly 60% of his known portfolio.
 
@@ -184,3 +184,7 @@ Bennett's BVP bio notes that he takes "a rational, straightforward, and steady a
 [^18]: TechCrunch, "Toast's Aman Narang and BVP's Kent Bennett on how customer obsession is everything," June 2021, accessed March 2026. https://techcrunch.com/2021/06/08/toasts-aman-narang-and-bvps-kent-bennett-on-how-customer-obsession-is-everything/
 [^19]: TechCrunch, "GlossGenius closes on $16.4M to serve as a 'business in a box' for the beauty and wellness industry," November 2021, accessed March 2026. https://techcrunch.com/2021/11/16/glossgenius-closes-on-16-4m-to-serve-as-a-business-in-a-box-for-the-beauty-and-wellness-industry/
 [^sent-a]: "Sent Raises $12M Series A to Supercharge AI Messaging Infrastructure," GlobeNewswire, July 28, 2026, accessed July 2026. https://www.globenewswire.com/news-release/2026/07/28/3334213/0/en/Sent-Raises-12M-Series-A-to-Supercharge-AI-Messaging-Infrastructure.html — Confirms Bessemer participation and Kent Bennett attributed quote on Sent Series A.
+
+[^sent-b]: "Sent Raises $12M Series A to Supercharge AI Messaging Infrastructure," Manila Times / GlobeNewswire syndication, July 28, 2026, accessed July 2026. https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/sent-raises-12m-series-a-to-supercharge-ai-messaging-infrastructure/2393028 — Independent syndication confirming Bessemer participation and Bennett quote.
+
+[^sent-c]: "Venture Capital & Startup Funding Roundup, July 28, 2026," ChinaTechNews.com, July 29, 2026, accessed July 2026. https://www.chinatechnews.com/2026/07/29/126373-venture-capital-startup-funding-roundup-july-28-2026-battery-ventures-bessemer-gradient-team8-y-combinator-more — Third independent tier confirmation of Bessemer participation in Sent Series A.
