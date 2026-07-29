@@ -20,6 +20,30 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Enigma raised $70M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-29'
+  parsed_company: Enigma
+  parsed_amount: $70M
+  parsed_round: Seed
+  status: pending
+- title: AegisAI raised $36M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-29'
+  parsed_company: AegisAI
+  parsed_amount: $36M
+  parsed_round: Series A
+  status: pending
+- title: ZuriQ raised $25.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-29'
+  parsed_company: ZuriQ
+  parsed_amount: $25.5M
+  parsed_round: Seed
+  status: pending
 - title: Zürich-based ZuriQ raises €22.4 million to scale its 2D trapped-ion quantum
     processors
   url: https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/
@@ -150,6 +174,14 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-28'
   parsed_company: DITTO
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/28/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-28-2026/
+  source: alleywatch
+  date_found: '2026-07-28'
+  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending

@@ -3,8 +3,8 @@ check_size: $25K-$250K (typical angel range; broader fund participation $100K-$1
 firm: null
 last_researched: 2026-06-22
 last_verified_investment:
-  company: Monogram
-  date: 2026-07-07
+  company: Pilot Protocol
+  date: 2026-07-27
   round: Seed
 location: San Francisco, California
 name: Lenny Rachitsky
@@ -68,6 +68,7 @@ Sample of publicly verifiable investments. This represents a small fraction of h
 | LittleBird | 2026 | Seed | [^6] |
 | Viktor | 2026 | Series A | [^6] |
 | Monogram | 2026-07-07 | Seed (angel) | [^8][^9][^10] |
+| Pilot Protocol | 2026-07-27 | Seed (angel; Version One Ventures led) | [^pilot1][^pilot2] |
 
 Rachitsky has publicly stated that of his 140+ angel investments, 12 have become unicorns and 10 more are on track [^5].
 
@@ -98,3 +99,7 @@ No independently sourced founder testimonials about Rachitsky's post-investment 
 [^8]: Monogram, "Introducing Monogram, a new interface for AI," launch blog post, July 2026. Accessed July 2026. https://www.monogram.ai/blog/introducing-monogram — Official launch post naming Lenny Rachitsky among angel participants in the $40M seed round co-led by DST Global and Lux Capital.
 [^9]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent press pickup.
 [^10]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement.
+
+[^pilot1]: Version One Ventures, "Announcing Our Investment in Pilot: The Internet for Agents," July 2026. Accessed July 2026. https://versionone.vc/announcing-our-investment-in-pilot-the-internet-for-agents/
+
+[^pilot2]: BusinessWire, "Pilot Protocol Launches with USD 4.5M to Build the Internet for Agents," July 24, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260724693789/en/Pilot-Protocol-Launches-with-$4.5M-to-Build-the-Internet-for-Agents

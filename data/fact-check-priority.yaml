@@ -4735,3 +4735,15 @@ priority:
   status: resolved
   resolved: 2026-07-28
   resolution_note: 'Duplicate of 2026-07-27 entry — see resolution above. Amount corrected to $71M.'
+- slug: insight-partners
+  type: firm
+  reason: 'appeared in Mate Security Series A (2026-07-28)'
+  added: 2026-07-28
+- slug: version-one-ventures
+  type: firm
+  reason: 'led Pilot Protocol Seed (2026-07-27)'
+  added: 2026-07-28
+- slug: lenny-rachitsky
+  type: investor
+  reason: 'appeared in Pilot Protocol Seed (2026-07-27)'
+  added: 2026-07-28

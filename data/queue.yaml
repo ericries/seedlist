@@ -42542,3 +42542,47 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: david-cramer
+- name: Parlay Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prophetx
+- name: Data Point Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prophetx
+- name: Greenwave Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prophetx
+- name: Sharp Alpha Advisors
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: prophetx
+- name: Asaf Wiener
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Mate Security
+  discovered_from: mate-security
+- name: Ben Tossell
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pilot-protocol
+- name: Razvan Roman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pilot Protocol
+  discovered_from: pilot-protocol

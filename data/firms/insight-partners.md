@@ -140,6 +140,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | TytoCare | Growth ($25M+, led; oversubscribed) | 2026-07-15 | Digital Health / Remote Care / AI Diagnostics | Active (Adam Pellegrini appointed CEO) | [^tyto1][^tyto2][^tyto3] |
 | Passionfroot | Series A ($15M, led) | 2026-07-22 | Creator Economy / B2B Marketplace / AI | Active | [^pfr1][^pfr2] |
 | Assured Health | Series A ($19M, led) | 2026-07-22 | Healthtech / Agentic AI / Credentialing | Active | [^ah1][^ah2] |
+| Mate Security | Series A ($35M, participated; Canaan Partners led) | 2026-07-28 | Cybersecurity / AI Security Operations | Active | [^mate1][^mate2] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -245,3 +246,7 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^ah1]: MedCity News, "Assured Health Secures $19M to Get Providers In-Network Faster with Agentic AI," July 23, 2026. Accessed July 2026. https://medcitynews.com/2026/07/assured-health-healthcare-credentialing/
 
 [^ah2]: MobiHealthNews, "Assured raises $19M for AI provider operations platform," July 22, 2026. Accessed July 2026. https://www.mobihealthnews.com/news/assured-raises-19m-ai-provider-operations-platform
+
+[^mate1]: Calcalist, "Former Wiz and Microsoft veterans raise USD 35 million Series A to build the 'operating system' for AI cybersecurity agents," July 28, 2026. Accessed July 2026. https://www.calcalistech.com/ctechnews/article/ryb30q8bge
+
+[^mate2]: The Next Web, "Mate Security crosses USD 50M in funding as AI security operations startup heads to Black Hat USA," July 2026. Accessed July 2026. https://thenextweb.com/news/mate-security-50m-funding-ai-security-operations-black-hat
