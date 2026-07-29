@@ -126,14 +126,14 @@ Based on 48 verified investments in the portfolio table below:
 | Farther | Series C ($72M co-led by CapitalG and Viewpoint Ventures at $542M post-money; Bessemer, Context, Cota, Khosla, Lightspeed, MassMutual Ventures, Moneta Venture Capital as existing investors) | 2024-10-10 | Fintech/WealthMgmt | Active | [^26][^farther-c1][^farther-c2] |
 | Odoo | Secondary | 2024-11-20 | Enterprise/ERP | Active | [^48] |
 | Monzo | Growth (£340M / $430M led by CapitalG at $5B valuation; GV, HongShan Capital, Passion Capital, Tencent participated) | 2024-03-05 | Fintech/Banking | Active | [^49][^monzo-g1][^monzo-g2] |
-| DTEX | Series E | 2024 | Security | Active | [^50] |
+| DTEX | Series E ($50M led by CapitalG; brought total funding to $138M; James Luo, CapitalG partner, joined board) | 2024-03-05 | Security | Active | [^50][^dtex-e1][^dtex-e2] |
 | Canva | Growth | ~2024 | Enterprise/Design | Active | [^6] |
 | Rippling | Growth | ~2024 | Enterprise/HR | Active | [^6] |
 | LangChain | Series B ($125M led by IVP at $1.25B valuation; CapitalG and Sapphire Ventures new; Sequoia, Benchmark, Amplify existing; ServiceNow Ventures, Workday Ventures, Cisco Investments, Datadog, Databricks, Frontline participated) | 2025-10-20 | AI/Infrastructure | Active | [^51][^lc-b1][^lc-b2] |
 | Abridge | Series D (USD 250M co-led by Elad Gil and IVP; CapitalG, Bessemer, California Health Care Foundation, CVS Health Ventures, K. Ventures, Lightspeed, NVentures, Redpoint, Spark, SV Angel participated) | 2025-02-17 | AI/Healthcare | Active | [^52][^abridge-d1][^abridge-d2][^abridge-d3] |
 | Baseten | Series E | 2026 | AI/Infrastructure | Active | [^53] |
 | Physical Intelligence | Series B (USD 600M led by CapitalG at USD 5.6B post-money; Lux Capital, Bond, Redpoint, Sequoia Capital participated; Jeff Bezos, OpenAI, Thrive Capital, T. Rowe Price returned) | 2025-11-20 | AI/Robotics | Active | [^27][^pi-b1][^pi-b2][^pi-b3] |
-| OMNIA Partners | Growth | 2025 | Enterprise/Procurement | Active | [^28] |
+| OMNIA Partners | Growth (CapitalG-led strategic investment; amount undisclosed; supplements prior backing from major PE funds; Alex Nichols, CapitalG Partner, quoted; deployed to accelerate OPUS e-commerce platform, SpendPath analytics, and CONNECT supplier portal) | 2025-09-15 | Enterprise/Procurement | Active | [^28][^omnia-g1][^omnia-g2] |
 | Base Power | Series C (USD 1B at USD 4B post-money; Addition led; CapitalG, Ribbit, Spark, BOND, Lowercarbon, Avenir, Glade Brook, Positive Sum, 1789 new; Trust Ventures, Valor Equity, Thrive, Lightspeed, a16z, Altimeter, StepStone, Elad Gil, 137 Ventures, Terrain, Waybury returned) | 2025-10-08 | Energy | Active | [^54][^63][^64] |
 | Lovable | Series B (USD 330M co-led by CapitalG and Menlo Ventures Anthology fund at USD 6.6B valuation; NVentures, Salesforce Ventures, Databricks Ventures, T.Capital, Atlassian Ventures, HubSpot Ventures, Khosla Ventures, DST Global, EQT Growth, Kinship Ventures, Accel, Creandum, Evantic participated) | 2025-12-18 | AI/DevTools | Active | [^55][^lov-b1][^lov-b2][^lov-b3] |
 | Duna | Series A (€30M, CapitalG led; Index Ventures and Puzzle Ventures follow-on; Snowflake chairman Frank Slootman and Stripe/Adyen executive angels participated) | 2026-02-05 | Enterprise/Identity | Active | [^29][^69][^70] |
@@ -296,3 +296,12 @@ Robinhood's team stated: "CapitalG provided our team with significant access to 
 [^lc-b1]: LangChain blog, "LangChain raises $125M to build the platform for agent engineering," October 20, 2025. Accessed July 2026. https://www.langchain.com/blog/series-b — Primary company announcement: $125M Series B on October 20, 2025 at $1.25B valuation led by IVP with new investors CapitalG and Sapphire Ventures alongside existing investors Sequoia, Benchmark, and Amplify. Also participating: ServiceNow Ventures, Workday Ventures, Cisco Investments, Datadog Ventures, Databricks Ventures, and Frontline. Concurrent with LangChain/LangGraph 1.0 releases.
 
 [^lc-b2]: SiliconANGLE, "AI agent tooling provider LangChain raises $125M at $1.25B valuation," October 20, 2025. Accessed July 2026. https://siliconangle.com/2025/10/20/ai-agent-tooling-provider-langchain-raises-125m-1-25b-valuation/ — Contemporaneous tier-1 tech-press confirmation: $125M Series B on October 20, 2025 at $1.25B valuation led by IVP and joined by Alphabet's CapitalG. Additional participants include ServiceNow Ventures, Workday Ventures, Cisco Investments, Datadog, and Databricks.
+
+
+[^dtex-e1]: Gunderson Dettmer, "DTEX Systems Announces $50M Series E Led by CapitalG," March 5, 2024. Accessed July 2026. https://www.gunder.com/en/news-insights/client-news/dtex-systems-announces-dollar50m-series-e-led-by-capitalg — Transaction counsel confirmation of $50M Series E led by CapitalG on March 5, 2024.
+
+[^dtex-e2]: VCNewsDaily, "DTEX Systems Completes $50M Series E Round," March 2024. Accessed July 2026. https://www.vcnewsdaily.com/access/getarticle.php?aid=tlpvjzmgxm — Independent trade press confirming $50M Series E led by CapitalG on March 5, 2024; brought total funding to $138M.
+
+[^omnia-g1]: Pulse 2.0, "OMNIA Partners: Investment Secured From CapitalG To Advance Group Purchasing Platform," September 15, 2025. Accessed July 2026. https://pulse2.com/omnia-partners-investment-secured-from-capitalg-to-advance-group-purchasing-platform/ — Independent trade press confirming CapitalG's September 15, 2025 investment in OMNIA Partners; amount undisclosed; supplements existing backing from major private investment funds.
+
+[^omnia-g2]: FinSMEs, "OMNIA Partners Receives Investment from CapitalG," September 2025. Accessed July 2026. https://www.finsmes.com/2025/09/omnia-partners-receives-investment-from-capitalg.html — Third independent press confirmation: September 15, 2025 investment date; deployed to accelerate OPUS, SpendPath analytics, and CONNECT supplier portal.

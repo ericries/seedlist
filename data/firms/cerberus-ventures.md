@@ -78,7 +78,7 @@ Based on 12 verified portfolio companies from the firm's portfolio page [^6]:
 |---------|-------|------|--------|--------|--------|
 | Nudge Security | Series A (USD 22.5M, led by Cerberus Ventures; Ballistic Ventures, Forgepoint Capital, Squadra Ventures participating; Morgan Mahlock joined board) | 2025-11-18 | Cybersecurity | Active | [^6][^10][^11][^12] |
 | Syntis Bio | Series A (led, USD 33M oversubscribed; Mansueto Investments, Woori Venture Partners, Apollo Labs, BOLD Capital Partners, W. R. Berkley, Safar Partners, Portal Innovations, Colorcon Ventures, Cerity Partners Ventures participating; Chenny Zhang joined board) | 2025-07-01 | Biotech | Active | [^6][^15][^16][^17] |
-| ChipStack | Seed | 2023 | AI / Chip Design | Acquired (Cadence) | [^6] |
+| ChipStack | Seed (>$7M raised; participants: AI2 Incubator, Khosla Ventures, Cerberus Capital Management, Clear Ventures, and angels; company emerged from Seattle's AI2 Incubator; total 20-person team) | 2023 | AI / Chip Design | Acquired (Cadence, 2025-11-10) | [^6][^chipstack1][^chipstack2] |
 | Ghostdog Systems | Seed | 2023 | AI / Defense | Acquired (Mission Essential) | [^6] |
 | Lightsynq | Series A | 2024 | Quantum Computing | Acquired (IonQ) | [^6] |
 | Maybell Quantum | Series A/B | 2024 | Quantum Computing | Acquired | [^6][^7] |
@@ -121,3 +121,7 @@ No independently sourced founder testimonials found.
 [^16]: Cerberus Capital Management (Cerberus Ventures press page), "Syntis Bio Closes $38 Million Financing to Accelerate Oral Therapies for Obesity and Rare Diseases," July 1, 2025. Accessed July 2026. https://www.cerberus.com/media/syntis-bio-closes-38-million-financing-to-accelerate-oral-therapies-for-obesity-and-rare-diseases/ — Investor-side confirmation of Cerberus Ventures leading the Series A.
 
 [^17]: Pulse 2.0, "Syntis Bio: $38 Million Raised For Advancing Oral Therapies For Obesity," July 2025. Accessed July 2026. https://pulse2.com/syntis-bio-38-million-raised-for-advancing-oral-therapies-for-obesity/ — Contemporaneous trade press confirmation of amount, lead, and participants.
+
+[^chipstack1]: GeekWire, "Cadence to acquire Seattle startup ChipStack to boost chip design automation," November 10, 2025. Accessed July 2026. https://www.geekwire.com/2025/cadence-to-acquire-seattle-startup-chipstack-to-boost-chip-design-automation/ — Tier-1 regional tech press confirming ChipStack emerged from Seattle's AI2 Incubator in 2023 and raised more than $7 million; investors listed as AI2 Incubator, Khosla Ventures, Cerberus Capital Management, Clear Ventures, and other angels. Cadence acquisition announced November 10, 2025; entire 20-person team joining Cadence.
+
+[^chipstack2]: Cerberus Ventures perspectives, "ChipStack is Joining Cadence," November 10, 2025. Accessed July 2026. https://www.cerberus-ventures.com/perspectives/chipstack-is-joining-cadence — Cerberus Ventures' own perspective post confirming ChipStack started in late 2023 and signed a definitive agreement to be acquired by Cadence Design Systems (world leader in electronic design automation) on November 10, 2025.

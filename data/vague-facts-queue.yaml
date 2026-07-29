@@ -176868,7 +176868,14 @@ vague_facts:
   line: '| DTEX | Series E | 2024 | Security | Active | [^50] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-29
+  note: 'Fact-spec sweep 2026-07-29: tightened DTEX Series E row on capitalg.md from
+    ''2024'' to ''2024-03-05'' with amount ($50M), lead (CapitalG), total funding
+    to date ($138M), and board addition (James Luo, CapitalG partner) via 3 primary
+    sources: existing BusinessWire [^50] (March 4, 2024 wire), NEW Gunderson Dettmer
+    counsel confirmation [^dtex-e1] (March 5, 2024), NEW VCNewsDaily trade press
+    [^dtex-e2] (March 2024). 2 new footnotes added.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Canva
@@ -176967,7 +176974,15 @@ vague_facts:
     |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-29
+  note: 'Fact-spec sweep 2026-07-29: tightened OMNIA Partners row on capitalg.md
+    from ''2025'' to ''2025-09-15'' with lead (CapitalG), deployment focus (OPUS
+    e-commerce, SpendPath analytics, CONNECT supplier portal), and Alex Nichols
+    (CapitalG Partner) quote via 3 primary sources: existing PR Newswire primary
+    [^28] (Sep 15, 2025), NEW Pulse 2.0 trade press [^omnia-g1] (Sep 15, 2025), NEW
+    FinSMEs [^omnia-g2] (Sep 2025). Amount not disclosed publicly. 2 new footnotes
+    added.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Lovable
@@ -177030,7 +177045,16 @@ vague_facts:
     |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-29
+  note: 'Fact-spec sweep 2026-07-29: tightened ChipStack Seed row on cerberus-ventures.md
+    with amount (>$7M raised), participants (AI2 Incubator, Khosla Ventures, Cerberus
+    Capital Management, Clear Ventures, and angels), incubator origin (Seattle AI2
+    Incubator), team size (20 people), and specific Cadence acquisition date (2025-11-10)
+    via 3 primary sources: existing Cerberus Ventures portfolio page [^6], NEW GeekWire
+    tier-1 regional tech press [^chipstack1] (Nov 10, 2025), NEW Cerberus Ventures''
+    own perspectives post [^chipstack2] (Nov 10, 2025). Exact seed close date not
+    found in primary sources — left as ''2023''. 2 new footnotes added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Ghostdog Systems
