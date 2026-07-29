@@ -20,6 +20,32 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Freehand Raises $75M Series B To Automate Fortune 500 Supply Chain Spend
+  url: https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/
+  source: crunchbase
+  date_found: '2026-07-29'
+  parsed_company: Freehand
+  parsed_amount: $75M
+  parsed_round: Series B
+  status: pending
+- title: Wild Bio acquires F1 Seed to create Britain’s first independent precision-breeding
+    wheat business
+  url: https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/
+  source: eu-startups
+  date_found: '2026-07-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: London-based responsible lending FinTech Plend secures funding facility of
+    up to €58.3 million
+  url: https://www.eu-startups.com/2026/07/london-based-responsible-lending-fintech-plend-secures-funding-facility-of-up-to-e58-3-million/
+  source: eu-startups
+  date_found: '2026-07-29'
+  parsed_company: London-based responsible lending FinTech Plend
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Zürich-based ZuriQ raises €22.4 million to scale its 2D trapped-ion quantum
     processors
   url: https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/
@@ -101,6 +127,23 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-07-28'
   parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Fish Audio raises $52M seed to build AI voice models for creators and enterprises
+  url: https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
+  source: techcrunch
+  date_found: '2026-07-28'
+  parsed_company: Fish Audio
+  parsed_amount: $52M
+  parsed_round: Seed
+  status: pending
+- title: DITTO raises €5.2 million to tackle menstrual health gaps with research and
+    targeted supplements
+  url: https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/
+  source: eu-startups
+  date_found: '2026-07-28'
+  parsed_company: DITTO
   parsed_amount: null
   parsed_round: null
   status: pending
