@@ -42775,3 +42775,81 @@ queue:
   added: '2026-03-17'
   firm: Gradient
   discovered_from: credible-data
+- name: Nitin Jayakrishnan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Freehand
+  discovered_from: freehand
+- name: Max Spero
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pangram
+  discovered_from: pangram
+- name: Bradley Emi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pangram
+  discovered_from: pangram
+- name: YL Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hush-security
+- name: Akamai Technologies
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: hush-security
+- name: Micha Rave
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Hush Security
+  discovered_from: hush-security
+- name: Yoav Leitersdorf
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: YL Ventures
+  discovered_from: hush-security
+- name: Health Velocity Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: procode
+- name: Jeff Cripe
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Procode
+  discovered_from: procode
+- name: UTokyo Innovation Platform
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: core-biomedicine
+- name: Elikon Venture
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: core-biomedicine
+- name: Mitsubishi UFJ Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: core-biomedicine
