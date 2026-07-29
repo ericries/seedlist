@@ -1726,7 +1726,17 @@ vague_facts:
   line: '| EasyPost | Seed | ~2014 | Logistics | [^12][^13] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolution_notes: 'CORRECTED wrong year (~2014 → 2013-09-14). Reclassified from "Seed"
+    to "Convertible Note" with primary-press disclosure. EasyPost''s public June 2013
+    $850K seed (Y Combinator, SV Angel, Start Fund, CrunchFund, Mesa+ per FinSMEs primary
+    [^39]) did NOT name Acequia Capital, Hank Vigil, or Fritz Lanman. Acequia''s participation
+    is documented only via a separate Convertible Note round dated 2013-09-14 (Crunchbase
+    aggregator record [^40]) and Acequia''s own portfolio page [^12]. No contemporaneous
+    primary press release could be located for the September 2013 convertible note despite
+    dedicated search. 2 new footnotes added ([^39] primary press for the June 2013 seed
+    Acequia is NOT in; [^40] Crunchbase aggregator for the September 2013 convertible
+    note Acequia IS in). Row updated to fully disclose the aggregator-only status.'
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Flexe
@@ -1746,7 +1756,15 @@ vague_facts:
   line: '| Cargomatic | Seed | 2013 | Logistics | [^12][^13] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolution_notes: 'CORRECTED wrong year (2013 → 2014-06-25). Cargomatic launched publicly
+    on June 25, 2014 with a $2.6M combined seed/bridge round; Morado Ventures, SV Angel,
+    and Sherpa Ventures co-led, with Winklevoss Capital, Acequia Capital, and Structure
+    Capital participating. Prior "2013" year was wrong — Big Picture logtech aggregator
+    shows a separate $1.2M seed round in 09-2013 predating Acequia''s involvement. Verified
+    via 3 primary sources: existing Acequia portfolio page [^12] + Fritz Lanman Wikipedia
+    [^13] + NEW LA Business Journal [^37] (Jun 25, 2014, primary regional press) + NEW
+    FinSMEs [^38] (Jun 2014). 2 new footnotes added.'
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Rec Room
@@ -1798,7 +1816,12 @@ vague_facts:
   line: '| deepset | Series A | 2022 | AI / NLP | [^11] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolution_notes: 'Tightened to 2022-04-28 with full syndicate ($14M Series A led by
+    GV; Harpoon Ventures, System.One, Lunar Ventures, Acequia Capital participated).
+    Verified via 3 primary sources: existing TechCrunch [^11] (Apr 28, 2022), NEW BusinessWire
+    press release [^35] (Apr 28, 2022), NEW SiliconANGLE [^36] (Apr 28, 2022). 2 new
+    footnotes added.'
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Griptape
