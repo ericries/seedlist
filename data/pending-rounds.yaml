@@ -20,30 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Enigma raised $70M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-29'
-  parsed_company: Enigma
-  parsed_amount: $70M
-  parsed_round: Seed
-  status: pending
-- title: AegisAI raised $36M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-29'
-  parsed_company: AegisAI
-  parsed_amount: $36M
-  parsed_round: Series A
-  status: pending
-- title: ZuriQ raised $25.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-29'
-  parsed_company: ZuriQ
-  parsed_amount: $25.5M
-  parsed_round: Seed
-  status: pending
 - title: Zürich-based ZuriQ raises €22.4 million to scale its 2D trapped-ion quantum
     processors
   url: https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/
@@ -88,36 +64,12 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Dwelly raised $95M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: Dwelly
-  parsed_amount: $95M
-  parsed_round: Series B
-  status: pending
 - title: and DVC. It also raised $75M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
   date_found: '2026-07-28'
   parsed_company: and DVC. It also
   parsed_amount: $75M
-  parsed_round: null
-  status: pending
-- title: Act Security raised $40M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: Act Security
-  parsed_amount: $40M
-  parsed_round: Series A
-  status: pending
-- title: ProphetX raised $35M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: ProphetX
-  parsed_amount: $35M
   parsed_round: null
   status: pending
 - title: Mate raised $25M Series A
@@ -127,22 +79,6 @@ pending_rounds:
   parsed_company: Mate
   parsed_amount: $25M
   parsed_round: Series A
-  status: pending
-- title: Sent raised $12M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: Sent
-  parsed_amount: $12M
-  parsed_round: Series A
-  status: pending
-- title: Pilot Protocol raised $4.5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: Pilot Protocol
-  parsed_amount: $4.5M
-  parsed_round: Seed
   status: pending
 - title: U AI raised $3.2M
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -158,23 +94,6 @@ pending_rounds:
   date_found: '2026-07-28'
   parsed_company: Align Ventures
   parsed_amount: $125M
-  parsed_round: null
-  status: pending
-- title: Fish Audio raises $52M seed to build AI voice models for creators and enterprises
-  url: https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
-  source: techcrunch
-  date_found: '2026-07-28'
-  parsed_company: Fish Audio
-  parsed_amount: $52M
-  parsed_round: Seed
-  status: pending
-- title: DITTO raises €5.2 million to tackle menstrual health gaps with research and
-    targeted supplements
-  url: https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/
-  source: eu-startups
-  date_found: '2026-07-28'
-  parsed_company: DITTO
-  parsed_amount: null
   parsed_round: null
   status: pending
 - title: 'The AlleyWatch Startup Daily Funding Report: 7/28/2026'
