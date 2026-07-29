@@ -46,6 +46,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: As AI content floods the internet, Pangram raises $9M to detect it
+  url: https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/
+  source: techcrunch
+  date_found: '2026-07-29'
+  parsed_company: As AI content floods the internet, Pangram
+  parsed_amount: $9M
+  parsed_round: null
+  status: pending
+- title: Drivalia secures €48 million EIB financing to boost electric mobility in
+    Italy and Finland
+  url: https://www.eu-startups.com/2026/07/drivalia-secures-e48-million-eib-financing-to-boost-electric-mobility-in-italy-and-finland/
+  source: eu-startups
+  date_found: '2026-07-29'
+  parsed_company: Drivalia
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Vilnius-based Sigvi raises €1.2 million to scale its AI-powered car rental
+    platform across Europe
+  url: https://www.eu-startups.com/2026/07/vilnius-based-sigvi-raises-e1-2-million-to-scale-its-ai-powered-car-rental-platform-across-europe/
+  source: eu-startups
+  date_found: '2026-07-29'
+  parsed_company: Vilnius-based Sigvi
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Zürich-based ZuriQ raises €22.4 million to scale its 2D trapped-ion quantum
     processors
   url: https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/

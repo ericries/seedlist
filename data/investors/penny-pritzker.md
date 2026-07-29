@@ -3,9 +3,9 @@ check_size: $1M-$15M (via Inspired Capital); $1M-$25M (via PSP Growth)
 firm: psp-partners
 last_researched: 2026-03-26
 last_verified_investment:
-  company: Zafran
-  date: 2025-12-02
-  round: Series C
+  company: Freehand
+  date: 2026-07-29
+  round: Series B
 location: Chicago, IL
 name: Penny Pritzker
 role: Founder & Chairman
@@ -105,6 +105,7 @@ The table below covers verified investments through PSP Growth, PSP Partners str
 | Zafran | 2025 | Series C ($60M) | [^20] |
 | Finix | 2020 | Growth ($10M additional) | [^14] |
 | Adept | ~2023 | Series B ($350M, exited 2024) | [^16] |
+| Freehand | 2026-07-29 | Series B ($75M; Battery Ventures + NewRoad Capital Partners co-led; Nexus Venture Partners also) | [^freehand1][^freehand2] |
 
 ### Inspired Capital (Co-Founder)
 
@@ -202,3 +203,7 @@ No other independently sourced founder testimonials were found for Pritzker spec
 [^20]: Fintech Global, "AI security firm Zafran secures $60m Series C," December 4, 2025. https://fintech.global/2025/12/04/ai-security-firm-zafran-secures-60m-series-c/
 [^21]: TechCrunch, "Inspired Capital, founded by Alexa von Tobel and Penny Pritzker, just closed its debut fund with $200 million," November 12, 2019. https://techcrunch.com/2019/11/12/inspired-capital-founded-by-alexa-von-tobel-and-penny-pritzker-just-closed-its-debut-fund-with-200-million/
 [^22]: Semafor, "Semafor Launches The CEO Signal Show with Penny Pritzker and Andrew Edgecliffe-Johnson," March 19, 2026. https://www.semafor.com/article/03/19/2026/semafor-launches-the-ceo-signal-show-with-penny-pritzker-and-andrew-edgecliffe-johnson
+
+[^freehand1]: Mary Ann Azevedo, "Freehand Raises $75M Series B To Automate Fortune 500 Supply Chain Spend," Crunchbase News, July 29, 2026. Accessed July 29, 2026. https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/ — Primary press naming Penny Pritzker as a participating investor in Freehand's Series B alongside Battery Ventures and NewRoad Capital (co-leads) and Nexus Venture Partners.
+
+[^freehand2]: David Prosser, "Freehand Raises $75 Million As Its AI Agents Target The Supply Chain," Forbes, July 29, 2026. Accessed July 29, 2026. https://www.forbes.com/sites/davidprosser/2026/07/29/freehand-raises-75-million-as-its-ai-agents-target-the-supply-chain/ — Independent tier-1 press confirmation of former U.S. Commerce Secretary Penny Pritzker participating in Freehand's $75M Series B.

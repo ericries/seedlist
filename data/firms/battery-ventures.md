@@ -117,8 +117,10 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Warp | Series B (lead, $60M) | 2026-06-25 | HR Tech / Payroll / AI / Fintech | Active | [^25][^26][^27] |
 | SambaNova Systems | Series F (participated, $1B first close, $11B valuation; General Atlantic led) | 2026-07-08 | AI / AI Chips / Inference Infrastructure | Active | [^32] |
 | AegisAI | Series A (led, $36M; Accel and Foundation Capital participated) | 2026-07-23 | AI / Cybersecurity / Email Security | Active | [^aegis1][^aegis2] |
+| Hush Security | Series A (participated, $30M; Akamai strategic; YL Ventures also) | 2026-07-28 | AI Security / Non-Human Identity | Active | [^hush1][^hush2] |
+| Freehand | Series B (co-led, $75M; NewRoad Capital co-lead; Nexus Venture Partners, Penny Pritzker participated) | 2026-07-29 | Agentic AI / Supply Chain / Procurement | Active | [^fh1][^fh2] |
 
-*This table represents approximately 31 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
+*This table represents approximately 33 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
 ## In Their Own Words
 
@@ -193,3 +195,11 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^aegis1]: "AegisAI Raises $36 Million Series A Led by Battery Ventures to Fight the New Wave of AI Spear Phishing," PR Newswire, July 23, 2026. Accessed July 24, 2026. https://www.prnewswire.com/news-releases/aegisai-raises-36-million-series-a-led-by-battery-ventures-to-fight-the-new-wave-of-ai-spear-phishing-302833624.html — Primary press release confirming Battery Ventures led the $36M Series A with Accel and Foundation Capital participating. Dharmesh Thakker quoted for Battery.
 
 [^aegis2]: Marina Temkin, "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing," TechCrunch, July 23, 2026. Accessed July 24, 2026. https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/ — Independent tier-1 press confirmation; total funding to date $49M.
+
+[^hush1]: PR Newswire, "Hush Security Raises $30M to Close the AI Agent Governance Gap, with Akamai Joining as Strategic Investor," July 28, 2026. Accessed July 29, 2026. https://www.prnewswire.com/il/news-releases/hush-security-raises-30m-to-close-the-ai-agent-governance-gap-with-akamai-joining-as-strategic-investor-302836307.html — Primary press release confirming Battery Ventures and YL Ventures as existing investors with Akamai Technologies joining as strategic investor. Barak Schoster quoted for Battery.
+
+[^hush2]: SecurityWeek, "Hush Security Raises $30 Million for AI Agent Governance," July 28, 2026. Accessed July 29, 2026. https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/ — Independent tier-1 security press confirmation of Hush Security's $30M Series A with Battery Ventures participating.
+
+[^fh1]: Mary Ann Azevedo, "Freehand Raises $75M Series B To Automate Fortune 500 Supply Chain Spend," Crunchbase News, July 29, 2026. Accessed July 29, 2026. https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/ — Primary press confirming Battery Ventures co-led the $75M Series B with NewRoad Capital Partners. Nexus Venture Partners and Penny Pritzker participated.
+
+[^fh2]: David Prosser, "Freehand Raises $75 Million As Its AI Agents Target The Supply Chain," Forbes, July 29, 2026. Accessed July 29, 2026. https://www.forbes.com/sites/davidprosser/2026/07/29/freehand-raises-75-million-as-its-ai-agents-target-the-supply-chain/ — Independent tier-1 press confirmation of Battery Ventures as co-lead on Freehand's $75M Series B.
