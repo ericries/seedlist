@@ -130,7 +130,7 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Sable | Series A (participated, $45M; co-led by Sequoia and 8VC) | 2026-07-16 | AI / Sales Enablement | Active [^svsable2026] |
+| Sable | Series A (participated, $45M; co-led by Sequoia and 8VC) | 2026-07-16 | AI / Sales Enablement | Active [^svsable2026][^svsable2026b][^svsable2026c] |
 | Niteshift | Seed (participated, $7M; led by Greylock/Jerry Chen) | 2026-06-10 | AI / Developer Tools / Cloud | Active [^niteshift2026a][^niteshift2026b][^niteshift2026c] |
 | Sandstone | Series A (participated, $30M; led by Lightspeed Venture Partners) | 2026-06-09 | Legal Tech / AI / Vertical SaaS | Active [^sandstone2026a][^sandstone2026b][^sandstone2026c] |
 | Sandstone | Seed (participated, $10M; led by Sequoia Capital) | 2026-01-13 | Legal Tech / AI / Vertical SaaS | Active [^sandstone2026a][^sandstone2026b] |
@@ -456,3 +456,5 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 [^sandstone2026c]: "Sandstone Raises $30 Million Series A Led by Lightspeed," Today's Startup News, June 2026. Accessed June 2026. https://www.todaysstartupnews.com/funding/sandstone-raises-30-million-series-a-lightspeed-ai-in-house-legal-teams-workflow — Third independent confirmation of SV Angel's participation in the Sandstone Series A.
 
 [^svsable2026]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," ACCESS Newswire (via Globe and Mail), July 16, 2026. Accessed July 20, 2026. https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/3321857/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain/ — Confirms SV Angel participated in Sable's $45M Series A, co-led by Sequoia Capital and 8VC, alongside BoxGroup, Valor Atreides AI Fund, and Sabrina and Evan Hahn.
+[^svsable2026b]: Allie Garfinkle, "Meet the AI employee that convinced Sequoia to invest $45 million in Sable," Fortune, July 16, 2026. Accessed July 29, 2026. https://fortune.com/2026/07/16/ai-employee-that-convinced-sequoia-to-invest-45-million-in-sable-shaun-maguire/ — Fortune coverage confirming the $45M Series A.
+[^svsable2026c]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," Newswire, July 16, 2026. Accessed July 29, 2026. https://www.newswire.com/news/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain — Third source confirming SV Angel among named participants.

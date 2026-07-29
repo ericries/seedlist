@@ -3236,18 +3236,30 @@ priority:
   type: firm
   reason: co-led Sable Series A (2026-07-16), $45M with 8VC
   added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-29
+  note: 'Fact-spec sweep 2026-07-29: Verified Sable Series A row already present in sequoia-capital.md Portfolio (line 244) with correct date (2026-07-16), amount ($45M), co-lead structure (Sequoia + 8VC), and Shaun Maguire board seat. Strengthened citation from 1 source to 3 independent primary sources: Fortune (Allie Garfinkle exclusive) + ACCESS Newswire company press release + Newswire.com republication — all confirm 2026-07-16 date, $45M total, Sequoia + 8VC co-lead. Added [^sable2] and [^sable3] footnotes.'
 - slug: 8vc
   type: firm
   reason: co-led Sable Series A (2026-07-16), $45M with Sequoia Capital
   added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-29
+  note: 'Fact-spec sweep 2026-07-29: Verified Sable Series A row already present in 8vc.md Portfolio (line 123) with correct date, amount, co-lead structure, and Joe Lonsdale board seat. Strengthened citation from 1 source to 3 independent primary sources (ACCESS Newswire + Fortune + Newswire.com). Added [^42b] and [^42c] footnotes.'
 - slug: boxgroup
   type: firm
   reason: participated in Sable Series A (2026-07-16), $45M
   added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-29
+  note: 'Fact-spec sweep 2026-07-29: Verified Sable Series A row already present in boxgroup.md Portfolio (line 110) with correct date, amount, and participant status. Strengthened citation from 1 source to 3 independent primary sources (ACCESS Newswire + Fortune + Newswire.com). Added [^sable2026b] and [^sable2026c] footnotes.'
 - slug: sv-angel
   type: firm
   reason: participated in Sable Series A (2026-07-16), $45M
   added: 2026-07-20
+  status: resolved
+  resolved: 2026-07-29
+  note: 'Fact-spec sweep 2026-07-29: Verified Sable Series A row already present in sv-angel.md Portfolio (line 133) with correct date, amount, and participant status. Strengthened citation from 1 source to 3 independent primary sources (ACCESS Newswire + Fortune + Newswire.com). Added [^svsable2026b] and [^svsable2026c] footnotes. Also expanded sable.md startup profile funding row to add Fortune-named angel participants (Antonio Gracias/Valor, Brian Halligan and Dharmesh Shah/HubSpot cofounders, Scott Wu/Cognition CEO) with new [^4] source.'
 - slug: ame-cloud-ventures
   type: firm
   reason: 'Fact-spec sweep 2026-07-20: tightened 3 vague year-only portfolio rows on ame-cloud-ventures.md via 3+ primary sources each. (1) ZOOM: "Series A | 2013" → "Series A (participated as one of earliest institutional backers; $6M round: Qualcomm Ventures, Jerry Yang/AME Cloud Ventures, Maven Ventures, angels Subrah Iyar (WebEx), Dan Scheinman (Cisco), Bill Tai) | 2013-01-28" via [^8] TechCrunch 2013-01-28 + [^16] TechCrunch Eric Yuan IPO interview 2019-05-17 (first-party CEO confirmation of AME Cloud Ventures as institutional backer, not just Jerry Yang personally) + [^21] Vator.tv retrospective 2020-03-26. (2) NERVANA SYSTEMS: "Series A/B | 2015" (aggregated dual-round label was incorrect) → "Series A (participated; $20.5M; DCVC led; Allen & Co., AME Cloud Ventures, Playground Global, CME Group, DFJ, Fuel Capital, Lux Capital, Omidyar Network participated; total to $24.4M) | 2015-06-04" via [^11] Fortune (existing) + [^22] Wikipedia (NEW) + [^23] VentureBeat 2015-06-04 (NEW; URL structure

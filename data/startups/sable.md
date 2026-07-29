@@ -58,7 +58,7 @@ Sable is a San Francisco–based AI company building autonomous "AI employees" t
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-16 | Series A | $45M | Sequoia Capital, 8VC | BoxGroup, SV Angel, Valor Atreides AI Fund, Sabrina Hahn, Evan Hahn [^1][^2][^3] |
+| 2026-07-16 | Series A | $45M | Sequoia Capital, 8VC | BoxGroup, SV Angel, Valor Atreides AI Fund, Sabrina Hahn, Evan Hahn; angels Antonio Gracias (Valor), Brian Halligan and Dharmesh Shah (HubSpot cofounders), Scott Wu (Cognition CEO) [^1][^2][^3][^4] |
 
 Sequoia's Shaun Maguire and 8VC's Joe Lonsdale are joining Sable's board [^1][^2].
 
@@ -83,3 +83,4 @@ Sequoia's Shaun Maguire and 8VC's Joe Lonsdale are joining Sable's board [^1][^2
 [^1]: Allie Garfinkle, "Meet the AI employee that convinced Sequoia to invest $45 million in Sable," Fortune, July 16, 2026. Accessed July 20, 2026. https://fortune.com/2026/07/16/ai-employee-that-convinced-sequoia-to-invest-45-million-in-sable-shaun-maguire/
 [^2]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," ACCESS Newswire (via Globe and Mail), July 16, 2026. Accessed July 20, 2026. https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/3321857/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain/
 [^3]: "Sequoia Backs Sable With $45M Series A for AI Employees," Fundraise Insider, July 2026. Accessed July 20, 2026. https://fundraiseinsider.com/blog/sequoia-backs-sable-with-45m-series-a-for-ai-employees/
+[^4]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," Newswire, July 16, 2026. Accessed July 29, 2026. https://www.newswire.com/news/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain
