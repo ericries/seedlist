@@ -3660,3 +3660,11 @@ priority:
   type: investor
   reason: participated in Freehand Series B (2026-07-29), $75M
   added: 2026-07-29
+- slug: madrona-venture-group
+  type: firm
+  reason: led Polar seed (2026-07-29), $5.7M
+  added: 2026-07-29
+- slug: revolution
+  type: firm
+  reason: participated in Buildforce Series A (2026-07-28), $10M via Rise of the Rest Seed Fund
+  added: 2026-07-29

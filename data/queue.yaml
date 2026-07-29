@@ -43017,3 +43017,55 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: binny-bansal
+- name: Planven
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: encore-ai
+- name: Dvir Ginzburg
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Encore AI
+  discovered_from: encore-ai
+- name: Kevin Jiang
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Polar
+  discovered_from: polar-browser
+- name: Phoebe Gates
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Phia (founder) / angel
+  discovered_from: polar-browser
+- name: Erik Bernhardsson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Modal (CEO) / angel
+  discovered_from: polar-browser
+- name: Saepio Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: buildforce
+- name: Inherent Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alpen-high-performance-products
+- name: Arborview Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alpen-high-performance-products
