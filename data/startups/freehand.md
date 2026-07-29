@@ -1,29 +1,39 @@
 ---
-name: "Freehand"
-slug: freehand
-type: startup
-website: "https://www.freehand.ai"
-location: "San Francisco, CA"
-founded: 2024
-status_company: active
-sector: [ai, agentic-ai, supply-chain, procurement, enterprise-software, logistics]
-stage_latest: "Series B"
-total_raised: "$100M"
 firms:
-  - slug: battery-ventures
-    round: series-b
-    year: 2026
-    date: 2026-07-29
-investors:
-  - slug: penny-pritzker
-    round: series-b
-    year: 2026
-    date: 2026-07-29
+- date: 2026-07-29
+  round: series-b
+  slug: battery-ventures
+  year: 2026
+- round: Series B ($75M; Battery Ventures + NewRoad Capital Partners co-led; Nexus
+    Venture Partners also)
+  slug: psp-partners
+  year: 2026
+founded: 2024
 founders:
-  - name: "Nitin Jayakrishnan"
-    role: "CEO & Co-Founder"
-status: published
+- name: Nitin Jayakrishnan
+  role: CEO & Co-Founder
+investors:
+- date: 2026-07-29
+  round: series-b
+  slug: penny-pritzker
+  year: 2026
 last_researched: 2026-07-29
+location: San Francisco, CA
+name: Freehand
+sector:
+- ai
+- agentic-ai
+- supply-chain
+- procurement
+- enterprise-software
+- logistics
+slug: freehand
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $100M
+type: startup
+website: https://www.freehand.ai
 ---
 
 ## About

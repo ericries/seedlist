@@ -4,6 +4,9 @@ firms:
   round: series-c
   slug: general-catalyst
   year: 2026
+- round: Series A ($23M co-led by Elevation and 3State Ventures)
+  slug: 3state-ventures
+  year: 2023
 founded: 2022
 founders:
 - name: Anil Goteti
@@ -12,6 +15,9 @@ investors:
 - round: Seed ($9M)
   slug: sameer-nigam
   year: 2022
+- round: Series A ($23M co-led by Elevation and 3State Ventures)
+  slug: binny-bansal
+  year: 2023
 last_researched: 2026-05-22
 location: Bengaluru, India
 name: Scapia

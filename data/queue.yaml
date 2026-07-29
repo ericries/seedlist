@@ -29016,7 +29016,7 @@ queue:
 - name: Des Traynor
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Intercom
   discovered_from: karri-saarinen
@@ -30694,7 +30694,7 @@ queue:
 - name: Binny Bansal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Flipkart / xto10x
   discovered_from: pankaj-chaddah
@@ -42853,3 +42853,167 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: core-biomedicine
+- name: Workable
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: des-traynor
+- name: Tines
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: des-traynor
+- name: Evervault
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: des-traynor
+- name: Culture Amp
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: des-traynor
+- name: Eoghan McCabe
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Fin (Intercom)
+  discovered_from: des-traynor
+- name: Ciaran Lee
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Fin (Intercom)
+  discovered_from: des-traynor
+- name: 3State Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: xto10x Technologies
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: 021 Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: Sailesh Tulshan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: 021 Capital
+  discovered_from: binny-bansal
+- name: Saikiran Krishnamurthy
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: xto10x Technologies
+  discovered_from: binny-bansal
+- name: Neeraj Aggarwal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: xto10x Technologies
+  discovered_from: binny-bansal
+- name: Sachin Bansal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Navi Technologies
+  discovered_from: binny-bansal
+- name: Mithun Sacheti
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: CaratLane (angel)
+  discovered_from: binny-bansal
+- name: Anil Goteti
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Scapia (founder)
+  discovered_from: binny-bansal
+- name: Curefoods
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: SuperK
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: ShopOS
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: OppDoor
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: Posha
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: LeverageEdu
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: Acko
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: SigTuple
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: Increff
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: Zoko
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
+- name: Ather Energy
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: binny-bansal
