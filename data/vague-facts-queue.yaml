@@ -1726,7 +1726,7 @@ vague_facts:
   line: '| EasyPost | Seed | ~2014 | Logistics | [^12][^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Flexe
@@ -1746,7 +1746,7 @@ vague_facts:
   line: '| Cargomatic | Seed | 2013 | Logistics | [^12][^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Rec Room
@@ -1798,7 +1798,7 @@ vague_facts:
   line: '| deepset | Series A | 2022 | AI / NLP | [^11] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Griptape

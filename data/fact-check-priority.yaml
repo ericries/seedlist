@@ -3284,14 +3284,23 @@ priority:
   type: investor
   reason: led Bunkerhill Health Series B (2026-07-16), $25M / $55M total
   added: 2026-07-20
+  status: resolved
+  resolved: '2026-07-29'
+  note: 'Fact-spec sweep 2026-07-29: verified Bunkerhill Health row in vinod-khosla.md portfolio (line 165) already fully cited with 2 primary sources [^bh1] Fortune (Allie Garfinkle, 2026-07-16) and [^bh2] Bunkerhill company Series B announcement (2026-07-16). No changes needed on Vinod''s profile — row correctly shows Khosla led $25M Series B with Sequoia, Felicis, Optum Ventures, Y Combinator joining. HIT Consultant cross-check also confirms same facts.'
 - slug: sequoia-capital
   type: firm
   reason: participated in Bunkerhill Health Series B (2026-07-16), $25M
   added: 2026-07-20
+  status: resolved
+  resolved: '2026-07-29'
+  note: 'Fact-spec sweep 2026-07-29: Bunkerhill Health was missing from sequoia-capital.md portfolio. Added new row consolidating Sequoia''s Seed lead (2023, $6.5M, Alfred Lin) and Series B follow-on (2026-07-16, $25M, Khosla led with Felicis, Optum Ventures, Y Combinator joining). Cited with 4 primary sources: [^bhh1] Fortune (Allie Garfinkle, 2026-07-16), [^bhh2] Bunkerhill company Series B announcement (2026-07-16), [^bhh3] HIT Consultant (2026-07-16), and [^bhh4] Sequoia''s own portfolio page for Bunkerhill Health.'
 - slug: y-combinator
   type: firm
   reason: participated in Bunkerhill Health Series B (2026-07-16), $25M
   added: 2026-07-20
+  status: resolved
+  resolved: '2026-07-29'
+  note: 'Fact-spec sweep 2026-07-29: Bunkerhill Health was missing from y-combinator.md portfolio. Added new row (W19 batch, verified via ycombinator.com/companies/bunkerhill-health) noting YC as existing participant in the 2026-07-16 $25M Series B / $55M total; Khosla Ventures led; Sequoia Capital, Felicis, Optum Ventures joined. Cited with 3 primary sources: [^bhh1] Fortune (Allie Garfinkle, 2026-07-16), [^bhh2] Bunkerhill company Series B announcement (2026-07-16), [^bhh3] HIT Consultant (2026-07-16).'
 - slug: atomic
   type: firm
   reason: co-backed American Growth Insurance launch (2026-07-16), $70M committed equity
