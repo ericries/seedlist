@@ -96,9 +96,9 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Replit | Round undisclosed | 2023-04-25 (Series D) | AI/DevTools | Active [^8][^54] |
 | Cognition | Series A ($21M, participation per portfolio listing) | 2024-03-12 | AI | Active [^8][^51] |
 | Hebbia | Series B ($130M, participation per portfolio listing) | 2024-07-08 | AI | Active [^8][^52] |
-| Cherry | Seed | ~2023 | Fintech | Active [^8] |
+| Cherry | Seed (participation per Abstract's own portfolio listing at Seed stage; Cherry's primary funding history — 2020-04 first raise, 2022-03 $50M Cross River debt facility, 2022-09-21 Series B — does not name Abstract Ventures in contemporaneous press) | Round and date unverified | Fintech | Active [^6][^cherry1][^cherry2] |
 | xAI | Series A (participation per portfolio listing) | 2023-12 | AI | Active [^14][^55] |
-| SpaceX | Early | ~2023 | Frontier Tech | Active [^8] |
+| SpaceX | Series C stage per Abstract's own portfolio listing (SpaceX's original 2008 Series C was led by Founders Fund; Abstract Ventures did not exist until 2016 — participation likely via secondary transaction or later tender; not named in SpaceX's primary funding press) | Round and date unverified | Frontier Tech | Active [^6][^spacex1] |
 | Polymarket | Series B ($45M, participation per portfolio listing) | 2024-05-14 | Crypto | Active [^14][^53] |
 | 11x | Series A | 2024-09-16 | AI/Enterprise | Active (participated) [^6][^18][^19] |
 | Vapi | Series A | 2024-12-12 | AI | Active (participated) [^8][^20][^21][^22] |
@@ -220,3 +220,10 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^cast-insights-2]: SiliconANGLE, "Real-time speech intelligence startup Cast Insights raises $4.5M to track the world's TV, radio and podcasts," July 23, 2026, accessed July 2026. https://siliconangle.com/2026/07/23/real-time-speech-intelligence-startup-cast-insights-raises-4-5m-track-worlds-tv-radio-podcasts/
 
 [^cast-insights-3]: FinSMEs, "Cast Insights Raises $4.5M in Pre-Seed Funding," July 23, 2026. Accessed July 24, 2026. https://www.finsmes.com/2026/07/cast-insights-raises-4-5m-in-pre-seed-funding.html — Third-party trade press confirming Abstract Ventures-led $4.5M pre-seed with HF0, Village Global, Max Ventures, Embassy Ventures, and Stratus Ventures participating; CEO Otávio Costa Miranda.
+
+[^cherry1]: Cherry (withcherry.com) LinkedIn / company profile aggregators (Crunchbase, PitchBook, Tracxn), accessed July 2026. https://www.crunchbase.com/organization/cherry-4954 — Cherry Technologies (dba Cherry Payment Plans; founded 2017 by Felix Steinmeyer and Charles Mourani; San Francisco) has raised approximately $94M across 5 disclosed rounds through September 2022, including a first raise on April 15, 2020, a $50M debt facility from Cross River Bank in March 2022, and a Series B closed September 21, 2022 (reported ~$44M per Crunchbase). Abstract Ventures appears in aggregator-tracked cap tables (per Crunchbase/PitchBook/Tracxn), but the specific round of participation is not disclosed and no contemporaneous press names Abstract in any Cherry round.
+
+[^cherry2]: PYMNTS, "Report: Cherry Considers Offering Bonds Tied to BNPL for Cosmetic Surgery," 2024, accessed July 2026. https://www.pymnts.com/bnpl/2024/report-cherry-considers-offering-bonds-tied-to-bnpl-for-cosmetic-surgery/ — Independent trade press confirming Cherry's BNPL-for-healthcare business model but does not enumerate Cherry's investor syndicate; used as corroborating source that Cherry is an operating, VC-backed healthcare-fintech company distinct from Cherry Ventures (Berlin) and Cherry Health (Michigan non-profit / Canada physician platform).
+
+[^spacex1]: SpaceX funding history via SpaceXStock.com, "SpaceX Funding Rounds: Key Investors by Stage," accessed July 2026. https://spacexstock.com/spacex-funding-rounds-key-investors-by-stage/ — SpaceX's original Series C was closed in August 2008 (led by Founders Fund) — years before Abstract Ventures was founded (2016) — so Abstract's "Series C" listing on its own portfolio page reflects secondary participation or later-stage tender, not primary round participation. Abstract Ventures is not named in any SpaceX primary funding announcement (per SEC Form D filings and contemporaneous coverage on Bloomberg, Reuters, Ars Technica).
+

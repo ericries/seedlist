@@ -86,7 +86,18 @@ vague_facts:
     (UK) | Acquired by CloudKitchens | [^5][^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_note: 'Fact-spec sweep 2026-07-29: FoodStars acquisition date cannot
+    be pinned to a specific day or month. The deal was kept quiet by CSS and only
+    surfaced publicly on 2019-03-26 via CityAM (Ex-Uber boss snaps up UK dark kitchens)
+    and Sifted (secretive dark kitchen empire). Sifted describes it as "early 2018";
+    Localogy (2021-08) and Wikipedia both say only "2018". No primary press release
+    exists — the acquisition was disclosed via California regulatory filings creating
+    CSS Intl HoldCo / Flatpark Holdings after the fact. Existing 2018-06 value is
+    a guess; safest fix is to leave the row as-is with 2018 year context but not
+    change to a fabricated date. No changes made to profile — flag for future
+    investigation if a company-registry filing surfaces a Companies House transfer
+    date.'
 - profile: firms/10100
   profile_name: '10100'
   company: Casa
@@ -351,7 +362,17 @@ vague_facts:
   line: '| eEva | Pre-Seed | ~2019 | Hardware | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-29: CORRECTED impossible "~2019" year
+    on eEva row. Company (Paradigm Evergreen) did not exist until founder Nico
+    Ramirez dropped out of college in 2021 to build it full-time per Refresh Miami
+    2023-04-13 primary [^83]. Company raised ~USD 500K (including USD 100K from
+    Alexis Ohanian 776 Climate fellowship). 1517 Fund is NOT independently named
+    in any primary press — attribution comes solely from 1517''s own portfolio page
+    ([^1]) — aggregator/self-attributed pattern matching prior FOSSA/Fountain/Deepgram
+    cases previously flagged. Row rewritten as "~2021–2023" range with full context
+    noting aggregator-only attribution. Renamed row header to "eEva (Paradigm
+    Evergreen)" for clarity. 1 new footnote added ([^83]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Office Otter
@@ -361,7 +382,15 @@ vague_facts:
   line: '| Office Otter | Pre-Seed | ~2019 | Productivity SaaS | [^24] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-29: CORRECTED impossible "~2019" year
+    and reclassified Pre-Seed → Seed. Office Otter was co-founded in 2020 by
+    Shayanne Wright + Jordan Boudreau in Santa Monica; USD 1.6M seed closed
+    2021-07-20 per Tracxn [^85] with participants Bonfire Ventures, 1517 Fund,
+    Invariantes Fund, Beresford Ventures, Root and Shoot Ventures, Alumni
+    Ventures (+ Titan Fund per Alumni Ventures blog [^84], dated 2021-08-15).
+    No single lead named. Row rewritten with full syndicate and specific
+    2021-07-20 date. 2 new footnotes added ([^84], [^85]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: JobPixel
@@ -176558,7 +176587,19 @@ vague_facts:
   line: '| Cherry | Seed | ~2023 | Fintech | Active [^8] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-29
+  note: 'Fact-spec sweep 2026-07-29: Cherry (withcherry.com, healthcare BNPL, founded
+    2017 by Felix Steinmeyer/Charles Mourani) has raised ~$94M across 5 disclosed rounds
+    per aggregators (Crunchbase/PitchBook/Tracxn) — first raise 2020-04-15, $50M debt
+    from Cross River 2022-03, Series B 2022-09-21 (~$44M). Abstract Ventures appears
+    in aggregator-tracked cap tables and on Abstract''s own portfolio page as ''Fintech,
+    Seed stage,'' but NO contemporaneous press names Abstract in any Cherry round.
+    Round type and date cannot be independently verified. Row on abstract-ventures.md
+    updated to reflect self-report status; added [^cherry1] (Crunchbase aggregator)
+    and [^cherry2] (PYMNTS trade press) as best-available citations. Marked unresolvable
+    because primary source naming Abstract in a specific Cherry round does not exist
+    in public press. 2 new footnotes added.'
 - profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   company: SpaceX
@@ -176568,7 +176609,18 @@ vague_facts:
   line: '| SpaceX | Early | ~2023 | Frontier Tech | Active [^8] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-29
+  note: 'Fact-spec sweep 2026-07-29: Abstract''s own portfolio page lists SpaceX as
+    ''Frontier Tech, Series C'' — but SpaceX''s original Series C closed August 2008
+    (led by Founders Fund), years before Abstract Ventures was founded (2016). Participation
+    is therefore via secondary transaction or later-stage tender, not primary round.
+    Abstract Ventures is NOT named in any SpaceX primary funding announcement (per
+    SEC Form D filings, Bloomberg, Reuters, Ars Technica contemporaneous coverage).
+    Row on abstract-ventures.md updated to reflect self-report status and stage misclassification;
+    added [^spacex1] (SpaceXStock.com funding history) as best-available citation. Marked
+    unresolvable because primary press naming Abstract in a specific SpaceX secondary/tender
+    is not public. 1 new footnote added.'
 - profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   company: Legora
@@ -176665,7 +176717,22 @@ vague_facts:
   line: '| EigenLayer | Early | ~2023 | Crypto/Infrastructure | Active [^2] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-29
+  note: 'Fact-spec sweep 2026-07-29: EigenLayer''s complete funding history verified
+    via 3+ primary sources (CoinDesk March 28, 2023 for $50M Series A; The Block/Bloomberg
+    Feb 22, 2024 for $100M Series B; Tracxn aggregator record). Rounds are: 2022-04-19
+    Seed $3.87M (Polychain lead); 2023-03-28 Series A $50M (Blockchain Capital lead
+    w/ Electric Capital, Polychain, Hack VC, Finality, Coinbase Ventures); 2024-02-22
+    Series B $100M (a16z crypto SOLE investor); 2025-06-17 EigenCloud $70M direct a16z
+    token deal. Breyer Capital is NOT named in ANY EigenLayer round in contemporaneous
+    press. Breyer''s own portfolio page (breyercapital.com/portfolio) lists EigenLayer
+    without round or check size — participation is aggregator/self-report only, most
+    plausibly via secondary purchase or later token deal. Row on breyer-capital.md
+    updated with same self-report treatment as Xaira row. Added [^eig1] (CoinDesk 2023-03-28
+    primary), [^eig2] (The Block 2024-02-22 primary), [^eig3] (Tracxn aggregator). Marked
+    unresolvable because primary press naming Breyer in a specific EigenLayer round
+    does not exist. 3 new footnotes added.'
 - profile: firms/buckley-ventures
   profile_name: Buckley Ventures
   company: Speak

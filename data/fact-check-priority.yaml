@@ -3624,3 +3624,15 @@ priority:
   status: resolved
   resolved: 2026-07-28
   resolution_note: 'Verified via GlobeNewswire + Manila Times + ChinaTechNews: Bennett quoted attributing "orchestration layer to power the next generation of business communications" in Sent Series A press release. Kent Bennett portfolio row updated with participants (UIF, CP Overture) and 3rd/2nd citations ([^sent-b], [^sent-c]).'
+- slug: abstract-ventures
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-29: annotated Cherry and SpaceX portfolio rows on abstract-ventures.md as self-report only (Abstract not named in any Cherry primary press despite ~$94M raised across 5 disclosed rounds; SpaceX Series C listing predates Abstract by 8 years, participation via secondary/tender). Added [^cherry1] (Crunchbase aggregator), [^cherry2] (PYMNTS trade press), [^spacex1] (SpaceXStock funding history). Both rows updated to reflect ''Round and date unverified'' with explicit self-report caveat matching Legora/Xaira precedent. 2 facts marked unresolvable in vague-facts-queue.yaml. 3 new footnotes added.'
+  added: 2026-07-29
+  status: resolved
+  resolved: 2026-07-29
+- slug: breyer-capital
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-29: annotated EigenLayer portfolio row on breyer-capital.md as self-report only. EigenLayer full funding history verified via 3 primary sources (CoinDesk 2023-03-28 for Series A $50M Blockchain Capital lead; The Block 2024-02-22 for Series B $100M a16z crypto SOLE investor; Tracxn aggregator record showing 4 rounds totaling ~$241M). Breyer Capital NOT named in ANY EigenLayer round in contemporaneous press — participation is aggregator/self-report only, matching Xaira treatment on same profile. Added [^eig1] (CoinDesk primary), [^eig2] (The Block primary), [^eig3] (Tracxn aggregator). Row updated to ''Round and date unverified''. 1 fact marked unresolvable in vague-facts-queue.yaml. 3 new footnotes added.'
+  added: 2026-07-29
+  status: resolved
+  resolved: 2026-07-29
