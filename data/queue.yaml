@@ -42624,3 +42624,154 @@ queue:
   added: '2026-03-17'
   firm: Treehouse Family Capital
   discovered_from: claros-technologies
+- name: SpringTide Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dopl-technologies
+- name: WRF Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dopl-technologies
+- name: Tacoma Venture Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dopl-technologies
+- name: HeartX
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dopl-technologies
+- name: Transform Health Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dopl-technologies
+- name: Ryan James
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Dopl Technologies
+  discovered_from: dopl-technologies
+- name: Field Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: freight-hero
+- name: Flybridge Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: freight-hero
+- name: Tip Top VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: freight-hero
+- name: Front Porch Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: freight-hero
+- name: Dynamo Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: freight-hero
+- name: AI Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: freight-hero
+- name: André Luis Martins Filho
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Freight Hero
+  discovered_from: freight-hero
+- name: Mitsubishi Electric
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: array-labs
+- name: Catapult Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: array-labs
+- name: Kompas VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: array-labs
+- name: Andrew Peterson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Array Labs
+  discovered_from: array-labs
+- name: Isaac Robledo
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Array Labs
+  discovered_from: array-labs
+- name: Cedars-Sinai Intellectual Property Co.
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vivid-dx
+- name: Jameel Investment Management Company
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vivid-dx
+- name: Keith O'Neill
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Vivid Dx
+  discovered_from: vivid-dx
+- name: Gradient
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: credible-data
+- name: Kyle Nesbit
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Credible Data
+  discovered_from: credible-data
+- name: Zach Bratun-Glennon
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Gradient
+  discovered_from: credible-data
