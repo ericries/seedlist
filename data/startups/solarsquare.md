@@ -1,6 +1,6 @@
 ---
 firms:
-- date: 2026-07-21
+- date: 2026-06-16
   round: series-c
   slug: lowercarbon-capital
   year: 2026
@@ -16,7 +16,7 @@ founders:
 - name: Nikhil Nahar
   role: Co-Founder
 investors:
-- date: 2026-07-21
+- date: 2026-06-16
   note: prior existing investor; participated in earlier rounds
   round: series-c
   slug: ashish-kacholia
@@ -37,31 +37,36 @@ slug: solarsquare
 stage_latest: Series C
 status: published
 status_company: active
-total_raised: $53M+
+total_raised: $100M+
 type: startup
 website: https://www.solarsquare.in
 ---
 
 ## About
 
-SolarSquare is a Mumbai-based residential rooftop solar company founded in 2015 by Shreya Mishra, Neeraj Jain, and Nikhil Nahar [^1][^2][^3]. The company provides end-to-end rooftop solar solutions for homes and housing societies across India, covering consultation, installation, financing, monitoring, and after-sales service [^1][^2]. As of the July 2026 announcement, SolarSquare had completed installations in more than 50,000 homes across 29 cities and planned to expand into 30 to 40 additional Indian cities [^1][^2][^3].
+SolarSquare is a Mumbai-based residential rooftop solar company founded in 2015 by Shreya Mishra, Neeraj Jain, and Nikhil Nahar [^1][^2]. The company provides end-to-end rooftop solar solutions for homes and housing societies across India, covering consultation, installation, financing, monitoring, and after-sales service [^1][^2]. As of the June 2026 announcement, the Series C round takes SolarSquare's total capital raised to more than $100 million [^1][^2][^3].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-21 | Series C | $53M | Lightspeed | Lowercarbon Capital, NGP Capital, Elevation Capital, Mahendra Singh Dhoni (Midas Deals) [^1][^2][^3] |
+| 2026-06-16 | Series C | $53M | B Capital | Lightspeed, Elevation Capital, Lowercarbon Capital, Rainmatter by Zerodha, Good Capital [^1][^2][^3][^4] |
+
+Post-money valuation: ~$470M (Rs 4,500 crore) [^4]. Contributions per ROC filings: B Capital Rs 287.7 crore, Lightspeed Rs 79.85 crore, Lowercarbon Rs 65.83 crore, Good Capital Rs 40.73 crore, Mangum LLC Rs 21.94 crore, Rainmatter Rs 11 crore [^4]. MS Dhoni later joined via Midas Deals family office as part of the round [^5][^6].
 
 ## What Investors Say
 
-Mahendra Singh Dhoni said his investment "reflected confidence in India's long-term clean energy transition, highlighting residential solar as an important contributor to the country's energy security and sustainability goals" [^2].
+Karan Mohla of B Capital said: "India's energy transition will not be won on the grid alone — it will be won home by home" [^1].
 
 ## What Founders Say
 
-Shreya Mishra, Co-Founder and CEO, said the association with Dhoni "aligns with the company's focus on building long-term customer trust while supporting India's transition towards cleaner energy sources" [^2].
+*No independently sourced founder testimonials with substantive commentary on operations found at time of publication.*
 
 ## Sources
 
-[^1]: Entrackr, "MS Dhoni invests in SolarSquare as part of $53 Mn Series C round," July 21, 2026. Accessed July 2026. https://entrackr.com/snippets/ms-dhoni-invests-in-solarsquare-as-part-of-53-mn-series-c-round-12183463
-[^2]: SolarQuarter, "MS Dhoni Invests in SolarSquare as Company Secures $53 Million Series C Funding to Expand Residential Rooftop Solar Across India," July 21, 2026. Accessed July 2026. https://solarquarter.com/2026/07/21/ms-dhoni-invests-in-solarsquare-as-company-secures-53-million-series-c-funding-to-expand-residential-rooftop-solar-across-india/
-[^3]: SiliconIndia, "MS Dhoni Invests in SolarSquare's $53 Million Series C Round," July 21, 2026. Accessed July 2026. https://www.siliconindia.com/news/startups/ms-dhoni-invests-in-solarsquares-53-million-series-c-round-nid-241597-cid-19.html
+[^1]: StartupTalky, "SolarSquare Raises $53 Million led by B Capital to Build India's Largest End-to-End Residential Solar Platform," June 16, 2026. Accessed July 2026. https://startuptalky.com/news/solarsquare-raises-53-million-series-c-funding/
+[^2]: Entrepreneur India, "SolarSquare Raises USD 53 Million in B Capital-led Series C Round," June 16, 2026. Accessed July 2026. https://india.entrepreneur.com/business-news/solarsquare-raises-usd-53-million-in-b-capital-led-series-c-round
+[^3]: DealStreetAsia, "Indian solar startup SolarSquare bags $53m in B Capital-led round," June 2026. Accessed July 2026. https://www.dealstreetasia.com/stories/solarsquare-b-capital-led-round-485630
+[^4]: Entrackr, "Decoding: SolarSquare valued at $470 Mn after Series C; co-founders retain 27.5% stake," July 3, 2026. Accessed July 2026. https://entrackr.com/decoding/decoding-solarsquare-valued-at-470-mn-after-series-c-co-founders-retain-275-stake-12130732
+[^5]: Entrackr, "MS Dhoni invests in SolarSquare as part of $53 Mn Series C round," July 21, 2026. Accessed July 2026. https://entrackr.com/snippets/ms-dhoni-invests-in-solarsquare-as-part-of-53-mn-series-c-round-12183463
+[^6]: SiliconIndia, "MS Dhoni Invests in SolarSquare's $53 Million Series C Round," July 21, 2026. Accessed July 2026. https://www.siliconindia.com/news/startups/ms-dhoni-invests-in-solarsquares-53-million-series-c-round-nid-241597-cid-19.html

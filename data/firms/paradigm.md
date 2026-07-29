@@ -105,7 +105,7 @@ Based on 100+ verified portfolio companies from Paradigm's portfolio page, the f
 | Andromeda | Growth | 2026 | AI Compute | [^28] |
 | True Anomaly | Series D (participated) | 2026-04-28 | Aerospace & Defense | [^29] |
 | M1X Global | Seed (led, $5.5M) | 2026-07-07 | Sovereign Tokenization/Fintech | [^33][^34] |
-| Antares | Series C (co-led, $470M) | 2026-07-27 | Nuclear/Defense/Energy | [^35][^36] |
+| Antares | Series C (co-led with Caffeinated Capital, $470M = $370M equity + $100M debt; Point72 Ventures, Shine Capital, Industrious Ventures participated) | 2026-07-27 | Nuclear/Defense/Energy | [^35][^36][^37] |
 
 *This table represents approximately 16% of 148 known investments. The firm's portfolio page notes it excludes confidential positions [^1]. All dates have been verified against primary funding announcement sources.*
 
@@ -163,3 +163,4 @@ No additional independently sourced founder testimonials found from third-party 
 [^34]: The Block, "Paradigm leads $5.5 million seed round in M1X Global to expand tokenized sovereign debt platform," July 7, 2026. Accessed July 2026. https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt
 [^35]: "Antares raises $470M to build nuclear reactors for the U.S. military," TechCrunch, July 27, 2026. Accessed July 2026. https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/
 [^36]: "Antares Raises $470M Series C to Deploy Nuclear Microreactors for Critical Missions," BusinessWire press release, July 27, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260727569769/en/Antares-Raises-$470M-Series-C-to-Deploy-Nuclear-Microreactors-for-Critical-Missions
+[^37]: "Antares Raises $470M Series C to Deploy Nuclear Microreactors for Critical Missions," Yahoo Finance, July 27, 2026. Accessed July 2026. https://finance.yahoo.com/energy/articles/antares-raises-470m-series-c-113000270.html — Third independent primary source; includes Alana Palmedo (Paradigm) and Varun Gupta (Caffeinated Capital) quotes confirming co-lead structure and participants Point72 Ventures, Shine Capital, Industrious Ventures.

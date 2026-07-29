@@ -100,7 +100,7 @@ Based on 26 verified active portfolio companies from the firm's portfolio page [
 | VioNano | Seed | 2024 | Semiconductors | Active | [^5] |
 | Light Trace Photonics | Seed | 2024 | Photonics | Active | [^5] |
 | Netpreme | Seed | 2024 | AI Infrastructure | Active | [^5] |
-| Nuclear Turbines | Foundational (participated, £15M / ~€17.5M; IQ Capital led; Zero Carbon Capital and Empirical Ventures also participated) | 2026-07-27 | Energy / Nuclear / Deep Tech | Active | [^8][^9] |
+| Nuclear Turbines | Foundational (participated, £15M / ~€17.5M; IQ Capital led; Zero Carbon Capital and Empirical Ventures also participated) | 2026-07-27 | Energy / Nuclear / Deep Tech | Active | [^8][^9][^10] |
 
 ## In Their Own Words
 
@@ -121,3 +121,4 @@ No independently sourced founder testimonials found.
 [^7]: Purdue University, "Purdue-related startup Wavelogix receives $3M investment from Rhapsody Venture Partners," 2024. https://www.purdue.edu/newsroom/2024/Q2/purdue-related-startup-wavelogix-receives-3m-investment-from-rhapsody-venture-partners/
 [^8]: "Manchester's Nuclear Turbines raises €17.5 million to develop compact, cost-effective nuclear power systems," EU-Startups, July 27, 2026. Accessed July 27, 2026. https://www.eu-startups.com/2026/07/manchesters-nuclear-turbines-raises-e17-5-million-to-develop-compact-cost-effective-nuclear-power-systems/ — Names Rhapsody Venture Partners as a participant in the IQ Capital-led foundational round.
 [^9]: "Ex-BAE Systems engineer 'flips the script' on nuclear power," BusinessCloud, July 27, 2026. Accessed July 27, 2026. https://businesscloud.co.uk/news/ex-bae-systems-engineer-flips-the-script-on-nuclear-power/ — Confirms Rhapsody Venture Partners' participation in the £15M round led by IQ Capital.
+[^10]: Tech.eu, "BAE Systems' energy spinout Nuclear Turbines emerges from stealth with £15M raise," July 27, 2026. Accessed July 2026. https://tech.eu/2026/07/27/bae-systems-energy-spinout-nuclear-turbines-emerges-from-stealth-with-ps15m-raise/ — Third independent primary source confirming Rhapsody Venture Partners as a participant alongside IQ Capital (lead), Zero Carbon Capital, and Empirical Ventures. Founders: Jeremy Owston (ex-BAE) and Prof. Tim Abram. Manchester, UK.
