@@ -32,7 +32,7 @@ Founder and CEO Guanlan Dai previously led Cloudflare's edge team and built core
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-16 | Seed | $20M | Andreessen Horowitz | Undisclosed [^1][^2][^4] |
+| 2026-07-16 | Seed | $20M | Andreessen Horowitz | None disclosed (solo lead) [^1][^2][^4] |
 
 The round valued Runta at a post-money valuation exceeding $100 million [^2].
 

@@ -792,8 +792,8 @@ vague_facts:
   resolution_note: 'Fact-spec sweep 2026-07-28: tightened FOLX Health Series B row
     from year-only 2022 to 2022-10-12 with $30M amount and full syndicate (7wireVentures
     lead; Foresite Capital new; Bessemer, Define, Polaris returning). Verified via
-    3 primary sources: existing PR Newswire [^38] (2022-10-12), NEW PR Newswire
-    primary [^64] (2022-10-12), NEW WWD [^65] (2022-10-12). 2 new footnotes added.'
+    3 primary sources: existing PR Newswire [^38] (2022-10-12), NEW PR Newswire primary
+    [^64] (2022-10-12), NEW WWD [^65] (2022-10-12). 2 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Parsley Health
@@ -845,9 +845,9 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-28: tightened MedArrive Series A row
-    from year-only 2021 to 2021-11-17 with $25M amount and full syndicate (Section 32
-    led; 7wireVentures, Leaps by Bayer new; Define Ventures, Kleiner Perkins, Redesign
+  resolution_note: 'Fact-spec sweep 2026-07-28: tightened MedArrive Series A row from
+    year-only 2021 to 2021-11-17 with $25M amount and full syndicate (Section 32 led;
+    7wireVentures, Leaps by Bayer new; Define Ventures, Kleiner Perkins, Redesign
     Health returning). Verified via 3 primary sources: existing GlobeNewswire [^40]
     (2021-11-17), NEW GlobeNewswire primary [^66] (2021-11-17), NEW HIT Consultant
     [^67] (2021-11-17). 2 new footnotes added.'
@@ -861,14 +861,14 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-07-28: CORRECTED WellTheory row — 7wire
-    did NOT participate in the 2022 seed round (that was Accel-led with Lux, Box Group,
+  resolution_note: 'Fact-spec sweep 2026-07-28: CORRECTED WellTheory row — 7wire did
+    NOT participate in the 2022 seed round (that was Accel-led with Lux, Box Group,
     Scribble Ventures, Rock Health). 7wire''s actual first check was the 2025-10-14
     Series A: $14M, General Catalyst led, 7wire Ventures, Ingeborg Investments, Up2
     Opportunity Fund new; Accel, Box Group returning. Verified via 3 primary sources:
     NEW BusinessWire [^68] (2025-10-14), NEW MobiHealthNews [^69] (2025-10-14), plus
-    HLTH News (2025-10-15) cross-check. Row corrected from year-only 2022 to Series A
-    2025-10-14. 2 new footnotes added.'
+    HLTH News (2025-10-15) cross-check. Row corrected from year-only 2022 to Series
+    A 2025-10-14. 2 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Override
@@ -25279,9 +25279,8 @@ vague_facts:
     2013-12-12. Co-founder David Lee invested in Coinbase in 2012 while at SV Angel,
     a separate prior firm. Refactor''s own website [^12] lists Coinbase under "Exits"
     — likely reflects SPV, secondary purchase, or personal-legacy attribution. Refactor
-    row updated to state the timeline issue explicitly. Coinbase startup profile
-    also updated to annotate the Refactor entry. Added [^50] for the 2021 direct
-    listing.'
+    row updated to state the timeline issue explicitly. Coinbase startup profile also
+    updated to annotate the Refactor entry. Added [^50] for the 2021 direct listing.'
 - profile: firms/refactor-capital
   profile_name: Refactor Capital
   company: Betty Labs
@@ -25294,14 +25293,14 @@ vague_facts:
   type: unknown_value
   status: unresolvable
   resolution_notes: 'Fact-spec sweep 2026-07-28: aggregator-only Refactor attribution.
-    Betty Labs'' only publicly-announced funding round (Seed, $9.3M, 2020-10-27,
-    GV led with Lightspeed / Alexa Fund / Precursor Ventures / Chapter One / Maveron
-    / MaC Venture Capital / M13 + NBA angels Kevin Durant, Andre Iguodala, Baron
-    Davis per dot.LA, Lightspeed portfolio page [^52], and Tracxn) does NOT name
-    Refactor Capital. Refactor''s own portfolio page [^12] lists Betty Labs under
-    "Exits" — likely reflects SPV, secondary, or personal check attribution. Refactor
-    row updated. Spotify acquired Betty Labs 2021-03-30 per CNBC [^15]. Added
-    [^51] (Lightspeed portfolio page).'
+    Betty Labs'' only publicly-announced funding round (Seed, $9.3M, 2020-10-27, GV
+    led with Lightspeed / Alexa Fund / Precursor Ventures / Chapter One / Maveron
+    / MaC Venture Capital / M13 + NBA angels Kevin Durant, Andre Iguodala, Baron Davis
+    per dot.LA, Lightspeed portfolio page [^52], and Tracxn) does NOT name Refactor
+    Capital. Refactor''s own portfolio page [^12] lists Betty Labs under "Exits" —
+    likely reflects SPV, secondary, or personal check attribution. Refactor row updated.
+    Spotify acquired Betty Labs 2021-03-30 per CNBC [^15]. Added [^51] (Lightspeed
+    portfolio page).'
 - profile: firms/revolution
   profile_name: Revolution
   company: Sweetgreen
@@ -171385,15 +171384,14 @@ vague_facts:
   type: unknown_value
   status: unresolvable
   resolution_note: 'Fact-spec sweep 2026-07-28: NVIDIA-Brev.dev acquisition terms
-    are genuinely undisclosed. Confirmed via 4 primary/contemporaneous sources:
-    founder Nader Khalil LinkedIn post [^5] (announces the deal, no terms), NVIDIA
-    Developer Blog [^6], NEW Cryptopolitan [^7] (explicitly contrasts undisclosed
-    Brev.dev terms with disclosed 2024 NVIDIA acquisitions Run $700M, Shoreline
-    $100M, Deci $300M), and NEW Nama Ventures (lead investor) [^8] (no terms).
-    Additional confirmations: Perkins Coie legal advisor announcement, Nama Ventures
-    portfolio retrospective — neither discloses terms. Public announcement date
-    July 17, 2024 (Khalil LinkedIn), news coverage propagated July 20, 2024. 2
-    new footnotes added ([^7], [^8]).'
+    are genuinely undisclosed. Confirmed via 4 primary/contemporaneous sources: founder
+    Nader Khalil LinkedIn post [^5] (announces the deal, no terms), NVIDIA Developer
+    Blog [^6], NEW Cryptopolitan [^7] (explicitly contrasts undisclosed Brev.dev terms
+    with disclosed 2024 NVIDIA acquisitions Run $700M, Shoreline $100M, Deci $300M),
+    and NEW Nama Ventures (lead investor) [^8] (no terms). Additional confirmations:
+    Perkins Coie legal advisor announcement, Nama Ventures portfolio retrospective
+    — neither discloses terms. Public announcement date July 17, 2024 (Khalil LinkedIn),
+    news coverage propagated July 20, 2024. 2 new footnotes added ([^7], [^8]).'
 - profile: startups/brex
   profile_name: Brex
   company: '2017-03-20'
@@ -172206,10 +172204,10 @@ vague_facts:
     the round"), PocketGamer.biz [^11] (Tencent named as lead, amount not disclosed),
     Yahoo Finance/BusinessWire [^12] (no amount stated), and NEW MCV/DEVELOP [^14]
     ("The amount of investment in the studio was not disclosed."). Tightened lead
-    to note "Tencent (led per PocketGamer)" — TechCrunch and BusinessWire simply
-    named all three (Tencent, Benchmark, YouWeb''s 9+) without designating a lead.
-    Cumulative capital post-round was $8.2M per multiple sources (matching prior
-    Series A total), suggesting a small follow-on. 1 new footnote added ([^14]).'
+    to note "Tencent (led per PocketGamer)" — TechCrunch and BusinessWire simply named
+    all three (Tencent, Benchmark, YouWeb''s 9+) without designating a lead. Cumulative
+    capital post-round was $8.2M per multiple sources (matching prior Series A total),
+    suggesting a small follow-on. 1 new footnote added ([^14]).'
 - profile: startups/discord
   profile_name: Discord
   company: Series C
@@ -172336,15 +172334,15 @@ vague_facts:
   status: unresolvable
   resolution_note: 'Fact-spec sweep 2026-07-28: EDX Markets Series B (2024-01-24)
     amount is genuinely undisclosed — company deliberately did not release the figure.
-    Confirmed via 4 primary/contemporaneous sources: EDX press release [^6] (no
-    amount stated), FinSMEs [^7] (no amount stated), Wikipedia entry (states "for
-    an undisclosed amount"), and NEW Ledger Insights trade press [^8] which explicitly
-    states "EDX didn''t share the Series B round amount, but Bloomberg said the
-    valuation was double that of the Series A." Later secondary sources (e.g., ValueTheMarkets,
+    Confirmed via 4 primary/contemporaneous sources: EDX press release [^6] (no amount
+    stated), FinSMEs [^7] (no amount stated), Wikipedia entry (states "for an undisclosed
+    amount"), and NEW Ledger Insights trade press [^8] which explicitly states "EDX
+    didn''t share the Series B round amount, but Bloomberg said the valuation was
+    double that of the Series A." Later secondary sources (e.g., ValueTheMarkets,
     July 2026) report $65M by back-inference from Series C aggregate context, but
-    this figure is not from primary reporting and EDX itself has never disclosed
-    it. Tightened row to note the non-disclosure and Bloomberg valuation-doubled
-    signal. 1 new footnote added ([^8]).'
+    this figure is not from primary reporting and EDX itself has never disclosed it.
+    Tightened row to note the non-disclosure and Bloomberg valuation-doubled signal.
+    1 new footnote added ([^8]).'
 - profile: startups/edx-markets
   profile_name: EDX Markets
   company: '2022'
@@ -172810,7 +172808,12 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_notes: Confirmed via 3 primary sources (Fluidstack company blog, SiliconANGLE
+    2026-07-21, Mishcon de Reya legal advisor announcement) that participants beyond
+    Situational Awareness were NOT publicly named. Fluidstack described them as 'world-leading
+    investors'. Updated profile with 3 new citations ([^5][^6][^7]) and clarified
+    language.
 - profile: startups/foundation-devices
   profile_name: Foundation Devices
   company: '2022'
@@ -173483,7 +173486,13 @@ vague_facts:
     strategic angels [^1][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_notes: Confirmed via 3 primary sources (Startup City Hamburg 2026-04,
+    Vestbee, StartupMafia) that NO lead investor was publicly named for Logicc's €2.5M
+    seed. Round backed as syndicate by 10x Founders, Redstone, MS&AD Ventures, and
+    angels. Updated profile Lead column to 'Syndicate (no named lead)' and added 3
+    new citations ([^3][^4][^5]). Also noted prior 2025 six-figure investment from
+    Tarek Müller (ABOUT YOU founder).
 - profile: startups/lucis
   profile_name: Lucis
   company: 2025-12
@@ -175032,7 +175041,11 @@ vague_facts:
   line: '| 2026-07-16 | Seed | $20M | Andreessen Horowitz | Undisclosed [^1][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_notes: Confirmed via 4 primary sources (a16z announcement 2026-07-16,
+    TheNextWeb, CryptoBriefing, TheSaaSNews) that a16z was sole lead; no co-investors,
+    angels, or other funds were disclosed in the $20M seed round. Updated Runta profile
+    to 'None disclosed (solo lead)'.
 - profile: startups/sage-health
   profile_name: Sage Health
   company: '2026-03-27'
@@ -210628,7 +210641,9 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-28
-  note: 'Fact-spec 2026-07-28: tightened founding year to exact date 2003-05-06 via Wikipedia primary [^45] (all 5 co-founders confirmed; first equity round $7.5M Series A by Oakhouse Partners June 2006).'
+  note: 'Fact-spec 2026-07-28: tightened founding year to exact date 2003-05-06 via
+    Wikipedia primary [^45] (all 5 co-founders confirmed; first equity round $7.5M
+    Series A by Oakhouse Partners June 2006).'
 - profile: firms/8vc
   profile_name: 8VC
   company: Addepar
@@ -210640,7 +210655,9 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-28
-  note: 'Fact-spec 2026-07-28: tightened ~2009 to specific founding year 2009 with round history — Series A ~$1.1M (2010), Series B $15.8M (2011-06-15). Primary source: Caproasia [^46].'
+  note: 'Fact-spec 2026-07-28: tightened ~2009 to specific founding year 2009 with
+    round history — Series A ~$1.1M (2010), Series B $15.8M (2011-06-15). Primary
+    source: Caproasia [^46].'
 - profile: firms/8vc
   profile_name: 8VC
   company: OpenGov
@@ -210652,7 +210669,9 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-07-28
-  note: 'Fact-spec 2026-07-28: tightened ~2012 to specific 2012 founding; documented Series B May 2014 ($15M) led by a16z with Formation 8 (8VC predecessor) participating. Primary source: FinSMEs [^47].'
+  note: 'Fact-spec 2026-07-28: tightened ~2012 to specific 2012 founding; documented
+    Series B May 2014 ($15M) led by a16z with Formation 8 (8VC predecessor) participating.
+    Primary source: FinSMEs [^47].'
 - profile: firms/8vc
   profile_name: 8VC
   company: Flexport

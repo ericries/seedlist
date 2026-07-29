@@ -23,7 +23,9 @@ Logicc is a Hamburg-based secure AI platform for regulated industries, integrati
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-04-20 | Seed | €2.5M | Undisclosed | 10X Founders, Redstone, MS&AD, strategic angels [^1][^2] |
+| 2026-04-20 | Seed | €2.5M | Syndicate (no named lead) | 10X Founders, Redstone, MS&AD Ventures, strategic angels [^1][^2][^3][^4][^5] |
+
+No single lead investor was publicly named across primary announcements — all three named funds were presented as co-backers of the syndicate [^3][^4][^5]. Prior to the seed, ABOUT YOU co-founder Tarek Müller had invested a six-figure amount in Logicc in 2025 [^3].
 
 ## What Investors Say
 
@@ -37,3 +39,6 @@ No independently sourced founder quotes found.
 
 [^1]: EU-Startups, "Logicc secures €2.5 million amid continued momentum in Germany's secure AI market," April 2026, accessed April 2026. https://www.eu-startups.com/2026/04/logicc-secures-e2-5-million-amid-continued-momentum-in-germanys-secure-ai-market/
 [^2]: FoundersToday, "Logicc raises €2.5M to bring secure AI Infrastructure to regulated Industries," April 2026, accessed April 2026. https://www.founderstoday.news/logicc-raises-over-2m-in-funding/
+[^3]: Startup City Hamburg, "Logicc secures 2.5 million euros in seed funding," April 2026. Accessed July 28, 2026. https://startupcity.hamburg/news-events/news/logicc-secures-25-million-euros-in-seed-funding
+[^4]: Vestbee, "Hamburg-based Logicc raises €2.5M to scale compliant AI platform for regulated industries," April 2026. Accessed July 28, 2026. https://www.vestbee.com/insights/articles/logicc-raises-2-5-m
+[^5]: StartupMafia, "Logicc Raises €2.5M to Unlock Secure AI for Regulated Industries," April 2026. Accessed July 28, 2026. https://startupmafia.eu/logicc-raises-e2-5m-to-unlock-secure-ai-for-regulated-industries
