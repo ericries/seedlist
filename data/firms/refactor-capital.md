@@ -81,14 +81,14 @@ Based on 55 verified portfolio companies from the firm's website [^12], Refactor
 | Astranis | Seed | 2016 | Aerospace | Active (unicorn) [^17] |
 | Clover Health | Series C | 2016 | Health insurance | IPO ($CLOV) [^18] |
 | Solugen | Seed | 2017 | Chemicals/biotech | Active (unicorn) [^13] |
-| Headspace | — | ~2017 | Health/wellness | Active [^4] |
+| Headspace | Aggregator-only Refactor attribution — Crunchbase News (May 2019) [^4] names Headspace as a Refactor portfolio company but Headspace's Series A (2015-09-17, USD 34.3M, led by The Chernin Group), Series B (2017-06-30, USD 37.3M, led by JAZZ Venture Partners / Spectrum Equity), and Series C (2020-02, USD 93M, led by blisce/) primary press coverage does NOT name Refactor Capital. Round type/date/mechanism (direct participation, SPV, or secondary) not independently confirmable. | — | Health/wellness | Active [^4][^47][^48][^49] |
 | Checkerspot | Seed | 2018 | Critical materials | Active [^21] |
-| Coinbase | — | ~2017 | Fintech/crypto | IPO ($COIN) [^12] |
+| Coinbase | Aggregator-only Refactor attribution — Refactor's own portfolio page [^12] lists Coinbase as an "Exit" but Refactor Capital was not founded until 2016 (incorporated ~August 2015 per TechCrunch [^2]), well after Coinbase's 2012 Y Combinator seed and 2013 Series A/B rounds. Co-founder David Lee invested in Coinbase in 2012 while at SV Angel (a separate prior firm). Round type/date/mechanism (SPV, secondary, or personal legacy check attributed to firm) not independently confirmable. | — | Fintech/crypto | IPO (NASDAQ: COIN, 2021-04-14) [^12][^50] |
 | Lucy | Seed | ~2018 | Health/wellness | Active [^22] |
 | Kin Euphorics | Seed | ~2019 | Consumer/wellness | Active [^4] |
 | Knowde | Seed | 2018 | Chemicals marketplace | Active [^23] |
 | PathAI | Series C | 2021 | Health/diagnostics | Acquired (Quest Diagnostics, 2024) [^24] |
-| Betty Labs | — | ~2019 | Consumer/sports | Acquired (Spotify, 2021) [^15] |
+| Betty Labs | Aggregator-only Refactor attribution — Refactor's own portfolio page [^12] lists Betty Labs as an "Exit" but the only publicly-announced Betty Labs seed round (USD 9.3M, 2020-10-27, led by GV / Google Ventures with participation from Lightspeed Venture Partners, Amazon Alexa Fund, Precursor Ventures, Chapter One Ventures, Maveron, MaC Venture Capital, M13, and NBA angels Kevin Durant, Andre Iguodala, Baron Davis) does NOT name Refactor Capital in primary press [^15][^51]. Round type/date/mechanism (direct participation, SPV, or secondary) not independently confirmable. | — | Consumer/sports | Acquired (Spotify, 2021-03-30) [^12][^15] |
 | Able | Seed | ~2016 | Healthtech | Acquired (Health Catalyst, $27M, 2020) [^25] |
 | 64x Bio | Seed | ~2020 | Biotech | Active [^12] |
 | Gencove | Seed | 2017 | Genomics | Active [^26] |
@@ -127,7 +127,7 @@ Based on 55 verified portfolio companies from the firm's website [^12], Refactor
 | Pilgrim Labs | Seed | ~2024 | Defense/biotech | Active [^12] |
 | TBC | Seed | ~2024 | Biological computing | Active [^12] |
 
-*Note: Years marked with "~" are estimates based on company founding dates or fund deployment timelines, not confirmed investment dates. Most entries without independent round confirmation are labeled "Seed" consistent with the firm's stated strategy of leading seed rounds. This table represents approximately half of Refactor's 100+ total investments. Coinbase and Headspace investment rounds could not be independently confirmed and may have been made through SPVs or secondary transactions.*
+*Note: Years marked with "~" are estimates based on company founding dates or fund deployment timelines, not confirmed investment dates. Most entries without independent round confirmation are labeled "Seed" consistent with the firm's stated strategy of leading seed rounds. This table represents approximately half of Refactor's 100+ total investments. Coinbase, Headspace, and Betty Labs are aggregator-only attributions — Refactor's website lists them as portfolio companies (Coinbase and Betty Labs under "Exits"), but none of the primary press coverage of these companies' funding rounds names Refactor Capital as a participant. Coinbase is particularly notable: Refactor did not exist until 2016, well after Coinbase's YC seed (2012); co-founder David Lee's Coinbase involvement was through SV Angel, a separate prior firm. These attributions may reflect SPVs, secondary purchases, or personal legacy checks by the founders that are counted toward the firm's brand portfolio.*
 
 ## In Their Own Words
 
@@ -203,3 +203,8 @@ No independently sourced founder testimonials found. Refactor Capital's website 
 [^44]: Cosmetics & Toiletries, "Macro Oceans, Everything Seaweed Deal to Accelerate Scale-up of Low Carbon Kelp Biomaterials," October 2024. https://www.cosmeticsandtoiletries.com/news/companies/news/22924938/macro-oceans-macro-oceans-everything-seaweed-deal-to-accelerate-scaleup-of-low-carbon-kelp-biomaterials
 [^45]: BusinessWire, "Causal Labs Raises $6M Seed Funding to Build AI for Weather Prediction and Control," March 12, 2025. https://www.businesswire.com/news/home/20250312474306/en/Causal-Labs-Raises-$6M-Seed-Funding-to-Build-AI-for-Weather-Prediction-and-Control
 [^46]: Refactor Capital blog, "Causal Labs: A Foundation Model for Physics, Weather, and the Future of AI," accessed July 2026. https://refactor.com/posts/causal-labs-a-foundation-model-for-physics-weather-and-the-future-of-ai
+[^47]: TechCrunch, "Meditation Startup Headspace Raises $30 Million To Help You Be More Mindful," September 21, 2015. https://techcrunch.com/2015/09/21/meditation-startup-headspace-raised-30-million-to-help-you-be-more-mindful/
+[^48]: Fortune, "Headspace funding," June 30, 2017. https://fortune.com/2017/06/30/headspace-funding
+[^49]: Crunchbase News, "Meditation App Headspace Closes On $93M Series C, Eyes Continued Global Expansion," February 2020. https://news.crunchbase.com/venture/meditation-app-headspace-closes-on-93m-series-c-eyes-continued-global-expansion/
+[^50]: Coinbase Blog / SEC S-1, Coinbase Global Inc. direct listing on Nasdaq under ticker COIN, April 14, 2021 (widely reported). https://www.coinbase.com/blog/coinbase-is-a-public-company
+[^51]: Lightspeed Venture Partners portfolio page, "Betty Labs," accessed July 2026. https://lsvp.com/company/betty-labs/

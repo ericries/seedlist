@@ -57,9 +57,9 @@ firms:
 - round: Series D (Lead)
   slug: ivp
   year: 2017
-- round: Seed
+- round: Aggregator-only attribution (Refactor Capital did not exist in 2012 — founded 2016; co-founder David Lee invested via SV Angel; likely SPV or secondary)
   slug: refactor-capital
-  year: 2012
+  year: 2016
 - round: Angel
   slug: true-ventures
   year: 2018
