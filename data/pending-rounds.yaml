@@ -64,22 +64,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Freehand Raises $75M Series B To Automate Fortune 500 Supply Chain Spend
-  url: https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/
-  source: crunchbase
-  date_found: '2026-07-29'
-  parsed_company: Freehand
-  parsed_amount: $75M
-  parsed_round: Series B
-  status: pending
-- title: Encore AI raises $30M to build AI agents that learn from customer calls
-  url: https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/
-  source: techcrunch
-  date_found: '2026-07-29'
-  parsed_company: Encore AI
-  parsed_amount: $30M
-  parsed_round: null
-  status: pending
 - title: Zürich-based ZuriQ raises €22.4 million to scale its 2D trapped-ion quantum
     processors
   url: https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/
@@ -163,14 +147,6 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Fish Audio raises $52M seed to build AI voice models for creators and enterprises
-  url: https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/
-  source: techcrunch
-  date_found: '2026-07-28'
-  parsed_company: Fish Audio
-  parsed_amount: $52M
-  parsed_round: Seed
   status: pending
 - title: u003eThe company raised $5B
   url: https://www.axios.com/newsletters/axios-pro-rata
