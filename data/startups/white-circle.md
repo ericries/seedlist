@@ -1,5 +1,8 @@
 ---
-firms: []
+firms:
+- round: Seed ($11M)
+  slug: sentry
+  year: 2026
 founded: 2024
 founders:
 - name: Denis Shilov
@@ -11,6 +14,9 @@ investors:
 - slug: durk-kingma
 - slug: thomas-wolf
 - slug: guillaume-lample
+- round: Seed ($11M)
+  slug: david-cramer
+  year: 2026
 last_researched: 2026-05-12
 location: Paris, France
 name: White Circle

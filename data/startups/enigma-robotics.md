@@ -12,6 +12,12 @@ firms:
   round: seed
   slug: conviction
   year: 2026
+- round: ~2019
+  slug: nea
+  year: 2019
+- round: Pre-Seed
+  slug: independent
+  year: 2021
 founded: 2024
 founders:
 - name: Jonathan Jacobi
@@ -23,6 +29,12 @@ investors:
   round: seed
   slug: sarah-guo
   year: 2026
+- round: ~2019
+  slug: scott-sandell
+  year: 2019
+- round: Pre-Seed
+  slug: wences-casares
+  year: 2021
 last_researched: 2026-07-28
 location: Tel Aviv, Israel / California
 name: Enigma

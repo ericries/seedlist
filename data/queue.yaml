@@ -29000,7 +29000,7 @@ queue:
 - name: David Cramer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Sentry
   discovered_from: karri-saarinen
@@ -33240,7 +33240,7 @@ queue:
 - name: Arthur Mensch
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Mistral AI
   discovered_from: guillaume-lample
@@ -42413,3 +42413,132 @@ queue:
   added: '2026-03-17'
   firm: Cherryrock Capital
   discovered_from: flourish-health
+- name: Lemni
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arthur-mensch
+- name: Mirelo AI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arthur-mensch
+- name: Biorce
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arthur-mensch
+- name: Parallel (beparallel.com)
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arthur-mensch
+- name: Frst Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: arthur-mensch
+- name: Florian Douetteau
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Dataiku (angel)
+  discovered_from: arthur-mensch
+- name: Nik Storonsky
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Revolut (angel)
+  discovered_from: arthur-mensch
+- name: Scott Wu
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cognition (angel)
+  discovered_from: arthur-mensch
+- name: Christian Reber
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pitch/Superlist (angel)
+  discovered_from: arthur-mensch
+- name: Sentry
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cramer
+- name: Chris Jennings
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Sentry
+  discovered_from: david-cramer
+- name: Dave Rosenthal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Sentry
+  discovered_from: david-cramer
+- name: Ben Vinegar
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Modem (ex-Sentry angel)
+  discovered_from: david-cramer
+- name: Ivan Zhang
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Cohere (angel)
+  discovered_from: david-cramer
+- name: Taylor Otwell
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Laravel (angel/founder)
+  discovered_from: david-cramer
+- name: Blacksmith
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cramer
+- name: Kernel
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cramer
+- name: Modem
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cramer
+- name: Laravel
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cramer
+- name: Strapi
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-cramer

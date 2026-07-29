@@ -17,6 +17,9 @@ firms:
 - round: Series A
   slug: replit
   year: 2024
+- round: Angel (pre-Series A)
+  slug: mistral-ai
+  year: 2024
 founded: 2022
 founders:
 - name: Gavin Uberti
@@ -34,6 +37,9 @@ investors:
   year: 2024
 - round: Series A
   slug: amjad-masad
+  year: 2024
+- round: Angel (pre-Series A)
+  slug: arthur-mensch
   year: 2024
 last_researched: 2026-07-24
 location: Cupertino, CA
