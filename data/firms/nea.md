@@ -115,9 +115,9 @@ team:
 type: firm
 website: https://www.nea.com
 last_verified_investment:
-  date: 2026-07-01
-  company: "Twelve Labs"
-  round: "Series B (co-led with NAVER Ventures)"
+  date: 2026-07-29
+  company: "P-1 AI"
+  round: "Series A (led, $50M)"
 ---
 
 ## About
@@ -180,6 +180,7 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 | Corca | Seed (led, $7.8M) | 2026-06-10 | AI/Scientific Computing | Active [^25][^26][^27] |
 | Twelve Labs | Series B (co-led, $100M with NAVER Ventures) | 2026-07-01 | AI/Video Foundation Models | Active [^28] |
 | Singularity | Series A (existing seed investor participating; $80M at $400M post-money; Khosla Ventures + Felicis co-led; AE Ventures also existing seed; Long Journey, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, Soma participated) | 2026-07-14 | Defense / Aerospace / Deep Tech | Active [^31][^32][^33] |
+| P-1 AI | Series A (led, $50M; Radical Ventures + angels) | 2026-07-29 | AI / Engineering / Hardware | Active [^34][^35] |
 
 *This table represents a very small fraction of NEA's portfolio. The firm has participated in 284+ IPOs and 500+ acquisitions over its 48-year history [^4][^5].*
 
@@ -247,3 +248,5 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^32]: Duncan Riley, "Singularity lands $80M at $400M valuation to build cheap drone interceptors," SiliconANGLE, July 14, 2026. Accessed July 19, 2026. https://siliconangle.com/2026/07/14/singularity-lands-80m-400m-valuation-build-cheap-drone-interceptors/ — Independent tech press coverage confirming NEA's Series A participation as returning seed investor.
 
 [^33]: Dan Primack, "Air-defense startup Singularity secures $80 million," Axios, July 14, 2026. Accessed July 19, 2026. https://www.axios.com/2026/07/14/singularity-air-defense-seriesa-venture-oswald — Third-party primary confirmation via Axios Pro Rata reporting.
+[^34]: GlobeNewswire, "Engineering AI startup, P-1 AI, Announces Its Series A Financing Led by NEA, Adding Jeff Immelt to the Company's Board," July 29, 2026. Accessed July 2026. https://www.globenewswire.com/news-release/2026/07/29/3335235/0/en/Engineering-AI-startup-P-1-AI-Announces-Its-Series-A-Financing-Led-by-NEA-Adding-Jeff-Immelt-to-the-Company-s-Board.html
+[^35]: Dealroom, "P-1 AI raises $50M Series A led by NEA, adds ex-GE CEO Jeff Immelt to board," July 29, 2026. Accessed July 2026. https://app.dealroom.co/news/feed/p-1-ai-raises-50m-series-a-led-by-nea-adds-ex-ge-ceo-jeff-immelt-to-board
