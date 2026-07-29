@@ -1,4 +1,10 @@
 priority:
+- slug: 7wire-ventures
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-28: tightened 3 vague Portfolio rows on 7wire-ventures.md via 3 primary sources each. (1) FOLX HEALTH: ''Series B | 2022'' → ''Series B ($30M; 7wireVentures led; Foresite Capital new; Bessemer, Define, Polaris returning) | 2022-10-12'' via existing PR Newswire [^38] + NEW PR Newswire primary [^64] + NEW WWD [^65]. (2) MEDARRIVE: ''Series A | 2021'' → ''Series A ($25M; Section 32 led; 7wireVentures, Leaps by Bayer new; Define, Kleiner Perkins, Redesign Health returning) | 2021-11-17'' via existing GlobeNewswire [^40] + NEW GlobeNewswire primary [^66] + NEW HIT Consultant [^67]. (3) WELLTHEORY: ''Early | 2022'' CORRECTED to ''Series A ($14M; General Catalyst led; 7wire Ventures, Ingeborg Investments, Up2 Opportunity Fund new; Accel, Box Group returning) | 2025-10-14'' — 7wire did NOT invest in the 2022 seed (Accel-led without 7wire); their first check was the 2025 Series A. Via NEW BusinessWire [^68] + NEW MobiHealthNews [^69] + HLTH News cross-check. 6 new footnotes added ([^64]-[^69]).'
+  added: 2026-07-28
+  status: resolved
+  resolved: 2026-07-28
 - slug: better-tomorrow-ventures
   type: firm
   reason: 'Fact-spec sweep 2026-07-24: CORRECTED wrong year on Meroka row (had ''2024'', actual round 2025-09-03). Updated to ''2025-09-03 | Seed (co-led with Slow Ventures, $6M; 8VC and other investors

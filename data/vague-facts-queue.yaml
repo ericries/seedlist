@@ -788,7 +788,12 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-28: tightened FOLX Health Series B row
+    from year-only 2022 to 2022-10-12 with $30M amount and full syndicate (7wireVentures
+    lead; Foresite Capital new; Bessemer, Define, Polaris returning). Verified via
+    3 primary sources: existing PR Newswire [^38] (2022-10-12), NEW PR Newswire
+    primary [^64] (2022-10-12), NEW WWD [^65] (2022-10-12). 2 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Parsley Health
@@ -839,7 +844,13 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-28: tightened MedArrive Series A row
+    from year-only 2021 to 2021-11-17 with $25M amount and full syndicate (Section 32
+    led; 7wireVentures, Leaps by Bayer new; Define Ventures, Kleiner Perkins, Redesign
+    Health returning). Verified via 3 primary sources: existing GlobeNewswire [^40]
+    (2021-11-17), NEW GlobeNewswire primary [^66] (2021-11-17), NEW HIT Consultant
+    [^67] (2021-11-17). 2 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: WellTheory
@@ -849,7 +860,15 @@ vague_facts:
   line: '| WellTheory | Early | 2022 | Autoimmune care | Active | [^28][^42] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-28: CORRECTED WellTheory row — 7wire
+    did NOT participate in the 2022 seed round (that was Accel-led with Lux, Box Group,
+    Scribble Ventures, Rock Health). 7wire''s actual first check was the 2025-10-14
+    Series A: $14M, General Catalyst led, 7wire Ventures, Ingeborg Investments, Up2
+    Opportunity Fund new; Accel, Box Group returning. Verified via 3 primary sources:
+    NEW BusinessWire [^68] (2025-10-14), NEW MobiHealthNews [^69] (2025-10-14), plus
+    HLTH News (2025-10-15) cross-check. Row corrected from year-only 2022 to Series A
+    2025-10-14. 2 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Override
@@ -25232,7 +25251,17 @@ vague_facts:
   line: '| Headspace | — | ~2017 | Health/wellness | Active [^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_notes: 'Fact-spec sweep 2026-07-28: aggregator-only Refactor attribution.
+    Crunchbase News (May 2019) [^4] names Headspace as a Refactor portfolio company
+    but Headspace''s primary press-covered rounds — Series A (2015-09-17, $34.3M,
+    Chernin Group led per TechCrunch [^47]), Series B (2017-06-30, $37M, Spectrum
+    Equity led per Fortune [^48]), Series C (2020-02, $93M, blisce/ led per Crunchbase
+    News [^49]) — do NOT name Refactor Capital as a participant. Refactor row updated
+    to annotate the aggregator-only pattern. Round type/date/mechanism (direct participation,
+    SPV, or secondary) cannot be independently confirmed after checking Tracxn full
+    round list, TechCrunch, Fortune, and Refactor''s own posts/blog (no Headspace
+    writeup). Added [^47], [^48], [^49].'
 - profile: firms/refactor-capital
   profile_name: Refactor Capital
   company: Coinbase
@@ -25242,7 +25271,17 @@ vague_facts:
   line: '| Coinbase | — | ~2017 | Fintech/crypto | IPO ($COIN) [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_notes: 'Fact-spec sweep 2026-07-28: aggregator-only Refactor attribution
+    that is provably impossible for the years shown. Refactor Capital was not founded
+    until 2016 (incorporated ~August 2015 per TechCrunch [^2]) — Coinbase''s YC seed
+    was 2012, Series A (Union Square Ventures) was 2013-05-08, Series B (a16z) was
+    2013-12-12. Co-founder David Lee invested in Coinbase in 2012 while at SV Angel,
+    a separate prior firm. Refactor''s own website [^12] lists Coinbase under "Exits"
+    — likely reflects SPV, secondary purchase, or personal-legacy attribution. Refactor
+    row updated to state the timeline issue explicitly. Coinbase startup profile
+    also updated to annotate the Refactor entry. Added [^50] for the 2021 direct
+    listing.'
 - profile: firms/refactor-capital
   profile_name: Refactor Capital
   company: Betty Labs
@@ -25253,7 +25292,16 @@ vague_facts:
     |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_notes: 'Fact-spec sweep 2026-07-28: aggregator-only Refactor attribution.
+    Betty Labs'' only publicly-announced funding round (Seed, $9.3M, 2020-10-27,
+    GV led with Lightspeed / Alexa Fund / Precursor Ventures / Chapter One / Maveron
+    / MaC Venture Capital / M13 + NBA angels Kevin Durant, Andre Iguodala, Baron
+    Davis per dot.LA, Lightspeed portfolio page [^52], and Tracxn) does NOT name
+    Refactor Capital. Refactor''s own portfolio page [^12] lists Betty Labs under
+    "Exits" — likely reflects SPV, secondary, or personal check attribution. Refactor
+    row updated. Spotify acquired Betty Labs 2021-03-30 per CNBC [^15]. Added
+    [^51] (Lightspeed portfolio page).'
 - profile: firms/revolution
   profile_name: Revolution
   company: Sweetgreen
@@ -210389,7 +210437,9 @@ vague_facts:
     |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-28: date tightened to 2022-10-12 with
+    full syndicate detail (see companion unknown_value entry). 2 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: PayZen
@@ -210425,7 +210475,9 @@ vague_facts:
     |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-28: date tightened to 2021-11-17 with
+    full syndicate detail (see companion unknown_value entry). 2 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: WellTheory
@@ -210435,7 +210487,10 @@ vague_facts:
   line: '| WellTheory | Early | 2022 | Autoimmune care | Active | [^28][^42] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-28: CORRECTED — 7wire''s investment is
+    actually the 2025-10-14 Series A, not the 2022 seed (which was Accel-led without
+    7wire). Row updated with full syndicate. 2 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Override

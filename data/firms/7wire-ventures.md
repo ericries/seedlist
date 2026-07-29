@@ -101,13 +101,13 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 | Brightline | Series B ($72M; GV lead; Optum Ventures, 7wireVentures, Gaingels new; Oak HC/FT, Threshold Ventures, Blue Shield of California, Blue Cross Blue Shield of Massachusetts, SemperVirens VC, City Light Capital returning) | 2021-06-16 | Pediatric behavioral health | Active | [^23][^56][^57] |
 | Jasper Health | Seed ($6.75M; co-led by 7wireVentures and Redesign Health) | 2021-05-12 | Oncology care navigation | Active | [^25][^36][^58][^59] |
 | Zerigo Health | Early | 2014 | Dermatology / phototherapy | Active | [^20][^37] |
-| FOLX Health | Series B | 2022 | LGBTQIA+ virtual care | Active | [^21][^38] |
+| FOLX Health | Series B ($30M; 7wireVentures led; Foresite Capital new; Bessemer Venture Partners, Define Ventures, Polaris Partners returning) | 2022-10-12 | LGBTQIA+ virtual care | Active | [^21][^38][^64][^65] |
 | Parsley Health | Growth | 2023-10 | Chronic disease virtual clinic | Active | [^26][^5] |
 | PayZen | Series A ($15M; SignalFire lead; Link Ventures, 7wireVentures new; Viola Ventures, Picus Capital returning) | 2021-11-17 | Healthcare affordability | Active | [^18][^39][^60][^61] |
 | Homethrive | Series A (USD 18M; co-led by 7wireVentures and Pitango HealthTech; no other participants named in primary press) | 2020-10-28 | Caregiving / aging in place | Active | [^19][^24][^62][^63] |
-| MedArrive | Series A | 2021 | At-home care delivery | Active | [^22][^40] |
+| MedArrive | Series A ($25M; Section 32 led; 7wireVentures, Leaps by Bayer new; Define Ventures, Kleiner Perkins, Redesign Health returning) | 2021-11-17 | At-home care delivery | Active | [^22][^40][^66][^67] |
 | GroundGame.Health | Series A | 2024 | Population health / SDOH | Active | [^27][^41] |
-| WellTheory | Early | 2022 | Autoimmune care | Active | [^28][^42] |
+| WellTheory | Series A ($14M; General Catalyst led; 7wire Ventures, Ingeborg Investments, Up2 Opportunity Fund new; Accel, Box Group returning) | 2025-10-14 | Autoimmune care | Active | [^28][^42][^68][^69] |
 | Override | Seed | 2022 | Chronic pain management | Active | [^29][^43] |
 | When Insurance | Series A | 2026-02-02 | Severance insurance | Active | [^11][^44] |
 | ConsejoSano | Series A (USD 4.9M; 7wire Ventures led; Tufts Health Ventures, TOTAL Impact Capital, Wanxiang Healthcare Investments, Acumen, Oxeon Partners, Impact Engine participated; post-round total raised USD 7.2M; company later rebranded to SameSky Health) | 2017-02-21 | Hispanic telehealth | Merged (into GroundGame.Health, April 2024) | [^6][^53][^54][^55] |
@@ -226,3 +226,15 @@ No additional independently sourced founder testimonials found beyond 7wire's ow
 [^62]: Benzinga, "Homethrive Announces $18 Million Series A Funding Led by 7wireVentures and Pitango HealthTech," October 28, 2020, accessed July 2026. https://www.benzinga.com/pressreleases/20/10/p18096310/homethrive-announces-18-million-series-a-funding-led-by-7wireventures-and-pitango-healthtech — Contemporaneous press release syndication confirming Homethrive's USD 18M Series A on 2020-10-28, co-led by 7wireVentures and Pitango HealthTech. No other investors named.
 
 [^63]: VC Advisor Online, "Homethrive Announces $18 Million Series A Funding Led by 7wireVentures and Pitango HealthTech," October 28, 2020, accessed July 2026. https://www.vcaonline.com/news/2020102815/homethrive-announces-18-million-series-a-funding-led-by-7wireventures-and-pitango-healthtech/ — Third independent primary press confirmation of the USD 18M Series A on 2020-10-28 with 7wireVentures and Pitango HealthTech as sole named investors.
+
+[^64]: WWD (Kathryn Hopkins), "Folx Health Closes $30 Million Series B Fund Led by 7wireVentures," October 12, 2022. Accessed July 2026. https://wwd.com/beauty-industry-news/wellness/folx-health-closes-30-million-series-b-fund-1235385788/ — Independent contemporaneous press confirmation of FOLX Health's $30M Series B on 2022-10-12, 7wireVentures lead, with quote from CEO Liana Douillet Guzman. Names Foresite Capital as new participant plus Bessemer, Define, and Polaris returning.
+
+[^65]: Femtech Insider, "FOLX Health Adds $30M in Series B Funding; Now Offers Family Planning and Fertility Services," October 12, 2022. Accessed July 2026. https://femtechinsider.com/folx-health-series-b/ — Third independent primary confirmation of FOLX Health's $30M Series B on 2022-10-12, 7wireVentures lead, matching syndicate. Notes Lee Shapiro joined FOLX board.
+
+[^66]: HIT Consultant, "Home Care Startup MedArrive Raises $25M for Affordable At-Home Care," November 17, 2021. Accessed July 2026. https://hitconsultant.net/2021/11/17/home-care-startup-medarrive-funding/ — Independent trade-press primary confirmation of MedArrive's $25M Series A on 2021-11-17, Section 32 lead, full participant list matches company press release (7wireVentures and Leaps by Bayer new; Define Ventures, Kleiner Perkins, Redesign Health returning). Andy Harrison joined board; Alyssa Jaffee joined as board observer.
+
+[^67]: Fierce Healthcare, "MedArrive nabs $25M to ramp up at-home health services, expand into new states," November 17, 2021. Accessed July 2026. https://www.fiercehealthcare.com/tech/medarrive-nabs-25m-to-ramp-up-at-home-health-services — Third independent primary confirmation of MedArrive's $25M Series A on 2021-11-17, Section 32 led, 7wireVentures new investor, syndicate matches.
+
+[^68]: MobiHealthNews, "WellTheory raises $14M for virtual autoimmune care platform," October 14, 2025. Accessed July 2026. https://www.mobihealthnews.com/news/welltheory-raises-14m-virtual-autoimmune-care-platform — Independent trade-press primary confirmation of WellTheory's $14M Series A on 2025-10-14, General Catalyst lead, with 7wire Ventures named as new investor (plus Ingeborg Investments, Up2 Opportunity Fund new; Accel, Box Group returning). Corrects an earlier assumption that 7wire participated in the 2022 seed — 7wire's first check was this Series A.
+
+[^69]: HLTH News, "WellTheory Raises $14M to Expand Virtual Autoimmune Care Platform," October 15, 2025. Accessed July 2026. https://hlth.com/insights/news/welltheory-raises-14m-to-expand-virtual-autoimmune-care-platform-2025-10-15 — Third independent primary confirmation of WellTheory's $14M Series A on 2025-10-14, General Catalyst led, with 7wire Ventures among new investors alongside Ingeborg Investments and Up2 Opportunity Fund.
