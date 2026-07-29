@@ -4747,3 +4747,11 @@ priority:
   type: investor
   reason: 'appeared in Pilot Protocol Seed (2026-07-27)'
   added: 2026-07-28
+- slug: bessemer-venture-partners
+  type: firm
+  reason: 'participated in Sent Series A (2026-07-28), $12M'
+  added: 2026-07-28
+- slug: kent-bennett
+  type: investor
+  reason: 'quoted on Sent Series A (2026-07-28), $12M'
+  added: 2026-07-28

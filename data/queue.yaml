@@ -42586,3 +42586,41 @@ queue:
   added: '2026-03-17'
   firm: Pilot Protocol
   discovered_from: pilot-protocol
+- name: Companyon Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sent
+- name: Urban Innovation Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sent
+- name: CP Overture
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sent
+- name: Andrew Berg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Companyon Ventures
+  discovered_from: sent
+- name: Treehouse Family Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: claros-technologies
+- name: Jack Cogen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Treehouse Family Capital
+  discovered_from: claros-technologies

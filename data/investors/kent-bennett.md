@@ -3,9 +3,9 @@ check_size: $10M-$25M
 firm: bessemer-venture-partners
 last_researched: 2026-03-24
 last_verified_investment:
-  company: Hatch
-  date: ~2026
-  round: Growth (acq. by Yelp 2026)
+  company: Sent
+  date: 2026-07-28
+  round: Series A ($12M, Companyon led)
 location: Cambridge, MA
 name: Kent Bennett
 role: Partner
@@ -106,6 +106,7 @@ Bennett is primarily a Series A investor who leads initial institutional rounds 
 | Brisk Teaching | 2025 | Series A (led) | [^12] |
 | Miter | 2025 | Series A (led) | [^7] |
 | Strella | 2025 | Series A | [^15] |
+| Sent | 2026-07-28 | Series A ($12M; Companyon Ventures led) | [^sent-a] |
 
 This table represents approximately 20 distinct companies. Bennett has 33 investments on record according to aggregator sites [^17], suggesting this table captures roughly 60% of his known portfolio.
 
@@ -182,3 +183,4 @@ Bennett's BVP bio notes that he takes "a rational, straightforward, and steady a
 [^17]: VCSheet, "Kent Bennett (Bessemer Venture Partners)," accessed March 2026. https://www.vcsheet.com/who/kent-bennett
 [^18]: TechCrunch, "Toast's Aman Narang and BVP's Kent Bennett on how customer obsession is everything," June 2021, accessed March 2026. https://techcrunch.com/2021/06/08/toasts-aman-narang-and-bvps-kent-bennett-on-how-customer-obsession-is-everything/
 [^19]: TechCrunch, "GlossGenius closes on $16.4M to serve as a 'business in a box' for the beauty and wellness industry," November 2021, accessed March 2026. https://techcrunch.com/2021/11/16/glossgenius-closes-on-16-4m-to-serve-as-a-business-in-a-box-for-the-beauty-and-wellness-industry/
+[^sent-a]: "Sent Raises $12M Series A to Supercharge AI Messaging Infrastructure," GlobeNewswire, July 28, 2026, accessed July 2026. https://www.globenewswire.com/news-release/2026/07/28/3334213/0/en/Sent-Raises-12M-Series-A-to-Supercharge-AI-Messaging-Infrastructure.html — Confirms Bessemer participation and Kent Bennett attributed quote on Sent Series A.
