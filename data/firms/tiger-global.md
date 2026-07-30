@@ -214,7 +214,7 @@ The following table includes Tiger Global private investments verified through C
 | Uber | Growth | ~2017 | Consumer / Ride-hailing | Public (IPO 2019) [^2] |
 | IrokoTV | Growth | ~2012 | Consumer / Streaming (Africa) | Private [^16] |
 | Upscale AI | Series A-1 (existing investor; Premji Invest-led, $190M at $2B post-money) | 2026-06-22 | AI / Networking Infrastructure | Private [^23][^24][^25] |
-| Augustus | Series B (led, $180M at $1B post-money) | 2026-07-21 | Fintech / Stablecoin Clearing Bank | Private [^26][^27] |
+| Augustus | Series B (led, $180M at $1B post-money) | 2026-07-21 | Fintech / Stablecoin Clearing Bank | Private [^26][^27][^28] |
 
 *Note: This table includes 37 companies out of ~790 active portfolio companies (~5%). Many investment years are approximate, marked with "~", where exact dates are not publicly confirmed. Tiger Global frequently participates in multiple rounds of the same company; the stage listed reflects the first or most significant known investment.*
 
@@ -325,3 +325,5 @@ The same founder later reflected on the downturn: "Too much money fucked us, bas
 [^26]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
 
 [^27]: CoinDesk, "Stablecoin bank Augustus raises $180 million to build a clearing bank for the AI era," July 21, 2026. Accessed July 22, 2026. https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era
+
+[^28]: Decrypt, "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'," July 21, 2026. Accessed July 30, 2026. https://decrypt.co/373996/augustus-raises-180-million-stablecoin-global-dollar-bank — Third independent tier-1 crypto press confirmation of $180M Series B at $1B valuation led by Tiger Global on 2026-07-21; other named participants Hummingbird, QED, founders of Nubank, Ramp, Circle, and Deel; $210M total raised since 2022 founding.

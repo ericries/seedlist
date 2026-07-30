@@ -121,7 +121,7 @@ Based on 8VC's verified portfolio and public data:
 | Bespoke Labs | Seed (led, $8.25M portion) — combined $40M Seed + Series A announced 2026-07-06 (Wing led $31.75M Series A) | 2026-07-06 | AI / RL Environments / Data Curation | Private [^36][^37][^38][^39] |
 | Ollama | Series B (participated, $65M; Theory Ventures led; Benchmark also participated) | 2026-07-09 | AI / Developer Tools / Open Source Models | Private [^40][^41] |
 | Sable | Series A ($45M, co-led with Sequoia; Joe Lonsdale joined board) | 2026-07-16 | AI / Sales Enablement | Private [^42][^42b][^42c] |
-| Sila | Late-stage private ($300M; Atreides Management & Sutter Hill Ventures co-led; Bessemer, Matrix Partners, T. Rowe Price participated) | 2026-07-21 | Battery Materials / Cleantech | Private [^43][^44] |
+| Sila | Late-stage private ($300M; Atreides Management & Sutter Hill Ventures co-led; Bessemer, Matrix Partners, T. Rowe Price participated) | 2026-07-21 | Battery Materials / Cleantech | Private [^43][^44][^48] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -222,3 +222,5 @@ No independently sourced founder testimonials found.
 [^46]: Caproasia, "United States Wealth & Investment Management Tech & Data Platform Addepar Raised $230 Million in Series G Funding at $3.25 Billion Valuation, Founded in 2009 by Palantir Technologies Co-Founder Joe Lonsdale & ex-Employee Jason Mirra," May 14, 2025. Accessed July 2026. https://www.caproasia.com/2025/05/14/united-states-wealth-investment-management-tech-data-platform-addepar-raised-230-million-in-series-g-funding-at-3-25-billion-valuation-founded-in-2009-by-palantir-technologies-co-founder-joe-lo/ — Confirms Addepar founded 2009 by Joe Lonsdale and Jason Mirra; first Series A (~$1.1M) in 2010; Series B ($15.8M) on June 15, 2011.
 
 [^47]: FinSMEs, "OpenGov Raises $15M in Series B Funding," May 2014. Accessed July 2026. https://www.finsmes.com/2014/05/opengov-raises-15m-in-series-b-funding.html — Confirms OpenGov founded 2012 by Zachary Bookman, Joe Lonsdale, Nate Levine, and Dakin Sloss; $15M Series B in May 2014 led by Andreessen Horowitz with Formation 8 (8VC predecessor) and Thrive Capital participating.
+
+[^48]: Sila Nanotechnologies (company press release), "Sila Secures $300 Million in Private Funding to Ramp Gigascale Anode Manufacturing and Strengthen America's Technology Sovereignty," July 21, 2026. Accessed July 30, 2026. https://www.silanano.com/press/press-releases/sila-secures-300-million-in-private-funding-to-ramp-gigascale-anode-manufacturing-and-strengthen-americas-technology-sovereignty — Primary company source confirming $300M private round led by Atreides Management and Sutter Hill Ventures with participation from 8VC, Bessemer Venture Partners, Matrix Partners, and T. Rowe Price Associates. Announced July 21, 2026.
