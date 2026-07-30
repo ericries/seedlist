@@ -34,9 +34,10 @@ firms:
 - round: '2008'
   slug: spark-capital
   year: 2008
-- round: '2009'
+- round: Series D ($100M)
   slug: insight-partners
   year: 2009
+  date: 2009-09-25
 - round: '2007'
   slug: union-square-ventures
   year: 2007
@@ -102,9 +103,10 @@ investors:
 - round: '2008'
   slug: bijan-sabet
   year: 2008
-- round: '2009'
+- round: Series D ($100M)
   slug: deven-parekh
   year: 2009
+  date: 2009-09-25
 - round: '2007'
   slug: fred-wilson
   year: 2007
@@ -164,7 +166,7 @@ Twitter went public on November 7, 2013, on the New York Stock Exchange under th
 | Series A | July 2007 | $5M | Union Square Ventures | Spark Capital, Digital Garage [^2][^8] |
 | Series B | 2008 | $22M | Spark Capital | Jeff Bezos, Union Square Ventures, Digital Garage [^1][^2] |
 | Series C | Feb 2009 | $35M | Benchmark Capital | Institutional Venture Partners, Union Square Ventures, Spark Capital, Insight Venture Partners [^1][^9] |
-| Series D | Sep 2009 | $100M | Insight Venture Partners | T. Rowe Price [^2][^10] |
+| Series D | 2009-09-25 | $100M | Insight Venture Partners | T. Rowe Price, Morgan Stanley, IVP, Spark Capital, Benchmark Capital [^10][^13][^14] |
 | Series E | Aug 2010 | $800M | DST Global (Digital Sky Technologies) | — [^1] |
 | Series F | Dec 2010 | $200M | Kleiner Perkins | — [^1] |
 | Series G | Jul 2011 | $400M | DST Global | — [^4] |
@@ -200,3 +202,5 @@ Evan Williams reflected on the experience of building Twitter: "We built this th
 [^10]: "Twitter Funding Rounds, Valuation & Investors," Wellfound, accessed March 2026. https://wellfound.com/company/twitter/funding
 [^11]: "38 Inspiring Jack Dorsey Quotes," Gracious Quotes, accessed March 2026. https://graciousquotes.com/jack-dorsey/
 [^12]: "They helped start Twitter. They didn't realize what it would become," CNN Business, March 2025, accessed March 2026. https://www.cnn.com/2025/03/15/tech/twitter-x-history-breaking-the-bird
+[^13]: "Twitter Closes Its $100 Million Round," TechCrunch, September 25, 2009. Accessed July 2026. https://techcrunch.com/2009/09/25/twitter-closes-its-100-million-round/ — Confirms $100M round closed September 25, 2009 with Insight Venture Partners, T. Rowe Price, and Morgan Stanley as new investors alongside existing investors IVP, Spark Capital, and Benchmark Capital.
+[^14]: Evan Williams, "New Twitter Funding," Twitter Blog, September 26, 2009 (redirects from blog.twitter.com to blog.x.com). Accessed July 2026. https://blog.twitter.com/en_us/a/2009/new-twitter-funding — Twitter's own announcement of the funding, naming Insight Venture Partners among the participating firms.

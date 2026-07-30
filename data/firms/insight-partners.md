@@ -108,11 +108,11 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 |---------|-------|------|--------|--------|--------|
 | SentinelOne | Series D | 2019 | Cybersecurity | Active (Public) | [^10] |
 | Wix | Series D | 2011 | Website Builder | Active (Public) | [^14] |
-| Twitter | Series D | 2009 | Social Media | Acquired (Musk, 2022) | [^15] |
+| Twitter | Series D ($100M, participated; new investor alongside T. Rowe Price and Morgan Stanley) | 2009-09-25 | Social Media | Acquired (Musk, 2022) | [^15][^55][^56] |
 | Shopify | Series A | 2010 | E-commerce SaaS | Active (Public) | [^16] |
 | Qualtrics | Series B | 2014 | Enterprise Software | Acquired (SAP/Silver Lake) | [^17] |
 | HelloFresh | Series D | 2014 | Consumer/Food | Active (Public) | [^18] |
-| Alteryx | Series B | 2014 | Data Analytics | Acquired (Clearlake) | [^19] |
+| Alteryx | Series B ($60M, led; SAP Ventures & Toba Capital participated) | 2014-10-06 | Data Analytics | Acquired (Clearlake) | [^19][^57][^58] |
 | JFrog | Series D | 2018 | DevOps | Active (Public) | [^20] |
 | nCino | Series B | 2015 | Fintech/Banking SaaS | Active (Public) | [^21] |
 | Cvent | Growth | 2011 | Event Tech | Active (Public) | [^22] |
@@ -231,6 +231,14 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^53]: "InstaLILY Raises $60 Million Series B and Launches Lily, the World's First AI Forward Deployed Engineer," Morningstar/AccessWire, July 14, 2026. Independent confirmation Insight Partners participated in $60M Series B. Accessed July 16, 2026. https://www.morningstar.com/news/accesswire/1190835msn/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-first-ai-forward-deployed-engineer
 
 [^54]: SiliconANGLE, "InstaLILY, a developer of AI teammates that can automate complex, business-specific work, raises $60M," July 14, 2026. Accessed July 16, 2026. https://siliconangle.com/2026/07/14/instalily-developer-ai-teammates-can-automate-complex-business-specific-work-raises-60m/ — Third independent tier-1 press source confirming Insight Partners participated in Energize Capital-led $60M Series B on 2026-07-14, with Home Depot Ventures and United Rentals as new strategic investors.
+
+[^55]: TechCrunch, "Twitter Closes Its $100 Million Round," September 25, 2009. Accessed July 2026. https://techcrunch.com/2009/09/25/twitter-closes-its-100-million-round/ — Confirms $100M Series D round closed September 25, 2009 with Insight Venture Partners, T. Rowe Price, and Morgan Stanley as new investors alongside existing investors IVP, Spark Capital, and Benchmark Capital.
+
+[^56]: Twitter Blog / Evan Williams, "New Twitter Funding," September 26, 2009 (redirects from blog.twitter.com to blog.x.com). Accessed July 2026. https://blog.twitter.com/en_us/a/2009/new-twitter-funding — Twitter's own announcement confirming the funding round and naming Insight Venture Partners among the participating investment firms.
+
+[^57]: Alteryx press release, "Alteryx Secures $60 Million in Funding to Meet Growing Global Demand for Data Blending and Advanced Analytics," October 6, 2014. Accessed July 2026. https://www.alteryx.com/about-us/newsroom/press-release/2014-10-06-alteryx-secures-60-million-funding-meet-growing-global-demand-data — Alteryx's own release confirming Insight Venture Partners led the $60M Series B on October 6, 2014, with participation from SAP Ventures and Toba Capital; Jeff Horing joined the board.
+
+[^58]: TechCrunch, "Alteryx Lands $60M To Boost Data Analytics App-Building Platform," October 6, 2014. Accessed July 2026. https://techcrunch.com/2014/10/06/alteryx-lands-60m-to-continue-building-data-analtyics-platform/ — Independent tier-1 press confirming Alteryx's $60M Series B led by Insight Venture Partners on October 6, 2014.
 
 [^tyto1]: Insight Partners, "TytoCare Names Adam Pellegrini as CEO and Closes $25M+ Growth Round to Scale AI-First Clinical Enablement Platform," July 15, 2026. Accessed July 19, 2026. https://www.insightpartners.com/ideas/tytocare-names-adam-pellegrini-as-ceo-and-closes-25m-growth-round-to-scale-ai-first-clinical-enablement-platform/ — Insight's own announcement confirming it led an oversubscribed $25M+ growth round in TytoCare on July 15, 2026, with HOOPP, OliveTree, OrbiMed, Qumra Capital, Qualcomm Ventures, West Fountain Global Fund, Echo Health Ventures, MTIP Health, and MemorialCare participating; Adam Pellegrini appointed CEO.
 

@@ -98,10 +98,10 @@ Based on 75 verified portfolio companies from Heavybit's website [^5]:
 | CircleCI | Seed | ~2013 | Developer Tools (CI/CD) | Active [^5] |
 | Citus Data | Seed | ~2012 | Database | Acquired by Microsoft [^5] |
 | Contentful | Seed | ~2013 | CMS | Active [^5] |
-| Continue | Seed | ~2023 | AI Developer Tools | Active [^5] |
+| Continue | Seed (led) | 2023-11-17 | AI Developer Tools | Active [^5][^11][^12] |
 | Crunchy Data | Seed | ~2017 | Database | Acquired [^5] |
 | Gradle | Seed | ~2015 | Build Automation | Active [^5] |
-| Groundcover | Seed | ~2021 | Observability | Active [^5] |
+| groundcover | Seed (participant); follow-on through Series C ($100M 2026-07-29, One Peak-led, alongside Morgan Stanley Expansion Capital, Zeev Ventures, Angular Ventures, Jibe) | 2022 (Seed); 2026-07-29 (Series C) | Observability | Active [^5][^17][^18][^19] |
 | Jeli | Seed | ~2019 | Incident Analysis | Acquired by PagerDuty [^5] |
 | Kosli | Seed | ~2020 | DevOps | Active [^5][^8] |
 | Kubiya | Seed | ~2022 | AI DevOps | Active [^5] |
@@ -110,7 +110,7 @@ Based on 75 verified portfolio companies from Heavybit's website [^5]:
 | LocalStack | Seed | ~2021 | Cloud Testing | Active [^5] |
 | Memgraph | Seed | ~2019 | Graph Database | Active [^5] |
 | MightyMeld | Seed | ~2022 | Frontend Dev Tools | Active [^5] |
-| Milestone | Seed | ~2023 | Enterprise AI | Active [^5] |
+| Milestone | Seed (co-led, $10M) | 2025-11-13 | Enterprise AI | Active [^5][^13][^14] |
 | Mobot | Seed | ~2019 | Mobile QA | Active [^5] |
 | Mux | Seed | ~2015 | Video API | Active [^5] |
 | Netlify | Seed | ~2015 | Web Platform | Active [^5] |
@@ -129,10 +129,10 @@ Based on 75 verified portfolio companies from Heavybit's website [^5]:
 | Tonic | Seed | ~2018 | Synthetic Data | Active [^5] |
 | Treasure Data | Seed | ~2013 | Customer Data | Acquired [^5] |
 | Unikraft | Seed | ~2022 | Cloud Scaling | Active [^5] |
-| Vibrant Labs | Seed | ~2024 | AI Agent Simulation | Active [^5] |
+| Vibrant Labs | Pre-Seed ($2.5M) | 2025-12-02 | AI Agent Simulation | Active [^5][^15][^16] |
 | Reo.Dev | Series A (participated, returning; $11.3M round led by Elevation Capital) | 2026-07-17 | AI / Developer GTM / Sales Intelligence | Active [^9][^10] |
 
-Note: This table represents approximately 39 of 80+ known Heavybit investments. Founding years are approximate based on available data. Heavybit exclusively leads pre-seed and seed rounds with $500K–$5M checks [^3][^4], so all entries are listed as Seed stage. Many additional companies in the portfolio (including Stripe, which Heavybit lists as a portfolio company) are not included due to insufficient year/stage verification. Kosli and Tailscale seed rounds confirmed by press releases [^8].
+Note: This table represents approximately 39 of 80+ known Heavybit investments. Founding years are approximate based on available data, except where exact round dates have been verified (Continue, Milestone, Vibrant Labs, Reo.Dev). Heavybit primarily leads pre-seed and seed rounds with $500K–$5M checks [^3][^4]; most entries are listed as Seed unless otherwise verified. Many additional companies in the portfolio (including Stripe, which Heavybit lists as a portfolio company) are not included due to insufficient year/stage verification. Kosli and Tailscale seed rounds confirmed by press releases [^8].
 
 ## In Their Own Words
 
@@ -170,3 +170,21 @@ Note: This table represents approximately 39 of 80+ known Heavybit investments. 
 [^9]: PR Newswire, "Reo.Dev Raises $11.3 Million Series A to Scale AI Signals for Companies Selling to Engineering Teams," July 17, 2026. Accessed July 21, 2026. https://www.prnewswire.com/news-releases/reodev-raises-11-3-million-series-a-to-scale-ai-signals-for-companies-selling-to-engineering-teams-302828436.html — Confirms Heavybit as returning investor in Reo.Dev's $11.3M Series A led by Elevation Capital; India Quotient, Foster Ventures, Uncorrelated Ventures also participated.
 
 [^10]: YourStory, "Reo.Dev raises $11.3M in Series A led by Elevation Capital," July 17, 2026. Accessed July 21, 2026. https://yourstory.com/2026/07/reodev-raises-113-million-series-a-elevation-capital — Independent Indian tech press confirming Reo.Dev Series A participants and $15.3M total funding to date.
+
+[^11]: Continue blog, "We are on a mission to make building software feel like making music," November 17, 2023. Accessed July 2026. https://blog.continue.dev/initial-fundraise/ — Continue's own announcement of $2.1M first funding round led by Jesse Robbins at Heavybit, with angel participation from Julien Chaumond (Hugging Face), Lisha Li (Rosebud AI), and Florian Leibert (Mesosphere).
+
+[^12]: Data Phoenix, "Continue concluded its first round of funding with $2.1M," November 17, 2023. Accessed July 2026. https://dataphoenix.info/continue/ — Independent tech press confirming Continue's $2.1M first funding round led by Heavybit at end of YC S23 batch.
+
+[^13]: TechCrunch, "Milestone raises $10M to make sure AI rhymes with ROI," November 13, 2025. Accessed July 2026. https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/ — Tier-1 press confirming $10M seed round co-led by Heavybit and Hanaco Ventures, with Atlassian Ventures and angel investors Tom Preston-Werner, John Donovan, Paul Daugherty, Amit Agrawal participating.
+
+[^14]: Calcalist (Ctech), "Milestone raises $10 million Seed round to measure AI's true impact on code," November 13, 2025. Accessed July 2026. https://www.calcalistech.com/ctechnews/article/sk9k1umebe — Israeli tech press independently confirming Milestone $10M seed announcement date and investor lineup.
+
+[^15]: Heavybit press, "Heavybit Welcomes New Member: Vibrant Labs," December 3, 2025. Accessed July 2026. https://www.heavybit.com/press/heavybit-welcomes-new-member-vibrant-labs — Heavybit's own announcement of investment in Vibrant Labs, a simulation platform for training long-horizon AI agents built on the RAGAS open-source project.
+
+[^16]: SignalBase, "Vibrant Labs Secures $2.5M Pre-Seed Funding," December 2, 2025. Accessed July 2026. https://www.trysignalbase.com/news/funding/vibrant-labs-secures-25m-pre-seed-funding — Independent funding tracker confirming Vibrant Labs $2.5M pre-seed round dated December 2, 2025.
+
+[^17]: BusinessWire, "groundcover Raises $100 Million Series C to Create the Observability Platform Built for the AI Era," July 29, 2026. Accessed July 29, 2026. https://www.businesswire.com/news/home/20260729686071/en/groundcover-Raises-$100-Million-Series-C-to-Create-the-Observability-Platform-Built-for-the-AI-Era — Primary company press release confirming $100M Series C led by One Peak with Morgan Stanley Expansion Capital, Zeev Ventures, Angular Ventures, Heavybit, and Jibe participating.
+
+[^18]: Yahoo Finance, "groundcover Raises $100 Million Series C to Create the Observability Platform Built for the AI Era," July 29, 2026. Accessed July 29, 2026. https://finance.yahoo.com/technology/ai/articles/groundcover-raises-100-million-series-120000470.html — Independent syndication confirming date, lead, all participants including Heavybit.
+
+[^19]: The Next Web, "groundcover raises $100M to build observability for the AI era," July 2026. Accessed July 29, 2026. https://thenextweb.com/news/groundcover-raises-100m-to-build-observability-for-the-ai-era — Third-party tech press confirming $100M Series C, One Peak lead, and Heavybit as existing-investor participant.

@@ -188,12 +188,12 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Kiko | S05 | 2005 | Calendar | Shut down [^1] |
 | Justin.tv / Twitch | W07 | 2007 | Live Streaming | Acquired by Amazon ($970M, 2014) [^2][^19] |
 | Dropbox | S07 | 2007 | Cloud Storage | Public (IPO 2018) [^2][^19] |
-| Scribd | S06 | 2006 | Document Sharing | Private [^20] |
+| Scribd | S06 | 2006 | Document Sharing | Private (parent of Everand/SlideShare/Fable; acquired Fable 2025-06-09, undisclosed terms; last equity round Series E $58M led by Spectrum Equity, 2019-11) [^20][^82][^83][^84] |
 | Heroku | W08 | 2008 | PaaS / Developer Tools | Acquired by Salesforce (2010) [^19] |
 | Airbnb | W09 | 2009 | Travel / Marketplace | Public (IPO 2020) [^2][^19] |
 | Stripe | S09 | 2009 | Payments / Fintech | Private ($95B valuation) [^2][^19] |
 | Weebly | W07 | 2007 | Website Builder | Acquired by Square (2018) [^19] |
-| Machine Zone | W08 | 2008 | Mobile Gaming | Private [^19] |
+| Machine Zone | W08 | 2008 | Mobile Gaming | Acquired by AppLovin (~$330M aggregate; closed 2020-05-19; announced 2020-05-14) [^19][^76][^77][^78] |
 | Optimizely | W10 | 2010 | A/B Testing | Acquired by Episerver (2020) [^20] |
 | Bump | S09 | 2009 | Mobile Sharing | Acquired by Google (2013) [^20] |
 | PagerDuty | S10 | 2010 | Incident Management | Public (IPO 2019) [^19] |
@@ -219,7 +219,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Amplitude | W12 | 2012 | Product Analytics | Public (IPO 2021) [^19] |
 | Ginkgo Bioworks | S14 | 2014 | Synthetic Biology | Public (IPO 2021) [^19] |
 | Flexport | S14 | 2014 | Digital Freight Forwarding | Private ($8B) [^19][^21] |
-| Scale AI | W16 | 2016 | Data Labeling / AI | Private ($7.3B) [^21] |
+| Scale AI | W16 | 2016 | Data Labeling / AI | Private ($29B post-money; Meta $14.3B strategic investment for 49% stake, 2025-06-12) [^21][^79][^80][^81] |
 | Lattice | W16 | 2016 | HR / People Management | Private ($3B) [^21] |
 | Fivetran | S16 | 2016 | Data Pipelines | Private ($5.6B) [^21] |
 | Outschool | W16 | 2016 | EdTech | Private ($3B) [^21] |
@@ -308,6 +308,8 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Ollama | W21 | 2021 | AI / Developer Tools / Open-Source | Private (Series B $65M 2026-07-09, Theory Ventures-led; YC listed among prior/existing backers alongside Benchmark, 8VC, Garage Capital, Pace Capital, 49 Palms, GTMFund; $88M total raised) [^70][^71][^72] |
 | Singularity | n/a | 2026 | Defense / Aerospace / Deep Tech | Private (Series A $80M at $400M post-money 2026-07-14, Khosla Ventures + Felicis co-led; YC participated alongside AE Ventures, NEA, Long Journey, Harpoon, Menlo Ventures, Decisive Point, New Vista, Sunflower, Soma) [^73][^74][^75] |
 | Bunkerhill Health | W19 | 2019 | Healthcare / AI / Digital Health | Private (Series B $25M / $55M total 2026-07-16, Khosla Ventures-led; YC existing participant alongside Sequoia Capital (existing), Felicis and Optum Ventures (new)) [^bhh1][^bhh2][^bhh3] |
+| Weave | n/a | 2026 | AI / Developer Tools / Engineering Productivity | Private (Series A $13.5M 2026-07-28, Standard Capital-led; YC participated alongside Moonfire, Burst Capital, IrregEx, The Agent Fund) [^weave1][^weave2][^weave3] |
+| Henry AI | n/a | 2024 | AI / Proptech / Commercial Real Estate | Private (Series A $16.5M 2026-07-29, FirstMark Capital-led; YC participated alongside Thomson Reuters Ventures, Susa Ventures, 1Sharpe, StoryHouse Ventures, Pioneer Fund, RXR Arden Digital Ventures, Karman Ventures, Coalition Operators) [^henry1][^henry2][^henry3] |
 
 *Note: This table represents approximately 2.1% of YC's 5,668 total investments [^9], focused on the most notable companies including unicorns, public companies, and significant acquisitions. YC's standard deal gives it 7% equity in every company at the same terms, making a complete portfolio listing impractical. Batch years use the YC batch designation (e.g., W09 = Winter 2009, S12 = Summer 2012). OpenAI is listed as "YC Research" rather than a batch designation — it was the first project of YC Research (launched December 2015), a separate initiative from the standard accelerator [^29]. Duolingo was removed from this table because Duolingo did not go through Y Combinator; its earliest funding came from Luis von Ahn's MacArthur fellowship and an NSF grant, followed by a Series A led by Union Square Ventures in October 2011 [^31].*
 
@@ -523,3 +525,33 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 [^bhh2]: Bunkerhill Health, "Bunkerhill Health Raises $55 Million to Help Health Systems Turn Their Best Ideas into Reality," Series B announcement, July 16, 2026. Accessed July 29, 2026. https://www.bunkerhillhealth.com/resources/series-b-announcement — Primary company announcement listing Y Combinator among Series B participants alongside Khosla Ventures (lead), Sequoia Capital, Felicis, and Optum Ventures.
 
 [^bhh3]: HIT Consultant, "Bunkerhill Health Secures $55M to Expand Carebricks Agentic AI Platform for Health Systems," July 16, 2026. Accessed July 29, 2026. https://hitconsultant.net/2026/07/16/bunkerhill-health-closes-series-b-agentic-ai-carebricks/ — Trade-press cross-confirmation of the $25M Series B / $55M total, Khosla Ventures lead, and Y Combinator, Sequoia, Felicis, Optum Ventures as participants. YC batch W19 verified via Y Combinator company directory: https://www.ycombinator.com/companies/bunkerhill-health (accessed July 29, 2026).
+
+[^76]: "AppLovin to Acquire Machine Zone to Expand Leadership Position in Mobile Gaming," Business Wire (AppLovin press release), May 14, 2020. Accessed July 29, 2026. https://www.businesswire.com/news/home/20200514005454/en/AppLovin-to-Acquire-Machine-Zone-to-Expand-Leadership-Position-in-Mobile-Gaming — Primary AppLovin press release announcing the acquisition of Machine Zone on May 14, 2020. Combined entity: ~800 employees, expected yearly sales $1.5B.
+
+[^77]: Robert Williams, "AppLovin buys Machine Zone to expand mobile gaming ambitions," Marketing Dive, May 15, 2020. Accessed July 29, 2026. https://www.marketingdive.com/news/applovin-buys-machine-zone-to-expand-mobile-gaming-ambitions/578011/ — Contemporaneous tier-1 trade press confirmation of the May 14, 2020 announcement of AppLovin acquiring Machine Zone.
+
+[^78]: AppLovin S-1 filing (SEC EDGAR), FY2021. https://www.sec.gov/Archives/edgar/data/1751008/000119312521340630/d223514ds1.htm — Accessed July 29, 2026. Primary SEC filing confirming AppLovin closed the Machine Zone acquisition on May 19, 2020 for an aggregate acquisition price of $328.6M (comprising $287.1M cash to Machine Zone lenders, $38.2M in common stock warrants issued to lenders and preferred stockholders, and settlement of a $3.3M preexisting AR balance).
+
+[^79]: Scale AI, "Founder, Alexandr Wang, Joins Meta to Work on AI Efforts," Scale AI blog, June 12, 2025. Accessed July 29, 2026. https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution — Primary company announcement dated June 12, 2025, confirming Meta's strategic investment valuing Scale AI at over $29B, with Alexandr Wang transitioning to Meta and Jason Droege appointed Interim CEO.
+
+[^80]: Julie Bort, "Scale AI confirms 'significant' investment from Meta, says CEO Alexandr Wang is leaving," TechCrunch, June 13, 2025. Accessed July 29, 2026. https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/ — Contemporaneous tier-1 tech press confirming Meta invested approximately $14.3B for roughly 49% ownership at a $29B valuation.
+
+[^81]: Jonathan Vanian, "Scale AI's Alexandr Wang confirms departure for Meta as part of $14.3 billion deal," CNBC, June 12, 2025. Accessed July 29, 2026. https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html — Third independent primary source confirming the $14.3B Meta investment in Scale AI on June 12, 2025.
+
+[^82]: "Scribd Acquires Fable," Publishers Lunch (Publishers Marketplace), June 10, 2025. Accessed July 29, 2026. https://lunch.publishersmarketplace.com/2025/06/scribd-acquires-fable/ — Confirms Scribd's Everand acquired social reading app Fable on June 9, 2025 for undisclosed terms; Scribd described as "a privately-held company with over 18 years experience."
+
+[^83]: Andrew Albanese, "Everand Acquires Online Book Club Platform Fable," Publishers Weekly, June 10, 2025. Accessed July 29, 2026. https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/97975-everand-acquires-online-book-club-platform-fable.html — Independent trade-press confirmation: Scribd operates Scribd, Everand, SlideShare, and newly acquired Fable; Fable operates independently for the time being.
+
+[^84]: "Fenwick Represents Fable in Acquisition by Scribd," Fenwick & West LLP (deal advisor announcement). Accessed July 29, 2026. https://www.fenwick.com/insights/experience/fenwick-represents-fable-in-acquisition-by-scribd — Primary law-firm disclosure confirming Fenwick represented Fable in the June 2025 acquisition by Scribd. Cross-references Scribd's historical financing: last publicly-disclosed equity round was a Series E of $58M led by Spectrum Equity in November 2019 (per Tracxn/PitchBook aggregators — used only as a lead; original Series E press coverage indicates Spectrum Equity as lead investor).
+
+[^weave1]: The SaaS News, "Weave Raises $13.5M Series A," July 2026. Accessed July 29, 2026. https://www.thesaasnews.com/news/weave-raises-13-5m-series-a/ — Primary trade press confirming Weave's $13.5M Series A led by Standard Capital with YC participation on July 28, 2026.
+
+[^weave2]: Tech Startups, "AI startup Weave raises $13.5M to help companies measure AI coding ROI and end 'tokenmaxxing'," July 28, 2026. Accessed July 29, 2026. https://techstartups.com/2026/07/28/ai-startup-weave-raises-13-5m-to-help-companies-measure-ai-coding-roi-and-end-tokenmaxxing/ — Independent tech press confirming Standard Capital lead and YC as participant alongside Moonfire, Burst Capital, IrregEx, and the Agent Fund.
+
+[^weave3]: FinSMEs, "Weave Raises $13.5M in Series A Funding," July 2026. Accessed July 29, 2026. https://www.finsmes.com/2026/07/weave-raises-13-5m-in-series-a-funding.html — Third independent primary source confirming amount, date, lead, and YC participation.
+
+[^henry1]: PR Newswire, "Henry AI Raises $16.5M Series A and Launches Henry Deal," July 29, 2026. Accessed July 29, 2026. https://www.prnewswire.com/news-releases/henry-ai-raises-16-5m-series-a-and-launches-henry-deal-302837784.html — Primary company press release confirming $16.5M Series A led by FirstMark Capital with Y Combinator participating (follow-on) alongside Thomson Reuters Ventures and multiple other investors.
+
+[^henry2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 7/29/2026," July 29, 2026. Accessed July 29, 2026. https://www.alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-29-2026/ — Independent NYC startup press confirming date, amount, lead, and YC participation.
+
+[^henry3]: Mann Report, "Henry AI Raises $16.5M Series A and Launches Henry Deal," July 29, 2026. Accessed July 29, 2026. https://www.mannpublications.com/mannreport/2026/07/29/henry-ai-raises-16-5m-series-a-and-launches-henry-deal/ — Third independent trade-press source confirming the round.
