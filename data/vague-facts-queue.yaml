@@ -16234,7 +16234,9 @@ vague_facts:
   line: '| BlueStone | Series B | 2014 | — | Consumer / e-commerce | IPO [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-30'
+  resolution_note: 'Fact-spec sweep 2026-07-30: tightened BlueStone Series B row on kalaari-capital.md and vani-kola.md from year-only 2014 with empty Lead column to full 2014-03-18 with USD 10M amount, Kalaari Capital as lead (Vani Kola named), Accel Partners and Saama Capital as existing-investor participants. Verified via 3 primary sources: existing Kalaari portfolio page [^2] + NEW AVCJ [^17] (March 19, 2014) + NEW Venture Capital Post [^18] (URL slug 20140318). 2 new footnotes on kalaari-capital.md ([^17], [^18]) and 2 new on vani-kola.md ([^29], [^30]).'
 - profile: firms/kalaari-capital
   profile_name: Kalaari Capital
   company: Instamojo
@@ -16244,7 +16246,9 @@ vague_facts:
   line: '| Instamojo | Series A | 2014 | — | Fintech / payments | Active [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-30'
+  resolution_note: 'Fact-spec sweep 2026-07-30: tightened Instamojo Series A row on kalaari-capital.md and vani-kola.md from year-only 2014 with empty Lead column to full 2014-11-13 with Kalaari-led designation, Blume Ventures and 500 Startups as existing-investor participants, and USD 2.6M (per Inc42 retrospective; announcement was undisclosed). Vani Kola joined board. Verified via 3 primary sources: NEW Instamojo company blog [^19] (2014-11-13) + NEW Inc42 announcement piece [^20] (2014-11-13) + NEW Inc42 retrospective [^21] for the USD 2.6M figure. 3 new footnotes on kalaari-capital.md ([^19]-[^21]) and 3 new on vani-kola.md ([^26]-[^28]).'
 - profile: firms/kalaari-capital
   profile_name: Kalaari Capital
   company: Industry Buying
@@ -16265,7 +16269,9 @@ vague_facts:
   line: '| Cashkaro | Series A | 2015 | — | Consumer / cashback | Active [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-07-30'
+  resolution_note: 'Fact-spec sweep 2026-07-30: tightened Cashkaro Series A row on kalaari-capital.md and vani-kola.md from year-only 2015 with empty Lead column to full 2015-11-16 with Rs 25 crore / USD 3.8M and Kalaari Capital as sole investor. First VC investment in a cashback startup in India per TechCrunch. Verified via 3 primary sources: NEW TechCrunch (Catherine Shu) [^22] (2015-11-16) + NEW Business Standard [^23] (URL slug 115111600879 = 2015-11-16) + NEW CashKaro company blog [^24]. 3 new footnotes on kalaari-capital.md ([^22]-[^24]) and 3 new on vani-kola.md ([^31]-[^33]).'
 - profile: firms/kalaari-capital
   profile_name: Kalaari Capital
   company: Shopalyst

@@ -86,10 +86,10 @@ This table lists Kalaari Capital investments where Kola's involvement is confirm
 | Power2SME | 2012 | Series A | [^11] |
 | Vyome Therapeutics | 2012 | Series A | [^11] |
 | Dream11 | ~2014 | Series A ($13M valuation) | [^14] |
-| Instamojo | 2014 | Series A | [^11] |
-| BlueStone | 2014 | Series B | [^11] |
+| Instamojo | 2014-11-13 | Series A (Kalaari led; Blume Ventures + 500 Startups participated; USD 2.6M per Inc42 retrospective) | [^11][^26][^27][^28] |
+| BlueStone | 2014-03-18 | Series B (Kalaari led, USD 10M; Accel Partners + Saama Capital participated) | [^11][^29][^30] |
 | Industry Buying | 2015 | Series B | [^11] |
-| Cashkaro | 2015 | Series A | [^11] |
+| Cashkaro | 2015-11-16 | Series A (Kalaari sole investor; Rs 25 crore / USD 3.8M) | [^11][^31][^32][^33] |
 | Shopalyst | 2015 | Series A | [^11] |
 | Zolvit | 2015 | Series A | [^11] |
 | YourStory | 2015 | Series A | [^11] |
@@ -194,3 +194,11 @@ No independently sourced verbatim founder testimonials about Vani Kola were loca
 [^23]: SparX by Mukesh Bansal, "Ep 36 — Venture Capital Masterclass | Vani Kola," accessed May 2026. https://www.sparxbymukeshbansal.com/episodes-1/episode-3-apgkm-szm2l-9txhs-ktf5l-zpc94-9gpm7-aynep-k7k28-xdrjf-w8yjb-4t79t-wxa97-se3h2-5tf9h-t7m7z-4tapj-6zkfl-g8lzz-ft3an-mhnkt-t4zce-m8tnl-c9s74-fxb8s-4py5n-wsygx
 [^24]: YourStory HerStory, "Don't focus on funding, work on building valuable businesses: Kalaari Capital's Vani Kola," March 2024. https://yourstory.com/herstory/2024/03/kalaari-capital-vani-kola-entrepreneurship-shesparks
 [^25]: Vani Kola on LinkedIn (profile), accessed May 2026. https://in.linkedin.com/in/vanikola
+[^26]: Instamojo company blog, "Instamojo Raises Funding From Kalaari To Democratize Payments," November 13, 2014, accessed July 2026. Primary announcement naming Kalaari Capital as lead, existing investors Blume Ventures and 500 Startups as participants; Vani Kola joined board. https://www.instamojo.com/blog/instamojo-com-funding-kalaari-capital-democratize-payments/
+[^27]: Inc42, "Instamojo Raises Series A From Kalaari Capital & its Existing Investors," November 13, 2014, accessed July 2026. https://inc42.com/buzz/instamojo-funding/
+[^28]: Inc42, "Instamojo Raises Pre-Series B Funding From Japanese Digital Payments Platform AnyPay," accessed July 2026. Retrospective coverage citing USD 2.6M as the Kalaari-led Series A amount. https://inc42.com/buzz/instamojo-funding-digital-payments/
+[^29]: AVCJ (Asia Venture Capital Journal), "Kalaari leads USD 10m round for Indian online jeweler," March 19, 2014, accessed July 2026. Confirms Kalaari Capital led USD 10M with Accel Partners and Saama Capital. https://www.avcj.com/avcj/news/54213/kalaari-leads-usd10m-round-for-indian-online-jeweler
+[^30]: Venture Capital Post, "Indian jewelry e-tailer BlueStone bags USD 10M in Series B round," March 18, 2014 (per URL slug 20140318), accessed July 2026. https://www.vcpost.com/articles/22618/20140318/indian-jewelry-e-tailer-bluestone-bags-10m-in-series-b-round.htm
+[^31]: TechCrunch (Catherine Shu), "CashKaro Raises USD 3.8M Series A To Become The Ebates Of Southeast Asia," November 16, 2015, accessed July 2026. Confirms USD 3.8M Series A from Kalaari Capital as sole investor. https://techcrunch.com/2015/11/16/cashkaro/
+[^32]: Business Standard, "CashKaro receives Rs 25 crore in series A funding from Kalaari Capital," November 16, 2015 (per URL slug 115111600879), accessed July 2026. https://www.business-standard.com/article/companies/cashkaro-receives-rs-25-crore-in-series-a-funding-from-kalaari-capital-115111600879_1.html
+[^33]: CashKaro company blog, "CashKaro Raises Rs. 25 Crore from Kalaari Capital!" November 2015, accessed July 2026. https://cashkaro.com/blog/cashkaro-raises-rs-25-crore-from-kalaari-capital/1241
