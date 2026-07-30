@@ -55,6 +55,136 @@ pending_rounds:
   parsed_amount: $19M
   parsed_round: Series A
   status: pending
+- title: Synthetic-user startup Simile raises $200M at $2B valuation 5 months after
+    $100M Series A
+  url: https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/
+  source: techcrunch
+  date_found: '2026-07-30'
+  parsed_company: Synthetic-user startup Simile
+  parsed_amount: $200M
+  parsed_round: Series A
+  status: pending
+- title: Fusion power darling Commonwealth Fusion Systems raises another $1B
+  url: https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/
+  source: techcrunch
+  date_found: '2026-07-30'
+  parsed_company: Fusion power darling Commonwealth Fusion Systems
+  parsed_amount: $1B
+  parsed_round: null
+  status: pending
+- title: Battery Storage Startup Antora Closes $550M Series C In One Of Year’s Largest
+    Cleantech Rounds
+  url: https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/
+  source: crunchbase
+  date_found: '2026-07-30'
+  parsed_company: Battery Storage Startup Antora
+  parsed_amount: $550M
+  parsed_round: Series C
+  status: pending
+- title: Function raised $450M growth
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: Function
+  parsed_amount: $450M
+  parsed_round: Growth
+  status: pending
+- title: Inforcer raised $50M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: Inforcer
+  parsed_amount: $50M
+  parsed_round: Series C
+  status: pending
+- title: Encore AI raised $30M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: Encore AI
+  parsed_amount: $30M
+  parsed_round: Series A
+  status: pending
+- title: Epitel raised $26M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: Epitel
+  parsed_amount: $26M
+  parsed_round: Series B
+  status: pending
+- title: Foundational Industries raised $25M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: Foundational Industries
+  parsed_amount: $25M
+  parsed_round: Seed
+  status: pending
+- title: Bloom Security raised $20M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: Bloom Security
+  parsed_amount: $20M
+  parsed_round: Seed
+  status: pending
+- title: Intropy raised $11M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: Intropy
+  parsed_amount: $11M
+  parsed_round: Seed
+  status: pending
+- title: Quercus Biosolutions raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: Quercus Biosolutions
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: CopySight raised $3M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: CopySight
+  parsed_amount: $3M
+  parsed_round: Seed
+  status: pending
+- title: and has raised $255M VC
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: and has
+  parsed_amount: $255M
+  parsed_round: Vc
+  status: pending
+- title: It had raised $185M VC
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: It had
+  parsed_amount: $185M
+  parsed_round: Vc
+  status: pending
+- title: Reformation raised $211M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: Reformation
+  parsed_amount: $211M
+  parsed_round: null
+  status: pending
+- title: Pantheon raised $3.2B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-07-30'
+  parsed_company: Pantheon
+  parsed_amount: $3.2B
+  parsed_round: null
+  status: pending
 - title: Wild Bio acquires F1 Seed to create Britain’s first independent precision-breeding
     wheat business
   url: https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/
@@ -746,150 +876,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-07-20'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation
-  url: https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/
-  source: techcrunch
-  date_found: '2026-07-17'
-  parsed_company: null
-  parsed_amount: $6B
-  parsed_round: null
-  status: pending
-- title: No product? No problem. This Disrupt 2026 session shows how to get pre-seed
-    funding with conviction, storytelling
-  url: https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/
-  source: techcrunch
-  date_found: '2026-07-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Pre-Seed
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still
-    Flow To AI'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/
-  source: crunchbase
-  date_found: '2026-07-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (July 13-July 17 )
-  url: https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-july-13-july-17/
-  source: eu-startups
-  date_found: '2026-07-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: British aerospace technology company Greenjets raises €35 million Series
-    A with NATO backing
-  url: https://www.eu-startups.com/2026/07/british-aerospace-technology-company-greenjets-raises-e35-million-series-a-with-nato-backing/
-  source: eu-startups
-  date_found: '2026-07-17'
-  parsed_company: British aerospace technology company Greenjets
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Germany’s Prior Labs raises €1 billion and exits to SAP 18 months after being
-    founded
-  url: https://www.eu-startups.com/2026/07/germanys-prior-labs-raises-e1-billion-and-exits-to-sap-18-months-after-being-founded/
-  source: eu-startups
-  date_found: '2026-07-17'
-  parsed_company: Germany’s Prior Labs
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Antwerp’s Sightera Biosciences raises €3 million to scale its patient-derived
-    AI drug discovery platform
-  url: https://www.eu-startups.com/2026/07/antwerps-sightera-biosciences-raises-e3-million-to-scale-its-patient-derived-ai-drug-discovery-platform/
-  source: eu-startups
-  date_found: '2026-07-17'
-  parsed_company: Antwerp’s Sightera Biosciences
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Grenoble-based ENGO raises €5.1 million to scale its lightweight AR glasses
-    for athletes
-  url: https://www.eu-startups.com/2026/07/grenoble-based-engo-raises-e5-1-million-to-scale-its-lightweight-ar-glasses-for-athletes/
-  source: eu-startups
-  date_found: '2026-07-17'
-  parsed_company: Grenoble-based ENGO
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Lululemon backs nylon recycling startup Syntetica in $30M Series A
-  url: https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/
-  source: techcrunch
-  date_found: '2026-07-16'
-  parsed_company: null
-  parsed_amount: $30M
-  parsed_round: Series A
-  status: pending
-- title: London-based Applied Computing raises €17.4 million to scale AI that works
-    for the energy industry
-  url: https://www.eu-startups.com/2026/07/london-based-applied-computing-raises-e17-4-million-to-scale-ai-that-works-for-the-energy-industry/
-  source: eu-startups
-  date_found: '2026-07-16'
-  parsed_company: London-based Applied Computing
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created applied-computing.md
-- title: SWISSto12 secures €61 million Series C amid rising demand for sovereign space
-    infrastructure
-  url: https://www.eu-startups.com/2026/07/swissto12-secures-e61-million-series-c-amid-rising-demand-for-sovereign-space-infrastructure/
-  source: eu-startups
-  date_found: '2026-07-16'
-  parsed_company: SWISSto12
-  parsed_amount: null
-  parsed_round: Series C
-  status: processed
-  notes: created startup profile swissto12.md; €61M/$70M Series C, investors undisclosed
-- title: Espoo-based Hyperion Robotics raises €6.4 million to bring physical AI to
-    European infrastructure
-  url: https://www.eu-startups.com/2026/07/espoo-based-hyperion-robotics-raises-e6-4-million-to-bring-physical-ai-to-european-infrastructure/
-  source: eu-startups
-  date_found: '2026-07-16'
-  parsed_company: Espoo-based Hyperion Robotics
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile hyperion-robotics.md; €6.4M/$7.4M co-led by Course
-    Corrected and EIC Fund
-- title: Ultrahuman’s former hardware VP raises $5.5M for devices that control AI
-    agents, not just record you
-  url: https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/
-  source: techcrunch
-  date_found: '2026-07-16'
-  parsed_company: Ultrahuman’s former hardware VP
-  parsed_amount: $5.5M
-  parsed_round: null
-  status: pending
-- title: The Billion-Dollar Seed Isn’t The Deal You Think It Is
-  url: https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison/
-  source: crunchbase
-  date_found: '2026-07-16'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: China And AI Lead Asia’s Startup Funding To Multiyear Peak In Q2
-  url: https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/
-  source: crunchbase
-  date_found: '2026-07-16'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Paris-based Syntetica raises €26.1 million to industrialise process that
-    cracks a major nylon recycling barrier
-  url: https://www.eu-startups.com/2026/07/paris-based-syntetica-raises-e26-1-million-to-industrialise-process-that-cracks-a-major-nylon-recycling-barrier/
-  source: eu-startups
-  date_found: '2026-07-16'
-  parsed_company: Paris-based Syntetica
   parsed_amount: null
   parsed_round: null
   status: pending

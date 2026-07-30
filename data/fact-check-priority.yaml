@@ -7460,3 +7460,27 @@ priority:
   type: investor
   reason: angel in Harmony Seed (2026-07-28), $34M
   added: 2026-07-30
+- slug: khosla-ventures
+  type: firm
+  reason: led Dili Series A (2026-07-30), $15M
+  added: 2026-07-30
+- slug: y-combinator
+  type: firm
+  reason: participated in Dili Series A (2026-07-30)
+  added: 2026-07-30
+- slug: rebel-fund
+  type: firm
+  reason: participated in Dili Series A (2026-07-30)
+  added: 2026-07-30
+- slug: garry-tan
+  type: investor
+  reason: participated in Dili Series A (2026-07-30) via Y Combinator
+  added: 2026-07-30
+- slug: general-catalyst
+  type: firm
+  reason: participated in Intropy Seed (2026-07-30), EUR 9.5M
+  added: 2026-07-30
+- slug: quiet-capital
+  type: firm
+  reason: participated in Intropy Seed (2026-07-30)
+  added: 2026-07-30

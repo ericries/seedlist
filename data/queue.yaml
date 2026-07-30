@@ -43818,3 +43818,42 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: john-hennessy
+- name: Brick and Mortar Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dili
+- name: Darren Bechtel
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Brick and Mortar Ventures
+  discovered_from: dili
+- name: Anand Chaturvedi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Dili
+  discovered_from: dili
+- name: Allianz
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dili
+- name: BankTech Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: investifi
+- name: Kian Sarreshteh
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: InvestiFi
+  discovered_from: investifi
