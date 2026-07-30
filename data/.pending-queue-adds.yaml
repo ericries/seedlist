@@ -1,0 +1,72 @@
+- name: "Bain Capital Ventures"
+  type: firm
+  priority: normal
+  discovered_from: simile
+  source: "participated in Simile Series B (2026-07-30)"
+- name: "CVS Health Ventures"
+  type: firm
+  priority: normal
+  discovered_from: simile
+  source: "participated in Simile Series B (2026-07-30)"
+- name: "Joon Sung Park"
+  type: individual
+  firm: "Simile"
+  priority: high
+  discovered_from: simile
+  source: "founder & CEO of Simile ($2B valuation Series B, 2026-07-30)"
+- name: "G2 Venture Partners"
+  type: firm
+  priority: high
+  discovered_from: antora-energy
+  source: "co-led Antora Energy Series C (2026-07-30), $550M"
+- name: "Eclipse"
+  type: firm
+  priority: high
+  discovered_from: antora-energy
+  source: "co-led Antora Energy Series C (2026-07-30), $550M"
+- name: "Salesforce Ventures"
+  type: firm
+  priority: normal
+  discovered_from: antora-energy
+  source: "participated in Antora Energy Series C (2026-07-30)"
+- name: "Activate Capital"
+  type: firm
+  priority: normal
+  discovered_from: antora-energy
+  source: "participated in Antora Energy Series C (2026-07-30)"
+- name: "Andrew Ponec"
+  type: individual
+  firm: "Antora Energy"
+  priority: high
+  discovered_from: antora-energy
+  source: "co-founder & CEO of Antora Energy ($550M Series C, 2026-07-30)"
+- name: "Glilot Capital Partners"
+  type: firm
+  priority: high
+  discovered_from: bloom-security
+  source: "co-led Bloom Security Seed (2026-07-30), $20M"
+- name: "Ten Eleven Ventures"
+  type: firm
+  priority: high
+  discovered_from: bloom-security
+  source: "co-led Bloom Security Seed (2026-07-30), $20M"
+- name: "Okta Ventures"
+  type: firm
+  priority: normal
+  discovered_from: bloom-security
+  source: "participated in Bloom Security Seed (2026-07-30)"
+- name: "Runtime Ventures"
+  type: firm
+  priority: normal
+  discovered_from: bloom-security
+  source: "participated in Bloom Security Seed (2026-07-30)"
+- name: "Catalyst Health Ventures"
+  type: firm
+  priority: high
+  discovered_from: epitel
+  source: "co-led Epitel Series B (2026-07-28), $26M"
+- name: "Genoa Ventures"
+  type: firm
+  priority: high
+  discovered_from: epitel
+  source: "co-led Epitel Series B (2026-07-28), $26M"

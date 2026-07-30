@@ -7484,3 +7484,31 @@ priority:
   type: firm
   reason: participated in Intropy Seed (2026-07-30)
   added: 2026-07-30
+- slug: greenoaks
+  type: firm
+  reason: "led Simile Series B (2026-07-30), $200M"
+  added: 2026-07-30
+- slug: index-ventures
+  type: firm
+  reason: "participated in Simile Series B (2026-07-30), $200M"
+  added: 2026-07-30
+- slug: hanabi-capital
+  type: firm
+  reason: "participated in Simile Series B (2026-07-30), $200M"
+  added: 2026-07-30
+- slug: ribbit-capital
+  type: firm
+  reason: "participated in Antora Energy Series C (2026-07-30), $550M"
+  added: 2026-07-30
+- slug: lowercarbon-capital
+  type: firm
+  reason: "participated in Antora Energy Series C (2026-07-30), $550M"
+  added: 2026-07-30
+- slug: breakthrough-energy-ventures
+  type: firm
+  reason: "participated in Antora Energy Series C (2026-07-30), $550M"
+  added: 2026-07-30
+- slug: john-doerr
+  type: investor
+  reason: "participated in Antora Energy Series C (2026-07-30), $550M"
+  added: 2026-07-30
