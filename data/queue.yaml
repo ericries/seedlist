@@ -43465,3 +43465,115 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: threatlocker
+- name: 111 West Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: healia
+- name: GoAhead Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: healia
+- name: North Coast Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: healia
+- name: Priyang Shah
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Healia
+  discovered_from: healia
+- name: Inflexor Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: revspot
+- name: Pentathlon Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: revspot
+- name: Silicon Road Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: revspot
+- name: Blackstone Innovations Investments
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lemonedge
+- name: BNY
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lemonedge
+- name: Sidekick Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lemonedge
+- name: Stevi Petrelli
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Blackstone Innovations Investments
+  discovered_from: lemonedge
+- name: David T. O'Malley
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: LemonEdge
+  discovered_from: lemonedge
+- name: Go Red for Women Venture Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aurenar
+- name: American Heart Association Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aurenar
+- name: Solas BioVentures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aurenar
+- name: BJC Health
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aurenar
+- name: Kaleida Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aurenar
+- name: Dr. Eric Leuthardt
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Aurenar
+  discovered_from: aurenar

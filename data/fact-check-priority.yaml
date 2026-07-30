@@ -4905,3 +4905,23 @@ priority:
   type: firm
   reason: led P-1 AI Series A (2026-07-29), $50M
   added: 2026-07-29
+- slug: y-combinator
+  type: firm
+  reason: participated in Healia Series A (2026-07-29), $14M
+  added: 2026-07-30
+- slug: first-round-capital
+  type: firm
+  reason: participated in Healia Series A (2026-07-29), $14M
+  added: 2026-07-30
+- slug: battery-ventures
+  type: firm
+  reason: co-led Freehand Series B (2026-07-29), $75M
+  added: 2026-07-30
+- slug: penny-pritzker
+  type: investor
+  reason: participated in Freehand Series B (2026-07-29), $75M via PSP Growth
+  added: 2026-07-30
+- slug: menlo-ventures
+  type: firm
+  reason: led Pangram seed (2026-07-29), $9M
+  added: 2026-07-30
