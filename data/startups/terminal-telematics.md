@@ -1,26 +1,43 @@
 ---
-name: "Terminal"
-slug: terminal-telematics
-type: startup
-website: "https://terminal.io"
-location: "Toronto, Ontario, Canada"
-founded: 2023
-status_company: active
-sector: [logistics, transportation, data-infrastructure, insurtech, fleet-management]
-stage_latest: "Series A"
-total_raised: "$26M"
-investors: []
 firms:
-  - slug: battery-ventures
-    round: series-a
-    year: 2026
-    date: 2026-07-29
-  - slug: y-combinator
-    round: series-a
-    year: 2026
-    date: 2026-07-29
-status: published
+- date: 2026-07-29
+  round: series-a
+  slug: battery-ventures
+  year: 2026
+- date: 2026-07-29
+  round: series-a
+  slug: y-combinator
+  year: 2026
+- round: ~2017
+  slug: atomic
+  year: 2017
+founded: 2023
+investors:
+- round: ~2017
+  slug: andrew-dudum
+  year: 2017
+- round: Series B
+  slug: jack-abraham
+  year: 2016
+- round: '2016'
+  slug: chester-ng
+  year: 2016
 last_researched: 2026-07-30
+location: Toronto, Ontario, Canada
+name: Terminal
+sector:
+- logistics
+- transportation
+- data-infrastructure
+- insurtech
+- fleet-management
+slug: terminal-telematics
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $26M
+type: startup
+website: https://terminal.io
 ---
 
 ## About

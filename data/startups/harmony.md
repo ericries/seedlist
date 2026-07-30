@@ -1,31 +1,46 @@
 ---
-name: "Harmony"
-slug: harmony
-type: startup
-website: "https://www.harmony.ai"
-location: "New York, NY"
-founded: 2025
-status_company: active
-sector: [enterprise-software, ai, agentic-ai, service-management, employee-experience, saas]
-stage_latest: "Seed"
-total_raised: "$34M"
-investors:
-  - slug: assaf-rappaport
-    round: seed
-    year: 2026
-    date: 2026-07-28
 firms:
-  - slug: operator-partners
-    round: seed
-    year: 2026
-    date: 2026-07-28
+- date: 2026-07-28
+  round: seed
+  slug: operator-partners
+  year: 2026
+- round: '2026-07-28'
+  slug: wiz
+  year: 2026
+- round: Pre-Seed
+  slug: ganas-ventures
+  year: 2025
+founded: 2025
 founders:
-  - name: "Nitzan Shapira"
-    role: "CEO & Co-Founder"
-  - name: "Ran Ribenzaft"
-    role: "CTO & Co-Founder"
-status: published
+- name: Nitzan Shapira
+  role: CEO & Co-Founder
+- name: Ran Ribenzaft
+  role: CTO & Co-Founder
+investors:
+- date: 2026-07-28
+  round: seed
+  slug: assaf-rappaport
+  year: 2026
+- round: Pre-Seed
+  slug: lolita-taub
+  year: 2025
 last_researched: 2026-07-30
+location: New York, NY
+name: Harmony
+sector:
+- enterprise-software
+- ai
+- agentic-ai
+- service-management
+- employee-experience
+- saas
+slug: harmony
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $34M
+type: startup
+website: https://www.harmony.ai
 ---
 
 ## About

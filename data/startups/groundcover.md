@@ -1,24 +1,39 @@
 ---
-name: "groundcover"
-slug: groundcover
-type: startup
-website: "https://www.groundcover.com"
-location: "Tel Aviv, Israel"
-founded: 2021
-status_company: active
-sector: [devops, observability, cloud-infrastructure, monitoring, saas]
-stage_latest: "Series C"
-total_raised: "$160M"
 firms:
-  - slug: heavybit
-    round: series-c
-    year: 2026
-    date: 2026-07-29
+- date: 2026-07-29
+  round: series-c
+  slug: heavybit
+  year: 2026
+founded: 2021
 founders:
-  - name: "Shahar Azulay"
-    role: "CEO"
-status: published
+- name: Shahar Azulay
+  role: CEO
+investors:
+- round: Seed
+  slug: james-lindenbaum
+  year: 2022
+- round: Seed
+  slug: tom-drummond
+  year: 2022
+- round: Seed
+  slug: joseph-ruscio
+  year: 2022
 last_researched: 2026-07-29
+location: Tel Aviv, Israel
+name: groundcover
+sector:
+- devops
+- observability
+- cloud-infrastructure
+- monitoring
+- saas
+slug: groundcover
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $160M
+type: startup
+website: https://www.groundcover.com
 ---
 
 ## About

@@ -30768,7 +30768,7 @@ queue:
 - name: Yashish Dahiya
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: PB Fintech / Policybazaar
   discovered_from: naveen-kukreja
@@ -30853,7 +30853,7 @@ queue:
 - name: John Hennessy
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: sail-research
 - name: Anshu Prasher
@@ -43672,3 +43672,149 @@ queue:
   added: '2026-03-17'
   firm: Foundational Industries
   discovered_from: foundational-industries
+- name: Deepak Abbot
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yashish-dahiya
+- name: NB Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yashish-dahiya
+- name: Faering Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yashish-dahiya
+- name: ZFunds
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yashish-dahiya
+- name: Junio
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yashish-dahiya
+- name: Sugmya Finance
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yashish-dahiya
+- name: Fitso
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yashish-dahiya
+- name: PB Healthcare Services
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: yashish-dahiya
+- name: Teresa Meng
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent (Stanford; Atheros co-founder)
+  discovered_from: john-hennessy
+- name: Andy Bechtolsheim
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent (Sun Microsystems co-founder; angel)
+  discovered_from: john-hennessy
+- name: Diane Greene
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: independent (VMware co-founder; former Google)
+  discovered_from: john-hennessy
+- name: Scott Cook
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent (Intuit founder; angel)
+  discovered_from: john-hennessy
+- name: Charles Schwab
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: independent (angel)
+  discovered_from: john-hennessy
+- name: Ray Wirta
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: independent (former CBRE / Irvine Company; angel)
+  discovered_from: john-hennessy
+- name: Kurt Keutzer
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: independent (UC Berkeley; angel)
+  discovered_from: john-hennessy
+- name: Harvey Jones
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: independent (Synopsys co-founder; angel)
+  discovered_from: john-hennessy
+- name: Clockwork Systems
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: john-hennessy
+- name: Skiff
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: john-hennessy
+- name: BabbleLabs
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: john-hennessy
+- name: PropBidder
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: john-hennessy
+- name: Xperiel
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: john-hennessy
+- name: Futureland Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: john-hennessy
+- name: Cognite Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: john-hennessy

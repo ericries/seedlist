@@ -1,19 +1,30 @@
 ---
-name: "LemonEdge"
-slug: lemonedge
-type: startup
-website: "https://www.lemonedge.com"
-location: "London, UK"
+firms:
+- round: Seed
+  slug: uncommon-capital
+  year: 2022
 founded: 2020
-status_company: active
-sector: [fintech, fund-accounting, private-markets, enterprise-software, ai]
-stage_latest: "Series A"
-total_raised: "$30M+"
-firms: []
-investors: []
 founders: []
-status: published
+investors:
+- round: Seed
+  slug: tikhon-bernstam
+  year: 2022
 last_researched: 2026-07-30
+location: London, UK
+name: LemonEdge
+sector:
+- fintech
+- fund-accounting
+- private-markets
+- enterprise-software
+- ai
+slug: lemonedge
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $30M+
+type: startup
+website: https://www.lemonedge.com
 ---
 
 ## About

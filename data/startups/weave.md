@@ -1,29 +1,50 @@
 ---
-name: "Weave"
-slug: weave
-type: startup
-website: "https://weave.dev"
-location: "San Francisco, CA"
-status_company: active
-sector: [ai, developer-tools, engineering-productivity, devtools, saas]
-stage_latest: "Series A"
-total_raised: "$13.5M"
 firms:
-  - slug: standard-capital
-    round: series-a
-    year: 2026
-    date: 2026-07-28
-  - slug: y-combinator
-    round: series-a
-    year: 2026
-    date: 2026-07-28
+- date: 2026-07-28
+  round: series-a
+  slug: standard-capital
+  year: 2026
+- date: 2026-07-28
+  round: series-a
+  slug: y-combinator
+  year: 2026
+- round: Growth
+  slug: cedar-capital-group
+  year: 2020
+- round: Early-stage
+  slug: bessemer-venture-partners
+  year: 2017
 founders:
-  - name: "Adam Cohen"
-    role: "CEO & Co-Founder"
-  - name: "Andrew Churchill"
-    role: "CTO & Co-Founder"
-status: published
+- name: Adam Cohen
+  role: CEO & Co-Founder
+- name: Andrew Churchill
+  role: CTO & Co-Founder
+investors:
+- round: Growth
+  slug: john-curtius
+  year: 2020
+- round: Early-stage
+  slug: brian-feinstein
+  year: 2017
+- round: Seed
+  slug: geoff-ralston
+  year: 2013
 last_researched: 2026-07-29
+location: San Francisco, CA
+name: Weave
+sector:
+- ai
+- developer-tools
+- engineering-productivity
+- devtools
+- saas
+slug: weave
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $13.5M
+type: startup
+website: https://weave.dev
 ---
 
 ## About
