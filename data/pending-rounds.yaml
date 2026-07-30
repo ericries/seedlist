@@ -84,7 +84,7 @@ pending_rounds:
   parsed_company: Encore AI
   parsed_amount: $30M
   parsed_round: null
-  status: pending
+  status: processed
 - title: Freehand Raises $75M Series B To Automate Fortune 500 Supply Chain Spend
   url: https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/
   source: crunchbase
@@ -92,7 +92,7 @@ pending_rounds:
   parsed_company: Freehand
   parsed_amount: $75M
   parsed_round: Series B
-  status: pending
+  status: processed
 - title: Zürich-based ZuriQ raises €22.4 million to scale its 2D trapped-ion quantum
     processors
   url: https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/
