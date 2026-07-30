@@ -37,9 +37,9 @@ team:
     role: Partner
     slug: olivia-benjamin
 last_verified_investment:
-  date: 2026-06-09
-  company: "Sandstone"
-  round: "Series A"
+  date: 2026-07-28
+  company: "Harmony"
+  round: "Seed ($34M)"
 status: published
 last_researched: 2026-06-10
 ---
@@ -87,6 +87,7 @@ This table represents a sample of verified investments. Operator Partners report
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Sandstone | Series A | 2026-06-09 | Legal Tech/AI | [^38][^39][^40] |
+| Harmony | Seed ($34M; Lightspeed Venture Partners-led; Hitachi Ventures, Fin Capital, Mercer Ventures, Operator Partners participated; angels Assaf Rappaport, Ofir Ehrlich) | 2026-07-28 | Enterprise Software / Agentic AI / Service Management | [^harm1][^harm2] |
 | Apella | Series B | 2026-01-08 | Healthcare/AI | [^20] |
 | Serval | Series A ($47M; Redpoint led — Patrick Chase joined; First Round, General Catalyst, Box Group, Bessemer, Chemistry VC, Strike Capital, Sunflower Capital, Operator Partners + angels Sabrina Hahn, Alex Clayton, Colin Zima participated; $52M total raised) | 2025-10-21 | IT Automation/AI | [^24][^41][^42] |
 | Estuary | Series A | 2025-10-21 | Data Infrastructure | [^25] |
@@ -186,3 +187,7 @@ No independently sourced founder testimonials found. The firm's website describe
 [^40]: "Sandstone Raises $30 Million to Expand Legal Tech Offering," PYMNTS, June 9, 2026, accessed June 2026. https://www.pymnts.com/news/investment-tracker/2026/sandstone-raises-30-million-to-expand-legal-tech-offering/
 [^41]: "Serval raises $47M to bring AI-native automation to IT operations," SiliconANGLE, October 21, 2025, accessed July 2026. https://siliconangle.com/2025/10/21/serval-raises-47m-bring-ai-native-automation-operations/
 [^42]: "Announcing $52M Total Raised to Deploy AI Agents for IT," Serval company news, October 21, 2025, accessed July 2026. https://www.serval.com/serval-news/series-a
+
+[^harm1]: Pulse 2.0, "Harmony Raises $34 Million Seed Round Led By Lightspeed To Scale AI Employee Support Platform," July 28, 2026. Accessed July 30, 2026. https://pulse2.com/harmony-raises-34-million-seed-round-led-by-lightspeed-to-scale-ai-employee-support-platform/
+
+[^harm2]: Calcalist (CTech), "After selling Epsagon to Cisco for $500 million, founders return with AI enterprise startup Harmony," July 28, 2026. Accessed July 30, 2026. https://www.calcalistech.com/ctechnews/article/sj0nhfurmx

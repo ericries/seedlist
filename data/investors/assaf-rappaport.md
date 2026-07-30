@@ -3,9 +3,9 @@ check_size: $5K-$50K
 firm: wiz
 last_researched: 2026-03-20
 last_verified_investment:
-  company: NewCore
-  date: 2026-06-15
-  round: Pre-Seed + Seed ($66M)
+  company: Harmony
+  date: 2026-07-28
+  round: Seed ($34M)
 location: Tel Aviv, Israel / New York, NY
 name: Assaf Rappaport
 role: Co-Founder & CEO
@@ -89,6 +89,7 @@ This table includes 10 verified angel investments. Rappaport invests small perso
 | Frame Security | Stealth-exit ($50M) | 2026-05-11 | Cybersecurity / Human Risk | Active | [^16][^17] |
 | A Security | Seed + Series A ($37M combined; Cyberstarts-led seed, Lightspeed + Cyberstarts-led Series A; Cerca Partners, Yotam Segev, Merav Bahat, Rappaport participated as angels) | 2026-06-08 | Cybersecurity / Offensive Security | Active | [^22][^23][^24] |
 | NewCore | Pre-Seed + expanded Seed ($66M total at $300M val; Index Ventures + Cyberstarts co-led pre-seed; Evolution Equity Partners led expanded seed; Rappaport participated as angel alongside Yevgeny Dibrov, Ofer Ben-Noon, Ofir Ehrlich, Sharin Fisher Dibrov, Yotam Segev) | 2026-06-15 | Cybersecurity / Agentic Identity | Active | [^27][^28][^29] |
+| Harmony | Seed ($34M; Lightspeed Venture Partners-led; Hitachi Ventures, Fin Capital, Mercer Ventures, Operator Partners participated; Rappaport and Ofir Ehrlich participated as angels) | 2026-07-28 | Enterprise Software / Agentic AI / Service Management | Active | [^harm1][^harm2] |
 
 ## In Their Own Words
 
@@ -153,3 +154,7 @@ No independently sourced founder testimonials found for Rappaport's angel invest
 [^28]: TheNextWeb, "NewCore raises $66m to give AI agents a corporate identity," June 15, 2026. Accessed June 2026. https://thenextweb.com/news/newcore-66-million-ai-agent-identity-security — Independent confirmation Rappaport joined as angel in NewCore's expanded seed alongside other Israeli security founders.
 
 [^29]: SiliconANGLE, "NewCore launches security-first identities for AI agents after closing $66M seed funding round," June 15, 2026. Accessed June 2026. https://siliconangle.com/2026/06/15/newcore-launches-security-first-identities-ai-agents-closing-66m-seed-funding-round/ — Third independent confirmation of NewCore's $66M closing with Cyberstarts, Index Ventures, and Evolution Equity Partners as institutional backers.
+
+[^harm1]: Pulse 2.0, "Harmony Raises $34 Million Seed Round Led By Lightspeed To Scale AI Employee Support Platform," July 28, 2026. Accessed July 30, 2026. https://pulse2.com/harmony-raises-34-million-seed-round-led-by-lightspeed-to-scale-ai-employee-support-platform/ — Names Assaf Rappaport and Ofir Ehrlich among angel investors alongside Wiz founding team members in the Harmony seed round.
+
+[^harm2]: Calcalist (CTech), "After selling Epsagon to Cisco for $500 million, founders return with AI enterprise startup Harmony," July 28, 2026. Accessed July 30, 2026. https://www.calcalistech.com/ctechnews/article/sj0nhfurmx — Independent confirmation Rappaport and Ehrlich participated as angels in Harmony's $34M seed led by Lightspeed Venture Partners.

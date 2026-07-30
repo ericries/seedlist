@@ -141,6 +141,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Passionfroot | Series A ($15M, led) | 2026-07-22 | Creator Economy / B2B Marketplace / AI | Active | [^pfr1][^pfr2] |
 | Assured Health | Series A ($19M, led; First Round Capital and Kindred Ventures participated) | 2026-07-21 | Healthtech / Agentic AI / Credentialing | Active | [^ah1][^ah2][^ah3][^ah4] |
 | Mate Security | Series A ($35M, participated; Canaan Partners led; Team8, M12 also participated) | 2026-07-28 | Cybersecurity / AI Security Operations | Active | [^mate1][^mate2][^mate3] |
+| Inforcer | Series C ($50M, led; Dawn Capital and Meritech Capital participated) | 2026-07-30 | Cybersecurity / MSP / Microsoft 365 | Active | [^info1][^info2] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -264,3 +265,7 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^mate2]: The Next Web, "Mate Security crosses USD 50M in funding as AI security operations startup heads to Black Hat USA," July 2026. Accessed July 2026. https://thenextweb.com/news/mate-security-50m-funding-ai-security-operations-black-hat
 
 [^mate3]: Security Boulevard, "Mate Security Tops $50M in Funding as Investors Back a New Model for AI Security Operations," July 2026. Accessed July 2026. https://securityboulevard.com/2026/07/mate-security-tops-50m-in-funding-as-investors-back-a-new-model-for-ai-security-operations/ — Third independent tier-1 press confirming Insight Partners participation in $35M Series A led by Canaan; includes Teddie Wardi (Insight MD) attributed quote.
+
+[^info1]: TechCrunch, "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks," July 30, 2026. Accessed July 30, 2026. https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/
+
+[^info2]: inforcer, "inforcer Raises $50M Series C to Accelerate Platform Growth and AI Innovation for MSPs" (company insights), July 30, 2026. Accessed July 30, 2026. https://www.inforcer.com/insights

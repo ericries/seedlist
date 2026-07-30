@@ -3795,3 +3795,15 @@ priority:
   type: firm
   reason: "participated in UNIT AI round (2026-07-29), USD 12M"
   added: 2026-07-30
+- slug: insight-partners
+  type: firm
+  reason: "led Inforcer Series C (2026-07-30), $50M"
+  added: 2026-07-30
+- slug: operator-partners
+  type: firm
+  reason: "participated in Harmony Seed (2026-07-28), $34M"
+  added: 2026-07-30
+- slug: assaf-rappaport
+  type: investor
+  reason: "angel in Harmony Seed (2026-07-28), $34M"
+  added: 2026-07-30
