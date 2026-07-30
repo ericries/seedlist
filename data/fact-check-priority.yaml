@@ -7393,14 +7393,45 @@ priority:
   type: firm
   reason: co-led Freehand Series B (2026-07-29), $75M
   added: 2026-07-30
+  status: resolved
+  resolved: '2026-07-30'
+  note: 'Verified Freehand Series B via 4 primary sources: (1) Freehand company press
+    release (freehand.ai) confirms $75M Series B co-led by Battery + NewRoad, participants
+    Nexus + Penny Pritzker (PSP Growth); (2) Crunchbase News (Mary Ann Azevedo, 2026-07-29)
+    confirms Series B designation and $100M cumulative; (3) Forbes (David Prosser,
+    2026-07-29) confirms co-lead + participant list; (4) TechFundingNews confirms
+    same. CEO Nitin Jayakrishnan called it "significant step up" from March 2024 $25M
+    Series A. Battery portfolio row on battery-ventures.md already accurate; no changes
+    needed. Freehand startup profile already accurate.'
 - slug: penny-pritzker
   type: investor
   reason: participated in Freehand Series B (2026-07-29), $75M via PSP Growth
   added: 2026-07-30
+  status: resolved
+  resolved: '2026-07-30'
+  note: 'Verified via 3 primary sources: freehand.ai press release, Crunchbase News,
+    Forbes. Confirmed Pritzker participated via PSP Growth (her family office growth
+    investment platform), quoted saying "Freehand is one of the few companies turning
+    frontier AI into measurable productivity for enterprise supply chain operations."
+    Freehand startup profile already lists Pritzker in Funding History Series B row
+    and in investors frontmatter.'
 - slug: menlo-ventures
   type: firm
   reason: led Pangram seed (2026-07-29), $9M
   added: 2026-07-30
+  status: resolved
+  resolved: '2026-07-30'
+  note: 'Verified Pangram $9M round via 5 primary sources: TechCrunch (2026-07-29),
+    BusinessWire/Las Vegas Sun syndication (2026-07-29 company press release), SiliconANGLE
+    (2026-07-29), VentureBeat, Yahoo Finance. CORRECTED round designation on pangram.md
+    and menlo-ventures.md: none of the primary sources call it a Series A or a seed —
+    the company release describes it only as "a $9M funding round." Prior seed was
+    $3.98M closed 2025-06-24 (led by ScOp with Script Capital + Cadenza). Updated
+    pangram.md Funding History to show all 3 rounds (pre-seed, seed extension, 2026
+    funding). Changed stage_latest from "Seed" to "Funding", firms.round from seed
+    to funding, total_raised from $9M to $12.98M. Added 4 new footnotes to pangram.md
+    ([^2]-[^5]) and 1 new footnote ([^pangram2]) to menlo-ventures.md. Participants
+    confirmed: Haystack, ScOp Venture Capital, Script Capital, Cadenza.'
 - slug: founders-fund
   type: firm
   reason: 'Fact-spec sweep 2026-07-30: tightened 3 vague year-only Portfolio rows
@@ -7452,6 +7483,19 @@ priority:
   type: firm
   reason: led Inforcer Series C (2026-07-30), $50M
   added: 2026-07-30
+  status: resolved
+  resolved: '2026-07-30'
+  note: 'Verified Inforcer Series C via 3 primary sources: TechCrunch (Dominic-Madori
+    Davis, 2026-07-30), inforcer.com/insights company blog listing dated 2026-07-30,
+    Techmeme aggregation. Confirmed $50M Series C led by Insight Partners. CORRECTED
+    error on inforcer.md and insight-partners.md: TechCrunch says "Other investors
+    in the company include Dawn Capital and Meritech Capital" — this describes cumulative
+    investors, NOT confirmed Series C participants. Removed Dawn Capital and Meritech
+    Capital from the Series C co-investors column on both profiles; noted them as
+    existing investors not explicitly confirmed as Series C participants. Business
+    growth 300% YoY, valuation doubled B-to-C, $110M cumulative in 18 months. Company
+    launched 2023, London-based, founders Jamie Daum (CEO) + William Connor (Chief
+    Community Officer).'
 - slug: operator-partners
   type: firm
   reason: participated in Harmony Seed (2026-07-28), $34M

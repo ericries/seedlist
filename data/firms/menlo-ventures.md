@@ -126,7 +126,7 @@ Based on Menlo Ventures' verified portfolio data:
 | Suno | Series C (led, $250M at $2.45B val) | 2025-11-19 | AI / Generative Music | Private [^32][^33][^34] |
 | Meticulous | Series A (participated, $15M; Chemistry led; angels from Poolside, Dropbox, Vercel, OpenAI, Stripe, Adobe, Hex, Cursor) | 2026-07-15 | Developer Tools / AI Testing | Private [^35][^36][^37] |
 | Singularity | Series A (participated; $80M at $400M post-money; Khosla Ventures + Felicis co-led; AE Ventures, NEA existing seed; Long Journey, Harpoon, Y Combinator, Decisive Point, New Vista, Sunflower, Soma also participated) | 2026-07-14 | Defense / Aerospace / Deep Tech | Private [^50][^51][^52] |
-| Pangram | Seed (led, $9M; Haystack, ScOp, Script Capital, Cadenza participated) | 2026-07-29 | AI / AI Detection / Content Authenticity | Private [^pangram1] |
+| Pangram | Funding (led, $9M; Haystack, ScOp Venture Capital, Script Capital, Cadenza participated; round not publicly designated as Series A) | 2026-07-29 | AI / AI Detection / Content Authenticity | Private [^pangram1][^pangram2] |
 
 *This table represents a small fraction of Menlo's 466 total investments. The firm has produced 85+ public companies and 170+ M&A exits [^2].*
 
@@ -228,4 +228,6 @@ No independently sourced founder testimonials found.
 
 [^52]: Dan Primack, "Air-defense startup Singularity secures $80 million," Axios, July 14, 2026. Accessed July 19, 2026. https://www.axios.com/2026/07/14/singularity-air-defense-seriesa-venture-oswald — Third-party primary confirmation via Axios Pro Rata reporting.
 
-[^pangram1]: TechCrunch, "As AI content floods the internet, Pangram raises $9M to detect it," July 29, 2026. Accessed July 29, 2026. https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/ — Primary press confirming Menlo Ventures led Pangram's $9M seed with Haystack, ScOp, Script Capital, and Cadenza participating.
+[^pangram1]: TechCrunch, "As AI content floods the internet, Pangram raises $9M to detect it," July 29, 2026. Accessed July 30, 2026. https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/ — Primary press confirming Menlo Ventures led Pangram's $9M round with Haystack, ScOp Venture Capital, Script Capital, and Cadenza participating. The article does not classify the round as Series A.
+
+[^pangram2]: BusinessWire, "Pangram Launches New World's Best AI Detector, Expands to Images Backed by $9M From Menlo Ventures," July 29, 2026. Accessed July 30, 2026. https://lasvegassun.com/news/2026/jul/29/pangram-launches-new-worlds-best-ai-detector-expan/ — Company press release describes the round only as "a $9M funding round led by Menlo Ventures, with participation from Haystack, ScOp Venture Capital, Script Capital, and Cadenza"; no Series designation.

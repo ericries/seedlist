@@ -26,7 +26,7 @@ last_researched: 2026-07-30
 
 ## About
 
-Inforcer is a London-based software platform that managed service providers (MSPs) use to oversee their small- and medium-size business clients' Microsoft 365 accounts from a single interface [^1][^2]. Launched in 2023, the company builds tooling around Microsoft's stack — including Intune-based device management, Shadow AI detection, and a threat detection and response product — to help MSPs manage Microsoft security, governance, and Copilot deployments at scale [^1][^2]. Inforcer reports use by more than 1,200 MSPs across North America, EMEA, and APAC, with more than 100 new MSPs joining each month and revenue growing roughly 300% year over year [^1]. On 2026-07-30, Inforcer announced a $50 million Series C led by Insight Partners, bringing total funding to approximately $110 million across three rounds in 18 months [^1][^2][^3].
+Inforcer is a London-based software platform that managed service providers (MSPs) use to oversee their small- and medium-size business clients' Microsoft 365 accounts from a single interface [^1][^2]. Launched in 2023, the company builds tooling around Microsoft's stack — including Intune-based device management, Shadow AI detection, and a threat detection and response product — to help MSPs manage Microsoft security, governance, and Copilot deployments at scale [^1][^2]. Inforcer reports use by more than 1,200 MSPs across North America, EMEA, and APAC, with more than 100 new MSPs joining each month and revenue growing roughly 300% year over year [^1]. On 2026-07-30, Inforcer announced a $50 million Series C led by Insight Partners, bringing total funding to approximately $110 million across three rounds in 18 months [^1][^2][^3]. Dawn Capital and Meritech Capital, which led earlier rounds, are described by TechCrunch as existing investors in the company but not explicitly confirmed as Series C participants [^1].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -34,7 +34,7 @@ Inforcer is a London-based software platform that managed service providers (MSP
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-30 | Series C | $50M | Insight Partners | Dawn Capital, Meritech Capital [^1][^2] |
+| 2026-07-30 | Series C | $50M | Insight Partners | — [^1][^2] |
 | 2025-07-22 | Series B | $35M | Dawn Capital | Meritech Capital [^3] |
 | 2024 | Series A | $19M | Meritech Capital | — [^3] |
 

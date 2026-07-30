@@ -141,7 +141,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Passionfroot | Series A ($15M, led) | 2026-07-22 | Creator Economy / B2B Marketplace / AI | Active | [^pfr1][^pfr2] |
 | Assured Health | Series A ($19M, led; First Round Capital and Kindred Ventures participated) | 2026-07-21 | Healthtech / Agentic AI / Credentialing | Active | [^ah1][^ah2][^ah3][^ah4] |
 | Mate Security | Series A ($35M, participated; Canaan Partners led; Team8, M12 also participated) | 2026-07-28 | Cybersecurity / AI Security Operations | Active | [^mate1][^mate2][^mate3] |
-| Inforcer | Series C ($50M, led; Dawn Capital and Meritech Capital participated) | 2026-07-30 | Cybersecurity / MSP / Microsoft 365 | Active | [^info1][^info2] |
+| Inforcer | Series C ($50M, led; Dawn Capital and Meritech Capital are existing investors in the company but not explicitly confirmed as Series C participants) | 2026-07-30 | Cybersecurity / MSP / Microsoft 365 | Active | [^info1][^info2] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
