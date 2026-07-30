@@ -3,9 +3,9 @@ check_size: $10K-$500K
 firm: null
 last_researched: 2026-03-24
 last_verified_investment:
-  company: Project Eleven
-  date: ~2026
-  round: Series A
+  company: Augustus
+  date: 2026-07-21
+  round: Series B (angel, $180M Tiger Global-led at $1B valuation)
 location: San Francisco, CA / Singapore
 name: Balaji Srinivasan
 role: Angel Investor / Founder, Network School

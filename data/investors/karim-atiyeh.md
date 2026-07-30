@@ -3,9 +3,9 @@ check_size: Angel
 firm: ramp
 last_researched: 2026-03-22
 last_verified_investment:
-  company: Monogram
-  date: 2026-07-07
-  round: Seed
+  company: Augustus
+  date: 2026-07-21
+  round: Series B (angel, $180M Tiger Global-led at $1B valuation)
 location: New York, NY
 name: Karim Atiyeh
 role: Co-Founder & CTO

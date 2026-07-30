@@ -4,7 +4,7 @@ firm: nubank
 last_researched: 2026-04-06
 last_verified_investment:
   company: Augustus
-  date: ~2026
+  date: 2026-07-21
   round: Series B ($180M, Tiger Global-led at $1B valuation)
 location: São Paulo, Brazil
 name: David Vélez

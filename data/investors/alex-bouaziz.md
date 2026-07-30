@@ -9,9 +9,9 @@ stage_focus: [seed, series-a, pre-seed]
 sector_focus: [hr-tech, fintech, ai, developer-tools, logistics]
 check_size: "$100K-$5M (sweet spot ~$1.5M)"
 last_verified_investment:
-  date: 2026-04-22
-  company: "Realm"
-  round: "Seed"
+  date: 2026-07-21
+  company: "Augustus"
+  round: "Series B (angel, $180M Tiger Global-led at $1B valuation)"
 social:
   twitter: "@Bouazizalex"
   linkedin: "linkedin.com/in/alexbouaziz"

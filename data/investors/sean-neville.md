@@ -9,9 +9,9 @@ stage_focus: [seed, series-a]
 sector_focus: [crypto, stablecoins, fintech, ai, web3, payments, infrastructure]
 check_size: "Angel checks (size not publicly disclosed)"
 last_verified_investment:
-  date: 2026-05-20
-  company: "Catena Labs"
-  round: "Series A (co-founder, not external angel)"
+  date: 2026-07-21
+  company: "Augustus"
+  round: "Series B (angel, $180M Tiger Global-led at $1B valuation)"
 social:
   twitter: "@psneville"
 status: published
