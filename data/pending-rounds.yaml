@@ -28,7 +28,8 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Seed
-  status: pending
+  status: skipped
+  notes: acquisition only (no funding round)
 - title: London-based responsible lending FinTech Plend secures funding facility of
     up to €58.3 million
   url: https://www.eu-startups.com/2026/07/london-based-responsible-lending-fintech-plend-secures-funding-facility-of-up-to-e58-3-million/
@@ -37,7 +38,8 @@ pending_rounds:
   parsed_company: London-based responsible lending FinTech Plend
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: debt facility, not equity
 - title: As AI content floods the internet, Pangram raises $9M to detect it
   url: https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/
   source: techcrunch
@@ -45,7 +47,8 @@ pending_rounds:
   parsed_company: As AI content floods the internet, Pangram
   parsed_amount: $9M
   parsed_round: null
-  status: pending
+  status: processed
+  notes: already-recorded in pangram.md
 - title: Drivalia secures €48 million EIB financing to boost electric mobility in
     Italy and Finland
   url: https://www.eu-startups.com/2026/07/drivalia-secures-e48-million-eib-financing-to-boost-electric-mobility-in-italy-and-finland/
@@ -54,7 +57,8 @@ pending_rounds:
   parsed_company: Drivalia
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: skipped
+  notes: EIB debt financing, not equity; Drivalia is Credit Agricole subsidiary
 - title: Vilnius-based Sigvi raises €1.2 million to scale its AI-powered car rental
     platform across Europe
   url: https://www.eu-startups.com/2026/07/vilnius-based-sigvi-raises-e1-2-million-to-scale-its-ai-powered-car-rental-platform-across-europe/
@@ -63,7 +67,8 @@ pending_rounds:
   parsed_company: Vilnius-based Sigvi
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: already-recorded in sigvi.md
 - title: 'The AlleyWatch Startup Daily Funding Report: 7/29/2026'
   url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-29-2026/
   source: alleywatch
@@ -80,7 +85,8 @@ pending_rounds:
   parsed_company: Zürich-based ZuriQ
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: already-recorded in zuriq.md
 - title: 'Exclusive: Co-Founded By Former Whoop CTO, Throne Science Raises $10M To
     Track Gut Health From The Toilet'
   url: https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/
@@ -89,7 +95,8 @@ pending_rounds:
   parsed_company: Co-Founded By Former Whoop CTO, Throne Science
   parsed_amount: $10M
   parsed_round: null
-  status: pending
+  status: processed
+  notes: already-recorded in throne-science.md
 - title: AI Seed Investors Flock To Cybersecurity
   url: https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/
   source: crunchbase
@@ -778,7 +785,8 @@ pending_rounds:
   parsed_company: London-based Applied Computing
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created applied-computing.md
 - title: SWISSto12 secures €61 million Series C amid rising demand for sovereign space
     infrastructure
   url: https://www.eu-startups.com/2026/07/swissto12-secures-e61-million-series-c-amid-rising-demand-for-sovereign-space-infrastructure/

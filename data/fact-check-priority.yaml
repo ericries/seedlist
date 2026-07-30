@@ -1,4 +1,8 @@
 priority:
+- slug: insight-partners
+  type: firm
+  reason: "appeared in Mate Security Series A (2026-07-28), $35M"
+  added: 2026-07-29
 - slug: y-combinator
   type: firm
   reason: "appeared in Henry AI Series A (2026-07-29) and Weave Series A (2026-07-28)"
