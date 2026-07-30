@@ -3319,22 +3319,32 @@ priority:
   type: investor
   reason: led Natural Series A via Forerunner (2026-07-20), $30M
   added: 2026-07-20
+  status: resolved
+  note: "Verified via 3+ sources (PRNewswire, TechCrunch, Yahoo Finance): 2026-07-20, $30M Series A led by Kirsten Green/Forerunner Ventures. Profile portfolio row and LVI already correctly recorded."
 - slug: abstract-ventures
   type: firm
   reason: participated in Natural Series A (2026-07-20), $30M
   added: 2026-07-20
+  status: resolved
+  note: "Verified via 3+ sources (PRNewswire, TechCrunch, Yahoo Finance): Abstract Ventures named among participating firms in Natural's 2026-07-20 $30M Series A led by Forerunner. Portfolio row correctly recorded."
 - slug: ramtin-naimi
   type: investor
   reason: participated in Natural Series A (2026-07-20), $30M
   added: 2026-07-20
+  status: resolved
+  note: "Verified via 3+ sources (PRNewswire, TechCrunch, Yahoo Finance): Ramtin Naimi named as individual angel (Abstract founder) in Natural's 2026-07-20 $30M Series A. Portfolio row correctly recorded."
 - slug: pete-koomen
   type: investor
   reason: angel-participated in Natural Series A (2026-07-20), $30M
   added: 2026-07-20
+  status: resolved
+  note: "Verified via 3+ sources (PRNewswire, TechCrunch, Yahoo Finance): Pete Koomen (YC GP) named as individual angel in Natural's 2026-07-20 $30M Series A led by Forerunner. Portfolio row correctly recorded."
 - slug: andreessen-horowitz
   type: firm
   reason: led Runta Seed (2026-07-16), $20M
   added: 2026-07-21
+  status: resolved
+  note: "Verified via 3+ sources (a16z.news primary firm post, FinSMEs, The Next Web, Crypto Briefing): 2026-07-16, $20M Seed led solo by a16z (Martin Casado); $100M+ post-money; founder Guanlan Dai. Portfolio row correctly recorded."
 - slug: 8vc
   type: firm
   reason: participated in Sila $300M private round (2026-07-21)

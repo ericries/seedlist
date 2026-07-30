@@ -170725,7 +170725,7 @@ vague_facts:
   line: '| 2026-07-22 | Seed | USD 15M | The O.H.I.O. Fund | [^1][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: startups/701x
   profile_name: 701x
   company: '2026-06-04'
@@ -170736,7 +170736,7 @@ vague_facts:
     North Dakotans, Minnesotans, and rancher-user'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: startups/8layers
   profile_name: 8Layers
   company: '2025'
@@ -170746,7 +170746,7 @@ vague_facts:
   line: '| 2025 | Pre-Seed | €1.5M | — | — [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: startups/8layers
   profile_name: 8Layers
   company: '2026-07-07'
