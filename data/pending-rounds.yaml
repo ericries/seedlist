@@ -20,23 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Inforcer raises $50M to help prepare smaller businesses for a new world of
-    AI and security risks
-  url: https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/
-  source: techcrunch
-  date_found: '2026-07-30'
-  parsed_company: Inforcer
-  parsed_amount: $50M
-  parsed_round: null
-  status: pending
-- title: Dili raises $21.7M to bring AI compliance to the infrastructure boom
-  url: https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
-  source: techcrunch
-  date_found: '2026-07-30'
-  parsed_company: Dili
-  parsed_amount: $21.7M
-  parsed_round: null
-  status: pending
 - title: London-based Intropy raises €9.5 million to build the AI-native operating
     system for the spare parts industry
   url: https://www.eu-startups.com/2026/07/london-based-intropy-raises-e9-5-million-to-build-the-ai-native-operating-system-for-the-spare-parts-industry/
@@ -45,24 +28,6 @@ pending_rounds:
   parsed_company: London-based Intropy
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Assured Raises $19M Series A Led by Insight Partners to Automate Healthcare
-    Provider Operations with AI Agents
-  url: https://www.globenewswire.com/news-release/2026/07/30/3335854/0/en/Assured-Raises-19M-Series-A-Led-by-Insight-Partners-to-Automate-Healthcare-Provider-Operations-with-AI-Agents.html
-  source: globenewswire
-  date_found: '2026-07-30'
-  parsed_company: Assured
-  parsed_amount: $19M
-  parsed_round: Series A
-  status: pending
-- title: Synthetic-user startup Simile raises $200M at $2B valuation 5 months after
-    $100M Series A
-  url: https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/
-  source: techcrunch
-  date_found: '2026-07-30'
-  parsed_company: Synthetic-user startup Simile
-  parsed_amount: $200M
-  parsed_round: Series A
   status: pending
 - title: Fusion power darling Commonwealth Fusion Systems raises another $1B
   url: https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/
@@ -89,22 +54,6 @@ pending_rounds:
   parsed_amount: $450M
   parsed_round: Growth
   status: pending
-- title: Inforcer raised $50M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-30'
-  parsed_company: Inforcer
-  parsed_amount: $50M
-  parsed_round: Series C
-  status: pending
-- title: Encore AI raised $30M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-30'
-  parsed_company: Encore AI
-  parsed_amount: $30M
-  parsed_round: Series A
-  status: pending
 - title: Epitel raised $26M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -113,28 +62,12 @@ pending_rounds:
   parsed_amount: $26M
   parsed_round: Series B
   status: pending
-- title: Foundational Industries raised $25M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-30'
-  parsed_company: Foundational Industries
-  parsed_amount: $25M
-  parsed_round: Seed
-  status: pending
 - title: Bloom Security raised $20M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
   date_found: '2026-07-30'
   parsed_company: Bloom Security
   parsed_amount: $20M
-  parsed_round: Seed
-  status: pending
-- title: Intropy raised $11M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-30'
-  parsed_company: Intropy
-  parsed_amount: $11M
   parsed_round: Seed
   status: pending
 - title: Quercus Biosolutions raised $5M seed
