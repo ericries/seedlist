@@ -157,7 +157,7 @@ QED claims to invest across the full fintech stack, but the verified portfolio s
 | OneCard | Series A | 2019 | Consumer Finance | Active (Unicorn) | [^37] |
 | Capchase | Series A (Led) | 2021 | Lending | Active | [^38] |
 | Moniepoint | Pre-Series C (Co-led) | 2022 | Payments | Active (Unicorn) | [^9] |
-| Augustus | Series B (Tiger Global-led, $180M at $1B post-money) | 2026-07-21 | Fintech / Stablecoin Clearing Bank | Active (Unicorn) | [^43][^44] |
+| Augustus | Series B (Tiger Global-led, $180M at $1B post-money; QED participated alongside Hummingbird, Soma Capital, Road Capital Management, CMT Digital, Brevan Howard Digital, Variant, and angels David Velez/Nubank, Karim Atiyeh/Ramp, Sean Neville/Circle, Alex Bouaziz/Deel, Balaji Srinivasan) | 2026-07-21 | Fintech / Stablecoin Clearing Bank | Active (Unicorn) | [^43][^44][^45][^46] |
 
 This table represents 27 portfolio companies (28 entries including the Current Series E follow-on, June 11, 2026 [^40][^41][^42]) of QED's 250+ claimed investments (~11%). The full portfolio includes companies across 27 countries and additional sectors including wealthtech, edtech, HR tech, vertical SaaS, and data aggregation, as listed on QED's website [^1].
 
@@ -166,6 +166,8 @@ This table represents 27 portfolio companies (28 entries including the Current S
 "Fintech is about leveraging the best aspects of technology -- mobile adaptation, optimising data, agile tech build, and heightening rapid learning -- to make financial services better for consumers. But at its core, it's about solving a problem for a user." -- Nigel Morris, QED Investors blog interview [^10]
 
 "Growth at all costs will not win the day in this business cycle. Unit economics, product-market fit and clear paths to profitability are the keys to survival." -- Nigel Morris, QED fund announcement, May 2023 [^6]
+
+"Correspondent banking is the last remaining part of the bank stack that hasn't been challenged yet by fintechs." -- Nigel Morris, Co-Founder of Capital One and Managing Partner at QED Investors, Augustus Series B announcement, July 21, 2026 [^43]
 
 "Fund VII is the largest proof point we have that proves that our model is working." -- Nigel Morris, Fund VII announcement, September 2021 [^7]
 
@@ -241,3 +243,5 @@ This table represents 27 portfolio companies (28 entries including the Current S
 [^42]: AlleyWatch Startup Daily Funding Report, June 11, 2026, accessed June 2026. https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-11-2026/
 [^43]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
 [^44]: FinTech Global, "Augustus lands $180m Series B to dollarise the world," July 21, 2026. Accessed July 22, 2026. https://fintech.global/2026/07/21/augustus-lands-180m-series-b-to-dollarise-the-world/
+[^45]: CoinDesk, "Stablecoin bank Augustus raises $180 million to build a clearing bank for the AI era," July 21, 2026. Accessed July 30, 2026. https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era
+[^46]: The Block, "Augustus raises $180 million Series B at $1 billion valuation to build the 'Global Dollar Bank'," July 21, 2026. Accessed July 30, 2026. https://www.theblock.co/post/409119/augustus-raises-180-million-series-b-global-dollar-bank

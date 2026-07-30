@@ -15,6 +15,9 @@ priority:
   type: firm
   reason: appeared in ThreatLocker Series F (2026-07-29)
   added: 2026-07-29
+  status: resolved
+  resolved: '2026-07-30'
+  note: 'Added ThreatLocker Series F row to KDT portfolio (2026-07-29, USD 190M; Elephant led; KDT new participant; D. E. Shaw Ventures + Arthur Ventures existing; Emerson James (KDT Director) quoted). Verified via 3 primary sources: [^42] PR Newswire company release, [^43] SecurityWeek, [^44] Pulse 2.0. 3 new footnotes added.'
 - slug: 7wire-ventures
   type: firm
   reason: 'Fact-spec sweep 2026-07-28: tightened 3 vague Portfolio rows on 7wire-ventures.md via 3 primary sources each. (1) FOLX HEALTH: ''Series B | 2022'' → ''Series B ($30M; 7wireVentures led; Foresite Capital new; Bessemer, Define, Polaris returning) | 2022-10-12'' via existing PR Newswire [^38] + NEW PR Newswire primary [^64] + NEW WWD [^65]. (2) MEDARRIVE: ''Series A | 2021'' → ''Series A ($25M; Section 32 led; 7wireVentures, Leaps by Bayer new; Define, Kleiner Perkins, Redesign Health returning) | 2021-11-17'' via existing GlobeNewswire [^40] + NEW GlobeNewswire primary [^66] + NEW HIT Consultant [^67]. (3) WELLTHEORY: ''Early | 2022'' CORRECTED to ''Series A ($14M; General Catalyst led; 7wire Ventures, Ingeborg Investments, Up2 Opportunity Fund new; Accel, Box Group returning) | 2025-10-14'' — 7wire did NOT invest in the 2022 seed (Accel-led without 7wire); their first check was the 2025 Series A. Via NEW BusinessWire [^68] + NEW MobiHealthNews [^69] + HLTH News cross-check. 6 new
@@ -3416,6 +3419,9 @@ priority:
   type: firm
   reason: co-invested in Augustus Series B ($180M, 2026-07-21)
   added: 2026-07-22
+  status: resolved
+  resolved: '2026-07-30'
+  resolution_notes: 'Fact-spec 2026-07-30: Verified Augustus Series B row in qed-investors.md portfolio (line 160). Expanded participant list (Hummingbird, Soma Capital, Road Capital Management, CMT Digital, Brevan Howard Digital, Variant + angel investors from Nubank/Ramp/Circle/Deel plus Balaji Srinivasan). Added CoinDesk [^45] and The Block [^46] as third and fourth primary sources (originally 2: PR Newswire [^43] + FinTech Global [^44]). Added Nigel Morris QED quote to In Their Own Words section: "Correspondent banking is the last remaining part of the bank stack that hasn''t been challenged yet by fintechs." All 4 sources confirm 2026-07-21 date, USD 180M Series B at USD 1B post-money, Tiger Global led, QED participated.'
 - slug: david-velez
   type: investor
   reason: angel in Augustus Series B ($180M, 2026-07-21)
@@ -3448,6 +3454,9 @@ priority:
   type: firm
   reason: led Yope Seed ($12.3M, 2026-07-22)
   added: 2026-07-22
+  status: resolved
+  resolved: '2026-07-30'
+  resolution_notes: 'Fact-spec 2026-07-30: Re-verified Yope Seed row already present in northzone.md portfolio (line 136) with 3 primary sources [^yope1] TechCrunch, [^yope2] Fundraise Insider, [^yope3] Pulse 2.0. Yope startup profile (yope.md) and par-jorgen-parson.md investor profile also already fully cited. All three sources confirm USD 12.3M seed (per TechCrunch) led by Northzone with Pär-Jörgen Pärson as lead partner, participants Inovo, Redseed, Geek Ventures. Announcement date 2026-07-22 per TechCrunch. Verbatim Pärson quote about "predatory practices of Meta, TikTok or X" already in profile. No new edits required — row was already 3-source verified.'
 - slug: par-jorgen-parson
   type: investor
   reason: led Yope Seed for Northzone ($12.3M, 2026-07-22)
@@ -3466,6 +3475,9 @@ priority:
   type: firm
   reason: participated in Assured Health Series A ($19M, 2026-07-22)
   added: 2026-07-23
+  status: resolved
+  resolved: '2026-07-30'
+  resolution_notes: 'Fact-spec 2026-07-30: Tightened Assured Health row in first-round-capital.md from 2026-07-22 to 2026-07-21 (company blog primary source dated 2026-07-21; press coverage followed 2026-07-22 and 2026-07-23). Added 2 new primary sources: [^ah-fr3] Assured company blog and [^ah-fr4] HIT Consultant (originally 2: [^ah-fr1] MobiHealthNews + [^ah-fr2] MedCity News). Also updated insight-partners.md Assured Health row to 2026-07-21 with syndicate detail and 4 sources ([^ah1]-[^ah4]). Updated assured-health.md startup profile frontmatter dates to 2026-07-21 and Funding History row with 4 sources. All 3+ primary sources confirm USD 19M Series A led by Insight Partners with First Round Capital and Kindred Ventures participating.'
 - slug: andreessen-horowitz
   type: firm
   reason: led Atoms $1.7B growth round (2026-07-22)
@@ -3727,10 +3739,16 @@ priority:
   type: firm
   reason: participated in Healia Series A (2026-07-29), $14M
   added: 2026-07-30
+  status: resolved
+  resolved: '2026-07-30'
+  note: 'Added Healia row to y-combinator portfolio and CORRECTED date to 2026-07-28 (PR Newswire byline "COLUMBUS, Ohio, July 28, 2026" — the initial reason field said 2026-07-29 which was wrong). Confirmed W24 batch via YC portfolio page. Row: "Healia | W24 | 2022 | Healthcare / Benefits / HRA / Dual-Income Families | Private (Series A $14M 2026-07-28, 111° West Capital-led; YC participated alongside First Round Capital, Pioneer Fund, GoAhead Ventures, North Coast Ventures; $18M total funding; Columbus, OH; founder Priyang Shah)". 4 new footnotes ([^healia1]-[^healia4]) — PR Newswire company release, Yahoo Finance syndication, SignalBase, YC portfolio page. Also fixed date + founded year on healia.md startup profile (was 2024, actual 2022) and added 2 more citations to bring startup profile from 3 to 5 sources.'
 - slug: first-round-capital
   type: firm
   reason: participated in Healia Series A (2026-07-29), $14M
   added: 2026-07-30
+  status: resolved
+  resolved: '2026-07-30'
+  note: 'Added Healia row to first-round-capital portfolio, corrected date to 2026-07-28 per PR Newswire byline. Row: "Healia | Series A (participated; 111° West Capital led, $14M; Y Combinator, Pioneer Fund, GoAhead Ventures, North Coast Ventures also participated) | 2026-07-28 | Healthcare / Benefits / HRA / Dual-Income Families | Active (Columbus, OH; founder Priyang Shah, YC W24; $18M total funding)". 3 new footnotes ([^healia-fr1]-[^healia-fr3]) — PR Newswire company release, Yahoo Finance syndication, SignalBase.'
 - slug: battery-ventures
   type: firm
   reason: co-led Freehand Series B (2026-07-29), $75M

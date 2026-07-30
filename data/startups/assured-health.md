@@ -12,11 +12,11 @@ firms:
   - slug: insight-partners
     round: series-a
     year: 2026
-    date: 2026-07-22
+    date: 2026-07-21
   - slug: first-round-capital
     round: series-a
     year: 2026
-    date: 2026-07-22
+    date: 2026-07-21
 founders:
   - name: "Rahul Shivkumar"
     role: "Co-Founder"
@@ -34,7 +34,7 @@ Assured Health, based in New York, uses AI agents to automate provider credentia
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
-| 2026-07-22 | Series A | $19M | Insight Partners | First Round Capital, Kindred Ventures [^1][^2][^3] |
+| 2026-07-21 | Series A | $19M | Insight Partners | First Round Capital, Kindred Ventures [^1][^2][^3][^4] |
 
 The round brings Assured Health's total funding to $25M [^1][^2].
 
@@ -59,3 +59,4 @@ The round brings Assured Health's total funding to $25M [^1][^2].
 [^1]: MedCity News, "Assured Health Secures $19M to Get Providers In-Network Faster with Agentic AI," July 23, 2026. Accessed July 2026. https://medcitynews.com/2026/07/assured-health-healthcare-credentialing/
 [^2]: MobiHealthNews, "Assured raises $19M for AI provider operations platform," July 22, 2026. Accessed July 2026. https://www.mobihealthnews.com/news/assured-raises-19m-ai-provider-operations-platform
 [^3]: HIT Consultant, "Assured Raises $19M to Replace Manual Credentialing with Autonomous AI Agents," July 22, 2026. Accessed July 2026. https://hitconsultant.net/2026/07/22/%EF%BF%BCassured-raises-19m-to-replace-manual-credentialing-with-autonomous-ai-agents/
+[^4]: Assured company blog, "We Raised $19M to Automate Provider Operations With AI Agents," July 21, 2026. Accessed July 30, 2026. https://www.withassured.com/blog/we-raised-19m-series-a

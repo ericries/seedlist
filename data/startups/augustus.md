@@ -82,7 +82,7 @@ The Series B was struck at a $1 billion post-money valuation and brings total fu
 
 ## What Investors Say
 
-No independently sourced investor quotes found at time of publication.
+Nigel Morris, Co-Founder of Capital One and Managing Partner at QED Investors: "Correspondent banking is the last remaining part of the bank stack that hasn't been challenged yet by fintechs" [^1].
 
 ## What Founders Say
 
@@ -99,3 +99,4 @@ Dabitz, on AI and programmable money: "If AI agents should interact with the ban
 [^1]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
 [^2]: FinTech Global, "Augustus lands $180m Series B to dollarise the world," July 21, 2026. Accessed July 22, 2026. https://fintech.global/2026/07/21/augustus-lands-180m-series-b-to-dollarise-the-world/
 [^3]: CoinDesk, "Stablecoin bank Augustus raises $180 million to build a clearing bank for the AI era," July 21, 2026. Accessed July 22, 2026. https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era
+[^4]: The Block, "Augustus raises $180 million Series B at $1 billion valuation to build the 'Global Dollar Bank'," July 21, 2026. Accessed July 30, 2026. https://www.theblock.co/post/409119/augustus-raises-180-million-series-b-global-dollar-bank

@@ -139,7 +139,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | InstaLILY AI | Series B ($60M, participated; Energize Capital led; Home Depot Ventures + United Rentals new) | 2026-07-14 | Vertical AI / Enterprise Agents | Active | [^52][^53][^54] |
 | TytoCare | Growth ($25M+, led; oversubscribed) | 2026-07-15 | Digital Health / Remote Care / AI Diagnostics | Active (Adam Pellegrini appointed CEO) | [^tyto1][^tyto2][^tyto3] |
 | Passionfroot | Series A ($15M, led) | 2026-07-22 | Creator Economy / B2B Marketplace / AI | Active | [^pfr1][^pfr2] |
-| Assured Health | Series A ($19M, led) | 2026-07-22 | Healthtech / Agentic AI / Credentialing | Active | [^ah1][^ah2] |
+| Assured Health | Series A ($19M, led; First Round Capital and Kindred Ventures participated) | 2026-07-21 | Healthtech / Agentic AI / Credentialing | Active | [^ah1][^ah2][^ah3][^ah4] |
 | Mate Security | Series A ($35M, participated; Canaan Partners led; Team8, M12 also participated) | 2026-07-28 | Cybersecurity / AI Security Operations | Active | [^mate1][^mate2][^mate3] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
@@ -254,6 +254,10 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^ah1]: MedCity News, "Assured Health Secures $19M to Get Providers In-Network Faster with Agentic AI," July 23, 2026. Accessed July 2026. https://medcitynews.com/2026/07/assured-health-healthcare-credentialing/
 
 [^ah2]: MobiHealthNews, "Assured raises $19M for AI provider operations platform," July 22, 2026. Accessed July 2026. https://www.mobihealthnews.com/news/assured-raises-19m-ai-provider-operations-platform
+
+[^ah3]: Assured company blog, "We Raised $19M to Automate Provider Operations With AI Agents," July 21, 2026. Accessed July 30, 2026. https://www.withassured.com/blog/we-raised-19m-series-a — Company's own announcement dated 2026-07-21; includes Teddie Wardi (Insight Partners) quote on provider credentialing being a painful and expensive part of scaling.
+
+[^ah4]: HIT Consultant, "Assured Raises $19M to Replace Manual Credentialing with Autonomous AI Agents," July 22, 2026. Accessed July 30, 2026. https://hitconsultant.net/2026/07/22/assured-raises-19m-to-replace-manual-credentialing-with-autonomous-ai-agents/ — Independent healthcare IT trade press confirmation of $19M Series A led by Insight Partners with First Round Capital and Kindred Ventures participating.
 
 [^mate1]: Calcalist, "Former Wiz and Microsoft veterans raise USD 35 million Series A to build the 'operating system' for AI cybersecurity agents," July 28, 2026. Accessed July 2026. https://www.calcalistech.com/ctechnews/article/ryb30q8bge
 
