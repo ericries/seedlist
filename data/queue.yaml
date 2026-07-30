@@ -43379,3 +43379,89 @@ queue:
   added: '2026-03-17'
   discovered_from: vijay-shekhar-sharma
   source: co-investor Yoho pre-Series A Oct 2022
+- name: Adam Nelson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: FirstMark Capital
+  discovered_from: henry-ai
+- name: 1Sharpe Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: henry-ai
+- name: Coalition Operators
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: henry-ai
+- name: Bluff Point Associates
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pex
+- name: Clear Haven Capital Management
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pex
+- name: Moonfire
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: weave
+- name: Burst Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: weave
+- name: IrregEx
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: weave
+- name: The Agent Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: weave
+- name: Adam Cohen
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Weave
+  discovered_from: weave
+- name: Angular Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: groundcover
+- name: Jibe
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: groundcover
+- name: Elephant
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: threatlocker
+- name: Arthur Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: threatlocker
