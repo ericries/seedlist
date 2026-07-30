@@ -1,24 +1,51 @@
 ---
-name: "Polar"
-slug: polar-browser
-type: startup
-website: "https://polarbrowser.com"
-founded: 2025
-status_company: active
-sector: [ai, ai-browser, productivity, agentic-ai, knowledge-work, developer-tools]
-stage_latest: "Seed"
-total_raised: "$5.7M"
 firms:
-  - slug: madrona-venture-group
-    round: seed
-    year: 2026
-    date: 2026-07-29
-investors: []
+- date: 2026-07-29
+  round: seed
+  slug: madrona-venture-group
+  year: 2026
+- round: Seed ($10M)
+  slug: framer
+  year: 2025
+- round: '2025-06-17'
+  slug: independent
+  year: 2025
+- round: Seed
+  slug: vercel
+  year: 2025
+founded: 2025
 founders:
-  - name: "Kevin Jiang"
-    role: "CEO & Co-Founder"
-status: published
+- name: Kevin Jiang
+  role: CEO & Co-Founder
+investors:
+- round: Seed ($10M)
+  slug: koen-bok
+  year: 2025
+- round: '2025-06-17'
+  slug: tobi-lutke
+  year: 2025
+- round: Seed
+  slug: paul-copplestone
+  year: 2025
+- round: Seed
+  slug: guillermo-rauch
+  year: 2025
 last_researched: 2026-07-29
+name: Polar
+sector:
+- ai
+- ai-browser
+- productivity
+- agentic-ai
+- knowledge-work
+- developer-tools
+slug: polar-browser
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $5.7M
+type: startup
+website: https://polarbrowser.com
 ---
 
 ## About

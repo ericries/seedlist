@@ -28992,7 +28992,7 @@ queue:
 - name: Koen Bok
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Framer
   discovered_from: karri-saarinen
@@ -33125,7 +33125,7 @@ queue:
 - name: Vijay Shekhar Sharma
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Paytm
   discovered_from: bhavish-aggarwal
@@ -43069,3 +43069,313 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: alpen-high-performance-products
+- name: Draper B1
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 8layers
+  source: co-invested in 8Layers €1.5M pre-seed (2025-06-30)
+- name: Criteria Venture Tech
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 8layers
+  source: co-led 8Layers €1M pre-seed extension (2026-07-07)
+- name: Jorn van Dijk
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Framer
+  discovered_from: koen-bok
+  source: Framer co-founder & Festina co-founder, angel in Linear, VoidZero, Spline
+- name: Festina
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: koen-bok
+  source: Early-stage fund by Koen Bok & Jorn van Dijk (Framer); invests in design-forward
+    software
+- name: Framer
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: koen-bok
+  source: Amsterdam no-code website builder; $100M Series D Aug 2025 at $2B (Meritech/Atomico/Accel)
+- name: Andrew Wilkinson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Tiny / MetaLab
+  discovered_from: koen-bok
+  source: MetaLab founder, co-invested Pitch Series A (2019)
+- name: Simon Willnauer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Elastic
+  discovered_from: koen-bok
+  source: Elastic co-founder, co-invested Pitch Series A (2019)
+- name: Frank Thelen
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Freigeist Capital
+  discovered_from: koen-bok
+  source: German angel/VC, co-invested Pitch Series A (2019)
+- name: Ives van Hoorne
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CodeSandbox
+  discovered_from: koen-bok
+  source: CodeSandbox founder (acquired by Together AI Dec 2024)
+- name: Evan You
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: VoidZero
+  discovered_from: koen-bok
+  source: VoidZero/Vite founder; Koen Bok invested Series A (2025-10)
+- name: Eric Simons
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: StackBlitz
+  discovered_from: koen-bok
+  source: StackBlitz founder; co-angel with Koen Bok at VoidZero Series A
+- name: VoidZero
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: koen-bok
+  source: Evan You's JS toolchain co; $12.5M Series A 2025-10-30 (Accel, Peak XV,
+    Koen Bok)
+- name: Spline
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: koen-bok
+  source: 3D design tool; Festina portfolio company
+- name: Bounti
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: koen-bok
+  source: $5M seed March 2026, Koen Bok angel (per NFX Signal)
+- name: One97 Communications (Paytm)
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: operating company Vijay Shekhar Sharma founded/CEOs; parent of Paytm
+- name: VSS Investco
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: Vijay Shekhar Sharma's family office / personal investment vehicle (est.
+    Feb 2020)
+- name: VSS Investments Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: SEBI Category II AIF sponsored by VSS Investco, Rs 30 Cr corpus (Oct 2023)
+- name: NoBroker
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: Nov 2016 angel round; VSS portfolio unicorn
+- name: Innov8
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: Feb 2017 angel round with Rajan Anandan, Kunal Shah, Girish Mathrubhootham
+- name: Kawa Space
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: Sept 2019 pre-Series A spacetech, Mumbai
+- name: Treebo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: Oct 2020 Rs 10 Cr angel round with Jaydeep Barman
+- name: Masai School
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: Oct 2021 angel round with 20 other named investors incl. Kunal Shah
+- name: Yoho
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: Oct 2022 pre-Series A Rs 20 Cr, led by Rajeev Misra (SoftBank)
+- name: TechEagle
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: May 2024 bridge round with Navam Capital, IPV; dronetech
+- name: thumpN
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: July 2026 pre-seed $3.75M via VSS Investco; ex-Paytm Insider founder
+- name: The Ken
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: Nov 2016 angel; independent media
+- name: FactorDaily
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: 2016 seed; independent tech media
+- name: GOQii
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: July 2015 angel; wearables/health
+- name: TapChief
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: April 2016 $150K angel; acquired by Unacademy 2021
+- name: Milaap
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: Sept 2010 seed $75K; crowdfunding
+- name: Supersourcing
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: Feb 2021 seed Rs 1.5 Cr with Ritesh Malik
+- name: Evenflow
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: April 2025 Series A; e-commerce brand aggregator
+- name: Rajeev Misra
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: One Investment Management
+  discovered_from: vijay-shekhar-sharma
+  source: co-investor in Yoho pre-Series A Oct 2022; ex-SoftBank Vision Fund CEO
+- name: Girish Mathrubhootham
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Freshworks
+  discovered_from: vijay-shekhar-sharma
+  source: co-investor in Innov8 Feb 2017 angel round; Freshworks founder
+- name: Ritesh Malik
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Innov8
+  discovered_from: vijay-shekhar-sharma
+  source: Innov8 founder; co-investor with VSS in Supersourcing seed Feb 2021
+- name: Jaydeep Barman
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Rebel Foods
+  discovered_from: vijay-shekhar-sharma
+  source: co-investor Treebo Rs 10 Cr angel Oct 2020; Rebel Foods CEO
+- name: Vishal Gondal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: GOQii
+  discovered_from: vijay-shekhar-sharma
+  source: GOQii founder; co-investor Innov8 Feb 2017 angel
+- name: Inflection Point Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: co-lead with VSS in STAGE Rs 3.5 Cr March 2021 and TechEagle bridge May
+    2024
+- name: Navam Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: co-led TechEagle bridge round May 2024 with VSS
+- name: Venture Catalysts
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: co-investor Innov8 Feb 2017 angel; Evenflow Series A 2025
+- name: Roots Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: Rs 200 Cr maiden fund (June 2019), Vijay Shekhar Sharma anchor investor
+- name: Rukam Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vijay-shekhar-sharma
+  source: co-investor Yoho pre-Series A Oct 2022

@@ -11,6 +11,9 @@ firms:
 - round: '2022'
   slug: cyberstarts
   year: 2022
+- round: Pre-Seed ($3M)
+  slug: framer
+  year: 2026
 founders:
 - name: Louis Lecat
   role: CEO & Co-Founder
@@ -22,6 +25,9 @@ investors:
 - round: '2022'
   slug: michael-shaulov
   year: 2022
+- round: Pre-Seed ($3M)
+  slug: koen-bok
+  year: 2026
 last_researched: 2026-06-08
 location: Paris, France
 name: Upstream

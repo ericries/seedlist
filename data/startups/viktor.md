@@ -7,6 +7,9 @@ firms:
 - round: Series A
   slug: independent
   year: 2026
+- round: Series A ($75M)
+  slug: framer
+  year: 2026
 founded: 2025
 founders: []
 investors:
@@ -28,6 +31,9 @@ investors:
 - slug: harry-stebbings
 - round: Series A ($75M)
   slug: alex-bouaziz
+  year: 2026
+- round: Series A ($75M)
+  slug: koen-bok
   year: 2026
 last_researched: 2026-05-20
 location: Rotterdam, Netherlands
