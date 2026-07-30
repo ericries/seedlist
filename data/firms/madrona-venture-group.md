@@ -174,6 +174,7 @@ The following table represents 55 of approximately 269 active and exited portfol
 | Gray Swan | Series A | 2026-05-28 | Security (AI Safety) | Active ($40M Series A at $200M val, co-led with Wing Venture Capital; Vivek Ramaswami quoted; Obvious Ventures, Snowflake Ventures, Hudson River Trading, Samsung Next, Magarac Venture Partners participated) [^72][^73][^74] |
 | Golden Analytics | Seed Extension | 2026-06-09 | AI & Intelligent Apps | Active ($14M seed extension led by Insight Partners; NEA and Madrona re-upped; brings total seed to $21M) [^75][^76] |
 | Gradial | Series C | 2026-06-18 | AI & Intelligent Apps | Active ($65M Series C led by Insight Partners at $675M valuation; Madrona participated alongside VMG Partners and PruVen) [^77][^78] |
+| Polar | Seed | 2026-07-29 | AI & Intelligent Apps (AI Browser) | Active ($5.7M seed led by Madrona; Sabrina Albert led the investment; angels Thomas Dohmke, Phoebe Gates, Erik Bernhardsson, Benjamin Spector, Rob Wachen, and Robert Yang participated) [^79][^80][^81] |
 
 ## In Their Own Words
 
@@ -296,3 +297,9 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^77]: Axios, "Exclusive: Gradial raises $65M for agentic marketing," June 18, 2026. Accessed June 2026. https://www.axios.com/2026/06/18/gradial-ai-agents-marketing — Confirms Madrona participated in Insight-led $65M Series C at $675M valuation.
 
 [^78]: GeekWire, "Gradial raises $65M as startup sees rapid growth around agentic tools for enterprise marketing," June 18, 2026. Accessed June 2026. https://www.geekwire.com/2026/gradial-raises-65m-as-startup-sees-rapid-growth-around-agentic-tools-for-enterprise-marketing/ — Independently confirms Madrona as participant in Gradial Series C.
+
+[^79]: TechCrunch, "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work," July 29, 2026. Accessed July 30, 2026. https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/ — Confirms Madrona led Polar's $5.7M seed with angels Thomas Dohmke, Phoebe Gates, Erik Bernhardsson, Benjamin Spector, Rob Wachen, and Robert Yang participating.
+
+[^80]: BusinessWire (via Las Vegas Sun), "Polar, the AI Browser That Does Real Work, Raises $5.7M," July 29, 2026. Accessed July 30, 2026. https://lasvegassun.com/news/2026/jul/29/polar-the-ai-browser-that-does-real-work-raises-57/ — Company press release confirms $5.7M seed led by Madrona; Sabrina Albert quoted as leading the investment; Thomas Dohmke and Erik Bernhardsson named as angels.
+
+[^81]: Tech Startups, "Polar, AI startup founded by former Perplexity engineer behind Comet, raises $5.7M for AI browser that automates knowledge work," July 29, 2026. Accessed July 30, 2026. https://techstartups.com/2026/07/29/polar-ai-startup-founded-by-former-perplexity-engineer-behind-comet-raises-5-7m-for-ai-browser-that-automates-knowledge-work/ — Third independent source confirming the Madrona-led $5.7M seed round.

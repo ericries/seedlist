@@ -7036,6 +7036,13 @@ priority:
   type: firm
   reason: participated in Cordant Seed ($8M, 2026-07-21)
   added: 2026-07-23
+  status: resolved
+  resolved: 2026-07-30
+  note: 'Verified via 3 primary sources — CTech, TechStartups, Fintech Global — that FJ Labs
+    participated in Cordant $8M seed (co-led by Motive Partners and Oak HC/FT) on 2026-07-21.
+    Row already present in fj-labs.md portfolio (line 122) with two citations [^cor-fj1] Refresh
+    Miami and [^cor-fj2] TechStartups. Cordant startup profile also already up-to-date. No new
+    edits needed.'
 - slug: sv-angel
   type: firm
   reason: participated in Atoms $1.7B growth round (2026-07-22)
@@ -7343,6 +7350,13 @@ priority:
   type: firm
   reason: led Pangram seed (2026-07-29), $9M
   added: 2026-07-29
+  status: resolved
+  resolved: 2026-07-30
+  note: 'Duplicate of later entry — verified via 3 primary sources (TechCrunch,
+    BusinessWire/Las Vegas Sun, SiliconANGLE — all dated 2026-07-29) that Menlo led Pangram
+    $9M with Haystack, ScOp Venture Capital, Script Capital, Cadenza participating. Round
+    already present in menlo-ventures.md (line 129) and pangram.md is fully built. No new
+    edits needed.'
 - slug: penny-pritzker
   type: investor
   reason: participated in Freehand Series B (2026-07-29), $75M
@@ -7351,6 +7365,18 @@ priority:
   type: firm
   reason: led Polar seed (2026-07-29), $5.7M
   added: 2026-07-29
+  status: resolved
+  resolved: 2026-07-30
+  note: 'Added Polar Seed row to madrona-venture-group.md Portfolio (2026-07-29, $5.7M, led;
+    Sabrina Albert led the investment; angels Thomas Dohmke, Phoebe Gates, Erik Bernhardsson,
+    Benjamin Spector, Rob Wachen, Robert Yang participated). Verified via 3 primary sources:
+    [^79] TechCrunch (2026-07-29), [^80] BusinessWire via Las Vegas Sun (2026-07-29 company
+    press release), [^81] Tech Startups (2026-07-29). Also fixed polar-browser.md frontmatter
+    (removed spurious framer/independent/vercel/koen-bok/tobi-lutke/paul-copplestone/guillermo-rauch
+    entries that had been mis-inserted by xref; added Vishaal Ram and Howard Zhong co-founders;
+    corrected founded from 2025 to 2026), expanded About with all 3 primary sources, added
+    Sabrina Albert investor quote and second Kevin Jiang founder quote. 3 new footnotes
+    added to madrona-venture-group.md.'
 - slug: revolution
   type: firm
   reason: participated in Buildforce Series A (2026-07-28), $10M via Rise of the Rest
