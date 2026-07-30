@@ -43577,3 +43577,98 @@ queue:
   added: '2026-03-17'
   firm: Aurenar
   discovered_from: aurenar
+- name: Marcus Ryu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Battery Ventures
+  discovered_from: terminal-telematics
+- name: Penske Corporation
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: terminal-telematics
+- name: 20SALES
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: centralize
+- name: Ritual Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: centralize
+- name: Scott Woody
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: angel
+  discovered_from: centralize
+- name: Prologis Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: unit-ai
+- name: Ground Up Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: unit-ai
+- name: eGateway Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: unit-ai
+- name: Think + Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: unit-ai
+- name: ZEP Fund
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: unit-ai
+- name: Crosscourt
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: unit-ai
+- name: Guy Glass
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: UNIT AI
+  discovered_from: unit-ai
+- name: Avihou Barkay
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: UNIT AI
+  discovered_from: unit-ai
+- name: Zigg Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: foundational-industries
+- name: Jonathan Winer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Foundational Industries
+  discovered_from: foundational-industries

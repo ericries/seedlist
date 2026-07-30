@@ -20,6 +20,41 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Assured Raises $19M Series A Led by Insight Partners to Automate Healthcare
+    Provider Operations with AI Agents
+  url: https://www.globenewswire.com/news-release/2026/07/30/3335854/0/en/Assured-Raises-19M-Series-A-Led-by-Insight-Partners-to-Automate-Healthcare-Provider-Operations-with-AI-Agents.html
+  source: globenewswire
+  date_found: '2026-07-30'
+  parsed_company: Assured
+  parsed_amount: $19M
+  parsed_round: Series A
+  status: pending
+- title: Inforcer raises $50M to help prepare smaller businesses for a new world of
+    AI and security risks
+  url: https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/
+  source: techcrunch
+  date_found: '2026-07-30'
+  parsed_company: Inforcer
+  parsed_amount: $50M
+  parsed_round: null
+  status: pending
+- title: Dili raises $21.7M to bring AI compliance to the infrastructure boom
+  url: https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
+  source: techcrunch
+  date_found: '2026-07-30'
+  parsed_company: Dili
+  parsed_amount: $21.7M
+  parsed_round: null
+  status: pending
+- title: London-based Intropy raises €9.5 million to build the AI-native operating
+    system for the spare parts industry
+  url: https://www.eu-startups.com/2026/07/london-based-intropy-raises-e9-5-million-to-build-the-ai-native-operating-system-for-the-spare-parts-industry/
+  source: eu-startups
+  date_found: '2026-07-30'
+  parsed_company: London-based Intropy
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Wild Bio acquires F1 Seed to create Britain’s first independent precision-breeding
     wheat business
   url: https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/
@@ -856,22 +891,5 @@ pending_rounds:
   date_found: '2026-07-16'
   parsed_company: Paris-based Syntetica
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Cambridge’s Silicon Microgravity secures €7.08 million to scale its GPS-free
-    sensing and navigation tech
-  url: https://www.eu-startups.com/2026/07/cambridges-silicon-microgravitsecures-e7-08-million-to-scale-its-gps-free-sensing-and-navigation-tech/
-  source: eu-startups
-  date_found: '2026-07-16'
-  parsed_company: Cambridge’s Silicon Microgravity
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: s first fund raised $91.2M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-16'
-  parsed_company: s first fund
-  parsed_amount: $91.2M
   parsed_round: null
   status: pending

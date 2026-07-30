@@ -3767,3 +3767,31 @@ priority:
   added: 2026-07-30
   status: resolved
   resolved: 2026-07-30
+- slug: battery-ventures
+  type: firm
+  reason: "led Terminal Series A (2026-07-29), USD 20M"
+  added: 2026-07-30
+- slug: y-combinator
+  type: firm
+  reason: "participated in Terminal Series A (2026-07-29) and Centralize Series A (2026-07-29)"
+  added: 2026-07-30
+- slug: nea
+  type: firm
+  reason: "led Centralize Series A (2026-07-29), USD 19M"
+  added: 2026-07-30
+- slug: boxgroup
+  type: firm
+  reason: "led Foundational Industries Seed (2026-07-30), USD 25M"
+  added: 2026-07-30
+- slug: abstract-ventures
+  type: firm
+  reason: "participated in Foundational Industries Seed (2026-07-30)"
+  added: 2026-07-30
+- slug: buckley-ventures
+  type: firm
+  reason: "participated in Foundational Industries Seed (2026-07-30)"
+  added: 2026-07-30
+- slug: recursive-ventures
+  type: firm
+  reason: "participated in UNIT AI round (2026-07-29), USD 12M"
+  added: 2026-07-30
