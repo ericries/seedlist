@@ -170725,7 +170725,9 @@ vague_facts:
   line: '| 2026-07-22 | Seed | USD 15M | The O.H.I.O. Fund | [^1][^2] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-29
+  resolution_notes: 'Fact-spec sweep 2026-07-29: tightened Funding History row on 1872.md — Co-investors column verified as ''No additional co-investors named in primary press''. Verified via 3+ primary sources: existing Yahoo Finance [^1] + existing AI Insider [^2] + NEW O.H.I.O. Fund press release primary [^3] + NEW Pulse 2.0 [^4]. O.H.I.O. Fund was sole named investor across all four sources; Path Robotics named as strategic partner (robotic welding integration), not financial participant. Also captured that Mark Kvamme (CEO/CIO) and Jill Meyer (Founding Partner) at The O.H.I.O. Fund provided investment statements. Added O.H.I.O. Fund to queue-adds. 2 new footnotes added ([^3], [^4]).'
 - profile: startups/701x
   profile_name: 701x
   company: '2026-06-04'
@@ -170736,7 +170738,9 @@ vague_facts:
     North Dakotans, Minnesotans, and rancher-user'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-29
+  resolution_notes: 'Fact-spec sweep 2026-07-29: tightened Co-investors column on 701x.md Series B row. Round was community-funded — no VC or institutional investor participation. Individual investors comprised local North Dakotans, Minnesotans (extending to greater Minneapolis area), and rancher-users nationwide. Verified via 3+ primary sources: existing PR Newswire (2026-06-04 dateline confirmed) [^1] + existing The Next Web [^2] + NEW BusinessWire via Yahoo Finance [^3] + Pulse 2.0 cross-check. Kevin Biffert (CEO/founder) quoted in press. No individual co-investors named across sources. 1 new footnote added ([^3]).'
 - profile: startups/8layers
   profile_name: 8Layers
   company: '2025'
@@ -170746,7 +170750,9 @@ vague_facts:
   line: '| 2025 | Pre-Seed | €1.5M | — | — [^1] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: 2026-07-29
+  resolution_notes: 'Fact-spec sweep 2026-07-29: tightened year-only 2025 row on 8layers.md to ''2025-06-30 | Pre-Seed | €1.5M | JME Ventures | Draper B1, Lanai Ventures, Secways''. Verified via 3+ primary/independent sources: existing EU-Startups [^1] (references prior round) + NEW Capital-Riesgo.es June 2025 primary [^4] + NEW Preqin asset profile [^5] (specifies 2025-06-30 date and investor list) + NEW Lawesome law firm advisory disclosure [^6] (confirms Secways participation). All four sources agree JME Ventures led with Draper B1, Lanai (Ventures/Partners), and Secways participating. Also updated 2026-07-07 extension row to show returning investors. Queued JME Ventures, Draper B1, and Criteria Venture Tech to queue-adds. 3 new footnotes added ([^4]-[^6]).'
 - profile: startups/8layers
   profile_name: 8Layers
   company: '2026-07-07'

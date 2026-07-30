@@ -34,8 +34,8 @@ last_researched: 2026-07-08
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2025 | Pre-Seed | €1.5M | — | — [^1] |
-| 2026-07-07 | Pre-Seed extension | €1M | Criteria Venture Tech, Bankinter | — [^1][^2][^3] |
+| 2025-06-30 | Pre-Seed | €1.5M | JME Ventures | Draper B1, Lanai Ventures (also referenced as Lanai Partners), Secways [^1][^4][^5][^6] |
+| 2026-07-07 | Pre-Seed extension | €1M | Criteria Venture Tech, Bankinter | JME Ventures, Draper B1, Lanai Ventures, Secways (returning) [^1][^2][^3] |
 
 The 2026 extension brings total pre-Seed funding to €2.5 million [^1][^2].
 
@@ -52,3 +52,6 @@ No independently sourced founder quotes from the Pre-Seed extension announcement
 [^1]: "Spanish cybersecurity startup 8Layers extends pre-Seed round to €2.5 million total funding," EU-Startups, July 7, 2026, accessed July 8, 2026. https://www.eu-startups.com/2026/07/spanish-cybersecurity-startup-8layers-extends-pre-seed-round-to-e2-5-million-total-funding/
 [^2]: "Spanish cybersecurity startup 8Layers extends pre-seed round to $2.8M total funding," Dealroom, July 7, 2026, accessed July 8, 2026. https://app.dealroom.co/news/feed/spanish-cybersecurity-startup-8layers-extends-pre-seed-round-to-2-8m-total-funding
 [^3]: "8Layers secures 2.5 million euro to scale identity security," N24, July 2026, accessed July 8, 2026. https://n24.com.tr/en/companies/8layers-secures-25-million-euro-to-scale-identity-security-947
+[^4]: "8Layers closes a €1.5 million funding round led by JME Ventures," Capital-Riesgo.es, June 2025. Accessed July 29, 2026. https://capital-riesgo.es/en/articles/8layers-closes-a-1-5-million-funding-round-led-by-jme-ventures/
+[^5]: "8layers Asset Profile," Preqin (aggregator; documents 2025-06-30 €1.5M pre-seed date and investor list). Accessed July 29, 2026. https://www.preqin.com/data/profile/asset/8layers/768955
+[^6]: "Lawesome advises Secways in 8Layers €1.5M funding round," Lawesome (law firm advisory disclosure). Accessed July 29, 2026. https://www.lawesome.es/en/areas-of-business/lawesome-advises-secways-in-8layers-15m-funding-round
