@@ -179,7 +179,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Stripe | Series C (led) | 2014-01-22 | Fintech / Payments | Private [^23][^52][^53] |
 | Facebook | Angel/Early | ~2005 | Consumer Internet / Social | Public (IPO 2012) [^1] |
 | Airbnb | Series C (led) | 2013-10-28 | Marketplace | Public (IPO 2020) [^22][^54] |
-| Ramp | Growth | ~2019 (founded) | Fintech | Private [^20] |
+| Ramp | Seed/Series A (led, $25M total disclosed at launch; Keith Rabois joined board) | 2020-02-12 | Fintech | Private [^89][^90][^91] |
 | Neuralink | Series D (led, $280M) | 2023-08-07 | Biotech / Neural Interface / BCI | Private [^83][^84][^85] |
 | OpenAI | Series F (participated) | 2025-03-31 | AI | Private [^25][^45] |
 | Enter | Series B (led) | 2026-05-05 | AI / Legal Tech / LatAm | Private [^46][^47] |
@@ -204,10 +204,10 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Until | Early | ~2023 (founded) | AI | Private [^20] |
 | DeepMind | Early | ~2010 (founded) | AI | Acquired by Google (2014) [^20] |
 | Scale | Series C (led, $100M at $1B+ post-money) | 2019-08-05 | AI / Data Infrastructure | Private [^80][^81][^82] |
-| Flock Safety | Growth | ~2017 (founded) | Public Safety / Hardware | Private [^20] |
+| Flock Safety | Series C (participated, $47M; Meritech led) 2020-11-02; Series E (participated, $275M at $7.5B; a16z led) 2025-03-13 | 2020-11-02; 2025-03-13 | Public Safety / Hardware | Private [^95][^96][^97] |
 | Boring Company | Growth | ~2016 (founded) | Tunnel Infrastructure | Private [^20] |
 | Oculus | Early | ~2012 (founded) | VR / Hardware | Acquired by Facebook (2014) [^20] |
-| Persona | Growth | ~2018 (founded) | Identity / Enterprise | Private [^20] |
+| Persona | Series C (led, $150M at $1.5B; Napoleon Ta from Founders Fund quoted) | 2021-09-15 | Identity / Enterprise | Private [^92][^93][^94] |
 | BuildOps | Growth | ~2018 (founded) | Construction / SaaS | Private [^20] |
 | Twilio | Early | ~2008 (founded) | Developer Tools / Communications | Public (IPO 2016) [^20] |
 | Credit Karma | Growth | ~2007 (founded) | Consumer Fintech | Acquired by Intuit (2020) [^20] |
@@ -468,3 +468,21 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^87]: Sifted, "Trade Republic hits $5.3bn valuation in Series C led by Sequoia," May 2021. Accessed July 2026. https://sifted.eu/articles/trade-republic-unicorn-round — Independent confirmation: $750M primary + $150M secondary ($900M total) Series C on May 20, 2021 at $5.3B valuation; Sequoia led with TCV, Thrive, Accel, Founders Fund, Creandum, and Project A.
 
 [^88]: Trade Republic press release, "TRADE REPUBLIC ANNOUNCES $900M INVESTMENT, LED BY SEQUOIA, VALUING THE COMPANY AT $5.3B," May 20, 2021. Accessed July 2026. https://assets.ctfassets.net/vkizfq3pbtzc/IXoUsa33oXuXwguKh9PlC/a5bed167300cba65454d4bd6b660067c/2021-05-20_Trade_Republic_Press_Release_Series_C.pdf — Company's own press release confirming $900M Series C on May 20, 2021; Sequoia led with participation from Founders Fund (existing investor), Accel, Creandum, Project A, TCV, and Thrive Capital.
+
+[^89]: Fortune, "Ramp, a corporate credit card to rival Brex and Amex, raises $25 million," February 12, 2020. Accessed July 2026. https://fortune.com/2020/02/12/ramp-a-corporate-credit-card-to-rival-brex-and-amex-raises-25-million — Contemporary press confirming Ramp's Feb 12, 2020 launch with $25M in funding; Keith Rabois of Founders Fund led and joined the board; Coatue, BoxGroup, Conversion Capital participated.
+
+[^90]: PRWeb (Ramp company release), "Ramp Launches the First Corporate Card that Helps Companies Spend Less," February 12, 2020. Accessed July 2026. https://www.prweb.com/releases/ramp-launches-the-first-corporate-card-that-helps-companies-spend-less-838031976.html — Company's own launch announcement confirming $25M raised at launch with Founders Fund (Keith Rabois lead), Coatue, BoxGroup, Conversion Capital, Soma Capital, Backend Capital, and 50+ founders.
+
+[^91]: TechCrunch, "Ramp raises $300M at a $3.9B valuation, makes its first acquisition," August 24, 2021. Accessed July 2026. https://techcrunch.com/2021/08/24/ramp-raises-300m-at-a-3-9b-valuation-makes-its-first-acquisition/ — Retrospective confirmation that Founders Fund led Ramp's $15M Series A in February 2020.
+
+[^92]: Persona press release via PR Newswire, "Persona Closes $150 Million Round Led by Founders Fund To Scale the World's First Trusted Identity Infrastructure," September 15, 2021. Accessed July 2026. https://www.prnewswire.com/news-releases/persona-closes-150-million-round-led-by-founders-fund-to-scale-the-worlds-first-trusted-identity-infrastructure-301377506.html — Company press release confirming $150M Series C on Sep 15, 2021 at $1.5B valuation led by Founders Fund with Meritech, BOND, Index (existing), Coatue (existing).
+
+[^93]: SiliconAngle, "Identity startup Persona closes $150M round at $1.5B valuation," September 15, 2021. Accessed July 2026. https://siliconangle.com/2021/09/15/identity-startup-persona-closes-150m-round-1-5b-valuation/ — Contemporary press confirming Series C details.
+
+[^94]: FinTech Futures, "US identity platform Persona hits $2bn valuation after $200m Series D," accessed July 2026. https://www.fintechfutures.com/venture-capital-funding/us-identity-platform-persona-hits-2bn-valuation-after-200m-series-d — Retrospective confirmation of Series C led by Founders Fund.
+
+[^95]: Flock Safety press release via GlobeNewswire, "FLOCK SAFETY RAISES $47M IN SERIES C FUNDING TO ELIMINATE CRIME WITHIN A PRIVACY-FIRST FRAMEWORK," November 2, 2020. Accessed July 2026. https://www.globenewswire.com/news-release/2020/11/02/2118747/0/en/FLOCK-SAFETY-RAISES-47M-IN-SERIES-C-FUNDING-TO-ELIMINATE-CRIME-WITHIN-A-PRIVACY-FIRST-FRAMEWORK.html — Company's own press release confirming $47M Series C on Nov 2, 2020 led by Meritech with Matrix Partners, Initialized, Axon, Bedrock, Founders Fund, Y Combinator participating.
+
+[^96]: Flock Safety blog, "Flock Safety Raises $275M in New Funding at $7.5B Valuation," March 13, 2025. Accessed July 2026. https://www.flocksafety.com/blog/flock-safety-secures-major-funding — Company's announcement of $275M round on Mar 13, 2025 at $7.5B valuation led by Andreessen Horowitz with Greenoaks, Bedrock, Meritech, Matrix, Sands, Founders Fund, Kleiner Perkins, Tiger Global, Y Combinator.
+
+[^97]: Wilson Sonsini, "Wilson Sonsini Advises Flock Safety on $275 Million Financing," March 2025. Accessed July 2026. https://www.wsgr.com/en/insights/wilson-sonsini-advises-flock-safety-on-dollar275-million-financing.html — Law firm's advisory announcement corroborating the $275M financing at $7.5B valuation led by Andreessen Horowitz with Founders Fund among the participants.

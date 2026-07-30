@@ -40,13 +40,14 @@ Weave is a San Francisco-based engineering-intelligence platform that measures t
 
 ## What Investors Say
 
-No independently sourced investor commentary quoted at press time.
+"AI spend is the most powerful force in the world, and right now there is not an easy way to measure it." — Dalton Caldwell, General Partner at Standard Capital, on the Weave Series A [^3].
 
 ## What Founders Say
 
-No independently sourced founder quotes located at press time.
+"The era of tokenmaxxing is over. Every engineering and finance leader is now asking the same question: what is our AI spend actually returning?" — Adam Cohen, Weave CEO, on the Series A [^2][^3].
 
 ## Sources
 
 [^1]: The SaaS News, "Weave Raises $13.5M Series A," July 2026. Accessed July 2026. https://www.thesaasnews.com/news/weave-raises-13-5m-series-a/
 [^2]: Tech Startups, "AI startup Weave raises $13.5M to help companies measure AI coding ROI and end 'tokenmaxxing'," July 28, 2026. Accessed July 2026. https://techstartups.com/2026/07/28/ai-startup-weave-raises-13-5m-to-help-companies-measure-ai-coding-roi-and-end-tokenmaxxing/
+[^3]: WebWire, "Weave Raises $13.5M Series A to Kill Tokenmaxxing with Engineering-Intelligence Platform," July 28, 2026, accessed July 2026. https://www.webwire.com/ViewPressRel.asp?aId=358199

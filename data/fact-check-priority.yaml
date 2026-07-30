@@ -3370,8 +3370,10 @@ priority:
   note: 'Fact-spec 2026-07-30: added 3rd primary source [^48] silanano.com official press release for Sila $300M row in 8vc.md; also added [^3] to sila.md startup profile. All 3 sources (TechCrunch + GeekWire + Sila company release) confirm 2026-07-21 date, $300M amount, Atreides Management + Sutter Hill Ventures co-led, 8VC/Bessemer/Matrix/T. Rowe Price participated.'
 - slug: bessemer-venture-partners
   type: firm
-  reason: participated in Sila $300M private round (2026-07-21)
+  reason: 'Fact-spec sweep 2026-07-30: added 3rd primary source to two Bessemer Portfolio rows to reach 3-source threshold. SILA: added [^sila3] Sila Nanotechnologies company press release (silanano.com) alongside existing TechCrunch [^sila1] and GeekWire [^sila2] — all three confirm $300M private round on 2026-07-21 led by Atreides Management and Sutter Hill Ventures with 8VC, Bessemer, Matrix Partners, T. Rowe Price participating. NEO: added [^neo3] Neo company website page (neo.ai/news/neo-launches-100m) alongside existing SecurityWeek [^neo1] and GlobeNewswire company release [^neo2] — all three confirm $100M combined seed+Series A on 2026-07-20 co-led by Andreessen Horowitz and Bessemer with Craft Ventures and Merlin Ventures participating; CEO Nick Warner (ex-SentinelOne) quoted on neo.ai.'
   added: 2026-07-21
+  status: resolved
+  resolved: 2026-07-30
 - slug: heavybit
   type: firm
   reason: 'participated in Reo.Dev Series A (2026-07-17), $11.3M — Verified as accurate: heavybit.md already shows Reo.Dev | Series A (participated, returning; USD 11.3M round led by Elevation Capital) | 2026-07-17 with proper primary citations to PR Newswire and YourStory. No update needed.'
@@ -3396,6 +3398,9 @@ priority:
   type: firm
   reason: co-led Neo Seed+Series A ($100M, 2026-07-20)
   added: 2026-07-21
+  status: resolved
+  resolved: '2026-07-30'
+  note: 'Fact-spec 2026-07-30: covered in Bessemer sweep above — added [^neo3] neo.ai company page as 3rd primary source in bessemer-venture-partners.md. All 3 sources (SecurityWeek + GlobeNewswire + Neo company page) confirm 2026-07-20, $100M combined seed+Series A co-led by a16z and Bessemer with Craft Ventures and Merlin Ventures participating.'
 - slug: craft-ventures
   type: firm
   reason: participated in Neo Seed+Series A ($100M, 2026-07-20)
@@ -3738,3 +3743,9 @@ priority:
   type: firm
   reason: led Pangram seed (2026-07-29), $9M
   added: 2026-07-30
+- slug: founders-fund
+  type: firm
+  reason: 'Fact-spec sweep 2026-07-30: tightened 3 vague year-only Portfolio rows via 3+ primary sources each. RAMP: "Growth | ~2019 (founded)" → "Seed/Series A (led, USD 25M total disclosed at launch; Keith Rabois joined board) | 2020-02-12" via Fortune [^89] + PRWeb company release [^90] + TechCrunch retrospective [^91] (resolving the Feb 2020 amount conflict the prior sweep skipped: launch disclosed USD 25M combining prior USD 8M seed and USD 15M Series A). PERSONA: "Growth | ~2018 (founded)" → "Series C (led, USD 150M at USD 1.5B; Napoleon Ta from Founders Fund quoted) | 2021-09-15" via Persona PR Newswire company release [^92] + SiliconAngle [^93] + FinTech Futures [^94]. FLOCK SAFETY: "Growth | ~2017 (founded)" → "Series C (participated, USD 47M; Meritech led) 2020-11-02; Series E (participated, USD 275M at USD 7.5B; a16z led) 2025-03-13" via Flock GlobeNewswire company release [^95] + Flock Safety blog on 2025 round [^96] + Wilson Sonsini advisor announcement [^97]. Also tightened Ramp startup profile Series A row to 2020-02-12 with 2 new footnotes [^13][^14]. 9 new footnotes added to founders-fund.md ([^89]-[^97]).'
+  added: 2026-07-30
+  status: resolved
+  resolved: 2026-07-30

@@ -263,7 +263,7 @@ Ramp is a corporate card and spend management platform founded in 2019 by Eric G
 |------|-------|--------|------|--------------|
 | 2026-06-04 | Series F | $750M | ICONIQ, GIC, Ontario Teachers' Pension Plan | Goldman Sachs Alternatives, D.E. Shaw & Co., Morgan Stanley Investment Management, Generation Investment Management, Insight Partners, BroadLight Capital, Founders Fund, Lightspeed Venture Partners, D1 Capital Partners, T. Rowe Price, General Catalyst, Alpha Wave Global, 137 Ventures, Thrive Capital, Coatue, Sands Capital, Khosla Ventures, 1789 Capital, Avenir Growth, BoxGroup, 8VC, Pinegrove Venture Partners, Definition Capital, Stripes [^11][^12] |
 | Aug 2019 | Seed | $7M | Keith Rabois (Founders Fund) | BoxGroup, Coatue Management [^1] |
-| Feb 2020 | Series A | $25M | Founders Fund | BoxGroup, Coatue, Conversion Capital [^3] |
+| 2020-02-12 | Series A | $25M | Founders Fund (Keith Rabois joined board) | BoxGroup, Coatue, Conversion Capital, Soma Capital, Backend Capital [^3][^13][^14] |
 | Apr 2021 | Series B | $115M | D1 Capital Partners, Stripe (co-lead) | Thrive Capital, Redpoint Ventures, Goldman Sachs, Founders Fund [^4] |
 | Aug 2021 | Series C | $300M | Founders Fund | Thrive Capital, D1 Capital, Spark Capital, Coatue, Lux Capital, Stripe, Iconiq [^5] |
 | Mar 2022 | Series C-2 | $200M | Founders Fund | General Catalyst, Avenir Growth, D1 Capital, Thrive Capital [^6] |
@@ -297,3 +297,5 @@ No independently sourced founder testimonials found.
 [^10]: Sacra, "Ramp revenue, valuation & funding," accessed March 2026. https://sacra.com/c/ramp/
 [^11]: PR Newswire, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026, accessed June 2026. https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html
 [^12]: Bloomberg, "Ramp Notches $44 Billion Valuation in New Funding Round," June 4, 2026, accessed June 2026. https://www.bloomberg.com/news/articles/2026-06-04/ramp-notches-44-billion-valuation-in-new-funding-round
+[^13]: Fortune, "Ramp, a corporate credit card to rival Brex and Amex, raises $25 million," February 12, 2020, accessed July 2026. https://fortune.com/2020/02/12/ramp-a-corporate-credit-card-to-rival-brex-and-amex-raises-25-million
+[^14]: PRWeb (Ramp company release), "Ramp Launches the First Corporate Card that Helps Companies Spend Less," February 12, 2020, accessed July 2026. https://www.prweb.com/releases/ramp-launches-the-first-corporate-card-that-helps-companies-spend-less-838031976.html

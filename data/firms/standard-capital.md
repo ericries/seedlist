@@ -41,18 +41,18 @@ Standard Capital's stated terms are distinctive: a minimum of 10% post-close equ
 
 ## Inferred Thesis
 
-Based on 6 verified investments from Standard Capital's portfolio page [^13], the following patterns emerge. Note: this is a small sample from a firm that launched in late 2025, so percentages should be interpreted with caution.
+Based on 8 verified investments from Standard Capital's portfolio page [^13] and subsequent round announcements, the following patterns emerge. Note: this is a small sample from a firm that launched in late 2025, so percentages should be interpreted with caution.
 
-**Sector breakdown (6 verified investments):**
-- AI/ML infrastructure and tooling: 6 of 6 investments (100%) — every portfolio company is deeply AI-native or serves AI workflows
-- Developer tools: 3 of 6 (50%) — Trigger.dev (AI workflow platform), Sim.ai (agent workflow builder), Magic Patterns (AI design tool)
-- Data infrastructure: 1 of 6 (17%) — Artie (real-time data streaming)
-- Fintech/vertical SaaS: 1 of 6 (17%) — Concourse (AI agents for finance teams)
-- QA/testing: 1 of 6 (17%) — Momentic (AI test automation)
+**Sector breakdown (8 verified investments):**
+- AI/ML infrastructure and tooling: 8 of 8 investments (100%) — every portfolio company is deeply AI-native or serves AI workflows
+- Developer tools: 4 of 8 (50%) — Trigger.dev (AI workflow platform), Sim.ai (agent workflow builder), Magic Patterns (AI design tool), Weave (engineering intelligence for AI)
+- Data infrastructure: 2 of 8 (25%) — Artie (real-time data streaming), Archil (cloud filesystem for AI)
+- Fintech/vertical SaaS: 1 of 8 (13%) — Concourse (AI agents for finance teams)
+- QA/testing: 1 of 8 (13%) — Momentic (AI test automation)
 
-**Stage distribution:** 6 of 6 investments (100%) are Series A rounds, consistent with the firm's stated exclusive Series A focus.
+**Stage distribution:** 8 of 8 investments (100%) are Series A rounds, consistent with the firm's stated exclusive Series A focus.
 
-**Check size range:** $6M to $16M across the 6 investments, with a median of $12M. The full portfolio totals $68M deployed across 6 companies [^13].
+**Check size range:** $6M to $16M across the 8 investments, with a median of $12M. The full portfolio totals $92.5M deployed across 8 companies [^13][^24].
 
 **Geographic patterns:** The firm holds quarterly meetings in San Francisco but does not appear to require portfolio companies to be Bay Area-based [^1].
 
@@ -66,15 +66,16 @@ Based on 6 verified investments from Standard Capital's portfolio page [^13], th
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Sim.ai | Series A ($7M) | 2025 | AI agent workflows | Active [^14] |
-| Magic Patterns | Series A ($6M) | 2025 | AI design tools | Active [^15] |
-| Momentic | Series A ($15M) | 2025 | AI test automation | Active [^16] |
-| Trigger.dev | Series A ($16M) | 2025 | AI workflow platform | Active [^17] |
-| Artie | Series A ($12M) | 2026 | Real-time data streaming | Active [^18] |
-| Concourse | Series A ($12M) | 2026 | AI agents for finance | Active [^19] |
+| Magic Patterns | Series A ($6M) | 2025-11-11 | AI design tools | Active [^15] |
+| Sim.ai | Series A ($7M) | 2025-11-12 | AI agent workflows | Active [^14] |
+| Momentic | Series A ($15M) | 2025-11-24 | AI test automation | Active [^16] |
+| Trigger.dev | Series A ($16M) | 2025-12-17 | AI workflow platform | Active [^17] |
+| Artie | Series A ($12M) | 2026-01-22 | Real-time data streaming | Active [^18] |
+| Concourse | Series A ($12M) | 2026-01-27 | AI agents for finance | Active [^19] |
 | Archil | Series A ($11M, led) | 2026-04-21 | Cloud filesystem for AI | Active [^22][^23] |
+| Weave | Series A ($13.5M, led) | 2026-07-28 | Engineering intelligence for AI | Active [^24][^25][^26] |
 
-This table represents publicly known investments as listed on Standard Capital's portfolio page [^13] and announced rounds. The firm targets ~20 investments per year, so additional investments may not yet be publicly disclosed.
+This table represents publicly known investments as listed on Standard Capital's portfolio page [^13] and announced rounds through July 2026. The firm targets ~20 investments per year, so additional investments may not yet be publicly disclosed.
 
 ## In Their Own Words
 
@@ -89,6 +90,8 @@ This table represents publicly known investments as listed on Standard Capital's
 "We're excited to support this next phase, where any finance team can start using Concourse immediately." — Paul Buchheit, on Concourse investment, January 2026 [^19]
 
 "The first Standard Capital Series A deadline is in 6 days. Cost: ~1 hour to fill out an application. Benefit: Raise your Series A in 2 weeks with clean terms: No board seat, 10% dilution, post-PMF founder [community]." — Dalton Caldwell, X post, September 2025 [^20]
+
+"AI spend is the most powerful force in the world, and right now there is not an easy way to measure it." — Dalton Caldwell, on Weave investment, July 2026 [^26]
 
 ## What Founders Say
 
@@ -125,3 +128,6 @@ No additional independently sourced founder testimonials from portfolio company 
 [^21]: Aaron Epstein, X post, September 2025. https://x.com/aaron_epstein/status/1966210722506932731
 [^22]: Archil Blog, "Archil raises $11M to connect AI to data," April 21, 2026. https://archil.com/post/series-a
 [^23]: AlleyWatch, "The Weekly Notable Startup Funding Report: 4/27/26," April 27, 2026, accessed June 2026. https://www.alleywatch.com/2026/04/the-weekly-notable-startup-funding-report-4-27-26/
+[^24]: The SaaS News, "Weave Raises $13.5M Series A," July 28, 2026, accessed July 2026. https://www.thesaasnews.com/news/weave-raises-13-5m-series-a/
+[^25]: TechStartups, "AI startup Weave raises $13.5M to help companies measure AI coding ROI and end 'tokenmaxxing'," July 28, 2026, accessed July 2026. https://techstartups.com/2026/07/28/ai-startup-weave-raises-13-5m-to-help-companies-measure-ai-coding-roi-and-end-tokenmaxxing/
+[^26]: WebWire, "Weave Raises $13.5M Series A to Kill Tokenmaxxing with Engineering-Intelligence Platform," July 28, 2026, accessed July 2026. https://www.webwire.com/ViewPressRel.asp?aId=358199

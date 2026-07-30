@@ -158,8 +158,8 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Sarvam AI | Series B (participant; $234M first close of $300M round) | 2026-06-15 | AI / India | [^24][^25][^26] |
 | Verse | Series B (led, $54M) | 2026-06-18 | Climate / Energy / AI / Data Centers | [^verse1][^verse2][^verse3] |
 | Dominion Dynamics | Series A (existing investor, participant; C$139M / USD 100M round at USD 400M post-money) | 2026-06-30 | Defense Tech / Autonomy / Aerospace | [^dom1][^dom2][^dom3][^dom4] |
-| Sila | Late-stage private ($300M; Atreides Management & Sutter Hill Ventures co-led; 8VC, Matrix Partners, T. Rowe Price participated) | 2026-07-21 | Battery Materials / Cleantech | [^sila1][^sila2] |
-| Neo | Seed + Series A ($100M combined; co-led with Andreessen Horowitz; Craft Ventures and Merlin Ventures participated; Boston HQ; founders ex-SentinelOne) | 2026-07-20 | Cybersecurity / AI / Enterprise Software | [^neo1][^neo2] |
+| Sila | Late-stage private ($300M; Atreides Management & Sutter Hill Ventures co-led; 8VC, Matrix Partners, T. Rowe Price participated) | 2026-07-21 | Battery Materials / Cleantech | [^sila1][^sila2][^sila3] |
+| Neo | Seed + Series A ($100M combined; co-led with Andreessen Horowitz; Craft Ventures and Merlin Ventures participated; Boston HQ; founders ex-SentinelOne) | 2026-07-20 | Cybersecurity / AI / Enterprise Software | [^neo1][^neo2][^neo3] |
 | Act Security | Seed (co-led with Team8, $20M; Hetz Ventures and Caltech participated; Tel Aviv-based; founders ex-Medigate) | 2026-07-28 | Cybersecurity / AI / Cloud Security | [^act1][^act2] |
 | Sent | Series A ($12M; Companyon Ventures led; Urban Innovation Fund and CP Overture participated; NYC-based messaging infrastructure; also participated in $3.55M seed May 2025) | 2026-07-28 | Messaging / Telecom / Developer Tools / AI | [^sent1][^sent2][^sent3] |
 
@@ -287,9 +287,13 @@ However, founder experiences are not universally positive. One founder reported 
 
 [^sila2]: GeekWire, "Next-gen battery startup Sila raises $300M to expand manufacturing plant in Washington state," July 21, 2026. Accessed July 21, 2026. https://www.geekwire.com/2026/next-gen-battery-startup-sila-raises-300m-to-expand-washington-state-manufacturing-plant/ — Independent confirmation of Sila $300M raise.
 
+[^sila3]: Sila Nanotechnologies (company press release), "Sila Secures $300 Million in Private Funding to Ramp Gigascale Anode Manufacturing and Strengthen America's Technology Sovereignty," July 21, 2026. Accessed July 30, 2026. https://www.silanano.com/press/press-releases/sila-secures-300-million-in-private-funding-to-ramp-gigascale-anode-manufacturing-and-strengthen-americas-technology-sovereignty — Primary company source confirming $300M private round led by Atreides Management and Sutter Hill Ventures with participation from 8VC, Bessemer Venture Partners, Matrix Partners, and T. Rowe Price Associates.
+
 [^neo1]: SecurityWeek, "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software," July 20, 2026. Accessed July 21, 2026. https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/ — Confirms $100M combined seed + Series A co-led by Andreessen Horowitz and Bessemer Venture Partners; Craft Ventures and Merlin Ventures participated.
 
 [^neo2]: GlobeNewswire (Neo company press release), "Neo Launches with $100M to Secure AI Software Across the Enterprise," July 20, 2026. Accessed July 21, 2026. https://www.globenewswire.com/news-release/2026/07/20/3329638/0/en/Neo-Launches-with-100M-to-Secure-AI-Software-Across-the-Enterprise.html — Official company press release; confirms Bessemer as co-lead alongside a16z.
+
+[^neo3]: Neo (company website), "Neo Launches With $100M for AI Software Security," July 20, 2026. Accessed July 30, 2026. https://www.neo.ai/news/neo-launches-100m — Primary company page confirming $100M combined seed+Series A on July 20, 2026, co-led by Andreessen Horowitz and Bessemer Venture Partners, with Craft Ventures and Merlin Ventures participating; CEO/Co-Founder Nick Warner quoted.
 
 [^act1]: "Act Security raises $60M to take action against agentic access sprawl at the infrastructure layer," SiliconANGLE, July 28, 2026. Accessed July 2026. https://siliconangle.com/2026/07/28/act-security-raises-60m-take-action-agentic-access-sprawl-infrastructure-layer/ — Confirms Bessemer as co-lead on Act Security's $20M seed with Team8.
 
