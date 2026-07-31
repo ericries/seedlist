@@ -45,6 +45,9 @@ firms:
 - round: Angel
   slug: neo
   year: 2010
+- round: Advisor (not equity round; per NFX aggregator)
+  slug: color
+  year: 2013
 founded: 2009
 founders:
 - name: Ben Silbermann
@@ -111,6 +114,9 @@ investors:
 - round: Seed
   slug: leif-danielsen
   year: 2012
+- round: Advisor (not equity round; per NFX aggregator)
+  slug: othman-laraki
+  year: 2013
 last_researched: 2026-03-13
 location: San Francisco, CA
 name: Pinterest

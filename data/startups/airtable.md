@@ -48,6 +48,9 @@ firms:
 - round: Series C participant ($100M Thrive-led at $1.1B val)
   slug: a24
   year: 2018
+- round: Seed (via syndicate portfolio disclosure)
+  slug: color
+  year: 2013
 founded: 2012
 founders:
 - name: Howie Liu
@@ -111,6 +114,9 @@ investors:
 - round: Series C participant ($100M Thrive-led at $1.1B val)
   slug: scott-belsky
   year: 2018
+- round: Seed (via syndicate portfolio disclosure)
+  slug: othman-laraki
+  year: 2013
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Airtable

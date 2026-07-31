@@ -28379,7 +28379,7 @@ queue:
 - name: Othman Laraki
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: uncovr
   source: angel in Uncovr seed; CEO Color Health
@@ -29373,7 +29373,7 @@ queue:
 - name: Brad Fitzpatrick
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Tailscale
   discovered_from: avery-pennarun
@@ -44172,3 +44172,92 @@ queue:
   firm: OpenWeb
   discovered_from: avishai-abrahami
   source: Co-founder & CEO of OpenWeb (Avishai Abrahami on board)
+- name: Joe Beda
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Heavybit
+  discovered_from: brad-fitzpatrick
+- name: Bob Young
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Red Hat
+  discovered_from: brad-fitzpatrick
+- name: Sarah Drasner
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-fitzpatrick
+- name: Kris Nova
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-fitzpatrick
+- name: Jeromy Johnson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Protocol Labs
+  discovered_from: brad-fitzpatrick
+- name: Heather Meeker
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-fitzpatrick
+- name: Katelyn Donnelly
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-fitzpatrick
+- name: Amir Shevat
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brad-fitzpatrick
+- name: Nish Bhat
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Color Health
+  discovered_from: othman-laraki
+- name: Taylor Sittler
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Color Health
+  discovered_from: othman-laraki
+- name: Bluenote
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: othman-laraki
+- name: Evernow
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: othman-laraki
+- name: MODE
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: othman-laraki
+- name: Detail
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: othman-laraki

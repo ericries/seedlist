@@ -4,6 +4,9 @@ firms:
   round: seed
   slug: index-ventures
   year: 2026
+- round: Seed ($7M)
+  slug: color
+  year: 2026
 founded: 2025
 founders:
 - name: Ines Iraki
@@ -17,6 +20,9 @@ investors:
   round: seed
   year: 2026
 - slug: charlie-songhurst
+- round: Seed ($7M)
+  slug: othman-laraki
+  year: 2026
 last_researched: 2026-06-10
 location: Paris, France
 name: Uncovr
