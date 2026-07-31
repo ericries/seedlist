@@ -28,7 +28,7 @@ pending_rounds:
   parsed_company: Eindhoven’s Keiron
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
 - title: Málaga-based Atomic One raises €5.6 million to automate e-commerce operations
     with AI agents
   url: https://www.eu-startups.com/2026/07/malaga-based-atomic-one-raises-e5-6-million-to-automate-e-commerce-operations-with-ai-agents/
@@ -52,10 +52,10 @@ pending_rounds:
   url: https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/
   source: techcrunch
   date_found: '2026-07-31'
-  parsed_company: Repeat founder Ryan Williams
+  parsed_company: Ellis
   parsed_amount: $10M
   parsed_round: Seed
-  status: pending
+  status: processed
 - title: These Are Sectors Where Seed Rounds Of $5M To $10M Are Clustering This Year
   url: https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/
   source: crunchbase
@@ -70,6 +70,24 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-31'
   parsed_company: Paris-based Apolownia
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely
+    human
+  url: https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/
+  source: techcrunch
+  date_found: '2026-07-31'
+  parsed_company: Smallest.ai
+  parsed_amount: $13M
+  parsed_round: Series A
+  status: processed
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (July 27 -July 31)
+  url: https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-july-27-july-31/
+  source: eu-startups
+  date_found: '2026-07-31'
+  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -866,21 +884,5 @@ pending_rounds:
   date_found: '2026-07-20'
   parsed_company: Inference startup Infinity
   parsed_amount: $15M
-  parsed_round: null
-  status: pending
-- title: General Bio raised $7.4M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: General Bio
-  parsed_amount: $7.4M
-  parsed_round: null
-  status: pending
-- title: AMR Resources Acquisition raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: AMR Resources Acquisition
-  parsed_amount: $250M
   parsed_round: null
   status: pending

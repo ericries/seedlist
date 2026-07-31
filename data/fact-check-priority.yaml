@@ -7600,3 +7600,23 @@ priority:
   type: investor
   reason: "participated in Antora Energy Series C (2026-07-30), $550M"
   added: 2026-07-30
+- slug: first-round-capital
+  type: firm
+  reason: "led Ellis seed (2026-07-30), $10M"
+  added: 2026-07-31
+- slug: khosla-ventures
+  type: firm
+  reason: "participated in Ellis seed (2026-07-30), $10M"
+  added: 2026-07-31
+- slug: thrive-capital
+  type: firm
+  reason: "participated in Ellis seed (2026-07-30), $10M"
+  added: 2026-07-31
+- slug: josh-kushner
+  type: investor
+  reason: "participated in Ellis seed (2026-07-30), $10M"
+  added: 2026-07-31
+- slug: immad-akhund
+  type: investor
+  reason: "participated in Ellis seed (2026-07-30), $10M"
+  added: 2026-07-31

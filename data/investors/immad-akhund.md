@@ -85,6 +85,7 @@ This table includes 17 publicly named investments. Akhund's true portfolio is re
 | Honey Homes | Angel | ~2021 (founding year) | Home Services | Active | [^8] |
 | Golden | Angel | ~2019 (founding year) | Edtech/Crypto | Active | [^8] |
 | Clara | Pre-Seed ($12M) | 2026-05-14 | AI Healthcare | Active | [^15][^16] |
+| Ellis | Seed ($10M) | 2026-07-30 | Fintech/AI/Private Credit | Active | [^ellis-ia1][^ellis-ia2] |
 
 *Notable miss: Akhund passed on Scale AI's early round because he judged the founders, then 19 and 20, too young — a decision he has publicly cited as the angel investing mistake he most regrets [^11].*
 
@@ -150,3 +151,6 @@ No independently sourced founder testimonials about working with Akhund as an an
 [^14]: Tech Funding News, "Cambridge-educated immigrant founder raises $200M at $5.2B to build the fintech Silicon Valley never had," accessed June 2026. https://techfundingnews.com/cambridge-educated-immigrant-founder-raises-200m-at-5-2b-to-build-the-fintech-silicon-valley-never-had/
 [^15]: Clara blog, "Clara launches with $12M pre-seed round, joins Y Combinator," May 14, 2026. Accessed July 2026. https://askclara.com/blog/clara-launch — Company announcement of $12M pre-seed round led by Y Combinator and A.Capital, with participation from Liquid 2 Ventures (Joe Montana and Matthew Mulvey), SV Angel, Tim Abbott, Immad Akhund, Vinny Lingham, Jude Gomilla, Kevin Hartz, Brian Pokorny, and Dan Burleigh. Confirms Akhund as an angel participant.
 [^16]: Y Combinator Companies Directory, "Clara: AI primary care doctor." Accessed July 2026. https://www.ycombinator.com/companies/clara-2 — Confirms Clara as Y Combinator Spring 2026 batch company, founded 2025 by George Favvas (CEO, ex-Circle Medical), Zeeshan Ahmed, and Caitlin Swift. Lists $12M pre-seed from YC and A.Capital.
+
+[^ellis-ia1]: "Ellis Emerges From Stealth With More Than $10 Million to Build the AI-Native Operating Foundation for Private Credit," BusinessWire, July 30, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260730538995/en/Ellis-Emerges-From-Stealth-With-More-Than-$10-Million-to-Build-the-AI-Native-Operating-Foundation-for-Private-Credit — Names "Mercury Founder and CEO Immad Akhund" among participants in Ellis's $10M seed led by First Round Capital.
+[^ellis-ia2]: "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers," TechCrunch, July 31, 2026. Accessed July 2026. https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/ — Independent tier-1 press confirmation of Immad Akhund's participation as angel in Ellis's seed.

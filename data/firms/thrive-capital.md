@@ -129,6 +129,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Helion Energy | Series G (Lead) | 2026 | Fusion / Energy | Private [^helion1] |
+| Ellis | Seed (participated; $10M; led by First Round Capital) | 2026-07-30 | Fintech / AI / Private Credit | Private [^ellis-tc1][^ellis-tc2][^ellis-tc3] |
 | XDOF | Venture | 2026-06-17 | Robotics / AI Infrastructure | Active ($70M launch from stealth; co-investors Spark Capital, a16z, Lux Capital, WndrCo) [^55][^56] |
 | Instagram | Series B | 2012 | Consumer / Social | Acquired by Facebook (2012) [^1][^2] |
 | Warby Parker | Series A | ~2011 | Consumer / E-commerce | Public (IPO 2021) [^1][^2] |
@@ -284,6 +285,10 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 ## Sources
 
 [^helion1]: Helion Energy press release, "Helion Raises $465 Million Series G Funding Round to Meet Surging Global Demand for Power," June 4, 2026. Accessed June 2026. https://www.helionenergy.com/newsroom/helion-raises-465-million-series-g-funding-round-to-meet-surging-global-demand-for-power
+
+[^ellis-tc1]: "Ellis Emerges From Stealth With More Than $10 Million to Build the AI-Native Operating Foundation for Private Credit," BusinessWire, July 30, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260730538995/en/Ellis-Emerges-From-Stealth-With-More-Than-$10-Million-to-Build-the-AI-Native-Operating-Foundation-for-Private-Credit — Names Thrive Capital as a participant in Ellis's $10M seed round led by First Round Capital.
+[^ellis-tc2]: "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers," TechCrunch, July 31, 2026. Accessed July 2026. https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/ — Independent tier-1 press confirmation that Thrive Capital participated.
+[^ellis-tc3]: "Private credit AI platform Ellis launches with $10m seed funding," Alternative Credit Investor, July 30, 2026. Accessed July 2026. https://alternativecreditinvestor.com/2026/07/30/private-credit-ai-platform-ellis-launches-with-10m-seed-funding/ — Third independent trade press confirmation of Thrive Capital participation.
 
 [^1]: "How Josh Kushner built Thrive Capital and became a billionaire startup investor." Fortune, 2024. https://fortune.com/longform/josh-kushner-net-worth-thrive-capital-investments-openai-100-billion-valuation/
 

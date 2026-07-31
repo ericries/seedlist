@@ -120,6 +120,7 @@ Based on analysis of 22 verified investments in the table below, from Thrive Cap
 | Physical Intelligence | 2024-03-12 | Seed (Thrive led, $70M at ~$400M post-money; Khosla, Lux, OpenAI, Sequoia joined) | [^3][^17][^18] |
 | Physical Intelligence (follow-on) | 2024-11-04 | Series A ($400M at $2.4B post-money; Bezos + Thrive + Lux led) | [^17][^18] |
 | Isomorphic Labs | ~2024 | Growth | [^8] |
+| Ellis | 2026-07-30 | Seed ($10M; First Round Capital led; Kushner participated as angel alongside Thrive Capital) | [^ellis-jk1][^ellis-jk2] |
 
 Note: Many investment years are approximate (founding year proxies marked with ~). Thrive's full portfolio spans hundreds of companies across its nine funds.
 
@@ -163,6 +164,9 @@ The Fortune profile noted that across more than 35 interviews, no one cited a ho
 [^14]: Stripe newsroom, "Stripe announces new round of funding and plan to provide employee liquidity," March 15, 2023. Confirms $6.5B Series I at $50B valuation; Thrive Capital named as participating existing shareholder; Josh Kushner quoted ("first invested in Stripe in 2014, and why we are proud to deepen our partnership"). Accessed June 2026. https://stripe.com/newsroom/news/stripe-series-i-employee-liquidity
 [^15]: SiliconANGLE, "Enterprise productivity software startup Airtable raises $100M on a $1.1B valuation," November 15, 2018. Confirms Series C lead trio of Thrive Capital, Benchmark, and Coatue Management. Accessed June 2026. https://siliconangle.com/2018/11/15/enterprise-productivity-software-startup-airtable-raises-100m-1-1b-valuation/
 [^16]: Analytics India Magazine, "Anysphere Raises $105M in Series B," December 2024. Confirms Series B at $2.5B valuation co-led by Thrive Capital and Andreessen Horowitz, with Benchmark participating. Accessed June 2026. https://analyticsindiamag.com/ai-news-updates/anysphere-raises-105m-in-series-b/
+
+[^ellis-jk1]: "Ellis Emerges From Stealth With More Than $10 Million to Build the AI-Native Operating Foundation for Private Credit," BusinessWire, July 30, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260730538995/en/Ellis-Emerges-From-Stealth-With-More-Than-$10-Million-to-Build-the-AI-Native-Operating-Foundation-for-Private-Credit — Names "Thrive Capital Founder Josh Kushner" among participants in the $10M Ellis seed led by First Round Capital.
+[^ellis-jk2]: "Private credit AI platform Ellis launches with $10m seed funding," Alternative Credit Investor, July 30, 2026. Accessed July 2026. https://alternativecreditinvestor.com/2026/07/30/private-credit-ai-platform-ellis-launches-with-10m-seed-funding/ — Independent confirmation of Josh Kushner as participating angel/investor in Ellis's seed.
 
 [^17]: Maginative, "Physical Intelligence Raises $70M to Build AI-Powered Robots for Any Application," March 12, 2024. Accessed July 2026. https://www.maginative.com/article/physical-intelligence-raises-70m-to-build-ai-powered-robots-for-any-application/ — Primary contemporaneous confirmation: $70M seed on March 12, 2024, led by Thrive Capital with Khosla Ventures, Lux Capital, OpenAI, and Sequoia Capital participating.
 

@@ -161,6 +161,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Physical Intelligence | Early | ~2024 (founded) | AI / Robotics | Private [^22] |
 | Hermeus | Early | ~2018 (founded) | Aerospace / Hypersonic | Private [^22] |
 | Bunkerhill Health | Series B (led, $25M; total funding to $55M; Sequoia, Felicis, Optum Ventures, Y Combinator joined) | 2026-07-16 | Healthcare / AI | Private [^bh1][^bh2] |
+| Ellis | Seed (participated; $10M; led by First Round Capital; 645 Ventures, Harlem Capital, Slow Ventures, Wilshire Lane, Westbound, Collide Capital, Gallery Ventures, Thrive Capital, Mellody Hobson, Josh Kushner, Immad Akhund also participated) | 2026-07-30 | Fintech / AI / Private Credit | Private [^ellis-kh1][^ellis-kh2][^ellis-kh3] |
 | Varda | Early | ~2021 (founded) | Space Manufacturing | Private [^22] |
 | Windborne | Early | ~2019 (founded) | Climate / Weather | Private [^22] |
 | Cylance | Early | ~2012 (founded) | Cybersecurity | Acquired by BlackBerry (2019) [^22] |
@@ -474,3 +475,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^bh1]: Allie Garfinkle, "Bunkerhill Health raises $55 million to put AI agents to work inside hospitals," Fortune, July 16, 2026. Accessed July 20, 2026. https://fortune.com/2026/07/16/bunkerhill-health-raises-55-million-ai-agents-work-inside-hospitals/ — Primary tier-1 press confirming Khosla Ventures led Bunkerhill Health's $25M Series B on July 16, 2026 with Sequoia Capital, Felicis, Optum Ventures, and Y Combinator participating; total funding raised to $55M.
 
 [^bh2]: Bunkerhill Health, "Bunkerhill Health Raises $55 Million to Help Health Systems Turn Their Best Ideas into Reality," Series B announcement, July 16, 2026. Accessed July 20, 2026. https://www.bunkerhillhealth.com/resources/series-b-announcement — Company's primary announcement of the Series B round and $55M total funding milestone.
+
+[^ellis-kh1]: "Ellis Emerges From Stealth With More Than $10 Million to Build the AI-Native Operating Foundation for Private Credit," BusinessWire, July 30, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260730538995/en/Ellis-Emerges-From-Stealth-With-More-Than-$10-Million-to-Build-the-AI-Native-Operating-Foundation-for-Private-Credit — Names Khosla Ventures as a participant in Ellis's $10M seed round led by First Round Capital.
+[^ellis-kh2]: "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers," TechCrunch, July 31, 2026. Accessed July 2026. https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/ — Independent tier-1 press confirmation that Khosla Ventures participated in the Ellis $10M seed.
+[^ellis-kh3]: "Private credit AI platform Ellis launches with $10m seed funding," Alternative Credit Investor, July 30, 2026. Accessed July 2026. https://alternativecreditinvestor.com/2026/07/30/private-credit-ai-platform-ellis-launches-with-10m-seed-funding/ — Third independent trade press confirmation of Khosla Ventures participation.
