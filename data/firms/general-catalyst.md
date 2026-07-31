@@ -242,8 +242,9 @@ The following table includes 72 verified investments sourced from General Cataly
 | Oratomic | Series A (participated, $300M; ARCH Venture Partners, Spark Capital, Khosla Ventures co-led; Bezos Expeditions, Index Ventures, Lowercarbon Capital, Bain Capital Ventures also participated) | 2026-07-07 | Quantum Computing / Deep Tech | Private [^gc-orat-1][^gc-orat-2][^gc-orat-3] |
 | Inner Logic | Seed (co-led, $11.5M with Bison Ventures) | 2026-07-22 | Healthcare / Medical Devices / Autonomous Surgery | Private [^gc-il-1][^gc-il-2] |
 | Dwelly | Series B (participated, $170M / £128m; EQT Growth led; $95M equity + $75M debt from Trinity Capital; s16vc, Begin Capital, DVC also participated) | 2026-07-28 | Proptech / AI / Property Management | Private [^gc-dwelly-1][^gc-dwelly-2] |
+| Function Health | Growth Financing (Customer Value Fund, non-dilutive, $450M) | 2026-07-30 | Healthcare / Diagnostics / Preventive Health | Private [^gc-fh-1][^gc-fh-2][^gc-fh-3] |
 
-*Note: This table includes 72+ companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
+*Note: This table includes 73+ companies verified from General Catalyst's portfolio page, press coverage, and this database's startup profiles. Investment years use company founding year as proxy where specific investment date is unknown, marked with "~YYYY (founded)". General Catalyst has invested in 871 companies total [^14]; this table represents approximately 8% of the full portfolio, biased toward notable investments. Many investments lack specific round/year data in public sources.*
 
 ## In Their Own Words
 
@@ -479,4 +480,8 @@ No independently sourced founder testimonials were found in this research pass. 
 [^gc-il-2]: "Inner Logic raises $11.5M seed to build AI infrastructure for autonomous surgery," Tech Startups, July 22, 2026. Accessed July 25, 2026. https://techstartups.com/2026/07/22/inner-logic-raises-11-5m-seed-to-build-ai-infrastructure-for-autonomous-surgery/
 [^gc-dwelly-1]: "Dwelly Raises $170M in Series B Funding," FinSMEs, July 28, 2026. Accessed July 2026. https://www.finsmes.com/2026/07/dwelly-raises-170m-in-series-b-funding.html — Confirms General Catalyst participation in Dwelly Series B led by EQT Growth.
 [^gc-dwelly-2]: "Dwelly raises $170M to turn UK lettings agencies into software," TheNextWeb, July 28, 2026. Accessed July 2026. https://thenextweb.com/news/dwelly-raises-170m-to-turn-uk-lettings-agencies-into-software
+
+[^gc-fh-1]: PR Newswire, "Function Secures $450 Million Growth Financing from General Catalyst's Customer Value Fund (CVF)," July 30, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/function-secures-450-million-growth-financing-from-general-catalysts-customer-value-fund-cvf-302838766.html — Company/investor primary announcement of the $450M non-dilutive Customer Value Fund financing to Function Health on 2026-07-30.
+[^gc-fh-2]: Fitt Insider, "Function Lands $450M in Growth Financing from General Catalyst," July 30, 2026. Accessed July 2026. https://insider.fitt.co/function-secures-450m-to-scale-preventive-health/
+[^gc-fh-3]: Fierce Healthcare, "Function Health lands $450M in growth financing to scale tech-enabled preventive health," July 30, 2026. Accessed July 2026. https://www.fiercehealthcare.com/health-tech/function-health-lands-450m-growth-financing-scale-tech-enabled-preventive-health
 

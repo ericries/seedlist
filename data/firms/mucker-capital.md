@@ -73,7 +73,7 @@ Based on 30 verified investments and exits from publicly available sources, Muck
 | Thrive Market | Seed | 2014 | Consumer / E-commerce | Active | [^6] |
 | TaskRabbit | Early | ~2013 | Marketplace | Acquired (IKEA, Sep 2017) | [^14] [^27] |
 | Surf Air | Seed | ~2013 | Consumer / Aviation | IPO (NASDAQ, Jul 2023) | [^15] [^28] |
-| Ask Sage | Seed; Series A ($17M) | ~2020; Dec 2024 | Enterprise SaaS / AI / GovTech | Acquired (BigBear.ai, $250M, 2025) | [^20] [^29] |
+| Ask Sage | Seed; Series A ($17M, participant) | 2024 (pre-Series A); 2024-12-11 | Enterprise SaaS / AI / GovTech | Acquired (BigBear.ai, $250M, 2025) | [^20] [^29] [^40] |
 | Emotive | Series A ($4.5M, led) | May 2020 | Marketing Tech / E-commerce | Active (raised $50M Series B, Feb 2021) | [^21] [^30] |
 | GovDash | Seed; Series B ($30M, co-led) | ~2021; Jan 2026 | Enterprise SaaS / GovTech | Active | [^31] |
 | SkillCat | Seed ($3.3M, led) | Dec 2021 | EdTech / Workforce | Active | [^22] |
@@ -83,6 +83,7 @@ Based on 30 verified investments and exits from publicly available sources, Muck
 | Orion Sleep | Seed (led, $17.5M) | 2025-12-11 | Consumer / Sleep Tech | Active | [^6][^37] |
 | Linq | Seed | 2026 | Hardware | Active | [^6] |
 | Freestyle | Seed | 2026 | Consumer Products | Active | [^6] |
+| CopySight | Seed (led, $3M) | 2026-07-30 | AI / IP Governance / Legal Tech | Active | [^38] [^39] |
 | Papaya | Seed | ~2017 | Fintech / Payments | Active (raised $50M Series B, Dec 2021) | [^32] |
 | NEXT Trucking | Seed | ~2017 | Logistics / Marketplace | Active (raised $97M total) | [^33] |
 
@@ -162,3 +163,7 @@ Note: The above founder quotes are sourced from the Mucker Capital website and m
 [^36]: DroneDJ, "SkyfireAI raises $11M for autonomous drone coordination," May 1, 2026, accessed May 2026. https://dronedj.com/2026/05/01/skyfireai-autonomous-drone-seed-funding/
 
 [^37]: PR Newswire, "Orion Sleep Launches Next-Gen AI-Powered Smart Mattress Cover Following $18M Seed Raise," December 11, 2025. Accessed May 2026. https://www.prnewswire.com/news-releases/orion-sleep-launches-next-gen-ai-powered-smart-mattress-cover-following-18m-seed-raise-302638856.html — $17.5M Seed (rounded to $18M in headline) announced December 11, 2025, led by Mucker Capital with participation from Browder Capital, Second Sight Ventures, and operator/founder angels. Founders include Harry Gestetner, Jonathan Zwiebel, Scott Cohen, and Daniel Gestetner.
+
+[^38]: VC News Daily, "CopySight Raises $3 Million Seed Funding," July 30, 2026. Accessed July 2026. https://vcnewsdaily.com/copysight/venture-capital-funding/nrcfyjdjly
+[^39]: Pulse 2.0, "CopySight Raises $3 Million To Build The Intellectual Property Clearance Layer For Generative AI," July 30, 2026. Accessed July 2026. https://pulse2.com/copysight-raises-3-million-to-build-the-intellectual-property-clearance-layer-for-generative-ai/
+[^40]: ExecutiveBiz, "Ask Sage Completes Series A Funding Round," December 11, 2024. Accessed July 2026. https://executivebiz.com/2024/12/ask-sage-series-a-investment-generative-ai/ — Confirms Ask Sage Series A of $17M announced December 11, 2024, led by Sapphire Ventures with Mucker Capital participating. Company founded 2023, so any prior seed round would have been 2023-2024, not 2020 as previously stated in this table.

@@ -1,20 +1,28 @@
 priority:
 - slug: general-catalyst
   type: firm
-  reason: "appeared in Function Health $450M growth financing (2026-07-30)"
+  reason: "appeared in Function Health $450M growth financing (2026-07-30). Fact-spec sweep 2026-07-31: Added Function Health as new Portfolio row (Growth Financing via Customer Value Fund, non-dilutive, $450M) with 3 primary sources (PR Newswire, Fitt Insider, Fierce Healthcare). Function Health startup profile already exists with matching frontmatter."
   added: 2026-07-31
+  status: resolved
+  resolved: 2026-07-31
 - slug: mucker-capital
   type: firm
-  reason: "led CopySight $3M seed (2026-07-30)"
+  reason: "led CopySight $3M seed (2026-07-30). Fact-spec sweep 2026-07-31: (1) Added CopySight as new Portfolio row (Seed led, $3M, 2026-07-30, participants: Taisu VC, Flint Capital, Yellow Rocks!) with primary sources (VC News Daily, Pulse 2.0). (2) CORRECTED Ask Sage row: was 'Seed | ~2020; Series A | Dec 2024' — Ask Sage was founded 2023, so 2020 seed was impossible. Updated to 'Seed (pre-Series A, 2024); Series A ($17M, participant) | 2024-12-11' with ExecutiveBiz primary source. Series A led by Sapphire Ventures with Mucker participating. Other vague rows (Honey ~2014, AuditBoard 2015, Thrive Market 2014, TaskRabbit ~2013, Surf Air ~2013, Papaya ~2017, NEXT Trucking ~2017, GovDash ~2021) investigated but not tightened due to conflicting aggregator dates without primary-source confirmation — better to leave as approximate than fabricate."
   added: 2026-07-31
+  status: resolved
+  resolved: 2026-07-31
 - slug: breakthrough-energy-ventures
   type: firm
-  reason: "existing investor referenced in Commonwealth Fusion Systems $1B round (2026-07-30)"
+  reason: "existing investor referenced in Commonwealth Fusion Systems $1B round (2026-07-30). Fact-spec sweep 2026-07-31: EXPANDED single vague 'Series A, B, B2 | 2019' row into explicit multi-round entry with primary-source dates: Series A ($115M, 2019-06-27, participant), Series B ($1.8B, 2021-12-01, participant), Series B2 ($863M, 2025-08-28, existing investor increased stake), 2026-07-30 $1B round (investors NOT publicly named — CFS declined to disclose). Added 4 new footnotes with primary sources (CFS press releases + TechCrunch). Notably: BEV is NOT confirmed in the 2026-07-30 $1B round per primary sources; only prior BEV participation is documented."
   added: 2026-07-31
+  status: resolved
+  resolved: 2026-07-31
 - slug: khosla-ventures
   type: firm
-  reason: "existing investor referenced in Commonwealth Fusion Systems $1B round (2026-07-30)"
+  reason: "existing investor referenced in Commonwealth Fusion Systems $1B round (2026-07-30). Fact-spec sweep 2026-07-31: EXPANDED single 'Series A | 2019-06-27' row into multi-round entry: Series A ($115M, 2019-06-27, participant), Series B2 ($863M, 2025-08-28, existing investor increased stake — Khosla explicitly named in CFS press release), 2026-07-30 $1B round (investors NOT publicly named — Khosla NOT confirmed). Added 2 new footnotes with primary sources (CFS press release + TechCrunch)."
   added: 2026-07-31
+  status: resolved
+  resolved: 2026-07-31
 - slug: ramtin-naimi
   type: investor
   reason: 'Fact-spec sweep 2026-07-31: tightened 3 vague year-only Portfolio rows
