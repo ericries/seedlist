@@ -145,6 +145,14 @@ pending_rounds:
   parsed_amount: $50M
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 7/30/2026'
+  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-30-2026/
+  source: alleywatch
+  date_found: '2026-07-30'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Wild Bio acquires F1 Seed to create Britain’s first independent precision-breeding
     wheat business
   url: https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/
