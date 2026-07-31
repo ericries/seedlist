@@ -103,7 +103,7 @@ The following is a partial list of verified portfolio companies. Quiet Capital's
 | Color | Series A | 2015 | Healthcare | Signal by NFX [^25] |
 | Reddit | Series C | ~2014 | Consumer / Social | Crunchbase News [^22] |
 | ElevenLabs | Series B | 2024-01-22 | AI / Voice | TechCrunch [^27] |
-~unknown| OpenAI | — | — | AI | Quiet Capital website [^1] |
+| OpenAI | Direct investor (round/date unverified — secondary or SPV; not named in OpenAI primary press) | ~2021+ (first OpenAI tender era; unverified) | AI | Quiet Capital website [^1]; Shriftman Substack [^oai1]; Tracxn confirms Quiet NOT in any of 14 primary rounds [^oai2] |
 ~unknown| Sanas | — | — | AI / Voice | Quiet Capital website [^1] |
 ~unknown| Mercury | — | — | Fintech | Quiet Capital website [^1] |
 ~unknown| Modern Treasury | — | — | Fintech | Quiet Capital website [^1] |
@@ -199,3 +199,7 @@ No independently sourced founder testimonials found. Quiet Capital maintains a d
 [^28]: Legal IT Insider, "Manifest OS raises $60m Series A to build AI-native law firm model," April 28, 2026. https://legaltechnology.com/2026/04/28/manifest-os-raises-60m-series-a-to-build-ai-native-law-firm-model/
 [^29]: NewLimit blog, "NewLimit raises $435M led by Founders Fund," June 2, 2026. https://blog.newlimit.com/p/newlimit-raises-435m-led-by-founders
 [^30]: STAT News, "Longevity startup NewLimit announces $435 million clinical trial financing," June 2, 2026. https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/
+
+[^oai1]: Jonathan Shriftman, "I've Joined Quiet Capital," Substack essay, accessed July 2026. https://shriftman.substack.com/p/ive-joined-quiet-capital — Confirms Quiet Capital self-describes as a "direct investor" in OpenAI: "We're direct investors in OpenAI, Anduril, SpaceX, Databricks, ElevenLabs, SSI, Periodic Labs, and many more." No round, date, or size disclosed.
+
+[^oai2]: Tracxn, "OpenAI Funding Rounds & Investors," accessed July 2026. https://tracxn.com/d/companies/openai/__kElhSG7uVGeFk1i71Co9-nwFtmtyMVT7f-YHMn4TFBg/funding-and-investors — Aggregator list of OpenAI's 91 disclosed investors across all 14 primary funding rounds from December 2015 through April 2026. Quiet Capital does NOT appear. Combined with [^oai1], Quiet's OpenAI exposure is therefore via undisclosed secondary/tender-offer purchase or SPV allocation, not a named primary round. Cannot be pinned to a specific date.

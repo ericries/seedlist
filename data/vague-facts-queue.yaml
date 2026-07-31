@@ -5509,7 +5509,18 @@ vague_facts:
   line: ~unknown| Block (Square) | Growth | — | Fintech | Active (Public) | [^3] |
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-31
+  resolution_note: 'Fact-spec sweep 2026-07-31: Block (Square) is NOT a BOND investment.
+    Mary Meeker joined Squares board on 2011-06-28 as part of Kleiner Perkins $100M
+    Series C lead (Vinod Khosla and Larry Summers also joined; Tiger Global participated;
+    $1B+ valuation) — 7+ years before BOND was founded in 2018. Removed the misleading
+    Block (Square) row from the Portfolio table and expanded the KP-legacy carryover
+    note beneath the table to include Block/Square explicitly, with citations. Verified
+    via 3 primary sources: [^bl1] TechCrunch 2011-06-28 (contemporaneous), [^bl2]
+    Forbes/Perlroth 2011-06-29 (contemporaneous), and Block investor relations page
+    (which lists Meekers current role as BOND GP but does NOT mention BOND as an
+    investor). 2 new footnotes added.'
 - profile: firms/bond
   profile_name: BOND
   company: Ironclad
@@ -5586,7 +5597,19 @@ vague_facts:
     Series G, 2025-05) | [^7][^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-31
+  resolution_note: 'Fact-spec sweep 2026-07-31: Rippling round/date for Josh Buckley
+    cannot be pinned to a specific primary source. Rippling has three early rounds
+    on record (YC seed 2017-01-01 USD 120K; Series A first tranche 2017-03-14 USD
+    7M with Initialized/NewDo/SV Angel/Benjamin Ling; Series A second tranche 2019-04-03
+    USD 45M led by Kleiner Perkins). Josh Buckley / Buckley Ventures is NOT named
+    in ANY of these rounds per: (1) Garry Tan/Initialized Capital blog primary announcement
+    (2019-04-03), (2) Tracxn aggregator investor list across all Rippling rounds,
+    (3) TechCrunch 2025-05-09 Series G coverage. Buckleys Rippling exposure is self-reported
+    on joshbuckley.com but never confirmed by any primary press. Row updated to
+    explicit self-reported caveat with new footnotes [^rip1] (Initialized) and [^rip2]
+    (Tracxn) documenting the absence in primary sources. 2 new footnotes added.'
 - profile: firms/buckley-ventures
   profile_name: Buckley Ventures
   company: Applied Intuition
@@ -25250,7 +25273,17 @@ vague_facts:
   line: ~unknown| OpenAI | — | — | AI | Quiet Capital website [^1] |
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-31
+  resolution_note: 'Fact-spec sweep 2026-07-31: Quiet Capitals OpenAI round/date
+    cannot be pinned to a specific primary source. Quiet self-describes as a "direct
+    investor" per its portfolio page and Jonathan Shriftmans partner-announcement
+    Substack, but Tracxns full investor list across OpenAIs 14 primary funding
+    rounds (December 2015 through April 2026, 91 named investors) does NOT include
+    Quiet Capital. Exposure is therefore via undisclosed secondary/tender-offer or
+    SPV allocation. Row updated with explicit self-reported caveat and added new
+    footnotes [^oai1] (Shriftman Substack) and [^oai2] (Tracxn negative confirmation)
+    documenting the absence in primary rounds. 2 new footnotes added.'
 - profile: firms/rebel-fund
   profile_name: Rebel Fund
   company: Jeeves

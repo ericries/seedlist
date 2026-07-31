@@ -87,7 +87,6 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 |---------|-------|------|--------|--------|--------|
 | Canva | Growth ($70M round, BOND debut investment) | 2019 | Design/Consumer | Active | [^9][^10][^11] |
 | Applied Intuition | Series E (participant; $250M round led by Lux Capital, Elad Gil, Porsche) | 2024-03-12 | Autonomous Vehicles | Active | [^3][^12][^13][^14] |
-~unknown| Block (Square) | Growth | — | Fintech | Active (Public) | [^3] |
 ~unknown| Checkr | Growth | — | HR Tech | Active | [^3][^6] |
 ~unknown| Dapper Labs | Growth | — | Web3/NFT | Active | [^3] |
 | ElevenLabs | Series D (participant, new investor; Sequoia led at USD 11B post-money valuation) | 2026-02-04 | AI / Voice | Active | [^8][^el1][^el2][^el3] |
@@ -106,7 +105,7 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 | Quantum Systems | Series D (participated, €1B co-led by Blackstone/Noteus/Airbus/Advent) | 2026-07-02 | Defence Tech / Autonomous Systems | Active | [^28] |
 | Adapter | Seed (participated; GV led, $17.8M) | 2026-07-14 | AI / Data Infrastructure | Active | [^adapter1] |
 
-*This table represents approximately 15% of BOND's 130 total investments [^8]. Many investments lack publicly confirmed investment years. Prior investments made through Kleiner Perkins Digital Growth Fund (including Airbnb, DocuSign, Instacart, Meta, Pinterest, Snap, Spotify) are not included as they predate BOND's formation.*
+*This table represents approximately 15% of BOND's 130 total investments [^8]. Many investments lack publicly confirmed investment years. Prior investments made through Kleiner Perkins Digital Growth Fund (including Airbnb, DocuSign, Instacart, Meta, Pinterest, Snap, Spotify, and Block/Square) are not included as they predate BOND's formation — Mary Meeker's Block board seat originated with Square's $100M Series C on 2011-06-28, led by Kleiner Perkins, when Meeker was a KP partner [^bl1][^bl2].*
 
 ## In Their Own Words
 
@@ -171,3 +170,7 @@ No independently sourced founder testimonials found. BOND's website does not fea
 
 [^el3]: Sifted, "ElevenLabs raises $500m Series D led by Sequoia," February 4, 2026. Accessed July 2026. https://sifted.eu/articles/elevenlabs-raises-500m-series-d-led-by-sequoia — Third independent primary source confirming ElevenLabs $500M Series D on February 4, 2026, led by Sequoia Capital at $11B post-money valuation. Named participants: Andreessen Horowitz, ICONIQ (existing); Lightspeed, Evantic Capital, BOND (new); BroadLight, NFDG, Valor Capital, AMP Coalition, Smash Capital (continuing).
 [^adapter1]: Alex Konrad, "Exclusive: Startup Adapter Launches With $17.8M To Bring New 'Cognition' To AI Tools," Upstarts Media, July 14, 2026. Accessed July 2026. https://www.upstartsmedia.com/p/deep-dive-adapter-launches-ai-cognition — Seed round led by GV with Bond Partners, Hillspire, Byers Capital, Kevin Mahaffey, Shana Fischer, Paul Judge, Zach Sims, and Ted Schlein participating.
+
+[^bl1]: TechCrunch, "Square Closes That $100 Million Round, Mary Meeker Joins Board," June 28, 2011. Accessed July 2026. https://techcrunch.com/2011/06/28/square-100-million-meeker — Primary contemporaneous press: Square's $100M Series C led by Kleiner Perkins on 2011-06-28, valuing the company at $1B+. Kleiner Perkins partner Mary Meeker joined the board alongside Vinod Khosla and Larry Summers; Tiger Global also participated.
+
+[^bl2]: Forbes (Nicole Perlroth), "Mary Meeker Joins Board Of Square, Capping Off A Billion Dollar Valuation," June 29, 2011. Accessed July 2026. https://www.forbes.com/sites/nicoleperlroth/2011/06/29/mary-meeker-joins-board-of-square-capping-off-a-billion-dollar-valuation/ — Independent contemporaneous confirmation of Meeker's board seat originating with Square's 2011 KP-led Series C, predating BOND's 2018 formation. Confirms KP lead, $100M size, Tiger Global participation, $1B valuation.

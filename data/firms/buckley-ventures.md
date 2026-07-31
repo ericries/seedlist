@@ -79,7 +79,7 @@ Based on 22 verified portfolio investments, Buckley Ventures' actual investment 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---|---|---|---|---|---|
-| Rippling | Early (round unverified) | — | Enterprise/HR | Active ($16.8B Series G, 2025-05) | [^7][^14] |
+| Rippling | Early angel (round/date unverified — self-reported only; not named in Rippling primary press) | — | Enterprise/HR | Active ($16.8B Series G, 2025-05) | [^7][^14][^rip1][^rip2] |
 | Applied Intuition | Angel/Series A | ~2018 | Autonomous Vehicles | Active | [^7][^15] |
 ~unknown| Physical Intelligence | Early | — | Robotics/AI | Active | [^7] |
 ~unknown| Flock Safety | Early | — | Public Safety/Hardware | Active | [^7] |
@@ -155,3 +155,7 @@ No independently sourced founder testimonials found. Buckley Ventures' website d
 [^19]: TechCrunch, "Language-learning app Speak nets $20M, doubles valuation," June 20, 2024. Confirms Buckley Ventures led the $20M Series B extension with OpenAI Startup Fund, Khosla Ventures, Paul Graham, and Jeff Weiner participating; $500M valuation and $84M total raised. Accessed July 2026. https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/
 
 [^20]: Dataphoenix, "AI-powered English tutor Speak has raised a $20M Series B extension," June 24, 2024. Independent trade-press confirmation of the $20M raise led by Buckley Ventures; existing investors participated; total capital raised $84M at $500M valuation. Accessed July 2026. https://dataphoenix.info/ai-powered-english-tutor-speak-has-raised-a-20m-series-b-extension/
+
+[^rip1]: Garry Tan, "Rippling raises $45M Series A from Kleiner Perkins, Initialized to automate all employee on-boarding," Initialized Capital blog, April 3, 2019. Accessed July 2026. https://blog.initialized.com/2019/04/rippling-raises-45m-series-a-from-kleiner-perkins-initialized-to-automate-all-employee-on-boarding/ — Primary source announcing Rippling's $45M Series A led by Mamoon Hamid (Kleiner Perkins) with Initialized Capital co-investing. Josh Buckley / Buckley Ventures is NOT named as a participant.
+
+[^rip2]: Tracxn, "Rippling Funding Rounds & Investors," accessed July 2026. https://tracxn.com/d/companies/rippling/__0jBKlITnDSnX0Ucn3h0dJV4XxoMOMDeE4UYtJv7fZ30/funding-and-investors — Aggregator investor list across Rippling's YC seed (2017-01-01, $120K), Series A first tranche (2017-03-14, $7M — Initialized, NewDo Venture, SV Angel, Benjamin Ling), Series A second tranche (2019-04-03, $45M — Kleiner Perkins led, Initialized, Y Combinator, Threshold). Josh Buckley / Buckley Ventures is NOT named in any of these rounds. Rippling exposure is thus self-reported from joshbuckley.com [^7] with no independent round-level primary source available.
