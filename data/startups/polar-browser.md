@@ -4,6 +4,15 @@ firms:
   round: seed
   slug: madrona-venture-group
   year: 2026
+- round: Seed ($10M)
+  slug: framer
+  year: 2025
+- round: '2025-06-17'
+  slug: independent
+  year: 2025
+- round: Seed
+  slug: vercel
+  year: 2025
 founded: 2026
 founders:
 - name: Kevin Jiang
@@ -12,7 +21,19 @@ founders:
   role: Co-Founder
 - name: Howard Zhong
   role: Co-Founder
-investors: []
+investors:
+- round: Seed ($10M)
+  slug: koen-bok
+  year: 2025
+- round: '2025-06-17'
+  slug: tobi-lutke
+  year: 2025
+- round: Seed
+  slug: paul-copplestone
+  year: 2025
+- round: Seed
+  slug: guillermo-rauch
+  year: 2025
 last_researched: 2026-07-30
 name: Polar
 sector:

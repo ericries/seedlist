@@ -27318,7 +27318,7 @@ queue:
 - name: Avishai Abrahami
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Wix
   discovered_from: willow
@@ -28954,7 +28954,7 @@ queue:
 - name: Anshu Sharma
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Skyflow AI (co-founder)
   discovered_from: equal-ai
@@ -43857,3 +43857,318 @@ queue:
   added: '2026-03-17'
   firm: InvestiFi
   discovered_from: investifi
+- name: Joon Sung Park
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Simile
+  discovered_from: simile
+  source: founder & CEO of Simile ($2B valuation Series B, 2026-07-30)
+- name: G2 Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: antora-energy
+  source: co-led Antora Energy Series C (2026-07-30), $550M
+- name: Activate Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: antora-energy
+  source: participated in Antora Energy Series C (2026-07-30)
+- name: Andrew Ponec
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Antora Energy
+  discovered_from: antora-energy
+  source: co-founder & CEO of Antora Energy ($550M Series C, 2026-07-30)
+- name: Okta Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bloom-security
+  source: participated in Bloom Security Seed (2026-07-30)
+- name: Runtime Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bloom-security
+  source: participated in Bloom Security Seed (2026-07-30)
+- name: Catalyst Health Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: epitel
+  source: co-led Epitel Series B (2026-07-28), $26M
+- name: Genoa Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: epitel
+  source: co-led Epitel Series B (2026-07-28), $26M
+- name: Skyflow
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anshu-sharma
+  source: Anshu Sharma is co-founder & CEO; data privacy vault startup
+- name: Skyflow (company)
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anshu-sharma
+  source: Anshu Sharma's operating company; raised seed 2020 (Foundation), Series
+    A 2020 (Canvas), Series B 2021 (Insight $45M), Series B ext 2024 (Khosla $30M)
+- name: Prakash Khot
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Skyflow
+  discovered_from: anshu-sharma
+  source: co-founder & CTO of Skyflow, former Salesforce executive
+- name: Roshmik Saha
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Skyflow
+  discovered_from: anshu-sharma
+  source: co-founder & engineering lead at Skyflow
+- name: Sanjay Subhedar
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Storm Ventures
+  discovered_from: anshu-sharma
+  source: Storm Ventures partner; co-launched Storm India SaaS Fund with Anshu Sharma
+    (2016)
+- name: Arun Penmetsa
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Storm Ventures
+  discovered_from: anshu-sharma
+  source: Storm Ventures partner; co-launched Storm India SaaS Fund with Anshu Sharma
+    (2016)
+- name: Canvas Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anshu-sharma
+  source: led Skyflow Series A 2020 ($17.5M)
+- name: Mouro Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anshu-sharma
+  source: participated in Skyflow Series B 2021 and extension 2024
+- name: MS&AD Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anshu-sharma
+  source: participated in Skyflow seed and Series B (Mitsui's VC arm)
+- name: Jeff Immelt
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: (angel)
+  discovered_from: anshu-sharma
+  source: former GE CEO; angel in Skyflow seed 2020
+- name: Jonathan Bush
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: (angel)
+  discovered_from: anshu-sharma
+  source: former AthenaHealth CEO; angel in Skyflow seed 2020
+- name: Nutanix
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anshu-sharma
+  source: Anshu Sharma seed-round angel; company IPO'd; useful cross-ref for enterprise
+    infra investors
+- name: Tekion
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anshu-sharma
+  source: Anshu Sharma early investor + advisor (2015); automotive vertical SaaS
+- name: Logikcull
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anshu-sharma
+  source: Anshu Sharma first angel check (2015); legal tech
+- name: Copper (fka ProsperWorks)
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anshu-sharma
+  source: Anshu Sharma board observer + investor
+- name: PubNub
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anshu-sharma
+  source: Anshu Sharma seed/Series A/B investor + advisor
+- name: CloudVolumes
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: anshu-sharma
+  source: Anshu Sharma seed investor; acquired by VMware (~8x return)
+- name: Wix
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avishai-abrahami
+  source: Avishai Abrahami's operating company; public SaaS website builder — referenced
+    as firm slug in Avishai's profile
+- name: Nadav Abrahami
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Wix
+  discovered_from: avishai-abrahami
+  source: Co-founder of Wix.com alongside brother Avishai
+- name: Giora Kaplan
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Wix
+  discovered_from: avishai-abrahami
+  source: Co-founder of Wix.com (2006)
+- name: Roy Mann
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: monday.com
+  discovered_from: avishai-abrahami
+  source: Co-founder & co-CEO of monday.com (IPO'd 2021); former Wix employee; Avishai's
+    most notable angel bet
+- name: Eran Zinman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: monday.com
+  discovered_from: avishai-abrahami
+  source: Co-founder & co-CEO of monday.com
+- name: Connecteam
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avishai-abrahami
+  source: Deskless-worker SaaS; raised $37M Series B 2021-04-28 led by Insight Partners
+    with Avishai Abrahami
+- name: Walnut
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avishai-abrahami
+  source: Sales demo SaaS; raised $2.5M Seed 2020-10-06 led by NFX with Avishai Abrahami
+- name: Unlimited Robotics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avishai-abrahami
+  source: Healthcare robotics; raised $5M Seed 2024-05-27 led by lool ventures with
+    Avishai Abrahami + Micha Kaufman
+- name: OpenWeb
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avishai-abrahami
+  source: Conversation platform; Avishai Abrahami holds board seat
+- name: Soluto
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avishai-abrahami
+  source: Consumer tech support software; Avishai Abrahami board member/angel; acquired
+    by Asurion Nov 2013 for ~$130M
+- name: Micha Kaufman
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Fiverr
+  discovered_from: avishai-abrahami
+  source: Co-founder & CEO of Fiverr; co-invested with Avishai in Unlimited Robotics
+    Seed (2024)
+- name: lool ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avishai-abrahami
+  source: Israeli early-stage VC; led Unlimited Robotics Seed 2024 with Avishai Abrahami
+    participating
+- name: OG Tech Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avishai-abrahami
+  source: Israeli family-office VC; co-invested in Connecteam Series B 2021 alongside
+    Wix leadership
+- name: Guy Altagar
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Unlimited Robotics
+  discovered_from: avishai-abrahami
+  source: CEO of Unlimited Robotics (backed by Avishai Abrahami)
+- name: Amir Nehemia
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Connecteam
+  discovered_from: avishai-abrahami
+  source: CEO of Connecteam (backed by Avishai Abrahami)
+- name: Nadav Shoval
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: OpenWeb
+  discovered_from: avishai-abrahami
+  source: Co-founder & CEO of OpenWeb (Avishai Abrahami on board)

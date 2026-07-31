@@ -1,37 +1,48 @@
 ---
-name: "Antora Energy"
-slug: antora-energy
-type: startup
-website: "https://www.antora.com"
-location: "San Jose, CA"
-founded: 2017
-status_company: active
-sector: [climate, energy, energy-storage, cleantech, industrial]
-stage_latest: "Series C"
-total_raised: "$770M"
-investors:
-  - slug: john-doerr
-    round: series-c
-    year: 2026
-    date: 2026-07-30
 firms:
-  - slug: ribbit-capital
-    round: series-c
-    year: 2026
-    date: 2026-07-30
-  - slug: lowercarbon-capital
-    round: series-c
-    year: 2026
-    date: 2026-07-30
-  - slug: breakthrough-energy-ventures
-    round: series-c
-    year: 2026
-    date: 2026-07-30
+- date: 2026-07-30
+  round: series-c
+  slug: ribbit-capital
+  year: 2026
+- date: 2026-07-30
+  round: series-c
+  slug: lowercarbon-capital
+  year: 2026
+- date: 2026-07-30
+  round: series-c
+  slug: breakthrough-energy-ventures
+  year: 2026
+- round: Early
+  slug: incite-ventures
+  year: 2018
+founded: 2017
 founders:
-  - name: "Andrew Ponec"
-    role: "Co-Founder & CEO"
-status: published
+- name: Andrew Ponec
+  role: Co-Founder & CEO
+investors:
+- date: 2026-07-30
+  round: series-c
+  slug: john-doerr
+  year: 2026
+- round: Early
+  slug: matt-rogers
+  year: 2018
 last_researched: 2026-07-30
+location: San Jose, CA
+name: Antora Energy
+sector:
+- climate
+- energy
+- energy-storage
+- cleantech
+- industrial
+slug: antora-energy
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: $770M
+type: startup
+website: https://www.antora.com
 ---
 
 ## About

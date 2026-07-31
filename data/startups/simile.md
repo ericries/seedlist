@@ -1,33 +1,39 @@
 ---
-name: "Simile"
-slug: simile
-type: startup
-website: "https://simile.com"
-location: "United States"
-founded: 2025
-status_company: active
-sector: [ai, market-research, consumer]
-stage_latest: "Series B"
-total_raised: "$300M"
-investors: []
 firms:
-  - slug: greenoaks
-    round: series-b
-    year: 2026
-    date: 2026-07-30
-  - slug: index-ventures
-    round: series-b
-    year: 2026
-    date: 2026-07-30
-  - slug: hanabi-capital
-    round: series-b
-    year: 2026
-    date: 2026-07-30
+- date: 2026-07-30
+  round: series-b
+  slug: greenoaks
+  year: 2026
+- date: 2026-07-30
+  round: series-b
+  slug: index-ventures
+  year: 2026
+- date: 2026-07-30
+  round: series-b
+  slug: hanabi-capital
+  year: 2026
+founded: 2025
 founders:
-  - name: "Joon Sung Park"
-    role: "Founder & CEO"
-status: published
+- name: Joon Sung Park
+  role: Founder & CEO
+investors:
+- round: Early
+  slug: shardul-shah
+  year: 2023
 last_researched: 2026-07-30
+location: United States
+name: Simile
+sector:
+- ai
+- market-research
+- consumer
+slug: simile
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $300M
+type: startup
+website: https://simile.com
 ---
 
 ## About
