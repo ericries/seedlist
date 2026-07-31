@@ -47,6 +47,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Repeat founder Ryan Williams raises $10M seed for an AI startup for private
+    credit managers
+  url: https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/
+  source: techcrunch
+  date_found: '2026-07-31'
+  parsed_company: Repeat founder Ryan Williams
+  parsed_amount: $10M
+  parsed_round: Seed
+  status: pending
+- title: These Are Sectors Where Seed Rounds Of $5M To $10M Are Clustering This Year
+  url: https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/
+  source: crunchbase
+  date_found: '2026-07-31'
+  parsed_company: null
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: Paris-based Apolownia raises €1 million to scale coastal restoration and
+    blue carbon projects
+  url: https://www.eu-startups.com/2026/07/paris-based-apolownia-raises-e1-million-to-scale-coastal-restoration-and-blue-carbon-projects/
+  source: eu-startups
+  date_found: '2026-07-31'
+  parsed_company: Paris-based Apolownia
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: London-based Intropy raises €9.5 million to build the AI-native operating
     system for the spare parts industry
   url: https://www.eu-startups.com/2026/07/london-based-intropy-raises-e9-5-million-to-build-the-ai-native-operating-system-for-the-spare-parts-industry/
@@ -856,21 +882,5 @@ pending_rounds:
   date_found: '2026-07-20'
   parsed_company: AMR Resources Acquisition
   parsed_amount: $250M
-  parsed_round: null
-  status: pending
-- title: u003e raised $450M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-20'
-  parsed_company: u003e
-  parsed_amount: $450M
-  parsed_round: Series B
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/20/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-20-2026/
-  source: alleywatch
-  date_found: '2026-07-20'
-  parsed_company: null
-  parsed_amount: null
   parsed_round: null
   status: pending
