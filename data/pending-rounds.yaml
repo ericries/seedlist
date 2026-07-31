@@ -91,6 +91,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Fresh off its Wiz payout, Index Ventures raises $2B across three funds
+  url: https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/
+  source: techcrunch
+  date_found: '2026-07-31'
+  parsed_company: Fresh off its Wiz payout, Index Ventures
+  parsed_amount: $2B
+  parsed_round: null
+  status: pending
 - title: London-based Intropy raises €9.5 million to build the AI-native operating
     system for the spare parts industry
   url: https://www.eu-startups.com/2026/07/london-based-intropy-raises-e9-5-million-to-build-the-ai-native-operating-system-for-the-spare-parts-industry/
