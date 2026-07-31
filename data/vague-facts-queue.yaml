@@ -139304,7 +139304,14 @@ vague_facts:
   line: '| Solana | Seed | ~2018 | Crypto / Blockchain | [^3][^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-31
+  note: 'Fact-spec sweep 2026-07-31: Abstract Ventures/Ramtin Naimi NOT named in primary
+    contemporaneous press for Solana 2018 seed or 2019-07-30 $20M Series A led by
+    Multicoin Capital (CoinDesk, Brady Dale). Attribution appears only on Abstract''s
+    own portfolio page and Crunchbase — classic aggregator-only pattern. Row annotated
+    in profile with disclosure. Added [^solana-a] CoinDesk primary source citation.
+    Cannot upgrade to specific round without primary press confirmation.'
 - profile: investors/ramtin-naimi
   profile_name: Ramtin Naimi
   company: Hippo
@@ -139324,7 +139331,16 @@ vague_facts:
   line: '| Alloy | Seed | 2020 | Enterprise / Automation | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-31
+  note: 'Fact-spec sweep 2026-07-31: tightened Alloy row from year-only 2020 to 2021-02-02
+    (public stealth-emergence announcement date; actual $4M tranche closed October
+    2020) with full detail — $5M cumulative seed co-led by Bain Capital Ventures
+    + Abstract Ventures; participants Y Combinator, BoxGroup, Color Capital, Bryant
+    Chou (Webflow), Laura Behrens Wu (Shippo), Brian Long (Attentive). Renamed to
+    Alloy Automation (disambiguating from Alloy identity co). Verified via 3 primary
+    sources: existing Crunchbase [^12] + NEW TechCrunch (Ron Miller) [^alloy-tc]
+    + NEW PRWeb company release [^alloy-prweb]. 2 new footnotes added.'
 - profile: investors/ramtin-naimi
   profile_name: Ramtin Naimi
   company: Popshop Live
@@ -139344,7 +139360,15 @@ vague_facts:
   line: '| WorkOS | Seed | 2020 | Enterprise / Developer Tools | [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-31
+  note: 'Fact-spec sweep 2026-07-31: tightened WorkOS row from year-only 2020 to
+    2020-03-17 (stealth launch announcement date) with full detail — Lightspeed led;
+    First Round, SV Angel, Abstract Ventures, Tuesday Capital, Work Life Ventures
+    participated. Verified via 3 primary sources: existing TechCrunch (Danny Crichton)
+    [^14] + NEW Michael Grinich (founder) Medium post [^workos-b] confirming Abstract
+    as "previous investor" continuing into Series A + WorkOS blog Series B post naming
+    Abstract as previous investor. 1 new footnote added ([^workos-b]).'
 - profile: investors/ramtin-naimi
   profile_name: Ramtin Naimi
   company: Hebbia

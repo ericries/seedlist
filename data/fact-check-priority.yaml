@@ -1,4 +1,22 @@
 priority:
+- slug: ramtin-naimi
+  type: investor
+  reason: 'Fact-spec sweep 2026-07-31: tightened 3 vague year-only Portfolio rows
+    on ramtin-naimi.md. (1) WORKOS: ''Seed | 2020'' -> ''Seed | 2020-03-17'' with
+    full syndicate (Lightspeed led; First Round, SV Angel, Abstract, Tuesday, Work
+    Life participated) via existing TechCrunch [^14] + NEW Grinich Medium post [^workos-b].
+    (2) ALLOY (renamed to Alloy Automation): ''Seed | 2020'' -> ''Seed | 2021-02-02''
+    with $5M cumulative amount, co-lead detail (Bain Capital Ventures + Abstract),
+    participants (Y Combinator, BoxGroup, Color Capital, Bryant Chou, Laura Behrens
+    Wu, Brian Long) via existing Crunchbase [^12] + NEW TechCrunch [^alloy-tc] +
+    NEW PRWeb [^alloy-prweb]. (3) SOLANA: MARKED unresolvable — Abstract Ventures
+    NOT named in primary contemporaneous press for 2018 seed or 2019-07-30 $20M Series
+    A led by Multicoin (CoinDesk); aggregator-only attribution pattern. Row annotated
+    with disclosure. Added [^solana-a] CoinDesk primary source. 4 new footnotes added
+    total.'
+  added: 2026-07-31
+  status: resolved
+  resolved: 2026-07-31
 - slug: heavybit
   type: firm
   reason: 'Fact-spec sweep 2026-07-29: tightened 3 vague Portfolio rows on heavybit.md
