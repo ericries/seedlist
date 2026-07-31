@@ -29,7 +29,8 @@ vague_facts:
   line: '| Spotahome | Series B (strategic) | 2018-07-11 | Rental housing platform | Active | [^13][^15][^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-31: clarified that the main USD 40M Series B closed 2018-06-06 led by Kleiner Perkins with Seaya Ventures and Passion Capital, while 10100 (Kalanick) joined as a strategic add-on announced 2018-07-11 (per Kalanick tweet and Buyouts Insider). Verified via Forbes/Trevor Clawson (2018-06-15), Samaipata Ventures Medium post (2018-06-06, founder-adjacent), and existing Bloomberg and Buyouts Insider citations. Added [^29] (Forbes) and [^30] (Samaipata Medium).'
 - profile: firms/10100
   profile_name: '10100'
   company: Kargo
@@ -39,7 +40,8 @@ vague_facts:
   line: '| Kargo | Seed | 2019-03-22 | Logistics (Indonesia) | Active | [^11] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-31: tightened Kargo row with USD 7.6M amount, Sequoia India lead, and full syndicate (ZhenFund, Intudo Ventures, ATM Capital, InnoVen Capital, Agaeti Ventures, Patrick Walujo, 10100). Verified via 3+ primary sources: existing TechCrunch [^11] (2019-03-22), NEW FreightWaves [^26] (2019-03-20), NEW DealStreetAsia [^27] (March 2019). 2 new footnotes added.'
 - profile: firms/10100
   profile_name: '10100'
   company: Luminous Computing
@@ -49,7 +51,8 @@ vague_facts:
   line: '| Luminous Computing | Seed | 2019-06-03 | AI chips | Active | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-07-31: tightened Luminous Computing row with USD 9M amount, Bill Gates lead, and full syndicate (Neo/Ali Partovi, Gigafund/Steve Oskoui, BoxGroup, Dara Khosrowshahi, Emil Michael, 10100). Verified via 3+ primary sources: existing CNBC [^12] (2019-06-03), NEW TechCrunch [^28] (2019-06-04), and PYMNTS. 1 new footnote added ([^28]).'
 - profile: firms/10100
   profile_name: '10100'
   company: Habitas
