@@ -44261,3 +44261,87 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: othman-laraki
+- name: Itay Keren
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bloom Security
+  discovered_from: bloom-security
+- name: Jonathan Swerdlin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Function Health
+  discovered_from: function-health
+- name: Serra Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quercus-biosolutions
+- name: Starshot Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quercus-biosolutions
+- name: Grantham Foundation for the Protection of the Environment
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quercus-biosolutions
+- name: Flyover Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: quercus-biosolutions
+- name: Jon Lightner
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Quercus Biosolutions
+  discovered_from: quercus-biosolutions
+- name: Matt Crisp
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Quercus Biosolutions
+  discovered_from: quercus-biosolutions
+- name: Taisu VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: copysight
+- name: Flint Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: copysight
+- name: Yellow Rocks!
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: copysight
+- name: Artem Petrov
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CopySight
+  discovered_from: copysight
+- name: Bob Mumgaard
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Commonwealth Fusion Systems
+  discovered_from: commonwealth-fusion-systems
