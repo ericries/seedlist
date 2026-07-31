@@ -20,6 +20,33 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Eindhoven’s Keiron raises €20.7 million to tackle one of electronics manufacturing’s
+    most expensive problems
+  url: https://www.eu-startups.com/2026/07/eindhoven-based-keiron-raises-e20-7-million-to-tackle-one-of-electronics-manufacturings-most-expensive-problems/
+  source: eu-startups
+  date_found: '2026-07-31'
+  parsed_company: Eindhoven’s Keiron
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Málaga-based Atomic One raises €5.6 million to automate e-commerce operations
+    with AI agents
+  url: https://www.eu-startups.com/2026/07/malaga-based-atomic-one-raises-e5-6-million-to-automate-e-commerce-operations-with-ai-agents/
+  source: eu-startups
+  date_found: '2026-07-31'
+  parsed_company: Málaga-based Atomic One
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: '“Now there is a real chance to become a unicorn”: Slovenia’s GenePlanet
+    secures strategic investment from Lauxera'
+  url: https://www.eu-startups.com/2026/07/now-there-is-a-real-chance-to-become-a-unicorn-slovenias-geneplanet-secures-strategic-investment-from-lauxera/
+  source: eu-startups
+  date_found: '2026-07-31'
+  parsed_company: '“Now there is a real chance to become a unicorn”: Slovenia’s GenePlanet'
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: London-based Intropy raises €9.5 million to build the AI-native operating
     system for the spare parts industry
   url: https://www.eu-startups.com/2026/07/london-based-intropy-raises-e9-5-million-to-build-the-ai-native-operating-system-for-the-spare-parts-industry/
