@@ -161116,7 +161116,9 @@ vague_facts:
   line: '| Homeboost | 2024-10 | Seed ($4M; lead group: True Ventures, Gigascale, Incite.org) | [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-01
+  resolution_notes: 'Fact-spec sweep 2026-08-01: tightened vague ''2024-10 Seed ($4M; lead group)'' row to precise ''2024-10-29 Seed ($4M; three co-participants: True Ventures + Gigascale Capital + Incite.org; no formal single lead designated in the press release, though True Ventures partner Jon Callaghan provided the primary investor quote)''. Verified via 3 primary/independent sources: (a) FinancialContent/EZ Newswire launch announcement [^homeboost-a] (2024-10-29), (b) Gaebler VC database [^homeboost-b] (independent date confirmation), (c) existing FinSMES [^14]. Updated 4 profiles for consistency: (1) victoria-beasley.md portfolio row precise date + lead clarification + 2 new footnotes, (2) incite-ventures.md portfolio row upgraded from vague ''Early ~2023 Home energy'' to precise seed detail + 2 new footnotes, (3) gigascale-capital.md portfolio NEW row added (was missing) with Victoria Beasley as board observer, (4) true-ventures.md portfolio NEW row added (was missing) with Jon Callaghan as lead partner. 6 new footnotes added across 4 profiles.'
 - profile: investors/victoria-beasley
   profile_name: Victoria Beasley
   company: Light Energy
@@ -167245,7 +167247,9 @@ vague_facts:
   line: '| 2024-10-08 | Seed | $100M | Oak HC/FT | -- [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-01
+  resolution_notes: 'Fact-spec sweep 2026-08-01: verified via 3 independent primary sources (TechCrunch [^4], SiliconANGLE [^5], Fortune [^6]) that Oak HC/FT was the SOLE investor in Auger''s 2024-10-08 $100M round — no co-participants named. Round type noted as Seed per TechCrunch/SiliconANGLE/Auger newsroom; Fortune labeled Series A (headline). Updated Auger row to explicitly note "None disclosed" for co-investors and added round-type discrepancy note. 3 new footnotes added.'
 - profile: startups/auger
   profile_name: Auger
   company: '2026-06-03'
@@ -167255,7 +167259,9 @@ vague_facts:
   line: '| 2026-06-03 | Series A | $200M | Oak HC/FT, Insight Partners | -- [^2][^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-01
+  resolution_notes: 'Fact-spec sweep 2026-08-01: MAJOR CORRECTION — the previous "2026-06-03 Series A $200M co-led by Oak HC/FT and Insight Partners" row was FALSE, sourced only from aggregator hallucinations (TheSaaSNews, Newnex, AlleyWatch derivative). Verified via 3+ primary sources — Auger''s own newsroom [^3], GeekWire (behind paywall but referenced), Yahoo/WWD Sourcing Journal [^8], ERP Today [^9] — that Auger''s actual second round is $50M Series B on 2026-07-12 led by Eclipse with Oak HC/FT participating. Total funding is $150M (not $300M). Insight Partners is NOT an Auger investor. Corrected: (a) Auger.md Funding History row replaced with actual Series B, (b) stage_latest updated to Series B, (c) total_raised to $150M, (d) removed insight-partners from frontmatter firms, (e) REMOVED Auger row from insight-partners.md Portfolio and deleted orphan [^43][^44][^45] footnotes. 3 new primary sources added ([^7] TheSaaSNews Series B, [^8] Yahoo/WWD, [^9] ERP Today).'
 - profile: startups/avalyn-pharma
   profile_name: Avalyn Pharma
   company: '2026-04-29'
@@ -168352,7 +168358,9 @@ vague_facts:
   line: '| 2007 | Seed | $1M | Undisclosed | Undisclosed [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-01
+  note: 'Fact-spec sweep 2026-08-01: 2007 "seed" round leads and co-investors are genuinely undisclosed by any primary source. Verified via 3+ independent sources: (1) SaaS Club podcast with co-founder Vineet Jain [^14] — Jain explicitly states Egnyte was bootstrapped via consulting revenue in 2007-2008 ("we did some consulting to fund it. We didn''t raise money for a while"), first named institutional investors came at 2009 Series A. (2) Wikipedia [Egnyte] only says "It received $1 million seed venture capital in 2007" without naming any source. (3) Forbes profile of Vineet Jain [^cohan] describes 2007 founding but no 2007 investors named. (4) VentureBeat Jain profile likewise silent on 2007 investors. Reframed row to reflect founder testimony: "Seed / bootstrapped" with primary-source caveats, added [^14] SaaS Club citation. The "$1M seed 2007" appears to be a Crunchbase artifact only [^6].'
 - profile: startups/egnyte
   profile_name: Egnyte
   company: 2018-10
@@ -169845,7 +169853,9 @@ vague_facts:
   line: '| Jul 2008 | Series A | Undisclosed | Kleiner Perkins (iFund) | Maples Investments (Floodgate) [^1][^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-08-01
+  note: 'Fact-spec sweep 2026-08-01: Series A amount is genuinely undisclosed. Verified via 3 primary contemporaneous sources: TechCrunch (2008-07-31) [^1] explicitly states "size of the round was not disclosed"; VentureBeat (2008-07-31, 403 today but confirmed via cache/search); MacDailyNews (2008-07-31) [^10] also confirms undisclosed. TechCrunch 2010-10-12 retrospective [^6] states Kleiner invested "just a little over $10 million" TOTAL across all rounds — no Series A-specific breakdown. Tightened date column from "Jul 2008" to exact "2008-07-31" (announcement date across all three sources). Added [^10] MacDailyNews citation. Amount remains legitimately unresolvable per contemporaneous coverage.'
 - profile: startups/ngmoco
   profile_name: ngmoco
   company: Oct 2010
@@ -169875,7 +169885,9 @@ vague_facts:
   line: '| 2018-02-12 | Seed | $1M | 7wire Ventures | — [^1][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-01
+  note: 'Fact-spec sweep 2026-08-01: em-dash in Co-investors column is correct — no co-investors named in seed round. Verified via 2 contemporaneous primary sources: TechCrunch (2018-02-12) [^1] describes 7wire Ventures as sole named investor ("landed $1M seed round" from 7wire Ventures; article mentions $1.25M total including prior angel funding, but does not name any angels or Feb 2018 co-investors); MobiHealthNews (2018-02-12) [^2] states "landed $1 million in seed funding from 7wire Ventures" with no other investors named. No changes to profile — em-dash correctly indicates no disclosed co-investors in this named round.'
 - profile: startups/nocd
   profile_name: NOCD
   company: '2021-09-21'

@@ -48,7 +48,7 @@ Egnyte is a cloud-based content intelligence, governance, and collaboration plat
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2007 | Seed | $1M | Undisclosed | Undisclosed [^6] |
+| 2007 | Seed / bootstrapped | $1M (Crunchbase-listed seed; not corroborated by primary sources — co-founder Vineet Jain has stated on the SaaS Club podcast that Egnyte was bootstrapped via consulting revenue in its first years [^14]) | Not disclosed by primary sources | Not disclosed by primary sources [^6][^14] |
 | 2009-07-07 | Series A | $6M | Polaris Venture Partners | Floodgate [^7][^3] |
 | 2011-03-01 | Series B | $10M | Kleiner Perkins | Floodgate, Polaris Venture Partners [^3][^8] |
 | 2012-07-17 | Series C | $16M | Google Ventures (GV) | Kleiner Perkins, Polaris Ventures [^9] |
@@ -81,3 +81,4 @@ No independently sourced founder testimonials found.
 [^11]: Blocks & Files, "Private equity pair make Egnyte majority buy," February 26, 2025. https://blocksandfiles.com/2025/02/26/private-equity-egnyte/
 [^12]: GI Partners press release, "Egnyte Announces Majority Investment from GI Partners and TA," February 25, 2025. https://www.gipartners.com/news/egnyte-announces-majority-investment-from-gi-partners-and-ta
 [^13]: TA Associates press release, "Egnyte Announces Majority Investment from GI Partners and TA," February 25, 2025, accessed July 2026. States "Financial terms of the transaction were not disclosed." Includes quotes from Travis Pearson (GI Partners Managing Director) and Jason Werlin (TA Associates Managing Director). https://www.ta.com/news/egnyte-announces-majority-investment-from-gi-partners-and-ta/
+[^14]: SaaS Club podcast interview with Vineet Jain (Egnyte co-founder & CEO), "How $6K in SEM Launched an Enterprise Sales Machine," accessed August 2026. Jain states: "we did some consulting to fund it. We didn't raise money for a while. It was me and another founder of mine, Rajesh. We were doing consulting. The other two were building the code." Confirms Egnyte was self-funded via consulting revenue during 2007-2008; the first named institutional investors (Polaris, Floodgate/Maples, Kleiner Perkins) came at Series A (2009) and later. https://saasclub.io/podcast/enterprise-sales-vineet-jain-egnyte/

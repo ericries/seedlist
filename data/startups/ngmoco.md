@@ -54,7 +54,7 @@ ngmoco ("Next Generation Mobile Company") was a mobile game publisher and develo
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| Jul 2008 | Series A | Undisclosed | Kleiner Perkins (iFund) | Maples Investments (Floodgate) [^1][^3] |
+| 2008-07-31 | Series A | Undisclosed (not disclosed by Kleiner Perkins or ngmoco; TechCrunch and MacDailyNews contemporaneous coverage both confirm "size of the round was not disclosed") | Kleiner Perkins (iFund) | Maples Investments (Floodgate) [^1][^3][^10] |
 | Mar 2009 | Series B | $10M | Norwest Venture Partners | Kleiner Perkins, Maples Investments [^4] |
 | Feb 2010 | Series C | $25M | Institutional Venture Partners (IVP) | Kleiner Perkins, Norwest Venture Partners, Maples Investments [^5] |
 | Oct 2010 | Acquisition | $400M (up to) | DeNA | — [^2] |
@@ -86,3 +86,4 @@ Total raised: $40.6M across three rounds [^5]. Kleiner Perkins invested just ove
 [^7]: Gamedeveloper.com, "Ngmoco Acquires iPhone Dev Freeverse, Completes $25M Funding Round," February 2010. https://www.gamedeveloper.com/game-platforms/ngmoco-acquires-iphone-dev-freeverse-completes-25m-funding-round
 [^8]: IVP Portfolio, "ngmoco," accessed March 2026. https://www.ivp.com/portfolio/ngmoco/
 [^9]: Gamedeveloper.com, "Interview: Behind The $400m Ngmoco-DeNA Deal," October 2010. https://www.gamedeveloper.com/game-platforms/interview-behind-the-400m-ngmoco-dena-deal
+[^10]: MacDailyNews, "Kleiner Perkins Caufield & Byers iFunds iPhone games publisher ngmoco," July 31, 2008, accessed August 2026. Confirms 2008-07-31 announcement date; states amount was not disclosed. https://macdailynews.com/2008/07/31/kleiner_perkins_caufield_byers_ifunds_iphone_games_publisher_ngmoco/amp/
