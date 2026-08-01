@@ -7787,7 +7787,9 @@ vague_facts:
   line: '| Databricks | Early | 2013 | Data infrastructure | Active | [^8][^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-31
+  resolution_note: 'Fact-spec sweep 2026-07-31: CORRECTED YEAR (2013 -> 2014) per DCVCs own portfolio page [^12] which states "First Investment: 2014". Investigated the 2014-06-30 Series B via 2 primary sources — TechCrunch [^db-tc] and Databricks blog [^db-blog] — which BOTH name only NEA (lead) and Andreessen Horowitz (follow-on). DCVC is NOT named in contemporaneous primary press. Aggregator-only attribution pattern (matches prior FOSSA/Fountain/Deepgram cases). Row annotated with full disclosure; status updated from "Active" to "Active (Series L Jul 2026)"; 2 new footnotes added ([^db-tc], [^db-blog]). Cannot pin exact round DCVC participated in — likely small SPV/follow-on that never surfaced in press.'
 - profile: firms/dcvc
   profile_name: DCVC
   company: Elastic

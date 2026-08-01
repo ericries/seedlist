@@ -119,7 +119,7 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | AegisAI | Series A (led, $36M; Accel and Foundation Capital participated) | 2026-07-23 | AI / Cybersecurity / Email Security | Active | [^aegis1][^aegis2] |
 | Hush Security | Series A (participated, $30M; Akamai strategic; YL Ventures also) | 2026-07-28 | AI Security / Non-Human Identity | Active | [^hush1][^hush2] |
 | Freehand | Series B (co-led, $75M; NewRoad Capital co-lead; Nexus Venture Partners, Penny Pritzker participated) | 2026-07-29 | Agentic AI / Supply Chain / Procurement | Active | [^fh1][^fh2] |
-| Terminal | Series A ($20M, led; Intact Private Capital, Penske, Y Combinator, Wayfinder Ventures participated) | 2026-07-29 | Insurtech / Fleet / Telematics API | Active | [^term1][^term2] |
+| Terminal | Series A ($20M, led; Intact Private Capital, Penske, Y Combinator, Wayfinder Ventures participated; Marcus Ryu joined board) | 2026-07-29 | Insurtech / Fleet / Telematics API | Active | [^term1][^term2][^term3] |
 
 *This table represents approximately 33 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
@@ -208,3 +208,5 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^term1]: FreightWaves, "Terminal raises $20M to untangle fleet telematics data," July 30, 2026. Accessed July 31, 2026. https://www.freightwaves.com/news/terminal-fleet-telematics-data-funding
 
 [^term2]: FinSMEs, "Terminal Raises $20M in Series A Funding," July 2026. Accessed July 31, 2026. https://www.finsmes.com/2026/07/terminal-raises-20m-in-series-a-funding.html
+
+[^term3]: Terminal press release via PR Newswire, "Terminal Raises $20 Million to Scale Market-Leading Telematics Integration Technology for Fortune 500 Companies Across Insurance, Fleet Management and Logistics," July 29, 2026. Accessed July 31, 2026. https://www.prnewswire.com/news-releases/terminal-raises-20-million-to-scale-market-leading-telematics-integration-technology-for-fortune-500-companies-across-insurance-fleet-management-and-logistics-302837250.html — Primary source confirming Battery Ventures lead, Marcus Ryu joining board, participants list, and Series A designation.
