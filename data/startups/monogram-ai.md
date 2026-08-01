@@ -53,6 +53,8 @@ investors:
   round: seed
   slug: charlie-songhurst
   year: 2026
+- slug: arthur-mensch
+- slug: othman-laraki
 last_researched: 2026-07-07
 location: San Francisco, CA
 name: Monogram

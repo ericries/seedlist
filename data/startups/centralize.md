@@ -1,24 +1,29 @@
 ---
-name: "Centralize"
-slug: centralize
-type: startup
-website: "https://centralize.com"
-location: "San Francisco, California"
-sector: [sales-tech, enterprise-software, AI, relationship-intelligence]
-stage_latest: "Series A"
-total_raised: "$19M"
-investors: []
 firms:
-  - slug: nea
-    round: series-a
-    year: 2026
-    date: 2026-07-29
-  - slug: y-combinator
-    round: series-a
-    year: 2026
-    date: 2026-07-29
-status: published
+- date: 2026-07-29
+  round: series-a
+  slug: nea
+  year: 2026
+- date: 2026-07-29
+  round: series-a
+  slug: y-combinator
+  year: 2026
+investors:
+- slug: stewart-butterfield
 last_researched: 2026-07-30
+location: San Francisco, California
+name: Centralize
+sector:
+- sales-tech
+- enterprise-software
+- AI
+- relationship-intelligence
+slug: centralize
+stage_latest: Series A
+status: published
+total_raised: $19M
+type: startup
+website: https://centralize.com
 ---
 
 ## About

@@ -1,31 +1,48 @@
 ---
-name: "Terminal"
-slug: terminal
-type: startup
-website: "https://www.terminal.industries"
-location: "Toronto, Canada"
-founded: 2023
-status_company: active
-sector: [insurtech, fleet, telematics, api, data-infrastructure]
-stage_latest: "Series A"
-total_raised: "$26M"
-investors: []
 firms:
-  - slug: battery-ventures
-    round: series-a
-    year: 2026
-    date: 2026-07-29
-  - slug: y-combinator
-    round: series-a
-    year: 2026
-    date: 2026-07-29
+- date: 2026-07-29
+  round: series-a
+  slug: battery-ventures
+  year: 2026
+- date: 2026-07-29
+  round: series-a
+  slug: y-combinator
+  year: 2026
+- round: ~2017
+  slug: atomic
+  year: 2017
+founded: 2023
 founders:
-  - name: "Raghav Midha"
-    role: "CEO & Co-Founder"
-  - name: "Connor Giles"
-    role: "CTO & Co-Founder"
-status: published
+- name: Raghav Midha
+  role: CEO & Co-Founder
+- name: Connor Giles
+  role: CTO & Co-Founder
+investors:
+- round: ~2017
+  slug: andrew-dudum
+  year: 2017
+- round: Series B
+  slug: jack-abraham
+  year: 2016
+- round: '2016'
+  slug: chester-ng
+  year: 2016
 last_researched: 2026-07-31
+location: Toronto, Canada
+name: Terminal
+sector:
+- insurtech
+- fleet
+- telematics
+- api
+- data-infrastructure
+slug: terminal
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $26M
+type: startup
+website: https://www.terminal.industries
 ---
 
 ## About

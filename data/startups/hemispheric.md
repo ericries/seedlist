@@ -1,23 +1,31 @@
 ---
-name: "Hemispheric"
-slug: hemispheric
-type: startup
-website: "https://hemispheric.ai"
-location: "Tel Aviv, Israel"
-founded: 2020
-status_company: active
-sector: [healthcare, neuroscience, neurotech, ai, digital-health, medical-devices]
-stage_latest: "Seed"
-total_raised: "$52M"
 firms: []
-investors: []
+founded: 2020
 founders:
-  - name: "Hagai Lalazar"
-    role: "CEO & Co-Founder"
-  - name: "Gidi Littwin"
-    role: "CTO & Co-Founder"
-status: published
+- name: Hagai Lalazar
+  role: CEO & Co-Founder
+- name: Gidi Littwin
+  role: CTO & Co-Founder
+investors:
+- slug: howard-morgan
+- slug: scott-belsky
 last_researched: 2026-07-19
+location: Tel Aviv, Israel
+name: Hemispheric
+sector:
+- healthcare
+- neuroscience
+- neurotech
+- ai
+- digital-health
+- medical-devices
+slug: hemispheric
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $52M
+type: startup
+website: https://hemispheric.ai
 ---
 
 ## About

@@ -1,43 +1,53 @@
 ---
-name: "K2 Space"
-slug: k2-space
-type: startup
-website: "https://www.k2space.com"
-location: "Torrance, California"
-founded: 2022
-status_company: active
-sector: [space, satellites, defense, aerospace]
-stage_latest: "Series D"
-total_raised: "$1B+"
-investors: []
 firms:
-  - slug: kleiner-perkins
-    round: series-d
-    year: 2026
-    date: 2026-07-30
-  - slug: iconiq-growth
-    round: series-d
-    year: 2026
-    date: 2026-07-30
-  - slug: capitalg
-    round: series-d
-    year: 2026
-    date: 2026-07-30
-  - slug: altimeter-capital
-    round: series-d
-    year: 2026
-    date: 2026-07-30
-  - slug: spark-capital
-    round: series-d
-    year: 2026
-    date: 2026-07-30
+- date: 2026-07-30
+  round: series-d
+  slug: kleiner-perkins
+  year: 2026
+- date: 2026-07-30
+  round: series-d
+  slug: iconiq-growth
+  year: 2026
+- date: 2026-07-30
+  round: series-d
+  slug: capitalg
+  year: 2026
+- date: 2026-07-30
+  round: series-d
+  slug: altimeter-capital
+  year: 2026
+- date: 2026-07-30
+  round: series-d
+  slug: spark-capital
+  year: 2026
+- round: '2022'
+  slug: first-round-capital
+  year: 2022
+founded: 2022
 founders:
-  - name: "Karan Kunjur"
-    role: "Co-Founder & CEO"
-  - name: "Neel Kunjur"
-    role: "Co-Founder & CTO"
-status: published
+- name: Karan Kunjur
+  role: Co-Founder & CEO
+- name: Neel Kunjur
+  role: Co-Founder & CTO
+investors:
+- round: '2022'
+  slug: meka-asonye
+  year: 2022
 last_researched: 2026-07-31
+location: Torrance, California
+name: K2 Space
+sector:
+- space
+- satellites
+- defense
+- aerospace
+slug: k2-space
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: $1B+
+type: startup
+website: https://www.k2space.com
 ---
 
 ## About

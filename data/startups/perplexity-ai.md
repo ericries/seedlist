@@ -63,6 +63,9 @@ investors:
 - slug: bob-muglia
 - slug: paul-buchheit
 - slug: clem-delangue
+- slug: balaji-srinivasan
+- slug: naval-ravikant
+- slug: tobi-lutke
 last_researched: 2026-04-19
 location: San Francisco, CA
 name: Perplexity AI

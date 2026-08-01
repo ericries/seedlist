@@ -44523,3 +44523,80 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: apolownia
+- name: 201 Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: agon
+- name: D3
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: agon
+- name: Klaus Hommels
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Lakestar
+  discovered_from: agon
+- name: Tristam Constant
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Agon
+  discovered_from: agon
+- name: Junaid Hussain
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Agon
+  discovered_from: agon
+- name: Cisco Investments
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eliyan
+- name: Lumentum
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: eliyan
+- name: Ramin Farjadrad
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Eliyan
+  discovered_from: eliyan
+- name: Emerge Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: 5u-ai
+- name: Yagiz Abik
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: 5U AI
+  discovered_from: 5u-ai
+- name: Lightspeed India Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fixxly
+- name: Fundamentum
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apna-mart

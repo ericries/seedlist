@@ -64,6 +64,7 @@ investors:
 - round: Seed ($30M, co-led)
   slug: brad-lightcap
   year: 2024
+- slug: lachy-groom
 last_researched: 2026-07-19
 location: San Francisco, California
 name: Chai Discovery

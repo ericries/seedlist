@@ -1,25 +1,31 @@
 ---
-name: "Deutsche Sanierungsberatung (dsb)"
-slug: deutsche-sanierungsberatung
-type: startup
-website: "https://dsb.de"
-location: "Berlin, Germany"
+firms:
+- slug: fj-labs
 founded: 2024
-status_company: active
-sector: [climate-tech, energy, home-renovation, digital-platform, consumer]
-stage_latest: "Series A"
-total_raised: "€13.6M+"
-firms: []
-investors: []
 founders:
-  - name: "Sebastian Schmidt"
-    role: "Co-Founder"
-  - name: "Niclas Kern"
-    role: "Co-Founder"
-  - name: "Adam Khenissi"
-    role: "Co-Founder"
-status: published
+- name: Sebastian Schmidt
+  role: Co-Founder
+- name: Niclas Kern
+  role: Co-Founder
+- name: Adam Khenissi
+  role: Co-Founder
+investors: []
 last_researched: 2026-07-21
+location: Berlin, Germany
+name: Deutsche Sanierungsberatung (dsb)
+sector:
+- climate-tech
+- energy
+- home-renovation
+- digital-platform
+- consumer
+slug: deutsche-sanierungsberatung
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: €13.6M+
+type: startup
+website: https://dsb.de
 ---
 
 ## About

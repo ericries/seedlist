@@ -1,21 +1,28 @@
 ---
-name: "Aina"
-slug: aina-hardware
-type: startup
-website: "https://ainahq.com"
-location: "Bengaluru, India / San Francisco"
-founded: 2025
-status_company: active
-sector: [hardware, ai, consumer-hardware, human-computer-interaction, ai-agents]
-stage_latest: "Seed"
-total_raised: "$5.5M"
-investors: []
 firms: []
+founded: 2025
 founders:
-  - name: "Apoorv Shankar"
-    role: "Founder & CEO"
-status: published
+- name: Apoorv Shankar
+  role: Founder & CEO
+investors:
+- slug: kunal-shah
+- slug: tikhon-bernstam
 last_researched: 2026-07-19
+location: Bengaluru, India / San Francisco
+name: Aina
+sector:
+- hardware
+- ai
+- consumer-hardware
+- human-computer-interaction
+- ai-agents
+slug: aina-hardware
+stage_latest: Seed
+status: published
+status_company: active
+total_raised: $5.5M
+type: startup
+website: https://ainahq.com
 ---
 
 ## About

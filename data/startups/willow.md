@@ -21,6 +21,7 @@ investors:
 - round: Seed ($7M, first check)
   slug: nir-zohar
   year: 2026
+- slug: avishai-abrahami
 last_researched: 2026-06-03
 location: Herzliya, Israel
 name: Willow

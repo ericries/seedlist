@@ -20,6 +20,7 @@ firms:
   round: series-b
   slug: kleiner-perkins
   year: 2021
+- slug: threshold-ventures
 founded: 2020
 founders:
 - name: Glen Tullman

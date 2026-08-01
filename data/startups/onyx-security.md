@@ -1,43 +1,59 @@
 ---
-name: "Onyx Security"
-slug: onyx-security
-type: startup
-website: "https://www.onyx.security"
-location: "New York, NY / Tel Aviv, Israel"
-founded: 2024
-status_company: active
-sector: [cybersecurity, ai-security, enterprise-software, agentic-ai]
-stage_latest: "Series B"
-total_raised: "$153M"
-investors: []
 firms:
-  - slug: bessemer-venture-partners
-    round: series-b
-    year: 2026
-    date: 2026-07-29
-  - slug: cyberstarts
-    round: series-b
-    year: 2026
-    date: 2026-07-29
-  - slug: tcv
-    round: series-b
-    year: 2026
-    date: 2026-07-29
-  - slug: conviction
-    round: series-b
-    year: 2026
-    date: 2026-07-29
-  - slug: quantumlight
-    round: series-b
-    year: 2026
-    date: 2026-07-29
+- date: 2026-07-29
+  round: series-b
+  slug: bessemer-venture-partners
+  year: 2026
+- date: 2026-07-29
+  round: series-b
+  slug: cyberstarts
+  year: 2026
+- date: 2026-07-29
+  round: series-b
+  slug: tcv
+  year: 2026
+- date: 2026-07-29
+  round: series-b
+  slug: conviction
+  year: 2026
+- date: 2026-07-29
+  round: series-b
+  slug: quantumlight
+  year: 2026
+founded: 2024
 founders:
-  - name: "Maxim Bar Kogan"
-    role: "Co-Founder & CEO"
-  - name: "Gil Elbaz"
-    role: "Co-Founder"
-status: published
+- name: Maxim Bar Kogan
+  role: Co-Founder & CEO
+- name: Gil Elbaz
+  role: Co-Founder
+investors:
+- round: Seed
+  slug: hila-zigman
+  year: 2024
+- round: Seed
+  slug: emily-heath
+  year: 2024
+- round: Seed
+  slug: lior-simon
+  year: 2024
+- round: '2024'
+  slug: gili-raanan
+  year: 2024
 last_researched: 2026-07-31
+location: New York, NY / Tel Aviv, Israel
+name: Onyx Security
+sector:
+- cybersecurity
+- ai-security
+- enterprise-software
+- agentic-ai
+slug: onyx-security
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $153M
+type: startup
+website: https://www.onyx.security
 ---
 
 ## About

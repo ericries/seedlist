@@ -34,6 +34,7 @@ investors:
 - round: Seed
   slug: guillermo-rauch
   year: 2025
+- slug: thomas-dohmke
 last_researched: 2026-07-30
 name: Polar
 sector:

@@ -7718,3 +7718,23 @@ priority:
   type: firm
   reason: "participated in Apolownia Seed (2026-07-31), €1M"
   added: 2026-08-01
+- slug: lux-capital
+  type: firm
+  reason: "participated in Agon Seed (2026-07-29), $23M co-lead XYZ VC"
+  added: 2026-08-01
+- slug: northzone
+  type: firm
+  reason: "participated in Agon Seed (2026-07-29), $23M co-lead XYZ VC"
+  added: 2026-08-01
+- slug: david-helgason
+  type: investor
+  reason: "chairman & angel in Agon Seed (2026-07-29), $30M"
+  added: 2026-08-01
+- slug: umesh-padval
+  type: investor
+  reason: "led Eliyan Series C via Seligman Ventures (2026-07-29), $145M, joined board"
+  added: 2026-08-01
+- slug: accel
+  type: firm
+  reason: "led Fixxly Seed (2026-07-29) $5.5M; co-led Apna Mart Series C (2026-07-30) ₹120 Cr"
+  added: 2026-08-01

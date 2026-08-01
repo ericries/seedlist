@@ -6,7 +6,10 @@ founders:
   role: Co-Founder & CEO
 - name: Emre Altinok
   role: Co-Founder
-investors: []
+investors:
+- slug: gokul-rajaram
+- slug: lenny-rachitsky
+- slug: romain-huet
 last_researched: 2026-07-21
 location: New York, New York
 name: Uniti

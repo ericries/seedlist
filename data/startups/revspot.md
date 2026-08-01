@@ -1,25 +1,31 @@
 ---
-name: "Revspot"
-slug: revspot
-type: startup
-website: "https://revspot.ai"
-location: "Bengaluru, India"
-founded: 2024
-status_company: active
-sector: [ai, sales-tech, b2c, pipeline-generation, saas]
-stage_latest: "Series A"
-total_raised: "$6.2M"
 firms: []
-investors: []
+founded: 2024
 founders:
-  - name: "Darshan Subash"
-    role: "Co-Founder"
-  - name: "Chirag Wadhera"
-    role: "Co-Founder"
-  - name: "Varun Garg"
-    role: "Co-Founder"
-status: published
+- name: Darshan Subash
+  role: Co-Founder
+- name: Chirag Wadhera
+  role: Co-Founder
+- name: Varun Garg
+  role: Co-Founder
+investors:
+- slug: kunal-shah
 last_researched: 2026-07-30
+location: Bengaluru, India
+name: Revspot
+sector:
+- ai
+- sales-tech
+- b2c
+- pipeline-generation
+- saas
+slug: revspot
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $6.2M
+type: startup
+website: https://revspot.ai
 ---
 
 ## About

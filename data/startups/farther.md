@@ -1,11 +1,24 @@
 ---
-name: Farther
-slug: farther
-type: startup
-website: https://farther.com/
-location: New York, NY
+firms:
+- date: 2024-10-10
+  round: series-c
+  slug: capitalg
+  year: 2024
+- date: 2026-05-20
+  round: series-d
+  slug: bessemer-venture-partners
+  year: 2026
+- date: 2026-05-20
+  round: series-d
+  slug: capitalg
+  year: 2026
+- slug: khosla-ventures
 founded: 2019
-status_company: active
+founders: []
+investors: []
+last_researched: 2026-05-23
+location: New York, NY
+name: Farther
 sector:
 - fintech
 - wealthtech
@@ -13,25 +26,13 @@ sector:
 - saas
 - wealth-management
 - ria
+slug: farther
 stage_latest: Series D
-total_raised: $150M+
-investors: []
-firms:
-- slug: capitalg
-  round: series-c
-  year: 2024
-  date: 2024-10-10
-- slug: bessemer-venture-partners
-  round: series-d
-  year: 2026
-  date: 2026-05-20
-- slug: capitalg
-  round: series-d
-  year: 2026
-  date: 2026-05-20
-founders: []
-last_researched: 2026-05-23
 status: published
+status_company: active
+total_raised: $150M+
+type: startup
+website: https://farther.com/
 ---
 
 ## About
