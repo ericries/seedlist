@@ -7706,3 +7706,15 @@ priority:
   type: firm
   reason: "participated in K2 Space Series D (2026-07-30), $500M"
   added: 2026-07-31
+- slug: arcano-partners
+  type: firm
+  reason: "led Atomic One growth round (2026-07-27), €5.6M"
+  added: 2026-08-01
+- slug: lita
+  type: firm
+  reason: "led Apolownia Seed (2026-07-31), €1M"
+  added: 2026-08-01
+- slug: bpifrance
+  type: firm
+  reason: "participated in Apolownia Seed (2026-07-31), €1M"
+  added: 2026-08-01

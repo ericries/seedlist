@@ -44511,3 +44511,15 @@ queue:
   added: '2026-03-17'
   firm: Spur Intelligence
   discovered_from: spur-intelligence
+- name: Arcano Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: atomic-one
+- name: LITA
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: apolownia
