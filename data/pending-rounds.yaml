@@ -29,15 +29,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Assured Raises $19M Series A Led by Insight Partners to Automate Healthcare
-    Provider Operations with AI Agents
-  url: https://www.globenewswire.com/news-release/2026/07/30/3335854/0/en/Assured-Raises-19M-Series-A-Led-by-Insight-Partners-to-Automate-Healthcare-Provider-Operations-with-AI-Agents.html
-  source: globenewswire
-  date_found: '2026-08-01'
-  parsed_company: Assured
-  parsed_amount: $19M
-  parsed_round: Series A
-  status: pending
 - title: Eindhoven’s Keiron raises €20.7 million to tackle one of electronics manufacturing’s
     most expensive problems
   url: https://www.eu-startups.com/2026/07/eindhoven-based-keiron-raises-e20-7-million-to-tackle-one-of-electronics-manufacturings-most-expensive-problems/
