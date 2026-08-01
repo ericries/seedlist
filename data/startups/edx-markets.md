@@ -13,9 +13,11 @@ firms:
   - slug: paradigm
     round: founding
     year: 2022
+    date: 2022-09-13
   - slug: sequoia-capital
     round: founding
     year: 2022
+    date: 2022-09-13
   - slug: pantera-capital
     round: series-b
     year: 2024
@@ -38,7 +40,7 @@ EDX Markets is a Chicago-based institutional digital asset trading and clearing 
 |---|---|---|---|---|
 | 2026-07-07 | Series C | $76M | SBI Holdings | [^1][^2][^3][^4] |
 | 2024-01-24 | Series B | Undisclosed (company did not disclose; Bloomberg reported valuation doubled vs. Series A) | Pantera Capital, Sequoia Capital (co-led) | Citadel Securities, Fidelity Digital Assets, Virtu Financial, Charles Schwab, DV Crypto, GSR Markets, GTS, HRT Technology, Miami International Holdings, Paradigm [^6][^7][^8] |
-| 2022 | Founding | Undisclosed | — | Charles Schwab, Citadel Securities, Fidelity Digital Assets, Virtu Financial, Paradigm, Sequoia Capital [^5] |
+| 2022-09-13 | Founding | Undisclosed (initial capitalization not publicly disclosed) | — | Charles Schwab, Citadel Securities, Fidelity Digital Assets, Virtu Financial, Paradigm, Sequoia Capital [^5][^9][^10] |
 
 SBI Holdings was the sole investor in the Series C round [^3]. Proceeds will support expansion of trading, clearing, and settlement capabilities, product development, and international operations [^1][^2]. Pantera Capital first joined as a new investor in the January 2024 Series B, which it co-led with founding investor Sequoia Capital [^6][^7].
 
@@ -63,3 +65,7 @@ SBI Holdings was the sole investor in the Series C round [^3]. Proceeds will sup
 [^7]: FinSMEs, "EDX Markets Closes Series B Funding Round," January 2024. Accessed July 2026. https://www.finsmes.com/2024/01/edx-markets-closes-series-b-funding-round.html — Independent confirmation of the January 2024 Series B co-led by Pantera Capital (new investor) and Sequoia Capital (existing founding investor).
 
 [^8]: Ledger Insights, "Fidelity backed crypto firm EDX Markets passes $1bn a month, eyes Asia," 2024. Accessed July 2026. https://www.ledgerinsights.com/edx-markets-crypto-passes-1bn-asia/ — Contemporaneous trade-press coverage of the Series B; states "EDX didn't share the Series B round amount, but Bloomberg said the valuation was double that of the Series A." Confirms Pantera Capital as co-lead with existing investor Sequoia; participants named include Citadel Securities, Fidelity Digital Assets, and Virtu Financial.
+
+[^9]: Nasdaq (Benzinga), "Citadel Securities, Fidelity And Charles Schwab-Backed EDX Exchange Launches," 2022. Accessed July 2026. https://www.nasdaq.com/articles/citadel-securities-fidelity-and-charles-schwab-backed-edx-exchange-launches — Contemporaneous press coverage confirming September 13, 2022 launch announcement of EDX Markets; no funding amount disclosed at founding.
+
+[^10]: MarketsWiki, "EDX Markets," accessed July 2026. https://www.marketswiki.com/wiki/EDX_Markets — Industry reference confirming September 13, 2022 founding announcement date and backer consortium.

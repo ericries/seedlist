@@ -31,7 +31,7 @@ NVIDIA acquired Brev.dev in July 2024; Khalil announced the deal publicly on Jul
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2022-06 | Pre-Seed | Undisclosed | Nama Ventures | Not publicly disclosed [^2] |
+| 2022-06-23 | Pre-Seed | Undisclosed (amount not publicly disclosed) | Nama Ventures | Nama Ventures (sole disclosed investor) [^2][^9][^10] |
 | 2024-07-17 | Acquisition | Undisclosed (financial terms not disclosed) | NVIDIA (acquirer) | — [^5][^7][^8] |
 
 ## What Investors Say
@@ -56,3 +56,7 @@ Nader Khalil, announcing the NVIDIA acquisition on LinkedIn, July 17, 2024: "We 
 [^7]: Cryptopolitan, "Nvidia acquires AI startup Brev.dev to enhance Cloud GPU services," July 2024. Accessed July 2026. https://www.cryptopolitan.com/nvidia-acquires-ai-startup-brev-dev/ — Contemporaneous trade press coverage of the acquisition. Notes this was NVIDIA's fourth 2024 acquisition; unlike Run ($700M), Shoreline.io ($100M), and Deci ($300M), the Brev.dev deal terms were not disclosed.
 
 [^8]: Nama Ventures, "NVIDIA Acquires Brev.dev, a Portfolio Company of Nama Ventures," July 2024. Accessed July 2026. https://www.namaventures.com/nvidia-acquires-brev-dev-a-portfolio-company-of-nama-ventures/ — Lead investor announcement of the NVIDIA acquisition; no financial terms disclosed. Includes quote from Mohamed Alzubi (Founder & Managing Director) on the exit.
+
+[^9]: Wamda, "Nama Ventures invests in US-based IT startup Brev.dev," June 23, 2022. Accessed July 2026. https://www.wamda.com/en/2022/06/nama-ventures-invests-based-startup-brevdev — Contemporaneous MENA tech-press coverage dated June 23, 2022; confirms Nama Ventures pre-seed investment and that amount was undisclosed. No other participants named.
+
+[^10]: My Startup World, "Brev.dev raises an undisclosed amount in pre-Seed funding round," June 24, 2022. Accessed July 2026. https://mystartupworld.com/brev-dev-raises-an-undisclosed-amount-in-pre-seed-funding-round/ — Independent contemporaneous press confirmation of Nama Ventures-led pre-seed with undisclosed amount.

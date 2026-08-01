@@ -80,7 +80,7 @@ Josh Luber served as CEO until mid-2019, when e-commerce veteran Scott Cutler (f
 
 | Date | Round | Amount | Lead | Co-investors | Source |
 |------|-------|--------|------|--------------|--------|
-| 2016-11-01 | Seed | Undisclosed | — | — | [^8][^10] |
+| 2016-11-01 | Seed | Undisclosed (amount not publicly disclosed) | — | — | [^8][^10][^13] |
 | Feb 2017 | Series A | $6M | — (syndicate) | Mark Wahlberg, Eminem, Paul Rosenberg, Ted Leonsis, Steve Case, Tim Armstrong, Scooter Braun, Ron Conway / SV Angel, Courtside Ventures, Detroit Venture Partners | [^2] |
 | Sep 2018 | Series B | $44M | GV, Battery Ventures | Marc Benioff, Karlie Kloss, Steve Aoki, Don C | [^4][^9] |
 | Jun 2019 | Series C | $110M | DST Global, General Atlantic, GGV Capital | GV, Battery Ventures | [^3] |
@@ -119,3 +119,5 @@ Total raised: approximately $690 million across all rounds [^8]. The company was
 [^10]: Seed Round - StockX - 2016-11-01, Crunchbase Funding Round Profile, accessed April 2026. https://www.crunchbase.com/funding_round/stockx-seed--f0c4a27f
 [^11]: "StockX Raises $275 Million in Series E Funding Round," StockX News, December 16, 2020, accessed April 2026. https://stockx.com/about/stockx-raises-275-million-in-series-e-funding-round/
 [^12]: "StockX Raises $275 Million in Series E Funding Round," PR Newswire, December 16, 2020, accessed April 2026. https://www.prnewswire.com/news-releases/stockx-raises-275-million-in-series-e-funding-round-301193907.html
+
+[^13]: Bruin Ventures / Jibran Ali, "StockX: An online 'stock market of things'," UCLA Bruin Ventures, Medium, accessed July 2026. https://uclabv.medium.com/stockx-an-online-stock-market-of-things-a-startup-research-report-by-jibran-ali-c1985dde49ff — Independent research report confirming StockX's seed round was announced November 1, 2016 with "no further details" (amount not publicly disclosed).

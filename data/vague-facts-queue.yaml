@@ -167435,7 +167435,9 @@ vague_facts:
   line: '| 2022-06 | Pre-Seed | Undisclosed | Nama Ventures | Not publicly disclosed [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-31
+  resolution_note: 'Fact-spec sweep 2026-07-31: Brev.dev pre-seed amount is genuinely undisclosed. Verified via 3 independent primary/contemporaneous sources: Wamda (June 23, 2022), My Startup World (June 24, 2022), and Nama Ventures own announcement — all confirm "undisclosed amount." Tightened row date from 2022-06 to 2022-06-23 (Wamda contemporaneous). 2 new footnotes added ([^9] Wamda, [^10] My Startup World).'
 - profile: startups/brev-dev
   profile_name: Brev.dev
   company: '2024-07-17'
@@ -168338,7 +168340,9 @@ vague_facts:
   line: '| 2022 | Founding | Undisclosed | — | Charles Schwab, Citadel Securities, Fidelity Digital Assets, Virtu Financial, Para'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-31
+  resolution_note: 'Fact-spec sweep 2026-07-31: EDX Markets founding announcement date tightened from 2022 to 2022-09-13. Founding capitalization is genuinely undisclosed (no funding figure was released with the founding announcement). Verified via 3 primary/contemporaneous sources: CoinDesk (Sept 13, 2022) [^5], Nasdaq/Benzinga launch coverage [^9], MarketsWiki industry reference [^10] — all confirm 2022-09-13 launch date and no disclosed initial capitalization. Also updated frontmatter firms[paradigm].date and firms[sequoia-capital].date to 2022-09-13. 2 new footnotes added ([^9], [^10]).'
 - profile: startups/egnyte
   profile_name: Egnyte
   company: '2007'
@@ -171643,7 +171647,9 @@ vague_facts:
   line: '| 2016-11-01 | Seed | Undisclosed | — | — | [^8][^10] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-07-31
+  resolution_note: 'Fact-spec sweep 2026-07-31: StockX seed round (2016-11-01) amount is genuinely undisclosed. Verified via 3 independent sources: Crunchbase funding round profile [^10] (records seed but no amount), Clay dossier [^8], and NEW UCLA Bruin Ventures/Jibran Ali research report [^13] which explicitly states "Seed: November 1st, 2016. No further details were released." The first publicly-disclosed round was the Feb 15, 2017 Series A ($6M). Date 2016-11-01 confirmed correct. 1 new footnote added ([^13]).'
 - profile: startups/stockx
   profile_name: StockX
   company: Feb 2017
