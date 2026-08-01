@@ -108,11 +108,11 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 |---------|-------|------|--------|--------|--------|
 | SentinelOne | Series D | 2019 | Cybersecurity | Active (Public) | [^10] |
 | Wix | Series D | 2011 | Website Builder | Active (Public) | [^14] |
-| Twitter | Series D ($100M, participated; new investor alongside T. Rowe Price and Morgan Stanley) | 2009-09-25 | Social Media | Acquired (Musk, 2022) | [^15][^55][^56] |
+| Twitter | Series D ($100M, participated; new investor alongside T. Rowe Price and Morgan Stanley) | 2009-09-25 | Social Media | Acquired (Musk, 2022) | [^15][^52][^53] |
 | Shopify | Series A | 2010 | E-commerce SaaS | Active (Public) | [^16] |
 | Qualtrics | Series B | 2014 | Enterprise Software | Acquired (SAP/Silver Lake) | [^17] |
 | HelloFresh | Series D | 2014 | Consumer/Food | Active (Public) | [^18] |
-| Alteryx | Series B ($60M, led; SAP Ventures & Toba Capital participated) | 2014-10-06 | Data Analytics | Acquired (Clearlake) | [^19][^57][^58] |
+| Alteryx | Series B ($60M, led; SAP Ventures & Toba Capital participated) | 2014-10-06 | Data Analytics | Acquired (Clearlake) | [^19][^54][^55] |
 | JFrog | Series D | 2018 | DevOps | Active (Public) | [^20] |
 | nCino | Series B | 2015 | Fintech/Banking SaaS | Active (Public) | [^21] |
 | Cvent | Growth | 2011 | Event Tech | Active (Public) | [^22] |
@@ -132,11 +132,10 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Iterative Health | Series C | 2026-04-30 | Healthcare / Clinical Trials AI | Active | [^32] |
 | GovWell | Series A ($25M, led) | 2026-05-14 | GovTech / AI / Public Sector | Active | [^38][^39] |
 | Ramp | Series F ($750M at $44B post; new investor, ICONIQ/GIC/Ontario Teachers' co-led) | 2026-06-04 | Fintech / Spend Management | Active | [^40][^41][^42] |
-| Auger | Series A ($200M, co-led with Oak HC/FT) | 2026-06-03 | Supply Chain AI | Active | [^43][^44][^45] |
-| Golden Analytics | Seed Extension ($14M, led) | 2026-06-09 | AI / Business Intelligence | Active | [^46][^47] |
-| Gradial | Series C ($65M, led) | 2026-06-18 | AI / Agents / Marketing | Active ($675M val) | [^48][^49][^50] |
-| InstaLILY AI | Series A ($25M, led) | 2025-08-28 | Vertical AI / Enterprise Agents | Active | [^51] |
-| InstaLILY AI | Series B ($60M, participated; Energize Capital led; Home Depot Ventures + United Rentals new) | 2026-07-14 | Vertical AI / Enterprise Agents | Active | [^52][^53][^54] |
+| Golden Analytics | Seed Extension ($14M, led) | 2026-06-09 | AI / Business Intelligence | Active | [^43][^44] |
+| Gradial | Series C ($65M, led) | 2026-06-18 | AI / Agents / Marketing | Active ($675M val) | [^45][^46][^47] |
+| InstaLILY AI | Series A ($25M, led) | 2025-08-28 | Vertical AI / Enterprise Agents | Active | [^48] |
+| InstaLILY AI | Series B ($60M, participated; Energize Capital led; Home Depot Ventures + United Rentals new) | 2026-07-14 | Vertical AI / Enterprise Agents | Active | [^49][^50][^51] |
 | TytoCare | Growth ($25M+, led; oversubscribed) | 2026-07-15 | Digital Health / Remote Care / AI Diagnostics | Active (Adam Pellegrini appointed CEO) | [^tyto1][^tyto2][^tyto3] |
 | Passionfroot | Series A ($15M, led) | 2026-07-22 | Creator Economy / B2B Marketplace / AI | Active | [^pfr1][^pfr2] |
 | Assured Health | Series A ($19M, led; First Round Capital and Kindred Ventures participated) | 2026-07-21 | Healthtech / Agentic AI / Credentialing | Active | [^ah1][^ah2][^ah3][^ah4] |
@@ -213,42 +212,37 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^40]: PR Newswire, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. Insight Partners listed among new investors; round co-led by ICONIQ, GIC, and Ontario Teachers' Pension Plan. Accessed June 2026. https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html
 [^41]: TechCrunch, "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story," June 4, 2026. Accessed June 2026. https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/
 [^42]: Ontario Teachers' Pension Plan, "Ramp Raises Series F at $44 Billion Valuation," June 4, 2026. Accessed June 2026. https://www.otpp.com/en-ca/about-us/news-and-insights/2026/ramp-raises-series-f-at-44-billion-valuation/
-[^43]: The SaaS News, "Auger Raises $200M Series A," June 2026. Series A backed by lead investors Oak HC/FT and Insight Partners; closed June 3, 2026. Accessed June 2026. https://www.thesaasnews.com/news/auger-raises-200m-series-a/
-[^44]: Newnex, "Auger Raises $200M Series A to Build an Autonomous AI Operating System for Global Supply Chains," June 2026. Confirms $200M Series A co-led by Oak HC/FT and Insight Partners. Accessed June 2026. https://www.newnex.io/feed/auger-raises-200m-series-a-to-build-an-autonomous-ai-operating-system-for-global-supply-chains
-[^45]: AlleyWatch, "The Weekly Notable Startup Funding Report: 6/8/26," June 8, 2026. Lists Auger $200M with Insight Partners and Oak HC/FT as named investors; total equity funding now $300M. Accessed June 2026. https://www.alleywatch.com/2026/06/the-weekly-notable-startup-funding-report-6-8-26/
+[^43]: PR Newswire, "Golden Analytics Secures $14 Million Seed Extension," June 9, 2026. Confirms Insight Partners led the $14M seed extension with NEA and Madrona; Ganesh Bell quoted. Accessed June 11, 2026. https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html
 
-[^46]: PR Newswire, "Golden Analytics Secures $14 Million Seed Extension," June 9, 2026. Confirms Insight Partners led the $14M seed extension with NEA and Madrona; Ganesh Bell quoted. Accessed June 11, 2026. https://www.prnewswire.com/news-releases/golden-analytics-secures-14-million-seed-extension-302794949.html
+[^44]: GeekWire, "Golden Analytics lands $14M seed extension and opens AI platform to public beta," June 9, 2026. Independent confirmation of Insight Partners-led seed extension on June 9, 2026. Accessed June 11, 2026. https://www.geekwire.com/2026/golden-analytics-lands-14m-seed-extension-and-opens-ai-platform-to-public-beta/
 
-[^47]: GeekWire, "Golden Analytics lands $14M seed extension and opens AI platform to public beta," June 9, 2026. Independent confirmation of Insight Partners-led seed extension on June 9, 2026. Accessed June 11, 2026. https://www.geekwire.com/2026/golden-analytics-lands-14m-seed-extension-and-opens-ai-platform-to-public-beta/
+[^45]: Axios, "Exclusive: Gradial raises $65M for agentic marketing," June 18, 2026. Accessed June 2026. https://www.axios.com/2026/06/18/gradial-ai-agents-marketing — Confirms Insight Partners led $65M Series C at $675M valuation; VMG Partners, Madrona, and PruVen participated.
 
-[^48]: Axios, "Exclusive: Gradial raises $65M for agentic marketing," June 18, 2026. Accessed June 2026. https://www.axios.com/2026/06/18/gradial-ai-agents-marketing — Confirms Insight Partners led $65M Series C at $675M valuation; VMG Partners, Madrona, and PruVen participated.
+[^46]: GeekWire, "Gradial raises $65M as startup sees rapid growth around agentic tools for enterprise marketing," June 18, 2026. Accessed June 2026. https://www.geekwire.com/2026/gradial-raises-65m-as-startup-sees-rapid-growth-around-agentic-tools-for-enterprise-marketing/
 
-[^49]: GeekWire, "Gradial raises $65M as startup sees rapid growth around agentic tools for enterprise marketing," June 18, 2026. Accessed June 2026. https://www.geekwire.com/2026/gradial-raises-65m-as-startup-sees-rapid-growth-around-agentic-tools-for-enterprise-marketing/
+[^47]: SiliconANGLE, "Agentic marketing AI startup Gradial grabs $65M in fresh funding," June 18, 2026. Accessed June 2026. https://siliconangle.com/2026/06/18/agentic-marketing-ai-startup-gradial-grabs-65m-fresh-funding/
 
-[^50]: SiliconANGLE, "Agentic marketing AI startup Gradial grabs $65M in fresh funding," June 18, 2026. Accessed June 2026. https://siliconangle.com/2026/06/18/agentic-marketing-ai-startup-gradial-grabs-65m-fresh-funding/
+[^48]: "InstaLILY Raises $25M to Bring AI Teammates to the Frontlines of Distribution," PRNewswire / InstaLILY press release, August 2025. Confirms Insight Partners led $25M Series A with Perceptive Ventures and Marvin Ventures participating. Accessed July 16, 2026. https://www.prnewswire.com/news-releases/instalily-raises-25m-to-bring-ai-teammates-to-the-frontlines-of-distribution-302538523.html
 
-[^51]: "InstaLILY Raises $25M to Bring AI Teammates to the Frontlines of Distribution," PRNewswire / InstaLILY press release, August 2025. Confirms Insight Partners led $25M Series A with Perceptive Ventures and Marvin Ventures participating. Accessed July 16, 2026. https://www.prnewswire.com/news-releases/instalily-raises-25m-to-bring-ai-teammates-to-the-frontlines-of-distribution-302538523.html
+[^49]: Reuters via TradingView, "InstaLILY AI Raises $60 Mln Series B Round Led By Energize Capital," July 14, 2026. Confirms Insight Partners participated in the Series B (increased investment). Accessed July 16, 2026. https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43G18M:0-instalily-ai-raises-60-mln-series-b-round-led-by-energize-capital/
 
-[^52]: Reuters via TradingView, "InstaLILY AI Raises $60 Mln Series B Round Led By Energize Capital," July 14, 2026. Confirms Insight Partners participated in the Series B (increased investment). Accessed July 16, 2026. https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43G18M:0-instalily-ai-raises-60-mln-series-b-round-led-by-energize-capital/
+[^50]: "InstaLILY Raises $60 Million Series B and Launches Lily, the World's First AI Forward Deployed Engineer," Morningstar/AccessWire, July 14, 2026. Independent confirmation Insight Partners participated in $60M Series B. Accessed July 16, 2026. https://www.morningstar.com/news/accesswire/1190835msn/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-first-ai-forward-deployed-engineer
 
-[^53]: "InstaLILY Raises $60 Million Series B and Launches Lily, the World's First AI Forward Deployed Engineer," Morningstar/AccessWire, July 14, 2026. Independent confirmation Insight Partners participated in $60M Series B. Accessed July 16, 2026. https://www.morningstar.com/news/accesswire/1190835msn/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-first-ai-forward-deployed-engineer
+[^51]: SiliconANGLE, "InstaLILY, a developer of AI teammates that can automate complex, business-specific work, raises $60M," July 14, 2026. Accessed July 16, 2026. https://siliconangle.com/2026/07/14/instalily-developer-ai-teammates-can-automate-complex-business-specific-work-raises-60m/ — Third independent tier-1 press source confirming Insight Partners participated in Energize Capital-led $60M Series B on 2026-07-14, with Home Depot Ventures and United Rentals as new strategic investors.
 
-[^54]: SiliconANGLE, "InstaLILY, a developer of AI teammates that can automate complex, business-specific work, raises $60M," July 14, 2026. Accessed July 16, 2026. https://siliconangle.com/2026/07/14/instalily-developer-ai-teammates-can-automate-complex-business-specific-work-raises-60m/ — Third independent tier-1 press source confirming Insight Partners participated in Energize Capital-led $60M Series B on 2026-07-14, with Home Depot Ventures and United Rentals as new strategic investors.
+[^52]: TechCrunch, "Twitter Closes Its $100 Million Round," September 25, 2009. Accessed July 2026. https://techcrunch.com/2009/09/25/twitter-closes-its-100-million-round/ — Confirms $100M Series D round closed September 25, 2009 with Insight Venture Partners, T. Rowe Price, and Morgan Stanley as new investors alongside existing investors IVP, Spark Capital, and Benchmark Capital.
 
-[^55]: TechCrunch, "Twitter Closes Its $100 Million Round," September 25, 2009. Accessed July 2026. https://techcrunch.com/2009/09/25/twitter-closes-its-100-million-round/ — Confirms $100M Series D round closed September 25, 2009 with Insight Venture Partners, T. Rowe Price, and Morgan Stanley as new investors alongside existing investors IVP, Spark Capital, and Benchmark Capital.
+[^53]: Twitter Blog / Evan Williams, "New Twitter Funding," September 26, 2009 (redirects from blog.twitter.com to blog.x.com). Accessed July 2026. https://blog.twitter.com/en_us/a/2009/new-twitter-funding — Twitter's own announcement confirming the funding round and naming Insight Venture Partners among the participating investment firms.
 
-[^56]: Twitter Blog / Evan Williams, "New Twitter Funding," September 26, 2009 (redirects from blog.twitter.com to blog.x.com). Accessed July 2026. https://blog.twitter.com/en_us/a/2009/new-twitter-funding — Twitter's own announcement confirming the funding round and naming Insight Venture Partners among the participating investment firms.
+[^54]: Alteryx press release, "Alteryx Secures $60 Million in Funding to Meet Growing Global Demand for Data Blending and Advanced Analytics," October 6, 2014. Accessed July 2026. https://www.alteryx.com/about-us/newsroom/press-release/2014-10-06-alteryx-secures-60-million-funding-meet-growing-global-demand-data — Alteryx's own release confirming Insight Venture Partners led the $60M Series B on October 6, 2014, with participation from SAP Ventures and Toba Capital; Jeff Horing joined the board.
 
-[^57]: Alteryx press release, "Alteryx Secures $60 Million in Funding to Meet Growing Global Demand for Data Blending and Advanced Analytics," October 6, 2014. Accessed July 2026. https://www.alteryx.com/about-us/newsroom/press-release/2014-10-06-alteryx-secures-60-million-funding-meet-growing-global-demand-data — Alteryx's own release confirming Insight Venture Partners led the $60M Series B on October 6, 2014, with participation from SAP Ventures and Toba Capital; Jeff Horing joined the board.
-
-[^58]: TechCrunch, "Alteryx Lands $60M To Boost Data Analytics App-Building Platform," October 6, 2014. Accessed July 2026. https://techcrunch.com/2014/10/06/alteryx-lands-60m-to-continue-building-data-analtyics-platform/ — Independent tier-1 press confirming Alteryx's $60M Series B led by Insight Venture Partners on October 6, 2014.
+[^55]: TechCrunch, "Alteryx Lands $60M To Boost Data Analytics App-Building Platform," October 6, 2014. Accessed July 2026. https://techcrunch.com/2014/10/06/alteryx-lands-60m-to-continue-building-data-analtyics-platform/ — Independent tier-1 press confirming Alteryx's $60M Series B led by Insight Venture Partners on October 6, 2014.
 
 [^tyto1]: Insight Partners, "TytoCare Names Adam Pellegrini as CEO and Closes $25M+ Growth Round to Scale AI-First Clinical Enablement Platform," July 15, 2026. Accessed July 19, 2026. https://www.insightpartners.com/ideas/tytocare-names-adam-pellegrini-as-ceo-and-closes-25m-growth-round-to-scale-ai-first-clinical-enablement-platform/ — Insight's own announcement confirming it led an oversubscribed $25M+ growth round in TytoCare on July 15, 2026, with HOOPP, OliveTree, OrbiMed, Qumra Capital, Qualcomm Ventures, West Fountain Global Fund, Echo Health Ventures, MTIP Health, and MemorialCare participating; Adam Pellegrini appointed CEO.
 
 [^tyto2]: TytoCare press release, "TytoCare Names Adam Pellegrini as CEO and Closes $25M+ Growth Round to Scale AI-First Clinical Enablement Platform," July 15, 2026. Accessed July 19, 2026. https://www.tytocare.com/news-and-press/tytocare-names-adam-pellegrini-as-ceo-and-closes-25m-growth-round-to-scale-ai-first-clinical-enablement-platform/ — TytoCare's own release confirming Insight Partners led the growth round; Jeff Horing (Insight Partners) provided investor quote.
 
 [^tyto3]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 7/16/2026," July 16, 2026. Accessed July 19, 2026. https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-16-2026/ — Independent daily-funding aggregator confirming Insight Partners-led $25M round in TytoCare with the same syndicate list.
-
 
 [^pfr1]: TechCrunch, "Passionfroot raises $15M to expand its B2B creator marketplace to the US," July 22, 2026. Accessed July 2026. https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/
 

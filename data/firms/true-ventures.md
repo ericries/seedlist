@@ -74,6 +74,7 @@ Notable investments where the firm or a named True partner participated:
 | Concentrate AI | Pre-Seed (co-led with RRE Ventures) | 2026-06-10 | — | AI / LLM infrastructure | Active [^29][^30][^31] |
 | Flux (Boston engineering intelligence) | Seed (existing investor; Calibrate Ventures led) | 2026-06-10 | — | Developer Tools / AI | Active [^32][^33][^34] |
 | ChatSee.ai | Seed (led, $6.5M) | 2026-06-12 | Puneet Agarwal | AI / Enterprise / AI Agent Observability | Active [^35][^36][^37] |
+| HomeBoost | Seed ($4M; co-participant alongside Gigascale Capital + Incite.org; Jon Callaghan provided the primary investor quote in the launch announcement) | 2024-10-29 | Jon Callaghan | Home energy / DIY retrofit assessment | Active [^tv-hb1][^tv-hb2] |
 
 *This table is a curated subset of True Ventures' 500+ portfolio companies [^1].*
 
@@ -162,3 +163,7 @@ No additional independently sourced founder testimonials specifically about work
 [^36]: SiliconANGLE, "ChatSee raises $6.5M to build 'failure memory' for enterprise AI agents," June 12, 2026. Accessed June 2026. https://siliconangle.com/2026/06/12/chatsee-raises-6-5m-build-failure-memory-enterprise-ai-agents/ — Independently confirms $6.5M seed led by True Ventures with First Rays Venture Partners and Seven Hills Ventures. Describes ChatSee's failure taxonomy of 10,000+ enterprise agent failure examples classified into 157 categories spanning tool-call, scoping, reasoning, and execution failures.
 
 [^37]: Pulse 2.0, "ChatSee Raises $6.5 Million To Help Enterprises Identify And Prevent AI Agent Failures," June 2026. Accessed June 2026. https://pulse2.com/chatsee-raises-6-5-million-to-help-enterprises-identify-and-prevent-ai-agent-failures/ — Third independent confirmation; True Ventures led with First Rays Venture Partners and Seven Hill Ventures; Puneet Agarwal (True Ventures Partner) quoted.
+
+[^tv-hb1]: FinancialContent / EZ Newswire, "HomeBoost Launches BoostBox, a DIY Solution That Empowers Homeowners to Save on Their Energy Bills and Live Comfortably," October 29, 2024. Accessed August 2026. https://markets.financialcontent.com/stocks/article/eznewswire-2024-10-29-homeboost-launches-boostbox-a-diy-solution-that-empowers-homeowners-to-save-on-their-energy-bills-and-live-comfortably — Confirms $4M seed with True Ventures, Gigascale Capital, and Incite.org as co-participants. True Ventures partner Jon Callaghan is the only investor quoted, calling the investment decision "a know-it-when-you-see-it moment." No formal single lead designated in the announcement.
+
+[^tv-hb2]: Gaebler Ventures database, "HomeBoost 10/29/2024 Capital Raise," accessed August 2026. https://www.gaebler.com/VC-Funding-A0F54648-FD42-4B4C-8EAB-1A53F8303ED6-HomeBoost-10-29-2024 — Independent database confirmation of $4M seed on 2024-10-29.

@@ -57,6 +57,7 @@ Note: Gigascale published a partial portfolio list. A complete inferred-thesis b
 | Dioxycle | Series A ($17M, participant; co-leads: Breakthrough Energy Ventures, Lowercarbon) | 2023-07-26 | -- | Sustainable chemicals | active [^11] |
 | Mill | Participant (specific round date unresolvable; portfolio per Gigascale website) | 2023+ | -- | Consumer waste / circular | active [^12] |
 | Solcoa | Participant (specific round date unresolvable; portfolio per Gigascale website) | 2023+ | -- | Rare-earth supply chain | active [^12] |
+| HomeBoost | Seed ($4M; participant alongside True Ventures + Incite.org; no formal single lead) | 2024-10-29 | Victoria Beasley (board observer) | Home energy / DIY retrofit assessment | active [^gigascale-hb1][^gigascale-hb2] |
 
 ## In Their Own Words
 
@@ -84,3 +85,5 @@ No independently sourced founder testimonials found at time of profile creation.
 [^10]: Form Energy press release, "Form Energy Secures $405M in Series F Financing to Expand Iron-Air Battery Business and Operations," October 9, 2024. https://formenergy.com/form-energy-secures-405m-in-series-f-financing-to-expand-iron-air-battery-business-and-operations/
 [^11]: Dioxycle press release, "Dioxycle raises $17m to turn CO2 emissions into sustainable chemicals," July 26, 2023. https://dioxycle.com/dioxycle-raises-17m-to-turn-co%e2%82%82-emissions-into-sustainable-chemicals/
 [^12]: Gigascale Capital portfolio page, accessed June 2026. https://gigascale.com/portfolio/
+[^gigascale-hb1]: FinancialContent / EZ Newswire, "HomeBoost Launches BoostBox, a DIY Solution That Empowers Homeowners to Save on Their Energy Bills and Live Comfortably," October 29, 2024. Accessed August 2026. https://markets.financialcontent.com/stocks/article/eznewswire-2024-10-29-homeboost-launches-boostbox-a-diy-solution-that-empowers-homeowners-to-save-on-their-energy-bills-and-live-comfortably — Confirms $4M seed with True Ventures, Gigascale Capital, and Incite.org co-participating; no formal single lead.
+[^gigascale-hb2]: Gaebler Ventures database, "HomeBoost 10/29/2024 Capital Raise," accessed August 2026. https://www.gaebler.com/VC-Funding-A0F54648-FD42-4B4C-8EAB-1A53F8303ED6-HomeBoost-10-29-2024 — Independent database confirmation of $4M seed on 2024-10-29.
