@@ -91,6 +91,9 @@ investors:
   slug: lenny-rachitsky
   year: 2025
 - slug: daniel-gross
+- round: Series B ($43M)
+  slug: zach-lloyd
+  year: 2025
 last_researched: 2026-05-25
 location: London, United Kingdom
 name: Granola

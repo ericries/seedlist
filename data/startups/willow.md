@@ -3,6 +3,9 @@ firms:
 - round: Seed ($7M, led)
   slug: hetz-ventures
   year: 2026
+- round: Seed ($7M, first check)
+  slug: independent
+  year: 2026
 founded: 2025
 founders:
 - name: Eyal Ben Ezra
@@ -14,6 +17,9 @@ founders:
 investors:
 - round: Seed ($7M, led)
   slug: guy-fighel
+  year: 2026
+- round: Seed ($7M, first check)
+  slug: nir-zohar
   year: 2026
 last_researched: 2026-06-03
 location: Herzliya, Israel

@@ -1,19 +1,27 @@
 ---
-name: "Smallest.ai"
-slug: smallest-ai
-type: startup
-website: "https://smallest.ai"
-location: "San Francisco, CA"
-status_company: active
-sector: [ai, voice-ai, developer-tools, enterprise-software]
-stage_latest: "Series A"
-total_raised: "$21M"
 firms: []
 founders:
-  - name: "Sudarshan Kamath"
-    role: "Founder & CEO"
-status: published
+- name: Sudarshan Kamath
+  role: Founder & CEO
+investors:
+- round: (from 3one4 portfolio)
+  slug: siddarth-pai
+  year: 2024
 last_researched: 2026-07-31
+location: San Francisco, CA
+name: Smallest.ai
+sector:
+- ai
+- voice-ai
+- developer-tools
+- enterprise-software
+slug: smallest-ai
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $21M
+type: startup
+website: https://smallest.ai
 ---
 
 ## About

@@ -1,25 +1,72 @@
 ---
-name: "Function Health"
-slug: function-health
-type: startup
-website: "https://www.functionhealth.com"
-location: "Austin, TX"
-founded: 2023
-status_company: active
-sector: [healthcare, digital-health, preventive-health, diagnostics, healthtech]
-stage_latest: "Growth"
-total_raised: "$750M+"
-investors: []
 firms:
-  - slug: general-catalyst
-    round: growth
-    year: 2026
-    date: 2026-07-30
+- date: 2026-07-30
+  round: growth
+  slug: general-catalyst
+  year: 2026
+- round: ~2022
+  slug: vzvc
+  year: 2022
+- round: Series B ($300M)
+  slug: todd-and-rahul-capital
+  year: 2025
+- round: Series B
+  slug: quantumlight
+  year: 2025
+- round: Early
+  slug: edventure-holdings
+  year: 2021
+- round: Series B ($300M)
+  slug: andreessen-horowitz
+  year: 2025
+- round: Angel
+  slug: techammer
+  year: 2022
+founded: 2023
 founders:
-  - name: "Jonathan Swerdlin"
-    role: "Co-Founder & CEO"
-status: published
+- name: Jonathan Swerdlin
+  role: Co-Founder & CEO
+investors:
+- round: ~2022
+  slug: vijay-pande
+  year: 2022
+- round: Series B ($300M)
+  slug: rahul-vohra
+  year: 2025
+- round: Series B
+  slug: ilya-kondrashov
+  year: 2025
+- round: Early
+  slug: esther-dyson
+  year: 2021
+- round: ~2024
+  slug: nikolay-storonsky
+  year: 2024
+- round: Series B ($300M)
+  slug: bryan-kim
+  year: 2025
+- round: Angel
+  slug: halle-tecco
+  year: 2022
+- round: Series B
+  slug: tommaso-conca
+  year: 2025
 last_researched: 2026-07-31
+location: Austin, TX
+name: Function Health
+sector:
+- healthcare
+- digital-health
+- preventive-health
+- diagnostics
+- healthtech
+slug: function-health
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $750M+
+type: startup
+website: https://www.functionhealth.com
 ---
 
 ## About

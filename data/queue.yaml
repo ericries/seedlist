@@ -27326,7 +27326,7 @@ queue:
 - name: Nir Zohar
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Wix
   discovered_from: willow
@@ -28199,7 +28199,7 @@ queue:
 - name: Zach Lloyd
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Warp (Founder & CEO); angel investor
   discovered_from: romain-huet
@@ -44345,3 +44345,98 @@ queue:
   added: '2026-03-17'
   firm: Commonwealth Fusion Systems
   discovered_from: commonwealth-fusion-systems
+- name: Daytona
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zach-lloyd
+- name: Workbrew
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zach-lloyd
+- name: Continua
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zach-lloyd
+- name: Charity Majors
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Honeycomb
+  discovered_from: zach-lloyd
+- name: Dan Shipper
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Every
+  discovered_from: zach-lloyd
+- name: Essence VC
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zach-lloyd
+- name: Deshe Analytics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nir-zohar
+- name: TaTiO
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nir-zohar
+- name: Safe School Analytics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nir-zohar
+- name: Bridgewise
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nir-zohar
+- name: 40RTY Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nir-zohar
+- name: 6Star Capital
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nir-zohar
+- name: Assaf Rapaport
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Wiz
+  discovered_from: nir-zohar
+- name: Dan Adika
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: WalkMe
+  discovered_from: nir-zohar
+- name: Maya Huber
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: TaTiO
+  discovered_from: nir-zohar

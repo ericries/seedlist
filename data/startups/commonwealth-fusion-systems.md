@@ -1,27 +1,68 @@
 ---
-name: "Commonwealth Fusion Systems"
-slug: commonwealth-fusion-systems
-type: startup
-website: "https://cfs.energy"
-location: "Devens, MA"
-founded: 2018
-status_company: active
-sector: [energy, fusion, cleantech, climate, deep-tech]
-stage_latest: "Growth"
-total_raised: "$4B"
-investors: []
 firms:
-  - slug: breakthrough-energy-ventures
-    round: prior
-    year: 2021
-  - slug: khosla-ventures
-    round: prior
-    year: 2021
+- round: prior
+  slug: breakthrough-energy-ventures
+  year: 2021
+- round: prior
+  slug: khosla-ventures
+  year: 2021
+- round: Series B2 ($863M) — participant
+  slug: gigascale-capital
+  year: 2025
+- round: '2025-08-28'
+  slug: duquesne-family-office
+  year: 2025
+- round: Series A
+  slug: future-ventures
+  year: 2019
+- round: Early Stage
+  slug: collaborative-fund
+  year: 2018
+- round: Venture
+  slug: time-ventures
+  year: 2021
+founded: 2018
 founders:
-  - name: "Bob Mumgaard"
-    role: "Co-Founder & CEO"
-status: published
+- name: Bob Mumgaard
+  role: Co-Founder & CEO
+investors:
+- round: Series B2 ($863M) — participant
+  slug: mike-schroepfer
+  year: 2025
+- round: Series B ($1.8B)
+  slug: carmichael-roberts
+  year: 2021
+- round: '2025-08-28'
+  slug: stan-druckenmiller
+  year: 2025
+- round: Series A
+  slug: maryanna-saenko
+  year: 2019
+- round: Early
+  slug: steve-jurvetson
+  year: 2019
+- round: Early Stage
+  slug: craig-shapiro
+  year: 2018
+- round: Venture
+  slug: marc-benioff
+  year: 2021
 last_researched: 2026-07-31
+location: Devens, MA
+name: Commonwealth Fusion Systems
+sector:
+- energy
+- fusion
+- cleantech
+- climate
+- deep-tech
+slug: commonwealth-fusion-systems
+stage_latest: Growth
+status: published
+status_company: active
+total_raised: $4B
+type: startup
+website: https://cfs.energy
 ---
 
 ## About
