@@ -209,8 +209,9 @@ The following table includes notable investments verified through multiple sourc
 | Mirendil | Seed (co-led with Andreessen Horowitz, $200M at ~$1B valuation; NVIDIA participated) | 2026-06-24 | AI / AI Research Automation / Foundation Models | Private [^56][^57][^58] |
 | Allium | Series B (participated, $40M led by Amplify Partners; Theory Ventures and Pruven Capital also participated) | 2026-06-23 | Fintech / Blockchain / Data Infrastructure | Private [^59][^60][^61] |
 | TerraFirma | Series A (led, $100M within $115M total round) | 2026-07-14 | Construction Tech / Robotics / Autonomous Systems | Private [^62][^63][^64] |
+| K2 Space | Series D (co-led with ICONIQ, $500M at $6.8B valuation) | 2026-07-30 | Space / Satellites / Defense | Private [^k2s1][^k2s2][^k2s3] |
 
-*Note: This table includes 64 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
+*Note: This table includes 65 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
 ## In Their Own Words
 
@@ -390,3 +391,9 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^63]: The AI Insider, "TerraFirma Raises $115M in Funding to Develop Semi-autonomous Heavy Equipment Systems," July 14, 2026. Accessed July 19, 2026. https://theaiinsider.tech/2026/07/14/terrafirma-raises-115m-in-funding-to-develop-semi-autonomous-heavy-equipment-systems/ — Independent press confirming Kleiner Perkins led the $100M Series A; participants included Bain Capital Ventures, Glade Brook Capital Partners, BANNER VC, Saga Ventures, Trust Ventures, Definition, PEAK6, Magnetar Capital, and Ravelin Capital.
 
 [^64]: Construction Owners, "TerraFirma Raises $115M to Expand AI-Powered Construction Robotics," July 14, 2026. Accessed July 19, 2026. https://www.constructionowners.com/news/terrafirma-secures-115-million-to-expand-ai-enabled-construction-robotics — Third independent primary press confirming $115M raise led by Kleiner Perkins; founders are Noah Schochet (CEO) and Noah McGuinness (CTO), both former SpaceX engineers.
+
+[^k2s1]: PR Newswire, "K2 Space Raises $500M Series D at $6.8B Valuation to Scale Large, High-Power Satellites," July 30, 2026. Accessed July 31, 2026. https://www.prnewswire.com/news-releases/k2-space-raises-500m-series-d-at-6-8b-valuation-to-scale-large-high-power-satellites-302838793.html
+
+[^k2s2]: SpaceNews, "K2 Space raises $500 million for commercial, defense satellite expansion," July 30, 2026. Accessed July 31, 2026. https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/
+
+[^k2s3]: Tech Startups, "Venture Capital & Startup Funding Roundup, July 30, 2026," July 30, 2026. Accessed July 31, 2026. https://techstartups.com/2026/07/30/venture-capital-startup-funding-roundup-july-30-2026-bessemer-venture-partners-eli-lilly-co-g2-venture-partners-iconiq-growth-kleiner-perkins-lightspeed-more/

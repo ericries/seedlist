@@ -162,6 +162,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Neo | Seed + Series A ($100M combined; co-led with Andreessen Horowitz; Craft Ventures and Merlin Ventures participated; Boston HQ; founders ex-SentinelOne) | 2026-07-20 | Cybersecurity / AI / Enterprise Software | [^neo1][^neo2][^neo3] |
 | Act Security | Seed (co-led with Team8, $20M; Hetz Ventures and Caltech participated; Tel Aviv-based; founders ex-Medigate) | 2026-07-28 | Cybersecurity / AI / Cloud Security | [^act1][^act2] |
 | Sent | Series A ($12M; Companyon Ventures led; Urban Innovation Fund and CP Overture participated; NYC-based messaging infrastructure; also participated in $3.55M seed May 2025) | 2026-07-28 | Messaging / Telecom / Developer Tools / AI | [^sent1][^sent2][^sent3] |
+| Onyx Security | Series B (led, $113M at ~$640M valuation; Cyberstarts, TCV, Conviction, FirstMark, Vintage, QuantumLight, G Squared participated) | 2026-07-29 | Cybersecurity / AI Security / Enterprise Software | [^onyx1][^onyx2][^onyx3] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -304,3 +305,9 @@ However, founder experiences are not universally positive. One founder reported 
 [^sent2]: "Sent Raises $12M Series A to Supercharge AI Messaging Infrastructure," Manila Times / GlobeNewswire syndication, July 28, 2026. Accessed July 2026. https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/sent-raises-12m-series-a-to-supercharge-ai-messaging-infrastructure/2393028 — Independent syndication confirming Bessemer participation.
 
 [^sent3]: "Venture Capital & Startup Funding Roundup, July 28, 2026: Battery Ventures, Bessemer, Gradient, Team8, Y Combinator & More," ChinaTechNews.com, July 29, 2026. Accessed July 2026. https://www.chinatechnews.com/2026/07/29/126373-venture-capital-startup-funding-roundup-july-28-2026-battery-ventures-bessemer-gradient-team8-y-combinator-more — Third independent aggregator confirming Bessemer participation in Sent Series A.
+
+[^onyx1]: "Onyx's $113M Series B: Keeping Humans in Control as AI Becomes Smarter," Onyx company blog, July 2026. Accessed July 31, 2026. https://www.onyx.security/blog/onyx-113m-series-b-keeping-humans-in-control-as-ai-becomes-smarter — Primary press release confirming Bessemer led $113M Series B with Cyberstarts, TCV, Conviction, FirstMark, Vintage Investment Partners, QuantumLight, and G Squared participating.
+
+[^onyx2]: "Onyx Security Raises $113M Series B to Control Advanced AI, Quadrupling Revenue since Stealth Launch Four Months Ago," Yahoo Finance (via Business Wire), July 29, 2026. Accessed July 31, 2026. https://finance.yahoo.com/technology/ai/articles/onyx-security-raises-113m-series-210500945.html
+
+[^onyx3]: "Onyx raises $113m to keep humans in control of AI agents," FinTech Global, July 30, 2026. Accessed July 31, 2026. https://fintech.global/2026/07/30/onyx-raises-113m-to-keep-humans-in-control-of-ai-agents/

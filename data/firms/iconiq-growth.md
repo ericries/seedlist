@@ -158,8 +158,9 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | Moveworks | Growth | ~2022 | AI/Enterprise | Acquired by ServiceNow (2024) | [^10] |
 | Conduct | Series A (co-led with Index Ventures, $60M; SAP strategic; Creandum, Lucid Capital, Booom participated) | 2026-06-17 | AI/Enterprise Operating System/SAP | Active | [^46][^47][^48] |
 | Paper | Series A ($34M, co-led with Accel; Designer Fund and angels also) | 2026-07-23 | AI/Design Tools/Developer Tools | Active | [^paper1][^paper2] |
+| K2 Space | Series D ($500M, co-lead with Kleiner Perkins, $6.8B valuation) | 2026-07-30 | Space / Satellites / Defense | Active | [^k2space1][^k2space2][^k2space3] |
 
-*Note: Years marked with "~" are approximate, based on founding year proxies or estimated from fund vintage. This table represents approximately 52 of 140+ reported portfolio company partnerships. ICONIQ Growth's website lists over 100 companies [^11].*
+*Note: Years marked with "~" are approximate, based on founding year proxies or estimated from fund vintage. This table represents approximately 53 of 140+ reported portfolio company partnerships. ICONIQ Growth's website lists over 100 companies [^11].*
 
 ## In Their Own Words
 
@@ -286,3 +287,9 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 [^paper1]: "Paper Raises $34 Million Series A with Accel and ICONIQ to Build the Design Platform for the Agentic Era," BusinessWire, July 23, 2026. Accessed July 24, 2026. https://www.businesswire.com/news/home/20260723608438/en/Paper-Raises-%2434-Million-Series-A-with-Accel-and-ICONIQ-to-Build-the-Design-Platform-for-the-Agentic-Era — Primary press release confirming ICONIQ co-led Paper's $34M Series A with Accel on July 23, 2026 with Designer Fund and angels (Michael Grinich, Anton Osika) participating.
 
 [^paper2]: "Paper Raises $34M in Series A Funding," FinSMEs, July 23, 2026. Accessed July 24, 2026. https://www.finsmes.com/2026/07/paper-raises-34m-in-series-a-funding.html — Independent confirmation of the co-lead.
+
+[^k2space1]: PR Newswire, "K2 Space Raises $500M Series D at $6.8B Valuation to Scale Large, High-Power Satellites," July 30, 2026. Accessed July 31, 2026. https://www.prnewswire.com/news-releases/k2-space-raises-500m-series-d-at-6-8b-valuation-to-scale-large-high-power-satellites-302838793.html
+
+[^k2space2]: SpaceNews, "K2 Space raises $500 million for commercial, defense satellite expansion," July 30, 2026. Accessed July 31, 2026. https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/
+
+[^k2space3]: Tech Startups, "Venture Capital & Startup Funding Roundup, July 30, 2026," July 30, 2026. Accessed July 31, 2026. https://techstartups.com/2026/07/30/venture-capital-startup-funding-roundup-july-30-2026-bessemer-venture-partners-eli-lilly-co-g2-venture-partners-iconiq-growth-kleiner-perkins-lightspeed-more/

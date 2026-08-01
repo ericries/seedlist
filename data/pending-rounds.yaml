@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Skull Ridge Gold Corp. Closes Second and Final Tranche, Completing $122,500
+    Non-Brokered Private Placement
+  url: https://www.globenewswire.com/news-release/2026/07/31/3337084/0/en/Skull-Ridge-Gold-Corp-Closes-Second-and-Final-Tranche-Completing-122-500-Non-Brokered-Private-Placement.html
+  source: globenewswire
+  date_found: '2026-08-01'
+  parsed_company: Skull Ridge Gold Corp.
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Assured Raises $19M Series A Led by Insight Partners to Automate Healthcare
+    Provider Operations with AI Agents
+  url: https://www.globenewswire.com/news-release/2026/07/30/3335854/0/en/Assured-Raises-19M-Series-A-Led-by-Insight-Partners-to-Automate-Healthcare-Provider-Operations-with-AI-Agents.html
+  source: globenewswire
+  date_found: '2026-08-01'
+  parsed_company: Assured
+  parsed_amount: $19M
+  parsed_round: Series A
+  status: pending
 - title: Eindhoven’s Keiron raises €20.7 million to tackle one of electronics manufacturing’s
     most expensive problems
   url: https://www.eu-startups.com/2026/07/eindhoven-based-keiron-raises-e20-7-million-to-tackle-one-of-electronics-manufacturings-most-expensive-problems/
@@ -97,6 +115,15 @@ pending_rounds:
   date_found: '2026-07-31'
   parsed_company: Fresh off its Wiz payout, Index Ventures
   parsed_amount: $2B
+  parsed_round: null
+  status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth
+    Fusion Lead With Billion-Dollar Deals'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/
+  source: crunchbase
+  date_found: '2026-07-31'
+  parsed_company: null
+  parsed_amount: null
   parsed_round: null
   status: pending
 - title: London-based Intropy raises €9.5 million to build the AI-native operating

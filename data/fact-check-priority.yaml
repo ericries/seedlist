@@ -7650,3 +7650,47 @@ priority:
   type: investor
   reason: "participated in Ellis seed (2026-07-30), $10M"
   added: 2026-07-31
+- slug: kleiner-perkins
+  type: firm
+  reason: "co-led K2 Space Series D (2026-07-30), $500M at $6.8B"
+  added: 2026-07-31
+- slug: iconiq-growth
+  type: firm
+  reason: "co-led K2 Space Series D (2026-07-30), $500M at $6.8B"
+  added: 2026-07-31
+- slug: bessemer-venture-partners
+  type: firm
+  reason: "led Onyx Security Series B (2026-07-29), $113M at ~$640M"
+  added: 2026-07-31
+- slug: insight-partners
+  type: firm
+  reason: "led DataBahn Series B (2026-07-30), $40M"
+  added: 2026-07-31
+- slug: conviction
+  type: firm
+  reason: "participated in Onyx Security Series B (2026-07-29), $113M"
+  added: 2026-07-31
+- slug: tcv
+  type: firm
+  reason: "participated in Onyx Security Series B (2026-07-29), $113M"
+  added: 2026-07-31
+- slug: cyberstarts
+  type: firm
+  reason: "participated in Onyx Security Series B (2026-07-29), $113M"
+  added: 2026-07-31
+- slug: quantumlight
+  type: firm
+  reason: "participated in Onyx Security Series B (2026-07-29), $113M"
+  added: 2026-07-31
+- slug: capitalg
+  type: firm
+  reason: "participated in K2 Space Series D (2026-07-30), $500M"
+  added: 2026-07-31
+- slug: altimeter-capital
+  type: firm
+  reason: "participated in K2 Space Series D (2026-07-30), $500M"
+  added: 2026-07-31
+- slug: spark-capital
+  type: firm
+  reason: "participated in K2 Space Series D (2026-07-30), $500M"
+  added: 2026-07-31
