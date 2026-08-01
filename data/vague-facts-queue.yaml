@@ -5731,7 +5731,9 @@ vague_facts:
   line: '| Ghostdog Systems | Seed | 2023 | AI / Defense | Acquired (Mission Essential) | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-31
+  note: 'Fact-spec sweep 2026-07-31: tightened Ghostdog Systems row on cerberus-ventures.md from year-only 2023 to 2024-01-30 Seed round (Moonshots Capital-led; participants: 8VC, Shield Capital, Cerberus, Capital Factory; Drive Capital pre-Seed lead). Also clarified acquisition: Ghostdog Inc. merged into new parent company The Mission Group with Mission Essential on 2025-08-05 (Ghostdog Inc. became Mission Sciences). Amount not disclosed. Verified via 3 primary sources: NEW Moonshots Capital Medium post [^ghostdog1] (2024-02-20), NEW Kelly Perdew LinkedIn primary [^ghostdog2] (2024-01-30 activity ID), NEW Intelligence Community News merger confirmation [^ghostdog3] (2025-08-05). 3 new footnotes added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Lightsynq
@@ -5741,7 +5743,9 @@ vague_facts:
   line: '| Lightsynq | Series A | 2024 | Quantum Computing | Acquired (IonQ) | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-31
+  note: 'Fact-spec sweep 2026-07-31: tightened Lightsynq row on cerberus-ventures.md from year-only 2024 to 2024-11-19 Series A ($18M; Cerberus Ventures led; Murata Electronics NA, IAG Capital Partners, Safar Partners, QVT, Element Six, In-Q-Tel participating). Also tightened IonQ acquisition: announced 2025-05-07, closed 2025-06-03; >12.3M IonQ shares issued as consideration (financial terms otherwise not disclosed). Founders: Dr. Mihir Bhaskar (CEO), Dr. Bart Machielse (CTO), Dr. David Levonian (CPO) — former Harvard quantum networking experts and AWS research leads. Verified via 4 primary sources: NEW Cerberus press release [^lightsynq1] (2024-11-19), NEW BusinessWire [^lightsynq2] (2024-11-19), NEW Wilson Sonsini deal counsel [^lightsynq3], NEW IonQ IR press [^lightsynq4] (2025-06-03 close). 4 new footnotes added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Maybell Quantum
@@ -5761,7 +5765,9 @@ vague_facts:
   line: '| Ansa Biotechnologies | Series B | 2024 | Biotech / DNA Synthesis | Acquired | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-07-31
+  note: 'Fact-spec sweep 2026-07-31: CORRECTED wrong year + wrong status: prior ''Series B | 2024 | Acquired'' was inaccurate on BOTH counts. Actual Series B closed 2025-10-01 ($54.4M total: $45.2M closed + $9.2M in commitments; Cerberus Ventures led; Blue Water Life Science Advisors + Altitude Life Science Ventures returning; Fall Line Capital + AIM13 + Black Opal Ventures new). Chenny Zhang (Cerberus) and Yanniv Dorone PhD (Fall Line Capital) joined board. Ansa is NOT acquired — remains independent operating company per PitchBook and no acquisition press exists. Updated status from ''Acquired'' to ''Active''. Verified via 3 primary sources: NEW Cerberus press release [^ansa1] (2025-10-01), NEW BusinessWire [^ansa2] (2025-10-01), NEW Pulse 2.0 trade press [^ansa3] (2025-10-08). 3 new footnotes added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Red Queen Bio
@@ -172750,7 +172756,9 @@ vague_facts:
   line: '| Ghostdog Systems | Seed | 2023 | AI / Defense | Acquired (Mission Essential) | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-31
+  note: 'Duplicate of unknown_value entry — resolved in same sweep. Tightened to 2024-01-30 (Moonshots-led Seed with Cerberus, 8VC, Shield, Capital Factory participating); Mission Essential merger closed 2025-08-05. 3 primary sources added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Lightsynq
@@ -172760,7 +172768,9 @@ vague_facts:
   line: '| Lightsynq | Series A | 2024 | Quantum Computing | Acquired (IonQ) | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-31
+  note: 'Duplicate of unknown_value entry — resolved in same sweep. Tightened to 2024-11-19 Series A ($18M Cerberus-led with Murata NA, IAG, Safar, QVT, Element Six, In-Q-Tel); IonQ acquisition closed 2025-06-03. 4 primary sources added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Maybell Quantum
@@ -172780,7 +172790,9 @@ vague_facts:
   line: '| Ansa Biotechnologies | Series B | 2024 | Biotech / DNA Synthesis | Acquired | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-07-31
+  note: 'Duplicate of unknown_value entry — resolved in same sweep. CORRECTED wrong year AND wrong status: actual Series B closed 2025-10-01 ($54.4M Cerberus-led); Ansa is NOT acquired (remains independent). 3 primary sources added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Red Queen Bio
