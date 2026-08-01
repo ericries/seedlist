@@ -119,6 +119,7 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | AegisAI | Series A (led, $36M; Accel and Foundation Capital participated) | 2026-07-23 | AI / Cybersecurity / Email Security | Active | [^aegis1][^aegis2] |
 | Hush Security | Series A (participated, $30M; Akamai strategic; YL Ventures also) | 2026-07-28 | AI Security / Non-Human Identity | Active | [^hush1][^hush2] |
 | Freehand | Series B (co-led, $75M; NewRoad Capital co-lead; Nexus Venture Partners, Penny Pritzker participated) | 2026-07-29 | Agentic AI / Supply Chain / Procurement | Active | [^fh1][^fh2] |
+| Terminal | Series A ($20M, led; Intact Private Capital, Penske, Y Combinator, Wayfinder Ventures participated) | 2026-07-29 | Insurtech / Fleet / Telematics API | Active | [^term1][^term2] |
 
 *This table represents approximately 33 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
@@ -203,3 +204,7 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^fh1]: Mary Ann Azevedo, "Freehand Raises $75M Series B To Automate Fortune 500 Supply Chain Spend," Crunchbase News, July 29, 2026. Accessed July 29, 2026. https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/ — Primary press confirming Battery Ventures co-led the $75M Series B with NewRoad Capital Partners. Nexus Venture Partners and Penny Pritzker participated.
 
 [^fh2]: David Prosser, "Freehand Raises $75 Million As Its AI Agents Target The Supply Chain," Forbes, July 29, 2026. Accessed July 29, 2026. https://www.forbes.com/sites/davidprosser/2026/07/29/freehand-raises-75-million-as-its-ai-agents-target-the-supply-chain/ — Independent tier-1 press confirmation of Battery Ventures as co-lead on Freehand's $75M Series B.
+
+[^term1]: FreightWaves, "Terminal raises $20M to untangle fleet telematics data," July 30, 2026. Accessed July 31, 2026. https://www.freightwaves.com/news/terminal-fleet-telematics-data-funding
+
+[^term2]: FinSMEs, "Terminal Raises $20M in Series A Funding," July 2026. Accessed July 31, 2026. https://www.finsmes.com/2026/07/terminal-raises-20m-in-series-a-funding.html

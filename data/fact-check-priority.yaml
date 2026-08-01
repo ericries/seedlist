@@ -1,4 +1,12 @@
 priority:
+- slug: insight-partners
+  type: firm
+  reason: "appeared in Spur Intelligence Growth $200M (2026-07-28) and CAIS Series D $170M (2026-07-29)"
+  added: 2026-07-31
+- slug: battery-ventures
+  type: firm
+  reason: "led Terminal Series A $20M (2026-07-29)"
+  added: 2026-07-31
 - slug: cerberus-ventures
   type: firm
   reason: "Fact-spec sweep 2026-07-31: tightened 3 vague year-only Portfolio rows on cerberus-ventures.md via 3+ primary sources each. (1) GHOSTDOG SYSTEMS: 'Seed | 2023' -> 'Seed (Moonshots-led; Cerberus, 8VC, Shield Capital, Capital Factory participating) | 2024-01-30' via Moonshots Medium [^ghostdog1] + Kelly Perdew LinkedIn primary [^ghostdog2] + Intelligence Community News merger [^ghostdog3] (Mission Group merger 2025-08-05). (2) LIGHTSYNQ: 'Series A | 2024' -> 'Series A ($18M; Cerberus-led; Murata NA, IAG Capital Partners, Safar Partners, QVT, Element Six, In-Q-Tel) | 2024-11-19' via Cerberus press release [^lightsynq1] + BusinessWire [^lightsynq2] + Wilson Sonsini deal counsel [^lightsynq3] + IonQ IR (2025-06-03 close) [^lightsynq4]. (3) ANSA BIOTECHNOLOGIES: CORRECTED wrong year AND wrong status — was 'Series B | 2024 | Acquired', actual is 'Series B ($54.4M: $45.2M + $9.2M in commitments; Cerberus-led; Blue Water + Altitude returning; Fall Line + AIM13 + Black Opal new; Chenny Zhang + Yanniv Dorone joined board) | 2025-10-01 | Active' via Cerberus press [^ansa1] + BusinessWire [^ansa2] + Pulse 2.0 [^ansa3]. Ansa is NOT acquired. 10 new footnotes added."

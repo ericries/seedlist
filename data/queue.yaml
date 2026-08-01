@@ -14793,7 +14793,7 @@ queue:
 - name: Terminal
   type: startup
   priority: normal
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: andrew-dudum
   source: 'portfolio company of 3 investors: andrew-dudum, jack-abraham, chester-ng'
@@ -44440,3 +44440,74 @@ queue:
   added: '2026-03-17'
   firm: TaTiO
   discovered_from: nir-zohar
+- name: Blue Owl Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cais
+- name: Carlyle
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cais
+- name: Golub Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cais
+- name: Lord Abbett
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cais
+- name: Royal Bank of Canada
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cais
+- name: Matt Brown
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: CAIS
+  discovered_from: cais
+- name: David Breach
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Vista Equity Partners
+  discovered_from: cais
+- name: Penske
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: terminal
+- name: Raghav Midha
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Terminal
+  discovered_from: terminal
+- name: Kevin Hickey
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Spur Intelligence
+  discovered_from: spur-intelligence
+- name: Riley Kilmer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Spur Intelligence
+  discovered_from: spur-intelligence

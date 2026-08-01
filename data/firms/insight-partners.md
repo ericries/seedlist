@@ -143,6 +143,8 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Mate Security | Series A ($35M, participated; Canaan Partners led; Team8, M12 also participated) | 2026-07-28 | Cybersecurity / AI Security Operations | Active | [^mate1][^mate2][^mate3] |
 | Inforcer | Series C ($50M, led; Dawn Capital and Meritech Capital are existing investors in the company but not explicitly confirmed as Series C participants) | 2026-07-30 | Cybersecurity / MSP / Microsoft 365 | Active | [^info1][^info2] |
 | DataBahn | Series B ($40M, led; Forgepoint, GTM Capital, S3 Ventures also participated) | 2026-07-30 | Data Infrastructure / AI / Cybersecurity | Active | [^db1][^db2] |
+| Spur Intelligence | Growth ($200M, led) | 2026-07-28 | Cybersecurity / IP Intelligence / Fraud Prevention | Active | [^spur1][^spur2] |
+| CAIS | Series D ($170M, led; AllianceBernstein, Blue Owl, Carlyle, Fortress, Golub, Lord Abbett, RBC participated) | 2026-07-29 | Fintech / Alternatives / Wealth Management | Active ($2B+ val) | [^cais1][^cais2] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -274,3 +276,11 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^db1]: PR Newswire, "DataBahn Raises $40 Million Series B Led by Insight Partners to Accelerate Innovation Across the Agentic Data Control Plane," July 30, 2026. Accessed July 31, 2026. https://www.prnewswire.com/news-releases/databahn-raises-40-million-series-b-led-by-insight-partners-to-accelerate-innovation-across-the-agentic-data-control-plane-302838690.html
 
 [^db2]: Tech Startups, "AI infrastructure startup DataBahn raises $40M Series B to build agentic data control plane for enterprise AI," July 30, 2026. Accessed July 31, 2026. https://techstartups.com/2026/07/30/ai-infrastructure-startup-databahn-raises-40m-series-b-to-build-agentic-data-control-plane-for-enterprise-ai/
+
+[^spur1]: Spur Intelligence press release, "Spur Intelligence Secures $200M from Insight Partners," July 28, 2026. Accessed July 31, 2026. https://spur.us/news/insight-partners-spur-intelligence-investment
+
+[^spur2]: TechCrunch, "Bot-detection startup Spur nabs $200M from Insight," July 28, 2026. Accessed July 31, 2026. https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/
+
+[^cais1]: CAIS press release, "CAIS Welcomes New Strategic Investors, Valuing the Company at Over $2 Billion," July 29, 2026. Accessed July 31, 2026. https://www.caisgroup.com/our-company/press/cais-welcomes-new-strategic-investors-valuing-the-company-at-over-2-billion
+
+[^cais2]: citybiz, "CAIS Raises $170 Million Series D Led by Vista Equity Partners at Over $2 Billion Valuation," July 30, 2026. Accessed July 31, 2026. https://www.citybiz.co/article/881069/cais-raises-170-million-series-d-led-by-vista-equity-partners-at-over-2-billion-valuation/
