@@ -38,6 +38,14 @@ pending_rounds:
   parsed_amount: $19M
   parsed_round: Series A
   status: pending
+- title: 'The Weekly Notable Startup Funding Report: 8/3/26'
+  url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-3-26/
+  source: alleywatch
+  date_found: '2026-08-01'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Eindhoven’s Keiron raises €20.7 million to tackle one of electronics manufacturing’s
     most expensive problems
   url: https://www.eu-startups.com/2026/07/eindhoven-based-keiron-raises-e20-7-million-to-tackle-one-of-electronics-manufacturings-most-expensive-problems/
