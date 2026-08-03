@@ -111,7 +111,7 @@ Based on 55 verified portfolio companies from the firm's website [^12], Refactor
 | Granza Bio | Seed | ~2023 | Biotech/delivery | Active [^12] |
 | Vitra Bio | Seed | ~2023 | Biotech/IVF | Active [^12] |
 | Phytoform | Seed | ~2022 | Agtech/biotech | Active [^12] |
-| Miist Therapeutics | Seed | ~2023 | Biotech | Active [^12] |
+| Miist Therapeutics | Seed (USD 7M; no single lead — Refactor Capital, 1517 Fund, Freeflow Ventures, Entrepreneur First, California Innovation Fund participated) | 2025-02-05 | Biotech / Therapeutics | Active [^12] [^52] [^53] |
 | BioRender | Seed | ~2018 | Science communication | Active [^38] |
 | Epana Bio | Seed | ~2023 | Biotech/autoimmune | Active [^12] |
 | Remedy Scientific | Seed | ~2023 | Earth systems | Active [^12] |
@@ -208,3 +208,7 @@ No independently sourced founder testimonials found. Refactor Capital's website 
 [^49]: Crunchbase News, "Meditation App Headspace Closes On $93M Series C, Eyes Continued Global Expansion," February 2020. https://news.crunchbase.com/venture/meditation-app-headspace-closes-on-93m-series-c-eyes-continued-global-expansion/
 [^50]: Coinbase Blog / SEC S-1, Coinbase Global Inc. direct listing on Nasdaq under ticker COIN, April 14, 2021 (widely reported). https://www.coinbase.com/blog/coinbase-is-a-public-company
 [^51]: Lightspeed Venture Partners portfolio page, "Betty Labs," accessed July 2026. https://lsvp.com/company/betty-labs/
+
+[^52]: BusinessWire, "Miist Therapeutics Announces $7M In Funding to Develop Instant-Acting Medicine," February 5, 2025, accessed August 2026. https://www.businesswire.com/news/home/20250205990910/en/Miist-Therapeutics-Announces-%247M-In-Funding-to-Develop-Instant-Acting-Medicine — Primary company press release confirming Miist Therapeutics' USD 7M seed on 2025-02-05. Investors named: Refactor Capital, 1517 Fund, Freeflow Ventures, Entrepreneur First, California Innovation Fund. Alameda, CA-based pulmonary drug delivery company founded 2019 by Dalton Signor.
+
+[^53]: StartUp Health, "Miist Therapeutics Raises $7M in Seed Funding | Week of Feb 11, 2025," accessed August 2026. https://www.startuphealth.com/startup-health-blog/miist-therapeutics-raises-7m-in-seed-funding-startup-health-insights-week-of-feb-11-2025 — Independent healthcare trade press confirming Miist's USD 7M seed on February 5, 2025 with the same investor list.

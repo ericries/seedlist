@@ -166,6 +166,7 @@ Based on 60 verified portfolio companies from the firm's website and aggregator 
 | General Matter | Seed | ~2024 | Legal tech | [^1] |
 | Flora (FLORA) | Seed | 2025-03-02 | AI creative tools | [^1] [^30] |
 | Rainmaker | Seed ($6.3M) | 2024-05-07 | Weather tech | [^1] [^31] |
+| Rainmaker (Series A follow-on) | Series A ($25M; Lowercarbon Capital led; Starship Ventures, 1517 Fund, Long Journey Ventures, Day One Ventures, Tamarack Global, Garry Tan, Naval Ravikant participated) | 2025-05-07 | Climate Tech / Cloud Seeding | [^37] [^38] |
 | Volteras | Series A ($11.1M, follow-on) | 2025-05-29 | Energy/EV | [^13] [^32] |
 | DreamPark | Seed ($1.1M, led) | 2025-05-29 | Gaming/XR | [^10] [^33] |
 | Unusual | Seed | 2026 | -- | [^10] |
@@ -238,3 +239,7 @@ No independently sourced founder testimonials found from founders outside the Lo
 [^34]: "Singularity Emerges from Stealth with $80M Series A at $400M Valuation to Deploy Air Defense at Scale," Business Wire, July 14, 2026. Accessed July 19, 2026. https://www.businesswire.com/news/home/20260714185502/en/Singularity-Emerges-from-Stealth-with-$80M-Series-A-at-$400M-Valuation-to-Deploy-Air-Defense-at-Scale — Names Long Journey among Series A participants alongside AE Ventures, NEA, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, and Soma.
 [^35]: Duncan Riley, "Singularity lands $80M at $400M valuation to build cheap drone interceptors," SiliconANGLE, July 14, 2026. Accessed July 19, 2026. https://siliconangle.com/2026/07/14/singularity-lands-80m-400m-valuation-build-cheap-drone-interceptors/ — Independent tech press coverage confirming Long Journey's Series A participation and the $400M valuation.
 [^36]: Dan Primack, "Air-defense startup Singularity secures $80 million," Axios, July 14, 2026. Accessed July 19, 2026. https://www.axios.com/2026/07/14/singularity-air-defense-seriesa-venture-oswald — Third-party primary confirmation via Axios Pro Rata reporting.
+
+[^37]: Lowercarbon Capital, "Abundance from Above," May 7, 2025, accessed August 2026. https://lowercarbon.com/2025/05/07/rainmaker-series-a/ — Primary lead-investor blog post confirming Lowercarbon Capital led Rainmaker's USD 25M Series A on 2025-05-07. Company based in El Segundo, CA; founded by Augustus Doricko.
+
+[^38]: dot.LA, "This LA Startup Wants to Make It Rain and Just Raised $25M to Do It," May 9, 2025, accessed August 2026. https://dot.la/losangeles-startup-rainmaker-secures-25million-2671924648.html — Contemporaneous LA tech press confirming Rainmaker's USD 25M Series A led by Lowercarbon Capital, with Starship Ventures, 1517 Fund, Long Journey Ventures, and Naval Ravikant among participants.

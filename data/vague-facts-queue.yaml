@@ -226,7 +226,8 @@ vague_facts:
   line: '| Positron AI | Seed | 2025-02-11 | AI Inference Hardware | [^4][^35][^46][^65][^66] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-03: tightened Positron AI row with USD 23.5M amount and named participants (Valor Equity Partners, Atreides Management, Flume Ventures, Resilience Reserve; no single lead). Verified via 3 primary sources: existing 1517 portfolio [^4], NEW Reuters/Yahoo Finance [^86] (2025-02-11), NEW Positron press page [^87]. 1517 Fund NOT named in seed press — attribution comes from 1517 portfolio page. Also added Positron rows to valor-equity-partners.md (Series A led July 2025) with 3 supporting citations. 2 new footnotes on 1517 profile ([^86], [^87]) + 3 new on Valor profile ([^49], [^50], [^51]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Mach Industries
@@ -296,7 +297,8 @@ vague_facts:
   line: '| Miist Therapeutics | Seed | 2025-02-05 | Biotech / Therapeutics | [^24][^41][^67][^68] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-03: tightened Miist Therapeutics row with USD 7M amount and full investor list (Refactor Capital, 1517 Fund, Freeflow Ventures, Entrepreneur First, California Innovation Fund; no single lead). Verified via 3 primary sources: NEW BusinessWire company release [^88] (2025-02-05), NEW StartUp Health trade press [^89], existing sources [^24][^41][^67][^68]. Also updated refactor-capital.md (row was "Seed | ~2023" — fixed to 2025-02-05 with $7M and full syndicate) with 2 new footnotes ([^52], [^53]). 2 new footnotes on 1517 profile ([^88], [^89]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Presso
@@ -393,7 +395,8 @@ vague_facts:
   line: '| Rainmaker (Series A follow-on) | Series A | 2025-05-05 | Climate Tech / Cloud Seeding | [^24][^47][^69][^70] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-03: tightened Rainmaker Series A row with USD 25M amount, Lowercarbon Capital lead, and full syndicate (Starship Ventures, 1517 Fund, Long Journey Ventures, Day One Ventures, Tamarack Global, Garry Tan, Naval Ravikant). Date corrected from 2025-05-05 (Crunchbase filing date) to 2025-05-07 (Lowercarbon primary blog announcement). Verified via 3 primary sources: NEW Lowercarbon Capital blog [^90] (2025-05-07, first-party lead), NEW dot.LA [^91] (2025-05-09), plus existing sources [^24][^47][^69][^70]. Also added Series A follow-on rows to long-journey-ventures.md and lowercarbon-capital.md with 4 new footnotes across those two profiles. 2 new footnotes on 1517 profile ([^90], [^91]).'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Twilio

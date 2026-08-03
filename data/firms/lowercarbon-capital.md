@@ -118,6 +118,7 @@ Based on approximately 93-233 investments (sources vary; Tracxn reports 93 as of
 | Watershed | Series B | 2022 | Carbon accounting | Active (Unicorn) | [^3][^24] |
 | Carbon Engineering | Growth | ~2021 | Direct air capture | Acquired by Occidental ($1.1B, 2023) | [^3][^25] |
 | Vaulted Deep | Seed (Led) | 2023 | Carbon sequestration | Active | [^6][^26] |
+| Rainmaker | Series A (Led; $25M; Starship Ventures, 1517 Fund, Long Journey Ventures, Day One Ventures, Tamarack Global, Garry Tan, Naval Ravikant participated) | 2025-05-07 | Climate Tech / Cloud Seeding | Active | [^lcc-rain-1][^lcc-rain-2] |
 
 *This table represents a partial sample. Lowercarbon has invested in 93-233 companies total (depending on source) [^3][^10].*
 
@@ -181,3 +182,7 @@ No independently sourced founder testimonials found. The firm's website describe
 [^lcc-solar-c2]: Entrepreneur India, "SolarSquare Raises USD 53 Million in B Capital-led Series C Round," June 16, 2026. Accessed July 2026. https://india.entrepreneur.com/business-news/solarsquare-raises-usd-53-million-in-b-capital-led-series-c-round — Independent confirmation of B Capital as lead with Lightspeed, Elevation Capital, Lowercarbon Capital, Rainmatter, and Good Capital participating.
 [^lcc-solar-c3]: DealStreetAsia, "Indian solar startup SolarSquare bags $53m in B Capital-led round," June 2026. Accessed July 2026. https://www.dealstreetasia.com/stories/solarsquare-b-capital-led-round-485630 — Third primary source confirming B Capital lead and Lowercarbon Capital participation.
 [^lcc-solar-c4]: Entrackr, "Decoding: SolarSquare valued at $470 Mn after Series C; co-founders retain 27.5% stake," July 3, 2026. Accessed July 2026. https://entrackr.com/decoding/decoding-solarsquare-valued-at-470-mn-after-series-c-co-founders-retain-275-stake-12130732 — ROC filing analysis: B Capital contributed Rs 287.7 crore, Lightspeed Rs 79.85 crore, Lowercarbon Rs 65.83 crore, Good Capital Rs 40.73 crore, Rainmatter Rs 11 crore; post-money valuation Rs 4,500 crore (~$470M). Lowercarbon remains the largest external shareholder at 16.09% post-round.
+
+[^lcc-rain-1]: Lowercarbon Capital, "Abundance from Above," May 7, 2025, accessed August 2026. https://lowercarbon.com/2025/05/07/rainmaker-series-a/ — Primary first-party blog post confirming Lowercarbon Capital led Rainmaker's USD 25M Series A on 2025-05-07. Rainmaker is an El Segundo, CA cloud-seeding drone startup founded by Augustus Doricko.
+
+[^lcc-rain-2]: dot.LA, "This LA Startup Wants to Make It Rain and Just Raised $25M to Do It," May 9, 2025, accessed August 2026. https://dot.la/losangeles-startup-rainmaker-secures-25million-2671924648.html — Contemporaneous LA tech press confirming Rainmaker's USD 25M Series A led by Lowercarbon Capital, with Starship Ventures, 1517 Fund, Long Journey Ventures, and Naval Ravikant among participants.
