@@ -29381,7 +29381,7 @@ queue:
 - name: David Crawshaw
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Tailscale
   discovered_from: avery-pennarun
@@ -30776,7 +30776,7 @@ queue:
 - name: Alok Bansal
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: PB Fintech / Policybazaar
   discovered_from: naveen-kukreja
@@ -44829,3 +44829,85 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: procode-ai
+- name: exe.dev
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-crawshaw
+- name: Josh Bleecher Snyder
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: exe.dev
+  discovered_from: david-crawshaw
+- name: Justin Gage
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Amplify Partners
+  discovered_from: david-crawshaw
+- name: LenDenClub
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alok-bansal
+- name: Reevoy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alok-bansal
+- name: JobsUPI
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alok-bansal
+- name: IIMA Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alok-bansal
+- name: Tuscan Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alok-bansal
+- name: Artha Venture Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alok-bansal
+- name: Anshoo Sharma
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alok-bansal
+- name: Krishna Bhupal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alok-bansal
+- name: Alpesh Shah
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: BCG India
+  discovered_from: alok-bansal
+- name: Himanshu Aggarwal
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Aspiring Minds
+  discovered_from: alok-bansal

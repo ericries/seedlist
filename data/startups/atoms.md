@@ -1,44 +1,53 @@
 ---
-name: "Atoms"
-slug: atoms
-type: startup
-website: "https://atoms.com"
-location: "San Francisco, CA"
-founded: 2016
-status_company: active
-sector: [robotics, ai, industrial-automation, autonomous-vehicles, food-tech]
-stage_latest: "Late-stage private"
-total_raised: "$1.7B+"
-investors:
-  - slug: ben-horowitz
-    round: late-stage
-    year: 2026
-    date: 2026-07-22
-  - slug: travis-kalanick
-    round: founder
-    year: 2016
 firms:
-  - slug: andreessen-horowitz
-    round: late-stage
-    year: 2026
-    date: 2026-07-22
-  - slug: chemistry-vc
-    round: late-stage
-    year: 2026
-    date: 2026-07-22
-  - slug: sv-angel
-    round: late-stage
-    year: 2026
-    date: 2026-07-22
-  - slug: abstract-ventures
-    round: late-stage
-    year: 2026
-    date: 2026-07-22
+- date: 2026-07-22
+  round: late-stage
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-07-22
+  round: late-stage
+  slug: chemistry-vc
+  year: 2026
+- date: 2026-07-22
+  round: late-stage
+  slug: sv-angel
+  year: 2026
+- date: 2026-07-22
+  round: late-stage
+  slug: abstract-ventures
+  year: 2026
+- round: Late-stage ($1.7B, Founder/CEO) — a16z led; Bain Capital, Fifth Wall, Uber,
+    Chemistry, A*, K5 Global, Abstract, SV Angel, Alpha Square Group participated
+  slug: 10100
+  year: 2026
+founded: 2016
 founders:
-  - name: "Travis Kalanick"
-    role: "Founder & CEO"
-status: published
+- name: Travis Kalanick
+  role: Founder & CEO
+investors:
+- date: 2026-07-22
+  round: late-stage
+  slug: ben-horowitz
+  year: 2026
+- round: founder
+  slug: travis-kalanick
+  year: 2016
 last_researched: 2026-07-22
+location: San Francisco, CA
+name: Atoms
+sector:
+- robotics
+- ai
+- industrial-automation
+- autonomous-vehicles
+- food-tech
+slug: atoms
+stage_latest: Late-stage private
+status: published
+status_company: active
+total_raised: $1.7B+
+type: startup
+website: https://atoms.com
 ---
 
 ## About

@@ -1,40 +1,62 @@
 ---
-name: "Safe Superintelligence"
-slug: safe-superintelligence
-type: startup
-website: "https://ssi.inc"
-location: "Palo Alto, CA / Tel Aviv, Israel"
-founded: 2024
-status_company: active
-sector: [ai, foundation-models, ai-safety, deep-tech]
-stage_latest: "Strategic Investment"
-total_raised: "$7B"
-investors:
-  - slug: ilya-sutskever
-    round: founder
-    year: 2024
-  - slug: daniel-gross
-    round: founder
-    year: 2024
 firms:
-  - slug: andreessen-horowitz
-    round: prior
-    year: 2024
-  - slug: gv
-    round: prior
-    year: 2024
-  - slug: sequoia-capital
-    round: prior
-    year: 2024
+- round: prior
+  slug: andreessen-horowitz
+  year: 2024
+- round: prior
+  slug: gv
+  year: 2024
+- round: prior
+  slug: sequoia-capital
+  year: 2024
+- round: Series B (led)
+  slug: greenoaks
+  year: 2025
+- round: Series A (co-founder)
+  slug: nfdg
+  year: 2024
+founded: 2024
 founders:
-  - name: "Ilya Sutskever"
-    role: "Co-Founder & Chief Scientist"
-  - name: "Daniel Gross"
-    role: "Co-Founder"
-  - name: "Daniel Levy"
-    role: "Co-Founder"
-status: published
+- name: Ilya Sutskever
+  role: Co-Founder & Chief Scientist
+- name: Daniel Gross
+  role: Co-Founder
+- name: Daniel Levy
+  role: Co-Founder
+investors:
+- round: founder
+  slug: ilya-sutskever
+  year: 2024
+- round: founder
+  slug: daniel-gross
+  year: 2024
+- round: Series A
+  slug: andrew-reed
+  year: 2024
+- round: Seed
+  slug: shaun-maguire
+  year: 2024
+- round: Series B (led)
+  slug: benny-peretz
+  year: 2025
+- round: Series A ($1B at $5B valuation)
+  slug: nat-friedman
+  year: 2024
 last_researched: 2026-08-03
+location: Palo Alto, CA / Tel Aviv, Israel
+name: Safe Superintelligence
+sector:
+- ai
+- foundation-models
+- ai-safety
+- deep-tech
+slug: safe-superintelligence
+stage_latest: Strategic Investment
+status: published
+status_company: active
+total_raised: $7B
+type: startup
+website: https://ssi.inc
 ---
 
 ## About
