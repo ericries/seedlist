@@ -213,7 +213,7 @@ Note: Both quotes above are from Northzone's own blog about their Operator Netwo
 
 [^micro1]: "Munich robotics startup microagi raises $55m, Germany's largest ever seed round," Sifted, July 16, 2026. Accessed July 19, 2026. https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round — Confirms Northzone as a participant in the $55M seed alongside Hummingbird (lead), LocalGlobe, Village Global and Redalpine.
 
-[^yope1]: Ivan Mehta, "Yope raises $12.3M to build a private social network without algorithms or ads," TechCrunch, July 22, 2026. Accessed July 22, 2026. https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/ — Northzone led the $12.3M seed round with participation from Inovo, Redseed, and Geek Ventures. Pär-Jörgen Pärson joins Yope's board.
+[^yope1]: Ivan Mehta, "Yope raises $12.3M to build a private social network without algorithms or ads," TechCrunch, July 22, 2026. Accessed July 22, 2026. https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/ — Northzone led the $12.3M seed round with participation from Inovo, Redseed, and Geek Ventures. Pär-Jörgen Pärson quoted as partner at Northzone.
 
 [^yope2]: "Yope Raises $12.3M Seed for Private Social Network," Fundraise Insider, July 22, 2026. Accessed July 28, 2026. https://fundraiseinsider.com/blog/yope-raises-12-3m-seed-for-private-social-network/ — Independent trade-press confirmation of $12.3M seed led by Northzone with Inovo, Redseed, Geek Ventures participating; brings total funding to $20M.
 

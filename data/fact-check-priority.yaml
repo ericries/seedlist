@@ -7026,10 +7026,27 @@ priority:
   type: firm
   reason: led Cascade Seed via Speedrun ($3.5M, 2026-07-22)
   added: 2026-07-22
+  status: resolved
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: Verified Cascade $3.5M Seed (led
+    by a16z Speedrun, 2026-07-22 per TechCrunch) via 3 primary sources: TechCrunch
+    ([^casc1]), GlobeNewswire company press release ([^casc2]), Tech.eu ([^casc3]).
+    Added [^casc3] Tech.eu as third citation on andreessen-horowitz.md (previously
+    2 citations). Confirmed Marcus Segal (a16z Speedrun) verbatim quote in press
+    release. Full participant list matches across all 3 sources: Ada Ventures, Blitzscaling
+    Ventures, Indico Capital Partners, shuckerVC, G2C Ventures, Snowball VC. Cascade
+    startup profile already has full 3-source citation set.'
 - slug: northzone
   type: firm
   reason: led Yope Seed ($12.3M, 2026-07-22)
   added: 2026-07-22
+  status: resolved
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: See par-jorgen-parson resolution
+    below — same Yope $12.3M Seed round. Verified via TechCrunch (primary; Seed),
+    Fundraise Insider, and Pulse 2.0 (labels Pre-Series A). Northzone firm profile
+    already has all 3 citations; corrected over-inferred "joins board" claim on
+    [^yope1] — TechCrunch does not state Pärson joined Yope''s board.'
   status: resolved
   resolved: '2026-07-30'
   resolution_notes: 'Fact-spec 2026-07-30: Re-verified Yope Seed row already present
@@ -7045,6 +7062,16 @@ priority:
   type: investor
   reason: led Yope Seed for Northzone ($12.3M, 2026-07-22)
   added: 2026-07-22
+  status: resolved
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: Yope $12.3M round already present
+    on all three profiles (par-jorgen-parson.md, northzone.md, yope.md). Added missing
+    [^yope-b] and [^yope-c] source definitions to par-jorgen-parson.md (Fundraise
+    Insider + Pulse 2.0). Corrected over-inferred "joins Yope''s board" claim on
+    par-jorgen-parson.md and northzone.md — TechCrunch article only quotes Pärson
+    as partner at Northzone; no board seat announced. Round type: TechCrunch (primary)
+    labels Seed on 2026-07-22; Pulse 2.0 labels Pre-Series A published 2026-07-24.
+    Amount, lead, participants align across all 3 primary sources.'
 - slug: insight-partners
   type: firm
   reason: 'Fact-spec sweep 2026-07-29: tightened 3 vague Portfolio rows on insight-partners.md.
@@ -7065,6 +7092,14 @@ priority:
   type: firm
   reason: participated in Passionfroot Series A ($15M, 2026-07-22)
   added: 2026-07-23
+  status: resolved
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: Verified Passionfroot $15M Series A
+    (Insight Partners led, 2026-07-22) via 3 primary sources: TechCrunch ([^pfr-c1]),
+    PR Newswire company release ([^pfr-c2]), and FinSMES ([^pfr-c3]). Row already on
+    creandum.md portfolio; added [^pfr-c3] third citation. Confirmed Creandum, Supernode
+    Global, s16vc participated. Also added [^4] PR Newswire to passionfroot.md sources
+    (previously only 2 sources for the round).'
 - slug: first-round-capital
   type: firm
   reason: participated in Assured Health Series A ($19M, 2026-07-22)
@@ -7084,14 +7119,40 @@ priority:
   type: firm
   reason: led Atoms $1.7B growth round (2026-07-22)
   added: 2026-07-23
+  status: resolved
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: Verified Atoms $1.7B late-stage
+    round (a16z led, 2026-07-22) via 3 primary sources: TechCrunch ([^atoms1]), PYMNTS
+    ([^atoms2]), The AI Insider ([^atoms3]). Row already on andreessen-horowitz.md
+    portfolio with 3 citations. Full equity syndicate: a16z (lead), Bain Capital,
+    Uber, Fifth Wall, Chemistry, K5 Global, SV Angel, Alpha Square Group, A*, Abstract.
+    Debt partners: BofA, Goldman Sachs, Wells Fargo, JPMorgan, Barclays. Ben Horowitz
+    joins Atoms board.'
 - slug: ben-horowitz
   type: investor
   reason: joined Atoms board via a16z $1.7B lead (2026-07-22)
   added: 2026-07-23
+  status: resolved
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: Added Atoms $1.7B row to ben-horowitz.md
+    portfolio table (previously missing). Added 3 new footnotes ([^atoms1] TechCrunch,
+    [^atoms2] PYMNTS, [^atoms3] The AI Insider) with verbatim Ben Horowitz quote.
+    Updated last_verified_investment from Navan (2026-02) to Atoms (2026-07-22).
+    Board seat confirmed in all 3 primary sources.'
 - slug: travis-kalanick
   type: investor
   reason: founded Atoms and closed $1.7B growth round (2026-07-22)
   added: 2026-07-23
+  status: resolved
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: travis-kalanick.md already had Atoms
+    row in portfolio table (line 82) with 3 citations [^15][^16][^17] listing full
+    equity syndicate. atoms.md startup profile expanded with full co-investor list
+    (previously only listed Bain, Fifth Wall, Uber; now includes Chemistry, K5 Global,
+    SV Angel, Alpha Square Group, A*, Abstract per [^atoms3] The AI Insider) and
+    debt partners. Added [^3] PYMNTS and [^4] The AI Insider as additional sources.
+    Firm-slug frontmatter entries added for chemistry-vc, sv-angel, abstract-ventures
+    (the participants with existing seedlist profiles).'
 - slug: fj-labs
   type: firm
   reason: participated in Cordant Seed ($8M, 2026-07-21)
@@ -7107,10 +7168,21 @@ priority:
   type: firm
   reason: participated in Atoms $1.7B growth round (2026-07-22)
   added: 2026-07-23
+  status: resolved
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: sv-angel.md already has Atoms row
+    on portfolio (line 133) with 3 citations [^svatoms1][^svatoms2][^svatoms3] and
+    full equity syndicate. Verified via TechCrunch, Yahoo Finance, The AI Insider.
+    No new edits needed.'
 - slug: chemistry-vc
   type: firm
   reason: participated in Atoms $1.7B growth round (2026-07-22)
   added: 2026-07-23
+  status: resolved
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: chemistry-vc.md already has Atoms
+    row per prior sweep 2026-07-24 (see duplicate resolved entry at line 7167). Confirmed
+    via 3 primary sources (TechCrunch, Yahoo Finance, The AI Insider). No new edits.'
 - slug: andreessen-horowitz
   type: firm
   reason: led Neon Commerce Series A ($13M, 2026-07-22)

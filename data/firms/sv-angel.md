@@ -130,6 +130,7 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Atoms | Late-stage (participated, $1.7B equity; Andreessen Horowitz led) | 2026-07-22 | Robotics / Industrial AI / Physical AI | Active (Travis Kalanick founder/CEO; Bain Capital, Fifth Wall, Uber, Chemistry, K5 Global, Alpha Square Group, A*, Abstract also participated; Ben Horowitz joined board) [^svatoms1][^svatoms2][^svatoms3] |
 | Sable | Series A (participated, $45M; co-led by Sequoia and 8VC) | 2026-07-16 | AI / Sales Enablement | Active [^svsable2026][^svsable2026b][^svsable2026c] |
 | Niteshift | Seed (participated, $7M; led by Greylock/Jerry Chen) | 2026-06-10 | AI / Developer Tools / Cloud | Active [^niteshift2026a][^niteshift2026b][^niteshift2026c] |
 | Sandstone | Series A (participated, $30M; led by Lightspeed Venture Partners) | 2026-06-09 | Legal Tech / AI / Vertical SaaS | Active [^sandstone2026a][^sandstone2026b][^sandstone2026c] |
@@ -458,3 +459,9 @@ The following table includes all 155 companies listed on SV Angel's portfolio pa
 [^svsable2026]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," ACCESS Newswire (via Globe and Mail), July 16, 2026. Accessed July 20, 2026. https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/3321857/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain/ — Confirms SV Angel participated in Sable's $45M Series A, co-led by Sequoia Capital and 8VC, alongside BoxGroup, Valor Atreides AI Fund, and Sabrina and Evan Hahn.
 [^svsable2026b]: Allie Garfinkle, "Meet the AI employee that convinced Sequoia to invest $45 million in Sable," Fortune, July 16, 2026. Accessed July 29, 2026. https://fortune.com/2026/07/16/ai-employee-that-convinced-sequoia-to-invest-45-million-in-sable-shaun-maguire/ — Fortune coverage confirming the $45M Series A.
 [^svsable2026c]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," Newswire, July 16, 2026. Accessed July 29, 2026. https://www.newswire.com/news/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain — Third source confirming SV Angel among named participants.
+
+[^svatoms1]: Marina Temkin, "Travis Kalanick's robotics company raises $1.7B, led by a16z," TechCrunch, July 22, 2026. Accessed August 3, 2026. https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/ — Primary tier-1 press. TechCrunch names Bain Capital, Fifth Wall, and Uber explicitly and cites "and others" for additional participants.
+
+[^svatoms2]: "Kalanick's Atoms raises $1.7B in a16z-led round for industrial AI," Yahoo Finance / Investing.com, July 22, 2026. Accessed August 3, 2026. https://finance.yahoo.com/technology/ai/articles/kalanick-atoms-raises-1-7b-212701007.html — Independent press confirmation explicitly naming SV Angel among equity participants alongside Bain Capital, Fifth Wall, Chemistry, A*, K5 Global, Abstract, Alpha Square Group, and Uber.
+
+[^svatoms3]: "Travis Kalanick's Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z," The AI Insider, July 23, 2026. Accessed August 3, 2026. https://theaiinsider.tech/2026/07/23/travis-kalanicks-physical-ai-startup-atoms-raises-1-7b-in-funding-led-by-a16z/ — Third independent source confirming SV Angel among named equity partners of Atoms' $1.7B a16z-led round.

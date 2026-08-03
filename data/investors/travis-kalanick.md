@@ -1,11 +1,11 @@
 ---
 check_size: $50K-$100K (angel); $150M+ (10100/strategic)
 firm: 10100
-last_researched: 2026-04-30
+last_researched: 2026-08-03
 last_verified_investment:
-  company: Casa
-  date: 2026-04-30
-  round: Series A
+  company: Atoms
+  date: 2026-07-22
+  round: Late-stage ($1.7B, Founder/CEO)
 location: Los Angeles, CA
 name: Travis Kalanick
 role: Founder
@@ -79,6 +79,7 @@ Notable gap: Despite co-founding one of the world's most valuable pure software/
 | MegaBite | ~2021 | Angel | Food/Restaurants | [^10] |
 | Goop Kitchen | 2024-08 | Angel ($15M raise, $90M valuation) | Food/Restaurants | [^10][^13] |
 | Casa | 2026-04-30 | Series A (participant) | Home services / Marketplace | [^14] |
+| Atoms | 2026-07-22 | Late-stage ($1.7B, Founder/CEO) — a16z led; Bain Capital, Fifth Wall, Uber, Chemistry, A*, K5 Global, Abstract, SV Angel, Alpha Square Group participated | Robotics / Industrial AI / Physical AI | [^15][^16][^17] |
 
 Notes:
 - Years marked with ~ are proxies based on company founding year or known early funding rounds; exact investment dates are not confirmed for most deals.
@@ -145,3 +146,9 @@ No other independently sourced founder testimonials about Kalanick as an investo
 [^13]: WWD, "Goop Refocuses Business on Fashion, Beauty and Food, Resulting in Layoffs," 2024. https://wwd.com/beauty-industry-news/beauty-features/gwyneth-paltrow-goop-restructure-layoffs-1236572002/
 
 [^14]: Brian Contreras, "Ex-Uber Execs Raise $27 Million for a Home Maintenance Startup," Inc., April 30, 2026. https://www.inc.com/brian-contreras/uber-veterans-raised-27-million-home-maintenance-startup-casa/91338374
+
+[^15]: Marina Temkin, "Travis Kalanick's robotics company raises $1.7B, led by a16z," TechCrunch, July 22, 2026. Accessed August 2026. https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/ — Confirms $1.7B round led by Andreessen Horowitz with Ben Horowitz joining board; participants Bain Capital, Fifth Wall, Uber.
+
+[^16]: "Kalanick's Atoms raises $1.7B in a16z-led round for industrial AI," Yahoo Finance, July 22, 2026. Accessed August 2026. https://finance.yahoo.com/technology/ai/articles/kalanick-atoms-raises-1-7b-212701007.html — Independent tier-1 press confirmation with expanded equity syndicate (Chemistry, A*, K5 Global, Abstract, SV Angel, Alpha Square Group) and debt partners.
+
+[^17]: "Travis Kalanick's Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z," The AI Insider, July 23, 2026. Accessed August 2026. https://theaiinsider.tech/2026/07/23/travis-kalanicks-physical-ai-startup-atoms-raises-1-7b-in-funding-led-by-a16z/ — Third independent press confirmation of full participant list.

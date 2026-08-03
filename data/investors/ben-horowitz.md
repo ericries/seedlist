@@ -10,9 +10,9 @@ stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [enterprise, infrastructure, consumer, fintech, cybersecurity, ai, culture-media]
 check_size: "$10M-$100M+"
 last_verified_investment:
-  date: 2026-02
-  company: "Navan"
-  round: "Growth"
+  date: 2026-07-22
+  company: "Atoms"
+  round: "Late-stage ($1.7B, led)"
 social:
   twitter: "@bhorowitz"
   linkedin: "linkedin.com/in/behorowitz"
@@ -102,6 +102,7 @@ Investments where Ben Horowitz personally led the deal or took a board seat:
 | UnitedMasters | 2017 | Series A | [^27] |
 | Navan (TripActions) | 2019 | Series C | [^28] |
 | Anyscale | 2019 | Series A | [^29] |
+| Atoms | 2026-07-22 | Late-stage (led, $1.7B; board seat) | [^atoms1][^atoms2][^atoms3] |
 
 *Note: This table represents investments where Horowitz personally led or took a board seat. As co-founder of a16z, he is involved in firm-level decisions across hundreds of additional portfolio companies (1,076 as of November 2025 [^5]). Notable a16z portfolio companies where other partners led include Airbnb, Coinbase, GitHub, and Clubhouse. This table does not capture his pre-a16z angel investments in 45 startups including Twitter (2006-2010) [^4].*
 
@@ -192,3 +193,9 @@ Diishan Imira, founder of Mayvenn, described how after investing, Horowitz email
 [^32]: TechCrunch, "Why Former Loudcloud CEO Ben Horowitz Invested $10 Million In Cloud Identity Startup Okta," July 13, 2010. Accessed May 2026. https://techcrunch.com/2010/07/13/horowitz-cloud-okta/ — Okta's $10M Series A announced July 13, 2010, led by Andreessen Horowitz (a16z's first cloud investment). Ben Horowitz joined Okta's board.
 
 [^33]: VentureBeat, "Cloud application startup Okta raises $10M from Andreessen Horowitz," July 14, 2010. Accessed May 2026. https://venturebeat.com/2010/07/14/cloud-application-startup-okta-raises-10m-from-andreessen-horowitz/ — Confirms Okta's $10M Series A on July 13-14, 2010, led by Andreessen Horowitz; Ben Horowitz joined the board.
+
+[^atoms1]: Marina Temkin, "Travis Kalanick's robotics company raises $1.7B, led by a16z," TechCrunch, July 22, 2026. Accessed August 3, 2026. https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/ — Andreessen Horowitz led the $1.7B round; Ben Horowitz will join Atoms' board. Ben Horowitz quoted: "I think the most valuable thing someone could do with AI and robotics is to repeat the same thing Uber did for transportation, or that computers did for the digital world: to make everything and everyone more productive."
+
+[^atoms2]: "Uber Co-Founder Kalanick's Atoms Secures $1.7 Billion to Build Physical AI," PYMNTS, July 22, 2026. Accessed August 3, 2026. https://www.pymnts.com/news/artificial-intelligence/2026/uber-co-founder-kalanicks-atoms-secures-1-7-billion-to-build-physical-ai/ — Independent tier-1 press confirmation of $1.7B round led by Andreessen Horowitz; Ben Horowitz joins Atoms' board.
+
+[^atoms3]: "Travis Kalanick's Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z," The AI Insider, July 23, 2026. Accessed August 3, 2026. https://theaiinsider.tech/2026/07/23/travis-kalanicks-physical-ai-startup-atoms-raises-1-7b-in-funding-led-by-a16z/ — Confirms Ben Horowitz joins Atoms' board; full equity syndicate lists a16z (lead), Bain Capital, Uber, Fifth Wall, Chemistry, A*, K5 Global, Abstract, SV Angel, Alpha Square Group.
