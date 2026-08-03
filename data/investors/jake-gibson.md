@@ -10,7 +10,7 @@ stage_focus: [pre-seed, seed]
 sector_focus: [fintech, payments, lending, insurance, banking, infrastructure]
 check_size: "$500K-$3M"
 last_verified_investment:
-  date: 2024
+  date: 2025-09-03
   company: "Meroka"
   round: "Seed"
 social:
@@ -85,7 +85,7 @@ The analysis below is based on BTV's publicly listed portfolio of 150+ companies
 | Coast | Seed | ~2021 | Fintech / Fleet Cards | Series B | [^7] |
 | Relay | Seed | ~2020 | Fintech / Banking | Series B | [^7] |
 | Basis | Seed | ~2023 | Fintech / AI Accounting | Seed | [^7] |
-| Meroka | Seed | 2024 | Healthcare / Fintech | Seed | [^6] |
+| Meroka | Seed (BTV co-led with Slow Ventures, $6M; 8VC and others participated) | 2025-09-03 | Healthcare / Independent Physician Practices | Seed | [^6][^8][^9][^10] |
 | Mendel | Seed | ~2022 | Fintech / Expense Mgmt (Mexico) | Series A | [^7] |
 | InScope | Seed | ~2022 | Fintech / Financial Reporting | Series A | [^7] |
 | Layer | Seed | ~2023 | Fintech / Embedded Accounting | Seed | [^7] |
@@ -121,3 +121,6 @@ Another founder noted: "BTV has been a huge part of our journey, especially as f
 [^5]: NFX Signal investor profile for Jake Gibson, accessed March 2026. https://signal.nfx.com/investors/jake-gibson
 [^6]: Ramp partner profile for Better Tomorrow Ventures, accessed March 2026. https://ramp.com/partner-profiles/btv
 [^7]: BTV portfolio page, accessed March 2026. https://www.btv.vc/companies
+[^8]: BusinessWire, "Meroka Launches with $6M Seed Round to Restore Humanity in Healthcare," September 3, 2025. Accessed August 2026. https://www.businesswire.com/news/home/20250903351274/en/Meroka-Launches-with-$6M-Seed-Round-to-Restore-Humanity-in-Healthcare
+[^9]: Forbes (Shimite Obialo), "Meroka Raises $6 Million To Drive Employee Ownership At Independent Medical Practices," September 4, 2025. Accessed August 2026. https://www.forbes.com/sites/shimiteobialo/2025/09/04/meroka-raises-6m-to-drive-employee-ownership-at-independent-medical-practices/
+[^10]: Pulse 2.0, "Meroka: $6 Million Secured For Helping Revitalize Independent Medical Practices," September 7, 2025. Accessed August 2026. https://pulse2.com/meroka-6-million-secured-for-helping-revitalize-independent-medical-practices/

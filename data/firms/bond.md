@@ -85,7 +85,7 @@ Mary Meeker has stated regarding Canva: "The Canva team are building their platf
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Canva | Growth ($70M round, BOND debut investment) | 2019 | Design/Consumer | Active | [^9][^10][^11] |
+| Canva | Growth ($70M round at $2.5B valuation, BOND debut investment; alongside General Catalyst, Felicis, Blackbird) | 2019-05-20 | Design/Consumer | Active | [^9][^10][^11] |
 | Applied Intuition | Series E (participant; $250M round led by Lux Capital, Elad Gil, Porsche) | 2024-03-12 | Autonomous Vehicles | Active | [^3][^12][^13][^14] |
 ~unknown| Checkr | Growth | — | HR Tech | Active | [^3][^6] |
 ~unknown| Dapper Labs | Growth | — | Web3/NFT | Active | [^3] |

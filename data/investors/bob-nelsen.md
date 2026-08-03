@@ -123,7 +123,7 @@ Note: Some companies span multiple categories. Percentages based on primary clas
 | Hua Medicine | ~2017 | Early stage | [^1][^5] |
 | Maze Therapeutics | ~2019 | Early stage | [^1][^19] |
 | Seaport Therapeutics | 2024 | Series A | [^1][^28] |
-| Xaira Therapeutics | 2024 | Co-founder / Series A | [^1][^12] |
+| Xaira Therapeutics | 2024-04-23 | Co-founder / Series A ($1B+ launch financing, co-led by ARCH and Foresite Labs) | [^1][^12][^x-bw] |
 | Metsera | ~2024 | Early stage | [^16] |
 | Mirador Therapeutics | 2024 | Series A | [^16] |
 
@@ -172,7 +172,9 @@ Steven Kaplan, Professor at the University of Chicago Booth School of Business (
 [^9]: Fortune, "Pfizer Betting Big on Cancer Research in $11.4 Billion Acquisition of Array BioPharma," June 2019. https://fortune.com/2019/06/17/pfizer-array-biopharma-deal/
 [^10]: Polsky Center for Entrepreneurship and Innovation, "New Biopharma Manufacturing Company Founded by Booth Alum Robert Nelsen Raises $800 Million," December 2020. https://polsky.uchicago.edu/2020/12/04/new-biopharma-manufacturing-company-founded-by-booth-alum-robert-nelsen-raises-800-million/
 [^11]: RESILIENCE, "RESILIENCE Launches to Change the Future of Medicine through Manufacturing Innovation," November 2020. https://www.prnewswire.com/news-releases/resilience-launches-to-change-the-future-of-medicine-through-manufacturing-innovation-301178612.html
-[^12]: TechCrunch, "Xaira, an AI drug discovery startup, launches with a massive $1B, says it's 'ready' to start developing drugs," April 2024. https://techcrunch.com/2024/04/24/xaira-an-ai-drug-discovery-startup-launches-with-a-massive-1b-says-its-ready-to-start-developing-drugs/
+[^12]: TechCrunch, "Xaira, an AI drug discovery startup, launches with a massive $1B, says it's 'ready' to start developing drugs," April 24, 2024. Accessed August 2026. https://techcrunch.com/2024/04/24/xaira-an-ai-drug-discovery-startup-launches-with-a-massive-1b-says-its-ready-to-start-developing-drugs/ — Reports launch announced Tuesday, April 23, 2024 with $1B+ committed capital co-led by ARCH Venture Partners and Foresite Labs.
+
+[^x-bw]: Xaira Therapeutics, "Xaira Therapeutics Launches to Deliver Transformative Medicines by Advancing and Harnessing AI for Drug Discovery and Development," BusinessWire, April 23, 2024. Accessed August 2026. https://www.businesswire.com/news/home/20240423707240/en/Xaira-Therapeutics-Launches-to-Deliver-Transformative-Medicines-by-Advancing-and-Harnessing-AI-for-Drug-Discovery-and-Development — Xaira's own launch press release confirming April 23, 2024 date; jointly incubated by ARCH Venture Partners and Foresite Labs; over $1 billion in committed capital.
 [^13]: STAT News, "Secretive Project Prometheus takes VC Bob Nelsen beyond just health care," January 2026. https://www.statnews.com/2026/01/14/project-prometheus-bob-nelsen-artificial-intelligence/
 [^14]: ARCH Venture Partners, "ARCH's Bob Nelsen appears on Forbes 2025 Midas List," accessed March 2026. https://www.archventure.com/archs-bob-nelsen-appears-on-forbes-2025-midas-list/
 [^15]: GeekWire, "Juno's $9B deal helps venture capitalist Bob Nelsen land on Midas List," 2018. https://www.geekwire.com/2018/junos-9b-deal-helps-bob-nelsen-land-midas-list-seattle-investors-dont-make-cut/

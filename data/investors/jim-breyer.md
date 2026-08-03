@@ -125,7 +125,7 @@ The table below represents a subset of Breyer's verified investments. Breyer Cap
 | Suki | ~2020 | Early stage | [^12] |
 | OpenEvidence | ~2022 | Early stage ($210M raise at $3.5B valuation) | [^15] |
 | SandboxAQ | ~2022 | Growth | [^12] |
-| Xaira | ~2023 | Early stage | [^12] |
+| Xaira | 2024-04-23 | Series A ($1B+ launch financing co-led by ARCH and Foresite Labs; Breyer participation self-reported on breyercapital.com/portfolio, not named in primary press) | [^12][^x-jb] |
 | Harbor Health | 2025 | Growth ($130M round) | [^15] |
 
 *Note: Years marked with ~ are approximations based on founding dates and public reporting. Breyer Capital's portfolio page lists 140+ companies [^12]; this table represents approximately 20% of that total.*
@@ -185,3 +185,5 @@ No additional independently sourced founder testimonials found beyond Circle's J
 [^19]: Shield AI, "On Welcoming Investors to the Shield AI Family," accessed March 2026. https://shield.ai/on-welcoming-investors-shield-ai-family/
 [^20]: Circle, "The Power of Courage with Jim Breyer of Breyer Capital," The Money Movement podcast, accessed March 2026. https://www.circle.com/the-money-movement/ep-86-the-power-of-courage
 [^21]: CNBC, "Early Facebook investor Jim Breyer says Zuckerberg has been 'revitalized' by Meta's AI push," January 2025, accessed March 2026. https://www.cnbc.com/2025/01/22/early-facebook-investor-says-mark-zuckerberg-has-been-revitalized.html
+
+[^x-jb]: Xaira Therapeutics, "Xaira Therapeutics Launches to Deliver Transformative Medicines by Advancing and Harnessing AI for Drug Discovery and Development," BusinessWire, April 23, 2024. Accessed August 2026. https://www.businesswire.com/news/home/20240423707240/en/Xaira-Therapeutics-Launches-to-Deliver-Transformative-Medicines-by-Advancing-and-Harnessing-AI-for-Drug-Discovery-and-Development — Xaira's launch press release names ARCH Venture Partners, Foresite Labs (co-leads), F-Prime, NEA, Sequoia Capital, Lux Capital, Lightspeed Venture Partners, Menlo Ventures, Two Sigma Ventures, SV Angel, Parker Institute for Cancer Immunotherapy, Rsquared, Byers Capital, and Risk and Return; Breyer Capital is NOT named in the primary syndicate.

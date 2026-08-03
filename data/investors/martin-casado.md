@@ -100,7 +100,7 @@ Based on 25 verified current and former board positions listed below:
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Cursor | Series A | ~2023 | AI / Developer tools | Active | [^1] |
-| World Labs | Series A | 2024 | AI / Spatial intelligence | Active | [^9] |
+| World Labs | Series A | 2024-09-13 | AI / Spatial intelligence | Active | [^9][^wl-cb] |
 | Ideogram | Series A | 2024 | AI / Image generation | Active | [^10] |
 | Fivetran | Growth | ~2019 | Data infrastructure | Active | [^1][^7] |
 | Kong | Series C | ~2018 | API infrastructure | Active | [^1] |
@@ -158,7 +158,9 @@ No independently sourced founder testimonials found. A DeepMap blog post describ
 [^6]: The Twenty Minute VC, "Martin Casado on Anthropic vs OpenAI: Where Value Accrues & Why Open Source is a National Security Risk with China," 2025. https://www.thetwentyminutevc.com/martin-casado-2
 [^7]: Andreessen Horowitz, "Fivetran" (announcement), accessed March 2026. https://a16z.com/announcement/fivetran/
 [^8]: Signal by NFX, "Martin Casado's Investing Profile," accessed March 2026. https://signal.nfx.com/investors/martin-casado
-[^9]: Andreessen Horowitz, "What's In a World? Investing in World Labs," 2024. https://a16z.com/announcement/investing-in-world-labs/
+[^9]: Andreessen Horowitz, "What's In a World? Investing in World Labs," September 13, 2024. Accessed August 2026. https://a16z.com/announcement/investing-in-world-labs/
+
+[^wl-cb]: Crunchbase News, "World Labs Launches With $230M Funding Led By A16z, NVentures And Radical Ventures," September 13, 2024. Accessed August 2026. https://news.crunchbase.com/ai/world-labs-launches-a16z-nventures/ — Confirms September 13, 2024 launch date; co-led by Andreessen Horowitz, NEA, and Radical Ventures.
 [^10]: VentureBeat, "Midjourney rival Ideogram gets $80M in Series A led by Andreessen Horowitz," 2024. https://venturebeat.com/ai/midjourney-rival-ideogram-gets-80m-in-series-a-led-by-andreessen-horowitz
 [^11]: Andreessen Horowitz, "Investing in Saronic," July 2024. https://a16z.com/announcement/investing-in-saronic/
 [^12]: DeepMap, Inc., "DeepMap Investor Martin Casado of Andreessen Horowitz Featured in Business Insider," Medium, accessed March 2026. https://deepmap.medium.com/deepmap-investor-martin-casado-of-andreessen-horowitz-featured-in-business-insider-feb7402234d9

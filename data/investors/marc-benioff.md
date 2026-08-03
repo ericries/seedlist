@@ -119,7 +119,7 @@ Based on 24 verified unicorn investments tracked by Arete Index and 10 recent in
 | Harness Wealth | 2024 | Series A | [^4] |
 | weev.one | 2024 | Angel | [^4] |
 | Viome | 2024 | Series D | [^4] |
-| World Labs | 2024 | Series A | [^4] |
+| World Labs | 2024-09-13 | Series A (co-led by a16z, NEA, Radical Ventures; $230M across seed + Series A) | [^4][^wl-tc][^wl-a16z] |
 | SandboxAQ | 2024 | Venture | [^4] |
 | Sumble | 2025-10-22 | Series A | [^9][^10][^11] |
 | June AI | 2026-08-03 | Pre-Seed (led via TIME Ventures, $20M) | [^june-mb] |
@@ -148,6 +148,10 @@ No independently sourced founder testimonials found.
 ## Sources
 
 [^june-mb]: TechCrunch, "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem," August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
+
+[^wl-a16z]: Andreessen Horowitz, "What's In a World? Investing in World Labs," September 13, 2024. Accessed August 2026. https://a16z.com/announcement/investing-in-world-labs/ — a16z announcement of investment in World Labs, published September 13, 2024.
+
+[^wl-tc]: Crunchbase News, "World Labs Launches With $230M Funding Led By A16z, NVentures And Radical Ventures," September 13, 2024. Accessed August 2026. https://news.crunchbase.com/ai/world-labs-launches-a16z-nventures/ — Confirms September 13, 2024 launch date; co-led by Andreessen Horowitz, NEA, and Radical Ventures with participation from Marc Benioff, Ashton Kutcher, Adobe Ventures, AMD Ventures, Databricks Ventures, and NVentures.
 
 [^1]: Hustle Fund, "Marc Benioff Investments: What Early-Stage VCs Can Learn from the Salesforce Playbook," accessed March 2026. https://www.hustlefund.vc/post/marc-benioff-investments-what-early-stage-vcs-can-learn-from-the-salesforce-playbook
 [^2]: Crunchbase, "Time Ventures — Company Profile & Funding," accessed March 2026. https://www.crunchbase.com/organization/time-ventures

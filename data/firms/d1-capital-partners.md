@@ -109,7 +109,7 @@ The following table represents verified private market investments by D1 Capital
 | OneStream Software | Series B | 2021 | Enterprise software / CPM | Active | [^21] |
 | Ramp | Series B | 2021 | Fintech / Corporate cards | Active | [^22] |
 | DriveNets | Series B | 2021 | Networking / Cloud infrastructure | Active | [^23] |
-| Groq | Series C | 2021 | AI / Semiconductors | Active | [^24] |
+| Groq | Series C (co-led with Tiger Global; $300M) | 2021-04-14 | AI / Semiconductors | Active | [^24][^groq-pr][^groq-sa] |
 | Provi | Series C | 2021 | E-commerce / Alcohol marketplace | Active | [^25] |
 | Collectors Holdings | Follow-on | 2022 | Consumer / Collectibles | Active | [^26] |
 | Anthropic | Series E (participated, $3.5B at $61.5B val) | 2025-03-03 | AI / Research | Active | [^27] |
@@ -169,7 +169,11 @@ No independently sourced founder testimonials found. D1 Capital Partners operate
 [^21]: CB Insights, "OneStream Raises $200M In Series B Funding Led By D1 Capital Partners," April 2021. https://www.cbinsights.com/research/onestream-series-b-funding/
 [^22]: Paul, Weiss, "D1 Capital Leads $115 Million Funding Round in Ramp," April 2021. https://www.paulweiss.com/insights/client-news/d1-capital-leads-115-million-funding-round-in-ramp
 [^23]: Paul, Weiss, "D1 Capital Leads $208 Million Funding Round in DriveNets," January 2021. https://www.paulweiss.com/insights/client-news/d1-capital-leads-208-million-funding-round-in-drivenets
-[^24]: Bloomberg, "Tiger Global, D1 Lead $300 Million Round in AI Chip Startup Groq," April 2021. https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq
+[^24]: Bloomberg, "Tiger Global, D1 Lead $300 Million Round in AI Chip Startup Groq," April 14, 2021. Accessed August 2026. https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq — Confirms Groq's $300M Series C co-led by Tiger Global and D1 Capital, valuing the company at $2.8B.
+
+[^groq-pr]: Groq / PRNewswire, "Groq Closes $300 Million Fundraise," April 14, 2021. Accessed August 2026. https://www.prnewswire.com/news-releases/groq-closes-300-million-fundraise-301268417.html — Company press release confirming $300M Series C on April 14, 2021 co-led by Tiger Global Management and D1 Capital, with participation from The Spruce House Partnership, Addition, GCM Grosvenor, Xⁿ, Firebolt Ventures, General Global Capital, Tru Arrow Partners, TDK Ventures, XTX Ventures, Boardman Bay Capital Management, and Infinitum Partners.
+
+[^groq-sa]: SiliconANGLE, "AI chipmaker Groq raises $300M in Series C round," April 14, 2021. Accessed August 2026. https://siliconangle.com/2021/04/14/ai-chip-maker-groq-raises-300m-series-c-round/ — Contemporaneous tech press confirming April 14, 2021 date, $300M amount, and Tiger Global/D1 Capital co-lead.
 [^25]: Provi, "Provi Announces $75M In New Funding On $750M Valuation To Take The Alcohol Industry Online," September 2021. https://www.prnewswire.com/news-releases/provi-announces-75m-in-new-funding-on-750m-valuation-to-take-the-alcohol-industry-online-301381087.html
 [^26]: Sportico, "Collectors $100M Raise at $4.3B Valuation Reflects Chernin, Cohen Confidence," March 2022. https://www.sportico.com/business/finance/2022/collectors-chernin-cohen-1234670529/
 [^27]: Anthropic, "Anthropic raises $3.5 billion Series E," May 2025. https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation

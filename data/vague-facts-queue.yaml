@@ -227,7 +227,10 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-08-03: tightened Positron AI row with USD 23.5M amount and named participants (Valor Equity Partners, Atreides Management, Flume Ventures, Resilience Reserve; no single lead). Verified via 3 primary sources: existing 1517 portfolio [^4], NEW Reuters/Yahoo Finance [^86] (2025-02-11), NEW Positron press page [^87]. 1517 Fund NOT named in seed press — attribution comes from 1517 portfolio page. Also added Positron rows to valor-equity-partners.md (Series A led July 2025) with 3 supporting citations. 2 new footnotes on 1517 profile ([^86], [^87]) + 3 new on Valor profile ([^49], [^50], [^51]).'
+  resolution_note: 'Fact-spec sweep 2026-08-03: tightened Positron AI row with USD 23.5M amount and named participants (Valor Equity Partners, Atreides Management, Flume Ventures, Resilience Reserve; no
+    single lead). Verified via 3 primary sources: existing 1517 portfolio [^4], NEW Reuters/Yahoo Finance [^86] (2025-02-11), NEW Positron press page [^87]. 1517 Fund NOT named in seed press — attribution
+    comes from 1517 portfolio page. Also added Positron rows to valor-equity-partners.md (Series A led July 2025) with 3 supporting citations. 2 new footnotes on 1517 profile ([^86], [^87]) + 3 new on Valor
+    profile ([^49], [^50], [^51]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Mach Industries
@@ -298,7 +301,9 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-08-03: tightened Miist Therapeutics row with USD 7M amount and full investor list (Refactor Capital, 1517 Fund, Freeflow Ventures, Entrepreneur First, California Innovation Fund; no single lead). Verified via 3 primary sources: NEW BusinessWire company release [^88] (2025-02-05), NEW StartUp Health trade press [^89], existing sources [^24][^41][^67][^68]. Also updated refactor-capital.md (row was "Seed | ~2023" — fixed to 2025-02-05 with $7M and full syndicate) with 2 new footnotes ([^52], [^53]). 2 new footnotes on 1517 profile ([^88], [^89]).'
+  resolution_note: 'Fact-spec sweep 2026-08-03: tightened Miist Therapeutics row with USD 7M amount and full investor list (Refactor Capital, 1517 Fund, Freeflow Ventures, Entrepreneur First, California
+    Innovation Fund; no single lead). Verified via 3 primary sources: NEW BusinessWire company release [^88] (2025-02-05), NEW StartUp Health trade press [^89], existing sources [^24][^41][^67][^68]. Also
+    updated refactor-capital.md (row was "Seed | ~2023" — fixed to 2025-02-05 with $7M and full syndicate) with 2 new footnotes ([^52], [^53]). 2 new footnotes on 1517 profile ([^88], [^89]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Presso
@@ -396,7 +401,10 @@ vague_facts:
   priority: high
   type: unknown_value
   status: resolved
-  resolution_note: 'Fact-spec sweep 2026-08-03: tightened Rainmaker Series A row with USD 25M amount, Lowercarbon Capital lead, and full syndicate (Starship Ventures, 1517 Fund, Long Journey Ventures, Day One Ventures, Tamarack Global, Garry Tan, Naval Ravikant). Date corrected from 2025-05-05 (Crunchbase filing date) to 2025-05-07 (Lowercarbon primary blog announcement). Verified via 3 primary sources: NEW Lowercarbon Capital blog [^90] (2025-05-07, first-party lead), NEW dot.LA [^91] (2025-05-09), plus existing sources [^24][^47][^69][^70]. Also added Series A follow-on rows to long-journey-ventures.md and lowercarbon-capital.md with 4 new footnotes across those two profiles. 2 new footnotes on 1517 profile ([^90], [^91]).'
+  resolution_note: 'Fact-spec sweep 2026-08-03: tightened Rainmaker Series A row with USD 25M amount, Lowercarbon Capital lead, and full syndicate (Starship Ventures, 1517 Fund, Long Journey Ventures, Day
+    One Ventures, Tamarack Global, Garry Tan, Naval Ravikant). Date corrected from 2025-05-05 (Crunchbase filing date) to 2025-05-07 (Lowercarbon primary blog announcement). Verified via 3 primary sources:
+    NEW Lowercarbon Capital blog [^90] (2025-05-07, first-party lead), NEW dot.LA [^91] (2025-05-09), plus existing sources [^24][^47][^69][^70]. Also added Series A follow-on rows to long-journey-ventures.md
+    and lowercarbon-capital.md with 4 new footnotes across those two profiles. 2 new footnotes on 1517 profile ([^90], [^91]).'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Twilio
@@ -7812,7 +7820,9 @@ vague_facts:
   line: '| Groq | Series C | 2021 | AI / Semiconductors | Active | [^24] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved_date: '2026-08-03'
+  resolution_notes: Groq Series C confirmed 2021-04-14, $300M co-led Tiger Global + D1 Capital; profile updated with date and citations to PRNewswire, SiliconANGLE, Bloomberg.
 - profile: firms/d1-capital-partners
   profile_name: D1 Capital Partners
   company: Provi
@@ -46443,7 +46453,9 @@ vague_facts:
   line: '| Xaira Therapeutics | 2024 | Co-founder / Series A | [^1][^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved_date: '2026-08-03'
+  resolution_notes: Xaira Therapeutics launched 2024-04-23 with $1B+ committed capital co-led by ARCH and Foresite Labs; profile updated with date and BusinessWire citation.
 - profile: investors/bob-nelsen
   profile_name: Robert "Bob" Nelsen
   company: Metsera
@@ -92667,7 +92679,9 @@ vague_facts:
   line: '| Xaira | ~2023 | Early stage | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved_date: '2026-08-03'
+  resolution_notes: Xaira launch confirmed 2024-04-23; Breyer Capital participation is self-reported only (not named in primary press). Date corrected from ~2023 to 2024-04-23 and citation added.
 - profile: investors/jim-breyer
   profile_name: Jim Breyer
   company: Harbor Health
@@ -109947,7 +109961,9 @@ vague_facts:
   line: '| World Labs | 2024 | Series A | [^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved_date: '2026-08-03'
+  resolution_notes: World Labs Series A confirmed 2024-09-13; $230M across seed + Series A, co-led by a16z, NEA, Radical Ventures. Profile updated with date and citations.
 - profile: investors/marc-benioff
   profile_name: Marc Benioff
   company: SandboxAQ
@@ -111937,7 +111953,9 @@ vague_facts:
   line: '| World Labs | Series A | 2024 | AI / Spatial intelligence | Active | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved_date: '2026-08-03'
+  resolution_notes: Same — World Labs Series A 2024-09-13, Martin Casado profile updated.
 - profile: investors/martin-casado
   profile_name: Martin Casado
   company: Ideogram
@@ -172766,7 +172784,9 @@ vague_facts:
   line: '| Xaira | Round undisclosed (Breyer participation self-reported on breyercapital.com/portfolio only; Xaira''s 2024-04-23 '
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-08-03'
+  resolution_notes: Same — corrected ~2024 to 2024-04-23 on Breyer Capital firm profile.
 - profile: firms/breyer-capital
   profile_name: Breyer Capital
   company: EigenLayer
@@ -182397,7 +182417,9 @@ vague_facts:
   line: '| Xaira Therapeutics | 2024 | Co-founder / Series A | [^1][^12] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-08-03'
+  resolution_notes: Same — Xaira launch 2024-04-23.
 - profile: investors/bob-nelsen
   profile_name: Robert "Bob" Nelsen
   company: Metsera
@@ -191107,7 +191129,9 @@ vague_facts:
   line: '| Xaira | ~2023 | Early stage | [^12] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-08-03'
+  resolution_notes: Same — corrected ~2023 to 2024-04-23.
 - profile: investors/jim-breyer
   profile_name: Jim Breyer
   company: Harbor Health
@@ -194757,7 +194781,9 @@ vague_facts:
   line: '| World Labs | 2024 | Series A | [^4] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-08-03'
+  resolution_notes: Same — corrected to 2024-09-13.
 - profile: investors/marc-benioff
   profile_name: Marc Benioff
   company: SandboxAQ
@@ -194977,7 +195003,9 @@ vague_facts:
   line: '| World Labs | Series A | 2024 | AI / Spatial intelligence | Active | [^9] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-08-03'
+  resolution_notes: Same — corrected to 2024-09-13.
 - profile: investors/martin-casado
   profile_name: Martin Casado
   company: Ideogram
@@ -215865,7 +215893,9 @@ vague_facts:
   line: '| Groq | Series C | 2021 | AI / Semiconductors | Active | [^24] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved_date: '2026-08-03'
+  resolution_notes: Same as above — Groq Series C 2021-04-14.
 - profile: firms/d1-capital-partners
   profile_name: D1 Capital Partners
   company: Provi

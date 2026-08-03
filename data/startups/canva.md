@@ -97,7 +97,7 @@ Canva is an online graphic design platform founded on January 1, 2013, in Sydney
 | Series A | 2015-10-06 | $15M | Felicis Ventures | Matrix Partners, Blackbird Ventures, VaynerRSE [^6] | $165M |
 | Series B | 2016-09-14 | $15M | Blackbird Ventures | — [^7] | — |
 | Series C | Jan 2018 | A$40M | Sequoia Capital | Blackbird Ventures, Felicis Ventures [^8] | A$1B |
-| Series D (tranche 1) | May 2019 | $70M | Bond, General Catalyst | Felicis Ventures, Blackbird Ventures [^9] | $2.5B |
+| Series D (tranche 1) | 2019-05-20 | $70M | Bond, General Catalyst | Felicis Ventures, Blackbird Ventures [^9] | $2.5B |
 | Series D (tranche 2) | 2019-10-16 | $85M | Bond Capital | General Catalyst, Bessemer Venture Partners, Blackbird, Sequoia China [^10][^12][^can-forbes] | $3.2B |
 | Series E | Apr 2021 | $71M | Dragoneer, T. Rowe Price | Blackbird Ventures, Skip Enterprises [^11] | $15B |
 | Series E (extension) | Jun 2020 | $60M | Blackbird Ventures, Sequoia Capital China | Bond, Felicis Ventures [^3][^13] | $6B |
