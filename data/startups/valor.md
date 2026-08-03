@@ -37,7 +37,7 @@ On June 9, 2026, Valor announced the closing of a Series B round of capital inve
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-06-09 | Series B | Undisclosed | Ladd Wilks, Moncrief family, Lamb family | [^1][^4] |
+| 2026-06-09 | Series B | Not publicly disclosed | Ladd Wilks, Moncrief family, Lamb family | [^1][^4][^5] |
 
 ## What Investors Say
 
@@ -53,3 +53,4 @@ No independently sourced investor quotes found at this time.
 [^2]: The SaaS News, "Valor Closes Series B Round of Capital Investment," June 10, 2026. Accessed June 2026. https://www.thesaasnews.com/news/valor-closes-series-b-round-of-capital-investment-prnewswire-starlocalmedia-com/
 [^3]: citybiz, "Valor Closes Series B Financing to Advance AI Strategy and Pursue Acquisitions," June 2026. Accessed June 2026. https://www.citybiz.co/article/858003/valor-closes-series-b-financing-to-advance-ai-strategy-and-pursue-acquisitions/
 [^4]: Fort Worth Inc., "Valor Raises Series B Funding with Backing from Moncrief Family, Lamb Family and Cisco Executive," June 2026. Accessed June 2026. https://fortworthinc.com/innovators/fort-worth-based-valor-closes-series-b-investment-round-back/
+[^5]: Valor company newsroom, "Valor Closes Series B Round of Capital Investment," June 9, 2026. Accessed August 2026. https://news.onevalor.com/valor-closes-series-b-round-of-capital-investment/ — Primary company source confirming Series B closed on 2026-06-09 with Ladd Wilks, the Moncrief family (Fort Worth), and the Lamb family (Midland) named as backers; total round size not disclosed.
