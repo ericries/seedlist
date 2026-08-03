@@ -44747,3 +44747,85 @@ queue:
   added: '2026-03-17'
   discovered_from: shardul-shah
   source: 'portfolio company of 3 investors: shardul-shah, todd-jackson, arthur-mensch'
+- name: DataTribe
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: balance-theory
+- name: TEDCO
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: balance-theory
+- name: Dan Burns
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Balance Theory
+  discovered_from: balance-theory
+- name: Science Inc.
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dimension-seller-os
+- name: Long Run Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: dimension-seller-os
+- name: Ali Mirzaei
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Dimension
+  discovered_from: dimension-seller-os
+- name: Grit Capital Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brandrank-ai
+- name: QCA Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brandrank-ai
+- name: Engage VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brandrank-ai
+- name: Tech Square Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: brandrank-ai
+- name: Pete Blackshaw
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: BrandRank.AI
+  discovered_from: brandrank-ai
+- name: John Pepper
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Angel
+  discovered_from: brandrank-ai
+- name: Story Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: procode-ai
