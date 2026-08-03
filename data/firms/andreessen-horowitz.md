@@ -307,7 +307,7 @@ The following table includes a16z investments verified through the firm's own po
 | Neo | Seed + Series A (co-led, $100M combined) | 2026-07-20 | Cybersecurity / AI / Enterprise Software | Private (co-led with Bessemer Venture Partners; Craft Ventures and Merlin Ventures participated; Boston-based; founders ex-SentinelOne) [^144][^145][^neosec1] |
 | Cascade | Seed (led via a16z Speedrun, $3.5M; Marcus Segal) | 2026-07-22 | ConstructionTech / AI / SaaS / GTM | Private (NYC-based; Hannia Zia CEO and Joana Ferreira CTO — ex-Google/Amazon; Ada Ventures, Blitzscaling Ventures, Indico Capital Partners, shuckerVC, G2C Ventures, and Snowball VC also participated) [^casc1][^casc2][^casc3] |
 | Atoms | Growth (led, $1.7B) | 2026-07-22 | Robotics / Industrial AI / Physical AI | Private (Travis Kalanick founder; Bain Capital, Fifth Wall, Chemistry, K5 Global, SV Angel, Alpha Square Group, Uber participated; Ben Horowitz joins board) [^atoms1][^atoms2][^atoms3] |
-| Neon (Neon Commerce) | Series A (led, $13M) | 2026-07-22 | Gaming / D2C Commerce / Payments | Private ($27M total raised; SF-based; Renegade Partners and Krafton participated; Chris Faught CEO) [^neon1][^neon2] |
+| Neon (Neon Commerce) | Series A (led, $13M) | 2026-07-22 | Gaming / D2C Commerce / Payments | Private ($27M total raised; SF-based; Renegade Partners and Krafton participated; Chris Faught CEO) [^neon1][^neon2][^neon3] |
 | Etched | Series C (participated, $300M at $10.3B val; Sequoia led) | 2026-07-23 | AI / Semiconductors / Inference | Private (Jane Street, Diffusion Capital, and SK Hynix also participated) [^etchd1][^etchd2] |
 
 *Note: This table includes 87 companies out of 1,076+ total portfolio companies (~8%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
@@ -677,6 +677,8 @@ The following table includes a16z investments verified through the firm's own po
 [^neon1]: Dean Takahashi, "Neon raises $13M Series A to expand direct-to-consumer commerce for games | exclusive," GamesBeat, July 22, 2026. Accessed July 23, 2026. https://gamesbeat.com/neon-raises-13m-series-a-to-expand-direct-to-consumer-commerce-for-games-exclusive/ — Confirms $13M Series A led by Andreessen Horowitz; Renegade Partners and Krafton participated; Chris Faught CEO; $27M total raised.
 
 [^neon2]: Mobidictum, "Neon secures $13M Series A with KRAFTON joining as strategic investor," July 23, 2026. Accessed July 23, 2026. https://mobidictum.com/neon-13m-series-a-krafton/ — Independent games-industry press confirmation.
+
+[^neon3]: Amit Chowdhry, "Neon Raises $13 Million Series A With Investment From KRAFTON, Andreessen Horowitz And Renegade Partners," Pulse 2.0, July 28, 2026. Accessed August 3, 2026. https://pulse2.com/neon-raises-13-million-series-a-with-investment-from-krafton-andreessen-horowitz-and-renegade-partners/ — Third-source press confirmation of the $13M Series A investors and strategic partnership.
 
 [^etchd1]: Julie Bort, "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors," TechCrunch, July 23, 2026. Accessed July 24, 2026. https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/ — Confirms Andreessen Horowitz participated in Etched's $300M Series C at $10.3B valuation (Sequoia led).
 

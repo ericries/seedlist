@@ -117,7 +117,7 @@ The table below lists Kacholia's 30 largest publicly disclosed shareholdings by 
 
 | Company | Date | Stage | Source |
 | --- | --- | --- | --- |
-| Raghu Vamsi Aerospace Group | 2026-07-20 | Private Series B (co-invest with Norwest, Skegen) | [^ashk-rvag-1][^ashk-rvag-2] |
+| Raghu Vamsi Aerospace Group | 2026-07-20 | Private Series B (co-invest with Norwest, Skegen) | [^ashk-rvag-1][^ashk-rvag-2][^ashk-rvag-3] |
 | Aelea Commodities | 2026-03-20 | Bulk buy (BSE; 7,73,400 shares @ ₹120.50; 3.80%) | [^19] |
 | Naman In-Store India | 2026-03-20 | Block sell (NSE; 10,78,400 shares @ ₹53.41; 8.25% exit) | [^19] |
 | Brand Concepts | 2026-03-23 | Bulk sell (NSE; 1,79,838 shares @ ₹217; 1.44%) | [^19] |
@@ -172,3 +172,4 @@ No independently sourced founder testimonials found. This is expected: Kacholia'
 [^23]: Business Today, "Ashish Kacholia just bought big into this defense stock, it's already up 233%" (TechEra Engineering India), October 12, 2025, accessed July 2026. https://www.businesstoday.in/markets/stocks/story/ashish-kacholia-just-bought-big-into-this-defense-stock-its-already-up-233-497855-2025-10-12
 [^ashk-rvag-1]: PR Newswire, "Raghu Vamsi Aerospace Group Raises $40 Million to Scale Precision Manufacturing, Mission Systems and Deep-Tech Platforms," July 20, 2026. Accessed July 25, 2026. https://www.prnewswire.com/news-releases/raghu-vamsi-aerospace-group-raises-40-million-to-scale-precision-manufacturing-mission-systems-and-deep-tech-platforms-302829628.html — Names Ashish Kacholia as a participant in the $40M Series B co-led by Norwest and Skegen Asset Management.
 [^ashk-rvag-2]: Entrackr, "Raghu Vamsi Aerospace Group raises $40 Mn led by Norwest, Skegen Asset Management," July 20, 2026. Accessed July 25, 2026. https://entrackr.com/news/raghu-vamsi-aerospace-group-raises-40-mn-led-by-norwest-skegen-asset-management-12181153 — Independent confirmation of Kacholia's participation.
+[^ashk-rvag-3]: SiliconIndia, "RVAG Raises $40 Million to Expand Aerospace Manufacturing," July 2026. Accessed August 3, 2026. https://www.siliconindia.com/startup/startup-funding/rvag-raises-40-million-to-expand-aerospace-manufacturing-nwid-55071.html — Third independent trade press source confirming $40M Series B round with Norwest and Skegen as co-leads and Ashish Kacholia among named participants alongside Indus Bridge Ventures and GJNX Ventures.
