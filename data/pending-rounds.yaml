@@ -64,14 +64,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Base Power raises another $1B to save the grid using backyard batteries
-  url: https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/
-  source: techcrunch
-  date_found: '2026-08-03'
-  parsed_company: Base Power
-  parsed_amount: $1B
-  parsed_round: null
-  status: pending
 - title: 'The AlleyWatch Startup Daily Funding Report: 8/3/2026'
   url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-3-2026/
   source: alleywatch
@@ -79,38 +71,6 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Mariana Minerals raised $310M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-03'
-  parsed_company: Mariana Minerals
-  parsed_amount: $310M
-  parsed_round: Series B
-  status: pending
-- title: Olix raised $300M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-03'
-  parsed_company: Olix
-  parsed_amount: $300M
-  parsed_round: Series B
-  status: pending
-- title: Horizon3 ai raised $250M Series E
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-03'
-  parsed_company: Horizon3 ai
-  parsed_amount: $250M
-  parsed_round: Series E
-  status: pending
-- title: Zenity raised $125M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-03'
-  parsed_company: Zenity
-  parsed_amount: $125M
-  parsed_round: Series C
   status: pending
 - title: June raised $20M
   url: https://www.axios.com/newsletters/axios-pro-rata
