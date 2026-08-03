@@ -935,7 +935,9 @@ vague_facts:
   line: '| YourStory | Early | ~2014-2015 | — | Media | Active [^5][^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  resolution_note: 'Fact-spec sweep 2026-08-03: YourStory row corrected. Series A closed 2015-08-18 led by Kalaari Capital with Qualcomm Ventures, T V Mohandas Pai (personal capacity), and Ratan Tata participating; total raise "over USD 3M." Aarin Capital NOT named in ANY primary source (Afaqs, Inc42, MediaNama all confirm same investor list — no Aarin Capital). Founder quote reproduced verbatim: "Ratan Tata, Vani Kola (Kalaari Capital), Karthee Madasamy (Qualcomm Ventures) and TV Mohandas Pai have invested in YourStory." Row updated to reflect Mohandas Pais personal investment, not an Aarin Capital deal — Pai co-founded Aarin Capital with Ranjan Pai in 2011 but this was a personal cheque. Row date corrected from ~2014-2015 to 2015-08-18. 3 new footnotes [^ys1] (Afaqs), [^ys2] (Inc42), [^ys3] (MediaNama).'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: Praxify
@@ -5139,7 +5141,9 @@ vague_facts:
   line: ~unknown| Physical Intelligence | Early | — | Robotics/AI | Active | [^7] |
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  resolution_note: 'Fact-spec sweep 2026-08-03: Physical Intelligence round/date for Josh Buckley cannot be pinned to a specific primary source. Physical Intelligence has two rounds on record (Seed 2024-03-12 USD 70M led by Thrive Capital with Khosla, Lux, OpenAI, Sequoia; Series A 2024-11-04 USD 400M with Bezos, Thrive, Lux, OpenAI, Redpoint, Bond, Khosla, Sequoia). Josh Buckley / Buckley Ventures is NOT named in ANY primary source for either round per Maginative (2024-03-12 seed primary press), CNBC (2024-11-04 Series A primary press), and Yahoo/Bloomberg (2024-11 Series A). Buckleys Physical Intelligence exposure is self-reported on joshbuckley.com but never confirmed by any primary press. Row updated to explicit self-reported caveat with 3 new footnotes [^pi1] (Maginative seed), [^pi2] (CNBC Series A), and [^pi3] (Yahoo/Bloomberg Series A) documenting the absence in primary sources.'
 - profile: firms/buckley-ventures
   profile_name: Buckley Ventures
   company: Speak
@@ -24867,7 +24871,9 @@ vague_facts:
   line: ~unknown| Anduril | Early | — | Defense | [^1] |
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  resolution_note: 'Fact-spec sweep 2026-08-03: SciFi VC / Keith Rabois Anduril round/date cannot be pinned to a specific primary source. Anduril has 8 documented rounds (Seed 2017/2019-09-11 USD 17.62M/USD 127M led by Founders Fund through Series H 2026-05-13 USD 5B led by Thrive Capital and a16z). SciFi VC is NOT named as a participant in ANY of these rounds per Tracxn aggregator investor list and Crunchbase seed round record (which documents 7 seed investors led by Founders Fund). SciFi VCs Anduril exposure is self-reported on scifivc.com but never confirmed by any primary press. Row updated to explicit self-reported caveat with 2 new footnotes [^an1] (Tracxn) and [^an2] (Crunchbase seed record) documenting the absence in primary sources.'
 - profile: firms/scifi-vc
   profile_name: SciFi VC
   company: Bland AI

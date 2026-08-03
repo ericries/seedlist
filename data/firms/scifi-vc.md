@@ -81,7 +81,7 @@ Based on 28 verified portfolio investments from publicly available sources:
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-~unknown| Anduril | Early | — | Defense | [^1] |
+| Anduril | Early (round unverified — self-reported only; not named in Anduril primary press) | ~2017 (founding year proxy) | Defense | [^1][^an1][^an2] |
 ~unknown| Anchorage Digital | Early | — | Crypto/Fintech | [^12] |
 ~unknown| Aven | Seed | — | Fintech | [^1] |
 | Bland AI | Series A | 2024-08-28 | AI | [^13][^18] |
@@ -167,3 +167,7 @@ Note: These three testimonials are sourced from the SciFi VC website and therefo
 [^22]: Inc., "Two Ex-Toast Engineers Just Raised $19.5 Million To Solve A Problem Most Small Businesses Don't Know They Have," June 30, 2026. Accessed June 2026. https://www.inc.com/leah-carroll/two-ex-toast-engineers-just-raised-19-5-million-to-solve-a-problem-most-small-businesses-dont-know-they-have/91367470
 [^23]: TechFundingNews, "Lightspeed backs Pie's $23.7M raise to stop small businesses from going invisible in AI search," June 30, 2026. Accessed June 2026. https://techfundingnews.com/lightspeed-pie-23-7m-ai-search-small-business/
 [^24]: Intelligence360, "Pie raises $23.7M to bring AI-powered growth to Main Street businesses," June 30, 2026. Accessed June 2026. https://www.intelligence360.news/pie-raises-23-7m-to-bring-ai-powered-growth-to-main-street-businesses/
+
+[^an1]: Tracxn, "Anduril Funding Rounds & Investors," accessed August 3, 2026. https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/funding-and-investors — Aggregator investor list across all Anduril funding rounds (Seed 2019-09-11 through Series H 2026-05-13). Named investors include Founders Fund, General Catalyst, Andreessen Horowitz, 8VC, Lux Capital, Valor Equity Partners, Elad Gil, Thrive Capital, Sands Capital, and others. SciFi VC / Keith Rabois NOT named as a participant in any documented round.
+
+[^an2]: Crunchbase, "Seed Round - Anduril Industries," accessed August 3, 2026. https://www.crunchbase.com/funding_round/anduril-industries-seed--25afedd8 — Documents Anduril's 2017 seed round of USD 17.62M led by Founders Fund. SciFi VC NOT listed among the 7 seed investors. SciFi VC's Anduril exposure is self-reported from scifivc.com [^1] with no independent round-level primary source available.
