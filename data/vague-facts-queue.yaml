@@ -5603,7 +5603,9 @@ vague_facts:
   line: '| Baseten | Series E | 2026 | AI/Infrastructure | Active | [^53] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  note: 'Fact-spec sweep 2026-08-03: tightened Baseten row from year-only 2026 to full 2026-01-23 with $300M amount, $5B valuation, and full IVP/CapitalG co-lead with NVIDIA $150M check and syndicate (01A, Altimeter, Battery, BOND, BoxGroup, Blackbird, Conviction, Greylock). Verified via 3 primary sources: existing BusinessWire [^53] (2026-01-23), NEW Baseten blog [^baseten-e1] (announcement of the round), NEW TechFundingNews [^baseten-e2]. 2 new footnotes added.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Physical Intelligence
@@ -5759,7 +5761,9 @@ vague_facts:
   line: '| Maybell Quantum | Series A/B | 2024 | Quantum Computing | Acquired | [^6][^7] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  note: 'Fact-spec sweep 2026-08-03: CORRECTED two errors in prior row: (1) round was Series A only (not "A/B") — the March 2024 Cerberus-led round was the Series A; (2) status was wrong — Maybell was NOT acquired; the company remains independent and subsequently raised a $40M Series B led by Addition on 2025-09-03 with Cerberus NOT named as a returning investor. Tightened to 2024-03-04 with $25M amount, Cerberus Ventures lead, and Chris Darby (Cerberus Global Head of Venture Investments) joined the board. Verified via 3+ primary sources: existing Cerberus portfolio page [^6], existing Quantum Insider [^7] (2024-03-04), NEW Cerberus press release [^maybell1] (2024-03-04 investor-side primary), NEW Quantum Insider [^maybell2] (2025-09-03 Series B confirming Cerberus not returning). 2 new footnotes added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Ansa Biotechnologies
@@ -172755,7 +172759,9 @@ vague_facts:
   line: '| Pallet | Series A | 2024 | Logistics / SaaS | Active [^9] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  note: 'Fact-spec sweep 2026-08-03: tightened Pallet row on cedar-capital-group.md from year-only 2024 to full 2024-10-02 Series A ($18M; Bain Capital Ventures led; Bessemer Venture Partners and Activant Capital participating; John Curtius named as "Cedar Capital partner" participating as an angel — Cedar Capital is NOT itself a firm-level participant in the round). Named angels include Zach Frankel, Aman Narang and Steve Fredette (Toast co-founders), Tim Barash (Dutchie CEO), Manuel Kadre (Home Depot board), and John Curtius (Cedar Capital partner). Verified via 3 primary sources: existing BusinessWire [^9] (2024-10-02 primary press release), NEW TechCrunch [^10] (2024-10-02 tier-1 press naming Curtius), NEW Pulse 2.0 [^11] (2024-10-04 independent trade press). 2 new footnotes added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Syntis Bio

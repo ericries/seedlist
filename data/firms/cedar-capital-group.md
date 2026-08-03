@@ -55,7 +55,7 @@ Only investments made under the Cedar Capital Group banner (post-Tiger Global) w
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Pallet | Series A | 2024 | Logistics / SaaS | Active [^9] |
+| Pallet | Series A ($18M; Bain Capital Ventures led; Bessemer Venture Partners, Activant Capital participating; angels include Zach Frankel, Aman Narang and Steve Fredette [Toast co-founders], Tim Barash [Dutchie CEO], Manuel Kadre [Home Depot board], and John Curtius [Cedar Capital partner]) | 2024-10-02 | Logistics / SaaS | Active [^9][^10][^11] |
 
 *Note: This table represents a minimal subset of Cedar's likely portfolio. The firm's Signal by NFX profile indicates 79 investments on record for Curtius [^5], but most of these predate Cedar and were made under Tiger Global. Only 1 investment could be independently verified as a Cedar-era deal.*
 
@@ -78,3 +78,5 @@ No independently sourced founder testimonials found for Cedar Capital Group-back
 [^7]: Startup Story Media, "John Curtius, a former partner at Tiger Global, plans to raise $1 billion for a new venture capital fund," December 2022. https://startupstorymedia.com/insights-john-curtius-a-former-partner-at-tiger-global-plans-to-raise-1-billion-for-a-new-venture-capital-fund/
 [^8]: The Org, "John Curtius — Founder & Managing Partner at Cedar Capital Group," accessed March 2026. https://theorg.com/org/cedarcap/org-chart/john-curtius
 [^9]: BusinessWire, "Pallet Raises $18M Series A to Reinvent Logistics Software," October 2, 2024. https://www.businesswire.com/news/home/20241002015291/en/Pallet-Raises-$18M-Series-A-to-Reinvent-Logistics-Software
+[^10]: TechCrunch, "Pallet uses AI to bring logistics into the 21st century," October 2, 2024. Accessed August 2026. https://techcrunch.com/2024/10/02/pallet-uses-ai-to-bring-logistics-into-the-21st-century/ — Names John Curtius as "Cedar Capital partner" participating as an angel in the $18M Series A led by Bain Capital Ventures.
+[^11]: Pulse 2.0, "Pallet: Transportation And Warehouse Management System Company Raises $18 Million (Series A)," October 4, 2024. Accessed August 2026. https://pulse2.com/pallet-transportation-and-warehouse-management-system-company-raises-18-million-series-a/ — Independent trade press confirmation naming Cedar Capital partner John Curtius among angel investors alongside Bain Capital Ventures (lead), Bessemer Venture Partners, and Activant Capital.
