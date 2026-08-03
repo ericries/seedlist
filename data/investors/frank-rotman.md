@@ -71,9 +71,9 @@ Based on 20 verified investments attributed to Rotman personally (from QED's web
 | SoFi | ~2013 | Early Stage | [^24] |
 | Current | 2017 | Series A | [^14] |
 | True Link Financial | 2017 | Series A | [^25] |
-| HouseCanary | 2018 | Undisclosed (early-stage) | [^26][^33] |
-| Mission Lane | ~2018 | Early Stage | [^27] |
-| Sundae | 2020 | Series A | [^13] |
+| HouseCanary | 2018 (per QED portfolio page; QED NOT independently named in any HouseCanary primary press for Series A 2017-01-12, Series B 2017-09-14, or Series C 2020-02-06 [Morpheus Ventures + Alpha Edison + PSP Growth co-led]) | Undisclosed round (aggregator/portfolio-page-only attribution) | [^26][^33][^34] |
+| Mission Lane | 2019-01-10 (initial participation as LendUp credit-card spin-off, LL Funds + Invus Opportunities anchored; QED participated); 2019-09-16 (Series A, >$200M; Invus Opportunities, LL Funds, QED, Oaktree Capital; Nigel Morris named Chairman) | Series A | [^27][^35][^36] |
+| Sundae | 2020-06-30 | Series A ($16.55M; QED led; Founders Fund, Susa Ventures participated) | [^13][^37] |
 | Provide (fka Lendeavor) | 2020 | Series A/B | [^28] |
 | Hello Alice | 2021 | Series B | [^16] |
 | Collective | 2023 | Growth | [^29] |
@@ -189,3 +189,11 @@ Nigel Morris, QED's Managing Partner and Rotman's co-founder, has stated: "For 3
 [^32]: Smart Humans podcast with Vincent, "Smart Humans: QED's Frank Rotman," accessed March 2026. https://www.withvincent.com/research/smart-humans-qed-frank-rotman
 
 [^33]: QED Investors, "House Canary | Companies," accessed April 2026. https://www.qedinvestors.com/companies/house-canary
+
+[^34]: Pulse 2.0, "HouseCanary: $65 Million Funding And $200 Million In Real Estate Transactions Per Month," February 7, 2020. https://pulse2.com/housecanary-raises-65-million/
+
+[^35]: PR Newswire, "LendUp Creates Stand-Alone Company To Accelerate Expansion Of Its Growing Credit Card Business, Fueled By New Capital Injection," January 10, 2019. https://www.prnewswire.com/news-releases/lendup-creates-stand-alone-company-to-accelerate-expansion-of-its-growing-credit-card-business-fueled-by-new-capital-injection-300776163.html
+
+[^36]: PR Newswire, "Mission Lane Names New CEO, Raises Half Billion Dollars In Financing," September 16, 2019. https://www.prnewswire.com/news-releases/mission-lane-names-new-ceo-raises-half-billion-dollars-in-financing-300917284.html
+
+[^37]: Inman Real Estate News, "Real Estate Marketplace Sundae Earns $16.55M In Series A Funding," June 30, 2020. https://www.inman.com/2020/06/30/real-estate-marketplace-sundae-earns-16-55m-in-series-a-funding/

@@ -71962,7 +71962,9 @@ vague_facts:
   line: '| HouseCanary | 2018 | Undisclosed (early-stage) | [^26][^33] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-08-03
+  note: 'Fact-spec sweep 2026-08-03: QED Investors is listed on QED''s own portfolio page as investing in HouseCanary in 2018, but QED is NOT independently named in any primary press for HouseCanary''s Series A (2017-01-12), Series B (2017-09-14 $31M PSP Growth-led with Alpha Edison), or Series C (2020-02-06 $65M Morpheus Ventures + Alpha Edison + PSP Growth co-led). Verified via 3 primary sources: PR Newswire Series B (2017-09-14), Pulse 2.0 Series C (2020-02-07), and MPAmag Series C — none name QED. This is aggregator/portfolio-page-only attribution consistent with the SPV/secondary pattern seen elsewhere. Row annotated to disclose this. Added [^34] Pulse 2.0 as secondary confirmation. Also updated Portfolio row on frank-rotman.md with primary-source disclosure.'
 - profile: investors/frank-rotman
   profile_name: Frank Rotman
   company: Mission Lane
@@ -71972,7 +71974,9 @@ vague_facts:
   line: '| Mission Lane | ~2018 | Early Stage | [^27] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  note: 'Fact-spec sweep 2026-08-03: tightened row from ''~2018 | Early Stage'' to two-part disclosure — QED initially participated on 2019-01-10 in the LendUp credit-card spin-off capital raise (LL Funds + Invus Opportunities anchored, QED joined) per PR Newswire release [^35]; then QED participated in Mission Lane''s formal Series A of >$200M on 2019-09-16 alongside Invus Opportunities, LL Funds, and Oaktree Capital Management, with Nigel Morris (QED Managing Partner) named Chairman, per PR Newswire release [^36]. The ''~2018'' date in the previous row was incorrect — Mission Lane was legally created as a spin-off in December 2018, but QED''s first investment was January 2019, and the formal Series A was September 2019. Also updated QED Investors firm profile Portfolio row with matching disclosure and added [^47]/[^48] footnotes.'
 - profile: investors/frank-rotman
   profile_name: Frank Rotman
   company: Sundae
@@ -71982,7 +71986,9 @@ vague_facts:
   line: '| Sundae | 2020 | Series A | [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  note: 'Fact-spec sweep 2026-08-03: tightened row from ''2020 | Series A'' to ''2020-06-30 | Series A ($16.55M; QED led; Founders Fund + Susa Ventures participated)''. Verified via 3 primary sources: PRWeb Sundae press release [^13] (2020-06-30), Inman Real Estate News [^37] (2020-06-30), and existing HousingWire reference. Added Inman as new footnote [^37].'
 - profile: investors/frank-rotman
   profile_name: Frank Rotman
   company: Provide (fka Lendeavor)
@@ -168044,7 +168050,8 @@ vague_facts:
   line: '| 2026-05-01 | Seed | Undisclosed | Delphinus Venture Capital | Rockstart, Aller Aqua [^1][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_note: 'Fact-spec sweep 2026-08-01: Decameal Seed round amount is genuinely undisclosed across all available sources (EU-Startups, BeBeez International, N24, Delphinus Venture Capital portfolio page, Rockstart, Decameal company website). All primary and secondary sources explicitly state "the exact amount remains undisclosed." A prior €700K pre-Seed round is disclosed (per Signalbase/LeadsOnTrees, 2025), but the 2026-05-01 Seed round amount cannot be pinned without fabrication. No update to profile.'
 - profile: startups/decart
   profile_name: Decart
   company: 2025-08
@@ -170098,7 +170105,7 @@ vague_facts:
   line: '| 2026-06-11 | Equity | $24M | Undisclosed | Eleven undisclosed investors [^1][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: startups/orangeqs
   profile_name: OrangeQS
   company: '2026-04-21'
@@ -170388,7 +170395,7 @@ vague_facts:
   line: '| 2026-04-24 | Series A | $11.2M | Undisclosed | Undisclosed [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: investigating
 - profile: startups/pearl-health
   profile_name: Pearl Health
   company: '2026-07-08'

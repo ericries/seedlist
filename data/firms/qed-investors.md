@@ -147,7 +147,7 @@ QED claims to invest across the full fintech stack, but the verified portfolio s
 | Current | Series A | 2017 | Consumer Finance | Active | [^28] |
 | Current | Series E | 2026-06-11 | Consumer Finance | Active | [^40][^41][^42] |
 | Caribou | Incubation | 2016 | Lending/Auto | Active (Unicorn) | [^29] |
-| Mission Lane | Series A | 2019 | Lending | Active | [^30] |
+| Mission Lane | Series A (>$200M; Invus Opportunities, LL Funds, QED, Oaktree Capital participated; Nigel Morris named Chairman) | 2019-09-16 (initial January 10, 2019 QED investment during LendUp spin-off) | Lending | Active | [^30][^47][^48] |
 | Ocrolus | Series A | 2018 | Infrastructure | Active | [^31] |
 | Kavak | Series A | 2019 | E-commerce/Auto | Active (Unicorn) | [^32] |
 | Bitso | Series B (Co-led) | 2020 | Web3/Crypto | Active (Unicorn) | [^33] |
@@ -245,3 +245,7 @@ This table represents 27 portfolio companies (28 entries including the Current S
 [^44]: FinTech Global, "Augustus lands $180m Series B to dollarise the world," July 21, 2026. Accessed July 22, 2026. https://fintech.global/2026/07/21/augustus-lands-180m-series-b-to-dollarise-the-world/
 [^45]: CoinDesk, "Stablecoin bank Augustus raises $180 million to build a clearing bank for the AI era," July 21, 2026. Accessed July 30, 2026. https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era
 [^46]: The Block, "Augustus raises $180 million Series B at $1 billion valuation to build the 'Global Dollar Bank'," July 21, 2026. Accessed July 30, 2026. https://www.theblock.co/post/409119/augustus-raises-180-million-series-b-global-dollar-bank
+
+[^47]: PR Newswire, "LendUp Creates Stand-Alone Company To Accelerate Expansion Of Its Growing Credit Card Business, Fueled By New Capital Injection," January 10, 2019. Accessed August 2026. https://www.prnewswire.com/news-releases/lendup-creates-stand-alone-company-to-accelerate-expansion-of-its-growing-credit-card-business-fueled-by-new-capital-injection-300776163.html
+
+[^48]: PR Newswire, "Mission Lane Names New CEO, Raises Half Billion Dollars In Financing," September 16, 2019. Accessed August 2026. https://www.prnewswire.com/news-releases/mission-lane-names-new-ceo-raises-half-billion-dollars-in-financing-300917284.html
