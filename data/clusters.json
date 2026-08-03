@@ -7799,7 +7799,7 @@
       "name": "The OGs",
       "tagline": "Investing since before the dot-com bubble burst. They've seen every cycle and are still writing checks.",
       "type": "curated",
-      "size": 25,
+      "size": 26,
       "members": [
         {
           "slug": "andy-rachleff",
@@ -7922,6 +7922,11 @@
         {
           "slug": "lee-ainslie",
           "name": "Lee Ainslie"
+        },
+        {
+          "slug": "travis-kalanick",
+          "name": "Travis Kalanick",
+          "firm": 10100
         }
       ]
     },
@@ -8215,7 +8220,7 @@
       "name": "Not Afraid of Regulators",
       "tagline": "They invest where others fear to tread \u2014 fintech, healthcare, crypto, insurance. Regulatory complexity is a moat, not a bug.",
       "type": "curated",
-      "size": 18,
+      "size": 19,
       "members": [
         {
           "slug": "andrew-dudum",
@@ -8302,6 +8307,10 @@
         {
           "slug": "chris-sacca",
           "name": "Chris Sacca"
+        },
+        {
+          "slug": "vijay-shekhar-sharma",
+          "name": "Vijay Shekhar Sharma"
         }
       ]
     },
@@ -8310,7 +8319,7 @@
       "name": "The AI True Believers",
       "tagline": "Invested in AI before it was cool \u2014 and doubled down after. Their portfolios include the companies building the foundation models.",
       "type": "curated",
-      "size": 49,
+      "size": 50,
       "members": [
         {
           "slug": "byron-deeter",
@@ -8544,6 +8553,11 @@
         {
           "slug": "ethan-kurzweil",
           "name": "Ethan Kurzweil"
+        },
+        {
+          "slug": "arthur-mensch",
+          "name": "Arthur Mensch",
+          "firm": "mistral-ai"
         }
       ]
     },
@@ -8649,7 +8663,7 @@
       "name": "The Fintech Mafia",
       "tagline": "Deep in the financial plumbing. They backed multiple fintech unicorns and understand payments, lending, and banking infrastructure cold.",
       "type": "curated",
-      "size": 37,
+      "size": 39,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -8820,6 +8834,14 @@
           "slug": "frank-rotman",
           "name": "Frank Rotman",
           "firm": "qed-investors"
+        },
+        {
+          "slug": "alok-bansal",
+          "name": "Alok Bansal"
+        },
+        {
+          "slug": "vijay-shekhar-sharma",
+          "name": "Vijay Shekhar Sharma"
         }
       ]
     },
@@ -8828,7 +8850,7 @@
       "name": "The Consumer Whisperers",
       "tagline": "They see consumer behavior shifts before anyone else. Portfolios full of the apps and marketplaces that changed daily life.",
       "type": "curated",
-      "size": 38,
+      "size": 40,
       "members": [
         {
           "slug": "alfred-lin",
@@ -9014,6 +9036,16 @@
         {
           "slug": "lee-linden",
           "name": "Lee Linden"
+        },
+        {
+          "slug": "travis-kalanick",
+          "name": "Travis Kalanick",
+          "firm": 10100
+        },
+        {
+          "slug": "othman-laraki",
+          "name": "Othman Laraki",
+          "firm": "color"
         }
       ]
     },
@@ -9659,7 +9691,7 @@
       "name": "The Israel Connection",
       "tagline": "Investing in or from Israel's legendary startup ecosystem. Deep ties to Unit 8200 alumni, cybersecurity, and deep tech.",
       "type": "curated",
-      "size": 13,
+      "size": 14,
       "members": [
         {
           "slug": "assaf-rappaport",
@@ -9725,6 +9757,11 @@
           "slug": "avishai-abrahami",
           "name": "Avishai Abrahami",
           "firm": ""
+        },
+        {
+          "slug": "nir-zohar",
+          "name": "Nir Zohar",
+          "firm": "independent"
         }
       ]
     },
@@ -9733,7 +9770,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 42,
+      "size": 44,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9926,6 +9963,16 @@
         {
           "slug": "des-traynor",
           "name": "Des Traynor"
+        },
+        {
+          "slug": "koen-bok",
+          "name": "Koen Bok",
+          "firm": "framer"
+        },
+        {
+          "slug": "arthur-mensch",
+          "name": "Arthur Mensch",
+          "firm": "mistral-ai"
         }
       ]
     },
@@ -10017,7 +10064,7 @@
       "name": "Founders Who Became VCs",
       "tagline": "They built companies first, then crossed to the other side of the table. They know what it's like to be in the founder's seat.",
       "type": "curated",
-      "size": 158,
+      "size": 166,
       "members": [
         {
           "slug": "ali-rowghani",
@@ -10738,6 +10785,44 @@
           "slug": "anshu-sharma",
           "name": "Anshu Sharma",
           "firm": ""
+        },
+        {
+          "slug": "travis-kalanick",
+          "name": "Travis Kalanick",
+          "firm": 10100
+        },
+        {
+          "slug": "alok-bansal",
+          "name": "Alok Bansal"
+        },
+        {
+          "slug": "zach-lloyd",
+          "name": "Zach Lloyd",
+          "firm": "independent"
+        },
+        {
+          "slug": "nir-zohar",
+          "name": "Nir Zohar",
+          "firm": "independent"
+        },
+        {
+          "slug": "vijay-shekhar-sharma",
+          "name": "Vijay Shekhar Sharma"
+        },
+        {
+          "slug": "koen-bok",
+          "name": "Koen Bok",
+          "firm": "framer"
+        },
+        {
+          "slug": "david-cramer",
+          "name": "David Cramer",
+          "firm": "sentry"
+        },
+        {
+          "slug": "arthur-mensch",
+          "name": "Arthur Mensch",
+          "firm": "mistral-ai"
         }
       ]
     },
@@ -11652,7 +11737,7 @@
       "name": "The Dev Tools Obsessives",
       "tagline": "They back the picks and shovels every developer reaches for. Open source, infrastructure, and the building blocks of modern software.",
       "type": "curated",
-      "size": 30,
+      "size": 33,
       "members": [
         {
           "slug": "dalton-caldwell",
@@ -11795,6 +11880,21 @@
           "slug": "anshu-sharma",
           "name": "Anshu Sharma",
           "firm": ""
+        },
+        {
+          "slug": "zach-lloyd",
+          "name": "Zach Lloyd",
+          "firm": "independent"
+        },
+        {
+          "slug": "koen-bok",
+          "name": "Koen Bok",
+          "firm": "framer"
+        },
+        {
+          "slug": "david-cramer",
+          "name": "David Cramer",
+          "firm": "sentry"
         }
       ]
     },
@@ -12743,7 +12843,7 @@
       "name": "The Engineer-Investors",
       "tagline": "They wrote code before they wrote checks. Engineers and CTOs who became investors \u2014 they can read your architecture docs, not just your pitch deck.",
       "type": "curated",
-      "size": 52,
+      "size": 55,
       "members": [
         {
           "slug": "adam-dangelo",
@@ -12993,6 +13093,21 @@
           "slug": "anshu-sharma",
           "name": "Anshu Sharma",
           "firm": ""
+        },
+        {
+          "slug": "zach-lloyd",
+          "name": "Zach Lloyd",
+          "firm": "independent"
+        },
+        {
+          "slug": "koen-bok",
+          "name": "Koen Bok",
+          "firm": "framer"
+        },
+        {
+          "slug": "david-cramer",
+          "name": "David Cramer",
+          "firm": "sentry"
         }
       ]
     },
@@ -13113,7 +13228,7 @@
       "name": "The Sunbelt Migration",
       "tagline": "They left San Francisco for Miami, Austin, and beyond \u2014 and brought their deal flow with them. The investors proving venture capital doesn't need a 94025 zip code.",
       "type": "curated",
-      "size": 10,
+      "size": 11,
       "members": [
         {
           "slug": "bill-gurley",
@@ -13164,6 +13279,11 @@
           "slug": "marc-lore",
           "name": "Marc Lore",
           "firm": "vcp-ventures"
+        },
+        {
+          "slug": "travis-kalanick",
+          "name": "Travis Kalanick",
+          "firm": 10100
         }
       ]
     },
@@ -13318,7 +13438,7 @@
       "name": "The Global South Scouts",
       "tagline": "They saw the next billion users before everyone else \u2014 investing in LatAm, India, and Southeast Asia when the rest of VC was stuck in SF.",
       "type": "curated",
-      "size": 26,
+      "size": 29,
       "members": [
         {
           "slug": "kunal-shah",
@@ -13440,6 +13560,19 @@
         {
           "slug": "david-velez",
           "name": "David V\u00e9lez"
+        },
+        {
+          "slug": "alok-bansal",
+          "name": "Alok Bansal"
+        },
+        {
+          "slug": "vijay-shekhar-sharma",
+          "name": "Vijay Shekhar Sharma"
+        },
+        {
+          "slug": "anshu-sharma",
+          "name": "Anshu Sharma",
+          "firm": "skyflow"
         }
       ]
     },
@@ -13971,7 +14104,7 @@
       "name": "The Indian Operator Mafia",
       "tagline": "Built India's first unicorns, now writing checks to the country's next generation of founders.",
       "type": "curated",
-      "size": 33,
+      "size": 35,
       "members": [
         {
           "slug": "rohit-bansal",
@@ -14124,6 +14257,14 @@
         {
           "slug": "vani-kola",
           "name": "Vani Kola"
+        },
+        {
+          "slug": "alok-bansal",
+          "name": "Alok Bansal"
+        },
+        {
+          "slug": "vijay-shekhar-sharma",
+          "name": "Vijay Shekhar Sharma"
         }
       ],
       "id": "curated-49"
