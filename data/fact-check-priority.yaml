@@ -5391,3 +5391,27 @@ priority:
   type: investor
   reason: co-founder Safe Superintelligence; USD 5B Nvidia investment (2026-07-27)
   added: 2026-08-03
+- slug: khosla-ventures
+  type: firm
+  reason: "led Mariana Minerals Series B (2026-08-03), $310M at $1.5B valuation"
+  added: 2026-08-03
+- slug: andreessen-horowitz
+  type: firm
+  reason: "participated in Mariana Minerals Series B (2026-08-03), $310M"
+  added: 2026-08-03
+- slug: breakthrough-energy-ventures
+  type: firm
+  reason: "participated in Mariana Minerals Series B (2026-08-03), $310M"
+  added: 2026-08-03
+- slug: greenoaks-capital
+  type: firm
+  reason: "participated in Mariana Minerals Series B (2026-08-03), $310M"
+  added: 2026-08-03
+- slug: time-ventures
+  type: firm
+  reason: "led June AI Pre-Seed (2026-08-03), $20M"
+  added: 2026-08-03
+- slug: marc-benioff
+  type: investor
+  reason: "led June AI Pre-Seed via TIME Ventures (2026-08-03), $20M"
+  added: 2026-08-03

@@ -201,6 +201,7 @@ The following table includes a16z investments verified through the firm's own po
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Mariana Minerals | Series B (participated; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private [^mm-a16z] |
 | Facebook (Meta) | Growth | 2010 | Consumer / Social | Public (IPO 2012) [^1][^10] |
 | Instagram | Early | 2010 | Consumer / Social | Acquired by Facebook (2012) [^10] |
 | Skype | Growth | 2011 | Communications | Acquired by Microsoft (2011) [^1] |
@@ -369,6 +370,8 @@ The following table includes a16z investments verified through the firm's own po
 *Note: The Ghodsi quotes are from an independently reported profile (Not Boring by Packy McCormick). The Chesky and Silbermann quotes are from independent Fortune reporting. The Jordan quote is included for context but is an investor quote, not a founder quote. No independently sourced negative or critical founder testimonials were found in this research pass. a16z's own website does not feature a dedicated testimonials section.*
 
 ## Sources
+
+[^mm-a16z]: Andreessen Horowitz, "Investing in Mariana Minerals," July 21, 2025. Accessed August 2026. https://a16z.com/announcement/investing-in-mariana-minerals/
 
 [^1]: "Andreessen Horowitz." Wikipedia. https://en.wikipedia.org/wiki/Andreessen_Horowitz. Accessed March 2026.
 

@@ -83,6 +83,7 @@ Based on 35 verified investments with sufficient detail for analysis:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Mariana Minerals | Series B (participant; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private | [^mm-go] |
 | Coupang | Growth | 2014 | E-commerce | Public (NYSE: CPNG) | [^11] |
 | Flipkart | Growth | 2014 | E-commerce | Acquired (Walmart) | [^37] |
 | OYO | Series A | 2014 | Hospitality | Active | [^16] |
@@ -144,6 +145,8 @@ Parker Conrad, CEO of Rippling, on the SVB crisis deal: During the March 2023 Si
 No additional independently sourced founder testimonials from portfolio company CEOs were found beyond the quotes above. Henry Kravis (KKR co-founder and early Greenoaks LP) has described Mehta as "extremely disciplined" with "exceptional timing" [^3], but this is an investor testimonial rather than a portfolio founder quote.
 
 ## Sources
+
+[^mm-go]: PR Newswire, "Mariana Minerals Raises $310 Million Series B Led by Khosla Ventures to Accelerate Critical Minerals Production," August 3, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/mariana-minerals-raises-310-million-series-b-led-by-khosla-ventures-to-accelerate-critical-minerals-production-302840889.html
 
 [^1]: Greenoaks, VCSheet fund breakdown, accessed March 2026. https://www.vcsheet.com/fund/greenoaks
 [^2]: Benny Peretz, Crunchbase person profile, accessed March 2026. https://www.crunchbase.com/person/benjamin-peretz

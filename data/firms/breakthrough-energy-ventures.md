@@ -108,6 +108,7 @@ This table represents approximately 25% of BEV's 120+ portfolio organizations. O
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Commonwealth Fusion Systems | Series A ($115M, participant); Series B ($1.8B, participant); Series B2 ($863M, existing investor increased); 2026-07-30 $1B round (investors not named) | 2019-06-27; 2021-12-01; 2025-08-28; 2026-07-30 | Fusion Energy | Active [^11][^17][^cfs-a][^cfs-b2][^cfs-jul26a][^cfs-jul26b] |
+| Mariana Minerals | Series B (participant; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private [^mm-bev] |
 | QuantumScape | Early Stage | ~2018 | Solid-State Batteries | Public (NYSE: QS) [^19] |
 | Impossible Foods | Early Stage | ~2017 | Alternative Protein | Active [^5] |
 | IonQ | Early Stage | ~2018 | Quantum Computing | Public (NYSE: IONQ) [^5] |
@@ -169,6 +170,8 @@ Val Miftakhov, CEO of ZeroAvia, on choosing BEV as an investor: "They're working
 No additional independently sourced founder testimonials found. The firm's portfolio companies frequently acknowledge BEV's investment in press releases, but detailed founder accounts of the working relationship are scarce in public sources.
 
 ## Sources
+
+[^mm-bev]: PR Newswire, "Mariana Minerals Raises $310 Million Series B Led by Khosla Ventures to Accelerate Critical Minerals Production," August 3, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/mariana-minerals-raises-310-million-series-b-led-by-khosla-ventures-to-accelerate-critical-minerals-production-302840889.html
 
 [^1]: Caldwell Partners, "Breakthrough Energy Ventures (BEV)," accessed March 2026. https://www.caldwell.com/executive-search-industry-insights/breakthrough-energy-ventures-bev/
 [^2]: Republic of Green, "Breakthrough Energy Ventures in Kirkland," accessed March 2026. https://directory.republicofgreen.com/washington/kirkland/breakthrough-energy-ventures

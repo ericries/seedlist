@@ -101,6 +101,7 @@ Note: Some companies span categories (e.g., Planet Labs serves both space and cl
 | Laurel | Series C ($100M) | 2025-06-10 | AI time intelligence | [^24][^32][^33] |
 | Somnee / StimScience | Seed ($10M) | 2025 | Sleep neurotech | [^25] |
 | webAI | Series A extension | 2026 | Distributed AI | [^26] |
+| June AI | Pre-Seed (led, $20M) | 2026-08-03 | AI / Enterprise Software | [^june-tv] |
 
 This table represents a subset of TIME Ventures' claimed 200+ investments. Only investments with independent source verification are included. Many investments, particularly smaller angel checks, are not publicly disclosed.
 
@@ -125,6 +126,8 @@ Justin Vandehey, founder of Growbot, described his experience pitching Benioff a
 No additional independently sourced founder testimonials from TIME Ventures portfolio company founders were found. Benioff's portfolio companies have not extensively shared public testimonials about working with TIME Ventures specifically, as distinct from Salesforce Ventures.
 
 ## Sources
+
+[^june-tv]: TechCrunch, "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem," August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
 
 [^1]: Crunchbase, "Time Ventures — Company Profile & Funding," accessed March 2026. https://www.crunchbase.com/organization/time-ventures
 [^2]: Wikipedia, "Marc Benioff," accessed March 2026. https://en.wikipedia.org/wiki/Marc_Benioff

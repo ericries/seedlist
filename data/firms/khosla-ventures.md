@@ -131,6 +131,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Mariana Minerals | Series B (led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private [^mm-krv-b] |
 | OpenAI | OpenAI LP capped-profit launch ($50M, ~5%, $1B valuation) | 2019-03-11 | AI | Private [^14][^15][^38][^39] |
 | DoorDash | Seed | 2013 | Consumer / Delivery | Public (IPO 2020) [^22][^23] |
 | Instacart | Seed | ~2012 | Consumer / Delivery | Public (IPO 2023) [^22][^24] |
@@ -287,6 +288,8 @@ The following table includes companies from the Khosla Ventures portfolio page [
 *Note: All founder quotes above are sourced from Khosla Ventures' own website, which is a biased source — these are the firm's selected testimonials. No independently sourced founder testimonials were found during this research pass despite dedicated searches. The firm's #1 ranking in the 2023 Founder's Choice VC survey [^18] provides independent validation of founder satisfaction, but individual independent quotes were not located.*
 
 ## Sources
+
+[^mm-krv-b]: PR Newswire, "Mariana Minerals Raises $310 Million Series B Led by Khosla Ventures to Accelerate Critical Minerals Production," August 3, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/mariana-minerals-raises-310-million-series-b-led-by-khosla-ventures-to-accelerate-critical-minerals-production-302840889.html
 
 [^1]: "Vinod Khosla." Khosla Ventures team page. https://www.khoslaventures.com/team/vinod-khosla. Accessed March 2026.
 

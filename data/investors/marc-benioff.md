@@ -3,9 +3,9 @@ check_size: $10K-$500K
 firm: time-ventures
 last_researched: 2026-03-19
 last_verified_investment:
-  company: Sumble
-  date: 2025-10-22
-  round: Series A
+  company: June AI
+  date: 2026-08-03
+  round: Pre-Seed
 location: San Francisco, California
 name: Marc Benioff
 role: Founder
@@ -122,6 +122,7 @@ Based on 24 verified unicorn investments tracked by Arete Index and 10 recent in
 | World Labs | 2024 | Series A | [^4] |
 | SandboxAQ | 2024 | Venture | [^4] |
 | Sumble | 2025-10-22 | Series A | [^9][^10][^11] |
+| June AI | 2026-08-03 | Pre-Seed (led via TIME Ventures, $20M) | [^june-mb] |
 | Commonwealth Fusion Systems | ~2021 | Venture | [^2] |
 | Universal Hydrogen | ~2021 | Venture | [^2] |
 | NCX | ~2021 | Venture | [^2] |
@@ -145,6 +146,8 @@ On focus: "Realize that you won't be able to bring the same focus to everything 
 No independently sourced founder testimonials found.
 
 ## Sources
+
+[^june-mb]: TechCrunch, "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem," August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
 
 [^1]: Hustle Fund, "Marc Benioff Investments: What Early-Stage VCs Can Learn from the Salesforce Playbook," accessed March 2026. https://www.hustlefund.vc/post/marc-benioff-investments-what-early-stage-vcs-can-learn-from-the-salesforce-playbook
 [^2]: Crunchbase, "Time Ventures — Company Profile & Funding," accessed March 2026. https://www.crunchbase.com/organization/time-ventures
