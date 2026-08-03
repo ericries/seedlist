@@ -5094,7 +5094,9 @@ vague_facts:
   line: '| Meroka | Seed | 2024 | Healthcare/Medical Group | Active | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  resolution_note: 'Fact-spec sweep 2026-08-03: BTV firm profile Meroka row already resolved in prior sweep with 2025-09-03, $6M co-lead with Slow Ventures + 8VC, 3 primary sources (BusinessWire, Forbes, Pulse 2.0). Queue entry stale; verified against current firm profile line which already reads "| Meroka | Seed (co-led with Slow Ventures, $6M; 8VC and other investors participated) | 2025-09-03 | Healthcare/Independent Physician Practices | Active | [^1][^mer1][^mer2][^mer3] |".'
 - profile: firms/better-tomorrow-ventures
   profile_name: Better Tomorrow Ventures
   company: InstaSwitch
@@ -5124,7 +5126,9 @@ vague_facts:
   line: '| Canva | Growth ($70M round, BOND debut investment) | 2019 | Design/Consumer | Active | [^9][^10][^11] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  resolution_note: 'Fact-spec sweep 2026-08-03: tightened BOND Canva row from year-only 2019 to full 2019-05-20 with $70M at $2.5B valuation and co-investor detail (General Catalyst, Felicis, Blackbird). Also tightened Canva startup profile Funding History Series D tranche 1 row from "May 2019" to full "2019-05-20". Verified via existing TechCrunch [^10] (2019-05-20 primary contemporaneous press) and BOND [^9], [^11] citations. Round was BONDs debut investment as Mary Meekers post-KP fund. Startup profile also had corroborating detail already in place.'
 - profile: firms/bond
   profile_name: BOND
   company: Applied Intuition
@@ -87179,7 +87183,9 @@ vague_facts:
   line: '| Meroka | Seed | 2024 | Healthcare / Fintech | Seed | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  resolution_note: 'Fact-spec sweep 2026-08-03: tightened Jake Gibson Meroka row from year-only 2024 to full 2025-09-03 with $6M co-lead detail (BTV + Slow Ventures; 8VC and other investors participated). Verified via 3 primary sources: BusinessWire (2025-09-03 primary press release), Forbes/Shimite Obialo (2025-09-04), and Pulse 2.0 (2025-09-07). Added [^8][^9][^10] footnotes to Jake Gibson profile Portfolio and updated last_verified_investment date frontmatter from 2024 to 2025-09-03.'
 - profile: investors/jake-gibson
   profile_name: Jake Gibson
   company: Mendel
