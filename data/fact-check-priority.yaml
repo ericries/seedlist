@@ -1,4 +1,16 @@
 priority:
+- slug: nea
+  type: firm
+  reason: "appeared in Horizon3.ai Series E (2026-08-03), $250M co-led with NightDragon at $2B+ valuation"
+  added: 2026-08-03
+- slug: craft-ventures
+  type: firm
+  reason: "returning investor in Horizon3.ai Series E (2026-08-03), $250M co-led by NightDragon and NEA"
+  added: 2026-08-03
+- slug: acrew-capital
+  type: firm
+  reason: "new investor in Horizon3.ai Series E (2026-08-03), $250M at $2B+ valuation"
+  added: 2026-08-03
 - slug: insight-partners
   type: firm
   reason: 'Fact-spec sweep 2026-07-31: (1) Verified Spur Intelligence USD 200M investment (2026-07-28, Insight-led) via 3 primary sources (Spur press release, TechCrunch, FinSMEs); added third source. Row already accurate; upgraded citation count. (2) CORRECTED FALSE ATTRIBUTION: CAIS Series D was previously listed as ''led'' by Insight Partners on this profile — but 3 primary sources (CAIS press release, Fintech Global, businesswire) confirm Vista Equity Partners led, and Insight Partners is NOT a participant or existing shareholder. REMOVED CAIS row from insight-partners.md Portfolio table and deleted orphan cais1/cais2 footnotes.'

@@ -144,6 +144,7 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | Samepage | Seed (co-led with Freestyle VC and Glasswing Ventures) | 2026-06-25 | AI / Product Management / SaaS | Active — $4.85M, with angels Justin Kan and Matt Mullenweg [^22][^23][^24] |
 | 8090 Labs | Series A (participant) | 2026-06-29 | AI / Enterprise / AI Coding | Active — $135M, Salesforce Ventures led; WndrCo, The Production Board, LAUNCH also participated; angels Nikesh Arora, Adam D'Angelo. Chamath Palihapitiya became CEO. [^25][^26][^27] |
 | Neo | Seed + Series A (participant) | 2026-07-20 | Cybersecurity / AI / Enterprise Software | Active — $100M combined seed + Series A co-led by Andreessen Horowitz and Bessemer Venture Partners; Merlin Ventures also participated; Boston HQ; founders ex-SentinelOne. [^28][^29] |
+| Horizon3.ai | Series E (participant, returning) | 2026-08-03 | Cybersecurity / Autonomous Pentesting | Active — $250M co-led by NightDragon and NEA at $2B+ valuation; Acrew, Blue Cloud, Demeter, EDBI, PSG, SAIC, Sapphire new investors; Craft, Prosperity7, Qualcomm, Ridge, SignalFire returning. [^33][^34] |
 
 *This table represents a partial sample. Craft Ventures has invested in approximately 255 companies total [^7].*
 
@@ -207,3 +208,7 @@ Snehal Antani, Co-Founder & CEO of Horizon3.ai: "What's been amazing working wit
 [^28]: SecurityWeek, "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software," July 20, 2026. Accessed July 21, 2026. https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/ — Confirms Craft Ventures as participant in Neo's $100M combined seed + Series A, co-led by Andreessen Horowitz and Bessemer Venture Partners; Merlin Ventures also participated.
 
 [^29]: GlobeNewswire (Neo company press release), "Neo Launches with $100M to Secure AI Software Across the Enterprise," July 20, 2026. Accessed July 21, 2026. https://www.globenewswire.com/news-release/2026/07/20/3329638/0/en/Neo-Launches-with-100M-to-Secure-AI-Software-Across-the-Enterprise.html — Official Neo press release; lists Craft Ventures as one of four participating firms.
+
+[^33]: "Horizon3 Raises $250M Series E at $2B+ Valuation to Lead the 'AI vs. AI' Cybersecurity Era," Horizon3.ai press release, August 3, 2026. Accessed August 2026. https://horizon3.ai/news/press-release/horizon3-raises-250m-series-e-at-2b-valuation-to-lead-the-ai-vs-ai-cybersecurity-era/ — Lists Craft Ventures among returning investors participating in the $250M Series E co-led by NightDragon and NEA at $2B+ valuation.
+
+[^34]: "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate," TechCrunch, August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/ — Independent TechCrunch confirmation of the $250M Series E, valuation, co-leads, and returning investor list including Craft Ventures.

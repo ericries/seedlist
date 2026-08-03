@@ -185,6 +185,7 @@ The following table includes investments made both through Acrew Capital funds (
 | Writer | Early–Growth | ~2021 | Data & Security / AI | Active (Unicorn 2024) | [^13] |
 | Zamp | Growth ($30M, led) | 2026-04-28 | Fintech / Sales Tax | Active | [^25] |
 | Novellia | Series A (participated, $18M) | 2026-06-02 | Health / Real-World Data | Active | [^28][^29][^30] |
+| Horizon3.ai | Series E (participant, new investor) | 2026-08-03 | Cybersecurity / Autonomous Pentesting | Active — $250M at $2B+ valuation, co-led by NightDragon and NEA. | [^53][^54] |
 
 Note: Years marked with "~" are approximate, based on founding year or estimated investment timing. Many investments originated at Aspect Ventures (pre-2019) and were continued at Acrew. This table represents approximately 46% of Tracxn's reported 142 investments; the remainder could not be independently verified from public sources.
 
@@ -303,3 +304,7 @@ Note: The above testimonials are sourced from the Acrew Capital website, which r
 [^44]: Lowenstein Sandler LLP, "Lowenstein Represents Acrew Capital in Series A Extension Round in PropTech Startup Nomad Homes," accessed July 2026. https://www.lowenstein.com/news-insights/firm-news/lowenstein-represents-acrew-capital-in-series-a-extension-round-in-proptech-startup-nomad-homes — Primary source (Acrew's legal counsel). Confirms $20M Series A extension led by Acrew Capital in Nomad Homes (October 2023).
 
 [^45]: Wamda, "Nomad Homes raises $20 million Series A round," October 24, 2023, accessed July 2026. https://www.wamda.com/2023/10/nomad-homes-raises-20-million-series-round — Independent regional (Middle East / North Africa) tech press confirmation of the $20M Series A extension led by Acrew Capital.
+
+[^53]: "Horizon3 Raises $250M Series E at $2B+ Valuation to Lead the 'AI vs. AI' Cybersecurity Era," Horizon3.ai press release, August 3, 2026. Accessed August 2026. https://horizon3.ai/news/press-release/horizon3-raises-250m-series-e-at-2b-valuation-to-lead-the-ai-vs-ai-cybersecurity-era/ — Names Acrew Capital as a new investor participating in the $250M Series E co-led by NightDragon and NEA at $2B+ valuation.
+
+[^54]: "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate," TechCrunch, August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/ — Independent TechCrunch confirmation of the $250M Series E, valuation, co-leads, and new investor list including Acrew Capital.
