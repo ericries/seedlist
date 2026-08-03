@@ -2452,7 +2452,7 @@ queue:
   discovered_from: lee-fixel
   discovery_depth: 3
   priority: normal
-  status: pending
+  status: completed
   added: 2026-03-15
 - name: Chronosphere
   type: startup
@@ -44911,3 +44911,54 @@ queue:
   added: '2026-03-17'
   firm: Aspiring Minds
   discovered_from: alok-bansal
+- name: Fundomo
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: olix
+- name: Layer Global
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: base-power
+- name: JPMorganChase Strategic Investment Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: base-power
+- name: Arm
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: olix
+- name: Hudson River Trading
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: olix
+- name: Reed Hastings
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: (Netflix Co-Founder, Angel)
+  discovered_from: olix
+- name: Jonathan Awad
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Baselayer
+  discovered_from: baselayer
+- name: James Dacombe
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: OLIX
+  discovered_from: olix
