@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Helsinki-based Aiforia secures €20 million EIB financing to advance AI-powered
+    cancer diagnostics
+  url: https://www.eu-startups.com/2026/08/helsinki-based-aiforia-secures-e20-million-eib-financing-to-advance-ai-powered-cancer-diagnostics/
+  source: eu-startups
+  date_found: '2026-08-03'
+  parsed_company: Helsinki-based Aiforia
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Index Ventures raises €1.7 billion, bringing total investing capital to nearly
+    €3 billion
+  url: https://www.eu-startups.com/2026/08/index-ventures-raises-e1-7-billion-bringing-total-investing-capital-to-nearly-e3-billion/
+  source: eu-startups
+  date_found: '2026-08-03'
+  parsed_company: Index Ventures
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Skull Ridge Gold Corp. Closes Second and Final Tranche, Completing $122,500
     Non-Brokered Private Placement
   url: https://www.globenewswire.com/news-release/2026/07/31/3337084/0/en/Skull-Ridge-Gold-Corp-Closes-Second-and-Final-Tranche-Completing-122-500-Non-Brokered-Private-Placement.html
