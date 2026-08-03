@@ -7746,3 +7746,23 @@ priority:
   type: firm
   reason: "appeared in Henry AI Series A (2026-07-29), $16.5M"
   added: 2026-08-03
+- slug: andreessen-horowitz
+  type: firm
+  reason: "prior investor in Safe Superintelligence which received USD 5B Nvidia investment (2026-07-27)"
+  added: 2026-08-03
+- slug: gv
+  type: firm
+  reason: "prior investor in Safe Superintelligence (2026-07-27 Nvidia USD 5B investment)"
+  added: 2026-08-03
+- slug: sequoia-capital
+  type: firm
+  reason: "prior investor in Safe Superintelligence (2026-07-27 Nvidia USD 5B investment)"
+  added: 2026-08-03
+- slug: ilya-sutskever
+  type: investor
+  reason: "co-founder Safe Superintelligence; USD 5B Nvidia investment (2026-07-27)"
+  added: 2026-08-03
+- slug: daniel-gross
+  type: investor
+  reason: "co-founder Safe Superintelligence; USD 5B Nvidia investment (2026-07-27)"
+  added: 2026-08-03

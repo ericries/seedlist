@@ -44600,3 +44600,150 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: apna-mart
+- name: Byers Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: adapter
+  source: investor in 2 startup funding rounds
+- name: Trust Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: antora-energy
+  source: investor in 2 startup funding rounds
+- name: Westly Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: antora-energy
+  source: investor in 2 startup funding rounds
+- name: Forgepoint Capital International
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: capsule-security
+  source: investor in 2 startup funding rounds
+- name: Trinity Capital (debt)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: cmr-surgical
+  source: investor in 2 startup funding rounds
+- name: KCap Biotechnology Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: crystalys-therapeutics
+  source: investor in 2 startup funding rounds
+- name: Futury Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deltavision
+  source: investor in 2 startup funding rounds
+- name: Simon Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: deutsche-sanierungsberatung
+  source: investor in 2 startup funding rounds
+- name: Zero Carbon Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: exergy3
+  source: investor in 2 startup funding rounds
+- name: Calibrate Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: flux
+  source: investor in 2 startup funding rounds
+- name: Sierra Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: gitar
+  source: investor in 2 startup funding rounds
+- name: Florida Opportunity Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kalogon
+  source: investor in 2 startup funding rounds
+- name: Cottonwood Technology Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: keiron-printing-technologies
+  source: investor in 2 startup funding rounds
+- name: TNO Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: keiron-printing-technologies
+  source: investor in 2 startup funding rounds
+- name: Merck Global Health Innovation Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: livongo
+  source: investor in 2 startup funding rounds
+- name: 7wireVentures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: nocd
+  source: investor in 2 startup funding rounds
+- name: Vintage Investment Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: onyx-security
+  source: investor in 2 startup funding rounds
+- name: KAS Venture Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: reliable-robotics
+  source: investor in 2 startup funding rounds
+- name: Cameo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: geoff-lewis
+  source: 'portfolio company of 3 investors: geoff-lewis, spencer-rascoff, nicole-quinn'
+- name: Veda
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: david-pakman
+  source: 'portfolio company of 3 investors: david-pakman, jake-brukhman, vig-chandramouli'
+- name: Parallel
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: shardul-shah
+  source: 'portfolio company of 3 investors: shardul-shah, todd-jackson, arthur-mensch'
