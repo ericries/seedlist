@@ -45251,3 +45251,91 @@ queue:
   discovered_from: valar-atomics
   source: Founder & CEO of Valar Atomics, nuclear microreactor startup ($1B Series
     B 2026-08-03)
+- name: Wilshire Lane Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ellis-ai
+- name: Westbound Equity Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ellis-ai
+- name: Collide Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ellis-ai
+- name: Mellody Hobson
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Ariel Investments
+  discovered_from: ellis-ai
+- name: Ryan Williams
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Ellis
+  discovered_from: ellis-ai
+- name: New Climate Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fast-metals
+- name: Founders Factory
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fast-metals
+- name: Sumedh Gostu
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: FAST Metals
+  discovered_from: fast-metals
+- name: Anthony Staley
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: FAST Metals
+  discovered_from: fast-metals
+- name: CAS Star
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: active-technology
+- name: Lenovo Star
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: active-technology
+- name: Joy Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: active-technology
+- name: Inno Angel Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: active-technology
+- name: Jiufeng Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: active-technology
