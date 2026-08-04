@@ -45339,3 +45339,18 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: active-technology
+- name: Positron Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ore-energy
+  source: participated in Ore Energy Series A €37.3M (Amsterdam VC)
+- name: Maxi Pethö-Schramm
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: HV Capital
+  discovered_from: ore-energy
+  source: HV Principal quoted on Ore Energy Series A

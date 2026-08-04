@@ -9,8 +9,8 @@ stage_focus: [pre-seed, seed, series-a]
 sector_focus: [ai, machine-learning, quantum-computing, materials-science, climate-tech, defense-tech, biotech, healthcare]
 check_size: "Varies; angel checks plus Plural fund leads"
 last_verified_investment:
-  date: 2024-10-21
-  company: "Oriole Networks"
+  date: 2026-08-04
+  company: "Ore Energy"
   round: "Series A"
 social:
   twitter: "@soundboy"
@@ -66,6 +66,7 @@ Notable observable gap: he publicly argues for slowing the race to AGI but has i
 | Hypersonica | ~2023 | Plural investor | Deep tech | [^3] |
 | Callosum | ~2023 | Plural investor | Deep tech | [^3] |
 | Oriole Networks | 2024-10-21 | Plural led £16.9M ($22M) round | AI compute / photonics networking | [^8] |
+| Ore Energy | 2026-08-04 | Plural co-led Series A €37.3M (~$43M) with HV Capital | Long-duration energy storage / iron-air batteries | [^10] |
 | Faculty | (pre-2023, divested) | Angel | Applied AI | [^9] |
 | Conjecture | (pre-2023, divested) | Angel | AI safety / alignment | [^9] |
 | Lakera | (pre-2023, divested) | Angel | AI security | [^9] |
@@ -123,3 +124,4 @@ No independently sourced founder testimonials were located during this research 
 [^7]: TIME, "Ian Hogarth: The 100 Most Influential People in AI 2023," 2023. https://time.com/collections/time100-ai/6309473/ian-hogarth/
 [^8]: UKTN, "Ian Hogarth's Plural leads £17m round for London-based AI startup [Oriole Networks]," October 21, 2024. https://www.uktech.news/ai/ian-hogarths-plural-leads-17m-ai-round-oriole-networks-20241021
 [^9]: GOV.UK, "Ian Hogarth's declared outside interests," Department for Science, Innovation and Technology, accessed June 2026. https://www.gov.uk/government/publications/ian-hogarths-declared-outside-interests/ian-hogarths-declared-outside-interests
+[^10]: Energy Storage News, "European multi-day energy storage startup Ore Energy raises US$43 million in Series A," August 4, 2026. Accessed August 2026. https://www.energy-storage.news/european-multi-day-energy-storage-startup-ore-energy-raises-us43-million-in-series-a/
