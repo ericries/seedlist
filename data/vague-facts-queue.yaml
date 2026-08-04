@@ -350,7 +350,8 @@ vague_facts:
   line: '| JobPixel | Pre-Seed | ~2020 | HR Tech | [^24] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-03: tightened JobPixel row from year-only ~2020 to specific 2021-02-08 pre-seed date with 1517 Fund as backer (amount undisclosed), founders Omar Khateeb and Anthony Duerr, company founded May 2020. Verified via 3 primary sources: JobPixel blog announcement (2021-02-09) [^89], 1517 Fund blog announcement (2021-02-08) [^90], Crunchbase round record (2021-02-08) [^91]. Note: Tracxn also lists a separate 2022-02-07 seed round from Nama Ventures — that is a distinct later round, NOT the 1517-led pre-seed. 3 new footnotes added.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: HelloWoofy
@@ -360,7 +361,8 @@ vague_facts:
   line: '| HelloWoofy | Pre-Seed | ~2019 | AI / Marketing | [^24] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-03: annotated HelloWoofy row with full context. Company founded September 2016 by Arjun Rai; ran Republic Reg CF campaign Dec 2019 and Wefunder campaigns totaling $510K+ across Reg CF rounds. Founder-issued KissPR release (2022-07-11) [^93] states Rai raised ~$500K pre-seed VC total but does NOT name 1517 Fund. Kingscrowd aggregator [^92] and Wefunder team pages name Danielle Strachman + Michael Gibson of 1517 as investors, but no primary press release names 1517 Fund — aggregator-only attribution pattern matches FOSSA/Fountain/Deepgram cases previously flagged. Row rewritten as "~2019–2020" range with full context. 2 new footnotes added ([^92], [^93]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: CalWave Power Technologies
@@ -380,7 +382,8 @@ vague_facts:
   line: '| Stark Therapeutics | Seed (aggregator-only 1517 attribution — Stark Therapeutics'' own website lists no investors; comp'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_note: 'Fact-spec sweep 2026-08-03: exhaustive search cannot pin a specific 1517-branded round for Stark Therapeutics. Kingscrowd Reg CF analysis dated 2021-04-05 confirms Wefunder crowdfunding raise with $8M valuation cap and names 1517 Fund as prior investor [^94]. 1517 Fund own jobs board lists Stark Therapeutics as an active portfolio company [^95]. Company (founded 2018 in Madison WI by Anthony Stark) primary website has no investor list; PitchBook says $650K total raised; no dated primary press release for a 1517-branded round exists. Row annotation retained (aggregator-only pattern). 2 new footnotes added ([^94], [^95]) to make attribution chain fully traceable. Sector updated to "Therapeutics / Gene Therapy" for precision.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Pareto
