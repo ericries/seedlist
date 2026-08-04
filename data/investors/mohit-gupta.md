@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   linkedin: "linkedin.com/in/mohitgupta1"
 status: published
-last_researched: 2026-06-24
+last_researched: 2026-08-04
 ---
 
 ## Background
@@ -35,8 +35,8 @@ Gupta has not published a formal angel investment thesis. In a Prime Venture Par
 Based on publicly verified investments (sample of ~8–10 disclosed rounds, against a Tracxn-reported portfolio of ~29 companies — i.e., the verifiable sample is small), the pattern that emerges:
 
 - **Indian-only**: Every verified investment is in an India-headquartered startup [^4][^5].
-- **Consumer / D2C bias**: Verified investments include Wellopia (personal products), Helium (real estate / proptech), Openhouse, Gabit (healthtech wearables), HexaHealth (healthcare services), Ultrahuman (consumer health), Park+ (consumer parking), Scripbox (consumer fintech) and Elivaas (luxury vacation rentals) [^4][^6]. The portfolio skews toward consumer-facing businesses with operational complexity — areas adjacent to Gupta's MakeMyTrip/Zomato experience.
-- **Early stage**: Verified rounds are predominantly Seed and Angel rounds. The 2026 Helium investment ($536K Angel) and 2025 Openhouse ($2M Seed) and Wellopia ($933K Seed) rounds are representative [^4].
+- **Consumer / D2C bias**: Verified investments include Wellopia (kids wellness D2C), Helium (real estate / proptech), Openhouse (residential resale), Gabit (healthtech wearables), Ninecamp (premium dining F&B), Ultrahuman (consumer health), Park+ (consumer parking), Scripbox (consumer fintech) and Elivaas (luxury vacation rentals) [^4][^6]. The portfolio skews toward consumer-facing businesses with operational complexity — areas adjacent to Gupta's MakeMyTrip/Zomato experience.
+- **Early stage**: Verified rounds are predominantly Seed and Angel rounds. The 2026 Helium investment ($536K Angel), 2025 Openhouse ($2M Seed), and 2025-07-09 Wellopia (₹8 Cr / $933K Seed led by Fireside Ventures) rounds are representative [^4][^wellopia-1].
 - **Co-invests with Indian operator-angels**: In the Elivaas seed, Gupta participated alongside Kunal Shah (CRED), Naveen Kukreja (Paisabazaar), Amit Lakhotia (Park+) [^6]. This is consistent with the "Indian operator angel syndicate" pattern.
 - **Three reported exits**: BabyChakra (acquired Aug 2021), Runnr (acquired Sep 2017, by Zomato), and FortunePay (acquired Jun 2017) [^4].
 
@@ -48,19 +48,18 @@ Sample size caveat: only a minority of his reported 29 portfolio companies have 
 |---|---|---|---|
 | Helium | 2026 | Angel ($536K) | [^4] |
 | Openhouse | 2025-10-29 | Seed (angel participant, USD 2M round led by India Quotient / IQ Ventures; alongside Gunjan Patidar, Gaurav Sharma, Ramanshu Mahaur) | [^4][^openhouse-1][^openhouse-2][^openhouse-3] |
-| Wellopia | 2025 | Seed ($933K) | [^4] |
-| Ninecamp | 2024 | Seed ($2M) | [^4] |
+| Wellopia | 2025-07-09 | Seed (angel participant, ₹8 crore / USD 931,755 round led by Fireside Ventures; participants: Sharrp Ventures, Antler India; angels Arjun Vaidya, Avnish Chhabria, Mohit Gupta) | [^4][^wellopia-1][^wellopia-2][^wellopia-3] |
+| Ninecamp | 2024-07-17 | Seed (angel participant, USD 2M / ~₹16.7 Cr; no institutional lead; angels: Mohit Gupta, Gaurav Gupta, Varun & Ghazal Alagh, Vikram Chopra, Ruchit Agarwal, Mehul Agrawal, Gajendra Jangid, Dharmil Sheth, Vir Das, Divine, Atul Singh, Utsav Somani, Ritesh Kumar, Aaditya Mittal) | [^4][^ninecamp-1][^ninecamp-2][^ninecamp-3] |
 | Elivaas | 2023 | Seed (participant, $2.5M round led by Peak XV Surge) | [^6] |
 | Gabit | 2023 | Seed (~$9.5M) | [^5] |
 | Park+ | ~2021 | Angel | [^5] |
 | Ultrahuman | ~2020 | Angel/Seed | [^5] |
 | Scripbox | 2015-08-13 | Series A angel participant (₹16 Cr / ~$2.5M round led by Accel Partners; alongside Deep Kalra, Rajesh Magow, Shamik Sharma, Subba Rao Telidevara) | [^5][^7][^8][^9] |
-~unknown| HexaHealth | Undisclosed | Angel | [^5] |
 | BabyChakra | Pre-2021 | Angel (Exit: acquired Aug 2021) | [^4] |
 | Runnr | Pre-2017 | Angel (Exit: acquired Sep 2017) | [^4] |
 | FortunePay | Pre-2017 | Angel (Exit: acquired Jun 2017) | [^4] |
 
-Notes: Tracxn reports a total portfolio of 29 companies; this table reflects ~45% (13 of 29) — only those with a verifiable round or aggregator citation. Several round dates are not publicly disclosed.
+Notes: Tracxn reports a total portfolio of 29 companies; this table reflects ~41% (12 of 29) — only those with a verifiable round or aggregator citation. A previously listed HexaHealth Angel row was REMOVED (2026-08-04 fact-spec sweep) after primary sources (Inc42, Indian Startup News) identified the HexaHealth angel "Mohit Gupta" as ex-HealthKart Marketing Head, not this Zomato/MakeMyTrip Mohit Gupta — a misattribution. Several round dates are not publicly disclosed.
 
 ## In Their Own Words
 
@@ -106,3 +105,9 @@ No independently sourced founder testimonials about Mohit Gupta's angel investin
 [^openhouse-1]: Entrackr, "Proptech startup Openhouse raises $2 Mn in seed round," October 30, 2025. Accessed July 2026. https://entrackr.com/snippets/proptech-startup-openhouse-raises-2-mn-in-seed-round-10606190 — Primary trade press. Confirms USD 2M seed round led by India Quotient Ventures with angel participants Mohit Gupta (ex-Zomato co-founder), Gunjan Patidar (ex-Zomato co-founder), Gaurav Sharma (SaaS Labs founder), Ramanshu Mahaur (Spinny co-founder).
 [^openhouse-2]: Venture Intelligence, "Proptech platform focused on resale Openhouse raises $2-M led by India Quotient Ventures," October 2025. Accessed July 2026. https://news.ventureintelligence.com/private-equity/proptech-platform-focused-on-resale-openhouse-raises-$2-m-led-by-india-quotient-ventures — Corroborates USD 2M seed round led by India Quotient with same angel participant list including Mohit Gupta.
 [^openhouse-3]: Outlook Business, "Openhouse Raises $2Mn Seed from IQ Ventures to Transform India's Residential Resale Market," October 29, 2025. Accessed July 2026. https://www.outlookbusiness.com/start-up/investors/openhouse-raises-2mn-seed-from-iq-ventures-to-transform-indias-residential-resale-market — Third primary confirmation. IQ Ventures lead; Mohit Gupta (ex-Zomato co-founder) named as angel participant alongside Gunjan Patidar, Gaurav Sharma, and Ramanshu Mahaur.
+[^wellopia-1]: Crunchbase, "Seed Round - Wellopia," round record dated July 9, 2025. Accessed August 2026. https://www.crunchbase.com/funding_round/wellopia-seed--d97a587e — Primary funding-round record confirming exact date (2025-07-09) and USD amount ($931,755) for the seed round led by Fireside Ventures.
+[^wellopia-2]: D2C Insider Pulse, "Wellopia Raises Rs 8 Crore Seed Round to Build India's Leading Kids Wellness D2C Brand," July 10, 2025. Accessed August 2026. https://pulse.d2cinsider.com/wellopia-raises-rs-8-crore-seed-round-to-build-indias-leading-kids-wellness-d2c-brand/ — Contemporaneous trade press confirming ₹8 Cr seed led by Fireside Ventures with Sharrp Ventures, Antler India as co-investors and angels Arjun Vaidya (V3 Ventures), Avnish Chhabria (Wellbeing Nutrition), and Mohit Gupta (Lyskraft) participating.
+[^wellopia-3]: Marca Money, "Wellopia raises ₹8 crore in seed funding led by Fireside Ventures," July 14, 2025. Accessed August 2026. https://www.marcamoney.com/wellopia-raises-8-crore-in-seed-funding-led-by-fireside-ventures/ — Third independent press confirmation of the ₹8 Cr seed round with same investor list including Mohit Gupta.
+[^ninecamp-1]: Entrackr, "Ninecamp Ventures raises $2 Mn in seed round," July 17, 2024. Accessed August 2026. https://entrackr.com/2024/07/ninecamp-ventures-raises-2-mn-in-seed-round/ — Primary trade press confirming July 17, 2024 announcement date, USD 2M / ₹16 Cr seed with no institutional lead; explicitly names Mohit Gupta and Gaurav Gupta (Zomato co-founders) alongside 12 other angel investors.
+[^ninecamp-2]: Inc42, "Exclusive: Ex-Zomato Executive's Startup Ninecamp Bags $2 Mn," July 17, 2024. Accessed August 2026. https://inc42.com/buzz/exclusive-former-zomato-executives-startup-ninecamp-bags-2-mn-to-disrupt-premium-dining-space/ — Corroborating primary source. Confirms $2M / ₹16.7 Cr seed on 2024-07-17 with same angel list including Mohit Gupta (Zomato cofounder) explicitly.
+[^ninecamp-3]: StartUp Story Media, "Ninecamp Ventures Secures $2 Million in Seed Funding from Zomato Co-Founders and Other Notable Investors," July 19, 2024. Accessed August 2026. https://startupstorymedia.com/insights-ninecamp-ventures-secures-2-million-in-seed-funding-from-zomato-co-founders-and-other-notable-investors/ — Third press confirmation naming Mohit Gupta among the Zomato co-founders investing in the $2M seed round.

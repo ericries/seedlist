@@ -122155,7 +122155,9 @@ vague_facts:
   line: '| Wellopia | 2025 | Seed ($933K) | [^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_notes: 'Fact-spec sweep 2026-08-04: tightened row from vague ''2025 | Seed ($933K)'' to precise ''2025-07-09 | Seed (angel participant, ₹8 crore / USD 931,755 round led by Fireside Ventures; participants: Sharrp Ventures, Antler India; angels Arjun Vaidya, Avnish Chhabria, Mohit Gupta)''. Verified via 3 independent primary sources: Crunchbase funding round record [^wellopia-1] (exact 2025-07-09 date + $931,755 USD amount), D2C Insider Pulse [^wellopia-2] (2025-07-10, ₹8 Cr with full investor list including Mohit Gupta of Lyskraft), and Marca Money [^wellopia-3] (2025-07-14 corroborating). Fireside Ventures confirmed lead. 3 new footnotes added.'
 - profile: investors/mohit-gupta
   profile_name: Mohit Gupta
   company: Ninecamp
@@ -122165,7 +122167,9 @@ vague_facts:
   line: '| Ninecamp | 2024 | Seed ($2M) | [^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_notes: 'Fact-spec sweep 2026-08-04: tightened row from vague ''2024 | Seed ($2M)'' to precise ''2024-07-17 | Seed (angel participant, USD 2M / ~₹16.7 Cr; no institutional lead; 15 named angels)''. Verified via 3 independent primary sources: Entrackr [^ninecamp-1] (2024-07-17 date, no institutional lead, Mohit Gupta among Zomato co-founders participating), Inc42 [^ninecamp-2] (corroborating $2M / ₹16.7 Cr with same angel list on 2024-07-17), StartUp Story Media [^ninecamp-3] (2024-07-19 publication naming Mohit Gupta as Zomato co-founder investor). 3 new footnotes added. Full syndicate: Mohit Gupta, Gaurav Gupta, Varun & Ghazal Alagh, Vikram Chopra, Ruchit Agarwal, Mehul Agrawal, Gajendra Jangid, Dharmil Sheth, Vir Das, Divine, Atul Singh, Utsav Somani, Ritesh Kumar, Aaditya Mittal.'
 - profile: investors/mohit-gupta
   profile_name: Mohit Gupta
   company: Elivaas
