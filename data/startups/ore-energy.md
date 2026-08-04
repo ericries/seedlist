@@ -1,25 +1,34 @@
 ---
-name: "Ore Energy"
-slug: ore-energy
-type: startup
-website: "https://ore-energy.com"
-location: "Delft, Netherlands"
+firms:
+- round: Plural co-led Series A €37.3M (~$43M) with HV Capital
+  slug: independent
+  year: 2026
 founded: 2022
-status_company: active
-sector: [energy, cleantech, energy-storage, batteries, climate, deep-tech]
-stage_latest: "Series A"
-total_raised: "€53M+ (~$61M)"
-investors:
-  - slug: ian-hogarth
-    round: series-a
-    year: 2026
-    date: 2026-08-04
-firms: []
 founders:
-  - name: "Aytac Yilmaz"
-    role: "Co-Founder & CEO"
-status: published
+- name: Aytac Yilmaz
+  role: Co-Founder & CEO
+investors:
+- date: 2026-08-04
+  round: series-a
+  slug: ian-hogarth
+  year: 2026
 last_researched: 2026-08-04
+location: Delft, Netherlands
+name: Ore Energy
+sector:
+- energy
+- cleantech
+- energy-storage
+- batteries
+- climate
+- deep-tech
+slug: ore-energy
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: €53M+ (~$61M)
+type: startup
+website: https://ore-energy.com
 ---
 
 ## About

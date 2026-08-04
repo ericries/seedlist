@@ -1,30 +1,39 @@
 ---
-name: "Vinyl Equity"
-slug: vinyl-equity
-type: startup
-website: "https://vinylequity.com"
-location: "Chicago, Illinois"
-status_company: active
-sector: [fintech, capital-markets, infrastructure]
-stage_latest: "Series A"
-total_raised: "$20M+"
-investors: []
 firms:
-  - slug: index-ventures
-    round: series-a
-    year: 2026
-    date: 2026-06-09
-  - slug: spark-capital
-    round: series-a
-    year: 2026
-    date: 2026-06-09
+- date: 2026-06-09
+  round: series-a
+  slug: index-ventures
+  year: 2026
+- date: 2026-06-09
+  round: series-a
+  slug: spark-capital
+  year: 2026
+- round: Series A ($20M round)
+  slug: jump-capital
+  year: 2026
 founders:
-  - name: "Rob Schoder"
-    role: "CEO & Co-Founder"
-  - name: "Poornaprajna Udupi"
-    role: "CTO & Co-Founder"
-status: published
+- name: Rob Schoder
+  role: CEO & Co-Founder
+- name: Poornaprajna Udupi
+  role: CTO & Co-Founder
+investors:
+- round: Series A ($20M round)
+  slug: yelena-shkolnik
+  year: 2026
 last_researched: 2026-06-09
+location: Chicago, Illinois
+name: Vinyl Equity
+sector:
+- fintech
+- capital-markets
+- infrastructure
+slug: vinyl-equity
+stage_latest: Series A
+status: published
+status_company: active
+total_raised: $20M+
+type: startup
+website: https://vinylequity.com
 ---
 
 ## About

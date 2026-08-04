@@ -28076,7 +28076,7 @@ queue:
 - name: Yelena Shkolnik
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Jump Capital
   discovered_from: vinyl-equity
@@ -28372,7 +28372,7 @@ queue:
 - name: Jean Nehme
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: uncovr
   source: angel in Uncovr seed; founder Digital Surgery (acq. Medtronic)
@@ -45354,3 +45354,18 @@ queue:
   firm: HV Capital
   discovered_from: ore-energy
   source: HV Principal quoted on Ore Energy Series A
+- name: Qubit Health Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jean-nehme
+  source: Jean Nehme is a partner (angel-focused healthtech fund, London)
+- name: Tania Boler
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Elvie / independent
+  discovered_from: jean-nehme
+  source: co-invested with Jean Nehme in WONE (Walking on Earth) pre-seed
