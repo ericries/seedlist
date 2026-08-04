@@ -300,7 +300,7 @@ The following table includes 120 notable Y Combinator companies, organized by ba
 | Stepful | W21 | 2021 | Healthtech / Workforce Training | Private (Series C $55M 2026-06-08, Oak HC/FT-led; YC follow-on) [^43][^44][^45] |
 | Drafted | Spring 2026 | 2025-2026 | AI / Proptech / Generative Design | Private ($16M Seed 2026-05-29, Buckley Ventures-led; YC participated) [^46][^47][^48] |
 | SyntheticFi | S23 | 2023 | Fintech / RIA Tech | Private ($13M Venture round 2026-06-09; YC participated alongside Social Leverage, NextGen VP/Brown Advisory, The Compound Capital Fund) [^49][^50][^51] |
-| Ploy | n/a | 2026 | AI / Marketing / Vertical SaaS | Private ($27M Seed 2026-06-17, First Round Capital-led; YC participated) [^52][^53][^54] |
+| Ploy | Seed batch | 2026-06-17 | AI / Marketing / Vertical SaaS | Private ($27M Seed 2026-06-17, First Round Capital-led; YC participated) [^52][^53][^54] |
 | Sazabi | S26 | 2026 | AI / Developer Tools / Observability | Private ($8M Seed 2026-06-25, co-led with J2 Ventures and Village Global) [^55][^56][^57] |
 | Pocket | W26 | 2024 | AI / Consumer Hardware | Private ($11M Seed 2026-06-29, Accel-led; YC participated alongside Guillermo Rauch (Vercel), Mati Staniszewski (ElevenLabs), Kaz Nejatian (Opendoor)) [^58][^59][^60] |
 | Warp | n/a | 2026 | HR Tech / Payroll / AI / Fintech | Private (Series B $60M 2026-06-25, Battery Ventures-led; YC participated alongside Peak XV, Sound Ventures, HOF Capital) [^61][^62][^63] |

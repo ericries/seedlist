@@ -9923,7 +9923,8 @@ vague_facts:
   line: '| Commonwealth Fusion Systems | Series B2 ($863M, participant) | 2025-08-28 | -- | Fusion energy | active [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Confirmed CFS $863M Series B2 (2025-08-28) was oversubscribed with no single lead per company press release [^5], DCD [^61], and Latitude Media [^62]. Participants: NVentures (Nvidia), Google, Breakthrough Energy Ventures, Counterpoint Global (Morgan Stanley), Bill Gates, Jeff Bezos, and a Mitsui-led Japanese consortium. Updated Gigascale portfolio row with lead investor field ("not disclosed") and expanded participant list; added [^61] and [^62] citations.'
 - profile: firms/gigascale-capital
   profile_name: Gigascale Capital
   company: Xcimer Energy
@@ -30393,7 +30394,8 @@ vague_facts:
   line: '| Ploy | n/a | 2026 | AI / Marketing / Vertical SaaS | Private ($27M Seed 2026-06-17, First Round Capital-led; YC partic'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: Confirmed Ploy $27M Seed (2026-06-17) led by First Round Capital with Y Combinator participation. Existing Y Combinator profile portfolio row was flagged because the Stage column read "n/a" — updated to "Seed batch" (YC-shorthand) and date to 2026-06-17. Sources [^52] Yahoo Finance / [^53] Dealroom / [^54] The SaaS News already present.
 - profile: firms/y-combinator
   profile_name: Y Combinator
   company: Warp
@@ -56060,7 +56062,8 @@ vague_facts:
   line: '| NewNew | -- | ~2021 | Social/Community | Active | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: Confirmed NewNew launched in September 2020 (not 2021) with seed-stage backing from Andreessen Horowitz, Founders Fund, Canaan, Dreamers VC, and Shrug Capital per TechCrunch [^16]. Round amount was not publicly disclosed. Updated Connie Chan portfolio row stage from "--" to "Seed" with investor list; corrected year from ~2021 to 2020-09-09; added [^16] TechCrunch citation.
 - profile: investors/connie-chan
   profile_name: Connie Chan
   company: Reface.ai
@@ -206228,7 +206231,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-08-04
-  resolution_note: 'Resolved as part of 2026-08-04 Praxify sweep — see resolved column-3 entry for firms/aarin-capital / Praxify. Date now 2014-05-23 per Tracxn [^27]; Aarin Capital attribution flagged as aggregator-only.'
+  resolution_note: Resolved as part of 2026-08-04 Praxify sweep — see resolved column-3 entry for firms/aarin-capital / Praxify. Date now 2014-05-23 per Tracxn [^27]; Aarin Capital attribution flagged as aggregator-only.
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: PharmEasy (API Holdings)
@@ -206240,7 +206243,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-08-04
-  resolution_note: 'Resolved as part of 2026-08-04 PharmEasy sweep — see resolved column-3 entry for firms/aarin-capital / PharmEasy. Date now 2017-03-30 (Series B, USD 18M, Bessemer-led) per DealStreetAsia [^29] and FinSMES [^30].'
+  resolution_note: Resolved as part of 2026-08-04 PharmEasy sweep — see resolved column-3 entry for firms/aarin-capital / PharmEasy. Date now 2017-03-30 (Series B, USD 18M, Bessemer-led) per DealStreetAsia [^29] and FinSMES [^30].
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: Invact Metaversity
@@ -206252,7 +206255,7 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-08-04
-  resolution_note: 'Resolved as part of 2026-08-04 Invact Metaversity sweep — see resolved column-3 entry. Date now 2022-02-07 per Inc42 [^34] and PR Newswire [^35]. Mohandas Pai participated personally alongside 70+ angels; Aarin Capital as institution not named.'
+  resolution_note: Resolved as part of 2026-08-04 Invact Metaversity sweep — see resolved column-3 entry. Date now 2022-02-07 per Inc42 [^34] and PR Newswire [^35]. Mohandas Pai participated personally alongside 70+ angels; Aarin Capital as institution not named.
 - profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   company: Wise

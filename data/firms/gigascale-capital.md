@@ -48,7 +48,7 @@ Note: Gigascale published a partial portfolio list. A complete inferred-thesis b
 
 | Company | Stage | Date | Lead Partner | Sector | Status |
 |---|---|---|---|---|---|
-| Commonwealth Fusion Systems | Series B2 ($863M, participant) | 2025-08-28 | -- | Fusion energy | active [^5] |
+| Commonwealth Fusion Systems | Series B2 ($863M, participant; oversubscribed, no single lead; participants incl. NVentures/Nvidia, Google, Breakthrough Energy Ventures, Bill Gates, Jeff Bezos, Mitsui-led Japanese consortium) | 2025-08-28 | not disclosed | Fusion energy | active [^5][^13][^14] |
 | Xcimer Energy | Series A ($100M, participant; lead: Hedosophia) | 2024-06-04 | -- | Fusion energy | active [^6] |
 | Radiant Nuclear | Series C ($165M close, participant; lead: DCVC) | 2025-05 | -- | Small modular nuclear | active [^7] |
 | Arbor Energy | Series A ($55M, participant; co-leads: Lowercarbon, Voyager) | 2025-10-21 | -- | Clean baseload power | active [^8] |
@@ -87,3 +87,5 @@ No independently sourced founder testimonials found at time of profile creation.
 [^12]: Gigascale Capital portfolio page, accessed June 2026. https://gigascale.com/portfolio/
 [^gigascale-hb1]: FinancialContent / EZ Newswire, "HomeBoost Launches BoostBox, a DIY Solution That Empowers Homeowners to Save on Their Energy Bills and Live Comfortably," October 29, 2024. Accessed August 2026. https://markets.financialcontent.com/stocks/article/eznewswire-2024-10-29-homeboost-launches-boostbox-a-diy-solution-that-empowers-homeowners-to-save-on-their-energy-bills-and-live-comfortably — Confirms $4M seed with True Ventures, Gigascale Capital, and Incite.org co-participating; no formal single lead.
 [^gigascale-hb2]: Gaebler Ventures database, "HomeBoost 10/29/2024 Capital Raise," accessed August 2026. https://www.gaebler.com/VC-Funding-A0F54648-FD42-4B4C-8EAB-1A53F8303ED6-HomeBoost-10-29-2024 — Independent database confirmation of $4M seed on 2024-10-29.
+[^13]: Data Center Dynamics, "Commonwealth Fusion Systems raises $863m in Series B2 funding, with backing from Nvidia," August 2025. Accessed August 2026. https://www.datacenterdynamics.com/en/news/commonwealth-fusion-systems-raises-863m-in-series-b2-funding-with-backing-from-nvidia/ — Independently confirms oversubscribed $863M Series B2 with NVentures (Nvidia), Google, Breakthrough Energy Ventures, Counterpoint Global (Morgan Stanley), Bill Gates, Jeff Bezos, and a Japanese consortium led by Mitsui & Co.
+[^14]: Latitude Media, "Commonwealth Fusion Systems tops up its Series B with $863 million," August 2025. Accessed August 2026. https://www.latitudemedia.com/news/commonwealth-fusion-systems-tops-up-its-series-b-with-863-million/ — Contemporaneous press confirming the round was oversubscribed with no single lead; brings CFS total to nearly $3 billion.
