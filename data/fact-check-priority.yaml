@@ -4206,3 +4206,15 @@ priority:
   type: investor
   reason: participated in Othello seed round (2026-08-03) via YC
   added: 2026-08-03
+- slug: oak-hc-ft
+  type: firm
+  reason: "led Dash Bio Series A (2026-08-03), $30M"
+  added: 2026-08-04
+- slug: freestyle-capital
+  type: firm
+  reason: "participated in Dash Bio Series A (2026-08-03), $30M"
+  added: 2026-08-04
+- slug: swift-ventures
+  type: firm
+  reason: "participated in Dash Bio Series A (2026-08-03), $30M"
+  added: 2026-08-04

@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Ore Energy raises €37.3 million to scale iron-air batteries that store renewable
+    power for up to 100 hours
+  url: https://www.eu-startups.com/2026/08/ore-energy-raises-e37-3-million-to-scale-iron-air-batteries-that-store-renewable-power-for-up-to-100-hours/
+  source: eu-startups
+  date_found: '2026-08-04'
+  parsed_company: Ore Energy
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Helsinki-based Aiforia secures €20 million EIB financing to advance AI-powered
     cancer diagnostics
   url: https://www.eu-startups.com/2026/08/helsinki-based-aiforia-secures-e20-million-eib-financing-to-advance-ai-powered-cancer-diagnostics/
