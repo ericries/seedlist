@@ -100,7 +100,7 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 | NOCD | Seed ($1M; 7wire Ventures lead) | 2018-02-12 | OCD therapy | Active | [^17][^52][^17] |
 | Brightline | Series B ($72M; GV lead; Optum Ventures, 7wireVentures, Gaingels new; Oak HC/FT, Threshold Ventures, Blue Shield of California, Blue Cross Blue Shield of Massachusetts, SemperVirens VC, City Light Capital returning) | 2021-06-16 | Pediatric behavioral health | Active | [^23][^56][^57] |
 | Jasper Health | Seed ($6.75M; co-led by 7wireVentures and Redesign Health) | 2021-05-12 | Oncology care navigation | Active | [^25][^36][^58][^59] |
-| Zerigo Health | Early | 2014 | Dermatology / phototherapy | Active | [^20][^37] |
+| Zerigo Health (formerly Clarify Medical) | Series A ($18M; 7wire Ventures, H.I.G. BioHealth Partners, SV Health Investors, Bluestem Capital co-participated — no single lead named); Robert Garber joined the board | 2019-10-23 | Dermatology / phototherapy | Active | [^20][^37][^74][^75][^76] |
 | FOLX Health | Series B ($30M; 7wireVentures led; Foresite Capital new; Bessemer Venture Partners, Define Ventures, Polaris Partners returning) | 2022-10-12 | LGBTQIA+ virtual care | Active | [^21][^38][^64][^65] |
 | Parsley Health | Growth | 2023-10 | Chronic disease virtual clinic | Active | [^26][^5] |
 | PayZen | Series A ($15M; SignalFire lead; Link Ventures, 7wireVentures new; Viola Ventures, Picus Capital returning) | 2021-11-17 | Healthcare affordability | Active | [^18][^39][^60][^61] |
@@ -108,7 +108,7 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 | MedArrive | Series A ($25M; Section 32 led; 7wireVentures, Leaps by Bayer new; Define Ventures, Kleiner Perkins, Redesign Health returning) | 2021-11-17 | At-home care delivery | Active | [^22][^40][^66][^67] |
 | GroundGame.Health | Series A | 2024 | Population health / SDOH | Active | [^27][^41] |
 | WellTheory | Series A ($14M; General Catalyst led; 7wire Ventures, Ingeborg Investments, Up2 Opportunity Fund new; Accel, Box Group returning) | 2025-10-14 | Autoimmune care | Active | [^28][^42][^68][^69] |
-| Override | Seed | 2022 | Chronic pain management | Active | [^29][^43] |
+| Override | Seed ($3.5M; co-led by 7wireVentures and Martin Ventures; SignalFire and Confluent Health participated) | 2022-12-15 | Chronic pain management | Active | [^29][^43][^70][^71] |
 | When Insurance | Series A | 2026-02-02 | Severance insurance | Active | [^11][^44] |
 | ConsejoSano | Series A (USD 4.9M; 7wire Ventures led; Tufts Health Ventures, TOTAL Impact Capital, Wanxiang Healthcare Investments, Acumen, Oxeon Partners, Impact Engine participated; post-round total raised USD 7.2M; company later rebranded to SameSky Health) | 2017-02-21 | Hispanic telehealth | Merged (into GroundGame.Health, April 2024) | [^6][^53][^54][^55] |
 | CareDox | Series B | ~2018 | School health IT | Active | [^6] |
@@ -116,7 +116,7 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 | Higi | Early | ~2015 | Biometric screening | Acquired | [^11] |
 | Lightbeam Health Solutions | Early | ~2016 | Population health analytics | Acquired | [^11] |
 | Yaro | Early | ~2017 | Care navigation | Acquired | [^11] |
-| Caraway | Seed | 2022 | College women's health | Acquired | [^9][^11][^45] |
+| Caraway | Seed ($10.5M; co-led by 7wireVentures and OMERS Ventures; Hopelab Ventures and angels participated) | 2022-07-26 | College women's health | Acquired | [^9][^11][^45][^72][^73] |
 | Ayogo | Early | ~2016 | Patient engagement | Active | [^30] |
 | EosHealth | Early | 2013 | Disease management | Active | [^2] |
 | ZestHealth | Early | 2013 | Healthcare navigation | Active | [^2] |
@@ -238,3 +238,17 @@ No additional independently sourced founder testimonials found beyond 7wire's ow
 [^68]: MobiHealthNews, "WellTheory raises $14M for virtual autoimmune care platform," October 14, 2025. Accessed July 2026. https://www.mobihealthnews.com/news/welltheory-raises-14m-virtual-autoimmune-care-platform — Independent trade-press primary confirmation of WellTheory's $14M Series A on 2025-10-14, General Catalyst lead, with 7wire Ventures named as new investor (plus Ingeborg Investments, Up2 Opportunity Fund new; Accel, Box Group returning). Corrects an earlier assumption that 7wire participated in the 2022 seed — 7wire's first check was this Series A.
 
 [^69]: HLTH News, "WellTheory Raises $14M to Expand Virtual Autoimmune Care Platform," October 15, 2025. Accessed July 2026. https://hlth.com/insights/news/welltheory-raises-14m-to-expand-virtual-autoimmune-care-platform-2025-10-15 — Third independent primary confirmation of WellTheory's $14M Series A on 2025-10-14, General Catalyst led, with 7wire Ventures among new investors alongside Ingeborg Investments and Up2 Opportunity Fund.
+
+[^70]: HIT Consultant, "Virtual Chronic Pain Startup, Override Launches with $3.5M," December 19, 2022. Accessed August 2026. https://hitconsultant.net/2022/12/19/virtual-chronic-pain-startup-override-launches-with-3-5m/ — Independent trade-press primary confirmation of Override's $3.5M seed announced 2022-12-15 (per BusinessWire release), co-led by 7wireVentures and Martin Ventures with SignalFire and Confluent Health participating; funds partly used to acquire Take Courage Coaching.
+
+[^71]: MedCity News, "Former VA Secretary Teams up With Daughter to Launch Chronic Pain Care Startup," December 15, 2022. Accessed August 2026. https://medcitynews.com/2022/12/former-va-secretary-teams-up-with-daughter-to-launch-chronic-pain-care-startup/ — Contemporaneous primary press confirmation of Override's $3.5M seed on 2022-12-15, 7wireVentures lead, with Martin Ventures, SignalFire, and Confluent Health participating. Founded by former VA Secretary David Shulkin, MD, and his daughter Jennie Shulkin, JD.
+
+[^72]: PR Newswire, "Women's+ Healthcare Company, Caraway, Launches to Tackle College Student's Mental, Reproductive and Physical Health," July 26, 2022. Accessed August 2026. https://www.prnewswire.com/news-releases/womens-healthcare-company-caraway-launches-to-tackle-college-students-mental-reproductive-and-physical-health-301592813.html — Primary company press release confirming Caraway's $10.5M seed on 2022-07-26 co-led by 7wireVentures and OMERS Ventures with Hopelab Ventures and named angels (Trevor Price/Oxeon, Elliot Cohen/PillPack, Deena Shakir/Lux, Missy Krasner, Aike Ho/ACME, Doug Hirsch/GoodRx, Kate Ryder/Maven, Leslie Schrock).
+
+[^73]: MobiHealthNews, "Caraway raises $10.5M seed to offer virtual care to college women," July 27, 2022. Accessed August 2026. https://www.mobihealthnews.com/news/caraway-raises-105m-seed-offer-virtual-care-college-women — Independent trade-press primary confirmation of Caraway's $10.5M seed round co-led by 7wireVentures and OMERS Ventures, with Hopelab Ventures and angels participating.
+
+[^74]: BusinessWire, "Clarify Medical Closes $18M Series A Round to Commercialize its Connected Home Phototherapy System in the U.S.," October 23, 2019. Accessed August 2026. https://www.businesswire.com/news/home/20191023005182/en/Clarify-Medical-Closes-18M-Series-A-Round-to-Commercialize-its-Connected-Home-Phototherapy-System-in-the-U.S. — Primary company press release confirming Clarify Medical's (later rebranded Zerigo Health) $18M Series A on 2019-10-23 with H.I.G. BioHealth Partners, 7wire Ventures, SV Health Investors, and Bluestem Capital participating; Robert Garber (7wire), Michael Wasserman (H.I.G.), and Paul LaViolette (SV Health) joined the board. This is 7wire's first documented investment in the company (row previously showed 2014, which is the company's founding year, not 7wire's entry).
+
+[^75]: Pulse 2.0, "Connected Home Phototherapy System Company Clarify Medical Raises $18 Million," October 2019. Accessed August 2026. https://pulse2.com/clarify-medical-raises-18-million-funding/ — Independent trade-press primary confirmation of Clarify Medical's $18M Series A closed October 30, 2019 (announcement window) with H.I.G. BioHealth Partners, 7wire Ventures, SV Health Investors, and Bluestem Capital named as syndicate.
+
+[^76]: SV Health Investors news release, "Clarify Medical Closes $18M Series A Round to Commercialize its Connected Home Phototherapy System in the U.S.," October 23, 2019. Accessed August 2026. https://svhealthinvestors.com/news/clarify-medical-closes-18m-series-a-round-to-commercialize-its-connected-home-phototherapy-system-in-the-u-s-clarify-medical — Third independent primary source (syndicate participant's own release) confirming Clarify Medical's $18M Series A on 2019-10-23 with 7wire Ventures, H.I.G. BioHealth Partners, SV Health Investors, and Bluestem Capital participating.
