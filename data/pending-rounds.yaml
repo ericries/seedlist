@@ -96,14 +96,6 @@ pending_rounds:
   parsed_amount: $310M
   parsed_round: Series B
   status: pending
-- title: Base Power raises another $1B to save the grid using backyard batteries
-  url: https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/
-  source: techcrunch
-  date_found: '2026-08-03'
-  parsed_company: Base Power
-  parsed_amount: $1B
-  parsed_round: null
-  status: pending
 - title: Skull Ridge Gold Corp. Closes Second and Final Tranche, Completing $122,500
     Non-Brokered Private Placement
   url: https://www.globenewswire.com/news-release/2026/07/31/3337084/0/en/Skull-Ridge-Gold-Corp-Closes-Second-and-Final-Tranche-Completing-122-500-Non-Brokered-Private-Placement.html
