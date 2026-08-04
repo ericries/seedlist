@@ -20,6 +20,194 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Fusemachines Closes Up to $10.66 Million Investment at $4.20 per Share for
+    Growth Capital from Existing Investor Meteora Capital
+  url: https://www.globenewswire.com/news-release/2026/08/04/3338101/0/en/Fusemachines-Closes-Up-to-10-66-Million-Investment-at-4-20-per-Share-for-Growth-Capital-from-Existing-Investor-Meteora-Capital.html
+  source: globenewswire
+  date_found: '2026-08-04'
+  parsed_company: Fusemachines
+  parsed_amount: $10.66M
+  parsed_round: null
+  status: pending
+- title: The AlleyWatch July 2026 New York Venture Capital Funding Report
+  url: https://alleywatch.com/2026/08/new-york-venture-capital-july-2026/
+  source: alleywatch
+  date_found: '2026-08-04'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris-based Shiplog raises over €807.6K to build agentic customer intelligence
+    for personalisation at scale
+  url: https://www.eu-startups.com/2026/08/paris-based-shiplog-raises-over-e807-6k-to-build-agentic-customer-intelligence-for-personalisation-at-scale/
+  source: eu-startups
+  date_found: '2026-08-04'
+  parsed_company: Paris-based Shiplog
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Female-founded AI LegalTech startup Aavalynx raises €1.75 million to bring
+    “death to disputes”
+  url: https://www.eu-startups.com/2026/08/female-founded-ai-legaltech-startup-aavalynx-raises-e1-75-million-to-bring-death-to-disputes/
+  source: eu-startups
+  date_found: '2026-08-04'
+  parsed_company: Female-founded AI LegalTech startup Aavalynx
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Ore Energy raises €37.3 million to scale iron-air batteries that store renewable
+    power for up to 100 hours
+  url: https://www.eu-startups.com/2026/08/ore-energy-raises-e37-3-million-to-scale-iron-air-batteries-that-store-renewable-power-for-up-to-100-hours/
+  source: eu-startups
+  date_found: '2026-08-04'
+  parsed_company: Ore Energy
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: HappyRobot raised $150M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: HappyRobot
+  parsed_amount: $150M
+  parsed_round: Series C
+  status: pending
+- title: Oligo Security raised $60M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: Oligo Security
+  parsed_amount: $60M
+  parsed_round: null
+  status: pending
+- title: Convex raised $57M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: Convex
+  parsed_amount: $57M
+  parsed_round: Series B
+  status: pending
+- title: QuantHealth raised $45M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: QuantHealth
+  parsed_amount: $45M
+  parsed_round: Series B
+  status: pending
+- title: Ore Energy raised $43M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: Ore Energy
+  parsed_amount: $43M
+  parsed_round: Series A
+  status: pending
+- title: Yellow Card raised $40M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: Yellow Card
+  parsed_amount: $40M
+  parsed_round: null
+  status: pending
+- title: Inocras raised $31M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: Inocras
+  parsed_amount: $31M
+  parsed_round: null
+  status: pending
+- title: Dash Bio raised $30M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: Dash Bio
+  parsed_amount: $30M
+  parsed_round: Series A
+  status: pending
+- title: Delightree raised $25M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: Delightree
+  parsed_amount: $25M
+  parsed_round: null
+  status: pending
+- title: LemonEdge raised $21M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: LemonEdge
+  parsed_amount: $21M
+  parsed_round: Series A
+  status: pending
+- title: Buzz Solutions raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: Buzz Solutions
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: pending
+- title: InvestiFi raised $20M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: InvestiFi
+  parsed_amount: $20M
+  parsed_round: null
+  status: pending
+- title: Advocate Technologies raised $18M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: Advocate Technologies
+  parsed_amount: $18M
+  parsed_round: Seed
+  status: pending
+- title: ARC Group Securities Acquisition I raised $150M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: ARC Group Securities Acquisition I
+  parsed_amount: $150M
+  parsed_round: null
+  status: pending
+- title: BOA Acquisition II raised $125M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: BOA Acquisition II
+  parsed_amount: $125M
+  parsed_round: null
+  status: pending
+- title: an Israeli livestreaming platform that had raised $111M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: an Israeli livestreaming platform that had
+  parsed_amount: $111M
+  parsed_round: null
+  status: pending
+- title: Adams Street Partners raised $2.7B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: Adams Street Partners
+  parsed_amount: $2.7B
+  parsed_round: null
+  status: pending
+- title: Kingswood Capital Management raised $3.1B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-04'
+  parsed_company: Kingswood Capital Management
+  parsed_amount: $3.1B
+  parsed_round: null
+  status: pending
 - title: Helsinki-based Aiforia secures €20 million EIB financing to advance AI-powered
     cancer diagnostics
   url: https://www.eu-startups.com/2026/08/helsinki-based-aiforia-secures-e20-million-eib-financing-to-advance-ai-powered-cancer-diagnostics/
@@ -674,173 +862,3 @@ pending_rounds:
   notes: created startup profile cascade.md; led by a16z Speedrun (Marcus Segal);
     Ada Ventures, Blitzscaling Ventures, Indico Capital Partners, shuckerVC, G2C Ventures,
     Snowball VC also participated; updated andreessen-horowitz portfolio
-- title: Zürich-based Immitra Bio secures €2.58 million to scale its scalable in-vivo
-    genetic medicine platform
-  url: https://www.eu-startups.com/2026/07/zurich-based-immitra-bio-secures-e2-58-million-to-scale-its-scalable-in-vivo-genetic-medicine-platform/
-  source: eu-startups
-  date_found: '2026-07-22'
-  parsed_company: Zürich-based Immitra Bio
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Travis Kalanick’s robotics company raises $1.7B, led by a16z
-  url: https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/
-  source: techcrunch
-  date_found: '2026-07-22'
-  parsed_company: Travis Kalanick’s robotics company
-  parsed_amount: $1.7B
-  parsed_round: Growth
-  status: processed
-  notes: atoms.md already existed; updated andreessen-horowitz portfolio; a16z led
-    with Bain Capital, Fifth Wall, Chemistry, K5 Global, SV Angel, Alpha Square Group,
-    Uber; Ben Horowitz to board
-- title: Yope raises $12.3M to build a private social network without algorithms or
-    ads
-  url: https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/
-  source: techcrunch
-  date_found: '2026-07-22'
-  parsed_company: Yope
-  parsed_amount: $12.3M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile yope.md; Northzone led with participation from Inovo,
-    Redseed, Geek Ventures; updated northzone and par-jorgen-parson portfolios
-- title: Assured Health raised $19M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-22'
-  parsed_company: Assured Health
-  parsed_amount: $19M
-  parsed_round: Series A
-  status: processed
-  notes: created startup profile assured-health.md; Insight Partners led with First
-    Round Capital and Kindred Ventures on 2026-07-22; updated insight-partners and
-    first-round-capital portfolios
-- title: an SF-based AI compute management platform raised $20M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-22'
-  parsed_company: an SF-based AI compute management platform
-  parsed_amount: $20M
-  parsed_round: Seed
-  status: pending
-- title: Cordant raised $8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-22'
-  parsed_company: Cordant
-  parsed_amount: $8M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile cordant.md; Motive Partners and Oak HC/FT co-led
-    on 2026-07-21 with FJ Labs, SignalFire, Quona, Bitso, Paxos, Bankless VC, others;
-    updated fj-labs portfolio
-- title: an NYC-based digital pelvic floor health platform that raised $1.85M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-22'
-  parsed_company: an NYC-based digital pelvic floor health platform that
-  parsed_amount: $1.85M
-  parsed_round: null
-  status: pending
-- title: Passionfroot raises $15M to expand its B2B creator marketplace to the US
-  url: https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/
-  source: techcrunch
-  date_found: '2026-07-22'
-  parsed_company: Passionfroot
-  parsed_amount: $15M
-  parsed_round: Series A
-  status: processed
-  notes: passionfroot.md already existed; updated insight-partners and creandum portfolios;
-    Insight Partners led with Creandum, Supernode Global, s16vc on 2026-07-22
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/27/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-27-2026/
-  source: alleywatch
-  date_found: '2026-07-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Berlin’s Deutsche Sanierungsberatung raises over €10 million to accelerate
-    climate-neutral home renovations
-  url: https://www.eu-startups.com/2026/07/berlin-based-deutsche-sanierungsberatung-raises-over-e10-million-to-accelerate-climate-neutral-home-renovations/
-  source: eu-startups
-  date_found: '2026-07-21'
-  parsed_company: Berlin’s Deutsche Sanierungsberatung
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: ORiS secures €5 million to develop wireless power transmission systems for
-    space and dual-use applications
-  url: https://www.eu-startups.com/2026/07/turin-based-oris-secures-e5-million-to-develop-wireless-power-transmission-systems-for-space-and-dual-use-applications/
-  source: eu-startups
-  date_found: '2026-07-21'
-  parsed_company: ORiS
-  parsed_amount: €5M
-  parsed_round: Pre-Seed
-  status: processed
-  processed: '2026-07-21'
-- title: Italy’s Circular Materials secures €11.8 million to recover critical raw
-    materials from industrial wastewater
-  url: https://www.eu-startups.com/2026/07/italys-circular-materials-secures-e11-8-million-to-recover-critical-raw-materials-from-industrial-wastewater/
-  source: eu-startups
-  date_found: '2026-07-21'
-  parsed_company: Italy’s Circular Materials
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Closing The Series A Gap Is The Next Great Opportunity For Black Founders
-    In The AI Era
-  url: https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/
-  source: crunchbase
-  date_found: '2026-07-21'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Profitable space startup deltaVision secures €10.2 million to provide the
-    “cardiovascular system for spacecraft”
-  url: https://www.eu-startups.com/2026/07/profitable-space-startup-deltavision-secures-e10-2-million-to-provide-the-cardiovascular-system-for-spacecraft/
-  source: eu-startups
-  date_found: '2026-07-21'
-  parsed_company: Profitable space startup deltaVision
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Bucking EV slowdown, Sila raises $300M to expand battery materials factory
-  url: https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/
-  source: techcrunch
-  date_found: '2026-07-21'
-  parsed_company: Bucking EV slowdown, Sila
-  parsed_amount: $300M
-  parsed_round: null
-  status: pending
-- title: New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale
-    industrial robotics and physical AI
-  url: https://www.eu-startups.com/2026/07/new-unicorn-humanoid-secures-e133-million-at-e1-1-billion-valuation-to-scale-industrial-robotics-and-physical-ai/
-  source: eu-startups
-  date_found: '2026-07-21'
-  parsed_company: New Unicorn! Humanoid
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Neo raised $100M seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-21'
-  parsed_company: Neo
-  parsed_amount: $100M
-  parsed_round: Seed And Series A
-  status: processed
-  processed: '2026-07-21'
-  processed_slug: neo-agentic-security
-- title: Uniti raised $12M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-21'
-  parsed_company: Uniti
-  parsed_amount: $12M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-07-21'
-  processed_slug: uniti-ai

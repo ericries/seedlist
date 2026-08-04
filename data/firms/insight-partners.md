@@ -143,6 +143,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Inforcer | Series C ($50M, led; Dawn Capital and Meritech Capital are existing investors in the company but not explicitly confirmed as Series C participants) | 2026-07-30 | Cybersecurity / MSP / Microsoft 365 | Active | [^info1][^info2] |
 | DataBahn | Series B ($40M, led; Forgepoint, GTM Capital, S3 Ventures also participated) | 2026-07-30 | Data Infrastructure / AI / Cybersecurity | Active | [^db1][^db2] |
 | Spur Intelligence | Growth ($200M, led; investment, round type not specified in source) | 2026-07-28 | Cybersecurity / IP Intelligence / Fraud Prevention | Active | [^spur1][^spur2][^spur3] |
+| Convex | Series B ($57M, led; Andreessen Horowitz, Spark Capital, Etna Labs also participated) | 2026-08-04 | Developer Tools / Application Backend / AI | Active | [^cvx1][^cvx2] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -275,3 +276,7 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^spur2]: TechCrunch, "Bot-detection startup Spur nabs $200M from Insight," July 28, 2026. Accessed July 31, 2026. https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/
 
 [^spur3]: FinSMEs, "Spur Intelligence Receives $200M Investment From Insight Partners," July 2026. Accessed July 31, 2026. https://www.finsmes.com/2026/07/spur-intelligence-receives-200m-investment-from-insight-partners.html
+
+[^cvx1]: SiliconANGLE, "Convex reels in $57M for its AI-optimized application backend," August 4, 2026. Accessed August 2026. https://siliconangle.com/2026/08/04/convex-reels-57m-ai-optimized-application-backend/
+
+[^cvx2]: Crunchbase, "Series B – Convex – Funding Round Profile," August 4, 2026. Accessed August 2026. https://www.crunchbase.com/funding_round/convex-c445-series-b--1fa47669

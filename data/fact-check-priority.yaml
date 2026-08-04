@@ -4191,3 +4191,31 @@ priority:
   type: investor
   reason: co-led Ore Energy Series A (2026-08-04) with HV Capital
   added: 2026-08-04
+- slug: insight-partners
+  type: firm
+  reason: "led Convex Series B (2026-08-04), $57M"
+  added: 2026-08-04
+- slug: andreessen-horowitz
+  type: firm
+  reason: "participated in Convex Series B (2026-08-04) $57M and HappyRobot Series C (2026-08-04) $150M"
+  added: 2026-08-04
+- slug: spark-capital
+  type: firm
+  reason: "participated in Convex Series B (2026-08-04), $57M"
+  added: 2026-08-04
+- slug: y-combinator
+  type: firm
+  reason: "participated in HappyRobot Series C (2026-08-04), $150M"
+  added: 2026-08-04
+- slug: koch-disruptive-technologies
+  type: firm
+  reason: "participated in HappyRobot Series C (2026-08-04), $150M"
+  added: 2026-08-04
+- slug: pitango-venture-capital
+  type: firm
+  reason: "participated in QuantHealth Series B (2026-08-04), $45M via Pitango HealthTech"
+  added: 2026-08-04
+- slug: accel
+  type: firm
+  reason: "participated in Delightree $25M growth round (2026-08-04) led by Innovius"
+  added: 2026-08-04
