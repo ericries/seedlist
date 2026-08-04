@@ -31,14 +31,14 @@ Ossprey is a UK-based cybersecurity startup founded in 2026 by Nate Dunning (CEO
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+> "Open-source software supply chain attacks have quietly exploded in scale and sophistication, yet security tools today can't tell malicious code from benign." — Millan Suri, Episode 1 Ventures, July 2026 [^3]
 
 ## What Founders Say
 
-> "We founded Ossprey because existing approaches weren't designed for the pace modern engineering teams now operate at. Organisations shouldn't have to choose between shipping software quickly and building it securely." — Nate Dunning, CEO, July 2026 [^2]
+> "We founded Ossprey because existing approaches weren't designed for the pace modern engineering teams now operate at. Organisations shouldn't have to choose between shipping software quickly and building it securely." — Nate Dunning, CEO, July 2026 [^1]
 
 ## Sources
 
-[^1]: FinSMEs, "Ossprey Raises $2.65M in Pre-Seed Funding," July 2026, accessed July 2026. https://www.finsmes.com/2026/07/ossprey-raises-2-65m-in-pre-seed-funding.html
-[^2]: Tech.eu, "Ossprey secures $2.65M to stop software supply chain attacks," July 22, 2026, accessed July 2026. https://tech.eu/2026/07/22/ossprey-secures-265m-to-stop-software-supply-chain-attacks/
-[^3]: The SaaS News, "Ossprey Raises $2.65M Pre-seed," July 2026, accessed July 2026. https://www.thesaasnews.com/news/ossprey-raises-2-65m-pre-seed/
+[^1]: Tech.eu, "Ossprey secures $2.65M to stop software supply chain attacks," July 22, 2026, accessed August 2026. https://tech.eu/2026/07/22/ossprey-secures-265m-to-stop-software-supply-chain-attacks/
+[^2]: The SaaS News, "Ossprey Raises $2.65M Pre-seed," July 2026, accessed August 2026. https://www.thesaasnews.com/news/ossprey-raises-2-65m-pre-seed/
+[^3]: UKTech News, "Cyber startup Ossprey raises £2m to tackle AI supply chain threats," July 22, 2026, accessed August 2026. https://www.uktech.news/cybersecurity/cyber-startup-ossprey-raises-2m-to-tackle-ai-supply-chain-threats-20260722

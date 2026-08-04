@@ -28,18 +28,19 @@ Bioscan Research is a Bengaluru-based medtech company developing affordable non-
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-07-22 | Seed | $1M | Unicorn India Ventures | [^1] [^2] [^3] |
+| 2026-07-22 | Seed | $1M | Unicorn India Ventures | — [^1] [^2] [^3] [^4] |
 
 ## What Investors Say
 
-"Bioscan Research is making it possible to detect intra-cranial haemorrhage non-invasively." — Anil Joshi, Managing Partner, Unicorn India Ventures [^3]
+"Bioscan Research is making it possible to detect intra-cranial haemorrhage non-invasively." — Anil Joshi, Managing Partner, Unicorn India Ventures [^2]
 
 ## What Founders Say
 
-"We harness light to reveal what the eyes can't see — giving doctors clarity, patients hope, and technology a heart." — Bioscan Research founding team [^3]
+"We harness light to reveal what the eyes can't see — giving doctors clarity, patients hope, and technology a heart." — Bioscan Research founding team [^2]
 
 ## Sources
 
 [^1]: BioSpectrum India, "MedTech firm Bioscan Research raises $1 M in seed round for market expansion," July 2026. Accessed July 2026. https://www.biospectrumindia.com/news/16/28174/medtech-firm-bioscan-research-raises-1-m-in-seed-round-for-market-expansion-.html
 [^2]: Indian Startup News, "Medtech startup Bioscan Research raises $1 million to scale brain injury diagnostic technology," July 22, 2026. Accessed July 2026. https://indianstartupnews.com/funding/medtech-startup-bioscan-research-raises-1-million-to-scale-brain-injury-diagnostic-technology-12187022
-[^3]: FinSMEs, "Bioscan Research Raises $1M in Seed Funding," July 2026. Accessed July 2026. https://www.finsmes.com/2026/07/bioscan-research-raises-1m-in-seed-funding.html
+[^3]: Entrackr, "Medtech startup Bioscan Research raises $1 Mn in seed round led by Unicorn India Ventures," July 22, 2026. Accessed August 2026. https://entrackr.com/snippets/medtech-startup-bioscan-research-raises-1-mn-in-seed-round-led-by-unicorn-india-ventures-12186756
+[^4]: TechObserver, "Bioscan Research raises $1 million in seed funding from Unicorn India Ventures," July 2026. Accessed August 2026. https://techobserver.in/news/startups/bioscan-research-raises-1-million-brain-injury-detection-326845/

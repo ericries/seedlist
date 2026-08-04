@@ -3,7 +3,8 @@ name: "PageMind"
 slug: pagemind
 type: startup
 website: "https://pagemind.ai"
-location: "Spain"
+location: "Barcelona, Spain"
+founded: 2025
 sector: [ecommerce, AI, saas]
 stage_latest: "Seed"
 total_raised: "€1.2M"
@@ -36,5 +37,5 @@ No independently sourced investor quotes found at this time.
 
 ## Sources
 
-[^1]: Tech.eu, "PageMind raises €1.2M to scale AI for e-commerce product discovery," July 23, 2026, accessed July 2026. https://tech.eu/2026/07/23/pagemind-raises-eur12m-to-scale-ai-for-e-commerce-product-discovery/
-[^2]: Capital-Riesgo.es, "PageMind Raises €1.2 Million in a Funding Round Led by 4Founders Capital to Accelerate Its Expansion into the U.S. Market," July 2026, accessed July 2026. https://capital-riesgo.es/en/articles/pagemind-raises-1-2-million-in-a-funding-round-led-by-4founders-capital-to-accelerate-its-expansion-into-the-u-s-market/
+[^1]: Tech.eu, "PageMind raises €1.2M to scale AI for e-commerce product discovery," July 23, 2026, accessed August 2026. https://tech.eu/2026/07/23/pagemind-raises-eur12m-to-scale-ai-for-e-commerce-product-discovery/
+[^2]: Raising Europe (Substack), "European Tech Dealflow Highlights: AI Materials, Humanoid Robotics & Space Lasers (2026.07.27)," July 27, 2026, accessed August 2026. https://raisingeurope.substack.com/p/european-tech-dealflow-highlights-f2e
