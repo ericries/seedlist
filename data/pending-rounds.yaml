@@ -38,6 +38,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Fusemachines Closes Up to $10.66 Million Investment at $4.20 per Share for
+    Growth Capital from Existing Investor Meteora Capital
+  url: https://www.globenewswire.com/news-release/2026/08/04/3338101/0/en/Fusemachines-Closes-Up-to-10-66-Million-Investment-at-4-20-per-Share-for-Growth-Capital-from-Existing-Investor-Meteora-Capital.html
+  source: globenewswire
+  date_found: '2026-08-04'
+  parsed_company: Fusemachines
+  parsed_amount: $10.66M
+  parsed_round: null
+  status: pending
+- title: Paris-based Shiplog raises over €807.6K to build agentic customer intelligence
+    for personalisation at scale
+  url: https://www.eu-startups.com/2026/08/paris-based-shiplog-raises-over-e807-6k-to-build-agentic-customer-intelligence-for-personalisation-at-scale/
+  source: eu-startups
+  date_found: '2026-08-04'
+  parsed_company: Paris-based Shiplog
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Helsinki-based Aiforia secures €20 million EIB financing to advance AI-powered
     cancer diagnostics
   url: https://www.eu-startups.com/2026/08/helsinki-based-aiforia-secures-e20-million-eib-financing-to-advance-ai-powered-cancer-diagnostics/
