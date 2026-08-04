@@ -45369,3 +45369,59 @@ queue:
   firm: Elvie / independent
   discovered_from: jean-nehme
   source: co-invested with Jean Nehme in WONE (Walking on Earth) pre-seed
+- name: SC Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SC Ventures (Standard Chartered)
+  discovered_from: yellow-card
+- name: Blockchain Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Blockchain Capital
+  discovered_from: yellow-card
+- name: Chris Maurice
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Yellow Card
+  discovered_from: yellow-card
+- name: Omega Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Omega Ventures
+  discovered_from: aavalynx
+- name: Two Ravens
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Two Ravens
+  discovered_from: aavalynx
+- name: Hanna Roos
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Aavalynx
+  discovered_from: aavalynx
+- name: Project Europe
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Project Europe
+  discovered_from: shiplog
+- name: Station F Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Station F Fund
+  discovered_from: shiplog
