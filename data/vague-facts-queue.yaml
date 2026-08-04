@@ -9934,7 +9934,9 @@ vague_facts:
   line: '| Xcimer Energy | Series A ($100M, participant; lead: Hedosophia) | 2024-06-04 | -- | Fusion energy | active [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_note: 'Fact-spec sweep 2026-08-04: Xcimer Series A row expanded with full co-participant list (Breakthrough Energy Ventures, Lowercarbon Capital, Prelude Ventures, Emerson Collective, Starlight Ventures). Date 2024-06-04 confirmed via 3 primary sources: existing Xcimer press release [^6], NEW Latitude Media [^15] (2024-06-05), and Tracxn/PitchBook aggregator confirmations. Lead Partner column left as "--" — no specific Gigascale team member is named across primary sources for this deal; Gigascale invested from Schroepfer personal vehicle in 2024 (pre-Fund I). 1 new footnote ([^15]).'
 - profile: firms/gigascale-capital
   profile_name: Gigascale Capital
   company: Radiant Nuclear
@@ -9944,7 +9946,9 @@ vague_facts:
   line: '| Radiant Nuclear | Series C ($165M close, participant; lead: DCVC) | 2025-05 | -- | Small modular nuclear | active [^7]'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_note: 'Fact-spec sweep 2026-08-04: Radiant Series C row date tightened from vague "2025-05" to exact 2025-06-04 close date, and full new-investor list added (StepStone, Giant Ventures, Hanwha Asset Management, SGA, Crossbeam Venture Partners, Align Ventures, ARK Venture Fund, HartBeat Ventures, Pax Ventures). Verified via 3+ primary sources: existing Radiant blog [^7] (announcement 2025-05-28 via Twitter/X), NEW Orrick LLP deal counsel disclosure [^16] (June 3, 2025 close), NEW Nuclear Engineering International [^17] (June 4, 2025). Also cross-confirmed by Bloomberg 2025-05-28 announcement coverage. Lead Partner column left as "--" — no specific Gigascale team member named in primary press for this participation. 2 new footnotes ([^16], [^17]).'
 - profile: firms/gigascale-capital
   profile_name: Gigascale Capital
   company: Arbor Energy
@@ -9964,7 +9968,9 @@ vague_facts:
   line: '| Heron Power | Series B ($140M, participant; co-leads: a16z, Breakthrough Energy Ventures) | 2026-02-18 | -- | Industri'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_note: 'Fact-spec sweep 2026-08-04: Heron Power Series B row expanded to specify Gigascale participated as EXISTING investor (implies Gigascale invested earlier — likely Series A or seed in a prior round, worth future investigation), and full co-participant list added (Capricorn Investment Group, Energy Impact Partners, Valor Atreides AI Fund). Date 2026-02-18 confirmed via 3 primary sources: existing GlobeNewswire press release [^9], NEW TechCrunch [^18] (2026-02-18 tier-1 press), NEW SolarQuarter [^19] (2026-02-19 trade press). Co-leads a16z American Dynamism + Breakthrough Energy Ventures verified. Lead Partner column left as "--" — no specific Gigascale team member named for this participation. 2 new footnotes ([^18], [^19]).'
 - profile: firms/gigascale-capital
   profile_name: Gigascale Capital
   company: Form Energy
