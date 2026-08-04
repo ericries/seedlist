@@ -959,7 +959,9 @@ vague_facts:
   line: '| Praxify | Early | ~2013 | — | HealthTech/SaaS | Acquired [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_note: 'Fact-spec sweep 2026-08-04: Praxify seed round corrected. Per Tracxn primary company profile [^27], Praxify raised only ONE seed round on 2014-05-23 with a single institutional investor (Microsoft/M12), amount undisclosed. Aarin Capital is NOT independently named in primary press — attribution derives entirely from Razorpay Rize aggregator [^5]. Row updated to reflect aggregator-only Aarin attribution with 2014-05-23 date and athenahealth 2017-06-08 acquisition for USD 63M (confirmed via MedCity News [^28]). 2 new footnotes added ([^27] Tracxn, [^28] MedCity News). Existing 2013 date was a guess dressed as a fact.'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: HomeLane
@@ -981,17 +983,21 @@ vague_facts:
   line: '| PharmEasy (API Holdings) | Early | ~2016 | — | HealthTech / Pharmacy | Active [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_note: 'Fact-spec sweep 2026-08-04: PharmEasy row corrected from "Early | ~2016" to "Series B (USD 18M; Bessemer Venture Partners led; Aarin Capital + Orios + Astarc + Trifecta participated) | 2017-03-30". Confirmed via 3 primary sources: (a) startupintros.com PharmEasy funding rounds list confirming Aarin Capital in Series B alongside Bessemer + Orios; (b) DealStreetAsia [^29] contemporaneous coverage (article tags name Aarin Capital, Astarc, Bessemer, Trifecta); (c) FinSMES [^30] 2017-04-26 trade press confirming Bessemer-led Series B with same participant list. Prior Aarin CEO Ranjan Pai investments in PharmEasy in 2015 and 2018 are Ranjan Pai PERSONAL investments (per Forbes 2023-09-07) — not Aarin Capital institutional. Lead Partner set to Mohandas Pai. 2 new footnotes ([^29] DealStreetAsia, [^30] FinSMES).'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
-  company: ~unknown
+  company: Jigsaw Academy
   section: Portfolio
   column: 3
   value: —
   line: ~unknown| Jigsaw Academy | Early | — | — | EdTech / Analytics | Active [^14] |
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_note: 'Fact-spec sweep 2026-08-04: Jigsaw Academy row corrected. Table formatting was broken (~unknown| prefix). Per Inc42 [^31] (2015-12-09), Jigsaw Academy raised USD 3M / INR 20 crore from Manipal Global Education Services (MaGE). Mohandas Pai joined the *advisory board* as a result of the MaGE round — Aarin Capital was NOT a participating institutional investor. Row rewritten to reflect that this is an advisory relationship (still retained for historical context since Pai co-founded Aarin Capital). Company later acquired by UNext Learning. Row date set to 2015-12-09. 1 new footnote [^31] Inc42.'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: Invact Metaversity
@@ -1001,7 +1007,9 @@ vague_facts:
   line: '| Invact Metaversity | Seed/Early | ~2022 | — | EdTech / Metaverse | — [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_note: 'Fact-spec sweep 2026-08-04: Invact Metaversity row corrected. Per Inc42 [^34] and PR Newswire [^35] (both 2022-02-07), Invact Metaversity announced a seed round valuing the company at USD 33M with 70+ global entrepreneur/angel backers including TV Mohandas Pai (Manipal Group), Kishore Biyani (Future Group), Ritesh Malik (Plaksha), Kirthiga Reddy (ex-Facebook India). Aarin Capital as an INSTITUTION is NOT named — Pai participated in personal capacity. Row date set to 2022-02-07 and Lead Partner column reflects Mohandas Pai (personal). 2 new footnotes ([^34] Inc42, [^35] PR Newswire).'
 - profile: firms/accel
   profile_name: Accel
   company: Slack (Tiny Speck)
@@ -206218,7 +206226,9 @@ vague_facts:
   line: '| Praxify | Early | ~2013 | — | HealthTech/SaaS | Acquired [^5] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_note: 'Resolved as part of 2026-08-04 Praxify sweep — see resolved column-3 entry for firms/aarin-capital / Praxify. Date now 2014-05-23 per Tracxn [^27]; Aarin Capital attribution flagged as aggregator-only.'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: PharmEasy (API Holdings)
@@ -206228,7 +206238,9 @@ vague_facts:
   line: '| PharmEasy (API Holdings) | Early | ~2016 | — | HealthTech / Pharmacy | Active [^6] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_note: 'Resolved as part of 2026-08-04 PharmEasy sweep — see resolved column-3 entry for firms/aarin-capital / PharmEasy. Date now 2017-03-30 (Series B, USD 18M, Bessemer-led) per DealStreetAsia [^29] and FinSMES [^30].'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: Invact Metaversity
@@ -206238,7 +206250,9 @@ vague_facts:
   line: '| Invact Metaversity | Seed/Early | ~2022 | — | EdTech / Metaverse | — [^14] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_note: 'Resolved as part of 2026-08-04 Invact Metaversity sweep — see resolved column-3 entry. Date now 2022-02-07 per Inc42 [^34] and PR Newswire [^35]. Mohandas Pai participated personally alongside 70+ angels; Aarin Capital as institution not named.'
 - profile: firms/abstract-ventures
   profile_name: Abstract Ventures
   company: Wise
