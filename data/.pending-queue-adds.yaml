@@ -1,0 +1,11 @@
+- name: "Sedna HoReCa"
+  type: firm
+  source: "sole investor in Kaapi Machines ₹50 Cr strategic equity round (2026-08-03)"
+  discovered_from: kaapi-machines
+  priority: normal
+- name: "Abhinav Mathur"
+  type: individual
+  firm: "Kaapi Machines"
+  source: "Founder & CEO of Kaapi Machines; noted for scaling India's premium coffee equipment market"
+  discovered_from: kaapi-machines
+  priority: low
