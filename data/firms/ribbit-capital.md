@@ -124,6 +124,7 @@ The firm emphasizes brand-building as central to its value proposition, stating 
 | Slash | Series C | 2026 | Fintech / Banking | Active | [^19] |
 | Mach Industries | Series C (co-led, $300M) | 2026-06-02 | Defense-tech / Manufacturing | Active | [^20][^21][^22] |
 | Enigma | Seed (co-led with Index Ventures, $71M; Conviction Partners participated) | 2026-07-27 | Robotics / AI / Foundation Models | Active | [^23][^24] |
+| Etched | Growth (participant, $500M round; Stripes led at $5B post-money valuation; Peter Thiel, Positive Sum, Jane Street, Hudson River Trading, Two Sigma, VentureTech Alliance also participated) | 2025-12 | AI Chips / Semiconductors | Active | [^25][^26][^27] |
 
 *This table represents approximately 8% of Ribbit's 164 total investments [^6]. All entries now have verified round stages and years from primary sources. The firm's portfolio likely contains significantly more companies, particularly from Funds IV-X, that could not be independently verified from available sources.*
 
@@ -179,3 +180,9 @@ No independently sourced founder testimonials found. Dedicated searches for port
 [^22]: "MIT dropout's Mach Industries bags $300M at $1.8B valuation as defence manufacturing enters a new era," Tech Funding News, June 2026. Accessed June 2026. https://techfundingnews.com/mit-dropouts-mach-industries-bags-300m-at-1-8b-valuation-as-defence-manufacturing-enters-a-new-era/
 [^23]: "Enigma raises $71M to make controlling a robot as easy as adjusting the volume," TechCrunch, July 27, 2026. Accessed July 28, 2026. https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/ — Article body confirms $71M seed; names Ribbit Capital and Index Ventures as co-leads.
 [^24]: "Enigma raises $71M to develop foundation models for robots," SiliconANGLE, July 27, 2026. Accessed July 28, 2026. https://siliconangle.com/2026/07/27/enigma-raises-71m-develop-foundation-models-robots/ — Independent tier-1 confirmation of $71M seed co-led by Index Ventures and Ribbit Capital with Conviction Partners participation.
+
+[^25]: Julie Bort, "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip," TechCrunch, June 30, 2026. Accessed August 2026. https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/ — Reports Etched quietly closed a $500M December 2025 round led by Stripes; Ribbit Capital named among participants.
+
+[^26]: "AI Chip Startup Etched Raises $500 Million in New Funding Round," Bloomberg via Yahoo Finance, June 2026. Accessed August 2026. https://finance.yahoo.com/news/ai-chip-startup-etched-raises-160625909.html — "Stripes led with participation from Peter Thiel alongside Positive Sum and Ribbit Capital."
+
+[^27]: "Etched hits $5B valuation after booking $1B in AI chip sales," Crypto Briefing, June 2026. Accessed August 2026. https://cryptobriefing.com/etched-5b-valuation-ai-chip-sales/ — "Investors include VentureTech Alliance, Jane Street, Hudson River Trading, Two Sigma, Ribbit Capital and Stripes, which led the round."

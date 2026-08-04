@@ -167285,7 +167285,9 @@ vague_facts:
   line: '| 2025-09-23 | Seed | $30M | Undisclosed (stealth) | Undisclosed [^2][^3][^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-08-04
+  resolution_notes: 'Fact-spec sweep 2026-08-04: Astromech 2025-09-23 seed round investors are genuinely undisclosed across all primary and contemporaneous sources. Verified via (1) Yahoo Finance/AccessWire press release (2025-09-23) — no investors named; (2) FinSMEs (2025-09-23) — no investors named; (3) SEC Form D CIK 0002081290 (filed 2025-08-12) — Form D lists only Benjamin Lamm, George Church, and Brian Beard as related persons/officers with no investor identities; (4) GamesBeat spinout coverage (April 2026) — explicitly states no investors named; (5) D CEO Magazine (March 2026) — no investors named. Confirmed Ben Lamm/company intentionally kept the cap table private during stealth. No update to profile; existing "Undisclosed (stealth)" designation is accurate.'
 - profile: startups/astromech
   profile_name: Astromech
   company: '2026-03-12'
@@ -167295,7 +167297,9 @@ vague_facts:
   line: '| 2026-03-12 | Seed Extension | $10.5M | Undisclosed (stealth) | Undisclosed [^1][^4] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-08-04
+  resolution_notes: 'Fact-spec sweep 2026-08-04: Astromech 2026-03-12 seed extension investors are genuinely undisclosed. Verified via (1) D CEO Magazine (March 2026) — no investors named; (2) SEC Form D CIK 0002081290 (filed 2026-03-26 for $10.5M extension) — only Lamm/Church/Beard listed; (3) GamesBeat (April 2026) — no investors named; (4) Axios Pro Rata biotech deals (2026-04-07, paywalled) — headline "colossal spinout astromech raises 40m" confirms round but investor identities not surfaced in accessible portions. Company remains in stealth. No update to profile; existing "Undisclosed (stealth)" designation is accurate.'
 - profile: startups/auger
   profile_name: Auger
   company: '2024-10-08'
@@ -168553,7 +168557,9 @@ vague_facts:
   line: '| 2025-12 | Growth round | $500M | -- | -- [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  resolution_notes: 'Fact-spec sweep 2026-08-04: Etched December 2025 $500M growth round lead identified as Stripes, with Peter Thiel, Positive Sum, Ribbit Capital, Jane Street, Hudson River Trading, Two Sigma, and VentureTech Alliance participating (round quietly closed in December 2025 at $5B post-money valuation, publicly reported around June 2026). Verified via 3 primary/contemporaneous sources: (1) TechCrunch (Julie Bort, 2026-06-30) — Stripes led, participants named; (2) Bloomberg/Yahoo Finance report (June 2026) — "Stripes led with participation from Peter Thiel alongside Positive Sum and Ribbit Capital"; (3) Crypto Briefing (June 2026) — "Investors include VentureTech Alliance, Jane Street, Hudson River Trading, Two Sigma, Ribbit Capital and Stripes, which led the round." Updated Etched startup profile with Stripes as lead and full participant list; added 3 new footnotes.'
 - profile: startups/eventbrite
   profile_name: Eventbrite
   company: Series C

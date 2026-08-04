@@ -20,6 +20,10 @@ firms:
 - round: Angel (pre-Series A)
   slug: mistral-ai
   year: 2024
+- date: 2025-12
+  round: growth
+  slug: ribbit-capital
+  year: 2025
 founded: 2022
 founders:
 - name: Gavin Uberti
@@ -73,7 +77,7 @@ On 2026-07-23 Etched announced a $300M Series C at a $10.3B valuation, less than
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-07-23 | Series C | $300M | Sequoia Capital | Andreessen Horowitz, Jane Street, Diffusion Capital, SK Hynix [^1][^2][^3] |
-| 2025-12 | Growth round | $500M | -- | -- [^1] |
+| 2025-12 | Growth round | $500M | Stripes | Peter Thiel, Positive Sum, Ribbit Capital, Jane Street, Hudson River Trading, Two Sigma, VentureTech Alliance [^1][^4][^5][^6] |
 
 ## What Investors Say
 
@@ -92,3 +96,9 @@ Robert Wachen, Co-founder and President: "The team is working around the clock w
 [^2]: "Etched raises $300M at a $10.3B Valuation to Scale Production of Frontier Scale Inference Hardware," GlobeNewswire, July 23, 2026. Accessed July 24, 2026. https://www.globenewswire.com/news-release/2026/07/23/3332366/0/en/Etched-raises-300M-at-a-10-3B-Valuation-to-Scale-Production-of-Frontier-Scale-Inference-Hardware.html
 
 [^3]: "SK Hynix-backed AI chip startup Etched raises $300M at $10.3B valuation," Seeking Alpha, July 23, 2026. Accessed July 24, 2026. https://seekingalpha.com/news/4617524-sk-hynix-backed-ai-chip-startup-etched-raises-300m-at-10_3b-valuation
+
+[^4]: Julie Bort, "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip," TechCrunch, June 30, 2026. Accessed August 2026. https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/ — Reports Etched quietly closed a $500M December 2025 round led by Stripes at a $5B post-money valuation.
+
+[^5]: "AI Chip Startup Etched Raises $500 Million in New Funding Round," Bloomberg via Yahoo Finance, June 2026. Accessed August 2026. https://finance.yahoo.com/news/ai-chip-startup-etched-raises-160625909.html — "Stripes led with participation from Peter Thiel alongside Positive Sum and Ribbit Capital."
+
+[^6]: "Etched hits $5B valuation after booking $1B in AI chip sales," Crypto Briefing, June 2026. Accessed August 2026. https://cryptobriefing.com/etched-5b-valuation-ai-chip-sales/ — "Investors include VentureTech Alliance, Jane Street, Hudson River Trading, Two Sigma, Ribbit Capital and Stripes, which led the round."
