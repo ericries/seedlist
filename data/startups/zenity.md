@@ -1,21 +1,36 @@
 ---
-name: "Zenity"
-slug: zenity
-type: startup
-website: "https://zenity.io"
-location: "Tel Aviv, Israel"
+firms:
+- round: Seed
+  slug: upwest
+  year: 2021
 founded: 2021
-status_company: active
-sector: [cybersecurity, ai, ai-security, enterprise-software]
-stage_latest: "Series C"
-total_raised: "~$185M"
 founders:
-  - name: "Ben Kliger"
-    role: "Co-Founder & CEO"
-  - name: "Michael Bargury"
-    role: "Co-Founder & CTO"
-status: published
+- name: Ben Kliger
+  role: Co-Founder & CEO
+- name: Michael Bargury
+  role: Co-Founder & CTO
+investors:
+- round: Seed
+  slug: gil-ben-artzy
+  year: 2021
+- round: Seed
+  slug: shuly-galili
+  year: 2021
 last_researched: 2026-08-03
+location: Tel Aviv, Israel
+name: Zenity
+sector:
+- cybersecurity
+- ai
+- ai-security
+- enterprise-software
+slug: zenity
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: ~$185M
+type: startup
+website: https://zenity.io
 ---
 
 ## About

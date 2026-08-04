@@ -1,30 +1,38 @@
 ---
-name: "June AI"
-slug: june-ai
-type: startup
-website: "https://june.ai"
-location: "United States"
-founded: 2025
-status_company: active
-sector: [ai, enterprise-software, ai-agents, developer-tools]
-stage_latest: "Pre-Seed"
-total_raised: "$20M"
 firms:
-  - slug: time-ventures
-    round: pre-seed
-    year: 2026
-    date: 2026-08-03
+- date: 2026-08-03
+  round: pre-seed
+  slug: time-ventures
+  year: 2026
+founded: 2025
 founders:
-  - name: "Efrat Rapoport"
-    role: "Co-Founder"
-  - name: "Ohad Hen"
-    role: "Co-Founder"
-  - name: "Barak Goldstein"
-    role: "Co-Founder"
-  - name: "Idan Tsitiat"
-    role: "Co-Founder"
-status: published
+- name: Efrat Rapoport
+  role: Co-Founder
+- name: Ohad Hen
+  role: Co-Founder
+- name: Barak Goldstein
+  role: Co-Founder
+- name: Idan Tsitiat
+  role: Co-Founder
+investors:
+- round: Pre-Seed (led via TIME Ventures, $20M)
+  slug: marc-benioff
+  year: 2026
 last_researched: 2026-08-03
+location: United States
+name: June AI
+sector:
+- ai
+- enterprise-software
+- ai-agents
+- developer-tools
+slug: june-ai
+stage_latest: Pre-Seed
+status: published
+status_company: active
+total_raised: $20M
+type: startup
+website: https://june.ai
 ---
 
 ## About

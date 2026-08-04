@@ -1,19 +1,33 @@
 ---
-name: "OLIX"
-slug: olix
-type: startup
-website: "https://olix.ai"
-location: "London, UK"
+firms:
+- round: Seed
+  slug: transition-vc
+  year: 2023
 founded: 2024
-status_company: active
-sector: [ai, semiconductors, hardware, ai-infrastructure, deep-tech, photonics]
-stage_latest: "Series B"
-total_raised: "€270.5M+"
 founders:
-  - name: "James Dacombe"
-    role: "Founder & CEO"
-status: published
+- name: James Dacombe
+  role: Founder & CEO
+investors:
+- round: Seed
+  slug: david-helgason
+  year: 2023
 last_researched: 2026-08-03
+location: London, UK
+name: OLIX
+sector:
+- ai
+- semiconductors
+- hardware
+- ai-infrastructure
+- deep-tech
+- photonics
+slug: olix
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: €270.5M+
+type: startup
+website: https://olix.ai
 ---
 
 ## About

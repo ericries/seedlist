@@ -28667,7 +28667,7 @@ queue:
 - name: Lorenz Bogaert
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: louis-jonckheere
   source: Ghent operator-angel; frequent co-investor (Netlog, Rydoo, StarApps) with
@@ -29100,7 +29100,7 @@ queue:
 - name: Zhong Xu
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Deliverect (co-founder); angel
   discovered_from: pieterjan-bouten
@@ -44962,3 +44962,238 @@ queue:
   added: '2026-03-17'
   firm: OLIX
   discovered_from: olix
+- name: Blueprint Equity
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: develo
+  source: led Develo $14M Series A (2026-05-11); Founding Managing Partner Sheldon
+    Lewis provided lead quote
+- name: Sheldon Lewis
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Blueprint Equity
+  discovered_from: develo
+  source: Founding Managing Partner at Blueprint Equity; led Develo $14M Series A
+    (2026-05-11); Blueprint Equity firm not yet in Seedlist
+- name: Villain Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: develo
+  source: participated in Develo $14M Series A (2026-05-11)
+- name: z21 Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: develo
+  source: participated in Develo $14M Series A (2026-05-11); previously in Develo
+    seed
+- name: Bienville Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: develo
+  source: participated in Develo $14M Series A (2026-05-11)
+- name: StarApps
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lorenz-bogaert
+  source: Ghent-based venture studio co-founded by Lorenz Bogaert, Toon Coppens, Nicolas
+    Van Eenaeme, Vincent Verlee; parent of Realo (exit to Immoweb/AVIV) and portfolio
+    backer named in Aikido Series B 2026-01-14
+- name: Massive Media
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lorenz-bogaert
+  source: Ghent social media parent of Netlog, Twoo, Ablo; acquired by Meetic (Match
+    Group) December 2012; historical context only
+- name: Toon Coppens
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: StarApps
+  discovered_from: lorenz-bogaert
+  source: Co-founder of Netlog (1999), Twoo, Realo, StarApps, and Pitchdrive alongside
+    Lorenz Bogaert; recurring Ghent angel co-investor (e.g., Maurice & Nora 2026)
+- name: Nicolas Van Eenaeme
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: StarApps
+  discovered_from: lorenz-bogaert
+  source: Co-founder of Realo (2014) and StarApps venture studio in Ghent
+- name: Vincent Verlee
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Realo
+  discovered_from: lorenz-bogaert
+  source: Co-founder & CEO of Realo (2014), acquired by Immoweb (AVIV Group / Axel
+    Springer) January 2024
+- name: Boris Bogaert
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Pitchdrive
+  discovered_from: lorenz-bogaert
+  source: Managing Partner at Pitchdrive; co-founded fund in 2020; quoted in Pitchdrive
+    Fund III €40M announcement (May 2024)
+- name: Jonas Dhaenens
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Team.Blue
+  discovered_from: lorenz-bogaert
+  source: Team.Blue founder; co-founded Pitchdrive VC in 2020
+- name: Koen Christiaens
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Pitchdrive
+  discovered_from: lorenz-bogaert
+  source: Xpenditure/Rydoo co-founder; co-founded Pitchdrive VC in 2020
+- name: Realo
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lorenz-bogaert
+  source: Belgian proptech scale-up co-founded 2014 by Lorenz Bogaert, Toon Coppens,
+    Nicolas Van Eenaeme, Vincent Verlee; acquired by Immoweb / AVIV Group (Axel Springer)
+    2024-01-23
+- name: Rydoo
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lorenz-bogaert
+  source: Belgian expense-management SaaS formed 2018 from Xpenditure + iAlbatros
+    merger backed by Sodexo; Lorenz Bogaert listed as co-founder
+- name: Delta
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lorenz-bogaert
+  source: Belgian cryptocurrency portfolio tracker acquired by eToro November 2019;
+    Lorenz Bogaert co-founder
+- name: Twoo
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lorenz-bogaert
+  source: Belgian dating/social discovery product launched 2011 by Massive Media (Bogaert/Coppens);
+    acquired by Meetic Dec 2012; discontinued 2022
+- name: Netlog
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: lorenz-bogaert
+  source: Belgian social network co-founded 1999 by Lorenz Bogaert and Toon Coppens;
+    historical context only
+- name: Deliverect
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zhong-xu
+  source: Ghent-based restaurant delivery integration SaaS unicorn; Zhong Xu is co-founder
+    & CEO
+- name: Jerome Laredo
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Deliverect
+  discovered_from: zhong-xu
+  source: Deliverect co-founder (2018)
+- name: Jelte Vrijhoef
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Deliverect
+  discovered_from: zhong-xu
+  source: Deliverect co-founder (2018)
+- name: Jürgen Ingels
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Smartfin
+  discovered_from: zhong-xu
+  source: Smartfin partner; co-invested with Zhong Xu in Casper Series A 2022-04-20
+- name: Smartfin
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zhong-xu
+  source: Jürgen Ingels' Belgian VC firm; participated in Casper Series A alongside
+    Zhong Xu
+- name: Slingshot Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zhong-xu
+  source: Amsterdam-based VC; led Casper €5M Series A (2022-04-20)
+- name: Stefan van den Berg
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zhong-xu
+  source: Former CEO of Afterpay; co-invested with Zhong Xu in Orderchamp seed (2020-09)
+- name: Thomas Plantenga
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Vinted
+  discovered_from: zhong-xu
+  source: CEO of Vinted; co-invested with Zhong Xu in Orderchamp seed (2020-09)
+- name: henQ
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zhong-xu
+  source: Amsterdam VC; invested in Orderchamp seed 2019/2020 alongside angel Zhong
+    Xu
+- name: Orderchamp
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: zhong-xu
+  source: Amsterdam-based B2B wholesale marketplace; Zhong Xu angel-invested in 2020
+    seed
+- name: Matthias Laga
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Casper
+  discovered_from: zhong-xu
+  source: Co-founder & CEO of Casper (ghost kitchen); co-founded with Zhong Xu and
+    Peter Van Praet

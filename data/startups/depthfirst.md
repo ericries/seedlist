@@ -24,6 +24,9 @@ firms:
   round: series-b
   slug: forerunner-ventures
   year: 2026
+- round: Series A
+  slug: benchmark
+  year: 2026
 founded: 2024
 founders:
 - name: Qasim Mithani

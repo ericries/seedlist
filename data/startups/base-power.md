@@ -1,57 +1,82 @@
 ---
-name: "Base Power"
-slug: base-power
-type: startup
-website: "https://basepowercompany.com"
-location: "Austin, TX"
-founded: 2023
-status_company: active
-sector: [energy, energy-storage, cleantech, climate, grid-infrastructure, hardware]
-stage_latest: "Series D"
-total_raised: "~$1.4B+"
 firms:
-  - slug: ribbit-capital
-    round: series-d
-    year: 2026
-    date: 2026-08-03
-  - slug: addition
-    round: series-d
-    year: 2026
-    date: 2026-08-03
-  - slug: valor-equity-partners
-    round: series-d
-    year: 2026
-    date: 2026-08-03
-  - slug: altimeter-capital
-    round: series-d
-    year: 2026
-    date: 2026-08-03
-  - slug: d1-capital-partners
-    round: series-d
-    year: 2026
-    date: 2026-08-03
-  - slug: coatue-management
-    round: series-d
-    year: 2026
-    date: 2026-08-03
-  - slug: energy-impact-partners
-    round: series-d
-    year: 2026
-    date: 2026-08-03
-  - slug: thrive-capital
-    round: series-d
-    year: 2026
-    date: 2026-08-03
-  - slug: andreessen-horowitz
-    round: series-d
-    year: 2026
-    date: 2026-08-03
-  - slug: capitalg
-    round: series-d
-    year: 2026
-    date: 2026-08-03
-status: published
+- date: 2026-08-03
+  round: series-d
+  slug: ribbit-capital
+  year: 2026
+- date: 2026-08-03
+  round: series-d
+  slug: addition
+  year: 2026
+- date: 2026-08-03
+  round: series-d
+  slug: valor-equity-partners
+  year: 2026
+- date: 2026-08-03
+  round: series-d
+  slug: altimeter-capital
+  year: 2026
+- date: 2026-08-03
+  round: series-d
+  slug: d1-capital-partners
+  year: 2026
+- date: 2026-08-03
+  round: series-d
+  slug: coatue-management
+  year: 2026
+- date: 2026-08-03
+  round: series-d
+  slug: energy-impact-partners
+  year: 2026
+- date: 2026-08-03
+  round: series-d
+  slug: thrive-capital
+  year: 2026
+- date: 2026-08-03
+  round: series-d
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-08-03
+  round: series-d
+  slug: capitalg
+  year: 2026
+- round: Growth
+  slug: bond
+  year: 2025
+- round: Series C
+  slug: contrary
+  year: 2025
+founded: 2023
+investors:
+- round: Growth
+  slug: mary-meeker
+  year: 2025
+- round: Series B
+  slug: david-ulevitch
+  year: 2025
+- round: Series B ($200M, co-led)
+  slug: lee-fixel
+  year: 2025
+- round: Series C
+  slug: eric-tarczynski
+  year: 2025
 last_researched: 2026-08-03
+location: Austin, TX
+name: Base Power
+sector:
+- energy
+- energy-storage
+- cleantech
+- climate
+- grid-infrastructure
+- hardware
+slug: base-power
+stage_latest: Series D
+status: published
+status_company: active
+total_raised: ~$1.4B+
+type: startup
+website: https://basepowercompany.com
 ---
 
 ## About
