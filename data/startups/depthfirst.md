@@ -1,8 +1,17 @@
 ---
 firms:
-- round: series-a
+- date: 2026-01-14
+  round: series-a
   slug: accel
-  year: 2025
+  year: 2026
+- date: 2026-01-14
+  round: series-a
+  slug: boxgroup
+  year: 2026
+- date: 2026-01-14
+  round: series-a
+  slug: sv-angel
+  year: 2026
 - date: 2026-03-31
   round: series-b
   slug: accel
@@ -14,9 +23,6 @@ firms:
 - date: 2026-03-31
   round: series-b
   slug: forerunner-ventures
-  year: 2026
-- round: Series A
-  slug: benchmark
   year: 2026
 founded: 2024
 founders:
@@ -53,7 +59,7 @@ depthfirst is a San Francisco-based applied AI lab founded in 2024 by technical 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-03-31 | Series B | $80M | Meritech Capital | Forerunner Ventures, The House Fund, Accel, BoxGroup, Liquid 2 Ventures, Alt Capital, Mantis VC [^1][^2] |
-| ~2025 | Series A | $40M | | [^1] |
+| 2026-01-14 | Series A | $40M | Accel (Sara Ittelson) | Alt Capital, BoxGroup, Liquid 2 Ventures, Mantis VC, SV Angel; angels Jeff Dean, Kirsten Green, Colin Evans, Logan Kilpatrick, Julian Schrittwieser [^3][^4][^5] |
 
 Total raised: $120M [^1].
 
@@ -69,3 +75,6 @@ No independently sourced founder testimonials found.
 
 [^1]: SiliconANGLE, "Depthfirst raises $80M to expand AI-native security platform and train domain-specific models," March 31, 2026. https://siliconangle.com/2026/03/31/depthfirst-raises-80m-expand-ai-native-security-platform-train-domain-specific-models/
 [^2]: Business Wire, "Applied AI Lab depthfirst Announces $80 Million in Series B Funding," March 31, 2026. https://www.businesswire.com/news/home/20260331071577/en/Applied-AI-Lab-depthfirst-Announces-$80-Million-in-Series-B-Funding
+[^3]: depthfirst, "depthfirst Announces $40M Series A to Secure the World's Software," company blog, January 14, 2026. Accessed August 2026. https://depthfirst.com/post/depthfirst-announces-40m-series-a-to-secure-the-worlds-software
+[^4]: Accel, "Accel Leads depthfirst's Series A: Securing the World's Software," Accel Noteworthies, January 14, 2026. Accessed August 2026. https://www.accel.com/news/accel-leads-depthfirsts-series-a-securing-the-worlds-software — Sara Ittelson (Partner) authored the Accel investment note.
+[^5]: TechCrunch, "AI security firm, depthfirst, announces $40 million Series A," January 14, 2026. Accessed August 2026. https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/

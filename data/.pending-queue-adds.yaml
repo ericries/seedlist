@@ -1,0 +1,26 @@
+- name: "Blueprint Equity"
+  type: firm
+  priority: normal
+  discovered_from: develo
+  source: "led Develo $14M Series A (2026-05-11); Founding Managing Partner Sheldon Lewis provided lead quote"
+- name: "Sheldon Lewis"
+  type: individual
+  firm: "Blueprint Equity"
+  priority: high
+  discovered_from: develo
+  source: "Founding Managing Partner at Blueprint Equity; led Develo $14M Series A (2026-05-11); Blueprint Equity firm not yet in Seedlist"
+- name: "Villain Capital"
+  type: firm
+  priority: normal
+  discovered_from: develo
+  source: "participated in Develo $14M Series A (2026-05-11)"
+- name: "z21 Ventures"
+  type: firm
+  priority: normal
+  discovered_from: develo
+  source: "participated in Develo $14M Series A (2026-05-11); previously in Develo seed"
+- name: "Bienville Capital"
+  type: firm
+  priority: normal
+  discovered_from: develo
+  source: "participated in Develo $14M Series A (2026-05-11)"

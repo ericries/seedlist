@@ -240,6 +240,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Oak | Seed ($60M, co-led with CRV and Greylock Partners) | 2026-07-15 | Cybersecurity / Identity / AI-Native IAM | [^128][^129][^130] |
 | Paper | Series A ($34M, co-led with ICONIQ; Designer Fund and angels participated; Daniel Levine led) | 2026-07-23 | AI / Design Tools / Developer Tools | [^paper1][^paper2] |
 | AegisAI | Series A ($36M, participated; Battery Ventures led; Foundation Capital also) | 2026-07-23 | AI / Cybersecurity / Email Security | [^aegisa1][^aegisa2] |
+| depthfirst | Series A ($40M, led — Sara Ittelson partner; Alt Capital, BoxGroup, Liquid 2 Ventures, Mantis VC, SV Angel participated; angels Jeff Dean, Kirsten Green, Colin Evans, Logan Kilpatrick, Julian Schrittwieser) | 2026-01-14 | AI / Cybersecurity | [^depthfirst1][^depthfirst2][^depthfirst3] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -500,6 +501,12 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^aegisa1]: "AegisAI Raises $36 Million Series A Led by Battery Ventures to Fight the New Wave of AI Spear Phishing," PR Newswire, July 23, 2026. Accessed July 24, 2026. https://www.prnewswire.com/news-releases/aegisai-raises-36-million-series-a-led-by-battery-ventures-to-fight-the-new-wave-of-ai-spear-phishing-302833624.html — Names Accel and Foundation Capital as existing investors participating alongside Battery Ventures lead.
 
 [^aegisa2]: Marina Temkin, "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing," TechCrunch, July 23, 2026. Accessed July 24, 2026. https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/ — Independent tier-1 press confirmation.
+
+[^depthfirst1]: depthfirst, "depthfirst Announces $40M Series A to Secure the World's Software," company blog, January 14, 2026. Accessed August 2026. https://depthfirst.com/post/depthfirst-announces-40m-series-a-to-secure-the-worlds-software — Primary company announcement naming Accel as lead and enumerating all participants (Alt Capital, BoxGroup, Liquid 2 Ventures, Mantis VC, SV Angel; angels Jeff Dean, Kirsten Green, Colin Evans, Logan Kilpatrick, Julian Schrittwieser).
+
+[^depthfirst2]: Sara Ittelson, "Accel Leads depthfirst's Series A: Securing the World's Software," Accel Noteworthies, January 14, 2026. Accessed August 2026. https://www.accel.com/news/accel-leads-depthfirsts-series-a-securing-the-worlds-software — Names Sara Ittelson as the Accel partner leading the deal.
+
+[^depthfirst3]: TechCrunch, "AI security firm, depthfirst, announces $40 million Series A," January 14, 2026. Accessed August 2026. https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/ — Independent tier-1 press confirmation of $40M Series A led by Accel on 2026-01-14.
 
 [^131]: Alexandr Wang, "Scale Raises $4.5M Series A Led by Accel," Scale AI Blog, July 16, 2017. Accessed July 2026. https://scale.com/blog/announcing-our-series-a-with-accel — Primary company announcement. States "we have raised a $4.5 million Series A round of funding led by Accel. Along with this funding, Accel's Daniel Levine has joined Scale's board."
 

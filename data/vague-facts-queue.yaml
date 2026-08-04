@@ -156461,7 +156461,9 @@ vague_facts:
   line: ~unknown| Optimizely | undisclosed | Angel | Wikipedia [^1] |
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: Bernstam is NOT named in Optimizely primary press for the 2010-03-17 / 2010-11-16 angel round (TechCrunch [^14] lists all 21 angels — Bernstam absent — and Crunchbase [^15] round page corroborates the same list). Wikipedia [^1] is the only source attributing this investment and it carries a conflict-of-interest notice. Row rewritten to explicitly flag the aggregator-only pattern (same pattern documented for FOSSA/Fountain/Deepgram/Pareto). 2 new footnotes added ([^14] TechCrunch primary, [^15] Crunchbase round page). Cannot upgrade to specific date/amount without fabrication.'
 - profile: investors/tim-draper
   profile_name: Tim Draper
   company: PTC
@@ -168342,7 +168344,9 @@ vague_facts:
   line: '| ~2025 | Series A | $40M | | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: tightened Series A row from ''~2025 | $40M | (no lead)'' to ''2026-01-14 | $40M | Accel (Sara Ittelson) | Alt Capital, BoxGroup, Liquid 2 Ventures, Mantis VC, SV Angel + angels Jeff Dean, Kirsten Green, Colin Evans, Logan Kilpatrick, Julian Schrittwieser''. Verified via 3 primary sources: (a) depthfirst.com company blog announcement [^3], (b) Accel investment note by Sara Ittelson [^4], (c) TechCrunch [^5]. 3 new footnotes added to startup profile. Frontmatter firms array updated (removed stale ''series-a 2025'' Accel entry, added dated 2026-01-14 entries for Accel, BoxGroup, SV Angel; removed the incorrect Benchmark Series A entry — Benchmark is NOT named in any primary source). New depthfirst row added to Accel firm portfolio with 3 supporting citations.'
 - profile: startups/designverse
   profile_name: DesignVerse
   company: '2026-05-13'
@@ -168362,7 +168366,9 @@ vague_facts:
   line: '| 2026-03-04 | Series A | $14M | | [^2][^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-03
+  resolution_notes: 'Fact-spec sweep 2026-08-03: tightened Series A row from ''2026-03-04 | $14M | (no lead)'' to ''2026-05-11 | $14M | Blueprint Equity (Sheldon Lewis, Founding Managing Partner) | Villain Capital, z21 Ventures, Bienville Capital + angels Paul Black, Chris Barton, Chris Sullens''. The 2026-03-04 date is the SEC Form D first-sale date; the public press announcement is 2026-05-11 (per company blog + EIN Presswire + TechStartups). Row date updated to the public announcement date to match Seedlist convention. About section rewritten to explain both dates. Added Blueprint Equity/Lewis quote to What Investors Say. 3 new footnotes added ([^4] EIN Presswire, [^5] TechStartups, [^6] Develo blog). Blueprint Equity, Villain Capital, z21 Ventures, Bienville Capital + Sheldon Lewis added to .pending-queue-adds.yaml — no Seedlist firm profiles exist yet.'
 - profile: startups/devoted-health
   profile_name: Devoted Health
   company: '2017-03-01'

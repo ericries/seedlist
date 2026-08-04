@@ -75,7 +75,7 @@ The table below lists only investments with at least one credible source. Aggreg
 | Swiftype | ~2014 (exit 2017 to Elastic) | Angel | Tracxn [^7] |
 | Zight (formerly CloudApp) | 2016 | Seed ($2M) | Tracxn [^7] |
 | Cruise | ~2013-2016 (exit 2016 to GM) | Angel | Tracxn [^7] |
-~unknown| Optimizely | undisclosed | Angel | Wikipedia [^1] |
+| Optimizely | ~2010–2011 (Wikipedia-attributed only) | Angel (aggregator-only attribution — Bernstam NOT named in Optimizely's primary 2010-11-16 TechCrunch angel round announcement or in Crunchbase's 2010-03-17 angel-round investor list; only Wikipedia [^1] attributes the investment, and that Wikipedia article carries a conflict-of-interest notice) | Wikipedia [^1]; contradicted by TechCrunch [^14]; Crunchbase [^15] |
 ~unknown| Scentbird | undisclosed | Angel | Wikipedia [^1] |
 ~unknown| Crowdtilt | undisclosed | Angel | Wikipedia [^1] |
 
@@ -158,3 +158,7 @@ No independently sourced founder testimonials found in this research pass. Firm-
 [^12]: Alchetron, "Tikhon Bernstam," accessed July 2026. https://alchetron.com/Tikhon-Bernstam
 
 [^13]: SmartCompany, "Tikhon Bernstam: How I sold my business to Facebook for $100 million," accessed July 2026. https://www.smartcompany.com.au/technology/tikhon-bernstam-how-i-sold-my-business-to-facebook-for-100-million/
+
+[^14]: Alexia Tsotsis, "Optimizely A/B Tests Its Way To $1.2 Million In Funding From A Roster Of Top Angels," TechCrunch, November 16, 2010. Accessed August 2026. https://techcrunch.com/2010/11/16/optimizely-ab-tests-its-way-to-1-2-million-in-funding-from-a-roster-of-top-angels — Names all 21 angel investors (Ron Conway, Chris Sacca, Steve Chen, Paul Buchheit, Ashton Kutcher, Mitch Kapor, Chris Dixon, Joshua Schachter, Naval Ravikant, Ram Shriram, Ariel Poler, Aydin Senkut, Brian Sugar, Deep Nishar, Sam Altman, Steve Huffman, Nils Johnson, Jonathan Heiliger, Keval Desai, Elad Gil, Avichal Garg). Tikhon Bernstam is NOT among them.
+
+[^15]: Crunchbase, "Optimizely Angel Round," 2010-03-17. https://www.crunchbase.com/funding_round/optimizely-angel--9e0244da — Round page catalogs the same investor list; Bernstam not present.
