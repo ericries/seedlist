@@ -28,7 +28,7 @@ Veriqus Group is a Mumbai-based wealthtech firm that provides technology and wea
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-07-21 | Growth | ₹387 crore | Norwest Venture Partners | [^1] [^2] [^3] |
+| 2026-07-21 | Growth | ₹387 crore (~$40M) | Norwest Venture Partners | Family offices & UHNIs [^1] [^2] [^3] |
 
 ## What Investors Say
 

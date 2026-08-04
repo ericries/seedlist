@@ -29,7 +29,7 @@ status: published
 
 CARPL.ai is an India-based radiology AI marketplace and enterprise deployment platform that lets hospitals and radiologists discover, deploy, manage, and monitor multiple medical imaging AI applications through a single interface [^1][^2][^3]. Founded in 2018 by Dr. Vidur Mahajan, the platform hosts more than 300 AI applications from over 100 vendors and is used by four of the world's top five private radiology groups, along with government health systems in Brazil, India, Singapore, Spain, and the UAE [^2][^3].
 
-On 2026-07-23 CARPL.ai announced a $10 million Series A led by the International Finance Corporation (IFC), with participation from existing investor Stellaris Venture Partners [^1][^2][^3]. The company previously raised $6 million in 2023 from Stellaris Venture Partners and angel investors [^2][^3]. The new capital will fund technology development and expansion of global sales and delivery teams [^2][^3].
+On 2026-07-23 CARPL.ai announced a $10 million Series A led by the International Finance Corporation (IFC), with participation from existing investor Stellaris Venture Partners and other investors [^1][^2][^3][^4]. The company previously raised $6 million in 2023 from Stellaris Venture Partners and angel investors [^2][^3]. The new capital will fund technology development, strengthen the global partner ecosystem, and support commercial growth across North America, Latin America, Europe, Asia-Pacific, and emerging markets [^2][^4].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -42,13 +42,13 @@ On 2026-07-23 CARPL.ai announced a $10 million Series A led by the International
 
 ## What Investors Say
 
-> "CARPL.ai is building the digital infrastructure that enables healthcare providers to adopt AI at scale, improving diagnostic quality." — Farid Fezoua, IFC, quoted in StartupTalky, July 23, 2026 [^1]
+> "CARPL.ai is building the digital infrastructure that enables healthcare providers to adopt AI at scale." — Farid Fezoua, IFC, quoted in StartupTalky, July 23, 2026 [^1]
 
-> "The team has executed exceptionally well, earning trust of leading healthcare institutions worldwide." — Alok Goyal, Stellaris Venture Partners, quoted in StartupTalky, July 23, 2026 [^1]
+> "This is a testament to the vision, ambition, and execution of Dr. Vidur Mahajan and his team." — Alok Goyal, Stellaris Venture Partners, quoted in StartupTalky, July 23, 2026 [^1]
 
 ## What Founders Say
 
-> "Our mission is to ensure clinicians can confidently utilize the best AI technology available for their patients." — Dr. Vidur Mahajan, CEO & Founder, CARPL.ai, quoted in StartupTalky, July 23, 2026 [^1]
+> "Our mission is to ensure that clinicians can confidently utilize the absolute best AI technology available for their patients." — Dr. Vidur Mahajan, CEO & Founder, CARPL.ai, quoted in StartupTalky, July 23, 2026 [^1]
 
 ## Sources
 
@@ -57,3 +57,5 @@ On 2026-07-23 CARPL.ai announced a $10 million Series A led by the International
 [^2]: "CARPL.ai Secures $10 Million in a Series A Funding," EquityPandit, July 24, 2026. Accessed July 24, 2026. https://www.equitypandit.com/carpl-ai-secures-10-million-in-a-series-a-funding/
 
 [^3]: "Tech30 startup CARPL.ai raises $10M in Series A led by IFC," YourStory, July 23, 2026. Accessed July 24, 2026. https://yourstory.com/2026/07/tech30-startup-carplai-raises-10-million-in-series-a-led-by-ifc
+
+[^4]: "CARPL.ai Raises USD 10 Million in Series A Funding Led by IFC," Medical Dialogues, July 25, 2026. Accessed August 3, 2026. https://medicaldialogues.in/news/industry/health-startups/carplai-raises-usd-10-million-in-series-a-funding-led-by-ifc-175771
