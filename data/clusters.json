@@ -9770,7 +9770,7 @@
       "name": "The European Vanguard",
       "tagline": "The investors building Europe's startup ecosystem from London, Berlin, Stockholm, and beyond. Proving you don't need Sand Hill Road.",
       "type": "curated",
-      "size": 44,
+      "size": 45,
       "members": [
         {
           "slug": "alex-ferrara",
@@ -9973,6 +9973,11 @@
           "slug": "arthur-mensch",
           "name": "Arthur Mensch",
           "firm": "mistral-ai"
+        },
+        {
+          "slug": "jean-nehme",
+          "name": "Jean Nehme",
+          "firm": "qubit-health-capital"
         }
       ]
     },
@@ -9981,7 +9986,7 @@
       "name": "The Biotech Believers",
       "tagline": "From CRISPR to synthetic biology to computational drug discovery. They bet on the biological century.",
       "type": "curated",
-      "size": 15,
+      "size": 16,
       "members": [
         {
           "slug": "eddie-eltoukhy",
@@ -10056,6 +10061,11 @@
           "slug": "othman-laraki",
           "name": "Othman Laraki",
           "firm": ""
+        },
+        {
+          "slug": "jean-nehme",
+          "name": "Jean Nehme",
+          "firm": "qubit-health-capital"
         }
       ]
     },
@@ -11380,7 +11390,7 @@
       "name": "Women in Venture",
       "tagline": "The women shaping venture capital \u2014 from pioneering GPs to the next generation of partners writing the biggest checks in tech.",
       "type": "curated",
-      "size": 71,
+      "size": 72,
       "members": [
         {
           "slug": "aileen-lee",
@@ -11729,6 +11739,11 @@
           "slug": "nicole-quinn",
           "name": "Nicole Quinn",
           "firm": "connect-ventures-caa-nea"
+        },
+        {
+          "slug": "yelena-shkolnik",
+          "name": "Yelena Shkolnik",
+          "firm": "jump-capital"
         }
       ]
     },
@@ -12092,7 +12107,7 @@
       "name": "The Entertainment Tech Investors",
       "tagline": "Gaming, streaming, social, and the creator economy. They understand attention, engagement, and what people do when they're not working.",
       "type": "curated",
-      "size": 16,
+      "size": 17,
       "members": [
         {
           "slug": "bijan-sabet",
@@ -12169,6 +12184,11 @@
           "slug": "nicole-quinn",
           "name": "Nicole Quinn",
           "firm": "connect-ventures-caa-nea"
+        },
+        {
+          "slug": "yelena-shkolnik",
+          "name": "Yelena Shkolnik",
+          "firm": "jump-capital"
         }
       ]
     },
