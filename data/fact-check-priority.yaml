@@ -5455,3 +5455,39 @@ priority:
   type: firm
   reason: "participated in Base Power Series D (2026-08-03)"
   added: 2026-08-03
+- slug: sequoia-capital
+  type: firm
+  reason: "led Valar Atomics Series B ($1B, 2026-08-03)"
+  added: 2026-08-03
+- slug: shaun-maguire
+  type: investor
+  reason: "led Valar Atomics Series B ($1B, 2026-08-03) as Sequoia partner"
+  added: 2026-08-03
+- slug: conviction
+  type: firm
+  reason: "participated in Valar Atomics Series B (2026-08-03)"
+  added: 2026-08-03
+- slug: valor-equity-partners
+  type: firm
+  reason: "participated in Valar Atomics Series B (2026-08-03)"
+  added: 2026-08-03
+- slug: khosla-ventures
+  type: firm
+  reason: "participated in Othello seed round (2026-08-03)"
+  added: 2026-08-03
+- slug: y-combinator
+  type: firm
+  reason: "participated in Othello seed round (2026-08-03)"
+  added: 2026-08-03
+- slug: rebel-fund
+  type: firm
+  reason: "participated in Othello seed round (2026-08-03)"
+  added: 2026-08-03
+- slug: long-journey-ventures
+  type: firm
+  reason: "participated in Othello seed round (2026-08-03)"
+  added: 2026-08-03
+- slug: garry-tan
+  type: investor
+  reason: "participated in Othello seed round (2026-08-03) via YC"
+  added: 2026-08-03

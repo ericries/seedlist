@@ -45197,3 +45197,57 @@ queue:
   discovered_from: zhong-xu
   source: Co-founder & CEO of Casper (ghost kitchen); co-founded with Zhong Xu and
     Peter Van Praet
+- name: Sedna HoReCa
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: kaapi-machines
+  source: sole investor in Kaapi Machines ₹50 Cr strategic equity round (2026-08-03)
+- name: Abhinav Mathur
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Kaapi Machines
+  discovered_from: kaapi-machines
+  source: Founder & CEO of Kaapi Machines; noted for scaling India's premium coffee
+    equipment market
+- name: Jared Zelman
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Othello
+  discovered_from: othello
+  source: Founder & CEO of Othello, AI sales coaching platform ($6.85M seed 2026-08-03)
+- name: Apandion Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: valar-atomics
+  source: participant in Valar Atomics $1B Series B (2026-08-03)
+- name: Dream Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: valar-atomics
+  source: participant in Valar Atomics Series A (2025) and Series B (2026-08-03)
+- name: Erebor Bank
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: valar-atomics
+  source: led $200M credit line to Valar Atomics alongside Series B (2026-08-03)
+- name: Isaiah Taylor
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Valar Atomics
+  discovered_from: valar-atomics
+  source: Founder & CEO of Valar Atomics, nuclear microreactor startup ($1B Series
+    B 2026-08-03)
