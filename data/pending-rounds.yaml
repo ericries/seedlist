@@ -101,14 +101,6 @@ pending_rounds:
   parsed_round: Series A
   status: processed
   processed: '2026-08-04'
-- title: Advocate Technologies raised $18M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-04'
-  parsed_company: Advocate Technologies
-  parsed_amount: $18M
-  parsed_round: Seed
-  status: pending
 - title: ARC Group Securities Acquisition I raised $150M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -154,15 +146,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-08-04'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Ore Energy raises €37.3 million to scale iron-air batteries that store renewable
-    power for up to 100 hours
-  url: https://www.eu-startups.com/2026/08/ore-energy-raises-e37-3-million-to-scale-iron-air-batteries-that-store-renewable-power-for-up-to-100-hours/
-  source: eu-startups
-  date_found: '2026-08-04'
-  parsed_company: Ore Energy
   parsed_amount: null
   parsed_round: null
   status: pending
