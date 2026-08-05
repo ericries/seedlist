@@ -125,6 +125,7 @@ Based on 30 verified portfolio investments spanning the firm's history and recen
 | Accompany Health | Series A (co-led with ARCH Venture Partners, $56M; IVP + Granite Capital Management + Evidenced participated) | 2024-01-30 | Primary / Behavioral / Social Care | Active [^26][^32][^33] |
 | Gitar | Seed (led) | 2026 | Developer Tools / AI | Active [^30] |
 | CellCentric | Series D (led, via Venrock Healthcare Capital Partners) | 2026-05-06 | Biotech / Oncology | Active [^31] |
+| Expedition Therapeutics | Series B (participated, via Venrock Healthcare Capital Partners) | 2026-08-05 | Biotech / Respiratory | Active [^34] |
 
 ## In Their Own Words
 
@@ -227,3 +228,5 @@ Robert Wachter, chair of the Department of Medicine at the University of Califor
 [^32]: Accompany Health / GlobeNewswire, "Accompany Health Launches to Care for Low-Income Patients with Complex Needs," January 30, 2024. Accessed July 2026. https://www.globenewswire.com/news-release/2024/01/30/2819929/0/en/Accompany-Health-Launches-to-Care-for-Low-Income-Patients-with-Complex-Needs.html — Primary launch announcement confirming $56M Series A on January 30, 2024, co-led by Venrock and ARCH Venture Partners with IVP, Granite Capital Management, and Evidenced participating. Dr. Rahul Rajkumar (Founder & CEO). Bethesda, MD-based; began serving 8,000 patients in Detroit via partnership with a major national health plan.
 
 [^33]: MobiHealthNews, "Accompany Health launches with $56M to care for low-income patients," January 30, 2024. Accessed July 2026. https://www.mobihealthnews.com/news/accompany-health-launches-56m-care-low-income-patients — Independent contemporaneous confirmation: $56M Series A on January 30, 2024, co-led by Venrock and ARCH Venture Partners with IVP, Evidenced, and Granite Capital Management participating. Includes quote from Dr. Bob Kocher (Venrock partner and Accompany co-founder/board member).
+
+[^34]: General Atlantic, "Expedition Therapeutics Announces Oversubscribed $115 Million Series B Financing to Advance Next-Generation DPP1 Inhibitor for COPD," August 5, 2026. Accessed August 2026. https://www.generalatlantic.com/media-article/expedition-therapeutics-announces-oversubscribed-115-million-series-b-financing-to-advance-next-generation-dpp1-inhibitor-for-copd/ — Venrock Healthcare Capital Partners participated in the oversubscribed $115M Series B led by General Atlantic with RA Capital, Vivo Capital, Sofinnova, Novo Holdings, Forbion, Dawn Biopharma, Adage, Balyasny, Logos, Sanofi Ventures, and BVF Partners.

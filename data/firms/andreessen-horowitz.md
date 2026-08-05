@@ -310,6 +310,7 @@ The following table includes a16z investments verified through the firm's own po
 | Atoms | Growth (led, $1.7B) | 2026-07-22 | Robotics / Industrial AI / Physical AI | Private (Travis Kalanick founder; Bain Capital, Fifth Wall, Chemistry, K5 Global, SV Angel, Alpha Square Group, Uber participated; Ben Horowitz joins board) [^atoms1][^atoms2][^atoms3] |
 | Neon (Neon Commerce) | Series A (led, $13M) | 2026-07-22 | Gaming / D2C Commerce / Payments | Private ($27M total raised; SF-based; Renegade Partners and Krafton participated; Chris Faught CEO) [^neon1][^neon2][^neon3] |
 | Etched | Series C (participated, $300M at $10.3B val; Sequoia led) | 2026-07-23 | AI / Semiconductors / Inference | Private (Jane Street, Diffusion Capital, and SK Hynix also participated) [^etchd1][^etchd2] |
+| Volta Infra | Seed + Series A (co-led with Altimeter, $300M at $2.4B val) | 2026-08-04 | AI / Cloud Infrastructure / Neocloud | Private (NVIDIA, Michael Dell, Azora, Matter Venture Partners participated; Singapore-based; $10B six-year AI compute contract; founders Ricard Boada and Sofia Gumuzio ex-Brookfield) [^volta1][^volta2][^volta3] |
 
 *Note: This table includes 87 companies out of 1,076+ total portfolio companies (~8%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
@@ -686,3 +687,9 @@ The following table includes a16z investments verified through the firm's own po
 [^etchd1]: Julie Bort, "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors," TechCrunch, July 23, 2026. Accessed July 24, 2026. https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/ — Confirms Andreessen Horowitz participated in Etched's $300M Series C at $10.3B valuation (Sequoia led).
 
 [^etchd2]: "Etched raises $300M at a $10.3B Valuation to Scale Production of Frontier Scale Inference Hardware," GlobeNewswire, July 23, 2026. Accessed July 24, 2026. https://www.globenewswire.com/news-release/2026/07/23/3332366/0/en/Etched-raises-300M-at-a-10-3B-Valuation-to-Scale-Production-of-Frontier-Scale-Inference-Hardware.html — Primary press release naming a16z as a participant alongside Jane Street, Diffusion, and SK Hynix.
+
+[^volta1]: Bloomberg, "Nvidia, Dell Back AI Cloud Startup Volta at $2.4 Billion Value," August 4, 2026. Accessed August 2026. https://www.bloomberg.com/news/articles/2026-08-04/nvidia-dell-back-ai-cloud-startup-volta-at-2-4-billion-value — Confirms a16z and Altimeter co-led Volta's $300M funding at $2.4B post-money.
+
+[^volta2]: Crypto Briefing, "Volta secures $10B partnership and $300M raise, co-led by a16z, at a $2.4B valuation," August 4, 2026. Accessed August 2026. https://cryptobriefing.com/volta-10b-partnership-a16z-series-a-funding/ — Independent confirmation of a16z co-lead role and $2.4B valuation.
+
+[^volta3]: The Next Web, "Nvidia and Dell back AI cloud startup Volta at a $2.4bn valuation," August 4, 2026. Accessed August 2026. https://thenextweb.com/news/volta-ai-cloud-300m-nvidia-dell-2-4bn — Third-source confirmation.

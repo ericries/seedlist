@@ -4322,3 +4322,15 @@ priority:
   type: firm
   reason: "participated (Pitango HealthTech) in QuantHealth Series B (2026-08-04), $45M"
   added: 2026-08-05
+- slug: venrock
+  type: firm
+  reason: "participated (Venrock Healthcare Capital Partners) in Expedition Therapeutics Series B (2026-08-05), $115M"
+  added: 2026-08-05
+- slug: andreessen-horowitz
+  type: firm
+  reason: "co-led Volta Infra Seed+Series A (2026-08-04), $300M at $2.4B valuation"
+  added: 2026-08-05
+- slug: altimeter-capital
+  type: firm
+  reason: "co-led Volta Infra Seed+Series A (2026-08-04), $300M at $2.4B valuation"
+  added: 2026-08-05

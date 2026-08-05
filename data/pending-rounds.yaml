@@ -47,6 +47,118 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series F
   status: pending
+- title: Volta Infra raised $300M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: Volta Infra
+  parsed_amount: $300M
+  parsed_round: null
+  status: pending
+- title: Moove raised $250M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: Moove
+  parsed_amount: $250M
+  parsed_round: Series C
+  status: pending
+- title: River raised $120M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: River
+  parsed_amount: $120M
+  parsed_round: Series C
+  status: pending
+- title: Expedition Therapeutics raised $115M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: Expedition Therapeutics
+  parsed_amount: $115M
+  parsed_round: Series B
+  status: pending
+- title: Decade raised $85M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: Decade
+  parsed_amount: $85M
+  parsed_round: Seed
+  status: pending
+- title: Ambrook raised $30M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: Ambrook
+  parsed_amount: $30M
+  parsed_round: Series B
+  status: pending
+- title: Mitti Labs raised $9.5M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: Mitti Labs
+  parsed_amount: $9.5M
+  parsed_round: Series A
+  status: pending
+- title: Vaaree raised $6.6M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: Vaaree
+  parsed_amount: $6.6M
+  parsed_round: Series A
+  status: pending
+- title: Superleap raised $3.7M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: Superleap
+  parsed_amount: $3.7M
+  parsed_round: null
+  status: pending
+- title: Claryx raised $3.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: Claryx
+  parsed_amount: $3.5M
+  parsed_round: null
+  status: pending
+- title: Rivo raised $2.7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: Rivo
+  parsed_amount: $2.7M
+  parsed_round: Seed
+  status: pending
+- title: AsymBio raised $184M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: AsymBio
+  parsed_amount: $184M
+  parsed_round: null
+  status: pending
+- title: m in cash. AiDash had raised $91.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: m in cash. AiDash had
+  parsed_amount: $91.5M
+  parsed_round: null
+  status: pending
+- title: G Squared raised $2.3B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-05'
+  parsed_company: G Squared
+  parsed_amount: $2.3B
+  parsed_round: null
+  status: pending
 - title: Fusemachines Closes Up to $10.66 Million Investment at $4.20 per Share for
     Growth Capital from Existing Investor Meteora Capital
   url: https://www.globenewswire.com/news-release/2026/08/04/3338101/0/en/Fusemachines-Closes-Up-to-10-66-Million-Investment-at-4-20-per-Share-for-Growth-Capital-from-Existing-Investor-Meteora-Capital.html
@@ -747,48 +859,3 @@ pending_rounds:
   status: processed
   notes: created startup profile kausable.md; UVC Partners and Entourage co-led with
     HTGF and Mätch VC on 2026-07-23
-- title: Edtech platform raises $4.5M to help teach students how to vibe code
-  url: https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/
-  source: techcrunch
-  date_found: '2026-07-23'
-  parsed_company: Edtech platform
-  parsed_amount: $4.5M
-  parsed_round: null
-  status: pending
-- title: Edtech platform raises $4.5M to help teach students how to vibe code
-  url: https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/
-  source: techcrunch
-  date_found: '2026-07-23'
-  parsed_company: Edtech platform
-  parsed_amount: $4.5M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/23/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-23-2026/
-  source: alleywatch
-  date_found: '2026-07-23'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s Modo Energy secures €14.9 million to scale its AI-powered energy
-    benchmarking and valuation platform
-  url: https://www.eu-startups.com/2026/07/londons-modo-energy-secures-e14-9-million-to-scale-its-ai-powered-energy-benchmarking-and-valuation-platform/
-  source: eu-startups
-  date_found: '2026-07-22'
-  parsed_company: London’s Modo Energy
-  parsed_amount: €14.9M
-  parsed_round: Growth (debt)
-  status: processed
-  notes: created startup profile modo-energy.md; CIBC Innovation Banking growth facility;
-    Series B previously led by Molten Ventures Dec 2025
-- title: Months after raising €102.5 million, Helsinki’s AI infrastructure company
-    Verda secures €22 million NIB loan
-  url: https://www.eu-startups.com/2026/07/months-after-raising-e102-5-million-helsinkis-ai-infrastructure-company-verda-secures-e22-million-nib-loan/
-  source: eu-startups
-  date_found: '2026-07-22'
-  parsed_company: Months after raising €102.5 million, Helsinki’s AI infrastructure
-    company Verda
-  parsed_amount: null
-  parsed_round: null
-  status: pending

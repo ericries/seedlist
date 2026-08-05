@@ -138,6 +138,7 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | Sigma | Series D (participated as returning investor; $200M at $1.5B val; Spark Capital + Avenir Growth Capital co-led; NewView Capital new; Snowflake Ventures + Sutter Hill Ventures + D1 Capital Partners + XN returned) | 2024-05-16 | Data Analytics | Active | [^13][^70][^71][^72] |
 | Clumio | Series D (participated as existing investor; $75M; Sutter Hill Ventures led; Index Ventures returned; NewView Capital new; brings total to $261M) | 2024-02-21 | Data Protection | Acquired (Commvault, ~$47M, announced 2024-09-24) | [^13][^73][^74][^75][^76] |
 | StockX | Growth | ~2021 | E-commerce | Active | [^7] |
+| Volta Infra | Seed + Series A (co-led with Andreessen Horowitz, $300M at $2.4B post-money) | 2026-08-04 | AI / Cloud Infrastructure / Neocloud | Active | [^volta-alt1][^volta-alt2][^volta-alt3] |
 
 ## Public Portfolio (Q4 2025 13F)
 
@@ -342,3 +343,9 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^84]: TechCrunch (Alex Wilhelm and Mary Ann Azevedo), "Plaid raises $425M Series D from Altimeter as it charts a post-Visa future," April 7, 2021, accessed July 2026. https://techcrunch.com/2021/04/07/plaid-raises-425m-series-d-from-altimeter-as-it-charts-a-post-visa-future/ — Contemporaneous tier-1 tech press confirming $425M Series D at $13.4B valuation led by Altimeter Capital; Silver Lake and Ribbit Capital new; prior investors participated.
 
 [^85]: Finovate, "Plaid Scores $425 Million in Series D Funding," April 7, 2021, accessed July 2026. https://finovate.com/plaid-scores-425-million-in-series-d-funding/ — Independent fintech-industry press confirmation of April 7, 2021 $425M Series D, $13.4B valuation, Altimeter Capital lead, and full investor lineup.
+
+[^volta-alt1]: Bloomberg, "Nvidia, Dell Back AI Cloud Startup Volta at $2.4 Billion Value," August 4, 2026. Accessed August 2026. https://www.bloomberg.com/news/articles/2026-08-04/nvidia-dell-back-ai-cloud-startup-volta-at-2-4-billion-value — Primary press confirming Altimeter Capital co-led Volta's $300M funding round at $2.4B post-money alongside Andreessen Horowitz.
+
+[^volta-alt2]: Crypto Briefing, "Volta secures $10B partnership and $300M raise, co-led by a16z, at a $2.4B valuation," August 4, 2026. Accessed August 2026. https://cryptobriefing.com/volta-10b-partnership-a16z-series-a-funding/ — Independent confirmation of the a16z + Altimeter co-lead and NVIDIA, Michael Dell, Azora, Matter Venture Partners participation.
+
+[^volta-alt3]: KuCoin News wire, "AI cloud infrastructure firm Volta Infra completes $300M funding round led by Andreessen Horowitz and Altimeter Capital," August 4, 2026. Accessed August 2026. https://www.kucoin.com/news/flash/ai-cloud-infrastructure-firm-volta-infra-completes-300m-funding-led-by-andreessen-horowitz-and-altimeter-capital — Third-source confirmation of Altimeter Capital's co-lead role.
