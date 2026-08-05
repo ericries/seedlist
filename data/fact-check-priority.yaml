@@ -3632,6 +3632,9 @@ priority:
   type: startup
   reason: new Wiffy Series A (2026-07-23), $3M led by Earth Fund with Persol Holdings, Capria Ventures
   added: 2026-07-26
+  status: resolved
+  resolved: 2026-08-04
+  note: 'Fact-spec sweep 2026-08-04: Verified Wiffy Series A via Entrackr primary source — $3M USD (2026-07-23), Earth Fund led, Persol Holdings (Japan) and Capria Ventures (existing investor) participating. Confirmed sector (post-sales field services / AI-driven workforce management for home improvement & consumer durables brands across India). Row already accurate on wiffy.md with 3 sources (Entrackr [^1], Indian Startup News [^2], ViEStories [^3]). Note: earlier July 2024 round was Rs 25 crore led by Mount Judi + Capria per profile About; this Series A is separate. No changes needed.'
 - slug: index-ventures
   type: firm
   reason: appeared in Enigma Seed (2026-07-27), $70M
@@ -3767,6 +3770,9 @@ priority:
   type: firm
   reason: appeared in Hush Security Series A (2026-07-28), $30M and Freehand Series B (2026-07-29), $75M
   added: 2026-07-29
+  status: resolved
+  resolved: 2026-08-04
+  note: 'Fact-spec sweep 2026-08-04: Verified both rows on battery-ventures.md Portfolio. (1) Hush Security | Series A ($30M; participated as existing investor; Akamai strategic; YL Ventures also) | 2026-07-28 — cited to PR Newswire primary [^hush1] + SecurityWeek [^hush2]. Confirmed exact Barak Schoster quote verbatim against PR Newswire ("Companies are handing autonomous software real authority over real systems, often through the same standing credentials Hush was built to eliminate."). (2) Freehand | Series B ($75M; co-led with NewRoad Capital Partners; Nexus Venture Partners + Penny Pritzker participated) | 2026-07-29 — cited to Crunchbase News [^fh1] + Forbes [^fh2]. Both rows already had 2+ primary sources with correct dates, amounts, participants. No changes needed.'
 - slug: menlo-ventures
   type: firm
   reason: led Pangram seed (2026-07-29), $9M
@@ -3778,6 +3784,9 @@ priority:
   type: investor
   reason: participated in Freehand Series B (2026-07-29), $75M
   added: 2026-07-29
+  status: resolved
+  resolved: 2026-08-04
+  note: 'Fact-spec sweep 2026-08-04: Verified Freehand row on penny-pritzker.md PSP Growth Portfolio table (line 108) — Series B ($75M; Battery Ventures + NewRoad Capital Partners co-led; Nexus Venture Partners also) | 2026-07-29 — cited to Crunchbase News [^freehand1] + Forbes [^freehand2]. Both primary sources explicitly name former U.S. Commerce Secretary Penny Pritzker as a participant. LVI on frontmatter already updated to Freehand / 2026-07-29 / Series B. No changes needed.'
 - slug: madrona-venture-group
   type: firm
   reason: led Polar seed (2026-07-29), $5.7M
