@@ -1,45 +1,54 @@
 ---
-name: "Convex"
-slug: convex
-type: startup
-website: "https://www.convex.dev"
-location: "San Francisco, California"
-founded: 2021
-status_company: active
-sector: [developer-tools, infrastructure, backend, database, ai, agents]
-stage_latest: "Series B"
-total_raised: "$110.5M"
-founders:
-  - name: "Jamie Turner"
-    role: "Co-Founder & CEO"
-investors:
-  - slug: insight-partners
-    round: series-b
-    year: 2026
-    date: 2026-08-04
-  - slug: andreessen-horowitz
-    round: series-b
-    year: 2026
-    date: 2026-08-04
-  - slug: spark-capital
-    round: series-b
-    year: 2026
-    date: 2026-08-04
 firms:
-  - slug: insight-partners
-    round: series-b
-    year: 2026
-    date: 2026-08-04
-  - slug: andreessen-horowitz
-    round: series-b
-    year: 2026
-    date: 2026-08-04
-  - slug: spark-capital
-    round: series-b
-    year: 2026
-    date: 2026-08-04
-status: published
+- date: 2026-08-04
+  round: series-b
+  slug: insight-partners
+  year: 2026
+- date: 2026-08-04
+  round: series-b
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-08-04
+  round: series-b
+  slug: spark-capital
+  year: 2026
+founded: 2021
+founders:
+- name: Jamie Turner
+  role: Co-Founder & CEO
+investors:
+- date: 2026-08-04
+  round: series-b
+  slug: insight-partners
+  year: 2026
+- date: 2026-08-04
+  round: series-b
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-08-04
+  round: series-b
+  slug: spark-capital
+  year: 2026
+- round: ~2022
+  slug: martin-casado
+  year: 2022
 last_researched: 2026-08-04
+location: San Francisco, California
+name: Convex
+sector:
+- developer-tools
+- infrastructure
+- backend
+- database
+- ai
+- agents
+slug: convex
+stage_latest: Series B
+status: published
+status_company: active
+total_raised: $110.5M
+type: startup
+website: https://www.convex.dev
 ---
 
 ## About

@@ -1,45 +1,66 @@
 ---
-name: "HappyRobot"
-slug: happyrobot
-type: startup
-website: "https://www.happyrobot.ai"
-location: "San Francisco, California"
-founded: 2023
-status_company: active
-sector: [ai, agents, logistics, supply-chain, enterprise-software, voice-ai]
-stage_latest: "Series C"
-total_raised: "~$200M"
-founders:
-  - name: "Pablo Palafox"
-    role: "Co-Founder & CEO"
-investors:
-  - slug: andreessen-horowitz
-    round: series-c
-    year: 2026
-    date: 2026-08-04
-  - slug: y-combinator
-    round: series-c
-    year: 2026
-    date: 2026-08-04
-  - slug: koch-disruptive-technologies
-    round: series-c
-    year: 2026
-    date: 2026-08-04
 firms:
-  - slug: andreessen-horowitz
-    round: series-c
-    year: 2026
-    date: 2026-08-04
-  - slug: y-combinator
-    round: series-c
-    year: 2026
-    date: 2026-08-04
-  - slug: koch-disruptive-technologies
-    round: series-c
-    year: 2026
-    date: 2026-08-04
-status: published
+- date: 2026-08-04
+  round: series-c
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-08-04
+  round: series-c
+  slug: y-combinator
+  year: 2026
+- date: 2026-08-04
+  round: series-c
+  slug: koch-disruptive-technologies
+  year: 2026
+- round: Pre-seed
+  slug: array-ventures
+  year: 2022
+founded: 2023
+founders:
+- name: Pablo Palafox
+  role: Co-Founder & CEO
+investors:
+- date: 2026-08-04
+  round: series-c
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-08-04
+  round: series-c
+  slug: y-combinator
+  year: 2026
+- date: 2026-08-04
+  round: series-c
+  slug: koch-disruptive-technologies
+  year: 2026
+- round: Series A (a16z led; Moore + Anish Acharya + Seema Amble named as sponsors)
+  slug: olivia-moore
+  year: 2024
+- round: Pre-seed
+  slug: shruti-gandhi
+  year: 2022
+- round: Board seat
+  slug: anish-acharya
+  year: 2024
+- round: Series A ($15.6M, a16z-led)
+  slug: seema-amble
+  year: 2024
 last_researched: 2026-08-04
+location: San Francisco, California
+name: HappyRobot
+sector:
+- ai
+- agents
+- logistics
+- supply-chain
+- enterprise-software
+- voice-ai
+slug: happyrobot
+stage_latest: Series C
+status: published
+status_company: active
+total_raised: ~$200M
+type: startup
+website: https://www.happyrobot.ai
 ---
 
 ## About

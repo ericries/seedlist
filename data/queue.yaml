@@ -29084,7 +29084,7 @@ queue:
 - name: Stijn Christiaens
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Collibra (co-founder); angel
   discovered_from: pieterjan-bouten
@@ -30305,7 +30305,7 @@ queue:
 - name: Manu Iyer
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Bluehill.VC
   discovered_from: vinod-dham
@@ -45425,3 +45425,129 @@ queue:
   added: '2026-03-17'
   firm: Station F Fund
   discovered_from: shiplog
+- name: Stripes
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: etched
+  source: led Etched $500M December 2025 growth round at $5B valuation
+- name: Gilles Mattelin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Henchman
+  discovered_from: stijn-christiaens
+  source: Henchman co-founder; co-invested with Stijn Christiaens on Dalton and Otamiser
+- name: Christophe Morbee
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: NewSchool VC
+  discovered_from: stijn-christiaens
+  source: NewSchool VC; co-invested with Stijn Christiaens on Dalton
+- name: Volta Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stijn-christiaens
+  source: Belgian seed VC; led NannyML pre-seed alongside Stijn Christiaens
+- name: Tinybird
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stijn-christiaens
+  source: Real-time analytics infra; $3M seed 2021 led by Crane Venture Partners;
+    Stijn Christiaens angel
+- name: NannyML
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stijn-christiaens
+  source: Leuven-based ML monitoring; €1M pre-seed 2020 led by Volta; acquired by
+    Soda June 2025
+- name: Otamiser
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stijn-christiaens
+  source: Ghent hospitality-ranking SaaS; $3M seed June 2024 led by Pitchdrive
+- name: Dalton
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: stijn-christiaens
+  source: Ghent AI website-optimisation; €1M pre-seed Sep 2025 incl. Syndicate One
+- name: Sridhar Parthasarathi
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Bluehill.VC
+  discovered_from: manu-iyer
+  source: Co-Founder & Managing Partner of Bluehill.VC alongside Manu Iyer
+- name: EtherealX
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manu-iyer
+  source: Bengaluru space-tech, reusable 25-tonne launch vehicle; $20.5M Series A
+    Jan 2026 co-led incl. Accel, TDK Ventures, Prosus, Bluehill.VC
+- name: Zebu Intelligent Systems
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manu-iyer
+  source: Hyderabad counter-drone defence-tech; ~$1M seed led by Bluehill.VC
+- name: Helex
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manu-iyer
+  source: Hyderabad advanced therapeutics for genetic kidney disease; Bluehill.VC
+    investment Oct 2025
+- name: AutoNxt Automation
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manu-iyer
+  source: Mumbai clean-tech autonomous EV tractors; $3M seed Apr 2024 from Bluehill.VC
+- name: Raptee Energy
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manu-iyer
+  source: Chennai EV motorcycle maker; Bluehill Capital portfolio
+- name: TDK Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manu-iyer
+  source: Co-invested in EtherealX Series A Jan 2026
+- name: YourNest Venture Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manu-iyer
+  source: Co-invested in EtherealX Series A Jan 2026
+- name: Campus Fund
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: manu-iyer
+  source: Co-invested in EtherealX Series A Jan 2026
