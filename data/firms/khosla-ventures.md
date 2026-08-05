@@ -4,8 +4,8 @@ fund_size: $1.6B (Fund VIII, 2023); $500M (Seed Fund, 2023); $900M (Growth Fund,
   seeking $3.5B across three funds (2025)
 last_researched: 2026-04-30
 last_verified_investment:
-  company: Bunkerhill Health
-  date: 2026-07-16
+  company: Mariana Minerals
+  date: 2026-08-03
   round: Series B
 location: Menlo Park, CA
 name: Khosla Ventures
@@ -218,8 +218,9 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Oratomic | Series A (co-led with ARCH Venture Partners, Spark Capital; $300M; Vinod Khosla personally championed — "largest initial investment yet, as we did in OpenAI") | 2026-07-07 | Quantum Computing / Deep Tech | Private [^orat1][^orat2][^orat3][^orat4] |
 | State Affairs | Growth ($70M; co-led with Founders Fund; Tru Arrow Partners, Alumni Ventures, Marcus Brauchli, Alex Mather, Adam Hansmann, Richard Sarnoff participated; round type not disclosed) | 2026-07-14 | AI / Policy Intelligence / Media | Private [^sa1][^sa2][^sa3] |
 | Singularity | Series A (co-led with Felicis, $80M at $400M post-money; AE Ventures + NEA existing seed; Long Journey, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, Soma also participated) | 2026-07-14 | Defense / Aerospace / Deep Tech | Private [^sing1][^sing2][^sing3] |
+| Dili | Series A (led, $15M; total funding to $21.7M including prior $6.7M seed; Allianz, Rebel Fund, Brick and Mortar Ventures (Darren Bechtel), Y Combinator (Garry Tan) participated) | 2026-07-30 | AI / Compliance / Infrastructure / RegTech | Private [^dili1][^dili2][^dili3] |
 
-*Note: This table includes 70 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
+*Note: This table includes 71 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
 ## In Their Own Words
 
@@ -486,3 +487,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^cfs-kv-b2]: CFS press release, "Commonwealth Fusion Systems Raises $863 Million Series B2 Round to Accelerate the Commercialization of Fusion Energy," August 28, 2025. Accessed July 2026. https://www.cfs.energy/news-and-media/commonwealth-fusion-systems-raises-863-million-series-b2-round-to-accelerate-the-commercialization-of-fusion-energy/ — Primary source confirming Khosla Ventures explicitly named among existing investors who increased their stakes in the $863M Series B2 announced 2025-08-28.
 
 [^cfs-kv-jul26]: TechCrunch, "Fusion power darling Commonwealth Fusion Systems raises another $1B," July 30, 2026. Accessed July 2026. https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/ — Tier-1 press confirming CFS raised additional $1B on 2026-07-30 from unnamed institutional investors (pension funds, sovereign wealth funds, industrial corporate partners). Khosla Ventures is NOT confirmed as a participant in this specific round; article notes Khosla + BEV participated in the August 2025 Series B2.
+
+[^dili1]: Marina Temkin, "Dili raises $15 million to bring AI compliance to the infrastructure boom," TechCrunch, July 30, 2026. Accessed August 2026. https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/ — Tier-1 press primary confirmation: Khosla Ventures led Dili's $15M Series A on July 30, 2026 with Allianz, Rebel Fund, Brick and Mortar Ventures (Darren Bechtel), and Y Combinator (Garry Tan) participating. Total funding raised to $21.7M including prior $6.7M seed. Founders Anand Chaturvedi (CEO) and Brian Fernandez (CTO); Y Combinator Summer 2023 batch.
+[^dili2]: "Dili Raises $21.7m from Khosla Ventures to Bring AI-Powered Assurance to America's Infrastructure Boom," GlobeNewswire (company press release), July 30, 2026. Accessed August 2026. https://www.globenewswire.com/news-release/2026/07/30/3336377/0/en/dili-raises-21-7m-from-khosla-ventures-to-bring-ai-powered-assurance-to-america-s-infrastructure-boom.html — Company's own primary announcement confirming $21.7M total funding including $15M Series A led by Khosla Ventures with Allianz, Rebel Fund, Brick and Mortar Ventures, Y Combinator participating.
+[^dili3]: "Dili Raises $21.7 Million From Khosla Ventures To Bring AI-Powered Assurance To America's Infrastructure Boom," Pulse 2.0, July 31, 2026. Accessed August 2026. https://pulse2.com/dili-raises-21-7-million-from-khosla-ventures-to-bring-ai-powered-assurance-to-americas-infrastructure-boom/ — Independent trade press confirmation of $15M Series A led by Khosla Ventures with Y Combinator (Garry Tan), Allianz, Brick and Mortar Ventures (Darren Bechtel), Rebel Fund participating. Founders Anand Chaturvedi and Brian Fernandez.

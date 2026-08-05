@@ -115,9 +115,9 @@ team:
 type: firm
 website: https://www.nea.com
 last_verified_investment:
-  date: 2026-07-29
-  company: "P-1 AI"
-  round: "Series A (led, $50M)"
+  date: 2026-08-03
+  company: "Horizon3.ai"
+  round: "Series E (co-led with NightDragon, $250M at $2B+ val)"
 ---
 
 ## About
@@ -182,6 +182,7 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 | Singularity | Series A (existing seed investor participating; $80M at $400M post-money; Khosla Ventures + Felicis co-led; AE Ventures also existing seed; Long Journey, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, Soma participated) | 2026-07-14 | Defense / Aerospace / Deep Tech | Active [^31][^32][^33] |
 | P-1 AI | Series A (led, $50M; Radical Ventures + angels) | 2026-07-29 | AI / Engineering / Hardware | Active [^34][^35][^38] |
 | Horizon3.ai | Series E (co-led with NightDragon, $250M at $2B+ valuation; Acrew, Blue Cloud, Demeter, EDBI, PSG, SAIC, Sapphire, Craft, Prosperity7, Qualcomm, Ridge, SignalFire participated) | 2026-08-03 | Cybersecurity / Autonomous Pentesting | Active [^36][^37] |
+| Centralize | Series A (led, $19M; Hilarie Koplow-McAdams Venture Partner quoted; Salesforce Ventures, Y Combinator, 20SALES, Ritual Capital, Adverb Ventures participated; angels Stewart Butterfield (Slack co-founder) + Scott Woody (Metronome co-founder)) | 2026-07-29 | Sales Tech / Enterprise / Relationship Intelligence | Active [^cent1][^cent2][^cent3] |
 
 *This table represents a very small fraction of NEA's portfolio. The firm has participated in 284+ IPOs and 500+ acquisitions over its 48-year history [^4][^5].*
 
@@ -254,3 +255,7 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^36]: "Horizon3 Raises $250M Series E at $2B+ Valuation to Lead the 'AI vs. AI' Cybersecurity Era," Horizon3.ai press release, August 3, 2026. Accessed August 2026. https://horizon3.ai/news/press-release/horizon3-raises-250m-series-e-at-2b-valuation-to-lead-the-ai-vs-ai-cybersecurity-era/
 [^37]: "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate," TechCrunch, August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/
 [^38]: Goodwin, "Goodwin Advises P-1 AI on Its $50 Million Series A Financing," July 2026. Accessed August 2026. https://www.goodwinlaw.com/en/news-and-events/news/2026/07/announcements-technology-goodwin-advises-p-1-ai-50-million-series-a-financing — Law firm confirmation of the $50M Series A led by NEA on July 29-30, 2026, with Jeff Immelt joining the board.
+
+[^cent1]: "Centralize Raises $19M Led by NEA to Bring Relationship Intelligence to the Core of Enterprise Sales," BusinessWire (Centralize press release), July 29, 2026. Accessed August 2026. https://www.businesswire.com/news/home/20260729724558/en/Centralize-Raises-$19M-Led-by-NEA-to-Bring-Relationship-Intelligence-to-the-Core-of-Enterprise-Sales — Primary company press release confirming NEA led $19M round on 2026-07-29 with Salesforce Ventures, Y Combinator, 20SALES, Ritual Capital, Adverb Ventures participating, plus angels Stewart Butterfield (Slack co-founder) and Scott Woody (Metronome co-founder). Hilarie Koplow-McAdams (Venture Partner, NEA) quoted: "We've evaluated dozens of opportunities in this category and when we met Rachit and Will, we knew we'd found the team to close this gap." Rachit Kataria (co-founder & CEO) also quoted.
+[^cent2]: BusinessWire distribution via Yahoo Finance, "Centralize Raises $19M Led by NEA to Bring Relationship Intelligence to the Core of Enterprise Sales," July 29, 2026. Accessed August 2026. https://finance.yahoo.com/technology/articles/centralize-raises-19m-led-nea-131500644.html — Independent redistribution confirming all round details.
+[^cent3]: "Centralize Raises $19M Led by NEA to Bring Relationship Intelligence to the Core of Enterprise Sales," SalesTechStar, July 30, 2026. Accessed August 2026. https://salestechstar.com/price-optimization-revenue-management/centralize-raises-19m-led-by-nea-to-bring-relationship-intelligence-to-the-core-of-enterprise-sales/ — Independent trade press confirmation of NEA-led $19M round, all participants, and Rachit Kataria CEO quote.

@@ -4,6 +4,7 @@ slug: dili
 type: startup
 website: "https://www.dili.ai"
 location: "San Francisco, CA"
+founded: 2023
 status_company: active
 sector: [ai, compliance, infrastructure, regtech, construction-tech]
 stage_latest: "Series A"
@@ -29,6 +30,8 @@ firms:
 founders:
   - name: "Anand Chaturvedi"
     role: "CEO & Co-Founder"
+  - name: "Brian Fernandez"
+    role: "CTO & Co-Founder"
 status: published
 last_researched: 2026-07-30
 ---
@@ -43,9 +46,9 @@ Dili is an AI compliance platform focused on U.S. infrastructure projects, parti
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-30 | Series A | $15M | Khosla Ventures | Allianz, Rebel Fund, Brick and Mortar Ventures, Y Combinator [^1] |
+| 2026-07-30 | Series A | $15M | Khosla Ventures | Allianz, Rebel Fund, Brick and Mortar Ventures (Darren Bechtel), Y Combinator (Garry Tan) [^1][^2][^3] |
 
-The Series A brings Dili's total funding to $21.7M, including a prior $6.7M seed round [^1].
+The Series A brings Dili's total funding to $21.7M, including a prior $6.7M seed round [^1][^2].
 
 ## What Investors Say
 
@@ -59,4 +62,6 @@ No independently sourced investor commentary quoted at press time.
 
 ## Sources
 
-[^1]: TechCrunch, "Dili raises $15 million to bring AI compliance to the infrastructure boom," July 30, 2026. Accessed July 30, 2026. https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
+[^1]: Marina Temkin, "Dili raises $15 million to bring AI compliance to the infrastructure boom," TechCrunch, July 30, 2026. Accessed August 2026. https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
+[^2]: "Dili Raises $21.7m from Khosla Ventures to Bring AI-Powered Assurance to America's Infrastructure Boom," GlobeNewswire (company press release), July 30, 2026. Accessed August 2026. https://www.globenewswire.com/news-release/2026/07/30/3336377/0/en/dili-raises-21-7m-from-khosla-ventures-to-bring-ai-powered-assurance-to-america-s-infrastructure-boom.html
+[^3]: "Dili Raises $21.7 Million From Khosla Ventures To Bring AI-Powered Assurance To America's Infrastructure Boom," Pulse 2.0, July 31, 2026. Accessed August 2026. https://pulse2.com/dili-raises-21-7-million-from-khosla-ventures-to-bring-ai-powered-assurance-to-americas-infrastructure-boom/

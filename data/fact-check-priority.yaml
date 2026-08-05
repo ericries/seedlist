@@ -3850,6 +3850,9 @@ priority:
   type: firm
   reason: led Terminal Series A (2026-07-29), USD 20M
   added: 2026-07-30
+  status: resolved
+  resolved: '2026-08-05'
+  note: 'Fact-spec sweep 2026-08-05: Terminal Series A row already fully documented in battery-ventures.md portfolio table (line 122) with 3 primary sources [^term1][^term2][^term3]: (1) FreightWaves, (2) FinSMEs, (3) PR Newswire company press release confirming $20M Series A led by Battery Ventures on 2026-07-29 with Intact Private Capital, Penske, Y Combinator, and Wayfinder Ventures participating; Marcus Ryu (Battery GP, former Guidewire CEO) joined board. No changes needed.'
 - slug: y-combinator
   type: firm
   reason: participated in Terminal Series A (2026-07-29) and Centralize Series A (2026-07-29)
@@ -3858,6 +3861,9 @@ priority:
   type: firm
   reason: led Centralize Series A (2026-07-29), USD 19M
   added: 2026-07-30
+  status: resolved
+  resolved: '2026-08-05'
+  note: 'Fact-spec sweep 2026-08-05: Verified NEA led Centralize $19M Series A on 2026-07-29 via 3 primary sources: (1) BusinessWire (Centralize press release) — Hilarie Koplow-McAdams (NEA Venture Partner) quoted, (2) Yahoo Finance redistribution, (3) SalesTechStar independent trade press. Confirmed participants: Salesforce Ventures, Y Combinator, 20SALES, Ritual Capital, Adverb Ventures, plus angels Stewart Butterfield (Slack co-founder) and Scott Woody (Metronome co-founder). Added Centralize row to nea.md portfolio [^cent1-3]. Updated last_verified_investment on nea.md to Horizon3.ai 2026-08-03 (most recent). Enhanced centralize.md startup profile with founder info (Rachit Kataria CEO + Will Beaton), CEO+investor quotes, and 3rd primary source. 3 new footnotes added to nea.md.'
 - slug: boxgroup
   type: firm
   reason: led Foundational Industries Seed (2026-07-30), USD 25M
@@ -3899,6 +3905,9 @@ priority:
   type: firm
   reason: led Dili Series A (2026-07-30), $15M
   added: 2026-07-30
+  status: resolved
+  resolved: '2026-08-05'
+  note: 'Fact-spec sweep 2026-08-05: Verified Khosla Ventures led Dili $15M Series A on 2026-07-30 via 3 primary sources: (1) TechCrunch (Marina Temkin), (2) GlobeNewswire (Dili company press release), (3) Pulse 2.0. Confirmed participants: Allianz, Rebel Fund, Brick and Mortar Ventures (Darren Bechtel), Y Combinator (Garry Tan). Series A brings total funding to $21.7M including $6.7M prior seed. Founders Anand Chaturvedi (CEO) + Brian Fernandez (CTO); Y Combinator Summer 2023 batch. Added Dili row to khosla-ventures.md portfolio [^dili1-3]. Enhanced dili.md startup profile with 3 primary sources (was 1), added Brian Fernandez as co-founder, added founded:2023. Kept last_verified_investment on khosla-ventures.md as Mariana Minerals 2026-08-03 (more recent). 3 new footnotes added to khosla-ventures.md.'
 - slug: y-combinator
   type: firm
   reason: participated in Dili Series A (2026-07-30)
