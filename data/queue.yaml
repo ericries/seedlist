@@ -45671,3 +45671,42 @@ queue:
   added: '2026-03-17'
   firm: Isengard Industries
   discovered_from: isengard-industries
+- name: Playfair
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: exclaim-robotics
+- name: Helen Oleynikova
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Exclaim Robotics
+  discovered_from: exclaim-robotics
+- name: Lauxera Capital Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: geneplanet
+- name: Marko Bitenc
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: GenePlanet
+  discovered_from: geneplanet
+- name: ECARX Holdings
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: siengine
+- name: Loic Gouzer
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Fair Warning
+  discovered_from: fair-warning
