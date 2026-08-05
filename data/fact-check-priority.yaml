@@ -4310,3 +4310,15 @@ priority:
   type: firm
   reason: "backed Isengard Industries Summer 2026 batch (2026-08-04, seed)"
   added: 2026-08-05
+- slug: thrive-capital
+  type: firm
+  reason: "participated in Ambrook Series B (2026-08-04), $30M led by Lachy Groom"
+  added: 2026-08-05
+- slug: lachy-groom
+  type: investor
+  reason: "led Ambrook Series B (2026-08-04), $30M"
+  added: 2026-08-05
+- slug: pitango-venture-capital
+  type: firm
+  reason: "participated (Pitango HealthTech) in QuantHealth Series B (2026-08-04), $45M"
+  added: 2026-08-05

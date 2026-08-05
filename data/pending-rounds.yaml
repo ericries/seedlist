@@ -20,6 +20,33 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Indian EV startup River raises $120M Series C to scale production, launch
+    more models
+  url: https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/
+  source: techcrunch
+  date_found: '2026-08-05'
+  parsed_company: Indian EV startup River
+  parsed_amount: $120M
+  parsed_round: Series C
+  status: pending
+- title: Berlin-based Moss hits unicorn status after closing €30 million Series C
+    to expand its Finance AI suite
+  url: https://www.eu-startups.com/2026/08/berlin-based-moss-hits-unicorn-status-after-closing-e30-million-series-c-to-expand-its-finance-ai-suite/
+  source: eu-startups
+  date_found: '2026-08-05'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: Scaleup Europe Fund makes debut investment by co-leading ICEYE’s €1 billion
+    Series F round
+  url: https://www.eu-startups.com/2026/08/scaleup-europe-fund-makes-debut-investment-by-co-leading-iceyes-e1-billion-series-f-round/
+  source: eu-startups
+  date_found: '2026-08-05'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series F
+  status: pending
 - title: Fusemachines Closes Up to $10.66 Million Investment at $4.20 per Share for
     Growth Capital from Existing Investor Meteora Capital
   url: https://www.globenewswire.com/news-release/2026/08/04/3338101/0/en/Fusemachines-Closes-Up-to-10-66-Million-Investment-at-4-20-per-Share-for-Growth-Capital-from-Existing-Investor-Meteora-Capital.html
