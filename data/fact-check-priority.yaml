@@ -4334,3 +4334,7 @@ priority:
   type: firm
   reason: "co-led Volta Infra Seed+Series A (2026-08-04), $300M at $2.4B valuation"
   added: 2026-08-05
+- slug: kunal-shah
+  type: investor
+  reason: "participated in Vaaree Series A (2026-08-04), Rs 65 Cr"
+  added: 2026-08-05

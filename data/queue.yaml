@@ -45907,3 +45907,73 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: amit-lakhotia
+- name: Hero Enterprise
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vaaree
+- name: Cap Alpha Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vaaree
+- name: Peak XV's Surge
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vaaree
+- name: PeerCapital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vaaree
+- name: OTP Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: vaaree
+- name: Garima
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Vaaree
+  discovered_from: vaaree
+- name: Varun Vohra
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Vaaree
+  discovered_from: vaaree
+- name: South Park Commons
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rivo
+- name: Wisdom Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: rivo
+- name: Jag Duggal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Angel (fmr Nubank CPO)
+  discovered_from: rivo
+- name: Ambrish Tyagi
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Rivo
+  discovered_from: rivo
