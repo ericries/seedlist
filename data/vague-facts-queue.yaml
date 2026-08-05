@@ -5815,7 +5815,9 @@ vague_facts:
   line: '| Red Queen Bio | Seed | 2024 | AI Biosecurity | Acquired | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  resolution_note: 'Fact-spec sweep 2026-08-05: CORRECTED wrong year AND wrong status. Prior row ''Seed | 2024 | Acquired'' was wrong on both counts. Actual round: $15M seed on 2025-11-14 led by OpenAI with Cerberus Ventures, Fifty Years, and Halcyon Futures participating. Company spun out of HelixNano; co-founder Hannu Rajaniemi announced via social media. Company remains active (not acquired). Verified via 2 primary sources: TechInformed [^redqueen1] (2025-11-14) and Crunchbase News [^redqueen2] (2026-03-04). 2 new footnotes added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Roebling (fmr. Synonym)
@@ -5825,7 +5827,9 @@ vague_facts:
   line: '| Roebling (fmr. Synonym) | Seed/Series A | 2024 | Biotech / Industrial Planning | Acquired | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  resolution_note: 'Fact-spec sweep 2026-08-05: CORRECTED round type, year, and status. Actual Cerberus participation: $20M Series A led by GS Futures on 2026-05-04 with participants Squad Capital, Zero Infinity Partners, Giant Ventures, Andreessen Horowitz, Cerberus Capital Management, Black Opal Ventures, IQT, Clocktower Ventures, Phenomen Ventures, RTP Global, Siddhi Capital. Company was previously called Synonym (biomanufacturing infrastructure); pivoted to AI-native capital project planning software under new brand Roebling. Cerberus portfolio page lists ''Acquired'' status without naming acquirer, but roebling.com remains active — likely refers to rebrand/asset transaction rather than third-party acquisition. Cerberus NOT named in Synonym pre-seed (Oct 2022, a16z-led). Verified via 2 primary sources: Synonym/Roebling blog [^roebling1] (2026-05-04) and Cerberus portfolio page [^roebling2]. 2 new footnotes added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Virchow Medical
@@ -5835,7 +5839,9 @@ vague_facts:
   line: '| Virchow Medical | Seed | 2024 | Biotech / Diagnostics | Acquired | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  resolution_note: 'Fact-spec sweep 2026-08-05: CORRECTED wrong year AND wrong status. Prior row ''Seed | 2024 | Acquired'' was wrong on both counts. Actual round: $4M seed on 2026-03-24 led by Cerberus Ventures with participation from five physician users of Virchow''s biopsy technologies (pathologists and interventional radiologists). Chenny Zhang (Cerberus Ventures) joined the Virchow board. Company remains active (not acquired). Chenny Zhang quote captured: "We see Virchow not just as a platform to improve cancer patient outcomes, but also as a differentiated data provider that can help accelerate AI benefits across the healthcare system." Verified via 3 primary sources: Virchow company press release [^virchow1] (2026-03-24), BioSpace/Yahoo Finance [^virchow2] (2026-03-24), and Pulse 2.0 [^virchow3] (2026-03-24). 3 new footnotes added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: DG Matrix
@@ -172933,7 +172939,9 @@ vague_facts:
   line: '| Red Queen Bio | Seed | 2024 | AI Biosecurity | Acquired | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  note: 'Duplicate of unknown_value entry — resolved in same sweep. Actual: $15M seed on 2025-11-14 led by OpenAI; Cerberus participated. Company active (not acquired). 2 primary sources added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Roebling (fmr. Synonym)
@@ -172943,7 +172951,9 @@ vague_facts:
   line: '| Roebling (fmr. Synonym) | Seed/Series A | 2024 | Biotech / Industrial Planning | Acquired | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  note: 'Duplicate of unknown_value entry — resolved in same sweep. Actual: $20M Series A on 2026-05-04 led by GS Futures; Cerberus participated. Company rebranded from Synonym to Roebling; still active. 2 primary sources added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Virchow Medical
@@ -172953,7 +172963,9 @@ vague_facts:
   line: '| Virchow Medical | Seed | 2024 | Biotech / Diagnostics | Acquired | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  note: 'Duplicate of unknown_value entry — resolved in same sweep. Actual: $4M seed on 2026-03-24 led by Cerberus Ventures. Company active (not acquired). Chenny Zhang joined board. 3 primary sources added.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: DG Matrix
