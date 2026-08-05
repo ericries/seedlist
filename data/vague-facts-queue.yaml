@@ -5562,7 +5562,9 @@ vague_facts:
   line: '| Farther | Series C | 2024 | Fintech/WealthMgmt | Active | [^26] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER STALE POSITIVE — column 5 is the Source column, which correctly contains only footnote citations. Row is already fully specific in capitalg.md line 126: ''Series C ($72M co-led by CapitalG and Viewpoint Ventures at $542M post-money; Bessemer, Context, Cota, Khosla, Lightspeed, MassMutual Ventures, Moneta Venture Capital as existing investors) | 2024-10-10'' with 3 primary sources ([^26] Farther, [^farther-c1] PR Newswire, [^farther-c2] Pulse 2.0). Re-verified 2024-10-10 date, $72M amount, $542M post-money via PR Newswire primary source WebFetch. Farther startup profile also matches (2024-10-10, $72M, co-leads CapitalG/Viewpoint) with 3 citations. No profile change needed.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Odoo
@@ -5624,7 +5626,9 @@ vague_facts:
   line: '| LangChain | Series B | 2025 | AI/Infrastructure | Active | [^51] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER STALE POSITIVE — column 5 is the Source column, which correctly contains only footnote citations. Row is already fully specific in capitalg.md line 132: ''Series B ($125M led by IVP at $1.25B valuation; CapitalG and Sapphire Ventures new; Sequoia, Benchmark, Amplify existing; ServiceNow Ventures, Workday Ventures, Cisco Investments, Datadog, Databricks, Frontline participated) | 2025-10-20'' with 3 primary sources ([^51] Fortune, [^lc-b1] LangChain blog primary, [^lc-b2] SiliconANGLE). Re-verified 2025-10-20 date, $125M amount, $1.25B valuation, IVP lead, CapitalG new via LangChain company blog WebFetch. No profile change needed.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Abridge
@@ -5634,7 +5638,9 @@ vague_facts:
   line: '| Abridge | Series D | 2025 | AI/Healthcare | Active | [^52] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER STALE POSITIVE — column 5 is the Source column, which correctly contains only footnote citations. Row is already fully specific in capitalg.md line 133: ''Series D (USD 250M co-led by Elad Gil and IVP; CapitalG, Bessemer, California Health Care Foundation, CVS Health Ventures, K. Ventures, Lightspeed, NVentures, Redpoint, Spark, SV Angel participated) | 2025-02-17'' with 4 primary sources ([^52] Tracxn, [^abridge-d1] Abridge press release, [^abridge-d2] BusinessWire, [^abridge-d3] MobiHealthNews). Re-verified 2025-02-17 date, USD 250M amount, Elad Gil + IVP co-leads, CapitalG participant via Abridge company press release WebFetch — participant list matches exactly. No profile change needed.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Baseten
