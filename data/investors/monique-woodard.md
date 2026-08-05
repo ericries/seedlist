@@ -117,7 +117,7 @@ The analysis below is based on 20 verified investments from Cake Ventures' portf
 | Eli Health | 2023 | Seed+ | [^26] |
 | Aster | 2024 | Pre-seed | [^13] |
 | TenYour | ~2024 | Pre-seed | [^1] |
-| Lotus Labs | ~2024 | Pre-seed | [^1] |
+| Lotus Labs | 2023-01-17 (Techstars Future of Longevity 2023 cohort anchor; Cake among Cake portfolio page listed investors; Cake's direct check date not disclosed by primary sources) | Pre-seed | [^1][^lotus-techstars] |
 | EasyMateAI | ~2024 | Pre-seed | [^1] |
 | Tendercare | ~2025 | Pre-seed | [^1] |
 | Koobz | 2025 | Seed | [^15] |
@@ -198,3 +198,4 @@ No additional independently sourced founder testimonials found. Dedicated search
 [^25]: BusinessWire, "Culina Health Raises $7.9M Series A to Fill the Gap in Payer-Sponsored Nutrition Services," December 2024. https://www.businesswire.com/news/home/20241219398386/en/Culina-Health-Raises-$7.9M-Series-A-to-Fill-the-Gap-in-Payer-Sponsored-Nutrition-Services
 [^26]: Femtech Insider, "Eli Health Raises $3.6M to Take Its At-Home Hormone Monitoring Solution Toward Commercial Launch," April 2023. https://femtechinsider.com/eli-health-seed-plus/
 [^27]: Hospice News, "'Doing Good by Doing Well': Founder Jessica McGlory Launches Guaranteed with $6.5M Seed Round," November 7, 2022. https://hospicenews.com/2022/11/07/doing-good-by-doing-well-hospice-entrepreneur-jessica-mcglory-launches-guaranteed-with-6-5-million-seed-round/
+[^lotus-techstars]: Techstars newsroom, "Meet the Techstars Future of Longevity Class of 2023," January 17, 2023. Accessed August 2026. https://www.techstars.com/newsroom/longevity-class-of-2023 — Primary announcement of the ten-company 2023 cohort including Lotus Labs (Dhaval Patel, ex-Apple product leader). Techstars Future of Longevity is run in partnership with Pivotal Ventures / Melinda French Gates. Cake Ventures LPs include Pivotal Ventures; Cake's separate direct check date is not disclosed by any primary source located, so this cohort announcement is used as the earliest verifiable ecosystem anchor.

@@ -102,7 +102,7 @@ The stated thesis emphasizes the "majority-minority shift" and new consumer demo
 | Most Days | Seed | ~2022 | Digital health / longevity | Active [^4] |
 | TenYour | Seed | ~2023 | Insurtech | Active [^4] |
 | STAND+ | Seed | ~2022 | Consumer / future-of-work | Active [^4] |
-| Lotus Labs | Pre-seed | ~2023 | Hardware / smart home | Active [^4] |
+| Lotus Labs | Pre-seed (Cake among named investors on Cake portfolio page; earliest verifiable public anchor is Techstars Future of Longevity Class of 2023 cohort announcement — Pivotal Ventures / Melinda French Gates partnership) | 2023-01-17 | Hardware / smart home | Active [^4][^lotus-ts] |
 | Koobz | Seed (participated; USD 6M tranche brings total seed to USD 7.2M; Uncork Capital led; V1.VC, Karman Ventures, Antler, Pathbreaker Ventures, Anorak Ventures also participated) | 2025-06-24 | Manufacturing / footwear | Active [^17][^22][^23] |
 | Shop McMullen | Seed | ~2021 | Consumer / e-commerce | Active [^4] |
 | EasyMateAI | Pre-seed/Seed | 2024 | AI / developer tools | Active [^4] |
@@ -191,4 +191,5 @@ No additional independently sourced founder testimonials found. The McGlory quot
 [^solhealth1]: Melinda Gong (Sol Health co-founder), LinkedIn announcement of Sol Health's pre-seed round, February 11, 2025 (activity ID 7295112546070446084). Accessed July 2026. https://www.linkedin.com/posts/melindagong_mentalhealth-healthtech-solhealth-activity-7295112546070446084-5DaJ — Founder's own announcement thanking pre-seed investors: BAM Ventures, Cake Ventures, Strada Education Foundation, FullCircle, LEAD, Remedy Product Studio, Gaingels, and angels.
 
 [^solhealth2]: Justin Driscoll (LEAD Capital) LinkedIn post backing Sol Health's pre-seed round, February 11, 2025 (activity ID 7295132964068249601). Accessed July 2026. https://www.linkedin.com/posts/justin-driscoll_i-am-thrilled-to-backsol-healths-pre-seed-activity-7295132964068249601-wh-r — Independent co-investor confirmation of the pre-seed round with Cake Ventures among participants. Exact round amount not publicly disclosed; Tracxn subsequently listed a Sol Health seed round on December 30, 2024 (which may be the same round labeled differently or a subsequent step).
+[^lotus-ts]: Techstars newsroom, "Meet the Techstars Future of Longevity Class of 2023," January 17, 2023. Accessed August 2026. https://www.techstars.com/newsroom/longevity-class-of-2023 — Primary Techstars announcement of the ten-company 2023 cohort including Lotus Labs (Dhaval Patel, ex-Apple product leader). Techstars Future of Longevity is run in partnership with Pivotal Ventures (Melinda French Gates); Cake Ventures LPs include Pivotal Ventures per Cooley/AfroTech. Cake's separate direct check date is not disclosed by primary sources; this cohort announcement is the earliest independently datable anchor for the ecosystem in which Cake's Lotus investment appears.
 

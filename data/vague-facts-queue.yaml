@@ -68709,7 +68709,9 @@ vague_facts:
   line: '| Baseten | Series E | 2026 | AI/Infrastructure | Investment | [^37] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  note: 'Fact-spec sweep 2026-08-04: tightened Baseten row from year-only 2026 to 2026-01-23 with $300M amount, $5B post-money, IVP+CapitalG co-lead + NVIDIA $150M check + syndicate (01A, Altimeter, Battery, BOND, BoxGroup, Blackbird, Conviction, Greylock). Verified via 3 primary sources: existing BusinessWire [^37] (2026-01-23), NEW Baseten blog [^baseten-e1], NEW TechFundingNews [^baseten-e2]. Also added Series E row to baseten startup profile funding history table.'
 - profile: investors/eric-schmidt
   profile_name: Eric Schmidt
   company: SoFi
@@ -105649,7 +105651,9 @@ vague_facts:
   line: '| Baseten | 2026 | Series E ($300M) | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  note: 'Fact-spec sweep 2026-08-04: tightened Baseten row from year-only 2026 to 2026-01-23 with full IVP+CapitalG co-lead + NVIDIA $150M check + syndicate at $5B post-money. Verified via 3 primary sources: existing Baseten blog [^12] (2026-01-23), NEW BusinessWire [^baseten-e-bw], NEW TechFundingNews [^baseten-e-tfn]. 2 new footnotes added.'
 - profile: investors/lauren-kolodny
   profile_name: Lauren Kolodny
   company: Chime
@@ -122661,7 +122665,9 @@ vague_facts:
   line: '| TenYour | ~2024 | Pre-seed | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-08-04
+  note: 'Fact-spec sweep 2026-08-04: TenYour was founded 2023 by Joah Spearman (Sacramento fintech, safety-net product). Precursor Ventures posted about TenYour on LinkedIn (activity ID 7287583176032440320, ~Jan 2025) and an Instagram post (DFGiyhxyILx, Jan 2025) — both introductions rather than formal round announcements. Public sources confirm Cake Ventures among TenYour investors (TenYour website, Precursor page) but no press release, TechCrunch, or company blog identifies the specific date Cake Ventures made its check. Row left as approximate. Aggregator-only confirmation is not sufficient per anti-hallucination rules.'
 - profile: investors/monique-woodard
   profile_name: Monique Woodard
   company: Lotus Labs
@@ -122671,7 +122677,9 @@ vague_facts:
   line: '| Lotus Labs | ~2024 | Pre-seed | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  note: 'Fact-spec sweep 2026-08-04: Cake''s direct check date for Lotus Labs is not disclosed by any located primary source (Cake portfolio page, company website, or press). Earliest verifiable public anchor is Techstars Future of Longevity Class of 2023 cohort announcement 2023-01-17 (Techstars newsroom primary source; program is a Pivotal Ventures / Melinda French Gates partnership, and Cake Ventures LPs include Pivotal Ventures). Row tightened to 2023-01-17 with explicit disclosure that Cake''s direct check date is not disclosed. New footnote [^lotus-techstars] added on both cake-ventures.md and monique-woodard.md.'
 - profile: investors/monique-woodard
   profile_name: Monique Woodard
   company: EasyMateAI
@@ -122691,7 +122699,9 @@ vague_facts:
   line: '| Tendercare | ~2025 | Pre-seed | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-08-04
+  note: 'Fact-spec sweep 2026-08-04: Tendercare (Shauna Sweeney, ex-Meta) was founded 2022; Axios Pro Rata (2025-05-08, paywalled) reported the startup was "raising seed funds" in May 2025, implying earlier pre-seed activity but no primary press release or company blog post identifies Cake Ventures'' specific pre-seed check date. Cake portfolio page lists Tendercare but does not date the investment. Existing ~2025 estimate on Monique Woodard row is preserved with disclosure that exact date is unresolvable from public sources.'
 - profile: investors/monique-woodard
   profile_name: Monique Woodard
   company: Koobz
@@ -172653,7 +172663,9 @@ vague_facts:
   line: '| Tendercare | Pre-seed | ~2023 | Digital health / caregiving | Active [^4] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-08-04
+  note: 'Fact-spec sweep 2026-08-04: Tendercare (Shauna Sweeney, ex-Meta) was founded 2022; Axios Pro Rata (2025-05-08, paywalled) reported it was "raising seed funds" in May 2025 — implying prior pre-seed activity. Cake portfolio page lists Tendercare but does not date the check; no company press release, TechCrunch, or founder LinkedIn post identifies Cake''s specific pre-seed date. Row left as ~2023 pending primary source disclosure. Aggregator-only confirmation is not sufficient per anti-hallucination rules.'
 - profile: firms/cake-ventures
   profile_name: Cake Ventures
   company: TenYour
@@ -172663,7 +172675,9 @@ vague_facts:
   line: '| TenYour | Seed | ~2023 | Insurtech | Active [^4] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-08-04
+  note: 'Fact-spec sweep 2026-08-04: TenYour was founded 2023 by Joah Spearman (Sacramento, safety-net product). Precursor Ventures posted about TenYour on LinkedIn (activity ID 7287583176032440320, ~Jan 2025) as an introduction rather than round announcement. Cake listed as investor on TenYour website but no primary source (press release, TechCrunch, company blog) confirms Cake''s specific check date. Row left as ~2023 pending better primary sourcing.'
 - profile: firms/cake-ventures
   profile_name: Cake Ventures
   company: Lotus Labs
@@ -172673,7 +172687,9 @@ vague_facts:
   line: '| Lotus Labs | Pre-seed | ~2023 | Hardware / smart home | Active [^4] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-04
+  note: 'Fact-spec sweep 2026-08-04: Cake''s direct check date for Lotus Labs is not disclosed by any primary source. Earliest verifiable public anchor is Techstars Future of Longevity Class of 2023 cohort announcement 2023-01-17 (Techstars newsroom primary source — Pivotal Ventures/Melinda French Gates partnership; Cake Ventures LPs include Pivotal Ventures per Cooley/AfroTech). Cake portfolio page lists Lotus Labs. Row tightened from ~2023 to 2023-01-17 with disclosure that Cake''s direct check date is not disclosed by primary sources. New footnote [^lotus-ts] added on cake-ventures.md.'
 - profile: firms/cake-ventures
   profile_name: Cake Ventures
   company: EasyMateAI

@@ -108,7 +108,7 @@ Based on 33 verified investments attributed to Lars Leckie personally (from his 
 | WunderGraph | ~2023 | Early Stage | [^6] |
 | StepFunction | 2022 | Early Stage (acquired by Gruve) | [^6] |
 | Alpharank | ~2023 | Early Stage | [^6] |
-| Baseten | 2026 | Series E ($300M) | [^12] |
+| Baseten | 2026-01-23 | Series E ($300M at $5B post-money; IVP + CapitalG co-led; NVIDIA participated with $150M check; 01A, Altimeter, Battery Ventures, BOND, BoxGroup, Blackbird Ventures, Conviction, Greylock also participated) | [^12][^baseten-e-bw][^baseten-e-tfn] |
 
 *This table represents 40 investments attributed to Lars Leckie through his HWVP team page (6 investments) and the Aspenwood Ventures portfolio page (33 investments, with some overlap). Leckie was also involved in HWVP fund-level investments in MuleSoft, Five9, InsideSales, and other companies listed on the firm profile, though his specific role varied.*
 
@@ -167,6 +167,8 @@ Note: These testimonials are sourced from the Aspenwood Ventures website and may
 [^10]: Lars Leckie, "The Series 'AI' Funding Gap," LinkedIn article. Accessed April 2026. https://www.linkedin.com/pulse/series-ai-funding-gap-lars-leckie-yq62c
 [^11]: BusinessWire, "Oomnitza Announces $20 Million Growth Funding to Drive Enterprise Technology Management Solution," August 26, 2021. Accessed April 2026. https://www.businesswire.com/news/home/20210826005519/en/Oomnitza-Announces-$20-Million-Growth-Funding-to-Drive-Enterprise-Technology-Management-Solution
 [^12]: Baseten blog, "Announcing Baseten's $300M Series E," January 23, 2026. Accessed April 2026. https://www.baseten.co/blog/announcing-baseten-s-300m-series-e/
+[^baseten-e-bw]: Business Wire, "Baseten Raises $300M at a $5B Valuation to Power a Multi-Model Future," January 23, 2026. Accessed August 2026. https://www.businesswire.com/news/home/20260123035833/en/Baseten-Raises-$300M-at-a-$5B-Valuation-to-Power-a-Multi-Model-Future — Independent wire confirmation of the January 23, 2026 close, $300M at $5B post-money, IVP and CapitalG co-leads with NVIDIA's $150M check.
+[^baseten-e-tfn]: TechFundingNews, "Baseten nabs $300M from IVP, CapitalG to challenge Together AI in inference," January 2026. Accessed August 2026. https://techfundingnews.com/baseten-raises-300m-5b-valuation-nvidia/ — Trade-press confirmation of the same round with the full syndicate list.
 [^13]: Signal by NFX, "HWVP (Hummer Winblad Venture Partners)" firm profile. Accessed April 2026. https://signal.nfx.com/firms/hummer-winbald-venture-partners
 [^14]: SUSE, "SUSE Acquires NeuVector to Strengthen Container Security," October 2021. Accessed April 2026. https://www.suse.com/news/suse-acquires-neuvector/
 [^15]: Zscaler, "Zscaler acquires Airgap Networks to extend Zero Trust SASE," April 2024. Accessed April 2026. https://www.zscaler.com/blogs/company-news/zscaler-acquires-airgap-networks-extends-zero-trust-sase

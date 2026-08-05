@@ -104,7 +104,7 @@ Based on 32 verified investments in the portfolio table where Liaw is identified
 | Kalshi | Series E | 2025 | Fintech/Prediction Markets | Investment | [^9][^12] |
 | Tennr | Series C | 2025 | Health Tech/AI | Investment | [^13] |
 | Appcharge | Series B | 2025 | Gaming/Payments | Board Member | [^9] |
-| Baseten | Series E | 2026 | AI/Infrastructure | Investment | [^37] |
+| Baseten | Series E ($300M at $5B post-money; co-led with CapitalG; 01A, Altimeter, Battery Ventures, BOND, BoxGroup, Blackbird Ventures, Conviction, Greylock, NVIDIA participated) | 2026-01-23 | AI/Infrastructure | Investment | [^37][^baseten-e1][^baseten-e2] |
 
 *This table represents investments where Eric Liaw's personal involvement is confirmed through board seats, lead attribution, or IVP announcements. Liaw's IVP portfolio page lists 100+ companies, but many reflect firm-wide portfolio attribution rather than individual lead roles.*
 
@@ -196,6 +196,8 @@ Several IVP-backed founders have voluntarily become LPs in IVP's funds, includin
 [^35]: Cooley, "DeepL Reaches 1 Billion Valuation With Investment From IVP," January 19, 2023, accessed March 2026. https://www.cooley.com/news/coverage/2023/2023-01-19-deepl-reaches-1-billion-valuation-with-investment-from-ivp
 [^36]: TechCrunch, "AI-powered search engine Perplexity AI, now valued at $520M, raises $73.6M," January 4, 2024. https://techcrunch.com/2024/01/04/ai-powered-search-engine-perplexity-ai-now-valued-at-520m-raises-70m/
 [^37]: Business Wire, "Baseten Raises $300M at a $5B Valuation to Power a Multi-Model Future," January 23, 2026. https://www.businesswire.com/news/home/20260123035833/en/Baseten-Raises-$300M-at-a-$5B-Valuation-to-Power-a-Multi-Model-Future
+[^baseten-e1]: Baseten blog, "Announcing Baseten's $300M Series E," January 23, 2026. Accessed August 2026. https://www.baseten.co/blog/announcing-baseten-s-300m-series-e/ — Company-side primary announcement confirming $300M Series E at $5B valuation "led by IVP and CapitalG, both doubling down on their investment in Baseten," joined by 01A, Altimeter, Battery Ventures, BOND, BoxGroup, Blackbird Ventures, Conviction, Greylock and NVIDIA.
+[^baseten-e2]: TechFundingNews, "Baseten nabs $300M from IVP, CapitalG to challenge Together AI in inference," January 2026. Accessed August 2026. https://techfundingnews.com/baseten-raises-300m-5b-valuation-nvidia/ — Independent trade press confirmation of the $300M Series E co-led by IVP and CapitalG at $5B post-money with a $150M check from NVIDIA.
 [^38]: Fortune, "Exclusive: IVP has raised $1.6 billion, marking its 18th fund," March 19, 2024. https://fortune.com/2024/03/19/ivp-raises-1-6-billion-18th-venture-capital-fund/
 [^39]: IVP blog, "From Stockholm to the Stock Market: Klarna's Remarkable Journey to IPO," accessed March 2026. https://www.ivp.com/content/from-stockholm-to-the-stock-market-klarnas-remarkable-journey-to-ipo/
 [^40]: StrictlyVC, "Eric Liaw Means Business," August 27, 2014, accessed March 2026. https://strictlyvc.com/2014/08/27/eric-liaw-means-business/
