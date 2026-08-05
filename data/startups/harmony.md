@@ -53,7 +53,7 @@ Harmony is an AI-native enterprise service management (ESM) platform that resolv
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-28 | Seed | $34M | Lightspeed Venture Partners | Hitachi Ventures, Fin Capital, Mercer Ventures, Operator Partners, Assaf Rappaport, Ofir Ehrlich [^1][^2][^4] |
+| 2026-07-28 | Seed | $34M | Lightspeed Venture Partners | Hitachi Ventures, Fin Capital, Mercer Ventures, Operator Partners, Assaf Rappaport, Ofir Ehrlich [^1][^2][^4][^5] |
 
 ## What Investors Say
 
@@ -77,3 +77,4 @@ Harmony is an AI-native enterprise service management (ESM) platform that resolv
 [^2]: Calcalist, "After selling Epsagon to Cisco for $500 million, founders return with AI enterprise startup Harmony," July 28, 2026. Accessed July 30, 2026. https://www.calcalistech.com/ctechnews/article/sj0nhfurmx
 [^3]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 7/28/2026," July 28, 2026. Accessed July 30, 2026. https://www.alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-28-2026/
 [^4]: citybiz, "Harmony Raises $34 Million Seed Round to Build AI Platform for Enterprise Employee Support," July 28, 2026. Accessed July 30, 2026. https://www.citybiz.co/article/880250/harmony-raises-34-million-seed-round-to-build-ai-platform-for-enterprise-employee-support/
+[^5]: ACCESS Newswire (official announcement), "Harmony Raises $34 Million to Reinvent Employee Experience Powered by AI," July 28, 2026. Accessed August 2026. https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/harmony-raises-34-million-to-reinvent-employee-experience-powered-1193998 — Official press release confirming Lightspeed lead and full institutional/angel participant list including Rappaport and Ehrlich.

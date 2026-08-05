@@ -109,6 +109,7 @@ Based on 22 verified portfolio investments, Buckley Ventures' actual investment 
 | Golden | Early | ~2019 | Knowledge/Consumer | Active | [^12] |
 | Truework | Early | ~2018 | Verification/Fintech | Active | [^12] |
 | Drafted | Seed (led, $16M) | 2026-05-29 | AI/Proptech/Generative Design | Active | [^16][^17][^18] |
+| Foundational Industries | Seed (participated, $25M; co-led by BoxGroup and Zigg Ventures) | 2026-07-30 | Manufacturing/AI/Industrial Automation | Active | [^fnd1][^fnd2][^fnd3] |
 
 *Note: This table represents a partial list. Crunchbase reports 49 investments for Josh Buckley [^12]. Many entries lack specific investment years; dates marked with "~" are approximations based on Crunchbase funding round dates. Entries marked "—" have no independently verified investment date.*
 
@@ -165,3 +166,7 @@ No independently sourced founder testimonials found. Buckley Ventures' website d
 [^pi2]: CNBC, "Jeff Bezos and OpenAI invest in robot startup Physical Intelligence at $2.4 billion valuation," November 4, 2024. Accessed August 3, 2026. https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html — Series A press coverage. Investors named: Jeff Bezos, OpenAI, Thrive Capital, Lux Capital, Bond Capital, Khosla Ventures, Sequoia Capital. Josh Buckley / Buckley Ventures NOT named.
 
 [^pi3]: Yahoo Finance / Bloomberg, "Physical Intelligence secures $400M in funding," November 2024. Accessed August 3, 2026. https://finance.yahoo.com/news/physical-intelligence-secures-400m-funding-092326078.html — Investors named: Jeff Bezos, Thrive Capital, Lux Capital, OpenAI, Redpoint Ventures, Bond. Josh Buckley / Buckley Ventures NOT named. Buckley Ventures exposure to Physical Intelligence is self-reported from joshbuckley.com [^7] with no independent round-level primary source available.
+
+[^fnd1]: Jason Del Rey, "Forget robots on assembly lines. Foundational Industries wants AI to run the entire factory," Fortune, July 30, 2026. Accessed August 2026. https://fortune.com/2026/07/30/forget-robots-assembly-lines-foundational-industries-ai-to-run-entire-factory-manufacturing-china-robotics/ — Names Buckley Ventures as a participant in Foundational Industries' $25M seed co-led by BoxGroup and Zigg Ventures on July 30, 2026.
+[^fnd2]: The Robotics Media, "Foundational Industries Bags $25M Seed To Build AI-Native US Factories," July 30, 2026. Accessed August 2026. https://theroboticsmedia.com/article/foundational-industries-25m-seed-boxgroup-zigg-ai-native-factories-2026-07-30 — Independent confirmation naming Buckley Ventures among participants.
+[^fnd3]: Dealroom, "Foundational Industries raises $25M to build AI-native US factories for data centre hardware," July 30, 2026. Accessed August 2026. https://app.dealroom.co/news/feed/foundational-industries-raises-25m-to-build-ai-native-us-factories-for-data-centre-hardware — Third independent confirmation.

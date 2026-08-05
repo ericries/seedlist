@@ -3802,6 +3802,9 @@ priority:
   type: firm
   reason: led P-1 AI Series A (2026-07-29), $50M
   added: 2026-07-29
+  status: resolved
+  resolved: '2026-08-05'
+  note: 'Verified P-1 AI Series A ($50M, 2026-07-29, NEA-led) via 3 primary sources: (1) GlobeNewswire company press release, (2) Dealroom, (3) Goodwin (law firm advising the deal — added as new [^38] on nea.md and [^5] on p-1-ai.md). Row already accurate on nea.md; upgraded citation count from 2 to 3 primary sources. Jeff Immelt to board, Lila Tretikov as observer confirmed.'
 - slug: y-combinator
   type: firm
   reason: participated in Healia Series A (2026-07-29), $14M
@@ -3859,6 +3862,9 @@ priority:
   type: firm
   reason: led Foundational Industries Seed (2026-07-30), USD 25M
   added: 2026-07-30
+  status: resolved
+  resolved: '2026-08-05'
+  note: 'Verified Foundational Industries Seed ($25M, 2026-07-30, co-led by BoxGroup and Zigg Ventures) via 3 primary sources: (1) Fortune (Jason Del Rey), (2) The Robotics Media, (3) Dealroom. Added Foundational Industries row to boxgroup.md portfolio table with 3 new citations ([^foundational2026a-c]). Also added row to buckley-ventures.md portfolio ([^fnd1-3]) since Buckley participated. Set last_verified_investment on boxgroup.md to Foundational Industries (2026-07-30). Confirmed participants: Abstract Ventures, Adverb Ventures, Buckley Ventures, Offline Ventures. CEO Jonathan Winer (ex-Sidewalk Infrastructure Partners).'
 - slug: abstract-ventures
   type: firm
   reason: participated in Foundational Industries Seed (2026-07-30)
@@ -3886,6 +3892,9 @@ priority:
   type: investor
   reason: angel in Harmony Seed (2026-07-28), $34M
   added: 2026-07-30
+  status: resolved
+  resolved: '2026-08-05'
+  note: 'Verified Rappaport angel participation in Harmony Seed ($34M, 2026-07-28, Lightspeed-led) via 3 primary sources: (1) Pulse 2.0, (2) Calcalist/CTech, (3) ACCESS Newswire official announcement (added as new [^harm3] on rappaport profile and [^5] on harmony.md). Row already accurate on rappaport profile; upgraded citation count. Confirmed institutional participants: Hitachi Ventures, Fin Capital, Mercer Ventures, Operator Partners. Confirmed angels: Assaf Rappaport (Wiz) and Ofir Ehrlich (Eon.io).'
 - slug: khosla-ventures
   type: firm
   reason: led Dili Series A (2026-07-30), $15M

@@ -35,7 +35,7 @@ P-1 AI is a San Mateo–based engineering AI startup building Archie, an agentic
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-29 | Series A | $50M | NEA | Radical Ventures, Cameron McCord, Nick Marwell, Jo Zhu Kennedy, Jeff Dean, Peter Welinder, Bob van Luijt [^1][^2][^3] |
+| 2026-07-29 | Series A | $50M | NEA | Radical Ventures, Cameron McCord, Nick Marwell, Jo Zhu Kennedy, Jeff Dean, Peter Welinder, Bob van Luijt [^1][^2][^3][^5] |
 | 2025 | Seed | $23M | Radical Ventures | — [^3][^4] |
 
 Jeff Immelt, former chairman and CEO of General Electric, joined the board of directors as part of the Series A [^1][^2]. NEA partner Lila Tretikov, previously Microsoft's deputy CTO, joined as a board observer [^1][^3].
@@ -54,3 +54,4 @@ No independently sourced founder testimonials found at time of profile creation.
 [^2]: Yahoo Finance / GlobeNewswire republication, "Engineering AI startup, P-1 AI, Announces Its Series A Financing Led by NEA, Adding Jeff Immelt to the Company's Board," July 29, 2026. Accessed July 2026. https://finance.yahoo.com/technology/ai/articles/engineering-ai-startup-p-1-123500705.html
 [^3]: Dealroom, "P-1 AI raises $50M Series A led by NEA, adds ex-GE CEO Jeff Immelt to board," July 29, 2026. Accessed July 2026. https://app.dealroom.co/news/feed/p-1-ai-raises-50m-series-a-led-by-nea-adds-ex-ge-ceo-jeff-immelt-to-board
 [^4]: Pulse 2.0, "P-1 AI: $23 Million Raised For Building Engineering AGI For Physical Systems," 2025. Accessed July 2026. https://pulse2.com/p-1-ai-23-million-raised-for-building-engineering-agi-for-physical-systems/
+[^5]: Goodwin, "Goodwin Advises P-1 AI on Its $50 Million Series A Financing," July 2026. Accessed August 2026. https://www.goodwinlaw.com/en/news-and-events/news/2026/07/announcements-technology-goodwin-advises-p-1-ai-50-million-series-a-financing — Legal advisor confirmation of the $50M Series A led by NEA.

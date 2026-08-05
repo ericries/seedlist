@@ -180,7 +180,7 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 | Corca | Seed (led, $7.8M) | 2026-06-10 | AI/Scientific Computing | Active [^25][^26][^27] |
 | Twelve Labs | Series B (co-led, $100M with NAVER Ventures) | 2026-07-01 | AI/Video Foundation Models | Active [^28] |
 | Singularity | Series A (existing seed investor participating; $80M at $400M post-money; Khosla Ventures + Felicis co-led; AE Ventures also existing seed; Long Journey, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, Soma participated) | 2026-07-14 | Defense / Aerospace / Deep Tech | Active [^31][^32][^33] |
-| P-1 AI | Series A (led, $50M; Radical Ventures + angels) | 2026-07-29 | AI / Engineering / Hardware | Active [^34][^35] |
+| P-1 AI | Series A (led, $50M; Radical Ventures + angels) | 2026-07-29 | AI / Engineering / Hardware | Active [^34][^35][^38] |
 | Horizon3.ai | Series E (co-led with NightDragon, $250M at $2B+ valuation; Acrew, Blue Cloud, Demeter, EDBI, PSG, SAIC, Sapphire, Craft, Prosperity7, Qualcomm, Ridge, SignalFire participated) | 2026-08-03 | Cybersecurity / Autonomous Pentesting | Active [^36][^37] |
 
 *This table represents a very small fraction of NEA's portfolio. The firm has participated in 284+ IPOs and 500+ acquisitions over its 48-year history [^4][^5].*
@@ -253,3 +253,4 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^35]: Dealroom, "P-1 AI raises $50M Series A led by NEA, adds ex-GE CEO Jeff Immelt to board," July 29, 2026. Accessed July 2026. https://app.dealroom.co/news/feed/p-1-ai-raises-50m-series-a-led-by-nea-adds-ex-ge-ceo-jeff-immelt-to-board
 [^36]: "Horizon3 Raises $250M Series E at $2B+ Valuation to Lead the 'AI vs. AI' Cybersecurity Era," Horizon3.ai press release, August 3, 2026. Accessed August 2026. https://horizon3.ai/news/press-release/horizon3-raises-250m-series-e-at-2b-valuation-to-lead-the-ai-vs-ai-cybersecurity-era/
 [^37]: "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate," TechCrunch, August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/
+[^38]: Goodwin, "Goodwin Advises P-1 AI on Its $50 Million Series A Financing," July 2026. Accessed August 2026. https://www.goodwinlaw.com/en/news-and-events/news/2026/07/announcements-technology-goodwin-advises-p-1-ai-50-million-series-a-financing — Law firm confirmation of the $50M Series A led by NEA on July 29-30, 2026, with Jeff Immelt joining the board.

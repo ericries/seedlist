@@ -52,6 +52,10 @@ team:
     slug: ava-payman
 status: published
 last_researched: 2026-05-06
+last_verified_investment:
+  date: 2026-07-30
+  company: "Foundational Industries"
+  round: "Seed (co-led, $25M)"
 tldr: "NYC-based seed investor founded in 2007 by David Tisch and Adam Rothenberg, with 600+ investments producing 31 unicorns (Plaid, Ramp, Warby Parker, Airtable, Cursor). Writes non-lead $250K-$1M checks as 'the Switzerland of VC,' co-investing collaboratively. Self-funded for first 12 years before raising external capital; now manages $1B+ across multiple fund vintages. Portfolio concentrated in fintech (25%), healthcare (18%), and consumer (18%)."
 ---
 
@@ -107,6 +111,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Foundational Industries | Seed (co-led with Zigg Ventures, $25M; Abstract, Adverb, Buckley, Offline participated) | 2026-07-30 | Manufacturing / AI / Industrial Automation | Active [^foundational2026a][^foundational2026b][^foundational2026c] |
 | Sable | Series A (participated, $45M; co-led by Sequoia and 8VC) | 2026-07-16 | AI / Sales Enablement | Active [^sable2026][^sable2026b][^sable2026c] |
 | Niteshift | Seed (participated, $7M; led by Greylock/Jerry Chen) | 2026-06-10 | AI / Developer Tools / Cloud | Active [^niteshift2026a][^niteshift2026b][^niteshift2026c] |
 | Ramp | Series F (participated, $750M; led by ICONIQ, GIC, Ontario Teachers') | 2026-06-04 | Fintech | Active ($44B valuation) [^ramp2026f] |
@@ -259,3 +264,7 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^cursor2023a]: TechCrunch, "Anysphere raises $8M from OpenAI to build an AI-powered IDE," October 11, 2023. Accessed July 2026. https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/ — Contemporaneous press confirming Anysphere's $8M seed round announced October 11, 2023, led by OpenAI's Startup Fund with participation from Nat Friedman (former GitHub CEO), Arash Ferdowsi (Dropbox co-founder), and other angel investors. BoxGroup is NOT named in contemporaneous press, but appears in BoxGroup's own portfolio listing per [^6] (Fortune article, October 2025). BoxGroup's Cursor participation is per BoxGroup portfolio disclosure only.
 
 [^cursor2023b]: The SaaS News, "Anysphere Raises $8 Million in Seed Round," October 16, 2023. Accessed July 2026. https://www.thesaasnews.com/news/anysphere-raises-8-million-in-seed-round/ — Independent second confirmation of Anysphere's October 2023 $8M seed round led by OpenAI Startup Fund with angels Nat Friedman and Arash Ferdowsi. BoxGroup is not named in this article; participation attribution is per BoxGroup's own portfolio disclosure.
+
+[^foundational2026a]: Jason Del Rey, "Forget robots on assembly lines. Foundational Industries wants AI to run the entire factory," Fortune, July 30, 2026. Accessed August 2026. https://fortune.com/2026/07/30/forget-robots-assembly-lines-foundational-industries-ai-to-run-entire-factory-manufacturing-china-robotics/ — Confirms BoxGroup and Zigg Ventures co-led the $25M seed round for Foundational Industries on July 30, 2026, with Abstract Ventures, Adverb Ventures, Buckley Ventures, and Offline Ventures participating. CEO Jonathan Winer previously at Alphabet's Sidewalk Infrastructure Partners.
+[^foundational2026b]: The Robotics Media, "Foundational Industries Bags $25M Seed To Build AI-Native US Factories," July 30, 2026. Accessed August 2026. https://theroboticsmedia.com/article/foundational-industries-25m-seed-boxgroup-zigg-ai-native-factories-2026-07-30 — Independent confirmation of the $25M seed co-led by BoxGroup and Zigg Ventures.
+[^foundational2026c]: Dealroom, "Foundational Industries raises $25M to build AI-native US factories for data centre hardware," July 30, 2026. Accessed August 2026. https://app.dealroom.co/news/feed/foundational-industries-raises-25m-to-build-ai-native-us-factories-for-data-centre-hardware — Third independent confirmation.
