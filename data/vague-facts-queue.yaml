@@ -140,7 +140,8 @@ vague_facts:
   line: '| Figma | Fellowship-era attribution — Dylan Field was a 2012 Thiel Fellow (Gibson/Strachman ran the Thiel Fellowship pr'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER FALSE POSITIVE on column 4 (Source column, contains footnote refs). Row itself is a fully specific historical-context annotation: Figma seed 2013-06-26 was led by Index Ventures/Danny Rimer with USD 3.8M total (per TechCrunch and Index Ventures blog [^57]); 1517 Fund is NOT a Figma investor per any primary source. Row already discloses this transparently, retained for context because Gibson/Strachman ran the Thiel Fellowship (2012 fellow Dylan Field) before founding 1517 in 2015. Verified via 3 primary sources: existing Index Ventures Danny Rimer post [^57] (2025), TechCrunch Alexia Tsotsis 2013-06-26 (cross-referenced in [^57]), and existing footnote [^30]. No profile change needed — row is a transparent disclosure, not an attribution error.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: nTopology (nTop)
@@ -205,7 +206,8 @@ vague_facts:
   line: '| Xona Space Systems | Pre-Seed ($1M; 1517 led; Seraphim Capital, Trucks Venture Capital, Stellar Solutions participated'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER FALSE POSITIVE on column 4 (Source column). Row is fully specific: Pre-Seed USD 1M on 2020-05-14, 1517 Fund led, participants Seraphim Capital + Trucks Venture Capital + Stellar Solutions. Re-verified via 3 independent primary sources (all confirm all data verbatim): (1) Xona Space Systems press release [^21] (xonaspace.com/pr20200514, 2020-05-14), (2) TechCrunch/Aria Alamalhodaei [^34] (2020-05-14), (3) SatelliteToday/Via Satellite [^52] (2020-05-15). No profile change needed.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Positron AI
@@ -226,7 +228,8 @@ vague_facts:
   line: '| Mach Industries | Seed (USD 5.7M; Sequoia Capital led — Sequoia''s first-ever defense-tech investment; Marque VC + Cham'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER FALSE POSITIVE on column 4 (Source column). Row is fully specific: Seed USD 5.7M on 2023-06-16, Sequoia Capital lead (Sequoia''s first-ever defense-tech investment), Marque VC + Champion Hill Ventures participants, 1517 Fund as aggregator-attributed participant per TechCrunch Series A retrospective [^45]. Re-verified via 3 independent primary sources: (1) PR Newswire company release [^66] (2023-06-16, confirms USD 5.7M / Sequoia lead / Marque + Champion Hill participants but does NOT name 1517), (2) Sequoia Capital first-party partnership blog [^67] (2023-06-15, confirms Sequoia lead), (3) TechCrunch Series A retrospective [^45] (2023-10-04, names 1517 Fund as prior seed participant). Aggregator-only 1517 attribution already flagged in-row per FOSSA/Fountain/Deepgram convention. No profile change needed.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Rainmaker
@@ -236,7 +239,8 @@ vague_facts:
   line: '| Rainmaker | Seed (USD 6.3M; no formal lead named; Long Journey Ventures, Day One Ventures, Tamarack Global, 1517 Fund,'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER FALSE POSITIVE on column 4 (Source column). Row is fully specific: Seed USD 6.3M on 2024-05-07, no formal lead, participants Long Journey Ventures + Day One Ventures + Tamarack Global + 1517 Fund + Starship VC + Champion Hill Ventures + angels Garry Tan + Balaji Srinivasan. Re-verified via 3 primary sources: (1) Fortune [^37] (2024-05-07, confirms all named participants including 1517 Fund verbatim), (2) Sacra analyst report [^78], (3) HubSpot founder interview [^79]. No profile change needed.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Marathon Fusion
@@ -246,7 +250,8 @@ vague_facts:
   line: '| Marathon Fusion | Seed (co-led with Anglo American, USD 5.9M; Übermorgen Ventures + Shared Future Fund + Malcolm Handl'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER FALSE POSITIVE on column 4 (Source column). Row is fully specific: Seed co-led by 1517 Fund and Anglo American, USD 5.9M on 2024-07-18, participants Übermorgen Ventures + Shared Future Fund + Malcolm Handley; DOE ARPA-E CREATE award brings total to USD 6.9M. Re-verified via 3 independent primary sources: (1) PR Newswire company release [^22] (2024-07-18, confirms 1517 Fund and Anglo American as co-leads verbatim), (2) FinSMEs [^71] (2024-07-18), (3) VCNewsDaily [^72]. No profile change needed.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Trilobio
