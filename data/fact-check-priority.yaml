@@ -4288,3 +4288,7 @@ priority:
   type: firm
   reason: "participated Maximum seed (2026-08-03), $30M"
   added: 2026-08-05
+- slug: y-combinator
+  type: firm
+  reason: "backed Isengard Industries Summer 2026 batch (2026-08-04, seed)"
+  added: 2026-08-05

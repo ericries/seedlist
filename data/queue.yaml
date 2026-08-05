@@ -45616,3 +45616,58 @@ queue:
   added: '2026-03-17'
   discovered_from: fusemachines
   source: sole investor Fusemachines convertible + warrants (2026-08-04)
+- name: Ethereal Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bundle-web3
+- name: Further Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bundle-web3
+- name: Scenius Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bundle-web3
+- name: Anchorage Digital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bundle-web3
+- name: Nuwa Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bundle-web3
+- name: Backswing Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: isengard-industries
+- name: A3 Management Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: isengard-industries
+- name: Sterling Road
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: isengard-industries
+- name: Francisco Serra-Martins
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Isengard Industries
+  discovered_from: isengard-industries
