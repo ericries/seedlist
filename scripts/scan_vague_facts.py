@@ -55,6 +55,13 @@ def scan_profiles():
                     # Strip footnote refs for analysis
                     cell_clean = re.sub(r'\[\^\d+\]', '', cell_clean).strip()
 
+                    # Skip the Source column — it's expected to contain only footnote refs.
+                    # Portfolio/Funding History tables put Source as the last column,
+                    # so if this column contains ONLY footnotes and it's the final cell,
+                    # it's the citation column, not a vague value.
+                    if cell_clean == "" and re.match(r'^(\[\^\d+\]\s*)+$', cell.strip()) and i == len(parts) - 1:
+                        continue
+
                     if cell_clean in ("unknown", "undisclosed", "n/a", "--", "—", "?", ""):
                         # High priority: explicit unknown
                         company = parts[0] if parts else "?"

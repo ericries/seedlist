@@ -8,7 +8,8 @@ vague_facts:
   line: '| City Storage Systems / CloudKitchens | Acquisition (controlling stake) | 2018-03-20 | Ghost kitchens / Real estate | A'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-04: SCANNER FALSE POSITIVE — column 5 is the Source column, which correctly contains only footnote citations. The row itself is fully specific: 2018-03-20 date, ''Acquisition (controlling stake)'' with $150M documented in About section, ''Active (IPO delayed)'' status. Re-verified 2018-03-20 CSS acquisition and $150M Kalanick investment via 4 primary sources: CNBC (2018-03-20), TechCrunch [^3] (2018-03-20), Bloomberg [^17] (2018-03-21), and PYMNTS (2018-03-20). No profile change needed; row remains as-is with 3 existing citations covering the fact.'
 - profile: firms/10100
   profile_name: '10100'
   company: Opendoor
@@ -95,7 +96,8 @@ vague_facts:
   line: '| Luminar Technologies | Seed (USD 36M round; Canvas Ventures, GVA Capital, 1517 Fund among investors — 1517''s individua'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-04: SCANNER FALSE POSITIVE — column 4 (Source) correctly contains only footnote citations [^9][^26][^48][^49]. Row is fully specific: 2017-04-13 date, USD 36M amount, Canvas Ventures + GVA Capital + 1517 Fund named. Re-verified via 3+ primary sources: Forbes/Alan Ohnsman (2017-04-13), Axios (2017-04-13), TechCrunch (2017-04-13), plus existing 1517 Fund blog [^9] and Optics.org [^49] (both 2017-04-13). Company IPO''d via SPAC December 2020 at $3.4B valuation; filed Chapter 11 December 2025 (documented at line 135 of profile). No profile change needed.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Lambda
@@ -385,7 +387,8 @@ vague_facts:
   line: '| Twilio | Seed (Dave McClure $50K angel; 500 Startups later launched a dedicated $250K "Twilio Fund" for startups on Tw'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-04: SCANNER FALSE POSITIVE — column 5 (Source) correctly contains only footnote citations [^12][^16][^23][^36]. Row is fully specific and well-annotated: 2009 seed with Dave McClure as personal angel (McClure ran Founders Fund''s FF Angel program 2008-2010, per VatorNews 2016 retrospective), and 500 Startups later launched a dedicated $250K Twilio Fund micro-fund on 2010-12-21 (per TechCrunch 2010-12-21, VentureBeat, 500.co blog, Business Wire 2011-09-21). The firm-level 500 Startups attribution is via the Twilio Fund, NOT the 2009 seed round. Existing sources cover both — no profile change needed. Note: Twilio''s March 2009 $600K seed was led by Founders Fund + Mitch Kapor with Chris Sacca, David Cohen, Manu Kumar participating; McClure was among angels via FF Angel program.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Wildfire
