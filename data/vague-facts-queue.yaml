@@ -150,7 +150,8 @@ vague_facts:
   line: '| nTopology (nTop) | Series A ($7.6M; Data Collective + Root Ventures co-led; CrunchFund, Haystack, Pathbreaker, 1517 Fu'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER FALSE POSITIVE on column 4 (Source column). Row is fully specific: 2017-12-01 date, USD 7.6M amount, Data Collective + Root Ventures co-lead, and 1517 Fund + CrunchFund + Haystack + Pathbreaker as participants. Re-verified via 3+ primary sources: 3D Printing Industry [^54] (2017-12-05, confirms USD 7.6M / DCVC lead / Root Ventures participation — but does NOT name 1517 Fund), 3ders.org [^31] (2017-12-01), and MCADCafe [^55] (2017-12-01, does name 1517 Fund alongside CrunchFund, Haystack, Pathbreaker). Row annotation already flags the aggregator-only 1517 attribution pattern (matches FOSSA/Fountain/Deepgram cases). No profile change needed.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: FOSSA
@@ -171,7 +172,8 @@ vague_facts:
   line: '| Atom Computing | Seed (~$5M; Venrock led per Ethan Batraski blog; 1517 confirmed on own portfolio page but NOT named i'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER FALSE POSITIVE on column 4 (Source column). Row is fully specific: Seed round ~USD 5M, Venrock lead, 2018-08 (Venrock GP Ethan Batraski blog) vs 2018-05-10 (Crunchbase Form D) date discrepancy already documented in-line. Re-verified via 3 sources: Venrock GP Ethan Batraski Medium post [^56] (2018-09-25 publication, confirms "led their seed round in August" but does not disclose amount or other participants), Crunchbase Atom Computing profile [^18], and Crunchbase funding round entry [^32] (2018-05-10 Form D date). 1517 Fund attribution comes from their own portfolio page [^1] but is NOT named in Venrock or Atom Computing primary materials — aggregator-only pattern already flagged in-row. No profile change needed.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Fountain
@@ -192,7 +194,8 @@ vague_facts:
   line: '| Cents | Seed (USD 4.25M; Bessemer Venture Partners led; Newfund Capital + Riverpark Ventures + 1517 Fund + Jason Finge'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER FALSE POSITIVE on column 4 (Source column). Row is fully specific: Seed USD 4.25M, Bessemer Venture Partners lead, Newfund Capital + Riverpark Ventures + 1517 Fund + Jason Finger (Seamless/Upper90) participants, 2021-02-15 public announcement date with Crunchbase Form D showing 2020-11-01, and 1517''s own 2020-09-24 blog announcement noted in-row. Re-verified via 3 primary sources: Cents company press release [^60] (confirms USD 4.25M, BVP lead, and all named participants including 1517 Fund verbatim), Crunchbase seed round page [^61] (2020-11-01 Form D), and existing 1517 Fund blog [^20]/[^62]. Unlike aggregator-only patterns, 1517 IS named in Cents'' own primary company source. No profile change needed.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Xona Space Systems
