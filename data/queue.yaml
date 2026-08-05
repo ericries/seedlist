@@ -45551,3 +45551,68 @@ queue:
   added: '2026-03-17'
   discovered_from: manu-iyer
   source: Co-invested in EtherealX Series A Jan 2026
+- name: GoPoint Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: buzz-solutions
+  source: participant Buzz Solutions Series A (2026-08-04)
+- name: HearstLab
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: buzz-solutions
+  source: existing investor Buzz Solutions Series A (2026-08-04)
+- name: Blackhorn Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: buzz-solutions
+  source: existing investor Buzz Solutions Series A (2026-08-04)
+- name: Kaitlyn Albertoli
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Buzz Solutions
+  discovered_from: buzz-solutions
+  source: CEO & Co-Founder Buzz Solutions
+- name: Andy Smith
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Oak HC/FT
+  discovered_from: dash-bio
+  source: Partner Oak HC/FT, led Dash Bio Series A
+- name: NDS Corporation
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: inocras
+  source: strategic investor Inocras Series B-3 (2026-08-03)
+- name: AimedBio
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: inocras
+  source: strategic investor Inocras Series B-3 (2026-08-03)
+- name: Cameron Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: ambrook
+  source: participant Ambrook Series B (2026-08-04)
+- name: Meteora Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: fusemachines
+  source: sole investor Fusemachines convertible + warrants (2026-08-04)

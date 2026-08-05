@@ -21,7 +21,7 @@ investors:
 - round: Seed
   slug: adrian-fenty
   year: 2022
-last_researched: 2026-04-21
+last_researched: 2026-08-04
 location: New York, NY
 name: Antioch
 sector:
@@ -31,10 +31,10 @@ sector:
 - ai
 - developer-tools
 slug: antioch
-stage_latest: Seed
+stage_latest: Series A
 status: published
 status_company: active
-total_raised: $8.5M
+total_raised: $44M
 type: startup
 website: https://antioch.ai
 ---
@@ -47,9 +47,10 @@ Antioch is a New York-based startup building a simulation platform for physical 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
+| 2026-08-04 | Series A (SEC filing) | $31.4M | undisclosed | undisclosed (8 investors per SEC filing; total offering $32M) [^4] |
 | 2026-04-16 | Seed | $8.5M | A*, Category Ventures | MaC Venture Capital, Abstract, Box Group, Icehouse Ventures [^1][^2][^3] |
 
-The round valued Antioch at $60M post-money [^1].
+The Seed round valued Antioch at $60M post-money [^1]. The August 2026 close brought total reported equity funding to $44M since founding [^4].
 
 ## What Investors Say
 
@@ -68,3 +69,4 @@ The round valued Antioch at $60M post-money [^1].
 [^1]: TechCrunch, "This simulation startup wants to be the Cursor for physical AI," April 16, 2026. https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/
 [^2]: SiliconANGLE, "Antioch prepares to accelerate simulated testing for autonomous robots after raising $8.5M," April 16, 2026. https://siliconangle.com/2026/04/16/antioch-prepares-accelerate-simulated-testing-autonomous-robots-raising-8-5m/
 [^3]: Axios Pro Rata, April 21, 2026 edition. https://www.axios.com/newsletters/axios-pro-rata
+[^4]: "The AlleyWatch Startup Daily Funding Report: 8/4/2026," AlleyWatch, August 4, 2026. Accessed August 2026. https://www.alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-4-2026/

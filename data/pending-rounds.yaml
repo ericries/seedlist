@@ -20,86 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: HappyRobot raised $150M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: HappyRobot
-  parsed_amount: $150M
-  parsed_round: Series C
-  status: pending
-- title: Oligo Security raised $60M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: Oligo Security
-  parsed_amount: $60M
-  parsed_round: null
-  status: pending
-- title: Convex raised $57M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: Convex
-  parsed_amount: $57M
-  parsed_round: Series B
-  status: pending
-- title: QuantHealth raised $45M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: QuantHealth
-  parsed_amount: $45M
-  parsed_round: Series B
-  status: pending
-- title: Ore Energy raised $43M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: Ore Energy
-  parsed_amount: $43M
-  parsed_round: Series A
-  status: pending
-- title: Yellow Card raised $40M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: Yellow Card
-  parsed_amount: $40M
-  parsed_round: null
-  status: pending
-- title: Dash Bio raised $30M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: Dash Bio
-  parsed_amount: $30M
-  parsed_round: Series A
-  status: pending
-- title: Delightree raised $25M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: Delightree
-  parsed_amount: $25M
-  parsed_round: null
-  status: pending
-- title: LemonEdge raised $21M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: LemonEdge
-  parsed_amount: $21M
-  parsed_round: Series A
-  status: pending
-- title: InvestiFi raised $20M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: InvestiFi
-  parsed_amount: $20M
-  parsed_round: null
-  status: pending
 - title: Fusemachines Closes Up to $10.66 Million Investment at $4.20 per Share for
     Growth Capital from Existing Investor Meteora Capital
   url: https://www.globenewswire.com/news-release/2026/08/04/3338101/0/en/Fusemachines-Closes-Up-to-10-66-Million-Investment-at-4-20-per-Share-for-Growth-Capital-from-Existing-Investor-Meteora-Capital.html
@@ -207,15 +127,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-08-04'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Ore Energy raises €37.3 million to scale iron-air batteries that store renewable
-    power for up to 100 hours
-  url: https://www.eu-startups.com/2026/08/ore-energy-raises-e37-3-million-to-scale-iron-air-batteries-that-store-renewable-power-for-up-to-100-hours/
-  source: eu-startups
-  date_found: '2026-08-04'
-  parsed_company: Ore Energy
   parsed_amount: null
   parsed_round: null
   status: pending
