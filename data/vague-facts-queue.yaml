@@ -5653,7 +5653,9 @@ vague_facts:
   line: '| Physical Intelligence | Series B | 2025 | AI/Robotics | Active | [^27] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  resolution_note: 'Fact-spec sweep 2026-08-05: Row already tightened in prior sweep to ''Series B (USD 600M led by CapitalG at USD 5.6B post-money; Lux Capital, Bond, Redpoint, Sequoia Capital participated; Jeff Bezos, OpenAI, Thrive Capital, T. Rowe Price returned) | 2025-11-20'' with 3 primary sources ([^pi-b1] The Robot Report, [^pi-b2] VCNewsDaily, [^pi-b3] AI Deals Index). Re-verified 2025-11-20 announcement date via 3 additional independent sources: Bloomberg ''Robotics Startup Physical Intelligence Valued at $5.6 Billion in New Funding'' (2025-11-20), Dataconomy (2025-11-21), and Sacra company profile. All confirm CapitalG-led, USD 600M, USD 5.6B post-money. Queue entry was stale — no profile change needed; marking resolved.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: OMNIA Partners
@@ -5663,7 +5665,9 @@ vague_facts:
   line: '| OMNIA Partners | Growth | 2025 | Enterprise/Procurement | Active | [^28] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  resolution_note: 'Fact-spec sweep 2026-08-05: (1) Confirmed 2025-09-15 announcement date via 3 primary sources: PR Newswire company release [^28] (2025-09-15), Pulse 2.0 trade press [^omnia-g1] (2025-09-15), FinSMEs [^omnia-g2] (2025-09-15). (2) CORRECTED FALSE LEAD ATTRIBUTION — row previously stated ''CapitalG-led strategic investment'' but PR Newswire primary source explicitly says CapitalG ''joins some of the worlds largest private investment funds already invested in OMNIA Partners,'' indicating CapitalG is a NEW PARTICIPANT, not the lead. Updated row description to remove ''-led'' phrasing; retained undisclosed amount, Alex Nichols quote attribution, and stated deployment purposes. No new footnotes added; existing 3 sources sufficient.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Base Power
@@ -5713,7 +5717,9 @@ vague_facts:
   line: '| Nibol | Growth | 2026 | Enterprise/SaaS | Active | [^27] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  resolution_note: 'Fact-spec sweep 2026-08-05: CORRECTED FALSE ATTRIBUTION and REMOVED Nibol row from CapitalG portfolio. Nibol (Milan-based workplace management SaaS founded 2018 by Riccardo Suardi) was ACQUIRED by TeamSystem on 2026-03-11, not funded by CapitalG. TeamSystem is a CapitalG portfolio company; the Tracxn aggregator [^27] appears to have propagated indirect ownership as a direct investment. Verified via 3 primary sources: (1) Nibol''s own announcement ''Nibol joins the TeamSystem group'' dated ''MILAN - 11/03/2026'' https://www.nibol.com/en/nibol-joins-teamsystem, (2) ictbusiness.it acquisition coverage (2026-03-12) https://www.ictbusiness.it/news/tecnologie-per-le-risorse-umane-e-lufficio-teamsystem-compra-nibol.aspx, (3) BeBeez International weekly roundup (2026-03-17) https://bebeez.eu/2026/03/17/italys-angels-incubators-and-venture-capital-weekly-roundup-news-from-cleafy-united-ventures-ecapital-technologies-fund-nibal-teamsystem-hellmannfriedmann-hg-capital-s/. Prior Nibol backer was CDP Venture Capital SGR ("Rilancio" fund, April 2023 investment), whose stake TeamSystem acquired in this deal. Row removed rather than corrected because Nibol is not a CapitalG portfolio company by any reasonable definition.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: nEye.ai
