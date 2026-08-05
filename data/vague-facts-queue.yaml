@@ -107,7 +107,8 @@ vague_facts:
   line: '| Lambda | Seed (Fund I first check at ~USD 4M valuation, per 1517; follow-on tranche ~USD 4M closed April 2019 at ~USD '
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER FALSE POSITIVE on column 4 (Source column, contains footnote refs, not data). Row itself had two vagueness issues that WERE resolved: (1) tightened year from "~2017–2019" to specific 2019-04-28 close date for the 1517-named tranche; (2) clarified that pre-2019 Series Seed tranches (three on 2017-12-20 per amch.ltd Form D data) were undisclosed-investor and cannot be attributed to 1517, while the USD 3.96M / USD 23M post-money 2019-04-28 tranche is the first one where 1517 is named. Verified via 3 aggregator sources: NEW amch.ltd [^96], NEW Clay.com [^97], and existing Wellfound/Businesswire [^27]/[^28]. No contemporaneous primary press exists for the April 2019 seed — no TechCrunch/Businesswire coverage found; this matches the same "quiet raise" pattern as other early 1517 checks. 2 new footnotes added.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Loom (as OpenTest)
@@ -117,7 +118,8 @@ vague_facts:
   line: '| Loom (as OpenTest) | Pre-Seed (USD 600K; 1517 Fund led; Elementum Ventures + angels Andy Chou + Eric Wittman) | 2016-1'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER FALSE POSITIVE on column 4 (Source column). Attempted to sharpen the 2016-10 date to a YYYY-MM-DD but no primary source discloses a specific day for the Loom/OpenTest USD 600K pre-seed. Sources checked: Forbes Steven Li 2022 profile [^50] confirms Product Hunt launch on 2016-06-30 as Openvid and states "the traction helped the company raise its first venture check from 1517 Fund" but gives no date; BestPitchDeck OpenTest deck [^51] gives amount + investors but no date; vip.graphics deck writeup, Loom own case study, Tella blog, and TechCrunch 2019 Series A coverage all lack a specific day. The 2016-10 estimate ultimately traces to Wellfound aggregator [^28] which gives only month precision. Row annotated to make aggregator sourcing explicit and note the June 30 2016 Product Hunt launch as the reference anchor. No profile change beyond adding this context — no new footnotes added because no new primary source surfaced.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Deepgram
@@ -127,7 +129,8 @@ vague_facts:
   line: '| Deepgram | Pre-Seed / early check (1517 "first check" per Strachman on First Funders podcast; formal $1.8M seed on 201'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: SCANNER FALSE POSITIVE on column 4 (Source column). Tightened Deepgram row: (1) removed the ambiguous "before 2016-09-27" year qualifier and set the date to 2016-09-27 (matches TechCrunch [^53] and Tracxn [^98]); (2) reworked stage description to reflect that Tracxn labels it "Series A" while contemporaneous TechCrunch coverage calls it a seed round; (3) noted that Odin Times [^4] describes 1517''s Deepgram investment as a "small 2017 round" — a discrepancy that may indicate a separate follow-on tranche not corroborated in primary sources. Sources verified: TechCrunch (2016-09-27, only names Y Combinator + Metamorphic Ventures/Compound as leads — 1517 NOT named), Tracxn (aggregator, names 1517 Fund + Zillionize + Pegasus Tech Ventures + Ludlow Ventures as participants), Odin Times/Dan Gray blog (says 2017). Aggregator-only attribution pattern matches FOSSA/Fountain/Deepgram cases previously flagged. 1 new footnote added ([^98]).'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Figma
