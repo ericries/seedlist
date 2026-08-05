@@ -113,6 +113,7 @@ The firm describes its approach as seeking "generational founders" and building 
 | Personio | Series E | 2022-06-22 | HR Software | Active | [^20][^27] |
 | Motive (KeepTruckin) | Series D | 2019 | Fleet Management | Active | [^21] |
 | Sierra | Growth | 2025-09-04 | AI | Active | [^22] |
+| Decade | Seed (co-lead, $85M) | 2026-08-04 | Fintech / AI wealth advisory (Brazil) | Active | [^29] |
 
 *This table represents approximately 18% of Greenoaks' 114 total investments [^8]. Investment years are based on primary press sources where available.*
 
@@ -160,3 +161,4 @@ No independently sourced founder testimonials found. Greenoaks maintains a minim
 [^26]: TechCrunch, "Discount grocery startup Misfits Market raises $200M," April 21, 2021. https://techcrunch.com/2021/04/21/misfits-market-series-c/
 [^27]: Milbank, "Milbank Advises Personio on Its $200M Second Series E Financing Round Led by Greenoaks," June 22, 2022. https://www.milbank.com/en/news/milbank-advises-personio-on-its-dollar-200-million-dollar-second-series-e-financing-round-led-by-greenoaks.html
 [^28]: TechCrunch, "Discord confirms raising $100M at a valuation of $7B," December 17, 2020. https://techcrunch.com/2020/12/17/filing-discord-is-raising-up-to-140m-at-a-valuation-of-up-to-7b/
+[^29]: BusinessWire, "Decade Raises $85M in Latin America's Largest Seed Round to Create a New Generation of Millionaires with AI," August 4, 2026. Accessed August 2026. https://www.businesswire.com/news/home/20260804082552/en/Decade-Raises-$85M-in-Latin-Americas-Largest-Seed-Round-to-Create-a-New-Generation-of-Millionaires-with-AI — Decade (São Paulo, Brazil) emerged from stealth on Aug 4, 2026 with $85M seed, largest ever for a LatAm startup. Backed by Greenoaks, Benchmark, Diffusion. Founded by former Nubank CTO Vitor Olivier and Hyperplane founder Felipe Meneses.

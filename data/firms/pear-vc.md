@@ -149,6 +149,7 @@ Based on 17 verified portfolio investments, the following patterns emerge. Note:
 | Series | Pre-Seed | 2026 | AI / Social | Active | [^26] |
 | Convey | Series A (participated, $38M; a16z led; Khosla Ventures also participated) | 2026-06-17 | AI / Enterprise SaaS / Automation | Active | [^convey1][^convey2][^convey3] |
 | Tomo | Seed (participated, $5M; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | Active | [^tomo1][^tomo2][^tomo3] |
+| Maximum | Seed (participated, $30M; CRV led) | 2026-08-03 | Fintech / AI-native banking core / Miami | Active | [^max1][^max2][^max3] |
 
 Note: This table represents approximately 7% of 260+ claimed investments. All dates have been verified against Crunchbase funding round records and primary announcement sources, except Listen Labs (~2022) which remains approximate.
 
@@ -211,3 +212,6 @@ William Ross, CEO of Federato, has stated: "The extended Pear team has always be
 [^tomo2]: Pulse 2.0, "Tomo Raises $5 Million Seed Round Led By Bain Capital Ventures," June 2026. Accessed June 2026. https://pulse2.com/tomo-raises-5-million-seed-round-led-by-bain-capital-ventures/ — Independent confirmation of Pear VC's participation in Tomo's seed.
 
 [^tomo3]: TheSaaSNews, "Tomo Raises $5M Seed," June 2026. Accessed June 2026. https://www.thesaasnews.com/news/tomo-raises-5m-seed/ — Third independent confirmation: "led by Bain Capital Ventures (BCV), with participation from Accel, Align Fund, Basis Set, Conviction, Pear VC, and various angel investors."
+[^max1]: GlobeNewswire, "Maximum Raises $30 Million to Build the AI-Native Operating System for Banks," August 3, 2026. Accessed August 2026. https://www.globenewswire.com/news-release/2026/08/03/3337824/0/en/maximum-raises-30-million-to-build-the-ai-native-operating-system-for-banks.html — Primary company press wire confirming Pear VC participated in Maximum's $30M seed led by CRV.
+[^max2]: Refresh Miami, "Maximum lands $30M on the thesis that banks need more than an AI upgrade," August 4, 2026. Accessed August 2026. https://refreshmiami.com/news/maximum-lands-30m-on-the-thesis-that-banks-need-more-than-an-ai-upgrade/ — Independent Miami-tech-press confirmation of Pear VC as participant.
+[^max3]: FinTech Global, "Maximum lands $30m to rip out banks' legacy cores," August 4, 2026. Accessed August 2026. https://fintech.global/2026/08/04/maximum-lands-30m-to-rip-out-banks-legacy-cores/ — Third independent fintech-press confirmation of participants (Pear VC, Restive, Plug and Play Ventures, Anthemis).

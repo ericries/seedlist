@@ -129,6 +129,7 @@ Note: Some companies span multiple categories; percentages total over 100% due t
 | Material Hybrid Manufacturing | Seed (co-led, $7.1M) | 2026-01-12 | 3D-printed batteries/energy | [^16] |
 | Flock AI (follow-on) | Seed (participated, $6M) | 2026-02-05 | AI visual commerce/fashion | [^15] |
 | Havoc | Series A | 2026-05-12 | Maritime/multi-domain autonomy/defense | [^21] |
+| Claryx | Pre-seed (led, $3.5M) | 2026-08-04 | Genomic intelligence / hospital infection prevention | [^27] |
 
 Note: Investments dated 2010-2018 were made through Paige Craig's personal angel portfolio and Arena Ventures (Fund I Archimedes), which preceded the formal Outlander VC entity. Dates for the angel-era investments (2010-2015) are verified via Signal NFX investor profile [^4], which records specific start months for Wish (Oct 2010), Twitter (Sep 2010), AngelList (Jan 2011), Postmates (Nov 2011), Gusto (Apr 2012), and Lyft (Oct 2012). Remaining "~" dates for angel-era investments are approximate based on company founding years; Craig's angel investing period ran from 2008 to 2015 [^4]. This table represents a subset of the firm's 150+ claimed investments.
 
@@ -200,3 +201,4 @@ No additional independently sourced founder testimonials found beyond firm-hoste
 [^25]: MarineLink, "Havocai Raises $11 Million In Seed Funding," September 20, 2024. Accessed July 2026. https://www.marinelink.com/news/havocai-raises-million-seed-funding-517298 — Independent maritime industry press confirms 2024-09-20 $11M seed round with Scout Ventures leading, Trousdale Ventures co-leading, and Outlander VC among participants.
 
 [^26]: The SaaS News, "HavocAI Raises $11 Million in Seed Round," September 2024. Accessed July 2026. https://www.thesaasnews.com/news/havocai-raises-11-million-in-seed-round/ — Third independent confirmation of $11M seed round with Scout Ventures as lead, Trousdale Ventures as co-lead, and Outlander VC and The Veteran Fund among additional participating investors.
+[^27]: BusinessWire, "Claryx Raises $3.5 Million Led by Outlander to Stop Hospital Outbreaks Before They Start," August 4, 2026. Accessed August 2026. https://www.businesswire.com/news/home/20260804346238/en/Claryx-Raises-$3.5-Million-Led-by-Outlander-to-Stop-Hospital-Outbreaks-Before-They-Start — Claryx (New York, NY) closed $3.5M pre-seed on August 4, 2026, led by Outlander VC (AJ Smith, Partner). Co-investors: Company Ventures, Boost VC, Neon, Mana Ventures, 640 Oxford, Precursor.

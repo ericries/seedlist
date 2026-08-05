@@ -214,8 +214,9 @@ The following table includes 45 Benchmark investments verified through press cov
 | Sierra | Series E (participated; co-led Seed 2024-02-13) | 2026-05-04 | AI / Customer Service | Private [^38][^39][^40] |
 | Decart | Growth (participated, $300M at $4B val; Radical Ventures led) | 2026-05-18 | AI / World Models / Inference | Private [^44] |
 | Ollama | Series A (led, $15M, 2024); Series B participated ($65M, Theory Ventures led) | 2026-07-09 | AI / Developer Tools / Open Source Models | Private [^50][^51] |
+| Decade | Seed (co-lead, $85M) | 2026-08-04 | Fintech / AI wealth advisory (Brazil) | Private [^57] |
 
-*Note: This table includes 45 companies out of ~305 total portfolio companies (~15%). Years marked with "~" indicate approximate dates based on founding year proxies or estimated investment timing where exact dates are not publicly confirmed. Stages listed reflect Benchmark's initial or most significant investment round.*
+*Note: This table includes 46 companies out of ~305 total portfolio companies (~15%). Years marked with "~" indicate approximate dates based on founding year proxies or estimated investment timing where exact dates are not publicly confirmed. Stages listed reflect Benchmark's initial or most significant investment round.*
 
 ## In Their Own Words
 
@@ -379,3 +380,4 @@ The following table includes 45 Benchmark investments verified through press cov
 [^55]: Pulse2, "Eigen: $15 Million Seed Funding Raised To Build 'Mutual Friend' AI Platform," April 2026. Accessed July 2026. https://pulse2.com/eigen-15-million-seed-funding-raised-to-build-mutual-friend-ai-platform/ — Independent tech press confirmation of Eigen's $15M seed round led by Benchmark, with angels Ben Silbermann, Gustav Söderström, Akshay Khotari, David Singleton, and Will Wu participating.
 
 [^56]: FinSMEs, "Eigen Raises $15M in Seed Funding," April 2026. Accessed July 2026. https://www.finsmes.com/2026/04/eigen-raises-15m-in-seed-funding.html — Third independent industry-press confirmation of Eigen's $15M seed round led by Benchmark on April 16, 2026.
+[^57]: BusinessWire, "Decade Raises $85M in Latin America's Largest Seed Round to Create a New Generation of Millionaires with AI," August 4, 2026. Accessed August 2026. https://www.businesswire.com/news/home/20260804082552/en/Decade-Raises-$85M-in-Latin-Americas-Largest-Seed-Round-to-Create-a-New-Generation-of-Millionaires-with-AI — Decade (São Paulo, Brazil) emerged from stealth Aug 4, 2026 with $85M seed. Backers: Greenoaks, Benchmark, Diffusion. Founded by former Nubank CTO Vitor Olivier and Hyperplane founder Felipe Meneses.

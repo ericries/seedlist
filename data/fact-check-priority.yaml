@@ -4268,3 +4268,23 @@ priority:
   type: firm
   reason: "sole investor Fusemachines convertible + warrants (2026-08-04), up to $10.66M"
   added: 2026-08-04
+- slug: outlander-vc
+  type: firm
+  reason: "led Claryx pre-seed (2026-08-04), $3.5M"
+  added: 2026-08-05
+- slug: greenoaks
+  type: firm
+  reason: "co-led Decade seed (2026-08-04), $85M (LatAm's largest ever seed)"
+  added: 2026-08-05
+- slug: benchmark
+  type: firm
+  reason: "co-led Decade seed (2026-08-04), $85M"
+  added: 2026-08-05
+- slug: crv
+  type: firm
+  reason: "led Maximum seed (2026-08-03), $30M"
+  added: 2026-08-05
+- slug: pear-vc
+  type: firm
+  reason: "participated Maximum seed (2026-08-03), $30M"
+  added: 2026-08-05

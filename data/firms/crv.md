@@ -166,6 +166,7 @@ This table represents 40 verified investments out of approximately 397 total com
 | Omen AI | Series A (participated, $31M) | 2026-06-29 | AI / Data Centers / Infrastructure / Sensors | Active [^omen1][^omen2] |
 | Oak | Seed (co-led with Accel and Greylock Partners, $60M) | 2026-07-15 | Cybersecurity / Identity / AI-Native IAM | Active [^oak1][^oak2][^oak3] |
 | Hadrius | Series A + Seed (led, $27M combined; $22M Series A) | 2026-07-14 | Fintech / Compliance / Agentic AI | Active [^had1][^had2][^had3] |
+| Maximum | Seed (led, $30M; Caitlin Bolnick Rellas GP) | 2026-08-03 | Fintech / AI-native banking core / Miami | Active [^max1][^max2][^max3] |
 
 ## In Their Own Words
 
@@ -272,3 +273,6 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 [^had2]: "Announcing our $22 Million Series A," Hadrius blog, July 2026. Accessed July 19, 2026. https://www.hadrius.com/insights/series-a — Company blog post confirming Series A size and CRV lead.
 
 [^had3]: "Hadrius Raises $27M in Seed and Series A Funding," FinSMEs, July 2026. Accessed July 19, 2026. https://www.finsmes.com/2026/07/hadrius-raises-27m-in-funding.html — Independent trade-press confirmation.
+[^max1]: GlobeNewswire, "Maximum Raises $30 Million to Build the AI-Native Operating System for Banks," August 3, 2026. Accessed August 2026. https://www.globenewswire.com/news-release/2026/08/03/3337824/0/en/maximum-raises-30-million-to-build-the-ai-native-operating-system-for-banks.html — Primary company press wire confirming CRV led the $30M seed. Caitlin Bolnick Rellas (CRV General Partner) quoted. Co-investors: Pear VC, Restive, Plug and Play Ventures, Anthemis. Founder: Randy Fernando (prior founder of Vault, sold to Acorns 2017; and Power, sold to Marqeta 2023).
+[^max2]: Refresh Miami, "Maximum lands $30M on the thesis that banks need more than an AI upgrade," August 4, 2026. Accessed August 2026. https://refreshmiami.com/news/maximum-lands-30m-on-the-thesis-that-banks-need-more-than-an-ai-upgrade/ — Independent Miami tech-press confirmation of CRV lead.
+[^max3]: FinTech Global, "Maximum lands $30m to rip out banks' legacy cores," August 4, 2026. Accessed August 2026. https://fintech.global/2026/08/04/maximum-lands-30m-to-rip-out-banks-legacy-cores/ — Third independent fintech-press confirmation of round size, lead, and participants.
