@@ -1,0 +1,113 @@
+- name: "S3 Ventures"
+  type: firm
+  priority: normal
+  discovered_from: buzz-solutions
+  source: "led Buzz Solutions $20M Series A (2026-08-04)"
+- name: "GoPoint Ventures"
+  type: firm
+  priority: low
+  discovered_from: buzz-solutions
+  source: "participant Buzz Solutions Series A (2026-08-04)"
+- name: "HearstLab"
+  type: firm
+  priority: normal
+  discovered_from: buzz-solutions
+  source: "existing investor Buzz Solutions Series A (2026-08-04)"
+- name: "Blackhorn Ventures"
+  type: firm
+  priority: normal
+  discovered_from: buzz-solutions
+  source: "existing investor Buzz Solutions Series A (2026-08-04)"
+- name: "Kaitlyn Albertoli"
+  type: individual
+  firm: "Buzz Solutions"
+  priority: low
+  discovered_from: buzz-solutions
+  source: "CEO & Co-Founder Buzz Solutions"
+- name: "Oak HC/FT"
+  type: firm
+  priority: high
+  discovered_from: dash-bio
+  source: "led Dash Bio $30M Series A (2026-08-03)"
+- name: "Andy Smith"
+  type: individual
+  firm: "Oak HC/FT"
+  priority: high
+  discovered_from: dash-bio
+  source: "Partner Oak HC/FT, led Dash Bio Series A"
+- name: "Freestyle Capital"
+  type: firm
+  priority: normal
+  discovered_from: dash-bio
+  source: "participant Dash Bio Series A (2026-08-03)"
+- name: "Swift Ventures"
+  type: firm
+  priority: normal
+  discovered_from: dash-bio
+  source: "participant Dash Bio Series A (2026-08-03)"
+- name: "NDS Corporation"
+  type: firm
+  priority: low
+  discovered_from: inocras
+  source: "strategic investor Inocras Series B-3 (2026-08-03)"
+- name: "AimedBio"
+  type: firm
+  priority: low
+  discovered_from: inocras
+  source: "strategic investor Inocras Series B-3 (2026-08-03)"
+- name: "IMM Investment"
+  type: firm
+  priority: normal
+  discovered_from: inocras
+  source: "participant Inocras Series B-3 (2026-08-03)"
+- name: "SC Ventures"
+  type: firm
+  priority: high
+  discovered_from: yellow-card
+  source: "participated Yellow Card $40M strategic round (2026-08-04)"
+- name: "Sony Innovation Fund"
+  type: firm
+  priority: high
+  discovered_from: yellow-card
+  source: "participated Yellow Card $40M strategic round (2026-08-04)"
+- name: "Polychain Capital"
+  type: firm
+  priority: high
+  discovered_from: yellow-card
+  source: "returning investor Yellow Card strategic round (2026-08-04)"
+- name: "Blockchain Capital"
+  type: firm
+  priority: high
+  discovered_from: yellow-card
+  source: "returning investor Yellow Card strategic round (2026-08-04)"
+- name: "Lachy Groom"
+  type: individual
+  firm: "LGF"
+  priority: high
+  discovered_from: ambrook
+  source: "led Ambrook $30M Series B (2026-08-04); solo GP LGF"
+- name: "Thomson Reuters Ventures"
+  type: firm
+  priority: normal
+  discovered_from: ambrook
+  source: "participant Ambrook Series B (2026-08-04)"
+- name: "Thrive Capital"
+  type: firm
+  priority: high
+  discovered_from: ambrook
+  source: "participant Ambrook Series B (2026-08-04)"
+- name: "Field Ventures"
+  type: firm
+  priority: normal
+  discovered_from: ambrook
+  source: "participant Ambrook Series B (2026-08-04)"
+- name: "Cameron Ventures"
+  type: firm
+  priority: low
+  discovered_from: ambrook
+  source: "participant Ambrook Series B (2026-08-04)"
+- name: "Meteora Capital"
+  type: firm
+  priority: normal
+  discovered_from: fusemachines
+  source: "sole investor Fusemachines convertible + warrants (2026-08-04)"
