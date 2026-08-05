@@ -5501,7 +5501,8 @@ vague_facts:
   line: '| Whatnot | Series C | 2021 | Consumer/Marketplace | Active | [^42] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: tightened Whatnot row from year-only 2021 to specific 2021-09-16 with $150M amount, $1.5B valuation, and full syndicate detail: Andreessen Horowitz led as returning investor, YC Continuity returning, CapitalG new investor (with CapitalG partner Laela Sturdy quote on Whatnot cracking online shopping), plus angel investors Andre Iguodala, Logan Paul, Gokul Rajaram, and Nilam Ganenthiran. Verified via 3 primary sources: existing PR Newswire press release [^42] (2021-09-16), NEW Fenwick & West transaction counsel confirmation [^whatnot-c1] (2021-09-16), and NEW SGB Online independent trade press [^whatnot-c2] (2021-09-20). 2 new footnotes added.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Armis
@@ -5601,7 +5602,8 @@ vague_facts:
   line: '| Canva | Growth | ~2024 | Enterprise/Design | Active | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: tightened Canva row from ~2024 to 2025 per CapitalG own portfolio page (capitalg.com/portfolio/canva) which lists Initial Investment 2025. CapitalG NOT named in primary press for Canva 2025 rounds (Aug 2025 $42B secondary tender led by Fidelity + JPMorgan; earlier $32B / $26B 2024 secondaries) — Fortune 2025-08-22, Bloomberg 2025-08-20, Canva newsroom, and SiliconANGLE do not include CapitalG in the disclosed investor set. Attribution rests on CapitalG self-listing + Fortune (2026-01-21) coverage of GP Jill Chase — flagged as aggregator/self-attributed pattern in row annotation. 1 new footnote added ([^canva-cg1]).'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Rippling
@@ -5611,7 +5613,8 @@ vague_facts:
   line: '| Rippling | Growth | ~2024 | Enterprise/HR | Active | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: tightened Rippling row from ~2024 to 2023 per CapitalG own portfolio page (capitalg.com/portfolio/rippling) which lists Initial Investment 2023. CapitalG NOT named in primary press for any Rippling round: Series C (2021-10-21 Sequoia-led), Series D (2022-05-11 Kleiner + Bedrock co-led), Series E (2023-03-17 Greenoaks-led $500M at $11.25B), Series F (2024-04-22 Coatue-led $200M at $13.5B), Series G (2025-05-09 Founders Fund-led $450M at $16.8B). Verified via Rippling.com blog, TechCrunch (Alex Wilhelm 2023-03-17), Built In SF, Crunchbase News (Chris Metinko), and PYMNTS — none include CapitalG in the direct investor set. Attribution rests on CapitalG self-listing + Fortune (2026-01-21) coverage of GP Jill Chase — flagged as aggregator/self-attributed pattern typical of secondary-market or non-lead participation. 1 new footnote added ([^rippling-cg1]).'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: LangChain
