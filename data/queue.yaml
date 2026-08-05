@@ -26548,7 +26548,7 @@ queue:
 - name: Jelle Prins
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   discovered_from: new-dawn-bio
   source: Angel investor in New Dawn Bio pre-seed (2026-06-04)
@@ -30525,7 +30525,7 @@ queue:
 - name: Amit Lakhotia
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Park+
   discovered_from: mohit-gupta
@@ -45710,3 +45710,200 @@ queue:
   added: '2026-03-17'
   firm: Fair Warning
   discovered_from: fair-warning
+- name: Operator Exchange
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Operator Exchange
+  discovered_from: jelle-prins
+- name: Micha Hernandez van Leuffen
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Operator Exchange / Fiberplane
+  discovered_from: jelle-prins
+- name: Robert Gaal
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Operator Exchange / Quest
+  discovered_from: jelle-prins
+- name: Stef van Grieken
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Operator Exchange / Cradle
+  discovered_from: jelle-prins
+- name: Sarah Drinkwater
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Atomico Angel Programme
+  discovered_from: jelle-prins
+- name: Omid Ashtari
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Independent (ex-Citymapper)
+  discovered_from: jelle-prins
+- name: Kirsten Connell
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Octopus Ventures
+  discovered_from: jelle-prins
+- name: Dorothy Chou
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: DeepMind
+  discovered_from: jelle-prins
+- name: Odin
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jelle-prins
+- name: Cradle.bio
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jelle-prins
+- name: Walter Living
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jelle-prins
+- name: Adelee
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: jelle-prins
+- name: Hitesh Gupta
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Park+
+  discovered_from: amit-lakhotia
+- name: Jitendra Gupta
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Jupiter Money
+  discovered_from: amit-lakhotia
+- name: Aakrit Vaish
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Haptik
+  discovered_from: amit-lakhotia
+- name: Nitin Gupta
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Uni Cards
+  discovered_from: amit-lakhotia
+- name: Rohit Kapoor
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Oyo
+  discovered_from: amit-lakhotia
+- name: Maninder Gulati
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Oyo
+  discovered_from: amit-lakhotia
+- name: Ashish Goel
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: UrbanLadder
+  discovered_from: amit-lakhotia
+- name: Antler India
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Antler India
+  discovered_from: amit-lakhotia
+- name: BEENEXT
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: BEENEXT
+  discovered_from: amit-lakhotia
+- name: Fixcraft
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amit-lakhotia
+- name: GoKwik
+  type: startup
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amit-lakhotia
+- name: Onsurity
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amit-lakhotia
+- name: HealthCRED
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amit-lakhotia
+- name: CheQ Digital
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amit-lakhotia
+- name: Electrade
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amit-lakhotia
+- name: Arise
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amit-lakhotia
+- name: Daalchini Technologies
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amit-lakhotia
+- name: Trell
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: amit-lakhotia

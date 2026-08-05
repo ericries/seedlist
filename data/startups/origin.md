@@ -8,6 +8,9 @@ investors:
 - round: Early
   slug: alex-davidov
   year: 2023
+- round: early
+  slug: jelle-prins
+  year: 2020
 last_researched: 2026-03-30
 location: San Francisco, CA
 name: Origin

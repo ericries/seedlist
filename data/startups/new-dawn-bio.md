@@ -1,19 +1,27 @@
 ---
-name: "New Dawn Bio"
-slug: new-dawn-bio
-type: startup
-website: "https://newdawnbio.com"
-location: "Wageningen, Netherlands"
 founded: 2023
-status_company: active
-sector: [biotech, climate-tech, materials, deeptech]
-stage_latest: "Pre-Seed"
-total_raised: "€2.1M"
 founders:
-  - name: "New Dawn Bio team"
-    role: "Founders"
-status: published
+- name: New Dawn Bio team
+  role: Founders
+investors:
+- round: Pre-Seed (€2.1M)
+  slug: jelle-prins
+  year: 2026
 last_researched: 2026-06-04
+location: Wageningen, Netherlands
+name: New Dawn Bio
+sector:
+- biotech
+- climate-tech
+- materials
+- deeptech
+slug: new-dawn-bio
+stage_latest: Pre-Seed
+status: published
+status_company: active
+total_raised: €2.1M
+type: startup
+website: https://newdawnbio.com
 ---
 
 ## About
