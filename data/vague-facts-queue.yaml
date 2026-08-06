@@ -136070,7 +136070,9 @@ vague_facts:
   line: '| Hippo | Series D | 2019 | Insurance | [^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  resolution_notes: 'Fact-spec sweep 2026-08-05: CORRECTED wrong round attribution. Ramtin Naimi/Abstract Ventures did NOT participate in Hippo Series D (2019-07-24, $100M led by Bond). He participated in Hippo Series A (2016-12-14, $14M led by Horizons Ventures) as an angel investor. Verified via 3 primary/independent sources: PR Newswire company press release [^hippo-a1] (2016-12-14, explicitly names Naimi as GP Abstract Ventures among FinTech angels), FF News trade press [^hippo-a2] (confirms Naimi/Abstract as angel participant in Series A), and Crowdfund Insider [^hippo-a3] (2019-07-24 Series D press with full participant list showing Abstract Ventures NOT named). Prior Tracxn [^16] attribution was aggregator-only and inconsistent with primary contemporaneous press. 3 new footnotes added.'
 - profile: investors/ramtin-naimi
   profile_name: Ramtin Naimi
   company: Alloy
@@ -136092,7 +136094,9 @@ vague_facts:
   line: '| Popshop Live | Seed | 2020 | Consumer / E-commerce | [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-05
+  resolution_notes: 'Fact-spec sweep 2026-08-05: tightened row from year-only 2020 to 2020-07-08 with full detail — USD 3M seed co-led by Floodgate + Abstract Ventures; participants Long Journey Ventures, Cyan Banister, Scott Banister, Shrug Capital, Backend Capital, Halogen Ventures (plus LA investors Watertower Ventures + AET Fund per dot.LA). Brought total raised to USD 4.5M. Verified via 3 independent primary sources: Crunchbase News [^popshop-1] (2020-07-08), dot.LA [^popshop-2] (2020-07-08), BeautyMatter [^popshop-3]. Also updated Connections section to reflect co-lead status. 3 new footnotes added.'
 - profile: investors/ramtin-naimi
   profile_name: Ramtin Naimi
   company: WorkOS
@@ -136134,7 +136138,9 @@ vague_facts:
   line: '| Clay | Seed | ~2021 | Enterprise / GTM | [^10] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-08-05
+  resolution_notes: 'Fact-spec sweep 2026-08-05: Abstract Ventures/Ramtin Naimi NOT named in Tracxn primary investor lists for any Clay (clay.com AI GTM, founded 2017 by Kareem Amin) funding round — Seed 2021-08-30 $8M (Forerunner led; Slow Ventures + Notation), Seed 2022 $2.5M (BoxGroup + First Round), Series A 2023 $13.5M (Sequoia), Series B 2024-06-27 $46M (Meritech), Series B extension 2024-11-15 $40M, Series C 2025-06-12 $100M (CapitalG). Attribution appears only on Abstract''s own portfolio page (labeled "creative tools for growth teams", matching clay.com) and Venture Capital Archive — classic aggregator/self-portfolio-only pattern matching Solana, Polymarket, xAI, Voiceflow cases previously flagged. Row annotated with disclosure and enumeration of all Clay primary rounds confirming Abstract''s absence. 2 new footnotes added ([^clay-tracxn], [^clay-abstract]).'
 - profile: investors/ramtin-naimi
   profile_name: Ramtin Naimi
   company: LangChain
