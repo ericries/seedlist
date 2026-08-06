@@ -51,7 +51,9 @@ WindBorne Systems is a Redwood Shores, California-based weather-intelligence com
 
 ## What Investors Say
 
-No independently sourced investor commentary beyond press-release attribution at this time.
+"Better atmospheric data could transform weather forecasting. As AI models become increasingly capable, the quality of underlying observations becomes even more important." — Sven Strohband, Partner & Managing Director, Khosla Ventures [^4][^5]
+
+"Climate change is increasing the cost of uncertainty. More accurate weather intelligence can help communities, businesses and governments make smarter decisions." — Saloni Multani, Co-Head of Venture and Growth, Galvanize [^4]
 
 ## What Founders Say
 
@@ -62,3 +64,5 @@ No independently sourced investor commentary beyond press-release attribution at
 [^1]: TechCrunch, "AI makes weather prediction better. Can WindBorne make it lucrative?" August 5, 2026. Accessed August 2026. https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/
 [^2]: WindBorne Systems, company website, accessed August 2026. https://windbornesystems.com
 [^3]: Forbes Technology Council profile, "John Dean | CEO and Cofounder - WindBorne Systems," accessed August 2026. https://councils.forbes.com/profile/John-Dean-CEO-Cofounder-WindBorne-Systems/b7c08e0a-847f-4200-883e-da0916d35883
+[^4]: "WindBorne Systems Raises $37 Million Series B To Expand Atmospheric Sensing Network And AI Weather Models," Pulse 2.0, August 5, 2026. Accessed August 2026. https://pulse2.com/windborne-systems-raises-37-million-series-b-to-expand-atmospheric-sensing-network-and-ai-weather-models/ — Independent trade press confirmation of $37M Series B co-led by Khosla Ventures and Galvanize with Translink Capital and Lux Capital participating. Sources verbatim investor quotes from Sven Strohband (Khosla) and Saloni Multani (Galvanize).
+[^5]: "WindBorne Systems Raises $37 Million to Build the World's Weather Intelligence Infrastructure," Las Vegas Sun (BusinessWire syndication), August 5, 2026. Accessed August 2026. https://lasvegassun.com/news/2026/aug/05/windborne-systems-raises-37-million-to-build-the-w/ — Third independent primary confirmation identifying Sven Strohband as Partner & Managing Director at Khosla Ventures.

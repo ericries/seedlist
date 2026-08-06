@@ -84,6 +84,7 @@ Based on 30 verified investments and exits from publicly available sources, Muck
 | Linq | Seed | 2026 | Hardware | Active | [^6] |
 | Freestyle | Seed | 2026 | Consumer Products | Active | [^6] |
 | CopySight | Seed (led, $3M) | 2026-07-30 | AI / IP Governance / Legal Tech | Active | [^38] [^39] |
+| Bidbus | Series A (participant, $15M; Ibex Investors led; Data Point Capital, FJ Labs, Motley Fool Ventures, Walter Ventures also participated) | 2026-07-31 | Automotive / Marketplace / Consumer | Active | [^bidbus1] [^bidbus2] [^bidbus3] |
 | Papaya | Seed | ~2017 | Fintech / Payments | Active (raised $50M Series B, Dec 2021) | [^32] |
 | NEXT Trucking | Seed | ~2017 | Logistics / Marketplace | Active (raised $97M total) | [^33] |
 
@@ -167,3 +168,7 @@ Note: The above founder quotes are sourced from the Mucker Capital website and m
 [^38]: VC News Daily, "CopySight Raises $3 Million Seed Funding," July 30, 2026. Accessed July 2026. https://vcnewsdaily.com/copysight/venture-capital-funding/nrcfyjdjly
 [^39]: Pulse 2.0, "CopySight Raises $3 Million To Build The Intellectual Property Clearance Layer For Generative AI," July 30, 2026. Accessed July 2026. https://pulse2.com/copysight-raises-3-million-to-build-the-intellectual-property-clearance-layer-for-generative-ai/
 [^40]: ExecutiveBiz, "Ask Sage Completes Series A Funding Round," December 11, 2024. Accessed July 2026. https://executivebiz.com/2024/12/ask-sage-series-a-investment-generative-ai/ — Confirms Ask Sage Series A of $17M announced December 11, 2024, led by Sapphire Ventures with Mucker Capital participating. Company founded 2023, so any prior seed round would have been 2023-2024, not 2020 as previously stated in this table.
+
+[^bidbus1]: PR Newswire, "Bidbus Raises $15 Million Series A to Scale Its Live Dealer Auction Marketplace," July 31, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/bidbus-raises-15-million-series-a-to-scale-its-live-dealer-auction-marketplace-302839840.html — Company's primary announcement confirming $15M Series A on 2026-07-31 led by Ibex Investors with Mucker Capital, Data Point Capital, FJ Labs, Motley Fool Ventures, Walter Ventures, and existing investors participating.
+[^bidbus2]: Yahoo Finance (PR Newswire syndication), "Bidbus Raises $15 Million Series A to Scale Its Live Dealer Auction Marketplace," July 31, 2026. Accessed August 2026. https://finance.yahoo.com/small-business/articles/bidbus-raises-15-million-series-172200500.html — Third-party primary syndication confirming same participant list.
+[^bidbus3]: The Auto Channel (PR Newswire syndication), "Bidbus Raises $15 Million Series A to Scale Its Live Dealer Auction Marketplace," July 31, 2026. Accessed August 2026. https://www.theautochannel.com/news/2026/07/31/1698617-bidbus-raises-15-million-series-to-scale-its-live-dealer.html — Independent industry-press confirmation of Mucker Capital participation.

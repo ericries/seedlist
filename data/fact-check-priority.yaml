@@ -1,20 +1,28 @@
 priority:
 - slug: khosla-ventures
   type: firm
-  reason: "appeared in WindBorne Systems Series B (2026-08-05), $37M co-lead"
+  reason: 'Fact-spec sweep 2026-08-06: Verified Khosla Ventures co-led (with Galvanize) WindBorne Systems'' $37M Series B on 2026-08-05 at $250M post-money valuation, with Translink Capital and Lux Capital participating. Sources: TechCrunch [^wb1] (2026-08-05), Pulse 2.0 [^wb2], and Las Vegas Sun/BusinessWire [^wb3]. Replaced vague "Windborne | Early | ~2019 (founded)" row with fully specific entry naming Sven Strohband (Partner & MD) as Khosla''s deal lead. 3 new footnotes added.'
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-08-06
 - slug: lux-capital
   type: firm
-  reason: "appeared in WindBorne Systems Series B (2026-08-05), $37M co-investor"
+  reason: 'Fact-spec sweep 2026-08-06: Verified Lux Capital participated in WindBorne Systems'' $37M Series B on 2026-08-05 (Khosla Ventures + Galvanize co-led; Translink Capital also participated; $250M post-money). Sources: TechCrunch [^wb1] (2026-08-05), Pulse 2.0 [^wb2], Las Vegas Sun/BusinessWire [^wb3]. Added new WindBorne Systems row to Portfolio table. 3 new footnotes added.'
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-08-06
 - slug: mucker-capital
   type: firm
-  reason: "appeared in Bidbus Series A (2026-07-31), $15M co-investor"
+  reason: 'Fact-spec sweep 2026-08-06: Verified Mucker Capital participated in Bidbus $15M Series A on 2026-07-31 (Ibex Investors led; Data Point Capital, FJ Labs, Motley Fool Ventures, Walter Ventures also participated). Sources: PR Newswire [^bidbus1] (2026-07-31), Yahoo Finance/PR Newswire syndication [^bidbus2], and The Auto Channel [^bidbus3]. Added new Bidbus row to Portfolio table. 3 new footnotes added.'
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-08-06
 - slug: fj-labs
   type: firm
-  reason: "appeared in Bidbus Series A (2026-07-31), $15M co-investor"
+  reason: 'Fact-spec sweep 2026-08-06: Verified FJ Labs participated in Bidbus $15M Series A on 2026-07-31 (Ibex Investors led; Mucker Capital, Data Point Capital, Motley Fool Ventures, Walter Ventures also participated). Sources: PR Newswire [^bid-fj1] (2026-07-31), Yahoo Finance/PR Newswire syndication [^bid-fj2], The Auto Channel [^bid-fj3]. Added new Bidbus row to Portfolio table. 3 new footnotes added. Also added third citation [^3] to bidbus.md startup profile.'
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-08-06
 - slug: aleph
   type: firm
   reason: "appeared in Inevitable AI Group Pre-Seed (2026-08-06), $6M"
