@@ -46336,3 +46336,47 @@ queue:
   added: '2026-03-17'
   firm: Expedition Growth Capital
   discovered_from: omilia
+- name: Galvanize Climate Solutions
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: windborne-systems
+- name: Translink Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: windborne-systems
+- name: Ibex Investors
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bidbus
+- name: Walter Ventures
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: bidbus
+- name: UMass Memorial Health
+  type: firm
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: wellinks
+- name: John Dean
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: WindBorne Systems
+  discovered_from: windborne-systems
+- name: Duke Yan
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Bidbus
+  discovered_from: bidbus

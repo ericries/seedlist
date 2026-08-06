@@ -1,4 +1,20 @@
 priority:
+- slug: khosla-ventures
+  type: firm
+  reason: "appeared in WindBorne Systems Series B (2026-08-05), $37M co-lead"
+  added: 2026-08-06
+- slug: lux-capital
+  type: firm
+  reason: "appeared in WindBorne Systems Series B (2026-08-05), $37M co-investor"
+  added: 2026-08-06
+- slug: mucker-capital
+  type: firm
+  reason: "appeared in Bidbus Series A (2026-07-31), $15M co-investor"
+  added: 2026-08-06
+- slug: fj-labs
+  type: firm
+  reason: "appeared in Bidbus Series A (2026-07-31), $15M co-investor"
+  added: 2026-08-06
 - slug: aleph
   type: firm
   reason: "appeared in Inevitable AI Group Pre-Seed (2026-08-06), $6M"
