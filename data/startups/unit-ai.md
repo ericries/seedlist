@@ -25,7 +25,7 @@ UNIT AI is a San Francisco-based physical AI company building modular, AI-powere
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-29 | Growth | $12M | Prologis Ventures, Dynamo Ventures, Ground Up Ventures | eGateway Capital, Recursive Ventures, Think + Ventures, ZEP Fund, Crosscourt [^1][^2] |
+| 2026-07-29 | Growth | $12M | Prologis Ventures, Dynamo Ventures, Ground Up Ventures | eGateway Capital, Recursive Ventures, Think + Ventures, ZEP Fund, Crosscourt [^1][^2][^3] |
 
 The round stage was not disclosed in the announcement [^1]. UNIT AI will use the capital to accelerate commercial deployments across North America [^1].
 
@@ -41,3 +41,4 @@ No independently sourced founder testimonials found beyond the funding announcem
 
 [^1]: "UNIT AI Raises $12 Million to Scale AI-Powered Ecommerce Fulfillment and Returns as Customer Demand Accelerates," PR Newswire, July 29, 2026. Accessed July 2026. https://www.prnewswire.com/news-releases/unit-ai-raises-12-million-to-scale-ai-powered-ecommerce-fulfillment-and-returns-as-customer-demand-accelerates-302837792.html
 [^2]: "Venture Capital & Startup Funding Roundup, July 29, 2026: Battery Ventures, Elephant, Thomson Reuters Ventures, Y Combinator & More," Tech Startups, July 29, 2026. Accessed July 2026. https://techstartups.com/2026/07/29/venture-capital-startup-funding-roundup-july-29-2026-more/
+[^3]: "UNIT AI Raises $12 Million to Scale AI-Powered Ecommerce Fulfillment and Returns as Customer Demand Accelerates," RoboticsTomorrow, July 29, 2026. Accessed August 2026. https://www.roboticstomorrow.com/news/2026/07/29/unit-ai-raises-12-million-to-scale-ai-powered-ecommerce-fulfillment-and-returns-as-customer-demand-accelerates/26892/

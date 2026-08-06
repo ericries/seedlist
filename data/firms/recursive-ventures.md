@@ -104,6 +104,7 @@ Novick has also articulated a view that AI infrastructure is overvalued, stating
 | IntuigenceAI | Pre-Seed | 2025 | AI | Active [^17] |
 | Clarity | Seed | 2024 | AI | Active [^17] |
 | Akash Network | Seed | ~2020 | Infrastructure | Active [^7] |
+| UNIT AI | Growth (participant; $12M co-led by Prologis Ventures, Dynamo Ventures, Ground Up Ventures) | 2026-07-29 | Warehouse automation / Physical AI | Active [^18][^19][^20] |
 
 *Note: Years marked with "~" are estimated based on company founding dates or contextual information; exact investment dates could not be independently confirmed for all entries. This table represents approximately 25% of Recursive Ventures' claimed 100+ investments.*
 
@@ -150,3 +151,6 @@ No independently sourced founder testimonials found. Former colleagues have prai
 [^15]: TechCrunch, "Harness acquires Armory," January 2024. https://techcrunch.com/2024/01/11/harness-acquires-the-assets-of-continuous-deployment-service-armory/
 [^16]: Crunchbase, "Recursive Ventures — Company Profile & Funding," accessed March 2026. https://www.crunchbase.com/organization/recursive-ventures
 [^17]: Tracxn, "Recursive Ventures — 2025 Investor Profile, Portfolio, Team & Investment Trends," accessed March 2026. https://tracxn.com/d/venture-capital/recursive-ventures/__KPrY8eGwbfTcYChhdxZsxISW3lnWs5t9Ennam3S-OA4
+[^18]: "UNIT AI Raises $12 Million to Scale AI-Powered Ecommerce Fulfillment and Returns as Customer Demand Accelerates," PR Newswire, July 29, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/unit-ai-raises-12-million-to-scale-ai-powered-ecommerce-fulfillment-and-returns-as-customer-demand-accelerates-302837792.html
+[^19]: "UNIT AI Raises $12 Million to Scale AI-Powered Ecommerce Fulfillment and Returns as Customer Demand Accelerates," RoboticsTomorrow, July 29, 2026. Accessed August 2026. https://www.roboticstomorrow.com/news/2026/07/29/unit-ai-raises-12-million-to-scale-ai-powered-ecommerce-fulfillment-and-returns-as-customer-demand-accelerates/26892/
+[^20]: "UNIT AI Raises $12M in Funding," FinSMEs, July 2026. Accessed August 2026. https://www.finsmes.com/2026/07/unit-ai-raises-12m-in-funding.html

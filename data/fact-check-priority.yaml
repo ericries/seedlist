@@ -25,14 +25,14 @@ priority:
   resolved: 2026-08-06
 - slug: aleph
   type: firm
-  reason: "appeared in Inevitable AI Group Pre-Seed (2026-08-06), $6M"
+  reason: appeared in Inevitable AI Group Pre-Seed (2026-08-06), $6M
   added: 2026-08-06
   status: resolved
   resolved: 2026-08-06
   note: 'Fact-spec sweep 2026-08-06: Verified Aleph solely led Inevitable AI Group (IAIG) $6M pre-seed on 2026-08-06 via 3 primary sources — Tech Startups [^38], GlobeNewswire syndication via Manila Times [^39], and EU-Startups [^40]. Enriched aleph.md portfolio row with founders (Nimrod Lehavi, Ofer Bar-Or), sole-lead confirmation, and Eden Shochat as the investing partner. Added 2 new footnotes ([^39], [^40]) to aleph.md, bringing the row to 3 citations. Also updated inevitable-ai-group.md startup profile from 2 to 4 sources, added Ofer Bar-Or founder quote, and expanded citations on Shochat/Lehavi quotes. Round is $6M USD (~€5.2M per EU-Startups) — currency preserved as $ per primary US press release.'
 - slug: eden-shochat
   type: investor
-  reason: "quoted in Inevitable AI Group Pre-Seed (2026-08-06), $6M Aleph-led"
+  reason: quoted in Inevitable AI Group Pre-Seed (2026-08-06), $6M Aleph-led
   added: 2026-08-06
   status: resolved
   resolved: 2026-08-06
@@ -57,14 +57,14 @@ priority:
   resolved: 2026-08-06
 - slug: a-star-capital
   type: firm
-  reason: "participated in Intelligence/Design Arena seed (2026-08-03)"
+  reason: participated in Intelligence/Design Arena seed (2026-08-03)
   added: 2026-08-06
   status: resolved
   resolved: 2026-08-06
   resolution_note: 'Fact-spec sweep 2026-08-06: Verified A* participated in Intelligence (Design Arena) $7.9M seed on 2026-08-03 (Index Ventures led) via 3 primary sources: TechCrunch [^intel1] (2026-08-03), FinSMEs [^intel2], and AI Weekly [^intel3]. Also cross-validated via founder Grace Li first-person X announcement (https://x.com/grx_xce/status/2084361692792934488) which explicitly names @A_StarVC. Added third citation [^intel3] to a-star-capital.md portfolio row for Intelligence/Design Arena. Existing row on line 98 already showed correct sector, stage, date, amount, and Index lead. No other changes needed — a-star-capital.md is fully sourced.'
 - slug: hustle-fund
   type: firm
-  reason: "participated in Orbital Sentry pre-seed (2026-08-03)"
+  reason: participated in Orbital Sentry pre-seed (2026-08-03)
   added: 2026-08-06
   status: resolved
   resolved: 2026-08-06
@@ -3869,7 +3869,7 @@ priority:
   reason: participated in Buildforce Series A (2026-07-28), $10M via Rise of the Rest Seed Fund
   added: 2026-07-29
   status: resolved
-  note: "Verified via PR Newswire, S3 Ventures (co-investor), and Yahoo Finance: 2026-07-28, $10M Series A led by Saepio Capital. Added Buildforce row to Revolution portfolio; added S3 source and Moody Heard founder quote to Buildforce profile."
+  note: 'Verified via PR Newswire, S3 Ventures (co-investor), and Yahoo Finance: 2026-07-28, $10M Series A led by Saepio Capital. Added Buildforce row to Revolution portfolio; added S3 source and Moody Heard founder quote to Buildforce profile.'
   resolved: 2026-08-06
 - slug: nea
   type: firm
@@ -3931,7 +3931,7 @@ priority:
   reason: participated in Terminal Series A (2026-07-29) and Centralize Series A (2026-07-29)
   added: 2026-07-30
   status: resolved
-  note: "Verified Terminal via PR Newswire primary release + FreightWaves + FinSMEs: 2026-07-29, $20M Series A led by Battery Ventures. Verified Centralize via BusinessWire primary release + Tech Startups + SalesTechStar: 2026-07-29, $19M Series A led by NEA. Added both rows to YC portfolio with dedicated footnotes."
+  note: 'Verified Terminal via PR Newswire primary release + FreightWaves + FinSMEs: 2026-07-29, $20M Series A led by Battery Ventures. Verified Centralize via BusinessWire primary release + Tech Startups + SalesTechStar: 2026-07-29, $19M Series A led by NEA. Added both rows to YC portfolio with dedicated footnotes.'
   resolved: 2026-08-06
 - slug: nea
   type: firm
@@ -3952,7 +3952,7 @@ priority:
   reason: participated in Foundational Industries Seed (2026-07-30)
   added: 2026-07-30
   status: resolved
-  note: "Verified via Fortune (Jason Del Rey) + The Robotics Media + Dealroom: 2026-07-30, $25M seed co-led by BoxGroup and Zigg Ventures with Abstract Ventures, Adverb Ventures, Buckley Ventures, Offline Ventures participating. Added Foundational Industries row to Abstract Ventures portfolio."
+  note: 'Verified via Fortune (Jason Del Rey) + The Robotics Media + Dealroom: 2026-07-30, $25M seed co-led by BoxGroup and Zigg Ventures with Abstract Ventures, Adverb Ventures, Buckley Ventures, Offline Ventures participating. Added Foundational Industries row to Abstract Ventures portfolio.'
   resolved: 2026-08-06
 - slug: buckley-ventures
   type: firm
@@ -3965,6 +3965,9 @@ priority:
   type: firm
   reason: participated in UNIT AI round (2026-07-29), USD 12M
   added: 2026-07-30
+  status: resolved
+  resolved: &id005 2026-08-06
+  resolution_note: 'Fact-spec sweep 2026-08-06: Verified Recursive Ventures participated in UNIT AI $12M round on 2026-07-29 (co-led by Prologis Ventures, Dynamo Ventures, and Ground Up Ventures) alongside eGateway Capital, Think + Ventures, ZEP Fund, and Crosscourt. Sources: PR Newswire company press release [^18] (2026-07-29), RoboticsTomorrow [^19] (2026-07-29), and FinSMEs [^20] (July 2026). Added new UNIT AI portfolio row to recursive-ventures.md and added third citation [^3] (RoboticsTomorrow) to unit-ai.md startup profile. 3 new footnotes added to firm profile.'
 - slug: insight-partners
   type: firm
   reason: led Inforcer Series C (2026-07-30), $50M
@@ -3976,6 +3979,9 @@ priority:
   type: firm
   reason: participated in Harmony Seed (2026-07-28), $34M
   added: 2026-07-30
+  status: resolved
+  resolved: *id005
+  resolution_note: 'Fact-spec sweep 2026-08-06: Verified Operator Partners participated in Harmony $34M seed on 2026-07-28 (Lightspeed Venture Partners led; Hitachi Ventures, Fin Capital, Mercer Ventures also participated; angels Assaf Rappaport of Wiz and Ofir Ehrlich of Eon.io). Portfolio row already existed with 2 citations; added third citation [^harm3] (ACCESS Newswire official press release) strengthening the row to 3 primary sources.'
 - slug: assaf-rappaport
   type: investor
   reason: angel in Harmony Seed (2026-07-28), $34M
@@ -3994,14 +4000,23 @@ priority:
   type: firm
   reason: participated in Dili Series A (2026-07-30)
   added: 2026-07-30
+  status: resolved
+  resolved: *id005
+  resolution_note: 'Fact-spec sweep 2026-08-06: Verified Y Combinator (via CEO Garry Tan) participated in Dili Series A $15M on 2026-07-30 led by Khosla Ventures alongside Allianz, Rebel Fund, and Brick and Mortar Ventures/Darren Bechtel. Dili is S23 batch, $21.7M total raised incl. prior $6.7M seed. Sources: TechCrunch [^dili1] (2026-07-30, Marina Temkin), GlobeNewswire company press release [^dili2] (2026-07-30), and Crypto Briefing [^dili3] (2026-07-30). Added new Dili portfolio row with 3 citations.'
 - slug: rebel-fund
   type: firm
   reason: participated in Dili Series A (2026-07-30)
   added: 2026-07-30
+  status: resolved
+  resolved: *id005
+  resolution_note: 'Fact-spec sweep 2026-08-06: Verified Rebel Fund participated in Dili Series A $15M on 2026-07-30 led by Khosla Ventures. Sources: TechCrunch [^7] (2026-07-30), GlobeNewswire company press release [^8] (2026-07-30), and Crypto Briefing [^9] (2026-07-30). Added new Dili portfolio row with 3 primary citations.'
 - slug: garry-tan
   type: investor
   reason: participated in Dili Series A (2026-07-30) via Y Combinator
   added: 2026-07-30
+  status: resolved
+  resolved: *id005
+  resolution_note: 'Fact-spec sweep 2026-08-06: Verified Garry Tan (Y Combinator CEO) participated as angel in Dili Series A $15M on 2026-07-30 led by Khosla Ventures. Sources: TechCrunch [^29] (2026-07-30), GlobeNewswire company press release [^30] (2026-07-30), and Crypto Briefing [^31] (2026-07-30). Added new Dili portfolio row and updated last_verified_investment from Monogram (2026-07-07) to Dili (2026-07-30).'
 - slug: general-catalyst
   type: firm
   reason: participated in Intropy Seed (2026-07-30), EUR 9.5M
@@ -4302,187 +4317,187 @@ priority:
   added: 2026-08-04
 - slug: insight-partners
   type: firm
-  reason: "led Convex Series B (2026-08-04), $57M"
+  reason: led Convex Series B (2026-08-04), $57M
   added: 2026-08-04
 - slug: andreessen-horowitz
   type: firm
-  reason: "participated in Convex Series B (2026-08-04) $57M and HappyRobot Series C (2026-08-04) $150M"
+  reason: participated in Convex Series B (2026-08-04) $57M and HappyRobot Series C (2026-08-04) $150M
   added: 2026-08-04
 - slug: spark-capital
   type: firm
-  reason: "participated in Convex Series B (2026-08-04), $57M"
+  reason: participated in Convex Series B (2026-08-04), $57M
   added: 2026-08-04
 - slug: y-combinator
   type: firm
-  reason: "participated in HappyRobot Series C (2026-08-04), $150M"
+  reason: participated in HappyRobot Series C (2026-08-04), $150M
   added: 2026-08-04
 - slug: koch-disruptive-technologies
   type: firm
-  reason: "participated in HappyRobot Series C (2026-08-04), $150M"
+  reason: participated in HappyRobot Series C (2026-08-04), $150M
   added: 2026-08-04
 - slug: pitango-venture-capital
   type: firm
-  reason: "participated in QuantHealth Series B (2026-08-04), $45M via Pitango HealthTech"
+  reason: participated in QuantHealth Series B (2026-08-04), $45M via Pitango HealthTech
   added: 2026-08-04
 - slug: accel
   type: firm
-  reason: "participated in Delightree $25M growth round (2026-08-04) led by Innovius"
+  reason: participated in Delightree $25M growth round (2026-08-04) led by Innovius
   added: 2026-08-04
 - slug: kima-ventures
   type: firm
-  reason: "led Shiplog pre-seed (2026-08-04)"
+  reason: led Shiplog pre-seed (2026-08-04)
   added: 2026-08-04
 - slug: s3-ventures
   type: firm
-  reason: "led Buzz Solutions Series A (2026-08-04), $20M"
+  reason: led Buzz Solutions Series A (2026-08-04), $20M
   added: 2026-08-04
 - slug: oak-hc-ft
   type: firm
-  reason: "led Dash Bio Series A (2026-08-03), $30M"
+  reason: led Dash Bio Series A (2026-08-03), $30M
   added: 2026-08-04
 - slug: polychain-capital
   type: firm
-  reason: "participated Yellow Card strategic round (2026-08-04), $40M"
+  reason: participated Yellow Card strategic round (2026-08-04), $40M
   added: 2026-08-04
 - slug: blockchain-capital
   type: firm
-  reason: "participated Yellow Card strategic round (2026-08-04), $40M"
+  reason: participated Yellow Card strategic round (2026-08-04), $40M
   added: 2026-08-04
 - slug: sc-ventures
   type: firm
-  reason: "participated Yellow Card strategic round (2026-08-04), $40M (first bank CVC)"
+  reason: participated Yellow Card strategic round (2026-08-04), $40M (first bank CVC)
   added: 2026-08-04
 - slug: sony-innovation-fund
   type: firm
-  reason: "participated Yellow Card strategic round (2026-08-04), $40M"
+  reason: participated Yellow Card strategic round (2026-08-04), $40M
   added: 2026-08-04
 - slug: lachy-groom
   type: individual
-  reason: "led Ambrook Series B (2026-08-04), $30M"
+  reason: led Ambrook Series B (2026-08-04), $30M
   added: 2026-08-04
 - slug: thrive-capital
   type: firm
-  reason: "participated Ambrook Series B (2026-08-04), $30M"
+  reason: participated Ambrook Series B (2026-08-04), $30M
   added: 2026-08-04
 - slug: meteora-capital
   type: firm
-  reason: "sole investor Fusemachines convertible + warrants (2026-08-04), up to $10.66M. Fact-spec sweep 2026-08-05: no meteora-capital firm profile exists yet (queue item, not fact issue). Verified Fusemachines row via 4 primary sources: StockTitan, GlobeNewswire, Manila Times syndication, AND SEC EDGAR Form 8-K exhibit 99.1 (primary regulatory filing). Added SEC 8-K as [^4] to fusemachines.md. Confirmed: $2.5M convertible note + 2.05M warrants at $4.20/share = up to $10.66M total, no reset/ratchet provisions, from existing investor Meteora Capital."
+  reason: 'sole investor Fusemachines convertible + warrants (2026-08-04), up to $10.66M. Fact-spec sweep 2026-08-05: no meteora-capital firm profile exists yet (queue item, not fact issue). Verified Fusemachines row via 4 primary sources: StockTitan, GlobeNewswire, Manila Times syndication, AND SEC EDGAR Form 8-K exhibit 99.1 (primary regulatory filing). Added SEC 8-K as [^4] to fusemachines.md. Confirmed: $2.5M convertible note + 2.05M warrants at $4.20/share = up to $10.66M total, no reset/ratchet provisions, from existing investor Meteora Capital.'
   added: 2026-08-04
   status: resolved
   resolved: 2026-08-05
 - slug: outlander-vc
   type: firm
-  reason: "led Claryx pre-seed (2026-08-04), $3.5M. Fact-spec sweep 2026-08-05: Claryx row on outlander-vc.md verified via 3+ independent primary sources — Claryx company blog [^1], Tech Startups [^2], BusinessWire [^3/^27]. Additional independent confirmations: GenomeWeb, Pulse 2.0, FinSMEs, BetaKit, Las Vegas Sun. AJ Smith quote 'Every building people share is a transmission system running invisibly, and Claryx has made it possible to finally see it' matches verbatim across sources. Confirmed: $3.5M pre-seed, 2026-08-04, Outlander VC lead (AJ Smith), co-investors Company Ventures, Boost VC, Neon, Mana Ventures, 640 Oxford, Precursor. No changes needed."
+  reason: 'led Claryx pre-seed (2026-08-04), $3.5M. Fact-spec sweep 2026-08-05: Claryx row on outlander-vc.md verified via 3+ independent primary sources — Claryx company blog [^1], Tech Startups [^2], BusinessWire [^3/^27]. Additional independent confirmations: GenomeWeb, Pulse 2.0, FinSMEs, BetaKit, Las Vegas Sun. AJ Smith quote ''Every building people share is a transmission system running invisibly, and Claryx has made it possible to finally see it'' matches verbatim across sources. Confirmed: $3.5M pre-seed, 2026-08-04, Outlander VC lead (AJ Smith), co-investors Company Ventures, Boost VC, Neon, Mana Ventures, 640 Oxford, Precursor. No changes needed.'
   added: 2026-08-05
   status: resolved
   resolved: 2026-08-05
 - slug: greenoaks
   type: firm
-  reason: "co-led Decade seed (2026-08-04), $85M (LatAm's largest ever seed). Fact-spec sweep 2026-08-05: Decade row on greenoaks.md verified via 3+ independent primary sources — BusinessWire [^29], LatamList, The Next Web (all in decade.md sources). Additional independent confirmations: Morningstar syndication, Yahoo Finance, FinSMEs, BriefGlance, Financial IT. Neil Mehta quote 'Investing never got its turn. Now it will.' matches verbatim across sources. Confirmed: $85M seed, 2026-08-04, backers Greenoaks + Benchmark + Diffusion, founders Vitor Olivier (ex-Nubank CTO) and Felipe Meneses (Hyperplane founder, Brazil's first Thiel Fellow). No changes needed."
+  reason: 'co-led Decade seed (2026-08-04), $85M (LatAm''s largest ever seed). Fact-spec sweep 2026-08-05: Decade row on greenoaks.md verified via 3+ independent primary sources — BusinessWire [^29], LatamList, The Next Web (all in decade.md sources). Additional independent confirmations: Morningstar syndication, Yahoo Finance, FinSMEs, BriefGlance, Financial IT. Neil Mehta quote ''Investing never got its turn. Now it will.'' matches verbatim across sources. Confirmed: $85M seed, 2026-08-04, backers Greenoaks + Benchmark + Diffusion, founders Vitor Olivier (ex-Nubank CTO) and Felipe Meneses (Hyperplane founder, Brazil''s first Thiel Fellow). No changes needed.'
   added: 2026-08-05
   status: resolved
   resolved: 2026-08-05
 - slug: benchmark
   type: firm
-  reason: "co-led Decade seed (2026-08-04), $85M"
+  reason: co-led Decade seed (2026-08-04), $85M
   added: 2026-08-05
 - slug: crv
   type: firm
-  reason: "led Maximum seed (2026-08-03), $30M"
+  reason: led Maximum seed (2026-08-03), $30M
   added: 2026-08-05
 - slug: pear-vc
   type: firm
-  reason: "participated Maximum seed (2026-08-03), $30M"
+  reason: participated Maximum seed (2026-08-03), $30M
   added: 2026-08-05
 - slug: y-combinator
   type: firm
-  reason: "backed Isengard Industries Summer 2026 batch (2026-08-04, seed)"
+  reason: backed Isengard Industries Summer 2026 batch (2026-08-04, seed)
   added: 2026-08-05
 - slug: thrive-capital
   type: firm
-  reason: "participated in Ambrook Series B (2026-08-04), $30M led by Lachy Groom"
+  reason: participated in Ambrook Series B (2026-08-04), $30M led by Lachy Groom
   added: 2026-08-05
 - slug: lachy-groom
   type: investor
-  reason: "led Ambrook Series B (2026-08-04), $30M"
+  reason: led Ambrook Series B (2026-08-04), $30M
   added: 2026-08-05
 - slug: pitango-venture-capital
   type: firm
-  reason: "participated (Pitango HealthTech) in QuantHealth Series B (2026-08-04), $45M"
+  reason: participated (Pitango HealthTech) in QuantHealth Series B (2026-08-04), $45M
   added: 2026-08-05
 - slug: venrock
   type: firm
-  reason: "participated (Venrock Healthcare Capital Partners) in Expedition Therapeutics Series B (2026-08-05), $115M"
+  reason: participated (Venrock Healthcare Capital Partners) in Expedition Therapeutics Series B (2026-08-05), $115M
   added: 2026-08-05
 - slug: andreessen-horowitz
   type: firm
-  reason: "co-led Volta Infra Seed+Series A (2026-08-04), $300M at $2.4B valuation"
+  reason: co-led Volta Infra Seed+Series A (2026-08-04), $300M at $2.4B valuation
   added: 2026-08-05
 - slug: altimeter-capital
   type: firm
-  reason: "co-led Volta Infra Seed+Series A (2026-08-04), $300M at $2.4B valuation"
+  reason: co-led Volta Infra Seed+Series A (2026-08-04), $300M at $2.4B valuation
   added: 2026-08-05
 - slug: kunal-shah
   type: investor
-  reason: "participated in Vaaree Series A (2026-08-04), Rs 65 Cr"
+  reason: participated in Vaaree Series A (2026-08-04), Rs 65 Cr
   added: 2026-08-05
 - slug: madrona-venture-group
   type: firm
-  reason: "led Faye Series C (2026-08-05)"
+  reason: led Faye Series C (2026-08-05)
   added: 2026-08-05
 - slug: general-catalyst
   type: firm
-  reason: "co-investor in Aurelius Systems Series A (2026-08-05)"
+  reason: co-investor in Aurelius Systems Series A (2026-08-05)
   added: 2026-08-05
 - slug: outlander-vc
   type: firm
-  reason: "co-investor in Aurelius Systems Series A (2026-08-05)"
+  reason: co-investor in Aurelius Systems Series A (2026-08-05)
   added: 2026-08-05
 - slug: accel
   type: firm
-  reason: "co-investor in Sapiom Series A (2026-08-05)"
+  reason: co-investor in Sapiom Series A (2026-08-05)
   added: 2026-08-05
 - slug: menlo-ventures
   type: firm
-  reason: "co-investor in Sapiom Series A (2026-08-05)"
+  reason: co-investor in Sapiom Series A (2026-08-05)
   added: 2026-08-05
 - slug: array-ventures
   type: firm
-  reason: "co-investor in Sapiom Series A (2026-08-05)"
+  reason: co-investor in Sapiom Series A (2026-08-05)
   added: 2026-08-05
 - slug: chargepoly
   type: startup
-  reason: "new profile — Meridiam-led €23M growth round (2026-07-27)"
+  reason: new profile — Meridiam-led €23M growth round (2026-07-27)
   added: 2026-08-06
 - slug: gokul-rajaram
   type: investor
-  reason: "appeared in Naïve Series A (2026-08-06), $28.5M"
+  reason: appeared in Naïve Series A (2026-08-06), $28.5M
   added: 2026-08-06
 - slug: y-combinator
   type: firm
-  reason: "appeared in Naïve Series A (2026-08-06), $28.5M"
+  reason: appeared in Naïve Series A (2026-08-06), $28.5M
   added: 2026-08-06
 - slug: yashish-dahiya
   type: investor
-  reason: "appeared in Hulp Seed (2026-08-05), $2.6M"
+  reason: appeared in Hulp Seed (2026-08-05), $2.6M
   added: 2026-08-06
 - slug: valor-equity-partners
   type: firm
-  reason: "co-led Hadrian Series D extension $1.37B at $7.87B valuation (2026-08-06)"
+  reason: co-led Hadrian Series D extension $1.37B at $7.87B valuation (2026-08-06)
   added: 2026-08-06
 - slug: altimeter-capital
   type: firm
-  reason: "participated in Hadrian Series D extension $1.37B (2026-08-06)"
+  reason: participated in Hadrian Series D extension $1.37B (2026-08-06)
   added: 2026-08-06
 - slug: andreessen-horowitz
   type: firm
-  reason: "participated in Hadrian Series D extension $1.37B (2026-08-06)"
+  reason: participated in Hadrian Series D extension $1.37B (2026-08-06)
   added: 2026-08-06
 - slug: founders-fund
   type: firm
-  reason: "participated in Hadrian Series D extension $1.37B (2026-08-06)"
+  reason: participated in Hadrian Series D extension $1.37B (2026-08-06)
   added: 2026-08-06
 - slug: lux-capital
   type: firm
-  reason: "participated in Hadrian Series D extension $1.37B (2026-08-06)"
+  reason: participated in Hadrian Series D extension $1.37B (2026-08-06)
   added: 2026-08-06

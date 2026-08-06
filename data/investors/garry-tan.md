@@ -3,9 +3,9 @@ check_size: $125K-$500K
 firm: y-combinator
 last_researched: 2026-03-17
 last_verified_investment:
-  company: Monogram
-  date: 2026-07-07
-  round: Seed
+  company: Dili
+  date: 2026-07-30
+  round: Series A (angel, alongside Y Combinator)
 location: San Francisco, CA
 name: Garry Tan
 role: President & CEO
@@ -140,6 +140,7 @@ The following table represents 25 verified investments. This is a partial sample
 | NewLimit | 2025-05-06 | Series B (angel) | [^22] |
 | Entire | 2026 | Seed | [^14] |
 | Monogram | 2026-07-07 | Seed (angel) | [^26][^27][^28] |
+| Dili | 2026-07-30 | Series A (angel, alongside Y Combinator) | [^29][^30][^31] |
 
 *Note: Years marked with "~" indicate approximate dates based on fund timing or company founding year, not confirmed investment dates. Many entries fall within Initialized Capital Fund I (2012) or Fund II (2013), and exact investment dates within those fund periods could not be independently confirmed.*
 
@@ -251,3 +252,9 @@ The following table represents 25 verified investments. This is a partial sample
 [^27]: RuntimeWire, "Eren Bali's Monogram raises $40M for a visual AI app," July 2026. Accessed July 2026. https://runtimewire.com/article/eren-bali-monogram-40m-seed-visual-ai-interface — Independent press pickup confirming the $40M seed round announcement.
 
 [^28]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement of the round.
+
+[^29]: Marina Temkin, "Dili raises $15 million to bring AI compliance to the infrastructure boom," TechCrunch, July 30, 2026. Accessed August 2026. https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/ — Primary tier-1 tech press confirming Garry Tan (Y Combinator CEO) participated in Dili's $15M Series A led by Khosla Ventures on July 30, 2026 alongside Allianz, Rebel Fund, and Brick and Mortar Ventures.
+
+[^30]: "Dili Raises $21.7m from Khosla Ventures to Bring AI-Powered Assurance to America's Infrastructure Boom," GlobeNewswire (Dili company press release), July 30, 2026. Accessed August 2026. https://www.globenewswire.com/news-release/2026/07/30/3336377/0/en/dili-raises-21-7m-from-khosla-ventures-to-bring-ai-powered-assurance-to-america-s-infrastructure-boom.html — Primary company press release naming Garry Tan as a participant.
+
+[^31]: "AI startup Dili raises $15 million to automate AI compliance for infrastructure projects," Crypto Briefing, July 30, 2026. Accessed August 2026. https://cryptobriefing.com/dili-raises-22m-ai-compliance-infrastructure/ — Third independent tech press source confirming Garry Tan participation.

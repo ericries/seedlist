@@ -65,6 +65,7 @@ Founder Jared Heyman has described the underlying approach as follows (Medium, J
 | Writesonic | Seed | ~2021 | — | AI writing | Active [^5] |
 | EARTH AI | Seed | ~2022 | — | Mining / AI | Active [^5] |
 | Didit | Seed extension ($6M; YC + Rebel + others) | 2026-05-26 | — | Fintech / Identity Verification | Active [^6] |
+| Dili | Series A ($15M; Khosla Ventures led; Allianz, Rebel Fund, Brick and Mortar Ventures, Y Combinator/Garry Tan participated) | 2026-07-30 | — | AI compliance / Infrastructure regtech | Active [^7][^8][^9] |
 
 The table above is a representative sample of named investments confirmed in public coverage [^5]. Rebel does not publish a full portfolio list; the canonical count of 128 companies comes from Tracxn [^3].
 
@@ -91,3 +92,9 @@ No independently sourced founder testimonials about working with Rebel Fund were
 
 [^6]: Axios Pro Rata, "Didit $6M seed funding from YC and others," May 26, 2026. Accessed May 2026. https://www.axios.com/newsletters/axios-pro-rata — Confirms Rebel Fund participated in Didit's $6M seed extension on May 26, 2026 alongside Y Combinator and other participants.
 [^5]: Rebel Fund Portfolio Companies, Crunchbase Hub, accessed May 2026. https://www.crunchbase.com/hub/rebel-fund-portfolio-companies
+
+[^7]: Marina Temkin, "Dili raises $15 million to bring AI compliance to the infrastructure boom," TechCrunch, July 30, 2026. Accessed August 2026. https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
+
+[^8]: "Dili Raises $21.7m from Khosla Ventures to Bring AI-Powered Assurance to America's Infrastructure Boom," GlobeNewswire (company press release), July 30, 2026. Accessed August 2026. https://www.globenewswire.com/news-release/2026/07/30/3336377/0/en/dili-raises-21-7m-from-khosla-ventures-to-bring-ai-powered-assurance-to-america-s-infrastructure-boom.html
+
+[^9]: "AI startup Dili raises $15 million to automate AI compliance for infrastructure projects," Crypto Briefing, July 30, 2026. Accessed August 2026. https://cryptobriefing.com/dili-raises-22m-ai-compliance-infrastructure/

@@ -87,7 +87,7 @@ This table represents a sample of verified investments. Operator Partners report
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Sandstone | Series A | 2026-06-09 | Legal Tech/AI | [^38][^39][^40] |
-| Harmony | Seed ($34M; Lightspeed Venture Partners-led; Hitachi Ventures, Fin Capital, Mercer Ventures, Operator Partners participated; angels Assaf Rappaport, Ofir Ehrlich) | 2026-07-28 | Enterprise Software / Agentic AI / Service Management | [^harm1][^harm2] |
+| Harmony | Seed ($34M; Lightspeed Venture Partners-led; Hitachi Ventures, Fin Capital, Mercer Ventures, Operator Partners participated; angels Assaf Rappaport, Ofir Ehrlich) | 2026-07-28 | Enterprise Software / Agentic AI / Service Management | [^harm1][^harm2][^harm3] |
 | Apella | Series B | 2026-01-08 | Healthcare/AI | [^20] |
 | Serval | Series A ($47M; Redpoint led — Patrick Chase joined; First Round, General Catalyst, Box Group, Bessemer, Chemistry VC, Strike Capital, Sunflower Capital, Operator Partners + angels Sabrina Hahn, Alex Clayton, Colin Zima participated; $52M total raised) | 2025-10-21 | IT Automation/AI | [^24][^41][^42] |
 | Estuary | Series A | 2025-10-21 | Data Infrastructure | [^25] |
@@ -191,3 +191,5 @@ No independently sourced founder testimonials found. The firm's website describe
 [^harm1]: Pulse 2.0, "Harmony Raises $34 Million Seed Round Led By Lightspeed To Scale AI Employee Support Platform," July 28, 2026. Accessed July 30, 2026. https://pulse2.com/harmony-raises-34-million-seed-round-led-by-lightspeed-to-scale-ai-employee-support-platform/
 
 [^harm2]: Calcalist (CTech), "After selling Epsagon to Cisco for $500 million, founders return with AI enterprise startup Harmony," July 28, 2026. Accessed July 30, 2026. https://www.calcalistech.com/ctechnews/article/sj0nhfurmx
+
+[^harm3]: ACCESS Newswire (official press release), "Harmony Raises $34 Million to Reinvent Employee Experience Powered by AI," July 28, 2026. Accessed August 2026. https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/harmony-raises-34-million-to-reinvent-employee-experience-powered-1193998
