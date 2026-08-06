@@ -109,7 +109,7 @@ Investments made through Aleph (co-founded 2013) and Genesis Partners (2010–20
 | Trullion | ~2021 | Early | Fintech / accounting | Active | [^15] |
 | Sightful | ~2022 | Early | AR / deep tech | Active | [^15] |
 | NextSilicon | ~2020 | Early | HPC / semiconductors | Active | [^15] |
-| Inevitable AI Group | 2026 | Pre-Seed | AI / venture studio | Active ($6M pre-seed, Aleph led; Shochat quoted) | [^35] |
+| Inevitable AI Group | 2026-08-06 | Pre-Seed ($6M; Aleph sole lead; Shochat led for Aleph; founders Nimrod Lehavi + Ofer Bar-Or) | AI / venture studio | Active | [^35] [^36] [^37] |
 
 *This table represents approximately 30 of 62+ known Aleph portfolio investments plus 3 Genesis-era investments. Years marked with ~ are approximate based on company founding dates or press coverage; exact investment dates were not confirmed for all entries.*
 
@@ -173,4 +173,6 @@ No independently sourced founder testimonials found through dedicated search. Th
 [^32]: Eden Shochat, "Networks," Aleph blog on Medium, accessed March 2026. https://medium.com/aleph-vc/networks-f312f338882e
 [^33]: Eden Shochat, Medium posts, accessed March 2026. https://medium.com/@eden
 [^34]: Eden Shochat, LinkedIn profile, accessed March 2026. https://www.linkedin.com/in/edens/
-[^35]: Tech Startups, "Inevitable AI Group Raises $6M From Aleph to Launch AI-Native SaaS Companies," August 6, 2026, accessed August 2026. https://techstartups.com/2026/08/06/inevitable-ai-group-raises-6m-from-aleph-to-launch-ai-native-saas-companies/
+[^35]: Tech Startups, "Inevitable AI Group Raises $6M From Aleph to Launch AI-Native SaaS Companies," August 6, 2026, accessed August 2026. https://techstartups.com/2026/08/06/inevitable-ai-group-raises-6m-from-aleph-to-launch-ai-native-saas-companies/ — Names Shochat as Aleph's investing partner in $6M pre-seed for Inevitable AI Group (IAIG). Quotes Shochat: "SaaS isn't dying, it's being reinvented."
+[^36]: GlobeNewswire via Manila Times, "Inevitable AI Group Raises $6M From Aleph to Launch AI-Native SaaS Companies," August 6, 2026, accessed August 2026. https://www.manilatimes.net/2026/08/06/tmt-newswire/globenewswire/inevitable-ai-group-raises-6m-from-aleph-to-launch-ai-native-saas-companies/2400229 — Primary press release syndication confirming Aleph sole lead; Shochat quoted as Equal Partner.
+[^37]: EU-Startups, "Inevitable AI Group raises €5.2 million from Aleph to launch AI-native SaaS companies," August 2026, accessed August 2026. https://www.eu-startups.com/2026/08/inevitable-ai-group-raises-e5-2-million-from-aleph-to-launch-ai-native-saas-companies — European tech-press third source confirming Aleph as sole $6M USD (~€5.2M) pre-seed lead.

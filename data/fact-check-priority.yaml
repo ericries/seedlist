@@ -27,10 +27,16 @@ priority:
   type: firm
   reason: "appeared in Inevitable AI Group Pre-Seed (2026-08-06), $6M"
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-08-06
+  note: 'Fact-spec sweep 2026-08-06: Verified Aleph solely led Inevitable AI Group (IAIG) $6M pre-seed on 2026-08-06 via 3 primary sources — Tech Startups [^38], GlobeNewswire syndication via Manila Times [^39], and EU-Startups [^40]. Enriched aleph.md portfolio row with founders (Nimrod Lehavi, Ofer Bar-Or), sole-lead confirmation, and Eden Shochat as the investing partner. Added 2 new footnotes ([^39], [^40]) to aleph.md, bringing the row to 3 citations. Also updated inevitable-ai-group.md startup profile from 2 to 4 sources, added Ofer Bar-Or founder quote, and expanded citations on Shochat/Lehavi quotes. Round is $6M USD (~€5.2M per EU-Startups) — currency preserved as $ per primary US press release.'
 - slug: eden-shochat
   type: investor
   reason: "quoted in Inevitable AI Group Pre-Seed (2026-08-06), $6M Aleph-led"
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-08-06
+  note: 'Fact-spec sweep 2026-08-06: Verified Eden Shochat led Inevitable AI Group $6M pre-seed for Aleph on 2026-08-06 via 3 primary sources (Tech Startups [^35], GlobeNewswire/Manila Times [^36], EU-Startups [^37]). Enriched portfolio row with exact date, sole-lead status, and founder names. Added 2 new footnotes ([^36], [^37]) bringing the row to 3 citations. LVI already correctly set to 2026-08-06 Inevitable AI Group Pre-Seed.'
 - slug: bessemer-venture-partners
   type: firm
   reason: 'Fact-spec sweep 2026-08-06: Verified Bessemer co-led InRisk Labs Series A ($27M, 2026-08-05, alongside Northpoint Capital) via 3 primary sources (Entrackr, DealStreetAsia, BW Disrupt). Portfolio row already existed with 2 citations; added third citation [^inrisk3] (BW Disrupt) and enriched row with Vishal Gupta partner name + seed follow-on detail. Added Vishal Gupta and Sameer Brij Verma investor quotes to InRisk Labs startup profile What Investors Say, and Malay Kumar Poddar (EarthRe CEO) founder quote to What Founders Say.'
@@ -3952,6 +3958,9 @@ priority:
   type: firm
   reason: participated in Foundational Industries Seed (2026-07-30)
   added: 2026-07-30
+  status: resolved
+  resolved: 2026-08-06
+  note: 'Fact-spec sweep 2026-08-06: Verified Buckley Ventures participated in Foundational Industries $25M seed on 2026-07-30 via 4 primary sources — Fortune [^fnd1] (Jason Del Rey, 2026-07-30), The Robotics Media [^fnd2], Dealroom [^fnd3], and the Foundational Industries company mission page [^fnd4]. CORRECTED co-lead name: was "Zigg Ventures" (Fortune-era usage), canonical name per company website is "Zigg Capital." ADDED Oceans as a participant (present on company site but missed by Fortune). Added [^fnd4] company-page primary source. Also updated foundational-industries.md startup profile to correct Zigg Capital / add Oceans / add [^4] company-page citation / add Jonathan Winer founder quotes from The AI Insider. Round is $25M USD.'
 - slug: recursive-ventures
   type: firm
   reason: participated in UNIT AI round (2026-07-29), USD 12M

@@ -105,7 +105,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | Healthy.io | Series A | ~2018 | Healthcare | Active | [^9] |
 | HoneyBook | Series A | 2014-09-22 | Fintech / SMB | Active (Unicorn) | [^9] [^35] [^36] [^37] |
 | Houseparty | Seed | ~2016 | Consumer | Acquired by Epic Games | [^9] |
-| Inevitable AI Group | Pre-Seed | 2026-08-06 | AI / Venture Studio | Active ($6M pre-seed, Aleph led) | [^38] |
+| Inevitable AI Group | Pre-Seed ($6M; Aleph sole lead; founders Nimrod Lehavi + Ofer Bar-Or; Eden Shochat led for Aleph) | 2026-08-06 | AI / Venture Studio | Active | [^38] [^39] [^40] |
 | Jiga | Series A | 2025-11-18 | Software / Manufacturing | Active | [^17] |
 | Lemonade | Seed | ~2015 | Insurtech | IPO: NYSE LMND | [^9] |
 | Luminate | Seed | ~2016 | Cybersecurity | Acquired by Symantec | [^9] |
@@ -246,3 +246,5 @@ No additional independently sourced founder testimonials found beyond the Aleph 
 
 [^37]: StartupHub.ai, "HoneyBook Series A" round profile, September 22, 2014, accessed July 25, 2026. https://www.startuphub.ai/investment_rounds/honeybook-raises-10-million/ — Independent round profile confirming September 22, 2014 announcement of $10M Series A led by Aleph, with Hillsven Capital, UpWest Labs, Ben Narasin, and Naval Ravikant participating.
 [^38]: Tech Startups, "Inevitable AI Group Raises $6M From Aleph to Launch AI-Native SaaS Companies," August 6, 2026, accessed August 2026. https://techstartups.com/2026/08/06/inevitable-ai-group-raises-6m-from-aleph-to-launch-ai-native-saas-companies/ — Confirms Aleph led $6M pre-seed for Tel Aviv AI venture studio founded by Nimrod Lehavi and Ofer Bar-Or. Eden Shochat quoted for Aleph.
+[^39]: GlobeNewswire via Manila Times, "Inevitable AI Group Raises $6M From Aleph to Launch AI-Native SaaS Companies," August 6, 2026, accessed August 2026. https://www.manilatimes.net/2026/08/06/tmt-newswire/globenewswire/inevitable-ai-group-raises-6m-from-aleph-to-launch-ai-native-saas-companies/2400229 — Primary press release syndication (GlobeNewswire) naming Aleph as sole $6M pre-seed lead with no other institutional participants. Full Eden Shochat quote: "SaaS isn't dying, it's being reinvented. AI gives customers the ability to create tools tailored to their needs on demand."
+[^40]: EU-Startups, "Inevitable AI Group raises €5.2 million from Aleph to launch AI-native SaaS companies," August 2026, accessed August 2026. https://www.eu-startups.com/2026/08/inevitable-ai-group-raises-e5-2-million-from-aleph-to-launch-ai-native-saas-companies — Independent European tech-press third source. Reports the $6M USD round as approximately €5.2M. Confirms Aleph as sole lead; no other institutional participants.
