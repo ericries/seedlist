@@ -124,7 +124,7 @@ Based on analysis of 137 verified portfolio companies (96 active, 41 exited) fro
 | Oort | Series A | 2022 | Identity threat detection | [^3][^24] |
 | Koloma | Series B (USD 245.7M; Khosla Ventures led; Amazon Climate Pledge Fund + United Airlines Sustainable Flight Fund new; Breakthrough Energy Ventures + Energy Impact Partners returning) | 2024-02-09 | Geologic hydrogen | [^22][^kol1][^kol2][^kol3] |
 | Metafuels | Series A | 2026 | Sustainable aviation fuel | [^3] |
-| Overstory | Series A | 2025 | AI grid resilience | [^3] |
+| Overstory | Series B ($43M; Blume Equity led; EIP LP, B Capital, Semapa Next, Pale Blue Dot, CapitalT, Convective Capital, Bentley Systems, MCJ, Moxxie Ventures participating — EIP is a Series B new investor, NOT Series A) | 2025-11-25 | AI grid resilience / Wildfire prevention | [^ov1][^ov2][^ov3] |
 | Hint | Seed | 2026 | AI home management | [^25] |
 
 *This table represents a subset of approximately 137 known portfolio companies. The full portfolio is listed on the EIP website [^14].*
@@ -188,4 +188,10 @@ No additional independently sourced founder testimonials found beyond press rele
 [^kol2]: Axios Pro Climate Deals, "Geologic hydrogen startup Koloma raises $245M," February 9, 2024. Accessed July 2026. https://www.axios.com/pro/climate-deals/2024/02/09/koloma-245-million-hydrogen-khosla-amazon-united — Same-day scoop confirming the $245M raise, Khosla Ventures lead, and Amazon + United participation. First public disclosure of the round.
 
 [^kol3]: Crunchbase, "Series B — Koloma — 2024-02-09," accessed July 2026. https://www.crunchbase.com/funding_round/koloma-series-b--8bbc978e — Confirms the round type explicitly as Series B (previously mis-labeled as Series C on this profile) and dates the round as 2024-02-09.
+
+[^ov1]: PR Newswire, "Overstory Closes $43m Series B To Scale AI-Driven Wildfire Prevention And Grid Resilience," November 25, 2025. Accessed August 2026. https://www.prnewswire.com/news-releases/overstory-closes-43m-series-b-to-scale-ai-driven-wildfire-prevention-and-grid-resilience-302625548.html — Primary company newswire. Confirms 2025-11-25 announcement of $43M Series B led by Blume Equity with Energy Impact Partners LP participating as a new investor alongside existing investors B Capital, Semapa Next, Pale Blue Dot, CapitalT, Convective Capital, Bentley Systems, MCJ, and Moxxie Ventures.
+
+[^ov2]: PhroNews, "Overstory Raises $43M to Reduce Wildfire Risk with AI," December 6, 2025. Accessed August 2026. https://phronews.com/overstory-closes-43m-to-scale-ai-for-wildfire-prevention-and-grid-resilience/ — Contemporaneous independent press confirming $43M Series B, Blume Equity lead, and EIP among participants; CEO Fiona Spruill quote.
+
+[^ov3]: Overstory blog, "Overstory closes Series A supercharging its leading vegetation AI platform, reducing wildfire risk and power outages," October 19, 2023. Accessed August 2026. https://www.overstory.com/blog/series-a-announcement — Company primary source for the earlier Series A ($14M led by B Capital on 2023-10-19) — Energy Impact Partners was NOT a Series A investor. Cited here to disambiguate the 2023 Series A from the 2025 Series B (EIP entered at Series B).
 

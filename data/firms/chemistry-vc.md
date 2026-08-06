@@ -78,7 +78,7 @@ Based on a limited sample of verified Chemistry investments (the firm launched i
 | Assort Health | Series A (co-led $22M with First Round Capital; Quiet Capital participated) | 2025-04-16 | Healthcare AI / Voice AI | [^22][^23][^24] |
 | Assort Health | Series B (participated, $76M; Lightspeed Venture Partners led; Felicis, First Round Capital, A*, Liquid 2 Ventures, Quiet also participated) | 2025-09-30 | Healthcare AI / Voice AI | [^25][^26][^27] |
 | Serval | Series A ($47M; Redpoint led — Patrick Chase joined; First Round, General Catalyst, Box Group, Bessemer, Chemistry VC, Strike Capital, Sunflower Capital, Operator Partners + angels Sabrina Hahn, Alex Clayton, Colin Zima participated; $52M total) | 2025-10-21 | AI / IT Automation | [^4][^17][^18] |
-| Datacurve | Series A | 2025 | AI/Data Infrastructure | [^10] |
+| Datacurve | Series A ($15M; Chemistry led — Mark Goldberg; angels/employees from DeepMind, Vercel, Anthropic, OpenAI participated; follow-on to $2.7M seed led by Balaji Srinivasan) | 2025-10-09 | AI / LLM Training Data | [^10][^dc1][^dc2] |
 | ComfyUI | Growth (participated, $30M at $500M valuation) | 2026-04-24 | AI / Generative Media | [^12][^16] |
 | Fathom Therapeutics | Series A | 2026-04-27 | Biotech / AI Drug Discovery | [^13] |
 | Nova Intelligence | Series A (led) | 2026-05-05 | AI / Enterprise / SAP Modernization | [^14] |
@@ -154,3 +154,7 @@ Note: The above founder quotes are sourced from Chemistry's own website and shou
 [^29]: "Kalanick's Atoms raises $1.7B in a16z-led round for industrial AI," Yahoo Finance, July 22, 2026. Accessed July 24, 2026. https://finance.yahoo.com/technology/ai/articles/kalanick-atoms-raises-1-7b-212701007.html — Independent press confirmation naming Chemistry among equity participants: Bain Capital, Fifth Wall, Chemistry, A*, K5 Global, Abstract, SV Angel, Alpha Square Group, and Uber; debt from Bank of America, Goldman Sachs, Wells Fargo, JP Morgan, Barclays.
 
 [^30]: "Travis Kalanick's Physical AI Startup Atoms Raises $1.7B in Funding, Led by a16z," The AI Insider, July 23, 2026. Accessed July 24, 2026. https://theaiinsider.tech/2026/07/23/travis-kalanicks-physical-ai-startup-atoms-raises-1-7b-in-funding-led-by-a16z/ — Third independent confirmation of Chemistry's participation in the $1.7B a16z-led Atoms round; full equity partner list matches.
+
+[^dc1]: Marina Temkin, "Datacurve raises $15 million to take on Scale AI," TechCrunch, October 9, 2025. Accessed August 2026. https://techcrunch.com/2025/10/09/datacurve-raises-15-million-to-take-on-scaleai/ — Primary tier-1 press confirming 2025-10-09 announcement of $15M Series A led by Chemistry with Mark Goldberg as lead partner; angels from DeepMind, Vercel, Anthropic, and OpenAI participating; follow-on to $2.7M seed led by Balaji Srinivasan; direct quotes from co-founder Serena Ge.
+
+[^dc2]: "Wilson Sonsini Advises Datacurve on $15 Million Series A," Wilson Sonsini, October 2025. Accessed August 2026. https://www.wsgr.com/en/insights/wilson-sonsini-advises-datacurve-on-dollar15-million-series-a.html — Independent legal-counsel primary source confirming $15M Series A led by Chemistry; Wilson Sonsini deal counsel to Datacurve.

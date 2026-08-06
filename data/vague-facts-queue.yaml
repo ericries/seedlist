@@ -173024,7 +173024,8 @@ vague_facts:
   line: '| Datacurve | Series A | 2025 | AI/Data Infrastructure | [^10] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: tightened Datacurve row from year-only 2025 to 2025-10-09 with $15M Series A led by Chemistry (Mark Goldberg); DeepMind/Vercel/Anthropic/OpenAI employee angels participated; follow-on to $2.7M seed led by Balaji Srinivasan. Verified via 3+ primary sources: existing Chemistry blog [^10] (Oct 9, 2025), NEW TechCrunch Marina Temkin [^dc1] (2025-10-09), NEW Wilson Sonsini deal counsel [^dc2] (Oct 2025); Serena Ge founder X post also confirmed 2025-10-09. 2 new footnotes added.'
 - profile: firms/coinfund
   profile_name: CoinFund
   company: Flare
@@ -173682,7 +173683,8 @@ vague_facts:
   line: '| Overstory | Series A | 2025 | AI grid resilience | [^3] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: CORRECTED wrong round type AND wrong date. Was "Series A | 2025" — but Overstory Series A was $14M led by B Capital on 2023-10-19 (per Overstory own blog) and EIP was NOT a Series A investor. EIP entered at the 2025-11-25 Series B ($43M led by Blume Equity, EIP LP new alongside existing B Capital, Semapa Next, Pale Blue Dot, CapitalT, Convective Capital, Bentley Systems, MCJ, Moxxie Ventures). Row now reads: "Series B ($43M; Blume Equity led; EIP LP + returning investors) | 2025-11-25". Verified via 3 primary sources: NEW PR Newswire company release [^ov1] (2025-11-25), NEW PhroNews contemporaneous press [^ov2], NEW Overstory Series A blog [^ov3] (disambiguating 2023 Series A from 2025 Series B). 3 new footnotes added.'
 - profile: firms/energy-impact-partners
   profile_name: Energy Impact Partners
   company: Hint
@@ -173752,7 +173754,8 @@ vague_facts:
   line: '| Remedy Robotics | Series A | 2025 | Surgical robotics | [^25] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-05: CORRECTED misleading round labeling. The 2025-10-06 announcement disclosed $35M CUMULATIVE seed + Series A raised since 2020, not a fresh 2025 Series A closing. Per Blackbird lead-investor blog, they backed Remedy at Series A in 2020; per Tracxn/CBInsights, DCVC led the original seed circa 2020, and the 2025 announcement is coded as "Seed VC - II" while Axios/press called it Series A. Row now reads: "Combined Seed + Series A disclosure ($35M total: DCVC led seed circa 2020; Blackbird backed Series A in 2020; Build Collective/Fadell + KdT Ventures also participants; total disclosed 2025-10-06)". Verified via 3 primary sources: existing PRNewswire clinical-milestone release [^25] (2025-10-06, no amount specified), NEW Blackbird investment notes blog [^rr1] (confirms "Series A in 2020"), NEW Remedy Robotics company site [^rr2] (confirms Build Collective is an investor but not date/round). 2 new footnotes added.'
 - profile: firms/future-ventures
   profile_name: Future Ventures
   company: Better Meat Co.

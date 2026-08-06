@@ -109,7 +109,7 @@ The analysis below is based on 25 verified investments from press coverage, Crun
 | Orionis Biosciences | Series C | 2022 | Biotech / cancer immunotherapy | [^16][^34] |
 ~unknown| Phononic | — | — | Solid-state cooling / climate | [^11] |
 | Prenuvo | Series A | 2022-10-18 | Full-body MRI screening | [^42] |
-| Remedy Robotics | Series A | 2025 | Surgical robotics | [^25] |
+| Remedy Robotics | Combined Seed + Series A disclosure ($35M total: DCVC led original seed circa 2020; Blackbird Ventures backed Series A in 2020 per Blackbird's blog; Build Collective/Fadell + KdT Ventures also participants; total disclosed publicly 2025-10-06 alongside clinical milestone announcement) | 2025-10-06 (disclosure) | Surgical robotics / Endovascular neurointervention | [^25][^rr1][^rr2] |
 | RightHand Robotics | Series C | 2022 | Warehouse robotics | [^26] |
 ~unknown| Rohinni | — | — | Micro LED technology | [^11] |
 | Simbe Robotics | Series A | ~2019 | Retail robotics / automation | [^14] |
@@ -250,4 +250,8 @@ No additional independently sourced founder testimonials were found beyond the e
 [^44]: Highland Europe, "Nabla Raises $70M Series C to Deliver Agentic AI to the Heart of Clinical Workflows, Bringing Total Funding to $120M," June 17, 2025. Accessed July 2026. https://www.highlandeurope.com/nabla-raises-70m-series-c-to-deliver-agentic-ai-to-the-heart-of-clinical-workflows-bringing-total-funding-to-120m/ — Primary source from a lead-tier participant confirming $70M Series C led by HV Capital, with Highland Europe joining as key investor alongside DST Global (new), and Cathay Innovation and Tony Fadell's Build Collective as existing investors. Advisors include Yann LeCun (Meta) and Tony Fadell (Build Collective).
 
 [^45]: FierceHealthcare, "Nabla banks $70M series C to build out agentic AI for clinical workflows," June 2025. Accessed July 2026. https://www.fiercehealthcare.com/ai-and-machine-learning/nabla-banks-70m-series-c — Independent healthcare-industry press confirmation of $70M Series C in June 2025 with HV Capital as lead and Tony Fadell's Build Collective among existing investors continuing participation.
+
+[^rr1]: Blackbird Ventures blog, "Investment Notes: Remedy Robotics," accessed August 2026. https://www.blackbird.vc/blog/investment-notes-remedy-robotics — Lead-investor primary source confirming Blackbird has "been proud investors in Remedy since their Series A in 2020"; establishes that the 2025-10-06 $35M disclosure reflects cumulative seed + Series A funding raised over multiple years, not a fresh Series A closing.
+
+[^rr2]: Remedy Robotics, "About" (company website), accessed August 2026. https://www.remedyrobotics.com/ — Company primary source explicitly listing investors: "Headquartered in San Francisco, Remedy is backed by DCVC, Blackbird, and Tony Fadell's Build Collective, among others." Confirms Build Collective is an investor but does not disclose specific round or date.
 
