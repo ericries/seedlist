@@ -34,11 +34,11 @@ Proceeds will deepen underwriting, actuarial, catastrophe-modelling, and AI capa
 
 ## What Investors Say
 
-No independently sourced investor quotes found at time of profile creation.
+Per Entrackr's coverage of the Series A, Bessemer Venture Partners Partner Vishal Gupta said the firm backed InRisk at seed stage and has now doubled down on its investment in the Series A [^1]. Northpoint Capital Founder and CIO Sameer Brij Verma said that EarthRe "combines a licensed balance sheet with an AI native risk platform and deep underwriting expertise" [^1].
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at time of profile creation.
+"India will be the most consequential insurance market over the next two decades. To drive sustainable growth, we must build indigenous capacity and tailored solutions built by India, for India." — Malay Kumar Poddar, EarthRe CEO (InRisk Labs' reinsurance subsidiary), on the Series A announcement [^1].
 
 ## Sources
 

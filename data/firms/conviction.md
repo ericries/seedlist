@@ -98,7 +98,7 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 | Tomo | Seed (participated, $5M; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | Active | [^tomo1][^tomo2][^tomo3] |
 | Monogram | Seed (participated, $40M; DST Global and Lux Capital co-led) | 2026-07-07 | AI / Consumer AI / Mobile | Active | [^monogram1][^monogram2][^monogram3] |
 | Enigma | Seed (participated, $71M; Index Ventures and Ribbit Capital co-led) | 2026-07-27 | Robotics / AI / Foundation Models | Active | [^enigma1][^enigma2] |
-| Intelligence (Design Arena) | Seed (participated, $7.9M; Index Ventures led; Sarah Guo and Mike Vernal from Conviction) | 2026-08-03 | AI / Evaluation / Benchmarking | Active | [^intel1][^intel2] |
+| Intelligence (Design Arena) | Seed (participated, $7.9M; Index Ventures led; A* and Valkyrie also participated; Sarah Guo and Mike Vernal from Conviction; Grace Li co-founder/CEO; $60M ARR at seed) | 2026-08-03 | AI / Evaluation / Benchmarking | Active | [^intel1][^intel2][^intel3] |
 
 Note: Investment years are approximate based on company founding timelines. This table represents approximately 22 of ~32 total investments (~69%); the remainder are in stealth or undisclosed [^3][^5].
 
@@ -237,3 +237,5 @@ No independently sourced founder testimonials found. The firm's website describe
 
 [^intel1]: "Design Arena creators raise $7.9 million to bring taste to AI models," TechCrunch, August 3, 2026. Accessed August 6, 2026. https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/ — Names Conviction (Sarah Guo and Mike Vernal) among participants in Intelligence's $7.9M Index-led seed.
 [^intel2]: "Intelligence Raises $7.9M in Seed Funding," FinSMEs, August 2026. Accessed August 6, 2026. https://www.finsmes.com/2026/08/intelligence-raises-7-9m-in-seed-funding.html — Independent confirmation of Conviction's participation in the Intelligence seed.
+
+[^intel3]: "DesignArena creators raise $7.9M to scale human taste-testing for AI models," Stockpil, August 2026. Accessed August 6, 2026. https://stockpil.com/designarena-intelligence-raises-7-9m-seed/ — Third independent confirmation that Intelligence's $7.9M seed announced August 3, 2026 was led by Index Ventures with Conviction, A*, and Valkyrie participating; quotes Grace Li on Design Arena's origin and first frontier-lab deal.

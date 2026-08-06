@@ -158,7 +158,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Feathery | Series A (participated, $30M total; Portage Ventures led; Allstate Strategic Ventures, Clocktower Ventures, Erie Strategic Ventures, Bain Capital Ventures participated) | 2026-07-14 | Fintech / AI / Financial Services | [^77][^78][^79] |
 | Oratomic | Series A (participated, $300M; ARCH Venture Partners, Spark Capital, Khosla Ventures co-led; Bezos Expeditions, General Catalyst, Lowercarbon Capital, Bain Capital Ventures, Formation, Nebular also participated) | 2026-07-07 | Quantum Computing / Deep Tech | [^80][^81][^82] |
 | Enigma | Seed (co-led with Ribbit Capital, $71M; Conviction Partners participated) | 2026-07-27 | Robotics / AI / Foundation Models | [^83][^84] |
-| Intelligence (Design Arena) | Seed (led, $7.9M; Conviction, A*, Valkyrie participated) | 2026-08-03 | AI / Evaluation / Benchmarking | [^85][^86] |
+| Intelligence (Design Arena) | Seed (led, $7.9M; Conviction, A*, Valkyrie participated; Grace Li co-founder/CEO; $60M ARR at seed) | 2026-08-03 | AI / Evaluation / Benchmarking | [^85][^86][^87] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -310,4 +310,6 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^85]: "Design Arena creators raise $7.9 million to bring taste to AI models," TechCrunch, August 3, 2026. Accessed August 6, 2026. https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/ — Confirms Index Ventures led Intelligence's $7.9M seed with Conviction, A*, and Valkyrie participating.
 
 [^86]: "Intelligence Raises $7.9M in Seed Funding," FinSMEs, August 2026. Accessed August 6, 2026. https://www.finsmes.com/2026/08/intelligence-raises-7-9m-in-seed-funding.html — Independent confirmation of the Intelligence seed round.
+
+[^87]: "DesignArena creators raise $7.9M to scale human taste-testing for AI models," Stockpil, August 2026. Accessed August 6, 2026. https://stockpil.com/designarena-intelligence-raises-7-9m-seed/ — Third independent confirmation of Index Ventures leading Intelligence's $7.9M seed announced August 3, 2026 (Monday) with Conviction, A*, and Valkyrie participating; quotes Grace Li: "It was the missing bottleneck for a lot of these models to make improvements in the design space. About a week later, we closed our first major deal with a frontier lab, and the rest is kind of history."
 

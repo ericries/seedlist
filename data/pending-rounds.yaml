@@ -30,8 +30,8 @@ pending_rounds:
   parsed_round: Growth
   status: processed
   processed_date: '2026-08-06'
-  processed_note: 'Created data/startups/chargepoly.md; Meridiam-led €23M growth round
-    (2026-07-27) with Fideve Groupe; queued Meridiam firm profile'
+  processed_note: Created data/startups/chargepoly.md; Meridiam-led €23M growth round
+    (2026-07-27) with Fideve Groupe; queued Meridiam firm profile
 - title: Indian EV startup River raises $120M Series C to scale production, launch
     more models
   url: https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/

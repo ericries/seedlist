@@ -50,7 +50,7 @@ No independently sourced investor quotes found at time of profile creation.
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at time of profile creation.
+"It was the missing bottleneck for a lot of these models to make improvements in the design space. About a week later, we closed our first major deal with a frontier lab, and the rest is kind of history." — Grace Li, Co-Founder & CEO, describing the origin of Design Arena and Intelligence's first frontier-lab deal, on the seed round announcement [^1].
 
 ## Sources
 

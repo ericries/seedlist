@@ -123,7 +123,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| InRisk Labs | Series A (co-led, $27M) | 2026-08-05 | Insurtech/Reinsurance | [^inrisk1][^inrisk2] |
+| InRisk Labs | Series A (co-led with Northpoint Capital, $27M; Vishal Gupta partner; Bessemer seed follow-on) | 2026-08-05 | Insurtech/Reinsurance | [^inrisk1][^inrisk2][^inrisk3] |
 | Shopify | Series A ($7M, led) | 2010-12-13 | E-commerce/Cloud | [^9][^16][^17] |
 | LinkedIn | Series C ($12.8M) | 2007 | Consumer/Social | [^9][^1] |
 | Pinterest | Series A ($10M, led at $40M pre-money; Jeremy Levine + Sarah Tavel; Levine took board seat; prior seed from FirstMark, Highline, and angels — round closed late spring 2011 per contemporaneous reporting) | 2011-05 | Consumer | [^9][^pin1][^pin2][^pin3] |
@@ -316,3 +316,5 @@ However, founder experiences are not universally positive. One founder reported 
 [^inrisk1]: Entrackr, "InRisk Labs raises $27 Mn in Series A round led by Bessemer, Northpoint Capital," August 5, 2026. Accessed August 6, 2026. https://entrackr.com/news/inrisk-labs-raises-27-mn-in-series-a-round-led-by-bessemer-northpoint-capital-12230166 — Confirms Bessemer co-led InRisk Labs' $27M Series A on August 5, 2026.
 
 [^inrisk2]: DealStreetAsia, "India: Bessemer, Northpoint co-lead $27m funding in InRisk Labs," August 5, 2026. Accessed August 6, 2026. https://www.dealstreetasia.com/stories/bessemer-northpoint-inrisk-labs-491236 — Independent confirmation of Bessemer's InRisk Labs Series A co-lead.
+
+[^inrisk3]: BW Disrupt, "InRisk Labs Raises $27 Mn In Series A Co-led by Bessemer Venture Partners & Northpoint Capital," August 2026. Accessed August 6, 2026. https://www.bwdisrupt.com/article/inrisk-labs-raises-27-mn-in-series-a-co-led-by-bessemer-venture-partners-northpoint-capital-618085 — Third independent confirmation of the $27M Series A co-lead; per Entrackr coverage (source [^inrisk1]), Bessemer Partner Vishal Gupta noted the firm backed InRisk at seed stage and doubled down on the Series A; Northpoint Founder/CIO Sameer Brij Verma said EarthRe "combines a licensed balance sheet with an AI native risk platform and deep underwriting expertise."

@@ -1,16 +1,22 @@
 priority:
 - slug: bessemer-venture-partners
   type: firm
-  reason: "co-led InRisk Labs Series A (2026-08-05)"
+  reason: 'Fact-spec sweep 2026-08-06: Verified Bessemer co-led InRisk Labs Series A ($27M, 2026-08-05, alongside Northpoint Capital) via 3 primary sources (Entrackr, DealStreetAsia, BW Disrupt). Portfolio row already existed with 2 citations; added third citation [^inrisk3] (BW Disrupt) and enriched row with Vishal Gupta partner name + seed follow-on detail. Added Vishal Gupta and Sameer Brij Verma investor quotes to InRisk Labs startup profile What Investors Say, and Malay Kumar Poddar (EarthRe CEO) founder quote to What Founders Say.'
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-08-06
 - slug: index-ventures
   type: firm
-  reason: "led Intelligence/Design Arena seed (2026-08-03)"
+  reason: 'Fact-spec sweep 2026-08-06: Verified Index Ventures led Intelligence (Design Arena) $7.9M seed on 2026-08-03 with Conviction, A*, and Valkyrie participating via 3 primary sources (TechCrunch [^85], FinSMEs [^86], Stockpil [^87]). Portfolio row already existed with 2 citations; added third citation [^87] and enriched row with Grace Li co-founder/CEO name and $60M ARR at seed. Added Grace Li founder quote to Intelligence startup profile.'
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-08-06
 - slug: conviction
   type: firm
-  reason: "participated in Intelligence/Design Arena seed (2026-08-03)"
+  reason: 'Fact-spec sweep 2026-08-06: Verified Conviction (Sarah Guo, Mike Vernal) participated in Intelligence (Design Arena) $7.9M seed on 2026-08-03 (Index-led) via 3 primary sources (TechCrunch [^intel1], FinSMEs [^intel2], Stockpil [^intel3]). Portfolio row already existed with 2 citations; added third citation [^intel3] and enriched row with A*/Valkyrie co-participants, Grace Li co-founder/CEO, and $60M ARR at seed.'
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-08-06
 - slug: a-star-capital
   type: firm
   reason: "participated in Intelligence/Design Arena seed (2026-08-03)"
