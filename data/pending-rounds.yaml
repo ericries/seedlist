@@ -56,7 +56,8 @@ pending_rounds:
   parsed_round: null
   status: processed
   processed_date: '2026-08-05'
-  processed_note: 'Created data/startups/asymbio.md; capital injection led by Asymchem Group with Hillhouse Qirui'
+  processed_note: Created data/startups/asymbio.md; capital injection led by Asymchem
+    Group with Hillhouse Qirui
 - title: m in cash. AiDash had raised $91.5M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -71,14 +72,6 @@ pending_rounds:
   date_found: '2026-08-05'
   parsed_company: G Squared
   parsed_amount: $2.3B
-  parsed_round: null
-  status: pending
-- title: Moove raises $250M to become the backbone of the robotaxi industry
-  url: https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/
-  source: techcrunch
-  date_found: '2026-08-05'
-  parsed_company: Moove
-  parsed_amount: $250M
   parsed_round: null
   status: pending
 - title: The July 2026 US Venture Capital Funding Report
