@@ -114,6 +114,7 @@ The following table represents a sample of Hustle Fund's portfolio. The firm has
 | Sage Haven | Pre-Seed | 2026 | Consumer/Kids Safety | Active [^7] |
 | Keebler Health | Series A | 2026 | Healthcare/AI | Active [^27] |
 | Clouted | Seed (participant) | 2026-05-20 | AI/Marketing/Video | Active [^29] |
+| Orbital Sentry | Pre-Seed (participated; Ridgeline led; Superorganism co-invested) | 2026-08-03 | Space/Defense/IR Sensing | Active [^orbsen1][^orbsen2] |
 
 The firm reports 3 unicorns, 1 IPO, and 29 acquisitions across the full portfolio [^7].
 
@@ -182,3 +183,6 @@ Hustle Fund reports a Net Promoter Score (NPS) of 93 with its portfolio founders
 [^31]: TechCabal, "Fusepay launches in Seychelles to replace paper cheques with digital payments," November 21, 2025. Accessed June 2026. https://techcabal.com/2025/11/21/fusepay-takes-aim-at-seychelles-slow-paper-heavy-payments-system/ — Confirms August 2025 pre-seed with Hustle Fund as lead.
 
 [^32]: allAfrica/Dabafinance, "Seychelles: Fusepay Launches Payments Platform in Seychelles After $350k Pre-Seed," November 27, 2025. Accessed June 2026. https://allafrica.com/stories/202511270434.html — Confirms $350K pre-seed backed by Hustle Fund, Everywhere Ventures, First Check Ventures, Startup Istanbul, and Ryan Nesbitt.
+
+[^orbsen1]: BusinessWire (via Morningstar), "Orbital Sentry Closes Pre-Seed Round Led by Ridgeline," August 3, 2026. Accessed August 6, 2026. https://www.morningstar.com/news/business-wire/20260803935611/orbital-sentry-closes-pre-seed-round-led-by-ridgeline — Names Hustle Fund as a participant in the Ridgeline-led pre-seed.
+[^orbsen2]: FinSMEs, "Orbital Sentry Closes Pre-Seed Funding," August 2026. Accessed August 6, 2026. https://www.finsmes.com/2026/08/orbital-sentry-closes-pre-seed-funding.html — Independent confirmation of Hustle Fund participation in Orbital Sentry pre-seed.

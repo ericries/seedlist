@@ -158,6 +158,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Feathery | Series A (participated, $30M total; Portage Ventures led; Allstate Strategic Ventures, Clocktower Ventures, Erie Strategic Ventures, Bain Capital Ventures participated) | 2026-07-14 | Fintech / AI / Financial Services | [^77][^78][^79] |
 | Oratomic | Series A (participated, $300M; ARCH Venture Partners, Spark Capital, Khosla Ventures co-led; Bezos Expeditions, General Catalyst, Lowercarbon Capital, Bain Capital Ventures, Formation, Nebular also participated) | 2026-07-07 | Quantum Computing / Deep Tech | [^80][^81][^82] |
 | Enigma | Seed (co-led with Ribbit Capital, $71M; Conviction Partners participated) | 2026-07-27 | Robotics / AI / Foundation Models | [^83][^84] |
+| Intelligence (Design Arena) | Seed (led, $7.9M; Conviction, A*, Valkyrie participated) | 2026-08-03 | AI / Evaluation / Benchmarking | [^85][^86] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -305,4 +306,8 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^82]: "Oratomic Raises $300M in Series A Funding," FinSMEs, July 2026. Accessed July 19, 2026. https://www.finsmes.com/2026/07/oratomic-raises-300m-in-series-a-funding.html
 [^83]: "Enigma raises $71M to make controlling a robot as easy as adjusting the volume," TechCrunch, July 27, 2026. Accessed July 28, 2026. https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/ — Article body confirms $71M seed; names Index Ventures and Ribbit Capital as co-leads with Conviction Partners participating.
 [^84]: "Enigma raises $71M to develop foundation models for robots," SiliconANGLE, July 27, 2026. Accessed July 28, 2026. https://siliconangle.com/2026/07/27/enigma-raises-71m-develop-foundation-models-robots/ — Independent tier-1 confirmation of $71M seed co-led by Index Ventures and Ribbit Capital.
+
+[^85]: "Design Arena creators raise $7.9 million to bring taste to AI models," TechCrunch, August 3, 2026. Accessed August 6, 2026. https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/ — Confirms Index Ventures led Intelligence's $7.9M seed with Conviction, A*, and Valkyrie participating.
+
+[^86]: "Intelligence Raises $7.9M in Seed Funding," FinSMEs, August 2026. Accessed August 6, 2026. https://www.finsmes.com/2026/08/intelligence-raises-7-9m-in-seed-funding.html — Independent confirmation of the Intelligence seed round.
 

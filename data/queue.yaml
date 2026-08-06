@@ -46241,3 +46241,85 @@ queue:
   added: '2026-03-17'
   discovered_from: skinbit
   source: Co-led SkinBit Pre-Seed (2026-08-05)
+- name: Meridiam
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Meridiam
+  discovered_from: chargepoly
+  source: Meridiam Green Impact Growth Fund led Chargepoly €23M round (2026-07-27)
+- name: Northpoint Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Northpoint Capital
+  discovered_from: inrisk-labs
+  source: Co-led InRisk Labs $27M Series A (2026-08-05) with Bessemer
+- name: Ridgeline
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Ridgeline
+  discovered_from: orbital-sentry
+  source: Led Orbital Sentry pre-seed (2026-08-03); focuses on defense/space
+- name: Superorganism
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Superorganism
+  discovered_from: orbital-sentry
+  source: Co-invested in Orbital Sentry pre-seed (2026-08-03)
+- name: Valkyrie
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Valkyrie
+  discovered_from: intelligence-ai
+  source: Participated in Intelligence/Design Arena seed (2026-08-03), Index-led
+- name: Ted Leonsis
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Monumental Sports & Entertainment
+  discovered_from: proxy-foods-ai
+  source: Led Proxy Foods AI $6M seed (2026-08-05); MSE Founder/Chairman
+- name: SWaN & Legend Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SWaN & Legend Venture Partners
+  discovered_from: proxy-foods-ai
+  source: Lead participant Proxy Foods AI seed (2026-08-05); Anthony Nader, Fredrick
+    Schaufeld
+- name: MYSC (My Social Company)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: MYSC
+  discovered_from: lumora
+  source: Managed Yuhan-Kimberly-anchored fund leading Lumora pre-seed (2026-08-05)
+- name: HGI
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: HGI
+  discovered_from: lumora
+  source: Strategic investor in Lumora pre-seed (2026-08-05)
+- name: Grace Li
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Intelligence (Design Arena)
+  discovered_from: intelligence-ai
+  source: Co-founder and CEO of Intelligence/Design Arena; raised $7.9M Index-led
+    seed (2026-08-03)

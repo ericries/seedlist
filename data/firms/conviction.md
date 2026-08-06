@@ -98,6 +98,7 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 | Tomo | Seed (participated, $5M; Bain Capital Ventures led) | 2026-06-25 | AI / Consumer / Productivity | Active | [^tomo1][^tomo2][^tomo3] |
 | Monogram | Seed (participated, $40M; DST Global and Lux Capital co-led) | 2026-07-07 | AI / Consumer AI / Mobile | Active | [^monogram1][^monogram2][^monogram3] |
 | Enigma | Seed (participated, $71M; Index Ventures and Ribbit Capital co-led) | 2026-07-27 | Robotics / AI / Foundation Models | Active | [^enigma1][^enigma2] |
+| Intelligence (Design Arena) | Seed (participated, $7.9M; Index Ventures led; Sarah Guo and Mike Vernal from Conviction) | 2026-08-03 | AI / Evaluation / Benchmarking | Active | [^intel1][^intel2] |
 
 Note: Investment years are approximate based on company founding timelines. This table represents approximately 22 of ~32 total investments (~69%); the remainder are in stealth or undisclosed [^3][^5].
 
@@ -233,3 +234,6 @@ No independently sourced founder testimonials found. The firm's website describe
 [^monogram3]: Eren Bali, X post announcing Monogram launch and $40M seed round, July 7, 2026. Accessed July 2026. https://x.com/erenbali/status/2074502671600672930 — Founder's public announcement of the round led by DST and Lux Capital.
 [^enigma1]: "Enigma raises $71M to make controlling a robot as easy as adjusting the volume," TechCrunch, July 27, 2026. Accessed July 28, 2026. https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/ — Article body confirms $71M seed; names Conviction Partners (Sarah Guo) as a participant in the round co-led by Index Ventures and Ribbit Capital.
 [^enigma2]: "Enigma raises $71M to develop foundation models for robots," SiliconANGLE, July 27, 2026. Accessed July 28, 2026. https://siliconangle.com/2026/07/27/enigma-raises-71m-develop-foundation-models-robots/ — Independent tier-1 confirmation of $71M seed with Conviction Partners participation.
+
+[^intel1]: "Design Arena creators raise $7.9 million to bring taste to AI models," TechCrunch, August 3, 2026. Accessed August 6, 2026. https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/ — Names Conviction (Sarah Guo and Mike Vernal) among participants in Intelligence's $7.9M Index-led seed.
+[^intel2]: "Intelligence Raises $7.9M in Seed Funding," FinSMEs, August 2026. Accessed August 6, 2026. https://www.finsmes.com/2026/08/intelligence-raises-7-9m-in-seed-funding.html — Independent confirmation of Conviction's participation in the Intelligence seed.

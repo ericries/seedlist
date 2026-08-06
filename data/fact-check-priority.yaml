@@ -1,4 +1,24 @@
 priority:
+- slug: bessemer-venture-partners
+  type: firm
+  reason: "co-led InRisk Labs Series A (2026-08-05)"
+  added: 2026-08-06
+- slug: index-ventures
+  type: firm
+  reason: "led Intelligence/Design Arena seed (2026-08-03)"
+  added: 2026-08-06
+- slug: conviction
+  type: firm
+  reason: "participated in Intelligence/Design Arena seed (2026-08-03)"
+  added: 2026-08-06
+- slug: a-star-capital
+  type: firm
+  reason: "participated in Intelligence/Design Arena seed (2026-08-03)"
+  added: 2026-08-06
+- slug: hustle-fund
+  type: firm
+  reason: "participated in Orbital Sentry pre-seed (2026-08-03)"
+  added: 2026-08-06
 - slug: insight-partners
   type: firm
   reason: 'Fact-spec sweep 2026-07-31: (1) Verified Spur Intelligence USD 200M investment (2026-07-28, Insight-led) via 3 primary sources (Spur press release, TechCrunch, FinSMEs); added third source. Row already accurate; upgraded citation count. (2) CORRECTED FALSE ATTRIBUTION: CAIS Series D was previously listed as ''led'' by Insight Partners on this profile — but 3 primary sources (CAIS press release, Fintech Global, businesswire) confirm Vista Equity Partners led, and Insight Partners is NOT a participant or existing shareholder. REMOVED CAIS row from insight-partners.md Portfolio table and deleted orphan cais1/cais2 footnotes.'

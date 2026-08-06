@@ -95,6 +95,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 ~unknown| Sesame | — | — | AI/Consumer | Active [^1] |
 ~unknown| Whop | — | — | E-commerce | Active [^1] |
 | Sauron | Seed ($18M, participated) | 2024-12-05 | Home Security | Active [^13][^28][^29][^30] |
+| Intelligence (Design Arena) | Seed ($7.9M, participated; Index Ventures led) | 2026-08-03 | AI/Evaluation/Benchmarking | Active [^intel1][^intel2] |
 
 ### Pre-Formation Investments (Kevin Hartz personal angel portfolio)
 
@@ -201,3 +202,6 @@ No independently sourced founder testimonials found. The firm's website does not
 [^39]: TechCrunch, "Mortgage as an employee benefit? Kleiner Perkins leads $23.5M Series A for Multiply Mortgage," March 19, 2025. Accessed July 2026. https://techcrunch.com/2025/03/19/mortgage-as-an-employee-benefit-kleiner-perkins-leads-23-5m-series-a-for-multiply-mortgage/ — Contemporaneous tech-press confirmation. Confirms A* participated in Series A and previously led the $3.5M seed round in early 2022. Multiply co-founder Gautam Gupta is a general partner at A*.
 
 [^40]: FinSMEs, "Multiply Mortgage Raises $23.5M in Series A Funding," March 19, 2025. Accessed July 2026. https://www.finsmes.com/2025/03/multiply-mortgage-raises-23-5m-in-series-a-funding.html — Third independent confirmation of amount, lead, and participants.
+
+[^intel1]: "Design Arena creators raise $7.9 million to bring taste to AI models," TechCrunch, August 3, 2026. Accessed August 6, 2026. https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/ — Names A* among participants in Intelligence's $7.9M Index-led seed.
+[^intel2]: "Intelligence Raises $7.9M in Seed Funding," FinSMEs, August 2026. Accessed August 6, 2026. https://www.finsmes.com/2026/08/intelligence-raises-7-9m-in-seed-funding.html — Independent confirmation of A* participation.
