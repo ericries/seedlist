@@ -261,7 +261,8 @@ vague_facts:
   line: '| Trilobio | Pre-Seed (USD 3M; Argon Ventures + Lowercarbon Capital named as pre-seed leads per company communications; '
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-06: SCANNER FALSE POSITIVE on column 4 (Source column contains multiple footnotes [^4][^38][^65]). Row is fully specific and accurate: Pre-Seed USD 3M with Argon Ventures + Lowercarbon Capital as pre-seed leads per company communications; 1517 Fund confirmed as investor in the "over USD 11M raised" summary from the 2025-05-05 seed announcement but not independently named in pre-seed primary press. Re-verified via SynBioBeta [^65] (2025-05-05) which explicitly names 1517 Fund alongside Julian Capital, Juniper, Future Labs Capital, Alumni Ventures, Angel Squad, Sequel, Nucleus Capital, Gaingels in cumulative "over $11 million" total, corroborating BusinessWire [^38] company release. Row annotation already flags that 1517 is not in pre-seed primary press — attribution chain is fully transparent. No profile change needed.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Solideon
@@ -271,7 +272,8 @@ vague_facts:
   line: '| Solideon | Pre-Seed (oversubscribed beyond USD 5M initial target; 8090 Industries + 1517 Fund + Stellar Ventures + Boo'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-06: SCANNER FALSE POSITIVE on column 4 (Source column contains 5 footnotes [^23][^39][^73][^74][^75]). Row is fully specific and accurate: Pre-Seed oversubscribed beyond USD 5M initial target on 2024-07-17, no single lead, full participant list (8090 Industries + 1517 Fund + Stellar Ventures + Boost VC + 10X Founders + Pathbreaker Ventures + AIN Ventures + Tiny VC + MD One Ventures + Reinforced Ventures + Techstars Space + Capital Factory + Vibe Capital + Gaingels). Re-verified via Yahoo Finance/AccessNewswire [^73] (2024-07-17), which explicitly names 1517 Fund among all 14 participants verbatim. Cross-corroborated by AccessNewswire canonical URL [^74] and 3D Adept Media [^75]. No profile change needed.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Ceragen
@@ -281,7 +283,8 @@ vague_facts:
   line: '| Ceragen | Seed (co-led with Divergent Capital; USD 2.7M CAD / USD 2M USD; Ajira Ventures participated; brings total fu'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-06: SCANNER FALSE POSITIVE on column 4 (Source column contains 4 footnotes [^24][^40][^76][^77]). Row is fully specific and accurate: Seed co-led with Divergent Capital on 2024-07-16, USD 2.7M CAD / USD 2M USD, Ajira Ventures participated, brings total funding to USD 4.8M CAD / USD 3.5M USD including prior Velocity Fund + Ontario Centre of Innovation backing; 1517 named as "existing investor". Re-verified via web search returning 3 independent primary sources: BetaKit "Ceragen closes $2.7 million CAD" article, Velocity Incubator + Waterloo News "Fresh funding to help food security startup Ceragen bloom" (July 2024), and iGrowNews. All name 1517 Fund and Divergent Capital as co-leads with Ajira Ventures participating. No profile change needed.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Miist Therapeutics
