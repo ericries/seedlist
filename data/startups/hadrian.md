@@ -73,6 +73,26 @@ firms:
   round: series-b
   slug: cubit-capital
   year: 2024
+- date: 2026-08-06
+  round: series-d-extension
+  slug: valor-equity-partners
+  year: 2026
+- date: 2026-08-06
+  round: series-d-extension
+  slug: altimeter-capital
+  year: 2026
+- date: 2026-08-06
+  round: series-d-extension
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-08-06
+  round: series-d-extension
+  slug: founders-fund
+  year: 2026
+- date: 2026-08-06
+  round: series-d-extension
+  slug: lux-capital
+  year: 2026
 founded: 2020
 founders:
 - name: Chris Power
@@ -107,7 +127,7 @@ investors:
   round: series-b
   slug: ben-kohlmann
   year: 2024
-last_researched: 2026-03-30
+last_researched: 2026-08-06
 location: Los Angeles, CA
 name: Hadrian
 sector:
@@ -119,7 +139,7 @@ slug: hadrian
 stage_latest: Series D
 status: published
 status_company: active
-total_raised: $611M
+total_raised: ~$2B
 type: startup
 website: https://www.hadrian.co
 ---
@@ -141,8 +161,9 @@ Hadrian operates a 100,000-square-foot facility in Torrance, California ("Factor
 | 2024-02-21 | Series B | $117M (equity + debt) | Not publicly named (RTX Ventures new-strategic; multiple returning investors participated) | RTX Ventures (new), Construct Capital, WCM Investment Management, Bracket Capital, Shrug Capital, Lux Capital, Andreessen Horowitz, Founders Fund, S&A, Silent Ventures, Cubit Capital, Caffeinated Capital, Tru Arrow Partners [^9][^10] |
 | 2025-07-17 | Series C | $260M (incl. $150M debt via Morgan Stanley) | Founders Fund, Lux Capital | Altimeter Capital, D1 Capital Partners, StepStone Group, 1789 Capital, Andreessen Horowitz, Construct Capital [^3][^11] |
 | 2026-01-09 | Series D | Undisclosed (at $1.6B valuation) | T. Rowe Price Associates | Altimeter Capital, D1 Capital Partners, StepStone Group, 1789 Capital, Founders Fund, Lux Capital, Andreessen Horowitz, Construct Capital [^12][^13][^16][^17] |
+| 2026-08-06 | Series D (extension) | $1.37B (at $7.87B valuation) | WCM Investment Management, Washington Harbour Partners, Valor Equity Partners, 137 Ventures, Baillie Gifford, JPMorganChase Strategic Investment Group | 1789 Capital, Morgan Stanley Wealth Management, Apollo, T. Rowe Price, CapitalG, Andreessen Horowitz, Founders Fund, Lux Capital, Altimeter, Construct Capital [^18][^19][^20][^21] |
 
-Total funding raised: approximately $611 million [^13]. Valuation as of January 2026: $1.6 billion (Series D); Hadrian did not disclose the amount raised in the Series D round [^12][^13][^16].
+Total funding raised to date: approximately $2 billion [^18][^19]. Valuation as of August 2026: $7.87 billion [^18][^19][^20].
 
 ## What Investors Say
 
@@ -164,6 +185,8 @@ Total funding raised: approximately $611 million [^13]. Valuation as of January 
 
 "Everyone leaves at 5 or 5:30 and the machines all run themselves overnight." -- Chris Power, CEO & Founder, Contrary Research profile [^2]
 
+"Production is now the frontline of deterrence. America's ability to lead will depend on whether we can build, train, and scale faster. This financing allows Hadrian to accelerate building the Factories of the Future, expand into new mission-critical production capabilities, and invest in the technicians and engineers who will rebuild America's industrial base." -- Chris Power, Founder and CEO, Hadrian press release, August 6, 2026 [^18]
+
 ## Sources
 
 [^1]: TechCrunch, "Hadrian raises $260M to build out automated factories for space and defense parts," July 17, 2025. https://techcrunch.com/2025/07/17/hadrian-raises-260m-to-build-out-automated-factories-for-space-and-defense-parts/
@@ -183,3 +206,7 @@ Total funding raised: approximately $611 million [^13]. Valuation as of January 
 [^15]: Not Boring by Packy McCormick, "Hadrian: Ex Machina Ad Lunam," 2022. https://www.notboring.co/p/hadrian-ex-machina-ad-lunam
 [^16]: Finsmes, "Hadrian Raises Funding at $1.6 Billion Valuation," January 2026. https://www.finsmes.com/2026/01/hadrian-raises-funding-at-1-6-billion-valuation.html
 [^17]: Pulse 2.0, "Hadrian Raises Funding At $1.6 Billion Valuation To Scale New U.S. Factories," January 2026. https://pulse2.com/hadrian-raises-funding-at-1-6-billion-valuation-to-scale-new-u-s-factories/
+[^18]: PR Newswire, "Hadrian Raises $1.37B Series D to Build Highly Automated Factories to Accelerate America's Industrial Renewal," August 6, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/hadrian-raises-1-37b-series-d-to-build-highly-automated-factories-to-accelerate-americas-industrial-renewal-302844408.html
+[^19]: TechCrunch, "Defense tech Hadrian raises $1.37B at $8B valuation," August 6, 2026. Accessed August 2026. https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/
+[^20]: Bloomberg, "Defense Startup Hadrian Valued at $7.87 Billion in New Round," August 6, 2026. Accessed August 2026. https://www.bloomberg.com/news/articles/2026-08-06/defense-startup-hadrian-valued-at-7-87-billion-in-new-round
+[^21]: Washington Technology, "Hadrian fetches $1.37B to add more automation-intensive factories," August 6, 2026. Accessed August 2026. https://www.washingtontechnology.com/companies/2026/08/hadrian-fetches-137b-add-more-automation-intensive-factories/415251/

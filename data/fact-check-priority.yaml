@@ -4466,3 +4466,23 @@ priority:
   type: investor
   reason: "appeared in Hulp Seed (2026-08-05), $2.6M"
   added: 2026-08-06
+- slug: valor-equity-partners
+  type: firm
+  reason: "co-led Hadrian Series D extension $1.37B at $7.87B valuation (2026-08-06)"
+  added: 2026-08-06
+- slug: altimeter-capital
+  type: firm
+  reason: "participated in Hadrian Series D extension $1.37B (2026-08-06)"
+  added: 2026-08-06
+- slug: andreessen-horowitz
+  type: firm
+  reason: "participated in Hadrian Series D extension $1.37B (2026-08-06)"
+  added: 2026-08-06
+- slug: founders-fund
+  type: firm
+  reason: "participated in Hadrian Series D extension $1.37B (2026-08-06)"
+  added: 2026-08-06
+- slug: lux-capital
+  type: firm
+  reason: "participated in Hadrian Series D extension $1.37B (2026-08-06)"
+  added: 2026-08-06
