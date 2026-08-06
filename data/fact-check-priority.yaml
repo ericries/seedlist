@@ -4284,16 +4284,22 @@ priority:
   added: 2026-08-04
 - slug: meteora-capital
   type: firm
-  reason: "sole investor Fusemachines convertible + warrants (2026-08-04), up to $10.66M"
+  reason: "sole investor Fusemachines convertible + warrants (2026-08-04), up to $10.66M. Fact-spec sweep 2026-08-05: no meteora-capital firm profile exists yet (queue item, not fact issue). Verified Fusemachines row via 4 primary sources: StockTitan, GlobeNewswire, Manila Times syndication, AND SEC EDGAR Form 8-K exhibit 99.1 (primary regulatory filing). Added SEC 8-K as [^4] to fusemachines.md. Confirmed: $2.5M convertible note + 2.05M warrants at $4.20/share = up to $10.66M total, no reset/ratchet provisions, from existing investor Meteora Capital."
   added: 2026-08-04
+  status: resolved
+  resolved: 2026-08-05
 - slug: outlander-vc
   type: firm
-  reason: "led Claryx pre-seed (2026-08-04), $3.5M"
+  reason: "led Claryx pre-seed (2026-08-04), $3.5M. Fact-spec sweep 2026-08-05: Claryx row on outlander-vc.md verified via 3+ independent primary sources — Claryx company blog [^1], Tech Startups [^2], BusinessWire [^3/^27]. Additional independent confirmations: GenomeWeb, Pulse 2.0, FinSMEs, BetaKit, Las Vegas Sun. AJ Smith quote 'Every building people share is a transmission system running invisibly, and Claryx has made it possible to finally see it' matches verbatim across sources. Confirmed: $3.5M pre-seed, 2026-08-04, Outlander VC lead (AJ Smith), co-investors Company Ventures, Boost VC, Neon, Mana Ventures, 640 Oxford, Precursor. No changes needed."
   added: 2026-08-05
+  status: resolved
+  resolved: 2026-08-05
 - slug: greenoaks
   type: firm
-  reason: "co-led Decade seed (2026-08-04), $85M (LatAm's largest ever seed)"
+  reason: "co-led Decade seed (2026-08-04), $85M (LatAm's largest ever seed). Fact-spec sweep 2026-08-05: Decade row on greenoaks.md verified via 3+ independent primary sources — BusinessWire [^29], LatamList, The Next Web (all in decade.md sources). Additional independent confirmations: Morningstar syndication, Yahoo Finance, FinSMEs, BriefGlance, Financial IT. Neil Mehta quote 'Investing never got its turn. Now it will.' matches verbatim across sources. Confirmed: $85M seed, 2026-08-04, backers Greenoaks + Benchmark + Diffusion, founders Vitor Olivier (ex-Nubank CTO) and Felipe Meneses (Hyperplane founder, Brazil's first Thiel Fellow). No changes needed."
   added: 2026-08-05
+  status: resolved
+  resolved: 2026-08-05
 - slug: benchmark
   type: firm
   reason: "co-led Decade seed (2026-08-04), $85M"
