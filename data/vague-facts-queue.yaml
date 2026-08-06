@@ -171491,7 +171491,8 @@ vague_facts:
   line: '| 2022-12-06 | Series J | $14.2M | Undisclosed | Bessemer Venture Partners, Experior Venture Fund, Granite Ventures, Sha'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_note: 'Fact-spec sweep 2026-08-06: Confirmed via SEC Form D (Accession 0001441408-22-000001, filed 2022-12-06) as PRIMARY source. Date of First Sale 2022-11-10; Total Offering $14,250,000; Total Sold $14,169,650; 35 investors. Filing lists only executive officers (Jeff Smith/CEO, Bill Bradford/President, Laurent Saurel/CFO) and directors (David Cowan/Bessemer, Standish O''Grady/Granite, Jason Pressman/Shasta, plus Luanne Calvert, Thomas Ryan, Buwang Xia, Ken Rudin, Betsey Nelson) as related persons. Form D never names participating investors — only related persons. No contemporaneous press coverage found across TechCrunch, Music Business Worldwide, Music Ally, Billboard, or general web (round appears to be an insider/pro-rata continuation from existing backers). No lead disclosed in any primary source; Crunchbase and CB Insights aggregators list Bessemer/Experior/Granite/Shasta as participants but name no lead. Row retained as "Undisclosed" with SEC Form D added as [^16] primary source citation and explanatory note appended. Do NOT guess lead.'
 - profile: startups/snabbit
   profile_name: Snabbit
   company: 2024-05

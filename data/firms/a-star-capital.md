@@ -95,7 +95,7 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 ~unknown| Sesame | — | — | AI/Consumer | Active [^1] |
 ~unknown| Whop | — | — | E-commerce | Active [^1] |
 | Sauron | Seed ($18M, participated) | 2024-12-05 | Home Security | Active [^13][^28][^29][^30] |
-| Intelligence (Design Arena) | Seed ($7.9M, participated; Index Ventures led) | 2026-08-03 | AI/Evaluation/Benchmarking | Active [^intel1][^intel2] |
+| Intelligence (Design Arena) | Seed ($7.9M, participated; Index Ventures led) | 2026-08-03 | AI/Evaluation/Benchmarking | Active [^intel1][^intel2][^intel3] |
 
 ### Pre-Formation Investments (Kevin Hartz personal angel portfolio)
 
@@ -205,3 +205,4 @@ No independently sourced founder testimonials found. The firm's website does not
 
 [^intel1]: "Design Arena creators raise $7.9 million to bring taste to AI models," TechCrunch, August 3, 2026. Accessed August 6, 2026. https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/ — Names A* among participants in Intelligence's $7.9M Index-led seed.
 [^intel2]: "Intelligence Raises $7.9M in Seed Funding," FinSMEs, August 2026. Accessed August 6, 2026. https://www.finsmes.com/2026/08/intelligence-raises-7-9m-in-seed-funding.html — Independent confirmation of A* participation.
+[^intel3]: "Design Arena maker Intelligence raises $7.9M seed at $60M ARR," AI Weekly, August 2026. Accessed August 6, 2026. https://aiweekly.co/alerts/design-arena-maker-intelligence-raises-79m-seed-at-60m-arr — Third independent confirmation: $7.9M seed led by Index Ventures with participation from Conviction (Sarah Guo and Mike Vernal), A*, and Valkyrie. Also verified via founder Grace Li first-person announcement on X (https://x.com/grx_xce/status/2084361692792934488, 2026-08-03) which explicitly names @A_StarVC as a participant.

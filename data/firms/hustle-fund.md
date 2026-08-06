@@ -114,7 +114,7 @@ The following table represents a sample of Hustle Fund's portfolio. The firm has
 | Sage Haven | Pre-Seed | 2026 | Consumer/Kids Safety | Active [^7] |
 | Keebler Health | Series A | 2026 | Healthcare/AI | Active [^27] |
 | Clouted | Seed (participant) | 2026-05-20 | AI/Marketing/Video | Active [^29] |
-| Orbital Sentry | Pre-Seed (participated; Ridgeline led; Superorganism co-invested) | 2026-08-03 | Space/Defense/IR Sensing | Active [^orbsen1][^orbsen2] |
+| Orbital Sentry | Pre-Seed (participated; Ridgeline led; Superorganism co-invested) | 2026-08-03 | Space/Defense/IR Sensing | Active [^orbsen1][^orbsen2][^orbsen3] |
 
 The firm reports 3 unicorns, 1 IPO, and 29 acquisitions across the full portfolio [^7].
 
@@ -186,3 +186,4 @@ Hustle Fund reports a Net Promoter Score (NPS) of 93 with its portfolio founders
 
 [^orbsen1]: BusinessWire (via Morningstar), "Orbital Sentry Closes Pre-Seed Round Led by Ridgeline," August 3, 2026. Accessed August 6, 2026. https://www.morningstar.com/news/business-wire/20260803935611/orbital-sentry-closes-pre-seed-round-led-by-ridgeline — Names Hustle Fund as a participant in the Ridgeline-led pre-seed.
 [^orbsen2]: FinSMEs, "Orbital Sentry Closes Pre-Seed Funding," August 2026. Accessed August 6, 2026. https://www.finsmes.com/2026/08/orbital-sentry-closes-pre-seed-funding.html — Independent confirmation of Hustle Fund participation in Orbital Sentry pre-seed.
+[^orbsen3]: Pulse 2.0, "Orbital Sentry Raises Pre-Seed Funding For Geosynchronous Infrared Imaging Platform," August 3, 2026. Accessed August 6, 2026. https://pulse2.com/orbital-sentry-raises-pre-seed-funding-for-geosynchronous-infrared-imaging-platform/ — Third independent primary source confirms Ridgeline-led pre-seed with Superorganism and Hustle Fund participation; includes direct quotes from Ryan Clinton (Ridgeline, Managing Partner), Tom Quigley (Superorganism, GP), and CEO Dr. Mark Keremedjiev.

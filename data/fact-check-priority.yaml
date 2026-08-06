@@ -21,10 +21,16 @@ priority:
   type: firm
   reason: "participated in Intelligence/Design Arena seed (2026-08-03)"
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-08-06
+  resolution_note: 'Fact-spec sweep 2026-08-06: Verified A* participated in Intelligence (Design Arena) $7.9M seed on 2026-08-03 (Index Ventures led) via 3 primary sources: TechCrunch [^intel1] (2026-08-03), FinSMEs [^intel2], and AI Weekly [^intel3]. Also cross-validated via founder Grace Li first-person X announcement (https://x.com/grx_xce/status/2084361692792934488) which explicitly names @A_StarVC. Added third citation [^intel3] to a-star-capital.md portfolio row for Intelligence/Design Arena. Existing row on line 98 already showed correct sector, stage, date, amount, and Index lead. No other changes needed — a-star-capital.md is fully sourced.'
 - slug: hustle-fund
   type: firm
   reason: "participated in Orbital Sentry pre-seed (2026-08-03)"
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-08-06
+  resolution_note: 'Fact-spec sweep 2026-08-06: Verified Hustle Fund participated in Orbital Sentry pre-seed on 2026-08-03 (Ridgeline led, Superorganism co-invested) via 3 primary sources: BusinessWire via Morningstar [^orbsen1], FinSMEs [^orbsen2], and Pulse 2.0 [^orbsen3] (which includes direct quotes from Ryan Clinton/Ridgeline, Tom Quigley/Superorganism, and CEO Dr. Mark Keremedjiev). Added third citation [^orbsen3] to hustle-fund.md portfolio row. Amount undisclosed across all sources. Row is fully sourced.'
 - slug: insight-partners
   type: firm
   reason: 'Fact-spec sweep 2026-07-31: (1) Verified Spur Intelligence USD 200M investment (2026-07-28, Insight-led) via 3 primary sources (Spur press release, TechCrunch, FinSMEs); added third source. Row already accurate; upgraded citation count. (2) CORRECTED FALSE ATTRIBUTION: CAIS Series D was previously listed as ''led'' by Insight Partners on this profile — but 3 primary sources (CAIS press release, Fintech Global, businesswire) confirm Vista Equity Partners led, and Insight Partners is NOT a participant or existing shareholder. REMOVED CAIS row from insight-partners.md Portfolio table and deleted orphan cais1/cais2 footnotes.'

@@ -67,7 +67,7 @@ Smule is a social music platform founded in 2008 by Jeff Smith and Stanford prof
 | 2016-06-01 | Series G | $22M | Adams Street Partners | Not named in primary sources; SEC Form D discloses only related persons (executives), not investors [^7] [^15] |
 | May 2017 | Series H | $54M | Tencent | Adams Street Partners, Bessemer Venture Partners, Floodgate, Franklin Templeton, Shasta Ventures [^2] |
 | Oct 2018 | Series I | $20M | Times Bridge | — [^8] |
-| 2022-12-06 | Series J | $14.2M | Undisclosed | Bessemer Venture Partners, Experior Venture Fund, Granite Ventures, Shasta Ventures [^3] [^14] |
+| 2022-12-06 | Series J | $14.2M | Undisclosed (no lead named in primary sources; SEC Form D discloses only related persons) | Bessemer Venture Partners, Experior Venture Fund, Granite Ventures, Shasta Ventures [^3] [^14] [^16] |
 
 ## What Investors Say
 
@@ -102,3 +102,4 @@ Smule is a social music platform founded in 2008 by Jeff Smith and Stanford prof
 [^13]: Music Ally, "Music apps firm Smule raises $16.6m in latest funding round," June 23, 2014. https://musically.com/2014/06/23/music-apps-firm-smule-raises-16-6m-in-latest-funding-round/
 [^14]: CB Insights, Smule Financials (Series J, December 6, 2022), accessed April 2026. https://www.cbinsights.com/company/smule/financials
 [^15]: SEC Form D (Notice of Exempt Offering of Securities), Smule, Inc. (CIK 0001441408), filed June 16, 2016. Accession 0001441408-16-000003. https://www.sec.gov/Archives/edgar/data/1441408/000144140816000003/xslFormDX01/primary_doc.xml — Primary source: Date of First Sale 2016-06-01; Total Offering Amount $22,185,434 (Equity); Total Amount Sold $22,005,588. Filing lists only executive officers/directors as related persons; participating investors are not named.
+[^16]: SEC Form D (Notice of Exempt Offering of Securities), Smule, Inc. (CIK 0001441408), filed December 6, 2022. Accession 0001441408-22-000001. https://www.sec.gov/Archives/edgar/data/1441408/000144140822000001/primary_doc.xml — Primary source: Date of First Sale 2022-11-10; Total Offering Amount $14,250,000 (Equity); Total Amount Sold $14,169,650; 35 investors already participated. Filing lists only executive officers/directors as related persons (Jeff Smith/CEO, Bill Bradford/President, Laurent Saurel/CFO; directors include David Cowan of Bessemer, Standish O'Grady of Granite, Jason Pressman of Shasta, plus Luanne Calvert, Thomas Ryan, Buwang Xia, Ken Rudin, Betsey Nelson); participating investors are not named. No lead investor disclosed in primary sources; no contemporaneous press coverage located.
