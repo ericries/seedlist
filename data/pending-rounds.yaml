@@ -32,6 +32,41 @@ pending_rounds:
   processed_date: '2026-08-06'
   processed_note: Created data/startups/chargepoly.md; Meridiam-led €23M growth round
     (2026-07-27) with Fideve Groupe; queued Meridiam firm profile
+- title: Omilia raises $67M to scale its customer support platform
+  url: https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/
+  source: techcrunch
+  date_found: '2026-08-06'
+  parsed_company: Omilia
+  parsed_amount: $67M
+  parsed_round: null
+  status: pending
+- title: Inevitable AI Group raises €5.2 million from Aleph to launch AI-native SaaS
+    companies
+  url: https://www.eu-startups.com/2026/08/inevitable-ai-group-raises-e5-2-million-from-aleph-to-launch-ai-native-saas-companies/
+  source: eu-startups
+  date_found: '2026-08-06'
+  parsed_company: Inevitable AI Group
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Finland’s SeeTrue Technologies raises €2.2 million to commercialise low-power
+    eye-sensing architecture
+  url: https://www.eu-startups.com/2026/08/finlands-seetrue-technologies-raises-e2-2-million-to-commercialise-low-power-eye-sensing-architecture/
+  source: eu-startups
+  date_found: '2026-08-06'
+  parsed_company: Finland’s SeeTrue Technologies
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Crawley-based Naked Energy secures €10.35 million to build UK solar-thermal
+    technology manufacturing facility
+  url: https://www.eu-startups.com/2026/08/crawley-based-naked-energy-secures-e10-35-million-to-build-uk-solar-thermal-technology-manufacturing-facility/
+  source: eu-startups
+  date_found: '2026-08-06'
+  parsed_company: Crawley-based Naked Energy
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Indian EV startup River raises $120M Series C to scale production, launch
     more models
   url: https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/

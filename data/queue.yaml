@@ -46323,3 +46323,16 @@ queue:
   discovered_from: intelligence-ai
   source: Co-founder and CEO of Intelligence/Design Arena; raised $7.9M Index-led
     seed (2026-08-03)
+- name: Expedition Growth Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: omilia
+- name: Oliver Thomas
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Expedition Growth Capital
+  discovered_from: omilia

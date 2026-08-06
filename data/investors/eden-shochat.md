@@ -9,9 +9,9 @@ stage_focus: [seed, series-a, series-b]
 sector_focus: [fintech, enterprise-saas, logistics, insurtech, consumer-internet, AI]
 check_size: "$250K-$2M"
 last_verified_investment:
-  date: 2025-11
-  company: "Jiga"
-  round: "Series A"
+  date: 2026-08-06
+  company: "Inevitable AI Group"
+  round: "Pre-Seed"
 social:
   twitter: "@eden"
   linkedin: "linkedin.com/in/edens"
@@ -109,6 +109,7 @@ Investments made through Aleph (co-founded 2013) and Genesis Partners (2010–20
 | Trullion | ~2021 | Early | Fintech / accounting | Active | [^15] |
 | Sightful | ~2022 | Early | AR / deep tech | Active | [^15] |
 | NextSilicon | ~2020 | Early | HPC / semiconductors | Active | [^15] |
+| Inevitable AI Group | 2026 | Pre-Seed | AI / venture studio | Active ($6M pre-seed, Aleph led; Shochat quoted) | [^35] |
 
 *This table represents approximately 30 of 62+ known Aleph portfolio investments plus 3 Genesis-era investments. Years marked with ~ are approximate based on company founding dates or press coverage; exact investment dates were not confirmed for all entries.*
 
@@ -172,3 +173,4 @@ No independently sourced founder testimonials found through dedicated search. Th
 [^32]: Eden Shochat, "Networks," Aleph blog on Medium, accessed March 2026. https://medium.com/aleph-vc/networks-f312f338882e
 [^33]: Eden Shochat, Medium posts, accessed March 2026. https://medium.com/@eden
 [^34]: Eden Shochat, LinkedIn profile, accessed March 2026. https://www.linkedin.com/in/edens/
+[^35]: Tech Startups, "Inevitable AI Group Raises $6M From Aleph to Launch AI-Native SaaS Companies," August 6, 2026, accessed August 2026. https://techstartups.com/2026/08/06/inevitable-ai-group-raises-6m-from-aleph-to-launch-ai-native-saas-companies/

@@ -1,4 +1,12 @@
 priority:
+- slug: aleph
+  type: firm
+  reason: "appeared in Inevitable AI Group Pre-Seed (2026-08-06), $6M"
+  added: 2026-08-06
+- slug: eden-shochat
+  type: investor
+  reason: "quoted in Inevitable AI Group Pre-Seed (2026-08-06), $6M Aleph-led"
+  added: 2026-08-06
 - slug: bessemer-venture-partners
   type: firm
   reason: 'Fact-spec sweep 2026-08-06: Verified Bessemer co-led InRisk Labs Series A ($27M, 2026-08-05, alongside Northpoint Capital) via 3 primary sources (Entrackr, DealStreetAsia, BW Disrupt). Portfolio row already existed with 2 citations; added third citation [^inrisk3] (BW Disrupt) and enriched row with Vishal Gupta partner name + seed follow-on detail. Added Vishal Gupta and Sameer Brij Verma investor quotes to InRisk Labs startup profile What Investors Say, and Malay Kumar Poddar (EarthRe CEO) founder quote to What Founders Say.'
