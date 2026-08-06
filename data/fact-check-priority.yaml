@@ -4454,3 +4454,15 @@ priority:
   type: startup
   reason: "new profile — Meridiam-led €23M growth round (2026-07-27)"
   added: 2026-08-06
+- slug: gokul-rajaram
+  type: investor
+  reason: "appeared in Naïve Series A (2026-08-06), $28.5M"
+  added: 2026-08-06
+- slug: y-combinator
+  type: firm
+  reason: "appeared in Naïve Series A (2026-08-06), $28.5M"
+  added: 2026-08-06
+- slug: yashish-dahiya
+  type: investor
+  reason: "appeared in Hulp Seed (2026-08-05), $2.6M"
+  added: 2026-08-06

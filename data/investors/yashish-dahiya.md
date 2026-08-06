@@ -11,8 +11,8 @@ social:
   twitter: "@YashishDahiya"
   linkedin: "linkedin.com/in/yashish-dahiya-145495261"
 last_verified_investment:
-  date: 2025-09-03
-  company: "PB Healthcare Services"
+  date: 2026-08-05
+  company: "Hulp"
   round: "Seed"
 status: published
 last_researched: 2026-07-30
@@ -50,6 +50,7 @@ Dahiya has not published a formal investing thesis. His public commentary focuse
 | Sugmya Finance | 2024-03 | Seed ($3M) | [^7] |
 | ZFunds | 2024-12-03 | Seed (₹25 Cr / ~$3M) | [^10] |
 | PB Healthcare Services | 2025-09-03 | Seed (₹52.2 Cr personal stake in $218M round) | [^8] |
+| Hulp | 2026-08-05 | Seed ($2.6M; angel participant alongside Sparrow Capital, BITKRAFT Ventures, DeVC) | [^11] [^12] |
 
 ## In Their Own Words
 
@@ -77,3 +78,5 @@ No independently sourced founder testimonials found. Portfolio founders (Manish 
 [^8]: Entrackr, "Decoding PB Healthcare's $218 Mn seed round, shareholding pattern and valuation," September 2025. Accessed July 2026. https://entrackr.com/decoding/decoding-pb-healthcares-218-mn-seed-round-shareholding-pattern-and-valuation-9782051
 [^9]: YourStory, "Coronavirus: PolicyBazaar's Yashish Dahiya says startups must build cash reserves," April 2020. Accessed July 2026. https://yourstory.com/2020/04/coronavirus-policybazaar-founder-yashish-dahiya-startups-cash-reserves
 [^10]: Inc42, "Wealthtech Platform ZFunds Bags INR 25 Cr To Boost Its Tech Stack," December 3, 2024. Accessed July 2026. https://inc42.com/buzz/wealthtech-platform-zfunds-bags-inr-25-cr-funding-to-boost-its-tech-stack/
+[^11]: Inc42, "AI Concierge Startup Hulp Raises $2.6 Mn From Sparrow Capital, BITKRAFT," August 5, 2026. Accessed August 2026. https://inc42.com/buzz/ai-concierge-startup-hulp-raises-2-6-mn-from-sparrow-capital-bitkraft/
+[^12]: Entrackr, "Personal assistance startup Hulp secures $2.6 Mn seed funding," August 5, 2026. Accessed August 2026. https://entrackr.com/snippets/personal-assistance-startup-hulp-secures-26-mn-seed-funding-12230169
