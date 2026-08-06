@@ -68979,7 +68979,9 @@ vague_facts:
   line: '| DualEntry | 2025 | Seed | [^19] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-06
+  resolution_note: 'Fact-spec sweep 2026-08-06: Verified via 3 primary sources (DualEntry press release [^de-a1] 2025-10-02, PR Newswire [^de-a2] 2025-10-02, Contrary Research report [^de-a3]). Contrary participated in DualEntry seed (2024-05, USD 6M with Tim Dilley of NetSuite as angel) AND in the Series A (2025-10-02, USD 90M co-led by Lightspeed + Khosla; GV and Vesey Ventures also participated; $415M post-money). Row rewritten with both rounds. 3 new footnotes added on eric-tarczynski.md. Row also tightened on contrary.md with same 3 sources.'
 - profile: investors/eric-tarczynski
   profile_name: Eric Tarczynski
   company: Voltra
@@ -68989,7 +68991,9 @@ vague_facts:
   line: '| Voltra | 2025 | Pre-seed | [^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-06
+  resolution_note: 'Fact-spec sweep 2026-08-06: Verified Voltra pre-seed as 2025-05-14, USD 1.8M, led by Contrary with Hanover Capital and Velocity Fund participating; Waterloo-based; founders Alexander Stratmoen and Aryan Afrouzi. 3 primary sources: BusinessWire/Yahoo Finance [^voltra-p1], Tech Startups (independent) via new confirmation, and Velocity Incubator institutional primary [^voltra-p2]. Row rewritten on eric-tarczynski.md and contrary.md.'
 - profile: investors/eric-tarczynski
   profile_name: Eric Tarczynski
   company: Doss
@@ -173101,7 +173105,9 @@ vague_facts:
   line: '| DualEntry | Seed | 2025 | Fintech/AI | Active [^17] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-06
+  resolution_note: 'Fact-spec sweep 2026-08-06: CORRECTED "Seed 2025" — the 2025 date reflected the Series A announcement, not the seed. Contrary participated in DualEntry seed in 2024-05 (USD 6M with angel Tim Dilley of NetSuite) AND in the Series A on 2025-10-02 (USD 90M co-led by Lightspeed + Khosla; GV, Contrary, Vesey Ventures participated; $415M post-money). Verified via 3 primary sources: DualEntry press release [^de-c1] (2025-10-02), PR Newswire [^de-c2] (2025-10-02), Contrary Research [^de-c3] (seed confirmation). Row rewritten on both contrary.md and eric-tarczynski.md. 3 new footnotes added to each profile.'
 - profile: firms/contrary
   profile_name: Contrary
   company: Endeavor
@@ -173111,7 +173117,9 @@ vague_facts:
   line: '| Endeavor | Seed | 2024 | AI | Active [^17] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-06
+  resolution_note: 'Fact-spec sweep 2026-08-06: Verified Endeavor seed as 2024-10-31, USD 7M, Craft Ventures led with Heartland Ventures, Contrary, and BoxGroup participating; founder Sahitya Senapathy; company founded 2023. 3 primary sources: Contrary blog [^end-c1] (investor-side), FinSMEs [^end-c2] (trade press), Industrial Machinery Digest [^end-c3] (third independent trade press). Row rewritten on both contrary.md and eric-tarczynski.md with full syndicate and specific date. 3 new footnotes added to each profile.'
 - profile: firms/contrary
   profile_name: Contrary
   company: Modern Intelligence
@@ -173181,7 +173189,9 @@ vague_facts:
   line: '| Voltra | Seed | ~2024 | Energy | Active [^11] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-06
+  resolution_note: 'Fact-spec sweep 2026-08-06: CORRECTED ~2024 to 2025-05-14 Pre-seed (not seed). Contrary led USD 1.8M pre-seed with Hanover Capital and Velocity Fund participating. Waterloo-based; founders Alexander Stratmoen and Aryan Afrouzi (both from University of Waterloo). 3 primary sources: BusinessWire/Yahoo Finance [^voltra-c1] (2025-05-14), FinSMEs [^voltra-c2], Velocity Incubator institutional primary [^voltra-c3]. Row rewritten on both contrary.md and eric-tarczynski.md. 3 new footnotes added to each profile.'
 - profile: firms/conviction
   profile_name: Conviction
   company: Latent (Latent Health)

@@ -96,8 +96,8 @@ Based on 42 verified portfolio companies from Contrary's public portfolio page a
 | Check | Seed | ~2019 | Fintech/payroll | Active [^1] |
 | DoorDash | Late stage | ~2018 | Delivery/logistics | IPO (NYSE: DASH, Dec 2020) [^6] |
 | Doss | Seed (Contrary led; Theory Ventures joined) | ~2022 (late 2022 per Contrary Research); follow-on Series A 2025-04 ($18M, Theory-led); Series B 2026-03-24 ($55M, Madrona/Premji-led) | Enterprise SaaS / AI operations | Active [^17][^doss1][^doss2][^doss3] |
-| DualEntry | Seed | 2025 | Fintech/AI | Active [^17] |
-| Endeavor | Seed | 2024 | AI | Active [^17] |
+| DualEntry | Seed (Contrary participated, USD 6M with angel Tim Dilley of NetSuite) — 2024-05; Series A 2025-10-02 (USD 90M co-led by Lightspeed and Khosla; Contrary follow-on; GV, Vesey Ventures also participated; $415M post-money) | 2024-05 (Seed); 2025-10-02 (Series A) | Fintech/AI ERP | Active [^17][^de-c1][^de-c2][^de-c3] |
+| Endeavor | Seed (Craft Ventures led; Heartland Ventures, Contrary, BoxGroup participated; USD 7M; founder Sahitya Senapathy) | 2024-10-31 | AI / Manufacturing | Active [^17][^end-c1][^end-c2][^end-c3] |
 | Feathery | Seed | ~2021 | Developer tools | Active (profitable) [^1] |
 | Fractional | Seed | ~2021 | Real estate/fintech | Active [^1] |
 | Hallow | Pre-seed | 2019 | Consumer/faith-tech | Active ($157M total funding) [^16] |
@@ -127,7 +127,7 @@ Based on 42 verified portfolio companies from Contrary's public portfolio page a
 | Valar Atomics | Seed | ~2023 | Nuclear energy | Active ($450M+ raised, $2B valuation) [^1] |
 | Vesto | Seed | ~2021 | Fintech | Active [^1] |
 | Vise | Pre-seed | ~2018 | Fintech/AI | Active (pivoted 2023) [^6] |
-| Voltra | Seed | ~2024 | Energy | Active [^11] |
+| Voltra | Pre-seed (Contrary led; Hanover Capital and Velocity Fund participated; USD 1.8M; Waterloo-based; founders Alexander Stratmoen and Aryan Afrouzi) | 2025-05-14 | Energy / EV infrastructure | Active [^11][^voltra-c1][^voltra-c2][^voltra-c3] |
 | Corgi | Series A (participated) | 2026-01-09 | Insurtech / AI | Active ($1.3B at Series B) [^21] |
 | Warp | Seed | ~2021 | Developer tools | Active ($70M+ funding, 700K+ developers) [^1] |
 | Zepto | Seed | 2021 | Quick-commerce | Active (filed for IPO Dec 2025; $7B valuation) [^15] |
@@ -188,3 +188,21 @@ Zepto CEO Aadit Palicha described receiving Contrary's first investment: "They s
 [^doss2]: Contrary Research, "DOSS Business Breakdown & Founding Story," accessed July 2026. https://research.contrary.com/company/doss — Contrary Research report noting "Prior to this DOSS had raised a seed round from Contrary in late 2022."
 
 [^doss3]: TechCrunch, "Doss raises $55M for AI inventory management that plugs into ERP," March 24, 2026. Accessed July 2026. https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/ — Third-source confirmation of Doss's funding trajectory including Contrary as a returning investor in the $55M Series B co-led by Madrona and Premji Invest, and confirming founders Wiley Jones (CEO) and Arnav Mishra (CTO).
+
+[^de-c1]: DualEntry press release / company blog, "DualEntry Raises $90M Series A to Redefine ERP as AI-Native," October 2, 2025. Accessed August 2026. https://www.dualentry.com/funding-announcement — Company-side primary announcement: $90M Series A co-led by Lightspeed Venture Partners and Khosla Ventures, with GV, Contrary, and Vesey Ventures participating. Total funding raised over $100M in 15 months.
+
+[^de-c2]: PR Newswire, "DualEntry raises a $90 million Series A from Lightspeed Venture Partners, Khosla Ventures, and GV (Google Ventures)," October 2, 2025. Accessed August 2026. https://www.prnewswire.com/news-releases/dualentry-raises-a-90-million-series-a-from-lightspeed-venture-partners-khosla-ventures-and-gv-google-ventures-302573366.html — Independent primary wire confirmation of the Series A.
+
+[^de-c3]: Contrary Research, "Report: DualEntry Business Breakdown & Founding Story," accessed August 2026. https://research.contrary.com/company/dualentry — Confirms Contrary invested in DualEntry's May 2024 seed round (USD 6M) alongside angel Tim Dilley (former Chief Customer Officer of NetSuite).
+
+[^end-c1]: Contrary blog, "Investing in Endeavor," November 2024. Accessed August 2026. https://contrary.com/blog/investing-in-endeavor — Investor-side primary announcement of Contrary's participation in Endeavor's seed round.
+
+[^end-c2]: FinSMEs, "Endeavor Raises $7M in Seed Funding," November 2024. Accessed August 2026. https://www.finsmes.com/2024/11/endeavor-raises-7m-in-seed-funding.html — Trade press primary confirmation: USD 7M seed closed 2024-10-31; Craft Ventures led; Heartland Ventures, Contrary, BoxGroup participated; founder Sahitya Senapathy.
+
+[^end-c3]: Industrial Machinery Digest, "Endeavor Raises $7M to Revitalize American Manufacturing with AI," November 2024. Accessed August 2026. https://industrialmachinerydigest.com/software/endeavor-raises-7m-to-revitalize-american-manufacturing-with-ai/ — Third independent trade press source confirming Craft Ventures, Heartland Ventures, Contrary, and BoxGroup as seed investors in Endeavor's USD 7M round. Company founded 2023.
+
+[^voltra-c1]: Yahoo Finance (via BusinessWire), "Voltra Emerges from Stealth with $1.8M Raise and a Plan to Rewire the North American Electrical Grid," May 14, 2025. Accessed August 2026. https://finance.yahoo.com/news/voltra-emerges-stealth-1-8m-140000077.html — Primary wire announcement confirming USD 1.8M pre-seed led by Contrary; Hanover Capital and Velocity Fund participated.
+
+[^voltra-c2]: FinSMEs, "Voltra Raises $1.8M in Pre-Seed Funding," May 2025. Accessed August 2026. https://www.finsmes.com/2025/05/voltra-raises-1-8m-in-pre-seed-funding.html — Trade press primary confirmation of the same pre-seed round; identical investor list.
+
+[^voltra-c3]: Velocity Incubator (University of Waterloo), "Voltra announces $1.8M pre-seed to rewire the North American electrical grid," May 2025. Accessed August 2026. https://www.velocityincubator.com/news/voltra-announces-1-8m-pre-seed-to-rewire-the-north-american-electrical-grid — Institutional primary source (Voltra founders emerged from Velocity/UWaterloo). Confirms USD 1.8M pre-seed led by Contrary with Hanover Capital and Velocity Fund; founders Alexander Stratmoen and Aryan Afrouzi.
