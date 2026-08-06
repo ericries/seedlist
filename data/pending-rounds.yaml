@@ -54,7 +54,9 @@ pending_rounds:
   parsed_company: AsymBio
   parsed_amount: $184M
   parsed_round: null
-  status: pending
+  status: processed
+  processed_date: '2026-08-05'
+  processed_note: 'Created data/startups/asymbio.md; capital injection led by Asymchem Group with Hillhouse Qirui'
 - title: m in cash. AiDash had raised $91.5M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -69,6 +71,30 @@ pending_rounds:
   date_found: '2026-08-05'
   parsed_company: G Squared
   parsed_amount: $2.3B
+  parsed_round: null
+  status: pending
+- title: Moove raises $250M to become the backbone of the robotaxi industry
+  url: https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/
+  source: techcrunch
+  date_found: '2026-08-05'
+  parsed_company: Moove
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: The July 2026 US Venture Capital Funding Report
+  url: https://alleywatch.com/2026/08/us-venture-capital-statistics-july-2026/
+  source: alleywatch
+  date_found: '2026-08-05'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 8/5/2026'
+  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-5-2026/
+  source: alleywatch
+  date_found: '2026-08-05'
+  parsed_company: null
+  parsed_amount: null
   parsed_round: null
   status: pending
 - title: Fusemachines Closes Up to $10.66 Million Investment at $4.20 per Share for
