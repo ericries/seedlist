@@ -26852,7 +26852,7 @@ queue:
 - name: Todd Masonis
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Edelweiss.vc / Dandelion Chocolate
   discovered_from: brian-balfour
@@ -29741,7 +29741,7 @@ queue:
 - name: Romain Lapeyre
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Gorgias
   discovered_from: alex-plugaru
@@ -45977,3 +45977,113 @@ queue:
   added: '2026-03-17'
   firm: Rivo
   discovered_from: rivo
+- name: Cameron Ring
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Dandelion Chocolate / Plaxo
+  discovered_from: todd-masonis
+- name: Foodzie
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: todd-masonis
+- name: MediaSpike
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: todd-masonis
+- name: BrightCrowd
+  type: startup
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  discovered_from: todd-masonis
+- name: Shogun
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: romain-lapeyre
+- name: Swell Commerce
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: romain-lapeyre
+- name: Polar Analytics
+  type: startup
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: romain-lapeyre
+- name: SaaStr Fund
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: romain-lapeyre
+- name: VMG Catalyst
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: romain-lapeyre
+- name: Arbour & Renaud Capital
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: romain-lapeyre
+- name: Brian Long
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Attentive
+  discovered_from: romain-lapeyre
+- name: Domm Holland
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Fast
+  discovered_from: romain-lapeyre
+- name: Bryant Chou
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Webflow
+  discovered_from: romain-lapeyre
+- name: Mark Lavelle
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Magento
+  discovered_from: romain-lapeyre
+- name: Brian Magida
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Warby Parker
+  discovered_from: romain-lapeyre
+- name: Andreas Klinger
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Product Hunt
+  discovered_from: romain-lapeyre
+- name: Jason Lemkin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: SaaStr Fund
+  discovered_from: romain-lapeyre

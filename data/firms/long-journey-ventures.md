@@ -1,49 +1,67 @@
 ---
-name: "Long Journey Ventures"
-slug: long-journey-ventures
-type: firm
-website: "https://www.longjourney.vc"
-location: "San Francisco, CA"
 founded: 2019
-fund_size: "$450M total capital raised; Fund IV at $181.8M (2025)"
-stage_focus: [pre-seed, seed, series-a]
-sector_focus: [AI, deeptech, fintech, energy, defense, health, consumer, climatetech, robotics, saas, creator-economy, food-and-beverage]
-team:
-  - slug: lee-jacobs
-    role: "Co-Founder & Managing Partner"
-    name: "Lee Jacobs"
-  - slug: cyan-banister
-    role: "Co-Founder & General Partner"
-    name: "Cyan Banister"
-  - slug: arielle-zuckerberg
-    role: "General Partner"
-    name: "Arielle Zuckerberg"
-  - slug: scott-banister
-    role: "Venture Partner"
-    name: "Scott Banister"
-  - slug: jonathan-bruck
-    role: "Venture Partner"
-    name: "Jonathan Bruck"
-  - slug: justin-mares
-    role: "Venture Partner"
-    name: "Justin Mares"
-  - slug: pascal-levy-garboua
-    role: "Venture Partner"
-    name: "Pascal Levy-Garboua"
-  - slug: brian-balfour
-    role: "Advisor"
-    name: "Brian Balfour"
-  - slug: elaine-wherry
-    role: "Advisor"
-    name: "Elaine Wherry"
-  - slug: aaron-vandevender
-    role: "Advisor"
-    name: "Aaron VanDevender"
-  - slug: andrew-look
-    role: "Advisor"
-    name: "Andrew Look"
-status: published
+fund_size: $450M total capital raised; Fund IV at $181.8M (2025)
 last_researched: 2026-06-04
+location: San Francisco, CA
+name: Long Journey Ventures
+sector_focus:
+- AI
+- deeptech
+- fintech
+- energy
+- defense
+- health
+- consumer
+- climatetech
+- robotics
+- saas
+- creator-economy
+- food-and-beverage
+slug: long-journey-ventures
+stage_focus:
+- pre-seed
+- seed
+- series-a
+status: published
+team:
+- name: Lee Jacobs
+  role: Co-Founder & Managing Partner
+  slug: lee-jacobs
+- name: Cyan Banister
+  role: Co-Founder & General Partner
+  slug: cyan-banister
+- name: Arielle Zuckerberg
+  role: General Partner
+  slug: arielle-zuckerberg
+- name: Scott Banister
+  role: Venture Partner
+  slug: scott-banister
+- name: Jonathan Bruck
+  role: Venture Partner
+  slug: jonathan-bruck
+- name: Justin Mares
+  role: Venture Partner
+  slug: justin-mares
+- name: Pascal Levy-Garboua
+  role: Venture Partner
+  slug: pascal-levy-garboua
+- name: Brian Balfour
+  role: Advisor
+  slug: brian-balfour
+- name: Elaine Wherry
+  role: Advisor
+  slug: elaine-wherry
+- name: Aaron VanDevender
+  role: Advisor
+  slug: aaron-vandevender
+- name: Andrew Look
+  role: Advisor
+  slug: andrew-look
+- name: Todd Masonis
+  role: Angel Investor; Co-Founder & CEO, Dandelion Chocolate
+  slug: todd-masonis
+type: firm
+website: https://www.longjourney.vc
 ---
 
 ## About
