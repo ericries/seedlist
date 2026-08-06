@@ -46087,3 +46087,157 @@ queue:
   added: '2026-03-17'
   firm: SaaStr Fund
   discovered_from: romain-lapeyre
+- name: Asymchem Group
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: asymbio
+  source: Lead investor in AsymBio $184M capital injection (2026-08-04)
+- name: Hillhouse Qirui
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: asymbio
+  source: Co-investor in AsymBio $184M capital injection (2026-08-04); part of Hillhouse
+    Capital
+- name: Inventus
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pinegap
+  source: Existing investor in Pinegap Series A (2026-08-05)
+- name: Silicon Valley Quad
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: pinegap
+  source: Existing investor in Pinegap Series A (2026-08-05)
+- name: BRM
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: faye
+  source: Co-investor in Faye Series C (2026-08-05)
+- name: F2 Venture Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: faye
+  source: Existing investor in Faye Series C (2026-08-05)
+- name: Lumir Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: faye
+  source: Existing investor in Faye Series C (2026-08-05)
+- name: Steve Singh
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Madrona Venture Group
+  discovered_from: faye
+  source: Managing Director at Madrona; led Faye Series C (2026-08-05)
+- name: Elad Schaffer
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Faye
+  discovered_from: faye
+  source: Co-Founder & CEO of Faye
+- name: Hanwha Defense USA
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aurelius-systems
+  source: Strategic investor in Aurelius Systems Series A (2026-08-05)
+- name: Bravo Victor Venture Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: aurelius-systems
+  source: Co-investor in Aurelius Systems Series A (2026-08-05)
+- name: Michael LaFramboise
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Aurelius Systems
+  discovered_from: aurelius-systems
+  source: CEO & Co-Founder of Aurelius Systems
+- name: VanEck Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: sapiom
+  source: Co-investor in Sapiom Series A (2026-08-05)
+- name: Ilan Zerbib
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Sapiom
+  discovered_from: sapiom
+  source: Founder & CEO of Sapiom
+- name: defy.vc
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avatar-robotics
+  source: Led Avatar Robotics pre-seed; co-investor in Seed (2026-08-05)
+- name: Refashiond
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: avatar-robotics
+  source: Co-investor in Avatar Robotics Seed (2026-08-05)
+- name: Brannon Jones
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: AlleyCorp
+  discovered_from: avatar-robotics
+  source: Partner at AlleyCorp; led Avatar Robotics Seed (2026-08-05)
+- name: Colin Webb
+  type: individual
+  priority: low
+  status: pending
+  added: '2026-03-17'
+  firm: Avatar Robotics
+  discovered_from: avatar-robotics
+  source: CEO & Founder of Avatar Robotics
+- name: Boost VC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skinbit
+  source: Co-led SkinBit Pre-Seed (2026-08-05)
+- name: Cleo Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skinbit
+  source: Co-led SkinBit Pre-Seed (2026-08-05)
+- name: Manna Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: skinbit
+  source: Co-led SkinBit Pre-Seed (2026-08-05)

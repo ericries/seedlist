@@ -4344,3 +4344,27 @@ priority:
   type: investor
   reason: "participated in Vaaree Series A (2026-08-04), Rs 65 Cr"
   added: 2026-08-05
+- slug: madrona-venture-group
+  type: firm
+  reason: "led Faye Series C (2026-08-05)"
+  added: 2026-08-05
+- slug: general-catalyst
+  type: firm
+  reason: "co-investor in Aurelius Systems Series A (2026-08-05)"
+  added: 2026-08-05
+- slug: outlander-vc
+  type: firm
+  reason: "co-investor in Aurelius Systems Series A (2026-08-05)"
+  added: 2026-08-05
+- slug: accel
+  type: firm
+  reason: "co-investor in Sapiom Series A (2026-08-05)"
+  added: 2026-08-05
+- slug: menlo-ventures
+  type: firm
+  reason: "co-investor in Sapiom Series A (2026-08-05)"
+  added: 2026-08-05
+- slug: array-ventures
+  type: firm
+  reason: "co-investor in Sapiom Series A (2026-08-05)"
+  added: 2026-08-05
