@@ -117,6 +117,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Era | Seed (co-led, $9M) | 2026-04-23 | AI / Consumer Hardware | Active [^16] |
 | NewLimit | Series C ($435M, returning investor) | 2026-06-02 | Biotech / Longevity | Active [^48][^49][^50] |
 | Cast Insights | Pre-seed ($4.5M, led) | 2026-07-23 | AI / Media Intelligence | Active [^cast-insights-1][^cast-insights-2][^cast-insights-3] |
+| Foundational Industries | Seed ($25M, participated) | 2026-07-30 | Manufacturing / AI / Industrial Automation | Active [^fi1][^fi2][^fi3] |
 
 Note: Many investment years are approximate, marked with "~", based on company founding years or first known funding rounds. This table represents approximately 7% of Abstract's 500+ total investments. Tracxn reports 192 companies tracked with 83 seed-stage investments averaging $5.52M round sizes [^5].
 
@@ -220,6 +221,12 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^cast-insights-2]: SiliconANGLE, "Real-time speech intelligence startup Cast Insights raises $4.5M to track the world's TV, radio and podcasts," July 23, 2026, accessed July 2026. https://siliconangle.com/2026/07/23/real-time-speech-intelligence-startup-cast-insights-raises-4-5m-track-worlds-tv-radio-podcasts/
 
 [^cast-insights-3]: FinSMEs, "Cast Insights Raises $4.5M in Pre-Seed Funding," July 23, 2026. Accessed July 24, 2026. https://www.finsmes.com/2026/07/cast-insights-raises-4-5m-in-pre-seed-funding.html — Third-party trade press confirming Abstract Ventures-led $4.5M pre-seed with HF0, Village Global, Max Ventures, Embassy Ventures, and Stratus Ventures participating; CEO Otávio Costa Miranda.
+
+[^fi1]: Jason Del Rey, "Forget robots on assembly lines. Foundational Industries wants AI to run the entire factory," Fortune, July 30, 2026. Accessed August 2026. https://fortune.com/2026/07/30/forget-robots-assembly-lines-foundational-industries-ai-to-run-entire-factory-manufacturing-china-robotics/ — Tier-1 primary press confirming Foundational Industries $25M seed co-led by BoxGroup and Zigg Ventures with Abstract Ventures, Adverb Ventures, Buckley Ventures, and Offline Ventures participating; CEO Jonathan Winer formerly of Alphabet's Sidewalk Infrastructure Partners.
+
+[^fi2]: The Robotics Media, "Foundational Industries Bags $25M Seed To Build AI-Native US Factories," July 30, 2026. Accessed August 2026. https://theroboticsmedia.com/article/foundational-industries-25m-seed-boxgroup-zigg-ai-native-factories-2026-07-30 — Independent trade press confirmation of the $25M seed and the full syndicate including Abstract Ventures.
+
+[^fi3]: Dealroom, "Foundational Industries raises $25M to build AI-native US factories for data centre hardware," July 30, 2026. Accessed August 2026. https://app.dealroom.co/news/feed/foundational-industries-raises-25m-to-build-ai-native-us-factories-for-data-centre-hardware — Third independent confirmation of the $25M seed round including Abstract Ventures participation.
 
 [^cherry1]: Cherry (withcherry.com) LinkedIn / company profile aggregators (Crunchbase, PitchBook, Tracxn), accessed July 2026. https://www.crunchbase.com/organization/cherry-4954 — Cherry Technologies (dba Cherry Payment Plans; founded 2017 by Felix Steinmeyer and Charles Mourani; San Francisco) has raised approximately $94M across 5 disclosed rounds through September 2022, including a first raise on April 15, 2020, a $50M debt facility from Cross River Bank in March 2022, and a Series B closed September 21, 2022 (reported ~$44M per Crunchbase). Abstract Ventures appears in aggregator-tracked cap tables (per Crunchbase/PitchBook/Tracxn), but the specific round of participation is not disclosed and no contemporaneous press names Abstract in any Cherry round.
 

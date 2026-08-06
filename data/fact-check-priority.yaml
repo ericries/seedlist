@@ -3830,6 +3830,9 @@ priority:
   type: firm
   reason: participated in Buildforce Series A (2026-07-28), $10M via Rise of the Rest Seed Fund
   added: 2026-07-29
+  status: resolved
+  note: "Verified via PR Newswire, S3 Ventures (co-investor), and Yahoo Finance: 2026-07-28, $10M Series A led by Saepio Capital. Added Buildforce row to Revolution portfolio; added S3 source and Moody Heard founder quote to Buildforce profile."
+  resolved: 2026-08-06
 - slug: nea
   type: firm
   reason: led P-1 AI Series A (2026-07-29), $50M
@@ -3889,6 +3892,9 @@ priority:
   type: firm
   reason: participated in Terminal Series A (2026-07-29) and Centralize Series A (2026-07-29)
   added: 2026-07-30
+  status: resolved
+  note: "Verified Terminal via PR Newswire primary release + FreightWaves + FinSMEs: 2026-07-29, $20M Series A led by Battery Ventures. Verified Centralize via BusinessWire primary release + Tech Startups + SalesTechStar: 2026-07-29, $19M Series A led by NEA. Added both rows to YC portfolio with dedicated footnotes."
+  resolved: 2026-08-06
 - slug: nea
   type: firm
   reason: led Centralize Series A (2026-07-29), USD 19M
@@ -3907,6 +3913,9 @@ priority:
   type: firm
   reason: participated in Foundational Industries Seed (2026-07-30)
   added: 2026-07-30
+  status: resolved
+  note: "Verified via Fortune (Jason Del Rey) + The Robotics Media + Dealroom: 2026-07-30, $25M seed co-led by BoxGroup and Zigg Ventures with Abstract Ventures, Adverb Ventures, Buckley Ventures, Offline Ventures participating. Added Foundational Industries row to Abstract Ventures portfolio."
+  resolved: 2026-08-06
 - slug: buckley-ventures
   type: firm
   reason: participated in Foundational Industries Seed (2026-07-30)

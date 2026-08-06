@@ -112,6 +112,7 @@ Based on 30+ verified investments across Revolution's funds:
 | Carbon Robotics | Rise of the Rest | Series C ext. | 2023 | Agriculture / AI | Active | [^1] |
 | BenchPrep | Ventures | Series B | 2012 | Education Technology | Active | [^10][^30] |
 | Booker Software | Ventures | Series B | 2013 | SaaS / Services | Active | [^10][^31] |
+| Buildforce | Rise of the Rest | Series A | 2026-07-28 | Construction Tech / Staffing | Active | [^36][^37][^38] |
 
 *This table represents a subset of Revolution's 200+ portfolio companies. Data coverage is strongest for Revolution Growth and weaker for Rise of the Rest Seed Fund investments, which number 200+ across 100+ cities.*
 
@@ -178,3 +179,6 @@ Based on 30+ verified investments across Revolution's funds:
 [^33]: TechCrunch, "Bloomscape raises $7.5M to sell you plants of all sizes," August 1, 2019. https://techcrunch.com/2019/08/01/bloomscape-series-a/ — Series A led by Revolution Ventures.
 [^34]: BizTimes, "Bright Cellars raises $8.5 million," March 7, 2019. https://biztimes.com/bright-cellars-raises-8-5-million/ — Series A led by Revolution Ventures with CSA Partners.
 [^35]: Revolution press release, "Future of Finance Work Startup, Paro Raises $5 Million Series A," March 5, 2018. https://revolution.com/press-release/future-finance-work-startup-paro-raises-5-million-series/ — Series A led by Revolution Ventures with Global Founders Capital and Tom Williams.
+[^36]: PR Newswire, "Buildforce Raises $10M Series A to Staff Electricians Nationally," July 28, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/buildforce-raises-10m-series-a-to-staff-electricians-nationally-302837071.html — $10M Series A led by Saepio Capital with participation from Blue Heron Capital and existing investors Revolution's Rise of the Rest Seed Fund, S3 Ventures, and Chicago Ventures.
+[^37]: S3 Ventures, "Buildforce Raises $10M Series A," accessed August 2026. https://www.s3vc.com/news-and-insights/buildforce-raises-10m — S3 Ventures (co-investor) independently confirms the July 28, 2026 $10M Series A led by Saepio Capital with Blue Heron Capital, Revolution's Rise of the Rest Seed Fund, S3 Ventures, and Chicago Ventures.
+[^38]: Yahoo Finance, "Buildforce Raises $10M Series A to Staff Electricians Nationally," July 28, 2026. Accessed August 2026. https://sg.finance.yahoo.com/news/buildforce-raises-10m-series-222500894.html
