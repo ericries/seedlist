@@ -29814,14 +29814,14 @@ queue:
 - name: Isaiah Granet
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Bland
   discovered_from: bland
 - name: Alex Salazar
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Arcade
   discovered_from: arcade-dev
@@ -46380,3 +46380,57 @@ queue:
   added: '2026-03-17'
   firm: Bidbus
   discovered_from: bidbus
+- name: Sobhan Nejad
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Bland
+  discovered_from: isaiah-granet
+- name: Laude Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-salazar
+- name: Flybridge Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  discovered_from: alex-salazar
+- name: Pete Sonsini
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: Laude Ventures
+  discovered_from: alex-salazar
+- name: Chip Hazard
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Flybridge Ventures
+  discovered_from: alex-salazar
+- name: Kittu Kolluri
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Neotribe
+  discovered_from: alex-salazar
+- name: Jay Leek
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-03-17'
+  firm: SYN Ventures
+  discovered_from: alex-salazar
+- name: Les Hazlewood
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-03-17'
+  firm: Independent
+  discovered_from: alex-salazar
