@@ -29,6 +29,33 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series B
   status: pending
+- title: London’s Safehire.ai, founded by ex-British Army officers, secures €583.2k
+    to scale AI-powered digital risk screening
+  url: https://www.eu-startups.com/2026/08/londons-safehire-ai-founded-by-ex-british-army-officers-secures-e583-2k-to-scale-ai-powered-digital-risk-screening/
+  source: eu-startups
+  date_found: '2026-08-07'
+  parsed_company: London’s Safehire.ai, founded by ex-British Army officers,
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Glasgow-based Mironid raises €39.9 million in Series B to advance rare kidney
+    disease treatment
+  url: https://www.eu-startups.com/2026/08/glasgow-based-mironid-raises-e39-9-million-in-series-b-to-advance-rare-kidney-disease-treatment/
+  source: eu-startups
+  date_found: '2026-08-07'
+  parsed_company: Glasgow-based Mironid
+  parsed_amount: null
+  parsed_round: Series B
+  status: pending
+- title: Munich-based NavVis raises €73.7 million to build its spatial data engine
+    and accelerate AI roadmap
+  url: https://www.eu-startups.com/2026/08/munich-based-navvis-raises-e74-5-million-to-build-its-spatial-data-engine-and-accelerate-ai-roadmap/
+  source: eu-startups
+  date_found: '2026-08-07'
+  parsed_company: Munich-based NavVis
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Aix-en-Provence-based Chargepoly secures €23 million to accelerate heavy-duty
     fleet electrification
   url: https://www.eu-startups.com/2026/08/aix-en-provence-based-chargepoly-secures-e23-million-to-accelerate-heavy-duty-fleet-electrification/
