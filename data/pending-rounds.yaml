@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Cyprus-based enterprise agentic CX company Omilia secures €58.1 million in
+    Series B funding
+  url: https://www.eu-startups.com/2026/08/cyprus-based-enterprise-agentic-cx-company-omilia-secures-e58-1-million-in-series-b-funding/
+  source: eu-startups
+  date_found: '2026-08-07'
+  parsed_company: Cyprus-based enterprise agentic CX company Omilia
+  parsed_amount: null
+  parsed_round: Series B
+  status: pending
 - title: Aix-en-Provence-based Chargepoly secures €23 million to accelerate heavy-duty
     fleet electrification
   url: https://www.eu-startups.com/2026/08/aix-en-provence-based-chargepoly-secures-e23-million-to-accelerate-heavy-duty-fleet-electrification/
