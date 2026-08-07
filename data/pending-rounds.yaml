@@ -56,6 +56,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Aug. 03 – Aug. 07)
+  url: https://www.eu-startups.com/2026/08/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-aug-03-aug-07/
+  source: eu-startups
+  date_found: '2026-08-07'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Aix-en-Provence-based Chargepoly secures €23 million to accelerate heavy-duty
     fleet electrification
   url: https://www.eu-startups.com/2026/08/aix-en-provence-based-chargepoly-secures-e23-million-to-accelerate-heavy-duty-fleet-electrification/
