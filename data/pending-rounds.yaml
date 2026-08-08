@@ -65,6 +65,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-billion-dollar-raises-manufacturing-energy-ai/
+  source: crunchbase
+  date_found: '2026-08-07'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Aix-en-Provence-based Chargepoly secures €23 million to accelerate heavy-duty
     fleet electrification
   url: https://www.eu-startups.com/2026/08/aix-en-provence-based-chargepoly-secures-e23-million-to-accelerate-heavy-duty-fleet-electrification/
