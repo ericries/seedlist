@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The Weekly Notable Startup Funding Report: 8/10/26'
+  url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-10-26/
+  source: alleywatch
+  date_found: '2026-08-09'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Cyprus-based enterprise agentic CX company Omilia secures €58.1 million in
     Series B funding
   url: https://www.eu-startups.com/2026/08/cyprus-based-enterprise-agentic-cx-company-omilia-secures-e58-1-million-in-series-b-funding/
