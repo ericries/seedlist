@@ -29,6 +29,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: UK air defence company Cambridge Aerospace raises €259.7 million Series C
+    at €2.94 billion valuation
+  url: https://www.eu-startups.com/2026/08/uk-air-defence-company-cambridge-aerospace-raises-e259-7-million-series-c-at-e2-94-billion-valuation/
+  source: eu-startups
+  date_found: '2026-08-10'
+  parsed_company: UK air defence company Cambridge Aerospace
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: London-based edge AI infrastructure company Edgify raises €7.7 million to
+    combat retail losses
+  url: https://www.eu-startups.com/2026/08/london-based-edge-ai-infrastructure-company-edgify-raises-e7-7-million-to-combat-retail-losses/
+  source: eu-startups
+  date_found: '2026-08-10'
+  parsed_company: London-based edge AI infrastructure company Edgify
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 8/10/26'
   url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-10-26/
   source: alleywatch
