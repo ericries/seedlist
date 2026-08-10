@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Oslo-based Visoid raises €2.1 million to scale its AI visualisation platform
+    for architects
+  url: https://www.eu-startups.com/2026/08/oslo-based-visoid-raises-e2-1-million-to-scale-its-ai-visualisation-platform-for-architects/
+  source: eu-startups
+  date_found: '2026-08-10'
+  parsed_company: Oslo-based Visoid
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 8/10/26'
   url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-10-26/
   source: alleywatch
