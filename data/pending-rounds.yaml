@@ -29,6 +29,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Luxembourg’s space BioTech Exobiosphere secures €1 million to find “cures
+    from space”
+  url: https://www.eu-startups.com/2026/08/luxembourgs-space-biotech-exobiosphere-secures-e1-million-to-find-cures-from-space/
+  source: eu-startups
+  date_found: '2026-08-11'
+  parsed_company: Luxembourg’s space BioTech Exobiosphere
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Zug-based Zerolook raises €1.6 million to tackle AI-driven flight search
+    costs
+  url: https://www.eu-startups.com/2026/08/zug-based-zerolook-raises-e1-6-million-to-tackle-ai-driven-flight-search-costs/
+  source: eu-startups
+  date_found: '2026-08-11'
+  parsed_company: Zug-based Zerolook
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Oslo-based Visoid raises €2.1 million to scale its AI visualisation platform
     for architects
   url: https://www.eu-startups.com/2026/08/oslo-based-visoid-raises-e2-1-million-to-scale-its-ai-visualisation-platform-for-architects/
@@ -855,23 +873,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-27'
   parsed_company: Manchester’s Nuclear Turbines
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Spain’s Multiverse Computing hits unicorn status after raising €500 million
-    Series C at €1.5 billion valuation
-  url: https://www.eu-startups.com/2026/07/spains-multiverse-computing-hits-unicorn-status-after-raising-e500-million-series-c-at-e1-5-billion-valuation/
-  source: eu-startups
-  date_found: '2026-07-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series C
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/27/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-27-2026-2/
-  source: alleywatch
-  date_found: '2026-07-27'
-  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
