@@ -20,6 +20,23 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand
+  url: https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/
+  source: techcrunch
+  date_found: '2026-08-12'
+  parsed_company: India’s Yulu
+  parsed_amount: $93M
+  parsed_round: null
+  status: pending
+- title: UK cybersecurity startup Cytix raises €6 million Series A to tackle AI-driven
+    software change risks
+  url: https://www.eu-startups.com/2026/08/uk-cybersecurity-startup-cytix-raises-e6-million-series-a-to-tackle-ai-driven-software-change-risks/
+  source: eu-startups
+  date_found: '2026-08-12'
+  parsed_company: UK cybersecurity startup Cytix
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Bristol’s electric ‘air taxi’ developer Vertical Aerospace secures €86.6
     million in financing commitments
   url: https://www.eu-startups.com/2026/08/bristols-electric-air-taxi-developer-vertical-aerospace-secures-e86-6-million-in-financing-commitments/
@@ -44,6 +61,14 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-08-11'
   parsed_company: Zug-based Zerolook
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 8/11/2026'
+  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-11-2026/
+  source: alleywatch
+  date_found: '2026-08-11'
+  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -847,32 +872,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-07-28'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: u003eThe company raised $5B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-27'
-  parsed_company: u003eThe company
-  parsed_amount: $5B
-  parsed_round: null
-  status: pending
-- title: Milan’s Beelzebub raises €3 million to fight AI-driven cyberattacks with
-    AI-powered hacker traps
-  url: https://www.eu-startups.com/2026/07/milans-beelzebub-raises-e3-million-to-fight-ai-driven-cyberattacks-with-ai-powered-hacker-traps/
-  source: eu-startups
-  date_found: '2026-07-27'
-  parsed_company: Milan’s Beelzebub
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Manchester’s Nuclear Turbines raises €17.5 million to develop compact, cost-effective
-    nuclear power systems
-  url: https://www.eu-startups.com/2026/07/manchesters-nuclear-turbines-raises-e17-5-million-to-develop-compact-cost-effective-nuclear-power-systems/
-  source: eu-startups
-  date_found: '2026-07-27'
-  parsed_company: Manchester’s Nuclear Turbines
   parsed_amount: null
   parsed_round: null
   status: pending
