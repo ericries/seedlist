@@ -81,6 +81,30 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise
+  url: https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
+  source: techcrunch
+  date_found: '2026-08-12'
+  parsed_company: OpenAI-backed Thrive Holdings
+  parsed_amount: $2B
+  parsed_round: null
+  status: pending
+- title: Form Energy raises $750M to build more 100-hour batteries for the grid
+  url: https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/
+  source: techcrunch
+  date_found: '2026-08-12'
+  parsed_company: Form Energy
+  parsed_amount: $750M
+  parsed_round: null
+  status: pending
+- title: Lovable confirms new $13.3B valuation, raises another $400M
+  url: https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/
+  source: techcrunch
+  date_found: '2026-08-12'
+  parsed_company: Lovable confirms new $13.3B valuation,
+  parsed_amount: $13.3B
+  parsed_round: null
+  status: pending
 - title: Bristol’s electric ‘air taxi’ developer Vertical Aerospace secures €86.6
     million in financing commitments
   url: https://www.eu-startups.com/2026/08/bristols-electric-air-taxi-developer-vertical-aerospace-secures-e86-6-million-in-financing-commitments/
@@ -853,29 +877,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: already-recorded in throne-science.md
-- title: AI Seed Investors Flock To Cybersecurity
-  url: https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/
-  source: crunchbase
-  date_found: '2026-07-28'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: Dutch-US MedTech Xeltis raises €20.5 million to advance artificial vessels
-    and valves replaced by patients’ own tissue
-  url: https://www.eu-startups.com/2026/07/dutch-us-medtech-xeltis-raises-e20-5-million-to-advance-artificial-vessels-and-valves-replaced-by-patients-own-tissue/
-  source: eu-startups
-  date_found: '2026-07-28'
-  parsed_company: Dutch-US MedTech Xeltis
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Sofia-based Tiger Technology raises €8.7 million to advance always-on hybrid
-    cloud data infrastructure
-  url: https://www.eu-startups.com/2026/07/sofia-based-tiger-technology-raises-e8-7-million-to-advance-always-on-hybrid-cloud-data-infrastructure/
-  source: eu-startups
-  date_found: '2026-07-28'
-  parsed_company: Sofia-based Tiger Technology
-  parsed_amount: null
-  parsed_round: null
-  status: pending
