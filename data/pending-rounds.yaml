@@ -37,6 +37,50 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: Reservoir raises $8M to make water heaters that people — and the grid — will
+    actually want
+  url: https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/
+  source: techcrunch
+  date_found: '2026-08-12'
+  parsed_company: Reservoir
+  parsed_amount: $8M
+  parsed_round: null
+  status: pending
+- title: 'Exclusive: ClearJet raises $25M to build the ‘Uber of Cargo’'
+  url: https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/
+  source: crunchbase
+  date_found: '2026-08-12'
+  parsed_company: ClearJet
+  parsed_amount: $25M
+  parsed_round: null
+  status: pending
+- title: 'Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want
+    AI And Data, Not Treadmills'
+  url: https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026/
+  source: crunchbase
+  date_found: '2026-08-12'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Lovable raise €343 million Series C to expand its platform, infrastructure
+    and global team
+  url: https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/
+  source: eu-startups
+  date_found: '2026-08-12'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: Danish Entravel Group raises €6.5 million to secure larger supplier credit
+    facilities
+  url: https://www.eu-startups.com/2026/08/entravel-group-raises-e6-5-million-to-secure-larger-supplier-credit-facilities/
+  source: eu-startups
+  date_found: '2026-08-12'
+  parsed_company: Danish Entravel Group
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Bristol’s electric ‘air taxi’ developer Vertical Aerospace secures €86.6
     million in financing commitments
   url: https://www.eu-startups.com/2026/08/bristols-electric-air-taxi-developer-vertical-aerospace-secures-e86-6-million-in-financing-commitments/
@@ -832,46 +876,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-07-28'
   parsed_company: Sofia-based Tiger Technology
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: and DVC. It also raised $75M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: and DVC. It also
-  parsed_amount: $75M
-  parsed_round: null
-  status: pending
-- title: Mate raised $25M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: Mate
-  parsed_amount: $25M
-  parsed_round: Series A
-  status: pending
-- title: U AI raised $3.2M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: U AI
-  parsed_amount: $3.2M
-  parsed_round: null
-  status: pending
-- title: Align Ventures raised $125M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-28'
-  parsed_company: Align Ventures
-  parsed_amount: $125M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/28/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-28-2026/
-  source: alleywatch
-  date_found: '2026-07-28'
-  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
