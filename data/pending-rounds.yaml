@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Gothenburg’s Millow secures €2 million to scale clean-label protein made
+    from oats and mycelium
+  url: https://www.eu-startups.com/2026/08/gothenburgs-millow-secures-e2-million-to-scale-clean-label-protein-made-from-oats-and-mycelium/
+  source: eu-startups
+  date_found: '2026-08-13'
+  parsed_company: Gothenburg’s Millow
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand
   url: https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/
   source: techcrunch
@@ -867,13 +876,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: already-recorded in zuriq.md
-- title: 'Exclusive: Co-Founded By Former Whoop CTO, Throne Science Raises $10M To
-    Track Gut Health From The Toilet'
-  url: https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/
-  source: crunchbase
-  date_found: '2026-07-28'
-  parsed_company: Co-Founded By Former Whoop CTO, Throne Science
-  parsed_amount: $10M
-  parsed_round: null
-  status: processed
-  notes: already-recorded in throne-science.md
