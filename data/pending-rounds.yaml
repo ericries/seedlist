@@ -29,6 +29,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense
+    And AI Coding Lead'
+  url: https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/
+  source: crunchbase
+  date_found: '2026-08-14'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Gothenburg’s Millow secures €2 million to scale clean-label protein made
     from oats and mycelium
   url: https://www.eu-startups.com/2026/08/gothenburgs-millow-secures-e2-million-to-scale-clean-label-protein-made-from-oats-and-mycelium/
@@ -870,11 +879,3 @@ pending_rounds:
   parsed_round: null
   status: processed
   notes: already-recorded in sigvi.md
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/29/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-29-2026/
-  source: alleywatch
-  date_found: '2026-07-29'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
