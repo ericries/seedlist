@@ -64,6 +64,48 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: Groq raises $350M to fuel its pivot from AI chips to neocloud
+  url: https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/
+  source: techcrunch
+  date_found: '2026-08-17'
+  parsed_company: Groq
+  parsed_amount: $350M
+  parsed_round: null
+  status: pending
+- title: Terra Industries closes $52M seed round to build defense infrastructure for
+    the Global South
+  url: https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/
+  source: techcrunch
+  date_found: '2026-08-17'
+  parsed_company: Terra Industries
+  parsed_amount: $52M
+  parsed_round: Seed
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 8/17/2026'
+  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-17-2026/
+  source: alleywatch
+  date_found: '2026-08-17'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 8/17/26'
+  url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-17-26/
+  source: alleywatch
+  date_found: '2026-08-17'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Gravis Robotics becomes Europe’s latest unicorn after €172 million Series
+    A
+  url: https://www.eu-startups.com/2026/08/gravis-robotics-becomes-europes-latest-robotics-unicorn-after-e172-million-series-a/
+  source: eu-startups
+  date_found: '2026-08-17'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Weekly funding round-up! All of the European startup funding rounds we tracked
     this week (Aug. 10 – Aug. 14)
   url: https://www.eu-startups.com/2026/08/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-aug-10-aug-14/
@@ -833,44 +875,4 @@ pending_rounds:
   parsed_company: Battery Storage Startup Antora
   parsed_amount: $550M
   parsed_round: Series C
-  status: pending
-- title: and has raised $255M VC
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-30'
-  parsed_company: and has
-  parsed_amount: $255M
-  parsed_round: Vc
-  status: pending
-- title: It had raised $185M VC
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-30'
-  parsed_company: It had
-  parsed_amount: $185M
-  parsed_round: Vc
-  status: pending
-- title: Reformation raised $211M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-30'
-  parsed_company: Reformation
-  parsed_amount: $211M
-  parsed_round: null
-  status: pending
-- title: Pantheon raised $3.2B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-07-30'
-  parsed_company: Pantheon
-  parsed_amount: $3.2B
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 7/30/2026'
-  url: https://alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-30-2026/
-  source: alleywatch
-  date_found: '2026-07-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
   status: pending
