@@ -20,6 +20,50 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: MAX Power Closes $10 Million Strategic Investment From Eric Sprott to Advance
+    Commercial Validation at Lawson
+  url: https://www.globenewswire.com/news-release/2026/08/17/3345958/0/en/max-power-closes-10-million-strategic-investment-from-eric-sprott-to-advance-commercial-validation-at-lawson.html
+  source: globenewswire
+  date_found: '2026-08-17'
+  parsed_company: MAX Power
+  parsed_amount: $10M
+  parsed_round: null
+  status: pending
+- title: Wispr raises $280M at $2B valuation as it looks beyond dictation
+  url: https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/
+  source: techcrunch
+  date_found: '2026-08-17'
+  parsed_company: Wispr
+  parsed_amount: $280M
+  parsed_round: null
+  status: pending
+- title: UK-based SpaceAM closes Seed round to scale AI-powered sensing technology
+    for defence and space
+  url: https://www.eu-startups.com/2026/08/uk-based-spaceam-closes-seed-round-to-scale-ai-powered-sensing-technology-for-defence-and-space/
+  source: eu-startups
+  date_found: '2026-08-17'
+  parsed_company: UK-based SpaceAM
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: Norway’s Birdsview raises €3.7 million to scale its “MRI for concrete” technology
+    and protect infrastructure
+  url: https://www.eu-startups.com/2026/08/norways-birdsview-raises-e3-7-million-to-scale-its-mri-for-concrete-technology-and-protect-infrastructure/
+  source: eu-startups
+  date_found: '2026-08-17'
+  parsed_company: Norway’s Birdsview
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Aachen-based amber raises €7 million Series A to build the infrastructure
+    for autonomous business AI
+  url: https://www.eu-startups.com/2026/08/aachen-based-amber-raises-e7-million-series-a-to-build-the-infrastructure-for-autonomous-business-ai/
+  source: eu-startups
+  date_found: '2026-08-17'
+  parsed_company: Aachen-based amber
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Weekly funding round-up! All of the European startup funding rounds we tracked
     this week (Aug. 10 – Aug. 14)
   url: https://www.eu-startups.com/2026/08/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-aug-10-aug-14/
@@ -830,52 +874,3 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Wild Bio acquires F1 Seed to create Britain’s first independent precision-breeding
-    wheat business
-  url: https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/
-  source: eu-startups
-  date_found: '2026-07-29'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: skipped
-  notes: acquisition only (no funding round)
-- title: London-based responsible lending FinTech Plend secures funding facility of
-    up to €58.3 million
-  url: https://www.eu-startups.com/2026/07/london-based-responsible-lending-fintech-plend-secures-funding-facility-of-up-to-e58-3-million/
-  source: eu-startups
-  date_found: '2026-07-29'
-  parsed_company: London-based responsible lending FinTech Plend
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: debt facility, not equity
-- title: As AI content floods the internet, Pangram raises $9M to detect it
-  url: https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/
-  source: techcrunch
-  date_found: '2026-07-29'
-  parsed_company: As AI content floods the internet, Pangram
-  parsed_amount: $9M
-  parsed_round: null
-  status: processed
-  notes: already-recorded in pangram.md
-- title: Drivalia secures €48 million EIB financing to boost electric mobility in
-    Italy and Finland
-  url: https://www.eu-startups.com/2026/07/drivalia-secures-e48-million-eib-financing-to-boost-electric-mobility-in-italy-and-finland/
-  source: eu-startups
-  date_found: '2026-07-29'
-  parsed_company: Drivalia
-  parsed_amount: null
-  parsed_round: null
-  status: skipped
-  notes: EIB debt financing, not equity; Drivalia is Credit Agricole subsidiary
-- title: Vilnius-based Sigvi raises €1.2 million to scale its AI-powered car rental
-    platform across Europe
-  url: https://www.eu-startups.com/2026/07/vilnius-based-sigvi-raises-e1-2-million-to-scale-its-ai-powered-car-rental-platform-across-europe/
-  source: eu-startups
-  date_found: '2026-07-29'
-  parsed_company: Vilnius-based Sigvi
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: already-recorded in sigvi.md
