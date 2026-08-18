@@ -29,6 +29,60 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Miata Metals Closes C$25.2 Million Financing Including 19.9% Strategic Investment
+    by La Mancha
+  url: https://www.globenewswire.com/news-release/2026/08/18/3346929/0/en/miata-metals-closes-c-25-2-million-financing-including-19-9-strategic-investment-by-la-mancha.html
+  source: globenewswire
+  date_found: '2026-08-18'
+  parsed_company: Miata Metals
+  parsed_amount: $25.2M
+  parsed_round: null
+  status: pending
+- title: Reach Capital raises $265M Fund V to back AI founders building to ‘expand
+    human potential’
+  url: https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/
+  source: techcrunch
+  date_found: '2026-08-18'
+  parsed_company: Reach Capital
+  parsed_amount: $265M
+  parsed_round: null
+  status: pending
+- title: Detroit startup Grounded raises $5M to customize electric and gas-powered
+    vans
+  url: https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/
+  source: techcrunch
+  date_found: '2026-08-18'
+  parsed_company: Detroit startup Grounded
+  parsed_amount: $5M
+  parsed_round: null
+  status: pending
+- title: Revolut founder’s QuantumLight raises €432 million for AI-driven venture
+    strategy
+  url: https://www.eu-startups.com/2026/08/revolut-founders-quantumlight-raises-e432-million-for-ai-driven-venture-strategy/
+  source: eu-startups
+  date_found: '2026-08-18'
+  parsed_company: Revolut founder’s QuantumLight
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Germany’s Computomics secures €6.3 million to help crop breeders stay ahead
+    of heat and drought
+  url: https://www.eu-startups.com/2026/08/germanys-computomics-secures-e6-3-million-to-help-crop-breeders-stay-ahead-of-heat-and-drought/
+  source: eu-startups
+  date_found: '2026-08-18'
+  parsed_company: Germany’s Computomics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Vilnius-based LITILIT secures €8 million financing to make femtosecond laser
+    systems scalable
+  url: https://www.eu-startups.com/2026/08/vilnius-based-litilit-secures-e8-million-financing-to-make-femtosecond-laser-systems-scalable/
+  source: eu-startups
+  date_found: '2026-08-18'
+  parsed_company: Vilnius-based LITILIT
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: MAX Power Closes $10 Million Strategic Investment From Eric Sprott to Advance
     Commercial Validation at Lawson
   url: https://www.globenewswire.com/news-release/2026/08/17/3345958/0/en/max-power-closes-10-million-strategic-investment-from-eric-sprott-to-advance-commercial-validation-at-lawson.html
@@ -823,57 +877,4 @@ pending_rounds:
   parsed_company: null
   parsed_amount: $5M
   parsed_round: Seed
-  status: pending
-- title: Paris-based Apolownia raises €1 million to scale coastal restoration and
-    blue carbon projects
-  url: https://www.eu-startups.com/2026/07/paris-based-apolownia-raises-e1-million-to-scale-coastal-restoration-and-blue-carbon-projects/
-  source: eu-startups
-  date_found: '2026-07-31'
-  parsed_company: Paris-based Apolownia
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely
-    human
-  url: https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/
-  source: techcrunch
-  date_found: '2026-07-31'
-  parsed_company: Smallest.ai
-  parsed_amount: $13M
-  parsed_round: Series A
-  status: processed
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (July 27 -July 31)
-  url: https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-july-27-july-31/
-  source: eu-startups
-  date_found: '2026-07-31'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Fresh off its Wiz payout, Index Ventures raises $2B across three funds
-  url: https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/
-  source: techcrunch
-  date_found: '2026-07-31'
-  parsed_company: Fresh off its Wiz payout, Index Ventures
-  parsed_amount: $2B
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth
-    Fusion Lead With Billion-Dollar Deals'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/
-  source: crunchbase
-  date_found: '2026-07-31'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London-based Intropy raises €9.5 million to build the AI-native operating
-    system for the spare parts industry
-  url: https://www.eu-startups.com/2026/07/london-based-intropy-raises-e9-5-million-to-build-the-ai-native-operating-system-for-the-spare-parts-industry/
-  source: eu-startups
-  date_found: '2026-07-30'
-  parsed_company: London-based Intropy
-  parsed_amount: null
-  parsed_round: null
   status: pending
