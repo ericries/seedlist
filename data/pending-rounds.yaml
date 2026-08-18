@@ -106,6 +106,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to
+    $5.4B
+  url: https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/
+  source: techcrunch
+  date_found: '2026-08-17'
+  parsed_company: Higgsfield
+  parsed_amount: $400M
+  parsed_round: Series B
+  status: pending
 - title: Weekly funding round-up! All of the European startup funding rounds we tracked
     this week (Aug. 10 – Aug. 14)
   url: https://www.eu-startups.com/2026/08/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-aug-10-aug-14/
@@ -866,13 +875,4 @@ pending_rounds:
   parsed_company: Fusion power darling Commonwealth Fusion Systems
   parsed_amount: $1B
   parsed_round: null
-  status: pending
-- title: Battery Storage Startup Antora Closes $550M Series C In One Of Year’s Largest
-    Cleantech Rounds
-  url: https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/
-  source: crunchbase
-  date_found: '2026-07-30'
-  parsed_company: Battery Storage Startup Antora
-  parsed_amount: $550M
-  parsed_round: Series C
   status: pending
