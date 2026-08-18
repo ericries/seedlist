@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Sweden’s SweGaN raises €12.1 million to scale gallium nitride on silicon
+    carbide epitaxial wafer production
+  url: https://www.eu-startups.com/2026/08/swedens-swegan-raises-e12-1-million-to-scale-gallium-nitride-on-silicon-carbide-epitaxial-wafer-production/
+  source: eu-startups
+  date_found: '2026-08-18'
+  parsed_company: Sweden’s SweGaN
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: MAX Power Closes $10 Million Strategic Investment From Eric Sprott to Advance
     Commercial Validation at Lawson
   url: https://www.globenewswire.com/news-release/2026/08/17/3345958/0/en/max-power-closes-10-million-strategic-investment-from-eric-sprott-to-advance-commercial-validation-at-lawson.html
@@ -866,13 +875,5 @@ pending_rounds:
   date_found: '2026-07-30'
   parsed_company: London-based Intropy
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Fusion power darling Commonwealth Fusion Systems raises another $1B
-  url: https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/
-  source: techcrunch
-  date_found: '2026-07-30'
-  parsed_company: Fusion power darling Commonwealth Fusion Systems
-  parsed_amount: $1B
   parsed_round: null
   status: pending
