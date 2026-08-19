@@ -20,6 +20,42 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Relativity Networks raises $22 million to bring a faster kind of fiber to
+    data centers
+  url: https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/
+  source: techcrunch
+  date_found: '2026-08-19'
+  parsed_company: Relativity Networks
+  parsed_amount: $22M
+  parsed_round: null
+  status: pending
+- title: Scotland’s Singular Photonics secures €1.85 million to scale SPAD image sensors
+    with on-chip computing
+  url: https://www.eu-startups.com/2026/08/scotlands-singular-photonics-secures-e1-85-million-to-scale-spad-image-sensors-with-on-chip-computing/
+  source: eu-startups
+  date_found: '2026-08-19'
+  parsed_company: Scotland’s Singular Photonics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Medly raises €6.9 million to democratise access to personalised
+    education through an AI tutor
+  url: https://www.eu-startups.com/2026/08/londons-medly-raises-e6-9-million-to-democratise-access-to-personalised-education-through-an-ai-tutor/
+  source: eu-startups
+  date_found: '2026-08-19'
+  parsed_company: London’s Medly
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Copenhagen’s Aisel Health raises €1.7 million to scale its AI operating system
+    for psychiatric care
+  url: https://www.eu-startups.com/2026/08/copenhagens-aisel-health-raises-e1-7-million-to-scale-its-ai-operating-system-for-psychiatric-care/
+  source: eu-startups
+  date_found: '2026-08-19'
+  parsed_company: Copenhagen’s Aisel Health
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Sweden’s SweGaN raises €12.1 million to scale gallium nitride on silicon
     carbide epitaxial wafer production
   url: https://www.eu-startups.com/2026/08/swedens-swegan-raises-e12-1-million-to-scale-gallium-nitride-on-silicon-carbide-epitaxial-wafer-production/
@@ -842,39 +878,3 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Eindhoven’s Keiron raises €20.7 million to tackle one of electronics manufacturing’s
-    most expensive problems
-  url: https://www.eu-startups.com/2026/07/eindhoven-based-keiron-raises-e20-7-million-to-tackle-one-of-electronics-manufacturings-most-expensive-problems/
-  source: eu-startups
-  date_found: '2026-07-31'
-  parsed_company: Eindhoven’s Keiron
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-- title: Málaga-based Atomic One raises €5.6 million to automate e-commerce operations
-    with AI agents
-  url: https://www.eu-startups.com/2026/07/malaga-based-atomic-one-raises-e5-6-million-to-automate-e-commerce-operations-with-ai-agents/
-  source: eu-startups
-  date_found: '2026-07-31'
-  parsed_company: Málaga-based Atomic One
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: '“Now there is a real chance to become a unicorn”: Slovenia’s GenePlanet
-    secures strategic investment from Lauxera'
-  url: https://www.eu-startups.com/2026/07/now-there-is-a-real-chance-to-become-a-unicorn-slovenias-geneplanet-secures-strategic-investment-from-lauxera/
-  source: eu-startups
-  date_found: '2026-07-31'
-  parsed_company: '“Now there is a real chance to become a unicorn”: Slovenia’s GenePlanet'
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Repeat founder Ryan Williams raises $10M seed for an AI startup for private
-    credit managers
-  url: https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/
-  source: techcrunch
-  date_found: '2026-07-31'
-  parsed_company: Ellis
-  parsed_amount: $10M
-  parsed_round: Seed
-  status: processed
