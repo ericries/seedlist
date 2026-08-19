@@ -83,6 +83,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 8/18/2026'
+  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-18-2026/
+  source: alleywatch
+  date_found: '2026-08-18'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: MAX Power Closes $10 Million Strategic Investment From Eric Sprott to Advance
     Commercial Validation at Lawson
   url: https://www.globenewswire.com/news-release/2026/08/17/3345958/0/en/max-power-closes-10-million-strategic-investment-from-eric-sprott-to-advance-commercial-validation-at-lawson.html
@@ -870,11 +878,3 @@ pending_rounds:
   parsed_amount: $10M
   parsed_round: Seed
   status: processed
-- title: These Are Sectors Where Seed Rounds Of $5M To $10M Are Clustering This Year
-  url: https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/
-  source: crunchbase
-  date_found: '2026-07-31'
-  parsed_company: null
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: pending
