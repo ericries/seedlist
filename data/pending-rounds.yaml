@@ -29,6 +29,33 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Pre-Seed
   status: pending
+- title: Stockholm’s Pixelgen Technologies secures €13.26 million to advance spatial
+    mapping of cell-surface proteins
+  url: https://www.eu-startups.com/2026/08/stockholms-pixelgen-technologies-secures-e13-26-million-to-advance-spatial-mapping-of-cell-surface-proteins/
+  source: eu-startups
+  date_found: '2026-08-20'
+  parsed_company: Stockholm’s Pixelgen Technologies
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London-based Callosum raises €85.4 million in Atomico-led Seed round to unify
+    AI models and chips
+  url: https://www.eu-startups.com/2026/08/london-based-callosum-raises-e85-4-million-in-atomico-led-seed-round-to-unify-ai-models-and-chips/
+  source: eu-startups
+  date_found: '2026-08-20'
+  parsed_company: London-based Callosum
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: Vilnius-based Guideless raises €1 million to turn software workflows into
+    narrated video training guides using AI
+  url: https://www.eu-startups.com/2026/08/vilnius-based-guideless-raises-e1-million-to-turn-software-workflows-into-narrated-video-training-guides-using-ai/
+  source: eu-startups
+  date_found: '2026-08-20'
+  parsed_company: Vilnius-based Guideless
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Relativity Networks raises $22 million to bring a faster kind of fiber to
     data centers
   url: https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/
@@ -852,32 +879,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-08-03'
   parsed_company: Helsinki-based Aiforia
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Index Ventures raises €1.7 billion, bringing total investing capital to nearly
-    €3 billion
-  url: https://www.eu-startups.com/2026/08/index-ventures-raises-e1-7-billion-bringing-total-investing-capital-to-nearly-e3-billion/
-  source: eu-startups
-  date_found: '2026-08-03'
-  parsed_company: Index Ventures
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate
-  url: https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/
-  source: techcrunch
-  date_found: '2026-08-03'
-  parsed_company: null
-  parsed_amount: $250M
-  parsed_round: Series E
-  status: pending
-- title: Italy’s Aflabox raises €1.35 million to scale AI-powered portable aflatoxin
-    detection across Africa and Europe
-  url: https://www.eu-startups.com/2026/08/italys-aflabox-raises-e1-35-million-to-scale-ai-powered-portable-aflatoxin-detection-across-africa-and-europe/
-  source: eu-startups
-  date_found: '2026-08-03'
-  parsed_company: Italy’s Aflabox
   parsed_amount: null
   parsed_round: null
   status: pending
