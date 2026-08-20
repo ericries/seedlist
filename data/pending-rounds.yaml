@@ -82,6 +82,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Rillet raises $100M Series C at $1B valuation — 2 years after emerging from
+    stealth
+  url: https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/
+  source: techcrunch
+  date_found: '2026-08-19'
+  parsed_company: Rillet
+  parsed_amount: $100M
+  parsed_round: Series C
+  status: pending
+- title: Gambling on the Little League World Series? Sports bettors have gone too
+    far
+  url: https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/
+  source: techcrunch
+  date_found: '2026-08-19'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 8/19/2026'
+  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-19-2026/
+  source: alleywatch
+  date_found: '2026-08-19'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Sweden’s SweGaN raises €12.1 million to scale gallium nitride on silicon
     carbide epitaxial wafer production
   url: https://www.eu-startups.com/2026/08/swedens-swegan-raises-e12-1-million-to-scale-gallium-nitride-on-silicon-carbide-epitaxial-wafer-production/
@@ -853,29 +879,5 @@ pending_rounds:
   date_found: '2026-08-03'
   parsed_company: UK AI chip startup OLIX
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/3/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-3-2026/
-  source: alleywatch
-  date_found: '2026-08-03'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: June raised $20M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-03'
-  parsed_company: June
-  parsed_amount: $20M
-  parsed_round: null
-  status: pending
-- title: KKR raised $19.2B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-03'
-  parsed_company: KKR
-  parsed_amount: $19.2B
   parsed_round: null
   status: pending
