@@ -38,6 +38,33 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Starcloud raises $250 million for orbital data centers as launch options
+    dry up
+  url: https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/
+  source: techcrunch
+  date_found: '2026-08-21'
+  parsed_company: Starcloud
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Defense Tech, AI Tools And Infrastructure
+    Lead The Way'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/
+  source: crunchbase
+  date_found: '2026-08-21'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Stockholm-based Eyedentity secures €1.3 million to detect deadly eye cancer
+    earlier with AI
+  url: https://www.eu-startups.com/2026/08/stockholm-based-eyedentity-secures-e1-3-million-to-detect-deadly-eye-cancer-earlier-with-ai/
+  source: eu-startups
+  date_found: '2026-08-21'
+  parsed_company: Stockholm-based Eyedentity
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Danish AI infrastructure startup Velatir secures €5 million six months after
     its pre-Seed round and official launch
   url: https://www.eu-startups.com/2026/08/danish-ai-infrastructure-startup-velatir-secures-e5-million-six-months-after-its-pre-seed-round-and-official-launch/
@@ -858,29 +885,5 @@ pending_rounds:
   date_found: '2026-08-04'
   parsed_company: ARC Group Securities Acquisition I
   parsed_amount: $150M
-  parsed_round: null
-  status: pending
-- title: BOA Acquisition II raised $125M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-04'
-  parsed_company: BOA Acquisition II
-  parsed_amount: $125M
-  parsed_round: null
-  status: pending
-- title: an Israeli livestreaming platform that had raised $111M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-04'
-  parsed_company: an Israeli livestreaming platform that had
-  parsed_amount: $111M
-  parsed_round: null
-  status: pending
-- title: Adams Street Partners raised $2.7B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-04'
-  parsed_company: Adams Street Partners
-  parsed_amount: $2.7B
   parsed_round: null
   status: pending
