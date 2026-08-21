@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Plymouth-based Oshen raises €4.27 million to scale robot swarms that act
+    as the ocean’s “eyes and ears”
+  url: https://www.eu-startups.com/2026/08/plymouth-based-oshen-raises-e4-27-million-to-scale-robot-swarms-that-act-as-the-oceans-eyes-and-ears/
+  source: eu-startups
+  date_found: '2026-08-21'
+  parsed_company: Plymouth-based Oshen
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: UK-based HexSeed raises over €700k to cool AI data centres with its with
+    diamond coating technology
+  url: https://www.eu-startups.com/2026/08/uk-based-hexseed-raises-over-e700k-to-cool-ai-data-centres-with-its-with-diamond-coating-technology/
+  source: eu-startups
+  date_found: '2026-08-21'
+  parsed_company: UK-based HexSeed
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Danish AI infrastructure startup Velatir secures €5 million six months after
     its pre-Seed round and official launch
   url: https://www.eu-startups.com/2026/08/danish-ai-infrastructure-startup-velatir-secures-e5-million-six-months-after-its-pre-seed-round-and-official-launch/
@@ -864,21 +882,5 @@ pending_rounds:
   date_found: '2026-08-04'
   parsed_company: Adams Street Partners
   parsed_amount: $2.7B
-  parsed_round: null
-  status: pending
-- title: Kingswood Capital Management raised $3.1B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-04'
-  parsed_company: Kingswood Capital Management
-  parsed_amount: $3.1B
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/4/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-4-2026/
-  source: alleywatch
-  date_found: '2026-08-04'
-  parsed_company: null
-  parsed_amount: null
   parsed_round: null
   status: pending
