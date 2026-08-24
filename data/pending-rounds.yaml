@@ -46,6 +46,23 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 8/24/2026'
+  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-24-2026/
+  source: alleywatch
+  date_found: '2026-08-24'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Smart thermostat maker Boldr raises €4.2 million to grow connected heating
+    and cooling platform
+  url: https://www.eu-startups.com/2026/08/smart-thermostat-maker-boldr-raises-e4-2-million-to-grow-connected-heating-and-cooling-platform/
+  source: eu-startups
+  date_found: '2026-08-24'
+  parsed_company: Smart thermostat maker Boldr
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Plymouth-based Oshen raises €4.27 million to scale robot swarms that act
     as the ocean’s “eyes and ears”
   url: https://www.eu-startups.com/2026/08/plymouth-based-oshen-raises-e4-27-million-to-scale-robot-swarms-that-act-as-the-oceans-eyes-and-ears/
@@ -866,24 +883,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-08-04'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Paris-based Shiplog raises over €807.6K to build agentic customer intelligence
-    for personalisation at scale
-  url: https://www.eu-startups.com/2026/08/paris-based-shiplog-raises-over-e807-6k-to-build-agentic-customer-intelligence-for-personalisation-at-scale/
-  source: eu-startups
-  date_found: '2026-08-04'
-  parsed_company: Paris-based Shiplog
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Female-founded AI LegalTech startup Aavalynx raises €1.75 million to bring
-    “death to disputes”
-  url: https://www.eu-startups.com/2026/08/female-founded-ai-legaltech-startup-aavalynx-raises-e1-75-million-to-bring-death-to-disputes/
-  source: eu-startups
-  date_found: '2026-08-04'
-  parsed_company: Female-founded AI LegalTech startup Aavalynx
   parsed_amount: null
   parsed_round: null
   status: pending
