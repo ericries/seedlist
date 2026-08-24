@@ -20,6 +20,32 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The Weekly Notable Startup Funding Report: 8/24/26'
+  url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-24-26/
+  source: alleywatch
+  date_found: '2026-08-24'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London-based Embedd raises €2.3 million to build the software infrastructure
+    for physical AI
+  url: https://www.eu-startups.com/2026/08/london-based-embedd-raises-e2-3-million-to-build-the-software-infrastructure-for-physical-ai/
+  source: eu-startups
+  date_found: '2026-08-24'
+  parsed_company: London-based Embedd
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Berlin-based Kazimi secures €2.2 million to help app developers protect and
+    verify first-party data
+  url: https://www.eu-startups.com/2026/08/berlin-based-kazimi-secures-e2-2-million-to-help-app-developers-protect-and-verify-first-party-data/
+  source: eu-startups
+  date_found: '2026-08-24'
+  parsed_company: Berlin-based Kazimi
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Plymouth-based Oshen raises €4.27 million to scale robot swarms that act
     as the ocean’s “eyes and ears”
   url: https://www.eu-startups.com/2026/08/plymouth-based-oshen-raises-e4-27-million-to-scale-robot-swarms-that-act-as-the-oceans-eyes-and-ears/
@@ -859,31 +885,5 @@ pending_rounds:
   date_found: '2026-08-04'
   parsed_company: Female-founded AI LegalTech startup Aavalynx
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Inocras raised $31M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-04'
-  parsed_company: Inocras
-  parsed_amount: $31M
-  parsed_round: null
-  status: processed
-  processed: '2026-08-04'
-- title: Buzz Solutions raised $20M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-04'
-  parsed_company: Buzz Solutions
-  parsed_amount: $20M
-  parsed_round: Series A
-  status: processed
-  processed: '2026-08-04'
-- title: ARC Group Securities Acquisition I raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-04'
-  parsed_company: ARC Group Securities Acquisition I
-  parsed_amount: $150M
   parsed_round: null
   status: pending
