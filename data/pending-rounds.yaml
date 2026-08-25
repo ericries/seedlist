@@ -73,6 +73,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Stability AI, maker of image generator Stable Diffusion, raises $76 million
+    in fresh funding
+  url: https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/
+  source: techcrunch
+  date_found: '2026-08-25'
+  parsed_company: Stability AI, maker of image generator Stable Diffusion,
+  parsed_amount: $76M
+  parsed_round: null
+  status: pending
+- title: Self-driving truck startup Gatik raises $200M following PepsiCo deal
+  url: https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/
+  source: techcrunch
+  date_found: '2026-08-25'
+  parsed_company: Self-driving truck startup Gatik
+  parsed_amount: $200M
+  parsed_round: null
+  status: pending
+- title: '“Europe is aging rapidly”: Solace Care raises €2.1 million in largest pre-Seed
+    round to date for a European end-of-life platform'
+  url: https://www.eu-startups.com/2026/08/europe-is-aging-rapidly-solace-care-raises-e2-1-million-in-largest-pre-seed-round-to-date-for-a-european-end-of-life-platform/
+  source: eu-startups
+  date_found: '2026-08-25'
+  parsed_company: '“Europe is aging rapidly”: Solace Care'
+  parsed_amount: null
+  parsed_round: Pre-Seed
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 8/24/26'
   url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-24-26/
   source: alleywatch
@@ -856,34 +882,3 @@ pending_rounds:
   status: processed
   processed_date: '2026-08-06'
   processed_note: Round already recorded in data/startups/moss.md
-- title: Scaleup Europe Fund makes debut investment by co-leading ICEYE’s €1 billion
-    Series F round
-  url: https://www.eu-startups.com/2026/08/scaleup-europe-fund-makes-debut-investment-by-co-leading-iceyes-e1-billion-series-f-round/
-  source: eu-startups
-  date_found: '2026-08-05'
-  parsed_company: ICEYE
-  parsed_amount: €1B
-  parsed_round: Series F
-  status: processed
-  processed_date: '2026-08-06'
-  processed_note: Round already recorded in data/startups/iceye.md (Series F, General
-    Atlantic + Scaleup Europe Fund co-leads)
-- title: AsymBio raised $184M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: AsymBio
-  parsed_amount: $184M
-  parsed_round: null
-  status: processed
-  processed_date: '2026-08-05'
-  processed_note: Created data/startups/asymbio.md; capital injection led by Asymchem
-    Group with Hillhouse Qirui
-- title: m in cash. AiDash had raised $91.5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: m in cash. AiDash had
-  parsed_amount: $91.5M
-  parsed_round: null
-  status: pending
