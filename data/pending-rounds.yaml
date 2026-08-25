@@ -37,6 +37,42 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Fiat Ventures combines venture and advisory divisions into new brand, raises
+    $35M Fund II
+  url: https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/
+  source: techcrunch
+  date_found: '2026-08-25'
+  parsed_company: Fiat Ventures combines venture and advisory divisions into new brand,
+  parsed_amount: $35M
+  parsed_round: null
+  status: pending
+- title: French SpaceTech startup ArcSpace secures over €2 million for in-orbit satellite
+    servicing and repair
+  url: https://www.eu-startups.com/2026/08/french-spacetech-startup-arcspace-secures-over-e2-million-for-in-orbit-satellite-servicing-and-repair/
+  source: eu-startups
+  date_found: '2026-08-25'
+  parsed_company: French SpaceTech startup ArcSpace
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Brussels-based MAASH secures €12.15 million to take mycoprotein production
+    to industrial scale
+  url: https://www.eu-startups.com/2026/08/brussels-based-maash-secures-e12-15-million-to-take-mycoprotein-production-to-industrial-scale/
+  source: eu-startups
+  date_found: '2026-08-25'
+  parsed_company: Brussels-based MAASH
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Stockholm’s eComID raises €14.6 million to build the “shopping passport”
+    for AI-powered personalised commerce
+  url: https://www.eu-startups.com/2026/08/stockholms-ecomid-raises-e14-6-million-to-build-the-shopping-passport-for-ai-powered-personalised-commerce/
+  source: eu-startups
+  date_found: '2026-08-25'
+  parsed_company: Stockholm’s eComID
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 8/24/26'
   url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-24-26/
   source: alleywatch
@@ -851,37 +887,3 @@ pending_rounds:
   parsed_amount: $91.5M
   parsed_round: null
   status: pending
-- title: G Squared raised $2.3B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-05'
-  parsed_company: G Squared
-  parsed_amount: $2.3B
-  parsed_round: null
-  status: pending
-- title: The July 2026 US Venture Capital Funding Report
-  url: https://alleywatch.com/2026/08/us-venture-capital-statistics-july-2026/
-  source: alleywatch
-  date_found: '2026-08-05'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/5/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-5-2026/
-  source: alleywatch
-  date_found: '2026-08-05'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Moove raises $250M to become the backbone of the robotaxi industry
-  url: https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/
-  source: techcrunch
-  date_found: '2026-08-05'
-  parsed_company: Moove
-  parsed_amount: $250M
-  parsed_round: Series C
-  status: processed
-  processed_date: '2026-08-06'
-  processed_note: Round already recorded in data/startups/moove.md (Series C, Mubadala-led)
