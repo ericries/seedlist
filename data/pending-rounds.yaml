@@ -20,6 +20,23 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Hungary’s BOOKR Kids closes €6.1 million Series A for global EdTech expansion
+  url: https://www.eu-startups.com/2026/08/hungarys-bookr-kids-closes-e6-1-million-series-a-for-global-edtech-expansion/
+  source: eu-startups
+  date_found: '2026-08-25'
+  parsed_company: Hungary’s BOOKR Kids
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Amsterdam’s Neno raises €6.6 million to build the AI-native back office suite
+    for entrepreneurs
+  url: https://www.eu-startups.com/2026/08/amsterdams-neno-raises-e6-6-million-to-build-the-ai-native-back-office-suite-for-entrepreneurs/
+  source: eu-startups
+  date_found: '2026-08-25'
+  parsed_company: Amsterdam’s Neno
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 8/24/26'
   url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-24-26/
   source: alleywatch
@@ -868,21 +885,3 @@ pending_rounds:
   status: processed
   processed_date: '2026-08-06'
   processed_note: Round already recorded in data/startups/moove.md (Series C, Mubadala-led)
-- title: Fusemachines Closes Up to $10.66 Million Investment at $4.20 per Share for
-    Growth Capital from Existing Investor Meteora Capital
-  url: https://www.globenewswire.com/news-release/2026/08/04/3338101/0/en/Fusemachines-Closes-Up-to-10-66-Million-Investment-at-4-20-per-Share-for-Growth-Capital-from-Existing-Investor-Meteora-Capital.html
-  source: globenewswire
-  date_found: '2026-08-04'
-  parsed_company: Fusemachines
-  parsed_amount: $10.66M
-  parsed_round: null
-  status: processed
-  processed: '2026-08-04'
-- title: The AlleyWatch July 2026 New York Venture Capital Funding Report
-  url: https://alleywatch.com/2026/08/new-york-venture-capital-july-2026/
-  source: alleywatch
-  date_found: '2026-08-04'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
