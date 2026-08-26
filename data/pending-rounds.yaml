@@ -99,6 +99,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Pre-Seed
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 8/25/2026'
+  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-25-2026/
+  source: alleywatch
+  date_found: '2026-08-25'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 8/24/26'
   url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-24-26/
   source: alleywatch
@@ -871,14 +879,3 @@ pending_rounds:
   status: processed
   processed_date: '2026-08-06'
   processed_note: Round already recorded in data/startups/river.md
-- title: Berlin-based Moss hits unicorn status after closing €30 million Series C
-    to expand its Finance AI suite
-  url: https://www.eu-startups.com/2026/08/berlin-based-moss-hits-unicorn-status-after-closing-e30-million-series-c-to-expand-its-finance-ai-suite/
-  source: eu-startups
-  date_found: '2026-08-05'
-  parsed_company: Moss
-  parsed_amount: €30M
-  parsed_round: Series C
-  status: processed
-  processed_date: '2026-08-06'
-  processed_note: Round already recorded in data/startups/moss.md
