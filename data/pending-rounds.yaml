@@ -38,6 +38,41 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Fashion startup Atorie raises $9.5M to bring consumers luxury goods without
+    the markup
+  url: https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
+  source: techcrunch
+  date_found: '2026-08-27'
+  parsed_company: Fashion startup Atorie
+  parsed_amount: $9.5M
+  parsed_round: null
+  status: pending
+- title: Tackling STI testing, Readily Diagnostics raises €811k for affordable alternative
+  url: https://www.eu-startups.com/2026/08/tackling-sti-testing-readily-diagnostics-raises-e811k-for-affordable-alternative/
+  source: eu-startups
+  date_found: '2026-08-27'
+  parsed_company: Tackling STI testing, Readily Diagnostics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Lausanne-based Adaptyv raises €34.35 million Series A to build the automated
+    lab for agentic biology
+  url: https://www.eu-startups.com/2026/08/lausanne-based-adaptyv-raises-e34-35-million-series-a-to-build-the-automated-lab-for-agentic-biology/
+  source: eu-startups
+  date_found: '2026-08-27'
+  parsed_company: Lausanne-based Adaptyv
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Eindhoven’s VitalFluid raises €17.2 million to protect crops with its “lightning
+    in a box” technology
+  url: https://www.eu-startups.com/2026/08/eindhovens-vitalfluid-raises-e17-2-million-to-protect-crops-with-lightning-in-a-box-technology/
+  source: eu-startups
+  date_found: '2026-08-27'
+  parsed_company: Eindhoven’s VitalFluid
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Sector Snapshot: Legal Tech Funding Down Slightly From All-Time High'
   url: https://news.crunchbase.com/venture/legal-tech-startuo-funding-down-ai-acquisitions-2026/
   source: crunchbase
@@ -843,38 +878,5 @@ pending_rounds:
   date_found: '2026-08-06'
   parsed_company: Defense tech Hadrian
   parsed_amount: $1.37B
-  parsed_round: null
-  status: pending
-- title: Naïve raises $28.5M to automate the grunt work of setting up and running
-    a company
-  url: https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
-  source: techcrunch
-  date_found: '2026-08-06'
-  parsed_company: Naïve
-  parsed_amount: $28.5M
-  parsed_round: null
-  status: pending
-- title: Braveheart Bio raised $382.5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-06'
-  parsed_company: Braveheart Bio
-  parsed_amount: $382.5M
-  parsed_round: null
-  status: pending
-- title: Braveheart had raised $185M VC
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-06'
-  parsed_company: Braveheart had
-  parsed_amount: $185M
-  parsed_round: Vc
-  status: pending
-- title: Energy Capital Partners raised $8.1B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-06'
-  parsed_company: Energy Capital Partners
-  parsed_amount: $8.1B
   parsed_round: null
   status: pending
