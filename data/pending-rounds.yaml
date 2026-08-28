@@ -46,6 +46,42 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: AI Tools And Assistants Lead Sparser
+    Lineup Of Megadeals'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/
+  source: crunchbase
+  date_found: '2026-08-28'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Aug. 24 – Aug. 28)
+  url: https://www.eu-startups.com/2026/08/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-aug-24-aug-28/
+  source: eu-startups
+  date_found: '2026-08-28'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Biomaterials company Ponda closes crowdfunding round at €1.6 million – welcoming
+    256 new investors
+  url: https://www.eu-startups.com/2026/08/biomaterials-company-ponda-closes-their-crowdfunding-round-at-e1-6-million-shattering-their-e230k-mininum/
+  source: eu-startups
+  date_found: '2026-08-28'
+  parsed_company: Biomaterials company Ponda
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Maastricht-based Clementine raises €1.7 million to scale its AI-powered hearing
+    care platform
+  url: https://www.eu-startups.com/2026/08/maastricht-based-clementine-raises-e1-7-million-to-scale-its-ai-powered-hearing-care-platform/
+  source: eu-startups
+  date_found: '2026-08-28'
+  parsed_company: Maastricht-based Clementine
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Brussels-based Motion raises €1.7 million to tackle Europe’s “robot adoption
     problem”
   url: https://www.eu-startups.com/2026/08/brussels-based-motion-raises-e1-7-million-to-tackle-europes-robot-adoption-problem/
@@ -842,41 +878,3 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series B
   status: pending
-- title: Munich-based NavVis raises €73.7 million to build its spatial data engine
-    and accelerate AI roadmap
-  url: https://www.eu-startups.com/2026/08/munich-based-navvis-raises-e74-5-million-to-build-its-spatial-data-engine-and-accelerate-ai-roadmap/
-  source: eu-startups
-  date_found: '2026-08-07'
-  parsed_company: Munich-based NavVis
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (Aug. 03 – Aug. 07)
-  url: https://www.eu-startups.com/2026/08/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-aug-03-aug-07/
-  source: eu-startups
-  date_found: '2026-08-07'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-billion-dollar-raises-manufacturing-energy-ai/
-  source: crunchbase
-  date_found: '2026-08-07'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Aix-en-Provence-based Chargepoly secures €23 million to accelerate heavy-duty
-    fleet electrification
-  url: https://www.eu-startups.com/2026/08/aix-en-provence-based-chargepoly-secures-e23-million-to-accelerate-heavy-duty-fleet-electrification/
-  source: eu-startups
-  date_found: '2026-08-06'
-  parsed_company: Aix-en-Provence-based Chargepoly
-  parsed_amount: €23M
-  parsed_round: Growth
-  status: processed
-  processed_date: '2026-08-06'
-  processed_note: Created data/startups/chargepoly.md; Meridiam-led €23M growth round
-    (2026-07-27) with Fideve Groupe; queued Meridiam firm profile
