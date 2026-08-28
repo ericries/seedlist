@@ -20,6 +20,32 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'Sector Snapshot: Space Tech Startup Funding Orbits New Highs'
+  url: https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/
+  source: crunchbase
+  date_found: '2026-08-28'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Berlin-based Nanolope secures €800k to turn building surfaces into thermal
+    energy storage systems
+  url: https://www.eu-startups.com/2026/08/berlin-based-nanolope-secures-e800k-to-turn-building-surfaces-into-thermal-energy-storage-systems/
+  source: eu-startups
+  date_found: '2026-08-28'
+  parsed_company: Berlin-based Nanolope
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Montpellier-based dental robotics startup Lupin Dental closes €15 million
+    Series A round
+  url: https://www.eu-startups.com/2026/08/montpellier-based-dental-robotics-startup-lupin-dental-closes-e15-million-series-a-round/
+  source: eu-startups
+  date_found: '2026-08-28'
+  parsed_company: Montpellier-based dental robotics startup Lupin Dental
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Brussels-based Motion raises €1.7 million to tackle Europe’s “robot adoption
     problem”
   url: https://www.eu-startups.com/2026/08/brussels-based-motion-raises-e1-7-million-to-tackle-europes-robot-adoption-problem/
@@ -854,29 +880,3 @@ pending_rounds:
   processed_date: '2026-08-06'
   processed_note: Created data/startups/chargepoly.md; Meridiam-led €23M growth round
     (2026-07-27) with Fideve Groupe; queued Meridiam firm profile
-- title: Finland’s SeeTrue Technologies raises €2.2 million to commercialise low-power
-    eye-sensing architecture
-  url: https://www.eu-startups.com/2026/08/finlands-seetrue-technologies-raises-e2-2-million-to-commercialise-low-power-eye-sensing-architecture/
-  source: eu-startups
-  date_found: '2026-08-06'
-  parsed_company: Finland’s SeeTrue Technologies
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Crawley-based Naked Energy secures €10.35 million to build UK solar-thermal
-    technology manufacturing facility
-  url: https://www.eu-startups.com/2026/08/crawley-based-naked-energy-secures-e10-35-million-to-build-uk-solar-thermal-technology-manufacturing-facility/
-  source: eu-startups
-  date_found: '2026-08-06'
-  parsed_company: Crawley-based Naked Energy
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Defense tech Hadrian raises $1.37B at $8B valuation
-  url: https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/
-  source: techcrunch
-  date_found: '2026-08-06'
-  parsed_company: Defense tech Hadrian
-  parsed_amount: $1.37B
-  parsed_round: null
-  status: pending
