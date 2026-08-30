@@ -162,6 +162,25 @@ Jeremy Allaire, CEO and co-founder of Circle, on Jim Breyer: "You've been invest
 
 No additional independently sourced founder testimonials found beyond Circle's Jeremy Allaire. Breyer's portfolio companies rarely feature public founder testimonials about individual investors, which is common for investors at his scale who operate through personal capital rather than institutional fund marketing.
 
+## Connections
+
+- **Board member, Blackstone (BX)** — 2016 to present [^3]
+- **Former board, 21st Century Fox** — 2011-2019 [^3]
+- **Former board, Dell** — 2009-2013 [^3]
+- **Former board, Walmart** — 2001-2013 [^2][^3]
+- **Former board, Facebook (Meta)** — 2005-2013, following Accel's Series A [^3][^4]
+- **Former board, Etsy** — 2008-2016, from the $27M Series D [^5]
+- **Former board, Marvel Entertainment** — 2006-2009 (until Disney's $4B+ acquisition) [^6]
+- **Board member, Legendary Entertainment** — from 2011, alongside Dick Cook and founder Thomas Tull [^16]
+- **Fellow Emeritus, Harvard Corporation** [^2][^3]
+- **Founding advisory board member, Stanford Institute for Human-Centered AI (HAI)** [^2][^3]
+- **Co-founder, Accel-KKR** (2001) — with George Roberts and Henry Kravis (KKR founders) [^2]
+- **Co-founder, Accel Europe** (London) — with HBS classmate Kevin Comolli [^2]
+- **Prior employer, Accel Partners** (1987-2020s) — Partner 1990, Managing Partner 1995; mentored by co-founders Arthur Patterson and Jim Swartz [^1][^3]
+- **Repeat-founder relationships**: Jeremy Allaire (Brightcove -> Circle) [^13][^20]; Daniel Nadler (Kensho -> EDO -> OpenEvidence) [^14]
+- **Top co-investors**: Accel Partners (long-standing historical relationship since Facebook / Etsy era), General Catalyst (Circle Series A co-investor, 2013) [^13], MSD Capital / Michael Dell (Harbor Health $130M round, 2025) [^15]
+- **Education**: Stanford (BS with Distinction, Interdisciplinary Studies, 1983); Harvard Business School (MBA, Baker Scholar) [^2][^3]
+
 ## Sources
 
 [^1]: "Jim Breyer" biographical sources, PeoplePill, accessed March 2026. https://peoplepill.com/i/jim-breyer

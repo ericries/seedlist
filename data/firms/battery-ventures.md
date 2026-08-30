@@ -82,7 +82,7 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Coinbase | Series D ($100M round, IVP led) | 2017 | Fintech | IPO (2021) | [^7][^4][^14][^15] |
+| Coinbase | Series D ($100M at $1.6B post-money; IVP led; Battery Ventures + Spark Capital + Greylock Partners + Section 32 + Draper Associates participated) | 2017-08-10 | Fintech | IPO (2021) | [^7][^4][^14][^15][^35][^36][^37] |
 | Wayfair | Growth | 2011 | E-commerce | IPO (2014) | [^3] |
 | Affirm | Growth | 2019 | Fintech | IPO (2021) | [^4][^7] |
 | Groupon | Growth | 2010 | Consumer | IPO (2011) | [^3][^7] |
@@ -153,7 +153,7 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^10]: Battery Ventures website, "Marcus Ryu" profile, accessed March 2026. https://www.battery.com/people/marcus-ryu/
 [^11]: "Fundamental Announces $255M in Funding and Publicly Launches its Most Powerful Large Tabular Model." BusinessWire, February 5, 2026. https://www.businesswire.com/news/home/20260205966141/en/Fundamental-Announces-$255M-in-Funding-and-Publicly-Launches-its-Most-Powerful-Large-Tabular-Model-LTM
 [^12]: "Nexthop AI launches with $110m funding round." DataCenterDynamics, accessed March 2026. https://www.datacenterdynamics.com/en/news/nexthop-ai-launches-with-110m-funding-round/
-[^14]: Coinbase blog, "Coinbase raises $100M Series D led by IVP," January 2017. Battery Ventures participated alongside Spark Capital, Greylock. https://www.coinbase.com/blog/coinbase-raises-100m-series-d-led-by-ivp
+[^14]: Coinbase blog (Brian Armstrong), "Coinbase raises $100M Series D led by IVP," August 10, 2017, accessed August 2026. https://www.coinbase.com/blog/coinbase-raises-100m-series-d-led-by-ivp — Primary company announcement. Confirms August 10, 2017 announcement date; $100M Series D led by IVP at $1.6B post-money valuation; Battery Ventures participated alongside Spark Capital, Greylock Partners, Section 32, and Draper Associates.
 [^15]: Battery Ventures portfolio page for Coinbase, "Invested 2017, Growth stage, Roger Lee," accessed March 2026. https://www.battery.com/company/coinbase/
 [^13]: AVP, "Orkes raises $60M as developers increasingly use its platform to deploy AI confidently in production," April 23, 2026. https://avpcap.com/orkes-raises-60m-as-developers-increasingly-use-its-platform-to-deploy-ai-confidently-in-production/
 [^28]: SiliconANGLE, "Nexthop AI launches with $110M to build next-gen cloud AI infrastructure," March 25, 2025. https://siliconangle.com/2025/03/25/nexthop-ai-launches-110m-build-next-gen-cloud-ai-infrastructure/ — Confirms Nexthop AI launched from stealth March 25, 2025 with $110M combined seed and Series A round led by Lightspeed Venture Partners; Kleiner Perkins, WestBridge Capital, Battery Ventures, and Emergent Ventures participated. CEO Anshul Sadana quoted.
@@ -210,3 +210,9 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^term2]: FinSMEs, "Terminal Raises $20M in Series A Funding," July 2026. Accessed July 31, 2026. https://www.finsmes.com/2026/07/terminal-raises-20m-in-series-a-funding.html
 
 [^term3]: Terminal press release via PR Newswire, "Terminal Raises $20 Million to Scale Market-Leading Telematics Integration Technology for Fortune 500 Companies Across Insurance, Fleet Management and Logistics," July 29, 2026. Accessed July 31, 2026. https://www.prnewswire.com/news-releases/terminal-raises-20-million-to-scale-market-leading-telematics-integration-technology-for-fortune-500-companies-across-insurance-fleet-management-and-logistics-302837250.html — Primary source confirming Battery Ventures lead, Marcus Ryu joining board, participants list, and Series A designation.
+
+[^35]: Katie Roof, "Coinbase raises $100M at a $1.6B valuation amid explosive growth," TechCrunch, August 10, 2017, accessed August 2026. https://techcrunch.com/2017/08/10/coinbase-raises-100m-at-a-1-6b-valuation-amid-explosive-growth/ — Contemporaneous tier-1 tech press confirming August 10, 2017 announcement date; $100M Series D at $1.6B valuation led by IVP with Spark Capital, Greylock Partners, Battery Ventures, Section 32, and Draper Associates participating.
+
+[^36]: Laura Shin, "Coinbase Becomes First Crypto Unicorn, Raises $100 Million In Funding Amid ICO Craze," Forbes, August 10, 2017, accessed August 2026. https://www.forbes.com/sites/laurashin/2017/08/10/coinbase-becomes-first-crypto-unicorn-raises-100-million-in-funding-amid-ico-craze/ — Independent tier-1 press confirmation of August 10, 2017 $100M Series D; IVP lead; Spark Capital, Greylock Partners, Battery Ventures, Section 32, and Draper Associates participated. Coinbase became the first crypto unicorn.
+
+[^37]: PYMNTS, "Coinbase's $100M In Funding Brings Its Valuation To $1.6B," August 10, 2017, accessed August 2026. https://www.pymnts.com/news/investment-tracker/2017/vc-funding-brings-coinbase-valuation-to-1-6b/ — Third independent press confirmation of the Coinbase $100M Series D announcement on August 10, 2017 with Battery Ventures as a named participant.

@@ -142,6 +142,21 @@ His approach to VC-founder trust: "A lot of it's around time early on and over s
 
 No independently sourced founder testimonials found. Deeter has served on numerous boards (Twilio for 14 years, ServiceTitan, Syndio, MaintainX, Courier, among others) and is described on the BVP website as working "closely alongside many of the best founders in the cloud world" [^1], but no direct founder quotes about their experience working with Deeter were found through dedicated searching.
 
+## Connections
+
+- **Partner, Bessemer Venture Partners** (2005–) — leads the firm's global cloud practice [^1][^2]
+- **Board Member, Twilio** (2010 – 2024) — 14-year tenure spanning seed investment through IPO (NYSE: TWLO), working alongside Jeff Lawson (co-founder/CEO) [^4][^10]
+- **Board Member, ServiceTitan** (2015–) — led the Series A; worked with co-founders Ara Mahdessian and Vahe Kuzoyan through their December 2024 IPO (NASDAQ: TTAN) [^1][^9]
+- **Board Member, Syndio, MaintainX, and Courier** (per BVP profile) [^1]
+- **Former Chairman, National Venture Capital Association (NVCA)** [^1][^4]
+- **Co-founder & CEO, Trigo Technologies** (1999) — one of the first global SaaS companies; acquired by IBM [^1][^2]
+- **Prior employers**: McKinsey & Co and TA Associates [^3]
+- **Co-owner, San Francisco 49ers and Leeds United football club** [^1]
+- **Creator, STRIVE** — Bessemer's executive health and wellness program for portfolio company leaders [^1]
+- **Co-author of industry canon**: the "10 Laws of Cloud Computing," annual "State of the Cloud" report, the Bessemer Forbes Cloud 100 list, and the BVP Nasdaq Emerging Cloud Index [^1][^2]
+- **Top co-investors**: Salesforce Ventures (Vlocity), Vista Equity Partners (Gainsight acquisition), and other enterprise-focused funds across his cloud portfolio [^1]
+- **Recognition**: perennial Forbes Midas List investor [^1]
+
 ## Sources
 
 [^1]: Bessemer Venture Partners, "Byron Deeter" team page, accessed March 2026. https://www.bvp.com/team/byron-deeter

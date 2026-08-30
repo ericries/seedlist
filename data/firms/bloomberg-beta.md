@@ -5,6 +5,7 @@ type: firm
 website: "https://www.bloombergbeta.com"
 location: "San Francisco, CA"
 founded: 2013
+tldr: "Bloomberg Beta is a San Francisco and New York early-stage firm founded in 2013, capitalized solely by Bloomberg L.P. with $450M AUM across five $75M funds plus a $75M opportunity fund. The firm invests in 'the future of work' — enterprise, developer tools, and AI — and has backed Slack, Kaggle, Weights & Biases, Replit, Netlify, Lambda, and Streamlit. It publishes its full operating manual and portfolio on GitHub and gives each partner unilateral authority to say yes."
 fund_size: "$75M per fund; $450M total AUM across five $75M funds plus one $75M opportunity fund"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [ai, future-of-work, enterprise, developer-tools, data, productivity, cybersecurity]

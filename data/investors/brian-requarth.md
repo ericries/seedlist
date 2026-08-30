@@ -4,6 +4,7 @@ slug: brian-requarth
 type: individual
 firm: latitud
 role: "Co-Founder & General Partner"
+tldr: "Brian Requarth is co-founder and General Partner of Latitud, a pre-seed venture fund and startup infrastructure platform for Latin America backing 123+ companies across Brazil (47%), Mexico (24%), and Argentina (11%). Formerly CEO of VivaReal (merged into Grupo ZAP, sold to OLX Brasil for ~$600M in 2020), he writes $200K-$500K first checks concentrated in fintech, e-commerce, and proptech."
 location: "Sebastopol, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [fintech, proptech, vertical-saas, marketplaces, e-commerce, healthtech]

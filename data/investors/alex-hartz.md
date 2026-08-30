@@ -4,6 +4,7 @@ slug: alex-hartz
 type: individual
 firm: shine-capital
 role: "General Partner"
+tldr: "Alex Hartz is a General Partner at Shine Capital in San Francisco, having built an eight-year fintech and embedded-finance practice at SciFi VC before joining Shine in 2023. He leads pre-seed through Series A rounds ($1M-$7M) in embedded lending, applied AI, and vertical SaaS; verified led rounds include Aven, Settle, Peach Finance, iVerify, Visia/BinIt, and AudioShake."
 location: "San Francisco, CA"
 stage_focus:
 - pre-seed

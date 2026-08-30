@@ -4,6 +4,7 @@ slug: alex-salazar
 type: individual
 firm: arcade
 role: "Co-founder & CEO, Arcade.dev"
+tldr: "Alex Salazar is co-founder and CEO of Arcade.dev, an AI agent action-layer platform, and a second-time founder in developer identity following Stormpath's 2017 acquisition by Okta. No independently verified personal angel investments were found in this research pass; his public thesis focuses on authentication, tooling, and enterprise governance for autonomous AI agents."
 location: "Burlingame, CA (San Francisco Bay Area)"
 stage_focus: [seed, pre-seed]
 sector_focus: [ai, developer-tools, identity, auth, ai-infrastructure]

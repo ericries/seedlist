@@ -142,6 +142,7 @@ Based on 48 verified investments in the portfolio table below:
 | nEye.ai | Series C ($80M; Sutter Hill Ventures led) | 2026-04-14 | AI / Data Center / Optical Switching | Active | [^56][^57][^58] |
 | OpenRouter | Series B (led, $113M at $1.3B val) | 2026-05-26 | AI / LLM Infrastructure | Active | [^59] |
 | AlphaSense | Series G ($350M at $7.5B val) | 2026-06-03 | Enterprise/AI | Active | [^60][^61][^62] |
+| K2 Space | Series D ($500M at $6.8B valuation; Kleiner Perkins and ICONIQ co-led; CapitalG new participant alongside Lightspeed, Altimeter, Spark Capital, Sands Capital, ARK Invest, and T. Rowe Price Associates) | 2026-07-30 | Aerospace / Satellites | Active | [^k2d1][^k2d2][^k2d3] |
 
 *This table represents approximately 48 verified investments. CapitalG's total portfolio includes approximately 76 organizations per Crunchbase [^30], so this table covers roughly 63% of known investments. Years marked with ~ are approximate, based on founding year proxies or portfolio page listing dates.*
 

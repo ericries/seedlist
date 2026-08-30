@@ -197,6 +197,18 @@ Max Junestrand, founder of Legora, specifically chose to work with Chetan Puttag
 
 *Note: The Gurley quotes are sourced from Benchmark's own announcement post. While Gurley attributes the "MVP of our board" quote to founders and CEOs, the specific individuals are not named. Independent founder testimonials from sources outside Benchmark's own communications were limited in available public sources.*
 
+## Connections
+
+- **Chairman of the Board and Lead Independent Director, Elastic (NYSE: ESTC)** [^5]
+- **General Partner, Benchmark** (since July 2018) — recruited alongside partners Bill Gurley (who publicly announced the hire) and Peter Fenton (who first observed his work on the Elastic board) [^6]
+- **Former General Partner, New Enterprise Associates (NEA)** (2011–2018) — promoted to GP in October 2016; led investments in MongoDB, MuleSoft, Elastic, Acquia, Reltio, Heap, Sentry, Swiftype, Forter, ScoutRFP, Canopy, and Folloze [^4]
+- **Former Investor, H.I.G. Capital** — Leveraged Buyout Group [^3][^4][^5]
+- **Former Technology Investment Banker, Houlihan Lokey** [^3][^4][^5]
+- **Frequent downstream co-investors on Benchmark deals**: Sequoia Capital (LangChain Series A) [^17]; Andreessen Horowitz (Reducto Series B) [^19]; Redpoint Ventures (Levelpath Series A) [^16]; Thrive Capital (Stytch Series A) [^20]
+- **Y Combinator pipeline**: multiple Benchmark deals (Airbyte, Numeral, Reducto) came from Y Combinator [^9][^18][^19]
+- **Repeat-founder relationship**: backed the Levelpath team after previously investing in their earlier company ScoutRFP (acquired by Workday) at NEA [^16]
+- **Recognition**: Forbes 30 Under 30 in venture capital (2015); Forbes Midas List #74 (2024) [^2][^3][^7]
+
 ## Sources
 
 [^1]: Signal by NFX, "Chetan Puttagunta Investing Profile," accessed March 2026. https://signal.nfx.com/investors/chetan-puttagunta

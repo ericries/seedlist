@@ -4,6 +4,7 @@ slug: adrien-treuille
 type: individual
 firm: snowflake
 role: "Co-founder of Streamlit (acq. by Snowflake, 2022); Director of Product, Generative AI at Snowflake; Angel investor"
+tldr: "Adrien Treuille is Streamlit's co-founder (acquired by Snowflake, 2022) and Snowflake's Director of Product for Generative AI, angel-investing in developer tools, ML infrastructure, and applied scientific computing. Verified checks include Brightband (open-source climate AI) and Ridge AI (embedded analytics), often alongside a 'data-visualization mafia' of Tableau, Trifacta, and Cloudera founders."
 location: "San Francisco Bay Area, CA"
 stage_focus:
 - pre-seed

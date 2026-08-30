@@ -1,5 +1,6 @@
 ---
 founded: 2019
+tldr: "Buckley Ventures is a solo-GP firm founded in 2019 by Josh Buckley (Mino Games founder, former Product Hunt CEO, Clearbit chairman) with $1B+ AUM across multiple funds. It makes concentrated $2M-$32M seed and Series A checks across enterprise SaaS, developer tools, frontier tech, and aerospace. Portfolio includes Rippling, Retool, Vercel, Mercury, Ramp, Boom Supersonic, Relativity Space, Astranis, Applied Intuition, Speak, and Clearbit (acquired by HubSpot for $150M)."
 fund_size: '$1B+ AUM across multiple funds; Fund III: $337M (2022); Fund IV: $250M
   target (2024)'
 last_researched: 2026-03-24

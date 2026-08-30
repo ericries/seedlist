@@ -4,6 +4,7 @@ slug: abhay-singhal
 type: individual
 firm: glance
 role: "Co-Founder, InMobi; CEO, InMobi Advertising; Angel Investor"
+tldr: "Abhay Singhal is a Co-Founder of InMobi and CEO of InMobi Advertising who angel-invests in Indian and cross-border startups, typically alongside his InMobi co-founders. Verified checks include Razorpay (2014 seed), Factors.AI, and Bright Money, skewing to fintech and B2B SaaS. His deals are network-driven through the Indian operator-angel cluster rather than thesis-led."
 location: "San Francisco Bay Area"
 stage_focus: [seed, pre-seed, angel]
 sector_focus: [fintech, SaaS, adtech, B2B, edtech, consumer-internet]

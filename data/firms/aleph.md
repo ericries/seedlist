@@ -79,7 +79,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Agora | Seed | 2021 | Real Estate | Active | [^9] |
+| Agora | Seed ($9M; Aleph led; River Park Ventures + Maccabee Ventures + strategic US real estate investors participated) | 2021-11-03 | Real Estate | Active | [^9] [^41] [^42] [^43] |
 | Anecdotes | Seed | 2020 | Data Infrastructure | Active | [^9] |
 | Approve | Seed | 2020 | Fintech | Acquired by Tipalti | [^9] |
 | Brew | Seed | 2020 | Logistics | Active | [^9] |
@@ -248,3 +248,9 @@ No additional independently sourced founder testimonials found beyond the Aleph 
 [^38]: Tech Startups, "Inevitable AI Group Raises $6M From Aleph to Launch AI-Native SaaS Companies," August 6, 2026, accessed August 2026. https://techstartups.com/2026/08/06/inevitable-ai-group-raises-6m-from-aleph-to-launch-ai-native-saas-companies/ — Confirms Aleph led $6M pre-seed for Tel Aviv AI venture studio founded by Nimrod Lehavi and Ofer Bar-Or. Eden Shochat quoted for Aleph.
 [^39]: GlobeNewswire via Manila Times, "Inevitable AI Group Raises $6M From Aleph to Launch AI-Native SaaS Companies," August 6, 2026, accessed August 2026. https://www.manilatimes.net/2026/08/06/tmt-newswire/globenewswire/inevitable-ai-group-raises-6m-from-aleph-to-launch-ai-native-saas-companies/2400229 — Primary press release syndication (GlobeNewswire) naming Aleph as sole $6M pre-seed lead with no other institutional participants. Full Eden Shochat quote: "SaaS isn't dying, it's being reinvented. AI gives customers the ability to create tools tailored to their needs on demand."
 [^40]: EU-Startups, "Inevitable AI Group raises €5.2 million from Aleph to launch AI-native SaaS companies," August 2026, accessed August 2026. https://www.eu-startups.com/2026/08/inevitable-ai-group-raises-e5-2-million-from-aleph-to-launch-ai-native-saas-companies — Independent European tech-press third source. Reports the $6M USD round as approximately €5.2M. Confirms Aleph as sole lead; no other institutional participants.
+
+[^41]: PR Newswire, "Agora Raises $9M for Their Real Estate Investment Management Software, With A Vengeance Against Excel Sheets," November 3, 2021, accessed August 2026. https://www.prnewswire.com/news-releases/agora-raises-9m-for-their-real-estate-investment-management-software-with-a-vengeance-against-excel-sheets-301415063.html — Primary press release. Confirms $9M seed round led by Aleph with participation from River Park Ventures and Maccabee Ventures, plus strategic investors from the US real estate market.
+
+[^42]: Calcalist / CTech, "Agora raises $9 million for real estate investment management platform," November 3, 2021, accessed August 2026. https://www.calcalistech.com/ctech/articles/0,7340,L-3921610,00.html — Independent Israeli tech-press confirmation of the November 3, 2021 announcement; $9M seed led by Aleph with River Park Ventures and Maccabee Ventures participating.
+
+[^43]: Crowdfund Insider, "Real Estate Investment Software Firm Agora Receives $9 Million In Seed Funding," November 2021, accessed August 2026. https://www.crowdfundinsider.com/2021/11/182405-real-estate-investment-software-firm-agora-receives-9-million-in-seed-funding/ — Independent third-source press confirmation of the $9M seed led by Aleph.

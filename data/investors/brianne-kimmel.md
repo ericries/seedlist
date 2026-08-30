@@ -180,6 +180,17 @@ Despite the "future of work" branding, the portfolio extends well beyond workpla
 
 No additional independently sourced founder testimonials found beyond the above. The Worklife Ventures website features additional testimonials, but these are firm-curated marketing materials [^2].
 
+## Connections
+
+- **Founder & Managing Partner, Worklife Ventures** (September 2019–) — launched with a $10M Fund I after an initial $3M target [^1][^2]
+- **Worklife Fund I LPs / early backers**: Marc Andreessen, Chris Dixon, Garry Tan, Alexis Ohanian, Eric Yuan (Zoom CEO), NFX, and Slow Ventures [^1][^8][^5]
+- **Y Combinator W2016 alumna** [^4]
+- **Founder, SaaS School** (2017–) — invite-only early-stage program with classes taught by executives from Airtable, Notion, and Superhuman [^3][^7]
+- **General Assembly instructor** — taught entrepreneurship to over 5,000 students [^4][^7]
+- **Prior: Head of Global Go-to-Market for Self-Serve Revenue, Zendesk** (2016 – 2019) — built "Zendesk for Startups" representing 3,000+ startups and 250+ accelerators [^4][^7]
+- **Prior: Head of Social Media, Expedia** (2013 – 2016) — worked across Sydney, Hong Kong, and Silicon Valley [^3][^4][^6]
+- **Top co-investors**: Andreessen Horowitz, Y Combinator, and Initialized Capital (Garry Tan); typically participates alongside larger firms rather than leading later rounds [^3][^8]
+
 ## Sources
 
 [^1]: "Work Life Ventures raises $5M for debut enterprise SaaS seed fund," TechCrunch, September 10, 2019. https://techcrunch.com/2019/09/10/work-life-ventures/

@@ -134,6 +134,23 @@ On career advice: "Figure out what you're good at, what you love doing, and then
 
 No independently sourced founder testimonials found. Levine has served on boards for LinkedIn, Pinterest, Yelp, Shopify, Discord, OLX, Quidsi, and numerous other companies [^1][^2], but no direct quotes from portfolio founders about their experience working with Levine were found through dedicated searching.
 
+## Connections
+
+- **Board member, LinkedIn** — served after leading Bessemer's Series C in 2006 when the company was roughly 80 employees; company IPO'd 2011, acquired by Microsoft in 2016 for $26.2B [^1][^4]
+- **Board member, Yelp** — from the 2005 Series A through IPO on NYSE [^1][^4]
+- **Board member, Pinterest** — from Bessemer's early-stage investment through 2019 IPO [^1][^2]
+- **Board member, Shopify** — from Bessemer's early investment through NYSE IPO [^1]
+- **Board member, OLX** — through the Naspers acquisition [^1][^2]
+- **Board member, Quidsi (Diapers.com)** — until Amazon's 2011 acquisition [^1][^2]
+- **Board member, Discord** [^1]
+- **Board member, Fiverr** — through 2019 IPO on NYSE [^1][^7]
+- **Board member, MindBody** — through Vista Equity Partners acquisition [^1]
+- **At peak, sat on 11 boards simultaneously** [^4]
+- **Founder, Bessemer Analyst Apprenticeship Program** — program alumni have become partners and prominent VCs at Lightspeed, Benchmark, General Catalyst, Andreessen Horowitz, Accel, Norwest, and SignalFire [^1][^6]
+- **Prior employer, AEA Investors** — management buyouts [^4]
+- **Prior employer, McKinsey & Co** — management consulting [^4]
+- **Education, Duke University** — BS in Computer Science and Economics; former sports journalist [^1][^3]
+
 ## Sources
 
 [^1]: Bessemer Venture Partners, "Jeremy Levine" team page, accessed March 2026. https://www.bvp.com/team/jeremy-levine

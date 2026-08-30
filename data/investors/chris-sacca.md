@@ -158,6 +158,19 @@ Based on 22 verified investments. This represents approximately 28% of the ~80 c
 
 No other independently sourced founder testimonials were found during this research. Multiple secondary sources describe Sacca as deeply hands-on — attending board meetings at Twitter and Uber, helping negotiate deals, and using his network to solve operational challenges [^3] — but these descriptions come from journalists and analysts rather than founders directly. The Lowercase Capital website does not feature founder testimonials [^2].
 
+## Connections
+
+- **Founder & Chairman, Lowercase Capital** (founded 2010) — described by secondary sources as attending board meetings at Twitter and Uber and helping negotiate deals [^2][^3]
+- **Co-founder, Lowercarbon Capital** (2020) — climate-tech venture firm co-founded with his wife Crystal English Sacca [^1]
+- **Former Head of Special Initiatives, Google** — founded and led Google's Access division (700MHz spectrum auction, TV white spaces, Mountain View free WiFi); among the first employees to receive Google's Founders' Award [^2]
+- **Former Executive, Speedera Networks** (later acquired by Akamai Technologies) [^2]
+- **Former Attorney, Fenwick & West** — handled venture capital, M&A, and licensing transactions for Silicon Valley technology companies [^2]
+- **Lowercase Capital partner: Matt Mazzeo** — co-invested on Nuzzel; led Lowercase's $25M Fund III raise [^19][^29]
+- **Guest Shark, ABC's *Shark Tank*** (2015–2020) — appeared alongside other investors including Kevin O'Leary, Mark Cuban, Barbara Corcoran, Robert Herjavec, Lori Greiner, and Daymond John [^2]
+- **Co-investors documented on his deals**: Ron Conway (dotCloud/Docker seed round; Optimizely angel round) [^13][^14]; Jack Dorsey (Instagram Series A) [^15]; Kleiner Perkins, Union Square Ventures, and Y Combinator (Nurx Series B) [^27][^28]
+- **Portfolio founder network**: personally recruited into Twitter's early rounds by Evan Williams; discussed Uber concepts with Travis Kalanick at his Truckee home before founding [^9][^10]
+- **Education**: Georgetown University (BS Foreign Service, cum laude) and Georgetown University Law Center (JD, cum laude); international studies in Ecuador, Ireland, and Spain [^2]
+
 ## Sources
 
 [^1]: "Chris Sacca," Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Chris_Sacca

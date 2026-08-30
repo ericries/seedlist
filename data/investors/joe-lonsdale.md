@@ -114,6 +114,22 @@ One testimonial from an associate states: "Joe is the most creative and among th
 
 *Note: Limited independently sourced founder testimonials were found. The quote above appeared on a profile page and may represent a curated testimonial rather than an independent review.*
 
+## Connections
+
+- **Co-founder, Palantir Technologies** (2003) — with Peter Thiel, Alex Karp, Stephen Cohen, and Nathan Gettings; NYSE: PLTR [^1][^2]
+- **Co-founder, Addepar** (2009) — wealth management platform now managing ~$5T in assets [^2]
+- **Co-founder, OpenGov** (2012) — acquired by Cox Enterprises in 2024 [^3]
+- **Co-founder, Affinity** — relationship intelligence platform [^2]
+- **Co-founder, Epirus** — defense tech, via 8VC Build program [^2]
+- **Co-founder, Resilience Bio** — biotech manufacturing, via 8VC Build program [^2]
+- **Co-founder, Formation 8** (2011) — venture firm; predecessor to 8VC [^3]
+- **Co-founder, Cicero Institute** (2018) — nonpartisan policy organization [^2]
+- **Founding Chairman, University of Austin (UATX)** — since 2021 [^2]
+- **Board member, Ronald Reagan Presidential Foundation & Institute** [^2]
+- **Board member, Sable** (2026 Series A) — took board seat following $45M round co-led with Sequoia [^14]
+- **Top co-investors**: Founders Fund (shared Palantir roots via Peter Thiel), Andreessen Horowitz, and General Catalyst — particularly in defense and deep tech [^10]; Sequoia Capital (Sable Series A co-lead, 2026) [^14]
+- **Founder-VC lineage**: Backed Palantir alumni through early angel investing, including many of the companies he co-founded post-Palantir [^5]
+
 ## Sources
 
 [^1]: Joe Lonsdale profile, 8VC website, accessed March 2026. https://www.8vc.com/team/joe-lonsdale

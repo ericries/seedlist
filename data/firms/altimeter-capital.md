@@ -102,7 +102,7 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
-| Snowflake | Series C (lead, $45M announced / $79M total) | 2015 | Cloud / Data | Public (IPO 2020) | [^3][^8][^26][^27] |
+| Snowflake | Series C (lead, $45M; Redpoint Ventures + Sutter Hill Ventures + Wing Venture Capital returned as existing investors) | 2015-06-23 | Cloud / Data | Public (IPO 2020) | [^3][^8][^26][^27][^86][^26][^87] |
 | AppDynamics | Series F (USD 158M at USD 1.9B valuation; Altimeter Capital co-led with General Atlantic; Adage Capital, Industry Ventures, Goldman Sachs, Cross Creek Advisors joined; existing IVP, Greylock, Lightspeed participated) | 2015-12-01 | Enterprise Software | Acquired by Cisco (2017) | [^18][^28][^29][^80] |
 | Cockroach Labs | Series C (co-led, $55M) | 2019 | Database / Infrastructure | Active | [^19][^30][^31] |
 | Cockroach Labs | Series D (lead) | 2020 | Database / Infrastructure | Active | [^19] |
@@ -120,6 +120,7 @@ Based on 42 verified private investments and 18 public equity positions (Q4 2025
 | SpaceX | Secondary/Growth | ~2023 | Aerospace | Active | [^7] |
 | K2 Space | Series B ($110M; co-led with Lightspeed Venture Partners) | 2025-02-13 | Aerospace | Active | [^7][^49][^50] |
 | K2 Space | Series C ($250M at $3B post-money; Redpoint led; participated) | 2025-12-11 | Aerospace | Active | [^51][^52] |
+| K2 Space | Series D ($500M at $6.8B post-money; Kleiner Perkins and ICONIQ co-led; Altimeter participated as returning investor alongside CapitalG, Lightspeed, Spark Capital, Sands Capital, ARK Invest, and T. Rowe Price Associates) | 2026-07-30 | Aerospace | Active | [^k2d-a1][^k2d-a2][^k2d-a3] |
 | Hammerspace | Series B (lead, $100M at $500M+ valuation) | 2025-04-16 | AI Data Infrastructure | Active | [^27][^34][^35] |
 | Profluent | Series B (co-lead with Bezos Expeditions, $106M) | 2025-11-19 | AI / Biotech | Active | [^28][^36][^37] |
 | Boom Supersonic | Series B (participated; Darsana led) | 2025-12-09 | Aerospace / Energy | Active | [^29][^32] |
@@ -350,3 +351,11 @@ No independently sourced founder testimonials found. Brad Gerstner has described
 [^volta-alt2]: Crypto Briefing, "Volta secures $10B partnership and $300M raise, co-led by a16z, at a $2.4B valuation," August 4, 2026. Accessed August 2026. https://cryptobriefing.com/volta-10b-partnership-a16z-series-a-funding/ — Independent confirmation of the a16z + Altimeter co-lead and NVIDIA, Michael Dell, Azora, Matter Venture Partners participation.
 
 [^volta-alt3]: KuCoin News wire, "AI cloud infrastructure firm Volta Infra completes $300M funding round led by Andreessen Horowitz and Altimeter Capital," August 4, 2026. Accessed August 2026. https://www.kucoin.com/news/flash/ai-cloud-infrastructure-firm-volta-infra-completes-300m-funding-led-by-andreessen-horowitz-and-altimeter-capital — Third-source confirmation of Altimeter Capital's co-lead role.
+
+[^86]: Snowflake Computing press release via GlobeNewswire, "Snowflake Announces $45M in Funding to Advance Cloud Data Warehousing," June 23, 2015, 7:00 AM ET, accessed August 2026. https://www.globenewswire.com/news-release/2015/06/23/1186856/0/en/Snowflake-Announces-45M-in-Funding-to-Advance-Cloud-Data-Warehousing.html — Primary company press release. Confirms June 23, 2015 announcement date; $45M Series C led by Altimeter Capital; Redpoint Ventures, Sutter Hill Ventures, and Wing Venture Capital participated as existing investors; brings total funding to $71M with 75 employees at that time.
+
+[^87]: Fortune (Kia Kokalitcheva), "Snowflake Computing raises $45 million to store all a company's data," June 23, 2015, accessed August 2026. https://fortune.com/2015/06/23/big-data-startup-snowflake/ — Independent tier-1 press confirmation of the June 23, 2015 $45M Series C led by Altimeter Capital.
+
+[^k2d-a1]: PR Newswire, "K2 Space Raises $500M Series D at $6.8B Valuation to Scale Large, High-Power Satellites," July 30, 2026, accessed August 2026. https://www.prnewswire.com/news-releases/k2-space-raises-500m-series-d-at-6-8b-valuation-to-scale-large-high-power-satellites-302838793.html — Primary company press release confirming July 30, 2026 announcement of $500M Series D at $6.8B post-money valuation co-led by Kleiner Perkins and ICONIQ with participation from CapitalG, Lightspeed, Altimeter, Spark Capital, Sands Capital, ARK Invest, T. Rowe Price Associates, and other existing investors.
+[^k2d-a2]: Bloomberg, "Satellite Startup K2 Space Raises $500 Million at $6.8 Billion Value," July 30, 2026, accessed August 2026. https://www.bloomberg.com/news/articles/2026-07-30/iconiq-backs-satellite-startup-k2-space-at-6-8-billion-value — Tier-1 press confirmation of July 30, 2026 $500M Series D at $6.8B valuation co-led by Kleiner Perkins and ICONIQ with Altimeter among named participants.
+[^k2d-a3]: Payload Space, "K2 Space Raises $500M Series D at $6.8B Valuation," July 30, 2026, accessed August 2026. https://payloadspace.com/k2-space-raises-500m-series-d-at-6-8b-valuation/ — Independent space-industry trade press confirmation of the round with Altimeter, CapitalG, Lightspeed, Spark Capital, Sands Capital, ARK Invest, and T. Rowe Price Associates participating.

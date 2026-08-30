@@ -4,6 +4,7 @@ slug: anshu-sharma
 type: individual
 firm: skyflow
 role: "Co-Founder & CEO, Skyflow (former Venture Partner, Storm Ventures)"
+tldr: "Anshu Sharma is co-founder and CEO of data privacy vault Skyflow and a former Storm Ventures partner who self-reports 50-75+ angel checks since 2011. Verified early bets skew to enterprise infrastructure — Nutanix (Day Zero seed), Algolia, Workato, PubNub, Copper, Razorpay, Tekion — with strong US-India cross-border overlap from his Salesforce and Oracle networks."
 location: "Palo Alto, CA"
 stage_focus: [seed, series-a]
 sector_focus: [enterprise-saas, developer-tools, data-infrastructure, security, fintech, AI]

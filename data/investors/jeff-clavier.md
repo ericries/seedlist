@@ -121,6 +121,21 @@ Jeff Schneble, CEO of Human Interest, stated: "Uncork has proven to be the most 
 
 No additional independently sourced founder testimonials with verbatim quotes and full attribution were found. The LinkedIn testimonials referencing Clavier's helpfulness and integrity could not be verified against their original sources.
 
+## Connections
+
+- **Board member, National Venture Capital Association (NVCA)** — 2015-2019 [^1]
+- **Board member, VentureForward** [^1]
+- **Prior employer, RVC (Reuters Venture Capital)** — General Partner of Reuters' $450M corporate venture fund, Silicon Valley office (2000-2004) [^1]
+- **Prior employer, Effix** — French fintech startup; progressed from intern to CTO before Reuters acquisition [^1]
+- **Prior employer, Reuters** — product and leadership roles post-Effix acquisition [^1]
+- **Successor at Uncork**: Andy McLoughlin — sole managing partner as of 2025 as Clavier stepped back to focus on frontier tech [^5]
+- **Core co-investment partners (stated by firm)**: True Ventures, First Round Capital, Eniac Ventures, and Crosslink Capital — part of Uncork's ~10-firm always-syndicate network [^4]
+- **Portfolio-verified co-investors — DocSend seed (2013)**: Cowboy Ventures, Lerer Ventures [^20]
+- **Portfolio-verified co-investors — Poshmark $3.5M Series A (2011)**: Menlo Ventures, Mayfield, Inventus, SV Angel [^19]
+- **Portfolio-verified co-investors — LiveRamp seed (2006)**: Auren Hoffman / early Rapleaf angel round [^17]
+- **Recognition**: Forbes Midas List (multiple years); CB Insights Top 100 VCs [^1]
+- **Education, Universite Paris V Rene Descartes** — MS in Computer Science; degree in Distributed Computing [^1]
+
 ## Sources
 
 [^1]: Uncork Capital website, "Jeff Clavier" team page, accessed March 2026. https://uncorkcapital.com/team/jeff-clavier/

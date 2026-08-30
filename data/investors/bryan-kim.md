@@ -4,6 +4,7 @@ slug: bryan-kim
 type: individual
 firm: andreessen-horowitz
 role: "Partner"
+tldr: "Bryan Kim is a Partner at Andreessen Horowitz focused on consumer AI applications across productivity, consumer health, creation, and connection. Verified checks (ElevenLabs, Function Health, Cluely, Raspberry AI, Oboe, Mirage) skew heavily to Series A entries in consumer-adjacent AI. A former Snap founding strategy team member, he sits on the boards of Captions and Partiful and observes at ElevenLabs and Function Health."
 location: "Menlo Park, California"
 stage_focus: [seed, series-a, series-b]
 sector_focus: [consumer, ai, creator-economy, consumer-health, productivity]

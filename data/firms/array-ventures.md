@@ -1,5 +1,6 @@
 ---
 founded: 2016
+tldr: "Array Ventures is a San Francisco solo-GP pre-seed and seed firm founded in 2016 by engineer-turned-investor Shruti Gandhi. The firm has made 100+ investments concentrated in enterprise AI, data infrastructure, developer tools, and security, with 15 exits to acquirers including Apple, Amazon, PayPal, and ServiceNow. Notable portfolio companies include Placer.ai and Solugen (unicorns), Blumira, Modal, and HappyRobot; check sizes run $250K-$3M."
 fund_size: $7M (Fund I); subsequent fund sizes undisclosed
 last_researched: 2026-03-19
 location: San Francisco, CA

@@ -131,6 +131,22 @@ Rob Solomon, a venture capitalist at Accel Partners, has described Yang as "a gr
 
 *Note: This is a peer characterization rather than a portfolio founder testimonial. No independently sourced testimonials from AME Cloud Ventures portfolio founders were found.*
 
+## Connections
+
+- **Board member, Alibaba Group** — following Yahoo!'s 2005 $1B / 40% stake investment he directed [^1][^2]
+- **Board member, Workday** [^1][^2]
+- **Board member, Lenovo Group** [^1][^2]
+- **Chair, Stanford Board of Trustees** [^1][^2]
+- **Advisory / member, Committee of 100** — organization of distinguished Chinese Americans [^5]
+- **Co-founder, Yahoo!** (1995) — with David Filo, from their Stanford PhD project "Jerry and David's Guide to the World Wide Web"; served as Yahoo! CEO June 2007 - January 2009 [^1][^2]
+- **Portfolio co-investors — Zoom Series A (2013)**: Qualcomm Ventures, Maven Ventures, Subrah Iyar (WebEx founder), Dan Scheinman (former Cisco SVP), Bill Tai [^9][^10]
+- **Portfolio co-investors — Planet Labs Series B (2013)**: Yuri Milner (lead), DFJ, Capricorn, OATV, Founders Fund, First Round Capital, Innovation Endeavors, Data Collective, Industry Ventures, Felicis Ventures, Lux Capital, Ray Rothrock [^11][^12]
+- **Portfolio co-investors — Nervana Systems Series A (2015)**: Data Collective/DCVC (lead), Allen & Company, Playground Global, CME Group, DFJ, Fuel Capital, Lux Capital, Omidyar Network [^13][^14]
+- **Portfolio co-investors — Flint Series A (2025)**: Basis Set Ventures + Patron (co-leads), USC Viterbi, Afore Capital, Y Combinator [^17]
+- **Portfolio co-investors — Cartography Series B (2025)**: Pfizer (lead) [^15][^16]
+- **Follow-on syndicate patterns**: AME Cloud portfolio companies have raised follow-ons from Benchmark Capital, Khosla Ventures, and Accel Partners [^3]
+- **Education, Stanford University** — BS and MS in Electrical Engineering [^1][^2]
+
 ## Sources
 
 [^1]: EBSCO Research Starters, "Jerry Yang | Biography," accessed March 2026. https://www.ebsco.com/research-starters/biography/jerry-yang

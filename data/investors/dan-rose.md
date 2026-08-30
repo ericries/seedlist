@@ -137,6 +137,21 @@ Choco CEO Daniel Khachab described Coatue's 2020 investment as: "This was an opp
 
 No other independently sourced founder testimonials about Dan Rose's qualities as an investor were found through dedicated searching. Given his prominent board positions at Linktree, Choco, Tome, and board observer roles at Mercury and Dapper Labs, additional founder perspectives may exist but were not publicly available at the time of research.
 
+## Connections
+
+- **Chairman, Coatue Ventures** (since March 2019) — hired to lead a newly raised $700M early-stage fund [^1][^2][^3][^4]
+- **Board member, Linktree** — Coatue co-led the March 2021 Series B ($45M) and March 2022 Series C ($110M with Index Ventures) [^14][^21]
+- **Board member, Choco** (Berlin) — Coatue-led April 2020 round; works alongside CEO Daniel Khachab [^19][^20]
+- **Board observer, Mercury** — Coatue led the March 2025 Series C [^23]
+- **Board observer, Dapper Labs** — Coatue led both the March 2021 $305M and September 2021 $250M rounds, alongside Michael Jordan, Kevin Durant, a16z, GV, BOND, and GIC [^15][^16]
+- **Board member, REDF** — nonprofit supporting employment for individuals facing barriers to the job market [^6]
+- **Former VP of Partnerships, Facebook** (2006–2019, ~130th employee) — reported alongside Sheryl Sandberg (received a career-defining 2008 performance review from her) and Mark Zuckerberg; spearheaded the 2012 Instagram acquisition; helped grow the company from 130 to 35,000+ employees [^5][^6][^9][^25]
+- **Former Kindle content and product lead, Amazon** (2004–2006) — tapped personally by Jeff Bezos to help develop Amazon's first hardware product [^7][^8]
+- **Business development & general management, Amazon** (1999–2006) [^5][^6]
+- **Frequent Coatue Ventures co-investors**: Andreessen Horowitz, Index Ventures, Insight Partners, First Round Capital, and Lightspeed Venture Partners [^14][^15][^16][^17]
+- **Angel co-investor network**: 100+ personal angel investments including Gusto, TripActions (Navan), Opendoor, Flexport, Airtable, and Figma prior to joining Coatue [^1][^5]
+- **Education**: Harvard College (BA); attended University of Michigan Business School for one year before leaving to join Amazon [^5][^6]
+
 ## Sources
 
 [^1]: Signal NFX, "Dan Rose — Coatue Investor Profile," accessed March 2026. https://signal.nfx.com/investors/dan-rose

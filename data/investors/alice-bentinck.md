@@ -4,6 +4,7 @@ slug: alice-bentinck
 type: individual
 firm: entrepreneurs-first
 role: "Co-Founder & CEO"
+tldr: "Alice Bentinck is co-founder and CEO of Entrepreneurs First, the London-based talent investor that backs technical founders before they have a team or idea. Under her leadership EF raised $200M at a $1.3B valuation in 2026, with portfolio value exceeding $16B across companies like Tractable, Cleo, PolyAI, and Aztec. Her thesis emphasizes 'Personal Exceptionalism' in deep-tech founders across AI, climate, and biotech."
 location: "London, United Kingdom"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai, deep-tech, fintech, healthcare, climate-tech, biotech]

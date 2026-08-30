@@ -178,6 +178,18 @@ Despite being a self-described generalist, Hudson explicitly excludes advertisin
 
 No independently sourced founder testimonials found after dedicated searching. While Hudson's portfolio includes 400+ companies and 340+ founders, specific public testimonials from founders about their experience working with Hudson are not readily available in public sources. The Precursor Ventures website features founder spotlights (including Iman Abuzeid of Incredible Health and Laura Modi of Bobbie), but these are firm-curated content [^13][^15]. One brief characterization from a secondary source describes Hudson as "never hard to work with" [^8].
 
+## Connections
+
+- **Board member, San Francisco Opera** [^1]
+- **Lecturer, Stanford Graduate School of Business** [^3]
+- **Founder & Managing Partner, Precursor Ventures** (founded October 2015) — recognized the gap left when funds like Uncork Capital grew past pre-seed check sizes [^2][^6][^7]
+- **Former Venture Partner, SoftTech VC (now Uncork Capital)** (~8 years) — worked with founder Jeff Clavier; investments there included Vungle, Kahuna, Tulip, and Soldsie [^1][^4][^6][^7]
+- **Former Business Development Manager, Google** (2006–) — witnessed the company grow from ~5,000 to ~25,000 employees [^2]
+- **Former Investor, In-Q-Tel** (2000–~2003) — the CIA's strategic venture arm; introduced by Amy Chan (a former Excite colleague) whose husband was helping start the fund [^2][^4][^5]
+- **Prior employers**: IronPort Systems (Product Manager, 2005) and Gaia Online [^2]
+- **Notable downstream co-investors on his portfolio**: Kleiner Perkins (Modern Health Series A) [^14]; Andreessen Horowitz (Incredible Health follow-on rounds) [^13]
+- **Education**: BA Economics and Spanish, Stanford (2000); MBA, Stanford Graduate School of Business [^2][^3]
+
 ## Sources
 
 [^1]: "Precursor Ventures founder Charles Hudson on investing early, how the landscape for Black entrepreneurs is evolving -- and opera," Fortune, June 19, 2024. https://fortune.com/2024/06/19/precursor-ventures-founder-charles-hudson-on-investing-early-how-the-landscape-for-black-entrepreneurs-is-evolving-and-opera/

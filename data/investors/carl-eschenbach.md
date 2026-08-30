@@ -141,6 +141,24 @@ Amit Bendov, CEO and co-founder of Gong, on Eschenbach's departure from the Gong
 
 No additional independently sourced founder testimonials found beyond the above. Sequoia's website and portfolio company press releases contain additional endorsements, but these are firm marketing materials rather than independent founder statements.
 
+## Connections
+
+- **Board member, Palo Alto Networks** (since 2013, pre-Sequoia) [^8]
+- **Board member, Zoom** — alongside CEO Eric Yuan and fellow Sequoia partner Pat Grady [^1][^29]
+- **Board member, Snowflake** — investment co-led with Pat Grady [^1][^4][^24]
+- **Board member, UiPath** — appointed October 2018 alongside S. Somasegar (Madrona Venture Group) [^9][^10]
+- **Board member, Aurora** — alongside co-founder & CEO Chris Urmson [^11][^25]
+- **Board member, Armis** [^1][^20]
+- **Board observer, Cohesity** [^23]
+- **Board member, Gong** — served ~three years, departed January 2023 [^12][^30]
+- **Board member, ThousandEyes** — appointed December 2019 [^19]
+- **Board member and later co-CEO/CEO, Workday** (Dec 2022–Feb 2026) — alongside co-founder Aneel Bhusri [^4][^5][^6]
+- **Former President & COO, VMware** (2002–2016) — recruited from EMC by VMware co-founder Diane Greene; grew the company from 200 to 20,000 employees and from $30M to $7B in revenue [^1][^2][^3]
+- **Prior employers**: EMC, Inktomi, 3Com, NET [^2][^3]
+- **Sequoia partners**: co-invests most frequently with Pat Grady (Zoom, Snowflake) and Bill Coughran [^4][^24][^29]
+- **Notable co-investors on his deals**: Greylock and Andreessen Horowitz (Cresta) [^17]; GV and Sutter Hill (ThousandEyes) [^19]; Bain Capital Ventures (Armis) [^20]; Amazon (Aurora) [^18]
+- **National Wrestling Hall of Fame** — inducted 2020 as an Outstanding American [^7]
+
 ## Sources
 
 [^1]: Sequoia Capital, "Carl Eschenbach" profile page, accessed March 2026. https://sequoiacap.com/people/carl-eschenbach/

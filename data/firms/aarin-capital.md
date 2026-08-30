@@ -1,5 +1,6 @@
 ---
 founded: 2012
+tldr: "Aarin Capital is a Bengaluru-based proprietary venture fund and family office co-founded by TV Mohandas Pai (ex-Infosys CFO) and Dr. Ranjan Pai (Manipal Group chairman) in 2012. It has backed 50 India-centric companies across life sciences, edtech, software, and retail — including BYJU'S, PharmEasy, HomeLane, Vyome Biosciences, and Faircent — with cumulative deployment of ~₹203 crore and recent activity slowed to management and follow-on mode."
 fund_size: $100M-$150M (reported)
 last_researched: 2026-07-21
 location: Bengaluru, Karnataka, India

@@ -1,5 +1,6 @@
 ---
 founded: 2012
+tldr: "Atomic is a Miami-based venture studio founded in 2012 by Jack Abraham that co-founds companies from inception rather than investing in external startups. With $750M+ AUM across four funds, the studio has produced 18+ companies including Hims & Hers (public), Homebound, Replicant, Paravision, Exowatt, and Sauron, concentrated in healthcare, AI, real estate, and energy. Portfolio companies get engineering, design, recruiting, and legal support from a shared operational core."
 fund_size: $750M+ total AUM
 last_researched: 2026-03-19
 location: Miami, FL

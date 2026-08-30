@@ -4,6 +4,7 @@ slug: 0xsmac
 type: individual
 firm: compound-ventures
 role: "Partner"
+tldr: "0xSmac is a pseudonymous Partner at Compound Ventures leading the firm's crypto and web3 practice from New York. His verified checks (Plural Energy, Prime Intellect, Casa) and published research emphasize DePIN, decentralized AI/compute, and DeSci, with an explicit preference for founders on 5+ year time horizons over short-term token liquidity."
 location: "New York, NY"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [crypto, web3, DePIN, decentralized-AI, DeFi, DeSci, infrastructure, decentralized-physical-infrastructure, tokenization, tokens]

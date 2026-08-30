@@ -1,5 +1,6 @@
 ---
 founded: 2021
+tldr: "Banana Capital is a solo-GP pre-seed and seed firm founded in 2021 by Turner Novak in Ann Arbor, Michigan, that describes itself as 'internet-first' and stage-agnostic. Its portfolio (BeReal, Bun, Chainguard, ScienceIO, Bee, Snackpass, Overtime) leans consumer, developer tools, and fintech with strong exit and unicorn outcomes on small check sizes. Novak sources heavily through his social-media network and typically writes first-check positions."
 fund_size: $10M (Fund I, 2021); $20M (Fund II, 2022); Fund III (2024, size undisclosed)
 last_researched: 2026-03-20
 location: Ann Arbor, MI

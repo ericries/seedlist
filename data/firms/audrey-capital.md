@@ -76,7 +76,7 @@ Based on 20 verified investments where the source, year, and Audrey Capital or M
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Groupcard | Angel (fbFund $225K grant winner 2008-12-09; Mullenweg named one of first angels) | 2008-12-09 | Consumer | [^13][^30][^31][^32] |
-| Typekit | Seed | 2009 | Developer Tools | [^13] |
+| Typekit | Seed (True Ventures led; Matt Mullenweg + Evan Williams + Caterina Fake + Ron Conway/SV Angel + Chris Sacca + Josh Felser + Dave Samuel/Freestyle Capital participated; amount undisclosed) | 2009-06-24 | Developer Tools | [^13] [^33] [^34] [^35] |
 | DailyBurn | Seed | 2010 | Consumer / Fitness | [^15] |
 | Chartbeat | Seed | 2010 | Analytics | [^17] |
 | SendGrid | Seed | 2010 | Developer Tools | [^14] |
@@ -166,3 +166,9 @@ No independently sourced founder testimonials found. Audrey Capital's website do
 [^31]: Matt Mullenweg, "Groupcard Acquired," May 4, 2010. Accessed July 2026. https://ma.tt/2010/05/groupcard-acquired/ — Mullenweg's personal blog post identifying GroupCard as "one of my first angel investments." Confirms his angel participation and celebrates the InComm acquisition. Does not disclose the exact investment date; per fbFund press [^30] the company's institutional milestone was 2008-12-09.
 
 [^32]: TechCrunch, "Gift Card Giant InComm Acquires fbFund Startup GroupCard," April 29, 2010. Accessed July 2026. https://techcrunch.com/2010/04/29/gift-card-giant-incomm-acquires-fbfund-startup-groupcard/ — Contemporaneous acquisition press confirming GroupCard was a fbFund alumnus (2008 grant + 2009 fbFund REV incubator) acquired by InComm on 2010-04-29. Terms undisclosed.
+
+[^33]: Typekit blog (Small Batch Inc.), "Small Batch Inc. Announces Typekit Funding," June 24, 2009, accessed August 2026. https://blog.typekit.com/2009/06/24/small-batch-inc-announces-typekit-funding/ — Primary company announcement. Confirms the June 24, 2009 date of the equity funding round "led by San Francisco-based True Ventures" with participation from Evan Williams (Twitter), Matt Mullenweg (Automattic/WordPress), Caterina Fake (Flickr), Chris Sacca (Lowercase Capital), Josh Felser & Dave Samuel (Freestyle Capital), and SV Angel. Amount undisclosed in the announcement.
+
+[^34]: TechCrunch (Erick Schonfeld), "Evan Williams, Ron Conway, Caterina Fake and True Ventures Invest In Web Typography Startup Small Batch," June 24, 2009, accessed August 2026. https://techcrunch.com/2009/06/24/evan-williams-ron-conway-and-caterina-fake-invest-in-web-typography-startup-small-batch/ — Contemporaneous tier-1 tech press confirmation of the June 24, 2009 seed round; True Ventures led with participation from Evan Williams, Ron Conway, Caterina Fake, Matt Mullenweg, Chris Sacca, Josh Felser, and Dave Samuel. Co-founder Jeffrey Veen (Adaptive Path / Google) started Small Batch in January 2009.
+
+[^35]: True Ventures blog (Om Malik), "Happy Bleeding Cowboys, Typekit Acquired by Adobe," October 2011, accessed August 2026. https://trueventures.com/blog/happy-bleeding-cowboys-typekit-acquired-by-adobe — True Ventures' own retrospective confirming they "led a seed round investment" in Typekit alongside Evan Williams, Matt Mullenweg, Caterina Fake, Chris Sacca, Josh Felser, Dave Samuel, and SV Angel. Tony Conrad joined the board after leading a Series A investment in May 2010. Adobe acquired Typekit on October 3, 2011.

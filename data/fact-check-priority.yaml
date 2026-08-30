@@ -4755,3 +4755,23 @@ priority:
   type: investor
   reason: appeared in Owner Series D (2026-08-28)
   added: 2026-08-30
+- slug: greenoaks-capital
+  type: firm
+  reason: appeared in Airbound Series A (2026-08-24)
+  added: 2026-08-30
+- slug: lachy-groom
+  type: investor
+  reason: appeared in Airbound Series A (2026-08-24)
+  added: 2026-08-30
+- slug: crv
+  type: firm
+  reason: appeared in Alice growth round (2026-08-25)
+  added: 2026-08-30
+- slug: nfx
+  type: firm
+  reason: appeared in Alice growth round (2026-08-25)
+  added: 2026-08-30
+- slug: y-combinator
+  type: firm
+  reason: appeared in Arintra Series B (2026-08-26)
+  added: 2026-08-30

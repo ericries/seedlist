@@ -5,6 +5,7 @@ type: firm
 website: "https://www.87capital.com/"
 location: "Palo Alto, CA"
 founded: 2020
+tldr: "87 Capital is a Palo Alto seed and Series A firm founded in 2020 by Sam Hinkie, former Philadelphia 76ers president and Houston Rockets EVP, on a $50M debut fund. The firm keeps its portfolio private but discloses only a few investments — Scout (acquired by StockX), Opal Camera, and Pursuit — spanning consumer hardware, data-driven B2B software, and marketplaces. Positioning emphasizes 'data-driven dreamers' and few, deep LP relationships."
 fund_size: "$50M (Fund I, 2020)"
 stage_focus: [seed, series-a]
 sector_focus: [consumer, ai, sports-tech, hardware, developer-tools, govtech, machine-learning]

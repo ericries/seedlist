@@ -4,6 +4,7 @@ slug: ashish-hemrajani
 type: individual
 firm:
 role: "Founder & CEO, BookMyShow; Angel Investor"
+tldr: "Ashish Hemrajani is founder and CEO of BookMyShow, India's largest entertainment ticketing platform, and an intermittent operator-angel with 12-20 disclosed checks. His portfolio concentrates on India-based fintech and payments infrastructure (Juspay, Jupiter, Pazcare), HR tech (Instahyre, Fasthr), and consumer/media companies (Invideo), reflecting his stated preference for capital-efficient founders over unicorn optics."
 location: "Mumbai, India"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [fintech, saas, consumer, media, hrtech, payments]

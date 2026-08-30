@@ -4,6 +4,7 @@ slug: alex-bouaziz
 type: individual
 firm:
 role: "Co-Founder & CEO, Deel"
+tldr: "Alex Bouaziz is co-founder and CEO of Deel and an active angel investor associated with Sarona Ventures, writing $100K-$5M checks across pre-seed and seed rounds. His verified portfolio (Kalshi, Ramp, ClickHouse, Sorare, NALA, Nowports, Isembard) skews to fintech, HR-adjacent tooling, and cross-border infrastructure — categories adjacent to Deel's own market."
 location: "Tel Aviv, Israel"
 stage_focus: [seed, series-a, pre-seed]
 sector_focus: [hr-tech, fintech, ai, developer-tools, logistics]

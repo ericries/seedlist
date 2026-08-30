@@ -9,6 +9,7 @@ last_verified_investment:
 location: New York, NY
 name: Andrew Kortina
 role: Co-founder, Venmo and Fin; Angel Investor
+tldr: "Andrew Kortina is a co-founder of Venmo (acquired by Braintree/PayPal, 2012-2013) and Fin, and a low-volume angel investor based in New York. Verified checks (Axis in Egypt, Communo in Canada, Storyboarder) span fintech-adjacent, gig-economy, and creative tooling companies, often alongside his Venmo co-founder Iqram Magdon-Ismail. He is a selective, philosophy-driven check-writer rather than a high-frequency angel."
 sector_focus:
 - consumer
 - fintech

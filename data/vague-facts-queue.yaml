@@ -1960,7 +1960,9 @@ vague_facts:
   line: '| Aembit | Series A (led, $25M) | 2024-09-12 | Data & Security | Active | [^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote [^15]). Aembit row is fully specific: Series A led by Acrew Capital, USD 25M, 2024-09-12 date, Data & Security sector, Active status. Existing footnote [^15] (Aembit press release, September 12, 2024) covers the fact. Re-verified — no profile change needed.'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Aira
@@ -2676,7 +2678,9 @@ vague_facts:
   line: '| Agora | Seed | 2021 | Real Estate | Active | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: tightened Agora seed row from year-only 2021 to full 2021-11-03 with USD 9M amount, Aleph as lead, and full syndicate (River Park Ventures, Maccabee Ventures, strategic US real estate investors). Verified via 3 primary sources: NEW PR Newswire company press release [^41] (2021-11-03), NEW CTech / Calcalist [^42] (2021-11-03), and NEW Crowdfund Insider [^43] (November 2021). 3 new footnotes added ([^41], [^42], [^43]).'
 - profile: firms/aleph
   profile_name: Aleph
   company: Anecdotes
@@ -3306,7 +3310,9 @@ vague_facts:
   line: '| Snowflake | Series C (lead, $45M announced / $79M total) | 2015 | Cloud / Data | Public (IPO 2020) | [^3][^8][^26][^27'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: tightened Snowflake Series C row from year-only 2015 to full 2015-06-23 with clarified $45M amount and named participating existing investors (Redpoint Ventures, Sutter Hill Ventures, Wing Venture Capital). Verified via 3 primary sources: NEW Snowflake press release via GlobeNewswire [^86] (2015-06-23 primary), NEW TechCrunch [^87] (2015-06-23 tier-1), NEW Fortune [^88] (2015-06-23 tier-1). Removed misleading ''$79M total'' framing — the announcement was $45M Series C bringing total to $71M cumulative. 3 new footnotes added ([^86], [^87], [^88]).'
 - profile: firms/altimeter-capital
   profile_name: Altimeter Capital
   company: AppDynamics
@@ -3754,7 +3760,9 @@ vague_facts:
   line: '| Typekit | Seed | 2009 | Developer Tools | [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: tightened Typekit seed row from year-only 2009 to full 2009-06-24 with True Ventures as lead and named angels (Matt Mullenweg/Audrey, Evan Williams, Caterina Fake, Ron Conway/SV Angel, Chris Sacca, Josh Felser, Dave Samuel/Freestyle Capital). Amount undisclosed per primary sources. Verified via 3 primary sources: NEW Typekit blog / Small Batch Inc. company announcement [^33] (2009-06-24), NEW TechCrunch [^34] (2009-06-24 tier-1), NEW True Ventures blog retrospective [^35] (October 2011). 3 new footnotes added ([^33], [^34], [^35]).'
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: DailyBurn
@@ -4390,7 +4398,9 @@ vague_facts:
   line: '| Coinbase | Series D ($100M round, IVP led) | 2017 | Fintech | IPO (2021) | [^7][^4][^14][^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: tightened Coinbase Series D row from year-only 2017 to full 2017-08-10 with $1.6B post-money valuation and full syndicate (IVP lead; Battery Ventures + Spark Capital + Greylock Partners + Section 32 + Draper Associates participated). Also FIXED existing footnote [^14] which incorrectly cited the Coinbase blog as ''January 2017'' — actual publication date is August 10, 2017. Verified via 3 primary sources: existing (corrected) Coinbase blog [^14] (2017-08-10 primary), NEW TechCrunch [^35] (2017-08-10 tier-1), NEW Forbes [^36] (2017-08-10 tier-1), NEW PYMNTS [^37]. 3 new footnotes added ([^35], [^36], [^37]).'
 - profile: firms/battery-ventures
   profile_name: Battery Ventures
   company: Wayfair
@@ -12201,8 +12211,7 @@ vague_facts:
   priority: high
   type: unknown_value
   status: unresolvable
-  resolution_note: Checked AMP Robotics primary press for every announced round — Seed 2017-10-23 ($3.2M), Series A 2019-11-14 ($16M, led by Sequoia), Series B 2021-01-04 ($55M, led by XN), Series C 2022-11-02 ($91M, led by Congruent/Wellington), Series D 2024-12-05 ($91M, led by Congruent). Incite Ventures is NOT named in any AMP company press release, BusinessWire announcement, Recycling Today article, or TechCrunch coverage across any round. Swati Mylavarapu and Matt Rogers are also not named individually. The only evidence of an Incite-AMP relationship is AMP appearing on Incite's own portfolio page (https://www.incite.org/innovators/), which lists it under "Growth" with no round or date. Row updated to "Seed (round unspecified) / Pre-2019 (round unspecified)" with the AMP Series A + Series B press releases added as footnotes [^17][^18][^19] explicitly noting Incite is absent from named investor lists. This appears to be either a very small angel check that never got press attribution
-    or a late secondary; not resolvable to a specific round from public sources.
+  resolution_note: Checked AMP Robotics primary press for every announced round — Seed 2017-10-23 ($3.2M), Series A 2019-11-14 ($16M, led by Sequoia), Series B 2021-01-04 ($55M, led by XN), Series C 2022-11-02 ($91M, led by Congruent/Wellington), Series D 2024-12-05 ($91M, led by Congruent). Incite Ventures is NOT named in any AMP company press release, BusinessWire announcement, Recycling Today article, or TechCrunch coverage across any round. Swati Mylavarapu and Matt Rogers are also not named individually. The only evidence of an Incite-AMP relationship is AMP appearing on Incite's own portfolio page (https://www.incite.org/innovators/), which lists it under "Growth" with no round or date. Row updated to "Seed (round unspecified) / Pre-2019 (round unspecified)" with the AMP Series A + Series B press releases added as footnotes [^17][^18][^19] explicitly noting Incite is absent from named investor lists. This appears to be either a very small angel check that never got press attribution or a late secondary; not resolvable to a specific round from public sources.
   resolved: 2026-07-26
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
@@ -161249,8 +161258,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-08-01
-  resolution_notes: 'Fact-spec sweep 2026-08-01: tightened vague ''2024-10 Seed ($4M; lead group)'' row to precise ''2024-10-29 Seed ($4M; three co-participants: True Ventures + Gigascale Capital + Incite.org; no formal single lead designated in the press release, though True Ventures partner Jon Callaghan provided the primary investor quote)''. Verified via 3 primary/independent sources: (a) FinancialContent/EZ Newswire launch announcement [^homeboost-a] (2024-10-29), (b) Gaebler VC database [^homeboost-b] (independent date confirmation), (c) existing FinSMES [^14]. Updated 4 profiles for consistency: (1) victoria-beasley.md portfolio row precise date + lead clarification + 2 new footnotes, (2) incite-ventures.md portfolio row upgraded from vague ''Early ~2023 Home energy'' to precise seed detail + 2 new footnotes, (3) gigascale-capital.md portfolio NEW row added (was missing) with Victoria Beasley as board observer, (4) true-ventures.md portfolio NEW row added (was missing) with Jon Callaghan
-    as lead partner. 6 new footnotes added across 4 profiles.'
+  resolution_notes: 'Fact-spec sweep 2026-08-01: tightened vague ''2024-10 Seed ($4M; lead group)'' row to precise ''2024-10-29 Seed ($4M; three co-participants: True Ventures + Gigascale Capital + Incite.org; no formal single lead designated in the press release, though True Ventures partner Jon Callaghan provided the primary investor quote)''. Verified via 3 primary/independent sources: (a) FinancialContent/EZ Newswire launch announcement [^homeboost-a] (2024-10-29), (b) Gaebler VC database [^homeboost-b] (independent date confirmation), (c) existing FinSMES [^14]. Updated 4 profiles for consistency: (1) victoria-beasley.md portfolio row precise date + lead clarification + 2 new footnotes, (2) incite-ventures.md portfolio row upgraded from vague ''Early ~2023 Home energy'' to precise seed detail + 2 new footnotes, (3) gigascale-capital.md portfolio NEW row added (was missing) with Victoria Beasley as board observer, (4) true-ventures.md portfolio NEW row added (was missing) with Jon Callaghan as lead partner. 6 new footnotes added across 4 profiles.'
 - profile: investors/victoria-beasley
   profile_name: Victoria Beasley
   company: Light Energy
@@ -172635,8 +172643,7 @@ vague_facts:
   type: year_only_date
   status: unresolvable
   resolved: 2026-07-29
-  note: 'Fact-spec sweep 2026-07-29: EigenLayer''s complete funding history verified via 3+ primary sources (CoinDesk March 28, 2023 for $50M Series A; The Block/Bloomberg Feb 22, 2024 for $100M Series B; Tracxn aggregator record). Rounds are: 2022-04-19 Seed $3.87M (Polychain lead); 2023-03-28 Series A $50M (Blockchain Capital lead w/ Electric Capital, Polychain, Hack VC, Finality, Coinbase Ventures); 2024-02-22 Series B $100M (a16z crypto SOLE investor); 2025-06-17 EigenCloud $70M direct a16z token deal. Breyer Capital is NOT named in ANY EigenLayer round in contemporaneous press. Breyer''s own portfolio page (breyercapital.com/portfolio) lists EigenLayer without round or check size — participation is aggregator/self-report only, most plausibly via secondary purchase or later token deal. Row on breyer-capital.md updated with same self-report treatment as Xaira row. Added [^eig1] (CoinDesk 2023-03-28 primary), [^eig2] (The Block 2024-02-22 primary), [^eig3] (Tracxn aggregator). Marked unresolvable
-    because primary press naming Breyer in a specific EigenLayer round does not exist. 3 new footnotes added.'
+  note: 'Fact-spec sweep 2026-07-29: EigenLayer''s complete funding history verified via 3+ primary sources (CoinDesk March 28, 2023 for $50M Series A; The Block/Bloomberg Feb 22, 2024 for $100M Series B; Tracxn aggregator record). Rounds are: 2022-04-19 Seed $3.87M (Polychain lead); 2023-03-28 Series A $50M (Blockchain Capital lead w/ Electric Capital, Polychain, Hack VC, Finality, Coinbase Ventures); 2024-02-22 Series B $100M (a16z crypto SOLE investor); 2025-06-17 EigenCloud $70M direct a16z token deal. Breyer Capital is NOT named in ANY EigenLayer round in contemporaneous press. Breyer''s own portfolio page (breyercapital.com/portfolio) lists EigenLayer without round or check size — participation is aggregator/self-report only, most plausibly via secondary purchase or later token deal. Row on breyer-capital.md updated with same self-report treatment as Xaira row. Added [^eig1] (CoinDesk 2023-03-28 primary), [^eig2] (The Block 2024-02-22 primary), [^eig3] (Tracxn aggregator). Marked unresolvable because primary press naming Breyer in a specific EigenLayer round does not exist. 3 new footnotes added.'
 - profile: firms/buckley-ventures
   profile_name: Buckley Ventures
   company: Speak

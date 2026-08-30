@@ -279,6 +279,17 @@ Srinivasan has stated that venture capitalists implicitly make predictions throu
 
 No independently sourced founder testimonials found. Despite dedicated searches across Twitter, press coverage, and podcast transcripts, no verifiable verbatim quotes from portfolio company founders about their experience working with Srinivasan as an investor could be located. His high-volume angel investing approach (297+ investments at $10K-$500K checks) may result in lighter post-investment engagement compared to lead investors, which could explain the absence of public founder testimonials.
 
+## Connections
+
+- **Former General Partner, Andreessen Horowitz** (January 2013 – January 2015), then **Board Partner** (through January 2018) — recruited Vijay Pande to help build the a16z bio fund; made early bets on OpenGov, Omada Health, and Benchling while at the firm [^6][^3]
+- **First CTO, Coinbase** (April 2018 – May 2019) — joined via Coinbase's ~$120M acquisition of Earn.com, where he was CEO; worked directly with Brian Armstrong [^7][^8]
+- **Co-founder & CEO, Earn.com (formerly 21 Inc)** (2013 – 2018) — Bitcoin mining startup that raised over $120M and pivoted to email payments [^1][^7]
+- **Co-founder & Board Member, Coin Center** — nonprofit focused on cryptocurrency policy advocacy [^2]
+- **Co-founder, Counsyl** (2007 – 2018) — genetic testing company acquired by Myriad Genetics for $375M [^1][^5]
+- **Balaji Fund backers include Brian Armstrong (Coinbase CEO), Naval Ravikant (AngelList co-founder), and Fred Wilson (Union Square Ventures)** — launched on AngelList in December 2023 [^1][^11]
+- **Notable prior colleague at Stanford**: taught the "Startup Engineering" open online course reaching 250,000 students; published research alongside Human Genome Project–era collaborators [^3]
+- **Top co-investors** (from crypto portfolio [^17][^20]): Naval Ravikant, Coinbase Ventures, a16z crypto, Polychain Capital, and Paradigm
+
 ## Sources
 
 [^1]: "Balaji Srinivasan." Wikipedia. Accessed March 2026. https://en.wikipedia.org/wiki/Balaji_Srinivasan

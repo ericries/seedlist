@@ -1,5 +1,6 @@
 ---
 founded: 2007
+tldr: "Betaworks is a New York startup studio and seed-stage firm founded in 2007 by John Borthwick, operating three coupled activities: internal company building, a thematic 'Camp' accelerator ($500K checks), and direct pre-seed/seed investments. Studio-built companies include Bitly, Chartbeat, Giphy (acquired by Meta ~$400M), Tweetdeck, and Dots; investments include Tumblr, Kickstarter, Medium, Hugging Face (lead angel), Gimlet, Anchor, The Browser Company, and Granola. Fund III (2025) focuses on agents and native AI interfaces."
 fund_size: $66M (Fund III, 2025); $46M (Fund II, 2020); $48M (Fund I, 2016)
 last_researched: 2026-05-01
 location: New York, New York

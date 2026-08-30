@@ -99,6 +99,7 @@ Note: Some companies span multiple sectors; percentages reflect primary classifi
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | Aspora | Series B ($53.5M; co-led by Sequoia and Greylock; QuantumLight participated) | 2025-06-16 | Fintech/Remittance | [^2][^8][^9] |
+| Onyx Security | Series B ($113M at $640M post-money val; Bessemer Venture Partners led; QuantumLight new participant alongside Cyberstarts, TCV, Conviction, FirstMark, Vintage Investment Partners, and G Squared) | 2026-07-29 | AI Security / Agent Governance | [^onyx1][^onyx2][^onyx3] |
 | Ben | Series B ($27.5M / £20.8M; led by Mercia Ventures; QuantumLight new backer alongside Atomico, Cherry Ventures, DN Capital, Seedcamp) | 2025-12-17 | SaaS/HR | [^2][^7][^10][^11] |
 | Berry Street | Series B ($50M; Northzone/Sofina/FJ Labs among named participants; QuantumLight participation confirmed via firm portfolio page [^2] and aggregator sources) | 2025-02-05 | Healthcare/Nutrition | [^2][^12][^13] |
 | Blockaid | Series A | 2023 | Web3 Security | [^2] |
@@ -154,3 +155,7 @@ No additional independently sourced founder testimonials found beyond firm press
 [^11]: BusinessCloud, "Revolut founder among backers as Ben raises £21m Series B," December 17, 2025, accessed July 2026. https://businesscloud.co.uk/news/revolut-founder-among-backers-as-ben-raises-21m-series-b/
 [^12]: TechCrunch, "As GLP-1s boom, dietician startups Berry Street, Fay each nab $50M rounds," February 5, 2025, accessed July 2026. https://techcrunch.com/2025/02/05/as-glp1s-boom-dietician-startups-berry-street-fay-each-nab-50m-rounds/
 [^13]: Northzone, "Our Investment in Berry Street: The Insurance-Covered Nutrition Coaching Platform," February 5, 2025, accessed July 2026. https://northzone.com/insights/our-investment-in-berry-street-the-insurance-covered-nutrition-coaching-platform
+
+[^onyx1]: Onyx Security blog, "Onyx's $113M Series B: Keeping Humans in Control as AI Becomes Smarter," July 29, 2026, accessed August 2026. https://www.onyx.security/blog/onyx-113m-series-b-keeping-humans-in-control-as-ai-becomes-smarter — Primary company announcement confirming $113M Series B led by Bessemer Venture Partners with participation from Cyberstarts, TCV, Conviction, FirstMark, Vintage Investment Partners, QuantumLight, and G Squared.
+[^onyx2]: Calcalist Tech, "AI security startup Onyx raises $113 million Series B at $640 million valuation," July 30, 2026, accessed August 2026. https://www.calcalistech.com/ctechnews/article/b1fsjydszg — Contemporaneous tier-1 press confirming $113M Series B at $640M post-money valuation on July 29, 2026 with Bessemer leading.
+[^onyx3]: FinTech Global, "Onyx raises $113m to keep humans in control of AI agents," July 30, 2026, accessed August 2026. https://fintech.global/2026/07/30/onyx-raises-113m-to-keep-humans-in-control-of-ai-agents/ — Independent trade press confirmation of Bessemer-led Series B with QuantumLight, Cyberstarts, TCV, Conviction, FirstMark, Vintage Investment Partners, and G Squared as named participants.

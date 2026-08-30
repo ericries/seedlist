@@ -200,6 +200,18 @@ Described working with MaC as "running a business with a brother." [^13]
 
 > "They really are the kind of folks that I can text at 1 AM." [^13]
 
+## Connections
+
+- **Founding Managing General Partner, MaC Venture Capital** (2019–) — co-founded via the merger of M Ventures (which he co-founded with Michael Palank and Charles D. King) and Marlon Nichols' Cross Culture Ventures [^1][^9]
+- **Special Advisor, Andreessen Horowitz** (September 2012 – 2019) — one of only two such advisors, alongside economist Larry Summers; advised portfolio companies on government relations and was exposed to early pitches from Oculus and Lyft [^5][^7][^8][^4]
+- **Business Development, Perkins Coie (Palo Alto office)** (2013) — focused on startup initiatives [^3]
+- **Advisory Board Member, EverFi Inc.** (May 2011) — online education company [^6]
+- **Outside Advisor, Rosetta Stone** (February 2011) [^6]
+- **Mayor of Washington, D.C.** (January 2007 – January 2011) — the city's youngest mayor at age 36; partnered with Chancellor Michelle Rhee on education reform [^5][^4]
+- **D.C. Council Member** (2000 – 2006) [^4]
+- **Prior legal roles**: Klores and Associates; Perkins Coie [^4]
+- **Top co-investors** (from verified deals): NFX (co-led Stoke Space seed [^19]); Founders Fund and Cyan Banister (Wonder Dynamics seed [^17]); Ventures Platform (Shekel Mobility lead partner [^18]); Precursor Ventures, Lightspeed, and Maveron (Betty Labs [^20])
+
 ## Sources
 
 [^1]: MaC Venture Capital, "Adrian Fenty — MaC VC," accessed March 2026. https://macventurecapital.com/team/adrian-fenty/

@@ -152,6 +152,19 @@ Albert Wenger, a partner at Union Square Ventures and co-investor in Wattpad, de
 
 Note: Albert Wenger is a co-investor rather than a portfolio founder. No additional independently sourced founder testimonials were found beyond the Mercier quote. The firm's website does not feature a dedicated testimonials section.
 
+## Connections
+
+- **Founder & General Partner, Version One Ventures** (July 2012–) — runs the firm alongside General Partner Angela Tran (based in Silicon Valley) [^1][^9]
+- **Board Partner, Andreessen Horowitz** (April 2014–) — part-time role scouting deals and sitting on boards of select a16z portfolio startups; facilitates deal-flow overlap on companies like Uniswap [^7][^3]
+- **Board Member, Science World** (Vancouver) [^2]
+- **Board Member, Canada Learning Code** [^2]
+- **Mentor, Creative Destruction Lab** (Toronto and Vancouver campuses) [^2]
+- **Former Chief Operating Officer, AbeBooks** (2001 – 2008) — led a team of 60; company acquired by Amazon for an estimated $90–120M in August 2008 [^3][^4][^5]
+- **Co-founder, JustBooks** (1999) — merged with AbeBooks during the dot-com crash in 2001 [^3]
+- **Backer of 30+ emerging fund managers** over the past 12 years, typically investing ~1% of fund size ($100K–$300K) in funds below $20M focused on crypto, climate, deep tech, and India [^14]
+- **Recognition**: 2005 Pacific Ernst & Young Entrepreneur of the Year [^2]
+- **Top co-investors**: Union Square Ventures (Wattpad, Coinbase ecosystem), Andreessen Horowitz (Uniswap), Bessemer Venture Partners (Ada), Uncork Capital (Shippo)
+
 ## Sources
 
 [^1]: Version One Ventures blog, "Announcing Version One Ventures," July 24, 2012. https://versionone.vc/announcing-version-one-ventures/
