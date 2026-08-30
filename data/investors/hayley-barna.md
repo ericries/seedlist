@@ -154,6 +154,19 @@ No independently sourced founder testimonials found after dedicated searching. W
 
 The Studs founders (Anna Harman and Lisa Bubbers) characterized Barna's investment thesis for their company as being "excited about how Studs tackles a large market ready for a new service paradigm and brand voice," noting Barna found the company "extremely tapped into the mind of today's consumer" [^7]. However, this is a characterization of the investor's view rather than a testimonial about the investor experience.
 
+## Connections
+
+- **Partner, First Round Capital** — joined February 2016 as venture partner leading the New York office; promoted to General Partner in November 2017, becoming the first female GP in First Round's history [^4][^5]
+- **Board member, Birchbox** — remained on the board after stepping away from day-to-day co-CEO role in 2015 [^1]
+- **Co-Founder & former Co-CEO, Birchbox** — co-founded 2010 with Katia Beauchamp while at Harvard Business School; grew to ~200 employees, ~$180M revenue, 1M+ subscribers; raised $70M+ in venture capital during her tenure [^1][^2][^4]
+- **Founding member, All Raise** — organization dedicated to accelerating the success of female founders and funders [^2]
+- **Treasurer, Board of Trustees, Society for Science** [^3]
+- **Prior employers** — Bain & Company (strategy consultant, New York); Christie's (strategic roles, Hong Kong); Amazon (product management, Seattle) [^2][^3]
+- **First Round Capital relationship precedes joining** — First Round was the original seed investor in Birchbox, establishing her connection to the firm [^4]
+- **Recurring co-investors** — Lerer Hippeau (Studs, Mirror) and BoxGroup (Mirror, Alma) appear as co-investors across multiple portfolio companies [^12]
+- **Education** — Harvard University (magna cum laude); MBA from Harvard Business School [^1][^3]
+- **Recognition** — Fast Company's Most Creative People in Business; Fortune's 40 Under 40; Ad Age's Women to Watch [^2]
+
 ## Sources
 
 [^1]: Hayley Barna, Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Hayley_Barna

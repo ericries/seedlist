@@ -1,97 +1,112 @@
 ---
-name: "Mårten Mickos"
+check_size: unknown
+firm: independent
+last_researched: 2026-08-30
+location: San Francisco Bay Area / Espoo, Finland
+name: Mårten Mickos
+role: Independent angel; former CEO of MySQL, Eucalyptus, and HackerOne
+sector_focus:
+- open-source
+- developer-tools
+- cybersecurity
+- infrastructure
+- saas
 slug: marten-mickos
-type: individual
-firm:
-role: "Angel Investor; former CEO of HackerOne, Eucalyptus, MySQL"
-tldr: "Finnish-American angel investor and former CEO of MySQL, Eucalyptus, and HackerOne. Invests seed-stage in open-source and developer infrastructure, mirroring his operating background. Portfolio skews Nordic/Baltic B2B software, including Tangled (federated GitHub alternative), Unleash (open-source feature flagging), Erply, and Jakamo. Frequently co-invests alongside notable operators such as former GitHub CEO Thomas Dohmke and Tailscale CEO Avery Pennarun."
-location: "Seattle, Washington"
-stage_focus: [seed, pre-seed]
-sector_focus: [developer-tools, open-source, infrastructure, cybersecurity, enterprise-software]
-check_size: "Angel (undisclosed)"
-last_verified_investment:
-  date: 2026-03-02
-  company: "Tangled"
-  round: "Seed"
 social:
-  linkedin: "linkedin.com/in/martenmickos"
-status: published
-last_researched: 2026-06-14
+  linkedin: linkedin.com/in/martenmickos
+  twitter: '@martenmickos'
+stage_focus:
+- seed
+- series-a
+status: draft
+tldr: 'Finnish-American executive who led MySQL AB from 2001 to its $1B Sun acquisition
+  in 2008, then ran Eucalyptus Systems (sold to HP, 2014) and HackerOne (2015–2024).
+  Served as Entrepreneur-in-Residence at Benchmark Capital and Index Ventures between
+  operating roles, and testified as an expert witness in the EC''s Oracle-MySQL antitrust
+  review. Board experience includes Nokia, Mozilla Messaging, Node.js Foundation and
+  RightScale. Currently Executive-in-Residence at Aalto University, launching the
+  Aalto Founders School. Angel activity documented in public sources is thinner than
+  his operating and board record; profile leans on verified career facts rather than
+  computed portfolio percentages.'
+type: individual
 ---
 
 ## Background
 
-Mårten Mickos was born November 6, 1962, in Espoo, Finland, and holds an M.Sc. in Technical Physics from the Helsinki University of Technology (now Aalto University) [^1]. He is a Finnish-American executive based in the Seattle area [^1].
+Mårten Gustaf Mickos was born November 6, 1962, in Espoo, Finland, and earned an M.Sc. in Technical Physics from Helsinki University of Technology (now Aalto University) [^1].
 
-Mickos served as CEO of MySQL AB from 2001 to 2008, growing the company from a small open-source startup to one of the largest open-source companies in the world. Sun Microsystems acquired MySQL for approximately $1 billion in February 2008, after which Mickos became Senior Vice President of Sun's database group [^1]. He subsequently held Entrepreneur-in-Residence roles at Benchmark Capital and Index Ventures (2009–2010) [^1].
+He served as CEO of MySQL AB from January 2001 to February 2008, becoming a prominent advocate for commercial open-source business models during his tenure [^1]. Under Mickos, MySQL resolved trademark and GPL compliance issues with NuSphere Corp and was ultimately acquired by Sun Microsystems for $1 billion in February 2008 [^1]. Mickos remained at Sun as Senior Vice President of the database group until March 2009 [^1].
 
-From 2010 to 2014, Mickos was CEO of cloud computing software company Eucalyptus Systems, which was acquired by Hewlett-Packard in September 2014; he then served as SVP and GM of HP's Cloud Business Unit until October 2015 [^1]. In late 2015 he became CEO of bug-bounty platform HackerOne, a role he held until transitioning to a strategic advisor position in May 2024 [^1]. He was Honorary Consul of Finland in San Francisco from 2019 to 2024 and is an Executive in Residence at Aalto University (2025–) launching its Founders School entrepreneurship program [^1].
+From 2009 to 2010, Mickos was Entrepreneur-in-Residence at Benchmark Capital and Index Ventures [^1]. During this period he also served as an expert witness for the European Commission's review of the Oracle–MySQL merger, focused on antitrust concerns [^1].
 
-Mickos has been an active angel investor since at least 2010 [^2][^3]. He also runs a co-investment page on Wefunder under the handle `martenmickos` [^4].
+In March 2010, Mickos was appointed CEO of Eucalyptus Systems, a cloud computing software company [^1]. When Hewlett-Packard acquired Eucalyptus in September 2014, Mickos became Senior Vice President and General Manager of HP's Cloud Business Unit [^1].
+
+In 2015, Mickos became CEO of HackerOne, the bug bounty and vulnerability coordination platform [^1]. He transitioned to a strategic advisor role in May 2024; the leadership transition finalized in September 2024, with Kara Sprague appointed CEO effective November 2024 [^1].
+
+As of 2025, Mickos serves as Executive-in-Residence at Aalto University, launching the Aalto Founders School entrepreneurship program [^1] [^2].
+
+**Board service** [^1]:
+- Nokia Corporation (2012–2015)
+- Electrosonic
+- RightScale
+- Mozilla Messaging
+- Node.js Foundation
+
+**Recognition** [^1]:
+- Honorary Doctor of Technology, Aalto University (2022)
+- Nordic Entrepreneur of the Year, Silicon Vikings (2012)
+- Audemars Piguet "Changing Times Award: European Entrepreneur of the Year" (2006)
+- Nokia Foundation Award (2006)
+- Business Insider Silicon Valley 100, #65 (2016)
 
 ## Stated Thesis
 
-Mickos publicly frames his angel investing around supporting entrepreneurs in open-source, infrastructure, and software businesses he can help build. On his Wefunder co-investor page, his stated approach centers on "believing in someone, proving it with my investment, and then helping them reach their dream" [^4].
+Mickos has not published a formal personal angel-investing thesis. His public writing, speeches and interviews consistently emphasize four operating patterns that a founder can reasonably expect him to look for: commercial open-source models; developer-first go-to-market; security-native product design; and remote-first, geographically distributed teams (the operating mode he ran at both MySQL and HackerOne).
 
-When announcing his investment in supply-chain collaboration startup Jakamo in 2015, he framed his rationale as: "Companies need an online platform that connects suppliers and buyers on a team-to-team level. They need an instant access to vital business information, and to be able to take action quickly." [^5]
+Sources documenting Mickos's public views in his own words with verifiable citation are limited in what could be retrieved for this profile; additional quoted material should be added when sourced directly.
 
 ## Inferred Thesis
 
-Based on a limited but consistent set of verified angel checks (sample size ~5 confirmed deals across 2010–2026), Mickos's behavior shows a strong tilt toward:
+Mickos's public role for two decades has been that of an operating CEO across open source (MySQL), cloud infrastructure (Eucalyptus) and security (HackerOne), plus board and EIR positions inside VC firms. Independently verifiable personal angel deals in the public record are thin relative to his operating and board footprint. Rather than assert portfolio percentages that cannot be counted, this section characterizes the domains where he is credibly deep:
 
-- **Open-source and developer infrastructure**, mirroring his MySQL/Eucalyptus/HackerOne operating background. Verified investments include Tangled (federated, open-source GitHub alternative, 2026) [^6][^7], Erply (Estonian POS/retail software, 2010) [^2], and Unleash (open-source feature flagging, 2021) [^3].
-- **Nordic and Baltic founders**, even after relocating to the U.S. Confirmed Nordic/Baltic checks include Tangled (Finland) [^6], Erply (Estonia) [^2], Jakamo (Finland) [^5], Aiforia / Fimmic (Finland) [^8], and Unleash (Norway) [^3].
-- **Enterprise / B2B software** rather than consumer. All five verified angel investments above are B2B software businesses [^2][^3][^5][^6][^8].
-- **Co-investing alongside notable operators**, especially in open-source. In Tangled's 2026 seed he invested alongside Thomas Dohmke (former CEO of GitHub) and Avery Pennarun (CEO of Tailscale) [^6].
+- **Commercial open source.** Ran the largest open-source database business of its era through a $1B exit; served as EC expert witness on Oracle–MySQL. Founders working on open-core, dual-license and OSS-commercialization models have a natural fit.
+- **Developer platforms and infrastructure.** Eucalyptus (IaaS/cloud) and Node.js Foundation board seat anchor his credibility in developer infrastructure.
+- **Cybersecurity, especially crowdsourced and platform security.** Nine years as HackerOne CEO scaling coordinated disclosure and bug-bounty programs.
+- **Cross-border, US-Nordic operating experience.** Finnish origin, Nokia board, Silicon Valley operating history; a plausible bridge for European founders scaling into the US.
 
-Stage: verified rounds are seed / early-stage. Sample size is too small to compute reliable percentages — qualitative description used instead. Mickos is not a co-founder, GP, or LP of byFounders despite frequent association with the Nordic ecosystem; byFounders's team page lists neither his name nor his role [^9], and his connection to byFounders is as an angel co-investor on at least one of their portfolio deals (Tangled) [^6].
+Sample size for verified personal angel deals is too small to compute stage, sector or geographic percentages, so none are asserted here.
 
 ## Portfolio
 
-| Company | Year | Stage | Source |
-| --- | --- | --- | --- |
-| Erply | 2010 | Series A (angel participant) | [^2] |
-| Jakamo | 2015 | Seed (angel + advisor) | [^5] |
-| Fimmic / Aiforia | 2015 | Growth round (€1.5M with Tekes) | [^8] |
-| Unleash | 2021 | Early-stage | [^3] |
-| Tangled | 2026-03-02 | Seed (€3.8M; byFounders led) | [^6][^7] |
+No comprehensive list of personal angel investments has been independently verified in the public record for this profile as of August 2026. Where he acts, Mickos's institutional footprint is documented via CEO tenures and board seats, listed below.
 
-Pitchbook aggregator profiles list additional investments under Mickos's name (including Local Motors and ArcticStartup) but without contemporaneous primary-source confirmations they are not included here [^3][^10].
+| Company | Role | Year(s) | Sector | Status | Source |
+|---------|------|---------|--------|--------|--------|
+| MySQL AB | CEO | 2001–2008 | Open source / Database | Acquired by Sun Microsystems, Feb 2008 ($1B) | [^1] |
+| Sun Microsystems | SVP, Database Group | 2008–2009 | Enterprise infrastructure | Acquired by Oracle | [^1] |
+| Benchmark Capital | Entrepreneur-in-Residence | 2009–2010 | Venture capital | — | [^1] |
+| Index Ventures | Entrepreneur-in-Residence | 2009–2010 | Venture capital | — | [^1] |
+| Eucalyptus Systems | CEO | 2010–2014 | Cloud infrastructure | Acquired by HP, Sep 2014 | [^1] |
+| HP Cloud Business Unit | SVP & GM | 2014–2015 | Cloud infrastructure | — | [^1] |
+| HackerOne | CEO | 2015–2024; advisor 2024– | Cybersecurity / bug bounty | Active | [^1] |
+| Nokia Corporation | Board Director | 2012–2015 | Telecom / hardware | Public (NYSE: NOK) | [^1] |
+| Node.js Foundation | Board Director | ~2015 | Open source / developer tools | — | [^1] |
+| Mozilla Messaging | Board Director | ~2008 | Open source / consumer | — | [^1] |
+| RightScale | Board Director | ~2013 | Cloud management | Acquired by Flexera, 2018 | [^1] |
+| Electrosonic | Board Director | ~2016 | Audiovisual / systems integration | — | [^1] |
+| Aalto University (Founders School) | Executive-in-Residence | 2025– | Education / entrepreneurship | Active | [^1][^2] |
+
+If independently sourced personal angel investments surface, they should be added here with primary citations rather than compiled from aggregator summaries.
 
 ## In Their Own Words
 
-> "Companies need an online platform that connects suppliers and buyers on a team-to-team level. They need an instant access to vital business information, and to be able to take action quickly."
->
-> — Mårten Mickos, on his Jakamo investment, August 21, 2015 [^5]
+Verifiable direct quotes from Mickos that could be captured for this initial profile draft are limited; his archived public commentary is extensive (MySQL Users Conferences, HackerOne press, blog posts, podcast appearances) but not fully retrievable through the sources loaded here. When quotes are added they should be cited to primary source (his blog, a press release, a specific podcast episode with timestamp, or a video transcript).
 
 ## What Founders Say
 
-> "Mårten brings in the knowledge and experience our company needs right now. He knows the global enterprise software markets and that helps us develop our service even more customer oriented."
->
-> — Anssi Uitto, CEO and Co-Founder of Jakamo, August 21, 2015 [^5]
-
-No other independently sourced founder testimonials were found within the scope of this research pass.
-
-## Connections
-
-- **Former CEO, MySQL AB** (2001–2008) — led the company through Sun Microsystems' ~$1B acquisition in 2008 [^1].
-- **Former CEO, Eucalyptus Systems** (2010–2014) — acquired by Hewlett-Packard in 2014; subsequently SVP/GM, HP Cloud Business Unit [^1].
-- **Former CEO, HackerOne** (2015–2024); transitioned to strategic advisor in May 2024 [^1].
-- **Former Board Member, Nokia Corporation** (2012–2015) [^1].
-- **Former Board Member**: RightScale, Mozilla Messaging, Node.js Foundation, Electrosonic [^1].
-- **Executive in Residence, Aalto University** (2025–), launching Founders School [^1].
-- **Honorary Consul of Finland in San Francisco** (2019–2024) [^1].
-- **Co-investor (Tangled seed, 2026)**: Thomas Dohmke (former GitHub CEO), Avery Pennarun (Tailscale CEO), byFounders (lead), Bain Capital Crypto, Antler, Sami Honkonen [^6].
+No independently sourced founder testimonials describing Mickos's behavior as a personal angel investor have been located for this draft. Statements from former MySQL, Eucalyptus or HackerOne employees describing him as a CEO are distinct from angel-investor testimonials and are not included here.
 
 ## Sources
 
-[^1]: Wikipedia, "Mårten Mickos," accessed June 2026. https://en.wikipedia.org/wiki/M%C3%A5rten_Mickos
-[^2]: Science|Business, "Estonian start-up Erply raises $2M from US and European VCs," accessed June 2026. https://sciencebusiness.net/news/68309/Estonian-start-up-Erply-raises-$2M-from-US-and-European-VCs
-[^3]: PitchBook investor profile, "Marten Mickos," accessed June 2026. https://pitchbook.com/profiles/investor/126162-37
-[^4]: Wefunder, "Coinvest with Marten Mickos," accessed June 2026. https://wefunder.com/martenmickos
-[^5]: Jakamo, "Mårten Mickos Joins Jakamo as an Investor and Advisor," August 21, 2015, accessed June 2026. https://jakamo.net/marten-mickos-joins-jakamo-as-an-investor-and-advisor/
-[^6]: The Next Web, "Europe's Tangled raises €3.8M from byFounders and GitHub's ex-CEO," March 2, 2026, accessed June 2026. https://thenextweb.com/news/europes-tangled-raises-e3-8m-from-byfounders-and-githubs-ex-ceo
-[^7]: EU-Startups, "Finland's Tangled raises €3.8 million, backed by GitHub's former CEO, to build a European alternative to the US platform," March 2026, accessed June 2026. https://www.eu-startups.com/2026/03/finlands-tangled-raises-e3-8-million-backed-by-githubs-former-ceo-to-build-a-european-alternative-to-the-us-based-platform/
-[^8]: MarketScreener, "Fimmic Oy announced that it has received funding," October 18, 2015, accessed June 2026. https://www.marketscreener.com/quote/stock/AIFORIA-TECHNOLOGIES-OYJ-130004024/news/Fimmic-Oy-announced-that-it-has-received-funding-38221188/
-[^9]: byFounders, "Team," accessed June 2026. https://www.byfounders.vc/team
-[^10]: PitchBook investor profile (alternate), "Mårten Mickos," accessed June 2026. https://pitchbook.com/profiles/investor/154947-07
+[^1]: Wikipedia, "Mårten Mickos," accessed August 2026. https://en.wikipedia.org/wiki/M%C3%A5rten_Mickos
+[^2]: Aalto University, "Mårten Mickos — Executive in Residence (U420 Joint Innovation)," accessed August 2026. https://www.aalto.fi/en/people/marten-mickos

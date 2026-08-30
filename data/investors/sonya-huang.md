@@ -155,6 +155,38 @@ On her personal investing philosophy (Sequoia "Seven Questions" interview):
 
 No independently sourced founder testimonials found. The Gong press release announcing Huang's board appointment includes a quote from Gong CEO and Co-Founder Amit Bendov: "We're equally thrilled to welcome Sonya and her expertise advising high-growth tech companies and her passion for AI and its ability to transform industries" — but this is a formal press release statement rather than an independent testimonial [^8].
 
+## Connections
+
+Verified professional connections that could serve as introduction paths.
+
+**Board seats**
+- **Board member, Gong** (revenue intelligence / enterprise AI) — appointed January 2023 alongside Kelly Breslin Wright; alongside Gong CEO and co-founder Amit Bendov [^8]
+- **Board member, LangChain** (AI dev framework / agents) — Sequoia-led Series A, February 2024 [^9]
+- **Board member, Fireworks AI** (AI inference optimization) — Sequoia-led $52M Series B at $522M valuation, July 2024 [^10]
+- **Former board member, Streamlit** (data app framework) — prior to Snowflake's $800M acquisition in March 2022 [^11]
+
+**Prior employers**
+- **TPG Capital** — private equity, prior to Sequoia [^1]
+- **Goldman Sachs** — investment banking, first professional role [^1]
+
+**Firm colleagues (Sequoia) — recurring collaborators**
+- **Pat Grady** (Sequoia Partner) — co-authored the widely-cited essays "Generative AI: A Creative New World" (September 2022) and "Generative AI's Act o1: The Reasoning Era Begins" (October 2024); co-host on the "Training Data" podcast [^5][^6]
+- **Konstantine Buhler** (Sequoia Partner) — co-host on the "Training Data" podcast [^3]
+
+**Founder relationships from board seats and lead investments**
+- **Amit Bendov, Gong CEO and Co-Founder** — publicly welcomed Huang's board appointment in January 2023 [^8]
+- **Winston Weinberg and Gabriel Pereyra, Harvey** — Huang led Sequoia's Series A (April 2023) and Series D ($300M, February 2025) [^19][^20]
+
+**Frequent co-investors (from portfolio)**
+- **Andreessen Horowitz (a16z)** — co-investor in Hugging Face and dbt Labs [^14][^17]
+- **Coatue** — co-investor in Mercury and Gong [^13][^21]
+- **Elad Gil** — co-investor in Harvey Series A and Series B [^19][^20]
+- **Spark Capital** — co-led Standard Intelligence $75M Series A with Sequoia (April 2026) [^25][^26]
+
+**Community and content**
+- **Co-host, "Training Data" podcast** (Sequoia, launched January 2024) [^3]
+- **Organizer, Sequoia AI Ascent conference** — annual AI founders/researchers convening; 150+ attendees at 2025 edition [^4]
+
 ## Sources
 
 [^1]: Sequoia Capital, "Sonya Huang," accessed March 2026. https://sequoiacap.com/people/sonya-huang/

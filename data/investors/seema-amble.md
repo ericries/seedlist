@@ -162,6 +162,35 @@ Portfolio includes investments where Amble was the lead, co-lead, or a named co-
 
 No independently sourced founder testimonials specifically about working with Seema Amble were found in publicly available sources at time of research. Founders of her portfolio companies (Moov, Stoik, Sequence, MVMNT, Stuut, Inventa) appear in press announcements alongside her but their statements typically speak to their own product vision rather than to Amble's post-investment behavior as a board member or partner. This section will be updated as verifiable founder quotes surface.
 
+## Connections
+
+Verified professional connections that could serve as introduction paths.
+
+**Prior employers**
+- **Vice President, Goldman Sachs Investment Partners** — venture growth fund, led software and fintech investments including Latin America exposure [^1][^24]
+- **LeapFrog Investments** — emerging-markets fund, earlier in her career [^1]
+- **Altamont Capital Partners** — private equity [^1]
+- **Blackstone** — earlier in her career [^1]
+- **Consumer Financial Protection Bureau (CFPB)** — during law school; regulatory background visible in insurance and payments deals [^1]
+
+**Firm colleagues (a16z) — frequent deal co-leads and co-authors on Amble's announcements**
+- **Joe Schmidt** — co-author on Stoik, Stuut, Payall, and Tessera Labs announcements [^12][^14][^19][^22]
+- **Angela Strange** — co-lead on Moov Series A and broader fintech team collaborator [^11]
+- **Peter Levine** — co-lead on Moov Series A [^11]
+- **Alex Rampell** — co-author on Rillet and Probook announcements [^16][^23]
+- **Olivia Moore** — co-author on Toma, HappyRobot, and Probook [^17][^18][^23]
+- **Anish Acharya** — co-author on HappyRobot and Payall [^14][^17]
+- **David Haber** — co-author on Probook [^23]
+- **Eric Zhou** — co-author on Toma and Tessera Labs [^18][^22]
+- **Marc Andrusko** — co-author on Rillet [^16]
+- **Kristina Shen** — co-author on "Big Ideas Fintech Will Tackle in 2021" essay [^5]
+
+**Community and content**
+- **Host, "My First 16" podcast** (a16z) — interviews with B2B founders about landing their first 16 major customers; guests have included MongoDB and Viam co-founder Eliot Horowitz and Mercury co-founder Immad Akhund [^2][^3]
+
+**Academic**
+- **Baker Scholar, Harvard Business School** — top honor for JD/MBA students [^1]
+
 ## Sources
 
 [^1]: "Seema Amble, Partner at Andreessen Horowitz." Andreessen Horowitz. https://a16z.com/author/seema-amble/. Accessed July 2026.

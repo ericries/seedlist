@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@edsim"
   linkedin: "linkedin.com/in/edsim"
-status: draft
+status: published
 last_researched: 2026-08-30
 ---
 

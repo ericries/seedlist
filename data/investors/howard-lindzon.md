@@ -162,6 +162,17 @@ Notable exits include:
 
 "Exceptional partners -- incredibly smart, flexible, and supportive every step." -- Paul Tran, Founder of MANSCAPED [^4]
 
+## Connections
+
+- **Co-Founder & Managing Partner, Social Leverage** — co-founded 2009 alongside Tom Peterson; five funds and 150+ investments [^2][^3][^4]
+- **Co-Founder & CEO, StockTwits** — co-founded 2008-2009 with Soren Macbeth; returned as CEO in 2024 [^1][^2][^3]
+- **Co-Founder, Wallstrip** — co-founded 2006; acquired by CBS in May 2007 [^1][^2]
+- **Fund-of-funds LP via Social Leverage Advancement Fund (SLAF)** — invests in emerging VC firms including Multicoin Capital, 6MV, and Garuda Ventures [^3]
+- **Recurring investing partner** — Gary Benitt (Social Leverage), referenced by portfolio founders including Tyler Denk (beehiiv) and Jeremy Suriel (Kustomer) [^4]
+- **Notable angel investments (pre-Social Leverage)** — Rent.com (acquired by eBay for $415M, 2005), Golfnow.com (acquired by Comcast, 2008), LifeLock (IPO, later acquired by Symantec) [^1]
+- **Prior career** — hedge fund manager starting June 1998 [^1]
+- **Education** — Bachelor of Commerce, University of Western Ontario; MBA, Arizona State University (with studies at Thunderbird School of Global Management) [^1][^2]
+
 ## Sources
 
 [^1]: "Howard Lindzon," Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Howard_Lindzon

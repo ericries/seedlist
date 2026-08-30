@@ -16,7 +16,7 @@ social:
   twitter: "@el_bhs"
   linkedin: "https://www.linkedin.com/in/bensigelman/"
   medium: "el-bhs.medium.com"
-status: draft
+status: published
 last_researched: 2026-08-30
 ---
 

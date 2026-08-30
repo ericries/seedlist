@@ -187,6 +187,32 @@ On the value of having an early committed investor:
 
 *No additional independently sourced founder testimonials were found despite dedicated searching across Twitter/X, podcast transcripts, and press coverage. Anderson operates with an unusually low public profile for an investor of his stature.*
 
+## Connections
+
+Verified professional connections that could serve as introduction paths.
+
+**Board seats**
+- **Board member, Stitch Fix** — Anderson led Stitch Fix's $750K seed round in April 2011 and served on the board [^10]
+
+**Prior employers**
+- **Kleiner Perkins Caufield & Byers (KPCB)** — worked at the firm before founding Baseline Ventures; the experience was formative in seeing the funding gap between angels and traditional VCs that Baseline was created to fill [^1][^3]
+- **Microsoft** — earlier career role [^1][^3]
+- **eBay** — earlier career role [^1][^3]
+- **Starbucks** — general manager for the Seattle region, promoted after convincing management to create a store manager position [^3]
+- **Digital Equipment Corporation** — senior sales representative, first professional role [^1][^2]
+
+**Notable founder relationships (from portfolio, lead-seed positions)**
+- **Katrina Lake, Stitch Fix** — Anderson led the $750K seed round in 2011 and was the sole seed investor after other investors passed; Lake has publicly credited Anderson's early commitment [^7][^10]
+- **Kevin Systrom, Instagram** — Anderson committed $250K to Instagram's 2010 seed round [^12]
+- **Jeff Seibert, Crashlytics** — Stanford-connected founder Anderson seeded [^1]
+
+**Notable Instagram seed co-investors**
+- **Marc Andreessen / Andreessen Horowitz** — personally co-invested alongside Anderson in Instagram's 2010 seed round; Anderson's endorsement at seed stage has served as a signal for subsequent institutional rounds [^12]
+
+**Community and recognition**
+- **Forbes Midas List** — appeared 2015–2020, peaking at #2 in 2016 and #4 in 2017 [^1][^5][^6]
+- **Fortune 50 Most Powerful Businesspeople** — ranked #49 in 2012 [^2]
+
 ## Sources
 
 [^1]: Baseline Ventures, "Founder — Steve Anderson," accessed March 2026. https://www.baselinev.com/founder/

@@ -192,6 +192,20 @@ While Morgan's public commentary emphasizes enterprise software and market-size-
 
 No independently sourced founder testimonials found. Morgan's long career and board-level involvement with companies like Nanotronics, MyndYou, UpdateAI, and Precision Neuroscience suggests deep founder engagement, but publicly available founder quotes specifically about working with Morgan are scarce. His 2025 NVCA Venture Vanguard award recognizes "more than 25 years of experience serving as a mentor, advisor and investor in entrepreneurial ventures" [^6].
 
+## Connections
+
+- **Co-Founder & Special Advisor, First Round Capital** — co-founded 2004 alongside Josh Kopelman; retired from active management in 2017 [^3][^4][^5]
+- **Chairman & General Partner, B Capital Group** — joined 2017; the firm was co-founded by Eduardo Saverin and Raj Ganguly [^3]
+- **Co-Founder, Renaissance Technologies** — co-founded 1982 with mathematician James Simons; served as President 1983-1989 [^2][^4]
+- **Vice Chairman, Idealab** — first outside investor in Bill Gross's incubator (1996); continues as Director [^3][^4]
+- **Chairman, Cornell Tech Council** — appointed 2024 [^8]
+- **Vice Chairman, New York Angels** [^7]
+- **Nonprofit boards** — Cornell University, New York Public Library, Cold Spring Harbor Laboratories, Math for America [^1][^3]
+- **President, Arca Group, Inc.** — consulting and venture capital investment management firm since 1989 [^1]
+- **Prior faculty** — Cornell (Department of Computer Science); Wharton School (Professor of Decision Sciences, 1972-1985); Moore School at University of Pennsylvania (Professor of Computer and Information Sciences) [^1][^2]
+- **NVCA Venture Vanguard Class of 2025** [^6]
+- **LP relationships** — currently an LP in approximately 80 venture funds; the last 30 LP commitments primarily back diverse fund managers [^5]
+
 ## Sources
 
 [^1]: "Howard Morgan," Math for America Board of Directors, accessed March 2026. https://www.mathforamerica.org/about/our-team/board-directors/howard-morgan

@@ -3,9 +3,9 @@ check_size: $125K-$500K
 firm: y-combinator
 last_researched: 2026-03-17
 last_verified_investment:
-  company: Dili
-  date: 2026-07-30
-  round: Series A (angel, alongside Y Combinator)
+  company: Othello
+  date: 2026-08-03
+  round: Seed (via Y Combinator)
 location: San Francisco, CA
 name: Garry Tan
 role: President & CEO
@@ -141,6 +141,7 @@ The following table represents 25 verified investments. This is a partial sample
 | Entire | 2026 | Seed | [^14] |
 | Monogram | 2026-07-07 | Seed (angel) | [^26][^27][^28] |
 | Dili | 2026-07-30 | Series A (angel, alongside Y Combinator) | [^29][^30][^31] |
+| Othello | 2026-08-03 | Seed (via Y Combinator; $6.85M round with Khosla Ventures, Koro Capital, Long Journey Ventures, M13, Rebel Fund, Baselayer + 28 additional investors) | [^oth1][^oth2] |
 
 *Note: Years marked with "~" indicate approximate dates based on fund timing or company founding year, not confirmed investment dates. Many entries fall within Initialized Capital Fund I (2012) or Fund II (2013), and exact investment dates within those fund periods could not be independently confirmed.*
 
@@ -258,3 +259,6 @@ The following table represents 25 verified investments. This is a partial sample
 [^30]: "Dili Raises $21.7m from Khosla Ventures to Bring AI-Powered Assurance to America's Infrastructure Boom," GlobeNewswire (Dili company press release), July 30, 2026. Accessed August 2026. https://www.globenewswire.com/news-release/2026/07/30/3336377/0/en/dili-raises-21-7m-from-khosla-ventures-to-bring-ai-powered-assurance-to-america-s-infrastructure-boom.html — Primary company press release naming Garry Tan as a participant.
 
 [^31]: "AI startup Dili raises $15 million to automate AI compliance for infrastructure projects," Crypto Briefing, July 30, 2026. Accessed August 2026. https://cryptobriefing.com/dili-raises-22m-ai-compliance-infrastructure/ — Third independent tech press source confirming Garry Tan participation.
+
+[^oth1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 8/3/2026," August 3, 2026. Accessed August 2026. https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-3-2026/ — Primary daily funding report confirming Othello's $6.85M seed on August 3, 2026 with Y Combinator (Garry Tan) among the 35 investors listed on the SEC Form D.
+[^oth2]: Othello product overview page. Accessed August 2026. https://info.othello.ai/overview — Company primary confirming founder Jared Zelman.

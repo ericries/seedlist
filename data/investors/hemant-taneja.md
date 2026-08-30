@@ -155,6 +155,24 @@ Tanay Tandon, CEO of Commure (formerly Athelas), said upon the Commure-Athelas m
 
 No independently sourced founder testimonials from arms-length portfolio companies (where Taneja is purely an investor rather than co-founder) were found after dedicated searching. Taneja's most prominent portfolio relationships -- Livongo, Commure, Transcarent, Hippocratic AI -- are companies he co-founded, making traditional investor-founder testimonials less applicable. The Samsara, Stripe, Snap, and Gusto founding teams have not made publicly available statements specifically about Taneja's role as an investor.
 
+## Connections
+
+- **CEO & Managing Director, General Catalyst** — named CEO in 2021; founded the firm's Silicon Valley (Palo Alto) office in 2011 [^1][^2][^6]
+- **Co-Founder & Executive Chairman, Commure** — co-founded 2017; remains executive chairman of the merged Commure-Athelas entity ($6B valuation, 2023) [^1][^9]
+- **Co-Founder, Livongo** — co-founded 2014 with Glen Tullman (sold to Teladoc Health for $18.5B in 2020) [^8][^21]
+- **Co-Founder, Transcarent** — co-founded 2020 with Glen Tullman [^26][^32]
+- **Co-Creator, Hippocratic AI** — co-created and backed since inception [^15][^30]
+- **Chairman, HATCo** (Health Assurance Transformation Company) — General Catalyst's health system operating company; acquired Summa Health in Akron, Ohio for $515M (2025) [^10][^11]
+- **Board of Trustees, Northeastern University** [^1][^3]
+- **Board of Fellows, Stanford School of Medicine** [^1][^3]
+- **Founding board member, Khan Lab School** [^1][^3]
+- **Co-founder, Responsible Innovation Labs** (nonprofit) [^1]
+- **Co-founder, Advanced Energy United** (nonprofit) [^1]
+- **Recurring partner** — Glen Tullman (Livongo co-founder, Transcarent CEO); co-founded both Livongo and Transcarent together [^8][^32]
+- **Frequent co-investor** — Andreessen Horowitz on Anduril and Stripe rounds [^25][^16]
+- **MIT alumni** — five degrees from MIT (three undergraduate in EECS, Mathematics, and Biology; graduate degrees in EECS and Operations Research) [^1][^3]
+- **Recognition** — Ranked #8 on the 2025 Forbes Midas List [^12][^4]
+
 ## Sources
 
 [^1]: General Catalyst team page, "Hemant Taneja," accessed April 2026. https://www.generalcatalyst.com/team/hemant-taneja

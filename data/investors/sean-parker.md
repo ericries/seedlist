@@ -184,6 +184,41 @@ Peter Thiel, co-founder of PayPal and Founders Fund, has said that Parker was th
 
 No independently sourced founder testimonials from portfolio company founders (other than Facebook) were found through dedicated search. Parker's role has typically been as an operator-investor hybrid rather than a traditional VC, which may explain the absence of standard founder testimonials. His impact is most documented through his operational contributions at Facebook and Spotify rather than through founder reviews of his investing behavior.
 
+## Connections
+
+Verified professional connections that could serve as introduction paths.
+
+**Board seats and executive chairman roles**
+- **Executive Chairman, Stability AI** — appointed June 2024 after leading the investment round; committed to open-source foundation model principles [^13][^14]
+- **Executive Chairman, Economic Innovation Group (EIG)** — founded 2015; EIG was a key architect of the federal Opportunity Zones program enacted in the 2017 Tax Cuts and Jobs Act [^10][^11]
+- **Board member, Spotify** — served on the board of directors from 2010 until June 2017, initially through Founders Fund's $15M/5% investment [^5][^6][^7]
+- **Board seat, Yammer** — early-stage board role prior to Microsoft's $1.2B acquisition in 2012 [^3]
+
+**Founder / operator roles**
+- **CEO, Cantina Labs** — AI character platform he co-founded in 2023 [^15]
+- **Founding President, Facebook** (2004–2005) — first president; negotiated the deal that gave Mark Zuckerberg majority board control; brought Peter Thiel in as first outside investor [^1][^2]
+- **Co-founder, Napster** (1999) — with Shawn Fanning [^1][^2]
+- **Co-founder, Plaxo** (2002) [^1][^2]
+- **Co-founder, Causes on Facebook** (2007) [^8]
+- **Founder, Brigade** (2014) — civic engagement platform; $9.3M personal investment; acqui-hired by Pinterest in 2019 [^9]
+- **Weta Digital minority owner** (from 2019) — later increased to nearly one-third ownership before Unity Technologies acquisition in 2021 [^12]
+
+**Advisory roles**
+- **Advisor, Time BioVentures** — $100 million biotech venture fund [^17]
+
+**Philanthropic leadership**
+- **Founder and chairman, Parker Foundation** — $600M commitment (2015); focus on life sciences, global public health, and civic engagement [^8]
+- **Founder, Parker Institute for Cancer Immunotherapy** — $250M grant announced 2016 [^8]
+
+**Prior employer and colleagues (Founders Fund)**
+- **Managing Partner, Founders Fund** (2006–2014) — worked alongside co-founder Peter Thiel, who has publicly credited Parker as the first to see Facebook's potential [^3][^4][^25]
+
+**Key founder relationships**
+- **Mark Zuckerberg (Facebook / Meta)** — Parker served as first president; negotiated the board structure that gave Zuckerberg majority control [^1][^2]
+- **Peter Thiel (PayPal / Founders Fund)** — Parker brought Thiel in as Facebook's first outside investor; later became a Founders Fund managing partner alongside Thiel [^1][^2][^25]
+- **Daniel Ek (Spotify)** — 2009 email correspondence documents Parker connecting Ek with Zuckerberg, presaging the Facebook–Spotify partnership [^23]
+- **Peter Jackson (Weta Digital)** — Parker's 2019 minority investment gave him a strategic partnership with Jackson's VFX firm [^12]
+
 ## Sources
 
 [^1]: Sean Parker, Wikipedia. Accessed March 2026. https://en.wikipedia.org/wiki/Sean_Parker

@@ -117,6 +117,21 @@ Note: This is a limited sample; Roizen has been in venture capital since 1999 an
 
 No independently sourced founder testimonials found. Roizen is widely cited as a prominent networking expert — Harvard Business School has used her as a case study on professional networking [^7] — but specific founder quotes about working with her as an investor were not located during this research pass.
 
+## Connections
+
+- **Board member, Planet Labs** (NYSE: PL) — independent corporate director [^1][^2]
+- **Board member, Tia** — Threshold portfolio company [^1][^2]
+- **Board member, Upside Foods** — Threshold portfolio company [^1][^2]
+- **Board member, Lumity** [^5]
+- **Former board seats** — TiVo (NASDAQ: TIVO), Zoox (acquired by Amazon for $1.2B in 2020), Great Plains Software, DMGT, Invitation Homes (NYSE: INVH) [^1][^2]
+- **Board of Directors and Executive Committee, National Venture Capital Association** [^1]
+- **Co-lead, Threshold Venture Fellows Program** — Stanford Management Science and Engineering department [^1][^2]
+- **Advisory council member** — Stanford Institute for Human-Centered Artificial Intelligence (HAI); Stanford Technology Ventures Program (STVP) [^1][^2]
+- **Prior employer, Apple** — VP of Worldwide Developer Relations; managed a 300-person team [^1][^2]
+- **Prior employer, T/Maker** — co-founded and served as CEO 1983-1994 until acquisition by Deluxe Corporation; also served as board member and president of the Software Publishers Association [^1][^2]
+- **Prior VC roles** — Managing Director, Mobius Venture Capital (1999-2007); Partner at DFJ (Draper Fisher Jurvetson) prior to Threshold spinout [^1][^2][^3]
+- **Stanford alumni** — BA in English and MBA from Stanford Graduate School of Business [^1]
+
 ## Sources
 
 [^1]: Heidi Roizen personal website, "Bio," accessed March 2026. https://www.heidiroizen.com/bio.html

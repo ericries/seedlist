@@ -3,9 +3,9 @@ check_size: $1M-$10M
 firm: sequoia-capital
 last_researched: 2026-03-16
 last_verified_investment:
-  company: Sable
-  date: 2026-07-16
-  round: Series A
+  company: Valar Atomics
+  date: 2026-08-03
+  round: Series B
 location: San Francisco, CA
 name: Shaun Maguire
 role: Partner
@@ -142,6 +142,7 @@ Stripe, Opendoor, IonQ, SpinLaunch, Lambda School, Dandelion Energy, Clutter, Mo
 | Harmonic | ~2023 | Early | AI / Israel | [^2] |
 | Irregular | ~2024 | Early | AI / Defense | [^2] |
 | Sable | 2026-07-16 | Series A ($45M, Sequoia + 8VC co-led; Maguire joined board) | AI / Sales Enablement | [^32][^33][^34] |
+| Valar Atomics | 2026-08-03 | Series B ($1B equity + $200M credit at ~$6B post-money; Maguire led for Sequoia; Apandion Capital, Atreides Management, Conviction, Dream Ventures, HOF Capital, Point72, Riot Ventures, Snowpoint Ventures, Valor Equity Partners participated) | Nuclear Energy / AI Infrastructure / Deep Tech | [^valar1][^valar2] |
 
 ### GV / Google Ventures (2016–2019)
 
@@ -262,6 +263,34 @@ Ali Amin-Javaheri, CEO and Co-Founder of Knowde, on Sequoia partnership at Serie
 > "With the support of the Sequoia team and our other investment partners, we believe we can scale the Knowde marketplace to help every producer and buyer enjoy a consumer-grade digital experience."
 > — Ali Amin-Javaheri, Knowde Series A press release, May 2020 [^20]
 
+## Connections
+
+Verified professional connections that could serve as introduction paths.
+
+**Board seats**
+- **Board member, Luminar Technologies** (public LiDAR / autonomous driving) — appointed June 9, 2021 alongside CEO Austin Russell [^21]
+- **Board member, Sable** (AI employee / sales enablement) — joined board with Series A investment July 16, 2026, alongside 8VC's Joe Lonsdale [^33]
+
+**Advisory roles**
+- **Advisor, DOGE** (Department of Government Efficiency) — publicly reported advisory role during the Trump administration [^3]
+
+**Prior employers and colleagues**
+- **Partner, GV (Google Ventures)** (approximately 2016–2019) — sourced GV's investments in Stripe, Opendoor, IonQ (co-led $20M Series B), SpinLaunch, Lambda School, Dandelion Energy, Clutter, Mode.net, and Segment [^2][^8]
+- **DARPA civilian contractor, Memex program** (approximately 2013–2015) — deployed to Afghanistan for three months, trained at a Blackwater facility, earned a Joint Meritorious Unit Award [^5][^6]
+- **Co-founder and chairman, Qadium/Expanse** (2012–2020) — cybersecurity mapping platform acquired by Palo Alto Networks in November 2020 for approximately $800M–$1.25B [^3][^7]
+- **Co-founder, Escape Dynamics** (2010) — space propulsion startup [^3]
+- **PhD advisor, John Preskill** (Caltech Institute for Quantum Information and Matter) — supervised Maguire's PhD in Physics on AdS/CFT correspondence [^4]
+
+**Firm colleagues (Sequoia)**
+- **Roelof Botha** (Sequoia Managing Partner at time of 2025 controversy) — publicly defended Maguire's position at Sequoia [^9]
+
+**Founder relationships that sourced deal flow**
+- **Patrick Collison** (Stripe co-founder) — recommended Maguire to Sequoia, leading to his hire in 2019 [^1]
+
+**Notable recent co-investors (from portfolio table)**
+- **8VC / Joe Lonsdale** — co-led Sable Series A with Sequoia (July 2026) [^33]
+- **BoxGroup, SV Angel, Valor Atreides AI Fund** — participants in Sable Series A [^33]
+
 ## Sources
 
 [^1]: Sequoia Capital, "Shaun Maguire," accessed March 2026. https://sequoiacap.com/people/shaun-maguire/
@@ -298,3 +327,6 @@ Ali Amin-Javaheri, CEO and Co-Founder of Knowde, on Sequoia partnership at Serie
 [^32]: Allie Garfinkle, "Meet the AI employee that convinced Sequoia to invest $45 million in Sable," Fortune, July 16, 2026. Accessed July 22, 2026. https://fortune.com/2026/07/16/ai-employee-that-convinced-sequoia-to-invest-45-million-in-sable-shaun-maguire/ — Names Maguire as Sequoia partner leading investment; quotes his "reminded me of what Stripe did for payments" reaction to product demo.
 [^33]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," ACCESS Newswire (via Newswire.com), July 16, 2026. Accessed July 22, 2026. https://www.newswire.com/news/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain — Company primary press release confirming Sequoia's Shaun Maguire and 8VC's Joe Lonsdale led their firms' investments and are joining Sable's board; participants also include BoxGroup, SV Angel, Valor Atreides AI Fund, Sabrina and Evan Hahn.
 [^34]: "Sequoia Backs Sable With $45M Series A for AI Employees," Fundraise Insider, July 2026. Accessed July 22, 2026. https://fundraiseinsider.com/blog/sequoia-backs-sable-with-45m-series-a-for-ai-employees/ — Independent trade-press confirming Series A designation, $45M size, Sequoia + 8VC co-lead structure, and board appointments.
+
+[^valar1]: TechCrunch, "Sequoia's Shaun Maguire leads $1B round for nuclear startup Valar Atomics," August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/ — Primary press naming Shaun Maguire as lead partner for Sequoia in Valar Atomics' $1B Series B at ~$6B post-money; participants Apandion Capital, Atreides Management, Conviction, Dream Ventures, HOF Capital, Point72, Riot Ventures, Snowpoint Ventures, Valor Equity Partners.
+[^valar2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 8/3/2026," August 3, 2026. Accessed August 2026. https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-3-2026/ — Independent daily funding report cross-confirming August 3, 2026 date, $1B equity + $200M credit structure, and Shaun Maguire lead.

@@ -67,6 +67,7 @@ Founder Jared Heyman has described the underlying approach as follows (Medium, J
 | EARTH AI | Seed | ~2022 | — | Mining / AI | Active [^5] |
 | Didit | Seed extension ($6M; YC + Rebel + others) | 2026-05-26 | — | Fintech / Identity Verification | Active [^6] |
 | Dili | Series A ($15M; Khosla Ventures led; Allianz, Rebel Fund, Brick and Mortar Ventures, Y Combinator/Garry Tan participated) | 2026-07-30 | — | AI compliance / Infrastructure regtech | Active [^7][^8][^9] |
+| Othello | Seed ($6.85M; Khosla Ventures, Koro Capital, Long Journey Ventures, M13, Rebel Fund, Y Combinator, Baselayer + 28 other investors; 35 total per SEC Form D; founder Jared Zelman) | 2026-08-03 | — | AI / Sales Tech / Enterprise Software | Active [^oth1][^oth2] |
 
 The table above is a representative sample of named investments confirmed in public coverage [^5]. Rebel does not publish a full portfolio list; the canonical count of 128 companies comes from Tracxn [^3].
 
@@ -99,3 +100,6 @@ No independently sourced founder testimonials about working with Rebel Fund were
 [^8]: "Dili Raises $21.7m from Khosla Ventures to Bring AI-Powered Assurance to America's Infrastructure Boom," GlobeNewswire (company press release), July 30, 2026. Accessed August 2026. https://www.globenewswire.com/news-release/2026/07/30/3336377/0/en/dili-raises-21-7m-from-khosla-ventures-to-bring-ai-powered-assurance-to-america-s-infrastructure-boom.html
 
 [^9]: "AI startup Dili raises $15 million to automate AI compliance for infrastructure projects," Crypto Briefing, July 30, 2026. Accessed August 2026. https://cryptobriefing.com/dili-raises-22m-ai-compliance-infrastructure/
+
+[^oth1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 8/3/2026," August 3, 2026. Accessed August 2026. https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-3-2026/ — Primary daily funding report naming Rebel Fund among Othello's $6.85M seed participants on August 3, 2026.
+[^oth2]: Othello product overview page. Accessed August 2026. https://info.othello.ai/overview — Company primary confirming founder Jared Zelman and 5,000+ user traction within six months of launch.

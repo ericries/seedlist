@@ -4307,42 +4307,72 @@ priority:
   type: firm
   reason: led Valar Atomics Series B ($1B, 2026-08-03)
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Sequoia Capital led Valar Atomics $1B equity Series B (+$200M credit line from Erebor and other banks) at ~$6B post-money on 2026-08-03 via 2 primary sources (TechCrunch [^valar1], AlleyWatch [^valar2]); Shaun Maguire named as Sequoia lead. Added new Valar Atomics row + 2 footnotes to sequoia-capital.md Portfolio. Cross-referenced with existing valar-atomics.md startup profile.'
 - slug: shaun-maguire
   type: investor
   reason: led Valar Atomics Series B ($1B, 2026-08-03) as Sequoia partner
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Shaun Maguire led Valar Atomics $1B Series B for Sequoia on 2026-08-03 via 2 primary sources (TechCrunch, AlleyWatch). Added Valar Atomics Portfolio row + 2 footnotes to shaun-maguire.md; updated frontmatter last_verified_investment from Sable (2026-07-16) to Valar Atomics (2026-08-03).'
 - slug: conviction
   type: firm
   reason: participated in Valar Atomics Series B (2026-08-03)
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Conviction participated in Valar Atomics $1B Series B (Sequoia/Shaun Maguire led) on 2026-08-03 via 2 primary sources (TechCrunch, AlleyWatch). Added new Valar Atomics row + 2 footnotes to conviction.md Portfolio.'
 - slug: valor-equity-partners
   type: firm
   reason: participated in Valar Atomics Series B (2026-08-03)
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Valor Equity Partners participated in Valar Atomics $1B Series B (Sequoia/Shaun Maguire led) on 2026-08-03 via 2 primary sources (TechCrunch, AlleyWatch). Added new Valar Atomics row + 2 footnotes to valor-equity-partners.md Portfolio.'
 - slug: khosla-ventures
   type: firm
   reason: participated in Othello seed round (2026-08-03)
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Khosla Ventures participated in Othello $6.85M seed on 2026-08-03 via 2 primary sources (AlleyWatch daily funding report [^oth1] citing SEC Form D with 35 investors, Othello product page [^oth2]). Added new Othello row + 2 footnotes to khosla-ventures.md Portfolio (72 of ~163 companies now documented).'
 - slug: y-combinator
   type: firm
   reason: participated in Othello seed round (2026-08-03)
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Y Combinator participated in Othello $6.85M seed on 2026-08-03 via 2 primary sources (AlleyWatch, Othello product page). Added new Othello row + 2 footnotes to y-combinator.md Portfolio.'
 - slug: rebel-fund
   type: firm
   reason: participated in Othello seed round (2026-08-03)
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Rebel Fund participated in Othello $6.85M seed on 2026-08-03 via 2 primary sources (AlleyWatch, Othello product page). Added new Othello row + 2 footnotes to rebel-fund.md Portfolio.'
 - slug: long-journey-ventures
   type: firm
   reason: participated in Othello seed round (2026-08-03)
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Long Journey Ventures participated in Othello $6.85M seed on 2026-08-03 via 2 primary sources (AlleyWatch, Othello product page). Added new Othello row + 2 footnotes to long-journey-ventures.md Portfolio.'
 - slug: garry-tan
   type: investor
   reason: participated in Othello seed round (2026-08-03) via YC
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Garry Tan (via Y Combinator) participated in Othello $6.85M seed on 2026-08-03 via 2 primary sources (AlleyWatch daily funding report, Othello product page). Added new Othello row + 2 footnotes to garry-tan.md Portfolio; updated frontmatter last_verified_investment from Dili (2026-07-30) to Othello (2026-08-03).'
 - slug: oak-hc-ft
   type: firm
   reason: led Dash Bio Series A (2026-08-03), $30M
   added: 2026-08-04
+  status: unresolvable
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Oak HC/FT firm profile not found in data/firms/. Dash Bio Series A ($30M, 2026-08-03, Oak HC/FT led with Freestyle Capital + Swift Ventures participating) is already fully documented on dash-bio.md startup profile with 3 primary source citations (BioSpace [^1], Endpoints News [^2], Pulse 2.0 [^3]) plus Andy Smith (Oak HC/FT Partner) investor quote and Dave Johnson founder quote. No firm profile edits possible until oak-hc-ft profile is created (added to queue via prior discovery).'
 - slug: freestyle-capital
   type: firm
   reason: participated in Dash Bio Series A (2026-08-03), $30M
@@ -4417,6 +4447,9 @@ priority:
   type: firm
   reason: participated in QuantHealth Series B (2026-08-04), $45M via Pitango HealthTech
   added: 2026-08-04
+  status: resolved
+  resolved: 2026-08-30
+  note: "Fact-spec sweep 2026-08-30 (duplicate of 2026-08-05 entry): resolved via same Ventureburn + QuantHealth.ai + Clinical Trials Arena sources. QuantHealth row in pitango-venture-capital.md updated to Series A (co-led $17M, 2024-01-09) → Series B follow-on (participated $45M, 2026-08-04). Citations [^59][^60] added."
 - slug: accel
   type: firm
   reason: participated in Delightree $25M growth round (2026-08-04) led by Innovius
@@ -4518,6 +4551,9 @@ priority:
   type: firm
   reason: participated (Pitango HealthTech) in QuantHealth Series B (2026-08-04), $45M
   added: 2026-08-05
+  status: resolved
+  resolved: 2026-08-30
+  note: "Fact-spec sweep 2026-08-30: Verified Pitango HealthTech participated in QuantHealth $45M Series B (2026-08-04, Qumra Capital led) via Ventureburn + QuantHealth company website confirmation. Also verified Pitango HealthTech co-led the earlier 2024-01-09 $17M Series A via Clinical Trials Arena. Corrected QuantHealth row in pitango-venture-capital.md from stale 'Seed 2021' to Series A (co-led 2024-01-09, $17M) → Series B follow-on (participated 2026-08-04, $45M). Added citations [^59][^60]."
 - slug: venrock
   type: firm
   reason: participated (Venrock Healthcare Capital Partners) in Expedition Therapeutics Series B (2026-08-05), $115M

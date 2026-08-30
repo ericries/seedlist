@@ -14,7 +14,7 @@ last_verified_investment:
   round: "Series A"
 social:
   linkedin: "https://www.linkedin.com/in/karimhussein/"
-status: draft
+status: published
 last_researched: 2026-08-30
 ---
 

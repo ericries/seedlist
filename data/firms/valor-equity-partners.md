@@ -108,6 +108,7 @@ Based on 59 verified current growth portfolio investments and 22 realized invest
 | Dominion Dynamics | Defense / Arctic autonomy | 2026 (Series A, C$139M, Georgian-led, 2026-06-30) | [^43][^44][^45] |
 | Base Power | Residential battery / retail electricity | 2024 (Series A, $68M, co-lead alongside Thrive Capital / Altimeter Capital; 2024-05-07 announcement); 2025 (Series B, $200M, co-led by Addition, a16z, Lightspeed, Valor; 2025-04-08); 2025 (Series C, $1B, Addition-led; 2025-10-08) | [^46][^47][^48] |
 | Positron AI | AI inference hardware / semiconductors | 2025 (Seed, $23.5M; participated with Atreides Management, Flume Ventures, Resilience Reserve; 2025-02-11 announcement); 2025 (Series A, $51.6M, Valor led; 2025-07-28) | [^49][^50][^51] |
+| Valar Atomics | Nuclear energy / AI infrastructure / deep tech | 2026 (Series B, $1B equity + $200M credit at ~$6B post-money; Sequoia's Shaun Maguire led; Valor Equity Partners participated alongside Apandion Capital, Atreides Management, Conviction, Dream Ventures, HOF Capital, Point72, Riot Ventures, Snowpoint Ventures; 2026-08-03 announcement) | [^valar1][^valar2] |
 
 #### Other Current Growth Portfolio Companies (year not yet verified from primary sources)
 
@@ -290,3 +291,6 @@ Note: Several of the above testimonials are sourced from the Valor website (Grow
 [^50]: BusinessWire, "Positron AI Secures $51.6 Million in Oversubscribed Series A to Accelerate Inference-Optimized Hardware," July 28, 2025, accessed August 2026. https://www.businesswire.com/news/home/20250728912387/en/Positron-AI-Secures-$51.6-Million-in-Oversubscribed-Series-A-to-Accelerate-Inference-Optimized-Hardware — Primary company press release confirming Valor Equity Partners led Positron AI's USD 51.6M Series A on 2025-07-28, alongside Atreides Management and DFJ Growth. Established Valor as the lead of Positron's institutional syndicate.
 
 [^51]: Positron AI company press page, accessed August 2026. https://www.positron.ai/press — Company primary press index confirming both the February 11, 2025 seed ($23.5M) and the July 28, 2025 Series A ($51.6M) announcements. Also cites the February 2026 $230M Series B at $1B+ valuation.
+
+[^valar1]: TechCrunch, "Sequoia's Shaun Maguire leads $1B round for nuclear startup Valar Atomics," August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/ — Primary press confirming Valor Equity Partners as a participant in Valar Atomics' $1B Series B at ~$6B post-money on August 3, 2026; Sequoia's Shaun Maguire led.
+[^valar2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 8/3/2026," August 3, 2026. Accessed August 2026. https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-3-2026/ — Independent cross-confirmation of Valor Equity Partners as a Valar Atomics Series B participant.

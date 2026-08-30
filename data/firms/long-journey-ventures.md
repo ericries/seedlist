@@ -191,6 +191,7 @@ Based on 60 verified portfolio companies from the firm's website and aggregator 
 | Unusual | Seed | 2026 | -- | [^10] |
 | Forage | Series B ($40M, participated) | 2026-06-03 | Fintech / SNAP-EBT Payments | [^26] [^27] [^28] |
 | Singularity | Series A (participated; $80M at $400M post-money; Khosla Ventures + Felicis co-led; AE Ventures, NEA, Harpoon, Menlo Ventures, Y Combinator, Decisive Point, New Vista, Sunflower, Soma also participated) | 2026-07-14 | Defense / Aerospace / Deep Tech | [^34] [^35] [^36] |
+| Othello | Seed (participated, $6.85M; Khosla Ventures, Koro Capital, Long Journey Ventures, M13, Rebel Fund, Y Combinator, Baselayer + 28 additional investors; 35 total per SEC Form D; founder Jared Zelman) | 2026-08-03 | AI / Sales Tech / Enterprise Software | [^oth1] [^oth2] |
 
 *This table represents approximately 60 of ~130 known investments (46%). Many early investments were made as personal angel investments by partners (Scott and Cyan Banister) before the fund formalized. Years marked with "~" indicate approximate dates based on founding year or earliest known investment date; verified years have specific source citations.*
 
@@ -262,3 +263,6 @@ No independently sourced founder testimonials found from founders outside the Lo
 [^37]: Lowercarbon Capital, "Abundance from Above," May 7, 2025, accessed August 2026. https://lowercarbon.com/2025/05/07/rainmaker-series-a/ — Primary lead-investor blog post confirming Lowercarbon Capital led Rainmaker's USD 25M Series A on 2025-05-07. Company based in El Segundo, CA; founded by Augustus Doricko.
 
 [^38]: dot.LA, "This LA Startup Wants to Make It Rain and Just Raised $25M to Do It," May 9, 2025, accessed August 2026. https://dot.la/losangeles-startup-rainmaker-secures-25million-2671924648.html — Contemporaneous LA tech press confirming Rainmaker's USD 25M Series A led by Lowercarbon Capital, with Starship Ventures, 1517 Fund, Long Journey Ventures, and Naval Ravikant among participants.
+
+[^oth1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 8/3/2026," August 3, 2026. Accessed August 2026. https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-3-2026/ — Primary daily funding report naming Long Journey Ventures among Othello's $6.85M seed participants on August 3, 2026.
+[^oth2]: Othello product overview page. Accessed August 2026. https://info.othello.ai/overview — Company primary confirming founder Jared Zelman.

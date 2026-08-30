@@ -15,7 +15,7 @@ last_verified_investment:
 social:
   twitter: "@isukhar"
   linkedin: "linkedin.com/in/ilyasukhar"
-status: draft
+status: published
 last_researched: 2026-08-30
 ---
 
