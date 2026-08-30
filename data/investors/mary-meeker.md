@@ -159,6 +159,20 @@ No independently sourced founder testimonials about Mary Meeker as an investor w
 
 Mood Rowghani, BOND General Partner (commenting on an Ironclad investment alongside Meeker), stated: "Not only is Ironclad's vision well-honed; they have the talent and expertise to execute it" [^19]. This reflects BOND's evaluation style but is an investor quote, not a founder quote.
 
+## Connections
+
+- **Board member, Block (formerly Square)** [^2]
+- **Board member, Genies** — BOND led $65M round May 2021 [^2][^21]
+- **Board member, OpenEvidence** [^2]
+- **Member, Defense Innovation Board** — U.S. Department of Defense advisory body [^2]
+- **Co-Founder & General Partner, BOND** (2018) — with Mood Rowghani, Noah Knauf, and Juliet de Baubigny; Jay Simons (former president of Atlassian) joined the partnership in late 2020; ~$5.75B AUM across three funds [^4][^5][^6]
+- **Former Partner, Kleiner Perkins Caufield & Byers** (2010–2018) — led three digital growth funds totaling $2.8B in committed capital before departing to found BOND [^1][^2][^3]
+- **Former Managing Director, Morgan Stanley** (1991–2010) — head of global technology research; underwrote landmark IPOs including Netscape (1995) and Google (2004); "Queen of the Internet" [^1][^2]
+- **Co-author, "The Internet Report"** (1995) with Chris DePuy — the "bible" for dot-com investors [^1]
+- **Published the annual Internet Trends Report** every year from 1995 to 2019; revived in 2025 with a 340-page AI Trends report [^1][^13]
+- **Frequent BOND co-investors**: General Catalyst, Durable Capital, Index Ventures, Tiger Global, Lux Capital
+- **Kleiner Perkins-era portfolio includes major shared cap tables** — Uber, Airbnb, Slack, Spotify, Pinterest, DocuSign, Plaid, Peloton, Ring, Instacart, Waze, JD.com, Trendyol [^2][^3]
+
 ## Sources
 
 [^1]: Grokipedia, "Mary Meeker," accessed March 2026. https://grokipedia.com/page/Mary_Meeker

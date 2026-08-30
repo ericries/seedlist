@@ -1,5 +1,6 @@
 ---
 founded: 2012
+tldr: "San Francisco seed-stage firm founded 2012 by former Y Combinator partners Alexis Ohanian, Garry Tan and Harj Taggar. Manages $3.2B+ across 470+ investments with Fund VI at $700M; targets 10-15% ownership at seed. 27 unicorns to date including Coinbase, Instacart, Reddit, Rippling, Flexport, Opendoor and Cruise. Now led by Managing Partner Brett Gibson after a 2024 restructuring, with Garry Tan remaining as Founder and Board Partner."
 fund_size: $700M (Fund VI, 2021); $3.2B+ total AUM
 last_researched: 2026-03-20
 location: San Francisco, CA

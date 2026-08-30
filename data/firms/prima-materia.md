@@ -5,6 +5,7 @@ type: firm
 website: "https://primamateria.com"
 location: "Stockholm, Sweden"
 founded: 2021
+tldr: "Stockholm-based company builder founded February 2021 by Spotify co-founder Daniel Ek and early Spotify backer Shakil Khan, deploying Ek's pledged €1B of personal capital over a decade. Explicitly rejects the VC label — describes itself as builders and active owners to a small number of European deep-tech 'moonshots'. Concentrated portfolio spans defense AI (Helsing), healthtech (Neko Health), longevity (Epiterna), gaming (Homa Games) and climate (Northvolt); Ek chairs Helsing and Neko Health."
 fund_size: "€1B (pledged personal capital)"
 stage_focus: [seed, series-a]
 sector_focus: [defense-tech, healthtech, longevity, climate-tech, AI, gaming]

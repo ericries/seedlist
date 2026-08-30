@@ -5,6 +5,7 @@ type: firm
 website: "https://sherpa.com"
 location: "San Francisco, CA"
 founded: 2013
+tldr: "San Francisco firm founded March 2013 by former Menlo Ventures MD Shervin Pishevar and ex-Goldman Sachs internet banker Scott Stanford, raising ~$630M across three funds. Built its 'regulatory arbitrage' thesis around backing platforms disrupting incumbent-controlled industries, with early bets in Uber, Airbnb, Slack, Postmates, Robinhood, Munchery and SpaceX. Pishevar resigned in December 2017 amid sexual-misconduct allegations; Stanford transitioned the team and portfolio to ACME Capital in 2018."
 fund_size: "$630M total AUM (Sherpa Ventures Fund I: $154M; Sherpa Ventures Fund II: $172M; Sherpa Everest Fund: $298M)"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [consumer, on-demand-economy, fintech, enterprise, logistics, healthcare, deep-tech]

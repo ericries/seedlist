@@ -1,5 +1,6 @@
 ---
 founded: 2015
+tldr: "San Francisco venture arm of Tiger Cub Lee Ainslie's Maverick Capital, spun out as a standalone evergreen fund on January 1, 2015 and led by Managing Partners David Singer, Ambar Bhattacharyya and Prateesh Maheshwari. Raised $240M in a fourth vintage in March 2025, bringing total capital to $855M+ and AUM to $1.4B. Concentrates ~70% of investments in healthcare and digital health with selective AI, enterprise and consumer bets; notable positions include Hims and Hers, One Medical, Cityblock, Coupang, MosaicML and Infleqtion."
 fund_size: $855M total raised; $1.4B AUM; fourth vintage of $240M (2025)
 last_researched: 2026-03-24
 location: San Francisco, CA

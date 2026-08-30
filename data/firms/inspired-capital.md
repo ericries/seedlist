@@ -5,6 +5,7 @@ type: firm
 website: "https://www.inspiredcapital.com"
 location: "New York, NY"
 founded: 2019
+tldr: "New York early-stage firm founded 2019 by LearnVest founder Alexa von Tobel and former U.S. Commerce Secretary Penny Pritzker. Manages ~$900M across three funds; Fund III closed at $330M in February 2024. Invests $500K-$20M from pre-seed through Series A across AI, fintech, healthcare, industrial and labor; portfolio includes Rho, Finix, Dandy, Public, Chief, QA Wolf and Habi, and skews to women and non-white founders."
 fund_size: "$900M AUM across three funds"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [ai, fintech, healthcare, digital-health, industrial, labor, education, insurtech, consumer-finance, climate-tech]

@@ -5,6 +5,7 @@ type: firm
 website: "https://nfdg.com"
 location: "San Francisco, CA"
 founded: 2023
+tldr: "AI-only venture fund founded 2023 by former GitHub CEO Nat Friedman and ex-Apple/YC partner Daniel Gross with $1.1B in committed capital. Wrote checks from $1M to $100M across AI infrastructure and applications, ran the Andromeda GPU supercluster for portfolio companies, and operated the AI Grant program with $250K checks. Reached ~4x returns on ~$550M deployed within two years — anchored by Safe Superintelligence at a $32B valuation — before Meta partially acquired the holdings in 2025 and both GPs joined Meta Superintelligence Labs."
 fund_size: "$1.1B (debut fund); partially acquired by Meta in 2025"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [ai, ai-infrastructure, ai-applications]

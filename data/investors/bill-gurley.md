@@ -193,6 +193,23 @@ Barton also credited Gurley with pushing Zillow's marketing creativity. Early in
 
 > "Bill Gurley and his team bring proven investment experience working with incredibly successful companies." [^21]
 
+## Connections
+
+- **Board member, Zillow** — reappointed to the board of directors January 2024; previously served a decade-long tenure [^7]
+- **Board member (founding), Nextdoor** — Nirav Tolia called Gurley "one of the founders of the company" [^27]
+- **Board member, OpenTable** — led $10M Series B alongside Impact Venture Partners in 2000 [^19]
+- **Board member, GrubHub** — led $11M investment in 2010 [^21]
+- **Board member, Stitch Fix** — Series B, 2013 [^22]
+- **Board member, Solv** — $6.25M Series A, 2017 [^17]
+- **Board member, Instawork** — Series A, 2019 [^26]
+- **Board member, Uber** — historical board seat during Benchmark's Series A investment [^4]
+- **Retained ~10 board seats** as of 2023 after stepping back from active investing [^6]
+- **Former Partner, Hummer Winblad Venture Partners** (1997–1999), before joining Benchmark [^2][^3]
+- **Former Research Analyst, CS First Boston** — lead analyst on Amazon's IPO; covered Dell, Compaq, Microsoft [^2][^3]
+- **Former Design Engineer, Compaq Computer** — worked on the 486/50 processor and Compaq's first multi-processor server [^2][^3]
+- **Advisory Board Member, McCombs School of Business** (University of Texas at Austin) [^3]
+- **Frequent co-investors**: Index Ventures, Greylock Partners, DAG Ventures, Shasta Ventures (Nextdoor syndicate) [^18]; Floodgate (Demandforce) [^29]
+
 ## Sources
 
 [^1]: Kiddle Encyclopedia, "Bill Gurley facts for kids," accessed March 2026. https://kids.kiddle.co/Bill_Gurley

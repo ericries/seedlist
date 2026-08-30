@@ -1,5 +1,6 @@
 ---
 founded: 1996
+tldr: "Global VC founded 1996 in Geneva by Neil, David Rimer and Giuseppe Zocco, now with offices in San Francisco, London, New York and Tel Aviv. Manages ~$15B lifetime capital; announced $2.3B in new funds in 2024. Transatlantic seed-through-growth model with 108 billion-dollar portfolio companies and 57 IPOs, including Figma, Wiz, Revolut, Datadog, Discord and Roblox."
 fund_size: '$2.3B (2024: $800M venture + $1.5B growth); $15B total capital raised;
   $3.1B (2021)'
 last_researched: 2026-07-16

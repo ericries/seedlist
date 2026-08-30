@@ -146,6 +146,18 @@ Based on 22 verified investments below (12 at Conviction, 10 at Greylock):
 
 No independently sourced founder testimonials found. Guo's personal website references founder testimonials, but specific attributed quotes from portfolio founders could not be independently verified from public sources.
 
+## Connections
+
+- **Board member, HeyGen** — joined the board after leading the $5.6M November 2023 round; replaced HongShan's board seat [^23][^24][^25]
+- **Founder & General Partner, Conviction Partners** (2022–present) — largest LP in first $101M fund; added Mike Vernal (formerly Sequoia Capital) as GP with second $230M fund closed January 2025 [^1][^7]
+- **Colleague at Conviction**: Mike Vernal (ex-Sequoia GP), Isabella Garcia-Camargo — both named alongside Guo on the Corridor seed [^7][^17]
+- **Former General Partner, Greylock Partners** (2013–2022) — joined at age 26; became one of the youngest GPs in Greylock's history; led 40+ deals including Demisto (acq. Palo Alto Networks), Sqreen (acq. Datadog), Coda, Baseten, Cleo, Common Room, Shortcut, Remotion [^2][^3][^5][^6]
+- **Former Goldman Sachs (banking / growth investing)** — advised Dropbox, Netflix, Nvidia, Workday, and Zynga [^3][^5]
+- **Co-host, "No Priors" podcast** with Elad Gil (frequent AI co-investor) [^4]
+- **TED AI speaker** — San Francisco, 2025 [^2]
+- **Family connection**: parents were Bell Labs engineers who founded Casa Systems (IPO 2017), a cable/telecom infrastructure company competing with Cisco and Ericsson [^2][^3]
+- **Frequent co-investors at Conviction**: OpenAI Startup Fund and Elad Gil (Harvey seed) [^18]; Andreessen Horowitz (Mistral Series A, Sola Series A) [^10][^12]; Founders Fund, 8VC, Khosla Ventures, Elad Gil (Cognition) [^31]; Benchmark (Sunday Robotics, Sierra) [^34][^35]; Sequoia (Sierra, OpenEvidence) [^26][^29]; IVP, CapitalG, NVIDIA, Greylock, BOND (Baseten Series E) [^20][^21]; Index Ventures and Ribbit Capital (Enigma seed co-leads) [^36]; GV, Kleiner Perkins, Coatue, Thrive Capital (OpenEvidence Series B) [^26][^28]
+
 ## Sources
 
 [^1]: TechCrunch, "Carving out conviction around the future of AI with Sarah Guo," October 14, 2022. https://techcrunch.com/2022/10/14/carving-out-conviction-around-the-future-of-ai-with-sarah-guo/

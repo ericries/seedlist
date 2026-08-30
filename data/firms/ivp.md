@@ -1,5 +1,6 @@
 ---
 founded: 1980
+tldr: "Menlo Park growth-stage firm founded 1980 by Reid Dennis, one of Silicon Valley's oldest VC franchises. Fund XVIII closed at $1.6B in 2024, bringing lifetime funds to 18. Concentrates on ~12 Series B investments per year with $30-40M checks; 400+ companies backed, 130+ IPOs and 41 unicorns including Netflix, Slack, Snap, CrowdStrike, Datadog, Coinbase, UiPath and Figma."
 fund_size: $1.6B (Fund XVIII, 2024); 18 funds total since 1980
 last_researched: 2026-03-19
 location: Menlo Park, CA

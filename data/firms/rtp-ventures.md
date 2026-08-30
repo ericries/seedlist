@@ -1,5 +1,6 @@
 ---
 founded: 2000
+tldr: "Global early-stage firm founded 2000 by Leonid Boguslavsky (originally ru-Net Holdings, rebranded RTP Global in 2018). Unusual structure: Boguslavsky contributes 99%+ of capital, with employees and portfolio founders as the only other LPs; no institutional LPs. Manages $3B+ across offices in New York, London, Bangalore and Paris; Fund IV closed at $1B in 2023. 200+ investments and 13 unicorns; Datadog Series A co-lead returned ~500x."
 fund_size: $1B (Fund IV, 2023); $650M (Fund III, 2020); $200M (Fund II, 2018)
 last_researched: 2026-05-02
 last_verified_investment:

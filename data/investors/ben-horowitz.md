@@ -156,6 +156,29 @@ Ali Ghodsi, co-founder and CEO of Databricks, has said: "I don't think Databrick
 
 Diishan Imira, founder of Mayvenn, described how after investing, Horowitz emailed him: "I'm going to introduce you to a couple of CEOs who run billion dollar businesses and you need to talk to them because you need to stop seeing yourself as the odd duck Black hair guy and you need to see yourself as a CEO of a multibillion dollar beauty franchise" [^31].
 
+## Connections
+
+- **Board member, Okta** — led $10M Series A on July 13, 2010 (a16z's first cloud investment); joined board alongside co-founders Todd McKinnon and Frederic Kerrest [^12][^17][^32][^33]
+- **Board member, Databricks** — led Series A in 2013 with a $14M check (70x what founders asked); has participated in every subsequent Databricks round [^13]
+- **Board member, Tanium** — led $90M growth investment in 2014, based on prior relationship with Orion Hindawi from Opsware/BigFix era [^14]
+- **Board member, Foursquare** — Series B, 2010, alongside Union Square Ventures [^18]
+- **Board member, Nicira** — Series A, ~2010 (acquired by VMware for $1.26B in 2012) [^19]
+- **Board member, NationBuilder** — led $6.25M Series A in March 2012 [^20]
+- **Board member, Genius (Rap Genius)** — $15M Series A, October 2012 [^21]
+- **Former board member, Lyft** — joined in 2016, departed April 2020 [^26]
+- **Board member, Wise (TransferWise)** — his first-ever European board seat (Series C, 2015) [^16]
+- **Board member, UnitedMasters** — Series A, November 2017 [^27]
+- **Board member, Anyscale** — Series A, December 2019 [^29]
+- **Board member, Medium** — growth round, 2015 [^24]
+- **Board member, Atoms** — led $1.7B round for Travis Kalanick's robotics company, July 22, 2026 [^atoms1][^atoms2][^atoms3]
+- **Co-Founder & CEO, Loudcloud / Opsware** (1999–2007) — with Marc Andreessen, Tim Howes, and In Sik Rhee; took Loudcloud public March 2001; sold Opsware to HP for $1.6B in 2007 [^1][^2]
+- **Former VP, AOL eCommerce Division** (post-Netscape acquisition, 1998) [^1]
+- **Former VP, Netscape** — joined Andreessen in 1995 as product manager; rose to VP of Directory and Security Product Line [^1][^2]
+- **Former Engineer, Silicon Graphics** (from 1990) [^1]
+- **Co-Founder & General Partner, Andreessen Horowitz** (2009) — with Marc Andreessen; $300M initial capitalization; over $90B AUM by 2026 [^1][^5]
+- **Angel co-investment history**: with Marc Andreessen, made 45 angel investments totaling $4M from 2006–2010, including Twitter [^4]
+- **Frequent co-investors on his personal deals**: Silver Lake and CPPIB (Skype secondary), Lightspeed (Navan), Union Square Ventures (Foursquare)
+
 ## Sources
 
 [^1]: "Ben Horowitz," Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Ben_Horowitz

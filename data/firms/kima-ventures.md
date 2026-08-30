@@ -1,5 +1,6 @@
 ---
 founded: 2010
+tldr: "Paris-based angel vehicle founded 2010 by French telecom billionaire Xavier Niel as a single-LP evergreen fund; run since 2015 by Managing Partner Jean de La Rochebrochard. Deploys ~€150K per deal at ~100 deals per year, no follow-ons — roughly two startups per week. Has invested ~€110M across nearly 1,300 companies (21 unicorns, 10 IPOs); since 2018 concentrates ~90% of new deals on French founders."
 fund_size: €110M total deployed; single-LP evergreen structure; ~€15M deployed annually
 last_researched: 2026-03-30
 location: Paris, France

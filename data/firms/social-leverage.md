@@ -5,6 +5,7 @@ type: firm
 website: "https://socialleverage.com"
 location: "Scottsdale, AZ"
 founded: 2009
+tldr: "Scottsdale-based seed firm founded 2009 by StockTwits founder Howard Lindzon and Tom Peterson, now on Fund V at $85M with 150+ startups backed across six vintages and 45 exits. Writes $1-2M checks targeting 10-20% ownership at seed, concentrated in fintech (~37% of portfolio) and vertical SaaS (~33%). Notable investments include Robinhood, eToro, Kustomer, DataFox, Distil Networks, mParticle and beehiiv; won Best VC at the 2023 Benzinga Global Fintech Awards."
 fund_size: "$85M (Fund V)"
 stage_focus: [pre-seed, seed]
 sector_focus: [fintech, saas, vertical-ai, consumer]

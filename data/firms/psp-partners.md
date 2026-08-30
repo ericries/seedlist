@@ -5,6 +5,7 @@ type: firm
 website: "https://www.psppartners.com"
 location: "Chicago, Illinois"
 founded: 2011
+tldr: "Chicago family office and diversified private investment firm founded 2011 by Penny Pritzker, former U.S. Secretary of Commerce and Hyatt Hotels heir. Four business units span buyouts (PSP Capital), venture (PSP Growth, founded 2017), real estate (Pritzker Realty Group) and asset management, all operating on permanent capital with no fund lifecycle. PSP Growth writes $1-5M initial checks with $25M follow-on capacity into B2B software, concentrated in proptech, construction tech and cybersecurity; portfolio includes OpenSpace, Synthesia, ID.me, Icertis, Zafran and HouseCanary."
 stage_focus: [seed, series-a, series-b, series-c, growth]
 sector_focus: [b2b-software, proptech, construction-tech, real-estate, fintech, cybersecurity, payments, insurtech, ai, data-analytics, industrial-tech, climate-tech]
 team:

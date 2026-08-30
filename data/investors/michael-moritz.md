@@ -127,6 +127,28 @@ On San Francisco (New York Times, 2023): "Like it or not, San Francisco has beco
 
 No independently sourced founder testimonials found. The only documented founder relationship with specific on-record commentary involves Tony Hsieh and Zappos, where Hsieh wrote in his book *Delivering Happiness* that pressure from Sequoia board members (including Moritz) to prioritize profits over culture contributed to his decision to sell Zappos to Amazon — but Hsieh's account does not include a direct quote attributing specific statements to Moritz personally, and Moritz did not respond to press requests for comment on the matter [^30]. Keith Rabois (investor, Khosla Ventures / Founders Fund) called Moritz "the best VC of all time" [^9], and Bill Gurley (Benchmark) said "saying 'other than Moritz' is like saying who hit home runs excluding Babe Ruth" [^9] — though neither is a portfolio company founder.
 
+## Connections
+
+- **Board member, Google** — Series A, 1999; served alongside co-lead investor John Doerr (Kleiner Perkins) [^15]
+- **Board seats at eGroups, eToys, Webvan, and Flextronics** — held concurrently at the time of the 1999 Google investment [^15]
+- **Board member, Yahoo** — Seed, 1995 [^13]
+- **Board member, PayPal / X.com** — Series A, 1999 [^16]
+- **Board member, LinkedIn** — led $4.7M Series A, November 2003 [^17]
+- **Board member, Zappos** — through the Amazon sale (2010) [^18][^30]
+- **Board member, Kayak** — early stage, 2005 [^19]
+- **Board member, YouTube** — Series A, 2005 [^1]
+- **Board member, Dropbox** — Seed, 2007 [^20]
+- **Board member (Chairman), Klarna** — appointed Chairman [^22]
+- **Board member, Instacart** — Series B, 2013 [^23]
+- **Board member, Skyscanner** — 2013 [^24]
+- **Board member, Coupang** — $100M growth, May 2014 [^25]
+- **Co-led Sequoia Capital with Doug Leone** from 1996 through his 2012 chairman transition [^4]
+- **Co-Founder, Sequoia Heritage** (2010) — with Doug Leone; now Senior Advisor; AUM grew from $4.2B (2018) to $16.4B (2023) [^6]
+- **Former Journalist, Time magazine** — San Francisco bureau chief; contracted by Steve Jobs to document Macintosh development (produced *The Little Kingdom*, 1984) [^2][^3]
+- **Co-Founder, Technologic Partners** — technology newsletter and conference company (pre-Sequoia) [^2]
+- **Co-author with Sir Alex Ferguson** of *Leading* (2015), drawing on the Manchester United manager's leadership principles [^7]
+- **Frequent co-investors**: Kleiner Perkins (Google co-led with John Doerr; PayPal); Andreessen Horowitz (Instacart)
+
 ## Sources
 
 [^1]: Michael Moritz — Wikipedia, accessed March 2026. https://en.wikipedia.org/wiki/Michael_Moritz

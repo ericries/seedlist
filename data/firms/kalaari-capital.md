@@ -5,6 +5,7 @@ type: firm
 website: "https://kalaari.com"
 location: "Bengaluru, Karnataka, India"
 founded: 2006
+tldr: "Bengaluru early-stage firm founded 2006 by Vani Kola and Vinod Dham (originally Indo-US Venture Partners, rebranded Kalaari in 2012). Manages ~$650M AUM across four funds, with Reliance/Jio as anchor LP of Fund IV. Concentrates ~84% of checks at seed and Series A, mostly in India; 161 portfolio companies with 8 unicorns and 3 IPOs, including Myntra, Dream11, Cult.fit, Snapdeal and BlueStone."
 fund_size: "$650M+ AUM (across multiple funds)"
 stage_focus: [seed, series-a]
 sector_focus: [consumer, e-commerce, fintech, saas, gaming, healthtech, deeptech, ai, climate]

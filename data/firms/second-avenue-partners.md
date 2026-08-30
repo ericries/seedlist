@@ -1,5 +1,6 @@
 ---
 founded: 2000
+tldr: "Seattle-based early-stage firm founded February 2000 by Nick Hanauer (Amazon's first non-family investor and aQuantive founder), longtime Microsoft executive Pete Higgins, ex-NeXT and Starwave CEO Mike Slade, and the late Nextel International CEO Keith Grinstein. Provides ~$1M checks plus deep operator mentorship — partners take board seats and meet weekly with CEOs. 50+ investments concentrated in the Pacific Northwest, producing one unicorn (Flexe), one IPO (Market Leader) and 12 acquisitions including Insitu (Boeing, $400M)."
 fund_size: Undisclosed
 last_researched: 2026-03-23
 location: Seattle, WA

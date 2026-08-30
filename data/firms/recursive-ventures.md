@@ -5,6 +5,7 @@ type: firm
 website: "https://www.recursiveventures.com"
 location: "San Francisco, CA"
 founded: 2014
+tldr: "San Francisco solo-capitalist micro-VC founded 2014 by Itamar Novick, former Life360 CBO/CFO and Gigya founding-team member. Closed Fund III at $30M in February 2025; Funds I and II ranked top-decile of US venture funds. Invests $500K-$1M initial checks (up to ~$10M lifetime via syndicates) into US and Israeli pre-seed/seed startups building AI-native applications with proprietary data moats; portfolio includes Deel, Life360, Ring, Tile, Placer.ai, SafeGraph, HoneyBook and Cherre."
 fund_size: "$30M (Fund III, closed February 2025); Funds I & II ranked top decile of US venture funds"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai, fintech, enterprise, developer-tools, saas, proptech]

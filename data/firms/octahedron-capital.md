@@ -1,5 +1,6 @@
 ---
 founded: 2020
+tldr: "Burlingame-based crossover fund founded April 2020 by former Altimeter portfolio manager Ram Parameswaran, joined by Partner Albert Chiang in 2021. Manages ~$129M Onshore Fund and $36M Long Only Fund plus an offshore vehicle, with ~$147M in public equities as of Q4 2025. Runs a highly concentrated global internet-economy strategy across public and private markets, targeting 3-5x returns on late-stage and growth rounds; private positions include Databricks, Monzo, Udaan, Pine Labs and MPL."
 fund_size: $129M Onshore Fund; $36M Long Only Fund (per SEC Form D filings as of January
   2026)
 last_researched: 2026-03-23

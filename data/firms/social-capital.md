@@ -1,5 +1,6 @@
 ---
 founded: 2011
+tldr: "Palo Alto-based technology holding company founded 2011 by former Facebook growth executive Chamath Palihapitiya (originally Social+Capital Partnership). Stopped raising outside capital in 2018 and now deploys ~$2.15B of Palihapitiya's personal wealth across venture, public equities and SPACs. Legacy VC portfolio produced Slack, Yammer, Box and Intercom; became the highest-profile SPAC sponsor by taking Virgin Galactic, Opendoor, Clover Health and SoFi public. After a March 2024 partner shakeup, Palihapitiya is the sole investing partner."
 fund_size: $2.15B total AUM (as of June 2025)
 last_researched: 2026-03-20
 location: Palo Alto, CA

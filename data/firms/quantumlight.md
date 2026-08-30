@@ -1,5 +1,6 @@
 ---
 founded: 2022
+tldr: "London-based quantitative growth-equity firm founded 2022 by Revolut CEO Nik Storonsky, positioning itself as 'the first truly systematic venture capital and growth equity firm'. Closed Fund I at $250M in May 2025 (with Storonsky contributing ~$60M) and is raising a ~$500M Fund II. Uses a proprietary AI model called Aleph to screen 700K+ companies for outlier growth-stage bets; offers portfolio companies a 'Scale-up Operating System' distilled from Revolut. Portfolio spans AI, fintech, healthtech and SaaS (TogetherAI, Lovable, Function Health, Midas, Builder.io)."
 fund_size: $250M (Fund I)
 last_researched: 2026-03-19
 location: London, United Kingdom

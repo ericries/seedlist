@@ -5,6 +5,7 @@ type: firm
 website: "https://www.indie.vc"
 location: "Salt Lake City, UT"
 founded: 2015
+tldr: "Salt Lake City fund founded 2015 by Bryce Roberts (co-founder of OATV) as an alternative to traditional VC, backing founders focused on profitability and sustainable growth over the fundraise-scale-exit playbook. INDIE Fund I closed January 2024 with a $50M target; check sizes run $250K to $2M. Portfolio spans healthcare, consumer, developer tools and media, including Linear, The Shade Room, Nice Healthcare and Curie."
 fund_size: "$50M target (INDIE Fund I, 2023); previously within OATV's $85M Fund III"
 stage_focus: [pre-seed, seed]
 sector_focus: [saas, consumer, healthcare, developer-tools, ai-ml, cybersecurity, dtc, media, infrastructure]

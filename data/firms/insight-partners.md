@@ -1,5 +1,6 @@
 ---
 founded: 1995
+tldr: "New York-based global software investor founded 1995 by Jeff Horing and Jerry Murdock. Manages $90B+ AUM; Fund XIII plus Opportunities Fund II closed on $12.5B in January 2025. Stage-agnostic within software with 875+ investments, 55+ IPOs and a 130-person Insight Onsite operational arm. Notable positions include Wiz, SentinelOne, Shopify, Qualtrics, JFrog, Recorded Future and Checkout.com."
 fund_size: $90B+ AUM; Fund XIII at $12.5B
 last_researched: 2026-06-04
 location: New York, NY

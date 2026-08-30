@@ -1,5 +1,6 @@
 ---
 founded: 2012
+tldr: "Palo Alto fintech-focused firm founded 2012 by Meyer 'Micky' Malka, a serial financial-services entrepreneur behind Patagon and Banco Lemon. Manages ~$12B AUM across 10+ funds; Fund VII closed at $1.15B in 2022 and Fund X at $800M in 2023. Invests globally from seed to growth in financial services, crypto, insurtech, payments and lending; 164 investments to date with 38 unicorns, 16 IPOs and 25 acquisitions. Fund I reportedly returned ~70x."
 fund_size: ~$12B AUM across 10+ funds
 last_researched: 2026-03-20
 location: Palo Alto, CA

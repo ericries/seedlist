@@ -1,5 +1,6 @@
 ---
 founded: 2011
+tldr: "Oakland-based impact VC founded 2011 by Mitch Kapor and Freada Kapor Klein, investing exclusively in tech startups closing gaps of access, opportunity or outcome for low-income and underrepresented U.S. communities. Fund III closed at $126M in 2022, the first fund to accept outside LPs; ~$224M AUM across 170+ companies. Reported 29% net IRR (2011-2017); portfolio includes Uber, Twilio, Asana, Omada Health, ClassDojo and Promise, with 62% of founders underrepresented people of color or women."
 fund_size: $224M AUM; $126M Fund III (2022); Fund I and Fund II self-funded
 last_researched: 2026-04-01
 location: Oakland, CA

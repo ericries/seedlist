@@ -98,7 +98,7 @@ This table includes 22 verified investments. Sources indicate D'Angelo may have 
 | DatologyAI | Seed | 2024-02-22 | AI/Data | Active | [^6][^31][^32] |
 | Codegen | Seed | 2023-11-16 | AI/Developer Tools | Active | [^6][^35] |
 | Scale AI | Series C | 2019 | AI/Data Platform | Active | [^8][^10] |
-| Cerebras Systems | Angel | 2017 (pre-Series A personal stake; confirmed under oath in Musk v. OpenAI testimony, May 2026) | AI Chips | IPO (NASDAQ, May 2026) | [^9][^19][^20][^36] |
+| Cerebras Systems | Angel | 2017 (pre-Series A personal stake; confirmed under oath in Musk v. OpenAI testimony) | AI Chips | IPO (NASDAQ) | [^9][^19][^20][^36] |
 | Replit | Angel | ~2018 (founding year; D'Angelo participation per aggregator, not confirmed in 2018 seed round announcement) | Developer Tools | Active | [^9] |
 | Lambda | Series B | 2023-03-21 | AI/Compute | Active | [^9][^11] |
 | Turing | Seed | 2019 | AI/Talent | Active | [^9][^12] |
@@ -146,6 +146,19 @@ On social networks and AI (early career motivation):
 ## What Founders Say
 
 No independently sourced founder testimonials found.
+
+## Connections
+
+- **Board member, OpenAI** — joined 2018; one of four board members who voted to remove Sam Altman as CEO in November 2023; key figure in Altman's return; sole original board member retained when board was reconstituted with Bret Taylor (Chair) and Lawrence Summers [^1][^4]
+- **Board member, Asana** — since December 2008 (over 17 years); works alongside Dustin Moskovitz [^2]
+- **Co-Founder & CEO, Quora** (2009–present) — with Charlie Cheever, a former Facebook engineer; company valued at $2B in 2019 [^1][^2]
+- **Founder, Poe** — AI chatbot aggregation platform integrated within Quora [^3]
+- **First Chief Technology Officer, Facebook** (2006–2008) [^1]
+- **Co-Founder, Wirehog** (2004) — peer-to-peer file-sharing platform with Mark Zuckerberg and Andrew McCollum [^2]
+- **Long-standing tie to Mark Zuckerberg**: met at Phillips Exeter Academy; co-developed Synapse (a WinAmp music-recommendation plugin that drew acquisition offers up to $2M from AOL, WinAmp, Microsoft) [^1][^2]
+- **Cerebras Systems co-angel cohort** — grouped alongside OpenAI-affiliated angels Sam Altman, Greg Brockman, and Ilya Sutskever in 2017 (per CNBC IPO reporting and S-1 disclosures) [^19][^20][^36]
+- **Frequent angel co-investors** (per NFX Signal): Mike Krieger (Prefer), Meyer Malka / Ribbit Capital, Sam Lessin / Slow Ventures, Tim Guleri / Sierra Ventures [^7]
+- **Wealthfront 2013 Series B co-investors**: Matt Mullenweg, Andy Dunn, Michael Schroepfer, Hunter Walk, Cipora Herman, Satya Patel; round led by Mike Volpi (Index) with Chamath Palihapitiya (Social+Capital), Reid Hoffman (Greylock) [^18][^38]
 
 ## Sources
 

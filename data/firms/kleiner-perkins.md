@@ -1,5 +1,6 @@
 ---
 founded: 1972
+tldr: "Menlo Park firm founded 1972 by Eugene Kleiner and Tom Perkins, one of Sand Hill Road's original venture houses. Deployed $10B+ across 22+ funds and 900+ companies, producing 97 IPOs, 308 acquisitions and 52 unicorns; raised $2B+ in 2024 (KP21 at $825M and Select III at $1.2B). Rebooted under Mamoon Hamid and Ilya Fushman in 2017 as a partner-led early-stage practice; John Doerr remains Chairman. Notable backings include Amazon, Google, Slack, Uber, DoorDash and Figma."
 fund_size: $825M (KP21, 2024); $1.2B (Select III, 2024); $1.8B (KP20 + Select II,
   2022)
 last_researched: 2026-04-30

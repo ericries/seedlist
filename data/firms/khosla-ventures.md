@@ -1,5 +1,6 @@
 ---
 founded: 2004
+tldr: "Menlo Park firm founded 2004 by Sun Microsystems co-founder Vinod Khosla, seeded with his own capital before opening to LPs in Fund III. Manages ~$16B AUM across Seed, Main and Opportunity funds; closed $3.1B across three vehicles in 2023 and is raising $3.5B more. Backs 'bold, early and impactful' bets in AI, climate, biotech and frontier tech across ~710 companies with 51 unicorns and 32 IPOs; first institutional investor in OpenAI at a $1B valuation."
 fund_size: $1.6B (Fund VIII, 2023); $500M (Seed Fund, 2023); $900M (Growth Fund, 2023);
   seeking $3.5B across three funds (2025)
 last_researched: 2026-04-30

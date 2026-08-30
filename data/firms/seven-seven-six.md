@@ -1,5 +1,6 @@
 ---
 founded: 2020
+tldr: "Austin-based venture firm founded 2020 by Reddit co-founder Alexis Ohanian after departing Initialized Capital, named for the year of the first Olympic Games. Manages ~$900M across Fund I ($150M), Fund II ($500M) and the Kryptos crypto fund ($177.6M); Ohanian seeded the firm with $100M of his own capital. Invests pre-seed to Series A with a ~40% weighting toward crypto and web3, plus consumer, gaming, sports and health tech; portfolio spans QuickNode, Sorare, Interlune, Stoke Space, Ro, Linear and Angel City FC."
 fund_size: '$900M+ AUM across 3 funds (Fund I: $150M, Fund II: $500M, Kryptos: $177.6M)'
 last_researched: 2026-06-04
 location: Austin, TX
