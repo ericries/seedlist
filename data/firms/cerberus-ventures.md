@@ -5,6 +5,7 @@ type: firm
 website: "https://cerberus-ventures.com"
 location: "New York, NY"
 founded: 2023
+tldr: "Cerberus Ventures is the venture arm of Cerberus Capital Management, launched in 2023 in New York under Chris Darby, former 17-year CEO of In-Q-Tel (the CIA's strategic investment firm). It closed roughly $75M at first close for an inaugural fund investing seed through Series B in defense, AI, quantum computing, cybersecurity, biotech, and deep-tech. The team includes ex-In-Q-Tel and ex-Google/Nvidia hires applying an intelligence-community lens to commercial venture."
 fund_size: "~$75M (first close of inaugural fund)"
 stage_focus:
   - seed

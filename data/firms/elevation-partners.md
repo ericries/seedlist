@@ -5,6 +5,7 @@ type: firm
 website: "https://elevation.com"
 location: "Menlo Park, CA"
 founded: 2004
+tldr: "Elevation Partners was a Menlo Park private equity firm founded in 2004 by Roger McNamee and Marc Bodnick (ex-Silver Lake), Fred Anderson (ex-Apple CFO), John Riccitiello (ex-EA), Bret Pearlman (ex-Blackstone), and Bono of U2, named after the U2 song. It raised a single $1.9B fund making eight large growth-equity bets on media, entertainment, gaming, and consumer-tech businesses. The fund wound down between 2012 and 2015; alumni later formed NextEquity Partners."
 fund_size: "$1.9B (Fund I)"
 stage_focus: [growth-equity, late-stage]
 sector_focus: [media, entertainment, gaming, consumer-technology, digital-media]

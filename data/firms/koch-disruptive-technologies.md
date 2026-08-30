@@ -5,6 +5,7 @@ type: firm
 website: https://www.kochdisruptivetechnologies.com
 location: Wichita, Kansas
 founded: 2017
+tldr: "Koch Disruptive Technologies (KDT) is the venture and growth arm of Koch Industries, founded in 2017 in Wichita, Kansas by Chase Koch. It has deployed over $4B off Koch's balance sheet (not a traditional fund structure) across seed through growth stages, targeting cybersecurity, healthcare, semiconductors, supply chain, autonomous vehicles, fintech, and connectivity. Distinctive edge: portfolio companies can plug into Koch's massive industrial operations for pilot deployments and commercial partnerships. Led by President Byron Knight, with international presence via KDT Israel."
 fund_size: "$4B+ deployed (balance sheet, not fund-based)"
 stage_focus:
 - seed

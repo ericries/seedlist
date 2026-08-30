@@ -5,6 +5,7 @@ type: firm
 website: "https://www.crv.com"
 location: "San Francisco, CA / Palo Alto, CA"
 founded: 1970
+tldr: "CRV (Charles River Ventures) is one of the oldest venture firms in the U.S., founded in 1970 and now based in San Francisco and Palo Alto. It closed a $750M Fund XX in 2025 following the $1B early-stage fund plus $500M Select vehicle in 2022, with roughly $5B deployed historically. Focused on seed and Series A across enterprise, consumer, developer tools, fintech, AI, infrastructure, and cybersecurity, with GPs including Saar Gur, Reid Christian, and Murat Bicer."
 fund_size: "$750M (Fund XX, 2025); $1B early-stage + $500M Select (2022); ~$5B deployed historically"
 stage_focus:
   - seed
@@ -167,6 +168,7 @@ This table represents 40 verified investments out of approximately 397 total com
 | Oak | Seed (co-led with Accel and Greylock Partners, $60M) | 2026-07-15 | Cybersecurity / Identity / AI-Native IAM | Active [^oak1][^oak2][^oak3] |
 | Hadrius | Series A + Seed (led, $27M combined; $22M Series A) | 2026-07-14 | Fintech / Compliance / Agentic AI | Active [^had1][^had2][^had3] |
 | Maximum | Seed (led, $30M; Caitlin Bolnick Rellas GP) | 2026-08-03 | Fintech / AI-native banking core / Miami | Active [^max1][^max2][^max3] |
+| Alice (formerly ActiveFence) | Growth (participated; Apax Digital led, $140M) | 2026-08-25 | AI trust, safety & security | Active [^alice-crv1][^alice-crv2][^alice-crv3] |
 
 ## In Their Own Words
 
@@ -276,3 +278,9 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 [^max1]: GlobeNewswire, "Maximum Raises $30 Million to Build the AI-Native Operating System for Banks," August 3, 2026. Accessed August 2026. https://www.globenewswire.com/news-release/2026/08/03/3337824/0/en/maximum-raises-30-million-to-build-the-ai-native-operating-system-for-banks.html — Primary company press wire confirming CRV led the $30M seed. Caitlin Bolnick Rellas (CRV General Partner) quoted. Co-investors: Pear VC, Restive, Plug and Play Ventures, Anthemis. Founder: Randy Fernando (prior founder of Vault, sold to Acorns 2017; and Power, sold to Marqeta 2023).
 [^max2]: Refresh Miami, "Maximum lands $30M on the thesis that banks need more than an AI upgrade," August 4, 2026. Accessed August 2026. https://refreshmiami.com/news/maximum-lands-30m-on-the-thesis-that-banks-need-more-than-an-ai-upgrade/ — Independent Miami tech-press confirmation of CRV lead.
 [^max3]: FinTech Global, "Maximum lands $30m to rip out banks' legacy cores," August 4, 2026. Accessed August 2026. https://fintech.global/2026/08/04/maximum-lands-30m-to-rip-out-banks-legacy-cores/ — Third independent fintech-press confirmation of round size, lead, and participants.
+
+[^alice-crv1]: Alice (formerly ActiveFence) company blog, "Alice Raises $140M for AI Trust, Safety, and Security," August 25, 2026. Accessed August 2026. https://alice.io/blog/alice-raises-140m — Primary company announcement confirming CRV among Growth-round participants; Apax Digital led.
+
+[^alice-crv2]: Bloomberg, "AI Safety Startup Alice, Partner of Google, Anthropic, Raises $140 Million," August 25, 2026. Accessed August 2026. https://www.bloomberg.com/news/articles/2026-08-25/ai-safety-startup-alice-partner-of-google-anthropic-raises-140-million — Independent tier-1 press confirmation of round and participants.
+
+[^alice-crv3]: SiliconANGLE, "Alice raises $140M as its AI security business grows more than 500%," August 25, 2026. Accessed August 2026. https://siliconangle.com/2026/08/25/alice-raises-140m-as-its-ai-security-business-grows-more-than-500/ — Third independent tech-press confirmation naming CRV as Growth-round participant.

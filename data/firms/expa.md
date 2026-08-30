@@ -5,6 +5,7 @@ type: firm
 website: "https://www.expa.com"
 location: "San Francisco, CA (offices in New York, London)"
 founded: 2013
+tldr: "Expa is a San Francisco 'company studio' and venture fund founded in 2013 by Garrett Camp, co-founder of Uber and StumbleUpon. It combines product, operational, and capital support to help founders build companies from inception, and has raised roughly $350M across three funds (Fund I $50M in 2014; Fund II $100M in 2016; Fund III $200M). Investing pre-seed through Series A across fintech, logistics, developer tools, consumer, healthcare, esports, and sustainability, backed by LPs including Richard Branson, Meg Whitman, Ram Shriram, and Li Ka-shing."
 fund_size: "$350M total across three funds"
 stage_focus:
   - pre-seed

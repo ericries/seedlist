@@ -5,6 +5,7 @@ type: firm
 website: "https://audrey.co/"
 location: San Francisco, California
 founded: 2008
+tldr: "Audrey Capital is Matt Mullenweg's San Francisco angel investment vehicle, founded in 2008 by the WordPress co-creator and Automattic CEO alongside partners Naveen Selvadurai (Foursquare co-founder) and Audrey Kim. It writes $25K-$75K seed and pre-seed checks with a bias toward developer tools, open-source, and web infrastructure, and has made 100+ investments including Ring, GitLab, Typekit, Pointy, and Getaround. Fund profits sponsor the Audrey Scholars tuition program for children of open-source contributors."
 fund_size: "Angel fund (undisclosed)"
 stage_focus:
   - pre-seed

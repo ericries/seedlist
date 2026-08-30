@@ -5,6 +5,7 @@ type: firm
 website: "https://www.incite.org/"
 location: San Francisco, CA
 founded: 2015
+tldr: "Incite Ventures is a San Francisco mission-driven firm founded in 2015 by Swati Mylavarapu (ex-Kleiner Perkins, ex-Square) and Matt Rogers (Nest Labs co-founder, ex-Apple). It operates as a self-funded family office with no external LPs, deploying roughly $4-5M/year in venture investments and a similar amount in philanthropic grants across three branches — Incite Ventures, Incite Labs (501(c)(3)), and an advocacy arm. Focus areas span climate-tech, carbon removal, food waste, agtech, women's health, and consumer brands."
 fund_size: "~$4-5M/year in venture investments (self-funded, no external LPs)"
 stage_focus:
   - pre-seed

@@ -5,6 +5,7 @@ type: firm
 website: "https://www.iconiq.com/growth"
 location: "San Francisco, CA"
 founded: 2013
+tldr: "ICONIQ Growth is a San Francisco-based growth-equity firm founded in 2013, part of the ICONIQ Capital family office that famously counts Mark Zuckerberg, Jack Dorsey, and other tech founders among its clients. It has raised $21B+ across seven funds (Fund VII closed at $5.75B in 2024), investing Series B through late growth into enterprise SaaS, AI, fintech, infrastructure, cybersecurity, and healthcare IT. Led by co-founder Will Griffith with GPs including Matt Jacobson, Amit Agarwal, Seth Pierrepont (Europe), and Alex Gorsky."
 fund_size: "$5.75B (Fund VII, 2024); $21B total raised across seven funds"
 stage_focus:
   - series-b

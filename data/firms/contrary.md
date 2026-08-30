@@ -5,6 +5,7 @@ type: firm
 website: "https://contrary.com"
 location: "San Francisco, CA"
 founded: 2016
+tldr: "Contrary is a San Francisco talent- and research-driven venture firm founded in 2016 by Eric Tarczynski, who built it by recruiting student Venture Partners from 50+ university campuses as a nationwide sourcing engine. It manages roughly $287.8M AUM across five funds (Fund V ~$75M in 2025) investing pre-seed through growth in AI, fintech, developer tools, and consumer. LPs include founders of Tesla, Reddit, Twitch, SoFi, and Facebook; portfolio of 57+ companies has produced 6 unicorns."
 fund_size: "$287.8M AUM across five core funds; Fund I: $2.2M (2017); Fund II: $20M (2021); Fund III: $75M (2022); Fund IV: ~$58M (2023); Fund V: ~$75M (2025)"
 stage_focus:
   - pre-seed

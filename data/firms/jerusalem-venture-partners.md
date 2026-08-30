@@ -5,6 +5,7 @@ type: firm
 website: "https://jvpvc.com"
 location: "Jerusalem, Israel"
 founded: 1993
+tldr: "Jerusalem Venture Partners (JVP) is one of Israel's most prominent venture firms, founded in 1993 by Dr. Erel Margalit under the Israeli government's Yozma program. It manages $1.9B AUM across multiple funds (Fund VIII $220M in 2019; Growth Opportunity Fund X targeting $450M in 2021) and has built 165+ companies over three decades. Sector focus spans cybersecurity, AI, fintech, insurtech, foodtech, and semiconductors; a 2025 partnership with TPG produced a $290M continuation vehicle around insurtech unicorn Earnix."
 fund_size: "$220M (Fund VIII, 2019); ~$450M (Growth Opportunity Fund X, 2021)"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [cybersecurity, ai, fintech, insurtech, climate-tech, enterprise-software, digital-health, foodtech, agtech, iot, semiconductors]

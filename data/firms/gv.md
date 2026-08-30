@@ -5,6 +5,7 @@ type: firm
 website: "https://www.gv.com"
 location: "San Francisco, CA"
 founded: 2009
+tldr: "GV (formerly Google Ventures) is Alphabet's venture arm, founded in 2009 and based in San Francisco with over $13B AUM and roughly $1B deployed annually. Led by CEO David Krane, it invests seed through growth across AI, life sciences, enterprise, consumer, and frontier tech, with a distinctive strategy of a large stable of General Partners (Krishna Yeshwant on life sciences, Tom Hulme in Europe, Dave Munichiello on enterprise) leveraging Alphabet's technical and operational depth to support portfolio companies."
 fund_size: "$13B+ AUM; deploys ~$1B annually"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [ai, life-sciences, enterprise, consumer, frontier-tech]

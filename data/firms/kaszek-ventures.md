@@ -5,6 +5,7 @@ type: firm
 website: "https://www.kaszek.com"
 location: "Buenos Aires, Argentina / São Paulo, Brazil"
 founded: 2011
+tldr: "Kaszek is Latin America's largest venture firm, founded in 2011 in Buenos Aires and São Paulo by Hernan Kazah and Nicolas Szekasy, both former MercadoLibre executives (co-founder/COO and CFO respectively). It manages $3B AUM across six early-stage funds (Fund VI $540M, 2023) and three growth Opportunity Funds (Fund III $435M, 2023), investing seed through growth in fintech, e-commerce, marketplaces, healthtech, and enterprise SaaS across the region. Notable investments include Nubank, QuintoAndar, and Kavak."
 fund_size: "$3B AUM; Fund VI $540M (early-stage, 2023); Opportunity Fund III $435M (growth, 2023)"
 stage_focus:
   - seed

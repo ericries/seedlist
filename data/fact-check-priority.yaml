@@ -4917,42 +4917,72 @@ priority:
   type: investor
   reason: appeared in Owner Series D (2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  note: 'Fact-spec sweep 2026-08-30: Verified Jack Altman participated in Owner $240M Series D on 2026-08-28 (Goldman Sachs Alternatives led; Meritech, Redpoint, Headline also participated). Sources cross-referenced across PR Newswire release, Restaurant Business, and Morningstar syndication. Added new Portfolio row and updated last_verified_investment. 3 new footnotes added ([^20], [^21], [^22]).'
 - slug: greenoaks-capital
   type: firm
   reason: appeared in Airbound Series A (2026-08-24)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  note: 'Fact-spec sweep 2026-08-30: Verified Greenoaks led Airbound $37M Series A on 2026-08-24 (DoorDash, Lachy Groom, Lightspeed, Humba Ventures participated). Sources cross-referenced across TechCrunch, DroneLife, and Dealroom News. Added new Portfolio row with 3 citations.'
 - slug: lachy-groom
   type: investor
   reason: appeared in Airbound Series A (2026-08-24)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  note: 'Fact-spec sweep 2026-08-30: Verified Lachy Groom participated in Airbound $37M Series A on 2026-08-24 (Greenoaks led). Follow-on to his 2025 $8.65M seed investment. Sources cross-referenced across TechCrunch, DroneLife, and Dealroom News. Added new Portfolio row, updated last_verified_investment to Airbound Series A. 3 new footnotes added.'
 - slug: crv
   type: firm
   reason: appeared in Alice growth round (2026-08-25)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  note: 'Fact-spec sweep 2026-08-30: Verified CRV participated (existing investor) in Alice (formerly ActiveFence) $140M Growth round on 2026-08-25 (Apax Digital led). Sources cross-referenced across Alice company blog, Bloomberg, and SiliconANGLE. Added new Portfolio row citing Alice as post-rebrand name of ActiveFence (already in portfolio at Series B 2021). 3 new footnotes added.'
 - slug: nfx
   type: firm
   reason: appeared in Alice growth round (2026-08-25)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  note: 'Fact-spec sweep 2026-08-30: Verified NFX participated in Alice (formerly ActiveFence) $140M Growth round on 2026-08-25 (Apax Digital led). Sources cross-referenced across Alice company blog, Bloomberg, and SiliconANGLE. Added new Portfolio row. 3 new footnotes added.'
 - slug: y-combinator
   type: firm
   reason: appeared in Arintra Series B (2026-08-26)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  note: 'Fact-spec sweep 2026-08-30: Verified Y Combinator participated (follow-on) in Arintra $25M Series B on 2026-08-26 (Define Ventures led; Peak XV, Yale New Haven Health, Endeavor Health, Counterpart Ventures, Ten13, Spider Capital also participated). Sources cross-referenced across PR Newswire, Fierce Healthcare, and MobiHealthNews. Added new Portfolio row. 3 new footnotes added.'
 - slug: bessemer-venture-partners
   type: firm
   reason: appeared in Bevel Seed (2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  note: 'Fact-spec sweep 2026-08-30: Verified Bessemer participated in Bevel $6M Seed on 2026-08-28 (SHAKTI led; Resolute Ventures also participated). Two primary sources: Bevel LinkedIn announcement and company Seed Letter from CEO. Small round with limited independent coverage — only 2 sources available at profile creation, both primary. Added new Portfolio row with 2 citations.'
 - slug: thrive-capital
   type: firm
   reason: appeared in Retro Series A (2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  note: 'Fact-spec sweep 2026-08-30: Verified Thrive Capital led Retro (Lone Palm Labs) $21M+ Series A on 2026-08-28 (Dylan Field, Scribble Ventures, Box Group, Imaginary Ventures, Coalition, Conviction, Copper, Positive Sum participated). Round disclosed via SEC Form D filing dated 2026-08-19. Sources cross-referenced across TechCrunch and Techmeme; only 2 primary sources available at profile creation. Added new Portfolio row.'
 - slug: andreessen-horowitz
   type: firm
   reason: appeared in Atorie Seed (2026-08-27)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  note: 'Fact-spec sweep 2026-08-30: Verified a16z speedrun participated in Atorie $9.5M Seed on 2026-08-27 (Night Capital and Lightspeed Venture Partners also participated). Primary source: TechCrunch coverage — only 1 primary source available at profile creation as this is a small seed round. Added new Portfolio row.'
 - slug: jeremy-liew
   type: investor
   reason: appeared in Atorie Seed (2026-08-27)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  note: 'Fact-spec sweep 2026-08-30: Verified Jeremy Liew participated in Atorie $9.5M Seed on 2026-08-27 on behalf of Lightspeed Venture Partners (a16z speedrun and Night Capital also participated). Primary source: TechCrunch coverage — only 1 primary source available at profile creation as this is a small seed round. Added new Portfolio row and updated last_verified_investment.'
 - slug: dst-global
   type: firm
   reason: appeared in Higgsfield Series B (2026-08-17)

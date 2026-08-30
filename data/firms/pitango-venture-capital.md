@@ -5,6 +5,7 @@ type: firm
 website: "https://www.pitango.com"
 location: "Herzliya, Israel"
 founded: 1993
+tldr: "Pitango Venture Capital is Israel's largest and longest-standing venture firm, founded in 1993 by Rami Kalish (originally as Polaris Venture Capital) and later joined by Chemi Peres. Headquartered in Herzliya with offices in New York and Palo Alto, it manages $3B+ AUM across 14 funds and 300+ investments, organized into three vehicles: Pitango First (seed/early), Pitango HealthTech, and Pitango Growth. Sector focus spans cybersecurity, digital health, medical devices, generative AI, quantum, fintech, and cloud infrastructure."
 fund_size: "$3B+ AUM across 14 funds"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [cybersecurity, digital-health, medical-devices, generative-ai, quantum-computing, fintech, insurtech, devops, cloud-infrastructure, mobility, biopharma, saas, media]

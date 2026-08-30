@@ -5,6 +5,7 @@ type: firm
 website: "https://www.hustlefund.vc/"
 location: "San Carlos, CA"
 founded: 2017
+tldr: "Hustle Fund is a pre-seed venture firm founded in 2017 by Elizabeth Yin, Eric Bahn, and Shiyan Koh, three Stanford alumni who previously worked at 500 Startups and NerdWallet. Based in San Carlos with operations in Singapore, it has raised $125M+ across three funds (Fund III at $46M in 2022) with Fund IV targeting $50M. The firm writes early pre-seed checks into SaaS, B2B, fintech, digital health, consumer, and AI, and also runs the Angel Squad program to train new angel investors."
 fund_size: "$46M (Fund III, 2022); $125M+ total AUM across three funds; Fund IV targeting $50M (fundraising began March 2025)"
 stage_focus:
   - pre-seed

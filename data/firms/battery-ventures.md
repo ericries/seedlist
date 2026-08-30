@@ -5,6 +5,7 @@ type: firm
 website: "https://www.battery.com"
 location: "Boston, MA"
 founded: 1983
+tldr: "Battery Ventures is a Boston-based, multi-stage technology investment firm founded in 1983 that has raised $13B+ since inception. Its most recent Fund XV closed at $3.25B in 2026, following the combined $3.8B Fund XIV + Select Fund II in 2022. It invests seed through buyout across application and infrastructure software, consumer tech, industrial tech, life-science tools, AI, cybersecurity, and developer tools, with a long-tenured partnership including Neeraj Agrawal, Michael Brown, Chelsea Stoner, Dharmesh Thakker, and Roger Lee."
 fund_size: "$3.25B (Fund XV, 2026); $3.8B combined (Fund XIV + Select Fund II, 2022); $13B+ total raised since inception"
 stage_focus: [seed, series-a, growth, buyout]
 sector_focus: [application-software, infrastructure-software, consumer-technology, industrial-technology, life-science-tools, ai, cybersecurity, developer-tools]

@@ -9,8 +9,8 @@ stage_focus: [seed, series-a, series-b]
 sector_focus: [b2b-saas, developer-tools, fintech, hr-tech, ai, productivity]
 check_size: "$100K-$10M"
 last_verified_investment:
-  date: 2026-03-18
-  company: "Meadow Memorials"
+  date: 2026-08-24
+  company: "Airbound"
   round: "Series A"
 social:
   twitter: "@lachygroom"
@@ -101,6 +101,7 @@ Based on analysis of 35 verified investments (across ~30 unique companies, some 
 | Rise | ~2022 | Seed (led, $3M) | Productivity/Calendaring | [^34] |
 | Imprint | 2023-11-13 | Series B | Fintech/Co-branded cards | [^35][^38][^39] |
 | Ambrook | 2026-08-04 | Series B (led, $30M; Thomson Reuters Ventures, Thrive Capital, Field Ventures, Cameron Ventures participated) | Fintech/Accounting/Vertical SaaS/Agriculture | [^ambrook-lg1][^ambrook-lg2][^ambrook-lg3] |
+| Airbound | 2026-08-24 | Series A ($37M; Greenoaks led; DoorDash, Lightspeed, Humba Ventures participated) | Drones/Logistics | [^ab-lg1][^ab-lg2][^ab-lg3] |
 
 This table represents approximately 35 unique companies of Groom's 200+ claimed investments (roughly 17%). Different sources report varying portfolio sizes: PitchBook cites 204 investments across 122 companies; other aggregators report 146-209 investments [^1][^15]. The discrepancy likely reflects differences in counting methodology across personal angel investments, LGF fund investments, and SPV co-investments.
 
@@ -189,3 +190,9 @@ Sam Altman, CEO of OpenAI, posted on X: "lachy is one of four people i ask for c
 [^ambrook-lg1]: Upstarts Media (Alex Konrad), "Startup Ambrook, QuickBooks Killer For Farms, Raises $30M Series B," August 4, 2026. Accessed August 2026. https://www.upstartsmedia.com/p/ambrook-raises-30m-series-b-real-economy — Primary tier-1 startup press confirming Lachy Groom led Ambrook's $30M Series B; names Thomson Reuters Ventures, Thrive Capital, Field Ventures, and Cameron Ventures as co-investors. Includes Groom quote on founder Mackenzie Burnett's "authenticity" and "reverence" for customers.
 [^ambrook-lg2]: Ambrook company Series B announcement page. Accessed August 2026. https://ambrook.com/series-b — Company's own primary announcement confirming $30M Series B led by Lachy Groom with Thomson Reuters Ventures, Thrive Capital, Field Ventures, and Cameron Ventures participating; total funding to $59M.
 [^ambrook-lg3]: Techmeme, "Ambrook, which offers accounting software, raised a $30M Series B led by Lachy Groom," August 4, 2026. Accessed August 2026. https://www.techmeme.com/260804/p26 — Third independent tech aggregator confirmation of Lachy Groom leading the $30M Series B.
+
+[^ab-lg1]: TechCrunch, "India's Airbound bags $37M to take on trucks with rocket-like drones," August 24, 2026. Names Lachy Groom among Series A participants alongside Greenoaks (lead), DoorDash, Lightspeed, and Humba Ventures. Accessed August 2026. https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/
+
+[^ab-lg2]: DroneLife, "Airbound Raises $37 Million Series A and Plans 10,000 Daily Drone Flights Across Andhra Pradesh," August 25, 2026. Accessed August 2026. https://dronelife.com/2026/08/25/airbound-raises-37-million-series-a-and-plans-10000-daily-drone-flights-across-andhra-pradesh/
+
+[^ab-lg3]: Dealroom News, "India's Airbound raises $37M to make drone delivery as cheap as trucking," August 2026. Accessed August 2026. https://dealroom.co/news/146693-indias-airbound-raises-37m-to-make-drone-delivery-as-cheap-as-trucking/

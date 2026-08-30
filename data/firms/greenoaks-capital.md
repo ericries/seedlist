@@ -84,6 +84,7 @@ Based on 35 verified investments with sufficient detail for analysis:
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Airbound | Series A (led, $37M) | 2026-08-24 | Drones / Logistics | Active | [^ab-go1][^ab-go2][^ab-go3] |
 | Mariana Minerals | Series B (participant; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private | [^mm-go] |
 | Coupang | Growth | 2014 | E-commerce | Public (NYSE: CPNG) | [^11] |
 | Flipkart | Growth | 2014 | E-commerce | Acquired (Walmart) | [^37] |
@@ -148,6 +149,12 @@ No additional independently sourced founder testimonials from portfolio company 
 ## Sources
 
 [^mm-go]: PR Newswire, "Mariana Minerals Raises $310 Million Series B Led by Khosla Ventures to Accelerate Critical Minerals Production," August 3, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/mariana-minerals-raises-310-million-series-b-led-by-khosla-ventures-to-accelerate-critical-minerals-production-302840889.html
+
+[^ab-go1]: TechCrunch, "India's Airbound bags $37M to take on trucks with rocket-like drones," August 24, 2026. Confirms Greenoaks led Airbound's $37M Series A. Accessed August 2026. https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/
+
+[^ab-go2]: DroneLife, "Airbound Raises $37 Million Series A and Plans 10,000 Daily Drone Flights Across Andhra Pradesh," August 25, 2026. Accessed August 2026. https://dronelife.com/2026/08/25/airbound-raises-37-million-series-a-and-plans-10000-daily-drone-flights-across-andhra-pradesh/
+
+[^ab-go3]: Dealroom News, "India's Airbound raises $37M to make drone delivery as cheap as trucking," August 2026. Accessed August 2026. https://dealroom.co/news/146693-indias-airbound-raises-37m-to-make-drone-delivery-as-cheap-as-trucking/
 
 [^1]: Greenoaks, VCSheet fund breakdown, accessed March 2026. https://www.vcsheet.com/fund/greenoaks
 [^2]: Benny Peretz, Crunchbase person profile, accessed March 2026. https://www.crunchbase.com/person/benjamin-peretz

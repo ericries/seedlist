@@ -10,9 +10,9 @@ stage_focus: [seed, series-a]
 sector_focus: [enterprise-software, ai, developer-tools, fintech, health-tech]
 check_size: "$500K-$10M (Alt Capital); institutional at Benchmark"
 last_verified_investment:
-  date: 2026-05-29
-  company: "Drafted"
-  round: "Seed"
+  date: 2026-08-28
+  company: "Owner"
+  round: "Series D"
 social:
   twitter: "@jaltma"
   linkedin: "linkedin.com/in/jackealtman"
@@ -40,16 +40,16 @@ Altman has described his approach as "conviction-led investing," emphasizing bac
 
 ## Inferred Thesis
 
-Based on 26 verified investments in the portfolio table below, the following patterns emerge. Note: Altman claims approximately 56 companies in his angel portfolio plus 40+ via Alt Capital [^10][^4], so this table represents roughly 27% of his total activity. Sample size is sufficient for directional patterns but too small for precise percentages.
+Based on 27 verified investments in the portfolio table below, the following patterns emerge. Note: Altman claims approximately 56 companies in his angel portfolio plus 40+ via Alt Capital [^10][^4], so this table represents roughly 27% of his total activity. Sample size is sufficient for directional patterns but too small for precise percentages.
 
-### Sector Allocation (26 verified investments)
+### Sector Allocation (27 verified investments)
 
 - **Enterprise Software / SaaS**: 10 of 26 (38%) — Lattice (founded), Figma, Rippling, Vanta, Pocus, Cal.com, Cortex, Fillout, Sora, Oso
 - **AI / ML Applications**: 5 of 26 (19%) — Writer, David AI, Retell AI, Rogo, Legora
 - **Developer Tools / Infrastructure**: 3 of 26 (12%) — Roboflow, SF Compute, DepthFirst
 - **Fintech / HR Tech**: 3 of 26 (12%) — Pulley, Mercury, Forma
 - **Health / Compliance**: 3 of 26 (12%) — Ethena, Vitable Health, Verifiable
-- **Consumer / Marketplace**: 2 of 26 (8%) — Product Hunt, Owner.com
+- **Consumer / Marketplace**: 2 of 27 (7%) — Product Hunt, Owner.com
 
 ### Stage Distribution
 
@@ -107,8 +107,9 @@ Altman claims a generalist approach but his portfolio reveals a strong B2B enter
 | Pursuit | 2026-04-29 | Series A | [^15] |
 | Rogo | 2026-04-29 | Series D | [^16] |
 | Drafted | 2026-05-29 | Seed (Buckley Ventures led) | [^17][^18][^19] |
+| Owner.com | 2026-08-28 | Series D (Goldman Sachs Alternatives led; participation alongside Meritech, Redpoint, Headline) | [^20][^21][^22] |
 
-This table represents approximately 29 of an estimated 90+ total investments. Angel investment dates prior to Alt Capital's founding in 2024 could not be individually verified and are listed as "Pre-2024."
+This table represents approximately 30 of an estimated 90+ total investments. Angel investment dates prior to Alt Capital's founding in 2024 could not be individually verified and are listed as "Pre-2024."
 
 ## In Their Own Words
 
@@ -165,3 +166,9 @@ No independently sourced founder testimonials found. Altman is a relatively new 
 
 [^19]: The SaaS News, "Drafted Raises $16M Seed," May 29, 2026. Confirms Buckley Ventures-led $16M seed; Jack Altman is among investors per AI Business Weekly cross-reference. Accessed June 13, 2026. https://www.thesaasnews.com/news/drafted-raises-16m-seed/
 [^17]: TechCrunch, "Cohere raises $3.1 million for its remote control solution for web apps," March 17, 2021. https://techcrunch.com/2021/03/17/cohere-raises-3-1-million-for-its-remote-control-solution-for-web-apps/
+
+[^20]: Owner press release via PR Newswire, "Owner Raises $240M Led by Goldman Sachs Alternatives to Build the AI-Native Platform for Every Local Business," August 28, 2026. Explicitly lists Jack Altman among named participants in the Series D. Accessed August 2026. https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html
+
+[^21]: Restaurant Business, "Owner raises $240M for 'AI-native' restaurant tech," August 28, 2026. Confirms Series D participants including Jack Altman. Accessed August 2026. https://www.restaurantbusinessonline.com/technology/owner-raises-240m-ai-native-restaurant-tech
+
+[^22]: Morningstar syndication of PR Newswire release, "Owner Raises $240M Led by Goldman Sachs Alternatives to Build the AI-Native Platform for Every Local Business," August 28, 2026. Accessed August 2026. https://www.morningstar.com/news/pr-newswire/20260828ph35792/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business

@@ -5,6 +5,7 @@ type: firm
 website: "https://outlander.vc"
 location: "Atlanta, GA"
 founded: 2020
+tldr: "Outlander VC is an Atlanta-based pre-seed and seed firm founded in 2020 by Paige Craig (former Marine Corps sergeant and founder of Lincoln Group) and Leura Craig (co-founder of Laurel & Wolf), evolved from Craig's Arena Ventures Fund I (2015). Currently deploying a $250M Fund III Magellan with $500K-$2.5M+ checks into pre-revenue startups nationwide, focused on AI, robotics, defense, industrial-tech, aerospace, and fintech. The firm reports 17 unicorns from 150+ investments, and half its partners are women."
 fund_size: "$250M (Fund III Magellan); predecessor Fund I (Arena Ventures, ~$37M) launched 2015"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai, robotics, defense, industrial-tech, aerospace, fintech, healthtech, saas, autonomous-vehicles, deep-tech]

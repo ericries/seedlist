@@ -3,8 +3,8 @@ check_size: $3M-$20M
 firm: lightspeed-venture-partners
 last_researched: 2026-03-25
 last_verified_investment:
-  company: LedgerX
-  date: ~2023
+  company: Atorie
+  date: 2026-08-27
   round: Seed
 location: Menlo Park, CA
 name: Jeremy Liew
@@ -133,6 +133,7 @@ The analysis below is based on 35 verified investments attributed to Jeremy Liew
 | Runway | 2020 | Seed | Consumer / finance | Private | [^1][^31] |
 | Stickies | ~2019 | Early | Consumer | Private | [^1] |
 | The Nudge | 2019 | Seed | Consumer | Private | [^1][^32] |
+| Atorie | 2026-08-27 | Seed ($9.5M; Lightspeed + a16z speedrun + Night Capital participated) | Consumer / E-commerce / Fashion / AI | Private | [^33] |
 
 *This table includes 35 verified investments. Some investments may be attributed to Lightspeed broadly rather than Liew individually. Years marked with ~ indicate approximate dates based on company founding year or contextual evidence.*
 
@@ -226,3 +227,4 @@ No independently sourced founder testimonials found. While Liew has sat on the b
 [^30]: TechCrunch, "Ladder raises $100M on a $900M valuation for a platform selling flexible term life insurance," October 2021, accessed April 2026. https://techcrunch.com/2021/10/04/ladder-raises-100m-on-a-900m-valuation-for-a-platform-selling-flexible-term-life-insurance/
 [^31]: Lightspeed Venture Partners, "Runway," accessed April 2026. https://lsvp.com/company/runway/
 [^32]: Crunchbase News, "Digital Planner The Nudge Raises $2M Seed Round," accessed April 2026. https://news.crunchbase.com/startups/digital-planner-the-nudge-raises-2m-seed-round/
+[^33]: TechCrunch, "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup," August 27, 2026. Accessed August 2026. https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/ — Primary tier-1 tech press confirming Jeremy Liew participated in Atorie's $9.5M Seed on behalf of Lightspeed Venture Partners, alongside a16z speedrun and Night Capital.

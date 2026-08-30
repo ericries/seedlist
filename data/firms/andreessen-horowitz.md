@@ -312,6 +312,7 @@ The following table includes a16z investments verified through the firm's own po
 | Neon (Neon Commerce) | Series A (led, $13M) | 2026-07-22 | Gaming / D2C Commerce / Payments | Private ($27M total raised; SF-based; Renegade Partners and Krafton participated; Chris Faught CEO) [^neon1][^neon2][^neon3] |
 | Etched | Series C (participated, $300M at $10.3B val; Sequoia led) | 2026-07-23 | AI / Semiconductors / Inference | Private (Jane Street, Diffusion Capital, and SK Hynix also participated) [^etchd1][^etchd2] |
 | Volta Infra | Seed + Series A (co-led with Altimeter, $300M at $2.4B val) | 2026-08-04 | AI / Cloud Infrastructure / Neocloud | Private (NVIDIA, Michael Dell, Azora, Matter Venture Partners participated; Singapore-based; $10B six-year AI compute contract; founders Ricard Boada and Sofia Gumuzio ex-Brookfield) [^volta1][^volta2][^volta3] |
+| Atorie | Seed (participated via a16z speedrun, $9.5M) | 2026-08-27 | Consumer / E-commerce / Fashion / AI | Private (Night Capital and Lightspeed Venture Partners also participated; Jeremy Liew from Lightspeed on the deal; SF-based; founders Redouane Ramdani and Luis Angulo) [^atorie-a16z] |
 
 *Note: This table includes 87 companies out of 1,076+ total portfolio companies (~8%). Investment years are approximate where exact dates are not publicly confirmed. Many investments span multiple rounds; the stage listed reflects a16z's initial or most significant investment.*
 
@@ -694,3 +695,5 @@ The following table includes a16z investments verified through the firm's own po
 [^volta2]: Crypto Briefing, "Volta secures $10B partnership and $300M raise, co-led by a16z, at a $2.4B valuation," August 4, 2026. Accessed August 2026. https://cryptobriefing.com/volta-10b-partnership-a16z-series-a-funding/ — Independent confirmation of a16z co-lead role and $2.4B valuation.
 
 [^volta3]: The Next Web, "Nvidia and Dell back AI cloud startup Volta at a $2.4bn valuation," August 4, 2026. Accessed August 2026. https://thenextweb.com/news/volta-ai-cloud-300m-nvidia-dell-2-4bn — Third-source confirmation.
+
+[^atorie-a16z]: TechCrunch, "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup," August 27, 2026. Accessed August 2026. https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/ — Primary tier-1 tech press naming a16z speedrun as a Seed round participant alongside Night Capital and Lightspeed Venture Partners; Jeremy Liew from Lightspeed named as an investor.

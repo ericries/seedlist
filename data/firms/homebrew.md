@@ -5,6 +5,7 @@ type: firm
 website: "https://homebrew.co"
 location: "Burlingame, CA"
 founded: 2013
+tldr: "Homebrew is a Burlingame-based seed firm founded in 2013 by Hunter Walk (ex-YouTube product) and Satya Patel (ex-Battery Ventures, ex-Google), organized around a 'Bottom Up Economy' thesis of technology empowering individuals and small businesses. The firm has backed 172 companies producing 12 unicorns including Chime, Plaid, Gusto, Mercury, and Shield AI. It stopped raising external LPs in 2020, transitioning to an evergreen 'Homebrew Forever' structure."
 fund_size: "~$200M total across 5 funds; Fund I: $35M (2013), Fund II: $50M (2015), Moonshine (follow-on): $35M; now evergreen via Homebrew Forever"
 stage_focus:
   - pre-seed

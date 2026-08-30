@@ -5,6 +5,7 @@ type: firm
 website: "https://curie.bio"
 location: "Boston, MA"
 founded: 2023
+tldr: "Curie.Bio is a Boston seed-stage biotech firm and drug-discovery accelerator founded in 2023 by Zach Weinberg (ex-Flatiron Health), Alexis Borisy, and Christoph Lengauer (both ex-Third Rock Ventures). It combines $5-15M preferred-stock checks with a 100-person operating team and 200+ CRO partnerships, taking 7.5% founder common in exchange for hands-on R&D support. Total capital raised exceeds $1.2B across Seed Fund I, a $380M Breakout Fund, and Seed Fund II."
 fund_size: "$1.2B+ total; Seed Fund I (~$275M, 2023); Breakout Fund ($380M, 2024); Seed Fund II ($342M, 2025)"
 stage_focus:
   - seed

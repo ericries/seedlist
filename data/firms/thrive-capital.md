@@ -218,6 +218,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | NewLimit | Series C (participated, $435M at $3.1B post-money) | 2026-06-02 | Biotech / Longevity / Cell Reprogramming | Private [^48][^49][^50] |
 | Cadence (Care) | Series C (participated, $100M; Spark Capital led) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | Private [^57][^58][^59] |
 | Ambrook | Series B (participated, $30M; Lachy Groom led with Thomson Reuters Ventures, Field Ventures, and Cameron Ventures also participating) | 2026-08-04 | Fintech / Vertical SaaS / Accounting / Agriculture / SMB | Private ($59M total raised; NY-based; 8,000 farms/businesses) [^ambrook-tc1][^ambrook-tc2][^ambrook-tc3] |
+| Retro (Lone Palm Labs) | Series A (led, $21M+; Dylan Field, Scribble Ventures, Box Group, Imaginary Ventures, Coalition, Conviction, Copper, Positive Sum participated) | 2026-08-28 | Consumer / Social / Photo-Sharing | Private (SEC Form D filing; $100M+ estimated valuation per PitchBook) [^retro-tc1][^retro-tc2] |
 
 *Note: This table represents approximately 40% of Thrive's ~199 known investments. Investment years use founding year as proxy where specific investment date is unknown, marked with "~YYYY" or "~YYYY (founded)". Thrive's strategy of accumulating positions through secondary/tender offers means some "growth" stage investments began as smaller positions in earlier rounds.*
 
@@ -410,6 +411,10 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^ambrook-tc2]: Ambrook Series B company announcement, August 4, 2026. Accessed August 2026. https://ambrook.com/series-b — Primary company blog post confirming the Series B round size, lead investor, and participants including Thrive Capital.
 
 [^ambrook-tc3]: Techmeme, "Ambrook, which offers accounting software, raised a $30M Series B led by Lachy Groom," August 4, 2026. Accessed August 2026. https://www.techmeme.com/260804/p26 — Third independent tech-press aggregator confirming Ambrook's $30M Series B on August 4, 2026 with Thrive Capital among the named participants.
+
+[^retro-tc1]: TechCrunch, "Friend-focused photo-sharing app Retro snags $21M," August 28, 2026. Accessed August 2026. https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/ — Primary tier-1 tech press confirming Retro (Lone Palm Labs) raised $21M+ Series A led by Thrive Capital with Dylan Field, Scribble Ventures, Box Group, Imaginary Ventures, Coalition, Conviction, Copper, and Positive Sum participating.
+
+[^retro-tc2]: Techmeme, "Filing: Lone Palm Labs, the startup behind friend-focused photo sharing app Retro, raised a $21M+ Series A from Thrive Capital and others," August 28, 2026. Accessed August 2026. https://www.techmeme.com/260828/p16 — Independent tech-press aggregator confirming SEC Form D filing dated August 19, 2026 disclosing Thrive Capital as Series A lead.
 
 [^60]: Maginative, "Physical Intelligence Raises $70M to Build AI-Powered Robots for Any Application," March 12, 2024. Accessed July 2026. https://www.maginative.com/article/physical-intelligence-raises-70m-to-build-ai-powered-robots-for-any-application/ — Primary contemporaneous confirmation of the March 12, 2024 seed round: $70M led by Thrive Capital with participation from Khosla Ventures, Lux Capital, OpenAI, and Sequoia Capital. Founded by Karol Hausman (CEO, ex-Google Brain), Sergey Levine (Chief Scientist, UC Berkeley), Chelsea Finn (Stanford), and Lachy Groom.
 

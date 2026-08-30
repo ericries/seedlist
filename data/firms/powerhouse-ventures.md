@@ -5,6 +5,7 @@ type: firm
 website: "https://powerhouse.fund/ventures"
 location: "Oakland, California"
 founded: 2018
+tldr: "Powerhouse Ventures is a climate-focused pre-seed and seed fund in Oakland founded in 2018 by Emily Kirsch, spun out of the Powerhouse incubator she co-founded with Danny Kennedy in 2013. It closed a $7M Fund I in 2019 and scaled to $70M in Fund II (2022), backed by TotalEnergies, Constellation, Toyota Ventures, and Microsoft's Climate Innovation Fund. The firm pairs venture with a corporate innovation consulting arm serving Google, Enel, and Schneider Electric, focused on clean energy, grid software, EV, and building decarbonization."
 fund_size: "$7M Fund I (2018); $70M Fund II (2022)"
 stage_focus:
   - pre-seed
@@ -115,11 +116,11 @@ Based on 42 verified investments across Funds I and II:
 | Granular Energy | Seed | 2020 | 24/7 clean energy credits | [^9] |
 | Terabase | Seed | 2019 | Utility-scale solar automation | [^14] |
 | AmpUp | Seed | 2019 | EV charging platform | [^9] |
-| Raptor Maps | Seed | 2019 | Solar asset management | [^17] [^20] |
+| Raptor Maps | Seed | 2019 | Solar asset management | [^17] [^17] |
 | Sust Global | Seed | 2019 | Climate risk data | [^9] |
-| Salient Predictions | Seed | 2022 | Weather forecasting ML | [^9] [^21] |
+| Salient Predictions | Seed | 2022 | Weather forecasting ML | [^9] [^20] |
 | Ensemble Energy | Seed | 2019 | Wind asset operations (acquired) | [^9] |
-| BattGenie | Seed | 2022 | Battery optimization | [^9] [^22] |
+| BattGenie | Seed | 2022 | Battery optimization | [^9] [^21] |
 | Leap | Seed | 2018 | Distributed energy exchange | [^9] |
 | Station A | Pre-Seed | 2018 | Clean energy marketplace | [^9] |
 | SHYFT Power Solutions | Pre-Seed | 2018 | Distributed energy management (acquired) | [^9] |
@@ -128,7 +129,7 @@ Based on 42 verified investments across Funds I and II:
 | SparkMeter | Seed | 2018 | Smart meters/microgrids (acquired) | [^9] |
 | Class 3 Technologies | Seed | 2021 | Climate resilience recommendations | [^9] |
 | The Adaptis | Seed | 2022 | Multifamily building design | [^9] |
-| Copia | Seed | 2023 | Goods donation/waste tracking | [^9] [^23] |
+| Copia | Seed | 2023 | Goods donation/waste tracking | [^9] [^22] |
 | Stealth (Critical Minerals) | Seed | 2024 | Critical minerals | [^9] |
 
 *Note: Years are based on verified funding round dates where available, or portfolio announcement timing. Eight companies are listed as acquired on the firm's portfolio page.*
@@ -178,7 +179,6 @@ No additional independently sourced founder testimonials found beyond the above.
 [^17]: Raptor Maps, "Press Release: Raptor Maps Raises Series A," August 2020, accessed April 2026. https://raptormaps.com/press/press-release-raptor-maps-raises-series-a
 [^18]: Powerhouse Ventures website, accessed April 2026. https://powerhouse-ventures.co/
 [^19]: TechCrunch, "Angling to be the Carfax for EV batteries, Recurrent raises $3.5 million," December 2020, accessed April 2026. https://techcrunch.com/2020/12/08/angling-to-be-the-carfax-for-ev-batteries-recurrent-raises-3-5-million/
-[^20]: Raptor Maps, "Press Release: Raptor Maps Raises Series A," August 2020, accessed April 2026. https://raptormaps.com/press/press-release-raptor-maps-raises-series-a
-[^21]: Salient Predictions, "Salient Predictions Closes $5.4M Seed Round," June 2022, accessed April 2026. https://www.salientpredictions.com/blog/salient-predictions-closes-5-4m-seed-round-to-power-long-range-weather-forecasts-and-analytics-2
-[^22]: GeekWire, "Climate tech startup funding: UW-spinoff BattGenie, Microsoft vet, and weeding robot raise fresh cash," April 2022, accessed April 2026. https://www.geekwire.com/2022/climate-tech-startup-funding-uw-spinoff-battgenie-and-microsoft-vet-raise-fresh-cash/
-[^23]: Crunchbase, "Copia - Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/copia-2
+[^20]: Salient Predictions, "Salient Predictions Closes $5.4M Seed Round," June 2022, accessed April 2026. https://www.salientpredictions.com/blog/salient-predictions-closes-5-4m-seed-round-to-power-long-range-weather-forecasts-and-analytics-2
+[^21]: GeekWire, "Climate tech startup funding: UW-spinoff BattGenie, Microsoft vet, and weeding robot raise fresh cash," April 2022, accessed April 2026. https://www.geekwire.com/2022/climate-tech-startup-funding-uw-spinoff-battgenie-and-microsoft-vet-raise-fresh-cash/
+[^22]: Crunchbase, "Copia - Company Profile & Funding," accessed April 2026. https://www.crunchbase.com/organization/copia-2

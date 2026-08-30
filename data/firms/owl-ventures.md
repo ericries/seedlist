@@ -5,6 +5,7 @@ type: firm
 website: "https://www.owlvc.com"
 location: "San Francisco, CA"
 founded: 2014
+tldr: "Owl Ventures is the world's largest venture firm focused exclusively on education technology, founded in 2014 by Tory Patterson, Tom Costin, Amit Patel, and Kate Chhabra. Based in San Francisco with offices in Boston and London, it manages over $2.2B AUM across seven funds (Fund V $640M in 2022; Opportunity Fund II $270M). Writing $5M-$50M checks from seed to pre-IPO, it invests across PreK-12, higher education, career mobility, and 'EdTech+' intersections with fintech and healthcare."
 fund_size: "$2.2B+ total AUM across seven funds; Fund I: $100M (2014); Fund II: $185M (2017); Fund III: $315M (2019); Fund IV: $415M (2020); Opportunity Fund I: $170M (2020); Fund V: $640M (2022); Opportunity Fund II: $270M (2022)"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [edtech, workforce-development, financial-literacy, ai-education]

@@ -5,6 +5,7 @@ type: firm
 website: "https://www.energyimpactpartners.com"
 location: "New York, NY"
 founded: 2015
+tldr: "Energy Impact Partners is a New York growth-stage climate and energy transition firm founded in 2015 by Hans Kobler, with over $4.5B AUM across multiple strategies including Flagship, Frontier (deep decarbonization), Europe, and the Elevate Future Fund. It invests Series A through late-stage in clean energy, electrification, grid software, and cybersecurity, with a distinctive utility-LP-anchored coalition that gives portfolio companies direct access to utility customers. Team includes Shayle Kann (Frontier), Sameer Reddy, Matthias Dill (Europe), and Anthony Oni."
 fund_size: "$4.5B+ AUM across multiple funds"
 stage_focus: [series-a, series-b, growth, late-stage]
 sector_focus: [climate-tech, energy, energy-transition, clean-energy, electrification, decarbonization, deep-decarbonization, cybersecurity, grid-software, cleantech]

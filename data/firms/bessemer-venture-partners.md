@@ -5,6 +5,7 @@ type: firm
 website: "https://www.bvp.com"
 location: "Redwood City, CA"
 founded: 1911
+tldr: "Bessemer Venture Partners is one of the oldest venture firms in the U.S., founded in 1911 as the investment office for Henry Phipps (Carnegie Steel co-founder) and based in Redwood City. It manages $9B+ across strategies including a $1B BVP Forge II (2025), an $825M Century II growth fund, and a $350M India Fund II. It invests seed through growth across AI, cloud, cybersecurity, fintech, healthcare, developer tools, and vertical software, with long-tenured partners David Cowan, Byron Deeter, Jeremy Levine, and Talia Goldberg."
 fund_size: "$9B+ under management; $1B BVP Forge II (2025); $825M Century II growth fund; $350M India Fund II (2025)"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [ai, cloud, cybersecurity, fintech, healthcare, developer-tools, vertical-software, deep-tech, consumer, marketplaces]
@@ -164,6 +165,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Act Security | Seed (co-led with Team8, $20M; Hetz Ventures and Caltech participated; Tel Aviv-based; founders ex-Medigate) | 2026-07-28 | Cybersecurity / AI / Cloud Security | [^act1][^act2] |
 | Sent | Series A ($12M; Companyon Ventures led; Urban Innovation Fund and CP Overture participated; NYC-based messaging infrastructure; also participated in $3.55M seed May 2025) | 2026-07-28 | Messaging / Telecom / Developer Tools / AI | [^sent1][^sent2][^sent3] |
 | Onyx Security | Series B (led, $113M at ~$640M valuation; Cyberstarts, TCV, Conviction, FirstMark, Vintage, QuantumLight, G Squared participated) | 2026-07-29 | Cybersecurity / AI Security / Enterprise Software | [^onyx1][^onyx2][^onyx3] |
+| Bevel | Seed ($6M; SHAKTI-led; Resolute Ventures + Bessemer participated) | 2026-08-28 | Insurtech / AI / Risk Management | [^bevel1][^bevel2] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -318,3 +320,7 @@ However, founder experiences are not universally positive. One founder reported 
 [^inrisk2]: DealStreetAsia, "India: Bessemer, Northpoint co-lead $27m funding in InRisk Labs," August 5, 2026. Accessed August 6, 2026. https://www.dealstreetasia.com/stories/bessemer-northpoint-inrisk-labs-491236 — Independent confirmation of Bessemer's InRisk Labs Series A co-lead.
 
 [^inrisk3]: BW Disrupt, "InRisk Labs Raises $27 Mn In Series A Co-led by Bessemer Venture Partners & Northpoint Capital," August 2026. Accessed August 6, 2026. https://www.bwdisrupt.com/article/inrisk-labs-raises-27-mn-in-series-a-co-led-by-bessemer-venture-partners-northpoint-capital-618085 — Third independent confirmation of the $27M Series A co-lead; per Entrackr coverage (source [^inrisk1]), Bessemer Partner Vishal Gupta noted the firm backed InRisk at seed stage and doubled down on the Series A; Northpoint Founder/CIO Sameer Brij Verma said EarthRe "combines a licensed balance sheet with an AI native risk platform and deep underwriting expertise."
+
+[^bevel1]: Bevel LinkedIn announcement, "$6M seed round," posted August 28, 2026. Accessed August 2026. https://www.linkedin.com/posts/beveladvisors_were-excited-to-announce-our-6m-seed-round-activity-7499088608046342144-WPWw/ — Primary company announcement of Bevel's $6M seed led by SHAKTI with Resolute Ventures and Bessemer Venture Partners participating.
+
+[^bevel2]: Bevel, "Seed Letter from CEO," posted August 28, 2026. Accessed August 2026. https://beveladvisors.com/seed-letter-from-ceo — Company primary confirming the $6M seed round, SHAKTI lead, and Resolute Ventures + Bessemer Venture Partners participation.

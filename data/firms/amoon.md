@@ -1,5 +1,6 @@
 ---
 founded: 2016
+tldr: "aMoon is Israel's largest healthcare-focused venture fund, based in Ra'anana and founded in 2016 by co-founder Yair Schindel. It manages $1.3B+ AUM across a $200M Fund I (2016), $660M aMoon Growth (2019), $60M+ aMoon Velocity (2020), and $340M+ aMoon Growth II (interim close 2024, targeting $750M). The firm invests seed through pre-IPO across digital health, biotech, medtech, diagnostics, precision medicine, and therapeutics, with recent activity including a Series A into Adcytherix in October 2025."
 fund_size: $1.3B+ AUM; $200M Fund I (2016); $660M Fund II / aMoon Growth (2019); $60M+
   aMoon Velocity (2020); $340M+ aMoon Growth II (interim close 2024, targeting $750M)
 last_researched: 2026-04-01

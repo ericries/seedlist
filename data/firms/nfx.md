@@ -104,6 +104,7 @@ Based on 300 verified investments from Crunchbase and NFX's portfolio page, the 
 | Pumpkinseed | Series A (co-led, $20M) | 2026-05-05 | Biotech / Proteomics | [^36][^37] |
 | Aligned | Series B (participated, $60M) | 2026-07-01 | SaaS/Sales Enablement | [^38] |
 | Starfish Space | Series A (participated as existing investor, $29M; Shield Capital lead) | 2024-11-13 | Aerospace / Satellite Servicing | Private [^39][^40][^41] |
+| Alice (formerly ActiveFence) | Growth (participated; Apax Digital led, $140M) | 2026-08-25 | AI Trust, Safety & Security | Active [^alice-nfx1][^alice-nfx2][^alice-nfx3] |
 
 *This table represents approximately 8% of 300 known investments. NFX was founded in 2015; investments dated before 2015 (DoorDash, Lyft, Patreon, HoneyBook, Similarweb, Trulia, Playtika) are personal angel investments by the GPs, later attributed to NFX's portfolio. NFX invests across both US and Israeli ecosystems [^9].*
 
@@ -172,3 +173,9 @@ No independently sourced founder testimonials with verbatim quotes found from th
 [^40]: Starfish Space press release, "Starfish Space Secures $29 Million in New Funding to Advance Otter Development," November 13, 2024. Accessed July 2026. https://www.starfishspace.com/press-release/starfish-space-secures-29-million-in-new-funding-to-advance-otter-development/ — Company's own announcement confirming NFX as an existing investor participating in the round.
 
 [^41]: Via Satellite, "Starfish Gets $29M in New Funding to Complete Development of Otter Spacecraft," November 14, 2024. Accessed July 2026. https://www.satellitetoday.com/finance/2024/11/14/starfish-gets-29m-in-new-funding-to-complete-development-of-otter-spacecraft/ — Independent industry press confirming NFX's participation.
+
+[^alice-nfx1]: Alice (formerly ActiveFence) company blog, "Alice Raises $140M for AI Trust, Safety, and Security," August 25, 2026. Accessed August 2026. https://alice.io/blog/alice-raises-140m — Primary company announcement confirming NFX among Growth-round participants; Apax Digital led.
+
+[^alice-nfx2]: Bloomberg, "AI Safety Startup Alice, Partner of Google, Anthropic, Raises $140 Million," August 25, 2026. Accessed August 2026. https://www.bloomberg.com/news/articles/2026-08-25/ai-safety-startup-alice-partner-of-google-anthropic-raises-140-million — Independent tier-1 press confirmation naming NFX as Growth-round participant.
+
+[^alice-nfx3]: SiliconANGLE, "Alice raises $140M as its AI security business grows more than 500%," August 25, 2026. Accessed August 2026. https://siliconangle.com/2026/08/25/alice-raises-140m-as-its-ai-security-business-grows-more-than-500/ — Third independent tech-press confirmation of NFX participation.
