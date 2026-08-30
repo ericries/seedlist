@@ -144,6 +144,16 @@ David Gandler, CEO of fuboTV, on Northzone's investment: Gandler stated that clo
 
 No additional independently sourced founder testimonials found beyond the above. Northzone's website features interviews with portfolio founders (including iZettle's Magnus Nilsson and Spring Health's April Koh) but these are firm-produced content rather than independent testimonials [^36][^37].
 
+## Connections
+
+- **General Partner, Northzone** (since 2004) — established Northzone's New York office in 2013 [^1][^3][^4]
+- **Co-founder, The Inner Foundation** (2021) — €100M/20-year commitment to startups and nonprofits focused on mental health and diversity, with wife Annika Sten Pärson [^7][^8]
+- **Prior: McKinsey & Company** (Europe and US, late 1980s) — served clients in telecom, technology, and consumer goods [^2][^5]
+- **Prior: Founder, Cell Ventures** — described as Europe's first internet-focused early-stage investment company and incubator; gave rise to PriceRunner [^2][^5]
+- **Board seats**: Spotify, fuboTV (appointed May 2020), iZettle, Avito, Jasper, Spring Health, Sourcepoint, Bloglovin, Widespace, and Bedrock Ocean [^1][^22][^23][^24]
+- **Chairman**: AirForestry and Qapital [^1][^18][^19]
+- **Frequent co-investors**: Creandum (Spotify), Index Ventures and Greylock (iZettle), Balderton Capital (SoundtrackYourBrand), Tiger Global (Spring Health Series B), Spark Capital and Foundry Group (Sourcepoint) [^15][^26][^27][^28]
+
 ## Sources
 
 [^1]: Northzone team page, "Pär-Jörgen Pärson," accessed March 2026. https://northzone.com/team/pj-parson/

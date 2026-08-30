@@ -30859,7 +30859,7 @@ queue:
 - name: Anshu Prasher
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: Whiteboard Capital
   discovered_from: sandeep-tandon
@@ -32627,7 +32627,7 @@ queue:
 - name: Chirag Shah
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: Define Ventures
   discovered_from: lynne-okeefe
@@ -32636,7 +32636,7 @@ queue:
 - name: Michael Wert
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: Define Ventures
   discovered_from: lynne-okeefe

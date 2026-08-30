@@ -1,5 +1,6 @@
 ---
 founded: 2012
+tldr: "Forerunner Ventures is a San Francisco consumer-focused firm founded by Kirsten Green in 2012, with nearly $3B AUM across seven flagship funds and one of the first women-led firms to surpass $2B. It writes $1-20M seed and Series A checks at the intersection of invention and culture, evolving from D2C brands toward AI-enabled consumer platforms. Notable investments include Dollar Shave Club, Warby Parker, Bonobos, Glossier, Hims & Hers, Chime, and Faire."
 fund_size: '$3B total AUM across 7+ funds (Fund VII: $500M, Fund VI: $1B across two
   vehicles)'
 last_researched: 2026-04-30

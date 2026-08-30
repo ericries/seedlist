@@ -1,5 +1,6 @@
 ---
 founded: 2006
+tldr: "Floodgate is a Menlo Park pre-seed and seed firm founded in 2006 by Mike Maples Jr. and Ann Miura-Ko, widely credited as pioneers of the micro-VC model with ~$500M AUM across seven funds. It hunts for 'Thunder Lizard' pattern-breaker founders before product-market fit, backing roughly 248 companies with 7 unicorns and 6 IPOs. Notable IPOs include Okta, Lyft, Chegg, BigCommerce, Bazaarvoice, and Clover Health."
 fund_size: $500M+ total AUM across 8 funds
 last_researched: 2026-03-13
 location: Menlo Park, CA

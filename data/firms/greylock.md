@@ -1,5 +1,6 @@
 ---
 founded: 1965
+tldr: "Greylock Partners is one of the oldest US venture firms, founded in 1965 in Massachusetts by William Elfers, Daniel Gregory, and Charles Waite and now headquartered in Menlo Park. It has raised 17 funds ($3.5B+ committed capital, $1B Fund XVII in 2023 plus a $500M seed vehicle) and positions itself as 'your first partner,' with 80%+ of investments as the first institutional check at pre-seed, seed, or Series A. Notable investments include Facebook, LinkedIn, Workday, and Figma."
 fund_size: $1B (Fund XVII, 2023); $500M (Seed Extension, 2021); $1B (Fund XVI, 2020);
   $1B (Fund XV, 2016)
 last_researched: 2026-05-06

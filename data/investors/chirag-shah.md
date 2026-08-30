@@ -10,7 +10,7 @@ sector_focus: [digital-health, healthcare, healthtech, employer-benefits, health
 check_size: "Rounds led/co-led with firm ranges of $750K-$6M+ (firm-level)"
 social:
   linkedin: "linkedin.com/in/chiragdefine"
-status: draft
+status: published
 last_researched: 2026-08-30
 ---
 
@@ -51,9 +51,9 @@ Because Define Ventures does not publicly attribute individual investments to sp
 | Hims & Hers (HIMS) | ~2018 (founding proxy) | Growth via Fund | [^2][^5] |
 | Unite Us | ~2013 (founding proxy) | Growth via Fund | [^2] |
 | Cohere Health | ~2019 (founding proxy) | Growth via Fund | [^2] |
-| FOLX Health | ~2020 (founding proxy) | Incubated | [^2][^8] |
-| Waltz Health | 2022 | $35M announced round | [^9] |
-| Blackbird Health | 2024 | $17M round | [^10] |
+| FOLX Health | ~2020 (founding proxy) | Incubated | [^2] |
+| Waltz Health | 2022 | $35M announced round | [^8] |
+| Blackbird Health | 2024 | $17M round | [^9] |
 
 This table is limited to companies Define Ventures publicly claims on its firm materials [^2]. It represents a partial view of the ~21 companies the firm's Managing Partner has publicly discussed [^7], and it is not attributed to Shah individually.
 
@@ -76,6 +76,5 @@ No independently sourced founder testimonials specifically attributable to Chira
 [^5]: Business Insider, "The Founder of a Healthcare Venture Fund that Just Raised $200 Million Shares Why She Wants to Back Founders That Are Building Businesses for Their Communities," January 14, 2021. https://www.businessinsider.com/exclusive-define-ventures-just-raised-200-million-for-second-fund-2021-1
 [^6]: Define Ventures, "News" page listing (portfolio press coverage). Accessed August 2026. https://www.definevc.com/news
 [^7]: Seedlist, "Lynne Chou O'Keefe" profile (internal cross-reference synthesizing Define Ventures' publicly claimed portfolio and behavior).
-[^8]: TechCrunch, "FOLX powers LGBTQ+ telehealth support groups with $30M round," October 12, 2022. https://techcrunch.com/2022/10/12/folx-powers-lgbtq-telehealth-support-groups-with-30m-round/
-[^9]: Katie Jennings, "With $35 Million In Funding, Waltz Health Aims To Lower Drug Prices Working With – Not Against – The System," Forbes, April 27, 2022. https://www.forbes.com/sites/katiejennings/2022/04/26/with-35-million-in-funding-waltz-health-aims-to-lower-drug-prices-working-with--not-against--the-system/
-[^10]: Seth Joseph, "Blackbird Health Nests A Fresh $17 Million To Become The Gold Standard In Precision Mental Healthcare," Forbes, February 21, 2024. https://www.forbes.com/sites/sethjoseph/2024/02/21/blackbird-health-nests-a-fresh-17-million-to-become-the-gold-standard-in-precision-mental-healthcare/
+[^8]: Katie Jennings, "With $35 Million In Funding, Waltz Health Aims To Lower Drug Prices Working With – Not Against – The System," Forbes, April 27, 2022. https://www.forbes.com/sites/katiejennings/2022/04/26/with-35-million-in-funding-waltz-health-aims-to-lower-drug-prices-working-with--not-against--the-system/
+[^9]: Seth Joseph, "Blackbird Health Nests A Fresh $17 Million To Become The Gold Standard In Precision Mental Healthcare," Forbes, February 21, 2024. https://www.forbes.com/sites/sethjoseph/2024/02/21/blackbird-health-nests-a-fresh-17-million-to-become-the-gold-standard-in-precision-mental-healthcare/

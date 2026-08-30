@@ -1,5 +1,6 @@
 ---
 founded: 2013
+tldr: "FJ Labs is a New York marketplace-focused firm co-founded in 2013 by serial entrepreneurs Fabrice Grinda (OLX founder) and Jose Marin (DeRemate founder), practicing 'angel investing at venture scale' with 1,192 investments and 355 exits over 25 years. It writes ~$400K checks at pre-seed through Series B without leading rounds or taking board seats, closing deals within 1-2 weeks. Roughly 70% of the portfolio is marketplace businesses across consumer, B2B, fintech, and mobility."
 fund_size: $50M (Fund I, 2016); $175M (Fund II, 2018); $260M across two vehicles (2023);
   ~$692M total deployed over 25 years
 last_researched: 2026-05-03

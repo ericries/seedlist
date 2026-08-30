@@ -1,5 +1,6 @@
 ---
 founded: 2013
+tldr: "Heavybit is a San Francisco pre-seed and seed firm founded in 2013 by Heroku co-founder James Lindenbaum, focused exclusively on developer-first and enterprise infrastructure startups. It has backed 80+ companies (with LPs from Datadog, Fastly, GitHub, and Sumo Logic) and raised $180M+ across Fund V and Opportunity Fund II in 2025, writing $500K-$5M checks and running a 9-month go-to-market program. Notable investments include CircleCI, LaunchDarkly, Snyk, Netlify, Tailscale, Replicate, and PagerDuty."
 fund_size: $180M+ (Fund V + Opportunity Fund II, 2025)
 last_researched: 2026-03-19
 location: San Francisco, CA

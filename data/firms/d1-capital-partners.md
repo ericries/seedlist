@@ -1,5 +1,6 @@
 ---
 founded: 2018
+tldr: "D1 Capital Partners is a New York crossover firm founded in 2018 by Daniel Sundheim (former Viking Global CIO), managing ~$24.5B AUM split roughly 60% private and 40% public equities. It makes late-stage, non-control minority investments in growth companies across enterprise SaaS, AI, fintech, consumer, and industrials, holding for 3-5 years. Notable private positions include SpaceX, Anthropic, OpenAI, Ramp, Airtable, and Instacart."
 fund_size: $24.5B AUM (October 2025); ~60% private, ~40% public
 last_researched: 2026-06-03
 location: New York, NY

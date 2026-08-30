@@ -1,5 +1,6 @@
 ---
 founded: 2012
+tldr: "Greenoaks Capital is a San Francisco global growth-stage firm founded in 2012 by former D.E. Shaw investors Neil Mehta and Benny Peretz, managing ~$15B across six funds. It runs a concentrated portfolio backing generation-defining companies across SaaS, e-commerce, fintech, AI, and infrastructure, holding through IPO. Its most famous bet is Coupang — approximately 40% of the $50M first fund, ultimately returning ~$8B."
 fund_size: ~$15B AUM across six funds
 last_researched: 2026-04-01
 location: San Francisco, CA

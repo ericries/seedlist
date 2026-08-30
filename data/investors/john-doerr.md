@@ -170,6 +170,23 @@ Will Anderson, CEO of Complete Solaria, on Doerr's 2023 investment (press releas
 
 No independently sourced founder testimonials about working directly with John Doerr as a board member were found beyond the above. Kleiner Perkins' website notes Doerr has "backed entrepreneurs" including Page, Brin, Bezos, and Scott Cook and Bill Campbell of Intuit, but does not include founder testimonials as of the research date [^3].
 
+## Connections
+
+- **General Partner, Kleiner Perkins Caufield & Byers** (1980-2016) → **Chairman** (2016-present) [^1][^3][^4]
+- **Board member, Alphabet/Google** since 1999 [^1][^8]
+- **Board member, DoorDash** since March 2015 [^9]
+- **Former board seats**: Amazon (until 2010), Coursera, Zynga, QuantumScape (until 2022), Bloom Energy [^9][^10][^11]
+- **Kleiner Perkins colleague, Vinod Khosla** — Doerr publicly credited Khosla with having "made Kleiner $10 billion in profits" from fiber-optic and internet investments during the 1990s [^4]
+- **President Obama's Economic Recovery Advisory Board** (appointed February 2009) [^1][^8]
+- **Prior: Intel Corporation** (from 1974) — engineering, marketing, and management roles, becoming a top-ranked sales executive; introduced to OKRs by CEO Andy Grove in 1975 [^1][^2]
+- **$1.1B founding gift, Stanford Doerr School of Sustainability** (2022, with wife Ann Doerr) [^7]
+- **Co-invested with Michael Moritz / Sequoia Capital** on Google (1999, $12.5M each) and Watershed (~2021), Kleiner's first joint co-lead with Sequoia since Google [^17][^18]
+- **Co-invested with New Enterprise Associates** on Coursera Series A (2012) [^10]
+- **Co-invested with Threshold Ventures and Homebrew** on Tia Series A (2020) [^24]
+- **Co-invested with Google/CapitalG** on Hippocratic AI Series C (2025) [^28]
+- **Terradot Series A co-investors** (2024, Doerr led): Kleiner Perkins, Microsoft's Climate Innovation Fund, Google, Cisco, Floodgate, Acre Venture Partners, Gigascale Capital, Valor Capital, Ponderosa Ventures, plus Sheryl Sandberg, Tom Bernthal, and George Roberts [^31]
+- **Antora Energy Series C co-investors** (2026): G2 Venture Partners and Eclipse (co-leads), plus Ribbit Capital, Salesforce Ventures, Activate Capital, Westly Group, StepStone Group, and Liberty Mutual Strategic Ventures [^jd-antora-c1][^jd-antora-c2]
+
 ## Sources
 
 [^1]: Wikipedia, "John Doerr," accessed March 2026. https://en.wikipedia.org/wiki/John_Doerr

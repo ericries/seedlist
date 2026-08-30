@@ -5,6 +5,7 @@ type: firm
 website: "https://www.btv.vc"
 location: "San Francisco, CA"
 founded: 2019
+tldr: "Better Tomorrow Ventures is a San Francisco fintech-specialist firm founded in 2019 by former NerdWallet co-founder Jake Gibson and repeat fintech founder Sheel Mohnot. It leads pre-seed and seed rounds ($500K-$4M checks) at the intersection of finance and software, with roughly $450M AUM across three funds. Notable investments include Unit, Coast, Relay, and Basis, with concentration in accounting automation, embedded finance, and payments infrastructure."
 fund_size: "$75M (BTV I, 2019); $225M (BTV II, 2022); $140M (BTV III, 2025)"
 stage_focus: [pre-seed, seed]
 sector_focus: [fintech, embedded-finance, payments, banking, insurance, lending, infrastructure]

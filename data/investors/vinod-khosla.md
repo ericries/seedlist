@@ -255,6 +255,20 @@ The following table covers notable Khosla Ventures investments where Vinod Khosl
 
 *Note: All founder quotes above are sourced from Khosla Ventures' own website and are the firm's selected testimonials — a biased source. No independently sourced founder testimonials were located despite dedicated searches. The firm's #1 ranking in the 2023 Founder's Choice VC survey [^24] provides independent validation of founder satisfaction at the firm level, but individual independent quotes specific to Vinod Khosla personally were not found.*
 
+## Connections
+
+- **Co-founder, Sun Microsystems** (1982) — with Stanford classmates Andy Bechtolsheim and Scott McNealy, and UC Berkeley's Bill Joy; served as founding CEO 1982-1984 [^1][^3]
+- **Co-founder, Daisy Systems** — first major computer-aided design system for electrical engineers (achieved an IPO) [^1][^3]
+- **General Partner, Kleiner Perkins Caufield & Byers** (1986-2004) — 18 years managing technology investments, overlapping with John Doerr [^1][^3][^4]
+- **Board member, Breakthrough Energy Ventures** [^1][^2]
+- **Charter member, The Indus Entrepreneurs (TiE)** [^1][^2]
+- **Founding board member, Indian School of Business** [^1][^2]
+- **Co-founder, Amar Foundation** (with wife Neeru Khosla) — supports CK-12 Foundation and IIT Delhi [^6]
+- **Frequent Khosla Ventures co-investors** across Seedlist-profiled portfolio companies (OpenAI, DoorDash, Instacart, Square, Okta, Stripe): Sequoia Capital (4 overlaps), SV Angel (4 overlaps), Andreessen Horowitz (3 overlaps), Kleiner Perkins (3 overlaps) [^12]
+- **Co-invested with Reid Hoffman's charitable organization** in OpenAI LP (2019), the inaugural outside investors in the capped-profit entity [^25][^26]
+- **Physical Intelligence co-investors** (2024 seed): Thrive Capital (lead), Lux Capital, OpenAI, Sequoia Capital [^32][^33]
+- **Oratomic Series A co-leads** (2026): ARCH Venture Partners and Spark Capital, with participation from Bezos Expeditions, Index Ventures, General Catalyst, Lowercarbon Capital, and Bain Capital [^34][^35][^36][^37]
+
 ## Sources
 
 [^1]: "Vinod Khosla." Khosla Ventures team page. https://www.khoslaventures.com/team/vinod-khosla. Accessed March 2026.

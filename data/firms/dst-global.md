@@ -5,6 +5,7 @@ type: firm
 website: "https://dst-global.com"
 location: "Menlo Park, CA (HQ); New York; London; Hong Kong"
 founded: 2009
+tldr: "DST Global is a global late-stage internet investment firm founded in 2009 by Yuri Milner (spun out of Russia's Digital Sky Technologies), with offices in Menlo Park, New York, London, and Hong Kong and roughly $50B estimated AUM across 10+ funds. It takes 'growth risk, not venture risk,' waiting for category leaders and typically requesting no board seats. Notable investments include Facebook, Airbnb, Spotify, ByteDance, Alibaba, Stripe, Nubank, and Safe Superintelligence."
 fund_size: "~$50B estimated AUM; Fund I (~$1B, 2010), Fund II ($1B, 2011), Fund IV ($2.2B, 2014), Fund V ($1.7B+, 2015)"
 stage_focus: [late-stage, growth]
 sector_focus: [consumer-internet, fintech, enterprise, ai, marketplace, social]

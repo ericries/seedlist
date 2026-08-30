@@ -5,6 +5,7 @@ type: firm
 website: "https://goat.vc"
 location: "San Francisco, CA"
 founded: 2020
+tldr: "Goat Capital is a San Francisco pre-seed and seed firm founded in 2020 by Justin Kan (Twitch co-founder, former Y Combinator partner) and Robin Chan (XPD Media founder, early Twitter/Square/Xiaomi angel), operating as a hybrid incubator with $25M of a $40M target Fund I. It writes $500K-$3M checks globally across fintech, gaming, digital health, e-commerce, climate, and robotics. Notable investments include Xendit, Kodo, Dashworks, Cerrion, and Holy Grail."
 fund_size: "$25M closed of $40M target (Fund I)"
 stage_focus:
   - seed

@@ -1,5 +1,6 @@
 ---
 founded: 2006
+tldr: "Breyer Capital is an Austin, TX family-run global venture and private equity firm founded in 2006 by Jim Breyer, the former Accel Managing Partner who led Facebook's 2005 Series A. It makes seed-through-growth investments of $10-50M across seven sectors (AI, healthcare, fintech, consumer, enterprise, media/gaming, defense, climate) with a stated 'AI everywhere' conviction. Notable investments include Facebook, Circle, C3.ai, Etsy, Spotify, and Xaira Therapeutics."
 fund_size: Not publicly disclosed
 last_researched: 2026-03-24
 location: Austin, TX

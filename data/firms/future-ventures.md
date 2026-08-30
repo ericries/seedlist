@@ -5,6 +5,7 @@ type: firm
 website: "https://future.ventures"
 location: "Los Altos, CA"
 founded: 2018
+tldr: "Future Ventures is a Los Altos deep-tech firm co-founded in 2018 by former DFJ partners Steve Jurvetson and Maryanna Saenko, with four $200M funds and SPVs totaling ~$925M AUM. It writes $3-6M seed and Series A checks with unusual 15-year fund terms for patient capital across space, nuclear fusion, biotech, food tech, quantum computing, and AI. Notable investments include SpaceX, Tesla, Planet Labs, Commonwealth Fusion Systems, Upside Foods, and MosaicML."
 fund_size: "$800M+ (four $200M funds plus SPVs totaling ~$925M AUM as of 2023)"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [deep-tech, space, nuclear-fusion, sustainable-transportation, food-tech, quantum-computing, robotics, ai, synthetic-biology, climate, biotech, agtech]

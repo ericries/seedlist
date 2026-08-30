@@ -1,6 +1,7 @@
 ---
 check_size: $1M-$10M
 founded: 2012
+tldr: "AME Cloud Ventures is a Palo Alto firm founded in 2012 by Yahoo! co-founder Jerry Yang, funded entirely from his personal capital (reported ~$500M) rather than LPs. It backs seed-through-growth companies building around data infrastructure, with heavy weighting toward deep tech, biotech, and space. Notable investments include Zoom, Planet Labs, Rigetti Computing, Recursion Pharmaceuticals, and Nervana Systems."
 fund_size: Personal capital (undisclosed; reported ~$500M)
 last_researched: 2026-03-25
 location: Palo Alto, CA

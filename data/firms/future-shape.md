@@ -5,6 +5,7 @@ type: firm
 website: "https://www.buildc.com"
 location: "Paris, France"
 founded: 2016
+tldr: "Future Shape (now Build Collective) is a Paris-based investment and advisory firm founded in 2016 by Tony Fadell (iPod co-creator, iPhone co-inventor, Nest founder), operating on personal capital with no outside LPs. It writes $250K-$25M checks across seed to Series B into deep-tech companies aligned with electrification, biomanufacturing, and waste reduction. The portfolio spans 200+ companies with heavy climate-tech and European weighting, including Nothing, Ledger, Impossible Foods, Turntide, and Prenuvo."
 fund_size: "Undisclosed (no outside LPs; personal capital)"
 stage_focus:
   - seed

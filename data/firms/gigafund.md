@@ -5,6 +5,7 @@ type: firm
 website: "https://www.gigafund.com"
 location: "Austin, TX"
 founded: 2017
+tldr: "Gigafund is an Austin, TX firm founded in 2017 by PayPal and Founders Fund alumni Luke Nosek and Stephen Oskoui, initially created to back SpaceX and now managing $800M+ across three funds. It makes long-horizon concentrated investments (20-year outlook) in a handful of capital-intensive, physical-world companies. Heavy Elon Musk-venture concentration includes SpaceX (over $1B invested), Neuralink, The Boring Company, and xAI, alongside Last Energy, BloomTech, and Sana Benefits."
 fund_size: "$478M (Gigafund 0.14, 2021); $231M (Gigafund 0.8, 2020); $100M (Gigafund 0, 2017)"
 stage_focus: [seed, series-a, series-b]
 sector_focus: [space, neurotech, nuclear-energy, deeptech, ai, biotech, insurtech, manufacturing, housing, media, forensics, longevity]

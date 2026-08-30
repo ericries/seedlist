@@ -5,6 +5,7 @@ type: firm
 website: "https://www.privateequityinternational.com/institution-profiles/gpx.html"
 location: "San Francisco, CA"
 founded: 2025
+tldr: "GPx is a San Francisco firm co-founded in 2025 by Brian Singerman (17-year Founders Fund GP behind Stemcentrx, Affirm, Anduril) and Lee Linden (Quiet Capital, Karma/Facebook), with a ~$500M debut Fund I reportedly backed up to 50% by Peter Thiel. Roughly 20% of capital goes to emerging pre-seed and seed managers and 80% co-leads later-stage (Series B) rounds in their breakout companies. No direct portfolio investments have been publicly disclosed."
 fund_size: "$500M (Fund I, 2025)"
 stage_focus: [series-b, growth]
 sector_focus: [venture-capital, fund-of-funds, emerging-managers]

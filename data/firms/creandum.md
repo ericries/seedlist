@@ -1,5 +1,6 @@
 ---
 founded: 2003
+tldr: "Creandum is a European early-stage firm founded in Stockholm in 2003 by Staffan Helgesson, with offices in Berlin, London, and San Francisco and ~€1.6B raised across seven funds (~$2.2B AUM). It leads seed and Series A rounds across SaaS, fintech, AI, consumer, healthcare, and climate, backing 170+ companies with roughly 24 unicorns. Notable exits include Spotify, iZettle, Depop, and Small Giant Games."
 fund_size: €500M (Fund VII, 2024); ~€1.6B total raised across seven funds
 last_researched: 2026-03-24
 location: Stockholm, Sweden

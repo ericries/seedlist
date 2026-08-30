@@ -1,5 +1,6 @@
 ---
 founded: 2012
+tldr: "Garage Capital is a Kitchener-Waterloo, Ontario pre-seed and seed firm founded in 2012 by University of Waterloo engineers and repeat founders Michael Litt (Vidyard), Devon Galloway (Vidyard), and Mike McCauley (BufferBox). Now on Fund V, it has backed 200+ companies (heavily YC-affiliated, Canada-focused) split between 'business software and moonshots.' Notable investments include Groq, Substack, Astranis, Kepler Communications, Gecko Robotics, and DarwinAI (acquired by Apple)."
 fund_size: Fund V (current); received $50M from federal VCCI program
 last_researched: 2026-03-23
 location: Kitchener-Waterloo, Ontario, Canada

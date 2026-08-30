@@ -10,7 +10,7 @@ sector_focus: [consumer-brands, direct-to-consumer, fintech, healthcare, ecommer
 check_size: "Early-stage ideation, pre-seed, and seed (firm-level)"
 social:
   linkedin: "linkedin.com/in/anshuprasher"
-status: draft
+status: published
 last_researched: 2026-08-30
 ---
 

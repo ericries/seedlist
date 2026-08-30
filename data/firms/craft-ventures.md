@@ -1,5 +1,6 @@
 ---
 founded: 2017
+tldr: "Craft Ventures is a San Francisco firm founded in 2017 by David Sacks (former PayPal COO, Yammer CEO) and Bill Lee, with roughly $3.3B AUM across multiple funds and offices in Austin and NYC. It invests seed through growth predominantly in B2B enterprise SaaS, security, fintech, AI, and developer tools (with selective consumer bets). Notable investments include Affirm, Airbnb, ClickUp, Vanta, Replit, Anduril, and Neuralink."
 fund_size: $3.3B total AUM (as of 2023)
 last_researched: 2026-03-20
 location: San Francisco, CA

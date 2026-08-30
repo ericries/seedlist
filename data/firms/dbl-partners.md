@@ -5,6 +5,7 @@ type: firm
 website: "https://www.dbl.vc"
 location: "San Francisco, CA"
 founded: 2004
+tldr: "DBL Partners is a San Francisco 'double bottom line' impact firm founded in 2004 (originally as JPMorgan's Bay Area Equity Fund), managing over $1.5B across four funds. Co-founders Nancy Pfund and Ira Ehrenpreis lead Series A and B investments in clean energy, agtech, space, transportation, healthcare, and sustainability, with 43% of Fund IV capital in women-led companies. Notable investments include Tesla, SpaceX, SolarCity, Pandora, Planet Labs, and The RealReal."
 fund_size: "$600M (Fund IV, 2021)"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [climate-tech, clean-energy, sustainability, agtech, space-tech, electric-vehicles, healthcare, impact-investing]

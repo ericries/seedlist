@@ -1,5 +1,6 @@
 ---
 founded: 2016
+tldr: "Breakthrough Energy Ventures is a Kirkland, WA climate-focused firm founded by Bill Gates in 2016, backed by a coalition including Bezos, Doerr, Khosla, Branson, and Zuckerberg, with $3.5B+ across four funds. It invests seed through growth in scientifically-sound technologies capable of reducing global emissions by 500M+ metric tons annually, organized around five 'Grand Challenges' (electricity, manufacturing, transportation, agriculture, buildings) with a 20-year horizon roughly double typical VC timelines."
 fund_size: $3.5B+ total committed capital; BEV I $1B (2016); BEV II ~$1B (2021); BEV
   III $839M (2023); Select Fund $555M
 last_researched: 2026-03-24

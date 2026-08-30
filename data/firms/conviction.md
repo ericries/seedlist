@@ -1,5 +1,6 @@
 ---
 founded: 2022
+tldr: "Conviction is a San Francisco AI-focused venture firm founded in 2022 by Sarah Guo (former Greylock GP), with $331M across two funds and general partner Mike Vernal (former Sequoia/Facebook). It writes $1-25M seed and Series A checks into AI-native 'Software 3.0' companies, often as first institutional investor. Notable investments include Harvey, Mistral, Sierra, Baseten, and Cognition; 5 unicorns from ~32 investments."
 fund_size: $331M total across 2 funds
 last_researched: 2026-03-20
 location: San Francisco, CA

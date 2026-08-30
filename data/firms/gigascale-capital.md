@@ -5,6 +5,7 @@ type: firm
 website: "https://www.gigascale.vc/"
 location: "Menlo Park, California"
 founded: 2023
+tldr: "Gigascale Capital is a Menlo Park climate-tech firm founded in 2023 by former Meta CTO Mike Schroepfer, which closed a $250M Fund I in June 2026 with GP Victoria Beasley. It makes seed and Series A investments in companies 'rebuilding the physical economy' — clean energy, grid infrastructure, critical minerals, and industrial supply chains — that win on cost and performance first. Portfolio of 25+ companies includes Commonwealth Fusion Systems, Xcimer, Radiant Nuclear, Heron Power, Form Energy, and Arbor Energy."
 fund_size: "$250M"
 stage_focus: [seed, series-a, early-stage]
 sector_focus: [climate-tech, energy, grid-infrastructure, critical-minerals, industrial, deeptech, fusion, nuclear, supply-chain]

@@ -1,5 +1,6 @@
 ---
 founded: 2019
+tldr: "BOND is a San Francisco growth-stage tech firm founded in 2018-2019 as a spinout of the Kleiner Perkins Digital Growth Fund by Mary Meeker, with roughly $5.75B across three funds. Its seven-GP partnership makes Series C-D checks (up to $25M) into category-defining SaaS, fintech, AI, and consumer companies. Notable investments include Canva, Plaid, Block, Applied Intuition, Ironclad, and ElevenLabs."
 fund_size: $5.75B total across three funds
 last_researched: 2026-06-07
 location: San Francisco, CA

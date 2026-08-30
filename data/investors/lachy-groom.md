@@ -132,6 +132,15 @@ Benjamin Encz, CEO of Ashby, stated that the company chose Groom to lead their $
 
 Sam Altman, CEO of OpenAI, posted on X: "lachy is one of four people i ask for career advice; this is a good offer." — Sam Altman, X post, May 2019 [^28].
 
+## Connections
+
+- **Co-founder & CEO, Physical Intelligence** — alongside Karol Hausman, Chelsea Finn, Adnan Esmail, Brian Ichter, Sergey Levine, and Quan Vuong [^2][^10]
+- **Employee #30 at Stripe** (2012-2018) — spent roughly six years across growth, global BD, and operations; led expansion into Singapore, Hong Kong, and New Zealand, then ran Stripe Issuing and partnerships with Visa, Mastercard, and American Express [^1][^4][^5]
+- **Career-advice relationship with Sam Altman** — Altman posted publicly that Groom is "one of four people i ask for career advice" [^28]
+- **Co-invested with Sam Altman** on Meter's $35M round [^33]
+- **Physical Intelligence co-investors**: Thrive Capital, Lux Capital, CapitalG, Khosla Ventures, Sequoia Capital, and Jeff Bezos [^1][^10]
+- **Ambrook Series B co-investors**: Thomson Reuters Ventures, Thrive Capital, Field Ventures, and Cameron Ventures (Groom led the $30M round) [^ambrook-lg1][^ambrook-lg2]
+
 ## Sources
 
 [^1]: TechFlow, "Forget the 'Altman's predecessor' label — how crazy is Lachy Groom's cheat-code life," accessed March 2026. https://www.techflowpost.com/en-US/article/29306

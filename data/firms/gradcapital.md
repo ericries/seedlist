@@ -5,6 +5,7 @@ type: firm
 website: "https://www.gradcapital.in"
 location: "Bengaluru, India"
 founded: 2021
+tldr: "gradCapital is a Bengaluru pre-seed firm founded in 2021 by IIM Ahmedabad graduate Abhishek Sethi and BITS Pilani graduate Prateek Behera to exclusively back college-student founders in India. Roughly $7M across two funds writes $25K-$200K checks (with a $5K Atomic Fellowship grant program) into a sector-agnostic portfolio spanning consumer, deeptech, edtech, and mobility. First unicorn: Zepto (fka KiranaKart), one of ~34 portfolio companies."
 fund_size: "$1M (Fund I, 2021); $6M (Fund II, 2023); ~$7M total raised"
 stage_focus: [pre-seed]
 sector_focus: [sector-agnostic]

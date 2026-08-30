@@ -186,6 +186,21 @@ The Hanabi Capital website describes Volpi as "a thoughtful sounding board and a
 
 *Note: No additional independently sourced founder testimonials were found beyond firm-website quotes. Dedicated searches for founder reviews on Twitter/X, podcasts, and press coverage yielded no further results. The Starburst CEO quote above is from a press release, which represents a somewhat controlled context.*
 
+## Connections
+
+- **Chief Strategy Officer & SVP/GM, Cisco Systems** (1994-2007) — ran corporate strategy, business development, and a $10B+ P&L for the routing and service provider business; oversaw acquisition of 70+ companies [^1][^3][^4][^5]
+- **CEO, Joost** (2007-2009) — internet TV startup founded by Skype creators Niklas Zennstrom and Janus Friis [^3][^6]
+- **Entrepreneur in Residence, Sequoia Capital** (briefly, 2007) [^3]
+- **Co-founded Index Ventures' San Francisco office and North American operations** (2009) — alongside Danny Rimer [^1]
+- **Co-founder, Hanabi Capital** (2025) — with former Index colleagues Bryan Offutt and Ishani Thakur [^2][^7]
+- **Non-executive director, Ferrari** [^4][^8]
+- **Senior Advisor, Jasper Ridge Partners** [^4][^8]
+- **Global Advisory Board, Stanford Knight-Hennessy Scholars** [^4]
+- **Board member, Sonos** (from 2010) [^11]
+- **Board member, Hortonworks** (November 2011 – January 2019) [^12]
+- **Aurora Innovation co-lead**: Greylock (also on Aurora board) [^19]
+- **Wealthfront Series B co-investors** (2013, Volpi led at Index): Greylock/Reid Hoffman, Social+Capital/Chamath Palihapitiya, DAG Ventures/John Cadeddu, and angels including Adam D'Angelo, Matt Mullenweg, Andy Dunn, Michael Schroepfer, Hunter Walk, Cipora Herman, and Satya Patel [^22][^38][^39]
+
 ## Sources
 
 [^1]: Index Ventures, "Mike Volpi," team profile, accessed March 2026. https://www.indexventures.com/team/mike-volpi/

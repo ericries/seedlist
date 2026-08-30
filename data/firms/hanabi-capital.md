@@ -5,6 +5,7 @@ type: firm
 website: "https://www.hanabi.com"
 location: "Palo Alto, CA"
 founded: 2024
+tldr: "Hanabi Capital is a Palo Alto early-stage firm founded in 2024 by former Index Ventures partners Mike Volpi, Bryan Offutt, and Ishani Thakur, investing Volpi's personal capital plus friends-and-family money rather than institutional LPs. It writes $100K-$2M checks (sweet spot ~$1M) at seed through Series C in AI, software infrastructure, developer tools, and open source. The ~20-company portfolio includes Cerebras, Cognition, Cursor, ClickHouse, LiveKit, and Cartesia."
 fund_size: "Undisclosed (Fund I filed with SEC, January 2025)"
 stage_focus: [seed, series-a]
 sector_focus: [ai, infrastructure, developer-tools]

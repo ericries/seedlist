@@ -5,6 +5,7 @@ type: firm
 website: "https://www.cedarcap.com"
 location: "United States"
 founded: 2023
+tldr: "Cedar Capital Group is a US-based technology firm founded in 2023 by John Curtius, former Tiger Global software-investing partner who reportedly generated ~$4.5B in profits there. It targets $1B for a Series A-C fund focused on enterprise software, B2B SaaS, fintech, infrastructure, and AI in the US and Europe (explicitly no crypto). Cedar-era portfolio is thin publicly; one confirmed deal is Pallet's 2024 Series A."
 fund_size: "$1B target"
 stage_focus: [series-a, series-b, series-c]
 sector_focus: [enterprise, saas, fintech, ai, infrastructure]
