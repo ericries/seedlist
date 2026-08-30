@@ -123,7 +123,7 @@ Based on 42 verified portfolio companies from Contrary's public portfolio page a
 | Sora Schools | Seed | ~2021 | Edtech | Active ($31M total funding) [^1] |
 | Tava Health | Seed | ~2021 | Healthcare | Active (Series B, $33M total funding) [^1] |
 | Teamshares | Seed | ~2020 | Fintech/SMB | Pending IPO (SPAC merger with Live Oak V; Nasdaq: TMS) [^1] |
-| Uprise | Seed | 2024 | Fintech | Active [^17] |
+| Uprise | Seed (USD 3.3M; Blank Ventures-led (Hannah Chelkowski, Abhi Tiwari); participants: Pathlight Ventures, TruStage Ventures, Dash Fund, Contrary, Phenomenal Ventures, Hustle Fund, Graham & Walker; SF-based embedded financial advisory for SMBs; embeds into Rippling and Carry) | 2024-10-21 | Fintech | Active [^17][^upr-c1][^upr-c2][^upr-c3] |
 | Valar Atomics | Seed | ~2023 | Nuclear energy | Active ($450M+ raised, $2B valuation) [^1] |
 | Vesto | Seed | ~2021 | Fintech | Active [^1] |
 | Vise | Pre-seed | ~2018 | Fintech/AI | Active (pivoted 2023) [^6] |
@@ -206,3 +206,9 @@ Zepto CEO Aadit Palicha described receiving Contrary's first investment: "They s
 [^voltra-c2]: FinSMEs, "Voltra Raises $1.8M in Pre-Seed Funding," May 2025. Accessed August 2026. https://www.finsmes.com/2025/05/voltra-raises-1-8m-in-pre-seed-funding.html — Trade press primary confirmation of the same pre-seed round; identical investor list.
 
 [^voltra-c3]: Velocity Incubator (University of Waterloo), "Voltra announces $1.8M pre-seed to rewire the North American electrical grid," May 2025. Accessed August 2026. https://www.velocityincubator.com/news/voltra-announces-1-8m-pre-seed-to-rewire-the-north-american-electrical-grid — Institutional primary source (Voltra founders emerged from Velocity/UWaterloo). Confirms USD 1.8M pre-seed led by Contrary with Hanover Capital and Velocity Fund; founders Alexander Stratmoen and Aryan Afrouzi.
+
+[^upr-c1]: Uprise blog, "Announcing our $3.3M Seed," October 21, 2024. Accessed August 2026. https://blog.uprise.us/post/announcing-our-3-3m-seed — Company-side primary announcement dated October 21, 2024. Confirms USD 3.3M seed led by Blank Ventures (Hannah Chelkowski and Abhi Tiwari) with Pathlight Ventures, TruStage Ventures, Dash Fund, Contrary Capital, Phenomenal Ventures, Hustle Fund, and Graham & Walker as participants.
+
+[^upr-c2]: FinTech Global, "Small business financial advisory platform Uprise raises $3.3m in seed round," October 22, 2024. Accessed August 2026. https://fintech.global/2024/10/22/small-business-financial-advisory-platform-uprise-raises-3-3m-in-seed-round/ — Independent trade press published one day after the announcement. Confirms USD 3.3M seed, Blank Ventures lead, and Uprise's embedded financial advisory model for SMBs (Rippling, Carry).
+
+[^upr-c3]: news.fintech.io (via Passle), "Uprise raises $3.3m in Seed funding," October 24, 2024. Accessed August 2026. https://news.fintech.io/post/102jmm3/uprise-raises-3-3m-in-seed-funding — Third-party finance press confirmation of USD 3.3M seed led by Blank Ventures, referencing the October 21, 2024 TechCrunch report of the round.

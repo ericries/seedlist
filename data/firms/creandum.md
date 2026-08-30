@@ -134,7 +134,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | Better Stack | Series A | 2022 | Developer Tools/DevOps | Active | [^25] |
 | Lindus Health | Series A | 2023 | Health/Clinical Trials | Active | [^26] |
 | Embat | Series A | ~2023 | Fintech/Treasury | Active | [^5] |
-| Codesphere | Series A | 2024 | Developer Tools/Cloud | Active | [^27] |
+| Codesphere | Series A (USD 18M; Creandum-led; participants: 468 Capital, LEA Partners, Begin Capital, 42CAP; angels: Ben Uretsky (Digital Ocean), Auke van Urk (Valtech), Ewa Treitz (AWS), Dion Almaer (Google Cloud)) | 2024-05-17 | Developer Tools/Cloud | Active | [^27][^cs-c1][^cs-c2][^cs-c3] |
 | Amie | Early stage | ~2022 | Productivity/SaaS | Active | [^6] |
 | TWAICE | Early stage | ~2020 | Climate/Battery Analytics | Active | [^6] |
 | cargo.one | Early stage | ~2020 | Logistics/Marketplace | Active | [^6] |
@@ -262,3 +262,9 @@ No independently sourced founder testimonials found. Creandum's reputation among
 [^nex2]: nexos.ai, "nexos.ai emerges from stealth to launch an AI orchestration platform for the enterprise with funding led by Index Ventures," January 2025. Accessed July 2026. https://nexos.ai/blog/nexos-launch/ — Company's own launch blog naming Creandum among the seed participants.
 
 [^nex3]: The AI Insider, "nexos.ai Emerges from Stealth to Launch an AI Orchestration Platform for the Enterprise with Funding Led by Index Ventures," January 21, 2025. Accessed July 2026. https://theaiinsider.tech/2025/01/21/nexos-ai-emerges-from-stealth-to-launch-an-ai-orchestration-platform-for-the-enterprise-with-funding-led-by-index-ventures/ — Independent tech press confirmation.
+
+[^cs-c1]: Creandum portfolio commitments page, "Codesphere." Accessed August 2026. https://creandum.com/commitments/codesphere/ — Investor-side primary source confirming Codesphere's Series A: USD 18M led by Creandum, closed May 17, 2024.
+
+[^cs-c2]: tech.eu, "Codesphere raises $18M for DIY software," May 17, 2024. Accessed August 2026. https://tech.eu/2024/05/17/codesphere-raises-18m-for-diy-software/ — Contemporaneous European trade press dated to the announcement day. Confirms USD 18M Series A led by Creandum with 468 Capital, 42CAP, and named angels Ben Uretsky (Digital Ocean), Auke van Urk (Valtech), Ewa Treitz (AWS), and Dion Almaer (Google Cloud) participating; Karlsruhe, Germany headquartered.
+
+[^cs-c3]: 468 Capital, "Codesphere raises $18M Series A," May 17, 2024. Accessed August 2026. https://468cap.com/codesphere-raises-18m-series-a/ — Co-investor primary confirmation of USD 18M Series A led by Creandum with 468 Capital, LEA Partners, Begin Capital, and 42CAP as participants; total raised across rounds now $26.5M since 2020 founding.

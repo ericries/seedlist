@@ -6773,7 +6773,9 @@ vague_facts:
   line: '| Era | Seed | 2026 | AI / Consumer Hardware | [^24] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: SCANNER FALSE POSITIVE on column 4 (Sector) — but the ROW was legitimately vague (year-only 2026, no lead named). Verified via 3 primary sources: TechCrunch [^24] (2026-04-23), Yahoo Finance/TechCrunch syndication [^era-c1], and Tech Funding News [^era-c2]. Era Computer raised USD 9M seed on 2026-04-23 co-led by Abstract Ventures and BoxGroup, with Collaborative Fund and Mozilla Ventures participating. Prior USD 2M pre-seed from Topology Ventures and Betaworks brings total funding to USD 11M. Founders: Liz Dorman (CEO, ex-Humane and HP), Alex Ollman (CTO, ex-HP), Megan Gole (CPO, ex-Sutter Hill / io project). Named angel co-investors: Caterina Fake, Ken Kocienda, Tony Wang, Daniel Kuntz, Mina Fahmi, ShaoBo Z (ex-Rabbit CPO), Kelin Zhang (Poetry Camera). Also updated Abstract Ventures, BoxGroup, and Era Computer startup profiles with matching detail and citations.'
 - profile: firms/collaborative-fund
   profile_name: Collaborative Fund
   company: Hippo Harvest
@@ -7473,7 +7475,9 @@ vague_facts:
   line: '| Codesphere | Series A | 2024 | Developer Tools/Cloud | Active | [^27] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: SCANNER FALSE POSITIVE on column 5 (Status), but the ROW was legitimately vague (year-only 2024, no lead/participants named). Verified via 4 primary sources: existing Codesphere blog [^27], Creandum commitments page [^cs-c1], tech.eu contemporaneous [^cs-c2] (2024-05-17), and 468 Capital co-investor primary [^cs-c3]. Codesphere closed USD 18M Series A on 2024-05-17 led by Creandum with 468 Capital, LEA Partners, Begin Capital, and 42CAP participating; named angels Ben Uretsky (Digital Ocean), Auke van Urk (Valtech), Ewa Treitz (AWS), and Dion Almaer (Google Cloud). Karlsruhe, Germany-based; total raised now USD 26.5M since 2020 founding.'
 - profile: firms/creandum
   profile_name: Creandum
   company: Amie
@@ -173086,7 +173090,9 @@ vague_facts:
   line: '| Era | Seed | 2026 | AI / Consumer Hardware | [^24] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: resolved together with the high-priority Era entry above. Date tightened from year-only 2026 to 2026-04-23 with USD 9M seed detail (co-led by Abstract Ventures and BoxGroup; Collaborative Fund and Mozilla Ventures participating). Verified via TechCrunch [^24], Yahoo Finance/TechCrunch syndication [^era-c1], Tech Funding News [^era-c2].'
 - profile: firms/contrary
   profile_name: Contrary
   company: Base
@@ -173182,7 +173188,9 @@ vague_facts:
   line: '| Uprise | Seed | 2024 | Fintech | Active [^17] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: tightened Uprise row from year-only 2024 to 2024-10-21 with USD 3.3M amount, Blank Ventures lead (Hannah Chelkowski, Abhi Tiwari), and full syndicate (Pathlight Ventures, TruStage Ventures, Dash Fund, Contrary, Phenomenal Ventures, Hustle Fund, Graham & Walker). Verified via 3 primary sources: Uprise blog [^upr-c1] (2024-10-21 announcement), FinTech Global [^upr-c2] (2024-10-22 trade press), news.fintech.io/Passle [^upr-c3] (2024-10-24 referencing TechCrunch). Company: SF-based embedded financial advisory for SMBs, integrates into Rippling and Carry. Contrary was earlier Uprise investor (2022 pre-seed) per Tracxn; existing [^17] retained.'
 - profile: firms/contrary
   profile_name: Contrary
   company: Valar Atomics
@@ -173326,7 +173334,9 @@ vague_facts:
   line: '| Codesphere | Series A | 2024 | Developer Tools/Cloud | Active | [^27] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: resolved together with the high-priority Codesphere entry. Date tightened from year-only 2024 to 2024-05-17 with USD 18M amount and full syndicate (Creandum-led with 468 Capital, LEA Partners, Begin Capital, 42CAP, plus named angels). Verified via Codesphere blog [^27], Creandum commitments [^cs-c1], tech.eu [^cs-c2], 468 Capital [^cs-c3].'
 - profile: firms/creandum
   profile_name: Creandum
   company: Packfleet

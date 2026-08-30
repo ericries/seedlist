@@ -158,7 +158,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 | Secureframe | Seed | ~2020 | Security/Compliance | Active [^3] |
 | Capchase | Seed | ~2020 | Fintech | Active [^7] |
 | Pomelo Care | Seed | ~2021 | Healthcare | Active [^3] |
-| Era | Seed | 2026-04-23 | AI / Consumer Hardware | Active [^18] |
+| Era (Era Computer) | Seed (USD 9M; co-led with Abstract Ventures; participants: Collaborative Fund, Mozilla Ventures; founders: Liz Dorman/CEO, Alex Ollman/CTO, Megan Gole/CPO) | 2026-04-23 | AI / Consumer Hardware | Active [^18][^era-b1][^era-b2] |
 | Rogo | Series B (participated, $50M; led by Thrive Capital) | 2025-04-30 | AI / Fintech | Active [^23] |
 | Rogo | Series D | 2026-04-29 | AI / Fintech | Active [^19] |
 | MOTHER.Tech | Seed (participated) | 2026-05-05 | AI / Creator Economy | Active [^21][^22] |
@@ -268,3 +268,7 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^foundational2026a]: Jason Del Rey, "Forget robots on assembly lines. Foundational Industries wants AI to run the entire factory," Fortune, July 30, 2026. Accessed August 2026. https://fortune.com/2026/07/30/forget-robots-assembly-lines-foundational-industries-ai-to-run-entire-factory-manufacturing-china-robotics/ — Confirms BoxGroup and Zigg Ventures co-led the $25M seed round for Foundational Industries on July 30, 2026, with Abstract Ventures, Adverb Ventures, Buckley Ventures, and Offline Ventures participating. CEO Jonathan Winer previously at Alphabet's Sidewalk Infrastructure Partners.
 [^foundational2026b]: The Robotics Media, "Foundational Industries Bags $25M Seed To Build AI-Native US Factories," July 30, 2026. Accessed August 2026. https://theroboticsmedia.com/article/foundational-industries-25m-seed-boxgroup-zigg-ai-native-factories-2026-07-30 — Independent confirmation of the $25M seed co-led by BoxGroup and Zigg Ventures.
 [^foundational2026c]: Dealroom, "Foundational Industries raises $25M to build AI-native US factories for data centre hardware," July 30, 2026. Accessed August 2026. https://app.dealroom.co/news/feed/foundational-industries-raises-25m-to-build-ai-native-us-factories-for-data-centre-hardware — Third independent confirmation.
+
+[^era-b1]: Yahoo Finance / TechCrunch syndication, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. Accessed August 2026. https://finance.yahoo.com/sectors/technology/articles/era-raises-11m-build-software-160000149.html — Confirms USD 9M seed co-led by Abstract Ventures and BoxGroup, with Collaborative Fund and Mozilla Ventures participating. Prior USD 2M pre-seed from Topology Ventures and Betaworks brings Era's total funding to USD 11M.
+
+[^era-b2]: Tech Funding News, "Era raises $11M from Abstract Ventures and BoxGroup to bring AI to smart gadgets," April 2026. Accessed August 2026. https://techfundingnews.com/era-11m-funding-ai-hardware-intelligence-infrastructure/ — Third independent trade press confirmation of USD 9M seed co-led by Abstract Ventures and BoxGroup.

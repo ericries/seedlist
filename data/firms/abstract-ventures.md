@@ -114,7 +114,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 | Natural | Seed ($9.8M, co-led) → Series A ($30M, participated) | 2025-10-23 (Seed); 2026-07-20 (Series A) | Fintech / AI Agent Payments | Active [^42][^43][^44][^natural-a] |
 | Telepatia | Seed (participated, $9M) | 2025-10-16 | Healthcare/AI (LatAm) | Active [^36][^37][^38] |
 | Coworker AI | Seed ($13M, participated) | 2025-05-21 | AI / Enterprise | Active [^15][^39][^40][^41] |
-| Era | Seed (co-led, $9M) | 2026-04-23 | AI / Consumer Hardware | Active [^16] |
+| Era (Era Computer) | Seed (co-led with BoxGroup, USD 9M; participants: Collaborative Fund, Mozilla Ventures; founders Liz Dorman/CEO, Alex Ollman/CTO, Megan Gole/CPO) | 2026-04-23 | AI / Consumer Hardware | Active [^16][^era-a1][^era-a2] |
 | NewLimit | Series C ($435M, returning investor) | 2026-06-02 | Biotech / Longevity | Active [^48][^49][^50] |
 | Cast Insights | Pre-seed ($4.5M, led) | 2026-07-23 | AI / Media Intelligence | Active [^cast-insights-1][^cast-insights-2][^cast-insights-3] |
 | Foundational Industries | Seed ($25M, participated) | 2026-07-30 | Manufacturing / AI / Industrial Automation | Active [^fi1][^fi2][^fi3] |
@@ -233,4 +233,8 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^cherry2]: PYMNTS, "Report: Cherry Considers Offering Bonds Tied to BNPL for Cosmetic Surgery," 2024, accessed July 2026. https://www.pymnts.com/bnpl/2024/report-cherry-considers-offering-bonds-tied-to-bnpl-for-cosmetic-surgery/ — Independent trade press confirming Cherry's BNPL-for-healthcare business model but does not enumerate Cherry's investor syndicate; used as corroborating source that Cherry is an operating, VC-backed healthcare-fintech company distinct from Cherry Ventures (Berlin) and Cherry Health (Michigan non-profit / Canada physician platform).
 
 [^spacex1]: SpaceX funding history via SpaceXStock.com, "SpaceX Funding Rounds: Key Investors by Stage," accessed July 2026. https://spacexstock.com/spacex-funding-rounds-key-investors-by-stage/ — SpaceX's original Series C was closed in August 2008 (led by Founders Fund) — years before Abstract Ventures was founded (2016) — so Abstract's "Series C" listing on its own portfolio page reflects secondary participation or later-stage tender, not primary round participation. Abstract Ventures is not named in any SpaceX primary funding announcement (per SEC Form D filings and contemporaneous coverage on Bloomberg, Reuters, Ars Technica).
+
+[^era-a1]: Yahoo Finance / TechCrunch syndication, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. Accessed August 2026. https://finance.yahoo.com/sectors/technology/articles/era-raises-11m-build-software-160000149.html — Confirms Abstract Ventures and BoxGroup co-led Era's USD 9M seed with Collaborative Fund and Mozilla Ventures participating; prior USD 2M pre-seed from Topology Ventures and Betaworks brings total to USD 11M.
+
+[^era-a2]: Tech Funding News, "Era raises $11M from Abstract Ventures and BoxGroup to bring AI to smart gadgets," April 2026. Accessed August 2026. https://techfundingnews.com/era-11m-funding-ai-hardware-intelligence-infrastructure/ — Third independent trade press confirmation of the round composition.
 
