@@ -8227,7 +8227,7 @@ queue:
 - name: David Vélez
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   discovered_from: nubank
 - name: Bryan Berg
@@ -9696,7 +9696,7 @@ queue:
 - name: Kunal Shah
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   discovered_from: shailendra-singh
 - name: Shine Capital
@@ -19196,7 +19196,7 @@ queue:
 - name: T V Mohandas Pai
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Aarin Capital
   discovered_from: mohit-saxena
@@ -19935,7 +19935,7 @@ queue:
 - name: François Robinet
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: AVP
   discovered_from: alex-scherbakovsky
@@ -22472,7 +22472,7 @@ queue:
 - name: Lynne O'Keefe
   type: individual
   priority: high
-  status: pending
+  status: completed
   added: '2026-03-17'
   firm: Define Ventures
   discovered_from: 9amhealth
@@ -26482,7 +26482,7 @@ queue:
 - name: Carle Stenmark
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: VMG Partners
   discovered_from: scotch
@@ -27016,7 +27016,7 @@ queue:
 - name: Mårten Mickos
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: independent
   discovered_from: thomas-dohmke
@@ -27936,7 +27936,7 @@ queue:
 - name: Alexander Schwartz
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: XISTA Science Ventures
   discovered_from: invisible-light-labs
@@ -28559,7 +28559,7 @@ queue:
 - name: Madeline Lawrence
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Aikido Security
   discovered_from: willem-delbare

@@ -4,6 +4,7 @@ slug: amit-gupta
 type: individual
 firm: yulu
 role: "Co-Founder, InMobi; Co-Founder & CEO, Yulu; Angel Investor"
+tldr: "Co-founder of InMobi (India's first profitable internet unicorn) and CEO of shared micromobility company Yulu, angel investing in Indian consumer internet, fintech, and SaaS at seed and pre-seed. Verified portfolio (Razorpay, HealthifyMe, Klub, Vahak, Factors.AI) skews India-only. Most consistent co-investor pattern is the InMobi co-founder syndicate — Tewari, Singhal, Saxena, Shah — repeatedly writing together."
 location: "Bengaluru, India"
 stage_focus: [seed, pre-seed, angel]
 sector_focus: [fintech, consumer-internet, SaaS, mobility, healthtech, logistics, D2C, AI]

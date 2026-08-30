@@ -4,6 +4,7 @@ slug: chris-re
 type: individual
 firm: factory
 role: "Co-Founder, Factory; Professor of Computer Science, Stanford University"
+tldr: "Stanford CS professor, MacArthur Fellow, and co-founder of Factory — a venture firm focused on data-centric AI. Verified activity is heavily concentrated in AI infrastructure and platform layer: SambaNova, Snorkel AI, Together AI, Modular, and Galileo AI. Repeatedly co-founds or backs technical founders drawn from his Stanford Hazy Research / SAIL / CRFM PhD cohorts."
 location: "Stanford, California"
 stage_focus: [seed, series-a]
 sector_focus: [ai, machine-learning, foundation-models, ai-infrastructure, data-infrastructure, developer-tools]

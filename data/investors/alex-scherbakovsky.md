@@ -4,6 +4,7 @@ slug: alex-scherbakovsky
 type: individual
 firm: avp
 role: "General Partner"
+tldr: "General Partner at AVP (formerly AXA Venture Partners) leading US growth-stage investments from New York, writing $10M-$40M+ checks. Verified track record concentrated in enterprise infrastructure, developer tools, and security (Orkes, Contrast Security, Strider, Defense Unicorns, Selector, Tive). Previously invested in Braintree and Box at NEA."
 location: "New York, NY"
 stage_focus: [growth, late-stage]
 sector_focus: [enterprise-software, cybersecurity, AI, developer-tools, fintech, insurtech, supply-chain, defense-tech]

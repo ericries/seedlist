@@ -4,6 +4,7 @@ slug: christian-lawless
 type: individual
 firm: conversion-capital
 role: "Founder & General Partner"
+tldr: "Founder and GP of New York-based Conversion Capital (over $250M AUM across three funds), writing $500K-$5M at pre-seed through Series A. Portfolio (Blend, Ramp, Cognition, Wisetack, Figure) skews heavily to fintech, mortgage tech, data infrastructure, and increasingly AI and national security. Explicitly avoids balance-sheet-risk businesses. In September 2025, joined portfolio company Cognition full-time."
 location: "New York, NY"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [fintech, mortgage-tech, data-infrastructure, ai, national-security, logistics, enterprise-saas]

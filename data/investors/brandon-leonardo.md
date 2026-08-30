@@ -4,6 +4,7 @@ slug: brandon-leonardo
 type: individual
 firm:
 role: "Co-Founder, Instacart"
+tldr: "Instacart co-founder writing $5K-$50K angel checks at seed and Series A, with a sweet spot around $25K. Verified portfolio clusters in developer-facing infrastructure and AI/data tooling (PostgresML, Sematic, Airtrain, Rootly) plus marketplaces adjacent to Instacart's playbook. Follows strong institutional leads rather than leading rounds himself, and repeatedly co-invests with fellow Instacart alumni."
 location: "San Francisco, CA"
 stage_focus: [seed, series-a]
 sector_focus: [developer-tools, ai, enterprise-saas, marketplaces, healthcare, consumer, insurtech]

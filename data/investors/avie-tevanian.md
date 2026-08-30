@@ -4,6 +4,7 @@ slug: avie-tevanian
 type: individual
 firm: elevation-partners
 role: "Co-Founder & Managing Director"
+tldr: "Co-founder and Managing Director of NextEquity Partners and Managing Director of Elevation Partners, writing $5M-$20M growth-equity checks into companies with $10-50M+ in revenue. Formerly SVP of Software Engineering at Apple (led Mac OS X) and principal designer of the Mach kernel at Carnegie Mellon. Board seats include Dolby; previously resigned from Theranos over accountability disputes."
 location: "Menlo Park, CA"
 stage_focus: [growth-equity, late-stage]
 sector_focus: [cybersecurity, enterprise-software, ai-ml, consumer-technology, observability]

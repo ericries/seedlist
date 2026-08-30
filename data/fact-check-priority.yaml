@@ -4091,42 +4091,72 @@ priority:
   type: firm
   reason: participated in Ellis seed (2026-07-30), $10M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Khosla Ventures participated in Ellis $10M seed (2026-07-30, led by First Round Capital) via 3 primary sources — BusinessWire press release, TechCrunch, Alternative Credit Investor. khosla-ventures.md already has fully documented Ellis row with 3 primary citations ([^ellis-kh1], [^ellis-kh2], [^ellis-kh3]) naming co-participants 645 Ventures, Harlem Capital, Slow Ventures, Wilshire Lane, Westbound, Collide Capital, Gallery Ventures, Thrive Capital, Mellody Hobson, Josh Kushner, Immad Akhund. No edits needed — row is accurate as-is.'
 - slug: thrive-capital
   type: firm
   reason: participated in Ellis seed (2026-07-30), $10M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Thrive Capital participated in Ellis $10M seed (2026-07-30, led by First Round Capital) via 3 primary sources — BusinessWire, TechCrunch, Alternative Credit Investor. thrive-capital.md already has fully documented Ellis row with 3 primary citations ([^ellis-tc1], [^ellis-tc2], [^ellis-tc3]). Note that Thrive founder Josh Kushner personally also participated per BusinessWire naming. No edits needed — row is accurate as-is.'
 - slug: josh-kushner
   type: investor
   reason: participated in Ellis seed (2026-07-30), $10M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Josh Kushner (Thrive Capital Founder) participated in Ellis $10M seed as angel (2026-07-30, First Round Capital led) via 3 primary sources — BusinessWire (names "Thrive Capital Founder Josh Kushner"), Alternative Credit Investor, TechCrunch. josh-kushner.md already has fully documented Ellis row with 3 primary citations ([^ellis-jk1], [^ellis-jk2], [^ellis-jk3]). No edits needed — row is accurate as-is.'
 - slug: immad-akhund
   type: investor
   reason: participated in Ellis seed (2026-07-30), $10M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Immad Akhund (Mercury Founder & CEO) participated in Ellis $10M seed as angel (2026-07-30, First Round Capital led) via 3 primary sources — BusinessWire (names "Mercury Founder and CEO Immad Akhund"), TechCrunch, Alternative Credit Investor. immad-akhund.md already has fully documented Ellis row with 3 primary citations ([^ellis-ia1], [^ellis-ia2], [^ellis-ia3]). No edits needed — row is accurate as-is.'
 - slug: kleiner-perkins
   type: firm
   reason: co-led K2 Space Series D (2026-07-30), $500M at $6.8B
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Kleiner Perkins co-led K2 Space $500M Series D at $6.8B post-money valuation on 2026-07-30 (alongside ICONIQ Growth) via 3 primary sources — PR Newswire press release, SpaceNews, Tech Startups roundup. Co-investors: CapitalG, Lightspeed, Altimeter, Spark Capital, Sands Capital, ARK Invest, T. Rowe Price. Torrance CA-based satellite manufacturer; founders Karan Kunjur (CEO) & Neel Kunjur (CTO). kleiner-perkins.md already has fully documented K2 Space row with 3 primary citations ([^k2s1], [^k2s2], [^k2s3]). No edits needed — row is accurate as-is.'
 - slug: iconiq-growth
   type: firm
   reason: co-led K2 Space Series D (2026-07-30), $500M at $6.8B
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified ICONIQ Growth co-led K2 Space $500M Series D at $6.8B post-money valuation on 2026-07-30 (alongside Kleiner Perkins) via 3 primary sources — PR Newswire, SpaceNews, Tech Startups. Co-investors: CapitalG, Lightspeed, Altimeter, Spark Capital, Sands Capital, ARK Invest, T. Rowe Price. iconiq-growth.md already has fully documented K2 Space row with 3 primary citations ([^k2space1], [^k2space2], [^k2space3]). No edits needed — row is accurate as-is.'
 - slug: bessemer-venture-partners
   type: firm
   reason: led Onyx Security Series B (2026-07-29), $113M at ~$640M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Bessemer Venture Partners led Onyx Security $113M Series B at ~$640M post-money valuation on 2026-07-29 (four months after Onyx emerged from stealth) via 3 primary sources — Onyx company blog, Yahoo Finance/BusinessWire press release, FinTech Global. Participants: Cyberstarts, TCV, Conviction, FirstMark, Vintage Investment Partners, QuantumLight, G Squared. Total funding since founding: $153M. Co-founders Maxim Bar Kogan (CEO) & Gil Elbaz (NY/Tel Aviv). bessemer-venture-partners.md already has fully documented Onyx Series B row with 3 primary citations ([^onyx1], [^onyx2], [^onyx3]). No edits needed — row is accurate as-is.'
 - slug: insight-partners
   type: firm
   reason: led DataBahn Series B (2026-07-30), $40M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Insight Partners led DataBahn $40M Series B on 2026-07-30 via 3 primary sources — PR Newswire press release, Tech Startups, SiliconANGLE. Participants: Forgepoint, GTM Capital, S3 Ventures. Total raised: $59M. Dallas-based agentic data control plane; co-founder/CEO Nanda Santhana. Added SiliconANGLE as 3rd citation [^db3] on insight-partners.md portfolio row (previously had 2). Row now cites [^db1][^db2][^db3].'
 - slug: conviction
   type: firm
   reason: participated in Onyx Security Series B (2026-07-29), $113M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Conviction participated in Onyx Security $113M Series B on 2026-07-29 (Bessemer led at ~$640M post-money) via 3 primary sources — Onyx blog, Yahoo Finance/BusinessWire, FinTech Global. Follow-on investment after Conviction co-led the $35M Series A on 2026-03-12. Added new Onyx Series B row on conviction.md (previously only had Series A row at line 93) with 3 new footnotes [^onyx-cv-b1][^onyx-cv-b2][^onyx-cv-b3].'
 - slug: tcv
   type: firm
   reason: participated in Onyx Security Series B (2026-07-29), $113M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified TCV participated in Onyx Security $113M Series B on 2026-07-29 (Bessemer led at ~$640M post-money) via 3 primary sources — Onyx blog, Yahoo Finance/BusinessWire, FinTech Global. Added new Onyx Security row on tcv.md portfolio table (row previously absent) with 3 new footnotes [^onyx-tcv1][^onyx-tcv2][^onyx-tcv3]. Co-participants: Cyberstarts, Conviction, FirstMark, Vintage Investment Partners, QuantumLight, G Squared.'
 - slug: cyberstarts
   type: firm
   reason: participated in Onyx Security Series B (2026-07-29), $113M
@@ -4884,4 +4914,20 @@ priority:
 - slug: thrive-capital
   type: firm
   reason: appeared in Retro Series A (2026-08-28)
+  added: 2026-08-30
+- slug: andreessen-horowitz
+  type: firm
+  reason: appeared in Atorie Seed (2026-08-27)
+  added: 2026-08-30
+- slug: jeremy-liew
+  type: investor
+  reason: appeared in Atorie Seed (2026-08-27)
+  added: 2026-08-30
+- slug: dst-global
+  type: firm
+  reason: appeared in Higgsfield Series B (2026-08-17)
+  added: 2026-08-30
+- slug: dcvc
+  type: firm
+  reason: appeared in Emerald AI Series A (2026-08-25)
   added: 2026-08-30

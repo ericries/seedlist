@@ -4,6 +4,7 @@ slug: ben-sigelman
 type: individual
 firm: independent
 role: "Angel Investor / GM, ServiceNow Cloud Observability"
+tldr: "Angel investor and GM of ServiceNow Cloud Observability (formerly co-founder and CEO of Lightstep, acquired by ServiceNow in 2021). Writes small seed checks concentrated in observability, distributed tracing, and AI infrastructure — categories directly adjacent to his co-creation of OpenTracing and OpenTelemetry. Verified positions include Odigos, Laminar, WarpStream, Coval, and Continua."
 location: "San Francisco Bay Area"
 stage_focus: [seed]
 sector_focus: [developer-tools, observability, enterprise-infrastructure, ai-infrastructure]

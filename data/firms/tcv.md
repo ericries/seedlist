@@ -126,6 +126,7 @@ The following is a selection of TCV's notable investments, drawn from the firm's
 | Corgi | Series B (led) 2026-05-06; Series B1 (led, $106M at $2.6B val) 2026-05-28 | 2026-05-06; 2026-05-28 | Insurtech | Private ($2.6B valuation) [^13][^16] |
 | Mercury | Series D (led, $200M) | 2026-05-20 | Fintech / Digital Banking | Private ($5.2B valuation) [^14][^15] |
 | ICEYE | Series F (participated; led by General Atlantic) | 2026-06-09 | SpaceTech / SAR Satellites / Defense | Private (€10B+ valuation) [^17][^18][^19] |
+| Onyx Security | Series B (participated, $113M at ~$640M valuation; Bessemer led; Cyberstarts, Conviction, FirstMark, Vintage Investment Partners, QuantumLight, G Squared also participated) | 2026-07-29 | Cybersecurity / AI Security / Enterprise Software | Private [^onyx-tcv1][^onyx-tcv2][^onyx-tcv3] |
 
 This table represents a small fraction of TCV's 350+ total investments [^4]. The firm's portfolio page lists over 100 current and former portfolio companies [^7].
 
@@ -175,3 +176,9 @@ No independently sourced founder testimonials found. TCV's portfolio founders ha
 [^18]: General Atlantic, "ICEYE leads a new era of sovereign intelligence from space with €1Bn fundraising round," June 9, 2026. Accessed June 2026. https://www.generalatlantic.com/media-article/iceye-leads-a-new-era-of-sovereign-intelligence-from-space-with-e1bn-fundraising-round/ — Independently confirms TCV as participating investor in General Atlantic-led €450M primary Series F (total round including secondary exceeds €1B).
 
 [^19]: Tech.eu, "ICEYE raises €450M at €10B+ valuation as demand for sovereign space intelligence accelerates," June 9, 2026. Accessed June 2026. https://tech.eu/2026/06/09/iceye-raises-eur450m-at-eur10b-valuation-as-demand-for-sovereign-space-intelligence-accelerates/ — Third independent confirmation of TCV as named participant in the General Atlantic-led €450M Series F at €10B+ valuation; Nokia identified as new strategic investor.
+
+[^onyx-tcv1]: "Onyx's $113M Series B: Keeping Humans in Control as AI Becomes Smarter," Onyx company blog, July 2026. Accessed August 2026. https://www.onyx.security/blog/onyx-113m-series-b-keeping-humans-in-control-as-ai-becomes-smarter — Primary press release naming TCV among Series B participants alongside Bessemer (lead), Cyberstarts, Conviction, FirstMark, Vintage Investment Partners, QuantumLight, and G Squared.
+
+[^onyx-tcv2]: "Onyx Security Raises $113M Series B to Control Advanced AI, Quadrupling Revenue since Stealth Launch Four Months Ago," Yahoo Finance (via Business Wire), July 29, 2026. Accessed August 2026. https://finance.yahoo.com/technology/ai/articles/onyx-security-raises-113m-series-210500945.html — Independent tier-1 press confirmation of TCV as Series B participant; Onyx valued at ~$640M post-money four months after emerging from stealth.
+
+[^onyx-tcv3]: "Onyx raises $113m to keep humans in control of AI agents," FinTech Global, July 30, 2026. Accessed August 2026. https://fintech.global/2026/07/30/onyx-raises-113m-to-keep-humans-in-control-of-ai-agents/ — Third independent trade-press confirmation naming TCV as participant in the Bessemer-led Series B.

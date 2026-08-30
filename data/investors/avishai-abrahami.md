@@ -4,6 +4,7 @@ slug: avishai-abrahami
 type: individual
 firm: wix
 role: "Co-Founder & CEO, Wix.com"
+tldr: "Co-founder and CEO of Wix.com (NASDAQ: WIX), angel investing at seed and Series A primarily in Israeli SaaS and product-led businesses. Verified positions include monday.com, Connecteam, Walnut, OpenWeb, and Unlimited Robotics; sits on the boards of Wix, monday.com, and OpenWeb. Argues trust — not features — is the durable moat in SaaS."
 location: "Tel Aviv, Israel"
 stage_focus: [seed, series-a]
 sector_focus:

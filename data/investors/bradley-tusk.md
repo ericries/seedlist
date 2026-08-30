@@ -4,6 +4,7 @@ slug: bradley-tusk
 type: individual
 firm: tusk-ventures
 role: "Founder & CEO, Tusk Ventures (Tusk Venture Partners) and Tusk Strategies"
+tldr: "Founder and CEO of Tusk Venture Partners in New York, investing $500K-$10M at seed through Series B in highly regulated markets — fintech, digital health, transportation, gaming, and insurance. Distinctive edge is pairing capital with in-house political-consulting capability, first proven when Uber compensated him in equity that reportedly grew to ~$100M. Announced Fund III would be the firm's last traditional venture fund."
 location: "New York, NY"
 stage_focus:
 - seed

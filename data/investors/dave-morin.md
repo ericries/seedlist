@@ -4,6 +4,7 @@ slug: dave-morin
 type: individual
 firm: offline-ventures
 role: "Co-Founder & Managing Partner"
+tldr: "Path co-founder and former Slow Ventures GP, now co-founder and Managing Partner of Offline Ventures — a $100M 'humanist technology' fund anchored by Apple. Writes $500K-$5M at seed and Series A into mental health, digital therapeutics, connected hardware, and consumer social. Portfolio spans Brightside, Done, Clubhouse, Humane, and Blueprint; previously participated in Slack, Pinterest, and Robinhood via Slow."
 location: "Mill Valley, CA"
 stage_focus: [seed, series-a]
 sector_focus: [consumer, digital-health, mental-health, wellness, web3, climate]

@@ -4,6 +4,7 @@ slug: christian-szegedy
 type: individual
 firm: math-inc
 role: "Founder, Math Inc; Angel Investor"
+tldr: "Founder of Math Inc and former co-founder of xAI, previously Principal Scientist at Google Brain (architect of the Inception CNN and adversarial-examples co-author). Angel-invests at pre-seed and seed in AI infrastructure, AI-for-code, and formal-verification tooling — Kodesage, Morph Labs, and Verita AI — with a Central European founder cluster reflecting his Hungarian roots."
 location: "San Francisco Bay Area, California"
 stage_focus: [seed, pre-seed]
 sector_focus: [ai, ai-infrastructure, formal-methods, developer-tools, enterprise-software]

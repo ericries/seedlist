@@ -4,6 +4,7 @@ slug: amit-lakhotia
 type: individual
 firm: null
 role: "Founder & CEO, Park+; Angel Investor"
+tldr: "Founder and CEO of car-owner super-app Park+, formerly Paytm's wallet head and Tokopedia VP, angel investing at seed and pre-seed in India. Verified deals cluster in fintech/payments (BharatPe, Junio, CheQ), consumer commerce (GoKwik, Trell), and mobility — mirroring his operator career. Frequently co-invests with ex-Paytm and Indian consumer-internet operator-angels."
 location: "Delhi NCR, India"
 stage_focus: [seed, pre-seed]
 sector_focus: [fintech, mobility, consumer, healthtech, saas, commerce, insurtech, edtech]

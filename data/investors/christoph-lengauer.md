@@ -8,6 +8,7 @@ last_verified_investment:
   round: Seed
 location: Boston, MA
 name: Christoph Lengauer
+tldr: "Co-founder and CSO of Boston-based Curie.Bio (over $520M in initial capital), writing $5M-$15M seed checks in therapeutics — oncology, immunology, neuroscience, and gene therapy. Former head of oncology drug discovery at Novartis and Sanofi and founding CSO of Blueprint Medicines, credited with contributing to ten drugs. Pitches Curie's value as a team of 'hardcore drug hunters' supporting founders hands-on."
 role: CSO & Co-Founder
 sector_focus:
 - biotech

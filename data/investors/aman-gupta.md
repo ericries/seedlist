@@ -4,6 +4,7 @@ slug: aman-gupta
 type: individual
 firm: null
 role: "Co-Founder, boAt Lifestyle / Founder, OFF/BEAT Studios / Angel Investor"
+tldr: "Co-founder of boAt Lifestyle and one of India's most visible angels through Shark Tank India, writing ₹10L-₹1Cr on-air checks plus larger private angel rounds. Sector-heavy in D2C food and beverage, apparel, and consumer electronics — categories adjacent to his boAt operating expertise. Frames investing as 'cash-making businesses' rather than institutional VC bets."
 location: "Delhi, India"
 stage_focus: [pre-seed, seed, early-stage]
 sector_focus: [consumer, d2c, food-and-beverage, consumer-electronics, fashion, apparel, healthtech, foodtech, ev, fintech, logistics]

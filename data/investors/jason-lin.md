@@ -4,6 +4,7 @@ slug: jason-lin
 type: individual
 firm: lifelike-capital
 role: "Co-Founder & General Partner, Lifelike Capital; Managing Partner, Super Capital Group"
+tldr: "Co-founder and GP of Lifelike Capital (with Twitch's Kevin Lin and ex-Tencent Randy Lee) and Managing Partner of Super Capital Group. Writes seed-lead and angel checks across Silicon Valley and Asia, concentrated in gaming, consumer, and frontier tech. Portfolio touchpoints include Twitch, Unity, OURA, Sleeper, plus a Lifelike active list heavy on game studios like Ironwood, Dead Astronauts, and Wolfhaus Games."
 location: "San Francisco, California"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [gaming, consumer, ai, frontier-tech, media, web3]

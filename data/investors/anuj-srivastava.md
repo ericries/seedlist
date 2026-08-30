@@ -4,6 +4,7 @@ slug: anuj-srivastava
 type: individual
 firm: livspace
 role: "Co-Founder & Chairman, Livspace; Angel Investor"
+tldr: "Co-founder and Chairman of home-interiors unicorn Livspace, angel investing at pre-seed through Series A across consumer, fintech, healthcare, and marketplaces. Verified positions include CoinSwitch, PharmEasy, Purplle, NirogStreet, and MarketWolf, weighted toward India but with 20% US and 30% Southeast Asia exposure per his own accounting. Describes his approach as gut-led and values-driven, not thesis-led."
 location: "Bengaluru, Karnataka, India"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [consumer, e-commerce, marketplace, fintech, healthcare, d2c, consumer-internet, travel, payments]

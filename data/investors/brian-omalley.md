@@ -4,6 +4,7 @@ slug: brian-omalley
 type: individual
 firm: forerunner-ventures
 role: "Board Partner, Forerunner Ventures; Founder & Managing Partner, Tactile Ventures"
+tldr: "Two-decade consumer-tech specialist, now Managing Partner of new fund Tactile Ventures and Board Partner at Forerunner (previously Battery and Accel). Writes $250K-$15M at seed and Series A, framing his thesis around an 'empowerment economy' of software and marketplaces for individuals and small merchants. Portfolio spans Dollar Shave Club, HotelTonight, Away, Coupa, and BazaarVoice."
 location: "San Francisco, CA"
 stage_focus:
   - seed

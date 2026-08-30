@@ -8,6 +8,7 @@ last_verified_investment:
   round: Post-seed; exited
 location: New York, NY
 name: Anna Garcia
+tldr: "Co-founder of Runway Venture Partners in New York and founder of enterprise-fintech-focused Altari Ventures, writing checks up to $1M and leading $2-3M post-seed rounds. Targets B2B SaaS companies past product-market fit but pre-institutional-Series-A, with a dozen paying clients and $50-100K MRR. Seventeen-year Wall Street veteran before venturing into VC."
 role: Partner and Co-Founder, Runway Venture Partners; Founder and Managing Partner,
   Altari Ventures
 sector_focus:

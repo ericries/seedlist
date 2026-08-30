@@ -4,6 +4,7 @@ slug: chris-downer
 type: individual
 firm:
 role: "General Partner, Brewer Lane Ventures"
+tldr: "General Partner at Boston-based Brewer Lane Ventures, writing $1M-$10M checks at Series A and B with a $5M sweet spot. Personally-attributed deals (Novella, Sixfold, Ennabl, Dispatch, Stonestep) are all insurance-adjacent software — a tighter thesis than the firm's broader fintech/insurtech/healthtech mandate. Previously a Principal at Sorenson Ventures and XL Innovate (AXA XL's corporate arm)."
 location: "Boston, Massachusetts"
 stage_focus: [seed, series-a, series-b]
 sector_focus: [insurtech, fintech, insurance, embedded-finance, ai, analytics]

@@ -4,6 +4,7 @@ slug: chris-stolte
 type: individual
 firm: independent
 role: "Co-founder, Tableau Software (acq. Salesforce, 2019); Technical Advisor & Board Member, Tableau; Angel investor"
+tldr: "Tableau co-founder (former Chief Development Officer and co-inventor of VizQL) and a quiet, low-volume angel investor based in Seattle. Writes pre-seed and seed checks concentrated in analytics, data visualization, and end-user developer tooling — categories mirroring his two decades of technical work at Tableau. Verified positions include PixieBrix and Ridge AI."
 location: "Seattle, WA"
 stage_focus:
 - pre-seed

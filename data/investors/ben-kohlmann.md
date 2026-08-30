@@ -4,6 +4,7 @@ slug: ben-kohlmann
 type: individual
 firm: cubit-capital
 role: "Former Partner & COO, Cubit Capital (departed late 2025 for Assistant Secretary of the Navy for Manpower & Reserve Affairs)"
+tldr: "Former Partner and COO at Dallas-based Cubit Capital investing pre-seed through Series A in defense-tech, advanced manufacturing, energy, and aerospace; departed in late 2025 to become Assistant Secretary of the Navy. Retired Navy F/A-18 pilot who founded the Defense Entrepreneurs Forum. Cubit's disclosed portfolio spans Saronic, Hadrian, Firehawk, and Vatn Systems, with a distinctive mission-aligned faith-and-civic cluster."
 location: "Dallas, Texas"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [defense-tech, frontier-tech, hardware, aerospace, energy, nuclear, advanced-manufacturing, maritime]

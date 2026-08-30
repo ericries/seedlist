@@ -4,6 +4,7 @@ slug: byron-knight
 type: individual
 firm: koch-disruptive-technologies
 role: "President & Chief Operating Officer, Koch Disruptive Technologies"
+tldr: "President and COO of Koch Disruptive Technologies in Wichita, writing $50M-$200M lead checks at Series A through growth (with occasional seed co-leads). Personal deal signal is concentrated in supply-chain automation, cybersecurity, fintech, and industrial software — verticals adjacent to Koch's operating platform. Board seats include Outrider, Dragos, Automox, Strider, Ibotta, and Cellares."
 location: "Wichita, Kansas"
 stage_focus: [series-a, series-b, series-c, series-d, growth]
 sector_focus: [supply-chain, cybersecurity, fintech, autonomous-vehicles, enterprise-software, semiconductors, healthcare]

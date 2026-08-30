@@ -4,6 +4,7 @@ slug: binny-bansal
 type: individual
 firm: 3state-ventures
 role: "Founder, 3State Ventures & OppDoor; Co-Founder & Executive Chairman, xto10x; Co-Founder, Flipkart"
+tldr: "Flipkart co-founder writing $2M-$25M growth-stage checks from Singapore-based 3State Ventures, plus running OppDoor and xto10x. Verified portfolio (ShopOS, Curefoods, SuperK, Scapia, Rupeek, Posha) is heavily India commerce infrastructure and consumer platforms. Unusually growth-stage for a founder-turned-angel — Series A and later dominate, with a growing thread of Indian founders serving developed markets."
 location: "Singapore"
 stage_focus: [seed, series-a, series-b, series-c, growth]
 sector_focus: [e-commerce, fintech, consumer-internet, ai, retail, edtech, healthtech, insurtech, food-tech, saas, india, southeast-asia]

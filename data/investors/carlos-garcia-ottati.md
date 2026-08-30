@@ -4,6 +4,7 @@ slug: carlos-garcia-ottati
 type: individual
 firm: independent
 role: "Co-Founder & CEO, Kavak"
+tldr: "Co-founder and CEO of Kavak, Mexico's first tech unicorn, angel investing on the side across LatAm fintech, insurtech, and marketplaces at seed and Series A. All verified checks (Xepelin, Justos, Fairplay, Latitud Ventures) are LatAm-focused, typically as one of several operator-angels alongside institutional leads. Frequently syndicates with Ricardo Weder (Jüsto), David Vélez (Nubank), and Sergio Furio (Creditas)."
 location: "Mexico City, Mexico"
 stage_focus: [seed, series-a]
 sector_focus: [latam, fintech, marketplaces, insurtech, mobility]

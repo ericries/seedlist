@@ -4,6 +4,7 @@ slug: andi-kazeroonian
 type: individual
 firm: outward-vc
 role: "Principal"
+tldr: "Principal at Outward VC in London, writing $750K-$1.5M checks at pre-seed and seed with a compliance-heavy fintech thesis. All six verified investments (eXate, Finverity, Vauban, Adclear, Firenze, Steward) sit in UK/European regulated-services or credit-infrastructure fintech. Distinctive re-up pattern: pre-committed to back Vauban's founders on any future venture, which led directly to Steward."
 location: "London, United Kingdom"
 stage_focus: [pre-seed, seed]
 sector_focus:

@@ -16,7 +16,7 @@ social:
 stage_focus:
 - seed
 - series-a
-status: draft
+status: published
 tldr: 'Colombian-born founder, CEO & Chairman of Nubank (NYSE: NU), the São Paulo-based
   digital bank he founded in 2013 after a Sequoia Capital tour tasked with launching
   a Brazil office. Nubank IPO''d December 2021 at a ~$45B valuation and reached ~131M

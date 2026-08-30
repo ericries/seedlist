@@ -18,7 +18,7 @@ social:
 stage_focus:
 - seed
 - series-a
-status: draft
+status: published
 tldr: 'Founder of CRED and co-founder of FreeCharge (acquired by Snapdeal in 2015
   for approximately ₹2,800 crore). One of India''s most active individual angel investors
   by deal count — publicly reported at 200+ investments — with fintech disproportionately

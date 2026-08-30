@@ -91,6 +91,7 @@ Based on 19 verified portfolio companies, Conviction's actual investment behavio
 | Distributed Spectrum | Series A ($25M, co-led) | 2025-03-18 | AI/RF Sensing/Defense | Active | [^16][^17][^18] |
 | Mithril (fka Foundry) | Seed + Series A (participated, $80M total) | 2024-03-21 | AI compute / cloud infrastructure | Active | [^3][^39][^40][^52] |
 | Onyx Security | Series A (co-led, $35M) | 2026-03-12 | AI Security / Agentic Control Plane | Active | [^32][^33][^34][^35] |
+| Onyx Security | Series B (participated, $113M at ~$640M valuation; Bessemer led; Cyberstarts, TCV, FirstMark, Vintage Investment Partners, QuantumLight, G Squared also participated) | 2026-07-29 | AI Security / Agentic Control Plane | Active | [^onyx-cv-b1][^onyx-cv-b2][^onyx-cv-b3] |
 | Listen Labs | Seed + Series A (participated, $27M combined) | 2025-04-23 | AI Customer Research | Active | [^3][^36][^37][^38] |
 | Nova Intelligence | Series A (participated, $31.5M) | 2026-05-05 | AI / Enterprise / SAP Modernization | Active | [^31] |
 | Town | Series A (participated, $55M total) | 2026-06-03 | Consumer AI / Personal Assistant | Active | [^53][^54] |
@@ -163,6 +164,12 @@ No independently sourced founder testimonials found. The firm's website describe
 [^34]: Calcalist (Ctech), "Cyber startup Onyx Security raises $35 million to control AI agents in organizations," March 2026, accessed May 2026. https://www.calcalistech.com/ctechnews/article/hjmra11x911g — Disambiguates the round structure: a $5M seed round led by Cyberstarts in 2024, followed by a $35M Series A led by Conviction on March 12, 2026. Conviction did NOT participate in the 2024 seed; Conviction's investment is the March 2026 Series A. Additional contributions from "leading angels in the cyber and AI sectors."
 
 [^35]: CIO Influence, "Onyx Security Launches with $40M in Funding to Build the Secure AI Control Plane for the Agentic Era," March 13, 2026, accessed May 2026. https://cioinfluence.com/security/onyx-security-launches-with-40m-in-funding-to-build-the-secure-ai-control-plane-for-the-agentic-era/ — Third independent confirmation of Onyx Security's $40M total funding ($35M Series A + $5M prior seed) led by Conviction (Series A) and Cyberstarts (seed); company launched March 12, 2026.
+
+[^onyx-cv-b1]: "Onyx's $113M Series B: Keeping Humans in Control as AI Becomes Smarter," Onyx company blog, July 2026. Accessed August 2026. https://www.onyx.security/blog/onyx-113m-series-b-keeping-humans-in-control-as-ai-becomes-smarter — Primary source naming Conviction among Series B participants alongside Bessemer (lead), Cyberstarts, TCV, FirstMark, Vintage Investment Partners, QuantumLight, and G Squared.
+
+[^onyx-cv-b2]: "Onyx Security Raises $113M Series B to Control Advanced AI, Quadrupling Revenue since Stealth Launch Four Months Ago," Yahoo Finance (via Business Wire), July 29, 2026. Accessed August 2026. https://finance.yahoo.com/technology/ai/articles/onyx-security-raises-113m-series-210500945.html — Tier-1 press confirmation of Conviction's Series B follow-on participation; ~$640M post-money valuation four months after emerging from stealth.
+
+[^onyx-cv-b3]: "Onyx raises $113m to keep humans in control of AI agents," FinTech Global, July 30, 2026. Accessed August 2026. https://fintech.global/2026/07/30/onyx-raises-113m-to-keep-humans-in-control-of-ai-agents/ — Third independent trade-press confirmation of Conviction as Series B participant following the March 2026 Series A co-lead.
 
 [^36]: Research Live, "Listen Labs launches with $27m funding," April 25, 2025, accessed May 2026. https://www.research-live.com/article/news/listen-labs-launches-with-27m-funding-/id/5138323 — Primary source for Listen Labs' combined $27M Seed and Series A round announced April 23, 2025, led by Bryan Schreier of Sequoia Capital with Conviction and Pear participating. Founders Florian Juengermann and Alfred Wahlforss (met at Harvard); previously built BeFake (image-generating app, 2023). Listen Labs is an AI customer research platform that runs voice/video interviews and generates reports/highlight reels.
 

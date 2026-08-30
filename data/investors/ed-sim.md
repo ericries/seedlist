@@ -4,6 +4,7 @@ slug: ed-sim
 type: individual
 firm: boldstart-ventures
 role: "Founder & Managing Partner"
+tldr: "Founder and Managing Partner of Boldstart Ventures (over $1B AUM), writing $250K-$10M 'day one' checks into technical enterprise founders at pre-seed and seed. Coined 'Inception Investing' — backing founders before they incorporate. Enterprise-only ('no consumer') with board seats spanning Snyk, Protect AI, Blockdaemon, Spectro Cloud, and SecurityScorecard. Ranked No. 1 seed investor on Business Insider's Seed 100 in 2023 and 2024."
 location: "New York, NY"
 stage_focus: [pre-seed, seed]
 sector_focus: [enterprise, developer-tools, cybersecurity, ai-infrastructure, saas]

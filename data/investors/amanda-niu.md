@@ -4,6 +4,7 @@ slug: amanda-niu
 type: individual
 firm: shine-capital
 role: "General Partner & CFO"
+tldr: "General Partner and CFO at Shine Capital in New York, writing $1M-$7M checks at pre-seed through Series A. Combines investing with running finance and operations, drawing on eight years as Kickstarter's CFO. Ranked among top seed investors for gaming, web3/crypto, and fintech; also a founding member of Level, a women's angel network backing Black women founders."
 location: "New York, NY"
 stage_focus:
 - pre-seed

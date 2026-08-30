@@ -4,6 +4,7 @@ slug: ashneer-grover
 type: individual
 firm: third-unicorn
 role: "Co-Founder, Third Unicorn (CrickPe, ZeroPe); Former Managing Director & Co-Founder, BharatPe; Shark Tank India S1 investor"
+tldr: "Co-founder and former MD of BharatPe, now running Third Unicorn (CrickPe, ZeroPe) and angel investing in Indian consumer and fintech at pre-seed and seed. Shark Tank India Season 1 panelist with ₹30L-₹1.5Cr typical checks. Publicly argues credit — not service revenue — is India's durable monetisation lever and urges founders to keep control of their cap tables."
 location: "New Delhi, India"
 stage_focus: [pre-seed, seed, early-stage]
 sector_focus: [fintech, consumer, foodtech, food-and-beverage, d2c, ev, edtech, healthtech, gaming, lending, consumer-electronics]

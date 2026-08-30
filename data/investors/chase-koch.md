@@ -4,6 +4,7 @@ slug: chase-koch
 type: individual
 firm: koch-disruptive-technologies
 role: "Founder, Koch Disruptive Technologies; Executive Vice President of Origination and Partnerships, Koch, Inc."
+tldr: "Founder of Koch Disruptive Technologies and EVP of Origination and Partnerships at Koch, Inc., writing $50M-$200M lead checks at Series B through growth. Pitches KDT as 'Koch as a lab' — offering founders access to Koch Industries' operational platform. Healthcare and supply chain dominate KDT's 67-company portfolio; personally quoted on Insightec, Valo Health, Gatik, and Sidecar Health."
 location: "Wichita, Kansas"
 stage_focus: [series-b, series-c, series-d, growth]
 sector_focus: [healthcare, semiconductors, autonomous-vehicles, supply-chain, cybersecurity, enterprise-software, energy, fintech, connectivity]

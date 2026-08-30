@@ -18,7 +18,7 @@ social:
 stage_focus:
 - seed
 - series-a
-status: draft
+status: published
 tldr: 'Finnish-American executive who led MySQL AB from 2001 to its $1B Sun acquisition
   in 2008, then ran Eucalyptus Systems (sold to HP, 2014) and HackerOne (2015–2024).
   Served as Entrepreneur-in-Residence at Benchmark Capital and Index Ventures between

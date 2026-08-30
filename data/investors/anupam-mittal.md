@@ -4,6 +4,7 @@ slug: anupam-mittal
 type: individual
 firm: people-group
 role: "Founder & CEO, People Group / Shaadi.com; Angel Investor; Shark on Shark Tank India"
+tldr: "Founder and CEO of Shaadi.com parent People Group, Shark Tank India panelist since Season 1, and long-time angel with 200+ Indian startup checks. Verified portfolio spans consumer internet (Ola, BigBasket, Rapido), fintech (MobiKwik), SaaS (Whatfix, Druva), and deep-tech (Agnikul). Uses a 'T5' / 'T10' framework — Team, TAM, Timing, cap Table, Traction — targeting 100x return potential."
 location: "Mumbai, India"
 stage_focus: [pre-seed, seed, angel]
 sector_focus: [consumer-internet, D2C, fintech, healthtech, SaaS, edtech, mobile, marketplaces]

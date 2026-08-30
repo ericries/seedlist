@@ -4,6 +4,7 @@ slug: alok-bansal
 type: individual
 firm: null
 role: "Co-Founder & Executive Vice Chairman, PB Fintech (Policybazaar / Paisabazaar); Angel Investor"
+tldr: "Co-founder of PB Fintech (Policybazaar, Paisabazaar) and Gurugram-based angel investor writing early-stage checks. Verified deals concentrated in Indian financial services adjacent to his operator expertise — P2P lending (LenDenClub), NBFC lending (Sugmya Finance), SME finance (Reevoy) — plus selective D2C and AI-hiring bets. Typically participates alongside fellow Indian fintech founder-operators."
 location: "Gurugram, India"
 stage_focus: [seed, angel, pre-series-a]
 sector_focus: [fintech, lending, insurtech, consumer-fintech, healthcare, d2c, ayurveda, jobs, ai]
