@@ -15,7 +15,7 @@ last_verified_investment:
   round: "Series A"
 social:
   linkedin: "linkedin.com/in/madelinelawrence"
-status: draft
+status: published
 last_researched: 2026-08-30
 ---
 

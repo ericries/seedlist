@@ -196,6 +196,18 @@ The following table represents 25 verified investments. This is a partial sample
 
 *Note: Despite dedicated searching, independently sourced founder testimonials beyond Brian Armstrong's are limited in publicly available sources. Parker Conrad (Rippling) has expressed gratitude to Tan and Initialized as seed investors but specific verbatim quotes could not be verified from accessible sources. Additional founder testimonials may exist behind paywalls or in private communications.*
 
+## Connections
+
+- **President & CEO, Y Combinator** (January 2023–present) — succeeded Geoff Ralston in the top role [^2]
+- **YC Partner and designer-in-residence** (2011–2015) — built Bookface (YC's internal social network) and the Demo Day website; reviewed 6,000+ YC applications [^4]
+- **Co-Founder, Initialized Capital** (2012) — co-founded alongside Alexis Ohanian (co-founder of Reddit) and Harjeet Taggar (former YC partner) [^6]
+- **Co-Founder, Posterous** (2008) — YC Summer 2008 batch; acquired by Twitter in 2012 for ~$20M [^1][^4]
+- **Employee #10, Palantir Technologies** — lead engineer and designer; designed the company's logo [^1][^3][^4]
+- **CEO coach to Brian Armstrong** (Coinbase) — provided weekly advice from Coinbase's earliest days ("You were my first CEO coach…giving me advice every week") [^19]
+- **Advisor to 35+ unicorns** — including Coinbase, DoorDash, Instacart, Twitch, and Gusto [^4]
+- **YC pipeline dependency**: 18 of Initialized Capital's 23 unicorn investments were YC graduates; ~61% of Initialized's 262-company portfolio consists of YC companies [^6]
+- **Notable co-investors on portfolio rounds** — Union Square Ventures and Andreessen Horowitz (Coinbase seed) [^24], Kleiner Perkins and Hydrazine (Rippling seed) [^25], Khosla Ventures + Rebel Fund + Y Combinator (Dili Series A) [^29][^30], DST Global and Lux Capital (Monogram seed) [^26]
+
 ## Sources
 
 [^1]: "Garry Tan," Wikipedia. https://en.wikipedia.org/wiki/Garry_Tan (attempted access March 2026; returned 403 -- facts cross-verified via YC profile and Crunchbase)

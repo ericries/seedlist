@@ -4462,10 +4462,16 @@ priority:
   type: firm
   reason: participated in Convex Series B (2026-08-04), $57M
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Spark Capital participated in Convex Series B ($57M, 2026-08-04; Insight Partners led with Etna Labs and Andreessen Horowitz co-participating) via 3 primary sources (SiliconANGLE, Crunchbase funding round profile, Convex company blog confirming Spark participation in the Nov 2025 Series A extension establishing Spark as an existing investor). Added new Convex row to spark-capital.md Portfolio with 3 new footnotes ([^convex-sp1]-[^convex-sp3]).'
 - slug: y-combinator
   type: firm
   reason: participated in HappyRobot Series C (2026-08-04), $150M
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Y Combinator participated in HappyRobot Series C ($150M at $1.2B post-money, 2026-08-04; Prysm Capital + Eurazeo co-led) via 3 primary sources (Tech.eu, The AI Insider, Tech Funding News). Added new HappyRobot row to y-combinator.md Portfolio with 3 new footnotes ([^hr1]-[^hr3]).'
 - slug: koch-disruptive-technologies
   type: firm
   reason: participated in HappyRobot Series C (2026-08-04), $150M
@@ -4484,10 +4490,16 @@ priority:
   type: firm
   reason: participated in Delightree $25M growth round (2026-08-04) led by Innovius
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Accel participated in Delightree $25M growth round on 2026-08-04 (Innovius led with Xiaolei Cong Partner; Timber Grove Ventures and Emergent also participated) via 2 primary sources (PR Newswire company press release, Tracxn funding database). Added new Delightree row to accel.md Portfolio with 2 new footnotes ([^delight1]-[^delight2]). Only 2 independent sources found — press release is the primary and Tracxn is independent; noted per the fact-spec sourcing hierarchy. Delightree is Sunnyvale-based, founded 2020, ~6,000 locations on the platform with ~20x revenue growth in the two years preceding the round.'
 - slug: kima-ventures
   type: firm
   reason: led Shiplog pre-seed (2026-08-04)
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Kima Ventures led Shiplog Pre-Seed on 2026-08-04 (€807.6K+/~$1M; Project Europe, Purple, No Label Ventures, 100IN, Station F Fund participated) via 2 primary sources (Tech.eu, EU-Startups). Tightened existing Shiplog row on kima-ventures.md from "2026" year-only to "2026-08-04" with expanded detail on lead role, currency-preserved amount, and full participant list. Added EU-Startups as a second citation [^21]. Paris-based; founders Khushi Mehta (CEO) and Mehdi Gribaa met through Entrepreneurs First; operate from Station F.'
 - slug: s3-ventures
   type: firm
   reason: led Buzz Solutions Series A (2026-08-04), $20M
@@ -4499,22 +4511,37 @@ priority:
   type: firm
   reason: led Dash Bio Series A (2026-08-03), $30M
   added: 2026-08-04
+  status: unresolvable
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: No oak-hc-ft firm profile exists in data/firms/. Round is documented on the dash-bio.md startup profile; no firm profile to update. Marked unresolvable per "profile not found"; this is a queue-add candidate (not a fact issue).'
 - slug: polychain-capital
   type: firm
   reason: participated Yellow Card strategic round (2026-08-04), $40M
   added: 2026-08-04
+  status: unresolvable
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: No polychain-capital firm profile exists in data/firms/. Round is documented on the yellow-card.md startup profile; no firm profile to update. Marked unresolvable per "profile not found"; this is a queue-add candidate (not a fact issue).'
 - slug: blockchain-capital
   type: firm
   reason: participated Yellow Card strategic round (2026-08-04), $40M
   added: 2026-08-04
+  status: unresolvable
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: No blockchain-capital firm profile exists in data/firms/. Round is documented on the yellow-card.md startup profile; no firm profile to update. Marked unresolvable per "profile not found"; this is a queue-add candidate (not a fact issue).'
 - slug: sc-ventures
   type: firm
   reason: participated Yellow Card strategic round (2026-08-04), $40M (first bank CVC)
   added: 2026-08-04
+  status: unresolvable
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: No sc-ventures firm profile exists in data/firms/. Round is documented on the yellow-card.md startup profile; no firm profile to update. Marked unresolvable per "profile not found"; this is a queue-add candidate (not a fact issue).'
 - slug: sony-innovation-fund
   type: firm
   reason: participated Yellow Card strategic round (2026-08-04), $40M
   added: 2026-08-04
+  status: unresolvable
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: No sony-innovation-fund firm profile exists in data/firms/. Round is documented on the yellow-card.md startup profile; no firm profile to update. Marked unresolvable per "profile not found"; this is a queue-add candidate (not a fact issue).'
 - slug: lachy-groom
   type: individual
   reason: led Ambrook Series B (2026-08-04), $30M
@@ -4526,6 +4553,9 @@ priority:
   type: firm
   reason: participated Ambrook Series B (2026-08-04), $30M
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Thrive Capital participated in Ambrook Series B ($30M, 2026-08-04; Lachy Groom led with Thomson Reuters Ventures, Field Ventures, and Cameron Ventures also participating) via 3 primary sources (Alex Konrad/Upstarts Media, Ambrook company Series B announcement, Techmeme aggregator). Added new Ambrook row to thrive-capital.md Portfolio with 3 new footnotes ([^ambrook-tc1]-[^ambrook-tc3]). Also backfilled ambrook.md startup frontmatter to add thrive-capital and lachy-groom slugs for cross-referencing.'
 - slug: meteora-capital
   type: firm
   reason: 'sole investor Fusemachines convertible + warrants (2026-08-04), up to $10.66M. Fact-spec sweep 2026-08-05: no meteora-capital firm profile exists yet (queue item, not fact issue). Verified Fusemachines row via 4 primary sources: StockTitan, GlobeNewswire, Manila Times syndication, AND SEC EDGAR Form 8-K exhibit 99.1 (primary regulatory filing). Added SEC 8-K as [^4] to fusemachines.md. Confirmed: $2.5M convertible note + 2.05M warrants at $4.20/share = up to $10.66M total, no reset/ratchet provisions, from existing investor Meteora Capital.'

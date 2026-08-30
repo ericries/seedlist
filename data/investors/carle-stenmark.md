@@ -15,7 +15,7 @@ last_verified_investment:
   round: "Series A"
 social:
   linkedin: "linkedin.com/in/carlestenmark"
-status: draft
+status: published
 last_researched: 2026-08-30
 ---
 
@@ -83,9 +83,7 @@ On Scotch and the beverage-alcohol retail market (Series A, June 2026):
 
 > "The beverage alcohol market is nearly $250 billion and, despite that, is still operating on systems built in the 1970s with on-prem servers." [^5]
 
-On how the Scotch team approached market strategy — a rare direct look at his evaluation heuristic:
-
-> "Scotch modernizes one of the last major categories of retail by solving enterprise-level complexity that competing startups overlooked." — Carle Stenmark, paraphrased by Crunchbase News on the Series A. [^5]
+On how the Scotch team approached market strategy — a rare direct look at his evaluation heuristic. Per Crunchbase News' Series A coverage, Stenmark said Scotch modernizes one of the last major categories of retail by solving enterprise-level complexity that competing startups overlooked [^5].
 
 ## What Founders Say
 

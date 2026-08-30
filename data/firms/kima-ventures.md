@@ -133,7 +133,7 @@ The portfolio below represents a sample of Kima's 1,273+ investments. Only compa
 | Klaxoon | Seed | ~2015 | Enterprise software | Active [^13] |
 | Livestorm | Seed | ~2017 | Enterprise software | Active [^13] |
 | Sillage | Pre-Seed (lead) | 2026 | GTM/sales AI | Active [^19] |
-| Shiplog | Pre-Seed (lead) | 2026 | AI/customer intelligence | Active [^20] |
+| Shiplog | Pre-Seed (lead, €807.6K+/~$1M; Project Europe, Purple, No Label Ventures, 100IN, Station F Fund participated) | 2026-08-04 | AI / Customer Intelligence / B2B SaaS | Active [^20][^21] |
 
 *Note: Years marked with "~" indicate the company's approximate founding year used as a proxy when the exact Kima investment date could not be independently verified. This table represents approximately 41 of 1,273+ known investments (~3%). The vast majority of Kima's investments are in early-stage companies that do not receive significant press coverage, making comprehensive portfolio documentation exceptionally difficult for a fund of this volume.*
 
@@ -180,4 +180,6 @@ No independently sourced founder testimonials found. Kima Ventures operates a po
 [^17]: "BeReal closed a $30 million capital funding round backed by a16z, DST, Accel and Kima Ventures," Nordic 9, accessed March 2026. https://nordic9.com/news/bereal-closed-a-30-million-capital-funding-round-backed-by-a16z-dst-accel-and-kima-ventures/
 [^18]: Kima Forward (payitforward.vc), accessed March 2026. https://payitforward.vc/
 [^19]: Kima Ventures, "Sillage announces its $2M pre-seed," LinkedIn post, April 2026. https://www.linkedin.com/posts/kima-ventures_sillage-announces-its-2m-pre-seed-to-activity-7453013629819486208-zuHG
-[^20]: "Shiplog raises $1M to build AI customer intelligence for B2B SaaS," Tech.eu, August 4, 2026. Accessed August 2026. https://tech.eu/2026/08/04/shiplog-raises-1m-to-build-ai-customer-intelligence-for-b2b-saas/
+[^20]: "Shiplog raises $1M to build AI customer intelligence for B2B SaaS," Tech.eu, August 4, 2026. Accessed August 2026. https://tech.eu/2026/08/04/shiplog-raises-1m-to-build-ai-customer-intelligence-for-b2b-saas/ — Primary European tech press confirming Shiplog's Pre-Seed announced August 4, 2026 led by Kima Ventures with Project Europe, Purple, No Label Ventures, 100IN, and Station F Fund participating. Paris-based; founders Khushi Mehta (CEO) and Mehdi Gribaa met through Entrepreneurs First; operate from Station F.
+
+[^21]: "Paris-based Shiplog raises over €807.6K to build agentic customer intelligence for personalisation at scale," EU-Startups, August 4, 2026. Accessed August 2026. https://www.eu-startups.com/2026/08/paris-based-shiplog-raises-over-e807-6k-to-build-agentic-customer-intelligence-for-personalisation-at-scale/ — Second independent primary tech press source confirming €807.6K+ Pre-Seed with Kima Ventures leading and the same participant list (Project Europe, Purple, No Label Ventures, 100IN, Station F Fund).

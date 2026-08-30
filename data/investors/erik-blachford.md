@@ -148,6 +148,23 @@ Travis Pittman, CEO of TourRadar, on Blachford's involvement in the Series C (Ju
 
 Additionally, industry reporting noted that Blachford's early angel involvement in TourRadar was critical to the company's ability to attract Silicon Valley investors who would not ordinarily look at an Austria-based startup: "without Erik on their side it would have been much more challenging to get such a Series C investment." [^31]
 
+## Connections
+
+- **Board member, Zillow** (May 2005–present) — long-tenured board seat dating to Zillow's founding era [^15]
+- **Board member, Hipcamp** (March 13, 2025–present) [^8]
+- **Former board member, Peloton** (April 2015–February 2022) — via TCV Venture Partner role [^6][^25]
+- **Former board member, SiteMinder** (December 2013–January 2020) — via TCV [^6][^23]
+- **Former board member, TourRadar** (July 2018–March 2020) — via TCV Series C [^6][^12]
+- **Former board member, Liftopia** (December 2011–August 2020) [^6][^16]
+- **Former board member, Varsity Tutors** (2015) — via TCV Series B [^26]
+- **Former Executive Chairman, Couchsurfing** (2014) [^3]
+- **Venture Partner, Technology Crossover Ventures (TCV)** (March 2011–September 2021) — institutional deal-flow channel for a decade [^5][^6]
+- **Former President & CEO, Expedia and IAC Travel** — oversaw Expedia, Hotels.com, Hotwire, Classic Custom Vacations, and Interval International [^2]
+- **Former CEO, Butterfield & Robinson and TerraPass** [^2]
+- **Travel angel "fab five"** — informal co-investor cohort with Rich Barton (Zillow/Expedia), Brad Gerstner (Altimeter), Sam Shank (HotelTonight), and Hugh Crean [^9]
+- **Frequent co-investors** — First Round Capital (Liftopia, HotelTonight) [^32]; Battery Ventures and Accel Partners (HotelTonight Series A) [^32]; Madrona Ventures (Otto seed, plus Farecast) [^4][^30][^33]; Ignition Partners (Hipmunk Series A) [^17]
+- **Founder, Blachford Capital LLC** (2021–present) — independent investing vehicle for online travel, health and fitness, and clean energy [^7]
+
 ## Sources
 
 [^1]: Arête Index, "Erik Blachford investor," accessed March 2026. https://www.areteindex.com/angels/erik-blachford/

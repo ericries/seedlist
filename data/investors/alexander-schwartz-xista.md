@@ -15,7 +15,7 @@ last_verified_investment:
   round: "Pre-Seed"
 social:
   linkedin: "linkedin.com/in/alexander-schwartz"
-status: draft
+status: published
 last_researched: 2026-08-30
 ---
 

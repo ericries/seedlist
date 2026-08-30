@@ -26482,7 +26482,7 @@ queue:
 - name: Carle Stenmark
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: VMG Partners
   discovered_from: scotch
@@ -27936,7 +27936,7 @@ queue:
 - name: Alexander Schwartz
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: XISTA Science Ventures
   discovered_from: invisible-light-labs
@@ -28559,7 +28559,7 @@ queue:
 - name: Madeline Lawrence
   type: individual
   priority: high
-  status: in_progress
+  status: completed
   added: '2026-03-17'
   firm: Aikido Security
   discovered_from: willem-delbare
@@ -30859,7 +30859,7 @@ queue:
 - name: Anshu Prasher
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Whiteboard Capital
   discovered_from: sandeep-tandon
@@ -32627,7 +32627,7 @@ queue:
 - name: Chirag Shah
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Define Ventures
   discovered_from: lynne-okeefe
@@ -32636,7 +32636,7 @@ queue:
 - name: Michael Wert
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Define Ventures
   discovered_from: lynne-okeefe

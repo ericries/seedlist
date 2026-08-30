@@ -217,6 +217,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Socket | Series C (led, $60M at $1B val) | 2026-05-20 | Cybersecurity / Software Supply Chain | Private [^47] |
 | NewLimit | Series C (participated, $435M at $3.1B post-money) | 2026-06-02 | Biotech / Longevity / Cell Reprogramming | Private [^48][^49][^50] |
 | Cadence (Care) | Series C (participated, $100M; Spark Capital led) | 2026-06-23 | Healthcare / Clinical AI / Chronic Care | Private [^57][^58][^59] |
+| Ambrook | Series B (participated, $30M; Lachy Groom led with Thomson Reuters Ventures, Field Ventures, and Cameron Ventures also participating) | 2026-08-04 | Fintech / Vertical SaaS / Accounting / Agriculture / SMB | Private ($59M total raised; NY-based; 8,000 farms/businesses) [^ambrook-tc1][^ambrook-tc2][^ambrook-tc3] |
 
 *Note: This table represents approximately 40% of Thrive's ~199 known investments. Investment years use founding year as proxy where specific investment date is unknown, marked with "~YYYY" or "~YYYY (founded)". Thrive's strategy of accumulating positions through secondary/tender offers means some "growth" stage investments began as smaller positions in earlier rounds.*
 
@@ -403,6 +404,12 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^58]: Cadence website, AI-powered Proactive Care Engine post linking to the Series C announcement, accessed June 2026. https://www.cadence.care/post/cadence-launches-ai-powered-proactive-care-engine-bringing-advanced-primary-care-management-to-medicare-patients-nationwide — Cross-reference to the June 23, 2026 Spark-led Series C announcement listing Thrive Capital as a participant.
 
 [^59]: Business Wire newsroom listing for funding announcements (Cadence Series C announcement dated June 23, 2026), accessed June 2026. https://www.businesswire.com/newsroom/subject/funding — Independent press wire confirmation of June 23, 2026 Cadence Series C with Thrive Capital named among participating investors.
+
+[^ambrook-tc1]: Alex Konrad (Upstarts Media), "Startup Ambrook, QuickBooks Killer For Farms, Raises $30M Series B," August 4, 2026. Accessed August 2026. https://www.upstartsmedia.com/p/ambrook-raises-30m-series-b-real-economy — Primary tier-1 tech press confirming Ambrook's $30M Series B closed August 4, 2026 led by Lachy Groom with Thomson Reuters Ventures, Thrive Capital, Field Ventures, and Cameron Ventures participating. NY-based; founded 2020; $59M total; 8,000 farms and rural businesses on platform (up from 2,500 the prior year); expanding into trucking, construction, and real estate.
+
+[^ambrook-tc2]: Ambrook Series B company announcement, August 4, 2026. Accessed August 2026. https://ambrook.com/series-b — Primary company blog post confirming the Series B round size, lead investor, and participants including Thrive Capital.
+
+[^ambrook-tc3]: Techmeme, "Ambrook, which offers accounting software, raised a $30M Series B led by Lachy Groom," August 4, 2026. Accessed August 2026. https://www.techmeme.com/260804/p26 — Third independent tech-press aggregator confirming Ambrook's $30M Series B on August 4, 2026 with Thrive Capital among the named participants.
 
 [^60]: Maginative, "Physical Intelligence Raises $70M to Build AI-Powered Robots for Any Application," March 12, 2024. Accessed July 2026. https://www.maginative.com/article/physical-intelligence-raises-70m-to-build-ai-powered-robots-for-any-application/ — Primary contemporaneous confirmation of the March 12, 2024 seed round: $70M led by Thrive Capital with participation from Khosla Ventures, Lux Capital, OpenAI, and Sequoia Capital. Founded by Karol Hausman (CEO, ex-Google Brain), Sergey Levine (Chief Scientist, UC Berkeley), Chelsea Finn (Stanford), and Lachy Groom.
 

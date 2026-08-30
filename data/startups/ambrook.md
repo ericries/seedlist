@@ -15,8 +15,16 @@ sector:
   - ai
 stage_latest: Series B
 total_raised: $59M
-investors: []
-firms: []
+investors:
+  - slug: lachy-groom
+    round: series-b
+    year: 2026
+    date: 2026-08-04
+firms:
+  - slug: thrive-capital
+    round: series-b
+    year: 2026
+    date: 2026-08-04
 founders:
   - name: Mackenzie Burnett
     role: CEO & Co-Founder

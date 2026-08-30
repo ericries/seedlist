@@ -181,6 +181,17 @@ On 2024 performance (from X/Twitter, January 2025):
 
 No independently sourced founder testimonials found. FJ Labs' website does not feature founder testimonials, and dedicated searches across Twitter/X and press sources did not surface verifiable direct quotes from portfolio company founders about their experience working with Fabrice Grinda or FJ Labs.
 
+## Connections
+
+- **Co-Founder & Managing Partner, FJ Labs** (2013) — co-founded with longtime friend and fellow entrepreneur José Marín [^5]
+- **Co-Founder & former CEO, OLX** (2006–2012) — co-founded with Alec Oxenford; grew to 10,000+ employees and 300M monthly visitors before Naspers acquisition [^3][^4]
+- **Co-Founder, Zingy** (2001–2004) — mobile media/ringtones; sold in June 2004 for $80M [^3]
+- **Co-Founder, Aucland** (1998) — one of the three largest online auction platforms in Europe; raised $18M from Arnault Capital in 1999 [^3]
+- **Former Management Consultant, McKinsey & Company** — New York office, 1996–1998 [^2]
+- **Frequently named co-investors on FJ Labs rounds** — Accel and Insight Partners (Vinted Series B) [^20]; Altos Ventures (Clutch Series D), FirstMark and Craft Ventures (Pickle Series A), Notable Capital and Wellington (Quince Series C) [^9]
+- **Deal-flow network composition** — 32% of deals reviewed come from other VCs (and 48% of actual FJ Labs investments are VC-referred); 32% from FJ Labs' entrepreneur network; 32% from cold inbound; 4% from FJ Labs outbound [^8][^11]
+- **Investment cadence** — invests in ~1% of deals reviewed (~3 new investments per week); 189 startup investments made in 2024 alone [^8][^26]
+
 ## Sources
 
 [^1]: Fabrice Grinda, "About me," fabricegrinda.com, accessed March 2026. https://fabricegrinda.com/about-me/

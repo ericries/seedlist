@@ -210,6 +210,18 @@ Despite claiming broad sector coverage, the portfolio skews heavily toward cyber
 
 *Note: The Oz Alon, Tomer Weingarten, and Eyal Feldman quotes sourced from the UpWest website are firm-curated testimonials. The Oz Alon quote from the Alejandro Cremades interview is independently sourced.*
 
+## Connections
+
+- **Founding Partner, UpWest** (2012) — co-founded with Shuly Galili [^3][^4]
+- **Former VP Operations Management, Yahoo!** (~2009–2011) — drove business for the tech infrastructure organization [^7]
+- **Former Corporate Development lead, Yahoo!** (2005–~2009) — led the FoxyTunes acquisition (Yahoo!'s first Israel-based startup acquisition) and helped establish Yahoo!'s Haifa R&D center [^6][^7]
+- **Former Consultant, Boston Consulting Group** (New York) — advised Fortune 500 companies post-Wharton MBA [^6][^7]
+- **Introduced Tomer Weingarten (SentinelOne) to Dan Scheinman** — Scheinman also seed-invested in Zoom and remains on SentinelOne's board [^17]
+- **Frequent follow-on co-investors on UpWest portfolio rounds** — Tiger Global (HoneyBook), Insight Partners (SentinelOne), SignalFire (Stampli) [^3][^11]
+- **Sourcing pipeline** — 90% of UpWest deal flow originates in Israel and 10% in the U.S.; the firm reviews ~1,000 startups annually and invests in 6–8 per year [^3]
+- **Executive/mentor network** — Palo Alto accelerator program historically drew mentors from PayPal, Facebook, and Dropbox [^9][^10]
+- **Founding-team relationship, Shuly Galili** — decade-long co-founder partnership; jointly raised four UpWest funds (Fund I ~$2M through Fund IV $70M) [^3][^11][^12]
+
 ## Sources
 
 [^1]: UpWest, "Our Portfolio," accessed March 2026. https://upwest.vc/portfolio/

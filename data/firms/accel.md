@@ -241,6 +241,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Paper | Series A ($34M, co-led with ICONIQ; Designer Fund and angels participated; Daniel Levine led) | 2026-07-23 | AI / Design Tools / Developer Tools | [^paper1][^paper2] |
 | AegisAI | Series A ($36M, participated; Battery Ventures led; Foundation Capital also) | 2026-07-23 | AI / Cybersecurity / Email Security | [^aegisa1][^aegisa2] |
 | depthfirst | Series A ($40M, led — Sara Ittelson partner; Alt Capital, BoxGroup, Liquid 2 Ventures, Mantis VC, SV Angel participated; angels Jeff Dean, Kirsten Green, Colin Evans, Logan Kilpatrick, Julian Schrittwieser) | 2026-01-14 | AI / Cybersecurity | [^depthfirst1][^depthfirst2][^depthfirst3] |
+| Delightree | Growth ($25M, participated; Innovius led; Timber Grove Ventures and Emergent also participated) | 2026-08-04 | Vertical SaaS / Franchise / Frontline / AI Agents | [^delight1][^delight2] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -507,6 +508,10 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^depthfirst2]: Sara Ittelson, "Accel Leads depthfirst's Series A: Securing the World's Software," Accel Noteworthies, January 14, 2026. Accessed August 2026. https://www.accel.com/news/accel-leads-depthfirsts-series-a-securing-the-worlds-software — Names Sara Ittelson as the Accel partner leading the deal.
 
 [^depthfirst3]: TechCrunch, "AI security firm, depthfirst, announces $40 million Series A," January 14, 2026. Accessed August 2026. https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/ — Independent tier-1 press confirmation of $40M Series A led by Accel on 2026-01-14.
+
+[^delight1]: PR Newswire, "Delightree Raises $25M to Build the Agentic Operating System for Franchise and Multi-Unit Brands," August 4, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/delightree-raises-25m-to-build-the-agentic-operating-system-for-franchise-and-multi-unit-brands-302842431.html — Primary press release confirming Delightree's $25M growth round on August 4, 2026 led by Innovius with Accel, Timber Grove Ventures, and Emergent among named participants. Sunnyvale-based; founded 2020; ~6,000 locations on the platform; revenue grew ~20x in the two years preceding the round.
+
+[^delight2]: Tracxn, "Delightree – 2026 Funding Rounds & List of Investors," accessed August 2026. https://tracxn.com/d/companies/delightree/__5aeEy0JctlI8KnppjGFm9iuv1ip7FXS0lFUuMxtDhlU/funding-and-investors — Independent third-party funding database confirming Accel among Delightree's investors and the August 4, 2026 growth round.
 
 [^131]: Alexandr Wang, "Scale Raises $4.5M Series A Led by Accel," Scale AI Blog, July 16, 2017. Accessed July 2026. https://scale.com/blog/announcing-our-series-a-with-accel — Primary company announcement. States "we have raised a $4.5 million Series A round of funding led by Accel. Along with this funding, Accel's Daniel Levine has joined Scale's board."
 

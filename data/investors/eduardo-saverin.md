@@ -183,6 +183,19 @@ The following table lists selected investments across B Capital and Saverin's pe
 
 Note: The above testimonials appear on B Capital's website ("How We Help" page) and are therefore firm-curated. The page includes a disclosure that "testimonial providers are portfolio company founders with potential incentives to provide favorable statements about B Capital" [^20]. No independently sourced founder testimonials about Saverin or B Capital were found through dedicated searching of Twitter, podcasts, Product Hunt, or press coverage.
 
+## Connections
+
+- **Co-Founder, Facebook** (2004) — first CFO and business manager; co-founded with Mark Zuckerberg at Harvard [^1][^3]
+- **Co-Founder & Co-CEO, B Capital Group** (2015) — co-founded with Raj Ganguly, formalized after collaborating on smaller investments via Velos Partners from 2012 [^4][^6]
+- **Board member, Ninja Van** — Southeast Asian logistics unicorn [^17]
+- **Board member, Carro** — automotive marketplace, Southeast Asia [^17]
+- **Board member, 99.co** — Singapore-based real-estate marketplace [^17]
+- **Board member, Kopi Kenangan** — Indonesian F&B chain [^17]
+- **Board member, Mswipe** — Indian fintech/payments company [^17]
+- **BCG strategic partnership** — B Capital's differentiated deal-flow and value-add channel is a formal partnership with Boston Consulting Group (BCG), embedded from B Capital's 2015 founding and 2018 $360M fund close [^4][^6][^16]
+- **Personal angel portfolio (pre- and concurrent with B Capital)** — Qwiki, Jumio, ShopSavvy, 99.co, Hopscotch, and Anideo [^3][^5][^17]
+- **Harvard network** — President of the Harvard Investment Association and Alpha Epsilon Pi fraternity member during his undergraduate years; Raj Ganguly is a fellow Harvard alumnus (MBA) whom Saverin met through Singapore-based mutual connections [^1][^3][^4]
+
 ## Sources
 
 [^1]: "Eduardo Saverin," EBSCO Research Starters, accessed March 2026. https://www.ebsco.com/research-starters/biography/eduardo-saverin
