@@ -4021,42 +4021,72 @@ priority:
   type: firm
   reason: participated in Intropy Seed (2026-07-30), EUR 9.5M
   added: 2026-07-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified General Catalyst participated as existing investor in Intropy $11M / €9.5M Seed on 2026-07-30 (Felix Capital led; Quiet Capital new; firstminute capital existing) via 3 primary sources — Tech.eu [^gc-intropy-1], Vestbee [^gc-intropy-2], EU-Startups [^gc-intropy-3]. Added new Intropy portfolio row with founders (YihKai Teh CTO, Franziska Kirschner ex-Tractable) and 3 citations.'
 - slug: quiet-capital
   type: firm
   reason: participated in Intropy Seed (2026-07-30)
   added: 2026-07-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Quiet Capital participated as new investor in Intropy $11M / €9.5M Seed on 2026-07-30 (Felix Capital led; General Catalyst and firstminute capital existing) via 3 primary sources — Tech.eu [^qc-intropy-1], Vestbee [^qc-intropy-2], EU-Startups [^qc-intropy-3]. Added new Intropy portfolio row with founders and 3 citations.'
 - slug: greenoaks
   type: firm
   reason: led Simile Series B (2026-07-30), $200M
   added: 2026-07-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Greenoaks led Simile $200M Series B at $2B post-money on 2026-07-30 (Index Ventures, Hanabi, Bain Capital Ventures, A*, Factory, Definition, CVS Health Ventures participating) via 3 primary sources — TechCrunch [^gr-simile1], TheSaaSNews [^gr-simile2], Fundraise Insider [^gr-simile3]. Added new Simile portfolio row with 3 citations.'
 - slug: index-ventures
   type: firm
   reason: participated in Simile Series B (2026-07-30), $200M
   added: 2026-07-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Index Ventures participated in Simile $200M Series B at $2B on 2026-07-30 (Greenoaks led) via 3 primary sources — TechCrunch [^iv-simb1], TheSaaSNews [^iv-simb2], Fundraise Insider [^iv-simb3]. Index led the prior Feb 2026 $100M Series A. Added new Series B row with 3 citations.'
 - slug: hanabi-capital
   type: firm
   reason: participated in Simile Series B (2026-07-30), $200M
   added: 2026-07-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Hanabi Capital participated in Simile $200M Series B at $2B on 2026-07-30 (Greenoaks led) via 3 primary sources — TechCrunch [^hanabi-simb1], TheSaaSNews [^hanabi-simb2], Fundraise Insider [^hanabi-simb3]. Added new Series B row alongside the existing Series A row with 3 citations.'
 - slug: ribbit-capital
   type: firm
   reason: participated in Antora Energy Series C (2026-07-30), $550M
   added: 2026-07-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Ribbit Capital participated as new investor in Antora Energy $550M Series C on 2026-07-30 (G2 Venture Partners and Eclipse co-led; Salesforce Ventures, Activate Capital, John Doerr, Westly Group, StepStone Group, Liberty Mutual Strategic Ventures also new; Decarbonization Partners, Impact Science Ventures, Trust Ventures, BEV, Lowercarbon Capital returning) via 3 primary sources — Crunchbase News [^rb-antora1], Energy-Storage.News [^rb-antora2], Pulse 2.0 [^rb-antora3]. Added new Antora portfolio row with 3 citations.'
 - slug: lowercarbon-capital
   type: firm
   reason: participated in Antora Energy Series C (2026-07-30), $550M
   added: 2026-07-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Lowercarbon Capital participated as returning existing investor in Antora Energy $550M Series C on 2026-07-30 (G2 Venture Partners and Eclipse co-led) via 3 primary sources — Crunchbase News [^lcc-antora-c1], Energy-Storage.News [^lcc-antora-c2], Pulse 2.0 [^lcc-antora-c3]. Added new Series C portfolio row alongside the existing 2022 Series A row.'
 - slug: breakthrough-energy-ventures
   type: firm
   reason: participated in Antora Energy Series C (2026-07-30), $550M
   added: 2026-07-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Breakthrough Energy Ventures participated as returning existing investor in Antora Energy $550M Series C on 2026-07-30 (G2 Venture Partners and Eclipse co-led) via 3 primary sources — Crunchbase News [^bev-antora-c1], Energy-Storage.News [^bev-antora-c2], Pulse 2.0 [^bev-antora-c3]. Added new Series C portfolio row alongside the pre-existing vague "Early Stage ~2021" row (kept for historical reference).'
 - slug: john-doerr
   type: investor
   reason: participated in Antora Energy Series C (2026-07-30), $550M
   added: 2026-07-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified John Doerr participated with a personal check in Antora Energy $550M Series C on 2026-07-30 (G2 Venture Partners and Eclipse co-led) via 3 primary sources — Crunchbase News [^jd-antora-c1], Energy-Storage.News [^jd-antora-c2], Pulse 2.0 [^jd-antora-c3]. Added new Antora Energy portfolio row and updated last_verified_investment from Isometric (2026-06-22) to Antora Energy (2026-07-30). 3 new footnotes added.'
 - slug: first-round-capital
   type: firm
   reason: led Ellis seed (2026-07-30), $10M
   added: 2026-07-31
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified First Round Capital led Ellis $10M+ seed on 2026-07-30 (645 Ventures, Harlem Capital, Khosla Ventures, Slow Ventures, Wilshire Lane, Westbound, Collide Capital, Gallery Ventures + individuals Mellody Hobson, Josh Kushner, Immad Akhund). Cross-verified via 3 primary sources — Yahoo Finance/BusinessWire, Pulse 2.0, Alternative Credit Investor. Profile already had the Ellis row fully documented with 3 citations ([^ellis-fr1] BusinessWire, [^ellis-fr2] TechCrunch, [^ellis-fr3] Alternative Credit Investor). No edits needed — row is accurate as-is.'
 - slug: khosla-ventures
   type: firm
   reason: participated in Ellis seed (2026-07-30), $10M

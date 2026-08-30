@@ -3,9 +3,9 @@ check_size: $10M–$150M (via Kleiner Perkins); $10M individual (e.g., Complete 
 firm: kleiner-perkins
 last_researched: 2026-03-18
 last_verified_investment:
-  company: Isometric
-  date: ~2026
-  round: Series A
+  company: Antora Energy
+  date: 2026-07-30
+  round: Series C
 location: Menlo Park, CA
 name: John Doerr
 role: Chairman
@@ -240,3 +240,7 @@ No independently sourced founder testimonials about working directly with John D
 [^34]: UKTN, "Isometric raises over £30m to expand AI certification platform," June 22, 2026. Accessed June 2026. https://www.uktech.news/ai/isometric-raises-over-30m-to-expand-ai-certification-platform-20260622 — Independent UK tech press confirmation of John Doerr's participation.
 [^35]: Carbon Herald, "Isometric Secures $40M To Bring AI Certification Beyond Carbon Markets," June 22, 2026. Accessed June 2026. https://carbonherald.com/isometric-secures-40m-to-bring-ai-certification-beyond-carbon-markets/ — Third independent source confirming John Doerr in the Isometric Series A.
 [^36]: Isometric, "Isometric raises $40M to bring agentic certification to the industrial economy," June 22, 2026. Accessed June 2026. https://isometric.com/writing-articles/isometric-raises-40m-to-bring-agentic-certification-to-the-industrial-economy — Isometric's own press release naming John Doerr as a personal participant alongside Walter Kortschak.
+
+[^jd-antora-c1]: Crunchbase News, "Battery Storage Startup Antora Closes $550M Series C In One Of Year's Largest Cleantech Rounds," July 30, 2026. Accessed August 2026. https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/ — Names John Doerr as a new participant in Antora Energy's $550M Series C co-led by G2 Venture Partners and Eclipse on 2026-07-30.
+[^jd-antora-c2]: Energy-Storage.News, "Antora Energy closes US$550 million Series C for thermal batteries," July 30, 2026. Accessed August 2026. https://www.energy-storage.news/antora-energy-closes-us550-million-series-c-to-scale-us-thermal-battery-deployment/ — Independent trade-press confirmation of John Doerr as a new participant alongside Ribbit Capital, Salesforce Ventures, Activate Capital, Westly Group, StepStone Group, and Liberty Mutual Strategic Ventures.
+[^jd-antora-c3]: Pulse 2.0, "Antora Energy Raises $550 Million In Series C Funding Co-Led By G2 Venture Partners And Eclipse," accessed August 2026. https://pulse2.com/antora-energy-raises-550-million-in-series-c-funding-co-led-by-g2-venture-partners-and-eclipse/ — Third independent confirmation of John Doerr as a new participant in the $550M Series C.
