@@ -4,6 +4,7 @@ slug: mohit-gupta
 type: individual
 firm:
 role: "Co-founder & CEO, Lyskraft; Angel Investor"
+tldr: "Indian consumer-internet operator turned angel investor. Former Zomato CEO – Food Delivery (co-founder through 2022 IPO), previously COO/CMO at MakeMyTrip through its 2010 NASDAQ IPO; now co-founder/CEO of premium fashion startup Lyskraft. Writes seed/angel checks into Indian D2C, consumer, healthtech, and fintech — verified investments include Ultrahuman, Scripbox, Park+, Wellopia, Openhouse, Elivaas — often alongside operator-angels like Kunal Shah and Naveen Kukreja."
 location: "Gurugram, India"
 stage_focus: [seed, pre-seed]
 sector_focus: [consumer, d2c, fashion, healthtech, fintech, travel, hospitality]

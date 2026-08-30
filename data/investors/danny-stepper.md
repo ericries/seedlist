@@ -4,6 +4,7 @@ slug: danny-stepper
 type: individual
 firm: taste-tomorrow-ventures
 role: "Co-Founder & Managing Partner, Taste Tomorrow Ventures; Co-Founder & CEO, LA Libations"
+tldr: "Co-founder and Managing Partner of Taste Tomorrow Ventures, a $30M LA-based fund launched in 2025 that backs early-stage food and beverage brands with under $20M in revenue. Also runs LA Libations, the beverage incubator behind BODYARMOR, Core Water, ZOA, PLEZI, and BERO. Portfolio skews ready-to-drink beverages (50%) and better-for-you snacks (38%), often paired with celebrity or category-veteran founders and LA Libations' retail-placement channel."
 location: "El Segundo, California"
 stage_focus: [seed, series-a, early-stage]
 sector_focus: [beverages, food-brands, cpg, better-for-you-snacks, functional-beverages, consumer-brands]

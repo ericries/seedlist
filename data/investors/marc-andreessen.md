@@ -214,6 +214,30 @@ This table covers investments where Marc Andreessen had personal involvement (an
 
 *Note: Founder testimonials about Andreessen specifically (as distinct from a16z the firm or Ben Horowitz) are relatively scarce in public sources. The Biswas and Younis quotes above are the strongest independently sourced founder quotes about Andreessen's personal value as a board member and investor. The Ghodsi quote references both Marc and Ben together.*
 
+## Connections
+
+**Current public-company board seats:**
+- **Board member, Meta Platforms** (since 2008) — first joined the Facebook board following his 2005 personal $500K angel investment [^5][^6]
+- **Board member, Coinbase** (since December 2020) [^7]
+- **Board member, Samsara** (since May 2015) — a16z was lead investor in Samsara's $25M first round; Andreessen joined the board at inception [^8][^28]
+
+**Private-company board seats (via a16z):**
+- **Board member, Applied Intuition** — a16z led the September 2018 Series A; Andreessen joined the board ("I'm really excited to personally be on their board") [^18][^29]
+- **Board member, Dialpad, Flow, Golden, Honor, OpenGov, Simple Things, TipTop Labs** (a16z portfolio) [^9]
+
+**Co-founder / long-time partner:**
+- **Co-Founder & General Partner, Andreessen Horowitz** (2009-present) — co-founded with Ben Horowitz, whom he partnered with at Netscape, Loudcloud/Opsware, and as angel investors (2005-2009, ~$80M across 45 startups including Facebook, Twitter, LinkedIn, Digg) [^1][^2][^5]
+
+**Prior operating companies (co-founder):**
+- **Netscape Communications** (co-founded 1994 with Jim Clark) — Netscape's 1995 IPO ignited the commercial internet era; AOL acquired for ~$4.2B in 1998 [^1]
+- **Loudcloud / Opsware** (co-founded 1999 with Ben Horowitz, Tim Howes, In Sik Rhee) — HP acquired for $1.6B in 2007 [^1]
+- **Ning** — social networking platform, sold to Mode Media for reported $150M in 2011 [^1]
+
+**Personal / political investments:**
+- **California Forever, Prospera, Pronomos Capital** — personal investments in special-economic-zone / new-city ventures [^1]
+
+**Top co-investors** (through a16z and personal deals): Sequoia Capital, Benchmark, Greylock, Founders Fund, Coatue, Tiger Global, and Silver Lake appear repeatedly across Andreessen's board-portfolio rounds (Meta, Coinbase, Samsara, Applied Intuition) [^2][^18][^20]
+
 ## Sources
 
 [^1]: "Marc Andreessen." Wikipedia. https://en.wikipedia.org/wiki/Marc_Andreessen. Accessed March 2026.

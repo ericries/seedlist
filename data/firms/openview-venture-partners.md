@@ -5,6 +5,7 @@ type: firm
 website: "https://openviewpartners.com"
 location: "Boston, MA"
 founded: 2006
+tldr: "Boston expansion-stage firm founded 2006 by Scott Maxwell (ex-Insight Venture Partners) with $2.4B raised across seven funds (Fund VII: $570M in 2023). Focused exclusively on B2B SaaS companies with early product-market fit — Series B through growth in enterprise SaaS, developer tools, infrastructure, vertical SaaS, and cybersecurity. In December 2023 OpenView suspended new investments in Fund VII, returning ~75% of the fund to LPs and shifting remaining capital to support ~30 existing portfolio companies."
 fund_size: "$2.4B total across seven funds; Fund VII: $570M (2023)"
 stage_focus: [series-b, series-c, growth]
 sector_focus: [enterprise-saas, developer-tools, infrastructure, cybersecurity, vertical-saas, fintech]

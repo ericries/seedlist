@@ -86,7 +86,7 @@ This table includes 17 publicly named investments. Akhund's true portfolio is re
 | Honey Homes | Angel | ~2021 (founding year) | Home Services | Active | [^8] |
 | Golden | Angel | ~2019 (founding year) | Edtech/Crypto | Active | [^8] |
 | Clara | Pre-Seed ($12M) | 2026-05-14 | AI Healthcare | Active | [^15][^16] |
-| Ellis | Seed ($10M) | 2026-07-30 | Fintech/AI/Private Credit | Active | [^ellis-ia1][^ellis-ia2] |
+| Ellis | Seed ($10M) | 2026-07-30 | Fintech/AI/Private Credit | Active | [^ellis-ia1][^ellis-ia2][^ellis-ia3] |
 
 *Notable miss: Akhund passed on Scale AI's early round because he judged the founders, then 19 and 20, too young — a decision he has publicly cited as the angel investing mistake he most regrets [^11].*
 
@@ -155,3 +155,4 @@ No independently sourced founder testimonials about working with Akhund as an an
 
 [^ellis-ia1]: "Ellis Emerges From Stealth With More Than $10 Million to Build the AI-Native Operating Foundation for Private Credit," BusinessWire, July 30, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260730538995/en/Ellis-Emerges-From-Stealth-With-More-Than-$10-Million-to-Build-the-AI-Native-Operating-Foundation-for-Private-Credit — Names "Mercury Founder and CEO Immad Akhund" among participants in Ellis's $10M seed led by First Round Capital.
 [^ellis-ia2]: "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers," TechCrunch, July 31, 2026. Accessed July 2026. https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/ — Independent tier-1 press confirmation of Immad Akhund's participation as angel in Ellis's seed.
+[^ellis-ia3]: "Private credit AI platform Ellis launches with $10m seed funding," Alternative Credit Investor, July 30, 2026. Accessed August 2026. https://alternativecreditinvestor.com/2026/07/30/private-credit-ai-platform-ellis-launches-with-10m-seed-funding/ — Third independent trade-press confirmation of Immad Akhund (Mercury CEO) as an angel/participating investor in the $10M Ellis seed.

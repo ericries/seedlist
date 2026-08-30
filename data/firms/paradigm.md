@@ -5,6 +5,7 @@ type: firm
 website: "https://www.paradigm.xyz"
 location: "San Francisco, CA"
 founded: 2018
+tldr: "San Francisco frontier-tech investment firm co-founded in 2018 by former Sequoia partner Matt Huang and Coinbase co-founder Fred Ehrsam. ~$12.7B AUM across an open-ended $750M fund (2018), $2.5B Paradigm One (2021), and $850M Fund III (2024). Backs crypto, blockchain, DeFi, and AI from pre-seed through growth; also ships open-source infrastructure (Foundry, Reth) rather than acting purely as a check-writer."
 fund_size: "$12.7B total AUM; Fund III: $850M (2024), Fund I: $2.5B (2021), initial fund: $750M (2018)"
 stage_focus:
   - pre-seed

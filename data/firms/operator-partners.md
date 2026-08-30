@@ -5,6 +5,7 @@ type: firm
 website: "https://www.operatorpartners.com"
 location: "New York, NY"
 founded: 2020
+tldr: "Self-funded New York venture firm founded 2020 by Flatiron Health / Invite Media co-founders Nat Turner and Zach Weinberg, with GPs including former Flatiron CTO Gil Shklarski and Taykey founder Amit Avner. Fund II ($40M-$70M, 2024) deploys the partners' personal capital only — no outside LPs, no leads, no board seats. Writes $250K-$2M pre-seed through Series A checks across enterprise, developer tools, fintech, digital health, and cybersecurity; 144 companies invested to date, 10 unicorns, 19 acquisitions."
 fund_size: "$40M-$70M (Fund II, 2024); self-funded, no outside LPs"
 stage_focus:
   - pre-seed

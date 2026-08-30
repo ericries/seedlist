@@ -4,6 +4,7 @@ slug: harry-stebbings
 type: individual
 firm:
 role: "Founder & Solo GP, 20VC Fund; Host, The Twenty Minute VC"
+tldr: "Founder and solo GP of 20VC Fund and host of The Twenty Minute VC podcast, which he launched at 18 in 2015. Grew 20VC from an $8.3M debut fund into $600M+ AUM, including a $400M Fund III (2024) split between seed and Series A vehicles with a stated 'MEGA' focus on European founders. Verified portfolio skews heavily AI and fintech and includes Linear, Linktree, Sorare, Cognition, Lovable, Poolside, and Airwallex. LP base is unusual — 40+ operator-founders and GPs from top-tier US funds."
 location: "London, United Kingdom"
 stage_focus: [seed, series-a]
 sector_focus: [ai, fintech, saas, consumer, developer-tools, media]

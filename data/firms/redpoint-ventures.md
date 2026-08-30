@@ -1,5 +1,6 @@
 ---
 founded: 1999
+tldr: "Menlo Park multi-stage venture firm founded 1999, with ~$4.5B AUM (Fund X closed at $650M in 2025). Invests seed through growth across enterprise infrastructure, fintech, consumer internet, AI, and healthcare. Longtime backer of iconic outcomes including Netflix, Twilio, HashiCorp, Stripe, Snowflake, and Zendesk; current MDs include Satish Dharmaraj, Logan Bartlett, Erica Brescia, Scott Raney, and Alex Bard."
 fund_size: $650M (Fund X, 2025); ~$4.5B total AUM
 last_researched: 2026-06-04
 location: Menlo Park, CA

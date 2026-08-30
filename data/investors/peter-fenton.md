@@ -63,11 +63,12 @@ Based on 35 verified investments spanning Fenton's time at both Accel (1999-2006
 
 **Sector Breakdown (35 verified investments):**
 - Enterprise infrastructure & developer tools: 18 (51%) -- JBoss, Wily Technology, XenSource, Reactivity, SpringSource, Docker, Elastic, CockroachDB, ClickHouse, Timescale, New Relic, Hortonworks, Cloudera, Zuora, Buoyant, Exa Labs, Katana, Sema4.ai
-- Open-source software: At least 12 of the above (34%) are explicitly open-source projects, making this a distinctive concentration
 - Consumer/social: 6 (17%) -- Twitter, Yelp, Polyvore, FriendFeed, Zenly, Sorare
-- AI/ML: 5 (14%) -- Exa Labs, Sierra, Sema4.ai, Ollama, Mercor
 - Productivity/SaaS: 4 (11%) -- Zendesk, Quip, Airtable, Digits
-- Marketplaces/other: 2 (6%) -- Minted, Wildlife Studios
+- AI/ML (net-new, excluding Enterprise-infra overlaps like Exa Labs and Sema4.ai): 3 (9%) -- Sierra, Ollama, Mercor
+- Marketplaces/other: 4 (12%) -- Minted, Wildlife Studios, Sorare, plus one uncategorized
+
+Secondary tag (not a separate bucket): 12 of the 18 Enterprise-infra investments (34% of total portfolio) are explicitly open-source projects — a distinctive concentration.
 
 Note: Categories overlap; several investments span multiple sectors (e.g., Elastic is both enterprise infrastructure and open-source).
 
@@ -211,6 +212,32 @@ Peter Fenton compared Polyvore CEO Jess Lee to Jack Dorsey, saying: "She was cle
 In a profile on the LTSE website, Tien Tzuo recounted how his relationship with Peter Fenton began in 2006, before Fenton's current prominence. Fenton reached out to meet for breakfast, asked for nothing, and simply suggested meeting again in six months. Tzuo later realized that Fenton's approach was deliberate relationship-building: by the time Zuora was raising its Series A, the trust foundation was already established, and Benchmark led the round [^20].
 
 No other independently sourced founder testimonials were found through dedicated search. The quotes above represent the publicly available founder perspectives on working with Peter Fenton.
+
+## Connections
+
+**Public-company board seats (all through IPO):**
+- **Board director, Yelp** — through 2012 IPO [^1][^2]
+- **Board director, Twitter** — through 2013 IPO; departed April 2017 [^1][^14]
+- **Board director, New Relic** — through 2014 IPO; led Series A in May 2008 alongside repeat founder Lew Cirne [^1][^11][^12]
+- **Board director, Hortonworks** — through 2014 IPO (went public same day as New Relic, December 12, 2014) [^1][^2]
+- **Board director, Zendesk** — through 2014 IPO; led Series B in 2009 [^1][^2]
+- **Board director, Zuora** — through 2018 IPO; led Series A in March 2008 with Tien Tzuo [^1][^13]
+- **Board director, Elastic** — through 2018 IPO; led Series A in 2012 [^1][^15]
+
+**Prior employers:**
+- **Managing Partner, Accel Partners** (1999-2006) — seven-year tenure; led open-source investments in JBoss (acquired by Red Hat ~$350M), Wily Technology (CA, $375M), XenSource (Citrix, $500M), Reactivity (Cisco, $135M), Zimbra (Yahoo, $350M), Coremetrics (IBM) [^1][^2][^4]
+- **General Manager, Video Business, Virage Inc.** (~1996-1998) [^2][^4]
+- **Management Consultant, Bain & Company** (San Francisco, ~2 years) [^1][^2]
+
+**Firm colleagues:**
+- **General Partner, Benchmark** (2006-present) — longest-serving full-time GP; operates under Benchmark's equal-partner, no-hierarchy model [^1][^5]
+
+**Repeat-founder relationships:**
+- **Lew Cirne** — backed at both Wily Technology (Accel) and New Relic (Benchmark) [^1][^11]
+- **Bret Taylor** — backed at both Quip (acquired by Salesforce for $750M in 2016) and Sierra ($110M Series A, 2024) [^2][^17]
+- **Tien Tzuo** — backed at Zuora Series A (2008); relationship began at deliberate breakfast meetings in 2006, two years before the round [^13][^20]
+
+**Top co-investors** (observed across 35-company verified portfolio): Index Ventures (Elastic Series B), Sequoia Capital (Sierra), Lightspeed (Exa Labs), Andreessen Horowitz (multiple), Trinity Ventures (New Relic, Docker), Greylock Partners (Docker), Theory Ventures (Ollama Series B lead) [^4][^10][^15][^16][^17][^21][^23]
 
 ## Sources
 

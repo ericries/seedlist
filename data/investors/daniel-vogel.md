@@ -9,6 +9,7 @@ last_verified_investment:
 location: Mexico City, Mexico
 name: Daniel Vogel
 role: Co-Founder & CEO
+tldr: "Co-founder and CEO of Bitso, Latin America's largest crypto exchange, and a partner at Xochi Ventures. His personal angel portfolio (roughly seven verified checks) is overwhelmingly LatAm fintech and logistics — Jeeves, Clara, Nowports, Gondi — despite a public voice focused on crypto and stablecoin payment rails. Repeatedly co-invests with the LatAm operator-angel network (David Vélez, Sebastián Mejía, Alex Bouaziz)."
 sector_focus:
 - fintech
 - crypto

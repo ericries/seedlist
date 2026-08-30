@@ -4,7 +4,7 @@ slug: ethan-daly
 type: individual
 firm: shine-capital
 role: "General Partner"
-location: "Brooklyn, NY"
+tldr: "General Partner at Shine Capital, the $600M-plus early-stage firm founded by ex-Spark GP Mo Koyfman. Shine's first investor hire in 2020, promoted to GP in September 2025 after a stint at Allen & Company. Verified portfolio skews heavily crypto/Web3 (Blackbird, Goldsky, Hivemapper, Numerai, Endaoment) and AI (Gizmo, AudioShake, Polimorphic), with frontier bets in nuclear (Antares) and consumer marketplaces. Checks $1M-$7M, often leading. Also runs the Earshot creative studio in NYC."
 stage_focus: [seed, series-a]
 sector_focus: [ai, crypto, consumer, fintech, saas, nuclear-energy, foodtech, cybersecurity]
 check_size: "$1M-$7M"

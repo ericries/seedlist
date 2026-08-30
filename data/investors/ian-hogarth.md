@@ -4,6 +4,7 @@ slug: ian-hogarth
 type: individual
 firm: independent
 role: "Partner, Plural Platform"
+tldr: "British angel investor, Songkick co-founder, and Partner at Plural Platform, the €250M European entrepreneur-led fund he co-founded with Taavet Hinrikus, Sten Tamkivi, and Khaled Helioui. Reports 150+ angel investments (50+ in ML) including Anthropic, Helsing, Cleo, Hopin, Kheiron Medical, and Deliveroo; also chair of quantum firm Phasecraft. Named first Chair of the UK Frontier AI Taskforce (now AISI) in 2023 and author of the FT essay 'We must slow down the race to God-like AI', which forced him to divest key AI positions."
 location: "London, United Kingdom"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [ai, machine-learning, quantum-computing, materials-science, climate-tech, defense-tech, biotech, healthcare]

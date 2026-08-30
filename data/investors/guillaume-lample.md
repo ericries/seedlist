@@ -4,6 +4,7 @@ slug: guillaume-lample
 type: individual
 firm: mistral
 role: "Co-Founder & Chief Scientist"
+tldr: "Co-founder and Chief Scientist of Mistral AI, the Paris-based open-weight foundation model company he started in 2023 with Arthur Mensch and Timothée Lacroix. Previously seven years at Meta's FAIR lab, senior author on the LLaMA paper. Profiled as a technical node rather than an investor — no verified personal angel portfolio; his equity exposure is his roughly 13% Mistral stake, valued around $1.8B after the September 2025 round at a $14B valuation."
 location: "Paris, France"
 stage_focus: []
 sector_focus: [ai, llm-foundation-models, open-source-ai, machine-learning]

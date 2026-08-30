@@ -5,6 +5,7 @@ type: firm
 website: "https://mucker.com"
 location: "Santa Monica, CA"
 founded: 2011
+tldr: "Santa Monica-based seed and Series A firm founded 2011 by William Hsu and Erik Rannala, deliberately investing outside Silicon Valley. Runs a $60M seed fund plus a $190M early-stage fund and the MuckerLab accelerator ($100K-$175K for 10-15% equity). 250+ investments across enterprise SaaS, consumer, fintech, and vertical SaaS. Notable exits include Honey (PayPal, $4B), ServiceTitan (NASDAQ IPO), AuditBoard, TaskRabbit, and Ask Sage."
 fund_size: "$60M seed fund; $190M early-stage fund"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [enterprise-software, consumer, fintech, ecommerce, saas, vertical-saas, ad-tech, hr-tech, cybersecurity, proptech, edtech]

@@ -233,6 +233,26 @@ The SaaSBoomi community observed: "There aren't investors like Lee in India... n
 
 *Note: Fixel maintains an extremely low public profile -- he has no public Twitter/X account and rarely gives interviews. Additional independently sourced founder testimonials from Addition portfolio companies were limited despite dedicated searching across social media, podcast transcripts, and press coverage.*
 
+## Connections
+
+**Board seats (Addition portfolio):**
+- **Board member, Built Technologies** — joined via Addition-led $88M Series C, February 2021 [^24]
+- **Board member, Chainalysis** — Addition participated in $100M Series D, March 2021; Fixel takes board seats at key portfolio companies [^12][^17]
+- **Board member, Base Power** — joined via Addition co-led $200M Series B, April 2025 [^23]
+
+**Board seats (prior / non-profit):**
+- **Board member, Flipkart** (via Tiger Global) — retained board seat through and after 2018 Walmart acquisition [^4]
+- **Board member, The Michael J. Fox Foundation** (2013-2022) [^1]
+
+**Prior employers:**
+- **Partner & Head of Private Equity, Tiger Global Management** (2006-2019) — rose over 13 years to oversee ~$13B portfolio; led major investments in Flipkart, JD.com, Facebook, LinkedIn, Spotify, Coinbase, Stripe, Roblox, Peloton, Palantir, MercadoLibre, Ola, Freshworks [^1][^3][^6]
+- **Analyst, Alkeon Capital Management** — covered internet companies at start of career [^1]
+
+**Philanthropy / institutional roles:**
+- **Co-Founder, Lauren and Lee Fixel Family Foundation** (2014) — funded Norman Fixel Institute for Neurological Diseases at University of Florida ($40M matched commitment, 2019) and Fixel Brain Mapping Professorship at McKnight Brain Institute (2021) [^1][^2]
+
+**Top co-investors** (observed across Addition portfolio): Andreessen Horowitz (Base Power), Coatue (Applied Intuition, Alchemy), Lightspeed (Base Power), Tiger Global (Snyk follow-on), Accel (Snyk, Tines), Sequoia, General Catalyst, Lux Capital [^16][^23][^26][^27][^29]
+
 ## Sources
 
 [^1]: "Lee Fixel," Grokipedia, accessed March 2026. https://grokipedia.com/page/Lee_Fixel

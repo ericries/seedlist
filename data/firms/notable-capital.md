@@ -5,6 +5,7 @@ type: firm
 website: "https://www.notablecap.com"
 location: "San Francisco, CA"
 founded: 2000
+tldr: "San Francisco multi-stage firm formed in March 2024 when GGV Capital split into US (Notable Capital) and Asia (Granite Asia) successor entities. Retained ~$4.2B AUM from GGV's $9.2B and continues investing seed through growth ($5M-$25M initial checks) across enterprise, consumer, fintech, AI, infrastructure, and commerce in the US, Israel, Europe, and Latin America. Managing Partners Hans Tung, Jeff Richards, and Glenn Solomon have worked together for over 15 years."
 fund_size: "$4.2B AUM (as Notable Capital, 2024); ~$9.2B AUM total as GGV Capital (2022)"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [enterprise, consumer, fintech, ai, infrastructure, commerce]

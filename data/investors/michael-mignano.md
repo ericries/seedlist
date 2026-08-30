@@ -4,6 +4,7 @@ slug: michael-mignano
 type: individual
 firm: union-square-ventures
 role: "General Partner"
+tldr: "General Partner at Union Square Ventures (since April 2026), previously Partner at Lightspeed and co-founder/CEO of Anchor (acquired by Spotify in 2019 for $150M+). Invests seed and Series A at the intersection of AI and the 'creativity supply chain' — verified deals include Suno, Pika, Granola, Macroscope, TollBit, xAI, Neuralink, and Oboe. Repeat product-founders and NYC/SF/London are recurring patterns."
 location: "Hoboken, NJ (NYC metro)"
 stage_focus: [seed, series-a]
 sector_focus: [ai, consumer, creator-tools, generative-ai, developer-tools, audio, media]

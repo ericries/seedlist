@@ -4,6 +4,7 @@ slug: mathias-geeroms
 type: individual
 firm:
 role: "Co-founder & CFO, Lighthouse (formerly OTA Insight); Angel Investor"
+tldr: "Co-founder and CFO of Ghent-based hospitality-tech scale-up Lighthouse (formerly OTA Insight), investing personally as part of the Belgian operator-angel cluster around Syndicate One. Writes early-stage angel tickets into B2B SaaS built by Flemish technical founders — verified deals include Aikido Security, Jurimesh, Driven, Eagl, Dalton, and IntelliProve — usually alongside Jeroen De Wit, Louis Jonckheere, and Pitchdrive."
 location: "Ghent, Belgium"
 stage_focus: [pre-seed, seed]
 sector_focus: [saas, b2b-saas, fintech, legaltech, devtools, security, digital-health, hospitality-tech]

@@ -5,6 +5,7 @@ type: firm
 website: https://panteracapital.com
 location: Menlo Park, CA
 founded: 2003
+tldr: "Menlo Park crypto and blockchain investment firm founded in 2003 by Dan Morehead (previously CFO/head of macro trading at Tiger Management). One of the oldest institutional crypto investors; $4.7B+ AUM in 2025 with Fund V targeting $1B. Runs multi-strategy vehicles across venture (seed through Series B), liquid tokens, and hedge — investing across blockchain infrastructure, DeFi, and crypto fintech."
 fund_size: "$4.7B+ AUM (2025); Fund V targeting $1B"
 stage_focus:
   - seed

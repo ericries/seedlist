@@ -190,6 +190,26 @@ The publicly stated thesis emphasizes consumer web3, gaming, and media. In pract
 
 *Note: The above quote from Zora's co-founder was cited in Haun Ventures' own announcement post on haun.co. While it reflects a genuine founder statement, it was reproduced in a firm-authored document and should be understood in that context. No independently sourced founder testimonials — from press interviews, podcast transcripts, or social media — were found for Katie Haun or Haun Ventures after dedicated search of TechCrunch, CoinDesk, The Block, and portfolio company blog posts. The Haun Ventures announcement posts are written by firm partners and do not include unfiltered founder quotes about the investor experience. This section will be updated as independent testimonials surface.*
 
+## Connections
+
+**Prior board seat:**
+- **Board member, Coinbase** (2017-2024) — served as Coinbase's first independent board member through its 2021 Nasdaq direct listing; stepped down in 2024 [^2]
+
+**Prior employers:**
+- **General Partner, Andreessen Horowitz** — co-led a16z's three successive crypto funds before departing in early 2022 to found Haun Ventures [^2]
+- **Federal Prosecutor, U.S. Department of Justice** (10+ years) — created one of the government's first cryptocurrency task forces in 2014; led the Mt. Gox and Silk Road corrupt-agents investigations; held senior policy roles in DOJ's National Security Division and the Attorney General's office [^2]
+- **Clerk to U.S. Supreme Court Justice Anthony Kennedy** [^2]
+
+**Firm co-founders / partners:**
+- **Diogo Mónica, General Partner, Haun Ventures** — recruited March 2024; co-founder and Executive Chairman of Anchorage Digital, the first federally chartered crypto-native bank [^3]
+
+**Academic / policy roles:**
+- **Lecturer, Stanford Graduate School of Business** (crypto courses) and **Stanford Law School** (cybercrime courses) [^2]
+- **Lifetime Member, Council on Foreign Relations** [^2]
+- **Congressional witness** — has testified before the U.S. House and Senate on the intersection of technology and regulation [^2]
+
+**Top co-investors** (observed across Haun Ventures portfolio, out of 18 announced deals): Coinbase Ventures (8 shared rounds — thirdweb, Euler, Plume, Agora, Witness, Neynar, Helius, Conduit), Bain Capital Crypto (Meanwhile co-lead, Superstate), Paradigm (Conduit co-lead, Farcaster), Galaxy Digital (Plume), Founders Fund (Helius), USV (Neynar) [^12][^13][^14][^15][^19][^23][^28][^34]
+
 ## Sources
 
 [^1]: Haun Ventures, "Introducing Haun Ventures," March 22, 2022. https://haun.co/writing/introducing-haun-ventures

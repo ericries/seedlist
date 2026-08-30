@@ -4,6 +4,7 @@ slug: matt-humphrey
 type: individual
 firm: quiet-capital
 role: "Co-Founder & Managing Partner"
+tldr: "Co-founder and Managing Partner at Quiet Capital (~$2.5B AUM), a seed-heavy SF fund. Serial founder — HomeRun (acquired for $100M+ in 2011) and LendingHome/Kiavi (CEO through 2020) — who built a ~60-company angel book heavy in fintech (Gusto, Mercury, Flexport, Hippo) before launching Quiet in 2021. Writes $100K-$25M checks across AI, fintech, healthcare, and consumer with a founder-assessment-driven, reference-checking approach."
 location: "San Francisco, CA"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [ai, fintech, healthcare, consumer, deeptech-hardware, enterprise]

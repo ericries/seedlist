@@ -4,6 +4,7 @@ slug: ghazal-alagh
 type: individual
 firm: null
 role: "Co-Founder & Chief Innovation Officer, Honasa Consumer (Mamaearth) / Angel Investor"
+tldr: "Co-founder and CIO of Honasa Consumer (Mamaearth), India's first unicorn of 2022 and one of the country's largest D2C beauty IPOs. Season 1 Shark on Shark Tank India who has stayed out of subsequent seasons to focus on private angel investing. Verified portfolio (~22 companies) skews heavily to Indian D2C consumer, apparel, and food brands at pre-seed and seed — BlissClub, Wishlink, Dressfolk, Outzidr, Kidbea, Uvi Health, Leap.club — with a strong bias toward first-generation and women founders."
 location: "Gurugram, India"
 stage_focus: [pre-seed, seed, early-stage]
 sector_focus: [consumer, d2c, beauty, personal-care, fashion, apparel, food-and-beverage, healthtech, womens-health, ai]
@@ -66,16 +67,16 @@ Ghazal Alagh's investing activity comes in two distinct streams that should not 
   - Underneat — Seed, April 2025, with Fireside Ventures [^14]
   - Kidbea — Series A, March 2026, led by Enrission India Capital with Inflection Point Ventures and 12 others [^14] [^23]
 
-**Sector distribution** across 16 sector-identifiable deals (S1 + private angel):
-- Consumer / D2C apparel & lifestyle: 6 of 16 (38%) — BlissClub, FS Life, Dressfolk, Outzidr, Underneat, The Sass Bar
-- Food & Beverage: 4 of 16 (25%) — Nomad Food Project, Wakao Foods, Humpy A2, (and indirectly P-TAL as home-cookware)
-- Women's health / FemTech / Wellness: 2 of 16 (13%) — Uvi Health, Leap.club
-- HealthTech / MedTech: 2 of 16 (13%) — Sunfox Technologies, Watt Technovations
-- AI / Tech: 1 of 16 (6%) — unScript.ai
-- Kids / Family: 2 of 16 (13%) — Kidbea, Crib (parenting tech)
-- Safety / Other: 1 of 16 (6%) — Gold Safe Solutions
-- Commerce infrastructure: 1 of 16 (6%) — Wishlink
-- Lifestyle/handicrafts: 1 of 16 (6%) — P-TAL
+**Sector distribution** across 20 category-tags on 16 sector-identifiable deals (some deals span multiple tags; percentages use 20-tag denominator):
+- Consumer / D2C apparel & lifestyle: 6 of 20 (30%) — BlissClub, FS Life, Dressfolk, Outzidr, Underneat, The Sass Bar
+- Food & Beverage: 4 of 20 (20%) — Nomad Food Project, Wakao Foods, Humpy A2, P-TAL (also home-cookware)
+- Women's health / FemTech / Wellness: 2 of 20 (10%) — Uvi Health, Leap.club
+- HealthTech / MedTech: 2 of 20 (10%) — Sunfox Technologies, Watt Technovations
+- Kids / Family: 2 of 20 (10%) — Kidbea, Crib (parenting tech)
+- AI / Tech: 1 of 20 (5%) — unScript.ai
+- Safety / Other: 1 of 20 (5%) — Gold Safe Solutions
+- Commerce infrastructure: 1 of 20 (5%) — Wishlink
+- Lifestyle / handicrafts: 1 of 20 (5%) — P-TAL (dual-tagged)
 
 The clearest signal is **D2C consumer brands targeting Indian women and families**, mirroring her own operating focus at Mamaearth and the Honasa portfolio's positioning. Women's-health and parenting plays (Uvi Health, Leap.club, Crib, Kidbea) form a coherent secondary cluster.
 

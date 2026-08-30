@@ -4,6 +4,7 @@ slug: nicole-quinn
 type: individual
 firm: connect-ventures-caa-nea
 role: "Managing Partner & Co-Founder"
+tldr: "Managing Partner and Co-Founder of Connect Ventures (CAA + NEA joint venture, launched January 2026), previously a 10-year Lightspeed partner co-leading the Consumer team. Invests $3M-$20M at seed and Series A in tech-enabled consumer across creator economy, sports, gaming, health/wellness, and marketplaces. Portfolio includes beehiiv, Calm, Cameo, Character AI, Daily Harvest, Goop, Zola, OpenSea, and Jomboy Media."
 location: "Los Angeles, CA"
 stage_focus: [seed, series-a]
 sector_focus: [consumer, media-entertainment, sports, gaming, health-wellness, ecommerce, marketplaces]

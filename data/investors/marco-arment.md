@@ -4,6 +4,7 @@ slug: marco-arment
 type: individual
 firm: independent
 role: "Independent iOS developer; founder of Overcast; occasional angel"
+tldr: "Independent iOS developer, Tumblr co-founder, Instapaper creator, and Overcast solo builder with one publicly verified angel check: a $50K contribution to Gimlet Media's November 2014 seed alongside Lowercase Capital and Betaworks. Not an active investor — treat as an operator/builder reference for podcasting and indie iOS, not a fundraising target."
 location: "New York, New York"
 stage_focus: [seed]
 sector_focus: [podcasting, media, consumer]
@@ -52,7 +53,7 @@ The single observation we can make is that the one verified check (Gimlet Media 
 |---------|------|-------|--------|
 | Gimlet Media | 2014 | Seed ($1.4M total round, alongside Lowercase Capital, Betaworks, Andrew Mason, Charles Duhigg, Knight Foundation; $50K check from Arment per Gimlet) | [^10] [^11] |
 
-Gimlet Media's seed round closed November 11, 2014 [^10]. Gimlet was acquired by Spotify in February 2019 for a reported $230 million [^10] [^12]. Crunchbase Insights' investor profile for Arment shows no other investments [^10].
+Gimlet Media's seed round closed November 11, 2014 [^10]. Gimlet was later acquired by Spotify for a reported $230 million [^10] [^12]. Crunchbase Insights' investor profile for Arment shows no other investments [^10].
 
 ## In Their Own Words
 

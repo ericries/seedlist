@@ -120,7 +120,7 @@ Based on analysis of 22 verified investments in the table below, from Thrive Cap
 | Physical Intelligence | 2024-03-12 | Seed (Thrive led, $70M at ~$400M post-money; Khosla, Lux, OpenAI, Sequoia joined) | [^3][^17][^18] |
 | Physical Intelligence (follow-on) | 2024-11-04 | Series A ($400M at $2.4B post-money; Bezos + Thrive + Lux led) | [^17][^18] |
 | Isomorphic Labs | ~2024 | Growth | [^8] |
-| Ellis | 2026-07-30 | Seed ($10M; First Round Capital led; Kushner participated as angel alongside Thrive Capital) | [^ellis-jk1][^ellis-jk2] |
+| Ellis | 2026-07-30 | Seed ($10M; First Round Capital led; Kushner participated as angel alongside Thrive Capital) | [^ellis-jk1][^ellis-jk2][^ellis-jk3] |
 
 Note: Many investment years are approximate (founding year proxies marked with ~). Thrive's full portfolio spans hundreds of companies across its nine funds.
 
@@ -167,6 +167,7 @@ The Fortune profile noted that across more than 35 interviews, no one cited a ho
 
 [^ellis-jk1]: "Ellis Emerges From Stealth With More Than $10 Million to Build the AI-Native Operating Foundation for Private Credit," BusinessWire, July 30, 2026. Accessed July 2026. https://www.businesswire.com/news/home/20260730538995/en/Ellis-Emerges-From-Stealth-With-More-Than-$10-Million-to-Build-the-AI-Native-Operating-Foundation-for-Private-Credit — Names "Thrive Capital Founder Josh Kushner" among participants in the $10M Ellis seed led by First Round Capital.
 [^ellis-jk2]: "Private credit AI platform Ellis launches with $10m seed funding," Alternative Credit Investor, July 30, 2026. Accessed July 2026. https://alternativecreditinvestor.com/2026/07/30/private-credit-ai-platform-ellis-launches-with-10m-seed-funding/ — Independent confirmation of Josh Kushner as participating angel/investor in Ellis's seed.
+[^ellis-jk3]: "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers," TechCrunch, July 31, 2026. Accessed August 2026. https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/ — Third independent tier-1 press confirmation naming Thrive Capital (Josh Kushner's firm) and Josh Kushner personally among angel/participating investors in Ellis's $10M seed.
 
 [^17]: Maginative, "Physical Intelligence Raises $70M to Build AI-Powered Robots for Any Application," March 12, 2024. Accessed July 2026. https://www.maginative.com/article/physical-intelligence-raises-70m-to-build-ai-powered-robots-for-any-application/ — Primary contemporaneous confirmation: $70M seed on March 12, 2024, led by Thrive Capital with Khosla Ventures, Lux Capital, OpenAI, and Sequoia Capital participating.
 

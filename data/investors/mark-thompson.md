@@ -9,6 +9,7 @@ last_verified_investment:
 location: New York, New York
 name: Mark Thompson
 role: Chairman & CEO, CNN Worldwide
+tldr: "Chairman & CEO of CNN Worldwide (since October 2023), former President & CEO of The New York Times (2012-2020), and former BBC Director-General. Also chairs Ancestry's board. Included as a media operator reference — no independently verified personal angel or venture investments; his influence flows through board and operating roles at subscription-led media businesses, not a personal check book."
 sector_focus:
 - media
 - journalism

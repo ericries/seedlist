@@ -4,6 +4,7 @@ slug: francois-robinet
 type: individual
 firm: avp
 role: "Managing Partner"
+tldr: "Founder and Managing Partner of AVP (formerly AXA Venture Partners), the transatlantic investment platform he founded inside AXA in 2015 and led through a management buyout in 2024. AVP now manages more than €2.5B across Venture, Early Growth, Growth, and Fund Investing strategies from Paris, New York, and London. Robinet's personally attributed deals skew insurtech/fintech infrastructure and enterprise software, with a distinctive quantum/deep-tech thread (Alice & Bob €100M Series B) not in AVP's headline sector list."
 location: "Paris, France"
 stage_focus: [seed, series-a, growth, late-stage]
 sector_focus: [enterprise-software, fintech, insurtech, digital-health, consumer, quantum-computing]

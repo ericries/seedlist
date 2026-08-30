@@ -4,6 +4,7 @@ slug: mukesh-bansal
 type: individual
 firm:
 role: "Founder & CEO, Nurix AI; Co-founder, Cult.fit; Founder, Meraki Labs"
+tldr: "Bengaluru operator-investor best known as Myntra co-founder (acquired by Flipkart for ~$330M) and Cult.fit co-founder. Runs Meraki Labs venture studio ($250K-$5M seed checks) and is currently founder/CEO of enterprise AI startup Nurix AI. Backs Indian consumer, fintech, and deeptech at seed — verified investments include CRED, Groww, Skyroot Aerospace, Kawa Space, Mensa Brands — with a preference for IIT/IIM-educated repeat operators."
 location: "Bengaluru, India"
 stage_focus: [seed, pre-seed]
 sector_focus: [consumer, fintech, deeptech, ai, healthtech, space-tech, fashion]

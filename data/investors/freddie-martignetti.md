@@ -4,6 +4,7 @@ slug: freddie-martignetti
 type: individual
 firm: ""
 role: "Founder & General Partner, Nava Ventures"
+tldr: "Founder and General Partner of Nava Ventures, a San Francisco early-stage firm he launched in 2021 after stints at Highland Capital and running his own Suffolk Equity Partners (Warby Parker, FIGS, Drizly, Omaze). Nava's ~18-company book is roughly balanced between consumer/commerce (Grifin, True Footage, Relief App) and enterprise infrastructure/AI (Hydrolix, Union.ai, Yurts, GrowthBook, Legion, lang.ai). Pre-seed through Series A, US-focused, with a preference for leading and taking board seats."
 location: "San Francisco, CA"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [consumer, enterprise-saas, fintech, healthtech, ai, commerce]

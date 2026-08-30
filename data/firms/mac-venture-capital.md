@@ -1,5 +1,6 @@
 ---
 founded: 2019
+tldr: "Los Angeles seed-stage firm founded in 2019 through the merger of Cross Culture Ventures and M Ventures. Practices 'cultural investing' — treating shifts in behavior as leading indicators — across fintech, consumer, enterprise, logistics, media, aerospace, and edtech. $600M+ AUM across three funds ($103M, $203M, $150M); 100+ investments with 76% of portfolio in Black, Latinx, and female founders. GPs include Marlon Nichols, former DC mayor Adrian Fenty, Michael Palank, and MACRO founder Charles D. King."
 fund_size: '$600M+ AUM across three funds (Fund I: $103M, Fund II: $203M, Fund III:
   $150M)'
 last_researched: 2026-03-20

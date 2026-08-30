@@ -4,6 +4,7 @@ slug: max-mullen
 type: individual
 firm: rebel-fund
 role: "Partner, Rebel Fund; Co-Founder, Instacart"
+tldr: "Instacart co-founder (YC S12, Nasdaq CART) turned full-time seed investor as of April 2026, and a Partner at YC-alumni syndicate Rebel Fund. Writes $25K-$500K checks (sweet spot ~$200K) across B2B SaaS, fintech, marketplaces, and AI/devtools — 52 verified deals on Signal NFX out of a claimed 100+, including Deel, Mercury, Lattice, Checkr, Stedi, Anomalo, Rootly, and many Instacart-alumni founders."
 location: "San Francisco, California"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [b2b-saas, marketplaces, fintech, ai, consumer, enterprise, devtools]

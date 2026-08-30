@@ -5,6 +5,7 @@ type: firm
 website: "https://quiet.com/"
 location: "San Francisco, CA"
 founded: 2017
+tldr: "San Francisco venture firm founded 2017 by operator-founders Lee Linden (Tapjoy, Karma/Facebook), Ben Mahdavi (Sivia Capital), and Matt Humphrey (LendingHome/Kiavi CEO). ~$2.5B AUM across at least three funds ($479M Fund II, $377M Fund III). Backs 'remarkable founders from day zero' — pre-seed through Series A across AI, fintech, consumer, healthcare, deeptech-hardware, and crypto. Seed-heavy (52% of investments) with a founder-assessment-driven approach."
 fund_size: "$377M (Fund III, 2024); $479M (Fund II, 2021)"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [ai, fintech, consumer, deeptech-hardware, healthcare, enterprise, crypto, robotics, marketplace]

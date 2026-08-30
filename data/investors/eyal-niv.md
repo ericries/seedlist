@@ -4,6 +4,7 @@ slug: eyal-niv
 type: individual
 firm: pitango-venture-capital
 role: "Managing Partner (First)"
+tldr: "Managing Partner at Pitango Venture Capital in Tel Aviv, co-leading the $150M Pitango First seed fund. Previously General Partner at Giza VC (2000-2015), where his portfolio produced acquisitions by EMC (XtremIO), Oracle, Facebook, Intel, and Sony. His board-level book at Pitango is dominated by AI and developer/cloud infrastructure — AI21 Labs, Komodor, Finout, Lumigo, Graphcore, Speedata — with 65% of confirmed investments at the infrastructure layer. Checks $1M-$10M, typically first institutional check."
 location: "Tel Aviv, Israel"
 stage_focus: [seed, series-a]
 sector_focus: [ai, ai-infrastructure, cloud-infrastructure, cybersecurity, devops, quantum-computing, semiconductors, insurtech, mobility]

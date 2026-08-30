@@ -4,6 +4,7 @@ slug: grant-verstandig
 type: individual
 firm: red-cell-partners
 role: "Founder, Chairman & CEO"
+tldr: "Founder, Chairman, and CEO of Red Cell Partners, a Washington-area venture studio building companies in healthcare, defense, and cybersecurity — 15 incubations plus 7 outside investments that have raised ~$497M in aggregate. Also co-founder of Rally Health (acquired by UnitedHealth), Epirus ($1.35B directed-energy defense company), and Valinor (with Trae Stephens and Paul Kwan). Deep DC-area operator network with Mark Esper as Partner and former senior officials as advisors; deals skew defense/national-security founders and healthcare AI."
 location: "Washington, DC"
 stage_focus:
   - pre-seed

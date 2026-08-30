@@ -4,6 +4,7 @@ slug: mike-dauber
 type: individual
 firm: amplify-partners
 role: "General Partner"
+tldr: "General Partner at Amplify Partners since 2014, co-leading the Menlo Park early-stage firm with founder Sunil Dhaliwal. Backs technical founders in developer tools, cloud infrastructure, cybersecurity, and AI/ML at seed and Series A ($500K-$5M). Verified deals include Temporal, OctoML, Chainguard, Lamini, SiMa.ai, StackRox, Gremlin, Scribe, and prior Battery-era wins Splunk and RelateIQ."
 location: "San Francisco, CA"
 stage_focus: [seed, series-a]
 sector_focus: [developer-tools, cloud-infrastructure, ai-ml, cybersecurity, data-infrastructure, enterprise-software]

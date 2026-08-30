@@ -4,6 +4,7 @@ slug: mike-rosengarten
 type: individual
 firm: builders-vc
 role: "General Partner, Builders VC; GP, 1121.VC (angel fund); Co-founder, OpenGov & Camino"
+tldr: "General Partner at Builders VC (Fund III ~$500M, joined 2025) and solo GP of angel fund 1121.VC. Two-time govtech founder: former OpenGov CTO (acquired by Cox at a $1.8B valuation) and Camino Technologies CEO (acquired by Clariti). Leads Series A rounds ($10M-$22M) in B2B SaaS, applied AI, and regulation tech — verified deals include Pursuit, Knapsack, Augment, and ePlanSoft — while writing sub-$50K angel checks industry-agnostically through 1121.VC."
 location: "Nashville, TN"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [b2b-saas, govtech, applied-ai, regtech, enterprise-software, fintech]

@@ -9,6 +9,7 @@ last_verified_investment:
 location: New York, NY
 name: Iqram Magdon-Ismail
 role: Co-Founder, JellyJelly; Angel Investor
+tldr: "Venmo co-founder, now CEO of Ense and co-founder of JellyJelly, the 2025 video-chat/podcast-clip product he launched with Sam Lessin. Also affiliated with African early-stage firm Raba. Low-frequency angel ($5K-$50K checks, $25K sweet spot) whose five verified checks skew toward consumer/social software (Series, Clyx) and vertical SaaS (Flowhub, Hatz AI), plus Africa fintech (Stitch); helped Flutterwave secure its Series A from Greycroft as an early advisor."
 sector_focus:
 - consumer
 - fintech

@@ -4,6 +4,7 @@ slug: greg-gottesman
 type: individual
 firm: pioneer-square-labs
 role: "Co-Founder & Managing Director, Pioneer Square Labs"
+tldr: "Co-founder and Managing Director of Pioneer Square Labs, the Seattle startup studio and pre-seed/seed fund he launched in 2015 after 20 years as Managing Director at Madrona Venture Group. Co-founder and founding CEO of Rover (NASDAQ: ROVR), acquired by Blackstone for $2.3B in 2024. His personally attributed PSL book leans heavily into applied AI (Dropzone AI, Read AI, Overland AI, Maximal Learning) and B2B/fintech spinouts (Arrived, Boundless, Shipium). Pre-seed/seed, Pacific Northwest focus."
 location: "Seattle, WA"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai, marketplaces, b2b-saas, fintech, proptech, climate, cybersecurity, consumer]

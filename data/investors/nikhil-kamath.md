@@ -4,6 +4,7 @@ slug: nikhil-kamath
 type: individual
 firm: gruhas
 role: "Co-Founder, Gruhas; Founder, WTFund; Co-Founder, Zerodha"
+tldr: "Zerodha co-founder investing through three vehicles: Gruhas (SEBI Cat-II AIF plus the ₹300 crore Earth Fund with Brigade, focused on PropTech, climate tech, and built world at $1-2M Pre-A/A), WTFund (non-dilutive ₹20 lakh grants to under-25 founders), and personal angel checks skewed toward consumer, creator economy, and fintech (Subko, Bummer, InCred, Nazara). Frequently leads or anchors rounds; portfolio is almost entirely India-headquartered."
 location: "Bengaluru, India"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [proptech, climate-tech, consumer, ai, healthtech, creator-economy, fintech, sustainability]

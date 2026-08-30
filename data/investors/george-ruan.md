@@ -9,6 +9,7 @@ last_verified_investment:
 location: Los Angeles, California
 name: George Ruan
 role: Co-founder of Honey; angel investor
+tldr: "Co-founder of Honey, the coupon-code browser extension acquired by PayPal for $4B in 2020 (~$900M personal proceeds). Low-frequency operator-angel writing $5K-$50K cheques, typically as a named participant alongside institutional leads. Five verified checks concentrate in consumer-adjacent-to-Honey products (Pill Club, Pogo, Simplify Jobs, Breakaway Festival, Certifyde). Reports of a personal fund named 'Protagonist' surfaced in 2023 but remain uncorroborated by major press; treat as an independent angel."
 sector_focus:
 - consumer
 - fintech

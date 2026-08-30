@@ -4,6 +4,7 @@ slug: nathan-benaich
 type: individual
 firm: ""
 role: "Founder & General Partner, Air Street Capital"
+tldr: "Founder and sole GP of Air Street Capital, a London-based 'AI-first' fund with ~$400M AUM across three funds (Fund III closed at $232M in March 2026 — Europe's largest solo-GP firm). Co-author of the annual State of AI Report. Writes $500K-$15M seed/Series A checks into AI-native companies across foundation models, techbio, robotics, and defense — verified portfolio includes Wayve, ElevenLabs, Synthesia, Poolside, Black Forest Labs, Profluent, Crusoe, and exits Adept and Graphcore."
 location: "London, UK"
 stage_focus: [seed, series-a]
 sector_focus: [artificial-intelligence, ai-infrastructure, developer-tools, techbio, defense, robotics]

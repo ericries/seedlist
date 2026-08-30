@@ -214,7 +214,7 @@ The following table includes 45 Benchmark investments verified through press cov
 | Sierra | Series E (participated; co-led Seed 2024-02-13) | 2026-05-04 | AI / Customer Service | Private [^38][^39][^40] |
 | Decart | Growth (participated, $300M at $4B val; Radical Ventures led) | 2026-05-18 | AI / World Models / Inference | Private [^44] |
 | Ollama | Series A (led, $15M, 2024); Series B participated ($65M, Theory Ventures led) | 2026-07-09 | AI / Developer Tools / Open Source Models | Private [^50][^51] |
-| Decade | Seed (co-lead, $85M) | 2026-08-04 | Fintech / AI wealth advisory (Brazil) | Private [^57] |
+| Decade | Seed (co-lead with Greenoaks and Diffusion, $85M; largest LatAm seed round ever; founded by ex-Nubank CTO Vitor Olivier and Hyperplane founder Felipe Meneses) | 2026-08-04 | Fintech / AI wealth advisory (Brazil) | Private [^57][^58][^59] |
 
 *Note: This table includes 46 companies out of ~305 total portfolio companies (~15%). Years marked with "~" indicate approximate dates based on founding year proxies or estimated investment timing where exact dates are not publicly confirmed. Stages listed reflect Benchmark's initial or most significant investment round.*
 
@@ -381,3 +381,5 @@ The following table includes 45 Benchmark investments verified through press cov
 
 [^56]: FinSMEs, "Eigen Raises $15M in Seed Funding," April 2026. Accessed July 2026. https://www.finsmes.com/2026/04/eigen-raises-15m-in-seed-funding.html — Third independent industry-press confirmation of Eigen's $15M seed round led by Benchmark on April 16, 2026.
 [^57]: BusinessWire, "Decade Raises $85M in Latin America's Largest Seed Round to Create a New Generation of Millionaires with AI," August 4, 2026. Accessed August 2026. https://www.businesswire.com/news/home/20260804082552/en/Decade-Raises-$85M-in-Latin-Americas-Largest-Seed-Round-to-Create-a-New-Generation-of-Millionaires-with-AI — Decade (São Paulo, Brazil) emerged from stealth Aug 4, 2026 with $85M seed. Backers: Greenoaks, Benchmark, Diffusion. Founded by former Nubank CTO Vitor Olivier and Hyperplane founder Felipe Meneses.
+[^58]: LatamList, "Decade raises $85M seed round to launch AI-powered wealth advisory platform," August 4, 2026. Accessed August 2026. https://latamlist.com/decade-raises-85m-seed-round-to-launch-ai-powered-wealth-advisory-platform/ — Independent Latin America tech press confirming Decade's $85M seed led by Greenoaks, Benchmark, and Diffusion, described as the largest seed round ever raised for a Latin American startup.
+[^59]: The Next Web, "Ex-Nubank team raises $85m for Decade, an AI wealth adviser promising 'a generation of millionaires'," August 4, 2026. Accessed August 2026. https://thenextweb.com/news/decade-85m-seed-ai-wealth-brazil-nubank — Third independent tier-1 tech press confirmation of Benchmark's co-lead role in the $85M Decade seed, including Neil Mehta (Greenoaks) and Felipe Meneses (Decade co-founder) quotes.

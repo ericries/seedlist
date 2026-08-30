@@ -4,6 +4,7 @@ slug: gazal-alagh
 type: individual
 firm:
 role: "Co-Founder & Chief Innovation Officer, Honasa Consumer (Mamaearth); Angel Investor"
+tldr: "Co-founder and Chief Innovation Officer of Honasa Consumer (Mamaearth), the D2C beauty group that became India's first unicorn of 2022 and IPO'd in 2023. Season 1 shark on Shark Tank India and an active angel with 22 disclosed cheques — heavily concentrated in Indian female-founded D2C consumer brands at seed and Series A (BlissClub, Wishlink, True Diamond, Underneat, Dressfolk, Kidbea). Roughly 90% of her personal portfolio is women-led."
 location: "Gurgaon, Haryana, India"
 stage_focus: [seed, series-a]
 sector_focus: [consumer, d2c, beauty-and-personal-care, health-tech, femtech, foodtech]

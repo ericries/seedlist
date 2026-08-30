@@ -5,6 +5,7 @@ type: firm
 website: "https://oatv.com"
 location: "San Francisco, CA"
 founded: 2005
+tldr: "San Francisco pioneer of institutional seed investing, founded 2005 by Bryce Roberts, Mark Jacobsen, and Tim O'Reilly. Three funds totaling ~$196M, writing ~$700K checks by 'following the alpha geeks' — technology early adopters spotted through O'Reilly Media's network. Generalist across developer tools, consumer, data, cybersecurity, hardware, and healthcare — notable investments include Foursquare, Fastly, Planet, Devoted Health, Bitly, and Signal Sciences. Spawned Indie.vc, an alternative revenue-first fund, in 2015."
 fund_size: "Fund I: $51M (2006); Fund II: $60M (2010); Fund III: $85M (2012)"
 stage_focus: [seed]
 sector_focus: [developer-tools, consumer-internet, saas, data-analytics, cybersecurity, robotics, healthcare, hardware]

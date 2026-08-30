@@ -4,6 +4,7 @@ slug: gina-gotthilf
 type: individual
 firm: latitud
 role: "Co-Founder & General Partner"
+tldr: "Co-founder and General Partner of Latitud, a pre-seed venture fund and startup infrastructure platform for Latin America, and co-founder/CMO of edtech startup Outsmart Education. Former VP of Growth and Marketing at Duolingo, where she helped scale the app from 3M to 200M+ users. Latitud's portfolio spans 130+ pre-seed companies concentrated in fintech (41%) across Brazil, Mexico, Argentina, and Colombia — Pomelo, StarkBank, Yuno, Finkargo, Alinea Health, aMORA. Checks typically $250K at pre-seed."
 location: "New York, NY"
 stage_focus: [pre-seed, seed]
 sector_focus: [fintech, edtech, e-commerce, proptech, healthtech, marketplaces]

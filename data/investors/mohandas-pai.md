@@ -4,6 +4,7 @@ slug: mohandas-pai
 type: individual
 firm: aarin-capital
 role: "Co-Founder & Chairman, Aarin Capital; Investment Committee Member, 3one4 Capital; Co-Founder & Advisor, Exfinity Venture Partners"
+tldr: "Bengaluru-based former Infosys CFO turned prolific India-focused venture investor across three vehicles: Aarin Capital (~50 companies, ~₹203 crore deployed since 2013), 3one4 Capital (IC member; his sons' firm), and Exfinity Venture Partners (B2B enterprise-tech). Backs seed and Series A in Indian life sciences, healthcare, edtech, fintech, and deeptech, sweet spot ~$1.5M. Portfolio includes BYJU'S, Licious, Faircent, Counsyl, Vyome, and TripFactory."
 location: "Bengaluru, Karnataka, India"
 stage_focus: [seed, pre-series-a, series-a]
 sector_focus: [edtech, healthtech, life-sciences, fintech, consumer, saas, deeptech]

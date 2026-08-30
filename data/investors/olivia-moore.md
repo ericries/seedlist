@@ -4,6 +4,7 @@ slug: olivia-moore
 type: individual
 firm: andreessen-horowitz
 role: "Partner (AI / Consumer Investing)"
+tldr: "Partner at Andreessen Horowitz focused on consumer AI and AI-native workflows for SMB and mid-market. Joined a16z in 2021 with her twin sister Justine from CRV; publishes a16z's recurring 'Top 100 Gen AI Consumer Apps' rankings. Named sponsor on a16z-led rounds in HappyRobot, Toma, Salient, Krea, and Scribenote — a heavy concentration on voice AI agents replacing operational SaaS in vertical markets like freight, dealerships, and lending."
 location: "San Francisco, CA"
 stage_focus: [seed, series-a]
 sector_focus: [ai, consumer, consumer-ai, ai-agents, voice-ai, vertical-saas, smb, marketplaces]

@@ -4,6 +4,7 @@ slug: edward-tian
 type: individual
 firm: gptzero
 role: "Co-Founder & CEO, GPTZero; Angel Investor"
+tldr: "Co-founder and CEO of GPTZero, the AI text detection tool he launched from Princeton in January 2023 that now claims 10M+ users. Began writing personal angel checks in 2025, positioning himself as a media-and-storytelling ally to young first-time founders rather than a traditional investor. Two verified checks so far — Series (AI social in iMessage) and First Voyage (AI companion app) — both consumer-AI at pre-seed or seed."
 location: "New York, NY"
 stage_focus:
 - pre-seed

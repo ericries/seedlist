@@ -4,6 +4,7 @@ slug: emily-cohen
 type: individual
 firm: neo
 role: "Partner"
+tldr: "Partner at Neo, Ali Partovi's mentorship-driven pre-seed and seed fund, where she built and ran the Neo Accelerator (60+ startups across three cohorts). A former Google engineer and McKinsey analyst promoted from Head of Accelerator to Partner in 2025. Individually attributed bets skew AI/developer-tools and consumer — Cognition (Devin), Chord, Sapien, Doorlist, Womp — often from the Neo Scholars scholar-to-founder pipeline. Left Neo in mid-2025 to join Cognition full-time."
 location: "San Francisco, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai, developer-tools, consumer, fintech, social]

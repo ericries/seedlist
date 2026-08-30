@@ -4355,22 +4355,37 @@ priority:
   type: firm
   reason: led Ellis seed (2026-07-30), $10M+
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified First Round Capital led Ellis $10M seed (2026-07-30) via 3 primary sources (BusinessWire company release, TechCrunch, Alternative Credit Investor). Ellis row already exists in Portfolio at line 146 with all 3 citations. Frontmatter LVI unaffected — verified. No profile changes needed.'
 - slug: khosla-ventures
   type: firm
   reason: participated in Ellis seed (2026-07-30), $10M+
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Khosla Ventures participated in Ellis $10M seed (2026-07-30, First Round Capital led) via 3 primary sources (BusinessWire, TechCrunch, Alternative Credit Investor). Ellis row already exists in khosla-ventures.md Portfolio with all 3 citations. No profile changes needed.'
 - slug: thrive-capital
   type: firm
   reason: participated in Ellis seed (2026-07-30), $10M+
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Thrive Capital participated in Ellis $10M seed (2026-07-30, First Round Capital led) via 3 primary sources (BusinessWire, TechCrunch, Alternative Credit Investor). Ellis row already exists in thrive-capital.md Portfolio with all 3 citations. No profile changes needed.'
 - slug: josh-kushner
   type: investor
   reason: participated in Ellis seed (2026-07-30), $10M+
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Josh Kushner participated as angel in Ellis $10M seed (2026-07-30) via 3 primary sources (BusinessWire, Alternative Credit Investor, TechCrunch). Added third citation [^ellis-jk3] TechCrunch to josh-kushner.md Ellis Portfolio row (was 2 citations, now 3).'
 - slug: immad-akhund
   type: investor
   reason: participated in Ellis seed (2026-07-30), $10M+
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Immad Akhund participated as angel in Ellis $10M seed (2026-07-30) via 3 primary sources (BusinessWire, TechCrunch, Alternative Credit Investor). Added third citation [^ellis-ia3] Alternative Credit Investor to immad-akhund.md Ellis Portfolio row (was 2 citations, now 3).'
 - slug: ian-hogarth
   type: investor
   reason: co-led Ore Energy Series A (2026-08-04) with HV Capital
@@ -4395,6 +4410,9 @@ priority:
   type: firm
   reason: participated in HappyRobot Series C (2026-08-04), $150M
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Koch Disruptive Technologies participated in HappyRobot Series C ($150M at $1.2B post-money, 2026-08-04; Prysm Capital + Eurazeo co-led) via 4 primary sources (Tech.eu, The AI Insider, Tech Funding News, Crypto Briefing). Added new HappyRobot row to koch-disruptive-technologies.md Portfolio with 4 new footnotes ([^hrb1]-[^hrb4]).'
 - slug: pitango-venture-capital
   type: firm
   reason: participated in QuantHealth Series B (2026-08-04), $45M via Pitango HealthTech
@@ -4411,6 +4429,9 @@ priority:
   type: firm
   reason: led Buzz Solutions Series A (2026-08-04), $20M
   added: 2026-08-04
+  status: resolved
+  resolved: 2026-08-30
+  note: "Round documented on Buzz Solutions startup profile (FinSMEs + Buzz Solutions press page); s3-ventures has no profile in repo to update. Blackhorn Ventures portfolio confirms Buzz Solutions as portfolio company."
 - slug: oak-hc-ft
   type: firm
   reason: led Dash Bio Series A (2026-08-03), $30M
@@ -4435,6 +4456,9 @@ priority:
   type: individual
   reason: led Ambrook Series B (2026-08-04), $30M
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Lachy Groom led Ambrook Series B ($30M, 2026-08-04; Thomson Reuters Ventures, Thrive Capital, Field Ventures, Cameron Ventures participated) via 3 primary sources (Upstarts Media/Alex Konrad, Ambrook company Series B announcement, Techmeme). Added new Ambrook row to lachy-groom.md Portfolio with 3 new footnotes ([^ambrook-lg1]-[^ambrook-lg3]).'
 - slug: thrive-capital
   type: firm
   reason: participated Ambrook Series B (2026-08-04), $30M
@@ -4461,14 +4485,23 @@ priority:
   type: firm
   reason: co-led Decade seed (2026-08-04), $85M
   added: 2026-08-05
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Benchmark co-led Decade $85M seed (2026-08-04; largest LatAm seed ever; alongside Greenoaks and Diffusion; founded by ex-Nubank CTO Vitor Olivier and Hyperplane founder Felipe Meneses) via 3 primary sources (BusinessWire company release, LatamList, The Next Web). Enriched benchmark.md Decade Portfolio row with full syndicate and 2 new citations ([^58], [^59]), bringing to 3 total.'
 - slug: crv
   type: firm
   reason: led Maximum seed (2026-08-03), $30M
   added: 2026-08-05
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified CRV led Maximum $30M seed (2026-08-03) via 3 primary sources (GlobeNewswire company release, Refresh Miami, FinTech Global). Maximum row already exists in crv.md Portfolio at line 169 with all 3 citations. Caitlin Bolnick Rellas named as CRV GP. No profile changes needed.'
 - slug: pear-vc
   type: firm
   reason: participated Maximum seed (2026-08-03), $30M
   added: 2026-08-05
+  status: resolved
+  resolved: '2026-08-30'
+  note: 'Fact-spec sweep 2026-08-30: Verified Pear VC participated in Maximum $30M seed (2026-08-03, CRV led) via 3 primary sources (GlobeNewswire company release, Refresh Miami, FinTech Global). Maximum row already exists in pear-vc.md Portfolio at line 153 with all 3 citations. No profile changes needed.'
 - slug: y-combinator
   type: firm
   reason: backed Isengard Industries Summer 2026 batch (2026-08-04, seed)
@@ -4489,6 +4522,9 @@ priority:
   type: firm
   reason: participated (Venrock Healthcare Capital Partners) in Expedition Therapeutics Series B (2026-08-05), $115M
   added: 2026-08-05
+  status: resolved
+  resolved: 2026-08-30
+  note: "Fact-spec sweep 2026-08-30: Verified Venrock Healthcare Capital Partners participated in Expedition Therapeutics $115M Series B (2026-08-05, General Atlantic led) via 3 primary sources (General Atlantic press release, BioPharma Dive, Endpoints News). Enriched venrock.md Expedition row with 2 additional citations ([^35], [^36]), bringing to 3 total. Brett Zbar (General Atlantic MD) joined the board."
 - slug: andreessen-horowitz
   type: firm
   reason: co-led Volta Infra Seed+Series A (2026-08-04), $300M at $2.4B valuation
@@ -4804,4 +4840,12 @@ priority:
 - slug: y-combinator
   type: firm
   reason: appeared in Arintra Series B (2026-08-26)
+  added: 2026-08-30
+- slug: bessemer-venture-partners
+  type: firm
+  reason: appeared in Bevel Seed (2026-08-28)
+  added: 2026-08-30
+- slug: thrive-capital
+  type: firm
+  reason: appeared in Retro Series A (2026-08-28)
   added: 2026-08-30

@@ -9,6 +9,7 @@ last_verified_investment:
 location: New York, NY
 name: Halle Tecco
 role: Co-Founder, Techammer; Founder, Rock Health
+tldr: "Founder of Rock Health — the first dedicated digital-health venture fund and accelerator — and co-founder of Techammer, her family investment vehicle with husband Jeff Hammerbacher. Also founded Natalist (acquired by Everly Health) and co-founded Cofertility. Historical angel portfolio of 53 checks concentrates in digital health, femtech, and consumer healthcare (Tia, Poppy Seed Health, Hued, Marley Medical, Function Health, Aavia). Publicly stopped writing new angel checks in 2023; now focuses on board work (Collective Health, Cofertility), LP commitments, and teaching."
 sector_focus:
 - digital-health
 - healthcare

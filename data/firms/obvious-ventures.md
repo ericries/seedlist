@@ -1,5 +1,6 @@
 ---
 founded: 2014
+tldr: "San Francisco 'world positive' seed and Series A firm founded 2014 by Twitter/Blogger/Medium co-founder Ev Williams alongside James Joaquin and Vishal Vasishth. Certified B Corporation with $1B+ AUM across five funds ($123M to $360M). Invests in climate, healthcare, fintech, AI, energy, and consumer businesses whose success requires solving a systemic problem — Obvious frames itself around 'world positive' investing rather than pure returns extraction."
 fund_size: '$1B+ AUM across five funds (OV1: $123M, OV2: $192M, OV3: $272M, OV4: $355M,
   OV5: $360M)'
 last_researched: 2026-06-03

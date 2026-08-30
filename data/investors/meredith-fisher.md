@@ -4,6 +4,7 @@ slug: meredith-fisher
 type: individual
 firm: mass-general-brigham-ventures
 role: "Partner"
+tldr: "Partner at Mass General Brigham Ventures (formerly Partners HealthCare Innovation), a $450M+ AUM life-science fund investing seed/Series A ($100K-$5M) in companies emerging from Mass General Brigham research. PhD scientist and three-time founding CEO whose portfolio skews therapeutics-heavy with a CNS/neuroscience concentration — board seats at Mediar, Nocion, Violet, ClarisBio, FireCyte, plus exits Amolyt (AstraZeneca) and Scorpion (Lilly)."
 location: "Cambridge, Massachusetts"
 stage_focus: [seed, series-a]
 sector_focus: [biotech, therapeutics, medtech, diagnostics, digital-health, healthcare, neuroscience]

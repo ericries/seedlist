@@ -4,6 +4,7 @@ slug: fred-anderson
 type: individual
 firm: elevation-partners
 role: "Co-Founder & Managing Director"
+tldr: "Apple's CFO from 1996-2004 who ran the finance side of the Jobs-era turnaround, then co-founded Elevation Partners (2004) and NextEquity Partners (2015), both growth-equity firms. Portfolio has shifted from Elevation-era media/consumer bets (Forbes, Palm, Yelp, Facebook, Airbnb, Uber) to a NextEquity book heavy in cybersecurity and enterprise software (SentinelOne, Arctic Wolf, Bishop Fox, SAFE, Kore.ai, Clarifai, Coralogix). Long-serving director at Yelp, eBay, Sonos, and Palm; targets companies with $10M-$50M+ revenue."
 location: "Menlo Park, CA"
 stage_focus: [growth-equity, late-stage]
 sector_focus: [consumer-technology, enterprise-software, cybersecurity, media, entertainment]

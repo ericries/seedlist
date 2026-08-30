@@ -4,6 +4,7 @@ slug: isaiah-granet
 type: individual
 firm: bland
 role: "Co-Founder & CEO"
+tldr: "Co-founder and CEO of Bland, the San Francisco voice AI platform he started in 2023 (YC S23) that has raised $100M+ across seed through Series C, most recently a June 2026 round led by Dell Technologies Capital with Emergence, Scale, Y Combinator, and Max Levchin. Profiled as a founder-operator rather than an active investor — no verifiable personal angel portfolio."
 location: "San Francisco, CA"
 stage_focus: []
 sector_focus: []

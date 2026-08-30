@@ -4,6 +4,7 @@ slug: helen-liang
 type: individual
 firm: foundersx-ventures
 role: "Founder & Managing Partner"
+tldr: "Founder and Managing Partner of FoundersX Ventures, a Silicon Valley AI-first seed and Series A firm launched in 2016 with backing from a Stanford founders circle. Publicly-highlighted portfolio skews to LatAm-facing fintech (Kapital, Jeeves, Kontigo, Alinea Invest, Bitstack) and applied AI (Solve Intelligence, Arintra, Jericho Security, Glyphic Bio). Firm claims 100+ investments; several 2025 Series A up-rounds ($120M+ combined) in its seed portfolio."
 location: "Menlo Park, California"
 stage_focus: [seed, series-a]
 sector_focus: [ai, enterprise-saas, fintech, cybersecurity, digital-health, biotech, robotics]

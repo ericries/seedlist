@@ -238,6 +238,30 @@ Rather than participating in formal fundraising processes, Floodgate invests tim
 
 > *Note: Relatively few direct founder-about-investor quotes are publicly available for Maples. This section will be updated as additional testimonials are identified. Maples has described Applied Intuition co-founders Qasar Younis and Peter Ludwig as "among the best founders I had ever encountered," but that is his characterization of them rather than a founder quote about him [^1].*
 
+## Connections
+
+**Firm co-founder / current team:**
+- **Co-Founder & Partner, Floodgate** — established Maples Investments in 2006; Ann Miura-Ko joined as co-founding partner in 2008; renamed Floodgate Fund in March 2010 [^1][^2]
+- **Current Floodgate partners** alongside Maples: Arjun Chopra (General Partner), Iris Choi (Partner), Jay Kennedy, Leeor Mushin [^6]
+
+**Prior operating companies (founder / operator):**
+- **Co-Founder & Chief Marketing Officer, Motive Communications** (1997-2005) — Austin-based broadband management software firm; IPO 2004 (MOTV); acquired by Alcatel-Lucent 2007 [^1][^3]
+- **Director of Product Marketing, Tivoli Systems** (1994-1997) — IPO (TIVS); acquired by IBM [^1]
+- **Product Manager, Silicon Graphics** (1990-1992) [^6]
+
+**Family / mentor connections:**
+- **Father: Mike Maples Sr.** — IBM executive for two decades, then Microsoft EVP Worldwide Products Group (1988-), reported directly to Bill Gates; instrumental in developing Microsoft Office [^5]
+
+**Podcast / community:**
+- **Host, Pattern Breakers podcast** (previously Starting Greatness) — interviewed Marc Andreessen, Reid Hoffman, Kevin Systrom, Mark Cuban, Tobi Lutke, among others [^8]
+- **Author, Pattern Breakers: Why Some Start-Ups Change the Future** (2024, co-authored with Stanford Lecturer Peter Ziebelman) [^7]
+
+**Notable syndicate / follow-on relationships:**
+- **Andreessen Horowitz** — co-invested in Okta; a16z's Todd McKinnon and firm publicly acknowledged by Maples for the Okta partnership [^15]
+- **Benchmark, Sequoia** — frequent Series A/B follow-on leads for Floodgate seed investments [^9][^15]
+
+**Top co-investors** (observed across 46-company verified portfolio): Andreessen Horowitz (Okta and follow-ons), Benchmark, Sequoia Capital, and additional angel syndicates; Floodgate co-founder Ann Miura-Ko is a co-investor on essentially every core Floodgate deal [^1][^9][^15]
+
 ## Sources
 
 [^1]: "Mike Maples, Jr." Floodgate, https://www.floodgate.com/team/mike-maples-jr, accessed 2026-03-13.

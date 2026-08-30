@@ -4,6 +4,7 @@ slug: pete-koomen
 type: individual
 firm: y-combinator
 role: "General Partner, Y Combinator; Angel Investor; Co-Founder, Optimizely"
+tldr: "General Partner at Y Combinator (since 2023) and co-founder/former CTO of Optimizely, which he scaled to $100M+ ARR before its Episerver acquisition in 2020. Writes small pre-seed/seed angel checks ($5K-$50K, ~$25K sweet spot) primarily into developer tools, security, and AI-native SaaS — verified deals include Cerbos and Sublime Security. Widely-read essayist on AI-native software design ('AI Horseless Carriages')."
 location: "San Francisco Bay Area"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai, developer-tools, saas, security, enterprise-software]

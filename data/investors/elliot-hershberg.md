@@ -4,6 +4,7 @@ slug: elliot-hershberg
 type: individual
 firm: amplify-partners
 role: "Partner (Biotech), Amplify Partners"
+tldr: "Partner at Amplify Partners leading the firm's new $200M Amplify Bio digital-biology fund, launched alongside Fund 6 in 2025. A Stanford PhD (computational/molecular biology) with a CS background, previously biotech partner at Not Boring Capital where he backed Unnatural Products, Atomic AI, and Digital Biology. Focuses on the intersection of AI/computation and life sciences at seed and Series A; also writes the Century of Biology newsletter."
 location: "San Francisco, CA"
 stage_focus: [seed, series-a]
 sector_focus:

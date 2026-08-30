@@ -4,6 +4,7 @@ slug: rachel-holt
 type: individual
 firm: construct-capital
 role: "Co-Founder & Managing Partner"
+tldr: "Co-Founder and Managing Partner of Construct Capital ($140M debut fund closed 2021), a DC-based early-stage firm backing modernization of 'foundational industries': manufacturing, logistics, defense, energy, and supply chain. Former Uber executive (one of the first 30 employees, later ran US/Canada Rides and New Mobility). Writes $2M-$10M checks at seed and Series A into a concentrated ~20-company book alongside co-founder Dayna Grayson."
 location: "Washington, DC"
 stage_focus:
   - seed

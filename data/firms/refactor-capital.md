@@ -1,5 +1,6 @@
 ---
 founded: 2016
+tldr: "Burlingame solo-GP seed firm led by Zal Bilimoria (ex-a16z partner), founded 2016 with David Lee (ex-SV Angel) as Chairman. $225M AUM across four funds — Fund IV closed at $50M in mid-2024 in under 90 days. Writes $1M-$2M lead or co-lead checks into pre-seed and seed rounds 'refactoring the real world': hard tech across biotech, climate, aerospace, energy, and healthcare. 100+ investments, 4 unicorns; explicitly avoids med devices, single-asset therapeutics, enterprise SaaS, and consumer mobile."
 fund_size: $50M (Fund IV, 2024); $225M total AUM across four funds and SPVs
 last_researched: 2026-07-09
 location: Burlingame, CA

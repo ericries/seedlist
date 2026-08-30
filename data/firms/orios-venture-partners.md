@@ -5,6 +5,7 @@ type: firm
 website: "https://www.oriosvp.com/"
 location: "Mumbai, Maharashtra, India"
 founded: 2013
+tldr: "Mumbai early-stage firm founded 2013 by serial entrepreneur Rehan Yar Khan (early angel in Druva and Ola Cabs). Four SEBI-registered vehicles including Fund I (INR 300 Cr, returned 1x in 2024), Select Fund I ($30M for follow-ons), and Fund IV (2025). 76 portfolio companies overwhelmingly India-based across consumer, marketplaces, D2C, fintech, healthtech, and SaaS — 3 unicorns (CarDekho, PharmEasy) and 3 IPOs (MobiKwik, ixigo, Nazara). Positions around backing 'Misfit' founders."
 fund_size: "Fund I: INR 300 Cr (2015); Select Fund I: $30M (2021); Fund III: $30M (2021); Fund IV: closed below target with government LP (2025)"
 stage_focus: [seed, pre-series-a, series-a]
 sector_focus: [consumer, marketplaces, d2c, fintech, healthtech, saas, mobility, ev, gaming]

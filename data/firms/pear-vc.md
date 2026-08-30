@@ -1,5 +1,6 @@
 ---
 founded: 2013
+tldr: "San Francisco pre-seed and seed firm founded 2013 by Pejman Nozad and Mar Hershenson (Fund IV at $432M in 2023). Runs the Pear Dorm accelerator for pre-launch student and first-time founders. Sector-broad across AI, enterprise SaaS, healthcare, biotech, fintech, climate, and deep tech; known for being one of the earliest institutional backers of DoorDash, Guardant Health, Gusto, and Branch."
 fund_size: $432M (Fund IV, 2023)
 last_researched: 2026-03-19
 location: San Francisco, CA

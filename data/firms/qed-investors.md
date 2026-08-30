@@ -1,5 +1,6 @@
 ---
 founded: 2007
+tldr: "Alexandria, VA fintech specialist founded 2007 by Capital One co-founders Nigel Morris and Frank Rotman. $4B+ AUM across multiple vehicles including Fund VIII ($650M early-stage, 2023) and Growth II ($275M). Invests pre-seed through growth in fintech, lending, payments, insurtech, consumer finance, proptech, and wealthtech across the US, UK/Europe, LatAm, Asia-Pacific, and Africa/Middle East via dedicated regional partners."
 fund_size: $4B+ AUM; Fund VIII ($650M early-stage, 2023); Growth II ($275M, 2023);
   Fund VII ($550M early-stage, 2021); Growth I ($500M, 2021); Fund VI ($350M, 2020)
 last_researched: 2026-06-12

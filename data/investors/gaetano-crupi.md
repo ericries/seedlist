@@ -4,6 +4,7 @@ slug: gaetano-crupi
 type: individual
 firm: us-innovative-technology-fund
 role: "Managing Director"
+tldr: "Managing Director at US Innovative Technology Fund (USIT), Thomas Tull's Pittsburgh-based, $3-5B dual-use tech firm, since 2023. Previously Partner at Prime Movers Lab; before that co-founder and CEO of Cabin Technologies and COO of Betable. Verified investments concentrate on hard-tech and physical infrastructure — Gecko Robotics, Oxide Computer, Lambda (defense/AI compute), Atom Computing (quantum), MycoWorks (materials), Bandit (foodtech). Checks span $1.5M seed to $200M+ growth; takes board seats at 6 of 10 verified deals."
 location: "Pittsburgh, PA"
 stage_focus: [seed, series-a, series-b, series-c, growth]
 sector_focus: [defense-tech, ai-infrastructure, quantum-computing, deep-tech, robotics, material-science, biotech, climate-tech, cloud-infrastructure, food-tech]

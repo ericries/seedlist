@@ -9,6 +9,7 @@ last_verified_investment:
 location: Berkeley, California
 name: David Crawshaw
 role: Co-Founder & CEO, exe.dev; Co-Founder, Tailscale
+tldr: "Systems engineer, co-founder and former CTO of Tailscale, and co-founder/CEO of exe.dev (raised $25M Series A from Amplify, CRV, and Heavybit in 2026). A long-time Go language contributor from Google who writes influentially on LLM-assisted programming, SQLite, and cloud infrastructure. No public angel portfolio; profiled as a technical node in the developer-tools/infrastructure graph rather than as an active check-writer."
 sector_focus:
 - developer-tools
 - infrastructure

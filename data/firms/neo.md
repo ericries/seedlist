@@ -5,6 +5,7 @@ type: firm
 website: "https://neo.com"
 location: "San Francisco, CA"
 founded: 2017
+tldr: "San Francisco pre-seed/seed venture firm, mentorship community, and accelerator founded in 2017 by Code.org co-founder Ali Partovi. $1B+ AUM across four funds; LPs include Satya Nadella, Reid Hoffman, Bill Gates, Sheryl Sandberg, and dozens of unicorn founders. Runs the Neo Scholars program for top CS students, a $40K student-grant track, and the Neo Residency accelerator ($750K uncapped SAFE). 45% of capital has gone to women and URM CEOs; reported 51% gross IRR across its first two funds."
 fund_size: "$1B+ AUM across four funds"
 stage_focus:
   - pre-seed

@@ -4,6 +4,7 @@ slug: david-hirsch
 type: individual
 firm: compound-ventures
 role: "General Partner"
+tldr: "General Partner at Compound (formerly Metamorphic Ventures), the New York thesis-driven firm he co-founded in 2009 and rebranded in 2016. Second employee at Google's NYC office and the commercialization-focused half of Compound's leadership; his verified footprint over-indexes on healthcare and biology (Tia, Talkspace, Bionaut, Achira) alongside AI/robotics (Deepgram, Runway, Wayve) and crypto (Stacks, The Graph, Livepeer). Typical checks $400K-$1.5M."
 location: "New York, NY"
 stage_focus: [seed, series-a]
 sector_focus: [AI, healthcare, biotech, crypto, robotics, deep-tech, women-health, digital-health]

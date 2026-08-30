@@ -118,7 +118,7 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 | Komodor | Seed | 2020 | DevOps | [^15] [^28] |
 | D-ID | Seed | 2017 | Generative AI | [^20] |
 | Optibus | Series A | 2017 | Mobility & Smart City | [^15] [^29] |
-| QuantHealth | Seed | 2021 | Digital Health | [^14] |
+| QuantHealth | Series A (co-led, $17M) → Series B follow-on (participated, $45M via Pitango HealthTech) | 2024-01-09; 2026-08-04 | Digital Health / Clinical Trial AI | Active [^14][^59][^60] |
 | Variantyx | Series A | 2019 | Medical Devices | [^15] [^30] |
 | Masterschool | Seed | 2022-05-19 | EdTech | [^15] [^31] [^51] |
 | Logz.io | Series E | 2020 | DevOps | [^15] [^32] |
@@ -267,3 +267,7 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 [^56]: Axios, "AppsFlyer secures $1 billion investment from Google, Meta, Unity and Moloco," June 22, 2026, accessed June 2026. https://www.axios.com/2026/06/22/appsflyer-billion-moloco-google-meta-unity — Names Pitango as a previous backer alongside General Atlantic, Salesforce Ventures, Goldman Sachs, and DTCP in the $1B+ Series E at $2.7B post-money valuation.
 [^57]: Calcalist (CTech), "AppsFlyer raises over $1 billion from Google, Meta, Unity and Moloco at a $2.7 billion valuation," June 22, 2026, accessed June 2026. https://www.calcalistech.com/ctechnews/article/sk1lop8fzl — Independent confirmation that Pitango is among the existing institutional shareholders alongside General Atlantic, Goldman Sachs, Salesforce Ventures, Magma Venture Partners, Qumra Capital, DTCP, and Eight Roads.
 [^58]: Crunchbase News, "AppsFlyer Reportedly Lands $1B At $2.7B Valuation To Help Companies Track Digital Ads," June 22, 2026, accessed June 2026. https://news.crunchbase.com/venture/marketing-digital-ad-tracker-appsflyer-lands-1b/ — Third independent confirmation of Pitango as previous/existing investor in AppsFlyer's $1B+ Series E.
+
+[^59]: Ventureburn, "QuantHealth Raises $45M to Let Pharm Test Clinical Trials with AI Before Spending Billions," August 4, 2026, accessed August 2026. https://ventureburn.com/quanthealth-raises-45m-series-b-ai-clinical-trial-simulations/ — Primary trade-press announcement confirming QuantHealth's $45M Series B on August 4, 2026 led by Qumra Capital with Sanofi Ventures, Pitango HealthTech, Bertelsmann Investments, and Accenture Ventures participating. Total raised: $75M. Founder: Orr Inbar (CEO).
+
+[^60]: Clinical Trials Arena, "QuantHealth receives funding to expedite clinical trial simulations use," January 9, 2024, accessed August 2026. https://www.clinicaltrialsarena.com/news/quanthealth-funding-trial-simulations/ — Contemporaneous primary press for QuantHealth's earlier $17M Series A on January 9, 2024, co-led by Bertelsmann Investments and Pitango HealthTech with Accenture Ventures, Shoni Top Ventures, and Nina Capital participating.

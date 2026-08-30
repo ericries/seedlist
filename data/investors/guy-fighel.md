@@ -4,6 +4,7 @@ slug: guy-fighel
 type: individual
 firm: hetz-ventures
 role: "Partner & Head of Data Program"
+tldr: "Partner at Hetz Ventures, the ~$500M AUM Israeli firm, where he leads the Hetz Data Program. A 25-year data/ML operator who co-founded SignifAI (acquired by New Relic in 2019) and ran New Relic's data platform engineering before joining Hetz. Small but coherent verified book at the AI/ML infrastructure and enterprise-AI-governance layer — Willow (led $7M seed), Runhouse, Stigg, Helios — all Israeli seed-stage bets."
 location: "Israel / San Francisco"
 stage_focus: [seed, series-a]
 sector_focus: [ai, data-infrastructure, developer-tools, enterprise-software]

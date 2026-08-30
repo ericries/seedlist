@@ -100,6 +100,7 @@ Based on analysis of 35 verified investments (across ~30 unique companies, some 
 | Meter | 2021 | Series A (co-led, $35M) | Infrastructure/Networking | [^33] |
 | Rise | ~2022 | Seed (led, $3M) | Productivity/Calendaring | [^34] |
 | Imprint | 2023-11-13 | Series B | Fintech/Co-branded cards | [^35][^38][^39] |
+| Ambrook | 2026-08-04 | Series B (led, $30M; Thomson Reuters Ventures, Thrive Capital, Field Ventures, Cameron Ventures participated) | Fintech/Accounting/Vertical SaaS/Agriculture | [^ambrook-lg1][^ambrook-lg2][^ambrook-lg3] |
 
 This table represents approximately 35 unique companies of Groom's 200+ claimed investments (roughly 17%). Different sources report varying portfolio sizes: PitchBook cites 204 investments across 122 companies; other aggregators report 146-209 investments [^1][^15]. The discrepancy likely reflects differences in counting methodology across personal angel investments, LGF fund investments, and SPV co-investments.
 
@@ -175,3 +176,7 @@ Sam Altman, CEO of OpenAI, posted on X: "lachy is one of four people i ask for c
 [^40]: Pulse2, "Notion: $10 Million Funding At $800 Million Valuation," July 25, 2019, accessed June 2026. https://pulse2.com/notion-10-million-funding-at-800-million-valuation/ — Confirms Lachy Groom among Notion Series A angel investors.
 [^41]: dot.LA, "Pipe Taps $60 Million Seed Extension," June 24, 2020, accessed June 2026. https://dot.la/pipe-taps-60-million-seed-extension-2646245409.html — Confirms Lachy Groom's participation in Pipe's $60M seed extension led by Fin VC.
 [^42]: Washington Technology, "Anduril fetches $1.48B in latest funding round," December 2, 2022, accessed June 2026. https://www.washingtontechnology.com/companies/2022/12/anduril-fetches-148b-latest-funding-round/380409/ — Confirms Lachy Groom as Series E participant.
+
+[^ambrook-lg1]: Upstarts Media (Alex Konrad), "Startup Ambrook, QuickBooks Killer For Farms, Raises $30M Series B," August 4, 2026. Accessed August 2026. https://www.upstartsmedia.com/p/ambrook-raises-30m-series-b-real-economy — Primary tier-1 startup press confirming Lachy Groom led Ambrook's $30M Series B; names Thomson Reuters Ventures, Thrive Capital, Field Ventures, and Cameron Ventures as co-investors. Includes Groom quote on founder Mackenzie Burnett's "authenticity" and "reverence" for customers.
+[^ambrook-lg2]: Ambrook company Series B announcement page. Accessed August 2026. https://ambrook.com/series-b — Company's own primary announcement confirming $30M Series B led by Lachy Groom with Thomson Reuters Ventures, Thrive Capital, Field Ventures, and Cameron Ventures participating; total funding to $59M.
+[^ambrook-lg3]: Techmeme, "Ambrook, which offers accounting software, raised a $30M Series B led by Lachy Groom," August 4, 2026. Accessed August 2026. https://www.techmeme.com/260804/p26 — Third independent tech aggregator confirmation of Lachy Groom leading the $30M Series B.

@@ -4,6 +4,7 @@ slug: fred-seibert
 type: individual
 firm: frederator
 role: "Founder, Frederator Studios / FredFilms; angel investor"
+tldr: "Media executive and animation producer — MTV's first creative director, final president of Hanna-Barbera, and founder of Frederator Studios (Adventure Time, Castlevania) — whose angel record is small and operator-paced. Best known in tech circles for mentoring David Karp from age 14 and introducing him to Spark Capital for Tumblr's seed. Three verified angel checks (Tumblr, Sawhorse Media, Storybird), all NYC consumer creative-tools founders in his personal network. Now runs FredFilms; angel activity appears dormant since 2013."
 location: "New York, New York"
 stage_focus: [seed, series-a]
 sector_focus: [consumer, media, animation, content, social]

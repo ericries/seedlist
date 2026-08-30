@@ -1,5 +1,6 @@
 ---
 founded: 2019
+tldr: "San Francisco seed fund founded 2019 by Jared Heyman (YC W13, CrowdMed) that invests exclusively in Y Combinator alumni startups, using a proprietary ML model ('Rebel Theorem') to score companies pre-Demo Day. Diversified across YC batches with ~18-25 new checks per year and 128 companies as of Feb 2026 (52 seed, 13 Series A). Partners include YC-alumni founders of Instacart (Max Mullen), Cruise (Daniel Kan), Reddit, Scribd, and Rappi. Notable unicorns: Jeeves and Airbyte."
 last_researched: 2026-05-01
 location: San Francisco, California
 name: Rebel Fund

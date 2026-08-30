@@ -5,6 +5,7 @@ type: firm
 website: "https://www.revolution.com"
 location: "Washington, DC"
 founded: 2005
+tldr: "Washington, DC investment firm founded 2005 by AOL co-founder Steve Case, with ~$2B deployed across 200+ companies in 100+ cities. Operates three vehicles: Revolution Growth ($25M-$50M growth checks), Revolution Ventures ($1M-$12M early-stage), and the Rise of the Rest Seed Fund (up to $1M into seed startups outside SF/NY/Boston). 99% of capital invested outside Silicon Valley; portfolio spans consumer, food, healthcare, fintech, defense, and real estate with 9 unicorns, 11 IPOs, and 75 acquisitions."
 fund_size: "~$2B total across all funds; Revolution Growth IV ~$500M (2022), Revolution Ventures III $215M (2019), Rise of the Rest Seed Fund II $150M (2019)"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [consumer, food-agriculture, healthcare, fintech, e-commerce, defense, logistics, real-estate, sports-media, ai, enterprise]
