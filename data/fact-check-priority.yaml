@@ -4501,3 +4501,63 @@ priority:
   type: firm
   reason: participated in Hadrian Series D extension $1.37B (2026-08-06)
   added: 2026-08-06
+- slug: civilgrid
+  type: startup
+  reason: newly published from round monitoring 2026-08-30 ($26M Series A, 2026-08-27)
+  added: 2026-08-30
+- slug: spark-capital
+  type: firm
+  reason: led CivilGrid $26M Series A (2026-08-27)
+  added: 2026-08-30
+- slug: energy-impact-partners
+  type: firm
+  reason: participated in CivilGrid $26M Series A (2026-08-27)
+  added: 2026-08-30
+- slug: retro
+  type: startup
+  reason: newly published from round monitoring 2026-08-30 ($21M+ Series A, 2026-08-28)
+  added: 2026-08-30
+- slug: thrive-capital
+  type: firm
+  reason: led Retro $21M+ Series A (2026-08-28)
+  added: 2026-08-30
+- slug: boxgroup
+  type: firm
+  reason: participated in Retro $21M+ Series A (2026-08-28)
+  added: 2026-08-30
+- slug: conviction
+  type: firm
+  reason: participated in Retro $21M+ Series A (2026-08-28)
+  added: 2026-08-30
+- slug: dylan-field
+  type: investor
+  reason: participated in Retro $21M+ Series A (2026-08-28)
+  added: 2026-08-30
+- slug: transfyr
+  type: startup
+  reason: newly published from round monitoring 2026-08-30 ($25M Seed, 2026-08-26)
+  added: 2026-08-30
+- slug: general-catalyst
+  type: firm
+  reason: led Transfyr $25M Seed (2026-08-26)
+  added: 2026-08-30
+- slug: lux-capital
+  type: firm
+  reason: participated in Transfyr $25M Seed (2026-08-26)
+  added: 2026-08-30
+- slug: neo
+  type: firm
+  reason: participated in Transfyr $25M Seed (2026-08-26)
+  added: 2026-08-30
+- slug: sv-angel
+  type: firm
+  reason: participated in Transfyr $25M Seed (2026-08-26)
+  added: 2026-08-30
+- slug: lupin-dental
+  type: startup
+  reason: newly published from round monitoring 2026-08-30 (€15M Series A, 2026-08-28)
+  added: 2026-08-30
+- slug: yardstik
+  type: startup
+  reason: newly published from round monitoring 2026-08-30 ($30M Series B, 2026-08-27)
+  added: 2026-08-30
