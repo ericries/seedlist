@@ -4131,42 +4131,72 @@ priority:
   type: firm
   reason: participated in Onyx Security Series B (2026-07-29), $113M
   added: 2026-07-31
+  status: unresolvable
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: profile data/firms/cyberstarts.md not found in repository. Onyx Security Series B ($113M, 2026-07-29 at $640M post-money val, Bessemer led with participation from Cyberstarts, TCV, Conviction, FirstMark, Vintage, QuantumLight, G Squared) is verified via 3+ primary sources (Onyx blog, Calcalist, FinTech Global) — but Cyberstarts has no Seedlist profile to update. Queue Cyberstarts as a new firm profile before facts can be added.'
 - slug: quantumlight
   type: firm
   reason: participated in Onyx Security Series B (2026-07-29), $113M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified QuantumLight participated in Onyx Security Series B ($113M at $640M post-money val, 2026-07-29; Bessemer led; Cyberstarts, TCV, Conviction, FirstMark, Vintage Investment Partners, G Squared also participated) via 3 primary sources: Onyx company blog [^onyx1], Calcalist Tech [^onyx2], FinTech Global [^onyx3]. Added new Portfolio row to quantumlight.md and 3 new footnotes.'
 - slug: capitalg
   type: firm
   reason: participated in K2 Space Series D (2026-07-30), $500M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified CapitalG participated in K2 Space Series D ($500M at $6.8B post-money val, 2026-07-30; Kleiner Perkins + ICONIQ co-led; Lightspeed, Altimeter, Spark Capital, Sands Capital, ARK Invest, T. Rowe Price also participated) via 3 primary sources: PR Newswire company release [^k2d1], Bloomberg [^k2d2], Payload Space [^k2d3]. Added new Portfolio row to capitalg.md and 3 new footnotes.'
 - slug: altimeter-capital
   type: firm
   reason: participated in K2 Space Series D (2026-07-30), $500M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Altimeter participated in K2 Space Series D ($500M at $6.8B post-money val, 2026-07-30; Kleiner Perkins + ICONIQ co-led; CapitalG, Lightspeed, Spark Capital, Sands Capital, ARK Invest, T. Rowe Price also participated — Altimeter returning investor from Series B and C) via 3 primary sources: PR Newswire [^k2d-a1], Bloomberg [^k2d-a2], Payload Space [^k2d-a3]. Added new Portfolio row to altimeter-capital.md and 3 new footnotes.'
 - slug: spark-capital
   type: firm
   reason: participated in K2 Space Series D (2026-07-30), $500M
   added: 2026-07-31
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Spark Capital participated in K2 Space Series D ($500M at $6.8B post-money val, 2026-07-30; Kleiner Perkins + ICONIQ co-led; CapitalG, Lightspeed, Altimeter, Sands Capital, ARK Invest, T. Rowe Price also participated) via 3 primary sources: PR Newswire [^k2d-sp1], Bloomberg [^k2d-sp2], Payload Space [^k2d-sp3]. Added new Portfolio row to spark-capital.md and 3 new footnotes.'
 - slug: arcano-partners
   type: firm
   reason: led Atomic One growth round (2026-07-27), €5.6M
   added: 2026-08-01
+  status: unresolvable
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: profile data/firms/arcano-partners.md not found in repository. Atomic One €5.6M funding round (2026-07-31, Arcano Partners contributed additional €660K via Impacto Andalucia Innovacion y Desarrollo SICC fund, bringing total commitment to €2.5M) is verified via 3+ primary sources (Arcano Partners press, EU-Startups, Capital-Riesgo.es) — but Arcano Partners has no Seedlist profile to update. Queue Arcano Partners as a new firm profile before facts can be added.'
 - slug: lita
   type: firm
   reason: led Apolownia Seed (2026-07-31), €1M
   added: 2026-08-01
+  status: unresolvable
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: profile data/firms/lita.md not found in repository. Apolownia Seed round (€1M, 2026-07-31, LITA and Bpifrance backed with business angels) is verified via 3+ primary sources (EU-Startups, Carbon Herald, ccarbon.info, Startup.eu) — but LITA has no Seedlist profile to update. Queue LITA (French impact investor) as a new firm profile before facts can be added.'
 - slug: bpifrance
   type: firm
   reason: participated in Apolownia Seed (2026-07-31), €1M
   added: 2026-08-01
+  status: unresolvable
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: profile data/firms/bpifrance.md not found in repository. Apolownia Seed round (€1M, 2026-07-31, LITA and Bpifrance backed with business angels) is verified via 3+ primary sources (EU-Startups, Carbon Herald, ccarbon.info, Startup.eu) — but Bpifrance has no Seedlist profile to update. Queue Bpifrance as a new firm profile before facts can be added.'
 - slug: lux-capital
   type: firm
   reason: participated in Agon Seed (2026-07-29), $23M co-lead XYZ VC
   added: 2026-08-01
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Lux Capital participated in Agon Seed ($23M portion of $30M launch; 2026-07-29; XYZ Venture Capital led seed; Lux and Northzone co-participated; existing pre-seed backers Lakestar, 201 Ventures, D3 doubled down) via 3 primary sources: Tech.eu [^agon1], Army Technology [^agon2], TechFundingNews [^agon3]. Added new Portfolio row to lux-capital.md and 3 new footnotes. Note: Original queue reason mislabeled XYZ as co-lead — primary press consistently names XYZ Venture Capital as lead of the $23M seed with Lux and Northzone as participants.'
 - slug: northzone
   type: firm
   reason: participated in Agon Seed (2026-07-29), $23M co-lead XYZ VC
   added: 2026-08-01
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Northzone participated in Agon Seed ($23M portion of $30M launch; 2026-07-29; XYZ Venture Capital led seed; Northzone and Lux co-participated; existing pre-seed backers Lakestar, 201 Ventures, D3 doubled down) via 3 primary sources: Tech.eu [^agon-nz1], Army Technology [^agon-nz2], TechFundingNews [^agon-nz3]. Added new Portfolio row to northzone.md and 3 new footnotes.'
 - slug: david-helgason
   type: investor
   reason: chairman & angel in Agon Seed (2026-07-29), $30M
@@ -4649,71 +4679,71 @@ priority:
   added: 2026-08-30
 - slug: menlo-ventures
   type: firm
-  reason: "appeared in Wispr Series B (2026-08-17)"
+  reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
 - slug: notable-capital
   type: firm
-  reason: "appeared in Wispr Series B (2026-08-17)"
+  reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
 - slug: nea
   type: firm
-  reason: "appeared in Wispr Series B (2026-08-17)"
+  reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
 - slug: neo
   type: firm
-  reason: "appeared in Wispr Series B (2026-08-17)"
+  reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
 - slug: 8vc
   type: firm
-  reason: "appeared in Wispr Series B (2026-08-17)"
+  reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
 - slug: acrew-capital
   type: firm
-  reason: "appeared in Wispr Series B (2026-08-17)"
+  reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
 - slug: forerunner-ventures
   type: firm
-  reason: "appeared in Wispr Series B (2026-08-17)"
+  reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
 - slug: iconiq-growth
   type: firm
-  reason: "appeared in Rillet Series C (2026-08-19)"
+  reason: appeared in Rillet Series C (2026-08-19)
   added: 2026-08-30
 - slug: sequoia-capital
   type: firm
-  reason: "appeared in Rillet Series C (2026-08-19)"
+  reason: appeared in Rillet Series C (2026-08-19)
   added: 2026-08-30
 - slug: andreessen-horowitz
   type: firm
-  reason: "appeared in Rillet Series C (2026-08-19) and Castelion Series C (2026-08-19)"
+  reason: appeared in Rillet Series C (2026-08-19) and Castelion Series C (2026-08-19)
   added: 2026-08-30
 - slug: battery-ventures
   type: firm
-  reason: "appeared in Rillet Series C (2026-08-19) and Rundoo Series B (2026-08-19)"
+  reason: appeared in Rillet Series C (2026-08-19) and Rundoo Series B (2026-08-19)
   added: 2026-08-30
 - slug: creandum
   type: firm
-  reason: "appeared in Rillet Series C (2026-08-19)"
+  reason: appeared in Rillet Series C (2026-08-19)
   added: 2026-08-30
 - slug: bessemer-venture-partners
   type: firm
-  reason: "appeared in Rundoo Series B (2026-08-19)"
+  reason: appeared in Rundoo Series B (2026-08-19)
   added: 2026-08-30
 - slug: crv
   type: firm
-  reason: "appeared in Rundoo Series B (2026-08-19)"
+  reason: appeared in Rundoo Series B (2026-08-19)
   added: 2026-08-30
 - slug: altimeter-capital
   type: firm
-  reason: "appeared in Castelion Series C (2026-08-19)"
+  reason: appeared in Castelion Series C (2026-08-19)
   added: 2026-08-30
 - slug: general-catalyst
   type: firm
-  reason: "appeared in Castelion Series C (2026-08-19)"
+  reason: appeared in Castelion Series C (2026-08-19)
   added: 2026-08-30
 - slug: greenoaks
   type: firm
-  reason: "appeared in Also Series D (2026-08-19)"
+  reason: appeared in Also Series D (2026-08-19)
   added: 2026-08-30
 - slug: andreessen-horowitz
   type: firm

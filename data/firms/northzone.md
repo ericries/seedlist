@@ -134,6 +134,7 @@ Based on 30 verified portfolio investments, the following patterns emerge. Note:
 | Blitzy | Growth (led, $200M, $1.4B valuation) | 2026-05-05 | AI/Autonomous Software Development | Active [^38][^39] |
 | microagi | Seed (participated, $55M; Hummingbird led) | 2026-07-16 | Robotics / Humanoid AI / Manufacturing | Active [^micro1][^micro2] |
 | Yope | Seed (led, $12.3M) | 2026-07-22 | Private social networking | Active [^yope1][^yope2][^yope3] |
+| Agon | Seed (participant; $23M portion of Agon's $30M launch round; XYZ Venture Capital led the seed; Northzone and Lux Capital co-participated; existing pre-seed backers Lakestar, 201 Ventures, and D3 doubled down) | 2026-07-29 | Defense / AI / Synthetic Battlefield | Active [^agon-nz1][^agon-nz2][^agon-nz3] |
 
 This table represents approximately 15% of Northzone's ~207 total investments [^10]. Many entries use founding year as a proxy where exact investment year could not be verified.
 
@@ -220,3 +221,7 @@ Note: Both quotes above are from Northzone's own blog about their Operator Netwo
 [^yope3]: "Yope Raises $12.3 Million Pre-Series A Led By Northzone For AI-Native Private Social Platform," Pulse 2.0, July 24, 2026. Accessed July 28, 2026. https://pulse2.com/yope-raises-12-3-million-pre-series-a-led-by-northzone-for-ai-native-private-social-platform/ — Trade-press confirmation; contains verbatim quote from Pär-Jörgen Pärson (Northzone Partner) and both co-founders (some sources label the round Pre-Series A vs. Seed).
 
 [^micro2]: "microagi Raises $55M in Seed Funding," FinSMEs, July 2026. Accessed July 19, 2026. https://www.finsmes.com/2026/07/microagi-raises-55m-in-seed-funding.html — Independent trade-press confirmation of participants.
+
+[^agon-nz1]: Tech.eu, "British defence startup Agon creating virtual battlefields to combat drone attacks launches, raising $30M," July 29, 2026, accessed August 2026. https://tech.eu/2026/07/29/british-defence-startup-agon-creating-virtual-battlefields-launches-raising-30m/ — Primary tier-1 press confirming Agon's launch on July 29, 2026 with a $30M total raise: $7M pre-seed from Lakestar, 201 Ventures, and D3; $23M seed led by XYZ Venture Capital with Northzone and Lux Capital participating.
+[^agon-nz2]: Army Technology, "Defence AI start-up Agon launches with $30m seed round," July 29-30, 2026, accessed August 2026. https://www.army-technology.com/news/agon-seed-round-funding/ — Independent defense-industry trade press confirmation of Agon's $30M funding round with XYZ Venture Capital leading the $23M seed portion and Northzone and Lux Capital participating.
+[^agon-nz3]: TechFundingNews, "Ex-Anduril and Applied Intuition duo raise $30M for European defence AI infrastructure," July 29, 2026, accessed August 2026. https://techfundingnews.com/agon-30m-seed-defence-ai-training-data/ — Third independent tech-press confirmation of the round breakdown ($7M pre-seed + $23M seed) and Northzone / Lux Capital participation in the seed alongside XYZ Venture Capital (lead).

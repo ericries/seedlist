@@ -33480,7 +33480,7 @@ queue:
 - name: Ed Sim
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Boldstart Ventures
   discovered_from: baz
@@ -34349,7 +34349,7 @@ queue:
 - name: Ilya Sukhar
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Matrix Partners
   discovered_from: tikhon-bernstam
@@ -36149,7 +36149,7 @@ queue:
 - name: Dave Morin
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Offline Ventures
   discovered_from: kevin-colleran
