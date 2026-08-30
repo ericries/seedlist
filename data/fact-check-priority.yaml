@@ -4561,3 +4561,167 @@ priority:
   type: startup
   reason: newly published from round monitoring 2026-08-30 ($30M Series B, 2026-08-27)
   added: 2026-08-30
+- slug: d1-capital-partners
+  type: firm
+  reason: appeared in Thrive Holdings Growth (2026-08-12)
+  added: 2026-08-30
+- slug: altimeter-capital
+  type: firm
+  reason: appeared in Thrive Holdings Growth (2026-08-12)
+  added: 2026-08-30
+- slug: elad-gil
+  type: investor
+  reason: appeared in Thrive Holdings Growth (2026-08-12) and Cambridge Aerospace Series C (2026-08-10)
+  added: 2026-08-30
+- slug: menlo-ventures
+  type: firm
+  reason: appeared in Lovable Series C (2026-08-12)
+  added: 2026-08-30
+- slug: lux-capital
+  type: firm
+  reason: appeared in Cambridge Aerospace Series C (2026-08-10)
+  added: 2026-08-30
+- slug: accel
+  type: firm
+  reason: appeared in Cambridge Aerospace Series C (2026-08-10)
+  added: 2026-08-30
+- slug: iconiq-growth
+  type: firm
+  reason: appeared in Whatnot Series G (2026-08-07) as co-lead
+  added: 2026-08-30
+- slug: kleiner-perkins
+  type: firm
+  reason: appeared in Whatnot Series G (2026-08-07)
+  added: 2026-08-30
+- slug: standard-capital
+  type: firm
+  reason: appeared in Whatnot Series G (2026-08-07)
+  added: 2026-08-30
+- slug: andreessen-horowitz
+  type: firm
+  reason: appeared in Whatnot Series G (2026-08-07)
+  added: 2026-08-30
+- slug: bond
+  type: firm
+  reason: appeared in Whatnot Series G (2026-08-07)
+  added: 2026-08-30
+- slug: dst-global
+  type: firm
+  reason: appeared in Whatnot Series G (2026-08-07)
+  added: 2026-08-30
+- slug: y-combinator
+  type: firm
+  reason: appeared in Whatnot Series G (2026-08-07)
+  added: 2026-08-30
+- slug: capitalg
+  type: firm
+  reason: appeared in Whatnot Series G (2026-08-07)
+  added: 2026-08-30
+- slug: menlo-ventures
+  type: firm
+  reason: "appeared in Wispr Series B (2026-08-17)"
+  added: 2026-08-30
+- slug: notable-capital
+  type: firm
+  reason: "appeared in Wispr Series B (2026-08-17)"
+  added: 2026-08-30
+- slug: nea
+  type: firm
+  reason: "appeared in Wispr Series B (2026-08-17)"
+  added: 2026-08-30
+- slug: neo
+  type: firm
+  reason: "appeared in Wispr Series B (2026-08-17)"
+  added: 2026-08-30
+- slug: 8vc
+  type: firm
+  reason: "appeared in Wispr Series B (2026-08-17)"
+  added: 2026-08-30
+- slug: acrew-capital
+  type: firm
+  reason: "appeared in Wispr Series B (2026-08-17)"
+  added: 2026-08-30
+- slug: forerunner-ventures
+  type: firm
+  reason: "appeared in Wispr Series B (2026-08-17)"
+  added: 2026-08-30
+- slug: iconiq-growth
+  type: firm
+  reason: "appeared in Rillet Series C (2026-08-19)"
+  added: 2026-08-30
+- slug: sequoia-capital
+  type: firm
+  reason: "appeared in Rillet Series C (2026-08-19)"
+  added: 2026-08-30
+- slug: andreessen-horowitz
+  type: firm
+  reason: "appeared in Rillet Series C (2026-08-19) and Castelion Series C (2026-08-19)"
+  added: 2026-08-30
+- slug: battery-ventures
+  type: firm
+  reason: "appeared in Rillet Series C (2026-08-19) and Rundoo Series B (2026-08-19)"
+  added: 2026-08-30
+- slug: creandum
+  type: firm
+  reason: "appeared in Rillet Series C (2026-08-19)"
+  added: 2026-08-30
+- slug: bessemer-venture-partners
+  type: firm
+  reason: "appeared in Rundoo Series B (2026-08-19)"
+  added: 2026-08-30
+- slug: crv
+  type: firm
+  reason: "appeared in Rundoo Series B (2026-08-19)"
+  added: 2026-08-30
+- slug: altimeter-capital
+  type: firm
+  reason: "appeared in Castelion Series C (2026-08-19)"
+  added: 2026-08-30
+- slug: general-catalyst
+  type: firm
+  reason: "appeared in Castelion Series C (2026-08-19)"
+  added: 2026-08-30
+- slug: greenoaks
+  type: firm
+  reason: "appeared in Also Series D (2026-08-19)"
+  added: 2026-08-30
+- slug: andreessen-horowitz
+  type: firm
+  reason: appeared in Castelion Series C (2026-08-19)
+  added: 2026-08-30
+- slug: altimeter-capital
+  type: firm
+  reason: appeared in Castelion Series C (2026-08-19)
+  added: 2026-08-30
+- slug: general-catalyst
+  type: firm
+  reason: appeared in Castelion Series C (2026-08-19)
+  added: 2026-08-30
+- slug: index-ventures
+  type: firm
+  reason: appeared in Instinct Series B (2026-08-27)
+  added: 2026-08-30
+- slug: benchmark
+  type: firm
+  reason: appeared in Instinct Series B (2026-08-27)
+  added: 2026-08-30
+- slug: koch-disruptive-technologies
+  type: firm
+  reason: appeared in Gatik Series D (2026-08-25)
+  added: 2026-08-30
+- slug: dcvc
+  type: firm
+  reason: appeared in REGENT Series B (2026-08-27)
+  added: 2026-08-30
+- slug: founders-fund
+  type: firm
+  reason: appeared in REGENT Series B (2026-08-27)
+  added: 2026-08-30
+- slug: redpoint-ventures
+  type: firm
+  reason: appeared in Owner Series D (2026-08-28)
+  added: 2026-08-30
+- slug: jack-altman
+  type: investor
+  reason: appeared in Owner Series D (2026-08-28)
+  added: 2026-08-30

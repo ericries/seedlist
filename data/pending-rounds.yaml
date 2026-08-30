@@ -316,15 +316,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Starcloud raises $250 million for orbital data centers as launch options
-    dry up
-  url: https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/
-  source: techcrunch
-  date_found: '2026-08-21'
-  parsed_company: Starcloud
-  parsed_amount: $250M
-  parsed_round: null
-  status: pending
 - title: 'The Week’s 10 Biggest Funding Rounds: Defense Tech, AI Tools And Infrastructure
     Lead The Way'
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/
@@ -450,15 +441,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Rillet raises $100M Series C at $1B valuation — 2 years after emerging from
-    stealth
-  url: https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/
-  source: techcrunch
-  date_found: '2026-08-19'
-  parsed_company: Rillet
-  parsed_amount: $100M
-  parsed_round: Series C
-  status: pending
 - title: Gambling on the Little League World Series? Sports bettors have gone too
     far
   url: https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/
@@ -512,15 +494,6 @@ pending_rounds:
   parsed_amount: $5M
   parsed_round: null
   status: pending
-- title: Revolut founder’s QuantumLight raises €432 million for AI-driven venture
-    strategy
-  url: https://www.eu-startups.com/2026/08/revolut-founders-quantumlight-raises-e432-million-for-ai-driven-venture-strategy/
-  source: eu-startups
-  date_found: '2026-08-18'
-  parsed_company: Revolut founder’s QuantumLight
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Germany’s Computomics secures €6.3 million to help crop breeders stay ahead
     of heat and drought
   url: https://www.eu-startups.com/2026/08/germanys-computomics-secures-e6-3-million-to-help-crop-breeders-stay-ahead-of-heat-and-drought/
@@ -556,14 +529,6 @@ pending_rounds:
   parsed_amount: $10M
   parsed_round: null
   status: pending
-- title: Wispr raises $280M at $2B valuation as it looks beyond dictation
-  url: https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/
-  source: techcrunch
-  date_found: '2026-08-17'
-  parsed_company: Wispr
-  parsed_amount: $280M
-  parsed_round: null
-  status: pending
 - title: UK-based SpaceAM closes Seed round to scale AI-powered sensing technology
     for defence and space
   url: https://www.eu-startups.com/2026/08/uk-based-spaceam-closes-seed-round-to-scale-ai-powered-sensing-technology-for-defence-and-space/
@@ -590,14 +555,6 @@ pending_rounds:
   parsed_company: Aachen-based amber
   parsed_amount: null
   parsed_round: Series A
-  status: pending
-- title: Groq raises $350M to fuel its pivot from AI chips to neocloud
-  url: https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/
-  source: techcrunch
-  date_found: '2026-08-17'
-  parsed_company: Groq
-  parsed_amount: $350M
-  parsed_round: null
   status: pending
 - title: Terra Industries closes $52M seed round to build defense infrastructure for
     the Global South
@@ -731,15 +688,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Lovable raise €343 million Series C to expand its platform, infrastructure
-    and global team
-  url: https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/
-  source: eu-startups
-  date_found: '2026-08-12'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series C
-  status: pending
 - title: Danish Entravel Group raises €6.5 million to secure larger supplier credit
     facilities
   url: https://www.eu-startups.com/2026/08/entravel-group-raises-e6-5-million-to-secure-larger-supplier-credit-facilities/
@@ -749,28 +697,12 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise
-  url: https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
-  source: techcrunch
-  date_found: '2026-08-12'
-  parsed_company: OpenAI-backed Thrive Holdings
-  parsed_amount: $2B
-  parsed_round: null
-  status: pending
 - title: Form Energy raises $750M to build more 100-hour batteries for the grid
   url: https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/
   source: techcrunch
   date_found: '2026-08-12'
   parsed_company: Form Energy
   parsed_amount: $750M
-  parsed_round: null
-  status: pending
-- title: Lovable confirms new $13.3B valuation, raises another $400M
-  url: https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/
-  source: techcrunch
-  date_found: '2026-08-12'
-  parsed_company: Lovable confirms new $13.3B valuation,
-  parsed_amount: $13.3B
   parsed_round: null
   status: pending
 - title: Bristol’s electric ‘air taxi’ developer Vertical Aerospace secures €86.6
