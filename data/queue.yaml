@@ -9657,7 +9657,7 @@ queue:
 - name: Yuri Danichenko
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Latitud
   discovered_from: brian-requarth
@@ -27485,7 +27485,7 @@ queue:
 - name: Ben Sigelman
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: (formerly Lightstep)
   discovered_from: ant-wilson
@@ -27774,7 +27774,7 @@ queue:
 - name: Karim Hussein
   type: individual
   priority: high
-  status: pending
+  status: in_progress
   added: '2026-03-17'
   firm: Algebra Ventures
   discovered_from: blnk
