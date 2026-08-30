@@ -4,6 +4,7 @@ slug: seema-amble
 type: individual
 firm: andreessen-horowitz
 role: Partner
+tldr: "Partner on the Enterprise team at Andreessen Horowitz focused on early-stage B2B SaaS and fintech globally. Verified deal-lead portfolio of 14 companies is split evenly between B2B financial-operations software (Moov, Sequence, Rillet, Stuut) and AI-native workflow automation (11x, HappyRobot, Toma, Probook). Predominantly Series A, with willingness to lead in Europe and Latin America."
 location: New York, NY
 stage_focus:
   - seed

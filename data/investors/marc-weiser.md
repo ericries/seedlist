@@ -4,6 +4,7 @@ slug: marc-weiser
 type: individual
 firm: rpm-ventures
 role: "Founder & Managing Director, RPM Ventures"
+tldr: "Founder and Managing Director of RPM Ventures, an Ann Arbor firm managing ~750M AUM since 2000. Leads seed and Series A rounds in B2B/B2B2C enterprise, marketplaces, mobility, and increasingly aerospace across ~59-118 investments. Notable positions include SoFi, DailyPay, Hippo, OpenLane, and Firefly Aerospace, where RPM led a 175M Series D in 2024. Also participated in Hubble Network's 2025 Series B."
 location: "Ann Arbor, MI"
 stage_focus: [seed, series-a]
 sector_focus: [mobility, automotive, fintech, marketplaces, b2b-saas, insurtech, aerospace, enterprise]

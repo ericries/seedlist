@@ -4,6 +4,7 @@ slug: cal-henderson
 type: individual
 firm: independent
 role: "Co-founder of Slack (acq. Salesforce, 2021); angel investor"
+tldr: "Co-founder and former CTO of Slack (Salesforce acquired for $27.7B in 2021); active angel investor since 2024 focused on developer tools, AI-native workflow products, and software engineering intelligence. Verified checks include Swarmia, Dedalus Labs, Realm, Pally, Brightband, and Viktor's $75M Series A in 2026, typically co-investing with operator angels like Thomas Wolf, Nat Friedman, and Stewart Butterfield rather than lead funds."
 location: "San Francisco, California"
 stage_focus:
 - pre-seed

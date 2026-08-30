@@ -4,6 +4,7 @@ slug: carina-namih
 type: individual
 firm: plural-platform
 role: "Partner (Peer)"
+tldr: "London-based partner ('peer') at Plural Platform since 2023 and co-founder of AI-driven mRNA biotech HelixNano. Focuses on 'applied AI' — operator-founders applying frontier tech (AI, quantum, mRNA, batteries, robotics) to commercial verticals — with a strong European tilt reflecting Plural's geography. Has led Plural deals in Robin AI and Sano Genetics, with additional bets on Phasecraft, Molyon, Sunrise Robotics, and Upside Robotics."
 location: "London, United Kingdom"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [ai, ai-ml, biotech, healthcare, applied-ai, mrna, robotics, climate-tech]

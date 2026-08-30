@@ -9,6 +9,7 @@ last_verified_investment:
 location: Portland, Oregon
 name: Sahil Lavingia
 role: Founder & CEO, Gumroad; Solo GP, SHL Capital
+tldr: "Gumroad founder and solo GP running SHL Capital, a $5M/year AngelList rolling fund launched in 2020. Writes $100K–$250K pre-seed and seed checks concentrated in developer tools and B2B SaaS. Portfolio spans Figma, Notion, Vercel, Mercury, and QA Wolf. Operates from Portland, Oregon and gravitates toward network-sourced deals with founders building profitable, category-defining products."
 sector_focus:
 - b2b-saas
 - developer-tools

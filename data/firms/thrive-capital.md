@@ -1,5 +1,6 @@
 ---
 founded: 2009
+tldr: "New York venture firm founded by Joshua Kushner in 2009, now managing over $25B across ten funds after closing $10B Fund X in 2026. Stage-agnostic but heavily growth-weighted, with a concentration strategy and 'partnership as product' framing. Portfolio spans Instagram, Stripe, OpenAI, Anthropic, Anduril, Isomorphic Labs, Scale AI, and GitHub (accumulated via tender). AI/ML is a growing share of the book; crypto is notably absent."
 fund_size: $10B (Thrive X, 2026); $5B (Thrive IX, 2024); $3B (Thrive VIII, 2022);
   $2B (Thrive VII, 2021); $1B (Thrive VI, 2018); $700M (Thrive V, 2016); $400M (Thrive
   IV, 2014); $150M (Thrive III, 2012); $40M (Thrive I, 2011)

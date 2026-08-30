@@ -4,6 +4,7 @@ slug: taavet-hinrikus
 type: individual
 firm: plural
 role: "Co-Founder & Partner, Plural"
+tldr: "Co-founder of Wise (TransferWise) and Plural, a €500M European founder-led fund launched in 2022. Invests seed to Series A at €500K–€10M with concentration on reinventing legacy industries, deep-tech, AI, and climate. Personal book skews fintech (Wise, Lightyear, Bolt, Cleo, Pipedrive). Claims 100+ personal angel investments; Plural portfolio includes Helsing, Proxima Fusion, Monumental, and Starship Technologies."
 location: "London, UK / Tallinn, Estonia"
 stage_focus: [seed, series-a]
 sector_focus: [fintech, deeptech, climate, AI, healthtech, robotics, frontier-tech]

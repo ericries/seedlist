@@ -7,6 +7,7 @@ last_verified_investment:
   round: Pre-Seed
 location: San Francisco, CA
 name: Chris Larsen
+tldr: "Co-founder and Executive Chairman of Ripple (XRP Ledger); previously co-founded E-Loan and Prosper. Angel activity is intermittent and thesis-driven, split between crypto and financial infrastructure (led Yellow Network's $10M seed) and climate technology (Aircela direct-air-capture, Bluecore Energy pre-seed, plus a $5M Greenpeace Bitcoin-energy campaign). Historically sat on the boards of Credit Karma, Oportun, and Betable."
 role: Co-Founder & Executive Chairman, Ripple
 sector_focus:
 - crypto

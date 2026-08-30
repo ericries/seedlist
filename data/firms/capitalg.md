@@ -5,6 +5,7 @@ type: firm
 website: "https://www.capitalg.com"
 location: "San Francisco, CA"
 founded: 2013
+tldr: "Alphabet's independent growth fund, founded 2013 (originally Google Capital) with a single LP and ~$7B AUM. Managing Partner Laela Sturdy runs a concentrated portfolio (48+ verified investments, 83% Series B or later) skewed toward enterprise software (46%), security (CrowdStrike, Zscaler, Armis), and fintech, with an accelerating AI push (LangChain, Physical Intelligence, Baseten, Abridge). Typical checks range from $75M to hundreds of millions."
 fund_size: "$7B AUM; single LP (Alphabet); $4B+ deployed since inception"
 stage_focus:
   - growth

@@ -1,5 +1,6 @@
 ---
 founded: 2012
+tldr: "Vancouver-based early-stage firm founded by Boris Wertz in 2012, now managing roughly $250M across six funds with Angela Tran as co-GP. Writes $250K–$500K pre-seed and seed checks, targeting about 30 companies per fund. Portfolio of 113+ investments includes Coinbase (IPO), Uniswap, Dapper Labs, Jobber, Clio, Ada, and Shippo. Focus has evolved through SaaS, crypto, climate, and robotics into AI, deep tech, and India."
 fund_size: $250M+ AUM across six funds; Fund IV ($70M, 2021); Opportunities Fund II
   ($30M, 2021); Fund III ($45M); Opportunities Fund I (~$20M, 2020); Fund II ($35M,
   2014); Fund I ($15M, 2012)

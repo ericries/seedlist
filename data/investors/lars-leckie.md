@@ -4,6 +4,7 @@ slug: lars-leckie
 type: individual
 firm: hummer-winblad-venture-partners
 role: "Managing Director"
+tldr: "Managing Director at Aspenwood Ventures (formerly Hummer Winblad), leading seed and Series A investments in enterprise software since 2006. Actual portfolio skews 36% enterprise SaaS, 21% infrastructure/cloud, and 15% cybersecurity across 33 verified deals with typical checks of 500K-3M. Notable investments include Sonatype, NeuVector (acquired by SUSE), Kloudfuse, and Baseten's 2026 Series E at 5B valuation."
 location: "San Francisco, CA"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [enterprise-software, saas, cloud, cybersecurity, developer-tools, data-infrastructure, virtualization]

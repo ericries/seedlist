@@ -9,6 +9,7 @@ last_verified_investment:
 location: Denver, Colorado
 name: Dan Siroker
 role: Co-Founder & CEO, Limitless; Partner, Rebel Fund
+tldr: "Co-founder and CEO of Limitless (formerly Rewind AI, acquired by Meta December 2025) and Optimizely; investing partner at Rebel Fund, the YC-alumni seed vehicle. Verified angel portfolio is thin — six seed-stage checks concentrated in a 2021 cohort covering productivity, video tooling, analytics, and brain-computer interfaces (Milk Video, Haystack, June, MindPortal, ClearBrain, Navattic). Public thesis emphasizes application-layer AI value and transparent founder-investor relationships."
 sector_focus:
 - ai
 - developer-tools

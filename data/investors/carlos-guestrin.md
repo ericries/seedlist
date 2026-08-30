@@ -4,6 +4,7 @@ slug: carlos-guestrin
 type: individual
 firm: independent
 role: "Fortinet Founders Professor and Director, Stanford AI Lab (SAIL); Co-founder & Chief Scientist, Virtue AI; Chief Scientist, Visual Layer; Board Member, OctoAI (acq. Nvidia, 2024); Angel investor"
+tldr: "Director of the Stanford AI Lab, Fortinet Founders Professor, and co-founder/Chief Scientist of Virtue AI; previously co-founded Turi (acquired by Apple, 2016, ~$200M). Angel activity is quiet and small, with capital and time concentrated in founder/board roles at Turi, OctoAI (acq. Nvidia, 2024), Visual Layer, and Virtue AI. One verified third-party angel check: Ridge AI pre-seed alongside the Tableau/Trifacta/Streamlit data-tools cohort."
 location: "Stanford, CA"
 stage_focus:
 - pre-seed

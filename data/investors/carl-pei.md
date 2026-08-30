@@ -4,6 +4,7 @@ slug: carl-pei
 type: individual
 firm:
 role: "Founder & CEO, Nothing; Angel Investor"
+tldr: "Co-founder and CEO of London consumer-electronics company Nothing and previously co-founder of OnePlus; angel investor with a small $5K-$50K check size and $25K sweet spot. Six verified deals cluster around consumer hardware and wearables (Oura, Mendi), consumer/creator software (Stacked, Steep), India D2C (Dukaan), and mobility (Dance). Publicly frames China as essential for hardware founders and India as a priority consumer-electronics market."
 location: "London, United Kingdom"
 stage_focus: [seed, series-a]
 sector_focus: [consumer-electronics, consumer-tech, d2c, hardware, wearables, ecommerce, mobility]

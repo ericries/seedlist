@@ -1,5 +1,6 @@
 ---
 founded: 2018
+tldr: "Jackson, WY climate-focused venture firm co-founded by Chris and Crystal Sacca in 2018; manages over 2B AUM across multiple funds with a dedicated fusion vehicle. Primarily leads pre-seed and seed rounds in deep-tech climate: energy, carbon removal, transportation, and industrial materials. Portfolio spans 93-233 companies including Commonwealth Fusion Systems, Antora Energy, Crusoe, Heart Aerospace, Watershed, and Sublime Systems. Backed 3 unicorns and 4 acquisitions."
 fund_size: $2B+ total AUM (as of 2023)
 last_researched: 2026-03-20
 location: Jackson, WY

@@ -4,6 +4,7 @@ slug: sean-neville
 type: individual
 firm: catena-labs
 role: "Co-founder & CEO, Catena Labs; Co-founder & Board Director, Circle Internet Group"
+tldr: "Co-founder of Circle (USDC issuer) and now co-founder and CEO of Catena Labs, an AI-native financial institution that raised $18M seed (a16z crypto-led) in 2025 and $30M Series A in 2026. Angel activity is selective and concentrated in stablecoin and payment infrastructure. Primarily an operator-founder rather than a full-time investor, betting on the convergence of agentic AI and crypto-native finance."
 location: "Boston, Massachusetts"
 stage_focus: [seed, series-a]
 sector_focus: [crypto, stablecoins, fintech, ai, web3, payments, infrastructure]

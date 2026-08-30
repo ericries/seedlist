@@ -1,5 +1,6 @@
 ---
 founded: 2024
+tldr: "San Francisco seed and Series A firm launched October 2024 by Ethan Kurzweil (ex-Bessemer), Kristina Shen (ex-a16z), and Mark Goldberg (ex-Index) with an oversubscribed $350M debut fund. Targets 2-3 investments per partner per year, writing $3-30M checks (~$10-12M average at Series A) and leading rounds on a 'conviction-based' rather than consensus model. Verified deals concentrate in AI and enterprise: Decagon, Assort Health, Serval, Datacurve, Meticulous, and Nova Intelligence."
 fund_size: $350M
 last_researched: 2026-07-24
 location: San Francisco, CA

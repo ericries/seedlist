@@ -4,6 +4,7 @@ slug: sarah-friar
 type: individual
 firm: openai
 role: "Chief Financial Officer, OpenAI (angel investor)"
+tldr: "CFO of OpenAI and former Nextdoor CEO who angel invests in $5K–$50K checks, typically $25K. Verified portfolio is concentrated in B2B fintech (Bond, UNIPaaS, Step, Cloudsmith) with ties to Northern Ireland (MedAll, Cloudsmith). Frequently co-invests with former Square colleagues such as Gokul Rajaram and Jacqueline Reses. Also an LP in Tapestry VC Fund III."
 location: "San Francisco, California"
 stage_focus: [seed, series-a, series-b]
 sector_focus: [fintech, developer-tools, healthtech, marketplaces, consumer]

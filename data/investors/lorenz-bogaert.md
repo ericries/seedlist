@@ -4,6 +4,7 @@ slug: lorenz-bogaert
 type: individual
 firm: starapps
 role: "Co-Founder & CEO, StarApps; Co-Founder, Pitchdrive; Angel Investor"
+tldr: "Belgian serial entrepreneur based in Ghent, co-founder and CEO of StarApps venture studio and co-founder of Pitchdrive (40M Fund III in 2024). Angel and studio investments concentrate in B2B SaaS in Belgium/Benelux, with verified portfolio including Aikido Security, Henchman, Salesflare, and Realo. Co-founded Netlog (94M users), Rydoo, Delta (sold to eToro), and Realo (sold to Immoweb in 2024). Self-describes as an early-stage guy."
 location: "Ghent, Belgium"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [SaaS, fintech, proptech, cybersecurity, consumer-internet, marketplace]

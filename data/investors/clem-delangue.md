@@ -4,6 +4,7 @@ slug: clem-delangue
 type: individual
 firm: hugging-face
 role: "Co-Founder & CEO, Hugging Face; Sourcing Partner, Factorial Capital"
+tldr: "Co-founder and CEO of Hugging Face and first sourcing partner at Factorial Capital, deploying ~$500K checks per deal. Highly active AI angel with 100+ personal investments claimed, sourced primarily from the Hugging Face community. Verified checks — Prime Intellect, Flower.dev, Nomic AI, Alinia AI, and Helical — cluster tightly around open-source AI infrastructure, alignment, and bio foundation models. Testified to the U.S. House in 2023 in support of open-source AI."
 location: "New York, NY / Miami, FL"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai, open-source, machine-learning, ai-infrastructure, developer-tools]

@@ -9,6 +9,7 @@ last_verified_investment:
 location: San Francisco, California
 name: Lenny Rachitsky
 role: Angel Investor; Author, Lenny's Newsletter
+tldr: "San Francisco-based angel investor and author of Lenny's Newsletter, a top business publication on Substack. Self-reports 140+ checks across AI, B2B SaaS, marketplaces, and consumer products, with typical angel-scale tickets of 25K-250K. Recent portfolio concentrates in AI-native SaaS and prosumer AI: LlamaIndex, Granola, Simular, Oboe, and Monogram. Former Airbnb product lead; claims 12 unicorns from the portfolio."
 sector_focus:
 - ai
 - b2b-saas

@@ -4,6 +4,7 @@ slug: sten-tamkivi
 type: individual
 firm: plural
 role: "Partner"
+tldr: "Partner at Plural, the European operator-founder fund he co-founded with Taavet Hinrikus, Ian Hogarth, and others. Based in Tallinn, focused on deep-tech and hardware bets across Europe with an active defence and dual-use wedge. Led Plural investments in Frankenburg Technologies (missiles), IXI (autofocus eyewear), and Monumental (construction robotics). Former Skype early executive and Teleport co-founder."
 location: "Tallinn, Estonia"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [deep-tech, defense, robotics, hardware, ai, fintech, future-of-work, web3, synthetic-biology]

@@ -1,5 +1,6 @@
 ---
 founded: 2000
+tldr: "New York and Menlo Park deep-tech firm founded in 2000 by Peter Hebert, Josh Wolfe, and Robert Paull; manages over 7B AUM with Fund IX closing at 1.5B in January 2026. Backs seed through growth rounds of 100K-100M in frontier science: AI/ML (33% of featured portfolio), biotech (25%), defense (13%), and enterprise infrastructure. Notable positions include Anduril (61B), Applied Intuition, Hugging Face, Recursion Pharma, and Cognition."
 fund_size: $1.5B (Fund IX, 2026); $7B+ total AUM
 last_researched: 2026-03-20
 location: New York, NY / Menlo Park, CA

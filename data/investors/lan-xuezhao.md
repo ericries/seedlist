@@ -4,6 +4,7 @@ slug: lan-xuezhao
 type: individual
 firm: basis-set-ventures
 role: "Founder & Managing Partner"
+tldr: "Founder and Managing Partner of Basis Set Ventures, a San Francisco firm managing over 850M across four funds since 2017. Leads seed rounds of 1M-5M in AI, automation, and enterprise SaaS, with roughly 71% of verified portfolio being AI/ML-native. Notable bets include a personal 2016 angel check into Scale AI and later leads in Path Robotics, Drata, and Sakana AI. Brings a psychology PhD to founder evaluation."
 location: "San Francisco, California"
 stage_focus: [seed, series-a]
 sector_focus: [AI, automation, enterprise-saas, machine-learning, robotics, developer-tools]

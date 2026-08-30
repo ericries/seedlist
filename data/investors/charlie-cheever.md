@@ -9,6 +9,7 @@ last_verified_investment:
 location: Palo Alto, CA
 name: Charlie Cheever
 role: Co-Founder & CEO, Expo
+tldr: "Co-founder and CEO of Expo (open-source React Native platform) and co-founder of Quora; active angel investor with $10K-$500K checks and a $100K sweet spot. Reported portfolio of 40-74 investments leans toward developer tools (Socket, Logseq, Rork), AI (Harmonic, Etched.ai), and consumer/creator products (Studio, Mem Protocol). Co-invests with tier-one VCs and other operator-angels including Quora co-founder Adam D'Angelo."
 sector_focus:
 - developer-tools
 - ai

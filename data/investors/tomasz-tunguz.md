@@ -4,6 +4,7 @@ slug: tomasz-tunguz
 type: individual
 firm: theory-ventures
 role: "Founder & General Partner"
+tldr: "Founder and General Partner of Theory Ventures, a thesis-driven firm managing $688M across two funds since 2023. Writes $1M–$25M Series A checks concentrated in data infrastructure, AI applications, and blockchain. Verified led rounds include Tobiko Data, LanceDB, Allium, Aampe, Koah, and Ollama. Previously spent 14 years at Redpoint Ventures, where he led investments in Looker, Hex, Monte Carlo, and Kustomer."
 location: "San Francisco Bay Area, CA"
 stage_focus: [seed, series-a]
 sector_focus: [data-infrastructure, ai, saas, developer-tools, web3, blockchain, ai-agents, vector-database, business-intelligence]

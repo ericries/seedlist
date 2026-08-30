@@ -1,5 +1,6 @@
 ---
 founded: 2012
+tldr: "Palo Alto seed-stage firm founded 2012 by Aileen Lee (ex-Kleiner Perkins), who coined the term 'unicorn' in a 2013 TechCrunch essay. $450M+ across five funds plus a $120M Mustang opportunity vehicle; leads or co-leads $500K-$4M seed rounds, with ~70% of first checks going to pre-product startups. Notable outcomes include Dollar Shave Club (acq. Unilever, $1B), Guild Education, Drata, Ironclad, and Chime. Uses a 'Four Ps' framework: People, Potential, Product, Plan."
 fund_size: $590M+ total across 5 funds plus Mustang opportunity fund
 last_researched: 2026-03-20
 location: Palo Alto, CA

@@ -5,6 +5,7 @@ type: firm
 website: "https://threshold.vc"
 location: "Menlo Park, CA"
 founded: 2019
+tldr: "Menlo Park early-stage firm formed in 2019 when the early-stage team spun out of Draper Fisher Jurvetson. Manages $450M+ across Threshold IV and Select funds and has produced more than $2B in gains for investors. Writes $5–10M Series A and Series B checks concentrated in enterprise SaaS (40%) and healthcare (32%). Portfolio includes Rippling, LaunchDarkly, Doximity, Livongo, Talkdesk, and Freeform. Co-founded by Emily Melton and Josh Stein."
 fund_size: "$450M+ across Threshold IV and Threshold Select (2022); previously targeted $250M for Fund III (2019)"
 stage_focus: [seed, series-a, series-b]
 sector_focus: [enterprise, healthcare, saas, ai, developer-tools, fintech]

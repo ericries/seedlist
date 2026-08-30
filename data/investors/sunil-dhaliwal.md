@@ -4,6 +4,7 @@ slug: sunil-dhaliwal
 type: individual
 firm: amplify-partners
 role: "Founder & General Partner"
+tldr: "Founder and General Partner of Amplify Partners, an enterprise-infrastructure firm he launched in 2012 that now manages over $2.4B across multiple funds. Writes $500K–$5M seed and Series A checks concentrated in developer tools, data infrastructure, ML/AI, and cybersecurity. Portfolio includes Datadog and Fastly (both IPO'd 2019), dbt Labs, Chainguard, and LangChain. Roughly 80% of backed teams are first-time technical founders."
 location: "Menlo Park, CA"
 stage_focus: [seed, series-a]
 sector_focus: [developer-tools, data-infrastructure, ai-ml, cybersecurity, cloud-infrastructure, computational-biology]

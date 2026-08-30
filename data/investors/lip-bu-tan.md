@@ -4,6 +4,7 @@ slug: lip-bu-tan
 type: individual
 firm: ""
 role: "Founder & Chairman, Walden International; Founding Managing Partner, Walden Catalyst Ventures & Celesta Capital; CEO, Intel"
+tldr: "Founder and Chairman of Walden International (1987), a San Francisco cross-border venture platform managing 5B+ across 600+ investments with 40 IPOs and 66 M&A exits. Also founding managing partner at Walden Catalyst and Celesta Capital, and CEO of Intel since March 2025. Portfolio concentrates in semiconductors, EDA, foundries, and deep tech; founding shareholder of SMIC. Previously served as CEO of Cadence Design Systems (2009-2021)."
 location: "San Francisco Bay Area, CA"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [semiconductors, ai, enterprise-software, cleantech, hardware, deep-tech]

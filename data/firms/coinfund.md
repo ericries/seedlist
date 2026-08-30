@@ -5,6 +5,7 @@ type: firm
 website: https://coinfund.io
 location: Brooklyn, NY
 founded: 2015
+tldr: "Brooklyn-based crypto-native investment firm founded 2015 by Jake Brukhman and Alex Felix; ~$1B AUM across six vehicles and 100+ investments spanning seed, venture, and liquid strategies. Portfolio concentrates in blockchain infrastructure and L1/L2 protocols (Solana, Polkadot, Monad, Blockdaemon), DeFi (Ondo Finance, ether.fi), and a growing decentralized-AI allocation (Prime Intellect, Pluralis). Institutional LPs include Teacher Retirement System of Texas and Adams Street Partners."
 fund_size: ~$1B total AUM
 stage_focus:
   - pre-seed

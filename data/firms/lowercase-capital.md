@@ -5,6 +5,7 @@ type: firm
 website: "https://lowercasecapital.com"
 location: "Truckee, CA"
 founded: 2010
+tldr: "San Francisco-area seed firm founded by Chris Sacca in 2010 in Truckee, CA that closed to new investments in 2017 after Sacca's retirement. Wrote small early checks of 25K-100K into consumer internet, marketplaces, and infrastructure, with Fund I reportedly delivering 250x+ returns. Notable seed positions in Twitter (accumulated 4% stake), Uber, Instagram, Stripe, Twilio, Kickstarter, Docker, and Slack. Returned over 5B to LPs across all funds."
 fund_size: "$1B+ total across multiple funds"
 stage_focus: [seed, series-a]
 sector_focus: [consumer-internet, marketplaces, social, mobile, payments, saas]

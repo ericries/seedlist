@@ -5,6 +5,7 @@ type: firm
 website: "https://launch.co"
 location: "San Francisco, CA"
 founded: 2011
+tldr: "San Francisco-based venture firm founded by Jason Calacanis in 2011, combining a fund, accelerator, and 11,000-investor syndicate targeting Fund IV at 100M. Writes pre-seed and seed checks of 25K-500K into ~100 startups per year, with a verified portfolio skewing 35% consumer, 29% enterprise/SaaS, and 18% fintech. Backed Uber, Robinhood, Calm, Thumbtack, Desktop Metal, and Vanta; produced 8 unicorns to date."
 fund_size: "$100M (Fund IV target)"
 stage_focus:
   - pre-seed

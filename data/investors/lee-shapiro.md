@@ -4,6 +4,7 @@ slug: lee-shapiro
 type: individual
 firm: 7wire-ventures
 role: "Co-Founder & Managing Partner"
+tldr: "Co-Founder and Managing Partner of 7wire Ventures, a Chicago-based firm investing exclusively in digital health since 2013. Backs seed through growth rounds with checks of 100K-5M, with 100% of investments in healthcare and heavy concentration in chronic disease management (29%), mental health, and care navigation. Co-hatched Livongo, Transcarent, and Homethrive; former Livongo CFO who led its 18.5B Teladoc merger."
 location: "Sarasota, Florida"
 stage_focus:
   - seed

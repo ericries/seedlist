@@ -1,5 +1,6 @@
 ---
 founded: 2017
+tldr: "The personal venture fund of PayPal co-founder Max Levchin, rebranded from HVF Investments in 2017 and based in San Francisco. Backs seed and Series A companies with $100K–$1M checks across fintech, AI, science, and healthcare. Portfolio of ~82 companies includes Uber, Stripe, Brex, Affirm, PsiQuantum, and Bolt Threads. Fintech dominates at 36% of verified investments; the firm also invests genuinely in hard science like quantum computing and synthetic biology."
 fund_size: Undisclosed
 last_researched: 2026-03-24
 location: San Francisco, CA

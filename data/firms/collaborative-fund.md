@@ -5,6 +5,7 @@ type: firm
 website: "https://collabfund.com"
 location: "New York, NY"
 founded: 2010
+tldr: "New York firm founded 2010 by Craig Shapiro on the premise that businesses 'doing good' can outperform purely profit-driven ones; $1B+ AUM across 300+ investments. Applies a 'Villain Test' — does massive success improve lives and would a self-interested consumer buy the product? Once known for consumer brands (Kickstarter, Lyft, Blue Bottle, Sweetgreen, Reddit), the active portfolio now leans climate and energy (31%), backed by dedicated $200M Collab SOS and Shared Future climate vehicles."
 fund_size: "$1B+ total AUM; Fund VI at $125M (2024); Collab SOS at $200M (2022)"
 stage_focus: [pre-seed, seed, series-a, series-b]
 sector_focus: [climate-tech, food-tech, consumer-brands, health-wellness, fintech, ai, sustainability, consumer-health, energy]

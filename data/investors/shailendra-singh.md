@@ -4,6 +4,7 @@ slug: shailendra-singh
 type: individual
 firm: peak-xv-partners
 role: "Managing Director"
+tldr: "Managing Director at Peak XV Partners (formerly Sequoia Capital India & SEA), which he has led since 2006 across $9B+ AUM and 400+ investments. Invests $250K–$50M from seed to growth with a consumer-internet, fintech, and enterprise-software focus and long-duration conviction bets like Pine Labs (16-year hold to IPO). Launched the Surge accelerator; portfolio includes CRED, Gojek, Druva, Supabase, and PostHog."
 location: "Singapore"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [consumer, fintech, payments, enterprise-software, ai, edtech, healthcare, logistics, e-commerce]

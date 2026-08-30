@@ -1,5 +1,6 @@
 ---
 founded: 2019
+tldr: "San Francisco early-stage firm founded in 2019 that grew out of the Edelweiss micro-fund; raised 450M across four funds and Fund IV closed at 181.8M in 2025. Operates a Federation of Angels/Operators model with checks of 100K-1M across pre-seed, seed, and Series A. Portfolio of ~130 investments spans AI (13%), energy/climate (12%), fintech (12%), defense/aerospace (7%), and hard tech; early bets include Uber, SpaceX, Anduril, Notion, and Crusoe."
 fund_size: $450M total capital raised; Fund IV at $181.8M (2025)
 last_researched: 2026-06-04
 location: San Francisco, CA

@@ -4,6 +4,7 @@ slug: sarah-catanzaro
 type: individual
 firm: amplify-partners
 role: "General Partner"
+tldr: "General Partner at Amplify Partners focused on data infrastructure, ML/AI tools, and computational biology. Writes $500K–$10M seed and Series A checks with a preference for practitioner-turned-founders. Led investments in Hex, RunwayML, LangChain, Modal Labs, and DatologyAI. Portfolio includes exits at WarpStream (to Confluent) and Eppo (to Datadog). Prior data-science and national-security operating background."
 location: "San Francisco, CA"
 stage_focus: [seed, series-a]
 sector_focus: [data-infrastructure, ai-ml, developer-tools, ml-infrastructure, computational-biology]

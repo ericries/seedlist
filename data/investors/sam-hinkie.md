@@ -4,6 +4,7 @@ slug: sam-hinkie
 type: individual
 firm: 87-capital
 role: "Founder & Managing Director, 87 Capital; Lecturer in Management, Stanford GSB"
+tldr: "Founder of 87 Capital, a $50M Palo Alto seed and Series A fund launched in 2020 after his tenure as Philadelphia 76ers president and Houston Rockets EVP. Backs data-driven founders in consumer hardware, sports-tech, and AI infrastructure. Verified investments include Opal Camera, HomeCourt, and Pursuit. Also lectures at Stanford GSB on negotiation and sports business."
 location: "Palo Alto, CA"
 stage_focus: [seed, series-a]
 sector_focus: [consumer, ai, sports-tech, hardware, developer-tools, govtech, machine-learning]

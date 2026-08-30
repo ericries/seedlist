@@ -5,6 +5,7 @@ type: firm
 website: "https://www.cake.vc"
 location: "San Francisco, CA"
 founded: 2021
+tldr: "San Francisco-based pre-seed/seed firm founded 2021 by solo GP Monique Woodard, with a $17M Fund I organized around three demographic shifts: aging/longevity, female economic power, and majority-minority consumers. Actual portfolio (20 verified) skews far more heavily toward digital health (45%) than the stated thesis suggests, with ~40% female and ~40% Black founders. Investments include Aster, Culina Health, Eli Health, Guaranteed, and Sol Health."
 fund_size: "$17M (Fund I, closed 2023)"
 stage_focus:
   - pre-seed

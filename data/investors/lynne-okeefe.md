@@ -4,6 +4,7 @@ slug: lynne-okeefe
 type: individual
 firm:
 role: "Founder & Managing Partner"
+tldr: "Founder and Managing Partner of Define Ventures, a San Francisco Bay Area digital health specialist she launched in 2020 with ~800M AUM. 100% of the verified portfolio is in healthcare, spanning consumer health (Hims & Hers, Tia, Folx), provider infrastructure (DexCare, Unite Us), and chronic disease management (9amHealth, Livongo). Checks of 750K-6M+; incubates and leads rounds including DexCare and Concert Health. Former Kleiner Perkins Senior Partner."
 location: "San Francisco Bay Area, CA"
 stage_focus: [incubation, seed, series-a, series-b]
 sector_focus: [digital-health, healthcare, healthtech, telemedicine, chronic-disease, womens-health, mental-health, behavioral-health, virtual-care]

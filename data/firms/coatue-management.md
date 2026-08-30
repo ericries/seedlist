@@ -5,6 +5,7 @@ type: firm
 website: "https://www.coatue.com"
 location: "New York, NY"
 founded: 1999
+tldr: "New York-based Tiger Cub founded 1999 by Philippe Laffont; $54B+ AUM lifecycle platform investing across venture, growth, structured capital, and public equities. 367-company private portfolio skews to enterprise SaaS (26%) and AI (22%), with growth-stage mega-round leadership including CoreWeave's $1.1B Series C, Anthropic's $30B Series G, Cursor's $2.3B, and Databricks at a $188B valuation. Distinguished by 25+ data scientists and 500+ datasets powering its proprietary Mosaic platform."
 fund_size: "$54B+ AUM (December 2024); ~$70B AUM (late 2025)"
 stage_focus: [seed, series-a, series-b, growth, public]
 sector_focus: [ai, enterprise, fintech, consumer, healthcare, semiconductors, infrastructure, crypto]

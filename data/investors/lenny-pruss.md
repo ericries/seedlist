@@ -4,6 +4,7 @@ slug: lenny-pruss
 type: individual
 firm: amplify-partners
 role: "General Partner"
+tldr: "General Partner at Amplify Partners, leading seed and Series A rounds in developer tools, data infrastructure, and cybersecurity. Verified portfolio of 16 Amplify investments skews 50% developer tools, 19% data platforms, and 13% cybersecurity, with checks of 500K-10M. Prior investments include Datadog (RRE), HashiCorp, and Cockroach Labs (Redpoint). Notable Amplify bets: Temporal, dbt Labs, Chainguard, Hightouch, and Antithesis."
 location: "San Francisco, CA"
 stage_focus: [seed, series-a]
 sector_focus: [developer-tools, cloud-infrastructure, data-infrastructure, cybersecurity, ai-ml, observability]

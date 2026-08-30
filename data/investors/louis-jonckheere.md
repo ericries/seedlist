@@ -9,6 +9,7 @@ last_verified_investment:
 location: Ghent, Belgium
 name: Louis Jonckheere
 role: Co-founder, Showpad; General Manager US, Aikido Security; Angel Investor
+tldr: "Ghent-based operator-angel who co-founded Showpad (2011) and grew it to ~100M ARR before its 2025 acquisition by Vector Capital and Insight Partners. Writes 10K-50K pre-seed and seed checks concentrated in B2B SaaS across the Ghent/Belgian tech network, with 13 of ~17 tracked investments including Aikido Security, Spendesk, Henchman, and Salesflare. Now serves as General Manager US for Aikido Security."
 sector_focus:
 - saas
 - b2b-saas
