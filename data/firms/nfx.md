@@ -5,6 +5,7 @@ type: firm
 website: "https://www.nfx.com"
 location: "San Francisco, CA"
 founded: 2015
+tldr: "San Francisco pre-seed/seed firm co-founded in 2015 by repeat operators James Currier, Pete Flint (Trulia), Gigi Levy-Weiss (Playtika), and Stan Chudnovsky. Named for and organized around network effects, with $1.5B AUM across four funds (Fund IV: $325M, 2024). 300+ portfolio companies and 25+ unicorns, with unusually heavy allocations to marketplaces (25%) and gaming (15%), plus a distinctive US/Israel dual footprint. Notable deals: DoorDash, Lyft, Poshmark, Anchorage Digital, Mammoth Biosciences."
 fund_size: "$1.5B total AUM; Fund IV: $325M (2024), Fund III: $450M (2021), Fund II: $275M (2019), Fund I: $150M (2017)"
 stage_focus:
   - pre-seed

@@ -9,6 +9,7 @@ last_verified_investment:
 location: New York, NY
 name: Mo Koyfman
 role: Founder & General Partner
+tldr: "Founder and GP of Shine Capital, a NYC/SF early-stage firm that has raised ~$435M across three funds since 2020. Previously a Spark Capital GP (2008-2016) where he led Plaid's 2013 seed and backed Warby Parker, Skillshare, and Hivemapper. Shine-era portfolio skews enterprise SaaS (Tropic, Reggora, iVerify), fintech (Meow), and applied vertical AI (Gizmo, Bliss, Orchard Robotics). Writes $1M-$7M checks and often takes the first-check slot."
 sector_focus:
 - fintech
 - AI

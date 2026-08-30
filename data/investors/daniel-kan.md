@@ -4,6 +4,7 @@ slug: daniel-kan
 type: individual
 firm: rebel-fund
 role: "Partner, Rebel Fund; Co-Founder, Cruise (former COO/CPO)"
+tldr: "Co-founder and former COO/CPO of Cruise Automation, acquired by GM in 2016; departed Cruise in November 2023 alongside Kyle Vogt. Now a Partner at Rebel Fund, the YC-alumni-only seed syndicate. Personal angel checks (~$25K sweet spot) skew YC-adjacent seed rounds in AI, healthtech, and consumer marketplaces. Verified investments include Hona, Fathom, JustPaid, and Superorder."
 location: "San Francisco, California"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [ai, healthtech, consumer, marketplaces, autonomous-vehicles, yc-ecosystem]

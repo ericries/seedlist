@@ -4,6 +4,7 @@ slug: david-cramer
 type: individual
 firm: sentry
 role: "Co-founder & Chief Product Officer"
+tldr: "Co-founder and Chief Product Officer of Sentry, the open-source application monitoring platform valued at $3B+ with 100,000+ organizations using it. Angel investments concentrate exclusively in developer tools and infrastructure, with verified checks in Vercel, Laravel, PostHog, Blacksmith, Kernel, and Modem. Sub-sector focus spans web frameworks, CI/CD, and browser infrastructure for AI agents."
 location: "San Francisco, CA"
 stage_focus:
 - pre-seed

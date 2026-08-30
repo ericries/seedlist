@@ -4,6 +4,7 @@ slug: dawn-song
 type: individual
 firm: independent
 role: "Professor, UC Berkeley; Angel Investor; Founder, Oasis Labs"
+tldr: "UC Berkeley Computer Science professor and Co-Director of the Berkeley Center for Responsible Decentralized Intelligence, MacArthur Fellow, and founder of Oasis Labs and Virtue AI (whose team joined Meta Superintelligence Labs in 2026). Angel checks skew toward AI infrastructure (Together AI, alphaXiv, NeoCognition) and blockchain (Eclipse), typically backing researcher-founders at seed and pre-seed."
 location: "Berkeley, CA"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [ai, ai-safety, cybersecurity, blockchain, web3, privacy, developer-tools]

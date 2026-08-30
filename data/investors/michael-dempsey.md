@@ -4,6 +4,7 @@ slug: michael-dempsey
 type: individual
 firm: compound-ventures
 role: "Managing Partner"
+tldr: "Managing Partner of Compound, a thesis-driven research-centric NYC firm with ~$200M AUM investing in deeply technical categories: AI/ML, robotics, biology, crypto, energy, and materials science. Writes $400K-$1.5M seed checks, with follow-on through Series B. Explicit power-law model targeting 2-of-25 outcomes. Portfolio includes Wayve, Runway ML, Deepgram, The Graph, Livepeer, Fort Robotics, and Prime Intellect."
 location: "New York, NY"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [AI, machine-learning, robotics, deep-tech, crypto, biotech, healthcare, materials-science, autonomous-vehicles, decentralized-AI]

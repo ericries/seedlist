@@ -10,6 +10,7 @@ last_verified_investment:
 location: Chennai / Bengaluru, India
 name: Manu Iyer
 role: Co-Founder & General Partner, Bluehill.VC
+tldr: "Co-Founder and General Partner of Bluehill.VC, a Chennai-based SEBI-registered deep-tech fund targeting ₹350 crore. Also runs predecessor angel vehicle Bluehill Capital (2012). Portfolio is 80%+ hardware or hardware-enabled, concentrated in India across semiconductors, clean-tech, space, defence, and EVs. Notable checks include EtherealX (space), Sophrosyne (semis), Raptee (EV), and AutoNxt."
 sector_focus:
 - deep-tech
 - semiconductors

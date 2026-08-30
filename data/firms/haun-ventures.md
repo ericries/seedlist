@@ -6,6 +6,7 @@ website: "https://www.haun.co"
 location: "Menlo Park, CA"
 founded: 2022
 fund_size: "$1.5B initial ($500M early-stage + $1B acceleration); ~$1B new funds raising in 2025"
+tldr: "Menlo Park crypto and Web3 venture firm founded in 2022 by Katie Haun, former federal prosecutor and a16z crypto GP — the largest debut fund ever raised by a solo female founding partner at $1.5B. Splits capital roughly evenly between token and equity investments across DeFi, stablecoins, L1/L2 infrastructure, developer tools, and NFT/social. Portfolio includes Aptos, OpenSea, Farcaster, Bridge, BVNK, Chaos Labs, and Zora. Deliberately slow-deployed through the 2022-2023 downturn."
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [crypto, web3, blockchain, defi, stablecoins, fintech]
 team:

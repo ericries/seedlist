@@ -5,6 +5,7 @@ type: firm
 website: "https://menlovc.com"
 location: "Menlo Park, CA"
 founded: 1976
+tldr: "Menlo Park firm founded 1976, managing $5.8B+ AUM across 466 investments with 25 unicorns, 85+ public exits, and 170+ M&A outcomes. Raised $1.35B in 2023 (Fund XVI + Inflection III) and partnered with Anthropic in 2024 on the $100M Anthology Fund. Currently 'ALL IN on AI,' with Anthropic as a defining bet alongside Pinecone, Abnormal Security, and Recursion. Historical exits include Uber, Roku, Chime, Warby Parker, PillPack, and Siri."
 fund_size: "$5.8B+ AUM; $1.35B raised in 2023 (Fund XVI + Inflection III)"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [ai, cybersecurity, fintech, consumer, enterprise, healthcare, infrastructure, robotics]

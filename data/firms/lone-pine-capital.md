@@ -1,5 +1,6 @@
 ---
 founded: 1997
+tldr: "SEC-registered public equity hedge fund founded 1997 by Tiger Cub Stephen Mandel, with ~$19B AUM out of Greenwich, CT. Private investing is a secondary activity — roughly 47-50 late-stage, pre-IPO growth checks (typically $100M+ into $1B+ companies), including Airwallex, Klaviyo, Sweetgreen, Razorpay, Snap, and Uber. Formalized private investing in 2016 and raised a $3.5B dedicated Lone Redwood fund in 2018."
 fund_size: $19B+ AUM (across all strategies); $3.5B dedicated private fund (Lone Redwood)
 last_researched: 2026-03-24
 location: Greenwich, Connecticut

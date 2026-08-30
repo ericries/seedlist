@@ -4,6 +4,7 @@ slug: martin-varsavsky
 type: individual
 firm: independent
 role: "Serial entrepreneur; founder of VAS Ventures (angel fund); Chairman of Inception/Prelude Fertility, Gameto, and Overture Life; CEO of Certuma"
+tldr: "Argentine-Spanish serial entrepreneur (Jazztel, Ya.com, Fon, Prelude Fertility, Gameto) turned angel investor via VAS Ventures, with ~€250K average checks. Portfolio is heavily concentrated in healthcare/fertility (23andMe, Forward, Aura Biosciences) and mobility/autonomy (Ample, Voyage), matching the domains where he personally operates. Reported 6,000x return on early Tumblr investment. Splits time between NYC and Madrid."
 location: "Madrid, Spain / New York, New York"
 stage_focus: [seed, series-a]
 sector_focus: [fertility, healthcare, digital-health, biotech, telecommunications, wifi, mobility, autonomous-vehicles, renewable-energy, edtech, fintech, consumer]

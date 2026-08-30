@@ -175,6 +175,40 @@ Botha himself described Ittycheria: "Having somebody like Dev, who is demanding 
 
 No critical or negative founder testimonials about Botha were found in this research pass beyond the Unity and MongoDB quotes above. Additional dedicated searching for founder quotes from Eventbrite, Tumblr, Evernote, and Xoom founders would strengthen this section.
 
+## Connections
+
+**Current board seats:**
+- **Board member, Natera** (2006–present) — long-tenured board seat since Sequoia's early investment [^16]
+- **Board member, MongoDB** (since 2013) — verified via MongoDB Investor Relations board page [^15]
+- **Board member, Block (Square)** (since 2011) — Sequoia led Series B at $240M valuation, board seat since [^14][^26]
+- **Board member, 23andMe** (since 2017) — led $250M Sequoia round [^21]
+- **Board member, YouTube** (2005 Series A) — Sequoia's initial $3.5M funding [^13][^24]
+- **Board member, Bird** (2018) — led $280M Series D [^18]
+- **Board member, Ethos** (2018) [^14]
+- **Board member, Pendulum Therapeutics** (2019) [^14]
+
+**Former board seats:**
+- **Former board member, Unity Technologies** (Series A 2009) — first VC board member; David Helgason confirmed board relationship [^20]
+- **Former board seats at Eventbrite, Tumblr, Xoom, Tokbox, Meebo, Whisper, and Jawbone** [^1]
+
+**Firm role and colleagues:**
+- **Sequoia Capital Senior Steward** (July 2022 – November 2025), succeeded by co-stewards **Alfred Lin** and **Pat Grady** [^5][^6]
+- **Sequoia Capital Partner** since January 2003; recruited to the firm by **Michael Moritz** [^2][^3]
+
+**Prior employer / PayPal Mafia network:**
+- **Former PayPal CFO** (2001–2003) — championed for the role by **Peter Thiel**; led PayPal through 2002 IPO and $1.5B eBay acquisition; member of the PayPal Mafia alongside Elon Musk, Max Levchin, Reid Hoffman [^1][^2][^4]
+- **PayPal alumni sourcing**: YouTube founders Chad Hurley, Steve Chen, and Jawed Karim were PayPal colleagues before Sequoia's YouTube Series A [^13]
+- **Former McKinsey & Company** business analyst, Johannesburg (1996–1998) [^1][^3]
+
+**Notable co-investors on his deals:**
+- **Keith Rabois** (The Org), **Charles Hudson** (mmhmm), and **Andreessen Horowitz** (various growth rounds) [^18]
+- **Khosla Ventures** — co-investor on Square Series B [^26]
+- **Thrive Capital, Greylock, Benchmark** — co-investors on Instagram's $50M pre-acquisition round [^27][^28]
+
+**Community and firm-hosted programs:**
+- **Sequoia's "Europe100"** — hosts annual gathering for top European founders [^17]
+- **Sequoia's Crucible Moments podcast** — appeared with portfolio founders including MongoDB's Dev Ittycheria and YouTube's Steve Chen [^13][^23]
+
 ## Sources
 
 [^1]: "Roelof Botha." Wikipedia. https://en.wikipedia.org/wiki/Roelof_Botha. Accessed March 2026.

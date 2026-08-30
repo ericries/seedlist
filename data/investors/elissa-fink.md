@@ -4,6 +4,7 @@ slug: elissa-fink
 type: individual
 firm: null
 role: "Independent Board Director & Advisor"
+tldr: "Former CMO of Tableau Software, where she led marketing from ~$5M to over $1B in revenue through its 2013 IPO and 2019 Salesforce acquisition. Writes occasional seed checks in B2B marketing and sales technology (Magnify, Goldcast, Keyplay). Best characterized as an operator-turned-board-director rather than an active angel; sits on 8+ enterprise-software boards including Dataiku, Qumulo, and Pantheon."
 location: "Seattle, Washington"
 stage_focus: [seed]
 sector_focus: [b2b-saas, marketing-tech, data-infrastructure, enterprise-software]

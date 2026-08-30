@@ -9,6 +9,7 @@ last_verified_investment:
 location: New York, NY
 name: Marc Michel
 role: Founding Partner
+tldr: "Founding Partner of Runway Venture Partners, a NYC firm investing 'post product-market fit' at the gap between seed and Series A with checks up to $1M. Previously co-founded Metamorphic Ventures (2009). Runway's portfolio is heavily weighted toward vertical B2B SaaS in legacy industries (warehouse management, utilities, environmental permitting, accounts receivable), a sharp pivot from Metamorphic's adtech and marketplaces bets."
 sector_focus:
 - SaaS
 - B2B

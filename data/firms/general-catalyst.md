@@ -1,6 +1,7 @@
 ---
 founded: 2000
 fund_size: $8B (Fund XII, 2024); $4.6B (Fund XI, 2022)
+tldr: "Global multi-stage venture firm founded in Cambridge in 2000 by Joel Cutler and David Fialkow, now led by CEO Hemant Taneja with $30B AUM and offices across the US, Europe (via La Famiglia), and India (via Venture Highway). Invests from seed to pre-IPO under a 'responsible innovation' framework across healthcare, defense, industrials, energy, and financial services. Portfolio includes Stripe, Airbnb, HubSpot, Snap, Anthropic, Anduril, Mistral, and 90+ unicorns."
 last_researched: 2026-05-15
 location: Cambridge, MA
 name: General Catalyst

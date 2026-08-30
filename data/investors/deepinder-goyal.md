@@ -4,6 +4,7 @@ slug: deepinder-goyal
 type: individual
 firm: eternal
 role: "CEO & Co-Founder, Eternal (Zomato); Angel Investor"
+tldr: "Co-founder and CEO of Eternal (formerly Zomato), which he took public in India in 2021, and one of India's most prolific tech angels with ~32 investments. Portfolio skews India-first and consumer-with-operational-complexity — Shiprocket, BlueStone, Bira 91, Ultrahuman, Pristyn Care. Recent USD 25M+ commitments to founder-led ventures in longevity (Continue Research), aerospace (LAT Aerospace), and brain-monitoring wearables (Temple)."
 location: "Gurugram, India"
 stage_focus: [seed, series-a, series-b]
 sector_focus:

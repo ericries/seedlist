@@ -1,6 +1,7 @@
 ---
 founded: 2004
 fund_size: $2.5B total AUM
+tldr: "Philadelphia/SF/NYC seed-stage venture firm founded in 2004 by Josh Kopelman and Howard Morgan, focused exclusively on first institutional checks ($750K-$4M at 12-15% ownership). 500+ investments have produced 19 unicorns and 13 IPOs — most notably as the first institutional investor in Uber, plus early bets on Notion, Square, Roblox, Warby Parker, Looker, and Verkada. Recent portfolio tilts toward AI infrastructure (Fal.ai, Together AI, Reducto)."
 last_researched: 2026-05-03
 location: San Francisco, CA; New York, NY; Philadelphia, PA
 name: First Round Capital

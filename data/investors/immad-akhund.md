@@ -4,6 +4,7 @@ slug: immad-akhund
 type: individual
 firm:
 role: "Co-Founder & CEO, Mercury; Solo GP, Immad Akhund Fund"
+tldr: "Co-founder and CEO of Mercury, the banking platform for startups (valued at $5.2B after 2025 Series D), and one of Silicon Valley's most prolific operator-angels with 350+ investments. Launched a $26M solo-GP fund in May 2025. Writes $50K-$100K checks at pre-seed and seed, explicitly excluding biotech and hard tech. Portfolio includes Airtable, Linear, Substack, Rippling, Rappi, Jeeves, and Decagon."
 location: "San Francisco, CA"
 stage_focus: [pre-seed, seed]
 sector_focus: [fintech, saas, ai, healthcare, consumer, enterprise]

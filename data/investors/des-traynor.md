@@ -4,6 +4,7 @@ slug: des-traynor
 type: individual
 firm: independent
 role: "Co-founder & Chief Strategy Officer, Fin (formerly Intercom)"
+tldr: "Co-founder and Chief Strategy Officer of Fin (formerly Intercom), which he co-founded in Dublin in 2011 and has grown to over $240M raised. Self-describes as not an 'active angel' but has made 95 small checks discovered through product usage. Portfolio concentrates in B2B SaaS built for product-led distribution — Notion, Miro, Coda, Superhuman, Algolia, Ashby, Workable, Tines."
 location: "Dublin, Ireland"
 stage_focus: [seed, series-a]
 sector_focus: [saas, developer-tools, ai, fintech, future-of-work, product-led-growth]

@@ -106,6 +106,38 @@ This table includes 14 verified investments. USV uses a partnership model where 
 
 No independently sourced founder testimonials found. Kaden's Outschool investment post references the founders — Amir, Nick, and Mikhail — as "true believers in the necessity to change what excellent education can mean and who it can reach" [^9], but this is Kaden's characterization rather than a founder quote about her.
 
+## Connections
+
+**Firm role and colleagues:**
+- **Managing Partner, Union Square Ventures** — joined October 2017 as USV's first female General Partner; subsequently promoted to Managing Partner [^1][^2]
+- **USV partnership**: firm runs a tight partnership of approximately six investors and manages ~$1.5B in AUM [^2][^7]
+
+**Prior firm and colleagues:**
+- **Former General Partner, Maveron** (2011–2017) — consumer-focused early-stage fund co-founded by **Howard Schultz** and **Dan Levitan** [^3]
+- **Led Maveron Series A into Dolls Kill** (2014, $5M) [^3][^4]
+
+**Notable investments led / championed at USV:**
+- **Duolingo** — USV led the $3.3M Series A in October 2011 (subsequently NASDAQ: DUOL) [^15][^16]
+- **Stash** — USV led the $37.5M Series D (February 2018) [^14]
+- **Outschool** — Series A investment (May 2019) [^9]
+- **Supper** — $11M seed round lead (December 2025) [^10][^11]
+- **Cofounder / General Intelligence Company** — $8.7M seed (December 2025) [^12][^13]
+
+**Notable USV firm-level portfolio companies during her tenure:**
+- **Coinbase, Cloudflare, Etsy, Twilio, Uniswap** — long-standing USV positions Kaden has participated in as partner [^8]
+
+**Education and prior career:**
+- **Stanford Graduate School of Business** — MBA (began at Maveron while a student) [^3]
+- **Harvard College** — A.B. in English and American Literature [^1]
+- **Former journalist** prior to venture career [^1][^2]
+
+**Community and advocacy:**
+- **Publicly advocates for expanding women checkwriters** in venture; spoke at All Raise and Fortune on the topic [^2]
+- **Guest on Startup Grind, All Raise / Medium interview series** [^5][^6]
+
+**Co-investors on her deals:**
+- **Ashton Kutcher** and **Tim Ferriss** — co-invested with USV in Duolingo Series A (October 2011) [^16]
+
 ## Sources
 
 [^1]: Union Square Ventures, "Rebecca Kaden" people page, accessed March 2026. https://www.usv.com/people/rebecca-kaden/

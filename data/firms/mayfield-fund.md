@@ -5,6 +5,7 @@ type: firm
 website: "https://www.mayfield.com"
 location: "Menlo Park, CA"
 founded: 1969
+tldr: "One of Silicon Valley's oldest venture firms (founded 1969, Menlo Park), with 550+ investments, 125+ IPOs, and 225+ acquisitions. Led by Managing Partner Navin Chaddha since 2005. Raised $955M in 2023 (Fund XVII + Select III) plus a $250M AI Start seed fund and a $100M AI Garage incubator. Portfolio skews heavily AI/enterprise (roughly 74% of active investments) with a 'people first' inception-stage orientation. Notable holdings: HashiCorp, Lyft, Poshmark, DevRev, Securiti."
 fund_size: "$580M (Fund XVII, 2023); $375M (Select III, 2023); $250M (AI Start, 2023)"
 stage_focus: [seed, series-a, series-b]
 sector_focus: [ai, enterprise, semiconductors, consumer, human-health]

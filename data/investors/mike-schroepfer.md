@@ -4,6 +4,7 @@ slug: mike-schroepfer
 type: individual
 firm: gigascale-capital
 role: "Founder & Managing Partner"
+tldr: "Founder and Managing Partner of Gigascale Capital, an early-stage climate-tech firm that announced a $250M Fund I in June 2026 after building a 25+ company personal portfolio since 2023. Former CTO of Meta. Thesis is 'rebuilding the physical economy' by backing companies that win on cost and performance, not virtue. Portfolio includes Commonwealth Fusion Systems, Xcimer, Radiant Nuclear, Heron Power, Form Energy, and Dioxycle."
 location: "Menlo Park, California"
 stage_focus: [seed, series-a, early-stage]
 sector_focus: [climate-tech, energy, fusion, nuclear, grid-infrastructure, critical-minerals, industrial, deeptech]

@@ -4,6 +4,7 @@ slug: david-cohen
 type: individual
 firm: techstars
 role: "Co-Founder & CEO, Techstars"
+tldr: "Co-founder and CEO of Techstars, the pre-seed accelerator he started in Boulder in 2006 with Brad Feld, David Brown, and Jared Polis. Cohen invests exclusively through Techstars' current $220K-for-6% program — never personal angel checks. The 4,000+ company portfolio spans developer infrastructure (SendGrid, Twilio, DigitalOcean), fintech (Remitly, Alloy), and consumer (Uber, ClassPass, PillPack)."
 location: "Boulder, Colorado"
 stage_focus: [pre-seed, seed]
 sector_focus: [developer-tools, fintech, marketplace, saas, consumer, hardware, robotics, ai, infrastructure]

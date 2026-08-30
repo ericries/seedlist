@@ -5,6 +5,7 @@ type: firm
 website: "https://multicoin.capital"
 location: "Austin, Texas"
 founded: 2017
+tldr: "Austin-based thesis-driven crypto firm founded 2017 by Kyle Samani and Tushar Jain, running both a hedge fund and venture funds with ~$600M AUM. Venture Fund III ($430M, 2022) writes $1M-$50M checks. Portfolio is deeply concentrated in the Solana ecosystem (led Solana's 2019 Series A) and DePIN (Helium, Hivemapper, Render). Known for extreme conviction — Samani has said the firm sometimes puts '30-50%+ of a fund into a single asset.' Hedge fund lost 91% in 2022 during FTX collapse before recovering."
 fund_size: "$430M (Venture Fund III, 2022); ~$600M AUM (2024)"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [crypto, web3, defi, blockchain-infrastructure, depin, stablecoins, payments, layer-1-blockchains, nfts, gaming, ai]

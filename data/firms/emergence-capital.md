@@ -1,6 +1,7 @@
 ---
 founded: 2003
 fund_size: $1B (Fund VII, 2025); ~$3.3B total across 7 funds + 1 opportunity fund
+tldr: "San Francisco B2B enterprise cloud specialist founded in 2003 by Jason Green, Gordon Ritter, and Brian Jacobs — the first VC firm committed to the enterprise-SaaS thesis. Makes only 5-7 highly concentrated Series A/B investments per year. Portfolio has generated over $450B in market cap and includes Salesforce, Veeva, Zoom, Box, Yammer, Bill.com, and recent AI bets on Together AI, Physical Intelligence, and Mercor."
 last_researched: 2026-03-19
 location: San Francisco, CA
 name: Emergence Capital

@@ -1,5 +1,6 @@
 ---
 founded: 1996
+tldr: "European multi-stage firm founded in Oslo in 1996, now headquartered in London with offices across Stockholm, Berlin, Amsterdam, and New York. Has raised over €2.5B across 10 funds, with Fund X closing at €1B in 2022. 175+ investments, 8 unicorns, 9 IPOs. Portfolio is heavily European and skews fintech (27%) and consumer marketplaces (23%), with an emerging AI/deep-tech cluster. Notable deals: Spotify, Klarna, iZettle, Avito, Personio, Trustpilot, Spring Health, Black Forest Labs."
 fund_size: €1B (Fund X, 2022); $500M (Fund IX, 2019); €300M (Fund VIII, 2016); total
   raised >€2.5B across 10 funds
 last_researched: 2026-05-03

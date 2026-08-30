@@ -148,6 +148,36 @@ Despite her public emphasis on consumer social and marketplace frameworks (Hiera
 
 No independently sourced founder testimonials found after dedicated searching. Tavel and Cambly CEO Sameer Shariff appeared together on TechCrunch Live to discuss fundraising tactics, indicating an active board relationship, but no direct testimonial quote from Shariff about Tavel was found [^27].
 
+## Connections
+
+**Board seats and lead investments:**
+- **Board member, Chainalysis** — led $16M Series A (April 2018) [^15]
+- **Board member, Hipcamp** — led Series B (July 2019) [^26]
+- **Board member, Supergreat** — led $6.5M Series A (December 2020, acquired by Whatnot) [^17]
+- **Board member, Glide** — led $20M Series A (April 2022) [^19]
+- **Board member, Poparazzi** — led $15M Series A (June 2022, since shut down) [^20]
+- **Board member, 11x** — led $24M Series A (September 2024) [^16][^24]
+- **Board member, Agentio** — led $12M Series A (November 2024) [^18]
+- **Cursor** — Benchmark participated in $105M Series B (January 2025) [^21]
+- **Active relationship with Cambly** — appeared with CEO Sameer Shariff on TechCrunch Live [^27]
+
+**Firm role and colleagues:**
+- **Venture Partner, Benchmark** (April 2025 – present); previously **General Partner** 2017–2025 — Benchmark's first woman GP [^1][^2]
+- **Prior firm: Greylock Partners** — led investments in **Sonder** (later NASDAQ: SOND) and **Gixo/Openfit** [^3][^4][^7]
+- **Prior operating role: Pinterest** — one of the first 35 employees (2012–~2015), business development lead then product lead for search, recommendations, machine vision, and pin quality; led international expansion and spearheaded Series C [^3][^4][^5][^6]
+- **Prior firm: Bessemer Venture Partners** — analyst to Vice President; co-led Bessemer's Series A into Pinterest in 2011 [^2][^5]
+
+**Community and advocacy:**
+- **Co-founder, All Raise** (April 2018) — nonprofit accelerating women in venture; launched alongside 35 women in the VC industry [^8]
+- **TEDAI San Francisco** panelist [^4]
+- **Regular guest**: 20VC (Harry Stebbings), Lenny's Podcast, The Full Ratchet, The Knowledge Project (Shane Parrish), Aleph's Aleph Invested [^3][^7][^11][^12][^14][^25]
+
+**Notable co-investors on her deals:**
+- **Andreessen Horowitz** — Hipcamp follow-on (2019), Cursor Series B (2025) [^21][^26]
+- **Thrive Capital** — Supergreat Series A (2020), Cursor Series B (2025) [^17][^21]
+- **TQ Ventures** — Supergreat Series A (2020) [^17]
+- **Y Combinator** — Cambly (YC S14 alum) [^27]
+
 ## Sources
 
 [^1]: "Sarah Tavel, Benchmark's first woman GP, transitions to venture partner," TechCrunch, April 29, 2025. https://techcrunch.com/2025/04/29/sarah-tavel-benchmarks-first-woman-gp-transitions-to-venture-partner/

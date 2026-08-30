@@ -4,6 +4,7 @@ slug: felipe-villamarin
 type: individual
 firm: independent
 role: "Co-Founder, Rappi; Angel Investor"
+tldr: "Co-founder of Rappi, the Bogotá-based on-demand delivery platform backed by a16z, Sequoia, SoftBank, and DST Global. Writes $5K-$50K angel checks at pre-seed and seed across Latin America. Portfolio spans fintech (fidu), insurtech (Latú Seguros), climate (Bia Energy), and consumer brands (Bacu). Part of the informal 'Rappi mafia' network of former Rappi employees investing across LatAm."
 location: "Bogotá, Colombia"
 stage_focus: [pre-seed, seed]
 sector_focus: [fintech, marketplaces, logistics, insurtech, hrtech, latam]

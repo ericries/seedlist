@@ -4,6 +4,7 @@ slug: florian-hagenbuch
 type: individual
 firm:
 role: "Co-Founder & Founding Partner, Canary; Co-Founder & President, Loft"
+tldr: "German-born, São Paulo-based operator who co-founded Printi (acquired by Cimpress) and Loft (Brazil's largest iBuyer, valued at $2.9B). Co-Founder and Founding Partner of Canary, the LatAm early-stage venture firm managing four funds up to $150M. Portfolio spans fintech, insurtech, healthtech, e-commerce/social commerce, and B2B infrastructure across Brazil and LatAm. Notable angel deals include Jeeves alongside a16z."
 location: "São Paulo, Brazil"
 stage_focus: [pre-seed, seed, series-a]
 sector_focus: [fintech, proptech, marketplaces, consumer-internet, b2b-saas, latam]

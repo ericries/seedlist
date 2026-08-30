@@ -4,6 +4,7 @@ fund_size: $50M (Fund I, 2005); $220M (Fund II, 2007); $250M (Fund III, 2010); $
   (Fund IV, 2011); $1B (Fund V, 2014); $1.3B (Fund VI, 2016); $1.5B (Fund VII, 2020);
   $900M (Fund VIII, 2022); $1.5B (Growth I, 2020); $3.4B (Growth II, 2022); $4.6B
   (Growth III, 2025); ~$6B (Growth IV, 2026)
+tldr: "San Francisco VC founded in 2005 by Peter Thiel, Ken Howery, and Luke Nosek — three PayPal Mafia members — with ~$17B AUM and a founder-maximalist philosophy of never removing founders. First institutional investor in SpaceX and Palantir, with early bets on Facebook, Stripe, Airbnb, and Anduril. Anchors a contrarian 'Zero to One' thesis toward aerospace, defense, AI, and fintech; recent portfolio includes Anthropic, Neuralink, Ramp, and Cognition."
 last_researched: 2026-03-14
 location: San Francisco, CA
 name: Founders Fund

@@ -9,6 +9,7 @@ last_verified_investment:
 location: San Francisco, CA
 name: Harj Taggar
 role: Managing Partner
+tldr: "Managing Partner at Y Combinator, where he was the first non-founder Partner in 2010; co-founded Initialized Capital in 2011 with Garry Tan and Alexis Ohanian, whose early seed portfolio included Coinbase, Instacart, Cruise, Flexport, Opendoor, Reddit, and Rippling. Verified investments skew almost entirely to YC-network founders at pre-seed and seed across marketplaces, fintech, and developer tools."
 sector_focus:
 - developer-tools
 - fintech

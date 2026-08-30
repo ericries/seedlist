@@ -4,6 +4,7 @@ slug: deep-kalra
 type: individual
 firm:
 role: "Founder & Group Chairman, MakeMyTrip; Angel Investor"
+tldr: "Founder and Group Chairman of MakeMyTrip, India's largest online travel company (NASDAQ-listed since 2010). Writes syndicated angel checks into Indian early-stage consumer internet, fintech, edtech, and healthtech companies. Portfolio includes Ola, Milkbasket (acquired by Reliance), Scripbox, PlanetSpark, Eka.Care, and Lyskraft (led by Myntra founder Mukesh Bansal). Publicly warns founders about equity's true cost and preaches capital discipline."
 location: "Gurgaon, India"
 stage_focus: [seed, angel, early-stage]
 sector_focus: [consumer-internet, fintech, healthtech, edtech, travel-tech, SaaS, enterprise-software]

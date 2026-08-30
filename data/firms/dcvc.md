@@ -6,6 +6,7 @@ website: https://www.dcvc.com
 location: Palo Alto, CA / San Francisco, CA
 founded: 2011
 fund_size: "$725M (DCVC V, 2019); $4B total AUM"
+tldr: "Palo Alto-based deep-tech VC founded by Matt Ocko and Zachary Bogue in 2011, managing ~$4B AUM across 13 funds including dedicated Bio and Climate vehicles. Invests $5M-$25M at seed and Series A into companies using compute and defensible algorithms to solve hard problems in TechBio, robotics, climate, cybersecurity, and space. Portfolio includes 26 unicorns and 18 IPOs — SentinelOne, Planet, Databricks, Rocket Lab, Fervo Energy, Oklo."
 stage_focus:
 - seed
 - series-a

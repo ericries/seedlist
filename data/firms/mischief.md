@@ -1,5 +1,6 @@
 ---
 founded: 2021
+tldr: "SF-based early-stage firm founded 2021 by Plaid CEO Zach Perret and former Dote CEO Lauren Farleigh, with $110M+ AUM across Fund I ($30M, 2021) and Fund II ($80M, 2024). Operator-led partnership including former Cash App and Front product heads. Writes $1M-$5M seed checks with a generalist, people-driven approach. Portfolio skews fintech (33%) and crypto (19%): Cardless, Propel, Found, Rutter, Farcaster, Rainbow, and iVerify."
 fund_size: $110M+ total AUM; Fund I $30M (2021); Fund II $80M (2024)
 last_researched: 2026-06-04
 location: San Francisco, CA

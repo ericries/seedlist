@@ -4,6 +4,7 @@ slug: megan-lightcap
 type: individual
 firm: slow-ventures
 role: "Partner (Creator Fund), Slow Ventures"
+tldr: "Partner at Slow Ventures leading the $60M+ Creator Fund launched February 2025. Writes $1M-$3M checks directly into creators' holding companies for 10-15% ownership. Backs 'entrepreneur-operators' with engaged niche audiences building real operating businesses off-platform, not celebrities or influencers. Verified deals include Steven Bartlett's Steven.com ($425M valuation), Jonathan Katz-Moses's KM Tools, and Tayla Cannon's Rebuildr."
 location: "New York, NY"
 stage_focus: [seed, pre-seed]
 sector_focus: [creator-economy, consumer, community-driven, media, vertical-saas]

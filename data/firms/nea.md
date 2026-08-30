@@ -1,5 +1,6 @@
 ---
 founded: 1977
+tldr: "One of the largest US venture firms, founded 1977 with $28B+ AUM as of mid-2025 out of Menlo Park. Multi-stage across seed through growth, with parallel technology and healthcare/life-sciences practices. Led by Executive Chairman Scott Sandell (CIO) and Co-CEOs Tony Florence and Mohamad Makhzoumi. Deep AI push under Head of AI Strategy Lila Tretikov. Notable historical exits span Salesforce, Workday, MongoDB, Robinhood, Databricks, and countless biotech IPOs."
 fund_size: $28B+ total AUM (as of June 2025)
 last_researched: 2026-03-20
 location: Menlo Park, CA

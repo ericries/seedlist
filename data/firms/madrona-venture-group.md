@@ -5,6 +5,7 @@ type: firm
 website: "https://www.madrona.com"
 location: "Seattle, WA"
 founded: 1995
+tldr: "Seattle-based early-stage firm founded 1995 by Tom Alberg and partners; the largest and oldest venture firm in the Pacific Northwest, with $3B+ in total capital and $770M in fresh 2025 vehicles (Fund X plus Acceleration Fund IV). Portfolio skews B2B enterprise SaaS, developer tools, and applied AI, with a growing AI-enabled biotech cluster. Notable investments include Amazon (Alberg's 1995 check), Snowflake, Smartsheet, Redfin, Apptio, UiPath, and Rover."
 fund_size: "$770M (Fund X + Acceleration Fund IV, 2025)"
 stage_focus: [pre-seed, seed, series-a, series-b]
 sector_focus: [ai, enterprise, developer-tools, data-infrastructure, security, consumer, biotech, deep-tech]

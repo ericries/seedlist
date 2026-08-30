@@ -4,6 +4,7 @@ slug: dayna-grayson
 type: individual
 firm: construct-capital
 role: "Co-Founder & General Partner"
+tldr: "Co-Founder and General Partner of Construct Capital, a DC-based firm investing in 'foundational industries' at seed and Series A ($2M-$10M checks). Portfolio of 36+ investments concentrates in supply chain (25%), manufacturing (19%), defense (11%), and industrial software. Prior partner at NEA where she led Desktop Metal, Onshape, Tulip, and Formlabs."
 location: "Washington, DC"
 stage_focus:
   - seed

@@ -4,6 +4,7 @@ slug: marten-mickos
 type: individual
 firm:
 role: "Angel Investor; former CEO of HackerOne, Eucalyptus, MySQL"
+tldr: "Finnish-American angel investor and former CEO of MySQL, Eucalyptus, and HackerOne. Invests seed-stage in open-source and developer infrastructure, mirroring his operating background. Portfolio skews Nordic/Baltic B2B software, including Tangled (federated GitHub alternative), Unleash (open-source feature flagging), Erply, and Jakamo. Frequently co-invests alongside notable operators such as former GitHub CEO Thomas Dohmke and Tailscale CEO Avery Pennarun."
 location: "Seattle, Washington"
 stage_focus: [seed, pre-seed]
 sector_focus: [developer-tools, open-source, infrastructure, cybersecurity, enterprise-software]

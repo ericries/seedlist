@@ -4,6 +4,7 @@ slug: david-karp
 type: individual
 firm: independent
 role: "Founder of Tumblr; angel investor"
+tldr: "Founder of Tumblr, which he sold to Yahoo for $1.1B in 2013 and departed as CEO in 2017. As an angel, writes sparse checks in NYC-based consumer and prosumer companies, typically alongside Spark Capital's Bijan Sabet, who led Tumblr's Series A. Only three deals are publicly verifiable (Superpedestrian, Sherpaa, Splash), all between 2013-2016 with no verified activity since."
 location: "New York, New York"
 stage_focus: [seed, series-a, series-b]
 sector_focus: [consumer, healthcare, mobility, marketing-tech]

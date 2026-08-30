@@ -4,6 +4,7 @@ slug: matt-clifford
 type: individual
 firm: entrepreneurs-first
 role: "Co-Founder & Chair"
+tldr: "Co-Founder and Chair of Entrepreneurs First, a London-based 'talent investor' that funds exceptional individuals before they have a company or co-founder. EF has backed 600+ companies across 19 countries with a portfolio valued over $16B, heavily concentrated in AI (31%) and London (77%). Personal angel portfolio skews deep tech, climate, and defense. Also chairs the UK's ARIA agency and served as AI Opportunities Adviser to the UK Prime Minister."
 location: "London, United Kingdom"
 stage_focus: [pre-seed, seed]
 sector_focus: [ai, deep-tech, fintech, healthcare, climate-tech, quantum-computing, defense-tech, biotech]

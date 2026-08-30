@@ -4,6 +4,7 @@ slug: mark-jacobsen
 type: individual
 firm: oatv
 role: "Co-Founder & Managing Director"
+tldr: "Co-founder and Managing Director of O'Reilly AlphaTech Ventures (OATV), a seed-stage firm launched in 2005 with Tim O'Reilly and Bryce Roberts. Writes ~$700K average checks across a generalist 'follow the alpha geeks' thesis spanning civic tech, cleantech, developer tools, and consumer marketplaces. Lawyer by training; unusually hands-on as a board member. Investments include Fastly, Planet Labs, Instructables, SeeClickFix, Chairish, and TripIt."
 location: "San Francisco, California"
 stage_focus: [seed]
 sector_focus: [cleantech, civic-tech, consumer, developer-tools, hardware, data-analytics, cybersecurity, e-commerce]

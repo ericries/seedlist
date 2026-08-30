@@ -5,6 +5,7 @@ type: firm
 website: "https://www.openai.fund"
 location: "San Francisco, CA"
 founded: 2021
+tldr: "Strategic venture arm affiliated with OpenAI, launched 2021 with a $175M fund plus $114M+ across five SPVs. Backed by Microsoft and other OpenAI partners; OpenAI itself is not an investor. Control was formally transferred from Sam Altman to partner Ian Hathaway in April 2024. Portfolio is AI-native across applied verticals, with heavy weightings in robotics (1X, Figure, Physical Intelligence), healthcare (Ambience, Thrive), and developer/legal tools (Cursor, Harvey). Also runs the Converge accelerator, which funnels $1M checks into cohort companies."
 fund_size: "$175M (Fund I); $114M+ across 5 SPVs; 6th SPV targeting $69.5M"
 stage_focus: [pre-seed, seed, series-a, series-b]
 sector_focus: [ai, healthcare, robotics, legal-tech, education, developer-tools, fintech]

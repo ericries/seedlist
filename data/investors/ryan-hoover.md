@@ -145,6 +145,39 @@ Based on 75 verified portfolio companies across three funds [^10], Weekend Fund'
 
 No independently sourced founder testimonials found. Weekend Fund's website and hiring pages describe Hoover and co-founder Vedika Jain as "'people first' individuals" who help founders with product, community building, and go-to-market strategy [^9] [^19], but these are firm-sourced statements rather than independent founder testimonials.
 
+## Connections
+
+**Firm role and partners:**
+- **Founder & General Partner, Weekend Fund** — three funds raised: $3M (Fund I, 2017), $10M (Fund II, 2019), $21M (Fund III, 2021) [^7][^14][^17]
+- **Weekend Fund co-GP: Vedika Jain** — team members based in Miami and London [^9][^19]
+
+**Company founder history and acquirer:**
+- **Founder, Product Hunt** (launched November 6, 2013) — acquired by **AngelList** in December 2016 for approximately $20M; remained CEO after acquisition [^1][^3][^4]
+- **Y Combinator alumnus** — Product Hunt went through YC Summer 2014 batch [^3]
+
+**Prior employer / colleagues:**
+- **Former Director of Product, PlayHaven** (October 2010 – January 2014) — employee #10 at the mobile gaming platform [^1]
+- **Former intern, InstantAction** — video game startup in Eugene, Oregon [^1]
+
+**Notable Weekend Fund LPs (from published pitch materials and reporting):**
+- **Marc Andreessen, Chris Dixon, Naval Ravikant, Chris and Crystal Sacca, Hunter Walk, Kevin Rose, Garry Tan, Scott Belsky, Troy Carter, Steven Sinofsky, Eric Ries** [^14][^17]
+
+**Publishing / writing:**
+- **Co-author of *Hooked: How to Build Habit-Forming Products*** with **Nir Eyal** — 500K+ copies sold [^5][^6]
+- **Personal newsletter** with 25,000+ subscribers [^5]
+
+**Sourcing / introduction role in portfolio:**
+- **Introduced Deel's founder to Andreessen Horowitz**, which then led Deel's Series A — illustrates his position as a connector between early-stage founders and larger investors [^14]
+
+**Notable acquirer relationships (via portfolio exits):**
+- **Figma** (acquired Diagram), **Miro** (acquired Around), **Google** (acquired Alter), **Whatnot** (acquired Supergreat) [^5][^10]
+
+**Community appearances:**
+- **The Peel podcast** with Turner Novak, **Mercury blog** interview, **YourStory / TechSparks 2021**, **Crunchbase News** [^12][^14][^16][^18]
+
+**Education:**
+- **University of Oregon** — B.S. in Business, concentration in Entrepreneurship (2005–2009) [^2]
+
 ## Sources
 
 [^1]: The Next Web, "The Product Hunt Story: How it all began according to its founder Ryan Hoover," accessed March 2026. https://thenextweb.com/news/product-hunt-story-began-according-founder-ryan-hoover

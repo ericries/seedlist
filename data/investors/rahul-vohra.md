@@ -148,6 +148,35 @@ Another testimonial described their involvement as "game-changing," calling them
 
 *Note: These testimonials appear on the Todd & Rahul fund website and affiliated search results. While they are from actual founders, they are curated by the fund and should be understood in that context.*
 
+## Connections
+
+**Firm role and investing partner:**
+- **Co-General Partner, Todd & Rahul Capital** — co-founded with **Todd Goldberg** (formerly of Eventjoy); over $50M deployed across 120+ startups [^6][^7][^10]
+- **Fund LP base**: 150+ founders and operators as limited partners [^6]
+
+**Operating role and prior employers:**
+- **Founder & CEO, Superhuman** (2014–present) — email client focused on speed; author of the "PMF Engine" survey framework [^4][^5]
+- **Former: LinkedIn** — Product Manager for two years after Rapportive's 2012 acquisition [^1]
+- **Founder, Rapportive** — first Gmail plug-in to scale to millions of users; acquired by LinkedIn in 2012 for ~$15M [^1][^3]
+- **Former professional game developer at Runescape** (Jagex) [^1]
+
+**Education:**
+- **University of Cambridge** — BA and PhD in Computer Science; 10,000+ programming hours by graduation [^1][^2]
+
+**Notable portfolio investments as active board / advisor:**
+- **NexHealth** — participated across Series A ($15M, 2020), Series B ($31M, 2021), and Series C ($130M, 2022) [^11]
+- **Superhuman** — as founder and CEO, own company appears in his fund's portfolio [^9]
+- **Function Health** — Series B ($300M, 2025) [^11]
+
+**Notable portfolio unicorns (per fund materials):**
+- **ClassDojo, Placer.ai**, and one additional unnamed unicorn among Todd & Rahul's investments [^2]
+
+**Community and thought-leadership appearances:**
+- **Lenny's Podcast** (Superhuman's secret to success), **Antler Early Days podcast**, **AngelList blog** interviews, **Startup Archive** [^1][^3][^4][^5]
+
+**Notable co-investors and downstream funds** (from portfolio founder testimonials naming later-round leads on shared companies):
+- **Founders Fund, Redpoint, Bessemer, QED** — named alongside Todd & Rahul in a portfolio founder's cap-table testimonial [^11]
+
 ## Sources
 
 [^1]: Antler, "Antler Early Days — Episode 2: Superhuman with Rahul Vohra," accessed March 2026. https://www.antler.co/blog/antler-early-days-episode-2-superhuman-with-rahul-vohra
