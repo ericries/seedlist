@@ -4,6 +4,7 @@ slug: brad-garlinghouse
 type: individual
 firm: ripple
 role: "CEO, Ripple"
+tldr: "CEO of Ripple since December 2016 (COO from April 2015) and part-time operator-angel who typically joins large syndicates rather than leading. Verified personal checks (Diffbot, Pure Storage, SafeGraph Series A, Zamp seed) skew toward data infrastructure and fintech; most recent Zamp seed in May 2023. Author of Yahoo's 2006 'Peanut Butter Manifesto' memo on focus."
 location: "Miami-Fort Lauderdale Area, Florida"
 stage_focus: [seed, series-a]
 sector_focus: [fintech, crypto, blockchain, payments, ai, developer-tools]

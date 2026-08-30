@@ -4,6 +4,7 @@ slug: arthur-mensch
 type: individual
 firm: mistral-ai
 role: "Co-Founder & CEO, Mistral AI (angel investor in personal capacity)"
+tldr: "Co-founder and CEO of Mistral AI (€1.7B round at €11.7B valuation led by ASML in September 2025) and a former DeepMind research scientist who co-authored the Chinchilla scaling paper. Angels into seed and Series A AI-native infrastructure and applied AI across Europe and the US (Braintrust, Etched, Lemni, Mirelo, Linkup, Biorce, Parallel). Value is signal and network rather than large checks."
 location: "Paris, France"
 stage_focus: [seed, series-a]
 sector_focus: [ai, developer-tools, healthtech, enterprise-saas, ai-infrastructure]

@@ -110,6 +110,7 @@ Total: 25 verified investments. Note: this sample represents a small fraction of
 | Terradot | 2024-12-12 | Series A (led) | [^27][^31][^32] |
 | Hippocratic AI | 2025 | Series C | [^28] |
 | Isometric | 2026-06-22 | Series A | [^33][^34][^35][^36] |
+| Antora Energy | 2026-07-30 | Series C (new participant as personal check, $550M; G2 Venture Partners and Eclipse co-led) | [^jd-antora-c1][^jd-antora-c2][^jd-antora-c3] |
 
 ## In Their Own Words
 

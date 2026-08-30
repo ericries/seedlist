@@ -4,6 +4,7 @@ slug: bhavish-aggarwal
 type: individual
 firm:
 role: "Co-Founder & CEO, Ola; Founder, Ola Electric; Founder, Krutrim"
+tldr: "Co-founder and CEO of Ola (2011), founder of Ola Electric (BSE/NSE listed August 2024), and founder of Krutrim, India's first AI unicorn (January 2024). Personal angel activity is entirely India-focused across roughly six to seven verified seed/Series A checks in consumer, mobility, edtech, healthcare, and B2B commerce (Chaayos, Tork Motors, OfBusiness, HashLearn, MadRat Games, Karkinos). Last verified angel check: Karkinos Healthcare, December 2021."
 location: "Bengaluru, India"
 stage_focus: [seed, series-a]
 sector_focus: [consumer, ev, mobility, healthtech, edtech, b2b-commerce]

@@ -4,6 +4,7 @@ slug: andrey-khusid
 type: individual
 firm: s16vc
 role: "Co-Founder & CEO, Miro; Founding Partner, S16VC"
+tldr: "Co-founder and CEO of Miro (valued at $17.5B in January 2022, 90M+ users by 2025) and Founding Partner of S16VC, a 'founders for founders' fund writing $500K-$3M seed and Series A checks alongside GPs Oleg Bibergan and Aleks Shamis. S16VC portfolio skews enterprise and productivity SaaS (TravelPerk, Juro, People.ai, Melio, Synthesia) with a growing AI-native tilt (CodeWords, Dubformer)."
 location: "Amsterdam, Netherlands"
 stage_focus: [seed, series-a]
 sector_focus: [AI, enterprise-software, productivity, developer-tools, saas]

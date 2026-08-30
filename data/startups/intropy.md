@@ -32,7 +32,7 @@ Intropy is a London-based AI-native platform automating inventory, pricing, and 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-30 | Seed | €9.5M | Felix Capital | Quiet Capital, General Catalyst, firstminute capital [^1][^2] |
+| 2026-07-30 | Seed | €9.5M | Felix Capital | Quiet Capital, General Catalyst, firstminute capital [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -46,3 +46,4 @@ No independently sourced founder quotes at press time.
 
 [^1]: EU-Startups, "London-based Intropy raises €9.5 million to build the AI-native operating system for the spare parts industry," July 30, 2026. Accessed July 30, 2026. https://www.eu-startups.com/2026/07/london-based-intropy-raises-e9-5-million-to-build-the-ai-native-operating-system-for-the-spare-parts-industry/
 [^2]: Tech Funding News, "Oxford physicist's Intropy lands $11M to bring AI automation to the spare parts industry," July 30, 2026. Accessed July 30, 2026. https://techfundingnews.com/intropy-11m-seed-felix-capital-ai-spare-parts/
+[^3]: Tech.eu, "AI for spare parts startup Intropy raises $11M," July 30, 2026. Accessed August 2026. https://tech.eu/2026/07/30/ai-for-spare-parts-startup-intropy-raises-11m/ — Third independent confirmation of Felix Capital-led $11M / €9.5M Seed on 2026-07-30 with Quiet Capital, General Catalyst, and firstminute capital participating; names co-founders YihKai Teh (CTO) and Franziska Kirschner and includes founder quote from Teh.

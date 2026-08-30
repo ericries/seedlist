@@ -148,6 +148,7 @@ The following is a partial list of verified portfolio companies. Quiet Capital's
 ~unknown| Saronic Technologies | — | — | Defense / Robotics | Quiet Capital website [^1] |
 ~unknown| Castelion | — | — | Defense | Quiet Capital website [^1] |
 | Manifest OS | Series A | 2026 | LegalTech / AI | Press release [^28] |
+| Intropy | Seed (participated, $11M / €9.5M; Felix Capital led; General Catalyst and firstminute capital existing investors; London-based; founders YihKai Teh and Franziska Kirschner ex-Tractable) | 2026-07-30 | AI / Supply Chain / Spare Parts | Tech.eu [^qc-intropy-1], Vestbee [^qc-intropy-2], EU-Startups [^qc-intropy-3] |
 
 *Note: This table represents approximately 50 of 262 companies listed on Quiet Capital's portfolio page. Most entries lack specific investment year and stage because the firm's website and public sources do not attribute precise dates to individual investments. Only 5 investments have independently verified years and stages from press or regulatory sources.*
 
@@ -203,3 +204,7 @@ No independently sourced founder testimonials found. Quiet Capital maintains a d
 [^oai1]: Jonathan Shriftman, "I've Joined Quiet Capital," Substack essay, accessed July 2026. https://shriftman.substack.com/p/ive-joined-quiet-capital — Confirms Quiet Capital self-describes as a "direct investor" in OpenAI: "We're direct investors in OpenAI, Anduril, SpaceX, Databricks, ElevenLabs, SSI, Periodic Labs, and many more." No round, date, or size disclosed.
 
 [^oai2]: Tracxn, "OpenAI Funding Rounds & Investors," accessed July 2026. https://tracxn.com/d/companies/openai/__kElhSG7uVGeFk1i71Co9-nwFtmtyMVT7f-YHMn4TFBg/funding-and-investors — Aggregator list of OpenAI's 91 disclosed investors across all 14 primary funding rounds from December 2015 through April 2026. Quiet Capital does NOT appear. Combined with [^oai1], Quiet's OpenAI exposure is therefore via undisclosed secondary/tender-offer purchase or SPV allocation, not a named primary round. Cannot be pinned to a specific date.
+
+[^qc-intropy-1]: Tech.eu, "AI for spare parts startup Intropy raises $11M," July 30, 2026. Accessed August 2026. https://tech.eu/2026/07/30/ai-for-spare-parts-startup-intropy-raises-11m/ — Confirms Quiet Capital as a new participant in Intropy's $11M / €9.5M seed on 2026-07-30, led by Felix Capital, with existing investors General Catalyst and firstminute capital.
+[^qc-intropy-2]: Vestbee, "London-based Intropy raises $11M seed to modernise spare parts supply chains with AI," accessed August 2026. https://www.vestbee.com/insights/articles/intropy-raises-11-m — Independent European tech-press confirmation of Quiet Capital participation.
+[^qc-intropy-3]: EU-Startups, "London-based Intropy raises €9.5 million to build the AI-native operating system for the spare parts industry," July 30, 2026. Accessed August 2026. https://www.eu-startups.com/2026/07/london-based-intropy-raises-e9-5-million-to-build-the-ai-native-operating-system-for-the-spare-parts-industry/ — Third independent confirmation.

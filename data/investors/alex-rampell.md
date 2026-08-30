@@ -4,6 +4,7 @@ slug: alex-rampell
 type: individual
 firm: andreessen-horowitz
 role: "General Partner"
+tldr: "General Partner at Andreessen Horowitz leading the firm's Apps practice, with 13 of 14 verified board seats in fintech and proptech (Mercury, Affirm, Wise, Opendoor, Rocket Companies). Co-founded Affirm and TrialPay (sold to Visa 2015) before joining a16z in 2015. Known for the 'Distribution vs. Innovation' framework and a concentrated focus on underbanked-consumer and SMB fintech."
 location: "San Francisco Bay Area, CA"
 stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [fintech, payments, proptech, marketplaces, consumer, enterprise-software]

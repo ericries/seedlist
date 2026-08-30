@@ -9,6 +9,7 @@ last_verified_investment:
 location: San Francisco, California
 name: Auren Hoffman
 role: Chairman, SafeGraph; CEO, NQB8; General Partner, Flex Capital
+tldr: "Chairman of SafeGraph (former founder-CEO 2016-2024), General Partner at Flex Capital, CEO of NQB8, and host of the World of DaaS podcast. Prolific data-economy angel with 100+ investments including Aardvark, Meebo, Carta, Clearbit, Superhuman, Marqeta, Datavant, Perplexity, and Mercury — typically a participating check rather than lead. Co-founded LiveRamp (acquired by Acxiom for $310M in 2014)."
 sector_focus:
 - data
 - saas

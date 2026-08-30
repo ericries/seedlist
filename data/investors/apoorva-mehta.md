@@ -9,6 +9,7 @@ last_verified_investment:
 location: Palo Alto, CA
 name: Apoorva Mehta
 role: Founder, Abundance and Cloud Health Systems; former CEO Instacart
+tldr: "Founder and former CEO of Instacart (IPO September 2023 as Maplebear on Nasdaq). Now founder of Cloud Health Systems / Sunrise (metabolic health, $30M Series A led by Thrive in 2022) and Abundance, an AI-driven hedge fund with $100M in seed financing (2025). Post-Instacart capital deployment is largely into companies he founded; only five verified personal angel checks (Superblocks, Forage, Tezi, Stranger & Sons, Kofluence) at seed and Series A."
 sector_focus:
 - ai
 - fintech

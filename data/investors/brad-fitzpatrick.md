@@ -4,6 +4,7 @@ slug: brad-fitzpatrick
 type: individual
 firm: tailscale
 role: "Chief Engineer & Co-Founder, Tailscale"
+tldr: "Chief Engineer and late-stage co-founder of Tailscale, and creator of LiveJournal, memcached, OpenID, and WebSub. Spent 13 years on Google's Go language team before joining Tailscale in January 2020. Not a full-time investor: the only publicly documented angel check is Bluesky's $8M seed round in July 2023, consistent with a bias toward open-protocol, developer-infrastructure projects."
 location: "Seattle, WA"
 stage_focus: [seed]
 sector_focus:

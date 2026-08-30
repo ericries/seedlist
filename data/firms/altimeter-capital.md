@@ -1,5 +1,6 @@
 ---
 founded: 2008
+tldr: "Crossover technology investment firm founded by Brad Gerstner in 2008; approximately $10.7B AUM combining a long/short public equity fund with private growth equity across seven funds. Practices extreme concentration — roughly 90% of the public portfolio sits in the top 10 positions (NVIDIA, Meta, Microsoft, Amazon). Notable private bets include Snowflake (Series C lead), Plaid Series D, Anduril, OpenAI, Anthropic, Parloa, and Roblox."
 fund_size: $10.7B AUM (Q4 2025 SEC filing); seventh private venture fund
 last_researched: 2026-07-06
 location: Menlo Park, CA / Boston, MA

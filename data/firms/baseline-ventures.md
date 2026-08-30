@@ -5,6 +5,7 @@ type: firm
 website: "https://www.baselinev.com"
 location: "Jackson, WY"
 founded: 2006
+tldr: "Solo-GP micro-VC founded in 2006 by Steve Anderson, now based in Jackson, Wyoming. First seed investor in Instagram (acquired by Facebook for $1B in 2012) and an early check into Heroku, ExactTarget, PagerDuty, Stitch Fix, SoFi, Expensify, and WeWork. Anderson invests pre-product with $100K-$1M checks and typically makes decisions in roughly 30 minutes; Baseline is designed around realistic $50M-$200M outcomes rather than chasing unicorns."
 fund_size: "Undisclosed (micro-VC)"
 stage_focus: [seed]
 sector_focus: [consumer, enterprise, saas, fintech, social, developer-tools]

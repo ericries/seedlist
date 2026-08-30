@@ -1,5 +1,6 @@
 ---
 founded: 1996
+tldr: "Menlo Park venture firm founded in 1996 by Ho Nam and Han Kim (Stanford GSB '94), now over $10B in regulatory AUM across 15+ funds and three vehicles including a dedicated Korea Opportunity Fund. Uses SEC RIA structure to build concentrated positions via secondaries and SPVs — deployed $400M+ into Roblox alone. Long-hold, capital-efficient thesis; early backer of Roblox, Coupang, Krafton, Toss, and Woowa Brothers (Baemin)."
 fund_size: $500M (latest fund, 2024); $10B+ regulatory AUM
 last_researched: 2026-03-24
 location: Menlo Park, CA

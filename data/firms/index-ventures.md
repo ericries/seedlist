@@ -159,6 +159,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 | Oratomic | Series A (participated, $300M; ARCH Venture Partners, Spark Capital, Khosla Ventures co-led; Bezos Expeditions, General Catalyst, Lowercarbon Capital, Bain Capital Ventures, Formation, Nebular also participated) | 2026-07-07 | Quantum Computing / Deep Tech | [^80][^81][^82] |
 | Enigma | Seed (co-led with Ribbit Capital, $71M; Conviction Partners participated) | 2026-07-27 | Robotics / AI / Foundation Models | [^83][^84] |
 | Intelligence (Design Arena) | Seed (led, $7.9M; Conviction, A*, Valkyrie participated; Grace Li co-founder/CEO; $60M ARR at seed) | 2026-08-03 | AI / Evaluation / Benchmarking | [^85][^86][^87] |
+| Simile | Series B (participated, $200M at $2B post-money; Greenoaks led; Hanabi, Bain Capital Ventures, A*, Factory, Definition, CVS Health Ventures also participated; Index led the prior Feb 2026 $100M Series A) | 2026-07-30 | AI / Synthetic Users / Market Research | [^iv-simb1][^iv-simb2][^iv-simb3] |
 
 This table represents a subset of Index Ventures' portfolio.
 
@@ -312,4 +313,8 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^86]: "Intelligence Raises $7.9M in Seed Funding," FinSMEs, August 2026. Accessed August 6, 2026. https://www.finsmes.com/2026/08/intelligence-raises-7-9m-in-seed-funding.html — Independent confirmation of the Intelligence seed round.
 
 [^87]: "DesignArena creators raise $7.9M to scale human taste-testing for AI models," Stockpil, August 2026. Accessed August 6, 2026. https://stockpil.com/designarena-intelligence-raises-7-9m-seed/ — Third independent confirmation of Index Ventures leading Intelligence's $7.9M seed announced August 3, 2026 (Monday) with Conviction, A*, and Valkyrie participating; quotes Grace Li: "It was the missing bottleneck for a lot of these models to make improvements in the design space. About a week later, we closed our first major deal with a frontier lab, and the rest is kind of history."
+
+[^iv-simb1]: TechCrunch, "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A," July 30, 2026. Accessed August 2026. https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/ — Confirms Index Ventures participated in the Greenoaks-led $200M Series B at a $2B valuation, five months after leading the $100M Series A.
+[^iv-simb2]: TheSaaSNews, "Simile Raises $200M Series B," July 31, 2026. Accessed August 2026. https://www.thesaasnews.com/news/simile-raises-200m-series-b/ — Independent confirmation of Index Ventures as a participant in the $200M Series B at $2B valuation.
+[^iv-simb3]: Fundraise Insider, "Simile Raises $200M Series B for Human Behavior Simulation," July 31, 2026. Accessed August 2026. https://fundraiseinsider.com/blog/simile-raises-200m-series-b-for-human-behavior-simulation/ — Third independent confirmation of the full participant list.
 

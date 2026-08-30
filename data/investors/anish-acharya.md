@@ -9,6 +9,7 @@ last_verified_investment:
 location: Menlo Park, California
 name: Anish Acharya
 role: General Partner
+tldr: "General Partner at Andreessen Horowitz focused on consumer fintech and AI-native consumer at Series A/B; joined a16z in July 2019. Verified board seats include Deel, Titan, Method, Mosaic, HappyRobot, The Coterie, and Clutch. Prior to a16z was VP Product and GM at Credit Karma, a venture investor at GV, and founded SocialDeck (sold to Google) and Snowball (sold to Credit Karma)."
 sector_focus:
 - fintech
 - consumer

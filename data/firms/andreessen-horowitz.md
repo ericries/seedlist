@@ -1,5 +1,6 @@
 ---
 founded: 2009
+tldr: "Multi-stage venture firm co-founded by Marc Andreessen and Ben Horowitz in 2009; $15B across five active funds (2026) and $90B+ total AUM. Invests from seed through growth across AI, enterprise, consumer, crypto, fintech, bio-health, games, infrastructure, and American Dynamism, with dedicated practice-area GPs (Alex Rampell and Angela Strange in fintech, Chris Dixon in crypto, Katherine Boyle in American Dynamism, Julie Yoo in bio-health, Andrew Chen in growth)."
 fund_size: $7.2B (2024 across five funds); $15B (2026 across five funds); $90B+ total
   AUM
 last_researched: 2026-03-13

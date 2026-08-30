@@ -114,6 +114,7 @@ The firm describes its approach as seeking "generational founders" and building 
 | Motive (KeepTruckin) | Series D | 2019 | Fleet Management | Active | [^21] |
 | Sierra | Growth | 2025-09-04 | AI | Active | [^22] |
 | Decade | Seed (co-lead, $85M) | 2026-08-04 | Fintech / AI wealth advisory (Brazil) | Active | [^29] |
+| Simile | Series B (led, $200M at $2B post-money; Index Ventures, Hanabi, Bain Capital Ventures, A*, Factory, Definition, CVS Health Ventures participating) | 2026-07-30 | AI / Synthetic Users / Market Research | Active | [^gr-simile1][^gr-simile2][^gr-simile3] |
 
 *This table represents approximately 18% of Greenoaks' 114 total investments [^8]. Investment years are based on primary press sources where available.*
 
@@ -162,3 +163,7 @@ No independently sourced founder testimonials found. Greenoaks maintains a minim
 [^27]: Milbank, "Milbank Advises Personio on Its $200M Second Series E Financing Round Led by Greenoaks," June 22, 2022. https://www.milbank.com/en/news/milbank-advises-personio-on-its-dollar-200-million-dollar-second-series-e-financing-round-led-by-greenoaks.html
 [^28]: TechCrunch, "Discord confirms raising $100M at a valuation of $7B," December 17, 2020. https://techcrunch.com/2020/12/17/filing-discord-is-raising-up-to-140m-at-a-valuation-of-up-to-7b/
 [^29]: BusinessWire, "Decade Raises $85M in Latin America's Largest Seed Round to Create a New Generation of Millionaires with AI," August 4, 2026. Accessed August 2026. https://www.businesswire.com/news/home/20260804082552/en/Decade-Raises-$85M-in-Latin-Americas-Largest-Seed-Round-to-Create-a-New-Generation-of-Millionaires-with-AI — Decade (São Paulo, Brazil) emerged from stealth on Aug 4, 2026 with $85M seed, largest ever for a LatAm startup. Backed by Greenoaks, Benchmark, Diffusion. Founded by former Nubank CTO Vitor Olivier and Hyperplane founder Felipe Meneses.
+
+[^gr-simile1]: TechCrunch, "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A," July 30, 2026. Accessed August 2026. https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/ — Confirms Greenoaks led the $200M Series B at a $2B valuation with Index Ventures, Hanabi, Bain Capital Ventures, A*, Factory, Definition, and CVS Health Ventures participating.
+[^gr-simile2]: TheSaaSNews, "Simile Raises $200M Series B," July 31, 2026. Accessed August 2026. https://www.thesaasnews.com/news/simile-raises-200m-series-b/ — Independent confirmation of Greenoaks-led $200M Series B at $2B valuation.
+[^gr-simile3]: Fundraise Insider, "Simile Raises $200M Series B for Human Behavior Simulation," July 31, 2026. Accessed August 2026. https://fundraiseinsider.com/blog/simile-raises-200m-series-b-for-human-behavior-simulation/ — Third independent confirmation of Greenoaks lead, $2B valuation, and full participant list.

@@ -10,6 +10,7 @@ location: San Francisco, California
 name: Brian Balfour
 role: Founder & CEO, Reforge (acquired by Miro 2026); Chief Growth Officer, Miro;
   Venture Partner, Long Journey Ventures; Co-founder, Edelweiss.vc
+tldr: "Founder of Reforge (acquired by Miro in March 2026) and Chief Growth Officer at Miro; Venture Partner at Long Journey Ventures and co-founder of Edelweiss.vc. Angels into seed and Series A bottoms-up SaaS and AI-native productivity tools (Loom, Softr, Grain, Mem0, Lassie). Author of the widely cited 'Four Fits for $100M+ Growth' framework; former VP of Growth at HubSpot."
 sector_focus:
 - saas
 - developer-tools

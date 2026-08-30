@@ -5,6 +5,7 @@ type: firm
 website: "https://bedrockcap.com"
 location: "Los Angeles, CA / Austin, TX"
 founded: 2017
+tldr: "Concentrated technology investment firm founded in late 2017 by Geoff Lewis (a former Founders Fund partner behind early Lyft and Nubank bets) and Eric Stromberg (departed 2023). Now $2B+ AUM across four funds, currently deploying the $400M Bedrock 4. Invests in Series A-C rounds ($5M-$50M checks) under a 'narrative violations' thesis focused on AI, defense, infrastructure, and digital assets — notable positions include Vercel, Rippling, Flock Safety, Mach Industries, Epirus, and OpenAI."
 fund_size: "$2B+ AUM across four funds (Fund I: $125M, Fund II: $350M, Fund III: $350M, Fund IV: $400M)"
 stage_focus: [seed, series-a, series-b, series-c]
 sector_focus: [ai, defense, infrastructure, fintech, digital-assets, public-safety, developer-tools]
