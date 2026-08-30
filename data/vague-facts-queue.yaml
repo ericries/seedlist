@@ -305,7 +305,9 @@ vague_facts:
   line: '| Presso | Pre-Seed (USD 1.6M; Pathbreaker Ventures + AME Cloud Ventures + SOSV + 1517 Fund + YETI Capital participated;'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: SCANNER FALSE POSITIVE on column 4 (Source column, contains footnote refs only). Row itself is fully specific: 2020-12-16 exact date, USD 1.6M amount, full syndicate (Pathbreaker Ventures + AME Cloud Ventures + SOSV + 1517 Fund + YETI Capital) with no single lead. Existing citations already provide 3+ primary sources: TechCrunch [^42] (2020-12-16 dateline), Hypepotamus [^63] (2020-12-16 with Danielle Strachman/1517 Partner quote), Presso company press [^64] (2020-12-16). 1517 explicitly named in Hypepotamus contemporaneous coverage, confirming attribution is NOT aggregator-only. No profile change needed — row is 10/10.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: eEva
@@ -359,7 +361,9 @@ vague_facts:
   line: '| CalWave Power Technologies | Seed (aggregator-only 1517 attribution — CalWave''s own fact sheet names Breakout Labs 201'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: SCANNER FALSE POSITIVE on column 4 (Source column, contains footnote refs only). Row itself is a transparent-disclosure annotation already fully sourced across 3 citations: existing 1517 portfolio page/Tracxn [^24], CalWave own fact sheet [^58] (calwave.energy — company primary source explicitly naming Breakout Labs 2018-01-04, Autodesk 2017, Sustainable Ocean Alliance 2017, High Tide Foundation 2019 as venture-side investors with balance from DOE grants totaling USD 7.5M in 2022; 1517 Fund NOT named), and Offshore Energy [^59] (2018-01-04 contemporaneous press confirming Breakout Labs research grant). Row transparently discloses the aggregator-only 1517 attribution pattern and cross-references the Thiel Foundation/Breakout Labs parent-org relationship. No profile change needed — this is the correct honest treatment of an aggregator-only attribution.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Stark Therapeutics
@@ -380,7 +384,9 @@ vague_facts:
   line: '| Pareto | Seed (USD 4.5M; TechCrunch primary press names MaC Venture Capital, Seabed VC, Soma Capital, Fearless Fund, L'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: SCANNER FALSE POSITIVE on column 4 (Source column, contains footnote refs only). Row itself is fully specific: 2022-03-14 exact date (public announcement per TechCrunch; round closed November 2021), USD 4.5M amount, full syndicate (MaC Venture Capital, Seabed VC, Soma Capital, Fearless Fund, Liquid2 Ventures, Slope Agency, Jonathan Swanson) with transparent disclosure that 1517 attribution is aggregator-only. Sources: Tracxn [^4], Crunchbase [^44] (seed round page dated 2022-03-14), TechCrunch [^69] (Christine Hall, 2022-03-14 primary press explicitly listing named investors without 1517 Fund — the aggregator-only pattern is transparently annotated in-row). No profile change needed — row is correctly annotated 10/10 with honest attribution treatment.'
 - profile: firms/1517-fund
   profile_name: 1517 Fund
   company: Rainmaker (Series A follow-on)
