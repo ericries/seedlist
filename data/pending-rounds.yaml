@@ -29,6 +29,40 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Biotech Startup Investment Held Steady Even As AI Funding Surged
+  url: https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026/
+  source: crunchbase
+  date_found: '2026-08-31'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 8/31/26'
+  url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-31-26/
+  source: alleywatch
+  date_found: '2026-08-31'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Stockholm-based Elekta secures €100 million EIB loan to advance cancer and
+    neurological treatments
+  url: https://www.eu-startups.com/2026/08/stockholm-based-elekta-secures-e100-million-eib-loan-to-advance-cancer-and-neurological-treatments/
+  source: eu-startups
+  date_found: '2026-08-31'
+  parsed_company: Stockholm-based Elekta
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: UK-based BatteryTech firm Nexeon secures €116.7 million with National Wealth
+    Fund backing
+  url: https://www.eu-startups.com/2026/08/uk-based-batterytech-firm-nexeon-secures-e116-7-million-with-national-wealth-fund-backing/
+  source: eu-startups
+  date_found: '2026-08-31'
+  parsed_company: UK-based BatteryTech firm Nexeon
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Inflection Point Acquisition VIII raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
