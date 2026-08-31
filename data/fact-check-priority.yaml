@@ -5024,14 +5024,23 @@ priority:
   type: startup
   reason: new profile from round monitoring (Series A, 2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Verified Retro (Lone Palm Labs) $21M+ Series A led by Thrive Capital disclosed 2026-08-28 (round closed December 2025) via direct WebFetch of TechCrunch [^1] confirming amount, lead investor, and full participant list (Dylan Field, Scribble Ventures, Box Group, Imaginary Ventures, Coalition, Conviction, Copper, Positive Sum). Techmeme [^2] provides independent aggregator confirmation attributing to Sydney Bradley / Business Insider and SEC Form D filed August 19, 2026. Founder quote from Nathan Sharp matches TechCrunch verbatim. PitchBook post-money valuation $100M+ noted. Could not locate a third fully-independent primary source after multiple targeted WebFetch attempts (Business Insider paywalled, Axios/Crunchbase News/AlleyWatch/Pulse2/TechStartups/FinSMEs URLs returned 403/404, SEC EDGAR blocked); WebSearch budget exhausted. Profile retains 2 primary citations, both directly verified. Round is fresh enough that additional independent coverage may emerge; ok to reopen.'
 - slug: thrive-capital
   type: firm
   reason: appeared in Retro Series A (2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Verified Retro (Lone Palm Labs) $21M+ Series A led by Thrive Capital already recorded in thrive-capital.md portfolio table at line 221 with 2 citations ([^retro-tc1] TechCrunch, [^retro-tc2] Techmeme). TechCrunch article directly re-fetched and confirms Thrive Capital as lead, Dylan Field + Scribble Ventures + Box Group + Imaginary Ventures + Coalition + Conviction + Copper + Positive Sum as participants, $21M+ raised, closed December 2025, disclosed August 28, 2026, PitchBook $100M+ post-money valuation. No changes needed to thrive-capital profile.'
 - slug: boxgroup
   type: firm
   reason: appeared in Retro Series A (2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-30
+  resolution_note: 'Added Retro (Lone Palm Labs) Series A participation row to boxgroup.md portfolio table ($21M+ led by Thrive Capital, 2026-08-28, participants Dylan Field/Scribble/Imaginary/Coalition/Conviction/Copper/Positive Sum). Cited via 2 primary sources [^retro2026a] TechCrunch (directly verified via WebFetch) + [^retro2026b] Techmeme aggregator referencing SEC Form D + Business Insider. Updated last_verified_investment from Foundational Industries 2026-07-30 to Retro 2026-08-28. Third-party primary confirmation could not be located after multiple targeted fetch attempts; WebSearch budget exhausted.'
 - slug: conviction
   type: firm
   reason: appeared in Retro Series A (2026-08-28)

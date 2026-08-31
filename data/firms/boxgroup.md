@@ -53,9 +53,9 @@ team:
 status: published
 last_researched: 2026-05-06
 last_verified_investment:
-  date: 2026-07-30
-  company: "Foundational Industries"
-  round: "Seed (co-led, $25M)"
+  date: 2026-08-28
+  company: "Retro (Lone Palm Labs)"
+  round: "Series A (participated, $21M+; Thrive Capital led)"
 tldr: "NYC-based seed investor founded in 2007 by David Tisch and Adam Rothenberg, with 600+ investments producing 31 unicorns (Plaid, Ramp, Warby Parker, Airtable, Cursor). Writes non-lead $250K-$1M checks as 'the Switzerland of VC,' co-investing collaboratively. Self-funded for first 12 years before raising external capital; now manages $1B+ across multiple fund vintages. Portfolio concentrated in fintech (25%), healthcare (18%), and consumer (18%)."
 ---
 
@@ -111,6 +111,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Retro (Lone Palm Labs) | Series A (participated, $21M+; led by Thrive Capital; Dylan Field, Scribble Ventures, Imaginary Ventures, Coalition, Conviction, Copper, Positive Sum also participated) | 2026-08-28 | Consumer / Social / Photo-Sharing | Active ($100M+ estimated valuation per PitchBook) [^retro2026a][^retro2026b] |
 | Foundational Industries | Seed (co-led with Zigg Ventures, $25M; Abstract, Adverb, Buckley, Offline participated) | 2026-07-30 | Manufacturing / AI / Industrial Automation | Active [^foundational2026a][^foundational2026b][^foundational2026c] |
 | Sable | Series A (participated, $45M; co-led by Sequoia and 8VC) | 2026-07-16 | AI / Sales Enablement | Active [^sable2026][^sable2026b][^sable2026c] |
 | Niteshift | Seed (participated, $7M; led by Greylock/Jerry Chen) | 2026-06-10 | AI / Developer Tools / Cloud | Active [^niteshift2026a][^niteshift2026b][^niteshift2026c] |
@@ -272,3 +273,6 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^era-b1]: Yahoo Finance / TechCrunch syndication, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. Accessed August 2026. https://finance.yahoo.com/sectors/technology/articles/era-raises-11m-build-software-160000149.html — Confirms USD 9M seed co-led by Abstract Ventures and BoxGroup, with Collaborative Fund and Mozilla Ventures participating. Prior USD 2M pre-seed from Topology Ventures and Betaworks brings Era's total funding to USD 11M.
 
 [^era-b2]: Tech Funding News, "Era raises $11M from Abstract Ventures and BoxGroup to bring AI to smart gadgets," April 2026. Accessed August 2026. https://techfundingnews.com/era-11m-funding-ai-hardware-intelligence-infrastructure/ — Third independent trade press confirmation of USD 9M seed co-led by Abstract Ventures and BoxGroup.
+
+[^retro2026a]: Sarah Perez, "Friend-focused photo-sharing app Retro snags $21M," TechCrunch, August 28, 2026. Accessed August 2026. https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/ — Primary tier-1 tech press confirming Retro (Lone Palm Labs) raised $21M+ Series A led by Thrive Capital with Dylan Field (Figma CEO), Scribble Ventures, Box Group, Imaginary Ventures, Coalition, Conviction, Copper, and Positive Sum participating. Round closed December 2025; disclosed August 28, 2026. Founders Nathan Sharp and Ryan Olson (former Instagram product engineers). PitchBook estimates $100M+ post-money valuation.
+[^retro2026b]: Techmeme, "Filing: Lone Palm Labs, the startup behind friend-focused photo sharing app Retro, raised a $21M+ Series A from Thrive Capital and others," August 28, 2026. Accessed August 2026. https://www.techmeme.com/260828/p16 — Independent tech-press aggregator confirming SEC Form D filing dated August 19, 2026 disclosing Thrive Capital as Series A lead. Attributes underlying reporting to Sydney Bradley / Business Insider.
