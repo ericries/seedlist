@@ -72,6 +72,56 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police
+    officers’
+  url: https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/
+  source: techcrunch
+  date_found: '2026-08-31'
+  parsed_company: Harvard Law dropout
+  parsed_amount: $6M
+  parsed_round: null
+  status: pending
+- title: Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save
+    Bolt
+  url: https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/
+  source: techcrunch
+  date_found: '2026-08-31'
+  parsed_company: null
+  parsed_amount: $27M
+  parsed_round: Bridge
+  status: pending
+- title: Ausperbio raised $120M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-31'
+  parsed_company: Ausperbio
+  parsed_amount: $120M
+  parsed_round: Series C
+  status: pending
+- title: TrustedRouter raised $1.25M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-31'
+  parsed_company: TrustedRouter
+  parsed_amount: $1.25M
+  parsed_round: null
+  status: pending
+- title: and has raised $300M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-31'
+  parsed_company: and has
+  parsed_amount: $300M
+  parsed_round: null
+  status: pending
+- title: b in cash. Merida had raised $154M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-31'
+  parsed_company: b in cash. Merida had
+  parsed_amount: $154M
+  parsed_round: null
+  status: pending
 - title: Inflection Point Acquisition VIII raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -297,15 +347,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Stability AI, maker of image generator Stable Diffusion, raises $76 million
-    in fresh funding
-  url: https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/
-  source: techcrunch
-  date_found: '2026-08-25'
-  parsed_company: Stability AI, maker of image generator Stable Diffusion,
-  parsed_amount: $76M
-  parsed_round: null
-  status: pending
 - title: Self-driving truck startup Gatik raises $200M following PepsiCo deal
   url: https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/
   source: techcrunch
@@ -453,15 +494,6 @@ pending_rounds:
   date_found: '2026-08-20'
   parsed_company: Belgian creative learning platform Artwod
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Relativity Networks raises $22 million to bring a faster kind of fiber to
-    data centers
-  url: https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/
-  source: techcrunch
-  date_found: '2026-08-19'
-  parsed_company: Relativity Networks
-  parsed_amount: $22M
   parsed_round: null
   status: pending
 - title: Scotland’s Singular Photonics secures €1.85 million to scale SPAD image sensors
@@ -632,15 +664,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
-- title: Terra Industries closes $52M seed round to build defense infrastructure for
-    the Global South
-  url: https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/
-  source: techcrunch
-  date_found: '2026-08-17'
-  parsed_company: Terra Industries
-  parsed_amount: $52M
-  parsed_round: Seed
-  status: pending
 - title: 'The AlleyWatch Startup Daily Funding Report: 8/17/2026'
   url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-17-2026/
   source: alleywatch
@@ -764,14 +787,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Form Energy raises $750M to build more 100-hour batteries for the grid
-  url: https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/
-  source: techcrunch
-  date_found: '2026-08-12'
-  parsed_company: Form Energy
-  parsed_amount: $750M
-  parsed_round: null
-  status: pending
 - title: Bristol’s electric ‘air taxi’ developer Vertical Aerospace secures €86.6
     million in financing commitments
   url: https://www.eu-startups.com/2026/08/bristols-electric-air-taxi-developer-vertical-aerospace-secures-e86-6-million-in-financing-commitments/
@@ -824,56 +839,4 @@ pending_rounds:
   parsed_company: UK air defence company Cambridge Aerospace
   parsed_amount: null
   parsed_round: Series C
-  status: pending
-- title: London-based edge AI infrastructure company Edgify raises €7.7 million to
-    combat retail losses
-  url: https://www.eu-startups.com/2026/08/london-based-edge-ai-infrastructure-company-edgify-raises-e7-7-million-to-combat-retail-losses/
-  source: eu-startups
-  date_found: '2026-08-10'
-  parsed_company: London-based edge AI infrastructure company Edgify
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/10/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-10-2026/
-  source: alleywatch
-  date_found: '2026-08-10'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 8/10/26'
-  url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-10-26/
-  source: alleywatch
-  date_found: '2026-08-09'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Cyprus-based enterprise agentic CX company Omilia secures €58.1 million in
-    Series B funding
-  url: https://www.eu-startups.com/2026/08/cyprus-based-enterprise-agentic-cx-company-omilia-secures-e58-1-million-in-series-b-funding/
-  source: eu-startups
-  date_found: '2026-08-07'
-  parsed_company: Cyprus-based enterprise agentic CX company Omilia
-  parsed_amount: null
-  parsed_round: Series B
-  status: pending
-- title: London’s Safehire.ai, founded by ex-British Army officers, secures €583.2k
-    to scale AI-powered digital risk screening
-  url: https://www.eu-startups.com/2026/08/londons-safehire-ai-founded-by-ex-british-army-officers-secures-e583-2k-to-scale-ai-powered-digital-risk-screening/
-  source: eu-startups
-  date_found: '2026-08-07'
-  parsed_company: London’s Safehire.ai, founded by ex-British Army officers,
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Glasgow-based Mironid raises €39.9 million in Series B to advance rare kidney
-    disease treatment
-  url: https://www.eu-startups.com/2026/08/glasgow-based-mironid-raises-e39-9-million-in-series-b-to-advance-rare-kidney-disease-treatment/
-  source: eu-startups
-  date_found: '2026-08-07'
-  parsed_company: Glasgow-based Mironid
-  parsed_amount: null
-  parsed_round: Series B
   status: pending
