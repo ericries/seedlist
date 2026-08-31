@@ -4231,10 +4231,16 @@ priority:
   type: investor
   reason: chairman & angel in Agon Seed (2026-07-29), $30M
   added: 2026-08-01
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified David Helgason serves as chairman and angel investor in Agon (London/Berlin defensetech) via 2 primary contemporaneous press sources (Tech.eu, Army Technology). Agon launched from stealth 2026-07-29 with $30M cumulative ($7M pre-seed + $23M seed); XYZ Venture Capital led the seed round with Lux Capital, Northzone, Lakestar, 201 Ventures, D3 participating. Klaus Hommels (Lakestar) joined the board. Added Agon row to david-helgason.md Portfolio table (Angel section) with citations [^30][^31]. Added "Chairman, Agon" to Connections section. Updated last_verified_investment from Flow Engineering (2025-10-14) to Agon Seed (2026-07-29).'
 - slug: umesh-padval
   type: investor
   reason: led Eliyan Series C via Seligman Ventures (2026-07-29), $145M, joined board
   added: 2026-08-01
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Umesh Padval (Managing Partner, Seligman Ventures) led Eliyan $145M Series C at $1B valuation on 2026-07-29 and joined the Eliyan board via 3 primary sources: Eliyan company press release [^10], GlobeNewswire wire distribution [^11], and Data Center Dynamics contemporaneous press [^12]. Co-investors Cisco Investments and Lumentum joined as new strategic investors. Added Eliyan row to umesh-padval.md Portfolio table (top, most recent). Added "Board Member, Eliyan" to Connections section. Updated last_verified_investment from Modiqo Pre-Seed (2026-05) to Eliyan Series C (2026-07-29). Added umesh-padval to eliyan.md startup frontmatter investors[] list.'
 - slug: accel
   type: firm
   reason: led Fixxly Seed (2026-07-29) $5.5M; co-led Apna Mart Series C (2026-07-30) ₹120 Cr
@@ -4273,6 +4279,9 @@ priority:
   type: firm
   reason: led Mariana Minerals Series B (2026-08-03), $310M at $1.5B valuation
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-08-30'
+  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Khosla Ventures led Mariana Minerals $310M Series B at $1.5B valuation on 2026-08-03 via 3 primary sources already present on mariana-minerals.md and khosla-ventures.md: PR Newswire company release [^1/^mm-krv-b], Fortune contemporaneous press [^2], Andreessen Horowitz investor page [^3]. Co-participants: Andreessen Horowitz, Breakthrough Energy Ventures, Greenoaks, Halo Fund, Pax Ventures, StepStone Group, BHP Ventures, Washington Harbour Partners, Greycroft, Mitsubishi Corporation, In-Q-Tel, Earthshot Ventures. Mariana Minerals row already exists in khosla-ventures.md Portfolio (line 135) with correct citation [^mm-krv-b]. last_verified_investment on khosla-ventures.md already set to Mariana Minerals 2026-08-03. Fact fully documented — no profile edits needed.'
 - slug: andreessen-horowitz
   type: firm
   reason: participated in Mariana Minerals Series B (2026-08-03), $310M

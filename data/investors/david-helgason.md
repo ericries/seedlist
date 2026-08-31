@@ -9,8 +9,8 @@ stage_focus: [seed, series-a]
 sector_focus: [climate-tech, gaming, edtech, fintech, synthetic-biology, deep-tech]
 check_size: "$50K-$6M"
 last_verified_investment:
-  date: 2025-10-14
-  company: "Flow Engineering"
+  date: 2026-07-29
+  company: "Agon"
   round: "Seed"
 social:
   twitter: "@davidhelgason"
@@ -102,6 +102,7 @@ This table represents approximately 37 of an estimated 70+ total investments. Sa
 | Flow Engineering | 2025 | Seed | Climate/Industrial | [^21] |
 | NextMind | ~2019 | Seed | Neurotech | [^14] |
 | CarboCulture | ~2020 | Seed | Climate tech | [^14] |
+| Agon | 2026 | Seed ($30M cumulative; chairman) | Defensetech / Simulation | [^30][^31] |
 
 ### Transition VC Portfolio
 
@@ -164,6 +165,7 @@ No additional independently sourced founder testimonials found from Helgason's a
 
 ## Connections
 
+- **Chairman, Agon** — London/Berlin-based defensetech company (seed round announced July 29, 2026); board also includes Klaus Hommels (Lakestar) [^30][^31]
 - **Board member, Unity Technologies** (2003–February 2026) — alongside Jim Whitehurst (Chairman), Roelof Botha (Sequoia), Tomer Bar-Zeev (IronSource co-founder) [^5][^8]
 - **Board member, Labster** — joined board as angel investor and advisor [^18]
 - **Board member, Teatime Games** — joined board alongside Index Ventures, Atomico [^16]
@@ -206,3 +208,5 @@ No additional independently sourced founder testimonials found from Helgason's a
 [^27]: TechCrunch, "Odyssey Energy Solutions continues quest to electrify developing economies with $5.3M seed," September 8, 2022, accessed April 2026. https://techcrunch.com/2022/09/08/odyssey-energy-solutions-continues-quest-to-electrify-developing-economies-with-5-4m-seed/
 [^28]: Water Tech Online, "Waterplan closes $7 million seed round led by Transition Global and Giant Ventures," April 2022, accessed April 2026. https://www.watertechonline.com/industry/article/14274984/waterplan-closes-7-million-seed-round-led-by-transition-global-and-giant-ventures
 [^29]: Crunchbase, "Phase Biolabs Seed Round," March 2022, accessed April 2026. https://www.crunchbase.com/funding_round/fabricnano-seed--592d4747
+[^30]: Tech.eu, "British defence startup Agon creating virtual battlefields to combat drone attacks launches, raising $30M," July 29, 2026. Accessed August 2026. https://tech.eu/2026/07/29/british-defence-startup-agon-creating-virtual-battlefields-launches-raising-30m/
+[^31]: Army Technology, "Defence AI start-up Agon launches with $30m seed round," July 30, 2026. Accessed August 2026. https://www.army-technology.com/news/agon-seed-round-funding/

@@ -9,9 +9,9 @@ stage_focus: [seed, series-a, series-b, growth]
 sector_focus: [ai-infrastructure, cybersecurity, cloud-infrastructure, semiconductors, data-center-hardware, deep-tech, enterprise-infrastructure]
 check_size: "$500K–$20M (sweet spot ~$10M)"
 last_verified_investment:
-  date: 2026-05
-  company: "Modiqo"
-  round: "Pre-Seed"
+  date: 2026-07-29
+  company: "Eliyan"
+  round: "Series C"
 social:
   linkedin: "linkedin.com/in/umeshpadval"
 status: published
@@ -62,6 +62,7 @@ Sample size (9 dated rounds) is small, so treat percentages as directional.
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
+| Eliyan | 2026 | Series C ($145M at $1B valuation, July 29, 2026; Seligman Ventures lead; joined board) | [^10][^11][^12] |
 | Modiqo | 2026 | Pre-Seed (May 2026) | [^8] |
 | Cognichip | 2026 | Series A ($60M, April 1, 2026; Seligman Ventures lead) | [^7][^8] |
 | EPIC Microsystems | 2026 | Series A (March 2026) | [^8] |
@@ -117,6 +118,7 @@ No independently sourced founder testimonials found. Multiple portfolio founders
 Verified board and professional connections:
 
 - **Board Member, Impinj (public, NASDAQ: PI)** — RAIN RFID technology [^3][^4][^9]
+- **Board Member, Eliyan** — chiplet interconnect unicorn (joined board July 2026 as part of $145M Series C) [^10][^11]
 - **Board Member, Cognichip** — alongside Intel CEO Lip-Bu Tan (joined board April 2026) [^7]
 - **Board Member, Relyance AI, StackGen, Bolster, Quiet AI, Avalanche Technology** [^3][^4]
 - **Board Observer, Clari, Exaforce** [^3][^4]
@@ -136,3 +138,6 @@ Verified board and professional connections:
 [^7]: Cognichip, "Seligman Ventures Leads Cognichip's $60M Series A to Back Physics-Informed AI for Chip Design; Intel CEO Lip-Bu Tan and Seligman Ventures' Umesh Padval Join the Board," April 1, 2026, accessed July 2026. https://www.cognichip.ai/news/seligman-ventures-leads-cognichips-60m-series-a-to-back-physics-informed-ai-for-chip-design-intel-ceo-lip-bu-tan-and-seligman-ventures-umesh-padval-join-the-board
 [^8]: Signal by NFX, "Umesh Padval's Investing Profile — Thomvest Ventures Venture Partner," accessed July 2026. https://signal.nfx.com/investors/umesh-padval
 [^9]: Fintool, "Umesh Padval - Director | IMPINJ (PI) Executive Profile & Compensation," accessed July 2026. https://fintool.com/app/research/companies/PI/people/umesh-padval
+[^10]: Eliyan, "Eliyan Achieves Unicorn Status with $145 Million Series C to Advance Electro-optical Interconnects for AI Infrastructure," July 29, 2026. Accessed August 2026. https://eliyan.com/news/eliyan-achieves-unicorn-status-with-145-million-series-c/
+[^11]: GlobeNewswire, "Eliyan Achieves Unicorn Status with $145 Million Series C to Advance Electro-optical Interconnects for AI Infrastructure," July 29, 2026. Accessed August 2026. https://www.globenewswire.com/news-release/2026/07/29/3335320/0/en/eliyan-achieves-unicorn-status-with-145-million-series-c-to-advance-electro-optical-interconnects-for-ai-infrastructure.html
+[^12]: Data Center Dynamics, "Chiplet interconnect startup Eliyan valued at $1bn following $145m Series C funding round," July 29, 2026. Accessed August 2026. https://www.datacenterdynamics.com/en/news/chiplet-interconnect-startup-eliyan-valued-at-1bn-following-145m-series-c-funding-round/

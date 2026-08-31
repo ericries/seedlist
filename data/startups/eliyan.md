@@ -9,6 +9,11 @@ status_company: active
 sector: [ai, ai-infrastructure, semiconductors, chiplets, interconnects, deeptech]
 stage_latest: "Series C"
 total_raised: "unicorn"
+investors:
+  - slug: umesh-padval
+    round: series-c
+    year: 2026
+    date: 2026-07-29
 firms: []
 founders:
   - name: "Ramin Farjadrad"
