@@ -63,6 +63,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Reducing preterm birth risks in foetal surgery, KOVE Medical secures €1.7
+    million
+  url: https://www.eu-startups.com/2026/08/reducing-preterm-birth-risks-in-foetal-surgery-kove-medical-secures-e1-7-million/
+  source: eu-startups
+  date_found: '2026-08-31'
+  parsed_company: Reducing preterm birth risks in foetal surgery, KOVE Medical
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Inflection Point Acquisition VIII raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
