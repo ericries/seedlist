@@ -5747,7 +5747,8 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-08-05
-  resolution_note: 'Fact-spec sweep 2026-08-05: CORRECTED FALSE ATTRIBUTION and REMOVED Nibol row from CapitalG portfolio. Nibol (Milan-based workplace management SaaS founded 2018 by Riccardo Suardi) was ACQUIRED by TeamSystem on 2026-03-11, not funded by CapitalG. TeamSystem is a CapitalG portfolio company; the Tracxn aggregator [^27] appears to have propagated indirect ownership as a direct investment. Verified via 3 primary sources: (1) Nibol''s own announcement ''Nibol joins the TeamSystem group'' dated ''MILAN - 11/03/2026'' https://www.nibol.com/en/nibol-joins-teamsystem, (2) ictbusiness.it acquisition coverage (2026-03-12) https://www.ictbusiness.it/news/tecnologie-per-le-risorse-umane-e-lufficio-teamsystem-compra-nibol.aspx, (3) BeBeez International weekly roundup (2026-03-17) https://bebeez.eu/2026/03/17/italys-angels-incubators-and-venture-capital-weekly-roundup-news-from-cleafy-united-ventures-ecapital-technologies-fund-nibal-teamsystem-hellmannfriedmann-hg-capital-s/. Prior Nibol backer was CDP Venture Capital SGR ("Rilancio" fund, April 2023 investment), whose stake TeamSystem acquired in this deal. Row removed rather than corrected because Nibol is not a CapitalG portfolio company by any reasonable definition.'
+  resolution_note: 'Fact-spec sweep 2026-08-05: CORRECTED FALSE ATTRIBUTION and REMOVED Nibol row from CapitalG portfolio. Nibol (Milan-based workplace management SaaS founded 2018 by Riccardo Suardi) was ACQUIRED by TeamSystem on 2026-03-11, not funded by CapitalG. TeamSystem is a CapitalG portfolio company; the Tracxn aggregator [^27] appears to have propagated indirect ownership as a direct investment. Verified via 3 primary sources: (1) Nibol''s own announcement ''Nibol joins the TeamSystem group'' dated ''MILAN - 11/03/2026'' https://www.nibol.com/en/nibol-joins-teamsystem, (2) ictbusiness.it acquisition coverage (2026-03-12) https://www.ictbusiness.it/news/tecnologie-per-le-risorse-umane-e-lufficio-teamsystem-compra-nibol.aspx, (3) BeBeez International weekly roundup (2026-03-17) https://bebeez.eu/2026/03/17/italys-angels-incubators-and-venture-capital-weekly-roundup-news-from-cleafy-united-ventures-ecapital-technologies-fund-nibal-teamsystem-hellmannfriedmann-hg-capital-s/. Prior
+    Nibol backer was CDP Venture Capital SGR ("Rilancio" fund, April 2023 investment), whose stake TeamSystem acquired in this deal. Row removed rather than corrected because Nibol is not a CapitalG portfolio company by any reasonable definition.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: nEye.ai
@@ -12223,7 +12224,8 @@ vague_facts:
   priority: high
   type: unknown_value
   status: unresolvable
-  resolution_note: Checked AMP Robotics primary press for every announced round — Seed 2017-10-23 ($3.2M), Series A 2019-11-14 ($16M, led by Sequoia), Series B 2021-01-04 ($55M, led by XN), Series C 2022-11-02 ($91M, led by Congruent/Wellington), Series D 2024-12-05 ($91M, led by Congruent). Incite Ventures is NOT named in any AMP company press release, BusinessWire announcement, Recycling Today article, or TechCrunch coverage across any round. Swati Mylavarapu and Matt Rogers are also not named individually. The only evidence of an Incite-AMP relationship is AMP appearing on Incite's own portfolio page (https://www.incite.org/innovators/), which lists it under "Growth" with no round or date. Row updated to "Seed (round unspecified) / Pre-2019 (round unspecified)" with the AMP Series A + Series B press releases added as footnotes [^17][^18][^19] explicitly noting Incite is absent from named investor lists. This appears to be either a very small angel check that never got press attribution or a late secondary; not resolvable to a specific round from public sources.
+  resolution_note: Checked AMP Robotics primary press for every announced round — Seed 2017-10-23 ($3.2M), Series A 2019-11-14 ($16M, led by Sequoia), Series B 2021-01-04 ($55M, led by XN), Series C 2022-11-02 ($91M, led by Congruent/Wellington), Series D 2024-12-05 ($91M, led by Congruent). Incite Ventures is NOT named in any AMP company press release, BusinessWire announcement, Recycling Today article, or TechCrunch coverage across any round. Swati Mylavarapu and Matt Rogers are also not named individually. The only evidence of an Incite-AMP relationship is AMP appearing on Incite's own portfolio page (https://www.incite.org/innovators/), which lists it under "Growth" with no round or date. Row updated to "Seed (round unspecified) / Pre-2019 (round unspecified)" with the AMP Series A + Series B press releases added as footnotes [^17][^18][^19] explicitly noting Incite is absent from named investor lists. This appears to be either a very small angel check that never got press attribution
+    or a late secondary; not resolvable to a specific round from public sources.
   resolved: 2026-07-26
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
@@ -161278,7 +161280,8 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-08-01
-  resolution_notes: 'Fact-spec sweep 2026-08-01: tightened vague ''2024-10 Seed ($4M; lead group)'' row to precise ''2024-10-29 Seed ($4M; three co-participants: True Ventures + Gigascale Capital + Incite.org; no formal single lead designated in the press release, though True Ventures partner Jon Callaghan provided the primary investor quote)''. Verified via 3 primary/independent sources: (a) FinancialContent/EZ Newswire launch announcement [^homeboost-a] (2024-10-29), (b) Gaebler VC database [^homeboost-b] (independent date confirmation), (c) existing FinSMES [^14]. Updated 4 profiles for consistency: (1) victoria-beasley.md portfolio row precise date + lead clarification + 2 new footnotes, (2) incite-ventures.md portfolio row upgraded from vague ''Early ~2023 Home energy'' to precise seed detail + 2 new footnotes, (3) gigascale-capital.md portfolio NEW row added (was missing) with Victoria Beasley as board observer, (4) true-ventures.md portfolio NEW row added (was missing) with Jon Callaghan as lead partner. 6 new footnotes added across 4 profiles.'
+  resolution_notes: 'Fact-spec sweep 2026-08-01: tightened vague ''2024-10 Seed ($4M; lead group)'' row to precise ''2024-10-29 Seed ($4M; three co-participants: True Ventures + Gigascale Capital + Incite.org; no formal single lead designated in the press release, though True Ventures partner Jon Callaghan provided the primary investor quote)''. Verified via 3 primary/independent sources: (a) FinancialContent/EZ Newswire launch announcement [^homeboost-a] (2024-10-29), (b) Gaebler VC database [^homeboost-b] (independent date confirmation), (c) existing FinSMES [^14]. Updated 4 profiles for consistency: (1) victoria-beasley.md portfolio row precise date + lead clarification + 2 new footnotes, (2) incite-ventures.md portfolio row upgraded from vague ''Early ~2023 Home energy'' to precise seed detail + 2 new footnotes, (3) gigascale-capital.md portfolio NEW row added (was missing) with Victoria Beasley as board observer, (4) true-ventures.md portfolio NEW row added (was missing) with Jon Callaghan
+    as lead partner. 6 new footnotes added across 4 profiles.'
 - profile: investors/victoria-beasley
   profile_name: Victoria Beasley
   company: Light Energy
@@ -168649,7 +168652,9 @@ vague_facts:
   line: '| ~2022 | Pre-Seed | Undisclosed | Credo Ventures |  [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-31: tightened Pre-Seed amount from Undisclosed to $6M via 3 primary/independent sources. Verified via Miton blog (Miton is a pre-seed co-investor) [^4], Value Add VC [^5], and existing Tech Funding News [^2]. Confirmed largest Czech pre-seed round at the time (2022) with Credo Ventures, Miton, and RockawayX as investors. Updated equilibre-technologies.md Funding History row and added 2 new footnotes [^4][^5].'
+  resolved: '2026-08-31'
 - profile: startups/etched
   profile_name: Etched
   company: 2025-12
@@ -171533,7 +171538,8 @@ vague_facts:
   priority: high
   type: unknown_value
   status: unresolvable
-  resolution_note: 'Fact-spec sweep 2026-08-06: Confirmed via SEC Form D (Accession 0001441408-22-000001, filed 2022-12-06) as PRIMARY source. Date of First Sale 2022-11-10; Total Offering $14,250,000; Total Sold $14,169,650; 35 investors. Filing lists only executive officers (Jeff Smith/CEO, Bill Bradford/President, Laurent Saurel/CFO) and directors (David Cowan/Bessemer, Standish O''Grady/Granite, Jason Pressman/Shasta, plus Luanne Calvert, Thomas Ryan, Buwang Xia, Ken Rudin, Betsey Nelson) as related persons. Form D never names participating investors — only related persons. No contemporaneous press coverage found across TechCrunch, Music Business Worldwide, Music Ally, Billboard, or general web (round appears to be an insider/pro-rata continuation from existing backers). No lead disclosed in any primary source; Crunchbase and CB Insights aggregators list Bessemer/Experior/Granite/Shasta as participants but name no lead. Row retained as "Undisclosed" with SEC Form D added as [^16] primary source citation and explanatory note appended. Do NOT guess lead.'
+  resolution_note: 'Fact-spec sweep 2026-08-06: Confirmed via SEC Form D (Accession 0001441408-22-000001, filed 2022-12-06) as PRIMARY source. Date of First Sale 2022-11-10; Total Offering $14,250,000; Total Sold $14,169,650; 35 investors. Filing lists only executive officers (Jeff Smith/CEO, Bill Bradford/President, Laurent Saurel/CFO) and directors (David Cowan/Bessemer, Standish O''Grady/Granite, Jason Pressman/Shasta, plus Luanne Calvert, Thomas Ryan, Buwang Xia, Ken Rudin, Betsey Nelson) as related persons. Form D never names participating investors — only related persons. No contemporaneous press coverage found across TechCrunch, Music Business Worldwide, Music Ally, Billboard, or general web (round appears to be an insider/pro-rata continuation from existing backers). No lead disclosed in any primary source; Crunchbase and CB Insights aggregators list Bessemer/Experior/Granite/Shasta as participants but name no lead. Row retained as "Undisclosed" with SEC Form D added as [^16] primary
+    source citation and explanatory note appended. Do NOT guess lead.'
 - profile: startups/snabbit
   profile_name: Snabbit
   company: 2024-05
@@ -172307,7 +172313,9 @@ vague_facts:
   line: '| 2011-03-01 | Series B | Undisclosed | Sequoia Capital | — [^5][^10] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolution_note: 'Fact-spec sweep 2026-08-31: Weebly Series B (2011-03-01) amount confirmed as genuinely undisclosed across 4+ sources — Crunchbase funding round profile explicitly labels amount as Undisclosed, Wikipedia has no amount, Tracxn shows no disclosed figure, and no contemporaneous press release exists. Sequoia Capital led per Crunchbase [^5] and Weebly followed-up with a $35M Series C in April 2014 (per TechCrunch [^6]), but the Series B raise size was never publicly disclosed. Best fix would be a Sequoia LP-quarterly-report disclosure or a founder retrospective — leaving row as-is with Undisclosed label; safer than fabricating a figure.'
+  resolved: '2026-08-31'
 - profile: startups/weebly
   profile_name: Weebly
   company: Apr 2014
@@ -172663,7 +172671,8 @@ vague_facts:
   type: year_only_date
   status: unresolvable
   resolved: 2026-07-29
-  note: 'Fact-spec sweep 2026-07-29: EigenLayer''s complete funding history verified via 3+ primary sources (CoinDesk March 28, 2023 for $50M Series A; The Block/Bloomberg Feb 22, 2024 for $100M Series B; Tracxn aggregator record). Rounds are: 2022-04-19 Seed $3.87M (Polychain lead); 2023-03-28 Series A $50M (Blockchain Capital lead w/ Electric Capital, Polychain, Hack VC, Finality, Coinbase Ventures); 2024-02-22 Series B $100M (a16z crypto SOLE investor); 2025-06-17 EigenCloud $70M direct a16z token deal. Breyer Capital is NOT named in ANY EigenLayer round in contemporaneous press. Breyer''s own portfolio page (breyercapital.com/portfolio) lists EigenLayer without round or check size — participation is aggregator/self-report only, most plausibly via secondary purchase or later token deal. Row on breyer-capital.md updated with same self-report treatment as Xaira row. Added [^eig1] (CoinDesk 2023-03-28 primary), [^eig2] (The Block 2024-02-22 primary), [^eig3] (Tracxn aggregator). Marked unresolvable because primary press naming Breyer in a specific EigenLayer round does not exist. 3 new footnotes added.'
+  note: 'Fact-spec sweep 2026-07-29: EigenLayer''s complete funding history verified via 3+ primary sources (CoinDesk March 28, 2023 for $50M Series A; The Block/Bloomberg Feb 22, 2024 for $100M Series B; Tracxn aggregator record). Rounds are: 2022-04-19 Seed $3.87M (Polychain lead); 2023-03-28 Series A $50M (Blockchain Capital lead w/ Electric Capital, Polychain, Hack VC, Finality, Coinbase Ventures); 2024-02-22 Series B $100M (a16z crypto SOLE investor); 2025-06-17 EigenCloud $70M direct a16z token deal. Breyer Capital is NOT named in ANY EigenLayer round in contemporaneous press. Breyer''s own portfolio page (breyercapital.com/portfolio) lists EigenLayer without round or check size — participation is aggregator/self-report only, most plausibly via secondary purchase or later token deal. Row on breyer-capital.md updated with same self-report treatment as Xaira row. Added [^eig1] (CoinDesk 2023-03-28 primary), [^eig2] (The Block 2024-02-22 primary), [^eig3] (Tracxn aggregator). Marked unresolvable
+    because primary press naming Breyer in a specific EigenLayer round does not exist. 3 new footnotes added.'
 - profile: firms/buckley-ventures
   profile_name: Buckley Ventures
   company: Speak
@@ -173168,7 +173177,9 @@ vague_facts:
   line: '| Modern Intelligence | Seed | ~2023 | AI/defense | Active [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-31: tightened date from ~2023 to 2022-03-16 and added USD 5M amount plus full co-investor list (Vine Ventures, Geoff Lewis/Bedrock, Nathan Benaich/Air Street Capital, Contrary/Will Robbins) via 3 primary sources: Contrary blog (2022-03-16) [^mi-c1], Vine Ventures blog [^mi-c2], and Gaebler VC funding database [^mi-c3]. CEO John Dulin (a Contrary Fellow) and cofounder Tristan identified. 3 new footnotes added to contrary.md.'
+  resolved: '2026-08-31'
 - profile: firms/contrary
   profile_name: Contrary
   company: Moment

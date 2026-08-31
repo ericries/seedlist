@@ -107,7 +107,7 @@ Based on 42 verified portfolio companies from Contrary's public portfolio page a
 | Leland | Pre-seed | ~2020 | Edtech | Active ($17M total funding) [^13] |
 | Lightyear | Seed | ~2021 | Telecom | Active ($63.9M total funding) [^1] |
 | Maev | Seed | ~2020 | Consumer/pet care | Active [^1] |
-| Modern Intelligence | Seed | ~2023 | AI/defense | Active [^1] |
+| Modern Intelligence | Seed (USD 5M; Vine Ventures + Geoff Lewis (Bedrock) + Nathan Benaich (Air Street Capital) + Contrary/Will Robbins participated; CEO John Dulin, cofounder Tristan; AI-based maritime surveillance for defense) | 2022-03-16 | AI/defense | Active [^1][^mi-c1][^mi-c2][^mi-c3] |
 | Moment | Seed | ~2023 | Fintech | Active [^11] |
 | Nomic | Seed | 2023 | AI/ML | Active [^18] |
 | OneSchema | Seed | ~2021 | Developer tools | Active [^1] |
@@ -213,3 +213,9 @@ Zepto CEO Aadit Palicha described receiving Contrary's first investment: "They s
 [^upr-c2]: FinTech Global, "Small business financial advisory platform Uprise raises $3.3m in seed round," October 22, 2024. Accessed August 2026. https://fintech.global/2024/10/22/small-business-financial-advisory-platform-uprise-raises-3-3m-in-seed-round/ — Independent trade press published one day after the announcement. Confirms USD 3.3M seed, Blank Ventures lead, and Uprise's embedded financial advisory model for SMBs (Rippling, Carry).
 
 [^upr-c3]: news.fintech.io (via Passle), "Uprise raises $3.3m in Seed funding," October 24, 2024. Accessed August 2026. https://news.fintech.io/post/102jmm3/uprise-raises-3-3m-in-seed-funding — Third-party finance press confirmation of USD 3.3M seed led by Blank Ventures, referencing the October 21, 2024 TechCrunch report of the round.
+
+[^mi-c1]: Contrary blog, "Investing in Modern Intelligence," March 16, 2022. Accessed August 2026. https://contrary.com/blog/investing-in-modern-intelligence — Investor-side primary announcement of Contrary's participation in Modern Intelligence's seed round; identifies CEO John Dulin (a Contrary Fellow) and cofounder Tristan.
+
+[^mi-c2]: Vine Ventures blog, "Modern Intelligence: One AI for Defense," 2022. Accessed August 2026. https://vineventures.com/blog/test-blog/ — Co-investor Vine Ventures primary announcement naming Geoff Lewis (Bedrock), Nathan Benaich (Air Street Capital), and Will Robbins (Contrary Capital) as fellow participants in Modern Intelligence's seed round.
+
+[^mi-c3]: Gaebler VC Funding Database, "Modern Intelligence Funding Round," entry dated March 16, 2022. Accessed August 2026. https://www.gaebler.com/VC-Funding-016BE4A0-4658-483C-B242-D1AAA6B97BF8-Modern-Intelligence-03-16-2022 — Third-party aggregator confirming USD 5M seed round announced March 16, 2022, with Vine Ventures, Air Street Capital, and Contrary Capital participating.
