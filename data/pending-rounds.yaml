@@ -20,6 +20,30 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Inflection Point Acquisition VIII raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-30'
+  parsed_company: Inflection Point Acquisition VIII
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: Andreessen Horowitz raised $1.1B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-30'
+  parsed_company: Andreessen Horowitz
+  parsed_amount: $1.1B
+  parsed_round: null
+  status: pending
+- title: u003e raised $270M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-08-30'
+  parsed_company: u003e
+  parsed_amount: $270M
+  parsed_round: Series C
+  status: pending
 - title: 'Sector Snapshot: Space Tech Startup Funding Orbits New Highs'
   url: https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/
   source: crunchbase
@@ -589,15 +613,6 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Series A
-  status: pending
-- title: Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to
-    $5.4B
-  url: https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/
-  source: techcrunch
-  date_found: '2026-08-17'
-  parsed_company: Higgsfield
-  parsed_amount: $400M
-  parsed_round: Series B
   status: pending
 - title: Weekly funding round-up! All of the European startup funding rounds we tracked
     this week (Aug. 10 – Aug. 14)

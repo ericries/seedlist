@@ -5000,3 +5000,47 @@ priority:
   type: firm
   reason: appeared in Emerald AI Series A (2026-08-25)
   added: 2026-08-30
+- slug: ajaib
+  type: startup
+  reason: new profile from round monitoring (Series C, 2026-08-28)
+  added: 2026-08-30
+- slug: dst-global
+  type: firm
+  reason: appeared in Ajaib Series C (2026-08-28)
+  added: 2026-08-30
+- slug: ribbit-capital
+  type: firm
+  reason: appeared in Ajaib Series C (2026-08-28)
+  added: 2026-08-30
+- slug: adaptyv
+  type: startup
+  reason: new profile from round monitoring (Series A, 2026-08-26)
+  added: 2026-08-30
+- slug: y-combinator
+  type: firm
+  reason: appeared in Adaptyv Series A (2026-08-26)
+  added: 2026-08-30
+- slug: retro-app
+  type: startup
+  reason: new profile from round monitoring (Series A, 2026-08-28)
+  added: 2026-08-30
+- slug: thrive-capital
+  type: firm
+  reason: appeared in Retro Series A (2026-08-28)
+  added: 2026-08-30
+- slug: boxgroup
+  type: firm
+  reason: appeared in Retro Series A (2026-08-28)
+  added: 2026-08-30
+- slug: conviction
+  type: firm
+  reason: appeared in Retro Series A (2026-08-28)
+  added: 2026-08-30
+- slug: dylan-field
+  type: investor
+  reason: appeared in Retro Series A (2026-08-28)
+  added: 2026-08-30
+- slug: wrtn
+  type: startup
+  reason: new profile from round monitoring (Series C, 2026-08-26)
+  added: 2026-08-30
