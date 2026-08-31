@@ -113,7 +113,7 @@ Through Neo, Partovi has invested in 163 companies as of early 2026 [^16]. The p
 | Anysphere/Cursor | ~2022 | Seed | [^6][^18] |
 | Cognition | ~2023 | Seed | [^6][^9] |
 | Pika Labs | ~2023 | Seed | [^6][^9] |
-| Bluesky | 2023 | Seed (led) | [^20] |
+| Bluesky | 2023-07-05 | Seed ($8M; Neo led with Ali Partovi + Suzanne Xie; Automattic, Bob Young, Joe Beda, Amjad Masad, Protocol Labs participated) | [^20][^26] |
 | Kalshi | ~2021 | Seed | [^9][^21] |
 | Chai Discovery | ~2024 | Seed | [^6][^9] |
 | Arrived Homes | 2021 | Seed | [^22] |
@@ -236,3 +236,5 @@ No independently sourced founder testimonials with verbatim quotes were found. T
 [^24]: Forbes/Techmeme, "An Early Facebook Investor Is Creating A Scouting Network For Brilliant Engineers," Biz Carson, January 2019. https://www.techmeme.com/190119/p3
 
 [^25]: Ali Partovi (@apartovi) on X, regarding Suzanne Xie Forbes Midas Brink List, 2025. https://x.com/apartovi/status/1927766721470865811
+
+[^26]: TechCrunch, "Bluesky announces its $8M seed round and first paid service, custom domains," July 5, 2023. https://techcrunch.com/2023/07/05/bluesky-announces-its-8m-seed-round-first-paid-service-custom-domains/ — Contemporaneous confirmation of Neo-led $8M seed with named participants.

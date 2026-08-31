@@ -96,7 +96,7 @@ Despite investing across many sectors, Neo does not publicly emphasize any secto
 |---------|-------|------|--------|--------|--------|
 | Anysphere (Cursor) | Seed | 2022 | AI / Developer Tools | Active | [^6][^12] |
 | Kalshi | Seed | 2019 | Fintech / Prediction Markets | Active | [^5][^15][^25] |
-| Bluesky | Seed | 2023 | Social Media | Active | [^16] |
+| Bluesky | Seed ($8M; Neo led (Ali Partovi + Suzanne Xie); Bob Young, Joe Beda, Amjad Masad, Automattic, Protocol Labs participated) | 2023-07-05 | Social Media | Active | [^16][^28][^29] |
 | Cognition | Seed | ~2023 | AI / Developer Tools | Active | [^6] |
 | Pika Labs | Seed | ~2023 | Generative AI / Video | Active | [^7][^13] |
 | Chai Discovery | Seed | 2024 | Biotech / AI Drug Discovery | Active | [^14] |
@@ -187,3 +187,5 @@ Note: The Trueba, Roselle, and Wu quotes are from Neo's own Substack announcemen
 [^25]: BusinessWire, "Kalshi Raises $30 Million in Series A Funding Led by Sequoia," February 17, 2021. https://www.businesswire.com/news/home/20210217005285/en/Kalshi-Raises-$30-Million-in-Series-A-Funding-Led-by-Sequoia — Kalshi's $30M Feb 2021 Series A was led by Sequoia with Charles Schwab, Henry Kravis, SV Angel, and previous investors including Neo. Neo's first investment was the earlier $4M Seed round in 2019.
 [^26]: CNBC, "Andreessen Horowitz leads $4.5 million seed round in Repl.it," October 22, 2018. https://www.cnbc.com/2018/10/22/andreessen-horowitz-leads-4point5-million-seed-round-in-replit.html — $4.5M Seed led by Andreessen Horowitz with Bloomberg Beta, Reach Capital, Y Combinator, and Paul Graham; Neo joined as participant per Neo's own portfolio listings.
 [^27]: CNBC, "Remote work start-up Deel scores $14 million investment led by Andreessen Horowitz," May 21, 2020. https://www.cnbc.com/2020/05/21/remote-work-andreessen-horowitz-leads-14-million-round-in-deel-payroll-start-up.html — Deel's 2019 $3.85M Seed had 17 investors including Neo, Andreessen Horowitz, Y Combinator, and Spark Capital; the May 2020 $14M Series A was led by a16z with Anish Acharya joining the board.
+[^28]: TechCrunch, "Bluesky announces its $8M seed round and first paid service, custom domains," July 5, 2023. https://techcrunch.com/2023/07/05/bluesky-announces-its-8m-seed-round-first-paid-service-custom-domains/ — Contemporaneous confirmation of $8M seed announced 2023-07-05, led by Neo (Ali Partovi, Suzanne Xie) with Automattic, Bob Young, Joe Beda, Amjad Masad, and others.
+[^29]: Bluesky blog, "Our Plan for a Sustainably Open Social Network," July 5, 2023. https://bsky.social/about/blog/7-05-2023-business-plan — Company's own announcement naming Neo as lead and listing all seed participants.

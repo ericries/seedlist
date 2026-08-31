@@ -94,10 +94,10 @@ Based on 21 verified investments compiled from press releases, funding announcem
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
-| Perplexity | 2022 | Seed | [^12] |
-| Runway | 2022 | Series C | [^13] |
-| Bluesky | 2023 | Seed | [^14] |
-| Contextual AI | 2023 | Seed | [^15] |
+| Perplexity | 2022-09 | Seed ($3.1M; Elad Gil + Nat Friedman led; Amjad Masad participated alongside Yann LeCun, Andrej Karpathy, Ashish Vaswani, Jeff Dean, Pieter Abbeel, Clem Delangue) | [^12][^32] |
+| Runway | 2022-12-05 | Series C ($50M) | [^13] |
+| Bluesky | 2023-07-05 | Seed ($8M; Neo led (Ali Partovi, Suzanne Xie); Amjad Masad participated alongside Bob Young, Joe Beda, Automattic, Protocol Labs) | [^14][^33] |
+| Contextual AI | 2023-06-07 | Seed ($20M; Bain Capital Ventures led; Amjad Masad participated alongside Lightspeed, Greycroft, SV Angel, Elad Gil, Sarah Guo, Lip-Bu Tan) | [^15][^34] |
 | Synthesia | 2023 | Series C | [^16] |
 | Extropic | 2023 | Seed | [^17] |
 | Vocode | 2024 | Seed | [^18] |
@@ -175,3 +175,6 @@ No independently sourced founder testimonials found. Dedicated searches for foun
 [^29]: Wamda, "1001 AI closes $9 million seed round to accelerate GCC landing," October 21, 2025. https://www.wamda.com/2025/10/1001-ai-closes-9-million-seed-round-accelerate-gcc-landing
 [^30]: Tech.eu, "Tsuga emerges from stealth with $10M to modernise observability in the AI era," November 5, 2025. https://tech.eu/2025/11/05/tsuga-emerges-from-stealth-with-10m-to-modernize-observability-in-the-ai-era/
 [^31]: Raindrop blog, "Announcing Our $15M Seed Round," December 1, 2025. https://www.raindrop.ai/blog/seed-round
+[^32]: Turing Post, "Inside Perplexity AI's Unicorn Journey," accessed August 2026. https://www.turingpost.com/p/perplexityai
+[^33]: TechCrunch, "Bluesky announces its $8M seed round and first paid service, custom domains," July 5, 2023. https://techcrunch.com/2023/07/05/bluesky-announces-its-8m-seed-round-first-paid-service-custom-domains/
+[^34]: BusinessWire, "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise," June 7, 2023. https://www.businesswire.com/news/home/20230607005061/en/Contextual-AI-Emerges-From-Stealth-to-Build-the-Next-Generation-of-Language-Models-for-the-Enterprise

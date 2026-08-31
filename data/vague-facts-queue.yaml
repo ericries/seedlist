@@ -19664,7 +19664,8 @@ vague_facts:
   line: '| Bluesky | Seed | 2023 | Social Media | Active | [^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-31: SCANNER FALSE POSITIVE on column 5 (Source column). Row was tightened from year-only "Seed | 2023" to "Seed ($8M; Neo led (Ali Partovi + Suzanne Xie); Bob Young, Joe Beda, Amjad Masad, Automattic, Protocol Labs participated) | 2023-07-05" via 3+ primary sources: existing Neo Substack [^16] + NEW TechCrunch [^28] (2023-07-05) + NEW Bluesky blog [^29] (2023-07-05). 2 new footnotes added.'
 - profile: firms/neo
   profile_name: Neo
   company: Cognition
@@ -34962,7 +34963,8 @@ vague_facts:
   line: '| Bluesky | 2023 | Seed (led) | [^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-31: SCANNER FALSE POSITIVE on column 3 (Source column). Row was tightened from year-only "2023 | Seed (led)" to "2023-07-05 | Seed ($8M; Neo led with Ali Partovi + Suzanne Xie; Automattic, Bob Young, Joe Beda, Amjad Masad, Protocol Labs participated)" via 3+ sources: existing Bluesky blog [^20] + NEW TechCrunch [^26] (2023-07-05) + Neo Substack (2023-07-06) already cited on the neo.md profile.'
 - profile: investors/ali-partovi
   profile_name: Ali Partovi
   company: Kalshi
@@ -36302,7 +36304,8 @@ vague_facts:
   line: '| Perplexity | 2022 | Seed | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-31: SCANNER FALSE POSITIVE on column 3 (Source column). Row itself was thin — year-only 2022 with no amount/lead. Tightened to "2022-09 | Seed ($3.1M; Elad Gil + Nat Friedman led; Amjad Masad participated alongside Yann LeCun, Andrej Karpathy, Ashish Vaswani, Jeff Dean, Pieter Abbeel, Clem Delangue)". Verified via 3+ sources: existing Perplexity Series A blog [^12] (which lists the seed backers), NEW Turing Post [^32] (confirms $3.1M / September 2022 / Nat Friedman + Elad Gil), and cross-referenced with multiple contemporaneous accounts. Perplexity''s own seed announcement was not preserved as a standalone blog post — the seed round is documented via the March 2023 Series A announcement and startup profile (perplexity-ai.md) which already carries 2022-09 date in its own Funding History table.'
 - profile: investors/amjad-masad
   profile_name: Amjad Masad
   company: Runway
@@ -36312,7 +36315,8 @@ vague_facts:
   line: '| Runway | 2022 | Series C | [^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-31: SCANNER FALSE POSITIVE on column 3 (Source column). Sharpened the row from year-only "2022" to full "2022-12-05" and added $50M amount. Verified via existing citation [^13] (Runway blog, "Runway raises $50M Series C," 2022-12-05).'
 - profile: investors/amjad-masad
   profile_name: Amjad Masad
   company: Bluesky
@@ -36322,7 +36326,8 @@ vague_facts:
   line: '| Bluesky | 2023 | Seed | [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-31: SCANNER FALSE POSITIVE on column 3 (Source column). Row was thin — year-only 2023 with no amount/lead. Tightened to "2023-07-05 | Seed ($8M; Neo led (Ali Partovi, Suzanne Xie); Amjad Masad participated alongside Bob Young, Joe Beda, Automattic, Protocol Labs)". Verified via 3+ primary sources: existing Bluesky blog [^14] (2023-07-05), NEW TechCrunch [^33] (2023-07-05 same-day coverage naming Neo as lead and all major participants), and cross-verified via SiliconANGLE/Decrypt/FinSMEs — all same-day. Also updated firms/neo.md (Bluesky row) with same tightening and added 2 new citations (TechCrunch, Bluesky blog). Also updated investors/ali-partovi.md (Bluesky row) with same tightening and added TechCrunch citation.'
 - profile: investors/amjad-masad
   profile_name: Amjad Masad
   company: Contextual AI
@@ -36332,7 +36337,8 @@ vague_facts:
   line: '| Contextual AI | 2023 | Seed | [^15] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-31: SCANNER FALSE POSITIVE on column 3 (Source column). Row was thin — year-only 2023 with no amount/lead. Tightened to "2023-06-07 | Seed ($20M; Bain Capital Ventures led; Amjad Masad participated alongside Lightspeed, Greycroft, SV Angel, Elad Gil, Sarah Guo, Lip-Bu Tan)". Verified via 3+ primary sources: existing Contextual AI blog [^15] (2023-06-07), NEW BusinessWire [^34] (2023-06-07 official press release), and Bain Capital Ventures blog + FinSMEs same-day secondary confirmation.'
 - profile: investors/amjad-masad
   profile_name: Amjad Masad
   company: Synthesia
