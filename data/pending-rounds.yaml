@@ -122,6 +122,14 @@ pending_rounds:
   parsed_amount: $154M
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 8/31/2026'
+  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-31-2026/
+  source: alleywatch
+  date_found: '2026-08-31'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Inflection Point Acquisition VIII raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
