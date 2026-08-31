@@ -184,7 +184,7 @@ Figma went public on the New York Stock Exchange in July 2025, pricing its IPO a
 
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|------------------|-------------------|-----------|
-| Seed | 2013-06-26 | $3.8M | Index Ventures (Danny Rimer led with $1.8M) | Terrence Rohan, Jeff Weiner, DJ Patil, Adam Nash, LocalGlobe [^6][^19][^20] | Undisclosed |
+| Seed | 2013-06-26 | $3.8M | Index Ventures (Danny Rimer led with $1.8M) | Terrence Rohan, Jeff Weiner, DJ Patil, Adam Nash, LocalGlobe [^6][^19][^20] | Not publicly disclosed [^19][^20] |
 | Series A | 2015-12-17 | $14M | Greylock | Iconiq Capital, Index Ventures, O'Reilly AlphaTech Ventures, Soleio [^7][^12] | $48.4M [^12] |
 | Series B | 2018-02-01 | $25M | Kleiner Perkins | Greylock, Index Ventures [^7][^13] | $115M [^14] |
 | Series C | 2019-02-14 | $40M | Sequoia Capital | Coatue, Founders Fund, Kleiner Perkins, Greylock, Index Ventures [^14][^15] | $440M [^14] |

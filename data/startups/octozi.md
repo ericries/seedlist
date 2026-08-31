@@ -29,7 +29,7 @@ Octozi is a New York-based AI company that automates clinical trial data cleanin
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
 | 2026-07-07 | Seed | $3M | Surface Ventures | Remarkable Ventures [^1][^2][^3] |
-| ~2024 (prior to Seed) | Strategic | Undisclosed | Debiopharm (venture arm) | [^1][^3] |
+| ~2024 (prior to Seed) | Strategic | Not publicly disclosed [^1][^3][^4] | Debiopharm Innovation Fund | — [^1][^3][^4] |
 
 ## What Investors Say
 
@@ -46,3 +46,4 @@ Octozi is a New York-based AI company that automates clinical trial data cleanin
 [^1]: Swace News (via GlobeNewswire), "Octozi Raises $3M in Seed Funding to bring Agentic AI to Clinical Development," July 7, 2026. Accessed July 2026. https://www.swacenews.com/2026/07/07/octozi-raises-3m-in-seed-funding-to-bring-agentic-ai-to-clinical-development/
 [^2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 7/7/2026," July 7, 2026. Accessed July 2026. https://www.alleywatch.com/2026/07/the-alleywatch-startup-daily-funding-report-7-7-2026/
 [^3]: The Manila Times (via GlobeNewswire), "Octozi Raises $3M in Seed Funding to bring Agentic AI to Clinical Development," July 7, 2026. Accessed July 2026. https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/octozi-raises-3m-in-seed-funding-to-bring-agentic-ai-to-clinical-development/2379970
+[^4]: Debiopharm, "Octozi joins Debiopharm Innovation Fund Portfolio," 2025. Accessed August 2026. https://www.debiopharm.com/octozi-joins-debiopharm-innovation-fund-portfolio/ — Debiopharm Innovation Fund's own announcement of the strategic investment in Octozi. Investment amount not disclosed in the press release.

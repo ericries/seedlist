@@ -168846,7 +168846,9 @@ vague_facts:
   line: '| Seed | 2013-06-26 | $3.8M | Index Ventures (Danny Rimer led with $1.8M) | Terrence Rohan, Jeff Weiner, DJ Patil, Adam '
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-08-31'
+  resolution_note: 'Fact-spec sweep 2026-08-31: Figma Seed (2013-06-26) post-money valuation is genuinely undisclosed. Verified via 3+ primary sources: TechCrunch [^19] (2013-06-26, based on SEC Form D — $3.8M equity financing announced, no valuation disclosed), Index Ventures'' own retrospective [^20] (Danny Rimer, 2025, gives narrative of first check but no post-money figure), and Fortune (2025-08-01 Danny Rimer interview) — all confirm $1.7–$1.8M Index check but no post-money published. Updated profile Valuation cell from "Undisclosed" to "Not publicly disclosed [^19][^20]" for clarity. No profile change to substance; only clarification + citation attachment.'
 - profile: startups/findd
   profile_name: Findd
   company: '2026-05-20'
@@ -170164,7 +170166,9 @@ vague_facts:
   line: '| ~2024 (prior to Seed) | Strategic | Undisclosed | Debiopharm (venture arm) | [^1][^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-08-31'
+  resolution_note: 'Fact-spec sweep 2026-08-31: Octozi''s pre-Seed strategic investment from Debiopharm Innovation Fund is genuinely undisclosed as to amount. Verified via 3 primary sources: Debiopharm Innovation Fund''s own press release [^4] ("Octozi joins Debiopharm Innovation Fund Portfolio," 2025 — announces strategic investment, no amount given), Swace News/GlobeNewswire [^1] and Manila Times/GlobeNewswire [^3] (both note "strategic investment from the venture arm of Swiss pharmaceutical company Debiopharm" without amount). Debiopharm Innovation Fund typically makes strategic pharma-partner investments where amounts are not disclosed. Tightened row from "Undisclosed | Debiopharm (venture arm)" to "Not publicly disclosed [^1][^3][^4] | Debiopharm Innovation Fund" and added new [^4] footnote to the Debiopharm primary source.'
 - profile: startups/offroad-ai
   profile_name: Offroad
   company: '2026-06-04'
@@ -171014,7 +171018,9 @@ vague_facts:
   line: '| Series A | Sep 2014 | $13M | Index Ventures | Ribbit Capital, Aaron Levie, Jared Leto, Snoop Dogg, Nas | Undisclosed |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-08-31'
+  resolution_note: 'Fact-spec sweep 2026-08-31: Robinhood Series A (2014-09-23) post-money valuation is genuinely undisclosed. Verified via 3 primary contemporaneous sources: TechCrunch (Ingrid Lunden, 2014-09-23) [^18], Index Ventures'' own "From Seed to A" blog post [^19], and AltAssets Private Equity News [^20] — all confirm $13M raise led by Index Ventures with Ribbit Capital, Andreessen Horowitz (existing), Howard Lindzon, Dave Morin/Slow Ventures, Aaron Levie, Jared Leto, Snoop Dogg, and Nas/Queensbridge participating. No valuation disclosed by Robinhood or Index Ventures at the time, and the Robinhood S-1 (2021) does not retroactively publish 2014 valuation data. Tightened date from "Sep 2014" to exact "2014-09-23", added missing co-investors (Andreessen Horowitz, Howard Lindzon, Dave Morin/Slow Ventures), changed Valuation cell from "Undisclosed" to "Not publicly disclosed [^18][^19][^20]", and added 3 new footnotes ([^18] TechCrunch, [^19] Index Ventures, [^20] AltAssets).'
 - profile: startups/roblox
   profile_name: Roblox
   company: Seed (issued as Series D preferred stock)

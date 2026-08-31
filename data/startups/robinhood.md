@@ -149,7 +149,7 @@ Robinhood is a financial services company that offers commission-free trading of
 | Round | Date | Amount | Lead Investor(s) | Key Co-Investors | Valuation |
 |-------|------|--------|-------------------|-------------------|-----------|
 | Seed | 2013-12-18 | $3M | Index Ventures | Andreessen Horowitz, Rothenberg Ventures, Tim Draper, Howard Lindzon (Google Ventures ~$250K pre-seed, August 2012) | Not publicly disclosed [^16][^17] |
-| Series A | Sep 2014 | $13M | Index Ventures | Ribbit Capital, Aaron Levie, Jared Leto, Snoop Dogg, Nas | Undisclosed |
+| Series A | 2014-09-23 | $13M | Index Ventures | Ribbit Capital, Andreessen Horowitz (existing), Howard Lindzon, Dave Morin/Slow Ventures, Aaron Levie, Jared Leto, Snoop Dogg, Nas/Queensbridge Venture Partners | Not publicly disclosed [^18][^19][^20] |
 | Series B | May 2015 | $50M | NEA | Index Ventures, Ribbit Capital, Social Leverage, Vaizra Investments | $250M post-money [^10] |
 | Series C | Apr 2017 | $110M | DST Global | Greenoaks Capital, Thrive Capital | $1.3B |
 | Series D | May 2018 | $363M | DST Global | Iconiq, Capital G, Sequoia Capital, Kleiner Perkins, NEA, Thrive Capital | $5.6B |
@@ -193,3 +193,9 @@ No independently sourced founder testimonials found.
 [^16]: TechCrunch (Sarah Buhr), "Robinhood App Will Offer Zero-Commission Stock Trades Thanks To $3M Seed From Index And A16Z," December 18, 2013, accessed July 2026. https://techcrunch.com/2013/12/18/zero-commission-stock-trading-robinhood/ — Contemporaneous press confirming the exact December 18, 2013 seed announcement, $3M raise led by Index Ventures with Andreessen Horowitz, Rothenberg Ventures, Tim Draper, and Howard Lindzon; notes prior small pre-seed check (~$250K) from Google Ventures in August 2012. No post-money valuation disclosed.
 
 [^17]: Vator.tv (Steven Loeb), "Mobile stock brokerage, Robinhood, lands $3M seed," December 18, 2013, accessed July 2026. https://vator.tv/news/2013-12-18-mobile-stock-brokerage-robinhood-lands-3m-seed — Contemporaneous press confirming December 18, 2013 date, $3M seed led by Index Ventures. Named investors: Andreessen Horowitz, Rothenberg Ventures, Tim Draper, Howard Lindzon; prior ~$250K from Google Ventures in August 2012. No valuation disclosed.
+
+[^18]: TechCrunch (Ingrid Lunden), "Robinhood Raises $13M To Democratize Stock Market With Zero-Commission Trading App," September 23, 2014, accessed August 2026. https://techcrunch.com/2014/09/23/robinhood-stock-app/ — Contemporaneous primary source confirming exact 2014-09-23 announcement date, $13M Series A led by Index Ventures with Ribbit Capital, Andreessen Horowitz (existing), Howard Lindzon, Dave Morin/Slow Ventures, Aaron Levie, Jared Leto, Snoop Dogg, and Nas/Queensbridge participating. Post-money valuation not disclosed.
+
+[^19]: Index Ventures, "From Seed to A: Robinhood's Aim is Right on Target," September 2014, accessed August 2026. https://www.indexventures.com/perspectives/from-seed-to-a-robinhoods-aim-is-right-on-target/ — Lead investor's own announcement of Robinhood Series A; confirms Index led with Ribbit Capital co-investing. Valuation not disclosed.
+
+[^20]: AltAssets Private Equity News, "Index, Jared Leto and Snoop Dogg invest $13m in Robinhood," September 2014, accessed August 2026. https://www.altassets.net/private-equity-news/by-news-type/deal-news/index-jared-leto-and-snoop-dogg-invest-13m-in-robinhood.html — Third independent contemporaneous confirmation of $13M Series A led by Index Ventures. Post-money valuation not publicly disclosed.
