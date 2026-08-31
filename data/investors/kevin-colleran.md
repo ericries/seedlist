@@ -51,7 +51,7 @@ Deals publicly attributed to Kevin Colleran (via Signal/NFX and verified press):
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
-| Hint | 2026 | Seed ($10M, led) | [^8] |
+| Hint | 2026-05-13 | Seed ($10M, led by Slow Ventures; Montauk Capital, Tusk Venture Partners, Amplo, Energy Impact Partners, Hannah Grey VC, Brian Kelly participating) | [^8][^9][^10] |
 | Journey | 2025 | Seed ($8M) | [^7] |
 | WAX | 2022 | Seed ($10M) | [^7] |
 | ROOM | 2020 | Series A ($13M) | [^7] |
@@ -88,3 +88,7 @@ No independently sourced founder testimonials found. Firm website testimonials f
 [^6]: "Slow Ventures Creator Fund" — coverage of the February 2025 Creator Fund I launch (>$60M, LPs include University of Michigan and MIT), accessed July 2026. https://quasa.io/projects/slow-ventures-creator-fund
 [^7]: Kevin Colleran investing profile, Signal by NFX, accessed July 2026. https://signal.nfx.com/investors/kevin-colleran
 [^8]: Allie Garfinkle, "Exclusive: Martha Stewart's new AI startup wants to manage your home before things break," Fortune, May 13, 2026, accessed July 2026. https://fortune.com/2026/05/13/exclusive-martha-stewart-ai-startup-hint-seed-funding-slow-ventures/
+
+[^9]: Business Wire (via Morningstar), "Martha Stewart Announces Hint, a New Home Management Platform Built on Human Expertise and AI," May 12, 2026. Accessed August 2026. https://www.morningstar.com/news/business-wire/20260512987617/martha-stewart-announces-hint-a-new-home-management-platform-built-on-human-expertise-and-ai — Company-side primary announcement. Confirms $10M seed led by Slow Ventures with participation from Montauk Capital, Tusk Venture Partners, Amplo, Energy Impact Partners, Hannah Grey VC, and Brian Kelly (The Points Guy founder).
+
+[^10]: Brian Contreras, "Martha Stewart Just Launched an AI Startup to Solve the 1 Thing Every Homeowner Hates," Inc., May 2026. Accessed August 2026. https://www.inc.com/brian-contreras/martha-stewart-ai-startup-homeowners-hint/91344363 — Independent tier-1 press. Confirms Slow Ventures lead and full participant list; notes Montauk Capital incubated Hint prior to the seed round.

@@ -10,7 +10,7 @@ stage_focus: [pre-seed, seed, series-a]
 sector_focus: [ai, ai-ml, biotech, healthcare, applied-ai, mrna, robotics, climate-tech]
 check_size: "Varies; Plural fund leads plus angel checks"
 last_verified_investment:
-  date: 2026-02
+  date: 2026-02-11
   company: "Upside Robotics"
   round: "Seed"
 social:
@@ -46,7 +46,7 @@ Independently verified portfolio across angel and Plural-backed deals (n=8): app
 | Sunrise Robotics | ~2024 | Plural | [^6] |
 | Softmax | ~2024 | Plural | [^6] |
 | Molyon | 2024-11 | Plural | [^7][^8] |
-| Upside Robotics | 2026-02 | Plural | [^8] |
+| Upside Robotics | 2026-02-11 | Plural led ($7.5M seed; co-investors Garage Capital, Entrepreneurs First, Clearpath Robotics founders) | [^8][^9][^10] |
 
 ## In Their Own Words
 
@@ -72,3 +72,7 @@ No independently sourced founder testimonials found.
 [^6]: Plural Platform team page, "Carina Namih," accessed June 2026. https://www.pluralplatform.com/team/carina-namih
 [^7]: BalticVC, "Plural invests in lithium-sulfur technology developer Molyon," November 2024. Accessed June 2026. https://www.balticvc.com/2024/11/plural-invests-in-lithium-sulfur.html
 [^8]: BalticVC, "Plural invests in Canadian Upside Robotics," February 2026. Accessed June 2026. https://www.balticvc.com/2026/02/plural-invests-in-canadian-upside.html
+
+[^9]: TechCrunch, "Upside Robotics is reducing fertilizer use and waste in corn crops," February 11, 2026. Accessed August 2026. https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops — Contemporaneous tier-1 press confirming 2026-02-11 announcement of $7.5M seed led by Plural, with Garage Capital and Clearpath Robotics founders as participants. Brings Upside Robotics total funding to over $11M.
+
+[^10]: University of Waterloo News, "$7.5 million seed funding helps Upside Robotics plant the seeds for success," February 12, 2026. Accessed August 2026. https://uwaterloo.ca/news/75-million-seed-funding-helps-upside-robotics-plant-seeds — Founder-adjacent primary source confirming $7.5M seed, Plural lead, Garage Capital + Entrepreneurs First + Clearpath Robotics founders participation. Co-founders Sam Dugan (BASc '22 Mechatronics) and Jana Tian launched via Velocity, University of Waterloo's incubator.

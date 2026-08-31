@@ -101,7 +101,7 @@ The following table represents a partial sample of Garage Capital's 200+ investm
 | Float Financial | Early stage | ~2019 (founding year) | Fintech | Active [^15] |
 | Relay | Early stage | ~2019 (founding year) | Fintech / Business Banking | Active [^1] |
 | Fellow | Early stage | ~2017 (founding year) | Enterprise Software / Meetings | Active [^13] |
-| Upside Robotics | Seed | 2026 | AgTech / Robotics | Active [^24] |
+| Upside Robotics | Seed ($7.5M; Plural led; Garage Capital, Entrepreneurs First, Clearpath Robotics founders participating) | 2026-02-11 | AgTech / Robotics | Active [^24][^upr1][^upr2] |
 | Embark Trucks | Early stage | ~2016 (founding year) | Autonomous Vehicles | Shut down (acquired by Applied Intuition, 2023) [^25] |
 | Buf | Early stage | ~2020 (founding year) | Developer Tools | Active [^22] |
 | Nicoya Lifesciences | Early stage | ~2015 (founding year) | Biotech / Life Sciences | Active [^13] |
@@ -169,3 +169,7 @@ No independently sourced founder testimonials found. The firm's website does not
 [^31]: Ollama, "Ollama: all aboard open models," Ollama Blog, July 9, 2026. Accessed July 2026. https://ollama.com/blog/all-aboard-open-models — Company announcement naming Garage Capital among prior/existing backers (alongside Y Combinator, Pace Capital, 49 Palms, GTMFund) supporting the Series B.
 
 [^32]: Rebecca Bellan, "Popular open-source AI developer tool Ollama raises $65M, grows to nearly 9M users," TechCrunch, July 9, 2026. Accessed July 2026. https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/ — Independent press confirming $65M Series B led by Theory Ventures on July 9, 2026.
+
+[^upr1]: TechCrunch, "Upside Robotics is reducing fertilizer use and waste in corn crops," February 11, 2026. Accessed August 2026. https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops — Contemporaneous tier-1 press confirming $7.5M seed announcement on 2026-02-11, Plural lead, and Garage Capital + Clearpath Robotics founders as participants. Co-founders Jana Tian (CEO) and Sam Dugan (CTO) met at the Entrepreneurs First accelerator in 2023.
+
+[^upr2]: Pulse 2.0, "Upside Robotics: $7.5 Million Seed Funding Raised To Advance Sustainable Farm Automation," February 2026. Accessed August 2026. https://pulse2.com/upside-robotics-7-5-million-seed-funding-raised-to-advance-sustainable-farm-automation/ — Independent trade press confirming $7.5M seed, Plural lead, and Garage Capital + Entrepreneurs First + Clearpath Robotics founders participation. Brings total funding to over $11M.

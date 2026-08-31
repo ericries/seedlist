@@ -6305,8 +6305,9 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-08-30
-  note: |
-    Fact-spec sweep 2026-08-30: Verified LI.FI $29M Series A Extension announced 2025-12-11, co-led by Multicoin Capital and CoinFund (David Pakman as CoinFund deal partner). Brings total capital raised to $51.7M. LI.FI monthly volume grew 595% from $1.15B (October 2024) to $8B (October 2025); nearing 1,000 B2B partner milestone. Confirmed via 3 primary sources: LI.FI blog [^29] (2025-12), PR Newswire [^27] (2025-12-11), Pulse 2.0 [^60] (2025-12-14), CoinDesk [^61] (2025-12-11). Updated coinfund.md Portfolio row from year-only "2025" to full "2025-12-11" with enriched detail and 2 new footnotes added ([^60], [^61]).
+  note: 'Fact-spec sweep 2026-08-30: Verified LI.FI $29M Series A Extension announced 2025-12-11, co-led by Multicoin Capital and CoinFund (David Pakman as CoinFund deal partner). Brings total capital raised to $51.7M. LI.FI monthly volume grew 595% from $1.15B (October 2024) to $8B (October 2025); nearing 1,000 B2B partner milestone. Confirmed via 3 primary sources: LI.FI blog [^29] (2025-12), PR Newswire [^27] (2025-12-11), Pulse 2.0 [^60] (2025-12-14), CoinDesk [^61] (2025-12-11). Updated coinfund.md Portfolio row from year-only "2025" to full "2025-12-11" with enriched detail and 2 new footnotes added ([^60], [^61]).
+
+    '
 - profile: firms/coinfund
   profile_name: CoinFund
   company: EDGE Markets
@@ -8754,7 +8755,9 @@ vague_facts:
   line: '| Metafuels | Series A | 2026 | Sustainable aviation fuel | [^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: &id001 2026-08-30
+  resolution_note: 'Fact-spec sweep 2026-08-30: SCANNER FALSE POSITIVE on col 4 (Source column). Row was tightened same-sweep from year-only "2026" to full "$24M Series A; UVC Partners led; EIP, Contrarian Ventures, RockCreek, Verve Ventures, Fortescue Ventures returning existing investors | 2026-02-18" via 3 primary sources: Metafuels blog [^met1] (2026-02-18 dateline), ESG Today [^met2] (2026-02-19), Hydrocarbon Processing [^met3] (2026-02-19). Row now carries 4 total citations.'
 - profile: firms/energy-impact-partners
   profile_name: Energy Impact Partners
   company: Overstory
@@ -8774,7 +8777,9 @@ vague_facts:
   line: '| Hint | Seed | 2026 | AI home management | [^25] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: *id001
+  resolution_note: 'Fact-spec sweep 2026-08-30: SCANNER FALSE POSITIVE on col 4 (Source column). Row was tightened same-sweep from year-only "2026" to full "$10M Seed; Slow Ventures led; Montauk Capital, Tusk Venture Partners, Amplo, EIP, Hannah Grey VC, Brian Kelly participating | 2026-05-13" via 3 primary sources: existing Business Wire [^25] (2026-05-12), NEW Fortune [^hint1] (2026-05-13, Allie Garfinkle exclusive), NEW Inc [^hint2] (Brian Contreras). Row now carries 3 total citations.'
 - profile: firms/first-round-capital
   profile_name: First Round Capital
   company: Uber
@@ -19565,8 +19570,9 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: 2026-08-30
-  note: |
-    Fact-spec sweep 2026-08-30: Verified Multicoin Capital co-led LI.FI's $29M Series A Extension with CoinFund, announced 2025-12-11. Total capital raised to $51.7M. Confirmed via 3 primary sources: PR Newswire [^46] (2025-12-11), LI.FI blog [^lifi-mcc1] (2025-12), CoinDesk [^lifi-mcc2] (2025-12-11). Updated multicoin-capital.md Portfolio row from month-only "Dec 2025" to exact "2025-12-11" and 2 new footnotes added.
+  note: 'Fact-spec sweep 2026-08-30: Verified Multicoin Capital co-led LI.FI''s $29M Series A Extension with CoinFund, announced 2025-12-11. Total capital raised to $51.7M. Confirmed via 3 primary sources: PR Newswire [^46] (2025-12-11), LI.FI blog [^lifi-mcc1] (2025-12), CoinDesk [^lifi-mcc2] (2025-12-11). Updated multicoin-capital.md Portfolio row from month-only "Dec 2025" to exact "2025-12-11" and 2 new footnotes added.
+
+    '
 - profile: firms/multicoin-capital
   profile_name: Multicoin Capital
   company: Inference
@@ -51621,7 +51627,9 @@ vague_facts:
   line: '| Upside Robotics | 2026-02 | Plural | [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: *id001
+  resolution_note: 'Fact-spec sweep 2026-08-30: SCANNER FALSE POSITIVE on col 3 (Source column). Row was tightened same-sweep from month-only "2026-02" to full "2026-02-11" with Plural lead confirmed and full syndicate ($7.5M seed; Garage Capital + Entrepreneurs First + Clearpath Robotics founders participating). Verified via 3 primary sources: existing BalticVC [^8], NEW TechCrunch [^9] (2026-02-11), NEW University of Waterloo News [^10] (2026-02-12). LVI updated from 2026-02 to 2026-02-11.'
 - profile: investors/carl-eschenbach
   profile_name: Carl Eschenbach
   company: Palo Alto Networks
@@ -101308,7 +101316,9 @@ vague_facts:
   line: '| Hint | 2026 | Seed ($10M, led) | [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: *id001
+  resolution_note: 'Fact-spec sweep 2026-08-30: SCANNER FALSE POSITIVE on col 3 (Source column). Row was tightened same-sweep from year-only "2026" to full "2026-05-13" with Slow Ventures lead confirmed and full syndicate ($10M seed; Montauk Capital, Tusk Venture Partners, Amplo, EIP, Hannah Grey VC, Brian Kelly participating). Verified via 3 primary sources: existing Fortune [^8], NEW Business Wire [^9] (2026-05-12 wire), NEW Inc [^10] (Contreras). LVI already correctly set to 2026-05-13.'
 - profile: investors/kevin-colleran
   profile_name: Kevin Colleran
   company: Journey
@@ -173078,8 +173088,9 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-08-30
-  note: |
-    Fact-spec sweep 2026-08-30: Same fix as high-priority companion entry — LI.FI $29M Series A Ext confirmed as 2025-12-11 via 3+ primary sources (LI.FI blog, PR Newswire, Pulse 2.0, CoinDesk). Portfolio row updated with exact date and enriched detail.
+  note: 'Fact-spec sweep 2026-08-30: Same fix as high-priority companion entry — LI.FI $29M Series A Ext confirmed as 2025-12-11 via 3+ primary sources (LI.FI blog, PR Newswire, Pulse 2.0, CoinDesk). Portfolio row updated with exact date and enriched detail.
+
+    '
 - profile: firms/collaborative-fund
   profile_name: Collaborative Fund
   company: Highlight
@@ -173581,8 +173592,9 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-08-30
-  note: |
-    Fact-spec sweep 2026-08-30: Verified Upgrade $165M Series G on 2025-10-16 at $7.3B valuation, led by Neuberger Berman Funds (managed by NB Alternatives Advisers) with LuminArx Capital Management LP participating; existing shareholders DST Global and Ribbit Capital both increased their investments. Total equity capital raised: $750M. BofA Securities served as exclusive placement agent. Peter Sterling (Head of Specialty Finance at Neuberger) joined the board. Confirmed via 3 primary sources: PR Newswire company press release [^54] (2025-10-16), CNBC [^55] (2025-10-16), and Fortune [^56] (2025-10-16). Updated dst-global.md Portfolio row from year-only "2025" to full "2025-10-16" with lead/participants and 3 new footnotes added.
+  note: 'Fact-spec sweep 2026-08-30: Verified Upgrade $165M Series G on 2025-10-16 at $7.3B valuation, led by Neuberger Berman Funds (managed by NB Alternatives Advisers) with LuminArx Capital Management LP participating; existing shareholders DST Global and Ribbit Capital both increased their investments. Total equity capital raised: $750M. BofA Securities served as exclusive placement agent. Peter Sterling (Head of Specialty Finance at Neuberger) joined the board. Confirmed via 3 primary sources: PR Newswire company press release [^54] (2025-10-16), CNBC [^55] (2025-10-16), and Fortune [^56] (2025-10-16). Updated dst-global.md Portfolio row from year-only "2025" to full "2025-10-16" with lead/participants and 3 new footnotes added.
+
+    '
 - profile: firms/dst-global
   profile_name: DST Global
   company: Console
@@ -173594,8 +173606,9 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: 2026-08-30
-  note: |
-    Fact-spec sweep 2026-08-30: Verified Console $23M Series A on 2025-09-16 co-led by DST Global Partners and Thrive Capital, with SV Angel, Abstract Ventures, Ramp founders Eric Glyman and Karim Atiyeh, Box CEO Aaron Levie, Palo Alto Networks CEO Nikesh Arora, and Quora CEO Adam D'Angelo participating. Console customers: Ramp, Flock Safety, Scale AI. Founder Andrei Serban (Thiel Fellow, YC alum). Confirmed via 3 independent sources: Upstarts Media/Alex Konrad exclusive [^57] (2025-09-16), Techmeme [^58] (2025-09-16), Alex Konrad X post [^59] (2025-09-16). Updated dst-global.md Portfolio row from year-only "2025" to full "2025-09-16" with lead/participants and 3 new footnotes added.
+  note: 'Fact-spec sweep 2026-08-30: Verified Console $23M Series A on 2025-09-16 co-led by DST Global Partners and Thrive Capital, with SV Angel, Abstract Ventures, Ramp founders Eric Glyman and Karim Atiyeh, Box CEO Aaron Levie, Palo Alto Networks CEO Nikesh Arora, and Quora CEO Adam D''Angelo participating. Console customers: Ramp, Flock Safety, Scale AI. Founder Andrei Serban (Thiel Fellow, YC alum). Confirmed via 3 independent sources: Upstarts Media/Alex Konrad exclusive [^57] (2025-09-16), Techmeme [^58] (2025-09-16), Alex Konrad X post [^59] (2025-09-16). Updated dst-global.md Portfolio row from year-only "2025" to full "2025-09-16" with lead/participants and 3 new footnotes added.
+
+    '
 - profile: firms/dst-global
   profile_name: DST Global
   company: Quince
@@ -173725,7 +173738,9 @@ vague_facts:
   line: '| Metafuels | Series A | 2026 | Sustainable aviation fuel | [^3] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: *id001
+  resolution_note: 'Fact-spec sweep 2026-08-30: tightened Metafuels row from year-only "2026" to full "2026-02-18" (Zurich press release dateline) with amount $24M, UVC Partners lead, and full syndicate (EIP + Contrarian Ventures + RockCreek + Verve Ventures + Fortescue Ventures as returning existing investors). Verified via 3 primary sources: Metafuels blog [^met1], ESG Today [^met2], Hydrocarbon Processing [^met3]. 3 new footnotes added.'
 - profile: firms/energy-impact-partners
   profile_name: Energy Impact Partners
   company: Overstory
@@ -173746,7 +173761,9 @@ vague_facts:
   line: '| Hint | Seed | 2026 | AI home management | [^25] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: *id001
+  resolution_note: 'Fact-spec sweep 2026-08-30: tightened Hint row from year-only "2026" to full "2026-05-13" with amount $10M seed, Slow Ventures lead, and full syndicate. Verified via 3 primary sources: existing Business Wire [^25], NEW Fortune [^hint1], NEW Inc [^hint2]. 2 new footnotes added.'
 - profile: firms/first-round-capital
   profile_name: First Round Capital
   company: Rillet
@@ -173897,7 +173914,9 @@ vague_facts:
   line: '| Upside Robotics | Seed | 2026 | AgTech / Robotics | Active [^24] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: *id001
+  resolution_note: 'Fact-spec sweep 2026-08-30: tightened Upside Robotics row from year-only "2026" to full "2026-02-11" (TechCrunch article date; company''s own news page also lists Feb 11) with amount $7.5M seed, Plural lead, and full syndicate (Garage Capital + Entrepreneurs First + Clearpath Robotics founders). Verified via 3+ primary sources: existing University of Waterloo News [^24] (2026-02-12), NEW TechCrunch [^upr1] (2026-02-11), NEW Pulse 2.0 [^upr2]. 2 new footnotes added.'
 - profile: firms/general-catalyst
   profile_name: General Catalyst
   company: Figma
@@ -192391,7 +192410,9 @@ vague_facts:
   line: '| Hint | 2026 | Seed ($10M, led) | [^8] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: *id001
+  resolution_note: 'Fact-spec sweep 2026-08-30: tightened Hint row from year-only "2026" to full "2026-05-13" with amount $10M, Slow Ventures lead, and full syndicate. Verified via 3 primary sources: existing Fortune [^8], NEW Business Wire [^9], NEW Inc [^10]. 2 new footnotes added.'
 - profile: investors/kevin-colleran
   profile_name: Kevin Colleran
   company: Journey

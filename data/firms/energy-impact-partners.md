@@ -124,9 +124,9 @@ Based on analysis of 137 verified portfolio companies (96 active, 41 exited) fro
 | Noetic Cyber | Series A | 2021 | Cyber asset management | [^3][^23] |
 | Oort | Series A | 2022 | Identity threat detection | [^3][^24] |
 | Koloma | Series B (USD 245.7M; Khosla Ventures led; Amazon Climate Pledge Fund + United Airlines Sustainable Flight Fund new; Breakthrough Energy Ventures + Energy Impact Partners returning) | 2024-02-09 | Geologic hydrogen | [^22][^kol1][^kol2][^kol3] |
-| Metafuels | Series A | 2026 | Sustainable aviation fuel | [^3] |
+| Metafuels | Series A ($24M; UVC Partners led; Energy Impact Partners, Contrarian Ventures, RockCreek, Verve Ventures, Fortescue Ventures returning existing investors) | 2026-02-18 | Sustainable aviation fuel | [^3][^met1][^met2][^met3] |
 | Overstory | Series B ($43M; Blume Equity led; EIP LP, B Capital, Semapa Next, Pale Blue Dot, CapitalT, Convective Capital, Bentley Systems, MCJ, Moxxie Ventures participating — EIP is a Series B new investor, NOT Series A) | 2025-11-25 | AI grid resilience / Wildfire prevention | [^ov1][^ov2][^ov3] |
-| Hint | Seed | 2026 | AI home management | [^25] |
+| Hint | Seed ($10M; Slow Ventures led; Montauk Capital, Tusk Venture Partners, Amplo, Energy Impact Partners, Hannah Grey VC, Brian Kelly participating) | 2026-05-13 | AI home management | [^25][^hint1][^hint2] |
 
 *This table represents a subset of approximately 137 known portfolio companies. The full portfolio is listed on the EIP website [^14].*
 
@@ -195,4 +195,14 @@ No additional independently sourced founder testimonials found beyond press rele
 [^ov2]: PhroNews, "Overstory Raises $43M to Reduce Wildfire Risk with AI," December 6, 2025. Accessed August 2026. https://phronews.com/overstory-closes-43m-to-scale-ai-for-wildfire-prevention-and-grid-resilience/ — Contemporaneous independent press confirming $43M Series B, Blume Equity lead, and EIP among participants; CEO Fiona Spruill quote.
 
 [^ov3]: Overstory blog, "Overstory closes Series A supercharging its leading vegetation AI platform, reducing wildfire risk and power outages," October 19, 2023. Accessed August 2026. https://www.overstory.com/blog/series-a-announcement — Company primary source for the earlier Series A ($14M led by B Capital on 2023-10-19) — Energy Impact Partners was NOT a Series A investor. Cited here to disambiguate the 2023 Series A from the 2025 Series B (EIP entered at Series B).
+
+[^met1]: Metafuels, "$24M for climate-neutral flight: Metafuels brings synthetic aviation fuel to market at commercial scale," February 18, 2026. Accessed August 2026. https://metafuels.ch/knowledge-base/24m-for-climate-neutral-flight/ — Company primary source. Press release datelined "Zurich, Switzerland – 18th February 2026" confirming $24M funding round led by UVC Partners with existing investors Energy Impact Partners, Contrarian Ventures, RockCreek, Verve Ventures, and Fortescue Ventures participating. Funds accelerate methanol-to-jet demo plant in Switzerland and commercial-scale e-SAF facility at Port of Rotterdam.
+
+[^met2]: ESG Today, "Metafuels Raises $24 Million to Scale Low-Cost Synthetic Sustainable Aviation Fuel Technology," February 19, 2026. Accessed August 2026. https://www.esgtoday.com/metafuels-raises-24-million-to-scale-synthetic-sustainable-aviation-fuel-technology/ — Independent trade press. Confirms $24M Series A led by UVC Partners with Energy Impact Partners and other existing investors returning.
+
+[^met3]: Hydrocarbon Processing, "Metafuels announces $24-MM funding round to bring its SAF to market," February 19, 2026. Accessed August 2026. https://hydrocarbonprocessing.com/news/2026/02/metafuels-announces-24-mm-funding-round-to-bring-its-saf-to-market/ — Second independent trade press confirmation of $24M raise, UVC Partners lead, and EIP + Contrarian Ventures + RockCreek + Verve Ventures + Fortescue Ventures as existing investors continuing support.
+
+[^hint1]: Allie Garfinkle, "Exclusive: Martha Stewart's new AI startup wants to manage your home before things break," Fortune, May 13, 2026. Accessed August 2026. https://fortune.com/2026/05/13/exclusive-martha-stewart-ai-startup-hint-seed-funding-slow-ventures/ — Exclusive Fortune scoop confirming $10M seed led by Slow Ventures, incubated by Montauk Capital, with Tusk Venture Partners, Amplo, Energy Impact Partners, Hannah Grey VC, and Brian Kelly participating. Slow Ventures GP Kevin Colleran quoted.
+
+[^hint2]: Brian Contreras, "Martha Stewart Just Launched an AI Startup to Solve the 1 Thing Every Homeowner Hates," Inc., May 2026. Accessed August 2026. https://www.inc.com/brian-contreras/martha-stewart-ai-startup-homeowners-hint/91344363 — Independent tier-1 press. Confirms $10M seed, Slow Ventures lead, and Energy Impact Partners among the participating investors.
 
