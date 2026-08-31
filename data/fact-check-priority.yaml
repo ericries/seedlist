@@ -5054,14 +5054,23 @@ priority:
   type: firm
   reason: appeared in Retro Series A (2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-31
+  resolution_note: 'Added Retro (Lone Palm Labs) Series A participation row to conviction.md portfolio table ($21M+ led by Thrive Capital, 2026-08-28, participants Dylan Field, Scribble, BoxGroup, Imaginary, Coalition, Conviction, Copper, Positive Sum). Cited via 2 primary sources: [^retro-cv1] TechCrunch primary and [^retro-cv2] Techmeme aggregator referencing SEC Form D (dated 2026-08-19) and Business Insider. Matches cross-referenced startup profile at data/startups/retro-app.md.'
 - slug: dylan-field
   type: investor
   reason: appeared in Retro Series A (2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-31
+  resolution_note: 'Added Retro (Lone Palm Labs) Series A row to dylan-field.md portfolio table (2026-08-28). Updated last_verified_investment from BRINC 2025-04-08 to Retro (Lone Palm Labs) 2026-08-28. Updated Inferred Thesis: verified investment count 22 -> 23, sector percentages recalculated (Consumer/social added as new 1/23 category), "Active through 2025" note updated to "Active through 2026" citing Retro. Cited via 2 primary sources: [^27] TechCrunch and [^28] Techmeme (SEC Form D + Business Insider).'
 - slug: wrtn
   type: startup
   reason: new profile from round monitoring (Series C, 2026-08-26)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-31
+  resolution_note: 'Verified wrtn.md is fully cited with 3 primary sources: [^1] Korea Times, [^2] FinSMEs, [^3] The SaaS News. Series C round of ₩100B (~$72M) led by Coreline Ventures + Eugene Asset Management on 2026-08-26, with Goodwater Capital, Antler Global, Woori Venture Partners, Korea Development Bank participating. Currency preserved (₩). Investor/firm slugs left empty in frontmatter because none of the participating investors have Seedlist profiles yet (correct behavior per CLAUDE.md — do not invent slugs). No changes required to the profile itself.'
 - slug: form-energy
   type: startup
   reason: new profile from round monitoring (Series G $750M, 2026-08-12)

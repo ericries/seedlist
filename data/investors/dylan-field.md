@@ -3,9 +3,9 @@ check_size: $10K-$500K
 firm: independent
 last_researched: 2026-03-24
 last_verified_investment:
-  company: BRINC
-  date: 2025-04-08
-  round: Series C
+  company: Retro (Lone Palm Labs)
+  date: 2026-08-28
+  round: Series A
 location: San Francisco, CA
 name: Dylan Field
 role: Co-Founder & CEO
@@ -56,16 +56,17 @@ In a 2025 Calcalist interview, Field described his hybrid approach to AI: "You d
 
 ## Inferred Thesis
 
-Based on 22 verified investments compiled from Premier Alternatives, BoringBusinessNerd, Signal NFX, press coverage, and company announcements. Aggregator databases suggest Field may have made 64-118 total investments [^3][^9]; this analysis covers approximately 34% of the lower estimate.
+Based on 23 verified investments compiled from Premier Alternatives, BoringBusinessNerd, Signal NFX, press coverage, and company announcements. Aggregator databases suggest Field may have made 64-118 total investments [^3][^9]; this analysis covers approximately 36% of the lower estimate.
 
-**Sector distribution (22 verified investments):**
-- Developer tools: 7 of 22 (32%) — Warp, Zed Industries, Replicate, Baseten, Stytch, Doppler, CodeSandbox
-- Design / creative tools: 3 of 22 (14%) — Felt, Voiceflow, Loom
-- AI / machine learning: 3 of 22 (14%) — Perplexity AI, HeyGen, Replicate
-- Fintech: 3 of 22 (14%) — Mercury, AtoB, Collective
-- Collaboration / productivity: 3 of 22 (14%) — Loom, Gather, Linear
-- Web3 / crypto: 2 of 22 (9%) — OpenSea, Meanwhile
-- Hardware / robotics: 1 of 22 (5%) — BRINC
+**Sector distribution (23 verified investments):**
+- Developer tools: 7 of 23 (30%) — Warp, Zed Industries, Replicate, Baseten, Stytch, Doppler, CodeSandbox
+- Design / creative tools: 3 of 23 (13%) — Felt, Voiceflow, Loom
+- AI / machine learning: 3 of 23 (13%) — Perplexity AI, HeyGen, Replicate
+- Fintech: 3 of 23 (13%) — Mercury, AtoB, Collective
+- Collaboration / productivity: 3 of 23 (13%) — Loom, Gather, Linear
+- Web3 / crypto: 2 of 23 (9%) — OpenSea, Meanwhile
+- Hardware / robotics: 1 of 23 (4%) — BRINC
+- Consumer / social: 1 of 23 (4%) — Retro (Lone Palm Labs)
 
 *Note: Some companies span multiple categories (e.g., Replicate is both dev tools and AI, Loom is both creative and collaboration); each is counted once in its primary category.*
 
@@ -82,7 +83,7 @@ Based on 22 verified investments compiled from Premier Alternatives, BoringBusin
 - **Co-investor patterns:** Field frequently co-invests alongside Elad Gil (Warp, Perplexity), Sequoia Capital (Loom Series B, Warp Series B), and other founder-angels like Marc Benioff (Warp), Kevin Systrom (Loom), and Guillermo Rauch (Replicate, PlayerZero).
 - **Brown University network:** Field invested in OpenSea co-founded by his Brown classmate Devin Finzer [^2], indicating his college network is a deal sourcing channel.
 - **Portfolio exits:** 9 exits including Census, Golden, Loom (acquired by Atlassian), and CodeSandbox [^3]. 6 unicorns in portfolio including Mercury and Netlify [^3].
-- **Active through 2025:** Most recent verified investment is BRINC (April 2025) [^10], confirming continued activity.
+- **Active through 2026:** Most recent verified investment is Retro (Lone Palm Labs) Series A (August 2026) [^27][^28], with prior recent activity including BRINC Series C (April 2025) [^10].
 
 **Notable gaps:** Despite a stated emphasis on design, only 3 of 22 verified investments (14%) are in pure design/creative tools — the majority are developer tools and infrastructure. This suggests Field's actual investing behavior skews more technical than his public persona implies.
 
@@ -104,6 +105,7 @@ Based on 22 verified investments compiled from Premier Alternatives, BoringBusin
 | Zed Industries | 2023-03-15 | Series A | [^21][^22] |
 | Felt | 2021-08-10 | Seed | [^23][^24] |
 | HeyGen | 2024-06-20 | Series A | [^25][^26] |
+| Retro (Lone Palm Labs) | 2026-08-28 | Series A | [^27][^28] |
 ~unknown| Kindred | — | — | [^3] |
 ~unknown| Socket | — | — | [^3] |
 ~unknown| Collective | — | — | [^3] |
@@ -180,3 +182,5 @@ No independently sourced founder testimonials found about Dylan Field as an ange
 [^24]: TechCrunch, "Felt raised $4.5 million to get you to 'think in maps,'" August 10, 2021. Accessed May 2026. https://techcrunch.com/2021/08/10/felt-raised-4-5-million-to-get-you-to-think-in-maps/
 [^25]: HeyGen blog, "HeyGen Secures $60M Series A to Power AI Video Generation for Business Growth," June 20, 2024. Accessed May 2026. https://www.heygen.com/blog/announcing-our-series-a
 [^26]: Bloomberg, "AI Video Startup HeyGen Valued at $500 Million in Funding Round," June 20, 2024. Accessed May 2026. https://www.bloomberg.com/news/articles/2024-06-20/ai-video-startup-heygen-valued-at-500-million-in-funding-round
+[^27]: TechCrunch, "Friend-focused photo-sharing app Retro snags $21M," August 28, 2026, accessed August 2026. https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/ — Primary press confirming Dylan Field as a participating angel in Retro's (Lone Palm Labs) $21M+ Series A led by Thrive Capital, disclosed August 28, 2026 (SEC Form D dated August 19, 2026).
+[^28]: Techmeme, "Filing: Lone Palm Labs, the startup behind friend-focused photo sharing app Retro, raised a $21M+ Series A from Thrive Capital and others," August 28, 2026, accessed August 2026. https://www.techmeme.com/260828/p16 — Independent aggregator referencing the SEC Form D filing and Business Insider coverage; lists Dylan Field among Series A participants alongside Thrive Capital (lead), Scribble Ventures, BoxGroup, Imaginary Ventures, Coalition, Conviction, Copper, and Positive Sum.
