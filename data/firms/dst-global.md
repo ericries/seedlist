@@ -155,8 +155,10 @@ The following table includes DST Global investments verified through press cover
 | Proxima Fusion | Growth (participated, €411M at €2.4B val; XTX Ventures + East X Ventures co-led) | 2026-07-07 | Deep Tech / Fusion Energy / Climate | Private [^42][^43][^44] |
 | Monogram | Seed (co-led with Lux Capital, $40M) | 2026-07-07 | AI / Consumer AI / Mobile | Private [^45][^46][^47] |
 | Gradium | Seed (participated; $70M co-led by FirstMark Capital + Eurazeo; Eric Schmidt, Xavier Niel, Rodolphe Saadé, Korelya Capital, Amplify Partners also participated) | 2025-12-02 | AI / Voice AI / Foundation Models | Private [^48][^49][^50] |
+| Higgsfield | Series B (led; $400M at $5.4B valuation with Goldman Sachs Alternatives, Valor Capital, Tribe Capital) | 2026-08-17 | AI / Generative AI / Video | Private [^60] |
+| Ajaib | Series C (participated; $270M at ~$1.35B valuation; SBI Holdings led with DST Global and Ribbit Capital) | 2026-08-28 | Fintech / Wealth Tech (Indonesia) | Private [^61][^62][^63] |
 
-*Note: This table includes 36 companies out of 214 total (~17%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
+*Note: This table includes 38 companies out of 214 total (~18%). Years marked with "~" are approximate based on company funding timelines. Many investments span multiple rounds; the stage listed reflects DST's initial or most significant known investment.*
 
 ## In Their Own Words
 
