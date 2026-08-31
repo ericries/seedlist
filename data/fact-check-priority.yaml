@@ -5062,3 +5062,51 @@ priority:
   type: startup
   reason: new profile from round monitoring (Series C, 2026-08-26)
   added: 2026-08-30
+- slug: form-energy
+  type: startup
+  reason: new profile from round monitoring (Series G $750M, 2026-08-12)
+  added: 2026-08-31
+- slug: terra-industries
+  type: startup
+  reason: new profile from round monitoring (Seed extension $18M to $52M, 2026-08-17)
+  added: 2026-08-31
+- slug: stability-ai
+  type: startup
+  reason: new profile from round monitoring (Series B $76M, 2026-08-25)
+  added: 2026-08-31
+- slug: navi
+  type: startup
+  reason: new profile from round monitoring (Growth $100M Prosus, 2026-08-19)
+  added: 2026-08-31
+- slug: relativity-networks
+  type: startup
+  reason: new profile from round monitoring (Seed $22M SAFE, 2026-08-19)
+  added: 2026-08-31
+- slug: sequoia-capital
+  type: firm
+  reason: appeared in Form Energy Series G $750M (2026-08-12)
+  added: 2026-08-31
+- slug: breakthrough-energy-ventures
+  type: firm
+  reason: appeared in Form Energy Series G $750M (2026-08-12)
+  added: 2026-08-31
+- slug: energy-impact-partners
+  type: firm
+  reason: appeared in Form Energy Series G $750M (2026-08-12)
+  added: 2026-08-31
+- slug: coatue-management
+  type: firm
+  reason: appeared in Form Energy Series G $750M (2026-08-12) and Stability AI Series B $76M (2026-08-25)
+  added: 2026-08-31
+- slug: 8vc
+  type: firm
+  reason: appeared in Terra Industries Seed extension $18M ($52M total, 2026-08-17)
+  added: 2026-08-31
+- slug: joe-lonsdale
+  type: individual
+  reason: 8VC-led Terra Industries Seed extension (2026-08-17)
+  added: 2026-08-31
+- slug: rhapsody-venture-partners
+  type: firm
+  reason: appeared in Relativity Networks Seed $22M (2026-08-19)
+  added: 2026-08-31
