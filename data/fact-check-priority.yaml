@@ -4996,14 +4996,23 @@ priority:
   type: firm
   reason: appeared in Higgsfield Series B (2026-08-17)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-31
+  note: 'Fact-spec sweep 2026-08-31: Added Higgsfield Series B row to dst-global portfolio ($400M at $5.4B valuation, DST Global led with Goldman Sachs Alternatives, Valor Capital, Tribe Capital on 2026-08-17). Also added Ajaib Series C row ($270M, SBI Holdings-led with DST + Ribbit participation on 2026-08-28). Portfolio counter updated from 36 to 38 companies. 4 new footnotes added ([^60] TechCrunch for Higgsfield; [^61] Bloomberg via Yahoo, [^62] e27, [^63] The Block for Ajaib). Higgsfield lean startup profile documents the round with same TechCrunch primary source.'
 - slug: dcvc
   type: firm
   reason: appeared in Emerald AI Series A (2026-08-25)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-31
+  note: 'Fact-spec sweep 2026-08-31: Added Emerald AI Series A row to dcvc portfolio (co-led with Energize Capital, $150M at ~$1.05B valuation on 2026-08-25). Portfolio counter updated from ~12% to ~13% of DCVC 200+ portfolio. 3 new footnotes added ([^21] Crunchbase News, [^22] Energize Capital primary, [^23] Emerald AI website). Startup profile emerald-ai.md already documents round with matching primary sources.'
 - slug: ajaib
   type: startup
   reason: new profile from round monitoring (Series C, 2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-08-31
+  note: 'Fact-spec sweep 2026-08-31: Ajaib startup profile (data/startups/ajaib.md) already exists with 3 independent primary source citations: [^1] Bloomberg via Yahoo Finance, [^2] e27, [^3] The Block. All three independently confirm the $270M Series C led by SBI Holdings on 2026-08-28 with DST Global and Ribbit Capital participating, ~20% SBI stake, ~$1.35B valuation, and total capital exceeding $500M. Founders Anderson Sumarli and Yada Piyajomkwan verified. Profile is fact-verified as published; no changes needed. Same 3 sources cross-referenced in dst-global updates ([^61][^62][^63]).'
 - slug: dst-global
   type: firm
   reason: appeared in Ajaib Series C (2026-08-28)

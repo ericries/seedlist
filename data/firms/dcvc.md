@@ -135,8 +135,9 @@ Based on the portfolio companies listed on DCVC's website across 10 sector categ
 | Mainspring Energy | Early | 2017 | Energy/Power generation | Active | [^8] |
 | Latus Bio | Series A Extension (DCVC Bio, follow-on) | 2026-05-04 | Biotech / Gene Therapy | Active | [^16][^17] |
 | Kanvas Biosciences | Series A (co-led, $48M) | 2026-05-06 | Biotech / Microbiome / Spatial Biology | Active | [^18][^19][^20] |
+| Emerald AI | Series A (co-led with Energize Capital, $150M at ~$1.05B valuation) | 2026-08-25 | AI / Data Centers / Energy / Climate | Active | [^21][^22][^23] |
 
-*This table represents approximately 12% of DCVC's estimated 200+ portfolio companies [^2]. Years are approximate based on available data.*
+*This table represents approximately 13% of DCVC's estimated 200+ portfolio companies [^2]. Years are approximate based on available data.*
 
 ## In Their Own Words
 
@@ -181,3 +182,9 @@ Based on the portfolio companies listed on DCVC's website across 10 sector categ
 [^db-blog]: Databricks blog, "Databricks Unveils Apache Spark-Based Cloud Platform; Announces Series B Funding," June 30, 2014. Accessed July 31, 2026. https://www.databricks.com/blog/2014/06/30/databricks-unveils-spark-based-cloud-platform.html — Company primary source announcing Series B: "$33 million in series B funding led by New Enterprise Associates (NEA) with follow-on investment from Andreessen Horowitz." DCVC is NOT named. The DCVC portfolio page [^12] states "First Investment: 2014" but does not specify round; the discrepancy suggests a small non-disclosed follow-on rather than lead/major participant status.
 
 [^20]: BusinessWire, "Kanvas Biosciences Secures $48M Series A to Deliver Novel Microbiome Therapeutics to Cancer Patients," May 6, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260506062784/en/Kanvas-Biosciences-Secures-$48M-Series-A-to-Deliver-Novel-Microbiome-Therapeutics-to-Cancer-Patients — Cross-references the BioSpace announcement; confirms board chair Jason Pontin (DCVC) commentary on Kanvas's "deep engineering prowess."
+
+[^21]: Crunchbase News, "The Week's 10 Biggest Funding Rounds: AI Assistants Are Front And Center," August 28, 2026. Accessed August 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/ — Independent tier-1 aggregator confirming Emerald AI's $150M Series A on August 25, 2026 co-led by Energize Capital and DCVC. Named one of the week's largest funding rounds; company valued at approximately $1.05B post-money.
+
+[^22]: Energize Capital, "Why We Invested in Emerald AI," August 25, 2026. Accessed August 2026. https://www.energizecap.com/news — Lead investor's own primary announcement of Emerald AI's Series A, with DCVC as co-lead. Emerald builds grid-aware energy management software for AI data centers to connect to the power grid faster while maintaining 99.999% reliability.
+
+[^23]: Emerald AI company website, accessed August 2026. https://www.emeraldai.co/ — Primary company source listing partnerships with NVIDIA, Oracle, NextEra Energy, Digital Realty, and National Grid; offices in Washington, DC, Boston, and San Francisco. Total capital raised to date: $218M ($68M+$150M).
