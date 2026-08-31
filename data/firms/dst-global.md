@@ -142,8 +142,8 @@ The following table includes DST Global investments verified through press cover
 | Safe Superintelligence (SSI) | Series A (participated) | 2024-09-04 | AI | Private [^12][^27][^28] |
 | Reflection AI | Series B (participated; NVIDIA-led) | 2025-10-09 | AI / Frontier Models | Private [^6][^29][^30] |
 | Distyl AI | Series B (participated; $175M at $1.8B val, co-led by Khosla Ventures + Lightspeed) | 2025-09-23 | Enterprise AI | Private [^6][^51][^52][^53] |
-| Upgrade | Series G | 2025 | Fintech / Consumer Lending | Private [^6] |
-| Console | Series A | 2025 | AI / IT Operations | Private [^6] |
+| Upgrade | Series G ($165M at $7.3B valuation; Neuberger Berman led with LuminArx Capital; DST Global increased existing investment alongside Ribbit Capital) | 2025-10-16 | Fintech / Consumer Lending | Private [^6][^54][^55][^56] |
+| Console | Series A ($23M; DST Global Partners and Thrive Capital co-led; SV Angel, Abstract Ventures, Eric Glyman (Ramp), Karim Atiyeh (Ramp), Aaron Levie (Box), Nikesh Arora (Palo Alto Networks), Adam D'Angelo (Quora) participated) | 2025-09-16 | AI / IT Operations | Private [^6][^57][^58][^59] |
 | Brex | Growth | ~2021 | Fintech | Acquired by Capital One (2026) [^6] |
 | Whatnot | Series D (co-led) | 2022 | Marketplace / Live Commerce | Private [^21] |
 | Rappi | Growth | ~2019 | Marketplace / Delivery | Private [^1] |
@@ -312,3 +312,15 @@ No independently sourced negative or critical founder testimonials were found in
 [^52]: StartupHub.ai, "Distyl AI Secures $175M Series B, Reaches $1.8B Valuation," September 2025. Accessed July 2026. https://www.startuphub.ai/ai-news/funding-round/2025/distyl-ai-secures-175m-series-b-reaches-1-8b-valuation — Independent confirmation of the September 23, 2025 Series B with DST Global as a participant.
 
 [^53]: Sacra, "Distyl AI valuation, funding & news," accessed July 2026. https://sacra.com/c/distyl-ai/ — Third-source funding history for Distyl AI covering the $7M seed (April 2023), $20M Series A (November 2024) and $175M Series B (September 2025) with DST Global as a Series B participant.
+
+[^54]: PR Newswire, "Upgrade Raises $165 Million Equity Investment," October 16, 2025. Accessed August 2026. https://www.prnewswire.com/news-releases/upgrade-raises-165-million-equity-investment-302585628.html — Official press release announcing the $165M Series G Preferred Round led by Neuberger Berman Funds (managed by NB Alternatives Advisers) with LuminArx Capital Management LP and existing shareholders DST Global and Ribbit Capital (both increased investments). Total equity capital raised since inception: $750M. BofA Securities served as exclusive placement agent. Peter Sterling (Head of Specialty Finance at Neuberger) joined the Upgrade Board of Directors.
+
+[^55]: CNBC, "Fintech startup Upgrade valued at $7.3 billion in new funding round," October 16, 2025. Accessed August 2026. https://www.cnbc.com/2025/10/16/fintech-startup-upgrade-valued-at-7point3-billion-in-new-funding-round.html — Independent tier-1 press confirmation of the October 16, 2025 announcement of $165M Series G at $7.3B valuation with DST Global among existing shareholders that increased their positions.
+
+[^56]: Fortune, "Upgrade found a way to avoid the neobank meltdown—and just raised $165 million en route to an IPO," October 16, 2025. Accessed August 2026. https://fortune.com/2025/10/16/upgrade-avoided-the-neobank-meltdown-and-just-raised-165-million-en-route-to-an-ipo/ — Third independent confirmation of the October 16, 2025 Series G raise; Renaud Laplanche said the company is "12 to 18 months away from an IPO." First equity raise since 2021.
+
+[^57]: Upstarts Media (Alex Konrad), "Console, AI For IT Startup, Raises $22 Million From DST, Thrive," September 16, 2025. Accessed August 2026. https://www.upstartsmedia.com/p/console-ai-for-it-raises-series-a — Exclusive first press coverage of the Console $23M Series A on September 16, 2025 co-led by DST Global Partners and Thrive Capital, with participants SV Angel, Abstract Ventures, Ramp founders Eric Glyman and Karim Atiyeh, Box CEO Aaron Levie, Palo Alto Networks CEO Nikesh Arora, and Quora CEO Adam D'Angelo. Console customers include Ramp, Flock Safety, and Scale AI. Followed a $6M seed led by Thrive Capital in June 2025.
+
+[^58]: Techmeme, "Console, which uses AI agents in Slack to resolve lower-level IT support tickets, raised a $23M Series A led by DST Global Partners and Thrive Capital," September 16, 2025. Accessed August 2026. https://www.techmeme.com/250916/p48 — Independent aggregator confirmation of the September 16, 2025 announcement date, $23M Series A, and DST Global Partners + Thrive Capital co-lead.
+
+[^59]: Alex Konrad (Upstarts Media founder), X post announcing the Console Series A, September 16, 2025. Accessed August 2026. https://x.com/alexrkonrad/status/1967968588993790233 — Reporter's own social announcement of the exclusive: "$23M Series A round from DST Global and Thrive Capital. The one-year-old AI startup led by Andrei Serban counts Ramp, Flock Safety and Scale AI as customers of its agents, which handle 50%+ of internal IT tickets on their own."

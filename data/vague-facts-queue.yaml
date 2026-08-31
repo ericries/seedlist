@@ -6303,7 +6303,10 @@ vague_facts:
   line: '| LI.FI | Series A Ext. | 2025 | Cross-chain liquidity | [^27] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  note: |
+    Fact-spec sweep 2026-08-30: Verified LI.FI $29M Series A Extension announced 2025-12-11, co-led by Multicoin Capital and CoinFund (David Pakman as CoinFund deal partner). Brings total capital raised to $51.7M. LI.FI monthly volume grew 595% from $1.15B (October 2024) to $8B (October 2025); nearing 1,000 B2B partner milestone. Confirmed via 3 primary sources: LI.FI blog [^29] (2025-12), PR Newswire [^27] (2025-12-11), Pulse 2.0 [^60] (2025-12-14), CoinDesk [^61] (2025-12-11). Updated coinfund.md Portfolio row from year-only "2025" to full "2025-12-11" with enriched detail and 2 new footnotes added ([^60], [^61]).
 - profile: firms/coinfund
   profile_name: CoinFund
   company: EDGE Markets
@@ -19560,7 +19563,10 @@ vague_facts:
   line: '| LI.FI | Extended Series A ($29M, co-led) | Dec 2025 | Interoperability | [^46] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  note: |
+    Fact-spec sweep 2026-08-30: Verified Multicoin Capital co-led LI.FI's $29M Series A Extension with CoinFund, announced 2025-12-11. Total capital raised to $51.7M. Confirmed via 3 primary sources: PR Newswire [^46] (2025-12-11), LI.FI blog [^lifi-mcc1] (2025-12), CoinDesk [^lifi-mcc2] (2025-12-11). Updated multicoin-capital.md Portfolio row from month-only "Dec 2025" to exact "2025-12-11" and 2 new footnotes added.
 - profile: firms/multicoin-capital
   profile_name: Multicoin Capital
   company: Inference
@@ -173070,7 +173076,10 @@ vague_facts:
   line: '| LI.FI | Series A Ext. | 2025 | Cross-chain liquidity | [^27] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  note: |
+    Fact-spec sweep 2026-08-30: Same fix as high-priority companion entry — LI.FI $29M Series A Ext confirmed as 2025-12-11 via 3+ primary sources (LI.FI blog, PR Newswire, Pulse 2.0, CoinDesk). Portfolio row updated with exact date and enriched detail.
 - profile: firms/collaborative-fund
   profile_name: Collaborative Fund
   company: Highlight
@@ -173570,7 +173579,10 @@ vague_facts:
   line: '| Upgrade | Series G | 2025 | Fintech / Consumer Lending | Private [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  note: |
+    Fact-spec sweep 2026-08-30: Verified Upgrade $165M Series G on 2025-10-16 at $7.3B valuation, led by Neuberger Berman Funds (managed by NB Alternatives Advisers) with LuminArx Capital Management LP participating; existing shareholders DST Global and Ribbit Capital both increased their investments. Total equity capital raised: $750M. BofA Securities served as exclusive placement agent. Peter Sterling (Head of Specialty Finance at Neuberger) joined the board. Confirmed via 3 primary sources: PR Newswire company press release [^54] (2025-10-16), CNBC [^55] (2025-10-16), and Fortune [^56] (2025-10-16). Updated dst-global.md Portfolio row from year-only "2025" to full "2025-10-16" with lead/participants and 3 new footnotes added.
 - profile: firms/dst-global
   profile_name: DST Global
   company: Console
@@ -173580,7 +173592,10 @@ vague_facts:
   line: '| Console | Series A | 2025 | AI / IT Operations | Private [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-08-30
+  note: |
+    Fact-spec sweep 2026-08-30: Verified Console $23M Series A on 2025-09-16 co-led by DST Global Partners and Thrive Capital, with SV Angel, Abstract Ventures, Ramp founders Eric Glyman and Karim Atiyeh, Box CEO Aaron Levie, Palo Alto Networks CEO Nikesh Arora, and Quora CEO Adam D'Angelo participating. Console customers: Ramp, Flock Safety, Scale AI. Founder Andrei Serban (Thiel Fellow, YC alum). Confirmed via 3 independent sources: Upstarts Media/Alex Konrad exclusive [^57] (2025-09-16), Techmeme [^58] (2025-09-16), Alex Konrad X post [^59] (2025-09-16). Updated dst-global.md Portfolio row from year-only "2025" to full "2025-09-16" with lead/participants and 3 new footnotes added.
 - profile: firms/dst-global
   profile_name: DST Global
   company: Quince

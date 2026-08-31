@@ -117,7 +117,7 @@ Based on 30 verified investments with sourced data, CoinFund's actual portfolio 
 | Giza | Private (participated, $5.2M) | 2025-05-20 | AI/ML on-chain | [^51][^52] |
 | Dakota | Series A (led, $12.5M) | 2025-07-15 | Stablecoin banking | [^25][^28][^45] |
 | Veda | Series A (led, $18M) | 2025-06-23 | DeFi vault infrastructure | [^26][^55] |
-| LI.FI | Series A Ext. | 2025 | Cross-chain liquidity | [^27] |
+| LI.FI | Series A Extension ($29M; co-led by Multicoin Capital and CoinFund; brings total capital raised to $51.7M; David Pakman deal partner) | 2025-12-11 | Cross-chain liquidity | [^27][^29][^60][^61] |
 | EDGE Markets | Series A (led, $29.2M) | 2026-06-08 | Payments/prediction markets infrastructure | [^56] |
 | Trace Finance | Series A (led, $32M) | 2026-06-17 | Stablecoin banking infrastructure | [^57][^58][^59] |
 
@@ -212,3 +212,7 @@ No additional independently sourced founder testimonials about the experience of
 [^57]: BusinessWire, "Trace Finance Raises $32M Series A Led by CoinFund," June 17, 2026, accessed June 2026. https://www.businesswire.com/news/home/20260617597265/en/ — Primary press release for Trace Finance $32M Series A on June 17, 2026 led by CoinFund with Coinbase Ventures, Haun Ventures, Jump Crypto, Valor Capital, Paxos, HOF Capital, Chainlink Labs, SNZ Capital, and angels Sean Neville, Anatoly Yakovenko, Bam Azizi, Ricardo Villela Marino.
 [^58]: News.Bitcoin.com, "Trace Finance Takes $32M Series A to Scale the Bank Layer Stablecoins Are Missing," June 2026. https://news.bitcoin.com/trace-finance-takes-32m-series-a-to-scale-the-bank-layer-stablecoins-are-missing/ — Independent confirmation of CoinFund lead, $32M Series A, June 17, 2026.
 [^59]: The SaaS News, "Trace Finance Raises $32M Series A," June 2026. https://www.thesaasnews.com/news/trace-finance-raises-32m-series-a/ — Independent confirmation listing all participants matching primary press release.
+
+[^60]: Pulse 2.0, "LI.FI: $29 Million Series A Extension Raised To Expand Cross-Chain Liquidity Infrastructure," December 14, 2025. Accessed August 2026. https://pulse2.com/li-fi-protocol-29-million-series-a-extension/ — Independent tech press confirmation of $29M Series A extension co-led by Multicoin Capital and CoinFund; total capital raised to $51.7M; LI.FI's monthly volume grew 595% from $1.15B in October 2024 to $8B in October 2025; nearing 1,000 B2B partner milestone.
+
+[^61]: CoinDesk, "Cross-Chain Liquidity Protocol LI.FI Raises $29M in Series A Extension," December 11, 2025. Accessed August 2026. https://www.coindesk.com/business/2025/12/11/cross-chain-liquidity-protocol-li-fi-raises-usd29m-in-series-a-extension — Tier-1 crypto press confirmation of the December 11, 2025 announcement of $29M Series A extension co-led by Multicoin and CoinFund.

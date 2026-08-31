@@ -117,7 +117,7 @@ Based on 152 total investments tracked by CryptoRank [^17], the following repres
 | Geodnet | Strategic ($8M, led) | Feb 2025 | DePIN | [^43] |
 | Gradient Network | Seed ($10M, co-led) | Jun 2025 | DePIN / AI | [^44] |
 | P2P.me | Seed ($2M) | Apr 2025 | Payments | [^45] |
-| LI.FI | Extended Series A ($29M, co-led) | Dec 2025 | Interoperability | [^46] |
+| LI.FI | Extended Series A ($29M; co-led with CoinFund; brings total capital raised to $51.7M) | 2025-12-11 | Interoperability | [^46][^lifi-mcc1][^lifi-mcc2] |
 | Inference | Seed ($11.8M, co-led) | Oct 2025 | AI / Crypto | [^47] |
 | Novig | Series B ($75M) | Feb 2026 | Prediction Markets | [^48] |
 | Fun | Series A ($72M, co-led) | May 2026 | Crypto Payments Infrastructure | [^52] |
@@ -205,3 +205,7 @@ No additional independently sourced founder testimonials found beyond the Solana
 [^50]: GlobeNewsWire, "zkMe Secures $4M From Multicoin Capital To Build FATF- and MiCA-Compliant Identity Solution For Web3 Applications," August 20, 2024. https://www.globenewswire.com/news-release/2024/08/20/2932949/0/en/zkMe-Secures-4M-From-Multicoin-Capital-To-Build-FATF-and-MiCA-Compliant-Identity-Solution-For-Web3-Applications.html
 [^51]: The Block, "Execution platform Mevvy raises $2.8 million in seed round led by Multicoin Capital," January 2025. https://www.theblock.co/post/337739/execution-platform-mevvy-raises-2-8-million-in-seed-round-led-by-multicoin-capital
 [^52]: BusinessWire, "Global Payments Company Fun Raises $72 Million in Series A to Power Next-Gen Financial Services," May 1, 2026, accessed May 2026. https://www.businesswire.com/news/home/20260501170322/en/Global-Payments-Company-Fun-Raises-$72-Million-in-Series-A-to-Power-Next-Gen-Financial-Services
+
+[^lifi-mcc1]: LI.FI blog, "LI.FI Secures $29M in Series A Extension Led by Multicoin and CoinFund," December 2025. Accessed August 2026. https://li.fi/knowledge-hub/li-fi-secures-usd29m-in-series-a-extension-led-by-multicoin-and-coinfund-to — Company-side primary announcement of the December 11, 2025 $29M Series A extension co-led by Multicoin Capital and CoinFund; total capital raised to $51.7M; funds earmarked for AI-agent and stablecoin infrastructure plus Q1 2026 launch of an open intent and solver marketplace.
+
+[^lifi-mcc2]: CoinDesk, "Cross-Chain Liquidity Protocol LI.FI Raises $29M in Series A Extension," December 11, 2025. Accessed August 2026. https://www.coindesk.com/business/2025/12/11/cross-chain-liquidity-protocol-li-fi-raises-usd29m-in-series-a-extension — Tier-1 crypto press confirmation of the December 11, 2025 $29M Series A extension co-led by Multicoin and CoinFund.
