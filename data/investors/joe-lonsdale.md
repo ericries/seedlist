@@ -10,9 +10,9 @@ stage_focus: [seed, series-a, series-b]
 sector_focus: [defense, healthcare, logistics, enterprise, ai, fintech, life-sciences, infrastructure]
 check_size: "$500K-$10M"
 last_verified_investment:
-  date: 2026-07-16
-  company: "Sable"
-  round: "Series A"
+  date: 2026-08-17
+  company: "Terra Industries"
+  round: "Seed extension"
 social:
   twitter: "@JTLonsdale"
   linkedin: "linkedin.com/in/jtlonsdale"
@@ -89,8 +89,9 @@ Based on 8VC's publicly identified portfolio companies and Lonsdale's personal i
 | Resilience Bio | ~2020 | Co-founded | Biotech/Manufacturing | Active | [^2] |
 | eMed | 2026-03-26 | Series A | Healthcare/AI Telehealth | Active | [^11][^12][^13] |
 | Sable | 2026-07-16 | Series A ($45M, 8VC + Sequoia co-led; board seat) | AI / Sales Enablement | Active | [^14] |
+| Terra Industries | 2026-08-17 | Seed extension ($18M via 8VC; total seed $52M) | Defense Tech / Drones / Africa | Active | [^15][^16][^17] |
 
-*This table represents approximately 22 of Lonsdale's estimated 80+ combined personal angel and 8VC investments. Many entries use approximate years based on company founding dates or earliest known 8VC involvement, marked with ~.*
+*This table represents approximately 23 of Lonsdale's estimated 80+ combined personal angel and 8VC investments. Many entries use approximate years based on company founding dates or earliest known 8VC involvement, marked with ~.*
 
 ## In Their Own Words
 
@@ -146,3 +147,9 @@ One testimonial from an associate states: "Joe is the most creative and among th
 [^12]: "Tom Brady-backed eMed rides GLP-1 success to a $200M Series A at a $2B valuation," Refresh Miami, March 26, 2026. https://refreshmiami.com/news/tom-brady-backed-emed-rides-glp-1-success-to-a-200m-series-a-at-a-2b-valuation/
 [^13]: "Tom Brady-backed telehealth AI startup eMed raises $200M, tops $2B valuation," MobiHealthNews, March 30, 2026. https://www.mobihealthnews.com/news/tom-brady-backed-telehealth-ai-startup-emed-raises-200m-tops-2b-valuation
 [^14]: "Sable Raises $45M to Build the First AI Employee that can Click, See, and Explain," ACCESS Newswire (via Globe and Mail), July 16, 2026. https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/3321857/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain/
+
+[^15]: TechCrunch, "Terra Industries closes $52M seed round to build defense infrastructure for the Global South," August 17, 2026. Accessed August 2026. https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/ — Primary press confirmation that 8VC (Joe Lonsdale's firm) led Terra Industries' $18M seed extension, bringing total seed to $52M; Silent Ventures and Nova Global participated.
+
+[^16]: SiliconANGLE, "African defense tech startup Terra Industries raises $52M," August 17, 2026. Accessed August 2026. https://siliconangle.com/2026/08/17/african-defense-tech-startup-terra-industries-raises-52m/ — Independent tier-1 tech press confirmation of the 8VC-led $18M seed extension for Terra Industries.
+
+[^17]: Terra Industries newsroom, "Terra Industries Extends Seed Round to $52M and Opens London Office," August 2026. Accessed August 2026. https://www.terraindustries.co/newsroom/funding-52m-london — Company's own primary announcement confirming the $52M total seed and 8VC as lead of the $18M extension.

@@ -5152,6 +5152,9 @@ priority:
   type: firm
   reason: appeared in Form Energy Series G $750M (2026-08-12)
   added: 2026-08-31
+  status: resolved
+  resolved: 2026-09-01
+  resolution_note: 'Added Form Energy Series G ($750M led by T. Rowe Price, 2026-08-12) to sequoia-capital.md Portfolio table as a new participating investor (Sequoia named as new investor per Form Energy press release). Cited via 3 primary sources: [^formg1] Form Energy press release (company primary), [^formg2] TechCrunch (tier-1 tech press), [^formg3] Boston Globe (regional press cross-confirmation). Table count updated 45 -> 46. Round already verified in data/startups/form-energy.md as confirmed by prior Fact Specificity resolution 2026-08-31.'
 - slug: breakthrough-energy-ventures
   type: firm
   reason: appeared in Form Energy Series G $750M (2026-08-12)
@@ -5168,10 +5171,16 @@ priority:
   type: firm
   reason: appeared in Terra Industries Seed extension $18M ($52M total, 2026-08-17)
   added: 2026-08-31
+  status: resolved
+  resolved: 2026-09-01
+  resolution_note: 'Added Terra Industries Seed extension ($18M led by 8VC, bringing total seed to $52M, 2026-08-17) to 8vc.md Portfolio table. Silent Ventures and Nova Global participated. Cited via 3 primary sources: [^49] TechCrunch (primary), [^50] SiliconANGLE (tier-1 independent), [^51] Terra Industries newsroom (company primary). Round already verified in data/startups/terra-industries.md as confirmed by prior Fact Specificity resolution 2026-08-31.'
 - slug: joe-lonsdale
   type: individual
   reason: 8VC-led Terra Industries Seed extension (2026-08-17)
   added: 2026-08-31
+  status: resolved
+  resolved: 2026-09-01
+  resolution_note: 'Added Terra Industries Seed extension row to joe-lonsdale.md Portfolio table (2026-08-17; 8VC led $18M extension, $52M total seed). Updated last_verified_investment from Sable 2026-07-16 to Terra Industries 2026-08-17. Table count updated 22 -> 23. Cited via 3 primary sources: [^15] TechCrunch, [^16] SiliconANGLE, [^17] Terra Industries newsroom. Round already verified in data/startups/terra-industries.md as confirmed by prior Fact Specificity resolution 2026-08-31.'
 - slug: rhapsody-venture-partners
   type: firm
   reason: appeared in Relativity Networks Seed $22M (2026-08-19)

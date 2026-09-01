@@ -122,6 +122,7 @@ Based on 8VC's verified portfolio and public data:
 | Ollama | Series B (participated, $65M; Theory Ventures led; Benchmark also participated) | 2026-07-09 | AI / Developer Tools / Open Source Models | Private [^40][^41] |
 | Sable | Series A ($45M, co-led with Sequoia; Joe Lonsdale joined board) | 2026-07-16 | AI / Sales Enablement | Private [^42][^42b][^42c] |
 | Sila | Late-stage private ($300M; Atreides Management & Sutter Hill Ventures co-led; Bessemer, Matrix Partners, T. Rowe Price participated) | 2026-07-21 | Battery Materials / Cleantech | Private [^43][^44][^48] |
+| Terra Industries | Seed extension (led, $18M; total seed to $52M; Silent Ventures, Nova Global participated) | 2026-08-17 | Defense Tech / Drones / Africa | Private [^49][^50][^51] |
 
 *This table represents a fraction of 8VC's 360 total investments [^7].*
 
@@ -224,3 +225,9 @@ No independently sourced founder testimonials found.
 [^47]: FinSMEs, "OpenGov Raises $15M in Series B Funding," May 2014. Accessed July 2026. https://www.finsmes.com/2014/05/opengov-raises-15m-in-series-b-funding.html — Confirms OpenGov founded 2012 by Zachary Bookman, Joe Lonsdale, Nate Levine, and Dakin Sloss; $15M Series B in May 2014 led by Andreessen Horowitz with Formation 8 (8VC predecessor) and Thrive Capital participating.
 
 [^48]: Sila Nanotechnologies (company press release), "Sila Secures $300 Million in Private Funding to Ramp Gigascale Anode Manufacturing and Strengthen America's Technology Sovereignty," July 21, 2026. Accessed July 30, 2026. https://www.silanano.com/press/press-releases/sila-secures-300-million-in-private-funding-to-ramp-gigascale-anode-manufacturing-and-strengthen-americas-technology-sovereignty — Primary company source confirming $300M private round led by Atreides Management and Sutter Hill Ventures with participation from 8VC, Bessemer Venture Partners, Matrix Partners, and T. Rowe Price Associates. Announced July 21, 2026.
+
+[^49]: TechCrunch, "Terra Industries closes $52M seed round to build defense infrastructure for the Global South," August 17, 2026. Accessed August 2026. https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/ — Primary press confirmation that 8VC led Terra Industries' $18M seed extension on August 17, 2026, bringing total seed raised to $52M. Silent Ventures and Nova Global participated. Company founded in 2024 by Nathan Nwachuku and Maxwell Maduka; Nigeria/Ghana-based defense drones and unmanned ground vehicles.
+
+[^50]: SiliconANGLE, "African defense tech startup Terra Industries raises $52M," August 17, 2026. Accessed August 2026. https://siliconangle.com/2026/08/17/african-defense-tech-startup-terra-industries-raises-52m/ — Independent tier-1 tech press confirmation of 8VC-led $18M seed extension, $52M total seed, and 8VC/Silent Ventures/Nova Global participation.
+
+[^51]: Terra Industries newsroom, "Terra Industries Extends Seed Round to $52M and Opens London Office," August 2026. Accessed August 2026. https://www.terraindustries.co/newsroom/funding-52m-london — Company's own primary announcement confirming the $52M total seed, $18M extension, 8VC as lead investor for the extension, and London office opening.
