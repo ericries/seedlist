@@ -183,7 +183,7 @@ The following table includes companies identified from Greylock's website portfo
 | Crew | Seed | ~2023 (founded) | SaaS | Private [^8] |
 | Cresta | Series A | ~2017 (founded) | AI / SaaS | Private [^8] |
 | Cribl | Series A | ~2017 (founded) | Cybersecurity | Private [^8] |
-| Cylake | Seed | 2026 | Cybersecurity | Private [^8] |
+| Cylake | Seed (led, $45M; Asheem Chandna as Greylock lead partner; additional experienced technology investors participated; company launched from stealth co-founded by Nir Zuk (also Palo Alto Networks founder), Wilson Xu, and Ehud "Udi" Shamir) | 2026-03-05 | Cybersecurity | Private [^8][^cylake1][^cylake2][^cylake3] |
 | Dazz | Series A | ~2019 (founded) | Cybersecurity | Acquired by Wiz (2024) [^2][^8] |
 | Delphix | Series A | ~2008 (founded) | Infrastructure | Private [^8] |
 | Demisto | Seed | ~2015 (founded) | Cybersecurity | Acquired by Palo Alto Networks (2019) [^8] |
@@ -399,3 +399,9 @@ Citron was transparent with his investors about metrics and traction of their ga
 [^oak2]: "Oak Raises $60M in Seed Funding to Build the AI-Native Identity Operating System," PR Newswire, July 15, 2026. Accessed July 2026. https://www.prnewswire.com/il/news-releases/oak-raises-60m-in-seed-funding-to-build-the-ai-native-identity-operating-system-302826349.html — Primary press wire confirmation of round size and co-leads.
 
 [^oak3]: "Israeli AI cybersecurity co Oak raises $60m," Globes, July 15, 2026. Accessed July 2026. https://en.globes.co.il/en/article-israeli-ai-cybersecurity-co-oak-raises-60m-1001549415 — Independent Israeli-press confirmation of the round.
+
+[^cylake1]: GlobeNewswire (via Yahoo Finance), "Cylake Launches to Bring Complete, AI-Native, Data-Driven Cybersecurity to Customers that Require Total Data Sovereignty," March 5, 2026. Accessed August 2026. https://finance.yahoo.com/news/cylake-launches-bring-complete-ai-140000198.html — Primary launch announcement confirming $45M seed round led by Greylock Partners with Asheem Chandna as the lead partner. Co-founders: Nir Zuk (founder of Palo Alto Networks), Wilson Xu, Ehud (Udi) Shamir. Company launched from stealth to build AI-native, on-premises cybersecurity for organizations that cannot use public cloud. Contains direct quotes from Nir Zuk (CEO) and Asheem Chandna (Greylock Partner).
+
+[^cylake2]: FinTech Global, "Cybersecurity firm Cylake secures $45m seed round," March 6, 2026. Accessed August 2026. https://fintech.global/2026/03/06/cybersecurity-firm-cylake-secures-45m-seed-round/ — Independent tech press confirmation of $45M seed led by Greylock Partners with additional technology investors participating.
+
+[^cylake3]: The SaaS News, "Cylake Raises $45 Million Seed Round," March 2026. Accessed August 2026. https://www.thesaasnews.com/news/cylake-raises-45-million-seed-round — Third independent confirmation of $45M seed led by Greylock.

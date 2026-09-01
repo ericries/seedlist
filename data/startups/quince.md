@@ -71,11 +71,11 @@ Quince is a manufacturer-to-consumer e-commerce company that sells luxury-qualit
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-03-11 | Series E | $500M | Iconiq | DST Global, Baillie Gifford, Basis Set Ventures, Notable Capital, Wellington Management, WndrCo [^1][^2] |
+| 2026-03-11 | Series E | $500M | ICONIQ | DST Global, Baillie Gifford, Basis Set Ventures, Notable Capital, Wellington Management, WndrCo, MarcyPen Capital Partners [^1][^2][^3] |
 
 ## What Investors Say
 
-No independently sourced investor quotes found.
+Yoonkee Sull, General Partner at ICONIQ: "Quince has built hyperefficient infrastructure that enables it to deliver unmatched value to consumers at scale." [^3]
 
 ## What Founders Say
 
@@ -84,4 +84,5 @@ No independently sourced founder testimonials found.
 ## Sources
 
 [^1]: "Quince raises $500M Series E at $10.1B valuation," TechCrunch, March 11, 2026. https://techcrunch.com/2026/03/11/quince-series-e/
-[^2]: "Quince Raises $500 Million Series E," PR Newswire, March 11, 2026. https://www.prnewswire.com/news-releases/quince-series-e/
+[^2]: PR Newswire, "Quince Raises $500M Series E, Resulting in $10.1B Valuation, To Accelerate the Manufacturer-to-Consumer Platform," March 11, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/quince-raises-500m-series-e-resulting-in-10-1b-valuation-to-accelerate-the-manufacturer-to-consumer-platform-302710298.html
+[^3]: Pulse 2.0, "Quince: $500 Million At $10.1 Billion Valuation Raised For Manufacturer-To-Consumer Retail Platform," March 11, 2026. Accessed August 2026. https://pulse2.com/quince-500-million-at-10-1-billion-valuation-raised-for-manufacturer-to-consumer-retail-platform/

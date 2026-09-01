@@ -173647,7 +173647,8 @@ vague_facts:
   line: '| Quince | Series E | 2026 | E-commerce / Consumer | Private [^6][^24] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-31: Tightened DST Global Quince Series E row from ''Series E | 2026'' to full detail: participated in $500M Series E at $10.1B post-money valuation on 2026-03-11 (ICONIQ led; Basis Set Ventures, Wellington Management, WndrCo, MarcyPen Capital Partners, Baillie Gifford, Notable Capital co-participated). Verified via 3 primary sources: PR Newswire [^64] (2026-03-11 dateline), Pulse 2.0 [^65] (2026-03-11 with Yoonkee Sull ICONIQ quote), plus existing TechCrunch [^24]. Also added Series E row to iconiq-growth.md (they led — 2 new footnotes), added Series E follow-on row to notable-capital.md (they participated — 2 new footnotes), and updated quince.md startup profile: fixed fabricated PR Newswire URL [^2], added Pulse 2.0 as [^3], added Yoonkee Sull investor quote, added MarcyPen to participant list. Total: 4 profile updates + 6 new footnotes.'
 - profile: firms/emergence-capital
   profile_name: Emergence Capital
   company: Together AI
@@ -174115,7 +174116,8 @@ vague_facts:
   line: '| Cylake | Seed | 2026 | Cybersecurity | Private [^8] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-08-31: Tightened Greylock Cylake row from ''Seed | 2026'' to full detail: led $45M seed with Asheem Chandna as investing partner on 2026-03-05 (co-founders Nir Zuk of Palo Alto Networks, Wilson Xu, Ehud (Udi) Shamir; additional experienced technology investors participated but not named). Verified via 3 primary sources: Yahoo Finance/GlobeNewswire primary launch release [^cylake1] (2026-03-05 with Asheem Chandna and Nir Zuk quotes), FinTech Global [^cylake2] (2026-03-06), and The SaaS News [^cylake3]. 3 new footnotes added to greylock.md. Also CREATED new cylake.md startup profile (published) with 3 primary sources, both Chandna and Zuk quotes verbatim, and firms frontmatter linking to greylock.'
 - profile: firms/gv
   profile_name: GV (Google Ventures)
   company: Synthesia

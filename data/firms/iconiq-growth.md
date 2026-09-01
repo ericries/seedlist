@@ -119,6 +119,7 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 | Anthropic | Series G (co-lead) | 2026-02-12 | AI/Foundation Models | Active | [^10] [^3] |
 | Databricks | Series J ($10B, participated) | 2024-12-17 | AI/Data Platform | Active | [^3][^42] |
 | Quince | Series D ($200M, lead, $4.5B valuation) | 2025-07-29 | Consumer/E-commerce | Active | [^3] [^40] |
+| Quince | Series E ($500M, lead, $10.1B valuation; Basis Set Ventures, Wellington Management, WndrCo, MarcyPen Capital Partners, Baillie Gifford, Notable Capital, DST Global also participated; Yoonkee Sull was investing partner) | 2026-03-11 | Consumer/E-commerce | Active | [^quince-e1] [^quince-e2] |
 | Lead Bank | Series B | 2025 | Fintech | Active | [^10] |
 | Legora | Series B | 2025 | AI/Legal | Active | [^10] |
 | Nevis | Series A | 2025 | AI/Fintech | Active | [^10] |
@@ -294,3 +295,7 @@ The following table represents a subset of ICONIQ Growth's 140+ portfolio compan
 [^k2space2]: SpaceNews, "K2 Space raises $500 million for commercial, defense satellite expansion," July 30, 2026. Accessed July 31, 2026. https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/
 
 [^k2space3]: Tech Startups, "Venture Capital & Startup Funding Roundup, July 30, 2026," July 30, 2026. Accessed July 31, 2026. https://techstartups.com/2026/07/30/venture-capital-startup-funding-roundup-july-30-2026-bessemer-venture-partners-eli-lilly-co-g2-venture-partners-iconiq-growth-kleiner-perkins-lightspeed-more/
+
+[^quince-e1]: PR Newswire, "Quince Raises $500M Series E, Resulting in $10.1B Valuation, To Accelerate the Manufacturer-to-Consumer Platform," March 11, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/quince-raises-500m-series-e-resulting-in-10-1b-valuation-to-accelerate-the-manufacturer-to-consumer-platform-302710298.html — Official press release confirming $500M Series E at $10.1B post-money valuation led by ICONIQ with participation from Basis Set Ventures, Wellington Management, WndrCo, MarcyPen Capital Partners, Baillie Gifford, Notable Capital, and DST Global. Yoonkee Sull (General Partner at ICONIQ) provided investor quote.
+
+[^quince-e2]: Pulse 2.0, "Quince: $500 Million At $10.1 Billion Valuation Raised For Manufacturer-To-Consumer Retail Platform," March 11, 2026. Accessed August 2026. https://pulse2.com/quince-500-million-at-10-1-billion-valuation-raised-for-manufacturer-to-consumer-retail-platform/ — Independent tech press confirming $500M Series E at $10.1B post-money valuation led by ICONIQ with participation from Basis Set Ventures, Wellington Management, WndrCo, Marcy Venture Partners, Baillie Gifford, Notable Capital, and DST Global. Investor quote from Yoonkee Sull.

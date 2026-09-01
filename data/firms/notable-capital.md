@@ -87,6 +87,7 @@ Based on Notable Capital's (and its predecessor GGV Capital's) portfolio, the fi
 | Handshake | Series A | 2017 | Enterprise/HR | Active | [^3] |
 | Anthropic | Growth | 2023 | AI | Active | [^8] |
 | Quince | Series A | 2020 | Consumer/E-commerce | Active | [^3] |
+| Quince | Series E (participated; $500M at $10.1B post-money valuation; ICONIQ led; DST Global, Basis Set Ventures, Wellington Management, WndrCo, MarcyPen Capital Partners, Baillie Gifford also participated) | 2026-03-11 | Consumer/E-commerce | Active | [^quince-e1] [^quince-e2] |
 | Stori | Series A | 2019 | Fintech | Active | [^3] |
 | Beacon Security | Seed | 2026 | Cybersecurity/AI | Active | [^11] |
 | Act Security | Series A (led) | 2026-07-28 | Cybersecurity/AI/Cloud | Active | [^12] |
@@ -121,3 +122,7 @@ No additional independently sourced founder testimonials were found during this 
 [^10]: Crunchbase, "GGV Capital" profile, accessed March 2026. https://www.crunchbase.com/organization/ggv-capital
 [^11]: "Beacon Security Raises $13 Million in Seed Funding to Give AI Agents a Trustworthy Data Foundation for Cyber Defense," PR Newswire, July 16, 2026. Accessed July 19, 2026. https://www.prnewswire.com/news-releases/beacon-security-raises-13-million-in-seed-funding-to-give-ai-agents-a-trustworthy-data-foundation-for-cyber-defense-302826450.html
 [^12]: "Act Security raises $60M to take action against agentic access sprawl at the infrastructure layer," SiliconANGLE, July 28, 2026. Accessed July 2026. https://siliconangle.com/2026/07/28/act-security-raises-60m-take-action-agentic-access-sprawl-infrastructure-layer/
+
+[^quince-e1]: PR Newswire, "Quince Raises $500M Series E, Resulting in $10.1B Valuation, To Accelerate the Manufacturer-to-Consumer Platform," March 11, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/quince-raises-500m-series-e-resulting-in-10-1b-valuation-to-accelerate-the-manufacturer-to-consumer-platform-302710298.html — Official press release confirming Notable Capital as a Series E participant alongside ICONIQ (lead), DST Global, Basis Set Ventures, Wellington Management, WndrCo, MarcyPen Capital Partners, and Baillie Gifford at $10.1B post-money valuation.
+
+[^quince-e2]: Pulse 2.0, "Quince: $500 Million At $10.1 Billion Valuation Raised For Manufacturer-To-Consumer Retail Platform," March 11, 2026. Accessed August 2026. https://pulse2.com/quince-500-million-at-10-1-billion-valuation-raised-for-manufacturer-to-consumer-retail-platform/ — Independent tech press confirming Notable Capital's participation in the $500M Series E.
