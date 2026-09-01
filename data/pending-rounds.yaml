@@ -29,6 +29,43 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'Sector Snapshot: Proptech Funding Holds Up, But Investors Are Placing Different
+    Bets'
+  url: https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026/
+  source: crunchbase
+  date_found: '2026-09-01'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Zurich-based xorlab secures €5 million to scale sovereign email security
+    across Europe
+  url: https://www.eu-startups.com/2026/09/zurich-based-xorlab-secures-e5-million-to-scale-sovereign-email-security-across-europe/
+  source: eu-startups
+  date_found: '2026-09-01'
+  parsed_company: Zurich-based xorlab
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Drone attack at Leipzig/Halle Airport underscores threat as INLEAP Photonics
+    raises €20 million for drone defence
+  url: https://www.eu-startups.com/2026/09/drone-attack-at-leipzig-halle-airport-underscores-threat-as-inleap-photonics-raises-e20-million-for-drone-defence/
+  source: eu-startups
+  date_found: '2026-09-01'
+  parsed_company: Drone attack at Leipzig/Halle Airport underscores threat as INLEAP
+    Photonics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: After securing €158.9 million ESA award, PLD Space adds €108 million to Series
+    C, bringing round to €288 million
+  url: https://www.eu-startups.com/2026/09/after-securing-e158-9-million-esa-award-pld-space-adds-e108-million-to-series-c-bringing-round-to-e288-million/
+  source: eu-startups
+  date_found: '2026-09-01'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
 - title: Finland’s S-Transistors raises €2.6 million to build the world’s first quantum
     motherboard
   url: https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/
@@ -839,22 +876,4 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Oslo-based Visoid raises €2.1 million to scale its AI visualisation platform
-    for architects
-  url: https://www.eu-startups.com/2026/08/oslo-based-visoid-raises-e2-1-million-to-scale-its-ai-visualisation-platform-for-architects/
-  source: eu-startups
-  date_found: '2026-08-10'
-  parsed_company: Oslo-based Visoid
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: UK air defence company Cambridge Aerospace raises €259.7 million Series C
-    at €2.94 billion valuation
-  url: https://www.eu-startups.com/2026/08/uk-air-defence-company-cambridge-aerospace-raises-e259-7-million-series-c-at-e2-94-billion-valuation/
-  source: eu-startups
-  date_found: '2026-08-10'
-  parsed_company: UK air defence company Cambridge Aerospace
-  parsed_amount: null
-  parsed_round: Series C
   status: pending
