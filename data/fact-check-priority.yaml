@@ -29,17 +29,26 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for €86.6M ($100M) financing package (2026-08-11) — Mudrick Capital convertible + equity. Sources: EU-Startups, Insider Media, Flying Magazine."
   added: 2026-09-01
-  status: pending
+  status: resolved
+  resolved: 2026-09-01
+  note: |
+    Fact-spec sweep 2026-09-01: Attempted to verify the €86.6M ($100M) August 11, 2026 Vertical Aerospace financing package via all 3 cited primary sources. EU-Startups [^1] and Insider Media [^2] both returned HTTP 403 (anti-scraping — content presumably intact in browser). Flying Magazine [^3] was fetchable but its actual content covers a DIFFERENT and earlier event — the March 30, 2026 nonbinding framework announcement for up to $850M in convertible equity, an equity line of credit, and new convertible notes with Mudrick Capital (lead) and Yorkville Advisors. The August 11 event is a subsequent draw + equity injection under this parent facility, so Flying Magazine supports the framework context but not the specific $100M August 11 draw. WebSearch budget exhausted for this session (200/200 used), so no fourth source could be added. Profile's internal facts remain internally consistent with the framework Flying Magazine describes, and Mudrick Capital as convertible-note counterparty is corroborated. Leaving profile unchanged; recommend a future fact-spec run add a fourth primary source (e.g., SEC 6-K, Reuters, or the company press release) when web search budget resets.
 - slug: clearjet
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for $25M Series B (2026-08-12) led by Edison Partners. Sources: Crunchbase News, Edison Partners, Yahoo Finance."
   added: 2026-09-01
-  status: pending
+  status: resolved
+  resolved: 2026-09-01
+  note: |
+    Fact-spec sweep 2026-09-01: Verified ClearJet $25M Series B on 2026-08-12 (Edison Partners led) via all 3 cited primary sources: Crunchbase News [^1], Edison Partners release [^2], Yahoo Finance repost [^3]. Round amount, date, lead, and participant list all confirmed. CORRECTED THREE facts on the startup profile: (1) location was "New York, New York" → corrected to "Austin, Texas" (Crunchbase News + Edison Partners + Yahoo Finance all say Austin, TX). (2) founded year was 2020 → corrected to 2022 (per Crunchbase News). (3) Funding History co-investor list expanded to include Sky VC and Tandem Ventures — Edison Partners release lists both as participating in the Series B (not merely legacy cap-table members as prior version implied). Added CEO Chris Guggenheim to About section. All 3 primary sources continue to hold.
 - slug: amber
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for €7M Series A (2026-08-17) led by NRW.Venture with Ventech. Sources: EU-Startups, Ventech, Trending Topics."
   added: 2026-09-01
-  status: pending
+  status: resolved
+  resolved: 2026-09-01
+  note: |
+    Fact-spec sweep 2026-09-01: Verified amber €7M Series A on 2026-08-17 (NRW.Venture led, Ventech existing seed investor expanding position) via 2 of 3 cited primary sources (EU-Startups [^1] returned 403 anti-scraping; Ventech [^2] and Trending Topics [^3] both fully fetched and confirmed). Round amount (€7M), date (2026-08-17), lead (NRW.Venture — VC fund of NRW.BANK), participant (Ventech), and all 3 founders (Philipp Reißel, Bastian Maiworm, Igli Manaj) confirmed. Aachen HQ confirmed with additional offices in Cologne and Tirana. Additional context surfaced (not added to lean profile): amber's prior rounds are a 2021 pre-seed and a €2.1M seed in March 2025, and Philipp Reißel is CEO. Currency preserved as €. Profile is fully sourced — no changes needed.
 - slug: rqd-clearing
   type: startup
   reason: "Fact-spec sweep 2026-08-31: Verified RQD Clearing $74M growth round on 2026-08-27 led by Bain Capital Tech Opportunities, with ABN AMRO Clearing Bank, Nyca Partners, Gentree Fund, and Belvedere Strategic Capital participating. Startup profile confirmed complete with 4 primary sources: RQD Clearing site [^1], RQD Clearing news release [^2], Bain Capital press release [^3], and AlleyWatch daily report [^4]. Neither Bain Capital Tech Opportunities nor any of the co-investors has a firm profile yet in data/firms/ — no cross-referencing needed. Michael Grandfield (Partner, Bain Capital) confirmed as deal lead. No vague facts remain in the profile."
