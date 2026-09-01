@@ -5170,10 +5170,18 @@ priority:
   type: startup
   reason: new profile from round monitoring (Growth $100M Prosus, 2026-08-19)
   added: 2026-08-31
+  status: resolved
+  resolved: 2026-09-01
+  resolution_note: |
+    Fact-spec sweep 2026-09-01: Verified Navi $100M growth round from Prosus (announced 2026-08-19; ~$1.3B valuation; first external institutional capital for eight-year-old company). Primary sources triangulated: (1) TechCrunch [^1] re-fetched — confirms date August 19, 2026, exact amount $100M, lead Prosus, $1.3B valuation, first outside institutional capital, and pre-IPO context (Navi preparing for a ~₹30B / $314M IPO after withdrawing a $440M 2022 filing); (2) Crowdfund Insider [^2] — independent secondary confirmation of $100M Prosus investment; (3) StartupTalky [^3] — third independent aggregator confirmation of $100M Prosus investment. All 3 existing citations hold and are independent. Sachin Bansal is confirmed founder & CEO. Prosus does not yet have a firm profile in data/firms/ (already queued at data/queue.yaml line 35625) so per CLAUDE.md validated-slug rule the firms: frontmatter array remains empty — the Funding History table uses the plain-text "Prosus" name instead. Profile is fully sourced — no changes needed.
 - slug: relativity-networks
   type: startup
   reason: new profile from round monitoring (Seed $22M SAFE, 2026-08-19)
   added: 2026-08-31
+  status: resolved
+  resolved: 2026-09-01
+  resolution_note: |
+    Fact-spec sweep 2026-09-01: Verified Relativity Networks $22M SAFE seed round (announced 2026-08-19) with Rhapsody Venture Partners, Bell Ventures, and Faster Than Glass participating (no formal lead disclosed), plus a $40M follow-on order from an unnamed hyperscaler disclosed simultaneously. All 3 existing primary sources hold and are independent: TechCrunch [^1] (tier-1 tech press), Data Center Dynamics [^2] (independent trade press), PR Newswire [^3] (company syndication). Cross-referenced by working the Rhapsody Venture Partners firm profile update (see rhapsody-venture-partners resolution below) — same 3 sources used to add the Relativity Networks portfolio row on the Rhapsody profile. Round more than doubled the company's original target. Startup profile fully sourced — no changes needed to the startup profile itself.
 - slug: sequoia-capital
   type: firm
   reason: appeared in Form Energy Series G $750M (2026-08-12)
@@ -5193,7 +5201,10 @@ priority:
   type: firm
   reason: appeared in Form Energy Series G $750M (2026-08-12) and Stability AI Series B $76M (2026-08-25)
   added: 2026-08-31
-- slug: 8vc
+  status: resolved
+  resolved: 2026-09-01
+  resolution_note: |
+    Fact-spec sweep 2026-09-01: Added Form Energy Series G row to coatue-management.md Portfolio table with 3 new primary source citations ([^78] Form Energy press release, [^79] TechCrunch, [^80] Boston Globe). CRITICAL CORRECTION: initial portfolio-row wording said Coatue was a "new investor per Form Energy press release," but WebFetch of the Form Energy release [^78] shows Coatue is explicitly listed among "existing investors including Prelude Ventures, Engine Ventures, TPG Rise Climate, Capricorn's Technology Impact Funds, Breakthrough Energy Ventures, Dustin Moskovitz and Cari Tuna, Gigascale Capital, Coatue, Energy Impact Partners, NGP, GE Vernova, Blindspot Ventures, and M&G Catalyst Fund" — the new investors are Sequoia Capital, Janus Henderson, Franklin Templeton, and PEAK6 Investments. Corrected the row wording and expanded [^78] footnote with the exact verbatim quote from the press release. Table count updated from 37 to 38 companies. Stability AI participation is already documented in the existing profile (row line 171 "Stability AI | Seed (Co-Led) | 2022 | AI / Generative | Private [^25]") — the August 2026 Series B $76M was separately verified in data/startups/stability-ai.md but Coatue's participation in that specific Series B was NOT independently confirmed by primary sources in this sweep (Variety article now paywalled, Dataconomy 403) so no new Portfolio row was added for it. Prior fact-spec resolution 2026-08-31 for stability-ai already documented that Coatue's Series B participation could not be re-verified due to source-access issues.
   type: firm
   reason: appeared in Terra Industries Seed extension $18M ($52M total, 2026-08-17)
   added: 2026-08-31
@@ -5211,7 +5222,10 @@ priority:
   type: firm
   reason: appeared in Relativity Networks Seed $22M (2026-08-19)
   added: 2026-08-31
-- slug: blue-voice
+  status: resolved
+  resolved: 2026-09-01
+  resolution_note: |
+    Fact-spec sweep 2026-09-01: Added Relativity Networks Seed row ($22M SAFE seed on 2026-08-19; no formal lead; Bell Ventures and Faster Than Glass also participated; company simultaneously disclosed a $40M hyperscaler follow-on order) to rhapsody-venture-partners.md Portfolio table with 3 new primary source citations ([^11] TechCrunch tier-1 tech press, [^12] Data Center Dynamics independent trade press, [^13] PR Newswire company syndication). Also added "ai-infrastructure" and "data-centers" to sector_focus frontmatter — Relativity Networks' hollow-core fiber play for AI data centers is Rhapsody's first move into these adjacent categories. Portfolio table now shows 29 companies vs. the "26 verified active portfolio companies from the firm's portfolio page" base note in the Inferred Thesis — that base count stands because it's specifically anchored to the firm's own portfolio page, while newer entries (Nuclear Turbines 2026-07-27 and Relativity Networks 2026-08-19) come from press releases post-dating that page snapshot. Round already verified in data/startups/relativity-networks.md as confirmed by paired fact-spec resolution above.
   type: startup
   reason: SignalFire + Las Olas VC-led $6M Seed (2026-08-31)
   added: 2026-08-31

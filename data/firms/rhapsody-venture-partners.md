@@ -16,6 +16,8 @@ sector_focus:
   - hardware
   - ag-tech
   - robotics
+  - ai-infrastructure
+  - data-centers
 team:
   - slug: jason-whaley
     role: Co-Founder & General Partner
@@ -101,6 +103,7 @@ Based on 26 verified active portfolio companies from the firm's portfolio page [
 | Light Trace Photonics | Seed | 2024 | Photonics | Active | [^5] |
 | Netpreme | Seed | 2024 | AI Infrastructure | Active | [^5] |
 | Nuclear Turbines | Foundational (participated, £15M / ~€17.5M; IQ Capital led; Zero Carbon Capital and Empirical Ventures also participated) | 2026-07-27 | Energy / Nuclear / Deep Tech | Active | [^8][^9][^10] |
+| Relativity Networks | Seed (participated, $22M SAFE; no lead disclosed; Bell Ventures and Faster Than Glass also participated; company simultaneously disclosed a $40M follow-on order from an unnamed hyperscaler) | 2026-08-19 | Data Centers / Hollow-Core Fiber / AI Infrastructure | Active | [^11][^12][^13] |
 
 ## In Their Own Words
 
@@ -122,3 +125,9 @@ No independently sourced founder testimonials found.
 [^8]: "Manchester's Nuclear Turbines raises €17.5 million to develop compact, cost-effective nuclear power systems," EU-Startups, July 27, 2026. Accessed July 27, 2026. https://www.eu-startups.com/2026/07/manchesters-nuclear-turbines-raises-e17-5-million-to-develop-compact-cost-effective-nuclear-power-systems/ — Names Rhapsody Venture Partners as a participant in the IQ Capital-led foundational round.
 [^9]: "Ex-BAE Systems engineer 'flips the script' on nuclear power," BusinessCloud, July 27, 2026. Accessed July 27, 2026. https://businesscloud.co.uk/news/ex-bae-systems-engineer-flips-the-script-on-nuclear-power/ — Confirms Rhapsody Venture Partners' participation in the £15M round led by IQ Capital.
 [^10]: Tech.eu, "BAE Systems' energy spinout Nuclear Turbines emerges from stealth with £15M raise," July 27, 2026. Accessed July 2026. https://tech.eu/2026/07/27/bae-systems-energy-spinout-nuclear-turbines-emerges-from-stealth-with-ps15m-raise/ — Third independent primary source confirming Rhapsody Venture Partners as a participant alongside IQ Capital (lead), Zero Carbon Capital, and Empirical Ventures. Founders: Jeremy Owston (ex-BAE) and Prof. Tim Abram. Manchester, UK.
+
+[^11]: TechCrunch, "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers," August 19, 2026, accessed September 2026. https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/ — Tier-1 tech press confirming Relativity Networks' $22M SAFE seed round on 2026-08-19 with Rhapsody Venture Partners, Bell Ventures, and Faster Than Glass as participating investors and a $40M hyperscaler follow-on order.
+
+[^12]: Data Center Dynamics, "Relativity Networks completes $22m raise, as hollow-core fiber provider secures $40m hyperscaler contract," August 2026, accessed September 2026. https://www.datacenterdynamics.com/en/news/relativity-networks-completes-22m-raise-as-hollow-core-fiber-provider-secures-40m-hyperscaler-contract/ — Independent trade-press confirmation of the $22M SAFE seed and the $40M hyperscaler contract, with Rhapsody Venture Partners named among the participating investors.
+
+[^13]: PR Newswire, "Relativity Networks Raises $22M and Lands $40M Hyperscaler Contract to Power the AI Geography Era," August 2026, accessed September 2026. https://www.prnewswire.com/news-releases/relativity-networks-raises-22m-and-lands-40m-hyperscaler-contract-to-power-the-ai-geography-era-302854769.html — Company primary source (PR Newswire syndication) confirming $22M SAFE seed round with Rhapsody Venture Partners, Bell Ventures, and Faster Than Glass, plus the $40M hyperscaler purchase order. Round more than doubled the original target.
