@@ -5075,14 +5075,23 @@ priority:
   type: startup
   reason: new profile from round monitoring (Series G $750M, 2026-08-12)
   added: 2026-08-31
+  status: resolved
+  resolved: 2026-08-31
+  resolution_note: 'Verified Form Energy $750M Series G (2026-08-12) via direct WebFetch of two primary sources: (1) Form Energy press release https://formenergy.com/form-energy-secures-750m-in-series-g-financing/ — confirms date August 12, 2026; $750M; lead T. Rowe Price; new investors Sequoia Capital, Janus Henderson, Franklin Templeton, PEAK6 Investments; existing investors Prelude Ventures, Engine Ventures, TPG Rise Climate, Capricorn Technology Impact Funds, Breakthrough Energy Ventures, Dustin Moskovitz & Cari Tuna, Gigascale Capital, Coatue, Energy Impact Partners, NGP, GE Vernova, Blindspot Ventures, M&G Catalyst Fund; total equity >$2B. (2) TechCrunch https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/ — matches press release verbatim on date, amount, lead, participants. Profile also cites Boston Globe [^3] and Energy Monitor [^4] which corroborate. All 4 profile citations resolve to primary content matching frontmatter + Funding History table. No profile changes required.'
 - slug: terra-industries
   type: startup
   reason: new profile from round monitoring (Seed extension $18M to $52M, 2026-08-17)
   added: 2026-08-31
+  status: resolved
+  resolved: 2026-08-31
+  resolution_note: 'Verified Terra Industries $18M seed extension (bringing total seed to $52M, 2026-08-17) via WebFetch of TechCrunch primary source https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/ — confirms date August 17, 2026; extension amount $18M; total seed $52M; lead 8VC (Joe Lonsdale''s firm); co-investors Silent Ventures, Nova Global; company founded 2024 by Nathan Nwachuku and Maxwell Maduka. Profile cites 3 primary sources (TechCrunch, SiliconANGLE, Terra Industries newsroom). Frontmatter matches: 8VC firm slug, joe-lonsdale investor slug, stage_latest Seed, total_raised $52M. No profile changes required.'
 - slug: stability-ai
   type: startup
   reason: new profile from round monitoring (Series B $76M, 2026-08-25)
   added: 2026-08-31
+  status: resolved
+  resolved: 2026-08-31
+  resolution_note: 'Verified Stability AI $76M Series B (2026-08-25) via WebFetch of two primary sources: (1) TechCrunch https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/ — confirms date August 25, 2026; $76M; Series B; no lead disclosed; participants Universal Music Group, Sony Music Group, Warner Music Group, Electronic Arts, AMD Ventures, Pacific Alliance Ventures; total raised $232M. (2) Music Ally https://musically.com/2026/08/26/stability-ai-raises-76m-from-investors-including-major-labels/ — confirms $76M; Series B; UMG, Sony Music, WMG, EA, plus Sean Parker; total $232M. Variety [^2] now paywalled behind tollbit redirect (402), Dataconomy [^4] returns 403 — could not re-verify participation of Greycroft, Kadmos Capital, Coatue, Eric Schmidt in this session (they were extracted at profile-creation time from Variety exclusive). Core facts (date, amount, round type, total raised, majority of investor list) confirmed by 2 independent primary sources. Music Ally mentions Sean Parker not in current investor list; noted for future update but not adding without a second corroborating source. WebSearch budget exhausted this session.'
 - slug: navi
   type: startup
   reason: new profile from round monitoring (Growth $100M Prosus, 2026-08-19)
