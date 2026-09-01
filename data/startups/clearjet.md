@@ -31,11 +31,11 @@ Funds will support continued expansion across ClearJet's 95-airport US network a
 
 ## What Investors Say
 
-No independently sourced investor quotes available at this time.
+Ryan Ziegler, General Partner at Edison Partners, said of ClearJet: "What stood out to us is that ClearJet is built by operators who've run national delivery systems, have already proven the model at scale" [^2]. He added in a separate interview: "When you think about what they built, it is a very unique aviation infrastructure platform, and it's difficult to replicate" [^1].
 
 ## What Founders Say
 
-No independently sourced founder quotes available at this time.
+Chris Guggenheim, founder and CEO of ClearJet, described the company's model: "Rather than compete with the existing national package delivery services, we work with them. We've created a service that lets retailers build their own parcel delivery network" [^2]. On the underlying network, Guggenheim told Crunchbase News: "We're basically connecting with the already moving aircraft. These flights are going from A to B city," adding, "We call it the super carrier because it truly is that, and it gives all the power back to the retailer" [^1].
 
 ## Sources
 

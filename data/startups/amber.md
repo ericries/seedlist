@@ -11,9 +11,9 @@ stage_latest: "Series A"
 total_raised: "€7M (Series A)"
 founders:
   - name: "Philipp Reißel"
-    role: "Co-Founder"
+    role: "Co-Founder & CEO"
   - name: "Bastian Maiworm"
-    role: "Co-Founder"
+    role: "Co-Founder & CRO"
   - name: "Igli Manaj"
     role: "Co-Founder"
 status: published
@@ -24,7 +24,7 @@ last_researched: 2026-09-01
 
 amber is an Aachen-based German AI startup that builds an "AI Data Layer" — infrastructure that lets AI agents understand, reason over, and act on enterprise knowledge — targeted at European SMEs and enterprises [^1][^2][^3]. Founded in 2021 by RWTH Aachen graduates Philipp Reißel, Bastian Maiworm, and Igli Manaj, the company markets its stack as a European alternative to US cloud incumbents subject to the CLOUD Act [^1][^2][^3].
 
-On August 17, 2026, amber announced a €7 million Series A led by NRW.Venture, the VC arm of NRW.BANK, with existing seed investor Ventech significantly expanding its position [^1][^2][^3]. The company says its data layer can cut AI token costs by as much as 60% [^1][^2].
+On August 17, 2026, amber announced a €7 million Series A led by NRW.Venture, the VC arm of NRW.BANK, with existing seed investor Ventech significantly expanding its position [^1][^2][^3]. The company says its data layer can cut AI token costs by as much as 60% [^1][^2]. Ventech had led amber's €2.1 million seed round in March 2025, and prior to that the founding team (then operating as ambeRoad) raised a 2021 pre-seed from five business angels [^2][^3].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -38,11 +38,13 @@ Proceeds will fund European expansion beginning in the Benelux region and contin
 
 ## What Investors Say
 
-No independently sourced investor quotes available at this time.
+Nicolas Barthalon, Partner at Ventech, said of the follow-on round: "As amber's first institutional investor, we are backing the team again 18 months following our initial check," adding that "the team recognised early on what matters when deploying AI in companies — preserving data sovereignty" [^2][^3].
+
+Patrick Nesseler, Investment Manager at NRW.BANK, said: "The value of AI depends decisively on whether company data is available in the right context" [^3].
 
 ## What Founders Say
 
-No independently sourced founder quotes available at this time.
+CEO Philipp Reißel said of amber's product direction: "The next stage of AI is not another chatbot" [^3]. CRO Bastian Maiworm added on the state of enterprise AI: "Most AI applications today are still waiting for users to ask the right questions" [^3].
 
 ## Sources
 
