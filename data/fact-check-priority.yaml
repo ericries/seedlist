@@ -3,17 +3,28 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for €2.1M pre-seed (2026-08-25) led by Spintop Ventures with Plug and Play and Nordic insurance leaders. Sources: Solace Care site, Spintop Ventures news, EU-Startups."
   added: 2026-09-01
-  status: pending
+  status: resolved
+  resolved: 2026-09-01
+  note: "Fact-spec sweep 2026-09-01: Verified €2.1M pre-seed via Solace Care company site (confirmed Spintop-led, Plug and Play + Nordic insurance execs participating, Nordic + Netherlands + UK expansion) plus EU-Startups article. Amount €2.1M / ~SEK 23M confirmed. Existing 3 sources hold: (1) solace.care company site [^1], (2) Spintop Ventures news [^2], (3) EU-Startups [^3]. No founders named in any primary source located; frontmatter founders array remains empty. Profile is fully sourced — no changes needed."
 - slug: cloover
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for €86.2M debt facility (EIF-guaranteed) announced 2026-09-01. Sources: EU-Startups, Yahoo Finance, Cloover company blog."
   added: 2026-09-01
-  status: pending
+  status: resolved
+  resolved: 2026-09-01
+  note: |
+    Fact-spec sweep 2026-09-01: Verified BOTH Cloover financing events after discovering the profile's citation structure was misleading — Yahoo Finance [^2] and cloover.com blog [^3] actually describe the January 2026 Series A round, not the September 2026 add-on facility.
+    (1) Jan 21, 2026 Series A: $22M equity co-led by MMC Ventures + QED Investors with Lowercarbon Capital, BNVT Capital, Bosch Ventures, Centrotec, Earthshot Ventures participating, PLUS $1.2B / €1.04B debt facility with €300M EIF guarantee. Verified via 5 primary sources: Yahoo Finance/GlobeNewswire, Cloover company blog, EU-Startups Jan article, Trending Topics, ESG Today.
+    (2) Sep 1, 2026 add-on: €86.2M additional facility bringing total capacity to €1.12B, EIF guarantee expanded to €350M, revenue run rate €301.7M, company profitable. Verified via EU-Startups (Sept article) and corroborated in WebSearch snippets.
+    Restructured Funding History table to show both rounds properly. Added 2 new sources ([^5] Trending Topics, [^6] ESG Today) bringing profile to 6 primary sources. Added founder quotes from Jodok Betschart (CEO) and Valentin Gönczy (CPO). Added founders array to frontmatter.
 - slug: yulu
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for $93M Series C (2026-08-12) led by GEF Capital Partners ($63M equity + $30M debt). Sources: TechCrunch, Mercom India, YourStory."
   added: 2026-09-01
-  status: pending
+  status: resolved
+  resolved: 2026-09-01
+  note: |
+    Fact-spec sweep 2026-09-01: Verified Yulu $93M Series C on 2026-08-12 (GEF Capital-led equity $63M + $30M debt; ~$170M post-money) via 4 primary sources: TechCrunch [^1], Mercom India [^2], YourStory [^3], World Auto Forum [^4] (new). Confirmed via Business Standard search snippet + Evertiq. Added [^4] as fourth citation. TechCrunch and CEO Amit Gupta noted ~$5.5M of equity was used for secondary purchases from expiring seed funds. CORRECTED founder: replaced "Hemant Gupta" with "Anuj Tewari" — 3 independent sources (Business Standard, World Auto Forum, Evertiq via search snippet) consistently name "Amit Gupta, RK Misra, Naveen Dachuri, Anuj Tewari" as the 4 co-founders; no source located naming Hemant Gupta. Added Amit Gupta founder quote from World Auto Forum on Yulu's operating thesis, plus his TechCrunch "AWS of mobility" positioning quote.
 - slug: vertical-aerospace
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for €86.6M ($100M) financing package (2026-08-11) — Mudrick Capital convertible + equity. Sources: EU-Startups, Insider Media, Flying Magazine."
