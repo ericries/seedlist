@@ -121,8 +121,9 @@ Based on 35 verified investments with sufficient detail for analysis:
 | Anthropic | Series H (co-led, $65B at $965B post-money) | 2026-05-28 | AI / Frontier Models | Active | [^45] |
 | NewLimit | Series C ($435M) | 2026-06-02 | Longevity / Biotech | Active | [^46][^47] |
 | Cyera | Growth ($300M at $12B post-money) | 2026-06-02 | Cybersecurity/AI | Active | [^48][^49] |
+| AIR (air.security) | Seed 2 (led, $40M; Sequoia led the earlier $10M Seed 1) | 2026-09-01 (both seed rounds disclosed together at stealth exit; total $50M) | Cybersecurity / AI Agent Security / MCP / Enterprise | Active (Israel-based; founders Yair Saban and Niv Hoffman, both Unit 8200 alumni; angels include Zach Frankel (Cognition), Yinon Costica (Wiz), Ofir Ehrlich (Eon), Anne Neuberger, Omer Adam, Varun Anand (Clay); Swish and Netz also participated) | [^air-gr1][^air-gr2][^air-gr3][^air-gr4] |
 
-This table represents approximately 30% of Greenoaks' 114 known investments per Tracxn data [^15]. Many earlier and smaller investments, particularly in Asia, could not be independently verified with specific round details.
+This table represents approximately 31% of Greenoaks' 114 known investments per Tracxn data [^15]. Many earlier and smaller investments, particularly in Asia, could not be independently verified with specific round details.
 
 ## In Their Own Words
 
@@ -210,3 +211,11 @@ No additional independently sourced founder testimonials from portfolio company 
 [^48]: SiliconANGLE, "Cyera raises $300M at $12B valuation, doubling its worth in five months," June 2, 2026. Accessed June 2026. https://siliconangle.com/2026/06/02/cyera-raises-300m-12b-valuation-doubling-worth-five-months/ — $300M round at $12B post-money valuation led by Evolution Equity Partners with participation from Georgian, Greenoaks, Lightspeed, Sequoia, Sapphire, Redpoint, Cyberstarts, Coatue, Accel, and Spark Capital.
 
 [^49]: TechCrunch, "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/
+
+[^air-gr1]: TechCrunch, "AIR raises $50M to help companies vet the skills and add-ons AI agents use," September 1, 2026. Accessed September 2026. https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/ — Primary tier-1 tech press confirming Greenoaks led the $40M second seed, with Sequoia Capital having led the earlier $10M seed; both disclosed at September 1, 2026 stealth exit. Angel list: Zach Frankel (Cognition), Yinon Costica (Wiz), Ofir Ehrlich (Eon), Anne Neuberger, Omer Adam, Varun Anand (Clay).
+
+[^air-gr2]: AIR company blog, "AIR is Coming Out of Stealth" (Yair Saban byline), September 1, 2026. Accessed September 2026. https://www.air.security/blog-posts/out-of-stealth — Primary company announcement listing investors: Sequoia, Greenoaks, Swish, Netz, TTP; Ryan Knisley (former CISO Costco and Walt Disney) as Chief Strategy Officer.
+
+[^air-gr3]: Yahoo Finance, "AIR Emerges from Stealth With $50M to Build a Firewall for Agents," September 1, 2026. Accessed September 2026. https://finance.yahoo.com/technology/ai/articles/air-emerges-stealth-50m-build-150000907.html — Independent tier-1 financial press confirming Sequoia + Greenoaks as leads with Swish Ventures and Netz Capital participating.
+
+[^air-gr4]: CTech (Calcalist), "Six-month-old AIR Security raises $50 million to build a firewall for AI agents," September 1, 2026. Accessed September 2026. https://www.calcalistech.com/ctechnews/article/r13apdnugg — Independent Israeli tech press confirmation: Sequoia and Greenoaks as leads; founders' Unit 8200 background; ~40 employees in Israel; Yair Saban firewall quote.

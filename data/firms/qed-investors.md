@@ -159,8 +159,9 @@ QED claims to invest across the full fintech stack, but the verified portfolio s
 | Capchase | Series A (Led) | 2021 | Lending | Active | [^38] |
 | Moniepoint | Pre-Series C (Co-led) | 2022 | Payments | Active (Unicorn) | [^9] |
 | Augustus | Series B (Tiger Global-led, $180M at $1B post-money; QED participated alongside Hummingbird, Soma Capital, Road Capital Management, CMT Digital, Brevan Howard Digital, Variant, and angels David Velez/Nubank, Karim Atiyeh/Ramp, Sean Neville/Circle, Alex Bouaziz/Deel, Balaji Srinivasan) | 2026-07-21 | Fintech / Stablecoin Clearing Bank | Active (Unicorn) | [^43][^44][^45][^46] |
+| Félix (Felix Pago) | Series C (participated; Andreessen Horowitz led $87M equity plus General Catalyst $113M debt facility; $200M package at ~$1.45B post-money; QED had also led the prior Series B at ~$484.5M) | 2026-09-01 | Fintech / Payments / Remittance / WhatsApp / Stablecoins / LatAm | Active (Unicorn) | [^felix-qed-1][^felix-qed-2][^felix-qed-3][^felix-qed-4] |
 
-This table represents 27 portfolio companies (28 entries including the Current Series E follow-on, June 11, 2026 [^40][^41][^42]) of QED's 250+ claimed investments (~11%). The full portfolio includes companies across 27 countries and additional sectors including wealthtech, edtech, HR tech, vertical SaaS, and data aggregation, as listed on QED's website [^1].
+This table represents 28 portfolio companies (29 entries including the Current Series E follow-on, June 11, 2026 [^40][^41][^42]) of QED's 250+ claimed investments (~11%). The full portfolio includes companies across 27 countries and additional sectors including wealthtech, edtech, HR tech, vertical SaaS, and data aggregation, as listed on QED's website [^1].
 
 ## In Their Own Words
 
@@ -250,3 +251,11 @@ This table represents 27 portfolio companies (28 entries including the Current S
 [^47]: PR Newswire, "LendUp Creates Stand-Alone Company To Accelerate Expansion Of Its Growing Credit Card Business, Fueled By New Capital Injection," January 10, 2019. Accessed August 2026. https://www.prnewswire.com/news-releases/lendup-creates-stand-alone-company-to-accelerate-expansion-of-its-growing-credit-card-business-fueled-by-new-capital-injection-300776163.html
 
 [^48]: PR Newswire, "Mission Lane Names New CEO, Raises Half Billion Dollars In Financing," September 16, 2019. Accessed August 2026. https://www.prnewswire.com/news-releases/mission-lane-names-new-ceo-raises-half-billion-dollars-in-financing-300917284.html
+
+[^felix-qed-1]: Crunchbase News, "WhatsApp Remittance Startup Félix Raises $200M From A16z And General Catalyst," September 1, 2026. Accessed September 2026. https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/ — Primary tier-1 tech-financial press: QED Investors named among Series C participants alongside Castle Island Ventures, Switch Ventures, Contour Venture Partners, Endeavor Catalyst; a16z led $87M equity, General Catalyst provided $113M debt, ~$1.45B post-money vs. ~$484.5M prior Series B QED had led.
+
+[^felix-qed-2]: Coinfomania, "Felix Pago Secures $200 Million in Series B Funding" (article correctly describes the September 1, 2026 Series C; headline mislabels the round), September 1, 2026. Accessed September 2026. https://coinfomania.com/felix-pago-secures-200-million-in-series-b-funding/ — Independent crypto/fintech press: $200M package with a16z $87M equity and General Catalyst $113M credit facility.
+
+[^felix-qed-3]: Bloomberg, "Felix Pago Raises $200 Million To Expand Into Financial Services," September 1, 2026. Accessed September 2026 (article headline verified via search index; full text behind Bloomberg paywall). https://www.bloomberg.com/news/articles/2026-09-01/felix-pago-raises-200-million-to-expand-into-financial-services — Tier-1 financial press confirmation of $200M Series C total.
+
+[^felix-qed-4]: Miami Herald, "A Venezuelan in Miami lands nearly $90M for his startup from Andreessen Horowitz," September 1, 2026. Accessed September 2026 (article headline verified via search index; full text behind Miami Herald paywall). https://www.miamiherald.com/news/business/article317076435.html — Local/regional press confirming ~$87M a16z equity portion and founder Manuel Godoy's Venezuelan origin.

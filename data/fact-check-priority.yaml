@@ -3,6 +3,10 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for $26M Series A (2026-08-27) led by Matrix with ARTIS and Y Combinator. Sources: Metriport company blog, AlleyWatch weekly report."
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  note: |
+    Fact-spec sweep 2026-09-01 (part of metriport/felix-pago/air-security batch): Verified Metriport $26M Series A on 2026-08-27 led by Matrix Partners (TJ Parker, General Partner) with ARTIS Ventures and Y Combinator participating, via 4 primary sources: (1) Metriport company blog [^1] (existing), (2) AlleyWatch weekly report [^2] (existing), (3) PR Newswire company press release [^3] (new), (4) HIT Consultant independent healthcare trade press [^4] (new). Added TJ Parker Matrix quote to "What Investors Say" and a second Dima Goncharov quote from PR Newswire. Confirmed $28.4M total funding to date, notable customers (Amazon One Medical, Sollis Health, Color Health), HITRUST r2 Certification, and San Francisco base. Parallel update to y-combinator.md portfolio (added Metriport row with 3 citations [^metrip-yc1][^metrip-yc2][^metrip-yc3]). Matrix Partners venture profile not yet in database — matrix-capital-management.md is a Waltham hedge fund, not the venture firm; Matrix Partners already in queue.yaml. ARTIS Ventures also already in queue.
 - slug: gatik
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for $200M growth round (2026-08-25) led by Qatar Investment Authority and Koch Disruptive Technologies with Millennium Management, ARK Invest, Intact Private Capital, Alumni Ventures. Sources: TechCrunch, AlleyWatch weekly."
@@ -11,30 +15,53 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for $200M Series C ($87M equity + $113M debt, 2026-09-01) led by a16z and General Catalyst with QED Investors, Castle Island Ventures, Switch Ventures, Contour Venture Partners, Endeavor Catalyst. Sources: Crunchbase News. Needs additional primary sources for triangulation."
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  note: |
+    Fact-spec sweep 2026-09-01: Verified Félix (Felix Pago) Series C $200M on 2026-09-01 — $87M equity led by Andreessen Horowitz, plus $113M debt facility from General Catalyst's Customer Value Fund, at ~$1.45B post-money valuation (roughly triple the ~$484.5M Series B) — with QED Investors, Castle Island Ventures, Switch Ventures, Contour Venture Partners, and Endeavor Catalyst participating. Sources: (1) Crunchbase News [^1] (existing, primary tier-1); (2) Coinfomania [^2] (new, full body accessed, corroborates $87M/$113M split and El Salvador/Nicaragua/Dominican Republic/Colombia expansion targets); (3) Bloomberg [^3] (new, headline verified via search index — body behind paywall — confirms $200M and "expand into financial services" framing); (4) Miami Herald [^4] (new, headline verified via search index — body behind paywall — confirms ~$87M a16z equity portion and founder Manuel Godoy's Venezuelan origin). Added Ali Yahya (a16z crypto) quote to "What Investors Say" from Crunchbase News source. Updated About section with $8B remittances processed pre-round and expansion targets. Parallel updates to andreessen-horowitz.md, general-catalyst.md, and qed-investors.md portfolios with matching 4 citations each.
 - slug: air-security
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for two seed rounds totaling $50M (2026-09-01) — first $10M led by Sequoia, second $40M led by Greenoaks. Angel participants include Zach Frankel (Cognition), Yinon Costica (Wiz), Ofir Ehrlich (Eon), Varun Anand (Clay), Anne Neuberger. Source: TechCrunch. Needs 2 more primary sources."
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  note: |
+    Fact-spec sweep 2026-09-01: Verified AIR (air.security) stealth exit on 2026-09-01 disclosing $50M total across two seed rounds — $10M Seed 1 led by Sequoia Capital + $40M Seed 2 led by Greenoaks Capital — with Swish, Netz, and angels Zach Frankel (Cognition), Yinon Costica (Wiz), Ofir Ehrlich (Eon), Anne Neuberger, Omer Adam, Varun Anand (Clay) participating. Founders Yair Saban (CEO) and Niv Hoffman (CTO) confirmed as Unit 8200 alumni who met ~a decade ago; ~40 employees in Israel. Sources: (1) TechCrunch [^1] (existing, tier-1 primary with round breakdown, angel list, Bogomil Balkansky quote); (2) AIR company blog "AIR is Coming Out of Stealth" [^2] (new, primary — Saban byline, market thesis quote, Ryan Knisley CSO from Costco/Disney disclosure); (3) Yahoo Finance [^3] (new, tier-1 financial press — Bogomil Balkansky Sequoia thesis quote, Swish/Netz corroboration); (4) CTech/Calcalist [^4] (new, Israeli tech press — Yair Saban firewall quote, angel list corroboration, Unit 8200 background, ~40-person Israel headcount). Added Bogomil Balkansky (Sequoia Partner) quote to "What Investors Say" and Yair Saban quotes to "What Founders Say". Updated location from "Undisclosed" to "Israel". Parallel updates to sequoia-capital.md and greenoaks-capital.md portfolios with matching 4 citations each.
 - slug: andreessen-horowitz
   type: firm
   reason: "Appeared in Félix Series C (2026-09-01, $200M co-led)"
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  note: "Rolled into felix-pago fact-spec sweep 2026-09-01 above. Added Félix Series C row to a16z portfolio table with 4 primary source citations ([^felix-a16z1] Crunchbase News, [^felix-a16z2] Coinfomania, [^felix-a16z3] Bloomberg, [^felix-a16z4] Miami Herald) — Series C $87M equity led by a16z at ~$1.45B post-money, plus General Catalyst $113M debt facility."
 - slug: general-catalyst
   type: firm
   reason: "Appeared in Félix Series C (2026-09-01, $200M co-led)"
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  note: "Rolled into felix-pago fact-spec sweep 2026-09-01 above. Added Félix Series C row to general-catalyst portfolio table with 4 primary source citations ([^gc-felix-1] Crunchbase News, [^gc-felix-2] Coinfomania, [^gc-felix-3] Bloomberg, [^gc-felix-4] Miami Herald) — $113M Customer Value Fund debt facility alongside a16z $87M equity lead."
 - slug: qed-investors
   type: firm
   reason: "Appeared in Félix Series C (2026-09-01)"
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  note: "Rolled into felix-pago fact-spec sweep 2026-09-01 above. Added Félix Series C participation row to qed-investors portfolio table with 4 primary source citations ([^felix-qed-1] through [^felix-qed-4]). QED had previously led the ~$484.5M Series B and continued to participate in the September 2026 Series C at ~$1.45B post-money."
 - slug: sequoia-capital
   type: firm
   reason: "Appeared in AIR seed (2026-09-01, $10M lead)"
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  note: "Rolled into air-security fact-spec sweep 2026-09-01 above. Added AIR (air.security) Seed 1 lead / Seed 2 participation row to sequoia-capital portfolio table with 4 primary source citations ([^air1] TechCrunch, [^air2] AIR company blog, [^air3] Yahoo Finance, [^air4] CTech). Bogomil Balkansky lead partner; Sequoia led the $10M Seed 1 while Greenoaks led the $40M Seed 2; both disclosed at September 1, 2026 stealth exit."
 - slug: greenoaks-capital
   type: firm
   reason: "Appeared in AIR seed (2026-09-01, $40M lead)"
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  note: "Rolled into air-security fact-spec sweep 2026-09-01 above. Added AIR (air.security) Seed 2 lead row to greenoaks-capital portfolio table with 4 primary source citations ([^air-gr1] through [^air-gr4]). Greenoaks led the $40M Seed 2; Sequoia had led the earlier $10M Seed 1; both disclosed at stealth exit."
 - slug: koch-disruptive-technologies
   type: firm
   reason: "Appeared in Gatik $200M round (2026-08-25, co-lead)"
@@ -43,6 +70,9 @@ priority:
   type: firm
   reason: "Appeared in Metriport Series A (2026-08-27)"
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  note: "Rolled into metriport fact-spec sweep 2026-09-01 above. Added Metriport Series A participation row to y-combinator portfolio table with 3 primary source citations ([^metrip-yc1] Metriport blog, [^metrip-yc2] PR Newswire, [^metrip-yc3] HIT Consultant)."
 - slug: solace-care
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for €2.1M pre-seed (2026-08-25) led by Spintop Ventures with Plug and Play and Nordic insurance leaders. Sources: Solace Care site, Spintop Ventures news, EU-Startups."
