@@ -168,15 +168,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment
-    fund
-  url: https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/
-  source: techcrunch
-  date_found: '2026-08-31'
-  parsed_company: Polymarket reportedly
-  parsed_amount: $300M
-  parsed_round: null
-  status: pending
 - title: Inflection Point Acquisition VIII raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
