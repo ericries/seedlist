@@ -741,7 +741,9 @@ vague_facts:
   line: '| Parsley Health | Growth | 2023-10 | Chronic disease virtual clinic | Active | [^26][^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-01'
+  resolution_note: "Fact-spec sweep 2026-09-01: tightened Parsley Health row from month-only 2023-10 to 2023-10-03 disclosure date via 7wireVentures' $217M Growth & Opportunity (GO) Fund launch press coverage. 7wire disclosed Parsley Health as one of three initial GO Fund investments (alongside NOCD and FOLX Health). Verified via 3 sources: NEW HIT Consultant [^77] (2023-10-03 primary trade press on GO Fund launch), NEW Femtech Insider [^78] (2023-10-04 independent contemporaneous coverage), and existing 7wire portfolio page [^26]. NO standalone Parsley Health round press release exists — Columbia Venture Insights secondary aggregator (Medium; not primary) references a July 2023 Series C3 extension at ~USD 311M valuation but no primary source confirms round type or amount. Row annotated to reflect this aggregator-only round attribution pattern. 2 new footnotes added ([^77], [^78])."
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: PayZen
@@ -836,7 +838,9 @@ vague_facts:
   line: '| Medisafe | Early | ~2018 | Medication management | Active | [^30] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-01'
+  resolution_note: "Fact-spec sweep 2026-09-01: CORRECTED Medisafe row — approximate ~2018 date was wrong. 7wire's first Medisafe check was Series A on 2015-01-13 (USD 6M; Pitango Venture Capital led; 7wire Ventures new; lool Ventures, TriVentures, Eyal Gura returning). 7wire continued as returning investor in Series B (2017-03-01; USD 14.5M; Octopus Ventures led; M Ventures new) and Series C (2021-02-25; USD 30M; co-led by Sanofi Ventures and ALIVE Israel HealthTech Fund). Verified via 3+ primary sources: NEW TechTime [^79] (2015-01-13 Series A), NEW PR Newswire [^80] (2017-03-01 Series B), NEW Medisafe press release [^81] (2021-02-25 Series C), plus MobiHealthNews, NoCamels, MedCity News, and M-Ventures cross-checks. Row now shows the earliest 7wire entry (Series A 2015-01-13) with follow-on rounds annotated in-line. 3 new footnotes added."
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Higi
@@ -846,7 +850,9 @@ vague_facts:
   line: '| Higi | Early | ~2015 | Biometric screening | Acquired | [^11] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-01'
+  resolution_note: "Fact-spec sweep 2026-09-01: tightened Higi row from approximate ~2015 Early stage to earliest primary-source-documented 7wire investment — Series C on 2018-07-10 (USD 21.3M; co-led by Flare Capital Partners and 7wireVentures). Verified via 3 primary sources: NEW MedCity News [^82] (2018-07-10), NEW Higi company press release [^83] (2018-07-10), NEW TechCrunch [^84] (2020-05-27 Babylon-led Series B coverage that names 7Wire as an existing Series A investor). 7wire is described in Series C press as existing investor implying prior Series A participation (Jumpstart Capital + Rush University System for Health + William Wrigley Jr. also named as Series A backers per subsequent 2020 coverage), but NO primary press exists for the earlier Series A round — the January 2016 $40M+ Higi press release names only 'existing investors' without disclosing individual firms. Company acquired by Babylon Health 2020; Babylon filed bankruptcy 2023. Row now anchors on the 2018-07-10 verifiable date. 3 new footnotes added ([^82], [^83], [^84])."
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Lightbeam Health Solutions
