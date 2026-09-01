@@ -1,4 +1,9 @@
 priority:
+- slug: rqd-clearing
+  type: startup
+  reason: "New profile published from 2026-08-27 $74M growth round (Bain Capital Tech Opportunities led; ABN AMRO Clearing Bank, Nyca Partners, Gentree Fund, Belvedere Strategic Capital participated). Verified via 3 primary sources: RQD Clearing site, RQD Clearing news release, Bain Capital press release, plus AlleyWatch daily report."
+  added: 2026-08-31
+  status: pending
 - slug: khosla-ventures
   type: firm
   reason: 'Fact-spec sweep 2026-08-06: Verified Khosla Ventures co-led (with Galvanize) WindBorne Systems'' $37M Series B on 2026-08-05 at $250M post-money valuation, with Translink Capital and Lux Capital participating. Sources: TechCrunch [^wb1] (2026-08-05), Pulse 2.0 [^wb2], and Las Vegas Sun/BusinessWire [^wb3]. Replaced vague "Windborne | Early | ~2019 (founded)" row with fully specific entry naming Sven Strohband (Partner & MD) as Khosla''s deal lead. 3 new footnotes added.'
@@ -5147,4 +5152,44 @@ priority:
 - slug: breedr
   type: startup
   reason: Partech-led $27M Series B (2026-08-26) with Latitude/LocalGlobe, Outsiders Fund
+  added: 2026-08-31
+- slug: polymarket
+  type: startup
+  reason: 1789 Capital-led $1B round at $21B valuation (2026-08-31)
+  added: 2026-08-31
+- slug: callosum
+  type: startup
+  reason: Atomico-led $100M seed with Plural, DCVC, UK Sovereign AI Fund (2026-08-20)
+  added: 2026-08-31
+- slug: gatik
+  type: startup
+  reason: QIA and Koch Disruptive Technologies-led $200M Series D with Millennium, ARK Invest, Intact Private Capital (2026-08-25)
+  added: 2026-08-31
+- slug: nexeon
+  type: startup
+  reason: National Wealth Fund-led £100M growth round with Korea Development Bank, Honda Xcelerator Ventures (2026-08-31)
+  added: 2026-08-31
+- slug: civilgrid
+  type: startup
+  reason: Spark Capital-led $26M Series A with Energy Impact Partners, Afore, A*, Ford Street Ventures, SNR Ventures (2026-08-27)
+  added: 2026-08-31
+- slug: dcvc
+  type: firm
+  reason: Participated in Callosum $100M Atomico-led seed (2026-08-20)
+  added: 2026-08-31
+- slug: koch-disruptive-technologies
+  type: firm
+  reason: Co-led Gatik $200M Series D with Qatar Investment Authority (2026-08-25)
+  added: 2026-08-31
+- slug: spark-capital
+  type: firm
+  reason: Led CivilGrid $26M Series A (2026-08-27)
+  added: 2026-08-31
+- slug: energy-impact-partners
+  type: firm
+  reason: Participated in CivilGrid $26M Series A (2026-08-27)
+  added: 2026-08-31
+- slug: a-star-capital
+  type: firm
+  reason: Participated in CivilGrid $26M Series A (2026-08-27)
   added: 2026-08-31

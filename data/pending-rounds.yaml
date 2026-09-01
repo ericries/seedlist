@@ -90,14 +90,6 @@ pending_rounds:
   parsed_amount: $27M
   parsed_round: Bridge
   status: pending
-- title: Ausperbio raised $120M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-31'
-  parsed_company: Ausperbio
-  parsed_amount: $120M
-  parsed_round: Series C
-  status: pending
 - title: TrustedRouter raised $1.25M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
