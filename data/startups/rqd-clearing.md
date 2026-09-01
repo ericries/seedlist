@@ -26,11 +26,11 @@ RQD Clearing (stylized RQD*) is a technology-driven clearing and custody firm se
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-08-27 | Growth | $74M | Bain Capital Tech Opportunities | ABN AMRO Clearing Bank, Nyca Partners, Gentree Fund, Belvedere Strategic Capital [^2][^3][^4] |
+| 2026-08-27 | Minority Growth | $74M | Bain Capital Tech Opportunities | ABN AMRO Clearing Bank, Nyca Partners (new); Gentree Fund, Belvedere Strategic Capital (existing) [^2][^3][^4] |
 
 ## What Investors Say
 
-Michael Grandfield, Partner at Bain Capital: "RQD* provides the mission-critical infrastructure financial institutions and fintech platforms need to keep pace." [^3]
+Michael Grandfield, Partner at Bain Capital Tech Opportunities: "Michael and RQD*'s experienced team of industry experts have done an impressive job building the Company into a highly differentiated clearing and custody business." [^3]
 
 ## What Founders Say
 

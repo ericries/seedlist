@@ -110,6 +110,7 @@ Based on analysis of 137 verified portfolio companies (96 active, 41 exited) fro
 | Arcadia | Series A | 2017 | Clean energy platform | [^18] |
 | Electric Hydrogen | Series A | 2021 | Green hydrogen | [^16] |
 | Form Energy | Series F (follow-on, $405M) | 2024-10-09 | Long-duration energy storage | [^19] |
+| Form Energy | Series G ($750M; T. Rowe Price led; syndicate includes Sequoia Capital, Janus Henderson, Franklin Templeton, PEAK6 Investments, Prelude Ventures, Engine Ventures, TPG Rise Climate, Capricorn Investment Group, Breakthrough Energy Ventures, Coatue, Energy Impact Partners, NGP, GE Vernova; brings total equity raised to >$2B; EIP was existing "long-standing partner" continuing from Frontier Fund's earliest investments) | 2026-08-12 | Long-duration energy storage | [^eip-feg1][^eip-feg2][^eip-feg3] |
 | Quilt | Series B (co-led, $20M) | 2025-12-08 | Heat pumps | [^17] |
 | Heron Power | Series A (participated) | 2025-05-29 | Grid power electronics | [^20][^26] |
 | Rondo Energy | Series A | 2022 | Industrial thermal storage | [^21] |
@@ -205,4 +206,10 @@ No additional independently sourced founder testimonials found beyond press rele
 [^hint1]: Allie Garfinkle, "Exclusive: Martha Stewart's new AI startup wants to manage your home before things break," Fortune, May 13, 2026. Accessed August 2026. https://fortune.com/2026/05/13/exclusive-martha-stewart-ai-startup-hint-seed-funding-slow-ventures/ — Exclusive Fortune scoop confirming $10M seed led by Slow Ventures, incubated by Montauk Capital, with Tusk Venture Partners, Amplo, Energy Impact Partners, Hannah Grey VC, and Brian Kelly participating. Slow Ventures GP Kevin Colleran quoted.
 
 [^hint2]: Brian Contreras, "Martha Stewart Just Launched an AI Startup to Solve the 1 Thing Every Homeowner Hates," Inc., May 2026. Accessed August 2026. https://www.inc.com/brian-contreras/martha-stewart-ai-startup-homeowners-hint/91344363 — Independent tier-1 press. Confirms $10M seed, Slow Ventures lead, and Energy Impact Partners among the participating investors.
+
+[^eip-feg1]: Form Energy press release, "Form Energy Secures $750M in Series G Financing to Scale Iron-Air Battery Manufacturing and Accelerate Commercial Deployments," August 12, 2026. Accessed August 2026. https://formenergy.com/form-energy-secures-750m-in-series-g-financing/ — Primary source (company press release) confirming Form Energy closed a $750M Series G on August 12, 2026, led by T. Rowe Price. Syndicate explicitly names Energy Impact Partners among returning investors alongside Breakthrough Energy Ventures, Sequoia Capital, Janus Henderson, Franklin Templeton, PEAK6 Investments, Prelude Ventures, Engine Ventures, TPG Rise Climate, Capricorn Investment Group, Coatue, NGP, and GE Vernova. Total equity raised now exceeds $2 billion.
+
+[^eip-feg2]: TechCrunch, "Form Energy raises $750M to build more 100-hour batteries for the grid," August 12, 2026. Accessed August 2026. https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/ — Tier-1 tech press confirming the $750M Series G announced August 12, 2026, T. Rowe Price lead, with Energy Impact Partners named among the participating investor syndicate.
+
+[^eip-feg3]: The Boston Globe, "Somerville's Form Energy lands $750m investment, in part to expand its West Virginia battery factory," August 12, 2026. Accessed August 2026. https://www.bostonglobe.com/2026/08/business/form-energy-vc-funding-750-million/ — Regional tier-1 press independently confirming the $750M Series G on August 12, 2026, T. Rowe Price led, with Energy Impact Partners listed among the returning investors.
 

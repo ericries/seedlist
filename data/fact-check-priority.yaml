@@ -1,9 +1,22 @@
 priority:
 - slug: rqd-clearing
   type: startup
-  reason: "New profile published from 2026-08-27 $74M growth round (Bain Capital Tech Opportunities led; ABN AMRO Clearing Bank, Nyca Partners, Gentree Fund, Belvedere Strategic Capital participated). Verified via 3 primary sources: RQD Clearing site, RQD Clearing news release, Bain Capital press release, plus AlleyWatch daily report."
+  reason: "Fact-spec sweep 2026-08-31: Verified RQD Clearing $74M growth round on 2026-08-27 led by Bain Capital Tech Opportunities, with ABN AMRO Clearing Bank, Nyca Partners, Gentree Fund, and Belvedere Strategic Capital participating. Startup profile confirmed complete with 4 primary sources: RQD Clearing site [^1], RQD Clearing news release [^2], Bain Capital press release [^3], and AlleyWatch daily report [^4]. Neither Bain Capital Tech Opportunities nor any of the co-investors has a firm profile yet in data/firms/ — no cross-referencing needed. Michael Grandfield (Partner, Bain Capital) confirmed as deal lead. No vague facts remain in the profile."
   added: 2026-08-31
-  status: pending
+  status: resolved
+  resolved: 2026-08-31
+- slug: breakthrough-energy-ventures
+  type: firm
+  reason: "Fact-spec sweep 2026-08-31: Replaced vague 'Form Energy | Early Stage | ~2018' row with fully specific entry for Form Energy Series G ($750M; T. Rowe Price led; syndicate includes Sequoia Capital, Janus Henderson, Franklin Templeton, PEAK6 Investments, Prelude Ventures, Engine Ventures, TPG Rise Climate, Capricorn Investment Group, BEV, Coatue, Energy Impact Partners, NGP, GE Vernova; brings total equity raised to >$2B) on 2026-08-12. Verified via 3 primary sources: Form Energy press release [^fe-g1], TechCrunch [^fe-g2], Boston Globe [^fe-g3]. 3 new footnotes added."
+  added: 2026-08-31
+  status: resolved
+  resolved: 2026-08-31
+- slug: energy-impact-partners
+  type: firm
+  reason: "Fact-spec sweep 2026-08-31: Added new Form Energy Series G row ($750M; T. Rowe Price led; syndicate includes Sequoia Capital, Janus Henderson, Franklin Templeton, PEAK6 Investments, Prelude Ventures, Engine Ventures, TPG Rise Climate, Capricorn Investment Group, Breakthrough Energy Ventures, Coatue, EIP, NGP, GE Vernova; brings total equity raised to >$2B) on 2026-08-12 — EIP was existing 'long-standing partner' returning from Frontier Fund's earliest investments. Verified via 3 primary sources: Form Energy press release [^eip-feg1], TechCrunch [^eip-feg2], Boston Globe [^eip-feg3]. 3 new footnotes added. Preserved existing Series F row from 2024-10-09."
+  added: 2026-08-31
+  status: resolved
+  resolved: 2026-08-31
 - slug: khosla-ventures
   type: firm
   reason: 'Fact-spec sweep 2026-08-06: Verified Khosla Ventures co-led (with Galvanize) WindBorne Systems'' $37M Series B on 2026-08-05 at $250M post-money valuation, with Translink Capital and Lux Capital participating. Sources: TechCrunch [^wb1] (2026-08-05), Pulse 2.0 [^wb2], and Las Vegas Sun/BusinessWire [^wb3]. Replaced vague "Windborne | Early | ~2019 (founded)" row with fully specific entry naming Sven Strohband (Partner & MD) as Khosla''s deal lead. 3 new footnotes added.'
