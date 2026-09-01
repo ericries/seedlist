@@ -171,6 +171,14 @@ pending_rounds:
   parsed_amount: $20M
   parsed_round: Series B
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/1/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-1-2026/
+  source: alleywatch
+  date_found: '2026-09-01'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Finland’s S-Transistors raises €2.6 million to build the world’s first quantum
     motherboard
   url: https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/
