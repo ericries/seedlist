@@ -5271,3 +5271,23 @@ priority:
   type: firm
   reason: Participated in CivilGrid $26M Series A (2026-08-27)
   added: 2026-08-31
+- slug: xorlab
+  type: startup
+  reason: New Series A+ round (2026-09-01)
+  added: 2026-09-01
+- slug: inleap-photonics
+  type: startup
+  reason: New seed round (2026-09-01)
+  added: 2026-09-01
+- slug: pld-space
+  type: startup
+  reason: New Series C extension (2026-09-01)
+  added: 2026-09-01
+- slug: cloover
+  type: startup
+  reason: New debt facility add-on (2026-09-01)
+  added: 2026-09-01
+- slug: polymarket
+  type: startup
+  reason: New $1B round from 1789 Capital (2026-08-31)
+  added: 2026-09-01
