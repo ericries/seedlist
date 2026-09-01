@@ -25452,7 +25452,9 @@ vague_facts:
   line: '| Lightmatter | Series A | 2018 | AI/Hardware | [^9][^29] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-31
+  resolution_note: 'Fact-spec sweep 2026-08-31: tightened Lightmatter row from year-only 2018 to specific 2018-02-05 announcement date with USD 11M amount, Matrix Partners + Spark Capital co-lead, and board appointments (Stan Reiss / Santo Politi). Verified via 3 independent sources: existing Spark Capital Medium post [^29] (Santo Politi), NEW Global Venturing [^lightmatter-sp1] (2018-02-06), and NEW VCNewsDaily [^lightmatter-sp2] (2018-02-05). 2 new footnotes added to spark-capital.md.'
 - profile: firms/spark-capital
   profile_name: Spark Capital
   company: Baseten
@@ -25462,7 +25464,9 @@ vague_facts:
   line: '| Baseten | Series B | 2022 | AI Infrastructure | [^9][^30] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-31
+  resolution_note: 'Fact-spec sweep 2026-08-31: corrected Baseten Series B year from 2022 to actual 2024-03-04 announcement date and added USD 40M amount, IVP + Spark Capital co-lead, >USD 200M valuation, and full participant list (Greylock, South Park Commons, Lachy Groom, Base Case). Verified via 3 independent primary sources: NEW Baseten blog [^baseten-sp1], NEW SiliconANGLE [^baseten-sp2] (2024-03-04), and NEW Forbes/Kenrick Cai [^baseten-sp3] (2024-03-04). Also added Series B row to baseten.md Funding History with 3 new footnotes ([^6][^7][^8]) and Series B entries to frontmatter firms array (ivp, spark-capital, greylock).'
 - profile: firms/spark-capital
   profile_name: Spark Capital
   company: Flock Safety
@@ -25472,7 +25476,9 @@ vague_facts:
   line: '| Flock Safety | Series E | 2022 | Public Safety | [^9][^31] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-08-31
+  resolution_note: 'Fact-spec sweep 2026-08-31: tightened Flock Safety Series E row from year-only 2022 to specific 2022-02-16 announcement date with USD 150M amount, Tiger Global lead at USD 3.5B post-money valuation, and full participant list (776, Spark Capital as new investors; Andreessen Horowitz, Bedrock, Matrix, Meritech, Initialized Capital as existing investors). Verified via 3 independent sources: existing Tracxn [^31], NEW Flock Safety company blog [^flock-sp1], and NEW Built In [^flock-sp2] (2022-02-16). 2 new footnotes added to spark-capital.md.'
 - profile: firms/spark-capital
   profile_name: Spark Capital
   company: Crusoe

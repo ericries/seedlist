@@ -30,6 +30,18 @@ firms:
 - round: Seed
   slug: independent
   year: 2019
+- date: 2024-03-04
+  round: series-b
+  slug: ivp
+  year: 2024
+- date: 2024-03-04
+  round: series-b
+  slug: spark-capital
+  year: 2024
+- date: 2024-03-04
+  round: series-b
+  slug: greylock
+  year: 2024
 - date: 2026-01-23
   round: series-e
   slug: hummer-winblad-venture-partners
@@ -94,6 +106,7 @@ Baseten is an AI inference platform that helps companies deploy, scale, and serv
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
+| 2024-03-04 | Series B | $40M | IVP, Spark Capital | Greylock, South Park Commons, Lachy Groom, Base Case (existing investors participating) [^6][^7][^8] |
 | 2026-01-23 | Series E | $300M | IVP, CapitalG | NVIDIA ($150M check); 01A, Altimeter Capital, Battery Ventures, BOND, BoxGroup, Blackbird Ventures, Conviction, Greylock [^3][^4][^5] |
 | 2026-06-22 | Series F | $1.5B | Altimeter Capital, Conviction, Spark Capital | Sands Capital, Wellington Management (co-leads); IVP, Greylock, 01A, Blackbird, Durable Capital Partners, Verified Capital, Battery Ventures, D. E. Shaw Ventures [^1][^2] |
 
@@ -118,3 +131,6 @@ The Series F was structured in two tranches at $13 billion and $11 billion valua
 [^3]: Business Wire, "Baseten Raises $300M at a $5B Valuation to Power a Multi-Model Future," January 23, 2026. Accessed August 2026. https://www.businesswire.com/news/home/20260123035833/en/Baseten-Raises-$300M-at-a-$5B-Valuation-to-Power-a-Multi-Model-Future
 [^4]: Baseten blog, "Announcing Baseten's $300M Series E," January 23, 2026. Accessed August 2026. https://www.baseten.co/blog/announcing-baseten-s-300m-series-e/
 [^5]: TechFundingNews, "Baseten nabs $300M from IVP, CapitalG to challenge Together AI in inference," January 2026. Accessed August 2026. https://techfundingnews.com/baseten-raises-300m-5b-valuation-nvidia/
+[^6]: Baseten blog, "Announcing our Series B," March 7, 2024. Accessed August 2026. https://www.baseten.co/blog/announcing-our-series-b/ — Primary company announcement of the USD 40M Series B co-led by IVP and Spark Capital with participation from Greylock, South Park Commons, Lachy Groom, and Base Case.
+[^7]: Duncan Riley, "Baseten nabs $40M for its cloud-based AI inference platform," SiliconANGLE, March 4, 2024. Accessed August 2026. https://siliconangle.com/2024/03/04/baseten-nabs-40m-cloud-based-ai-inference-platform/ — Independent tech press dating the announcement to March 4, 2024.
+[^8]: Kenrick Cai, "Baseten Wants To Power The Next Big Wave Of AI: Making It Useful," Forbes, March 4, 2024. Accessed August 2026. https://www.forbes.com/sites/kenrickcai/2024/03/04/baseten-series-b-making-ai-useful-inference/ — Tier-1 press confirming the March 4, 2024 Series B and the >USD 200M post-money valuation.

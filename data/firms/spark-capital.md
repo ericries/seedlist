@@ -136,9 +136,9 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Marqeta | Series E | 2019 | Fintech | [^9][^28] |
 | Pika | Early | 2023 | AI/Video | [^9] |
 | MatX | Early | 2023 | AI/Hardware | [^9] |
-| Lightmatter | Series A | 2018 | AI/Hardware | [^9][^29] |
-| Baseten | Series B | 2022 | AI Infrastructure | [^9][^30] |
-| Flock Safety | Series E | 2022 | Public Safety | [^9][^31] |
+| Lightmatter | Series A (co-led with Matrix Partners; USD 11M; Santo Politi joined the board alongside Stan Reiss) | 2018-02-05 | AI/Hardware | [^9][^29][^lightmatter-sp1][^lightmatter-sp2] |
+| Baseten | Series B (co-led with IVP; USD 40M at >USD 200M valuation; existing investors Greylock, South Park Commons, Lachy Groom, Base Case participated) | 2024-03-04 | AI Infrastructure | [^9][^30][^baseten-sp1][^baseten-sp2][^baseten-sp3] |
+| Flock Safety | Series E (Tiger Global led; USD 150M at USD 3.5B post-money; new investors 776 and Spark Capital joined existing backers Andreessen Horowitz, Bedrock, Matrix, Meritech, and Initialized Capital) | 2022-02-16 | Public Safety | [^9][^31][^flock-sp1][^flock-sp2] |
 | Crusoe | Series E | 2025-10-24 | AI Infrastructure | [^9][^39] |
 | XDOF | Venture | 2026-06-17 | Robotics / AI Infrastructure | [^55][^56] |
 | Chainguard | Series B | 2023 | Cybersecurity | [^9][^32] |
@@ -273,3 +273,17 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^convex-sp1]: SiliconANGLE, "Convex reels in $57M for its AI-optimized application backend," August 4, 2026, accessed August 2026. https://siliconangle.com/2026/08/04/convex-reels-57m-ai-optimized-application-backend/ — Primary tech press confirming Convex's $57M Series B closed August 4, 2026, led by Insight Partners with Etna Labs, Andreessen Horowitz, and Spark Capital participating. Total funding $110.5M; Convex powers ~2M applications including OpenAI and Zapier.
 [^convex-sp2]: Crunchbase, "Series B – Convex – Funding Round Profile," August 4, 2026, accessed August 2026. https://www.crunchbase.com/funding_round/convex-c445-series-b--1fa47669 — Third-party database confirming Convex's Series B round date, size, and participants including Spark Capital.
 [^convex-sp3]: Convex blog, "Convex raises $24M to reinvent backends," November 2025, accessed August 2026. https://news.convex.dev/convex-raises-24m/ — Primary company announcement confirming Spark Capital's prior participation in Convex's $24M Series A extension in November 2025 (Andreessen Horowitz led; Neo Ventures also participated), establishing Spark as an existing investor before the Series B.
+
+[^lightmatter-sp1]: Global Venturing, "Lightmatter illuminates $11m series A," February 6, 2018, accessed August 2026. https://globalventuring.com/university/lightmatter-illuminates-11m-series-a/ — Contemporaneous coverage confirming USD 11M Series A co-led by Matrix Partners and Spark Capital, with Stan Reiss (Matrix) and Santo Politi (Spark) joining the Lightmatter board.
+
+[^lightmatter-sp2]: VCNewsDaily, "Lightmatter Inks $11M Series A," February 5, 2018, accessed August 2026. https://www.vcnewsdaily.com/lightmatter/venture-capital-funding/fcncjjggrk — Independent trade press dated the round announcement to February 5, 2018 and confirmed Matrix + Spark co-lead with board appointments.
+
+[^baseten-sp1]: Baseten blog, "Announcing our Series B," March 7, 2024, accessed August 2026. https://www.baseten.co/blog/announcing-our-series-b/ — Primary company post announcing the USD 40M Series B co-led by IVP and Spark Capital with existing investors Greylock, South Park Commons, Lachy Groom, and Base Case participating.
+
+[^baseten-sp2]: Duncan Riley, "Baseten nabs $40M for its cloud-based AI inference platform," SiliconANGLE, March 4, 2024, accessed August 2026. https://siliconangle.com/2024/03/04/baseten-nabs-40m-cloud-based-ai-inference-platform/ — Independent tech press dating the announcement to March 4, 2024 and confirming IVP + Spark co-lead at >USD 200M valuation.
+
+[^baseten-sp3]: Kenrick Cai, "Baseten Wants To Power The Next Big Wave Of AI: Making It Useful," Forbes, March 4, 2024, accessed August 2026. https://www.forbes.com/sites/kenrickcai/2024/03/04/baseten-series-b-making-ai-useful-inference/ — Tier-1 press confirmation of the March 4, 2024 Series B and the >USD 200M post-money valuation.
+
+[^flock-sp1]: Flock Safety, "Flock Safety Announces $150M Series E led by Tiger Global," accessed August 2026. https://www.flocksafety.com/blog/series-e-announcement — Primary company announcement of the USD 150M Series E at USD 3.5B valuation led by Tiger Global with new investors 776 and Spark Capital and existing investors a16z, Bedrock, Matrix, Meritech, and Initialized.
+
+[^flock-sp2]: Built In, "Flock Safety Raises $150M in Series E Funding for Its Security Solution," February 16, 2022, accessed August 2026. https://builtin.com/articles/flock-safety-raises-150m-series-e-hiring-021622 — Independent tech press dating the Series E announcement to February 16, 2022 and confirming Tiger Global lead, USD 3.5B post-money, and Spark Capital participation alongside Andreessen Horowitz, Meritech, and Initialized Capital.
