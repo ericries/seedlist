@@ -1,4 +1,48 @@
 priority:
+- slug: metriport
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created profile for $26M Series A (2026-08-27) led by Matrix with ARTIS and Y Combinator. Sources: Metriport company blog, AlleyWatch weekly report."
+  added: 2026-09-01
+- slug: gatik
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created profile for $200M growth round (2026-08-25) led by Qatar Investment Authority and Koch Disruptive Technologies with Millennium Management, ARK Invest, Intact Private Capital, Alumni Ventures. Sources: TechCrunch, AlleyWatch weekly."
+  added: 2026-09-01
+- slug: felix-pago
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created profile for $200M Series C ($87M equity + $113M debt, 2026-09-01) led by a16z and General Catalyst with QED Investors, Castle Island Ventures, Switch Ventures, Contour Venture Partners, Endeavor Catalyst. Sources: Crunchbase News. Needs additional primary sources for triangulation."
+  added: 2026-09-01
+- slug: air-security
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created profile for two seed rounds totaling $50M (2026-09-01) — first $10M led by Sequoia, second $40M led by Greenoaks. Angel participants include Zach Frankel (Cognition), Yinon Costica (Wiz), Ofir Ehrlich (Eon), Varun Anand (Clay), Anne Neuberger. Source: TechCrunch. Needs 2 more primary sources."
+  added: 2026-09-01
+- slug: andreessen-horowitz
+  type: firm
+  reason: "Appeared in Félix Series C (2026-09-01, $200M co-led)"
+  added: 2026-09-01
+- slug: general-catalyst
+  type: firm
+  reason: "Appeared in Félix Series C (2026-09-01, $200M co-led)"
+  added: 2026-09-01
+- slug: qed-investors
+  type: firm
+  reason: "Appeared in Félix Series C (2026-09-01)"
+  added: 2026-09-01
+- slug: sequoia-capital
+  type: firm
+  reason: "Appeared in AIR seed (2026-09-01, $10M lead)"
+  added: 2026-09-01
+- slug: greenoaks-capital
+  type: firm
+  reason: "Appeared in AIR seed (2026-09-01, $40M lead)"
+  added: 2026-09-01
+- slug: koch-disruptive-technologies
+  type: firm
+  reason: "Appeared in Gatik $200M round (2026-08-25, co-lead)"
+  added: 2026-09-01
+- slug: y-combinator
+  type: firm
+  reason: "Appeared in Metriport Series A (2026-08-27)"
+  added: 2026-09-01
 - slug: solace-care
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for €2.1M pre-seed (2026-08-25) led by Spintop Ventures with Plug and Play and Nordic insurance leaders. Sources: Solace Care site, Spintop Ventures news, EU-Startups."
@@ -5304,4 +5348,16 @@ priority:
 - slug: polymarket
   type: startup
   reason: New $1B round from 1789 Capital (2026-08-31)
+  added: 2026-09-01
+- slug: hibob
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created profile for $166M (Bloomberg: $160M) late-stage round (2026-09-01) led by Salesforce with Farallon Capital Management. Values HiBob at ~$3.2B. Sources: GlobeNewswire/Manila Times, Calcalist, Bloomberg, HiBob company news."
+  added: 2026-09-01
+- slug: scan-com
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created profile for $220M Series C ($90M equity + $130M debt, 2026-08-31) led by Noteus Partners with Aviva, Concord Health Partners, YZR Capital, Oxford Capital; debt from VerisFi Capital and Atempo Growth. Sources: HIT Consultant, Business Wire (via Morningstar), Scan.com About page."
+  added: 2026-09-01
+- slug: light-power
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created profile for $46M Series A (2026-09-01) led by Matrix with Activate Capital, Spark Capital, Mischief, Gigascale Capital, MCJ, BoxGroup. Sources: PR Newswire (Light press release)."
   added: 2026-09-01

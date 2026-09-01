@@ -74,6 +74,103 @@ pending_rounds:
   parsed_amount: $50M
   parsed_round: null
   status: pending
+- title: WhatsApp Remittance Startup Félix Secures $200M Series C Led By A16z, General
+    Catalyst
+  url: https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/
+  source: crunchbase
+  date_found: '2026-09-01'
+  parsed_company: WhatsApp Remittance Startup Félix
+  parsed_amount: $200M
+  parsed_round: Series C
+  status: pending
+- title: Axios Easy Aerial raised $20M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-01'
+  parsed_company: Axios Easy Aerial
+  parsed_amount: $20M
+  parsed_round: Series B
+  status: pending
+- title: Scan.com raised $90M equity
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-01'
+  parsed_company: Scan.com
+  parsed_amount: $90M
+  parsed_round: Equity
+  status: pending
+- title: and Oxford Capital. It also raised $130M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-01'
+  parsed_company: and Oxford Capital. It also
+  parsed_amount: $130M
+  parsed_round: null
+  status: pending
+- title: HubX raised $50M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-01'
+  parsed_company: HubX
+  parsed_amount: $50M
+  parsed_round: null
+  status: pending
+- title: Clipto raised $15M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-01'
+  parsed_company: Clipto
+  parsed_amount: $15M
+  parsed_round: null
+  status: pending
+- title: has raised $11M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-01'
+  parsed_company: has
+  parsed_amount: $11M
+  parsed_round: null
+  status: pending
+- title: Alteon raised $2.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-01'
+  parsed_company: Alteon
+  parsed_amount: $2.5M
+  parsed_round: null
+  status: pending
+- title: Leanwatts raised $2M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-01'
+  parsed_company: Leanwatts
+  parsed_amount: $2M
+  parsed_round: Seed
+  status: pending
+- title: Shein raised $1.74B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-01'
+  parsed_company: Shein
+  parsed_amount: $1.74B
+  parsed_round: null
+  status: pending
+- title: Carrick Capital Partners raised $600M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-01'
+  parsed_company: Carrick Capital Partners
+  parsed_amount: $600M
+  parsed_round: null
+  status: pending
+- title: Easy Aerial raised $20M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-01'
+  parsed_company: Easy Aerial
+  parsed_amount: $20M
+  parsed_round: Series B
+  status: pending
 - title: Finland’s S-Transistors raises €2.6 million to build the world’s first quantum
     motherboard
   url: https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/
@@ -174,15 +271,6 @@ pending_rounds:
   date_found: '2026-08-31'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment
-    fund
-  url: https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/
-  source: techcrunch
-  date_found: '2026-08-31'
-  parsed_company: Polymarket reportedly
-  parsed_amount: $300M
   parsed_round: null
   status: pending
 - title: Inflection Point Acquisition VIII raised $250M
@@ -751,129 +839,4 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Series A
-  status: pending
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (Aug. 10 – Aug. 14)
-  url: https://www.eu-startups.com/2026/08/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-aug-10-aug-14/
-  source: eu-startups
-  date_found: '2026-08-14'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense
-    And AI Coding Lead'
-  url: https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/
-  source: crunchbase
-  date_found: '2026-08-14'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Gothenburg’s Millow secures €2 million to scale clean-label protein made
-    from oats and mycelium
-  url: https://www.eu-startups.com/2026/08/gothenburgs-millow-secures-e2-million-to-scale-clean-label-protein-made-from-oats-and-mycelium/
-  source: eu-startups
-  date_found: '2026-08-13'
-  parsed_company: Gothenburg’s Millow
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Dyadic International, Inc. Secures $2.9 Million Through Registered Direct
-    Offering and Concurrent Private Placement
-  url: https://www.globenewswire.com/news-release/2026/08/13/3344465/0/en/dyadic-international-inc-secures-2-9-million-through-registered-direct-offering-and-concurrent-private-placement.html
-  source: globenewswire
-  date_found: '2026-08-13'
-  parsed_company: Dyadic International, Inc.
-  parsed_amount: $2.9M
-  parsed_round: null
-  status: pending
-- title: Opendoor Reduces Shares Outstanding by 5% in First-Ever Share Buyback, and
-    Raises $440 Million of Growth Capital at 0% Coupon
-  url: https://www.globenewswire.com/news-release/2026/08/13/3344307/0/en/opendoor-reduces-shares-outstanding-by-5-in-first-ever-share-buyback-and-raises-440-million-of-growth-capital-at-0-coupon.html
-  source: globenewswire
-  date_found: '2026-08-13'
-  parsed_company: Opendoor Reduces Shares Outstanding by 5% in First-Ever Share Buyback,
-    and
-  parsed_amount: $440M
-  parsed_round: null
-  status: pending
-- title: India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand
-  url: https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/
-  source: techcrunch
-  date_found: '2026-08-12'
-  parsed_company: India’s Yulu
-  parsed_amount: $93M
-  parsed_round: null
-  status: pending
-- title: UK cybersecurity startup Cytix raises €6 million Series A to tackle AI-driven
-    software change risks
-  url: https://www.eu-startups.com/2026/08/uk-cybersecurity-startup-cytix-raises-e6-million-series-a-to-tackle-ai-driven-software-change-risks/
-  source: eu-startups
-  date_found: '2026-08-12'
-  parsed_company: UK cybersecurity startup Cytix
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Reservoir raises $8M to make water heaters that people — and the grid — will
-    actually want
-  url: https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/
-  source: techcrunch
-  date_found: '2026-08-12'
-  parsed_company: Reservoir
-  parsed_amount: $8M
-  parsed_round: null
-  status: pending
-- title: 'Exclusive: ClearJet raises $25M to build the ‘Uber of Cargo’'
-  url: https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/
-  source: crunchbase
-  date_found: '2026-08-12'
-  parsed_company: ClearJet
-  parsed_amount: $25M
-  parsed_round: null
-  status: pending
-- title: 'Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want
-    AI And Data, Not Treadmills'
-  url: https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026/
-  source: crunchbase
-  date_found: '2026-08-12'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Danish Entravel Group raises €6.5 million to secure larger supplier credit
-    facilities
-  url: https://www.eu-startups.com/2026/08/entravel-group-raises-e6-5-million-to-secure-larger-supplier-credit-facilities/
-  source: eu-startups
-  date_found: '2026-08-12'
-  parsed_company: Danish Entravel Group
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Bristol’s electric ‘air taxi’ developer Vertical Aerospace secures €86.6
-    million in financing commitments
-  url: https://www.eu-startups.com/2026/08/bristols-electric-air-taxi-developer-vertical-aerospace-secures-e86-6-million-in-financing-commitments/
-  source: eu-startups
-  date_found: '2026-08-11'
-  parsed_company: Bristol’s electric ‘air taxi’ developer Vertical Aerospace
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Luxembourg’s space BioTech Exobiosphere secures €1 million to find “cures
-    from space”
-  url: https://www.eu-startups.com/2026/08/luxembourgs-space-biotech-exobiosphere-secures-e1-million-to-find-cures-from-space/
-  source: eu-startups
-  date_found: '2026-08-11'
-  parsed_company: Luxembourg’s space BioTech Exobiosphere
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Zug-based Zerolook raises €1.6 million to tackle AI-driven flight search
-    costs
-  url: https://www.eu-startups.com/2026/08/zug-based-zerolook-raises-e1-6-million-to-tackle-ai-driven-flight-search-costs/
-  source: eu-startups
-  date_found: '2026-08-11'
-  parsed_company: Zug-based Zerolook
-  parsed_amount: null
-  parsed_round: null
   status: pending
