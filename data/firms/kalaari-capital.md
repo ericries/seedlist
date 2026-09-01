@@ -102,7 +102,7 @@ This table covers ~40 of Kalaari's most notable named investments drawn from its
 | EloElo | Series A | 2022 | — | Creator economy | Active [^2] |
 | Studio Sirah | Pre-Series A | 2022 | — | Gaming | Active [^2] |
 | Clean Electric | Seed | 2022 | — | Climate / battery | Active [^2] |
-| ByteXL | Series A | 2024-07-18 | — | Edtech | Active ($5.9M Kalaari-led) [^8] |
+| ByteXL | Series A ($5.9M; Kalaari led; Michael & Susan Dell Foundation participated) | 2024-07-18 | Sampath P | Edtech | Active [^8][^25][^26][^27] |
 | Aeria | Seed | 2024-05-23 | — | Proptech | Active ($1.8M) [^8] |
 | Articulus Surgical | Seed | 2026-02-12 | — | Medtech | Active [^8] |
 | HireBound | Seed | 2026-02-24 | — | HRtech | Active [^8] |
@@ -151,3 +151,6 @@ No independently sourced verbatim founder testimonials about Kalaari Capital mee
 [^22]: TechCrunch (Catherine Shu), "CashKaro Raises USD 3.8M Series A To Become The Ebates Of Southeast Asia," November 16, 2015, accessed July 2026. Confirms USD 3.8M Series A from Kalaari Capital as sole investor. https://techcrunch.com/2015/11/16/cashkaro/
 [^23]: Business Standard, "CashKaro receives Rs 25 crore in series A funding from Kalaari Capital," November 16, 2015 (per URL slug 115111600879), accessed July 2026. Confirms Rs 25 crore Series A from Kalaari Capital. https://www.business-standard.com/article/companies/cashkaro-receives-rs-25-crore-in-series-a-funding-from-kalaari-capital-115111600879_1.html
 [^24]: CashKaro company blog, "CashKaro Raises Rs. 25 Crore from Kalaari Capital!" published November 2015, accessed July 2026. Company's own announcement confirming Rs 25 crore Series A from Kalaari Capital. https://cashkaro.com/blog/cashkaro-raises-rs-25-crore-from-kalaari-capital/1241
+[^25]: YourStory, "Edtech firm byteXL bags $5.9M Series A funding led by Kalaari Capital," July 18, 2024, accessed September 2026. https://yourstory.com/2024/07/edtech-bytexl-59-million-funding-kalaari-capital — Contemporaneous Indian tech-press coverage confirming $5.9M Series A led by Kalaari Capital with participation from the Michael & Susan Dell Foundation; founders Karun Tadepalli and Sricharan Tadepalli named; Hyderabad HQ.
+[^26]: Entrepreneur India, "Kalaari Capital and Dell Foundation Lead USD 5.9 Mn Investment in ByteXL," July 18, 2024, accessed September 2026. https://india.entrepreneur.com/news-and-trends/kalaari-capital-and-dell-foundation-lead-usd-59-mn/477225 — Confirms date, amount, lead, and quotes Sampath P (Partner, Kalaari Capital) on the investment thesis for tech-education-readiness plays.
+[^27]: EdTechReview, "byteXL Raises $5.9M in Series A Round From Kalaari Capital, Others," July 18, 2024, accessed September 2026. https://www.edtechreview.in/news/bytexl-raises-5-9m-in-series-a-round-from-kalaari-capital-others/ — Third independent confirmation of Series A amount, lead, and Michael & Susan Dell Foundation as co-participant.
