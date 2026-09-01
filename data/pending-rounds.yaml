@@ -66,6 +66,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series C
   status: pending
+- title: AIR raises $50M to help companies vet the skills and add-ons AI agents use
+  url: https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/
+  source: techcrunch
+  date_found: '2026-09-01'
+  parsed_company: AIR
+  parsed_amount: $50M
+  parsed_round: null
+  status: pending
 - title: Finland’s S-Transistors raises €2.6 million to build the world’s first quantum
     motherboard
   url: https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/
@@ -166,6 +174,15 @@ pending_rounds:
   date_found: '2026-08-31'
   parsed_company: null
   parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment
+    fund
+  url: https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/
+  source: techcrunch
+  date_found: '2026-08-31'
+  parsed_company: Polymarket reportedly
+  parsed_amount: $300M
   parsed_round: null
   status: pending
 - title: Inflection Point Acquisition VIII raised $250M
@@ -857,14 +874,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-08-11'
   parsed_company: Zug-based Zerolook
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/11/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-11-2026/
-  source: alleywatch
-  date_found: '2026-08-11'
-  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
