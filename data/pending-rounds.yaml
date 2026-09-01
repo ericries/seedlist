@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Berlin-based Cloover secures €86.2 million facility as it reaches profitability
+    and launches AI-native neo-utility
+  url: https://www.eu-startups.com/2026/09/berlin-based-cloover-secures-e86-2-million-facility-as-it-reaches-profitability-and-launches-ai-native-neo-utility/
+  source: eu-startups
+  date_found: '2026-09-01'
+  parsed_company: Berlin-based Cloover
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Finland’s S-Transistors raises €2.6 million to build the world’s first quantum
     motherboard
   url: https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/
