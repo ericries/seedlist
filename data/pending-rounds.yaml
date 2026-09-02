@@ -72,30 +72,6 @@ pending_rounds:
   parsed_amount: $30M
   parsed_round: Series A
   status: pending
-- title: Tripo AI raised $446M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Tripo AI
-  parsed_amount: $446M
-  parsed_round: null
-  status: pending
-- title: Felix Pago raised $87M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Felix Pago
-  parsed_amount: $87M
-  parsed_round: Series C
-  status: pending
-- title: Typewriter Therapeutics raised $56M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Typewriter Therapeutics
-  parsed_amount: $56M
-  parsed_round: Series A
-  status: pending
 - title: AIR raised $50M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -144,14 +120,6 @@ pending_rounds:
   parsed_amount: $47M
   parsed_round: null
   status: pending
-- title: Empirik raised $21M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Empirik
-  parsed_amount: $21M
-  parsed_round: Seed
-  status: pending
 - title: Particula raised $15M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -159,14 +127,6 @@ pending_rounds:
   parsed_company: Particula
   parsed_amount: $15M
   parsed_round: null
-  status: pending
-- title: Norbert Health raised $14M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Norbert Health
-  parsed_amount: $14M
-  parsed_round: Series A
   status: pending
 - title: Catch raised $5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -206,6 +166,14 @@ pending_rounds:
   date_found: '2026-09-02'
   parsed_company: an SF-based maker of IT agents that had
   parsed_amount: $26M
+  parsed_round: null
+  status: pending
+- title: Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation
+  url: https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/
+  source: crunchbase
+  date_found: '2026-09-02'
+  parsed_company: Former Apple Engineers’ Physical AI Startup Lyte
+  parsed_amount: $165M
   parsed_round: null
   status: pending
 - title: Berlin-based Cloover secures €86.2 million facility as it reaches profitability
@@ -841,15 +809,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-08-19'
   parsed_company: Scotland’s Singular Photonics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s Medly raises €6.9 million to democratise access to personalised
-    education through an AI tutor
-  url: https://www.eu-startups.com/2026/08/londons-medly-raises-e6-9-million-to-democratise-access-to-personalised-education-through-an-ai-tutor/
-  source: eu-startups
-  date_found: '2026-08-19'
-  parsed_company: London’s Medly
   parsed_amount: null
   parsed_round: null
   status: pending

@@ -1,4 +1,9 @@
 priority:
+- slug: lyte
+  type: startup
+  reason: |
+    Round monitoring 2026-09-02: Created lean profile for $165M Series C (2026-09-02) led by Maverick Silicon, with Fidelity Management, Atreides Management, Key1 Capital, and Ora Global participating. Post-money valuation $1.6B; total raised $272M since 2021. Sources: (1) Crunchbase News; (2) Lyte company blog /news/series-c; (3) Lyte prior stealth-exit blog. Founders Alexander Shpunt (ex-PrimeSense), Arman Hajati, Yuval Gerson — all former Apple engineers. Needs 3rd independent tech-press verification when accessible.
+  added: 2026-09-02
 - slug: xona-space-systems
   type: startup
   reason: "Fact-spec 2026-09-02: Missing Series B row + Series C stage misclassified as 'Growth'."
