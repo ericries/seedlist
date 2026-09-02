@@ -29,18 +29,22 @@ Lyte is a Sunnyvale, CA-based physical AI startup founded in 2021 by former Appl
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-02 | Series C | $165M | Maverick Silicon | Fidelity Management & Research, Atreides Management, Key1 Capital, Ora Global [^1][^2] |
+| 2026-09-02 | Series C | $165M | Maverick Silicon | Fidelity Management & Research, Atreides Management, Key1 Capital, Ora Global (formerly Exor Ventures) [^1][^2] |
 | 2026-01-05 | Seed + Series A/B (combined, disclosed at stealth exit) | $107M | Undisclosed | Undisclosed [^3] |
 
-Post-money valuation at Series C: $1.6B [^1][^2]. Total capital raised since 2021: $272M [^1][^2].
+Post-money valuation at Series C: $1.6B [^1][^2]. Total capital raised since 2021: $272M [^1][^2]. As part of the Series C, Andrew Homan (Managing Partner at Maverick Silicon) joined Lyte's board of directors [^2].
 
 ## What Investors Say
 
-No independently sourced investor quotes found beyond boilerplate.
+Andrew Homan, Managing Partner at Maverick Silicon: "Lyte is building a foundational sensing platform that enables a wide range of robots to perceive and understand the world around them." [^2]
+
+Avigdor Willenz, Chairman of Lyte: "Owning the silicon separates companies that define a category from those that participate in one." [^2]
 
 ## What Founders Say
 
-Alexander Shpunt (CEO & Co-Founder): "Physical AI will create entirely new categories of robots, and every one of them will need to understand the world around it." [^1]
+Alexander Shpunt (CEO & Co-Founder): "Physical AI will create entirely new categories of robots, and every one of them will need to understand the world around it. That requires a new kind of perception: precise, real-time understanding of geometry and motion that machines can trust enough to act on." [^1][^2]
+
+Alexander Shpunt (CEO & Co-Founder): "Physical AI has a sensing problem before it has a model problem. A robot cannot act safely on data that does not faithfully describe the world." [^2]
 
 ## Sources
 

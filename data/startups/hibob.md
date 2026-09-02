@@ -33,7 +33,13 @@ HiBob is the company behind "Bob," a people-management platform that connects HR
 
 ## What Investors Say
 
+Joe Teplow, Chief Strategy Officer at Slack and SVP at Salesforce Labs: "This trusted foundation of workforce context makes AI more useful, relevant, and connected to how businesses actually operate." [^1]
+
+Ryan Gavin, CMO of Slack: "Trusted workforce context provides that foundation, making AI more relevant to the teams using it." [^1]
+
 ## What Founders Say
+
+Ronni Zehavi (Co-Founder & CEO): "Salesforce's investment validates our belief that AI is changing the architecture of organizations." [^1]
 
 ## Sources
 
