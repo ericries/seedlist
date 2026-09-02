@@ -1,4 +1,20 @@
 priority:
+- slug: empirik
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created lean profile for $21M seed (2026-09-01) led by Sequoia Capital with Canapi and Alumni Ventures. Source: TechCrunch. Needs 2+ additional primary sources."
+  added: 2026-09-01
+- slug: easy-aerial
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created lean profile for $20M Series B (2026-09-01) led by Insight Partners with Entree Capital. Sources: AlleyWatch, Easy Aerial site. Needs 1+ additional primary source (press release/PR wire)."
+  added: 2026-09-01
+- slug: sequoia-capital
+  type: firm
+  reason: "Appeared in Empirik seed round 2026-09-01 (lead)."
+  added: 2026-09-01
+- slug: insight-partners
+  type: firm
+  reason: "Appeared in Easy Aerial Series B 2026-09-01 (lead)."
+  added: 2026-09-01
 - slug: metriport
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for $26M Series A (2026-08-27) led by Matrix with ARTIS and Y Combinator. Sources: Metriport company blog, AlleyWatch weekly report."
@@ -5390,4 +5406,20 @@ priority:
 - slug: light-power
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for $46M Series A (2026-09-01) led by Matrix with Activate Capital, Spark Capital, Mischief, Gigascale Capital, MCJ, BoxGroup. Sources: PR Newswire (Light press release)."
+  added: 2026-09-01
+- slug: easy-aerial
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created profile for $20M Series B (2026-08-31) led by Insight Partners with Entrée Capital and private U.S. investors. Sources: Business Wire, Yahoo Finance, Defense Daily."
+  added: 2026-09-01
+- slug: hubx
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created profile for $50M growth round (up to $75M) (2026-08-28) from Point72 Private Investments at $1.2B pre-money. Turkiye's 8th unicorn. Sources: HubX company news, Daily Sabah, Investing.com/FinanceWire."
+  added: 2026-09-01
+- slug: blue-voice
+  type: startup
+  reason: "Round monitoring 2026-09-01: Created profile for $6M seed (2026-08-31) led by SignalFire and Las Olas VC. Boston-based AI copilot for police officers. Sources: TechCrunch, American Bazaar Online."
+  added: 2026-09-01
+- slug: insight-partners
+  type: firm
+  reason: "Appeared in Easy Aerial Series B (2026-08-31)"
   added: 2026-09-01
