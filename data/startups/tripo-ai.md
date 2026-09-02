@@ -7,13 +7,13 @@ location: "Beijing, China"
 founded: 2024
 status_company: active
 sector: [ai, generative-ai, 3d, gaming]
-stage_latest: "Series A3"
-total_raised: "~$400M"
+stage_latest: "Series B"
+total_raised: "~$850M"
 investors: []
 firms: []
 founders: []
 status: published
-last_researched: 2026-07-07
+last_researched: 2026-09-02
 ---
 
 ## About
@@ -27,8 +27,9 @@ Tripo AI (operated by Vast) is a Chinese AI startup building generative 3D and w
 | 2026-03-25 | Series A | $50M | Not disclosed | Not disclosed [^1] |
 | 2026-06-01 | Series A+ / A++ | ~$200M | Ince Capital, China Life-affiliated technology fund | Genesis Capital, Eminence Ventures, Primavera, Alibaba, Baidu [^1][^2][^3] |
 | 2026-07-02 | Series A3 | $150M | Not specified | Geely Capital, 4399 Network, Tanwan, Giant Network, Fosun Capital, Orinno Capital, CoStone Capital, Addor Capital, T-Capital, Muhua Tech Ventures, Ince Capital, Genesis Capital [^4] |
+| 2026-09-01 | Series B / B+ | ~$446M (RMB 3B) | MPCi | Perfect World, Yanqu Games, 37 Interactive Entertainment, BlueFocus Communication Group, ThunderSoft, CDH Venture and Growth Capital, CICC, CMC Capital Partners, Hongtai Aplus, 3H Health, Zhongping Capital, GreatOrigin Asia, Fortune Capital, Primavera Capital, 4399 Network, Muhua Tech Ventures, Vitalbridge Capital, INCE Capital, T-Capital [^5][^6][^7] |
 
-The Series A+/A++ round announced June 1, 2026 brought roughly $200 million in fresh capital approximately 2.2 months after the company's initial $50M Series A, materially expanding its capitalization for AI 3D and world-model R&D [^1][^2]. A subsequent Series A3 announced July 2, 2026 added another $150 million, drawing new backers from the automotive, gaming, and internet sectors alongside continued participation from Ince Capital and Genesis Capital [^4].
+The Series A+/A++ round announced June 1, 2026 brought roughly $200 million in fresh capital approximately 2.2 months after the company's initial $50M Series A, materially expanding its capitalization for AI 3D and world-model R&D [^1][^2]. A subsequent Series A3 announced July 2, 2026 added another $150 million, drawing new backers from the automotive, gaming, and internet sectors alongside continued participation from Ince Capital and Genesis Capital [^4]. On September 1, 2026, VAST (parent of Tripo AI) announced combined Series B and Series B+ financing totaling roughly RMB 3 billion (~$446 million), led by MPCi with a broad group of new strategic and financial investors joining alongside returning backers, bringing total capital raised to approximately $850 million [^5][^6][^7].
 
 ## What Investors Say
 
@@ -44,3 +45,6 @@ No independently sourced founder quotes available at the time of profile creatio
 [^2]: "Vast Raises Nearly $200M for Tripo AI 3D Models," Implicator.ai, June 2026. https://www.implicator.ai/vast-raises-nearly-200-million-for-tripo-ai-3d-models/ (accessed June 2026)
 [^3]: "Tripo AI Raises $200M Series A Extension," The SaaS News, June 2026. https://www.thesaasnews.com/news/tripo-ai-raises-200m-series-a-extension/ (accessed June 2026)
 [^4]: "Tripo AI Raises $150 Million in Series A3 Financing, Backed by Investors Across Automotive, Gaming, Internet, and Technology Sectors," GlobeNewswire, July 2, 2026. https://www.globenewswire.com/news-release/2026/07/02/3321436/0/en/tripo-ai-raises-150-million-in-series-a3-financing-backed-by-investors-across-automotive-gaming-internet-and-technology-sectors.html (accessed July 2026)
+[^5]: DealStreetAsia, "HK-based Tripo AI-developer VAST raises $446m," September 2026, accessed September 2026. https://www.dealstreetasia.com/stories/tripo-ai-series-b-rounds-493956
+[^6]: WOWTALE, "Tripo AI Raises $446 Million in Series B and Series B+ Funding," September 2, 2026, accessed September 2026. https://en.wowtale.net/2026/09/02/234975/
+[^7]: FinSMEs, "Tripo AI Raises Approx. $446M in Series B Funding," September 2026, accessed September 2026. https://www.finsmes.com/2026/09/tripo-ai-raises-approx-446m-in-series-b-funding.html

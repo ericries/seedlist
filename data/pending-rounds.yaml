@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: The August 2026 New York Venture Capital Funding Report
+  url: https://alleywatch.com/2026/09/the-august-2026-new-york-venture-capital-funding-report/
+  source: alleywatch
+  date_found: '2026-09-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Adressing complicated pregnancies, iPremom raises €15 million to advance
     early detection
   url: https://www.eu-startups.com/2026/09/adressing-complicated-pregnancies-ipremom-raises-e15-million-to-advance-early-detection/
@@ -36,6 +44,168 @@ pending_rounds:
   date_found: '2026-09-02'
   parsed_company: German SpaceTech HyImpulse
   parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: UK startup Pharosyn raises €2.5 million for pharma competitive intelligence
+    platform
+  url: https://www.eu-startups.com/2026/09/uk-startup-pharosyn-raises-e2-5-million-for-pharma-competitive-intelligence-platform/
+  source: eu-startups
+  date_found: '2026-09-02'
+  parsed_company: UK startup Pharosyn
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: MIRAVA raises €4.2 million to build a new category in recreational boating
+    (Sponsored)
+  url: https://www.eu-startups.com/2026/09/mirava-raises-e4-2-million-to-build-a-new-category-in-recreational-boating-sponsored/
+  source: eu-startups
+  date_found: '2026-09-02'
+  parsed_company: MIRAVA
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: per Forbes. It previously raised $30M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: per Forbes. It previously
+  parsed_amount: $30M
+  parsed_round: Series A
+  status: pending
+- title: Tripo AI raised $446M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Tripo AI
+  parsed_amount: $446M
+  parsed_round: null
+  status: pending
+- title: Felix Pago raised $87M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Felix Pago
+  parsed_amount: $87M
+  parsed_round: Series C
+  status: pending
+- title: Typewriter Therapeutics raised $56M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Typewriter Therapeutics
+  parsed_amount: $56M
+  parsed_round: Series A
+  status: pending
+- title: AIR raised $50M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: AIR
+  parsed_amount: $50M
+  parsed_round: null
+  status: pending
+- title: Conveo raised $50M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Conveo
+  parsed_amount: $50M
+  parsed_round: Series A
+  status: pending
+- title: SciFin raised $44M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: SciFin
+  parsed_amount: $44M
+  parsed_round: Seed
+  status: pending
+- title: Wafer raised $40M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Wafer
+  parsed_amount: $40M
+  parsed_round: Series A
+  status: pending
+- title: Huskeys raised $27M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Huskeys
+  parsed_amount: $27M
+  parsed_round: Series A
+  status: pending
+- title: and Transition Ventures. It also raised $47M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: and Transition Ventures. It also
+  parsed_amount: $47M
+  parsed_round: null
+  status: pending
+- title: Empirik raised $21M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Empirik
+  parsed_amount: $21M
+  parsed_round: Seed
+  status: pending
+- title: Particula raised $15M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Particula
+  parsed_amount: $15M
+  parsed_round: null
+  status: pending
+- title: Norbert Health raised $14M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Norbert Health
+  parsed_amount: $14M
+  parsed_round: Series A
+  status: pending
+- title: Catch raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Catch
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: Ki 13 raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Ki 13
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: an application virtualization tech company that had raised $15M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: an application virtualization tech company that had
+  parsed_amount: $15M
+  parsed_round: null
+  status: pending
+- title: Three Lions Acquisition raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: Three Lions Acquisition
+  parsed_amount: $100M
+  parsed_round: null
+  status: pending
+- title: an SF-based maker of IT agents that had raised $26M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-02'
+  parsed_company: an SF-based maker of IT agents that had
+  parsed_amount: $26M
   parsed_round: null
   status: pending
 - title: Berlin-based Cloover secures €86.2 million facility as it reaches profitability
@@ -682,179 +852,4 @@ pending_rounds:
   parsed_company: London’s Medly
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Copenhagen’s Aisel Health raises €1.7 million to scale its AI operating system
-    for psychiatric care
-  url: https://www.eu-startups.com/2026/08/copenhagens-aisel-health-raises-e1-7-million-to-scale-its-ai-operating-system-for-psychiatric-care/
-  source: eu-startups
-  date_found: '2026-08-19'
-  parsed_company: Copenhagen’s Aisel Health
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Rivian spinout Also raises another $150M
-  url: https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/
-  source: techcrunch
-  date_found: '2026-08-19'
-  parsed_company: Rivian spinout Also
-  parsed_amount: $150M
-  parsed_round: null
-  status: pending
-- title: Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus
-    investment
-  url: https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/
-  source: techcrunch
-  date_found: '2026-08-19'
-  parsed_company: Sachin Bansal’s fintech Navi
-  parsed_amount: $100M
-  parsed_round: null
-  status: pending
-- title: A year after their last raise, Germany’s Flip raises €22 million to scale
-    its frontline AI platform
-  url: https://www.eu-startups.com/2026/08/a-year-after-their-last-raise-germanys-flip-raises-e22-million-to-scale-its-frontline-ai-platform/
-  source: eu-startups
-  date_found: '2026-08-19'
-  parsed_company: A year after their last raise, Germany’s Flip
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Gambling on the Little League World Series? Sports bettors have gone too
-    far
-  url: https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/
-  source: techcrunch
-  date_found: '2026-08-19'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/19/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-19-2026/
-  source: alleywatch
-  date_found: '2026-08-19'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Sweden’s SweGaN raises €12.1 million to scale gallium nitride on silicon
-    carbide epitaxial wafer production
-  url: https://www.eu-startups.com/2026/08/swedens-swegan-raises-e12-1-million-to-scale-gallium-nitride-on-silicon-carbide-epitaxial-wafer-production/
-  source: eu-startups
-  date_found: '2026-08-18'
-  parsed_company: Sweden’s SweGaN
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Miata Metals Closes C$25.2 Million Financing Including 19.9% Strategic Investment
-    by La Mancha
-  url: https://www.globenewswire.com/news-release/2026/08/18/3346929/0/en/miata-metals-closes-c-25-2-million-financing-including-19-9-strategic-investment-by-la-mancha.html
-  source: globenewswire
-  date_found: '2026-08-18'
-  parsed_company: Miata Metals
-  parsed_amount: $25.2M
-  parsed_round: null
-  status: pending
-- title: Reach Capital raises $265M Fund V to back AI founders building to ‘expand
-    human potential’
-  url: https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/
-  source: techcrunch
-  date_found: '2026-08-18'
-  parsed_company: Reach Capital
-  parsed_amount: $265M
-  parsed_round: null
-  status: pending
-- title: Detroit startup Grounded raises $5M to customize electric and gas-powered
-    vans
-  url: https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/
-  source: techcrunch
-  date_found: '2026-08-18'
-  parsed_company: Detroit startup Grounded
-  parsed_amount: $5M
-  parsed_round: null
-  status: pending
-- title: Germany’s Computomics secures €6.3 million to help crop breeders stay ahead
-    of heat and drought
-  url: https://www.eu-startups.com/2026/08/germanys-computomics-secures-e6-3-million-to-help-crop-breeders-stay-ahead-of-heat-and-drought/
-  source: eu-startups
-  date_found: '2026-08-18'
-  parsed_company: Germany’s Computomics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Vilnius-based LITILIT secures €8 million financing to make femtosecond laser
-    systems scalable
-  url: https://www.eu-startups.com/2026/08/vilnius-based-litilit-secures-e8-million-financing-to-make-femtosecond-laser-systems-scalable/
-  source: eu-startups
-  date_found: '2026-08-18'
-  parsed_company: Vilnius-based LITILIT
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/18/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-18-2026/
-  source: alleywatch
-  date_found: '2026-08-18'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: MAX Power Closes $10 Million Strategic Investment From Eric Sprott to Advance
-    Commercial Validation at Lawson
-  url: https://www.globenewswire.com/news-release/2026/08/17/3345958/0/en/max-power-closes-10-million-strategic-investment-from-eric-sprott-to-advance-commercial-validation-at-lawson.html
-  source: globenewswire
-  date_found: '2026-08-17'
-  parsed_company: MAX Power
-  parsed_amount: $10M
-  parsed_round: null
-  status: pending
-- title: UK-based SpaceAM closes Seed round to scale AI-powered sensing technology
-    for defence and space
-  url: https://www.eu-startups.com/2026/08/uk-based-spaceam-closes-seed-round-to-scale-ai-powered-sensing-technology-for-defence-and-space/
-  source: eu-startups
-  date_found: '2026-08-17'
-  parsed_company: UK-based SpaceAM
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: Norway’s Birdsview raises €3.7 million to scale its “MRI for concrete” technology
-    and protect infrastructure
-  url: https://www.eu-startups.com/2026/08/norways-birdsview-raises-e3-7-million-to-scale-its-mri-for-concrete-technology-and-protect-infrastructure/
-  source: eu-startups
-  date_found: '2026-08-17'
-  parsed_company: Norway’s Birdsview
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Aachen-based amber raises €7 million Series A to build the infrastructure
-    for autonomous business AI
-  url: https://www.eu-startups.com/2026/08/aachen-based-amber-raises-e7-million-series-a-to-build-the-infrastructure-for-autonomous-business-ai/
-  source: eu-startups
-  date_found: '2026-08-17'
-  parsed_company: Aachen-based amber
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/17/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-17-2026/
-  source: alleywatch
-  date_found: '2026-08-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 8/17/26'
-  url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-17-26/
-  source: alleywatch
-  date_found: '2026-08-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Gravis Robotics becomes Europe’s latest unicorn after €172 million Series
-    A
-  url: https://www.eu-startups.com/2026/08/gravis-robotics-becomes-europes-latest-robotics-unicorn-after-e172-million-series-a/
-  source: eu-startups
-  date_found: '2026-08-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series A
   status: pending

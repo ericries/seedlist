@@ -5441,3 +5441,19 @@ priority:
   type: firm
   reason: "Appeared in Easy Aerial Series B (2026-08-31)"
   added: 2026-09-01
+- slug: typewriter-therapeutics
+  type: startup
+  reason: "Round monitoring 2026-09-02: Created new profile for $56M Series A (2026-09-02) co-led by AN Venture Partners and RA Capital, with ANRI, Gemseki, SBI US Gateway Fund. Sources: PR Newswire, Endpoints News, RA Capital portfolio."
+  added: 2026-09-02
+- slug: norbert-health
+  type: startup
+  reason: "Round monitoring 2026-09-02: Created new profile for $14M Series A (2026-09-01) led by Cardinal Capital Group with EXOR N.V., Careit, and angels including Olivier Pomel, Alexis Le-Quoc, Saeju Jeong, Thomas Clozel. Sources: AlleyWatch daily, Axios Pro Rata."
+  added: 2026-09-02
+- slug: tripo-ai
+  type: startup
+  reason: "Round monitoring 2026-09-02: Added ~$446M (RMB 3B) Series B/B+ (2026-09-01) led by MPCi. Sources: DealStreetAsia, WOWTALE, FinSMEs."
+  added: 2026-09-02
+- slug: olivier-pomel
+  type: investor
+  reason: "Appeared as angel in Norbert Health Series A (2026-09-01)"
+  added: 2026-09-02
