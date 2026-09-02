@@ -44,6 +44,7 @@ import re
 import csv
 import difflib
 from pathlib import Path
+from datetime import date
 
 import frontmatter
 
@@ -652,7 +653,7 @@ def cmd_queue_add(name, type_="individual", firm=None, priority="normal",
         "type": type_,
         "priority": priority,
         "status": "pending",
-        "added": "2026-03-17",
+        "added": date.today().isoformat(),
     }
     if firm:
         entry["firm"] = firm

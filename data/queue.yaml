@@ -3839,7 +3839,7 @@ queue:
   discovered_from: pagerduty
 - name: Foundation Capital
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: chegg
@@ -3857,7 +3857,7 @@ queue:
   discovered_from: placer-ai
 - name: WndrCo
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: placer-ai
@@ -6522,13 +6522,13 @@ queue:
   discovered_from: deena-shakir
 - name: Wing Venture Capital
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: ali-tamaseb
 - name: Innovation Endeavors
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: ali-tamaseb
@@ -7128,7 +7128,7 @@ queue:
   discovered_from: dan-levitan
 - name: Fifty Years
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: zal-bilimoria
@@ -8717,7 +8717,7 @@ queue:
   discovered_from: manna-air-delivery
 - name: Radical Ventures
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: emerald-ai
@@ -9798,7 +9798,7 @@ queue:
   discovered_from: gina-gotthilf
 - name: Goodwater Capital
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: slash
@@ -10416,7 +10416,7 @@ queue:
   source: investor in 3 startup funding rounds
 - name: Bain Capital Ventures
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: centivo
@@ -10430,7 +10430,7 @@ queue:
   source: investor in 2 startup funding rounds
 - name: Susa Ventures
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: chapter
@@ -10598,7 +10598,7 @@ queue:
   source: investor in 2 startup funding rounds
 - name: Norwest Venture Partners
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: faire
@@ -10710,7 +10710,7 @@ queue:
   source: investor in 2 startup funding rounds
 - name: Base10 Partners
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: notion
@@ -10731,7 +10731,7 @@ queue:
   source: investor in 2 startup funding rounds
 - name: FirstMark Capital
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: pinterest
@@ -10801,7 +10801,7 @@ queue:
   source: investor in 2 startup funding rounds
 - name: Horizons Ventures
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: spotify
@@ -12732,7 +12732,7 @@ queue:
   source: 'portfolio company of 4 investors: pejman-nozad, joe-lonsdale, mar-hershenson'
 - name: Affinity
   type: startup
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: pejman-nozad
@@ -18279,7 +18279,7 @@ queue:
   source: Compound participated in OpenAI-led $15M seed Dec 2025; AI biosecurity
 - name: Hummingbird Ventures
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: shelby-newsad
@@ -18301,7 +18301,7 @@ queue:
   source: Cambridge UK biotech accelerator; Shelby Newsad's prior firm
 - name: Octopus Ventures
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: shelby-newsad
@@ -22479,7 +22479,7 @@ queue:
   source: Founder & Managing Partner of Define Ventures, joining 9amHealth board (2026-05-13)
 - name: SemperVirens VC
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: 9amhealth
@@ -23767,7 +23767,7 @@ queue:
   discovered_from: greg-gottesman
 - name: Smash Ventures
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: greg-gottesman
@@ -24005,7 +24005,7 @@ queue:
   discovered_from: mike-rosengarten
 - name: Crosslink Capital
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: mike-rosengarten
@@ -24220,7 +24220,7 @@ queue:
   discovered_from: sigma-computing
 - name: Headline
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: searchable
@@ -26474,7 +26474,7 @@ queue:
   source: Co-founder of Lassie; first product hire at Superhuman
 - name: Toba Capital
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: scotch
@@ -31035,7 +31035,7 @@ queue:
   source: investor in 3 startup funding rounds
 - name: Smash Capital
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: allen-control-systems
@@ -31875,7 +31875,7 @@ queue:
   source: investor in 2 startup funding rounds
 - name: WestBridge Capital
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: nexthop-ai
@@ -32713,7 +32713,7 @@ queue:
   discovered_from: quantifind
 - name: Deloitte Ventures
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: quantifind
@@ -33910,7 +33910,7 @@ queue:
     A led by Theory)
 - name: Delphi Ventures
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   firm: Delphi Ventures
@@ -36082,7 +36082,7 @@ queue:
   source: lead of Devplan seed (2026-06-18); Allen Institute for AI incubator
 - name: Mighty Capital
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: devplan
@@ -36887,7 +36887,7 @@ queue:
   source: led Tangos AI Seed (2026-07-07), $20M
 - name: Leaders Fund
   type: firm
-  priority: normal
+  priority: high
   status: pending
   added: '2026-03-17'
   discovered_from: tangos-ai
@@ -46446,3 +46446,173 @@ queue:
   status: pending
   added: '2026-03-17'
   discovered_from: solace-care
+- name: Maven Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Balli
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: FPV Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Verdict Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: New Markets Venture Partners
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: YZi Labs
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Industry Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: DTC
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Tola Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: ECMC Group
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Strada Education Foundation
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Bicycle Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Dalio Family Office
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Roar Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: GSV Ventures
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Learn Capital
+  type: firm
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Joe Gebbia
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Elon Musk
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Dharmesh Shah
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Steve Ballmer
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: MacKenzie Scott
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Akshay Kothari
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Jason Citron
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Evan Moore
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Brian Chesky
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Brian Armstrong
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Laurene Powell Jobs
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Varun Mohan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Alexandr Wang
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Mira Murati
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Michael Dell
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Priscilla Chan
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Larry Page
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
+- name: Sergey Brin
+  type: individual
+  priority: high
+  status: pending
+  added: '2026-09-02'
