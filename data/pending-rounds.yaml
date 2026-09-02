@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Adressing complicated pregnancies, iPremom raises €15 million to advance
+    early detection
+  url: https://www.eu-startups.com/2026/09/adressing-complicated-pregnancies-ipremom-raises-e15-million-to-advance-early-detection/
+  source: eu-startups
+  date_found: '2026-09-02'
+  parsed_company: Adressing complicated pregnancies, iPremom
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: German SpaceTech HyImpulse secures over €50 million to accelerate Europe’s
+    sovereign launch capabilities
+  url: https://www.eu-startups.com/2026/09/german-spacetech-hyimpulse-secures-over-e50-million-to-accelerate-europes-sovereign-launch-capabilities/
+  source: eu-startups
+  date_found: '2026-09-02'
+  parsed_company: German SpaceTech HyImpulse
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Berlin-based Cloover secures €86.2 million facility as it reaches profitability
     and launches AI-native neo-utility
   url: https://www.eu-startups.com/2026/09/berlin-based-cloover-secures-e86-2-million-facility-as-it-reaches-profitability-and-launches-ai-native-neo-utility/
