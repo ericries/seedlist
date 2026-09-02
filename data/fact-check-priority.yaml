@@ -5473,3 +5473,7 @@ priority:
   type: investor
   reason: "Appeared as angel in Norbert Health Series A (2026-09-01)"
   added: 2026-09-02
+- slug: lyte
+  type: startup
+  reason: "Series C round ($165M, 2026-09-02) — new profile created"
+  added: 2026-09-02
