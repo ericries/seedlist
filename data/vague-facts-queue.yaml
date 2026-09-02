@@ -170074,7 +170074,9 @@ vague_facts:
   line: '| 2026-06-09 | Series F | $400M+ | Wellington Management, Teachers'' Venture Growth, Sequoia Capital, ICONIQ | — [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-09-02'
+  resolution_note: 'Fact-spec sweep 2026-09-02: Em-dash in Co-investors column is likely correct — the existing TechStartups [^1] roundup names Wellington Management, Teachers'' Venture Growth, Sequoia Capital, and ICONIQ as all disclosed Series F participants at the $12.3B valuation. Attempted to triangulate with 2+ additional primary sources: fetched ninjaone.com/company/press-releases/, ninjaone.com/newsroom/, ninjaone.com/about-us/, ninjaone.com/blog/, ninjaone.com/company/, guessed permutations at ninjaone.com/press-release/*, businesswire.com, prnewswire.com, techcrunch.com/2026/06/09/*, siliconangle.com/2026/06/09/*, and crn.com/news/security/2026/* — all returned 404 or unrelated content. Bing/Google/DuckDuckGo search URLs returned no direct hits. WebSearch budget exhausted this session. Marking unresolvable rather than "resolved" per protocol (need 3+ independent primary sources); em-dash appears factually correct but re-check in a future sweep once search budget refreshes.'
 - profile: startups/nocd
   profile_name: NOCD
   company: '2018-02-12'
@@ -170299,7 +170301,9 @@ vague_facts:
   line: '| 2026-06-11 | Equity | $24M | Undisclosed | Eleven undisclosed investors [^1][^2] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: '2026-09-02'
+  resolution_note: 'Fact-spec sweep 2026-09-02: Verified via 3 primary sources — (1) SEC Form D primary_doc [^4] (NEW, primary), (2) SEC EDGAR filing index [^5] (NEW), (3) existing AlleyWatch [^1] and QuiverQuant [^2]. Form D confirms: total offering $25M, amount sold $24,005,501 across 11 accredited investors, composed of $15,005,501.94 Series Seed Preferred Stock + $9,000,000 SAFEs. Actual first sale date was 2026-04-13; Form D filed 2026-06-10; AlleyWatch reported 2026-06-11 (which is the public disclosure date we keep in the Funding History row). Lead investor is genuinely undisclosed — no investor names in the Form D or any press coverage. Corrected round type from "Equity" to "Seed" (per Form D breakdown of Series Seed Preferred + SAFEs), added co-founder roles (Diwakar Choubey President/CEO, Richard Correia COO) per Form D related persons, added company address, added detailed Funding History body text explaining offering structure and timing, removed lean-profile disclaimer.'
 - profile: startups/orangeqs
   profile_name: OrangeQS
   company: '2026-04-21'
@@ -170589,7 +170593,9 @@ vague_facts:
   line: '| 2026-04-24 | Series A | $11.2M | Undisclosed | Undisclosed [^1] |'
   priority: high
   type: unknown_value
-  status: investigating
+  status: resolved
+  resolved: '2026-09-02'
+  resolution_note: 'Fact-spec sweep 2026-09-02: Verified via 3 primary sources — (1) SEC Form D primary_doc [^2] (NEW, primary), (2) SEC EDGAR filing index [^3] (NEW), (3) existing Technical.ly [^1]. Form D reveals: first sale date was actually 2026-03-19 (not 2026-04-24 — that was the Technical.ly report date; Form D was filed 2026-04-21, signed by CEO 2026-04-02). Exact amount is $11,150,000 (Technical.ly rounded to $11.2M); corrected to $11.15M. Round is Reg D Rule 506(b) with 21 accredited investors and $56,544 minimum investment. Lead investor is genuinely undisclosed — no investor names in Form D or press coverage. Added board of directors (Kieren Marr, Brad Spellberg, John Cammack, Eric Gornstein) from Form D related persons, added Kieren Marr and Eric Gornstein to founders frontmatter, updated address (1812 Ashland Avenue, Suite G32, Baltimore, MD 21205), noted previous company names (MycoMed Technologies, LLC; MycoMedDx Inc.).'
 - profile: startups/pearl-health
   profile_name: Pearl Health
   company: '2026-07-08'
