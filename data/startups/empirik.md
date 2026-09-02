@@ -25,19 +25,19 @@ last_researched: 2026-09-01
 
 ## About
 
-Empirik is a Sequoia-incubated AI observability startup that predicts infrastructure outages before they occur by tracking system changes and modeling their downstream ripple effects across IT environments — pitched as an "autonomous infrastructure engineer" for DevOps and SRE teams [^1]. The company launched publicly on September 1, 2026 with a $21M seed round led by Sequoia Capital, with participation from Canapi and Alumni Ventures [^1]. Co-founder and CEO Kartik Chandrayana was previously CPO of Quantum Metric and led observability at Salesforce; co-founder Avon Puri is Chief Digital and Information Officer at Sequoia (formerly Rubrik and VMware); Sudheer Dhurjati is a Sequoia IT leader [^1].
+Empirik is a Sequoia-incubated "change observability" startup that uses AI to predict infrastructure outages before they occur by tracking every system change entering an enterprise environment and modeling how it will ripple across dependent services [^1] [^2]. The platform is positioned as an autonomous "traffic cop" for infrastructure — permitting low-risk changes automatically, adding guardrails to medium-risk ones, and escalating the most dangerous updates to human engineers for review [^1] [^3]. The company was incubated inside Sequoia beginning in 2023, spun out as an independent entity on September 1, 2026, and announced a $21M seed round led by Sequoia Capital with participation from Canapi and Alumni Ventures [^1] [^2] [^3].
 
-*Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
+Co-founder and CEO Kartik Chandrayana was previously Chief Product Officer at Quantum Metric and Vice President of Observability at Salesforce; Sequoia recruited him to lead Empirik earlier in 2026 [^1] [^2]. Co-founder Avon Puri has been Sequoia Capital's Chief Digital and Information Officer since 2020, following more than a decade running infrastructure at Rubrik and VMware [^1]. Co-founder Sudheer Dhurjati is a Sequoia IT leader who worked alongside Puri on the original concept [^1].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-01 | Seed | $21M | Sequoia Capital | Canapi, Alumni Ventures [^1] |
+| 2026-09-01 | Seed | $21M | Sequoia Capital | Canapi, Alumni Ventures [^1] [^2] [^3] |
 
 ## What Investors Say
 
-No independently sourced investor quotes available at this time.
+Bogomil Balkansky (Partner, Sequoia Capital): "There has always been a lot of money spent in keeping systems up and running." [^1]
 
 ## What Founders Say
 
@@ -45,4 +45,6 @@ Kartik Chandrayana (CEO): "What agentic AI did for software, Empirik wants to do
 
 ## Sources
 
-[^1]: TechCrunch, "Sequoia-incubated Empirik launches with $21M to predict outages before they happen," September 1, 2026, accessed September 2026. https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/
+[^1]: TechCrunch, Marina Temkin, "Sequoia-incubated Empirik launches with $21M to predict outages before they happen," September 1, 2026, accessed September 2026. https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/
+[^2]: Tech Startups, "Venture Capital & Startup Funding Roundup, September 1, 2026: Andreessen Horowitz; General Catalyst, Sequoia Capital & More," September 1, 2026, accessed September 2026. https://techstartups.com/2026/09/01/venture-capital-general-catalyst-sequoia-capital-more/
+[^3]: Techmeme, "Empirik, which uses AI to predict and prevent IT outages by analyzing system changes and their effects, raised a $21M seed and spins out from Sequoia Capital (Marina Temkin/TechCrunch)," September 1, 2026, accessed September 2026. https://www.techmeme.com/260901/p31

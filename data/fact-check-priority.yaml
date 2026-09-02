@@ -3,18 +3,32 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-01: Created lean profile for $21M seed (2026-09-01) led by Sequoia Capital with Canapi and Alumni Ventures. Source: TechCrunch. Needs 2+ additional primary sources."
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  resolution_note: |
+    Fact-spec sweep 2026-09-01: Verified Empirik $21M seed on 2026-09-01 led by Sequoia Capital (Bogomil Balkansky, Partner) with Canapi and Alumni Ventures via 3 independent primary sources: (1) TechCrunch [^1] (existing, re-fetched to pull verbatim quotes), (2) Tech Startups daily VC roundup [^2] (new), (3) Techmeme aggregation [^3] (new). All three confirm 2026-09-01 launch, $21M USD, Sequoia lead, Canapi + Alumni Ventures participation, and founder biographical details (Kartik Chandrayana CEO ex-Quantum Metric CPO / Salesforce, Avon Puri Sequoia CDIO ex-Rubrik/VMware, Sudheer Dhurjati Sequoia IT). Expanded About section with product framing ("change observability" / "traffic cop" model), added verbatim Bogomil Balkansky quote to "What Investors Say", removed lean-profile disclaimer. Parallel update to sequoia-capital.md portfolio: inserted new Empirik row after AIR row (both 2026-09-01), Balkansky as lead partner, 3 matching citations [^empirik1..empirik3]. TechTimes and empirik.ai returned 403 (Cloudflare); did not fabricate — only cited what was actually fetched.
 - slug: easy-aerial
   type: startup
   reason: "Round monitoring 2026-09-01: Created lean profile for $20M Series B (2026-09-01) led by Insight Partners with Entree Capital. Sources: AlleyWatch, Easy Aerial site. Needs 1+ additional primary source (press release/PR wire)."
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  resolution_note: |
+    Fact-spec sweep 2026-09-01: Verified Easy Aerial $20M Series B led by Insight Partners with Entrée Capital + private U.S. investors via 5 independent primary sources: (1) AlleyWatch [^1] (existing), (2) Easy Aerial company site [^2] (existing), (3) Business Wire company press release [^3] (new), (4) Defense Daily trade press [^4] (new), (5) Pulse 2.0 with verbatim Insight MD + CEO quotes [^5] (new), (6) Yahoo Finance / Business Wire syndication [^6] (new). DATE DISCREPANCY CORRECTED: current profile had 2026-09-01 (from AlleyWatch daily-report date) but actual announcement date per Business Wire + Defense Daily + Yahoo + Pulse 2.0 is 2026-08-31 — corrected frontmatter, About, and Funding History accordingly. Added Shahar Abuhazira (Chairman & CEO co-founder role per LinkedIn) to founders frontmatter. Added Mike Hayes (Insight MD) verbatim quote to "What Investors Say" and Shahar Abuhazira verbatim quote to "What Founders Say". Removed lean-profile disclaimer. insight-partners.md portfolio already had Easy Aerial with correct 2026-08-31 date and 3 primary citations — no changes needed. Lint clean.
 - slug: sequoia-capital
   type: firm
   reason: "Appeared in Empirik seed round 2026-09-01 (lead)."
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  resolution_note: "Rolled into empirik fact-spec sweep 2026-09-01 above. Added Empirik seed row to sequoia-capital portfolio table with 3 primary source citations ([^empirik1] TechCrunch, [^empirik2] Tech Startups, [^empirik3] Techmeme); Balkansky lead partner. Sequoia also incubated Empirik since 2023."
 - slug: insight-partners
   type: firm
   reason: "Appeared in Easy Aerial Series B 2026-09-01 (lead)."
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-01
+  resolution_note: "Rolled into easy-aerial fact-spec sweep 2026-09-01 above. Verified insight-partners.md portfolio table already contains Easy Aerial with correct 2026-08-31 date (not 2026-09-01), correct lead / Entrée Capital co-investor, and 3 primary citations [^ea1] Business Wire, [^ea2] Yahoo Finance, [^ea3] Defense Daily. No new updates required."
 - slug: metriport
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for $26M Series A (2026-08-27) led by Matrix with ARTIS and Y Combinator. Sources: Metriport company blog, AlleyWatch weekly report."
@@ -25,8 +39,12 @@ priority:
     Fact-spec sweep 2026-09-01 (part of metriport/felix-pago/air-security batch): Verified Metriport $26M Series A on 2026-08-27 led by Matrix Partners (TJ Parker, General Partner) with ARTIS Ventures and Y Combinator participating, via 4 primary sources: (1) Metriport company blog [^1] (existing), (2) AlleyWatch weekly report [^2] (existing), (3) PR Newswire company press release [^3] (new), (4) HIT Consultant independent healthcare trade press [^4] (new). Added TJ Parker Matrix quote to "What Investors Say" and a second Dima Goncharov quote from PR Newswire. Confirmed $28.4M total funding to date, notable customers (Amazon One Medical, Sollis Health, Color Health), HITRUST r2 Certification, and San Francisco base. Parallel update to y-combinator.md portfolio (added Metriport row with 3 citations [^metrip-yc1][^metrip-yc2][^metrip-yc3]). Matrix Partners venture profile not yet in database — matrix-capital-management.md is a Waltham hedge fund, not the venture firm; Matrix Partners already in queue.yaml. ARTIS Ventures also already in queue.
 - slug: gatik
   type: startup
-  reason: "Round monitoring 2026-09-01: Created profile for $200M growth round (2026-08-25) led by Qatar Investment Authority and Koch Disruptive Technologies with Millennium Management, ARK Invest, Intact Private Capital, Alumni Ventures. Sources: TechCrunch, AlleyWatch weekly."
+  status: resolved
+  reason: "Round monitoring 2026-09-01: Created profile for $200M growth round (2026-08-25) led by Qatar Investment Authority and Koch Disruptive Technologies with Millennium Management, ARK Invest, Intact Private Capital. (Original rationale also listed Alumni Ventures — see resolution note.)"
   added: 2026-09-01
+  resolved: 2026-09-01
+  resolution_note: |
+    Fact-spec sweep 2026-09-01: Verified Gatik $200M Series D on 2026-08-25 co-led by Qatar Investment Authority (QIA) and Koch Disruptive Technologies via 5 independent primary sources: (1) Yahoo Finance / Gatik company press release [^1] (existing), (2) TechCrunch [^2] (existing), (3) Bloomberg [^3] (existing, 403 on re-fetch but retained), (4) Gatik company newsroom mirror at archive.gatik.ai [^4] (new — primary press with Byron Knight/Gautam Narang/Cathie Wood quotes), (5) SiliconANGLE [^5] (new — Cathie Wood ARK Invest quote), (6) Gulf Times [^6] (new — Doha-based coverage adding Arca Continental as named participant and Abdullah Al Kuwari QIA quote). Alumni Ventures participation is NOT confirmed by any of the six primary sources examined and has been removed from the round row; the original rationale here appears to have been mis-transcribed. Arca Continental added as verified co-participant (Gulf Times / QIA statement). Founders verified via Yahoo/Gatik press release: Gautam Narang (CEO), Arjun Narang (CTO), Apeksha Kumavat (Chief Engineer). Added Cathie Wood, Byron Knight, and Abdullah Al Kuwari quotes to "What Investors Say"; added two Gautam Narang quotes to "What Founders Say". Removed the lean-profile disclaimer. Parallel update on koch-disruptive-technologies.md: added Series D 2026-08-25 row after existing Series B 2021 entry, with 4 matching citations [^gatikd1..gatikd4].
 - slug: felix-pago
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for $200M Series C ($87M equity + $113M debt, 2026-09-01) led by a16z and General Catalyst with QED Investors, Castle Island Ventures, Switch Ventures, Contour Venture Partners, Endeavor Catalyst. Sources: Crunchbase News. Needs additional primary sources for triangulation."
