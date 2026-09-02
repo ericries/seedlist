@@ -1,0 +1,32 @@
+- name: "Toyota Ventures"
+  type: firm
+  source: "co-investor on Xona Space Systems Series B 2025-06-26 with Craft Ventures"
+  discovered_from: xona-space-systems
+  priority: normal
+- name: "Seraphim Space"
+  type: firm
+  source: "co-investor on Xona Space Systems Series B 2025-06-26 (also participated in 2020 Pre-Seed) with Craft Ventures"
+  discovered_from: xona-space-systems
+  priority: normal
+- name: "NGP Capital"
+  type: firm
+  source: "co-investor on Xona Space Systems Series B 2025-06-26 with Craft Ventures; published thesis post 2026-09-02"
+  discovered_from: xona-space-systems
+  priority: normal
+- name: "Snowpoint Ventures"
+  type: firm
+  source: "lead investor on Valar Atomics Series A 2025-11 ($130M); Doug Philippone is founder"
+  discovered_from: valar-atomics
+  priority: normal
+- name: "Doug Philippone"
+  type: individual
+  firm: "Snowpoint Ventures"
+  source: "led Valar Atomics Series A 2025-11 ($130M); founder of Snowpoint Ventures"
+  discovered_from: valar-atomics
+  priority: high
+- name: "Isaiah Taylor"
+  type: individual
+  firm: "Valar Atomics"
+  source: "CEO & Founder of Valar Atomics; not an investor per se — profile as founder if founder profiles are added"
+  discovered_from: valar-atomics
+  priority: low

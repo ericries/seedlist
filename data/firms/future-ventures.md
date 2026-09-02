@@ -89,7 +89,7 @@ Based on 28 verified portfolio investments, the following patterns emerge. Note:
 | Zyphra | Seed ($11M) | 2023 | AI / large language models | [^33] |
 | MosaicML | Series A ($25M) | 2021 | AI / ML infrastructure (acquired by Databricks, 2023) | [^34] |
 | Mythic | Early stage (via DFJ, continued via FV) | ~2016 | AI / deep learning chips | [^35] |
-| Xona Space Systems | Series B ($92M) | 2025 | Space / GPS alternative | [^36] |
+| Xona Space Systems | Series B ($92M; participant; lead: Craft Ventures) | 2025-06-26 | Space / GPS alternative | [^36][^xona-fv1] |
 | Centivax | Series A ($45M, lead) | 2025 | Biotech / universal vaccines | [^25] |
 | The Metals Company | Board seat | 2024 | Deep-sea mining / metals | [^26] |
 | Amplifier Therapeutics | Series A ($33.25M) | 2023 | Biotech / longevity therapeutics | [^37] |
@@ -195,3 +195,5 @@ Gerard Barron, Chairman and CEO of The Metals Company, said upon Jurvetson joini
 [^41]: Tech Funding News, "Early Tesla and SpaceX investor joins $28M raise for London startup addressing battery limitations in AI," accessed June 2026. https://techfundingnews.com/gaussion-28m-tesla-investor-battery-startup/ — Independent confirmation that Future Ventures joined the round; describes Steve Jurvetson as an early Tesla and SpaceX backer.
 
 [^42]: AOL (syndicated from The Daily Telegraph), "Elon Musk ally backs British electric car battery start-up," June 2026. Accessed June 2026. https://www.aol.com/articles/elon-musk-ally-backs-british-095307000.html — Third independent confirmation. Reports $28M total round co-led by BGF and AlbionVC, with Autotech Ventures, UCL Technology Fund, DN Capital, and Future Ventures participating. Names Steve Jurvetson via Future Ventures and lifts total Gaussion funding above $44M.
+
+[^xona-fv1]: Xona Space Systems Newsroom, accessed September 2026. https://xonaspace.com/news — Company newsroom archive confirming Xona's stage progression through Pre-Seed → Series B → Series C. The Series B ($92M, 2025-06-26 per PR Newswire [^36]) precedes the Series C "$170M to Accelerate Pulsar's Path to Scale" (dated 3/26/26), corroborating the Series B date and stage classification cited above.

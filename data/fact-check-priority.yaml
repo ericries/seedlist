@@ -1,4 +1,20 @@
 priority:
+- slug: xona-space-systems
+  type: startup
+  reason: "Fact-spec 2026-09-02: Missing Series B row + Series C stage misclassified as 'Growth'."
+  added: 2026-09-02
+  status: resolved
+  resolved: 2026-09-02
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Xona Space Systems startup profile substantially expanded. Added missing Series B row: 2025-06-26, $92M, led by Craft Ventures, with Stellar Ventures, Seraphim Ventures, Toyota Ventures, First Spark, Industrious Ventures, Future Ventures, and NGP Capital participating. Sources: (1) PR Newswire company-issued press release [^5] — primary; (2) Xona Space Systems Newsroom [^6] — company site confirming stage progression through Series B → Series C. Corrected 2026-03 round from "Growth" to "Series C" ($170M) per company newsroom listing "$170M Series C to Accelerate Pulsar's Path to Scale" (dated 3/26/26), and corrected date from 2026-03-27 to 2026-03-26. Added founder Brian Manning (Co-Founder & CEO) to frontmatter, added his verbatim quote to "What Founders Say" from the Series B PR Newswire release. Updated stage_latest to "Series C" and total_raised to "$170M+". Parallel update to future-ventures.md portfolio row: date changed from "2025" to "2025-06-26" with new corroborating citation [^xona-fv1]. Additional cross-check firms (craft-ventures, toyota-ventures, seraphim-space, ngp-capital) not yet in database — added to frontmatter firms: array with series-b round for future backfill.
+- slug: valar-atomics-contrary
+  type: firm
+  reason: "Fact-spec 2026-09-02: Contrary portfolio entry showed 'Seed | ~2023' — aggregator misattribution. Contrary's actual first investment was Series A November 2025, per Contrary Research."
+  added: 2026-09-02
+  status: resolved
+  resolved: 2026-09-02
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Contrary portfolio entry for Valar Atomics corrected. Previous entry ("Seed | ~2023") was an aggregator-derived misattribution. Per Contrary Research primary source [^valar-c1], Contrary's first investment was the Series A in November 2025 ($130M, led by Snowpoint Ventures / Doug Philippone). Other Series A participants: Palmer Luckey (Anduril founder), Shyam Sankar (Palantir CTO), Dream Ventures, Day One Ventures. Contrary was NOT among the February 2025 Seed round investors (Riot Ventures lead; AlleyCorp, Day One Ventures, Initialized Capital, Steel Atlas participants). Updated portfolio row to "Series A (participant; Snowpoint Ventures / Doug Philippone lead; $130M) | 2025-11 | Nuclear energy | Active ($150M+ total funding as of Nov 2025)". Also corrected total-funding claim from "$450M+" (unverified) to "$150M+" (confirmed via Contrary Research). Founders Isaiah Taylor (CEO, dropout at 16, great-grandfather Manhattan Project physicist) and Mark Mitchell (CNO, ex-USNC president) documented in citation. Note: only 1 primary source (Contrary Research) was accessible for external corroboration due to WebSearch budget exhaustion this session; Contrary Research is Contrary Capital's own primary research publication, so it functions as the investor-side primary but ideal 3-source triangulation was not achievable. Correction is defensible because it MOVES FROM a demonstrably wrong entry TO one grounded in a primary source.
 - slug: empirik
   type: startup
   reason: "Round monitoring 2026-09-01: Created lean profile for $21M seed (2026-09-01) led by Sequoia Capital with Canapi and Alumni Ventures. Source: TechCrunch. Needs 2+ additional primary sources."

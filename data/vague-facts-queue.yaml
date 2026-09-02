@@ -743,7 +743,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-01'
-  resolution_note: "Fact-spec sweep 2026-09-01: tightened Parsley Health row from month-only 2023-10 to 2023-10-03 disclosure date via 7wireVentures' $217M Growth & Opportunity (GO) Fund launch press coverage. 7wire disclosed Parsley Health as one of three initial GO Fund investments (alongside NOCD and FOLX Health). Verified via 3 sources: NEW HIT Consultant [^77] (2023-10-03 primary trade press on GO Fund launch), NEW Femtech Insider [^78] (2023-10-04 independent contemporaneous coverage), and existing 7wire portfolio page [^26]. NO standalone Parsley Health round press release exists — Columbia Venture Insights secondary aggregator (Medium; not primary) references a July 2023 Series C3 extension at ~USD 311M valuation but no primary source confirms round type or amount. Row annotated to reflect this aggregator-only round attribution pattern. 2 new footnotes added ([^77], [^78])."
+  resolution_note: 'Fact-spec sweep 2026-09-01: tightened Parsley Health row from month-only 2023-10 to 2023-10-03 disclosure date via 7wireVentures'' $217M Growth & Opportunity (GO) Fund launch press coverage. 7wire disclosed Parsley Health as one of three initial GO Fund investments (alongside NOCD and FOLX Health). Verified via 3 sources: NEW HIT Consultant [^77] (2023-10-03 primary trade press on GO Fund launch), NEW Femtech Insider [^78] (2023-10-04 independent contemporaneous coverage), and existing 7wire portfolio page [^26]. NO standalone Parsley Health round press release exists — Columbia Venture Insights secondary aggregator (Medium; not primary) references a July 2023 Series C3 extension at ~USD 311M valuation but no primary source confirms round type or amount. Row annotated to reflect this aggregator-only round attribution pattern. 2 new footnotes added ([^77], [^78]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: PayZen
@@ -840,7 +840,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-01'
-  resolution_note: "Fact-spec sweep 2026-09-01: CORRECTED Medisafe row — approximate ~2018 date was wrong. 7wire's first Medisafe check was Series A on 2015-01-13 (USD 6M; Pitango Venture Capital led; 7wire Ventures new; lool Ventures, TriVentures, Eyal Gura returning). 7wire continued as returning investor in Series B (2017-03-01; USD 14.5M; Octopus Ventures led; M Ventures new) and Series C (2021-02-25; USD 30M; co-led by Sanofi Ventures and ALIVE Israel HealthTech Fund). Verified via 3+ primary sources: NEW TechTime [^79] (2015-01-13 Series A), NEW PR Newswire [^80] (2017-03-01 Series B), NEW Medisafe press release [^81] (2021-02-25 Series C), plus MobiHealthNews, NoCamels, MedCity News, and M-Ventures cross-checks. Row now shows the earliest 7wire entry (Series A 2015-01-13) with follow-on rounds annotated in-line. 3 new footnotes added."
+  resolution_note: 'Fact-spec sweep 2026-09-01: CORRECTED Medisafe row — approximate ~2018 date was wrong. 7wire''s first Medisafe check was Series A on 2015-01-13 (USD 6M; Pitango Venture Capital led; 7wire Ventures new; lool Ventures, TriVentures, Eyal Gura returning). 7wire continued as returning investor in Series B (2017-03-01; USD 14.5M; Octopus Ventures led; M Ventures new) and Series C (2021-02-25; USD 30M; co-led by Sanofi Ventures and ALIVE Israel HealthTech Fund). Verified via 3+ primary sources: NEW TechTime [^79] (2015-01-13 Series A), NEW PR Newswire [^80] (2017-03-01 Series B), NEW Medisafe press release [^81] (2021-02-25 Series C), plus MobiHealthNews, NoCamels, MedCity News, and M-Ventures cross-checks. Row now shows the earliest 7wire entry (Series A 2015-01-13) with follow-on rounds annotated in-line. 3 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Higi
@@ -852,7 +852,7 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-01'
-  resolution_note: "Fact-spec sweep 2026-09-01: tightened Higi row from approximate ~2015 Early stage to earliest primary-source-documented 7wire investment — Series C on 2018-07-10 (USD 21.3M; co-led by Flare Capital Partners and 7wireVentures). Verified via 3 primary sources: NEW MedCity News [^82] (2018-07-10), NEW Higi company press release [^83] (2018-07-10), NEW TechCrunch [^84] (2020-05-27 Babylon-led Series B coverage that names 7Wire as an existing Series A investor). 7wire is described in Series C press as existing investor implying prior Series A participation (Jumpstart Capital + Rush University System for Health + William Wrigley Jr. also named as Series A backers per subsequent 2020 coverage), but NO primary press exists for the earlier Series A round — the January 2016 $40M+ Higi press release names only 'existing investors' without disclosing individual firms. Company acquired by Babylon Health 2020; Babylon filed bankruptcy 2023. Row now anchors on the 2018-07-10 verifiable date. 3 new footnotes added ([^82], [^83], [^84])."
+  resolution_note: 'Fact-spec sweep 2026-09-01: tightened Higi row from approximate ~2015 Early stage to earliest primary-source-documented 7wire investment — Series C on 2018-07-10 (USD 21.3M; co-led by Flare Capital Partners and 7wireVentures). Verified via 3 primary sources: NEW MedCity News [^82] (2018-07-10), NEW Higi company press release [^83] (2018-07-10), NEW TechCrunch [^84] (2020-05-27 Babylon-led Series B coverage that names 7Wire as an existing Series A investor). 7wire is described in Series C press as existing investor implying prior Series A participation (Jumpstart Capital + Rush University System for Health + William Wrigley Jr. also named as Series A backers per subsequent 2020 coverage), but NO primary press exists for the earlier Series A round — the January 2016 $40M+ Higi press release names only ''existing investors'' without disclosing individual firms. Company acquired by Babylon Health 2020; Babylon filed bankruptcy 2023. Row now anchors on the 2018-07-10 verifiable date. 3 new footnotes added ([^82], [^83], [^84]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Lightbeam Health Solutions
@@ -172507,7 +172507,9 @@ vague_facts:
   line: '| 2026-03-27 | Growth | $170M | | [^1] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-02'
+  note: 'Fact-spec sweep 2026-09-02: Xona Space Systems startup profile updated. The 2026-03 row was labeled "Growth $170M" without stage; corrected to "Series C $170M" per Xona company newsroom "$170M Series C to Accelerate Pulsar''s Path to Scale" (dated 3/26/26). Date corrected from 2026-03-27 to 2026-03-26. Series B row added with full investor list. stage_latest updated to "Series C".'
 - profile: startups/xoople
   profile_name: Xoople
   company: '2025-05-14'
@@ -173262,7 +173264,9 @@ vague_facts:
   line: '| Valar Atomics | Seed | ~2023 | Nuclear energy | Active ($450M+ raised, $2B valuation) [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-02'
+  note: 'Fact-spec sweep 2026-09-02: Valar Atomics entry in Contrary portfolio corrected from "Seed | ~2023" to "Series A | 2025-11" (participant) per Contrary Research primary source [^valar-c1]. Contrary''s first investment was Series A November 2025 ($130M, Snowpoint Ventures / Doug Philippone lead), NOT the February 2025 seed round (which was led by Riot Ventures; Contrary was not among the seed investors — the prior entry was an aggregator-derived misattribution). Full Series A participant list: Palmer Luckey, Shyam Sankar, Dream Ventures, Day One Ventures, Contrary. Total funding $150M+ as of Nov 2025.'
 - profile: firms/contrary
   profile_name: Contrary
   company: Voltra
@@ -173917,7 +173921,9 @@ vague_facts:
   line: '| Xona Space Systems | Series B ($92M) | 2025 | Space / GPS alternative | [^36] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-02'
+  note: 'Fact-spec sweep 2026-09-02: Xona Space Systems Series B date updated from "2025" to "2025-06-26" via PR Newswire primary press release [^36] and cross-verified via Xona company newsroom [^xona-fv1]. Confirmed $92M Series B led by Craft Ventures with Stellar Ventures, Seraphim, Toyota Ventures, First Spark, Industrious Ventures, Future Ventures, NGP Capital participating. Startup profile also updated: added Series B row, corrected 2026-03 round from "Growth" to "Series C" per company newsroom.'
 - profile: firms/future-ventures
   profile_name: Future Ventures
   company: Centivax
