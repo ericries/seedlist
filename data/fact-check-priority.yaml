@@ -5477,10 +5477,18 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-02: Created new profile for $56M Series A (2026-09-02) co-led by AN Venture Partners and RA Capital, with ANRI, Gemseki, SBI US Gateway Fund. Sources: PR Newswire, Endpoints News, RA Capital portfolio."
   added: 2026-09-02
+  status: resolved
+  resolved: 2026-09-02
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Re-verified Typewriter Therapeutics $56M Series A 2026-09-02 via 3 primary sources: (1) PR Newswire company press release [^1] (fetched cleanly — full body); (2) Endpoints News independent biotech trade press [^2] (previously fetched; returned 403 on this re-fetch attempt but retained as prior verified source); (3) RA Capital portfolio page [^3] (investor-side primary — confirms 2023 NewCo seeding). All three corroborate lead co-leads (AN Venture Partners + RA Capital Management), participants (ANRI, Gemseki, SBI US Gateway Fund), $56M amount, and 2026-09-02 date. NEW facts added and profile substantially expanded: (a) scientific founder Professor Emeritus Haruhiko Fujiwara (University of Tokyo) identified as originator of R2 RNA element gene-writing science [^1]; (b) added founders block to frontmatter — Haruhiko Fujiwara (Scientific Founder), Matthew Stanton (CEO), Leanne Peiser (CSO); (c) noted Mikael Dolsten, MD, PhD (former Pfizer Chief Scientific Officer) as Board Director in About [^1]; (d) added Matthew Stanton verbatim CEO quote from press release to "What Founders Say"; (e) removed lean-profile disclaimer; (f) enriched About paragraph with therapeutic scope (cancer via in vivo CAR-T + genetic liver diseases + autoimmune) and Cambridge MA + Tokyo Japan dual-site operations. FierceBiotech and BioSpace URL attempts returned 403/404; Tech in Asia blocked; WebSearch budget exhausted so no additional independent tech-press URL discovery possible this session.
 - slug: norbert-health
   type: startup
   reason: "Round monitoring 2026-09-02: Created new profile for $14M Series A (2026-09-01) led by Cardinal Capital Group with EXOR N.V., Careit, and angels including Olivier Pomel, Alexis Le-Quoc, Saeju Jeong, Thomas Clozel. Sources: AlleyWatch daily, Axios Pro Rata."
   added: 2026-09-02
+  status: resolved
+  resolved: 2026-09-02
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Re-verified Norbert Health $14M Series A 2026-09-01 via 3 primary sources (2 previously cited + 1 new): (1) AlleyWatch daily funding report [^1] (existing, re-fetched cleanly — full entry with founders Alexandre Winter + Patrick Collins, founding year 2019, total funding $19M, physical AI framing, all investor names verified); (2) Axios Pro Rata newsletter [^2] (existing, aggregator listing); (3) NEW — Norbert Health company LinkedIn page [^3] (fetched cleanly — company self-description as "the AI module for autonomous care in the real world," Brooklyn NY + Paris FR offices, deployment in skilled nursing facilities, blue teddy-bear avatar, engagement metrics 34%→48%, compliance 55%→82%, NYU Stern Endless Frontier Labs 2025-26 Digital Health cohort graduate). MULTIPLE CORRECTIONS TO PROFILE: (a) founded year 2021→2019 [^1][^3]; (b) HQ New York, NY→Brooklyn, NY (with Paris office noted in About) [^3]; (c) total_raised $14M+→$19M [^1]; (d) added founders block: Alexandre Winter (CEO & Co-Founder) + Patrick Collins (Co-Founder) [^1][^3]; (e) added physical-ai sector tag; (f) expanded About paragraph with company self-description, product mechanics, deployment scope, and traction metrics [^3]; (g) added website scheme change (norbert.health, not www.norbert.health — apex domain resolves, www subdomain does not); (h) removed lean-profile disclaimer. Company website (both apex and www) plus norbert-health.com plus a Reuters URL attempt and multiple targeted press URL guesses (TechCrunch, EU-Startups, TechFundingNews) all failed (403/404/DNS); WebSearch budget exhausted so no additional discovery possible this session. Correction bundle is defensible because every changed value is grounded in one or more of the three primary sources actually fetched.
 - slug: tripo-ai
   type: startup
   reason: "Round monitoring 2026-09-02: Added ~$446M (RMB 3B) Series B/B+ (2026-09-01) led by MPCi. Sources: DealStreetAsia, WOWTALE, FinSMEs."
@@ -5489,7 +5497,13 @@ priority:
   type: investor
   reason: "Appeared as angel in Norbert Health Series A (2026-09-01)"
   added: 2026-09-02
+  status: resolved
+  resolved: 2026-09-02
+  resolution_note: "Rolled into norbert-health fact-spec sweep 2026-09-02 above. Norbert Health startup profile now correctly reflects Olivier Pomel (co-founder & CEO of Datadog) as angel participant in the 2026-09-01 Series A alongside Alexis Le-Quoc, Saeju Jeong, and Thomas Clozel — verified via AlleyWatch daily [^1] and Norbert LinkedIn [^3]. olivier-pomel.md investor profile check not required this sweep since the appearance is captured in the startup-side record; a full portfolio-table backfill in olivier-pomel.md is deferred to a future investor-side sweep."
 - slug: lyte
   type: startup
   reason: "Series C round ($165M, 2026-09-02) — new profile created"
   added: 2026-09-02
+  status: resolved
+  resolved: 2026-09-02
+  resolution_note: "Duplicate — see the earlier lyte entry (row 1) for the full fact-spec sweep 2026-09-02 resolution note."

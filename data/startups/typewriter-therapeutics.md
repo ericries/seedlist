@@ -11,18 +11,22 @@ stage_latest: "Series A"
 total_raised: "$56M"
 investors: []
 firms: []
-founders: []
+founders:
+  - name: "Haruhiko Fujiwara"
+    role: "Scientific Founder (Professor Emeritus, University of Tokyo)"
+  - name: "Matthew Stanton"
+    role: "Chief Executive Officer"
+  - name: "Leanne Peiser"
+    role: "Chief Scientific Officer"
 status: published
 last_researched: 2026-09-02
 ---
 
 ## About
 
-Typewriter Therapeutics is a Cambridge, Massachusetts–based genetic medicines company developing RNA-based therapies built on its proprietary Target-Primed Reverse Transcription (TPRT) platform, which uses "jumping gene" biology to insert therapeutic DNA into targeted genomic sites without viral vectors [^1][^2][^3]. The platform delivers gene-writing machinery via lipid nanoparticles and is initially aimed at two areas: in vivo CAR-T cell therapies for cancer and treatments for genetic liver diseases [^1][^2][^3]. RA Capital originally seeded the company as a NewCo in 2023 [^3].
+Typewriter Therapeutics is a Cambridge, Massachusetts–based genetic medicines company developing RNA-based therapies built on scientific-founder Professor Emeritus Haruhiko Fujiwara's (University of Tokyo) work on "jumping gene" R2 RNA elements, which insert therapeutic DNA into targeted safe-harbor genomic sites without viral vectors [^1][^2][^3]. The platform delivers gene-writing machinery via lipid nanoparticles and is initially aimed at cancer (in vivo CAR-T cell therapies) and severe genetic diseases, including genetic liver diseases [^1][^2][^3]. RA Capital originally seeded the company as a NewCo in 2023 [^3].
 
-On September 2, 2026, Typewriter emerged from stealth with a $56 million Series A financing co-led by AN Venture Partners and RA Capital Management, with participation from ANRI, Gemseki, and SBI US Gateway Fund [^1][^2]. The company maintains research operations in both Cambridge, Massachusetts and Tokyo [^1].
-
-*Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
+On September 2, 2026, Typewriter emerged from stealth with a $56 million Series A financing co-led by AN Venture Partners and RA Capital Management, with participation from ANRI, Gemseki, and SBI US Gateway Fund [^1][^2]. The round was disclosed alongside the appointment of Matthew Stanton, PhD as Chief Executive Officer, Leanne Peiser, DPhil as Chief Scientific Officer, and Mikael Dolsten, MD, PhD (former Pfizer Chief Scientific Officer) as Board Director [^1]. The company maintains research operations in both Cambridge, Massachusetts and Tokyo, Japan [^1].
 
 ## Funding History
 
@@ -36,7 +40,7 @@ No independently sourced investor quotes found at time of profile creation.
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at time of profile creation.
+Matthew Stanton, PhD, CEO: "By inserting a durable, functioning gene into a safe-harbor site in T cells using lipid nanoparticle-delivered RNA, our technology is designed to create safer, re-dosable genetic medicines." [^1]
 
 ## Sources
 
