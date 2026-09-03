@@ -89,6 +89,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/3/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-3-2026/
+  source: alleywatch
+  date_found: '2026-09-03'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: The August 2026 New York Venture Capital Funding Report
   url: https://alleywatch.com/2026/09/the-august-2026-new-york-venture-capital-funding-report/
   source: alleywatch
@@ -843,13 +851,4 @@ pending_rounds:
   parsed_company: Danish AI infrastructure startup Velatir
   parsed_amount: null
   parsed_round: Pre-Seed
-  status: pending
-- title: Stockholm’s Pixelgen Technologies secures €13.26 million to advance spatial
-    mapping of cell-surface proteins
-  url: https://www.eu-startups.com/2026/08/stockholms-pixelgen-technologies-secures-e13-26-million-to-advance-spatial-mapping-of-cell-surface-proteins/
-  source: eu-startups
-  date_found: '2026-08-20'
-  parsed_company: Stockholm’s Pixelgen Technologies
-  parsed_amount: null
-  parsed_round: null
   status: pending
