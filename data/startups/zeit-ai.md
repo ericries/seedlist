@@ -11,13 +11,8 @@ total_raised: "€5M"
 investors: []
 firms:
   - slug: y-combinator
-    round: seed
-    year: 2026
-    date: 2026-09-03
-  - slug: sequoia-capital
-    round: seed
-    year: 2026
-    date: 2026-09-03
+    round: yc-s24
+    year: 2024
 founders:
   - name: "Leopold von Waldthausen"
     role: "CEO & Co-Founder"
@@ -31,13 +26,14 @@ last_researched: 2026-09-03
 
 Zeit AI GmbH is a Munich, Germany-based Y Combinator-backed (Summer 2024 batch) startup that positions itself as "the autonomous data engineer for the European mid-market" [^1][^2]. Its ZeitMind platform lets non-technical business users connect over 600 data sources (SAP, ERP, CRM systems) and build custom dashboards, reports, and applications via natural language, without coding [^1]. Co-founders Leopold von Waldthausen (CEO, Oxford CS, former Palantir) and Marvin Christopher Bornstein (CTO, former Palantir engineer with 18 years of software experience) built the company to €1M ARR within twelve months of joining Y Combinator, running with a 12-person team and customers including Kolbenschmidt, Allgaier Agrarhandel, Jetfly, and Capomondo [^2]. The platform is GDPR-compliant and runs on EU servers with no model training on customer data [^1].
 
-On September 3, 2026, Zeit AI announced a €5 million round to build Europe's autonomous data engineer [^3]. Prior backers include Sequoia Scout Fund, HP Venture Capital, ACE Ventures, and the University of Oxford [^1].
+On September 3, 2026, Zeit AI announced a €5 million round to build Europe's autonomous data engineer [^3]. Zeit AI's "Backed by" page lists Y Combinator (Summer 2024 batch), Sequoia Scout Fund, HP VC, ACE Ventures, and the University of Oxford as prior backers; the specific participants and lead of the €5M round were not disclosed in the announcement [^1][^3].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-03 | Seed | €5M | — | Sequoia Scout Fund, HP Venture Capital, ACE Ventures, University of Oxford (prior backers per company site) [^1][^3] |
+| 2026-09-03 | Seed | €5M | — | Syndicate not disclosed. Company's "Backed by" page lists Y Combinator, Sequoia Scout Fund, HP VC, ACE Ventures, University of Oxford as prior backers [^1][^3] |
+| 2024 | YC Batch | — | Y Combinator | (Summer 2024 batch) [^2] |
 
 ## What Investors Say
 

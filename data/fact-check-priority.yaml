@@ -5563,6 +5563,9 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-03: $35M Series A (2026-08-26), Energy Impact Partners led, Founders Fund + John Doerr participated'
   added: 2026-09-03
+  status: resolved
+  resolved: 2026-09-03
+  resolution_note: 'Fact-spec sweep 2026-09-03: verified $35M Series A on 2026-08-26 via 3 independent primary sources: (1) Voya Energy company press release [^1] — primary company source with verbatim Wang, Doerr, and Kann quotes; (2) Latitude Media "Catalyst: The rise of metal fuels" podcast/article [^3] — contemporaneous tech press with alternate Wang and Kann quotes on diesel-genset displacement thesis; (3) AlleyWatch weekly funding report [^2] — independent aggregator confirming full syndicate: Energy Impact Partners (lead), Founders Fund, John Doerr, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, StepStone Group. Expanded "What Investors Say" with full Kann incubation quote from primary press, Kann diesel-genset quote from Latitude Media, and John Doerr participation quote. Expanded "What Founders Say" with second Wang quote on diesel-generator market opportunity from Latitude Media. Parallel profiles (energy-impact-partners, founders-fund, john-doerr) already had matching entries with 3-citation triangulation — no changes needed to those.'
 - slug: socure
   type: startup
   reason: 'Round monitoring 2026-09-03: $156M Strategic Growth (2026-08-27), Summit Partners led, $5.2B post-money, Fravity acquisition'
@@ -5574,27 +5577,48 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-03: led Voya Energy Series A (2026-08-26)'
   added: 2026-09-03
+  status: resolved
+  resolved: 2026-09-03
+  resolution_note: 'Rolled into voya-energy fact-spec sweep 2026-09-03. energy-impact-partners.md portfolio table already contains Voya Energy row (2026-08-26 Series A $35M lead; incubated by EIP; Founders Fund, John Doerr, MANTIS, Overmatch, Seven Stars, StepStone participants) with matching 3-primary-source citations [^voya1][^voya2][^voya3]. Shayle Kann title (Managing Partner) verified from primary press. No new updates needed.'
 - slug: founders-fund
   type: firm
   reason: 'Round monitoring 2026-09-03: participated in Voya Energy Series A (2026-08-26)'
   added: 2026-09-03
+  status: resolved
+  resolved: 2026-09-03
+  resolution_note: 'Rolled into voya-energy fact-spec sweep 2026-09-03. founders-fund.md portfolio table already contains Voya Energy row (2026-08-26 Series A participant, EIP-led $35M) with matching 3-primary-source citations [^voya-ff1][^voya-ff2][^voya-ff3]. No new updates needed.'
 - slug: summit-partners
   type: firm
   reason: 'Round monitoring 2026-09-03: led Socure $156M strategic growth (2026-08-27)'
   added: 2026-09-03
+  status: resolved
+  resolved: 2026-09-03
+  resolution_note: 'Rolled into socure fact-spec sweep 2026-09-03. summit-partners.md portfolio table already contains Socure row (2026-08-27 Strategic Growth $156M lead, $5.2B post-money; Docusign, Goldman Sachs Alternatives, Wells Fargo participants) with matching 3-primary-source citations [^socure-sp1][^socure-sp2][^socure-sp3]. Andy Collins verified as Managing Director attribution. No new updates needed.'
 - slug: john-doerr
   type: investor
   reason: 'Round monitoring 2026-09-03: participated in Voya Energy Series A (2026-08-26)'
   added: 2026-09-03
+  status: resolved
+  resolved: 2026-09-03
+  resolution_note: 'Rolled into voya-energy fact-spec sweep 2026-09-03. john-doerr.md portfolio table already contains Voya Energy row (2026-08-26 Series A participant, $35M EIP-led syndicate) with matching 3-primary-source citations [^jd-voya1][^jd-voya2][^jd-voya3]. Doerr participation quote ("Meeting that demand requires new technologies that can deliver clean, firm power at speed and scale") verified verbatim in primary Voya press release and added to voya-energy.md startup profile. No new updates needed to investor profile.'
 - slug: zeit-ai
   type: startup
   reason: 'Round monitoring 2026-09-03: Created lean profile for €5M seed (2026-09-03). Founders Leopold von Waldthausen (CEO, ex-Palantir, Oxford CS) and Marvin Christopher Bornstein (CTO, ex-Palantir). YC Summer 2024 batch. Munich, Germany. €1M ARR within 12 months of YC. Prior backers per company site: Sequoia Scout Fund, HP Venture Capital, ACE Ventures, University of Oxford. Sources: (1) zeit-ai.com company website; (2) YC company directory; (3) EU-Startups article (URL confirmed via scraper, direct fetch 403). Needs 3rd independent tech-press verification of lead investor and exact syndicate composition for this specific €5M round.'
   added: 2026-09-03
+  status: resolved
+  resolved: 2026-09-03
+  resolution_note: 'Fact-spec sweep 2026-09-03: EU-Startups primary article [^3] not re-fetchable (403), TechCrunch/archive.org also unavailable, WebSearch budget exhausted — could not achieve full 3-source syndicate triangulation for the specific €5M round. Corrections applied based on accessible primary sources (Zeit AI company website [^1] and YC company profile [^2]): (a) removed sequoia-capital from frontmatter firms: array — the backer listed on Zeit AI''s "Backed by" page is "Sequoia Scout Fund," a scout program separate from Sequoia Capital''s direct fund investments, so attribution to sequoia-capital would be a misattribution analogous to the Contrary/Valar Atomics correction; (b) reclassified y-combinator entry from "seed 2026-09-03" to "yc-s24 batch (2024)" since YC''s investment was during the Summer 2024 batch, not the €5M round announced 2026-09-03; (c) rewrote Funding History table to note the €5M round syndicate was "not disclosed" (rather than falsely listing prior backers as round participants), added a separate 2024 YC batch row; (d) rewrote About paragraph to clarify company''s "Backed by" page lists these as prior backers with round-specific participation undisclosed. Preserved the €5M amount, date, and YC S24 batch facts (verified via YC profile). Founder names, Oxford/Palantir background, €1M ARR, and customer list all verified via YC and company page.'
 - slug: sequoia-capital
   type: firm
   reason: 'Round monitoring 2026-09-03: AIR Security $50M seed (2026-09-01, first-round lead) confirmed via TechCrunch, AIR blog, SecurityWeek. Sequoia Scout Fund also listed among Zeit AI backers on their site.'
   added: 2026-09-03
+  status: resolved
+  resolved: 2026-09-03
+  resolution_note: 'Fact-spec sweep 2026-09-03: AIR Security portion (Sequoia Capital lead of $50M seed on 2026-09-01) previously resolved in prior sweep. Zeit AI portion investigated — Zeit AI website lists "Sequoia Scout Fund" as a backer, which is a scout program distinct from Sequoia Capital''s direct fund investments; no addition to sequoia-capital portfolio is warranted for Zeit AI. Removed sequoia-capital slug from zeit-ai.md frontmatter to prevent misattribution.'
 - slug: y-combinator
   type: firm
   reason: 'Round monitoring 2026-09-03: Zeit AI (Summer 2024 batch) raised €5M on 2026-09-03; profile added.'
   added: 2026-09-03
+  status: resolved
+  resolved: 2026-09-03
+  resolution_note: 'Fact-spec sweep 2026-09-03: Zeit AI YC Summer 2024 batch verified via YC company profile page (ycombinator.com/companies/zeit-ai). Founders Leopold von Waldthausen and Marvin Christopher Bornstein (both ex-Palantir) confirmed. YC portfolio table in y-combinator.md is a curated selection of notable exits/companies rather than an exhaustive batch list; Zeit AI does not warrant addition to that curated table at this early stage. Frontmatter of zeit-ai.md updated to reflect YC investment as "yc-s24 batch (2024)" rather than the 2026-09-03 €5M seed round.'

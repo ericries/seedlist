@@ -43,7 +43,7 @@ Andy Collins, Managing Director at Summit Partners: "Identity has become a prima
 
 ## What Founders Say
 
-No independently sourced founder quotes found.
+Johnny Ayers (Co-Founder & CEO): "I believe there are two types of companies that matter in the AI-driven global economy: those that are AI-native, and those that fight the consequences of AI acceleration." [^1]
 
 ## Sources
 
