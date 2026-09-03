@@ -106,6 +106,7 @@ Based on Summit's portfolio of 550+ companies and the 57 current portfolio compa
 | Finisar | Growth | 2000 | Networking | Acquired by Coherent | [^7][^7] |
 | Runpod | Growth (led, $100M at $1B post-money) | 2026-06-24 | AI Infrastructure / GPU Cloud / Developer Tools | Active | [^runpod1][^runpod2][^runpod3] |
 | Quantifind | Growth (led, $200M) | 2026-06-26 | AI / Fintech / RegTech | Active | [^quantifind1][^quantifind2][^quantifind3] |
+| Socure | Strategic Growth (led $156M; Goldman Sachs Alternatives, Wells Fargo, Docusign participating; $5.2B post-money) | 2026-08-27 | Fintech / Identity Verification / Fraud Prevention | Active | [^socure-sp1][^socure-sp2][^socure-sp3] |
 
 *This table represents approximately 25 of 550+ known investments. Summit's portfolio includes 175+ IPOs and 250+ strategic exits [^3].*
 
@@ -164,3 +165,9 @@ No independently sourced founder testimonials found. Summit Partners' portfolio 
 [^quantifind2]: PR Newswire, "Quantifind Announces $200 Million Growth Investment Led by Summit Partners to Advance AI-native Risk Intelligence and Governed Agentic Middleware for Modern Risk Operations," June 26, 2026. Accessed June 2026. https://www.prnewswire.com/news-releases/quantifind-announces-200-million-growth-investment-led-by-summit-partners-to-advance-ai-native-risk-intelligence-and-governed-agentic-middleware-for-modern-risk-operations-302811746.html — Independent wire confirmation; lists participating investors as Citi Ventures, S&P Global, Deloitte, and Stephens Group.
 
 [^quantifind3]: PYMNTS, "Quantifind Secures $200 Million to Scale AI-Native Risk Intelligence Platform," June 26, 2026. Accessed June 2026. https://www.pymnts.com/news/investment-tracker/2026/quantifind-secures-200-million-to-scale-ai-native-risk-intelligence-platform/ — Independent contemporaneous trade-press confirmation; corroborates $200M growth round led by Summit Partners with participation from Citi Ventures, S&P Global, Deloitte, and Stephens Group, and CEO Ari Tuchman quote.
+
+[^socure-sp1]: Crunchbase News, "Socure Raises $156M, Acquires Agentic AI Startup Fravity," accessed September 3, 2026. https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity/ — Primary tier-1 tech press. Confirms Socure's $156M strategic growth investment led by Summit Partners on 2026-08-27 with participation from Goldman Sachs Alternatives, Wells Fargo, and Docusign. Post-money valuation $5.2B. Round funded acquisition of Fravity.
+
+[^socure-sp2]: AlleyWatch, "The Weekly Notable Startup Funding Report: 8/31/26," accessed September 3, 2026. https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-31-26/ — Independent aggregator confirming Socure $156M with Docusign, Goldman Sachs Alternatives, Summit Partners, and Wells Fargo as investors. Total equity raised $802.9M.
+
+[^socure-sp3]: PYMNTS, "Socure Acquires Fraud Fighter Fravity as Valuation Hits $5.2 Billion," August 27, 2026. Accessed September 3, 2026. https://www.pymnts.com/news/investment-tracker/2026/socure-acquires-fraud-fighter-fravity-as-valuation-hits-5-2-billion/ — Independent tier-1 fintech press. Confirms $156M strategic investment led by Summit Partners with Managing Director Andy Collins quoted.

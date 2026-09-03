@@ -128,6 +128,7 @@ Based on analysis of 137 verified portfolio companies (96 active, 41 exited) fro
 | Metafuels | Series A ($24M; UVC Partners led; Energy Impact Partners, Contrarian Ventures, RockCreek, Verve Ventures, Fortescue Ventures returning existing investors) | 2026-02-18 | Sustainable aviation fuel | [^3][^met1][^met2][^met3] |
 | Overstory | Series B ($43M; Blume Equity led; EIP LP, B Capital, Semapa Next, Pale Blue Dot, CapitalT, Convective Capital, Bentley Systems, MCJ, Moxxie Ventures participating — EIP is a Series B new investor, NOT Series A) | 2025-11-25 | AI grid resilience / Wildfire prevention | [^ov1][^ov2][^ov3] |
 | Hint | Seed ($10M; Slow Ventures led; Montauk Capital, Tusk Venture Partners, Amplo, Energy Impact Partners, Hannah Grey VC, Brian Kelly participating) | 2026-05-13 | AI home management | [^25][^hint1][^hint2] |
+| Voya Energy | Series A ($35M lead; Founders Fund, John Doerr, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, StepStone Group participating; EIP incubated the company) | 2026-08-26 | Metal-fueled distributed power | [^voya1][^voya2][^voya3] |
 
 *This table represents a subset of approximately 137 known portfolio companies. The full portfolio is listed on the EIP website [^14].*
 
@@ -212,4 +213,10 @@ No additional independently sourced founder testimonials found beyond press rele
 [^eip-feg2]: TechCrunch, "Form Energy raises $750M to build more 100-hour batteries for the grid," August 12, 2026. Accessed August 2026. https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/ — Tier-1 tech press confirming the $750M Series G announced August 12, 2026, T. Rowe Price lead, with Energy Impact Partners named among the participating investor syndicate.
 
 [^eip-feg3]: The Boston Globe, "Somerville's Form Energy lands $750m investment, in part to expand its West Virginia battery factory," August 12, 2026. Accessed August 2026. https://www.bostonglobe.com/2026/08/business/form-energy-vc-funding-750-million/ — Regional tier-1 press independently confirming the $750M Series G on August 12, 2026, T. Rowe Price led, with Energy Impact Partners listed among the returning investors.
+
+[^voya1]: Voya Energy press release, "Voya Energy Unveils a New Metal Fuels Energy System, Closes $35 Million Series A," August 26, 2026. Accessed September 3, 2026. https://www.voya.energy/news/voya-energy-unveils-a-new-metal-fuels-energy-system-closes-35-million-series-a — Primary company press release confirming $35M Series A led by Energy Impact Partners with Founders Fund, John Doerr, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, and StepStone Group participating. Voya was incubated by EIP.
+
+[^voya2]: AlleyWatch, "The Weekly Notable Startup Funding Report: 8/31/26," accessed September 3, 2026. https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-31-26/ — Independent aggregator listing Voya Energy $35M with Energy Impact Partners, Founders Fund, John Doerr, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, and StepStone Group as investors.
+
+[^voya3]: Latitude Media, "Catalyst: The rise of metal fuels," August 27, 2026. Accessed September 3, 2026. https://www.latitudemedia.com/news/catalyst-the-rise-of-metal-fuels/ — Podcast interview with Voya CEO Richard Wang; EIP partner Shayle Kann confirms EIP incubated the company.
 

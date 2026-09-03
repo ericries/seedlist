@@ -247,6 +247,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Poetic | Series A (participated; Kleiner Perkins led, $50M at $500M post-money) | 2026-06-10 | AI / Enterprise Automation | Private [^68][^69][^70] |
 | Stark Defence | Series C (co-led with Sequoia Capital, €500M at €3.5B+ post-money) | 2026-06-23 | Defense Tech / Drones / Loitering Munitions | Private [^71][^72][^73] |
 | State Affairs | Growth ($70M; co-led with Khosla Ventures; Tru Arrow Partners, Alumni Ventures, Marcus Brauchli, Alex Mather, Adam Hansmann, Richard Sarnoff participated; round type not disclosed) | 2026-07-14 | AI / Policy Intelligence / Media | Private [^sa1][^sa2][^sa3] |
+| Voya Energy | Series A (participated; Energy Impact Partners led $35M; John Doerr, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, StepStone Group co-invested) | 2026-08-26 | Energy / Metal Fuels / Distributed Power | Private [^voya-ff1][^voya-ff2][^voya-ff3] |
 
 *Note: This table includes all 61 companies listed on Founders Fund's portfolio page plus Lyft, Anthropic, and Nominal from cross-referenced startup profiles. Investment years use company founding year as a proxy where specific investment date is unknown, marked with "~YYYY (founded)". Founders Fund has invested in 553 companies total per Tracxn [^12]; this table represents approximately 11% of the full portfolio, biased toward the firm's most notable investments.*
 
@@ -487,3 +488,9 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^96]: Flock Safety blog, "Flock Safety Raises $275M in New Funding at $7.5B Valuation," March 13, 2025. Accessed July 2026. https://www.flocksafety.com/blog/flock-safety-secures-major-funding — Company's announcement of $275M round on Mar 13, 2025 at $7.5B valuation led by Andreessen Horowitz with Greenoaks, Bedrock, Meritech, Matrix, Sands, Founders Fund, Kleiner Perkins, Tiger Global, Y Combinator.
 
 [^97]: Wilson Sonsini, "Wilson Sonsini Advises Flock Safety on $275 Million Financing," March 2025. Accessed July 2026. https://www.wsgr.com/en/insights/wilson-sonsini-advises-flock-safety-on-dollar275-million-financing.html — Law firm's advisory announcement corroborating the $275M financing at $7.5B valuation led by Andreessen Horowitz with Founders Fund among the participants.
+
+[^voya-ff1]: Voya Energy press release, "Voya Energy Unveils a New Metal Fuels Energy System, Closes $35 Million Series A," August 26, 2026. Accessed September 3, 2026. https://www.voya.energy/news/voya-energy-unveils-a-new-metal-fuels-energy-system-closes-35-million-series-a — Primary company source. Confirms Founders Fund among Series A participants (Energy Impact Partners led with $35M total round; syndicate also includes John Doerr, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, StepStone Group).
+
+[^voya-ff2]: AlleyWatch, "The Weekly Notable Startup Funding Report: 8/31/26," accessed September 3, 2026. https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-31-26/ — Aggregator confirming Voya Energy $35M syndicate includes Energy Impact Partners, Founders Fund, John Doerr, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, and StepStone Group.
+
+[^voya-ff3]: Latitude Media, "Catalyst: The rise of metal fuels," August 27, 2026. Accessed September 3, 2026. https://www.latitudemedia.com/news/catalyst-the-rise-of-metal-fuels/ — Podcast/article on Voya CEO Richard Wang; EIP partner Shayle Kann confirms EIP incubated Voya alongside co-founders.

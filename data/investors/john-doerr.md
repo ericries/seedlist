@@ -3,9 +3,9 @@ check_size: $10M–$150M (via Kleiner Perkins); $10M individual (e.g., Complete 
 firm: kleiner-perkins
 last_researched: 2026-03-18
 last_verified_investment:
-  company: Antora Energy
-  date: 2026-07-30
-  round: Series C
+  company: Voya Energy
+  date: 2026-08-26
+  round: Series A
 location: Menlo Park, CA
 name: John Doerr
 role: Chairman
@@ -111,6 +111,7 @@ Total: 25 verified investments. Note: this sample represents a small fraction of
 | Hippocratic AI | 2025 | Series C | [^28] |
 | Isometric | 2026-06-22 | Series A | [^33][^34][^35][^36] |
 | Antora Energy | 2026-07-30 | Series C (new participant as personal check, $550M; G2 Venture Partners and Eclipse co-led) | [^jd-antora-c1][^jd-antora-c2][^jd-antora-c3] |
+| Voya Energy | 2026-08-26 | Series A (participant, $35M; Energy Impact Partners led; Founders Fund, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, StepStone Group co-invested) | [^jd-voya1][^jd-voya2][^jd-voya3] |
 
 ## In Their Own Words
 
@@ -261,3 +262,9 @@ No independently sourced founder testimonials about working directly with John D
 [^jd-antora-c1]: Crunchbase News, "Battery Storage Startup Antora Closes $550M Series C In One Of Year's Largest Cleantech Rounds," July 30, 2026. Accessed August 2026. https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/ — Names John Doerr as a new participant in Antora Energy's $550M Series C co-led by G2 Venture Partners and Eclipse on 2026-07-30.
 [^jd-antora-c2]: Energy-Storage.News, "Antora Energy closes US$550 million Series C for thermal batteries," July 30, 2026. Accessed August 2026. https://www.energy-storage.news/antora-energy-closes-us550-million-series-c-to-scale-us-thermal-battery-deployment/ — Independent trade-press confirmation of John Doerr as a new participant alongside Ribbit Capital, Salesforce Ventures, Activate Capital, Westly Group, StepStone Group, and Liberty Mutual Strategic Ventures.
 [^jd-antora-c3]: Pulse 2.0, "Antora Energy Raises $550 Million In Series C Funding Co-Led By G2 Venture Partners And Eclipse," accessed August 2026. https://pulse2.com/antora-energy-raises-550-million-in-series-c-funding-co-led-by-g2-venture-partners-and-eclipse/ — Third independent confirmation of John Doerr as a new participant in the $550M Series C.
+
+[^jd-voya1]: Voya Energy press release, "Voya Energy Unveils a New Metal Fuels Energy System, Closes $35 Million Series A," August 26, 2026. Accessed September 3, 2026. https://www.voya.energy/news/voya-energy-unveils-a-new-metal-fuels-energy-system-closes-35-million-series-a — Primary company press release naming John Doerr as a Series A participant alongside Energy Impact Partners (lead), Founders Fund, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, and StepStone Group.
+
+[^jd-voya2]: AlleyWatch, "The Weekly Notable Startup Funding Report: 8/31/26," accessed September 3, 2026. https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-31-26/ — Aggregator listing John Doerr among Voya Energy's $35M Series A syndicate.
+
+[^jd-voya3]: Latitude Media, "Catalyst: The rise of metal fuels," August 27, 2026. Accessed September 3, 2026. https://www.latitudemedia.com/news/catalyst-the-rise-of-metal-fuels/ — Podcast/article on Voya Energy CEO Richard Wang; EIP partner Shayle Kann confirms EIP led and incubated the company.

@@ -20,12 +20,29 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Precore Gold Closes Oversubscribed C$6 Million Private Placement
+  url: https://www.globenewswire.com/news-release/2026/09/03/3355912/0/en/precore-gold-closes-oversubscribed-c-6-million-private-placement.html
+  source: globenewswire
+  date_found: '2026-09-03'
+  parsed_company: Precore Gold
+  parsed_amount: $6M
+  parsed_round: null
+  status: pending
 - title: Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals
     Continues
   url: https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/
   source: crunchbase
   date_found: '2026-09-03'
   parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: UK MedTech Strolll secures €5 million in Innovate UK funding and additional
+    IW Capital-led investment
+  url: https://www.eu-startups.com/2026/09/uk-medtech-strolll-secures-e5-million-in-innovate-uk-funding-and-additional-iw-capital-led-investment/
+  source: eu-startups
+  date_found: '2026-09-03'
+  parsed_company: UK MedTech Strolll
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -835,22 +852,4 @@ pending_rounds:
   parsed_company: London-based Callosum
   parsed_amount: null
   parsed_round: Seed
-  status: pending
-- title: Vilnius-based Guideless raises €1 million to turn software workflows into
-    narrated video training guides using AI
-  url: https://www.eu-startups.com/2026/08/vilnius-based-guideless-raises-e1-million-to-turn-software-workflows-into-narrated-video-training-guides-using-ai/
-  source: eu-startups
-  date_found: '2026-08-20'
-  parsed_company: Vilnius-based Guideless
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Belgian creative learning platform Artwod raises €1.1 million to launch creators’
-    marketplace
-  url: https://www.eu-startups.com/2026/08/belgian-creative-learning-platform-artwod-raises-e1-1-million-to-launch-creators-marketplace/
-  source: eu-startups
-  date_found: '2026-08-20'
-  parsed_company: Belgian creative learning platform Artwod
-  parsed_amount: null
-  parsed_round: null
   status: pending
