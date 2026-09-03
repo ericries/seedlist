@@ -5577,3 +5577,15 @@ priority:
   type: investor
   reason: 'Round monitoring 2026-09-03: participated in Voya Energy Series A (2026-08-26)'
   added: 2026-09-03
+- slug: zeit-ai
+  type: startup
+  reason: 'Round monitoring 2026-09-03: Created lean profile for €5M seed (2026-09-03). Founders Leopold von Waldthausen (CEO, ex-Palantir, Oxford CS) and Marvin Christopher Bornstein (CTO, ex-Palantir). YC Summer 2024 batch. Munich, Germany. €1M ARR within 12 months of YC. Prior backers per company site: Sequoia Scout Fund, HP Venture Capital, ACE Ventures, University of Oxford. Sources: (1) zeit-ai.com company website; (2) YC company directory; (3) EU-Startups article (URL confirmed via scraper, direct fetch 403). Needs 3rd independent tech-press verification of lead investor and exact syndicate composition for this specific €5M round.'
+  added: 2026-09-03
+- slug: sequoia-capital
+  type: firm
+  reason: 'Round monitoring 2026-09-03: AIR Security $50M seed (2026-09-01, first-round lead) confirmed via TechCrunch, AIR blog, SecurityWeek. Sequoia Scout Fund also listed among Zeit AI backers on their site.'
+  added: 2026-09-03
+- slug: y-combinator
+  type: firm
+  reason: 'Round monitoring 2026-09-03: Zeit AI (Summer 2024 batch) raised €5M on 2026-09-03; profile added.'
+  added: 2026-09-03
