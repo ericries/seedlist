@@ -165013,14 +165013,16 @@ vague_facts:
   status: pending
 - profile: investors/yoni-rechtman
   profile_name: Yoni Rechtman
-  company: ~unknown
+  company: Heave
   section: Portfolio
   column: 2
   value: n/a
-  line: ~unknown| Heave | n/a | n/a (sourced by Rechtman per Slow promotion coverage) | [^2] |
+  line: '| Heave | — (year not disclosed) | — (stage not disclosed; sourced by Rechtman per Slow promotion coverage) | [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-03'
+  resolution_note: 'Row had a malformed leading "~unknown|" prefix (the scanner mis-parsed the row entirely — that scanner artifact was leaking into the rendered markdown). Fixed the yoni-rechtman.md portfolio row so it is a valid Markdown table row, restored the leading pipe, and explicitly labeled year and stage as "not disclosed" so readers understand why those columns are dashes. Content-wise, the underlying fact (Heave sourced by Rechtman per Slow promotion coverage) remains supported only by [^2] (Melia Russell''s LinkedIn coverage of Rechtman''s Partner promotion at Slow, Oct 2025); no additional independent primary source discloses the year or stage. The referenced [^13] Superdial post does not mention Heave (verified via WebFetch).'
 - profile: investors/yossi-vardi
   profile_name: Yossi Vardi
   company: TEKEM
@@ -169260,7 +169262,9 @@ vague_facts:
   line: '| 2026-07-20 | Strategic Follow-on | undisclosed | Agilent Technologies | UK Innovation Science Seed Fund (UKI2S), Midla'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-09-03'
+  resolution_note: 'Amount genuinely not publicly disclosed. Verified across 3 primary sources: Pulse 2.0 (Jul 20 2026) describes only "multimillion-dollar funding round"; Agilent/HALO press release syndicated via AOL/BusinessWire (Jul 20 2026) does not include a dollar/pound figure; Norfolk Daily News mirror of the same release also omits an amount. HALO profile already notes "The round amount was not publicly disclosed and has been described in press coverage as ''multimillion-dollar''" with all 3 citations, so no profile change was needed.'
 - profile: startups/harken-sweets
   profile_name: Harken Sweets
   company: '2026-05-13'
@@ -170865,7 +170869,9 @@ vague_facts:
   line: '| 2025 | Pre-Seed | undisclosed | — | Patrick Collison [^1][^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-09-03'
+  resolution_note: 'Pre-seed amount is genuinely not publicly disclosed. Verified across 3 primary sources: Fortune exclusive (Jun 15 2026) states only "Patrick Collison ... backed the company at pre-seed" without an amount; Business Wire/Yahoo Finance company announcement (Jun 15 2026) does not disclose the pre-seed amount; FinSMEs recap (2026) does not disclose it. Radical Numerics profile updated to say "Not publicly disclosed" and add a clarifying note beneath the Funding History table citing all 3 sources.'
 - profile: startups/radley-health
   profile_name: Radley Health
   company: '2026-06-02'

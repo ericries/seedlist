@@ -56,8 +56,10 @@ The company targets the AI drug discovery market and has two early commercial pa
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
-| 2025 | Pre-Seed | undisclosed | — | Patrick Collison [^1][^2] |
+| 2025 | Pre-Seed | Not publicly disclosed | — (no lead named) | Patrick Collison [^1][^2] |
 | 2026-06-15 | Seed | $50M | Emergence Capital | Obvious Ventures, Triatomic Capital, Factory, First Spark Ventures [^1][^3] |
+
+*Pre-seed round: Amount and exact date not publicly disclosed in the Business Wire announcement, Fortune's exclusive coverage, or the FinSMEs recap [^1][^2][^3]. Coverage confirms only that Patrick Collison (Stripe CEO, Arc Institute co-founder) backed the company at pre-seed prior to the June 2026 Seed round.*
 
 ## What Investors Say
 

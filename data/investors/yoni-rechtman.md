@@ -63,7 +63,8 @@ This table lists only investments where Yoni Rechtman's personal involvement (so
 |---|---|---|---|
 | Superdial | 2022 | Seed (first investment at Slow) | [^13] |
 | Superdial | 2025 | Series A ($15M, SignalFire led; third time backing the company) | [^13] |
-~unknown| Heave | n/a | n/a (sourced by Rechtman per Slow promotion coverage) | [^2] |
+
+**Also sourced by Rechtman:** Heave — cited alongside Superdial in coverage of Rechtman's Partner promotion at Slow as a company he sourced [^2]; year and stage of his involvement were not disclosed in that coverage and could not be independently corroborated in other primary sources.
 
 **Notes:** Slow Ventures' broader portfolio (which Rechtman supports) is documented on slow.co; specific personal attribution beyond the above could not be independently verified from primary sources and was therefore omitted.
 
