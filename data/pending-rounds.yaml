@@ -80,6 +80,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Pre-Seed
   status: pending
+- title: Circular unveils Ring 3 series with contactless payments and on-finger vibration
+    alerts
+  url: https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/
+  source: techcrunch
+  date_found: '2026-09-03'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: The August 2026 New York Venture Capital Funding Report
   url: https://alleywatch.com/2026/09/the-august-2026-new-york-venture-capital-funding-report/
   source: alleywatch
@@ -843,13 +852,4 @@ pending_rounds:
   parsed_company: Stockholm’s Pixelgen Technologies
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: London-based Callosum raises €85.4 million in Atomico-led Seed round to unify
-    AI models and chips
-  url: https://www.eu-startups.com/2026/08/london-based-callosum-raises-e85-4-million-in-atomico-led-seed-round-to-unify-ai-models-and-chips/
-  source: eu-startups
-  date_found: '2026-08-20'
-  parsed_company: London-based Callosum
-  parsed_amount: null
-  parsed_round: Seed
   status: pending
