@@ -29,7 +29,7 @@ Lyte is a Sunnyvale, CA-based physical AI startup founded in 2021 by former Appl
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-02 | Series C | $165M | Maverick Silicon | Fidelity Management & Research, Atreides Management, Key1 Capital, Ora Global (formerly Exor Ventures) [^1][^2] |
+| 2026-09-02 | Series C | $165M | Maverick Silicon | Fidelity Management & Research, Atreides Management, Key1 Capital, Ora Global (formerly Exor Ventures) [^1][^2][^4] |
 | 2026-01-05 | Seed + Series A/B (combined, disclosed at stealth exit) | $107M | Undisclosed | Undisclosed [^3] |
 
 Post-money valuation at Series C: $1.6B [^1][^2]. Total capital raised since 2021: $272M [^1][^2]. As part of the Series C, Andrew Homan (Managing Partner at Maverick Silicon) joined Lyte's board of directors [^2].
@@ -51,3 +51,4 @@ Alexander Shpunt (CEO & Co-Founder): "Physical AI has a sensing problem before i
 [^1]: Crunchbase News, "Former Apple Engineers' Physical AI Startup Lyte Raises $165M Series C Led By Maverick," September 2, 2026. Accessed September 2, 2026. https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/
 [^2]: Lyte company news, "Series C" (official announcement page), September 2, 2026. Accessed September 2, 2026. https://lyte.ai/news/series-c
 [^3]: Lyte company news, "Lyte Emerges from Stealth with $107 Million to Build the Perception Foundation for Physical AI," January 5, 2026. Accessed September 2, 2026. https://lyte.ai/newslyteemergesfromstealth
+[^4]: Pulse 2.0, "Lyte Raises $165 Million Series C," September 2026. Accessed September 2026. https://pulse2.com/lyte-raises-165-million-series-c/
