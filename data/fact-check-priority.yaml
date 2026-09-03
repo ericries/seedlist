@@ -5393,6 +5393,10 @@ priority:
   type: startup
   reason: QIA and Koch Disruptive Technologies-led $200M Series D with Millennium, ARK Invest, Intact Private Capital (2026-08-25)
   added: 2026-08-31
+  status: resolved
+  resolved: 2026-09-02
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Verified Gatik $200M Series D on 2026-08-25 co-led by Qatar Investment Authority and Koch Disruptive Technologies via 4+ independent primary sources already cited on gatik.md — (1) Gatik company press release via Yahoo Finance [^1]; (2) TechCrunch tier-1 tech press [^2]; (3) Bloomberg [^3]; (4) Gatik company newsroom [^4]; (5) SiliconANGLE [^5]; (6) Gulf Times regional Doha press [^6]. All sources confirm 2026-08-25 date, $200M amount, QIA + KDT co-lead, and participants Millennium Management, ARK Invest, Intact Private Capital (Arca Continental named by Gulf Times [^6]). Cross-checked koch-disruptive-technologies.md portfolio row at line 129 — Gatik Series D entry cites [^gatikd1]-[^gatikd4] (Yahoo/company press, TechCrunch, SiliconANGLE, Gulf Times) with all details matching. Verbatim investor quotes verified: Cathie Wood (ARK Invest) [^5], Byron Knight (KDT President) [^1], Abdullah Al Kuwari (QIA Director of Industrial Investments) [^6]. Verbatim founder quotes verified: Gautam Narang [^1][^2]. No corrections needed — profile and firm cross-reference are already 10/10 accurate with 3+ primary sources on both sides.
 - slug: nexeon
   type: startup
   reason: National Wealth Fund-led £100M growth round with Korea Development Bank, Honda Xcelerator Ventures (2026-08-31)
@@ -5461,6 +5465,10 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for $20M Series B (2026-08-31) led by Insight Partners with Entrée Capital and private U.S. investors. Sources: Business Wire, Yahoo Finance, Defense Daily."
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-02
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Verified Easy Aerial $20M Series B on 2026-08-31 led by Insight Partners with Entrée Capital and private U.S. investors via 4 independent primary sources already cited on easy-aerial.md — (1) AlleyWatch daily funding report [^1]; (2) Easy Aerial company website [^2]; (3) Business Wire press release [^3]; (4) Defense Daily [^4]; (5) Pulse 2.0 [^5]; (6) Yahoo Finance Business Wire syndication [^6]. All three primary press sources ([^3][^4][^5][^6]) independently confirm 2026-08-31 date, $20M amount, Insight Partners lead, Entrée Capital participant. Cross-checked insight-partners.md portfolio row at line 148 — Easy Aerial Series B row cites [^ea1] Business Wire, [^ea2] Yahoo Finance, [^ea3] Defense Daily with all details matching. Verbatim quotes verified: Mike Hayes (Insight Partners Managing Director) [^5][^6], Shahar Abuhazira (Chairman and CEO) [^5][^6]. Founders block verified: Ido Gur (Co-Founder), Ivan Stamatovski (Co-Founder), Shahar Abuhazira (Chairman & CEO). No corrections needed — profile and firm cross-reference are 10/10 accurate with 3+ primary sources on both sides.
 - slug: hubx
   type: startup
   reason: "Round monitoring 2026-09-01: Created profile for $50M growth round (up to $75M) (2026-08-28) from Point72 Private Investments at $1.2B pre-money. Turkiye's 8th unicorn. Sources: HubX company news, Daily Sabah, Investing.com/FinanceWire."
@@ -5473,6 +5481,10 @@ priority:
   type: firm
   reason: "Appeared in Easy Aerial Series B (2026-08-31)"
   added: 2026-09-01
+  status: resolved
+  resolved: 2026-09-02
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Verified Easy Aerial Series B row already present on insight-partners.md at line 148 with correct lead attribution ($20M, Insight Partners led, Entrée Capital and private U.S. investors also participated), correct date (2026-08-31), and 3 independent primary source citations [^ea1] Business Wire, [^ea2] Yahoo Finance, [^ea3] Defense Daily. All three URLs load cleanly and confirm 2026-08-31 date, $20M amount, Insight Partners lead, Entrée Capital co-investor. Cross-referenced with easy-aerial.md startup profile which cites the same primary sources plus 3 additional (AlleyWatch, Easy Aerial company website, Pulse 2.0). No corrections needed — firm portfolio row meets 3-source primary-source threshold and matches startup profile.
 - slug: typewriter-therapeutics
   type: startup
   reason: "Round monitoring 2026-09-02: Created new profile for $56M Series A (2026-09-02) co-led by AN Venture Partners and RA Capital, with ANRI, Gemseki, SBI US Gateway Fund. Sources: PR Newswire, Endpoints News, RA Capital portfolio."
