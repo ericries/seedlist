@@ -45,11 +45,17 @@ Voya Energy is a Hayward, California-based clean energy startup building metal-f
 
 ## What Investors Say
 
-Shayle Kann (Partner, Energy Impact Partners): "We at EIP incubated Voya alongside Richard and his co-founders Matt and Stephen." [^3]
+Shayle Kann (Managing Partner, Energy Impact Partners): "The team has made remarkable progress turning that vision into a commercial reality, and we are thrilled to continue supporting the company as it moves toward deployment." [^1]
+
+Shayle Kann, on the diesel-genset displacement thesis: "Ask any user of a diesel generator, and they'll tell you all the reasons these things need replacing." [^3]
+
+John Doerr (Founder, Doerr Capital): "Meeting that demand requires new technologies that can deliver clean, firm power at speed and scale." [^1]
 
 ## What Founders Say
 
 Richard Wang (Co-Founder & CEO): "Electricity demand is rising faster than the grid can expand, and businesses cannot afford to wait years for the power they need." [^1]
+
+Richard Wang, on the market opportunity: "The market for diesel generators is surprisingly large. It's this sort of invisible entity that backs up the whole globe's energy system." [^3]
 
 ## Sources
 

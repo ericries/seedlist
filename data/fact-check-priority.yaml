@@ -5549,10 +5549,16 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-02: New profile created for $100M Series B (2026-09-02) led by Delta-v Capital'
   added: 2026-09-02
+  status: resolved
+  resolved: 2026-09-03
+  resolution_note: 'Fact-spec sweep 2026-09-03: verified $100M Series B via 3 independent primary sources: TechCrunch [^1] (2026-09-02), HiddenLayer press release [^2] (2026-09-02, primary company), and NEW SecurityWeek [^3] (2026-09-03). Lead Delta-v Capital confirmed; co-investors Ten Eleven Ventures, Morgan Stanley, M12, Booz Allen Ventures confirmed across all three. Added Sestito CEO quote verbatim from company press release + SecurityWeek. 1 new citation added ([^3]).'
 - slug: wonderful
   type: startup
   reason: 'Round monitoring 2026-09-02: $550M Series C (2026-09-02) added, valuation $5B, Insight Partners led, Salesforce joined'
   added: 2026-09-02
+  status: resolved
+  resolved: 2026-09-03
+  resolution_note: 'Fact-spec sweep 2026-09-03: verified $550M Series C via 3 independent primary sources: TechCrunch Series B backgrounder [^1] (2026-03-12), TechCrunch Series C [^2] (2026-09-02), and NEW Calcalist/CTech by Sophie Shulman [^3] (2026-09-02). Lead Insight Partners confirmed; participants Salesforce (first investment), Index Ventures, IVP, Vine Ventures, 9Yards, Bessemer Venture Partners confirmed. NEW: identified founders Bar Winkler (CEO) and Roey Lalazar (CTO) — added to frontmatter. NEW: added $170M secondary transaction detail, ~650 employees, $70M ARR to $100M+ projection. Added Jeff Horing (Insight) investor quote verbatim from Calcalist. 1 new citation added ([^3]).'
 - slug: voya-energy
   type: startup
   reason: 'Round monitoring 2026-09-03: $35M Series A (2026-08-26), Energy Impact Partners led, Founders Fund + John Doerr participated'
@@ -5561,6 +5567,9 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-03: $156M Strategic Growth (2026-08-27), Summit Partners led, $5.2B post-money, Fravity acquisition'
   added: 2026-09-03
+  status: resolved
+  resolved: 2026-09-03
+  resolution_note: 'Fact-spec sweep 2026-09-03: verified $156M Strategic Growth via 3 independent primary sources: Crunchbase News [^1], AlleyWatch weekly roundup [^2], and PYMNTS [^3] (2026-08-27). Lead Summit Partners confirmed, co-investors Goldman Sachs Alternatives, Wells Fargo, Docusign confirmed, $5.2B post-money valuation confirmed, Fravity acquisition confirmed. NEW: replaced vague investor placeholder with verbatim Andy Collins (Managing Director, Summit Partners) quote sourced from PYMNTS [^3]: "Identity has become a primary control point for trust in an AI-driven economy, and we believe the platforms that can verify identity accurately at global scale will define the next decade of risk infrastructure." No structural changes; profile already met 3+ source threshold — this sweep upgraded the What Investors Say section from paraphrase to verbatim quote.'
 - slug: energy-impact-partners
   type: firm
   reason: 'Round monitoring 2026-09-03: led Voya Energy Series A (2026-08-26)'

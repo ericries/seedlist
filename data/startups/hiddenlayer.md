@@ -29,7 +29,7 @@ HiddenLayer is an Austin-based AI security company founded in 2022 that builds a
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-02 | Series B | $100M | Delta-v Capital | Ten Eleven Ventures, Morgan Stanley, M12, Booz Allen Ventures [^1][^2] |
+| 2026-09-02 | Series B | $100M | Delta-v Capital | Ten Eleven Ventures, Morgan Stanley, M12, Booz Allen Ventures [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -45,7 +45,10 @@ Chris Sestito, CEO and Co-Founder: "Inference is still inference... we haven't h
 
 Chris Sestito, CEO and Co-Founder: "We parse and scan about 50 different AI file frameworks to make sure... the tool you're working with is the one you believe it to be." [^1]
 
+Chris Sestito, CEO and Co-Founder: "We set out to pioneer trusted, secure use of AI for enterprises, long before most organizations saw the urgency we do today. This funding lets us keep growing the purpose-built team and platform required to meet that moment as agentic AI becomes core to how enterprises operate." [^2][^3]
+
 ## Sources
 
 [^1]: TechCrunch, "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments," September 2, 2026. Accessed September 2, 2026. https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/
 [^2]: HiddenLayer press release, "HiddenLayer Raises $100M Series B to Advance Trustworthy AI," September 2, 2026. Accessed September 2, 2026. https://hiddenlayer.com/news/hiddenlayer-100m-series-b-ai-security
+[^3]: SecurityWeek, "HiddenLayer Raises $100 Million for AI Runtime Security," September 3, 2026. Accessed September 3, 2026. https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/

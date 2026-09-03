@@ -39,7 +39,7 @@ Post-money valuation: $5.2B [^1][^3]. The round included a mix of primary capita
 
 ## What Investors Say
 
-Andy Collins (Managing Director, Summit Partners), on the strategic importance of identity verification in an AI-driven economy [^3].
+Andy Collins, Managing Director at Summit Partners: "Identity has become a primary control point for trust in an AI-driven economy, and we believe the platforms that can verify identity accurately at global scale will define the next decade of risk infrastructure." [^3]
 
 ## What Founders Say
 
