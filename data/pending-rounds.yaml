@@ -20,6 +20,49 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals
+    Continues
+  url: https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/
+  source: crunchbase
+  date_found: '2026-09-03'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: YC-backed Zeit AI raises €4.3 million to build Europe’s “autonomous data
+    engineer”
+  url: https://www.eu-startups.com/2026/09/yc-backed-zeit-ai-raises-e5-million-to-build-europes-autonomous-data-engineer/
+  source: eu-startups
+  date_found: '2026-09-03'
+  parsed_company: YC-backed Zeit AI
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Cyprus-founded Piney raises €1.6 million to take its rental operations platform
+    beyond Europe
+  url: https://www.eu-startups.com/2026/09/cyprus-founded-piney-raises-e1-6-million-to-take-its-rental-operations-platform-beyond-europe/
+  source: eu-startups
+  date_found: '2026-09-03'
+  parsed_company: Cyprus-founded Piney
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Fresh from €14.6 million Seed round, eComID acquires Nilum to push into recommerce
+  url: https://www.eu-startups.com/2026/09/fresh-from-e14-6-million-seed-round-ecomid-acquires-nilum-to-push-into-recommerce/
+  source: eu-startups
+  date_found: '2026-09-03'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: Belgian food quality AI startup Backbone raises €4 million pre-Seed round
+  url: https://www.eu-startups.com/2026/09/belgian-food-quality-ai-startup-backbone-raises-e4-million-pre-seed-round/
+  source: eu-startups
+  date_found: '2026-09-03'
+  parsed_company: Belgian food quality AI startup Backbone
+  parsed_amount: null
+  parsed_round: Pre-Seed
+  status: pending
 - title: The August 2026 New York Venture Capital Funding Report
   url: https://alleywatch.com/2026/09/the-august-2026-new-york-venture-capital-funding-report/
   source: alleywatch
@@ -808,15 +851,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-08-20'
   parsed_company: Belgian creative learning platform Artwod
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Scotland’s Singular Photonics secures €1.85 million to scale SPAD image sensors
-    with on-chip computing
-  url: https://www.eu-startups.com/2026/08/scotlands-singular-photonics-secures-e1-85-million-to-scale-spad-image-sensors-with-on-chip-computing/
-  source: eu-startups
-  date_found: '2026-08-19'
-  parsed_company: Scotland’s Singular Photonics
   parsed_amount: null
   parsed_round: null
   status: pending
