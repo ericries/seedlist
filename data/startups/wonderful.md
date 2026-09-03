@@ -10,20 +10,36 @@ sector:
   - artificial-intelligence
   - enterprise-ai
   - customer-service
-stage_latest: Series B
-total_raised: $286M
+stage_latest: Series C
+total_raised: $836M
 firms:
+  - slug: insight-partners
+    round: series-c
+    year: 2026
+    date: 2026-09-02
   - slug: insight-partners
     round: series-b
     year: 2026
     date: 2026-03-12
   - slug: index-ventures
+    round: series-c
+    year: 2026
+    date: 2026-09-02
+  - slug: index-ventures
     round: series-a
     year: 2025
+  - slug: ivp
+    round: series-c
+    year: 2026
+    date: 2026-09-02
   - slug: ivp
     round: series-b
     year: 2026
     date: 2026-03-12
+  - slug: bessemer-venture-partners
+    round: series-c
+    year: 2026
+    date: 2026-09-02
   - slug: bessemer-venture-partners
     round: series-b
     year: 2026
@@ -31,12 +47,12 @@ firms:
 investors: []
 founders: []
 status: published
-last_researched: 2026-03-27
+last_researched: 2026-09-02
 ---
 
 ## About
 
-Wonderful is an Israeli AI agent startup that builds a customer service AI platform tailored for non-English-speaking markets across telecom, finance, healthcare, and manufacturing [^1]. Founded in early 2025, the company operates across 30 countries in Europe, Latin America, and Asia-Pacific, deploying local teams for on-the-ground implementation [^1].
+Wonderful is an Israeli-Dutch AI agent startup that builds an AI operating system platform coordinating AI agents, workflows, and applications across enterprise data and systems [^1][^2]. Initially launched as a customer service AI agent platform for non-English-speaking markets across telecom, finance, healthcare, and manufacturing, the company now operates across 35+ countries using forward-deployed engineers to integrate solutions into client operations [^1][^2]. On September 2, 2026, Wonderful announced a $550M Series C led by Insight Partners with participation from Index Ventures, IVP, Vine Ventures, 9Yards, Bessemer Venture Partners, and Salesforce (its first investment in the company), valuing the business at $5B — more than double the $2B Series B valuation set just six months earlier [^2].
 
 ## Funding History
 
@@ -44,8 +60,9 @@ Wonderful is an Israeli AI agent startup that builds a customer service AI platf
 |------|-------|--------|------|--------------|
 | ~2025 | Series A | $100M | Index Ventures | IVP, Bessemer Venture Partners, Vine Ventures [^1] |
 | 2026-03-12 | Series B | $150M | Insight Partners | Index Ventures, IVP, Bessemer Venture Partners, Vine Ventures [^1] |
+| 2026-09-02 | Series C | $550M | Insight Partners | Index Ventures, IVP, Vine Ventures, 9Yards, Bessemer Venture Partners, Salesforce [^2] |
 
-Total raised: $286M. Series B valued the company at $2B [^1].
+Series C valuation: $5B (up from $2B at Series B) [^2].
 
 ## What Investors Say
 
@@ -53,8 +70,9 @@ No independently sourced investor quotes found.
 
 ## What Founders Say
 
-No independently sourced founder testimonials found.
+Roey Lalazar, CTO and Co-Founder: "Customers can adopt whichever parts of the platform make the most sense, integrate them with existing systems, choose the best models for each workload, and retain ownership of everything." [^2]
 
 ## Sources
 
-[^1]: "Wonderful raises $150M Series B at $2B valuation," TechCrunch, March 12, 2026. https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/
+[^1]: "Wonderful raises $150M Series B at $2B valuation," TechCrunch, March 12, 2026. Accessed September 2026. https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/
+[^2]: "Wonderful more than doubles its valuation to $5B in under 6 months," TechCrunch, September 2, 2026. Accessed September 2, 2026. https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/

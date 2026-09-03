@@ -176,6 +176,14 @@ pending_rounds:
   parsed_amount: $165M
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/2/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-2-2026/
+  source: alleywatch
+  date_found: '2026-09-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Berlin-based Cloover secures €86.2 million facility as it reaches profitability
     and launches AI-native neo-utility
   url: https://www.eu-startups.com/2026/09/berlin-based-cloover-secures-e86-2-million-facility-as-it-reaches-profitability-and-launches-ai-native-neo-utility/

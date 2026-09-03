@@ -5519,3 +5519,12 @@ priority:
   status: resolved
   resolved: 2026-09-02
   resolution_note: "Duplicate — see the earlier lyte entry (row 1) for the full fact-spec sweep 2026-09-02 resolution note."
+
+- slug: hiddenlayer
+  type: startup
+  reason: "Round monitoring 2026-09-02: New profile created for $100M Series B (2026-09-02) led by Delta-v Capital"
+  added: 2026-09-02
+- slug: wonderful
+  type: startup
+  reason: "Round monitoring 2026-09-02: $550M Series C (2026-09-02) added, valuation $5B, Insight Partners led, Salesforce joined"
+  added: 2026-09-02
