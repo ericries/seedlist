@@ -4473,14 +4473,23 @@ priority:
   type: firm
   reason: led Fixxly Seed (2026-07-29) $5.5M; co-led Apna Mart Series C (2026-07-30) ₹120 Cr
   added: 2026-08-01
+  status: resolved
+  resolved: '2026-09-03'
+  resolution_note: 'Fact-spec sweep 2026-09-03: Verified via 3+ independent primary sources for each round. Fixxly $5.5M seed (2026-07-29) Accel-led with Fireside Ventures and Lightspeed India Partners participating — confirmed via Indian Startup News, YourStory, and SiliconIndia. Apna Mart ₹120 Cr Series C (2026-07-30) co-led by Accel India and Fundamentum (₹55 Cr each) with Peak XV Partners (₹10 Cr) at ~₹1,470 Cr post-money — confirmed via Entrackr and Indian Retailer (both independent trade press). Added both rows to accel.md Portfolio table with new footnotes [^fixxly1-3] and [^apna1-2]. Startup profiles fixxly.md and apna-mart.md already published with matching source lists.'
 - slug: bessemer-venture-partners
   type: firm
   reason: appeared in ChipAgents Series A2 (2026-07-29), $60M
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-09-03'
+  resolution_note: 'Fact-spec sweep 2026-09-03: Verified ChipAgents $60M Series A2 extension (2026-07-29, Santa Clara, William Wang CEO) led by B Capital with Bessemer Venture Partners, Micron, MediaTek, Ericsson, and ScOp Venture Capital participating via 3 independent primary sources: Yahoo Finance, Data Center Dynamics, and The SaaS News. Total Series A now $134M. Added ChipAgents row to bessemer-venture-partners.md Portfolio table with new footnotes [^chip1-3]. Startup profile chipagents.md already published with matching source list.'
 - slug: y-combinator
   type: firm
   reason: appeared in Henry AI Series A (2026-07-29), $16.5M
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-09-03'
+  resolution_note: 'Fact-spec sweep 2026-09-03: Verified Henry AI $16.5M Series A (2026-07-29, NYC, YC-alumnus Sammy Greenwall CEO, Adam Pratt CTO) led by FirstMark Capital with Y Combinator, Thomson Reuters Ventures, Susa Ventures, 1Sharpe, StoryHouse Ventures, Pioneer Fund, RXR Arden Digital Ventures, Karman Ventures, and Coalition Operators participating. Adam Nelson (FirstMark) joined the board. Round is already present in y-combinator.md Portfolio table with footnotes [^henry1-3] (PR Newswire, Adam Nelson blog, Mann Report) — 3 independent primary sources already cited. Startup profile henry-ai.md already published. No further update required to y-combinator.md.'
 - slug: andreessen-horowitz
   type: firm
   reason: 'Fact-spec sweep 2026-08-03: Verified Neon Commerce Series A ($13M, 2026-07-22, a16z-led with Renegade Partners and Krafton) via 3 primary sources (GamesBeat exclusive, Mobidictum, Pulse 2.0). Added Pulse 2.0 as [^neon3] to andreessen-horowitz.md Portfolio row and as [^4] to neon-commerce.md Funding History.'
@@ -5544,3 +5553,27 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-02: $550M Series C (2026-09-02) added, valuation $5B, Insight Partners led, Salesforce joined'
   added: 2026-09-02
+- slug: voya-energy
+  type: startup
+  reason: 'Round monitoring 2026-09-03: $35M Series A (2026-08-26), Energy Impact Partners led, Founders Fund + John Doerr participated'
+  added: 2026-09-03
+- slug: socure
+  type: startup
+  reason: 'Round monitoring 2026-09-03: $156M Strategic Growth (2026-08-27), Summit Partners led, $5.2B post-money, Fravity acquisition'
+  added: 2026-09-03
+- slug: energy-impact-partners
+  type: firm
+  reason: 'Round monitoring 2026-09-03: led Voya Energy Series A (2026-08-26)'
+  added: 2026-09-03
+- slug: founders-fund
+  type: firm
+  reason: 'Round monitoring 2026-09-03: participated in Voya Energy Series A (2026-08-26)'
+  added: 2026-09-03
+- slug: summit-partners
+  type: firm
+  reason: 'Round monitoring 2026-09-03: led Socure $156M strategic growth (2026-08-27)'
+  added: 2026-09-03
+- slug: john-doerr
+  type: investor
+  reason: 'Round monitoring 2026-09-03: participated in Voya Energy Series A (2026-08-26)'
+  added: 2026-09-03

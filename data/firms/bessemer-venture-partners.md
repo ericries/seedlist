@@ -165,6 +165,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Act Security | Seed (co-led with Team8, $20M; Hetz Ventures and Caltech participated; Tel Aviv-based; founders ex-Medigate) | 2026-07-28 | Cybersecurity / AI / Cloud Security | [^act1][^act2] |
 | Sent | Series A ($12M; Companyon Ventures led; Urban Innovation Fund and CP Overture participated; NYC-based messaging infrastructure; also participated in $3.55M seed May 2025) | 2026-07-28 | Messaging / Telecom / Developer Tools / AI | [^sent1][^sent2][^sent3] |
 | Onyx Security | Series B (led, $113M at ~$640M valuation; Cyberstarts, TCV, Conviction, FirstMark, Vintage, QuantumLight, G Squared participated) | 2026-07-29 | Cybersecurity / AI Security / Enterprise Software | [^onyx1][^onyx2][^onyx3] |
+| ChipAgents | Series A2 extension ($60M; B Capital-led; Bessemer participated as existing investor alongside Micron, MediaTek, Ericsson, ScOp Venture Capital) | 2026-07-29 | AI / Agentic AI / Semiconductors / EDA | [^chip1][^chip2][^chip3] |
 | Bevel | Seed ($6M; SHAKTI-led; Resolute Ventures + Bessemer participated) | 2026-08-28 | Insurtech / AI / Risk Management | [^bevel1][^bevel2] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
@@ -324,3 +325,9 @@ However, founder experiences are not universally positive. One founder reported 
 [^bevel1]: Bevel LinkedIn announcement, "$6M seed round," posted August 28, 2026. Accessed August 2026. https://www.linkedin.com/posts/beveladvisors_were-excited-to-announce-our-6m-seed-round-activity-7499088608046342144-WPWw/ — Primary company announcement of Bevel's $6M seed led by SHAKTI with Resolute Ventures and Bessemer Venture Partners participating.
 
 [^bevel2]: Bevel, "Seed Letter from CEO," posted August 28, 2026. Accessed August 2026. https://beveladvisors.com/seed-letter-from-ceo — Company primary confirming the $6M seed round, SHAKTI lead, and Resolute Ventures + Bessemer Venture Partners participation.
+
+[^chip1]: Yahoo Finance, "ChipAgents raises $60 million, expands Nvidia partnership," July 29, 2026. Accessed August 2026. https://finance.yahoo.com/technology/ai/articles/chipagents-raises-60-million-expands-131401031.html — Primary press coverage of the $60M Series A2 announced July 29, 2026, led by B Capital with Bessemer Venture Partners, Micron, MediaTek, and Ericsson participating. Total Series A now $134M. Santa Clara HQ; CEO/founder William Wang.
+
+[^chip2]: Data Center Dynamics, "ChipAgents raises additional $60m in expanded Series A round to support AI chip design platform," July 2026. Accessed August 2026. https://www.datacenterdynamics.com/en/news/chipagents-raises-additional-60m-in-expanded-series-a-round-to-support-ai-chip-design-platform/ — Independent trade press confirmation of the $60M Series A extension led by B Capital with Bessemer among participants.
+
+[^chip3]: The SaaS News, "ChipAgents Raises $60M Series A Extension," July 2026. Accessed August 2026. https://www.thesaasnews.com/news/chipagents-raises-60m-series-a-extension/ — Third independent confirmation. Names participants as Bessemer Venture Partners, Micron, MediaTek, Ericsson, and ScOp. Confirms July 29, 2026 announcement date and $134M cumulative Series A.
