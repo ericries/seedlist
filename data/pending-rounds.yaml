@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Crusoe reportedly raises $3B at a  $30B valuation
+  url: https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
+  source: techcrunch
+  date_found: '2026-09-04'
+  parsed_company: Crusoe reportedly
+  parsed_amount: $3B
+  parsed_round: null
+  status: pending
 - title: Precore Gold Closes Oversubscribed C$6 Million Private Placement
   url: https://www.globenewswire.com/news-release/2026/09/03/3355912/0/en/precore-gold-closes-oversubscribed-c-6-million-private-placement.html
   source: globenewswire
@@ -842,13 +850,4 @@ pending_rounds:
   parsed_company: Stockholm-based Eyedentity
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Danish AI infrastructure startup Velatir secures €5 million six months after
-    its pre-Seed round and official launch
-  url: https://www.eu-startups.com/2026/08/danish-ai-infrastructure-startup-velatir-secures-e5-million-six-months-after-its-pre-seed-round-and-official-launch/
-  source: eu-startups
-  date_found: '2026-08-20'
-  parsed_company: Danish AI infrastructure startup Velatir
-  parsed_amount: null
-  parsed_round: Pre-Seed
   status: pending
