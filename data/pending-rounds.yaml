@@ -28,6 +28,42 @@ pending_rounds:
   parsed_amount: $3B
   parsed_round: null
   status: pending
+- title: Brookfield Announces Intention to Redeem its Class A Preference Shares, Series
+    51 and 52
+  url: https://www.globenewswire.com/news-release/2026/09/04/3356478/0/en/brookfield-announces-intention-to-redeem-its-class-a-preference-shares-series-51-and-52.html
+  source: globenewswire
+  date_found: '2026-09-04'
+  parsed_company: Brookfield
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s AI Score raises €4.6 million to help businesses keep AI agents under
+    control
+  url: https://www.eu-startups.com/2026/09/londons-ai-score-raises-e4-6-million-to-help-businesses-keep-ai-agents-under-control/
+  source: eu-startups
+  date_found: '2026-09-04'
+  parsed_company: London’s AI Score
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Spain’s iPronics raises €107.6 million with NVIDIA backing to scale optical
+    networking for AI data centres
+  url: https://www.eu-startups.com/2026/09/spains-ipronics-raises-e107-6-million-with-nvidia-backing-to-scale-optical-networking-for-ai-data-centres/
+  source: eu-startups
+  date_found: '2026-09-04'
+  parsed_company: Spain’s iPronics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Profitable Belgian CleanTech Octave.energy raises €10 million to scale BESS
+    and EMS solutions across Europe
+  url: https://www.eu-startups.com/2026/09/profitable-belgian-cleantech-octave-energy-raises-e10-million-to-scale-bess-and-ems-solutions-across-europe/
+  source: eu-startups
+  date_found: '2026-09-04'
+  parsed_company: Profitable Belgian CleanTech Octave.energy
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Precore Gold Closes Oversubscribed C$6 Million Private Placement
   url: https://www.globenewswire.com/news-release/2026/09/03/3355912/0/en/precore-gold-closes-oversubscribed-c-6-million-private-placement.html
   source: globenewswire
@@ -812,42 +848,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-08-24'
   parsed_company: Smart thermostat maker Boldr
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Plymouth-based Oshen raises €4.27 million to scale robot swarms that act
-    as the ocean’s “eyes and ears”
-  url: https://www.eu-startups.com/2026/08/plymouth-based-oshen-raises-e4-27-million-to-scale-robot-swarms-that-act-as-the-oceans-eyes-and-ears/
-  source: eu-startups
-  date_found: '2026-08-21'
-  parsed_company: Plymouth-based Oshen
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: UK-based HexSeed raises over €700k to cool AI data centres with its with
-    diamond coating technology
-  url: https://www.eu-startups.com/2026/08/uk-based-hexseed-raises-over-e700k-to-cool-ai-data-centres-with-its-with-diamond-coating-technology/
-  source: eu-startups
-  date_found: '2026-08-21'
-  parsed_company: UK-based HexSeed
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: Defense Tech, AI Tools And Infrastructure
-    Lead The Way'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/
-  source: crunchbase
-  date_found: '2026-08-21'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Stockholm-based Eyedentity secures €1.3 million to detect deadly eye cancer
-    earlier with AI
-  url: https://www.eu-startups.com/2026/08/stockholm-based-eyedentity-secures-e1-3-million-to-detect-deadly-eye-cancer-earlier-with-ai/
-  source: eu-startups
-  date_found: '2026-08-21'
-  parsed_company: Stockholm-based Eyedentity
   parsed_amount: null
   parsed_round: null
   status: pending
