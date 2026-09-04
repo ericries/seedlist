@@ -64,6 +64,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Aug. 31 – Sept. 04)
+  url: https://www.eu-startups.com/2026/09/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-aug-31-sept-04/
+  source: eu-startups
+  date_found: '2026-09-04'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Oulu-based Creoir secures Seed funding to scale voice AI for defence and
+    mission-critical systems
+  url: https://www.eu-startups.com/2026/09/oulu-based-creoir-secures-seed-funding-to-scale-voice-ai-for-defence-and-mission-critical-systems/
+  source: eu-startups
+  date_found: '2026-09-04'
+  parsed_company: Oulu-based Creoir
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: Precore Gold Closes Oversubscribed C$6 Million Private Placement
   url: https://www.globenewswire.com/news-release/2026/09/03/3355912/0/en/precore-gold-closes-oversubscribed-c-6-million-private-placement.html
   source: globenewswire
@@ -831,23 +849,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-08-24'
   parsed_company: Berlin-based Kazimi
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/24/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-24-2026/
-  source: alleywatch
-  date_found: '2026-08-24'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Smart thermostat maker Boldr raises €4.2 million to grow connected heating
-    and cooling platform
-  url: https://www.eu-startups.com/2026/08/smart-thermostat-maker-boldr-raises-e4-2-million-to-grow-connected-heating-and-cooling-platform/
-  source: eu-startups
-  date_found: '2026-08-24'
-  parsed_company: Smart thermostat maker Boldr
   parsed_amount: null
   parsed_round: null
   status: pending
