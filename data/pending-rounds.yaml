@@ -82,6 +82,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Seed
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar
+    AI Infrastructure Haul'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/
+  source: crunchbase
+  date_found: '2026-09-04'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Precore Gold Closes Oversubscribed C$6 Million Private Placement
   url: https://www.globenewswire.com/news-release/2026/09/03/3355912/0/en/precore-gold-closes-oversubscribed-c-6-million-private-placement.html
   source: globenewswire
@@ -840,15 +849,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-08-24'
   parsed_company: London-based Embedd
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Berlin-based Kazimi secures €2.2 million to help app developers protect and
-    verify first-party data
-  url: https://www.eu-startups.com/2026/08/berlin-based-kazimi-secures-e2-2-million-to-help-app-developers-protect-and-verify-first-party-data/
-  source: eu-startups
-  date_found: '2026-08-24'
-  parsed_company: Berlin-based Kazimi
   parsed_amount: null
   parsed_round: null
   status: pending
