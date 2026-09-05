@@ -5700,3 +5700,23 @@ priority:
   reason: "Round monitoring 2026-09-05: Created lean profile for Series A €10M (2026-09-04) led by SPDG Growth with imec.istart, BNP Paribas Fortis, KBC. Belgian cleantech (BESS + EMS). Verify SPDG Growth / imec.istart slugs; queue firm profiles."
   added: 2026-09-05
   status: pending
+- slug: icon-ugc
+  type: startup
+  reason: "Round monitoring 2026-09-05: Created lean profile for $30M+ growth round (2026-08-31) led by Founders Fund with Mark Chen (OpenAI CRO), Saquon Barkley, Roman Khan (and 68 total investors). NYC UGC ad production platform (169 Madison Ave). Founder Kennan Jenner (ex-Skio). Sources: icon.com company site; AlleyWatch 8/31/2026 daily report. Verify exact SEC filing date / round type via TechCrunch or Crunchbase primary."
+  added: 2026-09-05
+  status: pending
+- slug: yuma-energy
+  type: startup
+  reason: "Round monitoring 2026-09-05: Created lean profile for $35M follow-on (2026-08-31) — Magna International increased stake >51% in Yulu spinoff Yuma Energy. Bengaluru battery-swapping for EV two/three-wheelers. 400+ stations, 60M+ swaps to date. Sources: TechCrunch article by Jagmeet Singh; AlleyWatch 8/31/2026 daily report. Queue Magna International as a firm profile."
+  added: 2026-09-05
+  status: pending
+- slug: alteon
+  type: startup
+  reason: "Round monitoring 2026-09-05: Created lean profile for $2.5M pre-seed (2026-08-31) led by Lachy Groom with Together Fund, Emergent Ventures, 1517 Fund. Bengaluru deep-tech autonomous soaring aircraft (dynamic soaring like albatrosses) for maritime surveillance. Founder Samay Sanghvi (20yo). Sources: TechCrunch article by Jagmeet Singh; Axios Pro Rata 8/31 listings. Queue Together Fund and Emergent Ventures as firm profiles."
+  added: 2026-09-05
+  status: pending
+- slug: konko-ai
+  type: startup
+  reason: "Round monitoring 2026-09-05: Created lean profile for $6M venture round (2026-09-02) led by Hi Ventures with LifeX Ventures, SquareOne Capital, GroundUp Ventures, Phoenix Fund. LatAm healthcare AI — WhatsApp-based patient management assistant 'Kora' for clinics. Founder Jean Marc Goguikian. Sources: konko.ai company site; AlleyWatch 9/2/2026 daily report. Queue Hi Ventures as a firm profile."
+  added: 2026-09-05
+  status: pending
