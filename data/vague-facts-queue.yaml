@@ -173234,7 +173234,9 @@ vague_facts:
   line: '| Moment | Seed | ~2023 | Fintech | Active [^11] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-05'
+  resolution_note: 'Fact-spec sweep 2026-09-05: tightened Moment row on contrary.md from year-only ~2023 to two dates — 2023-09-06 (Contrary-led Seed announced) and 2023-09-14 (Series A led by Andreessen Horowitz; Venrock, Contrary, Neo, and Henry R. Kravis participated; a16z''s David Haber joined the board). Total funding disclosed at $20M+. Sector clarified as "Fintech (fixed-income APIs)"; Apex Fintech Solutions client with $120B+ AUC across 220+ broker-dealers. Verified via 2 investor-side primary sources: NEW Contrary blog "Investing in Moment" (2023-09-06) [^mom-c1] and NEW a16z announcement "Investing in Moment" (2023-09-14) [^mom-c2]. Third-source contemporaneous press (Finextra, TechCrunch, PR Newswire) attempted but blocked (403/404) — WebSearch budget was exhausted this session so 3-source triangulation could not be completed. 2 new footnotes added.'
 - profile: firms/contrary
   profile_name: Contrary
   company: Nomic
@@ -173244,7 +173246,9 @@ vague_facts:
   line: '| Nomic | Seed | 2023 | AI/ML | Active [^18] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-05'
+  resolution_note: 'Fact-spec sweep 2026-09-05: tightened Nomic row on contrary.md from year-only 2023 / "Seed" label to 2023-08-02 / "Series A" ($17M; Coatue Management led; Betaworks Ventures and Contrary Capital participated; $100M post-money valuation; total funding $25M; co-founder Andriy Mulyar). Round type changed from Seed to Series A per Contrary Research (Contrary''s own primary research page classifying the round). Verified via 2 primary sources: existing Yahoo Finance / Reuters syndication [^18] (2023-08-02 tier-1 contemporaneous press with amount, lead, participants, valuation, co-founder) and NEW Contrary Research company page [^nomic-c1] (investor-side primary with round-type designation and total funding). Note: Reuters coverage does not label the round; the "Series A" designation follows Contrary Research. Third independent primary source (TechCrunch, VentureBeat, SiliconAngle) attempted but blocked (404) — WebSearch budget was exhausted this session so 3-source triangulation could not be completed. Correction moves from a year-only, likely-mislabeled entry to one grounded in tier-1 contemporaneous press plus investor-side primary. 1 new footnote added.'
 - profile: firms/contrary
   profile_name: Contrary
   company: Orchard Robotics
@@ -173254,7 +173258,9 @@ vague_facts:
   line: '| Orchard Robotics | Seed | ~2023 | Agtech/robotics | Active ($25M+ total funding) [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-05'
+  resolution_note: 'Fact-spec sweep 2026-09-05: tightened Orchard Robotics row on contrary.md from year-only ~2023 / "Seed" to 2024-03-27 / "Pre-seed + Seed" ($3.8M combined; Contrary led the pre-seed with General Catalyst and others participating; founder Charlie Wu — Cornell dropout, Thiel Fellow). Additionally captured the subsequent 2025-09-03 $22M Series A co-led by Quiet Capital and Shine Capital (with General Catalyst participating) which brings total raised to over $25M. Verified via 2 primary sources: NEW Contrary blog "Investing in Orchard Robotics" (2024-03-27) [^or-c1] — investor-side primary announcement of Contrary''s pre-seed lead — and NEW AgFunder News trade-press coverage of the Series A [^or-c2]. TechCrunch March 2024 seed-round coverage attempted but 404 on URL guesses; contemporaneous TechCrunch Sept 2025 Series A coverage confirmed via AgFunder News. WebSearch budget was exhausted this session so 3-source triangulation could not be completed, but AgFunder News is independent from Contrary and confirms the founder detail, timeline, and Series A. 2 new footnotes added.'
 - profile: firms/contrary
   profile_name: Contrary
   company: Uprise

@@ -5642,3 +5642,18 @@ priority:
   reason: "Round monitoring 2026-09-05: Created lean profile for $125M Series B (2026-09-02) co-led by Maverick Silicon and Light Street Capital with NVIDIA. Valencia Spain-based, founded 2019 as UPV spin-off. Verify Maverick Silicon (distinct from Maverick Capital/Ventures) slug."
   added: 2026-09-05
   status: pending
+- slug: gimlet-labs
+  type: startup
+  reason: "Round monitoring catch-up 2026-09-05: Created profile for $300M Series B (2026-09-04) led by Andreessen Horowitz at $3B valuation. Sources: gimletlabs.ai/blog/announcing-series-b, Crunchbase News weekly big rounds, TechStartups Sept 4 roundup. Verify Sapphire Ventures, 645 Ventures, XTX Markets slugs; add participants to firms array once slug-mapped."
+  added: 2026-09-05
+  status: pending
+- slug: ultrahuman
+  type: startup
+  reason: "Round monitoring catch-up 2026-09-05: Created profile for $70M growth ($65M equity + $5M debt) at $365M val (2026-09-03) led by Qualcomm Ventures with Labcorp, Alpha Wave, Blume Ventures, Nexus Venture Partners, Alteria Capital. TechCrunch + TechStartups sources. Verify Qualcomm Ventures / Alpha Wave / Alteria Capital slugs; investor quote (Quinn Li, Qualcomm Ventures) verbatim from TechCrunch."
+  added: 2026-09-05
+  status: pending
+- slug: catch-ai
+  type: startup
+  reason: "Round monitoring catch-up 2026-09-05: Created profile for $5M seed (2026-09-03) co-led by Entrée Capital + Pitango, with Seedcamp + Factorial Capital. Tel Aviv AI executive assistant, Nir Sabato (CEO) + Yoav Ramon (CTO). TechStartups dedicated article + Sept 3 roundup + catch.ai landing. Verify Entrée Capital / Seedcamp / Factorial Capital slugs; add Pitango portfolio row on pitango-venture-capital.md."
+  added: 2026-09-05
+  status: pending
