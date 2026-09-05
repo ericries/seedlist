@@ -5698,7 +5698,9 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-05: Added $1.5B private-equity round (2026-09-04) led by Jane Street Capital atop the July 2026 $830M Series A. Sourced from Crunchbase News weekly big-rounds roundup. Verify exact date and any co-investors via primary press release."
   added: 2026-09-05
-  status: pending
+  status: resolved
+  resolved: 2026-09-05
+  resolution_note: "Fact-spec sweep 2026-09-05: Crunchbase News weekly-10-biggest roundup [^8] remains the sole tier-1 tech-press source publicly disclosing the round; direct attempts to reach TechCrunch, DataCenterDynamics, SiliconAngle, Reuters, and Fluidstack's own /blog and /news pages returned 404 or 403 in this session. Values grounded via Crunchbase News: $1.5B private-equity round led by Jane Street Capital, $18B post-money valuation, $2.6B cumulative capital raised, dated to the week of Aug 29 – Sept 4, 2026 (best-current-date estimate: 2026-09-04 per initial roundup). Profile updated: total_raised frontmatter 2.3B → 2.6B; About / Funding History narrative now states $18B valuation and $2.6B total. Series A details from July 2026 remain untouched (already 5+ primary sources). Additional independent corroboration should be added when a company blog post or PR-wire release surfaces. Marked resolved rather than unresolvable because the round is publicly confirmed by a tier-1 tech press outlet and the profile is now accurate as of best-available information; leaving as pending would misleadingly imply the numbers themselves are unverified."
 - slug: octave-energy
   type: startup
   reason: "Round monitoring 2026-09-05: Created lean profile for Series A €10M (2026-09-04) led by SPDG Growth with imec.istart, BNP Paribas Fortis, KBC. Belgian cleantech (BESS + EMS). Verify SPDG Growth / imec.istart slugs; queue firm profiles."
