@@ -814,3 +814,11 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 8/26/2026'
+  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-26-2026/
+  source: alleywatch
+  date_found: '2026-08-26'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending

@@ -5695,3 +5695,8 @@ priority:
   reason: "Round monitoring 2026-09-05: Added $1.5B private-equity round (2026-09-04) led by Jane Street Capital atop the July 2026 $830M Series A. Sourced from Crunchbase News weekly big-rounds roundup. Verify exact date and any co-investors via primary press release."
   added: 2026-09-05
   status: pending
+- slug: octave-energy
+  type: startup
+  reason: "Round monitoring 2026-09-05: Created lean profile for Series A €10M (2026-09-04) led by SPDG Growth with imec.istart, BNP Paribas Fortis, KBC. Belgian cleantech (BESS + EMS). Verify SPDG Growth / imec.istart slugs; queue firm profiles."
+  added: 2026-09-05
+  status: pending
