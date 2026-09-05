@@ -120,6 +120,7 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 | D-ID | Seed | 2017 | Generative AI | [^20] |
 | Optibus | Series A | 2017 | Mobility & Smart City | [^15] [^29] |
 | QuantHealth | Series A (co-led, $17M) → Series B follow-on (participated, $45M via Pitango HealthTech) | 2024-01-09; 2026-08-04 | Digital Health / Clinical Trial AI | Active [^14][^59][^60] |
+| Catch | Seed (co-lead, $5M with Entrée Capital; Seedcamp and Factorial Capital participated) | 2026-09-02 | AI Executive Assistant / Enterprise SaaS | [^61][^62] |
 | Variantyx | Series A | 2019 | Medical Devices | [^15] [^30] |
 | Masterschool | Seed | 2022-05-19 | EdTech | [^15] [^31] [^51] |
 | Logz.io | Series E | 2020 | DevOps | [^15] [^32] |
@@ -272,3 +273,7 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 [^59]: Ventureburn, "QuantHealth Raises $45M to Let Pharm Test Clinical Trials with AI Before Spending Billions," August 4, 2026, accessed August 2026. https://ventureburn.com/quanthealth-raises-45m-series-b-ai-clinical-trial-simulations/ — Primary trade-press announcement confirming QuantHealth's $45M Series B on August 4, 2026 led by Qumra Capital with Sanofi Ventures, Pitango HealthTech, Bertelsmann Investments, and Accenture Ventures participating. Total raised: $75M. Founder: Orr Inbar (CEO).
 
 [^60]: Clinical Trials Arena, "QuantHealth receives funding to expedite clinical trial simulations use," January 9, 2024, accessed August 2026. https://www.clinicaltrialsarena.com/news/quanthealth-funding-trial-simulations/ — Contemporaneous primary press for QuantHealth's earlier $17M Series A on January 9, 2024, co-led by Bertelsmann Investments and Pitango HealthTech with Accenture Ventures, Shoni Top Ventures, and Nina Capital participating.
+
+[^61]: Pulse 2.0, "Catch Raises $5 Million Seed Round To Launch Agentic Admin Assistant For Business Leaders," September 2, 2026, accessed September 5, 2026. https://pulse2.com/catch-raises-5-million-seed-round-to-launch-agentic-admin-assistant-for-business-leaders/ — Primary independent tech-press announcement confirming Catch's $5M seed co-led by Entrée Capital and Pitango with Seedcamp and Factorial Capital participating; Avi Eyal (Entrée Capital) quote on Catch's admin-solving thesis; Nir Sabato (CEO) and Yoav Ramon (CTO) quotes; Tel Aviv location.
+
+[^62]: TechStartups, "Catch emerges from stealth with $5M to build an AI executive assistant that handles admin work for you," September 3, 2026, accessed September 5, 2026. https://techstartups.com/2026/09/03/catch-emerges-from-stealth-with-5m-to-build-an-ai-executive-assistant-that-handles-admin-work-for-you/ — Second independent primary tech-press source confirming $5M seed round investors, Nir Sabato (Co-Founder & CEO) and Yoav Ramon (Co-Founder & CTO) as founders, and Tel Aviv headquarters.
