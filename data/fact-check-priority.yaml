@@ -5684,12 +5684,16 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-05: Created lean profile for $250M Series B (2026-09-02) co-led by Greenoaks and Valor Equity Partners with ICONIQ Capital, Imaginary Ventures, Peter Rahal. NYC high-protein CPG founded 2024. Verify iconiq-capital / imaginary-ventures slugs and queue if missing; confirm exact date via primary press release."
   added: 2026-09-05
-  status: pending
+  status: resolved
+  resolved: 2026-09-05
+  resolution_note: "Fact-spec sweep 2026-09-05: verified $250M Series B via 3 independent primary sources: AlleyWatch 9/2/2026 daily funding report [^1] (confirmed lead Greenoaks + Valor, co-investors Iconiq + Imaginary + Peter Rahal, founders Peter Rahal + Zach Ranen, $335M total raised, founded 2024); Crunchbase News weekly-10-biggest [^2] (confirmed all round details, added $2.25B valuation); Axios Pro Rata [^3]. Added Zach Ranen as second co-founder to frontmatter (previously missing — AlleyWatch confirms 'Founders: Peter Rahal and Zach Ranen'). Added $2.25B post-money valuation and Peter Rahal RXBAR-co-founder context to About section. Removed lean-profile disclaimer. No investor or founder verbatim quotes surfaced in the three sources checked."
 - slug: thyme-care
   type: startup
   reason: "Round monitoring 2026-09-05: Created lean profile for $125M Series E (2026-09-04) led by Morgan Health with CVS Health Ventures, Humana, Andreessen Horowitz. Nashville-based oncology value-based care. Verify morgan-health / cvs-health-ventures / humana slugs and queue if missing; confirm exact announcement date."
   added: 2026-09-05
-  status: pending
+  status: resolved
+  resolved: 2026-09-05
+  resolution_note: "Fact-spec sweep 2026-09-05: profile already substantially expanded in parallel to full press-release detail — verified $125M+ Series E via 3 independent primary sources: (1) Thyme Care company press release blog.thymecare.com [^1] (primary — full syndicate list, Dan Mendelson Morgan Health quote, Robin Shah founder quote, Brad Diephuis CEO effective 2026-09-01, Thyme Companies parent org, $2B+ valuation, 10.5M+ people covered, $7B+ oncology spend managed); (2) Crunchbase News weekly-10-biggest [^2] (independent confirmation of $125M, Morgan Health lead, all co-investors, $2B valuation, $399M total); (3) Thyme Care Press Center [^3]. Round date corrected 2026-09-04 → 2026-09-02 per primary press. Full syndicate now includes AlleyCorp, HealthQuest Capital, Foresite Capital, Concord Health Partners, Frist Cressey Ventures, Town Hall Ventures, and a16z Bio + Health beyond the four originally captured. Founders Robin Shah + Bobby Green added to frontmatter."
 - slug: fluidstack
   type: startup
   reason: "Round monitoring 2026-09-05: Added $1.5B private-equity round (2026-09-04) led by Jane Street Capital atop the July 2026 $830M Series A. Sourced from Crunchbase News weekly big-rounds roundup. Verify exact date and any co-investors via primary press release."
@@ -5699,7 +5703,9 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-05: Created lean profile for Series A €10M (2026-09-04) led by SPDG Growth with imec.istart, BNP Paribas Fortis, KBC. Belgian cleantech (BESS + EMS). Verify SPDG Growth / imec.istart slugs; queue firm profiles."
   added: 2026-09-05
-  status: pending
+  status: resolved
+  resolved: 2026-09-05
+  resolution_note: "Fact-spec sweep 2026-09-05: verified Octave.energy €10M Series A via 3 independent primary sources: (1) Octave.energy company press release 'Octave.energy raises €10 million to accelerate European expansion' [^1] (primary — SPDG Growth lead, imec.istart/BNP Paribas Fortis/KBC co-investors, mixed equity + flexible debt, 200+ MWh deployed, 400+ businesses served, €16M 2025 revenue, three consecutive years profitable, named clients Colruyt Group / McDonald's / Eneco / Naturgy / Nextensa, expansion into Netherlands/France/Germany); (2) Octave.energy About [^2] (product detail — first-life LFP + second-life BESS, Octave Portal, Octave One/Container, Mechelen HQ + Brussels office, founders Maxime Snick CEO + Nicolas Quintin Head of EMS); (3) TechStartups Sept 4 2026 roundup [^3] (independent tech press — confirmed date 2026-09-04, €10M, all four investors, operational metrics). Currency preserved as EUR (€) — no USD conversion. Added deployment metrics, revenue, notable customers, and expansion targets to About. Upgraded primary citation from generic /news to specific press release URL."
 - slug: icon-ugc
   type: startup
   reason: "Round monitoring 2026-09-05: Created lean profile for $30M+ growth round (2026-08-31) led by Founders Fund with Mark Chen (OpenAI CRO), Saquon Barkley, Roman Khan (and 68 total investors). NYC UGC ad production platform (169 Madison Ave). Founder Kennan Jenner (ex-Skio). Sources: icon.com company site; AlleyWatch 8/31/2026 daily report. Verify exact SEC filing date / round type via TechCrunch or Crunchbase primary."

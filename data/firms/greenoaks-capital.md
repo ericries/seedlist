@@ -122,6 +122,7 @@ Based on 35 verified investments with sufficient detail for analysis:
 | NewLimit | Series C ($435M) | 2026-06-02 | Longevity / Biotech | Active | [^46][^47] |
 | Cyera | Growth ($300M at $12B post-money) | 2026-06-02 | Cybersecurity/AI | Active | [^48][^49] |
 | AIR (air.security) | Seed 2 (led, $40M; Sequoia led the earlier $10M Seed 1) | 2026-09-01 (both seed rounds disclosed together at stealth exit; total $50M) | Cybersecurity / AI Agent Security / MCP / Enterprise | Active (Israel-based; founders Yair Saban and Niv Hoffman, both Unit 8200 alumni; angels include Zach Frankel (Cognition), Yinon Costica (Wiz), Ofir Ehrlich (Eon), Anne Neuberger, Omer Adam, Varun Anand (Clay); Swish and Netz also participated) | [^air-gr1][^air-gr2][^air-gr3][^air-gr4] |
+| David | Series B (co-led with Valor Equity Partners, $250M at $2.25B post-money) | 2026-09-02 | Consumer / CPG / Health-Wellness / Protein | Active (participants: ICONIQ Capital, Imaginary Ventures, Peter Rahal; total raised ~$335M) | [^david-go1][^david-go2] |
 
 This table represents approximately 31% of Greenoaks' 114 known investments per Tracxn data [^15]. Many earlier and smaller investments, particularly in Asia, could not be independently verified with specific round details.
 
@@ -219,3 +220,7 @@ No additional independently sourced founder testimonials from portfolio company 
 [^air-gr3]: Yahoo Finance, "AIR Emerges from Stealth With $50M to Build a Firewall for Agents," September 1, 2026. Accessed September 2026. https://finance.yahoo.com/technology/ai/articles/air-emerges-stealth-50m-build-150000907.html — Independent tier-1 financial press confirming Sequoia + Greenoaks as leads with Swish Ventures and Netz Capital participating.
 
 [^air-gr4]: CTech (Calcalist), "Six-month-old AIR Security raises $50 million to build a firewall for AI agents," September 1, 2026. Accessed September 2026. https://www.calcalistech.com/ctechnews/article/r13apdnugg — Independent Israeli tech press confirmation: Sequoia and Greenoaks as leads; founders' Unit 8200 background; ~40 employees in Israel; Yair Saban firewall quote.
+
+[^david-go1]: The AlleyWatch Startup Daily Funding Report: 9/2/2026, September 2, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-2-2026/ — Primary contemporaneous NYC funding roundup confirming Greenoaks co-led David's $250M Series B alongside Valor Equity Partners, with participation from ICONIQ Capital and Imaginary Ventures; date 2026-09-02.
+
+[^david-go2]: Crunchbase News, "The Week's 10 Biggest Funding Rounds: Crusoe, Fluidstack Lead Multibillion-Dollar AI Infrastructure Deals," September 2026. Accessed September 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/ — Independent tech-press confirmation of Greenoaks/Valor co-lead, $250M size, $2.25B post-money valuation, and Peter Rahal participation; total capital raised approximately $335M.

@@ -22,15 +22,15 @@ firms:
 founders:
   - name: "Peter Rahal"
     role: "Co-Founder"
+  - name: "Zach Ranen"
+    role: "Co-Founder"
 status: published
 last_researched: 2026-09-05
 ---
 
 ## About
 
-David is a New York–based high-protein consumer brands company founded in 2024 that creates and scales protein bars and other better-for-you foods; its flagship protein bar was co-created with a team advised by Dr. Andrew Huberman and Dr. Gabrielle Lyon [^1][^2][^3]. On September 2, 2026 the company announced a $250 million Series B co-led by Greenoaks and Valor Equity Partners, with participation from ICONIQ Capital, Imaginary Ventures, and co-founder Peter Rahal [^1][^2][^3]. The round brings total capital raised to approximately $335M [^1].
-
-*Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
+David is a New York–based high-protein consumer brands company founded in 2024 by Peter Rahal (RXBAR co-founder) and Zach Ranen that creates and scales protein bars and other better-for-you foods; its flagship protein bar was co-created with a team advised by Dr. Andrew Huberman and Dr. Gabrielle Lyon [^1][^2]. On September 2, 2026 the company announced a $250 million Series B co-led by Greenoaks and Valor Equity Partners at a reported $2.25 billion valuation, with participation from ICONIQ Capital, Imaginary Ventures, and co-founder Peter Rahal [^1][^2][^3]. The round brings total capital raised to approximately $335M [^1][^2].
 
 ## Funding History
 

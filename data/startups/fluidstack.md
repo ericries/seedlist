@@ -8,7 +8,7 @@ founded: 2017
 status_company: active
 sector: [ai-infrastructure, cloud-computing, data-centers, gpu-cloud]
 stage_latest: "Private Equity"
-total_raised: "$2.3B+"
+total_raised: "$2.6B+"
 investors: []
 firms: []
 founders:
@@ -31,7 +31,7 @@ Fluidstack is an AI infrastructure company that provides GPU cloud capacity for 
 | 2026-09-04 | Private Equity | $1.5B | Jane Street Capital | Undisclosed [^8] |
 | 2026-07-20 | Series A | $830M | Situational Awareness | Undisclosed participants [^1][^4][^5][^6][^7] |
 
-The September 2026 round of $1.5 billion was led by quantitative trading firm Jane Street Capital and structured as a private equity round; it was reported as part of the week's largest AI-infrastructure financings [^8]. The Series A closed in January 2026 at a $7.5 billion post-money valuation and was publicly announced on July 20, 2026 [^1]. Situational Awareness is the AI-focused investment firm founded by former OpenAI researcher Leopold Aschenbrenner and is backed by Stripe's founders [^5][^6]. Fluidstack has not publicly named any of the other participants of the Series A, describing them only as "world-leading investors" [^5][^6][^7].
+The September 2026 round of $1.5 billion was led by quantitative trading firm Jane Street Capital and structured as a private equity round, valuing Fluidstack at $18 billion and bringing total capital raised to approximately $2.6 billion; the deal was reported as part of the week's largest AI-infrastructure financings [^8]. The Series A closed in January 2026 at a $7.5 billion post-money valuation and was publicly announced on July 20, 2026 [^1]. Situational Awareness is the AI-focused investment firm founded by former OpenAI researcher Leopold Aschenbrenner and is backed by Stripe's founders [^5][^6]. Fluidstack has not publicly named any of the other participants of the Series A, describing them only as "world-leading investors" [^5][^6][^7].
 
 ## What Investors Say
 
