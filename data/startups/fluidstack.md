@@ -7,8 +7,8 @@ location: "New York, NY"
 founded: 2017
 status_company: active
 sector: [ai-infrastructure, cloud-computing, data-centers, gpu-cloud]
-stage_latest: "Series A"
-total_raised: "$830M+"
+stage_latest: "Private Equity"
+total_raised: "$2.3B+"
 investors: []
 firms: []
 founders:
@@ -17,7 +17,7 @@ founders:
   - name: "David Choi"
     role: "Co-Founder"
 status: published
-last_researched: 2026-07-21
+last_researched: 2026-09-05
 ---
 
 ## About
@@ -28,9 +28,10 @@ Fluidstack is an AI infrastructure company that provides GPU cloud capacity for 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
+| 2026-09-04 | Private Equity | $1.5B | Jane Street Capital | Undisclosed [^8] |
 | 2026-07-20 | Series A | $830M | Situational Awareness | Undisclosed participants [^1][^4][^5][^6][^7] |
 
-The Series A closed in January 2026 at a $7.5 billion post-money valuation and was publicly announced on July 20, 2026 [^1]. Situational Awareness is the AI-focused investment firm founded by former OpenAI researcher Leopold Aschenbrenner and is backed by Stripe's founders [^5][^6]. Fluidstack has not publicly named any of the other participants, describing them only as "world-leading investors" [^5][^6][^7].
+The September 2026 round of $1.5 billion was led by quantitative trading firm Jane Street Capital and structured as a private equity round; it was reported as part of the week's largest AI-infrastructure financings [^8]. The Series A closed in January 2026 at a $7.5 billion post-money valuation and was publicly announced on July 20, 2026 [^1]. Situational Awareness is the AI-focused investment firm founded by former OpenAI researcher Leopold Aschenbrenner and is backed by Stripe's founders [^5][^6]. Fluidstack has not publicly named any of the other participants of the Series A, describing them only as "world-leading investors" [^5][^6][^7].
 
 ## What Investors Say
 
@@ -49,3 +50,4 @@ No independently sourced founder quotes found for this round at time of publicat
 [^5]: Fluidstack Blog, "Fluidstack raised $830M Series A," July 2026. Accessed July 28, 2026. https://fluidstack.io/blog/series-a-announcement
 [^6]: SiliconANGLE, "AI data center builder Fluidstack raises $830M at $7.5B valuation," July 21, 2026. Accessed July 28, 2026. https://siliconangle.com/2026/07/21/ai-data-center-builder-fluidstack-raises-830m-7-5b-valuation/
 [^7]: Mishcon de Reya, "Mishcon de Reya advises Fluidstack on $830 million Series A funding round," July 2026. Accessed July 28, 2026. https://www.mishcon.com/news/mishcon-de-reya-advises-fluidstack-on-830-million-series-a-funding-round
+[^8]: Crunchbase News, "The Week's 10 Biggest Funding Rounds: Crusoe, Fluidstack Lead Multibillion-Dollar AI Infrastructure Deals," accessed September 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/

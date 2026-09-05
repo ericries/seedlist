@@ -20,6 +20,86 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Superluminal Medicines raised $60M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-05'
+  parsed_company: Superluminal Medicines
+  parsed_amount: $60M
+  parsed_round: Series B
+  status: pending
+- title: Guardio raised $40M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-05'
+  parsed_company: Guardio
+  parsed_amount: $40M
+  parsed_round: null
+  status: pending
+- title: Ollie raised $7.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-05'
+  parsed_company: Ollie
+  parsed_amount: $7.5M
+  parsed_round: Seed
+  status: pending
+- title: Laters raised $1.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-05'
+  parsed_company: Laters
+  parsed_amount: $1.5M
+  parsed_round: Seed
+  status: pending
+- title: Souk raised $1.6M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-05'
+  parsed_company: Souk
+  parsed_amount: $1.6M
+  parsed_round: null
+  status: pending
+- title: Remedium raised $1.5M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-05'
+  parsed_company: Remedium
+  parsed_amount: $1.5M
+  parsed_round: null
+  status: pending
+- title: an Israeli agentic workspace startup that had raised $57M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-05'
+  parsed_company: an Israeli agentic workspace startup that had
+  parsed_amount: $57M
+  parsed_round: null
+  status: pending
+- title: Swish Ventures of Israel raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-05'
+  parsed_company: Swish Ventures of Israel
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: of Israel raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-05'
+  parsed_company: of Israel
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: u003e of Israel raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-05'
+  parsed_company: u003e of Israel
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
 - title: Brookfield Announces Intention to Redeem its Class A Preference Shares, Series
     51 and 52
   url: https://www.globenewswire.com/news-release/2026/09/04/3356478/0/en/brookfield-announces-intention-to-redeem-its-class-a-preference-shares-series-51-and-52.html
@@ -91,14 +171,6 @@ pending_rounds:
   parsed_company: null
   parsed_amount: $1.2B
   parsed_round: Series B
-  status: pending
-- title: Crusoe reportedly raises $3B at a  $30B valuation
-  url: https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
-  source: techcrunch
-  date_found: '2026-09-04'
-  parsed_company: Crusoe reportedly
-  parsed_amount: $3B
-  parsed_round: null
   status: pending
 - title: Precore Gold Closes Oversubscribed C$6 Million Private Placement
   url: https://www.globenewswire.com/news-release/2026/09/03/3355912/0/en/precore-gold-closes-oversubscribed-c-6-million-private-placement.html
@@ -284,14 +356,6 @@ pending_rounds:
   parsed_company: Particula
   parsed_amount: $15M
   parsed_round: null
-  status: pending
-- title: Catch raised $5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Catch
-  parsed_amount: $5M
-  parsed_round: Seed
   status: pending
 - title: Ki 13 raised $5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -746,108 +810,6 @@ pending_rounds:
   url: https://www.eu-startups.com/2026/08/ireland-urged-to-unlock-e1-billion-for-startups-with-denmark-style-capital-push/
   source: eu-startups
   date_found: '2026-08-26'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Livestock tech platform Breedr raises €23 million to expand globally
-  url: https://www.eu-startups.com/2026/08/livestock-tech-platform-breedr-raises-e23-million-to-expand-globally/
-  source: eu-startups
-  date_found: '2026-08-26'
-  parsed_company: Livestock tech platform Breedr
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/26/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-26-2026/
-  source: alleywatch
-  date_found: '2026-08-26'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Hungary’s BOOKR Kids closes €6.1 million Series A for global EdTech expansion
-  url: https://www.eu-startups.com/2026/08/hungarys-bookr-kids-closes-e6-1-million-series-a-for-global-edtech-expansion/
-  source: eu-startups
-  date_found: '2026-08-25'
-  parsed_company: Hungary’s BOOKR Kids
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Amsterdam’s Neno raises €6.6 million to build the AI-native back office suite
-    for entrepreneurs
-  url: https://www.eu-startups.com/2026/08/amsterdams-neno-raises-e6-6-million-to-build-the-ai-native-back-office-suite-for-entrepreneurs/
-  source: eu-startups
-  date_found: '2026-08-25'
-  parsed_company: Amsterdam’s Neno
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Fiat Ventures combines venture and advisory divisions into new brand, raises
-    $35M Fund II
-  url: https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/
-  source: techcrunch
-  date_found: '2026-08-25'
-  parsed_company: Fiat Ventures combines venture and advisory divisions into new brand,
-  parsed_amount: $35M
-  parsed_round: null
-  status: pending
-- title: French SpaceTech startup ArcSpace secures over €2 million for in-orbit satellite
-    servicing and repair
-  url: https://www.eu-startups.com/2026/08/french-spacetech-startup-arcspace-secures-over-e2-million-for-in-orbit-satellite-servicing-and-repair/
-  source: eu-startups
-  date_found: '2026-08-25'
-  parsed_company: French SpaceTech startup ArcSpace
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Brussels-based MAASH secures €12.15 million to take mycoprotein production
-    to industrial scale
-  url: https://www.eu-startups.com/2026/08/brussels-based-maash-secures-e12-15-million-to-take-mycoprotein-production-to-industrial-scale/
-  source: eu-startups
-  date_found: '2026-08-25'
-  parsed_company: Brussels-based MAASH
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Stockholm’s eComID raises €14.6 million to build the “shopping passport”
-    for AI-powered personalised commerce
-  url: https://www.eu-startups.com/2026/08/stockholms-ecomid-raises-e14-6-million-to-build-the-shopping-passport-for-ai-powered-personalised-commerce/
-  source: eu-startups
-  date_found: '2026-08-25'
-  parsed_company: Stockholm’s eComID
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Self-driving truck startup Gatik raises $200M following PepsiCo deal
-  url: https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/
-  source: techcrunch
-  date_found: '2026-08-25'
-  parsed_company: Self-driving truck startup Gatik
-  parsed_amount: $200M
-  parsed_round: null
-  status: pending
-- title: '“Europe is aging rapidly”: Solace Care raises €2.1 million in largest pre-Seed
-    round to date for a European end-of-life platform'
-  url: https://www.eu-startups.com/2026/08/europe-is-aging-rapidly-solace-care-raises-e2-1-million-in-largest-pre-seed-round-to-date-for-a-european-end-of-life-platform/
-  source: eu-startups
-  date_found: '2026-08-25'
-  parsed_company: '“Europe is aging rapidly”: Solace Care'
-  parsed_amount: null
-  parsed_round: Pre-Seed
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/25/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-25-2026/
-  source: alleywatch
-  date_found: '2026-08-25'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 8/24/26'
-  url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-24-26/
-  source: alleywatch
-  date_found: '2026-08-24'
   parsed_company: null
   parsed_amount: null
   parsed_round: null

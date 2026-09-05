@@ -30,3 +30,39 @@
   source: "CEO & Founder of Valar Atomics; not an investor per se — profile as founder if founder profiles are added"
   discovered_from: valar-atomics
   priority: low
+- name: "ICONIQ Capital"
+  type: firm
+  source: "co-investor on David $250M Series B 2026-09-02"
+  discovered_from: david-protein
+  priority: normal
+- name: "Imaginary Ventures"
+  type: firm
+  source: "co-investor on David $250M Series B 2026-09-02"
+  discovered_from: david-protein
+  priority: normal
+- name: "Morgan Health"
+  type: firm
+  source: "lead investor on Thyme Care Series E 2026-09-04 ($125M); JPMorgan Chase healthcare investment arm"
+  discovered_from: thyme-care
+  priority: high
+- name: "CVS Health Ventures"
+  type: firm
+  source: "co-investor on Thyme Care Series E 2026-09-04"
+  discovered_from: thyme-care
+  priority: normal
+- name: "Humana"
+  type: firm
+  source: "co-investor on Thyme Care Series E 2026-09-04"
+  discovered_from: thyme-care
+  priority: normal
+- name: "Jane Street Capital"
+  type: firm
+  source: "lead investor on Fluidstack $1.5B private equity round 2026-09-04"
+  discovered_from: fluidstack
+  priority: normal
+- name: "Peter Rahal"
+  type: individual
+  firm: "David / RXBAR"
+  source: "co-founder of David; participated in David $250M Series B 2026-09-02 as investor; RXBAR co-founder"
+  discovered_from: david-protein
+  priority: high

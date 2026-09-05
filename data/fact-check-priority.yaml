@@ -5656,7 +5656,9 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-05: Created lean profile for $125M Series B (2026-09-02) co-led by Maverick Silicon and Light Street Capital with NVIDIA. Valencia Spain-based, founded 2019 as UPV spin-off. Verify Maverick Silicon (distinct from Maverick Capital/Ventures) slug."
   added: 2026-09-05
-  status: pending
+  status: resolved
+  resolved: 2026-09-05
+  resolution_note: "Fact-spec sweep 2026-09-05: verified $125M Series B on 2026-09-02 via 4+ independent sources: iPronics company press release [^1] (existing primary), EU-Startups [^2] (existing European tech press), NEW Pulse 2.0 dedicated article [^3] (independent US tech press with full quote roster), and NEW TechStartups Sept 2 top tech news roundup [^4]. Details confirmed: co-lead Maverick Silicon + Light Street Capital; participants NVIDIA, Triatomic Capital, Bosch Ventures, Catalight Capital, EIC Fund, The Tate Family Trust, Fine Structure Ventures, Amadeus Capital Partners, Build Collective, Criteria Venture Tech. Added CEO Christian Dupont to founders array (previously only Daniel Pérez-López / Founder & CTO was listed). Updated total_raised from '$125M+' to '$177M' per company press release. Added 'What Investors Say' section with verbatim Manish Muthal (Maverick Silicon), Shef Osborn (Light Street Capital), Young Sohn (Catalight Capital) quotes. Added 'What Founders Say' section with verbatim Christian Dupont and Daniel Pérez-López quotes. Maverick Silicon, Light Street Capital, and NVIDIA firm profiles not yet in database — no parallel firm profile updates. 2 new citations added ([^3], [^4])."
 - slug: gimlet-labs
   type: startup
   reason: "Round monitoring catch-up 2026-09-05: Created profile for $300M Series B (2026-09-04) led by Andreessen Horowitz at $3B valuation. Sources: gimletlabs.ai/blog/announcing-series-b, Crunchbase News weekly big rounds, TechStartups Sept 4 roundup. Verify Sapphire Ventures, 645 Ventures, XTX Markets slugs; add participants to firms array once slug-mapped."
@@ -5672,5 +5674,20 @@ priority:
 - slug: catch-ai
   type: startup
   reason: "Round monitoring catch-up 2026-09-05: Created profile for $5M seed (2026-09-03) co-led by Entrée Capital + Pitango, with Seedcamp + Factorial Capital. Tel Aviv AI executive assistant, Nir Sabato (CEO) + Yoav Ramon (CTO). TechStartups dedicated article + Sept 3 roundup + catch.ai landing. Verify Entrée Capital / Seedcamp / Factorial Capital slugs; add Pitango portfolio row on pitango-venture-capital.md."
+  added: 2026-09-05
+  status: pending
+- slug: david-protein
+  type: startup
+  reason: "Round monitoring 2026-09-05: Created lean profile for $250M Series B (2026-09-02) co-led by Greenoaks and Valor Equity Partners with ICONIQ Capital, Imaginary Ventures, Peter Rahal. NYC high-protein CPG founded 2024. Verify iconiq-capital / imaginary-ventures slugs and queue if missing; confirm exact date via primary press release."
+  added: 2026-09-05
+  status: pending
+- slug: thyme-care
+  type: startup
+  reason: "Round monitoring 2026-09-05: Created lean profile for $125M Series E (2026-09-04) led by Morgan Health with CVS Health Ventures, Humana, Andreessen Horowitz. Nashville-based oncology value-based care. Verify morgan-health / cvs-health-ventures / humana slugs and queue if missing; confirm exact announcement date."
+  added: 2026-09-05
+  status: pending
+- slug: fluidstack
+  type: startup
+  reason: "Round monitoring 2026-09-05: Added $1.5B private-equity round (2026-09-04) led by Jane Street Capital atop the July 2026 $830M Series A. Sourced from Crunchbase News weekly big-rounds roundup. Verify exact date and any co-investors via primary press release."
   added: 2026-09-05
   status: pending
