@@ -136,6 +136,7 @@ Craft is overwhelmingly an enterprise/B2B investor. Of its portfolio, 197 compan
 | Secoda | Angel-Seed | ~2021 | Enterprise/Data | Acquired (Atlassian, Dec 2025) [^7] |
 | Noma Security | Series B (participant) | 2025-07-31 | Enterprise/Security | Active — $100M, Evolution Equity-led [^7][^17] |
 | Upwind Security | Series B (led) | 2024-12-02 | Enterprise/Security | Active — $100M at ~$900M val [^7][^18] |
+| Upwind Security | Growth (participant) | 2026-09-02 | Enterprise/Security / Cloud Security | Active — $300M at $3.8B val, co-led by Bessemer + TCV; Salesforce Ventures, Greylock, Cyberstarts, Leaders Fund, Alta Park Capital also participated [^upwind-g1][^upwind-g2][^upwind-g3] |
 | Unframe AI | Series A (participant) | 2025-04-03 | Enterprise/AI | Active — $50M, Bessemer co-led [^7] |
 | Unframe | Series B (participant) | 2026-05-19 | Enterprise/AI | Active [^13] |
 | Oasis Security | Series B (led) | 2026-03-19 | Enterprise/Cybersecurity | Active — $120M [^10] |
@@ -213,3 +214,7 @@ Snehal Antani, Co-Founder & CEO of Horizon3.ai: "What's been amazing working wit
 [^33]: "Horizon3 Raises $250M Series E at $2B+ Valuation to Lead the 'AI vs. AI' Cybersecurity Era," Horizon3.ai press release, August 3, 2026. Accessed August 2026. https://horizon3.ai/news/press-release/horizon3-raises-250m-series-e-at-2b-valuation-to-lead-the-ai-vs-ai-cybersecurity-era/ — Lists Craft Ventures among returning investors participating in the $250M Series E co-led by NightDragon and NEA at $2B+ valuation.
 
 [^34]: "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate," TechCrunch, August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/ — Independent TechCrunch confirmation of the $250M Series E, valuation, co-leads, and returning investor list including Craft Ventures.
+
+[^upwind-g1]: Crunchbase News, "The Biggest Funding Rounds Of The Week: Crusoe, Fluidstack Lead Multibillion-Dollar AI Infrastructure Round-Up," September 5, 2026. Accessed September 5, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/ — Confirms Upwind Security $300M growth round on 2026-09-02, co-led by Bessemer Venture Partners + TCV at $3.8B valuation, with Salesforce Ventures, Greylock, Craft Ventures, Cyberstarts participating.
+[^upwind-g2]: CTech (Calcalist), Meir Orbach, "Upwind raises $300 million, more than doubles valuation to $3.8 billion in five months," September 2, 2026. Accessed September 5, 2026. https://www.calcalistech.com/ctechnews/article/0kbwgdw01 — Primary Israeli tech press. Adds Leaders Fund + Alta Park Capital as additional participants; notes Amiram Shachar CEO ex-Spot.io.
+[^upwind-g3]: TechStartups, "Startup Funding News Today, September 4, 2026: Crusoe, Gimlet Labs, Hivebotics & More," September 4, 2026. Accessed September 5, 2026. https://techstartups.com/2026/09/04/startup-funding-news-today-september-4-2026-crusoe-gimlet-labs-hivebotics-more/ — Third independent confirmation of the round details.

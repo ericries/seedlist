@@ -5626,17 +5626,23 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-05: Created lean profile for $3B Series F (2026-09-03) led by Atreides Management and Valor Equity Partners with Mubadala Capital. Verify Atreides and Mubadala firm slugs."
   added: 2026-09-05
-  status: pending
+  status: resolved
+  resolved: 2026-09-05
+  resolution_note: "Fact-spec sweep 2026-09-05: $3B Series F on 2026-09-03 at $30B post-money valuation independently verified across 3 sources — TechCrunch (2026-09-03), Crunchbase News weekly big rounds roundup (2026-09-05), and TechStartups Sept 4 roundup. All three confirm Atreides Management and Valor Equity Partners as co-leads with Mubadala Capital participating. TechStartups also notes prior $1.38B round ~10 months earlier, tripling valuation from ~$10B. Atreides Management and Mubadala Capital do NOT yet have firm profiles (only valor-equity-partners is in data/firms/) — added to queue for future research. No profile changes needed; facts already accurate."
 - slug: gimlet-labs
   type: startup
   reason: "Round monitoring 2026-09-05: Created lean profile for $300M Series B (2026-09-04) led by a16z at $3B valuation. Long co-investor list; verify Sapphire Ventures, Arm, M12, Triatomic slugs."
   added: 2026-09-05
-  status: pending
+  status: resolved
+  resolved: 2026-09-05
+  resolution_note: "Fact-spec sweep 2026-09-05: $300M Series B on 2026-09-04 at $3B valuation verified via 3 sources — Gimlet Labs blog post (announcing-series-b, co-authored by 5 co-founders), Crunchbase News weekly big rounds roundup (2026-09-05), TechStartups Sept 4 roundup. All confirm Andreessen Horowitz lead; blog post enumerates full participant list (Sapphire Ventures, Menlo, 645, Arm, Eclipse, Emergence, Factory, Hudson River Trading, M12, OnePrime, Prosperity7, QuantumLight, Samsung Ventures, Tiger Global, Triatomic, Wing, XTX Markets). Added quantumlight to firms array (already-profiled slug). Remaining participants lack profiles — should be queued separately. Five co-founders confirmed via blog byline: Zain Asgar, Michelle Nguyen, Omid Azizi, James Bartlett, Natalie Serrino."
 - slug: upwind-security
   type: startup
   reason: "Round monitoring 2026-09-05: Created lean profile for $300M growth (2026-09-02) co-led by Bessemer and TCV at $3.8B valuation. CEO Amiram Shachar. Verify round type (may be Series C or growth extension) and Cyberstarts/Salesforce Ventures slugs."
   added: 2026-09-05
-  status: pending
+  status: resolved
+  resolved: 2026-09-05
+  resolution_note: "Fact-spec sweep 2026-09-05: $300M round on 2026-09-02 at $3.8B valuation verified via CTech (Meir Orbach byline, 2026-09-02) + Crunchbase News weekly big rounds roundup + TechCrunch tag archive (confirming preceding Jan 2026 $250M at $1.5B). CTech source enumerates additional participants Leaders Fund, Alta Park Capital, and existing investor Penny Jar Capital; added to co-investors list. CEO Amiram Shachar (founder & co-CEO) added to founders array. Round type not officially labeled in press — kept as 'Growth' per tech press convention (CTech follows the January Series B without giving this round a formal letter). Removed a spurious [^4] TechStartups Sept 4 citation added by a concurrent agent — verified via re-fetch that the Sept 4 roundup article covers Crusoe/Gimlet Labs/Moment/Octave/Hivebotics/Rwaj and does NOT mention Upwind."
 - slug: ipronics
   type: startup
   reason: "Round monitoring 2026-09-05: Created lean profile for $125M Series B (2026-09-02) co-led by Maverick Silicon and Light Street Capital with NVIDIA. Valencia Spain-based, founded 2019 as UPV spin-off. Verify Maverick Silicon (distinct from Maverick Capital/Ventures) slug."
@@ -5646,7 +5652,9 @@ priority:
   type: startup
   reason: "Round monitoring catch-up 2026-09-05: Created profile for $300M Series B (2026-09-04) led by Andreessen Horowitz at $3B valuation. Sources: gimletlabs.ai/blog/announcing-series-b, Crunchbase News weekly big rounds, TechStartups Sept 4 roundup. Verify Sapphire Ventures, 645 Ventures, XTX Markets slugs; add participants to firms array once slug-mapped."
   added: 2026-09-05
-  status: pending
+  status: resolved
+  resolved: 2026-09-05
+  resolution_note: "Duplicate of earlier gimlet-labs entry; both resolved in same fact-spec sweep. Series B verified via blog + Crunchbase News + TechStartups. Quantumlight added to firms array; remaining participants (Sapphire, 645, Arm, Eclipse, Factory, Hudson River Trading, M12, OnePrime, Prosperity7, Samsung, Triatomic, Wing, XTX Markets) lack existing profiles."
 - slug: ultrahuman
   type: startup
   reason: "Round monitoring catch-up 2026-09-05: Created profile for $70M growth ($65M equity + $5M debt) at $365M val (2026-09-03) led by Qualcomm Ventures with Labcorp, Alpha Wave, Blume Ventures, Nexus Venture Partners, Alteria Capital. TechCrunch + TechStartups sources. Verify Qualcomm Ventures / Alpha Wave / Alteria Capital slugs; investor quote (Quinn Li, Qualcomm Ventures) verbatim from TechCrunch."

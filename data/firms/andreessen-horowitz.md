@@ -202,6 +202,7 @@ The following table includes a16z investments verified through the firm's own po
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Gimlet Labs | Series B (led, $300M at $3B post-money) | 2026-09-04 | AI Infrastructure / Inference | Private [^gimlet-a1][^gimlet-a2][^gimlet-a3] |
 | Mariana Minerals | Series B (participated; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private [^mm-a16z] |
 | Facebook (Meta) | Growth | 2010 | Consumer / Social | Public (IPO 2012) [^1][^10] |
 | Instagram | Early | 2010 | Consumer / Social | Acquired by Facebook (2012) [^10] |
@@ -706,3 +707,7 @@ The following table includes a16z investments verified through the firm's own po
 [^felix-a16z3]: Bloomberg, "Felix Pago Raises $200 Million To Expand Into Financial Services," September 1, 2026. Accessed September 2026 (article headline verified via search index; full text behind Bloomberg paywall). https://www.bloomberg.com/news/articles/2026-09-01/felix-pago-raises-200-million-to-expand-into-financial-services — Tier-1 financial press confirmation of $200M Series C total; used here as headline-level confirmation of round size and expansion intent.
 
 [^felix-a16z4]: Miami Herald, "A Venezuelan in Miami lands nearly $90M for his startup from Andreessen Horowitz," September 1, 2026. Accessed September 2026 (article headline verified via search index; full text behind Miami Herald paywall). https://www.miamiherald.com/news/business/article317076435.html — Local/regional press confirming a16z equity portion of ~$87M (headline rounds to "nearly $90M") and confirming founder Manuel Godoy is Venezuelan.
+
+[^gimlet-a1]: Gimlet Labs blog, "Announcing our Series B," September 4, 2026. Accessed September 5, 2026. https://gimletlabs.ai/blog/announcing-series-b — Primary company announcement confirming Andreessen Horowitz led $300M Series B with Sapphire Ventures, Menlo Ventures, 645 Ventures, Arm, Eclipse, Emergence, Factory, Hudson River Trading, M12, OnePrime Capital, Prosperity7, QuantumLight, Samsung Ventures, Tiger Global Management, Triatomic, Wing Ventures, and XTX Markets participating. Co-authored by all five co-founders: Zain Asgar, Michelle Nguyen, Omid Azizi, James Bartlett, Natalie Serrino.
+[^gimlet-a2]: Crunchbase News, "The Biggest Funding Rounds Of The Week: Crusoe, Fluidstack Lead Multibillion-Dollar AI Infrastructure Round-Up," September 5, 2026. Accessed September 5, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/ — Confirms $300M at $3B valuation, a16z lead; Sapphire Ventures, Menlo Ventures, Arm, M12 named among participants.
+[^gimlet-a3]: TechStartups, "Startup Funding News Today, September 4, 2026: Crusoe, Gimlet Labs, Hivebotics & More," September 4, 2026. Accessed September 5, 2026. https://techstartups.com/2026/09/04/startup-funding-news-today-september-4-2026-crusoe-gimlet-labs-hivebotics-more/ — Third independent confirmation of $300M Series B, a16z lead, $3B post-money valuation, Arm Holdings + M12 as new participants.

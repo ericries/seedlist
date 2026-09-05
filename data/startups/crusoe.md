@@ -27,7 +27,7 @@ Crusoe is a Denver-based AI infrastructure company that builds and operates purp
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-03 | Series F | $3B | Atreides Management, Valor Equity Partners | Mubadala Capital [^1][^2] |
+| 2026-09-03 | Series F | $3B | Atreides Management, Valor Equity Partners | Mubadala Capital [^1][^2][^3] |
 
 ## What Investors Say
 
@@ -37,3 +37,4 @@ Crusoe is a Denver-based AI infrastructure company that builds and operates purp
 
 [^1]: TechCrunch, "Crusoe reportedly raises $3B at a $30B valuation," September 3, 2026. Accessed September 2026. https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
 [^2]: Crunchbase News, "The Biggest Funding Rounds Of The Week: Crusoe, Fluidstack Lead Multibillion-Dollar AI Infrastructure Round-Up," September 5, 2026. Accessed September 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/
+[^3]: TechStartups, "Startup Funding News Today, September 4, 2026: Crusoe, Gimlet Labs, Hivebotics & More," September 4, 2026. Accessed September 5, 2026. https://techstartups.com/2026/09/04/startup-funding-news-today-september-4-2026-crusoe-gimlet-labs-hivebotics-more/

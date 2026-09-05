@@ -26,6 +26,10 @@ firms:
     round: series-b
     year: 2026
     date: 2026-09-04
+  - slug: quantumlight
+    round: series-b
+    year: 2026
+    date: 2026-09-04
 founders:
   - name: "Zain Asgar"
     role: "Co-Founder & CEO"

@@ -9,9 +9,9 @@ fund_size: "$17.5B AUM; Fund VI at $2.35B (2024)"
 stage_focus: [growth, late-stage]
 sector_focus: [aerospace, defense, ai, robotics, sustainability, food-tech, fintech, health-wellness, cybersecurity, crypto, biotech, longevity]
 last_verified_investment:
-  date: 2026-06-30
-  company: "Dominion Dynamics"
-  round: "Series A"
+  date: 2026-09-03
+  company: "Crusoe"
+  round: "Series F"
 team:
   - slug: antonio-gracias
     role: "Founder, CEO & CIO"
@@ -93,7 +93,7 @@ Based on 59 verified current growth portfolio investments and 22 realized invest
 | Anduril | Defense technology | 2020 | [^2][^27] |
 | Chaos | Defense/radar technology | 2025 | [^17][^28] |
 | Coalition | Cyber insurance | 2020 | [^2][^29] |
-| Crusoe | AI data centers | 2021 | [^18][^30] |
+| Crusoe | AI data centers | 2021 (Series B); 2025-10-24 (Series E, $1.375B at ~$10B val); 2026-09-03 (Series F, $3B at ~$30B val — co-led by Atreides Management + Valor Equity Partners; Mubadala Capital participated) | [^18][^30][^crusoe-f1][^crusoe-f2][^crusoe-f3] |
 | Eight Sleep | Sleep technology | 2021 | [^19][^31] |
 | GoPuff | On-demand delivery | 2018 | [^2][^32] |
 | HackerOne | Cybersecurity | 2019 | [^14][^33] |
@@ -294,3 +294,7 @@ Note: Several of the above testimonials are sourced from the Valor website (Grow
 
 [^valar1]: TechCrunch, "Sequoia's Shaun Maguire leads $1B round for nuclear startup Valar Atomics," August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/ — Primary press confirming Valor Equity Partners as a participant in Valar Atomics' $1B Series B at ~$6B post-money on August 3, 2026; Sequoia's Shaun Maguire led.
 [^valar2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 8/3/2026," August 3, 2026. Accessed August 2026. https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-3-2026/ — Independent cross-confirmation of Valor Equity Partners as a Valar Atomics Series B participant.
+
+[^crusoe-f1]: TechCrunch, "Crusoe reportedly raises $3B at a $30B valuation," September 3, 2026. Accessed September 2026. https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/ — Primary tier-1 press confirming Atreides Management and Valor Equity Partners co-led Crusoe's $3B Series F at $30B post-money valuation, with Mubadala Capital participating. Follows Crusoe's $13B five-year cloud contract with Jane Street.
+[^crusoe-f2]: Crunchbase News, "The Biggest Funding Rounds Of The Week: Crusoe, Fluidstack Lead Multibillion-Dollar AI Infrastructure Round-Up," September 5, 2026. Accessed September 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/ — Independent cross-confirmation naming Atreides Management + Valor Equity Partners as co-leads and Mubadala Capital as participant; total funding to date ~$7.2B.
+[^crusoe-f3]: TechStartups, "Startup Funding News Today, September 4, 2026: Crusoe, Gimlet Labs, Hivebotics & More," September 4, 2026. Accessed September 5, 2026. https://techstartups.com/2026/09/04/startup-funding-news-today-september-4-2026-crusoe-gimlet-labs-hivebotics-more/ — Third independent confirmation of Atreides + Valor co-lead and Mubadala Capital participation at $30B post-money.
