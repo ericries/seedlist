@@ -172875,7 +172875,9 @@ vague_facts:
   line: '| Canva | Growth | ~2024 | Enterprise/Design | Active | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-05
+  resolution_note: 'Fact-spec sweep 2026-09-05: Duplicate of column-5 entry resolved 2026-08-05. Profile already tightened from ~2024 to 2025 per CapitalG own portfolio page (capitalg.com/portfolio/canva "Initial Investment: 2025"). Canva 2025 primary rounds (Aug 2025 $42B secondary tender led by Fidelity + JPMorgan; earlier 2024 $32B / $26B secondaries) do NOT name CapitalG in Fortune, Bloomberg, Canva newsroom, or SiliconANGLE contemporaneous press. Exact month/day for CapitalG participation cannot be pinned via primary press — attribution rests on CapitalG self-listing plus Fortune 2026-01-21 GP Jill Chase coverage (aggregator/self-attributed pattern). Row annotation on capitalg.md line 131 documents this pattern with [^canva-cg1] footnote. Year-only "2025" is the best available specificity; unresolvable at day precision.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Rippling
@@ -172885,7 +172887,9 @@ vague_facts:
   line: '| Rippling | Growth | ~2024 | Enterprise/HR | Active | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-05
+  resolution_note: 'Fact-spec sweep 2026-09-05: Duplicate of column-5 entry resolved 2026-08-05. Profile already tightened from ~2024 to 2023 per CapitalG own portfolio page (capitalg.com/portfolio/rippling "Initial Investment: 2023"). Rippling primary rounds — Series C (2021-10-21 Sequoia-led), Series D (2022-05-11 Kleiner + Bedrock co-led), Series E (2023-03-17 Greenoaks-led $500M at $11.25B), Series F (2024-04-22 Coatue-led), Series G (2025-05-09 Founders Fund-led) — do NOT name CapitalG as a direct investor per Rippling.com blog, TechCrunch (Alex Wilhelm 2023-03-17), Built In SF, Crunchbase News, or PYMNTS. Exact month/day cannot be pinned via primary press; attribution rests on CapitalG self-listing (aggregator/self-attributed pattern typical of secondary-market or non-lead participation). Row annotation on capitalg.md line 132 documents this pattern with [^rippling-cg1] footnote. Year-only "2023" is the best available specificity; unresolvable at day precision.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: LangChain
@@ -172919,7 +172923,9 @@ vague_facts:
   line: '| Baseten | Series E | 2026 | AI/Infrastructure | Active | [^53] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-09-05
+  resolution_note: 'Fact-spec sweep 2026-09-05: SCANNER STALE — profile already tightened in 2026-08-03 sweep. capitalg.md line 135 now reads: Baseten | Series E ($300M at $5B valuation; co-led by IVP and CapitalG, both doubling down on prior positions; NVIDIA participated with $150M check; 01A, Altimeter, Battery Ventures, BOND, BoxGroup, Blackbird Ventures, Conviction, Greylock also participated) | 2026-01-23 | AI/Infrastructure | Active | [^53][^baseten-e1][^baseten-e2]. Year column shows full YYYY-MM-DD date with 3 primary sources (BusinessWire [^53], Baseten blog [^baseten-e1], TechFundingNews [^baseten-e2]). No profile change needed.'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Physical Intelligence
