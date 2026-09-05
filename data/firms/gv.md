@@ -133,6 +133,7 @@ Based on GV's verified portfolio and public data:
 | Verse | Series B (participated; Bessemer led, $54M) | 2026-06-18 | Climate / Energy / AI / Data Centers | Private [^verse1][^verse2][^verse3] |
 | Nebex | Seed (led, $30M) | 2026-06-29 | Fintech / Space Economy / Defense / Marketplace | Private [^nebex1][^nebex2][^nebex3] |
 | Adapter | Seed (led, $17.8M) | 2026-07-14 | AI / Data Infrastructure / Personal AI | Private (stealth launch) [^adapter1] |
+| Safe Superintelligence | Prior investor (predates 2026-07-27 Nvidia $5B strategic round) | 2024 | AI / Foundation Models / AI Safety | Private ($32B valuation as of Feb 2025) [^ssi1][^ssi2] |
 
 *This table represents a small fraction of GV's 400+ active portfolio companies. The firm has made approximately 745 investments over 17 years [^4].*
 
@@ -209,3 +210,7 @@ No independently sourced founder testimonials found.
 [^nebex3]: TheNextWeb, "Nebex raises $30M from GV to build a space exchange," June 30, 2026. Accessed June 2026. https://thenextweb.com/news/nebex-30m-seed-gv-space-economy — Tier-1 European tech press confirming $30M Seed led by GV with Eniac Ventures, 2048 Ventures, and Better Tomorrow Ventures participating. Erik Nordlander (GV General Partner) quote: "Tejpaul is a rare founder who actually knows how to move fast in a heavy, high-friction industry like space."
 
 [^adapter1]: Alex Konrad, "Exclusive: Startup Adapter Launches With $17.8M To Bring New 'Cognition' To AI Tools," Upstarts Media, July 14, 2026. Accessed July 2026. https://www.upstartsmedia.com/p/deep-dive-adapter-launches-ai-cognition — GV led the seed round; Bond Partners and angels including Kevin Mahaffey, Zach Sims, and Ted Schlein participated.
+
+[^ssi1]: TechCrunch, "Ilya Sutskever's Safe Superintelligence partners with Nvidia to scale its AI research," July 27, 2026. Accessed September 2026. https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/ — Article states: "Aside from Nvidia, the firm's backers included Andreessen Horowitz, Alphabet, Lightspeed Venture Partners, GV, Sequoia Capital Partners, and others." Confirms GV as prior investor in SSI ahead of Nvidia's $5B strategic investment announced July 27, 2026.
+
+[^ssi2]: The Globe and Mail, "Nvidia to invest $5-billion in Ilya Sutskever's AI research startup," July 27, 2026. Accessed September 2026. https://www.theglobeandmail.com/business/technology/article-nvidia-ilya-sutskever-openai-safe-superintelligence-investment/ — Independent confirmation of Nvidia's $5B equity investment in SSI announced July 27, 2026 as part of strategic partnership including access to Nvidia's Vera Rubin platform.

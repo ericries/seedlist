@@ -4500,14 +4500,23 @@ priority:
   type: firm
   reason: prior investor in Safe Superintelligence (2026-07-27 Nvidia USD 5B investment)
   added: 2026-08-03
+  status: resolved
+  resolved: 2026-09-05
+  note: "Added Safe Superintelligence to GV Portfolio table as prior investor (2024 vintage) predating Nvidia $5B strategic round on 2026-07-27. Verified GV's prior-investor status via TechCrunch (July 27, 2026) which explicitly lists 'Andreessen Horowitz, Alphabet, Lightspeed Venture Partners, GV, Sequoia Capital Partners, and others' as backers. Added footnotes [^ssi1][^ssi2] with TechCrunch and Globe & Mail citations."
 - slug: sequoia-capital
   type: firm
   reason: prior investor in Safe Superintelligence (2026-07-27 Nvidia USD 5B investment)
   added: 2026-08-03
+  status: resolved
+  resolved: 2026-09-05
+  note: "Added Safe Superintelligence to Sequoia Capital Portfolio table as prior investor (2024 vintage) predating Nvidia $5B strategic round on 2026-07-27. Verified via TechCrunch (July 27, 2026) prior-investor list and TechCrunch September 4, 2024 $1B round announcement naming Sequoia Capital as participant. Added footnotes [^ssi-seq1][^ssi-seq2]."
 - slug: ilya-sutskever
   type: investor
   reason: co-founder Safe Superintelligence; USD 5B Nvidia investment (2026-07-27)
   added: 2026-08-03
+  status: resolved
+  resolved: 2026-09-05
+  note: "Updated Background section to include Nvidia's $5B strategic investment in SSI announced 2026-07-27 and the Vera Rubin partnership. Now reflects SSI's ~$7B total capital raised. Added footnotes [^ssi-nvidia1][^ssi-nvidia2] with TechCrunch and Globe & Mail primary sources."
 - slug: daniel-gross
   type: investor
   reason: co-founder Safe Superintelligence; USD 5B Nvidia investment (2026-07-27)
