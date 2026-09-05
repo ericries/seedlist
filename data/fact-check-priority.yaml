@@ -5622,3 +5622,23 @@ priority:
   status: resolved
   resolved: 2026-09-03
   resolution_note: 'Fact-spec sweep 2026-09-03: Zeit AI YC Summer 2024 batch verified via YC company profile page (ycombinator.com/companies/zeit-ai). Founders Leopold von Waldthausen and Marvin Christopher Bornstein (both ex-Palantir) confirmed. YC portfolio table in y-combinator.md is a curated selection of notable exits/companies rather than an exhaustive batch list; Zeit AI does not warrant addition to that curated table at this early stage. Frontmatter of zeit-ai.md updated to reflect YC investment as "yc-s24 batch (2024)" rather than the 2026-09-03 €5M seed round.'
+- slug: crusoe
+  type: startup
+  reason: "Round monitoring 2026-09-05: Created lean profile for $3B Series F (2026-09-03) led by Atreides Management and Valor Equity Partners with Mubadala Capital. Verify Atreides and Mubadala firm slugs."
+  added: 2026-09-05
+  status: pending
+- slug: gimlet-labs
+  type: startup
+  reason: "Round monitoring 2026-09-05: Created lean profile for $300M Series B (2026-09-04) led by a16z at $3B valuation. Long co-investor list; verify Sapphire Ventures, Arm, M12, Triatomic slugs."
+  added: 2026-09-05
+  status: pending
+- slug: upwind-security
+  type: startup
+  reason: "Round monitoring 2026-09-05: Created lean profile for $300M growth (2026-09-02) co-led by Bessemer and TCV at $3.8B valuation. CEO Amiram Shachar. Verify round type (may be Series C or growth extension) and Cyberstarts/Salesforce Ventures slugs."
+  added: 2026-09-05
+  status: pending
+- slug: ipronics
+  type: startup
+  reason: "Round monitoring 2026-09-05: Created lean profile for $125M Series B (2026-09-02) co-led by Maverick Silicon and Light Street Capital with NVIDIA. Valencia Spain-based, founded 2019 as UPV spin-off. Verify Maverick Silicon (distinct from Maverick Capital/Ventures) slug."
+  added: 2026-09-05
+  status: pending
