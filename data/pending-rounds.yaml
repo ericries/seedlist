@@ -92,6 +92,14 @@ pending_rounds:
   parsed_amount: $1.2B
   parsed_round: Series B
   status: pending
+- title: Crusoe reportedly raises $3B at a  $30B valuation
+  url: https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
+  source: techcrunch
+  date_found: '2026-09-04'
+  parsed_company: Crusoe reportedly
+  parsed_amount: $3B
+  parsed_round: null
+  status: pending
 - title: Precore Gold Closes Oversubscribed C$6 Million Private Placement
   url: https://www.globenewswire.com/news-release/2026/09/03/3355912/0/en/precore-gold-closes-oversubscribed-c-6-million-private-placement.html
   source: globenewswire
