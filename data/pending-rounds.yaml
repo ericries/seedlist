@@ -91,6 +91,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B
+    valuation
+  url: https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
+  source: techcrunch
+  date_found: '2026-09-04'
+  parsed_company: null
+  parsed_amount: $1.2B
+  parsed_round: Series B
+  status: pending
 - title: Precore Gold Closes Oversubscribed C$6 Million Private Placement
   url: https://www.globenewswire.com/news-release/2026/09/03/3355912/0/en/precore-gold-closes-oversubscribed-c-6-million-private-placement.html
   source: globenewswire
@@ -840,15 +849,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-08-24'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London-based Embedd raises €2.3 million to build the software infrastructure
-    for physical AI
-  url: https://www.eu-startups.com/2026/08/london-based-embedd-raises-e2-3-million-to-build-the-software-infrastructure-for-physical-ai/
-  source: eu-startups
-  date_found: '2026-08-24'
-  parsed_company: London-based Embedd
   parsed_amount: null
   parsed_round: null
   status: pending
