@@ -27,7 +27,7 @@ founders:
   - name: "Samay Sanghvi"
     role: "Founder & CEO"
 status: published
-last_researched: 2026-09-05
+last_researched: 2026-09-06
 ---
 
 ## About
@@ -44,11 +44,13 @@ On August 31, 2026, TechCrunch reported that Alteon had closed a $2.5 million pr
 
 ## What Investors Say
 
-No independently sourced investor commentary on the round has been located as of the profile date.
+> "Ambitious problems are always going to come with risks. For me, it came down to believing Samay and the Alteon team are the ones to figure them out."
+> — Lachy Groom, on backing Alteon's pre-seed round, TechCrunch, August 31, 2026 [^1]
 
 ## What Founders Say
 
-No independently sourced founder quotes on the round have been located as of the profile date.
+> "Once you build airplanes that can stay in the air for more than a year, there are millions of things you can do with them."
+> — Samay Sanghvi, Founder & CEO, TechCrunch interview, August 31, 2026 [^1]
 
 ## Sources
 
