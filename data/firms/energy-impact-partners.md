@@ -129,6 +129,7 @@ Based on analysis of 137 verified portfolio companies (96 active, 41 exited) fro
 | Overstory | Series B ($43M; Blume Equity led; EIP LP, B Capital, Semapa Next, Pale Blue Dot, CapitalT, Convective Capital, Bentley Systems, MCJ, Moxxie Ventures participating — EIP is a Series B new investor, NOT Series A) | 2025-11-25 | AI grid resilience / Wildfire prevention | [^ov1][^ov2][^ov3] |
 | Hint | Seed ($10M; Slow Ventures led; Montauk Capital, Tusk Venture Partners, Amplo, Energy Impact Partners, Hannah Grey VC, Brian Kelly participating) | 2026-05-13 | AI home management | [^25][^hint1][^hint2] |
 | Voya Energy | Series A ($35M lead; Founders Fund, John Doerr, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, StepStone Group participating; EIP incubated the company) | 2026-08-26 | Metal-fueled distributed power | [^voya1][^voya2][^voya3] |
+| Base Power | Series D (participated; $1B round at $13B post-money; Ribbit, Addition, Valor Equity Partners, JPMorganChase SIG co-led; Altimeter, D1, Sands, Coatue, Layer Global, Thrive, a16z, Lightspeed, Trust Ventures, CapitalG also participated) | 2026-08-03 | Distributed grid / Energy storage | [^eip-bp-d1][^eip-bp-d2] |
 
 *This table represents a subset of approximately 137 known portfolio companies. The full portfolio is listed on the EIP website [^14].*
 
@@ -219,4 +220,7 @@ No additional independently sourced founder testimonials found beyond press rele
 [^voya2]: AlleyWatch, "The Weekly Notable Startup Funding Report: 8/31/26," accessed September 3, 2026. https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-31-26/ — Independent aggregator listing Voya Energy $35M with Energy Impact Partners, Founders Fund, John Doerr, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, and StepStone Group as investors.
 
 [^voya3]: Latitude Media, "Catalyst: The rise of metal fuels," August 27, 2026. Accessed September 3, 2026. https://www.latitudemedia.com/news/catalyst-the-rise-of-metal-fuels/ — Podcast interview with Voya CEO Richard Wang; EIP partner Shayle Kann confirms EIP incubated the company.
+
+[^eip-bp-d1]: TechCrunch, "Base Power raises another $1B to save the grid using backyard batteries," August 3, 2026. Accessed September 2026. https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/ — Names Energy Impact Partners as a Series D participant; Ribbit, Addition, Valor Equity Partners, and JPMorganChase Strategic Investment Group co-led the $1B round at ~$13B post-money valuation.
+[^eip-bp-d2]: Pulse 2.0, "Base Power Raises $1 Billion Series D At $13 Billion Valuation And Launches U.S.-Made Home Battery," August 3, 2026. Accessed September 2026. https://pulse2.com/base-power-raises-1-billion-series-d-at-13-billion-valuation-and-launches-u-s-made-home-battery/ — Independent contemporaneous confirmation of Energy Impact Partners' Series D participation at $13B post-money valuation.
 

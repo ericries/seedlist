@@ -108,6 +108,7 @@ The firm skews more growth-stage than its stated one-third early-stage allocatio
 | Snorkel AI | Series D (led) | 2025-05-29 | AI/ML | Active [^29] |
 | Base Power | Series B (co-led) | 2025-04-09 | Energy/Climate | Active [^30] |
 | Base Power | Series C (led) | 2025-10-08 | Energy/Climate | Active [^30][^34] |
+| Base Power | Series D (co-lead with Ribbit, Valor Equity Partners, JPMorganChase SIG; $1B round at $13B post-money; participants Altimeter, D1, Sands, Coatue, Layer Global, EIP, Thrive, a16z, Lightspeed, Trust Ventures, CapitalG) | 2026-08-03 | Energy/Climate | Active [^add-bp-d1][^add-bp-d2] |
 | Render | Series C (follow-on) | 2025-01-21 | Cloud Infrastructure | Active [^31][^35] |
 | Airwallex | Series G (led) | 2025-12-08 | Fintech/Payments | Active [^32] |
 | Hello Vet | Series A | 2025-12-11 | Healthcare | Active [^33][^36] |
@@ -175,3 +176,6 @@ Chase Gilbert, Co-founder and CEO of Built Technologies (portfolio company), sta
 [^39]: dLocal press release, "dLocal Achieves $1.2B Valuation After Securing New $200M Investment — General Atlantic led up to USD 200M growth investment; Addition joined as new investor," September 15, 2020. Accessed July 27, 2026. https://www.dlocal.com/press-releases/latin-america-newest-unicorn/
 [^40]: FinSMEs, "dLocal Receives $200M Investment; Achieves $1.2B Valuation," September 15, 2020. Accessed July 27, 2026. https://www.finsmes.com/2020/09/dlocal-receives-200m-investment-achieves-1-2b-valuation.html
 [^41]: Chainalysis company blog, "Announcing Our Series C — Addition led USD 100M round at over USD 1B valuation with Accel, Benchmark, and Ribbit Capital participating," November 23, 2020. Accessed July 27, 2026. https://www.chainalysis.com/blog/series-c-announcement/
+
+[^add-bp-d1]: TechCrunch, "Base Power raises another $1B to save the grid using backyard batteries," August 3, 2026. Accessed September 2026. https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/ — Names Addition as Series D co-lead alongside Ribbit, Valor Equity Partners, and JPMorganChase Strategic Investment Group at ~$13B post-money valuation.
+[^add-bp-d2]: Pulse 2.0, "Base Power Raises $1 Billion Series D At $13 Billion Valuation And Launches U.S.-Made Home Battery," August 3, 2026. Accessed September 2026. https://pulse2.com/base-power-raises-1-billion-series-d-at-13-billion-valuation-and-launches-u-s-made-home-battery/ — Independent contemporaneous confirmation of Addition as Series D co-lead; full participant roster including Altimeter, D1, Sands, Coatue, Layer Global, EIP, Thrive, a16z, Lightspeed, Trust Ventures, CapitalG.

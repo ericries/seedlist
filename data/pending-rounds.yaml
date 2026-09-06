@@ -28,14 +28,6 @@ pending_rounds:
   parsed_amount: $60M
   parsed_round: Series B
   status: pending
-- title: Guardio raised $40M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-05'
-  parsed_company: Guardio
-  parsed_amount: $40M
-  parsed_round: null
-  status: pending
 - title: Ollie raised $7.5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -171,14 +163,6 @@ pending_rounds:
   parsed_company: null
   parsed_amount: $1.2B
   parsed_round: Series B
-  status: pending
-- title: Crusoe reportedly raises $3B at a  $30B valuation
-  url: https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
-  source: techcrunch
-  date_found: '2026-09-04'
-  parsed_company: Crusoe reportedly
-  parsed_amount: $3B
-  parsed_round: null
   status: pending
 - title: Precore Gold Closes Oversubscribed C$6 Million Private Placement
   url: https://www.globenewswire.com/news-release/2026/09/03/3355912/0/en/precore-gold-closes-oversubscribed-c-6-million-private-placement.html
@@ -514,14 +498,6 @@ pending_rounds:
   date_found: '2026-09-01'
   parsed_company: has
   parsed_amount: $11M
-  parsed_round: null
-  status: pending
-- title: Alteon raised $2.5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-01'
-  parsed_company: Alteon
-  parsed_amount: $2.5M
   parsed_round: null
   status: pending
 - title: Leanwatts raised $2M seed

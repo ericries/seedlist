@@ -101,7 +101,7 @@ Note: Some companies span categories (e.g., Planet Labs serves both space and cl
 | Laurel | Series C ($100M) | 2025-06-10 | AI time intelligence | [^24][^32][^33] |
 | Somnee / StimScience | Seed ($10M) | 2025 | Sleep neurotech | [^25] |
 | webAI | Series A extension | 2026 | Distributed AI | [^26] |
-| June AI | Pre-Seed (led, $20M) | 2026-08-03 | AI / Enterprise Software | [^june-tv] |
+| June AI | Pre-Seed (led, $20M; co-investors Michael Dell, Aaron Levie, George Kurtz, Diane Greene) | 2026-08-03 | AI / Enterprise Software | [^june-tv][^june-ctech][^june-globenews] |
 
 This table represents a subset of TIME Ventures' claimed 200+ investments. Only investments with independent source verification are included. Many investments, particularly smaller angel checks, are not publicly disclosed.
 
@@ -127,7 +127,9 @@ No additional independently sourced founder testimonials from TIME Ventures port
 
 ## Sources
 
-[^june-tv]: TechCrunch, "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem," August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
+[^june-tv]: TechCrunch, "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem," August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/ — Names TIME Ventures (Marc Benioff) as pre-seed lead; co-investors Michael Dell, Aaron Levie, George Kurtz, Diane Greene.
+[^june-ctech]: CTech (Calcalist), "Salesforce veterans raise $20 million pre-Seed from Marc Benioff and Michael Dell to tackle AI's enterprise bottleneck," August 3, 2026. Accessed August 2026. https://www.calcalistech.com/ctechnews/article/s1vpyl0rml — Independent Israeli tech-press confirmation of the $20M pre-seed led by Benioff via TIME Ventures.
+[^june-globenews]: Manila Times / GlobeNewswire, "June AI Emerges From Stealth to Reinvent Enterprise Software Implementation for The AI Era," August 3, 2026. Accessed August 2026. https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/june-ai-emerges-from-stealth-to-reinvent-enterprise-software-implementation-for-the-ai-era/2397217 — Company's own press release distributed via GlobeNewswire; confirms round size, lead, and participants.
 
 [^1]: Crunchbase, "Time Ventures — Company Profile & Funding," accessed March 2026. https://www.crunchbase.com/organization/time-ventures
 [^2]: Wikipedia, "Marc Benioff," accessed March 2026. https://en.wikipedia.org/wiki/Marc_Benioff

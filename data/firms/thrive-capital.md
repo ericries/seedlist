@@ -192,6 +192,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Wiz | Growth | 2024-05-07 | Cybersecurity | Private [^13][^22] |
 | Base Power | Series A (participated, $68M; alongside Altimeter Capital, Valor Equity Partners, Trust Ventures, Terrain, MCJ) | 2024-05-07 | Energy | Private [^63][^64][^65] |
 | Base Power | Series B (participated, $200M co-led by Addition, a16z, Lightspeed, Valor) | 2025-04-08 | Energy | Private [^8][^51] |
+| Base Power | Series D (participated, $1B round at $13B post-money; Ribbit, Addition, Valor Equity Partners, JPMorganChase SIG co-led; Altimeter, D1, Sands, Coatue, Layer Global, EIP, a16z, Lightspeed, Trust Ventures, CapitalG also participated) | 2026-08-03 | Energy | Private [^thr-bp-d1][^thr-bp-d2] |
 | Alsym Energy | Growth | ~2023 | Energy / Batteries | Private [^3] |
 | Clair | Early | ~2021 | Fintech / Payroll | Private [^3] |
 | Mercury | Growth | ~2022 | Fintech / Banking | Private [^3] |
@@ -427,3 +428,6 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^64]: EnergyChoiceMatters.com, "Base Power, Start-up Retail Provider Led By Zach Dell, Officially Launches; Retail Pricing, VPP Strategy Revealed," May 7, 2024, accessed July 16, 2026. https://www.energychoicematters.com/stories/20240507b.html — Independent industry-press confirmation dated the launch/announcement date, May 7, 2024. Names capital providers: "Base has raised capital from Thrive Capital, Valor Equity Partners, Altimeter Capital, Trust Ventures, Terrain, and others."
 
 [^65]: Crunchbase News, "The Week's Biggest Funding Rounds: Base Power Fuels Somewhat Quiet Week," April 11, 2025, accessed July 16, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-base-power-caris/ — Tier-1 tech-press retrospective confirming Base Power total funding of $268M since 2023 founding (Series A $68M + Series B $200M = $268M), corroborating $68M Series A figure. See also Sacra profile https://sacra.com/c/base-power/ which independently records Series A as $68M closed May 8, 2024.
+
+[^thr-bp-d1]: TechCrunch, "Base Power raises another $1B to save the grid using backyard batteries," August 3, 2026. Accessed September 2026. https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/ — Names Thrive Capital as a returning Series D participant; Ribbit, Addition, Valor Equity Partners, and JPMorganChase Strategic Investment Group co-led the $1B round at ~$13B post-money valuation.
+[^thr-bp-d2]: Pulse 2.0, "Base Power Raises $1 Billion Series D At $13 Billion Valuation And Launches U.S.-Made Home Battery," August 3, 2026. Accessed September 2026. https://pulse2.com/base-power-raises-1-billion-series-d-at-13-billion-valuation-and-launches-u-s-made-home-battery/ — Independent contemporaneous confirmation of Thrive Capital as a returning participant in the Series D at $13B post-money valuation.

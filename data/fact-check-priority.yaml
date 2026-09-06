@@ -5734,3 +5734,28 @@ priority:
   status: resolved
   resolved: 2026-09-06
   resolution_note: "Fact-spec sweep 2026-09-06: Verified $6M venture round via 3 primary sources: (1) konko.ai company site [^1] (existing — mission, product Kora, customer list including Clínica Vallejo / Urología Avanzada / Centro Médico San Joaquín); (2) AlleyWatch daily 9/2/2026 [^2] (existing — full syndicate confirmed: Hi Ventures lead + LifeX Ventures + SquareOne Capital + GroundUp Ventures + Phoenix Fund; total funding $7.1M; SECOND CO-FOUNDER MICHAEL HADDAD DISCOVERED here); (3) NEW konko.ai/blog/founder-letter — Jean Marc Goguikian's founder letter dated 2026-09-02 [^3] (primary — announces $6M, all 5 investors, 2M+ patient interactions across 90 healthcare institutions and 60 medical specialties in Mexico/Colombia/Costa Rica, 75% autonomous handling, LATAM <40% software penetration thesis, and quote: 'Doctor supply is finite. Demand for health is infinite.'). Profile updates: added Michael Haddad as co-founder to frontmatter; added operational metrics paragraph (2M interactions, 90 institutions, 60 specialties, 3-country footprint, 75% automation); added Goguikian quote to 'What Founders Say'; added [^3] citation. Currency preserved as USD."
+- slug: guardio
+  type: startup
+  reason: "Round monitoring 2026-09-06: Created lean profile for $40M growth round (2026-09-03) at $1.1B valuation led by ION Crossover Partners, with Union Tech Ventures, Vintage Investment Partners, Cerca Partners, Emerge Ventures, and Wiz CEO Assaf Rappaport participating. Sources: PR Newswire release + Axios Pro Rata mention. Total raised $167M. Verify round type (was announced without explicit Series designation)."
+  added: 2026-09-06
+  status: pending
+- slug: diameter-pay
+  type: startup
+  reason: "Round monitoring 2026-09-06: Created lean profile for $10M Series A (2026-09-03) co-led by CMT Digital and Lightspeed Faction, with SixThirty Ventures, Stellar Development Foundation, Tech Council Ventures, Onigiri Capital, and BitRock Capital participating. Founder David Lighton. Source: PR Newswire release. Needs contemporaneous tech-press second source."
+  added: 2026-09-06
+  status: pending
+- slug: resect-ai
+  type: startup
+  reason: "Round monitoring 2026-09-06: Created lean profile for $25M stealth emergence (2026-09-03). CEO Kevin Owens, Chief AI Officer Tim Walton. Investors listed as undisclosed private equity. Source: PR Newswire release. Needs identification of specific investors and round designation."
+  added: 2026-09-06
+  status: pending
+- slug: capacity
+  type: startup
+  reason: "Round monitoring 2026-09-06: Created lean profile for $54M Series E (2026-09-02) led by Kathy Ireland. Founder David Karandish. $100M+ ARR reported June 2026, total raised $159M+. Sole source: PR Newswire release. Needs contemporaneous tech-press second source and additional co-investor identification."
+  added: 2026-09-06
+  status: pending
+- slug: critical-materials-group
+  type: startup
+  reason: "Round monitoring 2026-09-06: Created lean profile for $10.3M seed (2026-09-02) led by Overmatch Ventures, with Victory Six Advisors and Fulcrum Ventures participating. CEO Kevin Capozzoli. Sole source: PR Newswire release. Needs defense-tech press second source."
+  added: 2026-09-06
+  status: pending

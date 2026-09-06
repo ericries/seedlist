@@ -122,6 +122,7 @@ The following table represents verified private market investments by D1 Capital
 | Ualá | Growth (participated, $195M at $3.2B val) | 2026-03-04 | Fintech / Neobank | Active | [^32] |
 | Multiverse | Growth (participated, €60M / $70M at €2.1B val) | 2026-05-15 | EdTech / AI Workforce Training | Active | [^35] |
 | DriveNets | Series D (participated, $410M at $8.5B val) | 2026-06-01 | Networking / AI infrastructure | Active | [^38][^39][^40] |
+| Base Power | Series D (participated, $1B at $13B post-money; Ribbit, Addition, Valor Equity Partners, JPMorganChase SIG co-led; Altimeter, Sands, Coatue, Layer Global, EIP, Thrive, a16z, Lightspeed, Trust Ventures, CapitalG also participated) | 2026-08-03 | Energy Storage / Distributed Grid | Active | [^d1-bp-d1][^d1-bp-d2] |
 
 ## In Their Own Words
 
@@ -197,3 +198,6 @@ No independently sourced founder testimonials found. D1 Capital Partners operate
 [^39]: The SaaS News, "DriveNets Raises $410M Series D," June 2, 2026. Accessed June 2026. https://www.thesaasnews.com/news/drivenets-raises-410m-series-d/ — Independently confirms participating investors included "AMD, Red Dot Capital, Pitango, and D1 Capital Partners" in the Bessemer/Atreides-led $410M Series D.
 
 [^40]: Pulse 2.0, "DriveNets Raises $410 Million Series D To Scale Ethernet Fabric For Large-Scale AI Infrastructure," June 2, 2026. Accessed June 2026. https://pulse2.com/drivenets-raises-410-million-series-d/ — Third independent confirmation of D1 Capital Partners participation as an existing investor in the $410M Series D round bringing DriveNets to $1B total capital raised.
+
+[^d1-bp-d1]: TechCrunch, "Base Power raises another $1B to save the grid using backyard batteries," August 3, 2026. Accessed September 2026. https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/ — Names D1 Capital Partners as a Series D participant; Ribbit, Addition, Valor Equity Partners, and JPMorganChase Strategic Investment Group co-led the $1B round at ~$13B post-money valuation.
+[^d1-bp-d2]: Pulse 2.0, "Base Power Raises $1 Billion Series D At $13 Billion Valuation And Launches U.S.-Made Home Battery," August 3, 2026. Accessed September 2026. https://pulse2.com/base-power-raises-1-billion-series-d-at-13-billion-valuation-and-launches-u-s-made-home-battery/ — Independent contemporaneous confirmation of D1 Capital Partners' Series D participation at $13B post-money valuation.

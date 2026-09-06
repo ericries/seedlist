@@ -6,9 +6,9 @@ last_researched: 2026-03-20
 location: Palo Alto, CA
 name: Ribbit Capital
 last_verified_investment:
-  date: 2026-07-27
-  company: Enigma
-  round: Seed (co-led)
+  date: 2026-08-03
+  company: Base Power
+  round: Series D (co-lead, $1B at $13B valuation)
 sector_focus:
 - fintech
 - insurtech
@@ -127,6 +127,7 @@ The firm emphasizes brand-building as central to its value proposition, stating 
 | Enigma | Seed (co-led with Index Ventures, $71M; Conviction Partners participated) | 2026-07-27 | Robotics / AI / Foundation Models | Active | [^23][^24] |
 | Etched | Growth (participant, $500M round; Stripes led at $5B post-money valuation; Peter Thiel, Positive Sum, Jane Street, Hudson River Trading, Two Sigma, VentureTech Alliance also participated) | 2025-12 | AI Chips / Semiconductors | Active | [^25][^26][^27] |
 | Antora Energy | Series C (new participant, $550M; G2 Venture Partners and Eclipse co-led; Salesforce Ventures, Activate Capital, John Doerr, Westly Group, StepStone Group, Liberty Mutual Strategic Ventures also new; Decarbonization Partners, Impact Science Ventures, Trust Ventures, Breakthrough Energy Ventures, Lowercarbon Capital returning) | 2026-07-30 | Climate / Thermal Batteries / Energy Storage | Active | [^rb-antora1][^rb-antora2][^rb-antora3] |
+| Base Power | Series D (co-lead with Addition, Valor Equity Partners, JPMorganChase Strategic Investment Group; $1B round at $13B post-money valuation; participants include Altimeter, D1 Capital, Sands Capital, Coatue, Layer Global, Energy Impact Partners, Thrive Capital, Andreessen Horowitz, Lightspeed, Trust Ventures, CapitalG) | 2026-08-03 | Energy Storage / Distributed Grid / Cleantech | Active | [^rb-basepower1][^rb-basepower2] |
 
 *This table represents approximately 8% of Ribbit's 164 total investments [^6]. All entries now have verified round stages and years from primary sources. The firm's portfolio likely contains significantly more companies, particularly from Funds IV-X, that could not be independently verified from available sources.*
 
@@ -192,3 +193,6 @@ No independently sourced founder testimonials found. Dedicated searches for port
 [^rb-antora1]: Crunchbase News, "Battery Storage Startup Antora Closes $550M Series C In One Of Year's Largest Cleantech Rounds," July 30, 2026. Accessed August 2026. https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/ — Names Ribbit Capital as a new participant in Antora Energy's $550M Series C on 2026-07-30, co-led by G2 Venture Partners and Eclipse.
 [^rb-antora2]: Energy-Storage.News, "Antora Energy closes US$550 million Series C for thermal batteries," July 30, 2026. Accessed August 2026. https://www.energy-storage.news/antora-energy-closes-us550-million-series-c-to-scale-us-thermal-battery-deployment/ — Independent trade-press confirmation of Ribbit Capital as new investor in the $550M Series C.
 [^rb-antora3]: Pulse 2.0, "Antora Energy Raises $550 Million In Series C Funding Co-Led By G2 Venture Partners And Eclipse," accessed August 2026. https://pulse2.com/antora-energy-raises-550-million-in-series-c-funding-co-led-by-g2-venture-partners-and-eclipse/ — Third independent confirmation of Ribbit Capital in the new-participant list.
+
+[^rb-basepower1]: TechCrunch, "Base Power raises another $1B to save the grid using backyard batteries," August 3, 2026. Accessed September 2026. https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/ — Names Ribbit, Addition, Valor Equity Partners, and JPMorganChase Strategic Investment Group as Series D co-leads at ~$13B post-money valuation.
+[^rb-basepower2]: Pulse 2.0, "Base Power Raises $1 Billion Series D At $13 Billion Valuation And Launches U.S.-Made Home Battery," August 3, 2026. Accessed September 2026. https://pulse2.com/base-power-raises-1-billion-series-d-at-13-billion-valuation-and-launches-u-s-made-home-battery/ — Independent contemporaneous confirmation of Ribbit as co-lead of the $1B Series D; full investor roster and $2.5B+ total raised.
