@@ -203,7 +203,7 @@ The following table includes a16z investments verified through the firm's own po
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Gimlet Labs | Series B (led, $300M at $3B post-money) | 2026-09-04 | AI Infrastructure / Inference | Private [^gimlet-a1][^gimlet-a2][^gimlet-a3] |
-| Mariana Minerals | Series B (participated; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private [^mm-a16z] |
+| Mariana Minerals | Series B (participated; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private [^mm-a16z][^mm-a16z-prn][^mm-a16z-fortune] |
 | Base Power | Series D (participated, $1B round at $13B post-money; Ribbit, Addition, Valor Equity Partners, JPMorganChase SIG co-led; Altimeter, D1, Sands, Coatue, Layer Global, EIP, Thrive, Lightspeed, Trust Ventures, CapitalG also participated) | 2026-08-03 | Energy Storage / Cleantech | Private [^a16z-bp-d1][^a16z-bp-d2] |
 | Facebook (Meta) | Growth | 2010 | Consumer / Social | Public (IPO 2012) [^1][^10] |
 | Instagram | Early | 2010 | Consumer / Social | Acquired by Facebook (2012) [^10] |
@@ -379,6 +379,8 @@ The following table includes a16z investments verified through the firm's own po
 ## Sources
 
 [^mm-a16z]: Andreessen Horowitz, "Investing in Mariana Minerals," July 21, 2025. Accessed August 2026. https://a16z.com/announcement/investing-in-mariana-minerals/
+[^mm-a16z-prn]: PR Newswire, "Mariana Minerals Raises $310 Million Series B Led by Khosla Ventures to Accelerate Critical Minerals Production," August 3, 2026. Accessed September 2026. https://www.prnewswire.com/news-releases/mariana-minerals-raises-310-million-series-b-led-by-khosla-ventures-to-accelerate-critical-minerals-production-302840889.html
+[^mm-a16z-fortune]: Fortune, "Khosla leads $310 million raise for unicorn mining startup Mariana Minerals," August 3, 2026. Accessed September 2026. https://fortune.com/2026/08/03/power-ai-khosla-a16z-bet-startup-reinvent-mining-mariana-minerals/
 
 [^1]: "Andreessen Horowitz." Wikipedia. https://en.wikipedia.org/wiki/Andreessen_Horowitz. Accessed March 2026.
 

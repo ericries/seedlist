@@ -53,11 +53,21 @@ The Series B valued Mariana Minerals at $1.5 billion; total capital raised acros
 
 ## What Investors Say
 
-No independently sourced investor commentary beyond press-release attribution at this time.
+> "Critical minerals are the materials that decide whether America builds its own future or keeps depending on China to build it instead."
+>
+> — Vinod Khosla, Founder of Khosla Ventures, quoted in Mariana Minerals' Series B announcement [^1]
+
+> "Data centers, chips, the grid, robots, EVs, defense systems: it all starts with copper and other critical minerals."
+>
+> — Travis Kalanick, quoted (via email) in Fortune coverage of the Series B [^2]
 
 ## What Founders Say
 
-> "We're architecting our software to be as generalizable as possible for all the metals the modern economy depends on."
+> "The critical minerals race is an execution problem, and we've spent the last two years proving that better software changes the math. This additional capital lets us move from proving the model to scaling it."
+>
+> — Turner Caldwell, Co-Founder and CEO of Mariana Minerals, quoted in the company's Series B press release [^1]
+
+> "We're entering a metals-driven economy. Lithium and copper are going to be core, but our mandate needs to be broader than that."
 >
 > — Turner Caldwell, Co-Founder and CEO of Mariana Minerals, quoted in Fortune coverage of the Series B [^2]
 

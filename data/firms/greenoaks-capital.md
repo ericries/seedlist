@@ -85,7 +85,7 @@ Based on 35 verified investments with sufficient detail for analysis:
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Airbound | Series A (led, $37M) | 2026-08-24 | Drones / Logistics | Active | [^ab-go1][^ab-go2][^ab-go3] |
-| Mariana Minerals | Series B (participant; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private | [^mm-go] |
+| Mariana Minerals | Series B (participant; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private | [^mm-go][^mm-go-fortune] |
 | Coupang | Growth | 2014 | E-commerce | Public (NYSE: CPNG) | [^11] |
 | Flipkart | Growth | 2014 | E-commerce | Acquired (Walmart) | [^37] |
 | OYO | Series A | 2014 | Hospitality | Active | [^16] |
@@ -151,6 +151,7 @@ No additional independently sourced founder testimonials from portfolio company 
 ## Sources
 
 [^mm-go]: PR Newswire, "Mariana Minerals Raises $310 Million Series B Led by Khosla Ventures to Accelerate Critical Minerals Production," August 3, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/mariana-minerals-raises-310-million-series-b-led-by-khosla-ventures-to-accelerate-critical-minerals-production-302840889.html
+[^mm-go-fortune]: Fortune, "Khosla leads $310 million raise for unicorn mining startup Mariana Minerals," August 3, 2026. Accessed September 2026. https://fortune.com/2026/08/03/power-ai-khosla-a16z-bet-startup-reinvent-mining-mariana-minerals/
 
 [^ab-go1]: TechCrunch, "India's Airbound bags $37M to take on trucks with rocket-like drones," August 24, 2026. Confirms Greenoaks led Airbound's $37M Series A. Accessed August 2026. https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/
 

@@ -4604,14 +4604,23 @@ priority:
   type: firm
   reason: participated in Mariana Minerals Series B (2026-08-03), $310M
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-09-06'
+  resolution_note: 'Fact-spec sweep 2026-09-06: Verified a16z participation in Mariana Minerals $310M Series B on 2026-08-03 (Khosla Ventures lead, $1.5B valuation) via 3 independent primary sources — (1) a16z investment announcement [^mm-a16z] (investor-page primary), (2) PR Newswire company press release [^mm-a16z-prn] (company primary; confirmed Turner Caldwell CEO quote verbatim, Vinod Khosla quote verbatim, full participant list), (3) Fortune contemporaneous tech press [^mm-a16z-fortune] (independent tier-1 press; confirmed $400M cumulative raise, $1.5B unicorn valuation, Travis Kalanick investor quote). Added PR Newswire and Fortune citations to a16z portfolio row for triangulation (row previously had only a16z investor-page citation). Also updated mariana-minerals.md ''What Investors Say'' with verbatim Khosla and Kalanick quotes, and added second Caldwell quote from company press release. No round detail changes needed — 2026-08-03 date, $310M amount, Khosla lead all reconfirmed across three primary sources.'
 - slug: breakthrough-energy-ventures
   type: firm
   reason: participated in Mariana Minerals Series B (2026-08-03), $310M
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-09-06'
+  resolution_note: 'Fact-spec sweep 2026-09-06: Verified BEV participation in Mariana Minerals $310M Series B on 2026-08-03 (Khosla Ventures lead, $1.5B valuation) via 3 independent primary sources — (1) PR Newswire company press release [^mm-bev] (company primary; full participant list including BEV), (2) Fortune contemporaneous tech press [^mm-bev-fortune] (independent tier-1 press), (3) a16z investment announcement (co-investor primary). Added Fortune citation to BEV portfolio row for triangulation (row previously had only PR Newswire citation). No round detail changes needed — 2026-08-03 date, $310M amount, Khosla lead all reconfirmed across three primary sources.'
 - slug: greenoaks-capital
   type: firm
   reason: participated in Mariana Minerals Series B (2026-08-03), $310M
   added: 2026-08-03
+  status: resolved
+  resolved: '2026-09-06'
+  resolution_note: 'Fact-spec sweep 2026-09-06: Verified Greenoaks participation in Mariana Minerals $310M Series B on 2026-08-03 (Khosla Ventures lead, $1.5B valuation) via 3 independent primary sources — (1) PR Newswire company press release [^mm-go] (company primary; full participant list including Greenoaks), (2) Fortune contemporaneous tech press [^mm-go-fortune] (independent tier-1 press), (3) a16z investment announcement (co-investor primary; confirmed Greenoaks named alongside a16z). Added Fortune citation to Greenoaks portfolio row for triangulation (row previously had only PR Newswire citation). No round detail changes needed — 2026-08-03 date, $310M amount, Khosla lead all reconfirmed across three primary sources.'
 - slug: time-ventures
   type: firm
   reason: led June AI Pre-Seed (2026-08-03), $20M
