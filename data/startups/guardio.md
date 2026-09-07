@@ -34,7 +34,11 @@ Guardio is a Tel Aviv–based consumer cybersecurity company that provides perso
 
 ## What Investors Say
 
-No independently sourced investor commentary on the round has been located as of the profile date.
+> "The results speak for themselves: four consecutive years of triple-digit growth, and >$150 million in ARR."
+> — Gilad Shany, Managing Partner, ION Crossover Partners [^1]
+
+> "I'm thrilled to back this team as they make the world a bit safer."
+> — Assaf Rappaport, Co-Founder & CEO, Wiz [^1]
 
 ## What Founders Say
 
