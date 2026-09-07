@@ -20,7 +20,7 @@ last_researched: 2026-09-05
 
 Yuma Energy is a Bengaluru-based battery-swapping infrastructure company for electric two- and three-wheelers, spun out from Yulu in early 2023 and led by Managing Director Muthu Subramanian [^1][^2]. The company designs and manufactures its own battery packs (Chennai) and charging cabinets (Bengaluru), and operates 400+ swapping stations with 2,500+ charging units across 18 Indian cities. Yuma has processed more than 60 million battery swaps to date with approximately 100,000 batteries deployed across the network, and reported ₹1 billion (~$10.5M) in FY2026 revenue [^1].
 
-On August 31, 2026, TechCrunch reported that Canada-based auto supplier Magna International had increased its equity stake in Yuma Energy via a $35 million follow-on investment, taking Magna's ownership beyond 51% and diluting the stake held by Yulu, Yuma's original parent [^1]. AlleyWatch's daily funding report the same day also listed Yuma among noteworthy rounds of the day [^2]. Reporting framed the follow-on as a strategic doubling-down on battery swapping for India's gig-delivery two- and three-wheeler market [^1].
+On August 31, 2026, TechCrunch reported that Canada-based auto supplier Magna International had increased its equity stake in Yuma Energy via a $35 million follow-on investment, taking Magna's ownership beyond its pre-round 51% and further diluting the stake held by Yulu, Yuma's original parent — bringing Magna's total invested capital in Yuma to approximately $87 million (an initial ~$52 million joint-venture commitment plus the new $35 million) [^1]. Subramanian declined to disclose the new post-round ownership split [^1]. AlleyWatch's daily funding report the same day also listed Yuma among noteworthy rounds of the day [^2]. Reporting framed the follow-on as a strategic doubling-down on battery swapping for India's gig-delivery two- and three-wheeler market [^1].
 
 ## Funding History
 
@@ -34,7 +34,9 @@ No independently sourced investor commentary on the round has been located as of
 
 ## What Founders Say
 
-No independently sourced founder quotes on the round have been located as of the profile date.
+Muthu Subramanian, Managing Director of Yuma Energy, on the economics of the Indian battery-swapping market for gig workers, quoted in TechCrunch's August 31, 2026 report on the round: "With Indian gig workers' high runtime on a daily basis, an EV makes absolute sense in terms of cost of ownership. Uptime is important." [^1]
+
+On the capital intensity of the business: "It's a capital-intensive business, and the unit economics will play out at scale." [^1]
 
 ## Sources
 
