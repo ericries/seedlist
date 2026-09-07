@@ -19,7 +19,7 @@ last_researched: 2026-09-06
 
 ## About
 
-TabaPay is a money-movement infrastructure platform serving fintechs, lenders, and high-growth platforms, enabling instant payments and payouts across card and bank rails through a single API [^1]. The company is headquartered in Palo Alto, California, and is positioned as the fifth-largest card-not-present processor by transaction count in the U.S. [^1]. Alongside the September 2026 financing, TabaPay announced a planned acquisition of Transact Bank, N.A., which will be renamed TabaBank, N.A., and operate under a new holding company called TabaHoldings, Inc. [^1] [^2].
+TabaPay is a money-movement infrastructure platform serving fintechs, lenders, and high-growth platforms, enabling instant payments and payouts across card and bank rails through a single API [^1]. The company is headquartered in Palo Alto, California, and is positioned as the fifth-largest card-not-present processor by transaction count in the U.S. [^1]. Alongside the September 2, 2026 financing, TabaPay announced a planned acquisition of Denver-based Transact Bank, N.A. (OCC-chartered, FDIC-insured), which will be renamed TabaBank, N.A., and operate under a new holding company called TabaHoldings, Inc., with closing expected in Q4 2026 subject to regulatory approval [^1] [^2] [^3]. As part of the financing, FTV Capital partner Robert Anderson joined TabaPay's board of directors [^1].
 
 ## Funding History
 
@@ -29,11 +29,11 @@ TabaPay is a money-movement infrastructure platform serving fintechs, lenders, a
 
 ## What Investors Say
 
-No independently sourced investor quotes available at this time.
+"TabaPay stands out for its scale, reliability, and profitable growth." — Robert Anderson, Partner, FTV Capital (September 2, 2026 press release) [^1]
 
 ## What Founders Say
 
-No independently sourced founder quotes available at this time.
+"The planned launch of TabaBank will bring payments and banking capabilities under one roof, offering our clients a more integrated experience." — Rodney Robinson, Co-Founder and CEO, TabaPay (September 2, 2026 press release) [^1]
 
 ## Sources
 

@@ -30495,7 +30495,8 @@ vague_facts:
   line: '| Warp | n/a | 2026 | HR Tech / Payroll / AI / Fintech | Private (Series B $60M 2026-06-25, Battery Ventures-led; YC par'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-07: Updated Stage column from "n/a" to "Series B follow-on" and Year column from "2026" to "2026-06-25" to reflect YC''s participation vehicle in Warp''s $60M Series B (Battery Ventures-led). Sources already present ([^61] Warp company announcement, [^62] SiliconANGLE, [^63] Axios Pro) all confirm YC participated in the Series B alongside Peak XV, Sound Ventures, and HOF Capital. Cross-checked against the Warp startup profile (data/startups/warp.md) which already lists YC in the Series B funding row. No new citations needed.'
 - profile: firms/y-combinator
   profile_name: Y Combinator
   company: Singularity
@@ -30505,7 +30506,8 @@ vague_facts:
   line: '| Singularity | n/a | 2026 | Defense / Aerospace / Deep Tech | Private (Series A $80M at $400M post-money 2026-07-14, Kh'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-07: Updated Stage column from "n/a" to "Series A follow-on" and Year column from "2026" to "2026-07-14" to reflect YC''s participation vehicle in Singularity''s $80M Series A at $400M post-money (Khosla Ventures + Felicis co-led). Sources already present ([^73] Business Wire company press release, [^74] SiliconANGLE, [^75] Axios) all confirm YC participated in the Series A alongside AE Ventures, NEA, Long Journey, Harpoon, Menlo Ventures, Decisive Point, New Vista, Sunflower, and Soma. Cross-checked against the Singularity startup profile (data/startups/singularity-defense.md) which already lists YC in the Series A funding row. No new citations needed.'
 - profile: investors/0xsmac
   profile_name: 0xSmac
   company: The Graph
