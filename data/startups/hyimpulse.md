@@ -18,13 +18,13 @@ last_researched: 2026-09-07
 
 ## About
 
-HyImpulse is a German launch-services company developing hybrid-propulsion rockets — combining paraffin-based solid fuel with liquid oxygen — for suborbital and orbital missions serving commercial, research, and defence customers [^1][^2]. Its vehicle lineup includes the SR75 sounding rocket and the SL1 small-satellite orbital launcher, with a second SR75 flight planned from SaxaVord Spaceport in Scotland [^2][^3]. On September 2, 2026 the company announced a Series A extension of more than €50 million co-led by JOIN Capital and Ace Capital Partners, bringing total equity raised in the round above €65 million; combined equity and public funding now exceeds €125 million [^1][^2][^3].
+HyImpulse is a German launch-services company developing hybrid-propulsion rockets — combining paraffin-based solid fuel with liquid oxygen — for suborbital and orbital missions serving commercial, research, and defence customers [^1][^2][^4]. Its vehicle lineup includes the SR75 sounding rocket and the SL1 small-satellite orbital launcher, with a second SR75 flight planned from SaxaVord Spaceport in Scotland [^2][^3][^4]. On September 2, 2026 the company announced a Series A extension of more than €50 million (approximately $57.9M) co-led by JOIN Capital and Ace Capital Partners, bringing total equity raised in the round above €65 million; combined equity and public funding now exceeds €125 million [^1][^2][^3][^4]. Once the SL1 vehicle is online, HyImpulse expects launch costs to begin at €10,000 ($11,585) per kg and fall over time [^4].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-02 | Series A Extension | €50M+ | JOIN Capital, Ace Capital Partners | North Ventures, BW-Capital, Bayern Kapital, German Aerospace Center (DLR), Campus Founders Ventures [^1][^2][^3] |
+| 2026-09-02 | Series A Extension | €50M+ | JOIN Capital, Ace Capital Partners | North Ventures, BW-Capital, Bayern Kapital, German Aerospace Center (DLR), Campus Founders Ventures [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -39,3 +39,4 @@ Christian Schmierer (CEO & Co-Founder): "Europe needs sovereign, responsive and 
 [^1]: tech.eu, "HyImpulse secures €50M+ to scale suborbital and orbital launch services," September 2, 2026. Accessed September 2026. https://tech.eu/2026/09/02/hyimpulse-secures-eur50m-to-scale-suborbital-and-orbital-launch-services/
 [^2]: Starpath Global, "HyImpulse Raises More Than €50 Million Ahead of Second SR75 Launch," September 2026. Accessed September 2026. https://starpath.global/news/hyimpulse-raises-more-than-e50-million-ahead-of-second-sr75-launch/
 [^3]: EU-Startups, "German SpaceTech HyImpulse secures over €50 million to accelerate Europe's sovereign launch capabilities," September 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/german-spacetech-hyimpulse-secures-over-e50-million-to-accelerate-europes-sovereign-launch-capabilities/
+[^4]: Payload Space, "PLD Space, HyImpulse close major extension rounds," September 3, 2026. Accessed September 7, 2026. https://payloadspace.com/pld-space-hyimpulse-close-major-extension-rounds/
