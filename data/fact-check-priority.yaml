@@ -5903,3 +5903,8 @@ priority:
   reason: 'Round monitoring 2026-09-06: Created lean profile for $10.3M seed (2026-09-02) led by Overmatch Ventures, with Victory Six Advisors and Fulcrum Ventures participating. CEO Kevin Capozzoli. Sole source: PR Newswire release. Needs defense-tech press second source.'
   added: 2026-09-06
   status: pending
+- slug: tabapay
+  type: startup
+  reason: 'Round monitoring 2026-09-06: Created profile for $155M strategic growth financing (2026-09-02) led by FTV Capital. Verified via FTV Capital press release, FTV news listing, and Crunchbase News weekly roundup. No co-investors disclosed. Rodney Robinson CEO. FTV Capital lacks firm profile — added to queue.'
+  added: 2026-09-06
+  status: pending

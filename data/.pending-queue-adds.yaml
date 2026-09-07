@@ -66,3 +66,8 @@
   source: "co-founder of David; participated in David $250M Series B 2026-09-02 as investor; RXBAR co-founder"
   discovered_from: david-protein
   priority: high
+- name: "FTV Capital"
+  type: firm
+  source: "led TabaPay $155M strategic growth financing 2026-09-02"
+  discovered_from: tabapay
+  priority: normal
