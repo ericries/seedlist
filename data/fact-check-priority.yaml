@@ -5925,3 +5925,7 @@ priority:
   status: resolved
   resolved: 2026-09-07
   resolution_note: 'Fact-spec sweep 2026-09-07: Fetched FTV Capital press release [^1] and extracted two verbatim quotes now added to profile — Rodney Robinson (CEO): "The planned launch of TabaBank will bring payments and banking capabilities under one roof, offering our clients a more integrated experience." and Robert Anderson (FTV Capital Partner): "TabaPay stands out for its scale, reliability, and profitable growth." Also added: Robert Anderson joined TabaPay''s board of directors; Transact Bank is Denver-based, OCC-chartered, FDIC-insured; TabaBank/TabaHoldings expected to close Q4 2026 subject to regulatory approval. Cross-verified date (2026-09-02) and amount ($155M) via Crunchbase News weekly roundup [^3]. Currency preserved as USD. NOTE: Strict 3-independent-publisher triangulation is one source short — [^1] (FTV press release) and [^2] (FTV news listing) are same-publisher; [^3] (Crunchbase News) is an independent aggregator. Attempted tier-1 tech-press verification via Finextra (403), PYMNTS (404), Payments Dive (404), FinTech Futures (403), Finsmes (403), FF News (empty article body), Banking Dive (404), American Banker (404), and Denver Business Journal (blocked); WebSearch budget exhausted (200/200) so no new leads could be surfaced. Retry recommended when WebSearch budget refreshes.'
+- slug: hyimpulse
+  type: startup
+  reason: "new Series A extension announced 2026-09-02 (€50M+, JOIN Capital / Ace Capital Partners)"
+  added: 2026-09-07
