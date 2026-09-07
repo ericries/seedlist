@@ -20,6 +20,42 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Molten Ventures raises €203 million to back UK and European growth-stage
+    tech companies
+  url: https://www.eu-startups.com/2026/09/molten-ventures-raises-e203-million-to-back-uk-and-european-growth-stage-tech-companies/
+  source: eu-startups
+  date_found: '2026-09-07'
+  parsed_company: Molten Ventures
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Stockholm-based Fluencify raises €3.7 million to scale its end-to-end creator
+    marketing platform
+  url: https://www.eu-startups.com/2026/09/stockholm-based-fluencify-raises-e3-7-million-to-scale-its-end-to-end-creator-marketing-platform/
+  source: eu-startups
+  date_found: '2026-09-07'
+  parsed_company: Stockholm-based Fluencify
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Swiss startup Jaipur Robotics raises €4.3 million to expand its AI operating
+    system across more waste-to-energy plants
+  url: https://www.eu-startups.com/2026/09/swiss-startup-jaipur-robotics-raises-e4-3-million-to-expand-its-ai-operating-system-across-more-waste-to-energy-and-industrial-plants/
+  source: eu-startups
+  date_found: '2026-09-07'
+  parsed_company: Swiss startup Jaipur Robotics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Milan-based Cato raises €6 million to help companies find and win public
+    tenders with AI
+  url: https://www.eu-startups.com/2026/09/milan-based-cato-raises-e6-million-to-help-companies-find-and-win-public-tenders-with-ai/
+  source: eu-startups
+  date_found: '2026-09-07'
+  parsed_company: Milan-based Cato
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Superluminal Medicines raised $60M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
