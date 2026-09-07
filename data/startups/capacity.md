@@ -20,7 +20,7 @@ last_researched: 2026-09-06
 
 ## About
 
-Capacity is an agentic support automation platform founded in 2017 by David Karandish that unifies AI agents, automation, and knowledge orchestration for enterprise customer experience [^1]. On September 2, 2026 the company announced a $54 million Series E led by Kathy Ireland, bringing total capital raised to over $159 million [^1]. In June 2026 Capacity had already announced it crossed $100 million in ARR — "with a fraction of the funding raised by other agentic CX companies" — and reported serving 20,000 customers [^2]. The company ranked No. 432 on the 2026 Inc. 5000 list of fastest-growing private U.S. companies [^1]. Proceeds from the Series E will fund product development, go-to-market and customer success expansion, strategic partnerships, and international expansion [^1].
+Capacity is an agentic support automation platform founded in 2017 by David Karandish that unifies AI agents, automation, and knowledge orchestration for enterprise customer experience [^1]. On September 2, 2026 the company announced a $54 million Series E led by Kathy Ireland, bringing total capital raised to over $159 million [^1]. In June 2026 Capacity had already announced it crossed $100 million in ARR — "with a fraction of the funding raised by other agentic CX companies" — and reported serving 20,000 customers [^2]. The company ranked No. 432 on the 2026 Inc. 5000 list of fastest-growing private U.S. companies [^1], and CEO David Karandish discussed the $100M milestone publicly in an August 2026 interview [^3]. Proceeds from the Series E will fund product development, go-to-market and customer success expansion, strategic partnerships, and international expansion [^1].
 
 ## Funding History
 
