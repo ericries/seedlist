@@ -39,6 +39,26 @@ firms:
 - round: series-c
   slug: lightspeed-venture-partners
   year: 2025
+- date: 2026-09-08
+  round: series-d
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-09-08
+  round: series-d
+  slug: general-catalyst
+  year: 2026
+- date: 2026-09-08
+  round: series-d
+  slug: index-ventures
+  year: 2026
+- date: 2026-09-08
+  round: series-d
+  slug: dst-global
+  year: 2026
+- date: 2026-09-08
+  round: series-d
+  slug: lightspeed-venture-partners
+  year: 2026
 - round: Early stage
   slug: independent
   year: 2023
@@ -85,7 +105,7 @@ investors:
 - round: Co-Founder (Seed onwards)
   slug: guillaume-lample
   year: 2023
-last_researched: 2026-03-20
+last_researched: 2026-09-08
 location: Paris, France
 name: Mistral AI
 sector:
@@ -93,10 +113,10 @@ sector:
 - foundation-models
 - enterprise-ai
 slug: mistral-ai
-stage_latest: Series C
+stage_latest: Series D
 status: published
 status_company: active
-total_raised: $2.8B
+total_raised: ~€5.8B
 type: startup
 website: https://mistral.ai
 ---
@@ -113,6 +133,7 @@ Mistral AI is a Paris-based foundation model company founded in April 2023 by Ar
 | 2023-12-11 | Series A | €385M ($415M, ~$2B post-money) | Andreessen Horowitz | Lightspeed, Salesforce, BNP Paribas, CMA-CGM, General Catalyst, Conviction, Elad Gil [^3] |
 | 2024-06-11 | Series B | €600M ($640M, $6B post-money) | General Catalyst | Lightspeed, Andreessen Horowitz, Nvidia, Samsung, Salesforce Ventures, BNP Paribas, Bpifrance, Cisco, IBM, SV Angel [^4] |
 | Sep 2025 | Series C | $2B (€1.7B) | ASML | DST Global, Andreessen Horowitz, Bpifrance, General Catalyst, Index Ventures, Lightspeed, Nvidia [^2] |
+| 2026-09-08 | Series D | €3B (post-money >€21B) | Samsung Electronics | Scaleup Europe Fund/EQT, PSG Equity, Advent, BlackRock, Grand Duchy of Luxembourg, Andreessen Horowitz, ASML, Belfius, BNP Paribas CIB, Bpifrance, Carmignac, DST Global, Eurazeo, General Catalyst, Headline, Hillspire, Index Ventures, Korelya Capital, Lightspeed, Nvidia, Phoenix Court Solar, Salesforce Ventures [^6][^7][^8] |
 
 ## What Investors Say
 
@@ -131,3 +152,6 @@ Arthur Mensch on company independence: "We are not for sale. We left big US tech
 [^3]: TechCrunch, "Mistral AI, a Paris-based OpenAI rival, closed its $415 million funding round," December 11, 2023. https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/
 [^4]: TechCrunch, "Paris-based AI startup Mistral AI raises $640M," June 11, 2024. https://techcrunch.com/2024/06/11/paris-based-ai-startup-mistral-ai-raises-640-million/
 [^5]: Fortune, "French AI champion Mistral isn't for sale, CEO Mensch says," January 21, 2025. https://fortune.com/europe/2025/01/21/french-ai-champion-mistral-isnt-for-sale-ceo-mensch-davos/
+[^6]: Mistral AI, "Mistral makes sovereign, open-weight AI the technology frontier," September 8, 2026. Accessed September 2026. https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
+[^7]: TechStartups, "Startup Funding News Today, September 8, 2026: Mistral AI, Stoke Space, ARC Ride & More," September 8, 2026. Accessed September 2026. https://techstartups.com/2026/09/08/startup-funding-news-today-september-8-2026/
+[^8]: EU-Startups, "French AI company Mistral raises €3 billion Series D led by Samsung at over €21 billion valuation," September 8, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/french-ai-company-mistral-raises-e3-billion-series-d-led-by-samsung-at-over-e21-billion-valuation/
