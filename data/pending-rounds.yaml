@@ -54,6 +54,49 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Mistral raises €3B as sovereign AI becomes big business
+  url: https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/
+  source: techcrunch
+  date_found: '2026-09-08'
+  parsed_company: Mistral
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Nuclear startup Bluecore Energy raises $50M seed round, just two months after
+    launch
+  url: https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/
+  source: techcrunch
+  date_found: '2026-09-08'
+  parsed_company: Nuclear startup Bluecore Energy
+  parsed_amount: $50M
+  parsed_round: Seed
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 9/8/26'
+  url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-8-26/
+  source: alleywatch
+  date_found: '2026-09-08'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: The Exploration Company secures €387 million to accelerate development of
+    reusable high-thrust rocket engine
+  url: https://www.eu-startups.com/2026/09/the-exploration-company-secures-e387-million-to-accelerate-development-of-reusable-high-thrust-rocket-engine/
+  source: eu-startups
+  date_found: '2026-09-08'
+  parsed_company: The Exploration Company
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: French AgTech startup Tellia raises €4.3 million to scale voice-enabled data
+    capture
+  url: https://www.eu-startups.com/2026/09/french-agtech-startup-tellia-raises-e4-3-million-to-scale-voice-enabled-data-capture/
+  source: eu-startups
+  date_found: '2026-09-08'
+  parsed_company: French AgTech startup Tellia
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Molten Ventures raises €203 million to back UK and European growth-stage
     tech companies
   url: https://www.eu-startups.com/2026/09/molten-ventures-raises-e203-million-to-back-uk-and-european-growth-stage-tech-companies/
@@ -803,50 +846,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-08-28'
   parsed_company: Biomaterials company Ponda
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Maastricht-based Clementine raises €1.7 million to scale its AI-powered hearing
-    care platform
-  url: https://www.eu-startups.com/2026/08/maastricht-based-clementine-raises-e1-7-million-to-scale-its-ai-powered-hearing-care-platform/
-  source: eu-startups
-  date_found: '2026-08-28'
-  parsed_company: Maastricht-based Clementine
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Brussels-based Motion raises €1.7 million to tackle Europe’s “robot adoption
-    problem”
-  url: https://www.eu-startups.com/2026/08/brussels-based-motion-raises-e1-7-million-to-tackle-europes-robot-adoption-problem/
-  source: eu-startups
-  date_found: '2026-08-27'
-  parsed_company: Brussels-based Motion
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Paris-based ColibriTD raises €4 million to scale its quantum-powered multiphysics
-    simulation platform
-  url: https://www.eu-startups.com/2026/08/paris-based-colibritd-raises-e4-million-to-scale-its-quantum-powered-multiphysics-simulation-platform/
-  source: eu-startups
-  date_found: '2026-08-27'
-  parsed_company: Paris-based ColibriTD
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Fashion startup Atorie raises $9.5M to bring consumers luxury goods without
-    the markup
-  url: https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
-  source: techcrunch
-  date_found: '2026-08-27'
-  parsed_company: Fashion startup Atorie
-  parsed_amount: $9.5M
-  parsed_round: null
-  status: pending
-- title: Tackling STI testing, Readily Diagnostics raises €811k for affordable alternative
-  url: https://www.eu-startups.com/2026/08/tackling-sti-testing-readily-diagnostics-raises-e811k-for-affordable-alternative/
-  source: eu-startups
-  date_found: '2026-08-27'
-  parsed_company: Tackling STI testing, Readily Diagnostics
   parsed_amount: null
   parsed_round: null
   status: pending
