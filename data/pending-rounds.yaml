@@ -64,6 +64,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'Trident Digital Tech Holdings (Nasdaq: TDTH) Closes US$8 Million Private
+    Placement to Fund Execution of Its Digital Infrastructure and Enterprise AI Strategy'
+  url: https://www.globenewswire.com/news-release/2026/09/09/3359043/0/en/trident-digital-tech-holdings-nasdaq-tdth-closes-us-8-million-private-placement-to-fund-execution-of-its-digital-infrastructure-and-enterprise-ai-strategy.html
+  source: globenewswire
+  date_found: '2026-09-09'
+  parsed_company: 'Trident Digital Tech Holdings (Nasdaq: TDTH)'
+  parsed_amount: $8M
+  parsed_round: null
+  status: pending
+- title: Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can
+    recap your day
+  url: https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/
+  source: techcrunch
+  date_found: '2026-09-09'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/9/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-9-2026/
+  source: alleywatch
+  date_found: '2026-09-09'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Stoke Space raises another billion to rival SpaceX at re-flying rockets
   url: https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/
   source: techcrunch
@@ -822,29 +848,5 @@ pending_rounds:
   date_found: '2026-08-31'
   parsed_company: b in cash. Merida had
   parsed_amount: $154M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 8/31/2026'
-  url: https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-31-2026/
-  source: alleywatch
-  date_found: '2026-08-31'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Inflection Point Acquisition VIII raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-30'
-  parsed_company: Inflection Point Acquisition VIII
-  parsed_amount: $250M
-  parsed_round: null
-  status: pending
-- title: Andreessen Horowitz raised $1.1B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-30'
-  parsed_company: Andreessen Horowitz
-  parsed_amount: $1.1B
   parsed_round: null
   status: pending
