@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce
+    talks
+  url: https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/
+  source: techcrunch
+  date_found: '2026-09-10'
+  parsed_company: null
+  parsed_amount: $1.5B
+  parsed_round: null
+  status: pending
 - title: CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks
   url: https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/
   source: techcrunch
@@ -840,13 +849,5 @@ pending_rounds:
   date_found: '2026-08-31'
   parsed_company: and has
   parsed_amount: $300M
-  parsed_round: null
-  status: pending
-- title: b in cash. Merida had raised $154M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-31'
-  parsed_company: b in cash. Merida had
-  parsed_amount: $154M
   parsed_round: null
   status: pending
