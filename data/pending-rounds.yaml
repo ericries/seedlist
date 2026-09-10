@@ -29,6 +29,33 @@ pending_rounds:
   parsed_amount: $1.5B
   parsed_round: null
   status: pending
+- title: Italy’s Biorsaf raises €5.2 million and acquires Cooki to build AI-powered
+    food RegTech platform
+  url: https://www.eu-startups.com/2026/09/italys-biorsaf-raises-e5-2-million-and-acquires-cooki-to-build-ai-powered-food-regtech-platform/
+  source: eu-startups
+  date_found: '2026-09-10'
+  parsed_company: Italy’s Biorsaf
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Milan-based Bynario raises €2.1 million pre-Seed after AI research exposed
+    serious Apple vulnerabilities
+  url: https://www.eu-startups.com/2026/09/milan-based-bynario-raises-e2-1-million-pre-seed-after-ai-research-exposed-serious-apple-vulnerabilities/
+  source: eu-startups
+  date_found: '2026-09-10'
+  parsed_company: Milan-based Bynario
+  parsed_amount: null
+  parsed_round: Pre-Seed
+  status: pending
+- title: New German AI research lab Grubel raises €3 million to build systems that
+    adapt to individual legal cases
+  url: https://www.eu-startups.com/2026/09/new-german-ai-research-lab-grubel-raises-e3-million-to-build-systems-that-adapt-to-individual-legal-cases/
+  source: eu-startups
+  date_found: '2026-09-10'
+  parsed_company: New German AI research lab Grubel
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks
   url: https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/
   source: techcrunch
@@ -824,30 +851,5 @@ pending_rounds:
   date_found: '2026-08-31'
   parsed_company: Harvard Law dropout
   parsed_amount: $6M
-  parsed_round: null
-  status: pending
-- title: Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save
-    Bolt
-  url: https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/
-  source: techcrunch
-  date_found: '2026-08-31'
-  parsed_company: null
-  parsed_amount: $27M
-  parsed_round: Bridge
-  status: pending
-- title: TrustedRouter raised $1.25M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-31'
-  parsed_company: TrustedRouter
-  parsed_amount: $1.25M
-  parsed_round: null
-  status: pending
-- title: and has raised $300M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-08-31'
-  parsed_company: and has
-  parsed_amount: $300M
   parsed_round: null
   status: pending
