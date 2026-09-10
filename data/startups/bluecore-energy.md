@@ -3,6 +3,10 @@ firms:
 - round: Pre-Seed
   slug: ripple
   year: 2026
+- date: 2026-09-08
+  round: seed
+  slug: harlem-capital
+  year: 2026
 founded: 2025
 founders:
 - name: Kofi Asante
@@ -12,8 +16,16 @@ investors:
   round: pre-seed
   slug: chris-larsen
   year: 2026
-last_researched: 2026-07-21
-location: United States
+- date: 2026-09-08
+  round: seed
+  slug: chris-larsen
+  year: 2026
+last_researched: 2026-09-10
+last_verified_investment:
+  date: 2026-09-08
+  company: "Bluecore Energy"
+  round: "Seed"
+location: Long Beach, California
 name: Bluecore Energy
 sector:
 - energy
@@ -25,17 +37,17 @@ sector:
 - maritime
 - infrastructure
 slug: bluecore-energy
-stage_latest: Pre-Seed
+stage_latest: Seed
 status: published
 status_company: active
-total_raised: $10M
+total_raised: $60M
 type: startup
 website: https://bluecore.energy
 ---
 
 ## About
 
-Bluecore Energy is a maritime nuclear energy startup developing small modular reactors (SMRs) mounted on floating barges to supply clean electricity to ports and adjacent infrastructure such as data centers [^1]. The company's water-cooled reactor design draws on nuclear technology that has been operating for more than 70 years, with each floating unit able to be transported by ship to new locations and connected to onshore grids through subsea cables; a single unit is sized to power roughly 15,000 homes or a major port operation [^1]. Bluecore was founded approximately seven months before its emergence from stealth by Kofi Asante, an Uber Freight alumnus [^1]. On 2026-07-21, TechCrunch reported that Bluecore had raised a $10 million pre-seed round led by Slauson & Co., with participation from Harlem Capital, Precursor Ventures, Ripple co-founder Chris Larsen, Kevin Hart's Hartbeat Ventures, and additional angel investors [^1].
+Bluecore Energy is a maritime nuclear energy startup developing small modular reactors (SMRs) mounted on floating barges to supply clean electricity to ports and adjacent infrastructure such as data centers [^1]. The company's water-cooled reactor design draws on nuclear technology that has been operating for more than 70 years, with each floating unit able to be transported by ship to new locations and connected to onshore grids through subsea cables; a single unit is sized to power roughly 15,000 homes or a major port operation [^1]. Bluecore was founded approximately seven months before its emergence from stealth by Kofi Asante, an Uber Freight alumnus [^1]. On 2026-07-21, TechCrunch reported that Bluecore had raised a $10 million pre-seed round led by Slauson & Co., with participation from Harlem Capital, Precursor Ventures, Ripple co-founder Chris Larsen, Kevin Hart's Hartbeat Ventures, and additional angel investors [^1]. On 2026-09-08, just two months after emerging from stealth, TechCrunch reported that Bluecore closed an oversubscribed $50 million seed round led by Silverton Partners, with participation from Slauson & Co., Harlem Capital, Chris Larsen, Collab Capital, HartBeat Ventures, and angel investors from Tesla, Uber, Amazon and Google [^2]. The company is headquartered at the Port of Long Beach and has launched two floating barges, working with the Department of Transportation Maritime Division, the U.S. Nuclear Regulatory Commission, and the U.S. Coast Guard [^2].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -43,7 +55,8 @@ Bluecore Energy is a maritime nuclear energy startup developing small modular re
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-07-21 | Pre-Seed | $10M | Slauson & Co. | Harlem Capital, Precursor Ventures, Chris Larsen, Hartbeat Ventures, undisclosed angels [^1] |
+| 2026-07-21 | Pre-Seed | $10M | Slauson & Co. | Harlem Capital, Precursor Ventures, Chris Larsen, Hartbeat Ventures [^1] |
+| 2026-09-08 | Seed | $50M | Silverton Partners | Slauson & Co., Harlem Capital, Chris Larsen, Collab Capital, HartBeat Ventures [^2] |
 
 ## What Investors Say
 
@@ -59,6 +72,11 @@ No independently sourced investor quotes found in primary press for this round.
 
 — Kofi Asante, Founder & CEO of Bluecore Energy, in TechCrunch coverage of the pre-seed round [^1].
 
+> "The Navy is doing this as we speak, for the last 70 years, and has never had an accident. We just made it smaller, so you can actually move things around."
+
+— Kofi Asante, Founder & CEO of Bluecore Energy, in TechCrunch coverage of the seed round [^2].
+
 ## Sources
 
 [^1]: "This Uber alum just raised a $10M pre-seed to build portable nuclear energy," TechCrunch, July 21, 2026. Accessed July 2026. https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/
+[^2]: "Nuclear startup Bluecore Energy raises $50M seed round just two months after launch," TechCrunch, September 8, 2026. Accessed September 2026. https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/

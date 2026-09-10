@@ -71,3 +71,60 @@
   source: "led TabaPay $155M strategic growth financing 2026-09-02"
   discovered_from: tabapay
   priority: normal
+- name: "Silverton Partners"
+  type: firm
+  source: "led Bluecore Energy $50M Seed 2026-09-08"
+  discovered_from: bluecore-energy
+  priority: high
+- name: "Slauson & Co."
+  type: firm
+  source: "co-investor on Bluecore Energy $50M Seed 2026-09-08; led Pre-Seed 2026-07-21"
+  discovered_from: bluecore-energy
+  priority: normal
+- name: "Collab Capital"
+  type: firm
+  source: "co-investor on Bluecore Energy $50M Seed 2026-09-08"
+  discovered_from: bluecore-energy
+  priority: normal
+- name: "HartBeat Ventures"
+  type: firm
+  source: "co-investor on Bluecore Energy $50M Seed 2026-09-08 (Kevin Hart)"
+  discovered_from: bluecore-energy
+  priority: normal
+- name: "Harlem Capital"
+  type: firm
+  source: "co-investor on Bluecore Energy $50M Seed 2026-09-08 and Pre-Seed 2026-07-21"
+  discovered_from: bluecore-energy
+  priority: normal
+- name: "Nimble Ventures"
+  type: firm
+  source: "led CloudNC $20M Series B extension 2026-09-08"
+  discovered_from: cloudnc
+  priority: high
+- name: "Calculus Venture Capital"
+  type: firm
+  source: "co-investor on CloudNC $20M Series B extension 2026-09-08"
+  discovered_from: cloudnc
+  priority: normal
+- name: "Entrepreneurs First"
+  type: firm
+  source: "co-investor on CloudNC $20M Series B extension 2026-09-08"
+  discovered_from: cloudnc
+  priority: normal
+- name: "LM Capital"
+  type: firm
+  source: "Lockheed Martin's venture arm; co-investor on CloudNC $20M Series B extension 2026-09-08"
+  discovered_from: cloudnc
+  priority: normal
+- name: "Theo Saville"
+  type: individual
+  firm: "CloudNC"
+  source: "Co-Founder & CEO of CloudNC"
+  discovered_from: cloudnc
+  priority: low
+- name: "Kofi Asante"
+  type: individual
+  firm: "Bluecore Energy"
+  source: "Founder & CEO of Bluecore Energy; former Uber Freight"
+  discovered_from: bluecore-energy
+  priority: low

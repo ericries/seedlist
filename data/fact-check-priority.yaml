@@ -1,4 +1,12 @@
 priority:
+- slug: bluecore-energy
+  type: startup
+  reason: "Round monitoring 2026-09-10: Added $50M Seed round (2026-09-08) led by Silverton Partners with Slauson & Co., Harlem Capital, Chris Larsen, Collab Capital, HartBeat Ventures. Sources: (1) TechCrunch."
+  added: 2026-09-10
+- slug: cloudnc
+  type: startup
+  reason: "Round monitoring 2026-09-10: New lean profile for $20M Series B extension (2026-09-08) led by Nimble Ventures with Calculus VC, Entrepreneurs First, LM Capital. Sources: (1) TechCrunch; (2) EU-Startups (blocked but URL cited)."
+  added: 2026-09-10
 - slug: stoke-space
   type: startup
   reason: "Round monitoring 2026-09-08: New lean profile for $1B Series E co-led by Point72 Ventures and Spark Capital. Participants: General Innovation, Glade Brook Capital, US Innovative Technology, Washington Harbour Partners, Woven Capital, Y Combinator. Total raised $2.3B. Sources: (1) TechCrunch; (2) Stoke Space press release; (3) TechStartups roundup."

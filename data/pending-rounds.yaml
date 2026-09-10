@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'Trident Digital Tech Holdings (Nasdaq: TDTH) Closes US$8 Million Private
+    Placement to Fund Execution of Its Digital Infrastructure and Enterprise AI Strategy'
+  url: https://www.globenewswire.com/news-release/2026/09/09/3359043/0/en/trident-digital-tech-holdings-nasdaq-tdth-closes-us-8-million-private-placement-to-fund-execution-of-its-digital-infrastructure-and-enterprise-ai-strategy.html
+  source: globenewswire
+  date_found: '2026-09-10'
+  parsed_company: 'Trident Digital Tech Holdings (Nasdaq: TDTH)'
+  parsed_amount: $8M
+  parsed_round: null
+  status: pending
 - title: AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce
     talks
   url: https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/
@@ -56,12 +65,156 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Positron AI raised $875M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: Positron AI
+  parsed_amount: $875M
+  parsed_round: Series C
+  status: pending
+- title: Harvey raised $550M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: Harvey
+  parsed_amount: $550M
+  parsed_round: null
+  status: pending
+- title: Sequen raised $90M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: Sequen
+  parsed_amount: $90M
+  parsed_round: Series B
+  status: pending
+- title: Inspiren raised $70M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: Inspiren
+  parsed_amount: $70M
+  parsed_round: Series C
+  status: pending
+- title: TwoStep Therapeutics raised $62.5M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: TwoStep Therapeutics
+  parsed_amount: $62.5M
+  parsed_round: Series A
+  status: pending
+- title: ARC raised $60M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: ARC
+  parsed_amount: $60M
+  parsed_round: null
+  status: pending
+- title: Lattitude raised $35M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: Lattitude
+  parsed_amount: $35M
+  parsed_round: Series A
+  status: pending
+- title: Epsilon Health raised $20M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: Epsilon Health
+  parsed_amount: $20M
+  parsed_round: Series A
+  status: pending
+- title: Piston raised $15M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: Piston
+  parsed_amount: $15M
+  parsed_round: Series A
+  status: pending
+- title: Cymphony raised $30M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: Cymphony
+  parsed_amount: $30M
+  parsed_round: null
+  status: pending
+- title: Carrum Mobility raised $10M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: Carrum Mobility
+  parsed_amount: $10M
+  parsed_round: Series B
+  status: pending
+- title: MCatalysis raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: MCatalysis
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: m in earnouts. Alif raised $342M VC
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: m in earnouts. Alif
+  parsed_amount: $342M
+  parsed_round: Vc
+  status: pending
+- title: a data protection startup that had raised $11M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: a data protection startup that had
+  parsed_amount: $11M
+  parsed_round: null
+  status: pending
+- title: per Axios Pro. Blaxel last year raised $7.3M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: per Axios Pro. Blaxel last year
+  parsed_amount: $7.3M
+  parsed_round: Seed
+  status: pending
+- title: Apogem Capital raised $597M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: Apogem Capital
+  parsed_amount: $597M
+  parsed_round: null
+  status: pending
+- title: Peterson Partners raised $510M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-10'
+  parsed_company: Peterson Partners
+  parsed_amount: $510M
+  parsed_round: null
+  status: pending
 - title: The Boring Company raises $3B in round led by UAE
   url: https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/
   source: techcrunch
   date_found: '2026-09-10'
   parsed_company: The Boring Company
   parsed_amount: $3B
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/10/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-10-2026/
+  source: alleywatch
+  date_found: '2026-09-10'
+  parsed_company: null
+  parsed_amount: null
   parsed_round: null
   status: pending
 - title: Weekly funding round-up! All of the European startup funding rounds we tracked
@@ -73,29 +226,12 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/10/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-10-2026/
-  source: alleywatch
-  date_found: '2026-09-10'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks
   url: https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/
   source: techcrunch
   date_found: '2026-09-09'
   parsed_company: CloudNC
   parsed_amount: $20M
-  parsed_round: null
-  status: pending
-- title: Munich-based FRYTE Mobility raises €3.5 million to connect eTruck fleets
-    with charging infrastructure across Europe
-  url: https://www.eu-startups.com/2026/09/munich-based-fryte-mobility-raises-e3-5-million-to-connect-etruck-fleets-with-charging-infrastructure-across-europe/
-  source: eu-startups
-  date_found: '2026-09-09'
-  parsed_company: Munich-based FRYTE Mobility
-  parsed_amount: null
   parsed_round: null
   status: pending
 - title: London-based CloudNC raises €17.2 million to scale AI-powered precision machining
@@ -115,24 +251,133 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: French cardiac monitoring startup Implicity reports 26% lower mortality as
-    it raises €35 million
-  url: https://www.eu-startups.com/2026/09/french-cardiac-monitoring-startup-implicity-reports-26-lower-mortality-as-it-raises-e35-million/
-  source: eu-startups
+- title: Split Pay initially raised $15M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
   date_found: '2026-09-09'
-  parsed_company: French cardiac monitoring startup Implicity reports 26% lower mortality
-    as it
-  parsed_amount: null
+  parsed_company: Split Pay initially
+  parsed_amount: $15M
+  parsed_round: Seed
+  status: pending
+- title: The Exploration Co. raised $450M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: The Exploration Co.
+  parsed_amount: $450M
+  parsed_round: Series C
+  status: pending
+- title: BrainChild Bio raised $116M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: BrainChild Bio
+  parsed_amount: $116M
+  parsed_round: Series A
+  status: pending
+- title: Pixxel raised $100M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: Pixxel
+  parsed_amount: $100M
+  parsed_round: Series C
+  status: pending
+- title: Moonwalk Biosciences raised $70M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: Moonwalk Biosciences
+  parsed_amount: $70M
+  parsed_round: Series B
+  status: pending
+- title: Poseidon Aerospace raised $60M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: Poseidon Aerospace
+  parsed_amount: $60M
+  parsed_round: Series A
+  status: pending
+- title: Bluecore Energy raised $50M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: Bluecore Energy
+  parsed_amount: $50M
+  parsed_round: Seed
+  status: pending
+- title: ARC Ride raised $33.3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: ARC Ride
+  parsed_amount: $33.3M
   parsed_round: null
   status: pending
-- title: 'Trident Digital Tech Holdings (Nasdaq: TDTH) Closes US$8 Million Private
-    Placement to Fund Execution of Its Digital Infrastructure and Enterprise AI Strategy'
-  url: https://www.globenewswire.com/news-release/2026/09/09/3359043/0/en/trident-digital-tech-holdings-nasdaq-tdth-closes-us-8-million-private-placement-to-fund-execution-of-its-digital-infrastructure-and-enterprise-ai-strategy.html
-  source: globenewswire
+- title: Blee raised $27M seed and Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
   date_found: '2026-09-09'
-  parsed_company: 'Trident Digital Tech Holdings (Nasdaq: TDTH)'
-  parsed_amount: $8M
+  parsed_company: Blee
+  parsed_amount: $27M
+  parsed_round: Seed And Series A
+  status: pending
+- title: EZ Health raised $26M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: EZ Health
+  parsed_amount: $26M
   parsed_round: null
+  status: pending
+- title: AI Score raised $5.4M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: AI Score
+  parsed_amount: $5.4M
+  parsed_round: Seed
+  status: pending
+- title: Fluencify raised $4.3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: Fluencify
+  parsed_amount: $4.3M
+  parsed_round: null
+  status: pending
+- title: Veridue raised $4M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: Veridue
+  parsed_amount: $4M
+  parsed_round: null
+  status: pending
+- title: Outline raised $3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: Outline
+  parsed_amount: $3M
+  parsed_round: null
+  status: pending
+- title: u003eSplit Pay initially raised $15M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: u003eSplit Pay initially
+  parsed_amount: $15M
+  parsed_round: Seed
+  status: pending
+- title: u003e raised $450M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-09'
+  parsed_company: u003e
+  parsed_amount: $450M
+  parsed_round: Series C
   status: pending
 - title: Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can
     recap your day
@@ -148,6 +393,25 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-09-09'
   parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: French cardiac monitoring startup Implicity reports 26% lower mortality as
+    it raises €35 million
+  url: https://www.eu-startups.com/2026/09/french-cardiac-monitoring-startup-implicity-reports-26-lower-mortality-as-it-raises-e35-million/
+  source: eu-startups
+  date_found: '2026-09-09'
+  parsed_company: French cardiac monitoring startup Implicity reports 26% lower mortality
+    as it
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Munich-based FRYTE Mobility raises €3.5 million to connect eTruck fleets
+    with charging infrastructure across Europe
+  url: https://www.eu-startups.com/2026/09/munich-based-fryte-mobility-raises-e3-5-million-to-connect-etruck-fleets-with-charging-infrastructure-across-europe/
+  source: eu-startups
+  date_found: '2026-09-09'
+  parsed_company: Munich-based FRYTE Mobility
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -576,278 +840,5 @@ pending_rounds:
   date_found: '2026-09-02'
   parsed_company: AIR
   parsed_amount: $50M
-  parsed_round: null
-  status: pending
-- title: Conveo raised $50M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Conveo
-  parsed_amount: $50M
-  parsed_round: Series A
-  status: pending
-- title: SciFin raised $44M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: SciFin
-  parsed_amount: $44M
-  parsed_round: Seed
-  status: pending
-- title: Wafer raised $40M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Wafer
-  parsed_amount: $40M
-  parsed_round: Series A
-  status: pending
-- title: Huskeys raised $27M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Huskeys
-  parsed_amount: $27M
-  parsed_round: Series A
-  status: pending
-- title: and Transition Ventures. It also raised $47M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: and Transition Ventures. It also
-  parsed_amount: $47M
-  parsed_round: null
-  status: pending
-- title: Particula raised $15M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Particula
-  parsed_amount: $15M
-  parsed_round: null
-  status: pending
-- title: Ki 13 raised $5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Ki 13
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: pending
-- title: an application virtualization tech company that had raised $15M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: an application virtualization tech company that had
-  parsed_amount: $15M
-  parsed_round: null
-  status: pending
-- title: Three Lions Acquisition raised $100M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: Three Lions Acquisition
-  parsed_amount: $100M
-  parsed_round: null
-  status: pending
-- title: an SF-based maker of IT agents that had raised $26M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: an SF-based maker of IT agents that had
-  parsed_amount: $26M
-  parsed_round: null
-  status: pending
-- title: Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation
-  url: https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/
-  source: crunchbase
-  date_found: '2026-09-02'
-  parsed_company: Former Apple Engineers’ Physical AI Startup Lyte
-  parsed_amount: $165M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/2/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-2-2026/
-  source: alleywatch
-  date_found: '2026-09-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Berlin-based Cloover secures €86.2 million facility as it reaches profitability
-    and launches AI-native neo-utility
-  url: https://www.eu-startups.com/2026/09/berlin-based-cloover-secures-e86-2-million-facility-as-it-reaches-profitability-and-launches-ai-native-neo-utility/
-  source: eu-startups
-  date_found: '2026-09-01'
-  parsed_company: Berlin-based Cloover
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Sector Snapshot: Proptech Funding Holds Up, But Investors Are Placing Different
-    Bets'
-  url: https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026/
-  source: crunchbase
-  date_found: '2026-09-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Zurich-based xorlab secures €5 million to scale sovereign email security
-    across Europe
-  url: https://www.eu-startups.com/2026/09/zurich-based-xorlab-secures-e5-million-to-scale-sovereign-email-security-across-europe/
-  source: eu-startups
-  date_found: '2026-09-01'
-  parsed_company: Zurich-based xorlab
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Drone attack at Leipzig/Halle Airport underscores threat as INLEAP Photonics
-    raises €20 million for drone defence
-  url: https://www.eu-startups.com/2026/09/drone-attack-at-leipzig-halle-airport-underscores-threat-as-inleap-photonics-raises-e20-million-for-drone-defence/
-  source: eu-startups
-  date_found: '2026-09-01'
-  parsed_company: Drone attack at Leipzig/Halle Airport underscores threat as INLEAP
-    Photonics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: After securing €158.9 million ESA award, PLD Space adds €108 million to Series
-    C, bringing round to €288 million
-  url: https://www.eu-startups.com/2026/09/after-securing-e158-9-million-esa-award-pld-space-adds-e108-million-to-series-c-bringing-round-to-e288-million/
-  source: eu-startups
-  date_found: '2026-09-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series C
-  status: pending
-- title: AIR raises $50M to help companies vet the skills and add-ons AI agents use
-  url: https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/
-  source: techcrunch
-  date_found: '2026-09-01'
-  parsed_company: AIR
-  parsed_amount: $50M
-  parsed_round: null
-  status: pending
-- title: WhatsApp Remittance Startup Félix Secures $200M Series C Led By A16z, General
-    Catalyst
-  url: https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/
-  source: crunchbase
-  date_found: '2026-09-01'
-  parsed_company: WhatsApp Remittance Startup Félix
-  parsed_amount: $200M
-  parsed_round: Series C
-  status: pending
-- title: Axios Easy Aerial raised $20M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-01'
-  parsed_company: Axios Easy Aerial
-  parsed_amount: $20M
-  parsed_round: Series B
-  status: pending
-- title: Scan.com raised $90M equity
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-01'
-  parsed_company: Scan.com
-  parsed_amount: $90M
-  parsed_round: Equity
-  status: pending
-- title: and Oxford Capital. It also raised $130M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-01'
-  parsed_company: and Oxford Capital. It also
-  parsed_amount: $130M
-  parsed_round: null
-  status: pending
-- title: Clipto raised $15M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-01'
-  parsed_company: Clipto
-  parsed_amount: $15M
-  parsed_round: null
-  status: pending
-- title: has raised $11M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-01'
-  parsed_company: has
-  parsed_amount: $11M
-  parsed_round: null
-  status: pending
-- title: Leanwatts raised $2M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-01'
-  parsed_company: Leanwatts
-  parsed_amount: $2M
-  parsed_round: Seed
-  status: pending
-- title: Shein raised $1.74B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-01'
-  parsed_company: Shein
-  parsed_amount: $1.74B
-  parsed_round: null
-  status: pending
-- title: Carrick Capital Partners raised $600M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-01'
-  parsed_company: Carrick Capital Partners
-  parsed_amount: $600M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/1/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-1-2026/
-  source: alleywatch
-  date_found: '2026-09-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/1/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-1-2026/
-  source: alleywatch
-  date_found: '2026-09-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Finland’s S-Transistors raises €2.6 million to build the world’s first quantum
-    motherboard
-  url: https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/
-  source: eu-startups
-  date_found: '2026-08-31'
-  parsed_company: Finland’s S-Transistors
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Biotech Startup Investment Held Steady Even As AI Funding Surged
-  url: https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026/
-  source: crunchbase
-  date_found: '2026-08-31'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 8/31/26'
-  url: https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-31-26/
-  source: alleywatch
-  date_found: '2026-08-31'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Stockholm-based Elekta secures €100 million EIB loan to advance cancer and
-    neurological treatments
-  url: https://www.eu-startups.com/2026/08/stockholm-based-elekta-secures-e100-million-eib-loan-to-advance-cancer-and-neurological-treatments/
-  source: eu-startups
-  date_found: '2026-08-31'
-  parsed_company: Stockholm-based Elekta
-  parsed_amount: null
   parsed_round: null
   status: pending
