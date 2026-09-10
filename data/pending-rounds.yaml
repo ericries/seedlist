@@ -56,6 +56,23 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: The Boring Company raises $3B in round led by UAE
+  url: https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/
+  source: techcrunch
+  date_found: '2026-09-10'
+  parsed_company: The Boring Company
+  parsed_amount: $3B
+  parsed_round: null
+  status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Sept. 7 – Sept. 10)
+  url: https://www.eu-startups.com/2026/09/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-sept-7-sept-10/
+  source: eu-startups
+  date_found: '2026-09-10'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks
   url: https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/
   source: techcrunch
@@ -833,23 +850,5 @@ pending_rounds:
   date_found: '2026-08-31'
   parsed_company: UK-based BatteryTech firm Nexeon
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Reducing preterm birth risks in foetal surgery, KOVE Medical secures €1.7
-    million
-  url: https://www.eu-startups.com/2026/08/reducing-preterm-birth-risks-in-foetal-surgery-kove-medical-secures-e1-7-million/
-  source: eu-startups
-  date_found: '2026-08-31'
-  parsed_company: Reducing preterm birth risks in foetal surgery, KOVE Medical
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police
-    officers’
-  url: https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/
-  source: techcrunch
-  date_found: '2026-08-31'
-  parsed_company: Harvard Law dropout
-  parsed_amount: $6M
   parsed_round: null
   status: pending
