@@ -5966,3 +5966,15 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-10: Series A revealed — $32M Series A (2026-09-09) led by Greylock with A*, Category Ventures, BoxGroup, Icehouse Ventures. Source: AlleyWatch. Reconciled prior SEC-filing entry."
   added: 2026-09-10
+- slug: maven-robotics
+  type: startup
+  reason: "Round monitoring 2026-09-11: New profile — $100M Series A (2026-09-10) led by RoboStrategy with LocalGlobe, Vine Ventures, XTX Markets Ventures. Source: TechCrunch."
+  added: 2026-09-11
+- slug: furo-energy
+  type: startup
+  reason: "Round monitoring 2026-09-11: New profile — $4M seed (2026-09-10) led by TQ Ventures with Neo, Sandberg Bernthal Venture Partners, CDTM. Munich-based industrial battery-storage software. Sources: TechCrunch, Wirtschaftswoche."
+  added: 2026-09-11
+- slug: luminary
+  type: startup
+  reason: "Round monitoring 2026-09-11: New profile — $22M Series A (2026-09-10) led by Ten Coves Capital with BNY, 8VC, Fin Capital, Focus Financial Partners, Rockefeller Capital Management. NYC AI wealth-transfer platform. Source: AlleyWatch."
+  added: 2026-09-11

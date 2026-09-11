@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Munich-based Furo raises €3.44 million to make industrial battery storage
+    economically viable
+  url: https://www.eu-startups.com/2026/09/munich-based-furo-raises-e3-44-million-to-make-industrial-battery-storage-economically-viable/
+  source: eu-startups
+  date_found: '2026-09-11'
+  parsed_company: Munich-based Furo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Trident Digital Tech Holdings (Nasdaq: TDTH) Closes US$8 Million Private
     Placement to Fund Execution of Its Digital Infrastructure and Enterprise AI Strategy'
   url: https://www.globenewswire.com/news-release/2026/09/09/3359043/0/en/trident-digital-tech-holdings-nasdaq-tdth-closes-us-8-million-private-placement-to-fund-execution-of-its-digital-infrastructure-and-enterprise-ai-strategy.html
