@@ -29,6 +29,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Copenhagen’s Seed Capital closes €130 million Fund V to back Nordic startups
+    from Seed to Series A
+  url: https://www.eu-startups.com/2026/09/copenhagens-seed-capital-closes-e130-million-fund-v-to-back-nordic-startups-from-seed-to-series-a/
+  source: eu-startups
+  date_found: '2026-09-11'
+  parsed_company: Copenhagen’s Seed Capital
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: 'Trident Digital Tech Holdings (Nasdaq: TDTH) Closes US$8 Million Private
     Placement to Fund Execution of Its Digital Infrastructure and Enterprise AI Strategy'
   url: https://www.globenewswire.com/news-release/2026/09/09/3359043/0/en/trident-digital-tech-holdings-nasdaq-tdth-closes-us-8-million-private-placement-to-fund-execution-of-its-digital-infrastructure-and-enterprise-ai-strategy.html
@@ -427,6 +436,14 @@ pending_rounds:
   date_found: '2026-09-08'
   parsed_company: null
   parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round
+  url: https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/
+  source: crunchbase
+  date_found: '2026-09-08'
+  parsed_company: Mistral AI
+  parsed_amount: $3.5B
   parsed_round: null
   status: pending
 - title: Molten Ventures raises €203 million to back UK and European growth-stage
