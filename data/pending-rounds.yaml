@@ -38,6 +38,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Seed
   status: pending
+- title: Dutch AgTech Gravity Gardens secures €2.6 million to scale its dry, chemical-free
+    seed activation technology
+  url: https://www.eu-startups.com/2026/09/dutch-agtech-gravity-gardens-secures-e2-6-million-to-scale-its-dry-chemical-free-seed-activation-technology/
+  source: eu-startups
+  date_found: '2026-09-11'
+  parsed_company: Dutch AgTech Gravity Gardens
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: 'Trident Digital Tech Holdings (Nasdaq: TDTH) Closes US$8 Million Private
     Placement to Fund Execution of Its Digital Infrastructure and Enterprise AI Strategy'
   url: https://www.globenewswire.com/news-release/2026/09/09/3359043/0/en/trident-digital-tech-holdings-nasdaq-tdth-closes-us-8-million-private-placement-to-fund-execution-of-its-digital-infrastructure-and-enterprise-ai-strategy.html
@@ -245,14 +254,6 @@ pending_rounds:
   parsed_amount: $450M
   parsed_round: Series C
   status: pending
-- title: BrainChild Bio raised $116M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-09'
-  parsed_company: BrainChild Bio
-  parsed_amount: $116M
-  parsed_round: Series A
-  status: pending
 - title: Moonwalk Biosciences raised $70M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -436,14 +437,6 @@ pending_rounds:
   date_found: '2026-09-08'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round
-  url: https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/
-  source: crunchbase
-  date_found: '2026-09-08'
-  parsed_company: Mistral AI
-  parsed_amount: $3.5B
   parsed_round: null
   status: pending
 - title: Molten Ventures raises €203 million to back UK and European growth-stage

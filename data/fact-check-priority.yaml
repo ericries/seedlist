@@ -6035,3 +6035,15 @@ priority:
   type: firm
   reason: "Round monitoring 2026-09-11: appeared in TwoStep Therapeutics Series A ($62.5M, 2026-09-09) via NFX Bio."
   added: 2026-09-11
+- slug: brainchild-bio
+  type: startup
+  reason: "Round monitoring 2026-09-11: New lean profile for $116M Series A (2026-09-08). Undisclosed private family fund/foundation led; Seattle Children's and WRF Capital participated. Sources: (1) BrainChild Bio press release PDF; (2) WRF Capital news page; (3) Axios Pro Rata."
+  added: 2026-09-11
+- slug: bessemer-venture-partners
+  type: firm
+  reason: "Round monitoring 2026-09-11: co-led The Exploration Company Series C ($450M, 2026-09-08)."
+  added: 2026-09-11
+- slug: balderton-capital
+  type: firm
+  reason: "Round monitoring 2026-09-11: participated in The Exploration Company Series C ($450M, 2026-09-08)."
+  added: 2026-09-11
