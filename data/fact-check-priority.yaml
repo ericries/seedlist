@@ -5924,3 +5924,31 @@ priority:
   type: startup
   reason: new Seed round 2026-09-07 (€4.3M, EquityPitcher/HTGF lead)
   added: 2026-09-07
+- slug: the-boring-company
+  type: startup
+  reason: "Round monitoring 2026-09-10: New profile — $3B Series D at $23B valuation (2026-09-09) led by UAE + affiliated investment entities. Participants: Sequoia Capital, Andreessen Horowitz, Valor Equity Partners, Human Capital, Vy Capital, Temasek, Shamal Holding, Baron Capital. Sources: (1) TechCrunch; (2) Boring Company official /series-d page."
+  added: 2026-09-10
+- slug: cognition
+  type: startup
+  reason: "Round monitoring 2026-09-10: Added Series E — $2B at $48B valuation (2026-09-08) led by Andreessen Horowitz and Accel with Founders Fund, General Catalyst, Avenir. Sources: (1) Cognition company blog; (2) TechStartups roundup."
+  added: 2026-09-10
+- slug: harvey
+  type: startup
+  reason: "Round monitoring 2026-09-10: Added Series G — $550M at $15.5B valuation (2026-09-09) co-led by Diffusion and Lightspeed Venture Partners. Existing: Sequoia, Kleiner Perkins, a16z, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, WndrCo. New: Sapphire Ventures, Whale Rock. Source: Harvey company blog."
+  added: 2026-09-10
+- slug: inspiren
+  type: startup
+  reason: "Round monitoring 2026-09-10: New profile — $70M Series C at $550M valuation (2026-09-10) led by NewView Capital with Insight Partners, Primary Venture Partners, Scale Venture Partners, Vintage Investment Partners, Lightbank, Avenir Growth Capital, Story Ventures, Camber Creek. Sources: (1) PR Newswire; (2) AlleyWatch; (3) Axios Pro Rata; (4) Forbes; (5) Inspiren news."
+  added: 2026-09-10
+- slug: clay
+  type: startup
+  reason: "Round monitoring 2026-09-10 (Sep 9 dated): New profile — $115M Series D at $7.1B valuation (2026-09-09) led by Wellington Management with Sequoia, StepStone, a16z, Meritech, DST Global, CapitalG, BoxGroup, Boldstart, Bloomberg Beta, Evolution. Sources: (1) Clay company blog; (2) AlleyWatch."
+  added: 2026-09-10
+- slug: savvy-wealth
+  type: startup
+  reason: "Round monitoring 2026-09-10 (Sep 9 dated): New profile — $100M Series C at $600M valuation (2026-09-09) led by Halo Fund with Thrive Capital, Industry Ventures (Goldman Sachs), Canvas Prime, Index Ventures, House Fund, Euclidean Capital, Alumni Ventures, Vestigo Ventures. Sources: (1) Savvy Wealth site; (2) AlleyWatch; (3) Yahoo Finance; (4) CityWire."
+  added: 2026-09-10
+- slug: antioch
+  type: startup
+  reason: "Round monitoring 2026-09-10: Series A revealed — $32M Series A (2026-09-09) led by Greylock with A*, Category Ventures, BoxGroup, Icehouse Ventures. Source: AlleyWatch. Reconciled prior SEC-filing entry."
+  added: 2026-09-10

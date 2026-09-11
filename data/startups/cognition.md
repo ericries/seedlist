@@ -36,6 +36,22 @@ firms:
 - slug: general-catalyst
 - slug: ribbit-capital
 - slug: hanabi-capital
+- date: 2026-09-08
+  round: series-e
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-09-08
+  round: series-e
+  slug: accel
+  year: 2026
+- date: 2026-09-08
+  round: series-e
+  slug: founders-fund
+  year: 2026
+- date: 2026-09-08
+  round: series-e
+  slug: general-catalyst
+  year: 2026
 founded: 2023
 founders:
 - name: Scott Wu
@@ -82,7 +98,11 @@ investors:
   slug: harry-stebbings
   year: 2024
 - slug: elad-gil
-last_researched: 2026-05-28
+last_researched: 2026-09-10
+last_verified_investment:
+  date: 2026-09-08
+  company: "Cognition"
+  round: "Series E"
 location: San Francisco, CA
 name: Cognition
 sector:
@@ -93,10 +113,10 @@ sector:
 - enterprise-software
 - code-generation
 slug: cognition
-stage_latest: Growth
+stage_latest: Series E
 status: published
 status_company: active
-total_raised: $1.4B+
+total_raised: ~$3.4B
 type: startup
 website: https://cognition.ai/
 ---
@@ -109,6 +129,7 @@ Cognition is a San Francisco-based AI coding company founded in 2023 by CEO Scot
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
+| 2026-09-08 | Series E | $2B (at $48B valuation) | Andreessen Horowitz, Accel | Founders Fund, General Catalyst, Avenir [^9][^10] |
 | 2026-05-27 | Growth | $1B+ (at $26B post-money) | Lux Capital, General Catalyst, 8VC | Elad Gil, Soma Capital, Omri Casspi, Founders Fund, Ribbit Capital, Atreides, Layer Global [^1][^2][^3] |
 | 2025-09-08 | Growth | $400M (at $10.2B post-money) | Founders Fund | Lux Capital, 8VC, Neo, Elad Gil, Definition Capital, Swish VC, Bain Capital Ventures, Hanabi Capital, D1 Capital [^4][^5][^6] |
 | 2024-04 | Series A extension | $175M (at $2B post-money) | Founders Fund | 8VC, Elad Gil, Khosla Ventures, Conviction Partners [^2][^3][^7] |
@@ -134,3 +155,7 @@ No independently sourced founder quotes found at this time.
 [^7]: Maginative, "Cognition AI Raises $175M at $2B Valuation, One Month After Series A," April 2024. Accessed July 2026. https://www.maginative.com/article/cognition-ai-raises-175m-at-2b-valuation-one-month-after-series-a/ — Primary press for the April 2024 $175M Series A extension led by Founders Fund at $2B post-money valuation. Contrary Research separately confirms Conviction Partners as a participant in this round alongside 8VC, Elad Gil, and Khosla Ventures.
 
 [^8]: Sacra, "Cognition revenue, valuation & funding," accessed July 2026. https://sacra.com/c/cognition/ — Independent funding-history aggregator confirming Series A ($21M, March 2024, Founders Fund lead, $350M val) and Series A extension ($175M, April 2024, Founders Fund lead, $2B val).
+
+[^9]: Cognition, "Do it all with Devin: Announcing our Series E," company blog, September 8, 2026. Accessed September 2026. https://cognition.com/blog — "Cognition has raised over $2B at a $48B valuation, led by Andreessen Horowitz and Accel, to build the future of software engineering."
+
+[^10]: TechStartups, "Startup Funding News Today, September 9, 2026," September 9, 2026. Accessed September 2026. https://techstartups.com/2026/09/09/startup-funding-news-today-september-9-2026/ — Confirms $2B Series E at $48B valuation led by Andreessen Horowitz and Accel; other participants include Founders Fund, General Catalyst, and Avenir.

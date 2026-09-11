@@ -72,6 +72,26 @@ firms:
 - round: series-f
   slug: andreessen-horowitz
   year: 2025
+- date: 2026-09-09
+  round: series-g
+  slug: sequoia-capital
+  year: 2026
+- date: 2026-09-09
+  round: series-g
+  slug: kleiner-perkins
+  year: 2026
+- date: 2026-09-09
+  round: series-g
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-09-09
+  round: series-g
+  slug: coatue-management
+  year: 2026
+- date: 2026-09-09
+  round: series-g
+  slug: conviction
+  year: 2026
 - round: Early stage
   slug: independent
   year: 2022
@@ -133,7 +153,15 @@ investors:
 - round: Seed ($5M)
   slug: brad-lightcap
   year: 2022
-last_researched: 2026-03-20
+- date: 2026-09-09
+  round: series-g
+  slug: elad-gil
+  year: 2026
+last_researched: 2026-09-10
+last_verified_investment:
+  date: 2026-09-09
+  company: "Harvey"
+  round: "Series G"
 location: San Francisco, CA
 name: Harvey
 sector:
@@ -141,10 +169,10 @@ sector:
 - legal-tech
 - enterprise-ai
 slug: harvey
-stage_latest: Series F
+stage_latest: Series G
 status: published
 status_company: active
-total_raised: $964M
+total_raised: $1.514B
 type: startup
 website: https://www.harvey.ai
 ---
@@ -164,6 +192,7 @@ Harvey is an AI platform for legal professionals, offering tools for document an
 | Feb 2025 | Series D | $300M | Sequoia | Kleiner Perkins, GV, Elad Gil, Conviction, OpenAI Startup Fund, Coatue, REV [^1] |
 | Jun 2025 | Series E | $300M | Kleiner Perkins, Coatue | Sequoia, GV, DST Global, Conviction, Elad Gil, OpenAI Startup Fund, SV Angel, REV [^6] |
 | 2025-12-04 | Series F | $160M ($8B valuation) | Andreessen Horowitz | EQT, WndrCo, T. Rowe Price, Sequoia, Kleiner Perkins, Conviction, Elad Gil [^5][^10][^11] |
+| 2026-09-09 | Series G | $550M (at $15.5B valuation) | Diffusion, Lightspeed Venture Partners | Sequoia, Kleiner Perkins, Andreessen Horowitz, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, WndrCo, Sapphire Ventures, Whale Rock [^14] |
 
 ## What Investors Say
 
@@ -198,3 +227,5 @@ Winston Weinberg on access to justice: "The average price of a lawyer in the Uni
 [^12]: TechCrunch, "Harvey, which uses AI to answer legal questions, lands cash from OpenAI," November 23, 2022. https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai/ — Confirms November 23, 2022 announcement of $5M seed led by OpenAI Startup Fund with Jeff Dean and Elad Gil participating.
 
 [^13]: LawSites (LawNext), "Stealth Legal AI Startup Harvey Raises $5M In Round Led By OpenAI," November 23, 2022. https://www.lawnext.com/2022/11/stealth-legal-ai-startup-harvey-raises-5m-in-round-led-by-openai.html — Contemporaneous press confirming $5M seed announcement on November 23, 2022.
+
+[^14]: Harvey, "We Raised $550M at a $15.5B Valuation to Help Legal Teams Own Their Intelligence," company blog, September 9, 2026. Accessed September 2026. https://www.harvey.ai/en-US/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence — Series G at $15.5B valuation, co-led by Diffusion and Lightspeed Venture Partners. Existing investors participating include Sequoia, Kleiner Perkins, a16z, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, and WndrCo. New investors include Sapphire Ventures and Whale Rock. 80% of AmLaw 100 firms use Harvey.
