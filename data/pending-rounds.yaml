@@ -47,6 +47,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Seed
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive
+    Lead A Massive Week'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/
+  source: crunchbase
+  date_found: '2026-09-11'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Trident Digital Tech Holdings (Nasdaq: TDTH) Closes US$8 Million Private
     Placement to Fund Execution of Its Digital Infrastructure and Enterprise AI Strategy'
   url: https://www.globenewswire.com/news-release/2026/09/09/3359043/0/en/trident-digital-tech-holdings-nasdaq-tdth-closes-us-8-million-private-placement-to-fund-execution-of-its-digital-infrastructure-and-enterprise-ai-strategy.html
