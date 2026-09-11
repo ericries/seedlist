@@ -11,6 +11,9 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-10: New lean profile for $20M Series B extension (2026-09-08) led by Nimble Ventures with Calculus VC, Entrepreneurs First, LM Capital. Sources: (1) TechCrunch; (2) EU-Startups (blocked but URL cited)."
   added: 2026-09-10
+  status: resolved
+  resolution_note: "Fact-spec sweep 2026-09-10: Verified $20M Series B extension (2026-09-08) via TechCrunch primary press (Nimble Ventures lead confirmed; Calculus Venture Capital, Entrepreneurs First, LM Capital participants confirmed; $128M lifetime funding confirmed; Theo Saville CEO quote 'Machine shops need to quote faster, program faster, and deliver more with the people and machines they already have' confirmed verbatim). EU-Startups source URL cited but returns 403 to re-verification (originally accessible at profile creation). Profile stands as accurate; no changes needed."
+  processed: '2026-09-10'
 - slug: stoke-space
   type: startup
   reason: "Round monitoring 2026-09-08: New lean profile for $1B Series E co-led by Point72 Ventures and Spark Capital. Participants: General Innovation, Glade Brook Capital, US Innovative Technology, Washington Harbour Partners, Woven Capital, Y Combinator. Total raised $2.3B. Sources: (1) TechCrunch; (2) Stoke Space press release; (3) TechStartups roundup."
@@ -4775,6 +4778,9 @@ priority:
   type: firm
   reason: participated in Dash Bio Series A (2026-08-03), $30M
   added: 2026-08-04
+  status: resolved
+  resolution_note: "Fact-spec sweep 2026-09-10: Freestyle Capital participation in Dash Bio Series A ($30M, 2026-08-03) re-verified via 3 primary sources: BioSpace press release, Pulse 2.0, Endpoints News (all confirm Oak HC/FT led with Freestyle Capital + Swift Ventures as existing investors). Dash Bio startup profile (dash-bio.md) fully accurate with all citations. Freestyle Capital firm profile does not yet exist in data/firms/ but is already queued (queue.yaml line 10158, priority: normal). No profile edits possible until firm profile is created."
+  processed: '2026-09-10'
 - slug: swift-ventures
   type: firm
   reason: participated in Dash Bio Series A (2026-08-03), $30M
@@ -4818,6 +4824,9 @@ priority:
   type: investor
   reason: co-led Ore Energy Series A (2026-08-04) with HV Capital
   added: 2026-08-04
+  status: resolved
+  resolution_note: "Fact-spec sweep 2026-09-10: Verified Ore Energy Series A €37.3M (~$43M) (2026-08-04) via 3 independent primary sources: Energy Storage News (Ian Hogarth quote confirmed verbatim, Plural + HV co-lead confirmed), Tech.eu (co-lead Plural + HV Capital, Positron Ventures participant confirmed), EU-Startups (source cited at profile creation). Added Tech.eu as second citation [^11] to ian-hogarth.md Ore Energy portfolio row (was [^10] only, now [^10][^11]). Ore Energy startup profile fully accurate. last_verified_investment already reflects Ore Energy 2026-08-04."
+  processed: '2026-09-10'
 - slug: insight-partners
   type: firm
   reason: led Convex Series B (2026-08-04), $57M
