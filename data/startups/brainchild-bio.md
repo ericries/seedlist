@@ -27,7 +27,7 @@ BrainChild Bio is a clinical-stage biotechnology company developing CAR T cell t
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-08 | Series A | $116M | Undisclosed private family fund and foundation | Seattle Children's, WRF Capital [^1][^2] |
+| 2026-09-08 | Series A | $116M | Undisclosed private family fund and foundation | Seattle Children's, WRF Capital [^1][^2][^3] |
 
 ## What Investors Say
 
