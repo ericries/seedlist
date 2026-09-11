@@ -439,6 +439,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round
+  url: https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/
+  source: crunchbase
+  date_found: '2026-09-08'
+  parsed_company: Mistral AI
+  parsed_amount: $3.5B
+  parsed_round: null
+  status: pending
 - title: Molten Ventures raises €203 million to back UK and European growth-stage
     tech companies
   url: https://www.eu-startups.com/2026/09/molten-ventures-raises-e203-million-to-back-uk-and-european-growth-stage-tech-companies/
