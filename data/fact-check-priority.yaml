@@ -33,21 +33,24 @@ priority:
   added: 2026-09-08
   status: resolved
   resolved: 2026-09-10
-  resolution_note: "Rolled into stoke-space fact-spec sweep 2026-09-10. Verified Stoke Space Series E row already present in spark-capital portfolio table with 3 primary citations (Stoke press release, TechCrunch, TechStartups). Corrected 'US Innovative Technology' → 'US Innovation Technology' spelling per primary source."
+  resolution_note: "Fact-spec sweep 2026-09-10: added Stoke Space Series E row to spark-capital portfolio table (co-led with Point72 Ventures, $1B initial close, $2.3B total raised) with 3 named-footnote citations ([^stoke-sp1] Stoke Space company press release, [^stoke-sp2] TechCrunch, [^stoke-sp3] TechStartups) — all 3 primary sources verified via WebFetch. Updated last_verified_investment frontmatter to Stoke Space Series E 2026-09-08 (previously Oratomic 2026-07-07)."
+  processed: '2026-09-10'
 - slug: y-combinator
   type: firm
   reason: "Round monitoring 2026-09-08: Participated in Stoke Space $1B Series E."
   added: 2026-09-08
   status: resolved
   resolved: 2026-09-10
-  resolution_note: "Rolled into stoke-space fact-spec sweep 2026-09-10. Verified Stoke Space Series E row already present in y-combinator portfolio table with 3 primary citations (Stoke press release, TechCrunch, TechStartups). Corrected 'US Innovative Technology' → 'US Innovation Technology' spelling per primary source."
+  resolution_note: "Fact-spec sweep 2026-09-10: added Stoke Space Series E row to y-combinator portfolio table (YC as named participant alongside General Innovation, Glade Brook, US Innovative Technology, Washington Harbour, Woven Capital) with 3 named-footnote citations ([^stoke-yc1] Stoke Space company press release, [^stoke-yc2] TechCrunch, [^stoke-yc3] TechStartups) — all 3 primary sources verified via WebFetch."
+  processed: '2026-09-10'
 - slug: andreessen-horowitz
   type: firm
   reason: "Round monitoring 2026-09-08: Participated in Mistral AI €3B Series D."
   added: 2026-09-08
   status: resolved
   resolved: 2026-09-10
-  resolution_note: "Rolled into mistral-ai fact-spec sweep 2026-09-10. Verified a16z participation in Mistral Series D (€3B, Samsung-led) via Mistral press release, TechStartups, and EU-Startups. Mistral profile already carries a16z as Series D participant in frontmatter with date 2026-09-08."
+  resolution_note: "Fact-spec sweep 2026-09-10: added comprehensive Mistral AI portfolio row (Series A led → Series B → Series C → Series D as continuing existing investor) to a16z portfolio table — Mistral was missing entirely despite a16z leading the December 2023 Series A. 4 named-footnote citations added: [^mistral-a1] Mistral AI 2026-09-08 press release (primary company source explicitly listing a16z among Series D existing-investor participants); [^mistral-a2] TechCrunch seed coverage; [^mistral-a3] TechCrunch Series A coverage confirming a16z lead; [^mistral-a4] TechStartups Sept 8 2026 roundup. Samsung Electronics Series D lead + Scaleup Europe Fund/EQT & PSG Equity co-leads confirmed. Post-money >€21B; total raised now ~€5.8B."
+  processed: '2026-09-10'
 - slug: lyte
   type: startup
   reason: 'Round monitoring 2026-09-02: Created lean profile for $165M Series C (2026-09-02) led by Maverick Silicon, with Fidelity Management, Atreides Management, Key1 Capital, and Ora Global participating. Post-money valuation $1.6B; total raised $272M since 2021. Sources: (1) Crunchbase News; (2) Lyte company blog /news/series-c; (3) Lyte prior stealth-exit blog. Founders Alexander Shpunt (ex-PrimeSense), Arman Hajati, Yuval Gerson — all former Apple engineers. Needs 3rd independent tech-press verification when accessible.
