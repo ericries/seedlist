@@ -3,6 +3,10 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-10: Added $50M Seed round (2026-09-08) led by Silverton Partners with Slauson & Co., Harlem Capital, Chris Larsen, Collab Capital, HartBeat Ventures. Sources: (1) TechCrunch."
   added: 2026-09-10
+  status: resolved
+  resolved: 2026-09-10
+  resolution_note: "Fact-spec sweep 2026-09-10: verified $50M Seed round via 3 independent sources: TechCrunch [^2] (2026-09-08, primary tech press), Bluecore Energy company site [^1] (2026-07-21, primary company source for pre-seed), plus NEW AfroTech [^3] (2026-09-09, contemporaneous independent trade press). Silverton Partners lead confirmed. Expanded participant list per AfroTech to include Precursor Ventures, LMNT, Visible Hands VC, Karman Ventures (existing) and MaC Ventures, Vanderbilt, Black Angel Group (new). Added new verbatim Asante quote: 'Our focus is simple. Create and deliver zero-emission energy as safely and quickly as possible.' 1 new citation added ([^3])."
+  processed: '2026-09-10'
 - slug: cloudnc
   type: startup
   reason: "Round monitoring 2026-09-10: New lean profile for $20M Series B extension (2026-09-08) led by Nimble Ventures with Calculus VC, Entrepreneurs First, LM Capital. Sources: (1) TechCrunch; (2) EU-Startups (blocked but URL cited)."
@@ -11,27 +15,39 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-08: New lean profile for $1B Series E co-led by Point72 Ventures and Spark Capital. Participants: General Innovation, Glade Brook Capital, US Innovative Technology, Washington Harbour Partners, Woven Capital, Y Combinator. Total raised $2.3B. Sources: (1) TechCrunch; (2) Stoke Space press release; (3) TechStartups roundup."
   added: 2026-09-08
-  status: pending
+  status: resolved
+  resolved: 2026-09-10
+  resolution_note: "Fact-spec sweep 2026-09-10: verified $1B Series E via 3 independent primary sources: Stoke Space company press release [^2] (primary company source), TechCrunch [^1] (2026-09-08, primary tech press), TechStartups roundup [^3] (2026-09-08, contemporaneous). Confirmed Point72 Ventures + Spark Capital co-led. Corrected 'US Innovative Technology' → 'US Innovation Technology' per company primary source and TechStartups. Extended Clay Fisher quote to full verbatim: 'Full reusability is the inevitable end state of the market, providing an order-of-magnitude cost and service advantage over partially reusable rockets.' Andy Lapsa and Chris Morales quotes verified verbatim. Total raised $2.3B confirmed."
+  processed: '2026-09-10'
 - slug: mistral-ai
   type: startup
   reason: "Round monitoring 2026-09-08: Added Series D — €3B at post-money >€21B, led by Samsung Electronics, with Scaleup Europe Fund/EQT and PSG Equity co-leading. Broad participation: Advent, BlackRock, Grand Duchy of Luxembourg, a16z, ASML, Belfius, BNP Paribas CIB, Bpifrance, Carmignac, DST Global, Eurazeo, General Catalyst, Headline, Hillspire, Index Ventures, Korelya Capital, Lightspeed, Nvidia, Phoenix Court Solar, Salesforce Ventures. Sources: (1) Mistral press release; (2) TechStartups; (3) EU-Startups."
   added: 2026-09-08
-  status: pending
+  status: resolved
+  resolved: 2026-09-10
+  resolution_note: "Fact-spec sweep 2026-09-10: verified €3B Series D via 3 independent primary sources: Mistral AI company press release [^6] (primary company source), TechStartups roundup [^7] (2026-09-08, contemporaneous), EU-Startups [^8] (2026-09-08, contemporaneous European tech press). Samsung Electronics lead confirmed. Scaleup Europe Fund (managed by EQT) and PSG Equity co-leads confirmed. New investors: Advent, BlackRock, Grand Duchy of Luxembourg. Existing participants confirmed: a16z, ASML, Belfius, BNP Paribas CIB, Bpifrance, Carmignac, DST Global, Eurazeo, General Catalyst, Headline, Hillspire, Index Ventures, Korelya Capital, Lightspeed, Nvidia, Phoenix Court Solar, Salesforce Ventures. Post-money >€21B confirmed (nearly doubled from prior €11.7B). Described as 'largest equity fundraising round ever completed by a European technology company' per Mistral primary source."
+  processed: '2026-09-10'
 - slug: spark-capital
   type: firm
   reason: "Round monitoring 2026-09-08: Co-led Stoke Space $1B Series E — update portfolio table."
   added: 2026-09-08
-  status: pending
+  status: resolved
+  resolved: 2026-09-10
+  resolution_note: "Rolled into stoke-space fact-spec sweep 2026-09-10. Verified Stoke Space Series E row already present in spark-capital portfolio table with 3 primary citations (Stoke press release, TechCrunch, TechStartups). Corrected 'US Innovative Technology' → 'US Innovation Technology' spelling per primary source."
 - slug: y-combinator
   type: firm
   reason: "Round monitoring 2026-09-08: Participated in Stoke Space $1B Series E."
   added: 2026-09-08
-  status: pending
+  status: resolved
+  resolved: 2026-09-10
+  resolution_note: "Rolled into stoke-space fact-spec sweep 2026-09-10. Verified Stoke Space Series E row already present in y-combinator portfolio table with 3 primary citations (Stoke press release, TechCrunch, TechStartups). Corrected 'US Innovative Technology' → 'US Innovation Technology' spelling per primary source."
 - slug: andreessen-horowitz
   type: firm
   reason: "Round monitoring 2026-09-08: Participated in Mistral AI €3B Series D."
   added: 2026-09-08
-  status: pending
+  status: resolved
+  resolved: 2026-09-10
+  resolution_note: "Rolled into mistral-ai fact-spec sweep 2026-09-10. Verified a16z participation in Mistral Series D (€3B, Samsung-led) via Mistral press release, TechStartups, and EU-Startups. Mistral profile already carries a16z as Series D participant in frontmatter with date 2026-09-08."
 - slug: lyte
   type: startup
   reason: 'Round monitoring 2026-09-02: Created lean profile for $165M Series C (2026-09-02) led by Maverick Silicon, with Fidelity Management, Atreides Management, Key1 Capital, and Ora Global participating. Post-money valuation $1.6B; total raised $272M since 2021. Sources: (1) Crunchbase News; (2) Lyte company blog /news/series-c; (3) Lyte prior stealth-exit blog. Founders Alexander Shpunt (ex-PrimeSense), Arman Hajati, Yuval Gerson — all former Apple engineers. Needs 3rd independent tech-press verification when accessible.

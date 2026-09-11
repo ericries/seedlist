@@ -66,9 +66,9 @@ team:
 status: published
 last_researched: 2026-05-01
 last_verified_investment:
-  company: "Oratomic"
-  date: 2026-07-07
-  round: "Series A"
+  company: "Stoke Space"
+  date: 2026-09-08
+  round: "Series E"
 tldr: "Multi-stage venture firm ($12B+ AUM) founded in Boston in 2005, now operating across SF, NYC, and Boston. Invests from pre-seed through growth via separate early-stage ($700M Fund VIII) and growth ($1.4B Growth V) vehicles. Portfolio includes landmark consumer internet investments (Twitter, Slack, Discord, Tumblr) with expanding AI and enterprise focus. Co-founded by Bijan Sabet."
 ---
 
@@ -158,6 +158,7 @@ Based on Spark Capital's verified portfolio of 337 investments [^4] and publicly
 | Oratomic | Series A (co-led with ARCH Venture Partners, Khosla Ventures; $300M) | 2026-07-07 | Quantum Computing / Deep Tech | [^60][^61][^62][^63] |
 | K2 Space | Series D ($500M at $6.8B post-money; Kleiner Perkins and ICONIQ co-led; Spark Capital new participant alongside CapitalG, Lightspeed, Altimeter, Sands Capital, ARK Invest, and T. Rowe Price Associates) | 2026-07-30 | Aerospace / Satellites | [^k2d-sp1][^k2d-sp2][^k2d-sp3] |
 | Convex | Series B ($57M, participated; Insight Partners led at Series B with Etna Labs and Andreessen Horowitz co-participating; Spark had participated in Convex's Series A extension $24M on 2025-11 alongside Neo Ventures with a16z leading) | 2026-08-04 | Developer Tools / Backend / AI-Native Database | [^convex-sp1][^convex-sp2][^convex-sp3] |
+| Stoke Space | Series E (co-led with Point72 Ventures, $1B initial close at $2.3B total raised; Clay Fisher General Partner quoted; participants General Innovation, Glade Brook Capital, US Innovation Technology, Washington Harbour Partners, Woven Capital, Y Combinator) | 2026-09-08 | Aerospace / Space Tech / Reusable Rockets | [^stoke-sp1][^stoke-sp2][^stoke-sp3] |
 
 This table represents a subset of Spark Capital's 337 total investments [^4].
 
@@ -287,3 +288,9 @@ A founder who worked with Nabeel Hyatt described him as "a straight shooter with
 [^flock-sp1]: Flock Safety, "Flock Safety Announces $150M Series E led by Tiger Global," accessed August 2026. https://www.flocksafety.com/blog/series-e-announcement — Primary company announcement of the USD 150M Series E at USD 3.5B valuation led by Tiger Global with new investors 776 and Spark Capital and existing investors a16z, Bedrock, Matrix, Meritech, and Initialized.
 
 [^flock-sp2]: Built In, "Flock Safety Raises $150M in Series E Funding for Its Security Solution," February 16, 2022, accessed August 2026. https://builtin.com/articles/flock-safety-raises-150m-series-e-hiring-021622 — Independent tech press dating the Series E announcement to February 16, 2022 and confirming Tiger Global lead, USD 3.5B post-money, and Spark Capital participation alongside Andreessen Horowitz, Meritech, and Initialized Capital.
+
+[^stoke-sp1]: Stoke Space press release, "Stoke Space Raises $1 Billion to Accelerate Fully Reusable Launch," September 8, 2026. Accessed September 2026. https://www.stokespace.com/news/stoke-space-series-e — Primary company announcement confirming the Series E $1B initial close was co-led by Point72 Ventures and Spark Capital, with participation from General Innovation, Glade Brook Capital, US Innovation Technology, Washington Harbour Partners, Woven Capital, and Y Combinator. Total capital raised now $2.3 billion.
+
+[^stoke-sp2]: Aria Alamalhodaei, "Stoke Space raises another billion to rival SpaceX at re-flying rockets," TechCrunch, September 8, 2026. Accessed September 2026. https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/ — Tier-1 tech press confirmation of Point72 Ventures and Spark Capital as Series E co-leads and Y Combinator among named participants; includes quotes from Clay Fisher (Spark Capital GP) and Andy Lapsa (Stoke Space CEO).
+
+[^stoke-sp3]: TechStartups, "Startup Funding News Today, September 8, 2026: Mistral AI, Stoke Space, ARC Ride & More," September 8, 2026. Accessed September 2026. https://techstartups.com/2026/09/08/startup-funding-news-today-september-8-2026/ — Independent daily funding roundup confirming the $1B Series E lead and participant list.

@@ -35,13 +35,13 @@ Stoke Space is a Kent, Washington launch vehicle company developing Nova, a full
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-08 | Series E | $1B | Point72 Ventures, Spark Capital | General Innovation, Glade Brook Capital, US Innovative Technology, Washington Harbour Partners, Woven Capital, Y Combinator [^1][^2][^3] |
+| 2026-09-08 | Series E | $1B | Point72 Ventures, Spark Capital | General Innovation, Glade Brook Capital, US Innovation Technology, Washington Harbour Partners, Woven Capital, Y Combinator [^1][^2][^3] |
 
 ## What Investors Say
 
 Chris Morales, Partner at Point72 Ventures: "Stoke is pursuing what we see as one of the most important opportunities in space transportation: making launch fully reusable, reliable, and scalable" [^2].
 
-Clay Fisher, General Partner at Spark Capital: "Full reusability is the inevitable end state of the market, providing an order-of-magnitude cost advantage" [^2].
+Clay Fisher, General Partner at Spark Capital: "Full reusability is the inevitable end state of the market, providing an order-of-magnitude cost and service advantage over partially reusable rockets" [^2].
 
 ## What Founders Say
 
