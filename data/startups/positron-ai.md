@@ -29,7 +29,7 @@ last_researched: 2026-09-11
 
 ## About
 
-Positron AI is a Reno, Nevada-based semiconductor startup that designs purpose-built hardware for generative AI inference, targeting Transformer model workloads with a focus on performance, power efficiency, and total cost of ownership [^1][^2]. The company was founded in 2023 and is led by CEO Mitesh Agrawal and Chairman Thomas Sohmers, with a team of 100+ across the US, Canada, and Israel [^2][^3]. In August 2026 the company reported it had deployed 50+ racks at Oracle, becoming what it describes as the first AI chip startup shipping into a hyperscaler [^2].
+Positron AI is a Reno, Nevada-based semiconductor startup that designs purpose-built hardware for generative AI inference, targeting Transformer model workloads with a focus on performance, power efficiency, and total cost of ownership [^1][^2]. The company was founded in April 2023 and is led by CEO Mitesh Agrawal and Chairman Thomas Sohmers, with a team of 100+ across the US, Canada, and Israel and in-person offices in Reno, Las Vegas, Spokane, and Austin [^2][^3]. In August 2026 the company reported it had deployed 50+ racks at Oracle, becoming what it describes as the first AI chip startup shipping into a hyperscaler [^2].
 
 ## Funding History
 

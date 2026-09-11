@@ -5982,14 +5982,26 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-11: New profile — $60M Series B (2026-09-05) led by BVF Partners with Deep Track Capital, Perceptive Advisors, RA Capital, Insight Partners, NVIDIA NVentures, Catalio Capital, Eli Lilly, Cooley, Gaingels. Boston GPCR drug discovery. Sources: Endpoints News, superluminalrx.com."
   added: 2026-09-11
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: verified $60M Series B via 2 primary company sources (superluminalrx.com/about announcement heading, superluminalrx.com homepage which lists full quote naming BVF as lead with Deep Track Capital and Perceptive Advisors as new investors and RA Capital, Insight Partners, NVentures, Catalio, Eli Lilly, Cooley, Gaingels as existing). Endpoints News citation retained. Added [^4] homepage citation. Clarified new-vs-existing distinction in Funding History row. Note: BioSpace search shows prior rounds — Seed $33M Aug 2023, Series A $120M Sep 2024 — consistent with $60M Series B follow-on."
+  processed: '2026-09-11'
 - slug: positron-ai
   type: startup
   reason: "Round monitoring 2026-09-11: New profile — $875M Series C at $5B valuation (2026-09-10) led by NEA, Atreides Management, Valor Equity Partners with Andra Capital, SemiAnalysis Capital, Jim Clark. Reno AI inference silicon. Sources: positron.ai, LinkedIn."
   added: 2026-09-11
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: verified via 2 primary company sources (positron.ai/press confirms $875M / $5B valuation / Sept 10 2026 date, positron.ai/about confirms Mitesh Agrawal CEO + Thomas Sohmers Chairman, April 2023 founding, 100+ team across US/Canada/Israel with in-person offices in Reno, Las Vegas, Spokane, Austin, and board reps from NEA, Atreides Management, DFJ Growth, Dylan Patel/SemiAnalysis). Added founding-month specificity and office locations to About. Lead/co-investor names retained from original scrape."
+  processed: '2026-09-11'
 - slug: twostep-therapeutics
   type: startup
   reason: "Round monitoring 2026-09-11: New profile — $62.5M Series A (2026-09-09) led by Insight Partners with Maverick Ventures, M Ventures, Pfizer Ventures, NFX Bio, 2048 Ventures. Stanford spinout, tumor-targeted peptide-drug conjugate. Sources: twosteptx.com, BusinessWire."
   added: 2026-09-11
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: verified via 3 independent primary sources (BioSpace full press release, twosteptx.com/team confirming board seats, twosteptx.com company page + newsroom confirming date/amount). CRITICAL CORRECTION: original scrape incorrectly listed 'Maverick Ventures' — the actual co-lead is Medical Excellence Capital (per BioSpace release naming Insight Partners AND Medical Excellence Capital as co-leads, with M Ventures + Pfizer Ventures as co-leads and NFX + 2048 Ventures as existing). Removed Maverick Ventures from firms frontmatter. Added $71.2M total raised context, TS-104 program name, BioSpace [^4] citation. Also verified board additions per twosteptx.com/team: Matias Porras Paniagua (Insight), John Prufeta (Medical Excellence Capital), Oliver Lyth (M Ventures), Rana Al-Hallaq (Pfizer Ventures), plus existing member Omri Amirav-Drory (NFX)."
+  processed: '2026-09-11'
 - slug: insight-partners
   type: firm
   reason: "Round monitoring 2026-09-11: appeared in Superluminal Medicines Series B ($60M, 2026-09-05) and TwoStep Therapeutics Series A ($62.5M, 2026-09-09, lead)."
@@ -6006,6 +6018,10 @@ priority:
   type: firm
   reason: "Round monitoring 2026-09-11: appeared in TwoStep Therapeutics Series A ($62.5M, 2026-09-09)."
   added: 2026-09-11
+  status: unresolvable
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: original scrape was WRONG. Primary sources (BioSpace press release, twosteptx.com/team) confirm co-lead was Medical Excellence Capital, not Maverick Ventures. Removed maverick-ventures from twostep-therapeutics.md firms frontmatter. No fact-check needed on maverick-ventures profile for this round."
+  processed: '2026-09-11'
 - slug: nfx
   type: firm
   reason: "Round monitoring 2026-09-11: appeared in TwoStep Therapeutics Series A ($62.5M, 2026-09-09) via NFX Bio."

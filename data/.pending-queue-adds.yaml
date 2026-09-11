@@ -128,3 +128,68 @@
   source: "Founder & CEO of Bluecore Energy; former Uber Freight"
   discovered_from: bluecore-energy
   priority: low
+- name: "Medical Excellence Capital"
+  type: firm
+  source: "co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M) alongside Insight Partners; John Prufeta on TwoStep board"
+  discovered_from: twostep-therapeutics
+  priority: high
+- name: "BVF Partners"
+  type: firm
+  source: "lead investor on Superluminal Medicines Series B 2026-09-05 ($60M); life sciences fund"
+  discovered_from: superluminal-medicines
+  priority: high
+- name: "M Ventures"
+  type: firm
+  source: "co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M); Merck KGaA corporate venture arm; Oliver Lyth on TwoStep board"
+  discovered_from: twostep-therapeutics
+  priority: high
+- name: "Pfizer Ventures"
+  type: firm
+  source: "co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M); Rana Al-Hallaq on TwoStep board"
+  discovered_from: twostep-therapeutics
+  priority: normal
+- name: "2048 Ventures"
+  type: firm
+  source: "existing investor on TwoStep Therapeutics Series A 2026-09-09"
+  discovered_from: twostep-therapeutics
+  priority: normal
+- name: "Atreides Management"
+  type: firm
+  source: "co-lead investor on Positron AI Series C 2026-09-10 ($875M / $5B valuation)"
+  discovered_from: positron-ai
+  priority: high
+- name: "Andra Capital"
+  type: firm
+  source: "co-investor on Positron AI Series C 2026-09-10"
+  discovered_from: positron-ai
+  priority: normal
+- name: "SemiAnalysis Capital"
+  type: firm
+  source: "co-investor on Positron AI Series C 2026-09-10; Dylan Patel (SemiAnalysis) on Positron board"
+  discovered_from: positron-ai
+  priority: normal
+- name: "DFJ Growth"
+  type: firm
+  source: "board seat at Positron AI (per positron.ai/about); AI inference hardware backer"
+  discovered_from: positron-ai
+  priority: normal
+- name: "Deep Track Capital"
+  type: firm
+  source: "new investor on Superluminal Medicines Series B 2026-09-05 ($60M)"
+  discovered_from: superluminal-medicines
+  priority: normal
+- name: "Perceptive Advisors"
+  type: firm
+  source: "new investor on Superluminal Medicines Series B 2026-09-05 ($60M); life sciences hedge fund"
+  discovered_from: superluminal-medicines
+  priority: normal
+- name: "RA Capital Management"
+  type: firm
+  source: "existing investor on Superluminal Medicines Series B 2026-09-05"
+  discovered_from: superluminal-medicines
+  priority: normal
+- name: "Catalio Capital Management"
+  type: firm
+  source: "existing investor on Superluminal Medicines Series B 2026-09-05"
+  discovered_from: superluminal-medicines
+  priority: normal

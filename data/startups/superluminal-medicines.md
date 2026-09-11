@@ -31,7 +31,7 @@ Superluminal Medicines is a Boston-based biotechnology company using AI, machine
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-05 | Series B | $60M | BVF Partners | Deep Track Capital, Perceptive Advisors, RA Capital Management, Insight Partners, NVIDIA NVentures, Catalio Capital Management, Eli Lilly, Cooley, Gaingels [^1][^2] |
+| 2026-09-05 | Series B | $60M | BVF Partners | Deep Track Capital, Perceptive Advisors (new); RA Capital Management, Insight Partners, NVIDIA NVentures, Catalio Capital Management, Eli Lilly, Cooley, Gaingels (existing) [^1][^2][^4] |
 
 ## What Investors Say
 
@@ -39,6 +39,7 @@ Superluminal Medicines is a Boston-based biotechnology company using AI, machine
 
 ## Sources
 
-[^1]: Superluminal Medicines company website — About page. Accessed September 2026. https://superluminalrx.com/about
+[^1]: Superluminal Medicines company website — About page (announcement: "Superluminal Medicines Announces Oversubscribed $60 Million Series B Financing to Advance Lead Program in Rare Genetic Forms of Obesity into the Clinic"). Accessed September 2026. https://superluminalrx.com/about
 [^2]: Endpoints News, "Superluminal Medicines raises Series B." Accessed September 2026. https://endpoints.news/superluminal-medicines-series-b/
 [^3]: Superluminal Medicines company website — Contact page. Accessed September 2026. https://superluminalrx.com/contact
+[^4]: Superluminal Medicines company website — Homepage (Series B press quote: "BVF Partners, L.P., led the financing, with participation from new investors Deep Track Capital and Perceptive Advisors, along with existing investors RA Capital Management, Insight Partners, NVentures (NVIDIA's venture capital arm), Catalio Capital Management, Eli Lilly and Company, Cooley, and Gaingels."). Accessed September 2026. https://superluminalrx.com/
