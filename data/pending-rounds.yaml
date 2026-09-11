@@ -73,14 +73,6 @@ pending_rounds:
   parsed_amount: $875M
   parsed_round: Series C
   status: pending
-- title: Harvey raised $550M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-10'
-  parsed_company: Harvey
-  parsed_amount: $550M
-  parsed_round: null
-  status: pending
 - title: Sequen raised $90M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -88,14 +80,6 @@ pending_rounds:
   parsed_company: Sequen
   parsed_amount: $90M
   parsed_round: Series B
-  status: pending
-- title: Inspiren raised $70M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-10'
-  parsed_company: Inspiren
-  parsed_amount: $70M
-  parsed_round: Series C
   status: pending
 - title: TwoStep Therapeutics raised $62.5M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -226,14 +210,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks
-  url: https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/
-  source: techcrunch
-  date_found: '2026-09-09'
-  parsed_company: CloudNC
-  parsed_amount: $20M
-  parsed_round: null
-  status: pending
 - title: London-based CloudNC raises €17.2 million to scale AI-powered precision machining
   url: https://www.eu-startups.com/2026/09/london-based-cloudnc-raises-e17-2-million-to-scale-ai-powered-precision-machining/
   source: eu-startups
@@ -275,14 +251,6 @@ pending_rounds:
   parsed_amount: $116M
   parsed_round: Series A
   status: pending
-- title: Pixxel raised $100M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-09'
-  parsed_company: Pixxel
-  parsed_amount: $100M
-  parsed_round: Series C
-  status: pending
 - title: Moonwalk Biosciences raised $70M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -298,14 +266,6 @@ pending_rounds:
   parsed_company: Poseidon Aerospace
   parsed_amount: $60M
   parsed_round: Series A
-  status: pending
-- title: Bluecore Energy raised $50M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-09'
-  parsed_company: Bluecore Energy
-  parsed_amount: $50M
-  parsed_round: Seed
   status: pending
 - title: ARC Ride raised $33.3M
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -415,14 +375,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Stoke Space raises another billion to rival SpaceX at re-flying rockets
-  url: https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/
-  source: techcrunch
-  date_found: '2026-09-08'
-  parsed_company: Stoke Space
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Portugal’s Hope Care closes €6 million Series A to expand remote patient
     monitoring across Europe
   url: https://www.eu-startups.com/2026/09/portugals-hope-care-closes-e6-million-series-a-to-expand-remote-patient-monitoring-across-europe/
@@ -432,28 +384,12 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
-- title: Mistral raises €3 billion Series D led by Samsung at over €21 billion valuation
-  url: https://www.eu-startups.com/2026/09/french-ai-company-mistral-raises-e3-billion-series-d-led-by-samsung-at-over-e21-billion-valuation/
-  source: eu-startups
-  date_found: '2026-09-08'
-  parsed_company: Mistral
-  parsed_amount: null
-  parsed_round: Series D
-  status: pending
 - title: UK-based Veridue secures €3.4 million to accelerate investment and project
     financing for renewable energy and data centres
   url: https://www.eu-startups.com/2026/09/uk-based-veridue-secures-e3-44-million-to-accelerate-investment-and-project-financing-for-renewable-energy-and-data-centres/
   source: eu-startups
   date_found: '2026-09-08'
   parsed_company: UK-based Veridue
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Mistral raises €3B as sovereign AI becomes big business
-  url: https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/
-  source: techcrunch
-  date_found: '2026-09-08'
-  parsed_company: Mistral
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -490,14 +426,6 @@ pending_rounds:
   date_found: '2026-09-08'
   parsed_company: French AgTech startup Tellia
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round
-  url: https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/
-  source: crunchbase
-  date_found: '2026-09-08'
-  parsed_company: Mistral AI
-  parsed_amount: $3.5B
   parsed_round: null
   status: pending
 - title: 'The AlleyWatch Startup Daily Funding Report: 9/8/2026'

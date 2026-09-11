@@ -16,6 +16,14 @@ firms:
   round: seed
   slug: boxgroup
   year: 2026
+- date: 2026-09-09
+  round: series-a
+  slug: greylock
+  year: 2026
+- date: 2026-09-09
+  round: series-a
+  slug: boxgroup
+  year: 2026
 founded: 2025
 investors:
 - round: Seed
@@ -47,7 +55,8 @@ Antioch is a New York-based startup building a simulation platform for physical 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-08-04 | Series A (SEC filing) | $31.4M | undisclosed | undisclosed (8 investors per SEC filing; total offering $32M) [^4] |
+| 2026-09-09 | Series A | $32M | Greylock | A*, Category Ventures, BoxGroup, Icehouse Ventures [^5] |
+| 2026-08-04 | Series A (SEC filing) | $31.4M | undisclosed at time of filing | undisclosed at time of filing (8 investors per SEC filing; total offering $32M) [^4] |
 | 2026-04-16 | Seed | $8.5M | A*, Category Ventures | MaC Venture Capital, Abstract, Box Group, Icehouse Ventures [^1][^2][^3] |
 
 The Seed round valued Antioch at $60M post-money [^1]. The August 2026 close brought total reported equity funding to $44M since founding [^4].
@@ -70,3 +79,4 @@ The Seed round valued Antioch at $60M post-money [^1]. The August 2026 close bro
 [^2]: SiliconANGLE, "Antioch prepares to accelerate simulated testing for autonomous robots after raising $8.5M," April 16, 2026. https://siliconangle.com/2026/04/16/antioch-prepares-accelerate-simulated-testing-autonomous-robots-raising-8-5m/
 [^3]: Axios Pro Rata, April 21, 2026 edition. https://www.axios.com/newsletters/axios-pro-rata
 [^4]: "The AlleyWatch Startup Daily Funding Report: 8/4/2026," AlleyWatch, August 4, 2026. Accessed August 2026. https://www.alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-4-2026/
+[^5]: "The AlleyWatch Startup Daily Funding Report: 9/9/2026," AlleyWatch, September 9, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-9-2026/
