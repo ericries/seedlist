@@ -96,7 +96,7 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Salesforce | Venture | 2003 | Enterprise/CRM | [^1][^12][^13] |
+| Salesforce | Pre-IPO round (~$1M; Gordon Ritter led — Emergence's first major investment) | 2003-01 | Enterprise/CRM | [^1][^12][^13] |
 | SuccessFactors | Early | ~2005 | Enterprise/HR | [^3] |
 | Yammer | Series A | ~2009 | Enterprise/Collaboration | [^3] |
 | Box | Early | ~2009 | Enterprise/Storage | [^3] |

@@ -68,7 +68,7 @@ Based on 93+ active portfolio companies from Homebrew's portfolio page, the foll
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Chime | Series A | 2014 | Fintech | [^6][^10] |
+| Chime | Seed | 2013-08-30 | Fintech | [^6][^10] |
 | Plaid | Seed | 2013 | Fintech/API | [^6][^11] |
 | Gusto | Seed | ~2013 | HR/Payroll | [^5][^6] |
 | Mercury | Seed | 2019 | Fintech/Banking | [^6][^12] |
