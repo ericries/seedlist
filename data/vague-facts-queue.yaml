@@ -5899,7 +5899,9 @@ vague_facts:
   line: '| DG Matrix | Seed | 2023 | Energy Infrastructure | Acquired | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: 'Fact-spec sweep 2026-09-11: SCANNER FALSE POSITIVE on column 5 (Source column, correctly contains footnote citation [^6]). Row itself was still vague on stage and status detail. Tightened via Cerberus Ventures own portfolio page (cerberus-ventures.com/portfolio/dg-matrix): (1) round-type tag on Cerberus portfolio card lists BOTH "Seed" and "Series A" — Cerberus participation spans both stages; (2) sector clarified to "Energy Infrastructure / Solid-state transformers (Interport™ SST platform for data centers and microgrids)"; (3) "Acquired" status confirmed by Cerberus but acquirer NOT identified on the portfolio card, and DG Matrix company website (dgmatrix.com) remains active under the DG Matrix brand as of Sept 2026 — suggesting the "Acquired" tag may reflect an internal ownership event (e.g., majority-stake investment by Cerberus Capital Management directly, similar to Roebling/Synonym pattern) rather than a third-party trade sale. Founded 2022 in Morristown, NC. Round-level date, amount, lead, and acquirer remain unresolved: no contemporaneous primary press release naming DG Matrix + Cerberus in a specific round was locatable in this session; WebSearch budget exhausted this session and Crunchbase/PitchBook aggregator pages return 403 to WebFetch. New footnote [^dgmatrix1] added citing Cerberus portfolio page as the single available primary source. Flagged for future session with fresh WebSearch budget to seek (a) contemporaneous press for the DG Matrix Seed or Series A, (b) any acquisition announcement.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Ferveret
@@ -5909,7 +5911,9 @@ vague_facts:
   line: '| Ferveret | Seed | 2024 | Liquid Cooling / Energy | Acquired | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: 'Fact-spec sweep 2026-09-11: SCANNER FALSE POSITIVE on column 5 (Source column, correctly contains footnote citation [^6]). Row itself was still vague on stage and status detail. Tightened via Cerberus Ventures own portfolio page (cerberus-ventures.com/portfolio/ferveret): (1) round-type tag lists "Seed" only for Cerberus participation; (2) sector clarified to "Liquid Cooling / Data-center cooling (nuclear-reactor-inspired cooling for AI-density data centers)"; (3) "Acquired" status confirmed by Cerberus portfolio card but acquirer NOT identified on the card. Founded 2021 in San Jose, CA. Round-level date, amount, lead, and acquirer remain unresolved: no contemporaneous primary press release naming Ferveret + Cerberus in a specific round was locatable in this session; WebSearch budget exhausted this session and Crunchbase/PitchBook aggregator pages return 403 to WebFetch. New footnote [^ferveret1] added citing Cerberus portfolio page as the single available primary source. Flagged for future session with fresh WebSearch budget to seek (a) contemporaneous press for the Ferveret Seed, (b) any acquisition announcement.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Star Catcher Industries
@@ -173043,7 +173047,9 @@ vague_facts:
   line: '| Maybell Quantum | Series A/B | 2024 | Quantum Computing | Acquired | [^6][^7] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: 'Duplicate of unknown_value entry (resolved 2026-08-03). Row previously mislabeled as Series A/B + 2024 + Acquired — all three wrong. Actual: Series A $25M announced 2024-03-04 led by Cerberus Ventures (Chris Darby joined Maybell board). Maybell is NOT acquired — remains independent and closed a subsequent $40M Series B led by Addition on 2025-09-03 in which Cerberus was NOT named as a returning investor. Verified via 3 primary sources: Cerberus press release [^maybell1] (2024-03-04), Quantum Insider [^7] (2024-03-04), Quantum Insider Series B coverage [^maybell2] (2025-09-03). Now marked resolved to match the parent unknown_value entry.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Ansa Biotechnologies
@@ -173101,7 +173107,9 @@ vague_facts:
   line: '| DG Matrix | Seed | 2023 | Energy Infrastructure | Acquired | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-11
+  resolution_note: 'Duplicate of unknown_value entry (resolved 2026-09-11). Cerberus Ventures portfolio page lists DG Matrix with BOTH Seed and Series A round-type tags but does NOT publish a specific round date. Company founded 2022; the "2023" year in the row is a best-available estimate matching Cerberus''s founding-year window. No contemporaneous primary press release naming DG Matrix + Cerberus in a specific round was locatable in this investigation session (WebSearch budget exhausted; company site news pages return 404; Crunchbase/PitchBook return 403 to WebFetch). Marked unresolvable at year-precision until a session with fresh WebSearch budget can locate contemporaneous press. Row expanded on cerberus-ventures.md with stage clarification and status note; new [^dgmatrix1] footnote added citing Cerberus portfolio page.'
 - profile: firms/cerberus-ventures
   profile_name: Cerberus Ventures
   company: Ferveret
@@ -173111,7 +173119,9 @@ vague_facts:
   line: '| Ferveret | Seed | 2024 | Liquid Cooling / Energy | Acquired | [^6] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-11
+  resolution_note: 'Duplicate of unknown_value entry (resolved 2026-09-11). Cerberus Ventures portfolio page lists Ferveret with Seed round-type tag but does NOT publish a specific round date. Company founded 2021; the "2024" year in the row is a best-available estimate. No contemporaneous primary press release naming Ferveret + Cerberus in a specific round was locatable in this investigation session (WebSearch budget exhausted; company site does not disclose funding history; Crunchbase/PitchBook return 403 to WebFetch). Marked unresolvable at year-precision until a session with fresh WebSearch budget can locate contemporaneous press. Row expanded on cerberus-ventures.md with stage clarification and status note; new [^ferveret1] footnote added citing Cerberus portfolio page.'
 - profile: firms/chemistry-vc
   profile_name: Chemistry
   company: Datacurve
