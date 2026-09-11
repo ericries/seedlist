@@ -12,7 +12,8 @@ priority:
   reason: "Round monitoring 2026-09-10: New lean profile for $20M Series B extension (2026-09-08) led by Nimble Ventures with Calculus VC, Entrepreneurs First, LM Capital. Sources: (1) TechCrunch; (2) EU-Startups (blocked but URL cited)."
   added: 2026-09-10
   status: resolved
-  resolution_note: "Fact-spec sweep 2026-09-10: Verified $20M Series B extension (2026-09-08) via TechCrunch primary press (Nimble Ventures lead confirmed; Calculus Venture Capital, Entrepreneurs First, LM Capital participants confirmed; $128M lifetime funding confirmed; Theo Saville CEO quote 'Machine shops need to quote faster, program faster, and deliver more with the people and machines they already have' confirmed verbatim). EU-Startups source URL cited but returns 403 to re-verification (originally accessible at profile creation). Profile stands as accurate; no changes needed."
+  resolved: '2026-09-10'
+  resolution_note: "Fact-spec sweep 2026-09-10 (second pass): added 3rd primary source [^3] CloudNC company newsroom (https://www.cloudnc.com/news-room/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining, 2026-09-09). Corrected participant name from 'LM Capital' to 'LM Ventures' (Lockheed Martin's venture arm) per company primary source. Added John Burbank (Nimble Ventures founder) verbatim quote to What Investors Say: 'CloudNC's automation of CNC will enable massive increases in onshoring of manufacturing and global production of mission-critical components.' Prior pass had verified via TechCrunch only; now verified via 3 independent primary sources."
   processed: '2026-09-10'
 - slug: stoke-space
   type: startup
@@ -4831,6 +4832,10 @@ priority:
   type: firm
   reason: led Convex Series B (2026-08-04), $57M
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-09-10'
+  processed: '2026-09-10'
+  resolution_note: 'Fact-spec sweep 2026-09-10: verified Convex Series B row via 3 independent primary sources — SiliconANGLE [^cvx1] (already cited), Crunchbase [^cvx2] (already cited), and NEW Convex company blog [^cvx3] (news.convex.dev/convex-raises-57m/, primary company source). Insight Partners led $57M Series B confirmed. Expanded participant list to add Justin Kan per Convex primary source (Etna Labs, Andreessen Horowitz, Spark Capital, Justin Kan). Also updated convex.md startup profile with new [^4] citation, added Justin Kan as participant, and added Jamie Turner verbatim quote from company blog. 1 new citation added on each profile.'
 - slug: andreessen-horowitz
   type: firm
   reason: participated in Convex Series B (2026-08-04) $57M and HappyRobot Series C (2026-08-04) $150M

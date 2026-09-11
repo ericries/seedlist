@@ -37,11 +37,13 @@ CloudNC is a London-based manufacturing software company building AI-powered sof
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-08 | Series B Extension | $20M | Nimble Ventures | Calculus Venture Capital, Entrepreneurs First, LM Capital [^1][^2] |
+| 2026-09-08 | Series B Extension | $20M | Nimble Ventures | Calculus Venture Capital, Entrepreneurs First, LM Ventures [^1][^2][^3] |
 
 ## What Investors Say
 
-No independently sourced investor quotes found in primary press for this round.
+> "CloudNC's automation of CNC will enable massive increases in onshoring of manufacturing and global production of mission-critical components."
+
+— John Burbank, Founder of Nimble Ventures, in CloudNC's own newsroom announcement of the Series B extension [^3].
 
 ## What Founders Say
 
@@ -57,3 +59,4 @@ No independently sourced investor quotes found in primary press for this round.
 
 [^1]: "CloudNC raises $20M to automate manufacturing's most pressing bottlenecks," TechCrunch, September 8, 2026. Accessed September 2026. https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/
 [^2]: "London-based CloudNC raises €17.2 million to scale AI-powered precision machining," EU-Startups, September 9, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/london-based-cloudnc-raises-e17-2-million-to-scale-ai-powered-precision-machining/
+[^3]: CloudNC newsroom, "CloudNC raises $20m to expand AI tools for precision machining," September 9, 2026. Accessed September 2026. https://www.cloudnc.com/news-room/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining — Company's own announcement naming Nimble Ventures as lead with Calculus Venture Capital, Entrepreneurs First, and LM Ventures (Lockheed Martin) participating; includes John Burbank (Nimble Ventures founder) quote.

@@ -144,7 +144,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Inforcer | Series C ($50M, led; Dawn Capital and Meritech Capital are existing investors in the company but not explicitly confirmed as Series C participants) | 2026-07-30 | Cybersecurity / MSP / Microsoft 365 | Active | [^info1][^info2] |
 | DataBahn | Series B ($40M, led; Forgepoint, GTM Capital, S3 Ventures also participated) | 2026-07-30 | Data Infrastructure / AI / Cybersecurity | Active | [^db1][^db2][^db3] |
 | Spur Intelligence | Growth ($200M, led; investment, round type not specified in source) | 2026-07-28 | Cybersecurity / IP Intelligence / Fraud Prevention | Active | [^spur1][^spur2][^spur3] |
-| Convex | Series B ($57M, led; Andreessen Horowitz, Spark Capital, Etna Labs also participated) | 2026-08-04 | Developer Tools / Application Backend / AI | Active | [^cvx1][^cvx2] |
+| Convex | Series B ($57M, led; Andreessen Horowitz, Spark Capital, Etna Labs, Justin Kan also participated) | 2026-08-04 | Developer Tools / Application Backend / AI | Active | [^cvx1][^cvx2][^cvx3] |
 | Easy Aerial | Series B ($20M, led; Entrée Capital and private U.S. investors also participated) | 2026-08-31 | Defense / Drones / Autonomous Systems | Active | [^ea1][^ea2][^ea3] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
@@ -284,6 +284,7 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^cvx1]: SiliconANGLE, "Convex reels in $57M for its AI-optimized application backend," August 4, 2026. Accessed August 2026. https://siliconangle.com/2026/08/04/convex-reels-57m-ai-optimized-application-backend/
 
 [^cvx2]: Crunchbase, "Series B – Convex – Funding Round Profile," August 4, 2026. Accessed August 2026. https://www.crunchbase.com/funding_round/convex-c445-series-b--1fa47669
+[^cvx3]: Convex blog, "Convex raises a $57M Series B," August 4, 2026. Accessed September 2026. https://news.convex.dev/convex-raises-57m/ — Convex's own announcement confirming Insight Partners led the $57M Series B with Etna Labs, Spark Capital, Andreessen Horowitz, and Justin Kan participating.
 [^ea1]: Business Wire, "Easy Aerial Completes $20 Million Series B Funding Round to Expand Global Defense Footprint," August 31, 2026. Accessed September 2026. https://www.businesswire.com/news/home/20260831863599/en/Easy-Aerial-Completes-$20-Million-Series-B-Funding-Round-to-Expand-Global-Defense-Footprint
 [^ea2]: Yahoo Finance, "Easy Aerial Completes $20 Million Series B Funding Round to Expand Global Defense Footprint," August 31, 2026. Accessed September 2026. https://finance.yahoo.com/technology/articles/easy-aerial-completes-20-million-130000624.html
 [^ea3]: Defense Daily, "Drone Company Easy Aerial Raises $20 Million To Scale Production, Global Business," August 31, 2026. Accessed September 2026. https://www.defensedaily.com/drone-company-easy-aerial-raises-20-million-to-scale-production-global-business/unmanned-systems/
