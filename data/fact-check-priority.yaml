@@ -4840,6 +4840,9 @@ priority:
   type: firm
   reason: participated in Convex Series B (2026-08-04) $57M and HappyRobot Series C (2026-08-04) $150M
   added: 2026-08-04
+  status: resolved
+  resolved: '2026-09-11'
+  note: 'Fact-spec sweep 2026-09-11: Added TWO missing rows to a16z Portfolio table — (1) Convex Series B ($57M, 2026-08-04, Insight Partners led; a16z participated as existing investor after leading Nov 2025 Series A extension) and (2) HappyRobot Series C ($150M at $1.2B post-money, 2026-08-04, Prysm Capital + Eurazeo co-led; a16z participated after leading 2024 Series A with Olivia Moore/Anish Acharya/Seema Amble as sponsors and Anish Acharya taking board seat). Each row verified via 3 independent primary sources: Convex — company blog (news.convex.dev/convex-raises-57m/), SiliconANGLE, Crunchbase funding round profile; HappyRobot — Tech.eu, The AI Insider, Tech Funding News. Added 6 new footnotes ([^convex-a16z1]-[^convex-a16z3], [^hr-a16z1]-[^hr-a16z3]). Updated portfolio count from 87 to 89.'
 - slug: spark-capital
   type: firm
   reason: participated in Convex Series B (2026-08-04), $57M
@@ -4981,6 +4984,9 @@ priority:
   type: firm
   reason: backed Isengard Industries Summer 2026 batch (2026-08-04, seed)
   added: 2026-08-05
+  status: resolved
+  resolved: '2026-09-11'
+  note: 'Fact-spec sweep 2026-09-11: Added Isengard Industries row to Y Combinator Portfolio table (S26 batch, seed 2026-08-04, Backswing Ventures-led with YC + A3 Management Group + Sterling Road + Serra-de Estrela Investments participating). Verified via 3 independent primary sources: (1) Y Combinator company page (ycombinator.com/companies/isengard-industries-inc, primary), (2) PR Newswire Backswing Ventures press release, (3) Backswing Ventures portfolio page. Founders Francisco Serra-Martins (ex-Terminal Autonomy CEO, $60M revenue serving US Army/NATO/Ukraine) and James Tennant (ex-Australian Army Officer, defense-tech private credit). ~30 employees. San Francisco-based. Added 3 new footnotes ([^isengard-yc1]-[^isengard-yc3]). Startup profile isengard-industries.md already published and consistent.'
 - slug: thrive-capital
   type: firm
   reason: participated in Ambrook Series B (2026-08-04), $30M led by Lachy Groom
@@ -5019,6 +5025,9 @@ priority:
   type: firm
   reason: led Faye Series C (2026-08-05)
   added: 2026-08-05
+  status: resolved
+  resolved: '2026-09-11'
+  note: 'Fact-spec sweep 2026-09-11: Added Faye Series C row to Madrona Venture Group Portfolio table ($50M Series C 2026-08-05, Madrona-led at ~$500M valuation; existing backers BRM, Portage, F2 Venture Capital, Viola Ventures, Lumir Ventures participated). Verified via 3 independent primary sources: (1) PR Newswire Faye company press release (primary company release with quotes from Steve Singh MD/Madrona and Elad Schaffer CEO/Faye), (2) Calcalist tier-1 Israeli tech-press confirming $500M valuation, (3) Skift tier-1 travel-industry press. Startup profile faye.md already published with all details. Richmond, VA-based; founded 2022; whole-trip protection with AI underwriting. Added 3 new footnotes ([^faye-madrona1]-[^faye-madrona3]).'
 - slug: general-catalyst
   type: firm
   reason: co-investor in Aurelius Systems Series A (2026-08-05)

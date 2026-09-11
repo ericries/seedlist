@@ -176,6 +176,7 @@ The following table represents 55 of approximately 269 active and exited portfol
 | Golden Analytics | Seed Extension | 2026-06-09 | AI & Intelligent Apps | Active ($14M seed extension led by Insight Partners; NEA and Madrona re-upped; brings total seed to $21M) [^75][^76] |
 | Gradial | Series C | 2026-06-18 | AI & Intelligent Apps | Active ($65M Series C led by Insight Partners at $675M valuation; Madrona participated alongside VMG Partners and PruVen) [^77][^78] |
 | Polar | Seed | 2026-07-29 | AI & Intelligent Apps (AI Browser) | Active ($5.7M seed led by Madrona; Sabrina Albert led the investment; angels Thomas Dohmke, Phoebe Gates, Erik Bernhardsson, Benjamin Spector, Rob Wachen, and Robert Yang participated) [^79][^80][^81] |
+| Faye | Series C | 2026-08-05 | Insurtech / Travel / AI / Fintech | Active ($50M Series C led by Madrona; BRM, Portage, F2 Venture Capital, Viola Ventures, Lumir Ventures participated as existing backers; ~$500M valuation; $100M total raised; Richmond, VA-based; founded 2022 by Elad Schaffer CEO; whole-trip protection with AI-native underwriting; Steve Singh Managing Director quoted) [^faye-madrona1][^faye-madrona2][^faye-madrona3] |
 
 ## In Their Own Words
 
@@ -304,3 +305,9 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^80]: BusinessWire (via Las Vegas Sun), "Polar, the AI Browser That Does Real Work, Raises $5.7M," July 29, 2026. Accessed July 30, 2026. https://lasvegassun.com/news/2026/jul/29/polar-the-ai-browser-that-does-real-work-raises-57/ — Company press release confirms $5.7M seed led by Madrona; Sabrina Albert quoted as leading the investment; Thomas Dohmke and Erik Bernhardsson named as angels.
 
 [^81]: Tech Startups, "Polar, AI startup founded by former Perplexity engineer behind Comet, raises $5.7M for AI browser that automates knowledge work," July 29, 2026. Accessed July 30, 2026. https://techstartups.com/2026/07/29/polar-ai-startup-founded-by-former-perplexity-engineer-behind-comet-raises-5-7m-for-ai-browser-that-automates-knowledge-work/ — Third independent source confirming the Madrona-led $5.7M seed round.
+
+[^faye-madrona1]: Faye, "Faye Takes Off With $50M Series C to Build Autonomous Platform for Traveler Care," PR Newswire, August 5, 2026. Accessed September 2026. https://www.prnewswire.com/news-releases/faye-takes-off-with-50m-series-c-to-build-autonomous-platform-for-traveler-care-302843627.html — Primary company press release confirming $50M Series C led by Madrona Venture Group with existing backers BRM, Portage, F2 Venture Capital, Viola Ventures, and Lumir Ventures participating; Steve Singh (Managing Director, Madrona) quoted; Elad Schaffer (CEO, Faye) quoted.
+
+[^faye-madrona2]: Calcalist, "Travel fintech Faye raises $50 million Series C at estimated $500 million valuation," August 5, 2026. Accessed September 2026. https://www.calcalistech.com/ctechnews/article/bjh1l9l8gx — Independent tier-1 Israeli tech-press confirming $50M Series C at estimated $500M valuation with Madrona Venture Group leading; $100M total raised.
+
+[^faye-madrona3]: Justin Dawes, "Faye Raises $50 Million, Bets on AI to Get Travel Insurance Claims Paid in Minutes," Skift, August 5, 2026. Accessed September 2026. https://skift.com/2026/08/05/faye-raises-50-million-bets-on-ai-to-get-travel-insurance-claims-paid-in-minutes/ — Third independent travel-industry tier-1 press source confirming Madrona-led $50M Series C.
