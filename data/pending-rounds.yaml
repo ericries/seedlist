@@ -74,14 +74,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Positron AI raised $875M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-10'
-  parsed_company: Positron AI
-  parsed_amount: $875M
-  parsed_round: Series C
-  status: pending
 - title: Sequen raised $90M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -89,14 +81,6 @@ pending_rounds:
   parsed_company: Sequen
   parsed_amount: $90M
   parsed_round: Series B
-  status: pending
-- title: TwoStep Therapeutics raised $62.5M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-10'
-  parsed_company: TwoStep Therapeutics
-  parsed_amount: $62.5M
-  parsed_round: Series A
   status: pending
 - title: ARC raised $60M
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -445,14 +429,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round
-  url: https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/
-  source: crunchbase
-  date_found: '2026-09-08'
-  parsed_company: Mistral AI
-  parsed_amount: $3.5B
-  parsed_round: null
-  status: pending
 - title: Molten Ventures raises €203 million to back UK and European growth-stage
     tech companies
   url: https://www.eu-startups.com/2026/09/molten-ventures-raises-e203-million-to-back-uk-and-european-growth-stage-tech-companies/
@@ -505,14 +481,6 @@ pending_rounds:
   parsed_company: 'CEE’s biggest checks: 10 standout startup'
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Superluminal Medicines raised $60M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-05'
-  parsed_company: Superluminal Medicines
-  parsed_amount: $60M
-  parsed_round: Series B
   status: pending
 - title: Ollie raised $7.5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata

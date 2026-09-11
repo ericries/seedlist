@@ -5978,3 +5978,35 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-11: New profile — $22M Series A (2026-09-10) led by Ten Coves Capital with BNY, 8VC, Fin Capital, Focus Financial Partners, Rockefeller Capital Management. NYC AI wealth-transfer platform. Source: AlleyWatch."
   added: 2026-09-11
+- slug: superluminal-medicines
+  type: startup
+  reason: "Round monitoring 2026-09-11: New profile — $60M Series B (2026-09-05) led by BVF Partners with Deep Track Capital, Perceptive Advisors, RA Capital, Insight Partners, NVIDIA NVentures, Catalio Capital, Eli Lilly, Cooley, Gaingels. Boston GPCR drug discovery. Sources: Endpoints News, superluminalrx.com."
+  added: 2026-09-11
+- slug: positron-ai
+  type: startup
+  reason: "Round monitoring 2026-09-11: New profile — $875M Series C at $5B valuation (2026-09-10) led by NEA, Atreides Management, Valor Equity Partners with Andra Capital, SemiAnalysis Capital, Jim Clark. Reno AI inference silicon. Sources: positron.ai, LinkedIn."
+  added: 2026-09-11
+- slug: twostep-therapeutics
+  type: startup
+  reason: "Round monitoring 2026-09-11: New profile — $62.5M Series A (2026-09-09) led by Insight Partners with Maverick Ventures, M Ventures, Pfizer Ventures, NFX Bio, 2048 Ventures. Stanford spinout, tumor-targeted peptide-drug conjugate. Sources: twosteptx.com, BusinessWire."
+  added: 2026-09-11
+- slug: insight-partners
+  type: firm
+  reason: "Round monitoring 2026-09-11: appeared in Superluminal Medicines Series B ($60M, 2026-09-05) and TwoStep Therapeutics Series A ($62.5M, 2026-09-09, lead)."
+  added: 2026-09-11
+- slug: nea
+  type: firm
+  reason: "Round monitoring 2026-09-11: appeared in Positron AI Series C ($875M, 2026-09-10, co-lead)."
+  added: 2026-09-11
+- slug: valor-equity-partners
+  type: firm
+  reason: "Round monitoring 2026-09-11: appeared in Positron AI Series C ($875M, 2026-09-10, co-lead)."
+  added: 2026-09-11
+- slug: maverick-ventures
+  type: firm
+  reason: "Round monitoring 2026-09-11: appeared in TwoStep Therapeutics Series A ($62.5M, 2026-09-09)."
+  added: 2026-09-11
+- slug: nfx
+  type: firm
+  reason: "Round monitoring 2026-09-11: appeared in TwoStep Therapeutics Series A ($62.5M, 2026-09-09) via NFX Bio."
+  added: 2026-09-11
