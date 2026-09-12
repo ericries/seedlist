@@ -51,6 +51,14 @@ No independently sourced investor commentary found at this time.
 
 — Hamza Derbas, CEO & Co-Founder of Maven Robotics, in TechCrunch coverage of the Series A [^1].
 
+"We saw how people were working; we zeroed in on flows we could immediately bring value to."
+
+— Hamza Derbas, CEO & Co-Founder of Maven Robotics, on the company's customer-first approach [^1].
+
+"We're not in the race for models — we're in the race to solve industrial labor."
+
+— Hamza Derbas, CEO & Co-Founder of Maven Robotics, on the company's market positioning [^1].
+
 ## Sources
 
 [^1]: "Maven Robotics wants to steal your robot deployment deal," TechCrunch, September 10, 2026. Accessed September 11, 2026. https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/

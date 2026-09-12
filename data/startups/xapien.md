@@ -31,11 +31,13 @@ Xapien is an AI-native due diligence platform used by compliance, legal, and pro
 
 ## What Investors Say
 
-> "Xapien represents a rare opportunity for Spectrum to back a team with deep domain expertise that has been laser focused on harnessing innovative AI technology to transform and automate enhanced due diligence." — Adam Margolin, Managing Director, Spectrum Equity [^2]
+> "Xapien represents a rare opportunity for Spectrum to back a team with deep domain expertise that has been laser focused on harnessing innovative AI technology to transform and automate enhanced due diligence. Xapien is fast emerging as a new standard for counterparty risk management, and we are excited to support Chris, Dan and Shaun in this next stage of growth." — Adam Margolin, Managing Director, Spectrum Equity [^2]
+
+> "For too long, compliance teams have had to choose between the depth of their research and the speed at which they need to act. Xapien shows that automation can deliver both." — Joel Lange, EVP & General Manager, Risk and Enterprise, Dow Jones [^1]
 
 ## What Founders Say
 
-> "Third-party due diligence has remained stubbornly manual for twenty years... This funding lets Xapien pursue its mission to give compliance, legal, and procurement teams full visibility on every counterparty, all the time." — Chris Green, CEO, Xapien [^1]
+> "Third-party due diligence has remained stubbornly manual for twenty years. Hence, businesses have had to ration their scrutiny to a subset of relationships with one-off checks at the point of onboarding, leaving them massively exposed. This funding lets Xapien pursue its mission to give compliance, legal, and procurement teams full visibility on every counterparty, all the time, giving organizations the confidence to move at speed." — Chris Green, CEO, Xapien [^1][^2]
 
 ## Sources
 

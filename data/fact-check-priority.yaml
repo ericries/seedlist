@@ -1,65 +1,64 @@
 priority:
 - slug: bluecore-energy
   type: startup
-  reason: "Round monitoring 2026-09-10: Added $50M Seed round (2026-09-08) led by Silverton Partners with Slauson & Co., Harlem Capital, Chris Larsen, Collab Capital, HartBeat Ventures. Sources: (1) TechCrunch."
+  reason: 'Round monitoring 2026-09-10: Added $50M Seed round (2026-09-08) led by Silverton Partners with Slauson & Co., Harlem Capital, Chris Larsen, Collab Capital, HartBeat Ventures. Sources: (1) TechCrunch.'
   added: 2026-09-10
   status: resolved
   resolved: 2026-09-10
-  resolution_note: "Fact-spec sweep 2026-09-10: verified $50M Seed round via 3 independent sources: TechCrunch [^2] (2026-09-08, primary tech press), Bluecore Energy company site [^1] (2026-07-21, primary company source for pre-seed), plus NEW AfroTech [^3] (2026-09-09, contemporaneous independent trade press). Silverton Partners lead confirmed. Expanded participant list per AfroTech to include Precursor Ventures, LMNT, Visible Hands VC, Karman Ventures (existing) and MaC Ventures, Vanderbilt, Black Angel Group (new). Added new verbatim Asante quote: 'Our focus is simple. Create and deliver zero-emission energy as safely and quickly as possible.' 1 new citation added ([^3])."
+  resolution_note: 'Fact-spec sweep 2026-09-10: verified $50M Seed round via 3 independent sources: TechCrunch [^2] (2026-09-08, primary tech press), Bluecore Energy company site [^1] (2026-07-21, primary company source for pre-seed), plus NEW AfroTech [^3] (2026-09-09, contemporaneous independent trade press). Silverton Partners lead confirmed. Expanded participant list per AfroTech to include Precursor Ventures, LMNT, Visible Hands VC, Karman Ventures (existing) and MaC Ventures, Vanderbilt, Black Angel Group (new). Added new verbatim Asante quote: ''Our focus is simple. Create and deliver zero-emission energy as safely and quickly as possible.'' 1 new citation added ([^3]).'
   processed: '2026-09-10'
 - slug: cloudnc
   type: startup
-  reason: "Round monitoring 2026-09-10: New lean profile for $20M Series B extension (2026-09-08) led by Nimble Ventures with Calculus VC, Entrepreneurs First, LM Capital. Sources: (1) TechCrunch; (2) EU-Startups (blocked but URL cited)."
+  reason: 'Round monitoring 2026-09-10: New lean profile for $20M Series B extension (2026-09-08) led by Nimble Ventures with Calculus VC, Entrepreneurs First, LM Capital. Sources: (1) TechCrunch; (2) EU-Startups (blocked but URL cited).'
   added: 2026-09-10
   status: resolved
   resolved: '2026-09-10'
-  resolution_note: "Fact-spec sweep 2026-09-10 (second pass): added 3rd primary source [^3] CloudNC company newsroom (https://www.cloudnc.com/news-room/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining, 2026-09-09). Corrected participant name from 'LM Capital' to 'LM Ventures' (Lockheed Martin's venture arm) per company primary source. Added John Burbank (Nimble Ventures founder) verbatim quote to What Investors Say: 'CloudNC's automation of CNC will enable massive increases in onshoring of manufacturing and global production of mission-critical components.' Prior pass had verified via TechCrunch only; now verified via 3 independent primary sources."
+  resolution_note: 'Fact-spec sweep 2026-09-10 (second pass): added 3rd primary source [^3] CloudNC company newsroom (https://www.cloudnc.com/news-room/cloudnc-raises-20m-to-expand-ai-tools-for-precision-machining, 2026-09-09). Corrected participant name from ''LM Capital'' to ''LM Ventures'' (Lockheed Martin''s venture arm) per company primary source. Added John Burbank (Nimble Ventures founder) verbatim quote to What Investors Say: ''CloudNC''s automation of CNC will enable massive increases in onshoring of manufacturing and global production of mission-critical components.'' Prior pass had verified via TechCrunch only; now verified via 3 independent primary sources.'
   processed: '2026-09-10'
 - slug: stoke-space
   type: startup
-  reason: "Round monitoring 2026-09-08: New lean profile for $1B Series E co-led by Point72 Ventures and Spark Capital. Participants: General Innovation, Glade Brook Capital, US Innovative Technology, Washington Harbour Partners, Woven Capital, Y Combinator. Total raised $2.3B. Sources: (1) TechCrunch; (2) Stoke Space press release; (3) TechStartups roundup."
+  reason: 'Round monitoring 2026-09-08: New lean profile for $1B Series E co-led by Point72 Ventures and Spark Capital. Participants: General Innovation, Glade Brook Capital, US Innovative Technology, Washington Harbour Partners, Woven Capital, Y Combinator. Total raised $2.3B. Sources: (1) TechCrunch; (2) Stoke Space press release; (3) TechStartups roundup.'
   added: 2026-09-08
   status: resolved
   resolved: 2026-09-10
-  resolution_note: "Fact-spec sweep 2026-09-10: verified $1B Series E via 3 independent primary sources: Stoke Space company press release [^2] (primary company source), TechCrunch [^1] (2026-09-08, primary tech press), TechStartups roundup [^3] (2026-09-08, contemporaneous). Confirmed Point72 Ventures + Spark Capital co-led. Corrected 'US Innovative Technology' → 'US Innovation Technology' per company primary source and TechStartups. Extended Clay Fisher quote to full verbatim: 'Full reusability is the inevitable end state of the market, providing an order-of-magnitude cost and service advantage over partially reusable rockets.' Andy Lapsa and Chris Morales quotes verified verbatim. Total raised $2.3B confirmed."
+  resolution_note: 'Fact-spec sweep 2026-09-10: verified $1B Series E via 3 independent primary sources: Stoke Space company press release [^2] (primary company source), TechCrunch [^1] (2026-09-08, primary tech press), TechStartups roundup [^3] (2026-09-08, contemporaneous). Confirmed Point72 Ventures + Spark Capital co-led. Corrected ''US Innovative Technology'' → ''US Innovation Technology'' per company primary source and TechStartups. Extended Clay Fisher quote to full verbatim: ''Full reusability is the inevitable end state of the market, providing an order-of-magnitude cost and service advantage over partially reusable rockets.'' Andy Lapsa and Chris Morales quotes verified verbatim. Total raised $2.3B confirmed.'
   processed: '2026-09-10'
 - slug: mistral-ai
   type: startup
-  reason: "Round monitoring 2026-09-08: Added Series D — €3B at post-money >€21B, led by Samsung Electronics, with Scaleup Europe Fund/EQT and PSG Equity co-leading. Broad participation: Advent, BlackRock, Grand Duchy of Luxembourg, a16z, ASML, Belfius, BNP Paribas CIB, Bpifrance, Carmignac, DST Global, Eurazeo, General Catalyst, Headline, Hillspire, Index Ventures, Korelya Capital, Lightspeed, Nvidia, Phoenix Court Solar, Salesforce Ventures. Sources: (1) Mistral press release; (2) TechStartups; (3) EU-Startups."
+  reason: 'Round monitoring 2026-09-08: Added Series D — €3B at post-money >€21B, led by Samsung Electronics, with Scaleup Europe Fund/EQT and PSG Equity co-leading. Broad participation: Advent, BlackRock, Grand Duchy of Luxembourg, a16z, ASML, Belfius, BNP Paribas CIB, Bpifrance, Carmignac, DST Global, Eurazeo, General Catalyst, Headline, Hillspire, Index Ventures, Korelya Capital, Lightspeed, Nvidia, Phoenix Court Solar, Salesforce Ventures. Sources: (1) Mistral press release; (2) TechStartups; (3) EU-Startups.'
   added: 2026-09-08
   status: resolved
   resolved: 2026-09-10
-  resolution_note: "Fact-spec sweep 2026-09-10: verified €3B Series D via 3 independent primary sources: Mistral AI company press release [^6] (primary company source), TechStartups roundup [^7] (2026-09-08, contemporaneous), EU-Startups [^8] (2026-09-08, contemporaneous European tech press). Samsung Electronics lead confirmed. Scaleup Europe Fund (managed by EQT) and PSG Equity co-leads confirmed. New investors: Advent, BlackRock, Grand Duchy of Luxembourg. Existing participants confirmed: a16z, ASML, Belfius, BNP Paribas CIB, Bpifrance, Carmignac, DST Global, Eurazeo, General Catalyst, Headline, Hillspire, Index Ventures, Korelya Capital, Lightspeed, Nvidia, Phoenix Court Solar, Salesforce Ventures. Post-money >€21B confirmed (nearly doubled from prior €11.7B). Described as 'largest equity fundraising round ever completed by a European technology company' per Mistral primary source."
+  resolution_note: 'Fact-spec sweep 2026-09-10: verified €3B Series D via 3 independent primary sources: Mistral AI company press release [^6] (primary company source), TechStartups roundup [^7] (2026-09-08, contemporaneous), EU-Startups [^8] (2026-09-08, contemporaneous European tech press). Samsung Electronics lead confirmed. Scaleup Europe Fund (managed by EQT) and PSG Equity co-leads confirmed. New investors: Advent, BlackRock, Grand Duchy of Luxembourg. Existing participants confirmed: a16z, ASML, Belfius, BNP Paribas CIB, Bpifrance, Carmignac, DST Global, Eurazeo, General Catalyst, Headline, Hillspire, Index Ventures, Korelya Capital, Lightspeed, Nvidia, Phoenix Court Solar, Salesforce Ventures. Post-money >€21B confirmed (nearly doubled from prior €11.7B). Described as ''largest equity fundraising round ever completed by a European technology company'' per Mistral primary source.'
   processed: '2026-09-10'
 - slug: spark-capital
   type: firm
-  reason: "Round monitoring 2026-09-08: Co-led Stoke Space $1B Series E — update portfolio table."
+  reason: 'Round monitoring 2026-09-08: Co-led Stoke Space $1B Series E — update portfolio table.'
   added: 2026-09-08
   status: resolved
   resolved: 2026-09-10
-  resolution_note: "Fact-spec sweep 2026-09-10: added Stoke Space Series E row to spark-capital portfolio table (co-led with Point72 Ventures, $1B initial close, $2.3B total raised) with 3 named-footnote citations ([^stoke-sp1] Stoke Space company press release, [^stoke-sp2] TechCrunch, [^stoke-sp3] TechStartups) — all 3 primary sources verified via WebFetch. Updated last_verified_investment frontmatter to Stoke Space Series E 2026-09-08 (previously Oratomic 2026-07-07)."
+  resolution_note: 'Fact-spec sweep 2026-09-10: added Stoke Space Series E row to spark-capital portfolio table (co-led with Point72 Ventures, $1B initial close, $2.3B total raised) with 3 named-footnote citations ([^stoke-sp1] Stoke Space company press release, [^stoke-sp2] TechCrunch, [^stoke-sp3] TechStartups) — all 3 primary sources verified via WebFetch. Updated last_verified_investment frontmatter to Stoke Space Series E 2026-09-08 (previously Oratomic 2026-07-07).'
   processed: '2026-09-10'
 - slug: y-combinator
   type: firm
-  reason: "Round monitoring 2026-09-08: Participated in Stoke Space $1B Series E."
+  reason: 'Round monitoring 2026-09-08: Participated in Stoke Space $1B Series E.'
   added: 2026-09-08
   status: resolved
   resolved: 2026-09-10
-  resolution_note: "Fact-spec sweep 2026-09-10: added Stoke Space Series E row to y-combinator portfolio table (YC as named participant alongside General Innovation, Glade Brook, US Innovative Technology, Washington Harbour, Woven Capital) with 3 named-footnote citations ([^stoke-yc1] Stoke Space company press release, [^stoke-yc2] TechCrunch, [^stoke-yc3] TechStartups) — all 3 primary sources verified via WebFetch."
+  resolution_note: 'Fact-spec sweep 2026-09-10: added Stoke Space Series E row to y-combinator portfolio table (YC as named participant alongside General Innovation, Glade Brook, US Innovative Technology, Washington Harbour, Woven Capital) with 3 named-footnote citations ([^stoke-yc1] Stoke Space company press release, [^stoke-yc2] TechCrunch, [^stoke-yc3] TechStartups) — all 3 primary sources verified via WebFetch.'
   processed: '2026-09-10'
 - slug: andreessen-horowitz
   type: firm
-  reason: "Round monitoring 2026-09-08: Participated in Mistral AI €3B Series D."
+  reason: 'Round monitoring 2026-09-08: Participated in Mistral AI €3B Series D.'
   added: 2026-09-08
   status: resolved
   resolved: 2026-09-10
-  resolution_note: "Fact-spec sweep 2026-09-10: added comprehensive Mistral AI portfolio row (Series A led → Series B → Series C → Series D as continuing existing investor) to a16z portfolio table — Mistral was missing entirely despite a16z leading the December 2023 Series A. 4 named-footnote citations added: [^mistral-a1] Mistral AI 2026-09-08 press release (primary company source explicitly listing a16z among Series D existing-investor participants); [^mistral-a2] TechCrunch seed coverage; [^mistral-a3] TechCrunch Series A coverage confirming a16z lead; [^mistral-a4] TechStartups Sept 8 2026 roundup. Samsung Electronics Series D lead + Scaleup Europe Fund/EQT & PSG Equity co-leads confirmed. Post-money >€21B; total raised now ~€5.8B."
+  resolution_note: 'Fact-spec sweep 2026-09-10: added comprehensive Mistral AI portfolio row (Series A led → Series B → Series C → Series D as continuing existing investor) to a16z portfolio table — Mistral was missing entirely despite a16z leading the December 2023 Series A. 4 named-footnote citations added: [^mistral-a1] Mistral AI 2026-09-08 press release (primary company source explicitly listing a16z among Series D existing-investor participants); [^mistral-a2] TechCrunch seed coverage; [^mistral-a3] TechCrunch Series A coverage confirming a16z lead; [^mistral-a4] TechStartups Sept 8 2026 roundup. Samsung Electronics Series D lead + Scaleup Europe Fund/EQT & PSG Equity co-leads confirmed. Post-money >€21B; total raised now ~€5.8B.'
   processed: '2026-09-10'
 - slug: lyte
   type: startup
-  reason: 'Round monitoring 2026-09-02: Created lean profile for $165M Series C (2026-09-02) led by Maverick Silicon, with Fidelity Management, Atreides Management, Key1 Capital, and Ora Global participating. Post-money valuation $1.6B; total raised $272M since 2021. Sources: (1) Crunchbase News; (2) Lyte company blog /news/series-c; (3) Lyte prior stealth-exit blog. Founders Alexander Shpunt (ex-PrimeSense), Arman Hajati, Yuval Gerson — all former Apple engineers. Needs 3rd independent tech-press verification when accessible.
-
-    '
+  reason: |
+    Round monitoring 2026-09-02: Created lean profile for $165M Series C (2026-09-02) led by Maverick Silicon, with Fidelity Management, Atreides Management, Key1 Capital, and Ora Global participating. Post-money valuation $1.6B; total raised $272M since 2021. Sources: (1) Crunchbase News; (2) Lyte company blog /news/series-c; (3) Lyte prior stealth-exit blog. Founders Alexander Shpunt (ex-PrimeSense), Arman Hajati, Yuval Gerson — all former Apple engineers. Needs 3rd independent tech-press verification when accessible.
   added: 2026-09-02
   status: resolved
   resolved: 2026-09-02
@@ -71,18 +70,16 @@ priority:
   added: 2026-09-02
   status: resolved
   resolved: 2026-09-02
-  resolution_note: 'Fact-spec sweep 2026-09-02: Xona Space Systems startup profile substantially expanded. Added missing Series B row: 2025-06-26, $92M, led by Craft Ventures, with Stellar Ventures, Seraphim Ventures, Toyota Ventures, First Spark, Industrious Ventures, Future Ventures, and NGP Capital participating. Sources: (1) PR Newswire company-issued press release [^5] — primary; (2) Xona Space Systems Newsroom [^6] — company site confirming stage progression through Series B → Series C. Corrected 2026-03 round from "Growth" to "Series C" ($170M) per company newsroom listing "$170M Series C to Accelerate Pulsar''s Path to Scale" (dated 3/26/26), and corrected date from 2026-03-27 to 2026-03-26. Added founder Brian Manning (Co-Founder & CEO) to frontmatter, added his verbatim quote to "What Founders Say" from the Series B PR Newswire release. Updated stage_latest to "Series C" and total_raised to "$170M+". Parallel update to future-ventures.md portfolio row: date changed from "2025" to "2025-06-26" with new corroborating citation [^xona-fv1]. Additional cross-check firms (craft-ventures, toyota-ventures, seraphim-space, ngp-capital) not yet in database — added to frontmatter firms: array with series-b round for future backfill.
-
-    '
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Xona Space Systems startup profile substantially expanded. Added missing Series B row: 2025-06-26, $92M, led by Craft Ventures, with Stellar Ventures, Seraphim Ventures, Toyota Ventures, First Spark, Industrious Ventures, Future Ventures, and NGP Capital participating. Sources: (1) PR Newswire company-issued press release [^5] — primary; (2) Xona Space Systems Newsroom [^6] — company site confirming stage progression through Series B → Series C. Corrected 2026-03 round from "Growth" to "Series C" ($170M) per company newsroom listing "$170M Series C to Accelerate Pulsar's Path to Scale" (dated 3/26/26), and corrected date from 2026-03-27 to 2026-03-26. Added founder Brian Manning (Co-Founder & CEO) to frontmatter, added his verbatim quote to "What Founders Say" from the Series B PR Newswire release. Updated stage_latest to "Series C" and total_raised to "$170M+". Parallel update to future-ventures.md portfolio row: date changed from "2025" to "2025-06-26" with new corroborating citation [^xona-fv1]. Additional cross-check firms (craft-ventures, toyota-ventures, seraphim-space, ngp-capital) not yet in database — added to frontmatter firms: array with series-b round for future backfill.
 - slug: valar-atomics-contrary
   type: firm
   reason: 'Fact-spec 2026-09-02: Contrary portfolio entry showed ''Seed | ~2023'' — aggregator misattribution. Contrary''s actual first investment was Series A November 2025, per Contrary Research.'
   added: 2026-09-02
   status: resolved
   resolved: 2026-09-02
-  resolution_note: 'Fact-spec sweep 2026-09-02: Contrary portfolio entry for Valar Atomics corrected. Previous entry ("Seed | ~2023") was an aggregator-derived misattribution. Per Contrary Research primary source [^valar-c1], Contrary''s first investment was the Series A in November 2025 ($130M, led by Snowpoint Ventures / Doug Philippone). Other Series A participants: Palmer Luckey (Anduril founder), Shyam Sankar (Palantir CTO), Dream Ventures, Day One Ventures. Contrary was NOT among the February 2025 Seed round investors (Riot Ventures lead; AlleyCorp, Day One Ventures, Initialized Capital, Steel Atlas participants). Updated portfolio row to "Series A (participant; Snowpoint Ventures / Doug Philippone lead; $130M) | 2025-11 | Nuclear energy | Active ($150M+ total funding as of Nov 2025)". Also corrected total-funding claim from "$450M+" (unverified) to "$150M+" (confirmed via Contrary Research). Founders Isaiah Taylor (CEO, dropout at 16, great-grandfather Manhattan Project physicist) and Mark Mitchell (CNO, ex-USNC president) documented in citation. Note: only 1 primary source (Contrary Research) was accessible for external corroboration due to WebSearch budget exhaustion this session; Contrary Research is Contrary Capital''s own primary research publication, so it functions as the investor-side primary but ideal 3-source triangulation was not achievable. Correction is defensible because it MOVES FROM a demonstrably wrong entry TO one grounded in a primary source.
-
-    '
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Contrary portfolio entry for Valar Atomics corrected. Previous entry ("Seed | ~2023") was an aggregator-derived misattribution. Per Contrary Research primary source [^valar-c1], Contrary's first investment was the Series A in November 2025 ($130M, led by Snowpoint Ventures / Doug Philippone). Other Series A participants: Palmer Luckey (Anduril founder), Shyam Sankar (Palantir CTO), Dream Ventures, Day One Ventures. Contrary was NOT among the February 2025 Seed round investors (Riot Ventures lead; AlleyCorp, Day One Ventures, Initialized Capital, Steel Atlas participants). Updated portfolio row to "Series A (participant; Snowpoint Ventures / Doug Philippone lead; $130M) | 2025-11 | Nuclear energy | Active ($150M+ total funding as of Nov 2025)". Also corrected total-funding claim from "$450M+" (unverified) to "$150M+" (confirmed via Contrary Research). Founders Isaiah Taylor (CEO, dropout at 16, great-grandfather Manhattan Project physicist) and Mark Mitchell (CNO, ex-USNC president) documented in citation. Note: only 1 primary source (Contrary Research) was accessible for external corroboration due to WebSearch budget exhaustion this session; Contrary Research is Contrary Capital's own primary research publication, so it functions as the investor-side primary but ideal 3-source triangulation was not achievable. Correction is defensible because it MOVES FROM a demonstrably wrong entry TO one grounded in a primary source.
 - slug: empirik
   type: startup
   reason: 'Round monitoring 2026-09-01: Created lean profile for $21M seed (2026-09-01) led by Sequoia Capital with Canapi and Alumni Ventures. Source: TechCrunch. Needs 2+ additional primary sources.'
@@ -119,36 +116,32 @@ priority:
   added: 2026-09-01
   status: resolved
   resolved: 2026-09-01
-  note: 'Fact-spec sweep 2026-09-01 (part of metriport/felix-pago/air-security batch): Verified Metriport $26M Series A on 2026-08-27 led by Matrix Partners (TJ Parker, General Partner) with ARTIS Ventures and Y Combinator participating, via 4 primary sources: (1) Metriport company blog [^1] (existing), (2) AlleyWatch weekly report [^2] (existing), (3) PR Newswire company press release [^3] (new), (4) HIT Consultant independent healthcare trade press [^4] (new). Added TJ Parker Matrix quote to "What Investors Say" and a second Dima Goncharov quote from PR Newswire. Confirmed $28.4M total funding to date, notable customers (Amazon One Medical, Sollis Health, Color Health), HITRUST r2 Certification, and San Francisco base. Parallel update to y-combinator.md portfolio (added Metriport row with 3 citations [^metrip-yc1][^metrip-yc2][^metrip-yc3]). Matrix Partners venture profile not yet in database — matrix-capital-management.md is a Waltham hedge fund, not the venture firm; Matrix Partners already in queue.yaml. ARTIS Ventures also already in queue.
-
-    '
+  note: |
+    Fact-spec sweep 2026-09-01 (part of metriport/felix-pago/air-security batch): Verified Metriport $26M Series A on 2026-08-27 led by Matrix Partners (TJ Parker, General Partner) with ARTIS Ventures and Y Combinator participating, via 4 primary sources: (1) Metriport company blog [^1] (existing), (2) AlleyWatch weekly report [^2] (existing), (3) PR Newswire company press release [^3] (new), (4) HIT Consultant independent healthcare trade press [^4] (new). Added TJ Parker Matrix quote to "What Investors Say" and a second Dima Goncharov quote from PR Newswire. Confirmed $28.4M total funding to date, notable customers (Amazon One Medical, Sollis Health, Color Health), HITRUST r2 Certification, and San Francisco base. Parallel update to y-combinator.md portfolio (added Metriport row with 3 citations [^metrip-yc1][^metrip-yc2][^metrip-yc3]). Matrix Partners venture profile not yet in database — matrix-capital-management.md is a Waltham hedge fund, not the venture firm; Matrix Partners already in queue.yaml. ARTIS Ventures also already in queue.
 - slug: gatik
   type: startup
   status: resolved
   reason: 'Round monitoring 2026-09-01: Created profile for $200M growth round (2026-08-25) led by Qatar Investment Authority and Koch Disruptive Technologies with Millennium Management, ARK Invest, Intact Private Capital. (Original rationale also listed Alumni Ventures — see resolution note.)'
   added: 2026-09-01
   resolved: 2026-09-01
-  resolution_note: 'Fact-spec sweep 2026-09-01: Verified Gatik $200M Series D on 2026-08-25 co-led by Qatar Investment Authority (QIA) and Koch Disruptive Technologies via 5 independent primary sources: (1) Yahoo Finance / Gatik company press release [^1] (existing), (2) TechCrunch [^2] (existing), (3) Bloomberg [^3] (existing, 403 on re-fetch but retained), (4) Gatik company newsroom mirror at archive.gatik.ai [^4] (new — primary press with Byron Knight/Gautam Narang/Cathie Wood quotes), (5) SiliconANGLE [^5] (new — Cathie Wood ARK Invest quote), (6) Gulf Times [^6] (new — Doha-based coverage adding Arca Continental as named participant and Abdullah Al Kuwari QIA quote). Alumni Ventures participation is NOT confirmed by any of the six primary sources examined and has been removed from the round row; the original rationale here appears to have been mis-transcribed. Arca Continental added as verified co-participant (Gulf Times / QIA statement). Founders verified via Yahoo/Gatik press release: Gautam Narang (CEO), Arjun Narang (CTO), Apeksha Kumavat (Chief Engineer). Added Cathie Wood, Byron Knight, and Abdullah Al Kuwari quotes to "What Investors Say"; added two Gautam Narang quotes to "What Founders Say". Removed the lean-profile disclaimer. Parallel update on koch-disruptive-technologies.md: added Series D 2026-08-25 row after existing Series B 2021 entry, with 4 matching citations [^gatikd1..gatikd4].
-
-    '
+  resolution_note: |
+    Fact-spec sweep 2026-09-01: Verified Gatik $200M Series D on 2026-08-25 co-led by Qatar Investment Authority (QIA) and Koch Disruptive Technologies via 5 independent primary sources: (1) Yahoo Finance / Gatik company press release [^1] (existing), (2) TechCrunch [^2] (existing), (3) Bloomberg [^3] (existing, 403 on re-fetch but retained), (4) Gatik company newsroom mirror at archive.gatik.ai [^4] (new — primary press with Byron Knight/Gautam Narang/Cathie Wood quotes), (5) SiliconANGLE [^5] (new — Cathie Wood ARK Invest quote), (6) Gulf Times [^6] (new — Doha-based coverage adding Arca Continental as named participant and Abdullah Al Kuwari QIA quote). Alumni Ventures participation is NOT confirmed by any of the six primary sources examined and has been removed from the round row; the original rationale here appears to have been mis-transcribed. Arca Continental added as verified co-participant (Gulf Times / QIA statement). Founders verified via Yahoo/Gatik press release: Gautam Narang (CEO), Arjun Narang (CTO), Apeksha Kumavat (Chief Engineer). Added Cathie Wood, Byron Knight, and Abdullah Al Kuwari quotes to "What Investors Say"; added two Gautam Narang quotes to "What Founders Say". Removed the lean-profile disclaimer. Parallel update on koch-disruptive-technologies.md: added Series D 2026-08-25 row after existing Series B 2021 entry, with 4 matching citations [^gatikd1..gatikd4].
 - slug: felix-pago
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $200M Series C ($87M equity + $113M debt, 2026-09-01) led by a16z and General Catalyst with QED Investors, Castle Island Ventures, Switch Ventures, Contour Venture Partners, Endeavor Catalyst. Sources: Crunchbase News. Needs additional primary sources for triangulation.'
   added: 2026-09-01
   status: resolved
   resolved: 2026-09-01
-  note: 'Fact-spec sweep 2026-09-01: Verified Félix (Felix Pago) Series C $200M on 2026-09-01 — $87M equity led by Andreessen Horowitz, plus $113M debt facility from General Catalyst''s Customer Value Fund, at ~$1.45B post-money valuation (roughly triple the ~$484.5M Series B) — with QED Investors, Castle Island Ventures, Switch Ventures, Contour Venture Partners, and Endeavor Catalyst participating. Sources: (1) Crunchbase News [^1] (existing, primary tier-1); (2) Coinfomania [^2] (new, full body accessed, corroborates $87M/$113M split and El Salvador/Nicaragua/Dominican Republic/Colombia expansion targets); (3) Bloomberg [^3] (new, headline verified via search index — body behind paywall — confirms $200M and "expand into financial services" framing); (4) Miami Herald [^4] (new, headline verified via search index — body behind paywall — confirms ~$87M a16z equity portion and founder Manuel Godoy''s Venezuelan origin). Added Ali Yahya (a16z crypto) quote to "What Investors Say" from Crunchbase News source. Updated About section with $8B remittances processed pre-round and expansion targets. Parallel updates to andreessen-horowitz.md, general-catalyst.md, and qed-investors.md portfolios with matching 4 citations each.
-
-    '
+  note: |
+    Fact-spec sweep 2026-09-01: Verified Félix (Felix Pago) Series C $200M on 2026-09-01 — $87M equity led by Andreessen Horowitz, plus $113M debt facility from General Catalyst's Customer Value Fund, at ~$1.45B post-money valuation (roughly triple the ~$484.5M Series B) — with QED Investors, Castle Island Ventures, Switch Ventures, Contour Venture Partners, and Endeavor Catalyst participating. Sources: (1) Crunchbase News [^1] (existing, primary tier-1); (2) Coinfomania [^2] (new, full body accessed, corroborates $87M/$113M split and El Salvador/Nicaragua/Dominican Republic/Colombia expansion targets); (3) Bloomberg [^3] (new, headline verified via search index — body behind paywall — confirms $200M and "expand into financial services" framing); (4) Miami Herald [^4] (new, headline verified via search index — body behind paywall — confirms ~$87M a16z equity portion and founder Manuel Godoy's Venezuelan origin). Added Ali Yahya (a16z crypto) quote to "What Investors Say" from Crunchbase News source. Updated About section with $8B remittances processed pre-round and expansion targets. Parallel updates to andreessen-horowitz.md, general-catalyst.md, and qed-investors.md portfolios with matching 4 citations each.
 - slug: air-security
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for two seed rounds totaling $50M (2026-09-01) — first $10M led by Sequoia, second $40M led by Greenoaks. Angel participants include Zach Frankel (Cognition), Yinon Costica (Wiz), Ofir Ehrlich (Eon), Varun Anand (Clay), Anne Neuberger. Source: TechCrunch. Needs 2 more primary sources.'
   added: 2026-09-01
   status: resolved
   resolved: 2026-09-01
-  note: 'Fact-spec sweep 2026-09-01: Verified AIR (air.security) stealth exit on 2026-09-01 disclosing $50M total across two seed rounds — $10M Seed 1 led by Sequoia Capital + $40M Seed 2 led by Greenoaks Capital — with Swish, Netz, and angels Zach Frankel (Cognition), Yinon Costica (Wiz), Ofir Ehrlich (Eon), Anne Neuberger, Omer Adam, Varun Anand (Clay) participating. Founders Yair Saban (CEO) and Niv Hoffman (CTO) confirmed as Unit 8200 alumni who met ~a decade ago; ~40 employees in Israel. Sources: (1) TechCrunch [^1] (existing, tier-1 primary with round breakdown, angel list, Bogomil Balkansky quote); (2) AIR company blog "AIR is Coming Out of Stealth" [^2] (new, primary — Saban byline, market thesis quote, Ryan Knisley CSO from Costco/Disney disclosure); (3) Yahoo Finance [^3] (new, tier-1 financial press — Bogomil Balkansky Sequoia thesis quote, Swish/Netz corroboration); (4) CTech/Calcalist [^4] (new, Israeli tech press — Yair Saban firewall quote, angel list corroboration, Unit 8200 background, ~40-person Israel headcount). Added Bogomil Balkansky (Sequoia Partner) quote to "What Investors Say" and Yair Saban quotes to "What Founders Say". Updated location from "Undisclosed" to "Israel". Parallel updates to sequoia-capital.md and greenoaks-capital.md portfolios with matching 4 citations each.
-
-    '
+  note: |
+    Fact-spec sweep 2026-09-01: Verified AIR (air.security) stealth exit on 2026-09-01 disclosing $50M total across two seed rounds — $10M Seed 1 led by Sequoia Capital + $40M Seed 2 led by Greenoaks Capital — with Swish, Netz, and angels Zach Frankel (Cognition), Yinon Costica (Wiz), Ofir Ehrlich (Eon), Anne Neuberger, Omer Adam, Varun Anand (Clay) participating. Founders Yair Saban (CEO) and Niv Hoffman (CTO) confirmed as Unit 8200 alumni who met ~a decade ago; ~40 employees in Israel. Sources: (1) TechCrunch [^1] (existing, tier-1 primary with round breakdown, angel list, Bogomil Balkansky quote); (2) AIR company blog "AIR is Coming Out of Stealth" [^2] (new, primary — Saban byline, market thesis quote, Ryan Knisley CSO from Costco/Disney disclosure); (3) Yahoo Finance [^3] (new, tier-1 financial press — Bogomil Balkansky Sequoia thesis quote, Swish/Netz corroboration); (4) CTech/Calcalist [^4] (new, Israeli tech press — Yair Saban firewall quote, angel list corroboration, Unit 8200 background, ~40-person Israel headcount). Added Bogomil Balkansky (Sequoia Partner) quote to "What Investors Say" and Yair Saban quotes to "What Founders Say". Updated location from "Undisclosed" to "Israel". Parallel updates to sequoia-capital.md and greenoaks-capital.md portfolios with matching 4 citations each.
 - slug: andreessen-horowitz
   type: firm
   reason: Appeared in Félix Series C (2026-09-01, $200M co-led)
@@ -211,60 +204,49 @@ priority:
   added: 2026-09-01
   status: resolved
   resolved: 2026-09-01
-  note: 'Fact-spec sweep 2026-09-01: Verified BOTH Cloover financing events after discovering the profile''s citation structure was misleading — Yahoo Finance [^2] and cloover.com blog [^3] actually describe the January 2026 Series A round, not the September 2026 add-on facility.
-
+  note: |
+    Fact-spec sweep 2026-09-01: Verified BOTH Cloover financing events after discovering the profile's citation structure was misleading — Yahoo Finance [^2] and cloover.com blog [^3] actually describe the January 2026 Series A round, not the September 2026 add-on facility.
     (1) Jan 21, 2026 Series A: $22M equity co-led by MMC Ventures + QED Investors with Lowercarbon Capital, BNVT Capital, Bosch Ventures, Centrotec, Earthshot Ventures participating, PLUS $1.2B / €1.04B debt facility with €300M EIF guarantee. Verified via 5 primary sources: Yahoo Finance/GlobeNewswire, Cloover company blog, EU-Startups Jan article, Trending Topics, ESG Today.
-
     (2) Sep 1, 2026 add-on: €86.2M additional facility bringing total capacity to €1.12B, EIF guarantee expanded to €350M, revenue run rate €301.7M, company profitable. Verified via EU-Startups (Sept article) and corroborated in WebSearch snippets.
-
     Restructured Funding History table to show both rounds properly. Added 2 new sources ([^5] Trending Topics, [^6] ESG Today) bringing profile to 6 primary sources. Added founder quotes from Jodok Betschart (CEO) and Valentin Gönczy (CPO). Added founders array to frontmatter.
-
-    '
 - slug: yulu
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $93M Series C (2026-08-12) led by GEF Capital Partners ($63M equity + $30M debt). Sources: TechCrunch, Mercom India, YourStory.'
   added: 2026-09-01
   status: resolved
   resolved: 2026-09-01
-  note: 'Fact-spec sweep 2026-09-01: Verified Yulu $93M Series C on 2026-08-12 (GEF Capital-led equity $63M + $30M debt; ~$170M post-money) via 4 primary sources: TechCrunch [^1], Mercom India [^2], YourStory [^3], World Auto Forum [^4] (new). Confirmed via Business Standard search snippet + Evertiq. Added [^4] as fourth citation. TechCrunch and CEO Amit Gupta noted ~$5.5M of equity was used for secondary purchases from expiring seed funds. CORRECTED founder: replaced "Hemant Gupta" with "Anuj Tewari" — 3 independent sources (Business Standard, World Auto Forum, Evertiq via search snippet) consistently name "Amit Gupta, RK Misra, Naveen Dachuri, Anuj Tewari" as the 4 co-founders; no source located naming Hemant Gupta. Added Amit Gupta founder quote from World Auto Forum on Yulu''s operating thesis, plus his TechCrunch "AWS of mobility" positioning quote.
-
-    '
+  note: |
+    Fact-spec sweep 2026-09-01: Verified Yulu $93M Series C on 2026-08-12 (GEF Capital-led equity $63M + $30M debt; ~$170M post-money) via 4 primary sources: TechCrunch [^1], Mercom India [^2], YourStory [^3], World Auto Forum [^4] (new). Confirmed via Business Standard search snippet + Evertiq. Added [^4] as fourth citation. TechCrunch and CEO Amit Gupta noted ~$5.5M of equity was used for secondary purchases from expiring seed funds. CORRECTED founder: replaced "Hemant Gupta" with "Anuj Tewari" — 3 independent sources (Business Standard, World Auto Forum, Evertiq via search snippet) consistently name "Amit Gupta, RK Misra, Naveen Dachuri, Anuj Tewari" as the 4 co-founders; no source located naming Hemant Gupta. Added Amit Gupta founder quote from World Auto Forum on Yulu's operating thesis, plus his TechCrunch "AWS of mobility" positioning quote.
 - slug: vertical-aerospace
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for €86.6M ($100M) financing package (2026-08-11) — Mudrick Capital convertible + equity. Sources: EU-Startups, Insider Media, Flying Magazine.'
   added: 2026-09-01
   status: resolved
   resolved: 2026-09-01
-  note: 'Fact-spec sweep 2026-09-01: Attempted to verify the €86.6M ($100M) August 11, 2026 Vertical Aerospace financing package via all 3 cited primary sources. EU-Startups [^1] and Insider Media [^2] both returned HTTP 403 (anti-scraping — content presumably intact in browser). Flying Magazine [^3] was fetchable but its actual content covers a DIFFERENT and earlier event — the March 30, 2026 nonbinding framework announcement for up to $850M in convertible equity, an equity line of credit, and new convertible notes with Mudrick Capital (lead) and Yorkville Advisors. The August 11 event is a subsequent draw + equity injection under this parent facility, so Flying Magazine supports the framework context but not the specific $100M August 11 draw. WebSearch budget exhausted for this session (200/200 used), so no fourth source could be added. Profile''s internal facts remain internally consistent with the framework Flying Magazine describes, and Mudrick Capital as convertible-note counterparty is corroborated. Leaving profile unchanged; recommend a future fact-spec run add a fourth primary source (e.g., SEC 6-K, Reuters, or the company press release) when web search budget resets.
+  note: |
+    Fact-spec sweep 2026-09-01: Attempted to verify the €86.6M ($100M) August 11, 2026 Vertical Aerospace financing package via all 3 cited primary sources. EU-Startups [^1] and Insider Media [^2] both returned HTTP 403 (anti-scraping — content presumably intact in browser). Flying Magazine [^3] was fetchable but its actual content covers a DIFFERENT and earlier event — the March 30, 2026 nonbinding framework announcement for up to $850M in convertible equity, an equity line of credit, and new convertible notes with Mudrick Capital (lead) and Yorkville Advisors. The August 11 event is a subsequent draw + equity injection under this parent facility, so Flying Magazine supports the framework context but not the specific $100M August 11 draw. WebSearch budget exhausted for this session (200/200 used), so no fourth source could be added. Profile's internal facts remain internally consistent with the framework Flying Magazine describes, and Mudrick Capital as convertible-note counterparty is corroborated. Leaving profile unchanged; recommend a future fact-spec run add a fourth primary source (e.g., SEC 6-K, Reuters, or the company press release) when web search budget resets.
 
-
-    Follow-up sweep 2026-09-01: Fetched three additional primary sources for the August 11 event that WERE reachable — Yahoo Finance/BusinessWire syndication of the Vertical press release, AviTrader trade-press writeup, and StockTitan filing summary. CORRECTED the profile''s financing breakdown: the original two-component structure ($65M Mudrick convertible + $35M equity = $100M) was WRONG. The actual disclosure is three components: (1) $40M Mudrick convertible draw ($5M closed + $35M accelerated by Aug 12); (2) $35M underwritten equity offering at $1.05/unit (one share + one warrant per unit); (3) $25M Yorkville Advisors Global preferred equity facility issuance settled on announcement date. Added Yorkville as a named investor in the Funding History table. Replaced the two non-fetchable/off-topic footnotes (Insider Media 403; Flying Magazine wrong event) with Yahoo Finance/BusinessWire, AviTrader, and StockTitan — the profile now cites 4 primary sources with the EU-Startups European conversion retained as [^1]. Added Stuart Simpson (CEO) verbatim quote from the BusinessWire release. Currency: leading with USD (US-listed EVTL; SEC/BusinessWire disclosure is USD) with EU-Startups'' €86.6M conversion noted alongside.
-
-    '
+    Follow-up sweep 2026-09-01: Fetched three additional primary sources for the August 11 event that WERE reachable — Yahoo Finance/BusinessWire syndication of the Vertical press release, AviTrader trade-press writeup, and StockTitan filing summary. CORRECTED the profile's financing breakdown: the original two-component structure ($65M Mudrick convertible + $35M equity = $100M) was WRONG. The actual disclosure is three components: (1) $40M Mudrick convertible draw ($5M closed + $35M accelerated by Aug 12); (2) $35M underwritten equity offering at $1.05/unit (one share + one warrant per unit); (3) $25M Yorkville Advisors Global preferred equity facility issuance settled on announcement date. Added Yorkville as a named investor in the Funding History table. Replaced the two non-fetchable/off-topic footnotes (Insider Media 403; Flying Magazine wrong event) with Yahoo Finance/BusinessWire, AviTrader, and StockTitan — the profile now cites 4 primary sources with the EU-Startups European conversion retained as [^1]. Added Stuart Simpson (CEO) verbatim quote from the BusinessWire release. Currency: leading with USD (US-listed EVTL; SEC/BusinessWire disclosure is USD) with EU-Startups' €86.6M conversion noted alongside.
 - slug: clearjet
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $25M Series B (2026-08-12) led by Edison Partners. Sources: Crunchbase News, Edison Partners, Yahoo Finance.'
   added: 2026-09-01
   status: resolved
   resolved: 2026-09-01
-  note: 'Fact-spec sweep 2026-09-01: Verified ClearJet $25M Series B on 2026-08-12 (Edison Partners led) via all 3 cited primary sources: Crunchbase News [^1], Edison Partners release [^2], Yahoo Finance repost [^3]. Round amount, date, lead, and participant list all confirmed. CORRECTED THREE facts on the startup profile: (1) location was "New York, New York" → corrected to "Austin, Texas" (Crunchbase News + Edison Partners + Yahoo Finance all say Austin, TX). (2) founded year was 2020 → corrected to 2022 (per Crunchbase News). (3) Funding History co-investor list expanded to include Sky VC and Tandem Ventures — Edison Partners release lists both as participating in the Series B (not merely legacy cap-table members as prior version implied). Added CEO Chris Guggenheim to About section. All 3 primary sources continue to hold.
+  note: |
+    Fact-spec sweep 2026-09-01: Verified ClearJet $25M Series B on 2026-08-12 (Edison Partners led) via all 3 cited primary sources: Crunchbase News [^1], Edison Partners release [^2], Yahoo Finance repost [^3]. Round amount, date, lead, and participant list all confirmed. CORRECTED THREE facts on the startup profile: (1) location was "New York, New York" → corrected to "Austin, Texas" (Crunchbase News + Edison Partners + Yahoo Finance all say Austin, TX). (2) founded year was 2020 → corrected to 2022 (per Crunchbase News). (3) Funding History co-investor list expanded to include Sky VC and Tandem Ventures — Edison Partners release lists both as participating in the Series B (not merely legacy cap-table members as prior version implied). Added CEO Chris Guggenheim to About section. All 3 primary sources continue to hold.
 
-
-    Follow-up sweep 2026-09-01: Added verbatim quotes to the What Investors Say and What Founders Say sections that were previously empty. Ryan Ziegler (GP, Edison Partners) — "What stood out to us is that ClearJet is built by operators who''ve run national delivery systems, have already proven the model at scale" [^2] and "When you think about what they built, it is a very unique aviation infrastructure platform, and it''s difficult to replicate" [^1]. Chris Guggenheim (Founder & CEO) — "Rather than compete with the existing national package delivery services, we work with them" [^2] and the Crunchbase "super carrier" / "already moving aircraft" quotes [^1]. Cross-referenced via Dealroom, Las Vegas Sun, citybiz, and Retail Tech Innovation Hub search snippets. Round moves ~30M packages annually per Crunchbase News.
-
-    '
+    Follow-up sweep 2026-09-01: Added verbatim quotes to the What Investors Say and What Founders Say sections that were previously empty. Ryan Ziegler (GP, Edison Partners) — "What stood out to us is that ClearJet is built by operators who've run national delivery systems, have already proven the model at scale" [^2] and "When you think about what they built, it is a very unique aviation infrastructure platform, and it's difficult to replicate" [^1]. Chris Guggenheim (Founder & CEO) — "Rather than compete with the existing national package delivery services, we work with them" [^2] and the Crunchbase "super carrier" / "already moving aircraft" quotes [^1]. Cross-referenced via Dealroom, Las Vegas Sun, citybiz, and Retail Tech Innovation Hub search snippets. Round moves ~30M packages annually per Crunchbase News.
 - slug: amber
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for €7M Series A (2026-08-17) led by NRW.Venture with Ventech. Sources: EU-Startups, Ventech, Trending Topics.'
   added: 2026-09-01
   status: resolved
   resolved: 2026-09-01
-  note: 'Fact-spec sweep 2026-09-01: Verified amber €7M Series A on 2026-08-17 (NRW.Venture led, Ventech existing seed investor expanding position) via 2 of 3 cited primary sources (EU-Startups [^1] returned 403 anti-scraping; Ventech [^2] and Trending Topics [^3] both fully fetched and confirmed). Round amount (€7M), date (2026-08-17), lead (NRW.Venture — VC fund of NRW.BANK), participant (Ventech), and all 3 founders (Philipp Reißel, Bastian Maiworm, Igli Manaj) confirmed. Aachen HQ confirmed with additional offices in Cologne and Tirana. Additional context surfaced (not added to lean profile): amber''s prior rounds are a 2021 pre-seed and a €2.1M seed in March 2025, and Philipp Reißel is CEO. Currency preserved as €. Profile is fully sourced — no changes needed.
-
+  note: |
+    Fact-spec sweep 2026-09-01: Verified amber €7M Series A on 2026-08-17 (NRW.Venture led, Ventech existing seed investor expanding position) via 2 of 3 cited primary sources (EU-Startups [^1] returned 403 anti-scraping; Ventech [^2] and Trending Topics [^3] both fully fetched and confirmed). Round amount (€7M), date (2026-08-17), lead (NRW.Venture — VC fund of NRW.BANK), participant (Ventech), and all 3 founders (Philipp Reißel, Bastian Maiworm, Igli Manaj) confirmed. Aachen HQ confirmed with additional offices in Cologne and Tirana. Additional context surfaced (not added to lean profile): amber's prior rounds are a 2021 pre-seed and a €2.1M seed in March 2025, and Philipp Reißel is CEO. Currency preserved as €. Profile is fully sourced — no changes needed.
 
     Follow-up sweep 2026-09-01: Enriched the profile with the prior-round history and 4 verbatim quotes now that Ventech and Trending Topics content is captured. Added to About: Ventech led the €2.1M seed in March 2025 and the 2021 pre-seed came from five business angels while the team operated as "ambeRoad." Updated founders frontmatter with role specificity — Philipp Reißel: Co-Founder & CEO; Bastian Maiworm: Co-Founder & CRO. Added What Investors Say quotes from Nicolas Barthalon (Partner, Ventech) on backing the team 18 months later and preserving data sovereignty, plus Patrick Nesseler (Investment Manager, NRW.BANK) on data context. Added What Founders Say quotes from Reißel ("The next stage of AI is not another chatbot") and Maiworm ("Most AI applications today are still waiting for users to ask the right questions"). All 3 existing sources continue to hold.
-
-    '
 - slug: rqd-clearing
   type: startup
   reason: 'Fact-spec sweep 2026-08-31: Verified RQD Clearing $74M growth round on 2026-08-27 led by Bain Capital Tech Opportunities, with ABN AMRO Clearing Bank, Nyca Partners, Gentree Fund, and Belvedere Strategic Capital participating. Startup profile confirmed complete with 4 primary sources: RQD Clearing site [^1], RQD Clearing news release [^2], Bain Capital press release [^3], and AlleyWatch daily report [^4]. Neither Bain Capital Tech Opportunities nor any of the co-investors has a firm profile yet in data/firms/ — no cross-referencing needed. Michael Grandfield (Partner, Bain Capital) confirmed as deal lead. No vague facts remain in the profile.'
@@ -4780,7 +4762,7 @@ priority:
   reason: participated in Dash Bio Series A (2026-08-03), $30M
   added: 2026-08-04
   status: resolved
-  resolution_note: "Fact-spec sweep 2026-09-10: Freestyle Capital participation in Dash Bio Series A ($30M, 2026-08-03) re-verified via 3 primary sources: BioSpace press release, Pulse 2.0, Endpoints News (all confirm Oak HC/FT led with Freestyle Capital + Swift Ventures as existing investors). Dash Bio startup profile (dash-bio.md) fully accurate with all citations. Freestyle Capital firm profile does not yet exist in data/firms/ but is already queued (queue.yaml line 10158, priority: normal). No profile edits possible until firm profile is created."
+  resolution_note: 'Fact-spec sweep 2026-09-10: Freestyle Capital participation in Dash Bio Series A ($30M, 2026-08-03) re-verified via 3 primary sources: BioSpace press release, Pulse 2.0, Endpoints News (all confirm Oak HC/FT led with Freestyle Capital + Swift Ventures as existing investors). Dash Bio startup profile (dash-bio.md) fully accurate with all citations. Freestyle Capital firm profile does not yet exist in data/firms/ but is already queued (queue.yaml line 10158, priority: normal). No profile edits possible until firm profile is created.'
   processed: '2026-09-10'
 - slug: swift-ventures
   type: firm
@@ -4826,7 +4808,7 @@ priority:
   reason: co-led Ore Energy Series A (2026-08-04) with HV Capital
   added: 2026-08-04
   status: resolved
-  resolution_note: "Fact-spec sweep 2026-09-10: Verified Ore Energy Series A €37.3M (~$43M) (2026-08-04) via 3 independent primary sources: Energy Storage News (Ian Hogarth quote confirmed verbatim, Plural + HV co-lead confirmed), Tech.eu (co-lead Plural + HV Capital, Positron Ventures participant confirmed), EU-Startups (source cited at profile creation). Added Tech.eu as second citation [^11] to ian-hogarth.md Ore Energy portfolio row (was [^10] only, now [^10][^11]). Ore Energy startup profile fully accurate. last_verified_investment already reflects Ore Energy 2026-08-04."
+  resolution_note: 'Fact-spec sweep 2026-09-10: Verified Ore Energy Series A €37.3M (~$43M) (2026-08-04) via 3 independent primary sources: Energy Storage News (Ian Hogarth quote confirmed verbatim, Plural + HV co-lead confirmed), Tech.eu (co-lead Plural + HV Capital, Positron Ventures participant confirmed), EU-Startups (source cited at profile creation). Added Tech.eu as second citation [^11] to ian-hogarth.md Ore Energy portfolio row (was [^10] only, now [^10][^11]). Ore Energy startup profile fully accurate. last_verified_investment already reflects Ore Energy 2026-08-04.'
   processed: '2026-09-10'
 - slug: insight-partners
   type: firm
@@ -5480,18 +5462,16 @@ priority:
   added: 2026-08-31
   status: resolved
   resolved: 2026-09-01
-  resolution_note: 'Fact-spec sweep 2026-09-01: Verified Navi $100M growth round from Prosus (announced 2026-08-19; ~$1.3B valuation; first external institutional capital for eight-year-old company). Primary sources triangulated: (1) TechCrunch [^1] re-fetched — confirms date August 19, 2026, exact amount $100M, lead Prosus, $1.3B valuation, first outside institutional capital, and pre-IPO context (Navi preparing for a ~₹30B / $314M IPO after withdrawing a $440M 2022 filing); (2) Crowdfund Insider [^2] — independent secondary confirmation of $100M Prosus investment; (3) StartupTalky [^3] — third independent aggregator confirmation of $100M Prosus investment. All 3 existing citations hold and are independent. Sachin Bansal is confirmed founder & CEO. Prosus does not yet have a firm profile in data/firms/ (already queued at data/queue.yaml line 35625) so per CLAUDE.md validated-slug rule the firms: frontmatter array remains empty — the Funding History table uses the plain-text "Prosus" name instead. Profile is fully sourced — no changes needed.
-
-    '
+  resolution_note: |
+    Fact-spec sweep 2026-09-01: Verified Navi $100M growth round from Prosus (announced 2026-08-19; ~$1.3B valuation; first external institutional capital for eight-year-old company). Primary sources triangulated: (1) TechCrunch [^1] re-fetched — confirms date August 19, 2026, exact amount $100M, lead Prosus, $1.3B valuation, first outside institutional capital, and pre-IPO context (Navi preparing for a ~₹30B / $314M IPO after withdrawing a $440M 2022 filing); (2) Crowdfund Insider [^2] — independent secondary confirmation of $100M Prosus investment; (3) StartupTalky [^3] — third independent aggregator confirmation of $100M Prosus investment. All 3 existing citations hold and are independent. Sachin Bansal is confirmed founder & CEO. Prosus does not yet have a firm profile in data/firms/ (already queued at data/queue.yaml line 35625) so per CLAUDE.md validated-slug rule the firms: frontmatter array remains empty — the Funding History table uses the plain-text "Prosus" name instead. Profile is fully sourced — no changes needed.
 - slug: relativity-networks
   type: startup
   reason: new profile from round monitoring (Seed $22M SAFE, 2026-08-19)
   added: 2026-08-31
   status: resolved
   resolved: 2026-09-01
-  resolution_note: 'Fact-spec sweep 2026-09-01: Verified Relativity Networks $22M SAFE seed round (announced 2026-08-19) with Rhapsody Venture Partners, Bell Ventures, and Faster Than Glass participating (no formal lead disclosed), plus a $40M follow-on order from an unnamed hyperscaler disclosed simultaneously. All 3 existing primary sources hold and are independent: TechCrunch [^1] (tier-1 tech press), Data Center Dynamics [^2] (independent trade press), PR Newswire [^3] (company syndication). Cross-referenced by working the Rhapsody Venture Partners firm profile update (see rhapsody-venture-partners resolution below) — same 3 sources used to add the Relativity Networks portfolio row on the Rhapsody profile. Round more than doubled the company''s original target. Startup profile fully sourced — no changes needed to the startup profile itself.
-
-    '
+  resolution_note: |
+    Fact-spec sweep 2026-09-01: Verified Relativity Networks $22M SAFE seed round (announced 2026-08-19) with Rhapsody Venture Partners, Bell Ventures, and Faster Than Glass participating (no formal lead disclosed), plus a $40M follow-on order from an unnamed hyperscaler disclosed simultaneously. All 3 existing primary sources hold and are independent: TechCrunch [^1] (tier-1 tech press), Data Center Dynamics [^2] (independent trade press), PR Newswire [^3] (company syndication). Cross-referenced by working the Rhapsody Venture Partners firm profile update (see rhapsody-venture-partners resolution below) — same 3 sources used to add the Relativity Networks portfolio row on the Rhapsody profile. Round more than doubled the company's original target. Startup profile fully sourced — no changes needed to the startup profile itself.
 - slug: sequoia-capital
   type: firm
   reason: appeared in Form Energy Series G $750M (2026-08-12)
@@ -5527,9 +5507,8 @@ priority:
   added: 2026-08-31
   status: resolved
   resolved: 2026-09-01
-  resolution_note: 'Fact-spec sweep 2026-09-01: Added Relativity Networks Seed row ($22M SAFE seed on 2026-08-19; no formal lead; Bell Ventures and Faster Than Glass also participated; company simultaneously disclosed a $40M hyperscaler follow-on order) to rhapsody-venture-partners.md Portfolio table with 3 new primary source citations ([^11] TechCrunch tier-1 tech press, [^12] Data Center Dynamics independent trade press, [^13] PR Newswire company syndication). Also added "ai-infrastructure" and "data-centers" to sector_focus frontmatter — Relativity Networks'' hollow-core fiber play for AI data centers is Rhapsody''s first move into these adjacent categories. Portfolio table now shows 29 companies vs. the "26 verified active portfolio companies from the firm''s portfolio page" base note in the Inferred Thesis — that base count stands because it''s specifically anchored to the firm''s own portfolio page, while newer entries (Nuclear Turbines 2026-07-27 and Relativity Networks 2026-08-19) come from press releases post-dating that page snapshot. Round already verified in data/startups/relativity-networks.md as confirmed by paired fact-spec resolution above.
-
-    '
+  resolution_note: |
+    Fact-spec sweep 2026-09-01: Added Relativity Networks Seed row ($22M SAFE seed on 2026-08-19; no formal lead; Bell Ventures and Faster Than Glass also participated; company simultaneously disclosed a $40M hyperscaler follow-on order) to rhapsody-venture-partners.md Portfolio table with 3 new primary source citations ([^11] TechCrunch tier-1 tech press, [^12] Data Center Dynamics independent trade press, [^13] PR Newswire company syndication). Also added "ai-infrastructure" and "data-centers" to sector_focus frontmatter — Relativity Networks' hollow-core fiber play for AI data centers is Rhapsody's first move into these adjacent categories. Portfolio table now shows 29 companies vs. the "26 verified active portfolio companies from the firm's portfolio page" base note in the Inferred Thesis — that base count stands because it's specifically anchored to the firm's own portfolio page, while newer entries (Nuclear Turbines 2026-07-27 and Relativity Networks 2026-08-19) come from press releases post-dating that page snapshot. Round already verified in data/startups/relativity-networks.md as confirmed by paired fact-spec resolution above.
 - slug: ausperbio
   type: startup
   reason: $120M Series C (2026-08-27) — RA Capital, Qiming, CDH, HanKang, Sherpa Healthcare, InnoPinnacle, YuanBio
@@ -5560,9 +5539,8 @@ priority:
   added: 2026-08-31
   status: resolved
   resolved: 2026-09-02
-  resolution_note: 'Fact-spec sweep 2026-09-02: Verified Gatik $200M Series D on 2026-08-25 co-led by Qatar Investment Authority and Koch Disruptive Technologies via 4+ independent primary sources already cited on gatik.md — (1) Gatik company press release via Yahoo Finance [^1]; (2) TechCrunch tier-1 tech press [^2]; (3) Bloomberg [^3]; (4) Gatik company newsroom [^4]; (5) SiliconANGLE [^5]; (6) Gulf Times regional Doha press [^6]. All sources confirm 2026-08-25 date, $200M amount, QIA + KDT co-lead, and participants Millennium Management, ARK Invest, Intact Private Capital (Arca Continental named by Gulf Times [^6]). Cross-checked koch-disruptive-technologies.md portfolio row at line 129 — Gatik Series D entry cites [^gatikd1]-[^gatikd4] (Yahoo/company press, TechCrunch, SiliconANGLE, Gulf Times) with all details matching. Verbatim investor quotes verified: Cathie Wood (ARK Invest) [^5], Byron Knight (KDT President) [^1], Abdullah Al Kuwari (QIA Director of Industrial Investments) [^6]. Verbatim founder quotes verified: Gautam Narang [^1][^2]. No corrections needed — profile and firm cross-reference are already 10/10 accurate with 3+ primary sources on both sides.
-
-    '
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Verified Gatik $200M Series D on 2026-08-25 co-led by Qatar Investment Authority and Koch Disruptive Technologies via 4+ independent primary sources already cited on gatik.md — (1) Gatik company press release via Yahoo Finance [^1]; (2) TechCrunch tier-1 tech press [^2]; (3) Bloomberg [^3]; (4) Gatik company newsroom [^4]; (5) SiliconANGLE [^5]; (6) Gulf Times regional Doha press [^6]. All sources confirm 2026-08-25 date, $200M amount, QIA + KDT co-lead, and participants Millennium Management, ARK Invest, Intact Private Capital (Arca Continental named by Gulf Times [^6]). Cross-checked koch-disruptive-technologies.md portfolio row at line 129 — Gatik Series D entry cites [^gatikd1]-[^gatikd4] (Yahoo/company press, TechCrunch, SiliconANGLE, Gulf Times) with all details matching. Verbatim investor quotes verified: Cathie Wood (ARK Invest) [^5], Byron Knight (KDT President) [^1], Abdullah Al Kuwari (QIA Director of Industrial Investments) [^6]. Verbatim founder quotes verified: Gautam Narang [^1][^2]. No corrections needed — profile and firm cross-reference are already 10/10 accurate with 3+ primary sources on both sides.
 - slug: nexeon
   type: startup
   reason: National Wealth Fund-led £100M growth round with Korea Development Bank, Honda Xcelerator Ventures (2026-08-31)
@@ -5617,9 +5595,8 @@ priority:
   added: 2026-09-01
   status: resolved
   resolved: 2026-09-02
-  resolution_note: 'Fact-spec sweep 2026-09-02: Verified HiBob $166M (Bloomberg: $160M) late-stage round on 2026-09-01 led by Salesforce with Farallon Capital Management via 3 independent primary sources already on the profile: (1) GlobeNewswire company release via Manila Times [^1] — re-fetched today, yielded verbatim quotes from CEO Ronni Zehavi ("Salesforce''s investment validates our belief that AI is changing the architecture of organizations."), Joe Teplow (Chief Strategy Officer at Slack / SVP Salesforce Labs), and Ryan Gavin (CMO, Slack); (2) Calcalist Israeli tech press [^2] — re-fetched today, independently confirms $166M / $3.2B valuation / previous $2.7B round; (3) Bloomberg [^3] — reports $160M variant (retained as discrepancy note in About). Added What Investors Say (Teplow + Gavin quotes) and What Founders Say (Zehavi quote) sections that were previously empty. Round row and 3-citation triangulation was already in place. Lean-profile disclaimer left in place because company-side deep dive is still light.
-
-    '
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Verified HiBob $166M (Bloomberg: $160M) late-stage round on 2026-09-01 led by Salesforce with Farallon Capital Management via 3 independent primary sources already on the profile: (1) GlobeNewswire company release via Manila Times [^1] — re-fetched today, yielded verbatim quotes from CEO Ronni Zehavi ("Salesforce's investment validates our belief that AI is changing the architecture of organizations."), Joe Teplow (Chief Strategy Officer at Slack / SVP Salesforce Labs), and Ryan Gavin (CMO, Slack); (2) Calcalist Israeli tech press [^2] — re-fetched today, independently confirms $166M / $3.2B valuation / previous $2.7B round; (3) Bloomberg [^3] — reports $160M variant (retained as discrepancy note in About). Added What Investors Say (Teplow + Gavin quotes) and What Founders Say (Zehavi quote) sections that were previously empty. Round row and 3-citation triangulation was already in place. Lean-profile disclaimer left in place because company-side deep dive is still light.
 - slug: scan-com
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $220M Series C ($90M equity + $130M debt, 2026-08-31) led by Noteus Partners with Aviva, Concord Health Partners, YZR Capital, Oxford Capital; debt from VerisFi Capital and Atempo Growth. Sources: HIT Consultant, Business Wire (via Morningstar), Scan.com About page.'
@@ -5650,27 +5627,24 @@ priority:
   added: 2026-09-01
   status: resolved
   resolved: 2026-09-02
-  resolution_note: 'Fact-spec sweep 2026-09-02: Verified Easy Aerial Series B row already present on insight-partners.md at line 148 with correct lead attribution ($20M, Insight Partners led, Entrée Capital and private U.S. investors also participated), correct date (2026-08-31), and 3 independent primary source citations [^ea1] Business Wire, [^ea2] Yahoo Finance, [^ea3] Defense Daily. All three URLs load cleanly and confirm 2026-08-31 date, $20M amount, Insight Partners lead, Entrée Capital co-investor. Cross-referenced with easy-aerial.md startup profile which cites the same primary sources plus 3 additional (AlleyWatch, Easy Aerial company website, Pulse 2.0). No corrections needed — firm portfolio row meets 3-source primary-source threshold and matches startup profile.
-
-    '
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Verified Easy Aerial Series B row already present on insight-partners.md at line 148 with correct lead attribution ($20M, Insight Partners led, Entrée Capital and private U.S. investors also participated), correct date (2026-08-31), and 3 independent primary source citations [^ea1] Business Wire, [^ea2] Yahoo Finance, [^ea3] Defense Daily. All three URLs load cleanly and confirm 2026-08-31 date, $20M amount, Insight Partners lead, Entrée Capital co-investor. Cross-referenced with easy-aerial.md startup profile which cites the same primary sources plus 3 additional (AlleyWatch, Easy Aerial company website, Pulse 2.0). No corrections needed — firm portfolio row meets 3-source primary-source threshold and matches startup profile.
 - slug: typewriter-therapeutics
   type: startup
   reason: 'Round monitoring 2026-09-02: Created new profile for $56M Series A (2026-09-02) co-led by AN Venture Partners and RA Capital, with ANRI, Gemseki, SBI US Gateway Fund. Sources: PR Newswire, Endpoints News, RA Capital portfolio.'
   added: 2026-09-02
   status: resolved
   resolved: 2026-09-02
-  resolution_note: 'Fact-spec sweep 2026-09-02: Re-verified Typewriter Therapeutics $56M Series A 2026-09-02 via 3 primary sources: (1) PR Newswire company press release [^1] (fetched cleanly — full body); (2) Endpoints News independent biotech trade press [^2] (previously fetched; returned 403 on this re-fetch attempt but retained as prior verified source); (3) RA Capital portfolio page [^3] (investor-side primary — confirms 2023 NewCo seeding). All three corroborate lead co-leads (AN Venture Partners + RA Capital Management), participants (ANRI, Gemseki, SBI US Gateway Fund), $56M amount, and 2026-09-02 date. NEW facts added and profile substantially expanded: (a) scientific founder Professor Emeritus Haruhiko Fujiwara (University of Tokyo) identified as originator of R2 RNA element gene-writing science [^1]; (b) added founders block to frontmatter — Haruhiko Fujiwara (Scientific Founder), Matthew Stanton (CEO), Leanne Peiser (CSO); (c) noted Mikael Dolsten, MD, PhD (former Pfizer Chief Scientific Officer) as Board Director in About [^1]; (d) added Matthew Stanton verbatim CEO quote from press release to "What Founders Say"; (e) removed lean-profile disclaimer; (f) enriched About paragraph with therapeutic scope (cancer via in vivo CAR-T + genetic liver diseases + autoimmune) and Cambridge MA + Tokyo Japan dual-site operations. FierceBiotech and BioSpace URL attempts returned 403/404; Tech in Asia blocked; WebSearch budget exhausted so no additional independent tech-press URL discovery possible this session.
-
-    '
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Re-verified Typewriter Therapeutics $56M Series A 2026-09-02 via 3 primary sources: (1) PR Newswire company press release [^1] (fetched cleanly — full body); (2) Endpoints News independent biotech trade press [^2] (previously fetched; returned 403 on this re-fetch attempt but retained as prior verified source); (3) RA Capital portfolio page [^3] (investor-side primary — confirms 2023 NewCo seeding). All three corroborate lead co-leads (AN Venture Partners + RA Capital Management), participants (ANRI, Gemseki, SBI US Gateway Fund), $56M amount, and 2026-09-02 date. NEW facts added and profile substantially expanded: (a) scientific founder Professor Emeritus Haruhiko Fujiwara (University of Tokyo) identified as originator of R2 RNA element gene-writing science [^1]; (b) added founders block to frontmatter — Haruhiko Fujiwara (Scientific Founder), Matthew Stanton (CEO), Leanne Peiser (CSO); (c) noted Mikael Dolsten, MD, PhD (former Pfizer Chief Scientific Officer) as Board Director in About [^1]; (d) added Matthew Stanton verbatim CEO quote from press release to "What Founders Say"; (e) removed lean-profile disclaimer; (f) enriched About paragraph with therapeutic scope (cancer via in vivo CAR-T + genetic liver diseases + autoimmune) and Cambridge MA + Tokyo Japan dual-site operations. FierceBiotech and BioSpace URL attempts returned 403/404; Tech in Asia blocked; WebSearch budget exhausted so no additional independent tech-press URL discovery possible this session.
 - slug: norbert-health
   type: startup
   reason: 'Round monitoring 2026-09-02: Created new profile for $14M Series A (2026-09-01) led by Cardinal Capital Group with EXOR N.V., Careit, and angels including Olivier Pomel, Alexis Le-Quoc, Saeju Jeong, Thomas Clozel. Sources: AlleyWatch daily, Axios Pro Rata.'
   added: 2026-09-02
   status: resolved
   resolved: 2026-09-02
-  resolution_note: 'Fact-spec sweep 2026-09-02: Re-verified Norbert Health $14M Series A 2026-09-01 via 3 primary sources (2 previously cited + 1 new): (1) AlleyWatch daily funding report [^1] (existing, re-fetched cleanly — full entry with founders Alexandre Winter + Patrick Collins, founding year 2019, total funding $19M, physical AI framing, all investor names verified); (2) Axios Pro Rata newsletter [^2] (existing, aggregator listing); (3) NEW — Norbert Health company LinkedIn page [^3] (fetched cleanly — company self-description as "the AI module for autonomous care in the real world," Brooklyn NY + Paris FR offices, deployment in skilled nursing facilities, blue teddy-bear avatar, engagement metrics 34%→48%, compliance 55%→82%, NYU Stern Endless Frontier Labs 2025-26 Digital Health cohort graduate). MULTIPLE CORRECTIONS TO PROFILE: (a) founded year 2021→2019 [^1][^3]; (b) HQ New York, NY→Brooklyn, NY (with Paris office noted in About) [^3]; (c) total_raised $14M+→$19M [^1]; (d) added founders block: Alexandre Winter (CEO & Co-Founder) + Patrick Collins (Co-Founder) [^1][^3]; (e) added physical-ai sector tag; (f) expanded About paragraph with company self-description, product mechanics, deployment scope, and traction metrics [^3]; (g) added website scheme change (norbert.health, not www.norbert.health — apex domain resolves, www subdomain does not); (h) removed lean-profile disclaimer. Company website (both apex and www) plus norbert-health.com plus a Reuters URL attempt and multiple targeted press URL guesses (TechCrunch, EU-Startups, TechFundingNews) all failed (403/404/DNS); WebSearch budget exhausted so no additional discovery possible this session. Correction bundle is defensible because every changed value is grounded in one or more of the three primary sources actually fetched.
-
-    '
+  resolution_note: |
+    Fact-spec sweep 2026-09-02: Re-verified Norbert Health $14M Series A 2026-09-01 via 3 primary sources (2 previously cited + 1 new): (1) AlleyWatch daily funding report [^1] (existing, re-fetched cleanly — full entry with founders Alexandre Winter + Patrick Collins, founding year 2019, total funding $19M, physical AI framing, all investor names verified); (2) Axios Pro Rata newsletter [^2] (existing, aggregator listing); (3) NEW — Norbert Health company LinkedIn page [^3] (fetched cleanly — company self-description as "the AI module for autonomous care in the real world," Brooklyn NY + Paris FR offices, deployment in skilled nursing facilities, blue teddy-bear avatar, engagement metrics 34%→48%, compliance 55%→82%, NYU Stern Endless Frontier Labs 2025-26 Digital Health cohort graduate). MULTIPLE CORRECTIONS TO PROFILE: (a) founded year 2021→2019 [^1][^3]; (b) HQ New York, NY→Brooklyn, NY (with Paris office noted in About) [^3]; (c) total_raised $14M+→$19M [^1]; (d) added founders block: Alexandre Winter (CEO & Co-Founder) + Patrick Collins (Co-Founder) [^1][^3]; (e) added physical-ai sector tag; (f) expanded About paragraph with company self-description, product mechanics, deployment scope, and traction metrics [^3]; (g) added website scheme change (norbert.health, not www.norbert.health — apex domain resolves, www subdomain does not); (h) removed lean-profile disclaimer. Company website (both apex and www) plus norbert-health.com plus a Reuters URL attempt and multiple targeted press URL guesses (TechCrunch, EU-Startups, TechFundingNews) all failed (403/404/DNS); WebSearch budget exhausted so no additional discovery possible this session. Correction bundle is defensible because every changed value is grounded in one or more of the three primary sources actually fetched.
 - slug: tripo-ai
   type: startup
   reason: 'Round monitoring 2026-09-02: Added ~$446M (RMB 3B) Series B/B+ (2026-09-01) led by MPCi. Sources: DealStreetAsia, WOWTALE, FinSMEs.'
@@ -5949,157 +5923,169 @@ priority:
   added: 2026-09-07
 - slug: the-boring-company
   type: startup
-  reason: "Round monitoring 2026-09-10: New profile — $3B Series D at $23B valuation (2026-09-09) led by UAE + affiliated investment entities. Participants: Sequoia Capital, Andreessen Horowitz, Valor Equity Partners, Human Capital, Vy Capital, Temasek, Shamal Holding, Baron Capital. Sources: (1) TechCrunch; (2) Boring Company official /series-d page."
+  reason: 'Round monitoring 2026-09-10: New profile — $3B Series D at $23B valuation (2026-09-09) led by UAE + affiliated investment entities. Participants: Sequoia Capital, Andreessen Horowitz, Valor Equity Partners, Human Capital, Vy Capital, Temasek, Shamal Holding, Baron Capital. Sources: (1) TechCrunch; (2) Boring Company official /series-d page.'
   added: 2026-09-10
 - slug: cognition
   type: startup
-  reason: "Round monitoring 2026-09-10: Added Series E — $2B at $48B valuation (2026-09-08) led by Andreessen Horowitz and Accel with Founders Fund, General Catalyst, Avenir. Sources: (1) Cognition company blog; (2) TechStartups roundup."
+  reason: 'Round monitoring 2026-09-10: Added Series E — $2B at $48B valuation (2026-09-08) led by Andreessen Horowitz and Accel with Founders Fund, General Catalyst, Avenir. Sources: (1) Cognition company blog; (2) TechStartups roundup.'
   added: 2026-09-10
 - slug: harvey
   type: startup
-  reason: "Round monitoring 2026-09-10: Added Series G — $550M at $15.5B valuation (2026-09-09) co-led by Diffusion and Lightspeed Venture Partners. Existing: Sequoia, Kleiner Perkins, a16z, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, WndrCo. New: Sapphire Ventures, Whale Rock. Source: Harvey company blog."
+  reason: 'Round monitoring 2026-09-10: Added Series G — $550M at $15.5B valuation (2026-09-09) co-led by Diffusion and Lightspeed Venture Partners. Existing: Sequoia, Kleiner Perkins, a16z, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, WndrCo. New: Sapphire Ventures, Whale Rock. Source: Harvey company blog.'
   added: 2026-09-10
 - slug: inspiren
   type: startup
-  reason: "Round monitoring 2026-09-10: New profile — $70M Series C at $550M valuation (2026-09-10) led by NewView Capital with Insight Partners, Primary Venture Partners, Scale Venture Partners, Vintage Investment Partners, Lightbank, Avenir Growth Capital, Story Ventures, Camber Creek. Sources: (1) PR Newswire; (2) AlleyWatch; (3) Axios Pro Rata; (4) Forbes; (5) Inspiren news."
+  reason: 'Round monitoring 2026-09-10: New profile — $70M Series C at $550M valuation (2026-09-10) led by NewView Capital with Insight Partners, Primary Venture Partners, Scale Venture Partners, Vintage Investment Partners, Lightbank, Avenir Growth Capital, Story Ventures, Camber Creek. Sources: (1) PR Newswire; (2) AlleyWatch; (3) Axios Pro Rata; (4) Forbes; (5) Inspiren news.'
   added: 2026-09-10
 - slug: clay
   type: startup
-  reason: "Round monitoring 2026-09-10 (Sep 9 dated): New profile — $115M Series D at $7.1B valuation (2026-09-09) led by Wellington Management with Sequoia, StepStone, a16z, Meritech, DST Global, CapitalG, BoxGroup, Boldstart, Bloomberg Beta, Evolution. Sources: (1) Clay company blog; (2) AlleyWatch."
+  reason: 'Round monitoring 2026-09-10 (Sep 9 dated): New profile — $115M Series D at $7.1B valuation (2026-09-09) led by Wellington Management with Sequoia, StepStone, a16z, Meritech, DST Global, CapitalG, BoxGroup, Boldstart, Bloomberg Beta, Evolution. Sources: (1) Clay company blog; (2) AlleyWatch.'
   added: 2026-09-10
 - slug: savvy-wealth
   type: startup
-  reason: "Round monitoring 2026-09-10 (Sep 9 dated): New profile — $100M Series C at $600M valuation (2026-09-09) led by Halo Fund with Thrive Capital, Industry Ventures (Goldman Sachs), Canvas Prime, Index Ventures, House Fund, Euclidean Capital, Alumni Ventures, Vestigo Ventures. Sources: (1) Savvy Wealth site; (2) AlleyWatch; (3) Yahoo Finance; (4) CityWire."
+  reason: 'Round monitoring 2026-09-10 (Sep 9 dated): New profile — $100M Series C at $600M valuation (2026-09-09) led by Halo Fund with Thrive Capital, Industry Ventures (Goldman Sachs), Canvas Prime, Index Ventures, House Fund, Euclidean Capital, Alumni Ventures, Vestigo Ventures. Sources: (1) Savvy Wealth site; (2) AlleyWatch; (3) Yahoo Finance; (4) CityWire.'
   added: 2026-09-10
 - slug: antioch
   type: startup
-  reason: "Round monitoring 2026-09-10: Series A revealed — $32M Series A (2026-09-09) led by Greylock with A*, Category Ventures, BoxGroup, Icehouse Ventures. Source: AlleyWatch. Reconciled prior SEC-filing entry."
+  reason: 'Round monitoring 2026-09-10: Series A revealed — $32M Series A (2026-09-09) led by Greylock with A*, Category Ventures, BoxGroup, Icehouse Ventures. Source: AlleyWatch. Reconciled prior SEC-filing entry.'
   added: 2026-09-10
 - slug: maven-robotics
   type: startup
-  reason: "Round monitoring 2026-09-11: New profile — $100M Series A (2026-09-10) led by RoboStrategy with LocalGlobe, Vine Ventures, XTX Markets Ventures. Source: TechCrunch."
+  reason: 'Round monitoring 2026-09-11: New profile — $100M Series A (2026-09-10) led by RoboStrategy with LocalGlobe, Vine Ventures, XTX Markets Ventures. Source: TechCrunch.'
   added: 2026-09-11
+  status: resolved
+  resolved: '2026-09-12'
+  resolution_note: 'Fact-spec sweep 2026-09-12: verified $100M Series A (2026-09-10) via TechCrunch [^1] (contemporaneous primary tech press with detailed founder quotes). Extended What Founders Say with 2 additional verbatim Hamza Derbas quotes surfaced during re-verification (''We saw how people were working; we zeroed in on flows we could immediately bring value to'' and ''We''re not in the race for models — we''re in the race to solve industrial labor''). Lead RoboStrategy and participants LocalGlobe, Vine Ventures, XTX Ventures/Markets confirmed. NOTE: unable to triangulate to 3 independent primary sources at time of research — Maven Robotics has no accessible news page (404), LocalGlobe portfolio 404, Vine Ventures TLS error, RoboStrategy domain redirects to unrelated site, Robot Report 403, TechStartups roundups did not include Maven Robotics. Resolution accepts partial verification with a single but authoritative TechCrunch primary source; profile is defensible because it does not add unsourced claims beyond what TechCrunch reports.'
+  processed: '2026-09-12'
 - slug: furo-energy
   type: startup
-  reason: "Round monitoring 2026-09-11: New profile — $4M seed (2026-09-10) led by TQ Ventures with Neo, Sandberg Bernthal Venture Partners, CDTM. Munich-based industrial battery-storage software. Sources: TechCrunch, Wirtschaftswoche."
+  reason: 'Round monitoring 2026-09-11: New profile — $4M seed (2026-09-10) led by TQ Ventures with Neo, Sandberg Bernthal Venture Partners, CDTM. Munich-based industrial battery-storage software. Sources: TechCrunch, Wirtschaftswoche.'
   added: 2026-09-11
+  status: resolved
+  resolved: '2026-09-12'
+  resolution_note: 'Fact-spec sweep 2026-09-12: verified $4M Seed (2026-09-10) via 3 independent primary sources: TechCrunch [^1] (contemporaneous primary tech press; Lena Sophia Voß quote verified verbatim), Wirtschaftswoche [^2] (contemporaneous German press exclusive), and NEW TechStartups roundup [^3] (2026-09-11, contemporaneous US press aggregation confirming details including Deutsche Bahn as customer). Details confirmed: lead TQ Ventures; participants Neo, Sandberg Bernthal Venture Partners (Sheryl Sandberg''s fund), and CDTM Munich; date 2026-09-10; all 3 founders (Voß, Wagner, Wittner). 1 new citation added ([^3]).'
+  processed: '2026-09-12'
 - slug: luminary
   type: startup
-  reason: "Round monitoring 2026-09-11: New profile — $22M Series A (2026-09-10) led by Ten Coves Capital with BNY, 8VC, Fin Capital, Focus Financial Partners, Rockefeller Capital Management. NYC AI wealth-transfer platform. Source: AlleyWatch."
+  reason: 'Round monitoring 2026-09-11: New profile — $22M Series A (2026-09-10) led by Ten Coves Capital with BNY, 8VC, Fin Capital, Focus Financial Partners, Rockefeller Capital Management. NYC AI wealth-transfer platform. Source: AlleyWatch.'
   added: 2026-09-11
 - slug: superluminal-medicines
   type: startup
-  reason: "Round monitoring 2026-09-11: New profile — $60M Series B (2026-09-05) led by BVF Partners with Deep Track Capital, Perceptive Advisors, RA Capital, Insight Partners, NVIDIA NVentures, Catalio Capital, Eli Lilly, Cooley, Gaingels. Boston GPCR drug discovery. Sources: Endpoints News, superluminalrx.com."
+  reason: 'Round monitoring 2026-09-11: New profile — $60M Series B (2026-09-05) led by BVF Partners with Deep Track Capital, Perceptive Advisors, RA Capital, Insight Partners, NVIDIA NVentures, Catalio Capital, Eli Lilly, Cooley, Gaingels. Boston GPCR drug discovery. Sources: Endpoints News, superluminalrx.com.'
   added: 2026-09-11
   status: resolved
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: verified $60M Series B via 2 primary company sources (superluminalrx.com/about announcement heading, superluminalrx.com homepage which lists full quote naming BVF as lead with Deep Track Capital and Perceptive Advisors as new investors and RA Capital, Insight Partners, NVentures, Catalio, Eli Lilly, Cooley, Gaingels as existing). Endpoints News citation retained. Added [^4] homepage citation. Clarified new-vs-existing distinction in Funding History row. Note: BioSpace search shows prior rounds — Seed $33M Aug 2023, Series A $120M Sep 2024 — consistent with $60M Series B follow-on."
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified $60M Series B via 2 primary company sources (superluminalrx.com/about announcement heading, superluminalrx.com homepage which lists full quote naming BVF as lead with Deep Track Capital and Perceptive Advisors as new investors and RA Capital, Insight Partners, NVentures, Catalio, Eli Lilly, Cooley, Gaingels as existing). Endpoints News citation retained. Added [^4] homepage citation. Clarified new-vs-existing distinction in Funding History row. Note: BioSpace search shows prior rounds — Seed $33M Aug 2023, Series A $120M Sep 2024 — consistent with $60M Series B follow-on.'
   processed: '2026-09-11'
 - slug: positron-ai
   type: startup
-  reason: "Round monitoring 2026-09-11: New profile — $875M Series C at $5B valuation (2026-09-10) led by NEA, Atreides Management, Valor Equity Partners with Andra Capital, SemiAnalysis Capital, Jim Clark. Reno AI inference silicon. Sources: positron.ai, LinkedIn."
+  reason: 'Round monitoring 2026-09-11: New profile — $875M Series C at $5B valuation (2026-09-10) led by NEA, Atreides Management, Valor Equity Partners with Andra Capital, SemiAnalysis Capital, Jim Clark. Reno AI inference silicon. Sources: positron.ai, LinkedIn.'
   added: 2026-09-11
   status: resolved
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: verified via 2 primary company sources (positron.ai/press confirms $875M / $5B valuation / Sept 10 2026 date, positron.ai/about confirms Mitesh Agrawal CEO + Thomas Sohmers Chairman, April 2023 founding, 100+ team across US/Canada/Israel with in-person offices in Reno, Las Vegas, Spokane, Austin, and board reps from NEA, Atreides Management, DFJ Growth, Dylan Patel/SemiAnalysis). Added founding-month specificity and office locations to About. Lead/co-investor names retained from original scrape."
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified via 2 primary company sources (positron.ai/press confirms $875M / $5B valuation / Sept 10 2026 date, positron.ai/about confirms Mitesh Agrawal CEO + Thomas Sohmers Chairman, April 2023 founding, 100+ team across US/Canada/Israel with in-person offices in Reno, Las Vegas, Spokane, Austin, and board reps from NEA, Atreides Management, DFJ Growth, Dylan Patel/SemiAnalysis). Added founding-month specificity and office locations to About. Lead/co-investor names retained from original scrape.'
   processed: '2026-09-11'
 - slug: twostep-therapeutics
   type: startup
-  reason: "Round monitoring 2026-09-11: New profile — $62.5M Series A (2026-09-09) led by Insight Partners with Maverick Ventures, M Ventures, Pfizer Ventures, NFX Bio, 2048 Ventures. Stanford spinout, tumor-targeted peptide-drug conjugate. Sources: twosteptx.com, BusinessWire."
+  reason: 'Round monitoring 2026-09-11: New profile — $62.5M Series A (2026-09-09) led by Insight Partners with Maverick Ventures, M Ventures, Pfizer Ventures, NFX Bio, 2048 Ventures. Stanford spinout, tumor-targeted peptide-drug conjugate. Sources: twosteptx.com, BusinessWire.'
   added: 2026-09-11
   status: resolved
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: verified via 3 independent primary sources (BioSpace full press release, twosteptx.com/team confirming board seats, twosteptx.com company page + newsroom confirming date/amount). CRITICAL CORRECTION: original scrape incorrectly listed 'Maverick Ventures' — the actual co-lead is Medical Excellence Capital (per BioSpace release naming Insight Partners AND Medical Excellence Capital as co-leads, with M Ventures + Pfizer Ventures as co-leads and NFX + 2048 Ventures as existing). Removed Maverick Ventures from firms frontmatter. Added $71.2M total raised context, TS-104 program name, BioSpace [^4] citation. Also verified board additions per twosteptx.com/team: Matias Porras Paniagua (Insight), John Prufeta (Medical Excellence Capital), Oliver Lyth (M Ventures), Rana Al-Hallaq (Pfizer Ventures), plus existing member Omri Amirav-Drory (NFX)."
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified via 3 independent primary sources (BioSpace full press release, twosteptx.com/team confirming board seats, twosteptx.com company page + newsroom confirming date/amount). CRITICAL CORRECTION: original scrape incorrectly listed ''Maverick Ventures'' — the actual co-lead is Medical Excellence Capital (per BioSpace release naming Insight Partners AND Medical Excellence Capital as co-leads, with M Ventures + Pfizer Ventures as co-leads and NFX + 2048 Ventures as existing). Removed Maverick Ventures from firms frontmatter. Added $71.2M total raised context, TS-104 program name, BioSpace [^4] citation. Also verified board additions per twosteptx.com/team: Matias Porras Paniagua (Insight), John Prufeta (Medical Excellence Capital), Oliver Lyth (M Ventures), Rana Al-Hallaq (Pfizer Ventures), plus existing member Omri Amirav-Drory (NFX).'
   processed: '2026-09-11'
 - slug: insight-partners
   type: firm
-  reason: "Round monitoring 2026-09-11: appeared in Superluminal Medicines Series B ($60M, 2026-09-05) and TwoStep Therapeutics Series A ($62.5M, 2026-09-09, lead)."
+  reason: 'Round monitoring 2026-09-11: appeared in Superluminal Medicines Series B ($60M, 2026-09-05) and TwoStep Therapeutics Series A ($62.5M, 2026-09-09, lead).'
   added: 2026-09-11
 - slug: nea
   type: firm
-  reason: "Round monitoring 2026-09-11: appeared in Positron AI Series C ($875M, 2026-09-10, co-lead)."
+  reason: 'Round monitoring 2026-09-11: appeared in Positron AI Series C ($875M, 2026-09-10, co-lead).'
   added: 2026-09-11
 - slug: valor-equity-partners
   type: firm
-  reason: "Round monitoring 2026-09-11: appeared in Positron AI Series C ($875M, 2026-09-10, co-lead)."
+  reason: 'Round monitoring 2026-09-11: appeared in Positron AI Series C ($875M, 2026-09-10, co-lead).'
   added: 2026-09-11
 - slug: maverick-ventures
   type: firm
-  reason: "Round monitoring 2026-09-11: appeared in TwoStep Therapeutics Series A ($62.5M, 2026-09-09)."
+  reason: 'Round monitoring 2026-09-11: appeared in TwoStep Therapeutics Series A ($62.5M, 2026-09-09).'
   added: 2026-09-11
   status: unresolvable
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: original scrape was WRONG. Primary sources (BioSpace press release, twosteptx.com/team) confirm co-lead was Medical Excellence Capital, not Maverick Ventures. Removed maverick-ventures from twostep-therapeutics.md firms frontmatter. No fact-check needed on maverick-ventures profile for this round."
+  resolution_note: 'Fact-spec sweep 2026-09-11: original scrape was WRONG. Primary sources (BioSpace press release, twosteptx.com/team) confirm co-lead was Medical Excellence Capital, not Maverick Ventures. Removed maverick-ventures from twostep-therapeutics.md firms frontmatter. No fact-check needed on maverick-ventures profile for this round.'
   processed: '2026-09-11'
 - slug: nfx
   type: firm
-  reason: "Round monitoring 2026-09-11: appeared in TwoStep Therapeutics Series A ($62.5M, 2026-09-09) via NFX Bio."
+  reason: 'Round monitoring 2026-09-11: appeared in TwoStep Therapeutics Series A ($62.5M, 2026-09-09) via NFX Bio.'
   added: 2026-09-11
 - slug: brainchild-bio
   type: startup
-  reason: "Round monitoring 2026-09-11: New lean profile for $116M Series A (2026-09-08). Undisclosed private family fund/foundation led; Seattle Children's and WRF Capital participated. Sources: (1) BrainChild Bio press release PDF; (2) WRF Capital news page; (3) Axios Pro Rata."
+  reason: 'Round monitoring 2026-09-11: New lean profile for $116M Series A (2026-09-08). Undisclosed private family fund/foundation led; Seattle Children''s and WRF Capital participated. Sources: (1) BrainChild Bio press release PDF; (2) WRF Capital news page; (3) Axios Pro Rata.'
   added: 2026-09-11
   status: resolved
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: verified $116M Series A on 2026-09-08 against 4 independent primary sources (BrainChild Bio press release PDF, WRF Capital news page, Axios Pro Rata, and newly-added BioSpace syndication of the company press release). Lead: undisclosed private family fund and foundation; participants: Seattle Children's (initial investor) and WRF Capital (new investor). Added BioSpace as 4th citation. Profile is accurate as published."
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified $116M Series A on 2026-09-08 against 4 independent primary sources (BrainChild Bio press release PDF, WRF Capital news page, Axios Pro Rata, and newly-added BioSpace syndication of the company press release). Lead: undisclosed private family fund and foundation; participants: Seattle Children''s (initial investor) and WRF Capital (new investor). Added BioSpace as 4th citation. Profile is accurate as published.'
   processed: '2026-09-11'
 - slug: bessemer-venture-partners
   type: firm
-  reason: "Round monitoring 2026-09-11: co-led The Exploration Company Series C ($450M, 2026-09-08)."
+  reason: 'Round monitoring 2026-09-11: co-led The Exploration Company Series C ($450M, 2026-09-08).'
   added: 2026-09-11
   status: resolved
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: verified Bessemer co-led The Exploration Company's $450M Series C (2026-09-08) against 3 independent primary sources (company blog, TechCrunch, EU-Startups). Confirmed Bessemer as one of three co-leads alongside Atomico and Scaleup Europe Fund (managed by EQT); Alex Ferrara joined the board. Added portfolio row + [^tec1][^tec2][^tec3] source block, and set last_verified_investment to 2026-09-08 The Exploration Company Series C."
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified Bessemer co-led The Exploration Company''s $450M Series C (2026-09-08) against 3 independent primary sources (company blog, TechCrunch, EU-Startups). Confirmed Bessemer as one of three co-leads alongside Atomico and Scaleup Europe Fund (managed by EQT); Alex Ferrara joined the board. Added portfolio row + [^tec1][^tec2][^tec3] source block, and set last_verified_investment to 2026-09-08 The Exploration Company Series C.'
   processed: '2026-09-11'
 - slug: balderton-capital
   type: firm
-  reason: "Round monitoring 2026-09-11: participated in The Exploration Company Series C ($450M, 2026-09-08)."
+  reason: 'Round monitoring 2026-09-11: participated in The Exploration Company Series C ($450M, 2026-09-08).'
   added: 2026-09-11
   status: resolved
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: verified Balderton as a participant (not co-lead) in The Exploration Company's $450M Series C (2026-09-08) against 3 independent primary sources (company blog, TechCrunch, EU-Startups). Rolled Series C into the existing The Exploration Company row (which already recorded the 2024-11-18 Series B co-lead), added [^tec-c1][^tec-c2] citations, and set last_verified_investment to 2026-09-08."
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified Balderton as a participant (not co-lead) in The Exploration Company''s $450M Series C (2026-09-08) against 3 independent primary sources (company blog, TechCrunch, EU-Startups). Rolled Series C into the existing The Exploration Company row (which already recorded the 2024-11-18 Series B co-lead), added [^tec-c1][^tec-c2] citations, and set last_verified_investment to 2026-09-08.'
   processed: '2026-09-11'
 - slug: encoded-therapeutics
   type: startup
-  reason: "Round monitoring 2026-09-11: New lean profile for $275M Series F (2026-09-09) led by GV. Participants: ARCH Venture Partners, Braidwell LP, Farallon Capital Management, Illumina Ventures, Invus, Janus Henderson Investors, Matrix Capital Management, Nolan Capital, RTW Investments, SoftBank Vision Fund 2, Venrock. Sources: (1) Encoded company press release; (2) Crunchbase News weekly roundup; (3) GV portfolio page."
+  reason: 'Round monitoring 2026-09-11: New lean profile for $275M Series F (2026-09-09) led by GV. Participants: ARCH Venture Partners, Braidwell LP, Farallon Capital Management, Illumina Ventures, Invus, Janus Henderson Investors, Matrix Capital Management, Nolan Capital, RTW Investments, SoftBank Vision Fund 2, Venrock. Sources: (1) Encoded company press release; (2) Crunchbase News weekly roundup; (3) GV portfolio page.'
   added: 2026-09-11
   status: resolved
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: verified Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release, Pulse 2.0, Crunchbase News weekly roundup). All 11 participants and GV as co-lead confirmed; Series F entry with [^1][^2][^3] already recorded in the startup profile's funding history and About narrative. No changes required to the startup profile itself; downstream firm profiles (GV, Matrix Capital Management) updated in same sweep."
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release, Pulse 2.0, Crunchbase News weekly roundup). All 11 participants and GV as co-lead confirmed; Series F entry with [^1][^2][^3] already recorded in the startup profile''s funding history and About narrative. No changes required to the startup profile itself; downstream firm profiles (GV, Matrix Capital Management) updated in same sweep.'
   processed: '2026-09-11'
 - slug: gv
   type: firm
-  reason: "Round monitoring 2026-09-11: led Encoded Therapeutics $275M Series F (2026-09-09)"
+  reason: 'Round monitoring 2026-09-11: led Encoded Therapeutics $275M Series F (2026-09-09)'
   added: 2026-09-11
   status: resolved
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: verified GV co-led Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release, Pulse 2.0, Crunchbase News weekly roundup). Portfolio row + [^encoded-f1][^encoded-f2][^encoded-gv] source block already present; also verified pre-existing Series D lead (2020-07-22, $135M) entry. Added last_verified_investment: 2026-09-09 Encoded Therapeutics Series F and bumped last_researched to 2026-09-11."
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified GV co-led Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release, Pulse 2.0, Crunchbase News weekly roundup). Portfolio row + [^encoded-f1][^encoded-f2][^encoded-gv] source block already present; also verified pre-existing Series D lead (2020-07-22, $135M) entry. Added last_verified_investment: 2026-09-09 Encoded Therapeutics Series F and bumped last_researched to 2026-09-11.'
   processed: '2026-09-11'
 - slug: matrix-capital-management
   type: firm
-  reason: "Round monitoring 2026-09-11: participated in Encoded Therapeutics $275M Series F (2026-09-09)"
+  reason: 'Round monitoring 2026-09-11: participated in Encoded Therapeutics $275M Series F (2026-09-09)'
   added: 2026-09-11
   status: resolved
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: verified Matrix Capital Management (via AyurMaya life sciences fund) participated in Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release, Pulse 2.0, Crunchbase News). Also verified their prior participation in the 2020-07-22 $135M Series D. Added both Encoded Therapeutics rows to the AyurMaya private investments table with [^15]–[^19] source block, set last_verified_investment to 2026-09-09 Encoded Therapeutics Series F, and bumped last_researched to 2026-09-11. Note: firm remains status: skipped (hedge fund wind-down) but AyurMaya vehicle continues life sciences co-investing."
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified Matrix Capital Management (via AyurMaya life sciences fund) participated in Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release, Pulse 2.0, Crunchbase News). Also verified their prior participation in the 2020-07-22 $135M Series D. Added both Encoded Therapeutics rows to the AyurMaya private investments table with [^15]–[^19] source block, set last_verified_investment to 2026-09-09 Encoded Therapeutics Series F, and bumped last_researched to 2026-09-11. Note: firm remains status: skipped (hedge fund wind-down) but AyurMaya vehicle continues life sciences co-investing.'
   processed: '2026-09-11'
 - slug: venrock
   type: firm
-  reason: "Round monitoring 2026-09-11: participated in Encoded Therapeutics $275M Series F (2026-09-09)"
+  reason: 'Round monitoring 2026-09-11: participated in Encoded Therapeutics $275M Series F (2026-09-09)'
   added: 2026-09-11
   status: resolved
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: verified Venrock participated in Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release [^37], Pulse 2.0 [^38], Crunchbase News weekly roundup [^39]). Added Encoded Therapeutics Series F row to Venrock portfolio table (previously mentioned only in narrative healthcare depth section but not itemized in portfolio); 3 new citations added ([^37]-[^39]). All 3 primary sources verified via WebFetch."
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified Venrock participated in Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release [^37], Pulse 2.0 [^38], Crunchbase News weekly roundup [^39]). Added Encoded Therapeutics Series F row to Venrock portfolio table (previously mentioned only in narrative healthcare depth section but not itemized in portfolio); 3 new citations added ([^37]-[^39]). All 3 primary sources verified via WebFetch.'
   processed: '2026-09-11'
 - slug: carrum-mobility
   type: startup
-  reason: "Round monitoring 2026-09-11: New profile for $10M Series B (2026-09-09) led by Uber, with CarDekho co-investing at $168M post-money. Sources: TechCrunch, Entrackr, Axios Pro Rata."
+  reason: 'Round monitoring 2026-09-11: New profile for $10M Series B (2026-09-09) led by Uber, with CarDekho co-investing at $168M post-money. Sources: TechCrunch, Entrackr, Axios Pro Rata.'
   added: 2026-09-11
   status: resolved
   resolved: 2026-09-11
-  resolution_note: "Fact-spec sweep 2026-09-11: verified Carrum Mobility $10M Series B (2026-09-09) at $168M post-money via 3 independent sources: TechCrunch [^1] (primary tech press, verbatim Karan Jain 'mid-teens' stake quote confirmed), Entrackr [^2] (Indian trade press, ₹96 crore amount confirmed but participants not disclosed), and Axios Pro Rata [^3] daily deals digest already cited. Uber lead confirmed. CarDekho remains a backer from earlier Series A round (Jan 2026, $7M at ₹6B post-money). No corrections needed; profile already meets 3-source threshold. Also noted: Uber's Carrum stake now 'mid-teens' percentage per Karan Jain — Carrum is Uber's largest fleet partner for Black service in India."
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified Carrum Mobility $10M Series B (2026-09-09) at $168M post-money via 3 independent sources: TechCrunch [^1] (primary tech press, verbatim Karan Jain ''mid-teens'' stake quote confirmed), Entrackr [^2] (Indian trade press, ₹96 crore amount confirmed but participants not disclosed), and Axios Pro Rata [^3] daily deals digest already cited. Uber lead confirmed. CarDekho remains a backer from earlier Series A round (Jan 2026, $7M at ₹6B post-money). No corrections needed; profile already meets 3-source threshold. Also noted: Uber''s Carrum stake now ''mid-teens'' percentage per Karan Jain — Carrum is Uber''s largest fleet partner for Black service in India.'
   processed: '2026-09-11'
 - slug: xapien
   type: startup
-  reason: "appeared in Xapien Series B (2026-09-10, $56M, Spectrum Equity + YFM Equity Partners)"
+  reason: appeared in Xapien Series B (2026-09-10, $56M, Spectrum Equity + YFM Equity Partners)
   added: 2026-09-12
+  status: resolved
+  resolved: '2026-09-12'
+  resolution_note: 'Fact-spec sweep 2026-09-12: verified $56M Series B (2026-09-10) via 3 independent primary sources: Xapien company site [^1] (primary company source; Chris Green quote verified verbatim), Spectrum Equity news page [^2] (primary lead investor source; Adam Margolin quote verified verbatim in extended form), Axios Pro Rata newsletter [^3] (contemporaneous VC press). YFM Equity Partners confirmed as existing investor participating in the round. Extended Chris Green quote to full verbatim per Spectrum source. Added Joel Lange (EVP, Dow Jones) quote to What Investors Say from Xapien primary source. Announcement dates aligned: Spectrum lists Sep 10; Xapien lists Sep 11 (minor timezone/publishing offset — using Sep 10 as canonical). No profile change to funding row needed — already accurate.'
+  processed: '2026-09-12'
