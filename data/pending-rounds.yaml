@@ -20,6 +20,46 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: dis raised $250M funding over three
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-12'
+  parsed_company: dis
+  parsed_amount: $250M
+  parsed_round: Funding Over Three
+  status: pending
+- title: Payward raised $100M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-12'
+  parsed_company: Payward
+  parsed_amount: $100M
+  parsed_round: null
+  status: pending
+- title: Xapien raised $56M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-12'
+  parsed_company: Xapien
+  parsed_amount: $56M
+  parsed_round: Series B
+  status: pending
+- title: Pinegrove Venture Partners raised $1.5B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-12'
+  parsed_company: Pinegrove Venture Partners
+  parsed_amount: $1.5B
+  parsed_round: null
+  status: pending
+- title: Volition Capital raised $950M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-12'
+  parsed_company: Volition Capital
+  parsed_amount: $950M
+  parsed_round: null
+  status: pending
 - title: Munich-based Furo raises €3.44 million to make industrial battery storage
     economically viable
   url: https://www.eu-startups.com/2026/09/munich-based-furo-raises-e3-44-million-to-make-industrial-battery-storage-economically-viable/
