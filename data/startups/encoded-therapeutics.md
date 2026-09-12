@@ -42,19 +42,21 @@ Encoded Therapeutics is a South San Francisco biotech developing one-time precis
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2020-07-22 | Series D | $135M | GV | Matrix Capital Management, ARCH Venture Partners, Illumina Ventures, RTW Investments, Boxer Capital, Nolan Capital, HBM Genomics, Menlo Ventures, Meritech Capital, Farallon Capital Management, SoftBank Vision Fund 2 [^3][^4][^5] |
-| 2026-09-09 | Series F | $275M | GV | ARCH Venture Partners, Braidwell LP, Farallon Capital Management, Illumina Ventures, Invus, Janus Henderson Investors, Matrix Capital Management, Nolan Capital, RTW Investments, SoftBank Vision Fund 2, Venrock [^1][^2][^3] |
+| 2026-09-09 | Series F | $275M | GV (co-led with another undisclosed healthcare fund) | ARCH Venture Partners, Braidwell LP, Farallon Capital Management, Illumina Ventures, Invus, Janus Henderson Investors, Matrix Capital Management, Nolan Capital, RTW Investments, SoftBank Vision Fund 2, Venrock [^1][^2][^3][^6] |
 
 ## What Investors Say
 
-"The emerging clinical profile of ETX101 is increasingly compelling with durable seizure control and promising neurodevelopmental signals." — Brendan Bulik-Sullivan, Partner, GV [^1]
+"The emerging clinical profile of ETX101 is increasingly compelling with durable seizure control and promising neurodevelopmental signals, reinforcing its potential as a transformative therapy." — Brendan Bulik-Sullivan, Ph.D., General Partner, GV [^1][^6]
 
-"Encoded is well positioned to build a significant portfolio of medicines across neurological diseases." — David Schenkein, General Partner and Co-Lead of Life Sciences, GV [^1]
+"Progress with ETX101 provides important validation of Encoded's differentiated approach to genetic medicine and the broader potential of its platform." — David Schenkein, M.D., General Partner and Co-Lead of Life Sciences, GV [^1][^6]
 
 "Encoded's cutting edge platform has the potential to impact a broad range of diseases across different organ systems." — David Schenkein, General Partner, GV, on the 2020 Series D [^4]
 
 ## What Founders Say
 
-"This financing gives us the resources to advance ETX101 toward registration while continuing to build the capabilities and pipeline that will define Encoded's next stage." — Kartik Ramamoorthi, CEO, Encoded Therapeutics [^1]
+"The interim Phase 1/2 POLARIS data we recently shared at the European Epilepsy Congress demonstrate substantial and sustained seizure frequency reductions alongside encouraging developmental gains." — Kartik Ramamoorthi, Ph.D., CEO, Encoded Therapeutics [^1][^6]
+
+"With pivotal development underway, this financing gives us the resources to advance ETX101 toward registration while continuing to build the capabilities and pipeline that will define Encoded's next stage." — Kartik Ramamoorthi, Ph.D., CEO, Encoded Therapeutics [^1]
 
 ## Sources
 
@@ -63,3 +65,4 @@ Encoded Therapeutics is a South San Francisco biotech developing one-time precis
 [^3]: GV portfolio page, accessed September 2026. https://www.gv.com/portfolio
 [^4]: Encoded Therapeutics press release, "Encoded Therapeutics Announces $135 Million Series D Financing to Support First Clinical Trials in SCN1A+ Dravet Syndrome and Advance Preclinical Pipeline of Gene Therapies for Debilitating Neurologic Disorders," July 22, 2020, accessed September 2026. https://encoded.com/encoded-therapeutics-announces-135-million-series-d-financing-to-support-first-clinical-trials-in-scn1a-dravet-syndrome-and-advance-preclinical-pipeline-of-gene-therapies-for-debilitating-neurologic/ — Primary company press release confirming GV-led $135M Series D announced July 22, 2020; David Schenkein (GV General Partner) joined the Encoded board as observer.
 [^5]: Amit Chowdhry, "Encoded Therapeutics Closes $135 Million In Series D Funding," Pulse 2.0, July 27, 2020, accessed September 2026. https://pulse2.com/encoded-therapeutics-135-million-series-d-funding/ — Independent contemporaneous confirmation of $135M Series D led by GV with participants Matrix Capital Management, ARCH Venture Partners, Illumina Ventures, RTW Investments, Boxer Capital, Nolan Capital, HBM Genomics, Menlo Ventures, Meritech Capital, Farallon Capital Management, and SoftBank Vision Fund 2.
+[^6]: Amit Chowdhry, "Encoded Therapeutics Raises $275 Million Series F To Advance Genetic Medicine For Dravet Syndrome," Pulse 2.0, September 10, 2026, accessed September 2026. https://pulse2.com/encoded-therapeutics-raises-275-million-series-f-to-advance-genetic-medicine-for-dravet-syndrome/ — Independent trade press confirmation of $275M Series F co-led by GV and another healthcare fund; participants: ARCH Venture Partners, Braidwell, Farallon Capital Management, Illumina Ventures, Invus, Janus Henderson Investors, Matrix Capital Management, Nolan Capital, RTW Investments, SoftBank Vision Fund 2, Venrock. Includes verbatim CEO quote from Kartik Ramamoorthi and GV quotes from Bulik-Sullivan and Schenkein.

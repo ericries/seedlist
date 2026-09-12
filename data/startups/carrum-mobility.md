@@ -35,7 +35,7 @@ No independently sourced investor quotes found at time of research.
 
 ## What Founders Say
 
-No independently sourced founder quotes found at time of research.
+Founder Karan Jain told TechCrunch that Uber now holds a "mid-teens" percentage stake in Carrum following the Series B, and that Carrum is Uber's largest fleet partner for its Black service in India [^1].
 
 ## Sources
 

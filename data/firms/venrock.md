@@ -126,6 +126,7 @@ Based on 30 verified portfolio investments spanning the firm's history and recen
 | Gitar | Seed (led) | 2026 | Developer Tools / AI | Active [^30] |
 | CellCentric | Series D (led, via Venrock Healthcare Capital Partners) | 2026-05-06 | Biotech / Oncology | Active [^31] |
 | Expedition Therapeutics | Series B (participated, via Venrock Healthcare Capital Partners) | 2026-08-05 | Biotech / Respiratory | Active [^34][^35][^36] |
+| Encoded Therapeutics | Series F (participated) | 2026-09-09 | Biotech / Gene Therapy / Neurology | Active [^37][^38][^39] |
 
 ## In Their Own Words
 
@@ -234,3 +235,9 @@ Robert Wachter, chair of the Department of Medicine at the University of Califor
 [^35]: BioPharma Dive, "A COPD drug from China draws $115M in venture funding," August 5, 2026. Accessed August 2026. https://www.biopharmadive.com/news/expedition-therapeutics-series-b-dpp1-copd-general-atlantic/826874/ — Independent trade-press confirmation of the $115M Series B led by General Atlantic on August 5, 2026 with Venrock among the dozen new and existing investors.
 
 [^36]: Endpoints News, "Expedition gets another $115M for its twist on China NewCo model," August 5, 2026. Accessed August 2026. https://endpoints.news/expedition-gets-another-115m-for-its-twist-on-china-newco-model/ — Third independent biotech-press confirmation of the round size, lead, and China NewCo model.
+
+[^37]: Encoded Therapeutics press release, "Encoded Therapeutics Raises $275 Million in Series F Financing to Advance ETX101 Through Pivotal Development and Accelerate its Precision Genetic Medicines Neurology Pipeline," September 9, 2026. Accessed September 2026. https://encoded.com/encoded-therapeutics-raises-275-million-in-series-f-financing-to-advance-etx101-through-pivotal-development-and-accelerate-its-precision-genetic-medicines-neurology-pipeline/ — Primary company confirmation of $275M Series F announced September 9, 2026, co-led by GV and another undisclosed healthcare fund; Venrock explicitly listed as a participant alongside ARCH Venture Partners, Braidwell LP, Farallon Capital Management, Illumina Ventures, Invus, Janus Henderson Investors, Matrix Capital Management, Nolan Capital, RTW Investments, and SoftBank Vision Fund 2.
+
+[^38]: Amit Chowdhry, "Encoded Therapeutics Raises $275 Million Series F To Advance Genetic Medicine For Dravet Syndrome," Pulse 2.0, September 10, 2026. Accessed September 2026. https://pulse2.com/encoded-therapeutics-raises-275-million-series-f-to-advance-genetic-medicine-for-dravet-syndrome/ — Independent trade press confirmation of $275M Series F naming Venrock among the participants.
+
+[^39]: Chris Metinko, "The Biggest Funding Rounds Of The Week: Boring Co. And Cognition Lead Massive Week," Crunchbase News, week of September 5-11, 2026. Accessed September 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/ — Third independent tech-press confirmation of Encoded Therapeutics' $275M Series F led by Google Ventures (GV) with Venrock named among participants.

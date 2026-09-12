@@ -6087,9 +6087,15 @@ priority:
   type: firm
   reason: "Round monitoring 2026-09-11: participated in Encoded Therapeutics $275M Series F (2026-09-09)"
   added: 2026-09-11
-  status: pending
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: verified Venrock participated in Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release [^37], Pulse 2.0 [^38], Crunchbase News weekly roundup [^39]). Added Encoded Therapeutics Series F row to Venrock portfolio table (previously mentioned only in narrative healthcare depth section but not itemized in portfolio); 3 new citations added ([^37]-[^39]). All 3 primary sources verified via WebFetch."
+  processed: '2026-09-11'
 - slug: carrum-mobility
   type: startup
   reason: "Round monitoring 2026-09-11: New profile for $10M Series B (2026-09-09) led by Uber, with CarDekho co-investing at $168M post-money. Sources: TechCrunch, Entrackr, Axios Pro Rata."
   added: 2026-09-11
-  status: pending
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: verified Carrum Mobility $10M Series B (2026-09-09) at $168M post-money via 3 independent sources: TechCrunch [^1] (primary tech press, verbatim Karan Jain 'mid-teens' stake quote confirmed), Entrackr [^2] (Indian trade press, ₹96 crore amount confirmed but participants not disclosed), and Axios Pro Rata [^3] daily deals digest already cited. Uber lead confirmed. CarDekho remains a backer from earlier Series A round (Jan 2026, $7M at ₹6B post-money). No corrections needed; profile already meets 3-source threshold. Also noted: Uber's Carrum stake now 'mid-teens' percentage per Karan Jain — Carrum is Uber's largest fleet partner for Black service in India."
+  processed: '2026-09-11'
