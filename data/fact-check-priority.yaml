@@ -6059,3 +6059,23 @@ priority:
   resolved: 2026-09-11
   resolution_note: "Fact-spec sweep 2026-09-11: verified Balderton as a participant (not co-lead) in The Exploration Company's $450M Series C (2026-09-08) against 3 independent primary sources (company blog, TechCrunch, EU-Startups). Rolled Series C into the existing The Exploration Company row (which already recorded the 2024-11-18 Series B co-lead), added [^tec-c1][^tec-c2] citations, and set last_verified_investment to 2026-09-08."
   processed: '2026-09-11'
+- slug: encoded-therapeutics
+  type: startup
+  reason: "Round monitoring 2026-09-11: New lean profile for $275M Series F (2026-09-09) led by GV. Participants: ARCH Venture Partners, Braidwell LP, Farallon Capital Management, Illumina Ventures, Invus, Janus Henderson Investors, Matrix Capital Management, Nolan Capital, RTW Investments, SoftBank Vision Fund 2, Venrock. Sources: (1) Encoded company press release; (2) Crunchbase News weekly roundup; (3) GV portfolio page."
+  added: 2026-09-11
+  status: pending
+- slug: gv
+  type: firm
+  reason: "Round monitoring 2026-09-11: led Encoded Therapeutics $275M Series F (2026-09-09)"
+  added: 2026-09-11
+  status: pending
+- slug: matrix-capital-management
+  type: firm
+  reason: "Round monitoring 2026-09-11: participated in Encoded Therapeutics $275M Series F (2026-09-09)"
+  added: 2026-09-11
+  status: pending
+- slug: venrock
+  type: firm
+  reason: "Round monitoring 2026-09-11: participated in Encoded Therapeutics $275M Series F (2026-09-09)"
+  added: 2026-09-11
+  status: pending
