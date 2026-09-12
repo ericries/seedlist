@@ -9,9 +9,9 @@ stage_focus: [series-a, series-b]
 sector_focus: [healthcare, life-sciences, biotech, health-it, therapeutics, diagnostics]
 check_size: "$250K-$50M"
 last_verified_investment:
-  date: 2020-01
-  company: "EQRx"
-  round: "Series A"
+  date: 2026-09-09
+  company: "Encoded Therapeutics"
+  round: "Series F (co-led)"
 social:
   twitter: "@kyeshwant"
   linkedin: "linkedin.com/in/kcyeshwant"
@@ -20,7 +20,7 @@ tldr: 'Managing Partner of GV life sciences, physician-investor (Harvard
   Incubates companies (Verve, ROME). One-third of GV dedicated to life
   sciences.'
 status: published
-last_researched: 2026-03-25
+last_researched: 2026-09-11
 ---
 
 ## Background
@@ -86,9 +86,10 @@ Based on 22 verified investments below, Yeshwant's actual portfolio reveals a de
 | ROME Therapeutics | 2020 | Series A | Therapeutics / Oncology | [^12] |
 | Freenome | 2017 | Series A | Diagnostics | [^21][^27] |
 | Science 37 | ~2014 (founding year) | — | Clinical Trials | [^21] |
-| Sana Biotechnology | ~2018 (founding year) | — | Cell Therapy | [^21] |
-| LifeMine Therapeutics | ~2017 (founding year) | — | Drug Discovery | [^22] |
-| Encoded Therapeutics | ~2014 (founding year) | — | Gene Therapy | [^21] |
+| Sana Biotechnology | 2020-06-23 | Initial Financing (participant, $700M+) | Cell Therapy | [^21][^34] |
+| LifeMine Therapeutics | 2026-08-06 | Series E (continuing investor; $263M, Milky Way Investments led) | Drug Discovery | [^22][^35] |
+| Encoded Therapeutics | 2020-07-22 | Series D (led, $135M) | Gene Therapy | [^30][^31] |
+| Encoded Therapeutics | 2026-09-09 | Series F (co-led, $275M) | Gene Therapy | [^32][^33] |
 | Ventus Therapeutics | ~2020 (founding year) | — | Therapeutics | [^21] |
 | Decibel Therapeutics | 2017 | Strategic | Therapeutics | [^21][^28] |
 | Nanit | ~2014 (founding year) | — | Consumer Health | [^21] |
@@ -178,3 +179,9 @@ Anthony Philippakis, a GV colleague and co-founder of Verve Therapeutics, has de
 [^27]: BusinessWire, "Freenome Announces $65 Million in Series A Funding, Led by Andreessen Horowitz," March 1, 2017. https://www.businesswire.com/news/home/20170301005927/en/Freenome-Announces-65-Million-Series-Funding-Led
 [^28]: Hearing Review, "GV (Google Ventures) Invests in Decibel Therapeutics," July 7, 2017. https://hearingreview.com/hearing-loss/tinnitus/tinnitus-counseling/gv-invests-decibel-therapeutics
 [^29]: MobiHealthNews, "Google Ventures leads $40M round in behavioral health startup Quartet," April 18, 2016. https://www.mobihealthnews.com/news/google-ventures-leads-40m-round-behavioral-health-startup-quartet
+[^30]: Encoded Therapeutics press release, "Encoded Therapeutics Announces $135 Million Series D Financing to Support First Clinical Trials in SCN1A+ Dravet Syndrome and Advance Preclinical Pipeline of Gene Therapies for Debilitating Neurologic Disorders," July 22, 2020, accessed September 2026. https://encoded.com/encoded-therapeutics-announces-135-million-series-d-financing-to-support-first-clinical-trials-in-scn1a-dravet-syndrome-and-advance-preclinical-pipeline-of-gene-therapies-for-debilitating-neurologic/ — Confirms GV led the $135M Series D closed July 22, 2020 with David Schenkein (GV General Partner) as board observer; participants Matrix Capital Management, ARCH Venture Partners, Illumina Ventures, RTW Investments, Boxer Capital, Nolan Capital, HBM Genomics, Menlo Ventures, Meritech Capital, Farallon Capital Management, SoftBank Vision Fund 2.
+[^31]: Amit Chowdhry, "Encoded Therapeutics Closes $135 Million In Series D Funding," Pulse 2.0, July 27, 2020, accessed September 2026. https://pulse2.com/encoded-therapeutics-135-million-series-d-funding/ — Independent contemporaneous confirmation of GV-led $135M Series D announced July 22, 2020.
+[^32]: Encoded Therapeutics press release, "Encoded Therapeutics Raises $275 Million in Series F Financing to Advance ETX101 Through Pivotal Development and Accelerate its Precision Genetic Medicines Neurology Pipeline," September 9, 2026, accessed September 2026. https://encoded.com/encoded-therapeutics-raises-275-million-in-series-f-financing-to-advance-etx101-through-pivotal-development-and-accelerate-its-precision-genetic-medicines-neurology-pipeline/ — Confirms $275M Series F co-led by GV and another undisclosed healthcare fund on September 9, 2026 with participation from ARCH Venture Partners, Braidwell LP, Farallon Capital Management, Illumina Ventures, Invus, Janus Henderson Investors, Matrix Capital Management, Nolan Capital, RTW Investments, SoftBank Vision Fund 2, and Venrock. David Schenkein (GV General Partner and Co-Lead of Life Sciences) and Brendan Bulik-Sullivan (GV General Partner) both quoted.
+[^33]: Amit Chowdhry, "Encoded Therapeutics Raises $275 Million Series F To Advance Genetic Medicine For Dravet Syndrome," Pulse 2.0, September 10, 2026, accessed September 2026. https://pulse2.com/encoded-therapeutics-raises-275-million-series-f-to-advance-genetic-medicine-for-dravet-syndrome/ — Contemporaneous independent trade press confirmation of $275M Series F co-led by GV.
+[^34]: Sana Biotechnology press release, "Sana Biotechnology Announces Completion of Initial Financing," June 23, 2020, accessed September 2026. https://sana.com/sana-biotechnology-announces-completion-of-initial-financing/ — Confirms Sana's >$700M initial financing announced June 23, 2020; GV named among investors alongside ARCH Venture Partners, Flagship Pioneering, Canada Pension Plan Investment Board, Baillie Gifford, F-Prime Capital, Alaska Permanent Fund, Public Sector Pension Investment Board, Bezos Expeditions, Omega Funds, and Altitude Life Science Ventures.
+[^35]: Amit Chowdhry, "LifeMine Therapeutics Raises $263 Million To Advance LIFE-001 For Organ Transplantation," Pulse 2.0, August 6, 2026, accessed September 2026. https://pulse2.com/lifemine-therapeutics-raises-263-million-to-advance-life-001-for-organ-transplantation/ — Confirms LifeMine's $263M Series E announced August 6, 2026, led by Milky Way Investments ($188M portion) with new investors Bezos Expeditions, Gates Frontier, and RA Capital Management, and continuing investors GV, LoLa Capital Partners, GlaxoSmithKline, Invus, and ARCH Venture Partners. GV's status as a continuing investor confirms prior-round participation.

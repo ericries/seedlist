@@ -103588,7 +103588,8 @@ vague_facts:
   line: '| Sana Biotechnology | ~2018 (founding year) | — | Cell Therapy | [^21] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified GV as participant in Sana Biotechnology''s June 23, 2020 initial financing of >$700M via 3 independent sources: (1) Sana Biotechnology company press release (primary company) [^34] naming GV alongside ARCH, Flagship, CPPIB, Baillie Gifford, F-Prime, Alaska Permanent Fund, Public Sector Pension Investment Board, Bezos Expeditions, Omega Funds, and Altitude Life Science Ventures; (2) GV portfolio page (primary investor source) confirming Sana Biotechnology as an active holding; (3) existing AngelMatch investor profile [^21] cross-reference. Portfolio row updated from "~2018 (founding year) | —" to "2020-06-23 | Initial Financing (participant, $700M+)". 1 new footnote added ([^34]).'
 - profile: investors/krishna-yeshwant
   profile_name: Krishna Yeshwant
   company: LifeMine Therapeutics
@@ -103598,7 +103599,8 @@ vague_facts:
   line: '| LifeMine Therapeutics | ~2017 (founding year) | — | Drug Discovery | [^22] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified GV as continuing investor in LifeMine Therapeutics'' August 6, 2026 Series E ($263M) via 3 independent sources: (1) Pulse 2.0 contemporaneous coverage [^35] naming GV as continuing investor alongside LoLa Capital Partners, GlaxoSmithKline, Invus, and ARCH Venture Partners (with Milky Way Investments leading the Series E and new investors Bezos Expeditions, Gates Frontier, and RA Capital Management joining); (2) GV portfolio page (primary investor source) confirming LifeMine Therapeutics as active holding; (3) existing LifeMine team page [^22] confirming Krishna Yeshwant as director. Note: Cannot pin down the SPECIFIC earlier round GV first joined without additional primary sources, but Series E "continuing investor" designation confirms prior participation. Portfolio row updated from "~2017 (founding year) | —" to "2026-08-06 | Series E (continuing investor)". 1 new footnote added ([^35]).'
 - profile: investors/krishna-yeshwant
   profile_name: Krishna Yeshwant
   company: Encoded Therapeutics
@@ -103608,7 +103610,8 @@ vague_facts:
   line: '| Encoded Therapeutics | ~2014 (founding year) | — | Gene Therapy | [^21] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-11: verified TWO distinct GV-led/co-led Encoded Therapeutics rounds via 3+ independent sources each. Series D (2020-07-22, $135M, GV LED with David Schenkein board observer) verified via: (1) Encoded press release [^30] primary; (2) Pulse 2.0 July 27 2020 [^31] contemporaneous trade press; (3) GV portfolio page (investor primary). Series F (2026-09-09, $275M, GV co-led with an undisclosed healthcare fund) verified via: (1) Encoded press release [^32] primary; (2) Pulse 2.0 Sept 10 2026 [^33] contemporaneous trade press; (3) GV portfolio page (investor primary). Portfolio row split from one "~2014 (founding year) | —" into two specific rows: Series D 2020-07-22 (led) and Series F 2026-09-09 (co-led). last_verified_investment updated from EQRx (2020-01) to Encoded Therapeutics Series F (2026-09-09). 4 new footnotes added ([^30]-[^33]). Encoded Therapeutics startup profile also updated with Series D row + Series D press-release quote from David Schenkein. GV firm profile also updated with both Encoded rows + Sana Biotechnology row (7 new footnotes to gv.md).'
 - profile: investors/krishna-yeshwant
   profile_name: Krishna Yeshwant
   company: Ventus Therapeutics
