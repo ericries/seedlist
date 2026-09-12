@@ -1,7 +1,11 @@
 ---
 founded: 1999
 fund_size: $11B peak AUM (2024); $57.6M 13F portfolio (Q4 2025, wind-down)
-last_researched: 2026-03-24
+last_researched: 2026-09-11
+last_verified_investment:
+  date: 2026-09-09
+  company: "Encoded Therapeutics"
+  round: "Series F"
 location: Waltham, MA
 name: Matrix Capital Management
 review_notes: 'Matrix Capital Management is a hedge fund, NOT a venture capital firm.
@@ -129,6 +133,8 @@ These are primarily late-stage private investments in biotech and life sciences 
 
 | Company | Year | Stage | Sector | Source |
 |---------|------|-------|--------|--------|
+| Encoded Therapeutics | 2020-07-22 | Series D ($135M, GV led) | Gene therapy / Neurology | [^15][^16] |
+| Encoded Therapeutics | 2026-09-09 | Series F ($275M, GV co-led) | Gene therapy / Neurology | [^17][^18][^19] |
 | Maze Therapeutics | ~2022 | Series C ($190M, co-led) | Biotech | [^8] |
 | Alumis | ~2022 | Growth | Autoimmune therapeutics | [^8][^11] |
 | Rivos | ~2022 | Growth | Semiconductors (RISC-V) | [^8] |
@@ -166,3 +172,13 @@ No independently sourced founder testimonials found. Matrix Capital Management o
 [^12]: HedgeFollow, "Matrix Capital Management Company Portfolio | David Goel 13F Holdings & Trades," accessed March 2026. https://hedgefollow.com/funds/Matrix+Capital+Management+Company
 [^13]: ReCode Therapeutics, "ReCode Therapeutics to Expand Next-Generation Delivery Platform and Diversify Genetic Medicines Pipeline with Oversubscribed Series B Financing Totaling $200M," accessed March 2026. https://recodetx.com/recode-therapeutics-to-expand-next-generation-delivery-platform-and-diversify-genetic-medicines-pipeline-with-oversubscribed-series-b-financing-totaling-200m/
 [^14]: Crunchbase, "David Goel Person Profile," accessed March 2026. https://www.crunchbase.com/person/david-goel
+
+[^15]: Encoded Therapeutics press release, "Encoded Therapeutics Announces $135 Million Series D Financing to Support First Clinical Trials in SCN1A+ Dravet Syndrome and Advance Preclinical Pipeline of Gene Therapies for Debilitating Neurologic Disorders," July 22, 2020, accessed September 2026. https://encoded.com/encoded-therapeutics-announces-135-million-series-d-financing-to-support-first-clinical-trials-in-scn1a-dravet-syndrome-and-advance-preclinical-pipeline-of-gene-therapies-for-debilitating-neurologic/ — Primary company confirmation that Matrix Capital Management participated in the $135M Series D closed July 22, 2020 (GV led).
+
+[^16]: Amit Chowdhry, "Encoded Therapeutics Closes $135 Million In Series D Funding," Pulse 2.0, July 27, 2020, accessed September 2026. https://pulse2.com/encoded-therapeutics-135-million-series-d-funding/ — Independent contemporaneous trade press confirmation naming Matrix Capital Management as a participant in the July 22, 2020 Series D.
+
+[^17]: Encoded Therapeutics press release, "Encoded Therapeutics Raises $275 Million in Series F Financing to Advance ETX101 Through Pivotal Development and Accelerate its Precision Genetic Medicines Neurology Pipeline," September 9, 2026, accessed September 2026. https://encoded.com/encoded-therapeutics-raises-275-million-in-series-f-financing-to-advance-etx101-through-pivotal-development-and-accelerate-its-precision-genetic-medicines-neurology-pipeline/ — Primary company confirmation of $275M Series F announced September 9, 2026, co-led by GV and another undisclosed healthcare fund; Matrix Capital Management explicitly listed as a participant alongside ARCH Venture Partners, Braidwell LP, Farallon Capital Management, Illumina Ventures, Invus, Janus Henderson Investors, Nolan Capital, RTW Investments, SoftBank Vision Fund 2, and Venrock.
+
+[^18]: Amit Chowdhry, "Encoded Therapeutics Raises $275 Million Series F To Advance Genetic Medicine For Dravet Syndrome," Pulse 2.0, September 10, 2026, accessed September 2026. https://pulse2.com/encoded-therapeutics-raises-275-million-series-f-to-advance-genetic-medicine-for-dravet-syndrome/ — Independent trade press confirmation naming Matrix Capital Management among the Series F participants.
+
+[^19]: Chris Metinko, "The Biggest Funding Rounds Of The Week: Boring Co. And Cognition Lead Massive Week," Crunchbase News, week of September 5-11, 2026, accessed September 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/ — Third independent confirmation of Encoded Therapeutics' $275M Series F led by GV.

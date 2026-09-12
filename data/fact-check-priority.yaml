@@ -6063,17 +6063,26 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-11: New lean profile for $275M Series F (2026-09-09) led by GV. Participants: ARCH Venture Partners, Braidwell LP, Farallon Capital Management, Illumina Ventures, Invus, Janus Henderson Investors, Matrix Capital Management, Nolan Capital, RTW Investments, SoftBank Vision Fund 2, Venrock. Sources: (1) Encoded company press release; (2) Crunchbase News weekly roundup; (3) GV portfolio page."
   added: 2026-09-11
-  status: pending
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: verified Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release, Pulse 2.0, Crunchbase News weekly roundup). All 11 participants and GV as co-lead confirmed; Series F entry with [^1][^2][^3] already recorded in the startup profile's funding history and About narrative. No changes required to the startup profile itself; downstream firm profiles (GV, Matrix Capital Management) updated in same sweep."
+  processed: '2026-09-11'
 - slug: gv
   type: firm
   reason: "Round monitoring 2026-09-11: led Encoded Therapeutics $275M Series F (2026-09-09)"
   added: 2026-09-11
-  status: pending
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: verified GV co-led Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release, Pulse 2.0, Crunchbase News weekly roundup). Portfolio row + [^encoded-f1][^encoded-f2][^encoded-gv] source block already present; also verified pre-existing Series D lead (2020-07-22, $135M) entry. Added last_verified_investment: 2026-09-09 Encoded Therapeutics Series F and bumped last_researched to 2026-09-11."
+  processed: '2026-09-11'
 - slug: matrix-capital-management
   type: firm
   reason: "Round monitoring 2026-09-11: participated in Encoded Therapeutics $275M Series F (2026-09-09)"
   added: 2026-09-11
-  status: pending
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: verified Matrix Capital Management (via AyurMaya life sciences fund) participated in Encoded Therapeutics $275M Series F (2026-09-09) against 3 independent primary sources (Encoded press release, Pulse 2.0, Crunchbase News). Also verified their prior participation in the 2020-07-22 $135M Series D. Added both Encoded Therapeutics rows to the AyurMaya private investments table with [^15]–[^19] source block, set last_verified_investment to 2026-09-09 Encoded Therapeutics Series F, and bumped last_researched to 2026-09-11. Note: firm remains status: skipped (hedge fund wind-down) but AyurMaya vehicle continues life sciences co-investing."
+  processed: '2026-09-11'
 - slug: venrock
   type: firm
   reason: "Round monitoring 2026-09-11: participated in Encoded Therapeutics $275M Series F (2026-09-09)"

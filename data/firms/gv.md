@@ -59,7 +59,11 @@ team:
     role: "General Partner"
     name: "Vidu Shanmugarajah"
 status: published
-last_researched: 2026-05-06
+last_researched: 2026-09-11
+last_verified_investment:
+  date: 2026-09-09
+  company: "Encoded Therapeutics"
+  round: "Series F"
 ---
 
 ## About
