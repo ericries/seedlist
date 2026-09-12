@@ -41,8 +41,12 @@ team:
   - name: Rana Yared
     role: Partner
     slug: rana-yared
+last_verified_investment:
+  date: 2026-09-08
+  company: "The Exploration Company"
+  round: "Series C"
 status: published
-last_researched: 2026-05-12
+last_researched: 2026-09-11
 tldr: "Europe's leading independent VC ($5.7B raised) focused exclusively on European-founded companies. Originally Benchmark Capital Europe (2000), became independent in 2007. Portfolio of 275+ companies with 20+ unicorns includes Depop ($1.6B Etsy acquisition), Darktrace (IPO), and Revolut. Equal partnership model; led by Managing Partner Bernard Liautaud (founded Business Objects, acquired by SAP for $6.8B)."
 ---
 
@@ -132,7 +136,7 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | SOPHiA Genetics | Early stage | 2015 | Digital Health | IPO 2021 [^2] |
 | Flywire | Early stage | 2014 | Fintech | IPO 2021 [^2] |
 | Checkly | Series B (led, $20M) | 2024-07-31 | Enterprise/DevOps | Active [^6][^23] |
-| The Exploration Company | Series B (co-led) | 2024-11-18 | Deep Tech/Aerospace | Active [^6][^18] |
+| The Exploration Company | Series B (co-led, $160M with Plural, 2024-11-18) → Series C (participant, $450M co-led by Bessemer/Atomico/Scaleup Europe Fund managed by EQT, 2026-09-08) | 2024-11-18 | Deep Tech/Aerospace | Active [^6][^18][^tec-c1][^tec-c2] |
 | Writer | Seed | 2020 | AI/Enterprise | Active [^3] |
 | Quantum Systems | Series C (led, €160M, 2025-05-06) → Series C Extension (led, €180M, 2025-11-27) → Series D (participant, €1B round co-led by Blackstone/Noteus/Airbus/Advent, ~€7B post-money, 2026-07-02) | 2025-05-06 | Defence Tech/Drones | Active [^14][^24][^32] |
 | Proxima Fusion | Series A (co-led, €130M with Cherry Ventures, 2025-06-11) → Growth (participant, €411M co-led by XTX Ventures + East X Ventures, 2026-07-07) | 2025-06-11 | Deep Tech/Fusion | Active [^6][^25][^33] |
@@ -253,3 +257,7 @@ No additional independently sourced founder testimonials found beyond those publ
 [^priorlabs2]: Fortune, "Exclusive: Prior Labs gets $9.3 million 'pre-seed' round to build AI models that can analyze tables and spreadsheets," February 5, 2025. Accessed July 19, 2026. https://fortune.com/2025/02/05/prior-labs-9-million-euro-preseed-funding-tabular-data-ai/ — Independent primary press confirming Balderton-led €9M ($9.3M) pre-seed for Prior Labs, founded by Frank Hutter, Noah Hollmann, and Sauraj Gambhir.
 
 [^priorlabs3]: SAP News Center, "SAP Completes Prior Labs Acquisition," July 17, 2026. Accessed July 19, 2026. https://news.sap.com/2026/07/sap-completes-prior-labs-acquisition/ — Confirms SAP completed the Prior Labs acquisition on July 17, 2026, and committed more than €1 billion over four years to scale the company as an independent frontier AI lab within SAP.
+
+[^tec-c1]: The Exploration Company (company blog), "The Exploration Company Series C — $450 million," September 8, 2026. Accessed September 2026. https://www.exploration.space/blog/the-exploration-company-series-c-450-million — Primary company announcement confirming the $450M Series C on September 8, 2026, co-led by Bessemer Venture Partners, Atomico, and Scaleup Europe Fund (managed by EQT), with Balderton, Plural, Cherry, and Red River West participating.
+
+[^tec-c2]: TechCrunch, "The Exploration Company nabs $450 million to challenge SpaceX," Anna Heim, September 8, 2026. Accessed September 2026. https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/ — Tier-1 press independent confirmation of the $450M Series C on September 8, 2026, listing Balderton as participating alongside Plural, Cherry, and Red River West.

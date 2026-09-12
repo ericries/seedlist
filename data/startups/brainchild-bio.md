@@ -27,7 +27,7 @@ BrainChild Bio is a clinical-stage biotechnology company developing CAR T cell t
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-08 | Series A | $116M | Undisclosed private family fund and foundation | Seattle Children's, WRF Capital [^1][^2][^3] |
+| 2026-09-08 | Series A | $116M | Undisclosed private family fund and foundation | Seattle Children's, WRF Capital [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -44,3 +44,4 @@ Steven Brugger, CEO: "Our path to building BrainChild Bio has led us to secure t
 [^1]: BrainChild Bio press release, "BrainChild Bio Closes $116 Million Series A Financing," September 8, 2026, accessed September 2026. https://brainchildbio.com/wp-content/uploads/2026/09/BCBio_SeriesA_PR_FINAL_09-08-26.pdf
 [^2]: WRF Capital news page, BrainChild Bio Series A financing mention, September 8, 2026, accessed September 2026. https://www.wrfcapital.com/news
 [^3]: Axios Pro Rata, VC deals roundup, September 9, 2026 edition, accessed September 2026. https://www.axios.com/newsletters/axios-pro-rata
+[^4]: BioSpace press release syndication, "BrainChild Bio Closes $116 Million Series A Financing," September 8, 2026, accessed September 2026. https://www.biospace.com/press-releases/brainchild-bio-closes-116-million-series-a-financing — Fourth independent confirmation: $116M Series A closed September 8, 2026, led by an undisclosed private family fund and foundation "aligned with the company's mission," with initial investor Seattle Children's and new investor WRF Capital participating. Proceeds fund the ILLUMINATE Phase 2 pivotal trial of BCB-276 in DIPG and advancement of BCB-214 in glioblastoma.

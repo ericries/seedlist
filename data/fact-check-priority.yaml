@@ -6039,11 +6039,23 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-11: New lean profile for $116M Series A (2026-09-08). Undisclosed private family fund/foundation led; Seattle Children's and WRF Capital participated. Sources: (1) BrainChild Bio press release PDF; (2) WRF Capital news page; (3) Axios Pro Rata."
   added: 2026-09-11
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: verified $116M Series A on 2026-09-08 against 4 independent primary sources (BrainChild Bio press release PDF, WRF Capital news page, Axios Pro Rata, and newly-added BioSpace syndication of the company press release). Lead: undisclosed private family fund and foundation; participants: Seattle Children's (initial investor) and WRF Capital (new investor). Added BioSpace as 4th citation. Profile is accurate as published."
+  processed: '2026-09-11'
 - slug: bessemer-venture-partners
   type: firm
   reason: "Round monitoring 2026-09-11: co-led The Exploration Company Series C ($450M, 2026-09-08)."
   added: 2026-09-11
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: verified Bessemer co-led The Exploration Company's $450M Series C (2026-09-08) against 3 independent primary sources (company blog, TechCrunch, EU-Startups). Confirmed Bessemer as one of three co-leads alongside Atomico and Scaleup Europe Fund (managed by EQT); Alex Ferrara joined the board. Added portfolio row + [^tec1][^tec2][^tec3] source block, and set last_verified_investment to 2026-09-08 The Exploration Company Series C."
+  processed: '2026-09-11'
 - slug: balderton-capital
   type: firm
   reason: "Round monitoring 2026-09-11: participated in The Exploration Company Series C ($450M, 2026-09-08)."
   added: 2026-09-11
+  status: resolved
+  resolved: 2026-09-11
+  resolution_note: "Fact-spec sweep 2026-09-11: verified Balderton as a participant (not co-lead) in The Exploration Company's $450M Series C (2026-09-08) against 3 independent primary sources (company blog, TechCrunch, EU-Startups). Rolled Series C into the existing The Exploration Company row (which already recorded the 2024-11-18 Series B co-lead), added [^tec-c1][^tec-c2] citations, and set last_verified_investment to 2026-09-08."
+  processed: '2026-09-11'

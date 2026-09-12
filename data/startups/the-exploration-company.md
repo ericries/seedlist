@@ -37,7 +37,9 @@ The Exploration Company is a European space company developing Nyx, a reusable o
 
 ## What Investors Say
 
-"10 Nyx missions are booked" with "more than $2 billion in contracts and commitments" — Atomico, as reported in TechCrunch coverage of the Series C round [^2].
+"Space sovereignty is increasingly critical for Europe's national security, particularly as space becomes the infrastructure layer." — Alex Ferrara, Partner, Bessemer Venture Partners, in the company's Series C announcement. Ferrara joined The Exploration Company's board of directors as part of the round [^1][^2].
+
+"European companies can combine the ambition, expertise and execution needed to lead on the global stage." — Laura Connell, Atomico, in the company's Series C announcement [^1].
 
 ## What Founders Say
 

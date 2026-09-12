@@ -76,8 +76,12 @@ team:
   - slug: andrew-hedin
     role: "Partner"
     name: "Andrew Hedin"
+last_verified_investment:
+  date: 2026-09-08
+  company: "The Exploration Company"
+  round: "Series C"
 status: published
-last_researched: 2026-03-20
+last_researched: 2026-09-11
 ---
 
 ## About
@@ -167,6 +171,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | Onyx Security | Series B (led, $113M at ~$640M valuation; Cyberstarts, TCV, Conviction, FirstMark, Vintage, QuantumLight, G Squared participated) | 2026-07-29 | Cybersecurity / AI Security / Enterprise Software | [^onyx1][^onyx2][^onyx3] |
 | ChipAgents | Series A2 extension ($60M; B Capital-led; Bessemer participated as existing investor alongside Micron, MediaTek, Ericsson, ScOp Venture Capital) | 2026-07-29 | AI / Agentic AI / Semiconductors / EDA | [^chip1][^chip2][^chip3] |
 | Bevel | Seed ($6M; SHAKTI-led; Resolute Ventures + Bessemer participated) | 2026-08-28 | Insurtech / AI / Risk Management | [^bevel1][^bevel2] |
+| The Exploration Company | Series C ($450M; co-led with Atomico and Scaleup Europe Fund managed by EQT; Balderton, Plural, Cherry, Red River West participated; Alex Ferrara joined the board) | 2026-09-08 | Deep Tech / Aerospace / Space | [^tec1][^tec2][^tec3] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -331,3 +336,9 @@ However, founder experiences are not universally positive. One founder reported 
 [^chip2]: Data Center Dynamics, "ChipAgents raises additional $60m in expanded Series A round to support AI chip design platform," July 2026. Accessed August 2026. https://www.datacenterdynamics.com/en/news/chipagents-raises-additional-60m-in-expanded-series-a-round-to-support-ai-chip-design-platform/ — Independent trade press confirmation of the $60M Series A extension led by B Capital with Bessemer among participants.
 
 [^chip3]: The SaaS News, "ChipAgents Raises $60M Series A Extension," July 2026. Accessed August 2026. https://www.thesaasnews.com/news/chipagents-raises-60m-series-a-extension/ — Third independent confirmation. Names participants as Bessemer Venture Partners, Micron, MediaTek, Ericsson, and ScOp. Confirms July 29, 2026 announcement date and $134M cumulative Series A.
+
+[^tec1]: The Exploration Company (company blog), "The Exploration Company Series C — $450 million," September 8, 2026. Accessed September 2026. https://www.exploration.space/blog/the-exploration-company-series-c-450-million — Primary company announcement confirming $450M Series C co-led by Bessemer Venture Partners, Atomico, and Scaleup Europe Fund (managed by EQT) with Balderton, Plural, Cherry, and Red River West participating. Includes Bessemer Partner Alex Ferrara quote: "Space sovereignty is increasingly critical for Europe's national security, particularly as space becomes the infrastructure layer."
+
+[^tec2]: TechCrunch, "The Exploration Company nabs $450 million to challenge SpaceX," Anna Heim, September 8, 2026. Accessed September 2026. https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/ — Tier-1 press independent confirmation of the $450M Series C on September 8, 2026, co-led by Bessemer Venture Partners, Atomico, and EQT-managed Scaleup Europe Fund; confirms Alex Ferrara (Bessemer) joined the board.
+
+[^tec3]: EU-Startups, "The Exploration Company secures €387 million to accelerate development of reusable high-thrust rocket engine," September 8, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/the-exploration-company-secures-e387-million-to-accelerate-development-of-reusable-high-thrust-rocket-engine/ — European trade press confirmation of the round with EUR-denominated headline; company itself reported the round in USD as $450M.
