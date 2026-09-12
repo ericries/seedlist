@@ -196,7 +196,9 @@ pending_rounds:
   parsed_company: Carrum Mobility
   parsed_amount: $10M
   parsed_round: Series B
-  status: pending
+  status: processed
+  processed: '2026-09-11'
+  profile: carrum-mobility
 - title: MCatalysis raised $5M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata

@@ -6079,3 +6079,8 @@ priority:
   reason: "Round monitoring 2026-09-11: participated in Encoded Therapeutics $275M Series F (2026-09-09)"
   added: 2026-09-11
   status: pending
+- slug: carrum-mobility
+  type: startup
+  reason: "Round monitoring 2026-09-11: New profile for $10M Series B (2026-09-09) led by Uber, with CarDekho co-investing at $168M post-money. Sources: TechCrunch, Entrackr, Axios Pro Rata."
+  added: 2026-09-11
+  status: pending
