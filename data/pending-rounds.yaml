@@ -36,14 +36,6 @@ pending_rounds:
   parsed_amount: $100M
   parsed_round: null
   status: pending
-- title: Xapien raised $56M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-12'
-  parsed_company: Xapien
-  parsed_amount: $56M
-  parsed_round: Series B
-  status: pending
 - title: Pinegrove Venture Partners raised $1.5B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata

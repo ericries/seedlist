@@ -6099,3 +6099,7 @@ priority:
   resolved: 2026-09-11
   resolution_note: "Fact-spec sweep 2026-09-11: verified Carrum Mobility $10M Series B (2026-09-09) at $168M post-money via 3 independent sources: TechCrunch [^1] (primary tech press, verbatim Karan Jain 'mid-teens' stake quote confirmed), Entrackr [^2] (Indian trade press, ₹96 crore amount confirmed but participants not disclosed), and Axios Pro Rata [^3] daily deals digest already cited. Uber lead confirmed. CarDekho remains a backer from earlier Series A round (Jan 2026, $7M at ₹6B post-money). No corrections needed; profile already meets 3-source threshold. Also noted: Uber's Carrum stake now 'mid-teens' percentage per Karan Jain — Carrum is Uber's largest fleet partner for Black service in India."
   processed: '2026-09-11'
+- slug: xapien
+  type: startup
+  reason: "appeared in Xapien Series B (2026-09-10, $56M, Spectrum Equity + YFM Equity Partners)"
+  added: 2026-09-12

@@ -46616,3 +46616,22 @@ queue:
   priority: high
   status: pending
   added: '2026-09-02'
+- name: Spectrum Equity
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-09-12'
+  discovered_from: xapien
+- name: YFM Equity Partners
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-09-12'
+  discovered_from: xapien
+- name: Adam Margolin
+  type: individual
+  priority: normal
+  status: pending
+  added: '2026-09-12'
+  firm: Spectrum Equity
+  discovered_from: xapien
