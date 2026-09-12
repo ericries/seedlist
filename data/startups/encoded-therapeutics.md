@@ -31,7 +31,7 @@ last_researched: 2026-09-11
 
 ## About
 
-Encoded Therapeutics is a South San Francisco biotech developing one-time precision genetic medicines for severe neurological disorders, using proprietary vector engineering to enable targeted, cell-type-selective gene expression control in the nervous system [^1]. Its lead program, ETX101, is a gene therapy for Dravet syndrome, currently in pivotal development [^1]. On September 9, 2026, the company announced a $275M Series F financing led by GV to advance ETX101 toward registration and accelerate its precision genetic medicines neurology pipeline [^1][^2].
+Encoded Therapeutics is a South San Francisco biotech developing one-time precision genetic medicines for severe neurological disorders, using proprietary vector engineering to enable targeted, cell-type-selective gene expression control in the nervous system [^1]. Its lead program, ETX101, is a gene therapy for Dravet syndrome, currently in pivotal development [^1]. On September 9, 2026, the company announced a $275M Series F financing led by GV [^3] to advance ETX101 toward registration and accelerate its precision genetic medicines neurology pipeline [^1][^2].
 
 ## Funding History
 
