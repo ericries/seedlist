@@ -6139,3 +6139,27 @@ priority:
   resolved: '2026-09-12'
   resolution_note: 'Fact-spec sweep 2026-09-12: verified $56M Series B (2026-09-10) via 3 independent primary sources: Xapien company site [^1] (primary company source; Chris Green quote verified verbatim), Spectrum Equity news page [^2] (primary lead investor source; Adam Margolin quote verified verbatim in extended form), Axios Pro Rata newsletter [^3] (contemporaneous VC press). YFM Equity Partners confirmed as existing investor participating in the round. Extended Chris Green quote to full verbatim per Spectrum source. Added Joel Lange (EVP, Dow Jones) quote to What Investors Say from Xapien primary source. Announcement dates aligned: Spectrum lists Sep 10; Xapien lists Sep 11 (minor timezone/publishing offset — using Sep 10 as canonical). No profile change to funding row needed — already accurate.'
   processed: '2026-09-12'
+- slug: blee
+  type: startup
+  reason: "Round monitoring 2026-09-13: Series A $20M (2026-09-08) co-led by Fin Capital and SMBC Fin Atlas Beyond Fund. Single source (AlleyWatch)."
+  added: 2026-09-13
+- slug: every-media
+  type: startup
+  reason: "Round monitoring 2026-09-13: $16M growth round (2026-09-08). Single source (AlleyWatch). Investor(s) undisclosed."
+  added: 2026-09-13
+- slug: rightway-healthcare
+  type: startup
+  reason: "Round monitoring 2026-09-13: $155M growth round (2026-09-09). Single source (AlleyWatch). Investors undisclosed."
+  added: 2026-09-13
+- slug: algox2
+  type: startup
+  reason: "Round monitoring 2026-09-13: $4.5M seed (2026-09-08). Single source (AlleyWatch). Investors undisclosed."
+  added: 2026-09-13
+- slug: malayy
+  type: startup
+  reason: "Round monitoring 2026-09-13: $10.1M seed (2026-09-08). Single source (AlleyWatch). Investors undisclosed."
+  added: 2026-09-13
+- slug: poseidon-aerospace
+  type: startup
+  reason: "Round monitoring 2026-09-13: Series A $60M (2026-09-08) led by TQ Ventures with Hanwha, G Squared, JAWS, Starship, Draper Associates, Drover. Verify participants; queue firm profiles."
+  added: 2026-09-13

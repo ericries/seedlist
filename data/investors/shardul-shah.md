@@ -3,9 +3,9 @@ check_size: $100K-$50M
 firm: index-ventures
 last_researched: 2026-03-20
 last_verified_investment:
-  company: 7AI
-  date: 2025
-  round: Series A
+  company: Flapping Airplanes
+  date: 2026-01-28
+  round: Seed
 location: New York, NY
 name: Shardul Shah
 role: Partner

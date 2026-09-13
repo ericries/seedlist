@@ -305,14 +305,6 @@ pending_rounds:
   parsed_amount: $70M
   parsed_round: Series B
   status: pending
-- title: Poseidon Aerospace raised $60M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-09'
-  parsed_company: Poseidon Aerospace
-  parsed_amount: $60M
-  parsed_round: Series A
-  status: pending
 - title: ARC Ride raised $33.3M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -320,14 +312,6 @@ pending_rounds:
   parsed_company: ARC Ride
   parsed_amount: $33.3M
   parsed_round: null
-  status: pending
-- title: Blee raised $27M seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-09'
-  parsed_company: Blee
-  parsed_amount: $27M
-  parsed_round: Seed And Series A
   status: pending
 - title: EZ Health raised $26M
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -480,14 +464,6 @@ pending_rounds:
   date_found: '2026-09-08'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round
-  url: https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/
-  source: crunchbase
-  date_found: '2026-09-08'
-  parsed_company: Mistral AI
-  parsed_amount: $3.5B
   parsed_round: null
   status: pending
 - title: Molten Ventures raises €203 million to back UK and European growth-stage
