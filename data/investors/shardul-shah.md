@@ -99,7 +99,7 @@ The analysis below is based on 36 investments publicly listed on Shah's Index Ve
 | Linx Security | ~2022 | Early | Cybersecurity | Active | [^1] |
 | Expel | ~2020 | Early | Cybersecurity | Active | [^1] |
 | Simile | ~2023 | Early | AI | Active | [^1] |
-| Thread AI | ~2023 | Early | AI | Active | [^1] |
+| Thread AI | 2024-10-01 | Seed ($6M; Index Ventures led with Greycroft, Scale Venture Partners, Plug and Play) | AI / Enterprise Infrastructure | Active | [^1][^10][^11][^12] |
 | Reclaim.ai | ~2021 | Early | AI/Productivity | Active | [^1] |
 | ApplyBoard | ~2019 | Growth | EdTech/Business App | Active | [^1] |
 | BrightHire | ~2020 | Early | HR Tech | Active | [^1] |
@@ -109,7 +109,7 @@ The analysis below is based on 36 investments publicly listed on Shah's Index Ve
 | Datadog | 2012 | Series A | Monitoring/Cybersecurity | IPO (NASDAQ: DDOG) | [^1][^9] |
 | Outbrain | ~2012 | Growth | AdTech | IPO (NASDAQ: OB) | [^1] |
 | Superconductive | ~2019 | Early | Data Infrastructure | Active | [^1] |
-| Flapping Airplanes | ~2023 | Early | AI | Active | [^1] |
+| Flapping Airplanes | 2026-01-28 | Seed (Index Ventures co-led with GV and Sequoia; Shah + Mark Xu Index leads) | AI Research | Active | [^1][^13] |
 | Brightback | ~2018 | Seed | SaaS/Retention | Acquired by Chargebee | [^1] |
 | Signal Sciences | ~2016 | Early | Cybersecurity | Acquired by Fastly | [^1] |
 | Duo Security | ~2015 | Early | Cybersecurity | Acquired by Cisco | [^1] |
@@ -155,3 +155,7 @@ No independently sourced founder testimonials found. Shah's Index Ventures page 
 [^7]: Index Ventures, "Wiz's Big Moment: The Show is Just Getting Started," by Shardul Shah, 2024. https://www.indexventures.com/perspectives/wizs-big-moment-the-show-is-just-getting-started/
 [^8]: Index Ventures, "Behind the Scenes: Coalition," by Shardul Shah, accessed March 2026. https://www.indexventures.com/perspectives/behind-the-scenes-coalition/
 [^9]: Index Ventures, "Woof, Woof! Our Journey with Datadog," by Shardul Shah, 2024. https://www.indexventures.com/perspectives/datadog-woof-woof/
+[^10]: Thread AI blog, "Introducing Lemma," October 1, 2024. https://www.threadai.com/blog/introducing-lemma — Primary company blog marking Thread AI's emergence from stealth on 2024-10-01 with the launch of Lemma workflow orchestration platform (co-founders Angela McNeal and Mayada Gonimah, both former Palantir AI/ML leaders).
+[^11]: Thread AI blog listing, accessed September 2026. https://www.threadai.com/blog — Primary company source listing "$6 million in seed funding led by Index Ventures in October 2024" and $20M Series A in June 2025.
+[^12]: Index Ventures, Thread AI portfolio entry, accessed September 2026. https://www.indexventures.com/companies/thread-ai-2/ — Firm portfolio page naming Shardul Shah as the Index team member on Thread AI investment; confirms co-founders Angela McNeal and Mayada Gonimah.
+[^13]: Index Ventures, "Taking Flight: Our Investment in Flapping Airplanes," by Shardul Shah and Mark Xu, January 28, 2026. https://www.indexventures.com/perspectives/taking-flight-our-investment-in-flapping-airplanes — Primary firm announcement of Index co-lead with GV and Sequoia in Flapping Airplanes seed; co-founders Ben Spector, Asher Spector, Aidan Smith.

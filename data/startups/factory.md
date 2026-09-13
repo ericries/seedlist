@@ -59,7 +59,7 @@ Factory is a San Francisco-based startup building AI coding agents ("Droids") fo
 | 2026-04-16 | Series C | $150M | Khosla Ventures | Sequoia Capital, Blackstone, Insight Partners, Evantic Capital, 20VC, NEA, Mantis VC [^1][^2] |
 | 2025-09 | Series B | $50M | NEA | Sequoia Capital, J.P. Morgan, Nvidia, Abstract Ventures, Mantis Ventures [^3] |
 | 2024 | Series A | $15M | Sequoia Capital | Lux Capital, Mantis VC [^2] |
-| 2023 | Seed | $5M | — | — [^2] |
+| 2023-11-02 | Seed | $5M | Sequoia Capital | Shaun Maguire (Sequoia lead partner) [^2][^4] |
 
 ## What Investors Say
 
@@ -74,3 +74,4 @@ No verified founder quotes available at this time.
 [^1]: TechCrunch, "Factory hits $1.5B valuation to build AI coding for enterprises," April 16, 2026. https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/
 [^2]: Factory Blog, "Factory raises $150M Series C," April 16, 2026. https://factory.ai/news/series-c
 [^3]: BusinessWire, "Factory Unleashes the Droids, Raises $50 Million Series B from NEA, Sequoia Capital, NVIDIA, and J.P. Morgan," September 25, 2025. https://www.businesswire.com/news/home/20250925993478/en/Factory-Unleashes-the-Droids-Raises-$50-Million-Series-B-from-NEA-Sequoia-Capital-NVIDIA-and-J.P.-Morgan
+[^4]: Sequoia Capital, "Partnering with Factory: Autonomous AI for All," by Shaun Maguire, published November 2, 2023. https://www.sequoiacap.com/article/partnering-with-factory-autonomous-ai-for-all/ — Primary firm announcement of Sequoia's seed investment; Sequoia's /companies/factory portal cross-confirms 2023 partnership with Maguire as lead partner.

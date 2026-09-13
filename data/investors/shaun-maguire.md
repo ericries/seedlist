@@ -130,7 +130,7 @@ Stripe, Opendoor, IonQ, SpinLaunch, Lambda School, Dandelion Energy, Clutter, Mo
 | Monad | ~2021 | Early | Crypto / L1 | [^2] |
 | X (Twitter) | 2022 | Take-Private | Social / Musk | [^14] |
 | Blockaid | 2022 | Seed ($6M) | Web3 Security | [^25] |
-| Factory | 2023 | Seed | AI / Dev Tools | [^26] |
+| Factory | 2023-11-02 | Seed (Sequoia Capital led; Maguire lead partner) | AI / Dev Tools | [^26][^31][^35] |
 | Bridge | 2023 | Series A | Crypto / Stablecoin Infra | [^27] |
 | Safe Superintelligence | 2024 | Seed | AI / Foundation Models | [^28] |
 | xAI | ~2023 | Growth | AI / Musk | [^14] |
@@ -330,3 +330,5 @@ Verified professional connections that could serve as introduction paths.
 
 [^valar1]: TechCrunch, "Sequoia's Shaun Maguire leads $1B round for nuclear startup Valar Atomics," August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/ — Primary press naming Shaun Maguire as lead partner for Sequoia in Valar Atomics' $1B Series B at ~$6B post-money; participants Apandion Capital, Atreides Management, Conviction, Dream Ventures, HOF Capital, Point72, Riot Ventures, Snowpoint Ventures, Valor Equity Partners.
 [^valar2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 8/3/2026," August 3, 2026. Accessed August 2026. https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-3-2026/ — Independent daily funding report cross-confirming August 3, 2026 date, $1B equity + $200M credit structure, and Shaun Maguire lead.
+
+[^35]: Sequoia Capital, "Partnering with Factory: Autonomous AI for All," by Shaun Maguire, published November 2, 2023. https://www.sequoiacap.com/article/partnering-with-factory-autonomous-ai-for-all/ — Primary firm announcement of Sequoia's seed investment in Factory (co-founded 2023 by Matan Grinberg and Eno Reyes); Sequoia's companies portal cross-confirms "Established in 2023 with Sequoia Capital partnership that same year" with Maguire as lead partner.

@@ -202132,7 +202132,9 @@ vague_facts:
   line: '| Thread AI | ~2023 | Early | AI | Active | [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-13'
+  resolution_note: 'Fact-spec sweep 2026-09-13: Tightened ~2023 to 2024-10-01. Thread AI (Lemma platform, co-founders Angela McNeal & Mayada Gonimah, both ex-Palantir AI/ML leads) emerged from stealth 2024-10-01 with $6M seed led by Index Ventures with Greycroft, Scale Venture Partners, Plug and Play participating. Verified via 3+ independent primary sources: Thread AI company blog "Introducing Lemma" [^10] (2024-10-01, primary company post marking stealth emergence + platform launch); Thread AI /blog index [^11] (primary company source explicitly stating "$6 million in seed funding led by Index Ventures in October 2024" and $20M Series A June 2025); Index Ventures /companies/thread-ai-2/ portfolio page [^12] (primary firm source naming Shardul Shah as Index team lead on this investment). 3 new footnotes added ([^10], [^11], [^12]).'
 - profile: investors/shardul-shah
   profile_name: Shardul Shah
   company: Flapping Airplanes
@@ -202142,7 +202144,9 @@ vague_facts:
   line: '| Flapping Airplanes | ~2023 | Early | AI | Active | [^1] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-13'
+  resolution_note: 'Fact-spec sweep 2026-09-13: Tightened ~2023 to 2026-01-28. Prior year was materially wrong — Index Ventures announced its Flapping Airplanes investment on 2026-01-28, co-leading with GV and Sequoia. Founders Ben Spector, Asher Spector, Aidan Smith building a foundational AI research lab. Verified via Index Ventures perspectives article [^13] "Taking Flight: Our Investment in Flapping Airplanes" by Shardul Shah and Mark Xu (primary firm source, dated 2026-01-28) and Index Ventures companies portal /companies/flapping-airplanes/ (cross-confirms Shardul Shah + Mark Xu as Index team leads). 1 new footnote added ([^13]).'
 - profile: investors/shaun-maguire
   profile_name: Shaun Maguire
   company: Factory
@@ -202152,7 +202156,9 @@ vague_facts:
   line: '| Factory | 2023 | Seed | AI / Dev Tools | [^26] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-13'
+  resolution_note: 'Fact-spec sweep 2026-09-13: Tightened 2023 to 2023-11-02. Factory (AI Droids for software engineering, co-founded 2023 by Matan Grinberg and Eno Reyes) received Sequoia''s seed investment with public announcement on 2023-11-02 via Shaun Maguire''s Sequoia article. Verified via 3+ primary sources: Sequoia Capital "Partnering with Factory: Autonomous AI for All" by Shaun Maguire [^35] (primary firm announcement, published 2023-11-02); Sequoia Capital companies portal /companies/factory (primary firm cross-confirm: "Established in 2023 with Sequoia Capital partnership that same year," Shaun Maguire lead partner); Sequoia Capital podcast "Factory Unleashes the Droids on Software Development" [^31] (2024, cross-confirms Sequoia-Factory partnership and Grinberg quote). 1 new footnote added ([^35]).'
 - profile: investors/shaun-maguire
   profile_name: Shaun Maguire
   company: Bridge
