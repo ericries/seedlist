@@ -50672,7 +50672,10 @@ vague_facts:
   line: ~unknown| BeReal | n/a | Investor [^1] | [^1] |
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-14
+  resolution_note: 'Fact-spec sweep 2026-09-14: unable to date Bryan Kim''s personal involvement in BeReal to 3+ independent primary sources. Confirmed via Wikipedia (not primary — do-not-trust per CLAUDE.md) that a16z co-led BeReal Series A ($30M) in June 2021 with Accel, and via Bryan Kim''s a16z author page [^1] that BeReal appears in his ''Connection'' theme portfolio. However: (a) a16z Bryan Kim BeReal announcement URL (a16z.com/announcement/investing-in-bereal, a16z.com/bereal, a16z.com/investing-in-bereal) all return 404; (b) contemporaneous TechCrunch coverage URL guesses returned 404; (c) Sifted returned 403; (d) web search budget exhausted this session so no new URLs could be located. Kim''s a16z page confirms he is the internal partner associated with BeReal but does not date his personal involvement — he may have joined the deal team after the 2021 Series A. Leaving n/a rather than guessing 2021. Recommend retry in a future session with web search available to locate primary announcement.'
+  processed: '2026-09-14'
 - profile: investors/bryan-offutt
   profile_name: Bryan Offutt
   company: Starburst
@@ -120804,7 +120807,10 @@ vague_facts:
   line: ~unknown| ePlanSoft | unknown | Board seat (Builders VC) | [^1] |
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-14
+  resolution_note: 'Fact-spec sweep 2026-09-14: unable to date Rosengarten''s ePlanSoft board seat / Builders VC investment. Re-fetched Builders VC partner page for Rosengarten (builders.vc/mike-rosengarten.html) on 2026-09-14 — page now lists Askari, Augment, Camino, Clay Labs, Knapsack, LumoPath, Outlaw, Percept, Sense360 but NO ePlanSoft. The original [^1] citation in the profile may reflect an older snapshot of the page. ePlanSoft company site (eplansoft.com) has no VC/investor page and eplansoft.com/leadership returns 404. Cannot corroborate the ''board seat (Builders VC)'' claim against 3+ independent primary sources; the only prior source has been mutated. Recommend a follow-up profile review of investors/mike-rosengarten to either (a) locate a press release or archived Builders VC page confirming ePlanSoft or (b) remove the ePlanSoft row if unverifiable. Not touching profile in this pass; leaving as-is with the caveat that the [^1] snapshot may be stale. Web search budget exhausted this session.'
+  processed: '2026-09-14'
 - profile: investors/mike-rosengarten
   profile_name: Mike Rosengarten
   company: Camino Technologies (founder, acq. by Clariti)
@@ -162181,7 +162187,10 @@ vague_facts:
   line: ~unknown| Josh Talks | n/a | Angel | [^18] |
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-14
+  resolution_note: 'Fact-spec sweep 2026-09-14: unable to date Vineeta Singh''s angel investment in Josh Talks to any independent primary source. Sources checked: (a) joshtalks.com/about — funding history lists MDIF Pre-Series A 2020 $1.5M and Ankur Capital / Michael & Susan Dell Foundation 2022 $3.5M plus ACT Grants ₹1 Cr; Vineeta Singh appears only in a testimonial section as ''CEO, SUGAR Cosmetics'', not among investors. (b) en.wikipedia.org/wiki/Josh_Talks — documents Feb 27, 2018 pre-Series A led by MDIF $1.5M and early seed from Ritesh Malik and Sumit Ranka; Singh is NOT listed as an investor. (c) Existing [^18] citation is Planify holdings tracker showing Singh has a ₹13 Cr position in Josh Talks — reflects current holding value but does not name the round or date. Primary Josh Talks and Wikipedia sources do not corroborate Singh''s participation in any documented round, and web search budget is exhausted this session, so I cannot triangulate via press. The Planify entry is likely a real private holding but the round date is genuinely undisclosed publicly. Leaving row as-is (n/a) rather than guessing. Recommend re-review with web search available.'
+  processed: '2026-09-14'
 - profile: investors/vineeta-singh
   profile_name: Vineeta Singh
   company: Quirky Naari
