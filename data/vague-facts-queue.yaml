@@ -10406,7 +10406,9 @@ vague_facts:
   line: '| Mill | Participant (specific round date unresolvable; portfolio per Gigascale website) | 2023+ | -- | Consumer waste /'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-14
+  resolution_note: 'Fact-spec sweep 2026-09-14: Lead Partner column shows "--" because Gigascale''s public portfolio page (fetched from gigascale.com/portfolio 2026-09-14) lists only company name and one-line descriptor ("Food recycling systems") — no partner attribution, no board seat disclosure. Mill''s own site (mill.com) is a product marketing page with no investor page or press releases naming Gigascale partners. Mill/press returned 404. No independent primary source discovered naming a specific Gigascale partner (Mike Schroepfer or otherwise) as lead/sourcer for the Mill position. "--" is consistent with the participant-position convention used across the profile (Xcimer, Radiant, Arbor, Heron, Form, Dioxycle rows). Row body already flags "specific round date unresolvable" honestly. No change made — leaving as-is until a primary source discloses a partner attribution.'
 - profile: firms/gigascale-capital
   profile_name: Gigascale Capital
   company: Solcoa
@@ -10416,7 +10418,9 @@ vague_facts:
   line: '| Solcoa | Participant (specific round date unresolvable; portfolio per Gigascale website) | 2023+ | -- | Rare-earth sup'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-14
+  resolution_note: 'Fact-spec sweep 2026-09-14: Lead Partner column shows "--" because Gigascale''s public portfolio page (fetched from gigascale.com/portfolio 2026-09-14) lists Solcoa only as "Cleaner American rare earth production" — no partner attribution. solcoa.com fetched 2026-09-14 contains only company etymology/philosophy content — no investor page, no funding history, no board disclosure. No primary source discovered naming a Gigascale partner (Mike Schroepfer or otherwise) associated with the Solcoa position. Founder Hooman Nezhad is mentioned in the profile body (Thiel Fellow reference already cited via [^1]) but that citation does not disclose a Gigascale partner attribution either. "--" matches the participant-position convention used elsewhere in the table. No change made — Solcoa is a very early / stealthy Thiel Fellow project and specific round/partner data is not publicly disclosed.'
 - profile: firms/greenoaks
   profile_name: Greenoaks Capital
   company: Coupang
@@ -16580,7 +16584,9 @@ vague_facts:
   line: '| BlueCurrent | ~2020 | -- | Energy / Batteries | [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-14
+  resolution_note: 'Fact-spec sweep 2026-09-14: Attempted to resolve Year column ("--") for BlueCurrent (solid-state battery / EV charging company on KDT portfolio page). kochdisruptive.com returned SSL/cert mismatch; www.kochdisruptivetechnologies.com/portfolio returned 403; bluecurrent.com (fetched 2026-09-14) contains only technology-vision content — no funding rounds, no investor list, no Koch mention. bluecurrent.com/about also 403. KDT''s own portfolio page is the sole existing citation ([^5]) and it does not disclose year or stage for BlueCurrent. This is symptomatic of a class of ~30 rows in the KDT profile that share the ''~2020 | --'' pattern — all sourced only from the KDT portfolio page which lists company names but not specific round metadata. Fix would require a separate primary-source hunt for each company (BlueCurrent SEC Form D, contemporaneous press, etc.) which exceeds a single-fact investigation. No change made. Recommend a batch pass revisiting this cluster with dedicated web-search budget.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Bodo
