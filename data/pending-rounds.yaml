@@ -74,6 +74,40 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Priority Income Fund Announces Redemption of its 6.375% Series L Term Preferred
+    Stock Due 2029
+  url: https://www.globenewswire.com/news-release/2026/09/14/3361528/0/en/priority-income-fund-announces-redemption-of-its-6-375-series-l-term-preferred-stock-due-2029.html
+  source: globenewswire
+  date_found: '2026-09-14'
+  parsed_company: Priority Income Fund
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s
+    dominance
+  url: https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/
+  source: techcrunch
+  date_found: '2026-09-14'
+  parsed_company: AI infrastructure company Cornelis
+  parsed_amount: $205M
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/14/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-14-2026/
+  source: alleywatch
+  date_found: '2026-09-14'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Swedish drone detection company Freya raises €533k to aid European rollout
+  url: https://www.eu-startups.com/2026/09/swedish-drone-detection-company-freya-raises-e533k-to-scale-team-and-aid-european-rollout/
+  source: eu-startups
+  date_found: '2026-09-14'
+  parsed_company: Swedish drone detection company Freya
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 9/14/26'
   url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-14-26/
   source: alleywatch
@@ -818,39 +852,4 @@ pending_rounds:
   parsed_company: Adressing complicated pregnancies, iPremom
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: German SpaceTech HyImpulse secures over €50 million to accelerate Europe’s
-    sovereign launch capabilities
-  url: https://www.eu-startups.com/2026/09/german-spacetech-hyimpulse-secures-over-e50-million-to-accelerate-europes-sovereign-launch-capabilities/
-  source: eu-startups
-  date_found: '2026-09-02'
-  parsed_company: German SpaceTech HyImpulse
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: UK startup Pharosyn raises €2.5 million for pharma competitive intelligence
-    platform
-  url: https://www.eu-startups.com/2026/09/uk-startup-pharosyn-raises-e2-5-million-for-pharma-competitive-intelligence-platform/
-  source: eu-startups
-  date_found: '2026-09-02'
-  parsed_company: UK startup Pharosyn
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: MIRAVA raises €4.2 million to build a new category in recreational boating
-    (Sponsored)
-  url: https://www.eu-startups.com/2026/09/mirava-raises-e4-2-million-to-build-a-new-category-in-recreational-boating-sponsored/
-  source: eu-startups
-  date_found: '2026-09-02'
-  parsed_company: MIRAVA
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: per Forbes. It previously raised $30M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: per Forbes. It previously
-  parsed_amount: $30M
-  parsed_round: Series A
   status: pending
