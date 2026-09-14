@@ -20,6 +20,60 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Caliber Completes $3.4 Million Refinance of Corporate Notes and Secures the
+    Right to Retire an Additional $9.1 Million at a Discount
+  url: https://www.globenewswire.com/news-release/2026/09/14/3360985/0/en/caliber-completes-3-4-million-refinance-of-corporate-notes-and-secures-the-right-to-retire-an-additional-9-1-million-at-a-discount.html
+  source: globenewswire
+  date_found: '2026-09-14'
+  parsed_company: Caliber Completes $3.4 Million Refinance of Corporate Notes and
+  parsed_amount: $3.4M
+  parsed_round: null
+  status: pending
+- title: Wageningen-based Greencovery raises €1 million to scale cocoa upcycling technology,
+    with further €3 million round underway
+  url: https://www.eu-startups.com/2026/09/wageningen-based-greencovery-raises-e1-million-to-scale-cocoa-upcycling-technology-with-further-e3-million-round-underway/
+  source: eu-startups
+  date_found: '2026-09-14'
+  parsed_company: Wageningen-based Greencovery
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Swiss-Italian startup Ferm Labs secures €3 million to scale its bioprocessing-based
+    B2B ingredient platform
+  url: https://www.eu-startups.com/2026/09/swiss-italian-startup-ferm-labs-secures-e3-million-to-scale-its-bioprocessing-based-b2b-ingredient-platform/
+  source: eu-startups
+  date_found: '2026-09-14'
+  parsed_company: Swiss-Italian startup Ferm Labs
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Brussels-based Chift raises €10.5 million Series A to become Europe’s financial
+    connectivity layer
+  url: https://www.eu-startups.com/2026/09/brussels-based-chift-raises-e10-5-million-series-a-to-become-europes-financial-connectivity-layer/
+  source: eu-startups
+  date_found: '2026-09-14'
+  parsed_company: Brussels-based Chift
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: 'EXCLUSIVE: Switzerland’s Aeon acquires Aware Health as total Seed funding
+    surpasses €12 million'
+  url: https://www.eu-startups.com/2026/09/exclusive-switzerlands-aeon-acquires-aware-health-as-total-seed-funding-passes-e12-million/
+  source: eu-startups
+  date_found: '2026-09-14'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: Stockholm’s Tandem Health raises €86.5 million to build an AI-native operating
+    system for European healthcare
+  url: https://www.eu-startups.com/2026/09/stockholms-tandem-health-raises-e86-5-million-to-build-an-ai-native-operating-system-for-european-healthcare/
+  source: eu-startups
+  date_found: '2026-09-14'
+  parsed_company: Stockholm’s Tandem Health
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 9/14/26'
   url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-14-26/
   source: alleywatch
@@ -799,28 +853,4 @@ pending_rounds:
   parsed_company: per Forbes. It previously
   parsed_amount: $30M
   parsed_round: Series A
-  status: pending
-- title: AIR raised $50M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-02'
-  parsed_company: AIR
-  parsed_amount: $50M
-  parsed_round: null
-  status: pending
-- title: Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation
-  url: https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/
-  source: crunchbase
-  date_found: '2026-09-02'
-  parsed_company: Former Apple Engineers’ Physical AI Startup Lyte
-  parsed_amount: $165M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/2/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-2-2026/
-  source: alleywatch
-  date_found: '2026-09-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
   status: pending
