@@ -10355,7 +10355,9 @@ vague_facts:
   line: '| Arbor Energy | Series A ($55M, participant; co-leads: Lowercarbon, Voyager) | 2025-10-21 | -- | Clean baseload power |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-14
+  resolution_note: 'Fact-spec sweep 2026-09-14: Verified Gigascale participated (not lead) in Arbor Energy Series A ($55M, 2025-10-21, co-led by Lowercarbon Capital and Voyager). Checked 3 independent primary sources — BusinessWire press release [^8] (referenced; direct fetch returned 403), Arbor company website (arbor.co, no partner attribution), and Gigascale portfolio page [^12] (no partner attribution) plus Gigascale team page (no board seat listed). No specific Gigascale partner (Mike Schroepfer or Victoria Beasley) is named as board member, board observer, or quoted spokesperson for this round in any primary source. Lead Partner column left as "--" (consistent with participant convention already used for Xcimer/Radiant/Heron/Form/Dioxycle). Row date, amount, co-leads, and participation status all remain fully specific — the "--" is a legitimate blank per CLAUDE.md docs ("Leave blank if unknown"). Same pattern as prior Heron Power resolution 2026-08-04.'
 - profile: firms/gigascale-capital
   profile_name: Gigascale Capital
   company: Heron Power
@@ -10380,7 +10382,9 @@ vague_facts:
   line: '| Form Energy | Series F ($405M, participant; lead: T. Rowe Price) | 2024-10-09 | -- | Long-duration energy storage | ac'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-14
+  resolution_note: 'Fact-spec sweep 2026-09-14: Verified Gigascale participated (not lead) in Form Energy Series F ($405M, 2024-10-09, lead: T. Rowe Price). Checked 3 independent primary sources — Form Energy press release [^10] (fetched; lists Gigascale as one of 15 participants alongside GE Vernova, TPG Rise Climate, BEV, Capricorn Technology Impact Funds, Coatue, EIP, MIT Engine Ventures, NGP, Temasek, GIC, Prelude, Claure Group, Blindspot, VamosVentures — no individual Gigascale partner named), Gigascale portfolio page [^12] (no partner attribution), and Gigascale team page (no board seat listed). No board seat, board observer, or quote from Mike Schroepfer or Victoria Beasley in primary sources. Lead Partner column left as "--" per participant convention. Same resolution pattern as Heron Power (2026-08-04). Note: mike-schroepfer profile lists this round as 2024-10-10, one day off from gigascale profile — press release is dated Oct 9, so gigascale-capital row is canonical.'
 - profile: firms/gigascale-capital
   profile_name: Gigascale Capital
   company: Dioxycle
@@ -10390,7 +10394,9 @@ vague_facts:
   line: '| Dioxycle | Series A ($17M, participant; co-leads: Breakthrough Energy Ventures, Lowercarbon) | 2023-07-26 | -- | Susta'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-14
+  resolution_note: 'Fact-spec sweep 2026-09-14: Verified Gigascale participated (not lead) in Dioxycle Series A ($17M, 2023-07-26, co-leads: Breakthrough Energy Ventures Europe and Lowercarbon Capital). Checked 3 independent primary sources — Dioxycle press release [^11] (fetched; names Gigascale as participant alongside BEV-E and Lowercarbon — no individual Gigascale partner named), Gigascale portfolio page [^12] (Dioxycle listed as "Carbon-to-chemicals production" — no partner attribution), and Gigascale team page (no board seat listed). No board seat, board observer, or quote from Mike Schroepfer or Victoria Beasley in any primary source for this round. Lead Partner column left as "--" per participant convention (matches Xcimer, Radiant, Heron, Arbor, Form Energy pattern). Row remains fully specific on date, amount, co-leads, and status.'
 - profile: firms/gigascale-capital
   profile_name: Gigascale Capital
   company: Mill

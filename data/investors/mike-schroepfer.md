@@ -56,7 +56,7 @@ See [Gigascale Capital firm portfolio](../firms/gigascale-capital.md) for the co
 | Radiant Nuclear | 2025-05 | Series C ($165M close) — participant | [^12] |
 | Arbor Energy | 2025-10-21 | Series A ($55M) — participant | [^7] |
 | Heron Power | 2026-02-18 | Series B ($140M) — participant | [^8] |
-| Form Energy | 2024-10-10 | Series F ($405M) — participant | [^9] |
+| Form Energy | 2024-10-09 | Series F ($405M) — participant | [^9] |
 | Dioxycle | 2023-07-26 | Series A ($17M) — participant | [^10] |
 | Mill | 2023+ | Participant (round date unresolvable) | [^11] |
 | Solcoa | 2025+ | Participant (round date unresolvable) | [^1] |
@@ -85,7 +85,7 @@ No independently sourced founder testimonials found at time of profile creation.
 [^6]: Xcimer Energy press release, "$100 Million Raised to Advance Inertial Fusion Energy Toward Commercialization," June 4, 2024. https://xcimer.energy/xcimer-raises-100-million-to-put-inertial-fusion-energy-on-path-to-commercialization/
 [^7]: BusinessWire, "Arbor Energy Raises $55 Million Series A to Scale Abundant Clean Power for the AI Economy," October 21, 2025. https://www.businesswire.com/news/home/20251021233233/en/Arbor-Energy-Raises-$55-Million-Series-A-to-Scale-Abundant-Clean-Power-for-the-AI-Economy
 [^8]: TechCrunch, "Heron Power raises $140M to ramp production of grid-altering tech," February 18, 2026. https://techcrunch.com/2026/02/18/heron-power-raises-140m-to-ramp-production-of-grid-altering-tech/
-[^9]: Form Energy press release, "Form Energy Secures $405M in Series F Financing to Expand Iron-Air Battery Business and Operations," October 10, 2024. https://formenergy.com/form-energy-secures-405m-in-series-f-financing-to-expand-iron-air-battery-business-and-operations/
+[^9]: Form Energy press release, "Form Energy Secures $405M in Series F Financing to Expand Iron-Air Battery Business and Operations," October 9, 2024. https://formenergy.com/form-energy-secures-405m-in-series-f-financing-to-expand-iron-air-battery-business-and-operations/
 [^10]: Dioxycle press release, "Dioxycle raises $17m to turn CO2 emissions into sustainable chemicals," July 26, 2023. https://dioxycle.com/dioxycle-raises-17m-to-turn-co%e2%82%82-emissions-into-sustainable-chemicals/
 [^11]: Gigascale Capital portfolio profile, "Mill: Recycling Food Waste," accessed June 2026. https://gigascale.com/profiles/mill-changing-food-waste-habits/
 [^12]: Radiant Nuclear blog, "Radiant closes $165 Million Series C with additional funding from Giant Ventures, StepStone, ARK Venture Fund, and others," May 2025. https://www.radiantnuclear.com/blog/series-c-close/
