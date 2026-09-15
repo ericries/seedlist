@@ -141,15 +141,6 @@ pending_rounds:
   parsed_amount: $180M
   parsed_round: Series D
   status: pending
-- title: Evvy raises $40M as it seeks to further women’s health research with vaginal
-    microbiome data
-  url: https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/
-  source: techcrunch
-  date_found: '2026-09-15'
-  parsed_company: Evvy
-  parsed_amount: $40M
-  parsed_round: null
-  status: pending
 - title: UK ClimateTech startup Isometric brings Series A to €43 million as it expands
     beyond carbon removal
   url: https://www.eu-startups.com/2026/09/uk-climatetech-startup-isometric-brings-series-a-to-e43-million-as-it-expands-beyond-carbon-removal/

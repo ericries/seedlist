@@ -6235,3 +6235,47 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-15: New lean profile for $15M oversubscribed Series A (2026-09-14) — lead not identified in aggregator; participants: advisory firms, financial services executives, insiders. Sources: (1) AlleyWatch daily 9/14/2026; (2) Pave Finance company website; (3) Pave Finance press page."
   added: 2026-09-15
+- slug: profound
+  type: startup
+  reason: "Round monitoring 2026-09-15: New lean profile for $180M Series D (2026-09-15) at $1.8B valuation, co-led by Sequoia Capital and Kleiner Perkins, with Lightspeed Venture Partners, Khosla Ventures, Saga Ventures, Evantic, and South Park Commons. Sources: (1) TechCrunch; (2) Profound company site; (3) Profound blog listing."
+  added: 2026-09-15
+- slug: evvy
+  type: startup
+  reason: "Round monitoring 2026-09-15: New lean profile for $40M Series B (2026-09-15) led by Catalio Capital Management with General Catalyst, Labcorp, Left Lane Capital, G9 Ventures, BBG Ventures, BoxGroup. Sources: (1) TechCrunch; (2) Evvy company site (evvy.com/about)."
+  added: 2026-09-15
+- slug: rogo
+  type: startup
+  reason: "Round monitoring 2026-09-15: New lean profile for Rogo $30M strategic financing (2026-09-10) — nine global banks including Barclays, Opera Tech Ventures (BNP Paribas), Citi Ventures, MUFG Innovation Partners, Societe Generale, plus Joshua Easterly. Sources: (1) AlleyWatch daily 9/14/2026; (2) Rogo company news."
+  added: 2026-09-15
+- slug: sequoia-capital
+  type: firm
+  reason: "Round monitoring 2026-09-15: Co-led Profound $180M Series D (2026-09-15) with Kleiner Perkins."
+  added: 2026-09-15
+- slug: kleiner-perkins
+  type: firm
+  reason: "Round monitoring 2026-09-15: Co-led Profound $180M Series D (2026-09-15) with Sequoia Capital."
+  added: 2026-09-15
+- slug: khosla-ventures
+  type: firm
+  reason: "Round monitoring 2026-09-15: Participated in Profound $180M Series D (2026-09-15)."
+  added: 2026-09-15
+- slug: general-catalyst
+  type: firm
+  reason: "Round monitoring 2026-09-15: Participated in Evvy $40M Series B (2026-09-15) led by Catalio Capital Management."
+  added: 2026-09-15
+- slug: profound
+  type: startup
+  reason: "Round monitoring 2026-09-15 (18:00 UTC cron): New lean profile for $180M Series D (2026-09-15) at $1.8B valuation, co-led by Sequoia Capital and Kleiner Perkins, with Lightspeed Venture Partners, Khosla Ventures, and South Park Commons. Sources: (1) TechCrunch; (2) Profound company blog (James Cadwallader post); (3) Sequoia Capital 'Partnering with Profound' page."
+  added: 2026-09-15
+- slug: sequoia-capital
+  type: firm
+  reason: "Round monitoring 2026-09-15: co-led Profound Series D ($180M, 2026-09-15) — expected to be added to Sequoia portfolio table."
+  added: 2026-09-15
+- slug: kleiner-perkins
+  type: firm
+  reason: "Round monitoring 2026-09-15: co-led Profound Series D ($180M, 2026-09-15) — expected to be added to Kleiner Perkins portfolio table."
+  added: 2026-09-15
+- slug: khosla-ventures
+  type: firm
+  reason: "Round monitoring 2026-09-15: participated in Profound Series D ($180M, 2026-09-15) — expected to be added to Khosla Ventures portfolio table."
+  added: 2026-09-15
