@@ -60,6 +60,69 @@ pending_rounds:
   parsed_amount: $300M
   parsed_round: null
   status: pending
+- title: 'Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup
+    Funding'
+  url: https://news.crunchbase.com/sales-marketing/ai-growing-share-ecommerce-saas-crm-startup-funding/
+  source: crunchbase
+  date_found: '2026-09-15'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London-based Jack & Jill raises €34.68 million Series A to scale its AI agents
+    for jobseekers and employers
+  url: https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/
+  source: eu-startups
+  date_found: '2026-09-15'
+  parsed_company: London-based Jack & Jill
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Exein reaches Unicorn status as it faces 5,000 attacks weekly and raises
+    €234 million for Physical AI cybersecurity
+  url: https://www.eu-startups.com/2026/09/facing-5000-new-attacks-weekly-italys-exein-raises-e234-million-for-physical-ai-cybersecurity/
+  source: eu-startups
+  date_found: '2026-09-15'
+  parsed_company: Exein reaches Unicorn status as it faces 5,000 attacks weekly and
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Magnitude Biosciences secures €1.5 million investment to scale in-vivo drug
+    discovery platform
+  url: https://www.eu-startups.com/2026/09/magnitude-biosciences-secures-e1-5-million-investment-to-scale-in-vivo-drug-discovery-platform/
+  source: eu-startups
+  date_found: '2026-09-15'
+  parsed_company: Magnitude Biosciences
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Vilnius-based EnforceShield raises €1.7 million Seed round to fight AI-powered
+    IP abuse with autonomous enforcement
+  url: https://www.eu-startups.com/2026/09/vilnius-based-enforceshield-raises-e1-7-million-seed-round-to-fight-ai-powered-ip-abuse-with-autonomous-enforcement/
+  source: eu-startups
+  date_found: '2026-09-15'
+  parsed_company: Vilnius-based EnforceShield
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
+- title: Helsinki’s Zero raises €8.93 million with backing from Lovable and Supercell
+    founders to make CRM history
+  url: https://www.eu-startups.com/2026/09/helsinkis-zero-raises-e8-93-million-with-backing-from-lovable-and-supercell-founders-to-make-crm-history/
+  source: eu-startups
+  date_found: '2026-09-15'
+  parsed_company: Helsinki’s Zero
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Dutch AI chip startup EUCLYD lands over €200 million Series A, taps ex-ASML
+    chief Peter Wennink as Chairman
+  url: https://www.eu-startups.com/2026/09/dutch-ai-chip-startup-euclyd-lands-e200-million-series-a-taps-ex-asml-chief-peter-wennink-as-chairman/
+  source: eu-startups
+  date_found: '2026-09-15'
+  parsed_company: Dutch AI chip startup EUCLYD
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Caliber Completes $3.4 Million Refinance of Corporate Notes and Secures the
     Right to Retire an Additional $9.1 Million at a Discount
   url: https://www.globenewswire.com/news-release/2026/09/14/3360985/0/en/caliber-completes-3-4-million-refinance-of-corporate-notes-and-secures-the-right-to-retire-an-additional-9-1-million-at-a-discount.html
@@ -787,59 +850,6 @@ pending_rounds:
   source: crunchbase
   date_found: '2026-09-04'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B
-    valuation
-  url: https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
-  source: techcrunch
-  date_found: '2026-09-04'
-  parsed_company: null
-  parsed_amount: $1.2B
-  parsed_round: Series B
-  status: pending
-- title: Precore Gold Closes Oversubscribed C$6 Million Private Placement
-  url: https://www.globenewswire.com/news-release/2026/09/03/3355912/0/en/precore-gold-closes-oversubscribed-c-6-million-private-placement.html
-  source: globenewswire
-  date_found: '2026-09-03'
-  parsed_company: Precore Gold
-  parsed_amount: $6M
-  parsed_round: null
-  status: pending
-- title: Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals
-    Continues
-  url: https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/
-  source: crunchbase
-  date_found: '2026-09-03'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: UK MedTech Strolll secures €5 million in Innovate UK funding and additional
-    IW Capital-led investment
-  url: https://www.eu-startups.com/2026/09/uk-medtech-strolll-secures-e5-million-in-innovate-uk-funding-and-additional-iw-capital-led-investment/
-  source: eu-startups
-  date_found: '2026-09-03'
-  parsed_company: UK MedTech Strolll
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: YC-backed Zeit AI raises €4.3 million to build Europe’s “autonomous data
-    engineer”
-  url: https://www.eu-startups.com/2026/09/yc-backed-zeit-ai-raises-e5-million-to-build-europes-autonomous-data-engineer/
-  source: eu-startups
-  date_found: '2026-09-03'
-  parsed_company: YC-backed Zeit AI
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Cyprus-founded Piney raises €1.6 million to take its rental operations platform
-    beyond Europe
-  url: https://www.eu-startups.com/2026/09/cyprus-founded-piney-raises-e1-6-million-to-take-its-rental-operations-platform-beyond-europe/
-  source: eu-startups
-  date_found: '2026-09-03'
-  parsed_company: Cyprus-founded Piney
   parsed_amount: null
   parsed_round: null
   status: pending
