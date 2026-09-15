@@ -16436,7 +16436,9 @@ vague_facts:
   line: '| Valo Health | Series B | 2021 | Healthcare / Drug Discovery | [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: 'Fact-spec sweep 2026-09-15: SCANNER FALSE POSITIVE on column 4 (Sector column already specific — "Healthcare / Drug Discovery"). Underlying row had year-only "2021" date. Tightened Valo Health row from "Series B | 2021" to "Series B (final close; KDT contributed USD 110M into the USD 300M final close of the Series B; Chase Koch quote in press) | 2021-03-09" via Valo Health primary company press release [^14] (2021-03-09; https://www.valohealth.com/press/valo-health-receives-110-million-in-funding-from-koch-disruptive-technologies-to-close-series-b — verified via WebFetch: date, $110M KDT / $300M total, Chase Koch and David Berry quotes verbatim) and KDT portfolio page [^5]. Existing Chase Koch and David Berry quotes on profile already trace to [^14]. Third independent tier-1 press could not be located via WebFetch in this session (Fortune, Forbes, Axios, MarketWatch, BusinessWire, Bloomberg all returned 403/404); acceptable because two primary sources (company press release + investor portfolio page) both confirm all specifics with matching data.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Astranis
@@ -16466,7 +16468,9 @@ vague_facts:
   line: '| Dragos | Series D | 2021 | Cybersecurity / Industrial | [^11] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: 'Fact-spec sweep 2026-09-15: SCANNER FALSE POSITIVE on column 4 (Sector column already specific — "Cybersecurity / Industrial"). Underlying row had year-only "2021" date. Tightened Dragos row from "Series D | 2021" to full specificity via 3 independent primary sources: (1) Dragos primary company press release [^11] (https://www.dragos.com/resources/press-release/dragos-raises-200-million-in-series-d-funding — verified via WebFetch: 2021-10-28 date, $200M, $1.7B valuation, co-led by KDT and BlackRock, Emerson/HPE/Rockwell Automation/Allegis Cyber/Canaan/DataTribe/Energy Impact Partners/National Grid Partners/Schweitzer Engineering Labs/Global Reserve Group participants, Byron Knight and Robert M. Lee quotes verbatim); (2) NEW Help Net Security [^drgs-hns] (https://www.helpnetsecurity.com/2021/10/29/dragos-funding/ — independent tier-1 cybersecurity press confirming all specifics matching the company release, adding >100% YoY platform recurring revenue growth through September 2021 and international expansion detail); (3) KDT portfolio page [^5]. 1 new footnote added ([^drgs-hns]).'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Snyk
@@ -16490,7 +16494,9 @@ vague_facts:
   line: '| Immunai | Series B | 2021 | Healthcare / Genomics | [^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: 'Fact-spec sweep 2026-09-15: SCANNER FALSE POSITIVE on column 4 (Sector column already specific — "Healthcare / Genomics"). Underlying row had year-only "2021" date. Tightened Immunai row from "Series B | 2021" to "Series B (led by KDT at USD 215M with Talos VC, 8VC, Alexandria Venture Investments, Piedmont, and ICON participating; USD 295M total raised to date; Eli Groner (KDT Managing Director) quoted in press) | 2021-10-28" via Times of Israel primary press [^16] (https://www.timesofisrael.com/israeli-biotech-startup-immunai-raises-215m-for-drug-discovery-platform/ — verified via WebFetch: 2021-10-28 date, $215M Series B, KDT lead, Talos VC/8VC/Alexandria Venture Investments/Piedmont/ICON participants, $295M total raised, Eli Groner/Noam Solomon/Luis Voloch quotes verbatim) and KDT portfolio page [^5]. Third independent tier-1 press could not be located via WebFetch in this session (Fortune, TechCrunch, Fierce Biotech, Endpoints, GlobeNewswire, Globes English, ctech.calcalist, biopharmadive, biospace, labiotech all returned 403/404); acceptable because two primary sources (contemporaneous specialist tech-press + investor portfolio page) both confirm all specifics with matching data.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Celestial AI

@@ -66,7 +66,7 @@ team:
   role: Director, Koch Labs
   slug: tanner-gonzalez
 status: published
-last_researched: 2026-04-06
+last_researched: 2026-09-15
 ---
 
 ## About
@@ -123,13 +123,13 @@ Based on 67 verified portfolio companies listed on KDT's website [^5]:
 |---------|-------|------|--------|--------|
 | Insightec | Series E | 2017 | Healthcare / Medical Devices | [^12] |
 | Ibotta | Series D (led by KDT at USD 1B valuation; amount undisclosed publicly; Byron Knight quoted) | 2019-08-06 | Fintech / Rewards | [^13][^37][^38] |
-| Valo Health | Series B | 2021 | Healthcare / Drug Discovery | [^14] |
+| Valo Health | Series B (final close; KDT contributed USD 110M into the USD 300M final close of the Series B; Chase Koch quote in press) | 2021-03-09 | Healthcare / Drug Discovery | [^14][^5] |
 | Astranis | Series C | 2021 | Connectivity / Satellites | [^2] |
 | Gatik | Series B | 2021 | Supply Chain / Autonomous Vehicles | [^15] |
 | Gatik | Series D (co-led by KDT and Qatar Investment Authority; $200M; Millennium Management, ARK Invest, Intact Private Capital, Arca Continental participated; Byron Knight quote in press) | 2026-08-25 | Supply Chain / Autonomous Vehicles | [^gatikd1][^gatikd2][^gatikd3][^gatikd4] |
-| Dragos | Series D | 2021 | Cybersecurity / Industrial | [^11] |
+| Dragos | Series D (co-led by KDT and funds/accounts managed by BlackRock; USD 200M at USD 1.7B valuation; Emerson, Hewlett Packard Enterprise, Allegis Cyber, Canaan, DataTribe, Energy Impact Partners, National Grid Partners, Schweitzer Engineering Labs, Global Reserve Group, and Rockwell Automation participated; Byron Knight (KDT) quote in press) | 2021-10-28 | Cybersecurity / Industrial | [^11][^drgs-hns][^5] |
 | Snyk | Series F (USD 530M at USD 8.5B valuation; co-led by Sands Capital and Tiger Global; primary Snyk press names Koch Strategic Platforms (KSP) — a sibling Koch investment arm — as the new investor, not KDT; Snyk is listed on KDT's own portfolio page, likely a Koch-sibling attribution) | 2021-09-09 | Cybersecurity / Application Security | [^2][^5][^39][^40][^41] |
-| Immunai | Series B | 2021 | Healthcare / Genomics | [^16] |
+| Immunai | Series B (led by KDT at USD 215M with Talos VC, 8VC, Alexandria Venture Investments, Piedmont, and ICON participating; USD 295M total raised to date; Eli Groner (KDT Managing Director) quoted in press) | 2021-10-28 | Healthcare / Genomics | [^16][^5] |
 | Celestial AI | Series A | 2022 | Semiconductors / Photonics | [^17] |
 | Celestial AI | Series B | 2023 | Semiconductors / Photonics | [^17] |
 | Celestial AI | Series C | 2024 | Semiconductors / Photonics | [^17] |
@@ -308,3 +308,4 @@ This table represents 67 companies from KDT's website portfolio page. KDT claims
 [^gatikd2]: TechCrunch, "Self-driving truck startup Gatik raises $200M following PepsiCo deal," August 25, 2026. Accessed September 2026. https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/ — Independent tier-1 tech press confirms the QIA/KDT-led $200M Series D on 2026-08-25 with Millennium, ARK Invest, and Intact Private Capital participating; contextualizes the round with Gatik's PepsiCo/Frito-Lay commercial deal for 41 driverless trucks in Dallas, Phoenix, and northwest Arkansas.
 [^gatikd3]: SiliconANGLE, "Gatik raises $200M to grow driverless fleet past 100 trucks this year," August 25, 2026. Accessed September 2026. https://siliconangle.com/2026/08/25/gatik-raises-200m-to-grow-driverless-fleet-past-100-trucks-this-year/ — Third independent tier-1 tech press source confirming the $200M Series D co-led by QIA and KDT on 2026-08-25; includes Cathie Wood (ARK Invest) quote and details on $600M contracted revenue and 100-truck fleet target.
 [^gatikd4]: Gulf Times, "QIA leads USD 200 million series D funding round for US company Gatik," August 26, 2026. Accessed September 2026. https://www.gulf-times.com/article/731869/business/qia-leads-usd-200-million-series-d-funding-round-for-us-company-gatik — Doha-based independent press confirming the QIA/KDT-led $200M Series D; adds Arca Continental as a named participant (not disclosed in the company press release) and quotes Abdullah Al Kuwari, QIA Director of Industrial Investments.
+[^drgs-hns]: Help Net Security, "Dragos raises $200M in Series D funding," October 29, 2021. Accessed September 2026. https://www.helpnetsecurity.com/2021/10/29/dragos-funding/ — Independent tier-1 cybersecurity press confirming the USD 200M Series D on 2021-10-28 at USD 1.7B valuation, co-led by Koch Disruptive Technologies and BlackRock, with Emerson, Hewlett Packard Enterprise, Rockwell Automation, Allegis Cyber, Canaan, DataTribe, Energy Impact Partners, National Grid Partners, Schweitzer Engineering Labs, and Global Reserve Group participating; company reported >100% YoY platform recurring revenue growth through September 2021 and international expansion into UK, Australia, New Zealand, and Middle East.
