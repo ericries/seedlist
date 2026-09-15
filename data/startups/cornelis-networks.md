@@ -13,7 +13,7 @@ investors: []
 firms: []
 founders: []
 status: published
-last_researched: 2026-09-14
+last_researched: 2026-09-15
 ---
 
 ## About
@@ -24,17 +24,20 @@ Cornelis Networks builds Active Compute Fabric, an open interconnect for AI and 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-14 | Growth | $205M | IAG Capital Partners | [^1][^2] |
+| 2026-09-14 | Growth | $205M | IAG Capital Partners | [^1][^2][^3] |
+
+Additional participants beyond IAG Capital Partners were not disclosed by the company in its September 14, 2026 announcement; Qualcomm Technologies is a scale-up networking collaboration partner, not a funding participant [^2][^3].
 
 ## What Investors Say
 
-No independently sourced investor quotes for this round.
+> "Open-standard scale-up and scale-out networking for AI represents more than $55 billion of opportunity by 2030." — Joel Whitley, Partner, IAG Capital Partners, September 14, 2026 [^2].
 
 ## What Founders Say
 
-No independently sourced founder quotes for this round.
+> "AI infrastructure is reaching a point where faster endpoints alone are not enough." — Lisa Spelman, CEO of Cornelis Networks, September 14, 2026 [^2].
 
 ## Sources
 
-[^1]: TechCrunch, "AI infrastructure company Cornelis raises $205M to chip away at Nvidia's dominance," September 14, 2026. Accessed September 14, 2026. https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/
-[^2]: Cornelis Networks newsroom, "Cornelis Expands into Scale-Up Networking with Active Compute Fabric, $205M in Funding, and Qualcomm Collaboration at AI Infra Summit," September 14, 2026. Accessed September 14, 2026. https://www.cornelis.com/news/
+[^1]: TechCrunch, "AI infrastructure company Cornelis raises $205M to chip away at Nvidia's dominance," September 14, 2026. Accessed September 15, 2026. https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/
+[^2]: Cornelis Networks, "Cornelis Expands into Scale-Up Networking with Active Compute Fabric, $205M in Funding, and Qualcomm Collaboration at AI Infra Summit" (full story), September 14, 2026. Accessed September 15, 2026. https://www.cornelis.com/stories/cornelis-expands-into-scaleup-networking-with-active-compute-fabric
+[^3]: Cornelis Networks newsroom index, September 14, 2026. Accessed September 15, 2026. https://www.cornelis.com/news/

@@ -11,7 +11,11 @@ stage_latest: "Series A"
 total_raised: "$24.5M"
 investors: []
 firms: []
-founders: []
+founders:
+  - name: "Nat Gibbs"
+    role: "Founder & CEO"
+  - name: "Eric Slater"
+    role: "Co-Founder"
 status: published
 last_researched: 2026-09-15
 ---
@@ -24,18 +28,19 @@ UrgentIQ is an AI-native electronic medical record (EMR) and clinical operating 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-11 | Series A | $15M | Five Elms Capital | [^1][^2] |
+| 2026-09-11 | Series A | $15M | Five Elms Capital | [^1][^2][^4] |
 
 ## What Investors Say
 
-No independently sourced investor quotes for this round.
+> "UrgentIQ has built a platform with exceptional operator adoption and product satisfaction." — Joe Onofrio, Partner, Five Elms Capital, September 11, 2026 [^2].
 
 ## What Founders Say
 
-No independently sourced founder quotes for this round.
+> "Urgent care deserves its own operating system — one designed around speed, intelligence, and automation from the ground up." — Nat Gibbs, Founder & CEO, UrgentIQ, September 11, 2026 [^2].
 
 ## Sources
 
 [^1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/14/2026," September 14, 2026. Accessed September 15, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-14-2026/
-[^2]: Five Elms Capital, "UrgentIQ Announces Strategic Growth Investment From Five Elms Capital," September 11, 2026. Accessed September 15, 2026. https://www.fiveelms.com/portfolio/urgentiq
+[^2]: Five Elms Capital, "UrgentIQ Announces Strategic Growth Investment From Five Elms Capital" (press release), September 11, 2026. Accessed September 15, 2026. https://www.fiveelms.com/news/urgentiq-announces-strategic-growth-investment-from-five-elms-capital
 [^3]: UrgentIQ company website, accessed September 15, 2026. https://urgentiq.com
+[^4]: Five Elms Capital, UrgentIQ portfolio page, accessed September 15, 2026. https://www.fiveelms.com/portfolio/urgentiq

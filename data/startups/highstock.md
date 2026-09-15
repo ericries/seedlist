@@ -29,7 +29,7 @@ founders:
   - name: "Sean Cashin"
     role: "CTO & Co-Founder"
 status: published
-last_researched: 2026-09-14
+last_researched: 2026-09-15
 ---
 
 ## About
@@ -44,7 +44,7 @@ Highstock operates an AI-powered B2B marketplace that connects consumer brands w
 
 ## What Investors Say
 
-No independently sourced investor quotes for this round.
+> "We believe the winner in this market will be the platform that is AI-native and brand-safe from day one." — Andreessen Horowitz (Olivia Moore and Justine Moore), Investing in Highstock announcement, September 10, 2026 [^1].
 
 ## What Founders Say
 
@@ -52,6 +52,6 @@ No independently sourced founder quotes for this round.
 
 ## Sources
 
-[^1]: Olivia Moore and Justine Moore, "Investing in Highstock," Andreessen Horowitz, September 10, 2026. Accessed September 14, 2026. https://a16z.com/announcement/investing-in-highstock/
-[^2]: Highstock company website, accessed September 14, 2026. https://highstock.com
-[^3]: AlleyWatch Startup Daily Funding Report, September 14, 2026. Accessed September 14, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-14-2026/
+[^1]: Olivia Moore and Justine Moore, "Investing in Highstock," Andreessen Horowitz, September 10, 2026. Accessed September 15, 2026. https://a16z.com/announcement/investing-in-highstock/
+[^2]: Highstock company website, accessed September 15, 2026. https://highstock.com
+[^3]: AlleyWatch Startup Daily Funding Report, September 14, 2026. Accessed September 15, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-14-2026/

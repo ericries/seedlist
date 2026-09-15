@@ -6179,10 +6179,18 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-14: New profile for $30M Series A (2026-09-10) led by Andreessen Horowitz with Greylock Partners, Abstract Ventures, Daybreak Ventures, Jeff Jordan advisor. Sources: (1) a16z announcement (primary); (2) Highstock company site; (3) AlleyWatch daily report. Queue Daybreak Ventures and Jeff Jordan for profile creation."
   added: 2026-09-14
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: 'Fact-spec sweep 2026-09-15: verified $30M Series A (2026-09-10) via 3 independent primary sources — a16z announcement by Olivia Moore and Justine Moore [^1] (primary lead-investor source), Highstock company website [^2] (primary company), and AlleyWatch Daily Funding Report [^3] (independent contemporaneous tech press). Confirmed lead a16z; confirmed co-investors Greylock Partners, Abstract Ventures, Daybreak Ventures, plus angels Max Mullen, Lenny Rachitsky, JJ Zhuang; Jeff Jordan as advisor. Founders Camille van Horne (CEO) and Sean Cashin (CTO) verified via a16z + AlleyWatch. Added verbatim a16z investor quote to What Investors Say: "We believe the winner in this market will be the platform that is AI-native and brand-safe from day one." AlleyWatch lists founding year 2024 while profile shows 2023; kept profile as 2023 (no primary source definitively resolves the discrepancy). No founder quotes located.'
+  processed: '2026-09-15'
 - slug: cornelis-networks
   type: startup
   reason: "Round monitoring 2026-09-14: New profile for $205M growth round (2026-09-14) led by IAG Capital Partners; company spun from Intel HPC interconnect business in 2020. Sources: (1) TechCrunch (primary); (2) Cornelis Networks newsroom. Queue IAG Capital Partners firm profile; verify additional participants."
   added: 2026-09-14
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: 'Fact-spec sweep 2026-09-15: verified $205M growth round (2026-09-14) via 3 primary sources — TechCrunch [^1] (independent tech press, primary), Cornelis Networks full story page [^2] (primary company; contains verbatim CEO and investor quotes), and Cornelis Networks newsroom index [^3] (primary company). IAG Capital Partners lead confirmed; Joel Whitley (IAG Partner) identified. CEO Lisa Spelman identified. Qualcomm Technologies confirmed as scale-up networking collaboration partner (Tony Pialis, EVP/GM Data Center), NOT as funding participant — clarified in profile. No other funding participants disclosed by the company. Added verbatim Lisa Spelman quote to What Founders Say: "AI infrastructure is reaching a point where faster endpoints alone are not enough." Added verbatim Joel Whitley (IAG) quote to What Investors Say: "Open-standard scale-up and scale-out networking for AI represents more than $55 billion of opportunity by 2030." Note: 2 of 3 sources are same-entity (Cornelis stories page vs newsroom index) — only 2 fully independent primary sources currently available; will add 3rd independent tech press citation on future pass if search budget available. Duplicate cornelis-networks queue entry below (line ~6198) covered by this resolution.'
+  processed: '2026-09-15'
 - slug: andreessen-horowitz
   type: firm
   reason: "Round monitoring 2026-09-14: Led Highstock $30M Series A (2026-09-10)."
@@ -6199,6 +6207,10 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-14: New lean profile for $205M Growth round (2026-09-14) led by IAG Capital Partners. Sources: (1) TechCrunch; (2) Cornelis Networks press release; (3) Cornelis Networks stories page."
   added: 2026-09-14
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: 'Fact-spec sweep 2026-09-15: duplicate of earlier cornelis-networks entry (2026-09-14); resolved together in the same sweep. Profile now cites TechCrunch, Cornelis Networks stories page (full story with verbatim CEO/investor quotes), and Cornelis Networks newsroom index. See sibling entry resolution_note for details.'
+  processed: '2026-09-15'
 - slug: tandem-health
   type: startup
   reason: "Round monitoring 2026-09-14: New lean profile for $100M Series B (2026-09-14) led by Scaleup Europe Fund (EQT) with Kinnevik, Northzone, Amino Collective, Visionaries. Sources: (1) Tandem Health press release; (2) Tandem Health news index; (3) EU-Startups."
@@ -6215,6 +6227,10 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-15: New lean profile for $15M Series A (2026-09-11) led by Five Elms Capital. Sources: (1) AlleyWatch daily 9/14/2026; (2) Five Elms Capital portfolio page; (3) UrgentIQ company website."
   added: 2026-09-15
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: 'Fact-spec sweep 2026-09-15: verified $15M Series A (2026-09-11) via 3+ primary sources — AlleyWatch Daily Funding Report [^1] (independent contemporaneous tech press), Five Elms Capital press release [^2] (primary lead-investor source, replacing prior portfolio-page URL with the deeper press-release URL), UrgentIQ company website [^3] (primary company), and Five Elms UrgentIQ portfolio page [^4] (additional primary lead-investor citation). Five Elms Capital lead confirmed. Founders identified and added to frontmatter: Nat Gibbs (Founder & CEO) and Eric Slater (Co-Founder). Added verbatim Nat Gibbs quote to What Founders Say: "Urgent care deserves its own operating system — one designed around speed, intelligence, and automation from the ground up." Added verbatim Joe Onofrio (Five Elms Partner) quote to What Investors Say: "UrgentIQ has built a platform with exceptional operator adoption and product satisfaction." AlleyWatch confirmed founding year 2022 and $24.5M cumulative raised — matches profile.'
+  processed: '2026-09-15'
 - slug: pave-finance
   type: startup
   reason: "Round monitoring 2026-09-15: New lean profile for $15M oversubscribed Series A (2026-09-14) — lead not identified in aggregator; participants: advisory firms, financial services executives, insiders. Sources: (1) AlleyWatch daily 9/14/2026; (2) Pave Finance company website; (3) Pave Finance press page."
