@@ -550,7 +550,8 @@ vague_facts:
   line: '| Credit Karma | Series B ($30M, co-led by Ribbit Capital and Susquehanna Growth Equity; Felicis Ventures also participa'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-15: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: 2013-04-02 date, $30M amount, Ribbit Capital + Susquehanna Growth Equity co-lead, Felicis Ventures participant. Re-verified via 3 independent primary sources: TechCrunch [^37] (2013-04-02, Alexia Tsotsis — confirms $30M co-led by Ribbit + Susquehanna, Felicis existing investor participation; does NOT name 500 Startups — contemporaneous tier-1 press gap), Crunchbase News [^24] (Intuit acquisition retrospective — explicitly states "500 Startups also put money in that round" for the March 2013 $30M Series B), and 500 Global''s own portfolio content [^6][^12]. 500 Startups is aggregator/retrospective-attributed to Credit Karma Series B — same pattern as Wildfire/Simple/Grab. Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Viki
@@ -580,7 +581,8 @@ vague_facts:
   line: '| Canva | Seed ($3M; Matrix Partners + InterWest Partners led; 500 Startups + Bill Tai + Lars Rasmussen + Ken Goldman + '
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-15: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: 2013-03-20 date, $3M amount, Matrix Partners + InterWest Partners co-lead, 500 Startups + Bill Tai + Lars Rasmussen + Ken Goldman + Paul Bassat as participants. Re-verified via 3 independent primary sources: Canva Newsroom press release [^26] (2013-03-20, primary company source), TechCrunch [^38] (Ingrid Lunden, 2013-08-26 — explicitly states Canva "already raised $3 million in seed funding from Matrix Partners, InterWest Partners, 500 Startups, and various angels"), and 500 Global''s own portfolio content [^12][^17]. Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Talkdesk
@@ -600,7 +602,8 @@ vague_facts:
   line: '| GitLab | Seed ($1.5M announced; Khosla Ventures led (Ben Ling + Sven Strohband deal team); 500 Startups + Crunchfund +'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-15: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: 2015-07-09 date, $1.5M announced amount ($1.7M true close per Newcomer cap-table analysis), Khosla Ventures (Ben Ling + Sven Strohband) lead, 500 Startups + Crunchfund + Sound Ventures (Ashton Kutcher) + Liquid 2 Ventures (Joe Montana) participants. Re-verified via 3 independent primary sources: GitLab Blog [^28] (2015-07-09, primary company source), Newcomer cap-table analysis [^45] (independent post-hoc analysis by Eric Newcomer), and StartUp Beat wire coverage [^46] (2015-07, third-party). Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Grab (GrabTaxi/MyTeksi)
