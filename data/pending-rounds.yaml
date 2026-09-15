@@ -69,6 +69,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Crane Venture Partners raises €419 million as it expands across Europe, APAC
+    and the US
+  url: https://www.eu-startups.com/2026/09/crane-venture-partners-raises-e419-million-as-it-expands-across-europe-apac-and-the-us/
+  source: eu-startups
+  date_found: '2026-09-15'
+  parsed_company: Crane Venture Partners
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: London-based Jack & Jill raises €34.68 million Series A to scale its AI agents
     for jobseekers and employers
   url: https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/
@@ -663,14 +672,6 @@ pending_rounds:
   date_found: '2026-09-08'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round
-  url: https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/
-  source: crunchbase
-  date_found: '2026-09-08'
-  parsed_company: Mistral AI
-  parsed_amount: $3.5B
   parsed_round: null
   status: pending
 - title: Molten Ventures raises €203 million to back UK and European growth-stage

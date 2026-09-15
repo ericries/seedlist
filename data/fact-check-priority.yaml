@@ -6211,3 +6211,11 @@ priority:
   type: firm
   reason: "Round monitoring 2026-09-14: Participated in Tandem Health $100M Series B (2026-09-14)."
   added: 2026-09-14
+- slug: urgentiq
+  type: startup
+  reason: "Round monitoring 2026-09-15: New lean profile for $15M Series A (2026-09-11) led by Five Elms Capital. Sources: (1) AlleyWatch daily 9/14/2026; (2) Five Elms Capital portfolio page; (3) UrgentIQ company website."
+  added: 2026-09-15
+- slug: pave-finance
+  type: startup
+  reason: "Round monitoring 2026-09-15: New lean profile for $15M oversubscribed Series A (2026-09-14) — lead not identified in aggregator; participants: advisory firms, financial services executives, insiders. Sources: (1) AlleyWatch daily 9/14/2026; (2) Pave Finance company website; (3) Pave Finance press page."
+  added: 2026-09-15
