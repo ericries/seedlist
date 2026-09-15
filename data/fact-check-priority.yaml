@@ -5044,6 +5044,10 @@ priority:
   type: investor
   reason: participated in Vaaree Series A (2026-08-04), Rs 65 Cr
   added: 2026-08-05
+  status: resolved
+  resolved: '2026-09-14'
+  resolution_note: 'Fact-spec sweep 2026-09-14: Added Vaaree Series A row to kunal-shah portfolio table (₹65 Cr / ~$6.6M Series A co-led by Hero Enterprise and Cap Alpha Ventures on 2026-08-04; participated alongside Peak XV''s Surge, PeerCapital, All In Capital, Better Capital, OTP Ventures). Kunal Shah''s participation verified via Entrackr primary Indian tech-press source [^4], which explicitly names him among angel/individual participants. Inc42 [^5] independently confirms round basics (₹65 Cr, Hero Enterprise + Cap Alpha Ventures lead) but does not itemize individual angels including Kunal Shah — noted in citation. YourStory 3rd source returned 403 during refetch. Added last_verified_investment: {company: Vaaree, date: 2026-08-04, round: Series A} to frontmatter (previously absent). Startup profile vaaree.md already has this round documented with 3 citations.'
+  processed: '2026-09-14'
 - slug: madrona-venture-group
   type: firm
   reason: led Faye Series C (2026-08-05)
@@ -5055,10 +5059,18 @@ priority:
   type: firm
   reason: co-investor in Aurelius Systems Series A (2026-08-05)
   added: 2026-08-05
+  status: resolved
+  resolved: '2026-09-14'
+  resolution_note: 'Fact-spec sweep 2026-09-14: Added Aurelius Systems Seed ($10M, co-led with Draper Associates on 2025-09-04) and Series A ($40M participation on 2026-08-05; Draper Associates and KAS Venture Partners led; Hanwha Asset Management Venture Fund, Outlander VC, Alumni Ventures, Bravo Victor Venture Capital, Detroit Venture Partners, Decisive Point also participated) to general-catalyst.md Portfolio table. Verified via 3 independent primary sources: Business Wire press-wire [^gc-aur-1] (2025 seed announcement), Tectonic Defense [^gc-aur-2] (2026-08-05 contemporaneous defense-industry press with CEO quotes), Ventureburn [^gc-aur-3] (2026-08 tech press), plus Aurelius Systems own website [^gc-aur-4] listing General Catalyst among named investor/backers. San Francisco-based defense-tech company building Archimedes autonomous directed-energy counter-drone platform; CEO Michael LaFramboise. Total raised $50M ($10M Seed + $40M Series A).'
+  processed: '2026-09-14'
 - slug: outlander-vc
   type: firm
   reason: co-investor in Aurelius Systems Series A (2026-08-05)
   added: 2026-08-05
+  status: resolved
+  resolved: '2026-09-14'
+  resolution_note: 'Fact-spec sweep 2026-09-14: Added Aurelius Systems Series A row to outlander-vc.md Portfolio table ($40M Series A participation on 2026-08-05; Draper Associates and KAS Venture Partners led; General Catalyst, Hanwha Asset Management Venture Fund, Alumni Ventures, Bravo Victor Venture Capital, Detroit Venture Partners, Decisive Point also participated). Verified via 3 primary sources: Tectonic Defense [^aur-o-1] contemporaneous defense-industry press with CEO Michael LaFramboise quotes, Ventureburn [^aur-o-2] tech press, and Aurelius Systems company website [^aur-o-3] confirming investor syndicate. Extends Outlander''s defense/directed-energy portfolio concentration alongside Havoc, HavocAI, DiffuseDrive, Catalyx Space, Material Hybrid Manufacturing.'
+  processed: '2026-09-14'
 - slug: accel
   type: firm
   reason: co-investor in Sapiom Series A (2026-08-05)

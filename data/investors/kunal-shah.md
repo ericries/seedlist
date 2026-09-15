@@ -1,7 +1,11 @@
 ---
 check_size: unknown
 firm: cred
-last_researched: 2026-08-30
+last_researched: 2026-09-14
+last_verified_investment:
+  company: Vaaree
+  date: 2026-08-04
+  round: Series A
 location: Mumbai, Maharashtra, India
 name: Kunal Shah
 role: Founder, CRED
@@ -70,8 +74,9 @@ Sample size of independently verified individual deals in this draft is too smal
 | BharatPe | Angel (round unspecified) | ~2018 (founding proxy) | Fintech / Merchant credit | Active | [^1] |
 | Anq Finance | Angel (round unspecified) | ~2022 (founding proxy) | Fintech / Digital banking | Active | [^3] |
 | Syrma SGS Technology Limited | Independent Director | ~2022 | Electronics manufacturing | Public (India) | [^1] |
+| Vaaree | Series A (angel participant; Hero Enterprise and Cap Alpha Ventures led, ₹65 Cr / ~$6.6M; participated alongside Peak XV's Surge, PeerCapital, All In Capital, Better Capital, OTP Ventures) | 2026-08-04 | Ecommerce / Home decor marketplace / India | Active | [^4][^5] |
 
-Wikipedia reports over 200 angel investments; only the five entries above have been individually corroborated in the sources loaded for this draft [^1]. A follow-on research pass should backfill dated, round-specific rows from primary press releases and company blog posts.
+Wikipedia reports over 200 angel investments; only the six entries above have been individually corroborated in the sources loaded for this draft [^1]. A follow-on research pass should backfill dated, round-specific rows from primary press releases and company blog posts.
 
 ## In Their Own Words
 
@@ -86,3 +91,5 @@ No independently sourced founder testimonials describing Shah's behavior as an a
 [^1]: Wikipedia, "Kunal Shah (entrepreneur)," accessed August 2026. https://en.wikipedia.org/wiki/Kunal_Shah
 [^2]: CRED, "About" page (Dreamplug Technologies Pvt Ltd), accessed August 2026. https://cred.club/about
 [^3]: Inc42, coverage of Anq Finance and Kunal Shah's backing (including the Kiwimoney acquisition), accessed August 2026. https://inc42.com/people/kunal-shah/
+[^4]: Entrackr, "Vaaree raises Rs 65 Cr in Series A led by Hero Enterprise and Cap Alpha Ventures," August 4, 2026. Accessed September 2026. https://entrackr.com/snippets/vaaree-raises-rs-65-cr-in-series-a-led-by-hero-enterprise-and-cap-alpha-ventures-12227333 — Primary Indian tech-press source explicitly naming Kunal Shah among Series A participants alongside Hero Enterprise, Cap Alpha Ventures, Peak XV's Surge, PeerCapital, All In Capital, Better Capital, and OTP Ventures.
+[^5]: Inc42, "Home Decor Marketplace Vaaree Raises ₹65 Cr Led By Hero Enterprise," August 4, 2026. Accessed September 2026. https://inc42.com/buzz/home-decor-marketplace-vaaree-raises-%E2%82%B965-cr-led-by-hero-enterprise/ — Independent Indian tech-press confirmation of ₹65 Cr Series A led by Hero Enterprise and Cap Alpha Ventures (formerly Client Associates Alternate Fund); confirms round basics but does not explicitly name Kunal Shah among participants (Entrackr [^4] is the naming source).
