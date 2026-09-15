@@ -800,7 +800,13 @@ vague_facts:
   line: '| Brightline | Series B | 2021 | Pediatric behavioral health | Active | [^23][^23] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-14'
+  resolution_note: 'Fact-spec sweep 2026-09-14: STALE QUEUE ENTRY. Profile row was already tightened to ''Series B ($72M; GV lead; Optum Ventures, 7wireVentures, Gaingels new; Oak HC/FT, Threshold Ventures,
+    Blue Shield of California, Blue Cross Blue Shield of Massachusetts, SemperVirens VC, City Light Capital returning) | 2021-06-16'' with [^23][^56][^57] citations. Re-verified 2021-06-16 date, $72M
+    amount, GV lead, and full syndicate via 3 primary sources: PR Newswire company release [^23] (2021-06-16 — WebFetched, confirms date/amount/lead + additional detail on Debra Lee angel and $7M SVB
+    venture debt), MobiHealthNews [^56] (2021-06-17), and Behavioral Health Business [^57] (2021-06-17). Duplicate ''[^23][^23]'' in queue value was scanner artifact only; actual profile citations are clean
+    [^23][^56][^57]. No profile change needed.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Jasper Health
@@ -810,7 +816,12 @@ vague_facts:
   line: '| Jasper Health | Seed | 2021 | Oncology care navigation | Active | [^25][^36] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-14'
+  resolution_note: 'Fact-spec sweep 2026-09-14: STALE QUEUE ENTRY. Profile row was already tightened to ''Seed ($6.75M; co-led by 7wireVentures and Redesign Health) | 2021-05-12'' with [^25][^36][^58][^59]
+    citations. Re-verified 2021-05-12 date, $6.75M amount, and 7wireVentures + Redesign Health co-lead via 3 primary sources: HIT Consultant [^58] (2021-05-12 — WebFetched, confirms date/amount/co-lead
+    and notes Lee Shapiro joined Jasper board), PR Newswire [^25] (Series A follow-on coverage), and Crunchbase funding round record [^36]. Also documented in BusinessWire [^59] (2021-05-12; primary Jasper
+    Health release) though that URL returned 403 on re-fetch — HIT Consultant and PR Newswire cover the same facts. No profile change needed.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Zerigo Health
@@ -863,7 +874,12 @@ vague_facts:
   line: '| PayZen | Series A | 2021 | Healthcare affordability | Active | [^18][^39] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-14'
+  resolution_note: 'Fact-spec sweep 2026-09-14: STALE QUEUE ENTRY. Profile row was already tightened to ''Series A ($15M; SignalFire lead; Link Ventures, 7wireVentures new; Viola Ventures, Picus Capital
+    returning) | 2021-11-17'' with [^18][^39][^60][^61] citations. Re-verified 2021-11-17 date, $15M amount ($20M total raised to date), SignalFire lead, and full syndicate via 3 primary sources: PR
+    Newswire company release [^60] (2021-11-17 — WebFetched, confirms date/amount/lead/syndicate verbatim), TechCrunch [^61] (2021-11-17), and 7wire Ventures'' own Perspectives blog [^39]. No profile change
+    needed.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Homethrive
