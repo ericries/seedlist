@@ -6175,3 +6175,39 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-13: Series A $60M (2026-09-08) led by TQ Ventures with Hanwha, G Squared, JAWS, Starship, Draper Associates, Drover. Verify participants; queue firm profiles."
   added: 2026-09-13
+- slug: highstock
+  type: startup
+  reason: "Round monitoring 2026-09-14: New profile for $30M Series A (2026-09-10) led by Andreessen Horowitz with Greylock Partners, Abstract Ventures, Daybreak Ventures, Jeff Jordan advisor. Sources: (1) a16z announcement (primary); (2) Highstock company site; (3) AlleyWatch daily report. Queue Daybreak Ventures and Jeff Jordan for profile creation."
+  added: 2026-09-14
+- slug: cornelis-networks
+  type: startup
+  reason: "Round monitoring 2026-09-14: New profile for $205M growth round (2026-09-14) led by IAG Capital Partners; company spun from Intel HPC interconnect business in 2020. Sources: (1) TechCrunch (primary); (2) Cornelis Networks newsroom. Queue IAG Capital Partners firm profile; verify additional participants."
+  added: 2026-09-14
+- slug: andreessen-horowitz
+  type: firm
+  reason: "Round monitoring 2026-09-14: Led Highstock $30M Series A (2026-09-10)."
+  added: 2026-09-14
+- slug: greylock
+  type: firm
+  reason: "Round monitoring 2026-09-14: Participated in Highstock $30M Series A (2026-09-10)."
+  added: 2026-09-14
+- slug: abstract-ventures
+  type: firm
+  reason: "Round monitoring 2026-09-14: Participated in Highstock $30M Series A (2026-09-10)."
+  added: 2026-09-14
+- slug: cornelis-networks
+  type: startup
+  reason: "Round monitoring 2026-09-14: New lean profile for $205M Growth round (2026-09-14) led by IAG Capital Partners. Sources: (1) TechCrunch; (2) Cornelis Networks press release; (3) Cornelis Networks stories page."
+  added: 2026-09-14
+- slug: tandem-health
+  type: startup
+  reason: "Round monitoring 2026-09-14: New lean profile for $100M Series B (2026-09-14) led by Scaleup Europe Fund (EQT) with Kinnevik, Northzone, Amino Collective, Visionaries. Sources: (1) Tandem Health press release; (2) Tandem Health news index; (3) EU-Startups."
+  added: 2026-09-14
+- slug: chift
+  type: startup
+  reason: "Round monitoring 2026-09-14: New lean profile for €10.5M Series A (2026-09-14) led by BlackFin Capital Partners with Entourage, Shapers, Seeder Fund, Wallonie Entreprendre. Sources: (1) Chift company blog; (2) Chift company page; (3) EU-Startups."
+  added: 2026-09-14
+- slug: northzone
+  type: firm
+  reason: "Round monitoring 2026-09-14: Participated in Tandem Health $100M Series B (2026-09-14)."
+  added: 2026-09-14

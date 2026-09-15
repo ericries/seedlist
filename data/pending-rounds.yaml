@@ -20,6 +20,46 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Tabby raised $233M Series F
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-15'
+  parsed_company: Tabby
+  parsed_amount: $233M
+  parsed_round: Series F
+  status: pending
+- title: BRKZ raised $13M Series B equity
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-15'
+  parsed_company: BRKZ
+  parsed_amount: $13M
+  parsed_round: Series B Equity
+  status: pending
+- title: Shennon Biotechnologies raised $12M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-15'
+  parsed_company: Shennon Biotechnologies
+  parsed_amount: $12M
+  parsed_round: null
+  status: pending
+- title: Nara Health raised $10M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-15'
+  parsed_company: Nara Health
+  parsed_amount: $10M
+  parsed_round: Seed
+  status: pending
+- title: and has raised $300M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-15'
+  parsed_company: and has
+  parsed_amount: $300M
+  parsed_round: null
+  status: pending
 - title: Caliber Completes $3.4 Million Refinance of Corporate Notes and Secures the
     Right to Retire an Additional $9.1 Million at a Discount
   url: https://www.globenewswire.com/news-release/2026/09/14/3360985/0/en/caliber-completes-3-4-million-refinance-of-corporate-notes-and-secures-the-right-to-retire-an-additional-9-1-million-at-a-discount.html
@@ -562,14 +602,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round
-  url: https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/
-  source: crunchbase
-  date_found: '2026-09-08'
-  parsed_company: Mistral AI
-  parsed_amount: $3.5B
-  parsed_round: null
-  status: pending
 - title: Molten Ventures raises €203 million to back UK and European growth-stage
     tech companies
   url: https://www.eu-startups.com/2026/09/molten-ventures-raises-e203-million-to-back-uk-and-european-growth-stage-tech-companies/
@@ -800,56 +832,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-09-03'
   parsed_company: Cyprus-founded Piney
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Fresh from €14.6 million Seed round, eComID acquires Nilum to push into recommerce
-  url: https://www.eu-startups.com/2026/09/fresh-from-e14-6-million-seed-round-ecomid-acquires-nilum-to-push-into-recommerce/
-  source: eu-startups
-  date_found: '2026-09-03'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: Belgian food quality AI startup Backbone raises €4 million pre-Seed round
-  url: https://www.eu-startups.com/2026/09/belgian-food-quality-ai-startup-backbone-raises-e4-million-pre-seed-round/
-  source: eu-startups
-  date_found: '2026-09-03'
-  parsed_company: Belgian food quality AI startup Backbone
-  parsed_amount: null
-  parsed_round: Pre-Seed
-  status: pending
-- title: Circular unveils Ring 3 series with contactless payments and on-finger vibration
-    alerts
-  url: https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/
-  source: techcrunch
-  date_found: '2026-09-03'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/3/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-3-2026/
-  source: alleywatch
-  date_found: '2026-09-03'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: The August 2026 New York Venture Capital Funding Report
-  url: https://alleywatch.com/2026/09/the-august-2026-new-york-venture-capital-funding-report/
-  source: alleywatch
-  date_found: '2026-09-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Adressing complicated pregnancies, iPremom raises €15 million to advance
-    early detection
-  url: https://www.eu-startups.com/2026/09/adressing-complicated-pregnancies-ipremom-raises-e15-million-to-advance-early-detection/
-  source: eu-startups
-  date_found: '2026-09-02'
-  parsed_company: Adressing complicated pregnancies, iPremom
   parsed_amount: null
   parsed_round: null
   status: pending

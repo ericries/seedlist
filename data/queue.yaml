@@ -46635,3 +46635,9 @@ queue:
   added: '2026-09-12'
   firm: Spectrum Equity
   discovered_from: xapien
+- name: Daybreak Ventures
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-09-14'
+  discovered_from: highstock

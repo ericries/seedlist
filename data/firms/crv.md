@@ -147,7 +147,7 @@ This table represents 40 verified investments out of approximately 397 total com
 | Factorial | Series A | ~2021 | Enterprise/HR | Active [^9] |
 | CodeRabbit | Series A (led, $16M) | 2024-08-15 | Developer Tools/AI | Active [^28][^31] |
 | Browserbase | Series A (co-led, $21M) | 2024-10-29 | Developer Tools/AI | Active [^29][^32] |
-| Protege | Seed | 2024 | AI/Data | Active [^10] |
+| Protege | Seed ($10M; led, Saar Gur GP) | 2024-09-10 | AI/Data (training data platform) | Active [^10][^protege-crv1][^protege-crv2] |
 | Napkin AI | Seed (co-led with Accel, $10M; Max Gazor GP) | 2024-08-07 | AI/Consumer | Active [^10][^36][^37][^38] |
 | 7AI | Series A (participated, $130M) | 2025-12-04 | Cybersecurity/AI | Active [^10][^33] |
 | Abacus Insights | Series A | ~2018 | Enterprise/Health | Active [^21] |
@@ -284,3 +284,6 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 [^alice-crv2]: Bloomberg, "AI Safety Startup Alice, Partner of Google, Anthropic, Raises $140 Million," August 25, 2026. Accessed August 2026. https://www.bloomberg.com/news/articles/2026-08-25/ai-safety-startup-alice-partner-of-google-anthropic-raises-140-million — Independent tier-1 press confirmation of round and participants.
 
 [^alice-crv3]: SiliconANGLE, "Alice raises $140M as its AI security business grows more than 500%," August 25, 2026. Accessed August 2026. https://siliconangle.com/2026/08/25/alice-raises-140m-as-its-ai-security-business-grows-more-than-500/ — Third independent tech-press confirmation naming CRV as Growth-round participant.
+
+[^protege-crv1]: PR Newswire, "Protege Raises $10 Million and Launches Platform for AI Training Data," September 10, 2024. Accessed September 2026. https://www.prnewswire.com/news-releases/protege-raises-10-million-and-launches-platform-for-ai-training-data-302244064.html — Primary company press release confirming CRV led the $10M seed round on 2024-09-10, with participation from SV Angel, Liquid 2 Ventures, Bloomberg Beta, Flex Capital, Adam D'Angelo, and Travis May. Saar Gur (CRV General Partner) quoted: "The training data opportunity is one of the largest I've seen in my career." Founders: Bobby Samuels (CEO) and Travis May.
+[^protege-crv2]: Signal by NFX, "Auren Hoffman's Investing Profile - Flex Capital General Partner." Accessed September 2026. https://signal.nfx.com/investors/auren-hoffman — Independent aggregator listing Protege's 2024-09 $10M seed alongside subsequent Series A rounds (Aug 2025 $25M and Jan 2026 $30M); confirms Saar Gur (CRV) among named participants.
