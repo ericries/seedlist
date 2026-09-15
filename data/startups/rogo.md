@@ -45,7 +45,7 @@ investors:
   round: series-d
   slug: jack-altman
   year: 2026
-last_researched: 2026-04-29
+last_researched: 2026-09-15
 location: New York, NY
 name: Rogo
 sector:
@@ -55,12 +55,12 @@ sector:
 - enterprise
 - financial-services
 slug: rogo
-stage_latest: Series D
+stage_latest: Strategic
 status: published
 status_company: active
-total_raised: $300M+
+total_raised: $344M
 type: startup
-website: https://rogo.ai
+website: https://rogo.com
 ---
 
 ## About
@@ -73,6 +73,9 @@ Rogo is a New York-based agentic AI platform built for financial services, used 
 |------|-------|--------|------|--------------|
 | 2025-04-30 | Series B | $50M | Thrive Capital | J.P. Morgan Growth Equity Partners, Tiger Global, Positive Sum Ventures, Khosla Ventures, BoxGroup, AlleyCorp [^3][^4][^5] |
 | 2026-04-29 | Series D | $160M | Kleiner Perkins | Sequoia Capital, Thrive Capital, Khosla Ventures, J.P. Morgan Growth Equity Partners, BoxGroup, Mantis VC, Jack Altman, Evantic, Positive Sum [^1][^2] |
+| 2026-09-10 | Strategic | $30M | — | Barclays, Opera Tech Ventures, Citi Ventures, MUFG Innovation Partners, Societe Generale, Joshua Easterly [^6][^7] |
+
+The September 2026 strategic financing came from a consortium of global banks alongside prior backers J.P. Morgan Growth Equity Partners and Truist Ventures, bringing total funding to $344M and funding EMEA and APAC expansion [^7].
 
 ## What Investors Say
 
@@ -89,3 +92,5 @@ No independently sourced founder quotes found for this round.
 [^3]: Rogo, "Rogo Raises $50M Series B from Thrive Capital, J.P. Morgan, and Tiger Global to Build Financial AI," April 30, 2025. Accessed May 2026. https://rogo.ai/news/rogo-announces-50m-series-b — Confirms April 30, 2025 announcement; $50M Series B led by Thrive Capital; participation from J.P. Morgan Growth Equity Partners, Tiger Global, Positive Sum Ventures; existing investors Khosla Ventures, BoxGroup, and AlleyCorp also participated; total funding to $75M.
 [^4]: Wilson Sonsini, "Wilson Sonsini Advises J.P. Morgan Growth Equity Partners on Rogo's $50 Million Series B," April 30, 2025. Accessed May 2026. https://www.wsgr.com/en/insights/wilson-sonsini-advises-jp-morgan-growth-equity-partners-on-rogos-dollar50-million-series-b.html — Legal counsel confirmation of April 30, 2025 close; $50M led by Thrive Capital with J.P. Morgan Growth Equity Partners, Tiger Global, and Positive Sum Ventures.
 [^5]: FinTech Global, "Financial AI innovator Rogo raises $50m in Series B round led by Thrive Capital," May 2, 2025. Accessed May 2026. https://fintech.global/2025/05/02/financial-ai-innovator-rogo-raises-50m-in-series-b-round-led-by-thrive-capital/ — Independent press confirmation of $50M Series B led by Thrive Capital with new investors J.P. Morgan, Tiger Global, Positive Sum Ventures and existing investors Khosla, BoxGroup, AlleyCorp.
+[^6]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/14/2026." Accessed September 15, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-14-2026/ — Records $30M Venture Funding round with participation from Barclays, Opera Tech Ventures, Citi Ventures, MUFG Innovation Partners, Societe Generale, and Joshua Easterly; cumulative funding to date reported as $344M.
+[^7]: Rogo, "The World's Leading Financial Institutions are Investing in Rogo" (strategic investors announcement), September 10, 2026. Accessed September 15, 2026. https://rogo.com/news/strategic-investors — Company announcement of strategic financing led by nine global banks including Barclays, BNP Paribas (via Opera Tech Ventures), Citi Ventures, MUFG Innovation Partners, and Societe Generale, plus Sixth Street co-founder Joshua Easterly; prior investors J.P. Morgan Growth Equity Partners and Truist Ventures also participated; funds earmarked for EMEA and APAC expansion.
