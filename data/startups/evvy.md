@@ -40,13 +40,23 @@ Co-investor list reflects the investor set disclosed on Evvy's own site alongsid
 
 ## What Investors Say
 
-No independently sourced investor quotes found for this round.
+No independently sourced investor quotes found for this round in either the TechCrunch coverage [^1] or Evvy's own About page [^2].
 
 ## What Founders Say
 
-No independently sourced founder quotes found for this round.
+**Priyanka Jain (Co-Founder & CEO) on Evvy's clinical model, quoted in TechCrunch:**
+> "When a patient receives their results, they are presented alongside a diagnosis, clinical interpretation, and a clear path of next steps, including personalized prescription care when relevant." [^1]
+
+**Priyanka Jain on the female-biology data gap:**
+> "You can't build precision medicine for women on datasets that never adequately measured female biology in the first place." [^1]
+
+**Priyanka Jain on the role of AI:**
+> "That's why I believe AI for women's health needs to be paired with new biological data at scale." [^1]
+
+**Priyanka Jain on Evvy's mission:**
+> "Women shouldn't have to accept unexplained infertility, unexplained recurrence, or unexplained symptoms as answers." [^1]
 
 ## Sources
 
-[^1]: TechCrunch, "Evvy raises $40M as it seeks to further women's health research with vaginal microbiome data," September 15, 2026. Accessed September 15, 2026. https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/
-[^2]: Evvy company site, "About Evvy" — mission, platform, founders, and investors. Accessed September 15, 2026. https://www.evvy.com/about
+[^1]: Dominic-Madori Davis, "Evvy raises $40M as it seeks to further women's health research with vaginal microbiome data," TechCrunch, September 15, 2026. Accessed September 15, 2026. https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/ — Primary tier-1 tech press. Confirms $40M Series B led by Catalio Capital Management. Includes four verbatim quotes from Priyanka Jain used in What Founders Say. Byline: Dominic-Madori Davis.
+[^2]: "About Evvy" — mission, platform, founders, and investors, Evvy company website. Accessed September 15, 2026. https://www.evvy.com/about — Primary company source. Confirms founders (Priyanka Jain, Pita Navarro, Laine Bruzek) and the majority of the investor set (General Catalyst, Labcorp, G9/BBGV, BoxGroup, Foreground Capital, Amboy St. Ventures, Human Ventures, Virtue, Ingeborg). Note: the About page displays a broad investor logo wall spanning Evvy's history; the Series B lead (Catalio Capital Management) and Left Lane Capital are confirmed via TechCrunch [^1] but were not visible on the About page snapshot at access time.

@@ -211,6 +211,7 @@ The following table includes notable investments verified through multiple sourc
 | Allium | Series B (participated, $40M led by Amplify Partners; Theory Ventures and Pruven Capital also participated) | 2026-06-23 | Fintech / Blockchain / Data Infrastructure | Private [^59][^60][^61] |
 | TerraFirma | Series A (led, $100M within $115M total round) | 2026-07-14 | Construction Tech / Robotics / Autonomous Systems | Private [^62][^63][^64] |
 | K2 Space | Series D (co-led with ICONIQ, $500M at $6.8B valuation) | 2026-07-30 | Space / Satellites / Defense | Private [^k2s1][^k2s2][^k2s3] |
+| Profound | Series D (co-led with Sequoia Capital, $180M at $1.8B post-money) | 2026-09-15 | AI / Marketing / Answer Engine Optimization (AEO) | Private (Lightspeed Venture Partners, Khosla Ventures, Saga Ventures, Evantic, and South Park Commons participated; 1,000+ enterprise customers including Comcast, Estée Lauder, Walmart; ~3x revenue growth over the prior six months) [^profound-kp1][^profound-kp2][^profound-kp3] |
 
 *Note: This table includes 65 of over 2,100 total investments (approximately 3%). Many investment years use the approximate year based on publicly reported funding rounds. The table is biased toward the firm's most notable exits and current headline investments. Kleiner Perkins' full portfolio includes hundreds of additional companies across enterprise, consumer, healthcare, and hardtech sectors.*
 
@@ -398,3 +399,9 @@ No independently sourced founder testimonials with direct quotes about the exper
 [^k2s2]: SpaceNews, "K2 Space raises $500 million for commercial, defense satellite expansion," July 30, 2026. Accessed July 31, 2026. https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/
 
 [^k2s3]: Tech Startups, "Venture Capital & Startup Funding Roundup, July 30, 2026," July 30, 2026. Accessed July 31, 2026. https://techstartups.com/2026/07/30/venture-capital-startup-funding-roundup-july-30-2026-bessemer-venture-partners-eli-lilly-co-g2-venture-partners-iconiq-growth-kleiner-perkins-lightspeed-more/
+
+[^profound-kp1]: Dominic-Madori Davis, "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round," TechCrunch, September 15, 2026. Accessed September 15, 2026. https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/ — Primary tier-1 tech press confirming Kleiner Perkins and Sequoia Capital co-led Profound's $180M Series D at a $1.8B valuation on September 15, 2026, with Lightspeed Venture Partners, Khosla Ventures, and South Park Commons participating.
+
+[^profound-kp2]: James Cadwallader, "Building the AI platform for marketing" (Profound Series D announcement), Profound company blog, September 16, 2026. Accessed September 15, 2026. https://tryprofound.com/blog/series-d — Primary company source authored by Profound's Co-Founder & CEO confirming Kleiner Perkins as co-lead with Sequoia Capital; adds Saga Ventures and Evantic to the co-investor set beyond the TechCrunch list.
+
+[^profound-kp3]: Anas Biad, Brian Halligan, and Alfred Lin, "Partnering with Profound: Winning on the AI Stage," Sequoia Capital, September 15, 2026. Accessed September 15, 2026. https://www.sequoiacap.com/article/partnering-with-profound-winning-on-the-ai-stage — Independent third-party (co-lead) confirmation of Kleiner Perkins's co-lead status on Profound's Series D.

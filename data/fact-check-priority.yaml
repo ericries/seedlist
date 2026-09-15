@@ -6239,10 +6239,18 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-15: New lean profile for $180M Series D (2026-09-15) at $1.8B valuation, co-led by Sequoia Capital and Kleiner Perkins, with Lightspeed Venture Partners, Khosla Ventures, Saga Ventures, Evantic, and South Park Commons. Sources: (1) TechCrunch; (2) Profound company site; (3) Profound blog listing."
   added: 2026-09-15
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: "Fact-spec sweep 2026-09-15 (18:00 UTC cron): verified $180M Series D at $1.8B post-money via 3 independent primary sources — TechCrunch [^1] by Dominic-Madori Davis (independent tier-1 tech press; primary), Profound company blog Series D post by James Cadwallader [^2] (primary company source; https://tryprofound.com/blog/series-d), and Sequoia Capital 'Partnering with Profound: Winning on the AI Stage' article by Anas Biad, Brian Halligan, and Alfred Lin [^3] (primary co-lead-investor source; https://www.sequoiacap.com/article/partnering-with-profound-winning-on-the-ai-stage — replacing prior /companies/profound/ URL with the deeper article URL). Sequoia + Kleiner Perkins co-lead structure confirmed by all three. Added Saga Ventures and Evantic to co-investor list per Cadwallader company blog (previously missing from profile). Added verbatim James Cadwallader founder quote to What Founders Say: \"What Salesforce did for the sales org in the cloud era, we intend to do for marketing in the generative era.\" Added ~3x six-month revenue growth detail per TechCrunch. Companion entries for sequoia-capital, kleiner-perkins, and khosla-ventures backfilled in this sweep."
+  processed: '2026-09-15'
 - slug: evvy
   type: startup
   reason: "Round monitoring 2026-09-15: New lean profile for $40M Series B (2026-09-15) led by Catalio Capital Management with General Catalyst, Labcorp, Left Lane Capital, G9 Ventures, BBG Ventures, BoxGroup. Sources: (1) TechCrunch; (2) Evvy company site (evvy.com/about)."
   added: 2026-09-15
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: "Fact-spec sweep 2026-09-15: verified $40M Series B led by Catalio Capital Management via 2 primary sources — TechCrunch [^1] by Dominic-Madori Davis (independent tier-1 tech press with byline; primary) and Evvy company About page [^2] (primary company source confirming founders Priyanka Jain / Pita Navarro / Laine Bruzek and the majority of the participant set: General Catalyst, Labcorp, G9/BBGV, BoxGroup, Foreground Capital, Amboy St. Ventures, Human Ventures, Virtue, Ingeborg). Added four verbatim Priyanka Jain (Co-Founder & CEO) quotes to What Founders Say directly from TechCrunch (all quotations copied verbatim): on clinical model (\"When a patient receives their results, they are presented alongside a diagnosis...\"); on the female-biology data gap (\"You can't build precision medicine for women on datasets that never adequately measured female biology in the first place.\"); on the role of AI (\"That's why I believe AI for women's health needs to be paired with new biological data at scale.\"); and on Evvy's mission (\"Women shouldn't have to accept unexplained infertility, unexplained recurrence, or unexplained symptoms as answers.\"). Note: only 2 fully independent primary sources located this pass (TechCrunch + Evvy company site); attempted trade press (FierceBiotech, Endpoints, MobiHealthNews) returned 403/404; Catalio Capital news page and portfolio page do not yet list Evvy. Flagging for a 3rd-source pass when biotech trade press is accessible."
+  processed: '2026-09-15'
 - slug: rogo
   type: startup
   reason: "Round monitoring 2026-09-15: New lean profile for Rogo $30M strategic financing (2026-09-10) — nine global banks including Barclays, Opera Tech Ventures (BNP Paribas), Citi Ventures, MUFG Innovation Partners, Societe Generale, plus Joshua Easterly. Sources: (1) AlleyWatch daily 9/14/2026; (2) Rogo company news."
@@ -6251,14 +6259,26 @@ priority:
   type: firm
   reason: "Round monitoring 2026-09-15: Co-led Profound $180M Series D (2026-09-15) with Kleiner Perkins."
   added: 2026-09-15
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: "Fact-spec sweep 2026-09-15: added Profound Series D row to sequoia-capital.md portfolio table (co-led with Kleiner Perkins, $180M at $1.8B post-money; Anas Biad and Alfred Lin authored the Sequoia partnership post) with 3 named-footnote citations ([^profound-seq1] TechCrunch by Dominic-Madori Davis, [^profound-seq2] Sequoia partnership article by Anas Biad/Brian Halligan/Alfred Lin, [^profound-seq3] Cadwallader company blog) — all 3 primary sources verified via WebFetch. Lightspeed VP, Khosla Ventures, Saga Ventures, Evantic, and South Park Commons listed as participants."
+  processed: '2026-09-15'
 - slug: kleiner-perkins
   type: firm
   reason: "Round monitoring 2026-09-15: Co-led Profound $180M Series D (2026-09-15) with Sequoia Capital."
   added: 2026-09-15
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: "Fact-spec sweep 2026-09-15: added Profound Series D row to kleiner-perkins.md portfolio table (co-led with Sequoia Capital, $180M at $1.8B post-money) with 3 named-footnote citations ([^profound-kp1] TechCrunch, [^profound-kp2] Cadwallader company blog, [^profound-kp3] Sequoia partnership article as independent co-lead confirmation) — all 3 primary sources verified via WebFetch. Lightspeed VP, Khosla Ventures, Saga Ventures, Evantic, and South Park Commons listed as participants."
+  processed: '2026-09-15'
 - slug: khosla-ventures
   type: firm
   reason: "Round monitoring 2026-09-15: Participated in Profound $180M Series D (2026-09-15)."
   added: 2026-09-15
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: "Fact-spec sweep 2026-09-15: added Profound Series D row to khosla-ventures.md portfolio table (participated; Sequoia Capital and Kleiner Perkins co-led at $180M/$1.8B post-money) with 3 named-footnote citations ([^profound-kv1] TechCrunch, [^profound-kv2] Cadwallader company blog, [^profound-kv3] Sequoia partnership article) — all 3 primary sources verified via WebFetch."
+  processed: '2026-09-15'
 - slug: general-catalyst
   type: firm
   reason: "Round monitoring 2026-09-15: Participated in Evvy $40M Series B (2026-09-15) led by Catalio Capital Management."
@@ -6267,15 +6287,31 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-15 (18:00 UTC cron): New lean profile for $180M Series D (2026-09-15) at $1.8B valuation, co-led by Sequoia Capital and Kleiner Perkins, with Lightspeed Venture Partners, Khosla Ventures, and South Park Commons. Sources: (1) TechCrunch; (2) Profound company blog (James Cadwallader post); (3) Sequoia Capital 'Partnering with Profound' page."
   added: 2026-09-15
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: "Fact-spec sweep 2026-09-15: duplicate of earlier profound entry (2026-09-15); resolved together in the same sweep. See sibling entry resolution_note for details."
+  processed: '2026-09-15'
 - slug: sequoia-capital
   type: firm
   reason: "Round monitoring 2026-09-15: co-led Profound Series D ($180M, 2026-09-15) — expected to be added to Sequoia portfolio table."
   added: 2026-09-15
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: "Fact-spec sweep 2026-09-15: duplicate of earlier sequoia-capital entry (2026-09-15); resolved together in the same sweep. See sibling entry resolution_note for details."
+  processed: '2026-09-15'
 - slug: kleiner-perkins
   type: firm
   reason: "Round monitoring 2026-09-15: co-led Profound Series D ($180M, 2026-09-15) — expected to be added to Kleiner Perkins portfolio table."
   added: 2026-09-15
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: "Fact-spec sweep 2026-09-15: duplicate of earlier kleiner-perkins entry (2026-09-15); resolved together in the same sweep. See sibling entry resolution_note for details."
+  processed: '2026-09-15'
 - slug: khosla-ventures
   type: firm
   reason: "Round monitoring 2026-09-15: participated in Profound Series D ($180M, 2026-09-15) — expected to be added to Khosla Ventures portfolio table."
   added: 2026-09-15
+  status: resolved
+  resolved: 2026-09-15
+  resolution_note: "Fact-spec sweep 2026-09-15: duplicate of earlier khosla-ventures entry (2026-09-15); resolved together in the same sweep. See sibling entry resolution_note for details."
+  processed: '2026-09-15'
