@@ -8547,3 +8547,35 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-16: participated in Integral Series A (€18M, 2026-09-16).'
   added: 2026-09-16
+- slug: implicity
+  type: startup
+  reason: 'Round monitoring 2026-09-16: New lean profile for €35M growth round (2026-09-09) led by IRIS with Five Arrows. Sources: (1) EU-Startups.'
+  added: 2026-09-16
+- slug: igii
+  type: startup
+  reason: 'Round monitoring 2026-09-16: New lean profile for £22.7M / €26.49M Series B (2026-09-16) led by Scottish National Investment Bank with PXN Ventures, Archangels, Scottish Enterprise. Sources: (1) EU-Startups; (2) iGii press release.'
+  added: 2026-09-16
+- slug: actionable
+  type: startup
+  reason: 'Round monitoring 2026-09-16: New lean profile for €8.5M Series A (2026-09-09) led by Hi Inov with Axeleo Capital. Sources: (1) EU-Startups.'
+  added: 2026-09-16
+- slug: zero-helsinki
+  type: startup
+  reason: 'Round monitoring 2026-09-16: New lean profile for €8.93M Seed (2026-09-15) led by Primary Venture Partners with Inception Fund, Defiant, Greens, 20VC. Sources: (1) EU-Startups; (2) Zero corporate site.'
+  added: 2026-09-16
+- slug: hope-care
+  type: startup
+  reason: 'Round monitoring 2026-09-16: New lean profile for €6M Series A (2026-09-08) led by Iberis Capital with VDM Capital, Buenavista Equity Partners. Sources: (1) EU-Startups; (2) Hope Care corporate site.'
+  added: 2026-09-16
+- slug: moonwalk-biosciences
+  type: startup
+  reason: 'Round monitoring 2026-09-16: New profile for $70M Series B (2026-09-08) co-led by Alpha Wave and YK Bioventures with Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures, Future Ventures. Sources: Business Wire, BioPharm International, Yahoo/NYSE.'
+  added: 2026-09-16
+- slug: khosla-ventures
+  type: firm
+  reason: 'Round monitoring 2026-09-16: participated in Moonwalk Biosciences Series B ($70M, 2026-09-08).'
+  added: 2026-09-16
+- slug: future-ventures
+  type: firm
+  reason: 'Round monitoring 2026-09-16: participated in Moonwalk Biosciences Series B ($70M, 2026-09-08).'
+  added: 2026-09-16

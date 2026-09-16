@@ -574,14 +574,6 @@ pending_rounds:
   parsed_amount: $450M
   parsed_round: Series C
   status: pending
-- title: Moonwalk Biosciences raised $70M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-09'
-  parsed_company: Moonwalk Biosciences
-  parsed_amount: $70M
-  parsed_round: Series B
-  status: pending
 - title: ARC Ride raised $33.3M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
