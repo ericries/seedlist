@@ -20,6 +20,33 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Berlin-based Integral raises €18 million to deliver AI-run accounting, tax
+    and payroll services to SMEs
+  url: https://www.eu-startups.com/2026/09/berlin-based-integral-raises-e18-million-to-deliver-ai-run-accounting-tax-and-payroll-services-to-smes/
+  source: eu-startups
+  date_found: '2026-09-16'
+  parsed_company: Berlin-based Integral
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Stirling-based iGii secures €26.5 million to commercialise its proprietary
+    carbon nanomaterial
+  url: https://www.eu-startups.com/2026/09/stirling-based-igii-secures-e26-5-million-to-commercialise-its-proprietary-carbon-nanomaterial/
+  source: eu-startups
+  date_found: '2026-09-16'
+  parsed_company: Stirling-based iGii
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Bucharest-based Veridion raises €17.5 million to scale its real-time map
+    of the world’s businesses
+  url: https://www.eu-startups.com/2026/09/bucharest-based-veridion-raises-e17-5-million-to-scale-its-real-time-map-of-the-worlds-businesses/
+  source: eu-startups
+  date_found: '2026-09-16'
+  parsed_company: Bucharest-based Veridion
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Tabby raised $233M Series F
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -824,32 +851,5 @@ pending_rounds:
   date_found: '2026-09-05'
   parsed_company: u003e of Israel
   parsed_amount: $250M
-  parsed_round: null
-  status: pending
-- title: Brookfield Announces Intention to Redeem its Class A Preference Shares, Series
-    51 and 52
-  url: https://www.globenewswire.com/news-release/2026/09/04/3356478/0/en/brookfield-announces-intention-to-redeem-its-class-a-preference-shares-series-51-and-52.html
-  source: globenewswire
-  date_found: '2026-09-04'
-  parsed_company: Brookfield
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s AI Score raises €4.6 million to help businesses keep AI agents under
-    control
-  url: https://www.eu-startups.com/2026/09/londons-ai-score-raises-e4-6-million-to-help-businesses-keep-ai-agents-under-control/
-  source: eu-startups
-  date_found: '2026-09-04'
-  parsed_company: London’s AI Score
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Spain’s iPronics raises €107.6 million with NVIDIA backing to scale optical
-    networking for AI data centres
-  url: https://www.eu-startups.com/2026/09/spains-ipronics-raises-e107-6-million-with-nvidia-backing-to-scale-optical-networking-for-ai-data-centres/
-  source: eu-startups
-  date_found: '2026-09-04'
-  parsed_company: Spain’s iPronics
-  parsed_amount: null
   parsed_round: null
   status: pending
