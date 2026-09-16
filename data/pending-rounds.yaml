@@ -47,6 +47,31 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/16/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-16-2026/
+  source: alleywatch
+  date_found: '2026-09-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: The August 2026 US Venture Capital Funding Report
+  url: https://alleywatch.com/2026/09/us-venture-capital-statistics-august-2026/
+  source: alleywatch
+  date_found: '2026-09-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: U.S. and U.K.-based Expanse raises €4.5 million for predictive AI infrastructure
+    platform
+  url: https://www.eu-startups.com/2026/09/u-s-and-u-k-based-expanse-raises-e4-5-million-for-predictive-ai-infrastructure-platform/
+  source: eu-startups
+  date_found: '2026-09-16'
+  parsed_company: U.S. and U.K.-based Expanse
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Tabby raised $233M Series F
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -824,14 +849,6 @@ pending_rounds:
   source: axios-pro-rata
   date_found: '2026-09-05'
   parsed_company: of Israel
-  parsed_amount: $250M
-  parsed_round: null
-  status: pending
-- title: u003e of Israel raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-05'
-  parsed_company: u003e of Israel
   parsed_amount: $250M
   parsed_round: null
   status: pending
