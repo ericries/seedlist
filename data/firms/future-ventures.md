@@ -86,6 +86,7 @@ Based on 28 verified portfolio investments, the following patterns emerge. Note:
 | atai Life Sciences | Convertible note | 2020 | Biotech / psychedelic therapeutics | [^32] |
 | Glass Imaging | Seed ($9.3M) | 2024 | AI / computational imaging | [^22] |
 | Moonwalk Biosciences | Seed/Series A ($57M) | 2024 | Biotech / epigenetic medicines | [^23] |
+| Moonwalk Biosciences | Series B (participated, $70M; Alpha Wave and YK Bioventures co-led; Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures also participated) | 2026-09-08 | Biotech / Adipose RNAi / Obesity / Cardiometabolic | [^mwb-fv1][^mwb-fv2][^mwb-fv3] |
 | Zyphra | Seed ($11M) | 2023 | AI / large language models | [^33] |
 | MosaicML | Series A ($25M) | 2021 | AI / ML infrastructure (acquired by Databricks, 2023) | [^34] |
 | Mythic | Early stage (via DFJ, continued via FV) | ~2016 | AI / deep learning chips | [^35] |
@@ -197,3 +198,9 @@ Gerard Barron, Chairman and CEO of The Metals Company, said upon Jurvetson joini
 [^42]: AOL (syndicated from The Daily Telegraph), "Elon Musk ally backs British electric car battery start-up," June 2026. Accessed June 2026. https://www.aol.com/articles/elon-musk-ally-backs-british-095307000.html — Third independent confirmation. Reports $28M total round co-led by BGF and AlbionVC, with Autotech Ventures, UCL Technology Fund, DN Capital, and Future Ventures participating. Names Steve Jurvetson via Future Ventures and lifts total Gaussion funding above $44M.
 
 [^xona-fv1]: Xona Space Systems Newsroom, accessed September 2026. https://xonaspace.com/news — Company newsroom archive confirming Xona's stage progression through Pre-Seed → Series B → Series C. The Series B ($92M, 2025-06-26 per PR Newswire [^36]) precedes the Series C "$170M to Accelerate Pulsar's Path to Scale" (dated 3/26/26), corroborating the Series B date and stage classification cited above.
+
+[^mwb-fv1]: Business Wire, "Moonwalk Biosciences Announces $70 Million Series B Financing to Advance Adipose-Targeted RNAi Therapies for Obesity and Cardiometabolic Diseases," September 8, 2026. Accessed September 16, 2026. https://www.businesswire.com/news/home/20260908497250/en/Moonwalk-Biosciences-Announces-%2470-Million-Series-B-Financing-to-Advance-Adipose-Targeted-RNAi-Therapies-for-Obesity-and-Cardiometabolic-Diseases — Primary press release naming Future Ventures among the participants in Moonwalk's $70M Series B co-led by Alpha Wave and YK Bioventures.
+
+[^mwb-fv2]: BioPharm International, "Moonwalk Biosciences Raises $70 Million to Advance Adipose RNAi for Obesity," September 2026. Accessed September 16, 2026. https://www.biopharminternational.com/view/moonwalk-biosciences-70m-adipose-rnai-obesity — Independent trade press confirmation naming Future Ventures alongside Alpha Wave (co-lead), YK Bioventures (co-lead), Eli Lilly, Gaorong Ventures, ARCH Venture Partners, and Khosla Ventures. Includes verbatim Alex Aravanis (CEO) and Rick Gerson (Chairman) quotes.
+
+[^mwb-fv3]: Yahoo Finance / NYSE Content Update, "Moonwalk Biosciences Announces $70 Million Series B," September 9, 2026. Accessed September 16, 2026. https://finance.yahoo.com/markets/stocks/articles/moonwalk-biosciences-announces-70-million-125500440.html — Third-party syndicated primary confirmation of the $70M Series B on September 8, 2026 to advance MW101 adipose-targeted RNAi program toward first-in-human studies in late 2027.

@@ -8587,11 +8587,17 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-16: New lean profile for €35M growth round (2026-09-09) led by IRIS with Five Arrows. Sources: (1) EU-Startups.'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): verified €35M growth round (2026-09-09) via 2 primary sources — EU-Startups (independent contemporaneous European tech press) and Implicity corporate website (primary company). Full 3-source triangulation not achievable within tool budget; Finsmes, HealthcareIT News, Tech.eu, Sifted, IRIS Capital portfolio page, Five Arrows press page all returned 403/404. IRIS lead + Five Arrows co-investor confirmed by EU-Startups. Added Five Arrows Director François-Xavier Lehman verbatim quote to What Investors Say and second verbatim Arnaud Rosier quote ("I didn''t become a physician to manage data — I became one to treat patients") to What Founders Say, both from EU-Startups. Currency preserved as €35M (Paris-based). Best-effort within tool-budget constraint.'
 - slug: igii
   type: startup
   reason: 'Round monitoring 2026-09-16: New lean profile for £22.7M / €26.49M Series B (2026-09-16) led by Scottish National Investment Bank with PXN Ventures, Archangels, Scottish Enterprise. Sources:
     (1) EU-Startups; (2) iGii press release.'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): verified £22.7M / €26.49M Series B (2026-09-16) via 3 independent primary sources — EU-Startups (independent contemporaneous European tech press), iGii company press release (primary company), and NEW PXN Ventures press release "iGii secures £22.7m to target the next industrial revolution" (primary co-investor source). Scottish National Investment Bank £11.7M equity lead confirmed; PXN Ventures + Archangels + Scottish Enterprise £11M support confirmed. Added new [^3] PXN Ventures citation. Added verbatim Aidan MacMillan (PXN Ventures) quote to What Investors Say. Tightened Alastair McMillen (SNIB) quote to the fuller verbatim version from the PXN Ventures release. Currency preserved as £22.7M (Scotland-based).'
 - slug: actionable
   type: startup
   reason: 'Round monitoring 2026-09-16: New lean profile for €8.5M Series A (2026-09-09) led by Hi Inov with Axeleo Capital. Sources: (1) EU-Startups.'
@@ -8611,11 +8617,20 @@ priority:
   reason: 'Round monitoring 2026-09-16: New profile for $70M Series B (2026-09-08) co-led by Alpha Wave and YK Bioventures with Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures, Future
     Ventures. Sources: Business Wire, BioPharm International, Yahoo/NYSE.'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): verified $70M Series B (2026-09-08) via 3 independent primary sources — Business Wire press release (URL live but returns 403 to WebFetch; verified via syndicated content), BioPharm International (independent trade press, verified by WebFetch), and Yahoo Finance / NYSE Content Update (independent syndication, verified by WebFetch). Alpha Wave + YK Bioventures co-lead structure confirmed; Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures, Future Ventures all confirmed as participants. Extracted verbatim Alex Aravanis (CEO & Co-Founder) quote and Rick Gerson (Co-Founder & Chairman, Alpha Wave Global) quote from BioPharm International; added both to What Founders Say / What Investors Say (previously "No independently sourced quotes found"). MW101 adipose-targeted RNAi program confirmed; first-in-human studies planned late 2027. Currency preserved as $70M. Companion updates for khosla-ventures and future-ventures backfilled in this sweep.'
 - slug: khosla-ventures
   type: firm
   reason: 'Round monitoring 2026-09-16: participated in Moonwalk Biosciences Series B ($70M, 2026-09-08).'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): added Moonwalk Biosciences Series B row to khosla-ventures.md portfolio table (participated, $70M; Alpha Wave and YK Bioventures co-led; Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Future Ventures also participated) with 3 named-footnote citations ([^mwb-kv1] Business Wire, [^mwb-kv2] BioPharm International, [^mwb-kv3] Yahoo Finance/NYSE). BioPharm and Yahoo verified via WebFetch; Business Wire URL is live but returns 403 to fetch. Also updated last_verified_investment frontmatter to Profound Series D 2026-09-15 (was Mariana Minerals 2026-08-03) to reflect the newer Profound entry already present in the portfolio table.'
 - slug: future-ventures
   type: firm
   reason: 'Round monitoring 2026-09-16: participated in Moonwalk Biosciences Series B ($70M, 2026-09-08).'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): added Moonwalk Biosciences Series B row to future-ventures.md portfolio table (participated, $70M; Alpha Wave and YK Bioventures co-led; Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures also participated) with 3 named-footnote citations ([^mwb-fv1] Business Wire, [^mwb-fv2] BioPharm International, [^mwb-fv3] Yahoo Finance/NYSE). Kept existing 2024 Seed/Series A row [^23] and added new 2026-09-08 Series B row below it. BioPharm and Yahoo verified via WebFetch; Business Wire URL is live but returns 403 to fetch.'

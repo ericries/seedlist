@@ -5,9 +5,9 @@ fund_size: $1.6B (Fund VIII, 2023); $500M (Seed Fund, 2023); $900M (Growth Fund,
   seeking $3.5B across three funds (2025)
 last_researched: 2026-04-30
 last_verified_investment:
-  company: Mariana Minerals
-  date: 2026-08-03
-  round: Series B
+  company: Profound
+  date: 2026-09-15
+  round: Series D
 location: Menlo Park, CA
 name: Khosla Ventures
 sector_focus:
@@ -222,6 +222,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 | Dili | Series A (led, $15M; total funding to $21.7M including prior $6.7M seed; Allianz, Rebel Fund, Brick and Mortar Ventures (Darren Bechtel), Y Combinator (Garry Tan) participated) | 2026-07-30 | AI / Compliance / Infrastructure / RegTech | Private [^dili1][^dili2][^dili3] |
 | Othello | Seed (participated, $6.85M; Khosla Ventures, Koro Capital, Long Journey Ventures, M13, Rebel Fund, Y Combinator, Baselayer and 28 additional investors; 35 investors total per SEC Form D; Jared Zelman founder/CEO) | 2026-08-03 | AI / Sales Tech / Enterprise Software | Private [^oth1][^oth2] |
 | Profound | Series D (participated; Sequoia Capital and Kleiner Perkins co-led at $180M/$1.8B post-money) | 2026-09-15 | AI / Marketing / Answer Engine Optimization (AEO) | Private (Lightspeed Venture Partners, Saga Ventures, Evantic, and South Park Commons also participated; 1,000+ enterprise customers including Comcast, Estée Lauder, Walmart) [^profound-kv1][^profound-kv2][^profound-kv3] |
+| Moonwalk Biosciences | Series B (participated, $70M; Alpha Wave and YK Bioventures co-led; Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Future Ventures also participated) | 2026-09-08 | Biotech / Adipose RNAi / Obesity / Cardiometabolic | Private [^mwb-kv1][^mwb-kv2][^mwb-kv3] |
 
 *Note: This table includes 72 of the approximately 163 companies listed on Khosla Ventures' portfolio page, focusing on the most notable and well-sourced entries. Investment years use the company's founding year as a proxy where the specific investment date is unknown, marked with "~YYYY (founded)". Khosla Ventures has invested in approximately 710 companies total per Crunchbase [^10]; this table represents approximately 9% of the full portfolio.*
 
@@ -507,3 +508,9 @@ The following table includes companies from the Khosla Ventures portfolio page [
 [^profound-kv2]: James Cadwallader, "Building the AI platform for marketing" (Profound Series D announcement), Profound company blog, September 16, 2026. Accessed September 15, 2026. https://tryprofound.com/blog/series-d — Primary company source authored by Profound's Co-Founder & CEO listing Khosla Ventures among the Series D participants alongside Lightspeed Venture Partners, Saga Ventures, Evantic, and South Park Commons.
 
 [^profound-kv3]: Anas Biad, Brian Halligan, and Alfred Lin, "Partnering with Profound: Winning on the AI Stage," Sequoia Capital, September 15, 2026. Accessed September 15, 2026. https://www.sequoiacap.com/article/partnering-with-profound-winning-on-the-ai-stage — Primary co-lead-investor announcement that independently confirms the Series D participant set including Khosla Ventures.
+
+[^mwb-kv1]: Business Wire, "Moonwalk Biosciences Announces $70 Million Series B Financing to Advance Adipose-Targeted RNAi Therapies for Obesity and Cardiometabolic Diseases," September 8, 2026. Accessed September 16, 2026. https://www.businesswire.com/news/home/20260908497250/en/Moonwalk-Biosciences-Announces-%2470-Million-Series-B-Financing-to-Advance-Adipose-Targeted-RNAi-Therapies-for-Obesity-and-Cardiometabolic-Diseases — Primary press release naming Khosla Ventures among the participants in Moonwalk's $70M Series B co-led by Alpha Wave and YK Bioventures.
+
+[^mwb-kv2]: BioPharm International, "Moonwalk Biosciences Raises $70 Million to Advance Adipose RNAi for Obesity," September 2026. Accessed September 16, 2026. https://www.biopharminternational.com/view/moonwalk-biosciences-70m-adipose-rnai-obesity — Independent trade press confirmation naming Khosla Ventures alongside Alpha Wave (co-lead), YK Bioventures (co-lead), Eli Lilly, Gaorong Ventures, ARCH Venture Partners, and Future Ventures. Includes verbatim Alex Aravanis (CEO) and Rick Gerson (Chairman) quotes.
+
+[^mwb-kv3]: Yahoo Finance / NYSE Content Update, "Moonwalk Biosciences Announces $70 Million Series B," September 9, 2026. Accessed September 16, 2026. https://finance.yahoo.com/markets/stocks/articles/moonwalk-biosciences-announces-70-million-125500440.html — Third-party syndicated primary confirmation of the $70M Series B on September 8, 2026 to advance MW101 adipose-targeted RNAi program toward first-in-human studies in late 2027.
