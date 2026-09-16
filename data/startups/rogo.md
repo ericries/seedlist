@@ -75,7 +75,7 @@ Rogo is a New York-based agentic AI platform built for financial services, used 
 | 2026-04-29 | Series D | $160M | Kleiner Perkins | Sequoia Capital, Thrive Capital, Khosla Ventures, J.P. Morgan Growth Equity Partners, BoxGroup, Mantis VC, Jack Altman, Evantic, Positive Sum [^1][^2] |
 | 2026-09-10 | Strategic | $30M | — | Barclays, Opera Tech Ventures, Citi Ventures, MUFG Innovation Partners, Societe Generale, Joshua Easterly [^6][^7] |
 
-The September 2026 strategic financing came from a consortium of global banks alongside prior backers J.P. Morgan Growth Equity Partners and Truist Ventures, bringing total funding to $344M and funding EMEA and APAC expansion [^7].
+The September 2026 strategic financing came from a consortium of nine global banks — collectively representing nearly $20 trillion in assets — alongside prior backers J.P. Morgan Growth Equity Partners and Truist Ventures, bringing total funding to $344M and funding EMEA and APAC expansion [^7].
 
 ## What Investors Say
 
@@ -83,7 +83,9 @@ No independently sourced investor quotes found for this round.
 
 ## What Founders Say
 
-No independently sourced founder quotes found for this round.
+> "AI for this industry has shifted from experiment to infrastructure, and the industry has found a strong partner."
+
+— Gabe Stengel, CEO and Co-Founder of Rogo, in the company's strategic-investors announcement [^7].
 
 ## Sources
 

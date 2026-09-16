@@ -42,15 +42,15 @@ Tandem Health is a Stockholm-based clinical AI company building what it calls an
 
 ## What Investors Say
 
-> "Tandem has the potential to become a foundational AI layer for European healthcare over coming decades."
+> "Tandem is one of the few healthcare technology companies to demonstrate it can scale in a pan-European way... We believe Tandem has the potential to become the foundational AI layer for European healthcare."
 
-— Nils Petter Nygaard, Managing Director at EQT, in the Tandem Health $100M Series B announcement [^1].
+— Nils Petter Nygaard, Managing Director at EQT and the Scaleup Europe Fund, in the Tandem Health $100M Series B announcement [^1][^3].
 
 ## What Founders Say
 
-> "Europe should be setting the standard for how AI enters healthcare, not adopting someone else's."
+> "Europe's health systems are under real strain and AI presents a real solution... This funding lets us do that, bringing healthcare safely into the AI era."
 
-— Lukas Saari, CEO and Co-Founder of Tandem Health, in the company's $100M Series B announcement [^1].
+— Lukas Saari, CEO and Co-Founder of Tandem Health, in the company's $100M Series B announcement [^1][^3].
 
 ## Sources
 
