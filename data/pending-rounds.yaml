@@ -114,15 +114,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
-- title: Exein reaches Unicorn status as it faces 5,000 attacks weekly and raises
-    €234 million for Physical AI cybersecurity
-  url: https://www.eu-startups.com/2026/09/facing-5000-new-attacks-weekly-italys-exein-raises-e234-million-for-physical-ai-cybersecurity/
-  source: eu-startups
-  date_found: '2026-09-15'
-  parsed_company: Exein reaches Unicorn status as it faces 5,000 attacks weekly and
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Magnitude Biosciences secures €1.5 million investment to scale in-vivo drug
     discovery platform
   url: https://www.eu-startups.com/2026/09/magnitude-biosciences-secures-e1-5-million-investment-to-scale-in-vivo-drug-discovery-platform/
@@ -176,15 +167,6 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Series A
-  status: pending
-- title: Evvy raises $40M as it seeks to further women’s health research with vaginal
-    microbiome data
-  url: https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/
-  source: techcrunch
-  date_found: '2026-09-15'
-  parsed_company: Evvy
-  parsed_amount: $40M
-  parsed_round: null
   status: pending
 - title: 'The AlleyWatch Startup Daily Funding Report: 9/15/2026'
   url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-15-2026/

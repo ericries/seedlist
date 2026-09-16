@@ -6320,3 +6320,40 @@ priority:
   resolved: 2026-09-15
   resolution_note: 'Fact-spec sweep 2026-09-15: duplicate of earlier khosla-ventures entry (2026-09-15); resolved together in the same sweep. See sibling entry resolution_note for details.'
   processed: '2026-09-15'
+- slug: nathan-benaich
+  type: investor
+  reason: "Round monitoring 2026-09-16: Air Street Capital led Jack & Jill Series A (€34.68M, 2026-09-15)."
+  added: 2026-09-16
+- slug: madrona-venture-group
+  type: firm
+  reason: "Round monitoring 2026-09-16: participated in Jack & Jill Series A (€34.68M, 2026-09-15)."
+  added: 2026-09-16
+- slug: creandum
+  type: firm
+  reason: "Round monitoring 2026-09-16: participated in Jack & Jill Series A (€34.68M, 2026-09-15)."
+  added: 2026-09-16
+- slug: balderton-capital
+  type: firm
+  reason: "Round monitoring 2026-09-16: participated in Exein €234M growth round (2026-09-15, €1.4B valuation)."
+  added: 2026-09-16
+
+- slug: nathan-benaich
+  type: investor
+  reason: 'Round monitoring 2026-09-16: led Jack & Jill Series A (€34.68M/$40M, 2026-09-15) via Air Street Capital.'
+  added: 2026-09-16
+- slug: madrona-venture-group
+  type: firm
+  reason: 'Round monitoring 2026-09-16: participated in Jack & Jill Series A (€34.68M, 2026-09-15).'
+  added: 2026-09-16
+- slug: creandum
+  type: firm
+  reason: 'Round monitoring 2026-09-16: participated in Jack & Jill Series A (€34.68M, 2026-09-15).'
+  added: 2026-09-16
+- slug: reid-hoffman
+  type: investor
+  reason: 'Round monitoring 2026-09-16: co-led Integral Series A (€18M, 2026-09-16) alongside Mosaic Ventures.'
+  added: 2026-09-16
+- slug: general-catalyst
+  type: firm
+  reason: 'Round monitoring 2026-09-16: participated in Integral Series A (€18M, 2026-09-16).'
+  added: 2026-09-16

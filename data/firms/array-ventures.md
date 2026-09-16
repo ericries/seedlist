@@ -96,6 +96,8 @@ Based on Array's publicly listed portfolio of approximately 52 active investment
 | Cast | Pre-seed | ~2020s | Enterprise SaaS | [^1] |
 | Modal | Pre-seed | ~2020s | Infrastructure | [^7] |
 | Rad AI | Pre-seed | ~2020s | Healthcare AI | [^1] |
+| Sapiom | Seed (participant, $15.75M; Accel led — Ilan Zerbib's AI-agent infrastructure company) | 2026-02-06 | AI / Agent Infrastructure / Developer Tools | [^sapiom-av1][^sapiom-av2][^sapiom-av3] |
+| Sapiom | Series A (participant, $35M; Dragonfly led with Haseeb Qureshi; Accel, Menlo Ventures, Anthropic, Gradient, Coinbase Ventures, Operator Collective, Formus Capital, VanEck Ventures, Okta Ventures also participating; $50M total funding) | 2026-08-05 | AI / Agent Infrastructure / Developer Tools | [^sapiom-av1][^sapiom-av2][^sapiom-av3] |
 
 Note: This table represents approximately 16 of Array's 100+ total investments. Many investment dates are approximate because specific round dates are not publicly disclosed for most pre-seed investments. The firm's website lists 52 active portfolio companies as of March 2026 [^1]. Array has also achieved 2 unicorns (Placer.ai and Solugen) [^7].
 
