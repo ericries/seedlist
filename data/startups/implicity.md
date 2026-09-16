@@ -32,11 +32,13 @@ On September 9, 2026, Implicity announced a €35 million funding round led by I
 
 ## What Investors Say
 
-No independently sourced investor quotes found in this round's coverage.
+François-Xavier Lehman (Director, Five Arrows): "Implicity is a rare company where clinical superiority, regulatory credibility and genuine patient impact come together at scale." [^1]
 
 ## What Founders Say
 
 Arnaud Rosier (Co-Founder & CEO): "This funding lets us care for patients at scale, catching the information through the noise to provide the best possible care." [^1]
+
+Arnaud Rosier (Co-Founder & CEO): "I didn't become a physician to manage data — I became one to treat patients." [^1]
 
 ## Sources
 

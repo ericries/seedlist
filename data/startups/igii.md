@@ -28,19 +28,22 @@ On September 16, 2026, iGii announced a £22.7 million (approximately €26.49 m
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-09-16 | Series B | £22.7M | Scottish National Investment Bank | PXN Ventures, Archangels, Scottish Enterprise [^1][^2] |
+| 2026-09-16 | Series B | £22.7M | Scottish National Investment Bank | PXN Ventures, Archangels, Scottish Enterprise [^1][^2][^3] |
 
 ## What Investors Say
 
-Alastair McMillen (Scottish National Investment Bank): "The capital that iGii has attracted is a strong indicator of the exciting potential for its Gii technology." [^2]
+Alastair McMillen (Scottish National Investment Bank): "The Bank is delighted to continue to support the growth of iGii alongside our co-investors PXN Ventures and Archangels." [^3]
 
-Adrian Gillespie (Scottish Enterprise): "Deep tech companies often require long-term backing to bridge the gap between breakthrough research and commercial success." [^2]
+Adrian Gillespie (Scottish Enterprise): "iGii's technology is an exciting, sustainable and scalable alternative to constrained raw materials." [^2][^3]
+
+Aidan MacMillan (PXN Ventures): "iGii is exactly the kind of business PXN exists to back — deep, patient science that's reached the point of real commercial traction." [^3]
 
 ## What Founders Say
 
-Jean-Christophe Granier (CEO): "Every industrial revolution has been enabled by a breakthrough in materials, and this funding means iGii can help enable the next one." [^1][^2]
+Jean-Christophe Granier (CEO): "Every industrial revolution has been enabled by a breakthrough in materials, and this funding means iGii can help enable the next one." [^1][^2][^3]
 
 ## Sources
 
 [^1]: EU-Startups, "Stirling-based iGii secures €26.5 million to commercialise its proprietary carbon nanomaterial," September 16, 2026. Accessed September 16, 2026. https://www.eu-startups.com/2026/09/stirling-based-igii-secures-e26-5-million-to-commercialise-its-proprietary-carbon-nanomaterial/
 [^2]: iGii, "iGii announces £22.7m package to accelerate the industrial adoption of Gii," September 16, 2026. Accessed September 16, 2026. https://igii.uk/news/22-7m-package-industrial-adoption-gii/
+[^3]: PXN Ventures, "iGii secures £22.7m to target the next industrial revolution," September 16, 2026. Accessed September 16, 2026. https://www.pxnventures.co.uk/igii-secures-22-7m-to-target-the-next-industrial-revolution/

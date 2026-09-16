@@ -38,14 +38,14 @@ Moonwalk Biosciences is a biotechnology company developing adipose-targeted siRN
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+Rick Gerson (Co-Founder & Chairman, Alpha Wave Global): "Obesity is one of the most significant global health challenges, and Moonwalk is pursuing a fundamentally different approach to treating it. By targeting adipose tissue directly, Moonwalk may redefine how obesity is treated by delivering therapies with the potential for durable efficacy, lean muscle preservation and infrequent dosing." [^2]
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+Alex Aravanis (CEO & Co-Founder): "Obesity places an extraordinary physical and emotional burden on millions of people. This financing brings us closer to developing a new generation of adipose-targeted medicines designed to improve outcomes for people living with obesity and related cardiometabolic diseases." [^2]
 
 ## Sources
 
-[^1]: Business Wire, "Moonwalk Biosciences Announces $70 Million Series B Financing to Advance Adipose-Targeted RNAi Therapies for Obesity and Cardiometabolic Diseases," September 8, 2026, accessed September 16, 2026. https://www.businesswire.com/news/home/20260908497250/en/Moonwalk-Biosciences-Announces-%2470-Million-Series-B-Financing-to-Advance-Adipose-Targeted-RNAi-Therapies-for-Obesity-and-Cardiometabolic-Diseases
-[^2]: BioPharm International, "Moonwalk Biosciences Raises $70 Million to Advance Adipose RNAi for Obesity," September 2026, accessed September 16, 2026. https://www.biopharminternational.com/view/moonwalk-biosciences-70m-adipose-rnai-obesity
-[^3]: Yahoo Finance / NYSE Content Update, "Moonwalk Biosciences Announces $70 Million Series B," September 9, 2026, accessed September 16, 2026. https://finance.yahoo.com/markets/stocks/articles/moonwalk-biosciences-announces-70-million-125500440.html
+[^1]: Business Wire, "Moonwalk Biosciences Announces $70 Million Series B Financing to Advance Adipose-Targeted RNAi Therapies for Obesity and Cardiometabolic Diseases," September 8, 2026. Accessed September 16, 2026. https://www.businesswire.com/news/home/20260908497250/en/Moonwalk-Biosciences-Announces-%2470-Million-Series-B-Financing-to-Advance-Adipose-Targeted-RNAi-Therapies-for-Obesity-and-Cardiometabolic-Diseases
+[^2]: BioPharm International, "Moonwalk Biosciences Raises $70 Million to Advance Adipose RNAi for Obesity," September 2026. Accessed September 16, 2026. https://www.biopharminternational.com/view/moonwalk-biosciences-70m-adipose-rnai-obesity
+[^3]: Yahoo Finance / NYSE Content Update, "Moonwalk Biosciences Announces $70 Million Series B," September 9, 2026. Accessed September 16, 2026. https://finance.yahoo.com/markets/stocks/articles/moonwalk-biosciences-announces-70-million-125500440.html

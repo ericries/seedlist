@@ -132,7 +132,7 @@ Based on 31 verified investments from Rajaram's angel portfolio (a subset of 300
 | Straiker | Series A (Marathon-led; Rajaram joined board) | 2026-06-29 | AI/Cybersecurity | PR Newswire [^15]; Tech Startups [^16] |
 | Katalyze AI | Seed (angel participant; Bonfire Ventures-led, $10.5M; participated alongside Inovia Capital, Ripple Ventures, Alumni Ventures, and angel Farzad Soleimani) | 2026-07-06 | AI/Agentic AI/Pharma | WebWire [^17]; BetaKit [^18]; FinSMEs [^19] |
 | Turbo Law | Seed (angel participant; Revo Capital-led, $3.8M; participated alongside Treeo VC, BridgeX Ventures, Alchemist Accelerator) | 2026-06-18 | AI/Legal Tech | Tech.eu [^20]; Global Legal Post [^21]; The SaaS News [^22] |
-| Naïve | Series A (angel participant; Nexus Venture Partners-led, $28.5M; participated alongside Y Combinator, Zetta, Liquid 2) | 2026-08-06 | AI/Agent Infrastructure | TechCrunch [^23]; WebWire [^24] |
+| Naïve | Series A (angel participant; Nexus Venture Partners-led, $28.5M; participated alongside Y Combinator, Zetta, Liquid 2) | 2026-08-06 | AI/Agent Infrastructure | TechCrunch [^23]; WebWire [^24]; FinSMEs [^25] |
 
 *This table represents a subset of Rajaram's 300+ angel investments and Marathon fund investments. Only 37 of 300+ investments are listed; many others are unverified or undisclosed [^1][^2].*
 
@@ -183,3 +183,5 @@ Based on 31 verified investments from Rajaram's angel portfolio (a subset of 300
 [^23]: TechCrunch, "Naïve raises $28.5M to automate the grunt work of setting up and running a company," August 6, 2026. Accessed August 2026. https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
 
 [^24]: WebWire, "Naïve Raises $28.5M Series A to Build Autonomous Company Infrastructure," August 6, 2026. Accessed August 2026. https://www.webwire.com/ViewPressRel.asp?aId=358555
+
+[^25]: FinSMEs, "Naive Raises $28.5M in Series A Funding," August 7, 2026. Accessed September 2026. https://www.finsmes.com/2026/08/naive-raises-28-5m-in-series-a-funding.html — Third independent industry-press confirmation of the Nexus Venture Partners-led $28.5M Series A, explicitly naming Gokul Rajaram among angel participants alongside Tim Zheng, JD Sherman, Gert Lanckriet, Robert Chatwani, and Zachary Sims.

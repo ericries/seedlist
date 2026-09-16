@@ -38,7 +38,7 @@ Naïve is a Palo Alto–based AI infrastructure company building the unified API
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-08-06 | Series A | $28.5M | Nexus Venture Partners | Y Combinator, Zetta, Liquid 2, Gokul Rajaram, Tim Zheng, JD Sherman, Gert Lanckriet, Robert Chatwani, Zachary Sims [^1][^2][^3] |
+| 2026-08-06 | Series A | $28.5M | Nexus Venture Partners | Y Combinator, Zetta, Liquid 2, Gokul Rajaram, Tim Zheng, JD Sherman, Gert Lanckriet, Robert Chatwani, Zachary Sims [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -53,3 +53,4 @@ Naïve is a Palo Alto–based AI infrastructure company building the unified API
 [^1]: TechCrunch, "Naïve raises $28.5M to automate the grunt work of setting up and running a company," August 6, 2026, accessed August 2026. https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
 [^2]: WebWire, "Naïve Raises $28.5M Series A to Build Autonomous Company Infrastructure," August 6, 2026, accessed August 2026. https://www.webwire.com/ViewPressRel.asp?aId=358555
 [^3]: Y Combinator, "Naïve: Unified Agent Infrastructure," accessed August 2026. https://www.ycombinator.com/companies/naive
+[^4]: FinSMEs, "Naive Raises $28.5M in Series A Funding," August 7, 2026, accessed September 2026. https://www.finsmes.com/2026/08/naive-raises-28-5m-in-series-a-funding.html

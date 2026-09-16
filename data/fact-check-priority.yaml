@@ -6840,10 +6840,22 @@ priority:
   type: investor
   reason: appeared in Naïve Series A (2026-08-06), $28.5M
   added: 2026-08-06
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: verified Naïve Series A participation via 3+ independent primary sources: TechCrunch [^23] (tier-1 tech press), WebWire [^24] (primary company press release),
+    and NEW FinSMEs [^25] (industry press). All three explicitly name Gokul Rajaram among angel participants in the Nexus Venture Partners-led $28.5M Series A (2026-08-06). Y Combinator and firms Zetta
+    and Liquid 2 also confirmed as participants. 1 new citation added ([^25]).'
+  processed: '2026-09-16'
 - slug: y-combinator
   type: firm
   reason: appeared in Naïve Series A (2026-08-06), $28.5M
   added: 2026-08-06
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: added Naïve portfolio row (Series A $28.5M 2026-08-06, Nexus Venture Partners-led; YC participated as existing investor from Spring 2025 batch alongside Zetta,
+    Liquid 2, and angels Gokul Rajaram, Tim Zheng, JD Sherman, Gert Lanckriet, Robert Chatwani, Zachary Sims) with 3 named-footnote citations: [^naive-yc1] TechCrunch, [^naive-yc2] WebWire (Naïve primary
+    company press release), [^naive-yc3] FinSMEs. All 3 primary sources verified via WebFetch.'
+  processed: '2026-09-16'
 - slug: yashish-dahiya
   type: investor
   reason: appeared in Hulp Seed (2026-08-05), $2.6M
@@ -6852,6 +6864,12 @@ priority:
   type: firm
   reason: co-led Hadrian Series D extension $1.37B at $7.87B valuation (2026-08-06)
   added: 2026-08-06
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: added Hadrian Series D extension portfolio row (2026-08-06, $1.37B at $7.87B post-money — Valor co-led alongside WCM Investment Management, Washington Harbour
+    Partners, 137 Ventures, Baillie Gifford, JPMorganChase SIG) with 4 named-footnote citations: [^hadrian-v1] Hadrian PR Newswire company press release (primary company source), [^hadrian-v2] TechCrunch
+    (tier-1 tech press), [^hadrian-v3] Bloomberg (tier-1 financial press), [^hadrian-v4] Washington Technology (defense-industry press). All 4 primary sources verified.'
+  processed: '2026-09-16'
 - slug: altimeter-capital
   type: firm
   reason: participated in Hadrian Series D extension $1.37B (2026-08-06)
@@ -6980,6 +6998,12 @@ priority:
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: added Naïve portfolio row (Series A $28.5M 2026-08-06, Nexus Venture Partners-led; YC participated as existing investor from Spring 2025 batch alongside Zetta,
+    Liquid 2, and angels Gokul Rajaram, Tim Zheng, JD Sherman, Gert Lanckriet, Robert Chatwani, Zachary Sims) with 3 named-footnote citations: [^naive-yc1] TechCrunch, [^naive-yc2] WebWire (Naïve primary
+    company press release), [^naive-yc3] FinSMEs. All 3 primary sources verified via WebFetch.'
+  processed: '2026-09-16'
 - slug: capitalg
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
@@ -7212,6 +7236,12 @@ priority:
   type: firm
   reason: appeared in Adaptyv Series A (2026-08-26)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: added Naïve portfolio row (Series A $28.5M 2026-08-06, Nexus Venture Partners-led; YC participated as existing investor from Spring 2025 batch alongside Zetta,
+    Liquid 2, and angels Gokul Rajaram, Tim Zheng, JD Sherman, Gert Lanckriet, Robert Chatwani, Zachary Sims) with 3 named-footnote citations: [^naive-yc1] TechCrunch, [^naive-yc2] WebWire (Naïve primary
+    company press release), [^naive-yc3] FinSMEs. All 3 primary sources verified via WebFetch.'
+  processed: '2026-09-16'
 - slug: retro-app
   type: startup
   reason: new profile from round monitoring (Series A, 2026-08-28)
@@ -8132,6 +8162,12 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-11: appeared in Positron AI Series C ($875M, 2026-09-10, co-lead).'
   added: 2026-09-11
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: added Hadrian Series D extension portfolio row (2026-08-06, $1.37B at $7.87B post-money — Valor co-led alongside WCM Investment Management, Washington Harbour
+    Partners, 137 Ventures, Baillie Gifford, JPMorganChase SIG) with 4 named-footnote citations: [^hadrian-v1] Hadrian PR Newswire company press release (primary company source), [^hadrian-v2] TechCrunch
+    (tier-1 tech press), [^hadrian-v3] Bloomberg (tier-1 financial press), [^hadrian-v4] Washington Technology (defense-industry press). All 4 primary sources verified.'
+  processed: '2026-09-16'
 - slug: maverick-ventures
   type: firm
   reason: 'Round monitoring 2026-09-11: appeared in TwoStep Therapeutics Series A ($62.5M, 2026-09-09).'
@@ -8553,7 +8589,8 @@ priority:
   added: 2026-09-16
 - slug: igii
   type: startup
-  reason: 'Round monitoring 2026-09-16: New lean profile for £22.7M / €26.49M Series B (2026-09-16) led by Scottish National Investment Bank with PXN Ventures, Archangels, Scottish Enterprise. Sources: (1) EU-Startups; (2) iGii press release.'
+  reason: 'Round monitoring 2026-09-16: New lean profile for £22.7M / €26.49M Series B (2026-09-16) led by Scottish National Investment Bank with PXN Ventures, Archangels, Scottish Enterprise. Sources:
+    (1) EU-Startups; (2) iGii press release.'
   added: 2026-09-16
 - slug: actionable
   type: startup
@@ -8561,15 +8598,18 @@ priority:
   added: 2026-09-16
 - slug: zero-helsinki
   type: startup
-  reason: 'Round monitoring 2026-09-16: New lean profile for €8.93M Seed (2026-09-15) led by Primary Venture Partners with Inception Fund, Defiant, Greens, 20VC. Sources: (1) EU-Startups; (2) Zero corporate site.'
+  reason: 'Round monitoring 2026-09-16: New lean profile for €8.93M Seed (2026-09-15) led by Primary Venture Partners with Inception Fund, Defiant, Greens, 20VC. Sources: (1) EU-Startups; (2) Zero corporate
+    site.'
   added: 2026-09-16
 - slug: hope-care
   type: startup
-  reason: 'Round monitoring 2026-09-16: New lean profile for €6M Series A (2026-09-08) led by Iberis Capital with VDM Capital, Buenavista Equity Partners. Sources: (1) EU-Startups; (2) Hope Care corporate site.'
+  reason: 'Round monitoring 2026-09-16: New lean profile for €6M Series A (2026-09-08) led by Iberis Capital with VDM Capital, Buenavista Equity Partners. Sources: (1) EU-Startups; (2) Hope Care corporate
+    site.'
   added: 2026-09-16
 - slug: moonwalk-biosciences
   type: startup
-  reason: 'Round monitoring 2026-09-16: New profile for $70M Series B (2026-09-08) co-led by Alpha Wave and YK Bioventures with Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures, Future Ventures. Sources: Business Wire, BioPharm International, Yahoo/NYSE.'
+  reason: 'Round monitoring 2026-09-16: New profile for $70M Series B (2026-09-08) co-led by Alpha Wave and YK Bioventures with Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures, Future
+    Ventures. Sources: Business Wire, BioPharm International, Yahoo/NYSE.'
   added: 2026-09-16
 - slug: khosla-ventures
   type: firm
