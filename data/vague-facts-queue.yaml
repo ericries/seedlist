@@ -168063,7 +168063,9 @@ vague_facts:
   line: '| 2026-06-04 | Growth (extension) | $175M+ | -- | MUFG Bank, 4iG Group, existing investors [^1][^2][^3] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: verified via primary company press release (WebFetch) that the June 4, 2026 $175M+ extension had NO separately named lead — Axiom describes it as an oversubscribed upsize of the February 2026 tranche (which was led by Type One Ventures + Qatar Investment Authority). Updated cell from "--" to explicit "No new lead (oversubscribed extension; J.P. Morgan placement agent)" and expanded About paragraph to describe 4iG as largest European strategic investor and J.P. Morgan as placement agent. 3 primary sources on file: [^1] Axiom company press release (WebFetch verified), [^2] SpaceNews (2026-06-04), [^3] Japan Times (2026-06-05). No new citations required — existing 3-source basis confirmed.'
 - profile: startups/backoffice
   profile_name: Backoffice
   company: '2026-05-25'

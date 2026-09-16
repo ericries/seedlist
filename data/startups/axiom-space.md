@@ -20,14 +20,14 @@ last_researched: 2026-06-03
 
 ## About
 
-Axiom Space is a Houston-based commercial space company building Axiom Station, the planned commercial successor to the International Space Station, as well as the AxEMU lunar spacesuit being developed under NASA's Artemis program [^1][^2]. The company also operates human spaceflight services, microgravity research, and in-space manufacturing programs [^1]. On June 4, 2026, Axiom announced an extension of its existing financing round, adding more than $175 million from new investor MUFG Bank, Ltd. (Japan's largest bank) and unnamed existing backers, bringing the total round size to more than $525 million at final close [^2][^3]. The original tranche, announced in February 2026, was led by Type One Ventures and the Qatar Investment Authority [^3].
+Axiom Space is a Houston-based commercial space company building Axiom Station, the planned commercial successor to the International Space Station, as well as the AxEMU lunar spacesuit being developed under NASA's Artemis program [^1][^2]. The company also operates human spaceflight services, microgravity research, and in-space manufacturing programs [^1]. On June 4, 2026, Axiom announced an extension of its existing financing round, adding more than $175 million from new investor MUFG Bank, Ltd. (Japan's largest bank) and unnamed existing backers, bringing the total round size to more than $525 million at final close [^2][^3]. The original tranche, announced in February 2026, was led by Type One Ventures and the Qatar Investment Authority [^3]. The June extension was described by Axiom as an oversubscribed upsize with no separately named lead; 4iG Group is characterized in the company release as the round's largest strategic investor from Europe, and J.P. Morgan served as placement agent [^1].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-02 | Growth | $350M | Type One Ventures, Qatar Investment Authority | -- [^3] |
-| 2026-06-04 | Growth (extension) | $175M+ | -- | MUFG Bank, 4iG Group, existing investors [^1][^2][^3] |
+| 2026-06-04 | Growth (extension) | $175M+ | No new lead (oversubscribed extension; J.P. Morgan placement agent) | MUFG Bank, 4iG Group, existing investors [^1][^2][^3] |
 
 ## What Investors Say
 
