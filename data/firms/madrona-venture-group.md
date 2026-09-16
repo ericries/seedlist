@@ -47,7 +47,7 @@ team:
     role: Venture Partner
     slug: jon-turow
 status: published
-last_researched: 2026-03-30
+last_researched: 2026-09-16
 ---
 
 ## About
@@ -177,6 +177,7 @@ The following table represents 55 of approximately 269 active and exited portfol
 | Gradial | Series C | 2026-06-18 | AI & Intelligent Apps | Active ($65M Series C led by Insight Partners at $675M valuation; Madrona participated alongside VMG Partners and PruVen) [^77][^78] |
 | Polar | Seed | 2026-07-29 | AI & Intelligent Apps (AI Browser) | Active ($5.7M seed led by Madrona; Sabrina Albert led the investment; angels Thomas Dohmke, Phoebe Gates, Erik Bernhardsson, Benjamin Spector, Rob Wachen, and Robert Yang participated) [^79][^80][^81] |
 | Faye | Series C | 2026-08-05 | Insurtech / Travel / AI / Fintech | Active ($50M Series C led by Madrona; BRM, Portage, F2 Venture Capital, Viola Ventures, Lumir Ventures participated as existing backers; ~$500M valuation; $100M total raised; Richmond, VA-based; founded 2022 by Elad Schaffer CEO; whole-trip protection with AI-native underwriting; Steve Singh Managing Director quoted) [^faye-madrona1][^faye-madrona2][^faye-madrona3] |
+| Jack & Jill | Series A | 2026-09-15 | AI / HR Tech / Recruiting | Active (€34.68M/$40M Series A led by Air Street Capital; Madrona joined as new investor alongside Antler; Creandum, Ada Ventures, Entrepreneurs First, Expedite Capital, Repeat.vc, Dig Ventures, Firedrop, Episode 1, Playfair participated as existing backers; London-based; founded 2024 by Matt Wilson CEO and Saaras Mehan CTO; conversational AI agents for jobseekers and employers) [^jj-madrona1][^jj-madrona2][^jj-madrona3] |
 
 ## In Their Own Words
 
@@ -311,3 +312,9 @@ The following table represents 55 of approximately 269 active and exited portfol
 [^faye-madrona2]: Calcalist, "Travel fintech Faye raises $50 million Series C at estimated $500 million valuation," August 5, 2026. Accessed September 2026. https://www.calcalistech.com/ctechnews/article/bjh1l9l8gx — Independent tier-1 Israeli tech-press confirming $50M Series C at estimated $500M valuation with Madrona Venture Group leading; $100M total raised.
 
 [^faye-madrona3]: Justin Dawes, "Faye Raises $50 Million, Bets on AI to Get Travel Insurance Claims Paid in Minutes," Skift, August 5, 2026. Accessed September 2026. https://skift.com/2026/08/05/faye-raises-50-million-bets-on-ai-to-get-travel-insurance-claims-paid-in-minutes/ — Third independent travel-industry tier-1 press source confirming Madrona-led $50M Series C.
+
+[^jj-madrona1]: EU-Startups, "London-based Jack & Jill raises €34.68 million Series A to scale its AI agents for jobseekers and employers," September 15, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/ — Contemporaneous European tech-press confirming €34.68M Series A led by Air Street Capital with Madrona joining as new investor alongside Antler.
+
+[^jj-madrona2]: Air Street Press (Nathan Benaich), "Jack & Jill Series A," September 2026. Accessed September 2026. https://press.airstreet.com/p/jack-and-jill-series-a — Primary investor source (Air Street lead) confirming $40M Series A with Madrona as new investor, Creandum and Entrepreneurs First as existing participants.
+
+[^jj-madrona3]: Jack & Jill (Tinker Tailor Talent Ltd.), company website, accessed September 2026. https://jackandjill.ai — Primary company source confirming traction (385,604 professionals using Jack; 5,358 companies using Jill; 101,840,711 job matches reviewed).

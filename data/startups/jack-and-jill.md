@@ -59,5 +59,5 @@ No independently sourced founder quotes found in primary press for this round.
 ## Sources
 
 [^1]: EU-Startups, "London-based Jack & Jill raises €34.68 million Series A to scale its AI agents for jobseekers and employers," September 15, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/
-[^2]: Air Street Press, "Jack & Jill Series A," September 2026. Accessed September 2026. https://press.airstreet.com/p/
+[^2]: Air Street Press (Nathan Benaich), "Jack & Jill Series A," September 2026. Accessed September 2026. https://press.airstreet.com/p/jack-and-jill-series-a
 [^3]: Jack & Jill (Tinker Tailor Talent Ltd.), company website, accessed September 2026. https://jackandjill.ai

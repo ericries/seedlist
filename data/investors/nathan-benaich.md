@@ -10,14 +10,14 @@ stage_focus: [seed, series-a]
 sector_focus: [artificial-intelligence, ai-infrastructure, developer-tools, techbio, defense, robotics]
 check_size: "$500K-$15M"
 last_verified_investment:
-  date: 2026-03-23
-  company: "Air Street Capital Fund III"
-  round: "Fund Close"
+  date: 2026-09-15
+  company: "Jack & Jill"
+  round: "Series A"
 social:
   twitter: "@nathanbenaich"
   linkedin: "linkedin.com/in/nathanbenaich"
 status: published
-last_researched: 2026-06-15
+last_researched: 2026-09-16
 ---
 
 ## Background
@@ -72,6 +72,7 @@ Sample size note: This analysis is based on ~12 publicly named portfolio compani
 | Delian Alliance Industries | ~2024 | Seed/Series A | [^1] |
 | Lambda | ~2024 | Growth | [^1] |
 | Valence Discovery | ~2021 | Seed | [^9] |
+| Jack & Jill | 2026-09-15 | Series A (Led) | [^jj-1][^jj-2][^jj-3] |
 
 Portfolio table represents the publicly confirmed subset of Air Street's named investments across Funds I–III; many round dates are approximated from the founding/round windows reported in press coverage and Air Street announcements.
 
@@ -82,6 +83,9 @@ Portfolio table represents the publicly confirmed subset of Air Street's named i
 
 > "AI-first companies are emerging across every industry... The AI frontier has become the center of gravity of the technology industry."
 > — Nathan Benaich, Fund III announcement, March 23, 2026 [^1]
+
+> "The next leap in hiring will not come from better searches over the same resumes or more automated outreach. It will come from putting an agent on both sides of the table."
+> — Nathan Benaich, on leading Jack & Jill Series A, September 15, 2026 [^jj-1]
 
 On the *State of AI Report*'s mission, Benaich and Ian Hogarth write that the report's "aim is to trigger an informed conversation about the state of AI and its implication for the future" [^3].
 
@@ -109,3 +113,6 @@ No independently sourced founder testimonials about working with Nathan Benaich 
 [^8]: "Nathan Benaich — Investments," nathanbenaich.com, accessed June 2026. https://www.nathanbenaich.com/investments
 [^9]: "Nathan Benaich's Air Street Capital Closes $232M Fund III to Become Europe's Largest Solo GP Venture Firm," Sesamers, March 23, 2026. Accessed June 2026. https://blog.sesamers.com/venture-capital/air-street-capital-232m-fund-iii-nathan-benaich/
 [^10]: "Air Street Capital — Team," airstreet.com, accessed June 2026. https://www.airstreet.com/team
+[^jj-1]: EU-Startups, "London-based Jack & Jill raises €34.68 million Series A to scale its AI agents for jobseekers and employers," September 15, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/
+[^jj-2]: Air Street Press (Nathan Benaich), "Jack & Jill Series A," September 2026. Accessed September 2026. https://press.airstreet.com/p/jack-and-jill-series-a
+[^jj-3]: Jack & Jill (Tinker Tailor Talent Ltd.), company website, accessed September 2026. https://jackandjill.ai

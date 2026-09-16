@@ -2,7 +2,7 @@
 founded: 2003
 tldr: "Creandum is a European early-stage firm founded in Stockholm in 2003 by Staffan Helgesson, with offices in Berlin, London, and San Francisco and ~€1.6B raised across seven funds (~$2.2B AUM). It leads seed and Series A rounds across SaaS, fintech, AI, consumer, healthcare, and climate, backing 170+ companies with roughly 24 unicorns. Notable exits include Spotify, iZettle, Depop, and Small Giant Games."
 fund_size: €500M (Fund VII, 2024); ~€1.6B total raised across seven funds
-last_researched: 2026-03-24
+last_researched: 2026-09-16
 location: Stockholm, Sweden
 name: Creandum
 sector_focus:
@@ -154,6 +154,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | Conduct | Series A (participated as existing investor; $60M co-led by Index Ventures + ICONIQ; SAP strategic) | 2026-06-17 | AI/Enterprise Operating System/SAP | Active | [^32][^33][^34] |
 | EquiLibre Technologies | Series A (led; €438M / $500M valuation, amount undisclosed) | 2026-07-01 | AI/Quantitative Trading/Reinforcement Learning | Active | [^35][^36][^37] |
 | Passionfroot | Series A ($15M; Insight Partners led; Creandum, Supernode Global, s16vc participated) | 2026-07-22 | Creator Economy / B2B Marketplace / AI | Active | [^pfr-c1][^pfr-c2][^pfr-c3] |
+| Jack & Jill | Series A (€34.68M / $40M; Air Street Capital led; Creandum participated as existing backer alongside Madrona, Antler, Ada Ventures, Entrepreneurs First, Expedite Capital, Repeat.vc, Dig Ventures, Firedrop, Episode 1, Playfair) | 2026-09-15 | AI / HR Tech / Recruiting Agents | Active | [^jj-c1][^jj-c2][^jj-c3] |
 
 ## In Their Own Words
 
@@ -271,3 +272,9 @@ No independently sourced founder testimonials found. Creandum's reputation among
 [^cs-c3]: 468 Capital, "Codesphere raises $18M Series A," May 17, 2024. Accessed August 2026. https://468cap.com/codesphere-raises-18m-series-a/ — Co-investor primary confirmation of USD 18M Series A led by Creandum with 468 Capital, LEA Partners, Begin Capital, and 42CAP as participants; total raised across rounds now $26.5M since 2020 founding.
 
 [^lindus-c1]: Creandum portfolio commitments page, "Lindus Health." Accessed September 2026. https://creandum.com/commitments/lindus-health/ — Investor-side primary source confirming Series A led by Creandum on 2023-08-16 (USD 18M) with Fredrik Cassel as lead partner. Also confirms follow-on Series B ($55M) on 2025-01-22.
+
+[^jj-c1]: EU-Startups, "London-based Jack & Jill raises €34.68 million Series A to scale its AI agents for jobseekers and employers," September 15, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/ — Contemporaneous European tech-press confirming €34.68M ($40M) Series A led by Air Street Capital; Creandum explicitly named as existing backer participating.
+
+[^jj-c2]: Air Street Press (Nathan Benaich), "Jack & Jill Series A," September 2026. Accessed September 2026. https://press.airstreet.com/p/jack-and-jill-series-a — Primary investor source (Air Street, lead) explicitly confirms Creandum participated again as an existing investor in the $40M Series A alongside Madrona (new) and Entrepreneurs First (existing).
+
+[^jj-c3]: Jack & Jill (Tinker Tailor Talent Ltd.), company website, accessed September 2026. https://jackandjill.ai — Primary company source confirming traction backing the Series A (385,604 professionals using Jack; 5,358 companies using Jill; 101,840,711 job matches reviewed).

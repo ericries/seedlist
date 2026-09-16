@@ -8473,14 +8473,35 @@ priority:
   type: investor
   reason: 'Round monitoring 2026-09-16: Air Street Capital led Jack & Jill Series A (€34.68M, 2026-09-15).'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: verified Jack & Jill €34.68M/$40M Series A (2026-09-15) via 3 independent primary sources: EU-Startups (contemporaneous European tech press, 2026-09-15),
+    Air Street Press (Nathan Benaich, primary investor source), and Jack & Jill / Tinker Tailor Talent Ltd. company website (primary company source, traction verified: 385,604 candidate users, 5,358 companies,
+    101.8M matches). Added portfolio row to affected profile with 3 named-footnote citations. Extracted verbatim Benaich quote: ''The next leap in hiring will not come from better searches over the same
+    resumes or more automated outreach. It will come from putting an agent on both sides of the table.'' Also fixed truncated Air Street URL in jack-and-jill.md (was https://press.airstreet.com/p/, now
+    full slug). Updated last_verified_investment frontmatter to Jack & Jill Series A 2026-09-15 (was Fund III Close 2026-03-23).'
 - slug: madrona-venture-group
   type: firm
   reason: 'Round monitoring 2026-09-16: participated in Jack & Jill Series A (€34.68M, 2026-09-15).'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: verified Jack & Jill €34.68M/$40M Series A (2026-09-15) via 3 independent primary sources: EU-Startups (contemporaneous European tech press, 2026-09-15),
+    Air Street Press (Nathan Benaich, primary investor source), and Jack & Jill / Tinker Tailor Talent Ltd. company website (primary company source, traction verified: 385,604 candidate users, 5,358 companies,
+    101.8M matches). Added portfolio row to affected profile with 3 named-footnote citations. Extracted verbatim Benaich quote: ''The next leap in hiring will not come from better searches over the same
+    resumes or more automated outreach. It will come from putting an agent on both sides of the table.'' Also fixed truncated Air Street URL in jack-and-jill.md (was https://press.airstreet.com/p/, now
+    full slug). Madrona named as new investor in Series A (previously not in Madrona portfolio table).'
 - slug: creandum
   type: firm
   reason: 'Round monitoring 2026-09-16: participated in Jack & Jill Series A (€34.68M, 2026-09-15).'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: verified Jack & Jill €34.68M/$40M Series A (2026-09-15) via 3 independent primary sources: EU-Startups (contemporaneous European tech press, 2026-09-15),
+    Air Street Press (Nathan Benaich, primary investor source), and Jack & Jill / Tinker Tailor Talent Ltd. company website (primary company source, traction verified: 385,604 candidate users, 5,358 companies,
+    101.8M matches). Added portfolio row to affected profile with 3 named-footnote citations. Extracted verbatim Benaich quote: ''The next leap in hiring will not come from better searches over the same
+    resumes or more automated outreach. It will come from putting an agent on both sides of the table.'' Also fixed truncated Air Street URL in jack-and-jill.md (was https://press.airstreet.com/p/, now
+    full slug). Creandum named as existing investor participating again in Series A.'
 - slug: balderton-capital
   type: firm
   reason: 'Round monitoring 2026-09-16: participated in Exein €234M growth round (2026-09-15, €1.4B valuation).'
@@ -8489,14 +8510,35 @@ priority:
   type: investor
   reason: 'Round monitoring 2026-09-16: led Jack & Jill Series A (€34.68M/$40M, 2026-09-15) via Air Street Capital.'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: verified Jack & Jill €34.68M/$40M Series A (2026-09-15) via 3 independent primary sources: EU-Startups (contemporaneous European tech press, 2026-09-15),
+    Air Street Press (Nathan Benaich, primary investor source), and Jack & Jill / Tinker Tailor Talent Ltd. company website (primary company source, traction verified: 385,604 candidate users, 5,358 companies,
+    101.8M matches). Added portfolio row to affected profile with 3 named-footnote citations. Extracted verbatim Benaich quote: ''The next leap in hiring will not come from better searches over the same
+    resumes or more automated outreach. It will come from putting an agent on both sides of the table.'' Also fixed truncated Air Street URL in jack-and-jill.md (was https://press.airstreet.com/p/, now
+    full slug). Updated last_verified_investment frontmatter to Jack & Jill Series A 2026-09-15 (was Fund III Close 2026-03-23).'
 - slug: madrona-venture-group
   type: firm
   reason: 'Round monitoring 2026-09-16: participated in Jack & Jill Series A (€34.68M, 2026-09-15).'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: verified Jack & Jill €34.68M/$40M Series A (2026-09-15) via 3 independent primary sources: EU-Startups (contemporaneous European tech press, 2026-09-15),
+    Air Street Press (Nathan Benaich, primary investor source), and Jack & Jill / Tinker Tailor Talent Ltd. company website (primary company source, traction verified: 385,604 candidate users, 5,358 companies,
+    101.8M matches). Added portfolio row to affected profile with 3 named-footnote citations. Extracted verbatim Benaich quote: ''The next leap in hiring will not come from better searches over the same
+    resumes or more automated outreach. It will come from putting an agent on both sides of the table.'' Also fixed truncated Air Street URL in jack-and-jill.md (was https://press.airstreet.com/p/, now
+    full slug). Madrona named as new investor in Series A (previously not in Madrona portfolio table).'
 - slug: creandum
   type: firm
   reason: 'Round monitoring 2026-09-16: participated in Jack & Jill Series A (€34.68M, 2026-09-15).'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16: verified Jack & Jill €34.68M/$40M Series A (2026-09-15) via 3 independent primary sources: EU-Startups (contemporaneous European tech press, 2026-09-15),
+    Air Street Press (Nathan Benaich, primary investor source), and Jack & Jill / Tinker Tailor Talent Ltd. company website (primary company source, traction verified: 385,604 candidate users, 5,358 companies,
+    101.8M matches). Added portfolio row to affected profile with 3 named-footnote citations. Extracted verbatim Benaich quote: ''The next leap in hiring will not come from better searches over the same
+    resumes or more automated outreach. It will come from putting an agent on both sides of the table.'' Also fixed truncated Air Street URL in jack-and-jill.md (was https://press.airstreet.com/p/, now
+    full slug). Creandum named as existing investor participating again in Series A.'
 - slug: reid-hoffman
   type: investor
   reason: 'Round monitoring 2026-09-16: co-led Integral Series A (€18M, 2026-09-16) alongside Mosaic Ventures.'
