@@ -8879,3 +8879,63 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-17: New lean profile for $34M Series A (2026-09-17) led by Roo Capital and Grand Ventures. Sources: (1) TechCrunch; (2) Comp AI company website.'
   added: 2026-09-17
+
+- slug: ryft
+  type: startup
+  reason: 'Round monitoring 2026-09-17: New lean profile for £20M (€23M) Series B (2026-09-17) led by Gresham House Ventures with Pembroke VCT and Ingenii Capital. Sources: (1) EU-Startups; (2) Ryft company website.'
+  added: 2026-09-17
+
+- slug: expanse
+  type: startup
+  reason: 'Round monitoring 2026-09-17: New lean profile for €4.5M ($5.3M) Seed (2026-09-16) led by Crane Venture Partners with PXN Ventures and AIP Seed. Sources: (1) EU-Startups; (2) Expanse company website.'
+  added: 2026-09-17
+
+- slug: zero
+  type: startup
+  reason: 'Round monitoring 2026-09-17: New lean profile for €8.93M ($10.3M) Seed (2026-09-15) led by Primary Venture Partners with Inception Fund, Defiant, Greens. Founders of Lovable, Supercell, Langdock, Silo AI also participated. Sources: (1) EU-Startups; (2) Zero company website.'
+  added: 2026-09-17
+
+- slug: boomerang-hr
+  type: startup
+  reason: 'Round monitoring 2026-09-17: New lean profile for $12.7M Seed (2026-09-15) co-led by Kalos Ventures and Album Ventures with Monta Vista Capital, Capital Eleven, Strada Education Foundation. Sources: (1) AlleyWatch; (2) BoomerangHR company website.'
+  added: 2026-09-17
+
+- slug: physical-superintelligence
+  type: startup
+  reason: 'Round monitoring 2026-09-17: New lean profile for $58M Seed (2026-09-01) led by Breakthrough Energy Ventures with Dragon Global, Robot Ventures, Solari, Susa, SV Angel, Valkyrie, Balaji Srinivasan, Anthony Scaramucci. Founders: Matt Pines, Alex Klokus, Alexander Wissner-Gross. Sources: (1) Pulse 2.0; (2) Google News aggregation (Yahoo Finance, AI Insider, HPCwire, Crypto Briefing).'
+  added: 2026-09-17
+
+- slug: epsilon-health
+  type: startup
+  reason: 'Round monitoring 2026-09-17: New lean profile for $27.6M growth round (2026-09-11) led by AlleyCorp with Uncork Capital, Renegade Partners, SemperVirens, Jack Altman (Alt Capital). Founder: Rustin Rassoli. Note: Axios pending queue had $20M Series A — actual multi-source figure is $27.6M. Sources: (1) Pulse 2.0; (2) Google News aggregation (Fierce Healthcare, AuntMinnie, citybiz, DOTmed).'
+  added: 2026-09-17
+
+- slug: producepay
+  type: startup
+  reason: 'Round monitoring 2026-09-17: New lean profile for $140M equity + financing facility (2026-09-10) led by Avenue Capital with Astanor Ventures, The i80 Group, AgAide, Thiele Capital Management, Millennium Capital. CEO: Patrick McCullough. Founder: Pablo Borquez Schwarzbeck. Sources: (1) AgFunderNews; (2) ProducePay company website; (3) Google News aggregation.'
+  added: 2026-09-17
+
+- slug: breakthrough-energy-ventures
+  type: firm
+  reason: 'appeared as lead in Physical Superintelligence $58M seed (2026-09-01)'
+  added: 2026-09-17
+
+- slug: uncork-capital
+  type: firm
+  reason: 'appeared in Epsilon Health $27.6M round (2026-09-11)'
+  added: 2026-09-17
+
+- slug: sv-angel
+  type: firm
+  reason: 'appeared in Physical Superintelligence $58M seed (2026-09-01)'
+  added: 2026-09-17
+
+- slug: balaji-srinivasan
+  type: investor
+  reason: 'appeared in Physical Superintelligence $58M seed (2026-09-01) as angel'
+  added: 2026-09-17
+
+- slug: jack-altman
+  type: investor
+  reason: 'appeared in Epsilon Health $27.6M round (2026-09-11) via Alt Capital'
+  added: 2026-09-17
