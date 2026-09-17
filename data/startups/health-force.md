@@ -26,7 +26,7 @@ last_researched: 2026-09-17
 
 ## About
 
-Health Force is a Barcelona-based healthtech company building pre-trained AI agents that log into existing hospital systems and complete operational work end-to-end, rather than surfacing information via dashboards [^1][^2]. The platform targets hospital operations across Europe's fragmented, legacy-bound IT environments [^1]. On 2026-09-17, Health Force announced a €4.2M Seed round led by LUMO Labs with participation from Step Venture, Next Tier Ventures, Target Global, and Calm/Storm [^1].
+Health Force is a Barcelona-based healthtech company building pre-trained AI agents that log into existing hospital systems and complete operational work end-to-end (Claims & Billing, Quality Reporting, and Clinical Trials in beta), rather than surfacing information via dashboards [^1][^2]. The platform targets hospital operations across Europe's fragmented, legacy-bound IT environments [^1]. On 2026-09-17, Health Force announced a €4.2M Seed round led by LUMO Labs with participation from Step Venture, Next Tier Ventures, Target Global, and Calm/Storm [^1]. Target Global lists Health Force as an early-stage business-software portfolio company, confirming the double-down described in Peter Roos's investor quote [^3].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -34,7 +34,7 @@ Health Force is a Barcelona-based healthtech company building pre-trained AI age
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-17 | Seed | €4.2M | LUMO Labs | Step Venture, Next Tier Ventures, Target Global, Calm/Storm [^1] |
+| 2026-09-17 | Seed | €4.2M | LUMO Labs | Step Venture, Next Tier Ventures, Target Global, Calm/Storm [^1][^3] |
 
 ## What Investors Say
 
@@ -48,7 +48,12 @@ Health Force is a Barcelona-based healthtech company building pre-trained AI age
 
 > "Hospitals don't need another dashboard, they need the work done. We offer hospitals pre-trained AI agents that log into existing systems and complete real work." [^1]
 
+**Giovanni Bonora, CFO, Ospedale Galeazzi (hospital customer testimonial, on Health Force company site):**
+
+> "Agents enable us to grow our capacity on demand, in a cost effective way. This new model changes the economics of running a hospital." [^2]
+
 ## Sources
 
 [^1]: EU-Startups, "Barcelona-based Health Force raises €4.2 million to streamline hospital operations with AI agents," September 17, 2026. Accessed September 17, 2026. https://www.eu-startups.com/2026/09/barcelona-based-health-force-raises-e4-2-million-to-streamline-hospital-operations-with-ai-agents/
 [^2]: Health Force, company website, accessed September 2026. https://www.healthforce.ai
+[^3]: Target Global, portfolio company listing for Health Force, accessed September 2026. https://targetglobal.vc/portfolio

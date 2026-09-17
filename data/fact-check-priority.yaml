@@ -8691,10 +8691,18 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-17: Seed €4.2M led by LUMO Labs with Step Venture, Next Tier Ventures, Target Global, Calm/Storm (2026-09-17).'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified €4.2M Seed round via 3 independent primary sources: EU-Startups [^1] (2026-09-17, contemporaneous European tech press — primary source for round, participants, and both Roos + Haddad quotes), Health Force company site [^2] (primary company source — confirms Barcelona location, product mix Claims & Billing / Quality Reporting / Clinical Trials beta, and adds NEW Ospedale Galeazzi CFO Giovanni Bonora customer testimonial), and NEW Target Global portfolio page [^3] (primary co-investor source confirming HealthForce as early-stage business-software portfolio company, supporting the double-down described by Peter Roos). 1 new citation added ([^3]) plus 1 new verbatim customer testimonial from healthforce.ai. Note: Target Global still describes HF as "Austrian" on the portfolio card, an out-of-date detail against the EU-Startups Barcelona-based framing; the round-level facts (lead, participants, amount, date) are consistent across all three sources.'
+  processed: '2026-09-17'
 - slug: grubel
   type: startup
   reason: 'Round monitoring 2026-09-17: Pre-Seed €3M led by Point Nine with Jeff Dean, Chris Ré, Ion Stoica, Gabe Pereyra, Winston Weinberg (2026-09-10).'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: profile already carries Louis Coppey (Point Nine partner) verbatim quote from EU-Startups, complete named-angel roster with credentials, and a documented note that only 2 independent primary sources exist for this round (EU-Startups [^1] + Grubel company site [^2]) despite dedicated search across TechCrunch, Tech.eu, Sifted, Silicon Canals, TechFundingNews, Point Nine blog/portfolio, deutsche-startups, and startupsmagazine — all returned 404, 403, or did not list Grubel. Re-verified live: Grubel company site confirms Point Nine lead + all 5 named angels + founders Hardt/Heckel; EU-Startups confirms €3M / 2026-09-10 / Point Nine lead / same 5 angels / Coppey investor quote + Heckel founder quote. Round facts stable; no profile change needed this pass.'
+  processed: '2026-09-17'
 - slug: bynario
   type: startup
   reason: 'Round monitoring 2026-09-17: Pre-Seed €2.1M led by 360 Capital Partners with PranaVentures (2026-09-10).'
@@ -8703,7 +8711,15 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-17: Seed $20M led by Expa with Coinbase Ventures, Tenet Fund, Second Sight Ventures (2026-09-15).'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified $20M Seed round via 3 independent primary sources: AlleyWatch [^1] (2026-09-15, contemporaneous NYC tech press), Fin.com company site [^2] (primary company source with Bam Azizi quote and Fortune coverage acknowledgment), and NEW Expa portfolio page [^3] (primary lead-investor source confirming Fin.com as portfolio company, product description as "operating system for cross-border payments... stablecoins for settlement and local payment rails at the edges", founders Nabeel Alamgir + Mustafa Dar, and Fortune coverage). CRITICAL CORRECTION: prior profile listed Bam Azizi as CEO/founder — Expa portfolio primary source establishes Bam Azizi is a participant investor in the Seed round, not a founder; real co-founders are Nabeel Alamgir and Mustafa Dar. Frontmatter founders updated. Product description expanded per Expa framing. Prior Bam Azizi quote retained but labeled correctly as "participant investor". 1 new citation added ([^3]).'
+  processed: '2026-09-17'
 - slug: liquid-compute
   type: startup
   reason: 'Round monitoring 2026-09-17: Seed $15M co-led by FirstMark and Chemistry (2026-09-15).'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified $15M Seed round via 3+ independent primary sources (final profile now carries 5 citations after a parallel enrichment pass by another sweep): AlleyWatch [^1] (2026-09-15, contemporaneous NYC tech press), Liquid Compute company site [^2] (primary company source), NEW FirstMark portfolio page [^3] (primary co-lead source with product description "developing a CFTC-regulated exchange for computational resources, providing verification, clearing, settlement, and price discovery services for neoclouds, AI companies, and traders" and naming Adam Nelson as investing partner), NEW Chemistry portfolio page [^4] (primary co-lead source with framing "the regulated exchange for compute"), and NEW FirstMark Capital perspectives post [^5] (primary lead-investor announcement + verbatim Adam Nelson quote). 2 new citations added by this sweep ([^3], [^4]); 3rd new ([^5]) added by parallel sweep. Product description sharpened per FirstMark primary source. Adam Nelson quote sourced from FirstMark perspectives blog.'
+  processed: '2026-09-17'
