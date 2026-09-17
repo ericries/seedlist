@@ -64,6 +64,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: NeOnc Technologies Redeems All Outstanding Series A Convertible Preferred
+    Stock and Eliminates Related Potential Dilution
+  url: https://www.globenewswire.com/news-release/2026/09/17/3363907/0/en/neonc-technologies-redeems-all-outstanding-series-a-convertible-preferred-stock-and-eliminates-related-potential-dilution.html
+  source: globenewswire
+  date_found: '2026-09-17'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Berlin-based Integral raises €18 million to deliver AI-run accounting, tax
     and payroll services to SMEs
   url: https://www.eu-startups.com/2026/09/berlin-based-integral-raises-e18-million-to-deliver-ai-run-accounting-tax-and-payroll-services-to-smes/
@@ -845,13 +854,5 @@ pending_rounds:
   date_found: '2026-09-05'
   parsed_company: Souk
   parsed_amount: $1.6M
-  parsed_round: null
-  status: pending
-- title: Remedium raised $1.5M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-05'
-  parsed_company: Remedium
-  parsed_amount: $1.5M
   parsed_round: null
   status: pending

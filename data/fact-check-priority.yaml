@@ -8874,3 +8874,8 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-17: New lean profile for €9M Series A (2026-09-17) led by amberra with NRW.BANK, Schwarz Group companies, HTGF, vent.io, Vantage Value. Sources: (1) syte press release (German); (2) EU-Startups.'
   added: 2026-09-17
+
+- slug: comp-ai
+  type: startup
+  reason: 'Round monitoring 2026-09-17: New lean profile for $34M Series A (2026-09-17) led by Roo Capital and Grand Ventures. Sources: (1) TechCrunch; (2) Comp AI company website.'
+  added: 2026-09-17
