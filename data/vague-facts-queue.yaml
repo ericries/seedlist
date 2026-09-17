@@ -520,7 +520,8 @@ vague_facts:
   line: '| Wildfire | Seed (attribution via Dave McClure''s earlier fbFund investing, not the 500 Startups firm; 500 Startups not '
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-16: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only [^16][^2][^39]). Row is fully specific: "~2010" year proxy documented as founding-year, attribution explicitly flagged as via Dave McClure''s fbFund role (which predates 500 Startups) not the 500 Startups firm, Series A ($4M, 2010-05, led by Summit Partners) and Series B ($10M, late 2011) primary press explicitly noted as NOT naming 500 Startups. Re-verified 3 independent primary sources: TechCrunch [^39] (Alexia Tsotsis 2012-03-21, verbatim confirms $14M total raised and lists 500 Startups only as a *possible* existing-investor participant in the $10M Series B — "could have included Summit Partners, 500 Startups, Jeff Clavier, Aydin Senkut, or Gary Vaynerchuk"), Wildfire Interactive Wikipedia (Series A May 2010 $4M Summit Partners lead; fbFund 2008 grant predates 500 Startups 2010 founding), and 500 Global own site [^16]. Row correctly annotates the aggregator-only firm-level attribution. No profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: MakerBot
@@ -530,7 +531,8 @@ vague_facts:
   line: '| MakerBot | Seed (aggregator-only attribution — 500 Startups NOT named in primary Series A press coverage ($10M, 2011-0'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-16: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only [^16][^2][^40]). Row is fully specific: "~2011" year proxy explicitly documented, attribution flagged as aggregator-only with 500 Startups NOT named in primary press. Re-verified 3 independent primary sources: TechCrunch [^40] (Erick Schonfeld, 2011-08-23, verbatim confirms $10M Series A with Foundry Group as bulk lead, Bezos Expeditions, True Ventures, RRE Ventures, and "a dozen or so" unnamed angels — 500 Startups NOT named), TechCrunch MakerBot funding round wire coverage, and MakerBot Wikipedia (confirms 2009 $75K seed from Jake Lodwick and Adrian Bowyer predates 500 Startups'' 2010 founding). Row honestly annotates attribution weakness as "likely a Dave McClure personal angel investment." No profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Udemy
@@ -540,7 +542,8 @@ vague_facts:
   line: '| Udemy | Seed (USD 1M; MHS Capital + 500 Startups + angels Keith Rabois, Rick Thompson, Russ Fradin, Benjamin Ling, Lar'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-16: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only [^16][^2][^41][^42]). Row is fully specific: 2010-08-31 exact date, USD 1M amount, MHS Capital + 500 Startups co-institutional-participation, complete angel roster (Rabois, Thompson, Fradin, Ling, Braitman, Stoppelman, Ravikant, Martino, Stylman), Series A 2011-10-12 $3M Lightbank continuation. Re-verified 3 independent primary sources: TechCrunch [^41] (Leena Rao, 2010-08-31, verbatim confirms "$1 million in seed funding" from "Mark Sugarman''s MHS Capital" and "Dave McClure''s 500 Startups fund" with full angel roster naming all 9 angels above), PR Newswire Udemy company press release [^42] (2011-10-12, retroactively confirms 500 Startups + MHS Capital in seed via Series A announcement), and 500 Global own site [^16]. Row remains accurate as-is. No profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Credit Karma
