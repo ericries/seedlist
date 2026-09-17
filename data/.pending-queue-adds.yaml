@@ -193,3 +193,38 @@
   source: "existing investor on Superluminal Medicines Series B 2026-09-05"
   discovered_from: superluminal-medicines
   priority: normal
+- name: "Northern Gritstone"
+  type: firm
+  source: "led £4M investment in MicroLub 2026-09-17 (£7M total round); UK North-focused deeptech investor from spinout ecosystems"
+  discovered_from: microlub
+  priority: normal
+- name: "PXN Ventures"
+  type: firm
+  source: "co-invested on MicroLub 2026-09-17 growth round via NPIF II - PXN Equity Finance"
+  discovered_from: microlub
+  priority: low
+- name: "amberra"
+  type: firm
+  source: "led €9M Series A of syte 2026-09-17; venture studio of Cooperative Financial Group Volksbanken Raiffeisenbanken"
+  discovered_from: syte
+  priority: normal
+- name: "NRW.BANK"
+  type: firm
+  source: "new investor on syte €9M Series A 2026-09-17"
+  discovered_from: syte
+  priority: low
+- name: "High-Tech Gründerfonds"
+  type: firm
+  source: "existing investor on syte €9M Series A 2026-09-17; German early-stage deeptech fund (HTGF)"
+  discovered_from: syte
+  priority: normal
+- name: "vent.io"
+  type: firm
+  source: "existing investor on syte €9M Series A 2026-09-17"
+  discovered_from: syte
+  priority: low
+- name: "Vantage Value"
+  type: firm
+  source: "existing investor on syte €9M Series A 2026-09-17"
+  discovered_from: syte
+  priority: low
