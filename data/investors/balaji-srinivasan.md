@@ -3,9 +3,9 @@ check_size: $10K-$500K
 firm: null
 last_researched: 2026-03-24
 last_verified_investment:
-  company: Augustus
-  date: 2026-07-21
-  round: Series B (angel, $180M Tiger Global-led at $1B valuation)
+  company: Physical Superintelligence
+  date: 2026-09-01
+  round: Seed (angel, $58M; Breakthrough Energy Ventures-led)
 location: San Francisco, CA / Singapore
 name: Balaji Srinivasan
 role: Angel Investor / Founder, Network School
@@ -127,6 +127,7 @@ Srinivasan's stated thesis emphasizes "freedom and control," but his portfolio a
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
+| Physical Superintelligence | 2026-09-01 | Seed (angel, $58M; Breakthrough Energy Ventures led; Dragon Global, Robot Ventures, Solari, Susa, SV Angel, Valkyrie, Anthony Scaramucci also participated) | [^psi-balaji] |
 | Augustus | 2026-07-21 | Series B (angel, $180M Tiger Global-led at $1B) | [^30][^31] |
 | Avalanche (Ava Labs) | 2019 | Seed | [^17] |
 | NEAR Protocol | 2019 | Seed | [^17] |
@@ -351,6 +352,8 @@ No independently sourced founder testimonials found. Despite dedicated searches 
 [^29]: PitchBook, "Omada Health Series A" (Omada raised $4.7M Series A led by U.S. Venture Partners on March 21, 2013; Andreessen Horowitz invested in the April 2014 Series B). Accessed June 2026. https://pitchbook.com/newsletter/andreessen-horowitz-leads-23m-series-b-for-omada-health
 [^30]: PR Newswire, "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar," July 21, 2026. Accessed July 22, 2026. https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html
 [^31]: FinTech Global, "Augustus lands $180m Series B to dollarise the world," July 21, 2026. Accessed July 22, 2026. https://fintech.global/2026/07/21/augustus-lands-180m-series-b-to-dollarise-the-world/
+
+[^psi-balaji]: Pulse 2.0, "Physical Superintelligence Raises $58 Million Seed To Build AI Physics Lab And Virtual Physicist Platform," September 1, 2026. Accessed September 2026. https://pulse2.com/physical-superintelligence-raises-58-million-seed-to-build-ai-physics-lab-and-virtual-physicist-platform/ — Primary press names Balaji Srinivasan as an angel participant in PSI's $58M seed round on September 1, 2026, led by Breakthrough Energy Ventures. Full syndicate: BEV (lead), Dragon Global, Robot Ventures, Solari, Susa, SV Angel, Valkyrie, Balaji Srinivasan, Anthony Scaramucci, plus individual investors from OpenAI, Nvidia, SoftBank Energy, Oracle, Hugging Face, JUMP Capital, and a16z Scout Fund. Founders: Matt Pines (CEO), Alex Klokus, and Alexander Wissner-Gross.
 
 [^32]: The Block, "Ex-Coinbase exec raises $30 million led by a16z for decentralized social network protocol," July 13, 2022. Accessed July 2026. https://www.theblock.co/post/157271/farcaster-a16z-round-for-decentralized-social-network-protocol — Confirms $30M funding for Merkle Manufactory (Farcaster) announced July 13, 2022, led by a16z (Andreessen Horowitz) with participation from Standard Crypto, Elad Gil, 1confirmation, Scalar Capital, First Round Capital, Volt Capital, A Capital, Todd and Rahul's Angel Fund, Coinbase Ventures, Mischief, Ansa Capital, Haystack, Ribbit Capital, Chapter One, Multicoin Capital, Offline Ventures, Archetype, Canonical Crypto, Proof Group, Floodgate, Balaji Srinivasan, 6529, Ray Tonsing, and other angels.
 

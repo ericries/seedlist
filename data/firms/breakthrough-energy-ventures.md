@@ -140,6 +140,7 @@ This table represents approximately 25% of BEV's 120+ portfolio organizations. O
 | Savor | Seed ($10M; Breakthrough Energy Ventures led; company launched via Orca Sciences spin-out; Synthesis Capital and United Airlines Ventures joined in later Series A totaling $33M raised through 2024) | 2022-03 | Food Tech / Alt Fats | Active [^5][^sv1][^sv2] |
 | Yard Stick | Early Stage | ~2022 | Soil Carbon | Active [^15] |
 | Bloom Biorenewables | Series A (participated; CHF 13M / ~USD 15M co-led by Anaïs Ventures and Valquest Partners; Lombard Odier Investment Managers, Capital Risque Fribourg, Btomorrow Ventures, Amcor Ventures, Rosebrook, King Baudouin Foundation via R&Co4Generations also participated) | 2025-04-03 | Sustainable Materials / Bio-based Chemicals | Active [^bb1][^bb2][^bb3] |
+| Physical Superintelligence | Seed ($58M; BEV led; Dragon Global, Robot Ventures, Solari, Susa, SV Angel, Valkyrie, Balaji Srinivasan, Anthony Scaramucci participated) | 2026-09-01 | AI Physics Lab / Deeptech / Scientific Computing | Active [^psi-bev] |
 
 *Note: Many year entries are approximate (~), based on company founding dates or earliest known BEV involvement. BEV has 120+ portfolio organizations per Crunchbase [^5]; this table represents roughly 25% of verified investments.*
 
@@ -175,6 +176,7 @@ No additional independently sourced founder testimonials found. The firm's portf
 
 [^mm-bev]: PR Newswire, "Mariana Minerals Raises $310 Million Series B Led by Khosla Ventures to Accelerate Critical Minerals Production," August 3, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/mariana-minerals-raises-310-million-series-b-led-by-khosla-ventures-to-accelerate-critical-minerals-production-302840889.html
 [^mm-bev-fortune]: Fortune, "Khosla leads $310 million raise for unicorn mining startup Mariana Minerals," August 3, 2026. Accessed September 2026. https://fortune.com/2026/08/03/power-ai-khosla-a16z-bet-startup-reinvent-mining-mariana-minerals/
+[^psi-bev]: Pulse 2.0, "Physical Superintelligence Raises $58 Million Seed To Build AI Physics Lab And Virtual Physicist Platform," September 1, 2026. Accessed September 2026. https://pulse2.com/physical-superintelligence-raises-58-million-seed-to-build-ai-physics-lab-and-virtual-physicist-platform/ — Primary press confirms BEV led PSI's $58M seed round on September 1, 2026, with Carmichael Roberts (BEV) providing an investor quote; participants include Dragon Global, Robot Ventures, Solari, Susa, SV Angel, Valkyrie, Balaji Srinivasan, Anthony Scaramucci, and individual investors from OpenAI, Nvidia, SoftBank Energy, Oracle, Hugging Face, JUMP Capital, and a16z Scout Fund.
 
 [^1]: Caldwell Partners, "Breakthrough Energy Ventures (BEV)," accessed March 2026. https://www.caldwell.com/executive-search-industry-insights/breakthrough-energy-ventures-bev/
 [^2]: Republic of Green, "Breakthrough Energy Ventures in Kirkland," accessed March 2026. https://directory.republicofgreen.com/washington/kirkland/breakthrough-energy-ventures

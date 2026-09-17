@@ -10,9 +10,9 @@ stage_focus: [seed, series-a]
 sector_focus: [enterprise-software, ai, developer-tools, fintech, health-tech]
 check_size: "$500K-$10M (Alt Capital); institutional at Benchmark"
 last_verified_investment:
-  date: 2026-08-28
-  company: "Owner"
-  round: "Series D"
+  date: 2026-09-11
+  company: "Epsilon Health"
+  round: "Growth ($27.6M; AlleyCorp-led)"
 social:
   twitter: "@jaltma"
   linkedin: "linkedin.com/in/jackealtman"
@@ -108,6 +108,7 @@ Altman claims a generalist approach but his portfolio reveals a strong B2B enter
 | Rogo | 2026-04-29 | Series D | [^16] |
 | Drafted | 2026-05-29 | Seed (Buckley Ventures led) | [^17][^18][^19] |
 | Owner.com | 2026-08-28 | Series D (Goldman Sachs Alternatives led; participation alongside Meritech, Redpoint, Headline) | [^20][^21][^22] |
+| Epsilon Health | 2026-09-11 | Growth (Alt Capital; $27.6M round led by AlleyCorp with Uncork Capital, Renegade Partners, SemperVirens participating) | [^epsilon-jack] |
 
 This table represents approximately 30 of an estimated 90+ total investments. Angel investment dates prior to Alt Capital's founding in 2024 could not be individually verified and are listed as "Pre-2024."
 
@@ -172,3 +173,5 @@ No independently sourced founder testimonials found. Altman is a relatively new 
 [^21]: Restaurant Business, "Owner raises $240M for 'AI-native' restaurant tech," August 28, 2026. Confirms Series D participants including Jack Altman. Accessed August 2026. https://www.restaurantbusinessonline.com/technology/owner-raises-240m-ai-native-restaurant-tech
 
 [^22]: Morningstar syndication of PR Newswire release, "Owner Raises $240M Led by Goldman Sachs Alternatives to Build the AI-Native Platform for Every Local Business," August 28, 2026. Accessed August 2026. https://www.morningstar.com/news/pr-newswire/20260828ph35792/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business
+
+[^epsilon-jack]: Pulse 2.0, "Epsilon Health Raises $27.6 Million To Scale AI-Native Radiology Practice," September 11, 2026. Accessed September 2026. https://pulse2.com/epsilon-health-raises-27-6-million-to-scale-ai-native-radiology-practice/ — Primary press names Jack Altman (investing through Alt Capital) as a participant in Epsilon Health's $27.6M round on September 11, 2026, led by AlleyCorp; Uncork Capital, Renegade Partners, and SemperVirens also participated. Altman is quoted: "In less than 10 months, they've gone from nothing to processing thousands of studies a day for some of the largest imaging providers." Founder/CEO: Rustin Rassoli.

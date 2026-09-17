@@ -8902,40 +8902,64 @@ priority:
 
 - slug: physical-superintelligence
   type: startup
-  reason: 'Round monitoring 2026-09-17: New lean profile for $58M Seed (2026-09-01) led by Breakthrough Energy Ventures with Dragon Global, Robot Ventures, Solari, Susa, SV Angel, Valkyrie, Balaji Srinivasan, Anthony Scaramucci. Founders: Matt Pines, Alex Klokus, Alexander Wissner-Gross. Sources: (1) Pulse 2.0; (2) Google News aggregation (Yahoo Finance, AI Insider, HPCwire, Crypto Briefing).'
+  reason: 'Round monitoring 2026-09-17: New lean profile for $58M Seed (2026-09-01) led by Breakthrough Energy Ventures with Dragon Global, Robot Ventures, Solari, Susa, SV Angel, Valkyrie, Balaji Srinivasan, Anthony Scaramucci. Founders: Matt Pines, Alex Klokus, Alexander Wissner-Gross.'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_notes: 'Fact-spec sweep 2026-09-17: Verified $58M seed round (2026-09-01) via Pulse 2.0 primary press. Removed low-value Google News aggregation citation and replaced with strengthened Pulse 2.0 citation carrying full verbatim quotes. Added Carmichael Roberts (BEV) investor quote and corrected Matt Pines founder quote to match verbatim. Also added Physical Superintelligence to breakthrough-energy-ventures.md portfolio (line 143, [^psi-bev]), sv-angel.md portfolio (line 133, [^svpsi]), and balaji-srinivasan.md portfolio (line 130, [^psi-balaji]) with full syndicate details from primary source. Balaji last_verified_investment frontmatter also updated. Note: HPCwire, The AI Insider, Yahoo Finance, and Crypto Briefing URLs returned 403/404 during verification — Pulse 2.0 stands as sole confirmed primary source but content is comprehensive.'
 
 - slug: epsilon-health
   type: startup
-  reason: 'Round monitoring 2026-09-17: New lean profile for $27.6M growth round (2026-09-11) led by AlleyCorp with Uncork Capital, Renegade Partners, SemperVirens, Jack Altman (Alt Capital). Founder: Rustin Rassoli. Note: Axios pending queue had $20M Series A — actual multi-source figure is $27.6M. Sources: (1) Pulse 2.0; (2) Google News aggregation (Fierce Healthcare, AuntMinnie, citybiz, DOTmed).'
+  reason: 'Round monitoring 2026-09-17: New lean profile for $27.6M growth round (2026-09-11) led by AlleyCorp with Uncork Capital, Renegade Partners, SemperVirens, Jack Altman (Alt Capital). Founder: Rustin Rassoli.'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_notes: 'Fact-spec sweep 2026-09-17: Verified $27.6M growth round (2026-09-11) via Pulse 2.0 primary press. Removed low-value Google News aggregation citation and replaced with strengthened single Pulse 2.0 citation carrying verbatim quotes: Dr. Alexi Nazem (AlleyCorp), Jack Altman (Alt Capital), and founder/CEO Rustin Rassoli. Added Epsilon Health to uncork-capital.md portfolio ([^uncork-epsilon]) and jack-altman.md portfolio ([^epsilon-jack]) with correct participant syndicate. Jack Altman last_verified_investment frontmatter updated from Owner Series D (2026-08-28) to Epsilon Health (2026-09-11). Note: AlleyCorp portfolio page and Uncork Capital portfolio page do not yet list Epsilon Health.'
 
 - slug: producepay
   type: startup
-  reason: 'Round monitoring 2026-09-17: New lean profile for $140M equity + financing facility (2026-09-10) led by Avenue Capital with Astanor Ventures, The i80 Group, AgAide, Thiele Capital Management, Millennium Capital. CEO: Patrick McCullough. Founder: Pablo Borquez Schwarzbeck. Sources: (1) AgFunderNews; (2) ProducePay company website; (3) Google News aggregation.'
+  reason: 'Round monitoring 2026-09-17: New lean profile for $140M equity + financing facility (2026-09-10) led by Avenue Capital with Astanor Ventures, The i80 Group, AgAide, Thiele Capital Management, Millennium Capital. CEO: Patrick McCullough. Founder: Pablo Borquez Schwarzbeck.'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_notes: 'Fact-spec sweep 2026-09-17: Verified $140M+ equity round + up-to-$300M lending fund (Sept 2026) via TWO independent primary sources: (1) AgFunderNews Sept 10 2026 coverage, (2) ProducePay press release "ProducePay to Fuel Continued Global Growth with New Round of Funding". Removed low-value Google News aggregation citation and replaced with primary press release. Corrected lead structure to co-lead: Avenue Capital + Astanor (per ProducePay press release; AgFunderNews framing had said Avenue-led alone). Added verbatim investor quotes from Dan Holman (Avenue), George Powlick (Astanor), Matt Karahadian (AgAide) plus additional founder quote from Patrick McCullough. Amount preserved as $140M+.'
 
 - slug: breakthrough-energy-ventures
   type: firm
   reason: 'appeared as lead in Physical Superintelligence $58M seed (2026-09-01)'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_notes: 'Fact-spec sweep 2026-09-17: Added Physical Superintelligence row to breakthrough-energy-ventures.md Portfolio table with full syndicate details (Seed, $58M, BEV led; Dragon Global, Robot Ventures, Solari, Susa, SV Angel, Valkyrie, Balaji Srinivasan, Anthony Scaramucci participated). Citation [^psi-bev] via Pulse 2.0 primary press. Carmichael Roberts investor quote captured on startup profile.'
 
 - slug: uncork-capital
   type: firm
   reason: 'appeared in Epsilon Health $27.6M round (2026-09-11)'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_notes: 'Fact-spec sweep 2026-09-17: Added Epsilon Health row to uncork-capital.md Portfolio table (Growth participant, $27.6M; AlleyCorp led; Renegade Partners, SemperVirens, Jack Altman/Alt Capital also participated). Citation [^uncork-epsilon] via Pulse 2.0 primary press.'
 
 - slug: sv-angel
   type: firm
   reason: 'appeared in Physical Superintelligence $58M seed (2026-09-01)'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_notes: 'Fact-spec sweep 2026-09-17: Added Physical Superintelligence row to sv-angel.md Portfolio table (Seed participant, $58M; Breakthrough Energy Ventures led). Citation [^svpsi] via Pulse 2.0 primary press.'
 
 - slug: balaji-srinivasan
   type: investor
   reason: 'appeared in Physical Superintelligence $58M seed (2026-09-01) as angel'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_notes: 'Fact-spec sweep 2026-09-17: Added Physical Superintelligence row to balaji-srinivasan.md Portfolio table (Seed angel, $58M BEV-led). Citation [^psi-balaji] via Pulse 2.0 primary press. Frontmatter last_verified_investment updated to PSI (2026-09-01), replacing Augustus (2026-07-21).'
 
 - slug: jack-altman
   type: investor
   reason: 'appeared in Epsilon Health $27.6M round (2026-09-11) via Alt Capital'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_notes: 'Fact-spec sweep 2026-09-17: Added Epsilon Health row to jack-altman.md Portfolio table (Growth via Alt Capital, $27.6M AlleyCorp-led round). Citation [^epsilon-jack] via Pulse 2.0 primary press, including verbatim Jack Altman quote. Frontmatter last_verified_investment updated to Epsilon Health (2026-09-11), replacing Owner Series D (2026-08-28).'

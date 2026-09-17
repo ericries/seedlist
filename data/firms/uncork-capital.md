@@ -104,6 +104,7 @@ Based on verified sources, the following represents Uncork Capital's portfolio. 
 | Ivo | Seed | 2023 | AI / Legal | Early | [^1] |
 | Inertia | Series A | 2026-02-11 | Energy / Fusion | Early | [^1][^24] |
 | Knit Health | Seed (co-led, $11.6M) | 2026-05-12 | Healthcare / Clinical AI | Early | [^23] |
+| Epsilon Health | Growth (participant, $27.6M; AlleyCorp led; Renegade Partners, SemperVirens, Jack Altman/Alt Capital also participated) | 2026-09-11 | Healthcare / Digital Health / AI-Radiology | Active | [^uncork-epsilon] |
 | Wildfire | Seed | ~2009 | AdTech | Acquired by Google | [^2] |
 | DocSend | Seed | ~2013 | SaaS | Acquired by Dropbox | [^2] |
 | Vungle | Seed | ~2011 | AdTech / Mobile | Acquired by Blackstone | [^2] |
@@ -170,3 +171,5 @@ No additional independently sourced founder testimonials found beyond company pr
 [^23]: Business Wire, "Knit Health Launches with $11.6M Seed to Build Clinical Intelligence AI for Healthcare," May 12, 2026. Accessed May 2026. https://www.businesswire.com/news/home/20260512133959/en/Knit-Health-Launches-with-$11.6M-Seed-to-Build-Clinical-Intelligence-AI-for-Healthcare
 
 [^24]: GlobeNewsWire, "Inertia raises $450 million to commercialize the only proven fusion science," February 11, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/02/11/3236274/0/en/Inertia-raises-450-million-to-commercialize-the-only-proven-fusion-science.html — $450M Series A announced February 11, 2026, led by Bessemer Venture Partners; Uncork Capital among the participants alongside GV, Modern Capital, Threshold Ventures, and others. Founded by Jeff Lawson (Twilio co-founder) with Annie Kritcher and Mike Dunne.
+
+[^uncork-epsilon]: Pulse 2.0, "Epsilon Health Raises $27.6 Million To Scale AI-Native Radiology Practice," September 11, 2026. Accessed September 2026. https://pulse2.com/epsilon-health-raises-27-6-million-to-scale-ai-native-radiology-practice/ — Primary press confirms Uncork Capital among named participants in Epsilon Health's $27.6M round on September 11, 2026, led by AlleyCorp (Dr. Alexi Nazem quoted); Renegade Partners, SemperVirens, and Jack Altman (via Alt Capital) also participated. Founder/CEO Rustin Rassoli.

@@ -33,17 +33,18 @@ Epsilon Health is an AI-native radiology practice that integrates artificial int
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-11 | Growth | $27.6M | AlleyCorp | Uncork Capital, Renegade Partners, SemperVirens, Jack Altman (Alt Capital) [^1][^2] |
+| 2026-09-11 | Growth | $27.6M | AlleyCorp | Uncork Capital, Renegade Partners, SemperVirens, Jack Altman (Alt Capital) [^1] |
 
 ## What Investors Say
 
-No independently sourced investor testimonials found at time of research.
+Dr. Alexi Nazem, AlleyCorp: "Epsilon lets that expertise reach far more people, with each reading improving the system for the next." [^1]
+
+Jack Altman, Alt Capital: "In less than 10 months, they've gone from nothing to processing thousands of studies a day for some of the largest imaging providers." [^1]
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at time of research.
+Rustin Rassoli, Founder and CEO: "The system is collapsing, and patients are bearing the brunt of it. That's why we're building a radically new approach to radiology." [^1]
 
 ## Sources
 
 [^1]: Pulse 2.0, "Epsilon Health Raises $27.6 Million To Scale AI-Native Radiology Practice," September 11, 2026, accessed September 2026. https://pulse2.com/epsilon-health-raises-27-6-million-to-scale-ai-native-radiology-practice/
-[^2]: Google News aggregation confirming coverage from Fierce Healthcare, AuntMinnie, citybiz, and DOTmed of Epsilon Health's $27.6M round led by AlleyCorp, September 2026, accessed September 2026. https://news.google.com/search?q=%22Epsilon+Health%22+%22%2427.6+million%22
