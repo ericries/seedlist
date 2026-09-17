@@ -34,11 +34,11 @@ Meridiam invested through its Meridiam Green Impact Growth Fund (MGIGF); Fideve 
 
 ## What Investors Say
 
-No independently sourced investor quotes about the round available at time of profile creation.
+"We are delighted to support Chargepoly in its next phase of growth. The company is addressing a critical need for infrastructure and services that enable the electrification of heavy-duty transport..." — Yannick Marion, Meridiam Green Impact Growth Fund, in the Chargepoly announcement of the €23M round [^1].
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at time of profile creation.
+"This investment will allow us to accelerate our international expansion and continue to offer our customers best-in-class charging solutions to electrify their fleets." — Hadi Moussavi, President and Founder, Chargepoly, in the €23M round announcement [^1].
 
 ## Sources
 

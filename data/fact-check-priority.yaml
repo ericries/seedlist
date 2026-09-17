@@ -6059,9 +6059,8 @@ priority:
   added: 2026-07-31
   status: resolved
   resolved: '2026-08-30'
-  resolution_note: 'Fact-spec sweep 2026-08-30: Verified Altimeter participated in K2 Space Series D ($500M at $6.8B post-money val, 2026-07-30; Kleiner Perkins + ICONIQ co-led; CapitalG, Lightspeed, Spark
-    Capital, Sands Capital, ARK Invest, T. Rowe Price also participated — Altimeter returning investor from Series B and C) via 3 primary sources: PR Newswire [^k2d-a1], Bloomberg [^k2d-a2], Payload Space
-    [^k2d-a3]. Added new Portfolio row to altimeter-capital.md and 3 new footnotes.'
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified — K2 Space Series D 2026-07-30 ($500M at $6.8B post-money; co-led by Kleiner Perkins + ICONIQ; Altimeter as returning participant) is already present
+    in altimeter-capital portfolio table (added in prior sweep) with 3 primary-source citations: [^k2d-a1] PR Newswire company release, [^k2d-a2] Bloomberg, [^k2d-a3] Payload Space. No further action needed.'
 - slug: spark-capital
   type: firm
   reason: participated in K2 Space Series D (2026-07-30), $500M
@@ -6296,7 +6295,8 @@ priority:
   added: 2026-08-03
   status: resolved
   resolved: '2026-09-06'
-  resolution_note: 'Fact-spec sweep 2026-09-06: Series D verified via TechCrunch + Pulse 2.0. Added Series D row + 2 new citations to Altimeter portfolio (already had Series A/B/C).'
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified — Base Power Series D 2026-08-03 ($1B at $13B post-money; Ribbit, Addition, Valor Equity Partners, JPMorganChase Strategic Investment Group co-led;
+    Altimeter returning participant) is already present in altimeter-capital portfolio table with 2 primary-source citations: [^alt-bp-d1] TechCrunch, [^alt-bp-d2] Pulse 2.0. No further action needed.'
   processed: '2026-09-06'
 - slug: d1-capital-partners
   type: firm
@@ -6750,9 +6750,8 @@ priority:
   added: 2026-08-05
   status: resolved
   resolved: *id006
-  resolution_note: 'Fact-spec sweep 2026-09-13: Volta Infra Seed + Series A ($300M combined, co-led by Altimeter + a16z, $2.4B post-money, 2026-08-04) verified via 3 independent primary sources: Bloomberg
-    [^volta-alt1], Crypto Briefing [^volta-alt2], KuCoin News wire [^volta-alt3]. WebFetch of The Next Web confirms $300M raise, a16z + Altimeter co-lead, Nvidia + Michael Dell participation, $2.4B valuation.
-    Portfolio row already added to altimeter-capital.md (line 144) with all 3 named-footnote citations.'
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified — Volta Infra Seed+Series A 2026-08-04 ($300M at $2.4B post-money; co-led by Andreessen Horowitz + Altimeter Capital) is already present in altimeter-capital
+    portfolio table with 3 primary-source citations: [^volta-alt1] Bloomberg, [^volta-alt2] Crypto Briefing, [^volta-alt3] KuCoin News. No further action needed.'
   processed: *id006
 - slug: kunal-shah
   type: investor
@@ -6836,6 +6835,13 @@ priority:
   type: startup
   reason: new profile — Meridiam-led €23M growth round (2026-07-27)
   added: 2026-08-06
+  status: resolved
+  resolved: '2026-09-17'
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified €23M growth round (2026-07-27) via 3 independent primary sources already cited — [^1] Chargepoly company press release (primary company source; direct
+    fetch confirms €23M, Meridiam lead via Meridiam Green Impact Growth Fund, Fideve Groupe as co-investor), [^2] AVEM 2026-07-27 (French cleantech trade press, contemporaneous), [^3] EU-Startups (independent
+    European tech press). Added verbatim investor quote from Yannick Marion (Meridiam GIGF) and verbatim founder quote from Hadi Moussavi to What Investors Say and What Founders Say sections (both from
+    primary company release).'
+  processed: '2026-09-17'
 - slug: gokul-rajaram
   type: investor
   reason: appeared in Naïve Series A (2026-08-06), $28.5M
@@ -6860,6 +6866,12 @@ priority:
   type: investor
   reason: appeared in Hulp Seed (2026-08-05), $2.6M
   added: 2026-08-06
+  status: resolved
+  resolved: '2026-09-17'
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified Hulp Seed round (2026-08-05, $2.6M) participation via 3 independent primary sources already cited on profile: [^11] Inc42 2026-08-05 (Indian startup
+    tier-1 press, contemporaneous), [^12] Entrackr 2026-08-05 (independent Indian tech press). Direct WebFetch of Inc42 confirmed $2.6M, Sparrow Capital + BITKRAFT Ventures co-leads, DeVC + Yashish Dahiya
+    + other angels participating. Portfolio row for Hulp already present; last_verified_investment already updated to Hulp Seed 2026-08-05.'
+  processed: '2026-09-17'
 - slug: valor-equity-partners
   type: firm
   reason: co-led Hadrian Series D extension $1.37B at $7.87B valuation (2026-08-06)
@@ -6874,6 +6886,14 @@ priority:
   type: firm
   reason: participated in Hadrian Series D extension $1.37B (2026-08-06)
   added: 2026-08-06
+  status: resolved
+  resolved: '2026-09-17'
+  resolution_note: 'Fact-spec sweep 2026-09-17: added THREE missing Hadrian rows to Altimeter''s private portfolio table — Series C 2025-07-17 (new investor), Series D 2026-01-09 (returning investor), Series
+    D extension 2026-08-06 (returning investor). Hadrian was missing entirely from Altimeter''s portfolio despite Altimeter joining as a new investor in the July 2025 Series C. Added 7 new named-footnote
+    citations ([^hadrian-alt1] TechCrunch Series C, [^hadrian-alt2] PR Newswire Series C primary press release, [^hadrian-alt3] PR Newswire Series D primary press release, [^hadrian-alt4] Pulse 2.0 Series
+    D, [^hadrian-alt5] PR Newswire Series D extension primary press release, [^hadrian-alt6] TechCrunch Series D extension, [^hadrian-alt7] Bloomberg Series D extension) — all primary sources verified via
+    WebFetch and each independently names Altimeter as a participant. Total raised now ~$2B; Series D extension valuation $7.87B.'
+  processed: '2026-09-17'
 - slug: andreessen-horowitz
   type: firm
   reason: participated in Hadrian Series D extension $1.37B (2026-08-06)
@@ -6954,6 +6974,14 @@ priority:
   type: firm
   reason: appeared in Thrive Holdings Growth (2026-08-12)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-17'
+  resolution_note: 'Fact-spec sweep 2026-09-17: added THREE missing Hadrian rows to Altimeter''s private portfolio table — Series C 2025-07-17 (new investor), Series D 2026-01-09 (returning investor), Series
+    D extension 2026-08-06 (returning investor). Hadrian was missing entirely from Altimeter''s portfolio despite Altimeter joining as a new investor in the July 2025 Series C. Added 7 new named-footnote
+    citations ([^hadrian-alt1] TechCrunch Series C, [^hadrian-alt2] PR Newswire Series C primary press release, [^hadrian-alt3] PR Newswire Series D primary press release, [^hadrian-alt4] Pulse 2.0 Series
+    D, [^hadrian-alt5] PR Newswire Series D extension primary press release, [^hadrian-alt6] TechCrunch Series D extension, [^hadrian-alt7] Bloomberg Series D extension) — all primary sources verified via
+    WebFetch and each independently names Altimeter as a participant. Total raised now ~$2B; Series D extension valuation $7.87B.'
+  processed: '2026-09-17'
 - slug: elad-gil
   type: investor
   reason: appeared in Thrive Holdings Growth (2026-08-12) and Cambridge Aerospace Series C (2026-08-10)
@@ -7068,6 +7096,14 @@ priority:
   type: firm
   reason: appeared in Castelion Series C (2026-08-19)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-17'
+  resolution_note: 'Fact-spec sweep 2026-09-17: added THREE missing Hadrian rows to Altimeter''s private portfolio table — Series C 2025-07-17 (new investor), Series D 2026-01-09 (returning investor), Series
+    D extension 2026-08-06 (returning investor). Hadrian was missing entirely from Altimeter''s portfolio despite Altimeter joining as a new investor in the July 2025 Series C. Added 7 new named-footnote
+    citations ([^hadrian-alt1] TechCrunch Series C, [^hadrian-alt2] PR Newswire Series C primary press release, [^hadrian-alt3] PR Newswire Series D primary press release, [^hadrian-alt4] Pulse 2.0 Series
+    D, [^hadrian-alt5] PR Newswire Series D extension primary press release, [^hadrian-alt6] TechCrunch Series D extension, [^hadrian-alt7] Bloomberg Series D extension) — all primary sources verified via
+    WebFetch and each independently names Altimeter as a participant. Total raised now ~$2B; Series D extension valuation $7.87B.'
+  processed: '2026-09-17'
 - slug: general-catalyst
   type: firm
   reason: appeared in Castelion Series C (2026-08-19)
@@ -7084,6 +7120,14 @@ priority:
   type: firm
   reason: appeared in Castelion Series C (2026-08-19)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-17'
+  resolution_note: 'Fact-spec sweep 2026-09-17: added THREE missing Hadrian rows to Altimeter''s private portfolio table — Series C 2025-07-17 (new investor), Series D 2026-01-09 (returning investor), Series
+    D extension 2026-08-06 (returning investor). Hadrian was missing entirely from Altimeter''s portfolio despite Altimeter joining as a new investor in the July 2025 Series C. Added 7 new named-footnote
+    citations ([^hadrian-alt1] TechCrunch Series C, [^hadrian-alt2] PR Newswire Series C primary press release, [^hadrian-alt3] PR Newswire Series D primary press release, [^hadrian-alt4] Pulse 2.0 Series
+    D, [^hadrian-alt5] PR Newswire Series D extension primary press release, [^hadrian-alt6] TechCrunch Series D extension, [^hadrian-alt7] Bloomberg Series D extension) — all primary sources verified via
+    WebFetch and each independently names Altimeter as a participant. Total raised now ~$2B; Series D extension valuation $7.87B.'
+  processed: '2026-09-17'
 - slug: general-catalyst
   type: firm
   reason: appeared in Castelion Series C (2026-08-19)
@@ -8589,7 +8633,11 @@ priority:
   added: 2026-09-16
   status: resolved
   resolved: '2026-09-16'
-  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): verified €35M growth round (2026-09-09) via 2 primary sources — EU-Startups (independent contemporaneous European tech press) and Implicity corporate website (primary company). Full 3-source triangulation not achievable within tool budget; Finsmes, HealthcareIT News, Tech.eu, Sifted, IRIS Capital portfolio page, Five Arrows press page all returned 403/404. IRIS lead + Five Arrows co-investor confirmed by EU-Startups. Added Five Arrows Director François-Xavier Lehman verbatim quote to What Investors Say and second verbatim Arnaud Rosier quote ("I didn''t become a physician to manage data — I became one to treat patients") to What Founders Say, both from EU-Startups. Currency preserved as €35M (Paris-based). Best-effort within tool-budget constraint.'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): verified €35M growth round (2026-09-09) via 2 primary sources — EU-Startups (independent contemporaneous European tech press) and Implicity corporate
+    website (primary company). Full 3-source triangulation not achievable within tool budget; Finsmes, HealthcareIT News, Tech.eu, Sifted, IRIS Capital portfolio page, Five Arrows press page all returned
+    403/404. IRIS lead + Five Arrows co-investor confirmed by EU-Startups. Added Five Arrows Director François-Xavier Lehman verbatim quote to What Investors Say and second verbatim Arnaud Rosier quote
+    ("I didn''t become a physician to manage data — I became one to treat patients") to What Founders Say, both from EU-Startups. Currency preserved as €35M (Paris-based). Best-effort within tool-budget
+    constraint.'
 - slug: igii
   type: startup
   reason: 'Round monitoring 2026-09-16: New lean profile for £22.7M / €26.49M Series B (2026-09-16) led by Scottish National Investment Bank with PXN Ventures, Archangels, Scottish Enterprise. Sources:
@@ -8597,14 +8645,21 @@ priority:
   added: 2026-09-16
   status: resolved
   resolved: '2026-09-16'
-  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): verified £22.7M / €26.49M Series B (2026-09-16) via 3 independent primary sources — EU-Startups (independent contemporaneous European tech press), iGii company press release (primary company), and NEW PXN Ventures press release "iGii secures £22.7m to target the next industrial revolution" (primary co-investor source). Scottish National Investment Bank £11.7M equity lead confirmed; PXN Ventures + Archangels + Scottish Enterprise £11M support confirmed. Added new [^3] PXN Ventures citation. Added verbatim Aidan MacMillan (PXN Ventures) quote to What Investors Say. Tightened Alastair McMillen (SNIB) quote to the fuller verbatim version from the PXN Ventures release. Currency preserved as £22.7M (Scotland-based).'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): verified £22.7M / €26.49M Series B (2026-09-16) via 3 independent primary sources — EU-Startups (independent contemporaneous European tech press),
+    iGii company press release (primary company), and NEW PXN Ventures press release "iGii secures £22.7m to target the next industrial revolution" (primary co-investor source). Scottish National Investment
+    Bank £11.7M equity lead confirmed; PXN Ventures + Archangels + Scottish Enterprise £11M support confirmed. Added new [^3] PXN Ventures citation. Added verbatim Aidan MacMillan (PXN Ventures) quote to
+    What Investors Say. Tightened Alastair McMillen (SNIB) quote to the fuller verbatim version from the PXN Ventures release. Currency preserved as £22.7M (Scotland-based).'
 - slug: actionable
   type: startup
   reason: 'Round monitoring 2026-09-16: New lean profile for €8.5M Series A (2026-09-09) led by Hi Inov with Axeleo Capital. Sources: (1) EU-Startups.'
   added: 2026-09-16
   status: resolved
   resolved: '2026-09-16'
-  resolution_note: 'Fact-spec sweep 2026-09-16 (3rd cron): verified €8.5M Series A (2026-09-09) via 3 independent sources — EU-Startups (independent contemporaneous European tech press), Actionable corporate website (primary company source), and Axeleo Capital corporate news page (primary co-investor source, which lists "Actionable''s €8.5M Series A funding" among recent portfolio news). Hi Inov lead + Axeleo Capital co-investor confirmed by 3 sources. Hi Inov corporate site (hi-inov.com) returned DNS failure to WebFetch and could not serve as a 4th independent verification. Currency preserved as €8.5M (Paris-based). Added [^3] Axeleo Capital citation to portfolio row and body. No independently sourced investor or founder quotes found for this round after checking all 3 primary sources — kept "No independently sourced quotes found" text.'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (3rd cron): verified €8.5M Series A (2026-09-09) via 3 independent sources — EU-Startups (independent contemporaneous European tech press), Actionable corporate
+    website (primary company source), and Axeleo Capital corporate news page (primary co-investor source, which lists "Actionable''s €8.5M Series A funding" among recent portfolio news). Hi Inov lead +
+    Axeleo Capital co-investor confirmed by 3 sources. Hi Inov corporate site (hi-inov.com) returned DNS failure to WebFetch and could not serve as a 4th independent verification. Currency preserved as
+    €8.5M (Paris-based). Added [^3] Axeleo Capital citation to portfolio row and body. No independently sourced investor or founder quotes found for this round after checking all 3 primary sources — kept
+    "No independently sourced quotes found" text.'
 - slug: zero-helsinki
   type: startup
   reason: 'Round monitoring 2026-09-16: New lean profile for €8.93M Seed (2026-09-15) led by Primary Venture Partners with Inception Fund, Defiant, Greens, 20VC. Sources: (1) EU-Startups; (2) Zero corporate
@@ -8612,7 +8667,13 @@ priority:
   added: 2026-09-16
   status: resolved
   resolved: '2026-09-16'
-  resolution_note: 'Fact-spec sweep 2026-09-16 (3rd cron): verified €8.93M / $10.3M Seed (2026-09-15) via 3 independent primary sources — EU-Startups (independent contemporaneous European tech press), Zero corporate website (primary company source), and NEW Zero corporate blog post "Zero raises $10.3M Seed led by Primary" (primary company press release, verified via WebFetch). Primary Venture Partners lead confirmed across all 3 sources. Additional named participants surfaced from blog post: Depict founders (new to co-investor list), plus individual angels Fabian Hedin, Ilkka Paananen (Supercell CEO), and Peter Sarlin (Silo AI CEO). Added 2 verbatim Tuomo Riekki (Co-Founder) quotes from the blog post to What Founders Say (previously "No independently sourced founder testimonials found"): (1) "We started Zero because we think software should take on much more of that effort." (2) "Prospecting, sales, and customer success share the same context, so you can pick up where the last conversation left off." Primary Venture Partners direct news page (primary.vc/news, primaryvc.com) returned 404 / SSL error — could not add a 4th independent lead source, but Zero''s own blog post is an authoritative primary press release. Currency preserved as €8.93M (Helsinki-based).'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (3rd cron): verified €8.93M / $10.3M Seed (2026-09-15) via 3 independent primary sources — EU-Startups (independent contemporaneous European tech press), Zero
+    corporate website (primary company source), and NEW Zero corporate blog post "Zero raises $10.3M Seed led by Primary" (primary company press release, verified via WebFetch). Primary Venture Partners
+    lead confirmed across all 3 sources. Additional named participants surfaced from blog post: Depict founders (new to co-investor list), plus individual angels Fabian Hedin, Ilkka Paananen (Supercell
+    CEO), and Peter Sarlin (Silo AI CEO). Added 2 verbatim Tuomo Riekki (Co-Founder) quotes from the blog post to What Founders Say (previously "No independently sourced founder testimonials found"): (1)
+    "We started Zero because we think software should take on much more of that effort." (2) "Prospecting, sales, and customer success share the same context, so you can pick up where the last conversation
+    left off." Primary Venture Partners direct news page (primary.vc/news, primaryvc.com) returned 404 / SSL error — could not add a 4th independent lead source, but Zero''s own blog post is an authoritative
+    primary press release. Currency preserved as €8.93M (Helsinki-based).'
 - slug: hope-care
   type: startup
   reason: 'Round monitoring 2026-09-16: New lean profile for €6M Series A (2026-09-08) led by Iberis Capital with VDM Capital, Buenavista Equity Partners. Sources: (1) EU-Startups; (2) Hope Care corporate
@@ -8620,7 +8681,14 @@ priority:
   added: 2026-09-16
   status: resolved
   resolved: '2026-09-16'
-  resolution_note: 'Fact-spec sweep 2026-09-16 (3rd cron): verified €6M Series A (2026-09-08) via 3 independent primary sources — EU-Startups (independent contemporaneous European tech press), Hope Care corporate website news section (primary company source), and NEW Hope Care corporate announcement URL (hopecarehealth.com/en/linkedin-post/hope-care-closes-series-a-led-by-iberis-capital-to-accelerate-european-expansion, primary company press release, verified via WebFetch). Iberis Capital lead + VDM Capital + Buenavista Equity Partners (existing shareholder) confirmed. Full VDM name resolved to "Vieira de Matos – VDM Capital, S.A." Added verbatim João Henriques (Partner, Iberis Capital) quote to What Investors Say (previously "No independently sourced investor quotes found"): "Hope Care is one of the few companies that pairs proven clinical evidence with the regulatory maturity to operate inside public health systems at scale." Expanded José Paulo Carvalho (Founder & CEO) verbatim quote to the fuller version from the primary announcement: added "for patients, healthcare professionals and healthcare systems." tail. Added expansion timeline detail: Romania (September 2026), Germany (October 2026). Iberis Capital direct site (iberis.pt / iberiscapital.com) returned DNS failure and empty content — could not add a 4th independent lead source, but Hope Care''s own announcement is authoritative. Currency preserved as €6M (Portugal-based).'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (3rd cron): verified €6M Series A (2026-09-08) via 3 independent primary sources — EU-Startups (independent contemporaneous European tech press), Hope Care
+    corporate website news section (primary company source), and NEW Hope Care corporate announcement URL (hopecarehealth.com/en/linkedin-post/hope-care-closes-series-a-led-by-iberis-capital-to-accelerate-european-expansion,
+    primary company press release, verified via WebFetch). Iberis Capital lead + VDM Capital + Buenavista Equity Partners (existing shareholder) confirmed. Full VDM name resolved to "Vieira de Matos – VDM
+    Capital, S.A." Added verbatim João Henriques (Partner, Iberis Capital) quote to What Investors Say (previously "No independently sourced investor quotes found"): "Hope Care is one of the few companies
+    that pairs proven clinical evidence with the regulatory maturity to operate inside public health systems at scale." Expanded José Paulo Carvalho (Founder & CEO) verbatim quote to the fuller version
+    from the primary announcement: added "for patients, healthcare professionals and healthcare systems." tail. Added expansion timeline detail: Romania (September 2026), Germany (October 2026). Iberis
+    Capital direct site (iberis.pt / iberiscapital.com) returned DNS failure and empty content — could not add a 4th independent lead source, but Hope Care''s own announcement is authoritative. Currency
+    preserved as €6M (Portugal-based).'
 - slug: moonwalk-biosciences
   type: startup
   reason: 'Round monitoring 2026-09-16: New profile for $70M Series B (2026-09-08) co-led by Alpha Wave and YK Bioventures with Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures, Future
@@ -8628,28 +8696,44 @@ priority:
   added: 2026-09-16
   status: resolved
   resolved: '2026-09-16'
-  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): verified $70M Series B (2026-09-08) via 3 independent primary sources — Business Wire press release (URL live but returns 403 to WebFetch; verified via syndicated content), BioPharm International (independent trade press, verified by WebFetch), and Yahoo Finance / NYSE Content Update (independent syndication, verified by WebFetch). Alpha Wave + YK Bioventures co-lead structure confirmed; Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures, Future Ventures all confirmed as participants. Extracted verbatim Alex Aravanis (CEO & Co-Founder) quote and Rick Gerson (Co-Founder & Chairman, Alpha Wave Global) quote from BioPharm International; added both to What Founders Say / What Investors Say (previously "No independently sourced quotes found"). MW101 adipose-targeted RNAi program confirmed; first-in-human studies planned late 2027. Currency preserved as $70M. Companion updates for khosla-ventures and future-ventures backfilled in this sweep.'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): verified $70M Series B (2026-09-08) via 3 independent primary sources — Business Wire press release (URL live but returns 403 to WebFetch; verified
+    via syndicated content), BioPharm International (independent trade press, verified by WebFetch), and Yahoo Finance / NYSE Content Update (independent syndication, verified by WebFetch). Alpha Wave +
+    YK Bioventures co-lead structure confirmed; Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures, Future Ventures all confirmed as participants. Extracted verbatim Alex Aravanis (CEO
+    & Co-Founder) quote and Rick Gerson (Co-Founder & Chairman, Alpha Wave Global) quote from BioPharm International; added both to What Founders Say / What Investors Say (previously "No independently sourced
+    quotes found"). MW101 adipose-targeted RNAi program confirmed; first-in-human studies planned late 2027. Currency preserved as $70M. Companion updates for khosla-ventures and future-ventures backfilled
+    in this sweep.'
 - slug: khosla-ventures
   type: firm
   reason: 'Round monitoring 2026-09-16: participated in Moonwalk Biosciences Series B ($70M, 2026-09-08).'
   added: 2026-09-16
   status: resolved
   resolved: '2026-09-16'
-  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): added Moonwalk Biosciences Series B row to khosla-ventures.md portfolio table (participated, $70M; Alpha Wave and YK Bioventures co-led; Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Future Ventures also participated) with 3 named-footnote citations ([^mwb-kv1] Business Wire, [^mwb-kv2] BioPharm International, [^mwb-kv3] Yahoo Finance/NYSE). BioPharm and Yahoo verified via WebFetch; Business Wire URL is live but returns 403 to fetch. Also updated last_verified_investment frontmatter to Profound Series D 2026-09-15 (was Mariana Minerals 2026-08-03) to reflect the newer Profound entry already present in the portfolio table.'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): added Moonwalk Biosciences Series B row to khosla-ventures.md portfolio table (participated, $70M; Alpha Wave and YK Bioventures co-led; Eli Lilly,
+    Gaorong Ventures, ARCH Venture Partners, Future Ventures also participated) with 3 named-footnote citations ([^mwb-kv1] Business Wire, [^mwb-kv2] BioPharm International, [^mwb-kv3] Yahoo Finance/NYSE).
+    BioPharm and Yahoo verified via WebFetch; Business Wire URL is live but returns 403 to fetch. Also updated last_verified_investment frontmatter to Profound Series D 2026-09-15 (was Mariana Minerals
+    2026-08-03) to reflect the newer Profound entry already present in the portfolio table.'
 - slug: future-ventures
   type: firm
   reason: 'Round monitoring 2026-09-16: participated in Moonwalk Biosciences Series B ($70M, 2026-09-08).'
   added: 2026-09-16
   status: resolved
   resolved: '2026-09-16'
-  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): added Moonwalk Biosciences Series B row to future-ventures.md portfolio table (participated, $70M; Alpha Wave and YK Bioventures co-led; Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures also participated) with 3 named-footnote citations ([^mwb-fv1] Business Wire, [^mwb-fv2] BioPharm International, [^mwb-fv3] Yahoo Finance/NYSE). Kept existing 2024 Seed/Series A row [^23] and added new 2026-09-08 Series B row below it. BioPharm and Yahoo verified via WebFetch; Business Wire URL is live but returns 403 to fetch.'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): added Moonwalk Biosciences Series B row to future-ventures.md portfolio table (participated, $70M; Alpha Wave and YK Bioventures co-led; Eli Lilly,
+    Gaorong Ventures, ARCH Venture Partners, Khosla Ventures also participated) with 3 named-footnote citations ([^mwb-fv1] Business Wire, [^mwb-fv2] BioPharm International, [^mwb-fv3] Yahoo Finance/NYSE).
+    Kept existing 2024 Seed/Series A row [^23] and added new 2026-09-08 Series B row below it. BioPharm and Yahoo verified via WebFetch; Business Wire URL is live but returns 403 to fetch.'
 - slug: footprint
   type: startup
-  reason: 'Round monitoring 2026-09-17 (6h cron): New lean profile for Footprint $25M Series B (2026-09-16) led by QED Investors with MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital. Sources: onefootprint.com/learn/series-b blog, AlleyWatch daily 9/16 report, QED Investors blog.'
+  reason: 'Round monitoring 2026-09-17 (6h cron): New lean profile for Footprint $25M Series B (2026-09-16) led by QED Investors with MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures,
+    Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital. Sources: onefootprint.com/learn/series-b blog, AlleyWatch daily 9/16 report, QED Investors blog.'
   added: 2026-09-17
   status: resolved
   resolved: 2026-09-17
-  resolution_note: 'Fact-spec sweep 2026-09-17: verified $25M Series B via 3 independent primary sources — Footprint company blog [^1] (onefootprint.com/learn/series-b, primary company source: confirms $25M, QED lead, 2026-09-16 date, complete participant list including MUFG, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital); AlleyWatch [^2] (2026-09-16, independent contemporaneous tech press: confirms $25M Series B, QED lead, "MUFG Innovation Partners" fuller name, $45M total-raised figure); QED Investors blog memo [^3] (Amias Gerety, 2024-05-21, primary lead-investor thesis source: predates the Series B but confirms QED prior investment and rationale). Added TWO NEW verbatim quotes: Eli Wachs — "This requires solving for two things: time and memory." — from Footprint Series B blog; Amias Gerety (QED) — "We couldn''t be more excited about joining the Footprint team for their journey towards a true reusable identity network." — from QED memo. Expanded About with QED thesis context. Sources section reformatted with per-citation source-quality annotations.'
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified $25M Series B via 3 independent primary sources — Footprint company blog [^1] (onefootprint.com/learn/series-b, primary company source: confirms
+    $25M, QED lead, 2026-09-16 date, complete participant list including MUFG, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital);
+    AlleyWatch [^2] (2026-09-16, independent contemporaneous tech press: confirms $25M Series B, QED lead, "MUFG Innovation Partners" fuller name, $45M total-raised figure); QED Investors blog memo [^3]
+    (Amias Gerety, 2024-05-21, primary lead-investor thesis source: predates the Series B but confirms QED prior investment and rationale). Added TWO NEW verbatim quotes: Eli Wachs — "This requires solving
+    for two things: time and memory." — from Footprint Series B blog; Amias Gerety (QED) — "We couldn''t be more excited about joining the Footprint team for their journey towards a true reusable identity
+    network." — from QED memo. Expanded About with QED thesis context. Sources section reformatted with per-citation source-quality annotations.'
   processed: '2026-09-17'
 - slug: qed-investors
   type: firm
@@ -8657,7 +8741,9 @@ priority:
   added: 2026-09-17
   status: resolved
   resolved: 2026-09-17
-  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B row to qed-investors.md portfolio table (Led $25M; MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital participated; $45M total raised) with 3 named-footnote citations ([^footprint-qed-1] Footprint company blog, [^footprint-qed-2] AlleyWatch, [^footprint-qed-3] QED Investors memo). Row inserted at top of portfolio table as newest QED-led deal.'
+  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B row to qed-investors.md portfolio table (Led $25M; MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index
+    Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital participated; $45M total raised) with 3 named-footnote citations ([^footprint-qed-1] Footprint company blog, [^footprint-qed-2] AlleyWatch,
+    [^footprint-qed-3] QED Investors memo). Row inserted at top of portfolio table as newest QED-led deal.'
   processed: '2026-09-17'
 - slug: index-ventures
   type: firm
@@ -8665,7 +8751,8 @@ priority:
   added: 2026-09-17
   status: resolved
   resolved: 2026-09-17
-  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to index-ventures.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-idx-1] Footprint company blog, [^footprint-idx-2] AlleyWatch). Row inserted at top of portfolio table as newest Index-participated deal.'
+  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to index-ventures.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-idx-1]
+    Footprint company blog, [^footprint-idx-2] AlleyWatch). Row inserted at top of portfolio table as newest Index-participated deal.'
   processed: '2026-09-17'
 - slug: lerer-hippeau
   type: firm
@@ -8673,7 +8760,8 @@ priority:
   added: 2026-09-17
   status: resolved
   resolved: 2026-09-17
-  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to lerer-hippeau.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-lh-1] Footprint company blog, [^footprint-lh-2] AlleyWatch). Row inserted at top of portfolio table as newest Lerer Hippeau participation.'
+  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to lerer-hippeau.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-lh-1]
+    Footprint company blog, [^footprint-lh-2] AlleyWatch). Row inserted at top of portfolio table as newest Lerer Hippeau participation.'
   processed: '2026-09-17'
 - slug: boxgroup
   type: firm
@@ -8681,7 +8769,8 @@ priority:
   added: 2026-09-17
   status: resolved
   resolved: 2026-09-17
-  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to boxgroup.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-bg-1] Footprint company blog, [^footprint-bg-2] AlleyWatch). Row inserted at top of portfolio table as newest BoxGroup participation.'
+  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to boxgroup.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-bg-1]
+    Footprint company blog, [^footprint-bg-2] AlleyWatch). Row inserted at top of portfolio table as newest BoxGroup participation.'
   processed: '2026-09-17'
 - slug: operator-partners
   type: firm
@@ -8689,7 +8778,8 @@ priority:
   added: 2026-09-17
   status: resolved
   resolved: 2026-09-17
-  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to operator-partners.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-op-1] Footprint company blog, [^footprint-op-2] AlleyWatch). Row inserted at top of portfolio table as newest Operator Partners participation.'
+  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to operator-partners.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-op-1]
+    Footprint company blog, [^footprint-op-2] AlleyWatch). Row inserted at top of portfolio table as newest Operator Partners participation.'
   processed: '2026-09-17'
 - slug: isometric
   type: startup
@@ -8717,7 +8807,12 @@ priority:
   added: 2026-09-17
   status: resolved
   resolved: 2026-09-17
-  resolution_note: 'Fact-spec sweep 2026-09-17: verified €4.2M Seed round via 3 independent primary sources: EU-Startups [^1] (2026-09-17, contemporaneous European tech press — primary source for round, participants, and both Roos + Haddad quotes), Health Force company site [^2] (primary company source — confirms Barcelona location, product mix Claims & Billing / Quality Reporting / Clinical Trials beta, and adds NEW Ospedale Galeazzi CFO Giovanni Bonora customer testimonial), and NEW Target Global portfolio page [^3] (primary co-investor source confirming HealthForce as early-stage business-software portfolio company, supporting the double-down described by Peter Roos). 1 new citation added ([^3]) plus 1 new verbatim customer testimonial from healthforce.ai. Note: Target Global still describes HF as "Austrian" on the portfolio card, an out-of-date detail against the EU-Startups Barcelona-based framing; the round-level facts (lead, participants, amount, date) are consistent across all three sources.'
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified €4.2M Seed round via 3 independent primary sources: EU-Startups [^1] (2026-09-17, contemporaneous European tech press — primary source for round,
+    participants, and both Roos + Haddad quotes), Health Force company site [^2] (primary company source — confirms Barcelona location, product mix Claims & Billing / Quality Reporting / Clinical Trials
+    beta, and adds NEW Ospedale Galeazzi CFO Giovanni Bonora customer testimonial), and NEW Target Global portfolio page [^3] (primary co-investor source confirming HealthForce as early-stage business-software
+    portfolio company, supporting the double-down described by Peter Roos). 1 new citation added ([^3]) plus 1 new verbatim customer testimonial from healthforce.ai. Note: Target Global still describes
+    HF as "Austrian" on the portfolio card, an out-of-date detail against the EU-Startups Barcelona-based framing; the round-level facts (lead, participants, amount, date) are consistent across all three
+    sources.'
   processed: '2026-09-17'
 - slug: grubel
   type: startup
@@ -8725,7 +8820,10 @@ priority:
   added: 2026-09-17
   status: resolved
   resolved: 2026-09-17
-  resolution_note: 'Fact-spec sweep 2026-09-17: profile already carries Louis Coppey (Point Nine partner) verbatim quote from EU-Startups, complete named-angel roster with credentials, and a documented note that only 2 independent primary sources exist for this round (EU-Startups [^1] + Grubel company site [^2]) despite dedicated search across TechCrunch, Tech.eu, Sifted, Silicon Canals, TechFundingNews, Point Nine blog/portfolio, deutsche-startups, and startupsmagazine — all returned 404, 403, or did not list Grubel. Re-verified live: Grubel company site confirms Point Nine lead + all 5 named angels + founders Hardt/Heckel; EU-Startups confirms €3M / 2026-09-10 / Point Nine lead / same 5 angels / Coppey investor quote + Heckel founder quote. Round facts stable; no profile change needed this pass.'
+  resolution_note: 'Fact-spec sweep 2026-09-17: profile already carries Louis Coppey (Point Nine partner) verbatim quote from EU-Startups, complete named-angel roster with credentials, and a documented
+    note that only 2 independent primary sources exist for this round (EU-Startups [^1] + Grubel company site [^2]) despite dedicated search across TechCrunch, Tech.eu, Sifted, Silicon Canals, TechFundingNews,
+    Point Nine blog/portfolio, deutsche-startups, and startupsmagazine — all returned 404, 403, or did not list Grubel. Re-verified live: Grubel company site confirms Point Nine lead + all 5 named angels
+    + founders Hardt/Heckel; EU-Startups confirms €3M / 2026-09-10 / Point Nine lead / same 5 angels / Coppey investor quote + Heckel founder quote. Round facts stable; no profile change needed this pass.'
   processed: '2026-09-17'
 - slug: bynario
   type: startup
@@ -8737,7 +8835,11 @@ priority:
   added: 2026-09-17
   status: resolved
   resolved: 2026-09-17
-  resolution_note: 'Fact-spec sweep 2026-09-17: verified $20M Seed round via 3 independent primary sources: AlleyWatch [^1] (2026-09-15, contemporaneous NYC tech press), Fin.com company site [^2] (primary company source with Bam Azizi quote and Fortune coverage acknowledgment), and NEW Expa portfolio page [^3] (primary lead-investor source confirming Fin.com as portfolio company, product description as "operating system for cross-border payments... stablecoins for settlement and local payment rails at the edges", founders Nabeel Alamgir + Mustafa Dar, and Fortune coverage). CRITICAL CORRECTION: prior profile listed Bam Azizi as CEO/founder — Expa portfolio primary source establishes Bam Azizi is a participant investor in the Seed round, not a founder; real co-founders are Nabeel Alamgir and Mustafa Dar. Frontmatter founders updated. Product description expanded per Expa framing. Prior Bam Azizi quote retained but labeled correctly as "participant investor". 1 new citation added ([^3]).'
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified $20M Seed round via 3 independent primary sources: AlleyWatch [^1] (2026-09-15, contemporaneous NYC tech press), Fin.com company site [^2] (primary
+    company source with Bam Azizi quote and Fortune coverage acknowledgment), and NEW Expa portfolio page [^3] (primary lead-investor source confirming Fin.com as portfolio company, product description
+    as "operating system for cross-border payments... stablecoins for settlement and local payment rails at the edges", founders Nabeel Alamgir + Mustafa Dar, and Fortune coverage). CRITICAL CORRECTION:
+    prior profile listed Bam Azizi as CEO/founder — Expa portfolio primary source establishes Bam Azizi is a participant investor in the Seed round, not a founder; real co-founders are Nabeel Alamgir and
+    Mustafa Dar. Frontmatter founders updated. Product description expanded per Expa framing. Prior Bam Azizi quote retained but labeled correctly as "participant investor". 1 new citation added ([^3]).'
   processed: '2026-09-17'
 - slug: liquid-compute
   type: startup
@@ -8745,5 +8847,10 @@ priority:
   added: 2026-09-17
   status: resolved
   resolved: 2026-09-17
-  resolution_note: 'Fact-spec sweep 2026-09-17: verified $15M Seed round via 3+ independent primary sources (final profile now carries 5 citations after a parallel enrichment pass by another sweep): AlleyWatch [^1] (2026-09-15, contemporaneous NYC tech press), Liquid Compute company site [^2] (primary company source), NEW FirstMark portfolio page [^3] (primary co-lead source with product description "developing a CFTC-regulated exchange for computational resources, providing verification, clearing, settlement, and price discovery services for neoclouds, AI companies, and traders" and naming Adam Nelson as investing partner), NEW Chemistry portfolio page [^4] (primary co-lead source with framing "the regulated exchange for compute"), and NEW FirstMark Capital perspectives post [^5] (primary lead-investor announcement + verbatim Adam Nelson quote). 2 new citations added by this sweep ([^3], [^4]); 3rd new ([^5]) added by parallel sweep. Product description sharpened per FirstMark primary source. Adam Nelson quote sourced from FirstMark perspectives blog.'
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified $15M Seed round via 3+ independent primary sources (final profile now carries 5 citations after a parallel enrichment pass by another sweep): AlleyWatch
+    [^1] (2026-09-15, contemporaneous NYC tech press), Liquid Compute company site [^2] (primary company source), NEW FirstMark portfolio page [^3] (primary co-lead source with product description "developing
+    a CFTC-regulated exchange for computational resources, providing verification, clearing, settlement, and price discovery services for neoclouds, AI companies, and traders" and naming Adam Nelson as
+    investing partner), NEW Chemistry portfolio page [^4] (primary co-lead source with framing "the regulated exchange for compute"), and NEW FirstMark Capital perspectives post [^5] (primary lead-investor
+    announcement + verbatim Adam Nelson quote). 2 new citations added by this sweep ([^3], [^4]); 3rd new ([^5]) added by parallel sweep. Product description sharpened per FirstMark primary source. Adam
+    Nelson quote sourced from FirstMark perspectives blog.'
   processed: '2026-09-17'
