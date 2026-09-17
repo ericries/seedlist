@@ -6836,6 +6836,10 @@ priority:
   reason: new profile — Meridiam-led €23M growth round (2026-07-27)
   added: 2026-08-06
   status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified €23M growth round via 4 independent primary sources — Chargepoly company press release [^1], AVEM [^2] (2026-07-27, contemporaneous French tech press), EU-Startups [^3] (August 2026), and NEW Meridiam corporate news article [^4] (primary lead-investor source with full Yannick Marion verbatim quote and Hadi Moussavi verbatim quote). Fund confirmed as Meridiam Green Impact Growth Fund (MGIGF). Fideve Groupe role sharpened from "existing shareholder" to "long-standing shareholder" per Meridiam primary source. NOTE ON DATE DISCREPANCY: Meridiam news page dates the post 2026-07-22, while contemporaneous French press (AVEM, EU-Startups) reports the announcement on 2026-07-27; the 07-27 date is retained in the Funding History table to match the earliest public press coverage, with the discrepancy explicitly noted in the profile body. Extended both Marion and Moussavi quotes to full verbatim (previously truncated with ellipses). 1 new citation added ([^4]).'
+  processed: '2026-09-17'
+  status: resolved
   resolved: '2026-09-17'
   resolution_note: 'Fact-spec sweep 2026-09-17: verified €23M growth round (2026-07-27) via 3 independent primary sources already cited — [^1] Chargepoly company press release (primary company source; direct
     fetch confirms €23M, Meridiam lead via Meridiam Green Impact Growth Fund, Fideve Groupe as co-investor), [^2] AVEM 2026-07-27 (French cleantech trade press, contemporaneous), [^3] EU-Startups (independent
@@ -6866,6 +6870,10 @@ priority:
   type: investor
   reason: appeared in Hulp Seed (2026-08-05), $2.6M
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: Yashish Dahiya''s participation as an angel in the Hulp $2.6M Seed round (2026-08-05) verified via 2 independent primary Indian tech-press sources — Inc42 [^11] (2026-08-05, named Dahiya explicitly among angels alongside Sparrow Capital + BITKRAFT Ventures lead + DeVC participation) and Entrackr [^12] (2026-08-05, named Dahiya as PB Fintech co-founder/chairman angel). Both re-verified live via WebFetch; both explicitly name Yashish Dahiya as an angel participant. Founders (Tarun Mathur ex-Policybazaar CBO, Neha Kulwal ex-Mitgo India MD, Vishal Singh Khutel) consistent across both sources. Amount ($2.6M / ~₹25 Cr) consistent. Company founded April 2026, Gurugram-based, AI concierge model — all consistent. DEDICATED SEARCH for a 3rd primary source across Hulp company site (hulp.co dead, hulpai.com empty landing page), Sparrow Capital site (no Hulp mention), BITKRAFT portfolio (JS-only listing not accessible via WebFetch), DeVC site (dead DNS), YourStory, StartupTalky, StartupNews.fyi, StartupStoryMedia, Business Standard, Economic Times, Moneycontrol, Crunchbase, Tracxn, TechCrunch — all returned 403/404 or did not list Hulp. Round facts stable and consistent across the 2 primary sources that exist; no profile change needed this pass (Hulp portfolio row already cites both [^11] and [^12]). Precedent for resolution on 2 primary sources despite dedicated search: grubel (resolved 2026-09-17).'
+  processed: '2026-09-17'
   status: resolved
   resolved: '2026-09-17'
   resolution_note: 'Fact-spec sweep 2026-09-17: verified Hulp Seed round (2026-08-05, $2.6M) participation via 3 independent primary sources already cited on profile: [^11] Inc42 2026-08-05 (Indian startup
@@ -8829,6 +8837,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-17: Pre-Seed €2.1M led by 360 Capital Partners with PranaVentures (2026-09-10).'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified €2.1M Pre-Seed round via 3 independent primary sources — EU-Startups [^1] (2026-09-10, contemporaneous European tech press, primary source for round + Cesare Maifredi verbatim quote + Alfredo Pesoli verbatim quote), Bynario company site [^2] (primary company source, confirms Milan HQ, product suite Atlas/Precog/Remedy, and CEO Alfredo Pesoli), and NEW PranaVentures portfolio page [^3] (primary co-investor source confirming Bynario as portfolio company). Search for 360 Capital coverage of the deal: 360cap.vc main site + /news + /portfolio all failed to surface Bynario despite lead-investor status; also tried tech.eu, silicon.eu, startupitalia — none listed Bynario. Product framing sharpened in About section per Bynario company site: added "an AI security research lab building autonomous systems to find and fix exploitable vulnerabilities across code and cloud infrastructure" verbatim positioning and enumerated product suite (Atlas AppSec, Precog CTEM, Remedy Risk Mitigation). No additional angels/participants beyond 360 Capital and PranaVentures confirmed across all sources. 1 new citation added ([^3]).'
+  processed: '2026-09-17'
 - slug: fin-com
   type: startup
   reason: 'Round monitoring 2026-09-17: Seed $20M led by Expa with Coinbase Ventures, Tenet Fund, Second Sight Ventures (2026-09-15).'

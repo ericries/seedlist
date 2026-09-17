@@ -28,7 +28,7 @@ last_researched: 2026-09-17
 
 ## About
 
-Bynario is a Milan-based cybersecurity startup applying autonomous AI to vulnerability discovery, validation, prioritisation, and remediation, following research by its founders that surfaced serious vulnerabilities in Apple systems [^1][^2]. On 2026-09-10, Bynario announced a €2.1M Pre-Seed round led by 360 Capital Partners with participation from PranaVentures [^1].
+Bynario is a Milan-based cybersecurity startup applying autonomous AI to vulnerability discovery, validation, prioritisation, and remediation, following research by its founders that surfaced serious vulnerabilities in Apple systems [^1][^2]. On 2026-09-10, Bynario announced a €2.1M Pre-Seed round led by 360 Capital Partners with participation from PranaVentures [^1][^3]. The company's product suite comprises Atlas (AppSec), Precog (CTEM), and Remedy (Risk Mitigation), positioning it as "an AI security research lab building autonomous systems to find and fix exploitable vulnerabilities across code and cloud infrastructure" [^2].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -36,7 +36,7 @@ Bynario is a Milan-based cybersecurity startup applying autonomous AI to vulnera
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-10 | Pre-Seed | €2.1M | 360 Capital Partners | PranaVentures [^1] |
+| 2026-09-10 | Pre-Seed | €2.1M | 360 Capital Partners | PranaVentures [^1][^3] |
 
 ## What Investors Say
 
@@ -54,3 +54,4 @@ Bynario is a Milan-based cybersecurity startup applying autonomous AI to vulnera
 
 [^1]: EU-Startups, "Milan-based Bynario raises €2.1 million pre-seed after AI research exposed serious Apple vulnerabilities," September 10, 2026. Accessed September 17, 2026. https://www.eu-startups.com/2026/09/milan-based-bynario-raises-e2-1-million-pre-seed-after-ai-research-exposed-serious-apple-vulnerabilities/
 [^2]: Bynario, company website, accessed September 2026. https://bynar.io
+[^3]: PranaVentures, portfolio page listing Bynario, accessed September 2026. https://www.pranaventures.it
