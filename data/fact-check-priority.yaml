@@ -8602,16 +8602,25 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-16: New lean profile for €8.5M Series A (2026-09-09) led by Hi Inov with Axeleo Capital. Sources: (1) EU-Startups.'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (3rd cron): verified €8.5M Series A (2026-09-09) via 3 independent sources — EU-Startups (independent contemporaneous European tech press), Actionable corporate website (primary company source), and Axeleo Capital corporate news page (primary co-investor source, which lists "Actionable''s €8.5M Series A funding" among recent portfolio news). Hi Inov lead + Axeleo Capital co-investor confirmed by 3 sources. Hi Inov corporate site (hi-inov.com) returned DNS failure to WebFetch and could not serve as a 4th independent verification. Currency preserved as €8.5M (Paris-based). Added [^3] Axeleo Capital citation to portfolio row and body. No independently sourced investor or founder quotes found for this round after checking all 3 primary sources — kept "No independently sourced quotes found" text.'
 - slug: zero-helsinki
   type: startup
   reason: 'Round monitoring 2026-09-16: New lean profile for €8.93M Seed (2026-09-15) led by Primary Venture Partners with Inception Fund, Defiant, Greens, 20VC. Sources: (1) EU-Startups; (2) Zero corporate
     site.'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (3rd cron): verified €8.93M / $10.3M Seed (2026-09-15) via 3 independent primary sources — EU-Startups (independent contemporaneous European tech press), Zero corporate website (primary company source), and NEW Zero corporate blog post "Zero raises $10.3M Seed led by Primary" (primary company press release, verified via WebFetch). Primary Venture Partners lead confirmed across all 3 sources. Additional named participants surfaced from blog post: Depict founders (new to co-investor list), plus individual angels Fabian Hedin, Ilkka Paananen (Supercell CEO), and Peter Sarlin (Silo AI CEO). Added 2 verbatim Tuomo Riekki (Co-Founder) quotes from the blog post to What Founders Say (previously "No independently sourced founder testimonials found"): (1) "We started Zero because we think software should take on much more of that effort." (2) "Prospecting, sales, and customer success share the same context, so you can pick up where the last conversation left off." Primary Venture Partners direct news page (primary.vc/news, primaryvc.com) returned 404 / SSL error — could not add a 4th independent lead source, but Zero''s own blog post is an authoritative primary press release. Currency preserved as €8.93M (Helsinki-based).'
 - slug: hope-care
   type: startup
   reason: 'Round monitoring 2026-09-16: New lean profile for €6M Series A (2026-09-08) led by Iberis Capital with VDM Capital, Buenavista Equity Partners. Sources: (1) EU-Startups; (2) Hope Care corporate
     site.'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-16'
+  resolution_note: 'Fact-spec sweep 2026-09-16 (3rd cron): verified €6M Series A (2026-09-08) via 3 independent primary sources — EU-Startups (independent contemporaneous European tech press), Hope Care corporate website news section (primary company source), and NEW Hope Care corporate announcement URL (hopecarehealth.com/en/linkedin-post/hope-care-closes-series-a-led-by-iberis-capital-to-accelerate-european-expansion, primary company press release, verified via WebFetch). Iberis Capital lead + VDM Capital + Buenavista Equity Partners (existing shareholder) confirmed. Full VDM name resolved to "Vieira de Matos – VDM Capital, S.A." Added verbatim João Henriques (Partner, Iberis Capital) quote to What Investors Say (previously "No independently sourced investor quotes found"): "Hope Care is one of the few companies that pairs proven clinical evidence with the regulatory maturity to operate inside public health systems at scale." Expanded José Paulo Carvalho (Founder & CEO) verbatim quote to the fuller version from the primary announcement: added "for patients, healthcare professionals and healthcare systems." tail. Added expansion timeline detail: Romania (September 2026), Germany (October 2026). Iberis Capital direct site (iberis.pt / iberiscapital.com) returned DNS failure and empty content — could not add a 4th independent lead source, but Hope Care''s own announcement is authoritative. Currency preserved as €6M (Portugal-based).'
 - slug: moonwalk-biosciences
   type: startup
   reason: 'Round monitoring 2026-09-16: New profile for $70M Series B (2026-09-08) co-led by Alpha Wave and YK Bioventures with Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures, Future
