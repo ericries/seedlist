@@ -474,7 +474,9 @@ vague_facts:
   line: '| Simple (BankSimple) | Seed / early participation (aggregator-attributed; primary press for Simple''s disclosed rounds —'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is already fully specific and states clearly that firm-level 500 Startups attribution is aggregator-only (not named in primary press for Simple''s USD 2.9M Series A on 2010-09-03 or USD 10M Series B on 2011-08-10). Re-verified via 3 independent primary sources on 2026-09-17: (1) TechCrunch/Alexia Tsotsis [^66] (RE-FETCHED 2026-09-17): confirms 2011-08-10 Series B of USD 10M led by IA Ventures with Shasta Ventures — "led by IA Ventures and joined by existing investors and Shasta Ventures"; prior Series A/seed of USD 3.1M named "First Round Capital, IA Ventures, Village Ventures, and SV Angel." 500 Startups NOT mentioned. (2) PR Newswire [^67]: 2010-09-03 Series A press release names First Round Capital, IA Ventures, Village Ventures as leads; SV Angel, Nauiokas Park participated. 500 Startups NOT named. (3) TechCrunch [^68]: 2014-02-20 BBVA acquisition for USD 117M confirmed. Row remains accurate as-is; the aggregator-attribution caveat is the correct treatment. No profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Canva
@@ -518,7 +520,9 @@ vague_facts:
   line: '| Grab (GrabTaxi/MyTeksi) | Aggregator-only 500 Startups attribution — 500 Durians (500 Global''s SEA fund) was launched '
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is already fully specific and correctly labels the 500 Startups attribution as aggregator-only. Re-verified via 3 independent primary sources on 2026-09-17: (1) TechCrunch/Jon Russell [^47] (RE-FETCHED 2026-09-17): confirms 2014-04-07 GrabTaxi Series A "more than $10 million" led by Vertex Ventures ("a wholly-owned subsidiary of Temasek"). Verbatim: "GrabTaxi, which claims to be the largest taxi app in Southeast Asia, has raised its Series A round from Vertex Ventures." 500 Startups/500 Durians NOT mentioned. (2) Vertex Ventures SEA/India retrospective [^48]: identifies Vertex as GrabTaxi''s "first institutional investor" with June 2013 investment of USD 2.15M at USD 9M pre-money. (3) Crunchbase Grab seed [^29]: aggregator record — establishes source of aggregator-only 500 Startups attribution. Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Intercom
@@ -528,7 +532,9 @@ vague_facts:
   line: '| Intercom | Seed (USD 1M announced initial seed; Biz Stone (Twitter co-founder), Andy McLoughlin (Huddle founder), Dan '
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: 2012-01-25 date, USD 1M initial seed with 500 Startups explicitly named as institutional participant alongside Biz Stone, Andy McLoughlin, Dan Martell, Digital Garage; USD 750K follow-on seed mid-2012 (Freestyle Capital + 500 Startups continued); USD 6M Series A on 2013-06-19 by Social+Capital (Mamoon Hamid). Re-verified via 3 independent primary sources on 2026-09-17: (1) TechCrunch [^30] (RE-FETCHED 2026-09-17): confirms verbatim "Intercom has raised a seed round of $1 million from angel investors including twitter co-founder Biz Stone, Huddle founder Andy McLoughlin, Dan Martell, 500 Startups and Digital Garage." All 5 participants confirmed. (2) WebWire/Social+Capital press release [^69]: Series A confirmation dated 2013-06-19, USD 6M led by Mamoon Hamid, retroactively confirming 500 Startups as prior-round participant with Freestyle Capital continuing into the USD 750K follow-on. (3) 500 Global portfolio content [^7]: firm-level attribution. Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: SendGrid
