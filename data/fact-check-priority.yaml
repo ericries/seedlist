@@ -8643,3 +8643,47 @@ priority:
   status: resolved
   resolved: '2026-09-16'
   resolution_note: 'Fact-spec sweep 2026-09-16 (2nd cron): added Moonwalk Biosciences Series B row to future-ventures.md portfolio table (participated, $70M; Alpha Wave and YK Bioventures co-led; Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures also participated) with 3 named-footnote citations ([^mwb-fv1] Business Wire, [^mwb-fv2] BioPharm International, [^mwb-fv3] Yahoo Finance/NYSE). Kept existing 2024 Seed/Series A row [^23] and added new 2026-09-08 Series B row below it. BioPharm and Yahoo verified via WebFetch; Business Wire URL is live but returns 403 to fetch.'
+- slug: footprint
+  type: startup
+  reason: 'Round monitoring 2026-09-17 (6h cron): New lean profile for Footprint $25M Series B (2026-09-16) led by QED Investors with MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital. Sources: onefootprint.com/learn/series-b blog, AlleyWatch daily 9/16 report, QED Investors blog.'
+  added: 2026-09-17
+- slug: qed-investors
+  type: firm
+  reason: 'Round monitoring 2026-09-17: led Footprint Series B ($25M, 2026-09-16).'
+  added: 2026-09-17
+- slug: index-ventures
+  type: firm
+  reason: 'Round monitoring 2026-09-17: participated in Footprint Series B ($25M, 2026-09-16).'
+  added: 2026-09-17
+- slug: lerer-hippeau
+  type: firm
+  reason: 'Round monitoring 2026-09-17: participated in Footprint Series B ($25M, 2026-09-16).'
+  added: 2026-09-17
+- slug: boxgroup
+  type: firm
+  reason: 'Round monitoring 2026-09-17: participated in Footprint Series B ($25M, 2026-09-16).'
+  added: 2026-09-17
+- slug: operator-partners
+  type: firm
+  reason: 'Round monitoring 2026-09-17: participated in Footprint Series B ($25M, 2026-09-16).'
+  added: 2026-09-17
+- slug: isometric
+  type: startup
+  reason: 'Round monitoring 2026-09-16: Series A extension €8.6M ($10M) led by Intercontinental Exchange (ICE), bringing Series A to €43M ($50M).'
+  added: 2026-09-16
+- slug: expanse-ai
+  type: startup
+  reason: 'Round monitoring 2026-09-16: Seed €4.5M ($5.3M) led by Crane Venture Partners with PXN Ventures, AIP Seed.'
+  added: 2026-09-16
+- slug: enforceshield
+  type: startup
+  reason: 'Round monitoring 2026-09-16: Seed €1.7M led by Vendep Capital with FIRSTPICK VC (2026-09-15).'
+  added: 2026-09-16
+- slug: magnitude-biosciences
+  type: startup
+  reason: 'Round monitoring 2026-09-16: Seed £1.3M/€1.5M led by Northstar Ventures with Maven (2026-09-15).'
+  added: 2026-09-16
+- slug: ferm-labs
+  type: startup
+  reason: 'Round monitoring 2026-09-16: Growth €3M led by CDP Venture Capital with Redstone, Fund F, Loacker (2026-09-14).'
+  added: 2026-09-16
