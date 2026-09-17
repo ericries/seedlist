@@ -462,7 +462,9 @@ vague_facts:
   line: '| Viki | Series A (USD 4.3M; Greylock Partners led (Reid Hoffman as lead partner); Andreessen Horowitz (Marc Andreessen)'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: 2010-12-08 date, USD 4.3M amount, Greylock Partners (Reid Hoffman) lead, with a16z + Charles River Ventures + Neoteny Labs + 500 Startups + Omidyar Network + The Raine Group participants; acquired by Rakuten for USD 200M on 2013-09-01. Re-verified 500 Startups participation via 3 independent primary sources: PR Newswire company release [^63] (2010-12-08, primary company source explicitly naming 500 Startups — RE-FETCHED and confirmed verbatim: "Greylock Partners, Andreessen Horowitz, Charles River Ventures, Neoteny Labs, 500 Startups, Omidyar Network, The Raine Group"), Rakuten acquirer press release [^64] (2013-09-02, acquirer-side primary explicitly naming "500 StartUps" in About Viki section), and TheNextWeb [^65] (independent tech press). Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Simple (BankSimple)
@@ -493,7 +495,9 @@ vague_facts:
   line: '| Talkdesk | Batch 3 admission (500 Startups accelerator standard check via Fall 2011 batch that began 2011-10-10; Talkd'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: Batch 3 admission on 2011-10-31 (batch began 2011-10-10), Twilio hackathon prior win, Alex Khein AngelList ~USD 450K angel round Nov 2011, DFJ Series A 2014, Active ($10B valuation). Re-verified via 3 independent primary sources: 500 Global blog [^27] (first-party, "From a Hackathon Win to a Hyper-Growth Company"), TechCrunch [^43] (2011-10-31, RE-FETCHED and confirmed verbatim: Talkdesk named among Batch 3 companies with description "lets your company have a contact center in the browser. It provides information about the caller by integrating with services like Salesforce and Zendesk"; batch "kicked off on October 10" and unveiled on Halloween), and Compass List profile of co-founder Cristina Fonseca [^44] (independent). Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: GitLab
@@ -564,7 +568,9 @@ vague_facts:
   line: '| Lucidchart | Seed (USD 1M; 500 Startups + 2M Companies + K9 Ventures + several unnamed angels; Dave McClure quote prov'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: 2011-07-26 date, USD 1M seed, 500 Startups + 2M Companies + K9 Ventures + several unnamed angels, no single lead named, Dave McClure quote provided. Re-verified via 3 independent primary sources: TechCrunch [^75] (2011-07-26, tier-1 primary press, RE-FETCHED and confirmed verbatim: "LucidChart announced today that it has raised $1 million in seed funding from 500 Startups, 2M Companies, K9 Ventures, as well as several angel investors"), Newswire company press release [^76] (2011-07-26, primary company-side source), and SiliconANGLE [^77] (2011-07-26, independent tech press). Dave McClure quote verified in both TechCrunch and Newswire. Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Innovaccer
