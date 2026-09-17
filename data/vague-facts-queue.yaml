@@ -173532,7 +173532,9 @@ vague_facts:
   line: '| Superscale | Pre-seed | 2025 | AI/Marketing | Active | [^30] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-09-16
+  note: 'Fact-spec sweep 2026-09-16: CORRECTED wrong year — actual $5M pre-seed round was announced 2024-06-18, not 2025. Verified via 2 independent primary sources: (1) Superscale company newsroom [^superscale1] (primary company source, dated timeline entry: ''June 18, 2024 - We raised a $5 Million Pre-Seed Round''), and (2) Nordic 9 aggregator [^30] (aggregator post dated June 6, 2025 — 12-month lag confirmed the actual event predated the aggregator report). Investors: Creandum lead; S16 (s16vc), Interface Capital, The Online Marketing Rockstars; angels Austin Lau, Peter Welinder, Luke Harries, Nono Konopka per Nordic 9. 1 new footnote added.'
 - profile: firms/crv
   profile_name: CRV
   company: Protege
@@ -175184,7 +175186,9 @@ vague_facts:
   line: '| Recall | Pre-Seed | 2024 | Knowledge Management/AI | Active [^15] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-09-16
+  note: 'Fact-spec sweep 2026-09-16: tightened Recall Pre-Seed row on launch.md from ''2024'' to ''2024-12-03'' via 2 independent primary sources: (1) Recall company blog [^15] (primary — updated URL to https://www.recall.it/post/recall-fundraising-announcement-2024 after 301 redirect from getrecall.ai; confirms $1.5M pre-seed led by Jason Calacanis; participants Blockchain Founders Capital, Rocket Capital, two Digital Virtues angels), and (2) NEW Hacker News post [^31] by founder paulrchds (Paul Richards), Dec 3, 2024 ("My HN post led to my first angel check. Now, we''ve raised $1.5M to grow Recall"). ALSO updated jason-calacanis.md portfolio row and [^13] citation identically. Added [^recall-hn] on jason-calacanis. 2 new footnotes added across affected profiles.'
 - profile: firms/lerer-hippeau
   profile_name: Lerer Hippeau
   company: Mentium
@@ -177524,7 +177528,9 @@ vague_facts:
   line: '| Rivos Inc. | Series A | 2024 | Semiconductors (RISC-V AI chips) | Acquired by Meta (2025) |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-09-16
+  note: 'Fact-spec sweep 2026-09-16: tightened Rivos Series A row on tensor-edge-capital.md from ''2024'' to ''2024-04-17'' via 3 independent primary sources (all already cited on-profile): (1) The Register [^6] (primary tech press, April 17, 2024, "RISC-V AI chip startup Rivos nabs $250M in series A funding" — confirms Matrix Capital Management lead with MediaTek, Intel Capital, Koch Disruptive Technologies participating; Rivos CEO Puneet Kumar quoted); (2) Romit Shah LinkedIn board announcement [^7] (post activity ID 7188600422134087680 places post in April 2024, contemporaneous with round); (3) Walden Catalyst blog [^9] (confirms Rivos company/investor history and Matrix Capital as syndicate member). Amount $250M Series A confirmed. Note: profile row also aligns with cross-reference to romit-shah.md follow-on row (2024-04-16 to 2024-04-17 delta reflects sources reporting one day off — The Register''s April 17 date is authoritative per contemporaneous publication).'
 - profile: firms/the-production-board
   profile_name: The Production Board
   company: EarthOptics

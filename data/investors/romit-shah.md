@@ -76,7 +76,7 @@ Tensor Edge Capital is a long/short public equity fund. Its private investment a
 | Company | Date | Stage | Source |
 |---------|------|-------|--------|
 | Rivos Inc. | 2021-09 | Seed/founding round (anchor: Walden Catalyst; participating: Matrix Capital, Dell Technologies Capital) | [^9] |
-| Rivos Inc. (follow-on) | 2024-04-16 | Series A-3 ($250M+, led by Matrix Capital Management) | [^16][^18][^19] |
+| Rivos Inc. (follow-on) | 2024-04-17 | Series A-3 ($250M+, led by Matrix Capital Management; MediaTek, Intel Capital, Koch Disruptive Technologies participated) | [^16][^18][^19] |
 
 **Notes on portfolio completeness:** Tensor Edge Capital's public equity long/short positions are not yet reflected in SEC 13F filings, which will become available after the firm has been registered for a full quarter. This table will require significant updating once those filings are available. The above represents only verified private investment activity from Shah's prior role at Matrix Capital Management.
 

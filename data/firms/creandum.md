@@ -146,7 +146,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | Atla | Early stage | ~2024 | AI/Mobile | Active | [^5] |
 | H Company | Early stage | ~2024 | AI | Active | [^5] |
 | nexos.ai | Seed ($8M, Index Ventures led; Creandum + Dig Ventures participated) | 2025-01-17 | AI/Infrastructure | Active | [^29][^nex1][^nex2][^nex3] |
-| Superscale | Pre-seed | 2025 | AI/Marketing | Active | [^30] |
+| Superscale | Pre-seed | 2024-06-18 | AI/Marketing | Active | [^30][^superscale1] |
 | Wrapp | Seed | ~2011 | Consumer/Mobile | Shut down | [^7] |
 | Modal | Early stage | ~2022 | AI/Cloud Infrastructure | Active (unicorn) | [^19] |
 | Navan (TripActions) | Early stage | ~2016 | Travel/SaaS | IPO (NASDAQ, 2025) | [^19] |
@@ -220,7 +220,8 @@ No independently sourced founder testimonials found. Creandum's reputation among
 [^27]: Codesphere, "Codesphere raises $18M led by Creandum," 2024, accessed March 2026. https://codesphere.com/articles/series-a-press-release
 [^28]: TechCrunch, "Sweden's Lovable, an app-building AI platform, rakes in $15M after spectacular growth," February 2025, accessed March 2026. https://techcrunch.com/2025/02/25/swedens-lovable-an-app-building-ai-platform-rakes-in-16m-after-spectacular-growth/
 [^29]: Nordic 9 / nexos.ai, "nexos.ai Raises €30M Series," accessed March 2026. https://nexos.ai/blog/nexos-funding-announcement/
-[^30]: Nordic 9, "Superscale AI raised $5M in a pre-seed round led by Creandum," accessed March 2026. https://nordic9.com/news/superscale-ai-raised-5m-in-a-pre-seed-round-led-by-creandum-with-participation-from-interface-and-s16vc/
+[^30]: Nordic 9, "Superscale AI raised $5M in a pre-seed round led by Creandum," publication date June 6, 2025 (aggregator delay; event was 2024), accessed September 2026. https://nordic9.com/news/superscale-ai-raised-5m-in-a-pre-seed-round-led-by-creandum-with-participation-from-interface-and-s16vc/ — Details $5M pre-seed led by Creandum with S16 (s16vc), Interface Capital, The Online Marketing Rockstars, and angels Austin Lau, Peter Welinder, Luke Harries, Nono Konopka.
+[^superscale1]: Superscale, "We raised a $5 Million Pre-Seed Round," June 18, 2024, accessed September 2026. https://superscale.ai/news — Primary company newsroom source (dated timeline entry: "June 18, 2024 - We raised a $5 Million Pre-Seed Round"). Announcement text: "Introducing Superscale to give every entrepreneur an AI CMO — launch high-converting ads from just your product URL in minutes." Confirms the actual raise date preceded Nordic 9's later aggregator post by ~12 months.
 [^31]: Nordic 9, "Spotify raises series A funding," October 2008, accessed March 2026. https://nordic9.com/news/new-news-news6154549926/
 
 [^32]: Yahoo Finance / Newswire, "Conduct Raises $60 Million Series A Round from Index, ICONIQ, and SAP," June 17, 2026. Accessed June 2026. https://finance.yahoo.com/technology/ai/articles/conduct-raises-60-million-series-121500344.html — Confirms Creandum participated as existing investor in $60M Series A co-led by Index Ventures and ICONIQ; strategic SAP investment; Lucid Capital and Booom also participated. Founded 2026 by ex-Palantir executives Jan Philipp Haas (CEO), Philipp Hoefer, Henry Thompson.

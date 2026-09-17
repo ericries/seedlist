@@ -54,7 +54,7 @@ Based on this extremely limited private investment sample (1 verified investment
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
-| Rivos Inc. | Series A | 2024 | Semiconductors (RISC-V AI chips) | Acquired by Meta (2025) |
+| Rivos Inc. | Series A | 2024-04-17 | Semiconductors (RISC-V AI chips) | Acquired by Meta (2025) |
 
 Note: This table reflects only verified private company investments. Rivos investment was made through predecessor entity Matrix Capital Management, with Romit Shah joining the Rivos board as part of the Series A-3 round [^6][^7]. Tensor Edge Capital primarily invests in public equities; those holdings are not tracked in this directory. Rivos $250M Series A led by Matrix Capital Management [^6]; Meta acquisition confirmed September-October 2025 [^8][^9].
 

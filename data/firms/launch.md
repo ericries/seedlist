@@ -90,7 +90,7 @@ Based on 17 verified portfolio companies with sufficient data, the following pat
 | Fitbod | Accelerator | ~2015 | Fitness/Health Tech | Active [^4] [^25] |
 | STEEZY Studio | Seed | 2018 | Consumer/Dance Education | Active [^1] [^26] |
 | LeadIQ | Angel | 2015 | Sales Tech/SaaS | Active [^1] [^27] |
-| Recall | Pre-Seed | 2024 | Knowledge Management/AI | Active [^15] |
+| Recall | Pre-Seed | 2024-12-03 | Knowledge Management/AI | Active [^15][^31] |
 | Moment (beverage) | Pre-Seed | ~2021 | Consumer/Food & Beverage | Active [^16] |
 | 8090 Labs | Series A (participant) | 2026-06-29 | AI / Enterprise / AI Coding | Active — $135M, Salesforce Ventures led; WndrCo, Craft Ventures, The Production Board also participated; angels Nikesh Arora, Adam D'Angelo. Chamath Palihapitiya became CEO. [^28][^29][^30] |
 
@@ -136,7 +136,7 @@ No additional independently sourced founder testimonials found beyond these two 
 [^12]: Hustle Fund, "Jason Calacanis Investments: The Original Super Angel's Playbook for Backing 100 Startups a Year," accessed April 2026. https://www.hustlefund.vc/post/angel-squad-jason-calacanis-investments-the-original-super-angels-playbook-for-backing-100-startups-a-year
 [^13]: Signal by NFX, "Jason Calacanis' Investing Profile," accessed April 2026. https://signal.nfx.com/investors/jason-calacanis
 [^14]: LinkedIn, "Calacanis' Two Laws of Angel Investing" by Jason Calacanis, accessed April 2026. https://www.linkedin.com/pulse/calacanis-two-laws-angel-investing-jason-calacanis
-[^15]: Recall, "From a Hacker News Post to securing $1.5M Funding," December 2024, accessed April 2026. https://www.getrecall.ai/post/recall-fundraising-announcement-2024
+[^15]: Recall, "From a Hacker News Post to securing $1.5M Funding," December 3, 2024, accessed September 2026. https://www.recall.it/post/recall-fundraising-announcement-2024 — Primary company source confirming $1.5M pre-seed round led by Jason Calacanis; participants: Blockchain Founders Capital, Rocket Capital, two Digital Virtues angels. COO Sankari quoted: "Our vision is to redefine knowledge management as 'intelligence management,' where content consumption is intentional and insightful."
 [^16]: Boring Business Nerd, "LAUNCH Accelerator with Aisha Chottani," accessed April 2026. https://www.boringbusinessnerd.com/post/what-its-like-to-work-with-jason-calacanis-in-the-launch-accelerator-with-aisha-chottani
 [^17]: Angel Invest Boston, "Ep 83: Jason Calacanis," accessed April 2026. https://www.angelinvestboston.com/ep-83-jason-calacanis/tag/Uber
 [^18]: Crunchbase, "Seed Round - Robinhood," accessed April 2026. https://www.crunchbase.com/funding_round/robinhood-seed--8cbd19ed
@@ -152,3 +152,4 @@ No additional independently sourced founder testimonials found beyond these two 
 [^28]: TechCrunch, "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role," June 29, 2026. Accessed June 2026. https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/ — Confirms Salesforce Ventures led the 8090 Labs $135M Series A on June 29, 2026, with WndrCo, Craft Ventures, The Production Board, and LAUNCH participating; angels Nikesh Arora and Adam D'Angelo. Chamath Palihapitiya transitioned from board member to CEO.
 [^29]: Crypto Briefing, "Chamath Palihapitiya raises $135M Series A for AI coding startup 8090," June 29, 2026. Accessed June 2026. https://cryptobriefing.com/chamath-palihapitiya-135m-series-a-8090-ai/ — Independent confirmation of the $135M round, Salesforce Ventures as lead, and Craft Ventures, The Production Board, and Launch as participants.
 [^30]: Stockpil, "Chamath Palihapitiya raises $135M Series A for AI coding startup 8090 Labs, steps in as CEO," June 30, 2026. Accessed June 2026. https://stockpil.com/chamath-palihapitiya-8090-labs-series-a-ceo — Third independent confirmation of round details (Salesforce Ventures lead; Craft Ventures, The Production Board, LAUNCH as participants; angels Nikesh Arora, Adam D'Angelo).
+[^31]: Hacker News post by paulrchds (Paul Richards, Recall CEO/founder), "My HN post led to my first angel check. Now, we've raised $1.5M to grow Recall," December 3, 2024, accessed September 2026. https://news.ycombinator.com/from?site=getrecall.ai — Founder-authored announcement confirming Dec 3, 2024 pre-seed raise date and Calacanis-led $1.5M syndicate.

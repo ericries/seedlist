@@ -79,7 +79,7 @@ Based on 22 verified investments listed below, Calacanis's actual portfolio reve
 ~unknown| Blokable | — | Early Stage | [^11] |
 ~unknown| Neighborly | — | Early Stage | [^11] |
 ~unknown| Shoot My Travel | — | Early Stage | [^11] |
-| Recall | 2024 | Pre-Seed | [^13] |
+| Recall | 2024-12-03 | Pre-Seed | [^13][^recall-hn] |
 | Orreco | 2025 | Seed | [^14] |
 ~unknown| Chartbeat | — | Early Stage | [^15] |
 ~unknown| Jibe | — | Early Stage | [^15] |
@@ -137,7 +137,7 @@ Paul Richards, founder of Recall, went through the LAUNCH Accelerator where Reca
 [^10]: "Meet Jason Calacanis: Launch Accelerator's Leader," XRaise blog, accessed March 2026. https://xraise.ai/blog/meet-jason-calacanis-launch-accelerators-leader/
 [^11]: "Episode 83: Jason Calacanis," Angel Invest Boston podcast, accessed March 2026. https://www.angelinvestboston.com/ep-83-jason-calacanis
 [^12]: "Founder University — Turn Your Startup Idea Into Reality," LAUNCH, accessed March 2026. https://founder.university/
-[^13]: "From a Hacker News Post to securing $1.5M Funding," Recall blog, December 2024, accessed March 2026. https://www.getrecall.ai/post/recall-fundraising-announcement-2024
+[^13]: "From a Hacker News Post to securing $1.5M Funding," Recall blog, December 3, 2024, accessed September 2026. https://www.recall.it/post/recall-fundraising-announcement-2024 — Primary company source confirming $1.5M pre-seed round led by Jason Calacanis; participants: Blockchain Founders Capital, Rocket Capital, two Digital Virtues angels.
 [^14]: "$4M investment for AI sports firm Orreco backed by high profile investors," Enterprise Ireland, December 15, 2025, accessed March 2026. https://www.enterprise-ireland.com/en/news/ai-sports-firm-orreco-backed-by-high-profile-investors
 [^15]: Jason Calacanis portfolio, Tracxn, accessed March 2026. https://tracxn.com/d/people/jason-calacanis/__ruS5ieeSNTXX3GxNj1rETNzr3URFzZqJccuaOyuYqZk
 [^16]: "Why I (we?) invested $378,000 in Calm.com," Jason Calacanis on LinkedIn, April 2014, accessed March 2026. https://www.linkedin.com/pulse/20140423185958-24171-why-i-we-invested-378-000-in-calm-com
@@ -148,3 +148,4 @@ Paul Richards, founder of Recall, went through the LAUNCH Accelerator where Reca
 [^21]: "Thoughts on completing the Launch Accelerator," Chris Federspiel on Medium, accessed March 2026. https://medium.com/@chrisfed/thoughts-on-completing-the-launch-accelerator-2007a0c756f9
 [^22]: "Letter #219: Travis Kalanick and Jason Calacanis (2024)," A Letter A Day on Substack, accessed March 2026. https://aletteraday.substack.com/p/letter-219-travis-kalanick-and-jason
 [^23]: "Robinhood App Will Offer Zero-Commission Stock Trades Thanks To $3M Seed From Index And A16Z," TechCrunch, December 18, 2013, accessed May 2026. https://techcrunch.com/2013/12/18/zero-commission-stock-trading-robinhood/
+[^recall-hn]: Hacker News post by paulrchds (Paul Richards, Recall CEO/founder), "My HN post led to my first angel check. Now, we've raised $1.5M to grow Recall," December 3, 2024, accessed September 2026. https://news.ycombinator.com/from?site=getrecall.ai — Founder-authored announcement confirming Dec 3, 2024 pre-seed raise date and Calacanis-led syndicate.
