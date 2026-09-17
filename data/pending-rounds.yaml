@@ -73,6 +73,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: UK FinTech startup Ryft secures €23 million to accelerate European expansion
+  url: https://www.eu-startups.com/2026/09/uk-fintech-startup-ryft-secures-e23-million-to-accelerate-european-expansion/
+  source: eu-startups
+  date_found: '2026-09-17'
+  parsed_company: UK FinTech startup Ryft
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Berlin-based Integral raises €18 million to deliver AI-run accounting, tax
     and payroll services to SMEs
   url: https://www.eu-startups.com/2026/09/berlin-based-integral-raises-e18-million-to-deliver-ai-run-accounting-tax-and-payroll-services-to-smes/
@@ -847,12 +855,4 @@ pending_rounds:
   parsed_company: Laters
   parsed_amount: $1.5M
   parsed_round: Seed
-  status: pending
-- title: Souk raised $1.6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-05'
-  parsed_company: Souk
-  parsed_amount: $1.6M
-  parsed_round: null
   status: pending
