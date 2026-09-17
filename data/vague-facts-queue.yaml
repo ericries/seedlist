@@ -660,7 +660,9 @@ vague_facts:
   line: '| DeepInfra | Series B (co-led, $107M) | 2026-05-04 | AI Inference / Cloud Infrastructure | Active | [^31][^32][^33] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: SCANNER FALSE POSITIVE — column 5 is the Source column, which correctly contains only footnote citations. Row itself is fully specific: 2026-05-04 date, $107M amount, "co-led" clearly labeled, sector/status filled. Re-verified via 3 independent primary sources: DeepInfra company blog [^31] (primary company source, confirms $107M Series B co-led by 500 Global and Georges Harik with A.Capital Ventures, Crescent Cove, Felicis, NVIDIA, Peak6, Samsung Next, Supermicro, Upper90 participating); SiliconANGLE [^32] (independent tech press, 2026-05-04, confirms 500 Global lead and full syndicate, includes CEO Nikola Borisov quote "Inference is no longer a thin layer – it''s the system constraint that will define the majority of workloads"); GlobeNewsWire [^33] (2026-05-04, primary press release wire, confirms round details). All 3 primary sources verified via WebFetch. No profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: RemotePass
@@ -670,7 +672,9 @@ vague_facts:
   line: '| RemotePass | Series B ($17.4M, EBRD-led) | 2026-05-20 | Fintech / Global Payroll / HR Tech | Active | [^34][^35] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: SCANNER FALSE POSITIVE — column 5 is the Source column. Row itself is fully specific: 2026-05-20 date, $17.4M amount, EBRD Venture Capital lead named, sector/status filled. Re-verified via 2 independent primary sources: PR Newswire [^34] (2026-05-20, primary press release wire, confirms $17.4M Series B led by EBRD Venture Capital with 500 Global as strategic partner, alongside Oraseya Capital, 212 VC, Access Bridge Ventures, Khwarizmi Ventures; includes 500 Global Managing Partner Amjad Ahmad quote) and Tech.eu [^35] (2026-05-20, independent European trade press, confirms $17.4M Series B, EBRD lead, 500 Global participation, includes CEO Kamal Reggad quote "We have the product, the traction, and now the partners to expand properly"). Both primary sources verified via WebFetch. Only 2 primary sources found in this pass (WebSearch budget exhausted); the two sources cover the fact independently and no discrepancies noted. Row remains as-is.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Livongo
@@ -700,7 +704,9 @@ vague_facts:
   line: '| NOCD | Seed ($1M; 7wire Ventures lead) | 2018-02-12 | OCD therapy | Active | [^17][^52][^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: Row itself is fully specific (2018-02-12 date, $1M amount, 7wire Ventures lead). Scanner column: 5 is the Source column. FIXED citation-hygiene bug: removed duplicate footnote ref — row was [^17][^52][^17], now [^17][^52]. Sources cover the fact via 2 independent primary references: [^17] TechCrunch "nOCD gets $1M seed round to help people with obsessive-compulsive disorder" (Feb 12, 2018) and [^52] MobiHealthNews "nOCD raises $1M in funding for OCD help app" (Feb 12, 2018). Note: [^17] additionally cites Behavioral Health Business "NOCD Raises $34M in Round Led by Cigna Ventures, 7wireVentures" (Feb 2023, applies to a later Series A, not this Seed row). 2 independent primary sources verified for the 2018-02-12 Seed round; a third dedicated primary source could not be located this pass (WebSearch budget exhausted). No amount, date, or lead discrepancies found across the 2 sources.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Brightline

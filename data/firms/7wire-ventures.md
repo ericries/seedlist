@@ -97,7 +97,7 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 |---------|-------|------|--------|--------|--------|
 | Livongo | Formation / Seed (7wire hatched); Series A ($10M, 2014-09-10, led by General Catalyst) | 2013–2014-09-10 | Chronic disease management | Acquired (Teladoc, $18.5B) | [^11][^1][^48][^49] |
 | Transcarent | Series A ($40M, co-led by General Catalyst (Hemant Taneja) and 7wireVentures (Lee Shapiro); Alta Partners, Jove Equity Partners participated) | 2020-10-22 | Health experience platform | Active (unicorn) | [^12][^13][^50][^51] |
-| NOCD | Seed ($1M; 7wire Ventures lead) | 2018-02-12 | OCD therapy | Active | [^17][^52][^17] |
+| NOCD | Seed ($1M; 7wire Ventures lead) | 2018-02-12 | OCD therapy | Active | [^17][^52] |
 | Brightline | Series B ($72M; GV lead; Optum Ventures, 7wireVentures, Gaingels new; Oak HC/FT, Threshold Ventures, Blue Shield of California, Blue Cross Blue Shield of Massachusetts, SemperVirens VC, City Light Capital returning) | 2021-06-16 | Pediatric behavioral health | Active | [^23][^56][^57] |
 | Jasper Health | Seed ($6.75M; co-led by 7wireVentures and Redesign Health) | 2021-05-12 | Oncology care navigation | Active | [^25][^36][^58][^59] |
 | Zerigo Health (formerly Clarify Medical) | Series A ($18M; 7wire Ventures, H.I.G. BioHealth Partners, SV Health Investors, Bluestem Capital co-participated — no single lead named); Robert Garber joined the board | 2019-10-23 | Dermatology / phototherapy | Active | [^20][^37][^74][^75][^76] |
