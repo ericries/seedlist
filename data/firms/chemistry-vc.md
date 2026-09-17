@@ -75,6 +75,7 @@ Based on a limited sample of verified Chemistry investments (the firm launched i
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| Liquid Compute | Seed (co-led with FirstMark, $15M; K8 Capital, Night Capital, TrueBridge, Brainchild Holdings, UFO Holdings, and Dmitry Balyasny participated) | 2026-09-15 | AI / Compute Infrastructure / Regulated Exchange / Fintech | [^lc-chem-1][^lc-chem-2][^lc-chem-3] |
 | Decagon | Series D (participated) | 2026-01-28 | AI / Enterprise Software | [^4][^11][^15] |
 | Assort Health | Series A (co-led $22M with First Round Capital; Quiet Capital participated) | 2025-04-16 | Healthcare AI / Voice AI | [^22][^23][^24] |
 | Assort Health | Series B (participated, $76M; Lightspeed Venture Partners led; Felicis, First Round Capital, A*, Liquid 2 Ventures, Quiet also participated) | 2025-09-30 | Healthcare AI / Voice AI | [^25][^26][^27] |
@@ -159,3 +160,9 @@ Note: The above founder quotes are sourced from Chemistry's own website and shou
 [^dc1]: Marina Temkin, "Datacurve raises $15 million to take on Scale AI," TechCrunch, October 9, 2025. Accessed August 2026. https://techcrunch.com/2025/10/09/datacurve-raises-15-million-to-take-on-scaleai/ — Primary tier-1 press confirming 2025-10-09 announcement of $15M Series A led by Chemistry with Mark Goldberg as lead partner; angels from DeepMind, Vercel, Anthropic, and OpenAI participating; follow-on to $2.7M seed led by Balaji Srinivasan; direct quotes from co-founder Serena Ge.
 
 [^dc2]: "Wilson Sonsini Advises Datacurve on $15 Million Series A," Wilson Sonsini, October 2025. Accessed August 2026. https://www.wsgr.com/en/insights/wilson-sonsini-advises-datacurve-on-dollar15-million-series-a.html — Independent legal-counsel primary source confirming $15M Series A led by Chemistry; Wilson Sonsini deal counsel to Datacurve.
+
+[^lc-chem-1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report 9/15/2026," September 15, 2026. Accessed September 17, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-15-2026/ — Independent contemporaneous tech press: confirms Chemistry and FirstMark as $15M Seed co-leads on 2026-09-15, with K8 Capital, Night Capital, TrueBridge, Brainchild Holdings, UFO Holdings, and Dmitry Balyasny participating; describes Liquid Compute as "a marketplace company that builds regulated venues for trading AI compute infrastructure as a commodity."
+
+[^lc-chem-2]: FirstMark Capital, "A Market for Intelligence: Why We Co-Led Liquid Compute's $15M Seed," accessed September 17, 2026. https://firstmark.com/perspectives/a-market-for-intelligence-why-we-co-led-liquid-computes-15m-seed — Primary co-lead source: confirms $15M Seed on 2026-09-15, FirstMark and Chemistry as co-leads, full participant list, and Adam Nelson as FirstMark's investing partner.
+
+[^lc-chem-3]: Chemistry, portfolio company listing for Liquid Compute, accessed September 17, 2026. https://www.chemistry.vc/portfolio — Primary firm source: Liquid Compute listed among Chemistry's active portfolio companies as "the regulated exchange for compute."

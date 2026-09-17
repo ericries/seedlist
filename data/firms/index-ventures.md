@@ -113,6 +113,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| Footprint | Series B (participated; QED-led $25M; MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital also participated) | 2026-09-16 | Fintech / Identity / KYC / AML / AI | [^footprint-idx-1][^footprint-idx-2] |
 | Figma | Seed (USD 3.8M total; Index Ventures led with USD 1.8M; angel Terrence Rohan participated) | 2013-06-26 | Design/SaaS | [^9][^72][^73] |
 | Wiz | Seed (USD 21M total; Sequoia and Cyberstarts co-led; Index Ventures invested USD 3.5M; ~USD 67M post-money valuation) | 2020-02 | Cybersecurity | [^10][^74][^75][^76] |
 | Revolut | Seed | 2015 | Fintech | [^14] |
@@ -318,4 +319,8 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^iv-simb1]: TechCrunch, "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A," July 30, 2026. Accessed August 2026. https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/ — Confirms Index Ventures participated in the Greenoaks-led $200M Series B at a $2B valuation, five months after leading the $100M Series A.
 [^iv-simb2]: TheSaaSNews, "Simile Raises $200M Series B," July 31, 2026. Accessed August 2026. https://www.thesaasnews.com/news/simile-raises-200m-series-b/ — Independent confirmation of Index Ventures as a participant in the $200M Series B at $2B valuation.
 [^iv-simb3]: Fundraise Insider, "Simile Raises $200M Series B for Human Behavior Simulation," July 31, 2026. Accessed August 2026. https://fundraiseinsider.com/blog/simile-raises-200m-series-b-for-human-behavior-simulation/ — Third independent confirmation of the full participant list.
+
+[^footprint-idx-1]: Footprint, "Footprint's Series B & The Race For Time and Memory," Eli Wachs, September 16, 2026. Accessed September 17, 2026. https://www.onefootprint.com/learn/series-b — Primary company source: names Index Ventures among Series B participants alongside QED (lead), MUFG, Commerce Ventures, LightBank, Alumni Ventures, Lerer Hippeau, BoxGroup, Operator Partners, and Animal Capital.
+
+[^footprint-idx-2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/16/2026," September 16, 2026. Accessed September 17, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-16-2026/ — Independent contemporaneous tech press: confirms Index Ventures among Series B participants; $25M total; $45M total raised.
 

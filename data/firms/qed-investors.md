@@ -131,6 +131,7 @@ QED claims to invest across the full fintech stack, but the verified portfolio s
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Footprint | Series B (Led $25M; MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital participated; $45M total raised) | 2026-09-16 | Fintech / Identity / KYC / KYB / AML / AI | Active | [^footprint-qed-1][^footprint-qed-2][^footprint-qed-3] |
 | Credit Karma | Series A (Led) | 2009 | Consumer Finance | Acquired (Intuit) | [^14] |
 | Klarna | Growth Equity | 2012 | Lending/BNPL | IPO (NYSE, 2025) | [^15] |
 | Avant | Seed | 2013 | Lending | Active | [^16] |
@@ -259,3 +260,9 @@ This table represents 28 portfolio companies (29 entries including the Current S
 [^felix-qed-3]: Bloomberg, "Felix Pago Raises $200 Million To Expand Into Financial Services," September 1, 2026. Accessed September 2026 (article headline verified via search index; full text behind Bloomberg paywall). https://www.bloomberg.com/news/articles/2026-09-01/felix-pago-raises-200-million-to-expand-into-financial-services — Tier-1 financial press confirmation of $200M Series C total.
 
 [^felix-qed-4]: Miami Herald, "A Venezuelan in Miami lands nearly $90M for his startup from Andreessen Horowitz," September 1, 2026. Accessed September 2026 (article headline verified via search index; full text behind Miami Herald paywall). https://www.miamiherald.com/news/business/article317076435.html — Local/regional press confirming ~$87M a16z equity portion and founder Manuel Godoy's Venezuelan origin.
+
+[^footprint-qed-1]: Footprint, "Footprint's Series B & The Race For Time and Memory," Eli Wachs, September 16, 2026. Accessed September 17, 2026. https://www.onefootprint.com/learn/series-b — Primary company source: QED-led $25M Series B on 2026-09-16 with MUFG, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital.
+
+[^footprint-qed-2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/16/2026," September 16, 2026. Accessed September 17, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-16-2026/ — Independent contemporaneous tech press: confirms $25M Series B, QED lead, MUFG Innovation Partners (fuller participant name), and $45M total-raised figure.
+
+[^footprint-qed-3]: QED Investors, "Why QED invested in Footprint," Amias Gerety, May 21, 2024. Accessed September 17, 2026. https://www.qedinvestors.com/blog/why-qed-invested-in-footprint — Primary firm source: QED's original public investment memo on Footprint (predates the Series B but confirms QED's prior investment and thesis).

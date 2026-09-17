@@ -111,6 +111,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Footprint | Series B (participated, $25M; QED-led; MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, Operator Partners, Animal Capital also participated; $45M total raised) | 2026-09-16 | Fintech / Identity / KYC / AML / AI | Active [^footprint-bg-1][^footprint-bg-2] |
 | Retro (Lone Palm Labs) | Series A (participated, $21M+; led by Thrive Capital; Dylan Field, Scribble Ventures, Imaginary Ventures, Coalition, Conviction, Copper, Positive Sum also participated) | 2026-08-28 | Consumer / Social / Photo-Sharing | Active ($100M+ estimated valuation per PitchBook) [^retro2026a][^retro2026b] |
 | Foundational Industries | Seed (co-led with Zigg Ventures, $25M; Abstract, Adverb, Buckley, Offline participated) | 2026-07-30 | Manufacturing / AI / Industrial Automation | Active [^foundational2026a][^foundational2026b][^foundational2026c] |
 | Sable | Series A (participated, $45M; co-led by Sequoia and 8VC) | 2026-07-16 | AI / Sales Enablement | Active [^sable2026][^sable2026b][^sable2026c] |
@@ -276,3 +277,7 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 
 [^retro2026a]: Sarah Perez, "Friend-focused photo-sharing app Retro snags $21M," TechCrunch, August 28, 2026. Accessed August 2026. https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/ — Primary tier-1 tech press confirming Retro (Lone Palm Labs) raised $21M+ Series A led by Thrive Capital with Dylan Field (Figma CEO), Scribble Ventures, Box Group, Imaginary Ventures, Coalition, Conviction, Copper, and Positive Sum participating. Round closed December 2025; disclosed August 28, 2026. Founders Nathan Sharp and Ryan Olson (former Instagram product engineers). PitchBook estimates $100M+ post-money valuation.
 [^retro2026b]: Techmeme, "Filing: Lone Palm Labs, the startup behind friend-focused photo sharing app Retro, raised a $21M+ Series A from Thrive Capital and others," August 28, 2026. Accessed August 2026. https://www.techmeme.com/260828/p16 — Independent tech-press aggregator confirming SEC Form D filing dated August 19, 2026 disclosing Thrive Capital as Series A lead. Attributes underlying reporting to Sydney Bradley / Business Insider.
+
+[^footprint-bg-1]: Footprint, "Footprint's Series B & The Race For Time and Memory," Eli Wachs, September 16, 2026. Accessed September 17, 2026. https://www.onefootprint.com/learn/series-b — Primary company source: names BoxGroup among Series B participants alongside QED (lead), MUFG, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, Operator Partners, and Animal Capital.
+
+[^footprint-bg-2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/16/2026," September 16, 2026. Accessed September 17, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-16-2026/ — Independent contemporaneous tech press: confirms BoxGroup in the $25M Series B, $45M total raised.

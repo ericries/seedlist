@@ -100,6 +100,7 @@ Based on publicly available data from the firm's website, Crunchbase, and press 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---|---|---|---|---|---|
+| Footprint | Series B (participated; QED-led $25M; MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, BoxGroup, Operator Partners, Animal Capital also participated) | 2026-09-16 | Fintech / Identity / KYC / AML / AI | Active | [^footprint-lh-1] [^footprint-lh-2] |
 | Birchbox | Seed | 2010 | Commerce/D2C | Acquired | [^17] [^24] |
 | Warby Parker | Seed | 2011 | Commerce/D2C | IPO (2021) | [^19] |
 | BuzzFeed | Seed | 2011 | Media | IPO (2021) | [^3] |
@@ -212,3 +213,7 @@ No independently sourced founder testimonials found. Despite dedicated searches,
 [^46]: PR Newswire, "BRAMI Raises $33 Million Series B Led by VMG Partners to Scale Italian Protein Pasta," May 19, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/brami-raises-33-million-series-b-led-by-vmg-partners-to-scale-italian-protein-pasta-302776240.html — Confirms Lerer Hippeau as existing investor in BRAMI's $33M Series B led by VMG Partners on May 19, 2026; La Molisana, Pentland Ventures, and Gather Ventures also participated as existing investors.
 
 [^47]: Crunchbase News, "Scotch raises AI funding for liquor retail tech," June 4, 2026. Accessed June 2026. https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/
+
+[^footprint-lh-1]: Footprint, "Footprint's Series B & The Race For Time and Memory," Eli Wachs, September 16, 2026. Accessed September 17, 2026. https://www.onefootprint.com/learn/series-b — Primary company source: names Lerer Hippeau among Series B participants alongside QED (lead), MUFG, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, BoxGroup, Operator Partners, and Animal Capital.
+
+[^footprint-lh-2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/16/2026," September 16, 2026. Accessed September 17, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-16-2026/ — Independent contemporaneous tech press: confirms Lerer Hippeau in the $25M Series B, $45M total raised.

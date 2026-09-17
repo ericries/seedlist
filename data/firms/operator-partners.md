@@ -87,6 +87,7 @@ This table represents a sample of verified investments. Operator Partners report
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| Footprint | Series B (participated; QED-led $25M; MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Animal Capital also participated; $45M total raised) | 2026-09-16 | Fintech / Identity / KYC / AML / AI | [^footprint-op-1][^footprint-op-2] |
 | Sandstone | Series A | 2026-06-09 | Legal Tech/AI | [^38][^39][^40] |
 | Harmony | Seed ($34M; Lightspeed Venture Partners-led; Hitachi Ventures, Fin Capital, Mercer Ventures, Operator Partners participated; angels Assaf Rappaport, Ofir Ehrlich) | 2026-07-28 | Enterprise Software / Agentic AI / Service Management | [^harm1][^harm2][^harm3] |
 | Apella | Series B | 2026-01-08 | Healthcare/AI | [^20] |
@@ -194,3 +195,7 @@ No independently sourced founder testimonials found. The firm's website describe
 [^harm2]: Calcalist (CTech), "After selling Epsagon to Cisco for $500 million, founders return with AI enterprise startup Harmony," July 28, 2026. Accessed July 30, 2026. https://www.calcalistech.com/ctechnews/article/sj0nhfurmx
 
 [^harm3]: ACCESS Newswire (official press release), "Harmony Raises $34 Million to Reinvent Employee Experience Powered by AI," July 28, 2026. Accessed August 2026. https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/harmony-raises-34-million-to-reinvent-employee-experience-powered-1193998
+
+[^footprint-op-1]: Footprint, "Footprint's Series B & The Race For Time and Memory," Eli Wachs, September 16, 2026. Accessed September 17, 2026. https://www.onefootprint.com/learn/series-b — Primary company source: names Operator Partners among Series B participants alongside QED (lead), MUFG, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, and Animal Capital.
+
+[^footprint-op-2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/16/2026," September 16, 2026. Accessed September 17, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-16-2026/ — Independent contemporaneous tech press: confirms Operator Partners in the $25M Series B, $45M total raised.

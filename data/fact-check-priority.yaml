@@ -8647,26 +8647,50 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-17 (6h cron): New lean profile for Footprint $25M Series B (2026-09-16) led by QED Investors with MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital. Sources: onefootprint.com/learn/series-b blog, AlleyWatch daily 9/16 report, QED Investors blog.'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified $25M Series B via 3 independent primary sources — Footprint company blog [^1] (onefootprint.com/learn/series-b, primary company source: confirms $25M, QED lead, 2026-09-16 date, complete participant list including MUFG, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital); AlleyWatch [^2] (2026-09-16, independent contemporaneous tech press: confirms $25M Series B, QED lead, "MUFG Innovation Partners" fuller name, $45M total-raised figure); QED Investors blog memo [^3] (Amias Gerety, 2024-05-21, primary lead-investor thesis source: predates the Series B but confirms QED prior investment and rationale). Added TWO NEW verbatim quotes: Eli Wachs — "This requires solving for two things: time and memory." — from Footprint Series B blog; Amias Gerety (QED) — "We couldn''t be more excited about joining the Footprint team for their journey towards a true reusable identity network." — from QED memo. Expanded About with QED thesis context. Sources section reformatted with per-citation source-quality annotations.'
+  processed: '2026-09-17'
 - slug: qed-investors
   type: firm
   reason: 'Round monitoring 2026-09-17: led Footprint Series B ($25M, 2026-09-16).'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B row to qed-investors.md portfolio table (Led $25M; MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital participated; $45M total raised) with 3 named-footnote citations ([^footprint-qed-1] Footprint company blog, [^footprint-qed-2] AlleyWatch, [^footprint-qed-3] QED Investors memo). Row inserted at top of portfolio table as newest QED-led deal.'
+  processed: '2026-09-17'
 - slug: index-ventures
   type: firm
   reason: 'Round monitoring 2026-09-17: participated in Footprint Series B ($25M, 2026-09-16).'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to index-ventures.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-idx-1] Footprint company blog, [^footprint-idx-2] AlleyWatch). Row inserted at top of portfolio table as newest Index-participated deal.'
+  processed: '2026-09-17'
 - slug: lerer-hippeau
   type: firm
   reason: 'Round monitoring 2026-09-17: participated in Footprint Series B ($25M, 2026-09-16).'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to lerer-hippeau.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-lh-1] Footprint company blog, [^footprint-lh-2] AlleyWatch). Row inserted at top of portfolio table as newest Lerer Hippeau participation.'
+  processed: '2026-09-17'
 - slug: boxgroup
   type: firm
   reason: 'Round monitoring 2026-09-17: participated in Footprint Series B ($25M, 2026-09-16).'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to boxgroup.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-bg-1] Footprint company blog, [^footprint-bg-2] AlleyWatch). Row inserted at top of portfolio table as newest BoxGroup participation.'
+  processed: '2026-09-17'
 - slug: operator-partners
   type: firm
   reason: 'Round monitoring 2026-09-17: participated in Footprint Series B ($25M, 2026-09-16).'
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: added Footprint Series B participation row to operator-partners.md portfolio table (participated in QED-led $25M) with 2 named-footnote citations ([^footprint-op-1] Footprint company blog, [^footprint-op-2] AlleyWatch). Row inserted at top of portfolio table as newest Operator Partners participation.'
+  processed: '2026-09-17'
 - slug: isometric
   type: startup
   reason: 'Round monitoring 2026-09-16: Series A extension €8.6M ($10M) led by Intercontinental Exchange (ICE), bringing Series A to €43M ($50M).'
