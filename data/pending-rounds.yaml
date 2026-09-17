@@ -46,6 +46,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Leeds-based MicroLub raises €8.7 million to help food makers cut fat without
+    sacrificing taste and texture
+  url: https://www.eu-startups.com/2026/09/leeds-based-microlub-raises-e8-7-million-to-help-food-makers-cut-fat-without-sacrificing-taste-and-texture/
+  source: eu-startups
+  date_found: '2026-09-17'
+  parsed_company: Leeds-based MicroLub
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Münster-based syte raises €9 million to expand its AI-powered real estate
+    analytics platform
+  url: https://www.eu-startups.com/2026/09/munster-based-syte-raises-e9-million-to-expand-its-ai-powered-real-estate-analytics-platform/
+  source: eu-startups
+  date_found: '2026-09-17'
+  parsed_company: Münster-based syte
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Berlin-based Integral raises €18 million to deliver AI-run accounting, tax
     and payroll services to SMEs
   url: https://www.eu-startups.com/2026/09/berlin-based-integral-raises-e18-million-to-deliver-ai-run-accounting-tax-and-payroll-services-to-smes/
@@ -835,13 +853,5 @@ pending_rounds:
   date_found: '2026-09-05'
   parsed_company: Remedium
   parsed_amount: $1.5M
-  parsed_round: null
-  status: pending
-- title: an Israeli agentic workspace startup that had raised $57M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-05'
-  parsed_company: an Israeli agentic workspace startup that had
-  parsed_amount: $57M
   parsed_round: null
   status: pending
