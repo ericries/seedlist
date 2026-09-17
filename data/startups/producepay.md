@@ -25,7 +25,7 @@ ProducePay operates a digital produce platform connecting growers, distributors,
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-10 | Equity + Financing Facility | $140M | Avenue Capital | Astanor Ventures, The i80 Group, AgAide, Thiele Capital Management, Millennium Capital [^1] |
+| 2026-09-10 | Equity + Financing Facility | $140M | Avenue Capital | Astanor Ventures, The i80 Group, AgAide, Thiele Capital Management, Millennium Capital [^1][^3] |
 
 ## What Investors Say
 
