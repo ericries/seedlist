@@ -17,6 +17,10 @@ firms:
     Kortschak participated)
   slug: avp
   year: 2026
+- date: 2026-09-15
+  round: series-a-extension
+  slug: plug-and-play
+  year: 2026
 founded: 2022
 founders:
 - name: Eamon Jubbawy
@@ -39,7 +43,7 @@ investors:
 - round: Early stage
   slug: niklas-zennstrom
   year: 2023
-last_researched: 2026-06-22
+last_researched: 2026-09-16
 location: London, United Kingdom
 name: Isometric
 sector:
@@ -53,7 +57,7 @@ slug: isometric
 stage_latest: Series A
 status: published
 status_company: active
-total_raised: $65M+
+total_raised: $75M+
 type: startup
 website: https://isometric.com
 ---
@@ -68,17 +72,22 @@ Isometric's flagship product, Certify, is described as an agentic AI platform th
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|-------------|
+| 2026-09-15 | Series A extension | €8.6M ($10M) | Intercontinental Exchange (ICE) | Acario Innovation, BY Venture Partners, Dubai Future District Fund, Earth VC, Motion Ventures, One Capital, Plug and Play, Verb Ventures, Max Junestrand [^6] |
 | 2026-06-22 | Series A | $40M | AVP (AXA Venture Partners) | Lowercarbon Capital, Plural, John Doerr, Walter Kortschak [^1][^2][^3][^4][^5] |
 
-AVP — formerly AXA Venture Partners, now independent following a 2024–2025 management buyout — led the round with Managing Partner François Robinet as the named partner [^4]. The round is Isometric's first publicly disclosed Series A; the company had previously operated primarily as a carbon-removal registry serving enterprise buyers including Microsoft, Anglo American, JPMorgan Chase, and Boeing [^4][^5].
+AVP — formerly AXA Venture Partners, now independent following a 2024–2025 management buyout — led the round with Managing Partner François Robinet as the named partner [^4]. The round is Isometric's first publicly disclosed Series A; the company had previously operated primarily as a carbon-removal registry serving enterprise buyers including Microsoft, Anglo American, JPMorgan Chase, and Boeing [^4][^5]. On 2026-09-15, Isometric announced an additional €8.6M ($10M) tranche led by Intercontinental Exchange (ICE), bringing the Series A total to €43M ($50M) and cumulative funding to €64M ($75M) [^6].
 
 ## What Investors Say
 
 François Robinet, AVP Managing Partner: "Certification has always forced a choice between speed and rigor. Isometric has eliminated that compromise" [^4].
 
+Gordon Bennett, Managing Director of Utility Markets at ICE, on the extension: "We believe analogue markets can be transformed through digital infrastructure, and that the partners and platforms we back will define the next chapter of environmental markets" [^6].
+
 ## What Founders Say
 
 Founder and CEO Eamon Jubbawy on the certification industry: "the certification industry faced a trade off between speed and rigour" — adding that industrial companies "can get both" through Isometric's platform [^2].
+
+Jubbawy on the September 2026 extension: "Provable output is financeable output. Our AI agents check every data point behind an industrial claim, turning it into a verified asset" [^6].
 
 ## Sources
 
@@ -87,3 +96,4 @@ Founder and CEO Eamon Jubbawy on the certification industry: "the certification 
 [^3]: Carbon Herald, "Isometric Secures $40M To Bring AI Certification Beyond Carbon Markets," June 22, 2026. https://carbonherald.com/isometric-secures-40m-to-bring-ai-certification-beyond-carbon-markets/
 [^4]: Isometric, "Isometric raises $40M to bring agentic certification to the industrial economy," June 22, 2026. Accessed June 2026. https://isometric.com/writing-articles/isometric-raises-40m-to-bring-agentic-certification-to-the-industrial-economy
 [^5]: ESG News, "Isometric Raises $40 Million to Scale AI Certification Across Carbon, Energy and Industrial Markets," June 22, 2026. Accessed June 2026. https://esgnews.com/isometric-raises-40-million-to-scale-ai-certification-across-carbon-energy-and-industrial-markets/
+[^6]: EU-Startups, "UK climatetech startup Isometric brings Series A to €43 million as it expands beyond carbon removal," September 15, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/uk-climatetech-startup-isometric-brings-series-a-to-e43-million-as-it-expands-beyond-carbon-removal/
