@@ -28,6 +28,24 @@ pending_rounds:
   parsed_amount: $18M
   parsed_round: null
   status: pending
+- title: Reykjavík-based Treble raises nearly €15 million to bring sound and voice
+    to physical AI
+  url: https://www.eu-startups.com/2026/09/reykjavik-based-treble-raises-e15-million-to-bring-sound-and-voice-to-physical-ai/
+  source: eu-startups
+  date_found: '2026-09-17'
+  parsed_company: Reykjavík-based Treble
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Barcelona-based Health Force raises €4.2 million to streamline hospital operations
+    with AI agents
+  url: https://www.eu-startups.com/2026/09/barcelona-based-health-force-raises-e4-2-million-to-streamline-hospital-operations-with-ai-agents/
+  source: eu-startups
+  date_found: '2026-09-17'
+  parsed_company: Barcelona-based Health Force
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Berlin-based Integral raises €18 million to deliver AI-run accounting, tax
     and payroll services to SMEs
   url: https://www.eu-startups.com/2026/09/berlin-based-integral-raises-e18-million-to-deliver-ai-run-accounting-tax-and-payroll-services-to-smes/
@@ -146,15 +164,6 @@ pending_rounds:
   parsed_company: London-based Jack & Jill
   parsed_amount: null
   parsed_round: Series A
-  status: pending
-- title: Magnitude Biosciences secures €1.5 million investment to scale in-vivo drug
-    discovery platform
-  url: https://www.eu-startups.com/2026/09/magnitude-biosciences-secures-e1-5-million-investment-to-scale-in-vivo-drug-discovery-platform/
-  source: eu-startups
-  date_found: '2026-09-15'
-  parsed_company: Magnitude Biosciences
-  parsed_amount: null
-  parsed_round: null
   status: pending
 - title: Vilnius-based EnforceShield raises €1.7 million Seed round to fight AI-powered
     IP abuse with autonomous enforcement
@@ -834,21 +843,5 @@ pending_rounds:
   date_found: '2026-09-05'
   parsed_company: an Israeli agentic workspace startup that had
   parsed_amount: $57M
-  parsed_round: null
-  status: pending
-- title: Swish Ventures of Israel raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-05'
-  parsed_company: Swish Ventures of Israel
-  parsed_amount: $250M
-  parsed_round: null
-  status: pending
-- title: of Israel raised $250M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-05'
-  parsed_company: of Israel
-  parsed_amount: $250M
   parsed_round: null
   status: pending

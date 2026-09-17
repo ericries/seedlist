@@ -8687,3 +8687,23 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-16: Growth €3M led by CDP Venture Capital with Redstone, Fund F, Loacker (2026-09-14).'
   added: 2026-09-16
+- slug: health-force
+  type: startup
+  reason: 'Round monitoring 2026-09-17: Seed €4.2M led by LUMO Labs with Step Venture, Next Tier Ventures, Target Global, Calm/Storm (2026-09-17).'
+  added: 2026-09-17
+- slug: grubel
+  type: startup
+  reason: 'Round monitoring 2026-09-17: Pre-Seed €3M led by Point Nine with Jeff Dean, Chris Ré, Ion Stoica, Gabe Pereyra, Winston Weinberg (2026-09-10).'
+  added: 2026-09-17
+- slug: bynario
+  type: startup
+  reason: 'Round monitoring 2026-09-17: Pre-Seed €2.1M led by 360 Capital Partners with PranaVentures (2026-09-10).'
+  added: 2026-09-17
+- slug: fin-com
+  type: startup
+  reason: 'Round monitoring 2026-09-17: Seed $20M led by Expa with Coinbase Ventures, Tenet Fund, Second Sight Ventures (2026-09-15).'
+  added: 2026-09-17
+- slug: liquid-compute
+  type: startup
+  reason: 'Round monitoring 2026-09-17: Seed $15M co-led by FirstMark and Chemistry (2026-09-15).'
+  added: 2026-09-17
