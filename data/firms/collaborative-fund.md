@@ -79,7 +79,7 @@ Based on 83 companies listed on Collaborative Fund's current portfolio page [^17
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
-| Kickstarter | Seed/Angel | ~2010 | Money | [^5][^30] |
+| Kickstarter | Seed/Angel (Craig Shapiro personal angel investment prior to Collaborative Fund's founding, later associated with Fund I 2011 vintage per firm's Fund I retrospective; Collaborative Fund was NOT publicly named in the disclosed ~USD 10M Series A that AllThingsD confirmed 2011-03-17 — that round was led by Union Square Ventures with Betaworks and 15 named individual angels including Jack Dorsey, Zach Klein, Caterina Fake, Scott Heiferman, David Cross, Josh Stylman, Peter Hershberg, Joi Ito, Chris Sacca, Joshua Schacter, Matt Haughey, Josh Kushner, Jared Kushner, Chris Kaskie) | 2010–2011 (Shapiro angel ~2010 pre-CF; Fund I 2011 vintage) | Consumer / Crowdfunding | [^5][^30] |
 | Reddit | Early | 2011 | Consumer | [^5] |
 | Lyft | Early | 2011 | Consumer | [^5] |
 | Blue Bottle Coffee | Early | 2011 | Consumer | [^5] |
