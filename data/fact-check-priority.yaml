@@ -6918,6 +6918,9 @@ priority:
   type: startup
   reason: newly published from round monitoring 2026-08-30 ($26M Series A, 2026-08-27)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified $26M Series A via 3 independent primary sources — BusinessWire [^1] (2026-08-27, primary press-release wire), Dealroom News [^2] (2026-08-27), FinSMEs [^3] (Aug 2026). CRITICAL CORRECTION: profile founder was ''Krzysztof Kulesza'' (Co-Founder & CEO) but LinkedIn/Dealroom/FinSMEs all confirm CEO is Josh Mackanic, former PG&E engineer who managed $500M+ in infrastructure projects (per CivilGrid LinkedIn). Updated frontmatter founder to Josh Mackanic, Founder & CEO. Added his ''Google Maps for what''s underground'' quote to What Founders Say (verbatim from Dealroom coverage). Spark Capital lead, Energy Impact Partners + Afore Capital + A* + Ford Street Ventures + SNR Ventures participants all cross-confirmed. Date 2026-08-27 confirmed via BusinessWire URL and title.'
 - slug: spark-capital
   type: firm
   reason: led CivilGrid $26M Series A (2026-08-27)
@@ -6930,6 +6933,9 @@ priority:
   type: startup
   reason: newly published from round monitoring 2026-08-30 ($21M+ Series A, 2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified $21M+ Series A via 2 independent primary sources (TechCrunch [^1] 2026-08-28 primary tech press with verbatim CEO quote, Techmeme [^2] 2026-08-28 aggregator citing SEC Form D filing dated 2026-08-19). CORRECTIONS: (1) Lead was co-led by Thrive Capital AND Field Ventures (Dylan Field), not Thrive Capital alone — updated Funding History Lead column. (2) Added co-founder Ryan Olson (former Instagram product engineer) alongside Nathan Sharp per TechCrunch. (3) Added Nathan Sharp verbatim quote to What Founders Say: ''Something that has to be true and will be true is that people will still want to see more of their friends.'' (4) Added ~7M downloads context and post-money >$100M valuation (PitchBook) to About. Round closed December 2025; SEC filing 2026-08-19; public announcement 2026-08-28.'
 - slug: thrive-capital
   type: firm
   reason: led Retro $21M+ Series A (2026-08-28)
@@ -6950,6 +6956,9 @@ priority:
   type: startup
   reason: newly published from round monitoring 2026-08-30 ($25M Seed, 2026-08-26)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified $25M seed via 3 independent primary sources — BusinessWire/Morningstar [^1] (2026-08-26 wire), Tech Startups [^2] (2026-08-26), FinSMEs [^3] (Aug 2026). Added Transfyr company website [^4] as 4th primary source (https://www.transfyr.ai/). CORRECTIONS: (1) Location was ''United States'' but FinSMEs confirms Cambridge, Massachusetts. (2) Wegrzyn role was ''Co-Founder'' but FinSMEs confirms Co-Founder & CIO. (3) Added angel investors named by FinSMEs: David Baker, Chris Ré, Jakob Uszkoreit, Ken Frazier, Stephen Quake, Kevin Weil. (4) Added verbatim founder quotes to What Founders Say: Wagner ''Science is missing a critical layer of infrastructure that''s necessary for efficient reproducibility, translation, scaling, and automation.'' and Wegrzyn ''The real bottleneck to revolutionary science isn''t a lack of big ideas, it''s the massive friction of translating those ideas into reliable, scalable reality.'' Both from Tech Startups. General Catalyst lead confirmed across all sources.'
 - slug: general-catalyst
   type: firm
   reason: led Transfyr $25M Seed (2026-08-26)

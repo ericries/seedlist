@@ -20,10 +20,10 @@ firms:
     year: 2026
     date: 2026-08-27
 founders:
-  - name: "Krzysztof Kulesza"
-    role: "Co-Founder & CEO"
+  - name: "Josh Mackanic"
+    role: "Founder & CEO"
 status: published
-last_researched: 2026-08-30
+last_researched: 2026-09-17
 ---
 
 ## About
@@ -46,7 +46,7 @@ No independently sourced investor commentary found at time of profile creation.
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at time of profile creation.
+Founder Josh Mackanic — a former PG&E engineer who previously managed over $500M in infrastructure projects — has described CivilGrid's platform as a kind of "Google Maps for what's underground" [^2].
 
 ## Sources
 
