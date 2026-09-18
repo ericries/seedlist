@@ -67,6 +67,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Cycloid plugs into European Commission’s €180 million sovereign cloud framework
+    following Series A
+  url: https://www.eu-startups.com/2026/09/paris-based-cycloid-plugs-into-european-commissions-e180-million-sovereign-cloud-framework-following-series-a/
+  source: eu-startups
+  date_found: '2026-09-18'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Iceland-based Treble raises $18 million for its voice simulation platform
   url: https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/
   source: techcrunch
@@ -232,14 +241,6 @@ pending_rounds:
   date_found: '2026-09-17'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’
-  url: https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/
-  source: techcrunch
-  date_found: '2026-09-17'
-  parsed_company: Crusoe
-  parsed_amount: $3.9B
   parsed_round: null
   status: pending
 - title: Berlin-based Integral raises €18 million to deliver AI-run accounting, tax
@@ -842,13 +843,4 @@ pending_rounds:
   parsed_company: u003e
   parsed_amount: $450M
   parsed_round: Series C
-  status: pending
-- title: Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can
-    recap your day
-  url: https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/
-  source: techcrunch
-  date_found: '2026-09-09'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
   status: pending

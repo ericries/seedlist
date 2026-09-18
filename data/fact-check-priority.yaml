@@ -9076,3 +9076,16 @@ priority:
   resolved: 2026-09-18
   resolution_note: 'Fact-spec sweep 2026-09-18: verified Impulse Space $308M Series D extension (2026-09-16) via 3 independent primary sources: Payload Space article (2026-09-17, primary tech press confirming $308M extension, $5.4B valuation, $808M total Series D, participants 137 Ventures + BANNER VC + DFJ Growth + Linse Capital + Lux Capital + Valor Equity Partners) [^6], SpaceNews deal listing (2026-09-17, independent aerospace press) [^7], and Impulse Space company press release (2026-09-16, primary company source, "Impulse Space Announces $308 Million Series D Extension to Meet Increasing Demand for In-Space Mobility") [^8-NEW]. Added new citation [^8] with specific company press release URL and added Eric Romo (President & COO) verbatim quote: "This continued support from our investors strengthens our ability to build the systems that will unlock the space economy." Facts confirmed: $308M extension, 2026-09-16, $5.4B valuation, total Series D $808M, participants match across all three sources. Tom Mueller and Eric Romo quotes verified against primary company press release.'
   processed: '2026-09-18'
+- slug: arcos
+  type: startup
+  reason: 'Round monitoring 2026-09-18: Arcos EUR 5.5M seed (2026-09-18), lead High-Tech Gruenderfonds, co-investors Bayern Kapital, Pact, Haufe, Robin Capital. Munich-based civil safety infrastructure. Sources: EU-Startups, arcos.eu, HTGF press page.'
+  added: 2026-09-18
+
+- slug: arcos
+  type: startup
+  reason: "new round 2026-09-18 (seed EUR5.5M)"
+  added: 2026-09-18
+- slug: big-picture-bio
+  type: startup
+  reason: "new pre-seed 2026-09-18 (GBP1.5M)"
+  added: 2026-09-18
