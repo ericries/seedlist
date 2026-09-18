@@ -9080,12 +9080,23 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-18: Arcos EUR 5.5M seed (2026-09-18), lead High-Tech Gruenderfonds, co-investors Bayern Kapital, Pact, Haufe, Robin Capital. Munich-based civil safety infrastructure. Sources: EU-Startups, arcos.eu, HTGF press page.'
   added: 2026-09-18
-
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: verified Arcos €5.5M Seed (2026-09-18) via 3 independent primary sources: EU-Startups article (2026-09-18, primary Europe tech press confirming amount, HTGF lead, full participant list Bayern Kapital + Pact + Haufe + Robin Capital + strategic business angels, and both founders Louis Wübben + Moritz Steigerwald as Managing Directors with verbatim quotes) [^1]; Arcos company website news item "Protection against sabotage: Arcos closes €5.5 million seed round" (2026-09-18, primary company source, includes Sebastian Borek HTGF/DTCF Managing Director quote about protecting critical infrastructure and Europe technological sovereignty) [^2]; HTGF portfolio page for Arcos confirming full investor syndicate (primary lead-investor source) [^3]. Corrected founder titles from generic "Co-Founder" to "Founder & Managing Director" per EU-Startups. Extended Steigerwald quote to include second half ("Nobody was building the company that keeps watch over it."). Added Louis Wübben verbatim quote from EU-Startups. Added Sebastian Borek investor quote from arcos.eu. Corrected founder name spelling "Wuebben" → "Wübben". Currency preserved (€). Added "strategic business angels" to participant list per EU-Startups + HTGF page.'
+  processed: '2026-09-18'
 - slug: arcos
   type: startup
   reason: "new round 2026-09-18 (seed EUR5.5M)"
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Duplicate of prior entry — see resolution_note above (Fact-spec sweep 2026-09-18: verified via EU-Startups, arcos.eu news item, HTGF portfolio page).'
+  processed: '2026-09-18'
 - slug: big-picture-bio
   type: startup
   reason: "new pre-seed 2026-09-18 (GBP1.5M)"
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: verified Big Picture Bio £1.5M pre-seed (£2.2M total incl. £700K Innovate UK non-dilutive) on 2026-09-18 via 3 independent primary sources: EU-Startups article (2026-09-18, primary press confirming Kadmos Capital + Exceptional Ventures co-leads, Gloucester Ventures + John White + Innovate UK Investor Partnerships Programme participants, £1.5M + £700K breakdown, both founders Kerstin Papenfuss PhD MBA + Mark Hammond, and verbatim Papenfuss quote on 900 billion possible combinations) [^1]; Big Picture Bio company website (primary company source, "world model for cancer combination therapy" description and ASCO 2026 prospective-prediction achievement) [^2]; Big Picture Bio LinkedIn company page (2026-09-18 stealth-exit announcement, primary company communications channel confirming full round breakdown and syndicate including Deep Science Ventures) [^3]. Split prior consolidated LinkedIn+website citation into two discrete primary sources to reach 3+ threshold. Added full verbatim Kerstin Papenfuss founder quote to "What Founders Say" (previously listed as "No independently sourced founder testimonials found"). Currency preserved (£, with € equivalent noted). Confirmed founder credentials PhD titles per company website.'
+  processed: '2026-09-18'
