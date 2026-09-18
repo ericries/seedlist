@@ -9104,3 +9104,27 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-18: Arcee AI Series B (2026-09-16) co-lead alongside Vista Equity Partners and Cambium Capital. Sources: Arcee AI blog, Crunchbase News weekly roundup.'
   added: 2026-09-18
+- slug: angle-health
+  type: startup
+  reason: 'Round monitoring 2026-09-18: Angle Health $600M Series C (2026-09-18) led by Vitruvian Partners with Town Hall Ventures (new), Blumberg Capital, Portage Ventures, PruVen Capital, Y Combinator. $2.7B valuation, includes $400M tender.'
+  added: 2026-09-18
+- slug: kastle-ai
+  type: startup
+  reason: 'Round monitoring 2026-09-18: Kastle $24M Series A (2026-09-17) led by Insight Partners with Fifth Wall (new), Y Combinator, Commerce Ventures.'
+  added: 2026-09-18
+- slug: penelope-health
+  type: startup
+  reason: 'Round monitoring 2026-09-18: Penelope Health €87M (2026-09-18) led by Thoreau with Bertelsmann Healthcare Investments, Twine Ventures, Seedcamp.'
+  added: 2026-09-18
+- slug: corepower-magnetics
+  type: startup
+  reason: 'Round monitoring 2026-09-18: CorePower Magnetics $10.6M (2026-09-17) co-led by Engine Ventures and Material Impact with Evergreen Climate Innovations, Carnegie Mellon Catalyst Fund, Baruch Future Ventures.'
+  added: 2026-09-18
+- slug: insight-partners
+  type: firm
+  reason: 'Round monitoring 2026-09-18: Kastle Series A (2026-09-17) led round with Fifth Wall, Y Combinator, Commerce Ventures. Sources: Kastle press release, PRNewswire, Axios Pro Rata.'
+  added: 2026-09-18
+- slug: y-combinator
+  type: firm
+  reason: 'Round monitoring 2026-09-18: Angle Health Series C (2026-09-18, returning) and Kastle Series A (2026-09-17, returning). Sources: company press releases, Axios Pro Rata.'
+  added: 2026-09-18
