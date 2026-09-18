@@ -81,4 +81,3 @@ Impulse Space is a Redondo Beach, California-based in-space mobility infrastruct
 [^5]: Payload Space, "Impulse Space Closes $500M Series D," June 2, 2026. Accessed July 2026. https://payloadspace.com/impulse-space-closes-500m-series-d/
 [^6]: Payload Space, "Impulse Space Raises $308M Series D Extension," September 17, 2026. Accessed September 18, 2026. https://payloadspace.com/impulse-space-raises-308m-series-d-extension/
 [^7]: SpaceNews, deal listing for Impulse Space additional $308 million in Series D funding, September 17, 2026. Accessed September 18, 2026. https://spacenews.com/
-[^8]: Axios Pro Rata (Dan Primack), deal listing for Impulse Space $308M Series D extension, September 18, 2026. Accessed September 18, 2026. https://www.axios.com/newsletters/axios-pro-rata
