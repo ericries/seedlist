@@ -9043,3 +9043,18 @@ priority:
   reason: "led Polyphron $20M seed (2026-09-17)"
   added: 2026-09-18
   status: pending
+- slug: phosphoenix
+  type: startup
+  reason: "New profile: €1.3M growth round (2026-09-16)"
+  added: 2026-09-18
+  status: pending
+- slug: tusk-ic
+  type: startup
+  reason: "New profile: €15M Series A (2026-09-17)"
+  added: 2026-09-18
+  status: pending
+- slug: impulse-space
+  type: startup
+  reason: "Updated with $308M Series D extension (2026-09-16)"
+  added: 2026-09-18
+  status: pending

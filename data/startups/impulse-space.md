@@ -79,7 +79,6 @@ Impulse Space is a Redondo Beach, California-based in-space mobility infrastruct
 [^3]: SpaceNews, "Impulse Space raises $500 million," June 2, 2026. Accessed June 2026. https://spacenews.com/impulse-space-raises-500-million/
 [^4]: Impulse Space press release, "Impulse Space Raises $500M Series D to Build In-Space Mobility Infrastructure for the Space Economy," June 2, 2026. Accessed July 2026. https://www.impulsespace.com/updates/impulse-space-raises-500-million-dollar-series-d-to-build-in-space-mobility-infrastructure-for-the-space-economy
 [^5]: Payload Space, "Impulse Space Closes $500M Series D," June 2, 2026. Accessed July 2026. https://payloadspace.com/impulse-space-closes-500m-series-d/
-[^6]: Impulse Space press release, "Impulse Space Announces $308 Million Series D Extension to Meet Increasing Demand for In-Space Mobility," September 16, 2026. Accessed September 18, 2026. https://www.impulsespace.com/updates
-[^7]: Axios Pro Rata (Dan Primack), deal listing for Impulse Space $308M Series D extension, September 18, 2026. Accessed September 18, 2026. https://www.axios.com/newsletters/axios-pro-rata
 [^6]: Payload Space, "Impulse Space Raises $308M Series D Extension," September 17, 2026. Accessed September 18, 2026. https://payloadspace.com/impulse-space-raises-308m-series-d-extension/
-[^7]: SpaceNews, "Impulse Space raises an additional $308 million in Series D funding," September 17, 2026. Accessed September 18, 2026. https://spacenews.com/
+[^7]: SpaceNews, deal listing for Impulse Space additional $308 million in Series D funding, September 17, 2026. Accessed September 18, 2026. https://spacenews.com/
+[^8]: Axios Pro Rata (Dan Primack), deal listing for Impulse Space $308M Series D extension, September 18, 2026. Accessed September 18, 2026. https://www.axios.com/newsletters/axios-pro-rata
