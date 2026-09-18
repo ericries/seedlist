@@ -13,7 +13,7 @@ investors:
 - round: Series B
   slug: matthew-ocko
   year: 2024
-last_researched: 2026-06-03
+last_researched: 2026-09-18
 location: Redondo Beach, CA
 name: Impulse Space
 sector:
@@ -25,23 +25,28 @@ sector:
 - orbital-transfer-vehicles
 - deeptech
 slug: impulse-space
-stage_latest: Series D
+stage_latest: Series D extension
 status: published
 status_company: active
-total_raised: $1B+
+total_raised: $1.3B+
 type: startup
 website: https://www.impulsespace.com/
+last_verified_investment:
+  date: 2026-09-16
+  company: "Impulse Space"
+  round: "Series D extension"
 ---
 
 ## About
 
-Impulse Space is a Redondo Beach, California-based in-space mobility infrastructure company founded in September 2021 by Tom Mueller — the SpaceX propulsion-engineering veteran widely credited with developing the engines that propelled SpaceX to the top of the launch industry [^1][^2][^3]. President and COO Eric Romo and COO Barry Matsumori (ex-SpaceX, Virgin Orbit) round out the leadership team; the company builds maneuverable orbital transfer vehicles and in-space propulsion systems to move payloads between orbits and to extend satellite lifetimes [^1][^2][^3]. The $500M Series D announced June 2, 2026 was co-led by 137 Ventures and BANNER VC at a $4.26B post-money valuation, with participation from Founders Fund, Lux Capital, and Linse Capital; the round brings total funding above $1B and will fund headcount expansion of up to 200 new employees, focused on engineering hires rather than AI automation [^1][^2][^3].
+Impulse Space is a Redondo Beach, California-based in-space mobility infrastructure company founded in September 2021 by Tom Mueller — the SpaceX propulsion-engineering veteran widely credited with developing the engines that propelled SpaceX to the top of the launch industry [^1][^2][^3]. President and COO Eric Romo and COO Barry Matsumori (ex-SpaceX, Virgin Orbit) round out the leadership team; the company builds maneuverable orbital transfer vehicles and in-space propulsion systems to move payloads between orbits and to extend satellite lifetimes [^1][^2][^3]. The $500M Series D announced June 2, 2026 was co-led by 137 Ventures and BANNER VC at a $4.26B post-money valuation, with participation from Founders Fund, Lux Capital, and Linse Capital; the round brings total funding above $1B and will fund headcount expansion of up to 200 new employees, focused on engineering hires rather than AI automation [^1][^2][^3]. On 2026-09-16, Impulse Space announced a $308M extension to the Series D at a $5.4B valuation, bringing the round total to $808M; participants included 137 Ventures, BANNER VC, DFJ Growth, Linse Capital, Lux Capital, and Valor Equity Partners [^6][^7].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-06-02 | Series D (at $4.26B post-money val) | $500M | 137 Ventures, BANNER VC | Founders Fund, Lux Capital, Linse Capital [^1][^2][^3][^4][^5] |
+| 2026-09-16 | Series D extension (at $5.4B val) | $308M | | 137 Ventures, BANNER VC, DFJ Growth, Linse Capital, Lux Capital, Valor Equity Partners [^6][^7] |
 
 ## What Investors Say
 
@@ -63,6 +68,10 @@ Impulse Space is a Redondo Beach, California-based in-space mobility infrastruct
 >
 > — Tom Mueller, Founder & CEO, Impulse Space [^4]
 
+> "The extension reflects the demand we're seeing from both our customers and investors, and the momentum across the business."
+>
+> — Tom Mueller, Founder & CEO, Impulse Space [^6]
+
 ## Sources
 
 [^1]: TechCrunch, "Rocket engine startup Impulse raises $500 million to hire people, not AI," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/
@@ -70,3 +79,7 @@ Impulse Space is a Redondo Beach, California-based in-space mobility infrastruct
 [^3]: SpaceNews, "Impulse Space raises $500 million," June 2, 2026. Accessed June 2026. https://spacenews.com/impulse-space-raises-500-million/
 [^4]: Impulse Space press release, "Impulse Space Raises $500M Series D to Build In-Space Mobility Infrastructure for the Space Economy," June 2, 2026. Accessed July 2026. https://www.impulsespace.com/updates/impulse-space-raises-500-million-dollar-series-d-to-build-in-space-mobility-infrastructure-for-the-space-economy
 [^5]: Payload Space, "Impulse Space Closes $500M Series D," June 2, 2026. Accessed July 2026. https://payloadspace.com/impulse-space-closes-500m-series-d/
+[^6]: Impulse Space press release, "Impulse Space Announces $308 Million Series D Extension to Meet Increasing Demand for In-Space Mobility," September 16, 2026. Accessed September 18, 2026. https://www.impulsespace.com/updates
+[^7]: Axios Pro Rata (Dan Primack), deal listing for Impulse Space $308M Series D extension, September 18, 2026. Accessed September 18, 2026. https://www.axios.com/newsletters/axios-pro-rata
+[^6]: Payload Space, "Impulse Space Raises $308M Series D Extension," September 17, 2026. Accessed September 18, 2026. https://payloadspace.com/impulse-space-raises-308m-series-d-extension/
+[^7]: SpaceNews, "Impulse Space raises an additional $308 million in Series D funding," September 17, 2026. Accessed September 18, 2026. https://spacenews.com/
