@@ -82,10 +82,10 @@ Based on 28 verified portfolio investments, the following patterns emerge. Note:
 | Ockam | Seed ($4.9M) | 2021 | Developer tools / IoT security | [^30] |
 | Gameto | Series A | 2022 | Biotech / reproductive longevity | [^20] |
 | Verdant Robotics | Series A | 2022 | Agtech / robotics | [^21] |
-| Better Meat Co. | Series A ($31M, co-lead) | 2025 | Food tech | [^31] |
+| Better Meat Co. | Series A ($31M; co-led with Resilience Reserve; Glenn Hickman, Epic Ventures, Sigma Ventures also participated) | 2025-08-19 | Food tech / Mycoprotein | [^31] |
 | atai Life Sciences | Convertible note | 2020 | Biotech / psychedelic therapeutics | [^32] |
-| Glass Imaging | Seed ($9.3M) | 2024 | AI / computational imaging | [^22] |
-| Moonwalk Biosciences | Seed/Series A ($57M) | 2024 | Biotech / epigenetic medicines | [^23] |
+| Glass Imaging | Seed extension ($9.3M; led by GV; Abstract Ventures, LDV Capital also participated) | 2024-02-08 | AI / computational imaging | [^22] |
+| Moonwalk Biosciences | Launch ($57M combined seed/Series A; led by Alpha Wave Ventures; ARCH Venture Partners, GV, Khosla Ventures, YK Bioventures also participated) | 2024-01-04 | Biotech / epigenetic medicines | [^23][^mwb-launch1] |
 | Moonwalk Biosciences | Series B (participated, $70M; Alpha Wave and YK Bioventures co-led; Eli Lilly, Gaorong Ventures, ARCH Venture Partners, Khosla Ventures also participated) | 2026-09-08 | Biotech / Adipose RNAi / Obesity / Cardiometabolic | [^mwb-fv1][^mwb-fv2][^mwb-fv3] |
 | Zyphra | Seed ($11M) | 2023 | AI / large language models | [^33] |
 | MosaicML | Series A ($25M) | 2021 | AI / ML infrastructure (acquired by Databricks, 2023) | [^34] |
@@ -204,3 +204,5 @@ Gerard Barron, Chairman and CEO of The Metals Company, said upon Jurvetson joini
 [^mwb-fv2]: BioPharm International, "Moonwalk Biosciences Raises $70 Million to Advance Adipose RNAi for Obesity," September 2026. Accessed September 16, 2026. https://www.biopharminternational.com/view/moonwalk-biosciences-70m-adipose-rnai-obesity — Independent trade press confirmation naming Future Ventures alongside Alpha Wave (co-lead), YK Bioventures (co-lead), Eli Lilly, Gaorong Ventures, ARCH Venture Partners, and Khosla Ventures. Includes verbatim Alex Aravanis (CEO) and Rick Gerson (Chairman) quotes.
 
 [^mwb-fv3]: Yahoo Finance / NYSE Content Update, "Moonwalk Biosciences Announces $70 Million Series B," September 9, 2026. Accessed September 16, 2026. https://finance.yahoo.com/markets/stocks/articles/moonwalk-biosciences-announces-70-million-125500440.html — Third-party syndicated primary confirmation of the $70M Series B on September 8, 2026 to advance MW101 adipose-targeted RNAi program toward first-in-human studies in late 2027.
+
+[^mwb-launch1]: Moonwalk Biosciences primary press release, "Moonwalk Biosciences Launches with $57 Million in Financing to Advance a New Class of Precision Epigenetic Medicines," January 4, 2024. Accessed September 2026. https://moonwalk.bio/news/moonwalk-biosciences-launches-with-57-million-in-financing-to-advance-a-new-class-of-precision-epigenetic-medicines/ — Primary company source confirming 2024-01-04 launch date, Alpha Wave Ventures lead, and participation from ARCH Venture Partners, Future Ventures, GV, Khosla Ventures, YK Bioventures. Includes verbatim CEO Alex Aravanis quote ("Epigenome engineering is the next frontier of genetic medicines...") and Rick Gerson (Alpha Wave Global) quote ("Moonwalk's epigenetic engineering platform represents an exciting new era in genetic medicine, by targeting the root cause of disease.").
