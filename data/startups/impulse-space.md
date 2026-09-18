@@ -46,7 +46,7 @@ Impulse Space is a Redondo Beach, California-based in-space mobility infrastruct
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-06-02 | Series D (at $4.26B post-money val) | $500M | 137 Ventures, BANNER VC | Founders Fund, Lux Capital, Linse Capital [^1][^2][^3][^4][^5] |
-| 2026-09-16 | Series D extension (at $5.4B val) | $308M | | 137 Ventures, BANNER VC, DFJ Growth, Linse Capital, Lux Capital, Valor Equity Partners [^6][^7] |
+| 2026-09-16 | Series D extension (at $5.4B val) | $308M | | 137 Ventures, BANNER VC, DFJ Growth, Linse Capital, Lux Capital, Valor Equity Partners [^6][^7][^8] |
 
 ## What Investors Say
 
@@ -72,6 +72,10 @@ Impulse Space is a Redondo Beach, California-based in-space mobility infrastruct
 >
 > — Tom Mueller, Founder & CEO, Impulse Space [^6]
 
+> "This continued support from our investors strengthens our ability to build the systems that will unlock the space economy."
+>
+> — Eric Romo, President & COO, Impulse Space [^8]
+
 ## Sources
 
 [^1]: TechCrunch, "Rocket engine startup Impulse raises $500 million to hire people, not AI," June 2, 2026. Accessed June 2026. https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/
@@ -81,3 +85,4 @@ Impulse Space is a Redondo Beach, California-based in-space mobility infrastruct
 [^5]: Payload Space, "Impulse Space Closes $500M Series D," June 2, 2026. Accessed July 2026. https://payloadspace.com/impulse-space-closes-500m-series-d/
 [^6]: Payload Space, "Impulse Space Raises $308M Series D Extension," September 17, 2026. Accessed September 18, 2026. https://payloadspace.com/impulse-space-raises-308m-series-d-extension/
 [^7]: SpaceNews, deal listing for Impulse Space additional $308 million in Series D funding, September 17, 2026. Accessed September 18, 2026. https://spacenews.com/
+[^8]: Impulse Space company press release, "Impulse Space Announces $308 Million Series D Extension to Meet Increasing Demand for In-Space Mobility," September 16, 2026. Accessed September 18, 2026. https://www.impulsespace.com/updates/impulse-space-announces-308-million-series-d-extension-to-meet-increasing-demand-for-in-space-mobility

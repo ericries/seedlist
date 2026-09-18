@@ -38,7 +38,7 @@ Polyphron is a New York–based biotech developing artificial human biology by c
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-17 | Seed | $20M | Quiet Capital | Gradient, Haystack, Compound [^2][^3] |
+| 2026-09-17 | Seed | $20M | Quiet Capital | Gradient, Haystack, Compound [^2][^3][^4] |
 
 ## What Investors Say
 
@@ -53,3 +53,4 @@ No independently sourced founder testimonials found at time of profile creation.
 [^1]: Polyphron company website, "Home," accessed September 18, 2026. https://polyphron.com/
 [^2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/17/2026," September 17, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-17-2026/
 [^3]: Axios Pro Rata (Dan Primack), deal listing for Polyphron $20M seed, September 17, 2026. https://www.axios.com/newsletters/axios-pro-rata
+[^4]: Quiet Capital portfolio page, accessed September 18, 2026. https://quiet.com/portfolio/ — Polyphron is listed among Quiet Capital's active portfolio companies, confirming the lead investor relationship.

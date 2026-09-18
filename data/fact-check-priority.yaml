@@ -9048,7 +9048,10 @@ priority:
   type: firm
   reason: "led Polyphron $20M seed (2026-09-17)"
   added: 2026-09-18
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: verified Quiet Capital led Polyphron $20M seed (2026-09-17) via 3+ independent primary sources: Quiet Capital portfolio page confirms Polyphron listed among portfolio companies (primary investor source) [^1]; Polyphron company website confirms $20M seed announced 2026-09-17 and references Business Wire and Axios Pro announcements (primary startup source) [^qc-polyphron-1]; AlleyWatch daily funding report confirms Quiet Capital as lead of Polyphron $20M seed with Gradient, Haystack, Compound participants (contemporaneous tech press) [^qc-polyphron-2]; Axios Pro Rata (Dan Primack) deal listing (independent newsletter) [^qc-polyphron-3]. Also added companion citation to polyphron.md ([^4] Quiet Capital portfolio page). Existing quiet-capital.md portfolio row already carries all three primary citations from prior sweep; no additional changes needed to firm profile.'
+  processed: '2026-09-18'
 - slug: phosphoenix
   type: startup
   reason: "New profile: €1.3M growth round (2026-09-16)"
@@ -9066,4 +9069,7 @@ priority:
   type: startup
   reason: "Updated with $308M Series D extension (2026-09-16)"
   added: 2026-09-18
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: verified Impulse Space $308M Series D extension (2026-09-16) via 3 independent primary sources: Payload Space article (2026-09-17, primary tech press confirming $308M extension, $5.4B valuation, $808M total Series D, participants 137 Ventures + BANNER VC + DFJ Growth + Linse Capital + Lux Capital + Valor Equity Partners) [^6], SpaceNews deal listing (2026-09-17, independent aerospace press) [^7], and Impulse Space company press release (2026-09-16, primary company source, "Impulse Space Announces $308 Million Series D Extension to Meet Increasing Demand for In-Space Mobility") [^8-NEW]. Added new citation [^8] with specific company press release URL and added Eric Romo (President & COO) verbatim quote: "This continued support from our investors strengthens our ability to build the systems that will unlock the space economy." Facts confirmed: $308M extension, 2026-09-16, $5.4B valuation, total Series D $808M, participants match across all three sources. Tom Mueller and Eric Romo quotes verified against primary company press release.'
+  processed: '2026-09-18'
