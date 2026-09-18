@@ -9028,3 +9028,18 @@ priority:
   resolved: 2026-09-17
   resolution_note: 'Fact-spec sweep 2026-09-17: rewrote existing Crusoe Series F portfolio row on valor-equity-partners.md to reflect the OFFICIAL 2026-09-17 close of $3.9B at $30.9B post-money (previously carried the 2026-09-03 pre-close report of $3B at $30B). Corrected co-lead syndicate to Atreides Management + Mubadala Capital + Valor Equity Partners (Mubadala was upgraded from participant to co-lead at close per TechCrunch primary source), and enumerated the full participant list (Founders Fund, GIC, Nvidia, Qatar Investment Authority, Radical Ventures, TPG). Added 2 new named-footnote citations ([^crusoe-f4] TechCrunch official-close piece, [^crusoe-f5] Crusoe Newsroom). Frontmatter last_verified_investment.date bumped from 2026-09-03 to 2026-09-17 to match the official close date.'
   processed: '2026-09-17'
+- slug: phosphoenix
+  type: startup
+  reason: "created profile for Phosphoenix €1.3M growth round (2026-09-16); lead ROM InWest with TTT Medtech Fund, FIRST Fund, Innovatiefonds Noord-Holland"
+  added: 2026-09-18
+  status: pending
+- slug: polyphron
+  type: startup
+  reason: "created profile for Polyphron $20M seed (2026-09-17); lead Quiet Capital with Gradient, Haystack, Compound"
+  added: 2026-09-18
+  status: pending
+- slug: quiet-capital
+  type: firm
+  reason: "led Polyphron $20M seed (2026-09-17)"
+  added: 2026-09-18
+  status: pending

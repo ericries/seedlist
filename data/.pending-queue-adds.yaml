@@ -1,230 +1,281 @@
-- name: "Toyota Ventures"
+- name: Toyota Ventures
   type: firm
-  source: "co-investor on Xona Space Systems Series B 2025-06-26 with Craft Ventures"
+  source: co-investor on Xona Space Systems Series B 2025-06-26 with Craft Ventures
   discovered_from: xona-space-systems
   priority: normal
-- name: "Seraphim Space"
+- name: Seraphim Space
   type: firm
-  source: "co-investor on Xona Space Systems Series B 2025-06-26 (also participated in 2020 Pre-Seed) with Craft Ventures"
+  source: co-investor on Xona Space Systems Series B 2025-06-26 (also participated
+    in 2020 Pre-Seed) with Craft Ventures
   discovered_from: xona-space-systems
   priority: normal
-- name: "NGP Capital"
+- name: NGP Capital
   type: firm
-  source: "co-investor on Xona Space Systems Series B 2025-06-26 with Craft Ventures; published thesis post 2026-09-02"
+  source: co-investor on Xona Space Systems Series B 2025-06-26 with Craft Ventures;
+    published thesis post 2026-09-02
   discovered_from: xona-space-systems
   priority: normal
-- name: "Snowpoint Ventures"
+- name: Snowpoint Ventures
   type: firm
-  source: "lead investor on Valar Atomics Series A 2025-11 ($130M); Doug Philippone is founder"
+  source: lead investor on Valar Atomics Series A 2025-11 ($130M); Doug Philippone
+    is founder
   discovered_from: valar-atomics
   priority: normal
-- name: "Doug Philippone"
+- name: Doug Philippone
   type: individual
-  firm: "Snowpoint Ventures"
-  source: "led Valar Atomics Series A 2025-11 ($130M); founder of Snowpoint Ventures"
+  firm: Snowpoint Ventures
+  source: led Valar Atomics Series A 2025-11 ($130M); founder of Snowpoint Ventures
   discovered_from: valar-atomics
   priority: high
-- name: "Isaiah Taylor"
+- name: Isaiah Taylor
   type: individual
-  firm: "Valar Atomics"
-  source: "CEO & Founder of Valar Atomics; not an investor per se — profile as founder if founder profiles are added"
+  firm: Valar Atomics
+  source: CEO & Founder of Valar Atomics; not an investor per se — profile as founder
+    if founder profiles are added
   discovered_from: valar-atomics
   priority: low
-- name: "ICONIQ Capital"
+- name: ICONIQ Capital
   type: firm
-  source: "co-investor on David $250M Series B 2026-09-02"
+  source: co-investor on David $250M Series B 2026-09-02
   discovered_from: david-protein
   priority: normal
-- name: "Imaginary Ventures"
+- name: Imaginary Ventures
   type: firm
-  source: "co-investor on David $250M Series B 2026-09-02"
+  source: co-investor on David $250M Series B 2026-09-02
   discovered_from: david-protein
   priority: normal
-- name: "Morgan Health"
+- name: Morgan Health
   type: firm
-  source: "lead investor on Thyme Care Series E 2026-09-04 ($125M); JPMorgan Chase healthcare investment arm"
+  source: lead investor on Thyme Care Series E 2026-09-04 ($125M); JPMorgan Chase
+    healthcare investment arm
   discovered_from: thyme-care
   priority: high
-- name: "CVS Health Ventures"
+- name: CVS Health Ventures
   type: firm
-  source: "co-investor on Thyme Care Series E 2026-09-04"
+  source: co-investor on Thyme Care Series E 2026-09-04
   discovered_from: thyme-care
   priority: normal
-- name: "Humana"
+- name: Humana
   type: firm
-  source: "co-investor on Thyme Care Series E 2026-09-04"
+  source: co-investor on Thyme Care Series E 2026-09-04
   discovered_from: thyme-care
   priority: normal
-- name: "Jane Street Capital"
+- name: Jane Street Capital
   type: firm
-  source: "lead investor on Fluidstack $1.5B private equity round 2026-09-04"
+  source: lead investor on Fluidstack $1.5B private equity round 2026-09-04
   discovered_from: fluidstack
   priority: normal
-- name: "Peter Rahal"
+- name: Peter Rahal
   type: individual
-  firm: "David / RXBAR"
-  source: "co-founder of David; participated in David $250M Series B 2026-09-02 as investor; RXBAR co-founder"
+  firm: David / RXBAR
+  source: co-founder of David; participated in David $250M Series B 2026-09-02 as
+    investor; RXBAR co-founder
   discovered_from: david-protein
   priority: high
-- name: "FTV Capital"
+- name: FTV Capital
   type: firm
-  source: "led TabaPay $155M strategic growth financing 2026-09-02"
+  source: led TabaPay $155M strategic growth financing 2026-09-02
   discovered_from: tabapay
   priority: normal
-- name: "Silverton Partners"
+- name: Silverton Partners
   type: firm
-  source: "led Bluecore Energy $50M Seed 2026-09-08"
+  source: led Bluecore Energy $50M Seed 2026-09-08
   discovered_from: bluecore-energy
   priority: high
-- name: "Slauson & Co."
+- name: Slauson & Co.
   type: firm
-  source: "co-investor on Bluecore Energy $50M Seed 2026-09-08; led Pre-Seed 2026-07-21"
+  source: co-investor on Bluecore Energy $50M Seed 2026-09-08; led Pre-Seed 2026-07-21
   discovered_from: bluecore-energy
   priority: normal
-- name: "Collab Capital"
+- name: Collab Capital
   type: firm
-  source: "co-investor on Bluecore Energy $50M Seed 2026-09-08"
+  source: co-investor on Bluecore Energy $50M Seed 2026-09-08
   discovered_from: bluecore-energy
   priority: normal
-- name: "HartBeat Ventures"
+- name: HartBeat Ventures
   type: firm
-  source: "co-investor on Bluecore Energy $50M Seed 2026-09-08 (Kevin Hart)"
+  source: co-investor on Bluecore Energy $50M Seed 2026-09-08 (Kevin Hart)
   discovered_from: bluecore-energy
   priority: normal
-- name: "Harlem Capital"
+- name: Harlem Capital
   type: firm
-  source: "co-investor on Bluecore Energy $50M Seed 2026-09-08 and Pre-Seed 2026-07-21"
+  source: co-investor on Bluecore Energy $50M Seed 2026-09-08 and Pre-Seed 2026-07-21
   discovered_from: bluecore-energy
   priority: normal
-- name: "Nimble Ventures"
+- name: Nimble Ventures
   type: firm
-  source: "led CloudNC $20M Series B extension 2026-09-08"
+  source: led CloudNC $20M Series B extension 2026-09-08
   discovered_from: cloudnc
   priority: high
-- name: "Calculus Venture Capital"
+- name: Calculus Venture Capital
   type: firm
-  source: "co-investor on CloudNC $20M Series B extension 2026-09-08"
+  source: co-investor on CloudNC $20M Series B extension 2026-09-08
   discovered_from: cloudnc
   priority: normal
-- name: "Entrepreneurs First"
+- name: Entrepreneurs First
   type: firm
-  source: "co-investor on CloudNC $20M Series B extension 2026-09-08"
+  source: co-investor on CloudNC $20M Series B extension 2026-09-08
   discovered_from: cloudnc
   priority: normal
-- name: "LM Capital"
+- name: LM Capital
   type: firm
-  source: "Lockheed Martin's venture arm; co-investor on CloudNC $20M Series B extension 2026-09-08"
+  source: Lockheed Martin's venture arm; co-investor on CloudNC $20M Series B extension
+    2026-09-08
   discovered_from: cloudnc
   priority: normal
-- name: "Theo Saville"
+- name: Theo Saville
   type: individual
-  firm: "CloudNC"
-  source: "Co-Founder & CEO of CloudNC"
+  firm: CloudNC
+  source: Co-Founder & CEO of CloudNC
   discovered_from: cloudnc
   priority: low
-- name: "Kofi Asante"
+- name: Kofi Asante
   type: individual
-  firm: "Bluecore Energy"
-  source: "Founder & CEO of Bluecore Energy; former Uber Freight"
+  firm: Bluecore Energy
+  source: Founder & CEO of Bluecore Energy; former Uber Freight
   discovered_from: bluecore-energy
   priority: low
-- name: "Medical Excellence Capital"
+- name: Medical Excellence Capital
   type: firm
-  source: "co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M) alongside Insight Partners; John Prufeta on TwoStep board"
+  source: co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M) alongside
+    Insight Partners; John Prufeta on TwoStep board
   discovered_from: twostep-therapeutics
   priority: high
-- name: "BVF Partners"
+- name: BVF Partners
   type: firm
-  source: "lead investor on Superluminal Medicines Series B 2026-09-05 ($60M); life sciences fund"
+  source: lead investor on Superluminal Medicines Series B 2026-09-05 ($60M); life
+    sciences fund
   discovered_from: superluminal-medicines
   priority: high
-- name: "M Ventures"
+- name: M Ventures
   type: firm
-  source: "co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M); Merck KGaA corporate venture arm; Oliver Lyth on TwoStep board"
+  source: co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M); Merck
+    KGaA corporate venture arm; Oliver Lyth on TwoStep board
   discovered_from: twostep-therapeutics
   priority: high
-- name: "Pfizer Ventures"
+- name: Pfizer Ventures
   type: firm
-  source: "co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M); Rana Al-Hallaq on TwoStep board"
+  source: co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M); Rana
+    Al-Hallaq on TwoStep board
   discovered_from: twostep-therapeutics
   priority: normal
-- name: "2048 Ventures"
+- name: 2048 Ventures
   type: firm
-  source: "existing investor on TwoStep Therapeutics Series A 2026-09-09"
+  source: existing investor on TwoStep Therapeutics Series A 2026-09-09
   discovered_from: twostep-therapeutics
   priority: normal
-- name: "Atreides Management"
+- name: Atreides Management
   type: firm
-  source: "co-lead investor on Positron AI Series C 2026-09-10 ($875M / $5B valuation)"
+  source: co-lead investor on Positron AI Series C 2026-09-10 ($875M / $5B valuation)
   discovered_from: positron-ai
   priority: high
-- name: "Andra Capital"
+- name: Andra Capital
   type: firm
-  source: "co-investor on Positron AI Series C 2026-09-10"
+  source: co-investor on Positron AI Series C 2026-09-10
   discovered_from: positron-ai
   priority: normal
-- name: "SemiAnalysis Capital"
+- name: SemiAnalysis Capital
   type: firm
-  source: "co-investor on Positron AI Series C 2026-09-10; Dylan Patel (SemiAnalysis) on Positron board"
+  source: co-investor on Positron AI Series C 2026-09-10; Dylan Patel (SemiAnalysis)
+    on Positron board
   discovered_from: positron-ai
   priority: normal
-- name: "DFJ Growth"
+- name: DFJ Growth
   type: firm
-  source: "board seat at Positron AI (per positron.ai/about); AI inference hardware backer"
+  source: board seat at Positron AI (per positron.ai/about); AI inference hardware
+    backer
   discovered_from: positron-ai
   priority: normal
-- name: "Deep Track Capital"
+- name: Deep Track Capital
   type: firm
-  source: "new investor on Superluminal Medicines Series B 2026-09-05 ($60M)"
+  source: new investor on Superluminal Medicines Series B 2026-09-05 ($60M)
   discovered_from: superluminal-medicines
   priority: normal
-- name: "Perceptive Advisors"
+- name: Perceptive Advisors
   type: firm
-  source: "new investor on Superluminal Medicines Series B 2026-09-05 ($60M); life sciences hedge fund"
+  source: new investor on Superluminal Medicines Series B 2026-09-05 ($60M); life
+    sciences hedge fund
   discovered_from: superluminal-medicines
   priority: normal
-- name: "RA Capital Management"
+- name: RA Capital Management
   type: firm
-  source: "existing investor on Superluminal Medicines Series B 2026-09-05"
+  source: existing investor on Superluminal Medicines Series B 2026-09-05
   discovered_from: superluminal-medicines
   priority: normal
-- name: "Catalio Capital Management"
+- name: Catalio Capital Management
   type: firm
-  source: "existing investor on Superluminal Medicines Series B 2026-09-05"
+  source: existing investor on Superluminal Medicines Series B 2026-09-05
   discovered_from: superluminal-medicines
   priority: normal
-- name: "Northern Gritstone"
+- name: Northern Gritstone
   type: firm
-  source: "led £4M investment in MicroLub 2026-09-17 (£7M total round); UK North-focused deeptech investor from spinout ecosystems"
+  source: led £4M investment in MicroLub 2026-09-17 (£7M total round); UK North-focused
+    deeptech investor from spinout ecosystems
   discovered_from: microlub
   priority: normal
-- name: "PXN Ventures"
+- name: PXN Ventures
   type: firm
-  source: "co-invested on MicroLub 2026-09-17 growth round via NPIF II - PXN Equity Finance"
+  source: co-invested on MicroLub 2026-09-17 growth round via NPIF II - PXN Equity
+    Finance
   discovered_from: microlub
   priority: low
-- name: "amberra"
+- name: amberra
   type: firm
-  source: "led €9M Series A of syte 2026-09-17; venture studio of Cooperative Financial Group Volksbanken Raiffeisenbanken"
+  source: led €9M Series A of syte 2026-09-17; venture studio of Cooperative Financial
+    Group Volksbanken Raiffeisenbanken
   discovered_from: syte
   priority: normal
-- name: "NRW.BANK"
+- name: NRW.BANK
   type: firm
-  source: "new investor on syte €9M Series A 2026-09-17"
+  source: new investor on syte €9M Series A 2026-09-17
   discovered_from: syte
   priority: low
-- name: "High-Tech Gründerfonds"
+- name: High-Tech Gründerfonds
   type: firm
-  source: "existing investor on syte €9M Series A 2026-09-17; German early-stage deeptech fund (HTGF)"
+  source: existing investor on syte €9M Series A 2026-09-17; German early-stage deeptech
+    fund (HTGF)
   discovered_from: syte
   priority: normal
-- name: "vent.io"
+- name: vent.io
   type: firm
-  source: "existing investor on syte €9M Series A 2026-09-17"
+  source: existing investor on syte €9M Series A 2026-09-17
   discovered_from: syte
   priority: low
-- name: "Vantage Value"
+- name: Vantage Value
   type: firm
-  source: "existing investor on syte €9M Series A 2026-09-17"
+  source: existing investor on syte €9M Series A 2026-09-17
   discovered_from: syte
   priority: low
+- name: ROM InWest
+  type: firm
+  priority: normal
+  discovered_from: phosphoenix
+- name: 819 Capital
+  type: firm
+  priority: normal
+  discovered_from: phosphoenix
+- name: BioGeneration Ventures
+  type: firm
+  priority: normal
+  discovered_from: phosphoenix
+- name: Innovatiefonds Noord-Holland
+  type: firm
+  priority: low
+  discovered_from: phosphoenix
+- name: Gradient (Google)
+  type: firm
+  priority: normal
+  discovered_from: polyphron
+- name: Haystack VC
+  type: firm
+  priority: normal
+  discovered_from: polyphron
+- name: Compound VC
+  type: firm
+  priority: normal
+  discovered_from: polyphron
+- name: Matt Osman
+  type: individual
+  firm: Polyphron
+  priority: low
+  discovered_from: polyphron

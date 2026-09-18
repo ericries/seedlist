@@ -150,6 +150,7 @@ The following is a partial list of verified portfolio companies. Quiet Capital's
 ~unknown| Castelion | — | — | Defense | Quiet Capital website [^1] |
 | Manifest OS | Series A | 2026 | LegalTech / AI | Press release [^28] |
 | Intropy | Seed (participated, $11M / €9.5M; Felix Capital led; General Catalyst and firstminute capital existing investors; London-based; founders YihKai Teh and Franziska Kirschner ex-Tractable) | 2026-07-30 | AI / Supply Chain / Spare Parts | Tech.eu [^qc-intropy-1], Vestbee [^qc-intropy-2], EU-Startups [^qc-intropy-3] |
+| Polyphron | Seed (led, $20M) | 2026-09-17 | Biotech / AI / Tissue Engineering | Polyphron website [^qc-polyphron-1], AlleyWatch [^qc-polyphron-2], Axios Pro Rata [^qc-polyphron-3] |
 
 *Note: This table represents approximately 50 of 262 companies listed on Quiet Capital's portfolio page. Most entries lack specific investment year and stage because the firm's website and public sources do not attribute precise dates to individual investments. Only 5 investments have independently verified years and stages from press or regulatory sources.*
 
@@ -209,3 +210,7 @@ No independently sourced founder testimonials found. Quiet Capital maintains a d
 [^qc-intropy-1]: Tech.eu, "AI for spare parts startup Intropy raises $11M," July 30, 2026. Accessed August 2026. https://tech.eu/2026/07/30/ai-for-spare-parts-startup-intropy-raises-11m/ — Confirms Quiet Capital as a new participant in Intropy's $11M / €9.5M seed on 2026-07-30, led by Felix Capital, with existing investors General Catalyst and firstminute capital.
 [^qc-intropy-2]: Vestbee, "London-based Intropy raises $11M seed to modernise spare parts supply chains with AI," accessed August 2026. https://www.vestbee.com/insights/articles/intropy-raises-11-m — Independent European tech-press confirmation of Quiet Capital participation.
 [^qc-intropy-3]: EU-Startups, "London-based Intropy raises €9.5 million to build the AI-native operating system for the spare parts industry," July 30, 2026. Accessed August 2026. https://www.eu-startups.com/2026/07/london-based-intropy-raises-e9-5-million-to-build-the-ai-native-operating-system-for-the-spare-parts-industry/ — Third independent confirmation.
+
+[^qc-polyphron-1]: Polyphron company website, accessed September 18, 2026. https://polyphron.com/ — Company page confirms $20M seed round in September 2026 and identifies founding team; cites Axios Pro and Business Wire announcements.
+[^qc-polyphron-2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/17/2026," September 17, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-17-2026/ — Names Quiet Capital as lead of Polyphron's $20M seed with Gradient, Haystack, and Compound participating; describes NYC-based biotech simulating living human tissue for AI drug development.
+[^qc-polyphron-3]: Axios Pro Rata (Dan Primack), September 17, 2026 deal listing. https://www.axios.com/newsletters/axios-pro-rata — Independent listing of Polyphron's $20M seed.
