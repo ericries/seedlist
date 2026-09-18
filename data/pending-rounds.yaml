@@ -813,3 +813,11 @@ pending_rounds:
   parsed_amount: $11M
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/10/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-10-2026/
+  source: alleywatch
+  date_found: '2026-09-10'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
