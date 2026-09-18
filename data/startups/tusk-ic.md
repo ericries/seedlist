@@ -48,7 +48,7 @@ TUSK IC is a Belgian fabless semiconductor company and KU Leuven spin-out from t
 
 **Kathleen Philips, CEO, quoted on TUSK IC's LinkedIn announcement:**
 
-> "This investment is a strong endorsement of both our technology and our team. The investment will accelerate the transition from prototype chips to high-volume production." [^3]
+> "This investment is a strong endorsement of both our technology and our team. This milestone reflects the expertise and excellence of our entire team, who have turned an ambitious vision into a commercially relevant product platform." [^3]
 
 ## Sources
 

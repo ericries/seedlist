@@ -40,7 +40,7 @@ Phosphoenix is an Amsterdam-based neurotech company developing a visual neuropro
 
 ## What Investors Say
 
-**Sara Schaafsma, ROM InWest, quoted in EU-Startups:**
+**Sara Schaafsma, Senior Investment Manager LSH at ROM InWest, quoted in EU-Startups:**
 
 > "Phosphoenix is developing a potentially life-changing technology for people living with profound blindness." [^1]
 
