@@ -3,18 +3,34 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-18: Mazama Energy $135M Series B (2026-09-17) participant (returning investor); technology incubated at Khosla. Sources: TechCrunch, Mazama news page, Khosla portfolio page.'
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified Mazama Energy $135M Series B (2026-09-17) via 3 independent primary sources: TechCrunch article (2026-09-17, primary tech press confirming Khosla as returning investor and full participant list) [^mz-kv-b1], Mazama Energy company news page (primary company source, headline confirms $135M Series B) [^mz-kv-b2], and Khosla Ventures portfolio page (confirms Mazama listed under Sustainability with SuperHot Rock investment thesis) [^mz-kv-b3]. Added new portfolio row to khosla-ventures.md with all three citations. Updated last_verified_investment frontmatter from Profound 2026-09-15 to Mazama Energy Series B 2026-09-17. Confirmed co-leads Centaurus Capital + Doerr Capital; participants ConocoPhillips, Shell Ventures, SiteGround Capital, H. Barton Asset Management, Jeffrey and Marieke Rothschild Foundation.'
+  processed: '2026-09-17'
 - slug: andreessen-horowitz
   type: firm
   reason: 'Round monitoring 2026-09-18: Adaptive $30M Series B (2026-09-17) co-investor with Tidemark (lead), Emergence Capital, Pathlight, Definition, 3KVC.'
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified Adaptive (adaptive.build) $30M Series B (2026-09-17) via 3 independent primary sources: AlleyWatch daily funding report (2026-09-17, primary press confirming $30M Series B, Tidemark lead, full participant list including a16z + Emergence + Pathlight + Definition + 3KVC, $57M total raised) [^adp-a1], Adaptive company blog (2026-09-17, primary company source) [^adp-a2], and Emergence Capital portfolio page (confirms Adaptive as portfolio company) [^adp-a3]. Added new portfolio row to andreessen-horowitz.md with all three citations. Added last_verified_investment frontmatter Adaptive Series B 2026-09-17 (previously absent).'
+  processed: '2026-09-17'
 - slug: emergence-capital
   type: firm
   reason: 'Round monitoring 2026-09-18: Adaptive $30M Series B (2026-09-17) co-investor with Tidemark (lead); Adaptive listed on Emergence portfolio page.'
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified Adaptive (adaptive.build) $30M Series B (2026-09-17) via 3 independent primary sources: AlleyWatch daily funding report [^adp-e1], Adaptive company blog [^adp-e2], and Emergence Capital portfolio page (Adaptive listed in Emergence portfolio) [^adp-e3]. Added new portfolio row to emergence-capital.md as first entry with all three citations. Added last_verified_investment frontmatter Adaptive Series B 2026-09-17 (previously absent).'
+  processed: '2026-09-17'
 - slug: expa
   type: firm
   reason: 'Round monitoring 2026-09-18: Fin.com $20M Seed (2026-09-15) led round with Coinbase Ventures, Tenet Fund, Second Sight Ventures, Bam Azizi. Fortune reported Garrett Camp involvement.'
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified Fin.com $20M Seed (2026-09-15) via 3 independent primary sources: Fortune exclusive (2026-09-15, primary tech press confirming Expa + Garrett Camp co-lead, participants Coinbase Ventures + Tenet Fund + Second Sight Ventures + Bam Azizi (Mesh founder) + Figure founders + sovereign/royal family offices in Gulf and Africa) [^fin-e1], AlleyWatch daily funding report (2026-09-15) [^fin-e2], and Expa portfolio page (confirms Fin.com listed with Fortune news item dated 2026-09-15) [^fin-e3]. Added new portfolio row to expa.md as first entry with all three citations. Added last_verified_investment frontmatter Fin.com Seed 2026-09-15 (previously absent). Enhanced fin-com startup profile with verbatim Nabeel Alamgir quote (extended from primary source) and new Vitor Lourenço (Expa Founding Partner) quote from Fortune; expanded co-investor list to include Figure founders and sovereign/royal family offices.'
+  processed: '2026-09-17'
 - slug: bluecore-energy
   type: startup
   reason: 'Round monitoring 2026-09-10: Added $50M Seed round (2026-09-08) led by Silverton Partners with Slauson & Co., Harlem Capital, Chris Larsen, Collab Capital, HartBeat Ventures. Sources: (1) TechCrunch.'

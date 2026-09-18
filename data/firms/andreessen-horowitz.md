@@ -4,6 +4,10 @@ tldr: "Multi-stage venture firm co-founded by Marc Andreessen and Ben Horowitz i
 fund_size: $7.2B (2024 across five funds); $15B (2026 across five funds); $90B+ total
   AUM
 last_researched: 2026-03-13
+last_verified_investment:
+  company: Adaptive
+  date: 2026-09-17
+  round: Series B
 location: Menlo Park, CA
 name: Andreessen Horowitz
 sector_focus:
@@ -202,6 +206,7 @@ The following table includes a16z investments verified through the firm's own po
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Adaptive | Series B (participated; $30M led by Tidemark; Emergence Capital, Pathlight, Definition, 3KVC co-invested; total raised $57M) | 2026-09-17 | Construction / Vertical SaaS / AI Accounting | Private [^adp-a1][^adp-a2][^adp-a3] |
 | Gimlet Labs | Series B (led, $300M at $3B post-money) | 2026-09-04 | AI Infrastructure / Inference | Private [^gimlet-a1][^gimlet-a2][^gimlet-a3] |
 | Mariana Minerals | Series B (participated; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private [^mm-a16z][^mm-a16z-prn][^mm-a16z-fortune] |
 | Base Power | Series D (participated, $1B round at $13B post-money; Ribbit, Addition, Valor Equity Partners, JPMorganChase SIG co-led; Altimeter, D1, Sands, Coatue, Layer Global, EIP, Thrive, Lightspeed, Trust Ventures, CapitalG also participated) | 2026-08-03 | Energy Storage / Cleantech | Private [^a16z-bp-d1][^a16z-bp-d2] |
@@ -380,6 +385,10 @@ The following table includes a16z investments verified through the firm's own po
 *Note: The Ghodsi quotes are from an independently reported profile (Not Boring by Packy McCormick). The Chesky and Silbermann quotes are from independent Fortune reporting. The Jordan quote is included for context but is an investor quote, not a founder quote. No independently sourced negative or critical founder testimonials were found in this research pass. a16z's own website does not feature a dedicated testimonials section.*
 
 ## Sources
+
+[^adp-a1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/17/2026," September 17, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-17-2026/
+[^adp-a2]: Adaptive blog, "Adaptive has raised $30 million in Series B funding led by Tidemark to expand its AI project accounting workforce for construction," September 17, 2026. Accessed September 2026. https://www.adaptive.build/blog
+[^adp-a3]: Emergence Capital portfolio page listing Adaptive. Accessed September 2026. https://emcap.com/portfolio
 
 [^mm-a16z]: Andreessen Horowitz, "Investing in Mariana Minerals," July 21, 2025. Accessed August 2026. https://a16z.com/announcement/investing-in-mariana-minerals/
 [^mm-a16z-prn]: PR Newswire, "Mariana Minerals Raises $310 Million Series B Led by Khosla Ventures to Accelerate Critical Minerals Production," August 3, 2026. Accessed September 2026. https://www.prnewswire.com/news-releases/mariana-minerals-raises-310-million-series-b-led-by-khosla-ventures-to-accelerate-critical-minerals-production-302840889.html

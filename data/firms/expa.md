@@ -38,6 +38,10 @@ team:
     role: Venture Partner
 status: published
 last_researched: 2026-03-24
+last_verified_investment:
+  company: Fin.com
+  date: 2026-09-15
+  round: Seed
 ---
 
 ## About
@@ -104,6 +108,7 @@ Based on 30 verified portfolio companies drawn from Expa's portfolio page and pu
 
 | Company | Stage at Expa Investment | Year | Sector | Status |
 |---------|--------------------------|------|--------|--------|
+| Fin.com | Seed (led alongside Garrett Camp; $20M; Coinbase Ventures, Tenet Fund, Second Sight Ventures, Bam Azizi, Figure founders, sovereign/royal family offices in the Gulf and Africa participated) | 2026-09-15 | Fintech / Cross-Border Payments / Stablecoins | Active [^fin-e1][^fin-e2][^fin-e3] |
 | Reserve | Seed (studio) | 2014 | Consumer/Dining | Acquired by Resy, 2018 [^9] |
 | Current | Seed (studio) | 2016 | Fintech/Neobank | Active; ~$2.2B valuation [^21] |
 | Metabase | Seed (studio) | 2014 | Developer Tools/Analytics | Active; 80K+ companies [^22] |
@@ -160,6 +165,10 @@ Based on 30 verified portfolio companies drawn from Expa's portfolio page and pu
 *Note: The Aero and Sleeper quotes above appear on Expa's own website and should be considered firm-curated testimonials rather than independently sourced statements. No independently sourced founder testimonials about Expa's investor conduct were found in third-party press or podcasts during this research pass.*
 
 ## Sources
+
+[^fin-e1]: Fortune, "Exclusive: Expa and Coinbase Ventures lead $20M seed round in Fin.com's global stablecoin infrastructure," September 15, 2026. Accessed September 2026. https://fortune.com/2026/09/15/exclusive-expa-coinbase-ventures-fin-com-20-million-seed-round-global-stablecoin-infrastructure/
+[^fin-e2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/15/2026," September 15, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-15-2026/
+[^fin-e3]: Expa portfolio page listing Fin.com (with September 15, 2026 Fortune news item). Accessed September 2026. https://expa.com/portfolio
 
 [^1]: TechCrunch, "Garrett Camp's Expa Raises $50M To Build New Startups," Anthony Ha, March 14, 2014, accessed March 2026. https://techcrunch.com/2014/03/14/expa-50-million/
 

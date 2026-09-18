@@ -1,6 +1,10 @@
 ---
 founded: 2003
 fund_size: $1B (Fund VII, 2025); ~$3.3B total across 7 funds + 1 opportunity fund
+last_verified_investment:
+  company: Adaptive
+  date: 2026-09-17
+  round: Series B
 tldr: "San Francisco B2B enterprise cloud specialist founded in 2003 by Jason Green, Gordon Ritter, and Brian Jacobs — the first VC firm committed to the enterprise-SaaS thesis. Makes only 5-7 highly concentrated Series A/B investments per year. Portfolio has generated over $450B in market cap and includes Salesforce, Veeva, Zoom, Box, Yammer, Bill.com, and recent AI bets on Together AI, Physical Intelligence, and Mercor."
 last_researched: 2026-03-19
 location: San Francisco, CA
@@ -96,6 +100,7 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| Adaptive | Series B (participated; $30M led by Tidemark; Andreessen Horowitz, Pathlight, Definition, 3KVC co-invested; total raised $57M) | 2026-09-17 | Construction / Vertical SaaS / AI Accounting | [^adp-e1][^adp-e2][^adp-e3] |
 | Salesforce | Pre-IPO round (~$1M; Gordon Ritter led — Emergence's first major investment) | 2003-01 | Enterprise/CRM | [^1][^12][^13] |
 | SuccessFactors | Early | ~2005 | Enterprise/HR | [^3] |
 | Yammer | Series A | ~2009 | Enterprise/Collaboration | [^3] |
@@ -155,6 +160,10 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 "Yaz is the kind of investor who is in your corner morning or night. He's made pivotal customer and employee intros. And he's truly immersed himself in our space, enabling him to provide critical strategic guidance." — Austin Hughes, CEO, Unify [^11]
 
 ## Sources
+
+[^adp-e1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/17/2026," September 17, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-17-2026/
+[^adp-e2]: Adaptive blog, "Adaptive has raised $30 million in Series B funding led by Tidemark to expand its AI project accounting workforce for construction," September 17, 2026. Accessed September 2026. https://www.adaptive.build/blog
+[^adp-e3]: Emergence Capital portfolio page listing Adaptive. Accessed September 2026. https://emcap.com/portfolio
 
 [^1]: Various sources on Emergence Capital founding and Gordon Ritter/Veeva, accessed March 2026. https://www.emcap.com/people/gordon-ritter
 [^2]: Emergence Capital, "About," accessed March 2026. https://www.emcap.com/about

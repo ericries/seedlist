@@ -31,15 +31,15 @@ Fin.com is a New York-based financial infrastructure company building a unified 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-15 | Seed | $20M | Expa | Coinbase Ventures, Tenet Fund, Second Sight Ventures, Bam Azizi [^1] [^2] |
+| 2026-09-15 | Seed | $20M | Expa, Garrett Camp | Coinbase Ventures, Tenet Fund, Second Sight Ventures, Bam Azizi (Mesh founder), Figure founders, sovereign and royal family offices in the Gulf and Africa [^1] [^2] [^3] |
 
 ## What Investors Say
 
-No independently sourced investor quotes found.
+Vitor Lourenço, Founding Partner at Expa, on why cross-border payments resonate with the firm: "All of the Expa partners are immigrants. We grew up in different countries, so the opportunity of cross-border payments was very clear for us." [^1]
 
 ## What Founders Say
 
-Nabeel Alamgir on the company's mission: "We want to solve the last mile delivery problem" in global money movement across borders [^1].
+Nabeel Alamgir, co-founder and CEO, on the company's mission: "We believe that money movement is like a plane taking off from one airport, but it has to land somewhere else. We want to solve the last mile delivery problem." [^1]
 
 ## Sources
 

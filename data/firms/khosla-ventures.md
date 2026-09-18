@@ -5,9 +5,9 @@ fund_size: $1.6B (Fund VIII, 2023); $500M (Seed Fund, 2023); $900M (Growth Fund,
   seeking $3.5B across three funds (2025)
 last_researched: 2026-04-30
 last_verified_investment:
-  company: Profound
-  date: 2026-09-15
-  round: Series D
+  company: Mazama Energy
+  date: 2026-09-17
+  round: Series B
 location: Menlo Park, CA
 name: Khosla Ventures
 sector_focus:
@@ -132,6 +132,7 @@ The following table includes companies from the Khosla Ventures portfolio page [
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Mazama Energy | Series B (returning investor; $135M co-led by Centaurus Capital and Doerr Capital; ConocoPhillips, Shell Ventures, SiteGround Capital, H. Barton Asset Management, Jeffrey and Marieke Rothschild Foundation participated) | 2026-09-17 | Energy / Geothermal / Climate | Private [^mz-kv-b1][^mz-kv-b2][^mz-kv-b3] |
 | Mariana Minerals | Series B (led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private [^mm-krv-b] |
 | OpenAI | OpenAI LP capped-profit launch ($50M, ~5%, $1B valuation) | 2019-03-11 | AI | Private [^14][^15][^38][^39] |
 | DoorDash | Seed | 2013 | Consumer / Delivery | Public (IPO 2020) [^22][^23] |
@@ -294,6 +295,12 @@ The following table includes companies from the Khosla Ventures portfolio page [
 *Note: All founder quotes above are sourced from Khosla Ventures' own website, which is a biased source — these are the firm's selected testimonials. No independently sourced founder testimonials were found during this research pass despite dedicated searches. The firm's #1 ranking in the 2023 Founder's Choice VC survey [^18] provides independent validation of founder satisfaction, but individual independent quotes were not located.*
 
 ## Sources
+
+[^mz-kv-b1]: TechCrunch, "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal," September 17, 2026. Accessed September 2026. https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/
+
+[^mz-kv-b2]: Mazama Energy news, "Mazama Energy Raises $135 Million to Scale the World's Hottest Engineered Geothermal System," September 17, 2026. Accessed September 2026. https://mazamaenergy.com/news
+
+[^mz-kv-b3]: Khosla Ventures portfolio page listing Mazama Energy under Sustainability. Accessed September 2026. https://www.khoslaventures.com/portfolio/
 
 [^mm-krv-b]: PR Newswire, "Mariana Minerals Raises $310 Million Series B Led by Khosla Ventures to Accelerate Critical Minerals Production," August 3, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/mariana-minerals-raises-310-million-series-b-led-by-khosla-ventures-to-accelerate-critical-minerals-production-302840889.html
 
