@@ -9056,7 +9056,10 @@ priority:
   type: startup
   reason: "New profile: €1.3M growth round (2026-09-16)"
   added: 2026-09-18
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: verified Phosphoenix €1.3M growth financing (2026-09-16) via 3 independent primary sources: EU-Startups article (2026-09-18, primary Europe tech press) [^1], Phosphoenix company news page (2026-09-16, primary company source) [^2], and ROM InWest news page (primary investor source) [^3]. CORRECTED profile: no formal lead investor was named across primary sources — the round was continued support from existing investors TTT Medtech Fund (managed by 819 Capital), FIRST Fund (managed by BioGeneration Ventures), and Innovatiefonds Noord-Holland, plus a new investment from ROM InWest. Prior wording incorrectly identified ROM InWest as lead. EU-Startups verbatim: "The round includes continued support from Phosphoenix''s existing investors, including TTT Medtech Fund (managed by 819 Capital), FIRST Fund (managed by BioGeneration Ventures), and Innovatiefonds Noord-Holland, as well as a new investment from ROM InWest." Currency preserved (€). CEO Hans Brons and Sara Schaafsma (ROM InWest Senior Investment Manager LSH) quotes verified verbatim against EU-Startups source.'
+  processed: '2026-09-18'
 - slug: tusk-ic
   type: startup
   reason: "New profile: €15M Series A (2026-09-17)"

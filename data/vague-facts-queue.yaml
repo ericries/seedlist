@@ -691,7 +691,9 @@ vague_facts:
   line: '| SendGrid | Series B (USD 21M; Bessemer Venture Partners led; existing investors Foundry Group, Highway 12 Ventures, So'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: 2012-01-17 date, USD 21M Series B, Bessemer Venture Partners led, full participant list (Foundry Group, Highway 12 Ventures, SoftTech VC, 500 Startups, Bullet Time Ventures). Re-verified via 3 independent primary sources: TechCrunch [^70] (RE-FETCHED 2026-09-18, tier-1 primary press confirming all four facts: date, $21M Series B, Bessemer lead, full participant list including 500 Startups), Marketwired/GlobeNewswire company press release [^71] (primary company source), and Vator.tv [^72] (independent third primary source). Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Bukalapak
@@ -737,7 +739,9 @@ vague_facts:
   line: '| Innovaccer | Seed (undisclosed amount, reported ~USD 2.5M per aggregators; Rajan Anandan, Google''s VP South East Asia,'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: 2015-05-13 date, undisclosed amount (reported ~USD 2.5M per aggregators), Rajan Anandan (Google''s VP South East Asia) led, full participant list (500 Startups, Teru Sato/Beenos, Aneesh Reddy/Capillary, Venkatesh Valluri/Ingersoll Rand India, Phanindra Sama/redBus). Re-verified via 3 independent primary sources: Inc42 [^49] (RE-FETCHED 2026-09-18, primary contemporaneous Indian tech press confirming date, Rajan Anandan lead, full participant list including 500 Startups, and Innovaccer graduation from 500 Startups accelerator), Vator.tv [^50] (independent US-based tech press with same investor lineup), and Inc42 flash-feed Series A retrospective [^51] (third cross-reference). Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Insider

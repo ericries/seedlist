@@ -28,7 +28,7 @@ last_researched: 2026-09-18
 
 ## About
 
-Phosphoenix is an Amsterdam-based neurotech company developing a visual neuroprosthetic that stimulates the lateral geniculate nucleus (LGN) of the brain to restore functional vision for people with profound blindness, bypassing damaged retinas or optic nerves [^1][^2]. The company was co-founded by Prof. Pieter Roelfsema, Prof. Xing Chen, and Dr. Bert Monna to advance a system aimed at clinical trials [^1][^3]. On 2026-09-16, Phosphoenix announced €1.3 million in financing led by new investor ROM InWest, with participation from TTT Medtech Fund (managed by 819 Capital), FIRST Fund (managed by BioGeneration Ventures), and Innovatiefonds Noord-Holland [^1][^2][^3]. Proceeds will fund preparations for the company's first-in-human clinical study [^1][^2].
+Phosphoenix is an Amsterdam-based neurotech company developing a visual neuroprosthetic that stimulates the lateral geniculate nucleus (LGN) of the brain to restore functional vision for people with profound blindness, bypassing damaged retinas or optic nerves [^1][^2]. The company was co-founded by Prof. Pieter Roelfsema, Prof. Xing Chen, and Dr. Bert Monna to advance a system aimed at clinical trials [^1][^3]. On 2026-09-16, Phosphoenix announced €1.3 million in financing, including continued support from existing investors TTT Medtech Fund (managed by 819 Capital), FIRST Fund (managed by BioGeneration Ventures), and Innovatiefonds Noord-Holland, plus a new investment from ROM InWest; no single lead investor was named across primary sources [^1][^2][^3]. Proceeds will fund preparations for the company's first-in-human clinical study [^1][^2].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -36,7 +36,7 @@ Phosphoenix is an Amsterdam-based neurotech company developing a visual neuropro
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-16 | Growth financing | €1.3M | ROM InWest | TTT Medtech Fund, FIRST Fund, Innovatiefonds Noord-Holland [^1][^2][^3] |
+| 2026-09-16 | Growth financing | €1.3M |  | TTT Medtech Fund, FIRST Fund, Innovatiefonds Noord-Holland, ROM InWest [^1][^2][^3] |
 
 ## What Investors Say
 
