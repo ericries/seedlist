@@ -8992,11 +8992,23 @@ priority:
   type: startup
   reason: "Series F close 3.9B (2026-09-17)"
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: verified Crusoe Series F official close of $3.9B at $30.9B post-money on 2026-09-17 via 3+ independent primary sources — TechCrunch [^4] (2026-09-17, primary tier-1 press for the official close), Crusoe Newsroom [^5] (primary company source), and earlier pre-close coverage in TechCrunch [^1] (2026-09-03), Crunchbase News [^2] (2026-09-05), and TechStartups [^3] (2026-09-04). Round facts: co-led by Atreides Management, Mubadala Capital, and Valor Equity Partners; Founders Fund, GIC, Nvidia, Qatar Investment Authority, Radical Ventures, and TPG participated. Round upsized from earlier reported $3B to $3.9B at close, valuation nudged from $30B to $30.9B, ~3x from the $10B Series E only ten months prior. Follows the $13B five-year Jane Street cloud contract. Startup profile already carries all facts; no additional edits required this pass.'
+  processed: '2026-09-17'
 - slug: founders-fund
   type: firm
   reason: "participated in Crusoe Series F 3.9B (2026-09-17)"
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: expanded existing Crusoe portfolio row on founders-fund.md to append Series F participation on 2026-09-17 ($3.9B at $30.9B post-money; Atreides Management, Mubadala Capital, and Valor Equity Partners co-led). Added 2 new named-footnote citations ([^crusoe-f-ff1] TechCrunch, [^crusoe-f-ff2] Crusoe Newsroom) alongside existing Series D citations. Series D-lead row (2024-12-12) preserved verbatim per Founders Fund investment history.'
+  processed: '2026-09-17'
 - slug: valor-equity-partners
   type: firm
   reason: "co-led Crusoe Series F 3.9B (2026-09-17)"
   added: 2026-09-17
+  status: resolved
+  resolved: 2026-09-17
+  resolution_note: 'Fact-spec sweep 2026-09-17: rewrote existing Crusoe Series F portfolio row on valor-equity-partners.md to reflect the OFFICIAL 2026-09-17 close of $3.9B at $30.9B post-money (previously carried the 2026-09-03 pre-close report of $3B at $30B). Corrected co-lead syndicate to Atreides Management + Mubadala Capital + Valor Equity Partners (Mubadala was upgraded from participant to co-lead at close per TechCrunch primary source), and enumerated the full participant list (Founders Fund, GIC, Nvidia, Qatar Investment Authority, Radical Ventures, TPG). Added 2 new named-footnote citations ([^crusoe-f4] TechCrunch official-close piece, [^crusoe-f5] Crusoe Newsroom). Frontmatter last_verified_investment.date bumped from 2026-09-03 to 2026-09-17 to match the official close date.'
+  processed: '2026-09-17'

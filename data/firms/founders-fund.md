@@ -191,7 +191,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Spotify | Growth | ~2008 (founded) | Consumer / Music Streaming | Public (IPO 2018) [^20] |
 | Rippling | Series B (led, $145M at $1.35B post-money; Napoleon Ta joined board) | 2020-08-04 | Enterprise / HR / Workforce Management | Private [^77][^78][^79] |
 | Affirm | Early | ~2012 (founded) | Fintech / BNPL | Public (IPO 2021) [^14][^20] |
-| Crusoe | Series D (led) | 2024-12-12 | AI / Cloud / Energy | Private [^20][^39][^40][^41] |
+| Crusoe | Series D (led) 2024-12-12; Series F (participant, $3.9B at $30.9B post-money; Atreides Management, Mubadala Capital, and Valor Equity Partners co-led) 2026-09-17 | 2024-12-12; 2026-09-17 | AI / Cloud / Energy | Private [^20][^39][^40][^41][^crusoe-f-ff1][^crusoe-f-ff2] |
 | Polymarket | Growth | ~2020 (founded) | Prediction Markets | Private [^20] |
 | Lighter | Early | ~2023 (founded) | Health / Weight | Private [^20] |
 | Figma | Series C | 2019 | Design / Developer Tools | Private [^24] |
@@ -494,3 +494,7 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^voya-ff2]: AlleyWatch, "The Weekly Notable Startup Funding Report: 8/31/26," accessed September 3, 2026. https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-31-26/ — Aggregator confirming Voya Energy $35M syndicate includes Energy Impact Partners, Founders Fund, John Doerr, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, and StepStone Group.
 
 [^voya-ff3]: Latitude Media, "Catalyst: The rise of metal fuels," August 27, 2026. Accessed September 3, 2026. https://www.latitudemedia.com/news/catalyst-the-rise-of-metal-fuels/ — Podcast/article on Voya CEO Richard Wang; EIP partner Shayle Kann confirms EIP incubated Voya alongside co-founders.
+
+[^crusoe-f-ff1]: TechCrunch, "Crusoe raises $3.9B to build massive data centers and small modular AI factories," September 17, 2026. Accessed September 17, 2026. https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/ — Primary tier-1 press confirming Founders Fund participated in Crusoe's $3.9B Series F on September 17, 2026 at $30.9B post-money valuation; Atreides Management, Mubadala Capital, and Valor Equity Partners co-led with additional participation from GIC, Nvidia, Qatar Investment Authority, Radical Ventures, and TPG.
+
+[^crusoe-f-ff2]: Crusoe Newsroom, "Crusoe Raises $3.9B Series F for its vertically-integrated AI infrastructure platform," September 17, 2026. Accessed September 17, 2026. https://www.crusoe.ai/newsroom — Primary company source naming Founders Fund among Series F participants at the $3.9B official close on September 17, 2026 at $30.9B post-money.
