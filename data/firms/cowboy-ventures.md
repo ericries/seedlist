@@ -112,7 +112,7 @@ Note: This represents only the current active portfolio. Historical investments 
 | Tally | Seed | ~2015 | Fintech | Active | [^2] |
 | Vic.ai | Seed | ~2020 | AI/Accounting | Active | [^11] |
 | Mutiny | Seed | ~2019 | AI/Marketing | Active | [^11] |
-| Standard Kernel | Seed | ~2023 | Software Infra | Active | [^11] |
+| Standard Kernel | Seed (participant, $20M round led by Jump Capital; General Catalyst, Felicis, Link Ventures, Essence VC, CoreWeave Ventures, Ericsson Ventures also participated; angels David M. Siegel, Jeff Dean, Jonathan Frankle, Michael Carbin, Sachin Katti, Walden Yan) | 2026-03-11 | AI Infra / GPU Kernel Generation | Active | [^11][^sk-cv1][^sk-cv2][^sk-cv3] |
 | Portex | Seed (participant, $6.25M round led by Footwork) | 2024-09-05 | Vertical SaaS / Freight | Active | [^11][^15][^16] |
 | CapStack | Seed | ~2022 | Fintech | Exited | [^11] |
 | Samooha | Seed | ~2022 | Software Infra | Exited | [^11] |
@@ -169,3 +169,9 @@ Note: These testimonials are from the firm's website and were not independently 
 [^20]: Fintech Global, "Eisen raises $18.5m to fix financial compliance gap," May 20, 2026. Accessed July 2026. https://fintech.global/2026/05/20/eisen-raises-18-5m-to-fix-financial-compliance-gap/
 [^21]: Continuum press release, "Continuum Announces $4.1M Seed Round to Continue Rapid Growth," 2024. Accessed July 2026. https://resources.gocontinuum.ai/press/continuum-announces-4.1m-seed-round-to-continue-rapid-growth
 [^22]: Industrial Distribution, "Continuum Raises More than $4M in Seed Funding," 2024. Accessed July 2026. https://www.inddist.com/technology-software/news/22926294/continuum-raises-more-than-4m-in-seed-funding
+
+[^sk-cv1]: Standard Kernel Co. blog, "Announcing Our $20M Seed Round — Is Kernel Generation a Solved Problem?" March 11, 2026. Accessed September 2026. https://standardkernel.com/blog/announcing-our-seed-round-is-kernel-generation-solved/ — Primary company source confirming the $20M seed round led by Jump Capital with participation from General Catalyst, Felicis, Cowboy Ventures, Link Ventures, Essence VC, CoreWeave Ventures, and Ericsson Ventures; angel investors David M. Siegel, Jeff Dean, Jonathan Frankle, Michael Carbin, Sachin Katti, and Walden Yan. Co-founders Anne Ouyang (Stanford) and Chris Rinard (MIT); the company builds AI systems that automate low-level GPU kernel development at the CUDA/PTX layer.
+
+[^sk-cv2]: Jump Capital portfolio page, accessed September 2026. https://jumpcap.com/portfolio — Confirms Standard Kernel as a Jump Capital portfolio company (founder Anne Ouyang listed), corroborating Jump's lead position in the seed round.
+
+[^sk-cv3]: General Catalyst portfolio page, "Standard Kernel — Automating the AI Infrastructure Stack," accessed September 2026. https://www.generalcatalyst.com/portfolio/standard-kernel — Confirms Standard Kernel as a General Catalyst portfolio company (deal team: Quentin Clark, Marc Bhargava, Sho Sho Leigha Ho), corroborating General Catalyst's participation in the seed round.

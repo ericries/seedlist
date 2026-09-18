@@ -111,7 +111,7 @@ Based on 46 verified portfolio companies from the firm's website [^2], DBL Partn
 | Airspace | Series C | 2022 | Logistics | Active [^11] |
 | xAI | Growth | ~2023 | Artificial intelligence | Acquired by SpaceX ($250B valuation, Feb 2026) [^2] |
 | BurnBot | Early Stage | ~2023 | Wildfire prevention | Active [^2] |
-| Rain | Seed | 2023 | Wildfire prevention | Active [^12] |
+| Rain (Rain Industries) | Seed (led, $9.7M oversubscribed; VoLo Earth Ventures, Kapor Capital, Convective Capital participated; angels John and Patrick Collison, Nat Friedman, Dylan Field; Nancy Pfund named DBL deal lead) | 2023-09-21 | Wildfire prevention / Autonomous aircraft | Active [^rain-dbl1][^rain-dbl2][^rain-dbl3] |
 | Mast | Early Stage | ~2023 | Reforestation | Active [^2] |
 | Chestnut Carbon | Early Stage | ~2023 | Carbon removal | Active [^2] |
 | Terram Lab | Early Stage | ~2024 | Sustainable packaging | Active [^2] |
@@ -164,3 +164,9 @@ No independently sourced founder testimonials found. Portfolio company founders'
 [^16]: SJF Ventures, "NEXTracker's Rapid Growth and Impact Investment Success Story," accessed April 2026. https://sjfventures.com/case-study/nextrackers-rapid-growth-and-impact-investment-success-story/
 
 [^17]: Agtonomy Press, "Agtonomy Secures $18 Million Series B to Accelerate Physical AI Adoption in Off-Road Industries," October 28, 2025. Accessed May 2026. https://www.agtonomy.com/press/series-b-announcement — Confirms $18M Series B led by DBL Partners on October 28, 2025, with Nuveen joining as new investor and Autotech, Allison Transmission, Rethink Food, and Black Forest Ventures continuing.
+
+[^rain-dbl1]: Rain (Rain Industries) company blog, "Rain's Seed Financing Announcement," Maxwell Brodie (CEO), September 21, 2023. Accessed September 2026. https://www.rain.aero/updates/seed-funding — Primary company source announcing an oversubscribed $9.7M seed round led by DBL Partners, with participation from VoLo Earth Ventures, Kapor Capital, and Convective Capital, plus angel investors John and Patrick Collison, Nat Friedman, and Dylan Field. Nancy Pfund of DBL Partners is quoted directly: "Catastrophic wildfires are a climate flywheel we cannot ignore."
+
+[^rain-dbl2]: DBL Partners portfolio page, "Rain," accessed September 2026. https://www.dbl.vc/rain — Confirms Rain in DBL Partners' portfolio; company launched 2019 and headquartered in Alameda, California.
+
+[^rain-dbl3]: VoLo Earth Ventures portfolio page, "Rain," accessed September 2026. https://www.voloearth.com/portfolio — Independent co-investor confirmation: VoLo Earth lists Rain under Mobility with description of the autonomous helicopter dispatch model, corroborating VoLo's seed-round participation alongside DBL Partners' lead check.

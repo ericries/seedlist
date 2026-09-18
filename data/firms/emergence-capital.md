@@ -124,7 +124,7 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 | Crunchbase | Early | ~2018 | Data/Business Intelligence | [^9] |
 | G2 | Early | ~2019 | Enterprise/Reviews | [^9] |
 | Augmedix | Early | ~2014 | Vertical SaaS/Healthcare | [^9] |
-| Together AI | Seed | ~2023 | AI/Infrastructure | [^9] |
+| Together AI | Series A (participated, $102.5M; Kleiner Perkins led; NVIDIA, NEA, Prosperity 7, Greycroft, 137 Ventures also participated; Joe Floyd deal lead per Emergence portfolio page) | 2023-11-29 | AI Infrastructure | Active | [^9][^ta-e1][^ta-e2] |
 | Physical Intelligence | Seed | ~2024 | AI/Robotics | [^9] |
 | Bland | Seed | ~2024 | AI/Voice | [^9] |
 | Arcee AI | Seed | ~2024 | AI/Models | [^9] |
@@ -184,3 +184,7 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 [^17]: TechCrunch, "Neocloud Together AI raises $800M, leaps to $8.3B valuation," July 1, 2026. Accessed July 2026. https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/ — Confirms Emergence Capital participated in Together AI's $800M Series C led by Aramco Ventures at $8.3B post-money on July 1, 2026, alongside Vista Equity Partners, General Catalyst, NVIDIA, March Capital, Pegatron, and S Ventures.
 [^18]: Yahoo Finance (syndicated press release), "Together AI Raises $800 Million at $8.3 Billion Valuation to Make Frontier AI Accessible to All," July 1, 2026. Accessed July 2026. https://sg.finance.yahoo.com/news/together-ai-raises-800-million-130000463.html — Primary press release listing Emergence Capital as Series C participant.
 [^19]: Itemonline (syndicated press release), "Together AI Raises $800 Million at $8.3 Billion Valuation to Make Frontier AI Accessible to All," July 1, 2026. Accessed July 2026. https://www.itemonline.com/together-ai-raises-800-million-at-8-3-billion-valuation-to-make-frontier-ai-accessible/article_40b237ae-c7cf-50f7-a8ac-355396742858.html — Independent syndication; direct quote from Joe Floyd, General Partner, Emergence Capital.
+
+[^ta-e1]: Together AI blog, "Our $102.5M Series A," November 29, 2023. Accessed September 2026. https://www.together.ai/blog/series-a — Primary company source announcing $102.5M Series A led by Kleiner Perkins with participation from NVIDIA, Emergence Capital, NEA, Prosperity 7, Greycroft, and 137 Ventures; references earlier seed round with Lux Capital, Definition Capital, Long Journey Ventures, SCB10x, SV Angel, Factory, and Scott Banister as backers. Emergence Capital's first check into Together AI was the Series A, NOT the seed round — the prior "Seed | ~2023" row was a scanner/aggregator misclassification and is corrected here.
+
+[^ta-e2]: Emergence Capital portfolio detail page, "Together AI," accessed September 2026. https://www.emcap.com/portfolio/together-ai — Emergence's own portfolio page confirming Partnership Date 2023, Joe Floyd as deal team lead, and AI Infrastructure as thesis category. Together AI was founded in 2022 out of Stanford's AI Lab.
