@@ -1,4 +1,20 @@
 priority:
+- slug: khosla-ventures
+  type: firm
+  reason: 'Round monitoring 2026-09-18: Mazama Energy $135M Series B (2026-09-17) participant (returning investor); technology incubated at Khosla. Sources: TechCrunch, Mazama news page, Khosla portfolio page.'
+  added: 2026-09-18
+- slug: andreessen-horowitz
+  type: firm
+  reason: 'Round monitoring 2026-09-18: Adaptive $30M Series B (2026-09-17) co-investor with Tidemark (lead), Emergence Capital, Pathlight, Definition, 3KVC.'
+  added: 2026-09-18
+- slug: emergence-capital
+  type: firm
+  reason: 'Round monitoring 2026-09-18: Adaptive $30M Series B (2026-09-17) co-investor with Tidemark (lead); Adaptive listed on Emergence portfolio page.'
+  added: 2026-09-18
+- slug: expa
+  type: firm
+  reason: 'Round monitoring 2026-09-18: Fin.com $20M Seed (2026-09-15) led round with Coinbase Ventures, Tenet Fund, Second Sight Ventures, Bam Azizi. Fortune reported Garrett Camp involvement.'
+  added: 2026-09-18
 - slug: bluecore-energy
   type: startup
   reason: 'Round monitoring 2026-09-10: Added $50M Seed round (2026-09-08) led by Silverton Partners with Slauson & Co., Harlem Capital, Chris Larsen, Collab Capital, HartBeat Ventures. Sources: (1) TechCrunch.'
