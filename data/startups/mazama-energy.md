@@ -23,7 +23,7 @@ last_researched: 2026-09-18
 
 ## About
 
-Mazama Energy is an Oregon-based enhanced geothermal energy company incubated at Khosla Ventures, developing "SuperHot Rock" geothermal systems that access temperatures around 750°F at depths near 15,000 feet [^1] [^2]. The company's technology is designed to produce up to 10 times more power than traditional geothermal wells, with each well capable of generating up to 15 megawatts of continuous electricity [^1]. Its first development site in Oregon is projected to produce up to 10 gigawatts of electricity, with initial commercial output targeted for 2027 [^1].
+Mazama Energy is an Oregon-based enhanced geothermal energy company incubated at Khosla Ventures, developing "SuperHot Rock" geothermal systems that access temperatures around 750°F at depths near 15,000 feet [^1] [^2] [^3]. The company's technology is designed to produce up to 10 times more power than traditional geothermal wells, with each well capable of generating up to 15 megawatts of continuous electricity [^1]. Its first development site in Oregon is projected to produce up to 10 gigawatts of electricity, with initial commercial output targeted for 2027 [^1].
 
 ## Funding History
 
