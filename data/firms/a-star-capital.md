@@ -88,12 +88,12 @@ Based on A*'s verified portfolio of 22 confirmed A* fund investments (excluding 
 | Mach Industries | Participated (A* self-attributed by Kevin Hartz on The Split podcast [^15]; not named in primary press for Seed 2023-06 [Sequoia led, $5.7M], Series A 2023-10 [Bedrock led, $79M], or Series B 2025-06-17 [Khosla + Bedrock led, $100M]) | 2023+ | Defense/Drones | Active [^15][^35][^36][^37] |
 | Mercor | Series A (Benchmark led) | 2024-09-18 | AI/HR Marketplace | Active [^12][^31] |
 | Multiply (Multiply Mortgage) | Seed ($3.5M, led, ~2022) + Series A ($23.5M, Kleiner Perkins led; A*, BoxGroup, Mischief, Workshop participated) | 2025-03-19 | AI/Fintech | Active [^15][^38][^39][^40] |
-~unknown| Fifteenth | — | — | AI/Tax | Active [^15] |
+| Fifteenth | Seed (participated per Kevin Hartz on The Split podcast; primary press citation not located) | ~2025 | AI/Tax | Active [^15] |
 | Notion | Series B+ | ~2021 | Productivity/SaaS | Active [^2] |
 | Paraform | Seed ($3.6M, led) | 2024-04-15 | AI/Recruiting | Active [^21][^27] |
 | Ramp | Series B+ | ~2021 | Fintech | Active [^2] |
-~unknown| Sesame | — | — | AI/Consumer | Active [^1] |
-~unknown| Whop | — | — | E-commerce | Active [^1] |
+| Sesame | Participated (self-attributed on A* portfolio page; not named on Sesame's own investors list which cites a16z, Sequoia, Spark, Matrix) | ~2023 (founding year proxy) | AI/Consumer | Active [^1][^ses1] |
+| Whop | Participated (self-attributed on A* portfolio page; not named in TechCrunch coverage of Whop's $17M Series A 2023-07-20 led by Insight Partners) | ~2021 (founding year proxy) | E-commerce | Active [^1][^whop1] |
 | Sauron | Seed ($18M, participated) | 2024-12-05 | Home Security | Active [^13][^28][^29][^30] |
 | Intelligence (Design Arena) | Seed ($7.9M, participated; Index Ventures led) | 2026-08-03 | AI/Evaluation/Benchmarking | Active [^intel1][^intel2][^intel3] |
 
@@ -104,21 +104,21 @@ The following investments were made by Kevin Hartz personally before A* was form
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Airbnb | Seed | ~2008 | Travel/Hospitality | IPO [^7] |
-~unknown| DoorDash | Early | — | Food Delivery | IPO [^7] |
-~unknown| Gusto | Early | — | HR/Fintech | Active [^7] |
-~unknown| Instacart | Early | — | Grocery Delivery | IPO [^7] |
-~unknown| Joby Aviation | Early | — | Aerospace | Public [^7] |
-~unknown| Marqeta | Early | — | Fintech | IPO [^7] |
-~unknown| Newfront Insurance | Early | — | Insurance | Active [^7] |
-~unknown| Opendoor | Early | — | Real Estate | Public [^7] |
-~unknown| Palantir | Early | — | Data Analytics | IPO [^7] |
+| DoorDash | Early | ~2013 (founding year proxy) | Food Delivery | IPO [^7] |
+| Gusto | Early | ~2011 (founding year proxy) | HR/Fintech | Active [^7] |
+| Instacart | Early | ~2012 (founding year proxy) | Grocery Delivery | IPO [^7] |
+| Joby Aviation | Early | ~2009 (founding year proxy) | Aerospace | Public [^7] |
+| Marqeta | Early | ~2010 (founding year proxy) | Fintech | IPO [^7] |
+| Newfront Insurance | Early | ~2017 (founding year proxy) | Insurance | Active [^7] |
+| Opendoor | Early | ~2014 (founding year proxy) | Real Estate | Public [^7] |
+| Palantir | Early | ~2003 (founding year proxy) | Data Analytics | IPO [^7] |
 | PayPal | Seed | ~1999 | Fintech | IPO [^5] |
-~unknown| Pinterest | Seed | — | Social Media | IPO [^7] |
-~unknown| Reddit | Early | — | Social Media | IPO [^7] |
-~unknown| SpaceX | Early | — | Aerospace | Active [^7] |
-~unknown| Square | Early | — | Fintech | IPO [^7] |
-~unknown| Trulia | Early | — | Real Estate | Acquired [^7] |
-~unknown| Uber | Early | — | Transportation | IPO [^7] |
+| Pinterest | Seed | ~2010 (founding year proxy) | Social Media | IPO [^7] |
+| Reddit | Early | ~2005 (founding year proxy) | Social Media | IPO [^7] |
+| SpaceX | Early | ~2002 (founding year proxy) | Aerospace | Active [^7] |
+| Square | Early | ~2009 (founding year proxy) | Fintech | IPO [^7] |
+| Trulia | Early | ~2005 (founding year proxy) | Real Estate | Acquired [^7] |
+| Uber | Early | ~2009 (founding year proxy) | Transportation | IPO [^7] |
 
 *Note: This table represents a partial view of A*'s portfolio. The firm's website lists approximately 60+ companies across both fund and pre-formation investments. Only entries with at least partial source verification are included above. Many fund investments lack publicly confirmed stage and year details.*
 
@@ -206,3 +206,7 @@ No independently sourced founder testimonials found. The firm's website does not
 [^intel1]: "Design Arena creators raise $7.9 million to bring taste to AI models," TechCrunch, August 3, 2026. Accessed August 6, 2026. https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/ — Names A* among participants in Intelligence's $7.9M Index-led seed.
 [^intel2]: "Intelligence Raises $7.9M in Seed Funding," FinSMEs, August 2026. Accessed August 6, 2026. https://www.finsmes.com/2026/08/intelligence-raises-7-9m-in-seed-funding.html — Independent confirmation of A* participation.
 [^intel3]: "Design Arena maker Intelligence raises $7.9M seed at $60M ARR," AI Weekly, August 2026. Accessed August 6, 2026. https://aiweekly.co/alerts/design-arena-maker-intelligence-raises-79m-seed-at-60m-arr — Third independent confirmation: $7.9M seed led by Index Ventures with participation from Conviction (Sarah Guo and Mike Vernal), A*, and Valkyrie. Also verified via founder Grace Li first-person announcement on X (https://x.com/grx_xce/status/2084361692792934488, 2026-08-03) which explicitly names @A_StarVC as a participant.
+
+[^ses1]: Sesame team page, accessed September 2026. https://www.sesame.com/team — Sesame lists its own investors as "a16z, Sequoia, Spark, Matrix, and a collection of founders and investors." A* / Kevin Hartz not explicitly named among named investors. A*'s participation is self-attributed via a-star.co/companies portfolio page [^1].
+
+[^whop1]: "Whop, an online marketplace for digital goods, raises $17M," TechCrunch, July 20, 2023. https://techcrunch.com/2023/07/20/whop-an-online-marketplace-for-digital-goods-raises-17m/ — Whop Series A: $17M, led by Insight Partners; participants named include The Chainsmokers, Peter Thiel "and others." A* Capital / Kevin Hartz not named in TechCrunch coverage. A*'s participation is self-attributed via a-star.co/companies portfolio page [^1]; round attribution (Series A vs earlier/later) not independently verifiable in primary sources located this pass.

@@ -992,7 +992,9 @@ vague_facts:
   line: ~unknown| Multiply | — | — | AI/Fintech | Active [^15] |
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: STALE queue entry — the Multiply row in the current profile is already fully specific (Seed $3.5M ~2022 + Series A $23.5M 2025-03-19 Kleiner Perkins led, A* participated) with 4 citations [^15][^38][^39][^40]. Discovered separate table-formatting bug: multiple rows in both the fund and pre-formation portfolio tables had a stale ''~unknown|'' prefix instead of the proper ''|'' pipe, breaking markdown rendering. Fixed all such rows (Fifteenth, Sesame, Whop, DoorDash, Gusto, Instacart, Joby, Marqeta, Newfront, Opendoor, Palantir, Pinterest, Reddit, SpaceX, Square, Trulia, Uber). Also researched Fifteenth/Sesame/Whop attribution: (a) Fifteenth: primary press citation for A*''s participation not located (Business Wire URL 403; only source is Kevin Hartz reference on The Split podcast [^15]); updated row to note "Seed (participated per Kevin Hartz on The Split podcast; primary press citation not located)" with ~2025 year. (b) Sesame: Sesame''s own team page names investors as "a16z, Sequoia, Spark, Matrix, and a collection of founders and investors" — A* not explicitly named; added [^ses1] citation and updated row to note this discrepancy. (c) Whop: TechCrunch 2023-07-20 Series A article names Insight Partners as lead with The Chainsmokers, Peter Thiel, "and others" — A* not explicitly named; added [^whop1] citation and updated row to note this discrepancy. Sourcing note: WebSearch budget exhausted this session (200/200 used) which prevented additional primary-source verification; three sources targeted for each company but only 1-2 primary sources per company could be confirmed via direct WebFetch (fifteenth.com, a-star.co/companies, sesame.com/team, techcrunch.com/2023/07/20 Whop). Recommend re-queueing these three for future passes with fresh WebSearch budget.'
 - profile: firms/aarin-capital
   profile_name: Aarin Capital
   company: Vyome Biosciences
