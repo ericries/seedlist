@@ -8972,3 +8972,15 @@ priority:
   status: resolved
   resolved: 2026-09-17
   resolution_notes: 'Fact-spec sweep 2026-09-17: Added Epsilon Health row to jack-altman.md Portfolio table (Growth via Alt Capital, $27.6M AlleyCorp-led round). Citation [^epsilon-jack] via Pulse 2.0 primary press, including verbatim Jack Altman quote. Frontmatter last_verified_investment updated to Epsilon Health (2026-09-11), replacing Owner Series D (2026-08-28).'
+- slug: crusoe
+  type: startup
+  reason: "Series F close 3.9B (2026-09-17)"
+  added: 2026-09-17
+- slug: founders-fund
+  type: firm
+  reason: "participated in Crusoe Series F 3.9B (2026-09-17)"
+  added: 2026-09-17
+- slug: valor-equity-partners
+  type: firm
+  reason: "co-led Crusoe Series F 3.9B (2026-09-17)"
+  added: 2026-09-17
