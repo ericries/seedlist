@@ -16770,7 +16770,9 @@ vague_facts:
   line: '| Bodo | ~2020 | -- | Enterprise Software / Computing | [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: Attempted to resolve Stage column ("--") and Year ("~2020") for KDT investment in Bodo (Bodo.ai, Berkeley-based Big Data / distributed compute company, later acquired by Snowflake in July 2024). Sources tried: kochdisruptivetechnologies.com/portfolio (403), kochinc.com/newsroom (301 redirect, no Bodo mention), bodo.ai (product-only content, no funding history), SEC EDGAR Form D search for "bodo" (no matching companies — likely filed under a different legal name such as "Bodo Inc" not indexed by simple prefix match). KDT''s own portfolio page (existing citation [^5]) lists Bodo alphabetically but does not disclose year or stage. Bodo raised an $8M Series A led by Uncork Capital + Dell Technologies Capital announced 2022-04-13 per multiple secondary sources (not accessible for verification without web search budget); KDT may have participated in this round or in an earlier undisclosed seed. Symptomatic of the same "~2020 | --" pattern already documented for BlueCurrent (resolved 2026-09-14 as unresolvable). No profile change made. Recommend batch pass with dedicated web-search budget across this ~20-company cluster.'
 - profile: firms/koch-disruptive-technologies
   profile_name: Koch Disruptive Technologies
   company: Cellares

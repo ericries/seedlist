@@ -28,7 +28,9 @@ Arcos is a Munich-based civil-security infrastructure company building and opera
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-18 | Seed | €5.5M | High-Tech Gründerfonds | Bayern Kapital, Pact, Haufe, Robin Capital, strategic business angels [^1] [^2] [^3] |
+| 2026-09-18 | Seed | €5.5M | High-Tech Gründerfonds (with DTCF) | Bayern Kapital, Pact, Haufe, Robin Capital, strategic business angels [^1] [^2] [^3] |
+
+Note: Arcos's own announcement lists HTGF and DTCF (Deep Tech & Climate Fonds) together as lead — both funds are represented by Managing Director Sebastian Borek [^2]. EU-Startups and HTGF's own release name HTGF as the lead and do not separately credit DTCF [^1] [^3].
 
 ## What Investors Say
 
@@ -36,9 +38,11 @@ Arcos is a Munich-based civil-security infrastructure company building and opera
 
 ## What Founders Say
 
-"Europe has understood that its safety is its own responsibility... Nobody was building the company that keeps watch over it." — Moritz Steigerwald, Founder and Managing Director [^1]
+"Europe has understood that its safety is its own responsibility, and that this includes the infrastructure everyday life runs on: power, transport, water, data." — Moritz Steigerwald, Founder and Managing Director [^1]
 
-"This industry helps decide whether the country functions, and it is changing faster than ever before." — Louis Wübben, Managing Director [^1]
+"This industry helps decide whether the country functions, and it is changing faster than ever before. More sensors, fewer people." — Louis Wübben, Founder and Managing Director [^1]
+
+"We combine signal processing and the operational process in one system. As a result, we see immediately in daily operations where workflows need to improve." — Moritz Steigerwald, Founder and Managing Director [^1]
 
 ## Sources
 
