@@ -79,9 +79,9 @@ Based on 20 verified investments where the source, year, and Audrey Capital or M
 | Groupcard | Angel (fbFund $225K grant winner 2008-12-09; Mullenweg named one of first angels) | 2008-12-09 | Consumer | [^13][^30][^31][^32] |
 | Typekit | Seed (True Ventures led; Matt Mullenweg + Evan Williams + Caterina Fake + Ron Conway/SV Angel + Chris Sacca + Josh Felser + Dave Samuel/Freestyle Capital participated; amount undisclosed) | 2009-06-24 | Developer Tools | [^13] [^33] [^34] [^35] |
 | DailyBurn | Angel (Mullenweg co-invested alongside Tim Ferriss following DailyBurn's TechStars Boulder Summer 2008 batch; exact investment date not publicly disclosed by primary sources — Mullenweg's own May 20, 2010 blog post is the earliest public confirmation, published the day of IAC's majority-stake acquisition) | 2008–2010-05-20 (investment window; acquired by IAC 2010-05-20) | Consumer / Fitness | [^15][^db-w1] |
-| Chartbeat | Seed | 2010 | Analytics | [^17] |
-| SendGrid | Seed | 2010 | Developer Tools | [^14] |
-| Hipmunk | Seed | 2010 | Travel | [^16] |
+| Chartbeat | Angel (Mullenweg named as participating angel per his own ma.tt announcement; round type, amount, and lead investor not surfaced in his blog post — announcement itself referenced AllThingsD) | 2010-09-23 (Mullenweg ma.tt announcement; AllThingsD published 2010-09-22) | Analytics | [^17] |
+| SendGrid | Series B ($5M; Foundry Group led with Ryan McIntyre joining board; angels Scott Petry (Postini founder) + Matt Mullenweg (WordPress) participated alongside prior backers Highway 12 Ventures, David Cohen/TechStars, Jeff Clavier/SoftTech VC, Dave McClure/FF Angel) | 2010-04-20 | Developer Tools | [^14] |
+| Hipmunk | Angel ($1M total; SV Angel + Paul Buchheit + Ashton Kutcher (A-Grade Investments) + Matt Mullenweg + Sam Altman + Geoff Ralston named participants; TechCrunch called it a "hyper-competitive" angel round at a valuation traditional super-angels declined) | 2010-10-05 | Travel | [^16] |
 | Enterproid | Seed | 2011 | Enterprise Mobile | [^13] |
 | Memrise | Seed | 2012 | EdTech | [^11] |
 | Pointy | Seed | 2015 | Retail Tech | [^13] |

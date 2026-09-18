@@ -4088,7 +4088,9 @@ vague_facts:
   line: '| Chartbeat | Seed | 2010 | Analytics | [^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: SCANNER FALSE POSITIVE on column 4 (Source column, contains footnote refs only). Real row had vague year-only date "2010" — tightened to specific 2010-09-23 date (Mullenweg''s ma.tt announcement date; AllThingsD original announcement dated 2010-09-22). Primary source [^17] Mullenweg ma.tt blog post RE-FETCHED and verified: Mullenweg himself confirms his participation ("I''m thrilled to be an investor in Chartbeat") but provides no round type, amount, or lead investor — those specifics are not surfaced in the accessible primary source. Row tightened from "Seed | 2010" to "Angel (round type/amount/lead not surfaced in primary source) | 2010-09-23" with a note flagging Mullenweg''s own ma.tt post as the sole primary source. Amount and lead remain unresolved — Crunchbase and additional press unreachable (403). Cannot upgrade further from single-primary-source position.'
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: SendGrid
@@ -4098,7 +4100,9 @@ vague_facts:
   line: '| SendGrid | Seed | 2010 | Developer Tools | [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: CORRECTION and SCANNER FALSE POSITIVE. Scanner false-positive on column 4 (Source column, footnote refs only). Underlying row had a real ERROR — round labeled "Seed | 2010" when TechCrunch [^14] primary source (RE-FETCHED 2026-09-18) explicitly confirms the round Mullenweg participated in was SendGrid''s Series B ($5M) on 2010-04-20, led by Foundry Group (Ryan McIntyre joined board), with Mullenweg and Scott Petry (Postini founder) as named angels alongside prior backers Highway 12 Ventures, David Cohen/TechStars, Jeff Clavier/SoftTech VC, Dave McClure/FF Angel. Row corrected from "Seed | 2010" to "Series B ($5M; Foundry Group led...) | 2010-04-20". Note: this is a CORRECTION, not just a tightening. Third-party press (Marketwired) and independent primary sources for the same round already exist in the 500-global.md sweep (see [^70][^71][^72] in that file) — cross-validated against those.'
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: Hipmunk
@@ -4108,7 +4112,9 @@ vague_facts:
   line: '| Hipmunk | Seed | 2010 | Travel | [^16] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: SCANNER FALSE POSITIVE on column 4 (Source column, footnote refs only). Underlying row had vague year-only "2010" — tightened to 2010-10-05 with specific $1M angel round terms. TechCrunch [^16] primary source (RE-FETCHED 2026-09-18) confirms: $1M total, angel round dated 2010-10-05, named participants SV Angel + Paul Buchheit + Ashton Kutcher (A-Grade Investments) + Matt Mullenweg + Sam Altman + Geoff Ralston + others. TechCrunch describes it as "hyper-competitive" angel financing at a valuation traditional super-angels declined. Row updated from "Seed | 2010" to "Angel ($1M total; SV Angel + Buchheit + Kutcher + Mullenweg + Altman + Ralston) | 2010-10-05". Single-primary-source position — additional 2010 press blocked/unreachable but TechCrunch tier-1 contemporaneous.'
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: Enterproid
@@ -211075,7 +211081,9 @@ vague_facts:
   line: '| Chartbeat | Seed | 2010 | Analytics | [^17] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: tightened year-only "2010" to specific 2010-09-23 (Mullenweg''s ma.tt announcement date). Duplicate entry — full research context in the type=unknown_value sibling entry for the same row.'
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: SendGrid
@@ -211085,7 +211093,9 @@ vague_facts:
   line: '| SendGrid | Seed | 2010 | Developer Tools | [^14] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: tightened year-only "2010" to specific 2010-04-20 (SendGrid Series B; Mullenweg named as angel per TechCrunch [^14]). Round type also corrected from "Seed" to "Series B". Duplicate entry — full research context in the type=unknown_value sibling entry for the same row.'
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: Hipmunk
@@ -211095,7 +211105,9 @@ vague_facts:
   line: '| Hipmunk | Seed | 2010 | Travel | [^16] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: tightened year-only "2010" to specific 2010-10-05 (Hipmunk $1M angel round; TechCrunch [^16] primary confirmation). Round type also updated from "Seed" to "Angel". Duplicate entry — full research context in the type=unknown_value sibling entry for the same row.'
 - profile: firms/audrey-capital
   profile_name: Audrey Capital
   company: Enterproid
