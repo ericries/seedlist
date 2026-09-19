@@ -136,6 +136,7 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 | Bolt | Early | ~2023 | AI/Development | [^9] |
 | Radical Numerics | Seed (led, $50M) | 2026-06-15 | AI / Biological Intelligence | [^14][^15][^16] |
 | Together AI | Series C (participated, $800M at $8.3B post-money; Aramco Ventures led) | 2026-07-01 | AI Infrastructure / Open-Source / Inference | [^17][^18][^19] |
+| Arcee AI | Series B (co-led, $150M at $1B+ valuation, alongside Vista Equity Partners and Cambium Capital; AI10 Ventures, Hitachi, IAG, M12, P7, Wipro participated) | 2026-09-16 | AI / Foundation Models | [^arc-e1][^arc-e2] |
 
 *This table represents approximately 25% of 133 known investments. The firm's earliest investments (2003-2010) are well documented, but mid-vintage investments are less comprehensively covered in public sources.*
 
@@ -188,3 +189,6 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 [^ta-e1]: Together AI blog, "Our $102.5M Series A," November 29, 2023. Accessed September 2026. https://www.together.ai/blog/series-a — Primary company source announcing $102.5M Series A led by Kleiner Perkins with participation from NVIDIA, Emergence Capital, NEA, Prosperity 7, Greycroft, and 137 Ventures; references earlier seed round with Lux Capital, Definition Capital, Long Journey Ventures, SCB10x, SV Angel, Factory, and Scott Banister as backers. Emergence Capital's first check into Together AI was the Series A, NOT the seed round — the prior "Seed | ~2023" row was a scanner/aggregator misclassification and is corrected here.
 
 [^ta-e2]: Emergence Capital portfolio detail page, "Together AI," accessed September 2026. https://www.emcap.com/portfolio/together-ai — Emergence's own portfolio page confirming Partnership Date 2023, Joe Floyd as deal team lead, and AI Infrastructure as thesis category. Together AI was founded in 2022 out of Stanford's AI Lab.
+
+[^arc-e1]: Arcee AI blog, "Arcee AI Raises Series B to Build the Future of American Open Models," September 16, 2026. Accessed September 18, 2026. https://www.arcee.ai/blog/arcee-ai-raises-series-b-to-build-the-future-of-american-open-models — Primary company source confirming $150M Series B at $1B+ valuation on September 16, 2026, co-led by Vista Equity Partners, Cambium Capital, and Emergence Capital; participants AI10 Ventures, Hitachi, IAG, M12, P7, Wipro.
+[^arc-e2]: Crunchbase News, "The Week's 10 Biggest Funding Rounds: AI, Space And Fintech Take Center Stage With Temporal Nabbing $550M," September 19, 2026. Accessed September 18, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/ — Independent contemporaneous confirmation of Arcee AI Series B with Emergence Capital among the co-leads.

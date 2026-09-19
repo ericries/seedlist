@@ -42,9 +42,9 @@ team:
     role: Partner
     slug: rana-yared
 last_verified_investment:
-  date: 2026-09-08
-  company: "The Exploration Company"
-  round: "Series C"
+  date: 2026-09-15
+  company: "Exein"
+  round: "Growth"
 status: published
 last_researched: 2026-09-11
 tldr: "Europe's leading independent VC ($5.7B raised) focused exclusively on European-founded companies. Originally Benchmark Capital Europe (2000), became independent in 2007. Portfolio of 275+ companies with 20+ unicorns includes Depop ($1.6B Etsy acquisition), Darktrace (IPO), and Revolut. Equal partnership model; led by Managing Partner Bernard Liautaud (founded Business Objects, acquired by SAP for $6.8B)."
@@ -151,6 +151,7 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | Geordie AI | Series A (led, $30M at ~$180M post-money) | 2026-05-28 | Cybersecurity / AI / Agent Governance | Active [^22] |
 | Tilt | Venture ($26M, follow-on; Vinted Ventures led) | 2026-06-02 | Consumer/Live Commerce | Active [^30] |
 | Prior Labs | Pre-Seed (led, €9M, 2025-02-05) | 2025-02-05 | AI / Tabular Foundation Models / Enterprise AI | Acquired by SAP (2026-07-17); SAP committed EUR 1B over four years [^priorlabs1][^priorlabs2][^priorlabs3] |
+| Exein | Growth (participant as returning investor, €234M co-led by Headline at €1.4B / $1.7B valuation; Sofina, Goldman Sachs, EIB Group/ETCI, KfW Capital, T.Capital new; HV, Intrepid Growth Partners, 33N Ventures, Lakestar, Supernova Invest, Blue Cloud Ventures, Geodesic Capital also returning) | 2026-09-15 | Cybersecurity / Physical AI / IoT / Robotics | Active (Italian unicorn) [^exein-b1][^exein-b2][^exein-b3] |
 
 This table represents approximately 51 of 275+ known investments (~19%). The portfolio is heavily skewed toward companies founded in the UK, with growing representation from Germany, France, and Turkey. Years shown are year of Balderton's first investment.
 
@@ -261,3 +262,7 @@ No additional independently sourced founder testimonials found beyond those publ
 [^tec-c1]: The Exploration Company (company blog), "The Exploration Company Series C — $450 million," September 8, 2026. Accessed September 2026. https://www.exploration.space/blog/the-exploration-company-series-c-450-million — Primary company announcement confirming the $450M Series C on September 8, 2026, co-led by Bessemer Venture Partners, Atomico, and Scaleup Europe Fund (managed by EQT), with Balderton, Plural, Cherry, and Red River West participating.
 
 [^tec-c2]: TechCrunch, "The Exploration Company nabs $450 million to challenge SpaceX," Anna Heim, September 8, 2026. Accessed September 2026. https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/ — Tier-1 press independent confirmation of the $450M Series C on September 8, 2026, listing Balderton as participating alongside Plural, Cherry, and Red River West.
+
+[^exein-b1]: EU-Startups, "Facing 5,000 new attacks weekly, Italy's Exein raises €234 million for physical AI cybersecurity," September 15, 2026. Accessed September 18, 2026. https://www.eu-startups.com/2026/09/facing-5000-new-attacks-weekly-italys-exein-raises-e234-million-for-physical-ai-cybersecurity/ — European primary press confirming Exein's €234M growth round on September 15, 2026, led by Headline; new investors Sofina, Goldman Sachs, EIB Group (ETCI), KfW Capital, T.Capital; previous investors continuing include Balderton, HV, Intrepid Growth Partners, 33N Ventures, Lakestar, Supernova Invest, Blue Cloud Ventures, Geodesic Capital. J.P. Morgan and KfW provided an additional revolving credit facility.
+[^exein-b2]: TechCrunch, "New Italian unicorn Exein rides the physical AI wave," September 15, 2026. Accessed September 18, 2026. https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/ — Tier-1 press independent confirmation of Exein's $270M / €234M growth round on September 15, 2026, led by Headline, at a €1.4B / $1.7B valuation.
+[^exein-b3]: Exein company website, homepage announcement of $270M raise at $1.7B valuation. Accessed September 16, 2026. https://exein.io/ — Company's own confirmation of the raise and valuation.

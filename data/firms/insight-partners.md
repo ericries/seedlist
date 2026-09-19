@@ -2,6 +2,10 @@
 founded: 1995
 tldr: "New York-based global software investor founded 1995 by Jeff Horing and Jerry Murdock. Manages $90B+ AUM; Fund XIII plus Opportunities Fund II closed on $12.5B in January 2025. Stage-agnostic within software with 875+ investments, 55+ IPOs and a 130-person Insight Onsite operational arm. Notable positions include Wiz, SentinelOne, Shopify, Qualtrics, JFrog, Recorded Future and Checkout.com."
 fund_size: $90B+ AUM; Fund XIII at $12.5B
+last_verified_investment:
+  company: Kastle
+  date: 2026-09-17
+  round: Series A
 last_researched: 2026-06-04
 location: New York, NY
 name: Insight Partners
@@ -146,6 +150,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Spur Intelligence | Growth ($200M, led; investment, round type not specified in source) | 2026-07-28 | Cybersecurity / IP Intelligence / Fraud Prevention | Active | [^spur1][^spur2][^spur3] |
 | Convex | Series B ($57M, led; Andreessen Horowitz, Spark Capital, Etna Labs, Justin Kan also participated) | 2026-08-04 | Developer Tools / Application Backend / AI | Active | [^cvx1][^cvx2][^cvx3] |
 | Easy Aerial | Series B ($20M, led; Entrée Capital and private U.S. investors also participated) | 2026-08-31 | Defense / Drones / Autonomous Systems | Active | [^ea1][^ea2][^ea3] |
+| Kastle | Series A ($24M, led; Fifth Wall new, Y Combinator and Commerce Ventures returning) | 2026-09-17 | AI / Fintech / Banking / Lending | Active | [^kst1][^kst2][^kst3] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -288,3 +293,7 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^ea1]: Business Wire, "Easy Aerial Completes $20 Million Series B Funding Round to Expand Global Defense Footprint," August 31, 2026. Accessed September 2026. https://www.businesswire.com/news/home/20260831863599/en/Easy-Aerial-Completes-$20-Million-Series-B-Funding-Round-to-Expand-Global-Defense-Footprint
 [^ea2]: Yahoo Finance, "Easy Aerial Completes $20 Million Series B Funding Round to Expand Global Defense Footprint," August 31, 2026. Accessed September 2026. https://finance.yahoo.com/technology/articles/easy-aerial-completes-20-million-130000624.html
 [^ea3]: Defense Daily, "Drone Company Easy Aerial Raises $20 Million To Scale Production, Global Business," August 31, 2026. Accessed September 2026. https://www.defensedaily.com/drone-company-easy-aerial-raises-20-million-to-scale-production-global-business/unmanned-systems/
+
+[^kst1]: Kastle press release (company website), "Kastle Raises $24M Series A Led by Insight Partners to Build the AI Workforce for Banking Operations," September 17, 2026. Accessed September 18, 2026. https://kastle.ai/ — Company's own announcement confirming $24M Series A led by Insight Partners with continued participation from existing investors Y Combinator and Commerce Ventures.
+[^kst2]: PR Newswire, "Kastle Raises $24M Series A Led by Insight Partners to Build the AI Workforce for Banking Operations," September 17, 2026. Accessed September 18, 2026. https://www.prnewswire.com/news-releases/kastle-raises-24m-series-a-led-by-insight-partners-to-build-the-ai-workforce-for-banking-operations-302881290.html — Independent primary press-wire distribution confirming Insight Partners as lead, Fifth Wall as new investor, and Y Combinator + Commerce Ventures returning.
+[^kst3]: Axios Pro Rata deal listing, "Kastle $24M Series A led by Insight Partners," September 17, 2026. Accessed September 18, 2026. https://www.axios.com/newsletters/axios-pro-rata — Independent tier-1 daily VC newsletter listing confirming the round.
