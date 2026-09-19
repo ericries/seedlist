@@ -46641,3 +46641,15 @@ queue:
   status: pending
   added: '2026-09-14'
   discovered_from: highstock
+- name: PMV (Flanders Future Tech Fund)
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-09-18'
+  discovered_from: tusk-ic
+- name: Pembroke VCT
+  type: firm
+  priority: normal
+  status: pending
+  added: '2026-09-18'
+  discovered_from: ryft

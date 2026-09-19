@@ -2,11 +2,11 @@
 name: "TUSK IC"
 slug: tusk-ic
 type: startup
-website: "https://tuskic.com"
-location: "Leuven, Belgium"
-founded: 2023
+website: "https://tusk-ic.com"
+location: "Antwerp, Belgium"
+founded: 2018
 status_company: active
-sector: [semiconductors, deeptech, space, satellite-communications, hardware, cmos, mmwave]
+sector: [semiconductors, deep-tech, satellite, satcom, hardware]
 stage_latest: "Series A"
 total_raised: "€15M+"
 investors: []
@@ -14,44 +14,38 @@ firms: []
 founders:
   - name: "Kathleen Philips"
     role: "CEO"
-  - name: "Shailesh Kulkarni"
-    role: "Co-Founder & CTO"
-  - name: "Wouter Volkaerts"
-    role: "Co-Founder & COO"
-last_verified_investment:
-  date: 2026-09-17
-  company: "TUSK IC"
-  round: "Series A"
 status: published
-last_researched: 2026-09-18
+last_researched: 2026-09-19
 ---
 
 ## About
 
-TUSK IC is a Belgian fabless semiconductor company and KU Leuven spin-out from the MICAS research group, developing standard-CMOS-based beamformer integrated circuits and antenna modules for Ka-band satellite communications [^1][^2][^3]. The company positions its mmWave chips as lower-cost alternatives to specialty semiconductor materials (e.g., SiGe) used in satellite user terminals, targeting automotive, industrial, and satellite communications applications [^1][^2]. On 2026-09-17, TUSK IC announced €15 million in Series A funding co-led by Matterwave Ventures, FORWARD.one, and Flanders Future Tech Fund (managed by PMV), with participation from the Schaubroeck family and existing investors, alongside a European Space Agency contract supported by BELSPO [^1][^2][^3]. Proceeds will accelerate commercialization and move the company's beamformer ICs from prototype to high-volume production [^1][^2].
-
-*Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
+TUSK IC is an Antwerp-based fabless semiconductor company that develops standard CMOS-based beamformer chips and antenna modules for Ka-band satellite communications [^1][^2][^3]. Spun out of KU Leuven's mmWave research group in 2018, the company aims to make satellite connectivity more affordable and scalable by replacing specialty semiconductor materials with commodity CMOS processes [^1][^2].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-17 | Series A | €15M | Matterwave Ventures, FORWARD.one, Flanders Future Tech Fund | Schaubroeck family [^1][^2][^3] |
+| 2026-09-17 | Series A | €15M | Matterwave Ventures, FORWARD.one, Flanders Future Tech Fund (PMV) | Schaubroeck family, existing investors [^1][^2][^3] |
 
 ## What Investors Say
 
-**Silviu Apostu, Partner at Matterwave Ventures, on Matterwave's blog:**
+**Silviu Apostu, Matterwave Ventures, in TUSK IC press release:**
 
-> "The future of connectivity will be determined not only by the constellations in orbit, but also by the technologies that make high-performance user terminals scalable and affordable on the ground." [^2]
+> "TUSK IC combines leading-edge mmWave innovation with the economics and scalability of standard CMOS, addressing a critical bottleneck in satellite communications." [^2]
+
+**Arjan Göbel, FORWARD.one, in TUSK IC press release:**
+
+> "By bringing the economic and manufacturing advantages of CMOS to satellite communications, TUSK IC is democratizing high-performance connectivity from space." [^2]
 
 ## What Founders Say
 
-**Kathleen Philips, CEO, quoted on TUSK IC's LinkedIn announcement:**
+**Kathleen Philips, CEO, in TUSK IC press release:**
 
-> "This investment is a strong endorsement of both our technology and our team. This milestone reflects the expertise and excellence of our entire team, who have turned an ambitious vision into a commercially relevant product platform." [^3]
+> "This investment will accelerate the transition from prototype chips to high-volume production." [^2]
 
 ## Sources
 
-[^1]: EU-Startups, "Antwerp-based TUSK IC secures €15 million to move its Ka-band satellite chips into mass production," September 18, 2026. Accessed September 18, 2026. https://www.eu-startups.com/2026/09/antwerp-based-tusk-ic-secures-e15-million-to-move-its-ka-band-satellite-chips-into-mass-production/
-[^2]: Matterwave Ventures blog, "Matterwave co-leads funding round in TUSK IC," September 17, 2026. Accessed September 18, 2026. https://matterwave.vc/blog/matterwave-co-leads-funding-round-in-tusk-ic
-[^3]: TUSK IC, LinkedIn company page announcement, September 17, 2026. Accessed September 18, 2026. https://www.linkedin.com/company/tusk-ic/
+[^1]: "Antwerp-based TUSK IC secures €15 million to move its Ka-band satellite chips into mass production," EU-Startups, September 18, 2026. Accessed September 19, 2026. https://www.eu-startups.com/2026/09/antwerp-based-tusk-ic-secures-e15-million-to-move-its-ka-band-satellite-chips-into-mass-production/
+[^2]: "TUSK IC Raises €15M in Funding to Democratize Satellite Communications," TUSK IC company press release, September 17, 2026. Accessed September 19, 2026. https://tusk-ic.com/tusk-ic-raises-e15m-in-funding-to-democratize-satellite-communications/
+[^3]: TUSK IC portfolio entry, Matterwave Ventures. Accessed September 19, 2026. https://www.matterwave.vc/portfolio

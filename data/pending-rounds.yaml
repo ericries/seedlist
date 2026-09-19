@@ -40,7 +40,9 @@ pending_rounds:
   parsed_company: Antwerp-based TUSK IC
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile tusk-ic.md; €15M Series A led by Matterwave Ventures,
+    FORWARD.one, Flanders Future Tech Fund (PMV)
 - title: BioStem Technologies Secures Up to $40 Million in a Committed Equity Facility
   url: https://www.globenewswire.com/news-release/2026/09/18/3364638/0/en/biostem-technologies-secures-up-to-40-million-in-a-committed-equity-facility.html
   source: globenewswire
@@ -103,14 +105,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Angle Health raised $600M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-18'
-  parsed_company: Angle Health
-  parsed_amount: $600M
-  parsed_round: null
-  status: pending
 - title: Fever raised $250M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -126,22 +120,6 @@ pending_rounds:
   parsed_company: Mind Security
   parsed_amount: $72M
   parsed_round: Series B
-  status: pending
-- title: Kastle raised $24M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-18'
-  parsed_company: Kastle
-  parsed_amount: $24M
-  parsed_round: Series A
-  status: pending
-- title: CorePower Magnetics raised $10.6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-18'
-  parsed_company: CorePower Magnetics
-  parsed_amount: $10.6M
-  parsed_round: null
   status: pending
 - title: Euka AI raised $5M
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -259,7 +237,9 @@ pending_rounds:
   parsed_company: UK FinTech startup Ryft
   parsed_amount: null
   parsed_round: null
-  status: pending
+  status: processed
+  notes: created startup profile ryft.md; £20M/€23M Series B led by Gresham House
+    Ventures with Pembroke VCT, Ingenii Capital
 - title: Luzern Risk raised $45M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
