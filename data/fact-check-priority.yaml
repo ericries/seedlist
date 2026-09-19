@@ -6945,14 +6945,26 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-18: Angle Health $600M Series C (2026-09-18) led by Vitruvian Partners with Town Hall Ventures (new), Blumberg Capital, Portage Ventures, PruVen Capital, Y Combinator. $2.7B valuation, includes $400M tender.'
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: verified Angle Health $600M Series C ($200M Series C + $400M tender at $2.7B valuation, announced 2026-09-18) via 4 independent primary sources: Angle Health company press release (primary company source with CEO Ty Wang and Vitruvian Partner Jeremy Gelber verbatim quotes) [^1], Axios Pro Rata deal listing (independent daily VC newsletter) [^2], PruVen Capital portfolio page (independent existing-investor confirmation) [^3-NEW], and Town Hall Ventures "Rebuilding Employer Health Insurance: Why We Backed Angle Health" essay by David Whelan and Andie Steinberg (2026-09-17, primary new-investor confirmation reporting 5,000+ employers across 47 states, ~$1B in annualized premium equivalents, 120% YoY growth, 4 consecutive quarters of profitability) [^4-NEW]. Profile expanded with Ty Wang CEO quote and Jeremy Gelber (Vitruvian) quote, both verbatim from company press release. Currency preserved (USD). Ty Wang added to founders frontmatter.'
+  processed: '2026-09-18'
 - slug: kastle-ai
   type: startup
   reason: 'Round monitoring 2026-09-18: Kastle $24M Series A (2026-09-17) led by Insight Partners with Fifth Wall (new), Y Combinator, Commerce Ventures.'
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: verified Kastle $24M Series A (2026-09-17) via 3 independent primary sources: PR Newswire distribution of Kastle press release (primary press-wire distribution with CEO Rishi Choudhary and Rebecca Liu-Doyle (Insight Partners MD) verbatim quotes; confirms Fifth Wall as new investor and YC + Commerce Ventures returning) [^2], kastle.ai company page [^1], and Y Combinator company page for Kastle (primary existing-investor confirmation naming Kastle as YC S24 batch company; founders Rishi Choudhary (ex-Redfin Mortgage Marketplace founding PM) and Nitish Poddar (ex-Verkada); primary YC Group Partner Diana Hu) [^4-NEW]. Axios Pro Rata deal listing corroborates [^3]. Profile expanded with founders (Rishi Choudhary, Nitish Poddar), founded 2024, and verbatim CEO + Insight MD quotes.'
+  processed: '2026-09-18'
 - slug: penelope-health
   type: startup
   reason: 'Round monitoring 2026-09-18: Penelope Health €87M (2026-09-18) led by Thoreau with Bertelsmann Healthcare Investments, Twine Ventures, Seedcamp.'
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: verified Penelope Health €87M (~$100M) seed round (announced 2026-09-18) via 4 independent primary sources: EU-Startups article (primary European tech press) [^1], Axios Pro Rata deal listing (independent daily VC newsletter) [^2], Seedcamp announcement "Penelope Health announces $100 million commitment to accelerate its platform for healthcare policy intelligence" (primary participating-investor confirmation with verbatim quotes from CEO Sohum Patel, CTO Mattijs De Paepe, and Seedcamp Principal Will Bennett) [^3-NEW], and Penelope Health company news section confirming the Thoreau partnership (primary company source) [^4-NEW]. Confirmed lead Thoreau plus BHI + Twine + Seedcamp participation across all four sources. Profile expanded with new Mattijs De Paepe (CTO) verbatim quote and new Will Bennett (Seedcamp) verbatim quote. Currency preserved (€87M with ~$100M equivalent noted).'
+  processed: '2026-09-18'
 - slug: corepower-magnetics
   type: startup
   reason: 'Round monitoring 2026-09-18: CorePower Magnetics $10.6M (2026-09-17) co-led by Engine Ventures and Material Impact with Evergreen Climate Innovations, Carnegie Mellon Catalyst Fund, Baruch Future Ventures.'
@@ -6968,3 +6980,7 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-18: Angle Health Series C (2026-09-18, returning) and Kastle Series A (2026-09-17, returning). Sources: company press releases, Axios Pro Rata.'
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-18
+  resolution_note: 'Fact-spec sweep 2026-09-18: added Kastle Series A row and Angle Health Series C row to y-combinator.md portfolio table with 3 primary citations each. Kastle: [^kastle-yc1] kastle.ai company page, [^kastle-yc2] PR Newswire press release, [^kastle-yc3] Y Combinator company page for Kastle (Summer 2024 batch). Angle Health: [^ah-yc1] Angle Health company press release, [^ah-yc2] Town Hall Ventures "Why We Backed Angle Health" essay (2026-09-17), [^ah-yc3] PruVen Capital portfolio page. YC confirmed as returning participant in both rounds across all sources.'
+  processed: '2026-09-18'
