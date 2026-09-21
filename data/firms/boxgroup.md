@@ -53,9 +53,9 @@ team:
 status: published
 last_researched: 2026-05-06
 last_verified_investment:
-  date: 2026-08-28
-  company: "Retro (Lone Palm Labs)"
-  round: "Series A (participated, $21M+; Thrive Capital led)"
+  date: 2026-09-21
+  company: "Corridor"
+  round: "Seed (participated, $25M; Bain Capital Ventures led)"
 tldr: "NYC-based seed investor founded in 2007 by David Tisch and Adam Rothenberg, with 600+ investments producing 31 unicorns (Plaid, Ramp, Warby Parker, Airtable, Cursor). Writes non-lead $250K-$1M checks as 'the Switzerland of VC,' co-investing collaboratively. Self-funded for first 12 years before raising external capital; now manages $1B+ across multiple fund vintages. Portfolio concentrated in fintech (25%), healthcare (18%), and consumer (18%)."
 ---
 
@@ -111,6 +111,7 @@ This table represents approximately 7% of BoxGroup's claimed 600+ investments. E
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Corridor | Seed (participated, $25M; led by Bain Capital Ventures; executives from OpenAI, Scale AI, Ramp also participated) | 2026-09-21 | Healthcare / Insurtech / AI / SMB Software | Active [^corridor-bg-1][^corridor-bg-2][^corridor-bg-3] |
 | Footprint | Series B (participated, $25M; QED-led; MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, Operator Partners, Animal Capital also participated; $45M total raised) | 2026-09-16 | Fintech / Identity / KYC / AML / AI | Active [^footprint-bg-1][^footprint-bg-2] |
 | Retro (Lone Palm Labs) | Series A (participated, $21M+; led by Thrive Capital; Dylan Field, Scribble Ventures, Imaginary Ventures, Coalition, Conviction, Copper, Positive Sum also participated) | 2026-08-28 | Consumer / Social / Photo-Sharing | Active ($100M+ estimated valuation per PitchBook) [^retro2026a][^retro2026b] |
 | Foundational Industries | Seed (co-led with Zigg Ventures, $25M; Abstract, Adverb, Buckley, Offline participated) | 2026-07-30 | Manufacturing / AI / Industrial Automation | Active [^foundational2026a][^foundational2026b][^foundational2026c] |
@@ -281,3 +282,9 @@ No independently sourced founder testimonials found. BoxGroup's website does not
 [^footprint-bg-1]: Footprint, "Footprint's Series B & The Race For Time and Memory," Eli Wachs, September 16, 2026. Accessed September 17, 2026. https://www.onefootprint.com/learn/series-b — Primary company source: names BoxGroup among Series B participants alongside QED (lead), MUFG, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, Operator Partners, and Animal Capital.
 
 [^footprint-bg-2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/16/2026," September 16, 2026. Accessed September 17, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-16-2026/ — Independent contemporaneous tech press: confirms BoxGroup in the $25M Series B, $45M total raised.
+
+[^corridor-bg-1]: TechCrunch, "Corridor raises $25M seed to build a health benefits brokerage for SMBs," September 21, 2026. Accessed September 2026. https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/ — Primary tier-1 tech press confirming Bain Capital Ventures led with BoxGroup and executives from OpenAI, Scale AI, Ramp participating.
+
+[^corridor-bg-2]: Axios Pro Rata, deal listings, September 21, 2026 edition. Confirms Corridor $25M seed round with Bain Capital Ventures as lead and BoxGroup as participant. Accessed September 2026. https://www.axios.com/newsletters/axios-pro-rata
+
+[^corridor-bg-3]: Bain Capital Ventures portfolio page, "Corridor: Building AI-native benefits brokerage for small businesses," Applied AI category, Seed stage 2026, Ryan Kim (supporting partner). Accessed September 2026. https://www.baincapitalventures.com/portfolio/ — Primary lead-investor source confirming Corridor as portfolio company.

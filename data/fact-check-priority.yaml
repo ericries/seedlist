@@ -9356,31 +9356,71 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-21: Fortell $163M funding round (2026-09-16) with participation from Founders Fund, Thrive Capital, Valor Equity Partners. AI-powered hearing aids. Source: TechCrunch.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Duplicate of fortell entry below — see fact-spec resolution.'
+  processed: '2026-09-21'
 - slug: founders-fund
   type: firm
   reason: 'Round monitoring 2026-09-21: participated in Fortell $163M round (2026-09-16) alongside Thrive Capital, Valor Equity Partners.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: added Fortell Growth row to founders-fund.md Portfolio table with 3 primary citations ([^fortell-ff1] TechCrunch, [^fortell-ff2] Fortell company website with verbatim Trae Stephens/FF Partner quote, [^fortell-ff3] Founders Fund portfolio page). last_researched bumped to 2026-09-21. LVI retained at Crusoe (2026-09-17, later than Fortell).'
+  processed: '2026-09-21'
 - slug: thrive-capital
   type: firm
   reason: 'Round monitoring 2026-09-21: participated in Fortell $163M round (2026-09-16) alongside Founders Fund, Valor Equity Partners.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: added Fortell Growth row to thrive-capital.md Portfolio table with 3 primary citations ([^fortell-tc1] TechCrunch, [^fortell-tc2] Fortell company website, [^fortell-tc3] Founders Fund portfolio page). Frontmatter last_verified_investment set to Fortell (2026-09-16, $163M Growth participant).'
+  processed: '2026-09-21'
 - slug: valor-equity-partners
   type: firm
   reason: 'Round monitoring 2026-09-21: participated in Fortell $163M round (2026-09-16) alongside Founders Fund, Thrive Capital (Antonio Gracias).'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: added Fortell row to valor-equity-partners.md Current Growth Investments table with 3 primary citations ([^fortell-vep1] TechCrunch, [^fortell-vep2] Fortell company website, [^fortell-vep3] Founders Fund portfolio page). LVI retained at Crusoe (2026-09-17, later than Fortell 2026-09-16).'
+  processed: '2026-09-21'
 - slug: corridor-health
   type: startup
   reason: 'Round monitoring 2026-09-21: new profile — $25M seed led by Bain Capital Ventures; participants BoxGroup and executives from OpenAI, Scale AI, Ramp.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Corridor $25M seed (2026-09-21) via 3 independent primary sources: TechCrunch [^1] (2026-09-21, primary tier-1 press with three verbatim founder quotes from Nikhil Aggarwal and Jackson Wagner), Axios Pro Rata [^2] (independent daily VC newsletter), and NEW Bain Capital Ventures portfolio page [^4] (primary lead-investor source confirming Corridor listed under Applied AI category as Seed stage 2026 with Ryan Kim as supporting partner). Corridor company website [^3] retained as fourth source. Expanded founder profile with prior roles (Nikhil Aggarwal ex-Cold Start partner, Jackson Wagner ex-Scale AI product lead, Eric Qian ex-Scale AI, Jason Dong ex-Cold Start), enriched product description (verify provider network inclusion, schedule care, update doctor records with insurance information), and added Jackson Wagner and Aggarwal vision quotes. Ryan Kim (BCV supporting partner) captured. Currency preserved (USD).'
+  processed: '2026-09-21'
 - slug: feldera
   type: startup
   reason: 'Round monitoring 2026-09-21: new profile — $21.5M combined ($15.4M Series A led by Inovia Capital; $6.1M Seed led by Costanoa Ventures) with Battery Ventures and Ion Stoica participating.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Feldera $21.5M combined Series A + Seed (2026-09-21) via 3+ independent primary sources: Feldera company blog [^1] (2026-09-21, primary company source with verbatim Lalith Suresh CEO quote: "This round fuels our growth and deepens our innovation across the product: the core engine, scalability, deeper lakehouse integrations, and a fully managed experience."), TechStartups [^2] (2026-09-21, independent tech press), Axios Pro Rata [^3] (independent daily VC newsletter), and NEW Costanoa Ventures portfolio page [^4] (primary co-investor source confirming Feldera listed as portfolio company). Confirmed syndicate: Series A ($15.4M) led by Inovia Capital with Costanoa Ventures + Battery Ventures participating; concurrent Seed ($6.1M) led by Costanoa Ventures with Ion Stoica (Databricks/Anyscale co-founder) participating. Lalith Suresh founder quote added. Currency preserved (USD).'
+  processed: '2026-09-21'
 - slug: battery-ventures
   type: firm
   reason: 'Round monitoring 2026-09-21: participated in Feldera $15.4M Series A (2026-09-21) alongside Inovia Capital (lead) and Costanoa Ventures.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: added Feldera Series A row to battery-ventures.md Portfolio table with 3 primary citations ([^feldera-bv1] Feldera company blog, [^feldera-bv2] TechStartups, [^feldera-bv3] Axios Pro Rata). Frontmatter last_verified_investment set to Feldera Series A (2026-09-21, $15.4M, Inovia Capital led). last_researched bumped to 2026-09-21.'
+  processed: '2026-09-21'
 - slug: boxgroup
   type: firm
   reason: 'Round monitoring 2026-09-21: participated in Corridor $25M seed (2026-09-21) alongside Bain Capital Ventures (lead).'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: added Corridor row to boxgroup.md Portfolio table with 3 primary citations ([^corridor-bg-1] TechCrunch, [^corridor-bg-2] Axios Pro Rata, [^corridor-bg-3] Bain Capital Ventures portfolio page). Frontmatter last_verified_investment bumped from Retro (2026-08-28) to Corridor (2026-09-21, Seed participant, $25M Bain Capital Ventures-led). Fortell resolution below covers Founders Fund + Thrive + Valor firm updates in parallel.'
+  processed: '2026-09-21'
+- slug: fortell
+  type: startup
+  reason: 'Round monitoring 2026-09-21: verified $163M growth round (2026-09-16) via 3+ independent primary sources.'
+  added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Fortell $163M growth round (2026-09-16) via 3 independent primary sources: TechCrunch [^1] (2026-09-16, primary tier-1 press with verbatim Matthew de Jonge founder quote: "Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?"), NEW Fortell company website [^2] (primary company source confirming AI 2.0 prescription hearing aid product, clinical trial claims — 10x more words understood, 98% background noise elimination, 95% preference over five competitors — and Trae Stephens/Founders Fund Partner verbatim endorsement: "It was honestly the best hardware demo I''ve seen in my 11 and a half years at Founders Fund"), and NEW Founders Fund portfolio page [^3] (primary lead-investor source confirming Fortell as portfolio company). Expanded profile with launch locations (New York, Greenwich, Boston, Palm Beach), founder background (six years building), and clinical trial specifics. Added Fortell rows to founders-fund.md, thrive-capital.md, and valor-equity-partners.md portfolio tables with 3 primary citations each. Thrive Capital frontmatter last_verified_investment set to Fortell (2026-09-16). Founders Fund and Valor last_verified_investment retained at Crusoe (2026-09-17, later). Currency preserved (USD).'
+  processed: '2026-09-21'

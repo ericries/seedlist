@@ -50,7 +50,11 @@ team:
     role: "Partner"
     name: "Justin Rosner"
 status: published
-last_researched: 2026-05-05
+last_researched: 2026-09-21
+last_verified_investment:
+  date: 2026-09-21
+  company: "Feldera"
+  round: "Series A (participated, $15.4M; Inovia Capital led)"
 ---
 
 ## About
@@ -83,6 +87,7 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Feldera | Series A ($15.4M; Inovia Capital led; Battery Ventures + Costanoa Ventures participated; concurrent $6.1M Seed led by Costanoa Ventures with Ion Stoica) | 2026-09-21 | Developer Tools / Data Infrastructure / SQL / IVM | Active | [^feldera-bv1][^feldera-bv2][^feldera-bv3] |
 | Coinbase | Series D ($100M at $1.6B post-money; IVP led; Battery Ventures + Spark Capital + Greylock Partners + Section 32 + Draper Associates participated) | 2017-08-10 | Fintech | IPO (2021) | [^7][^4][^14][^15][^35][^36][^37] |
 | Wayfair | Growth | 2011 | E-commerce | IPO (2014) | [^3] |
 | Affirm | Growth | 2019 | Fintech | IPO (2021) | [^4][^7] |
@@ -217,3 +222,9 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^36]: Laura Shin, "Coinbase Becomes First Crypto Unicorn, Raises $100 Million In Funding Amid ICO Craze," Forbes, August 10, 2017, accessed August 2026. https://www.forbes.com/sites/laurashin/2017/08/10/coinbase-becomes-first-crypto-unicorn-raises-100-million-in-funding-amid-ico-craze/ — Independent tier-1 press confirmation of August 10, 2017 $100M Series D; IVP lead; Spark Capital, Greylock Partners, Battery Ventures, Section 32, and Draper Associates participated. Coinbase became the first crypto unicorn.
 
 [^37]: PYMNTS, "Coinbase's $100M In Funding Brings Its Valuation To $1.6B," August 10, 2017, accessed August 2026. https://www.pymnts.com/news/investment-tracker/2017/vc-funding-brings-coinbase-valuation-to-1-6b/ — Third independent press confirmation of the Coinbase $100M Series D announcement on August 10, 2017 with Battery Ventures as a named participant.
+
+[^feldera-bv1]: Feldera, "Announcing our Series A and Seed," company blog, September 21, 2026. Accessed September 2026. https://feldera.com/blog/announcing-our-series-a-and-seed — Primary company source confirming Battery Ventures participation in $15.4M Series A led by Inovia Capital, with Costanoa Ventures also participating; concurrent $6.1M Seed led by Costanoa Ventures with Ion Stoica participating. Founder Lalith Suresh quote captured.
+
+[^feldera-bv2]: TechStartups, "Feldera secures $21.5M in Series A and Seed funding to cut database compute costs by 95%," Daniel Levi, September 21, 2026. Accessed September 2026. https://techstartups.com/2026/09/21/feldera-secures-21-5m-in-series-a-and-seed-funding-to-cut-database-compute-costs-by-95/ — Independent tech press confirming Battery Ventures in $21.5M combined round.
+
+[^feldera-bv3]: Axios Pro Rata, deal listings, September 21, 2026 edition. Confirms Feldera $15.4M Series A round with Inovia Capital as lead. Accessed September 2026. https://www.axios.com/newsletters/axios-pro-rata

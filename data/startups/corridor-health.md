@@ -34,7 +34,7 @@ last_researched: 2026-09-21
 
 ## About
 
-Corridor is an AI-powered health benefits brokerage aimed at small and medium-sized businesses (SMBs), pairing human advisors with AI agents that handle administrative healthcare tasks such as plan selection, enrollment support, and employee benefits questions [^1][^2][^3]. The company was founded in 2026 by Nikhil Aggarwal (CEO), Jackson Wagner, Eric Qian, and Jason Dong, targeting a market gap where traditional brokerages historically overlook SMBs due to lower commission potential [^1]. On 2026-09-21, Corridor announced a $25 million seed round led by Bain Capital Ventures, with participation from BoxGroup and individual executives from OpenAI, Scale AI, and Ramp [^1][^2][^3].
+Corridor is an AI-powered health benefits brokerage aimed at small and medium-sized businesses (SMBs), pairing human advisors with AI agents that handle administrative healthcare tasks such as verifying provider network inclusion, scheduling care, and updating doctor records with insurance information [^1][^2][^3]. The company was founded in 2026 by Nikhil Aggarwal (CEO, former partner at Cold Start), Jackson Wagner (former product lead at Scale AI), Eric Qian (former Scale AI colleague), and Jason Dong (former partner at Cold Start), targeting a market gap where traditional brokerages historically overlook SMBs due to lower commission potential [^1]. On 2026-09-21, Corridor announced a $25 million seed round led by Bain Capital Ventures (Ryan Kim, supporting partner), with participation from BoxGroup and individual executives from OpenAI, Scale AI, and Ramp [^1][^2][^3][^4].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -42,7 +42,7 @@ Corridor is an AI-powered health benefits brokerage aimed at small and medium-si
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-21 | Seed | $25M | Bain Capital Ventures | BoxGroup [^1][^2][^3] |
+| 2026-09-21 | Seed | $25M | Bain Capital Ventures | BoxGroup [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -50,7 +50,11 @@ No independently sourced investor quotes found at this time.
 
 ## What Founders Say
 
+"Since health plans are the window through which the vast majority of Americans access healthcare, it became overwhelmingly clear that one of the highest impact things I could do to improve outcomes for individuals was to create a way for them to access better health plans." — Jackson Wagner, Co-Founder, Corridor, quoted in TechCrunch, September 21, 2026 [^1]
+
 "We are every single employee and management's concierge for all things healthcare." — Nikhil Aggarwal, CEO & Co-Founder, Corridor, quoted in TechCrunch, September 21, 2026 [^1]
+
+"Our vision is to build the most trusted healthcare institution in America." — Nikhil Aggarwal, CEO & Co-Founder, Corridor, quoted in TechCrunch, September 21, 2026 [^1]
 
 ## Sources
 
@@ -59,3 +63,5 @@ No independently sourced investor quotes found at this time.
 [^2]: Axios Pro Rata, deal listings, September 21, 2026 edition. Confirms Corridor $25M seed round with Bain Capital Ventures as lead and BoxGroup as participant. Accessed September 2026. https://www.axios.com/newsletters/axios-pro-rata
 
 [^3]: Corridor company website, https://usecorridor.com, accessed September 2026. Confirms company positioning: "AI Agents are about to redefine an entire industry" and 2026 launch.
+
+[^4]: Bain Capital Ventures portfolio page, "Corridor: Building AI-native benefits brokerage for small businesses," Applied AI category, Seed stage 2026, Ryan Kim (supporting partner). Accessed September 2026. https://www.baincapitalventures.com/portfolio/

@@ -87,6 +87,7 @@ Based on 59 verified current growth portfolio investments and 22 realized invest
 
 | Company | Sector | Year | Source |
 |---------|--------|------|--------|
+| Fortell | Healthcare / AI hearing aids | 2026-09-16 ($163M growth round; participated alongside Founders Fund and Thrive Capital; Antonio Gracias) | [^fortell-vep1][^fortell-vep2][^fortell-vep3] |
 | Addepar | Financial software | 2017 | [^12][^25] |
 | AgentSync | Insurance software | 2021 | [^16][^26] |
 | AMP Robotics | Recycling automation | 2021 | [^13][^13] |
@@ -309,3 +310,9 @@ Note: Several of the above testimonials are sourced from the Valor website (Grow
 [^hadrian-v2]: TechCrunch, "Defense tech Hadrian raises $1.37B at $8B valuation," August 6, 2026. Accessed September 2026. https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/ — Tier-1 tech press confirmation of $1.37B Series D extension naming Valor Equity Partners among co-leads.
 [^hadrian-v3]: Bloomberg, "Defense Startup Hadrian Valued at $7.87 Billion in New Round," August 6, 2026. Accessed September 2026. https://www.bloomberg.com/news/articles/2026-08-06/defense-startup-hadrian-valued-at-7-87-billion-in-new-round — Independent tier-1 financial press confirmation of the $7.87B post-money valuation and Valor Equity Partners participation.
 [^hadrian-v4]: Washington Technology, "Hadrian fetches $1.37B to add more automation-intensive factories," August 6, 2026. Accessed September 2026. https://www.washingtontechnology.com/companies/2026/08/hadrian-fetches-137b-add-more-automation-intensive-factories/415251/ — Fourth independent defense-industry press confirmation naming Valor Equity Partners among co-leads.
+
+[^fortell-vep1]: TechCrunch, "How Fortell is using AI (and $163M) to crack a hearing aid monopoly," September 16, 2026. Accessed September 2026. https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/ — Primary tier-1 tech press confirming Fortell $163M funding with Valor Equity Partners (Antonio Gracias), Founders Fund, and Thrive Capital participation.
+
+[^fortell-vep2]: Fortell company website, accessed September 2026. https://fortell.com — Primary company source confirming the AI 2.0 prescription hearing aid product and launch, featuring Trae Stephens (Founders Fund) verbatim quote.
+
+[^fortell-vep3]: Founders Fund portfolio page, confirms Fortell as portfolio company, corroborating the co-participant syndicate. Accessed September 2026. https://foundersfund.com/portfolio/

@@ -36,8 +36,8 @@ Feldera is a developer of an Incremental View Maintenance (IVM) engine powered b
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-21 | Series A | $15.4M | Inovia Capital | Costanoa Ventures, Battery Ventures [^1][^2][^3] |
-| 2026-09-21 | Seed | ~$6.1M | Costanoa Ventures | Ion Stoica [^1] |
+| 2026-09-21 | Series A | $15.4M | Inovia Capital | Costanoa Ventures, Battery Ventures [^1][^2][^3][^4] |
+| 2026-09-21 | Seed | ~$6.1M | Costanoa Ventures | Ion Stoica [^1][^4] |
 
 ## What Investors Say
 
@@ -45,7 +45,7 @@ No independently sourced investor quotes found at this time.
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+"This round fuels our growth and deepens our innovation across the product: the core engine, scalability, deeper lakehouse integrations, and a fully managed experience." — Lalith Suresh, CEO & Co-Founder, Feldera, company blog announcement, September 21, 2026 [^1]
 
 ## Sources
 
@@ -54,3 +54,5 @@ No independently sourced founder quotes found at this time.
 [^2]: TechStartups, "Feldera secures $21.5M in Series A and Seed funding to cut database compute costs by 95%," Daniel Levi, September 21, 2026. Accessed September 2026. https://techstartups.com/2026/09/21/feldera-secures-21-5m-in-series-a-and-seed-funding-to-cut-database-compute-costs-by-95/
 
 [^3]: Axios Pro Rata, deal listings, September 21, 2026 edition. Confirms Feldera $15.4M Series A round. Accessed September 2026. https://www.axios.com/newsletters/axios-pro-rata
+
+[^4]: Costanoa Ventures portfolio page, confirms Feldera listed as a portfolio company. Accessed September 2026. https://www.costanoa.vc/portfolio

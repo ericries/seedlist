@@ -5,7 +5,7 @@ fund_size: $50M (Fund I, 2005); $220M (Fund II, 2007); $250M (Fund III, 2010); $
   $900M (Fund VIII, 2022); $1.5B (Growth I, 2020); $3.4B (Growth II, 2022); $4.6B
   (Growth III, 2025); ~$6B (Growth IV, 2026)
 tldr: "San Francisco VC founded in 2005 by Peter Thiel, Ken Howery, and Luke Nosek — three PayPal Mafia members — with ~$17B AUM and a founder-maximalist philosophy of never removing founders. First institutional investor in SpaceX and Palantir, with early bets on Facebook, Stripe, Airbnb, and Anduril. Anchors a contrarian 'Zero to One' thesis toward aerospace, defense, AI, and fintech; recent portfolio includes Anthropic, Neuralink, Ramp, and Cognition."
-last_researched: 2026-03-14
+last_researched: 2026-09-21
 location: San Francisco, CA
 name: Founders Fund
 sector_focus:
@@ -19,6 +19,10 @@ sector_focus:
 - consumer-internet
 - hard-tech
 slug: founders-fund
+last_verified_investment:
+  date: 2026-09-17
+  company: "Crusoe"
+  round: "Series F participant ($3.9B at $30.9B post-money; Atreides Management, Mubadala Capital, and Valor Equity Partners co-led)"
 stage_focus:
 - seed
 - series-a
@@ -174,6 +178,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Fortell | Growth (participated, $163M; Thrive Capital, Valor Equity Partners also participated) | 2026-09-16 | Healthcare / Medical Devices / AI Hearing Tech | Active [^fortell-ff1][^fortell-ff2][^fortell-ff3] |
 | SpaceX | Series A | 2008 | Aerospace | Private [^1][^2] |
 | Palantir | Series A | ~2005 (founded) | Enterprise / Data Intelligence | Public (IPO 2020) [^1] |
 | Anduril | Seed→Series H (participated through every round; led Series F, G; participated in Series H) | 2017-08 (Seed); 2018-06 (Series A); 2026-05-13 (Series H) | Defense Tech | Private (valued at $61B post Series H) [^28][^30][^48][^49] |
@@ -505,3 +510,9 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^hadrian-ff2]: TechCrunch, "Defense tech Hadrian raises $1.37B at $8B valuation," August 6, 2026. Accessed September 2026. https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/ — Tier-1 tech press independent confirmation of Hadrian's $1.37B Series D at $7.87B valuation on August 6, 2026, bringing total raised to approximately $2 billion; Founders Fund explicitly named among participants.
 
 [^hadrian-ff3]: Washington Technology, "Hadrian fetches $1.37B to add more automation-intensive factories," August 6, 2026. Accessed September 2026. https://www.washingtontechnology.com/companies/2026/08/hadrian-fetches-137b-add-more-automation-intensive-factories/415251/ — Third independent trade press confirmation of the $1.37B Series D at $7.87B valuation on August 6, 2026, naming Founders Fund among participants alongside Andreessen Horowitz, Lux Capital, Altimeter, and Construct Capital.
+
+[^fortell-ff1]: TechCrunch, "How Fortell is using AI (and $163M) to crack a hearing aid monopoly," September 16, 2026. Accessed September 2026. https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/ — Primary tier-1 tech press confirming Fortell $163M funding with Founders Fund, Thrive Capital, and Valor Equity Partners (Antonio Gracias) participation. Founder Matthew de Jonge quoted.
+
+[^fortell-ff2]: Fortell company website, accessed September 2026. https://fortell.com — Primary company source featuring verbatim Trae Stephens (Founders Fund Partner) quote: "It was honestly the best hardware demo I've seen in my 11 and a half years at Founders Fund."
+
+[^fortell-ff3]: Founders Fund portfolio page, confirms Fortell listed as a portfolio company. Accessed September 2026. https://foundersfund.com/portfolio/ — Primary lead-investor source confirming Fortell as portfolio company.

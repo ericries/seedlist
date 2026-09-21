@@ -4,7 +4,11 @@ tldr: "New York venture firm founded by Joshua Kushner in 2009, now managing ove
 fund_size: $10B (Thrive X, 2026); $5B (Thrive IX, 2024); $3B (Thrive VIII, 2022);
   $2B (Thrive VII, 2021); $1B (Thrive VI, 2018); $700M (Thrive V, 2016); $400M (Thrive
   IV, 2014); $150M (Thrive III, 2012); $40M (Thrive I, 2011)
-last_researched: 2026-04-30
+last_researched: 2026-09-21
+last_verified_investment:
+  date: 2026-09-16
+  company: "Fortell"
+  round: "Growth participant ($163M; Founders Fund, Valor Equity Partners also participated)"
 location: New York, NY
 name: Thrive Capital
 sector_focus:
@@ -129,6 +133,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Fortell | Growth (participated, $163M; Founders Fund, Valor Equity Partners also participated) | 2026-09-16 | Healthcare / Medical Devices / AI Hearing Tech | Active [^fortell-tc1][^fortell-tc2][^fortell-tc3] |
 | Helion Energy | Series G (Lead) | 2026 | Fusion / Energy | Private [^helion1] |
 | Ellis | Seed (participated; $10M; led by First Round Capital) | 2026-07-30 | Fintech / AI / Private Credit | Private [^ellis-tc1][^ellis-tc2][^ellis-tc3] |
 | XDOF | Venture | 2026-06-17 | Robotics / AI Infrastructure | Active ($70M launch from stealth; co-investors Spark Capital, a16z, Lux Capital, WndrCo) [^55][^56] |
@@ -431,3 +436,9 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 
 [^thr-bp-d1]: TechCrunch, "Base Power raises another $1B to save the grid using backyard batteries," August 3, 2026. Accessed September 2026. https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/ — Names Thrive Capital as a returning Series D participant; Ribbit, Addition, Valor Equity Partners, and JPMorganChase Strategic Investment Group co-led the $1B round at ~$13B post-money valuation.
 [^thr-bp-d2]: Pulse 2.0, "Base Power Raises $1 Billion Series D At $13 Billion Valuation And Launches U.S.-Made Home Battery," August 3, 2026. Accessed September 2026. https://pulse2.com/base-power-raises-1-billion-series-d-at-13-billion-valuation-and-launches-u-s-made-home-battery/ — Independent contemporaneous confirmation of Thrive Capital as a returning participant in the Series D at $13B post-money valuation.
+
+[^fortell-tc1]: TechCrunch, "How Fortell is using AI (and $163M) to crack a hearing aid monopoly," September 16, 2026. Accessed September 2026. https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/ — Primary tier-1 tech press confirming Fortell $163M funding with Thrive Capital, Founders Fund, and Valor Equity Partners (Antonio Gracias) participation.
+
+[^fortell-tc2]: Fortell company website, accessed September 2026. https://fortell.com — Primary company source confirming product and launch, featuring Trae Stephens (Founders Fund) verbatim quote endorsing the demo.
+
+[^fortell-tc3]: Founders Fund portfolio page, confirms Fortell listed as a portfolio company, corroborating the co-participant syndicate. Accessed September 2026. https://foundersfund.com/portfolio/
