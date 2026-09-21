@@ -9368,3 +9368,19 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-21: participated in Fortell $163M round (2026-09-16) alongside Founders Fund, Thrive Capital (Antonio Gracias).'
   added: 2026-09-21
+- slug: corridor-health
+  type: startup
+  reason: 'Round monitoring 2026-09-21: new profile — $25M seed led by Bain Capital Ventures; participants BoxGroup and executives from OpenAI, Scale AI, Ramp.'
+  added: 2026-09-21
+- slug: feldera
+  type: startup
+  reason: 'Round monitoring 2026-09-21: new profile — $21.5M combined ($15.4M Series A led by Inovia Capital; $6.1M Seed led by Costanoa Ventures) with Battery Ventures and Ion Stoica participating.'
+  added: 2026-09-21
+- slug: battery-ventures
+  type: firm
+  reason: 'Round monitoring 2026-09-21: participated in Feldera $15.4M Series A (2026-09-21) alongside Inovia Capital (lead) and Costanoa Ventures.'
+  added: 2026-09-21
+- slug: boxgroup
+  type: firm
+  reason: 'Round monitoring 2026-09-21: participated in Corridor $25M seed (2026-09-21) alongside Bain Capital Ventures (lead).'
+  added: 2026-09-21

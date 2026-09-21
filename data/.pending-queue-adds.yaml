@@ -310,3 +310,36 @@
   source: angel participant on Unit1 Studio £20M / €23.3M round 2026-09-21 (Balderton lead)
   discovered_from: unit1-studio
   priority: low
+- name: Bain Capital Ventures
+  type: firm
+  source: led Corridor $25M seed round 2026-09-21
+  discovered_from: corridor-health
+  priority: high
+- name: Inovia Capital
+  type: firm
+  source: led Feldera $15.4M Series A 2026-09-21
+  discovered_from: feldera
+  priority: high
+- name: Costanoa Ventures
+  type: firm
+  source: led Feldera $6.1M seed 2026-09-21, participant in Series A
+  discovered_from: feldera
+  priority: high
+- name: Nikhil Aggarwal
+  type: individual
+  firm: Corridor
+  source: CEO and Co-Founder of Corridor; raised $25M seed from Bain Capital Ventures 2026-09-21
+  discovered_from: corridor-health
+  priority: low
+- name: Lalith Suresh
+  type: individual
+  firm: Feldera
+  source: CEO and Co-Founder of Feldera; raised $21.5M from Inovia Capital and Costanoa Ventures 2026-09-21
+  discovered_from: feldera
+  priority: low
+- name: Ion Stoica
+  type: individual
+  firm: Databricks / Anyscale (angel investor)
+  source: participated in Feldera seed round 2026-09-21; Databricks and Anyscale co-founder
+  discovered_from: feldera
+  priority: normal
