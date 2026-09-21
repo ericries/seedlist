@@ -20,6 +20,41 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The Weekly Notable Startup Funding Report: 9/21/26'
+  url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-21-26/
+  source: alleywatch
+  date_found: '2026-09-21'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Belgium’s Novadip Biosciences raises €10.4 million to fund pivotal clinical
+    trial and unlock EIB loan tranche
+  url: https://www.eu-startups.com/2026/09/belgiums-novadip-biosciences-raises-e10-4-million-to-fund-pivotal-clinical-trial-and-unlock-eib-loan-tranche/
+  source: eu-startups
+  date_found: '2026-09-21'
+  parsed_company: Belgium’s Novadip Biosciences
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Metris Energy raises €4.35 million to scale AI platform for managing
+    renewable energy assets
+  url: https://www.eu-startups.com/2026/09/londons-metris-energy-raises-e4-35-million-to-scale-ai-platform-for-managing-renewable-energy-assets/
+  source: eu-startups
+  date_found: '2026-09-21'
+  parsed_company: London’s Metris Energy
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Unit1 Studio secures €23.3 million to scale avatar concerts beyond
+    the one-venue ABBA Voyage model
+  url: https://www.eu-startups.com/2026/09/londons-unit1-studio-secures-e23-3-million-to-scale-avatar-concerts-beyond-the-one-venue-abba-voyage-model/
+  source: eu-startups
+  date_found: '2026-09-21'
+  parsed_company: London’s Unit1 Studio
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Amsterdam’s Phosphoenix raises €1.3 million to advance neuroprosthesis for
     profound blindness
   url: https://www.eu-startups.com/2026/09/amsterdams-phosphoenix-raises-e1-3-million-to-advance-neuroprosthetic-system-for-people-with-profound-blindness/
