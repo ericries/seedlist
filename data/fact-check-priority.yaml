@@ -7034,3 +7034,23 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-18: participated in Adaptive Series B (2026-09-17) alongside Andreessen Horowitz, Tidemark, Pathlight, Definition, 3KVC.'
   added: 2026-09-18
+- slug: novadip-biosciences
+  type: startup
+  reason: 'Round monitoring 2026-09-21: Novadip Biosciences €10.4M convertible financing (2026-09-21) led by New Science Ventures with Fund+, Wallonie Entreprendre, VIVES Fund, ORSA Tech, Sambrinvest, Noshaq, Invest.BW. Unlocks €18M EIB venture debt tranche. Sources: EU-Startups, Novadip investors page.'
+  added: 2026-09-21
+- slug: fortell
+  type: startup
+  reason: 'Round monitoring 2026-09-21: Fortell $163M funding round (2026-09-16) with participation from Founders Fund, Thrive Capital, Valor Equity Partners. AI-powered hearing aids. Source: TechCrunch.'
+  added: 2026-09-21
+- slug: founders-fund
+  type: firm
+  reason: 'Round monitoring 2026-09-21: participated in Fortell $163M round (2026-09-16) alongside Thrive Capital, Valor Equity Partners.'
+  added: 2026-09-21
+- slug: thrive-capital
+  type: firm
+  reason: 'Round monitoring 2026-09-21: participated in Fortell $163M round (2026-09-16) alongside Founders Fund, Valor Equity Partners.'
+  added: 2026-09-21
+- slug: valor-equity-partners
+  type: firm
+  reason: 'Round monitoring 2026-09-21: participated in Fortell $163M round (2026-09-16) alongside Founders Fund, Thrive Capital (Antonio Gracias).'
+  added: 2026-09-21
