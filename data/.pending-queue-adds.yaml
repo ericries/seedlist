@@ -279,3 +279,34 @@
   firm: Polyphron
   priority: low
   discovered_from: polyphron
+- name: PT1 Ventures
+  type: firm
+  source: led Metris Energy €4.35M seed 2026-09-21; climate/proptech-focused fund
+  discovered_from: metris-energy
+  priority: high
+- name: AENU
+  type: firm
+  source: participant on Metris Energy €4.35M seed 2026-09-21; European climate impact fund
+  discovered_from: metris-energy
+  priority: normal
+- name: Blackfinch Ventures
+  type: firm
+  source: participant on Metris Energy €4.35M seed 2026-09-21; UK early-stage tech fund
+  discovered_from: metris-energy
+  priority: normal
+- name: Mercuri
+  type: firm
+  source: participant on Unit1 Studio £20M / €23.3M round 2026-09-21 (Balderton lead)
+  discovered_from: unit1-studio
+  priority: low
+- name: Gilston Music
+  type: firm
+  source: participant on Unit1 Studio £20M / €23.3M round 2026-09-21 (Balderton lead)
+  discovered_from: unit1-studio
+  priority: low
+- name: Paul McGuinness
+  type: individual
+  firm: Independent (former U2 manager)
+  source: angel participant on Unit1 Studio £20M / €23.3M round 2026-09-21 (Balderton lead)
+  discovered_from: unit1-studio
+  priority: low

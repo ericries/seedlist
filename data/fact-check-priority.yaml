@@ -1,4 +1,16 @@
 priority:
+- slug: balderton-capital
+  type: firm
+  reason: 'Round monitoring 2026-09-21: Unit1 Studio £20M / €23.3M equity + production financing round (2026-09-21) — led. Added portfolio row and citation.'
+  added: 2026-09-21
+- slug: metris-energy
+  type: startup
+  reason: 'Round monitoring 2026-09-21: new profile — €4.35M seed led by PT1 Ventures; participants Octopus Ventures, AENU, Blackfinch Ventures, Plug and Play, Love Ventures.'
+  added: 2026-09-21
+- slug: unit1-studio
+  type: startup
+  reason: 'Round monitoring 2026-09-21: new profile — £20M / €23.3M equity + production financing led by Balderton Capital; participants Mercuri, Gilston Music, Paul McGuinness.'
+  added: 2026-09-21
 - slug: khosla-ventures
   type: firm
   reason: 'Round monitoring 2026-09-18: Mazama Energy $135M Series B (2026-09-17) participant (returning investor); technology incubated at Khosla. Sources: TechCrunch, Mazama news page, Khosla portfolio page.'
@@ -6984,3 +6996,23 @@ priority:
   resolved: 2026-09-18
   resolution_note: 'Fact-spec sweep 2026-09-18: added Kastle Series A row and Angle Health Series C row to y-combinator.md portfolio table with 3 primary citations each. Kastle: [^kastle-yc1] kastle.ai company page, [^kastle-yc2] PR Newswire press release, [^kastle-yc3] Y Combinator company page for Kastle (Summer 2024 batch). Angle Health: [^ah-yc1] Angle Health company press release, [^ah-yc2] Town Hall Ventures "Why We Backed Angle Health" essay (2026-09-17), [^ah-yc3] PruVen Capital portfolio page. YC confirmed as returning participant in both rounds across all sources.'
   processed: '2026-09-18'
+- slug: ridgeline
+  type: startup
+  reason: 'Round monitoring 2026-09-18: Ridgeline $250M Series E at $1.425B valuation (2026-09-16) led by founder Dave Duffield with Motley Fool Ventures, Smead Capital, Patrick O'Shaughnessy. Sources: Ridgeline press release, Bloomberg, Crunchbase News weekly recap.'
+  added: 2026-09-18
+- slug: sling-therapeutics
+  type: startup
+  reason: 'Round monitoring 2026-09-18: Sling Therapeutics $123M Series C (2026-09-16) led by Forbion with TPG Life Sciences Innovations, Sectoral Asset Management. Sources: Sling company press release, Crunchbase News weekly recap.'
+  added: 2026-09-18
+- slug: adaptive-construction
+  type: startup
+  reason: 'Round monitoring 2026-09-18: Adaptive $30M Series B (2026-09-17) led by Tidemark with Emergence Capital, Andreessen Horowitz, Pathlight, Definition, 3KVC. Sources: Tidemark blog post, AlleyWatch daily funding report.'
+  added: 2026-09-18
+- slug: andreessen-horowitz
+  type: firm
+  reason: 'Round monitoring 2026-09-18: participated in Adaptive Series B (2026-09-17) alongside Emergence, Tidemark, Pathlight, Definition, 3KVC.'
+  added: 2026-09-18
+- slug: emergence-capital
+  type: firm
+  reason: 'Round monitoring 2026-09-18: participated in Adaptive Series B (2026-09-17) alongside Andreessen Horowitz, Tidemark, Pathlight, Definition, 3KVC.'
+  added: 2026-09-18
