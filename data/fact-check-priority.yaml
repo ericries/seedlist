@@ -3,14 +3,23 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-21: Unit1 Studio £20M / €23.3M equity + production financing round (2026-09-21) — led. Added portfolio row and citation.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Unit1 Studio £20M (€23.3M / $20M) equity + production financing round (2026-09-21) via 3 independent primary sources — EU-Startups [^unit1-1], Tech.eu [^unit1-2], TechFundingNews [^unit1-3]. Expanded balderton-capital.md portfolio row citation set from 1 to 3 sources. Confirmed Balderton as lead with Mercuri, Gilston Music, Paul McGuinness (former U2 manager) participating. Added Daniel Waterhouse (Balderton) quote and quote provenance to citations.'
 - slug: metris-energy
   type: startup
   reason: 'Round monitoring 2026-09-21: new profile — €4.35M seed led by PT1 Ventures; participants Octopus Ventures, AENU, Blackfinch Ventures, Plug and Play, Love Ventures.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Metris Energy €4.35M ($5M) Seed round (2026-09-21) via 3 independent primary sources — EU-Startups [^1], Tech.eu [^2], PT1 Ventures Stories [^3] (primary investor source). PT1 Ventures lead confirmed with Octopus Ventures, AENU, Blackfinch Ventures, Plug and Play, Love Ventures participating. Added founder Natasha Jones (CEO) to frontmatter and body; expanded About section with product details (10,000+ solar plants, 500MW capacity, 8x YoY revenue growth); added verbatim Natasha Jones quote from Tech.eu. Total funding to date: $7.5M.'
 - slug: unit1-studio
   type: startup
   reason: 'Round monitoring 2026-09-21: new profile — £20M / €23.3M equity + production financing led by Balderton Capital; participants Mercuri, Gilston Music, Paul McGuinness.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Unit1 Studio £20M (€23.3M / $20M) equity + production financing round (2026-09-21) via 3 independent primary sources — EU-Startups [^1], Tech.eu [^2], TechFundingNews [^3]. Balderton Capital lead confirmed with Mercuri, Gilston Music, Paul McGuinness (former U2 manager) participating. Added founders Barney Wragg (CEO), Jonathan Butterell (Creative Director), Pavle Mihajlovic (Technical Director) to frontmatter and body. Added Daniel Waterhouse (Balderton GP) quote to What Investors Say and Barney Wragg (CEO) quote to What Founders Say.'
 - slug: khosla-ventures
   type: firm
   reason: 'Round monitoring 2026-09-18: Mazama Energy $135M Series B (2026-09-17) participant (returning investor); technology incubated at Khosla. Sources: TechCrunch, Mazama news page, Khosla portfolio page.'
@@ -5257,14 +5266,23 @@ priority:
   type: firm
   reason: participated in Hadrian Series D extension $1.37B (2026-08-06)
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Hadrian $1.37B Series D extension (2026-08-06) at $7.87B post-money valuation via 3 independent primary sources — Hadrian PR Newswire press release [^hadrian-a1], TechCrunch [^hadrian-a2], Washington Technology [^hadrian-a3]. Added Series D extension portfolio row to andreessen-horowitz.md listing a16z as returning-investor participant alongside Founders Fund, Lux Capital, Altimeter, Construct Capital, 1789 Capital, Morgan Stanley Wealth Management, Apollo, T. Rowe Price, CapitalG; anchor co-leads: JPMorganChase Strategic Investment Group, WCM Investment Management, Washington Harbour Partners, Valor Equity Partners, 137 Ventures, Baillie Gifford.'
 - slug: founders-fund
   type: firm
   reason: participated in Hadrian Series D extension $1.37B (2026-08-06)
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Hadrian $1.37B Series D extension (2026-08-06) at $7.87B post-money valuation via 3 independent primary sources — Hadrian PR Newswire press release [^hadrian-ff1], TechCrunch [^hadrian-ff2], Washington Technology [^hadrian-ff3]. Added Series D extension portfolio row to founders-fund.md listing Founders Fund as returning-investor participant alongside Andreessen Horowitz, Lux Capital, Altimeter, Construct Capital, 1789 Capital, Morgan Stanley Wealth Management, Apollo, T. Rowe Price, CapitalG.'
 - slug: lux-capital
   type: firm
   reason: participated in Hadrian Series D extension $1.37B (2026-08-06)
   added: 2026-08-06
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Hadrian $1.37B Series D extension (2026-08-06) at $7.87B post-money valuation via 3 independent primary sources — Hadrian PR Newswire press release [^hadrian-lx1], TechCrunch [^hadrian-lx2], Washington Technology [^hadrian-lx3]. Added Series D extension portfolio row to lux-capital.md listing Lux Capital as returning-investor participant alongside Andreessen Horowitz, Founders Fund, Altimeter, Construct Capital, 1789 Capital, Morgan Stanley Wealth Management, Apollo, T. Rowe Price, CapitalG.'
 - slug: civilgrid
   type: startup
   reason: newly published from round monitoring 2026-08-30 ($26M Series A, 2026-08-27)
@@ -6998,7 +7016,7 @@ priority:
   processed: '2026-09-18'
 - slug: ridgeline
   type: startup
-  reason: 'Round monitoring 2026-09-18: Ridgeline $250M Series E at $1.425B valuation (2026-09-16) led by founder Dave Duffield with Motley Fool Ventures, Smead Capital, Patrick O'Shaughnessy. Sources: Ridgeline press release, Bloomberg, Crunchbase News weekly recap.'
+  reason: 'Round monitoring 2026-09-18: Ridgeline $250M Series E at $1.425B valuation (2026-09-16) led by founder Dave Duffield with Motley Fool Ventures, Smead Capital, Patrick OShaughnessy. Sources: Ridgeline press release, Bloomberg, Crunchbase News weekly recap.'
   added: 2026-09-18
 - slug: sling-therapeutics
   type: startup
