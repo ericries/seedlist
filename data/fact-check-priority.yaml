@@ -9424,3 +9424,11 @@ priority:
   resolved: 2026-09-21
   resolution_note: 'Fact-spec sweep 2026-09-21: verified Fortell $163M growth round (2026-09-16) via 3 independent primary sources: TechCrunch [^1] (2026-09-16, primary tier-1 press with verbatim Matthew de Jonge founder quote: "Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?"), NEW Fortell company website [^2] (primary company source confirming AI 2.0 prescription hearing aid product, clinical trial claims — 10x more words understood, 98% background noise elimination, 95% preference over five competitors — and Trae Stephens/Founders Fund Partner verbatim endorsement: "It was honestly the best hardware demo I''ve seen in my 11 and a half years at Founders Fund"), and NEW Founders Fund portfolio page [^3] (primary lead-investor source confirming Fortell as portfolio company). Expanded profile with launch locations (New York, Greenwich, Boston, Palm Beach), founder background (six years building), and clinical trial specifics. Added Fortell rows to founders-fund.md, thrive-capital.md, and valor-equity-partners.md portfolio tables with 3 primary citations each. Thrive Capital frontmatter last_verified_investment set to Fortell (2026-09-16). Founders Fund and Valor last_verified_investment retained at Crusoe (2026-09-17, later). Currency preserved (USD).'
   processed: '2026-09-21'
+- slug: biorsaf
+  type: startup
+  reason: "Round monitoring 2026-09-21: created profile for €5.2M Series A (2026-09-10) led by P101 SGR"
+  added: 2026-09-21
+- slug: gravity-gardens
+  type: startup
+  reason: "Round monitoring 2026-09-21: created profile for €2.6M Seed (2026-09-09) led by VP Capital"
+  added: 2026-09-21

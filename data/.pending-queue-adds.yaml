@@ -343,3 +343,50 @@
   source: participated in Feldera seed round 2026-09-21; Databricks and Anyscale co-founder
   discovered_from: feldera
   priority: normal
+- name: P101 SGR
+  type: firm
+  source: led Biorsaf €5.2M Series A 2026-09-10
+  discovered_from: biorsaf
+  priority: high
+- name: Maia Ventures
+  type: firm
+  source: participated in Biorsaf €5.2M Series A 2026-09-10
+  discovered_from: biorsaf
+  priority: normal
+- name: Farming Future
+  type: firm
+  source: participated in Biorsaf €5.2M Series A 2026-09-10 (CDP Venture Capital AgriFood Tech transfer hub)
+  discovered_from: biorsaf
+  priority: normal
+- name: Toscana Next
+  type: firm
+  source: participated in Biorsaf €5.2M Series A 2026-09-10 (regional innovation fund)
+  discovered_from: biorsaf
+  priority: low
+- name: VP Capital
+  type: firm
+  source: led Gravity Gardens €2.6M Seed 2026-09-09
+  discovered_from: gravity-gardens
+  priority: high
+- name: Brightlands Venture Partners
+  type: firm
+  source: participated in Gravity Gardens €2.6M Seed 2026-09-09
+  discovered_from: gravity-gardens
+  priority: normal
+- name: Graduate Ventures
+  type: firm
+  source: participated in Gravity Gardens €2.6M Seed 2026-09-09
+  discovered_from: gravity-gardens
+  priority: normal
+- name: Marco Papalini
+  type: individual
+  firm: Biorsaf
+  source: CEO and Co-Founder of Biorsaf; €5.2M Series A led by P101 2026-09-10
+  discovered_from: biorsaf
+  priority: low
+- name: Paulino Valdés
+  type: individual
+  firm: Gravity Gardens
+  source: CEO and Co-Founder of Gravity Gardens; €2.6M Seed led by VP Capital 2026-09-09
+  discovered_from: gravity-gardens
+  priority: low
