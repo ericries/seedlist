@@ -1,7 +1,7 @@
 ---
 founded: 2010
 fund_size: $2.3B AUM (as of April 2025); $140M flagship fund (2021)
-last_researched: 2026-05-11
+last_researched: 2026-09-21
 location: Palo Alto, CA
 name: 500 Global
 sector_focus:

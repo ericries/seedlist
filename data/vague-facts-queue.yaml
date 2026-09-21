@@ -559,7 +559,9 @@ vague_facts:
   line: '| Bukalapak | Series A (undisclosed amount; announced 2014-02-13; Aucfan (Japan) contributed ~USD 300K per DailySocial; '
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: 2014-02-13 announcement, Series A (follow-on to Sep 2012 Series A from GREE Ventures), Aucfan (Japan) + 500 Startups as new investors, GREE Ventures returning, IREP participating, ~USD 300K Aucfan contribution per DailySocial. Re-verified via 3 independent primary sources: Yahoo Finance SG syndicating e27 [^73] (RE-FETCHED 2026-09-21, primary Southeast Asia tech press confirming 2014-02-13 date, Aucfan+500 Startups new, GREE Ventures returning, plus verbatim Khailee Ng/500 Startups quote: "What their team has achieved in such a short amount of time speaks volumes about what they can achieve in coming years. We''re always looking for tomorrow''s global champions and we see this in Bukalapak."), DealStreetAsia [^74] (regional VC trade press retrospectively confirming 2014-02-13 as Bukalapak Series A round preceding Feb 2015 Emtek Series B), and 500 Global SEA portfolio page [^15] (primary firm-side source listing Bukalapak among "First 50 investments" during 500 Durians I fund period). Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Carousell
@@ -569,7 +571,9 @@ vague_facts:
   line: '| Carousell | Seed (S$1M / USD 800K; Rakuten led (Rakuten Ventures); 500 Startups, Golden Gate Ventures, Danny Oei Wiria'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: 2013-11-13 date, S$1M / USD 800K seed, Rakuten Ventures led, participants 500 Startups + Golden Gate Ventures + Danny Oei Wirianto + Darius Cheung, founders Quek Siu Rui + Lucas Ngoo + Marcus Tan. Re-verified via 3 independent primary sources: TechCrunch [^81] (RE-FETCHED 2026-09-21, tier-1 primary press for 2013-11-13 seed, confirming S$1M/USD 800K, Rakuten Ventures lead, Golden Gate Ventures + 500 Startups + Danny Oei Wirianto + Darius Cheung participants, founders confirmed), TechCrunch Series A retrospective [^82] (RE-FETCHED 2026-09-21, 2014-11-26 Series A article retrospectively confirms 500 Startups as returning seed investor from Rakuten-led 2013 seed), and NUS News independent university profile [^83] (confirms same seed and Series A investor lineup, plus founder biographies). Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Lucidchart
@@ -603,7 +607,9 @@ vague_facts:
   line: '| Insider | Series A follow-on (500 Startups joined the round after initial close; the USD 2.2M Series A closed 2016-09-'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs only). Row is fully specific: 2017-02-14 500 Startups follow-on announcement date, USD 2.2M Series A initial close 2016-09-19 (lead-source disagreement noted — 212 per TechCrunch, Wamda Capital per Wamda), participants Oncu GSYO (Dogan Group) + Galata Business Angels (Melih Odemis + Emre Kurttepeli + Erinc Ozada). Re-verified via 3 independent primary sources: Insider One primary company press release [^78] (RE-FETCHED 2026-09-21, confirms 2017-02-14 500 Startups follow-on announcement, USD 3.3M total funding since 2012 launch, verbatim Rina Onur/500 Startups General Partner quote about Hande Cilingir), TechCrunch [^79] (RE-FETCHED 2026-09-21, primary contemporaneous tech press for 2016-09-19 Series A close naming 212 as lead — critically confirms 500 Startups was NOT in initial close, establishing 2017-02-14 as correct date for 500 Startups'' Insider investment), and Wamda [^80] (independent second primary source naming Wamda Capital as lead — lead-source disagreement noted in row; both agree 500 Startups was not part of the initial 2016-09-19 close). Row remains accurate as-is; no profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Konfio
