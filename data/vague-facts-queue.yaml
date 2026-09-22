@@ -170507,7 +170507,9 @@ vague_facts:
   line: '| Mar 2008 | Series C | ~$36.8M | — | In-Q-Tel, REV [^3] [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: tightened Series C row. Verified via 3 sources — Tracxn [^3] (Mar 2008, $36.8M, In-Q-Tel + REV named), TechCrunch retrospective [^5] (2008 Series C, participants), and Timelines wiki [^6] which compiles SEC Form D filings and gives exact date 2008-02-28 amount $36,752,410. Updated date "Mar 2008" -> "2008-02-28" and amount "~$36.8M" -> "$36.8M". No source identifies a formal lead investor for this round; changed value from "—" to explicit "Not publicly disclosed" for clarity. In-Q-Tel and REV remain confirmed participants.'
 - profile: startups/palantir
   profile_name: Palantir Technologies
   company: May 2011
@@ -170517,7 +170519,9 @@ vague_facts:
   line: '| May 2011 | Series E | $50M | — | — [^3] [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: tightened Series E row. Verified via 3 sources — Tracxn [^3] (Apr 20 2011, $50M, no lead disclosed), TechCrunch retrospective [^5] (May 2011 Series E, no lead disclosed), and Timelines wiki [^6] which compiles SEC Form D filings and gives exact date 2011-05-05. Updated date "May 2011" -> "2011-05-05". Multiple contemporaneous press searches (TechCrunch, Reuters, Forbes) do not disclose a formal lead investor or participant list — Palantir kept participation private for this round. Changed values from "—" to explicit "Not publicly disclosed" for clarity. Lead investor and participant list remain unresolvable via publicly available primary sources.'
 - profile: startups/palantir
   profile_name: Palantir Technologies
   company: Oct 2011
@@ -170527,7 +170531,9 @@ vague_facts:
   line: '| Oct 2011 | Series F | $68M | — | — [^3] [^7] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: tightened Series F row and corrected amount discrepancy. Verified via 3 sources — TechCrunch contemporaneous coverage [^7] (Leena Rao, 2011-10-06, title literally says "$70 Million At $2.5 Billion Valuation" and content states "two unnamed New York-based hedge funds anchored the round"), Tracxn [^3] (Sep 8 2011, $68M, no lead disclosed — aggregator figure post-close), and Timelines wiki [^6] which compiles Form D filings and gives 2011-10-06 $70M. Updated (a) date "Oct 2011" -> "2011-10-06" (announcement date), (b) amount "$68M" -> "$70M" (contemporaneous primary press number, aligns with the [^7] citation title that was already in-profile), and (c) lead "—" -> "Two undisclosed NY-based hedge funds" (verbatim from TechCrunch [^7]). Used existing [^6] Timelines wiki citation as the third supporting source (no new footnote needed).'
 - profile: startups/palantir
   profile_name: Palantir Technologies
   company: Sep 2013

@@ -87,10 +87,10 @@ Palantir Technologies is a data analytics and software company founded in 2003 b
 |------|-------|--------|------|-------------|
 | Jun 2006 | Series A | $7.5M | Oakhouse Partners | Pensco [^3] |
 | Nov 2006 | Series B | $10.5M | REV | — [^3] |
-| Mar 2008 | Series C | ~$36.8M | — | In-Q-Tel, REV [^3] [^5] |
+| 2008-02-28 | Series C | $36.8M | Not publicly disclosed | In-Q-Tel, REV [^3] [^5] [^6] |
 | Nov 2009 | Series D | $90M | Founders Fund | Glynn Capital, Ulu Ventures, Youniversity Ventures, Jeremy Stoppelman, Ben Ling [^3] [^6] |
-| May 2011 | Series E | $50M | — | — [^3] [^5] |
-| Oct 2011 | Series F | $68M | — | — [^3] [^7] |
+| 2011-05-05 | Series E | $50M | Not publicly disclosed | Not publicly disclosed [^3] [^5] [^6] |
+| 2011-10-06 | Series F | $70M | Two undisclosed NY-based hedge funds | — [^3] [^6] [^7] |
 | Oct 2012 | Series G | $56M | Founders Fund | Glynn Capital, Ulu Ventures, Youniversity Ventures, Jeremy Stoppelman, Ben Ling [^8] |
 | Sep 2013 | Series H | $196.5M | — | — [^3] [^5] |
 | Feb 2014 | Growth | $111.3M | — | Ken Langone, Stanley Druckenmiller [^2] [^1] |
