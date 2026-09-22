@@ -77,7 +77,7 @@ Based on MaC Venture Capital's verified portfolio, the firm operates as a genera
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Pipe | Seed | 2020 | Fintech | Active | [^3][^12] |
-| Stoke Space | Seed | 2021 | Aerospace | Active | [^3][^13] |
+| Stoke Space | Seed ($9.1M; NFX and MaC co-led) | 2021-02 | Aerospace | Active | [^3][^13][^30] |
 | Chef Robotics | Seed | 2021 | Food/Robotics | Active | [^3][^14] |
 | Wonder Dynamics | Seed | 2021 | Media/AI | Acquired (Autodesk) | [^3][^15] |
 | Blavity | Seed | 2016 | Media | Active | [^16][^10] |
@@ -151,3 +151,4 @@ Armando Diaz of Purestream said: "After one of my first conversations with Marlo
 [^27]: The Next Web, "Critical Energy raises $22M for factory-built geothermal," June 17, 2026, accessed June 2026. https://thenextweb.com/news/critical-energy-22-million-modular-geothermal-turbines — Lists MaC Venture Capital as participant alongside Susquehanna Sustainable Investments, Humba Ventures, Scribble Ventures, and Underground Ventures in the $19M seed co-led by Susa Ventures and Upfront Ventures.
 [^28]: Business Model Analyst, "SpaceX alum raised $22M to mass-produce geothermal turbines," June 2026, accessed June 2026. https://businessmodelanalyst.com/critical-energy-geothermal-turbines-22m/ — Independent confirmation of MaC Venture Capital participation.
 [^29]: Mezha, "Critical Energy raises $19M seed to build modular geothermal turbines," June 2026, accessed June 2026. https://mezha.net/eng/bukvy/9c01ba4f_critical_energy_raises/ — Independent confirmation of MaC Venture Capital participation in the $19M seed.
+[^30]: NFX, "Why NFX Doubled Down on Stoke: Developing the Most Robust Fully Reusable Rocket," accessed September 2026. https://www.nfx.com/post/why-nfx-invested-stoke-space — NFX (co-lead) primary source confirming that NFX and MaC Venture Capital co-led Stoke Space's $9.1M seed round in February 2021. Independent co-investor confirmation of MaC's lead role.

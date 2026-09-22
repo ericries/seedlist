@@ -67,7 +67,7 @@ Based on Octahedron Capital's Q4 2025 13F filing (16 public holdings, $147 milli
 
 | Company | Year | Stage | Source |
 |---------|------|-------|--------|
-| Databricks | 2021 | Series G | [^5] |
+| Databricks | 2021-02-01 | Series G ($1B at $28B valuation; Franklin Templeton lead; Octahedron listed among participants) | [^5][^7][^8] |
 | Monzo Bank | 2022 | Venture | [^5] |
 | Databricks | 2023 | Series I | [^5] |
 | Pine Labs | ~2021 | Late Stage | [^5] |
@@ -114,3 +114,5 @@ No independently sourced founder testimonials found.
 [^4]: StockZoa, "Octahedron Capital Management 13F filings and top holdings," Q4 2025 filing, accessed March 2026. https://stockzoa.com/fund/octahedron-capital-management-lp/
 [^5]: CB Insights, "Octahedron Capital Portfolio Investments," accessed March 2026. https://www.cbinsights.com/investor/octahedron-capital
 [^6]: Twitter/X, Albert Chiang (@albertjchiang), accessed March 2026. https://x.com/albertjchiang
+[^7]: Databricks press release, "Databricks Raises $1 Billion Series G Investment at $28 Billion Valuation," February 1, 2021, accessed September 2026. https://www.databricks.com/company/newsroom/press-releases/databricks-raises-1-billion-series-g-investment-at-28-billion-valuation — Company-authoritative announcement of the $1B Series G led by Franklin Templeton at $28B post-money valuation. Full participant list includes "Octahedron Capital" among existing investors participating in the round.
+[^8]: TechCrunch (Ron Miller and Alex Wilhelm), "Databricks raises $1B at $28B valuation as it reaches $425M ARR," February 1, 2021, accessed September 2026. https://techcrunch.com/2021/02/01/databricks-raises-1b-at-28b-valuation-as-it-reaches-425m-arr/ — Contemporaneous tier-1 tech press confirming February 1, 2021 announcement of $1B Series G led by Franklin Templeton at $28B post-money valuation. Note: A third independent primary source (Reuters, Bloomberg, Forbes) was attempted but blocked by paywall/403; Databricks press release and TechCrunch verified directly; Wikipedia's Databricks article also cross-references February 2021 Franklin Templeton lead at $28B.

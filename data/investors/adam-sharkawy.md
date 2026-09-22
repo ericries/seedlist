@@ -96,7 +96,7 @@ Based on 34 verified portfolio companies listed on Material Impact's website [^6
 | Infinite Cooling | 2021 | Series A (led) | [^12] |
 | Koloma | ~2021 | Early stage | [^15] |
 | Nauticus Robotics | ~2020 | Early stage | [^16] |
-| Gen Phoenix | 2023 | Growth (led) | [^17] |
+| Gen Phoenix | 2023-04-04 | Growth ($18M, led; Tapestry (Coach), Jaguar Land Rover (InMotion Ventures), Dr. Martens, Hermès participated) | [^17][^29] |
 | DetraPel | 2023 | Series A (led) | [^18] |
 | Sonera Magnetics | 2023 | Seed | [^19] |
 | Talus Renewables | 2023 | Series A (co-led) | [^20] |
@@ -164,3 +164,5 @@ No additional independently sourced founder testimonials found beyond the firm's
 [^26]: Tracxn, "Folio Photonics - 2026 Funding Rounds & List of Investors," accessed March 2026. https://tracxn.com/d/companies/foliophotonics/__IuDaRjrNDWrfRs0OMnomci39ESIK6lQEJoCWJzsB-7I/funding-and-investors
 [^27]: Vator.tv, "NextGen Jane CEO on expanding access to care and pushing back on the normalization of women's pain," April 1, 2019, accessed July 2026. https://vator.tv/2019-04-03-nextgen-jane-ceo-on-expanding-access-to-care-and-pushing-back-on-the-normalization-of-womens-pain/ — Independent confirmation of April 1, 2019 announcement, $9M Series A led by Material Impact with Access Industries, Viking Global Investors, and Liminal Ventures participating; total funding raised to $11M.
 [^28]: MobiHealthNews, "Reproductive health platform NextGen Jane lands $9M in Series A funding," April 2, 2019, accessed July 2026. https://www.mobihealthnews.com/news/reproductive-health-platform-nextgen-jane-lands-9m-series-funding — Independent tier-1 healthcare press confirmation of the $9M Series A led by Material Impact with Access Industries, Viking Global Investors, and Liminal Ventures participating.
+
+[^29]: Material Impact press page, listing "Gen Phoenix's upcycled leather woos luxury brand investors," dated April 19, 2023 (TechCrunch coverage date). https://www.materialimpact.com/press/ — Firm-authoritative confirmation that Material Impact led the April 2023 $18M growth round with Tapestry (Coach), Jaguar Land Rover (InMotion Ventures), Dr. Martens, and Hermès participating. Accessed September 2026.

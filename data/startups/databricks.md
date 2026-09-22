@@ -24,6 +24,7 @@ firms:
 - round: Series G
   slug: octahedron-capital
   year: 2021
+  date: 2021-02-01
 - round: '2023'
   slug: lux-capital
   year: 2023
@@ -92,6 +93,7 @@ investors:
 - round: Series G
   slug: albert-chiang
   year: 2021
+  date: 2021-02-01
 - round: '2023'
   slug: josh-wolfe
   year: 2023
@@ -144,7 +146,7 @@ Databricks was founded in 2013 by seven UC Berkeley researchers: Ali Ghodsi, Ion
 | Series D | 2017-08-22 | $140M | Not officially disclosed (Forbes reported the company "sought a valuation in the ballpark of $900 million") | Andreessen Horowitz | NEA, Battery Ventures, Future Fund Investment Co., A.Capital Partners, Geodesic Capital, Green Bay Ventures [^9][^30][^31][^32] |
 | Series E | Feb 2019 | $250M | $2.75B | Andreessen Horowitz | Coatue Management, Microsoft, NEA, Battery Ventures, Green Bay Ventures, Geodesic [^10] |
 | Series F | Oct 2019 | $400M | $6.2B | Andreessen Horowitz | Alkeon Capital, BlackRock, Coatue, Dragoneer, Geodesic, Green Bay Ventures, Microsoft, NEA, T. Rowe Price, Tiger Global [^11] |
-| Series G | Feb 2021 | $1B | $28B | Franklin Templeton | CPP Investments, Fidelity, Whale Rock, AWS, CapitalG, Salesforce Ventures, Microsoft, Andreessen Horowitz, BlackRock, Coatue, T. Rowe Price, Tiger Global [^12] |
+| Series G | 2021-02-01 | $1B | $28B | Franklin Templeton | CPP Investments, Fidelity, Whale Rock, AWS, CapitalG, Salesforce Ventures, Microsoft, Andreessen Horowitz, BlackRock, Coatue, T. Rowe Price, Tiger Global, Octahedron Capital [^12][^36] |
 | Series H | Aug 2021 | $1.6B | $38B | Morgan Stanley (Counterpoint Global) | Baillie Gifford, ClearBridge, UC Investments, Andreessen Horowitz, BlackRock, CPP Investments, Coatue, Fidelity, Franklin Templeton, GIC, T. Rowe Price [^13] |
 | Series I | 2023-09-14 | $500M+ | $43B | T. Rowe Price | Capital One Ventures, Ghisallo Capital, Ontario Teachers' Pension Plan, NVIDIA (new); Andreessen Horowitz, Baillie Gifford, ClearBridge, Counterpoint Global (Morgan Stanley), Fidelity, Franklin Templeton, GIC, Octahedron Capital, Tiger Global (existing) [^14][^25][^26] |
 | Series J | 2024-12-17 | $10B | $62B | Thrive Capital | Andreessen Horowitz, DST Global, GIC, Insight Partners, WCM Investment Management, Ontario Teachers' Pension Plan, ICONIQ Growth, MGX, Sands Capital, Wellington Management [^15][^19][^20] |
@@ -222,3 +224,5 @@ Ben Horowitz has also spoken about co-founder Matei Zaharia, calling him one of 
 [^34]: TechCrunch (Marina Temkin), "Databricks hits $188B valuation, extending its run as AI's favorite second act," July 17, 2026, accessed July 20, 2026. https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/ — Contemporaneous press confirming ~$3B strategic round at $188B valuation led by Coatue Management, up from $134B in February 2026.
 
 [^35]: Bloomberg, "Coatue Leads Databricks Funding at $188 Billion Valuation," July 17, 2026, accessed July 20, 2026. https://www.bloomberg.com/news/articles/2026-07-17/coatue-leads-databricks-funding-round-at-188-billion-valuation — Contemporaneous press confirming Coatue as lead and $188B post-money valuation.
+
+[^36]: TechCrunch (Ron Miller and Alex Wilhelm), "Databricks raises $1B at $28B valuation as it reaches $425M ARR," February 1, 2021, accessed September 2026. https://techcrunch.com/2021/02/01/databricks-raises-1b-at-28b-valuation-as-it-reaches-425m-arr/ — Contemporaneous tier-1 tech press confirming February 1, 2021 announcement of $1B Series G led by Franklin Templeton at $28B post-money valuation. Confirms the same participant list as Databricks' own press release.

@@ -108,7 +108,7 @@ Portfolio entries below are attributed to Adrian Fenty based on the MaC VC portf
 | Electric Capital | ~2020 | Seed | Fintech / Crypto | [^14] |
 | Citizen | ~2020 | Seed | Consumer / Safety | [^14] |
 | BlocPower | ~2020 | Seed | Climate / Real Estate | [^14] |
-| Stoke Space | 2021 | Seed | Aerospace | [^19] |
+| Stoke Space | 2021-02 | Seed ($9.1M; NFX and MaC co-led) | Aerospace | [^19] |
 | Wonder Dynamics (acq. Autodesk 2024) | 2021 | Seed | Enterprise / VFX | [^17] |
 | Epsilon3 | 2021 | Seed | Aerospace / SaaS | [^22] |
 | Formative | ~2021 | Seed | EdTech | [^14] |

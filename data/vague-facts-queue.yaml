@@ -31379,7 +31379,9 @@ vague_facts:
   line: '| Gen Phoenix | 2023 | Growth (led) | [^17] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: pinned Gen Phoenix growth round date from "2023" to "2023-04-04" via 2 independent primary sources — TechCrunch (Christine Hall, April 4, 2023) [^17] and Material Impact press page (April 19, 2023 listing) [^29]. Confirmed $18M growth round led by Material Impact with Tapestry (Coach), Jaguar Land Rover (via InMotion Ventures), Dr. Martens, and Hermès participating. Third primary source could not be independently confirmed within web budget (Sourcing Journal/WWD paywalled/redirected; TapestryNews, JaguarLandRover.com press pages returned 404; PR Newswire lookups returned 404). Row updated with date, amount, lead, and participant detail; new citation [^29] added.'
 - profile: investors/adam-sharkawy
   profile_name: Adam Sharkawy
   company: DetraPel
@@ -31549,7 +31551,9 @@ vague_facts:
   line: '| Stoke Space | 2021 | Seed | Aerospace | [^19] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: tightened Stoke Space seed year from "2021" to "2021-02" via NFX blog "Why NFX Doubled Down on Stoke" [^19] — NFX (co-lead) primary source confirms $9.1M seed round in February 2021 with MaC Venture Capital as co-lead. Row updated to include $9.1M amount and NFX/MaC co-lead detail. LIMITED SOURCING: Only 1 primary source verified within web budget; TechCrunch/GeekWire/SpaceNews/parabolicarc contemporaneous URLs returned 404/429/blocked, and Stoke Space company news page only lists items from 2023 onward. NFX co-invested in the round so its blog is a co-investor primary. Cannot pin exact day within Feb 2021 without additional sources; "2021-02" (month) is the safest precision from single-source confirmation. Item may be reopened when TechCrunch archive URL becomes available.'
 - profile: investors/adrian-fenty
   profile_name: Adrian Fenty
   company: Wonder Dynamics (acq. Autodesk 2024)
@@ -32359,7 +32363,9 @@ vague_facts:
   line: '| Databricks | 2021 | Series G | [^5] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: pinned Databricks Series G date from "2021" to "2021-02-01" via 2 independent primary sources — Databricks press release (company-authoritative, confirms Franklin Templeton lead, $1B, $28B post-money, Octahedron Capital listed among existing investors participating) [^7] and TechCrunch [^8] (Ron Miller & Alex Wilhelm, 2021-02-01, contemporaneous tier-1 tech press confirming the same facts). Wikipedia cross-references Feb 2021 Franklin Templeton lead. Third primary source (Reuters, Bloomberg, Forbes) blocked by paywall/403; documented in [^8] source note. Row updated to "2021-02-01 | Series G ($1B at $28B valuation; Franklin Templeton lead; Octahedron listed among participants)" with citations [^5][^7][^8].'
 - profile: investors/albert-chiang
   profile_name: Albert Chiang
   company: Monzo Bank
