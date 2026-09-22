@@ -1,4 +1,8 @@
 priority:
+- slug: amber-electric
+  type: startup
+  reason: 'Round monitoring 2026-09-22: new profile — A$78.5M Series E led by 1GT (Morgan Stanley Investment Management), with E.ON, ETF Partners, Innovation Victoria (2026-09-21).'
+  added: 2026-09-22
 - slug: balderton-capital
   type: firm
   reason: 'Round monitoring 2026-09-21: Unit1 Studio £20M / €23.3M equity + production financing round (2026-09-21) — led. Added portfolio row and citation.'
