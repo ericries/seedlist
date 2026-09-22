@@ -390,3 +390,18 @@
   source: CEO and Co-Founder of Gravity Gardens; €2.6M Seed led by VP Capital 2026-09-09
   discovered_from: gravity-gardens
   priority: low
+- name: Xora Innovation
+  type: firm
+  source: lead investor on Nexstrom Seed 2026-09-22 ($12M); Temasek deep-tech venture-building arm
+  discovered_from: nexstrom
+  priority: normal
+- name: Foothill Ventures
+  type: firm
+  source: co-investor on Nexstrom Seed 2026-09-22 ($12M)
+  discovered_from: nexstrom
+  priority: normal
+- name: SEEDS Capital
+  type: firm
+  source: co-investor on Nexstrom Seed 2026-09-22 ($12M); Singapore Enterprise Singapore fund
+  discovered_from: nexstrom
+  priority: normal

@@ -9606,3 +9606,8 @@ priority:
   type: startup
   reason: "Series A extension $35M (2026-09-22); total_raised discrepancy — prior $47M vs CEO ~$40M"
   added: 2026-09-22
+- slug: nexstrom
+  type: startup
+  reason: |
+    Round monitoring 2026-09-22: new profile — $12M Seed led by Xora Innovation with Foothill Ventures, SEEDS; total 2026 raise US$15M ($12M equity + $3M non-dilutive).
+  added: 2026-09-23
