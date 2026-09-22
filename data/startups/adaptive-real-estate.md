@@ -36,7 +36,7 @@ last_researched: 2026-09-21
 
 ## About
 
-Adaptive is an agentic accounting platform for construction finance teams that automates job costing, accounts payable, billing, work-in-progress reporting, payments, and compliance workflows [^1]. The company was founded by Matthew Calvano, Henry Bradlow, and Francisco Enriquez [^1]. On 2026-09-17, Adaptive announced a $30 million Series B round led by Tidemark with participation from Emergence Capital, Andreessen Horowitz, Pathlight, Definition, and 3KVC, bringing total funding raised to $57 million [^1].
+Adaptive is an agentic accounting platform for construction finance teams that automates job costing, accounts payable, billing, work-in-progress reporting, payments, and compliance workflows [^1][^2][^3]. The company was co-founded in 2021 by Matthew (Matt) Calvano (CEO), Henry Bradlow, and Francisco (Frank) Enriquez, and reports more than 750 construction customers with annual revenue ranging from $5 million to $1 billion, 40+ accounting firm partnerships, and support for 10+ accounting systems [^2][^3]. Emergence Capital categorizes Adaptive under its "Agentic Software" thesis, notes Kevin Spain as the responsible investor, and dates the Emergence partnership to 2024 [^3]. On 2026-09-17, Adaptive announced a $30 million Series B round led by Tidemark with participation from Emergence Capital, Andreessen Horowitz, Pathlight, Definition, and 3KVC, bringing total funding raised to $57 million [^1][^2]. Proceeds will expand Boston- and New York-based teams and extend the platform's AI-agent accounting workforce [^2].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -44,16 +44,24 @@ Adaptive is an agentic accounting platform for construction finance teams that a
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-17 | Series B | $30M | Tidemark | Emergence Capital, Andreessen Horowitz, Pathlight, Definition, 3KVC [^1] |
+| 2026-09-17 | Series B | $30M | Tidemark | Emergence Capital, Andreessen Horowitz, Pathlight, Definition, 3KVC [^1][^2] |
 
 ## What Investors Say
 
-No independently sourced investor quotes found at this time.
+"Adaptive is one of the clearest examples we've found of a System of Action: it doesn't just help construction finance teams do the work, it increasingly does the work itself." — Dave Yuan, Founder & Partner, Tidemark, quoted in Adaptive's Series B announcement, September 17, 2026 [^2]
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+"Why We Built an AI Project Accountant, and Raised $30M to Build More of It." — Matt Calvano, Co-Founder & CEO, Adaptive, company blog post announcing the Series B, September 17, 2026 [^2]
+
+Two Adaptive customers provided testimonials in the announcement:
+
+"I worked with Adaptive's customer success team to build an outstanding expense agent using the AI Assistant, one that goes out to our team on a schedule." — Sarah Evans, Arrowhead Construction, September 17, 2026 [^2]
+
+"Every contractor we work with wants the same thing: a close they can trust, delivered on time." — Jared Westergard, Blackline Financial, September 17, 2026 [^2]
 
 ## Sources
 
 [^1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/17/2026," September 17, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-17-2026/
+[^2]: Matt Calvano, "Why We Built an AI Project Accountant, and Raised $30M to Build More of It," Adaptive company blog, September 17, 2026. Accessed September 22, 2026. https://www.adaptive.build/blog/why-we-built-an-ai-project-accountant-and-raised-30m-to-build-more-of-it
+[^3]: Emergence Capital portfolio page, "Adaptive — Agentic Software; Founded 2021; Emergence partnered 2024; Kevin Spain lead," emcap.com. Accessed September 22, 2026. https://www.emcap.com/portfolio/adaptive

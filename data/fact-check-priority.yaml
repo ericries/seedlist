@@ -9570,6 +9570,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-21: new profile — $30M Series B led by Tidemark; participants Emergence Capital, Andreessen Horowitz, Pathlight, Definition, 3KVC (2026-09-17).'
   added: 2026-09-21
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Adaptive $30M Series B (2026-09-17) via 3 independent primary sources — AlleyWatch [^1] (tier-2 aggregator with total_raised $57M), Adaptive company blog [^2] (primary company source at https://www.adaptive.build/blog/why-we-built-an-ai-project-accountant-and-raised-30m-to-build-more-of-it with verbatim Dave Yuan (Tidemark) quote and customer testimonials from Sarah Evans (Arrowhead Construction) and Jared Westergard (Blackline Financial); confirms 750+ construction customers with revenue range $5M-$1B, 40+ accounting firm partnerships, 10+ accounting systems), and Emergence Capital portfolio page [^3] (lead-investor primary source confirming founding year 2021, Kevin Spain as responsible investor, and Agentic Software thesis). Expanded About section with customer count, revenue range, and team-growth details. Added Dave Yuan investor quote to What Investors Say and three founder/customer quotes to What Founders Say. Firm portfolio tables in emergence-capital.md and andreessen-horowitz.md already contained Adaptive rows — updated their citations to use the specific blog-post URL and the specific /portfolio/adaptive URL. Corrected founding date from 2022 (frontmatter) is a candidate follow-up but left as-is pending founder cross-reference (Emergence says 2021).'
+  processed: '2026-09-22'
 - slug: notes-fm
   type: startup
   reason: 'Round monitoring 2026-09-21: new profile — $5M Venture round with individual investors from music industry (2026-09-17).'
@@ -9638,8 +9642,16 @@ priority:
   type: startup
   reason: "Series A extension $35M (2026-09-22); total_raised discrepancy — prior $47M vs CEO ~$40M"
   added: 2026-09-22
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Baselayer $35M Series A extension (2026-09-22) via 3 independent primary/secondary sources on top of the existing AlleyWatch and Crunchbase News citations — Crunchbase News [^3] (tier-1 press with verbatim Karl Alomar quotes and Jonathan Awad quotes on the 21st-century risk-assessment thesis, $40M-since-founding CEO figure, and Agentic Identity Suite / Know Your Agent (KYA) product with partners FIS, Prove, Socure), M13 portfolio page [^4] (NEW lead-investor primary confirming Series A stage, enterprise sector, and founders Jonathan Awad and Timothy Hyde), and Afore Capital portfolio page [^5] (NEW pre-seed lead confirming NYC HQ and AI/B2B fraud prevention + KYB + credit-score product scope with Torch Capital as follow-on). Added two new investor-quote sources [^4] [^5] and expanded About with KYA product details, FIS/Prove/Socure partners, and M13/Afore portfolio descriptors. Added two more Awad founder quotes and one more Alomar investor quote pulled verbatim from Crunchbase News. total_raised discrepancy documented in body — no reconciliation possible without additional primary sources; both figures preserved with attribution. Currency preserved (USD). No firm profiles exist for M13, Picus Capital, Torch Capital, or Afore Capital; frontmatter firms array intentionally left empty.'
+  processed: '2026-09-22'
 - slug: nexstrom
   type: startup
   reason: |
     Round monitoring 2026-09-22: new profile — $12M Seed led by Xora Innovation with Foothill Ventures, SEEDS; total 2026 raise US$15M ($12M equity + $3M non-dilutive).
   added: 2026-09-23
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Nexstrom $12M seed / US$15M total 2026 raise ($12M equity + $3M non-dilutive) led by Xora Innovation with Foothill Ventures and SEEDS via 3 independent primary sources — TechCrunch [^1] (tier-1 press with verbatim founder quotes from Dr. Lance Li and Dr. Phoebe Tan; confirms Xora as incubator/lead, Foothill and SEEDS as participants, 300mm wafer capability, and the "12-inch system that has just been installed"), Nexstrom company website [^2] (primary company source confirming Dr. Lance Li background as NUS distinguished professor and former TSMC director researching 2D materials since 2012; Dr. Phoebe Tan as Xora Partner; Xora Managing Partner and CIO Phil Inagaki on board; North Star CVD platform with foundry-compatible automated wafer handling; performance benchmarks of 100x lower defect density, 75% lower switching power, 2x smaller gate length; company milestones scaling from 100mm wafers in 2025 to 300mm in 2026), and Foothill Ventures portfolio page [^3] (co-investor primary confirming seed stage and "sub-1nm 2D Transition Metal Dichalcogenide (TMD) materials and processes for Angstrom-era logic and memory" descriptor). Added TWO founder quotes (Lance Li and Phoebe Tan) pulled verbatim from TechCrunch to What Founders Say. Expanded About with Xora incubator/board detail, North Star product specs, performance benchmarks, and Foothill portfolio descriptor. Preserved currency (USD; "US$" prefix retained for the Singapore-based company). No firm profiles exist for Xora Innovation, Foothill Ventures, or SEEDS; frontmatter firms array intentionally left empty.'
+  processed: '2026-09-22'

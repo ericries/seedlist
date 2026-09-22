@@ -163,8 +163,8 @@ Based on 100+ verified investments from the firm's portfolio page, the following
 ## Sources
 
 [^adp-e1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/17/2026," September 17, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-17-2026/
-[^adp-e2]: Adaptive blog, "Adaptive has raised $30 million in Series B funding led by Tidemark to expand its AI project accounting workforce for construction," September 17, 2026. Accessed September 2026. https://www.adaptive.build/blog
-[^adp-e3]: Emergence Capital portfolio page listing Adaptive. Accessed September 2026. https://emcap.com/portfolio
+[^adp-e2]: Matt Calvano, "Why We Built an AI Project Accountant, and Raised $30M to Build More of It," Adaptive company blog, September 17, 2026. Accessed September 22, 2026. https://www.adaptive.build/blog/why-we-built-an-ai-project-accountant-and-raised-30m-to-build-more-of-it
+[^adp-e3]: Emergence Capital portfolio page listing Adaptive ("Agentic Software; Founded 2021; Emergence partnered 2024; Kevin Spain lead"). Accessed September 22, 2026. https://www.emcap.com/portfolio/adaptive
 
 [^1]: Various sources on Emergence Capital founding and Gordon Ritter/Veeva, accessed March 2026. https://www.emcap.com/people/gordon-ritter
 [^2]: Emergence Capital, "About," accessed March 2026. https://www.emcap.com/about

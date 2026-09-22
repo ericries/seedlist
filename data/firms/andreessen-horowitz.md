@@ -388,8 +388,8 @@ The following table includes a16z investments verified through the firm's own po
 ## Sources
 
 [^adp-a1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/17/2026," September 17, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-17-2026/
-[^adp-a2]: Adaptive blog, "Adaptive has raised $30 million in Series B funding led by Tidemark to expand its AI project accounting workforce for construction," September 17, 2026. Accessed September 2026. https://www.adaptive.build/blog
-[^adp-a3]: Emergence Capital portfolio page listing Adaptive. Accessed September 2026. https://emcap.com/portfolio
+[^adp-a2]: Matt Calvano, "Why We Built an AI Project Accountant, and Raised $30M to Build More of It," Adaptive company blog, September 17, 2026. Accessed September 22, 2026. https://www.adaptive.build/blog/why-we-built-an-ai-project-accountant-and-raised-30m-to-build-more-of-it
+[^adp-a3]: Emergence Capital portfolio page listing Adaptive ("Agentic Software; Founded 2021; Emergence partnered 2024; Kevin Spain lead"). Accessed September 22, 2026. https://www.emcap.com/portfolio/adaptive
 
 [^mm-a16z]: Andreessen Horowitz, "Investing in Mariana Minerals," July 21, 2025. Accessed August 2026. https://a16z.com/announcement/investing-in-mariana-minerals/
 [^mm-a16z-prn]: PR Newswire, "Mariana Minerals Raises $310 Million Series B Led by Khosla Ventures to Accelerate Critical Minerals Production," August 3, 2026. Accessed September 2026. https://www.prnewswire.com/news-releases/mariana-minerals-raises-310-million-series-b-led-by-khosla-ventures-to-accelerate-critical-minerals-production-302840889.html
