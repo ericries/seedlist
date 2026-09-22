@@ -9444,3 +9444,35 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-21: new profile — up to $100M strategic investment ($70M equity + $30M in-kind engineering services) from Samsung C&T for KP-FHR deployment supporting Google multi-plant partnership.'
   added: 2026-09-21
+- slug: luzern-risk
+  type: startup
+  reason: 'Round monitoring 2026-09-21: new profile — $45M Series B led by Insight Partners; participants Trust Ventures, Caffeinated Capital.'
+  added: 2026-09-21
+- slug: clarion-health
+  type: startup
+  reason: 'Round monitoring 2026-09-21: new profile — $10M Seed led by Accel with Y Combinator participating.'
+  added: 2026-09-21
+- slug: adaptive-real-estate
+  type: startup
+  reason: 'Round monitoring 2026-09-21: new profile — $30M Series B led by Tidemark; participants Emergence Capital, Andreessen Horowitz, Pathlight, Definition, 3KVC (2026-09-17).'
+  added: 2026-09-21
+- slug: notes-fm
+  type: startup
+  reason: 'Round monitoring 2026-09-21: new profile — $5M Venture round with individual investors from music industry (2026-09-17).'
+  added: 2026-09-21
+- slug: insight-partners
+  type: firm
+  reason: 'Round monitoring 2026-09-21: Luzern Risk $45M Series B (2026-09-21) — led. Portfolio addition candidate.'
+  added: 2026-09-21
+- slug: accel
+  type: firm
+  reason: 'Round monitoring 2026-09-21: Clarion Health $10M Seed (2026-09-21) — led. Portfolio addition candidate.'
+  added: 2026-09-21
+- slug: emergence-capital
+  type: firm
+  reason: 'Round monitoring 2026-09-21: Adaptive $30M Series B (2026-09-17) — participant. Portfolio addition candidate.'
+  added: 2026-09-21
+- slug: andreessen-horowitz
+  type: firm
+  reason: 'Round monitoring 2026-09-21: Adaptive $30M Series B (2026-09-17) — participant. Portfolio addition candidate.'
+  added: 2026-09-21
