@@ -3,6 +3,12 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-22: new profile — A$78.5M Series E led by 1GT (Morgan Stanley Investment Management), with E.ON, ETF Partners, Innovation Victoria (2026-09-21).'
   added: 2026-09-22
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Amber Electric A$78.5M Series E (2026-09-21) via 3 independent primary sources — Amber blog [^1], TechStartups [^2], and ETF Partners portfolio page
+    [^3] (added). 1GT (Morgan Stanley IM) lead confirmed with E.ON, ETF Partners, Innovation Victoria participating. ETF Partners portfolio page also confirms prior €26M investment in Amber (initial investment
+    June 2025). Added third citation to About section and Funding History table.'
+  processed: '2026-09-22'
 - slug: balderton-capital
   type: firm
   reason: 'Round monitoring 2026-09-21: Unit1 Studio £20M / €23.3M equity + production financing round (2026-09-21) — led. Added portfolio row and citation.'
@@ -9362,7 +9368,7 @@ priority:
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Duplicate of fortell entry below — see fact-spec resolution.'
+  resolution_note: Duplicate of fortell entry below — see fact-spec resolution.
   processed: '2026-09-21'
 - slug: founders-fund
   type: firm
@@ -9370,7 +9376,8 @@ priority:
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: added Fortell Growth row to founders-fund.md Portfolio table with 3 primary citations ([^fortell-ff1] TechCrunch, [^fortell-ff2] Fortell company website with verbatim Trae Stephens/FF Partner quote, [^fortell-ff3] Founders Fund portfolio page). last_researched bumped to 2026-09-21. LVI retained at Crusoe (2026-09-17, later than Fortell).'
+  resolution_note: 'Fact-spec sweep 2026-09-21: added Fortell Growth row to founders-fund.md Portfolio table with 3 primary citations ([^fortell-ff1] TechCrunch, [^fortell-ff2] Fortell company website with
+    verbatim Trae Stephens/FF Partner quote, [^fortell-ff3] Founders Fund portfolio page). last_researched bumped to 2026-09-21. LVI retained at Crusoe (2026-09-17, later than Fortell).'
   processed: '2026-09-21'
 - slug: thrive-capital
   type: firm
@@ -9378,7 +9385,8 @@ priority:
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: added Fortell Growth row to thrive-capital.md Portfolio table with 3 primary citations ([^fortell-tc1] TechCrunch, [^fortell-tc2] Fortell company website, [^fortell-tc3] Founders Fund portfolio page). Frontmatter last_verified_investment set to Fortell (2026-09-16, $163M Growth participant).'
+  resolution_note: 'Fact-spec sweep 2026-09-21: added Fortell Growth row to thrive-capital.md Portfolio table with 3 primary citations ([^fortell-tc1] TechCrunch, [^fortell-tc2] Fortell company website,
+    [^fortell-tc3] Founders Fund portfolio page). Frontmatter last_verified_investment set to Fortell (2026-09-16, $163M Growth participant).'
   processed: '2026-09-21'
 - slug: valor-equity-partners
   type: firm
@@ -9386,7 +9394,8 @@ priority:
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: added Fortell row to valor-equity-partners.md Current Growth Investments table with 3 primary citations ([^fortell-vep1] TechCrunch, [^fortell-vep2] Fortell company website, [^fortell-vep3] Founders Fund portfolio page). LVI retained at Crusoe (2026-09-17, later than Fortell 2026-09-16).'
+  resolution_note: 'Fact-spec sweep 2026-09-21: added Fortell row to valor-equity-partners.md Current Growth Investments table with 3 primary citations ([^fortell-vep1] TechCrunch, [^fortell-vep2] Fortell
+    company website, [^fortell-vep3] Founders Fund portfolio page). LVI retained at Crusoe (2026-09-17, later than Fortell 2026-09-16).'
   processed: '2026-09-21'
 - slug: corridor-health
   type: startup
@@ -9394,7 +9403,11 @@ priority:
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: verified Corridor $25M seed (2026-09-21) via 3 independent primary sources: TechCrunch [^1] (2026-09-21, primary tier-1 press with three verbatim founder quotes from Nikhil Aggarwal and Jackson Wagner), Axios Pro Rata [^2] (independent daily VC newsletter), and NEW Bain Capital Ventures portfolio page [^4] (primary lead-investor source confirming Corridor listed under Applied AI category as Seed stage 2026 with Ryan Kim as supporting partner). Corridor company website [^3] retained as fourth source. Expanded founder profile with prior roles (Nikhil Aggarwal ex-Cold Start partner, Jackson Wagner ex-Scale AI product lead, Eric Qian ex-Scale AI, Jason Dong ex-Cold Start), enriched product description (verify provider network inclusion, schedule care, update doctor records with insurance information), and added Jackson Wagner and Aggarwal vision quotes. Ryan Kim (BCV supporting partner) captured. Currency preserved (USD).'
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Corridor $25M seed (2026-09-21) via 3 independent primary sources: TechCrunch [^1] (2026-09-21, primary tier-1 press with three verbatim founder
+    quotes from Nikhil Aggarwal and Jackson Wagner), Axios Pro Rata [^2] (independent daily VC newsletter), and NEW Bain Capital Ventures portfolio page [^4] (primary lead-investor source confirming Corridor
+    listed under Applied AI category as Seed stage 2026 with Ryan Kim as supporting partner). Corridor company website [^3] retained as fourth source. Expanded founder profile with prior roles (Nikhil Aggarwal
+    ex-Cold Start partner, Jackson Wagner ex-Scale AI product lead, Eric Qian ex-Scale AI, Jason Dong ex-Cold Start), enriched product description (verify provider network inclusion, schedule care, update
+    doctor records with insurance information), and added Jackson Wagner and Aggarwal vision quotes. Ryan Kim (BCV supporting partner) captured. Currency preserved (USD).'
   processed: '2026-09-21'
 - slug: feldera
   type: startup
@@ -9402,7 +9415,11 @@ priority:
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: verified Feldera $21.5M combined Series A + Seed (2026-09-21) via 3+ independent primary sources: Feldera company blog [^1] (2026-09-21, primary company source with verbatim Lalith Suresh CEO quote: "This round fuels our growth and deepens our innovation across the product: the core engine, scalability, deeper lakehouse integrations, and a fully managed experience."), TechStartups [^2] (2026-09-21, independent tech press), Axios Pro Rata [^3] (independent daily VC newsletter), and NEW Costanoa Ventures portfolio page [^4] (primary co-investor source confirming Feldera listed as portfolio company). Confirmed syndicate: Series A ($15.4M) led by Inovia Capital with Costanoa Ventures + Battery Ventures participating; concurrent Seed ($6.1M) led by Costanoa Ventures with Ion Stoica (Databricks/Anyscale co-founder) participating. Lalith Suresh founder quote added. Currency preserved (USD).'
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Feldera $21.5M combined Series A + Seed (2026-09-21) via 3+ independent primary sources: Feldera company blog [^1] (2026-09-21, primary company source
+    with verbatim Lalith Suresh CEO quote: "This round fuels our growth and deepens our innovation across the product: the core engine, scalability, deeper lakehouse integrations, and a fully managed experience."),
+    TechStartups [^2] (2026-09-21, independent tech press), Axios Pro Rata [^3] (independent daily VC newsletter), and NEW Costanoa Ventures portfolio page [^4] (primary co-investor source confirming Feldera
+    listed as portfolio company). Confirmed syndicate: Series A ($15.4M) led by Inovia Capital with Costanoa Ventures + Battery Ventures participating; concurrent Seed ($6.1M) led by Costanoa Ventures with
+    Ion Stoica (Databricks/Anyscale co-founder) participating. Lalith Suresh founder quote added. Currency preserved (USD).'
   processed: '2026-09-21'
 - slug: battery-ventures
   type: firm
@@ -9410,7 +9427,8 @@ priority:
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: added Feldera Series A row to battery-ventures.md Portfolio table with 3 primary citations ([^feldera-bv1] Feldera company blog, [^feldera-bv2] TechStartups, [^feldera-bv3] Axios Pro Rata). Frontmatter last_verified_investment set to Feldera Series A (2026-09-21, $15.4M, Inovia Capital led). last_researched bumped to 2026-09-21.'
+  resolution_note: 'Fact-spec sweep 2026-09-21: added Feldera Series A row to battery-ventures.md Portfolio table with 3 primary citations ([^feldera-bv1] Feldera company blog, [^feldera-bv2] TechStartups,
+    [^feldera-bv3] Axios Pro Rata). Frontmatter last_verified_investment set to Feldera Series A (2026-09-21, $15.4M, Inovia Capital led). last_researched bumped to 2026-09-21.'
   processed: '2026-09-21'
 - slug: boxgroup
   type: firm
@@ -9418,7 +9436,9 @@ priority:
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: added Corridor row to boxgroup.md Portfolio table with 3 primary citations ([^corridor-bg-1] TechCrunch, [^corridor-bg-2] Axios Pro Rata, [^corridor-bg-3] Bain Capital Ventures portfolio page). Frontmatter last_verified_investment bumped from Retro (2026-08-28) to Corridor (2026-09-21, Seed participant, $25M Bain Capital Ventures-led). Fortell resolution below covers Founders Fund + Thrive + Valor firm updates in parallel.'
+  resolution_note: 'Fact-spec sweep 2026-09-21: added Corridor row to boxgroup.md Portfolio table with 3 primary citations ([^corridor-bg-1] TechCrunch, [^corridor-bg-2] Axios Pro Rata, [^corridor-bg-3]
+    Bain Capital Ventures portfolio page). Frontmatter last_verified_investment bumped from Retro (2026-08-28) to Corridor (2026-09-21, Seed participant, $25M Bain Capital Ventures-led). Fortell resolution
+    below covers Founders Fund + Thrive + Valor firm updates in parallel.'
   processed: '2026-09-21'
 - slug: fortell
   type: startup
@@ -9426,31 +9446,51 @@ priority:
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: verified Fortell $163M growth round (2026-09-16) via 3 independent primary sources: TechCrunch [^1] (2026-09-16, primary tier-1 press with verbatim Matthew de Jonge founder quote: "Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?"), NEW Fortell company website [^2] (primary company source confirming AI 2.0 prescription hearing aid product, clinical trial claims — 10x more words understood, 98% background noise elimination, 95% preference over five competitors — and Trae Stephens/Founders Fund Partner verbatim endorsement: "It was honestly the best hardware demo I''ve seen in my 11 and a half years at Founders Fund"), and NEW Founders Fund portfolio page [^3] (primary lead-investor source confirming Fortell as portfolio company). Expanded profile with launch locations (New York, Greenwich, Boston, Palm Beach), founder background (six years building), and clinical trial specifics. Added Fortell rows to founders-fund.md, thrive-capital.md, and valor-equity-partners.md portfolio tables with 3 primary citations each. Thrive Capital frontmatter last_verified_investment set to Fortell (2026-09-16). Founders Fund and Valor last_verified_investment retained at Crusoe (2026-09-17, later). Currency preserved (USD).'
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Fortell $163M growth round (2026-09-16) via 3 independent primary sources: TechCrunch [^1] (2026-09-16, primary tier-1 press with verbatim Matthew
+    de Jonge founder quote: "Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?"), NEW Fortell company website [^2] (primary company
+    source confirming AI 2.0 prescription hearing aid product, clinical trial claims — 10x more words understood, 98% background noise elimination, 95% preference over five competitors — and Trae Stephens/Founders
+    Fund Partner verbatim endorsement: "It was honestly the best hardware demo I''ve seen in my 11 and a half years at Founders Fund"), and NEW Founders Fund portfolio page [^3] (primary lead-investor source
+    confirming Fortell as portfolio company). Expanded profile with launch locations (New York, Greenwich, Boston, Palm Beach), founder background (six years building), and clinical trial specifics. Added
+    Fortell rows to founders-fund.md, thrive-capital.md, and valor-equity-partners.md portfolio tables with 3 primary citations each. Thrive Capital frontmatter last_verified_investment set to Fortell (2026-09-16).
+    Founders Fund and Valor last_verified_investment retained at Crusoe (2026-09-17, later). Currency preserved (USD).'
   processed: '2026-09-21'
 - slug: biorsaf
   type: startup
-  reason: "Round monitoring 2026-09-21: created profile for €5.2M Series A (2026-09-10) led by P101 SGR"
+  reason: 'Round monitoring 2026-09-21: created profile for €5.2M Series A (2026-09-10) led by P101 SGR'
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: verified Biorsaf €5.2M Series A (2026-09-10) via 3 independent primary sources — EU-Startups [^1] (independent European tech press with verbatim Marco Papalini quote), Biorsaf press release [^2] (primary company source with Italian-language Papalini and Grammatico verbatim quotes), and P101 SGR news page [^3] (primary lead-investor source confirming P101 as lead of €5.2M round and Cooki acquisition creating "Italy''s leading Food RegTech platform"). Confirmed syndicate: P101 SGR lead with Maia Ventures, Farming Future (CDP Venture Capital + ToSeed & Partners), and Toscana Next participating. Added Marco Papalini (Biorsaf CEO) verbatim English quote from EU-Startups AND verbatim Italian company-release quote; added Giuseppe Grammatico (Cooki founder) verbatim Italian quote from Biorsaf release. Currency preserved (EUR).'
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Biorsaf €5.2M Series A (2026-09-10) via 3 independent primary sources — EU-Startups [^1] (independent European tech press with verbatim Marco Papalini
+    quote), Biorsaf press release [^2] (primary company source with Italian-language Papalini and Grammatico verbatim quotes), and P101 SGR news page [^3] (primary lead-investor source confirming P101 as
+    lead of €5.2M round and Cooki acquisition creating "Italy''s leading Food RegTech platform"). Confirmed syndicate: P101 SGR lead with Maia Ventures, Farming Future (CDP Venture Capital + ToSeed & Partners),
+    and Toscana Next participating. Added Marco Papalini (Biorsaf CEO) verbatim English quote from EU-Startups AND verbatim Italian company-release quote; added Giuseppe Grammatico (Cooki founder) verbatim
+    Italian quote from Biorsaf release. Currency preserved (EUR).'
   processed: '2026-09-21'
 - slug: gravity-gardens
   type: startup
-  reason: "Round monitoring 2026-09-21: created profile for €2.6M Seed (2026-09-09) led by VP Capital"
+  reason: 'Round monitoring 2026-09-21: created profile for €2.6M Seed (2026-09-09) led by VP Capital'
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: verified Gravity Gardens €2.6M Seed (2026-09-09; announced 2026-09-11 per EU-Startups) via 3 independent primary sources — EU-Startups [^1] (independent European tech press with verbatim Erica van Eeghen/VP Capital, Marcel Zijp/Brightlands Venture Partners, and Paulino Valdés/CEO founder quotes), Gravity Gardens newsroom [^2] (primary company source confirming announcement date and EU regulation context), and Gravity Gardens main site [^3] (primary company source listing investors VP Capital, Brightlands Venture Partners, Graduate Ventures and full founding team). Confirmed syndicate: VP Capital lead with Brightlands Venture Partners, Graduate Ventures, and private investors participating. Total funding to date >€3M (including EFRO Oost regional development funding). Added CFO Andrea Tonoli to founders frontmatter (previously missing). Added two verbatim investor quotes to What Investors Say and one verbatim Paulino Valdés founder quote to What Founders Say. Currency preserved (EUR).'
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Gravity Gardens €2.6M Seed (2026-09-09; announced 2026-09-11 per EU-Startups) via 3 independent primary sources — EU-Startups [^1] (independent European
+    tech press with verbatim Erica van Eeghen/VP Capital, Marcel Zijp/Brightlands Venture Partners, and Paulino Valdés/CEO founder quotes), Gravity Gardens newsroom [^2] (primary company source confirming
+    announcement date and EU regulation context), and Gravity Gardens main site [^3] (primary company source listing investors VP Capital, Brightlands Venture Partners, Graduate Ventures and full founding
+    team). Confirmed syndicate: VP Capital lead with Brightlands Venture Partners, Graduate Ventures, and private investors participating. Total funding to date >€3M (including EFRO Oost regional development
+    funding). Added CFO Andrea Tonoli to founders frontmatter (previously missing). Added two verbatim investor quotes to What Investors Say and one verbatim Paulino Valdés founder quote to What Founders
+    Say. Currency preserved (EUR).'
   processed: '2026-09-21'
 - slug: kairos-power
   type: startup
-  reason: 'Round monitoring 2026-09-21: new profile — up to $100M strategic investment ($70M equity + $30M in-kind engineering services) from Samsung C&T for KP-FHR deployment supporting Google multi-plant partnership.'
+  reason: 'Round monitoring 2026-09-21: new profile — up to $100M strategic investment ($70M equity + $30M in-kind engineering services) from Samsung C&T for KP-FHR deployment supporting Google multi-plant
+    partnership.'
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: verified Kairos Power / Samsung C&T $100M strategic investment (2026-09-21) via 3 independent primary sources — TechCrunch [^1] (tier-1 tech press with $70M equity + $30M in-kind structure, Samsung C&T EPC role, and confirmation that reactors will supply about half a gigawatt (~500 MW) by 2035 under the Google multi-plant agreement; also cites NRC construction approval late 2024), Kairos Power press release [^2] (primary company source with verbatim executive quotes from CEO Mike Laufer, CTO Ed Blandford, VP Commercial Jeff Olson, and Samsung C&T Head of Energy Solution Alex CW Lee), and Kairos Power updates/news page [^3] (primary company newsroom framing the collaboration). Expanded About section to specify deal structure, Samsung C&T experience (built or helped build about a dozen nuclear reactors globally), Google 500-MW-by-2035 target, and NRC approval. Added Jeff Olson quote to What Founders Say. Currency preserved (USD).'
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Kairos Power / Samsung C&T $100M strategic investment (2026-09-21) via 3 independent primary sources — TechCrunch [^1] (tier-1 tech press with $70M
+    equity + $30M in-kind structure, Samsung C&T EPC role, and confirmation that reactors will supply about half a gigawatt (~500 MW) by 2035 under the Google multi-plant agreement; also cites NRC construction
+    approval late 2024), Kairos Power press release [^2] (primary company source with verbatim executive quotes from CEO Mike Laufer, CTO Ed Blandford, VP Commercial Jeff Olson, and Samsung C&T Head of
+    Energy Solution Alex CW Lee), and Kairos Power updates/news page [^3] (primary company newsroom framing the collaboration). Expanded About section to specify deal structure, Samsung C&T experience (built
+    or helped build about a dozen nuclear reactors globally), Google 500-MW-by-2035 target, and NRC approval. Added Jeff Olson quote to What Founders Say. Currency preserved (USD).'
   processed: '2026-09-21'
 - slug: luzern-risk
   type: startup
@@ -9458,7 +9498,12 @@ priority:
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: verified Luzern Risk $45M Series B via 3 independent primary sources — FinSMEs [^3] (independent tier-2 press confirming exact announcement date 2026-09-17, $45M Series B led by Insight Partners with Trust Ventures and returning investor Caffeinated Capital participating, Gabriel Weiss as CEO and Jonathan York as CTO, and use of proceeds), AlleyWatch [^1] (independent daily VC aggregator confirming full syndicate list, all four co-founders, and $58.5M total equity to date), and Luzern Risk company website [^2] (primary company source with $45M Series B banner). Corrected announcement date from 2026-09-21 to 2026-09-17 (per FinSMEs primary). Updated location to New York, NY. Updated Weiss title to CEO & Co-Founder and York to CTO & Co-Founder (per FinSMEs). Added Series A row for April 2025 $12M led by Caffeinated Capital (also from FinSMEs). Added Luzern Risk row to insight-partners.md portfolio table with 3 citations and bumped Insight last_verified_investment from Kastle 2026-09-17 Series A to Luzern Risk 2026-09-17 Series B. Currency preserved (USD).'
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Luzern Risk $45M Series B via 3 independent primary sources — FinSMEs [^3] (independent tier-2 press confirming exact announcement date 2026-09-17,
+    $45M Series B led by Insight Partners with Trust Ventures and returning investor Caffeinated Capital participating, Gabriel Weiss as CEO and Jonathan York as CTO, and use of proceeds), AlleyWatch [^1]
+    (independent daily VC aggregator confirming full syndicate list, all four co-founders, and $58.5M total equity to date), and Luzern Risk company website [^2] (primary company source with $45M Series
+    B banner). Corrected announcement date from 2026-09-21 to 2026-09-17 (per FinSMEs primary). Updated location to New York, NY. Updated Weiss title to CEO & Co-Founder and York to CTO & Co-Founder (per
+    FinSMEs). Added Series A row for April 2025 $12M led by Caffeinated Capital (also from FinSMEs). Added Luzern Risk row to insight-partners.md portfolio table with 3 citations and bumped Insight last_verified_investment
+    from Kastle 2026-09-17 Series A to Luzern Risk 2026-09-17 Series B. Currency preserved (USD).'
   processed: '2026-09-21'
 - slug: clarion-health
   type: startup
@@ -9466,7 +9511,12 @@ priority:
   added: 2026-09-21
   status: resolved
   resolved: 2026-09-21
-  resolution_note: 'Fact-spec sweep 2026-09-21: verified Clarion Health $10M Seed (2026-09-21) via 3 independent primary sources — AlleyWatch [^1] (independent daily VC aggregator confirming Accel-led round with Y Combinator participating and identifying founders Ryan Gallagher and Jeffrey Lamothe), Clarion Health company site /company page [^2] (primary company source confirming Ryan Gallagher, MD as CEO & Co-Founder and Jeffrey Lamothe as CTO & Co-Founder; naming Accel, Y Combinator, and Sequoia Scout as backers), and Y Combinator Startup Directory entry for Clarion / Anaphero W24 [^3] (primary YC directory listing confirming YC W24 batch, New York City location, primary YC partner Jared Friedman, Gallagher''s prior founding roles at Two Chairs and Ophelia YC W20, Lamothe''s prior voice-AI leadership at Amazon Alexa and AI/ML at Salesforce, and reported reach of tens of thousands of patients monthly). Updated location from "United States" to "New York, NY". Updated founder titles. Added Sequoia (scout) and operator-angel context to co-investors. Added Clarion Health rows to accel.md and y-combinator.md portfolio tables with 3 primary citations each. Currency preserved (USD).'
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Clarion Health $10M Seed (2026-09-21) via 3 independent primary sources — AlleyWatch [^1] (independent daily VC aggregator confirming Accel-led round
+    with Y Combinator participating and identifying founders Ryan Gallagher and Jeffrey Lamothe), Clarion Health company site /company page [^2] (primary company source confirming Ryan Gallagher, MD as
+    CEO & Co-Founder and Jeffrey Lamothe as CTO & Co-Founder; naming Accel, Y Combinator, and Sequoia Scout as backers), and Y Combinator Startup Directory entry for Clarion / Anaphero W24 [^3] (primary
+    YC directory listing confirming YC W24 batch, New York City location, primary YC partner Jared Friedman, Gallagher''s prior founding roles at Two Chairs and Ophelia YC W20, Lamothe''s prior voice-AI
+    leadership at Amazon Alexa and AI/ML at Salesforce, and reported reach of tens of thousands of patients monthly). Updated location from "United States" to "New York, NY". Updated founder titles. Added
+    Sequoia (scout) and operator-angel context to co-investors. Added Clarion Health rows to accel.md and y-combinator.md portfolio tables with 3 primary citations each. Currency preserved (USD).'
   processed: '2026-09-21'
 - slug: adaptive-real-estate
   type: startup
@@ -9496,19 +9546,43 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-22: Spott Series A (2026-09-22) — led. Portfolio addition candidate.'
   added: 2026-09-22
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Balderton Capital led Spott $21M / €18.3M Series A (2026-09-22) via 3 independent primary sources — Balderton news [^spott-b1], EU-Startups [^spott-b2],
+    and Spott Series A announcement page [^spott-b3]. Added new portfolio row with Base10 Partners, Y Combinator, and Fortino as participants. Updated last_verified_investment from Exein Growth 2026-09-15
+    to Spott Series A 2026-09-22.'
+  processed: '2026-09-22'
 - slug: y-combinator
   type: firm
   reason: 'Round monitoring 2026-09-22: Spott Series A (2026-09-22) — participant. Portfolio addition candidate.'
   added: 2026-09-22
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Y Combinator participated in Spott Series A $21M / €18.3M (2026-09-22, Balderton-led) via 3 independent primary sources — YC company page [^spott-yc1],
+    Balderton news [^spott-yc2], and EU-Startups [^spott-yc3]. Added new portfolio row (W25 batch, Leuven, Belgium; co-founders Lander Degreve, Manu Vanderveeren, Samuel Smeys) with Base10 Partners and
+    Fortino Capital as co-participants.'
+  processed: '2026-09-22'
 - slug: spott
   type: startup
   reason: 'Round monitoring 2026-09-22: new profile — €18.3M Series A led by Balderton Capital.'
   added: 2026-09-22
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Spott €18.3M ($21M) Series A (2026-09-22) via 4 independent primary sources — EU-Startups [^1] (European primary press with verbatim Phil Chambers (Balderton Partner) and Lander Degreve (CEO) quotes), Spott company website [^2] (primary company source with $21M Series A and Balderton lead), Y Combinator directory [^3] (primary YC listing confirming W25 batch, Leuven HQ, 50-person team, and founder backgrounds), and Balderton Capital news [^4] (primary lead-investor announcement). Preserved dual currency (€18.3M / $21M). Added Phil Chambers investor quote to What Investors Say and Lander Degreve founder quote to What Founders Say. No investor slug added for Headline/Base10/Fortino as they lack profiles; Balderton and Y Combinator profiles both updated with Spott portfolio rows in parallel entries above.'
+  processed: '2026-09-22'
 - slug: primo-fr
   type: startup
   reason: 'Round monitoring 2026-09-22: new profile — €6.9M seed led by Headline and Global Founders Capital.'
   added: 2026-09-22
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Primo €6.9M ($8M) Seed (2026-09-22) via 3 independent primary sources — EU-Startups [^1] (European primary press with verbatim Jonathan Userovici (Headline Partner) and Martin Pannier (CEO) quotes, plus angel investors named: Arthur Waller (Pennylane co-founder/CEO) and Romain Niccoli (Pigment co-founder/CEO); 400+ customers across ten countries; €3.4M ARR; revenue quadrupled YoY), Primo company website [^2] (primary company source confirming Neuilly-sur-Seine HQ / Clutch SAS, autonomous IT agent product, MDM/SaaS/procurement integration, SOC 2 Type II & GDPR certification, and customers Indy, Dust, Skello, Attio, Factorial), and Primo blog announcement [^3] (primary company blog with $8M raise co-led by Headline and Global Founders Capital and 400+ customers across 10 countries). Preserved dual currency (€6.9M / $8M). Added Jonathan Userovici (Headline Partner) investor quote to What Investors Say and expanded Martin Pannier founder quote in What Founders Say. Headline and Global Founders Capital lack profiles so no firm slugs added. Corrected Primo blog URL from /blog index to specific post URL /blog/primo-raises-8-million-to-deploy-the-first-autonomous-ai-agents-in-it.'
+  processed: '2026-09-22'
 - slug: morphotonics
   type: startup
   reason: 'Round monitoring 2026-09-22: new profile — €40M Series B extension with 3M Ventures, Innovation Industries, BOM, Invest-NL.'
   added: 2026-09-22
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Morphotonics €40M+ Series B close (2026-09-22 per company release; TechCrunch dated 2026-09-21) via 3 independent primary sources — TechCrunch [^1] (tier-1 press with full investor list 3M Ventures, Innovation Industries, BOM, Invest-NL, European Innovation Council Fund, Ernij Next Dutch family office, European Investment Bank; CEO Hugo Da Silva joined September 2024; 60 employees up from ~30; 10-15 systems deployed globally; ~90% hardware revenue; next-gen Cypris machine producing 6M+ waveguides annually shipping early 2027; customers include Meta Ray-Ban, Even Reality, Magic Leap), Morphotonics press release [^2] (NEW primary company source at https://morphotonics.com/series-b-announcement/ replacing the generic /news URL; carries verbatim quotes from CEO Hugo da Silva, 3M Senior VP Mark Copman, and Invest-NL Johan Stins; confirms revenue tripled in 2025 vs 2024 and Cypris platform for high-volume waveguide manufacturing), and Innovation Industries [^3] (lead-investor primary source with September 11, 2024 first-close of $10+M Series B; Innovation Industries portfolio page also confirms initial 2019 investment year). Preserved currency (EUR primary, USD noted only where source did). Added investor quotes from Mark Copman (3M) and Johan Stins (Invest-NL) to What Investors Say; added Hugo da Silva CEO quote to What Founders Say. Expanded About section with customer names (Meta Ray-Ban, Even Reality, Magic Leap), 2025 revenue triple vs 2024, headcount growth (30→60→70-75 target), and Cypris platform throughput. Corrected first-close date from 2024-09 to 2024-09-11. No firm profiles exist for 3M Ventures, Innovation Industries, BOM, Invest-NL, EIC Fund, Ernij Next, or European Investment Bank; frontmatter firms array intentionally left empty.'
+  processed: '2026-09-22'

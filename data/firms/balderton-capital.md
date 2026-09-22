@@ -42,9 +42,9 @@ team:
     role: Partner
     slug: rana-yared
 last_verified_investment:
-  date: 2026-09-15
-  company: "Exein"
-  round: "Growth"
+  date: 2026-09-22
+  company: "Spott"
+  round: "Series A"
 status: published
 last_researched: 2026-09-11
 tldr: "Europe's leading independent VC ($5.7B raised) focused exclusively on European-founded companies. Originally Benchmark Capital Europe (2000), became independent in 2007. Portfolio of 275+ companies with 20+ unicorns includes Depop ($1.6B Etsy acquisition), Darktrace (IPO), and Revolut. Equal partnership model; led by Managing Partner Bernard Liautaud (founded Business Objects, acquired by SAP for $6.8B)."
@@ -153,8 +153,9 @@ Based on 50 verified portfolio investments with sector and stage data from Balde
 | Prior Labs | Pre-Seed (led, €9M, 2025-02-05) | 2025-02-05 | AI / Tabular Foundation Models / Enterprise AI | Acquired by SAP (2026-07-17); SAP committed EUR 1B over four years [^priorlabs1][^priorlabs2][^priorlabs3] |
 | Exein | Growth (participant as returning investor, €234M co-led by Headline at €1.4B / $1.7B valuation; Sofina, Goldman Sachs, EIB Group/ETCI, KfW Capital, T.Capital new; HV, Intrepid Growth Partners, 33N Ventures, Lakestar, Supernova Invest, Blue Cloud Ventures, Geodesic Capital also returning) | 2026-09-15 | Cybersecurity / Physical AI / IoT / Robotics | Active (Italian unicorn) [^exein-b1][^exein-b2][^exein-b3] |
 | Unit1 Studio | Equity + production financing (led, £20M / €23.3M / $20M; Mercuri, Gilston Music, Paul McGuinness also participated) | 2026-09-21 | Entertainment / Media / Virtual Production / Live Events | Active [^unit1-1][^unit1-2][^unit1-3] |
+| Spott | Series A (led, $21M / €18.3M; Base10 Partners, Y Combinator, Fortino also participated) | 2026-09-22 | AI / HR Tech / Recruitment / Vertical SaaS | Active [^spott-b1][^spott-b2][^spott-b3] |
 
-This table represents approximately 51 of 275+ known investments (~19%). The portfolio is heavily skewed toward companies founded in the UK, with growing representation from Germany, France, and Turkey. Years shown are year of Balderton's first investment.
+This table represents approximately 52 of 275+ known investments (~19%). The portfolio is heavily skewed toward companies founded in the UK, with growing representation from Germany, France, and Turkey. Years shown are year of Balderton's first investment.
 
 ## In Their Own Words
 
@@ -272,3 +273,9 @@ No additional independently sourced founder testimonials found beyond those publ
 [^unit1-2]: Tech.eu, "Unit1 Studio raises £20M to scale avatar concert technology," Tamara Djurickovic, September 21, 2026. Accessed September 2026. https://tech.eu/2026/09/21/unit1-studio-raises-ps20m-to-scale-avatar-concert-technology/ — European tech press independent confirmation of the £20M round on September 21, 2026, Balderton Capital lead, participants Mercuri, Gilston Music, Paul McGuinness. Confirms founders Barney Wragg (CEO), Jonathan Butterell (Creative Director), Pavle Mihajlovic (Technical Director).
 
 [^unit1-3]: TechFundingNews, "Unit1 Studio raises $20M from Balderton to make avatar concerts commercially viable," Sofia Chesnokova, September 21, 2026. Accessed September 2026. https://techfundingnews.com/unit1-studio-raises-20m-balderton-avatar-concerts/ — Third independent confirmation of the $20M raise, Balderton lead, Mercuri, Gilston Music, Paul McGuinness participants. Includes Daniel Waterhouse (Balderton) quote: "Barney is hugely respected in the industry and has managed to solve a structural problem that everyone knew existed but nobody had cracked."
+
+[^spott-b1]: Balderton Capital news, "Spott raises $21M Series A to build the global AI-native operating system for recruitment agencies," September 22, 2026. Accessed September 2026. https://www.balderton.com/news/spott-raises-21m-series-a-to-build-the-global-ai-native-operating-system-for-recruitment-agencies/ — Balderton's own portfolio announcement confirming it led Spott's $21M Series A on September 22, 2026, with Base10 Partners, Y Combinator, and Fortino participating. Carries verbatim Phil Chambers (Balderton Partner) quote and Lander Degreve (CEO) quote.
+
+[^spott-b2]: EU-Startups, "Leuven-based Spott raises €18.3 million to build the AI-native operating system for recruitment agencies," September 22, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/leuven-based-spott-raises-e18-3-million-to-build-the-ai-native-operating-system-for-recruitment-agencies/ — European primary press independent confirmation of €18.3M ($21M) Series A on September 22, 2026, Balderton Capital lead, participants Base10 Partners, Y Combinator, Fortino Capital. Confirms co-founders Lander Degreve (CEO), Manu Vanderveeren (COO), and Samuel Smeys (CTO).
+
+[^spott-b3]: Spott Series A announcement page, "Series A." Accessed September 2026. https://spott.io/series-a — Primary company confirmation of the $21M Series A on September 22, 2026, Balderton lead, Base10 Partners, Y Combinator, and Fortino Ventures participating. Confirms $24.2M total raised including prior $3.2M seed from March 2025.
