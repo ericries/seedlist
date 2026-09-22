@@ -11,16 +11,18 @@ stage_latest: "Series A"
 total_raised: "€15M"
 investors: []
 firms: []
-founders: []
+founders:
+  - name: "Dr. Galip Gürel"
+    role: "Co-Founder"
+  - name: "Dr. Stefen Koubi"
+    role: "Co-Founder"
 status: published
-last_researched: 2026-08-30
+last_researched: 2026-09-22
 ---
 
 ## About
 
-Lupin Dental is a Montpellier-based early-stage dental robotics company developing a supervised automated robotic platform for minimally invasive tooth preparation for aesthetic veneers [^1][^2][^3]. The company closed a €15 million Series A on August 28, 2026, led by Fynveur (€10M) with participation from existing shareholders and private investors, complemented by a loan from Bpifrance; Invus, Fynveur's advisor, will join the company's board [^1][^2][^3].
-
-*Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
+Lupin Dental (legally Digicuto SAS) is a Montpellier-based early-stage dental robotics company developing a supervised automated robotic platform for minimally invasive tooth preparation for aesthetic veneers [^1][^2][^3]. It was co-founded by Dr. Galip Gürel and Dr. Stefen Koubi, prominent aesthetic-dentistry clinicians, and employs approximately 50 people [^2][^3]. The company closed a €15 million (~$17.5M) Series A on August 28, 2026, led by Fynveur (€10M direct investment) with participation from existing shareholders and private investors, complemented by a Bpifrance loan; Invus, Fynveur's advisor, will join the board [^1][^2][^3]. Michel Mayer (former Freescale Semiconductor Chairman & CEO) chairs the company; Philippe Veran (founder/CEO of Biotech Dental) also serves on the board [^2].
 
 ## Funding History
 
@@ -36,7 +38,9 @@ No independently sourced investor commentary found at time of profile creation.
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at time of profile creation.
+> "Lupin Dental opens a new chapter with this important milestone. It reflects our investors' confidence in our vision and enables us to accelerate our mission to transform dental care through innovation."
+>
+> — Drs. Galip Gürel and Stefen Koubi, Co-Founders, Lupin Dental [^2][^3]
 
 ## Sources
 

@@ -11,9 +11,11 @@ stage_latest: "Series B"
 total_raised: "$65M"
 investors: []
 firms: []
-founders: []
+founders:
+  - name: "Andrew Johnson"
+    role: "CEO"
 status: published
-last_researched: 2026-08-30
+last_researched: 2026-09-22
 ---
 
 ## About
@@ -38,7 +40,9 @@ Proceeds will fund development of new fraud-prevention defenses and continuous m
 
 ## What Founders Say
 
-No independently sourced founder testimonials found at time of profile creation.
+> "The legacy background check industry was built around a single moment in time, even though workforce risk changes every day."
+>
+> — Andrew Johnson, CEO, Yardstik [^2]
 
 ## Sources
 

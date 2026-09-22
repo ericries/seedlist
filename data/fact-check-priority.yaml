@@ -3,6 +3,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-22: new profile — €3.5M Seed (€3.1M seed + €350k i-Lab grant) co-led by Atlantic and OVNI Capital, with Concept Ventures, Ixcore, Plug and Play Ventures participating (2026-09-22).'
   added: 2026-09-22
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Lightspring €3.5M Seed (€3.1M seed + €350k i-Lab grant, 2026-09-22) via 3 independent primary sources — EU-Startups [^1], Lightspring company website [^2], and Tech.eu (new, added) [^3]. Atlantic and OVNI Capital co-lead confirmed with Concept Ventures, Ixcore, Plug and Play Ventures and business angels participating. Added Thomas Renaudin (OVNI Founding Partner) quote to What Investors Say, added Grégoire Bonnat (CEO) quote to What Founders Say. Expanded About section with two-photon polymerization / <0.5 dB coupling loss technical detail and i-Lab laureate confirmation.'
+  processed: '2026-09-22'
 - slug: amber-electric
   type: startup
   reason: 'Round monitoring 2026-09-22: new profile — A$78.5M Series E led by 1GT (Morgan Stanley Investment Management), with E.ON, ETF Partners, Innovation Victoria (2026-09-21).'
@@ -7117,10 +7121,18 @@ priority:
   type: startup
   reason: newly published from round monitoring 2026-08-30 (€15M Series A, 2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Lupin Dental €15M (~$17.5M) Series A (2026-08-28) via 3 independent primary sources — Surgical Robotics Technology [^1], Dental Asia [^2], Tech Funding News [^3]. Fynveur lead (€10M direct) confirmed with existing shareholders, private investors, and Bpifrance loan participating; Invus (Fynveur advisor) taking board seat. Added co-founders Dr. Galip Gürel and Dr. Stefen Koubi to frontmatter and body, added verbatim founder quote to What Founders Say. Board detail added: Michel Mayer (Chairman, former Freescale CEO), Philippe Veran (Biotech Dental founder). Legal name Digicuto SAS noted.'
+  processed: '2026-09-22'
 - slug: yardstik
   type: startup
   reason: newly published from round monitoring 2026-08-30 ($30M Series B, 2026-08-27)
   added: 2026-08-30
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Yardstik $30M Series B (2026-08-27) via 3 independent primary sources — PR Newswire (via Morningstar) [^1], SiliconANGLE [^2], FinSMEs [^3]. Harbert Growth Partners lead confirmed with Rally Ventures, MissionOG, Crosslink Capital, Grotech Ventures, Great North Ventures participating; $65M total raised. Added CEO Andrew Johnson to frontmatter and body, added verbatim Andrew Johnson quote to What Founders Say. Confirmed metrics: 149% YoY revenue growth, 98% account retention over 3 years, 99.4% CSAT.'
+  processed: '2026-09-22'
 - slug: d1-capital-partners
   type: firm
   reason: appeared in Thrive Holdings Growth (2026-08-12)
