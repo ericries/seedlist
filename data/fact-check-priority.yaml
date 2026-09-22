@@ -9428,7 +9428,15 @@ priority:
   type: startup
   reason: "Round monitoring 2026-09-21: created profile for €5.2M Series A (2026-09-10) led by P101 SGR"
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Biorsaf €5.2M Series A (2026-09-10) via 3 independent primary sources — EU-Startups [^1] (independent European tech press with verbatim Marco Papalini quote), Biorsaf press release [^2] (primary company source with Italian-language Papalini and Grammatico verbatim quotes), and P101 SGR news page [^3] (primary lead-investor source confirming P101 as lead of €5.2M round and Cooki acquisition creating "Italy''s leading Food RegTech platform"). Confirmed syndicate: P101 SGR lead with Maia Ventures, Farming Future (CDP Venture Capital + ToSeed & Partners), and Toscana Next participating. Added Marco Papalini (Biorsaf CEO) verbatim English quote from EU-Startups AND verbatim Italian company-release quote; added Giuseppe Grammatico (Cooki founder) verbatim Italian quote from Biorsaf release. Currency preserved (EUR).'
+  processed: '2026-09-21'
 - slug: gravity-gardens
   type: startup
   reason: "Round monitoring 2026-09-21: created profile for €2.6M Seed (2026-09-09) led by VP Capital"
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Gravity Gardens €2.6M Seed (2026-09-09; announced 2026-09-11 per EU-Startups) via 3 independent primary sources — EU-Startups [^1] (independent European tech press with verbatim Erica van Eeghen/VP Capital, Marcel Zijp/Brightlands Venture Partners, and Paulino Valdés/CEO founder quotes), Gravity Gardens newsroom [^2] (primary company source confirming announcement date and EU regulation context), and Gravity Gardens main site [^3] (primary company source listing investors VP Capital, Brightlands Venture Partners, Graduate Ventures and full founding team). Confirmed syndicate: VP Capital lead with Brightlands Venture Partners, Graduate Ventures, and private investors participating. Total funding to date >€3M (including EFRO Oost regional development funding). Added CFO Andrea Tonoli to founders frontmatter (previously missing). Added two verbatim investor quotes to What Investors Say and one verbatim Paulino Valdés founder quote to What Founders Say. Currency preserved (EUR).'
+  processed: '2026-09-21'

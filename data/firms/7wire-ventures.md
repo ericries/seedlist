@@ -41,7 +41,7 @@ team:
     slug: tiffany-yu-7wire
 tldr: "Chicago-based pure-play digital health investor ($500M+ AUM) founded by former Allscripts CEO Glen Tullman and President Lee Shapiro. Operates a 'Hatch' incubation program that created Livongo ($18.5B Teladoc acquisition) and Transcarent ($2.2B unicorn). Portfolio (28 verified) is 100% healthcare: 29% chronic disease management, 14% mental/behavioral health, 14% care navigation. Strategic LP coalition includes Cigna, Memorial Hermann, and Boeing, providing portfolio companies with distribution advantages."
 status: published
-last_researched: 2026-03-31
+last_researched: 2026-09-21
 ---
 
 ## About
@@ -109,7 +109,7 @@ Based on 28 verified portfolio investments, 7wire Ventures' actual investment be
 | GroundGame.Health | Series A | 2024 | Population health / SDOH | Active | [^27][^41] |
 | WellTheory | Series A ($14M; General Catalyst led; 7wire Ventures, Ingeborg Investments, Up2 Opportunity Fund new; Accel, Box Group returning) | 2025-10-14 | Autoimmune care | Active | [^28][^42][^68][^69] |
 | Override | Seed ($3.5M; co-led by 7wireVentures and Martin Ventures; SignalFire and Confluent Health participated) | 2022-12-15 | Chronic pain management | Active | [^29][^43][^70][^71] |
-| When Insurance | Series A | 2026-02-02 | Severance insurance | Active | [^11][^44] |
+| When Insurance | Series A ($10.2M; co-led by ManchesterStory and 7wire; Mairs and Power Venture Capital new; B Capital, Enfield Capital Partners, TTV Capital, Alumni Ventures returning; founders Andy Hamilton and Dan Wertheimer) | 2026-02-02 | Severance / benefits transitions insurance | Active | [^11][^44] |
 | ConsejoSano | Series A (USD 4.9M; 7wire Ventures led; Tufts Health Ventures, TOTAL Impact Capital, Wanxiang Healthcare Investments, Acumen, Oxeon Partners, Impact Engine participated; post-round total raised USD 7.2M; company later rebranded to SameSky Health) | 2017-02-21 | Hispanic telehealth | Merged (into GroundGame.Health, April 2024) | [^6][^53][^54][^55] |
 | CareDox | Series B | ~2018 | School health IT | Active | [^6] |
 | Medisafe | Series A (USD 6M; Pitango Venture Capital led; 7wire Ventures new; lool Ventures, TriVentures, Eyal Gura returning); 7wire continued participation as returning investor in Series B (USD 14.5M; 2017-03-01; Octopus Ventures led; M Ventures new) and Series C (USD 30M; 2021-02-25; co-led by Sanofi Ventures and ALIVE Israel HealthTech Fund) | 2015-01-13 | Medication management | Active | [^30][^79][^80][^81] |

@@ -851,7 +851,9 @@ vague_facts:
   line: '| When Insurance | Series A | 2026-02-02 | Severance insurance | Active | [^11][^44] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: SCANNER FALSE POSITIVE on column 5 (Source column, footnotes only). Row itself was thin — only "Series A | 2026-02-02" without amount or lead. ENRICHED row to: "Series A ($10.2M; co-led by ManchesterStory and 7wire; Mairs and Power Venture Capital new; B Capital, Enfield Capital Partners, TTV Capital, Alumni Ventures returning; founders Andy Hamilton and Dan Wertheimer) | 2026-02-02". Verified via 2 primary sources: FinSMEs [^44] (2026-02-02, primary trade press with full syndicate detail confirming $10.2M co-led by ManchesterStory + 7wire with participants and founders named) and 7wire Ventures portfolio page [^11] (primary co-lead investor listing). Third dedicated primary source (company press release at whenbenefits.com/news; 7wire''s "Our Investment in When" perspectives post; ManchesterStory news) could not be located this pass — WhenBenefits.com DNS did not resolve; 7wire and ManchesterStory news URLs returned 404. Row remains defensible with 2 primary sources; enrichment moves from thin row to fully-specific amount/lead/syndicate/founder attribution.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: ConsejoSano

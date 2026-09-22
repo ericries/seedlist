@@ -30,11 +30,15 @@ Biorsaf is a Castell'Azzara, Tuscany-based food-safety and workplace-compliance 
 
 ## What Investors Say
 
+No independently sourced investor quotes located in primary sources; P101 SGR and Maia Ventures news pages announced the round but did not publish direct investor commentary [^3].
+
 ## What Founders Say
 
-Marco Papalini, Biorsaf CEO: "This round will accelerate Biorsaf's growth ... the first step of a market consolidation strategy in an extremely fragmented sector." [^2]
+Marco Papalini, Biorsaf CEO (via EU-Startups): "This new funding round and the acquisition of Cooki accelerate Biorsaf's growth. In just three years, we have built Italy's reference platform for automating food compliance, and we are ready for the next development stage." [^1]
 
-Giuseppe Grammatico, Cooki founder: "A single digital platform ... to accompany companies in daily process management." [^2]
+Marco Papalini, Biorsaf CEO (via company release, in Italian): "acceleriamo la crescita di Biorsaf: in soli tre anni abbiamo costruito la piattaforma di riferimento per l'automazione della compliance alimentare in Italia" [^2]
+
+Giuseppe Grammatico, Cooki founder: "Un'unica piattaforma digitale pensata per accompagnare le aziende dei settori Ho.Re.Ca., GDO e Produzione alimentare nella gestione quotidiana dei propri processi." [^2]
 
 ## Sources
 

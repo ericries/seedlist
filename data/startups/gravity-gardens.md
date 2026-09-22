@@ -16,6 +16,8 @@ founders:
     role: "CEO & Co-Founder"
   - name: "Robin Le Vigouroux"
     role: "CTO & Co-Founder"
+  - name: "Andrea Tonoli"
+    role: "CFO"
 status: published
 last_researched: 2026-09-21
 ---
@@ -32,7 +34,13 @@ Gravity Gardens is a Nijmegen-based agtech company founded in 2024 that develops
 
 ## What Investors Say
 
+Erica van Eeghen, VP Capital: "The most impactful innovations often improve a system's foundations. Gravity Gardens' technology could make stronger crop establishment accessible to many farmers while using fewer natural resources." [^1]
+
+Marcel Zijp, Brightlands Venture Partners: "Gravity Gardens' platform stimulates the plant's natural power, and its cost competitive technology can be applied in a wide variety of crops." [^1]
+
 ## What Founders Say
+
+Paulino Valdés, CEO & Co-Founder: "What we have is dry, which takes those costs out. Cheap enough for field crops. That combination is what has not existed before." [^1]
 
 ## Sources
 
