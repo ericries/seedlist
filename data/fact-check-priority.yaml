@@ -1,4 +1,8 @@
 priority:
+- slug: lightspring
+  type: startup
+  reason: 'Round monitoring 2026-09-22: new profile — €3.5M Seed (€3.1M seed + €350k i-Lab grant) co-led by Atlantic and OVNI Capital, with Concept Ventures, Ixcore, Plug and Play Ventures participating (2026-09-22).'
+  added: 2026-09-22
 - slug: amber-electric
   type: startup
   reason: 'Round monitoring 2026-09-22: new profile — A$78.5M Series E led by 1GT (Morgan Stanley Investment Management), with E.ON, ETF Partners, Innovation Victoria (2026-09-21).'
