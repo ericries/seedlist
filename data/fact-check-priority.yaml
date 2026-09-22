@@ -7123,7 +7123,7 @@ priority:
   added: 2026-08-30
   status: resolved
   resolved: 2026-09-22
-  resolution_note: 'Fact-spec sweep 2026-09-22: verified Lupin Dental €15M (~$17.5M) Series A (2026-08-28) via 3 independent primary sources — Surgical Robotics Technology [^1], Dental Asia [^2], Tech Funding News [^3]. Fynveur lead (€10M direct) confirmed with existing shareholders, private investors, and Bpifrance loan participating; Invus (Fynveur advisor) taking board seat. Added co-founders Dr. Galip Gürel and Dr. Stefen Koubi to frontmatter and body, added verbatim founder quote to What Founders Say. Board detail added: Michel Mayer (Chairman, former Freescale CEO), Philippe Veran (Biotech Dental founder). Legal name Digicuto SAS noted.'
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Lupin Dental €15M (~$17.5M) Series A (2026-08-28) via 4 independent primary sources — Surgical Robotics Technology [^1], Dental Asia [^2], Tech Funding News [^3], and Lupin Dental company press page [^4] (added). Fynveur lead (€10M direct) confirmed with existing shareholders, private investors, and Bpifrance loan participating; Invus (Fynveur advisor) taking board seat. Added co-founders Dr. Galip Gürel and Dr. Stefen Koubi to frontmatter and body, added verbatim founder quote to What Founders Say. Board detail added: Michel Mayer (Chairman, former Freescale CEO), Philippe Veran (Biotech Dental founder). Legal name Digicuto SAS noted.'
   processed: '2026-09-22'
 - slug: yardstik
   type: startup
@@ -7131,7 +7131,7 @@ priority:
   added: 2026-08-30
   status: resolved
   resolved: 2026-09-22
-  resolution_note: 'Fact-spec sweep 2026-09-22: verified Yardstik $30M Series B (2026-08-27) via 3 independent primary sources — PR Newswire (via Morningstar) [^1], SiliconANGLE [^2], FinSMEs [^3]. Harbert Growth Partners lead confirmed with Rally Ventures, MissionOG, Crosslink Capital, Grotech Ventures, Great North Ventures participating; $65M total raised. Added CEO Andrew Johnson to frontmatter and body, added verbatim Andrew Johnson quote to What Founders Say. Confirmed metrics: 149% YoY revenue growth, 98% account retention over 3 years, 99.4% CSAT.'
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Yardstik $30M Series B (2026-08-27) via 4 independent primary sources — PR Newswire (via Morningstar) [^1], SiliconANGLE [^2], FinSMEs [^3], and Yardstik company news page [^4] (added). Harbert Growth Partners lead confirmed with Rally Ventures, MissionOG, Crosslink Capital, Grotech Ventures, Great North Ventures participating; $65M total raised. Added CEO Andrew Johnson to frontmatter and body, added verbatim Andrew Johnson quote to What Founders Say. Confirmed metrics: 149% YoY revenue growth, 98% account retention over 3 years, 99.4% CSAT.'
   processed: '2026-09-22'
 - slug: d1-capital-partners
   type: firm

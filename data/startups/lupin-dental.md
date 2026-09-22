@@ -28,9 +28,9 @@ Lupin Dental (legally Digicuto SAS) is a Montpellier-based early-stage dental ro
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-08-28 | Series A | €15M | Fynveur | Bpifrance, existing shareholders, private investors [^1][^2][^3] |
+| 2026-08-28 | Series A | €15M | Fynveur | Bpifrance, existing shareholders, private investors [^1][^2][^3][^4] |
 
-Fynveur committed €10M of the round; the balance came from existing shareholders and private investors, complemented by a Bpifrance loan [^1][^2][^3].
+Fynveur committed €10M of the round; the balance came from existing shareholders and private investors, complemented by a Bpifrance loan [^1][^2][^3][^4].
 
 ## What Investors Say
 
@@ -47,3 +47,4 @@ No independently sourced investor commentary found at time of profile creation.
 [^1]: Surgical Robotics Technology, "Lupin Dental Announces Close of €15 Million Series A Financing," August 28, 2026, accessed August 2026. https://www.surgicalroboticstechnology.com/news/lupin-dental-announces-close-of-e15-million-series-a-financing/
 [^2]: Dental Asia, "Montpellier-based dental robotics start-up Lupin Dental closes €15m ($17.5m) Series A round," August 2026, accessed August 2026. https://dentalasia.net/montpellier-based-dental-robotics-start-up-lupin-dental-closes-e15m-17-5m-series-a-round/
 [^3]: Tech Funding News, "Lupin Dental grabs €15M from Fynveur to bring robotic veneer prep to dentists," August 2026, accessed August 2026. https://techfundingnews.com/lupin-dental-raises-15m-robotic-veneer-prep/
+[^4]: Lupin Dental company press page, "Lupin Dental Announces Close of €15 Million Series A Financing," August 28, 2026, accessed September 22, 2026. https://www.lupindental.com/press/
