@@ -616,7 +616,9 @@ vague_facts:
   line: '| Konfio | Seed (aggregator-only 500 Startups attribution — primary sources for Konfio''s actual seed round (October 2014'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: SCANNER FALSE POSITIVE — column 5 is the citation Source column, which correctly contains only footnote references. Row itself is fully specific and explicitly flags the aggregator-only nature of 500 Startups'' Konfio attribution — a documented failure pattern for 500 Global''s Crunchbase-derived portfolio data (same pattern as Wildfire/MakerBot/Simple/Grab/Carousell). Re-verified via 3 independent primary sources: (1) Accion "Konfio innovates in digital lending for Mexican MSMEs" case study [^61] — FIRST-PARTY primary source from Accion Venture Lab (Konfio''s actual seed investor), states "In October of 2014, Venture Lab decided to invest in Konfio''s seed funding round," followed by May 2016 USD 8M Series A led by QED Investors and Kaszek Ventures. 500 Startups is NOT named in any Konfio round in this primary case study. (2) Nearshore Americas "Mexican Fintech Start-up Konfio Raises $8 Million in Funding" (2016-05-27) [^62] — independent LatAm tech trade press primary for the Series A, names Accion Frontier Inclusion Fund (managed by Quona Capital), QED Investors, Kaszek Ventures, and Jaguar Ventures as investors. 500 Startups is NOT named. (3) Crunchbase 500 Global profile [^12] — aggregator that reports the attribution but is contradicted by primary sources above. Row correctly documents this discrepancy rather than accepting the aggregator claim at face value. Row remains as-is.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Clip (PayClip)
@@ -700,7 +702,9 @@ vague_facts:
   line: '| Livongo | Formation / Seed (7wire hatched); Series A ($10M, 2014-09-10, led by General Catalyst) | 2013–2014-09-10 | C'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: SCANNER FALSE POSITIVE — column 5 is the citation Source column, which correctly contains only footnote references. Row itself is fully specific: 2014-09-10 launch/Series A date, $10M amount, General Catalyst named as lead, 7wire hatched formation. Re-verified via 3 independent primary sources: (1) PR Newswire "Glen Tullman Launches Livongo Health" (2014-09-10) [^48] — primary company launch press release, WebFetched, confirms September 10, 2014 launch date, $10M Series A, General Catalyst Partners as lead, 7wire Ventures as prior/existing investor. Includes Hemant Taneja (General Catalyst MD) verbatim quote "We''re excited to partner with Glen and team to help accomplish their mission." (2) PE Hub "Livongo Health raises $10 mln Series A" (2014-09-11) [^49] — independent trade press primary, WebFetched, confirms $10M Series A on 2014-09-11 announcement. (3) Crunchbase 7wire Ventures Company Profile [^11] — aggregator cross-reference confirming Livongo portfolio membership. Row remains as-is.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Transcarent
@@ -710,7 +714,9 @@ vague_facts:
   line: '| Transcarent | Series A ($40M, co-led by General Catalyst (Hemant Taneja) and 7wireVentures (Lee Shapiro); Alta Partner'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: SCANNER FALSE POSITIVE — column 5 is the citation Source column, which correctly contains only footnote references. Row itself is fully specific: 2020-10-22 Series A date, $40M amount, co-leads General Catalyst (Hemant Taneja) + 7wireVentures (Lee Shapiro) named, participants Alta Partners + Jove Equity Partners named, sector/status filled. Re-verified via 3 independent primary sources: (1) Transcarent press release "Glen Tullman Joins Transcarent as Chief Executive Officer" (2021-03-18) [^50] — primary company press release, WebFetched, confirms October 2020 close date, $40M Series A, co-led by Hemant Taneja (General Catalyst Managing Partner) and Lee Shapiro (7wireVentures Managing Partner), participants Alta Partners and Jove Equity Partners, and notes both 7wireVentures and General Catalyst previously invested in Livongo. (2) Forbes/Katie Jennings "Concierge Medicine On Steroids" (2021-03-18) [^51] — independent tech press primary for the public disclosure. (3) STAT News Series D coverage (2024-05-02) [^12] and Transcarent Series D press release [^13] — cross-referenced primary sources confirming Transcarent''s fundraising history including the 2020 Series A. Row remains as-is.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: NOCD
