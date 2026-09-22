@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Respiree Extends Series A Syndicate with Addition of International Investors
+    to Support Continued Global Growth
+  url: https://www.globenewswire.com/news-release/2026/09/22/3365926/0/en/respiree-extends-series-a-syndicate-with-addition-of-international-investors-to-support-continued-global-growth.html
+  source: globenewswire
+  date_found: '2026-09-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: London’s Metris Energy raises €4.35 million to scale AI platform for managing
     renewable energy assets
   url: https://www.eu-startups.com/2026/09/londons-metris-energy-raises-e4-35-million-to-scale-ai-platform-for-managing-renewable-energy-assets/
@@ -79,13 +88,13 @@ pending_rounds:
   parsed_amount: $20M
   parsed_round: Seed
   status: pending
-- title: Corridor raises $25M seed to build a health benefits brokerage for SMBs
-  url: https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/
-  source: techcrunch
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/21/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-21-2026/
+  source: alleywatch
   date_found: '2026-09-21'
-  parsed_company: Corridor
-  parsed_amount: $25M
-  parsed_round: Seed
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
   status: pending
 - title: Amsterdam’s Phosphoenix raises €1.3 million to advance neuroprosthesis for
     profound blindness
@@ -818,21 +827,3 @@ pending_rounds:
   parsed_amount: $15M
   parsed_round: Series A
   status: pending
-- title: Cymphony raised $30M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-10'
-  parsed_company: Cymphony
-  parsed_amount: $30M
-  parsed_round: null
-  status: pending
-- title: Carrum Mobility raised $10M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-10'
-  parsed_company: Carrum Mobility
-  parsed_amount: $10M
-  parsed_round: Series B
-  status: processed
-  processed: '2026-09-11'
-  profile: carrum-mobility

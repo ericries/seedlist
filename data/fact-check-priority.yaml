@@ -9440,3 +9440,7 @@ priority:
   resolved: 2026-09-21
   resolution_note: 'Fact-spec sweep 2026-09-21: verified Gravity Gardens €2.6M Seed (2026-09-09; announced 2026-09-11 per EU-Startups) via 3 independent primary sources — EU-Startups [^1] (independent European tech press with verbatim Erica van Eeghen/VP Capital, Marcel Zijp/Brightlands Venture Partners, and Paulino Valdés/CEO founder quotes), Gravity Gardens newsroom [^2] (primary company source confirming announcement date and EU regulation context), and Gravity Gardens main site [^3] (primary company source listing investors VP Capital, Brightlands Venture Partners, Graduate Ventures and full founding team). Confirmed syndicate: VP Capital lead with Brightlands Venture Partners, Graduate Ventures, and private investors participating. Total funding to date >€3M (including EFRO Oost regional development funding). Added CFO Andrea Tonoli to founders frontmatter (previously missing). Added two verbatim investor quotes to What Investors Say and one verbatim Paulino Valdés founder quote to What Founders Say. Currency preserved (EUR).'
   processed: '2026-09-21'
+- slug: kairos-power
+  type: startup
+  reason: 'Round monitoring 2026-09-21: new profile — up to $100M strategic investment ($70M equity + $30M in-kind engineering services) from Samsung C&T for KP-FHR deployment supporting Google multi-plant partnership.'
+  added: 2026-09-21
