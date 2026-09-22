@@ -2,7 +2,7 @@
 founded: 1983
 fund_size: $9.6B current fund size; $19.56B total raised across all funds; $4B growth
   fund (2022); $650M India/SEA fund (2025); $650M Europe/Israel fund (2024)
-last_researched: 2026-07-06
+last_researched: 2026-09-21
 location: Palo Alto, CA
 name: Accel
 sector_focus:
@@ -246,6 +246,7 @@ Based on Accel's verified portfolio of 1,190+ investments [^5], the following pa
 | Apna Mart | Series C (₹120 Cr / ~$12.7M, co-led with Fundamentum — each ₹55 Cr; Peak XV Partners participated with ₹10 Cr; ₹1,470 Cr post-money valuation) | 2026-07-30 | Quick Commerce / Grocery / FMCG / India | [^apna1][^apna2] |
 | Sapiom | Seed ($15.75M, led — Accel first institutional check into Ilan Zerbib's AI-agent infrastructure company) | 2026-02-06 | AI / Agent Infrastructure / Developer Tools | [^sapiom1][^sapiom2][^sapiom3] |
 | Sapiom | Series A ($35M; participated — Dragonfly led with Haseeb Qureshi; Gradient, Coinbase Ventures, Operator Collective, Formus Capital, VanEck Ventures, Okta Ventures, Menlo Ventures, Anthropic, Array Ventures also participating) | 2026-08-05 | AI / Agent Infrastructure / Developer Tools | [^sapiom1][^sapiom2][^sapiom3] |
+| Clarion Health (Anaphero, YC W24) | Seed ($10M, led; Y Combinator and Sequoia scout participated) | 2026-09-21 | Healthcare / AI / Voice Agents | [^clarion1][^clarion2][^clarion3] |
 
 This table represents a subset of Accel's 1,190+ total investments [^5].
 
@@ -552,3 +553,7 @@ One founder concluded: "if you are lucky to get Accel as an investor, go for it"
 [^sapiom2]: BusinessWire, "Sapiom Raises $35 Million Series A to Power the Next Trillion AI Agents," August 5, 2026. Accessed September 2026. https://www.businesswire.com/news/home/20260805915898/en/Sapiom-Raises-%2435-Million-Series-A-to-Power-the-Next-Trillion-AI-Agents — Primary company-issued press release. Confirms Dragonfly as lead with Accel among named participants; establishes $50M total funding, ~270M transactions processed, 100,000+ daily agents.
 
 [^sapiom3]: PYMNTS, "Sapiom Secures $35 Million to Help Companies Control AI Agent Costs," August 5, 2026. Accessed September 2026. https://www.pymnts.com/news/artificial-intelligence/2026/sapiom-secures-35-million-to-help-companies-control-ai-agent-costs/ — Third independent contemporaneous tech press confirmation of the $35M Series A, Dragonfly-led, with Accel as a returning participant.
+
+[^clarion1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/21/2026," September 21, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-21-2026/ — Independent daily VC-funding aggregator confirming Accel led a $10M seed for Clarion Health with Y Combinator participating; identifies Ryan Gallagher and Jeffrey Lamothe as co-founders and founding year 2024.
+[^clarion2]: Clarion Health company website, "Company" page, https://www.clarionhealth.com/company. Accessed September 2026. — Primary company source confirming Accel as a backer (alongside Y Combinator and Sequoia Scout) and identifying Ryan Gallagher, MD as CEO & Co-Founder and Jeffrey Lamothe as CTO & Co-Founder.
+[^clarion3]: Y Combinator Startup Directory, "Clarion" (corporate entity Anaphero, W24), https://www.ycombinator.com/companies/clarion. Accessed September 2026. — Primary YC directory listing confirming Accel among named backers of Clarion (Anaphero) in the YC Winter 2024 batch, based in New York City.

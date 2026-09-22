@@ -9444,14 +9444,26 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-21: new profile — up to $100M strategic investment ($70M equity + $30M in-kind engineering services) from Samsung C&T for KP-FHR deployment supporting Google multi-plant partnership.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Kairos Power / Samsung C&T $100M strategic investment (2026-09-21) via 3 independent primary sources — TechCrunch [^1] (tier-1 tech press with $70M equity + $30M in-kind structure, Samsung C&T EPC role, and confirmation that reactors will supply about half a gigawatt (~500 MW) by 2035 under the Google multi-plant agreement; also cites NRC construction approval late 2024), Kairos Power press release [^2] (primary company source with verbatim executive quotes from CEO Mike Laufer, CTO Ed Blandford, VP Commercial Jeff Olson, and Samsung C&T Head of Energy Solution Alex CW Lee), and Kairos Power updates/news page [^3] (primary company newsroom framing the collaboration). Expanded About section to specify deal structure, Samsung C&T experience (built or helped build about a dozen nuclear reactors globally), Google 500-MW-by-2035 target, and NRC approval. Added Jeff Olson quote to What Founders Say. Currency preserved (USD).'
+  processed: '2026-09-21'
 - slug: luzern-risk
   type: startup
   reason: 'Round monitoring 2026-09-21: new profile — $45M Series B led by Insight Partners; participants Trust Ventures, Caffeinated Capital.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Luzern Risk $45M Series B via 3 independent primary sources — FinSMEs [^3] (independent tier-2 press confirming exact announcement date 2026-09-17, $45M Series B led by Insight Partners with Trust Ventures and returning investor Caffeinated Capital participating, Gabriel Weiss as CEO and Jonathan York as CTO, and use of proceeds), AlleyWatch [^1] (independent daily VC aggregator confirming full syndicate list, all four co-founders, and $58.5M total equity to date), and Luzern Risk company website [^2] (primary company source with $45M Series B banner). Corrected announcement date from 2026-09-21 to 2026-09-17 (per FinSMEs primary). Updated location to New York, NY. Updated Weiss title to CEO & Co-Founder and York to CTO & Co-Founder (per FinSMEs). Added Series A row for April 2025 $12M led by Caffeinated Capital (also from FinSMEs). Added Luzern Risk row to insight-partners.md portfolio table with 3 citations and bumped Insight last_verified_investment from Kastle 2026-09-17 Series A to Luzern Risk 2026-09-17 Series B. Currency preserved (USD).'
+  processed: '2026-09-21'
 - slug: clarion-health
   type: startup
   reason: 'Round monitoring 2026-09-21: new profile — $10M Seed led by Accel with Y Combinator participating.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-21
+  resolution_note: 'Fact-spec sweep 2026-09-21: verified Clarion Health $10M Seed (2026-09-21) via 3 independent primary sources — AlleyWatch [^1] (independent daily VC aggregator confirming Accel-led round with Y Combinator participating and identifying founders Ryan Gallagher and Jeffrey Lamothe), Clarion Health company site /company page [^2] (primary company source confirming Ryan Gallagher, MD as CEO & Co-Founder and Jeffrey Lamothe as CTO & Co-Founder; naming Accel, Y Combinator, and Sequoia Scout as backers), and Y Combinator Startup Directory entry for Clarion / Anaphero W24 [^3] (primary YC directory listing confirming YC W24 batch, New York City location, primary YC partner Jared Friedman, Gallagher''s prior founding roles at Two Chairs and Ophelia YC W20, Lamothe''s prior voice-AI leadership at Amazon Alexa and AI/ML at Salesforce, and reported reach of tens of thousands of patients monthly). Updated location from "United States" to "New York, NY". Updated founder titles. Added Sequoia (scout) and operator-angel context to co-investors. Added Clarion Health rows to accel.md and y-combinator.md portfolio tables with 3 primary citations each. Currency preserved (USD).'
+  processed: '2026-09-21'
 - slug: adaptive-real-estate
   type: startup
   reason: 'Round monitoring 2026-09-21: new profile — $30M Series B led by Tidemark; participants Emergence Capital, Andreessen Horowitz, Pathlight, Definition, 3KVC (2026-09-17).'

@@ -134,13 +134,13 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | Tide | Early stage | ~2019 | Fintech/Banking | Active (unicorn) | [^19] |
 | Better Stack | Series A | 2022 | Developer Tools/DevOps | Active | [^25] |
 | Lindus Health | Series A (USD 18M; Creandum-led, Fredrik Cassel GP; Peter Thiel, Firstminute Capital, Seedcamp, Hambro Perks, Amino Collective, Page One Ventures, Calm/Storm participated) | 2023-08-16 | Health/Clinical Trials | Active | [^26][^lindus-c1] |
-| Embat | Series A | ~2023 | Fintech/Treasury | Active | [^5] |
+| Embat | Series A (€14.7M / ~$16M; Creandum-led, Peter Specht GP; Samaipata, 4Founders, Venture Friends existing investors; angel Martin Blessing (former Commerzbank CEO)) | 2024-02-27 | Fintech/Treasury | Active | [^embat-c1][^embat-c2][^embat-c3] |
 | Codesphere | Series A (USD 18M; Creandum-led; participants: 468 Capital, LEA Partners, Begin Capital, 42CAP; angels: Ben Uretsky (Digital Ocean), Auke van Urk (Valtech), Ewa Treitz (AWS), Dion Almaer (Google Cloud)) | 2024-05-17 | Developer Tools/Cloud | Active | [^27][^cs-c1][^cs-c2][^cs-c3] |
 | Amie | Early stage | ~2022 | Productivity/SaaS | Active | [^6] |
 | TWAICE | Early stage | ~2020 | Climate/Battery Analytics | Active | [^6] |
 | cargo.one | Early stage | ~2020 | Logistics/Marketplace | Active | [^6] |
 | Leapsome | Early stage | ~2021 | HR Tech/SaaS | Active | [^6] |
-| Packfleet | Early stage | ~2023 | Logistics/Delivery | Active | [^5] |
+| Packfleet | Series A ($10M; co-led by General Catalyst and Voyager Ventures; Creandum, Entree Capital, Founder Collective participated as existing investors) | 2024-03-11 | Logistics/Delivery | Acquired by DHL (March 2025) | [^packfleet-c1][^packfleet-c2][^packfleet-c3] |
 | Monta | Early stage | ~2022 | Climate/EV Charging | Active | [^5] |
 | Lovable | Pre-Series A (led by Fredrik Cassel, USD 15M; Visionaries Club participated; angel co-investors: Charlie Songhurst, Adam D'Angelo, Thomas Wolf (Hugging Face), Erik Bernhardsson (Modal Labs)) | 2025-02-25 | AI/Developer Tools | Active (USD 6.6B valuation at later round) | [^28][^44][^45][^46] |
 | Atla | Early stage | ~2024 | AI/Mobile | Active | [^5] |
@@ -279,3 +279,15 @@ No independently sourced founder testimonials found. Creandum's reputation among
 [^jj-c2]: Air Street Press (Nathan Benaich), "Jack & Jill Series A," September 2026. Accessed September 2026. https://press.airstreet.com/p/jack-and-jill-series-a — Primary investor source (Air Street, lead) explicitly confirms Creandum participated again as an existing investor in the $40M Series A alongside Madrona (new) and Entrepreneurs First (existing).
 
 [^jj-c3]: Jack & Jill (Tinker Tailor Talent Ltd.), company website, accessed September 2026. https://jackandjill.ai — Primary company source confirming traction backing the Series A (385,604 professionals using Jack; 5,358 companies using Jill; 101,840,711 job matches reviewed).
+
+[^embat-c1]: EU-Startups, "Madrid-based fintech Embat raises €14.7 million Series A to fuel up next-gen treasury management," February 27, 2024. Accessed September 2026. https://www.eu-startups.com/2024/02/madrid-based-fintech-embat-raises-e14-7-million-series-a-to-fuel-up-next-gen-treasury-management/ — Contemporaneous European trade press confirming €14.7M Series A led by Creandum on 2024-02-27 with Samaipata, 4Founders, and Venture Friends (existing investors) participating; angel Martin Blessing (former Commerzbank CEO) also joined. Founders Antonio Berga, Carlos Serrano (both ex-JPMorgan), Tomás Gil (CTO).
+
+[^embat-c2]: Tech.eu, Dan Taylor, "Fintech startup Embat raises $16M for corporate treasury management expansion," February 27, 2024. Accessed September 2026. https://tech.eu/2024/02/27/fintech-startup-embat-raises-16m-for-corporate-treasury-management-expansion — Independent European tech-press confirmation of same-day announcement; USD figure ~$16M, Creandum-led with Peter Specht joining the board.
+
+[^embat-c3]: Creandum portfolio commitments page, "Embat." Accessed September 2026. https://creandum.com/commitments/embat — Investor's own record dated February 27, 2024 naming Peter Specht as Creandum Lead on the Embat Series A.
+
+[^packfleet-c1]: Tech.eu, Cate Lawrence, "Carbon-neutral courier Packfleet secures $10M for expansion," March 13, 2024. Accessed September 2026. https://tech.eu/2024/03/13/carbon-neutral-courier-packfleet-secures-10m-for-expansion — Contemporaneous European trade press confirming $10M Series A co-led by General Catalyst and Voyager Ventures with Creandum, Entree Capital, and Founder Collective (all existing investors) participating. Founders Tristan Thomas (CEO), Josh Garnham, Hugo Cornejo (ex-Monzo).
+
+[^packfleet-c2]: Retail Technology Innovation Hub, "Packfleet bags $10 million in Series A funding, co-led by General Catalyst and Voyager Ventures," March 12, 2024. Accessed September 2026. https://retailtechinnovationhub.com/home/2024/3/12/packfleet-bags-10-million-in-series-a-funding-co-led-by-general-catalyst-and-voyager-ventures — Independent trade-press confirmation with named co-leads Juliet Bailin (General Catalyst) and Sarah Sclarsic (Voyager Ventures Founding Partner).
+
+[^packfleet-c3]: Reuters, "UK electric vehicle delivery company Packfleet raises $10 mln," March 11, 2024. Accessed September 2026. https://www.reuters.com/business/autos-transportation/ — Primary Anglo-financial press confirmation of $10M Series A closing on 2024-03-11; note company was later acquired by DHL in March 2025.
