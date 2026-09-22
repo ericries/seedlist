@@ -405,3 +405,107 @@
   source: co-investor on Nexstrom Seed 2026-09-22 ($12M); Singapore Enterprise Singapore fund
   discovered_from: nexstrom
   priority: normal
+- name: Footwork
+  type: firm
+  source: co-investor on Confido Series B 2026-09-22 ($55M, Insight Partners lead)
+  discovered_from: confido
+  priority: high
+- name: Mike Smith
+  type: individual
+  firm: Footwork
+  source: Co-Founder and General Partner of Footwork; participated in Confido Series B 2026-09-22
+  discovered_from: confido
+  priority: high
+- name: Trenches Capital
+  type: firm
+  source: co-investor on Confido Series B 2026-09-22 ($55M, Insight Partners lead)
+  discovered_from: confido
+  priority: high
+- name: Larry Fitzgerald Jr.
+  type: individual
+  firm: Trenches Capital
+  source: Co-Founder of Trenches Capital; participated in Confido Series B 2026-09-22
+  discovered_from: confido
+  priority: high
+- name: Watchfire Ventures
+  type: firm
+  source: co-investor on Confido Series B 2026-09-22
+  discovered_from: confido
+  priority: normal
+- name: Barrel Ventures
+  type: firm
+  source: co-investor on Confido Series B 2026-09-22
+  discovered_from: confido
+  priority: normal
+- name: Rebecca Liu-Doyle
+  type: individual
+  firm: Insight Partners
+  source: Managing Director at Insight Partners; led Confido Series B 2026-09-22
+  discovered_from: confido
+  priority: normal
+- name: Justin Hunter
+  type: individual
+  firm: Confido
+  source: Co-Founder and CEO of Confido; raised $55M Series B 2026-09-22 (Insight Partners lead)
+  discovered_from: confido
+  priority: low
+- name: Kara Holinski
+  type: individual
+  firm: Confido
+  source: Co-Founder of Confido; MIT engineering background
+  discovered_from: confido
+  priority: low
+- name: Entrée Capital
+  type: firm
+  source: led Chamelio Series A 2026-09-22 ($26M); Israel-focused venture firm
+  discovered_from: chamelio
+  priority: high
+- name: Work-Bench
+  type: firm
+  source: co-investor on Chamelio Series A 2026-09-22
+  discovered_from: chamelio
+  priority: high
+- name: Emerge Ventures
+  type: firm
+  source: co-investor on Chamelio Series A 2026-09-22
+  discovered_from: chamelio
+  priority: normal
+- name: Bright Pixel Capital
+  type: firm
+  source: co-investor on Chamelio Series A 2026-09-22
+  discovered_from: chamelio
+  priority: normal
+- name: Alex Zilberman
+  type: individual
+  firm: Chamelio
+  source: CEO and Co-Founder of Chamelio; formerly COO and co-founder of AnyVision, leadership at Pagaya
+  discovered_from: chamelio
+  priority: normal
+- name: Gil Banyas
+  type: individual
+  firm: Chamelio
+  source: COO and Co-Founder of Chamelio; former general counsel at AnyVision
+  discovered_from: chamelio
+  priority: low
+- name: Gal Lellouche
+  type: individual
+  firm: Chamelio
+  source: CTO and Co-Founder of Chamelio; prior AI startup acquired by Sage
+  discovered_from: chamelio
+  priority: low
+- name: Goldman Sachs
+  type: firm
+  source: led Cyera Series G extension 2026-09-22 ($400M) via Growth Equity at Goldman Sachs Alternatives
+  discovered_from: cyera
+  priority: high
+- name: Irit Kahan
+  type: individual
+  firm: Goldman Sachs
+  source: Managing Director at Goldman Sachs; led Cyera Series G extension 2026-09-22
+  discovered_from: cyera
+  priority: normal
+- name: Blackstone
+  type: firm
+  source: co-investor on Cyera Series G extension 2026-09-22
+  discovered_from: cyera
+  priority: normal
