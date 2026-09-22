@@ -9488,3 +9488,23 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-21: Adaptive $30M Series B (2026-09-17) — participant. Portfolio addition candidate.'
   added: 2026-09-21
+- slug: balderton-capital
+  type: firm
+  reason: 'Round monitoring 2026-09-22: Spott Series A (2026-09-22) — led. Portfolio addition candidate.'
+  added: 2026-09-22
+- slug: y-combinator
+  type: firm
+  reason: 'Round monitoring 2026-09-22: Spott Series A (2026-09-22) — participant. Portfolio addition candidate.'
+  added: 2026-09-22
+- slug: spott
+  type: startup
+  reason: 'Round monitoring 2026-09-22: new profile — €18.3M Series A led by Balderton Capital.'
+  added: 2026-09-22
+- slug: primo-fr
+  type: startup
+  reason: 'Round monitoring 2026-09-22: new profile — €6.9M seed led by Headline and Global Founders Capital.'
+  added: 2026-09-22
+- slug: morphotonics
+  type: startup
+  reason: 'Round monitoring 2026-09-22: new profile — €40M Series B extension with 3M Ventures, Innovation Industries, BOM, Invest-NL.'
+  added: 2026-09-22

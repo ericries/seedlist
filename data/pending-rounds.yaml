@@ -29,6 +29,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: Paris-based Primo raises €6.9 million to deploy autonomous AI agents for
+    IT teams
+  url: https://www.eu-startups.com/2026/09/paris-based-primo-raises-e6-9-million-to-deploy-autonomous-ai-agents-for-it-teams/
+  source: eu-startups
+  date_found: '2026-09-22'
+  parsed_company: Paris-based Primo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Leuven-based Spott raises €18.3 million to build the AI-native operating
+    system for recruitment agencies
+  url: https://www.eu-startups.com/2026/09/leuven-based-spott-raises-e18-3-million-to-build-the-ai-native-operating-system-for-recruitment-agencies/
+  source: eu-startups
+  date_found: '2026-09-22'
+  parsed_company: Leuven-based Spott
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: London’s Metris Energy raises €4.35 million to scale AI platform for managing
     renewable energy assets
   url: https://www.eu-startups.com/2026/09/londons-metris-energy-raises-e4-35-million-to-scale-ai-platform-for-managing-renewable-energy-assets/
@@ -324,14 +342,6 @@ pending_rounds:
   status: processed
   notes: created startup profile ryft.md; £20M/€23M Series B led by Gresham House
     Ventures with Pembroke VCT, Ingenii Capital
-- title: Luzern Risk raised $45M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-17'
-  parsed_company: Luzern Risk
-  parsed_amount: $45M
-  parsed_round: Series B
-  status: pending
 - title: BackOps raised $42M Series B
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -810,28 +820,4 @@ pending_rounds:
   parsed_company: Sequen
   parsed_amount: $90M
   parsed_round: Series B
-  status: pending
-- title: ARC raised $60M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-10'
-  parsed_company: ARC
-  parsed_amount: $60M
-  parsed_round: null
-  status: pending
-- title: Lattitude raised $35M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-10'
-  parsed_company: Lattitude
-  parsed_amount: $35M
-  parsed_round: Series A
-  status: pending
-- title: Piston raised $15M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-10'
-  parsed_company: Piston
-  parsed_amount: $15M
-  parsed_round: Series A
   status: pending
