@@ -39,7 +39,7 @@ Confido is an AI-native financial and operations platform for consumer packaged 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-22 | Series B | $55M | Insight Partners | Footwork, Trenches Capital, Watchfire, Barrel Ventures, Y Combinator [^1][^2][^3] |
+| 2026-09-22 | Series B | $55M | Insight Partners | Footwork, Trenches Capital, Watchfire, Barrel Ventures, Y Combinator [^1][^2][^3][^4] |
 
 The Series B brings Confido's total funding to $77M and will fund development of "agentic, zero-click workflows" across the platform, expansion into food service, and hiring across product, engineering, and go-to-market [^1].
 
@@ -60,3 +60,4 @@ The Series B brings Confido's total funding to $77M and will fund development of
 [^1]: Confido blog, "Confido raises $55M Series B to scale the AI operating system for CPG brands," September 22, 2026. Accessed September 22, 2026. https://www.confidotech.com/blogs/confido-raises-55m-series-b-to-scale-the-ai-operating-system-for-cpg-brands
 [^2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/22/2026," September 22, 2026. Accessed September 22, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-22-2026/
 [^3]: Y Combinator company directory, "Confido," accessed September 22, 2026. https://www.ycombinator.com/companies/confido
+[^4]: FinSMEs, "Confido Raises $55M in Series B Funding," September 22, 2026. Accessed September 22, 2026. https://www.finsmes.com/2026/09/confido-raises-55m-in-series-b-funding.html — Independent primary press confirming $55M Series B led by Insight Partners with Trenches Capital, Watchfire, Barrel Ventures, Footwork, and Y Combinator participating; total funding to date $77M.

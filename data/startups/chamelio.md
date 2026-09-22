@@ -33,7 +33,7 @@ Chamelio is an Israeli legal intelligence platform (operating as Innvo AI Inc.) 
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-22 | Series A | $26M | Entrée Capital | Work-Bench, Emerge Ventures, Bright Pixel Capital [^1][^2] |
+| 2026-09-22 | Series A | $26M | Entrée Capital | Work-Bench, Emerge Ventures, Bright Pixel Capital [^1][^2][^4] |
 
 The company reports that annual recurring revenue grew fourfold in the eight months since its seed round [^1].
 
@@ -52,3 +52,4 @@ Zilberman further characterized the product goal as delivering contracts "at AI 
 [^1]: CTech (Calcalist), "Chamelio raises $26 million Series A to replace legacy legal software with AI agents," September 22, 2026. Accessed September 22, 2026. https://www.calcalistech.com/ctechnews/article/sjxcxry9gl
 [^2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/22/2026," September 22, 2026. Accessed September 22, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-22-2026/
 [^3]: Chamelio company website, "Chamelio — AI Legal Intelligence Platform," accessed September 22, 2026. https://www.chamelio.ai/
+[^4]: FinSMEs, "Chamelio Raises $26M in Series A Funding," September 22, 2026. Accessed September 22, 2026. https://www.finsmes.com/2026/09/chamelio-raises-26m-in-series-a-funding.html — Independent primary press confirming $26M Series A led by Entrée Capital with Work-Bench, Emerge Ventures, and Bright Pixel Capital participating; use of proceeds includes further developing its proprietary legal action model, growing legal engineering and product teams, and investing in onboarding technology.

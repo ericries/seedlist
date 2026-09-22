@@ -3,8 +3,8 @@ founded: 1995
 tldr: "New York-based global software investor founded 1995 by Jeff Horing and Jerry Murdock. Manages $90B+ AUM; Fund XIII plus Opportunities Fund II closed on $12.5B in January 2025. Stage-agnostic within software with 875+ investments, 55+ IPOs and a 130-person Insight Onsite operational arm. Notable positions include Wiz, SentinelOne, Shopify, Qualtrics, JFrog, Recorded Future and Checkout.com."
 fund_size: $90B+ AUM; Fund XIII at $12.5B
 last_verified_investment:
-  company: Luzern Risk
-  date: 2026-09-17
+  company: Confido
+  date: 2026-09-22
   round: Series B
 last_researched: 2026-09-21
 location: New York, NY
@@ -152,6 +152,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Easy Aerial | Series B ($20M, led; Entrée Capital and private U.S. investors also participated) | 2026-08-31 | Defense / Drones / Autonomous Systems | Active | [^ea1][^ea2][^ea3] |
 | Kastle | Series A ($24M, led; Fifth Wall new, Y Combinator and Commerce Ventures returning) | 2026-09-17 | AI / Fintech / Banking / Lending | Active | [^kst1][^kst2][^kst3] |
 | Luzern Risk | Series B ($45M, led; Trust Ventures and returning investor Caffeinated Capital participated) | 2026-09-17 | Insurtech / AI / Captive Insurance | Active | [^lz1][^lz2][^lz3] |
+| Confido | Series B ($55M, led; Footwork, Trenches Capital, Watchfire, Barrel Ventures, Y Combinator participated) | 2026-09-22 | Fintech / AI / CPG Financial Automation | Active | [^cfd1][^cfd2][^cfd3] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -302,3 +303,7 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^lz1]: FinSMEs, "Luzern Risk Raises $45M in Series B Funding," September 17, 2026. Accessed September 2026. https://www.finsmes.com/2026/09/luzern-risk-raises-45m-in-series-b-funding.html — Independent primary press confirming $45M Series B led by Insight Partners with Trust Ventures and returning investor Caffeinated Capital participating; identifies Gabriel Weiss (CEO) and Jonathan York (CTO) among co-founders.
 [^lz2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/21/2026," September 21, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-21-2026/ — Independent daily VC-funding aggregator confirming $45M Series B led by Insight Partners; total equity raised to $58.5M.
 [^lz3]: Luzern Risk company website, funding announcement banner, https://luzernrisk.com. Accessed September 2026. — Primary company source confirming $45M Series B led by Insight Partners.
+
+[^cfd1]: Confido blog, "Confido raises $55M Series B to scale the AI operating system for CPG brands," September 22, 2026. Accessed September 22, 2026. https://www.confidotech.com/blogs/confido-raises-55m-series-b-to-scale-the-ai-operating-system-for-cpg-brands — Company's own announcement confirming $55M Series B led by Insight Partners with Footwork, Trenches Capital, Watchfire, Barrel Ventures, and Y Combinator participating; includes Rebecca Liu-Doyle (Insight Partners Managing Director) quote.
+[^cfd2]: FinSMEs, "Confido Raises $55M in Series B Funding," September 22, 2026. Accessed September 22, 2026. https://www.finsmes.com/2026/09/confido-raises-55m-in-series-b-funding.html — Independent primary press confirming $55M Series B led by Insight Partners with participants; total funding to date $77M.
+[^cfd3]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/22/2026," September 22, 2026. Accessed September 22, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-22-2026/ — Independent daily VC-funding aggregator confirming $55M Series B led by Insight Partners.

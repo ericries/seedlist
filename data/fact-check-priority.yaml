@@ -3,18 +3,34 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-22: Series G extension $400M led by Growth Equity at Goldman Sachs Alternatives at >$12B valuation; added to existing profile.'
   added: 2026-09-22
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Cyera $400M Series G extension (2026-09-22) at $12B+ valuation via 3 independent primary sources — Cyera press release [^4], AlleyWatch daily funding report [^5], and FinSMEs [^6] (added). Growth Equity at Goldman Sachs Alternatives lead confirmed; Evolution Equity participated per FinSMEs; Accel, Blackstone, Cyberstarts, Georgian, Lightspeed, Sequoia participated per Cyera release. Added third citation to Funding History table row. Round announced alongside Oasis Security acquisition; proceeds earmarked for AI Security product roadmap, federal market expansion, and EMEA/APAC growth.'
+  processed: '2026-09-22'
 - slug: confido
   type: startup
   reason: 'Round monitoring 2026-09-22: new profile — $55M Series B led by Insight Partners, with Footwork, Trenches Capital, Watchfire, Barrel Ventures, Y Combinator (2026-09-22).'
   added: 2026-09-22
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Confido $55M Series B (2026-09-22) via 3 independent primary sources — Confido company blog [^1], AlleyWatch daily funding report [^2], and FinSMEs [^4] (added). Insight Partners lead confirmed with Footwork, Trenches Capital, Watchfire, Barrel Ventures, and Y Combinator participating. Total funding to date $77M per FinSMEs.'
+  processed: '2026-09-22'
 - slug: chamelio
   type: startup
   reason: 'Round monitoring 2026-09-22: new profile — $26M Series A led by Entrée Capital, with Work-Bench, Emerge Ventures, Bright Pixel Capital (2026-09-22).'
   added: 2026-09-22
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Chamelio $26M Series A (2026-09-22) via 3 independent primary sources — CTech Calcalist [^1], AlleyWatch daily funding report [^2], and FinSMEs [^4] (added). Entrée Capital lead confirmed with Work-Bench, Emerge Ventures, and Bright Pixel Capital participating. Use of proceeds: further develop proprietary legal action model, grow legal engineering and product teams, invest in onboarding technology.'
+  processed: '2026-09-22'
 - slug: insight-partners
   type: firm
   reason: 'Round monitoring 2026-09-22: led Confido Series B ($55M, 2026-09-22).'
   added: 2026-09-22
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: added Confido Series B ($55M, 2026-09-22, led) to insight-partners.md portfolio table with 3 primary source citations — Confido blog, FinSMEs, AlleyWatch. Updated last_verified_investment from Luzern Risk 2026-09-17 to Confido Series B 2026-09-22. Confirmed lead role alongside Footwork, Trenches Capital, Watchfire, Barrel Ventures, and Y Combinator participating.'
+  processed: '2026-09-22'
 - slug: lightspring
   type: startup
   reason: 'Round monitoring 2026-09-22: new profile — €3.5M Seed (€3.1M seed + €350k i-Lab grant) co-led by Atlantic and OVNI Capital, with Concept Ventures, Ixcore, Plug and Play Ventures participating (2026-09-22).'
