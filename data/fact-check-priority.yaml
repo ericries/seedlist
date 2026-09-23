@@ -1,4 +1,16 @@
 priority:
+- slug: snorkel-ai
+  type: startup
+  reason: |
+    Round monitoring 2026-09-22: new profile — $350M Series E led by Insight Partners and S32 at $3.5B valuation, with Third Point, March, Blumberg, Allegis, Standard VC, Frontline, Addition, Lightspeed, Greylock, GV, P7, Wells Fargo, Walden Catalyst, Factory participating.
+  added: 2026-09-22
+  status: pending
+- slug: insight-partners
+  type: firm
+  reason: |
+    Round monitoring 2026-09-22: led Snorkel AI $350M Series E at $3.5B valuation.
+  added: 2026-09-22
+  status: pending
 - slug: cyera
   type: startup
   reason: 'Round monitoring 2026-09-22: Series G extension $400M led by Growth Equity at Goldman Sachs Alternatives at >$12B valuation; added to existing profile.'

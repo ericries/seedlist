@@ -73,14 +73,6 @@ pending_rounds:
   parsed_amount: $35M
   parsed_round: null
   status: pending
-- title: Morphotonics raises €40M to expand its display tech into data centers
-  url: https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/
-  source: techcrunch
-  date_found: '2026-09-22'
-  parsed_company: Morphotonics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: 'The AlleyWatch Startup Daily Funding Report: 9/22/2026'
   url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-22-2026/
   source: alleywatch
