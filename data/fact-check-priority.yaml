@@ -9744,3 +9744,15 @@ priority:
     Round monitoring 2026-09-23: new profile — €3M Seed led by Ugly Duckling Ventures, with Alliance VC, Cherry Ventures, and Ampli Ventures participating.
   added: 2026-09-23
   status: pending
+- slug: enveda
+  type: startup
+  reason: |
+    Round monitoring 2026-09-23: new profile — $311M Series E led by Catalio Capital Management with Iconiq participating, doubling valuation to $2B.
+  added: 2026-09-23
+  status: pending
+- slug: iconiq-growth
+  type: firm
+  reason: |
+    Round monitoring 2026-09-23: participated in Enveda $311M Series E at $2B valuation.
+  added: 2026-09-23
+  status: pending
