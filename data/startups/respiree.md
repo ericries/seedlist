@@ -18,13 +18,13 @@ last_researched: 2026-09-23
 
 ## About
 
-Respiree is a Singapore-based AI/ML health technology company that builds a cardio-pulmonary platform combining a proprietary FDA-cleared wearable sensor with electronic health record data to track disease progression across the care continuum [^1][^2]. The company's 1Bio platform holds US FDA 510(k) clearance, CE marking, and TGA (Australia) approval, and it partners with healthcare systems and pharmaceutical companies including Philips, Roche, Johnson & Johnson, and AstraZeneca [^2][^3]. Respiree is expanding operations to the United States, with a presence in Houston, Texas and Baldwin Park, California [^1][^2].
+Respiree is a Singapore-based AI/ML health technology company that builds a cardio-pulmonary platform combining a proprietary FDA-cleared wearable sensor with electronic health record data to track disease progression across the care continuum [^1][^2][^3]. Its 1Bio platform holds US FDA 510(k) clearance, CE marking, and TGA (Australia) approval, and is additionally HIPAA & US FDA cybersecurity certified, ISO 13485 QMS certified, and ISO 27001:2022 certified [^2]. Respiree partners with healthcare systems and pharmaceutical companies including Philips, Roche, Johnson & Johnson, AstraZeneca, Mass General Brigham, Sentosa Hospital, Alfred Health, Fiona Private Hospital, and the Queensland Government [^2]. Respiree is expanding operations to the United States, with a presence in Houston, Texas and Baldwin Park, California [^1][^2].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-22 | Series A (syndicate extension) | Undisclosed | We Venture Capital, ClavystBio | ARKRAY & PARTNERS, Bizedge Capital, Adaptive Capital Partners, Greenwillow Capital Management, Seeds Capital, One Six 8 Ventures [^1] |
+| 2026-09-22 | Series A (syndicate extension) | Undisclosed | We Venture Capital, ClavystBio | ARKRAY & PARTNERS Pte. Ltd. (AAP), Bizedge Capital, Adaptive Capital Partners, Greenwillow Capital Management, Seeds Capital, One Six 8 Ventures [^1][^3] |
 
 ## What Investors Say
 
