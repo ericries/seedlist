@@ -1112,7 +1112,10 @@ vague_facts:
   line: '| Slack (Tiny Speck) | Seed ($1.5M; Accel + Andreessen Horowitz + angels — Andrew Braccia partner; first institutional c'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: SCANNER FALSE POSITIVE — column 4 is the citation Source column in the 5-column Accel Portfolio table (Company | Round detail | Year | Sector | Sources), which correctly contains only footnote references [^6][^17][^123][^124]. Row content is specific: 2009 seed, $1.5M, Accel + Andreessen Horowitz + angels, Andrew Braccia partner, Tiny Speck/Butterfield project that later became Slack. Re-verified 2026-09-22 via 3 independent primary sources: (1) Accel portfolio page for Slack [^17] — first-party primary from Accel confirming "Investment Type: seed" and "First Investment Date: 1/1/2009" (2009 exact month not publicly disclosed, hence the notation); (2) TechCrunch "The Slack origin story" by Ron Miller [^123] — first-person primary confirming Braccia (Accel) and O''Farrell (Andreessen Horowitz) as the first institutional capital in the 2009 seed; (3) VatorNews [^124] — third independent primary confirming the prior $1.5M 2009 seed round referenced when the $5M Series A closed 2010-04-01. Row remains as-is; scanner is over-flagging the Sources column.'
+  processed: '2026-09-22'
 - profile: firms/accel
   profile_name: Accel
   company: Spotify
@@ -1142,7 +1145,10 @@ vague_facts:
   line: '| CrowdStrike | Series B ($30M, led; Warburg Pincus participated; Sameer Gandhi joined board) | 2013-09-09 | Cybersecuri'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: SCANNER FALSE POSITIVE — column 4 is the citation Source column in the 5-column Accel Portfolio table (Company | Round detail | Year | Sector | Sources), which correctly contains only footnote references [^6][^27][^28][^114]. Row content is fully specific: 2013-09-09 date, $30M Series B, Accel led, Warburg Pincus participated, Sameer Gandhi joined board. Re-verified 2026-09-22 via 3 independent primary sources: (1) PR Newswire "CrowdStrike Closes $30 Million In Series B Financing, Led By Accel Partners" [^27] — WebFetched, confirms 2013-09-09 announcement, $30M, Accel Partners as lead, Warburg Pincus as founding investor participating, Sameer Gandhi joining board; (2) Accel portfolio page for CrowdStrike [^28] — first-party primary from Accel confirming "Initial Investment in 2013" with Sameer Gandhi as partner; (3) AllThingsD [^114] — WebFetched previously, independent trade press confirming the same $30M Series B, Accel lead, Warburg Pincus participation, Sameer Gandhi board addition. TechCrunch Sep 8 2013 preview article provides a fourth contemporaneous source. All three sources agree on all fact elements. Row remains as-is; scanner is over-flagging the Sources column.'
+  processed: '2026-09-22'
 - profile: firms/accel
   profile_name: Accel
   company: Qualtrics
@@ -1152,7 +1158,10 @@ vague_facts:
   line: '| Qualtrics | Series A ($70M, co-led with Sequoia — largest joint investment; Ryan Sweeney + Bryan Schreier joined board'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: SCANNER FALSE POSITIVE — column 4 is the citation Source column in the 5-column Accel Portfolio table (Company | Round detail | Year | Sector | Sources), which correctly contains only footnote references [^6][^29][^30][^115]. Row content is fully specific: 2012-05-15 date, $70M Series A, Accel and Sequoia co-led as their largest-ever joint investment, Ryan Sweeney (Accel) + Bryan Schreier (Sequoia) joined board. Re-verified 2026-09-22 via 3 independent primary sources: (1) TechCrunch "Qualtrics Raises $70M From Accel And Sequoia" [^29] — WebFetched, confirms 2012-05-15 date, $70M co-led by Accel and Sequoia, includes Ryan Sweeney verbatim quote "we were frankly begging them to take meetings with us" and Bryan Schreier quote "the biggest software company you haven''t heard of yet"; (2) Accel portfolio page for Qualtrics [^30] — first-party primary from Accel confirming "Initial Investment: Series A in 2012" with Ryan Sweeney as partner; (3) Fortune "Qualtrics raises $70 million from Accel and Sequoia" [^115] — independent tier-1 press confirming the same 2012-05-15 announcement, $70M, Accel+Sequoia co-lead as "largest-ever joint investment," and both partners joining the board. BusinessWire press release (2012-05-15) provides a fourth contemporaneous primary. All three sources agree on all fact elements. Row remains as-is; scanner is over-flagging the Sources column.'
+  processed: '2026-09-22'
 - profile: firms/accel
   profile_name: Accel
   company: Etsy
