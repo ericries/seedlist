@@ -882,7 +882,9 @@ vague_facts:
   line: '| CareDox | Series B | ~2018 | School health IT | Active | [^6] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: tightened CareDox row from approximate ~2018 to 2018-01-17 with USD 16M amount and named participants (AI Life Sciences Investments LLC affiliated with Access Industries + 7wire Ventures new; Digitalis Ventures + Prolog Ventures + StartUp Health + Wanxiang Healthcare Investments returning). This was 7wire''s first documented CareDox check (Series A was March 2017 with Digitalis Ventures leading and did not include 7wire per FinSMEs and HIT Consultant coverage). Verified via 2 primary sources: NEW MedCity News (Stephanie Baum) [^85] (2018-01, "CareDox raises $16M Series B to support expansion into care management") and NEW FinSMEs [^86] (2018-01-17, "CareDox Closes $16M Series B Financing"). Both sources agree on amount, date, and full syndicate; minor phrasing discrepancy noted (MedCity: "new investors"; FinSMEs: "lead investors" — no formal lead was designated in either release). Third primary source not obtainable this session — MobiHealthNews / FierceHealthcare / HITConsultant returned 403 or 404 for direct-access URLs and PR Newswire has no matching release for the Series B. Row also updated to note the SchoolCare rebrand (verified via caredox.com HTTP 302 redirect to schoolcare.com on 2026-09-22). 2 new footnotes added ([^85], [^86]). WebSearch budget was exhausted (200/200) at session start; verification relied on WebFetch of publicly indexed URLs.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Medisafe
@@ -916,7 +918,9 @@ vague_facts:
   line: '| Lightbeam Health Solutions | Early | ~2016 | Population health analytics | Acquired | [^11] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: Row could not be tightened to a specific 7wire investment date this session. Attempted to locate Silversmith Capital Partners July 2018 growth-investment coverage as the anchor event (which typically discloses prior VC investors), but PR Newswire, BusinessWire, HIT Consultant, MedCity News, FinSMEs, MobiHealthNews, and Silversmith''s own portfolio URL all returned 404 / 403 / no-match for the direct URLs tried. WebSearch budget was exhausted (200/200) at session start, preventing keyword-driven discovery of alternate press. Attribution of Lightbeam to 7wire currently rests solely on the Crunchbase aggregator [^11] with no primary press confirmation — matches the aggregator-only pattern flagged for CareDox/Higi. Additional flag: the "Acquired" status may also be inaccurate for the company itself. HIT Consultant (2025-12-04) [^87 not-added] "Lightbeam Acquires Syntax Health" confirms Lightbeam Health Solutions is an active operating company under CEO Pat Cline that is itself making acquisitions in late 2025; if 7wire''s stake exited via the 2018 Silversmith transaction, "Acquired" is a stale status label. Row LEFT AS-IS pending future pass with fresh WebSearch budget and access to Silversmith''s 2018 announcement archive.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Yaro
@@ -926,7 +930,9 @@ vague_facts:
   line: '| Yaro | Early | ~2017 | Care navigation | Acquired | [^11] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: Row could not be tightened this session. Yaro (care-navigation startup) has no discoverable primary press coverage in the venues checked — MedCity News, FinSMEs, HIT Consultant, and PR Newswire tag/search pages all returned 404 or no-match; MobiHealthNews returned 403 for tag pages. Direct 7wire portfolio URL (https://www.7wireventures.com/portfolio/yaro/) returned truncated content with no visible funding history extractable via WebFetch. WebSearch budget was exhausted (200/200) at session start, preventing keyword-driven discovery. Yaro attribution to 7wire currently rests solely on Crunchbase aggregator [^11] (matches the aggregator-only pattern flagged for CareDox / Higi / Lightbeam). The "Acquired" status label also lacks a primary source in this session — the acquirer and date are not disclosed in any URL fetched. Row LEFT AS-IS pending future pass with fresh WebSearch budget.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Caraway
