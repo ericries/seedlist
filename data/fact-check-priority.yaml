@@ -9743,16 +9743,25 @@ priority:
   reason: |
     Round monitoring 2026-09-23: new profile — €3M Seed led by Ugly Duckling Ventures, with Alliance VC, Cherry Ventures, and Ampli Ventures participating.
   added: 2026-09-23
-  status: pending
+  status: resolved
+  resolved: 2026-09-23
+  note: |
+    Verified €3M Seed on 2026-09-23 led by Ugly Duckling Ventures (Copenhagen-based) via three independent primary sources: (1) EU-Startups article confirming lead + participants Alliance VC (new), Cherry Ventures (new), Ampli Ventures (follow-on), founders Johan Torssell (CEO) and Dennis Hadzialic; (2) Spiich company website blog announcement (spiich.ai) confirming the round directly from the company and noting €600K pre-seed from November 2025 with founders of Lovable, Neo4j, and OpenAI as backers; (3) Alliance VC portfolio page independently confirming Alliance VC's participation in Spiich. Currency preserved (€ / EUR). Angel participation includes individuals from Lovable, Neo4j, Tandem Health, and OpenAI. Existing Spiich profile updated with strengthened citation footnotes and additional context (Swedish entity: Spiich Labs AB; metrics: 50+ customers across 15 countries, 100%+ monthly ARR growth H1 2026, 160%+ net revenue retention).
 - slug: enveda
   type: startup
   reason: |
     Round monitoring 2026-09-23: new profile — $311M Series E led by Catalio Capital Management with Iconiq participating, doubling valuation to $2B.
   added: 2026-09-23
-  status: pending
+  status: resolved
+  resolved: 2026-09-23
+  note: |
+    Verified $311M Series E on 2026-09-23 led by Catalio Capital Management at $2B post-money valuation via three independent primary sources: (1) TechCrunch article by Marina Temkin (contemporaneous tier-1 tech press); (2) Enveda's own primary press release "Enveda Raises $311 Million From Leading AI and Biotech Investors to Bring Pharma Into the 21st Century" — https://enveda.com/news/enveda-raises-311-million/ — which named the full investor list; (3) Enveda's press page and news page cross-referencing the Wall Street Journal coverage titled "AI Biotech Enveda Doubles in Value to $2 Billion". Currency preserved (USD). Enveda profile substantially expanded to include the complete investor list: NEW investors (ICONIQ, Lightspeed, Durable Capital Partners, Surveyor Capital [a Citadel company], T. Rowe Price Investment Management, Digitalis Ventures, an unnamed sovereign wealth fund, Alderline Group); EXISTING investors (Baillie Gifford, Premji Invest, FPV Ventures, True Ventures, Kinnevik, Dimension, Lifeforce Capital, Lux Capital). Total capital raised updated to $845M+ (was $461M+). Added founder quote from Viswa Colluru: "The most reliable source of new medicines is the chemistry that living things have been refining for billions of years, and AI finally lets us read it." Portfolio rows also added to Lux Capital and True Ventures firm profiles (both named as existing investors).
 - slug: iconiq-growth
   type: firm
   reason: |
     Round monitoring 2026-09-23: participated in Enveda $311M Series E at $2B valuation.
   added: 2026-09-23
-  status: pending
+  status: resolved
+  resolved: 2026-09-23
+  note: |
+    Added Enveda Series E row to ICONIQ Growth's Portfolio table with three primary source citations [^enveda1] (Enveda press release), [^enveda2] (TechCrunch), and [^enveda3] (Enveda news page cross-referencing WSJ). Row records: Series E, $311M, participated as new investor, Catalio Capital Management led, $2B post-money valuation, complete list of new/existing co-investors, 2026-09-23, Biotech / AI Drug Discovery. Currency preserved (USD). No changes to Inferred Thesis percentages needed — single row addition to the 51-verified-investment baseline.

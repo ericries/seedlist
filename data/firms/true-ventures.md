@@ -75,6 +75,7 @@ Notable investments where the firm or a named True partner participated:
 | Flux (Boston engineering intelligence) | Seed (existing investor; Calibrate Ventures led) | 2026-06-10 | — | Developer Tools / AI | Active [^32][^33][^34] |
 | ChatSee.ai | Seed (led, $6.5M) | 2026-06-12 | Puneet Agarwal | AI / Enterprise / AI Agent Observability | Active [^35][^36][^37] |
 | HomeBoost | Seed ($4M; co-participant alongside Gigascale Capital + Incite.org; Jon Callaghan provided the primary investor quote in the launch announcement) | 2024-10-29 | Jon Callaghan | Home energy / DIY retrofit assessment | Active [^tv-hb1][^tv-hb2] |
+| Enveda | Series E ($311M; participated as existing investor; Catalio Capital Management led; $2B post-money valuation) | 2026-09-23 | — | Biotech / AI Drug Discovery | Active [^tv-enveda1][^tv-enveda2] |
 
 *This table is a curated subset of True Ventures' 500+ portfolio companies [^1].*
 
@@ -167,3 +168,7 @@ No additional independently sourced founder testimonials specifically about work
 [^tv-hb1]: FinancialContent / EZ Newswire, "HomeBoost Launches BoostBox, a DIY Solution That Empowers Homeowners to Save on Their Energy Bills and Live Comfortably," October 29, 2024. Accessed August 2026. https://markets.financialcontent.com/stocks/article/eznewswire-2024-10-29-homeboost-launches-boostbox-a-diy-solution-that-empowers-homeowners-to-save-on-their-energy-bills-and-live-comfortably — Confirms $4M seed with True Ventures, Gigascale Capital, and Incite.org as co-participants. True Ventures partner Jon Callaghan is the only investor quoted, calling the investment decision "a know-it-when-you-see-it moment." No formal single lead designated in the announcement.
 
 [^tv-hb2]: Gaebler Ventures database, "HomeBoost 10/29/2024 Capital Raise," accessed August 2026. https://www.gaebler.com/VC-Funding-A0F54648-FD42-4B4C-8EAB-1A53F8303ED6-HomeBoost-10-29-2024 — Independent database confirmation of $4M seed on 2024-10-29.
+
+[^tv-enveda1]: Enveda, "Enveda Raises $311 Million From Leading AI and Biotech Investors to Bring Pharma Into the 21st Century," press release, September 23, 2026. Accessed September 23, 2026. https://enveda.com/news/enveda-raises-311-million/ — Primary company press release. Names True Ventures among existing investors participating in the $311M Series E led by Catalio Capital Management, at a $2B post-money valuation.
+
+[^tv-enveda2]: Marina Temkin, "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials," TechCrunch, September 23, 2026. Accessed September 23, 2026. https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/ — Independent contemporaneous tech-press confirmation of the $311M Series E on 2026-09-23.
