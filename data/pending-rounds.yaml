@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Berlin-based mika raises €6 million to scale its AI-native alternative to
+    traditional tax firms
+  url: https://www.eu-startups.com/2026/09/berlin-based-mika-raises-e6-million-to-scale-its-ai-native-alternative-to-traditional-tax-firms/
+  source: eu-startups
+  date_found: '2026-09-23'
+  parsed_company: Berlin-based mika
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Respiree Extends Series A Syndicate with Addition of International Investors
     to Support Continued Global Growth
   url: https://www.globenewswire.com/news-release/2026/09/22/3365926/0/en/respiree-extends-series-a-syndicate-with-addition-of-international-investors-to-support-continued-global-growth.html
