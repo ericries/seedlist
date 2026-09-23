@@ -9738,3 +9738,9 @@ priority:
   resolved: 2026-09-23
   note: |
     Verified Accel participation in Ema $77M Series B (2026-09-23) via same 3 primary sources cited in ema-ai resolution — TechCrunch (contemporaneous tech press naming Accel among returning investors increasing stakes), Ema LinkedIn Series B announcement (primary company post confirming Accel stake increase), and Ema.ai company website. Added new Ema row to Accel Portfolio table with new footnotes [^ema1] [^ema2] [^ema3] appended to the Sources section (sequential with existing pattern). Row records: Series B, $77M, participated with increased stake, Creaegis led, Section 32 and Prosus also increased stakes, 4x+ valuation lift from 2024 round, $140M total raised, 2026-09-23, Enterprise AI / AI Agents / SaaS. Currency preserved (USD).
+- slug: spiich
+  type: startup
+  reason: |
+    Round monitoring 2026-09-23: new profile — €3M Seed led by Ugly Duckling Ventures, with Alliance VC, Cherry Ventures, and Ampli Ventures participating.
+  added: 2026-09-23
+  status: pending
