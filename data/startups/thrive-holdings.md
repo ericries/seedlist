@@ -8,11 +8,7 @@ founded: 2025
 sector: [artificial-intelligence, enterprise-software]
 stage_latest: "Growth"
 total_raised: "$2B"
-investors:
-  - slug: elad-gil
-    round: growth
-    year: 2026
-    date: 2026-08-12
+investors: []
 firms:
   - slug: d1-capital-partners
     round: growth

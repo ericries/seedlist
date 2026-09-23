@@ -7187,6 +7187,10 @@ priority:
   type: firm
   reason: appeared in Thrive Holdings Growth (2026-08-12)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: added Thrive Holdings Growth row to D1 Capital Partners portfolio table — 2026-08-12, $2B at ~$12B valuation, participated alongside SoftBank and Altimeter Capital. Thrive Holdings is a Thrive Capital spinout that acquires and modernizes traditional service businesses using AI (OpenAI-backed). Added 2 new named-footnote citations ([^d1-th-1] TechCrunch, [^d1-th-2] Parsers.VC weekly funding report) — both primary sources verified via WebFetch confirm D1 Capital Partners as a participant.'
+  processed: '2026-09-23'
 - slug: altimeter-capital
   type: firm
   reason: appeared in Thrive Holdings Growth (2026-08-12)
@@ -7203,10 +7207,18 @@ priority:
   type: investor
   reason: appeared in Thrive Holdings Growth (2026-08-12) and Cambridge Aerospace Series C (2026-08-10)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: added Cambridge Aerospace Series C row to Elad Gil portfolio table — 2026-08-10, $300M at $3.4B valuation, DFJ Growth led with Lux Capital, Accel, Lakestar, Never Lift, Ora Global, and Elad Gil & Co participating. Added 3 named-footnote citations ([^46] sUAS News primary press republication, [^47] Axios Pro Rata, [^48] Business Weekly UK) — sUAS News verified via WebFetch explicitly names "Elad Gil & Co" as Series C participant and notes he had co-led the prior Series B. Updated last_verified_investment frontmatter from NavigateAI (2026-05-26) to Cambridge Aerospace (2026-08-10). Thrive Holdings ($2B Growth 2026-08-12): could NOT independently verify Elad Gil participation — TechCrunch primary source names only SoftBank, D1 Capital Partners, and Altimeter Capital; Parsers.VC weekly (Aug 4-10) predates the round; no other primary source names Gil. Removed the unverified elad-gil entry from data/startups/thrive-holdings.md frontmatter to prevent an unsupported claim propagating to the profile page. Cambridge Aerospace fact fully resolved; Thrive Holdings/Elad Gil marked unverified and cleaned.'
+  processed: '2026-09-23'
 - slug: menlo-ventures
   type: firm
   reason: appeared in Lovable Series C (2026-08-12)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: added Lovable Series C row to Menlo Ventures portfolio table — 2026-08-12, $400M at $13.3B valuation, co-led with Scaleup Europe Fund (EQT-managed), participants: Balderton Capital, Carmignac, Kaszek Ventures, LTS Growth, Tencent, World Innovation Lab, Regent; returning: Accel, Antler, CapitalG, DST Global, Evantic Capital, HubSpot Ventures, Salesforce Ventures. Added 2 named-footnote citations ([^lov-c-1] TechCrunch, [^lov-c-2] Lovable company blog) — both primary sources verified via WebFetch confirm Menlo Ventures as co-lead alongside Scaleup Europe Fund. Menlo Partner Matt Murphy quoted in company announcement. Menlo now shows both Lovable Series B (Dec 2025) and Series C (Aug 2026) in portfolio.'
+  processed: '2026-09-23'
 - slug: lux-capital
   type: firm
   reason: appeared in Cambridge Aerospace Series C (2026-08-10)

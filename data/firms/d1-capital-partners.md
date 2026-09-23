@@ -123,6 +123,7 @@ The following table represents verified private market investments by D1 Capital
 | Multiverse | Growth (participated, €60M / $70M at €2.1B val) | 2026-05-15 | EdTech / AI Workforce Training | Active | [^35] |
 | DriveNets | Series D (participated, $410M at $8.5B val) | 2026-06-01 | Networking / AI infrastructure | Active | [^38][^39][^40] |
 | Base Power | Series D (participated, $1B at $13B post-money; Ribbit, Addition, Valor Equity Partners, JPMorganChase SIG co-led; Altimeter, Sands, Coatue, Layer Global, EIP, Thrive, a16z, Lightspeed, Trust Ventures, CapitalG also participated) | 2026-08-03 | Energy Storage / Distributed Grid | Active | [^d1-bp-d1][^d1-bp-d2] |
+| Thrive Holdings | Growth (participated, $2B at ~$12B val; SoftBank, Altimeter Capital also participated) | 2026-08-12 | AI / Enterprise Operations | Active | [^d1-th-1][^d1-th-2] |
 
 ## In Their Own Words
 
@@ -201,3 +202,6 @@ No independently sourced founder testimonials found. D1 Capital Partners operate
 
 [^d1-bp-d1]: TechCrunch, "Base Power raises another $1B to save the grid using backyard batteries," August 3, 2026. Accessed September 2026. https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/ — Names D1 Capital Partners as a Series D participant; Ribbit, Addition, Valor Equity Partners, and JPMorganChase Strategic Investment Group co-led the $1B round at ~$13B post-money valuation.
 [^d1-bp-d2]: Pulse 2.0, "Base Power Raises $1 Billion Series D At $13 Billion Valuation And Launches U.S.-Made Home Battery," August 3, 2026. Accessed September 2026. https://pulse2.com/base-power-raises-1-billion-series-d-at-13-billion-valuation-and-launches-u-s-made-home-battery/ — Independent contemporaneous confirmation of D1 Capital Partners' Series D participation at $13B post-money valuation.
+
+[^d1-th-1]: TechCrunch, "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise," August 12, 2026. Accessed September 2026. https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/ — Names D1 Capital Partners as a participant in the $2B round alongside SoftBank and Altimeter Capital, valuing Thrive Holdings at ~$12B. Thrive Holdings is a Thrive Capital spinout that acquires and modernizes traditional service businesses using AI.
+[^d1-th-2]: Parsers.VC weekly funding report, "Funding Rounds Report - Weekly of August 11, 2026," accessed September 2026. https://parsers.substack.com/p/funding-rounds-report-weekly-of-august-f0b — Corroborates the Thrive Holdings August 2026 round and D1 Capital Partners' participation.
