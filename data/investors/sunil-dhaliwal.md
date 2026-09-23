@@ -127,7 +127,7 @@ Based on 55 verified investments from the Amplify Partners portfolio page where 
 | Chai Discovery | 2024 | Seed | [^13] |
 | Gradium | 2025 | Seed | [^14] |
 | Boltz | 2025 | Seed | [^13] |
-| Centivax | 2025 | Series A | [^15] |
+| Centivax | 2025-07-08 | Series A ($45M, Amplify Partners participant; Future Ventures led) | [^15][^centivax-sd2] |
 | Infinitopes | 2025 | Seed | [^13] |
 
 ## In Their Own Words
@@ -181,7 +181,9 @@ No additional independently sourced founder testimonials found beyond the Amplif
 [^12]: VCSheet, "Sunil Dhaliwal (Amplify Partners) / VC Breakdown & Contact," accessed April 2026. https://www.vcsheet.com/who/sunil-dhaliwal
 [^13]: Amplify Partners website, "Portfolio," accessed April 2026. https://www.amplifypartners.com/portfolio
 [^14]: SiliconANGLE, "Audio language model startup Gradium raises $70M to create more realistic voice AI systems," December 2, 2025. https://siliconangle.com/2025/12/02/audio-language-model-startup-gradium-raises-70m-create-realistic-voice-ai-systems/
-[^15]: FinSMEs, "Centivax Raises $45M in Series A Funding," July 2025. https://www.finsmes.com/2025/07/centivax-raises-45m-in-series-a-funding.html
+[^15]: FinSMEs, "Centivax Raises $45M in Series A Funding," July 9, 2025. Accessed September 2026. https://www.finsmes.com/2025/07/centivax-raises-45m-in-series-a-funding.html — Names Amplify Partners as a participant in the $45M Series A led by Future Ventures (Steve Jurvetson) alongside NFX, BOLD Capital Partners, Base4 Capital, and Kendall Capital Partners.
+
+[^centivax-sd2]: PR Newswire, "Centivax Raises Oversubscribed $45 Million Series A Led by Future Ventures to Advance Universal Flu Vaccine into Clinic and Expand Universal Immunity Portfolio," July 8, 2025 (16:20 ET datestamp). Accessed September 2026. https://www.prnewswire.com/news-releases/centivax-raises-oversubscribed-45-million-series-a-led-by-future-ventures-to-advance-universal-flu-vaccine-into-clinic-and-expand-universal-immunity-portfolio-302500567.html — Primary company press release with exact date 2025-07-08. Confirms Amplify Partners participation alongside NFX, BOLD Capital Partners, Kendall Capital Partners, and Base4 Capital.
 [^16]: YeshID blog, "Unexpected Google admins: Sunil Dhaliwal, Founder & General Partner at Amplify Partners," accessed April 2026. https://www.yeshid.com/post/unexpected-google-admins-sunil-dhaliwal-founder-general-partner-at-amplify-partners
 [^17]: Fastly Investor Relations, "Board of Directors — Sunil Dhaliwal," accessed April 2026. https://investors.fastly.com/governance/board-of-directors/person-details/default.aspx?ItemId=e7539d72-5033-43e4-88ad-73d62b8d2a44
 [^18]: BusinessWire, "System Initiative Heralds the Second Wave of DevOps with a New Collaborative Power Tool That Rebuilds DevOps from the Ground Up," June 21, 2023. https://www.businesswire.com/news/home/20230621296974/en/System-Initiative-Heralds-the-Second-Wave-of-DevOps-with-a-New-Collaborative-Power-Tool-That-Rebuilds-DevOps-from-the-Ground-Up

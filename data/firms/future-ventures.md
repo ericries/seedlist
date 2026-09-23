@@ -91,7 +91,7 @@ Based on 28 verified portfolio investments, the following patterns emerge. Note:
 | MosaicML | Series A ($25M) | 2021 | AI / ML infrastructure (acquired by Databricks, 2023) | [^34] |
 | Mythic | Early stage (via DFJ, continued via FV) | ~2016 | AI / deep learning chips | [^35] |
 | Xona Space Systems | Series B ($92M; participant; lead: Craft Ventures) | 2025-06-26 | Space / GPS alternative | [^36][^xona-fv1] |
-| Centivax | Series A ($45M, lead) | 2025 | Biotech / universal vaccines | [^25] |
+| Centivax | Series A ($45M, lead) | 2025-07-08 | Biotech / universal vaccines | [^25][^centivax-fv2] |
 | The Metals Company | Board seat | 2024 | Deep-sea mining / metals | [^26] |
 | Amplifier Therapeutics | Series A ($33.25M) | 2023 | Biotech / longevity therapeutics | [^37] |
 | Pumpkinseed | Series A (co-led, $20M) | 2026-05-05 | Biotech / Proteomics | [^38][^39] |
@@ -137,11 +137,11 @@ Based on 28 verified portfolio investments, the following patterns emerge. Note:
 
 "We have been looking for the right clean energy investment opportunity in fusion for the past 20 years. We wanted a company that was ready to make a business of fusion and we have finally found it with Commonwealth Fusion Systems." — Commonwealth Fusion Systems press release, 2019 [^18]
 
-"I have been on a quest to find a credible antiviral breakthrough for over 20 years." — Centivax press release, 2025 [^25]
+"I have been on a quest to find a credible antiviral breakthrough for over 20 years." — Steve Jurvetson, Centivax press release, July 8, 2025 [^25]
 
 ## What Founders Say
 
-Dr. Jacob Glanville, CEO & Co-founder of Centivax, said of the investment: "I am particularly excited to partner with Steve Jurvetson at Future Ventures due to his track record of new industry formation based on disruptive technology." — Centivax press release, July 2025 [^25]
+Dr. Jacob Glanville, CEO & Co-founder of Centivax, said of the investment: "I am particularly excited to partner with Steve Jurvetson at Future Ventures due to his track record of new industry formation based on disruptive technology." — Centivax press release, July 8, 2025 [^25]
 
 Gerard Barron, Chairman and CEO of The Metals Company, said upon Jurvetson joining the board: "Steve has the uncanny ability to quickly get to simplicity on the other side of complexity." — The Metals Company press release, April 2024 [^26]
 
@@ -173,7 +173,9 @@ Gerard Barron, Chairman and CEO of The Metals Company, said upon Jurvetson joini
 [^22]: Glass Imaging, "Glass Imaging Announces $9.3M Extended Seed Funding Round Led By GV (Google Ventures)," February 2024. https://www.glass-imaging.com/journal/glass-imaging-announces-9-3m-extended-seed-funding-round-led-by-gv-google-ventures
 [^23]: BioSpace, "Moonwalk Biosciences Launches with $57 Million in Financing to Advance a New Class of Precision Epigenetic Medicines," January 2024. https://www.biospace.com/moonwalk-biosciences-launches-with-57-million-in-financing-to-advance-a-new-class-of-precision-epigenetic-medicines
 [^24]: VCSheet, "Steve Jurvetson VC Breakdown & Contact," accessed April 2026. https://www.vcsheet.com/who/steve-jurvetson
-[^25]: PR Newswire, "Centivax Raises Oversubscribed $45 Million Series A Led by Future Ventures to Advance Universal Flu Vaccine," July 2025. https://www.prnewswire.com/news-releases/centivax-raises-oversubscribed-45-million-series-a-led-by-future-ventures-to-advance-universal-flu-vaccine-into-clinic-and-expand-universal-immunity-portfolio-302500567.html
+[^25]: PR Newswire, "Centivax Raises Oversubscribed $45 Million Series A Led by Future Ventures to Advance Universal Flu Vaccine into Clinic and Expand Universal Immunity Portfolio," July 8, 2025 (16:20 ET datestamp). Accessed September 2026. https://www.prnewswire.com/news-releases/centivax-raises-oversubscribed-45-million-series-a-led-by-future-ventures-to-advance-universal-flu-vaccine-into-clinic-and-expand-universal-immunity-portfolio-302500567.html — Primary company press release confirming exact date 2025-07-08. Names Future Ventures (Steve Jurvetson) as lead with NFX, BOLD Capital Partners, Kendall Capital Partners, Amplify Partners, and Base4 Capital participating alongside existing insiders. Includes verbatim Jacob Glanville (CEO) and Steve Jurvetson quotes.
+
+[^centivax-fv2]: FinSMEs, "Centivax Raises $45M in Series A Funding," July 9, 2025. Accessed September 2026. https://www.finsmes.com/2025/07/centivax-raises-45m-in-series-a-funding.html — Independent secondary press confirmation naming Future Ventures (Steve Jurvetson) as lead investor with NFX, BOLD Capital Partners, Base4 Capital, Kendall Capital Partners, and Amplify Partners participating. Notes proceeds to advance first clinical candidate (universal flu vaccine) through Phase I trial within eight months.
 [^26]: The Metals Company, "Steve Jurvetson, a Renowned Silicon Valley Investor, Joins TMC's Board of Directors as Vice Chairman," April 2024. https://investors.metals.co/news-releases/news-release-details/steve-jurvetson-renowned-silicon-valley-investor-joins-tmcs
 [^27]: Wikipedia, "Steve Jurvetson," accessed April 2026. https://en.wikipedia.org/wiki/Steve_Jurvetson
 [^28]: CNBC, "Elon Musk's Boring Co. raises $120 million to build more tunnels," July 25, 2019. https://www.cnbc.com/2019/07/25/elon-musks-boring-co-raises-120-million-to-build-more-tunnels.html
