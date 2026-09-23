@@ -9714,3 +9714,15 @@ priority:
   resolved: 2026-09-23
   note: |
     Verified via three primary sources: (1) Fever newsroom press release dated 2026-09-17 (newsroom.feverup.com/en-US/271038-...) confirming $250M round led by EQT with participation from Point72 Private Investments and Baillie Gifford (plus other existing investors), that revenue has tripled over three years, and that Fever operates with positive EBITDA; (2) Fever newsroom index page (newsroom.feverup.com/news/) confirming September 17, 2026 announcement date; (3) Fever company website (feverup.com) confirming 55+ country footprint, "Fever Originals" line (Candlelight concerts, Harry Potter: A Forbidden Forest Experience), and 300M+ audience last year. Fever's press release also cites Formula 1, Palace of Versailles, and Netflix as partners. Profile accurately records lead + participants and preserves USD as originally announced. No EQT/Point72/Baillie Gifford firm profiles exist yet — added as separate discovery task rather than blocking this resolution.
+- slug: ema-ai
+  type: startup
+  reason: "new profile — Series B $77M led by Creaegis (2026-09-23), Accel/Section 32/Prosus participated"
+  added: 2026-09-23
+- slug: respiree
+  type: startup
+  reason: "new profile — Series A syndicate extension (2026-09-22) with ARKRAY & PARTNERS and Bizedge Capital newly added; ClavystBio and We Venture Capital as lead investors"
+  added: 2026-09-23
+- slug: accel
+  type: firm
+  reason: "participated in Ema Series B $77M (2026-09-23)"
+  added: 2026-09-23
