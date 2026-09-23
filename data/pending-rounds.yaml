@@ -29,6 +29,32 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Jumbo-Sized Series A Rounds Are On The Rise
+  url: https://news.crunchbase.com/venture/megaround-seriesa-ai-chips-robotics-2026/
+  source: crunchbase
+  date_found: '2026-09-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: EU and EIB launch launch institutional investor pact to tackle Europe’s scale-up
+    funding gap
+  url: https://www.eu-startups.com/2026/09/eu-and-eib-launch-launch-institutional-investor-pact-to-tackle-europes-scale-up-funding-gap/
+  source: eu-startups
+  date_found: '2026-09-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Stockholm’s Spiich raises €3 million to let AI handle admin work while sales
+    teams focus on customers
+  url: https://www.eu-startups.com/2026/09/stockholms-spiich-raises-e3-million-to-let-ai-handle-admin-work-while-sales-teams-focus-on-customers/
+  source: eu-startups
+  date_found: '2026-09-23'
+  parsed_company: Stockholm’s Spiich
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Respiree Extends Series A Syndicate with Addition of International Investors
     to Support Continued Global Growth
   url: https://www.globenewswire.com/news-release/2026/09/22/3365926/0/en/respiree-extends-series-a-syndicate-with-addition-of-international-investors-to-support-continued-global-growth.html
