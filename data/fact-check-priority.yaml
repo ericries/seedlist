@@ -4,13 +4,19 @@ priority:
   reason: |
     Round monitoring 2026-09-22: new profile — $350M Series E led by Insight Partners and S32 at $3.5B valuation, with Third Point, March, Blumberg, Allegis, Standard VC, Frontline, Addition, Lightspeed, Greylock, GV, P7, Wells Fargo, Walden Catalyst, Factory participating.
   added: 2026-09-22
-  status: pending
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: verified Snorkel AI $350M Series E (2026-09-22) at $3.5B valuation via 3 independent primary sources — Snorkel AI blog post by CEO Alex Ratner [^2], TechCrunch article by Marina Temkin [^1], and SiliconAngle article by Maria Deutscher [^3]. Insight Partners and S32 co-lead confirmed with Third Point, March, Blumberg, Allegis, Standard VC, Frontline joining as new investors; Addition, Lightspeed, Greylock, GV, P7, Wells Fargo, Walden Catalyst, Factory returning. Company reports $375M annualized revenue run rate, 18x growth year-over-year. Profile was already created and published in earlier round monitoring cycle; this sweep confirms sourcing is complete.'
+  processed: '2026-09-22'
 - slug: insight-partners
   type: firm
   reason: |
     Round monitoring 2026-09-22: led Snorkel AI $350M Series E at $3.5B valuation.
   added: 2026-09-22
-  status: pending
+  status: resolved
+  resolved: 2026-09-22
+  resolution_note: 'Fact-spec sweep 2026-09-22: added Snorkel AI Series E ($350M at $3.5B valuation, 2026-09-22, co-led with S32) to insight-partners.md portfolio table with 3 primary source citations — Snorkel AI blog [^snk1], TechCrunch [^snk2], SiliconAngle [^snk3]. Updated last_verified_investment from Confido Series B 2026-09-22 to Snorkel AI Series E 2026-09-22. Confirmed Insight and S32 co-lead role alongside Third Point, March, Blumberg, Allegis, Standard VC, Frontline (new) and Addition, Lightspeed, Greylock, GV, P7, Wells Fargo, Walden Catalyst, Factory (existing).'
+  processed: '2026-09-22'
 - slug: cyera
   type: startup
   reason: 'Round monitoring 2026-09-22: Series G extension $400M led by Growth Equity at Goldman Sachs Alternatives at >$12B valuation; added to existing profile.'

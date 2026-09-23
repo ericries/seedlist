@@ -628,7 +628,9 @@ vague_facts:
   line: '| Clip (PayClip) | Seed (USD 1.5M venture round; 500 Startups + Alta Ventures Mexico + Accion + Karl Mehta (PlaySpan fou'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: SCANNER FALSE POSITIVE — column 5 is the citation Source column and correctly contains only footnote references [^12][^84][^85][^86]. Row content is fully specific: 2013-05-28 seed date, USD 1.5M amount, 500 Startups + Alta Ventures Mexico + Accion + Karl Mehta (PlaySpan founder) named as participants with explicit note that no single lead was named, ~USD 425K prior seed context, founders Adolfo Babatz (former PayPal LatAm Head of Customer Engagement) and Vilash Poovala named, subsequent USD 1.7M convertible note on 2013-11-16 documented in the row. Re-verified 2026-09-22 via 3 independent primary sources already cited: (1) StartUp Beat (Brian Kovalesky) [^84] (2013-05-28) — primary contemporaneous US startup funding news wire naming 500 Startups, Alta Ventures Mexico, and Accion as participants; (2) TheNextWeb (Ken Yeung) [^85] (2013-05-28) — second independent tier-1 tech press naming 500 Startups, Alta Ventures, Accion, and Karl Mehta; (3) TechCrunch (Mike Butcher) [^86] (2013-11-16) — primary tier-1 tech press establishing the round chronology and confirming subsequent USD 1.7M convertible note. All three sources agree on all fact elements. No profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Paidy

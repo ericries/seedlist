@@ -3,9 +3,9 @@ founded: 1995
 tldr: "New York-based global software investor founded 1995 by Jeff Horing and Jerry Murdock. Manages $90B+ AUM; Fund XIII plus Opportunities Fund II closed on $12.5B in January 2025. Stage-agnostic within software with 875+ investments, 55+ IPOs and a 130-person Insight Onsite operational arm. Notable positions include Wiz, SentinelOne, Shopify, Qualtrics, JFrog, Recorded Future and Checkout.com."
 fund_size: $90B+ AUM; Fund XIII at $12.5B
 last_verified_investment:
-  company: Confido
+  company: Snorkel AI
   date: 2026-09-22
-  round: Series B
+  round: Series E
 last_researched: 2026-09-21
 location: New York, NY
 name: Insight Partners
@@ -153,6 +153,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Kastle | Series A ($24M, led; Fifth Wall new, Y Combinator and Commerce Ventures returning) | 2026-09-17 | AI / Fintech / Banking / Lending | Active | [^kst1][^kst2][^kst3] |
 | Luzern Risk | Series B ($45M, led; Trust Ventures and returning investor Caffeinated Capital participated) | 2026-09-17 | Insurtech / AI / Captive Insurance | Active | [^lz1][^lz2][^lz3] |
 | Confido | Series B ($55M, led; Footwork, Trenches Capital, Watchfire, Barrel Ventures, Y Combinator participated) | 2026-09-22 | Fintech / AI / CPG Financial Automation | Active | [^cfd1][^cfd2][^cfd3] |
+| Snorkel AI | Series E ($350M at $3.5B valuation, co-led with S32; Third Point, March, Blumberg, Allegis, Standard VC, Frontline new, Addition, Lightspeed, Greylock, GV, P7, Wells Fargo, Walden Catalyst, Factory existing) | 2026-09-22 | AI / Data Infrastructure / Foundation Model Training Data | Active | [^snk1][^snk2][^snk3] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -307,3 +308,7 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^cfd1]: Confido blog, "Confido raises $55M Series B to scale the AI operating system for CPG brands," September 22, 2026. Accessed September 22, 2026. https://www.confidotech.com/blogs/confido-raises-55m-series-b-to-scale-the-ai-operating-system-for-cpg-brands — Company's own announcement confirming $55M Series B led by Insight Partners with Footwork, Trenches Capital, Watchfire, Barrel Ventures, and Y Combinator participating; includes Rebecca Liu-Doyle (Insight Partners Managing Director) quote.
 [^cfd2]: FinSMEs, "Confido Raises $55M in Series B Funding," September 22, 2026. Accessed September 22, 2026. https://www.finsmes.com/2026/09/confido-raises-55m-in-series-b-funding.html — Independent primary press confirming $55M Series B led by Insight Partners with participants; total funding to date $77M.
 [^cfd3]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/22/2026," September 22, 2026. Accessed September 22, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-22-2026/ — Independent daily VC-funding aggregator confirming $55M Series B led by Insight Partners.
+
+[^snk1]: Alex Ratner, "Data 2.0 and the research era of AI data," Snorkel AI blog, September 22, 2026. Accessed September 22, 2026. https://snorkel.ai/blog/data-2-0-and-the-research-era-of-ai-data/ — Company's own announcement confirming $350M Series E at $3.5B valuation co-led by Insight Partners and S32 with Third Point, March, Blumberg, Allegis, Standard VC, Frontline new; Addition, Lightspeed, Greylock, GV, P7, Wells Fargo, Walden Catalyst, Factory existing.
+[^snk2]: Marina Temkin, "Snorkel AI triples valuation to $3.5B as demand for AI training data booms," TechCrunch, September 22, 2026. Accessed September 22, 2026. https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/ — Independent tier-1 press confirming Insight Partners and S32 co-led $350M Series E at $3.5B valuation.
+[^snk3]: Maria Deutscher, "Training data provider Snorkel AI raises $350M at $3.5B valuation," SiliconAngle, September 22, 2026. Accessed September 22, 2026. https://siliconangle.com/2026/09/22/training-data-provider-snorkel-ai-raises-350m-at-3-5b-valuation/ — Independent tier-1 press confirming $350M Series E at $3.5B valuation and $375M annualized revenue run rate.
