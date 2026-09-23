@@ -9686,3 +9686,7 @@ priority:
   type: startup
   reason: "new profile — €6M Seed led by Smedvig Ventures (2026-09-23)"
   added: 2026-09-23
+- slug: fever
+  type: startup
+  reason: "new profile — $250M growth round led by EQT with Point72 Private Investments and Baillie Gifford (2026-09-17); Fever is Madrid-based live-events discovery platform, no firm profiles yet for EQT/Point72/Baillie Gifford"
+  added: 2026-09-23
