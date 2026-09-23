@@ -509,3 +509,64 @@
   source: co-investor on Cyera Series G extension 2026-09-22
   discovered_from: cyera
   priority: normal
+- name: Lightspeed Venture Partners
+  type: firm
+  source: participated in Ande $52M combined Seed+Series A 2026-09-22
+  discovered_from: ande
+  priority: high
+- name: Duration Ventures
+  type: firm
+  source: participated in Ande $52M combined Seed+Series A 2026-09-22
+  discovered_from: ande
+  priority: normal
+- name: Sierra Ventures
+  type: firm
+  source: participated in Ande $52M combined Seed+Series A 2026-09-22
+  discovered_from: ande
+  priority: normal
+- name: Bain Capital Ventures
+  type: firm
+  source: participated in Ande $52M combined Seed+Series A 2026-09-22
+  discovered_from: ande
+  priority: high
+- name: Araya Ventures
+  type: firm
+  source: led Aeon Seed extension 2026-09-14 (bringing total seed to €12M+)
+  discovered_from: aeon-preventive-health
+  priority: high
+- name: Concentric
+  type: firm
+  source: participated in Aeon Seed extension 2026-09-14
+  discovered_from: aeon-preventive-health
+  priority: normal
+- name: GoHub Ventures
+  type: firm
+  source: participated in Aeon Seed extension 2026-09-14
+  discovered_from: aeon-preventive-health
+  priority: normal
+- name: Kadmos Capital
+  type: firm
+  source: participated in Aeon Seed extension 2026-09-14
+  discovered_from: aeon-preventive-health
+  priority: normal
+- name: Calm/Storm Ventures
+  type: firm
+  source: participated in Aeon Seed extension 2026-09-14
+  discovered_from: aeon-preventive-health
+  priority: normal
+- name: N&V Capital
+  type: firm
+  source: participated in Aeon Seed extension 2026-09-14
+  discovered_from: aeon-preventive-health
+  priority: normal
+- name: Bigwave Capital
+  type: firm
+  source: participated in Aeon Seed extension 2026-09-14
+  discovered_from: aeon-preventive-health
+  priority: normal
+- name: Tim Seithe
+  type: individual
+  firm: Aeon
+  source: Co-Founder & CEO of Aeon; raised Seed extension 2026-09-14 bringing total seed to €12M+
+  discovered_from: aeon-preventive-health
+  priority: low
