@@ -63,6 +63,14 @@ pending_rounds:
   parsed_amount: $77M
   parsed_round: null
   status: pending
+- title: YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts
+  url: https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/
+  source: techcrunch
+  date_found: '2026-09-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Paris-based Primo raises €6.9 million to deploy autonomous AI agents for
     IT teams
   url: https://www.eu-startups.com/2026/09/paris-based-primo-raises-e6-9-million-to-deploy-autonomous-ai-agents-for-it-teams/
