@@ -1239,7 +1239,9 @@ vague_facts:
   line: '| Ayogo | Early | ~2016 | Patient engagement | Active | [^30] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: CORRECTED Ayogo row — the ~2016 date was wrong. 7wire''s documented Ayogo Series A closed 2015-04-10 (USD 2.5M syndicate; Merck Global Health Innovation Fund, Excel Venture Management, and 7Wire Ventures participating with no formal lead named; David Stevenson (GHI), Caleb Winder (Excel), and Lee Shapiro (7Wire) joined the board). Note: Ayogo is NOT among the 5 companies 7wire announced as its 2013 strategic investments per [^2] (which lists EosHealth, WiserTogether, ZestHealth, Abundant Ventures Health Innovation Accelerator, and digedu). Verified via 2 primary sources: NEW FinSMEs [^87] (2015-04-10) and NEW BetaKit [^88] (April 2015). Both agree on amount, participants, and board additions. Third primary source (Ayogo company press release; MobiHealthNews) could not be located this session (SSL failure on ayogo.com; MobiHealthNews returned 403; Crunchbase/BusinessWire returned 403/404). Row tightened; 2 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: EosHealth
@@ -1249,7 +1251,9 @@ vague_facts:
   line: '| EosHealth | Early | 2013 | Disease management | Active | [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: Row could not be tightened this session. 7wire''s December 2013 PR Newswire "Five Strategic Investments in 2013" release [^2] confirms EosHealth as one of the year''s five investments but does not disclose the specific round type, date, or amount. No subsequent primary press coverage of a specific 7wire-participated EosHealth funding round is discoverable via FinSMEs (no results), MedCity News (no results), HIT Consultant (no results), PR Newswire search (no Ayogo/EosHealth match), Crunchbase (403), MobiHealthNews (403), or BusinessWire (403). Attribution rests solely on 7wire''s own 2013 announcement — matches the aggregator-single-source pattern flagged for other early 7wire investments. Row edited to note explicitly that [^2] is the sole primary source and that no specific round could be located. Left as "Active" per current row; company status could not be independently reverified this session. WebSearch budget was exhausted (200/200) at session start, preventing keyword-driven discovery. Recommend re-queueing for a future pass with fresh WebSearch budget.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: ZestHealth
@@ -1259,7 +1263,9 @@ vague_facts:
   line: '| ZestHealth | Early | 2013 | Healthcare navigation | Active | [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: PARTIALLY tightened ZestHealth row. 7wire''s initial 2013 investment remains anchored to [^2] (PR Newswire "Five Strategic Investments" release, which does not disclose amount or round type). Located subsequent follow-on: ZestHealth Series A closed 2015-08-05, over USD 6M, participants 7wire Ventures + Lightbank + Zaffre Investments + Martin Ventures + Dallas Venture Partners + LSAN/Azimuth Ventures — no formal lead named. Company founded 2013 by Shawn Ellis; markets Smart Concierge to employers, health systems, health plans (customers include Presence Health, BCBS Rhode Island). Verified via 1 primary source: NEW FinSMEs [^89] (2015-08-05). Additional independent primary sources (MedCity News; MobiHealthNews; Chicago Tribune Blue Sky; BuiltInChicago; PR Newswire) could not be reached this session (404/SSL/paywall/403); does NOT meet the 3-source standard for the 2015 Series A. Row updated to note both the 2013 initial position and the 2015 Series A follow-on with citations for each. 1 new footnote added ([^89]). WebSearch budget was exhausted (200/200) at session start. Recommend re-queueing for a future pass to add corroborating sources for the 2015 Series A.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: WiserTogether
