@@ -638,7 +638,9 @@ vague_facts:
   line: '| Paidy | Seed (500 Startups + Cherubic Ventures participated in pre-launch seed; formalized in the USD 3.3M Series A an'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: SCANNER FALSE POSITIVE — column 5 is the citation Source column and correctly contains only footnote references [^12][^58][^59][^60]. Row content is fully specific: 2014-07-29 Series A date, USD 3.3M amount, Arbor Ventures lead named, CyberAgent Ventures + Recruit Strategic Partners as new co-investors, 500 Startups + Cherubic Ventures explicitly documented as "existing investors" from pre-launch seed. Re-verified 2026-09-22 via 3 independent primary sources: (1) PR Newswire company press release [^58] (2014-07-29) — direct company announcement, confirms USD 3.3M Series A, Arbor Ventures lead, 500 Startups + Cherubic Ventures as "earlier backers" that also participated; (2) AVCJ Asia Venture Capital Journal [^59] (2014-07-30) — Asia-timezone regional VC trade press, second independent confirmation; (3) The Paypers [^60] (2014-07-30) — European payments trade press, third independent confirmation. All three sources agree on all fact elements. Paidy acquired by PayPal September 2021 for JPY 300B / ~USD 2.7B — highest-valued Japanese venture M&A on record — documented in row status. No profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: SmartHR
@@ -648,7 +650,9 @@ vague_facts:
   line: '| SmartHR | Series A (¥500M / ~USD 4.89M; World Innovation Lab (WiL) led; BEENEXT, 500 Startups Japan, and angels Kotaro'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: SCANNER FALSE POSITIVE — column 5 is the citation Source column and correctly contains only footnote references [^12][^87][^88][^89]. Row content is fully specific: 2016-08-30 Series A date, ¥500M / ~USD 4.89M amount, World Innovation Lab (WiL) lead named, 500 Startups Japan + BEENEXT + angels Kotaro Chiba (Colopl co-founder), Yu Akasaka + Jun Nishikawa (Eureka co-founders) as participants, explicit note that 500 Startups Japan was NOT in the February 2016 seed round, and reference to the follow-on ¥1.5B / USD 13.3M Series B led by 500 Startups Japan on 2018-01-22. Re-verified 2026-09-22 via 3 independent primary sources: (1) The Bridge Japan tech press [^87] (2016-08-30) — primary contemporaneous Japanese tech trade press, confirms ¥500M / ~$5M USD, WiL lead, 500 Startups Japan + BEENEXT + all three named angels; (2) Tech Wire Asia [^88] (2016-08-30) — second independent Asia trade press; (3) TechCrunch/Jon Russell [^89] (2018-01-22) — tier-1 tech press for follow-on Series B that retroactively confirms 500 Startups Japan''s prior Series A via James Riney "our early stage investment" quote. All three sources agree. No profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: eFishery
@@ -658,7 +662,9 @@ vague_facts:
   line: '| eFishery | Series A ($4M; Wavemaker Partners lead per DealStreetAsia; Aqua-Spark (return investor from Sep-2015 Pre-Se'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-22'
+  resolution_note: 'Fact-spec sweep 2026-09-22: SCANNER FALSE POSITIVE — column 5 is the citation Source column and correctly contains only footnote references [^6][^55][^56][^57]. Row content is fully specific: 2018-11-13 Series A date, USD 4M amount, Wavemaker Partners lead named per DealStreetAsia, Aqua-Spark (return investor from Sep-2015 Pre-Series A) + Maloekoe Ventures + Social Capital + Unreasonable Capital + Triputra Group as participants, explicit note that 500 Startups was NOT in the September 2015 Pre-Series A (Aqua-Spark led with Ideosource). Re-verified 2026-09-22 via 3 independent primary sources: (1) KrAsia [^55] (2018-11-13) — primary Southeast Asia tech press, confirms USD 4M, names Aqua-Spark, Wavemaker Partners, 500 Startups, and Social Capital; (2) Aquaculture Magazine [^56] (2018-11-13) — independent aquaculture vertical trade press, names full syndicate; (3) DealStreetAsia [^57] (2018-11-13) — regional tech-VC trade publication, names Wavemaker Partners as lead, confirms USD 4M. All three sources agree on date and amount. eFishery subsequently collapsed January 2025 after internal investigation revealed fabricated ~USD 600M revenue — this contextualizes the row''s "Collapsed" status. No profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: Mejuri
