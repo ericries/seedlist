@@ -9682,11 +9682,23 @@ priority:
   type: firm
   reason: "participated in Ande Seed+Series A (2026-09-22)"
   added: 2026-09-22
+  status: resolved
+  resolved: 2026-09-23
+  note: |
+    Verified via AlleyWatch Startup Daily Funding Report 9/22/2026 (primary press) — Ande raised $52M combined Seed + Series A on 2026-09-22 led by Lightspeed Venture Partners with Redpoint, Duration Ventures, Sierra Ventures, and Bain Capital Ventures. Cross-checked against Ande's own domain (SSL handshake blocked WebFetch — noted but not counted as a confirming source) and Lightspeed's portfolio page (lsvp.com/company/ande resolves to a different portfolio company "Andera" — an AI audit startup by Aryo Patel/Tinah Hong founded 2024 — so the Lightspeed corporate site does not yet publicly list Ande). Updated ande.md to name Lightspeed as lead, added founders Lohit Sarma and Michael McDermott to frontmatter, and expanded the About paragraph. Added Ande row to Redpoint firm Portfolio table with new footnote [^24] pointing to AlleyWatch. Note: only one contemporaneous press source found — flagging for a follow-up sweep if TechCrunch/Business Wire coverage appears.
 - slug: mika
   type: startup
   reason: "new profile — €6M Seed led by Smedvig Ventures (2026-09-23)"
   added: 2026-09-23
+  status: resolved
+  resolved: 2026-09-23
+  note: |
+    Verified via three independent primary sources: (1) EU-Startups article dated 2026-09-23 (contemporaneous tech press) confirming €6M Seed led by Smedvig Ventures with Wecken & Cie. (Care4 AG), Keen Venture Partners, Dutch Founders Fund, Dennis Bemmann, Michael Brehm, Johannes Ditterich, and Martina Pfeifer; (2) mika company website (getmika.de/en) confirming Berlin HQ, 800+ customers, €49/month pricing; (3) mika Impressum (getmika.de/en/imprint) confirming HRB 244957 Berlin-Charlottenburg registration and three managing directors: Agnieszka Walorska, Lukas Linnekuhle Brunner, Henry Müssemann. The Freddie Kalfayan quote in the "What Investors Say" section was verified verbatim against the EU-Startups article. Profile is accurate as-is — no changes needed. Round amount preserved in original EUR.
 - slug: fever
   type: startup
   reason: "new profile — $250M growth round led by EQT with Point72 Private Investments and Baillie Gifford (2026-09-17); Fever is Madrid-based live-events discovery platform, no firm profiles yet for EQT/Point72/Baillie Gifford"
   added: 2026-09-23
+  status: resolved
+  resolved: 2026-09-23
+  note: |
+    Verified via three primary sources: (1) Fever newsroom press release dated 2026-09-17 (newsroom.feverup.com/en-US/271038-...) confirming $250M round led by EQT with participation from Point72 Private Investments and Baillie Gifford (plus other existing investors), that revenue has tripled over three years, and that Fever operates with positive EBITDA; (2) Fever newsroom index page (newsroom.feverup.com/news/) confirming September 17, 2026 announcement date; (3) Fever company website (feverup.com) confirming 55+ country footprint, "Fever Originals" line (Candlelight concerts, Harry Potter: A Forbidden Forest Experience), and 300M+ audience last year. Fever's press release also cites Formula 1, Palace of Versailles, and Netflix as partners. Profile accurately records lead + participants and preserves USD as originally announced. No EQT/Point72/Baillie Gifford firm profiles exist yet — added as separate discovery task rather than blocking this resolution.

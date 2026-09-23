@@ -15,18 +15,22 @@ firms:
     round: series-a
     year: 2026
     date: 2026-09-22
-founders: []
+founders:
+  - name: "Lohit Sarma"
+    role: "Co-Founder"
+  - name: "Michael McDermott"
+    role: "Co-Founder"
 last_verified_investment:
   date: 2026-09-22
   company: "Ande"
   round: "Series A"
 status: published
-last_researched: 2026-09-22
+last_researched: 2026-09-23
 ---
 
 ## About
 
-Ande is a New York-based startup building an AI-native network that connects enterprises with venues and vendors for corporate entertainment and events, aiming to streamline the sourcing, booking, and coordination workflow that today runs on scattered emails, spreadsheets, and vendor-management portals [^1]. On 2026-09-22, AlleyWatch reported that Ande had raised $52 million in a combined Seed and Series A round with participation from Lightspeed Venture Partners, Redpoint, Duration Ventures, Sierra Ventures, and Bain Capital Ventures [^1].
+Ande is a New York-based startup building an AI-native network that connects enterprises with venues and vendors for corporate entertainment and events, aiming to streamline the sourcing, booking, and coordination workflow that today runs on scattered emails, spreadsheets, and vendor-management portals [^1]. The company was founded in 2023 by Lohit Sarma and Michael McDermott [^1]. On 2026-09-22, AlleyWatch reported that Ande had raised $52 million in a combined Seed and Series A round led by Lightspeed Venture Partners with participation from Redpoint, Duration Ventures, Sierra Ventures, and Bain Capital Ventures [^1].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -34,7 +38,7 @@ Ande is a New York-based startup building an AI-native network that connects ent
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-22 | Seed + Series A (combined) | $52M | — | Lightspeed Venture Partners, Redpoint, Duration Ventures, Sierra Ventures, Bain Capital Ventures [^1] |
+| 2026-09-22 | Seed + Series A (combined) | $52M | Lightspeed Venture Partners | Redpoint, Duration Ventures, Sierra Ventures, Bain Capital Ventures [^1] |
 
 ## What Investors Say
 
