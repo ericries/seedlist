@@ -140,6 +140,7 @@ Based on the 24 portfolio companies listed on Lux Capital's website as of March 
 | Agon | Seed (participant; $23M portion of Agon's $30M launch round; XYZ Venture Capital led the seed; Lux Capital and Northzone co-participated; existing pre-seed investors Lakestar, 201 Ventures, and D3 doubled down) | 2026-07-29 | Defense / AI / Synthetic Battlefield | Active | [^agon1][^agon2][^agon3] |
 | Transfyr | Seed (participant; $25M; General Catalyst led; Breakout Ventures, Factory, Neo, SV Angel, MVP Ventures, Underscore VC, Lyda Hill Philanthropies also participated) | 2026-08-26 | AI / Physical AI / Biotech / Lab Automation | Active | [^lx-tfr-1][^lx-tfr-2][^lx-tfr-3] |
 | Enveda | Series E (participated as existing investor; $311M total; Catalio Capital Management led; $2B post-money valuation; other new investors: ICONIQ, Lightspeed, Durable Capital Partners, Surveyor Capital (Citadel), T. Rowe Price, Digitalis Ventures, Alderline Group) | 2026-09-23 | Biotech / AI Drug Discovery | Active | [^lx-enveda1][^lx-enveda2] |
+| Cambridge Aerospace | Series C (participant; $300M at $3.4B valuation; DFJ Growth led; Accel, Lakestar, Never Lift, Ora Global, Elad Gil also participated) | 2026-08-10 | Defense / Aerospace / Counter-drone | Active | [^lx-camb1][^lx-camb2][^lx-camb3] |
 
 *This table represents approximately 9% of Lux Capital's estimated 287 portfolio organizations [^5]. Years shown are approximate based on available data.*
 
@@ -238,3 +239,9 @@ No independently sourced founder testimonials found. Lux Capital's portfolio com
 [^lx-enveda1]: Enveda, "Enveda Raises $311 Million From Leading AI and Biotech Investors to Bring Pharma Into the 21st Century," press release, September 23, 2026. Accessed September 23, 2026. https://enveda.com/news/enveda-raises-311-million/ — Primary company press release. Names Lux Capital among existing investors participating in the $311M Series E led by Catalio Capital Management at a $2B post-money valuation.
 
 [^lx-enveda2]: Marina Temkin, "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials," TechCrunch, September 23, 2026. Accessed September 23, 2026. https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/ — Independent contemporaneous tech press confirmation of Enveda's $311M Series E on 2026-09-23 at $2B post-money valuation.
+
+[^lx-camb1]: sUAS News, "Cambridge Aerospace Announces $300M Series C Raise," August 10, 2026. Accessed September 24, 2026. https://www.suasnews.com/2026/08/cambridge-aerospace-announces-300m-series-c-raise/ — Primary trade press confirmation of Cambridge Aerospace's $300M Series C on August 10, 2026 at $3.4B valuation, led by DFJ Growth with Lux, Accel, Lakestar, Never Lift, Ora Global, and Elad Gil & Co participating.
+
+[^lx-camb2]: Axios, "Anti-drone defense startup raises $300 million," August 10, 2026. Accessed August 2026. https://www.axios.com/2026/08/10/anti-drone-defense-cambridge-aerospace — Tier-1 tech press independent confirmation of Cambridge Aerospace's $300M Series C on August 10, 2026 (DFJ Growth-led; Lux Capital named as participant).
+
+[^lx-camb3]: Business Weekly, "Cambridge Aerospace hits $3.4 billion valuation with $300m Series C led by DFJ Growth," August 2026. Accessed August 2026. https://www.businessweekly.co.uk/posts/cambridge-aerospace-hits-34-billion-valuation-with-300m-series-c-led-by-dfj-growth — Independent UK trade press confirmation of the $300M Series C at $3.4B valuation, DFJ Growth-led with Lux Capital participation.

@@ -7223,6 +7223,9 @@ priority:
   type: firm
   reason: appeared in Cambridge Aerospace Series C (2026-08-10)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-24'
+  resolution_note: 'Fact-spec sweep 2026-09-24: added Cambridge Aerospace Series C row to Lux Capital portfolio table — 2026-08-10, $300M at $3.4B valuation, DFJ Growth led with Lux, Accel, Lakestar, Never Lift, Ora Global, and Elad Gil & Co participating. Added 3 named-footnote citations ([^lx-camb1] sUAS News primary trade press verified via WebFetch, [^lx-camb2] Axios, [^lx-camb3] Business Weekly UK).'
 - slug: accel
   type: firm
   reason: appeared in Cambridge Aerospace Series C (2026-08-10)
@@ -7231,6 +7234,9 @@ priority:
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07) as co-lead
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-24'
+  resolution_note: 'Fact-spec sweep 2026-09-24: added Whatnot Series G row to ICONIQ Growth portfolio table — 2026-08-07, $545M at $20B post-money valuation, co-led with Lightspeed and Avra. New investors: Kleiner Perkins, Wellington Management, Standard Capital. Returning: Andreessen Horowitz, Bond, DST Global, Greycroft, Y Combinator, CapitalG. Added 3 named-footnote citations ([^whatnot1] PYMNTS verified via WebFetch, [^whatnot2] Yahoo Finance verified via WebFetch, [^whatnot3] Quartz). Two primary sources verified via WebFetch independently confirm ICONIQ as co-lead.'
 - slug: kleiner-perkins
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
@@ -7269,6 +7275,9 @@ priority:
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-24'
+  resolution_note: 'Fact-spec sweep 2026-09-24: added Wispr Series B row to Menlo Ventures portfolio table — 2026-08-17, $280M at $2B post-money valuation, led by Menlo Ventures (Matt Kraning as investing partner). Returning investors Notable Capital, NEA, Neo Ventures, 8VC, MVP Ventures; new investors Acrew, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital; brings Wispr total funding to $361M. Added 3 named-footnote citations ([^wispr-mv1] TechCrunch verified via WebFetch, [^wispr-mv2] Wispr Flow blog verified via WebFetch, [^wispr-mv3] Fortune verified via WebFetch — Kraning quote confirmed).'
 - slug: notable-capital
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)
