@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: GoldHaven Closes Additional Tranche of Flow-Through Financing Bringing Total
+    Flow-Through Proceeds to $3.0 Million
+  url: https://www.globenewswire.com/news-release/2026/09/23/3367899/0/en/goldhaven-closes-additional-tranche-of-flow-through-financing-bringing-total-flow-through-proceeds-to-3-0-million.html
+  source: globenewswire
+  date_found: '2026-09-24'
+  parsed_company: GoldHaven
+  parsed_amount: $3.0M
+  parsed_round: null
+  status: pending
 - title: Berlin-based mika raises €6 million to scale its AI-native alternative to
     traditional tax firms
   url: https://www.eu-startups.com/2026/09/berlin-based-mika-raises-e6-million-to-scale-its-ai-native-alternative-to-traditional-tax-firms/
