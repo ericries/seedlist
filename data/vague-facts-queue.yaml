@@ -3140,7 +3140,9 @@ vague_facts:
   line: '| Anecdotes | Seed | 2020 | Data Infrastructure | Active | [^9] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-24'
+  resolution_note: 'Fact-spec sweep 2026-09-24: CORRECTED wrong year 2020 → 2021-02-10 and tightened "Seed" to "$5M; Aleph and Glilot Capital Partners co-led; Gerhard Eschelbeck (former Google CISO) and Ron Zoran (former Cyberark CRO) participated." Verified via 3 independent primary sources: VentureBeat (2021-02-10) [^44] confirming $5M / Aleph and Glilot co-lead / Gerhard Eschelbeck / Yair Kuznitsov CEO quote; Tech.eu (2021-02-10) [^45] confirming same syndicate plus Ron Zoran; Anecdotes company news archive [^46] listing multi-outlet coverage (FinSMEs, Israel Defense, GeekTime, Aleph VC Medium interview, Walla Finance) all Feb 4–11, 2021. 3 new footnotes added ([^44], [^45], [^46]).'
 - profile: firms/aleph
   profile_name: Aleph
   company: Approve
@@ -10007,7 +10009,9 @@ vague_facts:
   line: ~unknown| Impossible Foods | — | — | Alternative protein / food tech | [^6][^11] |
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-24
+  resolution_note: 'Fact-spec sweep 2026-09-24: (1) FIXED broken markdown table syntax — the ''~unknown|'' prefix was breaking rendering on FOUR rows (Impossible Foods, Phononic, Rohinni, WiTricity); all four converted to proper pipe-delimited rows. (2) Sharpening the round/date to a specific Future Shape institutional round is UNRESOLVABLE: Tony Fadell has publicly discussed Impossible Foods as part of his personal/Build Collective climate-tech portfolio on MCJ Podcast Ep. 210 [^11] and in his Sifted-referenced portfolio [^6], but no primary press names a specific Future Shape / Fadell institutional round (Series letter, date, or amount). Impossible Foods'' documented syndicates (KPCB Series A, Vinod Khosla Series B, subsequent Series C–H led by UBS/Temasek/Horizons/Coatue) do not name Future Shape or Tony Fadell in contemporaneous press releases. Attribution appears to be Fadell-self-reported only; row now discloses this explicitly per the "aggregator/self-attribution only" convention flagged elsewhere. Re-queue with fresh WebSearch budget for another sweep; current session had 0/200 WebSearch calls remaining.'
 - profile: firms/future-shape
   profile_name: Future Shape
   company: Ledger

@@ -80,7 +80,7 @@ Based on 61 verified portfolio companies from Aleph's website [^9]:
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Agora | Seed ($9M; Aleph led; River Park Ventures + Maccabee Ventures + strategic US real estate investors participated) | 2021-11-03 | Real Estate | Active | [^9] [^41] [^42] [^43] |
-| Anecdotes | Seed | 2020 | Data Infrastructure | Active | [^9] |
+| Anecdotes | Seed ($5M; Aleph and Glilot Capital Partners co-led; Gerhard Eschelbeck (former Google CISO) and Ron Zoran (former Cyberark CRO) participated) | 2021-02-10 | Data Infrastructure / GRC | Active | [^9] [^44] [^45] [^46] |
 | Approve | Seed | 2020 | Fintech | Acquired by Tipalti | [^9] |
 | Brew | Seed | 2020 | Logistics | Active | [^9] |
 | Bringg | Series B | 2017-03-14 | Logistics | Active | [^9] [^32] [^33] [^34] |
@@ -254,3 +254,9 @@ No additional independently sourced founder testimonials found beyond the Aleph 
 [^42]: Calcalist / CTech, "Agora raises $9 million for real estate investment management platform," November 3, 2021, accessed August 2026. https://www.calcalistech.com/ctech/articles/0,7340,L-3921610,00.html — Independent Israeli tech-press confirmation of the November 3, 2021 announcement; $9M seed led by Aleph with River Park Ventures and Maccabee Ventures participating.
 
 [^43]: Crowdfund Insider, "Real Estate Investment Software Firm Agora Receives $9 Million In Seed Funding," November 2021, accessed August 2026. https://www.crowdfundinsider.com/2021/11/182405-real-estate-investment-software-firm-agora-receives-9-million-in-seed-funding/ — Independent third-source press confirmation of the $9M seed led by Aleph.
+
+[^44]: VentureBeat, "Data compliance startup Anecdotes raises $5 million to scale its enterprise platform," February 10, 2021, accessed September 2026. https://venturebeat.com/2021/02/10/data-compliance-startup-anecdotes-raises-5-million-to-scale-its-enterprise-platform/ — Independent tech-press confirmation. Anecdotes raised a $5M seed co-led by Aleph and Glilot Capital, with Gerhard Eschelbeck (former Google CISO) joining. Includes Yair Kuznitsov (co-founder & CEO) commentary on market urgency and Aleph's rationale.
+
+[^45]: Tech.eu, "Israeli startup anecdotes scores $5 million to bolster its compliance platform," February 10, 2021, accessed September 2026. https://tech.eu/brief/israeli-startup-anecdotes-scores-5-million-to-bolster-its-ompliance-platform/ — Independent European tech-press confirmation of the $5M seed co-led by Aleph and Glilot Capital Partners, with Gerhard Eschelbeck (former Google CISO) and Ron Zoran (former Cyberark CRO) named as participants; Yair Kuznitsov (CEO) quoted on early market response.
+
+[^46]: Anecdotes company news archive listing Feb 4 to Feb 11, 2021 coverage of the $5M seed round (FinSMEs, VentureBeat, Israel Defense, GeekTime, Aleph VC Medium interview, Tech.eu, Walla Finance), accessed September 2026. https://anecdotes.ai/news/ — Company-primary archive confirming the round dates, amount, and syndicate across multiple independent outlets.

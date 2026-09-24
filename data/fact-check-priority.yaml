@@ -9858,4 +9858,6 @@ priority:
   reason: |
     Round monitoring 2026-09-24: new profile — €5.3M growth round co-led by Frumtak Ventures and Swiss Post Ventures with Avant and DRD Investments (Reykjavík HR workflow AI).
   added: 2026-09-25
-  status: pending
+  status: resolved
+  resolved: 2026-09-24
+  resolution_note: 'Fact-spec sweep 2026-09-24: verified €5.3M ($6M) growth round via 3 independent primary sources — EU-Startups [^1], Tech.eu direct article [^2] (Djurickovic, Sep 24 2026), and 50skills company blog news index [^3]. All confirm date, amount, Frumtak Ventures + Swiss Post Ventures co-lead, and Avant + DRD Investments co-investment. Replaced Tech.eu homepage citation with the direct article URL. Added Ásthildur Otharsdóttir (Frumtak Partner, Chair of 50skills board) investor quote and Kristján Freyr Kristjánsson (Co-Founder & CEO) founder quote. Corrected use-of-proceeds description (hiring in sales/marketing/community + platform + AI agents, per both sources).'

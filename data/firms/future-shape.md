@@ -96,7 +96,7 @@ The analysis below is based on 25 verified investments from press coverage, Crun
 | Diamond Foundry | Growth | 2021-04-27 | Synthetic diamonds / materials | [^6][^36][^37] |
 | Edda | Seed | 2022 | PE/VC management software | [^21] |
 | Hodinkee | Series B | 2020 | Watch media / e-commerce | [^17] |
-~unknown| Impossible Foods | — | — | Alternative protein / food tech | [^6][^11] |
+| Impossible Foods | Undisclosed early-stage angel / advisory participation (per Fadell's Build Collective portfolio [^6] and MCJ Podcast Ep. 210 [^11]; primary press for a specific Future Shape / Fadell institutional round not located) | ~2022 (Fadell association verified via MCJ Podcast Ep. 210) | Alternative protein / food tech | [^6][^11] |
 | Ledger | Series C extension | 2023 | Crypto hardware wallet | [^13][^32] |
 | Lightship | Seed | 2021 | Electric RV | [^38][^39] |
 | Lumafield | Series B | 2022 | Desktop CT scanner | [^2] |
@@ -108,17 +108,17 @@ The analysis below is based on 25 verified investments from press coverage, Crun
 | Nothing | Seed | 2020 | Consumer electronics / smartphones | [^24] |
 | Nothing | Series B | 2022 | Consumer electronics / smartphones | [^24] |
 | Orionis Biosciences | Series C | 2022 | Biotech / cancer immunotherapy | [^16][^34] |
-~unknown| Phononic | — | — | Solid-state cooling / climate | [^11] |
+| Phononic | Undisclosed participation (per Fadell's MCJ Podcast Ep. 210 climate-tech list [^11]; primary press for a specific Future Shape institutional round not located) | ~2022 (Fadell association verified via MCJ Podcast Ep. 210) | Solid-state cooling / climate | [^11] |
 | Prenuvo | Series A | 2022-10-18 | Full-body MRI screening | [^42] |
 | Remedy Robotics | Combined Seed + Series A disclosure ($35M total: DCVC led original seed circa 2020; Blackbird Ventures backed Series A in 2020 per Blackbird's blog; Build Collective/Fadell + KdT Ventures also participants; total disclosed publicly 2025-10-06 alongside clinical milestone announcement) | 2025-10-06 (disclosure) | Surgical robotics / Endovascular neurointervention | [^25][^rr1][^rr2] |
 | RightHand Robotics | Series C | 2022 | Warehouse robotics | [^26] |
-~unknown| Rohinni | — | — | Micro LED technology | [^11] |
+| Rohinni | Undisclosed participation (per Fadell's MCJ Podcast Ep. 210 [^11]; primary press for a specific Future Shape institutional round not located) | ~2022 (Fadell association verified via MCJ Podcast Ep. 210) | Micro LED technology | [^11] |
 | Simbe Robotics | Series A | ~2019 | Retail robotics / automation | [^14] |
 | Smartex | Series A | 2022 | AI textile quality / sustainability | [^18] |
 | Sweep | Series B | 2022 | Carbon accounting / climate tech | [^27] |
 | Turntide | Series B | 2020-09-24 | Digital motors / energy efficiency | [^11][^43] |
 | Turvo | Series A | 2017 | Logistics management | [^3][^35] |
-~unknown| WiTricity | — | — | Wireless charging / transportation | [^4] |
+| WiTricity | Undisclosed participation (per existing Sifted / Fadell portfolio citation [^4]; primary press for a specific Future Shape institutional round not located) | ~2022 (Fadell association surfaced in Sifted portfolio coverage) | Wireless charging / transportation | [^4] |
 | XpertSea | Series B | 2021 | Aquaculture / ag-tech | [^28] |
 | 3D Hubs | Series C | 2019 | On-demand manufacturing (acquired by Protolabs) | [^29] |
 
