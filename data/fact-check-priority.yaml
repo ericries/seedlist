@@ -9794,10 +9794,14 @@ priority:
   reason: |
     Round monitoring 2026-09-23: co-led Integral €18M Series A (2026-09-16).
   added: 2026-09-23
-  status: pending
+  status: resolved
+  resolved: 2026-09-23
+  resolution_note: 'Fact-spec sweep 2026-09-23: added Integral Series A (€18M, 2026-09-16, co-led with Mosaic Ventures) to reid-hoffman.md Portfolio table with 3 primary source citations — EU-Startups [^19], Integral Group press release [^20], Tech.eu [^21]. Updated last_verified_investment from Niteshift Seed 2026-06-10 to Integral Series A 2026-09-16. Portfolio verified investment count updated from 20 to 21.'
 - slug: general-catalyst
   type: firm
   reason: |
     Round monitoring 2026-09-23: participated in Integral €18M Series A (2026-09-16).
   added: 2026-09-23
-  status: pending
+  status: resolved
+  resolved: 2026-09-23
+  resolution_note: 'Fact-spec sweep 2026-09-23: added Integral Series A (€18M, 2026-09-16, participated as existing investor) to general-catalyst.md Portfolio table with 3 primary source citations — EU-Startups [^gc-integral-1], Integral Group press release [^gc-integral-2], Tech.eu [^gc-integral-3]. Round co-led by Mosaic Ventures and Reid Hoffman with Cherry Ventures, General Catalyst, and Puzzle Ventures participating. Berlin-based AI-native accounting/tax/payroll for SMEs.'
