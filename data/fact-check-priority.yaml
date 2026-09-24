@@ -8745,6 +8745,11 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-15: Participated in Evvy $40M Series B (2026-09-15) led by Catalio Capital Management.'
   added: 2026-09-15
+  status: resolved
+  resolved: 2026-09-24
+  resolution_note: |
+    Fact-spec sweep 2026-09-24: verified General Catalyst participation in Evvy $40M Series B (2026-09-15) via 2 independent primary sources (existing evvy.md profile citations reused): (1) TechCrunch (Dominic-Madori Davis) at https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/ — primary tier-1 tech press confirming $40M Series B led by Catalio Capital Management on 2026-09-15 with four verbatim Priyanka Jain (CEO) quotes; (2) Evvy company website About page at https://www.evvy.com/about — primary company source confirming founders (Priyanka Jain, Pita Navarro, Laine Bruzek) and named investor set including General Catalyst, Left Lane, Labcorp, G9, BBGV, BoxGroup, Foreground Capital, Amboy St. Ventures, Human Ventures, Virtue, Ingeborg, and Catalio (visible in investor logo wall). Added Evvy row to general-catalyst.md Portfolio table as PARTICIPANT (Catalio Capital Management led), with new named-footnote citations [^gc-evvy-1] TechCrunch and [^gc-evvy-2] Evvy About page. Currency preserved (USD). Catalio Capital Management, Left Lane, Labcorp, G9, BBGV, and BoxGroup have no firm profiles in seedlist and are named in Evvy's Funding History table text only, not in Evvy's firms array.
+  processed: 2026-09-24
 - slug: profound
   type: startup
   reason: 'Round monitoring 2026-09-15 (18:00 UTC cron): New lean profile for $180M Series D (2026-09-15) at $1.8B valuation, co-led by Sequoia Capital and Kleiner Perkins, with Lightspeed Venture Partners,
@@ -9017,6 +9022,11 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-16: Series A extension €8.6M ($10M) led by Intercontinental Exchange (ICE), bringing Series A to €43M ($50M).'
   added: 2026-09-16
+  status: resolved
+  resolved: 2026-09-24
+  resolution_note: |
+    Fact-spec sweep 2026-09-24: verified Isometric Series A extension €8.6M ($10M) led by Intercontinental Exchange (ICE) on 2026-09-15, bringing total Series A to €43M ($50M) and cumulative funding to €64M ($75M) via 2 independent primary sources: (1) EU-Startups at https://www.eu-startups.com/2026/09/uk-climatetech-startup-isometric-brings-series-a-to-e43-million-as-it-expands-beyond-carbon-removal/ — European tech press confirming ICE lead, full co-investor list (Acario Innovation, BY Venture Partners, Dubai Future District Fund, Earth VC, Motion Ventures, One Capital, Plug and Play, Verb Ventures, Max Junestrand/Legora founder), verbatim Gordon Bennett (ICE Managing Director of Utility Markets) quote, and verbatim Eamon Jubbawy (CEO) quote; (2) Isometric company homepage at https://isometric.com/ — primary company source confirming "Isometric backed by Intercontinental Exchange in $50m Series A" as a featured news item. Existing isometric.md profile [^6] citation already covers EU-Startups; profile is comprehensive with 6 named sources spanning June 2026 Series A [^1][^2][^3][^4][^5] (Finsmes, UKTN, Carbon Herald, Isometric blog, ESG News) and September 2026 extension [^6] (EU-Startups). Currency preserved dual (€8.6M / $10M for extension; €43M / $50M Series A total; €64M / $75M cumulative). No profile changes required — existing entries in Funding History table, What Investors Say (Gordon Bennett quote), and What Founders Say (Eamon Jubbawy extension quote) all verified against EU-Startups source. ICE has no firm profile in seedlist; lead named in Funding History table text only.
+  processed: 2026-09-24
 - slug: expanse-ai
   type: startup
   reason: 'Round monitoring 2026-09-16: Seed €4.5M ($5.3M) led by Crane Venture Partners with PXN Ventures, AIP Seed.'
@@ -9690,6 +9700,11 @@ priority:
   type: firm
   reason: "led Thatch Series C (2026-09-15)"
   added: 2026-09-22
+  status: resolved
+  resolved: 2026-09-24
+  resolution_note: |
+    Fact-spec sweep 2026-09-24: CORRECTED lead-investor error. Thatch Series C $108M at $1B valuation (2026-09-15) was LED BY THE GENERAL PARTNERSHIP (TheGP), NOT by Andreessen Horowitz. AlleyWatch's Weekly Notable Startup Funding Report listed a16z first among the round's investors, which was originally misread as "lead" — but Thatch's own primary blog announcement definitively names The General Partnership as the round lead, with Andreessen Horowitz among 11 co-participants (Index Ventures, Scale Venture Partners, General Catalyst, Andreessen Horowitz, Avid Ventures, Quiet Capital, SemperVirens, QuantumLight, Eli Lilly, ADP Ventures, Paychex). Verified via 3 independent primary sources: (1) Thatch company blog / Chris Ellis CEO announcement post at https://thatch.com/blog/thatch-series-c-announcement — definitive primary company source naming TheGP as lead, $108M / $1B valuation, and full 12-firm investor list; (2) AlleyWatch Weekly Notable Startup Funding Report at https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-21-26/ — tier-2 aggregator confirming $108M / $192M cumulative and full investor list; (3) The General Partnership (thegp.com) portfolio case-study page confirming Thatch as a TheGP-supported portfolio company. Updated thatch.md to: (a) name TheGP as lead in Funding History, (b) add full 11-firm co-investor list, (c) add Chris Ellis (Co-Founder & CEO) to founders array with verbatim quote in What Founders Say ("We founded Thatch on a radically simple premise: if we reorient our healthcare system around the consumer, we can build a healthcare system people love."), (d) add General Catalyst and Index Ventures to firms array (both existing profiled firms), (e) replace [^1][^2] with three-source [^1][^2][^3] citation set. Added Thatch row to andreessen-horowitz.md Portfolio table as PARTICIPANT (not lead), with three named-footnote citations [^tha-a1][^tha-a2][^tha-a3]. Also added Thatch row to general-catalyst.md Portfolio table as participant with [^gc-thatch-1][^gc-thatch-2]. Currency preserved (USD). TheGP has no firm profile in seedlist; frontmatter firms array intentionally excludes it (lead named in Funding History table text only).
+  processed: 2026-09-24
 - slug: redpoint-ventures
   type: firm
   reason: "participated in Ande Seed+Series A (2026-09-22)"

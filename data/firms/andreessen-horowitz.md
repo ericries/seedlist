@@ -206,6 +206,7 @@ The following table includes a16z investments verified through the firm's own po
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Thatch | Series C (participated; $108M at $1B post-money; The General Partnership led; Index Ventures, Scale Venture Partners, General Catalyst, Avid Ventures, Quiet Capital, SemperVirens, QuantumLight, Eli Lilly, ADP Ventures, Paychex co-invested; $192M cumulative) | 2026-09-15 | Healthcare / Health Benefits / HR Tech / Insurtech | Private [^tha-a1][^tha-a2][^tha-a3] |
 | Adaptive | Series B (participated; $30M led by Tidemark; Emergence Capital, Pathlight, Definition, 3KVC co-invested; total raised $57M) | 2026-09-17 | Construction / Vertical SaaS / AI Accounting | Private [^adp-a1][^adp-a2][^adp-a3] |
 | Gimlet Labs | Series B (led, $300M at $3B post-money) | 2026-09-04 | AI Infrastructure / Inference | Private [^gimlet-a1][^gimlet-a2][^gimlet-a3] |
 | Mariana Minerals | Series B (participated; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private [^mm-a16z][^mm-a16z-prn][^mm-a16z-fortune] |
@@ -386,6 +387,10 @@ The following table includes a16z investments verified through the firm's own po
 *Note: The Ghodsi quotes are from an independently reported profile (Not Boring by Packy McCormick). The Chesky and Silbermann quotes are from independent Fortune reporting. The Jordan quote is included for context but is an investor quote, not a founder quote. No independently sourced negative or critical founder testimonials were found in this research pass. a16z's own website does not feature a dedicated testimonials section.*
 
 ## Sources
+
+[^tha-a1]: Thatch company blog, "Thatch raises $108M Series C at a $1B valuation to build a healthcare system people love," Chris Ellis (CEO), September 15, 2026. Accessed September 2026. https://thatch.com/blog/thatch-series-c-announcement — Primary company source naming full 12-firm investor list including Andreessen Horowitz as a Series C participant; The General Partnership named as round lead.
+[^tha-a2]: AlleyWatch, "The AlleyWatch Weekly Notable Startup Funding Report: 9/21/26," accessed September 2026. https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-21-26/ — Tier-2 aggregator confirming $108M Series C, $192M cumulative raised, and the full investor list.
+[^tha-a3]: The General Partnership (TheGP) portfolio page, Thatch case study, accessed September 2026. https://www.thegp.com/ — Primary lead-investor source listing Thatch ("Health benefits from the future") and confirming The General Partnership as the round's engineering/capital/talent partner.
 
 [^adp-a1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/17/2026," September 17, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-17-2026/
 [^adp-a2]: Matt Calvano, "Why We Built an AI Project Accountant, and Raised $30M to Build More of It," Adaptive company blog, September 17, 2026. Accessed September 22, 2026. https://www.adaptive.build/blog/why-we-built-an-ai-project-accountant-and-raised-30m-to-build-more-of-it
