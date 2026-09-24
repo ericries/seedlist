@@ -80,6 +80,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/23/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-23-2026/
+  source: alleywatch
+  date_found: '2026-09-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Paris-based Primo raises €6.9 million to deploy autonomous AI agents for
     IT teams
   url: https://www.eu-startups.com/2026/09/paris-based-primo-raises-e6-9-million-to-deploy-autonomous-ai-agents-for-it-teams/
@@ -853,14 +861,5 @@ pending_rounds:
   date_found: '2026-09-10'
   parsed_company: null
   parsed_amount: $1.5B
-  parsed_round: null
-  status: pending
-- title: Italy’s Biorsaf raises €5.2 million and acquires Cooki to build AI-powered
-    food RegTech platform
-  url: https://www.eu-startups.com/2026/09/italys-biorsaf-raises-e5-2-million-and-acquires-cooki-to-build-ai-powered-food-regtech-platform/
-  source: eu-startups
-  date_found: '2026-09-10'
-  parsed_company: Italy’s Biorsaf
-  parsed_amount: null
   parsed_round: null
   status: pending
