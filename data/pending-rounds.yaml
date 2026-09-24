@@ -29,6 +29,50 @@ pending_rounds:
   parsed_amount: $3.0M
   parsed_round: null
   status: pending
+- title: Gaming Startup Funding Levels Up A Bit In 2026
+  url: https://news.crunchbase.com/venture/2026-global-gaming-startup-funding-up-ai-meshy-decart/
+  source: crunchbase
+  date_found: '2026-09-24'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Amsterdam-based Duqu raises €1.5 million to unlock cash tied up in unpaid
+    invoices
+  url: https://www.eu-startups.com/2026/09/amsterdam-based-duqu-raises-e1-5-million-to-unlock-cash-tied-up-in-unpaid-invoices/
+  source: eu-startups
+  date_found: '2026-09-24'
+  parsed_company: Amsterdam-based Duqu
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Italy’s Clastix raises €2.9 million with Mistral backing to build sovereign
+    Kubernetes infrastructure for Europe
+  url: https://www.eu-startups.com/2026/09/italys-clastix-raises-e2-9-million-with-mistral-backing-to-build-sovereign-kubernetes-infrastructure-for-europe/
+  source: eu-startups
+  date_found: '2026-09-24'
+  parsed_company: Italy’s Clastix
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Reykjavík-based 50skills raises €5.3 million to scale its AI-powered HR workflow
+    automation platform
+  url: https://www.eu-startups.com/2026/09/reykjavik-based-50skills-raises-e5-3-million-to-scale-its-ai-powered-hr-workflow-automation-platform/
+  source: eu-startups
+  date_found: '2026-09-24'
+  parsed_company: Reykjavík-based 50skills
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Cologne-based Metycle secures €131.7 million credit facility to scale secondary
+    copper and aluminium supply
+  url: https://www.eu-startups.com/2026/09/cologne-based-metycle-secures-e131-7-million-credit-facility-to-scale-secondary-copper-and-aluminium-supply/
+  source: eu-startups
+  date_found: '2026-09-24'
+  parsed_company: Cologne-based Metycle
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Berlin-based mika raises €6 million to scale its AI-native alternative to
     traditional tax firms
   url: https://www.eu-startups.com/2026/09/berlin-based-mika-raises-e6-million-to-scale-its-ai-native-alternative-to-traditional-tax-firms/
@@ -816,50 +860,5 @@ pending_rounds:
   date_found: '2026-09-11'
   parsed_company: Munich-based Furo
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Copenhagen’s Seed Capital closes €130 million Fund V to back Nordic startups
-    from Seed to Series A
-  url: https://www.eu-startups.com/2026/09/copenhagens-seed-capital-closes-e130-million-fund-v-to-back-nordic-startups-from-seed-to-series-a/
-  source: eu-startups
-  date_found: '2026-09-11'
-  parsed_company: Copenhagen’s Seed Capital
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: Dutch AgTech Gravity Gardens secures €2.6 million to scale its dry, chemical-free
-    seed activation technology
-  url: https://www.eu-startups.com/2026/09/dutch-agtech-gravity-gardens-secures-e2-6-million-to-scale-its-dry-chemical-free-seed-activation-technology/
-  source: eu-startups
-  date_found: '2026-09-11'
-  parsed_company: Dutch AgTech Gravity Gardens
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive
-    Lead A Massive Week'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/
-  source: crunchbase
-  date_found: '2026-09-11'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Trident Digital Tech Holdings (Nasdaq: TDTH) Closes US$8 Million Private
-    Placement to Fund Execution of Its Digital Infrastructure and Enterprise AI Strategy'
-  url: https://www.globenewswire.com/news-release/2026/09/09/3359043/0/en/trident-digital-tech-holdings-nasdaq-tdth-closes-us-8-million-private-placement-to-fund-execution-of-its-digital-infrastructure-and-enterprise-ai-strategy.html
-  source: globenewswire
-  date_found: '2026-09-10'
-  parsed_company: 'Trident Digital Tech Holdings (Nasdaq: TDTH)'
-  parsed_amount: $8M
-  parsed_round: null
-  status: pending
-- title: AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce
-    talks
-  url: https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/
-  source: techcrunch
-  date_found: '2026-09-10'
-  parsed_company: null
-  parsed_amount: $1.5B
   parsed_round: null
   status: pending
