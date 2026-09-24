@@ -3,9 +3,9 @@ check_size: $500K-$20M
 firm: greylock
 last_researched: 2026-03-20
 last_verified_investment:
-  company: Niteshift
-  date: 2026-06-10
-  round: Seed
+  company: Integral
+  date: 2026-09-16
+  round: Series A
 location: Menlo Park, CA
 name: Reid Hoffman
 role: Partner
@@ -114,8 +114,9 @@ Hoffman invests across all stages, from angel through growth. Of 20 verified inv
 | Coda | Growth | ~2019 | Productivity/Docs | Acquired | [^2] |
 | SocialNet | Founder | 1997 | Social Network | Shut down | [^3] |
 | Niteshift | Seed ($7M, Greylock-led with Jerry Chen; Hoffman participated as angel alongside Amplify Partners, BoxGroup, SV Angel, Olivier Pomel, Alexis Lê-Quôc, Ankur Goyal, Misha Laskin) | 2026-06-10 | AI/Developer tools | Active | [^16][^17][^18] |
+| Integral | Series A (€18M, Berlin-based AI-native accounting/tax/payroll for SMEs; co-led with Mosaic Ventures alongside Cherry Ventures, General Catalyst, Puzzle Ventures) | 2026-09-16 | Fintech/Accounting/AI | Active | [^19][^20][^21] |
 
-*Note: This table represents 20 verified investments. Hoffman has reportedly made angel investments in more than 80 technology startups; only those with specific sourced confirmation are included. His investments through Greylock's institutional fund are not separately enumerated.*
+*Note: This table represents 21 verified investments. Hoffman has reportedly made angel investments in more than 80 technology startups; only those with specific sourced confirmation are included. His investments through Greylock's institutional fund are not separately enumerated.*
 
 ## In Their Own Words
 
@@ -157,3 +158,6 @@ No additional independently sourced founder testimonials from portfolio company 
 [^16]: TechCrunch, "Niteshift raises $7M seed led by Greylock," June 10, 2026. Confirms Niteshift $7M seed (2026-06-10) led by Greylock (Jerry Chen) with Amplify Partners, BoxGroup, SV Angel and angels Reid Hoffman, Olivier Pomel, Alexis Lê-Quôc, Ankur Goyal, Misha Laskin participating. Accessed June 2026.
 [^17]: PressRelease.com, "Niteshift Emerges from Stealth with $7M Seed Funding Led by Greylock," June 10, 2026. Independent primary source confirming the round, participants including Reid Hoffman as angel. Accessed June 2026.
 [^18]: AlleyWatch Daily Funding Report, June 10, 2026. Independent primary source confirming Niteshift $7M seed with Greylock as lead and Hoffman as angel participant. Accessed June 2026.
+[^19]: EU-Startups, "Berlin-based Integral raises €18 million to deliver AI-run accounting, tax and payroll services to SMEs," September 16, 2026. Confirms Integral €18M Series A co-led by Mosaic Ventures and Reid Hoffman with Cherry Ventures, General Catalyst, and Puzzle Ventures participating. Accessed September 2026. https://www.eu-startups.com/2026/09/berlin-based-integral-raises-e18-million-to-deliver-ai-run-accounting-tax-and-payroll-services-to-smes/
+[^20]: Integral Group press release, "Mosaic Ventures co-leads Integral's €18m Series A with Reid Hoffman to build the AI-native accounting, tax and payroll services firm for SMEs," September 16, 2026. Accessed September 2026. https://group.integral.de/press/integral-series-a-press-release
+[^21]: Tech.eu, "Integral lands €18M Series A for AI-native accounting and tax services," September 16, 2026. Accessed September 2026. https://tech.eu/2026/09/16/integral-lands-eur18m-series-a-for-ai-native-accounting-and-tax-services/

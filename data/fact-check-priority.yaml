@@ -9770,19 +9770,25 @@ priority:
   reason: |
     Round monitoring 2026-09-23: new profile — €6.9M ($8M) round on 2026-09-22 led by Headline and Global Founders Capital with Arthur Waller (Pennylane) and Romain Niccoli (Pigment) participating.
   added: 2026-09-23
-  status: pending
+  status: resolved
+  resolved: 2026-09-23
+  resolution_note: 'Fact-spec sweep 2026-09-23: verified Primo €6.9M ($8M) Growth round (2026-09-22) via 3+ independent primary sources — EU-Startups [^1], Primo blog [^2], Tech.eu [^3] (added), FinSMEs [^4] (added). Headline and Global Founders Capital co-lead confirmed with Arthur Waller (Pennylane co-founder/CEO) and Romain Niccoli (Pigment co-founder/CEO) participating. Added Martin Pannier CEO quote from Tech.eu to What Founders Say. Use of proceeds: international expansion into UK, Germany, Benelux, and Nordics and scaling technical engineering team. Currency preserved (€).'
 - slug: integral
   type: startup
   reason: |
     Round monitoring 2026-09-23: new profile — €18M Series A on 2026-09-16 co-led by Mosaic Ventures and Reid Hoffman with Cherry Ventures, General Catalyst, and Puzzle Ventures participating.
   added: 2026-09-23
-  status: pending
+  status: resolved
+  resolved: 2026-09-23
+  resolution_note: 'Fact-spec sweep 2026-09-23: verified Integral €18M Series A (2026-09-16) via 3+ independent primary sources — EU-Startups [^1], Integral Group press release [^2], Tech.eu [^3], FinSMEs [^4] (added). Mosaic Ventures and Reid Hoffman co-lead confirmed with Cherry Ventures, General Catalyst, and Puzzle Ventures participating. Total funding to date €30M+. Use of proceeds: expand ML research and backend engineering teams, scale certified human supervisors, accelerate European market penetration. Renumbered duplicate [^3] footnote in Sources. Currency preserved (€).'
 - slug: furo
   type: startup
   reason: |
     Round monitoring 2026-09-23: new profile — €3.44M ($4M) seed on 2026-09-11 led by TQ Ventures with Sandberg Bernthal Venture Partners, Neo, and CDTM Venture Capital participating.
   added: 2026-09-23
-  status: pending
+  status: resolved
+  resolved: 2026-09-23
+  resolution_note: 'Fact-spec sweep 2026-09-23: verified Furo €3.44M ($4M) Seed round (2026-09-11) via 3 independent primary sources — EU-Startups [^1], Furo blog [^2] (added), Deutsche-Startups [^3] (added). TQ Ventures lead confirmed with Sandberg Bernthal Venture Partners (Sheryl Sandberg), Neo, and CDTM Venture Capital participating. Company rebranded from Lumera Energy in May 2026. Use of proceeds: build the operating system for industrial battery storage. Currency preserved (€).'
 - slug: reid-hoffman
   type: investor
   reason: |
