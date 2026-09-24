@@ -9765,3 +9765,33 @@ priority:
   resolved: 2026-09-23
   note: |
     Added Enveda Series E row to ICONIQ Growth's Portfolio table with three primary source citations [^enveda1] (Enveda press release), [^enveda2] (TechCrunch), and [^enveda3] (Enveda news page cross-referencing WSJ). Row records: Series E, $311M, participated as new investor, Catalio Capital Management led, $2B post-money valuation, complete list of new/existing co-investors, 2026-09-23, Biotech / AI Drug Discovery. Currency preserved (USD). No changes to Inferred Thesis percentages needed — single row addition to the 51-verified-investment baseline.
+- slug: primo
+  type: startup
+  reason: |
+    Round monitoring 2026-09-23: new profile — €6.9M ($8M) round on 2026-09-22 led by Headline and Global Founders Capital with Arthur Waller (Pennylane) and Romain Niccoli (Pigment) participating.
+  added: 2026-09-23
+  status: pending
+- slug: integral
+  type: startup
+  reason: |
+    Round monitoring 2026-09-23: new profile — €18M Series A on 2026-09-16 co-led by Mosaic Ventures and Reid Hoffman with Cherry Ventures, General Catalyst, and Puzzle Ventures participating.
+  added: 2026-09-23
+  status: pending
+- slug: furo
+  type: startup
+  reason: |
+    Round monitoring 2026-09-23: new profile — €3.44M ($4M) seed on 2026-09-11 led by TQ Ventures with Sandberg Bernthal Venture Partners, Neo, and CDTM Venture Capital participating.
+  added: 2026-09-23
+  status: pending
+- slug: reid-hoffman
+  type: investor
+  reason: |
+    Round monitoring 2026-09-23: co-led Integral €18M Series A (2026-09-16).
+  added: 2026-09-23
+  status: pending
+- slug: general-catalyst
+  type: firm
+  reason: |
+    Round monitoring 2026-09-23: participated in Integral €18M Series A (2026-09-16).
+  added: 2026-09-23
+  status: pending
