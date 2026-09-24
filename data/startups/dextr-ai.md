@@ -31,9 +31,18 @@ Dextr AI builds autonomous AI agents for the hospitality industry, coordinating 
 
 ## What Investors Say
 
+> "What stood out immediately was Sajid and Scott's execution. Dextr scaled to [hundreds of] contracted properties and meaningful ARR without raising a single dollar."
+> — Krishna Mehra, AI Partner at Elevation Capital, on the firm's decision to lead the seed [^1]
+
 ## What Founders Say
+
+> "It's important that we do multiple use cases to see the higher ROI."
+> — Sajid Shariff, Co-Founder & CEO, on Dextr's multi-agent strategy for hotel operators [^1]
+
+> "Every property, every operation is different in this space."
+> — Sajid Shariff, on why hospitality AI has to be highly configurable [^1]
 
 ## Sources
 
 [^1]: Crunchbase News, "From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M Seed To Deploy Hospitality Agents," September 24, 2026. Accessed September 2026. https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/
-[^2]: Dextr AI company website, funding announcement banner listing Elevation and Foundation Capital as backers, accessed September 2026. https://dextr.ai/
+[^2]: Dextr AI company website homepage, "Dextr AI raised $6.7M to bring an AI workforce to hospitality" banner and "Backed by" section listing Elevation Capital and Foundation Capital logos, accessed September 2026. https://dextr.ai/

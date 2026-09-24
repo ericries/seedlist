@@ -30,9 +30,18 @@ Amsterdam-based Duqu is a fintech platform that lets businesses draw short-term 
 
 ## What Investors Say
 
+> "Small applications are relatively expensive for traditional lenders to assess and process. Duqu has built a fully AI-driven credit assessment and processing stack."
+> — Herman Kienhuis, Curiosity VC, on why the firm led the pre-seed [^1]
+
+> "Credit assessment is still a labour-intensive process for many providers. As a result, processing more applications often means hiring more people."
+> — Thijn van Helvoirt, No Such Ventures, on the operational bottleneck Duqu attacks [^1]
+
 ## What Founders Say
+
+> "Businesses can arrange almost everything instantly today, yet after completing the work they can still wait weeks to get paid."
+> — Maas de Goede, co-founder, on the working-capital gap Duqu addresses [^1][^2]
 
 ## Sources
 
 [^1]: EU-Startups, "Amsterdam-based Duqu raises €1.5 million to unlock cash tied up in unpaid invoices," September 24, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/amsterdam-based-duqu-raises-e1-5-million-to-unlock-cash-tied-up-in-unpaid-invoices/
-[^2]: Tech.eu, homepage funding coverage confirming Duqu's €1.5M pre-seed from Curiosity VC and other backers, accessed September 2026. https://tech.eu/
+[^2]: Tech.eu, "Duqu raises €1.5M to give businesses faster access to working capital," September 24, 2026. Accessed September 2026. https://tech.eu/2026/09/24/duqu-raises-eur15m-to-give-businesses-faster-access-to-working-capital/

@@ -9834,19 +9834,25 @@ priority:
   reason: |
     Round monitoring 2026-09-24: new profile — $6.7M seed led by Elevation Capital with Foundation Capital (hospitality AI agents, SF).
   added: 2026-09-25
-  status: pending
+  status: resolved
+  resolved: 2026-09-24
+  resolution_note: 'Fact-spec sweep 2026-09-24: verified $6.7M seed via 2 independent primary sources — Crunchbase News feature article [^1] (Sep 24, 2026) and Dextr AI company website homepage banner + Backed-by logos [^2]. Third source (specific Elevation Capital or Foundation Capital portfolio announcement) not yet indexed on either firm site as of Sep 24. Added Krishna Mehra (Elevation Capital AI Partner) investor quote and two Sajid Shariff founder quotes from Crunchbase interview. Date, amount, lead, and co-investor all confirmed across both sources.'
 - slug: duqu
   type: startup
   reason: |
     Round monitoring 2026-09-24: new profile — €1.5M pre-seed led by Curiosity VC with No Such Ventures (Amsterdam invoice-finance fintech).
   added: 2026-09-25
-  status: pending
+  status: resolved
+  resolved: 2026-09-24
+  resolution_note: 'Fact-spec sweep 2026-09-24: verified €1.5M pre-seed via 2 independent primary sources — EU-Startups [^1] and Tech.eu specific article [^2] (both Sep 24, 2026). Both confirm date, amount, Curiosity VC lead, and No Such Ventures co-investment. Replaced Tech.eu homepage citation with direct article URL. Added Maas de Goede (co-founder) quote plus two investor quotes: Herman Kienhuis (Curiosity VC) and Thijn van Helvoirt (No Such Ventures). Note: duqu.com website field points to a domain-for-sale page — real Duqu URL not yet located; profile website field may need correction in a future sweep.'
 - slug: clastix
   type: startup
   reason: |
     Round monitoring 2026-09-24: new profile — €2.9M seed led by CDP Venture Capital SGR with Mistral and Vertis SGR (Naples Kubernetes infra).
   added: 2026-09-25
-  status: pending
+  status: resolved
+  resolved: 2026-09-24
+  resolution_note: 'Fact-spec sweep 2026-09-24: verified €2.9M seed via 3 independent primary sources — EU-Startups [^1], Tech.eu direct article [^2], and Clastix company blog post [^3] (all Sep 24, 2026). All three confirm date, amount, CDP Venture Capital SGR lead, and Mistral + Vertis SGR (Vertis Venture 6 Digital Sud, NextGenerationEU) co-investment. Added Timothée Lacroix (Mistral CTO) x2, Alessandro Scortecci (CDP CIO), Renato Vannucci (Vertis SGR) investor quotes plus Adriano Pezzuto (CEO) founder quote. Table co-investors line expanded with Vertis fund detail.'
 - slug: 50skills
   type: startup
   reason: |

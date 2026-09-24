@@ -27,14 +27,29 @@ Clastix is a Naples-based infrastructure software company building tools to oper
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-24 | Seed | €2.9M | CDP Venture Capital SGR | Mistral, Vertis SGR [^1][^2][^3] |
+| 2026-09-24 | Seed | €2.9M | CDP Venture Capital SGR | Mistral, Vertis SGR (via Vertis Venture 6 Digital Sud, NextGenerationEU) [^1][^2][^3] |
 
 ## What Investors Say
 
+> "Clastix is the backbone of our Kubernetes infrastructure – their work on multi-tenancy and managed control planes helps us to enable our training and inference clusters at scale."
+> — Timothée Lacroix, Co-founder & CTO, Mistral [^2][^3]
+
+> "By backing Clastix, we're investing in Europe's AI stack. A sovereign AI ecosystem isn't just about models – it's about the infrastructure layer that makes them run."
+> — Timothée Lacroix, Mistral, on the strategic rationale [^2]
+
+> "Clastix's highly innovative technological approach helps organizations manage large-scale Kubernetes environments much more effectively."
+> — Alessandro Scortecci, Chief Investment Officer, CDP Venture Capital SGR [^3]
+
+> "The team's technical rigor, and its ability to already serve customers of the caliber of NVIDIA and Mistral, confirm the quality of the project."
+> — Renato Vannucci, Partner and VP, Vertis SGR [^3]
+
 ## What Founders Say
+
+> "The next phase of AI won't be decided by models alone but by who controls the infrastructure layer beneath them. This funding goes toward building that layer for what's coming: expanding our R&D to better support AI-scale workloads, and growing our team to bring it into new markets as they build their AI infrastructure."
+> — Adriano Pezzuto, Co-Founder & CEO [^2][^3]
 
 ## Sources
 
 [^1]: EU-Startups, "Italy's Clastix raises €2.9 million with Mistral backing to build sovereign Kubernetes infrastructure for Europe," September 24, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/italys-clastix-raises-e2-9-million-with-mistral-backing-to-build-sovereign-kubernetes-infrastructure-for-europe/
-[^2]: Tech.eu, homepage funding coverage confirming Clastix €2.9 million seed for managing Kubernetes operations at scale, accessed September 2026. https://tech.eu/
-[^3]: Clastix company website, homepage banner announcement of €2.9M seed funding, accessed September 2026. https://clastix.io/
+[^2]: Tech.eu, "Clastix bags €2.9M to tackle the complexity of Kubernetes at scale," September 24, 2026. Accessed September 2026. https://tech.eu/2026/09/24/clastix-bags-eur29m-to-tackle-the-complexity-of-kubernetes-at-scale/
+[^3]: Clastix company blog, "Clastix Receives Seed Investment to Control and Scale Cloud Infrastructures," September 24, 2026. Accessed September 2026. https://clastix.io/post/clastix-receives-seed-investment-to-control-and-scale-cloud-infrastructures
