@@ -878,7 +878,9 @@ vague_facts:
   line: '| Mejuri | 500 Startups Batch 15 accelerator admission (standard accelerator check via Fall 2015 batch, welcomed publicl'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: SCANNER FALSE POSITIVE — column 5 is the Source column, which correctly contains only footnote citations [^6][^52][^53][^54]. The Mejuri row itself is fully specific: 2015-11-05 date (Batch 15 admission announcement), standard 500 Startups accelerator check described in detail, sector (DTC/E-commerce), status (Active), and 4 primary sources cited — 500 Global blog [^52] (Nov 5, 2015 first-party announcement), TechCrunch [^53] (Nov 5, 2015 tier-1 press), TheNextWeb [^54] (Feb 17, 2016 Demo Day coverage), and Crunchbase aggregator [^6]. Row also documents the 2016 seed and September 2018 USD 5M Series A follow-on activity. No profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: DeepInfra
@@ -1129,7 +1131,9 @@ vague_facts:
   line: '| ConsejoSano | Series A (USD 4.9M; 7wire Ventures led; Tufts Health Ventures, TOTAL Impact Capital, Wanxiang Healthcare'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: SCANNER FALSE POSITIVE — column 5 is the Source column, which correctly contains only footnote citations [^6][^53][^54][^55]. The ConsejoSano row itself is fully specific: 2017-02-21 date, Series A USD 4.9M amount, 7wire Ventures lead, full syndicate named (Tufts Health Ventures, TOTAL Impact Capital, Wanxiang Healthcare Investments, Acumen, Oxeon Partners, Impact Engine), post-round total raised USD 7.2M, SameSky Health rebrand noted, and merger into GroundGame.Health (April 2024) status. 4 independent primary source citations already in profile: PR Newswire (2017-02-21 primary company press release) [^53], MobiHealthNews (Jonah Comstock, 2017-02-13 trade press) [^54], MedCity News (2017-02-23 trade press) [^55], and Crunchbase aggregator [^6]. No profile change needed.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: CareDox
@@ -1275,7 +1279,9 @@ vague_facts:
   line: '| WiserTogether | Early | 2013 | Patient decision support | Active | [^2] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: Row could not be tightened this session. 7wire announced WiserTogether as one of five 2013 strategic investments in the December 2013 PR Newswire release [^2] but did not disclose round type, date, or amount. Direct 7wire portfolio URL (https://www.7wireventures.com/portfolio/wisertogether/) returned HTTP 404; portfolio index page returned only header without listings via WebFetch; PR Newswire 2013 7wire launch URL returned 404. WebSearch budget was exhausted (200/200) at session start, preventing keyword-driven discovery of contemporaneous press for any specific WiserTogether round. Attribution rests solely on [^2] — matches the aggregator/announcement-only sourcing pattern flagged for EosHealth (same 7wire 2013 "Five Strategic Investments" cohort). Row edited context in profile already notes EosHealth is anchored to [^2] with no subsequent primary round; WiserTogether stands in the same posture. Row LEFT AS-IS pending future pass with fresh WebSearch budget; recommend targeting contemporaneous 2011-2014 D.C./Washington regional business press (Washington Business Journal, DCInno) and MobiHealthNews archive for WiserTogether''s founding-era coverage.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Truvian Sciences
