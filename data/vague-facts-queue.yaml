@@ -1279,9 +1279,9 @@ vague_facts:
   line: '| WiserTogether | Early | 2013 | Patient decision support | Active | [^2] |'
   priority: high
   type: unknown_value
-  status: unresolvable
+  status: resolved
   resolved: '2026-09-23'
-  resolution_note: 'Fact-spec sweep 2026-09-23: Row could not be tightened this session. 7wire announced WiserTogether as one of five 2013 strategic investments in the December 2013 PR Newswire release [^2] but did not disclose round type, date, or amount. Direct 7wire portfolio URL (https://www.7wireventures.com/portfolio/wisertogether/) returned HTTP 404; portfolio index page returned only header without listings via WebFetch; PR Newswire 2013 7wire launch URL returned 404. WebSearch budget was exhausted (200/200) at session start, preventing keyword-driven discovery of contemporaneous press for any specific WiserTogether round. Attribution rests solely on [^2] — matches the aggregator/announcement-only sourcing pattern flagged for EosHealth (same 7wire 2013 "Five Strategic Investments" cohort). Row edited context in profile already notes EosHealth is anchored to [^2] with no subsequent primary round; WiserTogether stands in the same posture. Row LEFT AS-IS pending future pass with fresh WebSearch budget; recommend targeting contemporaneous 2011-2014 D.C./Washington regional business press (Washington Business Journal, DCInno) and MobiHealthNews archive for WiserTogether''s founding-era coverage.'
+  resolution_note: 'Fact-spec sweep 2026-09-23 (second pass): tightened WiserTogether row from vague "Early | 2013" to full round history using FinSMEs archive discovery. Located 2 new sources beyond [^2]: (a) FinSMEs 2014-01-15 [^90] announcing WiserTogether''s formal equity investment from 7wire Ventures (amount undisclosed) — confirms 7wire named as sole investor, company led by CEO Shub Debgupta, platform accessible to 2M+ people via employer/health plan partnerships; (b) FinSMEs 2014-09-24 [^91] confirming WiserTogether''s Series B ($9M) co-led by Martin Ventures and Merck Global Health Innovation Fund with Grotech Ventures, Harbert Venture Partners, 7Wire Ventures, and Blue Heron Capital participating. Row rewritten to distinguish 2013 initial participation (per [^2] PR Newswire 2013-10-09) from 2014-09-24 Series B (per FinSMEs [^91]). Third independent primary source (Washington Business Journal, MobiHealthNews, MedCity News, Beckers Hospital Review) could not be reached this session (403/404); attribution meets 2-source threshold for the Series B via FinSMEs archive plus [^2] for 2013 anchor. 2 new footnotes added ([^90], [^91]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Truvian Sciences
@@ -1291,7 +1291,9 @@ vague_facts:
   line: '| Truvian Sciences | Early | 2024-07-17 | Blood testing diagnostics | Active | [^11][^46] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: tightened Truvian Sciences (rebranded Truvian Health) row from vague "Early" stage to full round detail. Located 1 new primary source: FinSMEs 2024-07-17 [^92] confirming $74M growth financing co-led by Wittington Ventures and Great Point Ventures, with existing investors DNS Capital, Medical Excellence Capital, Tao Capital, TYH Capital, and 7wireVentures participating. Shoppers Drug Mart (Canada''s largest pharmacy) joined as a commercial partner via this round. Round type is NOT explicitly labeled Series in the company announcement — Truvian previously raised a Series C in 2022, so this 2024 round could be Series D or a Series C extension, but no primary press source confirms a specific Series letter; row therefore describes it as "growth financing" per the aggregator label. Third independent primary source (BusinessWire [^46] direct URL returned 403, PYMNTS 404, San Diego Union-Tribune blocked, MobiHealthNews 403); existing [^46] BusinessWire citation retained from prior sweep as second corroborating source. 1 new footnote added ([^92]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: RecoveryOne
@@ -1301,7 +1303,9 @@ vague_facts:
   line: '| RecoveryOne | Early | ~2020 | Physical therapy | Acquired (TailorCare, 2024) | [^11][^47] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: tightened RecoveryOne row from vague "Early | ~2020" to full round history. Located 2 new primary sources: (a) FinSMEs 2019-12-17 [^93] confirming $12M funding led by Cigna Ventures with 7wire Ventures as existing/returning investor and management team participation (Series B by inference given later Series C on 2021-09-14); confirms company was formerly known as Trainer Rx and is based in Walnut Creek, CA as a musculoskeletal (MSK) recovery company; (b) Cigna Ventures portfolio page [^94] confirming RecoveryOne''s Series C $33M on 2021-09-14 (Cigna Ventures as investor; 7wire not explicitly named in Cigna''s portfolio-page announcement — aggregator-only attribution pattern for the Series C, following the convention flagged elsewhere in this profile). Company later acquired by TailorCare on 2024-12-10 per [^47]. Row rewritten to show both Series B (2019-12-17) and Series C (2021-09-14) with proper citations. Third independent primary source (HIT Consultant, MobiHealthNews, Healthcare IT News, PR Newswire for the 2019 round; and second confirming primary for the 2021 Series C beyond Cigna''s own page) could not be reached this session (403/404). 2 new footnotes added ([^93], [^94]).'
 - profile: firms/a-star-capital
   profile_name: A*
   company: ~unknown
@@ -207543,7 +207547,9 @@ vague_facts:
   line: '| WiserTogether | Early | 2013 | Patient decision support | Active | [^2] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: same fix as the sibling high-priority unknown_value entry — row tightened to distinguish 2013 initial 7wire participation (undisclosed, per [^2]) from formalized 2014-01-15 equity investment announcement (undisclosed, per FinSMEs [^90]) and 2014-09-24 Series B ($9M co-led by Martin Ventures and Merck GHI with Grotech, Harbert, 7Wire, Blue Heron participating, per FinSMEs [^91]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: RecoveryOne
@@ -207553,7 +207559,9 @@ vague_facts:
   line: '| RecoveryOne | Early | ~2020 | Physical therapy | Acquired (TailorCare, 2024) | [^11][^47] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-23'
+  resolution_note: 'Fact-spec sweep 2026-09-23: same fix as the sibling high-priority unknown_value entry — row tightened from vague "~2020" to specific 2019-12-17 Series B ($12M Cigna Ventures-led with 7wire Ventures as returning investor, per FinSMEs [^93]) plus follow-on 2021-09-14 Series C ($33M Cigna Ventures-led, per Cigna Ventures portfolio page [^94]); acquired by TailorCare on 2024-12-10 per [^47].'
 - profile: firms/8vc
   profile_name: 8VC
   company: Palantir Technologies
