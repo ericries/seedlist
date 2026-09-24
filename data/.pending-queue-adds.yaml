@@ -570,3 +570,46 @@
   source: Co-Founder & CEO of Aeon; raised Seed extension 2026-09-14 bringing total seed to €12M+
   discovered_from: aeon-preventive-health
   priority: low
+- name: Curiosity VC
+  type: firm
+  source: lead investor in Duqu Pre-Seed 2026-09-24 (Amsterdam invoice-finance fintech)
+  discovered_from: duqu
+  priority: high
+- name: No Such Ventures
+  type: firm
+  source: co-investor in Duqu Pre-Seed 2026-09-24 with Curiosity VC
+  discovered_from: duqu
+  priority: normal
+- name: Frumtak Ventures
+  type: firm
+  source: co-lead in 50skills €5.3M growth round 2026-09-24 (Reykjavík HR AI)
+  discovered_from: 50skills
+  priority: high
+- name: Swiss Post Ventures
+  type: firm
+  source: co-lead in 50skills €5.3M growth round 2026-09-24 with Frumtak Ventures
+  discovered_from: 50skills
+  priority: high
+- name: Vertis SGR
+  type: firm
+  source: participated in Clastix €2.9M Seed 2026-09-24 (via Vertis Venture 6 Digital Sud fund)
+  discovered_from: clastix
+  priority: normal
+- name: Sajid Shariff
+  type: individual
+  firm: Dextr AI
+  source: Co-Founder & CEO of Dextr AI; raised $6.7M seed 2026-09-24
+  discovered_from: dextr-ai
+  priority: low
+- name: Kristján Freyr Kristjánsson
+  type: individual
+  firm: 50skills
+  source: Co-Founder & CEO of 50skills; raised €5.3M 2026-09-24
+  discovered_from: 50skills
+  priority: low
+- name: Adriano Pezzuto
+  type: individual
+  firm: Clastix
+  source: Co-Founder & CEO of Clastix; raised €2.9M seed 2026-09-24
+  discovered_from: clastix
+  priority: low

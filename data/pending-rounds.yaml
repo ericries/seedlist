@@ -73,6 +73,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For
+    Hotel AI Agents'
+  url: https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/
+  source: crunchbase
+  date_found: '2026-09-24'
+  parsed_company: From Booking Calls To Late Check-Ins, Dextr AI
+  parsed_amount: $6.7M
+  parsed_round: null
+  status: pending
 - title: Berlin-based mika raises €6 million to scale its AI-native alternative to
     traditional tax firms
   url: https://www.eu-startups.com/2026/09/berlin-based-mika-raises-e6-million-to-scale-its-ai-native-alternative-to-traditional-tax-firms/
@@ -851,14 +860,5 @@ pending_rounds:
   date_found: '2026-09-12'
   parsed_company: Volition Capital
   parsed_amount: $950M
-  parsed_round: null
-  status: pending
-- title: Munich-based Furo raises €3.44 million to make industrial battery storage
-    economically viable
-  url: https://www.eu-startups.com/2026/09/munich-based-furo-raises-e3-44-million-to-make-industrial-battery-storage-economically-viable/
-  source: eu-startups
-  date_found: '2026-09-11'
-  parsed_company: Munich-based Furo
-  parsed_amount: null
   parsed_round: null
   status: pending

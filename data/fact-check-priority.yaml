@@ -9829,3 +9829,27 @@ priority:
   status: resolved
   resolved: 2026-09-23
   resolution_note: 'Fact-spec sweep 2026-09-23: added Integral Series A (€18M, 2026-09-16, participated as existing investor) to general-catalyst.md Portfolio table with 3 primary source citations — EU-Startups [^gc-integral-1], Integral Group press release [^gc-integral-2], Tech.eu [^gc-integral-3]. Round co-led by Mosaic Ventures and Reid Hoffman with Cherry Ventures, General Catalyst, and Puzzle Ventures participating. Berlin-based AI-native accounting/tax/payroll for SMEs.'
+- slug: dextr-ai
+  type: startup
+  reason: |
+    Round monitoring 2026-09-24: new profile — $6.7M seed led by Elevation Capital with Foundation Capital (hospitality AI agents, SF).
+  added: 2026-09-25
+  status: pending
+- slug: duqu
+  type: startup
+  reason: |
+    Round monitoring 2026-09-24: new profile — €1.5M pre-seed led by Curiosity VC with No Such Ventures (Amsterdam invoice-finance fintech).
+  added: 2026-09-25
+  status: pending
+- slug: clastix
+  type: startup
+  reason: |
+    Round monitoring 2026-09-24: new profile — €2.9M seed led by CDP Venture Capital SGR with Mistral and Vertis SGR (Naples Kubernetes infra).
+  added: 2026-09-25
+  status: pending
+- slug: 50skills
+  type: startup
+  reason: |
+    Round monitoring 2026-09-24: new profile — €5.3M growth round co-led by Frumtak Ventures and Swiss Post Ventures with Avant and DRD Investments (Reykjavík HR workflow AI).
+  added: 2026-09-25
+  status: pending
