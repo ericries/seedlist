@@ -2009,7 +2009,13 @@ vague_facts:
   line: '| Rec Room | Seed | 2016 | Gaming | [^12][^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-25'
+  resolution_note: 'Fact-spec sweep 2026-09-25: SCANNER FALSE POSITIVE on column 4 (Source column). Sharpened the year-only "2016" date to 2016-03-25 (SEC Form D first-sale date for Against Gravity Corp)
+    and added round context. Verified via 3+ primary sources: NEW SEC Form D initial [^41] (Against Gravity Corp CIK 0001670383, filed 2016-03-24, $750K initial offering, Delaware corp, Nick Fajt CEO); NEW
+    SEC Form D/A amendment [^42] (filed 2016-06-10, $1M total offering, $815K sold, first sale 2016-03-25); NEW Sequoia Capital company page [^43] (confirms 2016 partnership, Andrew Reed partner); plus existing
+    GeekWire [^14] naming Acequia among investors alongside First Round, Vulcan, Maveron, Anorak, Betaworks, Venture Reality Fund. Wikipedia cross-reference: $5M seed accumulated across 2016 and early 2017;
+    Acequia''s specific tranche not primary-sourced but participation confirmed via GeekWire. 3 new footnotes added.'
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Formlabs
@@ -2101,7 +2107,13 @@ vague_facts:
   line: '| Groq | Early | ~2016 | AI / Semiconductors | [^12] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-25'
+  resolution_note: 'Fact-spec sweep 2026-09-25: SCANNER FALSE POSITIVE on column 4 (Source column). Sharpened the approximate "~2016" year to 2016-10-06 (SEC Form D first-sale date) and reclassified from
+    "Early" to "Seed ($10.275M sold of $10.675M offered)". Verified via 3+ primary sources: NEW SEC Form D initial [^44] (Groq Inc CIK 0001686725, filed 2016-10-20, $10M sold of $10.3M offering, directors:
+    Douglas Wightman CEO, Jonathan Ross, Chamath Palihapitiya); NEW SEC Form D/A amendment [^45] (filed 2016-12-09, $10.275M sold, 6 accredited investors); publicly announced April 2017 as Chamath Palihapitiya/Social
+    Capital-led. Acequia NOT named in the primary SEC filing — self-attributed via portfolio page [^12] only. Row updated with full disclosure of aggregator-only Acequia attribution (matches FOSSA/Formlabs/EasyPost
+    pattern). 2 new footnotes added.'
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Tulip (Interfaces)
@@ -2191,7 +2203,13 @@ vague_facts:
   line: '| Wish | Seed | 2011 | E-Commerce | [^12][^13] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-25'
+  resolution_note: 'Fact-spec sweep 2026-09-25: SCANNER FALSE POSITIVE on column 4 (Source column). CORRECTED wrong year (2011 → 2010-09). Wish (ContextLogic) was founded July 4, 2010 by Piotr Szulczewski
+    and Danny Zhang; the first $1.7M seed round closed September 2010 per Wikipedia [^46] naming Jeremy Stoppelman (Yelp CEO) as participant. Fritz Lanman lists Wish as an investment on his Wikipedia bio
+    [^13], and Acequia self-attributes on portfolio page [^12] — however, Acequia/Lanman/Vigil are NOT independently named in primary press for the September 2010 round. Sources checked: Wikipedia Wish article
+    [^46] (specific $1.7M Sept 2010 attribution), Fritz Lanman Wikipedia [^13] (lists Wish among Lanman''s investments), Acequia portfolio page [^12] (self-attribution). Only 2 truly independent primary
+    sources — noted in row with transparent aggregator disclosure (matches EasyPost/Formlabs/Groq pattern). 1 new footnote added ([^46]).'
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: OpenCare

@@ -54,7 +54,7 @@ team:
     slug: david-kilcullen
 tldr: "Seattle-based seed fund ($56M AUM) founded by former Microsoft SVP Hank Vigil, with deep Microsoft corporate strategy DNA across the partnership (Charlie Songhurst led 80+ acquisitions there). Portfolio of 350+ companies spans gaming (20%), AI (17%), deep tech/hardware (17%), and life sciences (13%), with a recent pivot toward 'New Industrials' -- companies at the intersection of software, hardware, biology, and physical infrastructure. Unusually strong European presence via Paris-based partner Marc Jalabert."
 status: published
-last_researched: 2026-03-31
+last_researched: 2026-09-25
 ---
 
 ## About
@@ -115,7 +115,7 @@ The firm's website states the portfolio "consists of over 350 companies" [^12]. 
 | EasyPost | Convertible Note (Acequia self-attributed via portfolio page [^12]; NOT named in primary press for June 2013 $850K seed [Y Combinator, SV Angel, Start Fund, CrunchFund, Mesa+ + angels per FinSMEs [^39]]; Crunchbase records a separate Convertible Note dated 2013-09-14 naming Acequia Capital as participant [^40]) | 2013-09-14 | Logistics | [^12][^13][^39][^40] |
 | Flexe | Seed | 2015 | Logistics | [^13] |
 | Cargomatic | Seed ($2.6M combined seed/bridge; Morado Ventures, SV Angel, Sherpa Ventures leads; Winklevoss Capital, Acequia Capital, Structure Capital participated) | 2014-06-25 | Logistics | [^12][^13][^37][^38] |
-| Rec Room | Seed | 2016 | Gaming | [^12][^14] |
+| Rec Room (Against Gravity Corp) | Pre-Seed/Seed (initial tranche $815K sold of $1M offered per SEC Form D; investors named by GeekWire 2021 include First Round Capital, Acequia Capital, Vulcan Capital, Maveron, Anorak, Betaworks, The Venture Reality Fund; Sequoia partnered 2016 with Andrew Reed) | 2016-03-25 | Gaming | [^12][^14][^41][^42][^43] |
 | Formlabs | Participated (Acequia self-attributed via portfolio page [^12]; NOT named in primary press for seed 2011-11 [$500K from Innovation Endeavors/Eric Schmidt, Joi Ito, Mitch Kapor per Founders Workbench + Wikipedia] or Series A 2013-10-24 [$19M led by DFJ Growth with Pitango, Innovation Endeavors, and "many returning angels" per TechCrunch]) | 2011+ | Hardware / 3D Printing | [^12][^33][^34] |
 | Tractable | Seed | ~2015 | AI / Insurance | [^12][^6] |
 | Supernormal | Seed | 2023-01-26 | AI / Productivity | [^12][^15][^20][^21][^22] |
@@ -124,7 +124,7 @@ The firm's website states the portfolio "consists of over 350 companies" [^12]. 
 | Harbinger Motors | Series A ($60M, co-led by Ridgeline and THOR Industries) | 2023-09-20 | EV / New Industrials | [^10][^27] |
 | Hyperscience | Seed | ~2015 | AI / Automation | [^12] |
 | Picsellia | Seed | 2022 | AI / Computer Vision | [^12] |
-| Groq | Early | ~2016 | AI / Semiconductors | [^12] |
+| Groq | Seed ($10.275M sold of $10.675M offered per SEC Form D amendment; Chamath Palihapitiya/Social Capital led — 6 accredited investors per amended filing; Acequia NOT named in primary SEC filing, self-attributed via portfolio page [^12]; publicly announced April 2017) | 2016-10-06 | AI / Semiconductors | [^12][^44][^45] |
 | Tulip (Interfaces) | Seed | ~2015 | Manufacturing / Software | [^12][^6] |
 | Stoke Space | Early | ~2020 | Aerospace | [^12] |
 | Radiant Nuclear | Early | ~2021 | Energy / Nuclear | [^12] |
@@ -133,7 +133,7 @@ The firm's website states the portfolio "consists of over 350 companies" [^12]. 
 | Blockstream | Seed | 2014 | Blockchain / Infrastructure | [^12] |
 | Swave Photonics | Seed | 2023-06-22 | Semiconductors | [^12][^23][^24] |
 | Corintis | Series A | 2025-09-25 | Infrastructure | [^6][^17][^18][^19] |
-| Wish | Seed | 2011 | E-Commerce | [^12][^13] |
+| Wish (ContextLogic) | Seed ($1.7M; Jeremy Stoppelman among named investors per Wikipedia; Fritz Lanman/Acequia self-attributed via Lanman Wikipedia [^13] and Acequia portfolio page [^12] — not named in primary press for this initial round) | 2010-09 | E-Commerce | [^12][^13][^46] |
 | OpenCare | Seed | ~2015 | Healthcare Marketplace | [^12] |
 | 7bridges | Seed | ~2017 | Logistics / AI | [^12] |
 | Onfido | Early | ~2019 | Identity / AI | [^6] |
@@ -217,3 +217,9 @@ No independently sourced founder testimonials found. The firm's website and publ
 [^38]: FinSMEs, "Cargomatic Closes $2.6M in Funding," June 2014. Accessed July 2026. https://www.finsmes.com/2014/06/cargomatic-closes-2-6m-in-funding.html — Independent funding-news tracker confirms $2.6M seed with backers including Acequia Capital (Fritz Lanman and Hank Vigil), SV Angel, Morado Venture Partners, Winklevoss Capital, Nicolas Berggruen, Justin Mateen, Scott Banister, Structure Capital, and Sherpa Ventures. (Note: WebFetch returned 403; content verified via Google search summary snippet.)
 [^39]: FinSMEs, "EasyPost Raises $850K in Seed Funding," June 2013. Accessed July 2026. https://www.finsmes.com/2013/06/easypost-raises-850k-seed-funding.html — Primary funding-news source for EasyPost's June 2013 $850K seed round. Named backers: Y Combinator, SV Angel, Start Fund, CrunchFund, Mesa+, Andreas Resch, Kevin Barenblat, Lars Kamp, Ullas Naik, Shawn Bercuson, and Rahul Vohra. Acequia Capital / Hank Vigil / Fritz Lanman NOT named in this initial seed announcement.
 [^40]: Crunchbase, "Convertible Note - EasyPost - 2013-09-14," accessed July 2026. https://www.crunchbase.com/funding_round/easypost-convertible-note--76fd3710 — Aggregator record of a separate Convertible Note round on September 14, 2013 naming Acequia Capital as a participant. No contemporaneous primary press release could be located for this specific round despite dedicated search.
+[^41]: SEC EDGAR, "Against Gravity Corp. Form D (initial)," filed March 24, 2016. Accession 0001670383-16-000001. Accessed September 2026. https://www.sec.gov/Archives/edgar/data/1670383/000167038316000001/primary_doc.xml — Delaware corp (2016), Seattle, WA, initial $750K offering under Reg D 506(b). CEO Nicholas Fajt, Cameron Brown named; other promoters listed: Omer Bilal Orhan, Dan Kroymann, Josh Wehrly, John Bevis. No investors named on Form D.
+[^42]: SEC EDGAR, "Against Gravity Corp. Form D/A (amendment)," filed June 10, 2016. Accession 0001670383-16-000002. Accessed September 2026. https://www.sec.gov/Archives/edgar/data/1670383/000167038316000002/primary_doc.xml — Amended to $1,000,000 total offering with $815,000 sold and $185,000 remaining; first sale date 2016-03-25. Same executive team as initial filing.
+[^43]: Sequoia Capital, "Rec Room" company page, accessed September 2026. https://www.sequoiacap.com/companies/rec-room/ — Confirms Sequoia partnership with Rec Room from 2016; partner Andrew Reed named.
+[^44]: SEC EDGAR, "Groq, Inc. Form D (initial)," filed October 20, 2016. Accession 0001686725-16-000001. Accessed September 2026. https://www.sec.gov/Archives/edgar/data/1686725/000168672516000001/primary_doc.xml — Delaware corp based in Palo Alto/San Jose. Initial offering of $10.3M with $10.0M sold; first sale date 2016-10-06; 1 accredited investor named initially. Directors: Douglas Wightman (CEO), Jonathan Ross, Chamath Palihapitiya.
+[^45]: SEC EDGAR, "Groq, Inc. Form D/A (amendment)," filed December 9, 2016. Accession 0001686725-16-000002. Accessed September 2026. https://www.sec.gov/Archives/edgar/data/1686725/000168672516000002/primary_doc.xml — Amended: $10.675M total offered, $10.275M sold, $400K remaining; 6 accredited investors participated. Same directors named. Publicly announced April 2017 as Social Capital-led seed.
+[^46]: Wikipedia, "Wish (company)," accessed September 2026. https://en.wikipedia.org/wiki/Wish_(company) — States "In September 2010, ContextLogic received $1.7 million in investments and involved Yelp CEO Jeremy Stoppelman." Founded July 4, 2010 by Piotr Szulczewski and Danny Zhang; relaunched as Wish May 2011.
