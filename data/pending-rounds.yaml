@@ -29,6 +29,23 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take
+    The Lead'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/
+  source: crunchbase
+  date_found: '2026-09-25'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/25/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-25-2026/
+  source: alleywatch
+  date_found: '2026-09-25'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: GoldHaven Closes Additional Tranche of Flow-Through Financing Bringing Total
     Flow-Through Proceeds to $3.0 Million
   url: https://www.globenewswire.com/news-release/2026/09/23/3367899/0/en/goldhaven-closes-additional-tranche-of-flow-through-financing-bringing-total-flow-through-proceeds-to-3-0-million.html
@@ -845,21 +862,5 @@ pending_rounds:
   date_found: '2026-09-13'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: dis raised $250M funding over three
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-12'
-  parsed_company: dis
-  parsed_amount: $250M
-  parsed_round: Funding Over Three
-  status: pending
-- title: Payward raised $100M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-12'
-  parsed_company: Payward
-  parsed_amount: $100M
   parsed_round: null
   status: pending
