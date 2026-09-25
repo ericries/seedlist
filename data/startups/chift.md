@@ -28,7 +28,7 @@ last_researched: 2026-09-14
 
 ## About
 
-Chift is a Brussels-based financial connectivity platform, founded in 2022 by Gauthier Henroz, Matthieu Hertoghe, and Henry Hertoghe, that provides unified APIs and "agentic syncs" connecting SaaS products and AI agents to accounting, invoicing, POS, e-commerce, and payment systems across Europe [^1][^2]. As of 2026, Chift connects more than 120 financial tools across 13 countries and serves 150+ software companies representing over 50,000 businesses [^1]. On 2026-09-14, the company announced a €10.5M Series A led by BlackFin Capital Partners with continued participation from existing backers Entourage, Shapers, Seeder Fund, and Wallonie Entreprendre [^1][^2][^3].
+Chift is a Brussels-based financial connectivity platform, founded in 2022 by Gauthier Henroz, Matthieu Hertoghe, and Henry Hertoghe, that provides unified APIs and "agentic syncs" connecting SaaS products and AI agents to accounting, invoicing, POS, e-commerce, and payment systems across Europe [^1][^2]. As of 2026, Chift connects more than 120 financial tools across 13 countries and serves 150+ software companies representing over 50,000 businesses [^1]. On 2026-09-14, the company announced a €10.5M Series A led by BlackFin Capital Partners with continued participation from existing backers Entourage, Shapers, Seeder Fund, and Wallonie Entreprendre [^1][^2][^3]. Chift plans to use the round to scale across European markets (Spain, UK, Nordics, Germany, Italy), build out its agentic layer for automated connections, and hire 15 new team members in H2 2026 [^1][^3].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
@@ -40,13 +40,27 @@ Chift is a Brussels-based financial connectivity platform, founded in 2022 by Ga
 
 ## What Investors Say
 
-No independently sourced investor quotes found in primary press for this round.
+> "Financial data connectivity is genuinely hard to build, particularly in Europe, where data sits across dozens of local systems that were never designed to talk to each other."
+
+— Pauline Brunel, Investment Director at BlackFin Capital Partners, on the Chift Series A [^3].
+
+> "We are proud to back Gauthier, Henry and Matthieu in making Chift the connectivity infrastructure for business software in the AI era."
+
+— Pauline Brunel, Investment Director at BlackFin Capital Partners [^3].
 
 ## What Founders Say
 
 > "Every business in Europe and the UK has its finances connected, whatever tools it uses and whatever country it is in."
 
 — Gauthier Henroz, CEO and Co-Founder of Chift, in the company's Series A announcement [^1].
+
+> "AI and e-invoicing are rebuilding the entire financial software market, and businesses run on more tools than ever. Interoperability is becoming the defining problem of European SMB finance."
+
+— Gauthier Henroz, CEO and Co-Founder of Chift [^3].
+
+> "We believe in connecting software to elevate its value and foster partnerships. A connected tool is simply a better product."
+
+— Gauthier Henroz, CEO and Co-Founder of Chift, on the Series A [^1].
 
 ## Sources
 

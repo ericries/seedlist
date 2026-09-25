@@ -184,6 +184,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 | Pleo | Growth | ~2021 | Fintech / Expense Mgmt | Private [^3] |
 | Parafin | Growth | ~2021 | Fintech | Private [^3] |
 | Rightway Healthcare | Growth | ~2019 | Health Tech | Private [^3] |
+| Rightway Healthcare | Series E (participated as existing investor; Francisco Partners led, Khosla Ventures also participated) | 2026-09-24 | Health Tech / PBM | Private ($155M Series E, total raised $394.3M, 45 Fortune 500 clients) [^tc-rw-1][^tc-rw-2][^tc-rw-3] |
 | Medivis | Early | ~2017 (founded) | Health Tech / AR | Private [^3] |
 | SpaceX | Growth | ~2022 | Aerospace | Private [^4] |
 | Neuralink | Series E | 2025-06-02 | Neurotechnology | Private ($650M Series E at ~$9B pre-money valuation; Sequoia Capital, Founders Fund, ARK Invest, Lightspeed, Thrive participated) [^18][^25][^26] |
@@ -442,3 +443,7 @@ The following table includes 80 verified portfolio companies sourced from Crunch
 [^fortell-tc2]: Fortell company website, accessed September 2026. https://fortell.com — Primary company source confirming product and launch, featuring Trae Stephens (Founders Fund) verbatim quote endorsing the demo.
 
 [^fortell-tc3]: Founders Fund portfolio page, confirms Fortell listed as a portfolio company, corroborating the co-participant syndicate. Accessed September 2026. https://foundersfund.com/portfolio/
+
+[^tc-rw-1]: Rightway Healthcare press release, "Rightway Raises $155 Million as it Leads the Next Generation of Pharmacy Benefits," September 24, 2026. Accessed September 2026. https://www.rightwayhealthcare.com/press/rightway-raises-155-million-series-e — Primary company source naming Francisco Partners as lead with Thrive Capital and Khosla Ventures as existing investors participating; carries verbatim CEO Jordan Feldman and Francisco Partners Co-President Ezra Perlman quotes.
+[^tc-rw-2]: Francisco Partners news page, "Rightway Raises $155 Million as it Leads the Next Generation of Pharmacy Benefits," September 24, 2026. Accessed September 2026. https://www.franciscopartners.com/news — Lead-investor primary source confirming the same date, amount, and lead/participant lineup.
+[^tc-rw-3]: "The AlleyWatch Startup Daily Funding Report: 9/24/2026," AlleyWatch, September 24, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-24-2026/ — Contemporaneous tech-press aggregator confirming $155M Series E, Francisco Partners lead, Thrive Capital and Khosla Ventures co-investors, total raised $394.3M.

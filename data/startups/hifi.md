@@ -7,7 +7,7 @@ location: "New York, NY"
 founded: 2022
 sector: [fintech, stablecoins, payments, financial-infrastructure, crypto-infrastructure]
 stage_latest: "Series A"
-total_raised: "$37M"
+total_raised: "$47M"
 investors: []
 firms: []
 founders:
@@ -21,7 +21,7 @@ last_researched: 2026-09-25
 
 ## About
 
-HIFI is a financial infrastructure platform that enables businesses to move money across stablecoins and bank rails through a single API integration, providing acceptance, conversion, routing, settlement, and compliance capabilities [^1][^2]. The company reports processing over $7 billion annually and serving 10,000+ businesses and 200,000 individuals through customers on its platform, with fourfold customer growth over the previous six months [^1]. HIFI was founded in 2022 by Zach Walsh and Mo Afifi [^1].
+HIFI is a financial infrastructure platform that enables businesses to move money across stablecoins and bank rails through a single API integration, providing acceptance, conversion, routing, settlement, and compliance capabilities [^1][^2]. The company reports processing over $7 billion annually and serving 10,000+ businesses and 200,000 individuals through customers on its platform, with fourfold customer growth over the previous six months [^1]. HIFI's platform participated in DTCC's tokenized repo pilot in July 2026 and supported a live tokenized repo trade between DRW and Marex on the Canton Network, and integrates Visa Direct for stablecoin push-to-card payouts and Circle Payments Network [^1]. HIFI was founded in 2022 by Zach Walsh and Mo Afifi (Mohamed Afifi) [^1][^2]. Total raised to date is $47M [^2].
 
 ## Funding History
 
@@ -29,7 +29,7 @@ HIFI is a financial infrastructure platform that enables businesses to move mone
 |------|-------|--------|------|--------------|
 | 2026-09-24 | Series A | $37M | Left Lane Capital | Not disclosed [^1][^2][^3] |
 
-Matt Miller of Left Lane Capital joined HIFI's board as part of the Series A [^1].
+Matt Miller of Left Lane Capital joined HIFI's board as part of the Series A [^1][^3].
 
 ## What Investors Say
 
@@ -37,7 +37,9 @@ No independently sourced investor commentary about this round found at this time
 
 ## What Founders Say
 
-Zach Walsh, in HIFI's Series A announcement: "Money is becoming software" and "stablecoins are becoming money in their own right: a dollar that can move anywhere in the world in seconds" [^1].
+Zach Walsh, Co-Founder, on the Series A: "Money is becoming software" [^1].
+
+Zach Walsh, Co-Founder, on the tokenization thesis: "Dollars are only the first asset to be tokenized" [^1].
 
 ## Sources
 
