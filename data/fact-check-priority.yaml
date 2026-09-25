@@ -9423,6 +9423,10 @@ priority:
   reason: 'Round monitoring 2026-09-18: CorePower Magnetics $10.6M (2026-09-17) co-led by Engine Ventures and Material Impact with Evergreen Climate Innovations, Carnegie Mellon Catalyst Fund, Baruch Future
     Ventures.'
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-25
+  resolution_note: 'Fact-spec sweep 2026-09-25: verified CorePower Magnetics $10.6M equity financing (2026-09-17) via 3 independent primary sources — (1) CorePower Magnetics company blog [^1]; (2) Axios Pro Rata deal listing [^2]; (3) Heatmap News exclusive article [^3] (added), also cross-referenced on Engine Ventures'' news/media-coverage page. All three confirm the $10.6M amount, the September 17 2026 date, and Engine Ventures + Material Impact as co-lead investors. Added verbatim Sam Kernion (CEO) quote from Heatmap News to What Founders Say. Currency preserved (USD). No firm profiles for Engine Ventures or Material Impact in seedlist; frontmatter firms array intentionally left empty.'
+  processed: 2026-09-25
 - slug: insight-partners
   type: firm
   reason: 'Round monitoring 2026-09-18: Kastle Series A (2026-09-17) led round with Fifth Wall, Y Combinator, Commerce Ventures. Sources: Kastle press release, PRNewswire, Axios Pro Rata.'
@@ -9450,6 +9454,10 @@ priority:
   reason: 'Round monitoring 2026-09-18: Sling Therapeutics $123M Series C (2026-09-16) led by Forbion with TPG Life Sciences Innovations, Sectoral Asset Management. Sources: Sling company press release,
     Crunchbase News weekly recap.'
   added: 2026-09-18
+  status: resolved
+  resolved: 2026-09-25
+  resolution_note: 'Fact-spec sweep 2026-09-25: verified Sling Therapeutics $123M Series C led by Forbion (2026-09-16) via 3 independent primary sources — (1) Sling Therapeutics company press release [^1]; (2) Crunchbase News weekly recap [^2]; (3) Forbion news page [^3] (added). All three confirm the $123M amount, September 16 2026 date, Forbion as lead, and TPG Life Sciences Innovations (existing) + Sectoral Asset Management (new) as participants. Added verbatim Regina Salvat (Forbion Partner) and Peter Bojo (TPG Life Sciences Innovations) quotes to What Investors Say from the Forbion release; expanded the Ryan Zeidan CEO quote to its full verbatim wording per the Forbion release. Board seats for Regina Salvat and François Beaubien confirmed across sources. Currency preserved (USD). No Forbion or TPG Life Sciences Innovations firm profile in seedlist; frontmatter firms array intentionally left empty.'
+  processed: 2026-09-25
 - slug: adaptive-construction
   type: startup
   reason: 'Round monitoring 2026-09-18: Adaptive $30M Series B (2026-09-17) led by Tidemark with Emergence Capital, Andreessen Horowitz, Pathlight, Definition, 3KVC. Sources: Tidemark blog post, AlleyWatch
@@ -9468,6 +9476,10 @@ priority:
   reason: 'Round monitoring 2026-09-21: Novadip Biosciences €10.4M convertible financing (2026-09-21) led by New Science Ventures with Fund+, Wallonie Entreprendre, VIVES Fund, ORSA Tech, Sambrinvest, Noshaq,
     Invest.BW. Unlocks €18M EIB venture debt tranche. Sources: EU-Startups, Novadip investors page.'
   added: 2026-09-21
+  status: resolved
+  resolved: 2026-09-25
+  resolution_note: 'Fact-spec sweep 2026-09-25: verified Novadip Biosciences €10.4M convertible financing led by New Science Ventures (2026-09-21) via 3 independent primary sources — (1) EU-Startups [^1]; (2) Novadip Biosciences Investors page [^2]; (3) New Science Ventures announcement [^3] (added). All three confirm the €10.4M amount, September 21 2026 date, New Science Ventures as lead, and full syndicate participation (Fund+, Wallonie Entreprendre, VIVES Fund, ORSA Tech, Sambrinvest, Noshaq, Invest.BW). The lead-investor source additionally confirms the round brings total convertible financing to €20M when combined with a prior €9.6M round, unlocks the final tranche of a €18M European Investment Bank venture debt agreement signed in 2023 (backed by InvestEU), and will support completion of the pivotal Phase 3 trial for NVD003 plus preparation of the US BLA. Added verbatim quotes from Denis Dufrane (CEO) and Eric Pâques (Board Chairman) to What Founders Say, plus a syndicate-support quote to What Investors Say. Currency preserved (€). No New Science Ventures firm profile in seedlist; frontmatter firms array intentionally left empty.'
+  processed: 2026-09-25
 - slug: fortell
   type: startup
   reason: 'Round monitoring 2026-09-21: Fortell $163M funding round (2026-09-16) with participation from Founders Fund, Thrive Capital, Valor Equity Partners. AI-powered hearing aids. Source: TechCrunch.'
