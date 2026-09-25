@@ -613,3 +613,31 @@
   source: Co-Founder & CEO of Clastix; raised €2.9M seed 2026-09-24
   discovered_from: clastix
   priority: low
+- name: Left Lane Capital
+  type: firm
+  source: led HIFI $37M Series A 2026-09-24; growth-stage fintech investor
+  discovered_from: hifi
+  priority: high
+- name: Matt Miller
+  type: individual
+  firm: Left Lane Capital
+  source: joined HIFI board as part of $37M Series A 2026-09-24
+  discovered_from: hifi
+  priority: high
+- name: Francisco Partners
+  type: firm
+  source: led Rightway Healthcare $155M Series E 2026-09-09 (revealed 2026-09-24)
+  discovered_from: rightway-healthcare
+  priority: normal
+- name: Zach Walsh
+  type: individual
+  firm: HIFI
+  source: Co-Founder of HIFI; $37M Series A 2026-09-24 led by Left Lane Capital
+  discovered_from: hifi
+  priority: low
+- name: Mo Afifi
+  type: individual
+  firm: HIFI
+  source: Co-Founder of HIFI; $37M Series A 2026-09-24 led by Left Lane Capital
+  discovered_from: hifi
+  priority: low

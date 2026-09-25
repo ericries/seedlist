@@ -6,11 +6,19 @@ website: "https://www.rightwayhealthcare.com"
 location: "New York, NY"
 status_company: active
 sector: [healthcare, digital-health, pharmacy, benefits, healthtech]
-stage_latest: "Growth"
+stage_latest: "Series E"
 total_raised: "$394.3M"
-firms: []
+firms:
+  - slug: khosla-ventures
+    round: series-e
+    year: 2026
+    date: 2026-09-09
+  - slug: thrive-capital
+    round: series-e
+    year: 2026
+    date: 2026-09-09
 status: published
-last_researched: 2026-09-13
+last_researched: 2026-09-25
 ---
 
 ## About
@@ -21,9 +29,9 @@ Rightway Healthcare is a healthcare benefits platform providing pharmacy benefit
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-09 | Growth | $155M | Not disclosed | Not disclosed (six investors) [^1] |
+| 2026-09-09 | Series E | $155M | Francisco Partners | Thrive Capital, Khosla Ventures [^1][^3] |
 
-The round brought Rightway Healthcare's total funding to $394.3M [^1].
+The round brought Rightway Healthcare's total funding to $394.3M [^1]. The lead investor Francisco Partners, along with participants Thrive Capital and Khosla Ventures, was named in a subsequent AlleyWatch report [^3].
 
 ## What Investors Say
 
@@ -37,3 +45,4 @@ No independently sourced founder commentary about this round found at this time.
 
 [^1]: "The AlleyWatch Startup Daily Funding Report: 9/9/2026," AlleyWatch, September 9, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-9-2026/
 [^2]: Rightway Healthcare, company website, accessed September 2026. https://www.rightwayhealthcare.com
+[^3]: "The AlleyWatch Startup Daily Funding Report: 9/24/2026," AlleyWatch, September 24, 2026. Accessed September 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-24-2026/

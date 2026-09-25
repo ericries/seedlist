@@ -9870,3 +9870,13 @@ priority:
   status: resolved
   resolved: 2026-09-24
   resolution_note: 'Fact-spec sweep 2026-09-24: verified €5.3M ($6M) growth round via 3 independent primary sources — EU-Startups [^1], Tech.eu direct article [^2] (Djurickovic, Sep 24 2026), and 50skills company blog news index [^3]. All confirm date, amount, Frumtak Ventures + Swiss Post Ventures co-lead, and Avant + DRD Investments co-investment. Replaced Tech.eu homepage citation with the direct article URL. Added Ásthildur Otharsdóttir (Frumtak Partner, Chair of 50skills board) investor quote and Kristján Freyr Kristjánsson (Co-Founder & CEO) founder quote. Corrected use-of-proceeds description (hiring in sales/marketing/community + platform + AI agents, per both sources).'
+- slug: hifi
+  type: startup
+  reason: |
+    Round monitoring 2026-09-25: new profile — $37M Series A led by Left Lane Capital 2026-09-24 (NYC stablecoin financial infrastructure; Matt Miller joins board).
+  added: 2026-09-25
+- slug: rightway-healthcare
+  type: startup
+  reason: |
+    Round monitoring 2026-09-25: updated with newly named lead investor Francisco Partners and co-investors Thrive Capital and Khosla Ventures on $155M Series E (per AlleyWatch 9/24/2026 report).
+  added: 2026-09-25

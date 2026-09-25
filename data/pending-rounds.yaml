@@ -82,6 +82,14 @@ pending_rounds:
   parsed_amount: $6.7M
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/24/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-24-2026/
+  source: alleywatch
+  date_found: '2026-09-24'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Berlin-based mika raises €6 million to scale its AI-native alternative to
     traditional tax firms
   url: https://www.eu-startups.com/2026/09/berlin-based-mika-raises-e6-million-to-scale-its-ai-native-alternative-to-traditional-tax-firms/
@@ -852,13 +860,5 @@ pending_rounds:
   date_found: '2026-09-12'
   parsed_company: Pinegrove Venture Partners
   parsed_amount: $1.5B
-  parsed_round: null
-  status: pending
-- title: Volition Capital raised $950M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-12'
-  parsed_company: Volition Capital
-  parsed_amount: $950M
   parsed_round: null
   status: pending
