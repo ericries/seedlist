@@ -91,6 +91,7 @@ Based on Notable Capital's (and its predecessor GGV Capital's) portfolio, the fi
 | Stori | Series A | 2019 | Fintech | Active | [^3] |
 | Beacon Security | Seed | 2026 | Cybersecurity/AI | Active | [^11] |
 | Act Security | Series A (led) | 2026-07-28 | Cybersecurity/AI/Cloud | Active | [^12] |
+| Wispr | Series B (participated; $280M led by Menlo Ventures at $2B post-money; NEA, Neo, 8VC, MVP Ventures, Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital also participated) | 2026-08-17 | AI / Voice / Productivity | Active | [^wispr1][^wispr2][^wispr3] |
 
 *This table represents a subset of over 400 companies backed under the GGV/Notable Capital platform [^6]. Stages and years are approximate based on available sources.*
 
@@ -126,3 +127,9 @@ No additional independently sourced founder testimonials were found during this 
 [^quince-e1]: PR Newswire, "Quince Raises $500M Series E, Resulting in $10.1B Valuation, To Accelerate the Manufacturer-to-Consumer Platform," March 11, 2026. Accessed August 2026. https://www.prnewswire.com/news-releases/quince-raises-500m-series-e-resulting-in-10-1b-valuation-to-accelerate-the-manufacturer-to-consumer-platform-302710298.html — Official press release confirming Notable Capital as a Series E participant alongside ICONIQ (lead), DST Global, Basis Set Ventures, Wellington Management, WndrCo, MarcyPen Capital Partners, and Baillie Gifford at $10.1B post-money valuation.
 
 [^quince-e2]: Pulse 2.0, "Quince: $500 Million At $10.1 Billion Valuation Raised For Manufacturer-To-Consumer Retail Platform," March 11, 2026. Accessed August 2026. https://pulse2.com/quince-500-million-at-10-1-billion-valuation-raised-for-manufacturer-to-consumer-retail-platform/ — Independent tech press confirming Notable Capital's participation in the $500M Series E.
+
+[^wispr1]: TechCrunch, "Wispr raises $280M at $2B valuation as it looks beyond dictation," August 17, 2026. Accessed September 25, 2026. https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/ — Primary tier-1 tech press confirming Wispr's $280M Series B on 2026-08-17 at $2B post-money valuation, led by Menlo Ventures with Notable Capital, NEA, Neo, 8VC, MVP Ventures, Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, and PLUS Capital also participating.
+
+[^wispr2]: Wispr Flow blog, "Our Series B, and what it means for you," August 17, 2026. Accessed September 25, 2026. https://wisprflow.ai/post/series-b — Primary company announcement confirming the Series B, valuation, and the full investor list including Notable Capital.
+
+[^wispr3]: Fortune, "Wispr talks its way to a $2 billion valuation. The company says dictation's only the beginning," August 17, 2026. Accessed September 25, 2026. https://fortune.com/2026/08/17/wispr-2-billion-valuation-dictations-only-the-beginning/ — Independent third tier-1 press confirmation of the $280M Series B at $2B valuation with Menlo Ventures leading and Notable Capital among the co-investors.

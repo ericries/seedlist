@@ -7262,6 +7262,10 @@ priority:
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-25'
+  resolution_note: 'Fact-spec sweep 2026-09-25: added Whatnot Series G row to bond.md portfolio table — 2026-08-07, $545M co-led by ICONIQ, Lightspeed, and Avra at $20B post-money valuation; BOND participated as returning investor alongside Andreessen Horowitz, DST Global, Greycroft, Y Combinator, CapitalG (new investors Kleiner Perkins, Wellington Management, Standard Capital). Added 3 named-footnote citations ([^whatnot1] PYMNTS, [^whatnot2] Yahoo Finance, [^whatnot3] Quartz), each an independent primary source confirming BOND participation.'
+  processed: '2026-09-25'
 - slug: dst-global
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
@@ -7291,6 +7295,10 @@ priority:
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-25'
+  resolution_note: 'Fact-spec sweep 2026-09-25: added Wispr Series B row to notable-capital.md portfolio table — 2026-08-17, $280M led by Menlo Ventures at $2B post-money valuation; Notable Capital participated alongside NEA, Neo, 8VC, MVP Ventures, Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital. Added 3 named-footnote citations ([^wispr1] TechCrunch, [^wispr2] Wispr Flow blog, [^wispr3] Fortune), each an independent primary source confirming Notable Capital participation and round terms.'
+  processed: '2026-09-25'
 - slug: nea
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)
@@ -7315,6 +7323,10 @@ priority:
   type: firm
   reason: appeared in Rillet Series C (2026-08-19)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-25'
+  resolution_note: 'Fact-spec sweep 2026-09-25: added Rillet Series C row to iconiq-growth.md portfolio table — 2026-08-19, $100M led by ICONIQ at $1B post-money valuation; participants Sequoia, Andreessen Horowitz, Sequoia Global Equities, Bain Capital Ventures, Oak HC/FT, Battery Ventures, FirstMark, Scale Venture Partners, Creandum. Added 3 named-footnote citations ([^rillet1] TechCrunch, [^rillet2] Rillet blog, [^rillet3] Fortune), each an independent primary source confirming ICONIQ lead and round terms.'
+  processed: '2026-09-25'
 - slug: sequoia-capital
   type: firm
   reason: appeared in Rillet Series C (2026-08-19)
