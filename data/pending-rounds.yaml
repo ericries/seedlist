@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Sept. 21 – Sept. 25)
+  url: https://www.eu-startups.com/2026/09/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-sept-21-sept-25/
+  source: eu-startups
+  date_found: '2026-09-25'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: GoldHaven Closes Additional Tranche of Flow-Through Financing Bringing Total
     Flow-Through Proceeds to $3.0 Million
   url: https://www.globenewswire.com/news-release/2026/09/23/3367899/0/en/goldhaven-closes-additional-tranche-of-flow-through-financing-bringing-total-flow-through-proceeds-to-3-0-million.html
@@ -852,13 +861,5 @@ pending_rounds:
   date_found: '2026-09-12'
   parsed_company: Payward
   parsed_amount: $100M
-  parsed_round: null
-  status: pending
-- title: Pinegrove Venture Partners raised $1.5B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-12'
-  parsed_company: Pinegrove Venture Partners
-  parsed_amount: $1.5B
   parsed_round: null
   status: pending
