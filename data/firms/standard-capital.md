@@ -50,7 +50,7 @@ Based on 8 verified investments from Standard Capital's portfolio page [^13] and
 - Fintech/vertical SaaS: 1 of 8 (13%) — Concourse (AI agents for finance teams)
 - QA/testing: 1 of 8 (13%) — Momentic (AI test automation)
 
-**Stage distribution:** 8 of 8 investments (100%) are Series A rounds, consistent with the firm's stated exclusive Series A focus.
+**Stage distribution:** 8 of 9 verified investments (89%) are Series A rounds, consistent with the firm's stated exclusive Series A focus. The one exception is Whatnot's August 2026 Series G — a late-stage participation as new investor alongside Kleiner Perkins and Wellington Management [^whatnot-sc1][^whatnot-sc2].
 
 **Check size range:** $6M to $16M across the 8 investments, with a median of $12M. The full portfolio totals $92.5M deployed across 8 companies [^13][^24].
 
@@ -74,8 +74,9 @@ Based on 8 verified investments from Standard Capital's portfolio page [^13] and
 | Concourse | Series A ($12M) | 2026-01-27 | AI agents for finance | Active [^19] |
 | Archil | Series A ($11M, led) | 2026-04-21 | Cloud filesystem for AI | Active [^22][^23] |
 | Weave | Series A ($13.5M, led) | 2026-07-28 | Engineering intelligence for AI | Active [^24][^25][^26] |
+| Whatnot | Series G (new investor participant; $545M round at $20B post-money co-led by ICONIQ, Lightspeed, and Avra; Standard Capital joined alongside Kleiner Perkins and Wellington Management) | 2026-08-07 | Live Commerce / Marketplace / Consumer | Active — atypical departure from Standard Capital's Series A-only thesis, likely a strategic later-stage participation via Dalton Caldwell's YC network (Whatnot is a YC alumnus and CapitalG/A16z-backed) [^whatnot-sc1][^whatnot-sc2][^whatnot-sc3] |
 
-This table represents publicly known investments as listed on Standard Capital's portfolio page [^13] and announced rounds through July 2026. The firm targets ~20 investments per year, so additional investments may not yet be publicly disclosed.
+This table represents publicly known investments as listed on Standard Capital's portfolio page [^13] and announced rounds through August 2026. The firm targets ~20 investments per year, so additional investments may not yet be publicly disclosed. Note: the Whatnot Series G in August 2026 is a departure from Standard Capital's stated exclusive Series A focus.
 
 ## In Their Own Words
 
@@ -131,3 +132,7 @@ No additional independently sourced founder testimonials from portfolio company 
 [^24]: The SaaS News, "Weave Raises $13.5M Series A," July 28, 2026, accessed July 2026. https://www.thesaasnews.com/news/weave-raises-13-5m-series-a/
 [^25]: TechStartups, "AI startup Weave raises $13.5M to help companies measure AI coding ROI and end 'tokenmaxxing'," July 28, 2026, accessed July 2026. https://techstartups.com/2026/07/28/ai-startup-weave-raises-13-5m-to-help-companies-measure-ai-coding-roi-and-end-tokenmaxxing/
 [^26]: WebWire, "Weave Raises $13.5M Series A to Kill Tokenmaxxing with Engineering-Intelligence Platform," July 28, 2026, accessed July 2026. https://www.webwire.com/ViewPressRel.asp?aId=358199
+
+[^whatnot-sc1]: PYMNTS, "Live Commerce Platform Whatnot Raises $545 Million to Speed AI Expansion," August 7, 2026. Accessed September 24, 2026 (verified via WebFetch 2026-09-24). https://www.pymnts.com/news/investment-tracker/2026/live-commerce-platform-whatnot-raises-545-million-to-speed-ai-expansion/ — Primary tier-1 fintech press confirming Whatnot's $545M Series G at $20B post-money valuation announced August 7, 2026, co-led by ICONIQ, Lightspeed Venture Partners, and Avra; up from $11.5B in October 2025.
+[^whatnot-sc2]: Yahoo Finance, "Whatnot raises $545M Series G at $20 billion valuation," August 7, 2026. Accessed September 24, 2026 (verified via WebFetch 2026-09-24). https://finance.yahoo.com/small-business/articles/whatnot-raises-545m-series-g-174141222.html — Independent tier-1 press confirmation naming Standard Capital ("the firm of former Y Combinator partner Dalton Caldwell") alongside Kleiner Perkins and Wellington Management as new investors in Whatnot's Series G; returning investors Andreessen Horowitz, Bond, DST Global, Greycroft, Y Combinator, and CapitalG.
+[^whatnot-sc3]: Quartz, "Whatnot raises $545M Series G at $20 billion valuation," August 7, 2026. Accessed August 30, 2026. https://qz.com/whatnot-series-g-funding-live-shopping-valuation-080726 — Third independent contemporaneous tech/business press confirmation of the $545M Series G at $20B valuation with Standard Capital among named new investors.

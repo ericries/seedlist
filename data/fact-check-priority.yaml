@@ -7230,6 +7230,9 @@ priority:
   type: firm
   reason: appeared in Cambridge Aerospace Series C (2026-08-10)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-24'
+  resolution_note: 'Fact-spec sweep 2026-09-24: added Cambridge Aerospace Series C row to Accel portfolio table — 2026-08-10, $300M at $3.4B valuation, led by DFJ Growth with Lux Capital, Accel, Lakestar, Never Lift, Ora Global, Elad Gil participating. Added 3 named-footnote citations ([^cambaero1] Axios, [^cambaero2] sUAS News verified via WebFetch, [^cambaero3] Business Weekly). Cambridge Aerospace startup profile already lists Accel in firms frontmatter; funding history table already reflects the round. Follows April 2026 $200M Series B at $1.3B (2.6x valuation jump).'
 - slug: iconiq-growth
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07) as co-lead
@@ -7241,10 +7244,16 @@ priority:
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-24'
+  resolution_note: 'Fact-spec sweep 2026-09-24: added Whatnot Series G row to Kleiner Perkins portfolio table — 2026-08-07, $545M at $20B post-money valuation, co-led by ICONIQ, Lightspeed, and Avra. Kleiner Perkins joined as new investor alongside Wellington Management and Standard Capital. Returning: Andreessen Horowitz, Bond, DST Global, Greycroft, Y Combinator, CapitalG. Added 3 named-footnote citations ([^whatnot-kp1] PYMNTS verified via WebFetch, [^whatnot-kp2] Yahoo Finance verified via WebFetch — confirms Kleiner as new investor and Standard Capital as Dalton Caldwell''s firm, [^whatnot-kp3] Quartz). Whatnot startup profile already reflects Kleiner Perkins in firms frontmatter.'
 - slug: standard-capital
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-24'
+  resolution_note: 'Fact-spec sweep 2026-09-24: added Whatnot Series G row to Standard Capital portfolio table — 2026-08-07, $545M at $20B post-money valuation, co-led by ICONIQ, Lightspeed, and Avra. Standard Capital (Dalton Caldwell''s firm, former Y Combinator partner) joined as new investor alongside Kleiner Perkins and Wellington Management. Added 3 named-footnote citations ([^whatnot-sc1] PYMNTS verified via WebFetch, [^whatnot-sc2] Yahoo Finance verified via WebFetch, [^whatnot-sc3] Quartz). Whatnot startup profile already reflects Standard Capital in firms frontmatter.'
 - slug: andreessen-horowitz
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
