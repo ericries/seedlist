@@ -4,11 +4,19 @@ priority:
   reason: |
     Round monitoring 2026-09-26: appeared as co-investor in Rightway Series E $155M (2026-09-24).
   added: 2026-09-26
+  status: resolved
+  resolved: 2026-09-26
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: verified Rightway Series E $155M (2026-09-24) via 3 primary sources — Rightway press release (Jordan Feldman + Ezra Perlman quotes captured), Crunchbase News weekly biggest rounds, AlleyWatch daily 9-24. Francisco Partners lead confirmed; Thrive Capital and Khosla Ventures as existing-investor participants confirmed. Thrive Capital portfolio row already updated in a prior sweep and remains consistent; startup profile rightway.md now enriched with verbatim CEO/investor quotes and press-release citation.
 - slug: khosla-ventures
   type: firm
   reason: |
     Round monitoring 2026-09-26: appeared as co-investor in Rightway Series E $155M (2026-09-24).
   added: 2026-09-26
+  status: resolved
+  resolved: 2026-09-26
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: verified Rightway Series E $155M (2026-09-24) via 3 primary sources — Rightway press release, Crunchbase News weekly, AlleyWatch daily 9-24. Francisco Partners lead; Khosla Ventures existing-investor participant. Khosla portfolio row already carries the round with $394.3M cumulative note from an earlier sweep; startup profile rightway.md enriched with press-release citation and verbatim quotes.
 - slug: snorkel-ai
   type: startup
   reason: |
@@ -7268,6 +7276,11 @@ priority:
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Whatnot Series G row to andreessen-horowitz.md portfolio table — 2026-08-07, $545M at $20B post-money valuation, co-led by ICONIQ, Lightspeed, and Avra. Andreessen Horowitz participated as returning investor alongside Bond, DST Global, Greycroft, Y Combinator, CapitalG (new investors: Kleiner Perkins, Wellington Management, Standard Capital). Added 3 named-footnote citations ([^a16z-wn1] PYMNTS, [^a16z-wn2] Yahoo Finance, [^a16z-wn3] Quartz), same 3-source lineup used to verify iconiq-growth, kleiner-perkins, standard-capital, and bond in prior sweeps.
+  processed: '2026-09-26'
 - slug: bond
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
@@ -7280,6 +7293,11 @@ priority:
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Whatnot Series G row to dst-global.md portfolio table — 2026-08-07, $545M at $20B post-money valuation, co-led by ICONIQ, Lightspeed, and Avra. DST Global participated as returning investor (previously co-led Whatnot's 2022 Series D with CapitalG per existing footnote [^21]) alongside Andreessen Horowitz, Bond, Greycroft, Y Combinator, CapitalG. Added 3 named-footnote citations ([^dst-wn1] PYMNTS, [^dst-wn2] Yahoo Finance, [^dst-wn3] Quartz).
+  processed: '2026-09-26'
 - slug: y-combinator
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)

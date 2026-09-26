@@ -1,52 +1,86 @@
 ---
-name: "Whatnot"
-slug: whatnot
-type: startup
-website: "https://whatnot.com"
-location: "Los Angeles, California"
-founded: 2019
-sector: [ecommerce, live-commerce, marketplace, consumer]
-stage_latest: "Series G"
-total_raised: "$1.5B"
-investors: []
 firms:
-  - slug: iconiq-growth
-    round: series-g
-    year: 2026
-    date: 2026-08-07
-  - slug: kleiner-perkins
-    round: series-g
-    year: 2026
-    date: 2026-08-07
-  - slug: standard-capital
-    round: series-g
-    year: 2026
-    date: 2026-08-07
-  - slug: andreessen-horowitz
-    round: series-g
-    year: 2026
-    date: 2026-08-07
-  - slug: bond
-    round: series-g
-    year: 2026
-    date: 2026-08-07
-  - slug: dst-global
-    round: series-g
-    year: 2026
-    date: 2026-08-07
-  - slug: y-combinator
-    round: series-g
-    year: 2026
-    date: 2026-08-07
-  - slug: capitalg
-    round: series-g
-    year: 2026
-    date: 2026-08-07
+- date: 2026-08-07
+  round: series-g
+  slug: iconiq-growth
+  year: 2026
+- date: 2026-08-07
+  round: series-g
+  slug: kleiner-perkins
+  year: 2026
+- date: 2026-08-07
+  round: series-g
+  slug: standard-capital
+  year: 2026
+- date: 2026-08-07
+  round: series-g
+  slug: andreessen-horowitz
+  year: 2026
+- date: 2026-08-07
+  round: series-g
+  slug: bond
+  year: 2026
+- date: 2026-08-07
+  round: series-g
+  slug: dst-global
+  year: 2026
+- date: 2026-08-07
+  round: series-g
+  slug: y-combinator
+  year: 2026
+- date: 2026-08-07
+  round: series-g
+  slug: capitalg
+  year: 2026
+- round: Growth
+  slug: sequoia-capital
+  year: 2022
+- round: Seed
+  slug: operator-partners
+  year: 2020
+- round: Series B (board)
+  slug: avra
+  year: 2021
+founded: 2019
 founders:
-  - name: "Grant LaFontaine"
-    role: "Co-Founder & CEO"
-status: published
+- name: Grant LaFontaine
+  role: Co-Founder & CEO
+investors:
+- round: Growth
+  slug: alfred-lin
+  year: 2022
+- round: Seed
+  slug: amit-avner
+  year: 2020
+- round: Series B (board)
+  slug: anu-hariharan
+  year: 2021
+- round: ~2019
+  slug: dalton-caldwell
+  year: 2019
+- round: '2021'
+  slug: connie-chan
+  year: 2021
+- round: Series C
+  slug: laela-sturdy
+  year: 2021
+- round: Series D
+  slug: mood-rowghani
+  year: 2022
 last_researched: 2026-08-30
+location: Los Angeles, California
+name: Whatnot
+sector:
+- ecommerce
+- live-commerce
+- marketplace
+- consumer
+slug: whatnot
+stage_latest: Series G
+status: published
+total_raised: $1.5B
+type: startup
+website: https://whatnot.com
 ---
 
 ## About
