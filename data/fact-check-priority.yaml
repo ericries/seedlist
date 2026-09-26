@@ -1,4 +1,14 @@
 priority:
+- slug: thrive-capital
+  type: firm
+  reason: |
+    Round monitoring 2026-09-26: appeared as co-investor in Rightway Series E $155M (2026-09-24).
+  added: 2026-09-26
+- slug: khosla-ventures
+  type: firm
+  reason: |
+    Round monitoring 2026-09-26: appeared as co-investor in Rightway Series E $155M (2026-09-24).
+  added: 2026-09-26
 - slug: snorkel-ai
   type: startup
   reason: |
