@@ -7312,6 +7312,11 @@ priority:
   type: firm
   reason: appeared in Whatnot Series G (2026-08-07)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Whatnot Series G row to capitalg.md portfolio table — 2026-08-07, $545M at $20B post-money valuation, co-led by ICONIQ, Lightspeed, and Avra. CapitalG participated as returning investor (existing shareholder since Series C 2021, having "led three previous rounds in the company" per Yahoo Finance) alongside Andreessen Horowitz, Bond, DST Global, Greycroft, Y Combinator. Also enhanced a16z and DST Global existing Series G rows with additional participants (Alkeon Capital, Durable Capital Partners, Robinhood Ventures, S32) confirmed via AlleyWatch weekly funding report — the 4th independent primary source added across all three profiles. Sources: [^cg-wn1] PYMNTS, [^cg-wn2] Yahoo Finance, [^cg-wn3] Quartz, [^cg-wn4] AlleyWatch. Whatnot startup profile now also updated to include Alkeon, Durable, Robinhood Ventures, and S32 in the Series G row, with AlleyWatch added as [^4].
+  processed: '2026-09-26'
 - slug: menlo-ventures
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)
@@ -7331,6 +7336,11 @@ priority:
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Wispr Series B row to nea.md portfolio table — 2026-08-17, $280M at $2B post-money valuation, led by Menlo Ventures with Notable Capital, NEA (as existing/returning investor), Neo, 8VC, MVP Ventures returning and Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital as new investors; brings Wispr total funding to $361M; company previewed Canto proprietary speech-recognition model alongside the round. Also updated NEA's last_verified_investment frontmatter from Horizon3.ai Series E (2026-08-03) to Wispr Series B (2026-08-17). Added 3 named-footnote citations: [^wispr-nea1] TechCrunch, [^wispr-nea2] Wispr Flow blog (company primary), [^wispr-nea3] Fortune. All 3 sources are the same primary triad already used to verify menlo-ventures and notable-capital in prior sweeps.
+  processed: '2026-09-26'
 - slug: neo
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)
@@ -7359,6 +7369,11 @@ priority:
   type: firm
   reason: appeared in Rillet Series C (2026-08-19)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Rillet Series C row to sequoia-capital.md portfolio table — 2026-08-19, $100M at $1B post-money valuation, led by ICONIQ with Sequoia participating as a continuing investor alongside Andreessen Horowitz; other participants Sequoia Global Equities, Bain Capital Ventures, Oak HC/FT, Battery Ventures, FirstMark, Creandum, and Scale Venture Partners; brings Rillet total capital raised to $200M+. Added 3 named-footnote citations: [^rillet-seq1] TechCrunch (verified via WebFetch — Nicolas Kopp CEO quote captured), [^rillet-seq2] Rillet company blog (verified via WebFetch — full investor list), [^rillet-seq3] Fortune. All 3 sources are the same primary triad already cited on the Rillet startup profile.
+  processed: '2026-09-26'
 - slug: andreessen-horowitz
   type: firm
   reason: appeared in Rillet Series C (2026-08-19) and Castelion Series C (2026-08-19)

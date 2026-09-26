@@ -116,9 +116,9 @@ team:
 type: firm
 website: https://www.nea.com
 last_verified_investment:
-  date: 2026-08-03
-  company: "Horizon3.ai"
-  round: "Series E (co-led with NightDragon, $250M at $2B+ val)"
+  date: 2026-08-17
+  company: "Wispr"
+  round: "Series B (participated as existing investor, $280M at $2B post-money; Menlo Ventures led)"
 ---
 
 ## About
@@ -184,6 +184,7 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 | P-1 AI | Series A (led, $50M; Radical Ventures + angels) | 2026-07-29 | AI / Engineering / Hardware | Active [^34][^35][^38] |
 | Horizon3.ai | Series E (co-led with NightDragon, $250M at $2B+ valuation; Acrew, Blue Cloud, Demeter, EDBI, PSG, SAIC, Sapphire, Craft, Prosperity7, Qualcomm, Ridge, SignalFire participated) | 2026-08-03 | Cybersecurity / Autonomous Pentesting | Active [^36][^37] |
 | Centralize | Series A (led, $19M; Hilarie Koplow-McAdams Venture Partner quoted; Salesforce Ventures, Y Combinator, 20SALES, Ritual Capital, Adverb Ventures participated; angels Stewart Butterfield (Slack co-founder) + Scott Woody (Metronome co-founder)) | 2026-07-29 | Sales Tech / Enterprise / Relationship Intelligence | Active [^cent1][^cent2][^cent3] |
+| Wispr | Series B (participated as existing investor; $280M at $2B post-money valuation led by Menlo Ventures; Notable Capital, Neo, 8VC, MVP Ventures returning; Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital new; brings Wispr total funding to $361M; Canto proprietary speech-recognition model previewed alongside round) | 2026-08-17 | AI / Voice AI / Productivity / Speech Recognition | Active [^wispr-nea1][^wispr-nea2][^wispr-nea3] |
 
 *This table represents a very small fraction of NEA's portfolio. The firm has participated in 284+ IPOs and 500+ acquisitions over its 48-year history [^4][^5].*
 
@@ -260,3 +261,7 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^cent1]: "Centralize Raises $19M Led by NEA to Bring Relationship Intelligence to the Core of Enterprise Sales," BusinessWire (Centralize press release), July 29, 2026. Accessed August 2026. https://www.businesswire.com/news/home/20260729724558/en/Centralize-Raises-$19M-Led-by-NEA-to-Bring-Relationship-Intelligence-to-the-Core-of-Enterprise-Sales — Primary company press release confirming NEA led $19M round on 2026-07-29 with Salesforce Ventures, Y Combinator, 20SALES, Ritual Capital, Adverb Ventures participating, plus angels Stewart Butterfield (Slack co-founder) and Scott Woody (Metronome co-founder). Hilarie Koplow-McAdams (Venture Partner, NEA) quoted: "We've evaluated dozens of opportunities in this category and when we met Rachit and Will, we knew we'd found the team to close this gap." Rachit Kataria (co-founder & CEO) also quoted.
 [^cent2]: BusinessWire distribution via Yahoo Finance, "Centralize Raises $19M Led by NEA to Bring Relationship Intelligence to the Core of Enterprise Sales," July 29, 2026. Accessed August 2026. https://finance.yahoo.com/technology/articles/centralize-raises-19m-led-nea-131500644.html — Independent redistribution confirming all round details.
 [^cent3]: "Centralize Raises $19M Led by NEA to Bring Relationship Intelligence to the Core of Enterprise Sales," SalesTechStar, July 30, 2026. Accessed August 2026. https://salestechstar.com/price-optimization-revenue-management/centralize-raises-19m-led-by-nea-to-bring-relationship-intelligence-to-the-core-of-enterprise-sales/ — Independent trade press confirmation of NEA-led $19M round, all participants, and Rachit Kataria CEO quote.
+
+[^wispr-nea1]: TechCrunch, "Wispr raises $280M at $2B valuation as it looks beyond dictation," August 17, 2026. Accessed September 2026. https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/ — Tier-1 tech press primary source confirming Menlo Ventures led the $280M Series B at $2B post-money valuation on August 17, 2026, with NEA named among existing/returning investors alongside Notable Capital, Neo, 8VC, MVP Ventures, plus new investors Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital.
+[^wispr-nea2]: Wispr Flow blog (company primary), "Our Series B, and what it means for you," August 17, 2026. Accessed September 2026. https://wisprflow.ai/post/series-b — Company primary source announcing the Series B, previewing Canto proprietary speech-recognition model, and naming NEA among the investor syndicate; total capital raised to date $361M.
+[^wispr-nea3]: Fortune, "Wispr talks its way to a $2 billion valuation. The company says dictation's only the beginning," August 17, 2026. Accessed September 2026. https://fortune.com/2026/08/17/wispr-2-billion-valuation-dictations-only-the-beginning/ — Independent tier-1 business press confirmation of Menlo-led $280M Series B with NEA participation; Matt Kraning quoted as Menlo Ventures investing partner.
