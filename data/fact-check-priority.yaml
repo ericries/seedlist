@@ -9923,3 +9923,15 @@ priority:
   resolution_note: |
     Fact-spec sweep 2026-09-24: verified Chift €10.5M Series A led by BlackFin Capital Partners (2026-09-14) via 3 independent primary sources — (1) Chift company blog post [^1] (primary company source confirming amount, lead, participants Entourage, Shapers, Seeder Fund, Wallonie Entreprendre, and CEO Gauthier Henroz quote "Every business in Europe and the UK has its finances connected..." and "We believe in connecting software to elevate its value and foster partnerships. A connected tool is simply a better product."; use-of-proceeds: scale across Spain, UK, Nordics, Germany, Italy; build agentic layer; hire 15 new team members in H2 2026); (2) Chift company page [^2] (primary company source confirming 120+ financial tools, 13 countries, 150+ software companies, 50,000+ businesses); (3) EU-Startups [^3] (contemporaneous tech press confirming 2026-09-14 announcement date and adding two new verbatim quotes: Pauline Brunel Investment Director BlackFin Capital Partners "Financial data connectivity is genuinely hard to build, particularly in Europe, where data sits across dozens of local systems that were never designed to talk to each other." and "We are proud to back Gauthier, Henry and Matthieu in making Chift the connectivity infrastructure for business software in the AI era."; and Gauthier Henroz "AI and e-invoicing are rebuilding the entire financial software market, and businesses run on more tools than ever. Interoperability is becoming the defining problem of European SMB finance."). Currency preserved (€). Expanded About with use-of-proceeds detail. Added investor quote section with Pauline Brunel quotes verbatim from EU-Startups. Added two additional founder quotes to What Founders Say. No firm profiles for BlackFin Capital Partners, Entourage, Shapers, Seeder Fund, or Wallonie Entreprendre in seedlist; frontmatter firms array intentionally left empty.
   processed: 2026-09-24
+- slug: precision-neuroscience
+  type: startup
+  reason: |
+    Round monitoring 2026-09-25: new profile — $250M Series D led by Pershing Square and Ackman Oxman Institute with Duquesne Family Office, B Capital, ARK Investment Management, Invus, Mubadala Capital, Mirae Asset Capital, Korea Investment Partners, Hitachi Ventures, JSL Health Capital participating. Sources: AlleyWatch 9/25 daily report, Crunchbase week roundup, company website. Total equity raised to $405M.
+  added: 2026-09-26
+  status: pending
+- slug: island
+  type: startup
+  reason: |
+    Round monitoring 2026-09-24: new profile — $400M Series F led by Evolution Equity Partners at $6.4B valuation with Prysm Capital, Sequoia Capital, Coatue Management, Cyberstarts, Insight Partners, J.P. Morgan Growth Equity Partners, Alta Park Capital, Georgian, G Squared, Squarepoint, Dmitri Alperovitch participating. Sources: Island press release, AlleyWatch weekly report, Crunchbase week roundup.
+  added: 2026-09-26
+  status: pending

@@ -20,15 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (Sept. 21 – Sept. 25)
-  url: https://www.eu-startups.com/2026/09/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-sept-21-sept-25/
-  source: eu-startups
-  date_found: '2026-09-25'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: 'The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take
     The Lead'
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/
@@ -44,6 +35,103 @@ pending_rounds:
   date_found: '2026-09-25'
   parsed_company: null
   parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Sept. 21 – Sept. 25)
+  url: https://www.eu-startups.com/2026/09/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-sept-21-sept-25/
+  source: eu-startups
+  date_found: '2026-09-25'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: OpenEvidence raised $250M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-25'
+  parsed_company: OpenEvidence
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: Solcoa Industries raised $45M equity
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-25'
+  parsed_company: Solcoa Industries
+  parsed_amount: $45M
+  parsed_round: Equity
+  status: pending
+- title: and Dylan Field. It also raised $30M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-25'
+  parsed_company: and Dylan Field. It also
+  parsed_amount: $30M
+  parsed_round: null
+  status: pending
+- title: Ando raised $20M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-25'
+  parsed_company: Ando
+  parsed_amount: $20M
+  parsed_round: null
+  status: pending
+- title: Dextr AI raised $6.7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-25'
+  parsed_company: Dextr AI
+  parsed_amount: $6.7M
+  parsed_round: Seed
+  status: pending
+- title: skills raised $6M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-25'
+  parsed_company: skills
+  parsed_amount: $6M
+  parsed_round: null
+  status: pending
+- title: Kontext raised $4M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-25'
+  parsed_company: Kontext
+  parsed_amount: $4M
+  parsed_round: null
+  status: pending
+- title: Topdog raised $2.5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-25'
+  parsed_company: Topdog
+  parsed_amount: $2.5M
+  parsed_round: Seed
+  status: pending
+- title: O-ID raised $1.2M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-25'
+  parsed_company: O-ID
+  parsed_amount: $1.2M
+  parsed_round: null
+  status: pending
+- title: ADARx Pharmaceuticals raised $446M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-25'
+  parsed_company: ADARx Pharmaceuticals
+  parsed_amount: $446M
+  parsed_round: null
+  status: pending
+- title: Nscale raised $3.36B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-25'
+  parsed_company: Nscale
+  parsed_amount: $3.36B
   parsed_round: null
   status: pending
 - title: GoldHaven Closes Additional Tranche of Flow-Through Financing Bringing Total
@@ -764,102 +852,6 @@ pending_rounds:
   url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-15-2026/
   source: alleywatch
   date_found: '2026-09-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Caliber Completes $3.4 Million Refinance of Corporate Notes and Secures the
-    Right to Retire an Additional $9.1 Million at a Discount
-  url: https://www.globenewswire.com/news-release/2026/09/14/3360985/0/en/caliber-completes-3-4-million-refinance-of-corporate-notes-and-secures-the-right-to-retire-an-additional-9-1-million-at-a-discount.html
-  source: globenewswire
-  date_found: '2026-09-14'
-  parsed_company: Caliber Completes $3.4 Million Refinance of Corporate Notes and
-  parsed_amount: $3.4M
-  parsed_round: null
-  status: pending
-- title: Wageningen-based Greencovery raises €1 million to scale cocoa upcycling technology,
-    with further €3 million round underway
-  url: https://www.eu-startups.com/2026/09/wageningen-based-greencovery-raises-e1-million-to-scale-cocoa-upcycling-technology-with-further-e3-million-round-underway/
-  source: eu-startups
-  date_found: '2026-09-14'
-  parsed_company: Wageningen-based Greencovery
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Swiss-Italian startup Ferm Labs secures €3 million to scale its bioprocessing-based
-    B2B ingredient platform
-  url: https://www.eu-startups.com/2026/09/swiss-italian-startup-ferm-labs-secures-e3-million-to-scale-its-bioprocessing-based-b2b-ingredient-platform/
-  source: eu-startups
-  date_found: '2026-09-14'
-  parsed_company: Swiss-Italian startup Ferm Labs
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Brussels-based Chift raises €10.5 million Series A to become Europe’s financial
-    connectivity layer
-  url: https://www.eu-startups.com/2026/09/brussels-based-chift-raises-e10-5-million-series-a-to-become-europes-financial-connectivity-layer/
-  source: eu-startups
-  date_found: '2026-09-14'
-  parsed_company: Brussels-based Chift
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: 'EXCLUSIVE: Switzerland’s Aeon acquires Aware Health as total Seed funding
-    surpasses €12 million'
-  url: https://www.eu-startups.com/2026/09/exclusive-switzerlands-aeon-acquires-aware-health-as-total-seed-funding-passes-e12-million/
-  source: eu-startups
-  date_found: '2026-09-14'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: Stockholm’s Tandem Health raises €86.5 million to build an AI-native operating
-    system for European healthcare
-  url: https://www.eu-startups.com/2026/09/stockholms-tandem-health-raises-e86-5-million-to-build-an-ai-native-operating-system-for-european-healthcare/
-  source: eu-startups
-  date_found: '2026-09-14'
-  parsed_company: Stockholm’s Tandem Health
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Priority Income Fund Announces Redemption of its 6.375% Series L Term Preferred
-    Stock Due 2029
-  url: https://www.globenewswire.com/news-release/2026/09/14/3361528/0/en/priority-income-fund-announces-redemption-of-its-6-375-series-l-term-preferred-stock-due-2029.html
-  source: globenewswire
-  date_found: '2026-09-14'
-  parsed_company: Priority Income Fund
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s
-    dominance
-  url: https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/
-  source: techcrunch
-  date_found: '2026-09-14'
-  parsed_company: AI infrastructure company Cornelis
-  parsed_amount: $205M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/14/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-14-2026/
-  source: alleywatch
-  date_found: '2026-09-14'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Swedish drone detection company Freya raises €533k to aid European rollout
-  url: https://www.eu-startups.com/2026/09/swedish-drone-detection-company-freya-raises-e533k-to-scale-team-and-aid-european-rollout/
-  source: eu-startups
-  date_found: '2026-09-14'
-  parsed_company: Swedish drone detection company Freya
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 9/14/26'
-  url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-14-26/
-  source: alleywatch
-  date_found: '2026-09-13'
   parsed_company: null
   parsed_amount: null
   parsed_round: null
