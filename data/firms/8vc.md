@@ -89,6 +89,7 @@ Based on 8VC's verified portfolio and public data:
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Wispr Flow | Series B (participated; $280M at $2B valuation; Menlo Ventures led; Notable Capital, NEA, Neo, MVP Ventures, Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital co-invested) | 2026-08-17 | AI / Voice / Productivity | Private [^8vc-wispr1][^8vc-wispr2][^8vc-wispr3] |
 | Anduril Industries | Series D ($450M) | 2021-06-17 | Defense Tech | Private [^3][^23][^24][^25] |
 | Palantir Technologies | Co-founded | 2003-05-06 | Defense/Enterprise | Public (PLTR) [^3][^45] |
 | Addepar | Co-founded | 2009 (Series A: 2010; Series B: 2011-06-15) | Fintech | Private [^3][^46] |
@@ -231,3 +232,9 @@ No independently sourced founder testimonials found.
 [^50]: SiliconANGLE, "African defense tech startup Terra Industries raises $52M," August 17, 2026. Accessed August 2026. https://siliconangle.com/2026/08/17/african-defense-tech-startup-terra-industries-raises-52m/ — Independent tier-1 tech press confirmation of 8VC-led $18M seed extension, $52M total seed, and 8VC/Silent Ventures/Nova Global participation.
 
 [^51]: Terra Industries newsroom, "Terra Industries Extends Seed Round to $52M and Opens London Office," August 2026. Accessed August 2026. https://www.terraindustries.co/newsroom/funding-52m-london — Company's own primary announcement confirming the $52M total seed, $18M extension, 8VC as lead investor for the extension, and London office opening.
+
+[^8vc-wispr1]: TechCrunch, "Wispr raises $280M at $2B valuation as it looks beyond dictation," August 17, 2026. Accessed September 2026. https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/ — Tier-1 tech press source confirming the $280M Series B at $2B valuation led by Menlo Ventures and 8VC's participation alongside Notable Capital, NEA, Neo, MVP Ventures, Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, and PLUS Capital.
+
+[^8vc-wispr2]: Wispr Flow blog, "Our Series B, and what it means for you," August 17, 2026. Accessed September 2026. https://wisprflow.ai/post/series-b — Primary company source announcing the Series B and naming 8VC as a participant.
+
+[^8vc-wispr3]: Fortune, "Wispr talks its way to a $2 billion valuation. The company says dictation's only the beginning," August 17, 2026. Accessed September 2026. https://fortune.com/2026/08/17/wispr-2-billion-valuation-dictations-only-the-beginning/ — Independent tier-1 business-press confirmation of the round and 8VC's participation.

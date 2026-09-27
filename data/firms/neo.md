@@ -94,6 +94,7 @@ Despite investing across many sectors, Neo does not publicly emphasize any secto
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Wispr Flow | Series B (participated; $280M at $2B valuation; Menlo Ventures led; Notable Capital, NEA, 8VC, MVP Ventures, Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital co-invested) | 2026-08-17 | AI / Voice / Productivity | Active | [^neo-wispr1][^neo-wispr2][^neo-wispr3] |
 | Anysphere (Cursor) | Seed | 2022 | AI / Developer Tools | Active | [^6][^12] |
 | Kalshi | Seed | 2019 | Fintech / Prediction Markets | Active | [^5][^15][^25] |
 | Bluesky | Seed ($8M; Neo led (Ali Partovi + Suzanne Xie); Bob Young, Joe Beda, Amjad Masad, Automattic, Protocol Labs participated) | 2023-07-05 | Social Media | Active | [^16][^28][^29] |
@@ -194,3 +195,9 @@ Note: The Trueba, Roselle, and Wu quotes are from Neo's own Substack announcemen
 [^neo-tfr-1]: BusinessWire (via Morningstar), "Transfyr Launches Physical AI Platform for Science with $25M Seed Funding," August 26, 2026. Accessed September 2026. https://www.morningstar.com/news/business-wire/20260826235022/transfyr-launches-physical-ai-platform-for-science-with-25m-seed-funding — Primary company newswire confirming Neo participated in Transfyr's $25M seed round on August 26, 2026 (General Catalyst led; Lux Capital, Breakout Ventures, Factory, SV Angel, MVP Ventures, Underscore VC, and Lyda Hill Philanthropies also participated); Cambridge, Massachusetts-based; co-founders Anna Marie Wagner and Renee Wegrzyn.
 [^neo-tfr-2]: Tech Startups, "Transfyr launches with $25M in funding to bring physical AI to scientific labs," August 26, 2026. Accessed September 2026. https://techstartups.com/2026/08/26/transfyr-launches-with-25m-in-funding-to-bring-physical-ai-to-scientific-labs/ — Independent tech press confirmation naming Neo as a participant in the General Catalyst-led $25M seed round announced August 26, 2026.
 [^neo-tfr-3]: FinSMEs, "Transfyr Bio Raises $25M in Seed Funding," August 2026. Accessed September 2026. https://www.finsmes.com/2026/08/transfyr-bio-raises-25m-in-seed-funding.html — Third independent trade press confirmation of Neo participation alongside General Catalyst (lead), Lux Capital, Breakout Ventures, Factory, SV Angel, MVP Ventures, Underscore VC, and Lyda Hill Philanthropies.
+
+[^neo-wispr1]: TechCrunch, "Wispr raises $280M at $2B valuation as it looks beyond dictation," August 17, 2026. Accessed September 2026. https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/ — Tier-1 tech press confirmation of the $280M Series B at $2B valuation led by Menlo Ventures, with Neo among the participating investors alongside Notable Capital, NEA, 8VC, MVP Ventures, Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, and PLUS Capital.
+
+[^neo-wispr2]: Wispr Flow blog, "Our Series B, and what it means for you," August 17, 2026. Accessed September 2026. https://wisprflow.ai/post/series-b — Primary company source confirming the Series B round and naming Neo among participating investors.
+
+[^neo-wispr3]: Fortune, "Wispr talks its way to a $2 billion valuation. The company says dictation's only the beginning," August 17, 2026. Accessed September 2026. https://fortune.com/2026/08/17/wispr-2-billion-valuation-dictations-only-the-beginning/ — Independent business-press confirmation of the $280M Series B at $2B valuation and Neo's participation.

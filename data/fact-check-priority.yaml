@@ -7345,14 +7345,29 @@ priority:
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Wispr Flow Series B row to neo.md portfolio table — 2026-08-17, $280M at $2B post-money valuation, led by Menlo Ventures with Neo participating alongside Notable Capital, NEA, 8VC, MVP Ventures, Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, and PLUS Capital. Added 3 named-footnote citations: [^neo-wispr1] TechCrunch (Aug 17, 2026), [^neo-wispr2] Wispr Flow blog "Our Series B, and what it means for you" (company primary source), [^neo-wispr3] Fortune (Aug 17, 2026). All 3 sources match the primary triad used to resolve the wispr.md startup profile and the menlo-ventures / notable-capital / nea entries in prior sweeps.
+  processed: '2026-09-26'
 - slug: 8vc
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Wispr Flow Series B row to 8vc.md portfolio table — 2026-08-17, $280M at $2B post-money valuation, led by Menlo Ventures with 8VC participating alongside Notable Capital, NEA, Neo, MVP Ventures, Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, and PLUS Capital. Added 3 named-footnote citations: [^8vc-wispr1] TechCrunch, [^8vc-wispr2] Wispr Flow blog, [^8vc-wispr3] Fortune — same primary triad already used across the Wispr Series B firm-profile chain.
+  processed: '2026-09-26'
 - slug: acrew-capital
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Wispr Flow Series B row to acrew-capital.md portfolio table — 2026-08-17, $280M at $2B post-money valuation, led by Menlo Ventures with Acrew participating (as a new investor per Menlo-Ventures resolution notes) alongside Notable Capital, NEA, Neo, 8VC, MVP Ventures, Activate, Forerunner, Goodwater, Peak XV, Together Fund, and PLUS Capital. Added 3 named-footnote citations: [^acr-wispr1] TechCrunch, [^acr-wispr2] Wispr Flow blog, [^acr-wispr3] Fortune — same primary triad already used across the Wispr Series B firm-profile chain.
+  processed: '2026-09-26'
 - slug: forerunner-ventures
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)

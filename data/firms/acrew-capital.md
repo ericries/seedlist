@@ -114,6 +114,7 @@ The following table includes investments made both through Acrew Capital funds (
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Wispr Flow | Series B (participated; $280M at $2B valuation; Menlo Ventures led; Notable Capital, NEA, Neo, 8VC, MVP Ventures, Activate, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital co-invested) | 2026-08-17 | AI / Voice / Productivity | Active | [^acr-wispr1][^acr-wispr2][^acr-wispr3] |
 | Aembit | Series A (led, $25M) | 2024-09-12 | Data & Security | Active | [^15] |
 | Aira | Series A ($13M, co-led) | 2021 | Data & Security / AI | Active | [^21][^22] |
 | Alix | Series A (led, $20M) | 2025-07-22 | Fintech / Estate Settlement | Active | [^23][^24] |
@@ -308,3 +309,9 @@ Note: The above testimonials are sourced from the Acrew Capital website, which r
 [^53]: "Horizon3 Raises $250M Series E at $2B+ Valuation to Lead the 'AI vs. AI' Cybersecurity Era," Horizon3.ai press release, August 3, 2026. Accessed August 2026. https://horizon3.ai/news/press-release/horizon3-raises-250m-series-e-at-2b-valuation-to-lead-the-ai-vs-ai-cybersecurity-era/ — Names Acrew Capital as a new investor participating in the $250M Series E co-led by NightDragon and NEA at $2B+ valuation.
 
 [^54]: "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate," TechCrunch, August 3, 2026. Accessed August 2026. https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/ — Independent TechCrunch confirmation of the $250M Series E, valuation, co-leads, and new investor list including Acrew Capital.
+
+[^acr-wispr1]: TechCrunch, "Wispr raises $280M at $2B valuation as it looks beyond dictation," August 17, 2026. Accessed September 2026. https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/ — Tier-1 tech press source confirming Wispr's $280M Series B at $2B valuation led by Menlo Ventures, with Acrew among the participating investors alongside Notable Capital, NEA, Neo, 8VC, MVP Ventures, Activate, Forerunner, Goodwater, Peak XV, Together Fund, and PLUS Capital.
+
+[^acr-wispr2]: Wispr Flow blog, "Our Series B, and what it means for you," August 17, 2026. Accessed September 2026. https://wisprflow.ai/post/series-b — Primary company source announcing the Series B and naming Acrew as a participant.
+
+[^acr-wispr3]: Fortune, "Wispr talks its way to a $2 billion valuation. The company says dictation's only the beginning," August 17, 2026. Accessed September 2026. https://fortune.com/2026/08/17/wispr-2-billion-valuation-dictations-only-the-beginning/ — Independent tier-1 business-press confirmation of the round and Acrew's participation.
