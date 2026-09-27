@@ -31,7 +31,7 @@ team:
     role: Board Partner & Go-to-Market Advisor
     slug: whitney-bouck
 status: published
-last_researched: 2026-04-01
+last_researched: 2026-09-26
 ---
 
 ## About
@@ -101,6 +101,7 @@ Based on verified sources, the following represents Uncork Capital's portfolio. 
 | Groq | Early | 2025 | AI Compute | Acquired | [^1] |
 | GPTZero | Seed | 2023 | AI | Early | [^1][^22] |
 | Numeral | Seed | 2023 | Fintech / Tax | Early | [^1] |
+| Numeral | Series C (participant; Insight Partners led $100M; Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator co-invested; Uncork continued from seed) | 2026-09-23 | Fintech / Tax Automation / AI | Active | [^unc-num1][^unc-num2][^unc-num3] |
 | Ivo | Seed | 2023 | AI / Legal | Early | [^1] |
 | Inertia | Series A | 2026-02-11 | Energy / Fusion | Early | [^1][^24] |
 | Knit Health | Seed (co-led, $11.6M) | 2026-05-12 | Healthcare / Clinical AI | Early | [^23] |
@@ -173,3 +174,9 @@ No additional independently sourced founder testimonials found beyond company pr
 [^24]: GlobeNewsWire, "Inertia raises $450 million to commercialize the only proven fusion science," February 11, 2026. Accessed May 2026. https://www.globenewswire.com/news-release/2026/02/11/3236274/0/en/Inertia-raises-450-million-to-commercialize-the-only-proven-fusion-science.html — $450M Series A announced February 11, 2026, led by Bessemer Venture Partners; Uncork Capital among the participants alongside GV, Modern Capital, Threshold Ventures, and others. Founded by Jeff Lawson (Twilio co-founder) with Annie Kritcher and Mike Dunne.
 
 [^uncork-epsilon]: Pulse 2.0, "Epsilon Health Raises $27.6 Million To Scale AI-Native Radiology Practice," September 11, 2026. Accessed September 2026. https://pulse2.com/epsilon-health-raises-27-6-million-to-scale-ai-native-radiology-practice/ — Primary press confirms Uncork Capital among named participants in Epsilon Health's $27.6M round on September 11, 2026, led by AlleyCorp (Dr. Alexi Nazem quoted); Renegade Partners, SemperVirens, and Jack Altman (via Alt Capital) also participated. Founder/CEO Rustin Rassoli.
+
+[^unc-num1]: "Numeral Raises $100 Million Series C to Expand AI-Powered Tax Compliance Across Industries," Numeral company blog, September 23, 2026. Accessed September 26, 2026. https://www.numeral.com/blog/series-c — Primary company source confirming Insight Partners led the $100M Series C on 2026-09-23 with Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator, and Uncork participating; carries verbatim CEO Sam Ross quote and confirms Uncork's continuing participation from the earlier seed.
+
+[^unc-num2]: "The Week's 10 Biggest Funding Rounds: Cybersecurity, AI And Health Lead With Island And Cyera Bringing In Massive Deals," Crunchbase News, September 26, 2026. Accessed September 26, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/ — Trade press summary naming Numeral's $100M Series C as Insight Partners-led with Uncork among participants.
+
+[^unc-num3]: "Automating the Sales Tax Back Office," Salesforce Ventures perspectives, September 2026. Accessed September 26, 2026. https://www.salesforceventures.com/perspectives/automating-the-sales-tax-back-office — Co-investor primary source describing Salesforce Ventures' participation in the Numeral Series C alongside Insight Partners; confirms Numeral's founders Sam Ross (CEO) and Matt Duvall (CTO).

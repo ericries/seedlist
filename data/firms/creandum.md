@@ -2,7 +2,7 @@
 founded: 2003
 tldr: "Creandum is a European early-stage firm founded in Stockholm in 2003 by Staffan Helgesson, with offices in Berlin, London, and San Francisco and ~€1.6B raised across seven funds (~$2.2B AUM). It leads seed and Series A rounds across SaaS, fintech, AI, consumer, healthcare, and climate, backing 170+ companies with roughly 24 unicorns. Notable exits include Spotify, iZettle, Depop, and Small Giant Games."
 fund_size: €500M (Fund VII, 2024); ~€1.6B total raised across seven funds
-last_researched: 2026-09-16
+last_researched: 2026-09-26
 location: Stockholm, Sweden
 name: Creandum
 sector_focus:
@@ -155,6 +155,7 @@ The following table represents a subset of Creandum's 170+ investments. This cov
 | EquiLibre Technologies | Series A (led; €438M / $500M valuation, amount undisclosed) | 2026-07-01 | AI/Quantitative Trading/Reinforcement Learning | Active | [^35][^36][^37] |
 | Passionfroot | Series A ($15M; Insight Partners led; Creandum, Supernode Global, s16vc participated) | 2026-07-22 | Creator Economy / B2B Marketplace / AI | Active | [^pfr-c1][^pfr-c2][^pfr-c3] |
 | Jack & Jill | Series A (€34.68M / $40M; Air Street Capital led; Creandum participated as existing backer alongside Madrona, Antler, Ada Ventures, Entrepreneurs First, Expedite Capital, Repeat.vc, Dig Ventures, Firedrop, Episode 1, Playfair) | 2026-09-15 | AI / HR Tech / Recruiting Agents | Active | [^jj-c1][^jj-c2][^jj-c3] |
+| Rillet | Series C ($100M; ICONIQ led; Sequoia, Andreessen Horowitz, Sequoia Global Equities, Bain Capital Ventures, Oak HC/FT, Battery Ventures, FirstMark, Scale Venture Partners, Creandum participated) | 2026-08-19 | AI / Fintech / ERP / Accounting | Active — $1B valuation; $200M+ total raised | [^rlt-c1][^rlt-c2][^rlt-c3] |
 
 ## In Their Own Words
 
@@ -291,3 +292,9 @@ No independently sourced founder testimonials found. Creandum's reputation among
 [^packfleet-c2]: Retail Technology Innovation Hub, "Packfleet bags $10 million in Series A funding, co-led by General Catalyst and Voyager Ventures," March 12, 2024. Accessed September 2026. https://retailtechinnovationhub.com/home/2024/3/12/packfleet-bags-10-million-in-series-a-funding-co-led-by-general-catalyst-and-voyager-ventures — Independent trade-press confirmation with named co-leads Juliet Bailin (General Catalyst) and Sarah Sclarsic (Voyager Ventures Founding Partner).
 
 [^packfleet-c3]: Reuters, "UK electric vehicle delivery company Packfleet raises $10 mln," March 11, 2024. Accessed September 2026. https://www.reuters.com/business/autos-transportation/ — Primary Anglo-financial press confirmation of $10M Series A closing on 2024-03-11; note company was later acquired by DHL in March 2025.
+
+[^rlt-c1]: TechCrunch, "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth," August 19, 2026. Accessed September 2026. https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/ — Tier-1 tech press confirmation of Rillet's $100M Series C on 2026-08-19 at $1B valuation, led by ICONIQ with Creandum among the participants alongside Sequoia, a16z, Sequoia Global Equities, Bain Capital Ventures, Oak HC/FT, Battery Ventures, FirstMark, and Scale Venture Partners.
+
+[^rlt-c2]: Rillet blog, "Rillet Raises $100M Series C at $1B Valuation," August 19, 2026. Accessed September 2026. https://www.rillet.com/blog/100m-series-c — Primary company source naming Creandum as one of the participating investors and confirming total capital raised now exceeds $200M.
+
+[^rlt-c3]: Fortune, "Accounting AI startup Rillet reaches unicorn status with $1 billion valuation. Its founder says he wants to give CFOs back their weekends," August 18, 2026. Accessed September 2026. https://fortune.com/2026/08/18/rillet-unicorn-1-billion-valuation-series-c-nicolas-kopp-accounting-ai/ — Independent tier-1 business press confirming ICONIQ lead, $1B valuation, Creandum participation, and Nicolas Kopp (ex-N26 US CEO) as founder/CEO.

@@ -34,6 +34,11 @@ priority:
   reason: |
     Round monitoring 2026-09-26: participated in Numeral Series C $100M (2026-09-23).
   added: 2026-09-26
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Numeral Series C row to uncork-capital.md portfolio table — 2026-09-23, $100M led by Insight Partners with Uncork participating from the earlier seed alongside Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, and Y Combinator. Added 3 named-footnote citations: [^unc-num1] Numeral company blog Series C post (verbatim CEO Sam Ross quote), [^unc-num2] Crunchbase News weekly biggest rounds, [^unc-num3] Salesforce Ventures perspectives blog (co-investor primary source). All 3 sources are the same primary triad already used on the numeral.md startup profile and on insight-partners / benchmark / mayfield-fund rows.
+  processed: '2026-09-26'
 - slug: thrive-capital
   type: firm
   reason: |
@@ -7407,6 +7412,11 @@ priority:
   type: firm
   reason: appeared in Wispr Series B (2026-08-17)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Wispr Series B row to forerunner-ventures.md portfolio table — 2026-08-17, $280M at $2B valuation, led by Menlo Ventures with Forerunner among the participating investors alongside Notable Capital, NEA, Neo, 8VC, MVP Ventures, Acrew, Activate, Goodwater, Peak XV, Together Fund, and PLUS Capital; brings Wispr total raised to $361M; company previewed proprietary Canto speech-recognition model. Added 3 named-footnote citations: [^fv-wispr1] TechCrunch, [^fv-wispr2] Wispr Flow blog (primary company source), [^fv-wispr3] Fortune — same primary triad already used across the Wispr Series B firm-profile chain (acrew-capital, menlo-ventures).
+  processed: '2026-09-26'
 - slug: iconiq-growth
   type: firm
   reason: appeared in Rillet Series C (2026-08-19)
@@ -7436,6 +7446,11 @@ priority:
   type: firm
   reason: appeared in Rillet Series C (2026-08-19)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Rillet Series C row to creandum.md portfolio table — 2026-08-19, $100M at $1B valuation, led by ICONIQ with Creandum among the participating investors alongside Sequoia, Andreessen Horowitz, Sequoia Global Equities, Bain Capital Ventures, Oak HC/FT, Battery Ventures, FirstMark, and Scale Venture Partners; brings Rillet total raised to $200M+. Added 3 named-footnote citations: [^rlt-c1] TechCrunch, [^rlt-c2] Rillet company blog (primary), [^rlt-c3] Fortune — same primary triad already used across the Rillet Series C chain (iconiq-growth, sequoia-capital).
+  processed: '2026-09-26'
 - slug: bessemer-venture-partners
   type: firm
   reason: appeared in Rundoo Series B (2026-08-19)

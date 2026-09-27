@@ -3,7 +3,7 @@ founded: 2012
 tldr: "Forerunner Ventures is a San Francisco consumer-focused firm founded by Kirsten Green in 2012, with nearly $3B AUM across seven flagship funds and one of the first women-led firms to surpass $2B. It writes $1-20M seed and Series A checks at the intersection of invention and culture, evolving from D2C brands toward AI-enabled consumer platforms. Notable investments include Dollar Shave Club, Warby Parker, Bonobos, Glossier, Hims & Hers, Chime, and Faire."
 fund_size: '$3B total AUM across 7+ funds (Fund VII: $500M, Fund VI: $1B across two
   vehicles)'
-last_researched: 2026-04-30
+last_researched: 2026-09-26
 location: San Francisco, CA
 name: Forerunner Ventures
 sector_focus:
@@ -107,6 +107,7 @@ Based on 80+ verified investments from the firm's portfolio page, the following 
 | Wonder | Growth | ~2022 | Consumer/Food | [^1] |
 | Town | Series A | 2026-06-03 | AI/Consumer | $55M co-led with a16z [^9][^10] |
 | Natural | Series A (led by Kirsten Green) | 2026-07-20 | Fintech/AI Agent Payments | $30M Series A [^natural-a][^natural-b][^natural-c] |
+| Wispr | Series B (participant; Menlo Ventures led $280M at $2B valuation; Notable Capital, NEA, Neo, 8VC, MVP Ventures, Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital co-invested) | 2026-08-17 | AI / Voice / Productivity | Active — brings total raised to $361M; company previewed proprietary Canto speech model [^fv-wispr1][^fv-wispr2][^fv-wispr3] |
 
 *This table represents approximately 14% of 161 known investments. Many early-stage investments are not individually documented in press sources.*
 
@@ -149,3 +150,9 @@ No independently sourced founder testimonials found from third-party sources. Fo
 [^natural-b]: TechCrunch, "Natural raises $30M to reinvent payments for AI agents — and take on Stripe," July 20, 2026. Accessed July 24, 2026. https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/ — Independent primary press confirming Forerunner (Kirsten Green, founder/managing partner) as lead investor; company was 193 days old at round; $40M total funding to date; founders Kahlil Lalji (CEO), Eric Wang, Walt Leung.
 
 [^natural-c]: Fintech Global, "Natural raises $30m to power payments for AI agents," July 21, 2026. Accessed July 24, 2026. https://fintech.global/2026/07/21/natural-raises-30m-to-power-payments-for-ai-agents/ — Third-party trade press confirming Forerunner-led $30M Series A.
+
+[^fv-wispr1]: TechCrunch, "Wispr raises $280M at $2B valuation as it looks beyond dictation," August 17, 2026. Accessed September 2026. https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/ — Tier-1 tech press source confirming Wispr's $280M Series B at $2B valuation led by Menlo Ventures, with Forerunner among the participating investors alongside Notable Capital, NEA, Neo, 8VC, Acrew, MVP Ventures, Activate, Goodwater, Peak XV, Together Fund, and PLUS Capital.
+
+[^fv-wispr2]: Wispr Flow blog, "Our Series B, and what it means for you," August 17, 2026. Accessed September 2026. https://wisprflow.ai/post/series-b — Primary company source announcing the Series B and naming Forerunner as a participant; confirms $361M total raised and previews proprietary Canto speech-recognition model.
+
+[^fv-wispr3]: Fortune, "Wispr talks its way to a $2 billion valuation. The company says dictation's only the beginning," August 17, 2026. Accessed September 2026. https://fortune.com/2026/08/17/wispr-2-billion-valuation-dictations-only-the-beginning/ — Independent tier-1 business-press confirmation of the round and Forerunner's participation.
