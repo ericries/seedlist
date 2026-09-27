@@ -111,6 +111,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Numeral | Series C (led, $100M; Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator, Uncork participated; CEO Sam Ross, CTO Matt Duvall) | 2026-09-23 | SaaS / Fintech / Tax Automation / AI | Active | [^ip-num1][^ip-num2][^ip-num3] |
 | SentinelOne | Series D | 2019 | Cybersecurity | Active (Public) | [^10] |
 | Wix | Series D | 2011 | Website Builder | Active (Public) | [^14] |
 | Twitter | Series D ($100M, participated; new investor alongside T. Rowe Price and Morgan Stanley) | 2009-09-25 | Social Media | Acquired (Musk, 2022) | [^15][^52][^53] |
@@ -312,3 +313,9 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^snk1]: Alex Ratner, "Data 2.0 and the research era of AI data," Snorkel AI blog, September 22, 2026. Accessed September 22, 2026. https://snorkel.ai/blog/data-2-0-and-the-research-era-of-ai-data/ — Company's own announcement confirming $350M Series E at $3.5B valuation co-led by Insight Partners and S32 with Third Point, March, Blumberg, Allegis, Standard VC, Frontline new; Addition, Lightspeed, Greylock, GV, P7, Wells Fargo, Walden Catalyst, Factory existing.
 [^snk2]: Marina Temkin, "Snorkel AI triples valuation to $3.5B as demand for AI training data booms," TechCrunch, September 22, 2026. Accessed September 22, 2026. https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/ — Independent tier-1 press confirming Insight Partners and S32 co-led $350M Series E at $3.5B valuation.
 [^snk3]: Maria Deutscher, "Training data provider Snorkel AI raises $350M at $3.5B valuation," SiliconAngle, September 22, 2026. Accessed September 22, 2026. https://siliconangle.com/2026/09/22/training-data-provider-snorkel-ai-raises-350m-at-3-5b-valuation/ — Independent tier-1 press confirming $350M Series E at $3.5B valuation and $375M annualized revenue run rate.
+
+[^ip-num1]: "Numeral Raises $100 Million Series C to Expand AI-Powered Tax Compliance Across Industries," Numeral company blog, September 23, 2026. Accessed September 26, 2026. https://www.numeral.com/blog/series-c — Primary company source confirming Insight Partners as lead investor of the $100M Series C with Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator, and Uncork participating; carries verbatim CEO Sam Ross quote.
+
+[^ip-num2]: "The Week's 10 Biggest Funding Rounds: Cybersecurity, AI And Health Lead With Island And Cyera Bringing In Massive Deals," Crunchbase News, September 26, 2026. Accessed September 26, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/ — Trade press summary naming Numeral's $100M Series C as Insight Partners-led.
+
+[^ip-num3]: "Automating the Sales Tax Back Office," Salesforce Ventures perspectives, September 2026. Accessed September 26, 2026. https://www.salesforceventures.com/perspectives/automating-the-sales-tax-back-office — Co-investor primary source describing Salesforce Ventures' participation in the Series C alongside Insight Partners and confirming Numeral's founders Sam Ross (CEO) and Matt Duvall (CTO).

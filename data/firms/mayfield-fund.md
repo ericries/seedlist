@@ -83,6 +83,7 @@ Based on 60 verified current and milestone portfolio companies from Mayfield's o
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Numeral | Series C (participated; $100M led by Insight Partners; Salesforce Ventures, Geodesic, Benchmark, FCVC, Y Combinator, Uncork also participated; CEO Sam Ross, CTO Matt Duvall) | 2026-09-23 | SaaS / Fintech / Tax Automation / AI | Active | [^may-num1][^may-num2][^may-num3] |
 | DevRev | Seed | 2022 | AI/Enterprise | Active (Unicorn) | [^4] |
 | Securiti | Seed | 2018 | AI/Security | Acquired ($1.725B) | [^2][^12] |
 | HashiCorp | Series A | 2014 | Enterprise Infrastructure | IPO | [^7][^10] |
@@ -190,3 +191,9 @@ No additional independently sourced founder testimonials found beyond firm marke
 [^32]: VentureBurn, "Bespoke Labs Raises $40M in Funding To Train Reliable Agents," July 6, 2026. Accessed July 2026. https://ventureburn.com/bespoke-labs-raises-40m-ai-agent-training/ — $40M combined Seed + Series A announcement; Series A led by Wing VC, Seed led by 8VC, Mayfield and The House Fund participating.
 
 [^33]: Bespoke Labs company announcement on LinkedIn, July 6, 2026. Accessed July 2026. https://www.linkedin.com/company/bespokelabsai — Company-channel confirmation of Wing VC, 8VC, Mayfield, and The House Fund as institutional investors.
+
+[^may-num1]: "Numeral Raises $100 Million Series C to Expand AI-Powered Tax Compliance Across Industries," Numeral company blog, September 23, 2026. Accessed September 26, 2026. https://www.numeral.com/blog/series-c — Primary company source confirming Mayfield's participation in the Insight Partners-led $100M Series C alongside Salesforce Ventures, Geodesic, Benchmark, FCVC, Y Combinator, and Uncork.
+
+[^may-num2]: "The Week's 10 Biggest Funding Rounds: Cybersecurity, AI And Health Lead With Island And Cyera Bringing In Massive Deals," Crunchbase News, September 26, 2026. Accessed September 26, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/ — Trade press summary naming Numeral's $100M Series C as Insight Partners-led.
+
+[^may-num3]: "Automating the Sales Tax Back Office," Salesforce Ventures perspectives, September 2026. Accessed September 26, 2026. https://www.salesforceventures.com/perspectives/automating-the-sales-tax-back-office — Co-investor primary source confirming Numeral's Series C and founders Sam Ross (CEO) and Matt Duvall (CTO).

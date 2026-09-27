@@ -164,6 +164,7 @@ The following table includes 45 Benchmark investments verified through press cov
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Numeral | Series C (participated; $100M led by Insight Partners; Salesforce Ventures, Geodesic, Mayfield, FCVC, Y Combinator, Uncork also participated; CEO Sam Ross, CTO Matt Duvall) | 2026-09-23 | SaaS / Fintech / Tax Automation / AI | Private [^bmk-num1][^bmk-num2][^bmk-num3] |
 | eBay | Series A | 1997 | Marketplace | Public (IPO 1998) [^4] |
 | Ariba | Early | ~1996 | Enterprise | Public (acquired by SAP 2012) [^2] |
 | Red Hat | Early | ~1999 | Open Source / Enterprise | Acquired by IBM (2019) [^1] |
@@ -383,3 +384,9 @@ The following table includes 45 Benchmark investments verified through press cov
 [^57]: BusinessWire, "Decade Raises $85M in Latin America's Largest Seed Round to Create a New Generation of Millionaires with AI," August 4, 2026. Accessed August 2026. https://www.businesswire.com/news/home/20260804082552/en/Decade-Raises-$85M-in-Latin-Americas-Largest-Seed-Round-to-Create-a-New-Generation-of-Millionaires-with-AI — Decade (São Paulo, Brazil) emerged from stealth Aug 4, 2026 with $85M seed. Backers: Greenoaks, Benchmark, Diffusion. Founded by former Nubank CTO Vitor Olivier and Hyperplane founder Felipe Meneses.
 [^58]: LatamList, "Decade raises $85M seed round to launch AI-powered wealth advisory platform," August 4, 2026. Accessed August 2026. https://latamlist.com/decade-raises-85m-seed-round-to-launch-ai-powered-wealth-advisory-platform/ — Independent Latin America tech press confirming Decade's $85M seed led by Greenoaks, Benchmark, and Diffusion, described as the largest seed round ever raised for a Latin American startup.
 [^59]: The Next Web, "Ex-Nubank team raises $85m for Decade, an AI wealth adviser promising 'a generation of millionaires'," August 4, 2026. Accessed August 2026. https://thenextweb.com/news/decade-85m-seed-ai-wealth-brazil-nubank — Third independent tier-1 tech press confirmation of Benchmark's co-lead role in the $85M Decade seed, including Neil Mehta (Greenoaks) and Felipe Meneses (Decade co-founder) quotes.
+
+[^bmk-num1]: "Numeral Raises $100 Million Series C to Expand AI-Powered Tax Compliance Across Industries," Numeral company blog, September 23, 2026. Accessed September 26, 2026. https://www.numeral.com/blog/series-c — Primary company source confirming Benchmark's participation in the Insight Partners-led $100M Series C alongside Salesforce Ventures, Geodesic, Mayfield, FCVC, Y Combinator, and Uncork; carries verbatim CEO Sam Ross quote.
+
+[^bmk-num2]: "The Week's 10 Biggest Funding Rounds: Cybersecurity, AI And Health Lead With Island And Cyera Bringing In Massive Deals," Crunchbase News, September 26, 2026. Accessed September 26, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/ — Trade press summary naming Numeral's $100M Series C as Insight Partners-led.
+
+[^bmk-num3]: "Automating the Sales Tax Back Office," Salesforce Ventures perspectives, September 2026. Accessed September 26, 2026. https://www.salesforceventures.com/perspectives/automating-the-sales-tax-back-office — Co-investor primary source confirming Numeral's Series C and founders Sam Ross (CEO) and Matt Duvall (CTO).

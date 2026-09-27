@@ -4,16 +4,31 @@ priority:
   reason: |
     Round monitoring 2026-09-26: led Numeral Series C $100M (2026-09-23).
   added: 2026-09-26
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Numeral Series C row to insight-partners.md portfolio table — 2026-09-23, $100M led by Insight Partners with Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator, and Uncork participating. Founders confirmed as Sam Ross (CEO) and Matt Duvall (CTO). Added 3 named-footnote citations: [^ip-num1] Numeral company blog Series C post (verbatim CEO Sam Ross quote), [^ip-num2] Crunchbase News weekly biggest rounds, [^ip-num3] Salesforce Ventures perspectives blog (co-investor primary source). All 3 sources are the same primary triad already used on the numeral.md startup profile.
+  processed: '2026-09-26'
 - slug: benchmark
   type: firm
   reason: |
     Round monitoring 2026-09-26: participated in Numeral Series C $100M (2026-09-23).
   added: 2026-09-26
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Numeral Series C row to benchmark.md portfolio table — 2026-09-23, $100M led by Insight Partners with Benchmark participating alongside Salesforce Ventures, Geodesic, Mayfield, FCVC, Y Combinator, and Uncork. Added 3 named-footnote citations: [^bmk-num1] Numeral company blog, [^bmk-num2] Crunchbase News weekly, [^bmk-num3] Salesforce Ventures perspectives — same primary triad used across the Numeral chain.
+  processed: '2026-09-26'
 - slug: mayfield-fund
   type: firm
   reason: |
     Round monitoring 2026-09-26: participated in Numeral Series C $100M (2026-09-23).
   added: 2026-09-26
+  status: resolved
+  resolved: '2026-09-26'
+  resolution_note: |
+    Fact-spec sweep 2026-09-26: added Numeral Series C row to mayfield-fund.md portfolio table — 2026-09-23, $100M led by Insight Partners with Mayfield participating alongside Salesforce Ventures, Geodesic, Benchmark, FCVC, Y Combinator, and Uncork. Added 3 named-footnote citations: [^may-num1] Numeral company blog, [^may-num2] Crunchbase News weekly, [^may-num3] Salesforce Ventures perspectives — same primary triad used across the Numeral chain.
+  processed: '2026-09-26'
 - slug: uncork-capital
   type: firm
   reason: |
