@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The Weekly Notable Startup Funding Report: 9/28/26'
+  url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-28-26/
+  source: alleywatch
+  date_found: '2026-09-27'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take
     The Lead'
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/
