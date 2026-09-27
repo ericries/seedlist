@@ -78,14 +78,6 @@ pending_rounds:
   parsed_amount: $20M
   parsed_round: null
   status: pending
-- title: Dextr AI raised $6.7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-25'
-  parsed_company: Dextr AI
-  parsed_amount: $6.7M
-  parsed_round: Seed
-  status: pending
 - title: skills raised $6M
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
