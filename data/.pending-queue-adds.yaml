@@ -1,663 +1,682 @@
-- name: Toyota Ventures
-  type: firm
-  source: co-investor on Xona Space Systems Series B 2025-06-26 with Craft Ventures
-  discovered_from: xona-space-systems
+- discovered_from: xona-space-systems
+  name: Toyota Ventures
   priority: normal
-- name: Seraphim Space
+  source: co-investor on Xona Space Systems Series B 2025-06-26 with Craft Ventures
   type: firm
+- discovered_from: xona-space-systems
+  name: Seraphim Space
+  priority: normal
   source: co-investor on Xona Space Systems Series B 2025-06-26 (also participated
     in 2020 Pre-Seed) with Craft Ventures
-  discovered_from: xona-space-systems
-  priority: normal
-- name: NGP Capital
   type: firm
+- discovered_from: xona-space-systems
+  name: NGP Capital
+  priority: normal
   source: co-investor on Xona Space Systems Series B 2025-06-26 with Craft Ventures;
     published thesis post 2026-09-02
-  discovered_from: xona-space-systems
-  priority: normal
-- name: Snowpoint Ventures
   type: firm
+- discovered_from: valar-atomics
+  name: Snowpoint Ventures
+  priority: normal
   source: lead investor on Valar Atomics Series A 2025-11 ($130M); Doug Philippone
     is founder
-  discovered_from: valar-atomics
-  priority: normal
-- name: Doug Philippone
-  type: individual
+  type: firm
+- discovered_from: valar-atomics
   firm: Snowpoint Ventures
-  source: led Valar Atomics Series A 2025-11 ($130M); founder of Snowpoint Ventures
-  discovered_from: valar-atomics
+  name: Doug Philippone
   priority: high
-- name: Isaiah Taylor
+  source: led Valar Atomics Series A 2025-11 ($130M); founder of Snowpoint Ventures
   type: individual
+- discovered_from: valar-atomics
   firm: Valar Atomics
+  name: Isaiah Taylor
+  priority: low
   source: CEO & Founder of Valar Atomics; not an investor per se — profile as founder
     if founder profiles are added
-  discovered_from: valar-atomics
-  priority: low
-- name: ICONIQ Capital
-  type: firm
-  source: co-investor on David $250M Series B 2026-09-02
-  discovered_from: david-protein
+  type: individual
+- discovered_from: david-protein
+  name: ICONIQ Capital
   priority: normal
-- name: Imaginary Ventures
-  type: firm
   source: co-investor on David $250M Series B 2026-09-02
-  discovered_from: david-protein
-  priority: normal
-- name: Morgan Health
   type: firm
+- discovered_from: david-protein
+  name: Imaginary Ventures
+  priority: normal
+  source: co-investor on David $250M Series B 2026-09-02
+  type: firm
+- discovered_from: thyme-care
+  name: Morgan Health
+  priority: high
   source: lead investor on Thyme Care Series E 2026-09-04 ($125M); JPMorgan Chase
     healthcare investment arm
-  discovered_from: thyme-care
-  priority: high
-- name: CVS Health Ventures
   type: firm
-  source: co-investor on Thyme Care Series E 2026-09-04
-  discovered_from: thyme-care
+- discovered_from: thyme-care
+  name: CVS Health Ventures
   priority: normal
-- name: Humana
-  type: firm
   source: co-investor on Thyme Care Series E 2026-09-04
-  discovered_from: thyme-care
-  priority: normal
-- name: Jane Street Capital
   type: firm
+- discovered_from: thyme-care
+  name: Humana
+  priority: normal
+  source: co-investor on Thyme Care Series E 2026-09-04
+  type: firm
+- discovered_from: fluidstack
+  name: Jane Street Capital
+  priority: normal
   source: lead investor on Fluidstack $1.5B private equity round 2026-09-04
-  discovered_from: fluidstack
-  priority: normal
-- name: Peter Rahal
-  type: individual
+  type: firm
+- discovered_from: david-protein
   firm: David / RXBAR
+  name: Peter Rahal
+  priority: high
   source: co-founder of David; participated in David $250M Series B 2026-09-02 as
     investor; RXBAR co-founder
-  discovered_from: david-protein
-  priority: high
-- name: FTV Capital
-  type: firm
+  type: individual
+- discovered_from: tabapay
+  name: FTV Capital
+  priority: normal
   source: led TabaPay $155M strategic growth financing 2026-09-02
-  discovered_from: tabapay
-  priority: normal
-- name: Silverton Partners
   type: firm
+- discovered_from: bluecore-energy
+  name: Silverton Partners
+  priority: high
   source: led Bluecore Energy $50M Seed 2026-09-08
-  discovered_from: bluecore-energy
-  priority: high
-- name: Slauson & Co.
   type: firm
+- discovered_from: bluecore-energy
+  name: Slauson & Co.
+  priority: normal
   source: co-investor on Bluecore Energy $50M Seed 2026-09-08; led Pre-Seed 2026-07-21
-  discovered_from: bluecore-energy
-  priority: normal
-- name: Collab Capital
   type: firm
+- discovered_from: bluecore-energy
+  name: Collab Capital
+  priority: normal
   source: co-investor on Bluecore Energy $50M Seed 2026-09-08
-  discovered_from: bluecore-energy
-  priority: normal
-- name: HartBeat Ventures
   type: firm
+- discovered_from: bluecore-energy
+  name: HartBeat Ventures
+  priority: normal
   source: co-investor on Bluecore Energy $50M Seed 2026-09-08 (Kevin Hart)
-  discovered_from: bluecore-energy
-  priority: normal
-- name: Harlem Capital
   type: firm
+- discovered_from: bluecore-energy
+  name: Harlem Capital
+  priority: normal
   source: co-investor on Bluecore Energy $50M Seed 2026-09-08 and Pre-Seed 2026-07-21
-  discovered_from: bluecore-energy
-  priority: normal
-- name: Nimble Ventures
   type: firm
-  source: led CloudNC $20M Series B extension 2026-09-08
-  discovered_from: cloudnc
+- discovered_from: cloudnc
+  name: Nimble Ventures
   priority: high
-- name: Calculus Venture Capital
+  source: led CloudNC $20M Series B extension 2026-09-08
   type: firm
-  source: co-investor on CloudNC $20M Series B extension 2026-09-08
-  discovered_from: cloudnc
+- discovered_from: cloudnc
+  name: Calculus Venture Capital
   priority: normal
-- name: Entrepreneurs First
-  type: firm
   source: co-investor on CloudNC $20M Series B extension 2026-09-08
-  discovered_from: cloudnc
-  priority: normal
-- name: LM Capital
   type: firm
+- discovered_from: cloudnc
+  name: Entrepreneurs First
+  priority: normal
+  source: co-investor on CloudNC $20M Series B extension 2026-09-08
+  type: firm
+- discovered_from: cloudnc
+  name: LM Capital
+  priority: normal
   source: Lockheed Martin's venture arm; co-investor on CloudNC $20M Series B extension
     2026-09-08
-  discovered_from: cloudnc
-  priority: normal
-- name: Theo Saville
-  type: individual
-  firm: CloudNC
-  source: Co-Founder & CEO of CloudNC
-  discovered_from: cloudnc
-  priority: low
-- name: Kofi Asante
-  type: individual
-  firm: Bluecore Energy
-  source: Founder & CEO of Bluecore Energy; former Uber Freight
-  discovered_from: bluecore-energy
-  priority: low
-- name: Medical Excellence Capital
   type: firm
+- discovered_from: cloudnc
+  firm: CloudNC
+  name: Theo Saville
+  priority: low
+  source: Co-Founder & CEO of CloudNC
+  type: individual
+- discovered_from: bluecore-energy
+  firm: Bluecore Energy
+  name: Kofi Asante
+  priority: low
+  source: Founder & CEO of Bluecore Energy; former Uber Freight
+  type: individual
+- discovered_from: twostep-therapeutics
+  name: Medical Excellence Capital
+  priority: high
   source: co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M) alongside
     Insight Partners; John Prufeta on TwoStep board
-  discovered_from: twostep-therapeutics
-  priority: high
-- name: BVF Partners
   type: firm
+- discovered_from: superluminal-medicines
+  name: BVF Partners
+  priority: high
   source: lead investor on Superluminal Medicines Series B 2026-09-05 ($60M); life
     sciences fund
-  discovered_from: superluminal-medicines
-  priority: high
-- name: M Ventures
   type: firm
+- discovered_from: twostep-therapeutics
+  name: M Ventures
+  priority: high
   source: co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M); Merck
     KGaA corporate venture arm; Oliver Lyth on TwoStep board
-  discovered_from: twostep-therapeutics
-  priority: high
-- name: Pfizer Ventures
   type: firm
+- discovered_from: twostep-therapeutics
+  name: Pfizer Ventures
+  priority: normal
   source: co-lead investor on TwoStep Therapeutics Series A 2026-09-09 ($62.5M); Rana
     Al-Hallaq on TwoStep board
-  discovered_from: twostep-therapeutics
-  priority: normal
-- name: 2048 Ventures
   type: firm
+- discovered_from: twostep-therapeutics
+  name: 2048 Ventures
+  priority: normal
   source: existing investor on TwoStep Therapeutics Series A 2026-09-09
-  discovered_from: twostep-therapeutics
-  priority: normal
-- name: Atreides Management
   type: firm
-  source: co-lead investor on Positron AI Series C 2026-09-10 ($875M / $5B valuation)
-  discovered_from: positron-ai
+- discovered_from: positron-ai
+  name: Atreides Management
   priority: high
-- name: Andra Capital
+  source: co-lead investor on Positron AI Series C 2026-09-10 ($875M / $5B valuation)
   type: firm
-  source: co-investor on Positron AI Series C 2026-09-10
-  discovered_from: positron-ai
+- discovered_from: positron-ai
+  name: Andra Capital
   priority: normal
-- name: SemiAnalysis Capital
+  source: co-investor on Positron AI Series C 2026-09-10
   type: firm
+- discovered_from: positron-ai
+  name: SemiAnalysis Capital
+  priority: normal
   source: co-investor on Positron AI Series C 2026-09-10; Dylan Patel (SemiAnalysis)
     on Positron board
-  discovered_from: positron-ai
-  priority: normal
-- name: DFJ Growth
   type: firm
+- discovered_from: positron-ai
+  name: DFJ Growth
+  priority: normal
   source: board seat at Positron AI (per positron.ai/about); AI inference hardware
     backer
-  discovered_from: positron-ai
-  priority: normal
-- name: Deep Track Capital
   type: firm
+- discovered_from: superluminal-medicines
+  name: Deep Track Capital
+  priority: normal
   source: new investor on Superluminal Medicines Series B 2026-09-05 ($60M)
-  discovered_from: superluminal-medicines
-  priority: normal
-- name: Perceptive Advisors
   type: firm
+- discovered_from: superluminal-medicines
+  name: Perceptive Advisors
+  priority: normal
   source: new investor on Superluminal Medicines Series B 2026-09-05 ($60M); life
     sciences hedge fund
-  discovered_from: superluminal-medicines
-  priority: normal
-- name: RA Capital Management
   type: firm
+- discovered_from: superluminal-medicines
+  name: RA Capital Management
+  priority: normal
   source: existing investor on Superluminal Medicines Series B 2026-09-05
-  discovered_from: superluminal-medicines
-  priority: normal
-- name: Catalio Capital Management
   type: firm
+- discovered_from: superluminal-medicines
+  name: Catalio Capital Management
+  priority: normal
   source: existing investor on Superluminal Medicines Series B 2026-09-05
-  discovered_from: superluminal-medicines
-  priority: normal
-- name: Northern Gritstone
   type: firm
+- discovered_from: microlub
+  name: Northern Gritstone
+  priority: normal
   source: led £4M investment in MicroLub 2026-09-17 (£7M total round); UK North-focused
     deeptech investor from spinout ecosystems
-  discovered_from: microlub
-  priority: normal
-- name: PXN Ventures
   type: firm
+- discovered_from: microlub
+  name: PXN Ventures
+  priority: low
   source: co-invested on MicroLub 2026-09-17 growth round via NPIF II - PXN Equity
     Finance
-  discovered_from: microlub
-  priority: low
-- name: amberra
   type: firm
+- discovered_from: syte
+  name: amberra
+  priority: normal
   source: led €9M Series A of syte 2026-09-17; venture studio of Cooperative Financial
     Group Volksbanken Raiffeisenbanken
-  discovered_from: syte
-  priority: normal
-- name: NRW.BANK
   type: firm
-  source: new investor on syte €9M Series A 2026-09-17
-  discovered_from: syte
+- discovered_from: syte
+  name: NRW.BANK
   priority: low
-- name: High-Tech Gründerfonds
+  source: new investor on syte €9M Series A 2026-09-17
   type: firm
+- discovered_from: syte
+  name: High-Tech Gründerfonds
+  priority: normal
   source: existing investor on syte €9M Series A 2026-09-17; German early-stage deeptech
     fund (HTGF)
-  discovered_from: syte
-  priority: normal
-- name: vent.io
   type: firm
+- discovered_from: syte
+  name: vent.io
+  priority: low
   source: existing investor on syte €9M Series A 2026-09-17
-  discovered_from: syte
-  priority: low
-- name: Vantage Value
   type: firm
+- discovered_from: syte
+  name: Vantage Value
+  priority: low
   source: existing investor on syte €9M Series A 2026-09-17
-  discovered_from: syte
+  type: firm
+- discovered_from: phosphoenix
+  name: ROM InWest
+  priority: normal
+  type: firm
+- discovered_from: phosphoenix
+  name: 819 Capital
+  priority: normal
+  type: firm
+- discovered_from: phosphoenix
+  name: BioGeneration Ventures
+  priority: normal
+  type: firm
+- discovered_from: phosphoenix
+  name: Innovatiefonds Noord-Holland
   priority: low
-- name: ROM InWest
   type: firm
+- discovered_from: polyphron
+  name: Gradient (Google)
   priority: normal
-  discovered_from: phosphoenix
-- name: 819 Capital
   type: firm
+- discovered_from: polyphron
+  name: Haystack VC
   priority: normal
-  discovered_from: phosphoenix
-- name: BioGeneration Ventures
   type: firm
+- discovered_from: polyphron
+  name: Compound VC
   priority: normal
-  discovered_from: phosphoenix
-- name: Innovatiefonds Noord-Holland
   type: firm
-  priority: low
-  discovered_from: phosphoenix
-- name: Gradient (Google)
-  type: firm
-  priority: normal
-  discovered_from: polyphron
-- name: Haystack VC
-  type: firm
-  priority: normal
-  discovered_from: polyphron
-- name: Compound VC
-  type: firm
-  priority: normal
-  discovered_from: polyphron
-- name: Matt Osman
-  type: individual
+- discovered_from: polyphron
   firm: Polyphron
+  name: Matt Osman
   priority: low
-  discovered_from: polyphron
-- name: PT1 Ventures
-  type: firm
+  type: individual
+- discovered_from: metris-energy
+  name: PT1 Ventures
+  priority: high
   source: led Metris Energy €4.35M seed 2026-09-21; climate/proptech-focused fund
-  discovered_from: metris-energy
-  priority: high
-- name: AENU
   type: firm
-  source: participant on Metris Energy €4.35M seed 2026-09-21; European climate impact fund
-  discovered_from: metris-energy
+- discovered_from: metris-energy
+  name: AENU
   priority: normal
-- name: Blackfinch Ventures
+  source: participant on Metris Energy €4.35M seed 2026-09-21; European climate impact
+    fund
   type: firm
-  source: participant on Metris Energy €4.35M seed 2026-09-21; UK early-stage tech fund
-  discovered_from: metris-energy
+- discovered_from: metris-energy
+  name: Blackfinch Ventures
   priority: normal
-- name: Mercuri
+  source: participant on Metris Energy €4.35M seed 2026-09-21; UK early-stage tech
+    fund
   type: firm
-  source: participant on Unit1 Studio £20M / €23.3M round 2026-09-21 (Balderton lead)
-  discovered_from: unit1-studio
+- discovered_from: unit1-studio
+  name: Mercuri
   priority: low
-- name: Gilston Music
+  source: participant on Unit1 Studio £20M / €23.3M round 2026-09-21 (Balderton lead)
   type: firm
-  source: participant on Unit1 Studio £20M / €23.3M round 2026-09-21 (Balderton lead)
-  discovered_from: unit1-studio
+- discovered_from: unit1-studio
+  name: Gilston Music
   priority: low
-- name: Paul McGuinness
-  type: individual
+  source: participant on Unit1 Studio £20M / €23.3M round 2026-09-21 (Balderton lead)
+  type: firm
+- discovered_from: unit1-studio
   firm: Independent (former U2 manager)
-  source: angel participant on Unit1 Studio £20M / €23.3M round 2026-09-21 (Balderton lead)
-  discovered_from: unit1-studio
+  name: Paul McGuinness
   priority: low
-- name: Bain Capital Ventures
-  type: firm
+  source: angel participant on Unit1 Studio £20M / €23.3M round 2026-09-21 (Balderton
+    lead)
+  type: individual
+- discovered_from: corridor-health
+  name: Bain Capital Ventures
+  priority: high
   source: led Corridor $25M seed round 2026-09-21
-  discovered_from: corridor-health
-  priority: high
-- name: Inovia Capital
   type: firm
+- discovered_from: feldera
+  name: Inovia Capital
+  priority: high
   source: led Feldera $15.4M Series A 2026-09-21
-  discovered_from: feldera
-  priority: high
-- name: Costanoa Ventures
   type: firm
+- discovered_from: feldera
+  name: Costanoa Ventures
+  priority: high
   source: led Feldera $6.1M seed 2026-09-21, participant in Series A
-  discovered_from: feldera
-  priority: high
-- name: Nikhil Aggarwal
-  type: individual
+  type: firm
+- discovered_from: corridor-health
   firm: Corridor
-  source: CEO and Co-Founder of Corridor; raised $25M seed from Bain Capital Ventures 2026-09-21
-  discovered_from: corridor-health
+  name: Nikhil Aggarwal
   priority: low
-- name: Lalith Suresh
+  source: CEO and Co-Founder of Corridor; raised $25M seed from Bain Capital Ventures
+    2026-09-21
   type: individual
+- discovered_from: feldera
   firm: Feldera
-  source: CEO and Co-Founder of Feldera; raised $21.5M from Inovia Capital and Costanoa Ventures 2026-09-21
-  discovered_from: feldera
+  name: Lalith Suresh
   priority: low
-- name: Ion Stoica
+  source: CEO and Co-Founder of Feldera; raised $21.5M from Inovia Capital and Costanoa
+    Ventures 2026-09-21
   type: individual
+- discovered_from: feldera
   firm: Databricks / Anyscale (angel investor)
+  name: Ion Stoica
+  priority: normal
   source: participated in Feldera seed round 2026-09-21; Databricks and Anyscale co-founder
-  discovered_from: feldera
-  priority: normal
-- name: P101 SGR
-  type: firm
+  type: individual
+- discovered_from: biorsaf
+  name: P101 SGR
+  priority: high
   source: led Biorsaf €5.2M Series A 2026-09-10
-  discovered_from: biorsaf
-  priority: high
-- name: Maia Ventures
   type: firm
+- discovered_from: biorsaf
+  name: Maia Ventures
+  priority: normal
   source: participated in Biorsaf €5.2M Series A 2026-09-10
-  discovered_from: biorsaf
-  priority: normal
-- name: Farming Future
   type: firm
-  source: participated in Biorsaf €5.2M Series A 2026-09-10 (CDP Venture Capital AgriFood Tech transfer hub)
-  discovered_from: biorsaf
+- discovered_from: biorsaf
+  name: Farming Future
   priority: normal
-- name: Toscana Next
+  source: participated in Biorsaf €5.2M Series A 2026-09-10 (CDP Venture Capital AgriFood
+    Tech transfer hub)
   type: firm
+- discovered_from: biorsaf
+  name: Toscana Next
+  priority: low
   source: participated in Biorsaf €5.2M Series A 2026-09-10 (regional innovation fund)
-  discovered_from: biorsaf
-  priority: low
-- name: VP Capital
   type: firm
+- discovered_from: gravity-gardens
+  name: VP Capital
+  priority: high
   source: led Gravity Gardens €2.6M Seed 2026-09-09
-  discovered_from: gravity-gardens
-  priority: high
-- name: Brightlands Venture Partners
   type: firm
-  source: participated in Gravity Gardens €2.6M Seed 2026-09-09
-  discovered_from: gravity-gardens
+- discovered_from: gravity-gardens
+  name: Brightlands Venture Partners
   priority: normal
-- name: Graduate Ventures
+  source: participated in Gravity Gardens €2.6M Seed 2026-09-09
   type: firm
-  source: participated in Gravity Gardens €2.6M Seed 2026-09-09
-  discovered_from: gravity-gardens
+- discovered_from: gravity-gardens
+  name: Graduate Ventures
   priority: normal
-- name: Marco Papalini
-  type: individual
+  source: participated in Gravity Gardens €2.6M Seed 2026-09-09
+  type: firm
+- discovered_from: biorsaf
   firm: Biorsaf
+  name: Marco Papalini
+  priority: low
   source: CEO and Co-Founder of Biorsaf; €5.2M Series A led by P101 2026-09-10
-  discovered_from: biorsaf
-  priority: low
-- name: Paulino Valdés
   type: individual
+- discovered_from: gravity-gardens
   firm: Gravity Gardens
+  name: Paulino Valdés
+  priority: low
   source: CEO and Co-Founder of Gravity Gardens; €2.6M Seed led by VP Capital 2026-09-09
-  discovered_from: gravity-gardens
-  priority: low
-- name: Xora Innovation
-  type: firm
-  source: lead investor on Nexstrom Seed 2026-09-22 ($12M); Temasek deep-tech venture-building arm
-  discovered_from: nexstrom
+  type: individual
+- discovered_from: nexstrom
+  name: Xora Innovation
   priority: normal
-- name: Foothill Ventures
+  source: lead investor on Nexstrom Seed 2026-09-22 ($12M); Temasek deep-tech venture-building
+    arm
   type: firm
+- discovered_from: nexstrom
+  name: Foothill Ventures
+  priority: normal
   source: co-investor on Nexstrom Seed 2026-09-22 ($12M)
-  discovered_from: nexstrom
-  priority: normal
-- name: SEEDS Capital
   type: firm
-  source: co-investor on Nexstrom Seed 2026-09-22 ($12M); Singapore Enterprise Singapore fund
-  discovered_from: nexstrom
+- discovered_from: nexstrom
+  name: SEEDS Capital
   priority: normal
-- name: Footwork
+  source: co-investor on Nexstrom Seed 2026-09-22 ($12M); Singapore Enterprise Singapore
+    fund
   type: firm
-  source: co-investor on Confido Series B 2026-09-22 ($55M, Insight Partners lead)
-  discovered_from: confido
+- discovered_from: confido
+  name: Footwork
   priority: high
-- name: Mike Smith
-  type: individual
+  source: co-investor on Confido Series B 2026-09-22 ($55M, Insight Partners lead)
+  type: firm
+- discovered_from: confido
   firm: Footwork
-  source: Co-Founder and General Partner of Footwork; participated in Confido Series B 2026-09-22
-  discovered_from: confido
+  name: Mike Smith
   priority: high
-- name: Trenches Capital
-  type: firm
+  source: Co-Founder and General Partner of Footwork; participated in Confido Series
+    B 2026-09-22
+  type: individual
+- discovered_from: confido
+  name: Trenches Capital
+  priority: high
   source: co-investor on Confido Series B 2026-09-22 ($55M, Insight Partners lead)
-  discovered_from: confido
-  priority: high
-- name: Larry Fitzgerald Jr.
-  type: individual
+  type: firm
+- discovered_from: confido
   firm: Trenches Capital
+  name: Larry Fitzgerald Jr.
+  priority: high
   source: Co-Founder of Trenches Capital; participated in Confido Series B 2026-09-22
-  discovered_from: confido
-  priority: high
-- name: Watchfire Ventures
-  type: firm
-  source: co-investor on Confido Series B 2026-09-22
-  discovered_from: confido
-  priority: normal
-- name: Barrel Ventures
-  type: firm
-  source: co-investor on Confido Series B 2026-09-22
-  discovered_from: confido
-  priority: normal
-- name: Rebecca Liu-Doyle
   type: individual
+- discovered_from: confido
+  name: Watchfire Ventures
+  priority: normal
+  source: co-investor on Confido Series B 2026-09-22
+  type: firm
+- discovered_from: confido
+  name: Barrel Ventures
+  priority: normal
+  source: co-investor on Confido Series B 2026-09-22
+  type: firm
+- discovered_from: confido
   firm: Insight Partners
+  name: Rebecca Liu-Doyle
+  priority: normal
   source: Managing Director at Insight Partners; led Confido Series B 2026-09-22
-  discovered_from: confido
-  priority: normal
-- name: Justin Hunter
   type: individual
+- discovered_from: confido
   firm: Confido
-  source: Co-Founder and CEO of Confido; raised $55M Series B 2026-09-22 (Insight Partners lead)
-  discovered_from: confido
+  name: Justin Hunter
   priority: low
-- name: Kara Holinski
+  source: Co-Founder and CEO of Confido; raised $55M Series B 2026-09-22 (Insight
+    Partners lead)
   type: individual
+- discovered_from: confido
   firm: Confido
+  name: Kara Holinski
+  priority: low
   source: Co-Founder of Confido; MIT engineering background
-  discovered_from: confido
-  priority: low
-- name: Entrée Capital
-  type: firm
+  type: individual
+- discovered_from: chamelio
+  name: Entrée Capital
+  priority: high
   source: led Chamelio Series A 2026-09-22 ($26M); Israel-focused venture firm
-  discovered_from: chamelio
+  type: firm
+- discovered_from: chamelio
+  name: Work-Bench
   priority: high
-- name: Work-Bench
-  type: firm
   source: co-investor on Chamelio Series A 2026-09-22
-  discovered_from: chamelio
-  priority: high
-- name: Emerge Ventures
   type: firm
-  source: co-investor on Chamelio Series A 2026-09-22
-  discovered_from: chamelio
+- discovered_from: chamelio
+  name: Emerge Ventures
   priority: normal
-- name: Bright Pixel Capital
-  type: firm
   source: co-investor on Chamelio Series A 2026-09-22
-  discovered_from: chamelio
+  type: firm
+- discovered_from: chamelio
+  name: Bright Pixel Capital
   priority: normal
-- name: Alex Zilberman
-  type: individual
+  source: co-investor on Chamelio Series A 2026-09-22
+  type: firm
+- discovered_from: chamelio
   firm: Chamelio
-  source: CEO and Co-Founder of Chamelio; formerly COO and co-founder of AnyVision, leadership at Pagaya
-  discovered_from: chamelio
+  name: Alex Zilberman
   priority: normal
-- name: Gil Banyas
+  source: CEO and Co-Founder of Chamelio; formerly COO and co-founder of AnyVision,
+    leadership at Pagaya
   type: individual
+- discovered_from: chamelio
   firm: Chamelio
+  name: Gil Banyas
+  priority: low
   source: COO and Co-Founder of Chamelio; former general counsel at AnyVision
-  discovered_from: chamelio
-  priority: low
-- name: Gal Lellouche
   type: individual
+- discovered_from: chamelio
   firm: Chamelio
+  name: Gal Lellouche
+  priority: low
   source: CTO and Co-Founder of Chamelio; prior AI startup acquired by Sage
-  discovered_from: chamelio
-  priority: low
-- name: Goldman Sachs
-  type: firm
-  source: led Cyera Series G extension 2026-09-22 ($400M) via Growth Equity at Goldman Sachs Alternatives
-  discovered_from: cyera
-  priority: high
-- name: Irit Kahan
   type: individual
+- discovered_from: cyera
+  name: Goldman Sachs
+  priority: high
+  source: led Cyera Series G extension 2026-09-22 ($400M) via Growth Equity at Goldman
+    Sachs Alternatives
+  type: firm
+- discovered_from: cyera
   firm: Goldman Sachs
+  name: Irit Kahan
+  priority: normal
   source: Managing Director at Goldman Sachs; led Cyera Series G extension 2026-09-22
-  discovered_from: cyera
+  type: individual
+- discovered_from: cyera
+  name: Blackstone
   priority: normal
-- name: Blackstone
-  type: firm
   source: co-investor on Cyera Series G extension 2026-09-22
-  discovered_from: cyera
-  priority: normal
-- name: Lightspeed Venture Partners
   type: firm
-  source: participated in Ande $52M combined Seed+Series A 2026-09-22
-  discovered_from: ande
+- discovered_from: ande
+  name: Lightspeed Venture Partners
   priority: high
-- name: Duration Ventures
-  type: firm
   source: participated in Ande $52M combined Seed+Series A 2026-09-22
-  discovered_from: ande
+  type: firm
+- discovered_from: ande
+  name: Duration Ventures
   priority: normal
-- name: Sierra Ventures
-  type: firm
   source: participated in Ande $52M combined Seed+Series A 2026-09-22
-  discovered_from: ande
+  type: firm
+- discovered_from: ande
+  name: Sierra Ventures
   priority: normal
-- name: Bain Capital Ventures
-  type: firm
   source: participated in Ande $52M combined Seed+Series A 2026-09-22
-  discovered_from: ande
+  type: firm
+- discovered_from: ande
+  name: Bain Capital Ventures
   priority: high
-- name: Araya Ventures
+  source: participated in Ande $52M combined Seed+Series A 2026-09-22
   type: firm
+- discovered_from: aeon-preventive-health
+  name: Araya Ventures
+  priority: high
   source: led Aeon Seed extension 2026-09-14 (bringing total seed to €12M+)
-  discovered_from: aeon-preventive-health
-  priority: high
-- name: Concentric
   type: firm
-  source: participated in Aeon Seed extension 2026-09-14
-  discovered_from: aeon-preventive-health
+- discovered_from: aeon-preventive-health
+  name: Concentric
   priority: normal
-- name: GoHub Ventures
+  source: participated in Aeon Seed extension 2026-09-14
   type: firm
-  source: participated in Aeon Seed extension 2026-09-14
-  discovered_from: aeon-preventive-health
+- discovered_from: aeon-preventive-health
+  name: GoHub Ventures
   priority: normal
-- name: Kadmos Capital
+  source: participated in Aeon Seed extension 2026-09-14
   type: firm
-  source: participated in Aeon Seed extension 2026-09-14
-  discovered_from: aeon-preventive-health
+- discovered_from: aeon-preventive-health
+  name: Kadmos Capital
   priority: normal
-- name: Calm/Storm Ventures
+  source: participated in Aeon Seed extension 2026-09-14
   type: firm
-  source: participated in Aeon Seed extension 2026-09-14
-  discovered_from: aeon-preventive-health
+- discovered_from: aeon-preventive-health
+  name: Calm/Storm Ventures
   priority: normal
-- name: N&V Capital
+  source: participated in Aeon Seed extension 2026-09-14
   type: firm
-  source: participated in Aeon Seed extension 2026-09-14
-  discovered_from: aeon-preventive-health
+- discovered_from: aeon-preventive-health
+  name: N&V Capital
   priority: normal
-- name: Bigwave Capital
+  source: participated in Aeon Seed extension 2026-09-14
   type: firm
-  source: participated in Aeon Seed extension 2026-09-14
-  discovered_from: aeon-preventive-health
+- discovered_from: aeon-preventive-health
+  name: Bigwave Capital
   priority: normal
-- name: Tim Seithe
-  type: individual
+  source: participated in Aeon Seed extension 2026-09-14
+  type: firm
+- discovered_from: aeon-preventive-health
   firm: Aeon
-  source: Co-Founder & CEO of Aeon; raised Seed extension 2026-09-14 bringing total seed to €12M+
-  discovered_from: aeon-preventive-health
+  name: Tim Seithe
   priority: low
-- name: Curiosity VC
-  type: firm
+  source: Co-Founder & CEO of Aeon; raised Seed extension 2026-09-14 bringing total
+    seed to €12M+
+  type: individual
+- discovered_from: duqu
+  name: Curiosity VC
+  priority: high
   source: lead investor in Duqu Pre-Seed 2026-09-24 (Amsterdam invoice-finance fintech)
-  discovered_from: duqu
-  priority: high
-- name: No Such Ventures
   type: firm
+- discovered_from: duqu
+  name: No Such Ventures
+  priority: normal
   source: co-investor in Duqu Pre-Seed 2026-09-24 with Curiosity VC
-  discovered_from: duqu
-  priority: normal
-- name: Frumtak Ventures
   type: firm
+- discovered_from: 50skills
+  name: Frumtak Ventures
+  priority: high
   source: co-lead in 50skills €5.3M growth round 2026-09-24 (Reykjavík HR AI)
-  discovered_from: 50skills
-  priority: high
-- name: Swiss Post Ventures
   type: firm
+- discovered_from: 50skills
+  name: Swiss Post Ventures
+  priority: high
   source: co-lead in 50skills €5.3M growth round 2026-09-24 with Frumtak Ventures
-  discovered_from: 50skills
-  priority: high
-- name: Vertis SGR
   type: firm
-  source: participated in Clastix €2.9M Seed 2026-09-24 (via Vertis Venture 6 Digital Sud fund)
-  discovered_from: clastix
+- discovered_from: clastix
+  name: Vertis SGR
   priority: normal
-- name: Sajid Shariff
-  type: individual
+  source: participated in Clastix €2.9M Seed 2026-09-24 (via Vertis Venture 6 Digital
+    Sud fund)
+  type: firm
+- discovered_from: dextr-ai
   firm: Dextr AI
+  name: Sajid Shariff
+  priority: low
   source: Co-Founder & CEO of Dextr AI; raised $6.7M seed 2026-09-24
-  discovered_from: dextr-ai
-  priority: low
-- name: Kristján Freyr Kristjánsson
   type: individual
+- discovered_from: 50skills
   firm: 50skills
+  name: Kristján Freyr Kristjánsson
+  priority: low
   source: Co-Founder & CEO of 50skills; raised €5.3M 2026-09-24
-  discovered_from: 50skills
-  priority: low
-- name: Adriano Pezzuto
   type: individual
+- discovered_from: clastix
   firm: Clastix
+  name: Adriano Pezzuto
+  priority: low
   source: Co-Founder & CEO of Clastix; raised €2.9M seed 2026-09-24
-  discovered_from: clastix
-  priority: low
-- name: Left Lane Capital
-  type: firm
+  type: individual
+- discovered_from: hifi
+  name: Left Lane Capital
+  priority: high
   source: led HIFI $37M Series A 2026-09-24; growth-stage fintech investor
-  discovered_from: hifi
-  priority: high
-- name: Matt Miller
-  type: individual
+  type: firm
+- discovered_from: hifi
   firm: Left Lane Capital
-  source: joined HIFI board as part of $37M Series A 2026-09-24
-  discovered_from: hifi
+  name: Matt Miller
   priority: high
-- name: Francisco Partners
-  type: firm
+  source: joined HIFI board as part of $37M Series A 2026-09-24
+  type: individual
+- discovered_from: rightway-healthcare
+  name: Francisco Partners
+  priority: normal
   source: led Rightway Healthcare $155M Series E 2026-09-09 (revealed 2026-09-24)
-  discovered_from: rightway-healthcare
-  priority: normal
-- name: Zach Walsh
-  type: individual
-  firm: HIFI
-  source: Co-Founder of HIFI; $37M Series A 2026-09-24 led by Left Lane Capital
-  discovered_from: hifi
-  priority: low
-- name: Mo Afifi
-  type: individual
-  firm: HIFI
-  source: Co-Founder of HIFI; $37M Series A 2026-09-24 led by Left Lane Capital
-  discovered_from: hifi
-  priority: low
-- name: Francisco Partners
   type: firm
+- discovered_from: hifi
+  firm: HIFI
+  name: Zach Walsh
+  priority: low
+  source: Co-Founder of HIFI; $37M Series A 2026-09-24 led by Left Lane Capital
+  type: individual
+- discovered_from: hifi
+  firm: HIFI
+  name: Mo Afifi
+  priority: low
+  source: Co-Founder of HIFI; $37M Series A 2026-09-24 led by Left Lane Capital
+  type: individual
+- discovered_from: rightway
+  name: Francisco Partners
+  priority: normal
   source: led Rightway Series E $155M (2026-09-24)
-  discovered_from: rightway
-  priority: normal
-- name: Salesforce Ventures
   type: firm
-  source: co-investor in Numeral Series C $100M (2026-09-23) Insight Partners-led
-  discovered_from: numeral
+- discovered_from: numeral
+  name: Salesforce Ventures
   priority: normal
-- name: Geodesic Capital
+  source: co-investor in Numeral Series C $100M (2026-09-23) Insight Partners-led
   type: firm
-  source: co-investor in Numeral Series C $100M (2026-09-23) Insight Partners-led
-  discovered_from: numeral
+- discovered_from: numeral
+  name: Geodesic Capital
   priority: normal
-- name: FCVC
+  source: co-investor in Numeral Series C $100M (2026-09-23) Insight Partners-led
   type: firm
-  source: co-investor in Numeral Series C $100M (2026-09-23) Insight Partners-led
-  discovered_from: numeral
+- discovered_from: numeral
+  name: FCVC
   priority: normal
+  source: co-investor in Numeral Series C $100M (2026-09-23) Insight Partners-led
+  type: firm
+- discovered_from: user-suggestion
+  name: matt pincus
+  priority: normal
+  source: 'user suggestion (issue #16)'
+  type: individual
