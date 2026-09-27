@@ -173977,7 +173977,9 @@ vague_facts:
   line: '| EasyMateAI | Pre-seed/Seed | 2024 | AI / developer tools | Active [^4] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-26
+  note: 'Fact-spec sweep 2026-09-26: no publicly announced EasyMateAI funding round for 2024 is discoverable. Attempts made: (1) easymate.ai homepage (no press/funding section — only product marketing and testimonials); (2) cakeventures.com portfolio page (403/no output); (3) crunchbase.com/organization/easymate-ai (403 anti-bot); (4) alternative cake.vc and www.cakeventures.com/portfolio URLs (404/no output). EasyMateAI is a small AI/developer-tools pre-seed/seed investment; the only public anchor is the Cake Ventures portfolio page listing [^4], which is a firm-claim primary source and does not disclose the check date. Cake''s direct check date for EasyMateAI is not disclosed by any independently verifiable primary source. Row stands at 2024 year-only. Consistent with prior Cake portfolio-page rows where check dates are not disclosed (see Lotus Labs, Most Days, Tendercare, TenYour, STAND+, Shop McMullen, Death Clock).'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Farther
