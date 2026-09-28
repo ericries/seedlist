@@ -117,6 +117,7 @@ The following table includes DST Global investments verified through press cover
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Ajaib | Series C (participated; $270M led by SBI Holdings taking ~20% stake at ~$1.35B valuation; Ribbit Capital also participated; Indonesia's biggest tech funding round since 2022) | 2026-08-28 | Fintech / Digital Brokerage / Crypto / Asia | Private [^dst-aja1][^dst-aja2][^dst-aja3] |
 | Facebook (Meta) | Growth | 2009 | Consumer / Social | Public (IPO 2012) [^3][^18] |
 | Twitter | Growth | 2011 | Consumer / Social | Acquired by Elon Musk (2022) [^1][^5] |
 | Alibaba | Growth | 2011 | E-commerce | Public (IPO 2014) [^1] |
@@ -347,3 +348,9 @@ No independently sourced negative or critical founder testimonials were found in
 [^dst-wn3]: Quartz, "Whatnot raises $545M Series G at $20 billion valuation," August 7, 2026. Accessed September 2026. https://qz.com/whatnot-series-g-funding-live-shopping-valuation-080726 — Third independent business-press source confirming DST Global among Whatnot's Series G returning investors.
 
 [^dst-wn4]: AlleyWatch Weekly Notable Startup Funding Report, "8/10/26," week ending August 10, 2026. Accessed September 2026. https://alleywatch.com/2026/08/the-weekly-notable-startup-funding-report-8-10-26/ — Fourth independent funding-report source confirming the $545M Series G bringing Whatnot's cumulative equity funding to $1.52B, with the full 16-firm investor list including DST Global, Andreessen Horowitz, CapitalG, Bond, Greycroft, Y Combinator, Kleiner Perkins, Wellington Management, Standard Capital, Alkeon Capital, Avra Capital, Durable Capital Partners, ICONIQ Capital, Lightspeed Venture Partners, Robinhood Ventures, and S32.
+
+[^dst-aja1]: Yahoo Finance / Bloomberg, "Indonesian Stock Trading Unicorn Ajaib Raises $270 Million From Japan's SBI Holdings," August 28, 2026. Accessed September 28, 2026. https://uk.finance.yahoo.com/news/indonesian-stock-trading-unicorn-ajaib-093103709.html — Contemporaneous business-press syndication confirming Ajaib's $270M Series C led by SBI Holdings with DST Global and Ribbit Capital among participants.
+
+[^dst-aja2]: e27, "Ajaib raises US$270M in Indonesia's biggest tech funding round since 2022," August 28, 2026. Accessed September 28, 2026. https://e27.co/ajaib-raises-us270m-in-indonesias-biggest-tech-funding-round-since-2022-20260828/ — Independent Asia-focused tech-press confirmation of the $270M Series C and DST Global's participation.
+
+[^dst-aja3]: The Block, "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push," August 28, 2026. Accessed September 28, 2026. https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023 — Third independent crypto/fintech press confirmation of SBI Holdings' $270M investment with a ~20% stake in Ajaib alongside DST Global and Ribbit Capital, valuing the company at approximately $1.35B.

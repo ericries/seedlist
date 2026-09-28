@@ -121,6 +121,7 @@ Based on 67 verified portfolio companies listed on KDT's website [^5]:
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| Gatik | Series D (co-led with Qatar Investment Authority; $200M; Millennium Management, ARK Invest, Intact Private Capital, Arca Continental also participated; self-driving trucks for middle-mile freight; follows PepsiCo commercial deal) | 2026-08-25 | Autonomous Vehicles / Logistics / Self-Driving Trucks | [^gatikd1][^gatikd2][^gatikd3][^gatikd4] |
 | Insightec | Series E | 2017 | Healthcare / Medical Devices | [^12] |
 | Ibotta | Series D (led by KDT at USD 1B valuation; amount undisclosed publicly; Byron Knight quoted) | 2019-08-06 | Fintech / Rewards | [^13][^37][^38] |
 | Valo Health | Series B (final close; KDT contributed USD 110M into the USD 300M final close of the Series B; Chase Koch quote in press) | 2021-03-09 | Healthcare / Drug Discovery | [^14][^5] |

@@ -5767,6 +5767,10 @@ priority:
   type: firm
   reason: appeared in Gatik Series D (2026-08-25)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: added Gatik Series D row to koch-disruptive-technologies.md portfolio table — 2026-08-25, $200M co-led by Qatar Investment Authority and Koch Disruptive Technologies with Millennium Management, ARK Invest, Intact Private Capital, and Arca Continental participating. Reused pre-existing named footnotes [^gatikd1] Gatik press release via Yahoo Finance (primary company source with Gautam Narang CEO + Byron Knight KDT quotes), [^gatikd2] TechCrunch, [^gatikd3] SiliconANGLE (Cathie Wood/ARK quote), [^gatikd4] Gulf Times (Abdullah Al Kuwari/QIA quote) — footnote definitions were already present in the file from an earlier sweep.'
+  processed: '2026-09-28'
 - slug: dcvc
   type: firm
   reason: appeared in REGENT Series B (2026-08-27)
@@ -5886,6 +5890,10 @@ priority:
   type: firm
   reason: appeared in Ajaib Series C (2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: added Ajaib Series C row to dst-global.md portfolio table — 2026-08-28, $270M led by SBI Holdings taking ~20% stake at ~$1.35B valuation; DST Global participated alongside Ribbit Capital. Indonesia''s biggest tech funding round since 2022. Added 3 named-footnote citations: [^dst-aja1] Yahoo Finance/Bloomberg, [^dst-aja2] e27, [^dst-aja3] The Block — same primary triad already cited on the ajaib.md startup profile.'
+  processed: '2026-09-28'
 - slug: ribbit-capital
   type: firm
   reason: appeared in Ajaib Series C (2026-08-28)
@@ -5994,6 +6002,10 @@ priority:
   type: firm
   reason: appeared in Form Energy Series G $750M (2026-08-12)
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: added Form Energy Series G row to breakthrough-energy-ventures.md portfolio table — 2026-08-12, $750M led by T. Rowe Price; BEV participated as existing/returning investor alongside Sequoia Capital, Janus Henderson, Franklin Templeton, PEAK6 Investments, Prelude Ventures, Engine Ventures, TPG Rise Climate, Capricorn Investment Group, Coatue, Energy Impact Partners, NGP, and GE Vernova. Series G brings total equity raised to >$2B. Reused pre-existing named footnotes [^fe-g1] Form Energy press release (primary company source explicitly naming BEV among returning investors), [^fe-g2] TechCrunch, [^fe-g3] Boston Globe — footnote definitions were already present in the file from an earlier sweep.'
+  processed: '2026-09-28'
 - slug: energy-impact-partners
   type: firm
   reason: appeared in Form Energy Series G $750M (2026-08-12)

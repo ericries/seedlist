@@ -108,6 +108,7 @@ This table represents approximately 25% of BEV's 120+ portfolio organizations. O
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Form Energy | Series G (participated as existing investor; $750M led by T. Rowe Price; Sequoia, Janus Henderson, Franklin Templeton, PEAK6, Prelude Ventures, Engine Ventures, TPG Rise Climate, Capricorn, Coatue, Energy Impact Partners, NGP, GE Vernova also participated; iron-air 100-hour grid battery manufacturing) | 2026-08-12 | Energy Storage / Iron-Air Batteries / Grid | Active [^fe-g1][^fe-g2][^fe-g3] |
 | Commonwealth Fusion Systems | Series A ($115M, participant); Series B ($1.8B, participant); Series B2 ($863M, existing investor increased); 2026-07-30 $1B round (investors not named) | 2019-06-27; 2021-12-01; 2025-08-28; 2026-07-30 | Fusion Energy | Active [^11][^17][^cfs-a][^cfs-b2][^cfs-jul26a][^cfs-jul26b] |
 | Mariana Minerals | Series B (participant; Khosla led, $310M at $1.5B valuation) | 2026-08-03 | Critical Minerals / Mining | Private [^mm-bev][^mm-bev-fortune] |
 | QuantumScape | Early Stage | ~2018 | Solid-State Batteries | Public (NYSE: QS) [^19] |
