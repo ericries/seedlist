@@ -112,6 +112,14 @@ pending_rounds:
   parsed_amount: $825M
   parsed_round: null
   status: pending
+- title: Modulate raises $25M for its voice models and analysis suite
+  url: https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/
+  source: techcrunch
+  date_found: '2026-09-28'
+  parsed_company: Modulate
+  parsed_amount: $25M
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 9/28/26'
   url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-28-26/
   source: alleywatch
