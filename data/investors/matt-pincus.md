@@ -5,7 +5,7 @@ type: individual
 firm: independent
 role: "Co-founder & CEO, MUSIC"
 location: "New York, NY"
-stage_focus: [seed, series-a, growth]
+stage_focus: [series-a, growth]
 sector_focus: [music, music-tech, media-entertainment]
 check_size: "Not disclosed"
 last_verified_investment:
@@ -14,7 +14,7 @@ last_verified_investment:
   round: "Rights partnership"
 social:
   linkedin: "linkedin.com/in/matt-pincus-4601a3"
-status: draft
+status: published
 tldr: "Founder of SONGS Music Publishing, which signed Lorde, The Weeknd and Diplo and sold to Kobalt for about $160M in 2017. Co-founder and CEO of MUSIC, a $200M holding company that invests only in music businesses, including Splice, HIFI, DICE, LVRN, Kobalt and Soundtrack Your Brand. Plays bass in the New York hardcore band Judge and co-founded the punk reissue label Trust Records."
 last_researched: 2026-09-28
 ---
