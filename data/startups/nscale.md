@@ -21,7 +21,7 @@ last_researched: 2026-09-28
 
 ## About
 
-Nscale is a London-headquartered AI infrastructure and neocloud company that operates data centers and GPU cloud infrastructure for large-scale AI training and inference, with campuses under development in Norway, the UK, US, Portugal, and Iceland [^1][^2]. Nscale was co-founded by Josh Payne and Nathan Townsend and incorporated on May 29, 2024, as a spinout from Australian crypto-mining operator Arkon Energy [^2]. Ahead of a filed US IPO expected on the NYSE, the company reports having accumulated over $103 billion in customer contracts since its founding [^1].
+Nscale is a London-headquartered AI infrastructure and neocloud company that operates data centers and GPU cloud infrastructure for large-scale AI training and inference, with campuses under development in Norway, the UK, US, Portugal, and Iceland [^1][^2][^3]. Nscale was co-founded by Josh Payne and Nathan Townsend and incorporated on May 29, 2024, as a spinout from Australian crypto-mining operator Arkon Energy [^2]. Ahead of a filed US IPO expected on the NYSE, the company reports having accumulated over $103 billion in customer contracts since its founding [^1].
 
 *Disclaimer: This is a lean profile built from initial round coverage and may be expanded as more information becomes available.*
 
