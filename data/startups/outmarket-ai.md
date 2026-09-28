@@ -31,7 +31,7 @@ Outmarket AI is an AI platform for the insurance industry, building AI-driven wo
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-28 | Series B | $34.5M | SignalFire | Fika Ventures, Permanent Capital Ventures, TTV Capital, Dash Fund [^3][^4] |
+| 2026-09-28 | Series B | $34.5M | SignalFire | Fika Ventures, Permanent Capital Ventures, TTV Capital, Dash Fund [^3][^4][^5] |
 | 2026-05-13 | Series A | $17M | Permanent Capital Ventures | SignalFire, Fika Ventures, TTV Capital, Dash Fund [^1][^2] |
 
 ## What Investors Say
@@ -48,3 +48,4 @@ No independently sourced investor quotes found at this time.
 [^2]: Insurance Innovation Reporter, "Outmarket AI Raises $17 Million Series A," May 13, 2026. Accessed May 2026. https://iireporter.com/outmarket-ai-raises-17-million-series-a/
 [^3]: TechCrunch, "Insuretech Outmarket raises $34.5M just months after prior round," September 28, 2026. Accessed September 2026. https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/
 [^4]: Outmarket AI blog, "Outmarket Raises $34.5 Million Series B, Four Months After Announcing Our Series A," September 25, 2026. Accessed September 2026. https://www.outmarket.ai/blog
+[^5]: "Insurance brokers earn $260B in commissions a year but still run on 1980s tech. Outmarket is the upgrade they've been waiting for," SignalFire blog, May 18, 2026. Accessed September 28, 2026. https://www.signalfire.com/blog — Lead-investor primary source describing SignalFire's investment thesis in Outmarket, positioning it as "the leading vertical AI platform for Insurtech" that "automates complex commercial broker workflows, from policy checks to proposals."
