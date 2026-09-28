@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: London’s Reactive Technologies secures €19 million EIB financing to strengthen
+    Europe’s power grids
+  url: https://www.eu-startups.com/2026/09/londons-reactive-technologies-secures-e19-million-eib-financing-to-strengthen-europes-power-grids/
+  source: eu-startups
+  date_found: '2026-09-28'
+  parsed_company: London’s Reactive Technologies
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Estonia’s bilt.me raises €615k with backing from Bolt and Lightyear founders
+    to scale its AI-native mobile app builder
+  url: https://www.eu-startups.com/2026/09/estonias-bilt-me-raises-e615k-with-backing-from-bolt-and-lightyear-founders-to-scale-its-ai-native-mobile-app-builder/
+  source: eu-startups
+  date_found: '2026-09-28'
+  parsed_company: Estonia’s bilt.me
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 9/28/26'
   url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-28-26/
   source: alleywatch
@@ -838,13 +856,4 @@ pending_rounds:
   parsed_company: AEO startup Profound hits unicorn valuation,
   parsed_amount: $180M
   parsed_round: Series D
-  status: pending
-- title: UK ClimateTech startup Isometric brings Series A to €43 million as it expands
-    beyond carbon removal
-  url: https://www.eu-startups.com/2026/09/uk-climatetech-startup-isometric-brings-series-a-to-e43-million-as-it-expands-beyond-carbon-removal/
-  source: eu-startups
-  date_found: '2026-09-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series A
   status: pending
