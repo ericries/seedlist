@@ -29,7 +29,7 @@ Hubble Network operates a low-Earth-orbit satellite constellation that extends B
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-23 | Series C | $200M | Smith Point Capital | Seraphim, Carthona Capital, Earthshot Ventures, Y Combinator, RPM Ventures [^1][^2][^3] |
+| 2026-09-23 | Series C | $200M | Smith Point Capital | Seraphim, Carthona Capital, Earthshot Ventures, Y Combinator, RPM Ventures [^1][^2][^3][^4] |
 
 Round valued Hubble Network at $1.6 billion and brought total funding to approximately $300 million [^1].
 
@@ -51,3 +51,4 @@ Round valued Hubble Network at $1.6 billion and brought total funding to approxi
 [^1]: Hubble Network press release, "Hubble Network Opens Satellite Coverage to All Bluetooth Devices, Raises $200 Million Series C at $1.6 Billion Valuation," September 23, 2026. Accessed September 2026. https://www.hubble.com/news/hubble-network-opens-satellite-coverage-to-all-bluetooth-devices-raises-200-million-series-c-at-1.6-billion-valuation
 [^2]: Crunchbase News, "The Week's 10 Biggest Funding Rounds: Cybersecurity, AI And Health Lead With Island And Cyera," September 25, 2026. Accessed September 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/
 [^3]: Hubble Network company blog index listing Series C announcement, accessed September 2026. https://www.hubble.com/blog
+[^4]: Smith Point Capital, "Asset Visibility as Foundational Infrastructure: Why We Invested in Hubble Network" (lead-investor primary source confirming $200M Series C at $1.6B valuation, 60-satellite target by 2030, 500,000+ active devices), September 23, 2026. Accessed September 2026. https://smithpointcapital.com/news/asset-visibility-as-foundational-infrastructure

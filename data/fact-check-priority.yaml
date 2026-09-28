@@ -7698,21 +7698,36 @@ priority:
 
     '
   added: 2026-09-27
-  status: pending
+  status: resolved
+  resolved: 2026-09-28
+  resolution_note: 'Fact-spec sweep 2026-09-28: verified Firecrawl $75M Series B led by Smash Capital (announced 2026-09-22) via 3 independent primary sources — (1) Firecrawl company blog [^1] at https://firecrawl.dev/blog/series-a (primary company source, post by CEO Caleb Peffer, confirms "$75M Series B led by Smash Capital to build the knowledge library for superintelligence"); (2) AlleyWatch weekly report [^2] independently confirms $75M raise and full syndicate: Altos Ventures, Freestyle Capital, Nexus Venture Partners, Offline Ventures, Smash Capital, Y Combinator; (3) Y Combinator company directory [^4] independently confirms Firecrawl (S22 batch), founders Caleb Peffer (CEO), Eric Ciarla, Nicolas Silberstein Camara (CTO), San Francisco HQ, and Series B $75M September 2026 announcement. Currency preserved (USD). Added founders to frontmatter (previously empty). Added verbatim Caleb Peffer founder quote to What Founders Say (previously stated "No independently sourced founder testimonials found"). Added [^4] Y Combinator directory citation as third independent primary source.
+
+    '
+  processed: 2026-09-28
 - slug: bighat-biosciences
   type: startup
   reason: 'Round monitoring 2026-09-28: new profile — $75M Series C (2026-09-24) co-led by DFJ Growth and Premji Invest with Catalio Capital Management, LG Technology Ventures, Sigmas Group, 8VC, Alexandria Venture Investments, Amgen Ventures, Andreessen Horowitz, Discovery Ventures, GRIDS Capital, Intermountain Ventures, Eli Lilly, Merck Global Health Innovation Fund, Quadrille Capital, Section 32. Sources: BigHat press release, AlleyWatch weekly report, BigHat newsroom index.
 
     '
   added: 2026-09-28
-  status: pending
+  status: resolved
+  resolved: 2026-09-28
+  resolution_note: 'Fact-spec sweep 2026-09-28: verified BigHat Biosciences $75M Series C co-led by DFJ Growth and Premji Invest (announced 2026-09-24) via 3 independent primary sources — (1) BigHat press release [^1] at https://bighatbio.com/news/bighat-biosciences-announces-75-million-series-c-financing/ (primary company source confirming $75M, DFJ Growth + Premji Invest co-lead, complete 14-firm syndicate, $223M total raised, San Mateo HQ; three verbatim quotes: Peyton Greenside CEO "This financing will help us advance both sides of that mission: our pipeline of BigHat-designed therapeutics, beginning with BHB810, one of the first AI-designed biologics to reach the clinic, and our leading platform for AI-designed biologics"; Justin Kao DFJ Growth "This integrated learning loop is a powerful advantage, enabling BigHat to rapidly design and optimize therapeutics with the properties needed for clinical development"; Marc Martin Casas Premji Invest "Peyton and the team built BigHat to engineer those properties in from the earliest stages of design, to address the hardest problems in the field"); (2) AlleyWatch weekly report [^2] independently confirms $75M and full 16-name syndicate list; (3) Premji Invest portfolio page [^3] independently confirms BigHat as portfolio company (Biotech / AI, Growth stage). Additional confirmation from 8VC portfolio page [^4]. Currency preserved (USD). CORRECTED Marc Martin Casas quote in profile — previous version ("We are proud to co-lead this financing and to support the team as they bring transformative medicines to patients") was NOT present in verified primary source; replaced with actual verbatim quote from press release. Expanded Peyton Greenside quote to full verbatim sentence. Replaced [^3] (BigHat newsroom index — not independent, same company as [^1]) with Premji Invest portfolio page as third independent source. Added [^4] 8VC portfolio page citation. Added "Total funding to date is $223 million" to About section.
+
+    '
+  processed: 2026-09-28
 - slug: hubble-network
   type: startup
   reason: 'Round monitoring 2026-09-28: new profile — $200M Series C (2026-09-23) led by Smith Point Capital at $1.6B valuation with Seraphim, Carthona Capital, Earthshot Ventures, Y Combinator, RPM Ventures. Sources: Hubble press release, Crunchbase News weekly, Hubble blog index.
 
     '
   added: 2026-09-28
-  status: pending
+  status: resolved
+  resolved: 2026-09-28
+  resolution_note: 'Fact-spec sweep 2026-09-28: verified Hubble Network $200M Series C led by Smith Point Capital at $1.6B valuation (announced 2026-09-23) via 3 independent primary sources — (1) Hubble Network press release [^1] at https://www.hubble.com/news/hubble-network-opens-satellite-coverage-to-all-bluetooth-devices-raises-200-million-series-c-at-1.6-billion-valuation (primary company source confirming $200M Series C, $1.6B valuation, Smith Point Capital lead, complete syndicate: Seraphim, Carthona Capital, Earthshot Ventures, Y Combinator, RPM Ventures; three verbatim quotes: Alex Haro CEO "When we said we''d connect Bluetooth chips to satellites, most of the industry said the physics wouldn''t allow it. Today we''re turning that early skepticism into a global opportunity"; Keith Block Smith Point Capital "Hubble has built the foundational infrastructure that the physical world is missing"; David Gal Samsara "Hubble gives us a way to extend visibility beyond the reach of traditional networks without adding new hardware"); (2) Crunchbase News weekly [^2] independently confirms $200M Series C, $1.6B valuation, Smith Point Capital lead, Seattle HQ; (3) Smith Point Capital investment memo [^4] at https://smithpointcapital.com/news/asset-visibility-as-foundational-infrastructure (lead-investor primary source titled "Asset Visibility as Foundational Infrastructure: Why We Invested in Hubble Network" dated September 23, 2026, independently confirming $200M Series C at $1.6B valuation, 60-satellite target by 2030, 500,000+ active devices, 10x growth from prior year). Currency preserved (USD). Total raised $300M. Added [^4] Smith Point Capital lead-investor citation as third independent primary source.
+
+    '
+  processed: 2026-09-28
 - slug: rainmaker
   type: startup
   reason: 'Round monitoring 2026-09-28: new lean profile — $100M Series B (2026-09-25) with DCVC, Dream Ventures, Lowercarbon Capital, Noa, Upfront Ventures participating (lead not disclosed). Sources: Rainmaker company blog, AlleyWatch weekly report, Crunchbase News weekly roundup.
