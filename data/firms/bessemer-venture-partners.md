@@ -172,6 +172,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 | ChipAgents | Series A2 extension ($60M; B Capital-led; Bessemer participated as existing investor alongside Micron, MediaTek, Ericsson, ScOp Venture Capital) | 2026-07-29 | AI / Agentic AI / Semiconductors / EDA | [^chip1][^chip2][^chip3] |
 | Bevel | Seed ($6M; SHAKTI-led; Resolute Ventures + Bessemer participated) | 2026-08-28 | Insurtech / AI / Risk Management | [^bevel1][^bevel2] |
 | The Exploration Company | Series C ($450M; co-led with Atomico and Scaleup Europe Fund managed by EQT; Balderton, Plural, Cherry, Red River West participated; Alex Ferrara joined the board) | 2026-09-08 | Deep Tech / Aerospace / Space | [^tec1][^tec2][^tec3] |
+| Rundoo | Series B (participated as existing investor, $30M; Battery Ventures led; CRV also participated as existing investor; Battery GP Michael Brown joined the board; Rundoo total raised $48M) | 2026-08-19 | AI / Vertical SaaS / Retail Tech / Small Business | [^rundoo-bvp1][^rundoo-bvp2][^rundoo-bvp3] |
 
 This table represents a small subset of BVP's 1,339 total investments [^5]. A comprehensive portfolio list is available at bvp.com/companies [^9].
 
@@ -342,3 +343,9 @@ However, founder experiences are not universally positive. One founder reported 
 [^tec2]: TechCrunch, "The Exploration Company nabs $450 million to challenge SpaceX," Anna Heim, September 8, 2026. Accessed September 2026. https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/ — Tier-1 press independent confirmation of the $450M Series C on September 8, 2026, co-led by Bessemer Venture Partners, Atomico, and EQT-managed Scaleup Europe Fund; confirms Alex Ferrara (Bessemer) joined the board.
 
 [^tec3]: EU-Startups, "The Exploration Company secures €387 million to accelerate development of reusable high-thrust rocket engine," September 8, 2026. Accessed September 2026. https://www.eu-startups.com/2026/09/the-exploration-company-secures-e387-million-to-accelerate-development-of-reusable-high-thrust-rocket-engine/ — European trade press confirmation of the round with EUR-denominated headline; company itself reported the round in USD as $450M.
+
+[^rundoo-bvp1]: Hardware Retailing, "AI-First Platform for Independents, Rundoo, Announces $48 Million in Financing," August 19, 2026. Accessed September 27, 2026. https://hardwareretailing.com/ai-first-platform-for-independents-rundoo-announces-48-million-in-financing/ — Trade press confirming $30M Series B led by Battery Ventures with existing-investor participation from Bessemer Venture Partners and CRV, bringing Rundoo's total funding to $48M.
+
+[^rundoo-bvp2]: SiliconANGLE, "Rundoo raises $30M to expand its AI-native operating system for small supply stores," August 19, 2026. Accessed September 2026. https://siliconangle.com/2026/08/19/rundoo-raises-30m-to-expand-its-ai-native-operating-system-for-small-supply-stores/ — Independent tech-press confirmation of Bessemer Venture Partners as Series B participant.
+
+[^rundoo-bvp3]: Tech Startups, "Rundoo raises $30M to help independent retailers take on Home Depot and other big-box chains with AI," August 19, 2026. Accessed September 2026. https://techstartups.com/2026/08/19/rundoo-raises-30m-to-help-independent-retailers-take-on-home-depot-and-other-big-box-chains-with-ai/ — Third independent tech-press confirmation of Bessemer Venture Partners's existing-investor participation in the $30M Series B.

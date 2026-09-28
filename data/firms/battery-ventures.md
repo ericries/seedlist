@@ -126,8 +126,10 @@ The following is a representative sample from Battery's 530+ investments [^3][^7
 | Hush Security | Series A (participated, $30M; Akamai strategic; YL Ventures also) | 2026-07-28 | AI Security / Non-Human Identity | Active | [^hush1][^hush2] |
 | Freehand | Series B (co-led, $75M; NewRoad Capital co-lead; Nexus Venture Partners, Penny Pritzker participated) | 2026-07-29 | Agentic AI / Supply Chain / Procurement | Active | [^fh1][^fh2] |
 | Terminal | Series A ($20M, led; Intact Private Capital, Penske, Y Combinator, Wayfinder Ventures participated; Marcus Ryu joined board) | 2026-07-29 | Insurtech / Fleet / Telematics API | Active | [^term1][^term2][^term3] |
+| Rundoo | Series B ($30M, led; Bessemer Venture Partners and CRV existing-investor participation; General Partner Michael Brown joined the board; total raised $48M) | 2026-08-19 | AI / Vertical SaaS / Retail Tech / Small Business | Active | [^rundoo-bv1][^rundoo-bv2][^rundoo-bv3] |
+| Rillet | Series C (participated, $100M at $1B post-money; ICONIQ led; Sequoia, Sequoia Global Equities, Andreessen Horowitz, Bain Capital Ventures, Oak HC/FT, FirstMark, Scale Venture Partners, Creandum also participated; total raised $200M+) | 2026-08-19 | AI / Fintech / ERP / Accounting / Vertical SaaS | Active | [^rillet-bv1][^rillet-bv2][^rillet-bv3] |
 
-*This table represents approximately 33 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
+*This table represents approximately 35 of 530+ known investments. Battery's full portfolio list includes 450+ companies as of Q3 2025 [^7].*
 
 ## In Their Own Words
 
@@ -228,3 +230,15 @@ Randy Eckels, CEO of Clubessential Holdings, stated: "Battery Ventures has truly
 [^feldera-bv2]: TechStartups, "Feldera secures $21.5M in Series A and Seed funding to cut database compute costs by 95%," Daniel Levi, September 21, 2026. Accessed September 2026. https://techstartups.com/2026/09/21/feldera-secures-21-5m-in-series-a-and-seed-funding-to-cut-database-compute-costs-by-95/ — Independent tech press confirming Battery Ventures in $21.5M combined round.
 
 [^feldera-bv3]: Axios Pro Rata, deal listings, September 21, 2026 edition. Confirms Feldera $15.4M Series A round with Inovia Capital as lead. Accessed September 2026. https://www.axios.com/newsletters/axios-pro-rata
+
+[^rundoo-bv1]: Hardware Retailing, "AI-First Platform for Independents, Rundoo, Announces $48 Million in Financing," August 19, 2026. Accessed September 27, 2026. https://hardwareretailing.com/ai-first-platform-for-independents-rundoo-announces-48-million-in-financing/ — Trade press confirming $30M Series B led by Battery Ventures with existing-investor participation from Bessemer Venture Partners and CRV, bringing Rundoo's total funding to $48M; Battery Ventures General Partner Michael Brown named as joining the board.
+
+[^rundoo-bv2]: SiliconANGLE, "Rundoo raises $30M to expand its AI-native operating system for small supply stores," August 19, 2026. Accessed September 2026. https://siliconangle.com/2026/08/19/rundoo-raises-30m-to-expand-its-ai-native-operating-system-for-small-supply-stores/ — Independent tech-press confirmation of the $30M Series B with Battery Ventures as lead.
+
+[^rundoo-bv3]: Tech Startups, "Rundoo raises $30M to help independent retailers take on Home Depot and other big-box chains with AI," August 19, 2026. Accessed September 2026. https://techstartups.com/2026/08/19/rundoo-raises-30m-to-help-independent-retailers-take-on-home-depot-and-other-big-box-chains-with-ai/ — Third independent tech-press confirmation of Battery Ventures as Series B lead alongside existing investors Bessemer Venture Partners and CRV.
+
+[^rillet-bv1]: Rillet blog (company primary), "Rillet Raises $100M Series C at $1B Valuation," August 19, 2026. Accessed September 27, 2026. https://www.rillet.com/blog/100m-series-c — Company announcement listing Battery Ventures among the investor group in the $100M Series C at $1B valuation led by ICONIQ.
+
+[^rillet-bv2]: TechCrunch, "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth," August 19, 2026. Accessed September 2026. https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/ — Tier-1 press confirmation of Rillet's $100M Series C at $1B post-money with Battery Ventures named in the participant list.
+
+[^rillet-bv3]: Fortune, "Accounting AI startup Rillet reaches unicorn status with $1 billion valuation. Its founder says he wants to give CFOs back their weekends," August 18, 2026. Accessed September 2026. https://fortune.com/2026/08/18/rillet-unicorn-1-billion-valuation-series-c-nicolas-kopp-accounting-ai/ — Independent tier-1 business press confirmation of the Series C unicorn round.

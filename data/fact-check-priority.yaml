@@ -7438,10 +7438,20 @@ priority:
   type: firm
   reason: appeared in Rillet Series C (2026-08-19) and Castelion Series C (2026-08-19)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-27'
+  resolution_note: |
+    Fact-spec sweep 2026-09-27: added TWO missing rows to andreessen-horowitz.md portfolio table — (1) Rillet Series C 2026-08-19, $100M at $1B post-money led by ICONIQ with a16z participating as returning investor alongside Sequoia, Sequoia Global Equities, Bain Capital Ventures, Oak HC/FT, Battery Ventures, FirstMark, Scale Venture Partners, and Creandum; total raised $200M+; and (2) Castelion Series C 2026-08-19, $800M equity + $250M revolving credit at $13B valuation, co-led by J.P. MorganChase Strategic Investment Group, Andreessen Horowitz, and Carlyle with Lightspeed, Lavrock, Altimeter, General Catalyst, Interlagos, and T. Rowe Price participating. Added 6 named-footnote citations ([^rillet-a1] Rillet blog verified via WebFetch — full investor list including a16z, [^rillet-a2] TechCrunch, [^rillet-a3] Fortune, [^cast-a1] Carlyle press release verified via WebFetch — a16z explicitly co-lead, [^cast-a2] SpaceNews, [^cast-a3] Axios). All primary sources match the same triad used on the Rillet and Castelion startup profiles.
+  processed: '2026-09-27'
 - slug: battery-ventures
   type: firm
   reason: appeared in Rillet Series C (2026-08-19) and Rundoo Series B (2026-08-19)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-27'
+  resolution_note: |
+    Fact-spec sweep 2026-09-27: added TWO missing rows to battery-ventures.md portfolio table — (1) Rundoo Series B 2026-08-19, $30M led by Battery Ventures with existing investors Bessemer Venture Partners and CRV participating; Battery General Partner Michael Brown joined the board; total raised $48M; and (2) Rillet Series C 2026-08-19, $100M at $1B post-money led by ICONIQ with Battery Ventures among the participants alongside Sequoia, Andreessen Horowitz, Sequoia Global Equities, Bain Capital Ventures, Oak HC/FT, FirstMark, Scale Venture Partners, and Creandum; Rillet total raised $200M+. Added 6 named-footnote citations ([^rundoo-bv1] Hardware Retailing verified via WebFetch — Battery Ventures explicit lead, [^rundoo-bv2] SiliconANGLE, [^rundoo-bv3] Tech Startups, [^rillet-bv1] Rillet blog verified via WebFetch — full investor list including Battery, [^rillet-bv2] TechCrunch, [^rillet-bv3] Fortune). All primary sources cross-reference the same triad already used on the Rundoo and Rillet startup profiles.
+  processed: '2026-09-27'
 - slug: creandum
   type: firm
   reason: appeared in Rillet Series C (2026-08-19)
@@ -7455,6 +7465,11 @@ priority:
   type: firm
   reason: appeared in Rundoo Series B (2026-08-19)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-27'
+  resolution_note: |
+    Fact-spec sweep 2026-09-27: added Rundoo Series B row to bessemer-venture-partners.md portfolio table — 2026-08-19, $30M led by Battery Ventures with Bessemer Venture Partners participating as existing investor alongside CRV; Battery General Partner Michael Brown joined the board; Rundoo total raised $48M. Added 3 named-footnote citations ([^rundoo-bvp1] Hardware Retailing verified via WebFetch — Bessemer explicit existing-investor participant, [^rundoo-bvp2] SiliconANGLE, [^rundoo-bvp3] Tech Startups). All 3 primary sources match the triad already cited on the Rundoo startup profile.
+  processed: '2026-09-27'
 - slug: crv
   type: firm
   reason: appeared in Rundoo Series B (2026-08-19)
