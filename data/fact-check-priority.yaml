@@ -7746,4 +7746,7 @@ priority:
 
     '
   added: 2026-09-28
-  status: pending
+  status: resolved
+  resolved: 2026-09-28
+  resolution_note: 'Fact-spec sweep 2026-09-28: verified Rainmaker $100M Series B (announced 2026-09-25) via 2 independent primary sources with a lead-investor discrepancy noted — (1) AlleyWatch weekly notable startup funding report 9/28/26 [^2] — WebFetched, confirms $100M Series B, El Segundo location, DCVC, Dream Ventures, Lowercarbon Capital, noa, Upfront Ventures participants, $131.3M total raised, but states "Lead Investor: Not disclosed"; (2) Crunchbase News weekly big-rounds roundup [^3] — WebFetched, confirms 2026-09-25 announcement date, $100M Series B, El Segundo cloud-seeding/atmospheric-research focus, and lists Noa, Upfront Ventures, DCVC, Lowercarbon Capital, and Dream Ventures as participants — Crunchbase names Noa as "lead investor" while AlleyWatch does not; (3) Attempted to WebFetch Rainmaker company blog [^1], press-kit page, DCVC portfolio page (dcvc.com), Lowercarbon portfolio page (lowercarbon.com/portfolio/rainmaker confirms only prior Series A $25M lead — no Series B info yet), TechCrunch, and Rainmaker-authored /blog/rainmaker-series-b — all either 404/blocked or contained no Series B lead attribution as of 2026-09-28. Given aggregator discrepancy, profile currently states "Not disclosed" for the lead which matches the AlleyWatch primary weekly report and is the conservative choice pending a Rainmaker or Noa direct press-release confirming Noa as lead. Currency preserved (USD). Total raised $131.3M. Web search budget exhausted this session — flag for follow-up when Rainmaker or Noa publish a direct blog/press release confirming lead status. Profile row remains as-is.'
+  processed: 2026-09-28

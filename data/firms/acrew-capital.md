@@ -116,9 +116,9 @@ The following table includes investments made both through Acrew Capital funds (
 |---------|-------|------|--------|--------|--------|
 | Wispr Flow | Series B (participated; $280M at $2B valuation; Menlo Ventures led; Notable Capital, NEA, Neo, 8VC, MVP Ventures, Activate, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital co-invested) | 2026-08-17 | AI / Voice / Productivity | Active | [^acr-wispr1][^acr-wispr2][^acr-wispr3] |
 | Aembit | Series A (led, $25M) | 2024-09-12 | Data & Security | Active | [^15] |
-| Aira | Series A ($13M, co-led) | 2021 | Data & Security / AI | Active | [^21][^22] |
+| Aira | Series A ($13M, co-led with Neotribe Ventures; Foothill Ventures, Ryan Drant, Carl Waldspurger participated) | 2021-09-16 | Data & Security / AI | Active | [^21][^22] |
 | Alix | Series A (led, $20M) | 2025-07-22 | Fintech / Estate Settlement | Active | [^23][^24] |
-| AltoIRA | Series A (participated) | 2021 | Fintech | Active | [^12][^26] |
+| AltoIRA | Series A (participated; USD 17M, Unusual Ventures led; Moment Ventures, Alpha Edison, Carta, Coinbase Ventures, Franklin Templeton, New York Life Ventures, Stone Ridge Holdings co-invested) | 2021-04-20 | Fintech | Active | [^12][^26] |
 | Amino | Series C (USD 25M; Highland Capital led; Accel, Aspect Ventures [Acrew predecessor firm], CRV, Northwestern Mutual Future Ventures, Pilot Wall Group participated — position carried into Acrew when Theresia Gouw spun out from Aspect in 2019) | 2017-04-04 | Health | Active | [^12][^44][^45][^46] |
 | Aqua Security | Growth | 2021 | Data & Security | Active | [^12] |
 | Arthur | Series A (USD 15M; Index Ventures led; Acrew Capital + Plexo Capital new; Homebrew, Work-Bench Ventures, AME Ventures returning from seed) | 2020-12-09 | Data & Security / AI | Active | [^12][^47][^48][^49] |

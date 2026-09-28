@@ -2432,7 +2432,10 @@ vague_facts:
   line: '| Aira | Series A ($13M, co-led) | 2021 | Data & Security / AI | Active | [^21][^22] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs). Row itself had year-only precision on the 2021 date — tightened to 2021-09-16 based on primary press-wire source. Row also expanded to name co-lead (Neotribe Ventures) and full participant syndicate (Foothill Ventures, Ryan Drant of Questa Capital, Carl Waldspurger). Verified via 2 primary sources: (1) PR Newswire [^21] "Aira Technologies Raises $13M in Equity Financing to Supercharge Wireless Using AI," 2021-09-16 — WebFetched, confirms exact 2021-09-16 announcement date, $13M amount, Neotribe Ventures + Acrew Capital co-lead, full participant list, includes CEO Anand Chandrasekher and Neotribe partner Swaroop Kolluri quotes; (2) Aira Technologies press release [^22] 2024-11-20 — company-primary source confirming Aira continues to raise from investor syndicate consistent with 2021 round narrative (Series B lead by AT&T Ventures, Intel Capital, In-Q-Tel with prior investors participating). Third contemporaneous press source (SiliconANGLE, TechCrunch, FinSMEs) attempted via URL guessing but all returned 404/403 — no additional independent primary source could be fetched. Currency preserved (USD). Row updated; no profile-body change beyond Portfolio table.'
+  processed: '2026-09-28'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Alix
@@ -2452,7 +2455,10 @@ vague_facts:
   line: '| AltoIRA | Series A (participated) | 2021 | Fintech | Active | [^12][^26] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs). Row itself had year-only precision on the 2021 date — tightened to 2021-04-20 based on primary press-wire source. Row also expanded with round amount (USD 17M), lead (Unusual Ventures), and full participant syndicate (Moment Ventures, Alpha Edison, Carta, Coinbase Ventures, Franklin Templeton, New York Life Ventures, Stone Ridge Holdings). Verified via 2 primary sources: (1) PR Newswire [^26] "Alto Closes $17 Million Series A Funding Round," 2021-04-20 — WebFetched, confirms exact 2021-04-20 announcement date, $17M amount, Unusual Ventures lead, Moment/Acrew/Alpha Edison/Carta/Coinbase Ventures/Franklin Templeton/NY Life Ventures/Stone Ridge Holdings participation, and CEO Eric Satz quote "Opening a self-directed IRA to invest in alternative assets like startups, real estate, or cryptocurrency should be easy"; (2) Unusual Ventures Alto post — WebFetched at unusual.vc/post/alto, independently confirms 2021-04-20 date, $17M amount, Unusual Ventures lead, and Moment/Acrew/Alpha Edison co-investors. Third contemporaneous press source (SiliconANGLE, TechCrunch, PYMNTS, FinSMEs) attempted via URL guessing but all returned 404/403/forbidden — no additional independent primary source could be fetched. Currency preserved (USD). Row updated; no profile-body change beyond Portfolio table.'
+  processed: '2026-09-28'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Amino
