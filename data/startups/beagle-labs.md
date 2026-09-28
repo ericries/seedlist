@@ -33,9 +33,9 @@ Beagle Labs is a New York–based insurtech that operates an AI platform deliver
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-23 | Pre-Seed | $4.1M | Chingona Ventures | Sovereign's Capital, Remarkable Ventures, C2 Ventures, South Loop Ventures, Red Bike Capital [^1] |
+| 2026-09-23 | Pre-Seed | $4.1M | Chingona Ventures | Sovereign's Capital, Remarkable Ventures, C2 Ventures, South Loop Ventures, Red Bike Capital [^1][^2][^3] |
 
-Total equity funding to date is $8.4M [^1].
+Total equity funding to date is $8.4M [^1][^2].
 
 ## What Investors Say
 
@@ -48,3 +48,5 @@ No independently sourced founder quotes available at this time.
 ## Sources
 
 [^1]: "The AlleyWatch Startup Daily Funding Report: 9/23/2026," AlleyWatch, September 23, 2026. Accessed September 28, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-23-2026/
+[^2]: "Beagle Labs Raises $4.1M in Pre-Seed Funding," FinSMEs, September 2026. Accessed September 28, 2026. https://www.finsmes.com/2026/09/beagle-labs-raises-4-1m-in-pre-seed-funding.html
+[^3]: Chingona Ventures portfolio page (Beagle Labs listed as a portfolio company), accessed September 28, 2026. https://www.chingona.ventures/

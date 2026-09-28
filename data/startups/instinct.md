@@ -49,9 +49,9 @@ Instinct is a San Francisco–based personal AI assistant startup operated by Sp
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-08-27 | Series B | $250M | Index Ventures, Benchmark | — [^1][^2][^3] |
-| 2026-09-28 | Series C | $1B | Sequoia Capital, Benchmark, Coatue | — [^4] |
+| 2026-09-28 | Series C | $1B | Sequoia Capital, Benchmark, Coatue | — [^4][^5][^6] |
 
-The Series C brought Instinct's valuation to $10B, roughly one month after the $2.5B valuation attached to its Series B [^4].
+The Series C brought Instinct's valuation to $10B, roughly one month after the $2.5B valuation attached to its Series B [^4][^5][^6].
 
 ## What Investors Say
 
@@ -68,3 +68,5 @@ No independently sourced investor quotes available at this time.
 [^2]: Quartz, "Instinct AI assistant raises $250 million Series B at $2.5B valuation," August 27, 2026, accessed August 2026. https://qz.com/instinct-ai-assistant-series-b-funding-valuation-082726
 [^3]: citybiz, "Instinct, Maker of Personal AI Assistant, Raises $250M at $2.5B Valuation," August 2026, accessed August 2026. https://www.citybiz.co/article/895693/instinct-maker-of-personal-ai-assistant-raises-250m-at-2-5b-valuation/
 [^4]: "Viral AI agent Instinct raises $1B Series C at a $10B valuation," TechCrunch, September 28, 2026. Accessed September 28, 2026. https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/
+[^5]: Kyt Dotson, "Everyday personal AI assistant startup Instinct raises $1B at $10B valuation," SiliconANGLE, September 28, 2026. Accessed September 28, 2026. https://siliconangle.com/2026/09/28/everyday-personal-ai-assistant-startup-instinct-raises-1b-at-10b-valuation/
+[^6]: "Personal AI Agent Instinct Quadruples Valuation to $10 Billion in 1 Month," PYMNTS, September 28, 2026. Accessed September 28, 2026. https://www.pymnts.com/artificial-intelligence-2/2026/personal-ai-agent-instinct-quadruples-valuation-to-10-billion-in-1-month/

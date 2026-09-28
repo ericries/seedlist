@@ -7768,21 +7768,37 @@ priority:
 
     '
   added: 2026-09-28
+  status: resolved
+  resolved: 2026-09-28
+  resolution_note: 'Fact-spec sweep 2026-09-28: verified Nscale $3.36B pre-IPO convertible (announced 2026-09-25) against 3 independent primary sources — (1) TechCrunch article by Marina Temkin [^1] (already cited); (2) Nscale''s own press release "Pre-IPO Convertible Financing" [^4] — WebFetched at https://www.nscale.com/press-releases/pre-ipo-convertible-financing, confirms 2026-09-25 date, $3.36B total, $2.36B initial tranche, $1B Nvidia commitment for mid-November, Third Point as lead, and 15 additional participants (Nvidia, Apollo, Citadel, Hudson Bay Capital, Abu Dhabi Investment Council, 8090 Industries, Davidson Kempner, QRT, Context Capital, Longaeva Partners, Wellington Management, Castleknight, Ghisallo Capital, LionTree Investment Fund, Javelin Venture Partners, Irving Investors); provides verbatim CEO Josh Payne quote; confirms Goldman Sachs as placement agent; (3) SEC EDGAR S-1 registration statement filed 2026-09-18 (File No. 333-299011, Accession No. 0001193125-26-395475) [^5] — regulatory primary source corroborating the pre-IPO framing and NSCALE Ltd (formerly DSNS HOLDINGS Ltd) entity identity. Currency preserved (USD). Added expanded co-investor list, mid-November NVIDIA tranche detail, Goldman Sachs placement agent, S-1 filing date, and verbatim founder quote to profile.'
+  processed: 2026-09-28
 - slug: quartermaster
   type: startup
   reason: 'Round monitoring 2026-09-28: new profile — $140M Series B (2026-09-28) co-led by Insight Partners and Overmatch Ventures with First Round Capital and Stifel ($40M debt). TechCrunch primary.
 
     '
   added: 2026-09-28
+  status: unresolvable
+  resolved: 2026-09-28
+  resolution_note: 'Fact-spec sweep 2026-09-28: attempted to verify Quartermaster $140M Series B (announced 2026-09-28) against 3+ independent primary sources but could reach only 1 (TechCrunch [^1], already cited). Attempted WebFetch on Quartermaster company website (quartermaster.tech DNS not found — the .tech domain does not resolve), Insight Partners newsroom (page 404/index does not surface company deal), Overmatch Ventures website (blank content), First Round Capital (redirected to review site with no news feed), SiliconANGLE (article does not exist), PYMNTS (no article), TechStartups (no article), Defense One (no article), Breaking Defense (404), Marine Link (404), AlleyWatch daily report for 9/28 (404 — daily report not yet published as of fetch), AlleyWatch September archive (Quartermaster not in visible index), Crunchbase (403), Bing search (no direct funding coverage — top hits are unrelated Quartermaster AI task-tracking company in Arlington, VA). Web search budget exhausted this session (200/200 used). Currency preserved (USD). Round is same-day announcement (2026-09-28) — corroborating aggregator coverage may not have crawled yet. Flag for follow-up in next cron cycle when AlleyWatch 9/28 report, PYMNTS/SiliconANGLE writeup, or Insight Partners announcement lands. Profile currently cites TechCrunch as sole primary source; row remains as-is with founder quote intact from that source.'
+  processed: 2026-09-28
 - slug: beagle-labs
   type: startup
   reason: 'Round monitoring 2026-09-28: new profile — $4.1M Pre-Seed (2026-09-23) led by Chingona Ventures with Sovereign''s Capital, Remarkable Ventures, C2 Ventures, South Loop Ventures, Red Bike Capital. AlleyWatch source.
 
     '
   added: 2026-09-28
+  status: resolved
+  resolved: 2026-09-28
+  resolution_note: 'Fact-spec sweep 2026-09-28: verified Beagle Labs $4.1M Pre-Seed (announced 2026-09-23) against 3 independent primary sources — (1) AlleyWatch Startup Daily Funding Report 9/23/2026 [^1] (already cited) — WebFetched, confirms $4.1M amount, 2026-09-23 date, Chingona Ventures lead, and full participant list (Sovereign''s Capital, Remarkable Ventures, C2 Ventures, South Loop Ventures, Red Bike Capital), NYC location, four co-founders, $8.4M total equity to date; (2) FinSMEs "Beagle Labs Raises $4.1M in Pre-Seed Funding" [^2] — confirmed via FinSMEs site search, article dated September 2026, corroborates $4.1M Pre-Seed amount, Chingona Ventures backer, "AI-enhanced property intelligence platform for complex commercial insurance underwriting" description, NYC HQ; (3) Chingona Ventures portfolio page [^3] — WebFetched at https://www.chingona.ventures/, confirms Beagle Labs is listed as a Chingona Ventures portfolio company (independent corroboration of the investor-startup relationship). Currency preserved (USD). Added FinSMEs and Chingona portfolio citations to funding history row.'
+  processed: 2026-09-28
 - slug: instinct
   type: startup
   reason: 'Round monitoring 2026-09-28: updated with $1B Series C (2026-09-28) at $10B valuation led by Sequoia Capital, Benchmark, Coatue. TechCrunch primary.
 
     '
   added: 2026-09-28
+  status: resolved
+  resolved: 2026-09-28
+  resolution_note: 'Fact-spec sweep 2026-09-28: verified Instinct $1B Series C at $10B valuation (announced 2026-09-28) against 3 independent primary sources — (1) TechCrunch "Viral AI agent Instinct raises $1B Series C at a $10B valuation" [^4] (already cited); (2) SiliconANGLE article by Kyt Dotson, "Everyday personal AI assistant startup Instinct raises $1B at $10B valuation" [^5] — WebFetched, confirms 2026-09-28 date, $1B amount, $10B valuation, Sequoia Capital + Benchmark + Coatue as lead investors, prior $250M Series B in August 2026 at $2.5B valuation, Spear Street Technology Inc. entity, verbatim Noah Shinn quote; (3) PYMNTS "Personal AI Agent Instinct Quadruples Valuation to $10 Billion in 1 Month" [^6] — WebFetched, confirms same 2026-09-28 date, $1B amount, $10B valuation (4x increase from Series B), Sequoia + Benchmark + Coatue trio, same Noah Shinn quote. All three sources are independent primary reporting on the same round. Currency preserved (USD). Added SiliconANGLE and PYMNTS as citations [^5] and [^6] to the Series C row.'
+  processed: 2026-09-28

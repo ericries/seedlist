@@ -29,9 +29,9 @@ Nscale is a London-headquartered AI infrastructure and neocloud company that ope
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-25 | Pre-IPO Convertible | $3.36B | Third Point | Nvidia [^1][^2] |
+| 2026-09-25 | Pre-IPO Convertible | $3.36B | Third Point | Nvidia, Apollo, Citadel, Hudson Bay Capital, Abu Dhabi Investment Council, 8090 Industries, Davidson Kempner Capital Management, Qube Research & Technologies, Context Capital Management, Longaeva Partners, Wellington Management, Castleknight, Ghisallo Capital Management, LionTree Investment Fund, Javelin Venture Partners, Irving Investors [^1][^2][^4] |
 
-The convertible financing is structured as notes that convert into equity shares upon IPO completion; $2.36B is available immediately and $1B from Nvidia is scheduled for mid-November [^1]. Nscale filed for a US IPO the prior week, seeking to raise approximately $3B in the offering at an expected NYSE valuation of $35B [^1]. Earlier funding history per Wikipedia: $155M Series A (December 2024); ~$1.1B Series B (2025) with NVIDIA, Nokia, and Dell participating; $433M pre-Series C SAFE (October 2025); ~$2B Series C (March 2026) at a $14.6B valuation [^2].
+The convertible financing is structured as notes that convert into equity shares upon IPO completion (or non-voting shares for NVIDIA); $2.36B is available immediately at closing and $1B from Nvidia is committed for mid-November [^1][^4]. Goldman Sachs & Co. LLC served as placement agent [^4]. Nscale filed a Form S-1 registration statement with the SEC on September 18, 2026 (File No. 333-299011) [^5] and is seeking to raise approximately $3B in the offering at an expected NYSE valuation of $35B [^1]. Earlier funding history per Wikipedia: $155M Series A (December 2024); ~$1.1B Series B (2025) with NVIDIA, Nokia, and Dell participating; $433M pre-Series C SAFE (October 2025); ~$2B Series C (March 2026) at a $14.6B valuation [^2].
 
 ## What Investors Say
 
@@ -39,10 +39,13 @@ No independently sourced investor quotes available at this time.
 
 ## What Founders Say
 
-No independently sourced founder quotes available at this time.
+> "This marks a milestone for Nscale as we continue scaling our full-stack AI infrastructure to meet unprecedented global demand."
+> — Josh Payne, Co-Founder & CEO, Nscale press release, September 25, 2026 [^4]
 
 ## Sources
 
 [^1]: Marina Temkin, "Ahead of U.S. IPO, British AI neocloud Nscale secures $3.36B in convertible financing," TechCrunch, September 25, 2026. Accessed September 28, 2026. https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/
 [^2]: "Nscale," Wikipedia, accessed September 28, 2026. https://en.wikipedia.org/wiki/Nscale
 [^3]: Nscale company website, accessed September 28, 2026. https://www.nscale.com/
+[^4]: "Pre-IPO Convertible Financing," Nscale press release, September 25, 2026. Accessed September 28, 2026. https://www.nscale.com/press-releases/pre-ipo-convertible-financing
+[^5]: "NSCALE Ltd Form S-1 Registration Statement," U.S. Securities and Exchange Commission EDGAR, filed September 18, 2026 (Accession No. 0001193125-26-395475; File No. 333-299011). Accessed September 28, 2026. https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002110365&type=S-1&dateb=&owner=include&count=40
