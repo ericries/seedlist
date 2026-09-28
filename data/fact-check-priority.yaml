@@ -5715,6 +5715,10 @@ priority:
   type: firm
   reason: appeared in Castelion Series C (2026-08-19)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: added Castelion Series C row to general-catalyst.md portfolio table — 2026-08-19, $800M equity + $250M revolving credit at $13B valuation, co-led by J.P. Morgan Chase Strategic Investment Group, Andreessen Horowitz, and Carlyle; General Catalyst participated alongside Lightspeed, Lavrock Ventures, Altimeter, Interlagos, and T. Rowe Price. Added 3 named-footnote citations: [^gc-cst1] Carlyle press release (co-lead primary source), [^gc-cst2] SpaceNews, [^gc-cst3] Axios — same primary triad already used on the castelion.md startup profile and the andreessen-horowitz.md portfolio row.'
+  processed: '2026-09-28'
 - slug: greenoaks
   type: firm
   reason: appeared in Also Series D (2026-08-19)
@@ -5751,6 +5755,10 @@ priority:
   type: firm
   reason: appeared in Instinct Series B (2026-08-27)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: added Instinct Series B row to benchmark.md portfolio table — 2026-08-27, $250M co-led by Benchmark and Index Ventures at $2.5B valuation; brings Instinct cumulative raised to $350M. Added 3 named-footnote citations: [^bmk-inst1] TechCrunch, [^bmk-inst2] Quartz, [^bmk-inst3] citybiz — same primary triad already cited on the instinct.md startup profile and the index-ventures.md portfolio row.'
+  processed: '2026-09-28'
 - slug: koch-disruptive-technologies
   type: firm
   reason: appeared in Gatik Series D (2026-08-25)
@@ -5759,6 +5767,10 @@ priority:
   type: firm
   reason: appeared in REGENT Series B (2026-08-27)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: added REGENT Series B row to dcvc.md portfolio table — 2026-08-27, $240M total ($120M equity + $120M debt); equity co-led by Mare Liberum and AE Industrial Partners; debt provided by Erebor Bank; DCVC participated alongside Founders Fund, Caffeinated Capital, Lockheed Martin Ventures, Japan Airlines, and Giant Step Capital. Added 3 named-footnote citations: [^dcvc-rgt1] REGENT press release (primary company source), [^dcvc-rgt2] Defense Daily, [^dcvc-rgt3] AeroTime — same primary triad already cited on the regent-craft.md startup profile.'
+  processed: '2026-09-28'
 - slug: founders-fund
   type: firm
   reason: appeared in REGENT Series B (2026-08-27)

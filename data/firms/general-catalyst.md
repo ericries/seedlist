@@ -146,6 +146,7 @@ The following table includes 72 verified investments sourced from General Cataly
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Castelion | Series C (participated; $800M equity + $250M revolving credit at $13B valuation; co-led by J.P. Morgan Chase Strategic Investment Group, Andreessen Horowitz, and Carlyle; Lightspeed, Lavrock Ventures, Altimeter, Interlagos, and T. Rowe Price also participated; low-cost hypersonic weapons; Blackbeard strike-missile program) | 2026-08-19 | Defense / Hypersonic Weapons / American Dynamism | Private [^gc-cst1][^gc-cst2][^gc-cst3] |
 | HubSpot | Series A (led) | 2007 | Enterprise SaaS | Public (IPO 2014) [^20] |
 | Kayak | Founding/Early Stage | 2004 | Consumer Internet / Travel | Acquired by Booking Holdings (2012) [^3][^43] |
 | Demandware | Early Stage | ~2004 (founded) | Enterprise / E-commerce | Acquired by Salesforce (2016) [^3] |
@@ -523,4 +524,10 @@ No independently sourced founder testimonials were found in this research pass. 
 
 [^gc-thatch-1]: Thatch company blog, "Thatch raises $108M Series C at a $1B valuation to build a healthcare system people love," Chris Ellis (CEO), September 15, 2026. Accessed September 2026. https://thatch.com/blog/thatch-series-c-announcement — Primary company source: definitive lead investor The General Partnership, $1B valuation, full 12-firm investor list including General Catalyst as an existing investor, CEO Chris Ellis quote on founding premise.
 [^gc-thatch-2]: AlleyWatch, "The AlleyWatch Weekly Notable Startup Funding Report: 9/21/26," accessed September 2026. https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-21-26/ — Tier-2 aggregator confirming $108M Series C, $192M cumulative funding, and the full investor list including General Catalyst.
+
+[^gc-cst1]: Carlyle press release, "Castelion Raises $1 Billion Series C to Scale Production of Low-Cost Hypersonic Weapons," August 19, 2026. Accessed September 28, 2026. https://www.carlyle.com/media-room/news-release-archive/castelion-raises-1-billion-series-c-scale-production-low-cost — Co-lead primary press release confirming $1B Series C ($800M equity + $250M revolving credit) at $13B valuation with General Catalyst among participants alongside Lightspeed, Lavrock Ventures, Altimeter, Interlagos, and T. Rowe Price.
+
+[^gc-cst2]: SpaceNews, "Hypersonic missile startup Castelion raises $1 billion," August 20, 2026. Accessed September 28, 2026. https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/ — Independent contemporaneous trade-press confirmation of Castelion's $1B Series C for its Blackbeard hypersonic strike missile program.
+
+[^gc-cst3]: Axios, "Startup missile maker Castelion valued at $13 billion," August 20, 2026. Accessed September 28, 2026. https://www.axios.com/2026/08/20/hypersonic-missile-castelion — Third independent tier-1 business-press source confirming the $13B post-money valuation on the $800M equity Series C and General Catalyst's participation.
 

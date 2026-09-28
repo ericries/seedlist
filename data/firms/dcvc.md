@@ -109,6 +109,7 @@ Based on the portfolio companies listed on DCVC's website across 10 sector categ
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| REGENT | Series B (participated; $240M total: $120M equity + $120M debt; equity co-led by Mare Liberum and AE Industrial Partners; debt provided by Erebor Bank; Founders Fund, Caffeinated Capital, Lockheed Martin Ventures, Japan Airlines, Giant Step Capital also participated; scale Seaglider manufacturing) | 2026-08-27 | Maritime Mobility / Defense / Electric Seagliders | Private | [^dcvc-rgt1][^dcvc-rgt2][^dcvc-rgt3] |
 | SentinelOne | Seed ($2.5M) | 2013 | Cybersecurity | Public (IPO 2021) | [^7][^14][^15] |
 | Planet | Early | 2012 | Space/Earth observation | Public (NYSE 2021) | [^11] |
 | Databricks | Early (round unspecified; DCVC's own portfolio page states "First Investment: 2014" but DCVC is NOT named in contemporaneous primary press for the 2014-06-30 Series B — NEA-led with A16Z participation only; likely a small follow-on or SPV that never surfaced in primary press) | 2014 | Data infrastructure | Active (Series L Jul 2026) | [^8][^12][^db-tc][^db-blog] |
@@ -188,3 +189,9 @@ Based on the portfolio companies listed on DCVC's website across 10 sector categ
 [^22]: Energize Capital, "Why We Invested in Emerald AI," August 25, 2026. Accessed August 2026. https://www.energizecap.com/news — Lead investor's own primary announcement of Emerald AI's Series A, with DCVC as co-lead. Emerald builds grid-aware energy management software for AI data centers to connect to the power grid faster while maintaining 99.999% reliability.
 
 [^23]: Emerald AI company website, accessed August 2026. https://www.emeraldai.co/ — Primary company source listing partnerships with NVIDIA, Oracle, NextEra Energy, Digital Realty, and National Grid; offices in Washington, DC, Boston, and San Francisco. Total capital raised to date: $218M ($68M+$150M).
+
+[^dcvc-rgt1]: REGENT press release, "REGENT secures $240 million Series B funding to scale Seaglider manufacturing and transform maritime mobility," August 27, 2026. Accessed September 28, 2026. https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility — Primary company source confirming REGENT's $240M Series B ($120M equity co-led by Mare Liberum and AE Industrial Partners; $120M debt from Erebor Bank) with DCVC, Founders Fund, Caffeinated Capital, Lockheed Martin Ventures, Japan Airlines, and Giant Step Capital among participants.
+
+[^dcvc-rgt2]: Defense Daily, "REGENT Raises $240 Million To Transition Seagliders To Manufacturing," August 27, 2026. Accessed September 28, 2026. https://www.defensedaily.com/regent-raises-240-million-to-transition-seagliders-to-manufacturing/business-financial/ — Independent defense trade-press confirmation of the $240M Series B and DCVC's participation.
+
+[^dcvc-rgt3]: AeroTime, "REGENT closes $240 million Series B round," August 2026. Accessed September 28, 2026. https://www.aerotime.aero/articles/regent-closes-240-million-series-b-round-from-defense-focused-investors — Third independent aerospace-press confirmation of REGENT's Series B and DCVC among participants alongside Founders Fund.

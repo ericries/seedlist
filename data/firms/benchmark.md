@@ -165,6 +165,7 @@ The following table includes 45 Benchmark investments verified through press cov
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Numeral | Series C (participated; $100M led by Insight Partners; Salesforce Ventures, Geodesic, Mayfield, FCVC, Y Combinator, Uncork also participated; CEO Sam Ross, CTO Matt Duvall) | 2026-09-23 | SaaS / Fintech / Tax Automation / AI | Private [^bmk-num1][^bmk-num2][^bmk-num3] |
+| Instinct | Series B (co-led with Index Ventures; $250M at $2.5B valuation; total raised $350M; personal AI assistant) | 2026-08-27 | AI / Consumer / Personal Assistants | Private [^bmk-inst1][^bmk-inst2][^bmk-inst3] |
 | eBay | Series A | 1997 | Marketplace | Public (IPO 1998) [^4] |
 | Ariba | Early | ~1996 | Enterprise | Public (acquired by SAP 2012) [^2] |
 | Red Hat | Early | ~1999 | Open Source / Enterprise | Acquired by IBM (2019) [^1] |
@@ -390,3 +391,9 @@ The following table includes 45 Benchmark investments verified through press cov
 [^bmk-num2]: "The Week's 10 Biggest Funding Rounds: Cybersecurity, AI And Health Lead With Island And Cyera Bringing In Massive Deals," Crunchbase News, September 26, 2026. Accessed September 26, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/ — Trade press summary naming Numeral's $100M Series C as Insight Partners-led.
 
 [^bmk-num3]: "Automating the Sales Tax Back Office," Salesforce Ventures perspectives, September 2026. Accessed September 26, 2026. https://www.salesforceventures.com/perspectives/automating-the-sales-tax-back-office — Co-investor primary source confirming Numeral's Series C and founders Sam Ross (CEO) and Matt Duvall (CTO).
+
+[^bmk-inst1]: TechCrunch, "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation," August 26, 2026. Accessed September 28, 2026. https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/ — Tier-1 tech press confirmation of Instinct's $250M Series B co-led by Benchmark and Index Ventures at $2.5B valuation with $350M cumulative raised.
+
+[^bmk-inst2]: Quartz, "Instinct AI assistant raises $250 million Series B at $2.5B valuation," August 27, 2026. Accessed September 28, 2026. https://qz.com/instinct-ai-assistant-series-b-funding-valuation-082726 — Independent business-press confirmation of Benchmark and Index Ventures as Series B co-leads at the $2.5B valuation.
+
+[^bmk-inst3]: citybiz, "Instinct, Maker of Personal AI Assistant, Raises $250M at $2.5B Valuation," August 2026. Accessed September 28, 2026. https://www.citybiz.co/article/895693/instinct-maker-of-personal-ai-assistant-raises-250m-at-2-5b-valuation/ — Third independent tech-press source confirming Benchmark's co-lead role and the $2.5B post-money valuation.
