@@ -7,8 +7,8 @@ location: "San Francisco, California"
 founded: 2025
 status_company: active
 sector: [ai, ai-agents, consumer, productivity]
-stage_latest: "Series B"
-total_raised: "$350M"
+stage_latest: "Series C"
+total_raised: "$1.35B+ (through Series C at $10B valuation, Sept 2026)"
 investors: []
 firms:
   - slug: index-ventures
@@ -19,11 +19,23 @@ firms:
     round: series-b
     year: 2026
     date: 2026-08-27
+  - slug: sequoia-capital
+    round: series-c
+    year: 2026
+    date: 2026-09-28
+  - slug: benchmark
+    round: series-c
+    year: 2026
+    date: 2026-09-28
+  - slug: coatue-management
+    round: series-c
+    year: 2026
+    date: 2026-09-28
 founders:
   - name: "Noah Shinn"
     role: "Founder & CEO"
 status: published
-last_researched: 2026-08-30
+last_researched: 2026-09-28
 ---
 
 ## About
@@ -37,6 +49,9 @@ Instinct is a San Francisco–based personal AI assistant startup operated by Sp
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
 | 2026-08-27 | Series B | $250M | Index Ventures, Benchmark | — [^1][^2][^3] |
+| 2026-09-28 | Series C | $1B | Sequoia Capital, Benchmark, Coatue | — [^4] |
+
+The Series C brought Instinct's valuation to $10B, roughly one month after the $2.5B valuation attached to its Series B [^4].
 
 ## What Investors Say
 
@@ -44,10 +59,12 @@ No independently sourced investor quotes available at this time.
 
 ## What Founders Say
 
-No independently sourced founder quotes available at this time.
+> "We're building Instinct to be the best personal agent that can handle the deeply personal nuances of everyday life."
+> — Noah Shinn, Founder & CEO, Instinct, TechCrunch, September 28, 2026 [^4]
 
 ## Sources
 
 [^1]: TechCrunch, "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation," August 26, 2026, accessed August 2026. https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/
 [^2]: Quartz, "Instinct AI assistant raises $250 million Series B at $2.5B valuation," August 27, 2026, accessed August 2026. https://qz.com/instinct-ai-assistant-series-b-funding-valuation-082726
 [^3]: citybiz, "Instinct, Maker of Personal AI Assistant, Raises $250M at $2.5B Valuation," August 2026, accessed August 2026. https://www.citybiz.co/article/895693/instinct-maker-of-personal-ai-assistant-raises-250m-at-2-5b-valuation/
+[^4]: "Viral AI agent Instinct raises $1B Series C at a $10B valuation," TechCrunch, September 28, 2026. Accessed September 28, 2026. https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/

@@ -38,6 +38,31 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Viral AI agent Instinct raises $1B Series C at a $10B valuation
+  url: https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/
+  source: techcrunch
+  date_found: '2026-09-28'
+  parsed_company: Viral AI agent Instinct
+  parsed_amount: $1B
+  parsed_round: Series C
+  status: pending
+- title: Ocean surveillance startup Quartermaster raises another $140M
+  url: https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/
+  source: techcrunch
+  date_found: '2026-09-28'
+  parsed_company: Ocean surveillance startup Quartermaster
+  parsed_amount: $140M
+  parsed_round: null
+  status: pending
+- title: Helsingborg’s conversation AI startup Klang raises €1.32 million and releases
+    open speech-to-text model for Swedish
+  url: https://www.eu-startups.com/2026/09/helsingborgs-conversation-ai-startup-klang-raises-e1-32-million-and-releases-open-speech-to-text-model-for-swedish/
+  source: eu-startups
+  date_found: '2026-09-28'
+  parsed_company: Helsingborg’s conversation AI startup Klang
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 9/28/26'
   url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-28-26/
   source: alleywatch
@@ -142,14 +167,6 @@ pending_rounds:
   date_found: '2026-09-25'
   parsed_company: ADARx Pharmaceuticals
   parsed_amount: $446M
-  parsed_round: null
-  status: pending
-- title: Nscale raised $3.36B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-25'
-  parsed_company: Nscale
-  parsed_amount: $3.36B
   parsed_round: null
   status: pending
 - title: GoldHaven Closes Additional Tranche of Flow-Through Financing Bringing Total
@@ -829,31 +846,4 @@ pending_rounds:
   parsed_company: Vilnius-based EnforceShield
   parsed_amount: null
   parsed_round: Seed
-  status: pending
-- title: Helsinki’s Zero raises €8.93 million with backing from Lovable and Supercell
-    founders to make CRM history
-  url: https://www.eu-startups.com/2026/09/helsinkis-zero-raises-e8-93-million-with-backing-from-lovable-and-supercell-founders-to-make-crm-history/
-  source: eu-startups
-  date_found: '2026-09-15'
-  parsed_company: Helsinki’s Zero
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Dutch AI chip startup EUCLYD lands over €200 million Series A, taps ex-ASML
-    chief Peter Wennink as Chairman
-  url: https://www.eu-startups.com/2026/09/dutch-ai-chip-startup-euclyd-lands-e200-million-series-a-taps-ex-asml-chief-peter-wennink-as-chairman/
-  source: eu-startups
-  date_found: '2026-09-15'
-  parsed_company: Dutch AI chip startup EUCLYD
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months
-    after last round
-  url: https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/
-  source: techcrunch
-  date_found: '2026-09-15'
-  parsed_company: AEO startup Profound hits unicorn valuation,
-  parsed_amount: $180M
-  parsed_round: Series D
   status: pending
