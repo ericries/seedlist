@@ -7818,14 +7818,23 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-28: updated with $34.5M Series B (2026-09-28) at $335M post-money led by SignalFire with Fika Ventures, Permanent Capital Ventures, TTV Capital, Dash Fund. TechCrunch and Outmarket blog primary.'
   added: 2026-09-28
-  status: pending
+  status: resolved
+  resolved: 2026-09-28
+  resolution_note: 'Fact-spec sweep 2026-09-28 (later): verified Outmarket AI $34.5M Series B at $335M post-money (announced 2026-09-28) against 3+ independent primary sources — (1) TechCrunch article [^3] (already cited) — confirms $34.5M, SignalFire lead, four months after $17M Series A, verbatim Vishal Sankhla quote; (2) Outmarket AI blog [^4] (already cited) — company-issued primary confirming amount and dating; (3) SignalFire blog May 2026 [^5] (already cited) — lead-investor thesis primary; (4) SignalFire portfolio page [^6] (newly added, WebFetched at https://www.signalfire.com/portfolio) — independent lead-investor confirmation listing Outmarket as current portfolio, founders Vishal Sankhla and Anshu Jain, sectors Vertical SaaS + AI/ML Tools, partner-since Series A; (5) FinSMEs [^7] (newly added; article verified via FinSMEs homepage listing — direct URL returns 403 to WebFetch but article exists at https://www.finsmes.com/2026/09/outmarket-ai-raises-34-5m-in-series-b-funding.html and is dated September 28, 2026, describing Outmarket AI as San Francisco-based AI insurance platform). Currency preserved (USD). No corrections needed — funding row already accurate.'
+  processed: 2026-09-28
 - slug: modulate
   type: startup
   reason: 'Round monitoring 2026-09-28: new profile — $25M (2026-09-28) led by Future Ventures with Hyperplane and Lakestar. TechCrunch, Modulate blog, and Modulate homepage primary.'
   added: 2026-09-28
-  status: pending
+  status: resolved
+  resolved: 2026-09-28
+  resolution_note: 'Fact-spec sweep 2026-09-28 (later): verified Modulate $25M Growth round (announced 2026-09-28) against 3+ independent primary sources — (1) TechCrunch article "Modulate raises $25M for its voice models and analysis suite" [^1] (already cited) — confirms $25M, Future Ventures lead, Hyperplane and Lakestar as co-investors, verbatim Carter Huffman quote, prior $41M at $170M valuation per PitchBook; (2) Modulate blog by Carter Huffman and Mike Pappas [^2] (already cited) — company primary confirming $60M cumulative funding; (3) Modulate homepage announcement banner [^3] (already cited) — reads verbatim "Announcing $25 million in new funding led by Future Ventures"; (4) Hyperplane VC portfolio page [^4] (newly added, WebFetched at https://www.hyperplane.vc/) — independent co-investor confirmation listing Modulate as portfolio with description "The world''s best voice intelligence platform. 300M+ users, #1 in accuracy, cost, and speed" and noting Hyperplane led seed round. Added second verbatim founder quote from Modulate blog ("The next generation of AI won''t just need to know how to talk. It will need to know how to listen") to What Founders Say. Currency preserved (USD). Attempted Lakestar news page (Modulate not listed), Crunchbase News (no article), FinSMEs (no article surfaced), SiliconANGLE and TechFundingNews (both 404) — web search budget already exhausted this session.'
+  processed: 2026-09-28
 - slug: future-ventures
   type: firm
   reason: 'Round monitoring 2026-09-28: led Modulate $25M round (2026-09-28) — Boston voice AI, expanding beyond ToxMod into audio-native conversational intelligence.'
   added: 2026-09-28
-  status: pending
+  status: resolved
+  resolved: 2026-09-28
+  resolution_note: 'Fact-spec sweep 2026-09-28 (later): added Modulate row to Future Ventures portfolio table with lead role, $25M growth round dated 2026-09-28, sector "AI / Voice AI / Trust & Safety", and three named-footnote citations ([^mod-fv1] TechCrunch, [^mod-fv2] Modulate blog, [^mod-fv3] Hyperplane VC portfolio). Same three sources as the Modulate startup profile — see that resolution for verification detail. Currency preserved (USD).'
+  processed: 2026-09-28

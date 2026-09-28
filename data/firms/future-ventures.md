@@ -96,6 +96,7 @@ Based on 28 verified portfolio investments, the following patterns emerge. Note:
 | Amplifier Therapeutics | Series A ($33.25M) | 2023 | Biotech / longevity therapeutics | [^37] |
 | Pumpkinseed | Series A (co-led, $20M) | 2026-05-05 | Biotech / Proteomics | [^38][^39] |
 | Gaussion | Series B (participated, €24.5M; BGF and AlbionVC co-led) | 2026-06-29 | Batteries / Deeptech / Climate | [^40][^41][^42] |
+| Modulate | Growth (led, $25M; Hyperplane and Lakestar participated) | 2026-09-28 | AI / Voice AI / Trust & Safety | [^mod-fv1][^mod-fv2][^mod-fv3] |
 
 *This table represents approximately 33% of Future Ventures' reported 66 investments. Many early-stage investments have not been publicly disclosed. Several investments listed (SpaceX, Tesla, Planet Labs, Mythic) were originally made while Jurvetson was at DFJ and carried over or continued through Future Ventures.*
 
@@ -206,5 +207,11 @@ Gerard Barron, Chairman and CEO of The Metals Company, said upon Jurvetson joini
 [^mwb-fv2]: BioPharm International, "Moonwalk Biosciences Raises $70 Million to Advance Adipose RNAi for Obesity," September 2026. Accessed September 16, 2026. https://www.biopharminternational.com/view/moonwalk-biosciences-70m-adipose-rnai-obesity — Independent trade press confirmation naming Future Ventures alongside Alpha Wave (co-lead), YK Bioventures (co-lead), Eli Lilly, Gaorong Ventures, ARCH Venture Partners, and Khosla Ventures. Includes verbatim Alex Aravanis (CEO) and Rick Gerson (Chairman) quotes.
 
 [^mwb-fv3]: Yahoo Finance / NYSE Content Update, "Moonwalk Biosciences Announces $70 Million Series B," September 9, 2026. Accessed September 16, 2026. https://finance.yahoo.com/markets/stocks/articles/moonwalk-biosciences-announces-70-million-125500440.html — Third-party syndicated primary confirmation of the $70M Series B on September 8, 2026 to advance MW101 adipose-targeted RNAi program toward first-in-human studies in late 2027.
+
+[^mod-fv1]: TechCrunch, "Modulate raises $25M for its voice models and analysis suite," September 28, 2026. Accessed September 28, 2026. https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/ — Primary press confirming Future Ventures led Modulate's $25M round on 2026-09-28 with Hyperplane and Lakestar participating; includes Carter Huffman quote and $60M total-raised context.
+
+[^mod-fv2]: Modulate blog, "We Started by Asking What Machines Could Hear. Now We're Building What Comes Next," Carter Huffman and Mike Pappas, September 28, 2026. Accessed September 28, 2026. https://www.modulate.ai/blog/we-started-by-asking-what-machines-could-hear-now-were-building-what-comes-next — Company-issued primary source naming Future Ventures as lead, Hyperplane and Lakestar as co-investors, $25M raise size, and $60M cumulative funding.
+
+[^mod-fv3]: Hyperplane VC portfolio page, listing Modulate as portfolio company and noting Hyperplane led Modulate's seed round. Accessed September 28, 2026. https://www.hyperplane.vc/ — Independent co-investor primary confirmation of ongoing Modulate portfolio relationship.
 
 [^mwb-launch1]: Moonwalk Biosciences primary press release, "Moonwalk Biosciences Launches with $57 Million in Financing to Advance a New Class of Precision Epigenetic Medicines," January 4, 2024. Accessed September 2026. https://moonwalk.bio/news/moonwalk-biosciences-launches-with-57-million-in-financing-to-advance-a-new-class-of-precision-epigenetic-medicines/ — Primary company source confirming 2024-01-04 launch date, Alpha Wave Ventures lead, and participation from ARCH Venture Partners, Future Ventures, GV, Khosla Ventures, YK Bioventures. Includes verbatim CEO Alex Aravanis quote ("Epigenome engineering is the next frontier of genetic medicines...") and Rick Gerson (Alpha Wave Global) quote ("Moonwalk's epigenetic engineering platform represents an exciting new era in genetic medicine, by targeting the root cause of disease.").
