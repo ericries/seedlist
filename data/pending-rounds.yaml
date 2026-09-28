@@ -63,14 +63,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Modulate raises $25M for its voice models and analysis suite
-  url: https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/
-  source: techcrunch
-  date_found: '2026-09-28'
-  parsed_company: Modulate
-  parsed_amount: $25M
-  parsed_round: null
-  status: pending
 - title: Insuretech Outmarket raises $34.5M just months after prior round
   url: https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/
   source: techcrunch
@@ -85,6 +77,39 @@ pending_rounds:
   date_found: '2026-09-28'
   parsed_company: Maritime intelligenc startup Quartermaster
   parsed_amount: $140M
+  parsed_round: null
+  status: pending
+- title: Combat-tested in Ukraine, DOD Solution raises €1.8 million to scale AI autonomy
+    for unmanned systems
+  url: https://www.eu-startups.com/2026/09/combat-tested-in-ukraine-dod-solution-raises-e1-8-million-to-scale-ai-autonomy-for-unmanned-systems/
+  source: eu-startups
+  date_found: '2026-09-28'
+  parsed_company: Combat-tested in Ukraine, DOD Solution
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Erad raised $22M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-28'
+  parsed_company: Erad
+  parsed_amount: $22M
+  parsed_round: Series A
+  status: pending
+- title: Bluerock Acquisition II raised $150M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-28'
+  parsed_company: Bluerock Acquisition II
+  parsed_amount: $150M
+  parsed_round: null
+  status: pending
+- title: one week after postponing an offering that would have raised $825M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-28'
+  parsed_company: one week after postponing an offering that would have
+  parsed_amount: $825M
   parsed_round: null
   status: pending
 - title: 'The Weekly Notable Startup Funding Report: 9/28/26'
@@ -817,39 +842,5 @@ pending_rounds:
   date_found: '2026-09-15'
   parsed_company: Shennon Biotechnologies
   parsed_amount: $12M
-  parsed_round: null
-  status: pending
-- title: Nara Health raised $10M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-15'
-  parsed_company: Nara Health
-  parsed_amount: $10M
-  parsed_round: Seed
-  status: pending
-- title: and has raised $300M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-15'
-  parsed_company: and has
-  parsed_amount: $300M
-  parsed_round: null
-  status: pending
-- title: 'Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup
-    Funding'
-  url: https://news.crunchbase.com/sales-marketing/ai-growing-share-ecommerce-saas-crm-startup-funding/
-  source: crunchbase
-  date_found: '2026-09-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Crane Venture Partners raises €419 million as it expands across Europe, APAC
-    and the US
-  url: https://www.eu-startups.com/2026/09/crane-venture-partners-raises-e419-million-as-it-expands-across-europe-apac-and-the-us/
-  source: eu-startups
-  date_found: '2026-09-15'
-  parsed_company: Crane Venture Partners
-  parsed_amount: null
   parsed_round: null
   status: pending

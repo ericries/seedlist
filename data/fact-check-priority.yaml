@@ -7802,3 +7802,18 @@ priority:
   resolved: 2026-09-28
   resolution_note: 'Fact-spec sweep 2026-09-28: verified Instinct $1B Series C at $10B valuation (announced 2026-09-28) against 3 independent primary sources — (1) TechCrunch "Viral AI agent Instinct raises $1B Series C at a $10B valuation" [^4] (already cited); (2) SiliconANGLE article by Kyt Dotson, "Everyday personal AI assistant startup Instinct raises $1B at $10B valuation" [^5] — WebFetched, confirms 2026-09-28 date, $1B amount, $10B valuation, Sequoia Capital + Benchmark + Coatue as lead investors, prior $250M Series B in August 2026 at $2.5B valuation, Spear Street Technology Inc. entity, verbatim Noah Shinn quote; (3) PYMNTS "Personal AI Agent Instinct Quadruples Valuation to $10 Billion in 1 Month" [^6] — WebFetched, confirms same 2026-09-28 date, $1B amount, $10B valuation (4x increase from Series B), Sequoia + Benchmark + Coatue trio, same Noah Shinn quote. All three sources are independent primary reporting on the same round. Currency preserved (USD). Added SiliconANGLE and PYMNTS as citations [^5] and [^6] to the Series C row.'
   processed: 2026-09-28
+- slug: outmarket-ai
+  type: startup
+  reason: 'Round monitoring 2026-09-28: updated with $34.5M Series B (2026-09-28) at $335M post-money led by SignalFire with Fika Ventures, Permanent Capital Ventures, TTV Capital, Dash Fund. TechCrunch and Outmarket blog primary.'
+  added: 2026-09-28
+  status: pending
+- slug: modulate
+  type: startup
+  reason: 'Round monitoring 2026-09-28: new profile — $25M (2026-09-28) led by Future Ventures with Hyperplane and Lakestar. TechCrunch, Modulate blog, and Modulate homepage primary.'
+  added: 2026-09-28
+  status: pending
+- slug: future-ventures
+  type: firm
+  reason: 'Round monitoring 2026-09-28: led Modulate $25M round (2026-09-28) — Boston voice AI, expanding beyond ToxMod into audio-native conversational intelligence.'
+  added: 2026-09-28
+  status: pending

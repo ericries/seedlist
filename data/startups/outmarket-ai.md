@@ -12,23 +12,26 @@ sector:
 - ai-agents
 - enterprise-software
 - vertical-saas
-stage_latest: Series A
-total_raised: $21.7M
+stage_latest: Series B
+total_raised: $56.2M
 investors: []
 firms: []
-founders: []
-last_researched: 2026-05-14
+founders:
+- name: Vishal Sankhla
+  role: Founder & CEO
+last_researched: 2026-09-28
 status: published
 ---
 
 ## About
 
-Outmarket AI is an AI platform for the insurance industry, building AI-driven workflows for commercial, benefits, personal lines, and specialty insurance brokerages [^1][^2]. The $17M Series A announced May 13, 2026 was led by Permanent Capital Ventures with participation from SignalFire, Fika Ventures, TTV Capital, and Dash Fund, plus strategic investments from independent agency networks, prominent agency owners, and senior industry executives [^1][^2]. Total funding now stands at $21.7M [^1].
+Outmarket AI is an AI platform for the insurance industry, building AI-driven workflows for commercial, benefits, personal lines, and specialty insurance brokerages [^1][^2]. Founded in late 2023 by Vishal Sankhla (formerly VP of Product at Ethos), the company automates administrative workflows for insurance agencies and brokers handling commercial policies, addressing over 250 different coverage types [^3]. On September 28, 2026, Outmarket announced a $34.5M Series B led by SignalFire at a $335M post-money valuation, four months after its $17M Series A [^3][^4].
 
 ## Funding History
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
+| 2026-09-28 | Series B | $34.5M | SignalFire | Fika Ventures, Permanent Capital Ventures, TTV Capital, Dash Fund [^3][^4] |
 | 2026-05-13 | Series A | $17M | Permanent Capital Ventures | SignalFire, Fika Ventures, TTV Capital, Dash Fund [^1][^2] |
 
 ## What Investors Say
@@ -37,9 +40,11 @@ No independently sourced investor quotes found at this time.
 
 ## What Founders Say
 
-No independently sourced founder quotes found at this time.
+"Ninety-five percent of insurance in the U.S. and worldwide is still sold through [human] agents, and when you look at sort of like how the process is today, it's very manual. This is a huge opportunity given how massive this industry is." — Vishal Sankhla, Founder & CEO, TechCrunch, September 28, 2026 [^3]
 
 ## Sources
 
 [^1]: PR Newswire, "Outmarket AI Raises $17M Series A to Power the Intelligence Era of Insurance," May 13, 2026. Accessed May 2026. https://www.prnewswire.com/news-releases/outmarket-ai-raises-17m-series-a-to-power-the-intelligence-era-of-insurance-302770379.html
 [^2]: Insurance Innovation Reporter, "Outmarket AI Raises $17 Million Series A," May 13, 2026. Accessed May 2026. https://iireporter.com/outmarket-ai-raises-17-million-series-a/
+[^3]: TechCrunch, "Insuretech Outmarket raises $34.5M just months after prior round," September 28, 2026. Accessed September 2026. https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/
+[^4]: Outmarket AI blog, "Outmarket Raises $34.5 Million Series B, Four Months After Announcing Our Series A," September 25, 2026. Accessed September 2026. https://www.outmarket.ai/blog

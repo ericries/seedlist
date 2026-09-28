@@ -680,3 +680,18 @@
   priority: normal
   source: 'user suggestion (issue #16)'
   type: individual
+- name: SignalFire
+  type: firm
+  source: led Outmarket Series B $34.5M (2026-09-25)
+  discovered_from: outmarket
+  priority: high
+- name: Fika Ventures
+  type: firm
+  source: co-investor in Outmarket Series B (2026-09-25)
+  discovered_from: outmarket
+  priority: normal
+- name: TTV Capital
+  type: firm
+  source: co-investor in Outmarket Series B (2026-09-25)
+  discovered_from: outmarket
+  priority: normal
