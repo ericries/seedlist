@@ -63,6 +63,30 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Modulate raises $25M for its voice models and analysis suite
+  url: https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/
+  source: techcrunch
+  date_found: '2026-09-28'
+  parsed_company: Modulate
+  parsed_amount: $25M
+  parsed_round: null
+  status: pending
+- title: Insuretech Outmarket raises $34.5M just months after prior round
+  url: https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/
+  source: techcrunch
+  date_found: '2026-09-28'
+  parsed_company: Insuretech Outmarket
+  parsed_amount: $34.5M
+  parsed_round: null
+  status: pending
+- title: Maritime intelligenc startup Quartermaster raises another $140M
+  url: https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/
+  source: techcrunch
+  date_found: '2026-09-28'
+  parsed_company: Maritime intelligenc startup Quartermaster
+  parsed_amount: $140M
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 9/28/26'
   url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-28-26/
   source: alleywatch
@@ -828,22 +852,4 @@ pending_rounds:
   parsed_company: Crane Venture Partners
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: London-based Jack & Jill raises €34.68 million Series A to scale its AI agents
-    for jobseekers and employers
-  url: https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/
-  source: eu-startups
-  date_found: '2026-09-15'
-  parsed_company: London-based Jack & Jill
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Vilnius-based EnforceShield raises €1.7 million Seed round to fight AI-powered
-    IP abuse with autonomous enforcement
-  url: https://www.eu-startups.com/2026/09/vilnius-based-enforceshield-raises-e1-7-million-seed-round-to-fight-ai-powered-ip-abuse-with-autonomous-enforcement/
-  source: eu-startups
-  date_found: '2026-09-15'
-  parsed_company: Vilnius-based EnforceShield
-  parsed_amount: null
-  parsed_round: Seed
   status: pending
