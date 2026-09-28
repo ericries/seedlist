@@ -38,7 +38,7 @@ Firecrawl builds developer infrastructure for turning web content into structure
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-09-22 | Series B | $75M | Smash Capital | Altos Ventures, Freestyle Capital, Nexus Venture Partners, Offline Ventures, Y Combinator [^1][^2][^4] |
+| 2026-09-22 | Series B | $75M | Smash Capital | Altos Ventures, Freestyle Capital, Nexus Venture Partners, Offline Ventures, Y Combinator [^1][^2][^3][^4] |
 
 ## What Investors Say
 
