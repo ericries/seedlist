@@ -122,6 +122,7 @@ This table represents 40 verified investments out of approximately 397 total com
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Rundoo | Series B (participated; $30M led by Battery Ventures; Bessemer Venture Partners co-invested; brings total to $48M in financing) | 2026-08-19 | Vertical SaaS / AI / Retail Operating System | Private [^crv-rd1][^crv-rd2][^crv-rd3] |
 | Zendesk | Series A | 2009 | Enterprise/SaaS | Acquired ($10.2B, 2022) [^11] |
 | HubSpot | Series B | 2011 | Enterprise/SaaS | IPO (2014) [^12] |
 | DoorDash | Seed | 2013 | Consumer/Marketplace | IPO (2020) [^13] |
@@ -287,3 +288,9 @@ Note: All founder quotes above are sourced from CRV's own portfolio pages. These
 
 [^protege-crv1]: PR Newswire, "Protege Raises $10 Million and Launches Platform for AI Training Data," September 10, 2024. Accessed September 2026. https://www.prnewswire.com/news-releases/protege-raises-10-million-and-launches-platform-for-ai-training-data-302244064.html — Primary company press release confirming CRV led the $10M seed round on 2024-09-10, with participation from SV Angel, Liquid 2 Ventures, Bloomberg Beta, Flex Capital, Adam D'Angelo, and Travis May. Saar Gur (CRV General Partner) quoted: "The training data opportunity is one of the largest I've seen in my career." Founders: Bobby Samuels (CEO) and Travis May.
 [^protege-crv2]: Signal by NFX, "Auren Hoffman's Investing Profile - Flex Capital General Partner." Accessed September 2026. https://signal.nfx.com/investors/auren-hoffman — Independent aggregator listing Protege's 2024-09 $10M seed alongside subsequent Series A rounds (Aug 2025 $25M and Jan 2026 $30M); confirms Saar Gur (CRV) among named participants.
+
+[^crv-rd1]: SiliconANGLE, "Rundoo raises $30M to expand its AI-native operating system for small supply stores," August 19, 2026. Accessed September 27, 2026. https://siliconangle.com/2026/08/19/rundoo-raises-30m-to-expand-its-ai-native-operating-system-for-small-supply-stores/ — Tier-1 tech press confirmation of Rundoo's $30M Series B on August 19, 2026, led by Battery Ventures with CRV and Bessemer Venture Partners participating.
+
+[^crv-rd2]: Hardware Retailing, "AI-First Platform for Independents, Rundoo, Announces $48 Million in Financing," August 19, 2026. Accessed September 27, 2026. https://hardwareretailing.com/ai-first-platform-for-independents-rundoo-announces-48-million-in-financing/ — Independent trade-press confirmation of the $30M Series B and $48M cumulative financing with CRV among participants.
+
+[^crv-rd3]: Tech Startups, "Rundoo raises $30M to help independent retailers take on Home Depot and other big-box chains with AI," August 19, 2026. Accessed September 27, 2026. https://techstartups.com/2026/08/19/rundoo-raises-30m-to-help-independent-retailers-take-on-home-depot-and-other-big-box-chains-with-ai/ — Third independent tech-press source naming CRV among Series B participants alongside Battery Ventures (lead) and Bessemer Venture Partners.

@@ -113,6 +113,7 @@ Based on Index Ventures' verified portfolio and recent exit data, the following 
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| Instinct | Series B (co-led with Benchmark; $250M at $2.5B valuation; brings total raised to $350M; personal AI assistant) | 2026-08-27 | AI / Consumer / Personal Assistants | [^idx-inst1][^idx-inst2][^idx-inst3] |
 | Footprint | Series B (participated; QED-led $25M; MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital also participated) | 2026-09-16 | Fintech / Identity / KYC / AML / AI | [^footprint-idx-1][^footprint-idx-2] |
 | Figma | Seed (USD 3.8M total; Index Ventures led with USD 1.8M; angel Terrence Rohan participated) | 2013-06-26 | Design/SaaS | [^9][^72][^73] |
 | Wiz | Seed (USD 21M total; Sequoia and Cyberstarts co-led; Index Ventures invested USD 3.5M; ~USD 67M post-money valuation) | 2020-02 | Cybersecurity | [^10][^74][^75][^76] |
@@ -323,4 +324,10 @@ A founder noted: "It's clear that Index is all in. They're in the business for m
 [^footprint-idx-1]: Footprint, "Footprint's Series B & The Race For Time and Memory," Eli Wachs, September 16, 2026. Accessed September 17, 2026. https://www.onefootprint.com/learn/series-b — Primary company source: names Index Ventures among Series B participants alongside QED (lead), MUFG, Commerce Ventures, LightBank, Alumni Ventures, Lerer Hippeau, BoxGroup, Operator Partners, and Animal Capital.
 
 [^footprint-idx-2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/16/2026," September 16, 2026. Accessed September 17, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-16-2026/ — Independent contemporaneous tech press: confirms Index Ventures among Series B participants; $25M total; $45M total raised.
+
+[^idx-inst1]: TechCrunch, "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation," August 26, 2026. Accessed September 27, 2026. https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/ — Tier-1 tech press confirmation of Instinct's $250M Series B co-led by Index Ventures and Benchmark at $2.5B valuation, with $350M cumulative raised.
+
+[^idx-inst2]: Quartz, "Instinct AI assistant raises $250 million Series B at $2.5B valuation," August 27, 2026. Accessed September 27, 2026. https://qz.com/instinct-ai-assistant-series-b-funding-valuation-082726 — Independent business-press confirmation of Index Ventures and Benchmark as Series B co-leads at the $2.5B valuation.
+
+[^idx-inst3]: citybiz, "Instinct, Maker of Personal AI Assistant, Raises $250M at $2.5B Valuation," August 2026. Accessed September 27, 2026. https://www.citybiz.co/article/895693/instinct-maker-of-personal-ai-assistant-raises-250m-at-2-5b-valuation/ — Third independent tech-press source confirming Index Ventures' co-lead role and the $2.5B post-money valuation.
 
