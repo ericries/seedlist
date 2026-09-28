@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Dextr AI raised $6.7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-28'
+  parsed_company: Dextr AI
+  parsed_amount: $6.7M
+  parsed_round: Seed
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 9/28/26'
   url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-28-26/
   source: alleywatch
@@ -847,12 +855,4 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Series A
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/15/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-15-2026/
-  source: alleywatch
-  date_found: '2026-09-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
   status: pending
