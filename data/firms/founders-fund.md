@@ -179,6 +179,7 @@ The following table includes all 61 companies listed on Founders Fund's portfoli
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Fortell | Growth (participated, $163M; Thrive Capital, Valor Equity Partners also participated) | 2026-09-16 | Healthcare / Medical Devices / AI Hearing Tech | Active [^fortell-ff1][^fortell-ff2][^fortell-ff3] |
+| REGENT | Series B (participated; $240M total: $120M equity + $120M debt; equity co-led by Mare Liberum and AE Industrial Partners; debt provided by Erebor Bank; DCVC, Caffeinated Capital, Lockheed Martin Ventures, Japan Airlines, Giant Step Capital also participated; scale Seaglider manufacturing) | 2026-08-27 | Maritime Mobility / Defense / Electric Seagliders | Private [^ff-rgt1][^ff-rgt2][^ff-rgt3] |
 | SpaceX | Series A | 2008 | Aerospace | Private [^1][^2] |
 | Palantir | Series A | ~2005 (founded) | Enterprise / Data Intelligence | Public (IPO 2020) [^1] |
 | Anduril | Seed→Series H (participated through every round; led Series F, G; participated in Series H) | 2017-08 (Seed); 2018-06 (Series A); 2026-05-13 (Series H) | Defense Tech | Private (valued at $61B post Series H) [^28][^30][^48][^49] |
@@ -516,3 +517,9 @@ Luckey met Trae Stephens at a Founders Fund retreat on Sonora Island, British Co
 [^fortell-ff2]: Fortell company website, accessed September 2026. https://fortell.com — Primary company source featuring verbatim Trae Stephens (Founders Fund Partner) quote: "It was honestly the best hardware demo I've seen in my 11 and a half years at Founders Fund."
 
 [^fortell-ff3]: Founders Fund portfolio page, confirms Fortell listed as a portfolio company. Accessed September 2026. https://foundersfund.com/portfolio/ — Primary lead-investor source confirming Fortell as portfolio company.
+
+[^ff-rgt1]: REGENT press release, "REGENT secures $240 million Series B funding to scale Seaglider manufacturing and transform maritime mobility," August 27, 2026. Accessed September 28, 2026. https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility — Primary company source confirming REGENT's $240M Series B ($120M equity co-led by Mare Liberum and AE Industrial Partners; $120M debt from Erebor Bank) with Founders Fund, DCVC, Caffeinated Capital, Lockheed Martin Ventures, Japan Airlines, and Giant Step Capital among participants.
+
+[^ff-rgt2]: Defense Daily, "REGENT Raises $240 Million To Transition Seagliders To Manufacturing," August 27, 2026. Accessed September 28, 2026. https://www.defensedaily.com/regent-raises-240-million-to-transition-seagliders-to-manufacturing/business-financial/ — Independent defense trade-press confirmation of the $240M Series B and Founders Fund's participation.
+
+[^ff-rgt3]: AeroTime, "REGENT closes $240 million Series B round," August 2026. Accessed September 28, 2026. https://www.aerotime.aero/articles/regent-closes-240-million-series-b-round-from-defense-focused-investors — Third independent aerospace-press confirmation of REGENT's Series B and Founders Fund among participants alongside DCVC.

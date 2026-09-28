@@ -109,6 +109,7 @@ The firm's highest-profile investments cluster around enterprise software/SaaS (
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Owner | Series D (participated; $240M led by Growth Equity at Goldman Sachs Alternatives; Meritech, Headline, and Jack Altman also participated; AI-native platform for local businesses) | 2026-08-28 | Vertical SaaS / Restaurant Tech / AI | Private | [^rp-owner1][^rp-owner2][^rp-owner3] |
 | Stripe | Series B | 2012 | Fintech/Payments | Active | TechCrunch [^3] |
 | Nubank | Series A | 2014 | Fintech | Public | Tracxn [^2] |
 | Snowflake | Series A | 2014 | Data/Cloud | Public (IPO 2020) | Sparkco [^3] |
@@ -171,3 +172,9 @@ No independently sourced founder testimonials found. The firm's content platform
 [^22]: Redpoint Ventures portfolio page, "Collate," accessed July 2026. https://www.redpoint.com/companies/collate/ — Firm's own portfolio page confirms Redpoint led Collate's seed round in 2025 with Satish Dharmaraj as partner; describes company as automating "regulatory-documentation workflows using generative AI for diagnostics, medical device and drug-development firms."
 [^23]: Amy Feldman, "AI Startup Collate Raises $95 Million To Automate Life Sciences Paperwork," Forbes InnovationRx, June 3, 2026. Accessed July 2026. https://www.forbes.com/sites/innovationrx/2026/06/03/ai-startup-collate-raises-95-million-to-automate-life-sciences-paperwork/ — Primary source: confirms 2026-06-03 announcement date, $95M Series B, Redpoint led (Satish Dharmaraj, second lead), ~$1B post-money valuation, $125M total raised, both founders Surbhi Sarna and Nate Smith.
 [^24]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/22/2026," accessed September 23, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-22-2026/ — Confirms Redpoint participated in Ande's combined $52M Seed + Series A round led by Lightspeed Venture Partners (2026-09-22), alongside Duration Ventures, Sierra Ventures, and Bain Capital Ventures. Founders: Lohit Sarma and Michael McDermott (founded 2023).
+
+[^rp-owner1]: Owner press release via PR Newswire, "Owner Raises $240M Led by Goldman Sachs Alternatives to Build the AI-Native Platform for Every Local Business," August 28, 2026. Accessed September 28, 2026. https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html — Primary company source confirming Owner's $240M Series D led by Growth Equity at Goldman Sachs Alternatives with Meritech, Redpoint, Headline, and Jack Altman participating.
+
+[^rp-owner2]: Restaurant Business, "Owner raises $240M for 'AI-native' restaurant tech," August 28, 2026. Accessed September 28, 2026. https://www.restaurantbusinessonline.com/technology/owner-raises-240m-ai-native-restaurant-tech — Independent trade-press confirmation of the $240M Series D and Redpoint's participation.
+
+[^rp-owner3]: Morningstar, "Owner Raises $240M Led by Goldman Sachs Alternatives to Build the AI-Native Platform for Every Local Business," August 28, 2026. Accessed September 28, 2026. https://www.morningstar.com/news/pr-newswire/20260828ph35792/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business — Third independent business-press republish confirming Redpoint's participation in Owner's $240M Series D.

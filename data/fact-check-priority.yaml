@@ -5743,6 +5743,10 @@ priority:
   type: firm
   reason: appeared in Castelion Series C (2026-08-19)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: duplicate of entry 842 (also general-catalyst → Castelion Series C). Already resolved in commit bf1f632d via 3 primary sources ([^gc-cst1] Carlyle press release, [^gc-cst2] SpaceNews, [^gc-cst3] Axios) — portfolio row present in general-catalyst.md. No new work required.'
+  processed: '2026-09-28'
 - slug: index-ventures
   type: firm
   reason: appeared in Instinct Series B (2026-08-27)
@@ -5775,10 +5779,18 @@ priority:
   type: firm
   reason: appeared in REGENT Series B (2026-08-27)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: added REGENT Series B row to founders-fund.md portfolio table — 2026-08-27, $240M total ($120M equity + $120M debt); equity co-led by Mare Liberum and AE Industrial Partners; debt provided by Erebor Bank; Founders Fund participated alongside DCVC, Caffeinated Capital, Lockheed Martin Ventures, Japan Airlines, and Giant Step Capital. Added 3 named-footnote citations: [^ff-rgt1] REGENT press release (primary company source), [^ff-rgt2] Defense Daily, [^ff-rgt3] AeroTime — same primary triad already cited on the regent-craft.md startup profile and dcvc.md portfolio row.'
+  processed: '2026-09-28'
 - slug: redpoint-ventures
   type: firm
   reason: appeared in Owner Series D (2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: added Owner Series D row to redpoint-ventures.md portfolio table — 2026-08-28, $240M led by Growth Equity at Goldman Sachs Alternatives; Redpoint participated alongside Meritech, Headline, and Jack Altman. Added 3 named-footnote citations: [^rp-owner1] Owner press release via PR Newswire (primary company source), [^rp-owner2] Restaurant Business, [^rp-owner3] Morningstar republish — same primary triad already cited on the owner-com.md startup profile.'
+  processed: '2026-09-28'
 - slug: jack-altman
   type: investor
   reason: appeared in Owner Series D (2026-08-28)
@@ -7752,21 +7764,25 @@ priority:
   processed: 2026-09-28
 - slug: nscale
   type: startup
-  reason: |
-    Round monitoring 2026-09-28: new profile — $3.36B pre-IPO convertible (2026-09-25) led by Third Point with Nvidia. TechCrunch primary, Wikipedia corroboration on prior rounds.
+  reason: 'Round monitoring 2026-09-28: new profile — $3.36B pre-IPO convertible (2026-09-25) led by Third Point with Nvidia. TechCrunch primary, Wikipedia corroboration on prior rounds.
+
+    '
   added: 2026-09-28
 - slug: quartermaster
   type: startup
-  reason: |
-    Round monitoring 2026-09-28: new profile — $140M Series B (2026-09-28) co-led by Insight Partners and Overmatch Ventures with First Round Capital and Stifel ($40M debt). TechCrunch primary.
+  reason: 'Round monitoring 2026-09-28: new profile — $140M Series B (2026-09-28) co-led by Insight Partners and Overmatch Ventures with First Round Capital and Stifel ($40M debt). TechCrunch primary.
+
+    '
   added: 2026-09-28
 - slug: beagle-labs
   type: startup
-  reason: |
-    Round monitoring 2026-09-28: new profile — $4.1M Pre-Seed (2026-09-23) led by Chingona Ventures with Sovereign's Capital, Remarkable Ventures, C2 Ventures, South Loop Ventures, Red Bike Capital. AlleyWatch source.
+  reason: 'Round monitoring 2026-09-28: new profile — $4.1M Pre-Seed (2026-09-23) led by Chingona Ventures with Sovereign''s Capital, Remarkable Ventures, C2 Ventures, South Loop Ventures, Red Bike Capital. AlleyWatch source.
+
+    '
   added: 2026-09-28
 - slug: instinct
   type: startup
-  reason: |
-    Round monitoring 2026-09-28: updated with $1B Series C (2026-09-28) at $10B valuation led by Sequoia Capital, Benchmark, Coatue. TechCrunch primary.
+  reason: 'Round monitoring 2026-09-28: updated with $1B Series C (2026-09-28) at $10B valuation led by Sequoia Capital, Benchmark, Coatue. TechCrunch primary.
+
+    '
   added: 2026-09-28
