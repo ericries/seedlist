@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort
+  url: https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/
+  source: techcrunch
+  date_found: '2026-09-29'
+  parsed_company: null
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
 - title: London’s Reactive Technologies secures €19 million EIB financing to strengthen
     Europe’s power grids
   url: https://www.eu-startups.com/2026/09/londons-reactive-technologies-secures-e19-million-eib-financing-to-strengthen-europes-power-grids/
@@ -110,14 +118,6 @@ pending_rounds:
   date_found: '2026-09-28'
   parsed_company: one week after postponing an offering that would have
   parsed_amount: $825M
-  parsed_round: null
-  status: pending
-- title: Modulate raises $25M for its voice models and analysis suite
-  url: https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/
-  source: techcrunch
-  date_found: '2026-09-28'
-  parsed_company: Modulate
-  parsed_amount: $25M
   parsed_round: null
   status: pending
 - title: 'The Weekly Notable Startup Funding Report: 9/28/26'
