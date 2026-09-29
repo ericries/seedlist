@@ -110,6 +110,7 @@ Based on the portfolio companies listed on DCVC's website across 10 sector categ
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | REGENT | Series B (participated; $240M total: $120M equity + $120M debt; equity co-led by Mare Liberum and AE Industrial Partners; debt provided by Erebor Bank; Founders Fund, Caffeinated Capital, Lockheed Martin Ventures, Japan Airlines, Giant Step Capital also participated; scale Seaglider manufacturing) | 2026-08-27 | Maritime Mobility / Defense / Electric Seagliders | Private | [^dcvc-rgt1][^dcvc-rgt2][^dcvc-rgt3] |
+| Callosum | Seed (participated; $100M led by Atomico; Plural and UK Sovereign AI Fund also participated; one of Europe's largest seed rounds; next-generation compute) | 2026-08-20 | AI Infrastructure / Compute / Semiconductors / Deep Tech | Private | [^dcvc-cal1][^dcvc-cal2][^dcvc-cal3] |
 | SentinelOne | Seed ($2.5M) | 2013 | Cybersecurity | Public (IPO 2021) | [^7][^14][^15] |
 | Planet | Early | 2012 | Space/Earth observation | Public (NYSE 2021) | [^11] |
 | Databricks | Early (round unspecified; DCVC's own portfolio page states "First Investment: 2014" but DCVC is NOT named in contemporaneous primary press for the 2014-06-30 Series B — NEA-led with A16Z participation only; likely a small follow-on or SPV that never surfaced in primary press) | 2014 | Data infrastructure | Active (Series L Jul 2026) | [^8][^12][^db-tc][^db-blog] |
@@ -195,3 +196,9 @@ Based on the portfolio companies listed on DCVC's website across 10 sector categ
 [^dcvc-rgt2]: Defense Daily, "REGENT Raises $240 Million To Transition Seagliders To Manufacturing," August 27, 2026. Accessed September 28, 2026. https://www.defensedaily.com/regent-raises-240-million-to-transition-seagliders-to-manufacturing/business-financial/ — Independent defense trade-press confirmation of the $240M Series B and DCVC's participation.
 
 [^dcvc-rgt3]: AeroTime, "REGENT closes $240 million Series B round," August 2026. Accessed September 28, 2026. https://www.aerotime.aero/articles/regent-closes-240-million-series-b-round-from-defense-focused-investors — Third independent aerospace-press confirmation of REGENT's Series B and DCVC among participants alongside Founders Fund.
+
+[^dcvc-cal1]: Tech.eu, "Callosum raises $100M seed round," August 20, 2026. Accessed September 29, 2026. https://tech.eu/2026/08/20/callosum-raises-100m-seed-round/ — Contemporaneous European tech press confirming Callosum's $100M seed round led by Atomico with DCVC, Plural, and UK Sovereign AI Fund among participants.
+
+[^dcvc-cal2]: Dealroom, "Callosum raises $100M in one of Europe's largest seed rounds," August 2026. Accessed September 29, 2026. https://dealroom.co/news/145986-callosum-raises-100m-in-one-of-europes-largest-seed-rounds/ — Independent European venture data/press source confirming DCVC's participation in the Atomico-led seed.
+
+[^dcvc-cal3]: Callosum company blog, "$100M Seed to Redefine How Humanity Computes," August 2026. Accessed September 29, 2026. https://www.callosum.com/blog/seed-round — Primary company source announcing the $100M seed round.

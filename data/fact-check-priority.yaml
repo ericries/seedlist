@@ -6090,14 +6090,26 @@ priority:
   type: firm
   reason: Participated in Callosum $100M Atomico-led seed (2026-08-20)
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: added Callosum seed row to dcvc.md portfolio table — 2026-08-20, $100M led by Atomico with DCVC, Plural, and UK Sovereign AI Fund participating; one of Europe''s largest seed rounds. Added 3 named-footnote citations: [^dcvc-cal1] Tech.eu, [^dcvc-cal2] Dealroom, [^dcvc-cal3] Callosum company blog (primary company source) — same primary triad already cited on the callosum.md startup profile.'
+  processed: '2026-09-29'
 - slug: koch-disruptive-technologies
   type: firm
   reason: Co-led Gatik $200M Series D with Qatar Investment Authority (2026-08-25)
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: duplicate of entry 849 (also koch-disruptive-technologies → Gatik Series D 2026-08-25). Already resolved in commit 5ea1e270 via 4 primary sources ([^gatikd1] Gatik press release via Yahoo Finance with Gautam Narang CEO + Byron Knight KDT quotes, [^gatikd2] TechCrunch, [^gatikd3] SiliconANGLE with Cathie Wood/ARK quote, [^gatikd4] Gulf Times with Abdullah Al Kuwari/QIA quote) — portfolio row present in koch-disruptive-technologies.md. No new work required.'
+  processed: '2026-09-29'
 - slug: spark-capital
   type: firm
   reason: Led CivilGrid $26M Series A (2026-08-27)
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified spark-capital.md already includes the CivilGrid Series A row from a prior sweep. CivilGrid Series A $26M on 2026-08-27 led by Spark Capital with Energy Impact Partners, Afore Capital, A*, Ford Street Ventures, and SNR Ventures participating; 3 primary sources cited on the civilgrid.md startup profile ([^1] BusinessWire, [^2] Dealroom News, [^3] FinSMEs). No new work required.'
+  processed: '2026-09-29'
 - slug: energy-impact-partners
   type: firm
   reason: Participated in CivilGrid $26M Series A (2026-08-27)
