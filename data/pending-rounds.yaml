@@ -28,6 +28,67 @@ pending_rounds:
   parsed_amount: $5M
   parsed_round: Seed
   status: pending
+- title: Reco raises $55M as AI agent security startups crowd the market
+  url: https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/
+  source: techcrunch
+  date_found: '2026-09-29'
+  parsed_company: Reco
+  parsed_amount: $55M
+  parsed_round: null
+  status: pending
+- title: Ex-Tesla team raises $12.5M to put supply chains on autopilot
+  url: https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/
+  source: techcrunch
+  date_found: '2026-09-29'
+  parsed_company: Ex-Tesla team
+  parsed_amount: $12.5M
+  parsed_round: null
+  status: pending
+- title: Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future
+    Health
+  url: https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/
+  source: crunchbase
+  date_found: '2026-09-29'
+  parsed_company: Tiny Health
+  parsed_amount: $33M
+  parsed_round: null
+  status: pending
+- title: Germany’s Reverion raises €154.2 million to scale production of power plants
+    that generate electricity from gas
+  url: https://www.eu-startups.com/2026/09/germanys-reverion-raises-e154-2-million-to-scale-production-of-power-plants-that-generate-electricity-from-gas/
+  source: eu-startups
+  date_found: '2026-09-29'
+  parsed_company: Germany’s Reverion
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris-based Rayon raises €10 million to build the drawing layer for interior
+    design’s AI era
+  url: https://www.eu-startups.com/2026/09/paris-based-rayon-raises-e10-million-to-build-the-drawing-layer-for-interior-designs-ai-era/
+  source: eu-startups
+  date_found: '2026-09-29'
+  parsed_company: Paris-based Rayon
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Luxembourg’s ANote Music raises €2 million to transform music royalties into
+    an accessible asset class
+  url: https://www.eu-startups.com/2026/09/luxembourgs-anote-music-raises-e2-million-to-transform-music-royalties-into-an-accessible-asset-class/
+  source: eu-startups
+  date_found: '2026-09-29'
+  parsed_company: Luxembourg’s ANote Music
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris-based Marble raises €6.5 million to automate fraud and AML compliance
+    with its no-code, open-source platform
+  url: https://www.eu-startups.com/2026/09/paris-based-marble-raises-e6-5-million-to-automate-fraud-and-aml-compliance-with-its-no-code-open-source-platform/
+  source: eu-startups
+  date_found: '2026-09-29'
+  parsed_company: Paris-based Marble
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: London’s Reactive Technologies secures €19 million EIB financing to strengthen
     Europe’s power grids
   url: https://www.eu-startups.com/2026/09/londons-reactive-technologies-secures-e19-million-eib-financing-to-strengthen-europes-power-grids/
@@ -792,63 +853,5 @@ pending_rounds:
   date_found: '2026-09-16'
   parsed_company: Stirling-based iGii
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Bucharest-based Veridion raises €17.5 million to scale its real-time map
-    of the world’s businesses
-  url: https://www.eu-startups.com/2026/09/bucharest-based-veridion-raises-e17-5-million-to-scale-its-real-time-map-of-the-worlds-businesses/
-  source: eu-startups
-  date_found: '2026-09-16'
-  parsed_company: Bucharest-based Veridion
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/16/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-16-2026/
-  source: alleywatch
-  date_found: '2026-09-16'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: The August 2026 US Venture Capital Funding Report
-  url: https://alleywatch.com/2026/09/us-venture-capital-statistics-august-2026/
-  source: alleywatch
-  date_found: '2026-09-16'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: U.S. and U.K.-based Expanse raises €4.5 million for predictive AI infrastructure
-    platform
-  url: https://www.eu-startups.com/2026/09/u-s-and-u-k-based-expanse-raises-e4-5-million-for-predictive-ai-infrastructure-platform/
-  source: eu-startups
-  date_found: '2026-09-16'
-  parsed_company: U.S. and U.K.-based Expanse
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Tabby raised $233M Series F
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-15'
-  parsed_company: Tabby
-  parsed_amount: $233M
-  parsed_round: Series F
-  status: pending
-- title: BRKZ raised $13M Series B equity
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-15'
-  parsed_company: BRKZ
-  parsed_amount: $13M
-  parsed_round: Series B Equity
-  status: pending
-- title: Shennon Biotechnologies raised $12M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-15'
-  parsed_company: Shennon Biotechnologies
-  parsed_amount: $12M
   parsed_round: null
   status: pending
