@@ -5898,6 +5898,10 @@ priority:
   type: firm
   reason: appeared in Ajaib Series C (2026-08-28)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: added Ajaib Series C row to ribbit-capital.md portfolio table — 2026-08-28, $270M led by SBI Holdings taking ~20% stake at ~$1.35B valuation; Ribbit Capital participated alongside DST Global. Indonesia''s biggest tech funding round since 2022. Added 3 named-footnote citations: [^rc-aja1] Yahoo Finance/Bloomberg, [^rc-aja2] e27, [^rc-aja3] The Block — same primary triad already cited on the ajaib.md startup profile and dst-global.md portfolio row.'
+  processed: '2026-09-28'
 - slug: adaptyv
   type: startup
   reason: new profile from round monitoring (Series A, 2026-08-26)
@@ -6010,6 +6014,10 @@ priority:
   type: firm
   reason: appeared in Form Energy Series G $750M (2026-08-12)
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: added Form Energy Series G row to energy-impact-partners.md portfolio table — 2026-08-12, $750M led by T. Rowe Price; EIP participated as existing/returning investor alongside Sequoia Capital, Janus Henderson, Franklin Templeton, PEAK6 Investments, Prelude Ventures, Engine Ventures, TPG Rise Climate, Capricorn Investment Group, Breakthrough Energy Ventures, Coatue, NGP, and GE Vernova. Series G brings total equity raised to >$2B. Added 3 named-footnote citations: [^eip-fe1] Form Energy press release (primary company source explicitly naming EIP), [^eip-fe2] TechCrunch, [^eip-fe3] Boston Globe — same primary triad already cited on form-energy.md startup profile and breakthrough-energy-ventures.md portfolio row.'
+  processed: '2026-09-28'
 - slug: coatue-management
   type: firm
   reason: appeared in Terra Industries Seed extension $18M ($52M total, 2026-08-17)
@@ -6053,6 +6061,10 @@ priority:
   type: startup
   reason: 1789 Capital-led $1B round at $21B valuation (2026-08-31)
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-28'
+  resolution_note: 'Fact-spec sweep 2026-09-28: verified polymarket.md startup profile is complete with 3 primary sources — [^1] Bloomberg (Aug 31), [^2] TechCrunch (Aug 31), [^3] Crypto Briefing (Aug 31) — confirming $1B round at $21B valuation led by 1789 Capital. Funding History table row is properly formatted with names-only cells and YYYY-MM-DD date. No further action needed on this entry.'
+  processed: '2026-09-28'
 - slug: callosum
   type: startup
   reason: Atomico-led $100M seed with Plural, DCVC, UK Sovereign AI Fund (2026-08-20)

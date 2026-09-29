@@ -110,6 +110,7 @@ The firm emphasizes brand-building as central to its value proposition, stating 
 
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
+| Ajaib | Series C (participated; $270M led by SBI Holdings taking ~20% stake at ~$1.35B valuation; DST Global also participated; Indonesia's biggest tech funding round since 2022) | 2026-08-28 | Fintech / Digital Brokerage / Crypto / Asia | Private | [^rc-aja1][^rc-aja2][^rc-aja3] |
 | Coinbase | Series A | 2013 | Crypto Exchange | Active (Public) | [^3] |
 | Robinhood | Series A | 2014 | Trading Platform | Active (Public) | [^3] |
 | Nubank | Series D | 2016 | Digital Banking | Active (Public) | [^3] |
@@ -196,3 +197,9 @@ No independently sourced founder testimonials found. Dedicated searches for port
 
 [^rb-basepower1]: TechCrunch, "Base Power raises another $1B to save the grid using backyard batteries," August 3, 2026. Accessed September 2026. https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/ — Names Ribbit, Addition, Valor Equity Partners, and JPMorganChase Strategic Investment Group as Series D co-leads at ~$13B post-money valuation.
 [^rb-basepower2]: Pulse 2.0, "Base Power Raises $1 Billion Series D At $13 Billion Valuation And Launches U.S.-Made Home Battery," August 3, 2026. Accessed September 2026. https://pulse2.com/base-power-raises-1-billion-series-d-at-13-billion-valuation-and-launches-u-s-made-home-battery/ — Independent contemporaneous confirmation of Ribbit as co-lead of the $1B Series D; full investor roster and $2.5B+ total raised.
+
+[^rc-aja1]: Yahoo Finance / Bloomberg, "Indonesian Stock Trading Unicorn Ajaib Raises $270 Million From Japan's SBI Holdings," August 28, 2026. Accessed September 28, 2026. https://uk.finance.yahoo.com/news/indonesian-stock-trading-unicorn-ajaib-093103709.html — Contemporaneous business-press syndication confirming Ajaib's $270M Series C led by SBI Holdings with DST Global and Ribbit Capital among participants.
+
+[^rc-aja2]: e27, "Ajaib raises US$270M in Indonesia's biggest tech funding round since 2022," August 28, 2026. Accessed September 28, 2026. https://e27.co/ajaib-raises-us270m-in-indonesias-biggest-tech-funding-round-since-2022-20260828/ — Independent Asia-focused tech-press confirmation of the $270M Series C and Ribbit Capital's participation.
+
+[^rc-aja3]: The Block, "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push," August 28, 2026. Accessed September 28, 2026. https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023 — Third independent crypto/fintech press confirmation of SBI Holdings' $270M investment with a ~20% stake in Ajaib alongside DST Global and Ribbit Capital, valuing the company at approximately $1.35B.
