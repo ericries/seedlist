@@ -7878,14 +7878,26 @@ priority:
   type: startup
   reason: Series C $55M announced 2026-09-29
   added: 2026-09-29
+  status: resolved
+  resolved: 2026-09-29
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified Reco $55M Series C (announced 2026-09-29) against 3 independent primary sources — (1) TechCrunch [^1] (already cited) — confirms $55M, AT&T Ventures lead, Forestay and Quadrille Capital co-investors, $140M total, "high hundreds of millions" valuation (>2x Series B), verbatim Ofer Klein founder quote on end-to-end agent security, 100+ customers with ~40% financial services, 21,000 unknown agents at a Fortune 100 customer; (2) SecurityWeek "Reco Raises $55 Million for Agentic Security" [^3] — WebFetched at https://www.securityweek.com/reco-raises-55-million-for-agentic-security/, confirms $55M, 2026-09-29 date, AT&T Ventures lead with Forestay and Quadrille Capital, $140M total, verbatim Vikram Taneja (AT&T Ventures) quote, use-of-funds for sales/partnerships/channels/customer support; (3) FinSMEs "Reco Raises $55M in Funding" [^4] — article confirmed via FinSMEs homepage listing dated September 29, 2026, at https://www.finsmes.com/2026/09/reco-raises-55m-in-funding.html (URL 403 to direct WebFetch but article exists per index). Currency preserved (USD). Added SecurityWeek and FinSMEs citations, verbatim Klein and Taneja quotes to profile. Location discrepancy noted (SecurityWeek: New York; FinSMEs: Altamonte Springs, FL; profile currently Tel Aviv, Israel) — TechCrunch does not specify, so leaving Tel Aviv as-is; multi-office likely.'
+  processed: 2026-09-29
 - slug: tiny-health
   type: startup
   reason: Series B $33M announced 2026-09-29
   added: 2026-09-29
+  status: resolved
+  resolved: 2026-09-29
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified Tiny Health $33M Series B (announced 2026-09-29) against 3 independent primary sources — (1) Crunchbase News [^1] (already cited) — confirms $33M, B Capital lead, Spero Ventures/The Venture City/Overwater Ventures continued, Black Opal Ventures and Alumni Ventures new, Nick Whitehead (B Capital senior principal) board seat, prior $4.5M Seed (2021) and $8.5M Series A (late 2023), $46M total to date, verbatim Cheryl Sew Hoy founder quote on infant microbiome course-correction, 40 employees hiring 30 more; (2) Tiny Health blog "Celebrating Tiny Health''s Series B: A Letter From Cheryl Sew Hoy" [^2] — WebFetched at https://www.tinyhealth.com/blog/tiny-health-series-b-letter-from-cheryl-sew-hoy, confirms $33M amount, B Capital lead, full participant list (Spero, TheVentureCity, Overwater continued; Black Opal, Denver Ventures, Pave Health Ventures, Alumni Ventures, Gaingels, Pari Passu Ventures new), $46M total, $5M Microbiome Research Program commitment, TinyAI/Gut Microbiome Age/Gut Resilience product initiatives, IBD/menopause/GLP-1/oncology research expansion; (3) FinSMEs "Tiny Health Raises $33M in Series B Funding" [^3] — article confirmed via FinSMEs homepage listing dated September 29, 2026, Austin TX microbiome intelligence platform. Currency preserved (USD). Expanded co-investor list per company blog (added Denver Ventures, Pave Health Ventures, Gaingels, Pari Passu Ventures), added B Capital board seat detail, added verbatim Sew Hoy founder quote and expanded About section with Series B use-of-funds. Updated blog citation from generic /blog to specific article URL.'
+  processed: 2026-09-29
 - slug: rosella
   type: startup
   reason: Peak XV Surge 12 cohort announced 2026-09-28
   added: 2026-09-29
+  status: resolved
+  resolved: 2026-09-29
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified Rosella pre-seed and Surge 12 cohort membership (announced 2026-09-28) against 3 independent primary sources — (1) TechCrunch [^1] (already cited) — confirms ~$2.5M pre-seed, Peak XV and Intact Private Capital as investors, US commercial insurance brokerage automating manual placement, founders Chris Dwyer and Sean Stuart; (2) Peak XV Surge companies page [^2] — WebFetched at https://surge.peakxv.com/companies, lists Rosella as Surge 12 company with description "Insurance, AI-enabled Services" and founders "Chris Dwyer, Sean Stuart" (independent lead-accelerator confirmation of Surge 12 cohort membership); (3) Inc42 "Meet The Startups From Peak XV''s ''Surge 12''" [^3] — WebFetched at https://inc42.com/buzz/meet-the-startups-from-peak-xvs-surge-12/, describes Rosella as "technology-enabled commercial insurance brokerage for US small and mid-sized businesses, combining human brokers with software to automate risk analysis, policy placement and servicing," Sydney HQ, founded 2025, $3.7M total funding, Peak XV Partners (Surge 12) investor. Currency preserved (USD). Corrected location from "United States" to "Sydney, Australia" (Sydney HQ per Inc42; US is the customer market, not HQ). Updated total_raised from ~$2.5M to ~$3.7M per Inc42 total-funding figure while preserving TechCrunch''s ~$2.5M as the specific Surge/pre-seed round amount. Added Peak XV Surge and Inc42 citations. Founder quotes: none available in any source.'
+  processed: 2026-09-29
 - slug: ulook
   type: startup
   reason: Peak XV Surge 12 cohort announced 2026-09-28
