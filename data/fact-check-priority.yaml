@@ -7862,3 +7862,19 @@ priority:
   resolved: 2026-09-28
   resolution_note: 'Fact-spec sweep 2026-09-28 (later): added Modulate row to Future Ventures portfolio table with lead role, $25M growth round dated 2026-09-28, sector "AI / Voice AI / Trust & Safety", and three named-footnote citations ([^mod-fv1] TechCrunch, [^mod-fv2] Modulate blog, [^mod-fv3] Hyperplane VC portfolio). Same three sources as the Modulate startup profile — see that resolution for verification detail. Currency preserved (USD).'
   processed: 2026-09-28
+- slug: reco-ai
+  type: startup
+  reason: "Series C $55M announced 2026-09-29"
+  added: 2026-09-29
+- slug: tiny-health
+  type: startup
+  reason: "Series B $33M announced 2026-09-29"
+  added: 2026-09-29
+- slug: rosella
+  type: startup
+  reason: "Peak XV Surge 12 cohort announced 2026-09-28"
+  added: 2026-09-29
+- slug: ulook
+  type: startup
+  reason: "Peak XV Surge 12 cohort announced 2026-09-28"
+  added: 2026-09-29

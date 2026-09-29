@@ -44,15 +44,6 @@ pending_rounds:
   parsed_amount: $12.5M
   parsed_round: null
   status: pending
-- title: Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future
-    Health
-  url: https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/
-  source: crunchbase
-  date_found: '2026-09-29'
-  parsed_company: Tiny Health
-  parsed_amount: $33M
-  parsed_round: null
-  status: pending
 - title: Germany’s Reverion raises €154.2 million to scale production of power plants
     that generate electricity from gas
   url: https://www.eu-startups.com/2026/09/germanys-reverion-raises-e154-2-million-to-scale-production-of-power-plants-that-generate-electricity-from-gas/

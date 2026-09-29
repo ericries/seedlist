@@ -46707,3 +46707,94 @@ queue:
   status: pending
   added: '2026-09-27'
   discovered_from: matt-pincus
+- name: "B Capital"
+  type: firm
+  source: "led Tiny Health Series B $33M (2026-09-29)"
+  discovered_from: tiny-health
+  priority: normal
+  status: pending
+  added: 2026-09-29
+- name: "Peak XV Partners"
+  type: firm
+  source: "Surge 12 cohort lead — Rosella, ULOOK, Ditto (2026-09-28)"
+  discovered_from: rosella
+  priority: high
+  status: pending
+  added: 2026-09-29
+- name: "AT&T Ventures"
+  type: firm
+  source: "led Reco Series C $55M (2026-09-29)"
+  discovered_from: reco-ai
+  priority: normal
+  status: pending
+  added: 2026-09-29
+- name: "Forestay"
+  type: firm
+  source: "participated in Reco Series C (2026-09-29)"
+  discovered_from: reco-ai
+  priority: low
+  status: pending
+  added: 2026-09-29
+- name: "Quadrille Capital"
+  type: firm
+  source: "participated in Reco Series C (2026-09-29)"
+  discovered_from: reco-ai
+  priority: low
+  status: pending
+  added: 2026-09-29
+- name: "Spero Ventures"
+  type: firm
+  source: "existing investor in Tiny Health Series B (2026-09-29)"
+  discovered_from: tiny-health
+  priority: normal
+  status: pending
+  added: 2026-09-29
+- name: "The Venture City"
+  type: firm
+  source: "existing investor in Tiny Health Series B (2026-09-29)"
+  discovered_from: tiny-health
+  priority: low
+  status: pending
+  added: 2026-09-29
+- name: "Overwater Ventures"
+  type: firm
+  source: "existing investor in Tiny Health Series B (2026-09-29)"
+  discovered_from: tiny-health
+  priority: low
+  status: pending
+  added: 2026-09-29
+- name: "Black Opal Ventures"
+  type: firm
+  source: "new investor in Tiny Health Series B (2026-09-29)"
+  discovered_from: tiny-health
+  priority: low
+  status: pending
+  added: 2026-09-29
+- name: "Alumni Ventures"
+  type: firm
+  source: "new investor in Tiny Health Series B (2026-09-29)"
+  discovered_from: tiny-health
+  priority: normal
+  status: pending
+  added: 2026-09-29
+- name: "growX Ventures"
+  type: firm
+  source: "co-invested in ULOOK seed (Peak XV Surge 12, 2026-09-28)"
+  discovered_from: ulook
+  priority: normal
+  status: pending
+  added: 2026-09-29
+- name: "InfoEdge Ventures"
+  type: firm
+  source: "co-invested in ULOOK seed (Peak XV Surge 12, 2026-09-28)"
+  discovered_from: ulook
+  priority: normal
+  status: pending
+  added: 2026-09-29
+- name: "Intact Private Capital"
+  type: firm
+  source: "co-invested in Rosella pre-seed (Peak XV Surge 12, 2026-09-28)"
+  discovered_from: rosella
+  priority: low
+  status: pending
+  added: 2026-09-29
