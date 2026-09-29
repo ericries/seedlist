@@ -6045,6 +6045,10 @@ priority:
   type: startup
   reason: $120M Series C (2026-08-27) — RA Capital, Qiming, CDH, HanKang, Sherpa Healthcare, InnoPinnacle, YuanBio
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified ausperbio.md startup profile is complete with 3 primary sources. Series C $120M on 2026-08-27 with RA Capital Management, HanKang Capital, Sherpa Healthcare Partners, InnoPinnacle Fund, Qiming Venture Partners, and YuanBio Venture Capital named. Funding History row properly formatted with names-only cells and YYYY-MM-DD date. No further action needed on this entry.'
+  processed: '2026-09-29'
 - slug: nexeon
   type: startup
   reason: £100M growth round (2026-08-31) — National Wealth Fund, Korea Development Bank, Honda Xcelerator Ventures
@@ -6069,6 +6073,10 @@ priority:
   type: startup
   reason: Atomico-led $100M seed with Plural, DCVC, UK Sovereign AI Fund (2026-08-20)
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified callosum.md startup profile is complete with 3 primary sources ([^1] Tech.eu, [^2] Dealroom, [^3] Callosum company blog). Seed $100M/€85.4M on 2026-08-20 led by Atomico with Plural, DCVC, and UK Sovereign AI Fund participating. Funding History row properly formatted. Companion firm entry 896 (dcvc → Callosum) was resolved in commit 6f009298 with portfolio row added to dcvc.md. No further action on this entry.'
+  processed: '2026-09-29'
 - slug: gatik
   type: startup
   reason: QIA and Koch Disruptive Technologies-led $200M Series D with Millennium, ARK Invest, Intact Private Capital (2026-08-25)
@@ -6086,6 +6094,10 @@ priority:
   type: startup
   reason: Spark Capital-led $26M Series A with Energy Impact Partners, Afore, A*, Ford Street Ventures, SNR Ventures (2026-08-27)
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified civilgrid.md startup profile is complete with 3 primary sources ([^1] BusinessWire primary company press, [^2] Dealroom News, [^3] FinSMEs). Series A $26M on 2026-08-27 led by Spark Capital with Energy Impact Partners, Afore Capital, A*, Ford Street Ventures, and SNR Ventures participating. Funding History row properly formatted. Companion firm entries: spark-capital.md already contains the CivilGrid row (verified in entry 898); energy-impact-partners.md already contains the CivilGrid row from a prior sweep ([^eip-civg-2] and [^eip-civg-3] footnotes present). No further action on this entry.'
+  processed: '2026-09-29'
 - slug: dcvc
   type: firm
   reason: Participated in Callosum $100M Atomico-led seed (2026-08-20)
@@ -7864,17 +7876,17 @@ priority:
   processed: 2026-09-28
 - slug: reco-ai
   type: startup
-  reason: "Series C $55M announced 2026-09-29"
+  reason: Series C $55M announced 2026-09-29
   added: 2026-09-29
 - slug: tiny-health
   type: startup
-  reason: "Series B $33M announced 2026-09-29"
+  reason: Series B $33M announced 2026-09-29
   added: 2026-09-29
 - slug: rosella
   type: startup
-  reason: "Peak XV Surge 12 cohort announced 2026-09-28"
+  reason: Peak XV Surge 12 cohort announced 2026-09-28
   added: 2026-09-29
 - slug: ulook
   type: startup
-  reason: "Peak XV Surge 12 cohort announced 2026-09-28"
+  reason: Peak XV Surge 12 cohort announced 2026-09-28
   added: 2026-09-29
