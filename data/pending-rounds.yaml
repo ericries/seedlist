@@ -80,6 +80,23 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: a16z-backed EliseAI raises $350M, doubles valuation to $4B
+  url: https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/
+  source: techcrunch
+  date_found: '2026-09-29'
+  parsed_company: a16z-backed EliseAI
+  parsed_amount: $350M
+  parsed_round: null
+  status: pending
+- title: Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future
+    Health
+  url: https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/
+  source: crunchbase
+  date_found: '2026-09-29'
+  parsed_company: Tiny Health
+  parsed_amount: $33M
+  parsed_round: null
+  status: pending
 - title: London’s Reactive Technologies secures €19 million EIB financing to strengthen
     Europe’s power grids
   url: https://www.eu-startups.com/2026/09/londons-reactive-technologies-secures-e19-million-eib-financing-to-strengthen-europes-power-grids/
@@ -834,15 +851,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-09-16'
   parsed_company: Berlin-based Integral
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Stirling-based iGii secures €26.5 million to commercialise its proprietary
-    carbon nanomaterial
-  url: https://www.eu-startups.com/2026/09/stirling-based-igii-secures-e26-5-million-to-commercialise-its-proprietary-carbon-nanomaterial/
-  source: eu-startups
-  date_found: '2026-09-16'
-  parsed_company: Stirling-based iGii
   parsed_amount: null
   parsed_round: null
   status: pending
