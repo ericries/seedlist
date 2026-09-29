@@ -19,7 +19,7 @@ last_researched: 2026-09-29
 
 ## About
 
-Reco is an AI-native SaaS security platform providing visibility and governance across enterprise SaaS applications and connected AI agents [^1] [^3]. The company serves 100+ customers, ~40% of them financial services [^1]. Reco's platform has surfaced 21,000 unknown agents at one Fortune 100 customer and identified an ex-employee-created agent with unauthorized Salesforce access at a financial services firm [^1].
+Reco is an AI-native SaaS security platform providing visibility and governance across enterprise SaaS applications and connected AI agents [^1] [^3]. The company serves 100+ customers, ~40% of them financial services [^1] [^2]. Reco's platform has surfaced 21,000 unknown agents at one Fortune 100 customer and identified an ex-employee-created agent with unauthorized Salesforce access at a financial services firm [^1].
 
 ## Funding History
 
