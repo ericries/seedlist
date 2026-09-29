@@ -36,7 +36,7 @@ team:
     role: Partner
     slug: caroline-dillon
 status: published
-last_researched: 2026-03-31
+last_researched: 2026-09-29
 ---
 
 ## About
@@ -96,11 +96,11 @@ Based on 75 verified venture investments from Incite's portfolio page [^8], the 
 |---------|-------|------|--------|--------|--------|
 | Heirloom Carbon | Seed | 2021-05-26 | Carbon removal | Active (raised $150M Series B, 2024) | [^8][^9][^10][^14] |
 | AMP Robotics | Seed (round unspecified) | Pre-2019 (round unspecified) | Recycling robotics | Active (raised $91M Series D 2024-12-05) | [^8][^17][^18][^19] |
-| Charm Industrial | Early | ~2020 | Carbon removal | Active | [^8] |
+| Charm Industrial | Early (round unattributed in press) | Pre-2023-06-07 | Carbon removal | Active (Series B $100M 2023-06-07) | [^8][^23][^24] |
 | Mill | Seed | ~2022 | Food waste | Active (founded by Incite co-founder Matt Rogers) | [^8][^11] |
 | Quilt | Seed ($9M, participant) | 2023-05-16 | Heat pumps | Active — Series A $33M 2024-04-16 (participant); Series B $20M 2025-12-08 (participant) | [^8][^12][^15][^16][^20][^21][^22] |
-| Gradient | Early | ~2020 | HVAC/climate | Active | [^8] |
-| Antora Energy | Early | ~2019 | Thermal energy storage | Active | [^8] |
+| Gradient | Early (round unattributed in press) | Pre-2023-02-03 | HVAC / window heat pumps | Active (Series A $18M 2023-02-03; +$9M add-on 2023-06-27) | [^8][^27][^28] |
+| Antora Energy | Early (round unattributed in press) | Pre-2022-02-17 | Thermal energy storage | Active (Series A $50M 2022-02-17; Series B $150M 2024-02; Series C $550M 2026-07) | [^8][^25][^26] |
 | Windfall Bio | Early | ~2021 | Methane conversion | Active | [^8] |
 | Verse | Early | ~2021 | Energy platform | Active | [^8] |
 | Orbital Materials | Early | ~2022 | AI for clean energy | Active | [^8] |
@@ -230,3 +230,9 @@ No additional independently sourced founder testimonials found beyond Incite's o
 [^22]: Quilt, "This milestone belongs to you: Quilt raises $20M Series B," company news, December 8, 2025, accessed July 2026. https://www.quilt.com/news/this-milestone-belongs-to-you-quilt-raises-20m-series-b — Series B $20M led by Energy Impact Partners and Galvanize with participation from Alumni Ventures, Gradient Ventures, Incite Ventures, and Lowercarbon Capital. Total funding to $64M. Veery Maxwell (Galvanize) and Tom vonReichbauer (former Nest CFO) joined the board.
 [^hb1]: FinancialContent / EZ Newswire, "HomeBoost Launches BoostBox, a DIY Solution That Empowers Homeowners to Save on Their Energy Bills and Live Comfortably," October 29, 2024. Accessed August 2026. https://markets.financialcontent.com/stocks/article/eznewswire-2024-10-29-homeboost-launches-boostbox-a-diy-solution-that-empowers-homeowners-to-save-on-their-energy-bills-and-live-comfortably — Confirms $4M seed with True Ventures, Gigascale Capital, and Incite.org as the three co-investors; True Ventures partner Jon Callaghan quoted; no formal single lead.
 [^hb2]: Gaebler Ventures database, "HomeBoost 10/29/2024 Capital Raise," accessed August 2026. https://www.gaebler.com/VC-Funding-A0F54648-FD42-4B4C-8EAB-1A53F8303ED6-HomeBoost-10-29-2024 — Independent database entry confirming $4M seed on 2024-10-29.
+[^23]: FinSMEs, "Charm Industrial Raises $100M in Series B Financing," June 7, 2023, accessed September 2026. https://www.finsmes.com/2023/06/charm-industrial-raises-100m-in-series-b-financing.html — $100M Series B led by General Catalyst, participants Lowercarbon, Exor Ventures, Kinnevik, Thrive Capital, and Elad Gil. Incite Ventures NOT named.
+[^24]: Charm Industrial, press page (charmindustrial.com/press), accessed September 2026, listing Axios (2023-06-06) "Carbon removal player lands $100M Series B round" and CNBC (2023-05-18) "$53M Frontier deal" among primary coverage. No equity investor list posted; no mention of Incite Ventures across the press page. Charm appears on Incite's own portfolio page [^8] as "Early" with no round or date attached — same aggregator-only attribution pattern documented for AMP Robotics ([^17]-[^19]).
+[^25]: Carbon Herald, "Antora Energy Gets $50M Investment From Chris Sacca and Bill Gates Funds," February 17, 2022, accessed September 2026. https://carbonherald.com/antora-energy-gets-50m-investment-from-chris-sacca-and-bill-gates-funds/ — $50M initial round co-led by Lowercarbon Capital and Breakthrough Energy, with Shell Ventures and seven other unnamed investors. Incite Ventures NOT named.
+[^26]: Antora Energy company homepage (antora.com), "Backed by world-class partners" investor logo section, accessed September 2026. Lists Eclipse, G2 Venture Partners, Decarbonization Partners, Lowercarbon, BEV, Trust Ventures, Ribbit, Emerson, Salesforce Ventures, Activate Capital, Grok, and Overture as equity investors across all rounds ($50M 2022-02-17 initial round, $150M Series B 2024-02, $550M Series C 2026-07-31 per FinSMEs). Incite Ventures NOT listed. Antora appears on Incite's own portfolio page [^8] as "Early" with no round or date — aggregator-only attribution.
+[^27]: FinSMEs public search index, "Gradient Raises $18M in Series A Funding" (dated 2023-02-03) and "Gradient Comfort Raises Additional $9M in Series A Financing" (dated 2023-06-27), accessed September 2026 via https://finsmes.com/?s=Gradient+heat+pump. Article bodies gated (HTTP 403) but headline dates and amounts indexed publicly. Corroborated by ImpactAlpha search preview "Cool tech fund looks to India for sustainable ways to beat the heat" (July 16, 2026) which names Prime Impact Fund as a Gradient investor. Incite Ventures NOT named in any indexed press.
+[^28]: Gradient company homepage (gradientcomfort.com), accessed September 2026. The homepage and press-linked news section (Forbes, NYT, Fast Company, 2025 Design & Discovery Award, Electric Innovation Award) contain no "Backed by / Investors" section and do not name any equity investor. Gradient appears on Incite's own portfolio page [^8] as "Early" with no round or date — same aggregator-only attribution pattern as AMP Robotics ([^17]-[^19]), Charm Industrial ([^24]), and Antora Energy ([^26]).

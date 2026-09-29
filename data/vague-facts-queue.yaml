@@ -12980,7 +12980,9 @@ vague_facts:
   line: '| Charm Industrial | Early | ~2020 | Carbon removal | Active | [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-29
+  resolution_note: 'Fact-spec sweep 2026-09-29: Incite Ventures'' Charm Industrial round cannot be pinned to a specific date/stage. Verified via 3+ sources that Charm Industrial''s largest confirmed round is Series B $100M on 2023-06-07 (FinSMEs, Carbon Herald, Charm''s own press page referencing Axios) led by General Catalyst with Lowercarbon, Exor Ventures, Kinnevik, Thrive Capital, and Elad Gil — Incite Ventures NOT named. Charm appears only on Incite''s own portfolio page [^8] under "Early" with no round/date. This is the same aggregator-only attribution pattern as AMP Robotics [^17]-[^19]. Row updated to "Early (round unattributed in press) / Pre-2023-06-07" with new footnotes [^23] (FinSMEs) and [^24] (Charm press page + pattern documentation). Cannot be resolved to a specific Incite ticket without a primary source we do not have.'
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
   company: Mill
@@ -13016,7 +13018,9 @@ vague_facts:
   line: '| Gradient | Early | ~2020 | HVAC/climate | Active | [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-29
+  resolution_note: 'Fact-spec sweep 2026-09-29: Incite Ventures'' Gradient round cannot be pinned to a specific date/stage. Verified via FinSMEs public search index that Gradient raised $18M Series A on 2023-02-03 and an additional $9M Series A extension on 2023-06-27; ImpactAlpha search preview names Prime Impact Fund as an investor. Gradient''s own homepage (gradientcomfort.com) shows no "Backed by/Investors" section — Incite Ventures NOT named in any indexed press or on the company site. Same aggregator-only attribution pattern as AMP Robotics [^17]-[^19] / Charm [^24] / Antora [^26]. Row updated to "Early (round unattributed in press) / Pre-2023-02-03" with new footnotes [^27] (FinSMEs+ImpactAlpha) and [^28] (Gradient homepage + pattern documentation). Cannot be resolved to a specific Incite ticket without a primary source we do not have.'
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
   company: Antora Energy
@@ -13026,7 +13030,9 @@ vague_facts:
   line: '| Antora Energy | Early | ~2019 | Thermal energy storage | Active | [^8] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: unresolvable
+  resolved: 2026-09-29
+  resolution_note: 'Fact-spec sweep 2026-09-29: Incite Ventures'' Antora Energy round cannot be pinned to a specific date/stage. Verified via 3+ independent sources that Antora''s largest confirmed early round is $50M announced 2022-02-17 (Carbon Herald; corroborated by FinSMEs Series B 2024-02 $150M and Series C 2026-07-31 $550M) co-led by Lowercarbon Capital and Breakthrough Energy with Shell Ventures and seven unnamed investors. Antora''s own homepage (antora.com) "Backed by world-class partners" section lists Eclipse, G2 Venture Partners, Decarbonization Partners, Lowercarbon, BEV, Trust Ventures, Ribbit, Emerson, Salesforce Ventures, Activate Capital, Grok, and Overture — Incite Ventures NOT listed. Same aggregator-only attribution pattern as AMP Robotics [^17]-[^19] / Charm [^24]. Row updated to "Early (round unattributed in press) / Pre-2022-02-17" with new footnotes [^25] (Carbon Herald) and [^26] (Antora homepage). Cannot be resolved to a specific Incite ticket without a primary source we do not have.'
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
   company: Windfall Bio
