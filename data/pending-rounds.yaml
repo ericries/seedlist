@@ -88,15 +88,6 @@ pending_rounds:
   parsed_amount: $350M
   parsed_round: null
   status: pending
-- title: Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future
-    Health
-  url: https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/
-  source: crunchbase
-  date_found: '2026-09-29'
-  parsed_company: Tiny Health
-  parsed_amount: $33M
-  parsed_round: null
-  status: pending
 - title: 'The AlleyWatch Startup Daily Funding Report: 9/29/2026'
   url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-29-2026/
   source: alleywatch
