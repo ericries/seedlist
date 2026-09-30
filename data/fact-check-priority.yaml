@@ -6061,6 +6061,10 @@ priority:
   type: startup
   reason: Lifeline Ventures-led €2.6M Pre-Seed (2026-08-31)
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: verified s-transistors.md startup profile is complete with 4 primary sources. Pre-Seed €2.6M on 2026-08-31 led by Lifeline Ventures. Original currency preserved (€, not USD). Funding History row properly formatted with names-only cells and YYYY-MM-DD date. No further action on this entry.'
+  processed: '2026-09-30'
 - slug: breedr
   type: startup
   reason: Partech-led $27M Series B (2026-08-26) with Latitude/LocalGlobe, Outsiders Fund
@@ -6150,10 +6154,18 @@ priority:
   type: startup
   reason: New seed round (2026-09-01)
   added: 2026-09-01
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: verified inleap-photonics.md startup profile is complete with 3 primary sources. Seed €20M on 2026-09-01 led by UVC Partners with HTGF, Balnord, Sentris, and Scale Capital participating. Original currency preserved (€). Funding History row properly formatted. No further action on this entry.'
+  processed: '2026-09-30'
 - slug: pld-space
   type: startup
   reason: New Series C extension (2026-09-01)
   added: 2026-09-01
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: verified pld-space.md startup profile is complete with 4 primary sources. Series C extension €108M on 2026-09-01 led by Mitsubishi Electric with COFIDES, Endeavor Catalyst, and SOPEF participating. Original currency preserved (€). Funding History row properly formatted. No further action on this entry.'
+  processed: '2026-09-30'
 - slug: cloover
   type: startup
   reason: New debt facility add-on (2026-09-01)

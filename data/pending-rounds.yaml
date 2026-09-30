@@ -20,15 +20,6 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
-- title: Paris-based Inbolt raises €11 million to give industrial robots real-time
-    vision and intelligence
-  url: https://www.eu-startups.com/2026/09/paris-based-inbolt-raises-e11-million-to-give-industrial-robots-real-time-vision-and-intelligence/
-  source: eu-startups
-  date_found: '2026-09-30'
-  parsed_company: Paris-based Inbolt
-  parsed_amount: null
-  parsed_round: null
-  status: pending
 - title: Swedish micromobility company Voi secures €150 million RCF to redeem outstanding
     bonds and scale its fleet
   url: https://www.eu-startups.com/2026/09/swedish-micromobility-company-voi-secures-e150-million-rcf-to-redeem-outstanding-bonds-and-scale-its-fleet/
@@ -856,4 +847,12 @@ pending_rounds:
   parsed_company: Magentic
   parsed_amount: $18M
   parsed_round: Series A
+  status: pending
+- title: Eterna Regeneratives raised $4M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-17'
+  parsed_company: Eterna Regeneratives
+  parsed_amount: $4M
+  parsed_round: null
   status: pending
