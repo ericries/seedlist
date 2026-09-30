@@ -46,9 +46,10 @@ DriveNets is an Israel-based networking company building disaggregated networkin
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
+| 2019-02 | Series A | $110M | Bessemer Venture Partners, Pitango Growth | John W. Thompson, Stephen J. Luczo [^4][^5] |
 | 2026-06-01 | Series D | $410M | Bessemer Venture Partners, Atreides Management | AMD, Red Dot Capital Partners, Pitango, D1 Capital Partners [^1][^2][^3] |
 
-The Series D brings DriveNets to over $1 billion in total capital raised [^1][^2].
+The Series D brings DriveNets to over $1 billion in total capital raised [^1][^2]. DriveNets was self-funded until 2019 and emerged from stealth at the Series A announcement in February 2019 [^4].
 
 ## What Investors Say
 
@@ -63,3 +64,5 @@ No independently sourced founder quotes available at the time of profile creatio
 [^1]: "DriveNets Secures $410M Series D to Meet Surging Demand for Ethernet Fabric in Large-Scale AI Deployments," PR Newswire, June 1, 2026. https://www.prnewswire.com/news-releases/drivenets-secures-410m-series-d-to-meet-surging-demand-for-ethernet-fabric-in-large-scale-ai-deployments-302787577.html (accessed June 2026)
 [^2]: "DriveNets Raises $410M Series D to Scale Ethernet AI Fabric and Heterogeneous AI Infrastructure," HPCwire, June 1, 2026. https://www.hpcwire.com/off-the-wire/drivenets-raises-410m-series-d-to-scale-ethernet-ai-fabric-and-heterogeneous-ai-infrastructure/ (accessed June 2026)
 [^3]: "DriveNets Raises $410 Million Series D To Scale Ethernet Fabric For Large-Scale AI Infrastructure," Pulse 2.0, June 1, 2026. https://pulse2.com/drivenets-raises-410-million-series-d/amp/ (accessed June 2026)
+[^4]: Wikipedia, "DriveNets," accessed September 2026. https://en.wikipedia.org/wiki/DriveNets — Documents DriveNets Series A closed February 2019, USD 110M, co-led by Bessemer Venture Partners and Pitango Growth, with participation from John W. Thompson and Stephen J. Luczo. Company was self-funded until 2019 and emerged from stealth at Series A announcement.
+[^5]: Bessemer Venture Partners portfolio, "DriveNets," accessed September 2026. https://www.bvp.com/portfolio/drivenets — First-party BVP portfolio page confirming BVP partnered with DriveNets in 2019; names Adam Fisher, Ariel Sterman, and Bob Goodman as BVP investors covering DriveNets. Company founded 2015.

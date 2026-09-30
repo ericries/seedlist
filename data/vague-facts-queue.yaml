@@ -22872,7 +22872,11 @@ vague_facts:
   line: '| Via | Series B | 2015 | Mobility & Smart City | [^15] [^49] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: SCANNER FALSE POSITIVE — column 4 is the citation Source column in the 5-column Pitango Portfolio table, which correctly contains only footnote references
+    [^15] [^49]. The underlying year_only_date issue at column 2 (2015) was resolved in the same sweep — see the paired vague-facts entry: tightened to 2015-03-20 with USD 27M / Pitango-led / 83North
+    + Expansion Venture Capital + Hearst participants, verified via Tracxn [^49] and NEW 83North first-party portfolio [^65].'
 - profile: firms/pitango-venture-capital
   profile_name: Pitango Venture Capital
   company: Tomorrow.io
@@ -22892,7 +22896,12 @@ vague_facts:
   line: '| AI21 Labs | Seed | 2017 | Generative AI | [^18] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: SCANNER FALSE POSITIVE — column 4 is the citation Source column in the 5-column Pitango Portfolio table, which correctly contains only footnote reference
+    [^18]. The underlying year_only_date issue at column 2 (2017) was resolved in the same sweep — see the paired vague-facts entry: profile had confused AI21 Labs'' founding year (2017) with its first
+    funding round; corrected to Seed USD 9.5M closed 2019-01 per Wikipedia [^66], with disclosure that Pitango''s seed participation is claimed by Pitango [^18] but not confirmed by any third-party
+    primary source.'
 - profile: firms/pitango-venture-capital
   profile_name: Pitango Venture Capital
   company: AppsFlyer
@@ -232922,7 +232931,13 @@ vague_facts:
   line: '| DriveNets | Series A | 2018 | Cloud & Infrastructure | [^17] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: CORRECTED year from 2018 to 2019-02 — the profile had the wrong year. DriveNets Series A closed February 2019 (Wikipedia [^63] and Bessemer Venture Partners
+    first-party portfolio page [^64]), USD 110M, co-led by Bessemer Venture Partners and Pitango Growth, with John W. Thompson and Stephen J. Luczo participating. Company was self-funded until 2019 and
+    emerged from stealth at the Series A announcement. Row updated to include amount + co-lead + participants + corrected date. 2 new footnotes added ([^63] Wikipedia DriveNets, [^64] BVP portfolio page).
+    Note: WebSearch budget exhausted this session; TechCrunch/Globes/Calcalist contemporaneous 2019-02 primary press articles were 403/404-blocked or redirected to unrelated articles — only 2 of the ideal
+    3+ independent primary sources located, but both are unambiguous on all facts.'
 - profile: firms/pitango-venture-capital
   profile_name: Pitango Venture Capital
   company: Via
@@ -232932,7 +232947,12 @@ vague_facts:
   line: '| Via | Series B | 2015 | Mobility & Smart City | [^15] [^49] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: tightened Via Series B row from year-only 2015 to 2015-03-20 with full round details. Verified via 3 sources: (1) Tracxn [^49] (existing citation) —
+    "Pitango, located in Herzliya (Israel), made their first investment in Via on Mar 20, 2015 in its Series B round" with USD 27M amount, Pitango as lead, and 83NORTH + Expansion Venture Capital +
+    Hearst as participants; (2) 83North first-party portfolio page [^65] (NEW) — independently confirms Via Series B in 2015 with Pitango participation; (3) Pitango own portfolio [^15] (existing) — confirms
+    Via as portfolio company. Row updated to include USD 27M amount, Pitango as lead, and all three participants (83North, Expansion Venture Capital, Hearst). 1 new footnote added ([^65]).'
 - profile: firms/pitango-venture-capital
   profile_name: Pitango Venture Capital
   company: Tomorrow.io
@@ -232952,7 +232972,13 @@ vague_facts:
   line: '| AI21 Labs | Seed | 2017 | Generative AI | [^18] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: CORRECTED year from 2017 to 2019-01 — the profile had confused AI21 Labs'' founding year (November 2017) with its first funding round. Wikipedia [^66]
+    documents AI21 Labs was founded November 2017 by Yoav Shoham, Ori Goshen, and Amnon Shashua in Tel Aviv; the first seed round of USD 9.5M closed January 2019 (Wikipedia does not name specific seed
+    investors); Pitango First later led the USD 25M Series A in November 2021. Pitango own founder-story page [^18] states Pitango has "supported AI21 Labs since its founding in 2017" but does not
+    disclose which round Pitango''s first check was. Row updated with USD 9.5M amount + January 2019 close date + explicit disclosure that Pitango''s seed participation is claimed by Pitango but NOT
+    confirmed by any third-party primary source (aggregator-only attribution pattern). Row still retained for Pitango''s later-confirmed lead of the November 2021 Series A. 1 new footnote added ([^66]).'
 - profile: firms/pitango-venture-capital
   profile_name: Pitango Venture Capital
   company: AppsFlyer

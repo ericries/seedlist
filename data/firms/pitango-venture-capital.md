@@ -101,10 +101,10 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
 | DriveNets | Series D | 2026-06-01 | Cloud & Infrastructure | [^17] [^53] [^54] [^55] |
-| DriveNets | Series A | 2018 | Cloud & Infrastructure | [^17] |
-| Via | Series B | 2015 | Mobility & Smart City | [^15] [^49] |
+| DriveNets | Series A (USD 110M; Bessemer Venture Partners + Pitango Growth co-led; John W. Thompson and Stephen J. Luczo participated) | 2019-02 | Cloud & Infrastructure | [^17] [^63] [^64] |
+| Via | Series B (USD 27M; Pitango led; 83North, Expansion Venture Capital, Hearst participated) | 2015-03-20 | Mobility & Smart City | [^15] [^49] [^65] |
 | Tomorrow.io | Growth | 2018 | Climatech | [^15] |
-| AI21 Labs | Seed | 2017 | Generative AI | [^18] |
+| AI21 Labs | Seed (USD 9.5M seed closed January 2019; AI21 was founded November 2017; Pitango claims involvement since founding per own founder story; no third-party primary source names Pitango among the seed participants — Pitango's next confirmed lead was the November 2021 Series A) | 2019-01 | Generative AI | [^18] [^66] |
 | AppsFlyer | Series E | 2026-06-22 | Sales & Marketing | [^56][^57][^58] |
 | AppsFlyer | Series A | 2014 | Sales & Marketing | [^19] |
 | Riskified | Series C | 2017 | Fintech & InsureTech | [^15] [^23] |
@@ -277,3 +277,11 @@ Based on 73 active portfolio companies and 65 exited companies (20 IPOs, 45+ acq
 [^61]: Pulse 2.0, "Catch Raises $5 Million Seed Round To Launch Agentic Admin Assistant For Business Leaders," September 2, 2026, accessed September 5, 2026. https://pulse2.com/catch-raises-5-million-seed-round-to-launch-agentic-admin-assistant-for-business-leaders/ — Primary independent tech-press announcement confirming Catch's $5M seed co-led by Entrée Capital and Pitango with Seedcamp and Factorial Capital participating; Avi Eyal (Entrée Capital) quote on Catch's admin-solving thesis; Nir Sabato (CEO) and Yoav Ramon (CTO) quotes; Tel Aviv location.
 
 [^62]: TechStartups, "Catch emerges from stealth with $5M to build an AI executive assistant that handles admin work for you," September 3, 2026, accessed September 5, 2026. https://techstartups.com/2026/09/03/catch-emerges-from-stealth-with-5m-to-build-an-ai-executive-assistant-that-handles-admin-work-for-you/ — Second independent primary tech-press source confirming $5M seed round investors, Nir Sabato (Co-Founder & CEO) and Yoav Ramon (Co-Founder & CTO) as founders, and Tel Aviv headquarters.
+
+[^63]: Wikipedia, "DriveNets," accessed September 2026. https://en.wikipedia.org/wiki/DriveNets — Confirms DriveNets Series A closed February 2019, USD 110M, co-led by Bessemer Venture Partners and Pitango Growth, with participation from John W. Thompson and Stephen J. Luczo. Company was self-funded until 2019 and emerged from stealth at Series A announcement.
+
+[^64]: Bessemer Venture Partners portfolio, "DriveNets," accessed September 2026. https://www.bvp.com/portfolio/drivenets — First-party BVP portfolio page confirming BVP partnered with DriveNets in 2019 (not 2018 as previously recorded); names Adam Fisher, Ariel Sterman, and Bob Goodman as BVP investors covering DriveNets. Company founded 2015; software-based networking solution for AI data centers.
+
+[^65]: 83North portfolio page, "Via," accessed September 2026. https://83north.com/portfolio/via/ — First-party 83North portfolio page independently confirms Via completed a Series B funding round in 2015 with Pitango participation, cross-referencing the Tracxn data at [^49]. Via positioned as transforming public transit from regulated fixed routes to fully dynamic on-demand networks.
+
+[^66]: Wikipedia, "AI21 Labs," accessed September 2026. https://en.wikipedia.org/wiki/AI21_Labs — Documents AI21 Labs founding in November 2017 (by Yoav Shoham, Ori Goshen, and Amnon Shashua in Tel Aviv), the first seed round of USD 9.5M in January 2019 (investors not named in Wikipedia entry), and Pitango First leading the USD 25M Series A in November 2021. The Pitango founder-story page [^18] states Pitango has "supported AI21 Labs since its founding in 2017" but does not disclose which specific round Pitango's first check was in.
