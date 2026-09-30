@@ -7926,3 +7926,13 @@ priority:
   resolved: 2026-09-29
   resolution_note: 'Fact-spec sweep 2026-09-29: corrected Base Power row on firms/contrary.md Portfolio table. Prior row had year-only "~2024 Seed" with only [^11] Superscout (secondary aggregator) as citation. Verified actual Contrary participation via 2 independent primary sources — (1) Contrary Research report on Base Power [^base-c1] — WebFetched at https://research.contrary.com/company/base-power, is Contrary''s own first-party primary confirming: Contrary participated in Base Power''s Series C ($1B, October 2025, led by Addition, with a16z, Lightspeed, Thrive Capital participating); Series B $200M announced April 2025 co-led by Addition, a16z, Lightspeed, and Valor Equity Partners ($841M post-money, $275M cumulative funding to that point); founders Zach Dell (CEO), Justin Lopas (COO), Jared Greene (Head of Software); founded August 2023; disclaimer states "Contrary is an investor in Base Power and Anduril through one or more affiliates"; (2) a16z American Dynamism blog "Investing in Base Power" [^base-c2] — WebFetched at https://a16z.com/announcement/investing-in-base-power/, confirms 2025-04-09 Series B announcement date, a16z-led American Dynamism investment, framing as "a software-native utility, purpose-built for a new kind of grid," partner Erin Price-Wright authored the announcement, engineering team from Tesla/SpaceX/Anduril. Renamed row from "Base" to "Base Power" for disambiguation (there is a separate Base L2 blockchain company). Attempted TechCrunch, Reuters, Base Power press page, FinSMEs, TechStartups, canary review — all 403/404 (Web search budget exhausted). Two truly primary sources verified. Currency preserved (USD). Row expanded to include full round details for Series C and Series B, co-investors, founding date, and founders.'
   processed: 2026-09-29
+- slug: andreessen-horowitz
+  type: firm
+  reason: |
+    Round monitoring 2026-09-29: co-led EliseAI Growth $350M (2026-09-29) at $4B valuation with Bessemer Venture Partners.
+  added: 2026-09-29
+- slug: bessemer-venture-partners
+  type: firm
+  reason: |
+    Round monitoring 2026-09-29: co-led EliseAI Growth $350M (2026-09-29) at $4B valuation with Andreessen Horowitz.
+  added: 2026-09-29
