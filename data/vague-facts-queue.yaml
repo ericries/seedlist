@@ -174398,7 +174398,10 @@ vague_facts:
   line: '| Base | Seed | ~2024 | Energy | Active [^11] |'
   priority: normal
   type: year_only_date
-  status: pending
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: CORRECTED — the ~2024 Seed row was based on a secondary aggregator ([^11] Superscout) with no primary confirmation of Contrary participating in Base Power at Seed stage. Contrary Research (Contrary''s own primary at research.contrary.com/company/base-power [^base-c1]) confirms Contrary participation only in the Series C ($1B, October 2025, led by Addition with a16z/Lightspeed/Thrive Capital participating). a16z American Dynamism blog [^base-c2] independently confirms the Series B ($200M, 2025-04-09, a16z-led). Row rewritten from "Base | Seed | ~2024 | Energy | Active [^11]" to "Base Power | Series C ($1B; Addition led; a16z, Lightspeed, Thrive Capital, Contrary participated; founders Zach Dell (CEO) and Justin Lopas (COO), founded August 2023; also Series B $200M 2025-04-09 co-led by Addition, a16z, Lightspeed, and Valor Equity Partners) | 2025-10 (Series C); 2025-04-09 (Series B) | Energy / Grid batteries / Virtual power plant | Active ($841M post-money post-Series B; $275M cumulative by Series B) [^11][^base-c1][^base-c2]". Currency preserved (USD). Company renamed "Base" -> "Base Power" for disambiguation from Base L2 blockchain. Two truly primary sources verified. Third source (TechCrunch, Reuters, Base Power press page, FinSMEs) attempted but all 403/404 — web search budget exhausted for the session.'
+  processed: '2026-09-29'
 - profile: firms/contrary
   profile_name: Contrary
   company: Doss

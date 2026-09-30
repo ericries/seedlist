@@ -35,7 +35,7 @@ Quartermaster develops weather-hardened ocean surveillance sensors and a "SmartM
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-28 | Series B | $140M | Insight Partners, Overmatch Ventures | First Round Capital, Stifel ($40M debt facility) [^1] |
+| 2026-09-28 | Series B | $140M | Insight Partners, Overmatch Ventures | First Round Capital, Stifel ($40M debt facility) [^1][^2] |
 
 ## What Investors Say
 
@@ -49,3 +49,4 @@ No independently sourced investor quotes available at this time.
 ## Sources
 
 [^1]: "Ocean surveillance startup Quartermaster raises another $140M," TechCrunch, September 28, 2026. Accessed September 28, 2026. https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/
+[^2]: FinSMEs, "Quartermaster Raises USD140M in Series B and Debt Financing," September 2026. Accessed September 29, 2026. https://www.finsmes.com/2026/09/quartermaster-raises-usd140m-in-series-b-and-debt-financing.html
