@@ -6162,6 +6162,10 @@ priority:
   type: startup
   reason: New $1B round from 1789 Capital (2026-08-31)
   added: 2026-09-01
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: duplicate of entry 891 (also polymarket startup verification for $1B round from 1789 Capital on 2026-08-31). Already resolved in commit a6cdf1fb via 3 primary sources ([^1] Bloomberg, [^2] TechCrunch, [^3] Crypto Briefing) all confirming $1B round at $21B valuation led by 1789 Capital. Funding History row properly formatted on polymarket.md. No further action required.'
+  processed: '2026-09-29'
 - slug: hibob
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $166M (Bloomberg: $160M) late-stage round (2026-09-01) led by Salesforce with Farallon Capital Management. Values HiBob at ~$3.2B. Sources: GlobeNewswire/Manila Times, Calcalist, Bloomberg, HiBob company news.'
@@ -7928,16 +7932,27 @@ priority:
   processed: 2026-09-29
 - slug: andreessen-horowitz
   type: firm
-  reason: |
-    Round monitoring 2026-09-29: co-led EliseAI Growth $350M (2026-09-29) at $4B valuation with Bessemer Venture Partners.
+  reason: 'Round monitoring 2026-09-29: co-led EliseAI Growth $350M (2026-09-29) at $4B valuation with Bessemer Venture Partners.
+
+    '
   added: 2026-09-29
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: added EliseAI Growth row to andreessen-horowitz.md portfolio table — 2026-09-29, $350M at $4B post-money valuation, co-led by a16z and Bessemer Venture Partners; brings EliseAI''s total capital raised to $741.9M; founders Minna Song (CEO) and Stoyan Stoyanov; company reports $200M+ ARR after 5 consecutive years of 100% growth, in use across ~1 in 6 US apartments. Added 3 named-footnote citations: [^a16z-el1] TechCrunch (verbatim CEO Minna Song quote), [^a16z-el2] AlleyWatch daily 9-29, [^a16z-el3] EliseAI newsroom (company primary source) — same primary triad already cited on the eliseai.md startup profile.'
+  processed: '2026-09-29'
 - slug: bessemer-venture-partners
   type: firm
-  reason: |
-    Round monitoring 2026-09-29: co-led EliseAI Growth $350M (2026-09-29) at $4B valuation with Andreessen Horowitz.
+  reason: 'Round monitoring 2026-09-29: co-led EliseAI Growth $350M (2026-09-29) at $4B valuation with Andreessen Horowitz.
+
+    '
   added: 2026-09-29
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: added EliseAI Growth row to bessemer-venture-partners.md portfolio table — 2026-09-29, $350M at $4B post-money valuation, co-led by Bessemer and Andreessen Horowitz. Added 3 named-footnote citations: [^bvp-el1] TechCrunch, [^bvp-el2] AlleyWatch daily 9-29, [^bvp-el3] EliseAI newsroom — same primary triad already cited on the eliseai.md startup profile and a16z portfolio row.'
+  processed: '2026-09-29'
 - slug: madrona-venture-group
   type: firm
-  reason: |
-    Round monitoring 2026-09-30: participated in Atomic Series A $12.5M (2026-09-29, Boston supply chain AI, ex-Tesla team; Klass Capital led).
+  reason: 'Round monitoring 2026-09-30: participated in Atomic Series A $12.5M (2026-09-29, Boston supply chain AI, ex-Tesla team; Klass Capital led).
+
+    '
   added: 2026-09-30

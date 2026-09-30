@@ -128,6 +128,7 @@ BVP's portfolio is heavily weighted toward enterprise software and cloud (the la
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| EliseAI | Growth (co-led with Andreessen Horowitz; $350M at $4B post-money valuation; ~doubled from prior valuation; brings total raised to $741.9M; proptech/healthcare AI-agent platform used in 1 in 6 US apartments with $200M+ ARR; founders Minna Song CEO and Stoyan Stoyanov) | 2026-09-29 | AI / PropTech / Healthcare / AI Agents / Vertical SaaS | [^bvp-el1][^bvp-el2][^bvp-el3] |
 | InRisk Labs | Series A (co-led with Northpoint Capital, $27M; Vishal Gupta partner; Bessemer seed follow-on) | 2026-08-05 | Insurtech/Reinsurance | [^inrisk1][^inrisk2][^inrisk3] |
 | Shopify | Series A ($7M, led) | 2010-12-13 | E-commerce/Cloud | [^9][^16][^17] |
 | LinkedIn | Series C ($12.8M) | 2007 | Consumer/Social | [^9][^1] |
@@ -349,3 +350,9 @@ However, founder experiences are not universally positive. One founder reported 
 [^rundoo-bvp2]: SiliconANGLE, "Rundoo raises $30M to expand its AI-native operating system for small supply stores," August 19, 2026. Accessed September 2026. https://siliconangle.com/2026/08/19/rundoo-raises-30m-to-expand-its-ai-native-operating-system-for-small-supply-stores/ — Independent tech-press confirmation of Bessemer Venture Partners as Series B participant.
 
 [^rundoo-bvp3]: Tech Startups, "Rundoo raises $30M to help independent retailers take on Home Depot and other big-box chains with AI," August 19, 2026. Accessed September 2026. https://techstartups.com/2026/08/19/rundoo-raises-30m-to-help-independent-retailers-take-on-home-depot-and-other-big-box-chains-with-ai/ — Third independent tech-press confirmation of Bessemer Venture Partners's existing-investor participation in the $30M Series B.
+
+[^bvp-el1]: TechCrunch, "a16z-backed EliseAI raises $350M, doubles valuation to $4B," September 29, 2026. Accessed September 29, 2026. https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/ — Tier-1 tech press confirming Bessemer Venture Partners and Andreessen Horowitz as co-leads of EliseAI's $350M growth round at $4B post-money valuation on September 29, 2026. Includes verbatim CEO Minna Song quote and details on $200M+ ARR and five consecutive years of 100% growth.
+
+[^bvp-el2]: "The AlleyWatch Startup Daily Funding Report: 9/29/2026," AlleyWatch, September 29, 2026. Accessed September 29, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-29-2026/ — Independent tech-press source confirming Bessemer and a16z as co-leads, adding co-founder Stoyan Stoyanov and total funding-to-date of $741.9M.
+
+[^bvp-el3]: EliseAI newsroom, "$4 billion valuation in a funding round led by a16z and Bessemer," September 2026. Accessed September 29, 2026. https://www.eliseai.com/newsroom — Primary company source confirming the $4B valuation and Bessemer's co-lead role alongside Andreessen Horowitz.
