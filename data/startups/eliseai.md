@@ -35,7 +35,7 @@ EliseAI is a New York-headquartered AI-agent platform serving the housing (propt
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-29 | Growth | $350M | Andreessen Horowitz, Bessemer Venture Partners | — [^1][^2][^3] |
+| 2026-09-29 | Growth | $350M | Andreessen Horowitz, Bessemer Venture Partners | Ontario Teachers' Pension Plan, Sapphire Ventures, Navitas Capital [^1][^2][^3] |
 
 The round doubled EliseAI's valuation to $4B and brings total capital raised to $741.9M [^1][^2].
 

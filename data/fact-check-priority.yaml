@@ -7334,10 +7334,18 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-18: participated in Adaptive Series B (2026-09-17) alongside Emergence, Tidemark, Pathlight, Definition, 3KVC.'
   added: 2026-09-18
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified andreessen-horowitz.md portfolio table already contains the Adaptive Series B row (participated; $30M led by Tidemark; Emergence Capital, Pathlight, Definition, 3KVC co-invested; total raised $57M) dated 2026-09-17 with three named-footnote primary citations [^adp-a1] Tidemark blog post (lead-investor primary source with verbatim Dave Yuan quote), [^adp-a2] Adaptive company blog by co-founder Matt Calvano at https://www.adaptive.build/blog/why-we-built-an-ai-project-accountant-and-raised-30m-to-build-more-of-it, and [^adp-a3] Emergence Capital portfolio page listing Adaptive at https://www.emcap.com/portfolio/adaptive (co-investor primary source). Also refreshed the adaptive-construction.md startup profile: expanded its citations from 2 to 4 sources by adding [^3] Adaptive company blog and [^4] Emergence Capital portfolio page. Currency preserved (USD). No corrections needed to the a16z portfolio row.'
+  processed: '2026-09-29'
 - slug: emergence-capital
   type: firm
   reason: 'Round monitoring 2026-09-18: participated in Adaptive Series B (2026-09-17) alongside Andreessen Horowitz, Tidemark, Pathlight, Definition, 3KVC.'
   added: 2026-09-18
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified emergence-capital.md portfolio table already contains the Adaptive Series B row (participated; $30M led by Tidemark; Andreessen Horowitz, Pathlight, Definition, 3KVC co-invested; total raised $57M) dated 2026-09-17 with three named-footnote primary citations [^adp-e1] Tidemark blog post (lead-investor primary source with verbatim Dave Yuan quote), [^adp-e2] Adaptive company blog by co-founder Matt Calvano at https://www.adaptive.build/blog/why-we-built-an-ai-project-accountant-and-raised-30m-to-build-more-of-it, and [^adp-e3] Emergence Capital portfolio page listing Adaptive at https://www.emcap.com/portfolio/adaptive confirming Emergence partnered 2024 with Kevin Spain as sponsoring partner. Also refreshed the adaptive-construction.md startup profile: expanded its citations from 2 to 4 sources by adding [^3] Adaptive company blog and [^4] Emergence Capital portfolio page. Currency preserved (USD). No corrections needed to the emergence-capital portfolio row.'
+  processed: '2026-09-29'
 - slug: novadip-biosciences
   type: startup
   reason: 'Round monitoring 2026-09-21: Novadip Biosciences €10.4M convertible financing (2026-09-21) led by New Science Ventures with Fund+, Wallonie Entreprendre, VIVES Fund, ORSA Tech, Sambrinvest, Noshaq, Invest.BW. Unlocks €18M EIB venture debt tranche. Sources: EU-Startups, Novadip investors page.'
@@ -7956,3 +7964,7 @@ priority:
 
     '
   added: 2026-09-30
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: added Atomic Series A row to madrona-venture-group.md portfolio table — 2026-09-29, $12.5M Series A led by Klass Capital; Madrona Venture Group participated alongside DVx Ventures, Alumni Ventures, and Sandberg Bernthal Venture Partners; brings Atomic''s total funding to just over $15M; Boston-based; ex-Tesla planning team; founders Michael Rossiter (CEO), Neal Suidan (CPO), and Jeff Goodrich (CTO); ARR quintupled since the beginning of 2026 and DoorDash runs ~90% of its purchasing decisions through Atomic across hundreds of sites. Verified via 3 independent primary sources — (1) TechCrunch [^atomic-madrona1] at https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/ (tier-1 tech-press primary confirming amount, lead, Madrona participation, ex-Tesla founding team, ARR metric, DoorDash 90% metric, verbatim Michael Rossiter quote on AI pathfinding); (2) Klass Capital portfolio page [^atomic-madrona2] at https://www.klass.com/portfolio/atomic (lead-investor primary source confirming Klass Capital''s Series A lead in Atomic); (3) Atomic company website [^atomic-madrona3] at https://atomic.supply (primary company source confirming Boston HQ, supply chain planning platform description, ex-Tesla origin, and named customer roster: DoorDash DashMart, HelloFresh Good Chop, Starface World, OOFOS, LMNT, Vincero). Currency preserved (USD). Row added after Jack & Jill (currently the most recent portfolio entry).'
+  processed: '2026-09-29'

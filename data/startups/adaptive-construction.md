@@ -38,7 +38,7 @@ Adaptive builds an AI-native financial automation platform for construction comp
 
 | Date | Round | Amount | Lead | Co-investors |
 |------|-------|--------|------|--------------|
-| 2026-09-17 | Series B | $30M | Tidemark | Emergence Capital, Andreessen Horowitz, Pathlight, Definition, 3KVC [^1][^2] |
+| 2026-09-17 | Series B | $30M | Tidemark | Emergence Capital, Andreessen Horowitz, Pathlight, Definition, 3KVC [^1][^2][^3][^4] |
 
 ## What Investors Say
 
@@ -53,3 +53,5 @@ No independently sourced founder quotes were found in the two primary sources fo
 
 [^1]: Tidemark, "Adaptive: Building the System of Action for Construction Finance," Tidemark Capital blog (The Highpoint), September 2026. Accessed September 18, 2026. https://www.tidemarkcap.com/post/adaptive-building-the-system-of-action-for-construction-finance — Primary lead-investor source. Confirms $30M Series B, Tidemark as lead investor, participants Emergence Capital, Andreessen Horowitz, Pathlight, Definition, and 3KVC. Contains the verbatim Tidemark thesis quote used above.
 [^2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/17/2026," September 17, 2026. Accessed September 18, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-17-2026/ — Independent aggregator confirms $30M Series B on 2026-09-17, Tidemark as lead investor, participants Emergence Capital, Andreessen Horowitz, Pathlight, Definition, and 3KVC. Also names co-founders Matthew Calvano, Henry Bradlow, and Francisco Enriquez and reports total funding to date of $57M.
+[^3]: Matt Calvano, "Why We Built an AI Project Accountant, and Raised $30M to Build More of It," Adaptive company blog, September 17, 2026. Accessed September 29, 2026. https://www.adaptive.build/blog/why-we-built-an-ai-project-accountant-and-raised-30m-to-build-more-of-it — Primary company source authored by co-founder Matt Calvano confirming $30M raise and product framing.
+[^4]: Emergence Capital portfolio page listing Adaptive ("Agentic Software; Founded 2021; Emergence partnered 2024; Kevin Spain lead"). Accessed September 29, 2026. https://www.emcap.com/portfolio/adaptive — Co-investor primary source confirming Emergence's Adaptive relationship and Kevin Spain as sponsoring partner.
