@@ -47,6 +47,31 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/30/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-30-2026/
+  source: alleywatch
+  date_found: '2026-09-30'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Everphone secures €15 million to finance new devices for corporate customers
+  url: https://www.eu-startups.com/2026/09/everphone-secures-e15-million-to-finance-new-devices-for-corporate-customers/
+  source: eu-startups
+  date_found: '2026-09-30'
+  parsed_company: Everphone
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris-based Inbolt raises €11 million to give industrial robots real-time
+    vision and intelligence
+  url: https://www.eu-startups.com/2026/09/paris-based-inbolt-raises-e11-million-to-give-industrial-robots-real-time-vision-and-intelligence/
+  source: eu-startups
+  date_found: '2026-09-30'
+  parsed_company: Paris-based Inbolt
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort
   url: https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/
   source: techcrunch
@@ -829,30 +854,4 @@ pending_rounds:
   parsed_company: Loora
   parsed_amount: $22M
   parsed_round: Series B
-  status: pending
-- title: Polyphron raised $20M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-17'
-  parsed_company: Polyphron
-  parsed_amount: $20M
-  parsed_round: Seed
-  status: processed
-  notes: created startup profile polyphron.md; $20M seed 2026-09-17; lead Quiet Capital
-    with Gradient, Haystack, Compound; NYC biotech; updated quiet-capital.md portfolio
-- title: Magentic raised $18M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-17'
-  parsed_company: Magentic
-  parsed_amount: $18M
-  parsed_round: Series A
-  status: pending
-- title: Eterna Regeneratives raised $4M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-17'
-  parsed_company: Eterna Regeneratives
-  parsed_amount: $4M
-  parsed_round: null
   status: pending
