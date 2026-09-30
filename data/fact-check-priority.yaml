@@ -6053,6 +6053,10 @@ priority:
   type: startup
   reason: £100M growth round (2026-08-31) — National Wealth Fund, Korea Development Bank, Honda Xcelerator Ventures
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified nexeon.md startup profile is complete with 3 primary sources. Growth £100M on 2026-08-31 led by National Wealth Fund with Korea Development Bank and Honda Xcelerator Ventures participating; original currency preserved (£, not USD). Funding History row properly formatted with names-only cells and YYYY-MM-DD date. No further action on this entry.'
+  processed: '2026-09-29'
 - slug: s-transistors
   type: startup
   reason: Lifeline Ventures-led €2.6M Pre-Seed (2026-08-31)
@@ -6061,6 +6065,10 @@ priority:
   type: startup
   reason: Partech-led $27M Series B (2026-08-26) with Latitude/LocalGlobe, Outsiders Fund
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified breedr.md startup profile is complete with 3 primary sources. Series B $27M on 2026-08-26 led by Partech (impact fund) with Latitude (LocalGlobe growth fund) and Outsiders Fund participating. Funding History row properly formatted. No further action on this entry.'
+  processed: '2026-09-29'
 - slug: polymarket
   type: startup
   reason: 1789 Capital-led $1B round at $21B valuation (2026-08-31)
@@ -6134,6 +6142,10 @@ priority:
   type: startup
   reason: New Series A+ round (2026-09-01)
   added: 2026-09-01
+  status: resolved
+  resolved: '2026-09-29'
+  resolution_note: 'Fact-spec sweep 2026-09-29: verified xorlab.md startup profile is complete with 3 primary sources. Series A+ €5M on 2026-09-01 led by Spicehaus Partners with Grapha Holding, EquityPitcher Ventures, and ZKB Start-up Finance participating; original currency preserved (€, not USD/CHF). Funding History row properly formatted. No further action on this entry.'
+  processed: '2026-09-29'
 - slug: inleap-photonics
   type: startup
   reason: New seed round (2026-09-01)
