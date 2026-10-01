@@ -8001,3 +8001,35 @@ priority:
   resolved: '2026-09-29'
   resolution_note: 'Fact-spec sweep 2026-09-29: added Atomic Series A row to madrona-venture-group.md portfolio table — 2026-09-29, $12.5M Series A led by Klass Capital; Madrona Venture Group participated alongside DVx Ventures, Alumni Ventures, and Sandberg Bernthal Venture Partners; brings Atomic''s total funding to just over $15M; Boston-based; ex-Tesla planning team; founders Michael Rossiter (CEO), Neal Suidan (CPO), and Jeff Goodrich (CTO); ARR quintupled since the beginning of 2026 and DoorDash runs ~90% of its purchasing decisions through Atomic across hundreds of sites. Verified via 3 independent primary sources — (1) TechCrunch [^atomic-madrona1] at https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/ (tier-1 tech-press primary confirming amount, lead, Madrona participation, ex-Tesla founding team, ARR metric, DoorDash 90% metric, verbatim Michael Rossiter quote on AI pathfinding); (2) Klass Capital portfolio page [^atomic-madrona2] at https://www.klass.com/portfolio/atomic (lead-investor primary source confirming Klass Capital''s Series A lead in Atomic); (3) Atomic company website [^atomic-madrona3] at https://atomic.supply (primary company source confirming Boston HQ, supply chain planning platform description, ex-Tesla origin, and named customer roster: DoorDash DashMart, HelloFresh Good Chop, Starface World, OOFOS, LMNT, Vincero). Currency preserved (USD). Row added after Jack & Jill (currently the most recent portfolio entry).'
   processed: '2026-09-29'
+- slug: insight-partners
+  type: firm
+  reason: "appeared in Metaview Series C (2026-09-30)"
+  added: 2026-09-30
+- slug: gv
+  type: firm
+  reason: "appeared in Metaview Series C (2026-09-30)"
+  added: 2026-09-30
+- slug: valor-equity-partners
+  type: firm
+  reason: "appeared in Flow Engineering Series B (2026-09-30)"
+  added: 2026-09-30
+- slug: sequoia-capital
+  type: firm
+  reason: "appeared in Flow Engineering Series B (2026-09-30)"
+  added: 2026-09-30
+- slug: roelof-botha
+  type: investor
+  reason: "appeared in Flow Engineering Series B (2026-09-30)"
+  added: 2026-09-30
+- slug: redpoint-ventures
+  type: firm
+  reason: "appeared in Restate Series A (2026-09-30)"
+  added: 2026-09-30
+- slug: qed-investors
+  type: firm
+  reason: "appeared in Charter Space Seed (2026-09-30)"
+  added: 2026-09-30
+- slug: hustle-fund
+  type: firm
+  reason: "appeared in Charter Space Seed (2026-09-30)"
+  added: 2026-09-30

@@ -47,14 +47,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Charter Space raises $5M to bring insurance to the stars
-  url: https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/
-  source: techcrunch
-  date_found: '2026-09-30'
-  parsed_company: Charter Space
-  parsed_amount: $5M
-  parsed_round: null
-  status: pending
 - title: Everphone secures €15 million to finance new devices for corporate customers
   url: https://www.eu-startups.com/2026/09/everphone-secures-e15-million-to-finance-new-devices-for-corporate-customers/
   source: eu-startups
@@ -71,14 +63,6 @@ pending_rounds:
   parsed_company: Paris-based Inbolt
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Metaview raised $60M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-30'
-  parsed_company: Metaview
-  parsed_amount: $60M
-  parsed_round: Series C
   status: pending
 - title: Aptadit Therapeutics raised $45M seed
   url: https://www.axios.com/newsletters/axios-pro-rata
@@ -250,15 +234,6 @@ pending_rounds:
   date_found: '2026-09-29'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future
-    Health
-  url: https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/
-  source: crunchbase
-  date_found: '2026-09-29'
-  parsed_company: Tiny Health
-  parsed_amount: $33M
   parsed_round: null
   status: pending
 - title: London’s Reactive Technologies secures €19 million EIB financing to strengthen
