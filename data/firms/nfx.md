@@ -76,6 +76,7 @@ Based on 300 verified investments from Crunchbase and NFX's portfolio page, the 
 
 | Company | Stage | Year | Sector | Source |
 |---------|-------|------|--------|--------|
+| TwoStep Therapeutics | Series A (participated; $62.5M co-led by Insight Partners and Medical Excellence Capital; oversubscribed; M Ventures, Pfizer Ventures, 2048 Ventures, and Stanford University also participated; FDA cleared IND for first-in-class peptide-drug conjugate) | 2026-09-09 | Biotech / Oncology / Peptide-Drug Conjugates | [^nfx-tst1][^nfx-tst2][^nfx-tst3] |
 | DoorDash | Seed | 2013 | Marketplace/Delivery | [^2][^10] |
 | Lyft | Angel | 2012 | Marketplace/Rideshare | [^2][^11] |
 | Patreon | Angel | 2013 | Marketplace/Creator | [^2][^12] |
@@ -179,3 +180,9 @@ No independently sourced founder testimonials with verbatim quotes found from th
 [^alice-nfx2]: Bloomberg, "AI Safety Startup Alice, Partner of Google, Anthropic, Raises $140 Million," August 25, 2026. Accessed August 2026. https://www.bloomberg.com/news/articles/2026-08-25/ai-safety-startup-alice-partner-of-google-anthropic-raises-140-million — Independent tier-1 press confirmation naming NFX as Growth-round participant.
 
 [^alice-nfx3]: SiliconANGLE, "Alice raises $140M as its AI security business grows more than 500%," August 25, 2026. Accessed August 2026. https://siliconangle.com/2026/08/25/alice-raises-140m-as-its-ai-security-business-grows-more-than-500/ — Third independent tech-press confirmation of NFX participation.
+
+[^nfx-tst1]: BusinessWire, "TwoStep Therapeutics Announces Oversubscribed $62.5 Million Series A Financing and FDA Clearance of IND for First-in-Class Peptide-Drug Conjugate," September 9, 2026. Accessed October 1, 2026. https://www.businesswire.com/news/home/20260909/en/TwoStep-Therapeutics-Announces-Oversubscribed-62.5-Million-Series-A-Financing — Primary wire-service company release confirming NFX among participants in Insight Partners / Medical Excellence Capital co-led Series A.
+
+[^nfx-tst2]: BioSpace, "TwoStep Therapeutics Announces Oversubscribed $62.5 Million Series A Financing and FDA Clearance of IND for First-in-Class Peptide-Drug Conjugate," September 9, 2026. Accessed October 1, 2026. https://www.biospace.com/press-releases/twostep-therapeutics-announces-oversubscribed-62-5-million-series-a-financing-and-fda-clearance-of-ind-for-first-in-class-peptide-drug-conjugate — Independent biotech trade press confirmation of the $62.5M Series A and NFX's participation.
+
+[^nfx-tst3]: TwoStep Therapeutics company website, accessed October 1, 2026. https://www.twosteptx.com — Primary company source confirming the Series A investor syndicate including NFX.

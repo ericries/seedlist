@@ -6638,10 +6638,18 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-11: appeared in Superluminal Medicines Series B ($60M, 2026-09-05) and TwoStep Therapeutics Series A ($62.5M, 2026-09-09, lead).'
   added: 2026-09-11
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: added Superluminal Medicines Series B row to insight-partners.md portfolio table — 2026-09-05, $60M led by BVF Partners; Insight Partners participated as existing investor alongside Deep Track Capital and Perceptive Advisors (new) and RA Capital Management, NVIDIA NVentures, Catalio Capital, Eli Lilly, Cooley, and Gaingels (existing/returning). Oversubscribed. Added 3 named-footnote citations: [^ip-sm1] Superluminal Medicines About page (primary company), [^ip-sm2] Endpoints News (biotech trade press), [^ip-sm3] Superluminal homepage press-quote block (primary company source listing full investor syndicate).'
+  processed: '2026-10-01'
 - slug: nea
   type: firm
   reason: 'Round monitoring 2026-09-11: appeared in Positron AI Series C ($875M, 2026-09-10, co-lead).'
   added: 2026-09-11
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: added Positron AI Series C row to nea.md portfolio table — 2026-09-10, $875M co-led by NEA, Atreides Management, and Valor Equity Partners with Andra Capital, SemiAnalysis Capital, and Jim Clark participating. AI inference accelerator hardware. Added 3 named-footnote citations: [^nea-pos1] Positron press announcement (primary company source), [^nea-pos2] Positron homepage, [^nea-pos3] Positron About page.'
+  processed: '2026-10-01'
 - slug: valor-equity-partners
   type: firm
   reason: 'Round monitoring 2026-09-11: appeared in Positron AI Series C ($875M, 2026-09-10, co-lead).'
@@ -6662,6 +6670,10 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-11: appeared in TwoStep Therapeutics Series A ($62.5M, 2026-09-09) via NFX Bio.'
   added: 2026-09-11
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: added TwoStep Therapeutics Series A row to nfx.md portfolio table — 2026-09-09, $62.5M oversubscribed, co-led by Insight Partners and Medical Excellence Capital with NFX, M Ventures, Pfizer Ventures, 2048 Ventures, and Stanford University participating; FDA cleared IND for first-in-class peptide-drug conjugate. Added 3 named-footnote citations: [^nfx-tst1] BusinessWire primary release, [^nfx-tst2] BioSpace biotech trade press, [^nfx-tst3] TwoStep Therapeutics company website.'
+  processed: '2026-10-01'
 - slug: brainchild-bio
   type: startup
   reason: 'Round monitoring 2026-09-11: New lean profile for $116M Series A (2026-09-08). Undisclosed private family fund/foundation led; Seattle Children''s and WRF Capital participated. Sources: (1) BrainChild Bio press release PDF; (2) WRF Capital news page; (3) Axios Pro Rata.'

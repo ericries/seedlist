@@ -165,6 +165,7 @@ NEA's portfolio is too large for a comprehensive count-based analysis from publi
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Positron AI | Series C (co-led with Atreides Management and Valor Equity Partners; $875M; Andra Capital, SemiAnalysis Capital, and Jim Clark also participated; AI inference accelerator hardware) | 2026-09-10 | AI Hardware / Semiconductors / Inference | Private [^nea-pos1][^nea-pos2][^nea-pos3] |
 | Salesforce | Series A | 1999 | Enterprise/CRM | IPO [^8][^12] |
 | Workday | Series E | 2009 | Enterprise/HR | IPO [^13][^14] |
 | Cloudflare | Series B | 2011 | Infrastructure/Security | IPO [^9][^15] |
@@ -265,3 +266,9 @@ No independently sourced founder testimonials found. NEA's website describes the
 [^wispr-nea1]: TechCrunch, "Wispr raises $280M at $2B valuation as it looks beyond dictation," August 17, 2026. Accessed September 2026. https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/ — Tier-1 tech press primary source confirming Menlo Ventures led the $280M Series B at $2B post-money valuation on August 17, 2026, with NEA named among existing/returning investors alongside Notable Capital, Neo, 8VC, MVP Ventures, plus new investors Acrew, Activate, Forerunner, Goodwater, Peak XV, Together Fund, PLUS Capital.
 [^wispr-nea2]: Wispr Flow blog (company primary), "Our Series B, and what it means for you," August 17, 2026. Accessed September 2026. https://wisprflow.ai/post/series-b — Company primary source announcing the Series B, previewing Canto proprietary speech-recognition model, and naming NEA among the investor syndicate; total capital raised to date $361M.
 [^wispr-nea3]: Fortune, "Wispr talks its way to a $2 billion valuation. The company says dictation's only the beginning," August 17, 2026. Accessed September 2026. https://fortune.com/2026/08/17/wispr-2-billion-valuation-dictations-only-the-beginning/ — Independent tier-1 business press confirmation of Menlo-led $280M Series B with NEA participation; Matt Kraning quoted as Menlo Ventures investing partner.
+
+[^nea-pos1]: Positron AI press announcement, "Positron Raises $875M Series C," September 2026. Accessed October 1, 2026. https://positron.ai/press — Primary company source announcing the Series C co-led by NEA, Atreides Management, and Valor Equity Partners with Andra Capital, SemiAnalysis Capital, and Jim Clark participating.
+
+[^nea-pos2]: Positron AI homepage, accessed October 1, 2026. https://positron.ai — Primary company source confirming Positron's AI inference accelerator product line and investor syndicate.
+
+[^nea-pos3]: Positron AI About page, accessed October 1, 2026. https://positron.ai/about — Company primary source describing Positron's AI inference hardware mission.
