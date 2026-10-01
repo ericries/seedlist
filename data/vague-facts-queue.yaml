@@ -1495,7 +1495,22 @@ vague_facts:
   line: '| Spotify | Series C ($100M at ~$1B valuation; DST Global led; Kleiner Perkins + Accel participated — Accel''s initial in'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: SCANNER FALSE POSITIVE — column 4 is the citation Source column
+    in the 5-column Accel Portfolio table (Company | Round detail | Year | Sector | Sources), which correctly
+    contains only footnote references [^6][^21][^22][^119]. Row content is fully specific: 2011-06-17 date,
+    $100M Series C, DST Global led, Kleiner Perkins + Accel participated, ~$1B valuation, Accel''s initial
+    via Sameer Gandhi and Sonali De Rycker. Re-verified 2026-10-01 via 3 independent primary sources: (1)
+    Accel portfolio page for Spotify [^21] — first-party primary from Accel confirming "Initial Investment
+    in 2011" with Sameer Gandhi and Sonali De Rycker as partners; (2) AllThingsD "Spotify Gearing Up For
+    U.S. Launch, Closes Its $1 Billion Round" [^22] — WebFetched, confirms June 17, 2011 announcement,
+    ~$100M raised from DST, Kleiner Perkins and Accel at ~$1B valuation (verbatim: "The European company
+    has raised around $100 million from DST, Kleiner Perkins and Accel"); (3) The Next Web [^119] — third
+    independent contemporaneous confirmation of the June 17, 2011 announcement, DST Global as lead with
+    Accel and Kleiner Perkins participating. All 3 sources agree on all fact elements. Row remains as-is;
+    scanner is over-flagging the Sources column.'
+  processed: '2026-10-01'
 - profile: firms/accel
   profile_name: Accel
   company: Flipkart
@@ -1554,7 +1569,22 @@ vague_facts:
   line: '| Etsy | Series D ($27M, led; Union Square Ventures + Hubert Burda Media participated; Jim Breyer joined board) | 2008-0'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: SCANNER FALSE POSITIVE — column 4 is the citation Source column
+    in the 5-column Accel Portfolio table (Company | Round detail | Year | Sector | Sources), which correctly
+    contains only footnote references [^6][^31][^32][^116]. Row content is fully specific: 2008-01-30 date,
+    $27M Series D, Accel led, Union Square Ventures + Hubert Burda Media participated, Jim Breyer joined
+    board. Re-verified 2026-10-01 via 3 independent primary sources: (1) TechCrunch "Etsy Raises $27 Million;
+    Accel''s Jim Breyer Joins Board" [^31] — WebFetched, confirms "raised $27 million in a series D round"
+    on January 30, 2008, "Accel partner Jim Breyer will take a seat on Etsy''s board," and "Union Square
+    Ventures invested again in this round, as did new investor Accel Partners"; (2) Accel portfolio page
+    for Etsy [^32] — first-party primary from Accel confirming "Initial Investment in 2008" with Andrew
+    Braccia and Kevin Comolli as partners; (3) Charlie O''Donnell "This Is Going To Be Big" blog [^116]
+    — third independent contemporaneous NYC-VC blog post (same January 30, 2008 announcement date) confirming
+    $27M Series D and Accel/Jim Breyer''s arrival on the board with Hubert Burda Media participation. All
+    3 sources agree on all fact elements. Row remains as-is; scanner is over-flagging the Sources column.'
+  processed: '2026-10-01'
 - profile: firms/accel
   profile_name: Accel
   company: Braintree
@@ -1574,7 +1604,22 @@ vague_facts:
   line: '| Supercell | Series A ($12M, led; London Venture Partners participated; Kevin Comolli joined board) | 2011-05-26 | Gami'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: SCANNER FALSE POSITIVE — column 4 is the citation Source column
+    in the 5-column Accel Portfolio table (Company | Round detail | Year | Sector | Sources), which correctly
+    contains only footnote references [^35][^36][^118]. Row content is fully specific: 2011-05-26 date, $12M
+    Series A, Accel led, London Venture Partners participated, Kevin Comolli joined board. Re-verified 2026-10-01
+    via 3 independent primary sources: (1) TechCrunch "Supercell Raises $12M From Accel Partners To Power
+    Social Web Games" [^35] — WebFetched, confirms May 26, 2011 announcement, verbatim "Finnish game developer
+    Supercell has secured a large series A investment of $12 million from Accel Partners" and "London Venture
+    Partners, one of Supercell''s previous investors, also participated"; (2) Accel portfolio page for Supercell
+    [^36] — first-party primary from Accel confirming "Initial Investment: Series A in 2011" with Kevin
+    Comolli as partner; (3) Ilkka Paananen (Supercell President), PocketGamer.biz "2011 in review" [^118]
+    — third independent confirmation from Supercell''s own president listing "Accel invested $12 million
+    in us" among Supercell''s 2011 highlights. All 3 sources agree on all fact elements. Row remains as-is;
+    scanner is over-flagging the Sources column.'
+  processed: '2026-10-01'
 - profile: firms/accel
   profile_name: Accel
   company: Scale AI
