@@ -3,7 +3,7 @@ founded: 2007
 tldr: "Alexandria, VA fintech specialist founded 2007 by Capital One co-founders Nigel Morris and Frank Rotman. $4B+ AUM across multiple vehicles including Fund VIII ($650M early-stage, 2023) and Growth II ($275M). Invests pre-seed through growth in fintech, lending, payments, insurtech, consumer finance, proptech, and wealthtech across the US, UK/Europe, LatAm, Asia-Pacific, and Africa/Middle East via dedicated regional partners."
 fund_size: $4B+ AUM; Fund VIII ($650M early-stage, 2023); Growth II ($275M, 2023);
   Fund VII ($550M early-stage, 2021); Growth I ($500M, 2021); Fund VI ($350M, 2020)
-last_researched: 2026-06-12
+last_researched: 2026-09-30
 location: Alexandria, VA
 name: QED Investors
 sector_focus:
@@ -132,7 +132,7 @@ QED claims to invest across the full fintech stack, but the verified portfolio s
 | Company | Stage | Year | Sector | Status | Source |
 |---------|-------|------|--------|--------|--------|
 | Footprint | Series B (Led $25M; MUFG Innovation Partners, Commerce Ventures, LightBank, Alumni Ventures, Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, Animal Capital participated; $45M total raised) | 2026-09-16 | Fintech / Identity / KYC / KYB / AML / AI | Active | [^footprint-qed-1][^footprint-qed-2][^footprint-qed-3] |
-| Credit Karma | Series A (Led) | 2009 | Consumer Finance | Acquired (Intuit) | [^14] |
+| Credit Karma | Series A ($2.5M, led; SV Angel, Felicis Ventures, Founders Fund participated) | 2009-11-04 | Consumer Finance | Acquired (Intuit) | [^14][^ck-qed-1][^ck-qed-2][^ck-qed-3] |
 | Klarna | Growth Equity | 2012 | Lending/BNPL | IPO (NYSE, 2025) | [^15] |
 | Avant | Seed | 2013 | Lending | Active | [^16] |
 | GreenSky | Series A | 2013 | Lending | Acquired (Sixth Street/KKR) | [^17] |
@@ -266,3 +266,9 @@ This table represents 28 portfolio companies (29 entries including the Current S
 [^footprint-qed-2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/16/2026," September 16, 2026. Accessed September 17, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-16-2026/ — Independent contemporaneous tech press: confirms $25M Series B, QED lead, MUFG Innovation Partners (fuller participant name), and $45M total-raised figure.
 
 [^footprint-qed-3]: QED Investors, "Why QED invested in Footprint," Amias Gerety, May 21, 2024. Accessed September 17, 2026. https://www.qedinvestors.com/blog/why-qed-invested-in-footprint — Primary firm source: QED's original public investment memo on Footprint (predates the Series B but confirms QED's prior investment and thesis).
+
+[^ck-qed-1]: TechCrunch, "Credit Karma Raises $2.5 Million To Take The Mystery Out Of Credit Scores," November 4, 2009. Accessed September 30, 2026. https://techcrunch.com/2009/11/04/credit-karma-raises-2-5-million-to-take-the-mystery-out-of-credit-scores/ — Contemporaneous tier-1 press confirming Credit Karma's $2.5M Series A was led by QED Investors on 2009-11-04 with SV Angel, Aydin Senkut, and Founders Fund (via FF Angel) participating.
+
+[^ck-qed-2]: Crunchbase News, "As Intuit Buys Credit Karma For $7.1B, A Quick Look Back At Its Funding History," February 2020. Accessed September 30, 2026. https://news.crunchbase.com/venture/as-intuit-eyes-credit-karma-for-7b-a-quick-look-back-at-its-funding-history/ — Independent trade press retrospective confirming the $2.5M Series A was led by QED Investors with Founders Fund, Felicis Ventures, and SV Angel participating.
+
+[^ck-qed-3]: SEC EDGAR, Credit Karma, Inc., Form D "Notice of Exempt Offering of Securities," filed November 4, 2009 (Accession 0001019687-09-003941). Accessed September 30, 2026. https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=credit+karma&type=D&dateb=&owner=include&count=40 — Regulatory primary document: Credit Karma's Form D filing on 2009-11-04 corroborates the Series A closing date reported by TechCrunch the same day.

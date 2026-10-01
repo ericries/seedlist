@@ -6,7 +6,7 @@ last_verified_investment:
   company: Snorkel AI
   date: 2026-09-22
   round: Series E
-last_researched: 2026-09-21
+last_researched: 2026-09-30
 location: New York, NY
 name: Insight Partners
 sector_focus:
@@ -117,9 +117,9 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Twitter | Series D ($100M, participated; new investor alongside T. Rowe Price and Morgan Stanley) | 2009-09-25 | Social Media | Acquired (Musk, 2022) | [^15][^52][^53] |
 | Shopify | Series A | 2010 | E-commerce SaaS | Active (Public) | [^16] |
 | Qualtrics | Series B | 2014 | Enterprise Software | Acquired (SAP/Silver Lake) | [^17] |
-| HelloFresh | Series D | 2014 | Consumer/Food | Active (Public) | [^18] |
+| HelloFresh | Series D ($50M, led; Phenomen VC existing) | 2014-06-18 | Consumer/Food | Active (Public) | [^18][^hf-ip-1] |
 | Alteryx | Series B ($60M, led; SAP Ventures & Toba Capital participated) | 2014-10-06 | Data Analytics | Acquired (Clearlake) | [^19][^54][^55] |
-| JFrog | Series D | 2018 | DevOps | Active (Public) | [^20] |
+| JFrog | Series D ($165M, led; Spark Capital and Geodesic Capital new investors; Battery Ventures, Sapphire Ventures, Scale Venture Partners, Dell Technologies Capital, Vintage Investment Partners, Gemini Israel Ventures, Qumra Capital, VMware existing; Jeff Horing joined board) | 2018-10-04 | DevOps | Active (Public) | [^20][^jfrog-ip-1] |
 | nCino | Series B | 2015 | Fintech/Banking SaaS | Active (Public) | [^21] |
 | Cvent | Growth | 2011 | Event Tech | Active (Public) | [^22] |
 | Mimecast | Series C | 2012 | Cybersecurity | Acquired (Permira) | [^23] |
@@ -319,3 +319,7 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^ip-num2]: "The Week's 10 Biggest Funding Rounds: Cybersecurity, AI And Health Lead With Island And Cyera Bringing In Massive Deals," Crunchbase News, September 26, 2026. Accessed September 26, 2026. https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/ — Trade press summary naming Numeral's $100M Series C as Insight Partners-led.
 
 [^ip-num3]: "Automating the Sales Tax Back Office," Salesforce Ventures perspectives, September 2026. Accessed September 26, 2026. https://www.salesforceventures.com/perspectives/automating-the-sales-tax-back-office — Co-investor primary source describing Salesforce Ventures' participation in the Series C alongside Insight Partners and confirming Numeral's founders Sam Ross (CEO) and Matt Duvall (CTO).
+
+[^jfrog-ip-1]: Insight Partners, "JFrog Secures $165 Million Investment to Lead Universal DevOps in the Enterprise," October 2018. Accessed September 30, 2026. https://www.insightpartners.com/ideas/jfrog-secures-165-million-investment/ — Primary firm source: Insight Partners' own announcement confirming it led JFrog's $165M Series D in October 2018 with Jeff Horing joining the board; new investors Spark Capital and Geodesic Capital, existing investors Battery Ventures, Sapphire Ventures, Scale Venture Partners, Dell Technologies Capital, Vintage Investment Partners, Gemini Israel Ventures, Qumra Capital, and VMware. Primary wire-service release (PR Newswire, 2018-10-04 [^20]) pins the specific day.
+
+[^hf-ip-1]: Insight Partners, "HelloFresh Raises $50M For Meal Ingredients In A Box," June 2014. Accessed September 30, 2026. https://www.insightpartners.com/ideas/hellofresh-raises-50m-for-meal-ingredients-in-a-box/ — Primary firm source: Insight Partners' own announcement of its $50M Series D investment in HelloFresh with Phenomen VC continuing. TechCrunch's 2014-06-18 article [^18] pins the specific day.

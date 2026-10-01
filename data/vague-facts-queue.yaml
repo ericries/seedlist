@@ -880,7 +880,10 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-23'
-  resolution_note: 'Fact-spec sweep 2026-09-23: SCANNER FALSE POSITIVE — column 5 is the Source column, which correctly contains only footnote citations [^6][^52][^53][^54]. The Mejuri row itself is fully specific: 2015-11-05 date (Batch 15 admission announcement), standard 500 Startups accelerator check described in detail, sector (DTC/E-commerce), status (Active), and 4 primary sources cited — 500 Global blog [^52] (Nov 5, 2015 first-party announcement), TechCrunch [^53] (Nov 5, 2015 tier-1 press), TheNextWeb [^54] (Feb 17, 2016 Demo Day coverage), and Crunchbase aggregator [^6]. Row also documents the 2016 seed and September 2018 USD 5M Series A follow-on activity. No profile change needed.'
+  resolution_note: 'Fact-spec sweep 2026-09-23: SCANNER FALSE POSITIVE — column 5 is the Source column, which correctly contains only footnote citations [^6][^52][^53][^54]. The Mejuri row itself is fully
+    specific: 2015-11-05 date (Batch 15 admission announcement), standard 500 Startups accelerator check described in detail, sector (DTC/E-commerce), status (Active), and 4 primary sources cited — 500
+    Global blog [^52] (Nov 5, 2015 first-party announcement), TechCrunch [^53] (Nov 5, 2015 tier-1 press), TheNextWeb [^54] (Feb 17, 2016 Demo Day coverage), and Crunchbase aggregator [^6]. Row also documents
+    the 2016 seed and September 2018 USD 5M Series A follow-on activity. No profile change needed.'
 - profile: firms/500-global
   profile_name: 500 Global
   company: DeepInfra
@@ -1133,7 +1136,11 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-23'
-  resolution_note: 'Fact-spec sweep 2026-09-23: SCANNER FALSE POSITIVE — column 5 is the Source column, which correctly contains only footnote citations [^6][^53][^54][^55]. The ConsejoSano row itself is fully specific: 2017-02-21 date, Series A USD 4.9M amount, 7wire Ventures lead, full syndicate named (Tufts Health Ventures, TOTAL Impact Capital, Wanxiang Healthcare Investments, Acumen, Oxeon Partners, Impact Engine), post-round total raised USD 7.2M, SameSky Health rebrand noted, and merger into GroundGame.Health (April 2024) status. 4 independent primary source citations already in profile: PR Newswire (2017-02-21 primary company press release) [^53], MobiHealthNews (Jonah Comstock, 2017-02-13 trade press) [^54], MedCity News (2017-02-23 trade press) [^55], and Crunchbase aggregator [^6]. No profile change needed.'
+  resolution_note: 'Fact-spec sweep 2026-09-23: SCANNER FALSE POSITIVE — column 5 is the Source column, which correctly contains only footnote citations [^6][^53][^54][^55]. The ConsejoSano row itself is
+    fully specific: 2017-02-21 date, Series A USD 4.9M amount, 7wire Ventures lead, full syndicate named (Tufts Health Ventures, TOTAL Impact Capital, Wanxiang Healthcare Investments, Acumen, Oxeon Partners,
+    Impact Engine), post-round total raised USD 7.2M, SameSky Health rebrand noted, and merger into GroundGame.Health (April 2024) status. 4 independent primary source citations already in profile: PR Newswire
+    (2017-02-21 primary company press release) [^53], MobiHealthNews (Jonah Comstock, 2017-02-13 trade press) [^54], MedCity News (2017-02-23 trade press) [^55], and Crunchbase aggregator [^6]. No profile
+    change needed.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: CareDox
@@ -1245,7 +1252,11 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-23'
-  resolution_note: 'Fact-spec sweep 2026-09-23: CORRECTED Ayogo row — the ~2016 date was wrong. 7wire''s documented Ayogo Series A closed 2015-04-10 (USD 2.5M syndicate; Merck Global Health Innovation Fund, Excel Venture Management, and 7Wire Ventures participating with no formal lead named; David Stevenson (GHI), Caleb Winder (Excel), and Lee Shapiro (7Wire) joined the board). Note: Ayogo is NOT among the 5 companies 7wire announced as its 2013 strategic investments per [^2] (which lists EosHealth, WiserTogether, ZestHealth, Abundant Ventures Health Innovation Accelerator, and digedu). Verified via 2 primary sources: NEW FinSMEs [^87] (2015-04-10) and NEW BetaKit [^88] (April 2015). Both agree on amount, participants, and board additions. Third primary source (Ayogo company press release; MobiHealthNews) could not be located this session (SSL failure on ayogo.com; MobiHealthNews returned 403; Crunchbase/BusinessWire returned 403/404). Row tightened; 2 new footnotes added.'
+  resolution_note: 'Fact-spec sweep 2026-09-23: CORRECTED Ayogo row — the ~2016 date was wrong. 7wire''s documented Ayogo Series A closed 2015-04-10 (USD 2.5M syndicate; Merck Global Health Innovation Fund,
+    Excel Venture Management, and 7Wire Ventures participating with no formal lead named; David Stevenson (GHI), Caleb Winder (Excel), and Lee Shapiro (7Wire) joined the board). Note: Ayogo is NOT among
+    the 5 companies 7wire announced as its 2013 strategic investments per [^2] (which lists EosHealth, WiserTogether, ZestHealth, Abundant Ventures Health Innovation Accelerator, and digedu). Verified via
+    2 primary sources: NEW FinSMEs [^87] (2015-04-10) and NEW BetaKit [^88] (April 2015). Both agree on amount, participants, and board additions. Third primary source (Ayogo company press release; MobiHealthNews)
+    could not be located this session (SSL failure on ayogo.com; MobiHealthNews returned 403; Crunchbase/BusinessWire returned 403/404). Row tightened; 2 new footnotes added.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: EosHealth
@@ -1257,7 +1268,12 @@ vague_facts:
   type: unknown_value
   status: unresolvable
   resolved: '2026-09-23'
-  resolution_note: 'Fact-spec sweep 2026-09-23: Row could not be tightened this session. 7wire''s December 2013 PR Newswire "Five Strategic Investments in 2013" release [^2] confirms EosHealth as one of the year''s five investments but does not disclose the specific round type, date, or amount. No subsequent primary press coverage of a specific 7wire-participated EosHealth funding round is discoverable via FinSMEs (no results), MedCity News (no results), HIT Consultant (no results), PR Newswire search (no Ayogo/EosHealth match), Crunchbase (403), MobiHealthNews (403), or BusinessWire (403). Attribution rests solely on 7wire''s own 2013 announcement — matches the aggregator-single-source pattern flagged for other early 7wire investments. Row edited to note explicitly that [^2] is the sole primary source and that no specific round could be located. Left as "Active" per current row; company status could not be independently reverified this session. WebSearch budget was exhausted (200/200) at session start, preventing keyword-driven discovery. Recommend re-queueing for a future pass with fresh WebSearch budget.'
+  resolution_note: 'Fact-spec sweep 2026-09-23: Row could not be tightened this session. 7wire''s December 2013 PR Newswire "Five Strategic Investments in 2013" release [^2] confirms EosHealth as one of
+    the year''s five investments but does not disclose the specific round type, date, or amount. No subsequent primary press coverage of a specific 7wire-participated EosHealth funding round is discoverable
+    via FinSMEs (no results), MedCity News (no results), HIT Consultant (no results), PR Newswire search (no Ayogo/EosHealth match), Crunchbase (403), MobiHealthNews (403), or BusinessWire (403). Attribution
+    rests solely on 7wire''s own 2013 announcement — matches the aggregator-single-source pattern flagged for other early 7wire investments. Row edited to note explicitly that [^2] is the sole primary source
+    and that no specific round could be located. Left as "Active" per current row; company status could not be independently reverified this session. WebSearch budget was exhausted (200/200) at session
+    start, preventing keyword-driven discovery. Recommend re-queueing for a future pass with fresh WebSearch budget.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: ZestHealth
@@ -1269,7 +1285,13 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-23'
-  resolution_note: 'Fact-spec sweep 2026-09-23: PARTIALLY tightened ZestHealth row. 7wire''s initial 2013 investment remains anchored to [^2] (PR Newswire "Five Strategic Investments" release, which does not disclose amount or round type). Located subsequent follow-on: ZestHealth Series A closed 2015-08-05, over USD 6M, participants 7wire Ventures + Lightbank + Zaffre Investments + Martin Ventures + Dallas Venture Partners + LSAN/Azimuth Ventures — no formal lead named. Company founded 2013 by Shawn Ellis; markets Smart Concierge to employers, health systems, health plans (customers include Presence Health, BCBS Rhode Island). Verified via 1 primary source: NEW FinSMEs [^89] (2015-08-05). Additional independent primary sources (MedCity News; MobiHealthNews; Chicago Tribune Blue Sky; BuiltInChicago; PR Newswire) could not be reached this session (404/SSL/paywall/403); does NOT meet the 3-source standard for the 2015 Series A. Row updated to note both the 2013 initial position and the 2015 Series A follow-on with citations for each. 1 new footnote added ([^89]). WebSearch budget was exhausted (200/200) at session start. Recommend re-queueing for a future pass to add corroborating sources for the 2015 Series A.'
+  resolution_note: 'Fact-spec sweep 2026-09-23: PARTIALLY tightened ZestHealth row. 7wire''s initial 2013 investment remains anchored to [^2] (PR Newswire "Five Strategic Investments" release, which does
+    not disclose amount or round type). Located subsequent follow-on: ZestHealth Series A closed 2015-08-05, over USD 6M, participants 7wire Ventures + Lightbank + Zaffre Investments + Martin Ventures +
+    Dallas Venture Partners + LSAN/Azimuth Ventures — no formal lead named. Company founded 2013 by Shawn Ellis; markets Smart Concierge to employers, health systems, health plans (customers include Presence
+    Health, BCBS Rhode Island). Verified via 1 primary source: NEW FinSMEs [^89] (2015-08-05). Additional independent primary sources (MedCity News; MobiHealthNews; Chicago Tribune Blue Sky; BuiltInChicago;
+    PR Newswire) could not be reached this session (404/SSL/paywall/403); does NOT meet the 3-source standard for the 2015 Series A. Row updated to note both the 2013 initial position and the 2015 Series
+    A follow-on with citations for each. 1 new footnote added ([^89]). WebSearch budget was exhausted (200/200) at session start. Recommend re-queueing for a future pass to add corroborating sources for
+    the 2015 Series A.'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: WiserTogether
@@ -1281,7 +1303,12 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-23'
-  resolution_note: 'Fact-spec sweep 2026-09-23 (second pass): tightened WiserTogether row from vague "Early | 2013" to full round history using FinSMEs archive discovery. Located 2 new sources beyond [^2]: (a) FinSMEs 2014-01-15 [^90] announcing WiserTogether''s formal equity investment from 7wire Ventures (amount undisclosed) — confirms 7wire named as sole investor, company led by CEO Shub Debgupta, platform accessible to 2M+ people via employer/health plan partnerships; (b) FinSMEs 2014-09-24 [^91] confirming WiserTogether''s Series B ($9M) co-led by Martin Ventures and Merck Global Health Innovation Fund with Grotech Ventures, Harbert Venture Partners, 7Wire Ventures, and Blue Heron Capital participating. Row rewritten to distinguish 2013 initial participation (per [^2] PR Newswire 2013-10-09) from 2014-09-24 Series B (per FinSMEs [^91]). Third independent primary source (Washington Business Journal, MobiHealthNews, MedCity News, Beckers Hospital Review) could not be reached this session (403/404); attribution meets 2-source threshold for the Series B via FinSMEs archive plus [^2] for 2013 anchor. 2 new footnotes added ([^90], [^91]).'
+  resolution_note: 'Fact-spec sweep 2026-09-23 (second pass): tightened WiserTogether row from vague "Early | 2013" to full round history using FinSMEs archive discovery. Located 2 new sources beyond [^2]:
+    (a) FinSMEs 2014-01-15 [^90] announcing WiserTogether''s formal equity investment from 7wire Ventures (amount undisclosed) — confirms 7wire named as sole investor, company led by CEO Shub Debgupta,
+    platform accessible to 2M+ people via employer/health plan partnerships; (b) FinSMEs 2014-09-24 [^91] confirming WiserTogether''s Series B ($9M) co-led by Martin Ventures and Merck Global Health Innovation
+    Fund with Grotech Ventures, Harbert Venture Partners, 7Wire Ventures, and Blue Heron Capital participating. Row rewritten to distinguish 2013 initial participation (per [^2] PR Newswire 2013-10-09)
+    from 2014-09-24 Series B (per FinSMEs [^91]). Third independent primary source (Washington Business Journal, MobiHealthNews, MedCity News, Beckers Hospital Review) could not be reached this session
+    (403/404); attribution meets 2-source threshold for the Series B via FinSMEs archive plus [^2] for 2013 anchor. 2 new footnotes added ([^90], [^91]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: Truvian Sciences
@@ -1293,7 +1320,12 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-23'
-  resolution_note: 'Fact-spec sweep 2026-09-23: tightened Truvian Sciences (rebranded Truvian Health) row from vague "Early" stage to full round detail. Located 1 new primary source: FinSMEs 2024-07-17 [^92] confirming $74M growth financing co-led by Wittington Ventures and Great Point Ventures, with existing investors DNS Capital, Medical Excellence Capital, Tao Capital, TYH Capital, and 7wireVentures participating. Shoppers Drug Mart (Canada''s largest pharmacy) joined as a commercial partner via this round. Round type is NOT explicitly labeled Series in the company announcement — Truvian previously raised a Series C in 2022, so this 2024 round could be Series D or a Series C extension, but no primary press source confirms a specific Series letter; row therefore describes it as "growth financing" per the aggregator label. Third independent primary source (BusinessWire [^46] direct URL returned 403, PYMNTS 404, San Diego Union-Tribune blocked, MobiHealthNews 403); existing [^46] BusinessWire citation retained from prior sweep as second corroborating source. 1 new footnote added ([^92]).'
+  resolution_note: 'Fact-spec sweep 2026-09-23: tightened Truvian Sciences (rebranded Truvian Health) row from vague "Early" stage to full round detail. Located 1 new primary source: FinSMEs 2024-07-17
+    [^92] confirming $74M growth financing co-led by Wittington Ventures and Great Point Ventures, with existing investors DNS Capital, Medical Excellence Capital, Tao Capital, TYH Capital, and 7wireVentures
+    participating. Shoppers Drug Mart (Canada''s largest pharmacy) joined as a commercial partner via this round. Round type is NOT explicitly labeled Series in the company announcement — Truvian previously
+    raised a Series C in 2022, so this 2024 round could be Series D or a Series C extension, but no primary press source confirms a specific Series letter; row therefore describes it as "growth financing"
+    per the aggregator label. Third independent primary source (BusinessWire [^46] direct URL returned 403, PYMNTS 404, San Diego Union-Tribune blocked, MobiHealthNews 403); existing [^46] BusinessWire
+    citation retained from prior sweep as second corroborating source. 1 new footnote added ([^92]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: RecoveryOne
@@ -1305,7 +1337,13 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-23'
-  resolution_note: 'Fact-spec sweep 2026-09-23: tightened RecoveryOne row from vague "Early | ~2020" to full round history. Located 2 new primary sources: (a) FinSMEs 2019-12-17 [^93] confirming $12M funding led by Cigna Ventures with 7wire Ventures as existing/returning investor and management team participation (Series B by inference given later Series C on 2021-09-14); confirms company was formerly known as Trainer Rx and is based in Walnut Creek, CA as a musculoskeletal (MSK) recovery company; (b) Cigna Ventures portfolio page [^94] confirming RecoveryOne''s Series C $33M on 2021-09-14 (Cigna Ventures as investor; 7wire not explicitly named in Cigna''s portfolio-page announcement — aggregator-only attribution pattern for the Series C, following the convention flagged elsewhere in this profile). Company later acquired by TailorCare on 2024-12-10 per [^47]. Row rewritten to show both Series B (2019-12-17) and Series C (2021-09-14) with proper citations. Third independent primary source (HIT Consultant, MobiHealthNews, Healthcare IT News, PR Newswire for the 2019 round; and second confirming primary for the 2021 Series C beyond Cigna''s own page) could not be reached this session (403/404). 2 new footnotes added ([^93], [^94]).'
+  resolution_note: 'Fact-spec sweep 2026-09-23: tightened RecoveryOne row from vague "Early | ~2020" to full round history. Located 2 new primary sources: (a) FinSMEs 2019-12-17 [^93] confirming $12M funding
+    led by Cigna Ventures with 7wire Ventures as existing/returning investor and management team participation (Series B by inference given later Series C on 2021-09-14); confirms company was formerly known
+    as Trainer Rx and is based in Walnut Creek, CA as a musculoskeletal (MSK) recovery company; (b) Cigna Ventures portfolio page [^94] confirming RecoveryOne''s Series C $33M on 2021-09-14 (Cigna Ventures
+    as investor; 7wire not explicitly named in Cigna''s portfolio-page announcement — aggregator-only attribution pattern for the Series C, following the convention flagged elsewhere in this profile). Company
+    later acquired by TailorCare on 2024-12-10 per [^47]. Row rewritten to show both Series B (2019-12-17) and Series C (2021-09-14) with proper citations. Third independent primary source (HIT Consultant,
+    MobiHealthNews, Healthcare IT News, PR Newswire for the 2019 round; and second confirming primary for the 2021 Series C beyond Cigna''s own page) could not be reached this session (403/404). 2 new footnotes
+    added ([^93], [^94]).'
 - profile: firms/a-star-capital
   profile_name: A*
   company: ~unknown
@@ -2012,10 +2050,10 @@ vague_facts:
   status: resolved
   resolved: '2026-09-25'
   resolution_note: 'Fact-spec sweep 2026-09-25: SCANNER FALSE POSITIVE on column 4 (Source column). Sharpened the year-only "2016" date to 2016-03-25 (SEC Form D first-sale date for Against Gravity Corp)
-    and added round context. Verified via 3+ primary sources: NEW SEC Form D initial [^41] (Against Gravity Corp CIK 0001670383, filed 2016-03-24, $750K initial offering, Delaware corp, Nick Fajt CEO); NEW
-    SEC Form D/A amendment [^42] (filed 2016-06-10, $1M total offering, $815K sold, first sale 2016-03-25); NEW Sequoia Capital company page [^43] (confirms 2016 partnership, Andrew Reed partner); plus existing
-    GeekWire [^14] naming Acequia among investors alongside First Round, Vulcan, Maveron, Anorak, Betaworks, Venture Reality Fund. Wikipedia cross-reference: $5M seed accumulated across 2016 and early 2017;
-    Acequia''s specific tranche not primary-sourced but participation confirmed via GeekWire. 3 new footnotes added.'
+    and added round context. Verified via 3+ primary sources: NEW SEC Form D initial [^41] (Against Gravity Corp CIK 0001670383, filed 2016-03-24, $750K initial offering, Delaware corp, Nick Fajt CEO);
+    NEW SEC Form D/A amendment [^42] (filed 2016-06-10, $1M total offering, $815K sold, first sale 2016-03-25); NEW Sequoia Capital company page [^43] (confirms 2016 partnership, Andrew Reed partner); plus
+    existing GeekWire [^14] naming Acequia among investors alongside First Round, Vulcan, Maveron, Anorak, Betaworks, Venture Reality Fund. Wikipedia cross-reference: $5M seed accumulated across 2016 and
+    early 2017; Acequia''s specific tranche not primary-sourced but participation confirmed via GeekWire. 3 new footnotes added.'
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: Formlabs
@@ -2207,9 +2245,9 @@ vague_facts:
   resolved: '2026-09-25'
   resolution_note: 'Fact-spec sweep 2026-09-25: SCANNER FALSE POSITIVE on column 4 (Source column). CORRECTED wrong year (2011 → 2010-09). Wish (ContextLogic) was founded July 4, 2010 by Piotr Szulczewski
     and Danny Zhang; the first $1.7M seed round closed September 2010 per Wikipedia [^46] naming Jeremy Stoppelman (Yelp CEO) as participant. Fritz Lanman lists Wish as an investment on his Wikipedia bio
-    [^13], and Acequia self-attributes on portfolio page [^12] — however, Acequia/Lanman/Vigil are NOT independently named in primary press for the September 2010 round. Sources checked: Wikipedia Wish article
-    [^46] (specific $1.7M Sept 2010 attribution), Fritz Lanman Wikipedia [^13] (lists Wish among Lanman''s investments), Acequia portfolio page [^12] (self-attribution). Only 2 truly independent primary
-    sources — noted in row with transparent aggregator disclosure (matches EasyPost/Formlabs/Groq pattern). 1 new footnote added ([^46]).'
+    [^13], and Acequia self-attributes on portfolio page [^12] — however, Acequia/Lanman/Vigil are NOT independently named in primary press for the September 2010 round. Sources checked: Wikipedia Wish
+    article [^46] (specific $1.7M Sept 2010 attribution), Fritz Lanman Wikipedia [^13] (lists Wish among Lanman''s investments), Acequia portfolio page [^12] (self-attribution). Only 2 truly independent
+    primary sources — noted in row with transparent aggregator disclosure (matches EasyPost/Formlabs/Groq pattern). 1 new footnote added ([^46]).'
 - profile: firms/acequia-capital
   profile_name: Acequia Capital
   company: OpenCare
@@ -2434,7 +2472,13 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-28'
-  resolution_note: 'Fact-spec sweep 2026-09-28: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs). Row itself had year-only precision on the 2021 date — tightened to 2021-09-16 based on primary press-wire source. Row also expanded to name co-lead (Neotribe Ventures) and full participant syndicate (Foothill Ventures, Ryan Drant of Questa Capital, Carl Waldspurger). Verified via 2 primary sources: (1) PR Newswire [^21] "Aira Technologies Raises $13M in Equity Financing to Supercharge Wireless Using AI," 2021-09-16 — WebFetched, confirms exact 2021-09-16 announcement date, $13M amount, Neotribe Ventures + Acrew Capital co-lead, full participant list, includes CEO Anand Chandrasekher and Neotribe partner Swaroop Kolluri quotes; (2) Aira Technologies press release [^22] 2024-11-20 — company-primary source confirming Aira continues to raise from investor syndicate consistent with 2021 round narrative (Series B lead by AT&T Ventures, Intel Capital, In-Q-Tel with prior investors participating). Third contemporaneous press source (SiliconANGLE, TechCrunch, FinSMEs) attempted via URL guessing but all returned 404/403 — no additional independent primary source could be fetched. Currency preserved (USD). Row updated; no profile-body change beyond Portfolio table.'
+  resolution_note: 'Fact-spec sweep 2026-09-28: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs). Row itself had year-only precision on the 2021 date — tightened to 2021-09-16
+    based on primary press-wire source. Row also expanded to name co-lead (Neotribe Ventures) and full participant syndicate (Foothill Ventures, Ryan Drant of Questa Capital, Carl Waldspurger). Verified
+    via 2 primary sources: (1) PR Newswire [^21] "Aira Technologies Raises $13M in Equity Financing to Supercharge Wireless Using AI," 2021-09-16 — WebFetched, confirms exact 2021-09-16 announcement date,
+    $13M amount, Neotribe Ventures + Acrew Capital co-lead, full participant list, includes CEO Anand Chandrasekher and Neotribe partner Swaroop Kolluri quotes; (2) Aira Technologies press release [^22]
+    2024-11-20 — company-primary source confirming Aira continues to raise from investor syndicate consistent with 2021 round narrative (Series B lead by AT&T Ventures, Intel Capital, In-Q-Tel with prior
+    investors participating). Third contemporaneous press source (SiliconANGLE, TechCrunch, FinSMEs) attempted via URL guessing but all returned 404/403 — no additional independent primary source could
+    be fetched. Currency preserved (USD). Row updated; no profile-body change beyond Portfolio table.'
   processed: '2026-09-28'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
@@ -2457,7 +2501,14 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-28'
-  resolution_note: 'Fact-spec sweep 2026-09-28: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs). Row itself had year-only precision on the 2021 date — tightened to 2021-04-20 based on primary press-wire source. Row also expanded with round amount (USD 17M), lead (Unusual Ventures), and full participant syndicate (Moment Ventures, Alpha Edison, Carta, Coinbase Ventures, Franklin Templeton, New York Life Ventures, Stone Ridge Holdings). Verified via 2 primary sources: (1) PR Newswire [^26] "Alto Closes $17 Million Series A Funding Round," 2021-04-20 — WebFetched, confirms exact 2021-04-20 announcement date, $17M amount, Unusual Ventures lead, Moment/Acrew/Alpha Edison/Carta/Coinbase Ventures/Franklin Templeton/NY Life Ventures/Stone Ridge Holdings participation, and CEO Eric Satz quote "Opening a self-directed IRA to invest in alternative assets like startups, real estate, or cryptocurrency should be easy"; (2) Unusual Ventures Alto post — WebFetched at unusual.vc/post/alto, independently confirms 2021-04-20 date, $17M amount, Unusual Ventures lead, and Moment/Acrew/Alpha Edison co-investors. Third contemporaneous press source (SiliconANGLE, TechCrunch, PYMNTS, FinSMEs) attempted via URL guessing but all returned 404/403/forbidden — no additional independent primary source could be fetched. Currency preserved (USD). Row updated; no profile-body change beyond Portfolio table.'
+  resolution_note: 'Fact-spec sweep 2026-09-28: SCANNER FALSE POSITIVE on column 5 (Source column, contains footnote refs). Row itself had year-only precision on the 2021 date — tightened to 2021-04-20
+    based on primary press-wire source. Row also expanded with round amount (USD 17M), lead (Unusual Ventures), and full participant syndicate (Moment Ventures, Alpha Edison, Carta, Coinbase Ventures, Franklin
+    Templeton, New York Life Ventures, Stone Ridge Holdings). Verified via 2 primary sources: (1) PR Newswire [^26] "Alto Closes $17 Million Series A Funding Round," 2021-04-20 — WebFetched, confirms exact
+    2021-04-20 announcement date, $17M amount, Unusual Ventures lead, Moment/Acrew/Alpha Edison/Carta/Coinbase Ventures/Franklin Templeton/NY Life Ventures/Stone Ridge Holdings participation, and CEO Eric
+    Satz quote "Opening a self-directed IRA to invest in alternative assets like startups, real estate, or cryptocurrency should be easy"; (2) Unusual Ventures Alto post — WebFetched at unusual.vc/post/alto,
+    independently confirms 2021-04-20 date, $17M amount, Unusual Ventures lead, and Moment/Acrew/Alpha Edison co-investors. Third contemporaneous press source (SiliconANGLE, TechCrunch, PYMNTS, FinSMEs)
+    attempted via URL guessing but all returned 404/403/forbidden — no additional independent primary source could be fetched. Currency preserved (USD). Row updated; no profile-body change beyond Portfolio
+    table.'
   processed: '2026-09-28'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
@@ -3166,7 +3217,10 @@ vague_facts:
   type: unknown_value
   status: resolved
   resolved: '2026-09-24'
-  resolution_note: 'Fact-spec sweep 2026-09-24: CORRECTED wrong year 2020 → 2021-02-10 and tightened "Seed" to "$5M; Aleph and Glilot Capital Partners co-led; Gerhard Eschelbeck (former Google CISO) and Ron Zoran (former Cyberark CRO) participated." Verified via 3 independent primary sources: VentureBeat (2021-02-10) [^44] confirming $5M / Aleph and Glilot co-lead / Gerhard Eschelbeck / Yair Kuznitsov CEO quote; Tech.eu (2021-02-10) [^45] confirming same syndicate plus Ron Zoran; Anecdotes company news archive [^46] listing multi-outlet coverage (FinSMEs, Israel Defense, GeekTime, Aleph VC Medium interview, Walla Finance) all Feb 4–11, 2021. 3 new footnotes added ([^44], [^45], [^46]).'
+  resolution_note: 'Fact-spec sweep 2026-09-24: CORRECTED wrong year 2020 → 2021-02-10 and tightened "Seed" to "$5M; Aleph and Glilot Capital Partners co-led; Gerhard Eschelbeck (former Google CISO) and
+    Ron Zoran (former Cyberark CRO) participated." Verified via 3 independent primary sources: VentureBeat (2021-02-10) [^44] confirming $5M / Aleph and Glilot co-lead / Gerhard Eschelbeck / Yair Kuznitsov
+    CEO quote; Tech.eu (2021-02-10) [^45] confirming same syndicate plus Ron Zoran; Anecdotes company news archive [^46] listing multi-outlet coverage (FinSMEs, Israel Defense, GeekTime, Aleph VC Medium
+    interview, Walla Finance) all Feb 4–11, 2021. 3 new footnotes added ([^44], [^45], [^46]).'
 - profile: firms/aleph
   profile_name: Aleph
   company: Approve
@@ -10035,7 +10089,12 @@ vague_facts:
   type: unknown_value
   status: unresolvable
   resolved: 2026-09-24
-  resolution_note: 'Fact-spec sweep 2026-09-24: (1) FIXED broken markdown table syntax — the ''~unknown|'' prefix was breaking rendering on FOUR rows (Impossible Foods, Phononic, Rohinni, WiTricity); all four converted to proper pipe-delimited rows. (2) Sharpening the round/date to a specific Future Shape institutional round is UNRESOLVABLE: Tony Fadell has publicly discussed Impossible Foods as part of his personal/Build Collective climate-tech portfolio on MCJ Podcast Ep. 210 [^11] and in his Sifted-referenced portfolio [^6], but no primary press names a specific Future Shape / Fadell institutional round (Series letter, date, or amount). Impossible Foods'' documented syndicates (KPCB Series A, Vinod Khosla Series B, subsequent Series C–H led by UBS/Temasek/Horizons/Coatue) do not name Future Shape or Tony Fadell in contemporaneous press releases. Attribution appears to be Fadell-self-reported only; row now discloses this explicitly per the "aggregator/self-attribution only" convention flagged elsewhere. Re-queue with fresh WebSearch budget for another sweep; current session had 0/200 WebSearch calls remaining.'
+  resolution_note: 'Fact-spec sweep 2026-09-24: (1) FIXED broken markdown table syntax — the ''~unknown|'' prefix was breaking rendering on FOUR rows (Impossible Foods, Phononic, Rohinni, WiTricity); all
+    four converted to proper pipe-delimited rows. (2) Sharpening the round/date to a specific Future Shape institutional round is UNRESOLVABLE: Tony Fadell has publicly discussed Impossible Foods as part
+    of his personal/Build Collective climate-tech portfolio on MCJ Podcast Ep. 210 [^11] and in his Sifted-referenced portfolio [^6], but no primary press names a specific Future Shape / Fadell institutional
+    round (Series letter, date, or amount). Impossible Foods'' documented syndicates (KPCB Series A, Vinod Khosla Series B, subsequent Series C–H led by UBS/Temasek/Horizons/Coatue) do not name Future Shape
+    or Tony Fadell in contemporaneous press releases. Attribution appears to be Fadell-self-reported only; row now discloses this explicitly per the "aggregator/self-attribution only" convention flagged
+    elsewhere. Re-queue with fresh WebSearch budget for another sweep; current session had 0/200 WebSearch calls remaining.'
 - profile: firms/future-shape
   profile_name: Future Shape
   company: Ledger
@@ -12982,7 +13041,11 @@ vague_facts:
   type: unknown_value
   status: unresolvable
   resolved: 2026-09-29
-  resolution_note: 'Fact-spec sweep 2026-09-29: Incite Ventures'' Charm Industrial round cannot be pinned to a specific date/stage. Verified via 3+ sources that Charm Industrial''s largest confirmed round is Series B $100M on 2023-06-07 (FinSMEs, Carbon Herald, Charm''s own press page referencing Axios) led by General Catalyst with Lowercarbon, Exor Ventures, Kinnevik, Thrive Capital, and Elad Gil — Incite Ventures NOT named. Charm appears only on Incite''s own portfolio page [^8] under "Early" with no round/date. This is the same aggregator-only attribution pattern as AMP Robotics [^17]-[^19]. Row updated to "Early (round unattributed in press) / Pre-2023-06-07" with new footnotes [^23] (FinSMEs) and [^24] (Charm press page + pattern documentation). Cannot be resolved to a specific Incite ticket without a primary source we do not have.'
+  resolution_note: 'Fact-spec sweep 2026-09-29: Incite Ventures'' Charm Industrial round cannot be pinned to a specific date/stage. Verified via 3+ sources that Charm Industrial''s largest confirmed round
+    is Series B $100M on 2023-06-07 (FinSMEs, Carbon Herald, Charm''s own press page referencing Axios) led by General Catalyst with Lowercarbon, Exor Ventures, Kinnevik, Thrive Capital, and Elad Gil —
+    Incite Ventures NOT named. Charm appears only on Incite''s own portfolio page [^8] under "Early" with no round/date. This is the same aggregator-only attribution pattern as AMP Robotics [^17]-[^19].
+    Row updated to "Early (round unattributed in press) / Pre-2023-06-07" with new footnotes [^23] (FinSMEs) and [^24] (Charm press page + pattern documentation). Cannot be resolved to a specific Incite
+    ticket without a primary source we do not have.'
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
   company: Mill
@@ -13020,7 +13083,11 @@ vague_facts:
   type: unknown_value
   status: unresolvable
   resolved: 2026-09-29
-  resolution_note: 'Fact-spec sweep 2026-09-29: Incite Ventures'' Gradient round cannot be pinned to a specific date/stage. Verified via FinSMEs public search index that Gradient raised $18M Series A on 2023-02-03 and an additional $9M Series A extension on 2023-06-27; ImpactAlpha search preview names Prime Impact Fund as an investor. Gradient''s own homepage (gradientcomfort.com) shows no "Backed by/Investors" section — Incite Ventures NOT named in any indexed press or on the company site. Same aggregator-only attribution pattern as AMP Robotics [^17]-[^19] / Charm [^24] / Antora [^26]. Row updated to "Early (round unattributed in press) / Pre-2023-02-03" with new footnotes [^27] (FinSMEs+ImpactAlpha) and [^28] (Gradient homepage + pattern documentation). Cannot be resolved to a specific Incite ticket without a primary source we do not have.'
+  resolution_note: 'Fact-spec sweep 2026-09-29: Incite Ventures'' Gradient round cannot be pinned to a specific date/stage. Verified via FinSMEs public search index that Gradient raised $18M Series A on
+    2023-02-03 and an additional $9M Series A extension on 2023-06-27; ImpactAlpha search preview names Prime Impact Fund as an investor. Gradient''s own homepage (gradientcomfort.com) shows no "Backed
+    by/Investors" section — Incite Ventures NOT named in any indexed press or on the company site. Same aggregator-only attribution pattern as AMP Robotics [^17]-[^19] / Charm [^24] / Antora [^26]. Row
+    updated to "Early (round unattributed in press) / Pre-2023-02-03" with new footnotes [^27] (FinSMEs+ImpactAlpha) and [^28] (Gradient homepage + pattern documentation). Cannot be resolved to a specific
+    Incite ticket without a primary source we do not have.'
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
   company: Antora Energy
@@ -13032,7 +13099,12 @@ vague_facts:
   type: unknown_value
   status: unresolvable
   resolved: 2026-09-29
-  resolution_note: 'Fact-spec sweep 2026-09-29: Incite Ventures'' Antora Energy round cannot be pinned to a specific date/stage. Verified via 3+ independent sources that Antora''s largest confirmed early round is $50M announced 2022-02-17 (Carbon Herald; corroborated by FinSMEs Series B 2024-02 $150M and Series C 2026-07-31 $550M) co-led by Lowercarbon Capital and Breakthrough Energy with Shell Ventures and seven unnamed investors. Antora''s own homepage (antora.com) "Backed by world-class partners" section lists Eclipse, G2 Venture Partners, Decarbonization Partners, Lowercarbon, BEV, Trust Ventures, Ribbit, Emerson, Salesforce Ventures, Activate Capital, Grok, and Overture — Incite Ventures NOT listed. Same aggregator-only attribution pattern as AMP Robotics [^17]-[^19] / Charm [^24]. Row updated to "Early (round unattributed in press) / Pre-2022-02-17" with new footnotes [^25] (Carbon Herald) and [^26] (Antora homepage). Cannot be resolved to a specific Incite ticket without a primary source we do not have.'
+  resolution_note: 'Fact-spec sweep 2026-09-29: Incite Ventures'' Antora Energy round cannot be pinned to a specific date/stage. Verified via 3+ independent sources that Antora''s largest confirmed early
+    round is $50M announced 2022-02-17 (Carbon Herald; corroborated by FinSMEs Series B 2024-02 $150M and Series C 2026-07-31 $550M) co-led by Lowercarbon Capital and Breakthrough Energy with Shell Ventures
+    and seven unnamed investors. Antora''s own homepage (antora.com) "Backed by world-class partners" section lists Eclipse, G2 Venture Partners, Decarbonization Partners, Lowercarbon, BEV, Trust Ventures,
+    Ribbit, Emerson, Salesforce Ventures, Activate Capital, Grok, and Overture — Incite Ventures NOT listed. Same aggregator-only attribution pattern as AMP Robotics [^17]-[^19] / Charm [^24]. Row updated
+    to "Early (round unattributed in press) / Pre-2022-02-17" with new footnotes [^25] (Carbon Herald) and [^26] (Antora homepage). Cannot be resolved to a specific Incite ticket without a primary source
+    we do not have.'
 - profile: firms/incite-ventures
   profile_name: Incite Ventures
   company: Windfall Bio
@@ -14462,7 +14534,10 @@ vague_facts:
   line: '| HelloFresh | Series D | 2014 | Consumer/Food | Active (Public) | [^18] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-30: HelloFresh Series D pinned to 2014-06-18 via 2 primary sources — TechCrunch 2014-06-18 (existing [^18]) and Insight Partners'' own ideas blog ''HelloFresh
+    Raises $50M For Meal Ingredients In A Box'' (June 2014). $50M, led by Insight Venture Partners with Phenomen VC continuing. Updated Insight firm profile row with specific date, syndicate, and new citation
+    [^hf-ip-1]. Note: Insight blog gives month-only; TechCrunch pins the exact day. 3rd independent primary (Reuters/BusinessWire) could not be verified due to WebFetch host restrictions.'
 - profile: firms/insight-partners
   profile_name: Insight Partners
   company: Alteryx
@@ -14482,7 +14557,12 @@ vague_facts:
   line: '| JFrog | Series D | 2018 | DevOps | Active (Public) | [^20] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-30: JFrog Series D pinned to 2018-10-04 via 2 primary sources — PR Newswire company wire release 2018-10-04 (existing [^20]) and Insight Partners'' own ideas
+    blog ''JFrog Secures $165 Million Investment'' (October 2018). $165M, led by Insight Venture Partners; new investors Spark Capital and Geodesic Capital; existing investors Battery Ventures, Sapphire
+    Ventures, Scale Venture Partners, Dell Technologies Capital, Vintage Investment Partners, Gemini Israel Ventures, Qumra Capital, VMware; Jeff Horing joined the board. Updated Insight firm profile row
+    with specific date, syndicate, and new citation [^jfrog-ip-1]. Note: only 2 primary sources confirmed exact 2018-10-04 day (wire release); Insight''s own blog says ''October 2018''. 3rd tier-1 press
+    article (TechCrunch coverage) could not be verified by URL within WebFetch budget.'
 - profile: firms/insight-partners
   profile_name: Insight Partners
   company: nCino
@@ -22875,8 +22955,8 @@ vague_facts:
   status: resolved
   resolved: '2026-09-30'
   resolution_note: 'Fact-spec sweep 2026-09-30: SCANNER FALSE POSITIVE — column 4 is the citation Source column in the 5-column Pitango Portfolio table, which correctly contains only footnote references
-    [^15] [^49]. The underlying year_only_date issue at column 2 (2015) was resolved in the same sweep — see the paired vague-facts entry: tightened to 2015-03-20 with USD 27M / Pitango-led / 83North
-    + Expansion Venture Capital + Hearst participants, verified via Tracxn [^49] and NEW 83North first-party portfolio [^65].'
+    [^15] [^49]. The underlying year_only_date issue at column 2 (2015) was resolved in the same sweep — see the paired vague-facts entry: tightened to 2015-03-20 with USD 27M / Pitango-led / 83North +
+    Expansion Venture Capital + Hearst participants, verified via Tracxn [^49] and NEW 83North first-party portfolio [^65].'
 - profile: firms/pitango-venture-capital
   profile_name: Pitango Venture Capital
   company: Tomorrow.io
@@ -22900,8 +22980,8 @@ vague_facts:
   resolved: '2026-09-30'
   resolution_note: 'Fact-spec sweep 2026-09-30: SCANNER FALSE POSITIVE — column 4 is the citation Source column in the 5-column Pitango Portfolio table, which correctly contains only footnote reference
     [^18]. The underlying year_only_date issue at column 2 (2017) was resolved in the same sweep — see the paired vague-facts entry: profile had confused AI21 Labs'' founding year (2017) with its first
-    funding round; corrected to Seed USD 9.5M closed 2019-01 per Wikipedia [^66], with disclosure that Pitango''s seed participation is claimed by Pitango [^18] but not confirmed by any third-party
-    primary source.'
+    funding round; corrected to Seed USD 9.5M closed 2019-01 per Wikipedia [^66], with disclosure that Pitango''s seed participation is claimed by Pitango [^18] but not confirmed by any third-party primary
+    source.'
 - profile: firms/pitango-venture-capital
   profile_name: Pitango Venture Capital
   company: AppsFlyer
@@ -24481,7 +24561,10 @@ vague_facts:
   line: '| Credit Karma | Series A (Led) | 2009 | Consumer Finance | Acquired (Intuit) | [^14] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-30: Credit Karma Series A pinned to 2009-11-04 via 3 independent primary sources — TechCrunch 2009-11-04 (contemporaneous tier-1 press), SEC EDGAR Form D 0001019687-09-003941
+    filed 2009-11-04 (regulatory primary), and Crunchbase News Intuit-acquisition retrospective. $2.5M, QED-led, SV Angel + Felicis + Founders Fund participated. Updated QED firm profile row with specific
+    date, syndicate, and 3 new citations [^ck-qed-1][^ck-qed-2][^ck-qed-3].'
 - profile: firms/qed-investors
   profile_name: QED Investors
   company: Klarna
@@ -174000,7 +174083,11 @@ vague_facts:
   type: year_only_date
   status: unresolvable
   resolved: 2026-09-26
-  note: 'Fact-spec sweep 2026-09-26: no publicly announced EasyMateAI funding round for 2024 is discoverable. Attempts made: (1) easymate.ai homepage (no press/funding section — only product marketing and testimonials); (2) cakeventures.com portfolio page (403/no output); (3) crunchbase.com/organization/easymate-ai (403 anti-bot); (4) alternative cake.vc and www.cakeventures.com/portfolio URLs (404/no output). EasyMateAI is a small AI/developer-tools pre-seed/seed investment; the only public anchor is the Cake Ventures portfolio page listing [^4], which is a firm-claim primary source and does not disclose the check date. Cake''s direct check date for EasyMateAI is not disclosed by any independently verifiable primary source. Row stands at 2024 year-only. Consistent with prior Cake portfolio-page rows where check dates are not disclosed (see Lotus Labs, Most Days, Tendercare, TenYour, STAND+, Shop McMullen, Death Clock).'
+  note: 'Fact-spec sweep 2026-09-26: no publicly announced EasyMateAI funding round for 2024 is discoverable. Attempts made: (1) easymate.ai homepage (no press/funding section — only product marketing and
+    testimonials); (2) cakeventures.com portfolio page (403/no output); (3) crunchbase.com/organization/easymate-ai (403 anti-bot); (4) alternative cake.vc and www.cakeventures.com/portfolio URLs (404/no
+    output). EasyMateAI is a small AI/developer-tools pre-seed/seed investment; the only public anchor is the Cake Ventures portfolio page listing [^4], which is a firm-claim primary source and does not
+    disclose the check date. Cake''s direct check date for EasyMateAI is not disclosed by any independently verifiable primary source. Row stands at 2024 year-only. Consistent with prior Cake portfolio-page
+    rows where check dates are not disclosed (see Lotus Labs, Most Days, Tendercare, TenYour, STAND+, Shop McMullen, Death Clock).'
 - profile: firms/capitalg
   profile_name: CapitalG
   company: Farther
@@ -174409,7 +174496,13 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: '2026-09-29'
-  resolution_note: 'Fact-spec sweep 2026-09-29: CORRECTED — the ~2024 Seed row was based on a secondary aggregator ([^11] Superscout) with no primary confirmation of Contrary participating in Base Power at Seed stage. Contrary Research (Contrary''s own primary at research.contrary.com/company/base-power [^base-c1]) confirms Contrary participation only in the Series C ($1B, October 2025, led by Addition with a16z/Lightspeed/Thrive Capital participating). a16z American Dynamism blog [^base-c2] independently confirms the Series B ($200M, 2025-04-09, a16z-led). Row rewritten from "Base | Seed | ~2024 | Energy | Active [^11]" to "Base Power | Series C ($1B; Addition led; a16z, Lightspeed, Thrive Capital, Contrary participated; founders Zach Dell (CEO) and Justin Lopas (COO), founded August 2023; also Series B $200M 2025-04-09 co-led by Addition, a16z, Lightspeed, and Valor Equity Partners) | 2025-10 (Series C); 2025-04-09 (Series B) | Energy / Grid batteries / Virtual power plant | Active ($841M post-money post-Series B; $275M cumulative by Series B) [^11][^base-c1][^base-c2]". Currency preserved (USD). Company renamed "Base" -> "Base Power" for disambiguation from Base L2 blockchain. Two truly primary sources verified. Third source (TechCrunch, Reuters, Base Power press page, FinSMEs) attempted but all 403/404 — web search budget exhausted for the session.'
+  resolution_note: 'Fact-spec sweep 2026-09-29: CORRECTED — the ~2024 Seed row was based on a secondary aggregator ([^11] Superscout) with no primary confirmation of Contrary participating in Base Power
+    at Seed stage. Contrary Research (Contrary''s own primary at research.contrary.com/company/base-power [^base-c1]) confirms Contrary participation only in the Series C ($1B, October 2025, led by Addition
+    with a16z/Lightspeed/Thrive Capital participating). a16z American Dynamism blog [^base-c2] independently confirms the Series B ($200M, 2025-04-09, a16z-led). Row rewritten from "Base | Seed | ~2024
+    | Energy | Active [^11]" to "Base Power | Series C ($1B; Addition led; a16z, Lightspeed, Thrive Capital, Contrary participated; founders Zach Dell (CEO) and Justin Lopas (COO), founded August 2023;
+    also Series B $200M 2025-04-09 co-led by Addition, a16z, Lightspeed, and Valor Equity Partners) | 2025-10 (Series C); 2025-04-09 (Series B) | Energy / Grid batteries / Virtual power plant | Active ($841M
+    post-money post-Series B; $275M cumulative by Series B) [^11][^base-c1][^base-c2]". Currency preserved (USD). Company renamed "Base" -> "Base Power" for disambiguation from Base L2 blockchain. Two truly
+    primary sources verified. Third source (TechCrunch, Reuters, Base Power press page, FinSMEs) attempted but all 403/404 — web search budget exhausted for the session.'
   processed: '2026-09-29'
 - profile: firms/contrary
   profile_name: Contrary
@@ -207597,7 +207690,9 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: '2026-09-23'
-  resolution_note: 'Fact-spec sweep 2026-09-23: same fix as the sibling high-priority unknown_value entry — row tightened to distinguish 2013 initial 7wire participation (undisclosed, per [^2]) from formalized 2014-01-15 equity investment announcement (undisclosed, per FinSMEs [^90]) and 2014-09-24 Series B ($9M co-led by Martin Ventures and Merck GHI with Grotech, Harbert, 7Wire, Blue Heron participating, per FinSMEs [^91]).'
+  resolution_note: 'Fact-spec sweep 2026-09-23: same fix as the sibling high-priority unknown_value entry — row tightened to distinguish 2013 initial 7wire participation (undisclosed, per [^2]) from formalized
+    2014-01-15 equity investment announcement (undisclosed, per FinSMEs [^90]) and 2014-09-24 Series B ($9M co-led by Martin Ventures and Merck GHI with Grotech, Harbert, 7Wire, Blue Heron participating,
+    per FinSMEs [^91]).'
 - profile: firms/7wire-ventures
   profile_name: 7wire Ventures
   company: RecoveryOne
@@ -207609,7 +207704,9 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: '2026-09-23'
-  resolution_note: 'Fact-spec sweep 2026-09-23: same fix as the sibling high-priority unknown_value entry — row tightened from vague "~2020" to specific 2019-12-17 Series B ($12M Cigna Ventures-led with 7wire Ventures as returning investor, per FinSMEs [^93]) plus follow-on 2021-09-14 Series C ($33M Cigna Ventures-led, per Cigna Ventures portfolio page [^94]); acquired by TailorCare on 2024-12-10 per [^47].'
+  resolution_note: 'Fact-spec sweep 2026-09-23: same fix as the sibling high-priority unknown_value entry — row tightened from vague "~2020" to specific 2019-12-17 Series B ($12M Cigna Ventures-led with
+    7wire Ventures as returning investor, per FinSMEs [^93]) plus follow-on 2021-09-14 Series C ($33M Cigna Ventures-led, per Cigna Ventures portfolio page [^94]); acquired by TailorCare on 2024-12-10 per
+    [^47].'
 - profile: firms/8vc
   profile_name: 8VC
   company: Palantir Technologies
@@ -232949,10 +233046,10 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: '2026-09-30'
-  resolution_note: 'Fact-spec sweep 2026-09-30: tightened Via Series B row from year-only 2015 to 2015-03-20 with full round details. Verified via 3 sources: (1) Tracxn [^49] (existing citation) —
-    "Pitango, located in Herzliya (Israel), made their first investment in Via on Mar 20, 2015 in its Series B round" with USD 27M amount, Pitango as lead, and 83NORTH + Expansion Venture Capital +
-    Hearst as participants; (2) 83North first-party portfolio page [^65] (NEW) — independently confirms Via Series B in 2015 with Pitango participation; (3) Pitango own portfolio [^15] (existing) — confirms
-    Via as portfolio company. Row updated to include USD 27M amount, Pitango as lead, and all three participants (83North, Expansion Venture Capital, Hearst). 1 new footnote added ([^65]).'
+  resolution_note: 'Fact-spec sweep 2026-09-30: tightened Via Series B row from year-only 2015 to 2015-03-20 with full round details. Verified via 3 sources: (1) Tracxn [^49] (existing citation) — "Pitango,
+    located in Herzliya (Israel), made their first investment in Via on Mar 20, 2015 in its Series B round" with USD 27M amount, Pitango as lead, and 83NORTH + Expansion Venture Capital + Hearst as participants;
+    (2) 83North first-party portfolio page [^65] (NEW) — independently confirms Via Series B in 2015 with Pitango participation; (3) Pitango own portfolio [^15] (existing) — confirms Via as portfolio company.
+    Row updated to include USD 27M amount, Pitango as lead, and all three participants (83North, Expansion Venture Capital, Hearst). 1 new footnote added ([^65]).'
 - profile: firms/pitango-venture-capital
   profile_name: Pitango Venture Capital
   company: Tomorrow.io
@@ -232974,11 +233071,11 @@ vague_facts:
   type: year_only_date
   status: resolved
   resolved: '2026-09-30'
-  resolution_note: 'Fact-spec sweep 2026-09-30: CORRECTED year from 2017 to 2019-01 — the profile had confused AI21 Labs'' founding year (November 2017) with its first funding round. Wikipedia [^66]
-    documents AI21 Labs was founded November 2017 by Yoav Shoham, Ori Goshen, and Amnon Shashua in Tel Aviv; the first seed round of USD 9.5M closed January 2019 (Wikipedia does not name specific seed
-    investors); Pitango First later led the USD 25M Series A in November 2021. Pitango own founder-story page [^18] states Pitango has "supported AI21 Labs since its founding in 2017" but does not
-    disclose which round Pitango''s first check was. Row updated with USD 9.5M amount + January 2019 close date + explicit disclosure that Pitango''s seed participation is claimed by Pitango but NOT
-    confirmed by any third-party primary source (aggregator-only attribution pattern). Row still retained for Pitango''s later-confirmed lead of the November 2021 Series A. 1 new footnote added ([^66]).'
+  resolution_note: 'Fact-spec sweep 2026-09-30: CORRECTED year from 2017 to 2019-01 — the profile had confused AI21 Labs'' founding year (November 2017) with its first funding round. Wikipedia [^66] documents
+    AI21 Labs was founded November 2017 by Yoav Shoham, Ori Goshen, and Amnon Shashua in Tel Aviv; the first seed round of USD 9.5M closed January 2019 (Wikipedia does not name specific seed investors);
+    Pitango First later led the USD 25M Series A in November 2021. Pitango own founder-story page [^18] states Pitango has "supported AI21 Labs since its founding in 2017" but does not disclose which round
+    Pitango''s first check was. Row updated with USD 9.5M amount + January 2019 close date + explicit disclosure that Pitango''s seed participation is claimed by Pitango but NOT confirmed by any third-party
+    primary source (aggregator-only attribution pattern). Row still retained for Pitango''s later-confirmed lead of the November 2021 Series A. 1 new footnote added ([^66]).'
 - profile: firms/pitango-venture-capital
   profile_name: Pitango Venture Capital
   company: AppsFlyer
@@ -234248,7 +234345,10 @@ vague_facts:
   line: '| Credit Karma | Series A (Led) | 2009 | Consumer Finance | Acquired (Intuit) | [^14] |'
   priority: low
   type: year_only_date
-  status: pending
+  status: resolved
+  resolution_note: 'Fact-spec sweep 2026-09-30: Credit Karma Series A pinned to 2009-11-04 via 3 independent primary sources — TechCrunch 2009-11-04 (contemporaneous tier-1 press), SEC EDGAR Form D 0001019687-09-003941
+    filed 2009-11-04 (regulatory primary), and Crunchbase News Intuit-acquisition retrospective. $2.5M, QED-led, SV Angel + Felicis + Founders Fund participated. Updated QED firm profile row with specific
+    date, syndicate, and 3 new citations [^ck-qed-1][^ck-qed-2][^ck-qed-3].'
 - profile: firms/qed-investors
   profile_name: QED Investors
   company: Klarna
