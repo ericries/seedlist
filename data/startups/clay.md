@@ -8,7 +8,7 @@ founded: 2017
 status_company: active
 sector: [saas, ai, sales-tech, gtm, developer-tools]
 stage_latest: "Series D"
-total_raised: "$215M+"
+total_raised: "$392M"
 investors: []
 firms:
   - slug: sequoia-capital
@@ -38,13 +38,17 @@ firms:
 founders:
   - name: "Kareem Amin"
     role: "CEO & Co-Founder"
+  - name: "Varun Anand"
+    role: "Co-Founder"
+  - name: "Nicolae Rusan"
+    role: "Co-Founder"
 status: published
-last_researched: 2026-09-10
+last_researched: 2026-10-01
 ---
 
 ## About
 
-Clay is a New York-based AI-powered go-to-market platform used by sales and marketing teams to build customer prospecting workflows on top of hundreds of data sources and LLM enrichment [^1][^2]. The company serves more than 17,000 customers — including Anthropic, Google, OpenAI, Stripe, ElevenLabs, Visa, Siemens, and UPS — and reports that 80% of the Forbes AI50 use its platform [^1]. Clay was founded in 2017 by CEO Kareem Amin [^1].
+Clay is a New York-based AI-powered go-to-market platform used by sales and marketing teams to build customer prospecting workflows on top of hundreds of data sources and LLM enrichment [^1][^2]. The company serves more than 17,000 customers — including Anthropic, Google, OpenAI, Stripe, ElevenLabs, Visa, Siemens, and UPS — and reports that 80% of the Forbes AI50 use its platform [^1]. Clay was founded in 2017 by Kareem Amin (CEO), Varun Anand, and Nicolae Rusan [^2]. Total disclosed funding is approximately $392 million [^2].
 
 ## Funding History
 
@@ -60,7 +64,7 @@ The Series D valued Clay at $7.1 billion following 4x revenue growth in 2025 [^1
 
 ## What Founders Say
 
-> "AI is unleashing the biggest wave of company creation in history. Clay's goal is to be the engine those companies use to grow to their full potential."
+> "Clay's goal is to be the engine those companies use to grow to their full potential."
 >
 > — Kareem Amin, CEO of Clay, Clay Series D announcement, September 9, 2026 [^1]
 
