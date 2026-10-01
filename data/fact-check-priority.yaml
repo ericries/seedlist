@@ -6770,6 +6770,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-13: $155M growth round (2026-09-09). Single source (AlleyWatch). Investors undisclosed.'
   added: 2026-09-13
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: verified rightway-healthcare.md startup profile is complete with 5 primary sources covering the $155M Series E on 2026-09-09 (Francisco Partners-led; Thrive Capital and Khosla Ventures as existing-investor participants). Note: this is a sibling profile to rightway.md (which uses slug rightway) — both document the same round; a future dedup pass may consolidate them. Funding History row properly formatted. No further action required on this entry.'
+  processed: '2026-10-01'
 - slug: algox2
   type: startup
   reason: 'Round monitoring 2026-09-13: $4.5M seed (2026-09-08). Single source (AlleyWatch). Investors undisclosed.'
@@ -6809,10 +6813,18 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-14: Participated in Highstock $30M Series A (2026-09-10).'
   added: 2026-09-14
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: verified greylock.md already contains the Highstock Series A row from an earlier sweep. Series A $30M on 2026-09-10 led by Andreessen Horowitz with Greylock, Abstract Ventures, Daybreak Ventures, Jeff Jordan (advisor), Max Mullen, Lenny Rachitsky, JJ Zhuang participating. Row cites 3 primary sources. No new work required.'
+  processed: '2026-10-01'
 - slug: abstract-ventures
   type: firm
   reason: 'Round monitoring 2026-09-14: Participated in Highstock $30M Series A (2026-09-10).'
   added: 2026-09-14
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: added Highstock Series A row to abstract-ventures.md portfolio table — 2026-09-10, $30M led by Andreessen Horowitz; Abstract Ventures participated alongside Greylock Partners, Daybreak Ventures, Jeff Jordan (advisor), Max Mullen, Lenny Rachitsky, and JJ Zhuang. Added 3 named-footnote citations: [^av-hs1] a16z announcement blog by Olivia Moore and Justine Moore (lead-investor primary source), [^av-hs2] Highstock company website, [^av-hs3] AlleyWatch daily 9-14 — same primary triad already cited on the highstock.md startup profile.'
+  processed: '2026-10-01'
 - slug: cornelis-networks
   type: startup
   reason: 'Round monitoring 2026-09-14: New lean profile for $205M Growth round (2026-09-14) led by IAG Capital Partners. Sources: (1) TechCrunch; (2) Cornelis Networks press release; (3) Cornelis Networks stories page.'

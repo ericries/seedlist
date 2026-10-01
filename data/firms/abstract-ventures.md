@@ -76,6 +76,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Highstock | Series A (participated; $30M led by Andreessen Horowitz; Greylock Partners, Daybreak Ventures also participated; Jeff Jordan advisor; angels Max Mullen, Lenny Rachitsky, JJ Zhuang) | 2026-09-10 | Consumer / Fintech / Investing | Private [^av-hs1][^av-hs2][^av-hs3] |
 | Wise | Seed | ~2016 | Fintech | IPO (2021) [^5] |
 | Rippling | Seed | ~2017 | Enterprise | Active (Unicorn) [^3] |
 | Solana | Seed | ~2018 | Crypto | Active (Unicorn) [^3] |
@@ -237,4 +238,10 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^era-a1]: Yahoo Finance / TechCrunch syndication, "Era raises $11M to build a software platform for AI gadgets," April 23, 2026. Accessed August 2026. https://finance.yahoo.com/sectors/technology/articles/era-raises-11m-build-software-160000149.html — Confirms Abstract Ventures and BoxGroup co-led Era's USD 9M seed with Collaborative Fund and Mozilla Ventures participating; prior USD 2M pre-seed from Topology Ventures and Betaworks brings total to USD 11M.
 
 [^era-a2]: Tech Funding News, "Era raises $11M from Abstract Ventures and BoxGroup to bring AI to smart gadgets," April 2026. Accessed August 2026. https://techfundingnews.com/era-11m-funding-ai-hardware-intelligence-infrastructure/ — Third independent trade press confirmation of the round composition.
+
+[^av-hs1]: Olivia Moore and Justine Moore, "Investing in Highstock," Andreessen Horowitz, September 10, 2026. Accessed October 1, 2026. https://a16z.com/announcement/investing-in-highstock/ — Lead-investor primary source announcing Andreessen Horowitz's $30M Series A lead with Greylock Partners, Abstract Ventures, Daybreak Ventures, Jeff Jordan (advisor), Max Mullen, Lenny Rachitsky, and JJ Zhuang participating.
+
+[^av-hs2]: Highstock company website, accessed October 1, 2026. https://highstock.com — Primary company source.
+
+[^av-hs3]: AlleyWatch Startup Daily Funding Report, September 14, 2026. Accessed October 1, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-14-2026/ — Contemporaneous tech-press source confirming the Series A composition and Abstract Ventures' participation.
 
