@@ -236,15 +236,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future
-    Health
-  url: https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/
-  source: crunchbase
-  date_found: '2026-09-29'
-  parsed_company: Tiny Health
-  parsed_amount: $33M
-  parsed_round: null
-  status: pending
 - title: London’s Reactive Technologies secures €19 million EIB financing to strengthen
     Europe’s power grids
   url: https://www.eu-startups.com/2026/09/londons-reactive-technologies-secures-e19-million-eib-financing-to-strengthen-europes-power-grids/

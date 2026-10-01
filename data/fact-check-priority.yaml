@@ -8045,3 +8045,11 @@ priority:
   type: firm
   reason: appeared in Charter Space Seed (2026-09-30)
   added: 2026-09-30
+- slug: energy-impact-partners
+  type: firm
+  reason: appeared in Reverion Series B $175M (2026-09-28)
+  added: 2026-10-01
+- slug: reverion
+  type: startup
+  reason: new profile from round monitoring (2026-09-28)
+  added: 2026-10-01
