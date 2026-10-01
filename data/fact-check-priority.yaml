@@ -6146,6 +6146,10 @@ priority:
   type: firm
   reason: Participated in CivilGrid $26M Series A (2026-08-27)
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: verified energy-impact-partners.md already contains the CivilGrid Series A portfolio row from an earlier sweep. CivilGrid Series A $26M on 2026-08-27 led by Spark Capital with EIP participating; row cites 3 primary sources ([^eip-civg-1] BusinessWire, [^eip-civg-2] Dealroom News, [^eip-civg-3] FinSMEs). No further action required.'
+  processed: '2026-10-01'
 - slug: a-star-capital
   type: firm
   reason: Participated in CivilGrid $26M Series A (2026-08-27)
@@ -6546,10 +6550,18 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-10: Added Series E — $2B at $48B valuation (2026-09-08) led by Andreessen Horowitz and Accel with Founders Fund, General Catalyst, Avenir. Sources: (1) Cognition company blog; (2) TechStartups roundup.'
   added: 2026-09-10
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: verified cognition.md startup profile is complete with 10 primary sources covering the Series E $2B at $48B valuation on 2026-09-08. Funding History rows properly formatted. No further action on this entry.'
+  processed: '2026-10-01'
 - slug: harvey
   type: startup
   reason: 'Round monitoring 2026-09-10: Added Series G — $550M at $15.5B valuation (2026-09-09) co-led by Diffusion and Lightspeed Venture Partners. Existing: Sequoia, Kleiner Perkins, a16z, Coatue, Conviction, Elad Gil, Evantic, GIC, Goldman Sachs Alternatives, Verified Capital, WndrCo. New: Sapphire Ventures, Whale Rock. Source: Harvey company blog.'
   added: 2026-09-10
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: verified harvey.md startup profile is complete with 14 primary sources covering the Series G $550M at $15.5B valuation on 2026-09-10 (and prior rounds). Funding History rows properly formatted. No further action on this entry.'
+  processed: '2026-10-01'
 - slug: inspiren
   type: startup
   reason: 'Round monitoring 2026-09-10: New profile — $70M Series C at $550M valuation (2026-09-10) led by NewView Capital with Insight Partners, Primary Venture Partners, Scale Venture Partners, Vintage Investment Partners, Lightbank, Avenir Growth Capital, Story Ventures, Camber Creek. Sources: (1) PR Newswire; (2) AlleyWatch; (3) Axios Pro Rata; (4) Forbes; (5) Inspiren news.'
