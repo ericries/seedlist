@@ -8029,6 +8029,9 @@ priority:
   type: firm
   reason: appeared in Metaview Series C (2026-09-30)
   added: 2026-09-30
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: Verified Insight Partners led Metaview $60M Series C on 2026-09-30 (GV, Intrepid Growth Partners, Seedcamp, Vertex Ventures US, Plural, Garuda Ventures participated; brings Metaview total to $110M; CEO Siadhal Magos; "fillmore" agentic recruiting coworker; team growing 80 to 250 by end-2027) via 3 primary sources — Metaview blog [^ip-meta1], Metaview homepage banner [^ip-meta2], Intrepid Growth Partners portfolio page [^ip-meta3]. Vertex Ventures US portfolio page provides independent 4th confirmation. Added new Metaview Series C row to insight-partners.md Portfolio table with 3 citations; updated last_verified_investment to Metaview / 2026-09-30 / Series C. Metaview startup profile already published with Insight as lead.'
 - slug: gv
   type: firm
   reason: appeared in Metaview Series C (2026-09-30)
@@ -8061,7 +8064,13 @@ priority:
   type: firm
   reason: appeared in Reverion Series B $175M (2026-09-28)
   added: 2026-10-01
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: Verified Energy Impact Partners participated as existing investor in Reverion $175M / €154M Series B on 2026-09-28 (Kembara (Mundi Ventures scale-up fund) led; new investors Allianz / KfW Capital / Aurum Impact / Carbon Equity; existing investors UVC Partners (€24.5M commitment), Extantia, EIC Fund, alfa8, Possible Ventures also returned; proceeds for 250 MW German megafactory, up to 800 jobs; up to ~74% electrical efficiency reversible SOFC plants; founders Stephan Herrmann CEO and Felix Fischer COO) via 3 primary sources — Reverion company press release [^eip-rev-1], UVC Partners blog [^eip-rev-2], EIP portfolio page listing Reverion [^eip-rev-3]. Added new Reverion Series B row to energy-impact-partners.md Portfolio table with 3 citations. Currency preserved: both USD ($175M headline) and EUR (€154M) recorded.'
 - slug: reverion
   type: startup
   reason: new profile from round monitoring (2026-09-28)
   added: 2026-10-01
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: Verified Reverion $175M / €154M Series B on 2026-09-28 (Kembara/Mundi Ventures scale-up fund led; new investors Allianz, KfW Capital, Aurum Impact, Carbon Equity; existing investors UVC Partners €24.5M, Extantia, Energy Impact Partners, EIC Fund, alfa8, Possible Ventures) via 3 primary sources: Reverion company page [^1], Reverion press release [^2], UVC Partners blog [^3]. EIP portfolio page confirms EIP position [^4]. Replaced blocked EU-Startups citation with higher-value UVC Partners primary source. Updated Funding History row to show "$175M (€154M)" preserving both currencies; added [^4] citation.'

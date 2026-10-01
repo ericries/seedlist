@@ -3,10 +3,10 @@ founded: 1995
 tldr: "New York-based global software investor founded 1995 by Jeff Horing and Jerry Murdock. Manages $90B+ AUM; Fund XIII plus Opportunities Fund II closed on $12.5B in January 2025. Stage-agnostic within software with 875+ investments, 55+ IPOs and a 130-person Insight Onsite operational arm. Notable positions include Wiz, SentinelOne, Shopify, Qualtrics, JFrog, Recorded Future and Checkout.com."
 fund_size: $90B+ AUM; Fund XIII at $12.5B
 last_verified_investment:
-  company: Snorkel AI
-  date: 2026-09-22
-  round: Series E
-last_researched: 2026-09-30
+  company: Metaview
+  date: 2026-09-30
+  round: Series C
+last_researched: 2026-10-01
 location: New York, NY
 name: Insight Partners
 sector_focus:
@@ -155,6 +155,7 @@ At its 30th anniversary, Insight stated: "Fund XIII is a testament to the trust 
 | Luzern Risk | Series B ($45M, led; Trust Ventures and returning investor Caffeinated Capital participated) | 2026-09-17 | Insurtech / AI / Captive Insurance | Active | [^lz1][^lz2][^lz3] |
 | Confido | Series B ($55M, led; Footwork, Trenches Capital, Watchfire, Barrel Ventures, Y Combinator participated) | 2026-09-22 | Fintech / AI / CPG Financial Automation | Active | [^cfd1][^cfd2][^cfd3] |
 | Snorkel AI | Series E ($350M at $3.5B valuation, co-led with S32; Third Point, March, Blumberg, Allegis, Standard VC, Frontline new, Addition, Lightspeed, Greylock, GV, P7, Wells Fargo, Walden Catalyst, Factory existing) | 2026-09-22 | AI / Data Infrastructure / Foundation Model Training Data | Active | [^snk1][^snk2][^snk3] |
+| Metaview | Series C ($60M, led; GV, Intrepid Growth Partners, Seedcamp, Vertex Ventures US, Plural, Garuda Ventures participated; CEO & Co-Founder Siadhal Magos; agentic recruiting platform with "fillmore" AI coworker; brings total raised to $110M) | 2026-09-30 | HR Tech / AI / Agentic Recruiting / Enterprise SaaS | Active | [^ip-meta1][^ip-meta2][^ip-meta3] |
 
 *This table represents approximately 3% of Insight's 875+ total investments [^3]. Given the firm's massive portfolio, this is a small sample. The firm has made an average of 60 new investments annually over the last decade [^9].*
 
@@ -323,3 +324,7 @@ Fred Voccola, CEO of Kaseya, on acquisition support: "Insight provides expertise
 [^jfrog-ip-1]: Insight Partners, "JFrog Secures $165 Million Investment to Lead Universal DevOps in the Enterprise," October 2018. Accessed September 30, 2026. https://www.insightpartners.com/ideas/jfrog-secures-165-million-investment/ — Primary firm source: Insight Partners' own announcement confirming it led JFrog's $165M Series D in October 2018 with Jeff Horing joining the board; new investors Spark Capital and Geodesic Capital, existing investors Battery Ventures, Sapphire Ventures, Scale Venture Partners, Dell Technologies Capital, Vintage Investment Partners, Gemini Israel Ventures, Qumra Capital, and VMware. Primary wire-service release (PR Newswire, 2018-10-04 [^20]) pins the specific day.
 
 [^hf-ip-1]: Insight Partners, "HelloFresh Raises $50M For Meal Ingredients In A Box," June 2014. Accessed September 30, 2026. https://www.insightpartners.com/ideas/hellofresh-raises-50m-for-meal-ingredients-in-a-box/ — Primary firm source: Insight Partners' own announcement of its $50M Series D investment in HelloFresh with Phenomen VC continuing. TechCrunch's 2014-06-18 article [^18] pins the specific day.
+
+[^ip-meta1]: Siadhal Magos, "Metaview raised an additional $60M to lead the shift to agentic recruiting," Metaview blog, September 30, 2026. Accessed October 1, 2026. https://metaview.ai/resources/blog/metaview-raised-an-additional-60m-to-lead-the-shift-to-agentic-recruiting — Primary company source confirming $60M Series C led by Insight Partners with GV, Intrepid Growth Partners, Seedcamp, Vertex Ventures US, Plural, and Garuda Ventures participating; CEO Siadhal Magos authored and signed the announcement; total funding to date $110M; team growing from 80 to 250 by end of 2027; "fillmore" agentic coworker.
+[^ip-meta2]: Metaview homepage banner, "$60M more, led by Insight Partners. Time to build." Accessed October 1, 2026. https://metaview.ai — Primary company source. Independent product-page confirmation of the $60M amount and Insight Partners as lead investor on the Series C.
+[^ip-meta3]: Intrepid Growth Partners, "Metaview" portfolio page. Accessed October 1, 2026. https://intrepidgp.com/portfolio — Co-investor primary source. Intrepid Growth Partners lists Metaview as a portfolio company ("an AI-native recruiting platform that captures and structures the conversations at the heart of hiring; headquartered in London, UK; HR Tech"), confirming their Series C participation alongside Insight Partners. Vertex Ventures US separately lists Metaview on https://www.vvus.com/portfolio.

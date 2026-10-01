@@ -44,7 +44,7 @@ team:
     role: "Partner"
     name: "Shawn Cherian"
 status: published
-last_researched: 2026-03-31
+last_researched: 2026-10-01
 ---
 
 ## About
@@ -132,6 +132,7 @@ Based on analysis of 137 verified portfolio companies (96 active, 41 exited) fro
 | Voya Energy | Series A ($35M lead; Founders Fund, John Doerr, MANTIS Venture Capital, Overmatch Ventures, Seven Stars, StepStone Group participating; EIP incubated the company) | 2026-08-26 | Metal-fueled distributed power | [^voya1][^voya2][^voya3] |
 | Base Power | Series D (participated; $1B round at $13B post-money; Ribbit, Addition, Valor Equity Partners, JPMorganChase SIG co-led; Altimeter, D1, Sands, Coatue, Layer Global, Thrive, a16z, Lightspeed, Trust Ventures, CapitalG also participated) | 2026-08-03 | Distributed grid / Energy storage | [^eip-bp-d1][^eip-bp-d2] |
 | CivilGrid | Series A (participated, $26M; Spark Capital led; Afore Capital, A*, Ford Street Ventures, SNR Ventures also participated) | 2026-08-27 | Infrastructure / Utility Data / Construction Tech | [^eip-civg-1][^eip-civg-2][^eip-civg-3] |
+| Reverion | Series B (participated as existing investor; $175M / €154M at Series B level; Kembara (Mundi Ventures' scale-up fund) led; new investors Allianz, KfW Capital, Aurum Impact, Carbon Equity; existing investors UVC Partners (€24.5M commitment), Extantia, European Innovation Council Fund, alfa8, Possible Ventures also participated; reversible solid-oxide fuel cell power plants; up to ~74% electrical efficiency; proceeds fund German megafactory with 250 MW annual capacity and up to 800 jobs) | 2026-09-28 | Climate Tech / Energy Transition / Fuel Cells / Hydrogen | [^eip-rev-1][^eip-rev-2][^eip-rev-3] |
 
 *This table represents a subset of approximately 137 known portfolio companies. The full portfolio is listed on the EIP website [^14].*
 
@@ -235,4 +236,8 @@ No additional independently sourced founder testimonials found beyond press rele
 [^eip-fe2]: TechCrunch, "Form Energy raises $750M to build more 100-hour batteries for the grid," August 12, 2026. Accessed September 28, 2026. https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/ — Tier-1 tech press confirmation of Form Energy's $750M Series G announced August 12, 2026, T. Rowe Price lead, with Energy Impact Partners named among the participating investor syndicate.
 
 [^eip-fe3]: The Boston Globe, "Somerville's Form Energy lands $750m investment, in part to expand its West Virginia battery factory," August 12, 2026. Accessed September 28, 2026. https://www.bostonglobe.com/2026/08/business/form-energy-vc-funding-750-million/ — Regional tier-1 press independently confirming the $750M Series G on August 12, 2026, T. Rowe Price led, with Energy Impact Partners listed among the returning investors.
+
+[^eip-rev-1]: Reverion company press release, "Reverion Raises $175M Series B to Scale Production of its Dispatchable, Carbon-Negative Power Plants Tenfold," September 28, 2026. Accessed October 1, 2026. https://www.reverion.com/en/news/reverion-raises-175m-series-b — Primary company source confirming $175M Series B led by Kembara (Mundi Ventures' scale-up fund) with Allianz / KfW Capital / Aurum Impact / Carbon Equity as new investors and Extantia / Energy Impact Partners / UVC Partners / EIC Fund / alfa8 / Possible Ventures as existing investors; founders Stephan Herrmann (CEO) and Felix Fischer (COO); use of proceeds for 250 MW German megafactory.
+[^eip-rev-2]: UVC Partners, "Reverion secures €154 million Series B to scale its carbon-negative power plants tenfold – UVC Partners commits €24.5 million," September 29, 2026. Accessed October 1, 2026. https://www.uvcpartners.com/blog/reverion-secures-154-million-series-b-to-scale-its-carbon-negative-power-plants-tenfold---uvc-partners-commits-eu24-5-million — Co-investor primary source. UVC Partners' own announcement confirms €154M Series B led by Kembara, with UVC Partners committing €24.5M as existing investor and Energy Impact Partners among the returning backers; includes Stephan Herrmann (CEO) and Johannes von Borries (UVC Managing Partner) quotes.
+[^eip-rev-3]: Energy Impact Partners portfolio page, "Reverion" portfolio entry, accessed October 1, 2026. https://www.energyimpactpartners.com/_portfolio/ — EIP's own portfolio page lists Reverion as a current portfolio company ("Reverion GmbH builds reversible, carbon-negative power plants. As a spin-off from the Technical University of Munich..."), confirming EIP's position in the company at the time of the Series B.
 
