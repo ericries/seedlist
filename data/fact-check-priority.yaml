@@ -5906,6 +5906,10 @@ priority:
   type: startup
   reason: new profile from round monitoring (Series A, 2026-08-26)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: verified adaptyv.md startup profile is complete with 3 primary sources. Series A €34.35M on 2026-08-26 led by Highland Europe with Ace Ventures, ByFounders, and Y Combinator participating. Original currency preserved (€). Funding History row properly formatted with names-only cells and YYYY-MM-DD date. No further action on this entry.'
+  processed: '2026-09-30'
 - slug: y-combinator
   type: firm
   reason: appeared in Adaptyv Series A (2026-08-26)
@@ -6102,6 +6106,10 @@ priority:
   type: startup
   reason: National Wealth Fund-led £100M growth round with Korea Development Bank, Honda Xcelerator Ventures (2026-08-31)
   added: 2026-08-31
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: duplicate of entry 888 (also nexeon startup verification for £100M Growth round on 2026-08-31 from National Wealth Fund with Korea Development Bank and Honda Xcelerator Ventures). Already resolved in commit e0b89662 via 3 primary sources confirming £100M Growth round; original currency preserved (£, not USD). No further action required.'
+  processed: '2026-09-30'
 - slug: civilgrid
   type: startup
   reason: Spark Capital-led $26M Series A with Energy Impact Partners, Afore, A*, Ford Street Ventures, SNR Ventures (2026-08-27)
@@ -6170,6 +6178,10 @@ priority:
   type: startup
   reason: New debt facility add-on (2026-09-01)
   added: 2026-09-01
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: verified cloover.md startup profile is complete with 6 primary sources covering both the 2026-01-21 Series A ($22M equity + $1.2B debt facility, MMC Ventures and QED Investors co-leads) and the 2026-09-01 debt facility add-on (€86.2M EIF-backed, EIF guarantee expanded to €350M; cumulative financing capacity >€1.12B / $1.3B). Co-founders Jodok Betschart (CEO) and Valentin Gönczy (CPO). Original currencies preserved (€ for EIF facility, $ for US-dollar equivalents noted inline). Funding History rows properly formatted. No further action on this entry.'
+  processed: '2026-09-30'
 - slug: polymarket
   type: startup
   reason: New $1B round from 1789 Capital (2026-08-31)
@@ -8003,33 +8015,33 @@ priority:
   processed: '2026-09-29'
 - slug: insight-partners
   type: firm
-  reason: "appeared in Metaview Series C (2026-09-30)"
+  reason: appeared in Metaview Series C (2026-09-30)
   added: 2026-09-30
 - slug: gv
   type: firm
-  reason: "appeared in Metaview Series C (2026-09-30)"
+  reason: appeared in Metaview Series C (2026-09-30)
   added: 2026-09-30
 - slug: valor-equity-partners
   type: firm
-  reason: "appeared in Flow Engineering Series B (2026-09-30)"
+  reason: appeared in Flow Engineering Series B (2026-09-30)
   added: 2026-09-30
 - slug: sequoia-capital
   type: firm
-  reason: "appeared in Flow Engineering Series B (2026-09-30)"
+  reason: appeared in Flow Engineering Series B (2026-09-30)
   added: 2026-09-30
 - slug: roelof-botha
   type: investor
-  reason: "appeared in Flow Engineering Series B (2026-09-30)"
+  reason: appeared in Flow Engineering Series B (2026-09-30)
   added: 2026-09-30
 - slug: redpoint-ventures
   type: firm
-  reason: "appeared in Restate Series A (2026-09-30)"
+  reason: appeared in Restate Series A (2026-09-30)
   added: 2026-09-30
 - slug: qed-investors
   type: firm
-  reason: "appeared in Charter Space Seed (2026-09-30)"
+  reason: appeared in Charter Space Seed (2026-09-30)
   added: 2026-09-30
 - slug: hustle-fund
   type: firm
-  reason: "appeared in Charter Space Seed (2026-09-30)"
+  reason: appeared in Charter Space Seed (2026-09-30)
   added: 2026-09-30
