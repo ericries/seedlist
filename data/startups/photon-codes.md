@@ -24,7 +24,7 @@ last_researched: 2026-10-01
 
 ## About
 
-Photon is a San Francisco-based developer tools startup building a platform that lets businesses replace traditional mobile apps with AI agents [^1]. The company reports more than 40,000 developer sign-ups, 10x revenue growth over four months, and churn below 3% [^1]. Co-founders Daniel Tian (CEO) and Ryan Zhu (CTO) staged a public "funeral for mobile apps" to mark the launch [^1].
+Photon is a San Francisco-based developer tools startup building a platform that lets businesses replace traditional mobile apps with AI agents [^1]. The company reports more than 40,000 developer sign-ups, 10x revenue growth over four months, and churn below 3% [^1]. Co-founders Daniel Tian (CEO) and Ryan Zhu (CTO) staged a public "funeral for mobile apps" to mark the launch [^1][^2].
 
 ## Funding History
 
