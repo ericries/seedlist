@@ -5723,6 +5723,10 @@ priority:
   type: firm
   reason: appeared in Also Series D (2026-08-19)
   added: 2026-08-30
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: Added two Also rows to greenoaks.md portfolio table. Series C 2026-03-31 (Greenoaks led, $200M at $1B valuation; DoorDash and Prysm Capital participating) verified via TechCrunch 2026-03-31 primary [^gr-also1] + Pulse2 independent [^gr-also2]. Series D 2026-08-19 (participated; Prysm Capital led, $150M; Eclipse and MVP Ventures also participating; total funding ~$455M) verified via TechCrunch 2026-08-19 primary [^gr-also3] + TechStartups 2026-08-19 roundup [^gr-also4] — both independently confirming Prysm-led round with Greenoaks participation. 4 new footnotes added. Original currency (USD) preserved.'
+  processed: '2026-10-01'
 - slug: andreessen-horowitz
   type: firm
   reason: appeared in Castelion Series C (2026-08-19)
@@ -6215,6 +6219,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $46M Series A (2026-09-01) led by Matrix with Activate Capital, Spark Capital, Mischief, Gigascale Capital, MCJ, BoxGroup. Sources: PR Newswire (Light press release).'
   added: 2026-09-01
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: Added FinSMEs as independent 2nd primary source [^2] confirming $46M Series A led by Matrix with Activate Capital, Spark Capital, Mischief, Gigascale Capital, MCJ, BoxGroup. Also added founder context (Baker Shogry former Plaid head of product; founded 2023) and PJM Interconnection expansion from FinSMEs. Only 2 primary sources located; additional contemporaneous tier-1 press (TechCrunch, Bloomberg) could not be found. Date 2026-09-01 and all investor names cross-confirmed between PR Newswire company press release and FinSMEs independent coverage. Note: FinSMEs lists company as Houston-based while PR Newswire says Austin — kept company''s own filing (Austin). 1 new footnote added.'
+  processed: '2026-10-01'
 - slug: easy-aerial
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $20M Series B (2026-08-31) led by Insight Partners with Entrée Capital and private U.S. investors. Sources: Business Wire, Yahoo Finance, Defense Daily.'
@@ -6235,6 +6243,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $6M seed (2026-08-31) led by SignalFire and Las Olas VC. Boston-based AI copilot for police officers. Sources: TechCrunch, American Bazaar Online.'
   added: 2026-09-01
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: Re-verified blue-voice.md $6M seed (2026-08-31) via TechCrunch primary [^1] + American Bazaar Online independent [^2]. Both sources confirm identical details: $6M seed co-led by SignalFire and Las Olas VC; founders David Lawrence (Harvard Law dropout, CEO), Amit Patankar (Harvard MBA, former Google engineer), Michael Gropman (retired Boston police deputy chief); emerged from stealth after 3 years. CEO quote "When an officer makes a decision, they do so from memory or best guess..." verified verbatim against TechCrunch source. Note: only 2 primary sources located; additional 3rd-party press (Boston Business Journal 301-redirects but Cloudflare blocks WebFetch; SignalFire portfolio page does not yet list Blue Voice; Las Olas VC portfolio page not available). No profile update needed — content is accurate and consistent across both existing sources. Entry resolved as "verified via 2 primary sources, 3rd source could not be independently located."'
+  processed: '2026-10-01'
 - slug: insight-partners
   type: firm
   reason: Appeared in Easy Aerial Series B (2026-08-31)
