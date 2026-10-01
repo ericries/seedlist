@@ -8130,3 +8130,27 @@ priority:
   type: investor
   reason: participated in OuterSignal Series A $22M (2026-09-30)
   added: 2026-10-01
+- slug: homeward-tx
+  type: startup
+  reason: new profile from round monitoring (2026-10-01) — Series D $120M, Saluda Grade led
+  added: 2026-10-01
+- slug: satlyt
+  type: startup
+  reason: new profile from round monitoring (2026-10-01) — Seed $8M, Non Sibi Ventures led
+  added: 2026-10-01
+- slug: photon-codes
+  type: startup
+  reason: new profile from round monitoring (2026-10-01) — Seed $4.5M, Gradient & A* co-led
+  added: 2026-10-01
+- slug: daptic
+  type: startup
+  reason: new profile from round monitoring (2026-10-01) — Series A $15M, Canvas Ventures led
+  added: 2026-10-01
+- slug: a-star-capital
+  type: firm
+  reason: co-led Photon seed $4.5M (2026-10-01)
+  added: 2026-10-01
+- slug: 8vc
+  type: firm
+  reason: participated in Daptic Series A $15M (2026-10-01)
+  added: 2026-10-01
