@@ -20,6 +20,51 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Satlyt, founded by a former Google and SpaceX product manager, raises $8M
+    to run AI on satellites
+  url: https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/
+  source: techcrunch
+  date_found: '2026-10-01'
+  parsed_company: Satlyt, founded by a former Google and SpaceX product manager,
+  parsed_amount: $8M
+  parsed_round: null
+  status: pending
+- title: Nuclear Startup Funding Is Up, But The Sector’s Public Markets Take A Bearish
+    Turn
+  url: https://news.crunchbase.com/clean-tech-and-energy/nuclear-startup-funding-up-public-markets-bearish/
+  source: crunchbase
+  date_found: '2026-10-01'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Metaview raises €53.1 million Series C led by Insight Partners to
+    scale its agentic recruiting platform
+  url: https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/
+  source: eu-startups
+  date_found: '2026-10-01'
+  parsed_company: London’s Metaview
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: The EU-Startups Podcast | Our Interview Series from A5X Singapore, in Partnership
+    with NUSX
+  url: https://www.eu-startups.com/2026/10/the-eu-startups-podcast-our-interview-series-from-a5x-singapore-in-partnership-with-nusx/
+  source: eu-startups
+  date_found: '2026-10-01'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Sofia-based LAUNCHub Ventures secures €65 million first close of Fund III;
+    targets €75 million+
+  url: https://www.eu-startups.com/2026/10/sofia-based-launchub-ventures-secures-e65-million-first-close-of-fund-iii-targets-e75-million/
+  source: eu-startups
+  date_found: '2026-10-01'
+  parsed_company: Sofia-based LAUNCHub Ventures
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Swedish micromobility company Voi secures €150 million RCF to redeem outstanding
     bonds and scale its fleet
   url: https://www.eu-startups.com/2026/09/swedish-micromobility-company-voi-secures-e150-million-rcf-to-redeem-outstanding-bonds-and-scale-its-fleet/
@@ -234,6 +279,15 @@ pending_rounds:
   date_found: '2026-09-29'
   parsed_company: null
   parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future
+    Health
+  url: https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/
+  source: crunchbase
+  date_found: '2026-09-29'
+  parsed_company: Tiny Health
+  parsed_amount: $33M
   parsed_round: null
   status: pending
 - title: London’s Reactive Technologies secures €19 million EIB financing to strengthen
@@ -798,28 +852,4 @@ pending_rounds:
   parsed_company: announced it has
   parsed_amount: $3M
   parsed_round: Seed
-  status: pending
-- title: Electra Therapeutics raised $350M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-18'
-  parsed_company: Electra Therapeutics
-  parsed_amount: $350M
-  parsed_round: null
-  status: pending
-- title: and had raised $300M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-18'
-  parsed_company: and had
-  parsed_amount: $300M
-  parsed_round: null
-  status: pending
-- title: s Advantage Acquisition raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-18'
-  parsed_company: s Advantage Acquisition
-  parsed_amount: $150M
-  parsed_round: null
   status: pending
