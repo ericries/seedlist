@@ -6191,6 +6191,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $220M Series C ($90M equity + $130M debt, 2026-08-31) led by Noteus Partners with Aviva, Concord Health Partners, YZR Capital, Oxford Capital; debt from VerisFi Capital and Atempo Growth. Sources: HIT Consultant, Business Wire (via Morningstar), Scan.com About page.'
   added: 2026-09-01
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: verified scan-com.md startup profile is complete with 3 primary sources. Series C $220M ($90M equity + $130M debt) on 2026-08-31 led by Noteus Partners (equity) with VerisFi Capital, Atempo Growth, and additional participants; 5 co-founders named (Charlie Bullock CEO, Oliver Knight COO, Joe Daniels, Dr Khalid Latief, Jasper Nissim). Funding History row properly formatted with names-only cells and YYYY-MM-DD date. No further action on this entry.'
+  processed: '2026-09-30'
 - slug: light-power
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $46M Series A (2026-09-01) led by Matrix with Activate Capital, Spark Capital, Mischief, Gigascale Capital, MCJ, BoxGroup. Sources: PR Newswire (Light press release).'
@@ -6207,6 +6211,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $50M growth round (up to $75M) (2026-08-28) from Point72 Private Investments at $1.2B pre-money. Turkiye''s 8th unicorn. Sources: HubX company news, Daily Sabah, Investing.com/FinanceWire.'
   added: 2026-09-01
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: verified hubx.md startup profile is complete with 3 primary sources. Growth $50M (up to $75M with option) on 2026-08-28 from Point72 Private Investments at $1.2B pre-money valuation — Türkiye''s eighth unicorn and first AI-native consumer-applications unicorn. Co-founders Cem Ortabaş (CEO) and Kaan Ortabaş. Funding History row properly formatted. No further action on this entry.'
+  processed: '2026-09-30'
 - slug: blue-voice
   type: startup
   reason: 'Round monitoring 2026-09-01: Created profile for $6M seed (2026-08-31) led by SignalFire and Las Olas VC. Boston-based AI copilot for police officers. Sources: TechCrunch, American Bazaar Online.'
@@ -6242,6 +6250,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-02: Added ~$446M (RMB 3B) Series B/B+ (2026-09-01) led by MPCi. Sources: DealStreetAsia, WOWTALE, FinSMEs.'
   added: 2026-09-02
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: verified tripo-ai.md startup profile is complete with 7 primary sources. Series B/B+ ~$446M (RMB 3B) on 2026-09-01 led by MPCi with Perfect World, Yanqu Games, 37 Interactive Entertainment, BlueFocus Communications participating. Original currency preserved (RMB with USD equivalent noted). Funding History row properly formatted. No further action on this entry.'
+  processed: '2026-09-30'
 - slug: olivier-pomel
   type: investor
   reason: Appeared as angel in Norbert Health Series A (2026-09-01)

@@ -47,12 +47,12 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/30/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-30-2026/
-  source: alleywatch
+- title: Charter Space raises $5M to bring insurance to the stars
+  url: https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/
+  source: techcrunch
   date_found: '2026-09-30'
-  parsed_company: null
-  parsed_amount: null
+  parsed_company: Charter Space
+  parsed_amount: $5M
   parsed_round: null
   status: pending
 - title: Everphone secures €15 million to finance new devices for corporate customers
@@ -69,6 +69,110 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-09-30'
   parsed_company: Paris-based Inbolt
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Metaview raised $60M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: Metaview
+  parsed_amount: $60M
+  parsed_round: Series C
+  status: pending
+- title: Aptadit Therapeutics raised $45M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: Aptadit Therapeutics
+  parsed_amount: $45M
+  parsed_round: Seed
+  status: pending
+- title: Miter raised $40M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: Miter
+  parsed_amount: $40M
+  parsed_round: Series B
+  status: pending
+- title: HyperGuest raised $25M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: HyperGuest
+  parsed_amount: $25M
+  parsed_round: null
+  status: pending
+- title: Proximal raised $15M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: Proximal
+  parsed_amount: $15M
+  parsed_round: Seed
+  status: pending
+- title: Kanu AI raised $11.7M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: Kanu AI
+  parsed_amount: $11.7M
+  parsed_round: Seed
+  status: pending
+- title: Zenithon raised $10M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: Zenithon
+  parsed_amount: $10M
+  parsed_round: null
+  status: pending
+- title: Beltic raised $8.8M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: Beltic
+  parsed_amount: $8.8M
+  parsed_round: null
+  status: pending
+- title: Elio Mortgage raised $5.1M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: Elio Mortgage
+  parsed_amount: $5.1M
+  parsed_round: null
+  status: pending
+- title: Cotierra raised $3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: Cotierra
+  parsed_amount: $3M
+  parsed_round: null
+  status: pending
+- title: Dorm Room Fund raised $50M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: Dorm Room Fund
+  parsed_amount: $50M
+  parsed_round: null
+  status: pending
+- title: Rising Point Capital raised $325M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-09-30'
+  parsed_company: Rising Point Capital
+  parsed_amount: $325M
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 9/30/2026'
+  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-30-2026/
+  source: alleywatch
+  date_found: '2026-09-30'
+  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -743,115 +847,4 @@ pending_rounds:
   parsed_company: s Advantage Acquisition
   parsed_amount: $150M
   parsed_round: null
-  status: pending
-- title: Pulse Fund raised $63M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-18'
-  parsed_company: Pulse Fund
-  parsed_amount: $63M
-  parsed_round: null
-  status: pending
-- title: Iceland-based Treble raises $18 million for its voice simulation platform
-  url: https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/
-  source: techcrunch
-  date_found: '2026-09-17'
-  parsed_company: Iceland-based Treble
-  parsed_amount: $18M
-  parsed_round: null
-  status: pending
-- title: Reykjavík-based Treble raises nearly €15 million to bring sound and voice
-    to physical AI
-  url: https://www.eu-startups.com/2026/09/reykjavik-based-treble-raises-e15-million-to-bring-sound-and-voice-to-physical-ai/
-  source: eu-startups
-  date_found: '2026-09-17'
-  parsed_company: Reykjavík-based Treble
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Barcelona-based Health Force raises €4.2 million to streamline hospital operations
-    with AI agents
-  url: https://www.eu-startups.com/2026/09/barcelona-based-health-force-raises-e4-2-million-to-streamline-hospital-operations-with-ai-agents/
-  source: eu-startups
-  date_found: '2026-09-17'
-  parsed_company: Barcelona-based Health Force
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Leeds-based MicroLub raises €8.7 million to help food makers cut fat without
-    sacrificing taste and texture
-  url: https://www.eu-startups.com/2026/09/leeds-based-microlub-raises-e8-7-million-to-help-food-makers-cut-fat-without-sacrificing-taste-and-texture/
-  source: eu-startups
-  date_found: '2026-09-17'
-  parsed_company: Leeds-based MicroLub
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Münster-based syte raises €9 million to expand its AI-powered real estate
-    analytics platform
-  url: https://www.eu-startups.com/2026/09/munster-based-syte-raises-e9-million-to-expand-its-ai-powered-real-estate-analytics-platform/
-  source: eu-startups
-  date_found: '2026-09-17'
-  parsed_company: Münster-based syte
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: NeOnc Technologies Redeems All Outstanding Series A Convertible Preferred
-    Stock and Eliminates Related Potential Dilution
-  url: https://www.globenewswire.com/news-release/2026/09/17/3363907/0/en/neonc-technologies-redeems-all-outstanding-series-a-convertible-preferred-stock-and-eliminates-related-potential-dilution.html
-  source: globenewswire
-  date_found: '2026-09-17'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: UK FinTech startup Ryft secures €23 million to accelerate European expansion
-  url: https://www.eu-startups.com/2026/09/uk-fintech-startup-ryft-secures-e23-million-to-accelerate-european-expansion/
-  source: eu-startups
-  date_found: '2026-09-17'
-  parsed_company: UK FinTech startup Ryft
-  parsed_amount: null
-  parsed_round: null
-  status: processed
-  notes: created startup profile ryft.md; £20M/€23M Series B led by Gresham House
-    Ventures with Pembroke VCT, Ingenii Capital
-- title: BackOps raised $42M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-17'
-  parsed_company: BackOps
-  parsed_amount: $42M
-  parsed_round: Series B
-  status: pending
-- title: Rune raised $40M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-17'
-  parsed_company: Rune
-  parsed_amount: $40M
-  parsed_round: Series A
-  status: pending
-- title: TypeSafe AI raised $40M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-17'
-  parsed_company: TypeSafe AI
-  parsed_amount: $40M
-  parsed_round: Seed
-  status: pending
-- title: has raised $30M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-17'
-  parsed_company: has
-  parsed_amount: $30M
-  parsed_round: Series B
-  status: pending
-- title: Loora raised $22M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-17'
-  parsed_company: Loora
-  parsed_amount: $22M
-  parsed_round: Series B
   status: pending
