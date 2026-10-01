@@ -194,6 +194,33 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Sagimet Biosciences Announces Closing of Underwritten Offering of Series
+    A Common Stock and Pre-Funded Warrants
+  url: https://www.globenewswire.com/news-release/2026/10/01/3373424/0/en/sagimet-biosciences-announces-closing-of-underwritten-offering-of-series-a-common-stock-and-pre-funded-warrants.html
+  source: globenewswire
+  date_found: '2026-10-01'
+  parsed_company: Sagimet Biosciences
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M
+    at $2.5B valuation
+  url: https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/
+  source: techcrunch
+  date_found: '2026-10-01'
+  parsed_company: Kevin Mandia’s new ‘agent swarm’ security startup Armadin
+  parsed_amount: $255.5M
+  parsed_round: null
+  status: pending
+- title: Satlyt, founded by a former Google and SpaceX product manager, raises $8M
+    to run AI on satellites
+  url: https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/
+  source: techcrunch
+  date_found: '2026-10-01'
+  parsed_company: Satlyt, founded by a former Google and SpaceX product manager,
+  parsed_amount: $8M
+  parsed_round: null
+  status: pending
 - title: Swedish micromobility company Voi secures €150 million RCF to redeem outstanding
     bonds and scale its fleet
   url: https://www.eu-startups.com/2026/09/swedish-micromobility-company-voi-secures-e150-million-rcf-to-redeem-outstanding-bonds-and-scale-its-fleet/
@@ -408,6 +435,15 @@ pending_rounds:
   date_found: '2026-09-29'
   parsed_company: null
   parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future
+    Health
+  url: https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/
+  source: crunchbase
+  date_found: '2026-09-29'
+  parsed_company: Tiny Health
+  parsed_amount: $33M
   parsed_round: null
   status: pending
 - title: London’s Reactive Technologies secures €19 million EIB financing to strengthen
@@ -804,14 +840,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-09-21'
   parsed_company: London’s Unit1 Studio
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 9/21/26'
-  url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-21-26/
-  source: alleywatch
-  date_found: '2026-09-21'
-  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
