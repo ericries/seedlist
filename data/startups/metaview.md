@@ -39,7 +39,7 @@ Metaview builds an agentic recruiting platform that uses AI agents to source, en
 
 | Date | Round | Amount | Lead | Co-investors |
 |---|---|---|---|---|
-| 2026-09-30 | Series C | $60M | Insight Partners | GV, Intrepid Growth Partners, Seedcamp, Vertex Ventures US, Plural, Garuda Ventures [^1][^2] |
+| 2026-09-30 | Series C | $60M | Insight Partners | GV, Intrepid Growth Partners, Seedcamp, Vertex Ventures US, Plural, Garuda Ventures [^1][^2][^3] |
 
 Total disclosed funding to date: $110M [^1].
 
@@ -55,3 +55,4 @@ No independently sourced investor commentary found at this time.
 
 [^1]: Metaview, "Metaview raised an additional $60M to lead the shift to agentic recruiting," September 30, 2026. Accessed September 2026. https://metaview.ai/resources/blog/metaview-raised-an-additional-60m-to-lead-the-shift-to-agentic-recruiting
 [^2]: Axios Pro Rata deals brief, September 30, 2026. Accessed September 2026. https://www.axios.com/newsletters/axios-pro-rata
+[^3]: Vertex Ventures US portfolio page, accessed October 1, 2026. https://www.vvus.com/portfolio — Co-investor primary source confirming Metaview as a portfolio company of Vertex Ventures US.
