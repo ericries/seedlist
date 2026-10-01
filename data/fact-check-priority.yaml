@@ -8086,3 +8086,23 @@ priority:
   status: resolved
   resolved: '2026-10-01'
   resolution_note: 'Fact-spec sweep 2026-10-01: Verified Reverion $175M / €154M Series B on 2026-09-28 (Kembara/Mundi Ventures scale-up fund led; new investors Allianz, KfW Capital, Aurum Impact, Carbon Equity; existing investors UVC Partners €24.5M, Extantia, Energy Impact Partners, EIC Fund, alfa8, Possible Ventures) via 3 primary sources: Reverion company page [^1], Reverion press release [^2], UVC Partners blog [^3]. EIP portfolio page confirms EIP position [^4]. Replaced blocked EU-Startups citation with higher-value UVC Partners primary source. Updated Funding History row to show "$175M (€154M)" preserving both currencies; added [^4] citation.'
+- slug: outersignal
+  type: startup
+  reason: new profile from round monitoring (2026-09-30)
+  added: 2026-10-01
+- slug: long-journey-ventures
+  type: firm
+  reason: co-led OuterSignal Series A $22M (2026-09-30)
+  added: 2026-10-01
+- slug: abstract-ventures
+  type: firm
+  reason: co-led OuterSignal Series A $22M (2026-09-30)
+  added: 2026-10-01
+- slug: ame-cloud-ventures
+  type: firm
+  reason: participated in OuterSignal Series A $22M (2026-09-30)
+  added: 2026-10-01
+- slug: jerry-yang
+  type: investor
+  reason: participated in OuterSignal Series A $22M (2026-09-30)
+  added: 2026-10-01
