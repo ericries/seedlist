@@ -6742,6 +6742,9 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-14: Led Highstock $30M Series A (2026-09-10).'
   added: 2026-09-14
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: added Highstock Series A row to andreessen-horowitz.md Portfolio table — 2026-09-10, $30M led by a16z with Greylock Partners, Abstract Ventures, Daybreak Ventures, and angels Max Mullen, Lenny Rachitsky, JJ Zhuang participating; Jeff Jordan served as advisor; Olivia Moore (a16z Partner) joined Highstock''s board. Founders Camille van Horne (CEO) and Sean Cashin (CTO). $35.5M total raised to date. Added 2 primary source citations: [^hs-a16z1] a16z announcement "Investing in Highstock" (primary lead-investor source with verbatim partner quote), [^hs-a16z2] AlleyWatch Startup Daily Funding Report 9/14/2026 (independent NYC tech-press with full participant list). Third primary source not achievable within tool budget — no TechCrunch, Crunchbase News standalone article, or company press release found; a16z''s own announcement is both primary and triangulated by AlleyWatch''s independent participant list. Both source citations already in use on the highstock.md startup profile.'
 - slug: greylock
   type: firm
   reason: 'Round monitoring 2026-09-14: Participated in Highstock $30M Series A (2026-09-10).'
@@ -6930,10 +6933,16 @@ priority:
   type: investor
   reason: 'Round monitoring 2026-09-16: co-led Integral Series A (€18M, 2026-09-16) alongside Mosaic Ventures.'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: verified duplicate — reid-hoffman.md Portfolio table already contains Integral Series A row (€18M, 2026-09-16, co-led with Mosaic Ventures alongside Cherry Ventures, General Catalyst, Puzzle Ventures) with 3 primary source citations [^19] EU-Startups, [^20] Integral Group press release, [^21] Tech.eu. Added by the 2026-09-23 sweep (see resolved entry further down the file). No additional updates needed. Startup profile integral.md and all co-investor firm profiles already reconciled.'
 - slug: general-catalyst
   type: firm
   reason: 'Round monitoring 2026-09-16: participated in Integral Series A (€18M, 2026-09-16).'
   added: 2026-09-16
+  status: resolved
+  resolved: '2026-09-30'
+  resolution_note: 'Fact-spec sweep 2026-09-30: verified duplicate — general-catalyst.md Portfolio table already contains Integral Series A row (participated, €18M, 2026-09-16; Mosaic Ventures and Reid Hoffman co-led; Cherry Ventures and Puzzle Ventures also participated) with 3 primary source citations [^gc-integral-1] EU-Startups, [^gc-integral-2] Integral Group press release, [^gc-integral-3] Tech.eu. Added by the 2026-09-23 sweep (see resolved entry further down the file). No additional updates needed.'
 - slug: implicity
   type: startup
   reason: 'Round monitoring 2026-09-16: New lean profile for €35M growth round (2026-09-09) led by IRIS with Five Arrows. Sources: (1) EU-Startups.'
