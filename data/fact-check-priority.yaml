@@ -6856,6 +6856,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-14: New lean profile for €10.5M Series A (2026-09-14) led by BlackFin Capital Partners with Entourage, Shapers, Seeder Fund, Wallonie Entreprendre. Sources: (1) Chift company blog; (2) Chift company page; (3) EU-Startups.'
   added: 2026-09-14
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: verified chift.md startup profile is complete with 3 primary sources. Series A €10.5M on 2026-09-14. Original currency preserved (€). Funding History row properly formatted with names-only cells and YYYY-MM-DD date. No further action on this entry.'
+  processed: '2026-10-01'
 - slug: northzone
   type: firm
   reason: 'Round monitoring 2026-09-14: Participated in Tandem Health $100M Series B (2026-09-14).'
@@ -7435,6 +7439,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-18: Ridgeline $250M Series E at $1.425B valuation (2026-09-16) led by founder Dave Duffield with Motley Fool Ventures, Smead Capital, Patrick OShaughnessy. Sources: Ridgeline press release, Bloomberg, Crunchbase News weekly recap.'
   added: 2026-09-18
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: verified ridgeline.md startup profile is complete with 3 primary sources. Series E $250M at $1.425B valuation on 2026-09-18. Funding History row properly formatted. No further action on this entry.'
+  processed: '2026-10-01'
 - slug: sling-therapeutics
   type: startup
   reason: 'Round monitoring 2026-09-18: Sling Therapeutics $123M Series C (2026-09-16) led by Forbion with TPG Life Sciences Innovations, Sectoral Asset Management. Sources: Sling company press release, Crunchbase News weekly recap.'
@@ -7447,6 +7455,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-18: Adaptive $30M Series B (2026-09-17) led by Tidemark with Emergence Capital, Andreessen Horowitz, Pathlight, Definition, 3KVC. Sources: Tidemark blog post, AlleyWatch daily funding report.'
   added: 2026-09-18
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: verified adaptive-construction.md startup profile is complete with 4 primary sources. Series B $30M on 2026-09-17 led by Tidemark. Funding History row properly formatted. No further action on this entry.'
+  processed: '2026-10-01'
 - slug: andreessen-horowitz
   type: firm
   reason: 'Round monitoring 2026-09-18: participated in Adaptive Series B (2026-09-17) alongside Emergence, Tidemark, Pathlight, Definition, 3KVC.'
