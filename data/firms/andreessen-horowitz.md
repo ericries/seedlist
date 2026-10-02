@@ -5,8 +5,8 @@ fund_size: $7.2B (2024 across five funds); $15B (2026 across five funds); $90B+ 
   AUM
 last_researched: 2026-03-13
 last_verified_investment:
-  company: Adaptive
-  date: 2026-09-17
+  company: Armadin
+  date: 2026-10-01
   round: Series B
 location: Menlo Park, CA
 name: Andreessen Horowitz
@@ -207,6 +207,7 @@ The following table includes a16z investments verified through the firm's own po
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
 | Thatch | Series C (participated; $108M at $1B post-money; The General Partnership led; Index Ventures, Scale Venture Partners, General Catalyst, Avid Ventures, Quiet Capital, SemperVirens, QuantumLight, Eli Lilly, ADP Ventures, Paychex co-invested; $192M cumulative) | 2026-09-15 | Healthcare / Health Benefits / HR Tech / Insurtech | Private [^tha-a1][^tha-a2][^tha-a3] |
+| Armadin | Series B (co-led with Accel; $255.5M at $2.5B+ valuation; a16z Growth partners David George and Stephenie Zhang on the deal; Bain Capital Ventures and Redpoint new; GV, Kleiner Perkins, Menlo Ventures, In-Q-Tel, 8VC, Ballistic Ventures returning; $445M+ total raised; agentic red-team security platform; founders Kevin Mandia, Travis Lanham, Evan Pena, David Slater) | 2026-10-01 | Cybersecurity / AI / AI Agents / Enterprise Security | Private [^a16z-arm1][^a16z-arm2][^a16z-arm3] |
 | EliseAI | Growth (co-led with Bessemer Venture Partners; $350M at $4B post-money valuation; ~doubled from prior valuation; brings total raised to $741.9M; proptech/healthcare AI-agent platform; used in 1 in 6 US apartments; $200M+ ARR; founders Minna Song CEO and Stoyan Stoyanov) | 2026-09-29 | AI / PropTech / Healthcare / AI Agents / Vertical SaaS | Private [^a16z-el1][^a16z-el2][^a16z-el3] |
 | Castelion | Series C (co-led with J.P. Morgan Chase Strategic Investment Group and Carlyle; $800M equity + $250M revolving credit at $13B valuation; Lightspeed, Lavrock Ventures, Altimeter, General Catalyst, Interlagos, T. Rowe Price participated; low-cost hypersonic weapons) | 2026-08-19 | Defense / Hypersonic Weapons / American Dynamism | Private [^cast-a1][^cast-a2][^cast-a3] |
 | Whatnot | Series G (participated as returning investor; $545M at $20B post-money; co-led by ICONIQ, Lightspeed, Avra; new: Kleiner Perkins, Wellington Management, Standard Capital, Alkeon Capital, Durable Capital Partners, Robinhood Ventures, S32; returning: Bond, DST Global, Greycroft, Y Combinator, CapitalG; total raised to date ~$1.52B) | 2026-08-07 | Live Commerce / Marketplace / Consumer | Private [^a16z-wn1][^a16z-wn2][^a16z-wn3][^a16z-wn4] |
@@ -798,6 +799,12 @@ The following table includes a16z investments verified through the firm's own po
 [^a16z-el2]: "The AlleyWatch Startup Daily Funding Report: 9/29/2026," AlleyWatch, September 29, 2026. Accessed September 29, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-29-2026/ — Independent NYC tech-press source confirming Andreessen Horowitz and Bessemer Venture Partners as co-leads of the $350M growth round, adding co-founder Stoyan Stoyanov and total funding-to-date of $741.9M.
 
 [^a16z-el3]: EliseAI newsroom, "$4 billion valuation in a funding round led by a16z and Bessemer," September 2026. Accessed September 29, 2026. https://www.eliseai.com/newsroom — Primary company source confirming the $4B valuation and a16z/Bessemer co-lead structure.
+
+[^a16z-arm1]: Andreessen Horowitz, "Investing in Armadin" by David George and Stephenie Zhang, October 1, 2026. Accessed October 1, 2026. https://a16z.com/announcement/investing-in-armadin/ — Primary lead-investor announcement. Confirms a16z Growth led the Series B with partners David George and Stephenie Zhang on the deal; co-founders Kevin Mandia, Travis Lanham, Evan Pena, and David Slater; product Armadin Red deploys an "agentic attacker swarm" across external assets, cloud, identity, internal networks, and applications to produce "validated kill chains."
+
+[^a16z-arm2]: TechCrunch, "Kevin Mandia's new 'agent swarm' security startup Armadin raises $255.5M at $2.5B valuation," October 1, 2026. Accessed October 1, 2026. https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/ — Tier-1 tech-press primary confirming $255.5M Series B at $2.5B+ valuation co-led by Andreessen Horowitz and Accel with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo Ventures participating; $445M+ total raised; six months after $190M Series A.
+
+[^a16z-arm3]: TechStartups, "Startup Funding News Today, October 1, 2026: Armadin, Foundational, FRANK, 1club, Osavul & More," October 1, 2026. Accessed October 1, 2026. https://techstartups.com/2026/10/01/startup-funding-news-today-october-1-2026-armadin-foundational-frank-1club-osavul-more/ — Independent trade-press confirmation; identifies Bain Capital Ventures and Redpoint as new investors versus returning GV, Kleiner Perkins, Menlo Ventures, In-Q-Tel, 8VC, and Ballistic Ventures. Documents operational metric: 26,000 agents performed 17 million actions across three days, uncovering 38 valid attack paths.
 
 [^hs-a16z1]: Olivia Moore and Justine Moore, "Investing in Highstock," Andreessen Horowitz announcement, September 10, 2026. Accessed September 30, 2026. https://a16z.com/announcement/investing-in-highstock/ — Primary firm announcement confirming a16z led Highstock's $30M Series A on September 10, 2026, with Jeff Jordan participating as advisor ("marketplace legend"); Olivia Moore joined Highstock's board. Co-founders named: Camille van Horne (CEO) and Sean Cashin (CTO). Quote: "We believe the winner in this market will be the platform that is AI-native and brand-safe from day one."
 

@@ -8206,6 +8206,9 @@ priority:
   type: startup
   reason: new profile from round monitoring (2026-10-01) — Series B $255.5M, a16z and Accel led
   added: 2026-10-02
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: Verified Armadin $255.5M Series B at $2.5B+ valuation (2026-10-01) via 3 independent primary sources — (1) TechCrunch tier-1 tech press [^1] confirming amount, valuation, co-leads a16z and Accel, and full co-investor list (Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, Menlo Ventures); (2) TechStartups trade press [^2] distinguishing Bain Capital Ventures and Redpoint as "new" from returning backers (GV, Kleiner Perkins, Menlo Ventures, In-Q-Tel, 8VC, Ballistic Ventures) and documenting operational metric (26,000 agents, 17M actions, 38 valid attack paths); (3) a16z announcement [^3] by David George and Stephenie Zhang confirming full co-founder roster — Kevin Mandia, Travis Lanham, Evan Pena, David Slater — and the Armadin Red product description. Accel portfolio page provides independent 4th confirmation. Replaced the generic Axios Pro Rata URL ([^2] previously) with the verifiable TechStartups URL. Added co-founder detail to frontmatter. Currency preserved (USD).'
 - slug: biotia
   type: startup
   reason: new profile from round monitoring (2026-10-01) — Venture $9M
@@ -8214,14 +8217,23 @@ priority:
   type: firm
   reason: co-led Armadin Series B $255.5M (2026-10-01)
   added: 2026-10-02
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: Added Armadin Series B row to andreessen-horowitz.md Portfolio table — 2026-10-01, $255.5M at $2.5B+ valuation co-led by a16z and Accel (a16z Growth partners David George and Stephenie Zhang on the deal). Updated last_verified_investment to Armadin / 2026-10-01 / Series B (was stale at Adaptive / 2026-09-17). Added 3 named-footnote citations: [^a16z-arm1] a16z announcement (primary lead-investor source), [^a16z-arm2] TechCrunch (tier-1 tech press), [^a16z-arm3] TechStartups (trade press distinguishing new vs returning investors). Same primary triad used across armadin / accel / redpoint rows.'
 - slug: accel
   type: firm
   reason: co-led Armadin Series B $255.5M (2026-10-01)
   added: 2026-10-02
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: Added Armadin Series B row to accel.md Portfolio table — 2026-10-01, $255.5M at $2.5B+ valuation co-led by Accel and Andreessen Horowitz. Added 3 named-footnote citations: [^acc-arm1] TechCrunch, [^acc-arm2] a16z announcement (co-lead primary source), [^acc-arm3] Accel portfolio page (firm''s own primary source listing Armadin). Verified via 3+ independent primary sources — TechCrunch, TechStartups, a16z. Accel portfolio page confirms Armadin as a portfolio company (4th independent confirmation). Full co-investor roster captured.'
 - slug: redpoint-ventures
   type: firm
   reason: participated in Armadin Series B $255.5M (2026-10-01)
   added: 2026-10-02
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: Added Armadin Series B row to redpoint-ventures.md Portfolio table — 2026-10-01, participated as a new investor alongside Bain Capital Ventures in the $255.5M Series B at $2.5B+ valuation co-led by a16z and Accel. Added 3 named-footnote citations: [^rp-arm1] TechCrunch, [^rp-arm2] TechStartups (identifies Redpoint specifically as a new investor on the round), [^rp-arm3] a16z announcement.'
 - slug: kleiner-perkins
   type: firm
   reason: participated in Armadin Series B $255.5M (2026-10-01)
