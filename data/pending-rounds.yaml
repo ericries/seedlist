@@ -56,14 +56,6 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
-- title: Armadin raised $255.5M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: Armadin
-  parsed_amount: $255.5M
-  parsed_round: Series B
-  status: pending
 - title: Doxx raised $38M Series A
   url: https://www.axios.com/newsletters/axios-pro-rata
   source: axios-pro-rata
@@ -210,15 +202,6 @@ pending_rounds:
   date_found: '2026-10-01'
   parsed_company: Kevin Mandia’s new ‘agent swarm’ security startup Armadin
   parsed_amount: $255.5M
-  parsed_round: null
-  status: pending
-- title: Satlyt, founded by a former Google and SpaceX product manager, raises $8M
-    to run AI on satellites
-  url: https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/
-  source: techcrunch
-  date_found: '2026-10-01'
-  parsed_company: Satlyt, founded by a former Google and SpaceX product manager,
-  parsed_amount: $8M
   parsed_round: null
   status: pending
 - title: Swedish micromobility company Voi secures €150 million RCF to redeem outstanding
@@ -435,15 +418,6 @@ pending_rounds:
   date_found: '2026-09-29'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future
-    Health
-  url: https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/
-  source: crunchbase
-  date_found: '2026-09-29'
-  parsed_company: Tiny Health
-  parsed_amount: $33M
   parsed_round: null
   status: pending
 - title: London’s Reactive Technologies secures €19 million EIB financing to strengthen
@@ -805,41 +779,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-09-22'
   parsed_company: Besançon-based Lightspring
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Exclusive: Can You Trust That AI Agent? Baselayer Raises $35M To Help Companies
-    Decide'
-  url: https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/
-  source: crunchbase
-  date_found: '2026-09-22'
-  parsed_company: Can You Trust That AI Agent? Baselayer
-  parsed_amount: $35M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/22/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-22-2026/
-  source: alleywatch
-  date_found: '2026-09-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s Metris Energy raises €4.35 million to scale AI platform for managing
-    renewable energy assets
-  url: https://www.eu-startups.com/2026/09/londons-metris-energy-raises-e4-35-million-to-scale-ai-platform-for-managing-renewable-energy-assets/
-  source: eu-startups
-  date_found: '2026-09-21'
-  parsed_company: London’s Metris Energy
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s Unit1 Studio secures €23.3 million to scale avatar concerts beyond
-    the one-venue ABBA Voyage model
-  url: https://www.eu-startups.com/2026/09/londons-unit1-studio-secures-e23-3-million-to-scale-avatar-concerts-beyond-the-one-venue-abba-voyage-model/
-  source: eu-startups
-  date_found: '2026-09-21'
-  parsed_company: London’s Unit1 Studio
   parsed_amount: null
   parsed_round: null
   status: pending

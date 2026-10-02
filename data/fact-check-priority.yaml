@@ -8190,3 +8190,35 @@ priority:
   type: firm
   reason: participated in Daptic Series A $15M (2026-10-01)
   added: 2026-10-01
+- slug: armadin
+  type: startup
+  reason: new profile from round monitoring (2026-10-01) — Series B $255.5M, a16z and Accel led
+  added: 2026-10-02
+- slug: biotia
+  type: startup
+  reason: new profile from round monitoring (2026-10-01) — Venture $9M
+  added: 2026-10-02
+- slug: andreessen-horowitz
+  type: firm
+  reason: co-led Armadin Series B $255.5M (2026-10-01)
+  added: 2026-10-02
+- slug: accel
+  type: firm
+  reason: co-led Armadin Series B $255.5M (2026-10-01)
+  added: 2026-10-02
+- slug: redpoint-ventures
+  type: firm
+  reason: participated in Armadin Series B $255.5M (2026-10-01)
+  added: 2026-10-02
+- slug: kleiner-perkins
+  type: firm
+  reason: participated in Armadin Series B $255.5M (2026-10-01)
+  added: 2026-10-02
+- slug: menlo-ventures
+  type: firm
+  reason: participated in Armadin Series B $255.5M (2026-10-01)
+  added: 2026-10-02
+- slug: gv
+  type: firm
+  reason: participated in Armadin Series B $255.5M (2026-10-01)
+  added: 2026-10-02
