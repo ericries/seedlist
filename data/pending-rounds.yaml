@@ -29,6 +29,66 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Almost All About AI'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct/
+  source: crunchbase
+  date_found: '2026-10-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Nautical And Marine Startups See Stepped-Up Funding
+  url: https://news.crunchbase.com/venture/nautical-marine-startups-funding-grows-defense-robots-clean-energy-saronic/
+  source: crunchbase
+  date_found: '2026-10-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 10/2/2026'
+  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-2-2026/
+  source: alleywatch
+  date_found: '2026-10-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Sept. 28 – Oct. 02)
+  url: https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-sept-28-oct-02/
+  source: eu-startups
+  date_found: '2026-10-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Denmark’s Breye Therapeutics raises €67.5 million to advance oral therapies
+    for early treatment of retinal diseases
+  url: https://www.eu-startups.com/2026/10/denmarks-breye-therapeutics-raises-e67-5-million-to-advance-oral-therapies-for-early-treatment-of-retinal-diseases/
+  source: eu-startups
+  date_found: '2026-10-02'
+  parsed_company: Denmark’s Breye Therapeutics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Berlin-based Kuro raises €10 million to build the AI ​​foundation for general
+    contractors
+  url: https://www.eu-startups.com/2026/10/berlin-based-kuro-raises-e10-million-to-build-the-ai-foundation-for-general-contractors/
+  source: eu-startups
+  date_found: '2026-10-02'
+  parsed_company: Berlin-based Kuro
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Sweden’s Omnio raises €2.9 million to advance its plasminogen-based therapy
+    for hard-to-heal chronic wounds
+  url: https://www.eu-startups.com/2026/10/swedens-omnio-raises-e2-9-million-to-advance-its-plasminogen-based-therapy-for-hard-to-heal-chronic-wounds/
+  source: eu-startups
+  date_found: '2026-10-02'
+  parsed_company: Sweden’s Omnio
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Nuclear Startup Funding Is Up, But The Sector’s Public Markets Take A Bearish
     Turn
   url: https://news.crunchbase.com/clean-tech-and-energy/nuclear-startup-funding-up-public-markets-bearish/
@@ -780,23 +840,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-09-22'
   parsed_company: Leuven-based Spott
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 10 European funding vehicles dedicated to women founders
-  url: https://www.eu-startups.com/2026/09/10-european-funding-vehicles-dedicated-to-woman-founders/
-  source: eu-startups
-  date_found: '2026-09-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Besançon-based Lightspring raises over €3.5 million to industrialise photonic
-    chip packaging
-  url: https://www.eu-startups.com/2026/09/besancon-based-lightspring-raises-over-e3-5-million-to-industrialise-photonic-chip-packaging/
-  source: eu-startups
-  date_found: '2026-09-22'
-  parsed_company: Besançon-based Lightspring
   parsed_amount: null
   parsed_round: null
   status: pending
