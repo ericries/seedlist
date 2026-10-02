@@ -2534,7 +2534,21 @@ vague_facts:
   line: '| Alix | Series A (led, $20M) | 2025-07-22 | Fintech / Estate Settlement | Active | [^23][^24] |'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: SCANNER FALSE POSITIVE — column 5 is the citation Source
+    column in the 6-column Acrew Portfolio table (Company | Stage | Year | Sector | Status | Source), which
+    correctly contains only footnote references [^23][^24]. Row content is fully specific: 2025-07-22 date,
+    $20M Series A, Acrew Capital led. Re-verified 2026-10-01 via 3 independent primary sources: (1) Pulse2
+    "Alix: $20 Million Series A Closed For Transforming Estate Settlement," July 22, 2025 [^23] — WebFetched,
+    confirms $20M Series A on 2025-07-22 led by Acrew Capital with Charles Schwab, Edward Jones Ventures,
+    Initialized Capital, Scribble, Magnify, Ziegler Link•age Funds, and Cameron Ventures participating; total
+    funding to $30.65M; (2) TechCrunch "Chime backer Lauren Kolodny bets on AI to revolutionize estate processing,"
+    July 24, 2025 [^24] — WebFetched, independent tier-1 press confirmation that Lauren Kolodny of Acrew Capital
+    led the $20M Series A; (3) Acrew Capital companies page — WebFetched, first-party confirmation that Alix
+    is in Acrew''s Fintech early-stage portfolio. All sources agree; row remains as-is; scanner is over-flagging
+    the Sources column.'
+  processed: '2026-10-01'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: AltoIRA
@@ -2736,7 +2750,21 @@ vague_facts:
   line: '| Cornerstone AI | Opportunistic round (led, $5M; Initiate Ventures and Healthy Ventures returned; Travis May (Datavant '
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: SCANNER FALSE POSITIVE — column 5 is the citation Source
+    column in the 6-column Acrew Portfolio table (Company | Stage | Year | Sector | Status | Source), which
+    correctly contains only footnote references [^12][^37][^38][^39]. Row content is fully specific: 2024-10-30
+    date, $5M opportunistic round led by Acrew Capital with Initiate Ventures + Healthy Ventures returning
+    and Travis May (Datavant), Web Sun + Arif Nathoo (Komodo Health) participating; total funding to $10M;
+    Vishal Lugani joined board. Re-verified 2026-10-01 via 3 independent primary sources: (1) PRWeb primary
+    company press release "Cornerstone AI Adds Another $5 Million..." dated October 30, 2024 [^37] — WebFetched,
+    confirms $5M opportunistic round on 2024-10-30 led by Acrew Capital, full syndicate list, Vishal Lugani
+    board seat, and leadership transition (Viraj Narayanan to CEO, Michael Elashoff to CSO); (2) HITConsultant
+    "Cornerstone AI Raises $5M for AI-Powered Health Data Cleaning," October 30, 2024 [^38] — WebFetched,
+    independent healthcare-IT press confirmation; (3) The SaaS News, October 30, 2024 [^39] — third independent
+    SaaS-press confirmation. All sources agree; row remains as-is; scanner is over-flagging the Sources column.'
+  processed: '2026-10-01'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Crew
@@ -2836,7 +2864,22 @@ vague_facts:
   line: '| Finix | Series C (led, $75M; co-led with Leap Global + Lightspeed Venture Partners; Citi Ventures + Tribeca Venture Pa'
   priority: high
   type: unknown_value
-  status: pending
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: SCANNER FALSE POSITIVE — column 5 is the citation Source
+    column in the 6-column Acrew Portfolio table (Company | Stage | Year | Sector | Status | Source), which
+    correctly contains only footnote references [^12][^40][^41][^42]. Row content is fully specific: 2024-10-24
+    date, $75M Series C, Acrew Capital led, co-led with Leap Global + Lightspeed Venture Partners; Citi
+    Ventures + Tribeca Venture Partners new; Homebrew, Insight Partners, Inspired Capital, Cap Table Coalition
+    existing; total funding to $208M. Re-verified 2026-10-01 via 3 independent primary sources: (1) Finix
+    primary company press release "Announcing Finix''s $75M Series C," October 24, 2024 [^40] — WebFetched,
+    confirms $75M Series C on 2024-10-24 led by Acrew Capital, co-led by Leap Global and Lightspeed Venture
+    Partners, with Citi Ventures and Tribeca as new investors and Homebrew, Insight Partners, Inspired Capital,
+    Cap Table Coalition existing; includes Vishal Lugani (Acrew Founding GP) quote on no-code offering;
+    (2) GlobeNewswire canonical wire release October 24, 2024 [^41] — WebFetched, independent canonical primary
+    source confirming same facts; (3) FinTech Global October 24, 2024 [^42] — third independent fintech-specialist
+    press confirmation. All sources agree; row remains as-is; scanner is over-flagging the Sources column.'
+  processed: '2026-10-01'
 - profile: firms/acrew-capital
   profile_name: Acrew Capital
   company: Forescout
