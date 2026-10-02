@@ -8262,11 +8262,20 @@ priority:
   type: firm
   reason: participated in Armadin Series B $255.5M (2026-10-01)
   added: 2026-10-02
+  status: resolved
+  resolved: '2026-10-02'
+  resolution_note: 'Fact-spec sweep 2026-10-02: Added Armadin Series B row to kleiner-perkins.md Portfolio table — 2026-10-01, participated as returning investor in $255.5M Series B at $2.5B+ valuation co-led by Andreessen Horowitz and Accel; Bain Capital Ventures and Redpoint joined as new investors; returning backers: 8VC, Ballistic Ventures, GV, In-Q-Tel, Menlo Ventures. Added 3 named-footnote citations: [^kp-arm1] TechCrunch (primary tier-1 — explicitly names Kleiner Perkins in full participant list), [^kp-arm2] TechStartups (independent trade press — explicitly names KP as a "previous backer"), [^kp-arm3] a16z announcement (lead-investor primary). All 3 verified via WebFetch. Same primary triad used across Armadin / Accel / Redpoint / a16z rows.'
 - slug: menlo-ventures
   type: firm
   reason: participated in Armadin Series B $255.5M (2026-10-01)
   added: 2026-10-02
+  status: resolved
+  resolved: '2026-10-02'
+  resolution_note: 'Fact-spec sweep 2026-10-02: Added Armadin Series B row to menlo-ventures.md Portfolio table — 2026-10-01, participated as returning investor in $255.5M Series B at $2.5B+ valuation co-led by Andreessen Horowitz and Accel; Bain Capital Ventures and Redpoint joined as new investors; returning backers: 8VC, Ballistic Ventures, GV, In-Q-Tel, Kleiner Perkins. Added 3 named-footnote citations: [^mv-arm1] TechCrunch (explicitly names Menlo Ventures in full participant list), [^mv-arm2] TechStartups (explicitly names Menlo Ventures as a "previous backer"), [^mv-arm3] a16z announcement. Same primary triad used across the Armadin cross-ref chain.'
 - slug: gv
   type: firm
   reason: participated in Armadin Series B $255.5M (2026-10-01)
   added: 2026-10-02
+  status: resolved
+  resolved: '2026-10-02'
+  resolution_note: 'Fact-spec sweep 2026-10-02: Added Armadin Series B row to gv.md Portfolio table — 2026-10-01, participated as returning investor in $255.5M Series B at $2.5B+ valuation co-led by Andreessen Horowitz and Accel; Bain Capital Ventures and Redpoint joined as new investors; returning backers: 8VC, Ballistic Ventures, In-Q-Tel, Kleiner Perkins, Menlo Ventures. Updated last_verified_investment frontmatter from Encoded Therapeutics Series F (2026-09-09) to Armadin Series B (2026-10-01). Added 3 named-footnote citations: [^gv-arm1] TechCrunch (explicitly names GV in full participant list), [^gv-arm2] TechStartups (explicitly names GV as a "previous backer"), [^gv-arm3] a16z announcement. Same primary triad used across the Armadin cross-ref chain.'
