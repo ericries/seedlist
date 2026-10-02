@@ -123,6 +123,7 @@ Based on 60 verified portfolio companies from the firm's website and aggregator 
 
 | Company | Stage | Year | Sector | Source |
 |---|---|---|---|---|
+| OuterSignal | Series A (co-led with Abstract Ventures; $22M; BAM Ventures, Top Shelf Ventures, SuperAngel.Fund, AME Cloud Ventures, Jerry Yang also participated; agentic personalization for consumer brands) | 2026-09-30 | Consumer AI / Agentic Personalization / Consumer Brands | [^ljv-os1][^ljv-os2][^ljv-os3] |
 | Uber | Angel/Pre-seed | 2010 | Rideshare/logistics | [^4] [^19] |
 | Postmates | Angel | 2012 | Delivery | [^4] [^20] |
 | Affirm | Angel | 2012 | Fintech | [^4] [^21] |
@@ -266,3 +267,9 @@ No independently sourced founder testimonials found from founders outside the Lo
 
 [^oth1]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 8/3/2026," August 3, 2026. Accessed August 2026. https://alleywatch.com/2026/08/the-alleywatch-startup-daily-funding-report-8-3-2026/ — Primary daily funding report naming Long Journey Ventures among Othello's $6.85M seed participants on August 3, 2026.
 [^oth2]: Othello product overview page. Accessed August 2026. https://info.othello.ai/overview — Company primary confirming founder Jared Zelman.
+
+[^ljv-os1]: TechStartups, "OuterSignal raises $22M in funding to bring agentic personalization to consumer brands," September 30, 2026. Accessed October 2, 2026. https://techstartups.com/2026/09/30/outersignal-raises-22m-in-funding-to-bring-agentic-personalization-to-consumer-brands/ — Contemporaneous tech-press source confirming Long Journey Ventures and Abstract Ventures as co-leads of OuterSignal's $22M Series A.
+
+[^ljv-os2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/30/2026," September 30, 2026. Accessed October 2, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-30-2026/ — Independent NYC tech-press confirmation of the Series A co-leads and full co-investor list (BAM Ventures, Top Shelf Ventures, SuperAngel.Fund, AME Cloud Ventures, Jerry Yang).
+
+[^ljv-os3]: OuterSignal company website, accessed October 2, 2026. https://outersignal.com — Primary company source.

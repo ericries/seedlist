@@ -8132,6 +8132,10 @@ priority:
   type: firm
   reason: appeared in Metaview Series C (2026-09-30)
   added: 2026-09-30
+  status: resolved
+  resolved: '2026-10-02'
+  resolution_note: 'Fact-spec sweep 2026-10-02: added Metaview Series C row to gv.md portfolio table — 2026-09-30, $60M led by Insight Partners with GV participating alongside Intrepid Growth Partners, Seedcamp, Vertex Ventures US, Plural, and Garuda Ventures; founders Siadhal Magos (CEO) and Shahriar Tajbakhsh (CTO); London/SF/NY offices; $110M total raised. Added 3 named-footnote citations: [^gv-meta1] Metaview blog (primary company), [^gv-meta2] Axios Pro Rata, [^gv-meta3] Vertex Ventures US portfolio page.'
+  processed: '2026-10-02'
 - slug: valor-equity-partners
   type: firm
   reason: appeared in Flow Engineering Series B (2026-09-30)
@@ -8178,10 +8182,18 @@ priority:
   type: firm
   reason: co-led OuterSignal Series A $22M (2026-09-30)
   added: 2026-10-01
+  status: resolved
+  resolved: '2026-10-02'
+  resolution_note: 'Fact-spec sweep 2026-10-02: added OuterSignal Series A row to long-journey-ventures.md portfolio table — 2026-09-30, $22M co-led by Long Journey Ventures and Abstract Ventures with BAM Ventures, Top Shelf Ventures, SuperAngel.Fund, AME Cloud Ventures, and Jerry Yang participating; agentic personalization for consumer brands. Added 3 named-footnote citations: [^ljv-os1] TechStartups, [^ljv-os2] AlleyWatch daily 9-30, [^ljv-os3] OuterSignal company website.'
+  processed: '2026-10-02'
 - slug: abstract-ventures
   type: firm
   reason: co-led OuterSignal Series A $22M (2026-09-30)
   added: 2026-10-01
+  status: resolved
+  resolved: '2026-10-02'
+  resolution_note: 'Fact-spec sweep 2026-10-02: added OuterSignal Series A row to abstract-ventures.md portfolio table — 2026-09-30, $22M co-led by Abstract Ventures and Long Journey Ventures. Added 3 named-footnote citations: [^av-os1] TechStartups, [^av-os2] AlleyWatch daily 9-30, [^av-os3] OuterSignal company website — same primary triad already cited on the outersignal.md startup profile and long-journey-ventures portfolio row.'
+  processed: '2026-10-02'
 - slug: ame-cloud-ventures
   type: firm
   reason: participated in OuterSignal Series A $22M (2026-09-30)

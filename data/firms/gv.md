@@ -61,9 +61,9 @@ team:
 status: published
 last_researched: 2026-09-11
 last_verified_investment:
-  date: 2026-09-09
-  company: "Encoded Therapeutics"
-  round: "Series F"
+  date: 2026-10-01
+  company: "Armadin"
+  round: "Series B"
 ---
 
 ## About
@@ -106,6 +106,8 @@ Based on GV's verified portfolio and public data:
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| Metaview | Series C (participated; $60M led by Insight Partners; Intrepid Growth Partners, Seedcamp, Vertex Ventures US, Plural, Garuda Ventures also participated; agentic recruiting platform; founders Siadhal Magos CEO + Shahriar Tajbakhsh CTO; London/SF/NY; $110M total raised) | 2026-09-30 | HR Tech / AI / Recruiting / Agentic AI / Enterprise SaaS | Private [^gv-meta1][^gv-meta2][^gv-meta3] |
+| Armadin | Series B (returning investor, $255.5M at $2.5B+ valuation; co-led by Andreessen Horowitz and Accel; Bain Capital Ventures and Redpoint joined as new investors; returning: 8VC, Ballistic Ventures, In-Q-Tel, Kleiner Perkins, Menlo Ventures) | 2026-10-01 | Cybersecurity / AI / AI Agents / Enterprise Security | Private (Kevin Mandia's agentic-swarm red-team startup; follows March 2026 $190M Series A; $445M+ total raised; founders Kevin Mandia (ex-Mandiant), Travis Lanham, Evan Pena, David Slater) [^gv-arm1][^gv-arm2][^gv-arm3] |
 | Uber | Series C | 2013 | Consumer/Mobility | IPO [^1] |
 | Nest | Early | ~2012 | Consumer Hardware | Acquired by Google ($3.2B) [^1] |
 | Slack | Early | ~2014 | Enterprise | IPO [^2] |
@@ -235,3 +237,13 @@ No independently sourced founder testimonials found.
 [^encoded-f2]: Amit Chowdhry, "Encoded Therapeutics Raises $275 Million Series F To Advance Genetic Medicine For Dravet Syndrome," Pulse 2.0, September 10, 2026, accessed September 2026. https://pulse2.com/encoded-therapeutics-raises-275-million-series-f-to-advance-genetic-medicine-for-dravet-syndrome/ — Contemporaneous independent trade press confirmation of $275M Series F co-led by GV.
 
 [^encoded-gv]: GV portfolio page (Encoded Therapeutics listing), accessed September 2026. https://www.gv.com/portfolio — Investor-side confirmation of GV's Encoded Therapeutics holding.
+
+[^gv-meta1]: Siadhal Magos, "Metaview raised an additional $60M to lead the shift to agentic recruiting," Metaview blog, September 30, 2026. Accessed October 2, 2026. https://metaview.ai/resources/blog/metaview-raised-an-additional-60m-to-lead-the-shift-to-agentic-recruiting — Primary company source confirming $60M Series C led by Insight Partners with GV among participants.
+
+[^gv-meta2]: Axios Pro Rata deals brief, September 30, 2026. Accessed October 2, 2026. https://www.axios.com/newsletters/axios-pro-rata — Independent tier-1 business-press source confirming Metaview's $60M Series C and GV among the investor list.
+
+[^gv-meta3]: Vertex Ventures US portfolio page, accessed October 2, 2026. https://www.vvus.com/portfolio — Co-investor primary source listing Metaview as a current portfolio company, confirming the Series C syndicate including GV.
+
+[^gv-arm1]: TechCrunch, "Kevin Mandia's new 'agent swarm' security startup Armadin raises $255.5M at $2.5B valuation," October 1, 2026. Accessed October 2, 2026. https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/ — Primary tier-1 tech press confirming GV (Google Ventures) participated in Armadin's $255.5M Series B at $2.5B+ valuation on October 1, 2026, co-led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, In-Q-Tel, Kleiner Perkins, and Menlo Ventures also participating; follows March 2026 $190M Series A and brings total capital raised to $445M+.
+[^gv-arm2]: TechStartups, "Startup Funding News Today, October 1, 2026: Armadin, Foundational, FRANK, 1club, Osavul & More," October 1, 2026. Accessed October 2, 2026. https://techstartups.com/2026/10/01/startup-funding-news-today-october-1-2026-armadin-foundational-frank-1club-osavul-more/ — Independent trade-press confirmation naming GV among Armadin's "previous backers" participating in the $255.5M Series B at >$2.5B valuation on October 1, 2026, alongside Kleiner Perkins, Menlo Ventures, In-Q-Tel, 8VC, and Ballistic Ventures (Bain Capital Ventures and Redpoint listed as new investors).
+[^gv-arm3]: Andreessen Horowitz, "Investing in Armadin" by David George and Stephenie Zhang, October 1, 2026. Accessed October 2, 2026. https://a16z.com/announcement/investing-in-armadin/ — Lead-investor announcement confirming the October 1, 2026 Series B date and a16z Growth's role led by David George and Stephenie Zhang; names Kevin Mandia, Travis Lanham, Evan Pena, and David Slater as founders.

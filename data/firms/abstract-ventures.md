@@ -76,6 +76,7 @@ The following table represents a small subset of Abstract's 500+ investments. Th
 
 | Company | Stage | Year | Sector | Status |
 |---------|-------|------|--------|--------|
+| OuterSignal | Series A (co-led with Long Journey Ventures; $22M; BAM Ventures, Top Shelf Ventures, SuperAngel.Fund, AME Cloud Ventures, Jerry Yang also participated; agentic personalization for consumer brands) | 2026-09-30 | Consumer AI / Agentic Personalization / Consumer Brands | Private [^av-os1][^av-os2][^av-os3] |
 | Highstock | Series A (participated; $30M led by Andreessen Horowitz; Greylock Partners, Daybreak Ventures also participated; Jeff Jordan advisor; angels Max Mullen, Lenny Rachitsky, JJ Zhuang) | 2026-09-10 | Consumer / Fintech / Investing | Private [^av-hs1][^av-hs2][^av-hs3] |
 | Wise | Seed | ~2016 | Fintech | IPO (2021) [^5] |
 | Rippling | Seed | ~2017 | Enterprise | Active (Unicorn) [^3] |
@@ -244,4 +245,10 @@ Note: The Sacks and Lyons quotes are from co-investors rather than portfolio fou
 [^av-hs2]: Highstock company website, accessed October 1, 2026. https://highstock.com — Primary company source.
 
 [^av-hs3]: AlleyWatch Startup Daily Funding Report, September 14, 2026. Accessed October 1, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-14-2026/ — Contemporaneous tech-press source confirming the Series A composition and Abstract Ventures' participation.
+
+[^av-os1]: TechStartups, "OuterSignal raises $22M in funding to bring agentic personalization to consumer brands," September 30, 2026. Accessed October 2, 2026. https://techstartups.com/2026/09/30/outersignal-raises-22m-in-funding-to-bring-agentic-personalization-to-consumer-brands/ — Contemporaneous tech-press source confirming Abstract Ventures and Long Journey Ventures as co-leads of OuterSignal's $22M Series A.
+
+[^av-os2]: AlleyWatch, "The AlleyWatch Startup Daily Funding Report: 9/30/2026," September 30, 2026. Accessed October 2, 2026. https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-30-2026/ — Independent NYC tech-press confirmation of the Series A co-leads and full co-investor list.
+
+[^av-os3]: OuterSignal company website, accessed October 2, 2026. https://outersignal.com — Primary company source.
 
