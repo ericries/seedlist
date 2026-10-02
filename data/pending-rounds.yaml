@@ -20,6 +20,50 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Nautical And Marine Startups See Stepped-Up Funding
+  url: https://news.crunchbase.com/venture/nautical-marine-startups-funding-grows-defense-robots-clean-energy-saronic/
+  source: crunchbase
+  date_found: '2026-10-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Denmark’s Breye Therapeutics raises €67.5 million to advance oral therapies
+    for early treatment of retinal diseases
+  url: https://www.eu-startups.com/2026/10/denmarks-breye-therapeutics-raises-e67-5-million-to-advance-oral-therapies-for-early-treatment-of-retinal-diseases/
+  source: eu-startups
+  date_found: '2026-10-02'
+  parsed_company: Denmark’s Breye Therapeutics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Berlin-based Kuro raises €10 million to build the AI ​​foundation for general
+    contractors
+  url: https://www.eu-startups.com/2026/10/berlin-based-kuro-raises-e10-million-to-build-the-ai-foundation-for-general-contractors/
+  source: eu-startups
+  date_found: '2026-10-02'
+  parsed_company: Berlin-based Kuro
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Sweden’s Omnio raises €2.9 million to advance its plasminogen-based therapy
+    for hard-to-heal chronic wounds
+  url: https://www.eu-startups.com/2026/10/swedens-omnio-raises-e2-9-million-to-advance-its-plasminogen-based-therapy-for-hard-to-heal-chronic-wounds/
+  source: eu-startups
+  date_found: '2026-10-02'
+  parsed_company: Sweden’s Omnio
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Copenhagen’s Good Tape raises €600k and becomes independent from Zetland;
+    Zendesk co-founder joins board
+  url: https://www.eu-startups.com/2026/10/copenhagens-good-tape-raises-e600k-from-nordic-makers-to-complete-management-buy-out-zendesk-co-founder-joins-board/
+  source: eu-startups
+  date_found: '2026-10-02'
+  parsed_company: Copenhagen’s Good Tape
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Nuclear Startup Funding Is Up, But The Sector’s Public Markets Take A Bearish
     Turn
   url: https://news.crunchbase.com/clean-tech-and-energy/nuclear-startup-funding-up-public-markets-bearish/
