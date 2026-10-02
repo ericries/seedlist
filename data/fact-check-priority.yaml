@@ -7209,6 +7209,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-17: New lean profile for £7M (~€8.7M) Growth round (2026-09-17) led by Northern Gritstone with NPIF II - PXN Equity Finance (PXN Ventures). Sources: (1) Northern Gritstone press release; (2) EU-Startups.'
   added: 2026-09-17
+  status: resolved
+  resolved: '2026-10-02'
+  resolution_note: 'Fact-spec sweep 2026-10-02: verified microlub.md startup profile is complete with 3 primary sources. Growth £7M (~€8.7M) on 2026-09-17 led by Northern Gritstone with NPIF II / PXN Equity Finance (PXN Ventures) and existing investors participating. Original currency preserved (£, with EUR equivalent noted inline). Founders Prof Anwesha Sarkar (Founder) and David Peters (CEO). Captures Northern Gritstone CEO Duncan Johnson quote and CEO David Peters quote. Funding History row properly formatted. No further action on this entry.'
+  processed: '2026-10-02'
 - slug: syte
   type: startup
   reason: 'Round monitoring 2026-09-17: New lean profile for €9M Series A (2026-09-17) led by amberra with NRW.BANK, Schwarz Group companies, HTGF, vent.io, Vantage Value. Sources: (1) syte press release (German); (2) EU-Startups.'
@@ -7623,10 +7627,18 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-21: Luzern Risk $45M Series B (2026-09-21) — led. Portfolio addition candidate.'
   added: 2026-09-21
+  status: resolved
+  resolved: '2026-10-02'
+  resolution_note: 'Fact-spec sweep 2026-10-02: verified insight-partners.md already contains the Luzern Risk Series B row from an earlier sweep. Series B $45M on 2026-09-17 led by Insight Partners with Trust Ventures and Caffeinated Capital (returning) participating. Luzern Risk CEO Gabriel Weiss and CTO Jonathan York. 3 primary sources cited. No new work required.'
+  processed: '2026-10-02'
 - slug: accel
   type: firm
   reason: 'Round monitoring 2026-09-21: Clarion Health $10M Seed (2026-09-21) — led. Portfolio addition candidate.'
   added: 2026-09-21
+  status: resolved
+  resolved: '2026-10-02'
+  resolution_note: 'Fact-spec sweep 2026-10-02: verified accel.md already contains the Clarion Health seed row from an earlier sweep. Seed $10M on 2026-09-21 led by Accel with Y Combinator and Sequoia (scout) participating. Clarion Health co-founders Ryan Gallagher MD (CEO) and Jeffrey Lamothe (CTO); operates as YC W24 (Anaphero), serving tens of thousands of patients monthly. 3 primary sources cited. No new work required.'
+  processed: '2026-10-02'
 - slug: emergence-capital
   type: firm
   reason: 'Round monitoring 2026-09-21: Adaptive $30M Series B (2026-09-17) — participant. Portfolio addition candidate.'
