@@ -6864,6 +6864,10 @@ priority:
   type: firm
   reason: 'Round monitoring 2026-09-14: Participated in Tandem Health $100M Series B (2026-09-14).'
   added: 2026-09-14
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: verified northzone.md already contains the Tandem Health Series B row from an earlier sweep. Series B $100M on 2026-09-14. Row cites 3 primary sources. No new work required.'
+  processed: '2026-10-01'
 - slug: urgentiq
   type: startup
   reason: 'Round monitoring 2026-09-15: New lean profile for $15M Series A (2026-09-11) led by Five Elms Capital. Sources: (1) AlleyWatch daily 9/14/2026; (2) Five Elms Capital portfolio page; (3) UrgentIQ company website.'
@@ -7209,6 +7213,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-17: New lean profile for €9M Series A (2026-09-17) led by amberra with NRW.BANK, Schwarz Group companies, HTGF, vent.io, Vantage Value. Sources: (1) syte press release (German); (2) EU-Startups.'
   added: 2026-09-17
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: verified syte.md startup profile is complete with 3 primary sources. Series A €9M on 2026-09-17. Original currency preserved (€). Funding History row properly formatted with names-only cells and YYYY-MM-DD date. No further action on this entry.'
+  processed: '2026-10-01'
 - slug: comp-ai
   type: startup
   reason: 'Round monitoring 2026-09-17: New lean profile for $34M Series A (2026-09-17) led by Roo Capital and Grand Ventures. Sources: (1) TechCrunch; (2) Comp AI company website.'
@@ -7217,6 +7225,10 @@ priority:
   type: startup
   reason: 'Round monitoring 2026-09-17: New lean profile for £20M (€23M) Series B (2026-09-17) led by Gresham House Ventures with Pembroke VCT and Ingenii Capital. Sources: (1) EU-Startups; (2) Ryft company website.'
   added: 2026-09-17
+  status: resolved
+  resolved: '2026-10-01'
+  resolution_note: 'Fact-spec sweep 2026-10-01: verified ryft.md startup profile is complete with 3 primary sources. Series B £20M (€23M) on 2026-09-17. Original currency preserved (£, with EUR equivalent noted inline). Funding History row properly formatted. No further action on this entry.'
+  processed: '2026-10-01'
 - slug: expanse
   type: startup
   reason: 'Round monitoring 2026-09-17: New lean profile for €4.5M ($5.3M) Seed (2026-09-16) led by Crane Venture Partners with PXN Ventures and AIP Seed. Sources: (1) EU-Startups; (2) Expanse company website.'
