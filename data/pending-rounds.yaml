@@ -29,6 +29,42 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Up to 27 times lower carbon footprint than beef – Edonia raises €15 million
+    for their meat-alternative
+  url: https://www.eu-startups.com/2026/10/up-to-27-times-lower-carbon-footprint-than-beef-edonia-raises-e15-million-for-their-meat-alternative/
+  source: eu-startups
+  date_found: '2026-10-06'
+  parsed_company: Up to 27 times lower carbon footprint than beef – Edonia
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris- and London-based Spiko raises nearly €80 million to help businesses
+    and individuals put idle cash to work
+  url: https://www.eu-startups.com/2026/10/paris-and-london-based-spiko-raises-nearly-e80-million-to-help-businesses-and-individuals-put-idle-cash-to-work/
+  source: eu-startups
+  date_found: '2026-10-06'
+  parsed_company: Paris- and London-based Spiko
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Hamburg’s Procuros raises €20 million Series A to build AI-native infrastructure
+    for autonomous B2B trade
+  url: https://www.eu-startups.com/2026/10/hamburgs-procuros-raises-e20-million-series-a-to-build-ai-native-infrastructure-for-autonomous-b2b-trade/
+  source: eu-startups
+  date_found: '2026-10-06'
+  parsed_company: Hamburg’s Procuros
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Cybersecurity startup Hadrian raises €35.68 million to scale its agentic
+    AI offensive security platform
+  url: https://www.eu-startups.com/2026/10/london-amsterdam-based-hadrian-raises-e35-68-million-to-scale-its-agentic-ai-offensive-security-platform/
+  source: eu-startups
+  date_found: '2026-10-06'
+  parsed_company: Cybersecurity startup Hadrian
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: AnorTech Secures Strategic Cornerstone as Greenland Mines Doubles Stake to
     19.9%
   url: https://www.globenewswire.com/news-release/2026/10/05/3374606/0/en/anortech-secures-strategic-cornerstone-as-greenland-mines-doubles-stake-to-19-9.html
@@ -808,41 +844,5 @@ pending_rounds:
   date_found: '2026-09-24'
   parsed_company: Amsterdam-based Duqu
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Italy’s Clastix raises €2.9 million with Mistral backing to build sovereign
-    Kubernetes infrastructure for Europe
-  url: https://www.eu-startups.com/2026/09/italys-clastix-raises-e2-9-million-with-mistral-backing-to-build-sovereign-kubernetes-infrastructure-for-europe/
-  source: eu-startups
-  date_found: '2026-09-24'
-  parsed_company: Italy’s Clastix
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Reykjavík-based 50skills raises €5.3 million to scale its AI-powered HR workflow
-    automation platform
-  url: https://www.eu-startups.com/2026/09/reykjavik-based-50skills-raises-e5-3-million-to-scale-its-ai-powered-hr-workflow-automation-platform/
-  source: eu-startups
-  date_found: '2026-09-24'
-  parsed_company: Reykjavík-based 50skills
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Cologne-based Metycle secures €131.7 million credit facility to scale secondary
-    copper and aluminium supply
-  url: https://www.eu-startups.com/2026/09/cologne-based-metycle-secures-e131-7-million-credit-facility-to-scale-secondary-copper-and-aluminium-supply/
-  source: eu-startups
-  date_found: '2026-09-24'
-  parsed_company: Cologne-based Metycle
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For
-    Hotel AI Agents'
-  url: https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/
-  source: crunchbase
-  date_found: '2026-09-24'
-  parsed_company: From Booking Calls To Late Check-Ins, Dextr AI
-  parsed_amount: $6.7M
   parsed_round: null
   status: pending
