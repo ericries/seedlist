@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Paris-based WhiteLab Genomics raises €23.2 million to accelerate AI-driven
+    genomic medicine development
+  url: https://www.eu-startups.com/2026/10/paris-based-whitelab-genomics-raises-e23-2-million-to-accelerate-ai-driven-genomic-medicine-development/
+  source: eu-startups
+  date_found: '2026-10-06'
+  parsed_company: Paris-based WhiteLab Genomics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: AnorTech Secures Strategic Cornerstone as Greenland Mines Doubles Stake to
     19.9%
   url: https://www.globenewswire.com/news-release/2026/10/05/3374606/0/en/anortech-secures-strategic-cornerstone-as-greenland-mines-doubles-stake-to-19-9.html
@@ -835,13 +844,5 @@ pending_rounds:
   date_found: '2026-09-24'
   parsed_company: From Booking Calls To Late Check-Ins, Dextr AI
   parsed_amount: $6.7M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/24/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-24-2026/
-  source: alleywatch
-  date_found: '2026-09-24'
-  parsed_company: null
-  parsed_amount: null
   parsed_round: null
   status: pending
