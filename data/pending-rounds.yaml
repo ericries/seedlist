@@ -56,6 +56,49 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Etched fields funding offers at $40B+ valuation, sources say
+  url: https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/
+  source: techcrunch
+  date_found: '2026-10-05'
+  parsed_company: null
+  parsed_amount: $40B
+  parsed_round: null
+  status: pending
+- title: At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal
+    AI
+  url: https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/
+  source: techcrunch
+  date_found: '2026-10-05'
+  parsed_company: At 19, founder
+  parsed_amount: $11M
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 10/5/2026'
+  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-5-2026/
+  source: alleywatch
+  date_found: '2026-10-05'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 10/5/26'
+  url: https://alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-5-26/
+  source: alleywatch
+  date_found: '2026-10-05'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: FashionTech startup Rodinia Generation aims to save 100 billion litres of
+    water annually, secures €4 million
+  url: https://www.eu-startups.com/2026/10/fashiontech-startup-rodinia-generation-aims-to-save-100-billion-litres-of-water-annually-secures-e4-million/
+  source: eu-startups
+  date_found: '2026-10-05'
+  parsed_company: FashionTech startup Rodinia Generation aims to save 100 billion
+    litres of water annually,
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Copenhagen’s Good Tape raises €600k and becomes independent from Zetland;
     Zendesk co-founder joins board
   url: https://www.eu-startups.com/2026/10/copenhagens-good-tape-raises-e600k-from-nordic-makers-to-complete-management-buy-out-zendesk-co-founder-joins-board/
@@ -800,48 +843,5 @@ pending_rounds:
   date_found: '2026-09-24'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Berlin-based mika raises €6 million to scale its AI-native alternative to
-    traditional tax firms
-  url: https://www.eu-startups.com/2026/09/berlin-based-mika-raises-e6-million-to-scale-its-ai-native-alternative-to-traditional-tax-firms/
-  source: eu-startups
-  date_found: '2026-09-23'
-  parsed_company: Berlin-based mika
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Jumbo-Sized Series A Rounds Are On The Rise
-  url: https://news.crunchbase.com/venture/megaround-seriesa-ai-chips-robotics-2026/
-  source: crunchbase
-  date_found: '2026-09-23'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: EU and EIB launch launch institutional investor pact to tackle Europe’s scale-up
-    funding gap
-  url: https://www.eu-startups.com/2026/09/eu-and-eib-launch-launch-institutional-investor-pact-to-tackle-europes-scale-up-funding-gap/
-  source: eu-startups
-  date_found: '2026-09-23'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Stockholm’s Spiich raises €3 million to let AI handle admin work while sales
-    teams focus on customers
-  url: https://www.eu-startups.com/2026/09/stockholms-spiich-raises-e3-million-to-let-ai-handle-admin-work-while-sales-teams-focus-on-customers/
-  source: eu-startups
-  date_found: '2026-09-23'
-  parsed_company: Stockholm’s Spiich
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Ema raises $77M as AI starts eating into enterprise software and services
-  url: https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/
-  source: techcrunch
-  date_found: '2026-09-23'
-  parsed_company: Ema
-  parsed_amount: $77M
   parsed_round: null
   status: pending
