@@ -73,6 +73,40 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders
+    ‘elsewhere’
+  url: https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/
+  source: techcrunch
+  date_found: '2026-10-07'
+  parsed_company: While VCs crowd into San Francisco, Endeavor Catalyst
+  parsed_amount: $320M
+  parsed_round: null
+  status: pending
+- title: Healthleap raises $38M for its AI that flags hospital patients who may need
+    a closer look
+  url: https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/
+  source: techcrunch
+  date_found: '2026-10-07'
+  parsed_company: Healthleap
+  parsed_amount: $38M
+  parsed_round: null
+  status: pending
+- title: Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing
+  url: https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/
+  source: techcrunch
+  date_found: '2026-10-07'
+  parsed_company: Bloom
+  parsed_amount: $3.6M
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 10/7/2026'
+  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-7-2026/
+  source: alleywatch
+  date_found: '2026-10-07'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Paris-based WhiteLab Genomics raises €23.2 million to accelerate AI-driven
     genomic medicine development
   url: https://www.eu-startups.com/2026/10/paris-based-whitelab-genomics-raises-e23-2-million-to-accelerate-ai-driven-genomic-medicine-development/
@@ -815,37 +849,5 @@ pending_rounds:
   date_found: '2026-09-25'
   parsed_company: OpenEvidence
   parsed_amount: $250M
-  parsed_round: null
-  status: pending
-- title: Solcoa Industries raised $45M equity
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-25'
-  parsed_company: Solcoa Industries
-  parsed_amount: $45M
-  parsed_round: Equity
-  status: pending
-- title: and Dylan Field. It also raised $30M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-25'
-  parsed_company: and Dylan Field. It also
-  parsed_amount: $30M
-  parsed_round: null
-  status: pending
-- title: Ando raised $20M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-25'
-  parsed_company: Ando
-  parsed_amount: $20M
-  parsed_round: null
-  status: pending
-- title: skills raised $6M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-25'
-  parsed_company: skills
-  parsed_amount: $6M
   parsed_round: null
   status: pending
