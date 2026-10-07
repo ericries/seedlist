@@ -65,6 +65,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 10/6/2026'
+  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-6-2026/
+  source: alleywatch
+  date_found: '2026-10-06'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: AnorTech Secures Strategic Cornerstone as Greenland Mines Doubles Stake to
     19.9%
   url: https://www.globenewswire.com/news-release/2026/10/05/3374606/0/en/anortech-secures-strategic-cornerstone-as-greenland-mines-doubles-stake-to-19-9.html
@@ -834,15 +842,6 @@ pending_rounds:
   source: crunchbase
   date_found: '2026-09-24'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Amsterdam-based Duqu raises €1.5 million to unlock cash tied up in unpaid
-    invoices
-  url: https://www.eu-startups.com/2026/09/amsterdam-based-duqu-raises-e1-5-million-to-unlock-cash-tied-up-in-unpaid-invoices/
-  source: eu-startups
-  date_found: '2026-09-24'
-  parsed_company: Amsterdam-based Duqu
   parsed_amount: null
   parsed_round: null
   status: pending
