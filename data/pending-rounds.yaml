@@ -29,6 +29,58 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: China’s Manus raises over $500M in first funding round since split with Meta
+  url: https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/
+  source: techcrunch
+  date_found: '2026-10-08'
+  parsed_company: China’s Manus
+  parsed_amount: $500M
+  parsed_round: null
+  status: pending
+- title: Vesta raises $30M to bring swarms of agents to mortgage lenders
+  url: https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
+  source: techcrunch
+  date_found: '2026-10-08'
+  parsed_company: Vesta
+  parsed_amount: $30M
+  parsed_round: null
+  status: pending
+- title: Universal Quantum secures UK’s largest quantum Series A with €89 million
+    to scale modular quantum computers
+  url: https://www.eu-startups.com/2026/10/universal-quantum-secures-uks-largest-quantum-series-a-with-e89-million-to-scale-modular-quantum-computers/
+  source: eu-startups
+  date_found: '2026-10-08'
+  parsed_company: Universal Quantum
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Limassol-based NeoFleet Capital raises €3.5 million to finance taxi fleets
+    across emerging markets
+  url: https://www.eu-startups.com/2026/10/limassol-based-neofleet-capital-raises-e3-5-million-to-finance-taxi-fleets-across-emerging-markets/
+  source: eu-startups
+  date_found: '2026-10-08'
+  parsed_company: Limassol-based NeoFleet Capital
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s IMMIX secures €3.12 million to build FX infrastructure for stablecoin
+    payments beyond the US dollar
+  url: https://www.eu-startups.com/2026/10/londons-immix-secures-e3-12-million-to-build-fx-infrastructure-for-stablecoin-payments-beyond-the-us-dollar/
+  source: eu-startups
+  date_found: '2026-10-08'
+  parsed_company: London’s IMMIX
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Copenhagen’s TODAY raises €2.8 million to bring compliant AI agents to financial
+    and insurance advisors
+  url: https://www.eu-startups.com/2026/10/copenhagens-today-raises-e2-8-million-to-bring-compliant-ai-agents-to-financial-and-insurance-advisors/
+  source: eu-startups
+  date_found: '2026-10-08'
+  parsed_company: Copenhagen’s TODAY
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'From Ballet To Breach Prevention: How A Magician’s Son Raised $4.2M In Seed
     Funding For His Cybersecurity Startup'
   url: https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/
@@ -801,54 +853,4 @@ pending_rounds:
   parsed_company: Erad
   parsed_amount: $22M
   parsed_round: Series A
-  status: pending
-- title: Bluerock Acquisition II raised $150M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-28'
-  parsed_company: Bluerock Acquisition II
-  parsed_amount: $150M
-  parsed_round: null
-  status: pending
-- title: one week after postponing an offering that would have raised $825M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-28'
-  parsed_company: one week after postponing an offering that would have
-  parsed_amount: $825M
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 9/28/26'
-  url: https://alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-28-26/
-  source: alleywatch
-  date_found: '2026-09-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take
-    The Lead'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/
-  source: crunchbase
-  date_found: '2026-09-25'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/25/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-25-2026/
-  source: alleywatch
-  date_found: '2026-09-25'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (Sept. 21 – Sept. 25)
-  url: https://www.eu-startups.com/2026/09/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-sept-21-sept-25/
-  source: eu-startups
-  date_found: '2026-09-25'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
   status: pending
