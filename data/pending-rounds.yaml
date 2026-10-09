@@ -20,6 +20,59 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Navios Maritime Holdings Inc. Launches Cash Tender Offer at $12.00 Per Share
+    to Purchase Any and All Outstanding Series G and Series H American Depositary
+    Shares
+  url: https://www.globenewswire.com/news-release/2026/10/09/3378138/0/en/navios-maritime-holdings-inc-launches-cash-tender-offer-at-12-00-per-share-to-purchase-any-and-all-outstanding-series-g-and-series-h-american-depositary-shares.html
+  source: globenewswire
+  date_found: '2026-10-09'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell
+  url: https://news.crunchbase.com/venture/q3-2026-active-investors-kept-deal-pace-a16z-insight-sequoia/
+  source: crunchbase
+  date_found: '2026-10-09'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'Starfunding: 10 of Europe’s biggest celebrity-backed startup deals'
+  url: https://www.eu-startups.com/2026/10/10-of-europes-biggest-celebrity-backed-startup-deals/
+  source: eu-startups
+  date_found: '2026-10-09'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Sava raises €32.08 million and partners with Ascensia to bring its
+    glucose microsensor to Europe
+  url: https://www.eu-startups.com/2026/10/londons-sava-raises-e32-08-million-and-partners-with-ascensia-to-bring-its-glucose-microsensor-to-europe/
+  source: eu-startups
+  date_found: '2026-10-09'
+  parsed_company: London’s Sava
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Zurich’s Klarent raises €7.13 million to scale its agentic software testing
+    platform and expand into the US
+  url: https://www.eu-startups.com/2026/10/zurichs-klarent-raises-e7-13-million-to-scale-its-agentic-software-testing-platform-and-expand-into-the-us/
+  source: eu-startups
+  date_found: '2026-10-09'
+  parsed_company: Zurich’s Klarent
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Bern-based Besso raises €4.29 million to scale its AI-powered trade regulation
+    intelligence platform
+  url: https://www.eu-startups.com/2026/10/bern-based-besso-raises-e4-29-million-to-scale-its-ai-powered-trade-regulation-intelligence-platform/
+  source: eu-startups
+  date_found: '2026-10-09'
+  parsed_company: Bern-based Besso
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: German female-founded startup Finches raises €2 million to bring AI early
     warnings to agricultural sourcing
   url: https://www.eu-startups.com/2026/10/bavarias-female-founded-startup-finches-raises-e2-million-to-bring-ai-early-warnings-to-agricultural-procurement/
@@ -801,56 +854,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-09-28'
   parsed_company: Estonia’s bilt.me
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Viral AI agent Instinct raises $1B Series C at a $10B valuation
-  url: https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/
-  source: techcrunch
-  date_found: '2026-09-28'
-  parsed_company: Viral AI agent Instinct
-  parsed_amount: $1B
-  parsed_round: Series C
-  status: pending
-- title: Ocean surveillance startup Quartermaster raises another $140M
-  url: https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/
-  source: techcrunch
-  date_found: '2026-09-28'
-  parsed_company: Ocean surveillance startup Quartermaster
-  parsed_amount: $140M
-  parsed_round: null
-  status: pending
-- title: Helsingborg’s conversation AI startup Klang raises €1.32 million and releases
-    open speech-to-text model for Swedish
-  url: https://www.eu-startups.com/2026/09/helsingborgs-conversation-ai-startup-klang-raises-e1-32-million-and-releases-open-speech-to-text-model-for-swedish/
-  source: eu-startups
-  date_found: '2026-09-28'
-  parsed_company: Helsingborg’s conversation AI startup Klang
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Insuretech Outmarket raises $34.5M just months after prior round
-  url: https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/
-  source: techcrunch
-  date_found: '2026-09-28'
-  parsed_company: Insuretech Outmarket
-  parsed_amount: $34.5M
-  parsed_round: null
-  status: pending
-- title: Maritime intelligenc startup Quartermaster raises another $140M
-  url: https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/
-  source: techcrunch
-  date_found: '2026-09-28'
-  parsed_company: Maritime intelligenc startup Quartermaster
-  parsed_amount: $140M
-  parsed_round: null
-  status: pending
-- title: Combat-tested in Ukraine, DOD Solution raises €1.8 million to scale AI autonomy
-    for unmanned systems
-  url: https://www.eu-startups.com/2026/09/combat-tested-in-ukraine-dod-solution-raises-e1-8-million-to-scale-ai-autonomy-for-unmanned-systems/
-  source: eu-startups
-  date_found: '2026-09-28'
-  parsed_company: Combat-tested in Ukraine, DOD Solution
   parsed_amount: null
   parsed_round: null
   status: pending
