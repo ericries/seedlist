@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Gaius Capital closes debut fund at €50 million, raises another €6 million
+    via co-investment vehicle
+  url: https://www.eu-startups.com/2026/10/gaius-capital-closes-debut-fund-at-e50-million-raises-another-e6-million-via-co-investment-vehicle/
+  source: eu-startups
+  date_found: '2026-10-12'
+  parsed_company: Gaius Capital
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Profitable French scale-up Wiremind raises €35 million after 12 years of
+    bootstrapping
+  url: https://www.eu-startups.com/2026/10/profitable-french-scale-up-wiremind-raises-e35-million-after-12-years-of-bootstrapping/
+  source: eu-startups
+  date_found: '2026-10-12'
+  parsed_company: Profitable French scale-up Wiremind
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Navios Maritime Holdings Inc. Launches Cash Tender Offer at $12.00 Per Share
     to Purchase Any and All Outstanding Series G and Series H American Depositary
     Shares
@@ -838,22 +856,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-09-29'
   parsed_company: Paris-based Marble
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: a16z-backed EliseAI raises $350M, doubles valuation to $4B
-  url: https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/
-  source: techcrunch
-  date_found: '2026-09-29'
-  parsed_company: a16z-backed EliseAI
-  parsed_amount: $350M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/29/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-29-2026/
-  source: alleywatch
-  date_found: '2026-09-29'
-  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
