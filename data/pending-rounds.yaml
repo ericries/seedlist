@@ -38,6 +38,23 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Former Plaud exec raises $26M for AI app that listens to you in the background
+  url: https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/
+  source: techcrunch
+  date_found: '2026-10-12'
+  parsed_company: Former Plaud exec
+  parsed_amount: $26M
+  parsed_round: null
+  status: pending
+- title: HyLight raises €13 million for its autonomous airships inspecting Europe’s
+    critical infrastructure
+  url: https://www.eu-startups.com/2026/10/hylight-raises-e13-million-for-its-autonomous-airships-inspecting-europes-critical-infrastructure/
+  source: eu-startups
+  date_found: '2026-10-12'
+  parsed_company: HyLight
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Navios Maritime Holdings Inc. Launches Cash Tender Offer at $12.00 Per Share
     to Purchase Any and All Outstanding Series G and Series H American Depositary
     Shares
@@ -838,24 +855,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-09-29'
   parsed_company: Paris-based Rayon
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Luxembourg’s ANote Music raises €2 million to transform music royalties into
-    an accessible asset class
-  url: https://www.eu-startups.com/2026/09/luxembourgs-anote-music-raises-e2-million-to-transform-music-royalties-into-an-accessible-asset-class/
-  source: eu-startups
-  date_found: '2026-09-29'
-  parsed_company: Luxembourg’s ANote Music
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Paris-based Marble raises €6.5 million to automate fraud and AML compliance
-    with its no-code, open-source platform
-  url: https://www.eu-startups.com/2026/09/paris-based-marble-raises-e6-5-million-to-automate-fraud-and-aml-compliance-with-its-no-code-open-source-platform/
-  source: eu-startups
-  date_found: '2026-09-29'
-  parsed_company: Paris-based Marble
   parsed_amount: null
   parsed_round: null
   status: pending
