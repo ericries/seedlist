@@ -38,6 +38,31 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Pluto Security raises $42M as AI gives enterprise security teams a new headache
+  url: https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/
+  source: techcrunch
+  date_found: '2026-10-13'
+  parsed_company: Pluto Security
+  parsed_amount: $42M
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 10/13/2026'
+  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-13-2026/
+  source: alleywatch
+  date_found: '2026-10-13'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Obsero raises €1 million to help brands improve visibility in AI-powered
+    search
+  url: https://www.eu-startups.com/2026/10/londons-obsero-raises-e1-million-to-help-brands-improve-visibility-in-ai-powered-search/
+  source: eu-startups
+  date_found: '2026-10-13'
+  parsed_company: London’s Obsero
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Gaius Capital closes debut fund at €50 million, raises another €6 million
     via co-investment vehicle
   url: https://www.eu-startups.com/2026/10/gaius-capital-closes-debut-fund-at-e50-million-raises-another-e6-million-via-co-investment-vehicle/
@@ -833,28 +858,4 @@ pending_rounds:
   parsed_company: Dorm Room Fund
   parsed_amount: $50M
   parsed_round: null
-  status: pending
-- title: Rising Point Capital raised $325M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-30'
-  parsed_company: Rising Point Capital
-  parsed_amount: $325M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 9/30/2026'
-  url: https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-30-2026/
-  source: alleywatch
-  date_found: '2026-09-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort
-  url: https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/
-  source: techcrunch
-  date_found: '2026-09-29'
-  parsed_company: null
-  parsed_amount: $5M
-  parsed_round: Seed
   status: pending
