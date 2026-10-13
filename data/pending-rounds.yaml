@@ -20,6 +20,24 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Vienna-based reebuild raises €3 million to build the AI operating system
+    for construction and real estate
+  url: https://www.eu-startups.com/2026/10/vienna-based-reebuild-raises-e3-million-to-build-the-ai-operating-system-for-construction-and-real-estate/
+  source: eu-startups
+  date_found: '2026-10-13'
+  parsed_company: Vienna-based reebuild
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris-based CarbonFarm raises €7 million to tackle methane emissions from
+    rice farming
+  url: https://www.eu-startups.com/2026/10/paris-based-carbonfarm-raises-e7-million-to-tackle-methane-emissions-from-rice-farming/
+  source: eu-startups
+  date_found: '2026-10-13'
+  parsed_company: Paris-based CarbonFarm
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Gaius Capital closes debut fund at €50 million, raises another €6 million
     via co-investment vehicle
   url: https://www.eu-startups.com/2026/10/gaius-capital-closes-debut-fund-at-e50-million-raises-another-e6-million-via-co-investment-vehicle/
@@ -839,20 +857,4 @@ pending_rounds:
   parsed_company: null
   parsed_amount: $5M
   parsed_round: Seed
-  status: pending
-- title: Reco raises $55M as AI agent security startups crowd the market
-  url: https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/
-  source: techcrunch
-  date_found: '2026-09-29'
-  parsed_company: Reco
-  parsed_amount: $55M
-  parsed_round: null
-  status: pending
-- title: Ex-Tesla team raises $12.5M to put supply chains on autopilot
-  url: https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/
-  source: techcrunch
-  date_found: '2026-09-29'
-  parsed_company: Ex-Tesla team
-  parsed_amount: $12.5M
-  parsed_round: null
   status: pending
