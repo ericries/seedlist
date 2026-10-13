@@ -55,6 +55,22 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 10/12/2026'
+  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-12-2026/
+  source: alleywatch
+  date_found: '2026-10-12'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 10/12/26'
+  url: https://alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-12-26/
+  source: alleywatch
+  date_found: '2026-10-12'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Navios Maritime Holdings Inc. Launches Cash Tender Offer at $12.00 Per Share
     to Purchase Any and All Outstanding Series G and Series H American Depositary
     Shares
@@ -838,23 +854,5 @@ pending_rounds:
   date_found: '2026-09-29'
   parsed_company: Ex-Tesla team
   parsed_amount: $12.5M
-  parsed_round: null
-  status: pending
-- title: Germany’s Reverion raises €154.2 million to scale production of power plants
-    that generate electricity from gas
-  url: https://www.eu-startups.com/2026/09/germanys-reverion-raises-e154-2-million-to-scale-production-of-power-plants-that-generate-electricity-from-gas/
-  source: eu-startups
-  date_found: '2026-09-29'
-  parsed_company: Germany’s Reverion
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Paris-based Rayon raises €10 million to build the drawing layer for interior
-    design’s AI era
-  url: https://www.eu-startups.com/2026/09/paris-based-rayon-raises-e10-million-to-build-the-drawing-layer-for-interior-designs-ai-era/
-  source: eu-startups
-  date_found: '2026-09-29'
-  parsed_company: Paris-based Rayon
-  parsed_amount: null
   parsed_round: null
   status: pending
