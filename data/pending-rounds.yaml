@@ -20,6 +20,51 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Scimplify raises $25M to challenge China’s grip on critical materials with
+    AI
+  url: https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/
+  source: techcrunch
+  date_found: '2026-10-14'
+  parsed_company: Scimplify
+  parsed_amount: $25M
+  parsed_round: null
+  status: pending
+- title: 'Exclusive: Stella & Dot Founder Raises $5M For Her Next Act, AI Marketing
+    Startup Marklo'
+  url: https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/
+  source: crunchbase
+  date_found: '2026-10-14'
+  parsed_company: Stella & Dot Founder
+  parsed_amount: $5M
+  parsed_round: null
+  status: pending
+- title: Helsinki’s Ambio raises €5.1 million to scale its AI-powered recycled plastics
+    procurement platform
+  url: https://www.eu-startups.com/2026/10/helsinkis-ambio-raises-e5-1-million-to-scale-its-ai-powered-recycled-plastics-procurement-platform/
+  source: eu-startups
+  date_found: '2026-10-14'
+  parsed_company: Helsinki’s Ambio
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Spain’s full-stack quantum computing company Qilimanjaro Quantum Tech completes
+    €19.6 million Series A first close
+  url: https://www.eu-startups.com/2026/10/barcelonas-full-stack-quantum-computing-company-qilimanjaro-quantum-tech-completes-e19-6-million-first-close-of-its-series-a/
+  source: eu-startups
+  date_found: '2026-10-14'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Warsaw’s Coding Giants secures up to €6 million to expand its STEM education
+    platform beyond Europe
+  url: https://www.eu-startups.com/2026/10/warsaws-coding-giants-secures-up-to-e6-million-to-expand-its-stem-education-platform-beyond-europe/
+  source: eu-startups
+  date_found: '2026-10-14'
+  parsed_company: Warsaw’s Coding Giants
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Vienna-based reebuild raises €3 million to build the AI operating system
     for construction and real estate
   url: https://www.eu-startups.com/2026/10/vienna-based-reebuild-raises-e3-million-to-build-the-ai-operating-system-for-construction-and-real-estate/
@@ -818,44 +863,4 @@ pending_rounds:
   parsed_company: Kanu AI
   parsed_amount: $11.7M
   parsed_round: Seed
-  status: pending
-- title: Zenithon raised $10M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-30'
-  parsed_company: Zenithon
-  parsed_amount: $10M
-  parsed_round: null
-  status: pending
-- title: Beltic raised $8.8M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-30'
-  parsed_company: Beltic
-  parsed_amount: $8.8M
-  parsed_round: null
-  status: pending
-- title: Elio Mortgage raised $5.1M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-30'
-  parsed_company: Elio Mortgage
-  parsed_amount: $5.1M
-  parsed_round: null
-  status: pending
-- title: Cotierra raised $3M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-30'
-  parsed_company: Cotierra
-  parsed_amount: $3M
-  parsed_round: null
-  status: pending
-- title: Dorm Room Fund raised $50M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-30'
-  parsed_company: Dorm Room Fund
-  parsed_amount: $50M
-  parsed_round: null
   status: pending
