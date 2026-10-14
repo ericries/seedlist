@@ -65,6 +65,33 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the
+    workplace
+  url: https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/
+  source: techcrunch
+  date_found: '2026-10-14'
+  parsed_company: Zenzap
+  parsed_amount: $44M
+  parsed_round: null
+  status: pending
+- title: New unicorn alert! Skeleton Technologies lands multi-million funding to expand
+    AI infrastructure in the US
+  url: https://www.eu-startups.com/2026/10/new-unicorn-alert-estonias-skeleton-technologies-lands-multi-million-funding-to-expand-ai-infrastructure-in-the-us/
+  source: eu-startups
+  date_found: '2026-10-14'
+  parsed_company: New unicorn alert! Skeleton Technologies
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: FLÆ Robotics raises over €1 million in Seed funding to develop its AI hospitality
+    agent
+  url: https://www.eu-startups.com/2026/10/flae-robotics-raises-over-e1-million-in-seed-funding-to-develop-its-ai-hospitality-agent/
+  source: eu-startups
+  date_found: '2026-10-14'
+  parsed_company: FLÆ Robotics
+  parsed_amount: null
+  parsed_round: Seed
+  status: pending
 - title: Vienna-based reebuild raises €3 million to build the AI operating system
     for construction and real estate
   url: https://www.eu-startups.com/2026/10/vienna-based-reebuild-raises-e3-million-to-build-the-ai-operating-system-for-construction-and-real-estate/
@@ -839,28 +866,4 @@ pending_rounds:
   parsed_company: Miter
   parsed_amount: $40M
   parsed_round: Series B
-  status: pending
-- title: HyperGuest raised $25M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-30'
-  parsed_company: HyperGuest
-  parsed_amount: $25M
-  parsed_round: null
-  status: pending
-- title: Proximal raised $15M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-30'
-  parsed_company: Proximal
-  parsed_amount: $15M
-  parsed_round: Seed
-  status: pending
-- title: Kanu AI raised $11.7M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-09-30'
-  parsed_company: Kanu AI
-  parsed_amount: $11.7M
-  parsed_round: Seed
   status: pending
