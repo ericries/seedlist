@@ -29,6 +29,42 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden
+    Fees And Hard-To-Cancel Subscriptions'
+  url: https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/
+  source: crunchbase
+  date_found: '2026-10-15'
+  parsed_company: Chariot
+  parsed_amount: $10M
+  parsed_round: null
+  status: pending
+- title: Vilnius-based Holo raises €5 million to put marketing on autopilot for small
+    businesses
+  url: https://www.eu-startups.com/2026/10/vilnius-based-holo-raises-e5-million-to-put-marketing-on-autopilot-for-small-businesses/
+  source: eu-startups
+  date_found: '2026-10-15'
+  parsed_company: Vilnius-based Holo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Oslo-based AI-native engineering firm Solvera raises €5.62 million pre-Seed
+    after July 2026 launch
+  url: https://www.eu-startups.com/2026/10/oslo-based-ai-native-engineering-firm-solvera-raises-e5-62-million-pre-seed-after-july-2026-launch/
+  source: eu-startups
+  date_found: '2026-10-15'
+  parsed_company: Oslo-based AI-native engineering firm Solvera
+  parsed_amount: null
+  parsed_round: Pre-Seed
+  status: pending
+- title: Profitable French accounting company Dougs raises €50 million to accelerate
+    AI automation
+  url: https://www.eu-startups.com/2026/10/profitable-french-accounting-company-dougs-raises-e50-million-to-accelerate-ai-automation/
+  source: eu-startups
+  date_found: '2026-10-15'
+  parsed_company: Profitable French accounting company Dougs
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Scimplify raises $25M to challenge China’s grip on critical materials with
     AI
   url: https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/
@@ -830,41 +866,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-09-30'
   parsed_company: Swedish micromobility company Voi
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Amsterdam’s preventive HealthTech Blue Health Intelligence raises €3.4 million
-    to expand across Europe
-  url: https://www.eu-startups.com/2026/09/amsterdam-based-preventive-healthtech-blue-health-intelligence-raises-e3-4-million-to-expand-across-europe/
-  source: eu-startups
-  date_found: '2026-09-30'
-  parsed_company: Amsterdam’s preventive HealthTech Blue Health Intelligence
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Helsinki-based KHOY raises €2 million to take its vacuum-packed sofa beds
-    across Europe and the US
-  url: https://www.eu-startups.com/2026/09/helsinki-based-khoy-raises-e2-million-to-take-its-vacuum-packed-sofa-beds-across-europe-and-the-us/
-  source: eu-startups
-  date_found: '2026-09-30'
-  parsed_company: Helsinki-based KHOY
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Everphone secures €15 million to finance new devices for corporate customers
-  url: https://www.eu-startups.com/2026/09/everphone-secures-e15-million-to-finance-new-devices-for-corporate-customers/
-  source: eu-startups
-  date_found: '2026-09-30'
-  parsed_company: Everphone
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Paris-based Inbolt raises €11 million to give industrial robots real-time
-    vision and intelligence
-  url: https://www.eu-startups.com/2026/09/paris-based-inbolt-raises-e11-million-to-give-industrial-robots-real-time-vision-and-intelligence/
-  source: eu-startups
-  date_found: '2026-09-30'
-  parsed_company: Paris-based Inbolt
   parsed_amount: null
   parsed_round: null
   status: pending
