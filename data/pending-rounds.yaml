@@ -65,6 +65,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: German AI startup Elevatry secures €3 million to automate procurement workflows
+  url: https://www.eu-startups.com/2026/10/german-ai-startup-elevatry-secures-e3-million-to-automate-procurement-workflows/
+  source: eu-startups
+  date_found: '2026-10-15'
+  parsed_company: German AI startup Elevatry
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Scimplify raises $25M to challenge China’s grip on critical materials with
     AI
   url: https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/
@@ -858,14 +866,5 @@ pending_rounds:
   date_found: '2026-10-01'
   parsed_company: Kevin Mandia’s new ‘agent swarm’ security startup Armadin
   parsed_amount: $255.5M
-  parsed_round: null
-  status: pending
-- title: Swedish micromobility company Voi secures €150 million RCF to redeem outstanding
-    bonds and scale its fleet
-  url: https://www.eu-startups.com/2026/09/swedish-micromobility-company-voi-secures-e150-million-rcf-to-redeem-outstanding-bonds-and-scale-its-fleet/
-  source: eu-startups
-  date_found: '2026-09-30'
-  parsed_company: Swedish micromobility company Voi
-  parsed_amount: null
   parsed_round: null
   status: pending
