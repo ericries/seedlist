@@ -64,6 +64,87 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Oct. 12 – Oct. 16)
+  url: https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-12-oct-16/
+  source: eu-startups
+  date_found: '2026-10-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Estuary Biotherapeutics raised $103M seed and Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-10-16'
+  parsed_company: Estuary Biotherapeutics
+  parsed_amount: $103M
+  parsed_round: Seed And Series A
+  status: pending
+- title: Stand raised $70M Series C
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-10-16'
+  parsed_company: Stand
+  parsed_amount: $70M
+  parsed_round: Series C
+  status: pending
+- title: Rabot Energy raised $50M Series B
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-10-16'
+  parsed_company: Rabot Energy
+  parsed_amount: $50M
+  parsed_round: Series B
+  status: pending
+- title: Holyvolt raised $45M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-10-16'
+  parsed_company: Holyvolt
+  parsed_amount: $45M
+  parsed_round: null
+  status: pending
+- title: Fission raised $10M Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-10-16'
+  parsed_company: Fission
+  parsed_amount: $10M
+  parsed_round: Series A
+  status: pending
+- title: Solvera raised $6.3M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-10-16'
+  parsed_company: Solvera
+  parsed_amount: $6.3M
+  parsed_round: null
+  status: pending
+- title: Shamrock AI raised $5M seed
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-10-16'
+  parsed_company: Shamrock AI
+  parsed_amount: $5M
+  parsed_round: Seed
+  status: pending
+- title: Aldaron raised $885M
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-10-16'
+  parsed_company: Aldaron
+  parsed_amount: $885M
+  parsed_round: null
+  status: pending
+- title: u003e raised $103M seed and Series A
+  url: https://www.axios.com/newsletters/axios-pro-rata
+  source: axios-pro-rata
+  date_found: '2026-10-16'
+  parsed_company: u003e
+  parsed_amount: $103M
+  parsed_round: Seed And Series A
+  status: pending
 - title: Nauta secures €60 million first close for sixth fund to back European software
     and DeepTech startups
   url: https://www.eu-startups.com/2026/10/nauta-secures-e60-million-first-close-for-sixth-fund-to-back-european-software-and-deeptech-startups/
@@ -787,84 +868,4 @@ pending_rounds:
   parsed_company: ArkeaBio
   parsed_amount: $15M
   parsed_round: Series A Extension
-  status: pending
-- title: Hop Aero raised $11M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: Hop Aero
-  parsed_amount: $11M
-  parsed_round: null
-  status: pending
-- title: Destro AI raised $8M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: Destro AI
-  parsed_amount: $8M
-  parsed_round: Seed
-  status: pending
-- title: Southport Acquisition II raised $200M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: Southport Acquisition II
-  parsed_amount: $200M
-  parsed_round: null
-  status: pending
-- title: Ares Management raised $4.2B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: Ares Management
-  parsed_amount: $4.2B
-  parsed_round: null
-  status: pending
-- title: Headline raised $400M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: Headline
-  parsed_amount: $400M
-  parsed_round: null
-  status: pending
-- title: Investcorp raised $1.22B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: Investcorp
-  parsed_amount: $1.22B
-  parsed_round: null
-  status: pending
-- title: Stride Consumer Partners of Boston raised $550M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: Stride Consumer Partners of Boston
-  parsed_amount: $550M
-  parsed_round: null
-  status: pending
-- title: TPG raised $10B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: TPG
-  parsed_amount: $10B
-  parsed_round: null
-  status: pending
-- title: of Boston raised $550M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: of Boston
-  parsed_amount: $550M
-  parsed_round: null
-  status: pending
-- title: u003eof Boston raised $550M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: u003eof Boston
-  parsed_amount: $550M
-  parsed_round: null
   status: pending
