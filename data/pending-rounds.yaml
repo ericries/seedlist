@@ -145,6 +145,15 @@ pending_rounds:
   parsed_amount: $103M
   parsed_round: Seed And Series A
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven
+    Startup Batch'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/
+  source: crunchbase
+  date_found: '2026-10-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Nauta secures €60 million first close for sixth fund to back European software
     and DeepTech startups
   url: https://www.eu-startups.com/2026/10/nauta-secures-e60-million-first-close-for-sixth-fund-to-back-european-software-and-deeptech-startups/
@@ -860,12 +869,4 @@ pending_rounds:
   parsed_company: Doxx
   parsed_amount: $38M
   parsed_round: Series A
-  status: pending
-- title: ArkeaBio raised $15M Series A extension
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: ArkeaBio
-  parsed_amount: $15M
-  parsed_round: Series A Extension
   status: pending
