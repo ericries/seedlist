@@ -20,6 +20,50 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Asia’s Startup Funding At Near Record High In Q3, Driven By AI
+  url: https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/
+  source: crunchbase
+  date_found: '2026-10-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Norwegian open banking provider Neonomics secures €3.56 million after cutting
+    operating costs by nearly half
+  url: https://www.eu-startups.com/2026/10/norwegian-open-banking-provider-neonomics-secures-e3-56-million-after-cutting-operating-costs-by-nearly-half/
+  source: eu-startups
+  date_found: '2026-10-16'
+  parsed_company: Norwegian open banking provider Neonomics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Unravel Health raises €2.96 million to help women track hormones
+    at home with a palm-sized lab
+  url: https://www.eu-startups.com/2026/10/londons-unravel-health-raises-e2-96-million-to-help-women-track-hormones-at-home-with-a-palm-sized-lab/
+  source: eu-startups
+  date_found: '2026-10-16'
+  parsed_company: London’s Unravel Health
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Dublin-based LearnUpon secures €44.5 million to scale its agentic learning
+    platform
+  url: https://www.eu-startups.com/2026/10/dublin-based-learnupon-secures-e44-5-million-to-scale-its-agentic-learning-platform/
+  source: eu-startups
+  date_found: '2026-10-16'
+  parsed_company: Dublin-based LearnUpon
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager
+    for SMBs
+  url: https://www.eu-startups.com/2026/10/strasbourg-founded-goodweek-raises-e10-69-million-to-become-the-ai-manager-for-smbs/
+  source: eu-startups
+  date_found: '2026-10-16'
+  parsed_company: Strasbourg-founded Goodweek
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Nauta secures €60 million first close for sixth fund to back European software
     and DeepTech startups
   url: https://www.eu-startups.com/2026/10/nauta-secures-e60-million-first-close-for-sixth-fund-to-back-european-software-and-deeptech-startups/
@@ -823,47 +867,4 @@ pending_rounds:
   parsed_company: u003eof Boston
   parsed_amount: $550M
   parsed_round: null
-  status: pending
-- title: u003e raised $255.5M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: u003e
-  parsed_amount: $255.5M
-  parsed_round: Series B
-  status: pending
-- title: 'Exclusive: Homeward Raises $120M To Help Homeowners Buy And Sell More Quickly
-    As Housing Market Stalls'
-  url: https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/
-  source: crunchbase
-  date_found: '2026-10-01'
-  parsed_company: Homeward
-  parsed_amount: $120M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/1/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-1-2026/
-  source: alleywatch
-  date_found: '2026-10-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: AI sales startup Revnu raises €2.6 million to build team and accelerate international
-    growth
-  url: https://www.eu-startups.com/2026/10/ai-sales-startup-revnu-raises-e2-6-million-to-build-team-and-accelerate-international-growth/
-  source: eu-startups
-  date_found: '2026-10-01'
-  parsed_company: AI sales startup Revnu
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Sagimet Biosciences Announces Closing of Underwritten Offering of Series
-    A Common Stock and Pre-Funded Warrants
-  url: https://www.globenewswire.com/news-release/2026/10/01/3373424/0/en/sagimet-biosciences-announces-closing-of-underwritten-offering-of-series-a-common-stock-and-pre-funded-warrants.html
-  source: globenewswire
-  date_found: '2026-10-01'
-  parsed_company: Sagimet Biosciences
-  parsed_amount: null
-  parsed_round: Series A
   status: pending
