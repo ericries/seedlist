@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The Weekly Notable Startup Funding Report: 10/19/26'
+  url: https://alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-19-26/
+  source: alleywatch
+  date_found: '2026-10-18'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Asia’s Startup Funding At Near Record High In Q3, Driven By AI
   url: https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/
   source: crunchbase
@@ -861,12 +869,4 @@ pending_rounds:
   parsed_company: Sofia-based LAUNCHub Ventures
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Doxx raised $38M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-01'
-  parsed_company: Doxx
-  parsed_amount: $38M
-  parsed_round: Series A
   status: pending
