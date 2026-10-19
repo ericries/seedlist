@@ -20,6 +20,32 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region
+  url: https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/
+  source: crunchbase
+  date_found: '2026-10-19'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Valencia-based Linkener raises €7.5 million to digitise and optimise energy
+    management for businesses
+  url: https://www.eu-startups.com/2026/10/valencia-based-linkener-raises-e7-5-million-to-digitise-and-optimise-energy-management-for-businesses/
+  source: eu-startups
+  date_found: '2026-10-19'
+  parsed_company: Valencia-based Linkener
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Amsterdam’s Huppa raises €1 million to build an operating system for class-based
+    gyms and studios
+  url: https://www.eu-startups.com/2026/10/amsterdams-huppa-raises-e1-million-to-build-an-operating-system-for-class-based-gyms-and-studios/
+  source: eu-startups
+  date_found: '2026-10-19'
+  parsed_company: Amsterdam’s Huppa
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 10/19/26'
   url: https://alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-19-26/
   source: alleywatch
@@ -840,33 +866,6 @@ pending_rounds:
   source: crunchbase
   date_found: '2026-10-01'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s Metaview raises €53.1 million Series C led by Insight Partners to
-    scale its agentic recruiting platform
-  url: https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/
-  source: eu-startups
-  date_found: '2026-10-01'
-  parsed_company: London’s Metaview
-  parsed_amount: null
-  parsed_round: Series C
-  status: pending
-- title: The EU-Startups Podcast | Our Interview Series from A5X Singapore, in Partnership
-    with NUSX
-  url: https://www.eu-startups.com/2026/10/the-eu-startups-podcast-our-interview-series-from-a5x-singapore-in-partnership-with-nusx/
-  source: eu-startups
-  date_found: '2026-10-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Sofia-based LAUNCHub Ventures secures €65 million first close of Fund III;
-    targets €75 million+
-  url: https://www.eu-startups.com/2026/10/sofia-based-launchub-ventures-secures-e65-million-first-close-of-fund-iii-targets-e75-million/
-  source: eu-startups
-  date_found: '2026-10-01'
-  parsed_company: Sofia-based LAUNCHub Ventures
   parsed_amount: null
   parsed_round: null
   status: pending
