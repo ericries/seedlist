@@ -82,6 +82,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Transport for biological material helps Cellbox raise a €5 million Series
+    A
+  url: https://www.eu-startups.com/2026/10/container-for-biological-material-helps-cellbox-raise-a-e5-million-series-a/
+  source: eu-startups
+  date_found: '2026-10-20'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region
   url: https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/
   source: crunchbase
@@ -858,15 +867,6 @@ pending_rounds:
   date_found: '2026-10-05'
   parsed_company: FashionTech startup Rodinia Generation aims to save 100 billion
     litres of water annually,
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Copenhagen’s Good Tape raises €600k and becomes independent from Zetland;
-    Zendesk co-founder joins board
-  url: https://www.eu-startups.com/2026/10/copenhagens-good-tape-raises-e600k-from-nordic-makers-to-complete-management-buy-out-zendesk-co-founder-joins-board/
-  source: eu-startups
-  date_found: '2026-10-02'
-  parsed_company: Copenhagen’s Good Tape
   parsed_amount: null
   parsed_round: null
   status: pending
