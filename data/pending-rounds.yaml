@@ -20,6 +20,68 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Otter.ai raises $320 million from General Catalyst’s growth fund for its
+    meeting tool
+  url: https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/
+  source: techcrunch
+  date_found: '2026-10-20'
+  parsed_company: Otter.ai
+  parsed_amount: $320M
+  parsed_round: null
+  status: pending
+- title: Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer
+  url: https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/
+  source: crunchbase
+  date_found: '2026-10-20'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Espoo’s Coherence Quantum raises €2.78 million to build infrastructure for
+    larger quantum computers
+  url: https://www.eu-startups.com/2026/10/espoo-based-coherence-quantum-raises-e2-78-million-to-build-infrastructure-for-larger-quantum-computers/
+  source: eu-startups
+  date_found: '2026-10-20'
+  parsed_company: Espoo’s Coherence Quantum
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: EU-Startups identifies 20 startups among 77 projects selected for €3.4 billion
+    net-zero funding
+  url: https://www.eu-startups.com/2026/10/eu-startups-identifies-20-startups-among-77-projects-selected-for-e3-4-billion-net-zero-funding/
+  source: eu-startups
+  date_found: '2026-10-20'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Emerald secures €1.66 million to scale its preventive healthcare
+    platform
+  url: https://www.eu-startups.com/2026/10/londons-emerald-secures-e1-66-million-to-scale-its-preventive-healthcare-platform/
+  source: eu-startups
+  date_found: '2026-10-20'
+  parsed_company: London’s Emerald
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London-based “Surgical Intelligence” company XRlabs raises €7.48 million
+    to bring AI into the operating room
+  url: https://www.eu-startups.com/2026/10/london-based-surgical-intelligence-company-xrlabs-raises-e7-48-million-to-bring-ai-into-the-operating-room/
+  source: eu-startups
+  date_found: '2026-10-20'
+  parsed_company: London-based “Surgical Intelligence” company XRlabs
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Copenhagen’s Plinto raises €2.9 million to help finance teams catch and fix
+    errors with AI agents
+  url: https://www.eu-startups.com/2026/10/copenhagens-plinto-raises-e2-9-million-to-help-finance-teams-catch-and-fix-errors-with-ai-agents/
+  source: eu-startups
+  date_found: '2026-10-20'
+  parsed_company: Copenhagen’s Plinto
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region
   url: https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/
   source: crunchbase
@@ -805,66 +867,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-10-02'
   parsed_company: Copenhagen’s Good Tape
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: Almost All About AI'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct/
-  source: crunchbase
-  date_found: '2026-10-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Nautical And Marine Startups See Stepped-Up Funding
-  url: https://news.crunchbase.com/venture/nautical-marine-startups-funding-grows-defense-robots-clean-energy-saronic/
-  source: crunchbase
-  date_found: '2026-10-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/2/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-2-2026/
-  source: alleywatch
-  date_found: '2026-10-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (Sept. 28 – Oct. 02)
-  url: https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-sept-28-oct-02/
-  source: eu-startups
-  date_found: '2026-10-02'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Denmark’s Breye Therapeutics raises €67.5 million to advance oral therapies
-    for early treatment of retinal diseases
-  url: https://www.eu-startups.com/2026/10/denmarks-breye-therapeutics-raises-e67-5-million-to-advance-oral-therapies-for-early-treatment-of-retinal-diseases/
-  source: eu-startups
-  date_found: '2026-10-02'
-  parsed_company: Denmark’s Breye Therapeutics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Berlin-based Kuro raises €10 million to build the AI ​​foundation for general
-    contractors
-  url: https://www.eu-startups.com/2026/10/berlin-based-kuro-raises-e10-million-to-build-the-ai-foundation-for-general-contractors/
-  source: eu-startups
-  date_found: '2026-10-02'
-  parsed_company: Berlin-based Kuro
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Sweden’s Omnio raises €2.9 million to advance its plasminogen-based therapy
-    for hard-to-heal chronic wounds
-  url: https://www.eu-startups.com/2026/10/swedens-omnio-raises-e2-9-million-to-advance-its-plasminogen-based-therapy-for-hard-to-heal-chronic-wounds/
-  source: eu-startups
-  date_found: '2026-10-02'
-  parsed_company: Sweden’s Omnio
   parsed_amount: null
   parsed_round: null
   status: pending
