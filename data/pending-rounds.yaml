@@ -91,6 +91,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 10/20/2026'
+  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-20-2026/
+  source: alleywatch
+  date_found: '2026-10-20'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region
   url: https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/
   source: crunchbase
@@ -857,16 +865,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-10-05'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: FashionTech startup Rodinia Generation aims to save 100 billion litres of
-    water annually, secures €4 million
-  url: https://www.eu-startups.com/2026/10/fashiontech-startup-rodinia-generation-aims-to-save-100-billion-litres-of-water-annually-secures-e4-million/
-  source: eu-startups
-  date_found: '2026-10-05'
-  parsed_company: FashionTech startup Rodinia Generation aims to save 100 billion
-    litres of water annually,
   parsed_amount: null
   parsed_round: null
   status: pending
