@@ -72,6 +72,30 @@ pending_rounds:
   parsed_amount: $34M
   parsed_round: null
   status: pending
+- title: Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation
+  url: https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/
+  source: techcrunch
+  date_found: '2026-10-21'
+  parsed_company: Year-old AI lab Flapping Airplanes
+  parsed_amount: $1B
+  parsed_round: null
+  status: pending
+- title: Legal AI startup Legora raises $550M Series E at $8.8B valuation
+  url: https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/
+  source: techcrunch
+  date_found: '2026-10-21'
+  parsed_company: Legal AI startup Legora
+  parsed_amount: $550M
+  parsed_round: Series E
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 10/21/2026'
+  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-21-2026/
+  source: alleywatch
+  date_found: '2026-10-21'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Otter.ai raises $320 million from General Catalyst’s growth fund for its
     meeting tool
   url: https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/
@@ -840,32 +864,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-10-06'
   parsed_company: Cybersecurity startup Hadrian
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/6/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-6-2026/
-  source: alleywatch
-  date_found: '2026-10-06'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: AnorTech Secures Strategic Cornerstone as Greenland Mines Doubles Stake to
-    19.9%
-  url: https://www.globenewswire.com/news-release/2026/10/05/3374606/0/en/anortech-secures-strategic-cornerstone-as-greenland-mines-doubles-stake-to-19-9.html
-  source: globenewswire
-  date_found: '2026-10-05'
-  parsed_company: AnorTech
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Namespace secures €37 million to scale coding, build and test infrastructure
-    across Mac, Windows and Linux
-  url: https://www.eu-startups.com/2026/10/namespace-secures-e37-million-to-scale-coding-build-and-test-infrastructure-across-mac-windows-and-linux/
-  source: eu-startups
-  date_found: '2026-10-05'
-  parsed_company: Namespace
   parsed_amount: null
   parsed_round: null
   status: pending
