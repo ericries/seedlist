@@ -20,6 +20,32 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In
+    Years
+  url: https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/
+  source: crunchbase
+  date_found: '2026-10-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Lisbon’s Beyond Vision raises over €28 million to scale AI drones for civilian
+    and defence markets
+  url: https://www.eu-startups.com/2026/10/lisbons-beyond-vision-raises-over-e28-million-to-scale-ai-drones-for-civilian-and-defence-markets/
+  source: eu-startups
+  date_found: '2026-10-22'
+  parsed_company: Lisbon’s Beyond Vision
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Is the UK leading Europe’s startup funding race? Yes, but there’s a catch
+  url: https://www.eu-startups.com/2026/10/is-the-uk-leading-europes-startup-funding-race-yes-but-theres-a-catch/
+  source: eu-startups
+  date_found: '2026-10-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Eindhoven-based Photon Bridge raises €10 million to build optical engines
     for AI and telecom
   url: https://www.eu-startups.com/2026/10/eindhoven-based-photon-bridge-raises-e10-million-to-build-optical-engines-for-ai-and-telecom/
@@ -837,33 +863,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-10-06'
   parsed_company: Up to 27 times lower carbon footprint than beef – Edonia
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Paris- and London-based Spiko raises nearly €80 million to help businesses
-    and individuals put idle cash to work
-  url: https://www.eu-startups.com/2026/10/paris-and-london-based-spiko-raises-nearly-e80-million-to-help-businesses-and-individuals-put-idle-cash-to-work/
-  source: eu-startups
-  date_found: '2026-10-06'
-  parsed_company: Paris- and London-based Spiko
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Hamburg’s Procuros raises €20 million Series A to build AI-native infrastructure
-    for autonomous B2B trade
-  url: https://www.eu-startups.com/2026/10/hamburgs-procuros-raises-e20-million-series-a-to-build-ai-native-infrastructure-for-autonomous-b2b-trade/
-  source: eu-startups
-  date_found: '2026-10-06'
-  parsed_company: Hamburg’s Procuros
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Cybersecurity startup Hadrian raises €35.68 million to scale its agentic
-    AI offensive security platform
-  url: https://www.eu-startups.com/2026/10/london-amsterdam-based-hadrian-raises-e35-68-million-to-scale-its-agentic-ai-offensive-security-platform/
-  source: eu-startups
-  date_found: '2026-10-06'
-  parsed_company: Cybersecurity startup Hadrian
   parsed_amount: null
   parsed_round: null
   status: pending
