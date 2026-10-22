@@ -46,6 +46,48 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Investors break down how founders can raise a Series A today
+  url: https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/
+  source: techcrunch
+  date_found: '2026-10-22'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Nirva raises $33M for a pendant that only listens to you
+  url: https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/
+  source: techcrunch
+  date_found: '2026-10-22'
+  parsed_company: Nirva
+  parsed_amount: $33M
+  parsed_round: null
+  status: pending
+- title: DeepSeek reportedly raises $15B days after US restrictions
+  url: https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/
+  source: techcrunch
+  date_found: '2026-10-22'
+  parsed_company: DeepSeek reportedly
+  parsed_amount: $15B
+  parsed_round: null
+  status: pending
+- title: 'Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For
+    Those Small Policies Sold At Checkout'
+  url: https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/
+  source: crunchbase
+  date_found: '2026-10-22'
+  parsed_company: Slingshot
+  parsed_amount: $27M
+  parsed_round: Seed
+  status: pending
+- title: Amsterdam’s Indurex raises €7 million to strengthen cybersecurity and safety
+    across cyber-physical systems
+  url: https://www.eu-startups.com/2026/10/amsterdams-indurex-raises-e7-million-to-strengthen-cybersecurity-and-safety-across-cyber-physical-systems/
+  source: eu-startups
+  date_found: '2026-10-22'
+  parsed_company: Amsterdam’s Indurex
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Eindhoven-based Photon Bridge raises €10 million to build optical engines
     for AI and telecom
   url: https://www.eu-startups.com/2026/10/eindhoven-based-photon-bridge-raises-e10-million-to-build-optical-engines-for-ai-and-telecom/
@@ -821,48 +863,5 @@ pending_rounds:
   date_found: '2026-10-07'
   parsed_company: While VCs crowd into San Francisco, Endeavor Catalyst
   parsed_amount: $320M
-  parsed_round: null
-  status: pending
-- title: Healthleap raises $38M for its AI that flags hospital patients who may need
-    a closer look
-  url: https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/
-  source: techcrunch
-  date_found: '2026-10-07'
-  parsed_company: Healthleap
-  parsed_amount: $38M
-  parsed_round: null
-  status: pending
-- title: Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing
-  url: https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/
-  source: techcrunch
-  date_found: '2026-10-07'
-  parsed_company: Bloom
-  parsed_amount: $3.6M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/7/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-7-2026/
-  source: alleywatch
-  date_found: '2026-10-07'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Paris-based WhiteLab Genomics raises €23.2 million to accelerate AI-driven
-    genomic medicine development
-  url: https://www.eu-startups.com/2026/10/paris-based-whitelab-genomics-raises-e23-2-million-to-accelerate-ai-driven-genomic-medicine-development/
-  source: eu-startups
-  date_found: '2026-10-06'
-  parsed_company: Paris-based WhiteLab Genomics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Up to 27 times lower carbon footprint than beef – Edonia raises €15 million
-    for their meat-alternative
-  url: https://www.eu-startups.com/2026/10/up-to-27-times-lower-carbon-footprint-than-beef-edonia-raises-e15-million-for-their-meat-alternative/
-  source: eu-startups
-  date_found: '2026-10-06'
-  parsed_company: Up to 27 times lower carbon footprint than beef – Edonia
-  parsed_amount: null
   parsed_round: null
   status: pending
