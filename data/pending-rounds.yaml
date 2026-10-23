@@ -20,6 +20,32 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Milan’s Phononic Vibes secures €25 million to expand noise control tech already
+    in service with Deutsche Bahn and in Mercedes-Benz
+  url: https://www.eu-startups.com/2026/10/milans-phononic-vibes-secures-e25-million-to-expand-noise-control-tech-already-in-service-with-deutsche-bahn-and-in-mercedes-benz/
+  source: eu-startups
+  date_found: '2026-10-23'
+  parsed_company: Milan’s Phononic Vibes
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: The European startups defending Ukraine in 2026, and the VCs funding them
+  url: https://www.eu-startups.com/2026/10/the-european-startups-defending-ukraine-in-2026-and-the-vcs-funding-them/
+  source: eu-startups
+  date_found: '2026-10-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Portuguese EdTech Intuitivo raises €1.35 million to ease teachers’ workload
+    and expand into Brazil
+  url: https://www.eu-startups.com/2026/10/portuguese-edtech-intuitivo-raises-e1-35-million-to-ease-teachers-workload-and-expand-into-brazil/
+  source: eu-startups
+  date_found: '2026-10-23'
+  parsed_company: Portuguese EdTech Intuitivo
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In
     Years
   url: https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/
@@ -833,33 +859,6 @@ pending_rounds:
   source: crunchbase
   date_found: '2026-10-07'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: French startup VoltR secures €22 million to scale lithium battery remanufacturing
-    in Europe
-  url: https://www.eu-startups.com/2026/10/french-startup-voltr-secures-e22-million-to-scale-lithium-battery-remanufacturing-in-europe/
-  source: eu-startups
-  date_found: '2026-10-07'
-  parsed_company: French startup VoltR
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: France- and Italy-based Netsec raises over €8.93 million to scale its AI-native
-    solution for cybersecurity and IT
-  url: https://www.eu-startups.com/2026/10/france-and-italy-based-netsec-raises-over-e8-93-million-to-scale-its-ai-native-solution-for-cybersecurity-and-it/
-  source: eu-startups
-  date_found: '2026-10-07'
-  parsed_company: France- and Italy-based Netsec
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: UK-based InsurTech Konsileo raises €5.9 million to expand its team and integrate
-    AI
-  url: https://www.eu-startups.com/2026/10/uk-based-insurtech-konsileo-raises-e5-9-million-to-expand-its-team-and-integrate-ai/
-  source: eu-startups
-  date_found: '2026-10-07'
-  parsed_company: UK-based InsurTech Konsileo
   parsed_amount: null
   parsed_round: null
   status: pending
