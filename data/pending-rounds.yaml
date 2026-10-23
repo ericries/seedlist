@@ -55,6 +55,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large
+    Financings'
+  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/
+  source: crunchbase
+  date_found: '2026-10-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In
     Years
   url: https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/
@@ -853,13 +862,4 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: 'From Ballet To Breach Prevention: How A Magician’s Son Raised $4.2M In Seed
-    Funding For His Cybersecurity Startup'
-  url: https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/
-  source: crunchbase
-  date_found: '2026-10-07'
-  parsed_company: null
-  parsed_amount: $4.2M
-  parsed_round: Seed
   status: pending
