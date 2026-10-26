@@ -64,6 +64,39 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Series A
   status: pending
+- title: This startup’s self-driving excavators help dig up $600M in new funding
+  url: https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/
+  source: techcrunch
+  date_found: '2026-10-26'
+  parsed_company: null
+  parsed_amount: $600M
+  parsed_round: null
+  status: pending
+- title: Matiks raises $10M to expand its math and puzzle gaming platform
+  url: https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/
+  source: techcrunch
+  date_found: '2026-10-26'
+  parsed_company: Matiks
+  parsed_amount: $10M
+  parsed_round: null
+  status: pending
+- title: The AlleyWatch September 2026 New York Venture Capital Funding Report
+  url: https://alleywatch.com/2026/10/new-york-venture-capital-september-2026/
+  source: alleywatch
+  date_found: '2026-10-26'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: WealthTech startup Nevis secures €62 million to automate financial advisory
+    workflows with AI
+  url: https://www.eu-startups.com/2026/10/wealthtech-startup-nevis-secures-e62-million-to-automate-financial-advisory-workflows-with-ai/
+  source: eu-startups
+  date_found: '2026-10-26'
+  parsed_company: WealthTech startup Nevis
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Milan’s Phononic Vibes secures €25 million to expand noise control tech already
     in service with Deutsche Bahn and in Mercedes-Benz
   url: https://www.eu-startups.com/2026/10/milans-phononic-vibes-secures-e25-million-to-expand-noise-control-tech-already-in-service-with-deutsche-bahn-and-in-mercedes-benz/
@@ -827,39 +860,5 @@ pending_rounds:
   date_found: '2026-10-09'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Monte Carlo Capital raises €13 million for Fund II to invest in early-stage
-    DeepTech, AI and SpaceTech
-  url: https://www.eu-startups.com/2026/10/monte-carlo-capital-raises-e13-million-for-fund-ii-to-invest-in-early-stage-deeptech-ai-and-spacetech/
-  source: eu-startups
-  date_found: '2026-10-09'
-  parsed_company: Monte Carlo Capital
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: German female-founded startup Finches raises €2 million to bring AI early
-    warnings to agricultural sourcing
-  url: https://www.eu-startups.com/2026/10/bavarias-female-founded-startup-finches-raises-e2-million-to-bring-ai-early-warnings-to-agricultural-procurement/
-  source: eu-startups
-  date_found: '2026-10-08'
-  parsed_company: German female-founded startup Finches
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: China’s Manus raises over $500M in first funding round since split with Meta
-  url: https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/
-  source: techcrunch
-  date_found: '2026-10-08'
-  parsed_company: China’s Manus
-  parsed_amount: $500M
-  parsed_round: null
-  status: pending
-- title: Vesta raises $30M to bring swarms of agents to mortgage lenders
-  url: https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
-  source: techcrunch
-  date_found: '2026-10-08'
-  parsed_company: Vesta
-  parsed_amount: $30M
   parsed_round: null
   status: pending
