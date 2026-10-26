@@ -20,6 +20,50 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The Weekly Notable Startup Funding Report: 10/26/26'
+  url: https://alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-26-26/
+  source: alleywatch
+  date_found: '2026-10-26'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Italy’s Z_One Fund secures over €35 million at first close to back AI and
+    UrbanTech startups
+  url: https://www.eu-startups.com/2026/10/italys-z_one-fund-secures-over-e35-million-at-first-close-to-back-ai-and-urbantech-startups/
+  source: eu-startups
+  date_found: '2026-10-26'
+  parsed_company: Italy’s Z_One Fund
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Finland’s Volare raises €7.1 million and opens 5,000-tonne insect protein
+    factory
+  url: https://www.eu-startups.com/2026/10/finlands-volare-raises-e7-1-million-and-opens-5000-tonne-insect-protein-factory/
+  source: eu-startups
+  date_found: '2026-10-26'
+  parsed_company: Finland’s Volare
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Lausanne’s Sonexos raises €5.4 million to tackle low-frequency noise from
+    fans, compressors and even data centres
+  url: https://www.eu-startups.com/2026/10/lausannes-sonexos-raises-e5-4-million-to-tackle-low-frequency-noise-from-fans-compressors-and-even-data-centres/
+  source: eu-startups
+  date_found: '2026-10-26'
+  parsed_company: Lausanne’s Sonexos
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Frankfurt’s QuoIntelligence lands backing from ex-German finance minister
+    Christian Lindner months after €7.3 million Series A
+  url: https://www.eu-startups.com/2026/10/frankfurts-quointelligence-secures-backing-from-ex-german-finance-minister-christian-lindner-months-after-e7-3-million-series-a/
+  source: eu-startups
+  date_found: '2026-10-26'
+  parsed_company: Frankfurt’s QuoIntelligence
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
 - title: Milan’s Phononic Vibes secures €25 million to expand noise control tech already
     in service with Deutsche Bahn and in Mercedes-Benz
   url: https://www.eu-startups.com/2026/10/milans-phononic-vibes-secures-e25-million-to-expand-noise-control-tech-already-in-service-with-deutsche-bahn-and-in-mercedes-benz/
@@ -817,49 +861,5 @@ pending_rounds:
   date_found: '2026-10-08'
   parsed_company: Vesta
   parsed_amount: $30M
-  parsed_round: null
-  status: pending
-- title: Universal Quantum secures UK’s largest quantum Series A with €89 million
-    to scale modular quantum computers
-  url: https://www.eu-startups.com/2026/10/universal-quantum-secures-uks-largest-quantum-series-a-with-e89-million-to-scale-modular-quantum-computers/
-  source: eu-startups
-  date_found: '2026-10-08'
-  parsed_company: Universal Quantum
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Limassol-based NeoFleet Capital raises €3.5 million to finance taxi fleets
-    across emerging markets
-  url: https://www.eu-startups.com/2026/10/limassol-based-neofleet-capital-raises-e3-5-million-to-finance-taxi-fleets-across-emerging-markets/
-  source: eu-startups
-  date_found: '2026-10-08'
-  parsed_company: Limassol-based NeoFleet Capital
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s IMMIX secures €3.12 million to build FX infrastructure for stablecoin
-    payments beyond the US dollar
-  url: https://www.eu-startups.com/2026/10/londons-immix-secures-e3-12-million-to-build-fx-infrastructure-for-stablecoin-payments-beyond-the-us-dollar/
-  source: eu-startups
-  date_found: '2026-10-08'
-  parsed_company: London’s IMMIX
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Copenhagen’s TODAY raises €2.8 million to bring compliant AI agents to financial
-    and insurance advisors
-  url: https://www.eu-startups.com/2026/10/copenhagens-today-raises-e2-8-million-to-bring-compliant-ai-agents-to-financial-and-insurance-advisors/
-  source: eu-startups
-  date_found: '2026-10-08'
-  parsed_company: Copenhagen’s TODAY
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/8/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-8-2026/
-  source: alleywatch
-  date_found: '2026-10-08'
-  parsed_company: null
-  parsed_amount: null
   parsed_round: null
   status: pending
