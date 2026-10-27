@@ -64,6 +64,39 @@ pending_rounds:
   parsed_amount: null
   parsed_round: Pre-Seed
   status: pending
+- title: Re:Build, which spun out Slate Auto, raises $2.1B
+  url: https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/
+  source: techcrunch
+  date_found: '2026-10-27'
+  parsed_company: Re:Build, which spun out Slate Auto,
+  parsed_amount: $2.1B
+  parsed_round: null
+  status: pending
+- title: Disruptive raises $10B fund to make big bets on at least 10 companies
+  url: https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/
+  source: techcrunch
+  date_found: '2026-10-27'
+  parsed_company: Disruptive
+  parsed_amount: $10B
+  parsed_round: null
+  status: pending
+- title: General Compute raises $100 million Series A, countering the neocloud disaster
+    narrative
+  url: https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/
+  source: techcrunch
+  date_found: '2026-10-27'
+  parsed_company: General Compute
+  parsed_amount: $100M
+  parsed_round: Series A
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 10/27/2026'
+  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-27-2026/
+  source: alleywatch
+  date_found: '2026-10-27'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 10/26/26'
   url: https://alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-26-26/
   source: alleywatch
@@ -823,40 +856,6 @@ pending_rounds:
   url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-12-2026/
   source: alleywatch
   date_found: '2026-10-12'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 10/12/26'
-  url: https://alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-12-26/
-  source: alleywatch
-  date_found: '2026-10-12'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Navios Maritime Holdings Inc. Launches Cash Tender Offer at $12.00 Per Share
-    to Purchase Any and All Outstanding Series G and Series H American Depositary
-    Shares
-  url: https://www.globenewswire.com/news-release/2026/10/09/3378138/0/en/navios-maritime-holdings-inc-launches-cash-tender-offer-at-12-00-per-share-to-purchase-any-and-all-outstanding-series-g-and-series-h-american-depositary-shares.html
-  source: globenewswire
-  date_found: '2026-10-09'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell
-  url: https://news.crunchbase.com/venture/q3-2026-active-investors-kept-deal-pace-a16z-insight-sequoia/
-  source: crunchbase
-  date_found: '2026-10-09'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Starfunding: 10 of Europe’s biggest celebrity-backed startup deals'
-  url: https://www.eu-startups.com/2026/10/10-of-europes-biggest-celebrity-backed-startup-deals/
-  source: eu-startups
-  date_found: '2026-10-09'
   parsed_company: null
   parsed_amount: null
   parsed_round: null
