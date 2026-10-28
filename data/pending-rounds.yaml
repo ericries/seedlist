@@ -20,6 +20,52 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From
+    Spam Label'
+  url: https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/
+  source: crunchbase
+  date_found: '2026-10-28'
+  parsed_company: Numeracle
+  parsed_amount: $28M
+  parsed_round: null
+  status: pending
+- title: “My grandfather fell and remained on the floor for an entire day” – Magic
+    Vision raises €600k for monitoring tech
+  url: https://www.eu-startups.com/2026/10/my-grandfather-fell-and-remained-on-the-floor-for-an-entire-day-magic-vision-raises-e600k-for-monitoring-tech/
+  source: eu-startups
+  date_found: '2026-10-28'
+  parsed_company: “My grandfather fell and remained on the floor for an entire day”
+    – Magic Vision
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Poland’s Autofixer raises €3 million in venture debt to scale its online
+    car parts platform
+  url: https://www.eu-startups.com/2026/10/polands-autofixer-raises-e3-million-in-venture-debt-to-scale-its-online-car-parts-platform/
+  source: eu-startups
+  date_found: '2026-10-28'
+  parsed_company: Poland’s Autofixer
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Barcelona’s Artiso raises over €3 million to scale its AI operating system
+    for fashion teams
+  url: https://www.eu-startups.com/2026/10/barcelonas-artiso-raises-over-e3-million-to-scale-its-ai-operating-system-for-fashion-teams/
+  source: eu-startups
+  date_found: '2026-10-28'
+  parsed_company: Barcelona’s Artiso
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Danish BioTech Samplix secures €25 million in first close of financing round
+    to scale antibody discovery
+  url: https://www.eu-startups.com/2026/10/danish-biotech-samplix-secures-e25-million-in-first-close-of-financing-round-to-scale-antibody-discovery/
+  source: eu-startups
+  date_found: '2026-10-28'
+  parsed_company: Danish BioTech Samplix
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China
     Lead Physical AI Push
   url: https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/
@@ -814,49 +860,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-10-13'
   parsed_company: London’s Obsero
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Gaius Capital closes debut fund at €50 million, raises another €6 million
-    via co-investment vehicle
-  url: https://www.eu-startups.com/2026/10/gaius-capital-closes-debut-fund-at-e50-million-raises-another-e6-million-via-co-investment-vehicle/
-  source: eu-startups
-  date_found: '2026-10-12'
-  parsed_company: Gaius Capital
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Profitable French scale-up Wiremind raises €35 million after 12 years of
-    bootstrapping
-  url: https://www.eu-startups.com/2026/10/profitable-french-scale-up-wiremind-raises-e35-million-after-12-years-of-bootstrapping/
-  source: eu-startups
-  date_found: '2026-10-12'
-  parsed_company: Profitable French scale-up Wiremind
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Former Plaud exec raises $26M for AI app that listens to you in the background
-  url: https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/
-  source: techcrunch
-  date_found: '2026-10-12'
-  parsed_company: Former Plaud exec
-  parsed_amount: $26M
-  parsed_round: null
-  status: pending
-- title: HyLight raises €13 million for its autonomous airships inspecting Europe’s
-    critical infrastructure
-  url: https://www.eu-startups.com/2026/10/hylight-raises-e13-million-for-its-autonomous-airships-inspecting-europes-critical-infrastructure/
-  source: eu-startups
-  date_found: '2026-10-12'
-  parsed_company: HyLight
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/12/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-12-2026/
-  source: alleywatch
-  date_found: '2026-10-12'
-  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
