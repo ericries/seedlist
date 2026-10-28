@@ -66,6 +66,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The New York Startup Daily Funding Report: 10/28/2026'
+  url: https://alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-28-2026/
+  source: alleywatch
+  date_found: '2026-10-28'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China
     Lead Physical AI Push
   url: https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/
@@ -851,15 +859,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-10-13'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s Obsero raises €1 million to help brands improve visibility in AI-powered
-    search
-  url: https://www.eu-startups.com/2026/10/londons-obsero-raises-e1-million-to-help-brands-improve-visibility-in-ai-powered-search/
-  source: eu-startups
-  date_found: '2026-10-13'
-  parsed_company: London’s Obsero
   parsed_amount: null
   parsed_round: null
   status: pending
