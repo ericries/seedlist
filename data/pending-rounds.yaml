@@ -63,6 +63,22 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: SuperMe raises $20M for its network of AI expert profiles
+  url: https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/
+  source: techcrunch
+  date_found: '2026-10-29'
+  parsed_company: SuperMe
+  parsed_amount: $20M
+  parsed_round: null
+  status: pending
+- title: The September 20026 US Venture Capital Funding Report
+  url: https://alleywatch.com/2026/10/us-venture-capital-september-2026/
+  source: alleywatch
+  date_found: '2026-10-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From
     Spam Label'
   url: https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/
@@ -841,24 +857,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-10-14'
   parsed_company: Warsaw’s Coding Giants
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the
-    workplace
-  url: https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/
-  source: techcrunch
-  date_found: '2026-10-14'
-  parsed_company: Zenzap
-  parsed_amount: $44M
-  parsed_round: null
-  status: pending
-- title: New unicorn alert! Skeleton Technologies lands multi-million funding to expand
-    AI infrastructure in the US
-  url: https://www.eu-startups.com/2026/10/new-unicorn-alert-estonias-skeleton-technologies-lands-multi-million-funding-to-expand-ai-infrastructure-in-the-us/
-  source: eu-startups
-  date_found: '2026-10-14'
-  parsed_company: New unicorn alert! Skeleton Technologies
   parsed_amount: null
   parsed_round: null
   status: pending
