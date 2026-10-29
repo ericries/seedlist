@@ -20,6 +20,49 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Series B Funding Is Up, But Fewer Deals Are Getting Done
+  url: https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/
+  source: crunchbase
+  date_found: '2026-10-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series B
+  status: pending
+- title: Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups
+  url: https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/
+  source: crunchbase
+  date_found: '2026-10-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: French startup Bleu Robotics secures €5 million to teach humanoid robots
+    new tasks with fewer demonstrations
+  url: https://www.eu-startups.com/2026/10/french-startup-bleu-robotics-secures-e5-million-to-teach-humanoid-robots-new-tasks-with-fewer-demonstrations/
+  source: eu-startups
+  date_found: '2026-10-29'
+  parsed_company: French startup Bleu Robotics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'EXCLUSIVE: Freiburg’s VUSE XR raises €1.2 million to bring AI-powered mixed
+    reality training to enterprises'
+  url: https://www.eu-startups.com/2026/10/exclusive-freiburgs-vuse-xr-raises-e1-2-million-to-bring-ai-powered-mixed-reality-training-to-enterprises/
+  source: eu-startups
+  date_found: '2026-10-29'
+  parsed_company: 'EXCLUSIVE: Freiburg’s VUSE XR'
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Profitable Dutch startup Braid raises €34.13 million to help brands launch
+    their own mobile connectivity
+  url: https://www.eu-startups.com/2026/10/profitable-dutch-startup-braid-raises-e34-12-to-help-brands-launch-their-own-mobile-connectivity/
+  source: eu-startups
+  date_found: '2026-10-29'
+  parsed_company: Profitable Dutch startup Braid
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From
     Spam Label'
   url: https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/
@@ -817,48 +860,5 @@ pending_rounds:
   date_found: '2026-10-14'
   parsed_company: New unicorn alert! Skeleton Technologies
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: FLÆ Robotics raises over €1 million in Seed funding to develop its AI hospitality
-    agent
-  url: https://www.eu-startups.com/2026/10/flae-robotics-raises-over-e1-million-in-seed-funding-to-develop-its-ai-hospitality-agent/
-  source: eu-startups
-  date_found: '2026-10-14'
-  parsed_company: FLÆ Robotics
-  parsed_amount: null
-  parsed_round: Seed
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/14/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-14-2026/
-  source: alleywatch
-  date_found: '2026-10-14'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Vienna-based reebuild raises €3 million to build the AI operating system
-    for construction and real estate
-  url: https://www.eu-startups.com/2026/10/vienna-based-reebuild-raises-e3-million-to-build-the-ai-operating-system-for-construction-and-real-estate/
-  source: eu-startups
-  date_found: '2026-10-13'
-  parsed_company: Vienna-based reebuild
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Paris-based CarbonFarm raises €7 million to tackle methane emissions from
-    rice farming
-  url: https://www.eu-startups.com/2026/10/paris-based-carbonfarm-raises-e7-million-to-tackle-methane-emissions-from-rice-farming/
-  source: eu-startups
-  date_found: '2026-10-13'
-  parsed_company: Paris-based CarbonFarm
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Pluto Security raises $42M as AI gives enterprise security teams a new headache
-  url: https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/
-  source: techcrunch
-  date_found: '2026-10-13'
-  parsed_company: Pluto Security
-  parsed_amount: $42M
   parsed_round: null
   status: pending
