@@ -64,6 +64,24 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The
+    Lineup'
+  url: https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/
+  source: crunchbase
+  date_found: '2026-10-30'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Oct. 26– Oct. 30)
+  url: https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-26-oct-30/
+  source: eu-startups
+  date_found: '2026-10-30'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Series B Funding Is Up, But Fewer Deals Are Getting Done
   url: https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/
   source: crunchbase
@@ -841,21 +859,4 @@ pending_rounds:
   parsed_company: Oslo-based AI-native engineering firm Solvera
   parsed_amount: null
   parsed_round: Pre-Seed
-  status: pending
-- title: Profitable French accounting company Dougs raises €50 million to accelerate
-    AI automation
-  url: https://www.eu-startups.com/2026/10/profitable-french-accounting-company-dougs-raises-e50-million-to-accelerate-ai-automation/
-  source: eu-startups
-  date_found: '2026-10-15'
-  parsed_company: Profitable French accounting company Dougs
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: German AI startup Elevatry secures €3 million to automate procurement workflows
-  url: https://www.eu-startups.com/2026/10/german-ai-startup-elevatry-secures-e3-million-to-automate-procurement-workflows/
-  source: eu-startups
-  date_found: '2026-10-15'
-  parsed_company: German AI startup Elevatry
-  parsed_amount: null
-  parsed_round: null
   status: pending
