@@ -79,6 +79,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The New York Startup Daily Funding Report: 10/29/2026'
+  url: https://alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-29-2026/
+  source: alleywatch
+  date_found: '2026-10-29'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From
     Spam Label'
   url: https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/
@@ -850,13 +858,4 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Series A
-  status: pending
-- title: Warsaw’s Coding Giants secures up to €6 million to expand its STEM education
-    platform beyond Europe
-  url: https://www.eu-startups.com/2026/10/warsaws-coding-giants-secures-up-to-e6-million-to-expand-its-stem-education-platform-beyond-europe/
-  source: eu-startups
-  date_found: '2026-10-14'
-  parsed_company: Warsaw’s Coding Giants
-  parsed_amount: null
-  parsed_round: null
   status: pending
