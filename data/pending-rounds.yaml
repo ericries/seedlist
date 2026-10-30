@@ -20,6 +20,50 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite
+    AI Push'
+  url: https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/
+  source: crunchbase
+  date_found: '2026-10-30'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Madrid’s Talky raises €1.5 million to teach AI the unwritten rules of accounting
+  url: https://www.eu-startups.com/2026/10/madrids-talky-raises-e1-5-million-to-teach-ai-the-unwritten-rules-of-accounting/
+  source: eu-startups
+  date_found: '2026-10-30'
+  parsed_company: Madrid’s Talky
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: PaperFoam secures €2 million loan to scale sustainable packaging made from
+    starch and natural fibres
+  url: https://www.eu-startups.com/2026/10/paperfoam-secures-e2-million-loan-to-scale-sustainable-packaging-made-from-starch-and-natural-fibres/
+  source: eu-startups
+  date_found: '2026-10-30'
+  parsed_company: PaperFoam
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Easol secures €26.78 million Series A extension as it launches AI
+    agents for experience businesses
+  url: https://www.eu-startups.com/2026/10/londons-easol-secures-e26-78-million-series-a-extension-as-it-launches-ai-agents-for-experience-businesses/
+  source: eu-startups
+  date_found: '2026-10-30'
+  parsed_company: London’s Easol
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: 'EXCLUSIVE: London’s Ares Intelligence raises €2.6 million to turn employee
+    insights into AI adoption plans'
+  url: https://www.eu-startups.com/2026/10/exclusive-londons-ares-intelligence-raises-e2-6-million-to-turn-employee-insights-into-ai-adoption-plans/
+  source: eu-startups
+  date_found: '2026-10-30'
+  parsed_company: 'EXCLUSIVE: London’s Ares Intelligence'
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Series B Funding Is Up, But Fewer Deals Are Getting Done
   url: https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/
   source: crunchbase
@@ -814,48 +858,4 @@ pending_rounds:
   parsed_company: German AI startup Elevatry
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/15/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-15-2026/
-  source: alleywatch
-  date_found: '2026-10-15'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Scimplify raises $25M to challenge China’s grip on critical materials with
-    AI
-  url: https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/
-  source: techcrunch
-  date_found: '2026-10-14'
-  parsed_company: Scimplify
-  parsed_amount: $25M
-  parsed_round: null
-  status: pending
-- title: 'Exclusive: Stella & Dot Founder Raises $5M For Her Next Act, AI Marketing
-    Startup Marklo'
-  url: https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/
-  source: crunchbase
-  date_found: '2026-10-14'
-  parsed_company: Stella & Dot Founder
-  parsed_amount: $5M
-  parsed_round: null
-  status: pending
-- title: Helsinki’s Ambio raises €5.1 million to scale its AI-powered recycled plastics
-    procurement platform
-  url: https://www.eu-startups.com/2026/10/helsinkis-ambio-raises-e5-1-million-to-scale-its-ai-powered-recycled-plastics-procurement-platform/
-  source: eu-startups
-  date_found: '2026-10-14'
-  parsed_company: Helsinki’s Ambio
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Spain’s full-stack quantum computing company Qilimanjaro Quantum Tech completes
-    €19.6 million Series A first close
-  url: https://www.eu-startups.com/2026/10/barcelonas-full-stack-quantum-computing-company-qilimanjaro-quantum-tech-completes-e19-6-million-first-close-of-its-series-a/
-  source: eu-startups
-  date_found: '2026-10-14'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series A
   status: pending
