@@ -82,6 +82,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The New York Tech Daily Funding Report: 10/30/2026'
+  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-30-2026/
+  source: alleywatch
+  date_found: '2026-10-30'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Series B Funding Is Up, But Fewer Deals Are Getting Done
   url: https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/
   source: crunchbase
@@ -850,13 +858,4 @@ pending_rounds:
   parsed_company: Vilnius-based Holo
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Oslo-based AI-native engineering firm Solvera raises €5.62 million pre-Seed
-    after July 2026 launch
-  url: https://www.eu-startups.com/2026/10/oslo-based-ai-native-engineering-firm-solvera-raises-e5-62-million-pre-seed-after-july-2026-launch/
-  source: eu-startups
-  date_found: '2026-10-15'
-  parsed_company: Oslo-based AI-native engineering firm Solvera
-  parsed_amount: null
-  parsed_round: Pre-Seed
   status: pending
