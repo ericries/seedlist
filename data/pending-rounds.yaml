@@ -29,6 +29,58 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ
+    Growth
+  url: https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/
+  source: techcrunch
+  date_found: '2026-11-02'
+  parsed_company: Northwood Space
+  parsed_amount: $375M
+  parsed_round: Series C
+  status: pending
+- title: 'More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record
+    Funding Year'
+  url: https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/
+  source: crunchbase
+  date_found: '2026-11-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: The AlleyWatch October 2026 New York Venture Capital Funding Report
+  url: https://alleywatch.com/2026/11/new-york-venture-capital-october-2026/
+  source: alleywatch
+  date_found: '2026-11-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 11/2/2026'
+  url: https://alleywatch.com/2026/11/the-alleywatch-startup-daily-funding-report-11-2-2026/
+  source: alleywatch
+  date_found: '2026-11-02'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Hypersonica secures €100 million to boost sovereign hypersonic deep-strike
+    systems for Europe and its allies
+  url: https://www.eu-startups.com/2026/11/hypersonica-secures-e100-million-to-boost-sovereign-hypersonic-deep-strike-systems-for-europe-and-its-allies/
+  source: eu-startups
+  date_found: '2026-11-02'
+  parsed_company: Hypersonica
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Munich’s Marble Cognition raises €3.35 million to build AI coworkers that
+    learn business processes before automating them
+  url: https://www.eu-startups.com/2026/11/munichs-marble-cognition-raises-e3-35-million-to-build-ai-coworkers-that-learn-business-processes-before-automating-them/
+  source: eu-startups
+  date_found: '2026-11-02'
+  parsed_company: Munich’s Marble Cognition
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 11/2/26'
   url: https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-2-26/
   source: alleywatch
@@ -806,54 +858,5 @@ pending_rounds:
   date_found: '2026-10-16'
   parsed_company: Holyvolt
   parsed_amount: $45M
-  parsed_round: null
-  status: pending
-- title: Fission raised $10M Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-16'
-  parsed_company: Fission
-  parsed_amount: $10M
-  parsed_round: Series A
-  status: pending
-- title: Solvera raised $6.3M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-16'
-  parsed_company: Solvera
-  parsed_amount: $6.3M
-  parsed_round: null
-  status: pending
-- title: Shamrock AI raised $5M seed
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-16'
-  parsed_company: Shamrock AI
-  parsed_amount: $5M
-  parsed_round: Seed
-  status: pending
-- title: Aldaron raised $885M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-16'
-  parsed_company: Aldaron
-  parsed_amount: $885M
-  parsed_round: null
-  status: pending
-- title: u003e raised $103M seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-16'
-  parsed_company: u003e
-  parsed_amount: $103M
-  parsed_round: Seed And Series A
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven
-    Startup Batch'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/
-  source: crunchbase
-  date_found: '2026-10-16'
-  parsed_company: null
-  parsed_amount: null
   parsed_round: null
   status: pending
