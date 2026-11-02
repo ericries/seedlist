@@ -20,6 +20,23 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Porto’s female-led startup Seamoretech secures €1.1 million to turn desalination
+    brine into freshwater and critical minerals
+  url: https://www.eu-startups.com/2026/11/portos-seamoretech-secures-e1-1-million-to-turn-desalination-brine-into-freshwater-and-critical-minerals/
+  source: eu-startups
+  date_found: '2026-11-02'
+  parsed_company: Porto’s female-led startup Seamoretech
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 11/2/26'
+  url: https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-2-26/
+  source: alleywatch
+  date_found: '2026-11-01'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: OpenAI reportedly lowers funding target for new round
   url: https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
   source: techcrunch
@@ -838,23 +855,5 @@ pending_rounds:
   date_found: '2026-10-16'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Nauta secures €60 million first close for sixth fund to back European software
-    and DeepTech startups
-  url: https://www.eu-startups.com/2026/10/nauta-secures-e60-million-first-close-for-sixth-fund-to-back-european-software-and-deeptech-startups/
-  source: eu-startups
-  date_found: '2026-10-15'
-  parsed_company: Nauta
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden
-    Fees And Hard-To-Cancel Subscriptions'
-  url: https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/
-  source: crunchbase
-  date_found: '2026-10-15'
-  parsed_company: Chariot
-  parsed_amount: $10M
   parsed_round: null
   status: pending
