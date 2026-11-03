@@ -81,6 +81,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Trajectory raises $45M to make AI model training accessible to nontechnical
+    experts
+  url: https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/
+  source: techcrunch
+  date_found: '2026-11-02'
+  parsed_company: Trajectory
+  parsed_amount: $45M
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 11/2/26'
   url: https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-2-26/
   source: alleywatch
@@ -851,12 +860,4 @@ pending_rounds:
   parsed_company: Rabot Energy
   parsed_amount: $50M
   parsed_round: Series B
-  status: pending
-- title: Holyvolt raised $45M
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-16'
-  parsed_company: Holyvolt
-  parsed_amount: $45M
-  parsed_round: null
   status: pending
