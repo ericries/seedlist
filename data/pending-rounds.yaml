@@ -20,6 +20,59 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In
+    October
+  url: https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/
+  source: crunchbase
+  date_found: '2026-11-03'
+  parsed_company: null
+  parsed_amount: $59B
+  parsed_round: null
+  status: pending
+- title: Tallia raises €4 million to bring AI-powered research and review to tax firms
+  url: https://www.eu-startups.com/2026/11/london-based-tallia-raises-e4-million-to-bring-ai-powered-research-and-review-to-tax-firms/
+  source: eu-startups
+  date_found: '2026-11-03'
+  parsed_company: Tallia
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Turning pollution into everyday products – Southampton’s Virdi raises €2.6
+    million to transform waste
+  url: https://www.eu-startups.com/2026/11/turning-pollution-into-everyday-products-southamptons-virdi-raises-e2-6-million-to-transform-waste/
+  source: eu-startups
+  date_found: '2026-11-03'
+  parsed_company: Turning pollution into everyday products – Southampton’s Virdi
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Evertrue Capital raises €15 million debut fund backed by British Business
+    Bank and Phoenix Court
+  url: https://www.eu-startups.com/2026/11/4-evertrue-capital-raises-e15-million-debut-fund-backed-by-british-business-bank-and-phoenix-court/
+  source: eu-startups
+  date_found: '2026-11-03'
+  parsed_company: Evertrue Capital
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: FreightTech startup Conlio secures €6.4 million to expand AI-powered financial
+    automation across Europe
+  url: https://www.eu-startups.com/2026/11/freighttech-startup-conlio-secures-e6-4-million-to-expand-ai-powered-financial-automation-across-europe/
+  source: eu-startups
+  date_found: '2026-11-03'
+  parsed_company: FreightTech startup Conlio
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Following Austria’s first commercial satellite launch, Tumbleweed raises
+    €6.9 million to accelerate space missions
+  url: https://www.eu-startups.com/2026/11/following-austrias-first-commercial-satellite-launch-tumbleweed-raises-e6-9-million-to-accelerate-space-missions/
+  source: eu-startups
+  date_found: '2026-11-03'
+  parsed_company: Following Austria’s first commercial satellite launch, Tumbleweed
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Porto’s female-led startup Seamoretech secures €1.1 million to turn desalination
     brine into freshwater and critical minerals
   url: https://www.eu-startups.com/2026/11/portos-seamoretech-secures-e1-1-million-to-turn-desalination-brine-into-freshwater-and-critical-minerals/
@@ -809,55 +862,4 @@ pending_rounds:
   parsed_company: London’s Unravel Health
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Dublin-based LearnUpon secures €44.5 million to scale its agentic learning
-    platform
-  url: https://www.eu-startups.com/2026/10/dublin-based-learnupon-secures-e44-5-million-to-scale-its-agentic-learning-platform/
-  source: eu-startups
-  date_found: '2026-10-16'
-  parsed_company: Dublin-based LearnUpon
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager
-    for SMBs
-  url: https://www.eu-startups.com/2026/10/strasbourg-founded-goodweek-raises-e10-69-million-to-become-the-ai-manager-for-smbs/
-  source: eu-startups
-  date_found: '2026-10-16'
-  parsed_company: Strasbourg-founded Goodweek
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (Oct. 12 – Oct. 16)
-  url: https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-12-oct-16/
-  source: eu-startups
-  date_found: '2026-10-16'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Estuary Biotherapeutics raised $103M seed and Series A
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-16'
-  parsed_company: Estuary Biotherapeutics
-  parsed_amount: $103M
-  parsed_round: Seed And Series A
-  status: pending
-- title: Stand raised $70M Series C
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-16'
-  parsed_company: Stand
-  parsed_amount: $70M
-  parsed_round: Series C
-  status: pending
-- title: Rabot Energy raised $50M Series B
-  url: https://www.axios.com/newsletters/axios-pro-rata
-  source: axios-pro-rata
-  date_found: '2026-10-16'
-  parsed_company: Rabot Energy
-  parsed_amount: $50M
-  parsed_round: Series B
   status: pending
