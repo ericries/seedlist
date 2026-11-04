@@ -29,6 +29,75 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Titan OS raises $46 million to expand its smart TV OS internationally
+  url: https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/
+  source: techcrunch
+  date_found: '2026-11-04'
+  parsed_company: Titan OS
+  parsed_amount: $46M
+  parsed_round: null
+  status: pending
+- title: 'Crunchbase Data: Less Than 2% Of 2026 Venture Funding Went To Post-Election
+    Red States'
+  url: https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/
+  source: crunchbase
+  date_found: '2026-11-04'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: The October 2026 US Venture Capital Funding Report
+  url: https://alleywatch.com/2026/11/us-venture-capital-statistics-october-2026/
+  source: alleywatch
+  date_found: '2026-11-04'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The AlleyWatch Startup Daily Funding Report: 11/4/2026'
+  url: https://alleywatch.com/2026/11/the-alleywatch-startup-daily-funding-report-11-4-2026/
+  source: alleywatch
+  date_found: '2026-11-04'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Return secures €835 million financing to expand battery storage capacity
+    in Germany
+  url: https://www.eu-startups.com/2026/11/return-secures-e835-million-financing-to-expand-battery-storage-capacity-in-germany/
+  source: eu-startups
+  date_found: '2026-11-04'
+  parsed_company: Return
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Copenhagen’s Biograil raises €20 million for oral drug delivery device designed
+    as an alternative to injections
+  url: https://www.eu-startups.com/2026/11/copenhagens-biograil-raises-e20-million-for-oral-drug-delivery-device-designed-as-an-alternative-to-injections/
+  source: eu-startups
+  date_found: '2026-11-04'
+  parsed_company: Copenhagen’s Biograil
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Rotterdam’s Hardt Hyperloop secures multi-million-euro funding to bounce
+    back from bankruptcy and expand into the Americas
+  url: https://www.eu-startups.com/2026/11/rotterdams-hardt-hyperloop-secures-multi-million-euro-funding-to-bounce-back-from-bankruptcy-and-expand-into-the-americas/
+  source: eu-startups
+  date_found: '2026-11-04'
+  parsed_company: Rotterdam’s Hardt Hyperloop
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Leipzig-based JawBuddy raises €818k to help people reduce jaw pain, bruxism,
+    and TMJ-related tension
+  url: https://www.eu-startups.com/2026/11/leipzig-based-jawbuddy-raises-e818k-to-help-people-reduce-jaw-pain-bruxism-and-tmj-related-tension/
+  source: eu-startups
+  date_found: '2026-11-04'
+  parsed_company: Leipzig-based JawBuddy
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In
     October
   url: https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/
@@ -795,71 +864,4 @@ pending_rounds:
   parsed_company: null
   parsed_amount: null
   parsed_round: Series A
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/20/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-20-2026/
-  source: alleywatch
-  date_found: '2026-10-20'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region
-  url: https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/
-  source: crunchbase
-  date_found: '2026-10-19'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Valencia-based Linkener raises €7.5 million to digitise and optimise energy
-    management for businesses
-  url: https://www.eu-startups.com/2026/10/valencia-based-linkener-raises-e7-5-million-to-digitise-and-optimise-energy-management-for-businesses/
-  source: eu-startups
-  date_found: '2026-10-19'
-  parsed_company: Valencia-based Linkener
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Amsterdam’s Huppa raises €1 million to build an operating system for class-based
-    gyms and studios
-  url: https://www.eu-startups.com/2026/10/amsterdams-huppa-raises-e1-million-to-build-an-operating-system-for-class-based-gyms-and-studios/
-  source: eu-startups
-  date_found: '2026-10-19'
-  parsed_company: Amsterdam’s Huppa
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/19/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-19-2026/
-  source: alleywatch
-  date_found: '2026-10-19'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 10/19/26'
-  url: https://alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-19-26/
-  source: alleywatch
-  date_found: '2026-10-18'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Asia’s Startup Funding At Near Record High In Q3, Driven By AI
-  url: https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/
-  source: crunchbase
-  date_found: '2026-10-16'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Norwegian open banking provider Neonomics secures €3.56 million after cutting
-    operating costs by nearly half
-  url: https://www.eu-startups.com/2026/10/norwegian-open-banking-provider-neonomics-secures-e3-56-million-after-cutting-operating-costs-by-nearly-half/
-  source: eu-startups
-  date_found: '2026-10-16'
-  parsed_company: Norwegian open banking provider Neonomics
-  parsed_amount: null
-  parsed_round: null
   status: pending
