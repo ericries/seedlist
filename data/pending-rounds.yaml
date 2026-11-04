@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Manchester-based Crediflow AI secures €1.8 million to automate commercial
+    loan processing
+  url: https://www.eu-startups.com/2026/11/manchester-based-crediflow-ai-secures-e1-8-million-to-automate-commercial-loan-processing/
+  source: eu-startups
+  date_found: '2026-11-04'
+  parsed_company: Manchester-based Crediflow AI
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In
     October
   url: https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/
@@ -851,15 +860,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-10-16'
   parsed_company: Norwegian open banking provider Neonomics
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s Unravel Health raises €2.96 million to help women track hormones
-    at home with a palm-sized lab
-  url: https://www.eu-startups.com/2026/10/londons-unravel-health-raises-e2-96-million-to-help-women-track-hormones-at-home-with-a-palm-sized-lab/
-  source: eu-startups
-  date_found: '2026-10-16'
-  parsed_company: London’s Unravel Health
   parsed_amount: null
   parsed_round: null
   status: pending
