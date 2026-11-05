@@ -20,6 +20,32 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: DDC Enterprise Announces Proposed Public Offering of DDC SAVOR 13.5% Perpetual
+    Preferred Series A Shares
+  url: https://www.globenewswire.com/news-release/2026/11/04/3395953/0/en/ddc-enterprise-announces-proposed-public-offering-of-ddc-savor-13-5-perpetual-preferred-series-a-shares.html
+  source: globenewswire
+  date_found: '2026-11-05'
+  parsed_company: DDC Enterprise
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Osisko Metals Closes C$25 Million Flow-Through Share Financing
+  url: https://www.globenewswire.com/news-release/2026/11/04/3395695/0/en/osisko-metals-closes-c-25-million-flow-through-share-financing.html
+  source: globenewswire
+  date_found: '2026-11-05'
+  parsed_company: Osisko Metals
+  parsed_amount: $25M
+  parsed_round: null
+  status: pending
+- title: Oxford’s FluoRok raises €26.64 million to scale fluorochemical production
+    without hazardous hydrogen fluoride
+  url: https://www.eu-startups.com/2026/11/oxfords-fluorok-raises-e26-64-million-to-scale-fluorochemical-production-without-the-hazardous-hydrogen-fluoride/
+  source: eu-startups
+  date_found: '2026-11-05'
+  parsed_company: Oxford’s FluoRok
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Manchester-based Crediflow AI secures €1.8 million to automate commercial
     loan processing
   url: https://www.eu-startups.com/2026/11/manchester-based-crediflow-ai-secures-e1-8-million-to-automate-commercial-loan-processing/
@@ -837,31 +863,4 @@ pending_rounds:
   parsed_company: London’s Emerald
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: London-based “Surgical Intelligence” company XRlabs raises €7.48 million
-    to bring AI into the operating room
-  url: https://www.eu-startups.com/2026/10/london-based-surgical-intelligence-company-xrlabs-raises-e7-48-million-to-bring-ai-into-the-operating-room/
-  source: eu-startups
-  date_found: '2026-10-20'
-  parsed_company: London-based “Surgical Intelligence” company XRlabs
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Copenhagen’s Plinto raises €2.9 million to help finance teams catch and fix
-    errors with AI agents
-  url: https://www.eu-startups.com/2026/10/copenhagens-plinto-raises-e2-9-million-to-help-finance-teams-catch-and-fix-errors-with-ai-agents/
-  source: eu-startups
-  date_found: '2026-10-20'
-  parsed_company: Copenhagen’s Plinto
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Transport for biological material helps Cellbox raise a €5 million Series
-    A
-  url: https://www.eu-startups.com/2026/10/container-for-biological-material-helps-cellbox-raise-a-e5-million-series-a/
-  source: eu-startups
-  date_found: '2026-10-20'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series A
   status: pending
