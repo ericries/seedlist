@@ -46,6 +46,59 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Harbinger raises $240M after expanding into defense
+  url: https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/
+  source: techcrunch
+  date_found: '2026-11-05'
+  parsed_company: Harbinger
+  parsed_amount: $240M
+  parsed_round: null
+  status: pending
+- title: 'Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling
+    Previous Peak'
+  url: https://news.crunchbase.com/venture/sector-snapshot-2026-construction-robotics-funding-soars-bedrock/
+  source: crunchbase
+  date_found: '2026-11-05'
+  parsed_company: null
+  parsed_amount: $1.6B
+  parsed_round: null
+  status: pending
+- title: Germany’s VÆRIDION raises €124 million to bring electric regional flights
+    closer to reality
+  url: https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/
+  source: eu-startups
+  date_found: '2026-11-05'
+  parsed_company: Germany’s VÆRIDION
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Stockholm’s Green Voltis raises €13.5 million to operate and trade battery
+    storage across European power markets using AI
+  url: https://www.eu-startups.com/2026/11/stockholms-green-voltis-raises-e13-5-million-to-operate-and-trade-battery-storage-across-european-power-markets-using-ai/
+  source: eu-startups
+  date_found: '2026-11-05'
+  parsed_company: Stockholm’s Green Voltis
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Barcelona’s Kabilio raises €10 million to deploy its AI accounting agent
+    as client base nears 500 firms
+  url: https://www.eu-startups.com/2026/11/barcelonas-kabilio-raises-e10-million-to-deploy-its-ai-accounting-agent-as-client-base-nears-500-firms/
+  source: eu-startups
+  date_found: '2026-11-05'
+  parsed_company: Barcelona’s Kabilio
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Sequoia Capital raises around €8.9 billion in new funds and closes London
+    office; most local partners opt to stay in Europe
+  url: https://www.eu-startups.com/2026/11/sequoia-capital-raises-around-e8-9-billion-in-new-funds-and-closes-london-office-most-local-partners-opt-to-stay-in-europe/
+  source: eu-startups
+  date_found: '2026-11-05'
+  parsed_company: Sequoia Capital
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Manchester-based Crediflow AI secures €1.8 million to automate commercial
     loan processing
   url: https://www.eu-startups.com/2026/11/manchester-based-crediflow-ai-secures-e1-8-million-to-automate-commercial-loan-processing/
@@ -811,56 +864,4 @@ pending_rounds:
   parsed_company: Legal AI startup Legora
   parsed_amount: $550M
   parsed_round: Series E
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/21/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-21-2026/
-  source: alleywatch
-  date_found: '2026-10-21'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Otter.ai raises $320 million from General Catalyst’s growth fund for its
-    meeting tool
-  url: https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/
-  source: techcrunch
-  date_found: '2026-10-20'
-  parsed_company: Otter.ai
-  parsed_amount: $320M
-  parsed_round: null
-  status: pending
-- title: Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer
-  url: https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/
-  source: crunchbase
-  date_found: '2026-10-20'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Espoo’s Coherence Quantum raises €2.78 million to build infrastructure for
-    larger quantum computers
-  url: https://www.eu-startups.com/2026/10/espoo-based-coherence-quantum-raises-e2-78-million-to-build-infrastructure-for-larger-quantum-computers/
-  source: eu-startups
-  date_found: '2026-10-20'
-  parsed_company: Espoo’s Coherence Quantum
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: EU-Startups identifies 20 startups among 77 projects selected for €3.4 billion
-    net-zero funding
-  url: https://www.eu-startups.com/2026/10/eu-startups-identifies-20-startups-among-77-projects-selected-for-e3-4-billion-net-zero-funding/
-  source: eu-startups
-  date_found: '2026-10-20'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s Emerald secures €1.66 million to scale its preventive healthcare
-    platform
-  url: https://www.eu-startups.com/2026/10/londons-emerald-secures-e1-66-million-to-scale-its-preventive-healthcare-platform/
-  source: eu-startups
-  date_found: '2026-10-20'
-  parsed_company: London’s Emerald
-  parsed_amount: null
-  parsed_round: null
   status: pending
