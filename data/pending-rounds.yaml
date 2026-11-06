@@ -99,6 +99,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The New York Startup Daily Funding Report: 11/5/2026'
+  url: https://alleywatch.com/2026/11/the-new-york-startup-daily-funding-report-11-5-2026/
+  source: alleywatch
+  date_found: '2026-11-05'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Manchester-based Crediflow AI secures €1.8 million to automate commercial
     loan processing
   url: https://www.eu-startups.com/2026/11/manchester-based-crediflow-ai-secures-e1-8-million-to-automate-commercial-loan-processing/
@@ -856,12 +864,4 @@ pending_rounds:
   parsed_company: Year-old AI lab Flapping Airplanes
   parsed_amount: $1B
   parsed_round: null
-  status: pending
-- title: Legal AI startup Legora raises $550M Series E at $8.8B valuation
-  url: https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/
-  source: techcrunch
-  date_found: '2026-10-21'
-  parsed_company: Legal AI startup Legora
-  parsed_amount: $550M
-  parsed_round: Series E
   status: pending
