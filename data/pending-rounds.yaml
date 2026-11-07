@@ -37,6 +37,22 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation
+  url: https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+  source: techcrunch
+  date_found: '2026-11-06'
+  parsed_company: OpenAI reportedly
+  parsed_amount: $11B
+  parsed_round: null
+  status: pending
+- title: 'The New York Tech Daily Funding Report: 11/6/2026'
+  url: https://alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-6-2026/
+  source: alleywatch
+  date_found: '2026-11-06'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: DDC Enterprise Announces Proposed Public Offering of DDC SAVOR 13.5% Perpetual
     Preferred Series A Shares
   url: https://www.globenewswire.com/news-release/2026/11/04/3395953/0/en/ddc-enterprise-announces-proposed-public-offering-of-ddc-savor-13-5-perpetual-preferred-series-a-shares.html
@@ -848,21 +864,4 @@ pending_rounds:
   parsed_company: Berlin-based YGO
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Former international boxer’s LegalTech startup EstateMin raises €1 million
-    to scale in the US
-  url: https://www.eu-startups.com/2026/10/former-international-boxers-legaltech-startup-estatemin-raises-e1-million-to-scale-in-the-us/
-  source: eu-startups
-  date_found: '2026-10-21'
-  parsed_company: Former international boxer’s LegalTech startup EstateMin
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Blacksmith hits unicorn valuation after Sequoia leads Series C
-  url: https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/
-  source: techcrunch
-  date_found: '2026-10-21'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series C
   status: pending
