@@ -53,6 +53,68 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Weekly funding round-up! All of the European startup funding rounds we tracked
+    this week (Nov. 02– Nov. 06)
+  url: https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-02-nov-06/
+  source: eu-startups
+  date_found: '2026-11-06'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: DefenceTech unicorn TEKEVER strengthens Nordic ambitions amid €520 million
+    funding round
+  url: https://www.eu-startups.com/2026/11/defencetech-unicorn-tekever-strengthens-nordic-ambitions-amid-e520-million-funding-round/
+  source: eu-startups
+  date_found: '2026-11-06'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'OPINION: Europe’s quantum startups need more than research funding'
+  url: https://www.eu-startups.com/2026/11/opinion-europes-quantum-startups-need-more-than-research-funding/
+  source: eu-startups
+  date_found: '2026-11-06'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: With a new equity round in sight, Candi Solar secures €44 million for solar
+    projects in India
+  url: https://www.eu-startups.com/2026/11/with-a-new-equity-round-in-sight-candi-solar-secures-e44-million-for-solar-projects-in-india/
+  source: eu-startups
+  date_found: '2026-11-06'
+  parsed_company: With a new equity round in sight, Candi Solar
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Bioliberty raises €2.95 million to bring its AI-powered rehabilitation technology
+    into the home
+  url: https://www.eu-startups.com/2026/11/bioliberty-raises-e2-95-million-to-bring-its-ai-powered-rehabilitation-technology-into-the-home/
+  source: eu-startups
+  date_found: '2026-11-06'
+  parsed_company: Bioliberty
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Oxford spin-out Alethio Therapeutics raises €80.46 million Series A to advance
+    targeted blood cancer therapies
+  url: https://www.eu-startups.com/2026/11/oxford-spin-out-alethio-therapeutics-raises-e80-46-million-series-a-to-advance-targeted-blood-cancer-therapies/
+  source: eu-startups
+  date_found: '2026-11-06'
+  parsed_company: Oxford spin-out Alethio Therapeutics
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Helsinki’s Vensum Power secures €9 million to scale its software-defined
+    power conversion platform
+  url: https://www.eu-startups.com/2026/11/helsinkis-vensum-power-secures-e9-million-to-scale-its-software-defined-power-conversion-platform/
+  source: eu-startups
+  date_found: '2026-11-06'
+  parsed_company: Helsinki’s Vensum Power
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: DDC Enterprise Announces Proposed Public Offering of DDC SAVOR 13.5% Perpetual
     Preferred Series A Shares
   url: https://www.globenewswire.com/news-release/2026/11/04/3395953/0/en/ddc-enterprise-announces-proposed-public-offering-of-ddc-savor-13-5-perpetual-preferred-series-a-shares.html
@@ -802,66 +864,5 @@ pending_rounds:
   date_found: '2026-10-22'
   parsed_company: DeepSeek reportedly
   parsed_amount: $15B
-  parsed_round: null
-  status: pending
-- title: 'Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For
-    Those Small Policies Sold At Checkout'
-  url: https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/
-  source: crunchbase
-  date_found: '2026-10-22'
-  parsed_company: Slingshot
-  parsed_amount: $27M
-  parsed_round: Seed
-  status: pending
-- title: Amsterdam’s Indurex raises €7 million to strengthen cybersecurity and safety
-    across cyber-physical systems
-  url: https://www.eu-startups.com/2026/10/amsterdams-indurex-raises-e7-million-to-strengthen-cybersecurity-and-safety-across-cyber-physical-systems/
-  source: eu-startups
-  date_found: '2026-10-22'
-  parsed_company: Amsterdam’s Indurex
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Warhound raises $200M to engineer war dogs and arm them with Anduril gear
-  url: https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/
-  source: techcrunch
-  date_found: '2026-10-22'
-  parsed_company: Warhound
-  parsed_amount: $200M
-  parsed_round: null
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/22/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-22-2026/
-  source: alleywatch
-  date_found: '2026-10-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Eindhoven-based Photon Bridge raises €10 million to build optical engines
-    for AI and telecom
-  url: https://www.eu-startups.com/2026/10/eindhoven-based-photon-bridge-raises-e10-million-to-build-optical-engines-for-ai-and-telecom/
-  source: eu-startups
-  date_found: '2026-10-21'
-  parsed_company: Eindhoven-based Photon Bridge
-  parsed_amount: null
-  parsed_round: Bridge
-  status: pending
-- title: Britain’s Skyfly raises €8.91 million to bring its two-seat Axe eVTOL to
-    market and develop Longbow for defence
-  url: https://www.eu-startups.com/2026/10/britains-skyfly-raises-e8-91-million-to-bring-its-two-seat-axe-evtol-to-market-and-develop-longbow-for-defence/
-  source: eu-startups
-  date_found: '2026-10-21'
-  parsed_company: Britain’s Skyfly
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Berlin-based YGO raises €8 million to make travel inventory bookable through
-    AI agents
-  url: https://www.eu-startups.com/2026/10/berlin-based-ygo-raises-e8-million-to-make-travel-inventory-bookable-through-ai-agents/
-  source: eu-startups
-  date_found: '2026-10-21'
-  parsed_company: Berlin-based YGO
-  parsed_amount: null
   parsed_round: null
   status: pending
