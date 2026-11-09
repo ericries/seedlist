@@ -20,6 +20,42 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making
+    The Cut'
+  url: https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/
+  source: crunchbase
+  date_found: '2026-11-09'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: Series A
+  status: pending
+- title: Jülich-based SRTD Biotech secures €31.5 million to develop precision mRNA
+    therapies targeting diseased cells
+  url: https://www.eu-startups.com/2026/11/julich-based-srtd-biotech-secures-e31-5-million-to-develop-precision-mrna-therapies-targeting-diseased-cells/
+  source: eu-startups
+  date_found: '2026-11-09'
+  parsed_company: Jülich-based SRTD Biotech
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: France’s Calogena secures €40 million EU grant to build its first commercial
+    nuclear reactor
+  url: https://www.eu-startups.com/2026/11/frances-calogena-secures-e40-million-eu-grant-to-build-its-first-commercial-nuclear-reactor/
+  source: eu-startups
+  date_found: '2026-11-09'
+  parsed_company: France’s Calogena
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Marble Imaging raises €6 million to build Germany’s first commercial very-high-resolution
+    satellite constellation
+  url: https://www.eu-startups.com/2026/11/marble-imaging-raises-e6-million-to-build-germanys-first-commercial-very-high-resolution-satellite-constellation/
+  source: eu-startups
+  date_found: '2026-11-09'
+  parsed_company: Marble Imaging
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Weekly Notable Startup Funding Report: 11/9/26'
   url: https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/
   source: alleywatch
@@ -831,38 +867,5 @@ pending_rounds:
   date_found: '2026-10-22'
   parsed_company: null
   parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Lisbon’s Beyond Vision raises over €28 million to scale AI drones for civilian
-    and defence markets
-  url: https://www.eu-startups.com/2026/10/lisbons-beyond-vision-raises-over-e28-million-to-scale-ai-drones-for-civilian-and-defence-markets/
-  source: eu-startups
-  date_found: '2026-10-22'
-  parsed_company: Lisbon’s Beyond Vision
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Is the UK leading Europe’s startup funding race? Yes, but there’s a catch
-  url: https://www.eu-startups.com/2026/10/is-the-uk-leading-europes-startup-funding-race-yes-but-theres-a-catch/
-  source: eu-startups
-  date_found: '2026-10-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Investors break down how founders can raise a Series A today
-  url: https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/
-  source: techcrunch
-  date_found: '2026-10-22'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: Nirva raises $33M for a pendant that only listens to you
-  url: https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/
-  source: techcrunch
-  date_found: '2026-10-22'
-  parsed_company: Nirva
-  parsed_amount: $33M
   parsed_round: null
   status: pending
