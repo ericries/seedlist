@@ -28,6 +28,14 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: 'The New York Tech Daily Funding Report: 11/10/2026'
+  url: https://alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-10-2026/
+  source: alleywatch
+  date_found: '2026-11-10'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making
     The Cut'
   url: https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/
@@ -854,15 +862,6 @@ pending_rounds:
     this week (Oct. 19 – Oct. 23)
   url: https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-19-oct-23/
   source: eu-startups
-  date_found: '2026-10-23'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large
-    Financings'
-  url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/
-  source: crunchbase
   date_found: '2026-10-23'
   parsed_company: null
   parsed_amount: null
