@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The New York Tech Daily Funding Report: 11/9/2026'
+  url: https://alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-9-2026/
+  source: alleywatch
+  date_found: '2026-11-10'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making
     The Cut'
   url: https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/
@@ -856,15 +864,6 @@ pending_rounds:
   url: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/
   source: crunchbase
   date_found: '2026-10-23'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In
-    Years
-  url: https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/
-  source: crunchbase
-  date_found: '2026-10-22'
   parsed_company: null
   parsed_amount: null
   parsed_round: null
