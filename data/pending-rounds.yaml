@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent
+    Payments, Landlord Financing'
+  url: https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/
+  source: crunchbase
+  date_found: '2026-11-11'
+  parsed_company: Nubank Alum
+  parsed_amount: $14M
+  parsed_round: null
+  status: pending
 - title: 'The New York Tech Daily Funding Report: 11/9/2026'
   url: https://alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-9-2026/
   source: alleywatch
@@ -855,15 +864,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-10-23'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Portuguese EdTech Intuitivo raises €1.35 million to ease teachers’ workload
-    and expand into Brazil
-  url: https://www.eu-startups.com/2026/10/portuguese-edtech-intuitivo-raises-e1-35-million-to-ease-teachers-workload-and-expand-into-brazil/
-  source: eu-startups
-  date_found: '2026-10-23'
-  parsed_company: Portuguese EdTech Intuitivo
   parsed_amount: null
   parsed_round: null
   status: pending
