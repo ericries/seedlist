@@ -20,6 +20,15 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are
+    Still On A Roll'
+  url: https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/
+  source: crunchbase
+  date_found: '2026-11-13'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The New York Tech Daily Funding Report: 11/12/2026'
   url: https://alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-12-2026/
   source: alleywatch
@@ -854,15 +863,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-10-26'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: WealthTech startup Nevis secures €62 million to automate financial advisory
-    workflows with AI
-  url: https://www.eu-startups.com/2026/10/wealthtech-startup-nevis-secures-e62-million-to-automate-financial-advisory-workflows-with-ai/
-  source: eu-startups
-  date_found: '2026-10-26'
-  parsed_company: WealthTech startup Nevis
   parsed_amount: null
   parsed_round: null
   status: pending
