@@ -20,6 +20,22 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Live Oak Bancshares, Inc. Closes Depositary Share Offering
+  url: https://www.globenewswire.com/news-release/2026/11/12/3402271/36594/en/live-oak-bancshares-inc-closes-depositary-share-offering.html
+  source: globenewswire
+  date_found: '2026-11-15'
+  parsed_company: Live Oak Bancshares, Inc.
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 11/16/26'
+  url: https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/
+  source: alleywatch
+  date_found: '2026-11-15'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are
     Still On A Roll'
   url: https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/
@@ -849,22 +865,4 @@ pending_rounds:
   parsed_company: Finland’s Volare
   parsed_amount: null
   parsed_round: null
-  status: pending
-- title: Lausanne’s Sonexos raises €5.4 million to tackle low-frequency noise from
-    fans, compressors and even data centres
-  url: https://www.eu-startups.com/2026/10/lausannes-sonexos-raises-e5-4-million-to-tackle-low-frequency-noise-from-fans-compressors-and-even-data-centres/
-  source: eu-startups
-  date_found: '2026-10-26'
-  parsed_company: Lausanne’s Sonexos
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Frankfurt’s QuoIntelligence lands backing from ex-German finance minister
-    Christian Lindner months after €7.3 million Series A
-  url: https://www.eu-startups.com/2026/10/frankfurts-quointelligence-secures-backing-from-ex-german-finance-minister-christian-lindner-months-after-e7-3-million-series-a/
-  source: eu-startups
-  date_found: '2026-10-26'
-  parsed_company: Frankfurt’s QuoIntelligence
-  parsed_amount: null
-  parsed_round: Series A
   status: pending
