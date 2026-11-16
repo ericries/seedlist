@@ -20,6 +20,14 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: 'The New York Tech Daily Funding Report: 11/16/2026'
+  url: https://alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-16-2026/
+  source: alleywatch
+  date_found: '2026-11-16'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Live Oak Bancshares, Inc. Closes Depositary Share Offering
   url: https://www.globenewswire.com/news-release/2026/11/12/3402271/36594/en/live-oak-bancshares-inc-closes-depositary-share-offering.html
   source: globenewswire
@@ -854,15 +862,6 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-10-26'
   parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Italy’s Z_One Fund secures over €35 million at first close to back AI and
-    UrbanTech startups
-  url: https://www.eu-startups.com/2026/10/italys-z_one-fund-secures-over-e35-million-at-first-close-to-back-ai-and-urbantech-startups/
-  source: eu-startups
-  date_found: '2026-10-26'
-  parsed_company: Italy’s Z_One Fund
   parsed_amount: null
   parsed_round: null
   status: pending
