@@ -36,6 +36,15 @@ pending_rounds:
   parsed_amount: null
   parsed_round: null
   status: pending
+- title: Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI
+    sensor market
+  url: https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/
+  source: techcrunch
+  date_found: '2026-11-15'
+  parsed_company: Indian chip startup Bharat Semi
+  parsed_amount: $24M
+  parsed_round: Seed
+  status: pending
 - title: 'The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are
     Still On A Roll'
   url: https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/
@@ -854,15 +863,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-10-26'
   parsed_company: Italy’s Z_One Fund
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Finland’s Volare raises €7.1 million and opens 5,000-tonne insect protein
-    factory
-  url: https://www.eu-startups.com/2026/10/finlands-volare-raises-e7-1-million-and-opens-5000-tonne-insect-protein-factory/
-  source: eu-startups
-  date_found: '2026-10-26'
-  parsed_company: Finland’s Volare
   parsed_amount: null
   parsed_round: null
   status: pending
