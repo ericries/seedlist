@@ -20,6 +20,64 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Model ML raises $250M to automate investment banking grunt work
+  url: https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/
+  source: techcrunch
+  date_found: '2026-11-17'
+  parsed_company: Model ML
+  parsed_amount: $250M
+  parsed_round: null
+  status: pending
+- title: Pedestal AI raises $4.7 million to agentify the supply chain
+  url: https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/
+  source: techcrunch
+  date_found: '2026-11-17'
+  parsed_company: Pedestal AI
+  parsed_amount: $4.7M
+  parsed_round: null
+  status: pending
+- title: Voyage Labs raises $12 million for a specialized AI travel assistant
+  url: https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/
+  source: techcrunch
+  date_found: '2026-11-17'
+  parsed_company: Voyage Labs
+  parsed_amount: $12M
+  parsed_round: null
+  status: pending
+- title: Isomorphic Labs raises $5B as it looks to take drug candidates to clinical
+    trials
+  url: https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/
+  source: techcrunch
+  date_found: '2026-11-17'
+  parsed_company: Isomorphic Labs
+  parsed_amount: $5B
+  parsed_round: null
+  status: pending
+- title: Science Corporation’s brain tech is worth $3.5 billion after new funding
+  url: https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/
+  source: techcrunch
+  date_found: '2026-11-17'
+  parsed_company: null
+  parsed_amount: $3.5B
+  parsed_round: null
+  status: pending
+- title: Genesis AI raises $500M to deploy glove-wearing robots
+  url: https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/
+  source: techcrunch
+  date_found: '2026-11-17'
+  parsed_company: Genesis AI
+  parsed_amount: $500M
+  parsed_round: null
+  status: pending
+- title: Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories
+    And Warehouses
+  url: https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/
+  source: crunchbase
+  date_found: '2026-11-17'
+  parsed_company: Genesis AI
+  parsed_amount: $500M
+  parsed_round: null
+  status: pending
 - title: 'The New York Tech Daily Funding Report: 11/16/2026'
   url: https://alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-16-2026/
   source: alleywatch
@@ -803,65 +861,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-10-27'
   parsed_company: Finnish DefenceTech Arctic RAVN
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Paris-based Naboo acquires UK meetings and events specialist pro-ven following
-    €58.7 million Series B
-  url: https://www.eu-startups.com/2026/10/paris-based-naboo-acquires-uk-meetings-and-events-specialist-pro-ven-following-e58-7-million-series-b/
-  source: eu-startups
-  date_found: '2026-10-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: Series B
-  status: pending
-- title: 'EXCLUSIVE: Copenhagen-based PropTech Cortas lands €1.47 million in a pre-Seed
-    round led by PSV Tech'
-  url: https://www.eu-startups.com/2026/10/exclusive-copenhagen-based-proptech-cortas-lands-e1-47-million-in-a-pre-seed-round-led-by-psv-tech/
-  source: eu-startups
-  date_found: '2026-10-27'
-  parsed_company: 'EXCLUSIVE: Copenhagen-based PropTech Cortas'
-  parsed_amount: null
-  parsed_round: Pre-Seed
-  status: pending
-- title: Re:Build, which spun out Slate Auto, raises $2.1B
-  url: https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/
-  source: techcrunch
-  date_found: '2026-10-27'
-  parsed_company: Re:Build, which spun out Slate Auto,
-  parsed_amount: $2.1B
-  parsed_round: null
-  status: pending
-- title: Disruptive raises $10B fund to make big bets on at least 10 companies
-  url: https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/
-  source: techcrunch
-  date_found: '2026-10-27'
-  parsed_company: Disruptive
-  parsed_amount: $10B
-  parsed_round: null
-  status: pending
-- title: General Compute raises $100 million Series A, countering the neocloud disaster
-    narrative
-  url: https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/
-  source: techcrunch
-  date_found: '2026-10-27'
-  parsed_company: General Compute
-  parsed_amount: $100M
-  parsed_round: Series A
-  status: pending
-- title: 'The AlleyWatch Startup Daily Funding Report: 10/27/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-27-2026/
-  source: alleywatch
-  date_found: '2026-10-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Weekly Notable Startup Funding Report: 10/26/26'
-  url: https://alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-26-26/
-  source: alleywatch
-  date_found: '2026-10-26'
-  parsed_company: null
   parsed_amount: null
   parsed_round: null
   status: pending
