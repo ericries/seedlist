@@ -78,6 +78,14 @@ pending_rounds:
   parsed_amount: $500M
   parsed_round: null
   status: pending
+- title: 'The New York Tech Daily Funding Report: 11/17/2026'
+  url: https://alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-17-2026/
+  source: alleywatch
+  date_found: '2026-11-17'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The New York Tech Daily Funding Report: 11/16/2026'
   url: https://alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-16-2026/
   source: alleywatch
@@ -852,15 +860,6 @@ pending_rounds:
   source: eu-startups
   date_found: '2026-10-27'
   parsed_company: British SME lender Lovey
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Finnish DefenceTech Arctic RAVN secures €2.5 million in loan commitments
-    before its first product launch
-  url: https://www.eu-startups.com/2026/10/finnish-defencetech-arctic-ravn-secures-e2-5-million-in-loan-commitments-before-its-first-product-launch/
-  source: eu-startups
-  date_found: '2026-10-27'
-  parsed_company: Finnish DefenceTech Arctic RAVN
   parsed_amount: null
   parsed_round: null
   status: pending
