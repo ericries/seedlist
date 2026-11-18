@@ -20,6 +20,67 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: India’s Humyn Labs raises $47M to feed US robotics companies the data they
+    need
+  url: https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/
+  source: techcrunch
+  date_found: '2026-11-18'
+  parsed_company: India’s Humyn Labs
+  parsed_amount: $47M
+  parsed_round: null
+  status: pending
+- title: 'The New York Tech Daily Funding Report: 11/18/2026'
+  url: https://alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-18-2026/
+  source: alleywatch
+  date_found: '2026-11-18'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents
+  url: https://www.eu-startups.com/2026/11/irelands-disseqt-ai-raises-e7-3-million-to-safely-deploy-ai-agents/
+  source: eu-startups
+  date_found: '2026-11-18'
+  parsed_company: Ireland’s Disseqt AI
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Bulgaria’s first unicorn Payhawk raises €255.14 million at €1.82 billion
+    valuation in Goldman Sachs-led Series C round
+  url: https://www.eu-startups.com/2026/11/bulgarias-first-unicorn-payhawk-raises-e255-14-million-at-e1-82-billion-valuation-to-build-a-global-finance-os-for-the-ai-era/
+  source: eu-startups
+  date_found: '2026-11-18'
+  parsed_company: Bulgaria’s first unicorn Payhawk
+  parsed_amount: null
+  parsed_round: Series C
+  status: pending
+- title: French frugal AI infrastructure startup MountAIn raises €7.3 million to bring
+    advanced AI to sub-€9 chips
+  url: https://www.eu-startups.com/2026/11/french-frugal-ai-infrastructure-startup-mountain-raises-e7-3-million-to-bring-advanced-ai-to-sub-e9-chips/
+  source: eu-startups
+  date_found: '2026-11-18'
+  parsed_company: French frugal AI infrastructure startup MountAIn
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Meatable co-founder’s new firm Iconic raises €9.1 million to build AI operating
+    system for large capital projects
+  url: https://www.eu-startups.com/2026/11/meatable-co-founders-new-firm-iconic-raises-e9-1-million-to-build-ai-operating-system-for-large-capital-projects/
+  source: eu-startups
+  date_found: '2026-11-18'
+  parsed_company: Meatable co-founder’s new firm Iconic
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London’s Perry AI raises €2 million to bring AI-powered legal intelligence
+    to private capital funds
+  url: https://www.eu-startups.com/2026/11/londons-perry-ai-raises-e2-million-to-bring-ai-powered-legal-intelligence-to-private-capital-funds/
+  source: eu-startups
+  date_found: '2026-11-18'
+  parsed_company: London’s Perry AI
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: Model ML raises $250M to automate investment banking grunt work
   url: https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/
   source: techcrunch
@@ -83,6 +144,15 @@ pending_rounds:
   source: alleywatch
   date_found: '2026-11-17'
   parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: AI drug discovery giant Isomorphic Labs raises €4.5 billion in blockbuster
+    funding round
+  url: https://www.eu-startups.com/2026/11/ai-drug-discovery-giant-isomorphic-labs-raises-e4-5-billion-in-blockbuster-funding-round/
+  source: eu-startups
+  date_found: '2026-11-17'
+  parsed_company: AI drug discovery giant Isomorphic Labs
   parsed_amount: null
   parsed_round: null
   status: pending
@@ -791,75 +861,5 @@ pending_rounds:
   date_found: '2026-10-28'
   parsed_company: Numeracle
   parsed_amount: $28M
-  parsed_round: null
-  status: pending
-- title: “My grandfather fell and remained on the floor for an entire day” – Magic
-    Vision raises €600k for monitoring tech
-  url: https://www.eu-startups.com/2026/10/my-grandfather-fell-and-remained-on-the-floor-for-an-entire-day-magic-vision-raises-e600k-for-monitoring-tech/
-  source: eu-startups
-  date_found: '2026-10-28'
-  parsed_company: “My grandfather fell and remained on the floor for an entire day”
-    – Magic Vision
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Poland’s Autofixer raises €3 million in venture debt to scale its online
-    car parts platform
-  url: https://www.eu-startups.com/2026/10/polands-autofixer-raises-e3-million-in-venture-debt-to-scale-its-online-car-parts-platform/
-  source: eu-startups
-  date_found: '2026-10-28'
-  parsed_company: Poland’s Autofixer
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Barcelona’s Artiso raises over €3 million to scale its AI operating system
-    for fashion teams
-  url: https://www.eu-startups.com/2026/10/barcelonas-artiso-raises-over-e3-million-to-scale-its-ai-operating-system-for-fashion-teams/
-  source: eu-startups
-  date_found: '2026-10-28'
-  parsed_company: Barcelona’s Artiso
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Danish BioTech Samplix secures €25 million in first close of financing round
-    to scale antibody discovery
-  url: https://www.eu-startups.com/2026/10/danish-biotech-samplix-secures-e25-million-in-first-close-of-financing-round-to-scale-antibody-discovery/
-  source: eu-startups
-  date_found: '2026-10-28'
-  parsed_company: Danish BioTech Samplix
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The New York Startup Daily Funding Report: 10/28/2026'
-  url: https://alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-28-2026/
-  source: alleywatch
-  date_found: '2026-10-28'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Upwind raises $400M after walking away from Datadog acquisition offer
-  url: https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/
-  source: techcrunch
-  date_found: '2026-10-28'
-  parsed_company: Upwind
-  parsed_amount: $400M
-  parsed_round: null
-  status: pending
-- title: Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China
-    Lead Physical AI Push
-  url: https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/
-  source: crunchbase
-  date_found: '2026-10-27'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: British SME lender Lovey secures up to €298 million to support UK companies
-  url: https://www.eu-startups.com/2026/10/british-sme-lender-lovey-secures-up-to-e298-million-to-support-uk-companies/
-  source: eu-startups
-  date_found: '2026-10-27'
-  parsed_company: British SME lender Lovey
-  parsed_amount: null
   parsed_round: null
   status: pending
