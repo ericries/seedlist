@@ -29,6 +29,14 @@ pending_rounds:
   parsed_amount: $48.5M
   parsed_round: null
   status: pending
+- title: 'The New York Tech Daily Funding Report: 11/19/2026'
+  url: https://alleywatch.com/2026/11/the-new-york-tech-daily-funding-report-11-19-2026/
+  source: alleywatch
+  date_found: '2026-11-19'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: India’s Humyn Labs raises $47M to feed US robotics companies the data they
     need
   url: https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/
@@ -849,14 +857,6 @@ pending_rounds:
   status: pending
 - title: The September 20026 US Venture Capital Funding Report
   url: https://alleywatch.com/2026/10/us-venture-capital-september-2026/
-  source: alleywatch
-  date_found: '2026-10-29'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The New York Startup Daily Funding Report: 10/29/2026'
-  url: https://alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-29-2026/
   source: alleywatch
   date_found: '2026-10-29'
   parsed_company: null
