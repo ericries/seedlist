@@ -20,6 +20,86 @@ pending_rounds:
   status: skipped
   skip_reason: public company equity offering and project financing, not a startup
     round
+- title: Supertake raises $20M to let AI agents turn your market predictions into
+    stock portfolios
+  url: https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/
+  source: techcrunch
+  date_found: '2026-11-23'
+  parsed_company: Supertake
+  parsed_amount: $20M
+  parsed_round: null
+  status: pending
+- title: Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase
+    Estimates
+  url: https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/
+  source: crunchbase
+  date_found: '2026-11-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: 'The Weekly Notable Startup Funding Report: 11/23/26'
+  url: https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-23-26/
+  source: alleywatch
+  date_found: '2026-11-23'
+  parsed_company: null
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: German startup Playbook secures €8 million to help pharma companies deploy
+    AI safely
+  url: https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/
+  source: eu-startups
+  date_found: '2026-11-23'
+  parsed_company: German startup Playbook
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: UK-based Agon raises €63.98 million at €411.3 million valuation to build
+    Europe’s sovereign defence AI infrastructure
+  url: https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/
+  source: eu-startups
+  date_found: '2026-11-23'
+  parsed_company: UK-based Agon
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Theseus Robotics secures €455k to put robots to work in supermarkets across
+    Europe and US
+  url: https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/
+  source: eu-startups
+  date_found: '2026-11-23'
+  parsed_company: Theseus Robotics
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: London-based Acorda raises €2.15 million to help banks detect payment scams
+    before money moves
+  url: https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/
+  source: eu-startups
+  date_found: '2026-11-23'
+  parsed_company: London-based Acorda
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Swiss startup coprod raises €5.45 million to solve “integration hell” in
+    robotics and physical AI hardware
+  url: https://www.eu-startups.com/2026/11/swiss-startup-coprod-raises-e5-45-million-to-solve-integration-hell-in-robotics-and-physical-ai-hardware/
+  source: eu-startups
+  date_found: '2026-11-23'
+  parsed_company: Swiss startup coprod
+  parsed_amount: null
+  parsed_round: null
+  status: pending
+- title: Paris-based HoloSolis raises over €15 million to advance €1 billion solar
+    gigafactory in France
+  url: https://www.eu-startups.com/2026/11/paris-based-holosolis-raises-over-e15-million-to-advance-e1-billion-solar-gigafactory-in-france/
+  source: eu-startups
+  date_found: '2026-11-23'
+  parsed_company: Paris-based HoloSolis
+  parsed_amount: null
+  parsed_round: null
+  status: pending
 - title: 'The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed
     By Big Deals For AI, Fintech, Biotech And More'
   url: https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/
@@ -785,84 +865,6 @@ pending_rounds:
   url: https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-2-26/
   source: alleywatch
   date_found: '2026-11-01'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: OpenAI reportedly lowers funding target for new round
-  url: https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
-  source: techcrunch
-  date_found: '2026-10-31'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite
-    AI Push'
-  url: https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/
-  source: crunchbase
-  date_found: '2026-10-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Madrid’s Talky raises €1.5 million to teach AI the unwritten rules of accounting
-  url: https://www.eu-startups.com/2026/10/madrids-talky-raises-e1-5-million-to-teach-ai-the-unwritten-rules-of-accounting/
-  source: eu-startups
-  date_found: '2026-10-30'
-  parsed_company: Madrid’s Talky
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: PaperFoam secures €2 million loan to scale sustainable packaging made from
-    starch and natural fibres
-  url: https://www.eu-startups.com/2026/10/paperfoam-secures-e2-million-loan-to-scale-sustainable-packaging-made-from-starch-and-natural-fibres/
-  source: eu-startups
-  date_found: '2026-10-30'
-  parsed_company: PaperFoam
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: London’s Easol secures €26.78 million Series A extension as it launches AI
-    agents for experience businesses
-  url: https://www.eu-startups.com/2026/10/londons-easol-secures-e26-78-million-series-a-extension-as-it-launches-ai-agents-for-experience-businesses/
-  source: eu-startups
-  date_found: '2026-10-30'
-  parsed_company: London’s Easol
-  parsed_amount: null
-  parsed_round: Series A
-  status: pending
-- title: 'EXCLUSIVE: London’s Ares Intelligence raises €2.6 million to turn employee
-    insights into AI adoption plans'
-  url: https://www.eu-startups.com/2026/10/exclusive-londons-ares-intelligence-raises-e2-6-million-to-turn-employee-insights-into-ai-adoption-plans/
-  source: eu-startups
-  date_found: '2026-10-30'
-  parsed_company: 'EXCLUSIVE: London’s Ares Intelligence'
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The
-    Lineup'
-  url: https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/
-  source: crunchbase
-  date_found: '2026-10-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: Weekly funding round-up! All of the European startup funding rounds we tracked
-    this week (Oct. 26– Oct. 30)
-  url: https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-26-oct-30/
-  source: eu-startups
-  date_found: '2026-10-30'
-  parsed_company: null
-  parsed_amount: null
-  parsed_round: null
-  status: pending
-- title: 'The New York Tech Daily Funding Report: 10/30/2026'
-  url: https://alleywatch.com/2026/10/the-alleywatch-startup-daily-funding-report-10-30-2026/
-  source: alleywatch
-  date_found: '2026-10-30'
   parsed_company: null
   parsed_amount: null
   parsed_round: null
